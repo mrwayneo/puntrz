@@ -16,6 +16,7 @@ gem "github-pages", "~> 215", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem 'jemoji'
 #  gem "terminal-table", ">= 2.0.0"
 #  gem "jekyll-sass-converter", ">= 2.1.0"
 end
