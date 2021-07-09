@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Tips"
+date:   2021-07-09 00:38:48 +1000
+categories: jekyll update
+---
+
+### Todays Tips!
+
+:white_check_mark: Green tick box
+:-1: Thumbs down
+:+1: Thumbs up
+
+:boom: 13:42  ROCK  R3  7 Bustedup  (1.45) 46s1131s 24% 35%
