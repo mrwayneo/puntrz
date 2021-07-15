@@ -1,25 +1,26 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-07-14 00:33:46 +1000   
+date: 2021-07-15 02:24:46 +1000   
 categories: benny   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |      2 |      0 |    -20   | 0    | -1    |
-| This Month     |     22 |      5 |    -27   | 0.23 | -0.12 |
-| This Year      |    361 |     85 |    589.6 | 0.24 |  0.16 |
-| Since Feb 2020 |   1150 |    279 |   4038.3 | 0.24 |  0.35 |
+| This Week      |      3 |      0 |    -30   | 0    | -1    |
+| This Month     |     23 |      5 |    -37   | 0.22 | -0.16 |
+| This Year      |    362 |     85 |    579.6 | 0.23 |  0.16 |
+| Since Feb 2020 |   1151 |    279 |   4028.3 | 0.24 |  0.35 |
 
 ### Benny Last 100 CGTs.  
 Running profit since February 2020.  
 
 | finish            | date       | event                   | runner              |   odds |   return |   profit |
 |:------------------|:-----------|:------------------------|:--------------------|-------:|---------:|---------:|
-| 15:35             | 2021-07-13 | albury R6               | 5 Autobahn          |   3.5  |    -10   |   4038.3 |
-| 14:48             | 2021-07-13 | cairns R3               | 9 Victory Dance     |  31    |    -10   |   4048.3 |
+| 16:49             | 2021-07-14 | darwin R5               | 2 Lionel            |   4.4  |    -10   |   4028.3 |
+| 6                 | 2021-07-13 | albury R6               | 5 Autobahn          |   3.5  |    -10   |   4038.3 |
+| 6                 | 2021-07-13 | cairns R3               | 9 Victory Dance     |  31    |    -10   |   4048.3 |
 | :2nd_place_medal: | 2021-07-11 | sunshine-coast R8       | 6 Charleise         |   6.5  |    -10   |   4058.3 |
 | 4                 | 2021-07-11 | devonport-synthetic R10 | 4 Sanction King     |   4    |    -10   |   4068.3 |
 | :2nd_place_medal: | 2021-07-11 | devonport-synthetic R8  | 4 Michbar           |   2.8  |    -10   |   4078.3 |
@@ -117,7 +118,6 @@ Running profit since February 2020.
 | 8                 | 2021-05-22 | doomben R5              | 11 Seentoomany      |  26.5  |    -10   |   3327.3 |
 | :boom:            | 2021-05-22 | rosehill R5             | 4 Mirra Vision      |  13    |    120   |   3337.3 |
 | 7                 | 2021-05-22 | doomben R4              | 5 Rocketing By      |   3.9  |    -10   |   3217.3 |
-| 7                 | 2021-05-21 | mackay R6               | 5 Genoa             |   7    |    -10   |   3227.3 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -127,7 +127,7 @@ Running profit since February 2020.
 | Sunday    |    133 |     40 |    338.7 | 0.3  |  0.25 |
 | Thursday  |     67 |     17 |    297   | 0.25 |  0.44 |
 | Tuesday   |     78 |     22 |     62.5 | 0.28 |  0.08 |
-| Wednesday |    136 |     37 |    138.6 | 0.27 |  0.1  |
+| Wednesday |    137 |     37 |    128.6 | 0.27 |  0.09 |
 
 | week      |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -207,7 +207,7 @@ Running profit since February 2020.
 | 2021-WK25 |     11 |      0 |   -110   | 0    | -1    |
 | 2021-WK26 |     10 |      3 |    -21.5 | 0.3  | -0.22 |
 | 2021-WK27 |     11 |      2 |      4.5 | 0.18 |  0.04 |
-| 2021-WK28 |      2 |      0 |    -20   | 0    | -1    |
+| 2021-WK28 |      3 |      0 |    -30   | 0    | -1    |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -228,7 +228,7 @@ Running profit since February 2020.
 | 2021-04 |     64 |      8 |   -308   | 0.12 | -0.48 |
 | 2021-05 |     75 |     19 |    453.5 | 0.25 |  0.6  |
 | 2021-06 |     48 |     13 |    602.5 | 0.27 |  1.26 |
-| 2021-07 |     22 |      5 |    -27   | 0.23 | -0.12 |
+| 2021-07 |     23 |      5 |    -37   | 0.22 | -0.16 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -250,7 +250,7 @@ Running profit since February 2020.
 | scone                      |      3 |      1 |     45   | 0.33 |  1.5  |
 | oakbank                    |      2 |      1 |     28   | 0.5  |  1.4  |
 | eagle-farm                 |     47 |      9 |    534.5 | 0.19 |  1.14 |
-| darwin                     |     58 |     16 |    628.5 | 0.28 |  1.08 |
+| darwin                     |     59 |     16 |    618.5 | 0.27 |  1.05 |
 | mackay                     |     26 |      9 |    273   | 0.35 |  1.05 |
 | newbury                    |      1 |      1 |     10   | 1    |  1    |
 | casterton                  |      3 |      1 |     26   | 0.33 |  0.87 |
@@ -366,7 +366,7 @@ Running profit since February 2020.
 | location                     |   runs |   wins |   profit |   sr |   roi |
 |:-----------------------------|-------:|-------:|---------:|-----:|------:|
 | queensland                   |    331 |     74 |   2032.3 | 0.22 |  0.61 |
-| northern-territory           |     94 |     25 |    557   | 0.27 |  0.59 |
+| northern-territory           |     95 |     25 |    547   | 0.26 |  0.58 |
 | tasmania                     |     61 |     23 |    294.9 | 0.38 |  0.48 |
 | victoria                     |    199 |     47 |    657.5 | 0.24 |  0.33 |
 | south-australia              |    102 |     28 |    264.6 | 0.27 |  0.26 |

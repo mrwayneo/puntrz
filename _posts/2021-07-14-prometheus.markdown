@@ -1,56 +1,52 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-07-14 00:34:50 +1000   
+date: 2021-07-15 02:30:41 +1000   
 categories: prometheus   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |     39 |      2 |   -331   | 0.05 | -0.85 |
-| This Month     |    138 |     37 |   -432   | 0.27 | -0.31 |
-| This Year      |   1716 |    567 |  -2764.7 | 0.33 | -0.16 |
-| Since Feb 2020 |   4591 |   1577 |  -6250.6 | 0.34 | -0.14 |
+| This Week      |     35 |      3 |   -259   | 0.09 | -0.74 |
+| This Month     |    134 |     38 |   -360   | 0.28 | -0.27 |
+| This Year      |   1712 |    568 |  -2692.7 | 0.33 | -0.16 |
+| Since Feb 2020 |   4587 |   1578 |  -6178.6 | 0.34 | -0.13 |
 
 ### Prometheus Last 100 CGTs.  
 Running profit since February 2020.  
 
 | finish            | date       | event                 | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:----------------------|:---------------------|-------:|---------:|---------:|
-| 23:45             | 2021-07-13 | beverley R3           | 4 Frisky             |   3.1  |    -10   |  -6250.6 |
-| 23:25             | 2021-07-13 | fairview R6           | 14 Rock The Cot      | nan    |    -10   |  -6240.6 |
-| 23:25             | 2021-07-13 | fairview R6           | 11 Supa Mufti        | nan    |    -10   |  -6230.6 |
-| 23:25             | 2021-07-13 | fairview R6           | 10 Curious           | nan    |    -10   |  -6220.6 |
-| 23:25             | 2021-07-13 | fairview R6           | 8 Bank Robber        | nan    |    -10   |  -6210.6 |
-| 23:25             | 2021-07-13 | fairview R6           | 7 Winter Vacation    | nan    |    -10   |  -6200.6 |
-| 23:25             | 2021-07-13 | fairview R6           | 2 Lion King          | nan    |    -10   |  -6190.6 |
-| 23:25             | 2021-07-13 | fairview R6           | 1 Blonde Vision      | nan    |    -10   |  -6180.6 |
-| 22:50             | 2021-07-13 | fairview R5           | 10 In Full Bloom     | nan    |    -10   |  -6170.6 |
-| 22:50             | 2021-07-13 | fairview R5           | 9 Chainsaw           | nan    |    -10   |  -6160.6 |
-| 22:50             | 2021-07-13 | fairview R5           | 7 Tevye              | nan    |    -10   |  -6150.6 |
-| 22:50             | 2021-07-13 | fairview R5           | 1 Beneficiary        | nan    |    -10   |  -6140.6 |
-| 22:15             | 2021-07-13 | fairview R4           | 7 Enrique            | nan    |    -10   |  -6130.6 |
-| 22:15             | 2021-07-13 | fairview R4           | 6 Forest Of Green    | nan    |    -10   |  -6120.6 |
-| 22:15             | 2021-07-13 | fairview R4           | 5 Dogliotti          | nan    |    -10   |  -6110.6 |
-| 22:15             | 2021-07-13 | fairview R4           | 4 Winging It         | nan    |    -10   |  -6100.6 |
-| 22:15             | 2021-07-13 | fairview R4           | 1 Action Packed      | nan    |    -10   |  -6090.6 |
-| 21:40             | 2021-07-13 | fairview R3           | 3 Sovereign Supreme  | nan    |    -10   |  -6080.6 |
-| 21:05             | 2021-07-13 | fairview R2           | 7 Just Judy          | nan    |    -10   |  -6070.6 |
-| 21:05             | 2021-07-13 | fairview R2           | 2 Lucy Belle         | nan    |    -10   |  -6060.6 |
-| 20:30             | 2021-07-13 | fairview R1           | 8 Grace Lightning    | nan    |    -10   |  -6050.6 |
-| 20:30             | 2021-07-13 | fairview R1           | 6 Buttercup          | nan    |    -10   |  -6040.6 |
-| 20:30             | 2021-07-13 | fairview R1           | 1 Aquaholic          | nan    |    -10   |  -6030.6 |
-| 16:10             | 2021-07-13 | albury R7             | 3 Packer's Bond      |   2.8  |    -10   |  -6020.6 |
-| 16:00             | 2021-07-13 | ballarat-synthetic R7 | 3 Tanner             |   3.2  |    -10   |  -6010.6 |
-| 14:55             | 2021-07-13 | albury R5             | 4 Kimmy Be Cool      |   3.3  |    -10   |  -6000.6 |
-| 13:40             | 2021-07-13 | albury R3             | 9 Lady Of Fortune    |   3.25 |    -10   |  -5990.6 |
-| 13:30             | 2021-07-13 | ballarat-synthetic R2 | 6 Lady Cumberland    |   2.4  |    -10   |  -5980.6 |
-| 13:25             | 2021-07-13 | ballina R2            | 7 Fi Fi No Fuss      | nan    |    -10   |  -5970.6 |
-| 13:25             | 2021-07-13 | ballina R2            | 5 Righteousness      |   3    |    -10   |  -5960.6 |
-| 13:00             | 2021-07-13 | ballarat-synthetic R1 | 2 Akka's Meteor      |   2.15 |    -10   |  -5950.6 |
-| 12:50             | 2021-07-13 | ballina R1            | 3 Rose Bouquet       |   2.6  |    -10   |  -5940.6 |
-| 12:37             | 2021-07-13 | sunshine-coast R1     | 1 Elegant Drover     |   2    |    -10   |  -5930.6 |
+| 23:25             | 2021-07-14 | greyville R6          | 11 Sniper Shot       | nan    |    -10   |  -6178.6 |
+| 23:25             | 2021-07-14 | greyville R6          | 10 Palace Assembly   | nan    |    -10   |  -6168.6 |
+| 23:25             | 2021-07-14 | greyville R6          | 9 Goliath Heron      | nan    |    -10   |  -6158.6 |
+| 23:25             | 2021-07-14 | greyville R6          | 7 Di Mazzio          | nan    |    -10   |  -6148.6 |
+| 23:25             | 2021-07-14 | greyville R6          | 6 Petra              | nan    |    -10   |  -6138.6 |
+| 23:25             | 2021-07-14 | greyville R6          | 5 Coldhardcash       | nan    |    -10   |  -6128.6 |
+| 23:25             | 2021-07-14 | greyville R6          | 3 Phinda Mzala       | nan    |    -10   |  -6118.6 |
+| 23:25             | 2021-07-14 | greyville R6          | 1 Brazil Nut         | nan    |    -10   |  -6108.6 |
+| 23:20             | 2021-07-14 | catterick R1          | 1 Instinction        |   2.7  |    -10   |  -6098.6 |
+| 22:50             | 2021-07-14 | greyville R5          | 8 Duc D'Orange       | nan    |    -10   |  -6088.6 |
+| 22:50             | 2021-07-14 | greyville R5          | 6 Gentleman's Wager  | nan    |    -10   |  -6078.6 |
+| 22:50             | 2021-07-14 | greyville R5          | 2 Ibutho             | nan    |    -10   |  -6068.6 |
+| 22:50             | 2021-07-14 | greyville R5          | 1 Dark Moon Rising   | nan    |    -10   |  -6058.6 |
+| 22:10             | 2021-07-14 | greyville R4          | 12 Catch The Tune    | nan    |    -10   |  -6048.6 |
+| 22:10             | 2021-07-14 | greyville R4          | 1 Executive Decision | nan    |    -10   |  -6038.6 |
+| 21:35             | 2021-07-14 | greyville R3          | 3 Just The Wind      | nan    |    -10   |  -6028.6 |
+| 21:00             | 2021-07-14 | greyville R2          | 3 Diedi              | nan    |    -10   |  -6018.6 |
+| 14:53             | 2021-07-14 | doomben R5            | 6 Acrobatic          |   2.2  |    -10   |  -6008.6 |
+| 13:50             | 2021-07-14 | murray-bdge R4        | 5 Chrysos            |   2.8  |    -10   |  -5998.6 |
+| 13:08             | 2021-07-14 | doomben R2            | 6 Queen's Pier       |   2.45 |    -10   |  -5988.6 |
+| 12:40             | 2021-07-14 | murray-bdge R2        | 2 Mr One Eleven      |   2.75 |    -10   |  -5978.6 |
+| 09:57             | 2021-07-14 | cambridge R2          | 1 Hit The Road Jack  |   3.2  |    -10   |  -5968.6 |
+| 4                 | 2021-07-13 | albury R7             | 3 Packer's Bond      |   2.8  |    -10   |  -5958.6 |
+| :boom:            | 2021-07-13 | ballarat-synthetic R7 | 3 Tanner             |   3.2  |     22   |  -5948.6 |
+| 4                 | 2021-07-13 | albury R5             | 4 Kimmy Be Cool      |   3.3  |    -10   |  -5970.6 |
+| 4                 | 2021-07-13 | albury R3             | 9 Lady Of Fortune    |   3.25 |    -10   |  -5960.6 |
+| 4                 | 2021-07-13 | ballarat-synthetic R2 | 6 Lady Cumberland    |   2.4  |    -10   |  -5950.6 |
+| 4                 | 2021-07-13 | ballarat-synthetic R1 | 2 Akka's Meteor      |   2.15 |    -10   |  -5940.6 |
+| :2nd_place_medal: | 2021-07-13 | sunshine-coast R1     | 1 Elegant Drover     |   2    |    -10   |  -5930.6 |
 | :boom:            | 2021-07-12 | ayr R1                | 4 Last Crusader      |   2.6  |     16   |  -5920.6 |
 | 4                 | 2021-07-12 | murtoa R6             | 4 Gaga's Belle       |   3.3  |    -10   |  -5936.6 |
 | :boom:            | 2021-07-12 | tamworth R3           | 4 Full Coverage      |   3.3  |     23   |  -5926.6 |
@@ -118,6 +114,10 @@ Running profit since February 2020.
 | 6                 | 2021-07-05 | warracknabeal R1      | 11 Mingora           |   2.1  |    -10   |  -5904.1 |
 | :2nd_place_medal: | 2021-07-04 | ayr R4                | 3 Coviglia           |   3.3  |    -10   |  -5894.1 |
 | 99                | 2021-07-04 | chelmsford-city R2    | 2 Shouldering        |   3.25 |    -10   |  -5884.1 |
+| :boom:            | 2021-07-04 | limerick R3           | 8 Baseman            |   3    |     20   |  -5874.1 |
+| :3rd_place_medal: | 2021-07-04 | limerick R1           | 11 Dynakite          |   2.35 |    -10   |  -5894.1 |
+| :boom:            | 2021-07-04 | kalgoorlie R5         | 8 Sunsphere          |   2.35 |     13.5 |  -5884.1 |
+| :3rd_place_medal: | 2021-07-04 | kalgoorlie R4         | 1 One For The Road   |   1.7  |    -10   |  -5897.6 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -126,8 +126,8 @@ Running profit since February 2020.
 | Saturday  |   1104 |    381 |  -1371.7 | 0.35 | -0.12 |
 | Sunday    |    856 |    293 |  -1109.5 | 0.34 | -0.13 |
 | Thursday  |    521 |    171 |  -1023   | 0.33 | -0.2  |
-| Tuesday   |    540 |    163 |  -1357   | 0.3  | -0.25 |
-| Wednesday |    560 |    223 |      4.9 | 0.4  |  0    |
+| Tuesday   |    514 |    164 |  -1065   | 0.32 | -0.21 |
+| Wednesday |    582 |    223 |   -215.1 | 0.38 | -0.04 |
 
 | week      |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -207,7 +207,7 @@ Running profit since February 2020.
 | 2021-WK25 |     54 |     15 |   -160.1 | 0.28 | -0.3  |
 | 2021-WK26 |     48 |     15 |    -96.5 | 0.31 | -0.2  |
 | 2021-WK27 |     59 |     22 |    -25.5 | 0.37 | -0.04 |
-| 2021-WK28 |     39 |      2 |   -331   | 0.05 | -0.85 |
+| 2021-WK28 |     35 |      3 |   -259   | 0.09 | -0.74 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -228,7 +228,7 @@ Running profit since February 2020.
 | 2021-04 |    309 |    105 |   -512.8 | 0.34 | -0.17 |
 | 2021-05 |    277 |     91 |   -446.4 | 0.33 | -0.16 |
 | 2021-06 |    212 |     74 |   -321.2 | 0.35 | -0.15 |
-| 2021-07 |    138 |     37 |   -432   | 0.27 | -0.31 |
+| 2021-07 |    134 |     38 |   -360   | 0.28 | -0.27 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -244,7 +244,6 @@ Running profit since February 2020.
 | forbes                     |      2 |      2 |     34.5 | 1    |  1.72 |
 | kurow                      |      2 |      2 |     30.6 | 1    |  1.53 |
 | chepstow                   |      2 |      2 |     25   | 1    |  1.25 |
-| cambridge                  |      1 |      1 |     12.5 | 1    |  1.25 |
 | taupo                      |      1 |      1 |     11.5 | 1    |  1.15 |
 | leopardstown               |      5 |      4 |     56.2 | 0.8  |  1.12 |
 | gore                       |      3 |      2 |     31.5 | 0.67 |  1.05 |
@@ -255,6 +254,7 @@ Running profit since February 2020.
 | downpatrick                |      3 |      2 |     25.5 | 0.67 |  0.85 |
 | inverell                   |      1 |      1 |      7.6 | 1    |  0.76 |
 | warren                     |      5 |      3 |     34   | 0.6  |  0.68 |
+| ballina                    |     22 |     13 |    141   | 0.59 |  0.64 |
 | balaklava                  |     15 |      9 |     79.5 | 0.6  |  0.53 |
 | nowra                      |     19 |     11 |     98.5 | 0.58 |  0.52 |
 | flemington                 |     10 |      6 |     50.6 | 0.6  |  0.51 |
@@ -264,7 +264,6 @@ Running profit since February 2020.
 | charleville                |      2 |      1 |      9   | 0.5  |  0.45 |
 | salisbury                  |      2 |      1 |      9   | 0.5  |  0.45 |
 | pakenham-synthetic         |     30 |     18 |    130.5 | 0.6  |  0.44 |
-| ballina                    |     25 |     13 |    111   | 0.52 |  0.44 |
 | southwell                  |      7 |      4 |     30.2 | 0.57 |  0.43 |
 | alice-springs              |     33 |     17 |    139   | 0.52 |  0.42 |
 | caulfield                  |     11 |      6 |     43.5 | 0.55 |  0.4  |
@@ -277,13 +276,13 @@ Running profit since February 2020.
 | belmont                    |     37 |     19 |    109   | 0.51 |  0.29 |
 | gawler                     |     25 |     13 |     69   | 0.52 |  0.28 |
 | coonabarabran              |      6 |      3 |     16.5 | 0.5  |  0.28 |
+| ballarat-synthetic         |     50 |     24 |    135.5 | 0.48 |  0.27 |
+| fairview                   |     48 |     24 |    130.5 | 0.5  |  0.27 |
 | wimmera%40warracknabeal    |      8 |      4 |     20.5 | 0.5  |  0.26 |
 | dubbo                      |     28 |     14 |     70   | 0.5  |  0.25 |
 | warwick                    |     14 |      7 |     30.6 | 0.5  |  0.22 |
 | arawa-park                 |     10 |      5 |     22   | 0.5  |  0.22 |
 | wingatui                   |      5 |      2 |     11   | 0.4  |  0.22 |
-| ballarat-synthetic         |     50 |     23 |    103.5 | 0.46 |  0.21 |
-| doomben                    |     40 |     19 |     80   | 0.48 |  0.2  |
 | tuncurry                   |     13 |      6 |     26.5 | 0.46 |  0.2  |
 | emerald                    |     12 |      7 |     24.6 | 0.58 |  0.2  |
 | parkes                     |      2 |      1 |      3.5 | 0.5  |  0.18 |
@@ -292,11 +291,13 @@ Running profit since February 2020.
 | scottsville                |      6 |      3 |     10   | 0.5  |  0.17 |
 | riccarton-park             |     13 |      5 |     20.5 | 0.38 |  0.16 |
 | makaraka                   |      4 |      2 |      6   | 0.5  |  0.15 |
+| doomben                    |     42 |     19 |     60   | 0.45 |  0.14 |
 | wimmera%40ararat           |     10 |      4 |     14   | 0.4  |  0.14 |
 | edenhope                   |      5 |      2 |      7   | 0.4  |  0.14 |
 | esperance-bay              |     16 |      6 |     20   | 0.38 |  0.12 |
 | otaki                      |     10 |      5 |     11.5 | 0.5  |  0.12 |
 | mildura                    |      6 |      3 |      7.5 | 0.5  |  0.12 |
+| cambridge                  |      2 |      1 |      2.5 | 0.5  |  0.12 |
 | horsham                    |      2 |      1 |      2.5 | 0.5  |  0.12 |
 | roscommon                  |      2 |      1 |      2.5 | 0.5  |  0.12 |
 | tatura                     |      9 |      4 |     10   | 0.44 |  0.11 |
@@ -329,7 +330,6 @@ Running profit since February 2020.
 | wolverhampton              |      3 |      1 |      0   | 0.33 |  0    |
 | wangaratta                 |     35 |     13 |     -0.5 | 0.37 | -0    |
 | gatton                     |     34 |     14 |     -4.5 | 0.41 | -0.01 |
-| murray-bdge                |     41 |     17 |     -5.5 | 0.41 | -0.01 |
 | wanganui                   |      8 |      3 |     -1.5 | 0.38 | -0.02 |
 | port-lincoln               |     22 |      7 |     -4.5 | 0.32 | -0.02 |
 | yarmouth                   |     11 |      4 |     -3.1 | 0.36 | -0.03 |
@@ -340,6 +340,7 @@ Running profit since February 2020.
 | port-augusta               |     37 |     15 |    -15.5 | 0.41 | -0.04 |
 | leicester                  |     11 |      4 |     -6   | 0.36 | -0.05 |
 | sha-tin                    |     28 |      9 |    -13.5 | 0.32 | -0.05 |
+| murray-bdge                |     43 |     17 |    -25.5 | 0.4  | -0.06 |
 | pinjarra                   |     47 |     17 |    -28.6 | 0.36 | -0.06 |
 | ascot                      |     64 |     24 |    -36   | 0.38 | -0.06 |
 | bairnsdale                 |     15 |      5 |    -12   | 0.33 | -0.08 |
@@ -354,14 +355,12 @@ Running profit since February 2020.
 | spendthrift-australia-park |     22 |      7 |    -23.5 | 0.32 | -0.11 |
 | kilcoy                     |     24 |      8 |    -27.3 | 0.33 | -0.11 |
 | benalla                    |     37 |     12 |    -41   | 0.32 | -0.11 |
-| greyville                  |     40 |     12 |    -45.3 | 0.3  | -0.11 |
 | grafton                    |     42 |     14 |    -46   | 0.33 | -0.11 |
 | tauranga                   |     10 |      3 |    -11.5 | 0.3  | -0.12 |
 | orange                     |     16 |      6 |    -19.8 | 0.38 | -0.12 |
 | moe                        |     21 |      7 |    -26   | 0.33 | -0.12 |
 | bathurst                   |     22 |      8 |    -27   | 0.36 | -0.12 |
 | kempton                    |      3 |      1 |     -3.8 | 0.33 | -0.13 |
-| fairview                   |     70 |     24 |    -89.5 | 0.34 | -0.13 |
 | armidale                   |     22 |      8 |    -31.5 | 0.36 | -0.14 |
 | wagga                      |     28 |      9 |    -39.5 | 0.32 | -0.14 |
 | turffontein                |     42 |     15 |    -58.5 | 0.36 | -0.14 |
@@ -426,6 +425,7 @@ Running profit since February 2020.
 | singapore                  |     25 |      7 |    -86.5 | 0.28 | -0.35 |
 | bordertown                 |     25 |      6 |    -87   | 0.24 | -0.35 |
 | bowen                      |      3 |      1 |    -11   | 0.33 | -0.37 |
+| greyville                  |     56 |     12 |   -205.3 | 0.21 | -0.37 |
 | gilgandra                  |      4 |      1 |    -15   | 0.25 | -0.38 |
 | roma                       |      4 |      1 |    -15   | 0.25 | -0.38 |
 | te-aroha                   |      8 |      2 |    -31   | 0.25 | -0.39 |
@@ -433,6 +433,7 @@ Running profit since February 2020.
 | port-hedland               |      5 |      1 |    -20   | 0.2  | -0.4  |
 | sapphire-coast             |     36 |      8 |   -150   | 0.22 | -0.42 |
 | gunnedah                   |     14 |      3 |    -60   | 0.21 | -0.43 |
+| beverley                   |      4 |      1 |    -17.5 | 0.25 | -0.44 |
 | kingscote                  |      4 |      1 |    -17.5 | 0.25 | -0.44 |
 | wimmera%40horsham          |      4 |      1 |    -17.5 | 0.25 | -0.44 |
 | wagga-riverside            |      5 |      1 |    -22   | 0.2  | -0.44 |
@@ -452,18 +453,17 @@ Running profit since February 2020.
 | happy-valley               |      9 |      2 |    -46.5 | 0.22 | -0.52 |
 | launceston                 |     20 |      4 |   -106   | 0.2  | -0.53 |
 | ruakaka                    |      5 |      1 |    -27   | 0.2  | -0.54 |
-| beverley                   |      5 |      1 |    -27.5 | 0.2  | -0.55 |
 | port-macquarie             |     41 |      8 |   -224   | 0.2  | -0.55 |
 | mount-barker               |     13 |      2 |    -78.5 | 0.15 | -0.6  |
 | windsor                    |      5 |      1 |    -31.5 | 0.2  | -0.63 |
 | mount-gambier              |      4 |      1 |    -25.5 | 0.25 | -0.64 |
 | leeton                     |      8 |      1 |    -52   | 0.12 | -0.65 |
 | naracoorte                 |     65 |     10 |   -436.7 | 0.15 | -0.67 |
-| catterick                  |      7 |      1 |    -50   | 0.14 | -0.71 |
 | durbanville                |      9 |      1 |    -64   | 0.11 | -0.71 |
 | beaudesert                 |     30 |      5 |   -213.6 | 0.17 | -0.71 |
 | carnarvon                  |     18 |      2 |   -129   | 0.11 | -0.72 |
 | penola                     |     11 |      1 |    -80   | 0.09 | -0.73 |
+| catterick                  |      8 |      1 |    -60   | 0.12 | -0.75 |
 | colac                      |      6 |      1 |    -45.5 | 0.17 | -0.76 |
 | fairyhouse                 |      6 |      1 |    -45.9 | 0.17 | -0.76 |
 | pukekohe-park              |     11 |      1 |    -83.5 | 0.09 | -0.76 |
@@ -520,17 +520,17 @@ Running profit since February 2020.
 
 | location                     |   runs |   wins |   profit |   sr |   roi |
 |:-----------------------------|-------:|-------:|---------:|-----:|------:|
+| south-africa                 |    220 |     79 |   -147.2 | 0.36 | -0.07 |
 | ireland                      |     66 |     25 |    -56.4 | 0.38 | -0.09 |
-| south-africa                 |    226 |     79 |   -207.2 | 0.35 | -0.09 |
-| queensland                   |    829 |    307 |   -771.1 | 0.37 | -0.09 |
+| queensland                   |    831 |    307 |   -791.1 | 0.37 | -0.1  |
+| victoria                     |    876 |    300 |   -997.8 | 0.34 | -0.11 |
 | northern-territory           |     76 |     26 |    -87.5 | 0.34 | -0.12 |
-| victoria                     |    876 |    299 |  -1029.8 | 0.34 | -0.12 |
-| new-south-wales              |   1089 |    378 |  -1522.1 | 0.35 | -0.14 |
+| new-south-wales              |   1086 |    378 |  -1492.1 | 0.35 | -0.14 |
 | united-kingdom               |    225 |     76 |   -329.3 | 0.34 | -0.15 |
 | western-australia            |    445 |    149 |   -657.9 | 0.33 | -0.15 |
 | hong-kong                    |     37 |     11 |    -60   | 0.3  | -0.16 |
-| south-australia              |    357 |    120 |   -570.7 | 0.34 | -0.16 |
+| south-australia              |    359 |    120 |   -590.7 | 0.33 | -0.16 |
 | australian-capital-territory |     33 |     12 |    -65.5 | 0.36 | -0.2  |
-| new-zealand                  |    232 |     72 |   -484.1 | 0.31 | -0.21 |
+| new-zealand                  |    233 |     72 |   -494.1 | 0.31 | -0.21 |
 | singapore                    |     25 |      7 |    -86.5 | 0.28 | -0.35 |
 | tasmania                     |     75 |     16 |   -322.5 | 0.21 | -0.43 |

@@ -1,27 +1,31 @@
 ---   
 layout: post   
 title: "Bender"   
-date: 2021-07-14 00:34:08 +1000   
+date: 2021-07-15 02:26:13 +1000   
 categories: bender   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |      6 |      0 |    -60   | 0    | -1    |
-| This Month     |     55 |     17 |     -3.5 | 0.31 | -0.01 |
-| This Year      |    720 |    204 |   -797.8 | 0.28 | -0.11 |
-| Since Feb 2020 |   1950 |    564 |  -1298.8 | 0.29 | -0.07 |
+| This Week      |     10 |      2 |    -35.5 | 0.2  | -0.36 |
+| This Month     |     59 |     19 |     21   | 0.32 |  0.04 |
+| This Year      |    724 |    206 |   -773.3 | 0.28 | -0.11 |
+| Since Feb 2020 |   1954 |    566 |  -1274.3 | 0.29 | -0.07 |
 
 ### Bender Last 100 CGTs.  
 Running profit since February 2020.  
 
 | finish            | date       | event                   | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:------------------------|:---------------------|-------:|---------:|---------:|
-| 16:40             | 2021-07-13 | cairns R6               | 4 Tutelage           |   3.55 |    -10   |  -1298.8 |
-| 16:40             | 2021-07-13 | cairns R6               | 3 Brilliant Mind     |   2.8  |    -10   |  -1288.8 |
-| 16:04             | 2021-07-13 | cairns R5               | 11 Musical Girl      |  14.2  |    -10   |  -1278.8 |
-| 13:47             | 2021-07-13 | sunshine-coast R3       | 4 Boblee             |   2.9  |    -10   |  -1268.8 |
+| 17:25             | 2021-07-14 | darwin R6               | 8 Faolan             |   7.5  |    -10   |  -1274.3 |
+| 16:49             | 2021-07-14 | darwin R5               | 2 Lionel             |   4.4  |    -10   |  -1264.3 |
+| 14:29             | 2021-07-14 | darwin R1               | 1 Belmont Day        |   1.9  |    -10   |  -1254.3 |
+| 12:50             | 2021-07-14 | canterbury R1           | 2 Almighty Rising    |   3.25 |    -10   |  -1244.3 |
+| :boom:            | 2021-07-13 | cairns R6               | 4 Tutelage           |   3.55 |     25.5 |  -1234.3 |
+| 4                 | 2021-07-13 | cairns R6               | 3 Brilliant Mind     |   2.8  |    -10   |  -1259.8 |
+| 6                 | 2021-07-13 | cairns R5               | 11 Musical Girl      |  14.2  |    -10   |  -1249.8 |
+| :boom:            | 2021-07-13 | sunshine-coast R3       | 4 Boblee             |   2.9  |     19   |  -1239.8 |
 | 4                 | 2021-07-12 | moruya R6               | 15 Freaky Freckles   |  10    |    -10   |  -1258.8 |
 | 5                 | 2021-07-12 | moruya R6               | 8 Nuremburg Castle   |   3.4  |    -10   |  -1248.8 |
 | 6                 | 2021-07-11 | sunshine-coast R9       | 4 Rock Amore         |   5    |    -10   |  -1238.8 |
@@ -114,10 +118,6 @@ Running profit since February 2020.
 | :boom:            | 2021-06-16 | doomben R8              | 5 Phobetor           |   2.6  |     16   |  -1269.3 |
 | :2nd_place_medal: | 2021-06-12 | broome R6               | 4 Song of Vincent    |   6    |    -10   |  -1285.3 |
 | 6                 | 2021-06-12 | belmont R8              | 13 Leading Girl      |   4.55 |    -10   |  -1275.3 |
-| 13                | 2021-06-12 | belmont R8              | 2 Come Play With Me  |  51    |    -10   |  -1265.3 |
-| :boom:            | 2021-06-12 | sandown-hillside R9     | 12 Zipping Boy       |   3.45 |     24.5 |  -1255.3 |
-| 4                 | 2021-06-12 | broome R3               | 3 Do Your Best       |   3.5  |    -10   |  -1279.8 |
-| :boom:            | 2021-06-12 | morphettville-parks R8  | 4 Not Usual Glorious |   3.8  |     28   |  -1269.8 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -126,8 +126,8 @@ Running profit since February 2020.
 | Saturday  |    815 |    251 |    244.5 | 0.31 |  0.03 |
 | Sunday    |    309 |     83 |   -528   | 0.27 | -0.17 |
 | Thursday  |    154 |     38 |   -275.2 | 0.25 | -0.18 |
-| Tuesday   |    124 |     35 |   -305.4 | 0.28 | -0.25 |
-| Wednesday |    189 |     51 |   -165.9 | 0.27 | -0.09 |
+| Tuesday   |    124 |     37 |   -240.9 | 0.3  | -0.19 |
+| Wednesday |    193 |     51 |   -205.9 | 0.26 | -0.11 |
 
 | week      |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -207,7 +207,7 @@ Running profit since February 2020.
 | 2021-WK25 |     20 |      4 |    -77.5 | 0.2  | -0.39 |
 | 2021-WK26 |     30 |      7 |    -24   | 0.23 | -0.08 |
 | 2021-WK27 |     23 |     12 |    102.5 | 0.52 |  0.45 |
-| 2021-WK28 |      6 |      0 |    -60   | 0    | -1    |
+| 2021-WK28 |     10 |      2 |    -35.5 | 0.2  | -0.36 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -228,7 +228,7 @@ Running profit since February 2020.
 | 2021-04 |    116 |     32 |    -40.4 | 0.28 | -0.03 |
 | 2021-05 |    126 |     36 |    -42.4 | 0.29 | -0.03 |
 | 2021-06 |     83 |     22 |   -161.6 | 0.27 | -0.19 |
-| 2021-07 |     55 |     17 |     -3.5 | 0.31 | -0.01 |
+| 2021-07 |     59 |     19 |     21   | 0.32 |  0.04 |
 
 | track               |   runs |   wins |   profit |   sr |   roi |
 |:--------------------|-------:|-------:|---------:|-----:|------:|
@@ -283,18 +283,18 @@ Running profit since February 2020.
 | kenilworth          |     17 |      6 |     26.7 | 0.35 |  0.16 |
 | caulfield           |     43 |     14 |     59.7 | 0.33 |  0.14 |
 | trentham            |     10 |      4 |     13.5 | 0.4  |  0.14 |
+| sunshine-coast      |     56 |     21 |     59.3 | 0.38 |  0.11 |
 | toowoomba           |     40 |     14 |     36.6 | 0.35 |  0.09 |
 | awapuni             |     14 |      6 |     10.5 | 0.43 |  0.08 |
 | warrnambool         |     13 |      4 |      8.5 | 0.31 |  0.07 |
 | ascot               |     77 |     28 |     47.6 | 0.36 |  0.06 |
-| sunshine-coast      |     56 |     20 |     30.3 | 0.36 |  0.05 |
-| darwin              |     45 |     21 |     16   | 0.47 |  0.04 |
 | alice-springs       |     38 |     15 |     15   | 0.39 |  0.04 |
 | pinjarra            |     13 |      3 |      4   | 0.23 |  0.03 |
 | goulburn            |      5 |      2 |      1   | 0.4  |  0.02 |
 | rosehill            |     37 |      9 |      4.5 | 0.24 |  0.01 |
 | bendigo             |      5 |      2 |      0   | 0.4  |  0    |
 | southwell           |      5 |      2 |     -1.7 | 0.4  | -0.03 |
+| darwin              |     48 |     21 |    -14   | 0.44 | -0.03 |
 | doomben             |     60 |     16 |    -22.1 | 0.27 | -0.04 |
 | yeppoon             |      2 |      1 |     -1   | 0.5  | -0.05 |
 | townsville          |     51 |     18 |    -30.8 | 0.35 | -0.06 |
@@ -303,6 +303,7 @@ Running profit since February 2020.
 | newcastle           |     25 |      5 |    -28.5 | 0.2  | -0.11 |
 | fairview            |     21 |      8 |    -24.4 | 0.38 | -0.12 |
 | ipswich             |     33 |      8 |    -38.5 | 0.24 | -0.12 |
+| cairns              |     29 |      7 |    -36.3 | 0.24 | -0.13 |
 | terang              |      4 |      1 |     -5.5 | 0.25 | -0.14 |
 | ellerslie           |     34 |     12 |    -49.2 | 0.35 | -0.14 |
 | turffontein         |      7 |      3 |    -10.8 | 0.43 | -0.15 |
@@ -315,7 +316,6 @@ Running profit since February 2020.
 | lingfield           |     11 |      3 |    -23.8 | 0.27 | -0.22 |
 | sandown-lakeside    |     11 |      2 |    -26   | 0.18 | -0.24 |
 | murray-bdge         |     13 |      3 |    -31.8 | 0.23 | -0.24 |
-| cairns              |     29 |      6 |    -71.8 | 0.21 | -0.25 |
 | hobart              |     25 |      8 |    -64.2 | 0.32 | -0.26 |
 | te-rapa             |     10 |      3 |    -26.9 | 0.3  | -0.27 |
 | kembla-grange       |     13 |      4 |    -35.5 | 0.31 | -0.27 |
@@ -352,7 +352,7 @@ Running profit since February 2020.
 | otaki               |      6 |      1 |    -47   | 0.17 | -0.78 |
 | warwick-farm        |     12 |      1 |    -96   | 0.08 | -0.8  |
 | kalgoorlie          |     12 |      1 |   -100   | 0.08 | -0.83 |
-| canterbury          |     16 |      1 |   -137   | 0.06 | -0.86 |
+| canterbury          |     17 |      1 |   -147   | 0.06 | -0.86 |
 | arawa-park          |      1 |      0 |    -10   | 0    | -1    |
 | ashburton           |      1 |      0 |    -10   | 0    | -1    |
 | avondale            |      1 |      0 |    -10   | 0    | -1    |
@@ -434,10 +434,10 @@ Running profit since February 2020.
 |:-----------------------------|-------:|-------:|---------:|-----:|------:|
 | victoria                     |    250 |     74 |    813.5 | 0.3  |  0.33 |
 | ireland                      |     13 |      3 |     31   | 0.23 |  0.24 |
-| northern-territory           |     83 |     36 |     31   | 0.43 |  0.04 |
 | tasmania                     |     90 |     32 |      5.4 | 0.36 |  0.01 |
-| queensland                   |    514 |    154 |   -420.4 | 0.3  | -0.08 |
-| new-south-wales              |    301 |     72 |   -295.7 | 0.24 | -0.1  |
+| northern-territory           |     86 |     36 |      1   | 0.42 |  0    |
+| queensland                   |    514 |    156 |   -355.9 | 0.3  | -0.07 |
+| new-south-wales              |    302 |     72 |   -305.7 | 0.24 | -0.1  |
 | new-zealand                  |    128 |     39 |   -194.6 | 0.3  | -0.15 |
 | united-kingdom               |    112 |     31 |   -180.6 | 0.28 | -0.16 |
 | south-australia              |    112 |     26 |   -183.7 | 0.23 | -0.16 |

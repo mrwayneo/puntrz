@@ -1,24 +1,27 @@
 ---   
 layout: post   
 title: "Shadowchaser"   
-date: 2021-07-14 00:33:54 +1000   
+date: 2021-07-15 12:00:51 +1000   
 categories: shadowchaser   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last Week      |     55 |      9 |   -122   | 0.16 | -0.22 |
-| This Month     |     85 |     14 |   -265.5 | 0.16 | -0.31 |
-| This Year      |   1708 |    300 |  -3457.8 | 0.18 | -0.2  |
-| Since Feb 2020 |   4400 |    808 |  -3920.3 | 0.18 | -0.09 |
+| This Week      |      4 |      3 |     68   | 0.75 |  1.7  |
+| This Month     |     88 |     17 |   -187.5 | 0.19 | -0.21 |
+| This Year      |   1711 |    303 |  -3379.8 | 0.18 | -0.2  |
+| Since Feb 2020 |   4403 |    811 |  -3842.3 | 0.18 | -0.09 |
 
 ### Shadowchaser Last 100 CGTs.  
 Running profit since February 2020.  
 
 | finish            | date       | event                   | runner                |   odds |   return |   profit |
 |:------------------|:-----------|:------------------------|:----------------------|-------:|---------:|---------:|
-| 13:47             | 2021-07-13 | sunshine-coast R3       | 4 Boblee              |   2.9  |    -10   |  -3920.3 |
+| :3rd_place_medal: | 2021-07-14 | darwin R6               | 8 Faolan              |   7.5  |    -10   |  -3842.3 |
+| :boom:            | 2021-07-14 | canterbury R7           | 8 Miss Einstein       |   3.9  |     29   |  -3832.3 |
+| :boom:            | 2021-07-14 | canterbury R5           | 5 Turnstyle           |   4    |     30   |  -3861.3 |
+| :boom:            | 2021-07-13 | sunshine-coast R3       | 4 Boblee              |   2.9  |     19   |  -3891.3 |
 | 7                 | 2021-07-11 | sunshine-coast R8       | 15 Splendoronthegrass |  21    |    -10   |  -3910.3 |
 | :3rd_place_medal: | 2021-07-11 | sunshine-coast R8       | 7 Desert Lord         |   4.2  |    -10   |  -3900.3 |
 | :2nd_place_medal: | 2021-07-11 | sunshine-coast R8       | 6 Charleise           |   6.5  |    -10   |  -3890.3 |
@@ -115,9 +118,6 @@ Running profit since February 2020.
 | :2nd_place_medal: | 2021-06-26 | belmont R9              | 10 Bright Diamond     |   2.35 |    -10   |  -3726.3 |
 | 7                 | 2021-06-26 | belmont R8              | 9 Leading Girl        |   3.3  |    -10   |  -3716.3 |
 | :3rd_place_medal: | 2021-06-26 | belmont R6              | 9 Double Spice        |  17    |    -10   |  -3706.3 |
-| :2nd_place_medal: | 2021-06-26 | caulfield R9            | 11 Whipcracker Way    |   7.5  |    -10   |  -3696.3 |
-| 6                 | 2021-06-26 | rosehill R9             | 5 Dunbrody Power      |  18    |    -10   |  -3686.3 |
-| 11                | 2021-06-26 | gold-coast R7           | 7 Rich Devil          |   1.76 |    -10   |  -3676.3 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -126,8 +126,8 @@ Running profit since February 2020.
 | Saturday  |   2182 |    369 |  -2877.9 | 0.17 | -0.13 |
 | Sunday    |    475 |     92 |   -388.1 | 0.19 | -0.08 |
 | Thursday  |    309 |     62 |      9.6 | 0.2  |  0    |
-| Tuesday   |    256 |     53 |   -161   | 0.21 | -0.06 |
-| Wednesday |    516 |    103 |   -738.3 | 0.2  | -0.14 |
+| Tuesday   |    256 |     54 |   -132   | 0.21 | -0.05 |
+| Wednesday |    519 |    105 |   -689.3 | 0.2  | -0.13 |
 
 | week      |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -207,7 +207,7 @@ Running profit since February 2020.
 | 2021-WK25 |     40 |      2 |   -286   | 0.05 | -0.72 |
 | 2021-WK26 |     34 |     10 |    -22   | 0.29 | -0.06 |
 | 2021-WK27 |     55 |      9 |   -122   | 0.16 | -0.22 |
-| 2021-WK28 |      1 |      0 |    -10   | 0    | -1    |
+| 2021-WK28 |      4 |      3 |     68   | 0.75 |  1.7  |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -228,7 +228,7 @@ Running profit since February 2020.
 | 2021-04 |    326 |     51 |   -888.4 | 0.16 | -0.27 |
 | 2021-05 |    336 |     54 |   -966.6 | 0.16 | -0.29 |
 | 2021-06 |    188 |     31 |   -399.3 | 0.16 | -0.21 |
-| 2021-07 |     85 |     14 |   -265.5 | 0.16 | -0.31 |
+| 2021-07 |     88 |     17 |   -187.5 | 0.19 | -0.21 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -277,6 +277,7 @@ Running profit since February 2020.
 | yeppoon                    |     12 |      3 |     49   | 0.25 |  0.41 |
 | casterton                  |      4 |      1 |     16   | 0.25 |  0.4  |
 | queanbeyan                 |      3 |      1 |     12   | 0.33 |  0.4  |
+| canterbury                 |     30 |      7 |    103.5 | 0.23 |  0.34 |
 | devonport-synthetic        |     91 |     22 |    301.5 | 0.24 |  0.33 |
 | bunbury                    |     45 |      8 |    144   | 0.18 |  0.32 |
 | ballina                    |      5 |      1 |     15   | 0.2  |  0.3  |
@@ -284,7 +285,6 @@ Running profit since February 2020.
 | dubbo                      |     12 |      2 |     34   | 0.17 |  0.28 |
 | morphettville-parks        |    109 |     20 |    261.6 | 0.18 |  0.24 |
 | bundaberg                  |     22 |      7 |     53.5 | 0.32 |  0.24 |
-| canterbury                 |     28 |      5 |     44.5 | 0.18 |  0.16 |
 | te-rapa                    |     33 |      6 |     48.6 | 0.18 |  0.15 |
 | ffos-las                   |      2 |      1 |      2.5 | 0.5  |  0.12 |
 | te-aroha                   |      2 |      1 |      2.5 | 0.5  |  0.12 |
@@ -299,8 +299,8 @@ Running profit since February 2020.
 | wingatui                   |     19 |      5 |     -3.3 | 0.26 | -0.02 |
 | singapore                  |      3 |      1 |     -1   | 0.33 | -0.03 |
 | rockhampton                |    158 |     31 |    -52.5 | 0.2  | -0.03 |
-| darwin                     |    223 |     39 |   -121.3 | 0.17 | -0.05 |
 | sandown-hillside           |     39 |      8 |    -22   | 0.21 | -0.06 |
+| darwin                     |    224 |     39 |   -131.3 | 0.17 | -0.06 |
 | ipswich                    |     92 |     19 |    -73   | 0.21 | -0.08 |
 | matamata                   |      8 |      2 |     -7   | 0.25 | -0.09 |
 | caulfield                  |    119 |     18 |   -109.3 | 0.15 | -0.09 |
@@ -323,9 +323,9 @@ Running profit since February 2020.
 | albany                     |     13 |      3 |    -28.4 | 0.23 | -0.22 |
 | hawera                     |      3 |      1 |     -7   | 0.33 | -0.23 |
 | wagga                      |     19 |      4 |    -44   | 0.21 | -0.23 |
+| sunshine-coast             |    102 |     19 |   -234.1 | 0.19 | -0.23 |
 | sandown-lakeside           |     16 |      2 |    -39   | 0.12 | -0.24 |
 | racing.com-park            |     26 |      5 |    -62.5 | 0.19 | -0.24 |
-| sunshine-coast             |    102 |     18 |   -263.1 | 0.18 | -0.26 |
 | bathurst                   |      7 |      2 |    -19.5 | 0.29 | -0.28 |
 | kembla-grange              |     22 |      4 |    -61.5 | 0.18 | -0.28 |
 | kensington                 |     35 |      5 |    -97   | 0.14 | -0.28 |
@@ -444,15 +444,15 @@ Running profit since February 2020.
 |:-----------------------------|-------:|-------:|---------:|-----:|------:|
 | australian-capital-territory |     15 |      2 |     85.5 | 0.13 |  0.57 |
 | victoria                     |    607 |    111 |    449.5 | 0.18 |  0.07 |
-| northern-territory           |    326 |     69 |    -61.8 | 0.21 | -0.02 |
+| northern-territory           |    327 |     69 |    -71.8 | 0.21 | -0.02 |
 | singapore                    |      3 |      1 |     -1   | 0.33 | -0.03 |
 | south-australia              |    379 |     62 |   -211.9 | 0.16 | -0.06 |
 | new-zealand                  |    161 |     32 |   -120.5 | 0.2  | -0.07 |
 | south-africa                 |     10 |      2 |     -8   | 0.2  | -0.08 |
 | tasmania                     |    237 |     48 |   -204.7 | 0.2  | -0.09 |
 | western-australia            |    543 |    106 |   -518.3 | 0.2  | -0.1  |
-| queensland                   |   1380 |    264 |  -1920.1 | 0.19 | -0.14 |
-| new-south-wales              |    673 |     99 |  -1148   | 0.15 | -0.17 |
+| queensland                   |   1380 |    265 |  -1891.1 | 0.19 | -0.14 |
+| new-south-wales              |    675 |    101 |  -1089   | 0.15 | -0.16 |
 | united-kingdom               |     47 |      9 |   -140   | 0.19 | -0.3  |
 | ireland                      |      8 |      2 |    -36   | 0.25 | -0.45 |
 | hong-kong                    |     11 |      1 |    -85   | 0.09 | -0.77 |

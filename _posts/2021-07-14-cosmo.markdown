@@ -1,123 +1,123 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-07-14 00:34:58 +1000   
+date: 2021-07-15 02:31:39 +1000   
 categories: cosmo   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |      8 |      0 |      -80 | 0    | -1    |
-| This Month     |    185 |     12 |      110 | 0.06 |  0.06 |
-| This Year      |   2836 |    153 |      431 | 0.05 |  0.02 |
-| Since Feb 2020 |   8756 |    508 |     8573 | 0.06 |  0.1  |
+| This Week      |     26 |      2 |       40 | 0.08 |  0.15 |
+| This Month     |    203 |     14 |      230 | 0.07 |  0.11 |
+| This Year      |   2854 |    155 |      551 | 0.05 |  0.02 |
+| Since Feb 2020 |   8774 |    510 |     8693 | 0.06 |  0.1  |
 
 ### Cosmo Last 100 CGTs.  
 Running profit since February 2020.  
 
-| finish            | date       | event                 | runner                |   odds |   return |   profit |
-|:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|---------:|
-| 16:57             | 2021-07-13 | sunshine-coast R8     | 10 Kaaydeh            |   10   |      -10 |     8573 |
-| 16:57             | 2021-07-13 | sunshine-coast R8     | 1 Flensburg           |   26   |      -10 |     8583 |
-| 16:30             | 2021-07-13 | ballarat-synthetic R8 | 9 Bob's Relish        |   20   |      -10 |     8593 |
-| 12:50             | 2021-07-13 | ballina R1            | 6 Falvey's Spirit     |   12.2 |      -10 |     8603 |
-| :2nd_place_medal: | 2021-07-12 | tamworth R7           | 17 City Jet           |   17   |      -10 |     8613 |
-| 5                 | 2021-07-12 | moruya R7             | 7 Hard Core           |   26   |      -10 |     8623 |
-| 11                | 2021-07-12 | moruya R6             | 7 Little Krakatoa     |   20.5 |      -10 |     8633 |
-| 5                 | 2021-07-12 | moruya R5             | 16 Alan               |   31   |      -10 |     8643 |
-| 10                | 2021-07-11 | kalgoorlie R7         | 3 Starof Bonnie Rose  |   18   |      -10 |     8653 |
-| :2nd_place_medal: | 2021-07-11 | sunshine-coast R9     | 7 Baanone             |   14   |      -10 |     8663 |
-| 10                | 2021-07-11 | sunshine-coast R9     | 5 Kali                |   26   |      -10 |     8673 |
-| :boom:            | 2021-07-11 | sunshine-coast R8     | 8 King Of Hastings    |   13   |      120 |     8683 |
-| 10                | 2021-07-11 | sunshine-coast R7     | 13 The Actuary        |   36   |      -10 |     8563 |
-| 5                 | 2021-07-11 | sunshine-coast R7     | 3 Magic Conqueror     |   81   |      -10 |     8573 |
-| :2nd_place_medal: | 2021-07-11 | grafton R7            | 9 Prima Stella        |   34   |      -10 |     8583 |
-| 9                 | 2021-07-11 | ballarat R7           | 4 Vahash              |   11   |      -10 |     8593 |
-| 4                 | 2021-07-11 | alice-springs R4      | 7 Nordic Eclipse      |   12   |      -10 |     8603 |
-| 9                 | 2021-07-11 | grafton R6            | 6 Spectacular Slew    |   27.5 |      -10 |     8613 |
-| 4                 | 2021-07-11 | hawkesbury R5         | 1 Prince Six          |   34   |      -10 |     8623 |
-| 4                 | 2021-07-11 | grafton R5            | 9 Shows Pride         |   17.2 |      -10 |     8633 |
-| :boom:            | 2021-07-11 | sunshine-coast R1     | 9 Great Powers        |   18   |      170 |     8643 |
-| :2nd_place_medal: | 2021-07-10 | navan R4              | 2 Chitra              |   11   |      -10 |     8473 |
-| :3rd_place_medal: | 2021-07-10 | newmarket R2          | 1 Star Of Emaraaty    |   18   |      -10 |     8483 |
-| 4                 | 2021-07-10 | york R1               | 3 Dubai Mirage        |   13   |      -10 |     8493 |
-| 4                 | 2021-07-10 | toowoomba R9          | 6 Lilli Lights Out    |   13   |      -10 |     8503 |
-| 9                 | 2021-07-10 | toowoomba R7          | 11 Bill of Rights     |   35   |      -10 |     8513 |
-| 5                 | 2021-07-10 | roebourne R6          | 7 Miss Harley Quinn   |   16   |      -10 |     8523 |
-| 10                | 2021-07-10 | broome R7             | 12 Laylo              |   18.2 |      -10 |     8533 |
-| 5                 | 2021-07-10 | roebourne R5          | 4 Makfi Amour         |   16   |      -10 |     8543 |
-| 7                 | 2021-07-10 | roebourne R5          | 1 Chesten Flyer       |   12.2 |      -10 |     8553 |
-| :boom:            | 2021-07-10 | broome R6             | 2 Molten              |   10   |       90 |     8563 |
-| 10                | 2021-07-10 | toowoomba R5          | 6 Beach Club          |   13   |      -10 |     8473 |
-| :3rd_place_medal: | 2021-07-10 | darwin R6             | 7 Reserve Street      |   10   |      -10 |     8483 |
-| 12                | 2021-07-10 | belmont R9            | 13 Elafella           |   26   |      -10 |     8493 |
-| 10                | 2021-07-10 | gawler R9             | 11 Lady Highly        |   26   |      -10 |     8503 |
-| 12                | 2021-07-10 | caulfield R9          | 14 Reckoning          |   15   |      -10 |     8513 |
-| 8                 | 2021-07-10 | caulfield R9          | 12 Ammoudi Bay        |   61   |      -10 |     8523 |
-| 15                | 2021-07-10 | caulfield R9          | 3 Viral               |   26   |      -10 |     8533 |
-| :boom:            | 2021-07-10 | roebourne R2          | 5 Tumut River         |   11   |      100 |     8543 |
-| :3rd_place_medal: | 2021-07-10 | roebourne R2          | 2 Viotti              |   11   |      -10 |     8443 |
-| 9                 | 2021-07-10 | gawler R8             | 3 Cannot Be Serios    |   19   |      -10 |     8453 |
-| 9                 | 2021-07-10 | rockhampton R8        | 11 Flash Hombre       |  126   |      -10 |     8463 |
-| 7                 | 2021-07-10 | toowoomba R2          | 11 Noether            |   15   |      -10 |     8473 |
-| :3rd_place_medal: | 2021-07-10 | darwin R3             | 11 Safety Dance       |   71   |      -10 |     8483 |
-| 8                 | 2021-07-10 | darwin R3             | 9 Weapon              |   17   |      -10 |     8493 |
-| 4                 | 2021-07-10 | darwin R3             | 8 Vunivalu            |   15   |      -10 |     8503 |
-| 10                | 2021-07-10 | doomben R8            | 10 Superbowl Sunday   |   31   |      -10 |     8513 |
-| 9                 | 2021-07-10 | belmont R6            | 11 Trade War          |   36   |      -10 |     8523 |
-| 4                 | 2021-07-10 | broome R2             | 4 Royal Rumble        |   13   |      -10 |     8533 |
-| 12                | 2021-07-10 | rockhampton R7        | 13 Bering Sea         |   71   |      -10 |     8543 |
-| :3rd_place_medal: | 2021-07-10 | caulfield R7          | 8 Betcha Flying       |   19   |      -10 |     8553 |
-| 5                 | 2021-07-10 | doomben R7            | 13 Unguarded          |   51   |      -10 |     8563 |
-| 6                 | 2021-07-10 | doomben R7            | 11 Macchina Volante   |  201   |      -10 |     8573 |
-| 9                 | 2021-07-10 | doomben R7            | 8 The Fire Trap       |   37   |      -10 |     8583 |
-| :boom:            | 2021-07-10 | doomben R7            | 2 Snowzone            |   17   |      160 |     8593 |
-| 9                 | 2021-07-10 | rockhampton R6        | 12 Ordell             |   19   |      -10 |     8433 |
-| 11                | 2021-07-10 | darwin R1             | 11 Desert Knight      |   18   |      -10 |     8443 |
-| 7                 | 2021-07-10 | darwin R1             | 7 Mr Boomjangles      |   18.2 |      -10 |     8453 |
-| :boom:            | 2021-07-10 | darwin R1             | 1 More Chilli         |   15   |      140 |     8463 |
-| 9                 | 2021-07-10 | doomben R6            | 9 Predictable Miss    |   21   |      -10 |     8323 |
-| 6                 | 2021-07-10 | doomben R6            | 2 Bryneich            |   12   |      -10 |     8333 |
-| :2nd_place_medal: | 2021-07-10 | gawler R5             | 11 Naleigh            |   10   |      -10 |     8343 |
-| 6                 | 2021-07-10 | te-rapa R8            | 2 Henry Hudson        |   13   |      -10 |     8353 |
-| 8                 | 2021-07-10 | caulfield R5          | 19 Shakespeare        |   15.2 |      -10 |     8363 |
-| 7                 | 2021-07-10 | doomben R5            | 11 Vivendo Il Sogno   |   34   |      -10 |     8373 |
-| 4                 | 2021-07-10 | doomben R5            | 8 Avowal              |   37   |      -10 |     8383 |
-| :boom:            | 2021-07-10 | gawler R3             | 9 Flying Pierro       |   31   |      300 |     8393 |
-| :3rd_place_medal: | 2021-07-10 | caulfield R3          | 13 La Bella Costa     |   31   |      -10 |     8093 |
-| 7                 | 2021-07-10 | caulfield R3          | 1 Tony Nicconi        |   21   |      -10 |     8103 |
-| 6                 | 2021-07-10 | doomben R2            | 8 Wild Sheila         |   12   |      -10 |     8113 |
-| :2nd_place_medal: | 2021-07-10 | doomben R2            | 7 Takeittothelimit    |   12.2 |      -10 |     8123 |
-| :3rd_place_medal: | 2021-07-10 | beaudesert R2         | 2 Cheers to All       |   19.2 |      -10 |     8133 |
-| 6                 | 2021-07-09 | sale R8               | 3 Florida Dream       |   12   |      -10 |     8143 |
-| 7                 | 2021-07-09 | rockhampton R7        | 10 Valario            |   16   |      -10 |     8153 |
-| 9                 | 2021-07-09 | rockhampton R7        | 7 Prioritise          |  101   |      -10 |     8163 |
-| 12                | 2021-07-09 | sale R7               | 9 Broken Treaty       |   41   |      -10 |     8173 |
-| 11                | 2021-07-09 | sale R7               | 7 Olympic Lad         |   26   |      -10 |     8183 |
-| 8                 | 2021-07-09 | rockhampton R6        | 1 Battle Plane        |   13   |      -10 |     8193 |
-| 6                 | 2021-07-09 | rockhampton R5        | 11 Ornate             |   31   |      -10 |     8203 |
-| 5                 | 2021-07-09 | rockhampton R5        | 2 Manila Miss         |   11   |      -10 |     8213 |
-| 4                 | 2021-07-09 | goulburn R5           | 7 Heaven or Hell      |   19   |      -10 |     8223 |
-| 6                 | 2021-07-09 | rockhampton R3        | 8 Aspen Lad           |   13.2 |      -10 |     8233 |
-| 10                | 2021-07-09 | rockhampton R3        | 4 Music Scene         |  126   |      -10 |     8243 |
-| 8                 | 2021-07-09 | rockhampton R3        | 2 Belzu               |   31   |      -10 |     8253 |
-| 5                 | 2021-07-09 | sale R1               | 15 Grizzlies          |   18   |      -10 |     8263 |
-| 10                | 2021-07-09 | waverley R3           | 4 Kangaroo            |   51   |      -10 |     8273 |
-| 10                | 2021-07-08 | pinjarra R9           | 8 Gold Merits         |   14   |      -10 |     8283 |
-| :3rd_place_medal: | 2021-07-08 | kembla-grange R8      | 8 Real Key            |   15   |      -10 |     8293 |
-| :2nd_place_medal: | 2021-07-08 | kembla-grange R7      | 6 Eberlee             |   12   |      -10 |     8303 |
-| 7                 | 2021-07-08 | ipswich R8            | 11 Copsinthedonutshop |   32   |      -10 |     8313 |
-| 8                 | 2021-07-08 | ipswich R7            | 1 Sugar Buzz          |   23   |      -10 |     8323 |
-| 6                 | 2021-07-08 | kembla-grange R4      | 5 Ultra               |   14.2 |      -10 |     8333 |
-| 10                | 2021-07-08 | grafton R3            | 9 Divine Diva         |   34   |      -10 |     8343 |
-| 5                 | 2021-07-08 | grafton R3            | 5 Amicitia            |   16   |      -10 |     8353 |
-| :3rd_place_medal: | 2021-07-08 | grafton R3            | 3 Willo Titto         |   10   |      -10 |     8363 |
-| 11                | 2021-07-08 | ashburton R5          | 10 Ringadingding      |   12.2 |      -10 |     8373 |
-| :3rd_place_medal: | 2021-07-07 | lingfield R3          | 7 Macho Mover         |   11   |      -10 |     8383 |
-| 7                 | 2021-07-07 | grafton R8            | 10 Gin Runner         |   51   |      -10 |     8393 |
-| 5                 | 2021-07-07 | grafton R8            | 7 Delayed Response    |   61   |      -10 |     8403 |
-| 6                 | 2021-07-07 | sandown-hillside R8   | 14 Quiet Lucky        |   26   |      -10 |     8413 |
+| finish            | date       | event                 | runner               |   odds |   return |   profit |
+|:------------------|:-----------|:----------------------|:---------------------|-------:|---------:|---------:|
+| 18:20             | 2021-07-14 | belmont R8            | 1 Artie's Comet      |   31   |      -10 |     8693 |
+| 17:00             | 2021-07-14 | belmont R6            | 9 Ready To Ride      |   20.5 |      -10 |     8703 |
+| 16:49             | 2021-07-14 | darwin R5             | 9 Au Pair            |   35   |      -10 |     8713 |
+| 16:20             | 2021-07-14 | canterbury R7         | 10 Kaptive           |   10   |      -10 |     8723 |
+| 16:20             | 2021-07-14 | canterbury R7         | 7 Jungle Book        |   16.2 |      -10 |     8733 |
+| 16:14             | 2021-07-14 | darwin R4             | 11 Southern Bolt     |   10.2 |      -10 |     8743 |
+| 16:10             | 2021-07-14 | murray-bdge R8        | 10 But Beautiful     |   10   |      -10 |     8753 |
+| 16:10             | 2021-07-14 | murray-bdge R8        | 5 Armament           |   41   |      -10 |     8763 |
+| 15:20             | 2021-07-14 | sandown-hillside R6   | 9 Saint Eustace      |   67   |      -10 |     8773 |
+| 15:20             | 2021-07-14 | sandown-hillside R6   | 4 Bondi Sands        |   13.2 |      -10 |     8783 |
+| 15:10             | 2021-07-14 | canterbury R5         | 12 Foxy Xenia        |   13.2 |      -10 |     8793 |
+| 15:04             | 2021-07-14 | darwin R2             | 5 Valentina Star     |   15   |      -10 |     8803 |
+| 15:00             | 2021-07-14 | murray-bdge R6        | 11 La Rapide         |   15.2 |      -10 |     8813 |
+| 14:53             | 2021-07-14 | doomben R5            | 2 Samurai            |   11   |      -10 |     8823 |
+| 14:45             | 2021-07-14 | sandown-hillside R5   | 3 Diamondsandbubbles |   51   |      -10 |     8833 |
+| 14:35             | 2021-07-14 | canterbury R4         | 8 My Ruby            |   18   |      -10 |     8843 |
+| 14:10             | 2021-07-14 | sandown-hillside R4   | 1 Eaglemont          |   23   |      -10 |     8853 |
+| 14:00             | 2021-07-14 | canterbury R3         | 2 New Tycoon         |   34   |      -10 |     8863 |
+| 13:50             | 2021-07-14 | murray-bdge R4        | 8 Club Queen         |   15   |      -10 |     8873 |
+| :boom:            | 2021-07-13 | sunshine-coast R8     | 10 Kaaydeh           |   10   |       90 |     8883 |
+| :2nd_place_medal: | 2021-07-13 | sunshine-coast R8     | 1 Flensburg          |   26   |      -10 |     8793 |
+| :boom:            | 2021-07-13 | ballarat-synthetic R8 | 9 Bob's Relish       |   20   |      190 |     8803 |
+| :2nd_place_medal: | 2021-07-12 | tamworth R7           | 17 City Jet          |   17   |      -10 |     8613 |
+| 5                 | 2021-07-12 | moruya R7             | 7 Hard Core          |   26   |      -10 |     8623 |
+| 11                | 2021-07-12 | moruya R6             | 7 Little Krakatoa    |   20.5 |      -10 |     8633 |
+| 5                 | 2021-07-12 | moruya R5             | 16 Alan              |   31   |      -10 |     8643 |
+| 10                | 2021-07-11 | kalgoorlie R7         | 3 Starof Bonnie Rose |   18   |      -10 |     8653 |
+| :2nd_place_medal: | 2021-07-11 | sunshine-coast R9     | 7 Baanone            |   14   |      -10 |     8663 |
+| 10                | 2021-07-11 | sunshine-coast R9     | 5 Kali               |   26   |      -10 |     8673 |
+| :boom:            | 2021-07-11 | sunshine-coast R8     | 8 King Of Hastings   |   13   |      120 |     8683 |
+| 10                | 2021-07-11 | sunshine-coast R7     | 13 The Actuary       |   36   |      -10 |     8563 |
+| 5                 | 2021-07-11 | sunshine-coast R7     | 3 Magic Conqueror    |   81   |      -10 |     8573 |
+| :2nd_place_medal: | 2021-07-11 | grafton R7            | 9 Prima Stella       |   34   |      -10 |     8583 |
+| 9                 | 2021-07-11 | ballarat R7           | 4 Vahash             |   11   |      -10 |     8593 |
+| 4                 | 2021-07-11 | alice-springs R4      | 7 Nordic Eclipse     |   12   |      -10 |     8603 |
+| 9                 | 2021-07-11 | grafton R6            | 6 Spectacular Slew   |   27.5 |      -10 |     8613 |
+| 4                 | 2021-07-11 | hawkesbury R5         | 1 Prince Six         |   34   |      -10 |     8623 |
+| 4                 | 2021-07-11 | grafton R5            | 9 Shows Pride        |   17.2 |      -10 |     8633 |
+| :boom:            | 2021-07-11 | sunshine-coast R1     | 9 Great Powers       |   18   |      170 |     8643 |
+| :2nd_place_medal: | 2021-07-10 | navan R4              | 2 Chitra             |   11   |      -10 |     8473 |
+| :3rd_place_medal: | 2021-07-10 | newmarket R2          | 1 Star Of Emaraaty   |   18   |      -10 |     8483 |
+| 4                 | 2021-07-10 | york R1               | 3 Dubai Mirage       |   13   |      -10 |     8493 |
+| 4                 | 2021-07-10 | toowoomba R9          | 6 Lilli Lights Out   |   13   |      -10 |     8503 |
+| 9                 | 2021-07-10 | toowoomba R7          | 11 Bill of Rights    |   35   |      -10 |     8513 |
+| 5                 | 2021-07-10 | roebourne R6          | 7 Miss Harley Quinn  |   16   |      -10 |     8523 |
+| 10                | 2021-07-10 | broome R7             | 12 Laylo             |   18.2 |      -10 |     8533 |
+| 5                 | 2021-07-10 | roebourne R5          | 4 Makfi Amour        |   16   |      -10 |     8543 |
+| 7                 | 2021-07-10 | roebourne R5          | 1 Chesten Flyer      |   12.2 |      -10 |     8553 |
+| :boom:            | 2021-07-10 | broome R6             | 2 Molten             |   10   |       90 |     8563 |
+| 10                | 2021-07-10 | toowoomba R5          | 6 Beach Club         |   13   |      -10 |     8473 |
+| :3rd_place_medal: | 2021-07-10 | darwin R6             | 7 Reserve Street     |   10   |      -10 |     8483 |
+| 12                | 2021-07-10 | belmont R9            | 13 Elafella          |   26   |      -10 |     8493 |
+| 10                | 2021-07-10 | gawler R9             | 11 Lady Highly       |   26   |      -10 |     8503 |
+| 12                | 2021-07-10 | caulfield R9          | 14 Reckoning         |   15   |      -10 |     8513 |
+| 8                 | 2021-07-10 | caulfield R9          | 12 Ammoudi Bay       |   61   |      -10 |     8523 |
+| 15                | 2021-07-10 | caulfield R9          | 3 Viral              |   26   |      -10 |     8533 |
+| :boom:            | 2021-07-10 | roebourne R2          | 5 Tumut River        |   11   |      100 |     8543 |
+| :3rd_place_medal: | 2021-07-10 | roebourne R2          | 2 Viotti             |   11   |      -10 |     8443 |
+| 9                 | 2021-07-10 | gawler R8             | 3 Cannot Be Serios   |   19   |      -10 |     8453 |
+| 9                 | 2021-07-10 | rockhampton R8        | 11 Flash Hombre      |  126   |      -10 |     8463 |
+| 7                 | 2021-07-10 | toowoomba R2          | 11 Noether           |   15   |      -10 |     8473 |
+| :3rd_place_medal: | 2021-07-10 | darwin R3             | 11 Safety Dance      |   71   |      -10 |     8483 |
+| 8                 | 2021-07-10 | darwin R3             | 9 Weapon             |   17   |      -10 |     8493 |
+| 4                 | 2021-07-10 | darwin R3             | 8 Vunivalu           |   15   |      -10 |     8503 |
+| 10                | 2021-07-10 | doomben R8            | 10 Superbowl Sunday  |   31   |      -10 |     8513 |
+| 9                 | 2021-07-10 | belmont R6            | 11 Trade War         |   36   |      -10 |     8523 |
+| 4                 | 2021-07-10 | broome R2             | 4 Royal Rumble       |   13   |      -10 |     8533 |
+| 12                | 2021-07-10 | rockhampton R7        | 13 Bering Sea        |   71   |      -10 |     8543 |
+| :3rd_place_medal: | 2021-07-10 | caulfield R7          | 8 Betcha Flying      |   19   |      -10 |     8553 |
+| 5                 | 2021-07-10 | doomben R7            | 13 Unguarded         |   51   |      -10 |     8563 |
+| 6                 | 2021-07-10 | doomben R7            | 11 Macchina Volante  |  201   |      -10 |     8573 |
+| 9                 | 2021-07-10 | doomben R7            | 8 The Fire Trap      |   37   |      -10 |     8583 |
+| :boom:            | 2021-07-10 | doomben R7            | 2 Snowzone           |   17   |      160 |     8593 |
+| 9                 | 2021-07-10 | rockhampton R6        | 12 Ordell            |   19   |      -10 |     8433 |
+| 11                | 2021-07-10 | darwin R1             | 11 Desert Knight     |   18   |      -10 |     8443 |
+| 7                 | 2021-07-10 | darwin R1             | 7 Mr Boomjangles     |   18.2 |      -10 |     8453 |
+| :boom:            | 2021-07-10 | darwin R1             | 1 More Chilli        |   15   |      140 |     8463 |
+| 9                 | 2021-07-10 | doomben R6            | 9 Predictable Miss   |   21   |      -10 |     8323 |
+| 6                 | 2021-07-10 | doomben R6            | 2 Bryneich           |   12   |      -10 |     8333 |
+| :2nd_place_medal: | 2021-07-10 | gawler R5             | 11 Naleigh           |   10   |      -10 |     8343 |
+| 6                 | 2021-07-10 | te-rapa R8            | 2 Henry Hudson       |   13   |      -10 |     8353 |
+| 8                 | 2021-07-10 | caulfield R5          | 19 Shakespeare       |   15.2 |      -10 |     8363 |
+| 7                 | 2021-07-10 | doomben R5            | 11 Vivendo Il Sogno  |   34   |      -10 |     8373 |
+| 4                 | 2021-07-10 | doomben R5            | 8 Avowal             |   37   |      -10 |     8383 |
+| :boom:            | 2021-07-10 | gawler R3             | 9 Flying Pierro      |   31   |      300 |     8393 |
+| :3rd_place_medal: | 2021-07-10 | caulfield R3          | 13 La Bella Costa    |   31   |      -10 |     8093 |
+| 7                 | 2021-07-10 | caulfield R3          | 1 Tony Nicconi       |   21   |      -10 |     8103 |
+| 6                 | 2021-07-10 | doomben R2            | 8 Wild Sheila        |   12   |      -10 |     8113 |
+| :2nd_place_medal: | 2021-07-10 | doomben R2            | 7 Takeittothelimit   |   12.2 |      -10 |     8123 |
+| :3rd_place_medal: | 2021-07-10 | beaudesert R2         | 2 Cheers to All      |   19.2 |      -10 |     8133 |
+| 6                 | 2021-07-09 | sale R8               | 3 Florida Dream      |   12   |      -10 |     8143 |
+| 7                 | 2021-07-09 | rockhampton R7        | 10 Valario           |   16   |      -10 |     8153 |
+| 9                 | 2021-07-09 | rockhampton R7        | 7 Prioritise         |  101   |      -10 |     8163 |
+| 12                | 2021-07-09 | sale R7               | 9 Broken Treaty      |   41   |      -10 |     8173 |
+| 11                | 2021-07-09 | sale R7               | 7 Olympic Lad        |   26   |      -10 |     8183 |
+| 8                 | 2021-07-09 | rockhampton R6        | 1 Battle Plane       |   13   |      -10 |     8193 |
+| 6                 | 2021-07-09 | rockhampton R5        | 11 Ornate            |   31   |      -10 |     8203 |
+| 5                 | 2021-07-09 | rockhampton R5        | 2 Manila Miss        |   11   |      -10 |     8213 |
+| 4                 | 2021-07-09 | goulburn R5           | 7 Heaven or Hell     |   19   |      -10 |     8223 |
+| 6                 | 2021-07-09 | rockhampton R3        | 8 Aspen Lad          |   13.2 |      -10 |     8233 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -126,8 +126,8 @@ Running profit since February 2020.
 | Saturday  |   3691 |    186 |      173 | 0.05 |  0    |
 | Sunday    |   1059 |     82 |     4640 | 0.08 |  0.44 |
 | Thursday  |    738 |     41 |      312 | 0.06 |  0.04 |
-| Tuesday   |    556 |     31 |      333 | 0.06 |  0.06 |
-| Wednesday |   1221 |     77 |      207 | 0.06 |  0.02 |
+| Tuesday   |    555 |     33 |      643 | 0.06 |  0.12 |
+| Wednesday |   1240 |     77 |       17 | 0.06 |  0    |
 
 | week      |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -207,7 +207,7 @@ Running profit since February 2020.
 | 2021-WK25 |     92 |      7 |      200 | 0.08 |  0.22 |
 | 2021-WK26 |     62 |      5 |       70 | 0.08 |  0.11 |
 | 2021-WK27 |    120 |      8 |      260 | 0.07 |  0.22 |
-| 2021-WK28 |      8 |      0 |      -80 | 0    | -1    |
+| 2021-WK28 |     26 |      2 |       40 | 0.08 |  0.15 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -228,7 +228,7 @@ Running profit since February 2020.
 | 2021-04 |    484 |     24 |     -544 | 0.05 | -0.11 |
 | 2021-05 |    577 |     33 |      579 | 0.06 |  0.1  |
 | 2021-06 |    392 |     21 |     -408 | 0.05 | -0.1  |
-| 2021-07 |    185 |     12 |      110 | 0.06 |  0.06 |
+| 2021-07 |    203 |     14 |      230 | 0.07 |  0.11 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -297,48 +297,49 @@ Running profit since February 2020.
 | esperance-bay              |     20 |      2 |       90 | 0.1  |  0.45 |
 | goodwood                   |     25 |      2 |      110 | 0.08 |  0.44 |
 | wellington                 |     19 |      2 |       82 | 0.11 |  0.43 |
+| ballina                    |     10 |      1 |       42 | 0.1  |  0.42 |
 | trentham                   |     27 |      3 |      110 | 0.11 |  0.41 |
 | flemington                 |    272 |     14 |     1087 | 0.05 |  0.4  |
 | longreach                  |      8 |      1 |       30 | 0.12 |  0.38 |
 | taree                      |     31 |      3 |      110 | 0.1  |  0.35 |
-| murray-bdge                |    108 |      8 |      365 | 0.07 |  0.34 |
 | hawkesbury                 |     76 |      2 |      260 | 0.03 |  0.34 |
 | gunnedah                   |      9 |      1 |       30 | 0.11 |  0.33 |
 | morphettville              |    198 |      6 |      620 | 0.03 |  0.31 |
 | randwick                   |    279 |     16 |      848 | 0.06 |  0.3  |
+| murray-bdge                |    112 |      8 |      325 | 0.07 |  0.29 |
 | gawler                     |     52 |      4 |      152 | 0.08 |  0.29 |
-| ballina                    |     11 |      1 |       32 | 0.09 |  0.29 |
 | muswellbrook               |     37 |      3 |      102 | 0.08 |  0.28 |
 | kilmore                    |     15 |      1 |       40 | 0.07 |  0.27 |
 | scone                      |     64 |      4 |      152 | 0.06 |  0.24 |
 | goulburn                   |     36 |      3 |       82 | 0.08 |  0.23 |
 | beverley                   |      9 |      1 |       20 | 0.11 |  0.22 |
 | ipswich                    |    138 |      9 |      287 | 0.07 |  0.21 |
-| darwin                     |    110 |      5 |      210 | 0.05 |  0.19 |
 | orange                     |     12 |      1 |       22 | 0.08 |  0.18 |
 | caulfield                  |    223 |     12 |      372 | 0.05 |  0.17 |
 | wanganui                   |     12 |      1 |       20 | 0.08 |  0.17 |
+| darwin                     |    113 |      5 |      180 | 0.04 |  0.16 |
 | beaudesert                 |     14 |      1 |       22 | 0.07 |  0.16 |
 | pinjarra                   |     52 |      3 |       75 | 0.06 |  0.14 |
 | gosford                    |     71 |      6 |       92 | 0.08 |  0.13 |
 | sandown                    |     15 |      1 |       20 | 0.07 |  0.13 |
 | grafton                    |     62 |      5 |       72 | 0.08 |  0.12 |
+| sunshine-coast             |    210 |     15 |      232 | 0.07 |  0.11 |
 | haydock                    |     18 |      1 |       20 | 0.06 |  0.11 |
 | nowra                      |     13 |      1 |       12 | 0.08 |  0.09 |
-| sunshine-coast             |    210 |     14 |      132 | 0.07 |  0.06 |
-| canterbury                 |    100 |      6 |       42 | 0.06 |  0.04 |
 | queanbeyan                 |     10 |      1 |        4 | 0.1  |  0.04 |
 | geelong                    |     88 |      6 |       22 | 0.07 |  0.02 |
 | kalgoorlie                 |     75 |      4 |       -5 | 0.05 | -0.01 |
+| canterbury                 |    105 |      6 |       -8 | 0.06 | -0.01 |
+| ballarat-synthetic         |     39 |      2 |      -10 | 0.05 | -0.03 |
 | swan-hill                  |     34 |      3 |      -10 | 0.09 | -0.03 |
 | pukekura-raceway           |     20 |      1 |      -10 | 0.05 | -0.05 |
 | devonport-synthetic        |     57 |      4 |      -30 | 0.07 | -0.05 |
 | toowoomba                  |    126 |      7 |      -83 | 0.06 | -0.07 |
 | moe                        |     25 |      2 |      -20 | 0.08 | -0.08 |
 | rosehill                   |    274 |     15 |     -218 | 0.05 | -0.08 |
-| doomben                    |    335 |     16 |     -264 | 0.05 | -0.08 |
+| doomben                    |    336 |     16 |     -274 | 0.05 | -0.08 |
 | sandown-lakeside           |     81 |      6 |      -88 | 0.07 | -0.11 |
-| sandown-hillside           |    112 |      6 |     -136 | 0.05 | -0.12 |
+| sandown-hillside           |    116 |      6 |     -176 | 0.05 | -0.15 |
 | matamata                   |     32 |      2 |      -50 | 0.06 | -0.16 |
 | eagle-farm                 |    249 |     11 |     -414 | 0.04 | -0.17 |
 | kilcoy                     |     14 |      1 |      -28 | 0.07 | -0.2  |
@@ -363,13 +364,12 @@ Running profit since February 2020.
 | riccarton-park             |     46 |      2 |     -180 | 0.04 | -0.39 |
 | spendthrift-australia-park |     17 |      1 |      -70 | 0.06 | -0.41 |
 | ascot                      |    203 |      6 |     -904 | 0.03 | -0.45 |
-| belmont                    |    172 |      7 |     -786 | 0.04 | -0.46 |
+| belmont                    |    174 |      7 |     -806 | 0.04 | -0.46 |
 | gold-coast                 |    228 |      6 |    -1128 | 0.03 | -0.49 |
 | newmarket                  |     24 |      1 |     -120 | 0.04 | -0.5  |
 | sale                       |     52 |      2 |     -260 | 0.04 | -0.5  |
 | fairview                   |     35 |      1 |     -180 | 0.03 | -0.51 |
 | donald                     |     26 |      1 |     -140 | 0.04 | -0.54 |
-| ballarat-synthetic         |     39 |      1 |     -210 | 0.03 | -0.54 |
 | newcastle                  |    179 |      5 |    -1008 | 0.03 | -0.56 |
 | tamworth                   |     38 |      1 |     -218 | 0.03 | -0.57 |
 | bunbury                    |     30 |      1 |     -180 | 0.03 | -0.6  |
@@ -505,14 +505,14 @@ Running profit since February 2020.
 | hong-kong                    |     18 |      3 |      600 | 0.17 |  3.33 |
 | singapore                    |     46 |      3 |      380 | 0.07 |  0.83 |
 | australian-capital-territory |     59 |      5 |      364 | 0.08 |  0.62 |
-| south-australia              |    579 |     38 |     2909 | 0.07 |  0.5  |
+| south-australia              |    583 |     38 |     2869 | 0.07 |  0.49 |
 | tasmania                     |    171 |     14 |      389 | 0.08 |  0.23 |
-| victoria                     |   1745 |    113 |     3229 | 0.06 |  0.19 |
+| victoria                     |   1749 |    114 |     3389 | 0.07 |  0.19 |
 | south-africa                 |    169 |      9 |      290 | 0.05 |  0.17 |
 | new-zealand                  |    450 |     31 |      690 | 0.07 |  0.15 |
-| queensland                   |   1983 |    104 |     1303 | 0.05 |  0.07 |
+| queensland                   |   1984 |    105 |     1393 | 0.05 |  0.07 |
 | united-kingdom               |    344 |     18 |      235 | 0.05 |  0.07 |
-| western-australia            |    762 |     43 |      -84 | 0.06 | -0.01 |
-| new-south-wales              |   2179 |    117 |    -1194 | 0.05 | -0.05 |
-| northern-territory           |    202 |      8 |     -348 | 0.04 | -0.17 |
+| western-australia            |    764 |     43 |     -104 | 0.06 | -0.01 |
+| new-south-wales              |   2183 |    117 |    -1234 | 0.05 | -0.06 |
+| northern-territory           |    205 |      8 |     -378 | 0.04 | -0.18 |
 | ireland                      |     49 |      2 |     -190 | 0.04 | -0.39 |
