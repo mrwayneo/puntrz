@@ -1,13 +1,22 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+---   
+layout: home   
+---   
 
-layout: home
----
 
-| timeframe      |   runs |   wins |   profit |   sr |   roi |
-|:---------------|-------:|-------:|---------:|-----:|------:|
-| Last Week      |      1 |      1 |     40   | 1    |  4    |
-| This Month     |      2 |      1 |     30   | 0.5  |  1.5  |
-| This Year      |     52 |     19 |    599.5 | 0.37 |  1.15 |
-| Since Feb 2020 |    124 |     65 |   5178.5 | 0.52 |  4.18 |
+|               |   runs |   wins |   profit |   sr |   roi |
+|:--------------|-------:|-------:|---------:|-----:|------:|
+| moechilli     |    124 |     65 |   5178.5 | 0.52 |  4.18 |
+| yoda          |   3906 |    852 |  43157.9 | 0.22 |  1.1  |
+| benny         |   1152 |    279 |   4018.3 | 0.24 |  0.35 |
+| looseknot     |   1150 |    205 |   2730.5 | 0.18 |  0.24 |
+| pangea        |   6046 |   1265 |   7341.8 | 0.21 |  0.12 |
+| cosmo         |   8783 |    512 |   9055   | 0.06 |  0.1  |
+| overthrow     |   2977 |    790 |   1498.8 | 0.27 |  0.05 |
+| evenodds      |    209 |     87 |     64.7 | 0.42 |  0.03 |
+| icyhot        |   1579 |    381 |   -665.4 | 0.24 | -0.04 |
+| midnightrider |  13720 |   3346 |  -5090.8 | 0.24 | -0.04 |
+| bender        |   1957 |    566 |  -1304.3 | 0.29 | -0.07 |
+| shadowchaser  |   4403 |    811 |  -3842.3 | 0.18 | -0.09 |
+| reaper        |  15760 |   5700 | -18822.2 | 0.36 | -0.12 |
+| prometheus    |   4590 |   1581 |  -6127.1 | 0.34 | -0.13 |
+| ghostball     |   4766 |   1641 |  -6454.8 | 0.34 | -0.14 |
