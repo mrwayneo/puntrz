@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-07-18 11:19:31 +1000   
+date: 2021-07-18 21:30:41 +1000   
 categories: pangea   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |     56 |      9 |   -182.5 | 0.16 | -0.33 |
-| This Month     |    183 |     32 |   -119.5 | 0.17 | -0.07 |
-| This Year      |   2018 |    426 |   1130.8 | 0.21 |  0.06 |
-| Since Feb 2020 |   6078 |   1272 |   7320.3 | 0.21 |  0.12 |
+| This Week      |     65 |     13 |   -306   | 0.2  | -0.47 |
+| This Month     |    192 |     36 |   -243   | 0.19 | -0.13 |
+| This Year      |   2020 |    430 |   1077.3 | 0.21 |  0.05 |
+| Since Feb 2020 |   6080 |   1276 |   7266.8 | 0.21 |  0.12 |
 
 ### Pangea Last 100 CGTs.  
 Running profit since February 2020.  
@@ -28,30 +28,39 @@ Running profit since February 2020.
 | 15:20             | 2021-07-18 | racing.com-park R6      | 2 Big Blue           |   2.7  |    -10   |   7390.3 |
 | 14:54             | 2021-07-18 | alice-springs R1        | 4 Alvin Purple       |   8    |    -10   |   7400.3 |
 | 14:00             | 2021-07-18 | racing.com-park R4      | 4 Mawaany Machine    |   2.25 |    -10   |   7410.3 |
-| :3rd_place_medal: | 2021-07-17 | newbury R3              | 3 Withhold           |   9.5  |    -10   |   7420.3 |
-| 4                 | 2021-07-17 | eagle-farm R9           | 17 Spending My Time  |   5.5  |    -10   |   7430.3 |
-| 10                | 2021-07-17 | eagle-farm R9           | 4 Fisticuffs         |   7.5  |    -10   |   7440.3 |
-| :boom:            | 2021-07-17 | randwick R10            | 8 Our Bellagio Miss  |   5.5  |     45   |   7450.3 |
-| :2nd_place_medal: | 2021-07-17 | morphettville-parks R8  | 5 Frankie Pinot      |   2.7  |    -10   |   7405.3 |
-| :3rd_place_medal: | 2021-07-17 | eagle-farm R7           | 1 Avowal             |   4.8  |    -10   |   7415.3 |
-| :boom:            | 2021-07-17 | darwin R3               | 5 The Captain        |   3.5  |     25   |   7425.3 |
-| :2nd_place_medal: | 2021-07-17 | randwick R8             | 6 Itz Lily           |   6.5  |    -10   |   7400.3 |
-| :2nd_place_medal: | 2021-07-17 | darwin R2               | 7 Yulong Awesome     |  12    |    -10   |   7410.3 |
-| 9                 | 2021-07-17 | darwin R2               | 5 Extolment          |  21    |    -10   |   7420.3 |
-| :boom:            | 2021-07-17 | randwick R7             | 8 Steely             |   9    |     80   |   7430.3 |
-| :3rd_place_medal: | 2021-07-17 | goulburn R5             | 4 Narrated           |   2.15 |    -10   |   7350.3 |
-| :3rd_place_medal: | 2021-07-17 | darwin R1               | 3 Captain Hedderwick |   2.3  |    -10   |   7360.3 |
-| 5                 | 2021-07-17 | darwin R1               | 1 Count of Essex     |   2.7  |    -10   |   7370.3 |
-| :boom:            | 2021-07-17 | eagle-farm R5           | 6 Victoria Park      |   4.2  |     32   |   7380.3 |
-| 8                 | 2021-07-17 | gympie R3               | 2 Good Humour        |  12    |    -10   |   7348.3 |
-| 6                 | 2021-07-17 | randwick R6             | 5 Get The Idea       |   7.5  |    -10   |   7358.3 |
-| :3rd_place_medal: | 2021-07-17 | eagle-farm R4           | 6 Ef Troop           |   3.8  |    -10   |   7368.3 |
-| 4                 | 2021-07-17 | eagle-farm R3           | 7 Spirit House       |   9    |    -10   |   7378.3 |
-| 6                 | 2021-07-17 | eagle-farm R3           | 6 Ready Babe         |   4.6  |    -10   |   7388.3 |
-| :3rd_place_medal: | 2021-07-17 | eagle-farm R2           | 3 Genzai The Wolf    |   9    |    -10   |   7398.3 |
-| :boom:            | 2021-07-17 | eagle-farm R2           | 2 Shooting For Gold  |   1.65 |      6.5 |   7408.3 |
-| 6                 | 2021-07-17 | randwick R2             | 3 Aytobe             |  26    |    -10   |   7401.8 |
-| :boom:            | 2021-07-16 | geelong R8              | 2 Out To Win         |   4    |     30   |   7411.8 |
+| :3rd_place_medal: | 2021-07-17 | newbury R3              | 3 Withhold           |   9.5  |    -10   |   7286.8 |
+| 4                 | 2021-07-17 | eagle-farm R9           | 17 Spending My Time  |   5.5  |    -10   |   7296.8 |
+| 10                | 2021-07-17 | eagle-farm R9           | 4 Fisticuffs         |   7.5  |    -10   |   7306.8 |
+| :boom:            | 2021-07-17 | randwick R10            | 8 Our Bellagio Miss  |   5.5  |    -10   |   7316.8 |
+| :2nd_place_medal: | 2021-07-17 | morphettville-parks R8  | 5 Frankie Pinot      |   2.7  |    -10   |   7326.8 |
+| :3rd_place_medal: | 2021-07-17 | eagle-farm R7           | 1 Avowal             |   4.8  |    -10   |   7336.8 |
+| :boom:            | 2021-07-17 | darwin R3               | 5 The Captain        |   3.5  |    -10   |   7346.8 |
+| :2nd_place_medal: | 2021-07-17 | randwick R8             | 6 Itz Lily           |   6.5  |    -10   |   7356.8 |
+| :2nd_place_medal: | 2021-07-17 | darwin R2               | 7 Yulong Awesome     |  12    |    -10   |   7376.8 |
+| 9                 | 2021-07-17 | darwin R2               | 5 Extolment          |  21    |    -10   |   7386.8 |
+| :boom:            | 2021-07-17 | randwick R7             | 8 Steely             |   9    |    -10   |   7396.8 |
+| :3rd_place_medal: | 2021-07-17 | goulburn R5             | 4 Narrated           |   2.15 |    -10   |   7406.8 |
+| :3rd_place_medal: | 2021-07-17 | darwin R1               | 3 Captain Hedderwick |   2.3  |    -10   |   7416.8 |
+| 5                 | 2021-07-17 | darwin R1               | 1 Count of Essex     |   2.7  |    -10   |   7426.8 |
+| :boom:            | 2021-07-17 | eagle-farm R5           | 6 Victoria Park      |   4.2  |    -10   |   7436.8 |
+| 8                 | 2021-07-17 | gympie R3               | 2 Good Humour        |  12    |    -10   |   7446.8 |
+| 6                 | 2021-07-17 | randwick R6             | 5 Get The Idea       |   7.5  |    -10   |   7456.8 |
+| :3rd_place_medal: | 2021-07-17 | eagle-farm R4           | 6 Ef Troop           |   3.8  |    -10   |   7466.8 |
+| 4                 | 2021-07-17 | eagle-farm R3           | 7 Spirit House       |   9    |    -10   |   7476.8 |
+| 6                 | 2021-07-17 | eagle-farm R3           | 6 Ready Babe         |   4.6  |    -10   |   7486.8 |
+| :3rd_place_medal: | 2021-07-17 | eagle-farm R2           | 3 Genzai The Wolf    |   9    |    -10   |   7496.8 |
+| :boom:            | 2021-07-17 | eagle-farm R2           | 2 Shooting For Gold  |   1.65 |    -10   |   7506.8 |
+| 6                 | 2021-07-17 | randwick R2             | 3 Aytobe             |  26    |    -10   |   7516.8 |
+| :2nd_place_medal: | 2021-07-16 | mackay R8               | 4 Brad               |   4    |    -10   |   7526.8 |
+| :boom:            | 2021-07-16 | geelong R8              | 2 Out To Win         |   4    |     30   |   7536.8 |
+| :boom:            | 2021-07-16 | mackay R6               | 6 Dawson Delight     |   3.6  |     26   |   7506.8 |
+| 5                 | 2021-07-16 | taree R6                | 1 Cool Missile       |  11    |    -10   |   7480.8 |
+| :boom:            | 2021-07-16 | mackay R5               | 8 Gamboa             |   2.7  |     17   |   7490.8 |
+| :3rd_place_medal: | 2021-07-16 | mackay R4               | 12 All Native        |  12    |    -10   |   7473.8 |
+| 6                 | 2021-07-16 | mackay R4               | 4 Man O' Ross        |   2.6  |    -10   |   7483.8 |
+| :3rd_place_medal: | 2021-07-16 | mackay R2               | 1 Courtesy Bus       |   1.9  |    -10   |   7493.8 |
+| :boom:            | 2021-07-16 | timaru R6               | 6 Ringadingding      |  11    |    100   |   7503.8 |
+| :boom:            | 2021-07-16 | timaru R5               | 1 Arklow             |   3.2  |     22   |   7403.8 |
 | 10                | 2021-07-15 | northam R6              | 1 Campese            |   2.7  |    -10   |   7381.8 |
 | :2nd_place_medal: | 2021-07-15 | ipswich R8              | 8 Rabbit Clause      |   3.9  |    -10   |   7391.8 |
 | :3rd_place_medal: | 2021-07-15 | ipswich R8              | 5 Royal Sheen        |   7    |    -10   |   7401.8 |
@@ -109,22 +118,13 @@ Running profit since February 2020.
 | :boom:            | 2021-07-10 | gawler R3               | 9 Flying Pierro      |  31    |    300   |   7362.3 |
 | 6                 | 2021-07-10 | awapuni R6              | 9 Penelope Cruise    |   7.5  |    -10   |   7062.3 |
 | :2nd_place_medal: | 2021-07-10 | doomben R3              | 12 Glock             |  10    |    -10   |   7072.3 |
-| 7                 | 2021-07-10 | doomben R3              | 3 Man in Motion      |   9    |    -10   |   7082.3 |
-| :2nd_place_medal: | 2021-07-10 | randwick R4             | 3 Misteed            |   9.5  |    -10   |   7092.3 |
-| :boom:            | 2021-07-10 | te-rapa R5              | 9 Aero De Paris      |   4.6  |     36   |   7102.3 |
-| :3rd_place_medal: | 2021-07-10 | te-rapa R5              | 7 Shoshone           |   5    |    -10   |   7066.3 |
-| 4                 | 2021-07-10 | doomben R2              | 2 Total Recall       |   4.2  |    -10   |   7076.3 |
-| :2nd_place_medal: | 2021-07-10 | randwick R1             | 4 Dragonstone        |   4.8  |    -10   |   7086.3 |
-| 6                 | 2021-07-10 | awapuni R2              | 1 Vatican News       |  71    |    -10   |   7096.3 |
-| :2nd_place_medal: | 2021-07-10 | te-rapa R1              | 3 Teen Titan         |   6.5  |    -10   |   7106.3 |
-| 9                 | 2021-07-09 | rockhampton R7          | 7 Prioritise         | 101    |    -10   |   7116.3 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
-| Friday    |    673 |    150 |   1889.7 | 0.22 |  0.28 |
+| Friday    |    678 |    154 |   2044.7 | 0.23 |  0.3  |
 | Monday    |    166 |     29 |    792   | 0.17 |  0.48 |
-| Saturday  |   3060 |    590 |   2574.5 | 0.19 |  0.08 |
-| Sunday    |    697 |    161 |    980.8 | 0.23 |  0.14 |
+| Saturday  |   3059 |    590 |   2346   | 0.19 |  0.08 |
+| Sunday    |    695 |    161 |   1000.8 | 0.23 |  0.14 |
 | Thursday  |    389 |     91 |    871   | 0.23 |  0.22 |
 | Tuesday   |    360 |     84 |    264.8 | 0.23 |  0.07 |
 | Wednesday |    733 |    167 |    -52.5 | 0.23 | -0.01 |
@@ -183,15 +183,15 @@ Running profit since February 2020.
 | 2021-WK01 |     54 |     10 |    -99.4 | 0.19 | -0.18 |
 | 2021-WK02 |     56 |     14 |    -17.6 | 0.25 | -0.03 |
 | 2021-WK03 |     54 |     14 |    148.1 | 0.26 |  0.27 |
-| 2021-WK04 |     68 |     13 |    -49.4 | 0.19 | -0.07 |
+| 2021-WK04 |     65 |     13 |    -19.4 | 0.2  | -0.03 |
 | 2021-WK05 |     66 |     20 |    358.1 | 0.3  |  0.54 |
 | 2021-WK06 |     77 |     23 |    113.7 | 0.3  |  0.15 |
 | 2021-WK07 |     72 |     16 |    -72   | 0.22 | -0.1  |
 | 2021-WK08 |     61 |      8 |   -326   | 0.13 | -0.53 |
 | 2021-WK09 |     76 |     20 |    130.5 | 0.26 |  0.17 |
 | 2021-WK10 |     84 |     22 |    158   | 0.26 |  0.19 |
-| 2021-WK11 |     54 |     11 |    -37   | 0.2  | -0.07 |
-| 2021-WK12 |     45 |     12 |    -62.8 | 0.27 | -0.14 |
+| 2021-WK11 |     53 |     11 |    -27   | 0.21 | -0.05 |
+| 2021-WK12 |     42 |     12 |    -32.8 | 0.29 | -0.08 |
 | 2021-WK13 |     69 |     16 |    229   | 0.23 |  0.33 |
 | 2021-WK14 |     72 |     16 |     97   | 0.22 |  0.13 |
 | 2021-WK15 |     86 |     14 |   -209.9 | 0.16 | -0.24 |
@@ -207,7 +207,7 @@ Running profit since February 2020.
 | 2021-WK25 |     67 |     10 |   -105.5 | 0.15 | -0.16 |
 | 2021-WK26 |     53 |     12 |   -182.5 | 0.23 | -0.34 |
 | 2021-WK27 |     79 |     13 |    242.5 | 0.16 |  0.31 |
-| 2021-WK28 |     56 |      9 |   -182.5 | 0.16 | -0.33 |
+| 2021-WK28 |     65 |     13 |   -306   | 0.2  | -0.47 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -222,19 +222,19 @@ Running profit since February 2020.
 | 2020-10 |    448 |     85 |   -123.2 | 0.19 | -0.03 |
 | 2020-11 |    414 |     76 |   -892.5 | 0.18 | -0.22 |
 | 2020-12 |    306 |     59 |   -325.1 | 0.19 | -0.11 |
-| 2021-01 |    276 |     62 |    -79.8 | 0.22 | -0.03 |
+| 2021-01 |    273 |     62 |    -49.8 | 0.23 | -0.02 |
 | 2021-02 |    276 |     67 |     73.8 | 0.24 |  0.03 |
-| 2021-03 |    279 |     71 |    239.2 | 0.25 |  0.09 |
+| 2021-03 |    275 |     71 |    279.2 | 0.26 |  0.1  |
 | 2021-04 |    339 |     63 |     74.1 | 0.19 |  0.02 |
 | 2021-05 |    369 |     80 |   1147   | 0.22 |  0.31 |
 | 2021-06 |    296 |     51 |   -204   | 0.17 | -0.07 |
-| 2021-07 |    183 |     32 |   -119.5 | 0.17 | -0.07 |
+| 2021-07 |    192 |     36 |   -243   | 0.19 | -0.13 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
 | perth                      |      1 |      1 |     80   | 1    |  8    |
 | longford                   |      1 |      1 |     60   | 1    |  6    |
-| timaru                     |      2 |      2 |    110   | 1    |  5.5  |
+| timaru                     |      4 |      4 |    232   | 1    |  5.8  |
 | bath-arab                  |      1 |      1 |     55   | 1    |  5.5  |
 | cootamundra                |      1 |      1 |     55   | 1    |  5.5  |
 | narrogin                   |      1 |      1 |     53   | 1    |  5.3  |
@@ -286,11 +286,11 @@ Running profit since February 2020.
 | murray-bdge                |     78 |     19 |    472.5 | 0.24 |  0.61 |
 | tennant-creek              |      3 |      1 |     18   | 0.33 |  0.6  |
 | mornington                 |     13 |      5 |     71.5 | 0.38 |  0.55 |
+| bunbury                    |     32 |      9 |    168   | 0.28 |  0.52 |
 | devonport-synthetic        |     84 |     21 |    422   | 0.25 |  0.5  |
 | ballina                    |      7 |      2 |     35   | 0.29 |  0.5  |
 | wangaratta                 |      5 |      1 |     25   | 0.2  |  0.5  |
 | geraldton                  |     18 |      5 |     89   | 0.28 |  0.49 |
-| bunbury                    |     33 |      9 |    158   | 0.27 |  0.48 |
 | fairview                   |      9 |      4 |     43.5 | 0.44 |  0.48 |
 | donald                     |      8 |      2 |     37   | 0.25 |  0.46 |
 | grafton                    |     28 |      8 |    119.5 | 0.29 |  0.43 |
@@ -303,32 +303,32 @@ Running profit since February 2020.
 | moonee-valley              |    130 |     29 |    471.5 | 0.22 |  0.36 |
 | bundaberg                  |     10 |      3 |     35   | 0.3  |  0.35 |
 | albany                     |     16 |      5 |     53   | 0.31 |  0.33 |
-| taree                      |     12 |      5 |     39.5 | 0.42 |  0.33 |
-| mackay                     |    136 |     40 |    407.6 | 0.29 |  0.3  |
+| mackay                     |    142 |     42 |    410.6 | 0.3  |  0.29 |
+| canterbury                 |     56 |     12 |    161.5 | 0.21 |  0.29 |
 | kensington                 |     80 |     18 |    219   | 0.22 |  0.27 |
-| canterbury                 |     57 |     12 |    151.5 | 0.21 |  0.27 |
 | scone                      |     22 |      5 |     54.5 | 0.23 |  0.25 |
 | port-lincoln               |     23 |      5 |     55   | 0.22 |  0.24 |
+| taree                      |     13 |      5 |     29.5 | 0.38 |  0.23 |
 | oakbank                    |      6 |      2 |     14   | 0.33 |  0.23 |
 | caulfield                  |    255 |     49 |    550.2 | 0.19 |  0.22 |
 | bordertown                 |     12 |      2 |     26   | 0.17 |  0.22 |
 | beaudesert                 |      8 |      3 |     16.5 | 0.38 |  0.21 |
 | waverley                   |      4 |      1 |      8   | 0.25 |  0.2  |
-| randwick                   |    243 |     41 |    388.8 | 0.17 |  0.16 |
 | rosehill                   |    148 |     26 |    243   | 0.18 |  0.16 |
 | townsville                 |    147 |     35 |    219   | 0.24 |  0.15 |
 | sandown-lakeside           |     24 |      8 |     35.5 | 0.33 |  0.15 |
 | geelong                    |     25 |      4 |     30   | 0.16 |  0.12 |
 | ffos-las                   |      2 |      1 |      2.5 | 0.5  |  0.12 |
+| randwick                   |    243 |     41 |    243.8 | 0.17 |  0.1  |
 | riccarton-park             |     10 |      1 |     10   | 0.1  |  0.1  |
 | echuca                     |      4 |      1 |      4   | 0.25 |  0.1  |
-| darwin                     |    229 |     55 |    204.4 | 0.24 |  0.09 |
 | ascot                      |    214 |     55 |    185   | 0.26 |  0.09 |
 | warrnambool                |     33 |     10 |     29   | 0.3  |  0.09 |
 | doomben                    |    304 |     59 |    230.1 | 0.19 |  0.08 |
+| darwin                     |    227 |     55 |    189.4 | 0.24 |  0.08 |
+| newcastle                  |     74 |     12 |     49   | 0.16 |  0.07 |
 | casterton                  |      9 |      2 |      6   | 0.22 |  0.07 |
-| newcastle                  |     75 |     12 |     39   | 0.16 |  0.05 |
-| eagle-farm                 |    305 |     52 |    131.5 | 0.17 |  0.04 |
+| eagle-farm                 |    305 |     52 |     73   | 0.17 |  0.02 |
 | launceston                 |    105 |     24 |     19   | 0.23 |  0.02 |
 | longreach                  |      5 |      1 |      1   | 0.2  |  0.02 |
 | rockhampton                |    174 |     41 |     26.1 | 0.24 |  0.01 |
@@ -338,12 +338,12 @@ Running profit since February 2020.
 | pinjarra                   |     35 |      6 |     -4   | 0.17 | -0.01 |
 | charleville                |      3 |      1 |     -1   | 0.33 | -0.03 |
 | cranbourne                 |     20 |      5 |     -8.5 | 0.25 | -0.04 |
+| tamworth                   |     33 |      6 |    -21   | 0.18 | -0.06 |
 | warwick-farm               |     81 |     16 |    -47.5 | 0.2  | -0.06 |
 | kalgoorlie                 |     94 |     19 |    -60.5 | 0.2  | -0.06 |
 | fakenham                   |      2 |      1 |     -1.7 | 0.5  | -0.09 |
 | stratford                  |      2 |      1 |     -1.7 | 0.5  | -0.09 |
 | lismore                    |      7 |      2 |     -6   | 0.29 | -0.09 |
-| tamworth                   |     34 |      6 |    -31   | 0.18 | -0.09 |
 | casino                     |      4 |      1 |     -4   | 0.25 | -0.1  |
 | racing.com-park            |     24 |      3 |    -30   | 0.12 | -0.12 |
 | wyong                      |     29 |      5 |    -34   | 0.17 | -0.12 |
@@ -355,12 +355,12 @@ Running profit since February 2020.
 | ipswich                    |    131 |     23 |   -202   | 0.18 | -0.15 |
 | benalla                    |      5 |      1 |    -10   | 0.2  | -0.2  |
 | barcaldine                 |     16 |      4 |    -33.5 | 0.25 | -0.21 |
+| muswellbrook               |     20 |      3 |    -42   | 0.15 | -0.21 |
 | sunshine-coast             |    120 |     21 |   -251.1 | 0.18 | -0.21 |
 | down-royal                 |      2 |      1 |     -4.3 | 0.5  | -0.22 |
 | gosford                    |     28 |      3 |    -62.5 | 0.11 | -0.22 |
 | gundagai                   |      3 |      1 |     -7   | 0.33 | -0.23 |
 | hawera                     |      3 |      1 |     -7   | 0.33 | -0.23 |
-| muswellbrook               |     21 |      3 |    -52   | 0.14 | -0.25 |
 | hobart                     |     68 |     19 |   -171.1 | 0.28 | -0.25 |
 | flemington                 |    260 |     30 |   -734   | 0.12 | -0.28 |
 | sale                       |     14 |      3 |    -40   | 0.21 | -0.29 |
@@ -457,14 +457,14 @@ Running profit since February 2020.
 | location                     |   runs |   wins |   profit |   sr |   roi |
 |:-----------------------------|-------:|-------:|---------:|-----:|------:|
 | south-australia              |    552 |    122 |   2186.6 | 0.22 |  0.4  |
+| new-zealand                  |    140 |     35 |    545.9 | 0.25 |  0.39 |
 | australian-capital-territory |     39 |      7 |    151.5 | 0.18 |  0.39 |
-| new-zealand                  |    138 |     33 |    423.9 | 0.24 |  0.31 |
-| new-south-wales              |   1105 |    217 |   2211.3 | 0.2  |  0.2  |
-| queensland                   |   1823 |    378 |   2298.2 | 0.21 |  0.13 |
+| new-south-wales              |   1102 |    217 |   2096.3 | 0.2  |  0.19 |
 | tasmania                     |    258 |     65 |    329.9 | 0.25 |  0.13 |
+| queensland                   |   1829 |    380 |   2242.7 | 0.21 |  0.12 |
 | united-kingdom               |     69 |     17 |     71.8 | 0.25 |  0.1  |
-| western-australia            |    602 |    141 |     80.5 | 0.23 |  0.01 |
-| northern-territory           |    381 |     88 |     14.9 | 0.23 |  0    |
+| western-australia            |    601 |    141 |     90.5 | 0.23 |  0.02 |
+| northern-territory           |    379 |     88 |     -0.1 | 0.23 | -0    |
 | victoria                     |   1033 |    190 |    -99.3 | 0.18 | -0.01 |
 | ireland                      |     11 |      3 |    -16   | 0.27 | -0.15 |
 | south-africa                 |     19 |      4 |    -56.5 | 0.21 | -0.3  |
