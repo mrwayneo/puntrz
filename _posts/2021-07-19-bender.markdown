@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Bender"   
-date: 2021-07-19 03:01:43 +1000   
+date: 2021-07-19 23:21:43 +1000   
 categories: bender   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last Week      |     21 |      7 |     83   | 0.33 |  0.4  |
-| This Month     |     70 |     24 |    139.5 | 0.34 |  0.2  |
-| This Year      |    731 |    211 |   -614.8 | 0.29 | -0.08 |
-| Since Feb 2020 |   1961 |    571 |  -1115.8 | 0.29 | -0.06 |
+| Last Week      |     24 |      8 |     80   | 0.33 |  0.33 |
+| This Month     |     73 |     25 |    136.5 | 0.34 |  0.19 |
+| This Year      |    734 |    212 |   -617.8 | 0.29 | -0.08 |
+| Since Feb 2020 |   1964 |    572 |  -1118.8 | 0.29 | -0.06 |
 
 ### Bender Last 100 CGTs.  
 Running profit since February 2020.  
@@ -29,6 +29,9 @@ Running profit since February 2020.
 | :boom:            | 2021-07-17 | morphettville-parks R7  | 3 Nudge Bar          |   5.5  |     45   |  -1232.8 |
 | 4                 | 2021-07-17 | eagle-farm R5           | 7 Lethal Warning     |   4.8  |    -10   |  -1277.8 |
 | :boom:            | 2021-07-17 | eagle-farm R2           | 2 Shooting For Gold  |   1.65 |      6.5 |  -1267.8 |
+| 5                 | 2021-07-16 | mackay R8               | 9 Star of O'reilly   |   8.5  |    -10   |  -1277.3 |
+| :2nd_place_medal: | 2021-07-16 | mackay R8               | 4 Brad               |   4    |    -10   |  -1267.3 |
+| :boom:            | 2021-07-16 | mackay R5               | 8 Gamboa             |   2.7  |     17   |  -1257.3 |
 | :3rd_place_medal: | 2021-07-15 | leicester R3            | 2 Mars Landing       |   2.9  |    -10   |  -1274.3 |
 | :2nd_place_medal: | 2021-07-15 | northam R6              | 5 Time Scale         |   3    |    -10   |  -1264.3 |
 | 4                 | 2021-07-15 | ipswich R7              | 6 Rich Lister        |   2.7  |    -10   |  -1254.3 |
@@ -115,13 +118,10 @@ Running profit since February 2020.
 | 12                | 2021-06-20 | kalgoorlie R6           | 2 Peko               |   7.5  |    -10   |  -1239.8 |
 | 4                 | 2021-06-20 | kalgoorlie R4           | 1 Jakestar           |   3.2  |    -10   |  -1229.8 |
 | :boom:            | 2021-06-19 | murray-bdge R7          | 7 Too Good Too Hard  |   4    |     30   |  -1219.8 |
-| 8                 | 2021-06-19 | belmont R3              | 2 First Law          |   8.5  |    -10   |  -1249.8 |
-| :3rd_place_medal: | 2021-06-19 | flemington R6           | 1 Namakwa            |   4.05 |    -10   |  -1239.8 |
-| :3rd_place_medal: | 2021-06-19 | darwin R2               | 7 Siakam             |  26    |    -10   |  -1229.8 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
-| Friday    |    277 |     84 |   -117.6 | 0.3  | -0.04 |
+| Friday    |    280 |     85 |   -120.6 | 0.3  | -0.04 |
 | Monday    |     79 |     22 |   -121.2 | 0.28 | -0.15 |
 | Saturday  |    824 |    256 |    383   | 0.31 |  0.05 |
 | Sunday    |    310 |     83 |   -538   | 0.27 | -0.17 |
@@ -207,7 +207,7 @@ Running profit since February 2020.
 | 2021-WK25 |     20 |      4 |    -77.5 | 0.2  | -0.39 |
 | 2021-WK26 |     30 |      7 |    -24   | 0.23 | -0.08 |
 | 2021-WK27 |     23 |     12 |    102.5 | 0.52 |  0.45 |
-| 2021-WK28 |     21 |      7 |     83   | 0.33 |  0.4  |
+| 2021-WK28 |     24 |      8 |     80   | 0.33 |  0.33 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -228,7 +228,7 @@ Running profit since February 2020.
 | 2021-04 |    116 |     32 |    -40.4 | 0.28 | -0.03 |
 | 2021-05 |    126 |     36 |    -42.4 | 0.29 | -0.03 |
 | 2021-06 |     83 |     22 |   -161.6 | 0.27 | -0.19 |
-| 2021-07 |     70 |     24 |    139.5 | 0.34 |  0.2  |
+| 2021-07 |     73 |     25 |    136.5 | 0.34 |  0.19 |
 
 | track               |   runs |   wins |   profit |   sr |   roi |
 |:--------------------|-------:|-------:|---------:|-----:|------:|
@@ -315,7 +315,7 @@ Running profit since February 2020.
 | morphettville-parks |     25 |      6 |    -43.4 | 0.24 | -0.17 |
 | eagle-farm          |     42 |     12 |    -75   | 0.29 | -0.18 |
 | bathurst            |      4 |      2 |     -7.5 | 0.5  | -0.19 |
-| mackay              |     44 |     15 |    -85.5 | 0.34 | -0.19 |
+| mackay              |     47 |     16 |    -88.5 | 0.34 | -0.19 |
 | lingfield           |     11 |      3 |    -23.8 | 0.27 | -0.22 |
 | sandown-lakeside    |     11 |      2 |    -26   | 0.18 | -0.24 |
 | murray-bdge         |     13 |      3 |    -31.8 | 0.23 | -0.24 |
@@ -438,7 +438,7 @@ Running profit since February 2020.
 | ireland                      |     14 |      4 |     41   | 0.29 |  0.29 |
 | northern-territory           |     83 |     36 |     31   | 0.43 |  0.04 |
 | tasmania                     |     91 |     32 |     -4.6 | 0.35 | -0.01 |
-| queensland                   |    518 |    157 |   -379.4 | 0.3  | -0.07 |
+| queensland                   |    521 |    158 |   -382.4 | 0.3  | -0.07 |
 | new-south-wales              |    299 |     72 |   -275.7 | 0.24 | -0.09 |
 | south-australia              |    115 |     27 |   -158.7 | 0.23 | -0.14 |
 | united-kingdom               |    114 |     32 |   -173.6 | 0.28 | -0.15 |

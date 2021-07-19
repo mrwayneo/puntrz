@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-07-19 03:01:24 +1000   
+date: 2021-07-19 23:21:24 +1000   
 categories: overthrow   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last Week      |     46 |     12 |   -111.5 | 0.26 | -0.24 |
-| This Month     |    120 |     32 |    808.6 | 0.27 |  0.67 |
-| This Year      |   1284 |    322 |    572.8 | 0.25 |  0.04 |
-| Since Feb 2020 |   2986 |    797 |   1586.3 | 0.27 |  0.05 |
+| Last Week      |     53 |     16 |    -67.7 | 0.3  | -0.13 |
+| This Month     |    127 |     36 |    852.4 | 0.28 |  0.67 |
+| This Year      |   1291 |    326 |    616.6 | 0.25 |  0.05 |
+| Since Feb 2020 |   2993 |    801 |   1630.1 | 0.27 |  0.05 |
 
 ### Overthrow Last 100 CGTs.  
 Running profit since February 2020.  
@@ -42,6 +42,13 @@ Running profit since February 2020.
 | :boom:            | 2021-07-17 | eagle-farm R5          | 6 Victoria Park      |   4.2  |     32   |   1608.8 |
 | :3rd_place_medal: | 2021-07-17 | eagle-farm R4          | 6 Ef Troop           |   3.8  |    -10   |   1576.8 |
 | 4                 | 2021-07-17 | eagle-farm R3          | 7 Spirit House       |   9    |    -10   |   1586.8 |
+| :boom:            | 2021-07-16 | newbury R4             | 5 Golden Bugle       |   3.8  |     28   |   1640.6 |
+| :boom:            | 2021-07-16 | newbury R2             | 9 Reach For The Moon |   1.28 |      2.8 |   1612.6 |
+| :2nd_place_medal: | 2021-07-16 | mackay R8              | 4 Brad               |   4    |    -10   |   1609.8 |
+| :boom:            | 2021-07-16 | mackay R6              | 6 Dawson Delight     |   3.6  |     26   |   1619.8 |
+| :boom:            | 2021-07-16 | mackay R5              | 8 Gamboa             |   2.7  |     17   |   1593.8 |
+| 5                 | 2021-07-16 | mackay R4              | 8 Seberton           |   5.5  |    -10   |   1576.8 |
+| 5                 | 2021-07-16 | mackay R3              | 3 Lifetime Quest     |   5.5  |    -10   |   1586.8 |
 | :boom:            | 2021-07-15 | ipswich R8             | 2 Red Bloom          |   2    |     10   |   1596.8 |
 | :boom:            | 2021-07-15 | ipswich R6             | 1 Befana             |   4.2  |     32   |   1586.8 |
 | 6                 | 2021-07-15 | ipswich R5             | 3 Westham            |   5.5  |    -10   |   1554.8 |
@@ -111,17 +118,10 @@ Running profit since February 2020.
 | :2nd_place_medal: | 2021-07-07 | grafton R7             | 9 Phobetor           |   3.8  |    -10   |    609.7 |
 | :boom:            | 2021-07-07 | eagle-farm R7          | 1 Rotator            |   2    |     10   |    619.7 |
 | :2nd_place_medal: | 2021-07-07 | eagle-farm R6          | 5 Lashoni            |   9    |    -10   |    609.7 |
-| :2nd_place_medal: | 2021-07-07 | kensington R3          | 5 Promise Of Success |   2.4  |    -10   |    619.7 |
-| :boom:            | 2021-07-07 | eagle-farm R1          | 8 Victoria Park      |   2.5  |     15   |    629.7 |
-| 4                 | 2021-07-06 | townsville R8          | 7 Buxton             |  18    |    -10   |    614.7 |
-| 12                | 2021-07-06 | townsville R8          | 3 Bajan Gold         |   6.5  |    -10   |    624.7 |
-| :boom:            | 2021-07-06 | townsville R6          | 1 Cleaver Greene     |   2    |     10   |    634.7 |
-| 9                 | 2021-07-06 | townsville R5          | 11 Soldati           |  41    |    -10   |    624.7 |
-| :2nd_place_medal: | 2021-07-06 | townsville R5          | 6 Bellevita          |   6    |    -10   |    634.7 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
-| Friday    |    329 |     93 |   -147   | 0.28 | -0.04 |
+| Friday    |    336 |     97 |   -103.2 | 0.29 | -0.03 |
 | Monday    |    160 |     49 |    592.4 | 0.31 |  0.37 |
 | Saturday  |   1101 |    261 |   1050.8 | 0.24 |  0.1  |
 | Sunday    |    388 |    102 |   -229.7 | 0.26 | -0.06 |
@@ -207,7 +207,7 @@ Running profit since February 2020.
 | 2021-WK25 |     39 |      9 |     68.4 | 0.23 |  0.18 |
 | 2021-WK26 |     21 |      6 |     -6   | 0.29 | -0.03 |
 | 2021-WK27 |     58 |     16 |    923.1 | 0.28 |  1.59 |
-| 2021-WK28 |     46 |     12 |   -111.5 | 0.26 | -0.24 |
+| 2021-WK28 |     53 |     16 |    -67.7 | 0.3  | -0.13 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -228,7 +228,7 @@ Running profit since February 2020.
 | 2021-04 |    229 |     57 |    -81.8 | 0.25 | -0.04 |
 | 2021-05 |    209 |     53 |     28   | 0.25 |  0.01 |
 | 2021-06 |    192 |     40 |     68.8 | 0.21 |  0.04 |
-| 2021-07 |    120 |     32 |    808.6 | 0.27 |  0.67 |
+| 2021-07 |    127 |     36 |    852.4 | 0.28 |  0.67 |
 
 | track                   |   runs |   wins |   profit |   sr |   roi |
 |:------------------------|-------:|-------:|---------:|-----:|------:|
@@ -288,6 +288,7 @@ Running profit since February 2020.
 | cheltenham              |      7 |      2 |     16   | 0.29 |  0.23 |
 | oakbank                 |      2 |      1 |      4   | 0.5  |  0.2  |
 | fontwell                |     10 |      4 |     19   | 0.4  |  0.19 |
+| newbury                 |     30 |     12 |     52.1 | 0.4  |  0.17 |
 | southwell               |     17 |      7 |     28.5 | 0.41 |  0.17 |
 | navan                   |      6 |      1 |     10   | 0.17 |  0.17 |
 | gold-coast              |     62 |     12 |     96.1 | 0.19 |  0.16 |
@@ -301,11 +302,10 @@ Running profit since February 2020.
 | beaumont                |      4 |      1 |      4   | 0.25 |  0.1  |
 | geraldton               |      2 |      1 |      2   | 0.5  |  0.1  |
 | gatton                  |     14 |      3 |     13   | 0.21 |  0.09 |
-| newbury                 |     28 |     10 |     21.3 | 0.36 |  0.08 |
 | gawler                  |     21 |      7 |     17   | 0.33 |  0.08 |
 | tamworth                |     13 |      3 |     11   | 0.23 |  0.08 |
+| mackay                  |     75 |     23 |     54.5 | 0.31 |  0.07 |
 | ipswich                 |     82 |     27 |     52.5 | 0.33 |  0.06 |
-| mackay                  |     70 |     21 |     41.5 | 0.3  |  0.06 |
 | emerald                 |      8 |      1 |      5   | 0.12 |  0.06 |
 | otaki                   |     16 |      6 |      6   | 0.38 |  0.04 |
 | ffos-las                |      4 |      2 |      1.7 | 0.5  |  0.04 |
@@ -433,12 +433,12 @@ Running profit since February 2020.
 | ireland                      |    106 |     42 |    431   | 0.4  |  0.41 |
 | new-south-wales              |    166 |     40 |    509.6 | 0.24 |  0.31 |
 | tasmania                     |    164 |     41 |    248.4 | 0.25 |  0.15 |
-| queensland                   |    910 |    238 |    914.6 | 0.26 |  0.1  |
+| queensland                   |    915 |    240 |    927.6 | 0.26 |  0.1  |
 | south-australia              |    234 |     59 |    -13.3 | 0.25 | -0.01 |
 | new-zealand                  |    260 |     70 |    -40.3 | 0.27 | -0.02 |
 | victoria                     |     92 |     20 |    -51.5 | 0.22 | -0.06 |
 | western-australia            |    349 |    109 |   -574.1 | 0.31 | -0.16 |
-| united-kingdom               |    594 |    144 |   -998.6 | 0.24 | -0.17 |
+| united-kingdom               |    596 |    146 |   -967.8 | 0.24 | -0.16 |
 | australian-capital-territory |     13 |      3 |    -28.5 | 0.23 | -0.22 |
 | south-africa                 |      1 |      0 |    -10   | 0    | -1    |
 | hong-kong                    |      2 |      0 |    -20   | 0    | -1    |

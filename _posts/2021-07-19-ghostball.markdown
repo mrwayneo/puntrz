@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Ghostball"   
-date: 2021-07-19 03:03:05 +1000   
+date: 2021-07-19 23:23:05 +1000   
 categories: ghostball   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last Week      |     53 |     16 |   -220   | 0.3  | -0.42 |
-| This Month     |    180 |     52 |   -583.5 | 0.29 | -0.32 |
-| This Year      |   1817 |    604 |  -2968.1 | 0.33 | -0.16 |
-| Since Feb 2020 |   4796 |   1651 |  -6617.3 | 0.34 | -0.14 |
+| Last Week      |     56 |     17 |   -218   | 0.3  | -0.39 |
+| This Month     |    183 |     53 |   -581.5 | 0.29 | -0.32 |
+| This Year      |   1820 |    605 |  -2966.1 | 0.33 | -0.16 |
+| Since Feb 2020 |   4799 |   1652 |  -6615.3 | 0.34 | -0.14 |
 
 ### Ghostball Last 100 CGTs.  
 Running profit since February 2020.  
@@ -73,6 +73,9 @@ Running profit since February 2020.
 | :boom:            | 2021-07-17 | lismore R1             | 5 Samhain            |   3.3  |     23   |  -6277.3 |
 | :boom:            | 2021-07-17 | moe R3                 | 10 Royelle           |   1.45 |      4.5 |  -6300.3 |
 | :3rd_place_medal: | 2021-07-17 | randwick R1            | 6 Honeycreeper       |   2.25 |    -10   |  -6304.8 |
+| :2nd_place_medal: | 2021-07-16 | dubbo R4               | 7 Hammoon Jig        |   2.7  |    -10   |  -6292.8 |
+| :boom:            | 2021-07-16 | timaru R5              | 1 Arklow             |   3.2  |     22   |  -6282.8 |
+| :2nd_place_medal: | 2021-07-16 | dubbo R1               | 8 My Khaleesi        |   2.8  |    -10   |  -6304.8 |
 | 4                 | 2021-07-15 | hamilton R3            | 2 Overwrite          |   3.12 |    -10   |  -6294.8 |
 | :3rd_place_medal: | 2021-07-15 | leicester R2           | 5 Time Has Wings     |   2.9  |    -10   |  -6284.8 |
 | 10                | 2021-07-15 | northam R6             | 1 Campese            |   2.7  |    -10   |  -6274.8 |
@@ -115,13 +118,10 @@ Running profit since February 2020.
 | :3rd_place_medal: | 2021-07-10 | toowoomba R2           | 12 Sonic Arrow       |   3.2  |    -10   |  -6234.3 |
 | :boom:            | 2021-07-10 | gawler R7              | 10 Maha              |   2.45 |     14.5 |  -6224.3 |
 | :boom:            | 2021-07-10 | cowra R5               | 7 Deshawn            |   3.1  |     21   |  -6238.8 |
-| :boom:            | 2021-07-10 | broome R1              | 3 The Fibonacci      |   2.7  |     17   |  -6259.8 |
-| :2nd_place_medal: | 2021-07-10 | beaudesert R8          | 6 Two Smokin Barrels |   2.5  |    -10   |  -6276.8 |
-| :boom:            | 2021-07-10 | caulfield R6           | 7 Red Santa          |   2.2  |     12   |  -6266.8 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
-| Friday    |    641 |    226 |   -676.6 | 0.35 | -0.11 |
+| Friday    |    644 |    227 |   -674.6 | 0.35 | -0.1  |
 | Monday    |    433 |    139 |   -879.5 | 0.32 | -0.2  |
 | Saturday  |   1161 |    401 |  -1437.8 | 0.35 | -0.12 |
 | Sunday    |    897 |    306 |  -1323.3 | 0.34 | -0.15 |
@@ -207,7 +207,7 @@ Running profit since February 2020.
 | 2021-WK25 |     56 |     15 |   -180.1 | 0.27 | -0.32 |
 | 2021-WK26 |     50 |     15 |   -116.5 | 0.3  | -0.23 |
 | 2021-WK27 |     60 |     23 |    -18   | 0.38 | -0.03 |
-| 2021-WK28 |     53 |     16 |   -220   | 0.3  | -0.42 |
+| 2021-WK28 |     56 |     17 |   -218   | 0.3  | -0.39 |
 | 2021-WK29 |     25 |      0 |   -250   | 0    | -1    |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
@@ -229,7 +229,7 @@ Running profit since February 2020.
 | 2021-04 |    319 |    107 |   -566.8 | 0.34 | -0.18 |
 | 2021-05 |    291 |     97 |   -428.2 | 0.33 | -0.15 |
 | 2021-06 |    221 |     76 |   -368.2 | 0.34 | -0.17 |
-| 2021-07 |    180 |     52 |   -583.5 | 0.29 | -0.32 |
+| 2021-07 |    183 |     53 |   -581.5 | 0.29 | -0.32 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -274,7 +274,6 @@ Running profit since February 2020.
 | narrandera                 |      6 |      3 |     22   | 0.5  |  0.37 |
 | doncaster                  |      5 |      3 |     18.3 | 0.6  |  0.37 |
 | roscommon                  |      4 |      2 |     13.5 | 0.5  |  0.34 |
-| dubbo                      |     29 |     15 |     93   | 0.52 |  0.32 |
 | royal-ascot                |      5 |      2 |     15   | 0.4  |  0.3  |
 | navan                      |      4 |      2 |     12   | 0.5  |  0.3  |
 | great-western              |      2 |      1 |      6   | 0.5  |  0.3  |
@@ -285,6 +284,7 @@ Running profit since February 2020.
 | riccarton-park             |     14 |      6 |     36   | 0.43 |  0.26 |
 | wimmera%40warracknabeal    |      8 |      4 |     20.5 | 0.5  |  0.26 |
 | belmont                    |     41 |     20 |    101   | 0.49 |  0.25 |
+| dubbo                      |     31 |     15 |     73   | 0.48 |  0.24 |
 | warwick                    |     15 |      8 |     36.1 | 0.53 |  0.24 |
 | gawler                     |     26 |     13 |     59   | 0.5  |  0.23 |
 | fairview                   |     50 |     24 |    110.5 | 0.48 |  0.22 |
@@ -327,6 +327,7 @@ Running profit since February 2020.
 | scone                      |     28 |     12 |      5.2 | 0.43 |  0.02 |
 | tatura                     |     11 |      5 |      2.5 | 0.45 |  0.02 |
 | broome                     |     11 |      4 |      1.5 | 0.36 |  0.01 |
+| timaru                     |      9 |      3 |      0.5 | 0.33 |  0.01 |
 | ipswich                    |     87 |     36 |      3.5 | 0.41 |  0    |
 | traralgon                  |      3 |      1 |      0   | 0.33 |  0    |
 | wolverhampton              |      3 |      1 |      0   | 0.33 |  0    |
@@ -399,7 +400,6 @@ Running profit since February 2020.
 | wellington                 |     13 |      4 |    -32.5 | 0.31 | -0.25 |
 | bathurst                   |     26 |      8 |    -67   | 0.31 | -0.26 |
 | market-rasen               |      3 |      1 |     -8   | 0.33 | -0.27 |
-| timaru                     |      8 |      2 |    -21.5 | 0.25 | -0.27 |
 | terang                     |      9 |      3 |    -23.9 | 0.33 | -0.27 |
 | newmarket                  |     20 |      5 |    -53.5 | 0.25 | -0.27 |
 | devonport-synthetic        |     24 |      6 |    -65   | 0.25 | -0.27 |
@@ -530,11 +530,11 @@ Running profit since February 2020.
 | queensland                   |    855 |    313 |   -900.1 | 0.37 | -0.11 |
 | victoria                     |    920 |    318 |  -1038.1 | 0.35 | -0.11 |
 | united-kingdom               |    237 |     82 |   -310.2 | 0.35 | -0.13 |
-| new-south-wales              |   1147 |    401 |  -1589.6 | 0.35 | -0.14 |
+| new-south-wales              |   1149 |    401 |  -1609.6 | 0.35 | -0.14 |
 | western-australia            |    467 |    156 |   -727.4 | 0.33 | -0.16 |
 | hong-kong                    |     38 |     11 |    -70   | 0.29 | -0.18 |
+| new-zealand                  |    238 |     76 |   -437.1 | 0.32 | -0.18 |
 | south-australia              |    370 |    123 |   -647.7 | 0.33 | -0.18 |
-| new-zealand                  |    237 |     75 |   -459.1 | 0.32 | -0.19 |
 | australian-capital-territory |     35 |     12 |    -85.5 | 0.34 | -0.24 |
 | singapore                    |     26 |      7 |    -96.5 | 0.27 | -0.37 |
 | tasmania                     |     77 |     16 |   -342.5 | 0.21 | -0.44 |
