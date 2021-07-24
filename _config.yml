@@ -21,7 +21,7 @@
 title: PC2565
 email: mrwayneo@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Punters started February 2020, based on $10 per tip.
+  Punters started February 2020, $10 per tip.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mrwayneo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
