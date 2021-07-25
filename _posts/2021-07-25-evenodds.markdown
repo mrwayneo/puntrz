@@ -1,27 +1,28 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2021-07-24 14:30:01 +1000   
+date: 2021-07-25 10:58:44 +1000   
 categories: evenodds   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |      4 |      0 |    -40   | 0    | -1    |
-| This Month     |     14 |      4 |    -19.5 | 0.29 | -0.14 |
-| This Year      |     89 |     36 |    -30.1 | 0.4  | -0.03 |
-| Since Feb 2020 |    215 |     88 |     31.7 | 0.41 |  0.01 |
+| This Week      |      5 |      2 |    -50   | 0.4  | -1    |
+| This Month     |     15 |      6 |    -29.5 | 0.4  | -0.2  |
+| This Year      |     90 |     38 |    -40.1 | 0.42 | -0.04 |
+| Since Feb 2020 |    216 |     90 |     21.7 | 0.42 |  0.01 |
 
 ### Evenodds Last 100 CGTs.  
 Running profit since February 2020.  
 
 | finish            | date       | event                  | runner                |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|---------:|
-| 20:05             | 2021-07-24 | toowoomba R6           | 1 Legal Esprit        |   1.4  |    -10   |     24.7 |
-| 16:35             | 2021-07-24 | darwin R5              | 8 Belmont Day         |   1.85 |    -10   |     34.7 |
-| 16:16             | 2021-07-24 | mackay R7              | 3 The Egyptian        |   4    |    -10   |     44.7 |
-| 11:58             | 2021-07-24 | doomben R2             | 3 Tavion Prince       |   5    |    -10   |     54.7 |
+| 14:42             | 2021-07-25 | hobart R6              | 2 Rising Light        |   5.5  |    -10   |     47.2 |
+| :boom:            | 2021-07-24 | toowoomba R6           | 1 Legal Esprit        |   1.4  |    -10   |     24.7 |
+| :boom:            | 2021-07-24 | darwin R5              | 8 Belmont Day         |   1.85 |    -10   |     34.7 |
+| :2nd_place_medal: | 2021-07-24 | mackay R7              | 3 The Egyptian        |   4    |    -10   |     44.7 |
+| :3rd_place_medal: | 2021-07-24 | doomben R2             | 3 Tavion Prince       |   5    |    -10   |     54.7 |
 | :2nd_place_medal: | 2021-07-16 | mackay R8              | 4 Brad                |   4    |    -10   |     71.7 |
 | :boom:            | 2021-07-16 | mackay R5              | 8 Gamboa              |   2.7  |     17   |     81.7 |
 | :2nd_place_medal: | 2021-07-13 | cairns R5              | 5 Elite Standard      |   2.15 |    -10   |     64.7 |
@@ -117,14 +118,13 @@ Running profit since February 2020.
 | :boom:            | 2020-12-19 | ascot R5               | 2 Truly Great         |   1.6  |      6   |     32.3 |
 | 4                 | 2020-12-19 | mackay R2              | 1 Ask Me Tomorrow     |   4    |    -10   |     26.3 |
 | :2nd_place_medal: | 2020-12-05 | ascot R8               | 12 Inspirational Girl |   2.6  |    -10   |     36.3 |
-| 4                 | 2020-12-04 | devonport-synthetic R3 | 2 Sh'bourne Renegade  |  10.2  |    -10   |     46.3 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
 | Friday    |     25 |     11 |     34   | 0.44 |  0.14 |
 | Monday    |      4 |      0 |    -40   | 0    | -1    |
-| Saturday  |    105 |     45 |    -31.6 | 0.43 | -0.03 |
-| Sunday    |     28 |     11 |     35.3 | 0.39 |  0.13 |
+| Saturday  |    105 |     47 |    -31.6 | 0.45 | -0.03 |
+| Sunday    |     29 |     11 |     25.3 | 0.38 |  0.09 |
 | Thursday  |     13 |      5 |     85.2 | 0.38 |  0.66 |
 | Tuesday   |     15 |      4 |    -75.4 | 0.27 | -0.5  |
 | Wednesday |     25 |     12 |     24.2 | 0.48 |  0.1  |
@@ -200,7 +200,7 @@ Running profit since February 2020.
 | 2021-WK26 |      3 |      1 |     20   | 0.33 |  0.67 |
 | 2021-WK27 |      4 |      2 |      3.5 | 0.5  |  0.09 |
 | 2021-WK28 |      3 |      1 |     -3   | 0.33 | -0.1  |
-| 2021-WK29 |      4 |      0 |    -40   | 0    | -1    |
+| 2021-WK29 |      5 |      2 |    -50   | 0.4  | -1    |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -221,14 +221,13 @@ Running profit since February 2020.
 | 2021-04 |      9 |      2 |    -46.4 | 0.22 | -0.52 |
 | 2021-05 |     13 |      8 |    127.5 | 0.62 |  0.98 |
 | 2021-06 |     13 |      2 |    -94.6 | 0.15 | -0.73 |
-| 2021-07 |     14 |      4 |    -19.5 | 0.29 | -0.14 |
+| 2021-07 |     15 |      6 |    -29.5 | 0.4  | -0.2  |
 
 | track               |   runs |   wins |   profit |   sr |   roi |
 |:--------------------|-------:|-------:|---------:|-----:|------:|
 | cairns              |      4 |      2 |    108.2 | 0.5  |  2.7  |
 | hawera              |      1 |      1 |     26.5 | 1    |  2.65 |
 | newbury             |      1 |      1 |     25   | 1    |  2.5  |
-| hobart              |      2 |      1 |     40   | 0.5  |  2    |
 | rosehill            |      1 |      1 |     19   | 1    |  1.9  |
 | strathalbyn         |      1 |      1 |     19   | 1    |  1.9  |
 | flemington          |      1 |      1 |     18   | 1    |  1.8  |
@@ -236,6 +235,7 @@ Running profit since February 2020.
 | murray-bdge         |      3 |      2 |     50   | 0.67 |  1.67 |
 | hastings            |      1 |      1 |     13   | 1    |  1.3  |
 | barcaldine          |      2 |      2 |     24.5 | 1    |  1.23 |
+| hobart              |      3 |      1 |     30   | 0.33 |  1    |
 | warwick             |      1 |      1 |      7.4 | 1    |  0.74 |
 | launceston          |      7 |      6 |     43.5 | 0.86 |  0.62 |
 | te-rapa             |      3 |      2 |     17.1 | 0.67 |  0.57 |
@@ -246,7 +246,7 @@ Running profit since February 2020.
 | rockhampton         |     12 |      6 |     33   | 0.5  |  0.28 |
 | sunshine-coast      |     11 |      6 |     26   | 0.55 |  0.24 |
 | belmont             |     25 |     14 |     51.6 | 0.56 |  0.21 |
-| darwin              |      8 |      5 |      8.8 | 0.62 |  0.11 |
+| darwin              |      8 |      6 |      8.8 | 0.75 |  0.11 |
 | ascot               |      7 |      3 |      7   | 0.43 |  0.1  |
 | geraldton           |      2 |      1 |      2   | 0.5  |  0.1  |
 | morphettville       |      2 |      1 |      0   | 0.5  |  0    |
@@ -257,7 +257,7 @@ Running profit since February 2020.
 | otaki               |      2 |      1 |     -7   | 0.5  | -0.35 |
 | kempton             |      3 |      1 |    -10.9 | 0.33 | -0.36 |
 | townsville          |      5 |      1 |    -24   | 0.2  | -0.48 |
-| toowoomba           |      5 |      1 |    -26   | 0.2  | -0.52 |
+| toowoomba           |      5 |      2 |    -26   | 0.4  | -0.52 |
 | ipswich             |      5 |      1 |    -32   | 0.2  | -0.64 |
 | newmarket           |      6 |      1 |    -41.5 | 0.17 | -0.69 |
 | doncaster           |      4 |      1 |    -29   | 0.25 | -0.72 |
@@ -284,11 +284,11 @@ Running profit since February 2020.
 
 | location           |   runs |   wins |   profit |   sr |   roi |
 |:-------------------|-------:|-------:|---------:|-----:|------:|
-| tasmania           |     16 |      8 |     68.5 | 0.5  |  0.43 |
+| tasmania           |     17 |      8 |     58.5 | 0.47 |  0.34 |
 | western-australia  |     36 |     19 |     70.6 | 0.53 |  0.2  |
-| northern-territory |      8 |      5 |      8.8 | 0.62 |  0.11 |
+| northern-territory |      8 |      6 |      8.8 | 0.75 |  0.11 |
 | south-australia    |     12 |      4 |      9   | 0.33 |  0.08 |
-| queensland         |     89 |     35 |     25.5 | 0.39 |  0.03 |
+| queensland         |     89 |     36 |     25.5 | 0.4  |  0.03 |
 | new-zealand        |     23 |     10 |      5.6 | 0.43 |  0.02 |
 | victoria           |      3 |      1 |     -2   | 0.33 | -0.07 |
 | new-south-wales    |      8 |      2 |    -37.9 | 0.25 | -0.47 |

@@ -1,26 +1,30 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-07-24 15:22:04 +1000   
+date: 2021-07-25 11:10:44 +1000   
 categories: looseknot   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |     14 |      1 |    -80   | 0.07 | -0.57 |
-| This Month     |     70 |      7 |   -300   | 0.1  | -0.43 |
-| This Year      |    469 |     61 |  -1139   | 0.13 | -0.24 |
-| Since Feb 2020 |   1171 |    208 |   2680.5 | 0.18 |  0.23 |
+| This Week      |     18 |      2 |   -120   | 0.11 | -0.67 |
+| This Month     |     74 |      8 |   -340   | 0.11 | -0.46 |
+| This Year      |    473 |     62 |  -1179   | 0.13 | -0.25 |
+| Since Feb 2020 |   1175 |    209 |   2640.5 | 0.18 |  0.22 |
 
 ### Looseknot Last 100 CGTs.  
 Running profit since February 2020.  
 
 | finish            | date       | event                  | runner                |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|---------:|
-| 19:25             | 2021-07-24 | toowoomba R5           | 4 Amenadiel           |   7    |      -10 |   2620.5 |
-| 13:31             | 2021-07-24 | mildura R3             | 10 Savvy Sovereign    |   5.5  |      -10 |   2630.5 |
-| 12:17             | 2021-07-24 | morphettville R1       | 15 Our Shinko         |   6    |      -10 |   2640.5 |
+| 15:25             | 2021-07-25 | gosford R5             | 14 Sacred Stream      |   5.5  |      -10 |   2635.5 |
+| 14:30             | 2021-07-25 | sapphire-coast R5      | 3 Halliday Road       |   7    |      -10 |   2645.5 |
+| 14:25             | 2021-07-25 | alice-springs R1       | 1 The Ladies Man      |   5.5  |      -10 |   2655.5 |
+| 11:40             | 2021-07-25 | warracknabeal R2       | 12 Zouzouli           |   7    |      -10 |   2665.5 |
+| 4                 | 2021-07-24 | toowoomba R5           | 4 Amenadiel           |   7    |      -10 |   2620.5 |
+| :boom:            | 2021-07-24 | mildura R3             | 10 Savvy Sovereign    |   5.5  |      -10 |   2630.5 |
+| :3rd_place_medal: | 2021-07-24 | morphettville R1       | 15 Our Shinko         |   6    |      -10 |   2640.5 |
 | 10                | 2021-07-23 | tamworth R3            | 4 London Ruler        |   4.4  |      -10 |   2650.5 |
 | 98                | 2021-07-22 | worcester R4           | 5 Shining Blood       |   8.5  |      -10 |   2660.5 |
 | 98                | 2021-07-22 | sandown R2             | 6 Monet's Sunrise     |   5.5  |      -10 |   2670.5 |
@@ -114,17 +118,13 @@ Running profit since February 2020.
 | 8                 | 2021-06-18 | coffs-harbour R3       | 5 Hector Sagoa        |   5.5  |      -10 |   3078.5 |
 | 9                 | 2021-06-18 | coffs-harbour R2       | 9 Dawnburst           |   6.5  |      -10 |   3088.5 |
 | 99                | 2021-06-17 | royal-ascot R1         | 9 Lucci               |   6    |      -10 |   3098.5 |
-| 4                 | 2021-06-17 | warrnambool R6         | 1 Runaway             |   4    |      -10 |   3108.5 |
-| :3rd_place_medal: | 2021-06-17 | wyong R4               | 7 Contamination       |   7.5  |      -10 |   3118.5 |
-| 6                 | 2021-06-17 | nowra R1               | 5 Aussie Lindbergh    |   4.4  |      -10 |   3128.5 |
-| 99                | 2021-06-16 | royal-ascot R1         | 1 Artos               |   7    |      -10 |   3138.5 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
 | Friday    |    169 |     40 |    549   | 0.24 |  0.32 |
 | Monday    |    105 |     12 |    618   | 0.11 |  0.59 |
-| Saturday  |    261 |     53 |   1866   | 0.2  |  0.71 |
-| Sunday    |    187 |     32 |    -13.5 | 0.17 | -0.01 |
+| Saturday  |    261 |     54 |   1866   | 0.21 |  0.71 |
+| Sunday    |    191 |     32 |    -53.5 | 0.17 | -0.03 |
 | Thursday  |    174 |     21 |   -427.5 | 0.12 | -0.25 |
 | Tuesday   |    120 |     20 |      3   | 0.17 |  0    |
 | Wednesday |    155 |     30 |     85.5 | 0.19 |  0.06 |
@@ -208,7 +208,7 @@ Running profit since February 2020.
 | 2021-WK26 |     15 |      3 |     20   | 0.2  |  0.13 |
 | 2021-WK27 |     22 |      0 |   -220   | 0    | -1    |
 | 2021-WK28 |     23 |      3 |    -60   | 0.13 | -0.26 |
-| 2021-WK29 |     14 |      1 |    -80   | 0.07 | -0.57 |
+| 2021-WK29 |     18 |      2 |   -120   | 0.11 | -0.67 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -229,7 +229,7 @@ Running profit since February 2020.
 | 2021-04 |     71 |     10 |   -217   | 0.14 | -0.31 |
 | 2021-05 |     56 |      3 |   -263   | 0.05 | -0.47 |
 | 2021-06 |     78 |      8 |   -317   | 0.1  | -0.41 |
-| 2021-07 |     70 |      7 |   -300   | 0.1  | -0.43 |
+| 2021-07 |     74 |      8 |   -340   | 0.11 | -0.46 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -337,9 +337,9 @@ Running profit since February 2020.
 | toowoomba                  |     19 |      3 |    -30   | 0.16 | -0.16 |
 | te-aroha                   |      9 |      2 |    -16.5 | 0.22 | -0.18 |
 | goulburn                   |     10 |      2 |    -18   | 0.2  | -0.18 |
-| gosford                    |     16 |      1 |    -30   | 0.06 | -0.19 |
 | sunshine-coast             |     27 |      4 |    -52   | 0.15 | -0.19 |
 | devonport-synthetic        |      7 |      1 |    -15   | 0.14 | -0.21 |
+| gosford                    |     17 |      1 |    -40   | 0.06 | -0.24 |
 | leopardstown               |      8 |      1 |    -20   | 0.12 | -0.25 |
 | hastings                   |     11 |      2 |    -28   | 0.18 | -0.25 |
 | newcastle                  |     28 |      5 |    -79.5 | 0.18 | -0.28 |
@@ -379,7 +379,7 @@ Running profit since February 2020.
 | gore                       |      1 |      0 |    -10   | 0    | -1    |
 | hawera                     |      1 |      0 |    -10   | 0    | -1    |
 | kempsey                    |      1 |      0 |    -10   | 0    | -1    |
-| mildura                    |      1 |      0 |    -10   | 0    | -1    |
+| mildura                    |      1 |      1 |    -10   | 1    | -1    |
 | murtoa                     |      1 |      0 |    -10   | 0    | -1    |
 | murwillumbah               |      1 |      0 |    -10   | 0    | -1    |
 | musselburgh                |      1 |      0 |    -10   | 0    | -1    |
@@ -392,13 +392,13 @@ Running profit since February 2020.
 | ripon                      |      1 |      0 |    -10   | 0    | -1    |
 | riverton                   |      1 |      0 |    -10   | 0    | -1    |
 | roebourne                  |      1 |      0 |    -10   | 0    | -1    |
-| sapphire-coast             |      1 |      0 |    -10   | 0    | -1    |
 | stony-creek                |      1 |      0 |    -10   | 0    | -1    |
 | tauherenikau               |      1 |      0 |    -10   | 0    | -1    |
 | timaru                     |      1 |      0 |    -10   | 0    | -1    |
 | tramore                    |      1 |      0 |    -10   | 0    | -1    |
 | tuncurry                   |      1 |      0 |    -10   | 0    | -1    |
 | wairoa                     |      1 |      0 |    -10   | 0    | -1    |
+| warracknabeal              |      1 |      0 |    -10   | 0    | -1    |
 | warren                     |      1 |      0 |    -10   | 0    | -1    |
 | wellington                 |      1 |      0 |    -10   | 0    | -1    |
 | wimmera%40horsham          |      1 |      0 |    -10   | 0    | -1    |
@@ -424,6 +424,7 @@ Running profit since February 2020.
 | navan                      |      2 |      0 |    -20   | 0    | -1    |
 | oakbank                    |      2 |      0 |    -20   | 0    | -1    |
 | quirindi                   |      2 |      0 |    -20   | 0    | -1    |
+| sapphire-coast             |      2 |      0 |    -20   | 0    | -1    |
 | sedgefield                 |      2 |      0 |    -20   | 0    | -1    |
 | seymour                    |      2 |      0 |    -20   | 0    | -1    |
 | sha-tin                    |      2 |      0 |    -20   | 0    | -1    |
@@ -432,7 +433,6 @@ Running profit since February 2020.
 | terang                     |      2 |      0 |    -20   | 0    | -1    |
 | tipperary                  |      2 |      0 |    -20   | 0    | -1    |
 | wimmera%40ararat           |      2 |      0 |    -20   | 0    | -1    |
-| alice-springs              |      3 |      0 |    -30   | 0    | -1    |
 | beaudesert                 |      3 |      0 |    -30   | 0    | -1    |
 | broome                     |      3 |      0 |    -30   | 0    | -1    |
 | catterick                  |      3 |      0 |    -30   | 0    | -1    |
@@ -446,6 +446,7 @@ Running profit since February 2020.
 | woodville                  |      3 |      0 |    -30   | 0    | -1    |
 | worcester                  |      3 |      0 |    -30   | 0    | -1    |
 | york                       |      3 |      0 |    -30   | 0    | -1    |
+| alice-springs              |      4 |      0 |    -40   | 0    | -1    |
 | haydock                    |      4 |      0 |    -40   | 0    | -1    |
 | leicester                  |      4 |      0 |    -40   | 0    | -1    |
 | mornington                 |      4 |      0 |    -40   | 0    | -1    |
@@ -482,12 +483,12 @@ Running profit since February 2020.
 | singapore                    |      7 |      1 |     20   | 0.14 |  0.29 |
 | south-australia              |     51 |     10 |    137   | 0.2  |  0.27 |
 | australian-capital-territory |      8 |      2 |     13   | 0.25 |  0.16 |
-| new-south-wales              |    262 |     47 |    384   | 0.18 |  0.15 |
 | united-kingdom               |    177 |     34 |    270.5 | 0.19 |  0.15 |
+| new-south-wales              |    264 |     47 |    364   | 0.18 |  0.14 |
 | queensland                   |    184 |     29 |    110.5 | 0.16 |  0.06 |
 | tasmania                     |     29 |      5 |      8   | 0.17 |  0.03 |
 | western-australia            |     77 |     12 |    -24   | 0.16 | -0.03 |
 | hong-kong                    |      5 |      1 |     -2   | 0.2  | -0.04 |
-| victoria                     |    171 |     28 |   -243   | 0.16 | -0.14 |
+| victoria                     |    172 |     29 |   -253   | 0.17 | -0.15 |
 | south-africa                 |     54 |      6 |   -194   | 0.11 | -0.36 |
-| northern-territory           |      9 |      1 |    -50   | 0.11 | -0.56 |
+| northern-territory           |     10 |      1 |    -60   | 0.1  | -0.6  |
