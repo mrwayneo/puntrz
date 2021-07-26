@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-07-26 10:33:34 +1000   
+date: 2021-07-26 17:14:35 +1000   
 categories: prometheus   
 ---   
 
@@ -9,27 +9,15 @@ categories: prometheus
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last Week      |     37 |     13 |    -28.5 | 0.35 | -0.08 |
-| This Month     |    212 |     65 |   -451   | 0.31 | -0.21 |
-| This Year      |   1782 |    595 |  -2703.7 | 0.33 | -0.15 |
-| Since Feb 2020 |   4657 |   1605 |  -6189.6 | 0.34 | -0.13 |
+| This Month     |    200 |     65 |   -331   | 0.32 | -0.17 |
+| This Year      |   1770 |    595 |  -2583.7 | 0.34 | -0.15 |
+| Since Feb 2020 |   4645 |   1605 |  -6069.6 | 0.35 | -0.13 |
 
 ### Prometheus Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|---------:|
-| 23:30             | 2021-07-26 | greyville R6           | 10 Agent Murphy      | nan    |    -10   |  -6281.6 |
-| 22:55             | 2021-07-26 | lingfield R1           | 3 Harston            |   3    |    -10   |  -6271.6 |
-| 22:50             | 2021-07-26 | greyville R5           | 12 Kayc Al           | nan    |    -10   |  -6261.6 |
-| 22:50             | 2021-07-26 | greyville R5           | 4 Dice The Bullet    | nan    |    -10   |  -6251.6 |
-| 22:50             | 2021-07-26 | greyville R5           | 3 Flying First Class | nan    |    -10   |  -6241.6 |
-| 22:45             | 2021-07-26 | ayr R1                 | 3 Dynamic Force      |   3    |    -10   |  -6231.6 |
-| 22:15             | 2021-07-26 | greyville R4           | 6 Austen             | nan    |    -10   |  -6221.6 |
-| 22:15             | 2021-07-26 | greyville R4           | 3 Backstop           | nan    |    -10   |  -6211.6 |
-| 21:40             | 2021-07-26 | greyville R3           | 6 Atlantic City      | nan    |    -10   |  -6201.6 |
-| 21:05             | 2021-07-26 | greyville R2           | 9 Var Var Vroom      | nan    |    -10   |  -6191.6 |
-| 15:35             | 2021-07-26 | scone R5               | 4 Artie's Aura       |   2.15 |    -10   |  -6181.6 |
-| 13:15             | 2021-07-26 | scone R1               | 5 Lime And Sugar     |   2.9  |    -10   |  -6171.6 |
 | 98                | 2021-07-24 | gowran-park R2         | 6 Give Her A Squeeze |   3.1  |    -10   |  -6161.6 |
 | 4                 | 2021-07-24 | newcastle R3           | 2 Freddy Robinson    |   3.25 |    -10   |  -6151.6 |
 | :boom:            | 2021-07-24 | toowoomba R7           | 10 Thawra            |   1.95 |      9.5 |  -6141.6 |
@@ -118,6 +106,18 @@ categories: prometheus
 | 4                 | 2021-07-13 | albury R3              | 9 Lady Of Fortune    |   3.25 |    -10   |  -6030.6 |
 | 4                 | 2021-07-13 | ballarat-synthetic R2  | 6 Lady Cumberland    |   2.4  |    -10   |  -6020.6 |
 | 4                 | 2021-07-13 | ballarat-synthetic R1  | 2 Akka's Meteor      |   2.15 |    -10   |  -6010.6 |
+| :2nd_place_medal: | 2021-07-13 | sunshine-coast R1      | 1 Elegant Drover     |   2    |    -10   |  -6000.6 |
+| 98                | 2021-07-12 | dundalk R4             | 4 Chicago Black Hawk |   3.3  |    -10   |  -5990.6 |
+| :boom:            | 2021-07-12 | ayr R1                 | 4 Last Crusader      |   2.6  |     16   |  -5980.6 |
+| 98                | 2021-07-12 | dundalk R2             | 4 War Hero           |   2.2  |    -10   |  -5996.6 |
+| 4                 | 2021-07-12 | murtoa R6              | 4 Gaga's Belle       |   3.3  |    -10   |  -5986.6 |
+| :boom:            | 2021-07-12 | tamworth R3            | 4 Full Coverage      |   3.3  |     23   |  -5976.6 |
+| :2nd_place_medal: | 2021-07-12 | moruya R2              | 5 One Man Band       |   2.8  |    -10   |  -5999.6 |
+| :3rd_place_medal: | 2021-07-12 | murtoa R1              | 12 What A Sham       |   3    |    -10   |  -5989.6 |
+| :2nd_place_medal: | 2021-07-12 | moruya R1              | 11 Plucky Dan        |   2.65 |    -10   |  -5979.6 |
+| 98                | 2021-07-11 | salisbury R3           | 6 Sausalito          |   2.8  |    -10   |  -5969.6 |
+| :2nd_place_medal: | 2021-07-11 | fairyhouse R3          | 2 Mrs Bouquet        |   3.25 |    -10   |  -5959.6 |
+| :boom:            | 2021-07-11 | alice-springs R6       | 1 Exonerate          |   2.7  |     17   |  -5949.6 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|

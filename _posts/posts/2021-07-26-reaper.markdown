@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Reaper"   
-date: 2021-07-26 10:29:09 +1000   
+date: 2021-07-26 17:09:51 +1000   
 categories: reaper   
 ---   
 
@@ -9,54 +9,15 @@ categories: reaper
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last Week      |    168 |     54 |   -285.5 | 0.32 | -0.17 |
-| This Month     |    795 |    255 |  -1499.7 | 0.32 | -0.19 |
-| This Year      |   6178 |   2164 |  -8527.9 | 0.35 | -0.14 |
-| Since Feb 2020 |  16044 |   5805 | -19033.6 | 0.36 | -0.12 |
+| This Month     |    756 |    255 |  -1109.7 | 0.34 | -0.15 |
+| This Year      |   6139 |   2164 |  -8137.9 | 0.35 | -0.13 |
+| Since Feb 2020 |  16005 |   5805 | -18643.6 | 0.36 | -0.12 |
 
 ### Reaper Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event               | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:--------------------|:---------------------|-------:|---------:|---------:|
-| 23:50             | 2021-07-26 | ayr R3              | 4 Ravenscraig Castle |   1.85 |    -10   | -19263.4 |
-| 23:40             | 2021-07-26 | newton-abbot R4     | 8 Ayr Of Elegance    |   2.9  |    -10   | -19253.4 |
-| 23:30             | 2021-07-26 | greyville R6        | 11 Brandenburg       | nan    |    -10   | -19243.4 |
-| 23:30             | 2021-07-26 | greyville R6        | 10 Agent Murphy      | nan    |    -10   | -19233.4 |
-| 23:30             | 2021-07-26 | greyville R6        | 9 Montana Sky        | nan    |    -10   | -19223.4 |
-| 23:30             | 2021-07-26 | greyville R6        | 5 Higher Purpose     | nan    |    -10   | -19213.4 |
-| 23:30             | 2021-07-26 | greyville R6        | 3 Quest For The Best | nan    |    -10   | -19203.4 |
-| 23:30             | 2021-07-26 | greyville R6        | 1 Forest Jump        | nan    |    -10   | -19193.4 |
-| 23:25             | 2021-07-26 | lingfield R2        | 4 Skytree            |   3.1  |    -10   | -19183.4 |
-| 23:25             | 2021-07-26 | lingfield R2        | 3 Handsome           |   2.2  |    -10   | -19173.4 |
-| 23:05             | 2021-07-26 | newton-abbot R3     | 4 Thahab Ifraj       |   2.25 |    -10   | -19163.4 |
-| 23:05             | 2021-07-26 | newton-abbot R3     | 2 Chez Hans          |   2.3  |    -10   | -19153.4 |
-| 22:55             | 2021-07-26 | lingfield R1        | 7 Crestwood          |   3.1  |    -10   | -19143.4 |
-| 22:55             | 2021-07-26 | lingfield R1        | 3 Harston            |   3    |    -10   | -19133.4 |
-| 22:50             | 2021-07-26 | greyville R5        | 12 Kayc Al           | nan    |    -10   | -19123.4 |
-| 22:50             | 2021-07-26 | greyville R5        | 6 Cozy Dot Com       | nan    |    -10   | -19113.4 |
-| 22:50             | 2021-07-26 | greyville R5        | 5 Someone Exciting   | nan    |    -10   | -19103.4 |
-| 22:50             | 2021-07-26 | greyville R5        | 4 Dice The Bullet    | nan    |    -10   | -19093.4 |
-| 22:50             | 2021-07-26 | greyville R5        | 3 Flying First Class | nan    |    -10   | -19083.4 |
-| 22:45             | 2021-07-26 | ayr R1              | 3 Dynamic Force      |   3    |    -10   | -19073.4 |
-| 22:15             | 2021-07-26 | greyville R4        | 8 Kinskey's Tune     | nan    |    -10   | -19063.4 |
-| 22:15             | 2021-07-26 | greyville R4        | 6 Austen             | nan    |    -10   | -19053.4 |
-| 22:15             | 2021-07-26 | greyville R4        | 4 Princess Sabrina   | nan    |    -10   | -19043.4 |
-| 22:15             | 2021-07-26 | greyville R4        | 3 Backstop           | nan    |    -10   | -19033.4 |
-| 22:00             | 2021-07-26 | newton-abbot R1     | 6 Van Meegeren       |   2.35 |    -10   | -19023.4 |
-| 22:00             | 2021-07-26 | newton-abbot R1     | 1 Ultimate Getaway   |   2.3  |    -10   | -19013.4 |
-| 21:40             | 2021-07-26 | greyville R3        | 6 Atlantic City      | nan    |    -10   | -19003.4 |
-| 21:40             | 2021-07-26 | greyville R3        | 1 Royal Virtue       | nan    |    -10   | -18993.4 |
-| 21:05             | 2021-07-26 | greyville R2        | 11 Princess Marne    | nan    |    -10   | -18983.4 |
-| 21:05             | 2021-07-26 | greyville R2        | 9 Var Var Vroom      | nan    |    -10   | -18973.4 |
-| 21:05             | 2021-07-26 | greyville R2        | 4 Varvacious         | nan    |    -10   | -18963.4 |
-| 20:30             | 2021-07-26 | greyville R1        | 1 Uncomplicated      | nan    |    -10   | -18953.4 |
-| 16:25             | 2021-07-26 | corowa R7           | 9 Big Boy's Girl     |   3    |    -10   | -18943.4 |
-| 16:10             | 2021-07-26 | scone R6            | 6 Princess Amira     |   2.55 |    -10   | -18933.4 |
-| 15:35             | 2021-07-26 | scone R5            | 4 Artie's Aura       |   2.15 |    -10   | -18923.4 |
-| 15:15             | 2021-07-26 | corowa R5           | 2 Wilga Hill         |   2.4  |    -10   | -18913.4 |
-| 14:40             | 2021-07-26 | corowa R4           | 3 Bell's Innocent    |   2.2  |    -10   | -18903.4 |
-| 14:05             | 2021-07-26 | corowa R3           | 8 Devils Triangle    |   2.35 |    -10   | -18893.4 |
-| 13:15             | 2021-07-26 | scone R1            | 5 Lime And Sugar     |   2.9  |    -10   | -18883.4 |
 | 98                | 2021-07-24 | gowran-park R2      | 6 Give Her A Squeeze |   3.1  |    -10   | -18873.4 |
 | 4                 | 2021-07-24 | newcastle R3        | 2 Freddy Robinson    |   3.25 |    -10   | -18863.4 |
 | 98                | 2021-07-24 | york R1             | 1 Mid Winster        |   2.4  |    -10   | -18853.4 |
@@ -118,6 +79,45 @@ categories: reaper
 | 4                 | 2021-07-24 | pukekura-raceway R4 | 3 Aricina            |   2.5  |    -10   | -18763.4 |
 | :2nd_place_medal: | 2021-07-24 | rosehill R2         | 2 Dream Runner       |   3.1  |    -10   | -18753.4 |
 | :boom:            | 2021-07-24 | doomben R1          | 1 Hinged             |   1.9  |      9   | -18743.4 |
+| 4                 | 2021-07-24 | rosehill R1         | 6 Military Expert    |   3.2  |    -10   | -18752.4 |
+| :boom:            | 2021-07-24 | te-rapa R2          | 6 It Might Be You    |   2.1  |     11   | -18742.4 |
+| :boom:            | 2021-07-24 | te-rapa R1          | 1 Treasure State     |   2.1  |     11   | -18753.4 |
+| :2nd_place_medal: | 2021-07-23 | royal-ascot R3      | 10 Star Caliber      |   3.25 |    -10   | -18764.4 |
+| :3rd_place_medal: | 2021-07-23 | thirsk R3           | 2 Bin Hayyan         |   3    |    -10   | -18754.4 |
+| 99                | 2021-07-23 | uttoxeter R3        | 2 The Composeur      |   2.8  |    -10   | -18744.4 |
+| :2nd_place_medal: | 2021-07-23 | uttoxeter R3        | 1 Sizing Cusimano    |   2.6  |    -10   | -18734.4 |
+| 4                 | 2021-07-23 | royal-ascot R1      | 4 Pulcheria          |   2.5  |    -10   | -18724.4 |
+| :2nd_place_medal: | 2021-07-23 | thirsk R1           | 6 Ribaldry           |   1.8  |    -10   | -18714.4 |
+| 98                | 2021-07-23 | uttoxeter R1        | 4 King's Proctor     |   1.9  |    -10   | -18704.4 |
+| :boom:            | 2021-07-23 | uttoxeter R1        | 2 Clay Rogers        |   2.2  |     12   | -18694.4 |
+| :3rd_place_medal: | 2021-07-23 | broome R7           | 8 Crash Hat Lady     |   2.3  |    -10   | -18706.4 |
+| :2nd_place_medal: | 2021-07-23 | broome R2           | 1 Miss Ellmya        |   2.6  |    -10   | -18696.4 |
+| 13                | 2021-07-23 | tamworth R6         | 7 Who Runs The World |   2.5  |    -10   | -18686.4 |
+| 5                 | 2021-07-23 | broome R1           | 2 The Fibonacci      |   2    |    -10   | -18676.4 |
+| :2nd_place_medal: | 2021-07-23 | ipswich R6          | 3 Modelka            |   2.7  |    -10   | -18666.4 |
+| :2nd_place_medal: | 2021-07-23 | mildura R6          | 6 Excelleration      |   2.6  |    -10   | -18656.4 |
+| 4                 | 2021-07-23 | ipswich R5          | 3 Heirborn           |   3    |    -10   | -18646.4 |
+| :2nd_place_medal: | 2021-07-23 | ipswich R3          | 2 Corvo              |   1.65 |    -10   | -18636.4 |
+| 4                 | 2021-07-23 | tamworth R1         | 3 My Khaleesi        |   2.7  |    -10   | -18626.4 |
+| :2nd_place_medal: | 2021-07-22 | sandown R3          | 9 Wild Beauty        |   3    |    -10   | -18616.4 |
+| 7                 | 2021-07-22 | sandown R3          | 3 Fabiosa            |   2.8  |    -10   | -18606.4 |
+| :boom:            | 2021-07-22 | yarmouth R1         | 5 G'daay             |   3.3  |     23   | -18596.4 |
+| :2nd_place_medal: | 2021-07-22 | yarmouth R1         | 3 Molly Shaw         |   3    |    -10   | -18619.4 |
+| :2nd_place_medal: | 2021-07-22 | sandown R1          | 3 Buy Me Back        |   2.9  |    -10   | -18609.4 |
+| 5                 | 2021-07-22 | pinjarra R5         | 5 Wings Away         |   2.8  |    -10   | -18599.4 |
+| :3rd_place_medal: | 2021-07-22 | townsville R6       | 5 Higher Realm       |   2.4  |    -10   | -18589.4 |
+| :2nd_place_medal: | 2021-07-22 | townsville R6       | 4 Bold Type          |   2.5  |    -10   | -18579.4 |
+| 6                 | 2021-07-22 | pinjarra R3         | 2 Denim Wars         |   3.3  |    -10   | -18569.4 |
+| :2nd_place_medal: | 2021-07-22 | kembla-grange R7    | 5 Stormborn          |   3    |    -10   | -18559.4 |
+| :boom:            | 2021-07-22 | kembla-grange R7    | 1 Stoical            |   3.2  |     22   | -18549.4 |
+| :boom:            | 2021-07-22 | pinjarra R2         | 5 Poker Face         |   2.05 |     10.5 | -18571.4 |
+| :3rd_place_medal: | 2021-07-22 | pinjarra R2         | 1 To Rise Again      |   3.2  |    -10   | -18581.9 |
+| :boom:            | 2021-07-22 | ballina R5          | 1 Nishikori          |   2.4  |     14   | -18571.9 |
+| 4                 | 2021-07-22 | cranbourne R7       | 2 Yulong Island      |   3.1  |    -10   | -18585.9 |
+| :3rd_place_medal: | 2021-07-22 | kembla-grange R6    | 1 Mirror One         |   3.2  |    -10   | -18575.9 |
+| :3rd_place_medal: | 2021-07-22 | pinjarra R1         | 6 Queenship          |   1.45 |    -10   | -18565.9 |
+| 7                 | 2021-07-22 | ballina R4          | 2 Tiomo              |   3    |    -10   | -18555.9 |
+| :boom:            | 2021-07-22 | townsville R3       | 6 Willygood          |   2.45 |     14.5 | -18545.9 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|

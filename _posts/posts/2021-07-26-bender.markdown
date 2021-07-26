@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bender"   
-date: 2021-07-26 10:23:10 +1000   
+date: 2021-07-26 16:58:26 +1000   
 categories: bender   
 ---   
 
@@ -9,16 +9,15 @@ categories: bender
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last Week      |     15 |      5 |    -93   | 0.33 | -0.62 |
-| This Month     |     91 |     30 |     13.5 | 0.33 |  0.01 |
-| This Year      |    754 |    217 |   -760.8 | 0.29 | -0.1  |
-| Since Feb 2020 |   1984 |    577 |  -1261.8 | 0.29 | -0.06 |
+| This Month     |     90 |     30 |     23.5 | 0.33 |  0.03 |
+| This Year      |    753 |    217 |   -750.8 | 0.29 | -0.1  |
+| Since Feb 2020 |   1983 |    577 |  -1251.8 | 0.29 | -0.06 |
 
 ### Bender Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                   | runner              |   odds |   return |   profit |
 |:------------------|:-----------|:------------------------|:--------------------|-------:|---------:|---------:|
-| 23:05             | 2021-07-26 | newton-abbot R3         | 2 Chez Hans         |   2.3  |    -10   |  -1246.8 |
 | 9                 | 2021-07-25 | kalgoorlie R7           | 4 Jakestar          |   5    |    -10   |  -1288.8 |
 | :boom:            | 2021-07-25 | alice-springs R4        | 1 Noble Albert      |   1.8  |    -10   |  -1278.8 |
 | :boom:            | 2021-07-25 | oamaru R6               | 3 Dunhill           |   3.4  |    -10   |  -1268.8 |
@@ -118,6 +117,7 @@ categories: bender
 | 98                | 2021-06-27 | curragh R3              | 6 Independent Missy |   3.75 |    -10   |  -1317.3 |
 | :3rd_place_medal: | 2021-06-27 | grafton R9              | 4 Oakfield Cherokee |   3.5  |    -10   |  -1307.3 |
 | :boom:            | 2021-06-27 | devonport-synthetic R9  | 4 Ancona            |   4.6  |     36   |  -1297.3 |
+| 4                 | 2021-06-27 | roma R6                 | 10 Dancing Tales    |   7.5  |    -10   |  -1333.3 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|

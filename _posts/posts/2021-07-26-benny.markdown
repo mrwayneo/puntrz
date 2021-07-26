@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-07-26 10:19:50 +1000   
+date: 2021-07-26 16:56:34 +1000   
 categories: benny   
 ---   
 
@@ -9,16 +9,15 @@ categories: benny
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last Week      |     10 |      6 |    104   | 0.6  |  1.04 |
-| This Month     |     42 |     16 |    187   | 0.38 |  0.45 |
-| This Year      |    381 |     96 |    803.6 | 0.25 |  0.21 |
-| Since Feb 2020 |   1170 |    290 |   4252.3 | 0.25 |  0.36 |
+| This Month     |     41 |     16 |    197   | 0.39 |  0.48 |
+| This Year      |    380 |     96 |    813.6 | 0.25 |  0.21 |
+| Since Feb 2020 |   1169 |    290 |   4262.3 | 0.25 |  0.36 |
 
 ### Benny Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                   | runner              |   odds |   return |   profit |
 |:------------------|:-----------|:------------------------|:--------------------|-------:|---------:|---------:|
-| 14:05             | 2021-07-26 | corowa R3               | 8 Devils Triangle   |   2.35 |    -10   |   4367.8 |
 | :boom:            | 2021-07-25 | sunshine-coast R7       | 8 Bustedup          |   1.65 |    -10   |   4272.3 |
 | :boom:            | 2021-07-25 | hobart R7               | 1 Shampz Again      |   5.5  |    -10   |   4282.3 |
 | :2nd_place_medal: | 2021-07-25 | sale R7                 | 14 Please Sir       |   5    |    -10   |   4292.3 |
@@ -118,6 +117,7 @@ categories: benny
 | :boom:            | 2021-05-29 | darwin R1               | 7 The Auditor       |  13    |    120   |   3412.8 |
 | :boom:            | 2021-05-29 | belmont R2              | 6 Graceful Girl     |   2.05 |     10.5 |   3292.8 |
 | 7                 | 2021-05-29 | eagle-farm R5           | 2 Le Don De Vie     |   3.6  |    -10   |   3282.3 |
+| 99                | 2021-05-29 | ellerslie R7            | 13 London Bound     |   7.6  |    -10   |   3292.3 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|

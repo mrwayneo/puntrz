@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-07-26 10:22:04 +1000   
+date: 2021-07-26 16:57:37 +1000   
 categories: overthrow   
 ---   
 
@@ -9,18 +9,15 @@ categories: overthrow
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last Week      |     64 |     14 |   -197.5 | 0.22 | -0.31 |
-| This Month     |    209 |     50 |    497.9 | 0.24 |  0.24 |
-| This Year      |   1381 |    340 |    182.1 | 0.25 |  0.01 |
-| Since Feb 2020 |   3083 |    815 |   1195.6 | 0.26 |  0.04 |
+| This Month     |    206 |     50 |    527.9 | 0.24 |  0.26 |
+| This Year      |   1378 |    340 |    212.1 | 0.25 |  0.02 |
+| Since Feb 2020 |   3080 |    815 |   1225.6 | 0.26 |  0.04 |
 
 ### Overthrow Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|---------:|
-| 23:40             | 2021-07-26 | newton-abbot R4        | 5 Duc De Bourbon     |   4.2  |    -10   |   1078.3 |
-| 23:05             | 2021-07-26 | newton-abbot R3        | 2 Chez Hans          |   2.3  |    -10   |   1088.3 |
-| 22:00             | 2021-07-26 | newton-abbot R1        | 1 Ultimate Getaway   |   2.3  |    -10   |   1098.3 |
 | 98                | 2021-07-25 | uttoxeter R4           | 6 Ocean Cove         |   9.5  |    -10   |   1091.8 |
 | 4                 | 2021-07-25 | uttoxeter R3           | 1 Butte Montana      |   2.9  |    -10   |   1101.8 |
 | 98                | 2021-07-25 | pontefract R1          | 5 Foxy Rascal        |   2    |    -10   |   1111.8 |
@@ -118,6 +115,9 @@ categories: overthrow
 | :2nd_place_medal: | 2021-07-16 | mackay R8              | 4 Brad               |   4    |    -10   |   1419.8 |
 | :boom:            | 2021-07-16 | mackay R6              | 6 Dawson Delight     |   3.6  |     26   |   1429.8 |
 | :boom:            | 2021-07-16 | mackay R5              | 8 Gamboa             |   2.7  |     17   |   1403.8 |
+| 5                 | 2021-07-16 | mackay R4              | 8 Seberton           |   5.5  |    -10   |   1386.8 |
+| 5                 | 2021-07-16 | mackay R3              | 3 Lifetime Quest     |   5.5  |    -10   |   1396.8 |
+| :boom:            | 2021-07-15 | ipswich R8             | 2 Red Bloom          |   2    |     10   |   1406.8 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|

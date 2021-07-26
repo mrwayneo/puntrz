@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Ghostball"   
-date: 2021-07-26 10:27:25 +1000   
+date: 2021-07-26 17:08:19 +1000   
 categories: ghostball   
 ---   
 
@@ -9,27 +9,15 @@ categories: ghostball
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last Week      |     56 |     17 |   -190.5 | 0.3  | -0.34 |
-| This Month     |    235 |     70 |   -635.5 | 0.3  | -0.27 |
-| This Year      |   1873 |    622 |  -3030.1 | 0.33 | -0.16 |
-| Since Feb 2020 |   4852 |   1669 |  -6679.3 | 0.34 | -0.14 |
+| This Month     |    223 |     70 |   -515.5 | 0.31 | -0.23 |
+| This Year      |   1861 |    622 |  -2910.1 | 0.33 | -0.16 |
+| Since Feb 2020 |   4840 |   1669 |  -6559.3 | 0.34 | -0.14 |
 
 ### Ghostball Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|---------:|
-| 23:30             | 2021-07-26 | greyville R6           | 10 Agent Murphy      | nan    |    -10   |  -6681.3 |
-| 22:55             | 2021-07-26 | lingfield R1           | 3 Harston            |   3    |    -10   |  -6671.3 |
-| 22:50             | 2021-07-26 | greyville R5           | 12 Kayc Al           | nan    |    -10   |  -6661.3 |
-| 22:50             | 2021-07-26 | greyville R5           | 4 Dice The Bullet    | nan    |    -10   |  -6651.3 |
-| 22:50             | 2021-07-26 | greyville R5           | 3 Flying First Class | nan    |    -10   |  -6641.3 |
-| 22:45             | 2021-07-26 | ayr R1                 | 3 Dynamic Force      |   3    |    -10   |  -6631.3 |
-| 22:15             | 2021-07-26 | greyville R4           | 6 Austen             | nan    |    -10   |  -6621.3 |
-| 22:15             | 2021-07-26 | greyville R4           | 3 Backstop           | nan    |    -10   |  -6611.3 |
-| 21:40             | 2021-07-26 | greyville R3           | 6 Atlantic City      | nan    |    -10   |  -6601.3 |
-| 21:05             | 2021-07-26 | greyville R2           | 9 Var Var Vroom      | nan    |    -10   |  -6591.3 |
-| 15:35             | 2021-07-26 | scone R5               | 4 Artie's Aura       |   2.15 |    -10   |  -6581.3 |
-| 13:15             | 2021-07-26 | scone R1               | 5 Lime And Sugar     |   2.9  |    -10   |  -6571.3 |
 | 98                | 2021-07-25 | pontefract R1          | 5 Foxy Rascal        |   2    |    -10   |  -7191.3 |
 | 5                 | 2021-07-25 | kalgoorlie R8          | 1 Ready To Ride      |   2.1  |    -10   |  -7031.3 |
 | 6                 | 2021-07-25 | kalgoorlie R5          | 7 Sweet Strawberry   |   3.2  |    -10   |  -6881.3 |
@@ -118,6 +106,18 @@ categories: ghostball
 | :boom:            | 2021-07-17 | lismore R1             | 5 Samhain            |   3.3  |     23   |  -6357.3 |
 | :boom:            | 2021-07-17 | moe R3                 | 10 Royelle           |   1.45 |      4.5 |  -6380.3 |
 | :3rd_place_medal: | 2021-07-17 | randwick R1            | 6 Honeycreeper       |   2.25 |    -10   |  -6384.8 |
+| :2nd_place_medal: | 2021-07-16 | dubbo R4               | 7 Hammoon Jig        |   2.7  |    -10   |  -6372.8 |
+| :boom:            | 2021-07-16 | timaru R5              | 1 Arklow             |   3.2  |     22   |  -6362.8 |
+| :2nd_place_medal: | 2021-07-16 | dubbo R1               | 8 My Khaleesi        |   2.8  |    -10   |  -6384.8 |
+| 4                 | 2021-07-15 | hamilton R3            | 2 Overwrite          |   3.12 |    -10   |  -6374.8 |
+| :3rd_place_medal: | 2021-07-15 | leicester R2           | 5 Time Has Wings     |   2.9  |    -10   |  -6364.8 |
+| 10                | 2021-07-15 | northam R6             | 1 Campese            |   2.7  |    -10   |  -6354.8 |
+| :boom:            | 2021-07-15 | ipswich R8             | 2 Red Bloom          |   2    |     10   |  -6344.8 |
+| :boom:            | 2021-07-15 | northam R3             | 11 Pepper Assault    |   2.4  |     14   |  -6354.8 |
+| :3rd_place_medal: | 2021-07-15 | northam R2             | 1 Freedomofthepress  |   2.4  |    -10   |  -6368.8 |
+| 6                 | 2021-07-15 | gosford R3             | 1 Beholder           |   3.3  |    -10   |  -6358.8 |
+| :3rd_place_medal: | 2021-07-15 | ipswich R3             | 5 Blackboots         |   2    |    -10   |  -6348.8 |
+| :boom:            | 2021-07-15 | gosford R1             | 1 Not Another Reiby  |   2    |     10   |  -6338.8 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|

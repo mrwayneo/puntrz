@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-07-26 10:34:52 +1000   
+date: 2021-07-26 17:15:51 +1000   
 categories: cosmo   
 ---   
 
@@ -9,17 +9,15 @@ categories: cosmo
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last Week      |    105 |      5 |     -310 | 0.05 | -0.3  |
-| This Month     |    374 |     24 |      130 | 0.06 |  0.03 |
-| This Year      |   3011 |    165 |      591 | 0.05 |  0.02 |
-| Since Feb 2020 |   8931 |    520 |     8733 | 0.06 |  0.1  |
+| This Month     |    372 |     24 |      150 | 0.06 |  0.04 |
+| This Year      |   3009 |    165 |      611 | 0.05 |  0.02 |
+| Since Feb 2020 |   8929 |    520 |     8753 | 0.06 |  0.1  |
 
 ### Cosmo Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                 | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:----------------------|:---------------------|-------:|---------:|---------:|
-| 16:10             | 2021-07-26 | scone R6              | 3 Pig In Mud         |     26 |      -10 |     8543 |
-| 15:00             | 2021-07-26 | scone R4              | 8 Gold Lunar         |     12 |      -10 |     8553 |
 | :2nd_place_medal: | 2021-07-24 | toowoomba R6          | 8 Twilight Boom      |     13 |      -10 |     8563 |
 | 6                 | 2021-07-24 | toowoomba R5          | 5 Bent Benny         |     11 |      -10 |     8573 |
 | 5                 | 2021-07-24 | toowoomba R3          | 6 Lilli Lights Out   |     21 |      -10 |     8583 |
@@ -118,6 +116,8 @@ categories: cosmo
 | 9                 | 2021-07-20 | ballarat-synthetic R8 | 2 Sleek Acheeva      |     81 |      -10 |     8773 |
 | :2nd_place_medal: | 2021-07-20 | moree R7              | 1 Fight for Love     |     10 |      -10 |     8783 |
 | 11                | 2021-07-20 | ballarat-synthetic R5 | 5 Censored           |     12 |      -10 |     8793 |
+| 9                 | 2021-07-20 | ballarat-synthetic R3 | 12 Flying Start      |     11 |      -10 |     8803 |
+| 5                 | 2021-07-20 | wyong R2              | 5 Oakfield Blackhawk |     26 |      -10 |     8813 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|

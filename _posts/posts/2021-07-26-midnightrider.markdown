@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Midnightrider"   
-date: 2021-07-26 10:24:17 +1000   
+date: 2021-07-26 16:59:25 +1000   
 categories: midnightrider   
 ---   
 
@@ -9,23 +9,15 @@ categories: midnightrider
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last Week      |    184 |     43 |   -481   | 0.23 | -0.26 |
-| This Month     |    668 |    155 |   -730.1 | 0.23 | -0.11 |
-| This Year      |   5257 |   1226 |  -3684.5 | 0.23 | -0.07 |
-| Since Feb 2020 |  13947 |   3407 |  -5359.5 | 0.24 | -0.04 |
+| This Month     |    660 |    155 |   -650.1 | 0.23 | -0.1  |
+| This Year      |   5249 |   1226 |  -3604.5 | 0.23 | -0.07 |
+| Since Feb 2020 |  13939 |   3407 |  -5279.5 | 0.24 | -0.04 |
 
 ### Midnightrider Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event               | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:--------------------|:---------------------|-------:|---------:|---------:|
-| 22:55             | 2021-07-26 | lingfield R1        | 5 The Vegas Raider   |   5    |    -10   |  -5384.8 |
-| 22:45             | 2021-07-26 | ayr R1              | 2 Doomsday           |   4.8  |    -10   |  -5374.8 |
-| 21:40             | 2021-07-26 | greyville R3        | 9 Rain Or Shine      | nan    |    -10   |  -5364.8 |
-| 16:10             | 2021-07-26 | scone R6            | 6 Princess Amira     |   2.55 |    -10   |  -5354.8 |
-| 16:10             | 2021-07-26 | scone R6            | 2 Nowyunomi          |   6    |    -10   |  -5344.8 |
-| 15:15             | 2021-07-26 | corowa R5           | 11 Pouring Rain      |   9.5  |    -10   |  -5334.8 |
-| 15:00             | 2021-07-26 | scone R4            | 5 The Regular Show   |   7    |    -10   |  -5324.8 |
-| 14:05             | 2021-07-26 | corowa R3           | 8 Devils Triangle    |   2.35 |    -10   |  -5314.8 |
 | 4                 | 2021-07-25 | uttoxeter R1        | 2 Knotty Ash         |   1.7  |    -10   |  -5695.3 |
 | 12                | 2021-07-25 | kalgoorlie R7       | 1 Belle Of Liberty   |   3.4  |    -10   |  -5675.3 |
 | :3rd_place_medal: | 2021-07-25 | sunshine-coast R8   | 9 Cupid's Bow        |   2.8  |    -10   |  -5665.3 |
@@ -118,6 +110,14 @@ categories: midnightrider
 | :2nd_place_medal: | 2021-07-24 | mildura R1          | 5 Thunder Park       |   5.5  |    -10   |  -5273.3 |
 | 4                 | 2021-07-24 | pukekura-raceway R4 | 3 Aricina            |   2.5  |    -10   |  -5263.3 |
 | :boom:            | 2021-07-24 | gold-coast R1       | 3 I'll Tell You Now  |   2.7  |     17   |  -5253.3 |
+| 6                 | 2021-07-24 | doomben R2          | 1 He Runs Away       |   7.5  |    -10   |  -5270.3 |
+| :boom:            | 2021-07-24 | doomben R1          | 1 Hinged             |   1.9  |      9   |  -5260.3 |
+| 4                 | 2021-07-24 | rosehill R1         | 6 Military Expert    |   3.2  |    -10   |  -5269.3 |
+| :boom:            | 2021-07-24 | te-rapa R1          | 1 Treasure State     |   2.1  |     11   |  -5259.3 |
+| :2nd_place_medal: | 2021-07-23 | royal-ascot R3      | 10 Star Caliber      |   3.25 |    -10   |  -5270.3 |
+| 4                 | 2021-07-23 | royal-ascot R1      | 4 Pulcheria          |   2.5  |    -10   |  -5260.3 |
+| 6                 | 2021-07-23 | broome R6           | 7 Elleofadeel        |   3.8  |    -10   |  -5250.3 |
+| :boom:            | 2021-07-23 | broome R4           | 1 Stevie's Wonder    |   4    |     30   |  -5240.3 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|

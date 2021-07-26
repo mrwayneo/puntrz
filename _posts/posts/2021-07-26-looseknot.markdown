@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-07-26 10:37:39 +1000   
+date: 2021-07-26 17:19:20 +1000   
 categories: looseknot   
 ---   
 
@@ -9,16 +9,15 @@ categories: looseknot
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last Week      |     14 |      2 |    -25   | 0.14 | -0.18 |
-| This Month     |     71 |      8 |   -255   | 0.11 | -0.36 |
-| This Year      |    470 |     62 |  -1094   | 0.13 | -0.23 |
-| Since Feb 2020 |   1172 |    209 |   2725.5 | 0.18 |  0.23 |
+| This Month     |     70 |      8 |   -245   | 0.11 | -0.35 |
+| This Year      |    469 |     62 |  -1084   | 0.13 | -0.23 |
+| Since Feb 2020 |   1171 |    209 |   2735.5 | 0.18 |  0.23 |
 
 ### Looseknot Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner                |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|---------:|
-| 22:30             | 2021-07-26 | newton-abbot R2        | 7 Masterdream         |   5    |      -10 |   2665.5 |
 | 4                 | 2021-07-24 | toowoomba R5           | 4 Amenadiel           |   7    |      -10 |   2675.5 |
 | :boom:            | 2021-07-24 | mildura R3             | 10 Savvy Sovereign    |   5.5  |       45 |   2685.5 |
 | :3rd_place_medal: | 2021-07-24 | morphettville R1       | 15 Our Shinko         |   6    |      -10 |   2640.5 |
@@ -118,6 +117,7 @@ categories: looseknot
 | 4                 | 2021-06-17 | warrnambool R6         | 1 Runaway             |   4    |      -10 |   3108.5 |
 | :3rd_place_medal: | 2021-06-17 | wyong R4               | 7 Contamination       |   7.5  |      -10 |   3118.5 |
 | 6                 | 2021-06-17 | nowra R1               | 5 Aussie Lindbergh    |   4.4  |      -10 |   3128.5 |
+| 99                | 2021-06-16 | royal-ascot R1         | 1 Artos               |   7    |      -10 |   3138.5 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
