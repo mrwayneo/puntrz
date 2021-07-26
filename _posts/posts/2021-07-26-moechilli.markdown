@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-07-25 16:37:33 +1000   
+date: 2021-07-26 10:37:31 +1000   
 categories: moechilli   
 ---   
 
@@ -12,8 +12,8 @@ categories: moechilli
 | This Year      |     52 |     19 |    599.5 | 0.37 |  1.15 |
 | Since Feb 2020 |    124 |     65 |   5178.5 | 0.52 |  4.18 |
 
-### Moechilli Last 100 CGTs.  
-Running profit since February 2020.  
+### Moechilli Last 100  
+#### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|---------:|

@@ -1,130 +1,130 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-07-25 16:20:51 +1000   
+date: 2021-07-24 14:28:11 +1000   
 categories: pangea   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |     82 |     15 |   -484.5 | 0.18 | -0.59 |
-| This Month     |    274 |     58 |   -180.5 | 0.21 | -0.07 |
-| This Year      |   2102 |    452 |   1139.8 | 0.22 |  0.05 |
-| Since Feb 2020 |   6162 |   1298 |   7329.3 | 0.21 |  0.12 |
+| This Week      |     72 |      6 |   -424.5 | 0.08 | -0.59 |
+| This Month     |    264 |     49 |   -120.5 | 0.19 | -0.05 |
+| This Year      |   2092 |    443 |   1199.8 | 0.21 |  0.06 |
+| Since Feb 2020 |   6152 |   1289 |   7389.3 | 0.21 |  0.12 |
 
 ### Pangea Last 100 CGTs.  
 Running profit since February 2020.  
 
-| finish            | date       | event                  | runner              |   odds |   return |   profit |
-|:------------------|:-----------|:-----------------------|:--------------------|-------:|---------:|---------:|
-| 18:15             | 2021-07-25 | kalgoorlie R7          | 1 Belle Of Liberty  |   3.4  |    -10   |   7494.8 |
-| 17:25             | 2021-07-25 | sunshine-coast R8      | 9 Cupid's Bow       |   2.8  |    -10   |   7504.8 |
-| 16:50             | 2021-07-25 | sunshine-coast R7      | 8 Bustedup          |   1.65 |    -10   |   7514.8 |
-| 16:40             | 2021-07-25 | gosford R7             | 3 Texcel            |   3.2  |    -10   |   7524.8 |
-| 16:25             | 2021-07-25 | sapphire-coast R8      | 7 Toretto           |   4.4  |    -10   |   7534.8 |
-| 16:05             | 2021-07-25 | gosford R6             | 3 Bojack            |   2.15 |    -10   |   7544.8 |
-| 16:00             | 2021-07-25 | hobart R8              | 4 Irish Shotgun     |   4.8  |    -10   |   7554.8 |
-| 15:20             | 2021-07-25 | hobart R7              | 2 We Deserve This   |   2.4  |    -10   |   7564.8 |
-| 15:20             | 2021-07-25 | hobart R7              | 1 Shampz Again      |   5.5  |    -10   |   7574.8 |
-| 15:00             | 2021-07-25 | alice-springs R2       | 4 Radio Room        |  10    |    -10   |   7584.8 |
-| 14:46             | 2021-07-25 | gosford R4             | 2 Mystic Gem        |   4.4  |    -10   |   7594.8 |
-| 14:35             | 2021-07-25 | sale R7                | 14 Please Sir       |   5    |    -10   |   7604.8 |
-| 14:05             | 2021-07-25 | hobart R5              | 5 Brinktop Lad      |   2.6  |    -10   |   7614.8 |
-| 14:05             | 2021-07-25 | hobart R5              | 3 Kuroset           |   3.1  |    -10   |   7624.8 |
-| 13:30             | 2021-07-25 | oamaru R9              | 10 Full Fury        |   8    |    -10   |   7634.8 |
-| 12:50             | 2021-07-25 | oamaru R8              | 9 Transcendent      |  17    |    -10   |   7644.8 |
-| 11:35             | 2021-07-25 | oamaru R6              | 3 Dunhill           |   3.4  |    -10   |   7654.8 |
-| 10:25             | 2021-07-25 | oamaru R4              | 2 Gas Monkey        |  10    |    -10   |   7664.8 |
-| :boom:            | 2021-07-24 | belmont R8             | 7 Amasenus          |   5    |    -10   |   7214.3 |
-| :boom:            | 2021-07-24 | toowoomba R3           | 1 The Tenor         |   4.8  |    -10   |   7224.3 |
-| :3rd_place_medal: | 2021-07-24 | darwin R7              | 5 Paghman           |  13    |    -10   |   7244.3 |
-| :boom:            | 2021-07-24 | belmont R7             | 12 Giant Leap       |   4.6  |    -10   |   7254.3 |
-| :2nd_place_medal: | 2021-07-24 | darwin R6              | 5 Count of Essex    |   4.8  |    -10   |   7264.3 |
-| :boom:            | 2021-07-24 | rosehill R10           | 3 Frosty Rocks      |   2.35 |    -10   |   7294.3 |
-| :boom:            | 2021-07-24 | darwin R5              | 8 Belmont Day       |   1.85 |    -10   |   7304.3 |
-| 7                 | 2021-07-24 | caulfield R8           | 11 I Am Someone     | 151    |    -10   |   7334.3 |
-| :3rd_place_medal: | 2021-07-24 | caulfield R8           | 7 Isaurian          |   6.5  |    -10   |   7344.3 |
-| 5                 | 2021-07-24 | mackay R7              | 8 Charles Seven     |   2.9  |    -10   |   7354.3 |
-| :boom:            | 2021-07-24 | mackay R7              | 7 Princess Rules    |   4.2  |    -10   |   7364.3 |
-| :2nd_place_medal: | 2021-07-24 | mackay R7              | 3 The Egyptian      |   4    |    -10   |   7374.3 |
-| 13                | 2021-07-24 | doomben R9             | 5 Potro Duro        |  31    |    -10   |   7384.3 |
-| 8                 | 2021-07-24 | rosehill R9            | 6 Smart Image       |   5    |    -10   |   7394.3 |
-| :boom:            | 2021-07-24 | coffs-harbour R7       | 2 Greek Hero        |  10    |    -10   |   7414.3 |
-| 10                | 2021-07-24 | caulfield R7           | 2 The Big Easy      |   4.4  |    -10   |   7424.3 |
-| :boom:            | 2021-07-24 | mackay R6              | 2 Namazu            |   2.25 |    -10   |   7434.3 |
-| :3rd_place_medal: | 2021-07-24 | doomben R8             | 6 Red Bloom         |   7.5  |    -10   |   7444.3 |
-| :boom:            | 2021-07-24 | doomben R8             | 5 Really Discreet   |   3    |    -10   |   7454.3 |
-| 10                | 2021-07-24 | doomben R8             | 4 Hard Labour       |   3.3  |    -10   |   7464.3 |
-| :3rd_place_medal: | 2021-07-24 | darwin R3              | 1 Patriot Day       |   4.6  |    -10   |   7484.3 |
-| 6                 | 2021-07-24 | gilgandra R5           | 1 Shwanky Doo       |   4.6  |    -10   |   7504.3 |
-| 7                 | 2021-07-24 | rosehill R7            | 5 Kirwan's Lane     |   4.6  |    -10   |   7514.3 |
-| 8                 | 2021-07-24 | coffs-harbour R5       | 9 Do As You're Told |   5    |    -10   |   7524.3 |
-| 4                 | 2021-07-24 | caulfield R5           | 18 Promotions       |   6.5  |    -10   |   7534.3 |
-| 6                 | 2021-07-24 | doomben R6             | 10 Big Bad Bruce    |  13    |    -10   |   7544.3 |
-| 7                 | 2021-07-24 | rosehill R6            | 2 Misteed           |   8    |    -10   |   7554.3 |
-| :3rd_place_medal: | 2021-07-24 | darwin R1              | 4 La Trioli         |   3.9  |    -10   |   7564.3 |
-| 5                 | 2021-07-24 | morphettville R4       | 5 Pindaric          |   2.15 |    -10   |   7574.3 |
-| :2nd_place_medal: | 2021-07-24 | pukekura-raceway R7    | 2 Ladies Man        |   2.35 |    -10   |   7584.3 |
-| :2nd_place_medal: | 2021-07-24 | caulfield R4           | 1 La Mexicana       |   3.3  |    -10   |   7594.3 |
-| 6                 | 2021-07-24 | rosehill R5            | 3 Spencer           |  19    |    -10   |   7604.3 |
-| 7                 | 2021-07-24 | rosehill R4            | 1 Trumbull          |   4.6  |    -10   |   7614.3 |
-| :2nd_place_medal: | 2021-07-24 | morphettville R2       | 9 Flying Pierro     |   9.5  |    -10   |   7624.3 |
-| 9                 | 2021-07-24 | morphettville R2       | 6 Unlaced           |   5    |    -10   |   7634.3 |
-| :3rd_place_medal: | 2021-07-24 | gold-coast R2          | 2 Potent View       |   3.5  |    -10   |   7644.3 |
-| 4                 | 2021-07-24 | pukekura-raceway R4    | 3 Aricina           |   2.5  |    -10   |   7654.3 |
-| 4                 | 2021-07-24 | te-rapa R4             | 3 Teen Titan        |   3.9  |    -10   |   7664.3 |
-| :boom:            | 2021-07-23 | tamworth R7            | 7 Tawfiq Lass       |   4    |     30   |   7674.3 |
-| :3rd_place_medal: | 2021-07-23 | tamworth R4            | 7 Manseneta         |   6    |    -10   |   7644.3 |
-| 4                 | 2021-07-23 | ipswich R3             | 1 Divulge           |   4.8  |    -10   |   7654.3 |
-| 8                 | 2021-07-23 | ipswich R2             | 4 Spiritomo         |  11    |    -10   |   7664.3 |
-| 4                 | 2021-07-23 | ipswich R2             | 1 Patented          |  13    |    -10   |   7674.3 |
-| 7                 | 2021-07-23 | ipswich R1             | 4 Habib             |  10    |    -10   |   7684.3 |
-| 10                | 2021-07-22 | townsville R8          | 4 Bellevita         |   5.5  |    -10   |   7694.3 |
-| 10                | 2021-07-22 | townsville R7          | 5 King Landon       |  27    |    -10   |   7704.3 |
-| 5                 | 2021-07-22 | townsville R7          | 1 Lifetime Quest    |   4    |    -10   |   7714.3 |
-| :2nd_place_medal: | 2021-07-22 | townsville R6          | 4 Bold Type         |   2.5  |    -10   |   7724.3 |
-| 7                 | 2021-07-22 | townsville R6          | 1 Beau Jet          |  10    |    -10   |   7734.3 |
-| 5                 | 2021-07-22 | townsville R5          | 2 Loud Enough       |  15    |    -10   |   7744.3 |
-| :boom:            | 2021-07-22 | kembla-grange R7       | 1 Stoical           |   3.2  |     22   |   7754.3 |
-| :boom:            | 2021-07-22 | townsville R4          | 5 Waterway          |   9.5  |     85   |   7732.3 |
-| 4                 | 2021-07-22 | townsville R4          | 2 Ask Me Tomorrow   |   3.8  |    -10   |   7647.3 |
-| :boom:            | 2021-07-22 | hastings R3            | 3 Old Town Road     |   4.2  |     32   |   7657.3 |
-| :2nd_place_medal: | 2021-07-21 | belmont R7             | 2 First Law         |   3.8  |    -10   |   7625.3 |
-| 4                 | 2021-07-21 | kensington R7          | 10 Escape Artist    |   6.5  |    -10   |   7635.3 |
-| 8                 | 2021-07-21 | kensington R7          | 6 Dubai Star        |   5.5  |    -10   |   7645.3 |
-| :2nd_place_medal: | 2021-07-21 | eagle-farm R5          | 2 Jetty             |   9.5  |    -10   |   7655.3 |
-| :boom:            | 2021-07-21 | eagle-farm R4          | 6 Levi's Storm      |   1.65 |      6.5 |   7665.3 |
-| :3rd_place_medal: | 2021-07-21 | kensington R5          | 10 Peekays Legacy   |   4.4  |    -10   |   7658.8 |
-| 5                 | 2021-07-21 | eagle-farm R3          | 1 Princess Kayo     |   7.5  |    -10   |   7668.8 |
-| :2nd_place_medal: | 2021-07-21 | eagle-farm R2          | 1 Scathing          |   7.5  |    -10   |   7678.8 |
-| :boom:            | 2021-07-20 | rockhampton R5         | 6 Louie the Legend  |  11    |    100   |   7688.8 |
-| 9                 | 2021-07-20 | moree R4               | 5 Another Sheila    |   8    |    -10   |   7588.8 |
-| :3rd_place_medal: | 2021-07-18 | newton-abbot R2        | 1 Tomorrow Mystery  |   3    |    -10   |   7598.8 |
-| :boom:            | 2021-07-18 | sunshine-coast R8      | 3 Comments          |   4.6  |     36   |   7608.8 |
-| :boom:            | 2021-07-18 | devonport-synthetic R8 | 10 Cheeky One       |   5.5  |     45   |   7572.8 |
-| 5                 | 2021-07-18 | devonport-synthetic R8 | 2 Ancona            |   3.3  |    -10   |   7527.8 |
-| :boom:            | 2021-07-18 | racing.com-park R7     | 4 Social Element    |   2.3  |     13   |   7537.8 |
-| :boom:            | 2021-07-18 | sunshine-coast R5      | 6 Deadly Sins       |   9.5  |     85   |   7524.8 |
-| :boom:            | 2021-07-18 | racing.com-park R6     | 2 Big Blue          |   2.7  |     17   |   7439.8 |
-| 7                 | 2021-07-18 | alice-springs R1       | 4 Alvin Purple      |   8    |    -10   |   7422.8 |
-| :boom:            | 2021-07-18 | racing.com-park R4     | 4 Mawaany Machine   |   2.25 |     12.5 |   7432.8 |
-| :3rd_place_medal: | 2021-07-17 | newbury R3             | 3 Withhold          |   9.5  |    -10   |   7420.3 |
-| 4                 | 2021-07-17 | eagle-farm R9          | 17 Spending My Time |   5.5  |    -10   |   7430.3 |
-| 10                | 2021-07-17 | eagle-farm R9          | 4 Fisticuffs        |   7.5  |    -10   |   7440.3 |
-| :boom:            | 2021-07-17 | randwick R10           | 8 Our Bellagio Miss |   5.5  |     45   |   7450.3 |
-| :2nd_place_medal: | 2021-07-17 | morphettville-parks R8 | 5 Frankie Pinot     |   2.7  |    -10   |   7405.3 |
-| :3rd_place_medal: | 2021-07-17 | eagle-farm R7          | 1 Avowal            |   4.8  |    -10   |   7415.3 |
-| :boom:            | 2021-07-17 | darwin R3              | 5 The Captain       |   3.5  |     25   |   7425.3 |
-| :2nd_place_medal: | 2021-07-17 | randwick R8            | 6 Itz Lily          |   6.5  |    -10   |   7400.3 |
-| :2nd_place_medal: | 2021-07-17 | darwin R2              | 7 Yulong Awesome    |  12    |    -10   |   7410.3 |
+| finish            | date       | event                  | runner               |   odds |   return |   profit |
+|:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|---------:|
+| 18:20             | 2021-07-24 | belmont R8             | 7 Amasenus           |   5    |    -10   |   7214.3 |
+| 18:10             | 2021-07-24 | toowoomba R3           | 1 The Tenor          |   4.8  |    -10   |   7224.3 |
+| 17:55             | 2021-07-24 | darwin R7              | 9 No Say in It       |  34    |    -10   |   7234.3 |
+| 17:55             | 2021-07-24 | darwin R7              | 5 Paghman            |  13    |    -10   |   7244.3 |
+| 17:50             | 2021-07-24 | belmont R7             | 12 Giant Leap        |   4.6  |    -10   |   7254.3 |
+| 17:15             | 2021-07-24 | darwin R6              | 5 Count of Essex     |   4.8  |    -10   |   7264.3 |
+| 17:10             | 2021-07-24 | morphettville R9       | 10 She's A Karaka    |   5    |    -10   |   7274.3 |
+| 17:10             | 2021-07-24 | morphettville R9       | 9 Melody Man         |   2.5  |    -10   |   7284.3 |
+| 16:45             | 2021-07-24 | rosehill R10           | 3 Frosty Rocks       |   2.35 |    -10   |   7294.3 |
+| 16:35             | 2021-07-24 | darwin R5              | 8 Belmont Day        |   1.85 |    -10   |   7304.3 |
+| 16:32             | 2021-07-24 | morphettville R8       | 7 Halcyon Dame       |   3.7  |    -10   |   7314.3 |
+| 16:32             | 2021-07-24 | morphettville R8       | 4 Munster            |   9.5  |    -10   |   7324.3 |
+| 16:20             | 2021-07-24 | caulfield R8           | 11 I Am Someone      | 151    |    -10   |   7334.3 |
+| 16:20             | 2021-07-24 | caulfield R8           | 7 Isaurian           |   6.5  |    -10   |   7344.3 |
+| 16:16             | 2021-07-24 | mackay R7              | 8 Charles Seven      |   2.9  |    -10   |   7354.3 |
+| 16:16             | 2021-07-24 | mackay R7              | 7 Princess Rules     |   4.2  |    -10   |   7364.3 |
+| 16:16             | 2021-07-24 | mackay R7              | 3 The Egyptian       |   4    |    -10   |   7374.3 |
+| 16:13             | 2021-07-24 | doomben R9             | 5 Potro Duro         |  31    |    -10   |   7384.3 |
+| 16:05             | 2021-07-24 | rosehill R9            | 6 Smart Image        |   5    |    -10   |   7394.3 |
+| 15:57             | 2021-07-24 | morphettville R7       | 2 Morialta           |   6.5  |    -10   |   7404.3 |
+| 15:50             | 2021-07-24 | coffs-harbour R7       | 2 Greek Hero         |  10    |    -10   |   7414.3 |
+| 15:45             | 2021-07-24 | caulfield R7           | 2 The Big Easy       |   4.4  |    -10   |   7424.3 |
+| 15:41             | 2021-07-24 | mackay R6              | 2 Namazu             |   2.25 |    -10   |   7434.3 |
+| 15:37             | 2021-07-24 | doomben R8             | 6 Red Bloom          |   7.5  |    -10   |   7444.3 |
+| 15:37             | 2021-07-24 | doomben R8             | 5 Really Discreet    |   3    |    -10   |   7454.3 |
+| 15:37             | 2021-07-24 | doomben R8             | 4 Hard Labour        |   3.3  |    -10   |   7464.3 |
+| 15:19             | 2021-07-24 | darwin R3              | 3 Silver Melody      |   2.15 |    -10   |   7474.3 |
+| 15:19             | 2021-07-24 | darwin R3              | 1 Patriot Day        |   4.6  |    -10   |   7484.3 |
+| 15:14             | 2021-07-24 | gold-coast R6          | 4 Papa Jo            |   4.6  |    -10   |   7494.3 |
+| 14:52             | 2021-07-24 | gilgandra R5           | 1 Shwanky Doo        |   4.6  |    -10   |   7504.3 |
+| 14:45             | 2021-07-24 | rosehill R7            | 5 Kirwan's Lane      |   4.6  |    -10   |   7514.3 |
+| 14:30             | 2021-07-24 | coffs-harbour R5       | 9 Do As You're Told  |   5    |    -10   |   7524.3 |
+| 14:25             | 2021-07-24 | caulfield R5           | 18 Promotions        |   6.5  |    -10   |   7534.3 |
+| 14:18             | 2021-07-24 | doomben R6             | 10 Big Bad Bruce     |  13    |    -10   |   7544.3 |
+| 14:10             | 2021-07-24 | rosehill R6            | 2 Misteed            |   8    |    -10   |   7554.3 |
+| 14:04             | 2021-07-24 | darwin R1              | 4 La Trioli          |   3.9  |    -10   |   7564.3 |
+| 14:02             | 2021-07-24 | morphettville R4       | 5 Pindaric           |   2.15 |    -10   |   7574.3 |
+| 14:00             | 2021-07-24 | pukekura-raceway R7    | 2 Ladies Man         |   2.35 |    -10   |   7584.3 |
+| 13:50             | 2021-07-24 | caulfield R4           | 1 La Mexicana        |   3.3  |    -10   |   7594.3 |
+| 13:35             | 2021-07-24 | rosehill R5            | 3 Spencer            |  19    |    -10   |   7604.3 |
+| 13:00             | 2021-07-24 | rosehill R4            | 1 Trumbull           |   4.6  |    -10   |   7614.3 |
+| 12:52             | 2021-07-24 | morphettville R2       | 9 Flying Pierro      |   9.5  |    -10   |   7624.3 |
+| 12:52             | 2021-07-24 | morphettville R2       | 6 Unlaced            |   5    |    -10   |   7634.3 |
+| 12:49             | 2021-07-24 | gold-coast R2          | 2 Potent View        |   3.5  |    -10   |   7644.3 |
+| 12:15             | 2021-07-24 | pukekura-raceway R4    | 3 Aricina            |   2.5  |    -10   |   7654.3 |
+| 11:58             | 2021-07-24 | te-rapa R4             | 3 Teen Titan         |   3.9  |    -10   |   7664.3 |
+| :boom:            | 2021-07-23 | tamworth R7            | 7 Tawfiq Lass        |   4    |    -10   |   7634.3 |
+| :3rd_place_medal: | 2021-07-23 | tamworth R4            | 7 Manseneta          |   6    |    -10   |   7644.3 |
+| 4                 | 2021-07-23 | ipswich R3             | 1 Divulge            |   4.8  |    -10   |   7654.3 |
+| 8                 | 2021-07-23 | ipswich R2             | 4 Spiritomo          |  11    |    -10   |   7664.3 |
+| 4                 | 2021-07-23 | ipswich R2             | 1 Patented           |  13    |    -10   |   7674.3 |
+| 7                 | 2021-07-23 | ipswich R1             | 4 Habib              |  10    |    -10   |   7684.3 |
+| 10                | 2021-07-22 | townsville R8          | 4 Bellevita          |   5.5  |    -10   |   7694.3 |
+| 10                | 2021-07-22 | townsville R7          | 5 King Landon        |  27    |    -10   |   7704.3 |
+| 5                 | 2021-07-22 | townsville R7          | 1 Lifetime Quest     |   4    |    -10   |   7714.3 |
+| :2nd_place_medal: | 2021-07-22 | townsville R6          | 4 Bold Type          |   2.5  |    -10   |   7724.3 |
+| 7                 | 2021-07-22 | townsville R6          | 1 Beau Jet           |  10    |    -10   |   7734.3 |
+| 5                 | 2021-07-22 | townsville R5          | 2 Loud Enough        |  15    |    -10   |   7744.3 |
+| :boom:            | 2021-07-22 | kembla-grange R7       | 1 Stoical            |   3.2  |     22   |   7754.3 |
+| :boom:            | 2021-07-22 | townsville R4          | 5 Waterway           |   9.5  |     85   |   7732.3 |
+| 4                 | 2021-07-22 | townsville R4          | 2 Ask Me Tomorrow    |   3.8  |    -10   |   7647.3 |
+| :boom:            | 2021-07-22 | hastings R3            | 3 Old Town Road      |   4.2  |     32   |   7657.3 |
+| :2nd_place_medal: | 2021-07-21 | belmont R7             | 2 First Law          |   3.8  |    -10   |   7625.3 |
+| 4                 | 2021-07-21 | kensington R7          | 10 Escape Artist     |   6.5  |    -10   |   7635.3 |
+| 8                 | 2021-07-21 | kensington R7          | 6 Dubai Star         |   5.5  |    -10   |   7645.3 |
+| :2nd_place_medal: | 2021-07-21 | eagle-farm R5          | 2 Jetty              |   9.5  |    -10   |   7655.3 |
+| :boom:            | 2021-07-21 | eagle-farm R4          | 6 Levi's Storm       |   1.65 |      6.5 |   7665.3 |
+| :3rd_place_medal: | 2021-07-21 | kensington R5          | 10 Peekays Legacy    |   4.4  |    -10   |   7658.8 |
+| 5                 | 2021-07-21 | eagle-farm R3          | 1 Princess Kayo      |   7.5  |    -10   |   7668.8 |
+| :2nd_place_medal: | 2021-07-21 | eagle-farm R2          | 1 Scathing           |   7.5  |    -10   |   7678.8 |
+| :boom:            | 2021-07-20 | rockhampton R5         | 6 Louie the Legend   |  11    |    100   |   7688.8 |
+| 9                 | 2021-07-20 | moree R4               | 5 Another Sheila     |   8    |    -10   |   7588.8 |
+| :3rd_place_medal: | 2021-07-18 | newton-abbot R2        | 1 Tomorrow Mystery   |   3    |    -10   |   7598.8 |
+| :boom:            | 2021-07-18 | sunshine-coast R8      | 3 Comments           |   4.6  |     36   |   7608.8 |
+| :boom:            | 2021-07-18 | devonport-synthetic R8 | 10 Cheeky One        |   5.5  |     45   |   7572.8 |
+| 5                 | 2021-07-18 | devonport-synthetic R8 | 2 Ancona             |   3.3  |    -10   |   7527.8 |
+| :boom:            | 2021-07-18 | racing.com-park R7     | 4 Social Element     |   2.3  |     13   |   7537.8 |
+| :boom:            | 2021-07-18 | sunshine-coast R5      | 6 Deadly Sins        |   9.5  |     85   |   7524.8 |
+| :boom:            | 2021-07-18 | racing.com-park R6     | 2 Big Blue           |   2.7  |     17   |   7439.8 |
+| 7                 | 2021-07-18 | alice-springs R1       | 4 Alvin Purple       |   8    |    -10   |   7422.8 |
+| :boom:            | 2021-07-18 | racing.com-park R4     | 4 Mawaany Machine    |   2.25 |     12.5 |   7432.8 |
+| :3rd_place_medal: | 2021-07-17 | newbury R3             | 3 Withhold           |   9.5  |    -10   |   7420.3 |
+| 4                 | 2021-07-17 | eagle-farm R9          | 17 Spending My Time  |   5.5  |    -10   |   7430.3 |
+| 10                | 2021-07-17 | eagle-farm R9          | 4 Fisticuffs         |   7.5  |    -10   |   7440.3 |
+| :boom:            | 2021-07-17 | randwick R10           | 8 Our Bellagio Miss  |   5.5  |     45   |   7450.3 |
+| :2nd_place_medal: | 2021-07-17 | morphettville-parks R8 | 5 Frankie Pinot      |   2.7  |    -10   |   7405.3 |
+| :3rd_place_medal: | 2021-07-17 | eagle-farm R7          | 1 Avowal             |   4.8  |    -10   |   7415.3 |
+| :boom:            | 2021-07-17 | darwin R3              | 5 The Captain        |   3.5  |     25   |   7425.3 |
+| :2nd_place_medal: | 2021-07-17 | randwick R8            | 6 Itz Lily           |   6.5  |    -10   |   7400.3 |
+| :2nd_place_medal: | 2021-07-17 | darwin R2              | 7 Yulong Awesome     |  12    |    -10   |   7410.3 |
+| 9                 | 2021-07-17 | darwin R2              | 5 Extolment          |  21    |    -10   |   7420.3 |
+| :boom:            | 2021-07-17 | randwick R7            | 8 Steely             |   9    |     80   |   7430.3 |
+| :3rd_place_medal: | 2021-07-17 | goulburn R5            | 4 Narrated           |   2.15 |    -10   |   7350.3 |
+| :3rd_place_medal: | 2021-07-17 | darwin R1              | 3 Captain Hedderwick |   2.3  |    -10   |   7360.3 |
+| 5                 | 2021-07-17 | darwin R1              | 1 Count of Essex     |   2.7  |    -10   |   7370.3 |
+| :boom:            | 2021-07-17 | eagle-farm R5          | 6 Victoria Park      |   4.2  |     32   |   7380.3 |
+| 8                 | 2021-07-17 | gympie R3              | 2 Good Humour        |  12    |    -10   |   7348.3 |
+| 6                 | 2021-07-17 | randwick R6            | 5 Get The Idea       |   7.5  |    -10   |   7358.3 |
+| :3rd_place_medal: | 2021-07-17 | eagle-farm R4          | 6 Ef Troop           |   3.8  |    -10   |   7368.3 |
+| 4                 | 2021-07-17 | eagle-farm R3          | 7 Spirit House       |   9    |    -10   |   7378.3 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
-| Friday    |    685 |    156 |   2054.7 | 0.23 |  0.3  |
+| Friday    |    685 |    156 |   2014.7 | 0.23 |  0.29 |
 | Monday    |    166 |     29 |    792   | 0.17 |  0.48 |
-| Saturday  |   3097 |    599 |   2204.5 | 0.19 |  0.07 |
-| Sunday    |    712 |    167 |   1099.3 | 0.23 |  0.15 |
+| Saturday  |   3105 |    590 |   2124.5 | 0.19 |  0.07 |
+| Sunday    |    694 |    167 |   1279.3 | 0.24 |  0.18 |
 | Thursday  |    399 |     94 |    940   | 0.24 |  0.24 |
 | Tuesday   |    362 |     85 |    354.8 | 0.23 |  0.1  |
 | Wednesday |    741 |    168 |   -116   | 0.23 | -0.02 |
@@ -208,7 +208,7 @@ Running profit since February 2020.
 | 2021-WK26 |     53 |     12 |   -182.5 | 0.23 | -0.34 |
 | 2021-WK27 |     79 |     13 |    242.5 | 0.16 |  0.31 |
 | 2021-WK28 |     65 |     20 |    241   | 0.31 |  0.37 |
-| 2021-WK29 |     82 |     15 |   -484.5 | 0.18 | -0.59 |
+| 2021-WK29 |     72 |      6 |   -424.5 | 0.08 | -0.59 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -229,7 +229,7 @@ Running profit since February 2020.
 | 2021-04 |    339 |     63 |     74.1 | 0.19 |  0.02 |
 | 2021-05 |    369 |     80 |   1147   | 0.22 |  0.31 |
 | 2021-06 |    296 |     51 |   -204   | 0.17 | -0.07 |
-| 2021-07 |    274 |     58 |   -180.5 | 0.21 | -0.07 |
+| 2021-07 |    264 |     49 |   -120.5 | 0.19 | -0.05 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -243,6 +243,7 @@ Running profit since February 2020.
 | murwillumbah               |      9 |      3 |    467   | 0.33 |  5.19 |
 | naas                       |      1 |      1 |     40   | 1    |  4    |
 | pukekohe-park              |      3 |      2 |    106   | 0.67 |  3.53 |
+| sapphire-coast             |      3 |      1 |    100   | 0.33 |  3.33 |
 | seymour                    |      2 |      1 |     61   | 0.5  |  3.05 |
 | coonamble                  |      1 |      1 |     28   | 1    |  2.8  |
 | tuncurry                   |      1 |      1 |     28   | 1    |  2.8  |
@@ -252,7 +253,6 @@ Running profit since February 2020.
 | lingfield                  |      2 |      2 |     45.5 | 1    |  2.28 |
 | gawler                     |     19 |      6 |    432   | 0.32 |  2.27 |
 | newton-abbot               |      5 |      2 |    113   | 0.4  |  2.26 |
-| sapphire-coast             |      4 |      1 |     90   | 0.25 |  2.25 |
 | katherine                  |      1 |      1 |     22   | 1    |  2.2  |
 | cairns                     |     88 |     17 |   1900   | 0.19 |  2.16 |
 | tipperary                  |      1 |      1 |     20   | 1    |  2    |
@@ -287,7 +287,7 @@ Running profit since February 2020.
 | tennant-creek              |      3 |      1 |     18   | 0.33 |  0.6  |
 | devonport-synthetic        |     83 |     22 |    487   | 0.27 |  0.59 |
 | mornington                 |     13 |      5 |     71.5 | 0.38 |  0.55 |
-| coffs-harbour              |      6 |      3 |     32.5 | 0.5  |  0.54 |
+| coffs-harbour              |      6 |      2 |     32.5 | 0.33 |  0.54 |
 | bunbury                    |     32 |      9 |    168   | 0.28 |  0.52 |
 | ballina                    |      7 |      2 |     35   | 0.29 |  0.5  |
 | wangaratta                 |      5 |      1 |     25   | 0.2  |  0.5  |
@@ -296,16 +296,16 @@ Running profit since February 2020.
 | donald                     |      8 |      2 |     37   | 0.25 |  0.46 |
 | grafton                    |     28 |      8 |    119.5 | 0.29 |  0.43 |
 | canberra                   |     38 |      7 |    161.5 | 0.18 |  0.42 |
-| toowoomba                  |     92 |     29 |    376.5 | 0.32 |  0.41 |
+| toowoomba                  |     92 |     28 |    376.5 | 0.3  |  0.41 |
 | wagga                      |     24 |      6 |     96   | 0.25 |  0.4  |
 | dalby                      |     14 |      3 |     56.5 | 0.21 |  0.4  |
 | pakenham-synthetic         |      9 |      3 |     33   | 0.33 |  0.37 |
-| morphettville              |    203 |     43 |    737.6 | 0.21 |  0.36 |
 | moonee-valley              |    130 |     29 |    471.5 | 0.22 |  0.36 |
 | bundaberg                  |     10 |      3 |     35   | 0.3  |  0.35 |
+| morphettville              |    208 |     43 |    687.6 | 0.21 |  0.33 |
 | albany                     |     16 |      5 |     53   | 0.31 |  0.33 |
 | canterbury                 |     56 |     12 |    161.5 | 0.21 |  0.29 |
-| mackay                     |    146 |     44 |    370.6 | 0.3  |  0.25 |
+| mackay                     |    146 |     42 |    370.6 | 0.29 |  0.25 |
 | scone                      |     22 |      5 |     54.5 | 0.23 |  0.25 |
 | port-lincoln               |     23 |      5 |     55   | 0.22 |  0.24 |
 | kensington                 |     83 |     18 |    189   | 0.22 |  0.23 |
@@ -320,17 +320,17 @@ Running profit since February 2020.
 | randwick                   |    243 |     41 |    388.8 | 0.17 |  0.16 |
 | townsville                 |    155 |     36 |    234   | 0.23 |  0.15 |
 | sandown-lakeside           |     24 |      8 |     35.5 | 0.33 |  0.15 |
-| rosehill                   |    154 |     27 |    183   | 0.18 |  0.12 |
+| rosehill                   |    154 |     26 |    183   | 0.17 |  0.12 |
 | ffos-las                   |      2 |      1 |      2.5 | 0.5  |  0.12 |
 | riccarton-park             |     10 |      1 |     10   | 0.1  |  0.1  |
 | echuca                     |      4 |      1 |      4   | 0.25 |  0.1  |
 | ascot                      |    214 |     55 |    185   | 0.26 |  0.09 |
 | warrnambool                |     33 |     10 |     29   | 0.3  |  0.09 |
-| darwin                     |    232 |     56 |    174.4 | 0.24 |  0.08 |
+| darwin                     |    234 |     55 |    154.4 | 0.24 |  0.07 |
 | rockhampton                |    175 |     42 |    126.1 | 0.24 |  0.07 |
 | newcastle                  |     74 |     12 |     49   | 0.16 |  0.07 |
 | casterton                  |      9 |      2 |      6   | 0.22 |  0.07 |
-| doomben                    |    309 |     60 |    180.1 | 0.19 |  0.06 |
+| doomben                    |    309 |     59 |    180.1 | 0.19 |  0.06 |
 | eagle-farm                 |    309 |     53 |    108   | 0.17 |  0.03 |
 | launceston                 |    105 |     24 |     19   | 0.23 |  0.02 |
 | hastings                   |      8 |      2 |      2   | 0.25 |  0.02 |
@@ -338,40 +338,40 @@ Running profit since February 2020.
 | albury                     |     12 |      3 |      1.5 | 0.25 |  0.01 |
 | hamilton                   |      6 |      2 |      0   | 0.33 |  0    |
 | ballarat-synthetic         |     15 |      5 |     -0.5 | 0.33 | -0    |
-| tamworth                   |     35 |      7 |     -1   | 0.2  | -0    |
 | pinjarra                   |     35 |      6 |     -4   | 0.17 | -0.01 |
 | charleville                |      3 |      1 |     -1   | 0.33 | -0.03 |
 | cranbourne                 |     20 |      5 |     -8.5 | 0.25 | -0.04 |
 | warwick-farm               |     81 |     16 |    -47.5 | 0.2  | -0.06 |
+| kalgoorlie                 |     94 |     19 |    -60.5 | 0.2  | -0.06 |
 | kembla-grange              |     43 |      9 |    -32   | 0.21 | -0.07 |
-| kalgoorlie                 |     95 |     19 |    -70.5 | 0.2  | -0.07 |
 | fakenham                   |      2 |      1 |     -1.7 | 0.5  | -0.09 |
 | stratford                  |      2 |      1 |     -1.7 | 0.5  | -0.09 |
 | lismore                    |      7 |      2 |     -6   | 0.29 | -0.09 |
+| sunshine-coast             |    120 |     23 |   -110.1 | 0.19 | -0.09 |
 | casino                     |      4 |      1 |     -4   | 0.25 | -0.1  |
-| sunshine-coast             |    122 |     23 |   -130.1 | 0.19 | -0.11 |
 | wyong                      |     29 |      5 |    -34   | 0.17 | -0.12 |
+| tamworth                   |     35 |      7 |    -41   | 0.2  | -0.12 |
 | morphettville-parks        |    165 |     33 |   -222.5 | 0.2  | -0.13 |
-| alice-springs              |    147 |     31 |   -219.5 | 0.21 | -0.15 |
-| gold-coast                 |    176 |     32 |   -256.5 | 0.18 | -0.15 |
-| belmont                    |    150 |     34 |   -232.8 | 0.23 | -0.16 |
+| alice-springs              |    146 |     31 |   -209.5 | 0.21 | -0.14 |
+| gold-coast                 |    177 |     32 |   -266.5 | 0.18 | -0.15 |
+| belmont                    |    150 |     32 |   -232.8 | 0.21 | -0.16 |
 | ipswich                    |    135 |     23 |   -242   | 0.17 | -0.18 |
 | benalla                    |      5 |      1 |    -10   | 0.2  | -0.2  |
 | barcaldine                 |     16 |      4 |    -33.5 | 0.25 | -0.21 |
 | muswellbrook               |     20 |      3 |    -42   | 0.15 | -0.21 |
 | down-royal                 |      2 |      1 |     -4.3 | 0.5  | -0.22 |
+| gosford                    |     28 |      3 |    -62.5 | 0.11 | -0.22 |
 | gundagai                   |      3 |      1 |     -7   | 0.33 | -0.23 |
 | hawera                     |      3 |      1 |     -7   | 0.33 | -0.23 |
+| hobart                     |     68 |     19 |   -171.1 | 0.28 | -0.25 |
 | flemington                 |    260 |     30 |   -734   | 0.12 | -0.28 |
+| sale                       |     14 |      3 |    -40   | 0.21 | -0.29 |
 | mudgee                     |      6 |      1 |    -18   | 0.17 | -0.3  |
 | orange                     |      6 |      1 |    -18   | 0.17 | -0.3  |
 | carnarvon                  |      6 |      3 |    -18.2 | 0.5  | -0.3  |
-| gosford                    |     31 |      3 |    -92.5 | 0.1  | -0.3  |
-| hobart                     |     73 |     19 |   -221.1 | 0.26 | -0.3  |
 | northam                    |     22 |      4 |    -68.5 | 0.18 | -0.31 |
 | yeppoon                    |     12 |      2 |    -38   | 0.17 | -0.32 |
 | newbury                    |      3 |      1 |    -10   | 0.33 | -0.33 |
-| sale                       |     15 |      3 |    -50   | 0.2  | -0.33 |
 | ellerslie                  |     16 |      3 |    -54.5 | 0.19 | -0.34 |
 | wimmera%40stawell          |      8 |      1 |    -29   | 0.12 | -0.36 |
 | gatton                     |     20 |      2 |    -71.5 | 0.1  | -0.36 |
@@ -445,7 +445,6 @@ Running profit since February 2020.
 | turffontein                |      3 |      0 |    -30   | 0    | -1    |
 | wingatui                   |      3 |      0 |    -30   | 0    | -1    |
 | cloncurry                  |      4 |      0 |    -40   | 0    | -1    |
-| oamaru                     |      4 |      0 |    -40   | 0    | -1    |
 | york                       |      4 |      0 |    -40   | 0    | -1    |
 | esperance-bay              |      5 |      0 |    -50   | 0    | -1    |
 | otaki                      |      5 |      0 |    -50   | 0    | -1    |
@@ -459,16 +458,16 @@ Running profit since February 2020.
 
 | location                     |   runs |   wins |   profit |   sr |   roi |
 |:-----------------------------|-------:|-------:|---------:|-----:|------:|
-| south-australia              |    555 |    122 |   2156.6 | 0.22 |  0.39 |
 | australian-capital-territory |     39 |      7 |    151.5 | 0.18 |  0.39 |
-| new-zealand                  |    148 |     36 |    507.9 | 0.24 |  0.34 |
-| new-south-wales              |   1122 |    221 |   2113.3 | 0.2  |  0.19 |
-| queensland                   |   1859 |    389 |   2363.7 | 0.21 |  0.13 |
-| tasmania                     |    262 |     66 |    344.9 | 0.25 |  0.13 |
+| south-australia              |    560 |    122 |   2106.6 | 0.22 |  0.38 |
+| new-zealand                  |    144 |     36 |    547.9 | 0.25 |  0.38 |
+| new-south-wales              |   1118 |    219 |   2113.3 | 0.2  |  0.19 |
+| tasmania                     |    257 |     66 |    394.9 | 0.26 |  0.15 |
+| queensland                   |   1858 |    385 |   2373.7 | 0.21 |  0.13 |
 | united-kingdom               |     69 |     17 |     71.8 | 0.25 |  0.1  |
-| western-australia            |    605 |    143 |     50.5 | 0.24 |  0.01 |
-| northern-territory           |    385 |     89 |    -25.1 | 0.23 | -0.01 |
-| victoria                     |   1040 |    194 |    -56.8 | 0.19 | -0.01 |
+| western-australia            |    604 |    141 |     60.5 | 0.23 |  0.01 |
+| victoria                     |   1039 |    194 |    -46.8 | 0.19 | -0    |
+| northern-territory           |    386 |     88 |    -35.1 | 0.23 | -0.01 |
 | ireland                      |     11 |      3 |    -16   | 0.27 | -0.15 |
 | south-africa                 |     19 |      4 |    -56.5 | 0.21 | -0.3  |
 | singapore                    |     46 |      7 |   -256.5 | 0.15 | -0.56 |
