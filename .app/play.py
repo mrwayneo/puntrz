@@ -1,5 +1,5 @@
 from datetime import datetime as dt
-from library.c_date import Date
+from library.dates import Date
 
 print("""
 
@@ -42,13 +42,11 @@ print(f'Past 12 months first day = {Date(date_today.past_months(12)).day_month()
 print(f'Past 12 months first day = {Date(date_today.past_months(12)).last_day_month()}')
 # print(f'First day of previous 12 months = {dates_previous_months(end_date, 12, output=3)}')
 
-stop
-
 title = f'## [pc2565](https://mrwayneo.github.io/)    '
 author = f'by wayneo   '
 description = f'Description: Punters started February 2020, based on $10 per tip.   '
 url = f'URL: https://mrwayneo.github.io/   '
-comment = f'[{datetime_now}] Tips are up in.   '
+comment = f'[{dt.now()}] Tips are up in.   '
 
 punters = """
 * moechilli
@@ -92,6 +90,8 @@ filename = f'/home/wayneo/play.markdown'
 lines = [title, author, description, url, comment, punters, tips, resulted, 
 	todo, leaderboard]
 
-with open(filename, mode='wt', encoding='utf-8') as myfile:
-    myfile.write('\n\n'.join(lines))
-myfile.close()
+print('\n\n'.join(lines))
+
+# with open(filename, mode='wt', encoding='utf-8') as myfile:
+#     myfile.write('\n\n'.join(lines))
+# myfile.close()
