@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2021-07-27 20:37:10 +1000   
+date: 2021-07-28 04:34:20 +1000   
 categories: evenodds   
 ---   
 
@@ -9,16 +9,16 @@ categories: evenodds
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last Week      |      5 |      2 |    -17.5 | 0.4  | -0.35 |
-| This Month     |     16 |      7 |     -7   | 0.44 | -0.04 |
-| This Year      |     91 |     39 |    -17.6 | 0.43 | -0.02 |
-| Since Feb 2020 |    217 |     91 |     44.2 | 0.42 |  0.02 |
+| This Month     |     16 |      7 |     16   | 0.44 |  0.1  |
+| This Year      |     91 |     39 |      5.4 | 0.43 |  0.01 |
+| Since Feb 2020 |    217 |     91 |     67.2 | 0.42 |  0.03 |
 
 ### Evenodds Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner              |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:--------------------|-------:|---------:|---------:|
-| :boom:            | 2021-07-26 | newton-abbot R3        | 2 Chez Hans         |   2.3  |    -10   |     37.2 |
+| :boom:            | 2021-07-26 | newton-abbot R3        | 2 Chez Hans         |   2.3  |     13   |     60.2 |
 | 4                 | 2021-07-25 | hobart R6              | 2 Rising Light      |   5.5  |    -10   |     47.2 |
 | :boom:            | 2021-07-24 | toowoomba R6           | 1 Legal Esprit      |   1.4  |      4   |     57.2 |
 | :boom:            | 2021-07-24 | darwin R5              | 8 Belmont Day       |   1.85 |      8.5 |     53.2 |
@@ -122,12 +122,12 @@ categories: evenodds
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
 | Friday    |     25 |     11 |     34   | 0.44 |  0.14 |
-| Monday    |      5 |      1 |    -50   | 0.2  | -1    |
+| Monday    |      5 |      1 |    -27   | 0.2  | -0.54 |
 | Saturday  |    105 |     47 |      0.9 | 0.45 |  0    |
 | Sunday    |     29 |     11 |     25.3 | 0.38 |  0.09 |
 | Thursday  |     13 |      5 |     85.2 | 0.38 |  0.66 |
 | Tuesday   |     15 |      4 |    -75.4 | 0.27 | -0.5  |
-| Wednesday |     25 |     12 |     24.2 | 0.48 |  0.1  |
+| Wednesday |     26 |     12 |     14.2 | 0.46 |  0.05 |
 
 | week      |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -201,7 +201,7 @@ categories: evenodds
 | 2021-WK27 |      4 |      2 |      3.5 | 0.5  |  0.09 |
 | 2021-WK28 |      3 |      1 |     -3   | 0.33 | -0.1  |
 | 2021-WK29 |      5 |      2 |    -17.5 | 0.4  | -0.35 |
-| 2021-WK30 |      1 |      1 |    -10   | 1    | -1    |
+| 2021-WK30 |      2 |      1 |      3   | 0.5  |  0.15 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -222,7 +222,7 @@ categories: evenodds
 | 2021-04 |      9 |      2 |    -46.4 | 0.22 | -0.52 |
 | 2021-05 |     13 |      8 |    127.5 | 0.62 |  0.98 |
 | 2021-06 |     13 |      2 |    -94.6 | 0.15 | -0.73 |
-| 2021-07 |     16 |      7 |     -7   | 0.44 | -0.04 |
+| 2021-07 |     17 |      7 |      6   | 0.41 |  0.04 |
 
 | track               |   runs |   wins |   profit |   sr |   roi |
 |:--------------------|-------:|-------:|---------:|-----:|------:|
@@ -242,12 +242,12 @@ categories: evenodds
 | te-rapa             |      3 |      2 |     17.1 | 0.67 |  0.57 |
 | gatton              |      2 |      1 |     10   | 0.5  |  0.5  |
 | pinjarra            |      2 |      1 |     10   | 0.5  |  0.5  |
-| darwin              |      8 |      6 |     27.3 | 0.75 |  0.34 |
 | armidale            |      1 |      1 |      3.1 | 1    |  0.31 |
 | ellerslie           |      9 |      5 |     26   | 0.56 |  0.29 |
 | rockhampton         |     12 |      6 |     33   | 0.5  |  0.28 |
 | sunshine-coast      |     11 |      6 |     26   | 0.55 |  0.24 |
 | belmont             |     25 |     14 |     51.6 | 0.56 |  0.21 |
+| darwin              |      9 |      6 |     17.3 | 0.67 |  0.19 |
 | ascot               |      7 |      3 |      7   | 0.43 |  0.1  |
 | geraldton           |      2 |      1 |      2   | 0.5  |  0.1  |
 | morphettville       |      2 |      1 |      0   | 0.5  |  0    |
@@ -258,6 +258,7 @@ categories: evenodds
 | eagle-farm          |      6 |      2 |    -19.5 | 0.33 | -0.32 |
 | otaki               |      2 |      1 |     -7   | 0.5  | -0.35 |
 | kempton             |      3 |      1 |    -10.9 | 0.33 | -0.36 |
+| newton-abbot        |      4 |      1 |    -17   | 0.25 | -0.42 |
 | townsville          |      5 |      1 |    -24   | 0.2  | -0.48 |
 | ipswich             |      5 |      1 |    -32   | 0.2  | -0.64 |
 | newmarket           |      6 |      1 |    -41.5 | 0.17 | -0.69 |
@@ -281,17 +282,16 @@ categories: evenodds
 | pukekohe-park       |      2 |      0 |    -20   | 0    | -1    |
 | morphettville-parks |      3 |      0 |    -30   | 0    | -1    |
 | randwick            |      3 |      0 |    -30   | 0    | -1    |
-| newton-abbot        |      4 |      1 |    -40   | 0.25 | -1    |
 
 | location           |   runs |   wins |   profit |   sr |   roi |
 |:-------------------|-------:|-------:|---------:|-----:|------:|
 | tasmania           |     17 |      8 |     58.5 | 0.47 |  0.34 |
-| northern-territory |      8 |      6 |     27.3 | 0.75 |  0.34 |
 | western-australia  |     36 |     19 |     70.6 | 0.53 |  0.2  |
+| northern-territory |      9 |      6 |     17.3 | 0.67 |  0.19 |
 | south-australia    |     12 |      4 |      9   | 0.33 |  0.08 |
 | queensland         |     89 |     36 |     39.5 | 0.4  |  0.04 |
 | new-zealand        |     23 |     10 |      5.6 | 0.43 |  0.02 |
 | victoria           |      3 |      1 |     -2   | 0.33 | -0.07 |
 | new-south-wales    |      8 |      2 |    -37.9 | 0.25 | -0.47 |
-| united-kingdom     |     20 |      5 |   -116.4 | 0.25 | -0.58 |
+| united-kingdom     |     20 |      5 |    -93.4 | 0.25 | -0.47 |
 | ireland            |      1 |      0 |    -10   | 0    | -1    |

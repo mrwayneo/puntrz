@@ -1,24 +1,29 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-07-27 20:46:08 +1000   
+date: 2021-07-28 04:43:12 +1000   
 categories: looseknot   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last Week      |     14 |      2 |    -25   | 0.14 | -0.18 |
-| This Month     |     71 |      8 |   -255   | 0.11 | -0.36 |
-| This Year      |    470 |     62 |  -1094   | 0.13 | -0.23 |
-| Since Feb 2020 |   1172 |    209 |   2725.5 | 0.18 |  0.23 |
+| This Week      |      2 |      0 |    -20   | 0    | -1    |
+| This Month     |     76 |      8 |   -305   | 0.11 | -0.4  |
+| This Year      |    475 |     62 |  -1144   | 0.13 | -0.24 |
+| Since Feb 2020 |   1177 |    209 |   2675.5 | 0.18 |  0.23 |
 
 ### Looseknot Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner                |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|---------:|
-| 98                | 2021-07-26 | newton-abbot R2        | 7 Masterdream         |   5    |      -10 |   2665.5 |
+| 98                | 2021-07-27 | beverley R1            | 11 Alpine Lady        |   3.8  |      -10 |   2615.5 |
+| 98                | 2021-07-26 | newton-abbot R2        | 7 Masterdream         |   5    |      -10 |   2625.5 |
+| 9                 | 2021-07-25 | gosford R5             | 14 Sacred Stream      |   5.5  |      -10 |   2635.5 |
+| 4                 | 2021-07-25 | sapphire-coast R5      | 3 Halliday Road       |   7    |      -10 |   2645.5 |
+| 5                 | 2021-07-25 | alice-springs R1       | 1 The Ladies Man      |   5.5  |      -10 |   2655.5 |
+| :3rd_place_medal: | 2021-07-25 | warracknabeal R2       | 12 Zouzouli           |   7    |      -10 |   2665.5 |
 | 4                 | 2021-07-24 | toowoomba R5           | 4 Amenadiel           |   7    |      -10 |   2675.5 |
 | :boom:            | 2021-07-24 | mildura R3             | 10 Savvy Sovereign    |   5.5  |       45 |   2685.5 |
 | :3rd_place_medal: | 2021-07-24 | morphettville R1       | 15 Our Shinko         |   6    |      -10 |   2640.5 |
@@ -113,18 +118,13 @@ categories: looseknot
 | :3rd_place_medal: | 2021-06-18 | geelong R4             | 5 Late Night Finish   |   6    |      -10 |   3058.5 |
 | :3rd_place_medal: | 2021-06-18 | canberra-acton R4      | 1 Brennaman           |   4.4  |      -10 |   3068.5 |
 | 8                 | 2021-06-18 | coffs-harbour R3       | 5 Hector Sagoa        |   5.5  |      -10 |   3078.5 |
-| 9                 | 2021-06-18 | coffs-harbour R2       | 9 Dawnburst           |   6.5  |      -10 |   3088.5 |
-| 99                | 2021-06-17 | royal-ascot R1         | 9 Lucci               |   6    |      -10 |   3098.5 |
-| 4                 | 2021-06-17 | warrnambool R6         | 1 Runaway             |   4    |      -10 |   3108.5 |
-| :3rd_place_medal: | 2021-06-17 | wyong R4               | 7 Contamination       |   7.5  |      -10 |   3118.5 |
-| 6                 | 2021-06-17 | nowra R1               | 5 Aussie Lindbergh    |   4.4  |      -10 |   3128.5 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
 | Friday    |    169 |     40 |    549   | 0.24 |  0.32 |
 | Monday    |    106 |     12 |    608   | 0.11 |  0.57 |
 | Saturday  |    261 |     54 |   1921   | 0.21 |  0.74 |
-| Sunday    |    187 |     32 |    -13.5 | 0.17 | -0.01 |
+| Sunday    |    191 |     32 |    -53.5 | 0.17 | -0.03 |
 | Thursday  |    174 |     21 |   -427.5 | 0.12 | -0.25 |
 | Tuesday   |    121 |     20 |     -7   | 0.17 | -0.01 |
 | Wednesday |    155 |     30 |     85.5 | 0.19 |  0.06 |
@@ -208,7 +208,7 @@ categories: looseknot
 | 2021-WK26 |     15 |      3 |     20   | 0.2  |  0.13 |
 | 2021-WK27 |     22 |      0 |   -220   | 0    | -1    |
 | 2021-WK28 |     23 |      3 |    -60   | 0.13 | -0.26 |
-| 2021-WK29 |     14 |      2 |    -25   | 0.14 | -0.18 |
+| 2021-WK29 |     18 |      2 |    -65   | 0.11 | -0.36 |
 | 2021-WK30 |      2 |      0 |    -20   | 0    | -1    |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
@@ -230,7 +230,7 @@ categories: looseknot
 | 2021-04 |     71 |     10 |   -217   | 0.14 | -0.31 |
 | 2021-05 |     56 |      3 |   -263   | 0.05 | -0.47 |
 | 2021-06 |     78 |      8 |   -317   | 0.1  | -0.41 |
-| 2021-07 |     72 |      8 |   -265   | 0.11 | -0.37 |
+| 2021-07 |     76 |      8 |   -305   | 0.11 | -0.4  |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -339,9 +339,9 @@ categories: looseknot
 | toowoomba                  |     19 |      3 |    -30   | 0.16 | -0.16 |
 | te-aroha                   |      9 |      2 |    -16.5 | 0.22 | -0.18 |
 | goulburn                   |     10 |      2 |    -18   | 0.2  | -0.18 |
-| gosford                    |     16 |      1 |    -30   | 0.06 | -0.19 |
 | sunshine-coast             |     27 |      4 |    -52   | 0.15 | -0.19 |
 | devonport-synthetic        |      7 |      1 |    -15   | 0.14 | -0.21 |
+| gosford                    |     17 |      1 |    -40   | 0.06 | -0.24 |
 | leopardstown               |      8 |      1 |    -20   | 0.12 | -0.25 |
 | hastings                   |     11 |      2 |    -28   | 0.18 | -0.25 |
 | newcastle                  |     28 |      5 |    -79.5 | 0.18 | -0.28 |
@@ -393,13 +393,13 @@ categories: looseknot
 | ripon                      |      1 |      0 |    -10   | 0    | -1    |
 | riverton                   |      1 |      0 |    -10   | 0    | -1    |
 | roebourne                  |      1 |      0 |    -10   | 0    | -1    |
-| sapphire-coast             |      1 |      0 |    -10   | 0    | -1    |
 | stony-creek                |      1 |      0 |    -10   | 0    | -1    |
 | tauherenikau               |      1 |      0 |    -10   | 0    | -1    |
 | timaru                     |      1 |      0 |    -10   | 0    | -1    |
 | tramore                    |      1 |      0 |    -10   | 0    | -1    |
 | tuncurry                   |      1 |      0 |    -10   | 0    | -1    |
 | wairoa                     |      1 |      0 |    -10   | 0    | -1    |
+| warracknabeal              |      1 |      0 |    -10   | 0    | -1    |
 | warren                     |      1 |      0 |    -10   | 0    | -1    |
 | wellington                 |      1 |      0 |    -10   | 0    | -1    |
 | wimmera%40horsham          |      1 |      0 |    -10   | 0    | -1    |
@@ -425,6 +425,7 @@ categories: looseknot
 | navan                      |      2 |      0 |    -20   | 0    | -1    |
 | oakbank                    |      2 |      0 |    -20   | 0    | -1    |
 | quirindi                   |      2 |      0 |    -20   | 0    | -1    |
+| sapphire-coast             |      2 |      0 |    -20   | 0    | -1    |
 | sedgefield                 |      2 |      0 |    -20   | 0    | -1    |
 | seymour                    |      2 |      0 |    -20   | 0    | -1    |
 | sha-tin                    |      2 |      0 |    -20   | 0    | -1    |
@@ -433,7 +434,6 @@ categories: looseknot
 | terang                     |      2 |      0 |    -20   | 0    | -1    |
 | tipperary                  |      2 |      0 |    -20   | 0    | -1    |
 | wimmera%40ararat           |      2 |      0 |    -20   | 0    | -1    |
-| alice-springs              |      3 |      0 |    -30   | 0    | -1    |
 | beaudesert                 |      3 |      0 |    -30   | 0    | -1    |
 | broome                     |      3 |      0 |    -30   | 0    | -1    |
 | catterick                  |      3 |      0 |    -30   | 0    | -1    |
@@ -447,6 +447,7 @@ categories: looseknot
 | woodville                  |      3 |      0 |    -30   | 0    | -1    |
 | worcester                  |      3 |      0 |    -30   | 0    | -1    |
 | york                       |      3 |      0 |    -30   | 0    | -1    |
+| alice-springs              |      4 |      0 |    -40   | 0    | -1    |
 | haydock                    |      4 |      0 |    -40   | 0    | -1    |
 | leicester                  |      4 |      0 |    -40   | 0    | -1    |
 | mornington                 |      4 |      0 |    -40   | 0    | -1    |
@@ -483,12 +484,12 @@ categories: looseknot
 | singapore                    |      7 |      1 |     20   | 0.14 |  0.29 |
 | south-australia              |     51 |     10 |    137   | 0.2  |  0.27 |
 | australian-capital-territory |      8 |      2 |     13   | 0.25 |  0.16 |
-| new-south-wales              |    262 |     47 |    384   | 0.18 |  0.15 |
+| new-south-wales              |    264 |     47 |    364   | 0.18 |  0.14 |
 | united-kingdom               |    179 |     34 |    250.5 | 0.19 |  0.14 |
 | queensland                   |    184 |     29 |    110.5 | 0.16 |  0.06 |
 | tasmania                     |     29 |      5 |      8   | 0.17 |  0.03 |
 | western-australia            |     77 |     12 |    -24   | 0.16 | -0.03 |
 | hong-kong                    |      5 |      1 |     -2   | 0.2  | -0.04 |
-| victoria                     |    171 |     29 |   -188   | 0.17 | -0.11 |
+| victoria                     |    172 |     29 |   -198   | 0.17 | -0.12 |
 | south-africa                 |     54 |      6 |   -194   | 0.11 | -0.36 |
-| northern-territory           |      9 |      1 |    -50   | 0.11 | -0.56 |
+| northern-territory           |     10 |      1 |    -60   | 0.1  | -0.6  |

@@ -1,23 +1,25 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-07-27 20:35:16 +1000   
+date: 2021-07-28 04:31:30 +1000   
 categories: pangea   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |      2 |      0 |    -20   | 0    | -1    |
-| This Month     |    275 |     62 |    327.5 | 0.23 |  0.12 |
-| This Year      |   2103 |    456 |   1647.8 | 0.22 |  0.08 |
-| Since Feb 2020 |   6163 |   1302 |   7837.3 | 0.21 |  0.13 |
+| This Week      |      4 |      0 |    -40   | 0    | -1    |
+| This Month     |    277 |     62 |    307.5 | 0.22 |  0.11 |
+| This Year      |   2105 |    456 |   1627.8 | 0.22 |  0.08 |
+| Since Feb 2020 |   6165 |   1302 |   7817.3 | 0.21 |  0.13 |
 
 ### Pangea Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner              |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:--------------------|-------:|---------:|---------:|
+| 4                 | 2021-07-27 | goodwood R1            | 3 Johnny Drama      |  13    |    -10   |   7602.3 |
+| 5                 | 2021-07-27 | gatton R4              | 8 Brazen Dynamo     |   2.25 |    -10   |   7612.3 |
 | 5                 | 2021-07-26 | corowa R6              | 2 Nuclear Energy    |   3.9  |    -10   |   7622.3 |
 | :2nd_place_medal: | 2021-07-26 | corowa R3              | 8 Devils Triangle   |   2.35 |    -10   |   7632.3 |
 | 12                | 2021-07-25 | kalgoorlie R7          | 1 Belle Of Liberty  |   3.4  |    -10   |   7642.3 |
@@ -116,8 +118,6 @@ categories: pangea
 | :boom:            | 2021-07-17 | randwick R10           | 8 Our Bellagio Miss |   5.5  |     45   |   7450.3 |
 | :2nd_place_medal: | 2021-07-17 | morphettville-parks R8 | 5 Frankie Pinot     |   2.7  |    -10   |   7405.3 |
 | :3rd_place_medal: | 2021-07-17 | eagle-farm R7          | 1 Avowal            |   4.8  |    -10   |   7415.3 |
-| :boom:            | 2021-07-17 | darwin R3              | 5 The Captain       |   3.5  |     25   |   7425.3 |
-| :2nd_place_medal: | 2021-07-17 | randwick R8            | 6 Itz Lily          |   6.5  |    -10   |   7400.3 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -127,7 +127,7 @@ categories: pangea
 | Sunday    |    711 |    171 |   1246.8 | 0.24 |  0.18 |
 | Thursday  |    399 |     94 |    940   | 0.24 |  0.24 |
 | Tuesday   |    364 |     85 |    334.8 | 0.23 |  0.09 |
-| Wednesday |    741 |    168 |   -116   | 0.23 | -0.02 |
+| Wednesday |    752 |    168 |   -226   | 0.22 | -0.03 |
 
 | week      |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -209,7 +209,7 @@ categories: pangea
 | 2021-WK27 |     79 |     13 |    242.5 | 0.16 |  0.31 |
 | 2021-WK28 |     65 |     20 |    241   | 0.31 |  0.37 |
 | 2021-WK29 |     81 |     19 |     43.5 | 0.23 |  0.05 |
-| 2021-WK30 |      4 |      0 |    -40   | 0    | -1    |
+| 2021-WK30 |     15 |      0 |   -150   | 0    | -1    |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -230,7 +230,7 @@ categories: pangea
 | 2021-04 |    339 |     63 |     74.1 | 0.19 |  0.02 |
 | 2021-05 |    369 |     80 |   1147   | 0.22 |  0.31 |
 | 2021-06 |    296 |     51 |   -204   | 0.17 | -0.07 |
-| 2021-07 |    277 |     62 |    307.5 | 0.22 |  0.11 |
+| 2021-07 |    288 |     62 |    197.5 | 0.22 |  0.07 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -309,7 +309,6 @@ categories: pangea
 | canterbury                 |     56 |     12 |    161.5 | 0.21 |  0.29 |
 | scone                      |     22 |      5 |     54.5 | 0.23 |  0.25 |
 | port-lincoln               |     23 |      5 |     55   | 0.22 |  0.24 |
-| kensington                 |     83 |     18 |    189   | 0.22 |  0.23 |
 | geelong                    |     26 |      5 |     60   | 0.19 |  0.23 |
 | taree                      |     13 |      5 |     29.5 | 0.38 |  0.23 |
 | oakbank                    |      6 |      2 |     14   | 0.33 |  0.23 |
@@ -318,6 +317,7 @@ categories: pangea
 | waverley                   |      4 |      1 |      8   | 0.25 |  0.2  |
 | caulfield                  |    260 |     49 |    500.2 | 0.19 |  0.19 |
 | racing.com-park            |     24 |      6 |     42.5 | 0.25 |  0.18 |
+| kensington                 |     87 |     18 |    149   | 0.21 |  0.17 |
 | randwick                   |    243 |     41 |    388.8 | 0.17 |  0.16 |
 | townsville                 |    155 |     36 |    234   | 0.23 |  0.15 |
 | sandown-lakeside           |     24 |      8 |     35.5 | 0.33 |  0.15 |
@@ -327,11 +327,11 @@ categories: pangea
 | echuca                     |      4 |      1 |      4   | 0.25 |  0.1  |
 | ascot                      |    214 |     55 |    185   | 0.26 |  0.09 |
 | warrnambool                |     33 |     10 |     29   | 0.3  |  0.09 |
-| darwin                     |    232 |     56 |    192.9 | 0.24 |  0.08 |
-| doomben                    |    309 |     60 |    210.1 | 0.19 |  0.07 |
 | rockhampton                |    175 |     42 |    126.1 | 0.24 |  0.07 |
 | newcastle                  |     74 |     12 |     49   | 0.16 |  0.07 |
 | casterton                  |      9 |      2 |      6   | 0.22 |  0.07 |
+| doomben                    |    311 |     60 |    190.1 | 0.19 |  0.06 |
+| darwin                     |    236 |     56 |    152.9 | 0.24 |  0.06 |
 | eagle-farm                 |    309 |     53 |    108   | 0.17 |  0.03 |
 | launceston                 |    105 |     24 |     19   | 0.23 |  0.02 |
 | hastings                   |      8 |      2 |      2   | 0.25 |  0.02 |
@@ -395,6 +395,7 @@ categories: pangea
 | canberra-acton             |      1 |      0 |    -10   | 0    | -1    |
 | catterick                  |      1 |      0 |    -10   | 0    | -1    |
 | cowra                      |      1 |      0 |    -10   | 0    | -1    |
+| durbanville                |      1 |      0 |    -10   | 0    | -1    |
 | fontwell                   |      1 |      0 |    -10   | 0    | -1    |
 | gilgandra                  |      1 |      0 |    -10   | 0    | -1    |
 | gunnedah                   |      1 |      0 |    -10   | 0    | -1    |
@@ -463,14 +464,14 @@ categories: pangea
 | south-australia              |    555 |    122 |   2156.6 | 0.22 |  0.39 |
 | australian-capital-territory |     39 |      7 |    151.5 | 0.18 |  0.39 |
 | new-zealand                  |    148 |     37 |    541.9 | 0.25 |  0.37 |
-| new-south-wales              |   1124 |    222 |   2248.8 | 0.2  |  0.2  |
+| new-south-wales              |   1128 |    222 |   2208.8 | 0.2  |  0.2  |
 | tasmania                     |    261 |     67 |    409.9 | 0.26 |  0.16 |
-| queensland                   |   1860 |    390 |   2512.7 | 0.21 |  0.14 |
+| queensland                   |   1862 |    390 |   2492.7 | 0.21 |  0.13 |
 | united-kingdom               |     70 |     17 |     61.8 | 0.24 |  0.09 |
 | western-australia            |    605 |    143 |    146.5 | 0.24 |  0.02 |
-| northern-territory           |    385 |     89 |     -6.6 | 0.23 | -0    |
+| northern-territory           |    389 |     89 |    -46.6 | 0.23 | -0.01 |
 | victoria                     |   1040 |    194 |    -56.8 | 0.19 | -0.01 |
 | ireland                      |     11 |      3 |    -16   | 0.27 | -0.15 |
-| south-africa                 |     19 |      4 |    -56.5 | 0.21 | -0.3  |
+| south-africa                 |     20 |      4 |    -66.5 | 0.2  | -0.33 |
 | singapore                    |     46 |      7 |   -256.5 | 0.15 | -0.56 |
 | hong-kong                    |      2 |      0 |    -20   | 0    | -1    |
