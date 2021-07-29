@@ -1,24 +1,25 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2021-07-28 21:13:40 +1000   
+date: 2021-07-29 09:42:10 +1000   
 categories: evenodds   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last Week      |      5 |      2 |    -17.5 | 0.4  | -0.35 |
-| This Month     |     16 |      7 |     16   | 0.44 |  0.1  |
-| This Year      |     91 |     39 |      5.4 | 0.43 |  0.01 |
-| Since Feb 2020 |    217 |     91 |     67.2 | 0.42 |  0.03 |
+| This Week      |      2 |      1 |      3   | 0.5  |  0.15 |
+| This Month     |     17 |      7 |      6   | 0.41 |  0.04 |
+| This Year      |     92 |     39 |     -4.6 | 0.42 | -0    |
+| Since Feb 2020 |    218 |     91 |     57.2 | 0.42 |  0.03 |
 
 ### Evenodds Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner              |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:--------------------|-------:|---------:|---------:|
-| 17:35             | 2021-07-28 | darwin R5              | 5 Syncline          |   3    |    -10   |     50.2 |
+| 18:25             | 2021-07-29 | northam R6             | 4 Fairy Fast        |   4.6  |    -10   |     40.2 |
+| :2nd_place_medal: | 2021-07-28 | darwin R5              | 5 Syncline          |   3    |    -10   |     50.2 |
 | :boom:            | 2021-07-26 | newton-abbot R3        | 2 Chez Hans         |   2.3  |     13   |     60.2 |
 | 4                 | 2021-07-25 | hobart R6              | 2 Rising Light      |   5.5  |    -10   |     47.2 |
 | :boom:            | 2021-07-24 | toowoomba R6           | 1 Legal Esprit      |   1.4  |      4   |     57.2 |
@@ -117,7 +118,6 @@ categories: evenodds
 | :boom:            | 2020-12-26 | ellerslie R8           | 6 Amarelinha        |   3    |     20   |     47.8 |
 | :3rd_place_medal: | 2020-12-20 | devonport-synthetic R5 | 2 Aragon Star       |   4.8  |    -10   |     27.8 |
 | :boom:            | 2020-12-19 | doomben R8             | 11 Isotope          |   1.55 |      5.5 |     37.8 |
-| :boom:            | 2020-12-19 | ascot R5               | 2 Truly Great       |   1.6  |      6   |     32.3 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -125,7 +125,7 @@ categories: evenodds
 | Monday    |      5 |      1 |    -27   | 0.2  | -0.54 |
 | Saturday  |    105 |     47 |      0.9 | 0.45 |  0    |
 | Sunday    |     29 |     11 |     25.3 | 0.38 |  0.09 |
-| Thursday  |     13 |      5 |     85.2 | 0.38 |  0.66 |
+| Thursday  |     14 |      5 |     75.2 | 0.36 |  0.54 |
 | Tuesday   |     15 |      4 |    -75.4 | 0.27 | -0.5  |
 | Wednesday |     26 |     12 |     14.2 | 0.46 |  0.05 |
 
@@ -201,7 +201,7 @@ categories: evenodds
 | 2021-WK27 |      4 |      2 |      3.5 | 0.5  |  0.09 |
 | 2021-WK28 |      3 |      1 |     -3   | 0.33 | -0.1  |
 | 2021-WK29 |      5 |      2 |    -17.5 | 0.4  | -0.35 |
-| 2021-WK30 |      2 |      1 |      3   | 0.5  |  0.15 |
+| 2021-WK30 |      3 |      1 |     -7   | 0.33 | -0.23 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -222,7 +222,7 @@ categories: evenodds
 | 2021-04 |      9 |      2 |    -46.4 | 0.22 | -0.52 |
 | 2021-05 |     13 |      8 |    127.5 | 0.62 |  0.98 |
 | 2021-06 |     13 |      2 |    -94.6 | 0.15 | -0.73 |
-| 2021-07 |     17 |      7 |      6   | 0.41 |  0.04 |
+| 2021-07 |     18 |      7 |     -4   | 0.39 | -0.02 |
 
 | track               |   runs |   wins |   profit |   sr |   roi |
 |:--------------------|-------:|-------:|---------:|-----:|------:|
@@ -273,6 +273,7 @@ categories: evenodds
 | kensington          |      1 |      0 |    -10   | 0    | -1    |
 | lingfield           |      1 |      0 |    -10   | 0    | -1    |
 | muswellbrook        |      1 |      0 |    -10   | 0    | -1    |
+| northam             |      1 |      0 |    -10   | 0    | -1    |
 | riccarton-park      |      1 |      0 |    -10   | 0    | -1    |
 | sandown             |      1 |      0 |    -10   | 0    | -1    |
 | trentham            |      1 |      0 |    -10   | 0    | -1    |
@@ -286,8 +287,8 @@ categories: evenodds
 | location           |   runs |   wins |   profit |   sr |   roi |
 |:-------------------|-------:|-------:|---------:|-----:|------:|
 | tasmania           |     17 |      8 |     58.5 | 0.47 |  0.34 |
-| western-australia  |     36 |     19 |     70.6 | 0.53 |  0.2  |
 | northern-territory |      9 |      6 |     17.3 | 0.67 |  0.19 |
+| western-australia  |     37 |     19 |     60.6 | 0.51 |  0.16 |
 | south-australia    |     12 |      4 |      9   | 0.33 |  0.08 |
 | queensland         |     89 |     36 |     39.5 | 0.4  |  0.04 |
 | new-zealand        |     23 |     10 |      5.6 | 0.43 |  0.02 |

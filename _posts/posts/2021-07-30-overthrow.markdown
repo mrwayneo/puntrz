@@ -1,32 +1,41 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-07-28 21:13:13 +1000   
+date: 2021-07-30 08:29:30 +1000   
 categories: overthrow   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |      6 |      3 |    -14   | 0.5  | -0.23 |
-| This Month     |    212 |     53 |    530.4 | 0.25 |  0.25 |
-| This Year      |   1384 |    343 |    214.6 | 0.25 |  0.02 |
-| Since Feb 2020 |   3086 |    818 |   1228.1 | 0.27 |  0.04 |
+| This Week      |     20 |      7 |     15   | 0.35 |  0.08 |
+| This Month     |    226 |     57 |    559.4 | 0.25 |  0.25 |
+| This Year      |   1398 |    347 |    243.6 | 0.25 |  0.02 |
+| Since Feb 2020 |   3100 |    822 |   1257.1 | 0.27 |  0.04 |
 
 ### Overthrow Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner              |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:--------------------|-------:|---------:|---------:|
-| 22:50             | 2021-07-28 | goodwood R1            | 8 Pied Piper        |  15    |    -10   |   1109.3 |
-| 17:35             | 2021-07-28 | darwin R5              | 5 Syncline          |   3    |    -10   |   1119.3 |
-| 16:24             | 2021-07-28 | darwin R3              | 1 Shenanigan City   |   3.4  |    -10   |   1129.3 |
-| 16:05             | 2021-07-28 | belmont R3             | 12 Real Danger      |   4    |    -10   |   1139.3 |
-| 15:30             | 2021-07-28 | belmont R2             | 9 Treasured Star    |   1.85 |    -10   |   1149.3 |
-| 15:14             | 2021-07-28 | darwin R1              | 4 Tugga War         |   4    |    -10   |   1159.3 |
-| 15:03             | 2021-07-28 | doomben R5             | 7 Tolkowsky         |   5.5  |    -10   |   1169.3 |
-| 13:18             | 2021-07-28 | doomben R2             | 5 Morethannumberone |   2.3  |    -10   |   1179.3 |
-| :boom:            | 2021-07-27 | goodwood R2            | 3 Angel Bleu        |   9.5  |    -10   |   1094.3 |
+| 22:00             | 2021-07-30 | bangor R1              | 1 Crystal Gazing    |   3    |    -10   |   1162.3 |
+| 15:30             | 2021-07-30 | goulburn R7            | 13 Smarter Than You |   5    |    -10   |   1172.3 |
+| 14:06             | 2021-07-30 | ipswich R5             | 5 Red Wave          |   4.4  |    -10   |   1182.3 |
+| 98                | 2021-07-29 | stratford R2           | 2 Crane             |   3.25 |    -10   |   1123.3 |
+| :boom:            | 2021-07-29 | northam R6             | 4 Fairy Fast        |   4.6  |    -10   |   1133.3 |
+| 7                 | 2021-07-29 | cairns R8              | 4 Prince Of Morocco |   8    |    -10   |   1143.3 |
+| 12                | 2021-07-29 | cairns R7              | 7 Nebaraz           |   7.5  |    -10   |   1153.3 |
+| 7                 | 2021-07-29 | cairns R6              | 1 Notio             |  11    |    -10   |   1163.3 |
+| :boom:            | 2021-07-29 | cairns R2              | 3 Olindo            |   2.3  |    -10   |   1173.3 |
+| 98                | 2021-07-28 | goodwood R1            | 8 Pied Piper        |  15    |    -10   |   1183.3 |
+| :2nd_place_medal: | 2021-07-28 | darwin R5              | 5 Syncline          |   3    |    -10   |   1193.3 |
+| :boom:            | 2021-07-28 | darwin R3              | 1 Shenanigan City   |   3.4  |     24   |   1203.3 |
+| 6                 | 2021-07-28 | belmont R3             | 12 Real Danger      |   4    |    -10   |   1179.3 |
+| :2nd_place_medal: | 2021-07-28 | belmont R2             | 9 Treasured Star    |   1.85 |    -10   |   1189.3 |
+| :boom:            | 2021-07-28 | darwin R1              | 4 Tugga War         |   4    |     30   |   1199.3 |
+| :2nd_place_medal: | 2021-07-28 | doomben R5             | 7 Tolkowsky         |   5.5  |    -10   |   1169.3 |
+| :2nd_place_medal: | 2021-07-28 | doomben R2             | 5 Morethannumberone |   2.3  |    -10   |   1179.3 |
+| :boom:            | 2021-07-27 | goodwood R2            | 3 Angel Bleu        |   9.5  |     85   |   1189.3 |
 | 98                | 2021-07-27 | goodwood R1            | 6 Harrovian         |  15    |    -10   |   1104.3 |
 | 5                 | 2021-07-27 | gatton R4              | 8 Brazen Dynamo     |   2.25 |    -10   |   1114.3 |
 | 98                | 2021-07-26 | newton-abbot R4        | 5 Duc De Bourbon    |   4.2  |    -10   |   1124.3 |
@@ -109,25 +118,16 @@ categories: overthrow
 | 98                | 2021-07-17 | market-rasen R3        | 15 Ambassador       |  13    |    -10   |   1366.3 |
 | :3rd_place_medal: | 2021-07-17 | market-rasen R3        | 9 Valentino Dancer  |  12    |    -10   |   1376.3 |
 | 98                | 2021-07-17 | newmarket R1           | 3 First Crowd       |   3.4  |    -10   |   1386.3 |
-| 6                 | 2021-07-17 | toowoomba R6           | 10 Devil's Rite     |   4.4  |    -10   |   1396.3 |
-| :2nd_place_medal: | 2021-07-17 | toowoomba R5           | 2 Yuppie            |   2.7  |    -10   |   1406.3 |
-| 4                 | 2021-07-17 | belmont R9             | 3 Picture Perfect   |  12    |    -10   |   1416.3 |
-| 6                 | 2021-07-17 | belmont R8             | 9 Real Grace        |   2.2  |    -10   |   1426.3 |
-| 4                 | 2021-07-17 | belmont R8             | 8 Devoted Star      |   6.5  |    -10   |   1436.3 |
-| 11                | 2021-07-17 | darwin R7              | 3 Justwins          |  41    |    -10   |   1446.3 |
-| :boom:            | 2021-07-17 | toowoomba R2           | 2 Wham              |   2.25 |     12.5 |   1456.3 |
-| :boom:            | 2021-07-17 | toowoomba R1           | 9 Vivid Fortress    |   4    |     30   |   1443.8 |
-| :3rd_place_medal: | 2021-07-17 | belmont R4             | 5 Sugar Cain        |   4.6  |    -10   |   1413.8 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
-| Friday    |    352 |     99 |   -186.2 | 0.28 | -0.05 |
+| Friday    |    355 |     99 |   -216.2 | 0.28 | -0.06 |
 | Monday    |    163 |     51 |    608.4 | 0.31 |  0.37 |
 | Saturday  |   1145 |    270 |    931.8 | 0.24 |  0.08 |
 | Sunday    |    397 |    103 |   -280.2 | 0.26 | -0.07 |
-| Thursday  |    252 |     71 |    301.9 | 0.28 |  0.12 |
-| Tuesday   |    240 |     65 |    -49   | 0.27 | -0.02 |
-| Wednesday |    545 |    159 |   -178.6 | 0.29 | -0.03 |
+| Thursday  |    258 |     73 |    241.9 | 0.28 |  0.09 |
+| Tuesday   |    240 |     65 |     46   | 0.27 |  0.02 |
+| Wednesday |    545 |    161 |   -104.6 | 0.3  | -0.02 |
 
 | week      |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -209,7 +209,7 @@ categories: overthrow
 | 2021-WK27 |     67 |     16 |    833.1 | 0.24 |  1.24 |
 | 2021-WK28 |     58 |     16 |    -94.7 | 0.28 | -0.16 |
 | 2021-WK29 |     64 |     14 |   -181   | 0.22 | -0.28 |
-| 2021-WK30 |     14 |      3 |    -94   | 0.21 | -0.67 |
+| 2021-WK30 |     23 |      7 |    -15   | 0.3  | -0.07 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -230,7 +230,7 @@ categories: overthrow
 | 2021-04 |    236 |     57 |   -151.8 | 0.24 | -0.06 |
 | 2021-05 |    210 |     53 |     18   | 0.25 |  0.01 |
 | 2021-06 |    192 |     40 |     68.8 | 0.21 |  0.04 |
-| 2021-07 |    220 |     53 |    450.4 | 0.24 |  0.2  |
+| 2021-07 |    229 |     57 |    529.4 | 0.25 |  0.23 |
 
 | track                   |   runs |   wins |   profit |   sr |   roi |
 |:------------------------|-------:|-------:|---------:|-----:|------:|
@@ -247,11 +247,11 @@ categories: overthrow
 | tipperary               |      3 |      3 |     67   | 1    |  2.23 |
 | trentham                |     10 |      5 |    192.1 | 0.5  |  1.92 |
 | hawera                  |      9 |      5 |    165   | 0.56 |  1.83 |
-| stratford               |      7 |      4 |    113.2 | 0.57 |  1.62 |
-| darwin                  |     84 |     31 |   1335.5 | 0.37 |  1.59 |
+| darwin                  |     84 |     33 |   1409.5 | 0.39 |  1.68 |
 | mornington              |      2 |      2 |     29   | 1    |  1.45 |
 | leopardstown            |     25 |     11 |    326.8 | 0.44 |  1.31 |
 | caulfield               |     21 |      7 |    273.5 | 0.33 |  1.3  |
+| stratford               |      8 |      4 |    103.2 | 0.5  |  1.29 |
 | tramore                 |      6 |      3 |     73.4 | 0.5  |  1.22 |
 | ruakaka                 |      2 |      1 |     24   | 0.5  |  1.2  |
 | wetherby                |      2 |      2 |     23   | 1    |  1.15 |
@@ -277,7 +277,6 @@ categories: overthrow
 | bundaberg               |      2 |      1 |      8   | 0.5  |  0.4  |
 | downpatrick             |      2 |      1 |      8   | 0.5  |  0.4  |
 | doomben                 |    179 |     46 |    665.7 | 0.26 |  0.37 |
-| cairns                  |     23 |      7 |     76.7 | 0.3  |  0.33 |
 | epsom-downs             |      6 |      1 |     20   | 0.17 |  0.33 |
 | devonport-synthetic     |     62 |     19 |    196.2 | 0.31 |  0.32 |
 | murray-bdge             |     55 |     22 |    172   | 0.4  |  0.31 |
@@ -295,11 +294,11 @@ categories: overthrow
 | navan                   |      6 |      1 |     10   | 0.17 |  0.17 |
 | gold-coast              |     63 |     12 |     86.1 | 0.19 |  0.14 |
 | ellerslie               |     37 |     13 |     51.9 | 0.35 |  0.14 |
+| cairns                  |     27 |      8 |     36.7 | 0.3  |  0.14 |
 | chepstow                |      7 |      3 |     10   | 0.43 |  0.14 |
 | geelong                 |      3 |      1 |      4   | 0.33 |  0.13 |
 | belmont                 |    124 |     46 |    143.6 | 0.37 |  0.12 |
 | tamworth                |     15 |      4 |     18   | 0.27 |  0.12 |
-| northam                 |     19 |      8 |     20.5 | 0.42 |  0.11 |
 | pukekohe-park           |     23 |      5 |     22   | 0.22 |  0.1  |
 | beaumont                |      4 |      1 |      4   | 0.25 |  0.1  |
 | geraldton               |      2 |      1 |      2   | 0.5  |  0.1  |
@@ -307,6 +306,7 @@ categories: overthrow
 | york                    |     22 |      4 |     15   | 0.18 |  0.07 |
 | emerald                 |      8 |      1 |      5   | 0.12 |  0.06 |
 | mackay                  |     83 |     25 |     39   | 0.3  |  0.05 |
+| northam                 |     20 |      9 |     10.5 | 0.45 |  0.05 |
 | otaki                   |     16 |      6 |      6   | 0.38 |  0.04 |
 | ffos-las                |      4 |      2 |      1.7 | 0.5  |  0.04 |
 | gowran-park             |      3 |      2 |      1.1 | 0.67 |  0.04 |
@@ -314,7 +314,7 @@ categories: overthrow
 | gatton                  |     15 |      3 |      3   | 0.2  |  0.02 |
 | toowoomba               |     47 |     16 |      2.5 | 0.34 |  0.01 |
 | ayr                     |     10 |      2 |     -0.5 | 0.2  | -0    |
-| ipswich                 |     88 |     27 |     -7.5 | 0.31 | -0.01 |
+| ipswich                 |     89 |     27 |    -17.5 | 0.3  | -0.02 |
 | nottingham              |      5 |      2 |     -1.4 | 0.4  | -0.03 |
 | morphettville           |     78 |     13 |    -22.5 | 0.17 | -0.03 |
 | rockhampton             |    104 |     27 |    -26.4 | 0.26 | -0.03 |
@@ -337,6 +337,7 @@ categories: overthrow
 | newmarket               |     76 |     15 |   -196.3 | 0.2  | -0.26 |
 | doncaster               |     27 |      8 |    -71.9 | 0.3  | -0.27 |
 | chelmsford-city         |      3 |      1 |     -9   | 0.33 | -0.3  |
+| goodwood                |     19 |      2 |    -60   | 0.11 | -0.32 |
 | musselburgh             |      3 |      1 |    -10   | 0.33 | -0.33 |
 | naas                    |     11 |      3 |    -36.3 | 0.27 | -0.33 |
 | moruya                  |      6 |      1 |    -21.5 | 0.17 | -0.36 |
@@ -377,10 +378,10 @@ categories: overthrow
 | rosehill                |     12 |      1 |    -91   | 0.08 | -0.76 |
 | te-aroha                |      9 |      1 |    -71   | 0.11 | -0.79 |
 | avondale                |     20 |      2 |   -160.5 | 0.1  | -0.8  |
-| goodwood                |     19 |      2 |   -155   | 0.11 | -0.82 |
 | haydock                 |     13 |      1 |   -109   | 0.08 | -0.84 |
 | adelaide-river          |      1 |      0 |    -10   | 0    | -1    |
 | ballarat                |      1 |      0 |    -10   | 0    | -1    |
+| bangor                  |      1 |      0 |    -10   | 0    | -1    |
 | bath-arab               |      1 |      0 |    -10   | 0    | -1    |
 | bathurst                |      1 |      0 |    -10   | 0    | -1    |
 | casterton               |      1 |      0 |    -10   | 0    | -1    |
@@ -390,7 +391,6 @@ categories: overthrow
 | down-royal              |      1 |      0 |    -10   | 0    | -1    |
 | fakenham                |      1 |      0 |    -10   | 0    | -1    |
 | galway                  |      1 |      0 |    -10   | 0    | -1    |
-| goulburn                |      1 |      0 |    -10   | 0    | -1    |
 | greyville               |      1 |      0 |    -10   | 0    | -1    |
 | kelso                   |      1 |      0 |    -10   | 0    | -1    |
 | killarney               |      1 |      0 |    -10   | 0    | -1    |
@@ -413,6 +413,7 @@ categories: overthrow
 | coffs-harbour           |      2 |      0 |    -20   | 0    | -1    |
 | coonamble               |      2 |      0 |    -20   | 0    | -1    |
 | dubbo                   |      2 |      0 |    -20   | 0    | -1    |
+| goulburn                |      2 |      0 |    -20   | 0    | -1    |
 | narromine               |      2 |      0 |    -20   | 0    | -1    |
 | redcar                  |      2 |      0 |    -20   | 0    | -1    |
 | sandown-lakeside        |      2 |      0 |    -20   | 0    | -1    |
@@ -434,16 +435,16 @@ categories: overthrow
 
 | location                     |   runs |   wins |   profit |   sr |   roi |
 |:-----------------------------|-------:|-------:|---------:|-----:|------:|
-| northern-territory           |    102 |     33 |   1227.5 | 0.32 |  1.2  |
+| northern-territory           |    102 |     35 |   1301.5 | 0.34 |  1.28 |
 | ireland                      |    109 |     42 |    401   | 0.39 |  0.37 |
-| new-south-wales              |    171 |     41 |    486.6 | 0.24 |  0.28 |
+| new-south-wales              |    172 |     41 |    476.6 | 0.24 |  0.28 |
 | tasmania                     |    165 |     41 |    238.4 | 0.25 |  0.14 |
-| queensland                   |    951 |    247 |    737.1 | 0.26 |  0.08 |
+| queensland                   |    956 |    248 |    687.1 | 0.26 |  0.07 |
 | south-australia              |    234 |     59 |    -13.3 | 0.25 | -0.01 |
 | new-zealand                  |    260 |     70 |    -40.3 | 0.27 | -0.02 |
 | victoria                     |     92 |     20 |    -28.5 | 0.22 | -0.03 |
-| western-australia            |    355 |    110 |   -588.1 | 0.31 | -0.17 |
-| united-kingdom               |    639 |    152 |  -1213.8 | 0.24 | -0.19 |
+| western-australia            |    356 |    111 |   -598.1 | 0.31 | -0.17 |
+| united-kingdom               |    641 |    152 |  -1138.8 | 0.24 | -0.18 |
 | australian-capital-territory |     13 |      3 |    -28.5 | 0.23 | -0.22 |
 | south-africa                 |      1 |      0 |    -10   | 0    | -1    |
 | hong-kong                    |      2 |      0 |    -20   | 0    | -1    |

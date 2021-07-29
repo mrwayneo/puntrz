@@ -1,37 +1,45 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-07-28 21:24:39 +1000   
+date: 2021-07-29 09:49:12 +1000   
 categories: cosmo   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |     12 |      0 |     -120 | 0    | -1    |
-| This Month     |    405 |     25 |       20 | 0.06 |  0    |
-| This Year      |   3042 |    166 |      481 | 0.05 |  0.02 |
-| Since Feb 2020 |   8962 |    521 |     8623 | 0.06 |  0.1  |
+| This Week      |     24 |      0 |     -240 | 0    | -1    |
+| This Month     |    417 |     25 |     -100 | 0.06 | -0.02 |
+| This Year      |   3054 |    166 |      361 | 0.05 |  0.01 |
+| Since Feb 2020 |   8974 |    521 |     8503 | 0.06 |  0.09 |
 
 ### Cosmo Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event             | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:------------------|:---------------------|-------:|---------:|---------:|
-| 23:25             | 2021-07-28 | goodwood R2       | 12 Isabella Giles    |     13 |      -10 |     8293 |
-| 18:30             | 2021-07-28 | belmont R7        | 15 Magnuson Man      |     16 |      -10 |     8303 |
-| 18:30             | 2021-07-28 | belmont R7        | 8 Heels A Plenty     |     11 |      -10 |     8313 |
-| 17:35             | 2021-07-28 | darwin R5         | 10 Weapon            |     21 |      -10 |     8323 |
-| 17:35             | 2021-07-28 | darwin R5         | 8 Salty              |     41 |      -10 |     8333 |
-| 16:30             | 2021-07-28 | kensington R8     | 13 Freaky Freckles   |     27 |      -10 |     8343 |
-| 16:30             | 2021-07-28 | kensington R8     | 4 Dinado             |     26 |      -10 |     8353 |
-| 16:13             | 2021-07-28 | doomben R7        | 4 Divine Diva        |     19 |      -10 |     8363 |
-| 15:38             | 2021-07-28 | doomben R6        | 6 Jellishot          |     26 |      -10 |     8373 |
-| 15:03             | 2021-07-28 | doomben R5        | 3 Positive Tension   |     12 |      -10 |     8383 |
-| 14:45             | 2021-07-28 | kensington R5     | 7 Coco Cuber         |     21 |      -10 |     8393 |
-| 14:10             | 2021-07-28 | kensington R4     | 11 The Graces        |     26 |      -10 |     8403 |
-| 13:35             | 2021-07-28 | kensington R3     | 9 Rukita             |     23 |      -10 |     8413 |
-| 13:00             | 2021-07-28 | kensington R2     | 4 Legend Rules       |     16 |      -10 |     8423 |
+| 22:50             | 2021-07-29 | goodwood R1       | 10 Forest Falcon     |     23 |      -10 |     8213 |
+| 17:05             | 2021-07-29 | cairns R8         | 10 Belle Adele       |     14 |      -10 |     8223 |
+| 16:45             | 2021-07-29 | wyong R8          | 11 Thailand          |     15 |      -10 |     8233 |
+| 16:05             | 2021-07-29 | wyong R7          | 7 Ocean Go           |     14 |      -10 |     8243 |
+| 15:25             | 2021-07-29 | wyong R6          | 10 In Awe Of Me      |     20 |      -10 |     8253 |
+| 15:25             | 2021-07-29 | wyong R6          | 6 Into The Fire      |     10 |      -10 |     8263 |
+| 15:25             | 2021-07-29 | wyong R6          | 4 Magic On Ice       |     10 |      -10 |     8273 |
+| 14:55             | 2021-07-29 | gawler R5         | 8 Turn Table         |     10 |      -10 |     8283 |
+| 14:55             | 2021-07-29 | gawler R5         | 6 Challicum          |     34 |      -10 |     8293 |
+| 14:20             | 2021-07-29 | gawler R4         | 1 Armament           |     21 |      -10 |     8303 |
+| 98                | 2021-07-28 | goodwood R2       | 12 Isabella Giles    |     13 |      -10 |     8293 |
+| 7                 | 2021-07-28 | belmont R7        | 15 Magnuson Man      |     16 |      -10 |     8303 |
+| 13                | 2021-07-28 | belmont R7        | 8 Heels A Plenty     |     11 |      -10 |     8313 |
+| :3rd_place_medal: | 2021-07-28 | darwin R5         | 10 Weapon            |     21 |      -10 |     8323 |
+| 9                 | 2021-07-28 | darwin R5         | 8 Salty              |     41 |      -10 |     8333 |
+| 10                | 2021-07-28 | kensington R8     | 13 Freaky Freckles   |     27 |      -10 |     8343 |
+| 7                 | 2021-07-28 | kensington R8     | 4 Dinado             |     26 |      -10 |     8353 |
+| 5                 | 2021-07-28 | doomben R7        | 4 Divine Diva        |     19 |      -10 |     8363 |
+| 6                 | 2021-07-28 | doomben R6        | 6 Jellishot          |     26 |      -10 |     8373 |
+| 6                 | 2021-07-28 | kensington R4     | 11 The Graces        |     26 |      -10 |     8403 |
+| 10                | 2021-07-28 | kensington R3     | 9 Rukita             |     23 |      -10 |     8413 |
+| 5                 | 2021-07-28 | kensington R2     | 4 Legend Rules       |     16 |      -10 |     8423 |
 | 4                 | 2021-07-27 | yarmouth R3       | 2 Palladium          |     13 |      -10 |     8433 |
 | 98                | 2021-07-27 | yarmouth R3       | 1 Systemic           |     12 |      -10 |     8443 |
 | 98                | 2021-07-27 | goodwood R1       | 15 Data Protection   |     31 |      -10 |     8453 |
@@ -110,14 +118,6 @@ categories: cosmo
 | 5                 | 2021-07-24 | rosehill R1       | 4 Coastwatch         |     10 |      -10 |     8353 |
 | 8                 | 2021-07-23 | broome R7         | 5 Watch Me Ney Ney   |     10 |      -10 |     8363 |
 | 12                | 2021-07-23 | broome R7         | 1 Monash             |     19 |      -10 |     8373 |
-| 9                 | 2021-07-23 | broome R6         | 8 Able Engine        |     81 |      -10 |     8383 |
-| :3rd_place_medal: | 2021-07-23 | ipswich R8        | 9 Well Well Well     |     20 |      -10 |     8393 |
-| :3rd_place_medal: | 2021-07-23 | tamworth R7       | 15 Papa John         |     21 |      -10 |     8403 |
-| 9                 | 2021-07-23 | mildura R8        | 8 Surin Beach        |     14 |      -10 |     8413 |
-| 11                | 2021-07-23 | ipswich R6        | 12 Exploration       |     81 |      -10 |     8423 |
-| 8                 | 2021-07-23 | mildura R6        | 14 Queen Guinevere   |     41 |      -10 |     8433 |
-| 6                 | 2021-07-23 | mildura R6        | 8 Cracksman          |     34 |      -10 |     8443 |
-| 8                 | 2021-07-23 | tamworth R4       | 11 Fu Ni             |     10 |      -10 |     8453 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -125,9 +125,9 @@ categories: cosmo
 | Monday    |    432 |     33 |     2389 | 0.08 |  0.55 |
 | Saturday  |   3778 |    193 |      593 | 0.05 |  0.02 |
 | Sunday    |   1086 |     84 |     4670 | 0.08 |  0.43 |
-| Thursday  |    760 |     42 |      202 | 0.06 |  0.03 |
+| Thursday  |    770 |     42 |      102 | 0.05 |  0.01 |
 | Tuesday   |    574 |     33 |      453 | 0.06 |  0.08 |
-| Wednesday |   1256 |     77 |     -143 | 0.06 | -0.01 |
+| Wednesday |   1254 |     77 |     -123 | 0.06 | -0.01 |
 
 | week      |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -209,7 +209,7 @@ categories: cosmo
 | 2021-WK27 |    128 |      8 |      180 | 0.06 |  0.14 |
 | 2021-WK28 |     82 |      7 |      350 | 0.09 |  0.43 |
 | 2021-WK29 |    126 |      6 |     -320 | 0.05 | -0.25 |
-| 2021-WK30 |     26 |      0 |     -260 | 0    | -1    |
+| 2021-WK30 |     34 |      0 |     -340 | 0    | -1    |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -230,7 +230,7 @@ categories: cosmo
 | 2021-04 |    485 |     24 |     -554 | 0.05 | -0.11 |
 | 2021-05 |    578 |     33 |      569 | 0.06 |  0.1  |
 | 2021-06 |    394 |     21 |     -428 | 0.05 | -0.11 |
-| 2021-07 |    419 |     25 |     -120 | 0.06 | -0.03 |
+| 2021-07 |    427 |     25 |     -200 | 0.06 | -0.05 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -248,7 +248,7 @@ categories: cosmo
 | stony-creek                |      3 |      1 |      110 | 0.33 |  3.67 |
 | murwillumbah               |     14 |      2 |      500 | 0.14 |  3.57 |
 | gowran-park                |      3 |      1 |      100 | 0.33 |  3.33 |
-| cairns                     |     73 |      6 |     2392 | 0.08 |  3.28 |
+| cairns                     |     74 |      6 |     2382 | 0.08 |  3.22 |
 | ruakaka                    |      3 |      1 |       90 | 0.33 |  3    |
 | echuca                     |     27 |      5 |      730 | 0.19 |  2.7  |
 | timaru                     |      3 |      1 |       80 | 0.33 |  2.67 |
@@ -289,13 +289,13 @@ categories: cosmo
 | newbury                    |      7 |      1 |       50 | 0.14 |  0.71 |
 | wingatui                   |     16 |      2 |      110 | 0.12 |  0.69 |
 | warwick                    |     13 |      2 |       90 | 0.15 |  0.69 |
-| wyong                      |     56 |      5 |      370 | 0.09 |  0.66 |
 | trentham                   |     23 |      3 |      150 | 0.13 |  0.65 |
 | canberra                   |     59 |      5 |      364 | 0.08 |  0.62 |
 | scottsville                |     13 |      1 |       80 | 0.08 |  0.62 |
 | benalla                    |     15 |      2 |       92 | 0.13 |  0.61 |
 | mudgee                     |     19 |      2 |      110 | 0.11 |  0.58 |
 | geraldton                  |     65 |      5 |      352 | 0.08 |  0.54 |
+| wyong                      |     61 |      5 |      320 | 0.08 |  0.52 |
 | strathalbyn                |     12 |      1 |       62 | 0.08 |  0.52 |
 | ellerslie                  |     81 |      6 |      364 | 0.07 |  0.45 |
 | esperance-bay              |     20 |      2 |       90 | 0.1  |  0.45 |
@@ -310,16 +310,16 @@ categories: cosmo
 | morphettville              |    199 |      6 |      610 | 0.03 |  0.31 |
 | scone                      |     68 |      5 |      212 | 0.07 |  0.31 |
 | taree                      |     32 |      3 |      100 | 0.09 |  0.31 |
-| gawler                     |     52 |      4 |      152 | 0.08 |  0.29 |
 | muswellbrook               |     37 |      3 |      102 | 0.08 |  0.28 |
 | randwick                   |    287 |     16 |      768 | 0.06 |  0.27 |
 | kilmore                    |     15 |      1 |       40 | 0.07 |  0.27 |
 | darwin                     |    120 |      6 |      300 | 0.05 |  0.25 |
+| gawler                     |     55 |      4 |      122 | 0.07 |  0.22 |
 | beverley                   |      9 |      1 |       20 | 0.11 |  0.22 |
-| goodwood                   |     30 |      2 |       60 | 0.07 |  0.2  |
 | goulburn                   |     37 |      3 |       72 | 0.08 |  0.19 |
 | orange                     |     12 |      1 |       22 | 0.08 |  0.18 |
 | wanganui                   |     12 |      1 |       20 | 0.08 |  0.17 |
+| goodwood                   |     31 |      2 |       50 | 0.06 |  0.16 |
 | beaudesert                 |     14 |      1 |       22 | 0.07 |  0.16 |
 | caulfield                  |    229 |     12 |      312 | 0.05 |  0.14 |
 | ipswich                    |    146 |      9 |      207 | 0.06 |  0.14 |
@@ -338,7 +338,7 @@ categories: cosmo
 | pukekura-raceway           |     20 |      1 |      -10 | 0.05 | -0.05 |
 | kalgoorlie                 |     79 |      4 |      -45 | 0.05 | -0.06 |
 | devonport-synthetic        |     59 |      4 |      -50 | 0.07 | -0.08 |
-| doomben                    |    343 |     16 |     -344 | 0.05 | -0.1  |
+| doomben                    |    342 |     16 |     -334 | 0.05 | -0.1  |
 | moe                        |     26 |      2 |      -30 | 0.08 | -0.12 |
 | cranbourne                 |     62 |      4 |      -76 | 0.06 | -0.12 |
 | sandown-hillside           |    112 |      6 |     -136 | 0.05 | -0.12 |
@@ -366,7 +366,7 @@ categories: cosmo
 | spendthrift-australia-park |     17 |      1 |      -70 | 0.06 | -0.41 |
 | ascot                      |    202 |      6 |     -894 | 0.03 | -0.44 |
 | york                       |     20 |      1 |      -90 | 0.05 | -0.45 |
-| kensington                 |    132 |      6 |     -600 | 0.05 | -0.45 |
+| kensington                 |    131 |      6 |     -590 | 0.05 | -0.45 |
 | coffs-harbour              |     39 |      2 |     -188 | 0.05 | -0.48 |
 | belmont                    |    181 |      7 |     -876 | 0.04 | -0.48 |
 | gold-coast                 |    230 |      6 |    -1148 | 0.03 | -0.5  |
@@ -509,14 +509,14 @@ categories: cosmo
 | hong-kong                    |     18 |      3 |      600 | 0.17 |  3.33 |
 | singapore                    |     46 |      3 |      380 | 0.07 |  0.83 |
 | australian-capital-territory |     59 |      5 |      364 | 0.08 |  0.62 |
-| south-australia              |    586 |     40 |     3299 | 0.07 |  0.56 |
+| south-australia              |    589 |     40 |     3269 | 0.07 |  0.56 |
 | tasmania                     |    174 |     14 |      359 | 0.08 |  0.21 |
 | new-zealand                  |    444 |     32 |      860 | 0.07 |  0.19 |
 | victoria                     |   1792 |    116 |     3269 | 0.06 |  0.18 |
 | south-africa                 |    172 |      9 |      260 | 0.05 |  0.15 |
 | queensland                   |   2037 |    106 |      973 | 0.05 |  0.05 |
-| united-kingdom               |    370 |     18 |      -25 | 0.05 | -0.01 |
+| united-kingdom               |    371 |     18 |      -35 | 0.05 | -0.01 |
 | western-australia            |    777 |     43 |     -234 | 0.06 | -0.03 |
-| new-south-wales              |   2236 |    121 |    -1134 | 0.05 | -0.05 |
+| new-south-wales              |   2240 |    121 |    -1174 | 0.05 | -0.05 |
 | northern-territory           |    215 |      9 |     -288 | 0.04 | -0.13 |
 | ireland                      |     50 |      2 |     -200 | 0.04 | -0.4  |

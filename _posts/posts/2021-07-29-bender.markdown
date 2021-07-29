@@ -1,24 +1,27 @@
 ---   
 layout: post   
 title: "Bender"   
-date: 2021-07-28 21:13:57 +1000   
+date: 2021-07-29 09:42:16 +1000   
 categories: bender   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |      2 |      1 |      3   | 0.5  |  0.15 |
-| This Month     |     92 |     31 |     78.5 | 0.34 |  0.09 |
-| This Year      |    755 |    218 |   -695.8 | 0.29 | -0.09 |
-| Since Feb 2020 |   1985 |    578 |  -1196.8 | 0.29 | -0.06 |
+| This Week      |      3 |      1 |     -7   | 0.33 | -0.23 |
+| This Month     |     93 |     31 |     68.5 | 0.33 |  0.07 |
+| This Year      |    756 |    218 |   -705.8 | 0.29 | -0.09 |
+| Since Feb 2020 |   1986 |    578 |  -1206.8 | 0.29 | -0.06 |
 
 ### Bender Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                   | runner              |   odds |   return |   profit |
 |:------------------|:-----------|:------------------------|:--------------------|-------:|---------:|---------:|
-| 17:35             | 2021-07-28 | darwin R5               | 5 Syncline          |   3    |    -10   |  -1243.8 |
+| 18:25             | 2021-07-29 | northam R6              | 4 Fairy Fast        |   4.6  |    -10   |  -1273.8 |
+| 17:05             | 2021-07-29 | cairns R8               | 7 Canadian Rockies  |   1.9  |    -10   |  -1263.8 |
+| 15:45             | 2021-07-29 | cairns R6               | 4 Tutelage          |   2.7  |    -10   |  -1253.8 |
+| :2nd_place_medal: | 2021-07-28 | darwin R5               | 5 Syncline          |   3    |    -10   |  -1243.8 |
 | 6                 | 2021-07-27 | taree R5                | 6 Paxos Miss        |   5    |    -10   |  -1233.8 |
 | :boom:            | 2021-07-26 | newton-abbot R3         | 2 Chez Hans         |   2.3  |     13   |  -1223.8 |
 | 9                 | 2021-07-25 | kalgoorlie R7           | 4 Jakestar          |   5    |    -10   |  -1236.8 |
@@ -115,9 +118,6 @@ categories: bender
 | 6                 | 2021-06-29 | townsville R1           | 4 Lily Ofthe Glen   |   8.1  |    -10   |  -1332.3 |
 | :boom:            | 2021-06-28 | pakenham-synthetic R8   | 9 Yulong Justify    |   3.5  |     25   |  -1322.3 |
 | :3rd_place_medal: | 2021-06-28 | pakenham-synthetic R8   | 2 Dominus           |   7.6  |    -10   |  -1347.3 |
-| 99                | 2021-06-27 | windsor R3              | 1 Rebel At Dawn     |   1.9  |    -10   |  -1337.3 |
-| 98                | 2021-06-27 | curragh R3              | 10 Midnight Fire    |  21    |    -10   |  -1327.3 |
-| 98                | 2021-06-27 | curragh R3              | 6 Independent Missy |   3.75 |    -10   |  -1317.3 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -125,7 +125,7 @@ categories: bender
 | Monday    |     80 |     23 |   -108.2 | 0.29 | -0.14 |
 | Saturday  |    832 |    258 |    335.5 | 0.31 |  0.04 |
 | Sunday    |    315 |     85 |   -536   | 0.27 | -0.17 |
-| Thursday  |    159 |     39 |   -300.7 | 0.25 | -0.19 |
+| Thursday  |    162 |     39 |   -330.7 | 0.24 | -0.2  |
 | Tuesday   |    126 |     37 |   -260.9 | 0.29 | -0.21 |
 | Wednesday |    191 |     51 |   -185.9 | 0.27 | -0.1  |
 
@@ -209,7 +209,7 @@ categories: bender
 | 2021-WK27 |     25 |     12 |     82.5 | 0.48 |  0.33 |
 | 2021-WK28 |     24 |      8 |     80   | 0.33 |  0.33 |
 | 2021-WK29 |     15 |      5 |    -41   | 0.33 | -0.27 |
-| 2021-WK30 |      3 |      1 |     -7   | 0.33 | -0.23 |
+| 2021-WK30 |      6 |      1 |    -37   | 0.17 | -0.62 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -230,7 +230,7 @@ categories: bender
 | 2021-04 |    116 |     32 |    -40.4 | 0.28 | -0.03 |
 | 2021-05 |    126 |     36 |    -42.4 | 0.29 | -0.03 |
 | 2021-06 |     85 |     22 |   -181.6 | 0.26 | -0.21 |
-| 2021-07 |     93 |     31 |     68.5 | 0.33 |  0.07 |
+| 2021-07 |     96 |     31 |     38.5 | 0.32 |  0.04 |
 
 | track               |   runs |   wins |   profit |   sr |   roi |
 |:--------------------|-------:|-------:|---------:|-----:|------:|
@@ -306,7 +306,6 @@ categories: bender
 | launceston          |     26 |      9 |    -20.1 | 0.35 | -0.08 |
 | newcastle           |     25 |      5 |    -28.5 | 0.2  | -0.11 |
 | fairview            |     21 |      8 |    -24.4 | 0.38 | -0.12 |
-| cairns              |     29 |      7 |    -36.3 | 0.24 | -0.13 |
 | terang              |      4 |      1 |     -5.5 | 0.25 | -0.14 |
 | ipswich             |     34 |      8 |    -48.5 | 0.24 | -0.14 |
 | ellerslie           |     34 |     12 |    -49.2 | 0.35 | -0.14 |
@@ -314,6 +313,7 @@ categories: bender
 | grafton             |     11 |      2 |    -18   | 0.18 | -0.16 |
 | york                |      6 |      1 |    -10   | 0.17 | -0.17 |
 | morphettville-parks |     25 |      6 |    -43.4 | 0.24 | -0.17 |
+| cairns              |     31 |      7 |    -56.3 | 0.23 | -0.18 |
 | eagle-farm          |     42 |     12 |    -75   | 0.29 | -0.18 |
 | bathurst            |      4 |      2 |     -7.5 | 0.5  | -0.19 |
 | newton-abbot        |      5 |      2 |     -9.7 | 0.4  | -0.19 |
@@ -432,7 +432,7 @@ categories: bender
 | tauranga            |      5 |      0 |    -50   | 0    | -1    |
 | wagga               |      5 |      0 |    -50   | 0    | -1    |
 | greyville           |      7 |      0 |    -70   | 0    | -1    |
-| northam             |      7 |      0 |    -70   | 0    | -1    |
+| northam             |      8 |      0 |    -80   | 0    | -1    |
 | pukekura-raceway    |      8 |      0 |    -80   | 0    | -1    |
 
 | location                     |   runs |   wins |   profit |   sr |   roi |
@@ -441,12 +441,12 @@ categories: bender
 | ireland                      |     16 |      4 |     21   | 0.25 |  0.13 |
 | northern-territory           |     87 |     38 |     27.5 | 0.44 |  0.03 |
 | tasmania                     |     91 |     32 |     -4.6 | 0.35 | -0.01 |
-| queensland                   |    526 |    160 |   -393.9 | 0.3  | -0.07 |
+| queensland                   |    528 |    160 |   -413.9 | 0.3  | -0.08 |
 | new-south-wales              |    300 |     72 |   -285.7 | 0.24 | -0.1  |
 | south-australia              |    115 |     27 |   -158.7 | 0.23 | -0.14 |
 | new-zealand                  |    130 |     40 |   -180.6 | 0.31 | -0.14 |
 | united-kingdom               |    117 |     33 |   -180.6 | 0.28 | -0.15 |
-| western-australia            |    246 |     70 |   -568.2 | 0.28 | -0.23 |
+| western-australia            |    247 |     70 |   -578.2 | 0.28 | -0.23 |
 | australian-capital-territory |     15 |      3 |    -42.5 | 0.2  | -0.28 |
 | south-africa                 |     62 |     17 |   -178.5 | 0.27 | -0.29 |
 | singapore                    |     13 |      3 |    -66.5 | 0.23 | -0.51 |

@@ -1,27 +1,31 @@
 ---   
 layout: post   
 title: "Shadowchaser"   
-date: 2021-07-28 21:12:37 +1000   
+date: 2021-07-29 09:41:09 +1000   
 categories: shadowchaser   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last Week      |     44 |     13 |    102.5 | 0.3  |  0.23 |
-| This Month     |    158 |     38 |    -54   | 0.24 | -0.03 |
-| This Year      |   1772 |    324 |  -3156.3 | 0.18 | -0.18 |
-| Since Feb 2020 |   4464 |    832 |  -3618.8 | 0.19 | -0.08 |
+| This Week      |      4 |      1 |    -40   | 0.25 | -1    |
+| This Month     |    162 |     39 |    -94   | 0.24 | -0.06 |
+| This Year      |   1776 |    325 |  -3196.3 | 0.18 | -0.18 |
+| Since Feb 2020 |   4468 |    833 |  -3658.8 | 0.19 | -0.08 |
 
 ### Shadowchaser Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                   | runner                |   odds |   return |   profit |
 |:------------------|:-----------|:------------------------|:----------------------|-------:|---------:|---------:|
-| 16:30             | 2021-07-28 | kensington R8           | 2 Exotic Ruby         |   3.4  |    -10   |  -3883.8 |
-| 15:55             | 2021-07-28 | kensington R7           | 2 Miss Einstein       |   2.7  |    -10   |  -3873.8 |
-| 15:20             | 2021-07-28 | kensington R6           | 1 Matowatakpe         |   6.5  |    -10   |  -3863.8 |
-| 14:45             | 2021-07-28 | kensington R5           | 2 Brazen Gem          |   5.5  |    -10   |  -3853.8 |
+| 15:25             | 2021-07-29 | wyong R6                | 6 Into The Fire       |  10    |    -10   |  -3858.8 |
+| 15:05             | 2021-07-29 | cairns R5               | 5 Tennessee Boy       |   2.1  |    -10   |  -3848.8 |
+| 13:25             | 2021-07-29 | awapuni R6              | 1 Invisible Spirit    |   1.5  |    -10   |  -3838.8 |
+| 12:43             | 2021-07-29 | cairns R1               | 5 Vienna Cruise       |   4.2  |    -10   |  -3828.8 |
+| :2nd_place_medal: | 2021-07-28 | kensington R8           | 2 Exotic Ruby         |   3.4  |    -10   |  -3883.8 |
+| 5                 | 2021-07-28 | kensington R7           | 2 Miss Einstein       |   2.7  |    -10   |  -3873.8 |
+| :boom:            | 2021-07-28 | kensington R6           | 1 Matowatakpe         |   6.5  |    -10   |  -3863.8 |
+| :2nd_place_medal: | 2021-07-28 | kensington R5           | 2 Brazen Gem          |   5.5  |    -10   |  -3853.8 |
 | :boom:            | 2021-07-25 | sunshine-coast R7       | 8 Bustedup            |   1.65 |      6.5 |  -3843.8 |
 | :boom:            | 2021-07-25 | gosford R7              | 3 Texcel              |   3.2  |     22   |  -3850.3 |
 | 4                 | 2021-07-25 | sale R10                | 1 Mayfair Spirit      |  18    |    -10   |  -3872.3 |
@@ -114,10 +118,6 @@ categories: shadowchaser
 | :boom:            | 2021-07-11 | alice-springs R3        | 3 Future Dreams       |   2.25 |     12.5 |  -3798.3 |
 | 8                 | 2021-07-11 | alice-springs R2        | 4 Babe in Boots       |   4.25 |    -10   |  -3810.8 |
 | :2nd_place_medal: | 2021-07-11 | sunshine-coast R4       | 8 Weboughtazou        |   6.6  |    -10   |  -3800.8 |
-| :boom:            | 2021-07-11 | sunshine-coast R4       | 6 Totally Charmed     |   2.1  |     11   |  -3790.8 |
-| 8                 | 2021-07-11 | devonport-synthetic R6  | 7 Spihro              |  21    |    -10   |  -3801.8 |
-| 5                 | 2021-07-11 | devonport-synthetic R1  | 1 Overplay            |   2.9  |    -10   |  -3791.8 |
-| 5                 | 2021-07-10 | york R1                 | 6 Ajyaall             |   8    |    -10   |  -3781.8 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -125,9 +125,9 @@ categories: shadowchaser
 | Monday    |    137 |     22 |    187   | 0.16 |  0.14 |
 | Saturday  |   2206 |    376 |  -2857.9 | 0.17 | -0.13 |
 | Sunday    |    495 |     98 |   -436.1 | 0.2  | -0.09 |
-| Thursday  |    320 |     63 |     -5.4 | 0.2  | -0    |
+| Thursday  |    324 |     63 |    -45.4 | 0.19 | -0.01 |
 | Tuesday   |    257 |     55 |    -87   | 0.21 | -0.03 |
-| Wednesday |    524 |    106 |   -722.8 | 0.2  | -0.14 |
+| Wednesday |    524 |    107 |   -722.8 | 0.2  | -0.14 |
 
 | week      |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -209,7 +209,7 @@ categories: shadowchaser
 | 2021-WK27 |     55 |      9 |   -122   | 0.16 | -0.22 |
 | 2021-WK28 |     30 |     11 |     99   | 0.37 |  0.33 |
 | 2021-WK29 |     44 |     13 |    102.5 | 0.3  |  0.23 |
-| 2021-WK30 |      4 |      0 |    -40   | 0    | -1    |
+| 2021-WK30 |      8 |      1 |    -80   | 0.12 | -1    |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -230,7 +230,7 @@ categories: shadowchaser
 | 2021-04 |    326 |     51 |   -888.4 | 0.16 | -0.27 |
 | 2021-05 |    336 |     54 |   -966.6 | 0.16 | -0.29 |
 | 2021-06 |    188 |     31 |   -399.3 | 0.16 | -0.21 |
-| 2021-07 |    162 |     38 |    -94   | 0.23 | -0.06 |
+| 2021-07 |    166 |     39 |   -134   | 0.23 | -0.08 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -246,8 +246,8 @@ categories: shadowchaser
 | kempton                    |      2 |      1 |     46   | 0.5  |  2.3  |
 | narrandera                 |      1 |      1 |     23   | 1    |  2.3  |
 | katherine                  |      1 |      1 |     22   | 1    |  2.2  |
-| wyong                      |     13 |      4 |    279   | 0.31 |  2.15 |
 | tipperary                  |      1 |      1 |     20   | 1    |  2    |
+| wyong                      |     14 |      4 |    269   | 0.29 |  1.92 |
 | walcha                     |      1 |      1 |     18   | 1    |  1.8  |
 | trentham                   |     10 |      5 |    167.5 | 0.5  |  1.68 |
 | mildura                    |      2 |      1 |     30   | 0.5  |  1.5  |
@@ -299,11 +299,11 @@ categories: shadowchaser
 | wimmera%40stawell          |      5 |      1 |      1   | 0.2  |  0.02 |
 | flemington                 |    128 |     16 |     10.5 | 0.12 |  0.01 |
 | newbury                    |      2 |      1 |      0   | 0.5  |  0    |
-| cairns                     |     65 |     16 |     -9   | 0.25 | -0.01 |
 | wingatui                   |     19 |      5 |     -3.3 | 0.26 | -0.02 |
 | singapore                  |      3 |      1 |     -1   | 0.33 | -0.03 |
 | rockhampton                |    158 |     31 |    -52.5 | 0.2  | -0.03 |
 | darwin                     |    221 |     40 |    -61.3 | 0.18 | -0.03 |
+| cairns                     |     67 |     16 |    -29   | 0.24 | -0.04 |
 | sandown-hillside           |     39 |      8 |    -22   | 0.21 | -0.06 |
 | ipswich                    |     92 |     19 |    -73   | 0.21 | -0.08 |
 | matamata                   |      8 |      2 |     -7   | 0.25 | -0.09 |
@@ -338,14 +338,14 @@ categories: shadowchaser
 | toowoomba                  |     59 |     12 |   -191.9 | 0.2  | -0.33 |
 | tamworth                   |     25 |      4 |    -84   | 0.16 | -0.34 |
 | rosehill                   |     76 |      9 |   -255   | 0.12 | -0.34 |
-| kensington                 |     40 |      5 |   -147   | 0.12 | -0.37 |
+| kensington                 |     40 |      6 |   -147   | 0.15 | -0.37 |
 | gatton                     |      8 |      2 |    -31.5 | 0.25 | -0.39 |
-| awapuni                    |     19 |      5 |    -74   | 0.26 | -0.39 |
 | port-augusta               |      3 |      1 |    -12   | 0.33 | -0.4  |
 | hobart                     |     61 |     10 |   -241   | 0.16 | -0.4  |
 | emerald                    |     21 |      3 |    -86.6 | 0.14 | -0.41 |
 | bendigo                    |     22 |      4 |    -89.5 | 0.18 | -0.41 |
 | riccarton-park             |     14 |      1 |    -59   | 0.07 | -0.42 |
+| awapuni                    |     20 |      5 |    -84   | 0.25 | -0.42 |
 | murray-bdge                |     60 |      7 |   -267   | 0.12 | -0.44 |
 | gympie                     |      3 |      1 |    -13.5 | 0.33 | -0.45 |
 | balaklava                  |     10 |      1 |    -45   | 0.1  | -0.45 |
@@ -447,14 +447,14 @@ categories: shadowchaser
 | australian-capital-territory |     15 |      2 |     85.5 | 0.13 |  0.57 |
 | victoria                     |    619 |    115 |    484   | 0.19 |  0.08 |
 | northern-territory           |    329 |     71 |    -31.8 | 0.22 | -0.01 |
-| new-zealand                  |    173 |     36 |    -27.5 | 0.21 | -0.02 |
+| new-zealand                  |    174 |     36 |    -37.5 | 0.21 | -0.02 |
 | singapore                    |      3 |      1 |     -1   | 0.33 | -0.03 |
 | south-australia              |    379 |     62 |   -211.9 | 0.16 | -0.06 |
 | south-africa                 |     10 |      2 |     -8   | 0.2  | -0.08 |
 | western-australia            |    543 |    107 |   -472.3 | 0.2  | -0.09 |
 | tasmania                     |    241 |     48 |   -244.7 | 0.2  | -0.1  |
-| queensland                   |   1403 |    273 |  -1816.6 | 0.19 | -0.13 |
-| new-south-wales              |    686 |    103 |  -1143.5 | 0.15 | -0.17 |
+| queensland                   |   1405 |    273 |  -1836.6 | 0.19 | -0.13 |
+| new-south-wales              |    687 |    104 |  -1153.5 | 0.15 | -0.17 |
 | united-kingdom               |     48 |      9 |   -150   | 0.19 | -0.31 |
 | ireland                      |      8 |      2 |    -36   | 0.25 | -0.45 |
 | hong-kong                    |     11 |      1 |    -85   | 0.09 | -0.77 |

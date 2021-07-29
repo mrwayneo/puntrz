@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-07-28 21:26:37 +1000   
+date: 2021-07-29 09:50:56 +1000   
 categories: looseknot   
 ---   
 
@@ -18,6 +18,9 @@ categories: looseknot
 
 | finish            | date       | event                  | runner                |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|---------:|
+| 22:35             | 2021-07-29 | stratford R2           | 8 Dark Motive         |   7.5  |      -10 |   2585.5 |
+| 22:35             | 2021-07-29 | stratford R2           | 3 Fred Bear           |   4.2  |      -10 |   2595.5 |
+| 22:35             | 2021-07-29 | stratford R2           | 1 Caramelised         |   3.75 |      -10 |   2605.5 |
 | 98                | 2021-07-27 | beverley R1            | 11 Alpine Lady        |   3.8  |      -10 |   2615.5 |
 | 98                | 2021-07-26 | newton-abbot R2        | 7 Masterdream         |   5    |      -10 |   2625.5 |
 | 9                 | 2021-07-25 | gosford R5             | 14 Sacred Stream      |   5.5  |      -10 |   2635.5 |
@@ -115,9 +118,6 @@ categories: looseknot
 | 99                | 2021-06-18 | market-rasen R5        | 12 Brief Acquaintance |   8.5  |      -10 |   3028.5 |
 | 99                | 2021-06-18 | market-rasen R5        | 11 American Craftsman |   7    |      -10 |   3038.5 |
 | :2nd_place_medal: | 2021-06-18 | sunshine-coast R5      | 9 Weona Karioi        |   3.9  |      -10 |   3048.5 |
-| :3rd_place_medal: | 2021-06-18 | geelong R4             | 5 Late Night Finish   |   6    |      -10 |   3058.5 |
-| :3rd_place_medal: | 2021-06-18 | canberra-acton R4      | 1 Brennaman           |   4.4  |      -10 |   3068.5 |
-| 8                 | 2021-06-18 | coffs-harbour R3       | 5 Hector Sagoa        |   5.5  |      -10 |   3078.5 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
@@ -125,7 +125,7 @@ categories: looseknot
 | Monday    |    106 |     12 |    608   | 0.11 |  0.57 |
 | Saturday  |    261 |     54 |   1921   | 0.21 |  0.74 |
 | Sunday    |    191 |     32 |    -53.5 | 0.17 | -0.03 |
-| Thursday  |    174 |     21 |   -427.5 | 0.12 | -0.25 |
+| Thursday  |    177 |     21 |   -457.5 | 0.12 | -0.26 |
 | Tuesday   |    121 |     20 |     -7   | 0.17 | -0.01 |
 | Wednesday |    155 |     30 |     85.5 | 0.19 |  0.06 |
 
@@ -209,7 +209,7 @@ categories: looseknot
 | 2021-WK27 |     22 |      0 |   -220   | 0    | -1    |
 | 2021-WK28 |     23 |      3 |    -60   | 0.13 | -0.26 |
 | 2021-WK29 |     18 |      2 |    -65   | 0.11 | -0.36 |
-| 2021-WK30 |      2 |      0 |    -20   | 0    | -1    |
+| 2021-WK30 |      5 |      0 |    -50   | 0    | -1    |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -230,7 +230,7 @@ categories: looseknot
 | 2021-04 |     71 |     10 |   -217   | 0.14 | -0.31 |
 | 2021-05 |     56 |      3 |   -263   | 0.05 | -0.47 |
 | 2021-06 |     78 |      8 |   -317   | 0.1  | -0.41 |
-| 2021-07 |     76 |      8 |   -305   | 0.11 | -0.4  |
+| 2021-07 |     79 |      8 |   -335   | 0.1  | -0.42 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -303,7 +303,6 @@ categories: looseknot
 | taree                      |     11 |      2 |     60.5 | 0.18 |  0.55 |
 | canberra                   |      6 |      2 |     33   | 0.33 |  0.55 |
 | dundalk                    |      3 |      1 |     16.5 | 0.33 |  0.55 |
-| stratford                  |      4 |      1 |     20   | 0.25 |  0.5  |
 | launceston                 |     13 |      3 |     63   | 0.23 |  0.48 |
 | coffs-harbour              |      7 |      2 |     30   | 0.29 |  0.43 |
 | windsor                    |      5 |      1 |     16   | 0.2  |  0.32 |
@@ -336,6 +335,7 @@ categories: looseknot
 | kembla-grange              |     23 |      4 |    -20   | 0.17 | -0.09 |
 | port-macquarie             |      9 |      2 |     -9   | 0.22 | -0.1  |
 | kensington                 |     10 |      2 |    -10   | 0.2  | -0.1  |
+| stratford                  |      7 |      1 |    -10   | 0.14 | -0.14 |
 | toowoomba                  |     19 |      3 |    -30   | 0.16 | -0.16 |
 | te-aroha                   |      9 |      2 |    -16.5 | 0.22 | -0.18 |
 | goulburn                   |     10 |      2 |    -18   | 0.2  | -0.18 |
@@ -485,7 +485,7 @@ categories: looseknot
 | south-australia              |     51 |     10 |    137   | 0.2  |  0.27 |
 | australian-capital-territory |      8 |      2 |     13   | 0.25 |  0.16 |
 | new-south-wales              |    264 |     47 |    364   | 0.18 |  0.14 |
-| united-kingdom               |    179 |     34 |    250.5 | 0.19 |  0.14 |
+| united-kingdom               |    182 |     34 |    220.5 | 0.19 |  0.12 |
 | queensland                   |    184 |     29 |    110.5 | 0.16 |  0.06 |
 | tasmania                     |     29 |      5 |      8   | 0.17 |  0.03 |
 | western-australia            |     77 |     12 |    -24   | 0.16 | -0.03 |
