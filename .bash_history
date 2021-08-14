@@ -9,3 +9,5 @@ exit
 exit
 source ~/.bashrc
 exit
+source ~/.bashrc
+exit
