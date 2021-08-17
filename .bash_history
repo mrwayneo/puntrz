@@ -11,3 +11,14 @@ source ~/.bashrc
 exit
 source ~/.bashrc
 exit
+source ~/.bashrc
+ls
+cd .app
+ls
+python3 build.py 
+tabulate -version
+tabulate --help
+pip tabulate -v
+pip freeze
+history
+exit
