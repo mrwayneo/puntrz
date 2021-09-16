@@ -157,3 +157,9 @@ python3 build.py
 python3 build.py
 exit
 exit
+source ~/.bashrc
+cd .app
+ls /
+ls /home
+ls /home/wayneo
+exit
