@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-09-18 12:23:31 +1000   
+date: 2021-09-18 14:25:15 +1000   
 categories: overthrow   
 ---   
 
@@ -18,23 +18,23 @@ categories: overthrow
 
 | finish            | date       | event                  | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|---------:|
-| 23:50             | 2021-09-18 | newbury R4             | 2 Solid Stone        |   7.5  |    -10   |    652.4 |
-| 19:40             | 2021-09-18 | belmont R9             | 6 Boomtastic         |   6.5  |    -10   |    662.4 |
-| 17:15             | 2021-09-18 | randwick R10           | 12 Equation          |   3.3  |    -10   |    672.4 |
-| 16:43             | 2021-09-18 | gold-coast R9          | 10 Gunnobe           |  23    |    -10   |    682.4 |
-| 16:07             | 2021-09-18 | gold-coast R8          | 2 Morethannumberone  |   2.3  |    -10   |    692.4 |
-| 15:19             | 2021-09-18 | belmont R2             | 2 Kaptain Kaos       |   1.9  |    -10   |    702.4 |
-| 14:48             | 2021-09-18 | gold-coast R6          | 2 Weona Smartone     |   1.45 |    -10   |    712.4 |
-| 14:00             | 2021-09-18 | randwick R5            | 2 Numerian           |  23    |    -10   |    722.4 |
-| 13:48             | 2021-09-18 | dalby R5               | 4 Harbour Trick      |   6    |    -10   |    732.4 |
-| 12:38             | 2021-09-18 | dalby R3               | 9 Leica Special      |  23    |    -10   |    742.4 |
-| :3rd_place_medal: | 2021-09-18 | newton-abbot R6        | 1 Eglantine Du Seuil |   1.03 |    -10   |    752.4 |
-| 01:13             | 2021-09-18 | newton-abbot R5        | 3 Easyrun De Vassy   |   5.5  |    -10   |    762.4 |
-| 01:05             | 2021-09-18 | newbury R6             | 10 Twisted Reality   |   9    |    -10   |    772.4 |
-| 01:05             | 2021-09-18 | newbury R6             | 8 Labeebb            |   6.5  |    -10   |    782.4 |
-| :2nd_place_medal: | 2021-09-18 | newbury R5             | 2 D'bai              |   6    |    -10   |    792.4 |
-| :3rd_place_medal: | 2021-09-18 | newbury R5             | 1 Al Suhail          |   4.6  |    -10   |    802.4 |
-| 00:03             | 2021-09-18 | newton-abbot R3        | 7 Ince               |   9    |    -10   |    812.4 |
+| 23:50             | 2021-09-18 | newbury R4             | 2 Solid Stone        |   7.5  |    -10   |    672.4 |
+| 19:40             | 2021-09-18 | belmont R9             | 6 Boomtastic         |   6.5  |    -10   |    682.4 |
+| 17:15             | 2021-09-18 | randwick R10           | 12 Equation          |   3.3  |    -10   |    692.4 |
+| 16:43             | 2021-09-18 | gold-coast R9          | 10 Gunnobe           |  23    |    -10   |    702.4 |
+| 16:07             | 2021-09-18 | gold-coast R8          | 2 Morethannumberone  |   2.3  |    -10   |    712.4 |
+| 15:19             | 2021-09-18 | belmont R2             | 2 Kaptain Kaos       |   1.9  |    -10   |    722.4 |
+| 14:48             | 2021-09-18 | gold-coast R6          | 2 Weona Smartone     |   1.45 |    -10   |    732.4 |
+| 14:00             | 2021-09-18 | randwick R5            | 2 Numerian           |  23    |    -10   |    742.4 |
+| 13:48             | 2021-09-18 | dalby R5               | 4 Harbour Trick      |   6    |    -10   |    752.4 |
+| 12:38             | 2021-09-18 | dalby R3               | 9 Leica Special      |  23    |    -10   |    762.4 |
+| :3rd_place_medal: | 2021-09-18 | newton-abbot R6        | 1 Eglantine Du Seuil |   1.03 |    -10   |    772.4 |
+| 01:13             | 2021-09-18 | newton-abbot R5        | 3 Easyrun De Vassy   |   5.5  |    -10   |    782.4 |
+| 01:05             | 2021-09-18 | newbury R6             | 10 Twisted Reality   |   9    |    -10   |    792.4 |
+| 01:05             | 2021-09-18 | newbury R6             | 8 Labeebb            |   6.5  |    -10   |    802.4 |
+| :2nd_place_medal: | 2021-09-18 | newbury R5             | 2 D'bai              |   6    |    -10   |    812.4 |
+| :3rd_place_medal: | 2021-09-18 | newbury R5             | 1 Al Suhail          |   4.6  |    -10   |    822.4 |
+| 00:03             | 2021-09-18 | newton-abbot R3        | 7 Ince               |   9    |    -10   |    832.4 |
 | :3rd_place_medal: | 2021-09-17 | newbury R4             | 1 King Of Conquest   |   2.4  |    -10   |    814.9 |
 | :2nd_place_medal: | 2021-09-17 | newbury R3             | 3 Croupier           |   3.8  |    -10   |    824.9 |
 | :2nd_place_medal: | 2021-09-17 | newbury R2             | 2 Silk Romance       |   1.65 |    -10   |    834.9 |

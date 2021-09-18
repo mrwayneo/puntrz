@@ -1,23 +1,33 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-09-18 12:49:06 +1000   
+date: 2021-09-18 14:36:53 +1000   
 categories: looseknot   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |      8 |      2 |     31   | 0.25 |  0.39 |
-| This Month     |     51 |      5 |   -253   | 0.1  | -0.5  |
-| This Year      |    608 |     77 |  -1755.5 | 0.13 | -0.29 |
-| Since Feb 2020 |   1310 |    224 |   2064   | 0.17 |  0.16 |
+| This Week      |     12 |      3 |     -9   | 0.25 | -0.08 |
+| This Month     |     55 |      6 |   -293   | 0.11 | -0.53 |
+| This Year      |    612 |     78 |  -1795.5 | 0.13 | -0.29 |
+| Since Feb 2020 |   1314 |    225 |   2024   | 0.17 |  0.15 |
 
 ### Looseknot Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|---------:|
+| 22:00             | 2021-09-18 | newmarket R1           | 7 Moon De Vega       |   9.5  |      -10 |     1979 |
+| 22:00             | 2021-09-18 | newmarket R1           | 2 Delphinus          |   6    |      -10 |     1989 |
+| 16:55             | 2021-09-18 | newcastle R8           | 4 Major Murphy       |  34    |      -10 |     1999 |
+| 14:08             | 2021-09-18 | gold-coast R5          | 14 Our Rebel         |  27    |      -10 |     2009 |
+| 13:13             | 2021-09-18 | dalby R4               | 9 Idling By          |   3.4  |      -10 |     2019 |
+| 11:52             | 2021-09-18 | riccarton-park R4      | 7 Cast In Bronze     |   8    |      -10 |     2029 |
+| 8                 | 2021-09-17 | geelong R4             | 7 Wild About Harry   |   6    |      -10 |     1964 |
+| :boom:            | 2021-09-17 | geelong R1             | 10 Lumber Punk       |   7.5  |      -10 |     1974 |
+| 4                 | 2021-09-17 | eagle-farm R1          | 3 Keaton             |   5    |      -10 |     1984 |
+| 5                 | 2021-09-17 | taupo R4               | 1 Aotea Lad          |   9.5  |      -10 |     1994 |
 | :boom:            | 2021-09-15 | belmont R1             | 3 He's A Lucky Lad   |   6.5  |       55 |     2004 |
 | 5                 | 2021-09-15 | balaklava R3           | 2 Solsystem          |   8.5  |      -10 |     1949 |
 | :2nd_place_medal: | 2021-09-14 | punchestown R2         | 2 Changingoftheguard |   4.8  |      -10 |     1959 |
@@ -108,22 +118,12 @@ categories: looseknot
 | 99                | 2021-08-17 | wolverhampton R3       | 7 If You Can Dream   |   3.4  |      -10 |     2360 |
 | :boom:            | 2021-08-17 | wolverhampton R2       | 3 Battle Of The Nile |   3.5  |       25 |     2370 |
 | 98                | 2021-08-17 | wolverhampton R1       | 4 Swaffham Bulbeck   |   8.5  |      -10 |     2345 |
-| 6                 | 2021-08-15 | devonport-synthetic R8 | 1 Kwai               |   3.6  |      -10 |     2355 |
-| :3rd_place_medal: | 2021-08-15 | devonport-synthetic R5 | 6 Di's A Dancer      |   4.8  |      -10 |     2365 |
-| 5                 | 2021-08-15 | devonport-synthetic R4 | 10 Mystical Vixen    |   4.8  |      -10 |     2375 |
-| :3rd_place_medal: | 2021-08-14 | innisfail R5           | 8 Lady Yendor        |   7.5  |      -10 |     2385 |
-| 6                 | 2021-08-14 | goulburn R3            | 1 Bullet Force       |   5    |      -10 |     2395 |
-| 4                 | 2021-08-14 | gold-coast R1          | 1 California Vanture |   4.5  |      -10 |     2405 |
-| 4                 | 2021-08-13 | geelong R5             | 15 Versilia          |   7    |      -10 |     2415 |
-| 7                 | 2021-08-13 | geelong R4             | 8 Copper Charm       |   8.5  |      -10 |     2425 |
-| 8                 | 2021-08-13 | geelong R2             | 5 Potato Pete        |   9.5  |      -10 |     2435 |
-| 98                | 2021-08-12 | ffos-las R3            | 4 Vaynor             |   4.8  |      -10 |     2445 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
-| Friday    |    192 |     42 |    400   | 0.22 |  0.21 |
+| Friday    |    196 |     43 |    360   | 0.22 |  0.18 |
 | Monday    |    115 |     14 |    619   | 0.12 |  0.54 |
-| Saturday  |    287 |     54 |   1661   | 0.19 |  0.58 |
+| Saturday  |    293 |     54 |   1601   | 0.18 |  0.55 |
 | Sunday    |    212 |     36 |    -87.5 | 0.17 | -0.04 |
 | Thursday  |    196 |     25 |   -447   | 0.13 | -0.23 |
 | Tuesday   |    132 |     21 |    -82   | 0.16 | -0.06 |
@@ -216,7 +216,7 @@ categories: looseknot
 | 2021-WK34 |     23 |      3 |    -78   | 0.13 | -0.34 |
 | 2021-WK35 |     20 |      3 |    -35   | 0.15 | -0.18 |
 | 2021-WK36 |     26 |      1 |   -224   | 0.04 | -0.86 |
-| 2021-WK37 |      8 |      2 |     31   | 0.25 |  0.39 |
+| 2021-WK37 |     18 |      3 |    -69   | 0.17 | -0.38 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -239,7 +239,7 @@ categories: looseknot
 | 2021-06 |     78 |      8 |   -317   | 0.1  | -0.41 |
 | 2021-07 |     82 |     10 |   -290.5 | 0.12 | -0.35 |
 | 2021-08 |     76 |      8 |   -373   | 0.11 | -0.49 |
-| 2021-09 |     51 |      5 |   -253   | 0.1  | -0.5  |
+| 2021-09 |     61 |      6 |   -353   | 0.1  | -0.58 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -275,11 +275,11 @@ categories: looseknot
 | avondale                   |      6 |      3 |    115   | 0.5  |  1.92 |
 | wanganui                   |      5 |      2 |     95   | 0.4  |  1.9  |
 | mackay                     |      6 |      2 |    105   | 0.33 |  1.75 |
-| dalby                      |     10 |      1 |    165   | 0.1  |  1.65 |
 | kilcoy                     |      4 |      2 |     65   | 0.5  |  1.62 |
 | northam                    |      8 |      2 |    126   | 0.25 |  1.58 |
 | morphettville-parks        |      9 |      3 |    141   | 0.33 |  1.57 |
 | arawa-park                 |      3 |      1 |     46   | 0.33 |  1.53 |
+| dalby                      |     11 |      1 |    155   | 0.09 |  1.41 |
 | plumpton                   |      5 |      2 |     69.5 | 0.4  |  1.39 |
 | ludlow                     |      3 |      1 |     40   | 0.33 |  1.33 |
 | newbury                    |      3 |      1 |     40   | 0.33 |  1.33 |
@@ -312,7 +312,6 @@ categories: looseknot
 | canberra                   |      6 |      2 |     33   | 0.33 |  0.55 |
 | dundalk                    |      3 |      1 |     16.5 | 0.33 |  0.55 |
 | launceston                 |     13 |      3 |     63   | 0.23 |  0.48 |
-| newmarket                  |     12 |      2 |     56   | 0.17 |  0.47 |
 | coffs-harbour              |      7 |      2 |     30   | 0.29 |  0.43 |
 | taree                      |     12 |      2 |     50.5 | 0.17 |  0.42 |
 | stratford                  |      7 |      2 |     27.5 | 0.29 |  0.39 |
@@ -324,6 +323,7 @@ categories: looseknot
 | racing.com-park            |     15 |      4 |     40   | 0.27 |  0.27 |
 | canterbury                 |     14 |      3 |     38   | 0.21 |  0.27 |
 | chelmsford-city            |      3 |      1 |      8   | 0.33 |  0.27 |
+| newmarket                  |     14 |      2 |     36   | 0.14 |  0.26 |
 | greyville                  |     10 |      3 |     25   | 0.3  |  0.25 |
 | kalgoorlie                 |     13 |      3 |     30   | 0.23 |  0.23 |
 | scottsville                |      7 |      1 |     15   | 0.14 |  0.21 |
@@ -344,7 +344,6 @@ categories: looseknot
 | sandown-hillside           |      7 |      1 |    -10   | 0.14 | -0.14 |
 | ascot                      |     10 |      2 |    -14   | 0.2  | -0.14 |
 | toowoomba                  |     19 |      3 |    -30   | 0.16 | -0.16 |
-| eagle-farm                 |      6 |      1 |    -10   | 0.17 | -0.17 |
 | port-macquarie             |     10 |      2 |    -19   | 0.2  | -0.19 |
 | wangaratta                 |      6 |      1 |    -12   | 0.17 | -0.2  |
 | fontwell                   |      6 |      1 |    -13.5 | 0.17 | -0.22 |
@@ -354,13 +353,14 @@ categories: looseknot
 | hastings                   |     11 |      2 |    -28   | 0.18 | -0.25 |
 | te-aroha                   |     10 |      2 |    -26.5 | 0.2  | -0.26 |
 | belmont                    |      9 |      1 |    -25   | 0.11 | -0.28 |
+| eagle-farm                 |      7 |      1 |    -20   | 0.14 | -0.29 |
 | grafton                    |     15 |      2 |    -43   | 0.13 | -0.29 |
 | kensington                 |     13 |      2 |    -40   | 0.15 | -0.31 |
 | leopardstown               |      9 |      1 |    -30   | 0.11 | -0.33 |
-| newcastle                  |     31 |      5 |   -109.5 | 0.16 | -0.35 |
 | port-augusta               |      5 |      1 |    -18   | 0.2  | -0.36 |
 | bunbury                    |      7 |      1 |    -26   | 0.14 | -0.37 |
 | goulburn                   |     13 |      2 |    -48   | 0.15 | -0.37 |
+| newcastle                  |     32 |      5 |   -119.5 | 0.16 | -0.37 |
 | townsville                 |     17 |      2 |    -64   | 0.12 | -0.38 |
 | sale                       |     13 |      2 |    -54   | 0.15 | -0.42 |
 | darwin                     |      7 |      1 |    -30   | 0.14 | -0.43 |
@@ -369,12 +369,12 @@ categories: looseknot
 | dubbo                      |      8 |      1 |    -38   | 0.12 | -0.48 |
 | turffontein                |      9 |      1 |    -44   | 0.11 | -0.49 |
 | wolverhampton              |      7 |      1 |    -35   | 0.14 | -0.5  |
-| gold-coast                 |     32 |      3 |   -170.5 | 0.09 | -0.53 |
+| gold-coast                 |     33 |      3 |   -180.5 | 0.09 | -0.55 |
 | pinjarra                   |     10 |      1 |    -58   | 0.1  | -0.58 |
 | doomben                    |     11 |      1 |    -64   | 0.09 | -0.58 |
 | devonport-synthetic        |     13 |      1 |    -75   | 0.08 | -0.58 |
 | ballarat                   |     10 |      1 |    -60   | 0.1  | -0.6  |
-| geelong                    |     15 |      1 |    -95   | 0.07 | -0.63 |
+| geelong                    |     17 |      2 |   -115   | 0.12 | -0.68 |
 | ashburton                  |      1 |      0 |    -10   | 0    | -1    |
 | ayr                        |      1 |      0 |    -10   | 0    | -1    |
 | bangor                     |      1 |      0 |    -10   | 0    | -1    |
@@ -456,8 +456,6 @@ categories: looseknot
 | navan                      |      3 |      0 |    -30   | 0    | -1    |
 | pukekohe-park              |      3 |      0 |    -30   | 0    | -1    |
 | queanbeyan                 |      3 |      0 |    -30   | 0    | -1    |
-| riccarton-park             |      3 |      0 |    -30   | 0    | -1    |
-| taupo                      |      3 |      0 |    -30   | 0    | -1    |
 | wingatui                   |      3 |      0 |    -30   | 0    | -1    |
 | woodville                  |      3 |      0 |    -30   | 0    | -1    |
 | york                       |      3 |      0 |    -30   | 0    | -1    |
@@ -466,6 +464,8 @@ categories: looseknot
 | morphettville              |      4 |      0 |    -40   | 0    | -1    |
 | naas                       |      4 |      0 |    -40   | 0    | -1    |
 | naracoorte                 |      4 |      0 |    -40   | 0    | -1    |
+| riccarton-park             |      4 |      0 |    -40   | 0    | -1    |
+| taupo                      |      4 |      0 |    -40   | 0    | -1    |
 | worcester                  |      4 |      0 |    -40   | 0    | -1    |
 | flemington                 |      5 |      0 |    -50   | 0    | -1    |
 | leicester                  |      5 |      0 |    -50   | 0    | -1    |
@@ -495,16 +495,16 @@ categories: looseknot
 | location                     |   runs |   wins |   profit |   sr |   roi |
 |:-----------------------------|-------:|-------:|---------:|-----:|------:|
 | ireland                      |     38 |      8 |    931.5 | 0.21 |  2.45 |
-| new-zealand                  |    114 |     25 |   1229   | 0.22 |  1.08 |
+| new-zealand                  |    116 |     25 |   1209   | 0.22 |  1.04 |
 | singapore                    |      7 |      1 |     20   | 0.14 |  0.29 |
 | south-australia              |     56 |     10 |     87   | 0.18 |  0.16 |
 | australian-capital-territory |      8 |      2 |     13   | 0.25 |  0.16 |
-| queensland                   |    201 |     33 |    137.5 | 0.16 |  0.07 |
-| new-south-wales              |    289 |     48 |    169   | 0.17 |  0.06 |
-| united-kingdom               |    217 |     38 |     27   | 0.18 |  0.01 |
+| new-south-wales              |    290 |     48 |    159   | 0.17 |  0.05 |
+| queensland                   |    204 |     33 |    107.5 | 0.16 |  0.05 |
+| united-kingdom               |    219 |     38 |      7   | 0.17 |  0    |
 | western-australia            |     84 |     13 |    -29   | 0.15 | -0.03 |
 | hong-kong                    |      5 |      1 |     -2   | 0.2  | -0.04 |
-| victoria                     |    191 |     33 |   -203   | 0.17 | -0.11 |
+| victoria                     |    193 |     34 |   -223   | 0.18 | -0.12 |
 | tasmania                     |     35 |      5 |    -52   | 0.14 | -0.15 |
 | south-africa                 |     54 |      6 |   -194   | 0.11 | -0.36 |
 | northern-territory           |     11 |      1 |    -70   | 0.09 | -0.64 |

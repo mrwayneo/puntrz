@@ -1,67 +1,69 @@
 ---   
 layout: post   
 title: "Shadowchaser"   
-date: 2021-09-18 12:21:10 +1000   
+date: 2021-09-18 14:22:28 +1000   
 categories: shadowchaser   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |     19 |      5 |     11   | 0.26 |  0.06 |
-| This Month     |    157 |     25 |   -439   | 0.16 | -0.28 |
-| This Year      |   2180 |    393 |  -4344.7 | 0.18 | -0.2  |
-| Since Feb 2020 |   4872 |    901 |  -4807.2 | 0.18 | -0.1  |
+| This Week      |     21 |      5 |     -9   | 0.24 | -0.04 |
+| This Month     |    159 |     25 |   -459   | 0.16 | -0.29 |
+| This Year      |   2182 |    393 |  -4364.7 | 0.18 | -0.2  |
+| Since Feb 2020 |   4874 |    901 |  -4827.2 | 0.18 | -0.1  |
 
 ### Shadowchaser Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|---------:|
-| 23:50             | 2021-09-18 | newbury R4             | 3 Ilaraab            |   9    |    -10   |  -5542.2 |
-| 23:50             | 2021-09-18 | newbury R4             | 1 Al Aasy            |   1.7  |    -10   |  -5532.2 |
-| 23:15             | 2021-09-18 | newbury R3             | 6 Tis Marvellous     |   4.5  |    -10   |  -5522.2 |
-| 23:15             | 2021-09-18 | newbury R3             | 1 Hurricane Ivor     |   5.5  |    -10   |  -5512.2 |
-| 19:40             | 2021-09-18 | belmont R9             | 6 Boomtastic         |   6.5  |    -10   |  -5502.2 |
-| 18:35             | 2021-09-18 | belmont R7             | 7 Charleton Eddie    |   6    |    -10   |  -5492.2 |
-| 17:35             | 2021-09-18 | alice-springs R5       | 5 Supreme Times      |   2.6  |    -10   |  -5482.2 |
-| 17:20             | 2021-09-18 | belmont R5             | 8 Mr Delegator       |   7    |    -10   |  -5472.2 |
-| 17:15             | 2021-09-18 | randwick R10           | 12 Equation          |   3.3  |    -10   |  -5462.2 |
-| 17:04             | 2021-09-18 | alice-springs R4       | 1 That's Justified   |   2.8  |    -10   |  -5452.2 |
-| 16:55             | 2021-09-18 | newcastle R8           | 10 Arthur Francis    |   6.5  |    -10   |  -5442.2 |
-| 16:50             | 2021-09-18 | caulfield R8           | 15 Regardsmaree      |  34    |    -10   |  -5432.2 |
-| 16:50             | 2021-09-18 | caulfield R8           | 14 Dice Roll         |  23    |    -10   |  -5422.2 |
-| 16:35             | 2021-09-18 | randwick R9            | 15 Entente           |  23    |    -10   |  -5412.2 |
-| 16:15             | 2021-09-18 | caulfield R7           | 12 Grand Promenade   |  10    |    -10   |  -5402.2 |
-| 16:15             | 2021-09-18 | caulfield R7           | 5 Knights Order      |  23    |    -10   |  -5392.2 |
-| 16:07             | 2021-09-18 | gold-coast R8          | 4 Bohemian Boom      |  20    |    -10   |  -5382.2 |
-| 15:55             | 2021-09-18 | randwick R8            | 7 Lost And Running   |  10    |    -10   |  -5372.2 |
-| 15:55             | 2021-09-18 | randwick R8            | 5 Rothfire           |   6    |    -10   |  -5362.2 |
-| 15:45             | 2021-09-18 | alice-springs R2       | 6 Policy             |   4    |    -10   |  -5352.2 |
-| 15:27             | 2021-09-18 | gold-coast R7          | 10 Scottish Mist     |  31    |    -10   |  -5342.2 |
-| 15:15             | 2021-09-18 | randwick R7            | 8 Shout The Bar      |  51    |    -10   |  -5332.2 |
-| 15:09             | 2021-09-18 | alice-springs R1       | 5 Roppongi           |   2.8  |    -10   |  -5322.2 |
-| 14:55             | 2021-09-18 | caulfield R5           | 7 Fake Love          |   6    |    -10   |  -5312.2 |
-| 14:48             | 2021-09-18 | riccarton-park R9      | 5 Southern Ocean     |   6.5  |    -10   |  -5302.2 |
-| 14:48             | 2021-09-18 | riccarton-park R9      | 2 Beached As Bro     |  11    |    -10   |  -5292.2 |
-| 14:48             | 2021-09-18 | gold-coast R6          | 2 Weona Smartone     |   1.45 |    -10   |  -5282.2 |
-| 14:25             | 2021-09-18 | dalby R6               | 1 Phionaix           |   2.5  |    -10   |  -5272.2 |
-| 14:08             | 2021-09-18 | gold-coast R5          | 13 Aswaat            |   3.4  |    -10   |  -5262.2 |
-| 13:48             | 2021-09-18 | dalby R5               | 4 Harbour Trick      |   6    |    -10   |  -5252.2 |
-| 13:33             | 2021-09-18 | riccarton-park R7      | 7 Scarfi             |  16    |    -10   |  -5242.2 |
-| 13:33             | 2021-09-18 | gold-coast R4          | 9 Boblee             |  13    |    -10   |  -5232.2 |
-| 13:33             | 2021-09-18 | gold-coast R4          | 4 King Klaus         |  11    |    -10   |  -5222.2 |
-| 13:05             | 2021-09-18 | caulfield R2           | 5 Wisdom Of Water    |   3.9  |    -10   |  -5212.2 |
-| 12:58             | 2021-09-18 | riccarton-park R6      | 3 Rockland           |   3.7  |    -10   |  -5202.2 |
-| 12:50             | 2021-09-18 | randwick R3            | 9 Big Surprise       |   5    |    -10   |  -5192.2 |
-| 12:30             | 2021-09-18 | caulfield R1           | 3 Faretti            |  11    |    -10   |  -5182.2 |
-| 12:30             | 2021-09-18 | caulfield R1           | 2 The Gauch          |   4.2  |    -10   |  -5172.2 |
-| 12:22             | 2021-09-18 | gold-coast R2          | 6 Navy Cross         |   6    |    -10   |  -5162.2 |
-| 12:22             | 2021-09-18 | gold-coast R2          | 1 Purrfect Deal      |   3.4  |    -10   |  -5152.2 |
-| 12:15             | 2021-09-18 | randwick R2            | 6 Regal Stage        |  21    |    -10   |  -5142.2 |
-| 12:07             | 2021-09-18 | hastings R5            | 9 Hoodlum            |   7    |    -10   |  -5132.2 |
-| 11:47             | 2021-09-18 | gold-coast R1          | 11 She Can Sing      |   3.1  |    -10   |  -5122.2 |
-| 11:47             | 2021-09-18 | gold-coast R1          | 5 The Big Goodbye    |   6.5  |    -10   |  -5112.2 |
+| 23:50             | 2021-09-18 | newbury R4             | 3 Ilaraab            |   9    |    -10   |  -5532.2 |
+| 23:50             | 2021-09-18 | newbury R4             | 1 Al Aasy            |   1.7  |    -10   |  -5522.2 |
+| 23:15             | 2021-09-18 | newbury R3             | 6 Tis Marvellous     |   4.5  |    -10   |  -5512.2 |
+| 23:15             | 2021-09-18 | newbury R3             | 1 Hurricane Ivor     |   5.5  |    -10   |  -5502.2 |
+| 19:40             | 2021-09-18 | belmont R9             | 6 Boomtastic         |   6.5  |    -10   |  -5492.2 |
+| 18:35             | 2021-09-18 | belmont R7             | 7 Charleton Eddie    |   6    |    -10   |  -5482.2 |
+| 17:35             | 2021-09-18 | alice-springs R5       | 5 Supreme Times      |   2.6  |    -10   |  -5472.2 |
+| 17:20             | 2021-09-18 | belmont R5             | 8 Mr Delegator       |   7    |    -10   |  -5462.2 |
+| 17:15             | 2021-09-18 | randwick R10           | 12 Equation          |   3.3  |    -10   |  -5452.2 |
+| 17:04             | 2021-09-18 | alice-springs R4       | 1 That's Justified   |   2.8  |    -10   |  -5442.2 |
+| 16:55             | 2021-09-18 | newcastle R8           | 10 Arthur Francis    |   6.5  |    -10   |  -5432.2 |
+| 16:50             | 2021-09-18 | caulfield R8           | 15 Regardsmaree      |  34    |    -10   |  -5422.2 |
+| 16:50             | 2021-09-18 | caulfield R8           | 14 Dice Roll         |  23    |    -10   |  -5412.2 |
+| 16:35             | 2021-09-18 | randwick R9            | 15 Entente           |  23    |    -10   |  -5402.2 |
+| 16:15             | 2021-09-18 | caulfield R7           | 12 Grand Promenade   |  10    |    -10   |  -5392.2 |
+| 16:15             | 2021-09-18 | caulfield R7           | 5 Knights Order      |  23    |    -10   |  -5382.2 |
+| 16:07             | 2021-09-18 | gold-coast R8          | 4 Bohemian Boom      |  20    |    -10   |  -5372.2 |
+| 15:55             | 2021-09-18 | randwick R8            | 7 Lost And Running   |  10    |    -10   |  -5362.2 |
+| 15:55             | 2021-09-18 | randwick R8            | 5 Rothfire           |   6    |    -10   |  -5352.2 |
+| 15:45             | 2021-09-18 | alice-springs R2       | 6 Policy             |   4    |    -10   |  -5342.2 |
+| 15:27             | 2021-09-18 | gold-coast R7          | 10 Scottish Mist     |  31    |    -10   |  -5332.2 |
+| 15:15             | 2021-09-18 | randwick R7            | 8 Shout The Bar      |  51    |    -10   |  -5322.2 |
+| 15:09             | 2021-09-18 | alice-springs R1       | 5 Roppongi           |   2.8  |    -10   |  -5312.2 |
+| 14:55             | 2021-09-18 | caulfield R5           | 7 Fake Love          |   6    |    -10   |  -5302.2 |
+| 14:48             | 2021-09-18 | riccarton-park R9      | 5 Southern Ocean     |   6.5  |    -10   |  -5292.2 |
+| 14:48             | 2021-09-18 | riccarton-park R9      | 2 Beached As Bro     |  11    |    -10   |  -5282.2 |
+| 14:48             | 2021-09-18 | gold-coast R6          | 2 Weona Smartone     |   1.45 |    -10   |  -5272.2 |
+| 14:25             | 2021-09-18 | dalby R6               | 1 Phionaix           |   2.5  |    -10   |  -5262.2 |
+| 14:08             | 2021-09-18 | gold-coast R5          | 13 Aswaat            |   3.4  |    -10   |  -5252.2 |
+| 13:48             | 2021-09-18 | dalby R5               | 4 Harbour Trick      |   6    |    -10   |  -5242.2 |
+| 13:33             | 2021-09-18 | riccarton-park R7      | 7 Scarfi             |  16    |    -10   |  -5232.2 |
+| 13:33             | 2021-09-18 | gold-coast R4          | 9 Boblee             |  13    |    -10   |  -5222.2 |
+| 13:33             | 2021-09-18 | gold-coast R4          | 4 King Klaus         |  11    |    -10   |  -5212.2 |
+| 13:05             | 2021-09-18 | caulfield R2           | 5 Wisdom Of Water    |   3.9  |    -10   |  -5202.2 |
+| 12:58             | 2021-09-18 | riccarton-park R6      | 3 Rockland           |   3.7  |    -10   |  -5192.2 |
+| 12:50             | 2021-09-18 | randwick R3            | 9 Big Surprise       |   5    |    -10   |  -5182.2 |
+| 12:30             | 2021-09-18 | caulfield R1           | 3 Faretti            |  11    |    -10   |  -5172.2 |
+| 12:30             | 2021-09-18 | caulfield R1           | 2 The Gauch          |   4.2  |    -10   |  -5162.2 |
+| 12:22             | 2021-09-18 | gold-coast R2          | 6 Navy Cross         |   6    |    -10   |  -5152.2 |
+| 12:22             | 2021-09-18 | gold-coast R2          | 1 Purrfect Deal      |   3.4  |    -10   |  -5142.2 |
+| 12:15             | 2021-09-18 | randwick R2            | 6 Regal Stage        |  21    |    -10   |  -5132.2 |
+| 12:07             | 2021-09-18 | hastings R5            | 9 Hoodlum            |   7    |    -10   |  -5122.2 |
+| 11:47             | 2021-09-18 | gold-coast R1          | 11 She Can Sing      |   3.1  |    -10   |  -5112.2 |
+| 11:47             | 2021-09-18 | gold-coast R1          | 5 The Big Goodbye    |   6.5  |    -10   |  -5102.2 |
+| 99                | 2021-09-17 | ayr R4                 | 13 Tenaya Canyon     |  11    |    -10   |  -5102.2 |
+| 99                | 2021-09-17 | ayr R4                 | 11 Operatic          |  15    |    -10   |  -5092.2 |
 | 6                 | 2021-09-17 | eagle-farm R8          | 16 Merseyside        |  12    |    -10   |  -5082.2 |
 | 4                 | 2021-09-17 | eagle-farm R8          | 4 Quackery           |   3.4  |    -10   |  -5072.2 |
 | 8                 | 2021-09-17 | newcastle R6           | 11 The Closer        |  71    |    -10   |  -5052.2 |
@@ -116,12 +118,10 @@ categories: shadowchaser
 | :3rd_place_medal: | 2021-09-11 | flemington R6          | 5 Still A Star       |   6    |    -10   |  -4925.2 |
 | :2nd_place_medal: | 2021-09-11 | flemington R6          | 2 Mystic Journey     |  13    |    -10   |  -4915.2 |
 | :3rd_place_medal: | 2021-09-11 | doomben R7             | 8 Big Bad Bruce      |   3.3  |    -10   |  -4905.2 |
-| 6                 | 2021-09-11 | kembla-grange R7       | 12 Discharged        |  19    |    -10   |  -4895.2 |
-| 5                 | 2021-09-11 | flemington R5          | 7 Regardsmaree       |   7.5  |    -10   |  -4885.2 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
-| Friday    |    571 |    119 |     87.4 | 0.21 |  0.02 |
+| Friday    |    573 |    119 |     67.4 | 0.21 |  0.01 |
 | Monday    |    154 |     25 |    102.5 | 0.16 |  0.07 |
 | Saturday  |   2470 |    410 |  -3843.8 | 0.17 | -0.16 |
 | Sunday    |    545 |    106 |   -678.1 | 0.19 | -0.12 |
@@ -216,7 +216,7 @@ categories: shadowchaser
 | 2021-WK34 |     51 |      9 |   -234.5 | 0.18 | -0.46 |
 | 2021-WK35 |     67 |     12 |    -20.5 | 0.18 | -0.03 |
 | 2021-WK36 |     75 |      9 |   -453   | 0.12 | -0.6  |
-| 2021-WK37 |     63 |      5 |   -429   | 0.08 | -0.68 |
+| 2021-WK37 |     65 |      5 |   -449   | 0.08 | -0.69 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -239,7 +239,7 @@ categories: shadowchaser
 | 2021-06 |    188 |     31 |   -399.3 | 0.16 | -0.21 |
 | 2021-07 |    185 |     45 |    -46.5 | 0.24 | -0.03 |
 | 2021-08 |    224 |     37 |   -756.9 | 0.17 | -0.34 |
-| 2021-09 |    201 |     25 |   -879   | 0.12 | -0.44 |
+| 2021-09 |    203 |     25 |   -899   | 0.12 | -0.44 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -411,6 +411,7 @@ categories: shadowchaser
 | wolverhampton              |      1 |      0 |    -10   | 0    | -1    |
 | yarra-valley               |      1 |      0 |    -10   | 0    | -1    |
 | arawa-park                 |      2 |      0 |    -20   | 0    | -1    |
+| ayr                        |      2 |      0 |    -20   | 0    | -1    |
 | broome                     |      2 |      0 |    -20   | 0    | -1    |
 | echuca                     |      2 |      0 |    -20   | 0    | -1    |
 | edenhope                   |      2 |      0 |    -20   | 0    | -1    |
@@ -472,5 +473,5 @@ categories: shadowchaser
 | tasmania                     |    265 |     52 |   -378.7 | 0.2  | -0.14 |
 | new-south-wales              |    749 |    114 |  -1153   | 0.15 | -0.15 |
 | queensland                   |   1565 |    298 |  -2648.6 | 0.19 | -0.17 |
-| united-kingdom               |     68 |     14 |   -181.9 | 0.21 | -0.27 |
+| united-kingdom               |     70 |     14 |   -201.9 | 0.2  | -0.29 |
 | hong-kong                    |     11 |      1 |    -85   | 0.09 | -0.77 |
