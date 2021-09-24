@@ -1,0 +1,21 @@
+#!/bin/bash
+# A simple script
+
+SOURCEDIR=~/iCloud/com~apple~CloudDocs/Documents/bu/Punters/races
+DESTDIR='/Users/wayne/Documents/Projects/docker_apps/mrwayneo/mrwayneo.github.io/.app/csv/puntrz/punters/spreadsheets/'
+CSVFILE='/Users/wayne/Documents/Projects/docker_apps/mrwayneo/mrwayneo.github.io/.app/csv/puntrz/punters/csv_download_list.csv'
+
+TESTFILE='983898.csv'
+
+while IFS=, read -r name code; do
+  # do something... Don't forget to skip the header line!
+  [[ "$name" != "Name" ]] && echo "$name"
+  rsync -avh $SOURCEDIR/$name $DESTDIR
+done < $CSVFILE
+
+#ls $SOURCEDIR
+#rsync -avh $SOURCEDIR/$TESTFILE $DESTDIR
+
+#rsync -avh $SOURCEDIR/index.markdown $DESTDIR
+#rsync -avh $SOURCEDIR/posts $DESTDIR/_posts
+echo "Sync completed."

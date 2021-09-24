@@ -1,26 +1,38 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-09-24 15:47:54 +1000   
+date: 2021-09-25 08:44:27 +1000   
 categories: icyhot   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |      5 |      2 |    -30.5 | 0.4  | -0.61 |
-| This Month     |     62 |     15 |    -72   | 0.24 | -0.12 |
-| This Year      |    762 |    182 |  -1033.1 | 0.24 | -0.14 |
-| Since Feb 2020 |   1750 |    422 |   -926.3 | 0.24 | -0.05 |
+| This Week      |      7 |      2 |    -26   | 0.29 | -0.37 |
+| This Month     |     64 |     15 |    -67.5 | 0.23 | -0.11 |
+| This Year      |    764 |    182 |  -1028.6 | 0.24 | -0.13 |
+| Since Feb 2020 |   1752 |    422 |   -921.8 | 0.24 | -0.05 |
 
 ### Icyhot Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|---------:|
-| 20:15             | 2021-09-24 | moonee-valley R7       | 8 Ballistic Lover    |  11    |    -10   |   -928.8 |
-| 20:15             | 2021-09-24 | moonee-valley R7       | 3 The Inferno        |   4.8  |    -10   |   -918.8 |
-| :boom:            | 2021-09-23 | ipswich R3             | 5 Rich Lister        |   2.45 |    -10   |   -933.3 |
+| 17:30             | 2021-09-25 | belmont R9             | 7 Avalon Bay         |  13    |    -10   |  -1048.8 |
+| 17:00             | 2021-09-25 | toowoomba R8           | 1 Soxagon            |   4.8  |    -10   |  -1038.8 |
+| 16:11             | 2021-09-25 | belmont R7             | 1 Valour Road        |   6.5  |    -10   |  -1028.8 |
+| 14:54             | 2021-09-25 | belmont R5             | 3 Puli               |   8.5  |    -10   |  -1018.8 |
+| 14:52             | 2021-09-25 | longreach R3           | 4 Angels Of Fenway   |   9    |    -10   |  -1008.8 |
+| 14:52             | 2021-09-25 | longreach R3           | 1 Fully Maxed        |   4.6  |    -10   |   -998.8 |
+| 14:43             | 2021-09-25 | morphettville-parks R4 | 2 Hasta La War       |   4    |    -10   |   -988.8 |
+| 13:33             | 2021-09-25 | morphettville-parks R2 | 5 Perfect Route      |   2.15 |    -10   |   -978.8 |
+| 13:20             | 2021-09-25 | sandown-hillside R3    | 4 Jungle Magnate     |   8.5  |    -10   |   -968.8 |
+| 12:38             | 2021-09-25 | toowoomba R1           | 5 Tides Of Jupiter   |  12    |    -10   |   -958.8 |
+| 12:10             | 2021-09-25 | sandown-hillside R1    | 5 Twist Of Fury      |   6.5  |    -10   |   -948.8 |
+| 11:55             | 2021-09-25 | rosehill R1            | 2 Casino Mondial     |   7    |    -10   |   -938.8 |
+| 4                 | 2021-09-24 | moonee-valley R7       | 8 Ballistic Lover    |  11    |    -10   |   -928.8 |
+| :2nd_place_medal: | 2021-09-24 | moonee-valley R7       | 3 The Inferno        |   4.8  |    -10   |   -918.8 |
+| :boom:            | 2021-09-23 | ipswich R3             | 5 Rich Lister        |   2.45 |     14.5 |   -908.8 |
 | 5                 | 2021-09-22 | flemington R7          | 8 Seiners Express    |   8.5  |    -10   |   -923.3 |
 | :boom:            | 2021-09-22 | oakbank R2             | 2 Summer Show        |   1.95 |      9.5 |   -913.3 |
 | 4                 | 2021-09-22 | oakbank R2             | 1 French Rock        |   4.6  |    -10   |   -922.8 |
@@ -106,26 +118,14 @@ categories: icyhot
 | :2nd_place_medal: | 2021-08-27 | gosford R2             | 7 Silver Thorn       |   6    |    -10   |   -897.3 |
 | :2nd_place_medal: | 2021-08-26 | mackay R5              | 2 The Egyptian       |   1.95 |    -10   |   -887.3 |
 | :2nd_place_medal: | 2021-08-25 | sandown-lakeside R7    | 10 Invincible Jet    |   3.2  |    -10   |   -877.3 |
-| :boom:            | 2021-08-24 | ballarat-synthetic R5  | 8 Universal Lady     |   2.25 |     12.5 |   -867.3 |
-| :boom:            | 2021-08-24 | dalby R1               | 1 Patented           |   2.1  |     11   |   -879.8 |
-| :boom:            | 2021-08-21 | newton-abbot R1        | 1 Chez Hans          |   1.16 |      1.6 |   -890.8 |
-| 13                | 2021-08-21 | cairns R8              | 8 Helmaz             |  16    |    -10   |   -892.4 |
-| :3rd_place_medal: | 2021-08-21 | moonee-valley R7       | 10 Starcaster        |  11    |    -10   |   -882.4 |
-| :boom:            | 2021-08-21 | moonee-valley R5       | 1 Smokin' Romans     |   2.8  |     18   |   -872.4 |
-| 7                 | 2021-08-21 | belmont R3             | 2 I'm Pretty         |   4.8  |    -10   |   -890.4 |
-| 4                 | 2021-08-21 | cairns R5              | 9 Canadian Rockies   |   6    |    -10   |   -880.4 |
-| :boom:            | 2021-08-21 | moonee-valley R3       | 3 Corner Pocket      |   2.5  |     15   |   -870.4 |
-| :2nd_place_medal: | 2021-08-21 | eagle-farm R4          | 2 Rock Amore         |   2.6  |    -10   |   -885.4 |
-| 6                 | 2021-08-17 | pakenham-synthetic R8  | 11 Wyld Savanna      |  10    |    -10   |   -875.4 |
-| 5                 | 2021-08-17 | pakenham-synthetic R8  | 4 Bianconi Magic     |   4.8  |    -10   |   -865.4 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
 | Friday    |    244 |     55 |   -348.7 | 0.23 | -0.14 |
 | Monday    |     55 |     16 |     41.5 | 0.29 |  0.08 |
-| Saturday  |    798 |    198 |    351.3 | 0.25 |  0.04 |
+| Saturday  |    810 |    198 |    231.3 | 0.24 |  0.03 |
 | Sunday    |    261 |     61 |   -147.7 | 0.23 | -0.06 |
-| Thursday  |    118 |     21 |   -565.9 | 0.18 | -0.48 |
+| Thursday  |    118 |     21 |   -541.4 | 0.18 | -0.46 |
 | Tuesday   |    110 |     32 |   -106.5 | 0.29 | -0.1  |
 | Wednesday |    166 |     39 |   -170.3 | 0.23 | -0.1  |
 
@@ -217,7 +217,7 @@ categories: icyhot
 | 2021-WK35 |     15 |      6 |     76.5 | 0.4  |  0.51 |
 | 2021-WK36 |     24 |      3 |   -140   | 0.12 | -0.58 |
 | 2021-WK37 |     20 |      5 |     18.5 | 0.25 |  0.09 |
-| 2021-WK38 |      7 |      2 |    -50.5 | 0.29 | -0.72 |
+| 2021-WK38 |     19 |      2 |   -146   | 0.11 | -0.77 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -240,7 +240,7 @@ categories: icyhot
 | 2021-06 |     87 |     19 |   -189.5 | 0.22 | -0.22 |
 | 2021-07 |     77 |     18 |   -212   | 0.23 | -0.28 |
 | 2021-08 |     75 |     18 |   -111.9 | 0.24 | -0.15 |
-| 2021-09 |     64 |     15 |    -92   | 0.23 | -0.14 |
+| 2021-09 |     76 |     15 |   -187.5 | 0.2  | -0.25 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -255,7 +255,6 @@ categories: icyhot
 | penola                     |      6 |      4 |    104.5 | 0.67 |  1.74 |
 | flemington                 |     46 |     14 |    780   | 0.3  |  1.7  |
 | hamilton                   |      1 |      1 |     16   | 1    |  1.6  |
-| longreach                  |      2 |      1 |     31   | 0.5  |  1.55 |
 | moe                        |      3 |      2 |     43   | 0.67 |  1.43 |
 | trentham                   |      3 |      2 |     41.5 | 0.67 |  1.38 |
 | balaklava                  |      6 |      2 |     62   | 0.33 |  1.03 |
@@ -264,11 +263,11 @@ categories: icyhot
 | sandown-lakeside           |     11 |      3 |     94   | 0.27 |  0.85 |
 | coleraine                  |      2 |      1 |     16   | 0.5  |  0.8  |
 | muswellbrook               |     11 |      5 |     84.5 | 0.45 |  0.77 |
-| toowoomba                  |     39 |     12 |    273.6 | 0.31 |  0.7  |
 | oamaru                     |      2 |      1 |     14   | 0.5  |  0.7  |
 | clare                      |      1 |      1 |      6.5 | 1    |  0.65 |
 | gympie                     |      1 |      1 |      6.5 | 1    |  0.65 |
 | yeppoon                    |      5 |      2 |     32   | 0.4  |  0.64 |
+| toowoomba                  |     41 |     12 |    253.6 | 0.29 |  0.62 |
 | northam                    |      8 |      1 |     50   | 0.12 |  0.62 |
 | down-royal                 |      1 |      1 |      5.7 | 1    |  0.57 |
 | ascot                      |     49 |     20 |    258.6 | 0.41 |  0.53 |
@@ -283,22 +282,23 @@ categories: icyhot
 | narromine                  |      4 |      1 |     15   | 0.25 |  0.38 |
 | bendigo                    |     11 |      4 |     30.5 | 0.36 |  0.28 |
 | scone                      |      9 |      4 |     25   | 0.44 |  0.28 |
+| longreach                  |      4 |      1 |     11   | 0.25 |  0.28 |
 | moonee-valley              |     38 |     13 |     91.5 | 0.34 |  0.24 |
-| sandown-hillside           |     16 |      4 |     37   | 0.25 |  0.23 |
 | ballarat-synthetic         |     20 |      8 |     42   | 0.4  |  0.21 |
 | ellerslie                  |      5 |      2 |     10.5 | 0.4  |  0.21 |
 | wingatui                   |      5 |      1 |     10   | 0.2  |  0.2  |
 | port-macquarie             |      9 |      2 |     14   | 0.22 |  0.16 |
 | mackay                     |     57 |     14 |     76   | 0.25 |  0.13 |
+| ipswich                    |     48 |     11 |     55   | 0.23 |  0.11 |
 | morphettville              |     39 |      9 |     39.5 | 0.23 |  0.1  |
 | bordertown                 |      6 |      1 |      6   | 0.17 |  0.1  |
 | esperance-bay              |      5 |      1 |      5   | 0.2  |  0.1  |
-| morphettville-parks        |     42 |     11 |     35.6 | 0.26 |  0.08 |
+| sandown-hillside           |     18 |      4 |     17   | 0.22 |  0.09 |
 | alice-springs              |     33 |     12 |     22.5 | 0.36 |  0.07 |
-| ipswich                    |     48 |     11 |     30.5 | 0.23 |  0.06 |
 | kensington                 |     10 |      2 |      6   | 0.2  |  0.06 |
 | albany                     |     11 |      4 |      6   | 0.36 |  0.05 |
 | albury                     |      4 |      1 |      2   | 0.25 |  0.05 |
+| morphettville-parks        |     44 |     11 |     15.6 | 0.25 |  0.04 |
 | doomben                    |     68 |     19 |     18.5 | 0.28 |  0.03 |
 | darwin                     |     42 |     16 |     13   | 0.38 |  0.03 |
 | hawkesbury                 |      7 |      2 |      2   | 0.29 |  0.03 |
@@ -318,9 +318,9 @@ categories: icyhot
 | ballarat                   |      6 |      2 |    -12.2 | 0.33 | -0.2  |
 | randwick                   |     42 |      8 |    -93.3 | 0.19 | -0.22 |
 | racing.com-park            |     15 |      3 |    -35   | 0.2  | -0.23 |
-| rosehill                   |     34 |      5 |    -82   | 0.15 | -0.24 |
 | rockhampton                |     43 |     11 |   -102   | 0.26 | -0.24 |
 | goulburn                   |      6 |      1 |    -15   | 0.17 | -0.25 |
+| rosehill                   |     35 |      5 |    -92   | 0.14 | -0.26 |
 | kalgoorlie                 |     15 |      2 |    -40   | 0.13 | -0.27 |
 | townsville                 |     40 |     10 |   -111.3 | 0.25 | -0.28 |
 | wagga                      |      3 |      1 |     -9   | 0.33 | -0.3  |
@@ -328,7 +328,7 @@ categories: icyhot
 | sha-tin                    |      9 |      4 |    -29   | 0.44 | -0.32 |
 | cairns                     |     25 |      4 |    -83.5 | 0.16 | -0.33 |
 | eagle-farm                 |     34 |      7 |   -112   | 0.21 | -0.33 |
-| belmont                    |     56 |     11 |   -189.9 | 0.2  | -0.34 |
+| belmont                    |     59 |     11 |   -219.9 | 0.19 | -0.37 |
 | cranbourne                 |     16 |      1 |    -60   | 0.06 | -0.38 |
 | port-augusta               |     11 |      3 |    -44.5 | 0.27 | -0.4  |
 | murray-bdge                |     17 |      3 |    -71.8 | 0.18 | -0.42 |
@@ -426,13 +426,13 @@ categories: icyhot
 | location                     |   runs |   wins |   profit |   sr |   roi |
 |:-----------------------------|-------:|-------:|---------:|-----:|------:|
 | singapore                    |      2 |      1 |      9   | 0.5  |  0.45 |
-| victoria                     |    311 |     83 |    921.1 | 0.27 |  0.3  |
+| victoria                     |    313 |     83 |    901.1 | 0.27 |  0.29 |
 | northern-territory           |     76 |     28 |     25.5 | 0.37 |  0.03 |
-| south-australia              |    153 |     36 |    -32.7 | 0.24 | -0.02 |
-| western-australia            |    198 |     51 |   -135.5 | 0.26 | -0.07 |
-| queensland                   |    537 |    128 |   -377.6 | 0.24 | -0.07 |
+| south-australia              |    155 |     36 |    -52.7 | 0.23 | -0.03 |
+| queensland                   |    541 |    128 |   -393.1 | 0.24 | -0.07 |
+| western-australia            |    201 |     51 |   -165.5 | 0.25 | -0.08 |
 | united-kingdom               |     24 |      6 |    -46.4 | 0.25 | -0.19 |
-| new-south-wales              |    272 |     50 |   -594.3 | 0.18 | -0.22 |
+| new-south-wales              |    273 |     50 |   -604.3 | 0.18 | -0.22 |
 | new-zealand                  |     66 |     14 |   -211.4 | 0.21 | -0.32 |
 | tasmania                     |     83 |     20 |   -279.5 | 0.24 | -0.34 |
 | hong-kong                    |     12 |      4 |    -59   | 0.33 | -0.49 |

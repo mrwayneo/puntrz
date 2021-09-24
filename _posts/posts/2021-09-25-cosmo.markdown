@@ -1,129 +1,129 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-09-24 16:07:19 +1000   
+date: 2021-09-25 08:53:27 +1000   
 categories: cosmo   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |     29 |      0 |     -290 | 0    | -1    |
-| This Month     |    330 |     19 |       60 | 0.06 |  0.02 |
-| This Year      |   3818 |    207 |      321 | 0.05 |  0.01 |
-| Since Feb 2020 |   9738 |    562 |     8463 | 0.06 |  0.09 |
+| This Week      |     52 |      2 |     -520 | 0.04 | -1    |
+| This Month     |    353 |     21 |     -170 | 0.06 | -0.05 |
+| This Year      |   3841 |    209 |       91 | 0.05 |  0    |
+| Since Feb 2020 |   9761 |    564 |     8233 | 0.06 |  0.08 |
 
 ### Cosmo Last 100  
 #### Running profit since Feb 2020  
 
-| finish            | date       | event              | runner               |   odds |   return |   profit |
-|:------------------|:-----------|:-------------------|:---------------------|-------:|---------:|---------:|
-| 23:25             | 2021-09-24 | newmarket R3       | 9 Pennymoor          |     26 |      -10 |     8023 |
-| 23:10             | 2021-09-24 | listowel R2        | 13 Dysart Diamond    |     11 |      -10 |     8033 |
-| 23:10             | 2021-09-24 | listowel R2        | 10 Eskylane          |     11 |      -10 |     8043 |
-| 23:10             | 2021-09-24 | listowel R2        | 6 Magic Tricks       |     11 |      -10 |     8053 |
-| 23:10             | 2021-09-24 | listowel R2        | 3 Annexation         |     31 |      -10 |     8063 |
-| 22:50             | 2021-09-24 | newmarket R2       | 11 Ready To Venture  |     15 |      -10 |     8073 |
-| 22:50             | 2021-09-24 | newmarket R2       | 5 Lalania            |     34 |      -10 |     8083 |
-| 22:50             | 2021-09-24 | newmarket R2       | 1 Declared Interest  |     13 |      -10 |     8093 |
-| 21:00             | 2021-09-24 | sunshine-coast R7  | 17 Fend Off          |     41 |      -10 |     8103 |
-| 21:00             | 2021-09-24 | sunshine-coast R7  | 4 Redstone           |     21 |      -10 |     8113 |
-| 20:30             | 2021-09-24 | sunshine-coast R6  | 7 Lucky Enuff        |     14 |      -10 |     8123 |
-| 20:15             | 2021-09-24 | moonee-valley R7   | 10 Shaquero          |     27 |      -10 |     8133 |
-| 20:00             | 2021-09-24 | sunshine-coast R5  | 10 Kakatiya          |     31 |      -10 |     8143 |
-| 19:45             | 2021-09-24 | moonee-valley R6   | 5 Al Galayel         |     15 |      -10 |     8153 |
-| 19:15             | 2021-09-24 | moonee-valley R5   | 10 Aquagirl          |     17 |      -10 |     8163 |
-| 19:15             | 2021-09-24 | moonee-valley R5   | 9 Meteorite          |     12 |      -10 |     8173 |
-| 16:30             | 2021-09-24 | scone R7           | 9 Nowyunomi          |     12 |      -10 |     8183 |
-| 16:20             | 2021-09-24 | coleraine R7       | 7 Diplomac Jack      |     16 |      -10 |     8193 |
-| 15:50             | 2021-09-24 | scone R6           | 12 Spritza Seritza   |     10 |      -10 |     8203 |
-| 15:50             | 2021-09-24 | scone R6           | 11 Hollywood Gossip  |     20 |      -10 |     8213 |
-| 15:50             | 2021-09-24 | scone R6           | 2 Gumnuts            |     34 |      -10 |     8223 |
-| 15:20             | 2021-09-24 | benalla R7         | 9 Adventure Trip     |     15 |      -10 |     8233 |
-| 14:10             | 2021-09-24 | benalla R5         | 11 Chocwedge         |     14 |      -10 |     8243 |
-| 13:04             | 2021-09-24 | nowra R1           | 9 Garda Force        |     14 |      -10 |     8253 |
-| 12:50             | 2021-09-24 | scone R1           | 8 Loose Buttons      |     12 |      -10 |     8263 |
-| 9                 | 2021-09-23 | perth R1           | 10 Pegs Theatre      |     51 |      -10 |     8273 |
-| 4                 | 2021-09-23 | hawkesbury R8      | 4 Celer              |     11 |      -10 |     8283 |
-| 10                | 2021-09-23 | hawkesbury R7      | 6 Diamondesque       |     15 |      -10 |     8293 |
-| 5                 | 2021-09-23 | ipswich R7         | 8 Queenofmainstreet  |     21 |      -10 |     8303 |
-| 11                | 2021-09-23 | cranbourne R7      | 15 Windstream        |     41 |      -10 |     8313 |
-| 6                 | 2021-09-23 | hawkesbury R1      | 6 Deel Street        |     16 |      -10 |     8323 |
-| 98                | 2021-09-22 | goodwood R3        | 6 Delagate This Lord |     11 |      -10 |     8333 |
-| 5                 | 2021-09-22 | flemington R8      | 12 Moeen             |     21 |      -10 |     8343 |
-| 8                 | 2021-09-22 | flemington R8      | 4 Saccharo           |     13 |      -10 |     8353 |
-| 5                 | 2021-09-22 | gosford R7         | 13 Blue Missile      |     31 |      -10 |     8363 |
-| 7                 | 2021-09-22 | gosford R7         | 8 Harlem Blues       |     34 |      -10 |     8373 |
-| 9                 | 2021-09-22 | flemington R7      | 10 Air Defence       |     34 |      -10 |     8383 |
-| 10                | 2021-09-22 | flemington R7      | 2 Just Benjamin      |     31 |      -10 |     8393 |
-| 6                 | 2021-09-22 | gosford R6         | 10 Diva Bella        |     26 |      -10 |     8403 |
-| 5                 | 2021-09-22 | gosford R6         | 4 Escape Artist      |     17 |      -10 |     8413 |
-| 4                 | 2021-09-22 | flemington R5      | 6 Morrissette        |     23 |      -10 |     8423 |
-| 5                 | 2021-09-22 | flemington R5      | 5 Game Legend        |     23 |      -10 |     8433 |
-| 10                | 2021-09-22 | flemington R4      | 10 Quiet Lucky       |     67 |      -10 |     8443 |
-| :2nd_place_medal: | 2021-09-22 | flemington R4      | 6 Conceited          |     12 |      -10 |     8453 |
-| 6                 | 2021-09-22 | gosford R3         | 3 Savvy Valentino    |     26 |      -10 |     8463 |
-| 12                | 2021-09-22 | flemington R3      | 3 Journalism         |     12 |      -10 |     8473 |
-| :2nd_place_medal: | 2021-09-22 | gosford R2         | 5 Fifteen Aria       |     10 |      -10 |     8483 |
-| 4                 | 2021-09-22 | oakbank R1         | 8 Red Roof           |     11 |      -10 |     8493 |
-| 4                 | 2021-09-22 | cambridge R3       | 7 Feelin' Fancy      |     13 |      -10 |     8503 |
-| :2nd_place_medal: | 2021-09-21 | wyong R8           | 5 Long Weekend       |     20 |      -10 |     8513 |
-| :3rd_place_medal: | 2021-09-21 | beaudesert R9      | 13 See for Yourself  |     51 |      -10 |     8523 |
-| 4                 | 2021-09-21 | beaudesert R8      | 9 Come In Spinner    |     10 |      -10 |     8533 |
-| 4                 | 2021-09-21 | wyong R6           | 6 In Awe Of Me       |     13 |      -10 |     8543 |
-| :2nd_place_medal: | 2021-09-21 | beaudesert R1      | 3 Kessel Run         |     12 |      -10 |     8553 |
-| :2nd_place_medal: | 2021-09-19 | kalgoorlie R8      | 13 Regal City        |     26 |      -10 |     8563 |
-| 10                | 2021-09-19 | kalgoorlie R7      | 7 Cuban Twist        |     10 |      -10 |     8573 |
-| 4                 | 2021-09-19 | kalgoorlie R6      | 11 Turbo Power       |     11 |      -10 |     8583 |
-| 6                 | 2021-09-19 | kalgoorlie R6      | 8 Balladeer          |     15 |      -10 |     8593 |
-| 9                 | 2021-09-19 | ballarat R8        | 8 Smiler Marshall    |     11 |      -10 |     8603 |
-| 14                | 2021-09-19 | sunshine-coast R8  | 13 Stratobel         |     18 |      -10 |     8613 |
-| :3rd_place_medal: | 2021-09-19 | sunshine-coast R8  | 2 Travoli            |     11 |      -10 |     8623 |
-| 4                 | 2021-09-19 | ballarat R7        | 13 Under My Spell    |     19 |      -10 |     8633 |
-| :2nd_place_medal: | 2021-09-19 | ballarat R7        | 3 Adelaide Ace       |     13 |      -10 |     8643 |
-| :boom:            | 2021-09-19 | sunshine-coast R7  | 2 Don't Despair      |     12 |      110 |     8653 |
-| :boom:            | 2021-09-19 | kalgoorlie R3      | 1 Scandolo           |     21 |      200 |     8543 |
-| :2nd_place_medal: | 2021-09-19 | sunshine-coast R5  | 9 Outback Gladiator  |     11 |      -10 |     8343 |
-| 6                 | 2021-09-19 | te-aroha R7        | 9 Divine Dive        |     11 |      -10 |     8353 |
-| 18                | 2021-09-18 | ayr R3             | 2 Total Commitment   |     17 |      -10 |     8363 |
-| :boom:            | 2021-09-18 | newmarket R3       | 7 Sadiqaa            |     15 |      140 |     8373 |
-| 98                | 2021-09-18 | newmarket R3       | 3 Rich Waters        |     10 |      -10 |     8233 |
-| 8                 | 2021-09-18 | belmont R9         | 1 Proconsent         |     19 |      -10 |     8243 |
-| 4                 | 2021-09-18 | belmont R8         | 10 Miss Zedel        |     21 |      -10 |     8253 |
-| 9                 | 2021-09-18 | singapore R11      | 10 So Hi Class       |     34 |      -10 |     8263 |
-| 8                 | 2021-09-18 | belmont R7         | 2 Pym's Royale       |     21 |      -10 |     8273 |
-| :2nd_place_medal: | 2021-09-18 | newcastle R8       | 13 Patrolling        |     15 |      -10 |     8283 |
-| 6                 | 2021-09-18 | newcastle R8       | 8 Previso            |     15 |      -10 |     8293 |
-| 15                | 2021-09-18 | caulfield R8       | 15 Regardsmaree      |     34 |      -10 |     8303 |
-| :2nd_place_medal: | 2021-09-18 | caulfield R8       | 14 Dice Roll         |     23 |      -10 |     8313 |
-| 13                | 2021-09-18 | caulfield R8       | 11 Romancer          |     46 |      -10 |     8323 |
-| 11                | 2021-09-18 | caulfield R8       | 8 Groundswell        |     26 |      -10 |     8333 |
-| :3rd_place_medal: | 2021-09-18 | randwick R9        | 15 Entente           |     23 |      -10 |     8343 |
-| 6                 | 2021-09-18 | morphettville R7   | 8 Rapid Raiser       |     16 |      -10 |     8353 |
-| 6                 | 2021-09-18 | alice-springs R3   | 4 Dreamtime Lady     |     35 |      -10 |     8363 |
-| 4                 | 2021-09-18 | alice-springs R3   | 2 Tallinn            |     16 |      -10 |     8373 |
-| :boom:            | 2021-09-18 | dalby R9           | 7 Gaius Julius       |     19 |      180 |     8383 |
-| :2nd_place_medal: | 2021-09-18 | mackay R6          | 5 Getout of My Neigh |     34 |      -10 |     8203 |
-| 7                 | 2021-09-18 | caulfield R7       | 16 Mosh Music        |    126 |      -10 |     8213 |
-| 14                | 2021-09-18 | caulfield R7       | 14 Realm Of Flowers  |     20 |      -10 |     8223 |
-| 16                | 2021-09-18 | caulfield R7       | 8 Miami Bound        |     67 |      -10 |     8233 |
-| 11                | 2021-09-18 | caulfield R7       | 1 Vow And Declare    |     46 |      -10 |     8243 |
-| 11                | 2021-09-18 | gold-coast R8      | 7 Enrique            |     26 |      -10 |     8253 |
-| 4                 | 2021-09-18 | gold-coast R8      | 3 Mr So And So       |     20 |      -10 |     8263 |
-| 7                 | 2021-09-18 | alice-springs R2   | 3 Like A Heartbeat   |     12 |      -10 |     8273 |
-| 6                 | 2021-09-18 | dalby R8           | 5 Avision            |     23 |      -10 |     8283 |
-| 5                 | 2021-09-18 | gold-coast R7      | 10 Scottish Mist     |     31 |      -10 |     8293 |
-| 8                 | 2021-09-18 | riccarton-park R10 | 15 Zouluminous       |     19 |      -10 |     8303 |
-| 13                | 2021-09-18 | riccarton-park R10 | 6 Leitrim Lad        |     51 |      -10 |     8313 |
-| 7                 | 2021-09-18 | randwick R7        | 8 Shout The Bar      |     51 |      -10 |     8323 |
-| 9                 | 2021-09-18 | randwick R7        | 1 Kolding            |     10 |      -10 |     8333 |
-| 6                 | 2021-09-18 | alice-springs R1   | 2 Toffiato           |     10 |      -10 |     8343 |
+| finish            | date       | event                  | runner               |   odds |   return |   profit |
+|:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|---------:|
+| 23:55             | 2021-09-25 | ripon R2               | 5 Alpine Lady        |     11 |      -10 |     7883 |
+| 23:40             | 2021-09-25 | haydock R4             | 3 Mountain Peak      |     14 |      -10 |     7893 |
+| 23:35             | 2021-09-25 | chester R2             | 1 Lincoln Park       |     11 |      -10 |     7903 |
+| 23:05             | 2021-09-25 | haydock R3             | 6 Latest Generation  |     11 |      -10 |     7913 |
+| 17:30             | 2021-09-25 | belmont R9             | 8 Point Taken        |     11 |      -10 |     7923 |
+| 17:30             | 2021-09-25 | belmont R9             | 2 No Apology         |     14 |      -10 |     7933 |
+| 17:25             | 2021-09-25 | rosehill R10           | 10 Grace And Harmony |     10 |      -10 |     7943 |
+| 17:25             | 2021-09-25 | rosehill R10           | 9 Night Of Power     |     16 |      -10 |     7953 |
+| 17:25             | 2021-09-25 | rosehill R10           | 7 Ventura Ocean      |     14 |      -10 |     7963 |
+| 17:25             | 2021-09-25 | rosehill R10           | 6 Academy            |     16 |      -10 |     7973 |
+| 17:25             | 2021-09-25 | rosehill R10           | 4 All Hallows' Eve   |     12 |      -10 |     7983 |
+| 17:00             | 2021-09-25 | toowoomba R8           | 11 Rhyme Nor Rhythm  |     41 |      -10 |     7993 |
+| 17:00             | 2021-09-25 | toowoomba R8           | 4 Tactical Advantage |     34 |      -10 |     8003 |
+| 16:49             | 2021-09-25 | longreach R6           | 5 Van Winkel         |     18 |      -10 |     8013 |
+| 16:45             | 2021-09-25 | rosehill R9            | 8 Akahata            |     41 |      -10 |     8023 |
+| 16:45             | 2021-09-25 | rosehill R9            | 1 Subterranean       |     11 |      -10 |     8033 |
+| 16:38             | 2021-09-25 | morphettville-parks R7 | 5 Biarchi            |     23 |      -10 |     8043 |
+| 16:38             | 2021-09-25 | morphettville-parks R7 | 3 Mona Dream         |     10 |      -10 |     8053 |
+| 16:25             | 2021-09-25 | sandown-hillside R8    | 8 Hightail           |     10 |      -10 |     8063 |
+| 16:17             | 2021-09-25 | toowoomba R7           | 9 Bering Sea         |     61 |      -10 |     8073 |
+| 16:17             | 2021-09-25 | toowoomba R7           | 5 Stardome           |     18 |      -10 |     8083 |
+| 16:17             | 2021-09-25 | toowoomba R7           | 3 He Runs Away       |     11 |      -10 |     8093 |
+| 15:54             | 2021-09-25 | gold-coast R6          | 7 Black Sea          |     41 |      -10 |     8103 |
+| 15:37             | 2021-09-25 | toowoomba R6           | 11 Factory Warrior   |     21 |      -10 |     8113 |
+| 15:37             | 2021-09-25 | toowoomba R6           | 7 Papa Jo            |     26 |      -10 |     8123 |
+| 15:37             | 2021-09-25 | toowoomba R6           | 2 Snowzone           |     13 |      -10 |     8133 |
+| 15:25             | 2021-09-25 | rosehill R7            | 3 Madam Rouge        |     19 |      -10 |     8143 |
+| 15:05             | 2021-09-25 | sandown-hillside R6    | 6 Wentwood           |     51 |      -10 |     8153 |
+| 15:05             | 2021-09-25 | sandown-hillside R6    | 3 Furrion            |     15 |      -10 |     8163 |
+| 14:58             | 2021-09-25 | toowoomba R5           | 10 Stirling Diva     |    101 |      -10 |     8173 |
+| 14:50             | 2021-09-25 | rosehill R6            | 9 Soldier of Love    |     14 |      -10 |     8183 |
+| 14:50             | 2021-09-25 | rosehill R6            | 3 Archedemus         |     15 |      -10 |     8193 |
+| 14:43             | 2021-09-25 | morphettville-parks R4 | 1 Bertwhistle        |     19 |      -10 |     8203 |
+| 14:23             | 2021-09-25 | awapuni R8             | 10 Mr Fabulous       |     10 |      -10 |     8213 |
+| 14:05             | 2021-09-25 | matamata R7            | 8 Sweet Clementine   |     15 |      -10 |     8223 |
+| 13:55             | 2021-09-25 | sandown-hillside R4    | 9 Queen Of Dubai     |     31 |      -10 |     8233 |
+| 13:48             | 2021-09-25 | awapuni R7             | 10 House Of Cartier  |     19 |      -10 |     8243 |
+| 13:48             | 2021-09-25 | toowoomba R3           | 13 Motomiss          |     14 |      -10 |     8253 |
+| 13:48             | 2021-09-25 | toowoomba R3           | 6 Trengganu          |     13 |      -10 |     8263 |
+| 13:29             | 2021-09-25 | gold-coast R2          | 8 Royal Archer       |     17 |      -10 |     8273 |
+| 12:45             | 2021-09-25 | sandown-hillside R2    | 16 Smart Image       |     23 |      -10 |     8283 |
+| 12:45             | 2021-09-25 | sandown-hillside R2    | 11 Legend Of Zorro   |     20 |      -10 |     8293 |
+| 12:45             | 2021-09-25 | sandown-hillside R2    | 8 Renegade           |     23 |      -10 |     8303 |
+| 12:45             | 2021-09-25 | sandown-hillside R2    | 7 Do You Reckon      |     34 |      -10 |     8313 |
+| 12:45             | 2021-09-25 | sandown-hillside R2    | 5 Embolism           |     13 |      -10 |     8323 |
+| 12:38             | 2021-09-25 | toowoomba R1           | 3 Better Ethics      |     18 |      -10 |     8333 |
+| 12:38             | 2021-09-25 | toowoomba R1           | 1 Brilliant Concept  |     11 |      -10 |     8343 |
+| 98                | 2021-09-24 | newmarket R3           | 9 Pennymoor          |     26 |      -10 |     8023 |
+| :boom:            | 2021-09-24 | listowel R2            | 13 Dysart Diamond    |     11 |      -10 |     8033 |
+| 4                 | 2021-09-24 | listowel R2            | 10 Eskylane          |     11 |      -10 |     8043 |
+| 98                | 2021-09-24 | listowel R2            | 6 Magic Tricks       |     11 |      -10 |     8053 |
+| 98                | 2021-09-24 | listowel R2            | 3 Annexation         |     31 |      -10 |     8063 |
+| 98                | 2021-09-24 | newmarket R2           | 11 Ready To Venture  |     15 |      -10 |     8073 |
+| 98                | 2021-09-24 | newmarket R2           | 5 Lalania            |     34 |      -10 |     8083 |
+| 4                 | 2021-09-24 | newmarket R2           | 1 Declared Interest  |     13 |      -10 |     8093 |
+| 6                 | 2021-09-24 | sunshine-coast R7      | 17 Fend Off          |     41 |      -10 |     8103 |
+| 5                 | 2021-09-24 | sunshine-coast R7      | 4 Redstone           |     21 |      -10 |     8113 |
+| 4                 | 2021-09-24 | sunshine-coast R6      | 7 Lucky Enuff        |     14 |      -10 |     8123 |
+| 5                 | 2021-09-24 | moonee-valley R7       | 10 Shaquero          |     27 |      -10 |     8133 |
+| 8                 | 2021-09-24 | sunshine-coast R5      | 10 Kakatiya          |     31 |      -10 |     8143 |
+| 11                | 2021-09-24 | moonee-valley R6       | 5 Al Galayel         |     15 |      -10 |     8153 |
+| :3rd_place_medal: | 2021-09-24 | moonee-valley R5       | 10 Aquagirl          |     17 |      -10 |     8163 |
+| 5                 | 2021-09-24 | moonee-valley R5       | 9 Meteorite          |     12 |      -10 |     8173 |
+| 5                 | 2021-09-24 | scone R7               | 9 Nowyunomi          |     12 |      -10 |     8183 |
+| :3rd_place_medal: | 2021-09-24 | coleraine R7           | 7 Diplomac Jack      |     16 |      -10 |     8193 |
+| 4                 | 2021-09-24 | scone R6               | 12 Spritza Seritza   |     10 |      -10 |     8203 |
+| :boom:            | 2021-09-24 | scone R6               | 11 Hollywood Gossip  |     20 |      -10 |     8213 |
+| 13                | 2021-09-24 | scone R6               | 2 Gumnuts            |     34 |      -10 |     8223 |
+| 9                 | 2021-09-24 | nowra R1               | 9 Garda Force        |     14 |      -10 |     8253 |
+| 7                 | 2021-09-24 | scone R1               | 8 Loose Buttons      |     12 |      -10 |     8263 |
+| 9                 | 2021-09-23 | perth R1               | 10 Pegs Theatre      |     51 |      -10 |     8273 |
+| 4                 | 2021-09-23 | hawkesbury R8          | 4 Celer              |     11 |      -10 |     8283 |
+| 10                | 2021-09-23 | hawkesbury R7          | 6 Diamondesque       |     15 |      -10 |     8293 |
+| 5                 | 2021-09-23 | ipswich R7             | 8 Queenofmainstreet  |     21 |      -10 |     8303 |
+| 11                | 2021-09-23 | cranbourne R7          | 15 Windstream        |     41 |      -10 |     8313 |
+| 6                 | 2021-09-23 | hawkesbury R1          | 6 Deel Street        |     16 |      -10 |     8323 |
+| 98                | 2021-09-22 | goodwood R3            | 6 Delagate This Lord |     11 |      -10 |     8333 |
+| 5                 | 2021-09-22 | flemington R8          | 12 Moeen             |     21 |      -10 |     8343 |
+| 8                 | 2021-09-22 | flemington R8          | 4 Saccharo           |     13 |      -10 |     8353 |
+| 5                 | 2021-09-22 | gosford R7             | 13 Blue Missile      |     31 |      -10 |     8363 |
+| 7                 | 2021-09-22 | gosford R7             | 8 Harlem Blues       |     34 |      -10 |     8373 |
+| 9                 | 2021-09-22 | flemington R7          | 10 Air Defence       |     34 |      -10 |     8383 |
+| 10                | 2021-09-22 | flemington R7          | 2 Just Benjamin      |     31 |      -10 |     8393 |
+| 6                 | 2021-09-22 | gosford R6             | 10 Diva Bella        |     26 |      -10 |     8403 |
+| 5                 | 2021-09-22 | gosford R6             | 4 Escape Artist      |     17 |      -10 |     8413 |
+| 4                 | 2021-09-22 | flemington R5          | 6 Morrissette        |     23 |      -10 |     8423 |
+| 5                 | 2021-09-22 | flemington R5          | 5 Game Legend        |     23 |      -10 |     8433 |
+| 10                | 2021-09-22 | flemington R4          | 10 Quiet Lucky       |     67 |      -10 |     8443 |
+| :2nd_place_medal: | 2021-09-22 | flemington R4          | 6 Conceited          |     12 |      -10 |     8453 |
+| 6                 | 2021-09-22 | gosford R3             | 3 Savvy Valentino    |     26 |      -10 |     8463 |
+| 12                | 2021-09-22 | flemington R3          | 3 Journalism         |     12 |      -10 |     8473 |
+| :2nd_place_medal: | 2021-09-22 | gosford R2             | 5 Fifteen Aria       |     10 |      -10 |     8483 |
+| 4                 | 2021-09-22 | oakbank R1             | 8 Red Roof           |     11 |      -10 |     8493 |
+| 4                 | 2021-09-22 | cambridge R3           | 7 Feelin' Fancy      |     13 |      -10 |     8503 |
+| :2nd_place_medal: | 2021-09-21 | wyong R8               | 5 Long Weekend       |     20 |      -10 |     8513 |
+| :3rd_place_medal: | 2021-09-21 | beaudesert R9          | 13 See for Yourself  |     51 |      -10 |     8523 |
+| 4                 | 2021-09-21 | beaudesert R8          | 9 Come In Spinner    |     10 |      -10 |     8533 |
+| 4                 | 2021-09-21 | wyong R6               | 6 In Awe Of Me       |     13 |      -10 |     8543 |
+| :2nd_place_medal: | 2021-09-21 | beaudesert R1          | 3 Kessel Run         |     12 |      -10 |     8553 |
+| :2nd_place_medal: | 2021-09-19 | kalgoorlie R8          | 13 Regal City        |     26 |      -10 |     8563 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
-| Friday    |   1186 |     64 |      269 | 0.05 |  0.02 |
+| Friday    |   1184 |     66 |      289 | 0.06 |  0.02 |
 | Monday    |    464 |     34 |     2219 | 0.07 |  0.48 |
-| Saturday  |   4127 |    214 |     1243 | 0.05 |  0.03 |
+| Saturday  |   4174 |    214 |      773 | 0.05 |  0.02 |
 | Sunday    |   1184 |     92 |     4850 | 0.08 |  0.41 |
 | Thursday  |    823 |     44 |      -78 | 0.05 | -0.01 |
 | Tuesday   |    613 |     36 |      543 | 0.06 |  0.09 |
@@ -217,7 +217,7 @@ categories: cosmo
 | 2021-WK35 |    107 |      6 |       90 | 0.06 |  0.08 |
 | 2021-WK36 |    110 |      6 |      -30 | 0.05 | -0.03 |
 | 2021-WK37 |     96 |      7 |      170 | 0.07 |  0.18 |
-| 2021-WK38 |     54 |      0 |     -540 | 0    | -1    |
+| 2021-WK38 |     99 |      2 |     -990 | 0.02 | -1    |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -240,7 +240,7 @@ categories: cosmo
 | 2021-06 |    394 |     21 |     -428 | 0.05 | -0.11 |
 | 2021-07 |    434 |     25 |     -270 | 0.06 | -0.06 |
 | 2021-08 |    417 |     22 |       70 | 0.05 |  0.02 |
-| 2021-09 |    355 |     19 |     -190 | 0.05 | -0.05 |
+| 2021-09 |    400 |     21 |     -640 | 0.05 | -0.16 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -284,9 +284,9 @@ categories: cosmo
 | bendigo                    |     98 |      8 |     1127 | 0.08 |  1.15 |
 | lingfield                  |     16 |      1 |      180 | 0.06 |  1.12 |
 | port-lincoln               |     18 |      2 |      195 | 0.11 |  1.08 |
-| morphettville-parks        |    120 |     10 |     1285 | 0.08 |  1.07 |
 | penola                     |     15 |      2 |      160 | 0.13 |  1.07 |
 | albany                     |     45 |      5 |      464 | 0.11 |  1.03 |
+| morphettville-parks        |    123 |     10 |     1255 | 0.08 |  1.02 |
 | southwell                  |      5 |      1 |       50 | 0.2  |  1    |
 | northam                    |     50 |      6 |      480 | 0.12 |  0.96 |
 | warrnambool                |     66 |      5 |      602 | 0.08 |  0.91 |
@@ -294,9 +294,9 @@ categories: cosmo
 | terang                     |     18 |      3 |      160 | 0.17 |  0.89 |
 | royal-ascot                |     36 |      1 |      310 | 0.03 |  0.86 |
 | roebourne                  |      6 |      1 |       50 | 0.17 |  0.83 |
-| awapuni                    |     26 |      3 |      212 | 0.12 |  0.82 |
 | yarmouth                   |     20 |      2 |      165 | 0.1  |  0.82 |
 | riccarton-park             |     55 |      4 |      380 | 0.07 |  0.69 |
+| awapuni                    |     28 |      3 |      192 | 0.11 |  0.69 |
 | singapore                  |     50 |      3 |      340 | 0.06 |  0.68 |
 | trentham                   |     23 |      3 |      150 | 0.13 |  0.65 |
 | canberra                   |     59 |      5 |      364 | 0.08 |  0.62 |
@@ -312,46 +312,46 @@ categories: cosmo
 | esperance-bay              |     20 |      2 |       90 | 0.1  |  0.45 |
 | sapphire-coast             |     23 |      2 |      100 | 0.09 |  0.43 |
 | ballina                    |     10 |      1 |       42 | 0.1  |  0.42 |
-| scone                      |     79 |      6 |      312 | 0.08 |  0.39 |
+| scone                      |     79 |      7 |      312 | 0.09 |  0.39 |
 | wyong                      |     67 |      5 |      260 | 0.07 |  0.39 |
-| longreach                  |      8 |      1 |       30 | 0.12 |  0.38 |
 | flemington                 |    309 |     16 |     1107 | 0.05 |  0.36 |
 | dalby                      |     33 |      3 |      120 | 0.09 |  0.36 |
+| benalla                    |     18 |      2 |       62 | 0.11 |  0.34 |
 | newbury                    |      9 |      1 |       30 | 0.11 |  0.33 |
 | morphettville              |    213 |      7 |      630 | 0.03 |  0.3  |
 | wellington                 |     21 |      2 |       62 | 0.1  |  0.3  |
 | taree                      |     33 |      3 |       90 | 0.09 |  0.27 |
 | kilmore                    |     15 |      1 |       40 | 0.07 |  0.27 |
 | murray-bdge                |    116 |      8 |      285 | 0.07 |  0.25 |
+| longreach                  |      9 |      1 |       20 | 0.11 |  0.22 |
 | muswellbrook               |     39 |      3 |       82 | 0.08 |  0.21 |
-| benalla                    |     20 |      2 |       42 | 0.1  |  0.21 |
 | randwick                   |    316 |     17 |      638 | 0.05 |  0.2  |
 | gawler                     |     56 |      4 |      112 | 0.07 |  0.2  |
 | gunnedah                   |     10 |      1 |       20 | 0.1  |  0.2  |
-| toowoomba                  |    149 |     10 |      287 | 0.07 |  0.19 |
 | kalgoorlie                 |     91 |      6 |      175 | 0.07 |  0.19 |
 | hawkesbury                 |     86 |      2 |      160 | 0.02 |  0.19 |
 | orange                     |     12 |      1 |       22 | 0.08 |  0.18 |
 | sunshine-coast             |    232 |     17 |      342 | 0.07 |  0.15 |
-| sandown-hillside           |    122 |      7 |      174 | 0.06 |  0.14 |
 | port-macquarie             |     28 |      2 |       40 | 0.07 |  0.14 |
+| toowoomba                  |    162 |     10 |      157 | 0.06 |  0.1  |
 | goulburn                   |     40 |      3 |       42 | 0.08 |  0.1  |
 | beverley                   |     10 |      1 |       10 | 0.1  |  0.1  |
 | darwin                     |    138 |      6 |      120 | 0.04 |  0.09 |
 | moonee-valley              |    112 |      5 |       90 | 0.04 |  0.08 |
 | wanganui                   |     13 |      1 |       10 | 0.08 |  0.08 |
 | ipswich                    |    156 |      9 |      107 | 0.06 |  0.07 |
+| sandown-hillside           |    131 |      7 |       84 | 0.05 |  0.06 |
 | caulfield                  |    248 |     12 |      122 | 0.05 |  0.05 |
 | geelong                    |     98 |      7 |       52 | 0.07 |  0.05 |
 | grafton                    |     66 |      5 |       32 | 0.08 |  0.05 |
 | canterbury                 |    100 |      6 |       42 | 0.06 |  0.04 |
-| haydock                    |     20 |      1 |        0 | 0.05 |  0    |
 | sandown                    |     17 |      1 |        0 | 0.06 |  0    |
 | gosford                    |     81 |      6 |       -8 | 0.07 | -0.01 |
-| rosehill                   |    285 |     16 |      -98 | 0.06 | -0.03 |
 | beaudesert                 |     17 |      1 |       -8 | 0.06 | -0.05 |
 | goodwood                   |     38 |      2 |      -20 | 0.05 | -0.05 |
 | kembla-grange              |    138 |      8 |      -80 | 0.06 | -0.06 |
+| rosehill                   |    295 |     16 |     -198 | 0.05 | -0.07 |
+| haydock                    |     22 |      1 |      -20 | 0.05 | -0.09 |
 | pukekura-raceway           |     21 |      1 |      -20 | 0.05 | -0.1  |
 | swan-hill                  |     38 |      3 |      -50 | 0.08 | -0.13 |
 | eagle-farm                 |    274 |     13 |     -374 | 0.05 | -0.14 |
@@ -361,7 +361,7 @@ categories: cosmo
 | doomben                    |    381 |     16 |     -724 | 0.04 | -0.19 |
 | nowra                      |     18 |      1 |      -38 | 0.06 | -0.21 |
 | kyneton                    |     19 |      1 |      -40 | 0.05 | -0.21 |
-| matamata                   |     34 |      2 |      -70 | 0.06 | -0.21 |
+| matamata                   |     35 |      2 |      -80 | 0.06 | -0.23 |
 | cranbourne                 |     71 |      4 |     -166 | 0.06 | -0.23 |
 | wimmera%40warracknabeal    |     17 |      1 |      -40 | 0.06 | -0.24 |
 | kilcoy                     |     15 |      1 |      -38 | 0.07 | -0.25 |
@@ -380,8 +380,8 @@ categories: cosmo
 | townsville                 |    203 |      7 |     -785 | 0.03 | -0.39 |
 | spendthrift-australia-park |     17 |      1 |      -70 | 0.06 | -0.41 |
 | ascot                      |    202 |      6 |     -894 | 0.03 | -0.44 |
-| gold-coast                 |    256 |      7 |    -1248 | 0.03 | -0.49 |
-| belmont                    |    206 |      8 |    -1026 | 0.04 | -0.5  |
+| gold-coast                 |    258 |      7 |    -1268 | 0.03 | -0.49 |
+| belmont                    |    208 |      8 |    -1046 | 0.04 | -0.5  |
 | coffs-harbour              |     42 |      2 |     -218 | 0.05 | -0.52 |
 | kensington                 |    149 |      6 |     -770 | 0.04 | -0.52 |
 | newcastle                  |    188 |      6 |     -978 | 0.03 | -0.52 |
@@ -472,13 +472,12 @@ categories: cosmo
 | gore                       |      5 |      0 |      -50 | 0    | -1    |
 | katherine                  |      5 |      0 |      -50 | 0    | -1    |
 | leeton                     |      5 |      0 |      -50 | 0    | -1    |
-| listowel                   |      5 |      0 |      -50 | 0    | -1    |
+| listowel                   |      5 |      1 |      -50 | 0.2  | -1    |
 | moree                      |      5 |      0 |      -50 | 0    | -1    |
 | narrogin                   |      5 |      0 |      -50 | 0    | -1    |
 | nottingham                 |      5 |      0 |      -50 | 0    | -1    |
 | oakbank                    |      5 |      0 |      -50 | 0    | -1    |
 | port-hedland               |      5 |      0 |      -50 | 0    | -1    |
-| ripon                      |      5 |      0 |      -50 | 0    | -1    |
 | thirsk                     |      5 |      0 |      -50 | 0    | -1    |
 | wagga-riverside            |      5 |      0 |      -50 | 0    | -1    |
 | wimmera%40stawell          |      5 |      0 |      -50 | 0    | -1    |
@@ -487,6 +486,7 @@ categories: cosmo
 | forbes                     |      6 |      0 |      -60 | 0    | -1    |
 | narrandera                 |      6 |      0 |      -60 | 0    | -1    |
 | parkes                     |      6 |      0 |      -60 | 0    | -1    |
+| ripon                      |      6 |      0 |      -60 | 0    | -1    |
 | salisbury                  |      6 |      0 |      -60 | 0    | -1    |
 | wolverhampton              |      6 |      0 |      -60 | 0    | -1    |
 | ashburton                  |      7 |      0 |      -70 | 0    | -1    |
@@ -499,8 +499,8 @@ categories: cosmo
 | happy-valley               |      8 |      0 |      -80 | 0    | -1    |
 | port-augusta               |      8 |      0 |      -80 | 0    | -1    |
 | tuncurry                   |      8 |      0 |      -80 | 0    | -1    |
-| chester                    |      9 |      0 |      -90 | 0    | -1    |
 | wodonga                    |      9 |      0 |      -90 | 0    | -1    |
+| chester                    |     10 |      0 |     -100 | 0    | -1    |
 | cowra                      |     10 |      0 |     -100 | 0    | -1    |
 | innisfail                  |     10 |      0 |     -100 | 0    | -1    |
 | leicester                  |     10 |      0 |     -100 | 0    | -1    |
@@ -525,14 +525,14 @@ categories: cosmo
 | hong-kong                    |     22 |      3 |      560 | 0.14 |  2.55 |
 | singapore                    |     50 |      3 |      340 | 0.06 |  0.68 |
 | australian-capital-territory |     59 |      5 |      364 | 0.08 |  0.62 |
-| south-australia              |    620 |     41 |     3119 | 0.07 |  0.5  |
-| new-zealand                  |    475 |     35 |     1330 | 0.07 |  0.28 |
-| victoria                     |   1953 |    122 |     3279 | 0.06 |  0.17 |
+| south-australia              |    623 |     41 |     3089 | 0.07 |  0.5  |
+| new-zealand                  |    478 |     35 |     1300 | 0.07 |  0.27 |
+| victoria                     |   1960 |    122 |     3209 | 0.06 |  0.16 |
 | tasmania                     |    183 |     14 |      269 | 0.08 |  0.15 |
 | south-africa                 |    174 |      9 |      240 | 0.05 |  0.14 |
-| queensland                   |   2239 |    117 |      943 | 0.05 |  0.04 |
-| western-australia            |    837 |     47 |     -164 | 0.06 | -0.02 |
-| united-kingdom               |    424 |     21 |     -175 | 0.05 | -0.04 |
-| new-south-wales              |   2425 |    134 |    -1034 | 0.06 | -0.04 |
+| queensland                   |   2255 |    117 |      783 | 0.05 |  0.03 |
+| western-australia            |    839 |     47 |     -184 | 0.06 | -0.02 |
+| united-kingdom               |    428 |     21 |     -215 | 0.05 | -0.05 |
+| new-south-wales              |   2435 |    135 |    -1134 | 0.06 | -0.05 |
 | northern-territory           |    243 |      9 |     -568 | 0.04 | -0.23 |
-| ireland                      |     59 |      2 |     -290 | 0.03 | -0.49 |
+| ireland                      |     59 |      3 |     -290 | 0.05 | -0.49 |

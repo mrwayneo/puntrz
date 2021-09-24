@@ -1,24 +1,29 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-09-24 15:46:40 +1000   
+date: 2021-09-25 08:43:47 +1000   
 categories: benny   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |      6 |      0 |    -60   | 0    | -1    |
-| This Month     |     61 |     10 |   -211.5 | 0.16 | -0.35 |
-| This Year      |    511 |    118 |    551.1 | 0.23 |  0.11 |
-| Since Feb 2020 |   1300 |    312 |   3999.8 | 0.24 |  0.31 |
+| This Week      |      7 |      0 |    -70   | 0    | -1    |
+| This Month     |     62 |     10 |   -221.5 | 0.16 | -0.36 |
+| This Year      |    512 |    118 |    541.1 | 0.23 |  0.11 |
+| Since Feb 2020 |   1301 |    312 |   3989.8 | 0.24 |  0.31 |
 
 ### Benny Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner                |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|---------:|
-| 20:15             | 2021-09-24 | moonee-valley R7       | 3 The Inferno         |   4.8  |    -10   |   3999.8 |
+| 17:25             | 2021-09-25 | rosehill R10           | 5 Kiku                |   4.2  |    -10   |   3949.8 |
+| 17:00             | 2021-09-25 | toowoomba R8           | 1 Soxagon             |   4.8  |    -10   |   3959.8 |
+| 14:54             | 2021-09-25 | belmont R5             | 2 Kissonallforcheeks  |   2.45 |    -10   |   3969.8 |
+| 13:13             | 2021-09-25 | toowoomba R2           | 2 Kubrick             |   6    |    -10   |   3979.8 |
+| 12:38             | 2021-09-25 | toowoomba R1           | 3 Better Ethics       |  18    |    -10   |   3989.8 |
+| :2nd_place_medal: | 2021-09-24 | moonee-valley R7       | 3 The Inferno         |   4.8  |    -10   |   3999.8 |
 | :3rd_place_medal: | 2021-09-22 | goodwood R2            | 3 Kettle Hill         |   3.3  |    -10   |   4009.8 |
 | 4                 | 2021-09-22 | gosford R5             | 5 Mightybeel          |   6.5  |    -10   |   4019.8 |
 | :2nd_place_medal: | 2021-09-22 | gosford R5             | 1 Jazzland            |   9    |    -10   |   4029.8 |
@@ -113,17 +118,12 @@ categories: benny
 | 4                 | 2021-08-14 | belmont R4             | 3 Nobel Laurence      |   1.9  |    -10   |   4329.3 |
 | :2nd_place_medal: | 2021-08-14 | kembla-grange R7       | 2 Gaulois             |   6    |    -10   |   4339.3 |
 | 4                 | 2021-08-14 | gold-coast R5          | 3 Invincore           |   3    |    -10   |   4349.3 |
-| 14                | 2021-08-14 | kembla-grange R6       | 9 Accountability      |  12    |    -10   |   4359.3 |
-| 6                 | 2021-08-14 | eagle-farm R4          | 4 Prometheus          |  17    |    -10   |   4369.3 |
-| :boom:            | 2021-08-12 | salisbury R4           | 6 Silent Flame        |   8.5  |     75   |   4379.3 |
-| :3rd_place_medal: | 2021-08-12 | mount-isa R5           | 1 Tango Rain          |   1.24 |    -10   |   4304.3 |
-| :3rd_place_medal: | 2021-08-11 | riccarton-park R10     | 7 Miss Tavi           |   3.3  |    -10   |   4314.3 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
 | Friday    |    145 |     33 |   1833.5 | 0.23 |  1.26 |
 | Monday    |     39 |      8 |    458.5 | 0.21 |  1.18 |
-| Saturday  |    648 |    137 |    633   | 0.21 |  0.1  |
+| Saturday  |    653 |    137 |    583   | 0.21 |  0.09 |
 | Sunday    |    151 |     49 |    551.2 | 0.32 |  0.37 |
 | Thursday  |     81 |     22 |    341   | 0.27 |  0.42 |
 | Tuesday   |     82 |     23 |    132.5 | 0.28 |  0.16 |
@@ -217,7 +217,7 @@ categories: benny
 | 2021-WK35 |     17 |      2 |   -109   | 0.12 | -0.64 |
 | 2021-WK36 |     26 |      5 |     -7.5 | 0.19 | -0.03 |
 | 2021-WK37 |     12 |      3 |    -35   | 0.25 | -0.29 |
-| 2021-WK38 |      7 |      0 |    -70   | 0    | -1    |
+| 2021-WK38 |     12 |      0 |   -120   | 0    | -1    |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -240,7 +240,7 @@ categories: benny
 | 2021-06 |     48 |     13 |    602.5 | 0.27 |  1.26 |
 | 2021-07 |     47 |     16 |    242.5 | 0.34 |  0.52 |
 | 2021-08 |     64 |     12 |    -96.5 | 0.19 | -0.15 |
-| 2021-09 |     62 |     10 |   -221.5 | 0.16 | -0.36 |
+| 2021-09 |     67 |     10 |   -271.5 | 0.15 | -0.41 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -275,8 +275,8 @@ categories: benny
 | mount-barker               |      2 |      1 |     16   | 0.5  |  0.8  |
 | launceston                 |     25 |     10 |    194.4 | 0.4  |  0.78 |
 | kensington                 |     14 |      5 |     97.5 | 0.36 |  0.7  |
-| rosehill                   |     25 |      5 |    160   | 0.2  |  0.64 |
 | hobart                     |     18 |     10 |    107   | 0.56 |  0.59 |
+| rosehill                   |     26 |      5 |    150   | 0.19 |  0.58 |
 | ballarat-synthetic         |      6 |      3 |     31   | 0.5  |  0.52 |
 | rockhampton                |     35 |     10 |    165.5 | 0.29 |  0.47 |
 | northam                    |      7 |      2 |     29   | 0.29 |  0.41 |
@@ -291,13 +291,13 @@ categories: benny
 | warwick-farm               |     14 |      3 |     16   | 0.21 |  0.11 |
 | taree                      |      6 |      2 |      6   | 0.33 |  0.1  |
 | yeppoon                    |      4 |      1 |      4   | 0.25 |  0.1  |
-| toowoomba                  |     26 |      8 |     22.5 | 0.31 |  0.09 |
 | morphettville              |     44 |     11 |     11.1 | 0.25 |  0.03 |
 | murray-bdge                |     14 |      3 |      4   | 0.21 |  0.03 |
 | canterbury                 |      8 |      2 |      2   | 0.25 |  0.02 |
 | port-macquarie             |      2 |      1 |      0.5 | 0.5  |  0.02 |
 | muswellbrook               |      4 |      1 |     -1   | 0.25 | -0.02 |
 | canberra                   |     11 |      3 |     -3.5 | 0.27 | -0.03 |
+| toowoomba                  |     29 |      8 |     -7.5 | 0.28 | -0.03 |
 | pakenham-synthetic         |      2 |      1 |     -1   | 0.5  | -0.05 |
 | sandown-lakeside           |      4 |      2 |     -2   | 0.5  | -0.05 |
 | devonport-synthetic        |     26 |      5 |    -14.5 | 0.19 | -0.06 |
@@ -311,8 +311,8 @@ categories: benny
 | townsville                 |     24 |      5 |    -44.5 | 0.21 | -0.19 |
 | doomben                    |     78 |     17 |   -152.1 | 0.22 | -0.19 |
 | geelong                    |      5 |      1 |    -10   | 0.2  | -0.2  |
-| belmont                    |     37 |     11 |    -77.1 | 0.3  | -0.21 |
 | ascot                      |     38 |      9 |    -79   | 0.24 | -0.21 |
+| belmont                    |     38 |     11 |    -87.1 | 0.29 | -0.23 |
 | warrnambool                |      6 |      2 |    -15.5 | 0.33 | -0.26 |
 | bunbury                    |      9 |      2 |    -23   | 0.22 | -0.26 |
 | ipswich                    |     23 |      6 |    -64.5 | 0.26 | -0.28 |
@@ -388,15 +388,15 @@ categories: benny
 | location                     |   runs |   wins |   profit |   sr |   roi |
 |:-----------------------------|-------:|-------:|---------:|-----:|------:|
 | united-kingdom               |     10 |      3 |     75   | 0.3  |  0.75 |
-| queensland                   |    389 |     87 |   1907.3 | 0.22 |  0.49 |
 | northern-territory           |    110 |     29 |    543.5 | 0.26 |  0.49 |
+| queensland                   |    392 |     87 |   1877.3 | 0.22 |  0.48 |
 | tasmania                     |     69 |     25 |    286.9 | 0.36 |  0.42 |
 | victoria                     |    209 |     50 |    762.5 | 0.24 |  0.36 |
 | south-australia              |    110 |     29 |    223.6 | 0.26 |  0.2  |
-| new-south-wales              |    226 |     47 |    353.6 | 0.21 |  0.16 |
+| new-south-wales              |    227 |     47 |    343.6 | 0.21 |  0.15 |
 | new-zealand                  |     26 |      5 |      4.5 | 0.19 |  0.02 |
 | australian-capital-territory |     11 |      3 |     -3.5 | 0.27 | -0.03 |
-| western-australia            |    129 |     31 |   -110.6 | 0.24 | -0.09 |
+| western-australia            |    130 |     31 |   -120.6 | 0.24 | -0.09 |
 | singapore                    |      5 |      2 |     -8   | 0.4  | -0.16 |
 | south-africa                 |      6 |      1 |    -35   | 0.17 | -0.58 |
 | hong-kong                    |      1 |      0 |    -10   | 0    | -1    |

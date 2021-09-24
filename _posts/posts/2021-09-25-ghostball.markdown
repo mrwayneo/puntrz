@@ -1,131 +1,131 @@
 ---   
 layout: post   
 title: "Ghostball"   
-date: 2021-09-24 15:58:25 +1000   
+date: 2021-09-25 08:48:38 +1000   
 categories: ghostball   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |     16 |      4 |    -83   | 0.25 | -0.52 |
-| This Month     |    176 |     74 |    189.7 | 0.42 |  0.11 |
-| This Year      |   2310 |    789 |  -2949.6 | 0.34 | -0.13 |
-| Since Feb 2020 |   5289 |   1836 |  -6598.8 | 0.35 | -0.12 |
+| This Week      |     26 |      9 |   -158.5 | 0.35 | -0.61 |
+| This Month     |    186 |     79 |    114.2 | 0.42 |  0.06 |
+| This Year      |   2320 |    794 |  -3025.1 | 0.34 | -0.13 |
+| Since Feb 2020 |   5299 |   1841 |  -6674.3 | 0.35 | -0.13 |
 
 ### Ghostball Last 100  
 #### Running profit since Feb 2020  
 
-| finish            | date       | event                  | runner               |   odds |   return |   profit |
-|:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|---------:|
-| 23:50             | 2021-09-24 | fairview R7            | 10 Silver Tiara      | nan    |    -10   |  -6946.3 |
-| 23:50             | 2021-09-24 | fairview R7            | 9 Secret Depths      | nan    |    -10   |  -6936.3 |
-| 23:15             | 2021-09-24 | fairview R6            | 8 All The Sevens     | nan    |    -10   |  -6926.3 |
-| 23:15             | 2021-09-24 | fairview R6            | 7 Oscar Wilde        | nan    |    -10   |  -6916.3 |
-| 23:15             | 2021-09-24 | fairview R6            | 4 Carioca            | nan    |    -10   |  -6906.3 |
-| 22:40             | 2021-09-24 | fairview R5            | 13 Chainsaw          | nan    |    -10   |  -6896.3 |
-| 22:40             | 2021-09-24 | fairview R5            | 12 Winter Vacation   | nan    |    -10   |  -6886.3 |
-| 22:40             | 2021-09-24 | fairview R5            | 5 Greenlightflash    | nan    |    -10   |  -6876.3 |
-| 22:15             | 2021-09-24 | newmarket R1           | 2 Spinaround         |   3.3  |    -10   |  -6866.3 |
-| 22:00             | 2021-09-24 | haydock R1             | 2 Lockerbie          |   1.65 |    -10   |  -6856.3 |
-| 21:30             | 2021-09-24 | fairview R3            | 11 Sailaway With Me  | nan    |    -10   |  -6846.3 |
-| 21:30             | 2021-09-24 | fairview R3            | 3 Host Of Angels     | nan    |    -10   |  -6836.3 |
-| 21:30             | 2021-09-24 | fairview R3            | 1 Absolutely Fab     | nan    |    -10   |  -6826.3 |
-| 20:55             | 2021-09-24 | fairview R2            | 7 Stella Act         | nan    |    -10   |  -6816.3 |
-| 20:55             | 2021-09-24 | fairview R2            | 6 Bad Habit          | nan    |    -10   |  -6806.3 |
-| 20:20             | 2021-09-24 | fairview R1            | 10 Royal Countess    | nan    |    -10   |  -6796.3 |
-| 20:20             | 2021-09-24 | fairview R1            | 3 Rugby Path         | nan    |    -10   |  -6786.3 |
-| 20:20             | 2021-09-24 | fairview R1            | 1 Modakhar           | nan    |    -10   |  -6776.3 |
-| 17:00             | 2021-09-24 | coleraine R8           | 2 Terrace House      |   3    |    -10   |  -6766.3 |
-| 16:20             | 2021-09-24 | coleraine R7           | 3 Global Gift        |   2.7  |    -10   |  -6756.3 |
-| 16:13             | 2021-09-24 | ewan R4                | 1 The Tenor          |   2.75 |    -10   |  -6746.3 |
-| 15:24             | 2021-09-24 | nowra R5               | 7 Bahahaa            |   3.3  |    -10   |  -6736.3 |
-| 15:24             | 2021-09-24 | nowra R5               | 1 Police             |   3.2  |    -10   |  -6726.3 |
-| 13:50             | 2021-09-24 | coleraine R3           | 1 A Fighting Fury    |   2.75 |    -10   |  -6716.3 |
-| 13:39             | 2021-09-24 | nowra R2               | 1 Esteemed Lady      |   3.3  |    -10   |  -6706.3 |
-| 13:25             | 2021-09-24 | scone R2               | 9 The Sherpa         |   3.1  |    -10   |  -6696.3 |
-| 13:15             | 2021-09-24 | coleraine R2           | 7 Step Too Far       |   3    |    -10   |  -6686.3 |
-| 13:00             | 2021-09-24 | benalla R3             | 12 Shalaga           |   2.6  |    -10   |  -6676.3 |
-| :3rd_place_medal: | 2021-09-23 | newmarket R1           | 10 Symbol Of Light   |   2.8  |    -10   |  -6770.8 |
-| :2nd_place_medal: | 2021-09-23 | ipswich R6             | 2 Head Up High       |   2.05 |    -10   |  -6680.8 |
-| 4                 | 2021-09-23 | ipswich R4             | 9 Yes Yup Yay        |   2.8  |    -10   |  -6670.8 |
-| 4                 | 2021-09-23 | lismore R4             | 3 Baileys            |   1.9  |    -10   |  -6660.8 |
-| :boom:            | 2021-09-23 | ipswich R3             | 5 Rich Lister        |   2.45 |    -10   |  -6650.8 |
-| :3rd_place_medal: | 2021-09-23 | wanganui R4            | 12 Queen Of Spades   |   2.35 |    -10   |  -6640.8 |
-| 98                | 2021-09-22 | goodwood R1            | 1 Age Of Sail        |   2.35 |    -10   |  -6630.8 |
-| :3rd_place_medal: | 2021-09-22 | belmont R8             | 2 Castillo Del Lago  |   2.9  |    -10   |  -6620.8 |
-| :3rd_place_medal: | 2021-09-22 | oakbank R5             | 4 Pale Ale           |   2.3  |    -10   |  -6610.8 |
-| 5                 | 2021-09-22 | doomben R2             | 2 Kercharmer         |   3.3  |    -10   |  -6600.8 |
-| :3rd_place_medal: | 2021-09-22 | doomben R2             | 1 Jewel Flight       |   2.7  |    -10   |  -6590.8 |
-| :2nd_place_medal: | 2021-09-22 | flemington R2          | 1 Contemporary       |   2.1  |    -10   |  -6580.8 |
-| :boom:            | 2021-09-20 | fairyhouse R1          | 1 Recurrent Dream    |   1.4  |      4   |  -6570.8 |
-| :3rd_place_medal: | 2021-09-20 | hamilton R1            | 6 Espressoo          |   3.3  |    -10   |  -6574.8 |
-| :boom:            | 2021-09-20 | orange R7              | 1 Classy Rebel       |   3.3  |     23   |  -6564.8 |
-| :boom:            | 2021-09-20 | horsham R5             | 2 Black Mirror       |   3    |     20   |  -6587.8 |
-| :3rd_place_medal: | 2021-09-19 | mindarie-halidon R7    | 2 Smart Promise      |   3.25 |    -10   |  -6607.8 |
-| :boom:            | 2021-09-19 | mindarie-halidon R7    | 1 Another Free Glass |   2.7  |     17   |  -6597.8 |
-| :boom:            | 2021-09-19 | kalgoorlie R4          | 6 Regal Dividend     |   3.1  |     21   |  -6614.8 |
-| :2nd_place_medal: | 2021-09-19 | mindarie-halidon R4    | 1 Spanish Heirloom   |   2.25 |    -10   |  -6635.8 |
-| 4                 | 2021-09-19 | sunshine-coast R6      | 1 Explosive Truth    |   2.6  |    -10   |  -6625.8 |
-| :boom:            | 2021-09-19 | devonport-synthetic R5 | 8 Tassie Miss        |   2.9  |     19   |  -6615.8 |
-| :boom:            | 2021-09-19 | sunshine-coast R5      | 1 Way Beyond         |   3    |     20   |  -6634.8 |
-| 5                 | 2021-09-19 | ballarat R4            | 6 Deel Blaster       |   3.2  |    -10   |  -6654.8 |
-| :boom:            | 2021-09-19 | kalgoorlie R1          | 1 American Grin      |   2.5  |     15   |  -6644.8 |
-| 6                 | 2021-09-19 | nowra R4               | 9 Salute To The Sun  |   2.7  |    -10   |  -6659.8 |
-| 9                 | 2021-09-19 | armidale R4            | 2 In Hot Water       |   3.2  |    -10   |  -6649.8 |
-| :2nd_place_medal: | 2021-09-19 | mindarie-halidon R2    | 11 Valaroc           |   2.25 |    -10   |  -6639.8 |
-| :3rd_place_medal: | 2021-09-19 | devonport-synthetic R4 | 5 Lupanar            |   2.9  |    -10   |  -6629.8 |
-| :boom:            | 2021-09-19 | nowra R2               | 1 Believe So         |   2.5  |     15   |  -6619.8 |
-| :boom:            | 2021-09-19 | sunshine-coast R2      | 1 Devastating        |   2.15 |     11.5 |  -6634.8 |
-| :boom:            | 2021-09-19 | ballarat R1            | 1 Growl              |   2    |     10   |  -6646.3 |
-| :2nd_place_medal: | 2021-09-19 | armidale R1            | 7 Gobbled            |   1.45 |    -10   |  -6656.3 |
-| :boom:            | 2021-09-19 | te-aroha R2            | 3 Amazing Az         |   2.5  |     15   |  -6646.3 |
-| :3rd_place_medal: | 2021-09-19 | te-aroha R1            | 2 Our Craftsman      |   2.5  |    -10   |  -6661.3 |
-| :2nd_place_medal: | 2021-09-18 | dalby R10              | 6 Little Jerry       |   1.65 |    -10   |  -6651.3 |
-| 8                 | 2021-09-18 | dalby R9               | 4 Terrajohna         |   2.25 |    -10   |  -6641.3 |
-| :2nd_place_medal: | 2021-09-18 | tatura R4              | 3 Lots Of Attention  |   3.3  |    -10   |  -6631.3 |
-| :boom:            | 2021-09-18 | morphettville R3       | 12 Ballynora         |   2.2  |     12   |  -6621.3 |
-| 4                 | 2021-09-18 | mackay R2              | 8 Once Epona Time    |   1.85 |    -10   |  -6633.3 |
-| 7                 | 2021-09-18 | riccarton-park R5      | 1 Yolo               |   2.7  |    -10   |  -6623.3 |
-| :boom:            | 2021-09-18 | bowraville R1          | 1 Rewarding Trance   |   3    |     20   |  -6613.3 |
-| 7                 | 2021-09-18 | dalby R2               | 1 Tycoon Cruiser     |   2.1  |    -10   |  -6633.3 |
-| :boom:            | 2021-09-17 | newton-abbot R1        | 2 Diligent           |   1.55 |      5.5 |  -6623.3 |
-| :2nd_place_medal: | 2021-09-17 | queanbeyan R6          | 1 Supertanker        |   3    |    -10   |  -6628.8 |
-| :boom:            | 2021-09-17 | newcastle R5           | 3 Dhakuri            |   3    |     20   |  -6618.8 |
-| 6                 | 2021-09-17 | queanbeyan R5          | 1 Jawwaal            |   2.8  |    -10   |  -6638.8 |
-| :boom:            | 2021-09-17 | eagle-farm R4          | 8 Shalaa King        |   3.1  |     21   |  -6628.8 |
-| :boom:            | 2021-09-17 | queanbeyan R3          | 2 Nothing Compares   |   2.7  |     17   |  -6649.8 |
-| :2nd_place_medal: | 2021-09-15 | sandown R3             | 5 Wodeton            |   3.3  |    -10   |  -6666.8 |
-| :boom:            | 2021-09-15 | sandown R3             | 2 Damaar             |   3.3  |     23   |  -6656.8 |
-| :3rd_place_medal: | 2021-09-15 | yarmouth R4            | 2 Cairn Gorm         |   1.85 |    -10   |  -6679.8 |
-| :boom:            | 2021-09-15 | sandown R2             | 5 Goldspur           |   3    |     20   |  -6669.8 |
-| :boom:            | 2021-09-15 | ipswich R1             | 1 Keefy              |   3.3  |     23   |  -6689.8 |
-| :3rd_place_medal: | 2021-09-15 | cambridge R2           | 2 Flag Hunter        |   2.3  |    -10   |  -6712.8 |
-| 98                | 2021-09-14 | yarmouth R2            | 5 Ideal Guest        |   2.9  |    -10   |  -6702.8 |
-| :2nd_place_medal: | 2021-09-14 | wangaratta R7          | 5 Coolshot           |   2.35 |    -10   |  -6692.8 |
-| :3rd_place_medal: | 2021-09-14 | corowa R1              | 6 High Tribute       |   3.3  |    -10   |  -6682.8 |
-| :boom:            | 2021-09-14 | corowa R1              | 3 Mulofdubai         |   3.1  |     21   |  -6672.8 |
-| :boom:            | 2021-09-14 | wangaratta R1          | 4 Titans             |   2.15 |     11.5 |  -6693.8 |
-| 5                 | 2021-09-13 | moe R1                 | 8 Miss Middle Park   |   2.7  |    -10   |  -6705.3 |
-| :2nd_place_medal: | 2021-09-12 | bath R2                | 3 Scampi             |   2.05 |    -10   |  -6695.3 |
-| :2nd_place_medal: | 2021-09-12 | musselburgh R2         | 6 Eligible           |   3.1  |    -10   |  -6685.3 |
-| 98                | 2021-09-12 | chelmsford-city R2     | 6 Golden Claim       |   2.8  |    -10   |  -6675.3 |
-| :2nd_place_medal: | 2021-09-12 | chelmsford-city R1     | 3 Lady Fantasia      |   2.7  |    -10   |  -6665.3 |
-| :3rd_place_medal: | 2021-09-12 | york R8                | 2 All Man            |   2.9  |    -10   |  -6655.3 |
-| :boom:            | 2021-09-12 | devonport-synthetic R8 | 4 Ancona             |   3.2  |     22   |  -6645.3 |
-| :2nd_place_medal: | 2021-09-12 | sunshine-coast R8      | 3 He Knows           |   2.45 |    -10   |  -6667.3 |
-| :boom:            | 2021-09-12 | oakbank R5             | 1 French Rock        |   2.25 |     12.5 |  -6657.3 |
-| :boom:            | 2021-09-12 | york R2                | 3 Quintus            |   3.3  |     23   |  -6669.8 |
-| :2nd_place_medal: | 2021-09-12 | oakbank R4             | 4 Happy Atom         |   3.2  |    -10   |  -6692.8 |
-| :boom:            | 2021-09-12 | sha-tin R2             | 8 Steel Win          |   2.9  |     19   |  -6682.8 |
+| finish            | date       | event          | runner               |   odds |   return |   profit |
+|:------------------|:-----------|:---------------|:---------------------|-------:|---------:|---------:|
+| 23:53             | 2021-09-25 | turffontein R7 | 7 Enjoy The View     | nan    |    -10   |  -7458.8 |
+| 23:53             | 2021-09-25 | turffontein R7 | 3 South East         | nan    |    -10   |  -7448.8 |
+| 23:53             | 2021-09-25 | turffontein R7 | 1 Captain Hindsight  | nan    |    -10   |  -7438.8 |
+| 23:38             | 2021-09-25 | durbanville R5 | 6 Jasmine            | nan    |    -10   |  -7428.8 |
+| 23:38             | 2021-09-25 | durbanville R5 | 2 Walk Of Fame       | nan    |    -10   |  -7418.8 |
+| 23:18             | 2021-09-25 | turffontein R6 | 7 Florida Keys       | nan    |    -10   |  -7408.8 |
+| 22:45             | 2021-09-25 | turffontein R5 | 7 Marchingontogether | nan    |    -10   |  -7398.8 |
+| 22:45             | 2021-09-25 | turffontein R5 | 4 Leopold            | nan    |    -10   |  -7388.8 |
+| 22:45             | 2021-09-25 | turffontein R5 | 2 Green Haze         | nan    |    -10   |  -7378.8 |
+| 21:50             | 2021-09-25 | durbanville R2 | 11 Solar Power       | nan    |    -10   |  -7368.8 |
+| 21:50             | 2021-09-25 | durbanville R2 | 10 Silvano's Dasher  | nan    |    -10   |  -7358.8 |
+| 21:50             | 2021-09-25 | durbanville R2 | 7 Infinite Peace     | nan    |    -10   |  -7348.8 |
+| 21:50             | 2021-09-25 | durbanville R2 | 5 Captain Persia     | nan    |    -10   |  -7338.8 |
+| 21:50             | 2021-09-25 | durbanville R2 | 2 Dragonfly          | nan    |    -10   |  -7328.8 |
+| 21:35             | 2021-09-25 | turffontein R3 | 6 Just As Rich       | nan    |    -10   |  -7318.8 |
+| 21:35             | 2021-09-25 | turffontein R3 | 2 Purple Panther     | nan    |    -10   |  -7308.8 |
+| 21:15             | 2021-09-25 | durbanville R1 | 14 Whoa Whoa Whoa    | nan    |    -10   |  -7298.8 |
+| 21:15             | 2021-09-25 | durbanville R1 | 12 Fly By            | nan    |    -10   |  -7288.8 |
+| 21:15             | 2021-09-25 | durbanville R1 | 5 Rio Supremo        | nan    |    -10   |  -7278.8 |
+| 20:30             | 2021-09-25 | turffontein R1 | 6 Count Pablo        | nan    |    -10   |  -7268.8 |
+| 20:30             | 2021-09-25 | turffontein R1 | 4 Fort Snow          | nan    |    -10   |  -7258.8 |
+| 19:00             | 2021-09-25 | singapore R11  | 13 Arion Passion     | nan    |    -10   |  -7248.8 |
+| 19:00             | 2021-09-25 | singapore R11  | 11 Blitzing          | nan    |    -10   |  -7238.8 |
+| 19:00             | 2021-09-25 | singapore R11  | 10 Charger           | nan    |    -10   |  -7228.8 |
+| 19:00             | 2021-09-25 | singapore R11  | 9 Motakhayyel        | nan    |    -10   |  -7218.8 |
+| 19:00             | 2021-09-25 | singapore R11  | 7 Salamence          | nan    |    -10   |  -7208.8 |
+| 19:00             | 2021-09-25 | singapore R11  | 6 Wecando            | nan    |    -10   |  -7198.8 |
+| 19:00             | 2021-09-25 | singapore R11  | 4 Chicago Star       | nan    |    -10   |  -7188.8 |
+| 18:30             | 2021-09-25 | singapore R10  | 12 Loving Babe       | nan    |    -10   |  -7178.8 |
+| 18:30             | 2021-09-25 | singapore R10  | 11 Inherit           | nan    |    -10   |  -7168.8 |
+| 18:30             | 2021-09-25 | singapore R10  | 10 David's Sling     | nan    |    -10   |  -7158.8 |
+| 18:30             | 2021-09-25 | singapore R10  | 9 Always Innocent    | nan    |    -10   |  -7148.8 |
+| 18:30             | 2021-09-25 | singapore R10  | 7 Beer Garden        | nan    |    -10   |  -7138.8 |
+| 18:30             | 2021-09-25 | singapore R10  | 6 Arion Success      | nan    |    -10   |  -7128.8 |
+| 18:30             | 2021-09-25 | singapore R10  | 3 Headhunter         | nan    |    -10   |  -7118.8 |
+| 18:30             | 2021-09-25 | singapore R10  | 2 Basilisk           | nan    |    -10   |  -7108.8 |
+| 18:00             | 2021-09-25 | singapore R9   | 11 Lim's Craft       | nan    |    -10   |  -7098.8 |
+| 18:00             | 2021-09-25 | singapore R9   | 8 Man Of Mystery     | nan    |    -10   |  -7088.8 |
+| 18:00             | 2021-09-25 | singapore R9   | 6 My Dreamliner      | nan    |    -10   |  -7078.8 |
+| 18:00             | 2021-09-25 | singapore R9   | 4 Cheval Rapide      | nan    |    -10   |  -7068.8 |
+| 18:00             | 2021-09-25 | singapore R9   | 3 Siam Warrior       | nan    |    -10   |  -7058.8 |
+| 17:30             | 2021-09-25 | singapore R8   | 10 Dusseldorf        | nan    |    -10   |  -7048.8 |
+| 17:30             | 2021-09-25 | singapore R8   | 9 Bright Sun         | nan    |    -10   |  -7038.8 |
+| 17:30             | 2021-09-25 | singapore R8   | 5 Retallica          | nan    |    -10   |  -7028.8 |
+| 17:30             | 2021-09-25 | singapore R8   | 1 Magnificent Gold   | nan    |    -10   |  -7018.8 |
+| 16:30             | 2021-09-25 | singapore R6   | 12 Storm To Win      | nan    |    -10   |  -7008.8 |
+| 16:30             | 2021-09-25 | singapore R6   | 10 Marcus Antonius   | nan    |    -10   |  -6998.8 |
+| 16:30             | 2021-09-25 | singapore R6   | 8 Red Riding Wood    | nan    |    -10   |  -6988.8 |
+| 16:30             | 2021-09-25 | singapore R6   | 6 Military Chairman  | nan    |    -10   |  -6978.8 |
+| 16:30             | 2021-09-25 | singapore R6   | 5 Lim's Rhythm       | nan    |    -10   |  -6968.8 |
+| 16:30             | 2021-09-25 | singapore R6   | 3 Endless            | nan    |    -10   |  -6958.8 |
+| 16:30             | 2021-09-25 | singapore R6   | 2 Flying Yellow      | nan    |    -10   |  -6948.8 |
+| 16:30             | 2021-09-25 | singapore R6   | 1 Boy Next Door      | nan    |    -10   |  -6938.8 |
+| 16:00             | 2021-09-25 | singapore R5   | 9 King's Speech      | nan    |    -10   |  -6928.8 |
+| 16:00             | 2021-09-25 | singapore R5   | 7 Star Jack          | nan    |    -10   |  -6918.8 |
+| 16:00             | 2021-09-25 | singapore R5   | 6 Fortune Star       | nan    |    -10   |  -6908.8 |
+| 16:00             | 2021-09-25 | singapore R5   | 5 Split Second       | nan    |    -10   |  -6898.8 |
+| 16:00             | 2021-09-25 | singapore R5   | 3 Buddy Buddy        | nan    |    -10   |  -6888.8 |
+| 16:00             | 2021-09-25 | singapore R5   | 2 Sky Rocket         | nan    |    -10   |  -6878.8 |
+| 16:00             | 2021-09-25 | singapore R5   | 1 Luck Of Master     | nan    |    -10   |  -6868.8 |
+| 15:30             | 2021-09-25 | singapore R4   | 3 Golden Sprint      | nan    |    -10   |  -6858.8 |
+| 15:30             | 2021-09-25 | singapore R4   | 1 Mellad             | nan    |    -10   |  -6848.8 |
+| 15:26             | 2021-09-25 | longreach R4   | 4 Set To Fight       |   2.6  |    -10   |  -6838.8 |
+| 15:00             | 2021-09-25 | singapore R3   | 12 Star Empire       | nan    |    -10   |  -6828.8 |
+| 15:00             | 2021-09-25 | singapore R3   | 10 What You Like     | nan    |    -10   |  -6818.8 |
+| 15:00             | 2021-09-25 | singapore R3   | 8 Boom Shakalaka     | nan    |    -10   |  -6808.8 |
+| 15:00             | 2021-09-25 | singapore R3   | 7 The Brotherhood    | nan    |    -10   |  -6798.8 |
+| 15:00             | 2021-09-25 | singapore R3   | 6 Hotshots Slam      | nan    |    -10   |  -6788.8 |
+| 15:00             | 2021-09-25 | singapore R3   | 5 Crystal Warrior    | nan    |    -10   |  -6778.8 |
+| 15:00             | 2021-09-25 | singapore R3   | 4 Winning Spirit     | nan    |    -10   |  -6768.8 |
+| 15:00             | 2021-09-25 | singapore R3   | 3 Cousteau           | nan    |    -10   |  -6758.8 |
+| 14:35             | 2021-09-25 | goulburn R3    | 3 Fangirl            |   1.4  |    -10   |  -6748.8 |
+| 14:04             | 2021-09-25 | gold-coast R3  | 11 Miss Hustle       |   3    |    -10   |  -6738.8 |
+| 14:00             | 2021-09-25 | singapore R1   | 13 Wind Of Dubai     | nan    |    -10   |  -6728.8 |
+| 14:00             | 2021-09-25 | singapore R1   | 11 Hidden Promise    | nan    |    -10   |  -6718.8 |
+| 14:00             | 2021-09-25 | singapore R1   | 10 Zoffspeed         | nan    |    -10   |  -6708.8 |
+| 14:00             | 2021-09-25 | singapore R1   | 7 Heng Xing          | nan    |    -10   |  -6698.8 |
+| 14:00             | 2021-09-25 | singapore R1   | 6 Qiji Auston        | nan    |    -10   |  -6688.8 |
+| 14:00             | 2021-09-25 | singapore R1   | 5 Per Incrown        | nan    |    -10   |  -6678.8 |
+| 14:00             | 2021-09-25 | singapore R1   | 4 Auspicious Day     | nan    |    -10   |  -6668.8 |
+| 14:00             | 2021-09-25 | singapore R1   | 1 God's Gift         | nan    |    -10   |  -6658.8 |
+| 12:50             | 2021-09-25 | gold-coast R1  | 10 Luvin' Our Grace  |   2.6  |    -10   |  -6648.8 |
+| 11:27             | 2021-09-25 | awapuni R3     | 3 Floral Art         |   3    |    -10   |  -6638.8 |
+| 11:10             | 2021-09-25 | matamata R2    | 4 Pacific Dragon     |   3    |    -10   |  -6628.8 |
+| 10:17             | 2021-09-25 | awapuni R1     | 6 Macushla           |   3.25 |    -10   |  -6618.8 |
+| :boom:            | 2021-09-24 | newmarket R1   | 2 Spinaround         |   3.3  |    -10   |  -6866.3 |
+| 4                 | 2021-09-24 | haydock R1     | 2 Lockerbie          |   1.65 |    -10   |  -6856.3 |
+| :2nd_place_medal: | 2021-09-24 | coleraine R7   | 3 Global Gift        |   2.7  |    -10   |  -6756.3 |
+| :3rd_place_medal: | 2021-09-24 | ewan R4        | 1 The Tenor          |   2.75 |    -10   |  -6746.3 |
+| :boom:            | 2021-09-24 | nowra R5       | 7 Bahahaa            |   3.3  |    -10   |  -6736.3 |
+| :2nd_place_medal: | 2021-09-24 | nowra R5       | 1 Police             |   3.2  |    -10   |  -6726.3 |
+| :boom:            | 2021-09-24 | coleraine R3   | 1 A Fighting Fury    |   2.75 |    -10   |  -6716.3 |
+| :boom:            | 2021-09-24 | nowra R2       | 1 Esteemed Lady      |   3.3  |    -10   |  -6706.3 |
+| :boom:            | 2021-09-24 | scone R2       | 9 The Sherpa         |   3.1  |    -10   |  -6696.3 |
+| :3rd_place_medal: | 2021-09-24 | coleraine R2   | 7 Step Too Far       |   3    |    -10   |  -6686.3 |
+| :3rd_place_medal: | 2021-09-23 | newmarket R1   | 10 Symbol Of Light   |   2.8  |    -10   |  -6666.3 |
+| :2nd_place_medal: | 2021-09-23 | ipswich R6     | 2 Head Up High       |   2.05 |    -10   |  -6656.3 |
+| 4                 | 2021-09-23 | ipswich R4     | 9 Yes Yup Yay        |   2.8  |    -10   |  -6646.3 |
+| 4                 | 2021-09-23 | lismore R4     | 3 Baileys            |   1.9  |    -10   |  -6636.3 |
+| :boom:            | 2021-09-23 | ipswich R3     | 5 Rich Lister        |   2.45 |     14.5 |  -6626.3 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
-| Friday    |    738 |    250 |  -1006.6 | 0.34 | -0.14 |
+| Friday    |    720 |    255 |   -826.6 | 0.35 | -0.11 |
 | Monday    |    451 |    158 |   -582   | 0.35 | -0.13 |
-| Saturday  |   1270 |    435 |  -1673.1 | 0.34 | -0.13 |
+| Saturday  |   1355 |    435 |  -2523.1 | 0.32 | -0.19 |
 | Sunday    |   1011 |    346 |  -1282.8 | 0.34 | -0.13 |
-| Thursday  |    613 |    204 |  -1176.5 | 0.33 | -0.19 |
+| Thursday  |    613 |    204 |  -1152   | 0.33 | -0.19 |
 | Tuesday   |    598 |    195 |  -1081.7 | 0.33 | -0.18 |
 | Wednesday |    636 |    248 |    -76.1 | 0.39 | -0.01 |
 
@@ -217,7 +217,7 @@ categories: ghostball
 | 2021-WK35 |     62 |     24 |      9.5 | 0.39 |  0.02 |
 | 2021-WK36 |     67 |     29 |    112.7 | 0.43 |  0.17 |
 | 2021-WK37 |     45 |     20 |     87.5 | 0.44 |  0.19 |
-| 2021-WK38 |     44 |      4 |   -363   | 0.09 | -0.82 |
+| 2021-WK38 |    111 |      9 |  -1008.5 | 0.08 | -0.91 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -240,7 +240,7 @@ categories: ghostball
 | 2021-06 |    222 |     76 |   -378.2 | 0.34 | -0.17 |
 | 2021-07 |    254 |     83 |   -380   | 0.33 | -0.15 |
 | 2021-08 |    242 |     80 |   -364.7 | 0.33 | -0.15 |
-| 2021-09 |    204 |     74 |    -90.3 | 0.36 | -0.04 |
+| 2021-09 |    271 |     79 |   -735.8 | 0.29 | -0.27 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -279,7 +279,7 @@ categories: ghostball
 | southwell                  |      7 |      4 |     30.2 | 0.57 |  0.43 |
 | york                       |     19 |     10 |     77.7 | 0.53 |  0.41 |
 | alice-springs              |     42 |     21 |    158   | 0.5  |  0.38 |
-| nowra                      |     30 |     16 |    111.5 | 0.53 |  0.37 |
+| nowra                      |     30 |     18 |    111.5 | 0.6  |  0.37 |
 | balaklava                  |     17 |      9 |     59.5 | 0.53 |  0.35 |
 | casterton                  |     12 |      6 |     40.5 | 0.5  |  0.34 |
 | roscommon                  |      4 |      2 |     13.5 | 0.5  |  0.34 |
@@ -294,6 +294,7 @@ categories: ghostball
 | flemington                 |     12 |      6 |     30.6 | 0.5  |  0.26 |
 | wimmera%40warracknabeal    |      8 |      4 |     20.5 | 0.5  |  0.26 |
 | gawler                     |     28 |     14 |     70   | 0.5  |  0.25 |
+| fairview                   |     50 |     24 |    110.5 | 0.48 |  0.22 |
 | arawa-park                 |     10 |      5 |     22   | 0.5  |  0.22 |
 | doomben                    |     45 |     21 |     83.5 | 0.47 |  0.19 |
 | oakbank                    |     20 |      9 |     35   | 0.45 |  0.18 |
@@ -334,7 +335,7 @@ categories: ghostball
 | toowoomba                  |    119 |     50 |     14.3 | 0.42 |  0.01 |
 | sandown-lakeside           |     11 |      4 |      1   | 0.36 |  0.01 |
 | timaru                     |      9 |      3 |      0.5 | 0.33 |  0.01 |
-| awapuni                    |     18 |      7 |      0.5 | 0.39 |  0    |
+| ipswich                    |    103 |     42 |      3.5 | 0.41 |  0    |
 | gatton                     |     36 |     15 |      0.5 | 0.42 |  0    |
 | traralgon                  |      3 |      1 |      0   | 0.33 |  0    |
 | murray-bdge                |     44 |     19 |     -1.5 | 0.43 | -0    |
@@ -347,12 +348,11 @@ categories: ghostball
 | sha-tin                    |     30 |     10 |     -4.5 | 0.33 | -0.02 |
 | vaal                       |     40 |     16 |     -7.1 | 0.4  | -0.02 |
 | geelong                    |     41 |     16 |     -9.5 | 0.39 | -0.02 |
-| ipswich                    |    103 |     42 |    -21   | 0.41 | -0.02 |
 | salisbury                  |      3 |      1 |     -1   | 0.33 | -0.03 |
 | redcar                     |     10 |      4 |     -3   | 0.4  | -0.03 |
 | te-aroha                   |     11 |      4 |     -3   | 0.36 | -0.03 |
 | canterbury                 |     26 |     10 |     -7.3 | 0.38 | -0.03 |
-| scone                      |     32 |     12 |    -10.3 | 0.38 | -0.03 |
+| scone                      |     32 |     13 |    -10.3 | 0.41 | -0.03 |
 | rockhampton                |     58 |     22 |    -18.9 | 0.38 | -0.03 |
 | sandown-hillside           |     19 |      6 |     -7.5 | 0.32 | -0.04 |
 | lingfield                  |     26 |     10 |     -9.2 | 0.38 | -0.04 |
@@ -365,13 +365,13 @@ categories: ghostball
 | cranbourne                 |     31 |     11 |    -25   | 0.35 | -0.08 |
 | devonport-synthetic        |     30 |     10 |    -25   | 0.33 | -0.08 |
 | greyville                  |     41 |     13 |    -31.3 | 0.32 | -0.08 |
-| fairview                   |     66 |     24 |    -49.5 | 0.36 | -0.08 |
 | ascot                      |     66 |     24 |    -56   | 0.36 | -0.08 |
 | avoca                      |      7 |      3 |     -6.5 | 0.43 | -0.09 |
 | kempsey                    |      9 |      3 |     -8   | 0.33 | -0.09 |
 | kilmore                    |     33 |     11 |    -29.5 | 0.33 | -0.09 |
 | nhill                      |      2 |      1 |     -2   | 0.5  | -0.1  |
 | narromine                  |     14 |      5 |    -14.5 | 0.36 | -0.1  |
+| awapuni                    |     20 |      7 |    -19.5 | 0.35 | -0.1  |
 | spendthrift-australia-park |     22 |      7 |    -23.5 | 0.32 | -0.11 |
 | kilcoy                     |     24 |      8 |    -27.3 | 0.33 | -0.11 |
 | pinjarra                   |     54 |     19 |    -59.6 | 0.35 | -0.11 |
@@ -379,18 +379,16 @@ categories: ghostball
 | tauranga                   |     10 |      3 |    -11.5 | 0.3  | -0.12 |
 | wingatui                   |      7 |      2 |     -9   | 0.29 | -0.13 |
 | taree                      |     34 |     13 |    -45.5 | 0.38 | -0.13 |
+| benalla                    |     41 |     13 |    -58   | 0.32 | -0.14 |
 | hawkesbury                 |     53 |     20 |    -71.9 | 0.38 | -0.14 |
 | wellington                 |     15 |      5 |    -22.5 | 0.33 | -0.15 |
 | pukekura-raceway           |     15 |      5 |    -23   | 0.33 | -0.15 |
 | queanbeyan                 |     29 |     10 |    -43   | 0.34 | -0.15 |
 | wagga                      |     31 |     10 |    -46   | 0.32 | -0.15 |
 | ballarat                   |     34 |     12 |    -51.8 | 0.35 | -0.15 |
-| benalla                    |     42 |     13 |    -68   | 0.31 | -0.16 |
-| turffontein                |     43 |     15 |    -68.5 | 0.35 | -0.16 |
 | kerang                     |      3 |      1 |     -5   | 0.33 | -0.17 |
 | canberra                   |     32 |     12 |    -55.5 | 0.38 | -0.17 |
 | geraldton                  |     47 |     16 |    -78   | 0.34 | -0.17 |
-| gold-coast                 |    105 |     35 |   -178.5 | 0.33 | -0.17 |
 | sligo                      |      4 |      1 |     -7   | 0.25 | -0.18 |
 | cork                       |     10 |      4 |    -17.5 | 0.4  | -0.18 |
 | murwillumbah               |     28 |      9 |    -51.5 | 0.32 | -0.18 |
@@ -399,16 +397,16 @@ categories: ghostball
 | moora                      |      4 |      1 |     -7.5 | 0.25 | -0.19 |
 | casino                     |     13 |      5 |    -24.4 | 0.38 | -0.19 |
 | bunbury                    |     36 |     12 |    -68.3 | 0.33 | -0.19 |
+| gold-coast                 |    107 |     35 |   -198.5 | 0.33 | -0.19 |
 | sunshine-coast             |    154 |     51 |   -294   | 0.33 | -0.19 |
 | wolverhampton              |      7 |      2 |    -14   | 0.29 | -0.2  |
 | wanganui                   |     12 |      4 |    -24   | 0.33 | -0.2  |
-| matamata                   |     13 |      5 |    -26   | 0.38 | -0.2  |
 | townsville                 |     50 |     16 |   -102.4 | 0.32 | -0.2  |
 | bellewstown                |      3 |      1 |     -6.3 | 0.33 | -0.21 |
-| goulburn                   |     53 |     18 |   -111.3 | 0.34 | -0.21 |
 | newton-abbot               |      2 |      1 |     -4.5 | 0.5  | -0.22 |
 | moonee-valley              |     22 |      6 |    -49.5 | 0.27 | -0.22 |
 | morphettville-parks        |     25 |      7 |    -55   | 0.28 | -0.22 |
+| goulburn                   |     54 |     18 |   -121.3 | 0.33 | -0.22 |
 | bendigo                    |     39 |     11 |    -91   | 0.28 | -0.23 |
 | te-rapa                    |     16 |      5 |    -38.5 | 0.31 | -0.24 |
 | albany                     |     24 |      7 |    -56.5 | 0.29 | -0.24 |
@@ -416,6 +414,7 @@ categories: ghostball
 | hawera                     |      2 |      1 |     -5   | 0.5  | -0.25 |
 | donald                     |     19 |      5 |    -47   | 0.26 | -0.25 |
 | albury                     |     30 |      9 |    -74.5 | 0.3  | -0.25 |
+| matamata                   |     14 |      5 |    -36   | 0.36 | -0.26 |
 | newcastle                  |    105 |     32 |   -269.2 | 0.3  | -0.26 |
 | market-rasen               |      3 |      1 |     -8   | 0.33 | -0.27 |
 | terang                     |      9 |      3 |    -23.9 | 0.33 | -0.27 |
@@ -435,10 +434,11 @@ categories: ghostball
 | flamingo-park              |      4 |      1 |    -13   | 0.25 | -0.32 |
 | mindarie-halidon           |      4 |      1 |    -13   | 0.25 | -0.32 |
 | woodville                  |      4 |      1 |    -13   | 0.25 | -0.32 |
+| turffontein                |     54 |     15 |   -178.5 | 0.28 | -0.33 |
 | coffs-harbour              |     32 |      9 |   -109   | 0.28 | -0.34 |
 | racing.com-park            |     38 |     10 |   -127.5 | 0.26 | -0.34 |
 | barcaldine                 |      4 |      1 |    -14   | 0.25 | -0.35 |
-| newmarket                  |     23 |      5 |    -83.5 | 0.22 | -0.36 |
+| newmarket                  |     23 |      6 |    -83.5 | 0.26 | -0.36 |
 | bowen                      |      3 |      1 |    -11   | 0.33 | -0.37 |
 | mudgee                     |     11 |      3 |    -41   | 0.27 | -0.37 |
 | randwick                   |     14 |      4 |    -51.3 | 0.29 | -0.37 |
@@ -459,7 +459,6 @@ categories: ghostball
 | yeppoon                    |      8 |      2 |    -35.5 | 0.25 | -0.44 |
 | gunnedah                   |     18 |      4 |    -79   | 0.22 | -0.44 |
 | carnarvon                  |     24 |      5 |   -106.5 | 0.21 | -0.44 |
-| singapore                  |     29 |      7 |   -126.5 | 0.24 | -0.44 |
 | darwin                     |     48 |     11 |   -212.5 | 0.23 | -0.44 |
 | brighton                   |      6 |      1 |    -27   | 0.17 | -0.45 |
 | dalby                      |     26 |      6 |   -115.9 | 0.23 | -0.45 |
@@ -492,10 +491,11 @@ categories: ghostball
 | port-hedland               |      9 |      1 |    -60   | 0.11 | -0.67 |
 | naracoorte                 |     73 |     11 |   -491.7 | 0.15 | -0.67 |
 | dundalk                    |      6 |      1 |    -40.8 | 0.17 | -0.68 |
-| durbanville                |      9 |      1 |    -64   | 0.11 | -0.71 |
 | narrogin                   |     15 |      2 |   -111.5 | 0.13 | -0.74 |
 | pukekohe-park              |     12 |      1 |    -93.5 | 0.08 | -0.78 |
 | pontefract                 |     10 |      1 |    -81.4 | 0.1  | -0.81 |
+| singapore                  |     86 |      7 |   -696.5 | 0.08 | -0.81 |
+| durbanville                |     19 |      1 |   -164   | 0.05 | -0.86 |
 | ascot-park                 |     32 |      1 |   -289.5 | 0.03 | -0.9  |
 | bangor                     |      1 |      0 |    -10   | 0    | -1    |
 | camperdown                 |      1 |      0 |    -10   | 0    | -1    |
@@ -512,6 +512,7 @@ categories: ghostball
 | killarney                  |      1 |      0 |    -10   | 0    | -1    |
 | kumara                     |      1 |      0 |    -10   | 0    | -1    |
 | longford                   |      1 |      0 |    -10   | 0    | -1    |
+| longreach                  |      1 |      0 |    -10   | 0    | -1    |
 | penshurst                  |      1 |      0 |    -10   | 0    | -1    |
 | perth                      |      1 |      0 |    -10   | 0    | -1    |
 | tipperary                  |      1 |      0 |    -10   | 0    | -1    |
@@ -540,23 +541,23 @@ categories: ghostball
 | roebourne                  |      3 |      0 |    -30   | 0    | -1    |
 | cessnock                   |      4 |      0 |    -40   | 0    | -1    |
 | towong                     |      5 |      0 |    -50   | 0    | -1    |
+| coleraine                  |      7 |      1 |    -70   | 0.14 | -1    |
 | haydock                    |      7 |      0 |    -70   | 0    | -1    |
-| coleraine                  |      8 |      0 |    -80   | 0    | -1    |
 | gundagai                   |     10 |      0 |   -100   | 0    | -1    |
 
 | location                     |   runs |   wins |   profit |   sr |   roi |
 |:-----------------------------|-------:|-------:|---------:|-----:|------:|
-| south-africa                 |    230 |     82 |   -165.2 | 0.36 | -0.07 |
 | northern-territory           |     93 |     32 |    -84.5 | 0.34 | -0.09 |
-| victoria                     |    984 |    346 |   -884.6 | 0.35 | -0.09 |
-| queensland                   |    961 |    349 |  -1069.6 | 0.36 | -0.11 |
-| new-south-wales              |   1273 |    448 |  -1576.9 | 0.35 | -0.12 |
+| south-africa                 |    235 |     82 |   -215.2 | 0.35 | -0.09 |
+| victoria                     |    982 |    347 |   -864.6 | 0.35 | -0.09 |
+| queensland                   |    964 |    349 |  -1075.1 | 0.36 | -0.11 |
+| new-south-wales              |   1274 |    451 |  -1586.9 | 0.35 | -0.12 |
 | hong-kong                    |     39 |     12 |    -51   | 0.31 | -0.13 |
 | western-australia            |    516 |    173 |   -734.4 | 0.34 | -0.14 |
 | south-australia              |    396 |    135 |   -592.2 | 0.34 | -0.15 |
 | ireland                      |     87 |     30 |   -143.4 | 0.34 | -0.16 |
-| united-kingdom               |    309 |    102 |   -483.9 | 0.33 | -0.16 |
-| new-zealand                  |    275 |     87 |   -539.6 | 0.32 | -0.2  |
+| united-kingdom               |    309 |    103 |   -483.9 | 0.33 | -0.16 |
+| new-zealand                  |    278 |     87 |   -569.6 | 0.31 | -0.2  |
 | australian-capital-territory |     39 |     13 |    -94.5 | 0.33 | -0.24 |
 | tasmania                     |     86 |     20 |   -332.5 | 0.23 | -0.39 |
-| singapore                    |     29 |      7 |   -126.5 | 0.24 | -0.44 |
+| singapore                    |     86 |      7 |   -696.5 | 0.08 | -0.81 |

@@ -1,31 +1,70 @@
 ---   
 layout: post   
 title: "Shadowchaser"   
-date: 2021-09-24 15:50:10 +1000   
+date: 2021-09-25 08:45:13 +1000   
 categories: shadowchaser   
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| This Week      |     15 |      2 |    -80   | 0.13 | -0.53 |
-| This Month     |    224 |     35 |   -728.5 | 0.16 | -0.33 |
-| This Year      |   2247 |    403 |  -4634.2 | 0.18 | -0.21 |
-| Since Feb 2020 |   4939 |    911 |  -5096.7 | 0.18 | -0.1  |
+| This Week      |     21 |      4 |   -115.5 | 0.19 | -0.55 |
+| This Month     |    230 |     37 |   -764   | 0.16 | -0.33 |
+| This Year      |   2253 |    405 |  -4669.7 | 0.18 | -0.21 |
+| Since Feb 2020 |   4945 |    913 |  -5132.2 | 0.18 | -0.1  |
 
 ### Shadowchaser Last 100  
 #### Running profit since Feb 2020  
 
 | finish            | date       | event                  | runner               |   odds |   return |   profit |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|---------:|
-| 20:15             | 2021-09-24 | moonee-valley R7       | 3 The Inferno        |   4.8  |    -10   |  -5407.2 |
-| 19:45             | 2021-09-24 | moonee-valley R6       | 8 Secret Blaze       |   5    |    -10   |  -5397.2 |
-| 19:15             | 2021-09-24 | moonee-valley R5       | 9 Meteorite          |  12    |    -10   |  -5387.2 |
-| 18:30             | 2021-09-24 | sunshine-coast R2      | 6 Single Memo        |   1.7  |    -10   |  -5377.2 |
-| 17:45             | 2021-09-24 | moonee-valley R2       | 2 Not to Be Mist     |  41    |    -10   |  -5367.2 |
-| 16:40             | 2021-09-24 | benalla R9             | 2 Threeandfourpence  |  10    |    -10   |  -5357.2 |
-| 16:13             | 2021-09-24 | ewan R4                | 2 Tycoon Thunder     |   3.7  |    -10   |  -5347.2 |
-| :boom:            | 2021-09-23 | ipswich R3             | 5 Rich Lister        |   2.45 |    -10   |  -5361.7 |
+| 17:40             | 2021-09-25 | toowoomba R9           | 7 Frozen In Time     |   3.1  |    -10   |  -5710.2 |
+| 17:30             | 2021-09-25 | belmont R9             | 7 Avalon Bay         |  13    |    -10   |  -5700.2 |
+| 17:26             | 2021-09-25 | longreach R7           | 3 Strike Point       |   3.4  |    -10   |  -5690.2 |
+| 17:25             | 2021-09-25 | rosehill R10           | 7 Ventura Ocean      |  14    |    -10   |  -5680.2 |
+| 17:25             | 2021-09-25 | rosehill R10           | 4 All Hallows' Eve   |  12    |    -10   |  -5670.2 |
+| 17:25             | 2021-09-25 | rosehill R10           | 3 Cristal Breeze     |  71    |    -10   |  -5660.2 |
+| 17:18             | 2021-09-25 | morphettville-parks R8 | 2 Alleboom           |   3.4  |    -10   |  -5650.2 |
+| 17:10             | 2021-09-25 | goulburn R7            | 5 Cotehele           |   2.1  |    -10   |  -5640.2 |
+| 17:00             | 2021-09-25 | toowoomba R8           | 6 You Make Me Smile  |   8.5  |    -10   |  -5630.2 |
+| 17:00             | 2021-09-25 | toowoomba R8           | 4 Tactical Advantage |  34    |    -10   |  -5620.2 |
+| 17:00             | 2021-09-25 | toowoomba R8           | 2 Desert Lord        |   5.5  |    -10   |  -5610.2 |
+| 16:54             | 2021-09-25 | belmont R8             | 11 Sugar Cain        |   5.5  |    -10   |  -5600.2 |
+| 16:49             | 2021-09-25 | longreach R6           | 5 Van Winkel         |  18    |    -10   |  -5590.2 |
+| 16:49             | 2021-09-25 | longreach R6           | 3 Burden             |   3.9  |    -10   |  -5580.2 |
+| 16:17             | 2021-09-25 | toowoomba R7           | 1 Dissolution        |  17    |    -10   |  -5570.2 |
+| 16:11             | 2021-09-25 | belmont R7             | 2 Laverrod           |   2.4  |    -10   |  -5560.2 |
+| 16:07             | 2021-09-25 | longreach R5           | 5 Same Old Story     |   3.3  |    -10   |  -5550.2 |
+| 16:05             | 2021-09-25 | rosehill R8            | 13 Startantes        |  19    |    -10   |  -5540.2 |
+| 15:45             | 2021-09-25 | sandown-hillside R7    | 2 Zaaki              |   1.3  |    -10   |  -5530.2 |
+| 15:37             | 2021-09-25 | toowoomba R6           | 2 Snowzone           |  13    |    -10   |  -5520.2 |
+| 15:14             | 2021-09-25 | gold-coast R5          | 7 In Your Element    |  21    |    -10   |  -5510.2 |
+| 15:14             | 2021-09-25 | gold-coast R5          | 1 Sir Gunsen         |   3.4  |    -10   |  -5500.2 |
+| 14:58             | 2021-09-25 | toowoomba R5           | 4 Keefy              |   4.2  |    -10   |  -5490.2 |
+| 14:52             | 2021-09-25 | longreach R3           | 9 Wall Street Tycoon |   5.5  |    -10   |  -5480.2 |
+| 14:52             | 2021-09-25 | longreach R3           | 4 Angels Of Fenway   |   9    |    -10   |  -5470.2 |
+| 14:52             | 2021-09-25 | longreach R3           | 1 Fully Maxed        |   4.6  |    -10   |  -5460.2 |
+| 14:30             | 2021-09-25 | sandown-hillside R5    | 2 Elephant           |   2.5  |    -10   |  -5450.2 |
+| 14:16             | 2021-09-25 | longreach R2           | 4 Coupe de Ville     |   7.5  |    -10   |  -5440.2 |
+| 14:16             | 2021-09-25 | longreach R2           | 3 Zebonet            |   5.5  |    -10   |  -5430.2 |
+| 14:16             | 2021-09-25 | longreach R2           | 1 Yule My Hero       |   2.6  |    -10   |  -5420.2 |
+| 13:48             | 2021-09-25 | awapuni R7             | 8 Crowning Star      |   8    |    -10   |  -5410.2 |
+| 13:41             | 2021-09-25 | longreach R1           | 1 Tower Road         |   3.6  |    -10   |  -5400.2 |
+| 13:40             | 2021-09-25 | rosehill R4            | 1 Taikomochi         |   7.5  |    -10   |  -5390.2 |
+| 13:33             | 2021-09-25 | morphettville-parks R2 | 7 Sign Of Ussuri     |   3.6  |    -10   |  -5380.2 |
+| 13:13             | 2021-09-25 | toowoomba R2           | 7 Predictable Miss   |   9    |    -10   |  -5370.2 |
+| 13:13             | 2021-09-25 | toowoomba R2           | 6 Deep Sceiva        |   3.1  |    -10   |  -5360.2 |
+| 12:45             | 2021-09-25 | sandown-hillside R2    | 10 Frankie Pinot     |  16    |    -10   |  -5350.2 |
+| 12:45             | 2021-09-25 | sandown-hillside R2    | 8 Renegade           |  23    |    -10   |  -5340.2 |
+| 12:38             | 2021-09-25 | toowoomba R1           | 1 Brilliant Concept  |  11    |    -10   |  -5330.2 |
+| 10:17             | 2021-09-25 | awapuni R1             | 6 Macushla           |   3.25 |    -10   |  -5320.2 |
+| :2nd_place_medal: | 2021-09-24 | moonee-valley R7       | 3 The Inferno        |   4.8  |    -10   |  -5407.2 |
+| :boom:            | 2021-09-24 | moonee-valley R6       | 8 Secret Blaze       |   5    |    -10   |  -5397.2 |
+| 5                 | 2021-09-24 | moonee-valley R5       | 9 Meteorite          |  12    |    -10   |  -5387.2 |
+| :2nd_place_medal: | 2021-09-24 | sunshine-coast R2      | 6 Single Memo        |   1.7  |    -10   |  -5377.2 |
+| 4                 | 2021-09-24 | moonee-valley R2       | 2 Not to Be Mist     |  41    |    -10   |  -5367.2 |
+| :boom:            | 2021-09-24 | ewan R4                | 2 Tycoon Thunder     |   3.7  |    -10   |  -5347.2 |
+| :boom:            | 2021-09-23 | ipswich R3             | 5 Rich Lister        |   2.45 |     14.5 |  -5337.2 |
 | 5                 | 2021-09-23 | ipswich R3             | 2 Iamican            |   3.4  |    -10   |  -5351.7 |
 | 4                 | 2021-09-22 | perth R2               | 2 More Buck's        |   4.75 |    -10   |  -5341.7 |
 | :3rd_place_medal: | 2021-09-22 | goodwood R2            | 3 Kettle Hill        |   3.3  |    -10   |  -5331.7 |
@@ -79,53 +118,14 @@ categories: shadowchaser
 | 8                 | 2021-09-18 | dalby R5               | 4 Harbour Trick      |   6    |    -10   |  -5141.2 |
 | 5                 | 2021-09-18 | riccarton-park R7      | 7 Scarfi             |  16    |    -10   |  -5131.2 |
 | 5                 | 2021-09-18 | gold-coast R4          | 9 Boblee             |  13    |    -10   |  -5121.2 |
-| :2nd_place_medal: | 2021-09-18 | gold-coast R4          | 4 King Klaus         |  11    |    -10   |  -5111.2 |
-| 6                 | 2021-09-18 | caulfield R2           | 5 Wisdom Of Water    |   3.9  |    -10   |  -5101.2 |
-| :2nd_place_medal: | 2021-09-18 | riccarton-park R6      | 3 Rockland           |   3.7  |    -10   |  -5091.2 |
-| 5                 | 2021-09-18 | randwick R3            | 9 Big Surprise       |   5    |    -10   |  -5081.2 |
-| 8                 | 2021-09-18 | caulfield R1           | 3 Faretti            |  11    |    -10   |  -5071.2 |
-| :2nd_place_medal: | 2021-09-18 | caulfield R1           | 2 The Gauch          |   4.2  |    -10   |  -5061.2 |
-| :boom:            | 2021-09-18 | gold-coast R2          | 6 Navy Cross         |   6    |     50   |  -5051.2 |
-| :3rd_place_medal: | 2021-09-18 | gold-coast R2          | 1 Purrfect Deal      |   3.4  |    -10   |  -5101.2 |
-| 8                 | 2021-09-18 | randwick R2            | 6 Regal Stage        |  21    |    -10   |  -5091.2 |
-| 4                 | 2021-09-18 | hastings R5            | 9 Hoodlum            |   7    |    -10   |  -5081.2 |
-| :boom:            | 2021-09-18 | gold-coast R1          | 11 She Can Sing      |   3.1  |     21   |  -5071.2 |
-| 99                | 2021-09-17 | ayr R4                 | 13 Tenaya Canyon     |  11    |    -10   |  -5092.2 |
-| 99                | 2021-09-17 | ayr R4                 | 11 Operatic          |  15    |    -10   |  -5082.2 |
-| 6                 | 2021-09-17 | eagle-farm R8          | 16 Merseyside        |  12    |    -10   |  -5072.2 |
-| 4                 | 2021-09-17 | eagle-farm R8          | 4 Quackery           |   3.4  |    -10   |  -5062.2 |
-| 8                 | 2021-09-17 | newcastle R6           | 11 The Closer        |  71    |    -10   |  -5052.2 |
-| :boom:            | 2021-09-16 | narromine R8           | 7 On a Promise       |   4.8  |     38   |  -5042.2 |
-| :boom:            | 2021-09-16 | kembla-grange R7       | 10 Beep Test         |   2.8  |     18   |  -5080.2 |
-| :boom:            | 2021-09-15 | greyville R5           | 4 Keep The Lights On |   1.85 |      8.5 |  -5098.2 |
-| 98                | 2021-09-15 | sligo R1               | 3 Manitopark Aa      |   4.5  |    -10   |  -5106.7 |
-| 6                 | 2021-09-15 | bendigo R8             | 6 Bluestone Lane     |   5.5  |    -10   |  -5096.7 |
-| :3rd_place_medal: | 2021-09-15 | kensington R6          | 10 Oh Please Dianna  |   9    |    -10   |  -5086.7 |
-| :boom:            | 2021-09-15 | balaklava R8           | 6 Winning Partner    |   9    |     80   |  -5076.7 |
-| :3rd_place_medal: | 2021-09-15 | ipswich R5             | 6 Divine Roca        |   5.5  |    -10   |  -5156.7 |
-| :3rd_place_medal: | 2021-09-15 | kensington R3          | 8 Narrated           |   6    |    -10   |  -5146.7 |
-| :3rd_place_medal: | 2021-09-15 | ipswich R3             | 5 Trip The Light     |   3.6  |    -10   |  -5136.7 |
-| 6                 | 2021-09-15 | ipswich R3             | 2 Patented           |   9    |    -10   |  -5126.7 |
-| :3rd_place_medal: | 2021-09-14 | wangaratta R8          | 12 Dishy's           |  26    |    -10   |  -5116.7 |
-| :2nd_place_medal: | 2021-09-14 | yeppoon R5             | 2 Princess Rules     |   4.6  |    -10   |  -5106.7 |
-| :boom:            | 2021-09-14 | yeppoon R5             | 1 The Egyptian       |   1.65 |      6.5 |  -5096.7 |
-| 4                 | 2021-09-14 | yeppoon R1             | 6 Attackabeel        |   2.7  |    -10   |  -5103.2 |
-| 99                | 2021-09-13 | worcester R4           | 2 Bathiva            |   2.7  |    -10   |  -5093.2 |
-| :3rd_place_medal: | 2021-09-12 | curragh R3             | 8 Glass Slippers     |   3.9  |    -10   |  -5083.2 |
-| :2nd_place_medal: | 2021-09-12 | devonport-synthetic R8 | 6 Rising Light       |   3.3  |    -10   |  -5073.2 |
-| 13                | 2021-09-12 | dubbo R8               | 7 Messy Miss         |  16    |    -10   |  -5063.2 |
-| 8                 | 2021-09-12 | devonport-synthetic R6 | 4 Tidal              |  26    |    -10   |  -5053.2 |
-| :3rd_place_medal: | 2021-09-12 | cranbourne R6          | 2 Global Gift        |   3.4  |    -10   |  -5043.2 |
-| 4                 | 2021-09-12 | devonport-synthetic R1 | 6 Assaranca          |   3.6  |    -10   |  -5033.2 |
-| :boom:            | 2021-09-12 | devonport-synthetic R1 | 5 Red Letter Lady    |   4.2  |     32   |  -5023.2 |
 
 | day       |   runs |   wins |   profit |   sr |   roi |
 |:----------|-------:|-------:|---------:|-----:|------:|
-| Friday    |    580 |    119 |     -2.6 | 0.21 | -0    |
+| Friday    |    579 |    121 |      7.4 | 0.21 |  0    |
 | Monday    |    155 |     25 |     92.5 | 0.16 |  0.06 |
-| Saturday  |   2468 |    417 |  -3537.3 | 0.17 | -0.14 |
+| Saturday  |   2508 |    417 |  -3937.3 | 0.17 | -0.16 |
 | Sunday    |    553 |    107 |   -734.1 | 0.19 | -0.13 |
-| Thursday  |    350 |     70 |   -131.9 | 0.2  | -0.04 |
+| Thursday  |    350 |     70 |   -107.4 | 0.2  | -0.03 |
 | Tuesday   |    272 |     60 |   -153   | 0.22 | -0.06 |
 | Wednesday |    568 |    113 |   -700.3 | 0.2  | -0.12 |
 
@@ -217,7 +217,7 @@ categories: shadowchaser
 | 2021-WK35 |     67 |     12 |    -20.5 | 0.18 | -0.03 |
 | 2021-WK36 |     75 |      9 |   -453   | 0.12 | -0.6  |
 | 2021-WK37 |     71 |     13 |   -198.5 | 0.18 | -0.28 |
-| 2021-WK38 |     22 |      2 |   -150   | 0.09 | -0.68 |
+| 2021-WK38 |     61 |      4 |   -515.5 | 0.07 | -0.85 |
 
 | month   |   runs |   wins |   profit |   sr |   roi |
 |:--------|-------:|-------:|---------:|-----:|------:|
@@ -240,7 +240,7 @@ categories: shadowchaser
 | 2021-06 |    188 |     31 |   -399.3 | 0.16 | -0.21 |
 | 2021-07 |    185 |     45 |    -46.5 | 0.24 | -0.03 |
 | 2021-08 |    224 |     37 |   -756.9 | 0.17 | -0.34 |
-| 2021-09 |    231 |     35 |   -798.5 | 0.15 | -0.35 |
+| 2021-09 |    270 |     37 |  -1164   | 0.14 | -0.43 |
 
 | track                      |   runs |   wins |   profit |   sr |   roi |
 |:---------------------------|-------:|-------:|---------:|-----:|------:|
@@ -277,7 +277,7 @@ categories: shadowchaser
 | bowen                      |      1 |      1 |      8   | 1    |  0.8  |
 | barcaldine                 |     19 |      5 |    140.5 | 0.26 |  0.74 |
 | bordertown                 |      9 |      2 |     66   | 0.22 |  0.73 |
-| moonee-valley              |     82 |     21 |    565   | 0.26 |  0.69 |
+| moonee-valley              |     82 |     22 |    565   | 0.27 |  0.69 |
 | gawler                     |     17 |      4 |    117   | 0.24 |  0.69 |
 | uttoxeter                  |      2 |      1 |     13   | 0.5  |  0.65 |
 | strathalbyn                |      7 |      2 |     45   | 0.29 |  0.64 |
@@ -298,8 +298,8 @@ categories: shadowchaser
 | bundaberg                  |     22 |      7 |     53.5 | 0.32 |  0.24 |
 | yeppoon                    |     15 |      4 |     35.5 | 0.27 |  0.24 |
 | ballarat-synthetic         |     15 |      6 |     33   | 0.4  |  0.22 |
-| morphettville-parks        |    114 |     21 |    233.1 | 0.18 |  0.2  |
 | randwick                   |    163 |     24 |    294.3 | 0.15 |  0.18 |
+| morphettville-parks        |    116 |     21 |    213.1 | 0.18 |  0.18 |
 | doncaster                  |      6 |      1 |     10   | 0.17 |  0.17 |
 | te-rapa                    |     38 |      7 |     48.6 | 0.18 |  0.13 |
 | devonport-synthetic        |    120 |     27 |    141.5 | 0.22 |  0.12 |
@@ -308,7 +308,6 @@ categories: shadowchaser
 | adelaide-river             |      2 |      1 |      2   | 0.5  |  0.1  |
 | warwick                    |      7 |      3 |      5.4 | 0.43 |  0.08 |
 | mudgee                     |     12 |      2 |      8   | 0.17 |  0.07 |
-| goulburn                   |      8 |      2 |      5.2 | 0.25 |  0.07 |
 | newbury                    |      7 |      2 |      5   | 0.29 |  0.07 |
 | oamaru                     |      8 |      2 |      5   | 0.25 |  0.06 |
 | wimmera%40stawell          |      5 |      1 |      1   | 0.2  |  0.02 |
@@ -318,14 +317,14 @@ categories: shadowchaser
 | singapore                  |      3 |      1 |     -1   | 0.33 | -0.03 |
 | alice-springs              |    110 |     30 |    -28.5 | 0.27 | -0.03 |
 | doomben                    |    259 |     50 |    -87   | 0.19 | -0.03 |
+| goulburn                   |      9 |      2 |     -4.8 | 0.22 | -0.05 |
 | rockhampton                |    162 |     32 |    -80   | 0.2  | -0.05 |
-| belmont                    |    167 |     35 |    -94.4 | 0.21 | -0.06 |
+| belmont                    |    170 |     35 |   -124.4 | 0.21 | -0.07 |
+| ipswich                    |    100 |     21 |    -80.5 | 0.21 | -0.08 |
 | darwin                     |    257 |     45 |   -237.8 | 0.18 | -0.09 |
-| ipswich                    |    100 |     21 |   -105   | 0.21 | -0.1  |
 | flemington                 |    143 |     16 |   -139.5 | 0.11 | -0.1  |
 | grafton                    |     16 |      3 |    -18.5 | 0.19 | -0.12 |
 | racing.com-park            |     28 |      7 |    -33   | 0.25 | -0.12 |
-| sandown-hillside           |     42 |      8 |    -52   | 0.19 | -0.12 |
 | southwell                  |      2 |      1 |     -3   | 0.5  | -0.15 |
 | albany                     |     12 |      3 |    -18.4 | 0.25 | -0.15 |
 | tamworth                   |     30 |      5 |    -44   | 0.17 | -0.15 |
@@ -335,13 +334,14 @@ categories: shadowchaser
 | matamata                   |      9 |      2 |    -17   | 0.22 | -0.19 |
 | kembla-grange              |     29 |      6 |    -55.5 | 0.21 | -0.19 |
 | morphettville              |    138 |     21 |   -267   | 0.15 | -0.19 |
+| sandown-hillside           |     46 |      8 |    -92   | 0.17 | -0.2  |
 | caulfield                  |    135 |     18 |   -269.3 | 0.13 | -0.2  |
 | townsville                 |    167 |     32 |   -337   | 0.19 | -0.2  |
 | eagle-farm                 |    231 |     35 |   -453.5 | 0.15 | -0.2  |
 | sunshine-coast             |    110 |     22 |   -243.6 | 0.2  | -0.22 |
-| gold-coast                 |    130 |     24 |   -282   | 0.18 | -0.22 |
 | geelong                    |     16 |      2 |    -37   | 0.12 | -0.23 |
 | wagga                      |     19 |      4 |    -44   | 0.21 | -0.23 |
+| gold-coast                 |    132 |     24 |   -302   | 0.18 | -0.23 |
 | mackay                     |    114 |     27 |   -275.4 | 0.24 | -0.24 |
 | te-aroha                   |      3 |      1 |     -7.5 | 0.33 | -0.25 |
 | kensington                 |     43 |      6 |   -112   | 0.14 | -0.26 |
@@ -350,14 +350,14 @@ categories: shadowchaser
 | launceston                 |     85 |     16 |   -265.2 | 0.19 | -0.31 |
 | tennant-creek              |      6 |      1 |    -20   | 0.17 | -0.33 |
 | pinjarra                   |     30 |      5 |    -98.5 | 0.17 | -0.33 |
-| awapuni                    |     20 |      6 |    -69   | 0.3  | -0.34 |
-| rosehill                   |     76 |      9 |   -255   | 0.12 | -0.34 |
-| toowoomba                  |     68 |     13 |   -239.9 | 0.19 | -0.35 |
+| rosehill                   |     81 |      9 |   -305   | 0.11 | -0.38 |
 | gatton                     |      8 |      2 |    -31.5 | 0.25 | -0.39 |
+| awapuni                    |     22 |      6 |    -89   | 0.27 | -0.4  |
 | hobart                     |     61 |     10 |   -241   | 0.16 | -0.4  |
 | emerald                    |     21 |      3 |    -86.6 | 0.14 | -0.41 |
 | hawera                     |      4 |      1 |    -17   | 0.25 | -0.42 |
 | murray-bdge                |     60 |      7 |   -267   | 0.12 | -0.44 |
+| toowoomba                  |     78 |     13 |   -339.9 | 0.17 | -0.44 |
 | gympie                     |      3 |      1 |    -13.5 | 0.33 | -0.45 |
 | beaudesert                 |      6 |      1 |    -27   | 0.17 | -0.45 |
 | bendigo                    |     24 |      4 |   -109.5 | 0.17 | -0.46 |
@@ -393,7 +393,7 @@ categories: shadowchaser
 | coonabarabran              |      1 |      0 |    -10   | 0    | -1    |
 | cootamundra                |      1 |      0 |    -10   | 0    | -1    |
 | curragh                    |      1 |      0 |    -10   | 0    | -1    |
-| ewan                       |      1 |      0 |    -10   | 0    | -1    |
+| ewan                       |      1 |      1 |    -10   | 1    | -1    |
 | gundagai                   |      1 |      0 |    -10   | 0    | -1    |
 | kerang                     |      1 |      0 |    -10   | 0    | -1    |
 | leopardstown               |      1 |      0 |    -10   | 0    | -1    |
@@ -443,10 +443,10 @@ categories: shadowchaser
 | otaki                      |      4 |      0 |    -40   | 0    | -1    |
 | taree                      |      4 |      0 |    -40   | 0    | -1    |
 | wimmera%40ararat           |      4 |      0 |    -40   | 0    | -1    |
+| benalla                    |      5 |      0 |    -50   | 0    | -1    |
 | esperance-bay              |      5 |      0 |    -50   | 0    | -1    |
 | kenilworth                 |      5 |      0 |    -50   | 0    | -1    |
 | wangaratta                 |      5 |      0 |    -50   | 0    | -1    |
-| benalla                    |      6 |      0 |    -60   | 0    | -1    |
 | royal-ascot                |      6 |      0 |    -60   | 0    | -1    |
 | naracoorte                 |      7 |      0 |    -70   | 0    | -1    |
 | orange                     |      7 |      0 |    -70   | 0    | -1    |
@@ -454,7 +454,6 @@ categories: shadowchaser
 | wellington                 |      7 |      0 |    -70   | 0    | -1    |
 | coffs-harbour              |      8 |      0 |    -80   | 0    | -1    |
 | dalby                      |      8 |      0 |    -80   | 0    | -1    |
-| longreach                  |      8 |      0 |    -80   | 0    | -1    |
 | moruya                     |      8 |      0 |    -80   | 0    | -1    |
 | carnarvon                  |      9 |      0 |    -90   | 0    | -1    |
 | cloncurry                  |     10 |      0 |   -100   | 0    | -1    |
@@ -462,20 +461,21 @@ categories: shadowchaser
 | sapphire-coast             |     10 |      0 |   -100   | 0    | -1    |
 | ellerslie                  |     11 |      0 |   -110   | 0    | -1    |
 | mornington                 |     15 |      0 |   -150   | 0    | -1    |
+| longreach                  |     19 |      0 |   -190   | 0    | -1    |
 
 | location                     |   runs |   wins |   profit |   sr |   roi |
 |:-----------------------------|-------:|-------:|---------:|-----:|------:|
 | australian-capital-territory |     15 |      2 |     85.5 | 0.13 |  0.57 |
 | ireland                      |     11 |      3 |      9   | 0.27 |  0.08 |
-| victoria                     |    694 |    122 |    193   | 0.18 |  0.03 |
+| victoria                     |    697 |    123 |    163   | 0.18 |  0.02 |
 | south-africa                 |     11 |      3 |      0.5 | 0.27 |  0    |
 | singapore                    |      3 |      1 |     -1   | 0.33 | -0.03 |
-| south-australia              |    388 |     64 |   -190.4 | 0.16 | -0.05 |
+| south-australia              |    390 |     64 |   -210.4 | 0.16 | -0.05 |
 | northern-territory           |    377 |     78 |   -272.3 | 0.21 | -0.07 |
-| western-australia            |    576 |    113 |   -455.8 | 0.2  | -0.08 |
-| new-zealand                  |    199 |     39 |   -202.5 | 0.2  | -0.1  |
+| western-australia            |    579 |    113 |   -485.8 | 0.2  | -0.08 |
+| new-zealand                  |    201 |     39 |   -222.5 | 0.19 | -0.11 |
 | tasmania                     |    266 |     53 |   -364.7 | 0.2  | -0.14 |
-| new-south-wales              |    751 |    115 |  -1103   | 0.15 | -0.15 |
-| queensland                   |   1572 |    302 |  -2613.1 | 0.19 | -0.17 |
+| new-south-wales              |    757 |    115 |  -1163   | 0.15 | -0.15 |
+| queensland                   |   1595 |    303 |  -2818.6 | 0.19 | -0.18 |
 | united-kingdom               |     72 |     15 |   -166.9 | 0.21 | -0.23 |
 | hong-kong                    |     11 |      1 |    -85   | 0.09 | -0.77 |
