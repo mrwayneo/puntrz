@@ -1,7 +1,8 @@
 #!/bin/bash
 # A simple script
 
-SOURCEDIR=~/iCloud/com~apple~CloudDocs/Documents/bu/Punters/races
+#SOURCEDIR=~/iCloud/com~apple~CloudDocs/Documents/bu/Punters/races
+SOURCEDIR=/Users/wayne/Documents/Projects/docker_apps/punters/app/races
 DESTDIR='/Users/wayne/Documents/Projects/docker_apps/mrwayneo/mrwayneo.github.io/.app/csv/puntrz/punters/spreadsheets/'
 CSVFILE='/Users/wayne/Documents/Projects/docker_apps/mrwayneo/mrwayneo.github.io/.app/csv/puntrz/punters/csv_download_list.csv'
 

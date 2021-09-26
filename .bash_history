@@ -206,4 +206,7 @@ python3 play_json_template.py
 python3 play_json_template.py 
 python3 play_json_template.py 
 python3 play_json_template.py 
-python3 play_jso
+python3 play_jsosource ~/.bashrc
+cd .app
+python3 play_json_template.py
+exit
