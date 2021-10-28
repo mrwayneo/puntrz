@@ -1,25 +1,25 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-10-28 15:18:29 +1000  
+date: 2021-10-28 18:07:16 +1000  
 categories: None 
 ---   
 
 
 |   runs |   wins |   profit |   strike rate |   roi | period         |
 |-------:|-------:|---------:|--------------:|------:|:---------------|
-|     13 |      2 |    -79   |          0.15 | -0.61 | Last 7 Days    |
-|     57 |     11 |   -184   |          0.19 | -0.32 | Last 28 Days   |
-|    404 |     83 |   -176.5 |          0.21 | -0.04 | Last 6 Months  |
-|    523 |    113 |   -380   |          0.22 | -0.07 | Since Jan 2020 |
+|     13 |      3 |    -30   |          0.23 | -0.23 | Last 7 Days    |
+|     57 |     12 |   -135   |          0.21 | -0.24 | Last 28 Days   |
+|    404 |     84 |   -127.5 |          0.21 | -0.03 | Last 6 Months  |
+|    523 |    114 |   -331   |          0.22 | -0.06 | Since Jan 2020 |
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
 | 0                 | 2021-10-28 | rockhampton R7          | 4 Santorini Summer    |  0    |    -10   |
-| 0                 | 2021-10-28 | kempton R7              | 2 Murhib              |  0    |    -10   |
-| 0                 | 2021-10-27 | launceston R3           | 7 Weekend Whisky      |  0    |    -10   |
-| 0                 | 2021-10-27 | bendigo R9              | 8 Quiet Lucky         |  0    |    -10   |
-| 0                 | 2021-10-27 | canterbury R6           | 5 Loch Lomond         |  0    |    -10   |
+| :3rd_place_medal: | 2021-10-28 | kempton R7              | 2 Murhib              |  9.5  |    -10   |
+| :boom:            | 2021-10-27 | launceston R3           | 7 Weekend Whisky      |  4.9  |     39   |
+| 8                 | 2021-10-27 | bendigo R9              | 8 Quiet Lucky         | 16    |    -10   |
+| 5                 | 2021-10-27 | canterbury R6           | 5 Loch Lomond         |  8.5  |    -10   |
 | 4                 | 2021-10-27 | gore R2                 | 1 Kilowatt            |  3    |    -10   |
 | :3rd_place_medal: | 2021-10-23 | ascot R7                | 12 Bright Diamond     |  3.3  |    -10   |
 | :boom:            | 2021-10-23 | ascot R7                | 5 Wilchino            |  2.8  |     18   |
@@ -84,8 +84,8 @@ categories: None
 | 7                 | 2021-09-25 | toowoomba R1            | 3 Better Ethics       | 16    |    -10   |
 | :2nd_place_medal: | 2021-09-24 | moonee-valley R7        | 3 The Inferno         |  6    |    -10   |
 | :3rd_place_medal: | 2021-09-22 | goodwood R2             | 3 Kettle Hill         |  3    |    -10   |
-| :2nd_place_medal: | 2021-09-22 | gosford R5              | 1 Jazzland            |  9    |    -10   |
 | 4                 | 2021-09-22 | gosford R5              | 5 Mightybeel          |  6.5  |    -10   |
+| :2nd_place_medal: | 2021-09-22 | gosford R5              | 1 Jazzland            |  9    |    -10   |
 | :3rd_place_medal: | 2021-09-22 | gosford R4              | 7 Fastconi            |  6    |    -10   |
 | 0                 | 2021-09-21 | beaudesert R7           | 5 Brazen Dynamo       |  0    |    -10   |
 | :2nd_place_medal: | 2021-09-19 | devonport-synthetic R8  | 1 Fragment            | 12    |    -10   |
@@ -144,8 +144,8 @@ categories: None
 | :boom:            | 2021-08-29 | ballarat R4             | 1 Saunter Boy         |  2.5  |     15   |
 | 6                 | 2021-08-28 | toowoomba R1            | 4 Nick the Skip       |  5.5  |    -10   |
 | :3rd_place_medal: | 2021-08-28 | darwin R4               | 2 Sebrakate           | 15    |    -10   |
-| :boom:            | 2021-08-28 | darwin R3               | 4 Patriot Day         | 10.5  |     95   |
 | 9                 | 2021-08-28 | darwin R3               | 3 Kaptan Apollo       | 26    |    -10   |
+| :boom:            | 2021-08-28 | darwin R3               | 4 Patriot Day         | 10.5  |     95   |
 | 7                 | 2021-08-28 | cairns R6               | 8 Bold Type           |  4.2  |    -10   |
 | 11                | 2021-08-28 | cairns R6               | 3 Hidden in Heaven    | 34    |    -10   |
 | 5                 | 2021-08-28 | caulfield R6            | 10 Diamonds Inthe Sky | 21    |    -10   |
@@ -308,8 +308,8 @@ categories: None
 | 11                | 2021-05-29 | eagle-farm R3           | 10 Not an Option      | 26    |    -10   |
 | 8                 | 2021-05-29 | eagle-farm R2           | 14 Beachbreak         | 11    |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R7       | 5 Queen Dazzler       |  3.4  |    -10   |
-| :2nd_place_medal: | 2021-05-27 | northam R9              | 7 Brave Dream         |  5.1  |    -10   |
 | :boom:            | 2021-05-27 | northam R9              | 9 Conquered Zone      |  5.8  |     48   |
+| :2nd_place_medal: | 2021-05-27 | northam R9              | 7 Brave Dream         |  5.1  |    -10   |
 | 6                 | 2021-05-26 | belmont R7              | 5 Truly Reliable      | 26    |    -10   |
 | 0                 | 2021-05-25 | fairview R2             | 1 Tarsus              |  3.8  |    -10   |
 | :boom:            | 2021-05-23 | devonport-synthetic R6  | 8 Aragon Star         |  4.5  |     35   |
@@ -391,8 +391,8 @@ categories: None
 | :boom:            | 2021-04-16 | toowoomba R5            | 3 Rhyme Time          |  3    |     20   |
 | :3rd_place_medal: | 2021-04-16 | orange R3               | 4 Highest Standard    |  8.5  |    -10   |
 | :boom:            | 2021-04-15 | racing.com-park R5      | 4 Sig Positano        |  3.9  |     29   |
-| 0                 | 2021-04-15 | newmarket R4            | 1 Forest Of Dean      | 11    |    -10   |
 | 0                 | 2021-04-15 | newmarket R4            | 2 Global Giant        |  2.2  |    -10   |
+| 0                 | 2021-04-15 | newmarket R4            | 1 Forest Of Dean      | 11    |    -10   |
 | 4                 | 2021-04-14 | bendigo R4              | 2 Modear              |  3    |    -10   |
 | :2nd_place_medal: | 2021-04-13 | cairns R4               | 3 Bold Type           |  3    |    -10   |
 | :boom:            | 2021-04-11 | devonport-synthetic R7  | 2 Cabarrus            |  5.1  |     41   |
@@ -423,8 +423,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-31 | doomben R6              | 3 Say Haya            |  6.1  |    -10   |
 | :boom:            | 2021-03-30 | mackay R4               | 5 Nailed It Nan       |  2.3  |     13   |
 | :boom:            | 2021-03-28 | hobart R3               | 1 Boris The Blade     |  1.8  |      8   |
-| :2nd_place_medal: | 2021-03-28 | kempton R3              | 5 Almighwar           |  4.6  |    -10   |
 | :boom:            | 2021-03-28 | kempton R3              | 1 Al Zaraqaan         |  2.05 |     10.5 |
+| :2nd_place_medal: | 2021-03-28 | kempton R3              | 5 Almighwar           |  4.6  |    -10   |
 | 6                 | 2021-03-27 | morphettville R4        | 10 Our Sustar         | 34    |    -10   |
 | 0                 | 2021-03-27 | rosehill R4             | 2 Sir Dragonet        |  0    |    -10   |
 | :boom:            | 2021-03-27 | bendigo R4              | 4 Fanciful Toff       |  2.4  |     14   |
