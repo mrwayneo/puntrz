@@ -5,3 +5,5 @@ _site
 vendor
 .app
 git
+run_jobs_bash
+cp_bash
