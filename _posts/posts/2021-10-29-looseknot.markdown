@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-10-29 09:28:51 +1000  
+date: 2021-10-29 09:48:25 +1000  
 categories: None 
 ---   
 
@@ -223,9 +223,9 @@ categories: None
 | :2nd_place_medal: | 2021-09-03 | ascot R2                      | 2 Koy Koy             |  16    |    -10   |
 | 0                 | 2021-09-03 | clonmel R5                    | 3 Khairy              |  21    |    -10   |
 | :2nd_place_medal: | 2021-09-03 | chelmsford-city R1            | 1 Axopar              |   2.8  |    -10   |
+| 4                 | 2021-09-02 | haydock R2                    | 1 Amor Vincit Omnia   |   2.62 |    -10   |
 | :2nd_place_medal: | 2021-09-02 | haydock R2                    | 9 Watchya             |   6.5  |    -10   |
 | 0                 | 2021-09-02 | haydock R2                    | 10 Yaahobby           |   5    |    -10   |
-| 4                 | 2021-09-02 | haydock R2                    | 1 Amor Vincit Omnia   |   2.62 |    -10   |
 | :boom:            | 2021-09-02 | townsville R7                 | 9 Danawi              |   9.3  |     83   |
 | 0                 | 2021-09-02 | hamilton R5                   | 2 Victory Star        |   8.5  |    -10   |
 | 4                 | 2021-09-02 | bath R6                       | 2 Golden Wattle       |   8    |    -10   |
