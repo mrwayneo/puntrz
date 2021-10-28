@@ -2,8 +2,7 @@ version: '3.9'
 
 services:
   app:
-    build: .
-    image: puntpy
+    image: puntpy:2.2
     ports:
       - 8844:8888
     working_dir: /home/wayneo
