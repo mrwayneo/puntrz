@@ -1,9 +1,0 @@
-#!/bin/bash
-# A simple script
-
-SOURCEDIR=~/Documents/Projects/docker_apps/punters/app/mrwayneo/
-DESTDIR=~/Documents/Projects/docker_apps/mrwayneo/mrwayneo.github.io/
-
-rsync -avh $SOURCEDIR/index.markdown $DESTDIR
-rsync -avh $SOURCEDIR/posts $DESTDIR/_posts
-echo "Sync completed."

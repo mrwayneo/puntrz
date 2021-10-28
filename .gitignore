@@ -7,3 +7,4 @@ vendor
 git
 run_jobs_bash
 cp_bash
+.bash_history
