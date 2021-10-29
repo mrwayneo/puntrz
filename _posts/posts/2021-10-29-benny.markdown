@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-10-29 09:45:41 +1000  
+date: 2021-10-29 17:34:25 +1000  
 categories: None 
 ---   
 
@@ -130,8 +130,8 @@ categories: None
 | 4                 | 2021-09-04 | gold-coast R8           | 2 Moonan Me           |  7    |    -10   |
 | 10                | 2021-09-04 | eagle-farm R9           | 1 Vinco               |  5    |    -10   |
 | 8                 | 2021-09-04 | belmont R5              | 3 Campese             |  2.05 |    -10   |
-| :boom:            | 2021-09-04 | eagle-farm R7           | 4 Ingear              |  2.5  |     15   |
 | :3rd_place_medal: | 2021-09-04 | eagle-farm R7           | 3 Ready Babe          | 18    |    -10   |
+| :boom:            | 2021-09-04 | eagle-farm R7           | 4 Ingear              |  2.5  |     15   |
 | :2nd_place_medal: | 2021-09-04 | belmont R3              | 2 Dunbar              |  2.8  |    -10   |
 | :3rd_place_medal: | 2021-09-04 | randwick R7             | 5 Star of the Seas    | 11    |    -10   |
 | 4                 | 2021-09-04 | newcastle R4            | 5 False Step          | 10    |    -10   |
@@ -291,8 +291,8 @@ categories: None
 | 11                | 2021-06-05 | eagle-farm R7           | 6 Fabric              | 14    |    -10   |
 | :3rd_place_medal: | 2021-06-05 | eagle-farm R6           | 7 Luvoir              |  6    |    -10   |
 | :2nd_place_medal: | 2021-06-05 | wanganui R7             | 9 Crowning Star       |  7    |    -10   |
-| :boom:            | 2021-06-05 | eagle-farm R4           | 1 Usmanov             |  3.3  |     23   |
 | 6                 | 2021-06-05 | eagle-farm R4           | 3 Spurcraft           | 11    |    -10   |
+| :boom:            | 2021-06-05 | eagle-farm R4           | 1 Usmanov             |  3.3  |     23   |
 | :3rd_place_medal: | 2021-06-03 | wyong R7                | 7 Lake Tai            |  5.5  |    -10   |
 | :boom:            | 2021-06-02 | doomben R6              | 2 Starosa             |  3.7  |     27   |
 | 6                 | 2021-06-02 | warwick-farm R5         | 2 Egyptian Missile    | 13.2  |    -10   |
@@ -392,8 +392,8 @@ categories: None
 | :boom:            | 2021-04-16 | toowoomba R5            | 3 Rhyme Time          |  3    |     20   |
 | :3rd_place_medal: | 2021-04-16 | orange R3               | 4 Highest Standard    |  8.5  |    -10   |
 | :boom:            | 2021-04-15 | racing.com-park R5      | 4 Sig Positano        |  3.9  |     29   |
-| 0                 | 2021-04-15 | newmarket R4            | 1 Forest Of Dean      | 11    |    -10   |
 | 0                 | 2021-04-15 | newmarket R4            | 2 Global Giant        |  2.2  |    -10   |
+| 0                 | 2021-04-15 | newmarket R4            | 1 Forest Of Dean      | 11    |    -10   |
 | 4                 | 2021-04-14 | bendigo R4              | 2 Modear              |  3    |    -10   |
 | :2nd_place_medal: | 2021-04-13 | cairns R4               | 3 Bold Type           |  3    |    -10   |
 | :boom:            | 2021-04-11 | devonport-synthetic R7  | 2 Cabarrus            |  5.1  |     41   |
@@ -424,8 +424,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-31 | doomben R6              | 3 Say Haya            |  6.1  |    -10   |
 | :boom:            | 2021-03-30 | mackay R4               | 5 Nailed It Nan       |  2.3  |     13   |
 | :boom:            | 2021-03-28 | hobart R3               | 1 Boris The Blade     |  1.8  |      8   |
-| :2nd_place_medal: | 2021-03-28 | kempton R3              | 5 Almighwar           |  4.6  |    -10   |
 | :boom:            | 2021-03-28 | kempton R3              | 1 Al Zaraqaan         |  2.05 |     10.5 |
+| :2nd_place_medal: | 2021-03-28 | kempton R3              | 5 Almighwar           |  4.6  |    -10   |
 | 6                 | 2021-03-27 | morphettville R4        | 10 Our Sustar         | 34    |    -10   |
 | 0                 | 2021-03-27 | rosehill R4             | 2 Sir Dragonet        |  0    |    -10   |
 | :boom:            | 2021-03-27 | bendigo R4              | 4 Fanciful Toff       |  2.4  |     14   |
