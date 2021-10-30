@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "BlackShadow"   
-date: 2021-10-30 10:09:34 +1000  
+date: 2021-10-30 12:43:53 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
 | 23:25             | 2021-10-30 | turffontein R5         | 2 Malmoos             |  0    |    -10   |
-| 15:00             | 2021-10-30 | flemington R5          | 12 Kiku               |  0    |    -10   |
+| 15:00             | 2021-10-30 | flemington R5          | 12 Kiku               | 31    |    -10   |
 | :3rd_place_medal: | 2021-10-28 | fakenham R4            | 3 Cenotice            |  5    |    -10   |
 | :3rd_place_medal: | 2021-10-23 | ascot R7               | 12 Bright Diamond     |  3.3  |    -10   |
 | :2nd_place_medal: | 2021-10-23 | ascot R6               | 7 Secret Plan         |  2.25 |    -10   |
@@ -125,8 +125,8 @@ categories: None
 | :boom:            | 2021-09-04 | eagle-farm R7          | 4 Ingear              |  2.5  |     15   |
 | :2nd_place_medal: | 2021-09-04 | belmont R3             | 2 Dunbar              |  2.8  |    -10   |
 | 7                 | 2021-09-04 | eagle-farm R4          | 4 Navy Cross          |  2.3  |    -10   |
-| 4                 | 2021-09-04 | barcaldine R2          | 1 Fully Maxed         |  7    |    -10   |
 | 6                 | 2021-09-04 | barcaldine R2          | 4 Nick the Skip       |  2    |    -10   |
+| 4                 | 2021-09-04 | barcaldine R2          | 1 Fully Maxed         |  7    |    -10   |
 | :boom:            | 2021-09-04 | barcaldine R1          | 4 Wall Street Tycoon  |  2.4  |     14   |
 | 0                 | 2021-09-03 | fairview R7            | 3 Jaeger Moon         |  4.8  |    -10   |
 | 12                | 2021-09-03 | hawera R9              | 5 Hold The Press      |  2.6  |    -10   |
@@ -374,8 +374,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-18 | hobart R4              | 4 Judge Burns         |  8.5  |    -10   |
 | 7                 | 2021-04-17 | ascot R9               | 3 Amelia's Contraire  |  6    |    -10   |
 | :2nd_place_medal: | 2021-04-17 | randwick R10           | 3 Entriviere          |  5    |    -10   |
-| 5                 | 2021-04-17 | caulfield R8           | 3 How Womantic        |  4.05 |    -10   |
 | 8                 | 2021-04-17 | caulfield R8           | 2 Yulong January      | 21    |    -10   |
+| 5                 | 2021-04-17 | caulfield R8           | 3 How Womantic        |  4.05 |    -10   |
 | :2nd_place_medal: | 2021-04-17 | randwick R6            | 9 Isotope             |  3.7  |    -10   |
 | :boom:            | 2021-04-17 | randwick R6            | 1 Wild Ruler          |  5.7  |     47   |
 | :3rd_place_medal: | 2021-04-17 | alice-springs R2       | 4 The Captain         |  1.55 |    -10   |

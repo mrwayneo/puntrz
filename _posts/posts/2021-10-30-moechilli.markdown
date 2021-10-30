@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "MoeChilli"   
-date: 2021-10-30 10:10:05 +1000  
+date: 2021-10-30 12:44:32 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 03:05             | 2021-10-31 | ascot R7               | 8 Estacas            |   0    |    -10   |
+| 03:05             | 2021-10-31 | ascot R7               | 8 Estacas            |   6    |    -10   |
 | :boom:            | 2021-10-25 | te-rapa R7             | 1 Gold Watch         |   2.95 |     19.5 |
 | 0                 | 2021-10-24 | trentham R3            | 5 Nobellem           |   0    |    -10   |
 | 0                 | 2021-10-22 | wolverhampton R3       | 6 Petite Joe         |   0    |    -10   |

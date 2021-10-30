@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "WallBow"   
-date: 2021-10-30 10:09:43 +1000  
+date: 2021-10-30 12:44:05 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event            | runner             |   win |   return |
 |:------------------|:-----------|:-----------------|:-------------------|------:|---------:|
-| 13:20             | 2021-10-30 | rosehill R2      | 2 Mightybeel       |   0   |      -10 |
-| 12:40             | 2021-10-30 | rosehill R1      | 3 Selburose        |   0   |      -10 |
+| 13:20             | 2021-10-30 | rosehill R2      | 2 Mightybeel       |   2   |      -10 |
+| 0                 | 2021-10-30 | rosehill R1      | 3 Selburose        |   0   |      -10 |
 | 5                 | 2021-10-16 | randwick R4      | 3 Hoover Lucy      |   7.5 |      -10 |
 | 6                 | 2021-10-13 | warwick-farm R4  | 7 The Grinder      |   5   |      -10 |
 | :boom:            | 2021-10-06 | rosehill R3      | 7 Shibli           |   3.7 |       27 |
