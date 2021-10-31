@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-01 02:14:45 +1000  
+date: 2021-11-01 08:28:12 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     49 |      8 |   -196.5 | 0.16 |  -0.4 |
-| Last 28 Days   |     49 |      8 |   -196.5 | 0.16 |  -0.4 |
-| Last 6 Months  |     49 |      8 |   -196.5 | 0.16 |  -0.4 |
-| Since Jan 2020 |     49 |      8 |   -196.5 | 0.16 |  -0.4 |
+| Last 7 Days    |     50 |      8 |   -206.5 | 0.16 | -0.41 |
+| Last 28 Days   |     50 |      8 |   -206.5 | 0.16 | -0.41 |
+| Last 6 Months  |     50 |      8 |   -206.5 | 0.16 | -0.41 |
+| Since Jan 2020 |     50 |      8 |   -206.5 | 0.16 | -0.41 |
 
 | finish            | date       | event            | runner               |   win |   return |
 |:------------------|:-----------|:-----------------|:---------------------|------:|---------:|
+| 02:05             | 2021-11-02 | kempton R6       | 2 Outbox             |  8    |    -10   |
 | 4                 | 2021-11-01 | cork R4          | 5 Noble Yeats        |  6.5  |    -10   |
 | 0                 | 2021-11-01 | huntingdon R3    | 1 Tequila Blaze      |  0    |    -10   |
 | 0                 | 2021-11-01 | carlisle R4      | 1 Captain Moirette   |  0    |    -10   |
@@ -39,8 +40,8 @@ categories: None
 | 10                | 2021-10-30 | flemington R9    | 16 Never Talk        | 15    |    -10   |
 | 4                 | 2021-10-30 | eagle-farm R9    | 1 Animate            |  5    |    -10   |
 | 7                 | 2021-10-30 | rosehill R8      | 7 Redoute's Image    |  9.5  |    -10   |
-| 5                 | 2021-10-30 | morphettville R8 | 4 Ritratto           | 11    |    -10   |
 | 4                 | 2021-10-30 | morphettville R8 | 7 Aussie Nugget      |  7.5  |    -10   |
+| 5                 | 2021-10-30 | morphettville R8 | 4 Ritratto           | 11    |    -10   |
 | 11                | 2021-10-30 | eagle-farm R8    | 1 Montez             |  6    |    -10   |
 | 5                 | 2021-10-30 | eagle-farm R8    | 2 Factory Warrior    | 11    |    -10   |
 | :boom:            | 2021-10-30 | morphettville R7 | 9 Rock The Ring      |  2.1  |     11   |
@@ -51,8 +52,8 @@ categories: None
 | :2nd_place_medal: | 2021-10-30 | rosehill R6      | 13 Lost And Running  |  8    |    -10   |
 | :boom:            | 2021-10-30 | gold-coast R5    | 5 Moonan Joyce       | 11.1  |    101   |
 | 6                 | 2021-10-30 | eagle-farm R6    | 3 Prioritise         |  5.5  |    -10   |
-| 13                | 2021-10-30 | flemington R5    | 9 Amarelinha         | 10    |    -10   |
 | 8                 | 2021-10-30 | flemington R5    | 12 Kiku              | 31    |    -10   |
+| 13                | 2021-10-30 | flemington R5    | 9 Amarelinha         | 10    |    -10   |
 | :boom:            | 2021-10-30 | ascot R2         | 3 The Front Bar      |  3.5  |     25   |
 | :3rd_place_medal: | 2021-10-30 | gold-coast R3    | 4 Neptune's Choice   |  3.4  |    -10   |
 | 6                 | 2021-10-30 | flemington R4    | 7 Oxley Road         |  2.35 |    -10   |
