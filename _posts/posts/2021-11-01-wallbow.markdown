@@ -1,0 +1,93 @@
+---   
+layout: post   
+title: "WallBow"   
+date: 2021-11-01 01:07:25 +1000  
+categories: None 
+---   
+
+
+| timeframe      |   runs |   wins |   profit |   sr |   roi |
+|:---------------|-------:|-------:|---------:|-----:|------:|
+| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
+| Last 28 Days   |      6 |      1 |      -23 | 0.17 | -0.38 |
+| Last 6 Months  |     42 |      6 |     -199 | 0.14 | -0.47 |
+| Since Jan 2020 |     76 |     11 |      255 | 0.14 |  0.34 |
+
+| finish            | date       | event            | runner             |   win |   return |
+|:------------------|:-----------|:-----------------|:-------------------|------:|---------:|
+| :2nd_place_medal: | 2021-10-30 | rosehill R2      | 2 Mightybeel       |   2   |      -10 |
+| :2nd_place_medal: | 2021-10-30 | rosehill R1      | 3 Selburose        |   4.2 |      -10 |
+| 5                 | 2021-10-16 | randwick R4      | 3 Hoover Lucy      |   7.5 |      -10 |
+| 6                 | 2021-10-13 | warwick-farm R4  | 7 The Grinder      |   5   |      -10 |
+| :boom:            | 2021-10-06 | rosehill R3      | 7 Shibli           |   3.7 |       27 |
+| 4                 | 2021-10-06 | rosehill R1      | 6 Caboche          |  17   |      -10 |
+| :3rd_place_medal: | 2021-10-04 | warwick-farm R5  | 3 The Grinder      |  16   |      -10 |
+| 7                 | 2021-10-04 | warwick-farm R3  | 1 Aslav            |  11   |      -10 |
+| 4                 | 2021-10-04 | warwick-farm R1  | 2 Edmonton         |  12   |      -10 |
+| 6                 | 2021-09-29 | kensington R1    | 3 Huriwai          |   9.5 |      -10 |
+| :boom:            | 2021-09-22 | gosford R5       | 6 Shibli           |   2.4 |       14 |
+| 0                 | 2021-09-21 | wyong R2         | 3 Hollywood North  |   0   |      -10 |
+| 5                 | 2021-09-18 | randwick R2      | 3 Charms Star      |  13   |      -10 |
+| :3rd_place_medal: | 2021-09-15 | kensington R2    | 2 Gracilistyla     |   7.5 |      -10 |
+| 5                 | 2021-09-08 | gosford R4       | 6 Zelify           |  12   |      -10 |
+| :2nd_place_medal: | 2021-09-08 | gosford R2       | 7 Shibli           |   3.5 |      -10 |
+| 4                 | 2021-09-08 | gosford R1       | 5 Huriwai          |  26   |      -10 |
+| :3rd_place_medal: | 2021-09-04 | randwick R7      | 5 Star of the Seas |  11   |      -10 |
+| 10                | 2021-09-03 | wyong R2         | 2 Exmouth Gulf     |  15   |      -10 |
+| 6                 | 2021-09-01 | kensington R1    | 3 Leen Fox         |  12   |      -10 |
+| :3rd_place_medal: | 2021-08-28 | kembla-grange R3 | 5 Steel Diamond    |   4.4 |      -10 |
+| :2nd_place_medal: | 2021-08-27 | gosford R4       | 3 Segal            |   3.8 |      -10 |
+| :boom:            | 2021-08-25 | kensington R4    | 2 Brookspire       |   1.8 |        8 |
+| 4                 | 2021-08-21 | randwick R4      | 4 Re Edit          |   9.5 |      -10 |
+| :boom:            | 2021-08-07 | randwick R6      | 2 Starla           |   4.2 |       32 |
+| 4                 | 2021-08-07 | randwick R4      | 7 Re Edit          |   6.5 |      -10 |
+| :2nd_place_medal: | 2021-08-01 | kembla-grange R3 | 6 Segal            |   3   |      -10 |
+| :3rd_place_medal: | 2021-08-01 | kembla-grange R2 | 3 Malibu Blaze     |   5.5 |      -10 |
+| 9                 | 2021-08-01 | kembla-grange R1 | 3 Kermajack        |   7   |      -10 |
+| :boom:            | 2021-07-24 | rosehill R7      | 3 Order Again      |   6.6 |       56 |
+| :boom:            | 2021-07-24 | rosehill R6      | 8 Starla           |   3.4 |       24 |
+| :2nd_place_medal: | 2021-07-21 | kensington R7    | 3 Irish Angel      |   2.5 |      -10 |
+| 0                 | 2021-06-19 | rosehill R7      | 3 Yonkers          |   6   |      -10 |
+| 9                 | 2021-06-14 | warwick-farm R6  | 5 Willowheart      |  31   |      -10 |
+| 9                 | 2021-06-12 | eagle-farm R5    | 9 Reloaded         |  34   |      -10 |
+| 5                 | 2021-06-12 | eagle-farm R4    | 2 Brimham Rocks    |  13   |      -10 |
+| 7                 | 2021-06-02 | warwick-farm R1  | 3 Superfield       |   5.5 |      -10 |
+| 6                 | 2021-05-29 | eagle-farm R5    | 4 Brimham Rocks    |   8.5 |      -10 |
+| :2nd_place_medal: | 2021-05-29 | eagle-farm R4    | 11 So You Win      |   4.5 |      -10 |
+| 8                 | 2021-05-26 | canterbury R6    | 5 Sir Aglovale     |   6   |      -10 |
+| 4                 | 2021-05-26 | canterbury R3    | 3 Macushla         |  10   |      -10 |
+| :2nd_place_medal: | 2021-05-22 | doomben R3       | 6 Hoover Lucy      |   8.5 |      -10 |
+| 0                 | 2021-05-01 | eagle-farm R7    | 7 Bucharest        |  23   |      -10 |
+| 7                 | 2021-04-28 | warwick-farm R7  | 2 Crystal Pegasus  |  41   |      -10 |
+| :2nd_place_medal: | 2021-04-28 | warwick-farm R1  | 5 Sur La Mer       |   3.1 |      -10 |
+| 8                 | 2021-04-25 | kensington R2    | 3 Macushla         |  26   |      -10 |
+| :boom:            | 2021-04-24 | randwick R3      | 6 Senor Toba       |  28   |      270 |
+| :3rd_place_medal: | 2021-04-21 | canterbury R1    | 2 Kahuka           |   6.5 |      -10 |
+| 0                 | 2021-04-17 | randwick R10     | 4 Fiesta           |   9   |      -10 |
+| :3rd_place_medal: | 2021-04-14 | hawkesbury R2    | 8 Hoover Lucy      |   6.5 |      -10 |
+| :boom:            | 2021-04-14 | hawkesbury R1    | 2 Aslav            |   6.3 |       53 |
+| :boom:            | 2021-04-07 | canterbury R3    | 1 El Buena         |  18.8 |      178 |
+| 7                 | 2021-04-07 | canterbury R1    | 2 Rapids           |   7.5 |      -10 |
+| 0                 | 2021-03-27 | rosehill R6      | 1 Kolding          |   0   |      -10 |
+| 0                 | 2021-03-27 | rosehill R5      | 4 Milford          |   0   |      -10 |
+| 0                 | 2021-03-27 | rosehill R5      | 4 Milford          |   0   |      -10 |
+| 6                 | 2021-03-17 | kensington R6    | 4 Relucent         |   9.5 |      -10 |
+| 4                 | 2021-03-17 | kensington R1    | 1 Rapids           |   3.7 |      -10 |
+| :3rd_place_medal: | 2021-03-13 | moonee-valley R2 | 5 Wizard Of Oz     |  15   |      -10 |
+| 5                 | 2021-03-10 | kensington R7    | 1 Only Words       |  26   |      -10 |
+| 7                 | 2021-03-10 | kensington R5    | 3 Tinker McPhee    |   5.5 |      -10 |
+| :3rd_place_medal: | 2021-03-10 | kensington R1    | 3 Rapids           |   4.8 |      -10 |
+| 8                 | 2021-03-03 | warwick-farm R1  | 5 Big Angel        |  19.2 |      -10 |
+| :boom:            | 2021-02-27 | randwick R8      | 2 Yonkers          |  21.6 |      206 |
+| 5                 | 2021-02-27 | randwick R6      | 1 Kolding          |   4.6 |      -10 |
+| 6                 | 2021-02-27 | randwick R2      | 1 Shaquero         |   2.8 |      -10 |
+| 0                 | 2021-02-24 | gosford R2       | 3 Ossabuco         |   4.2 |      -10 |
+| :2nd_place_medal: | 2021-02-13 | randwick R7      | 1 Kolding          |   5   |      -10 |
+| 9                 | 2021-02-13 | randwick R5      | 3 Yonkers          |  14   |      -10 |
+| 5                 | 2021-02-06 | randwick R8      | 4 The Lord Mayor   |  26   |      -10 |
+| 10                | 2021-02-06 | randwick R1      | 1 Conexy           |   5.5 |      -10 |
+| :boom:            | 2021-02-03 | kensington R2    | 1 Wheelhouse       |   4.7 |       37 |
+| 6                 | 2021-01-30 | rosehill R8      | 4 Yonkers          |  13   |      -10 |
+| 5                 | 2021-01-29 | canterbury R2    | 3 Kermajack        |  41   |      -10 |
+| 4                 | 2021-01-26 | warwick-farm R4  | 6 Yiyi             |   9.5 |      -10 |
+| 5                 | 2021-01-23 | randwick R10     | 3 Matowi           |  11   |      -10 |
