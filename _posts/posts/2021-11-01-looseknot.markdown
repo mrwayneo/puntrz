@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-11-01 01:07:59 +1000  
+date: 2021-11-01 01:13:17 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
 | 02:05             | 2021-11-01 | lingfield R6                  | 4 Gerico Ville        |   8    |    -10   |
-| 01:10             | 2021-11-01 | naas R4                       | 5 Figaruso            |  51    |    -10   |
+| 0                 | 2021-11-01 | naas R4                       | 5 Figaruso            |   0    |    -10   |
 | 0                 | 2021-10-31 | carlisle R2                   | 11 K C Bailey         |   0    |    -10   |
 | 0                 | 2021-10-31 | goulburn R8                   | 10 Prince Aurelius    |   0    |    -10   |
 | :2nd_place_medal: | 2021-10-31 | wolverhampton R2              | 11 Beryl The Peril    |   4.4  |    -10   |

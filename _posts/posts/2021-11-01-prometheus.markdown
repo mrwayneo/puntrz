@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-11-01 01:08:08 +1000  
+date: 2021-11-01 01:13:28 +1000  
 categories: None 
 ---   
 
@@ -20,7 +20,7 @@ categories: None
 | 01:45             | 2021-11-01 | greyville R8                  | 8 Willy The Wizzard   |   0    |    -10   |
 | 01:45             | 2021-11-01 | greyville R8                  | 5 Galabier            |   0    |    -10   |
 | 01:45             | 2021-11-01 | greyville R8                  | 4 Tommy The Kidd      |   0    |    -10   |
-| 01:10             | 2021-11-01 | greyville R7                  | 10 Callmemrgreenlight |   0    |    -10   |
+| 0                 | 2021-11-01 | greyville R7                  | 10 Callmemrgreenlight |   0    |    -10   |
 | 0                 | 2021-11-01 | greyville R6                  | 1 Jacqueline          |   0    |    -10   |
 | 0                 | 2021-11-01 | greyville R6                  | 3 Basetsana           |   0    |    -10   |
 | 0                 | 2021-11-01 | greyville R6                  | 5 Pinch Me            |   0    |    -10   |
