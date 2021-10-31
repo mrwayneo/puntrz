@@ -1,0 +1,25 @@
+---   
+layout: post   
+title: "Jmac"   
+date: 2021-11-01 02:18:18 +1000  
+categories: None 
+---   
+
+
+| timeframe      |   runs |   wins |   profit |   sr |   roi |
+|:---------------|-------:|-------:|---------:|-----:|------:|
+| Last 7 Days    |      8 |      4 |       61 |  0.5 |  0.76 |
+| Last 28 Days   |      8 |      4 |       61 |  0.5 |  0.76 |
+| Last 6 Months  |      8 |      4 |       61 |  0.5 |  0.76 |
+| Since Jan 2020 |      8 |      4 |       61 |  0.5 |  0.76 |
+
+| finish            | date       | event         | runner            |   win |   return |
+|:------------------|:-----------|:--------------|:------------------|------:|---------:|
+| :boom:            | 2021-10-30 | flemington R9 | 5 Minhaaj         |   3.7 |       27 |
+| :3rd_place_medal: | 2021-10-30 | flemington R8 | 2 Cascadian       |   9.5 |      -10 |
+| :boom:            | 2021-10-30 | flemington R7 | 5 Home Affairs    |   5.7 |       47 |
+| 13                | 2021-10-30 | flemington R5 | 9 Amarelinha      |  10   |      -10 |
+| 4                 | 2021-10-30 | flemington R4 | 4 Brooklyn Hustle |   4.4 |      -10 |
+| :2nd_place_medal: | 2021-10-30 | flemington R3 | 2 Daisies         |   6   |      -10 |
+| :boom:            | 2021-10-30 | flemington R2 | 4 Great House     |   3   |       20 |
+| :boom:            | 2021-10-30 | flemington R1 | 11 Fangirl        |   1.7 |        7 |
