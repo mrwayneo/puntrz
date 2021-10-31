@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2021-11-01 01:11:55 +1000  
+date: 2021-11-01 01:35:48 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
 | 02:05             | 2021-11-01 | lingfield R6           | 5 Next Left           |  12    |    -10   |
 | 02:05             | 2021-11-01 | lingfield R6           | 1 Best Trition        |   3.5  |    -10   |
-| 01:25             | 2021-11-01 | cork R4                | 1 Bleu Berry          |   5.5  |    -10   |
+| 0                 | 2021-11-01 | cork R4                | 1 Bleu Berry          |   0    |    -10   |
 | 0                 | 2021-11-01 | cork R3                | 3 Captain Kangaroo    |   0    |    -10   |
 | 0                 | 2021-10-31 | cork R1                | 17 Showbusiness       |   0    |    -10   |
 | 0                 | 2021-10-31 | greyville R3           | 10 Running Rifles     |   0    |    -10   |

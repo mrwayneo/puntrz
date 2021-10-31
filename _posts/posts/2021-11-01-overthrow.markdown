@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "OverThrow"   
-date: 2021-11-01 01:12:14 +1000  
+date: 2021-11-01 01:36:36 +1000  
 categories: None 
 ---   
 
@@ -18,8 +18,8 @@ categories: None
 | 03:05             | 2021-11-01 | cork R7                | 4 Reine Machine       |  11    |    -10   |
 | 02:25             | 2021-11-01 | huntingdon R5          | 7 Crooks Peak         |   3.5  |    -10   |
 | 01:50             | 2021-11-01 | huntingdon R4          | 3 Cadzand             |   3.3  |    -10   |
-| 01:15             | 2021-11-01 | huntingdon R3          | 12 Giulietta          |   9.5  |    -10   |
-| 01:15             | 2021-11-01 | huntingdon R3          | 3 Brilliant Present   |  13    |    -10   |
+| 0                 | 2021-11-01 | huntingdon R3          | 12 Giulietta          |   0    |    -10   |
+| 0                 | 2021-11-01 | huntingdon R3          | 3 Brilliant Present   |   0    |    -10   |
 | 0                 | 2021-11-01 | huntingdon R2          | 6 Tarseem             |   0    |    -10   |
 | 0                 | 2021-10-31 | narrogin R6            | 1 Johnny Angel        |   0    |    -10   |
 | 0                 | 2021-10-31 | cairns R8              | 11 Buwan              |   0    |    -10   |

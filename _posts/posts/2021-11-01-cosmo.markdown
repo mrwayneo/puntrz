@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-11-01 01:12:56 +1000  
+date: 2021-11-01 01:37:02 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 02:45             | 2021-11-01 | naas R7                       | 8 Lynwood Gold        |  12   |      -10 |
 | 02:45             | 2021-11-01 | naas R7                       | 3 Yaxeni              |  17   |      -10 |
 | 02:15             | 2021-11-01 | naas R6                       | 16 Woodland Garden    | 101   |      -10 |
-| 01:30             | 2021-11-01 | lingfield R5                  | 10 Belle Na Bann      |  41   |      -10 |
+| 0                 | 2021-11-01 | lingfield R5                  | 10 Belle Na Bann      |   0   |      -10 |
 | 0                 | 2021-11-01 | cork R3                       | 2 Benbulben Boy       |   0   |      -10 |
 | 0                 | 2021-10-31 | cork R1                       | 8 Gift Of Kings       |   0   |      -10 |
 | 0                 | 2021-10-31 | cairns R8                     | 8 Catcha Spark        |   0   |      -10 |

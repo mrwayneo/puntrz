@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-01 01:14:03 +1000  
+date: 2021-11-01 01:38:05 +1000  
 categories: None 
 ---   
 
@@ -34,8 +34,8 @@ categories: None
 | 02:00             | 2021-11-01 | cork R5                       | 9 Dromore Lad         |  13    |    -10   |
 | 02:00             | 2021-11-01 | cork R5                       | 11 Whatsyourstatus    |  21    |    -10   |
 | 02:00             | 2021-11-01 | cork R5                       | 12 Arverne            |  17    |    -10   |
-| 01:30             | 2021-11-01 | lingfield R5                  | 11 Style Council      |  81    |    -10   |
-| 01:30             | 2021-11-01 | lingfield R5                  | 10 Belle Na Bann      |  41    |    -10   |
+| 0                 | 2021-11-01 | lingfield R5                  | 11 Style Council      |   0    |    -10   |
+| 0                 | 2021-11-01 | lingfield R5                  | 10 Belle Na Bann      |   0    |    -10   |
 | 0                 | 2021-11-01 | cork R3                       | 2 Benbulben Boy       |   0    |    -10   |
 | 0                 | 2021-11-01 | huntingdon R2                 | 3 Sabre Jet           |   0    |    -10   |
 | 0                 | 2021-11-01 | carlisle R4                   | 6 Willy Nilly         |   0    |    -10   |
