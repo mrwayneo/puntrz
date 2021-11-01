@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-11-01 17:04:34 +1000  
+date: 2021-11-01 20:17:55 +1000  
 categories: None 
 ---   
 
@@ -34,7 +34,7 @@ categories: None
 | 21:00             | 2021-11-01 | greyville R2                  | 3 Lady Macbeth        |   0    |    -10   |
 | 21:00             | 2021-11-01 | greyville R2                  | 2 Crazy Blues         |   0    |    -10   |
 | 20:30             | 2021-11-01 | greyville R1                  | 5 Venturous           |   0    |    -10   |
-| 17:30             | 2021-11-01 | corowa R7                     | 5 Flying Finch        |   3.4  |    -10   |
+| 0                 | 2021-11-01 | corowa R7                     | 5 Flying Finch        |   0    |    -10   |
 | 0                 | 2021-11-01 | ballina R3                    | 6 Hypertension        |   0    |    -10   |
 | 0                 | 2021-11-01 | ballina R2                    | 8 Squeeze Dis         |   0    |    -10   |
 | 0                 | 2021-11-01 | ballarat R3                   | 4 Andalusia           |   0    |    -10   |
