@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-02 00:12:47 +1000  
+date: 2021-11-02 09:17:49 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event            | runner               |   win |   return |
 |:------------------|:-----------|:-----------------|:---------------------|------:|---------:|
-| 02:05             | 2021-11-02 | kempton R6       | 2 Outbox             |  8    |    -10   |
+| 0                 | 2021-11-02 | kempton R6       | 2 Outbox             |  0    |    -10   |
 | 4                 | 2021-11-01 | cork R4          | 5 Noble Yeats        |  6.5  |    -10   |
 | 0                 | 2021-11-01 | huntingdon R3    | 1 Tequila Blaze      |  0    |    -10   |
 | 0                 | 2021-11-01 | carlisle R4      | 1 Captain Moirette   |  0    |    -10   |

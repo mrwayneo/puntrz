@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-02 00:14:31 +1000  
+date: 2021-11-02 09:25:28 +1000  
 categories: None 
 ---   
 
@@ -15,23 +15,23 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:15             | 2021-11-02 | plumpton R7                   | 12 Vital Sign         |  67    |    -10   |
-| 03:15             | 2021-11-02 | plumpton R7                   | 6 Dell Oro            |  10    |    -10   |
-| 03:15             | 2021-11-02 | plumpton R7                   | 11 Lincoln Lyn        |  10    |    -10   |
-| 02:20             | 2021-11-02 | laytown R4                    | 6 Silverkode          |  11    |    -10   |
-| 02:15             | 2021-11-02 | plumpton R5                   | 4 On The Meter        |  10    |    -10   |
-| 02:15             | 2021-11-02 | plumpton R5                   | 1 Statistical         |  51    |    -10   |
-| 02:15             | 2021-11-02 | plumpton R5                   | 3 Ivilnoble           |  15    |    -10   |
-| 01:55             | 2021-11-02 | hereford R6                   | 3 Templier            |  21    |    -10   |
-| 01:55             | 2021-11-02 | hereford R6                   | 10 Alburn             | 101    |    -10   |
-| 01:45             | 2021-11-02 | plumpton R4                   | 8 Breaking Waves      |  12    |    -10   |
-| 01:15             | 2021-11-02 | plumpton R3                   | 5 Istorius            |  21    |    -10   |
-| 01:05             | 2021-11-02 | kempton R4                    | 1 Cityzen Serg        |  21    |    -10   |
-| 01:05             | 2021-11-02 | kempton R4                    | 2 Asdaa               |  13    |    -10   |
-| 00:45             | 2021-11-02 | plumpton R2                   | 3 Iron In The Soul    |  71    |    -10   |
-| 00:25             | 2021-11-02 | hereford R3                   | 7 Miltiades           |  19    |    -10   |
-| 00:25             | 2021-11-02 | hereford R3                   | 5 Latent Heat         |  26    |    -10   |
-| 00:23             | 2021-11-02 | greyville R8                  | 8 Vunderbar           |   3.4  |    -10   |
+| 0                 | 2021-11-02 | plumpton R7                   | 12 Vital Sign         |   0    |    -10   |
+| 0                 | 2021-11-02 | plumpton R7                   | 6 Dell Oro            |   0    |    -10   |
+| 0                 | 2021-11-02 | plumpton R7                   | 11 Lincoln Lyn        |   0    |    -10   |
+| 0                 | 2021-11-02 | laytown R4                    | 6 Silverkode          |   0    |    -10   |
+| 0                 | 2021-11-02 | plumpton R5                   | 4 On The Meter        |   0    |    -10   |
+| 0                 | 2021-11-02 | plumpton R5                   | 1 Statistical         |   0    |    -10   |
+| 0                 | 2021-11-02 | plumpton R5                   | 3 Ivilnoble           |   0    |    -10   |
+| 0                 | 2021-11-02 | hereford R6                   | 3 Templier            |   0    |    -10   |
+| 0                 | 2021-11-02 | hereford R6                   | 10 Alburn             |   0    |    -10   |
+| 0                 | 2021-11-02 | plumpton R4                   | 8 Breaking Waves      |   0    |    -10   |
+| 0                 | 2021-11-02 | plumpton R3                   | 5 Istorius            |   0    |    -10   |
+| 0                 | 2021-11-02 | kempton R4                    | 1 Cityzen Serg        |   0    |    -10   |
+| 0                 | 2021-11-02 | kempton R4                    | 2 Asdaa               |   0    |    -10   |
+| 0                 | 2021-11-02 | plumpton R2                   | 3 Iron In The Soul    |   0    |    -10   |
+| 0                 | 2021-11-02 | hereford R3                   | 7 Miltiades           |   0    |    -10   |
+| 0                 | 2021-11-02 | hereford R3                   | 5 Latent Heat         |   0    |    -10   |
+| 0                 | 2021-11-02 | greyville R8                  | 8 Vunderbar           |   0    |    -10   |
 | 0                 | 2021-11-02 | plumpton R1                   | 8 She's So Lovely     |   0    |    -10   |
 | 0                 | 2021-11-01 | kempton R1                    | 8 Bagatelle           |   0    |    -10   |
 | 0                 | 2021-11-01 | kempton R1                    | 1 Nuble               |   0    |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-11-02 00:13:46 +1000  
+date: 2021-11-02 09:20:56 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:55             | 2021-11-02 | hereford R6                   | 9 Bullion             |   7    |    -10   |
+| 0                 | 2021-11-02 | hereford R6                   | 9 Bullion             |   0    |    -10   |
 | 0                 | 2021-11-01 | ballina R1                    | 5 Testabello          |   0    |    -10   |
 | 0                 | 2021-11-01 | lingfield R6                  | 4 Gerico Ville        |   0    |    -10   |
 | 0                 | 2021-11-01 | naas R4                       | 5 Figaruso            |   0    |    -10   |

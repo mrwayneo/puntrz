@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-11-02 00:13:57 +1000  
+date: 2021-11-02 09:21:53 +1000  
 categories: None 
 ---   
 
@@ -15,9 +15,9 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:00             | 2021-11-02 | wolverhampton R6              | 4 Son And Sannie      |   3.3  |    -10   |
-| 01:50             | 2021-11-02 | laytown R3                    | 4 Thaleeq             |   2.05 |    -10   |
-| 00:15             | 2021-11-02 | plumpton R1                   | 7 Miss Mulligan       |   3.3  |    -10   |
+| 0                 | 2021-11-02 | wolverhampton R6              | 4 Son And Sannie      |   0    |    -10   |
+| 0                 | 2021-11-02 | laytown R3                    | 4 Thaleeq             |   0    |    -10   |
+| 0                 | 2021-11-02 | plumpton R1                   | 7 Miss Mulligan       |   0    |    -10   |
 | 0                 | 2021-11-01 | greyville R7                  | 7 Bedazzled Joker     |   0    |    -10   |
 | 0                 | 2021-11-01 | greyville R7                  | 3 Alphamikefoxtrot    |   0    |    -10   |
 | 0                 | 2021-11-01 | greyville R4                  | 9 Wildlife Safari     |   0    |    -10   |

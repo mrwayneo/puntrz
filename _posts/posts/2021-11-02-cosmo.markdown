@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-11-02 00:13:24 +1000  
+date: 2021-11-02 09:19:34 +1000  
 categories: None 
 ---   
 
@@ -15,9 +15,9 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 01:05             | 2021-11-02 | kempton R4                    | 2 Asdaa               |  13   |      -10 |
-| 01:05             | 2021-11-02 | kempton R4                    | 1 Cityzen Serg        |  21   |      -10 |
-| 00:15             | 2021-11-02 | plumpton R1                   | 8 She's So Lovely     |  13   |      -10 |
+| 0                 | 2021-11-02 | kempton R4                    | 2 Asdaa               |   0   |      -10 |
+| 0                 | 2021-11-02 | kempton R4                    | 1 Cityzen Serg        |   0   |      -10 |
+| 0                 | 2021-11-02 | plumpton R1                   | 8 She's So Lovely     |   0   |      -10 |
 | 0                 | 2021-11-01 | naas R7                       | 8 Lynwood Gold        |   0   |      -10 |
 | :boom:            | 2021-11-01 | naas R7                       | 3 Yaxeni              |  41   |      400 |
 | 0                 | 2021-11-01 | naas R6                       | 16 Woodland Garden    |   0   |      -10 |

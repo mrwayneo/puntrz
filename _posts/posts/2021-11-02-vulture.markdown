@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2021-11-02 00:11:59 +1000  
+date: 2021-11-02 09:16:53 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 01:15             | 2021-11-02 | plumpton R3            | 6 Movethechains       |   1.9  |    -10   |
-| 01:15             | 2021-11-02 | plumpton R3            | 1 Terrafirma Lady     |   4    |    -10   |
+| 0                 | 2021-11-02 | plumpton R3            | 6 Movethechains       |   0    |    -10   |
+| 0                 | 2021-11-02 | plumpton R3            | 1 Terrafirma Lady     |   0    |    -10   |
 | 0                 | 2021-11-01 | hereford R1            | 1 A Distant Place     |   0    |    -10   |
 | 0                 | 2021-11-01 | greyville R6           | 2 Three Hearts        |   0    |    -10   |
 | 0                 | 2021-11-01 | ballina R6             | 3 Hostwin Toronado    |   0    |    -10   |

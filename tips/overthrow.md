@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-11-02 00:12:48 +1000  
+date: 2021-11-02 09:18:02 +1000  
 categories: None 
 ---   
 
@@ -15,11 +15,11 @@ categories: None
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 03:15             | 2021-11-02 | plumpton R7            | 5 Jen's Boy           |  11    |    -10   |
-| 01:55             | 2021-11-02 | hereford R6            | 1 All Shook Up        |   3.3  |    -10   |
-| 01:45             | 2021-11-02 | plumpton R4            | 6 Hell Red            |   5.5  |    -10   |
-| 00:55             | 2021-11-02 | hereford R4            | 3 Greatest Star       |   3.5  |    -10   |
-| 00:45             | 2021-11-02 | plumpton R2            | 6 Doin'whatshelikes   |   6    |    -10   |
+| 0                 | 2021-11-02 | plumpton R7            | 5 Jen's Boy           |   0    |    -10   |
+| 0                 | 2021-11-02 | hereford R6            | 1 All Shook Up        |   0    |    -10   |
+| 0                 | 2021-11-02 | plumpton R4            | 6 Hell Red            |   0    |    -10   |
+| 0                 | 2021-11-02 | hereford R4            | 3 Greatest Star       |   0    |    -10   |
+| 0                 | 2021-11-02 | plumpton R2            | 6 Doin'whatshelikes   |   0    |    -10   |
 | 0                 | 2021-11-01 | ballina R6             | 3 Hostwin Toronado    |   0    |    -10   |
 | 0                 | 2021-11-01 | ballina R5             | 1 Brave Nick          |   0    |    -10   |
 | 0                 | 2021-11-01 | ballina R1             | 8 Thisland Is Myland  |   0    |    -10   |
