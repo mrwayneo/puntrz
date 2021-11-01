@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2021-11-01 10:07:54 +1000  
+date: 2021-11-01 16:58:46 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
 | 17:10             | 2021-11-01 | ballina R6             | 3 Hostwin Toronado    |  2.2  |    -10   |
-| 16:30             | 2021-11-01 | ballina R5             | 1 Brave Nick          |  1.95 |    -10   |
+| 0                 | 2021-11-01 | ballina R5             | 1 Brave Nick          |  0    |    -10   |
 | 6                 | 2021-10-31 | cairns R8              | 11 Buwan              |  8.5  |    -10   |
 | 4                 | 2021-10-31 | wetherby R6            | 6 Hidden Heroics      |  3.6  |    -10   |
 | :boom:            | 2021-10-31 | newmarket R7           | 5 Zakouski            |  2.5  |     15   |

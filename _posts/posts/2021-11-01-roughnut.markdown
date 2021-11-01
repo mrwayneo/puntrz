@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-01 10:19:04 +1000  
+date: 2021-11-01 17:06:05 +1000  
 categories: None 
 ---   
 
@@ -36,9 +36,9 @@ categories: None
 | 23:35             | 2021-11-01 | kempton R1                    | 8 Bagatelle           |  21    |    -10   |
 | 23:35             | 2021-11-01 | kempton R1                    | 1 Nuble               |   6    |    -10   |
 | 23:35             | 2021-11-01 | kempton R1                    | 9 Sonnetina           |  11    |    -10   |
-| 15:10             | 2021-11-01 | ballina R3                    | 3 Superfield          |   4.2  |    -10   |
-| 15:00             | 2021-11-01 | bairnsdale R4                 | 10 Bon Torr Mor       |  67    |    -10   |
-| 13:43             | 2021-11-01 | corowa R1                     | 1 Command To Fight    |   9    |    -10   |
+| 0                 | 2021-11-01 | ballina R3                    | 3 Superfield          |   0    |    -10   |
+| 0                 | 2021-11-01 | bairnsdale R4                 | 10 Bon Torr Mor       |   0    |    -10   |
+| 0                 | 2021-11-01 | corowa R1                     | 1 Command To Fight    |   0    |    -10   |
 | :3rd_place_medal: | 2021-11-01 | huntingdon R6                 | 11 Racing Spirit      |  17    |    -10   |
 | 0                 | 2021-11-01 | huntingdon R6                 | 2 Lord Sparky         |   0    |    -10   |
 | 0                 | 2021-11-01 | huntingdon R6                 | 3 Benny Flies High    |   0    |    -10   |

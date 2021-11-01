@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-11-01 10:11:34 +1000  
+date: 2021-11-01 17:00:30 +1000  
 categories: None 
 ---   
 
@@ -21,8 +21,8 @@ categories: None
 | 00:55             | 2021-11-02 | hereford R4            | 3 Greatest Star       |   3.5  |    -10   |
 | 00:45             | 2021-11-02 | plumpton R2            | 6 Doin'whatshelikes   |   6    |    -10   |
 | 17:10             | 2021-11-01 | ballina R6             | 3 Hostwin Toronado    |   2.2  |    -10   |
-| 16:30             | 2021-11-01 | ballina R5             | 1 Brave Nick          |   1.95 |    -10   |
-| 14:00             | 2021-11-01 | ballina R1             | 8 Thisland Is Myland  |   2.15 |    -10   |
+| 0                 | 2021-11-01 | ballina R5             | 1 Brave Nick          |   0    |    -10   |
+| 0                 | 2021-11-01 | ballina R1             | 8 Thisland Is Myland  |   0    |    -10   |
 | 0                 | 2021-11-01 | cork R7                | 4 Reine Machine       |   0    |    -10   |
 | 0                 | 2021-11-01 | huntingdon R5          | 7 Crooks Peak         |   0    |    -10   |
 | 0                 | 2021-11-01 | huntingdon R4          | 3 Cadzand             |   0    |    -10   |

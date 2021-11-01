@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2021-11-01 10:09:06 +1000  
+date: 2021-11-01 16:59:01 +1000  
 categories: None 
 ---   
 
@@ -20,7 +20,7 @@ categories: None
 | 23:25             | 2021-11-01 | hereford R1            | 1 A Distant Place     |   1.7  |    -10   |
 | 23:15             | 2021-11-01 | greyville R6           | 2 Three Hearts        |   7.5  |    -10   |
 | 17:10             | 2021-11-01 | ballina R6             | 3 Hostwin Toronado    |   2.2  |    -10   |
-| 16:30             | 2021-11-01 | ballina R5             | 1 Brave Nick          |   1.95 |    -10   |
+| 0                 | 2021-11-01 | ballina R5             | 1 Brave Nick          |   0    |    -10   |
 | :3rd_place_medal: | 2021-11-01 | lingfield R6           | 5 Next Left           |  12    |    -10   |
 | :2nd_place_medal: | 2021-11-01 | lingfield R6           | 1 Best Trition        |   3.5  |    -10   |
 | :3rd_place_medal: | 2021-11-01 | cork R4                | 1 Bleu Berry          |   5.5  |    -10   |

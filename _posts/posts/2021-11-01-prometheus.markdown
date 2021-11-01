@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-11-01 10:17:17 +1000  
+date: 2021-11-01 17:04:34 +1000  
 categories: None 
 ---   
 
@@ -35,12 +35,12 @@ categories: None
 | 21:00             | 2021-11-01 | greyville R2                  | 2 Crazy Blues         |   0    |    -10   |
 | 20:30             | 2021-11-01 | greyville R1                  | 5 Venturous           |   0    |    -10   |
 | 17:30             | 2021-11-01 | corowa R7                     | 5 Flying Finch        |   3.4  |    -10   |
-| 15:10             | 2021-11-01 | ballina R3                    | 6 Hypertension        |   2.25 |    -10   |
-| 14:35             | 2021-11-01 | ballina R2                    | 8 Squeeze Dis         |   2.7  |    -10   |
-| 14:10             | 2021-11-01 | ballarat R3                   | 4 Andalusia           |   3.2  |    -10   |
-| 14:00             | 2021-11-01 | ballina R1                    | 8 Thisland Is Myland  |   2.15 |    -10   |
-| 14:00             | 2021-11-01 | ballina R1                    | 2 Cosmo Kramer        |   2.45 |    -10   |
-| 13:00             | 2021-11-01 | ballarat R1                   | 9 Sistine Explorer    |   2.35 |    -10   |
+| 0                 | 2021-11-01 | ballina R3                    | 6 Hypertension        |   0    |    -10   |
+| 0                 | 2021-11-01 | ballina R2                    | 8 Squeeze Dis         |   0    |    -10   |
+| 0                 | 2021-11-01 | ballarat R3                   | 4 Andalusia           |   0    |    -10   |
+| 0                 | 2021-11-01 | ballina R1                    | 8 Thisland Is Myland  |   0    |    -10   |
+| 0                 | 2021-11-01 | ballina R1                    | 2 Cosmo Kramer        |   0    |    -10   |
+| 0                 | 2021-11-01 | ballarat R1                   | 9 Sistine Explorer    |   0    |    -10   |
 | 0                 | 2021-11-01 | carlisle R8                   | 2 Barrule Park        |   0    |    -10   |
 | 0                 | 2021-11-01 | greyville R8                  | 16 Winter Royale      |   0    |    -10   |
 | 4                 | 2021-11-01 | greyville R8                  | 8 Willy The Wizzard   |   0    |    -10   |
