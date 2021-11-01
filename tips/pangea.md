@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-02 09:17:49 +1000  
+date: 2021-11-02 10:02:32 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,36 @@ categories: None
 
 | finish            | date       | event            | runner               |   win |   return |
 |:------------------|:-----------|:-----------------|:---------------------|------:|---------:|
+| 00:50             | 2021-11-03 | vaal R5          | 1 Western Fort       |  0    |    -10   |
+| 23:55             | 2021-11-02 | exeter R1        | 3 Ask Me Early       |  3.7  |    -10   |
+| 19:06             | 2021-11-02 | darwin R7        | 4 Siakam             |  3.2  |    -10   |
+| 19:06             | 2021-11-02 | darwin R7        | 5 Taciturn           |  4.8  |    -10   |
+| 18:33             | 2021-11-02 | darwin R6        | 1 Mr Boomjangles     |  6    |    -10   |
+| 18:33             | 2021-11-02 | darwin R6        | 2 Trebla             |  3    |    -10   |
+| 18:33             | 2021-11-02 | darwin R6        | 3 El Sicario         |  3.9  |    -10   |
+| 18:29             | 2021-11-02 | eagle-farm R8    | 2 Firebox            |  4.2  |    -10   |
+| 17:56             | 2021-11-02 | darwin R5        | 1 Kaptan Apollo      |  4.6  |    -10   |
+| 17:48             | 2021-11-02 | eagle-farm R7    | 4 Le Palmier         |  2.3  |    -10   |
+| 17:48             | 2021-11-02 | eagle-farm R7    | 2 King Klaus         |  6.5  |    -10   |
+| 17:22             | 2021-11-02 | darwin R4        | 2 Autocratic         |  5    |    -10   |
+| 17:15             | 2021-11-02 | flemington R10   | 4 Prime Candidate    |  8.5  |    -10   |
+| 17:15             | 2021-11-02 | flemington R10   | 6 Pandemic           |  4.8  |    -10   |
+| 17:15             | 2021-11-02 | flemington R10   | 13 Night Raid        | 17    |    -10   |
+| 17:15             | 2021-11-02 | flemington R10   | 8 Rubisaki           | 11    |    -10   |
+| 17:08             | 2021-11-02 | eagle-farm R6    | 4 Ingear             |  1.8  |    -10   |
+| 16:47             | 2021-11-02 | darwin R3        | 4 Overruled          |  2.6  |    -10   |
+| 16:23             | 2021-11-02 | canberra R6      | 3 Propose To Me      |  5    |    -10   |
+| 16:07             | 2021-11-02 | darwin R2        | 3 Syncline           |  2.35 |    -10   |
+| 16:07             | 2021-11-02 | darwin R2        | 4 The Captain        |  2.25 |    -10   |
+| 16:07             | 2021-11-02 | darwin R2        | 5 Dizzy Miss Lizzy   |  4.8  |    -10   |
+| 15:51             | 2021-11-02 | eagle-farm R4    | 7 Fetch              |  2.2  |    -10   |
+| 15:51             | 2021-11-02 | eagle-farm R4    | 3 Ralph's Honour     |  4.6  |    -10   |
+| 15:24             | 2021-11-02 | canberra R5      | 5 Port Douglas       |  4.2  |    -10   |
+| 14:33             | 2021-11-02 | ascot R1         | 7 Rebelzone          |  8    |    -10   |
+| 14:12             | 2021-11-02 | gold-coast R2    | 3 Winside            |  3.6  |    -10   |
+| 13:43             | 2021-11-02 | te-rapa R7       | 11 Tellall           |  3.9  |    -10   |
+| 13:32             | 2021-11-02 | morphettville R3 | 3 Tatalina           |  5    |    -10   |
+| 13:20             | 2021-11-02 | flemington R5    | 4 Blondeau           |  3.9  |    -10   |
 | 0                 | 2021-11-02 | kempton R6       | 2 Outbox             |  0    |    -10   |
 | 4                 | 2021-11-01 | cork R4          | 5 Noble Yeats        |  6.5  |    -10   |
 | 0                 | 2021-11-01 | huntingdon R3    | 1 Tequila Blaze      |  0    |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-11-02 09:19:13 +1000  
+date: 2021-11-02 10:04:46 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
+| 16:07             | 2021-11-02 | darwin R2               | 4 The Captain         |  2.25 |    -10   |
+| 15:51             | 2021-11-02 | eagle-farm R4           | 3 Ralph's Honour      |  4.6  |    -10   |
 | 0                 | 2021-10-30 | turffontein R5          | 2 Malmoos             |  0    |    -10   |
 | :boom:            | 2021-10-30 | ascot R8                | 7 Wilchino            |  2.4  |     14   |
 | 4                 | 2021-10-30 | flemington R8           | 14 Mr Brightside      |  4.2  |    -10   |
