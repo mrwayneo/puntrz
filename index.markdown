@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-02 23:35:03 +1000  
+date: 2021-11-03 00:33:45 +1000  
 ---   
 
 
@@ -30,22 +30,22 @@ date: 2021-11-02 23:35:03 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     40 |     11 |    408.5 | 0.28 |  1.02 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    167 |     48 |    119.5 | 0.29 |  0.07 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2606 |    152 |    -94   | 0.06 | -0    |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    354 |     74 |   -114   | 0.21 | -0.03 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    196 |     57 |   -190.9 | 0.29 | -0.1  |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     42 |      6 |   -199   | 0.14 | -0.47 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      0 |   -200   | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     50 |      8 |   -206.5 | 0.16 | -0.41 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    336 |     80 |   -295.6 | 0.24 | -0.09 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    486 |    122 |   -813   | 0.25 | -0.17 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    587 |    155 |  -1127.5 | 0.26 | -0.19 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    712 |    101 |  -1300.6 | 0.14 | -0.18 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1956 |    457 |  -1859.8 | 0.23 | -0.1  |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3157 |    707 |  -5777.5 | 0.22 | -0.18 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6219 |    913 |  -9762.2 | 0.15 | -0.16 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8359 |    453 | -15005.5 | 0.05 | -0.18 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     38 |     11 |    428.5 | 0.29 |  1.13 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    173 |     50 |    245.5 | 0.29 |  0.14 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    359 |     75 |   -133   | 0.21 | -0.04 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    194 |     57 |   -178.9 | 0.29 | -0.09 |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     44 |      6 |   -219   | 0.14 | -0.5  |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    335 |     81 |   -267.6 | 0.24 | -0.08 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     35 |      1 |   -304   | 0.03 | -0.87 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     80 |     11 |   -430.5 | 0.14 | -0.54 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    484 |    121 |   -817   | 0.25 | -0.17 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    589 |    155 |  -1162.5 | 0.26 | -0.2  |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    713 |    101 |  -1310.6 | 0.14 | -0.18 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2632 |    149 |  -1686   | 0.06 | -0.06 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1967 |    457 |  -2010.8 | 0.23 | -0.1  |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3149 |    704 |  -5874   | 0.22 | -0.19 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6224 |    911 |  -9988.7 | 0.15 | -0.16 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8399 |    448 | -16882.5 | 0.05 | -0.2  |
 
 |     | finish                   | time                | track          |   race |   number | name               |   odds | tipster              |
 |----:|:-------------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:---------------------|
@@ -108,29 +108,29 @@ date: 2021-11-02 23:35:03 +1000
 |  56 | :soon:                   | 2021-11-03 00:50:00 | vaal           |      5 |        8 | Fsquadron          |   0    | prometheus           |
 |  57 | :soon:                   | 2021-11-03 00:45:00 | fairyhouse     |      4 |        8 | Largy Debut        |   5    | milkman              |
 |  58 | :soon:                   | 2021-11-03 00:45:00 | fairyhouse     |      4 |       10 | Paladian Jewel     |  51    | roughnut             |
-|  59 | :soon:                   | 2021-11-03 00:25:00 | exeter         |      2 |        2 | Brief Times        |   4.5  | milkman              |
-|  60 | :soon:                   | 2021-11-03 00:25:00 | exeter         |      2 |        9 | Reilly             |   5.5  | evenodds,overthrow   |
-|  61 | :soon:                   | 2021-11-03 00:25:00 | exeter         |      2 |        5 | Huflower           |   2.5  | evenodds,overthrow   |
-|  62 | :soon:                   | 2021-11-03 00:20:00 | vaal           |      4 |        5 | Olympic Silk       |   0    | prometheus           |
-|  63 | :soon:                   | 2021-11-03 00:20:00 | vaal           |      4 |        1 | Western Dance      |   0    | prometheus           |
-|  64 | :soon:                   | 2021-11-03 00:15:00 | fairyhouse     |      3 |        1 | Astrophysicist     |  17    | roughnut             |
-|  65 | :soon:                   | 2021-11-03 00:10:00 | redcar         |      3 |        7 | Desert History     |   2.7  | prometheus           |
-|  66 | :soon:                   | 2021-11-03 00:03:00 | lingfield      |      2 |        6 | Kingsofthemidlands |   3.9  | looseknot            |
-|  67 | :soon:                   | 2021-11-02 23:55:00 | exeter         |      1 |        6 | Landen Calling     |  34    | overthrow            |
+|  59 | :hourglass_flowing_sand: | 2021-11-03 00:25:00 | exeter         |      2 |        2 | Brief Times        |   4.5  | milkman              |
+|  60 | :hourglass_flowing_sand: | 2021-11-03 00:25:00 | exeter         |      2 |        9 | Reilly             |   5.5  | evenodds,overthrow   |
+|  61 | :hourglass_flowing_sand: | 2021-11-03 00:25:00 | exeter         |      2 |        5 | Huflower           |   2.5  | evenodds,overthrow   |
+|  62 | :hourglass_flowing_sand: | 2021-11-03 00:20:00 | vaal           |      4 |        5 | Olympic Silk       |   0    | prometheus           |
+|  63 | :hourglass_flowing_sand: | 2021-11-03 00:20:00 | vaal           |      4 |        1 | Western Dance      |   0    | prometheus           |
+|  64 | :hourglass_flowing_sand: | 2021-11-03 00:15:00 | fairyhouse     |      3 |        1 | Astrophysicist     |  17    | roughnut             |
+|  65 | :hourglass_flowing_sand: | 2021-11-03 00:10:00 | redcar         |      3 |        7 | Desert History     |   2.7  | prometheus           |
+|  66 | :hourglass_flowing_sand: | 2021-11-03 00:03:00 | lingfield      |      2 |        6 | Kingsofthemidlands |   3.9  | looseknot            |
+|  67 | :hourglass_flowing_sand: | 2021-11-02 23:55:00 | exeter         |      1 |        6 | Landen Calling     |  34    | overthrow            |
 |  68 | :soon:                   | 2021-11-02 23:55:00 | exeter         |      1 |        3 | Ask Me Early       |   3.7  | pangea,milkman       |
-|  69 | :soon:                   | 2021-11-02 23:55:00 | exeter         |      1 |        7 | Mojito Royale      |  34    | roughnut             |
-|  70 | :soon:                   | 2021-11-02 23:55:00 | exeter         |      1 |        8 | Outlaw Peter       |   2.15 | overthrow            |
-|  71 | :soon:                   | 2021-11-02 23:50:00 | vaal           |      3 |       10 | Last Cheer         |   0    | prometheus           |
-|  72 | :soon:                   | 2021-11-02 23:50:00 | vaal           |      3 |        7 | Astral Plane       |   0    | prometheus           |
-|  73 | :soon:                   | 2021-11-02 23:50:00 | vaal           |      3 |        5 | Keepingthepeace    |   0    | prometheus           |
-|  74 | :soon:                   | 2021-11-02 23:50:00 | vaal           |      3 |        1 | Franklin           |   0    | prometheus           |
-|  75 | :soon:                   | 2021-11-02 23:50:00 | vaal           |      3 |        9 | Liverpool Legend   |   0    | prometheus           |
-|  76 | :soon:                   | 2021-11-02 23:45:00 | fairyhouse     |      2 |        7 | Save Us Avis       |  21    | roughnut             |
-|  77 | :soon:                   | 2021-11-02 23:45:00 | fairyhouse     |      2 |        8 | Sliabh Mhuire Lass |  26    | roughnut             |
-|  78 | :soon:                   | 2021-11-02 23:45:00 | fairyhouse     |      2 |       10 | Top Question       |  12    | roughnut             |
-|  79 | :soon:                   | 2021-11-02 23:45:00 | fairyhouse     |      2 |       12 | Laughing Trix      |  17    | roughnut             |
-|  80 | :soon:                   | 2021-11-02 23:45:00 | fairyhouse     |      2 |        5 | Double Windsor     |  17    | roughnut             |
-|  81 | :soon:                   | 2021-11-02 23:40:00 | redcar         |      2 |        8 | Purple Ice         |  67    | roughnut             |
+|  69 | :hourglass_flowing_sand: | 2021-11-02 23:55:00 | exeter         |      1 |        7 | Mojito Royale      |  34    | roughnut             |
+|  70 | :hourglass_flowing_sand: | 2021-11-02 23:55:00 | exeter         |      1 |        8 | Outlaw Peter       |   2.15 | overthrow            |
+|  71 | :hourglass_flowing_sand: | 2021-11-02 23:50:00 | vaal           |      3 |       10 | Last Cheer         |   0    | prometheus           |
+|  72 | :hourglass_flowing_sand: | 2021-11-02 23:50:00 | vaal           |      3 |        7 | Astral Plane       |   0    | prometheus           |
+|  73 | :hourglass_flowing_sand: | 2021-11-02 23:50:00 | vaal           |      3 |        5 | Keepingthepeace    |   0    | prometheus           |
+|  74 | :hourglass_flowing_sand: | 2021-11-02 23:50:00 | vaal           |      3 |        1 | Franklin           |   0    | prometheus           |
+|  75 | :hourglass_flowing_sand: | 2021-11-02 23:50:00 | vaal           |      3 |        9 | Liverpool Legend   |   0    | prometheus           |
+|  76 | :hourglass_flowing_sand: | 2021-11-02 23:45:00 | fairyhouse     |      2 |        7 | Save Us Avis       |  21    | roughnut             |
+|  77 | :hourglass_flowing_sand: | 2021-11-02 23:45:00 | fairyhouse     |      2 |        8 | Sliabh Mhuire Lass |  26    | roughnut             |
+|  78 | :hourglass_flowing_sand: | 2021-11-02 23:45:00 | fairyhouse     |      2 |       10 | Top Question       |  12    | roughnut             |
+|  79 | :hourglass_flowing_sand: | 2021-11-02 23:45:00 | fairyhouse     |      2 |       12 | Laughing Trix      |  17    | roughnut             |
+|  80 | :hourglass_flowing_sand: | 2021-11-02 23:45:00 | fairyhouse     |      2 |        5 | Double Windsor     |  17    | roughnut             |
+|  81 | :hourglass_flowing_sand: | 2021-11-02 23:40:00 | redcar         |      2 |        8 | Purple Ice         |  67    | roughnut             |
 |  82 | :hourglass_flowing_sand: | 2021-11-02 23:30:00 | lingfield      |      1 |        2 | Desert Pioneer     |   3.6  | looseknot            |
 |  83 | :hourglass_flowing_sand: | 2021-11-02 23:15:00 | fairyhouse     |      1 |        5 | A Girl Like Me     |  26    | roughnut             |
 |  84 | :hourglass_flowing_sand: | 2021-11-02 23:10:00 | vaal           |      2 |       10 | Pomodoro Hills     |   0    | prometheus           |
