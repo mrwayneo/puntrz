@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-11-02 15:17:14 +1000  
+date: 2021-11-02 16:01:54 +1000  
 categories: None 
 ---   
 
@@ -132,8 +132,8 @@ categories: None
 | :2nd_place_medal: | 2021-10-04 | killarney R8                  | 6 Echoes Of Family    |  12    |    -10   |
 | :boom:            | 2021-10-04 | uttoxeter R4                  | 1 Vocal Duke          |   2.87 |     18.7 |
 | 0                 | 2021-10-02 | fontwell R1                   | 6 Quiet Flow          |   0    |    -10   |
-| :3rd_place_medal: | 2021-10-02 | durbanville R5                | 9 Nasiriyah           |   3.8  |    -10   |
 | 0                 | 2021-10-02 | durbanville R5                | 7 Isle Of The Winds   |   8    |    -10   |
+| :3rd_place_medal: | 2021-10-02 | durbanville R5                | 9 Nasiriyah           |   3.8  |    -10   |
 | :boom:            | 2021-10-02 | redcar R2                     | 11 Mariha             |   7.8  |     68   |
 | 0                 | 2021-10-02 | gowran-park R2                | 3 Champ Royal         |   8    |    -10   |
 | 9                 | 2021-10-02 | mackay R7                     | 4 Battle Plane        |   8    |    -10   |
@@ -242,9 +242,9 @@ categories: None
 | :2nd_place_medal: | 2021-09-03 | ascot R2                      | 2 Koy Koy             |  16    |    -10   |
 | 0                 | 2021-09-03 | clonmel R5                    | 3 Khairy              |  21    |    -10   |
 | :2nd_place_medal: | 2021-09-03 | chelmsford-city R1            | 1 Axopar              |   2.8  |    -10   |
-| :2nd_place_medal: | 2021-09-02 | haydock R2                    | 9 Watchya             |   6.5  |    -10   |
 | 0                 | 2021-09-02 | haydock R2                    | 10 Yaahobby           |   5    |    -10   |
 | 4                 | 2021-09-02 | haydock R2                    | 1 Amor Vincit Omnia   |   2.62 |    -10   |
+| :2nd_place_medal: | 2021-09-02 | haydock R2                    | 9 Watchya             |   6.5  |    -10   |
 | :boom:            | 2021-09-02 | townsville R7                 | 9 Danawi              |   9.3  |     83   |
 | 0                 | 2021-09-02 | hamilton R5                   | 2 Victory Star        |   8.5  |    -10   |
 | 4                 | 2021-09-02 | bath R6                       | 2 Golden Wattle       |   8    |    -10   |
@@ -440,8 +440,8 @@ categories: None
 | 0                 | 2021-07-15 | wolverhampton R8              | 7 Party Planner       |   7    |    -10   |
 | 0                 | 2021-07-15 | catterick R6                  | 13 One More Su        |   4    |    -10   |
 | 0                 | 2021-07-15 | uttoxeter R7                  | 1 Legal Beagle        |   6.5  |    -10   |
-| :2nd_place_medal: | 2021-07-15 | uttoxeter R6                  | 10 Midnight Jewel     |   4.6  |    -10   |
 | 4                 | 2021-07-15 | uttoxeter R6                  | 9 Alfoski             |   9    |    -10   |
+| :2nd_place_medal: | 2021-07-15 | uttoxeter R6                  | 10 Midnight Jewel     |   4.6  |    -10   |
 | 4                 | 2021-07-14 | uttoxeter R3                  | 3 Capricia            |   8    |    -10   |
 | :boom:            | 2021-07-14 | doomben R4                    | 3 Nowitzki            |   4.3  |     33   |
 | :boom:            | 2021-07-14 | southwell R6                  | 2 Ballymilan          |   6.5  |     55   |
@@ -474,8 +474,8 @@ categories: None
 | :2nd_place_medal: | 2021-07-08 | kembla-grange R3              | 1 Da Nang Star        |   4.6  |    -10   |
 | 0                 | 2021-07-08 | yarmouth R4                   | 6 Amalfi Bay          |   8.5  |    -10   |
 | :3rd_place_medal: | 2021-07-07 | roscommon R8                  | 5 Faith Du Val        |   7    |    -10   |
-| :boom:            | 2021-07-07 | roscommon R6                  | 12 Punters Poet       |   5    |     40   |
 | :3rd_place_medal: | 2021-07-07 | roscommon R6                  | 10 Stealthy Tom       |   4.5  |    -10   |
+| :boom:            | 2021-07-07 | roscommon R6                  | 12 Punters Poet       |   5    |     40   |
 | :3rd_place_medal: | 2021-07-07 | roscommon R1                  | 6 Viking Hoard        |   9    |    -10   |
 | 0                 | 2021-07-06 | wolverhampton R2              | 5 Russco              |   3.8  |    -10   |
 | :3rd_place_medal: | 2021-07-06 | ripon R6                      | 10 Lockerbie          |   4.5  |    -10   |
@@ -756,8 +756,8 @@ categories: None
 | 0                 | 2021-04-23 | kilbeggan R8                  | 11 Barncroft          |   7    |    -10   |
 | 0                 | 2021-04-23 | warwick R7                    | 11 Hiway One O Three  |   9    |    -10   |
 | 0                 | 2021-04-23 | kilbeggan R3                  | 13 Lost Oscar         |   4.5  |    -10   |
-| 0                 | 2021-04-22 | perth R2                      | 15 Wake The Giant     |   5.5  |    -10   |
 | 0                 | 2021-04-22 | perth R2                      | 6 Ensel Du Perche     |   5.5  |    -10   |
+| 0                 | 2021-04-22 | perth R2                      | 15 Wake The Giant     |   5.5  |    -10   |
 | :3rd_place_medal: | 2021-04-22 | grafton R3                    | 8 Frida's Time        |   7    |    -10   |
 | 4                 | 2021-04-22 | grafton R3                    | 10 Diana Rocks        |   3.45 |    -10   |
 | 0                 | 2021-04-22 | woodville R1                  | 5 I'm Chuck           |   5.6  |    -10   |
