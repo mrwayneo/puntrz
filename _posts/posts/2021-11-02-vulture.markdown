@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2021-11-02 15:58:27 +1000  
+date: 2021-11-02 17:15:58 +1000  
 categories: None 
 ---   
 
@@ -21,17 +21,17 @@ categories: None
 | 19:06             | 2021-11-02 | darwin R7              | 8 Against The Tide    |   7    |    -10   |
 | 17:48             | 2021-11-02 | eagle-farm R7          | 2 King Klaus          |   6.5  |    -10   |
 | 17:48             | 2021-11-02 | eagle-farm R7          | 4 Le Palmier          |   2.3  |    -10   |
-| 17:15             | 2021-11-02 | flemington R10         | 6 Pandemic            |   4.8  |    -10   |
-| 17:08             | 2021-11-02 | eagle-farm R6          | 4 Ingear              |   1.8  |    -10   |
-| 16:52             | 2021-11-02 | morphettville R7       | 3 Champs D'or         |   6.5  |    -10   |
-| 16:47             | 2021-11-02 | darwin R3              | 4 Overruled           |   2.6  |    -10   |
-| 16:45             | 2021-11-02 | kembla-grange R7       | 3 Parlayed            |   1.55 |    -10   |
-| 16:07             | 2021-11-02 | darwin R2              | 5 Dizzy Miss Lizzy    |   4.8  |    -10   |
-| 16:05             | 2021-11-02 | kembla-grange R6       | 1 Coal Crusher        |   6    |    -10   |
-| 16:00             | 2021-11-02 | flemington R8          | 11 Promise Of Success |   3.1  |    -10   |
+| 0                 | 2021-11-02 | flemington R10         | 6 Pandemic            |   0    |    -10   |
+| :boom:            | 2021-11-02 | eagle-farm R6          | 4 Ingear              |   1.8  |      8   |
+| 9                 | 2021-11-02 | morphettville R7       | 3 Champs D'or         |   6.5  |    -10   |
+| :boom:            | 2021-11-02 | darwin R3              | 4 Overruled           |   2.7  |     17   |
+| :3rd_place_medal: | 2021-11-02 | kembla-grange R7       | 3 Parlayed            |   1.55 |    -10   |
+| 4                 | 2021-11-02 | darwin R2              | 5 Dizzy Miss Lizzy    |   4.8  |    -10   |
+| :2nd_place_medal: | 2021-11-02 | kembla-grange R6       | 1 Coal Crusher        |   6    |    -10   |
+| 0                 | 2021-11-02 | flemington R8          | 11 Promise Of Success |   0    |    -10   |
 | :2nd_place_medal: | 2021-11-02 | randwick R6            | 7 Six Again           |   2.45 |    -10   |
-| 0                 | 2021-11-02 | sunshine-coast R3      | 5 Moonlight Eclipse   |   0    |    -10   |
-| 0                 | 2021-11-02 | gold-coast R3          | 4 Fast Thinker        |   0    |    -10   |
+| 6                 | 2021-11-02 | sunshine-coast R3      | 5 Moonlight Eclipse   |  14    |    -10   |
+| 5                 | 2021-11-02 | gold-coast R3          | 4 Fast Thinker        |   5    |    -10   |
 | :3rd_place_medal: | 2021-11-02 | flemington R7          | 3 Spanish Mission     |  11    |    -10   |
 | :2nd_place_medal: | 2021-11-02 | randwick R5            | 7 Kypreos             |   4.6  |    -10   |
 | 7                 | 2021-11-02 | sunshine-coast R2      | 8 Rubyexpress         |   4    |    -10   |
@@ -47,8 +47,8 @@ categories: None
 | 0                 | 2021-11-01 | greyville R6           | 2 Three Hearts        |   0    |    -10   |
 | :boom:            | 2021-11-01 | ballina R6             | 3 Hostwin Toronado    |   1.6  |      6   |
 | 8                 | 2021-11-01 | ballina R5             | 1 Brave Nick          |   1.95 |    -10   |
-| :3rd_place_medal: | 2021-11-01 | lingfield R6           | 5 Next Left           |  12    |    -10   |
 | :2nd_place_medal: | 2021-11-01 | lingfield R6           | 1 Best Trition        |   3.5  |    -10   |
+| :3rd_place_medal: | 2021-11-01 | lingfield R6           | 5 Next Left           |  12    |    -10   |
 | :3rd_place_medal: | 2021-11-01 | cork R4                | 1 Bleu Berry          |   5.5  |    -10   |
 | 0                 | 2021-11-01 | cork R3                | 3 Captain Kangaroo    |   0    |    -10   |
 | 0                 | 2021-10-31 | cork R1                | 17 Showbusiness       |   0    |    -10   |
@@ -68,8 +68,8 @@ categories: None
 | :3rd_place_medal: | 2021-10-31 | newmarket R5           | 14 With The Moonlight |   3.3  |    -10   |
 | :boom:            | 2021-10-31 | kenilworth R5          | 3 Silver Sabre        |   6    |     50   |
 | 0                 | 2021-10-31 | kenilworth R5          | 1 Aye Aye             |   0    |    -10   |
-| :boom:            | 2021-10-31 | down-royal R4          | 2 Frodon              |   4    |     30   |
 | :2nd_place_medal: | 2021-10-31 | down-royal R4          | 3 Galvin              |   5    |    -10   |
+| :boom:            | 2021-10-31 | down-royal R4          | 2 Frodon              |   4    |     30   |
 | 0                 | 2021-10-31 | ascot R3               | 6 Editeur Du Gite     |   0    |    -10   |
 | :boom:            | 2021-10-31 | kenilworth R4          | 2 Tizona              |   3    |     20   |
 | 4                 | 2021-10-31 | kenilworth R4          | 3 Charlie Squadron    |   0    |    -10   |
@@ -122,8 +122,8 @@ categories: None
 | 0                 | 2021-10-30 | fairview R7            | 4 Hoedspruit          |   0    |    -10   |
 | 0                 | 2021-10-30 | fairview R7            | 5 Bayberry            |   0    |    -10   |
 | 0                 | 2021-10-29 | newmarket R3           | 1 Bahrain Pride       |   0    |    -10   |
-| 0                 | 2021-10-29 | down-royal R2          | 6 Glan                |   0    |    -10   |
 | 0                 | 2021-10-29 | down-royal R2          | 7 Party Central       |   0    |    -10   |
+| 0                 | 2021-10-29 | down-royal R2          | 6 Glan                |   0    |    -10   |
 | 0                 | 2021-10-29 | newmarket R2           | 5 Filistine           |   0    |    -10   |
 | 0                 | 2021-10-29 | fairview R4            | 5 Mr Cobbs            |   0    |    -10   |
 | 0                 | 2021-10-29 | fairview R1            | 5 Don Reposado        |   0    |    -10   |
@@ -202,9 +202,9 @@ categories: None
 | 0                 | 2021-10-23 | cheltenham R4          | 2 Back On The Lash    |   0    |    -10   |
 | :2nd_place_medal: | 2021-10-23 | cheltenham R4          | 4 Danny Kirwan        |   0    |    -10   |
 | :3rd_place_medal: | 2021-10-23 | newbury R4             | 5 Skytree             |   0    |    -10   |
+| 4                 | 2021-10-23 | cheltenham R2          | 1 Fidelio Vallis      |   0    |    -10   |
 | :2nd_place_medal: | 2021-10-23 | cheltenham R2          | 4 Buddy Rich          |   0    |    -10   |
 | :3rd_place_medal: | 2021-10-23 | cheltenham R2          | 3 Any News            |   0    |    -10   |
-| 4                 | 2021-10-23 | cheltenham R2          | 1 Fidelio Vallis      |   0    |    -10   |
 | :boom:            | 2021-10-22 | cheltenham R1          | 1 Camprond            |   1.35 |      3.5 |
 | :2nd_place_medal: | 2021-10-22 | cheltenham R1          | 2 Mars Harper         |   0    |    -10   |
 | 4                 | 2021-10-22 | launceston R9          | 2 Turk Delight        |   8.6  |    -10   |
@@ -247,8 +247,8 @@ categories: None
 | :3rd_place_medal: | 2021-10-17 | lismore R6             | 3 The Red One         |   5.5  |    -10   |
 | :2nd_place_medal: | 2021-10-17 | sunshine-coast R2      | 1 Allez Zou           |   4.4  |    -10   |
 | 0                 | 2021-10-17 | wolverhampton R6       | 1 Emblem Empire       |   0    |    -10   |
-| :boom:            | 2021-10-17 | ascot R6               | 7 Aldaary             |   5    |     40   |
 | 14                | 2021-10-17 | ascot R6               | 20 Sunray Major       |   3.4  |    -10   |
+| :boom:            | 2021-10-17 | ascot R6               | 7 Aldaary             |   5    |     40   |
 | :boom:            | 2021-10-17 | turffontein R9         | 9 Eskimo Pie          |   4.5  |     35   |
 | 0                 | 2021-10-17 | ffos-las R5            | 2 Cadzand             |   0    |    -10   |
 | :2nd_place_medal: | 2021-10-17 | ascot R5               | 7 Dubai Honour        |   8    |    -10   |
@@ -311,8 +311,8 @@ categories: None
 | :2nd_place_medal: | 2021-10-13 | port-lincoln R5        | 1 Fallow              |   1.85 |    -10   |
 | :2nd_place_medal: | 2021-10-13 | caulfield R4           | 2 Smokin' Romans      |   3.1  |    -10   |
 | 5                 | 2021-10-13 | cambridge R5           | 1 Rip Van Gogh        |   2.9  |    -10   |
-| :boom:            | 2021-10-13 | vaal R7                | 8 Al Muthana          |   1.65 |      6.5 |
 | 0                 | 2021-10-13 | vaal R7                | 1 Shango              |   0    |    -10   |
+| :boom:            | 2021-10-13 | vaal R7                | 8 Al Muthana          |   1.65 |      6.5 |
 | :boom:            | 2021-10-13 | vaal R5                | 1 Un Deux Trois       |   1.75 |      7.5 |
 | :2nd_place_medal: | 2021-10-12 | huntingdon R1          | 1 Percy's Word        |   1.6  |    -10   |
 | :boom:            | 2021-10-12 | vaal R3                | 4 Motown Magic        |   1.3  |      3   |
@@ -330,8 +330,8 @@ categories: None
 | 0                 | 2021-10-11 | goodwood R6            | 9 Hms President       |   0    |    -10   |
 | :3rd_place_medal: | 2021-10-11 | newton-abbot R6        | 4 Il Ridoto           |   2.25 |    -10   |
 | 0                 | 2021-10-11 | greyville R8           | 6 Giacomo Puccini     |   0    |    -10   |
-| 0                 | 2021-10-11 | goodwood R4            | 2 Unspoken            |   0    |    -10   |
 | 0                 | 2021-10-11 | goodwood R4            | 10 Al Jaddaf          |   0    |    -10   |
+| 0                 | 2021-10-11 | goodwood R4            | 2 Unspoken            |   0    |    -10   |
 | :2nd_place_medal: | 2021-10-11 | greyville R7           | 11 Pearl Of Asia      |   0    |    -10   |
 | :3rd_place_medal: | 2021-10-11 | greyville R6           | 12 Time To Roll       |   0    |    -10   |
 | 0                 | 2021-10-11 | greyville R6           | 6 Bold Decision       |   0    |    -10   |
@@ -350,9 +350,9 @@ categories: None
 | :boom:            | 2021-10-10 | chepstow R7            | 1 Timeforatune        |   1.67 |      6.7 |
 | :2nd_place_medal: | 2021-10-10 | chepstow R6            | 5 Manofthemountain    |   5.5  |    -10   |
 | :2nd_place_medal: | 2021-10-10 | turffontein R8         | 1 About To Storm      |   0    |    -10   |
-| 0                 | 2021-10-10 | newmarket R5           | 7 M C Muldoon         |   0    |    -10   |
 | 0                 | 2021-10-10 | newmarket R5           | 26 Foveros            |   0    |    -10   |
 | :2nd_place_medal: | 2021-10-10 | newmarket R5           | 12 Burning Victory    |   9.5  |    -10   |
+| 0                 | 2021-10-10 | newmarket R5           | 7 M C Muldoon         |   0    |    -10   |
 | 0                 | 2021-10-10 | chepstow R5            | 8 Champagne Well      |   0    |    -10   |
 | 0                 | 2021-10-10 | chepstow R5            | 18 Dargiannini        |   0    |    -10   |
 | 5                 | 2021-10-10 | chepstow R5            | 1 Proschema           |   6    |    -10   |
@@ -363,10 +363,10 @@ categories: None
 | :3rd_place_medal: | 2021-10-10 | chepstow R4            | 5 Presentandcounting  |   6    |    -10   |
 | :2nd_place_medal: | 2021-10-10 | chepstow R4            | 2 Fidelio Vallis      |   2.25 |    -10   |
 | 0                 | 2021-10-10 | newmarket R4           | 5 Glounthaune         |   0    |    -10   |
-| :boom:            | 2021-10-10 | newmarket R3           | 3 Coroebus            |   1.8  |      8   |
-| 0                 | 2021-10-10 | newmarket R3           | 11 United Nations     |   0    |    -10   |
 | 0                 | 2021-10-10 | newmarket R3           | 9 Scriptwriter        |   0    |    -10   |
 | 0                 | 2021-10-10 | newmarket R3           | 4 Dirtyoldtown        |   0    |    -10   |
+| 0                 | 2021-10-10 | newmarket R3           | 11 United Nations     |   0    |    -10   |
+| :boom:            | 2021-10-10 | newmarket R3           | 3 Coroebus            |   1.8  |      8   |
 | 0                 | 2021-10-10 | turffontein R5         | 5 Clafoutis           |   0    |    -10   |
 | :boom:            | 2021-10-10 | turffontein R5         | 4 Desert Miracle      |   1.1  |      1   |
 | :2nd_place_medal: | 2021-10-10 | turffontein R5         | 1 Golden Spoon        |   0    |    -10   |
@@ -399,11 +399,11 @@ categories: None
 | 0                 | 2021-10-09 | newmarket R6           | 11 Love Is Golden     |   0    |    -10   |
 | :2nd_place_medal: | 2021-10-09 | chepstow R6            | 9 Runwiththetide      |   4.2  |    -10   |
 | :3rd_place_medal: | 2021-10-09 | york R4                | 1 Mahrajaan           |   3.4  |    -10   |
-| 0                 | 2021-10-09 | newmarket R5           | 1 Bouquet             |   0    |    -10   |
-| 0                 | 2021-10-09 | newmarket R5           | 3 Concert Hall        |   0    |    -10   |
 | 0                 | 2021-10-09 | newmarket R5           | 9 Wild Beauty         |   0    |    -10   |
 | 0                 | 2021-10-09 | newmarket R5           | 5 Magical Lagoon      |   0    |    -10   |
 | :3rd_place_medal: | 2021-10-09 | newmarket R5           | 2 Cachet              |  19    |    -10   |
+| 0                 | 2021-10-09 | newmarket R5           | 3 Concert Hall        |   0    |    -10   |
+| 0                 | 2021-10-09 | newmarket R5           | 1 Bouquet             |   0    |    -10   |
 | 0                 | 2021-10-09 | newmarket R4           | 2 D'bai               |   0    |    -10   |
 | 0                 | 2021-10-09 | chepstow R4            | 6 First Street        |   0    |    -10   |
 | 0                 | 2021-10-09 | chepstow R4            | 8 Paso Doble          |   0    |    -10   |
@@ -444,8 +444,8 @@ categories: None
 | :2nd_place_medal: | 2021-10-06 | rosehill R2            | 3 Depiction           |   2.45 |    -10   |
 | 0                 | 2021-10-06 | kempton R6             | 10 Reelemin           |   3.8  |    -10   |
 | 4                 | 2021-10-06 | durbanville R7         | 1 Super Silvano       |   0    |    -10   |
-| 0                 | 2021-10-06 | leicester R4           | 1 Line Of Descent     |   3.7  |    -10   |
 | :3rd_place_medal: | 2021-10-06 | leicester R4           | 3 Forza Orta          |   4.4  |    -10   |
+| 0                 | 2021-10-06 | leicester R4           | 1 Line Of Descent     |   3.7  |    -10   |
 | 4                 | 2021-10-06 | durbanville R6         | 6 Star Of The South   |   0    |    -10   |
 | 0                 | 2021-10-06 | leicester R3           | 8 Liberation Point    |   6    |    -10   |
 | 0                 | 2021-10-06 | durbanville R5         | 4 Silent Trigger      |   0    |    -10   |
@@ -453,8 +453,8 @@ categories: None
 | :2nd_place_medal: | 2021-10-05 | durbanville R3         | 5 Zapatillas          |   0    |    -10   |
 | 0                 | 2021-10-05 | vaal R8                | 4 Understated         |   0    |    -10   |
 | 0                 | 2021-10-05 | tipperary R4           | 6 Forest Of Dreams    |   0    |    -10   |
-| :2nd_place_medal: | 2021-10-05 | lingfield R6           | 3 Shobiz              |   2.62 |    -10   |
 | :boom:            | 2021-10-05 | lingfield R6           | 8 Tarhib              |   1.8  |      8   |
+| :2nd_place_medal: | 2021-10-05 | lingfield R6           | 3 Shobiz              |   2.62 |    -10   |
 | 0                 | 2021-10-05 | lingfield R5           | 8 Basilicata          |   0    |    -10   |
 | :3rd_place_medal: | 2021-10-05 | vaal R7                | 7 Space Race          |   6    |    -10   |
 | 0                 | 2021-10-05 | vaal R6                | 1 Puff Of Smoke       |   0    |    -10   |
@@ -470,9 +470,9 @@ categories: None
 | 5                 | 2021-10-04 | warwick-farm R2        | 3 Dhakuri             |   1.9  |    -10   |
 | :2nd_place_medal: | 2021-10-04 | warwick-farm R1        | 1 Castlereagh Kid     |   4.6  |    -10   |
 | 0                 | 2021-10-04 | uttoxeter R8           | 3 Another Brown Bear  |   0    |    -10   |
-| 0                 | 2021-10-04 | turffontein R9         | 2 Top Wesselton       |   0    |    -10   |
 | :3rd_place_medal: | 2021-10-04 | turffontein R9         | 1 Black Thorn         |   9.5  |    -10   |
 | :boom:            | 2021-10-04 | turffontein R9         | 5 Clafoutis           |   3.7  |     27   |
+| 0                 | 2021-10-04 | turffontein R9         | 2 Top Wesselton       |   0    |    -10   |
 | :boom:            | 2021-10-04 | turffontein R8         | 5 City By The Sea     |   2.8  |     18   |
 | :2nd_place_medal: | 2021-10-04 | turffontein R8         | 7 Eskimo Pie          |   4.6  |    -10   |
 | :3rd_place_medal: | 2021-10-04 | greyville R8           | 1 Birdwatcher         |   4.4  |    -10   |
@@ -500,8 +500,8 @@ categories: None
 | 0                 | 2021-10-03 | newmarket R6           | 4 Babindi             |  16    |    -10   |
 | :3rd_place_medal: | 2021-10-03 | newmarket R6           | 1 Beholding           |   3.25 |    -10   |
 | 0                 | 2021-10-03 | durbanville R7         | 1 Nexus               |  10    |    -10   |
-| :boom:            | 2021-10-02 | newmarket R4           | 10 Saffron Beach      |   6    |     50   |
 | 0                 | 2021-10-02 | newmarket R4           | 8 No Speak Alexander  |  13    |    -10   |
+| :boom:            | 2021-10-02 | newmarket R4           | 10 Saffron Beach      |   6    |     50   |
 | 4                 | 2021-10-02 | ascot R3               | 6 Quickthorn          |   4.4  |    -10   |
 | :boom:            | 2021-10-02 | ascot R3               | 1 Hukum               |   3.12 |     21.2 |
 | 0                 | 2021-10-02 | chester R2             | 1 Major Jumbo         |   4.8  |    -10   |
@@ -525,8 +525,8 @@ categories: None
 | 7                 | 2021-10-02 | morphettville-parks R6 | 5 Cold Beers          |   9.5  |    -10   |
 | :boom:            | 2021-10-02 | gold-coast R6          | 1 Smart Star Prince   |   2.2  |     12   |
 | 4                 | 2021-10-02 | flemington R7          | 4 Verry Elleegant     |   2.2  |    -10   |
-| :boom:            | 2021-10-02 | kalgoorlie R2          | 7 Regal City          |   2.8  |     18   |
 | 5                 | 2021-10-02 | kalgoorlie R2          | 2 Egg White           |   3.4  |    -10   |
+| :boom:            | 2021-10-02 | kalgoorlie R2          | 7 Regal City          |   2.8  |     18   |
 | :3rd_place_medal: | 2021-10-02 | flemington R5          | 3 Bruckner            |  12    |    -10   |
 | 10                | 2021-10-02 | doomben R5             | 12 Daytona Danica     | 101    |    -10   |
 | 7                 | 2021-10-02 | doomben R4             | 3 Spanish Point       |   7.5  |    -10   |
@@ -604,10 +604,10 @@ categories: None
 | 4                 | 2021-09-28 | queanbeyan R5          | 4 Jac The Great       |   4.6  |    -10   |
 | :2nd_place_medal: | 2021-09-28 | yeppoon R1             | 1 Fire King           |   2.1  |    -10   |
 | :boom:            | 2021-09-28 | newcastle R2           | 1 Aunt Bethany        |   5.7  |     47   |
-| :boom:            | 2021-09-28 | durbanville R8         | 4 Amanzimtoti         |   4.2  |     32   |
-| :2nd_place_medal: | 2021-09-28 | durbanville R8         | 12 Forries Forever    |  16    |    -10   |
-| :3rd_place_medal: | 2021-09-28 | durbanville R8         | 5 Queen Of Shadows    |   3.9  |    -10   |
 | 0                 | 2021-09-28 | durbanville R8         | 1 Miss Smarty Pants   |  34    |    -10   |
+| :3rd_place_medal: | 2021-09-28 | durbanville R8         | 5 Queen Of Shadows    |   3.9  |    -10   |
+| :2nd_place_medal: | 2021-09-28 | durbanville R8         | 12 Forries Forever    |  16    |    -10   |
+| :boom:            | 2021-09-28 | durbanville R8         | 4 Amanzimtoti         |   4.2  |     32   |
 | 0                 | 2021-09-28 | roscommon R5           | 5 Presenting Bonnie   |  21    |    -10   |
 | :2nd_place_medal: | 2021-09-27 | bath R2                | 3 Firth Of Clyde      |   1.62 |    -10   |
 | :3rd_place_medal: | 2021-09-27 | durbanville R4         | 7 Kwinta's Light      |   3    |    -10   |
@@ -639,8 +639,8 @@ categories: None
 | :2nd_place_medal: | 2021-09-26 | newmarket R8           | 6 The Attorney        |   5    |    -10   |
 | 0                 | 2021-09-26 | newmarket R7           | 5 Outside World       |   4.6  |    -10   |
 | :boom:            | 2021-09-26 | ripon R5               | 5 Dreams Unwind       |   4.2  |     32   |
-| :3rd_place_medal: | 2021-09-26 | durbanville R8         | 4 Knights Templar     |   7    |    -10   |
 | 0                 | 2021-09-26 | durbanville R8         | 2 Irish Tractor       |   4.6  |    -10   |
+| :3rd_place_medal: | 2021-09-26 | durbanville R8         | 4 Knights Templar     |   7    |    -10   |
 | :boom:            | 2021-09-26 | haydock R7             | 3 Pride Of Priory     |   1.91 |      9.1 |
 | 4                 | 2021-09-26 | turffontein R9         | 6 Corvette Captain    |   8    |    -10   |
 | :2nd_place_medal: | 2021-09-26 | market-rasen R4        | 2 Gortroe Joe         |   7.5  |    -10   |
@@ -649,16 +649,16 @@ categories: None
 | :2nd_place_medal: | 2021-09-26 | newmarket R5           | 25 Anmaat             |   6.5  |    -10   |
 | 6                 | 2021-09-26 | newmarket R5           | 10 Uncle Bryn         |  12    |    -10   |
 | 0                 | 2021-09-26 | turffontein R8         | 7 Successful Ruler    |   7    |    -10   |
-| 0                 | 2021-09-26 | durbanville R6         | 5 It's About Time     |   9.5  |    -10   |
 | 4                 | 2021-09-26 | durbanville R6         | 7 Waiting For Summer  |  15    |    -10   |
+| 0                 | 2021-09-26 | durbanville R6         | 5 It's About Time     |   9.5  |    -10   |
 | :2nd_place_medal: | 2021-09-26 | haydock R5             | 1 Call Me Ginger      |   3    |    -10   |
 | 0                 | 2021-09-26 | newmarket R4           | 5 Dr Zempf            |   5.5  |    -10   |
 | 0                 | 2021-09-26 | newmarket R4           | 7 Hms Endeavour       |  16    |    -10   |
 | :3rd_place_medal: | 2021-09-25 | turffontein R7         | 4 Grappler            |   5.5  |    -10   |
 | :2nd_place_medal: | 2021-09-25 | market-rasen R2        | 5 Scots Gold          |   5.5  |    -10   |
-| :2nd_place_medal: | 2021-09-25 | durbanville R5         | 7 High Hosanna        |   6.5  |    -10   |
 | :boom:            | 2021-09-25 | durbanville R5         | 3 Veronica Mars       |   4.4  |     34   |
 | :3rd_place_medal: | 2021-09-25 | durbanville R5         | 4 Gimme Dat           |   2.8  |    -10   |
+| :2nd_place_medal: | 2021-09-25 | durbanville R5         | 7 High Hosanna        |   6.5  |    -10   |
 | :boom:            | 2021-09-25 | newmarket R3           | 10 Tenebrism          |  15.1  |    141   |
 | :2nd_place_medal: | 2021-09-25 | newmarket R3           | 4 Flotus              |  12    |    -10   |
 | 0                 | 2021-09-25 | newmarket R3           | 8 Sacred Bridge       |   2.62 |    -10   |
@@ -674,9 +674,9 @@ categories: None
 | :2nd_place_medal: | 2021-09-25 | turffontein R2         | 7 Verolina            |   3    |    -10   |
 | :boom:            | 2021-09-25 | turffontein R1         | 1 Lion Of The Desert  |   1.55 |      5.5 |
 | 5                 | 2021-09-25 | belmont R7             | 2 Laverrod            |   1.75 |    -10   |
-| :2nd_place_medal: | 2021-09-25 | rosehill R8            | 1 Anamoe              |   1.9  |    -10   |
 | :boom:            | 2021-09-25 | rosehill R8            | 5 In The Congo        |   7.2  |     62   |
 | 4                 | 2021-09-25 | rosehill R8            | 2 Artorius            |  11    |    -10   |
+| :2nd_place_medal: | 2021-09-25 | rosehill R8            | 1 Anamoe              |   1.9  |    -10   |
 | :3rd_place_medal: | 2021-09-25 | morphettville-parks R6 | 3 Savs Finale         |   6.5  |    -10   |
 | :boom:            | 2021-09-25 | sandown-hillside R7    | 2 Zaaki               |   1.2  |      2   |
 | 4                 | 2021-09-25 | gold-coast R5          | 1 Sir Gunsen          |   5    |    -10   |
@@ -699,8 +699,8 @@ categories: None
 | 4                 | 2021-09-25 | haydock R6             | 4 Geremia             |   7    |    -10   |
 | :boom:            | 2021-09-25 | newmarket R5           | 2 Benbatl             |   2.7  |     17   |
 | 4                 | 2021-09-25 | newmarket R4           | 5 Jumbly              |   7    |    -10   |
-| 0                 | 2021-09-24 | newmarket R3           | 5 Golden Pass         |   6    |    -10   |
 | :3rd_place_medal: | 2021-09-24 | newmarket R3           | 11 Sea La Rosa        |   6.5  |    -10   |
+| 0                 | 2021-09-24 | newmarket R3           | 5 Golden Pass         |   6    |    -10   |
 | :2nd_place_medal: | 2021-09-24 | fairview R6            | 2 Love Happens        |   2.45 |    -10   |
 | :2nd_place_medal: | 2021-09-24 | newmarket R2           | 6 Maamora             |   8    |    -10   |
 | 0                 | 2021-09-24 | newmarket R2           | 13 Wedding Dance      |  11    |    -10   |
@@ -767,8 +767,8 @@ categories: None
 | 7                 | 2021-09-21 | fairyhouse R4          | 6 Lopes Gold          |  19    |    -10   |
 | :boom:            | 2021-09-21 | fairyhouse R4          | 2 Straight Answer     |   3    |     20   |
 | 4                 | 2021-09-20 | fairview R7            | 3 Stranger Danger     |   3.3  |    -10   |
-| :2nd_place_medal: | 2021-09-20 | leicester R4           | 1 Quiet Evening       |   3.25 |    -10   |
 | 4                 | 2021-09-20 | leicester R4           | 2 Angel Amadea        |   7    |    -10   |
+| :2nd_place_medal: | 2021-09-20 | leicester R4           | 1 Quiet Evening       |   3.25 |    -10   |
 | 0                 | 2021-09-20 | fairview R6            | 7 Mesmerizing Moon    |   4.5  |    -10   |
 | :boom:            | 2021-09-20 | fairview R5            | 5 Justadoreher        |  11    |    100   |
 | :3rd_place_medal: | 2021-09-20 | fairview R5            | 1 Lollapalooza        |   2.1  |    -10   |
@@ -776,16 +776,16 @@ categories: None
 | :boom:            | 2021-09-20 | leicester R2           | 4 Carbon              |   5    |     40   |
 | :boom:            | 2021-09-20 | fairview R4            | 6 Respectable Miss    |   4.8  |     38   |
 | 0                 | 2021-09-20 | fairview R4            | 10 Sacred Ibis        |   6    |    -10   |
-| :3rd_place_medal: | 2021-09-20 | fairview R2            | 3 Storm Commander     |   6    |    -10   |
 | :boom:            | 2021-09-20 | fairview R2            | 1 Grazinginthegrass   |   2.8  |     18   |
+| :3rd_place_medal: | 2021-09-20 | fairview R2            | 3 Storm Commander     |   6    |    -10   |
 | :boom:            | 2021-09-20 | listowel R7            | 2 Easy Game           |   2.5  |     15   |
 | 0                 | 2021-09-20 | listowel R6            | 1 Grange Walk         |   4.33 |    -10   |
 | :3rd_place_medal: | 2021-09-20 | scottsville R8         | 1 Hasta Manana        |   4.4  |    -10   |
 | :boom:            | 2021-09-20 | scottsville R7         | 10 Princekresh        |   2.6  |     16   |
 | :2nd_place_medal: | 2021-09-19 | listowel R2            | 10 Say Goodbye        |   7    |    -10   |
 | 4                 | 2021-09-19 | hamilton R1            | 1 Evocative Spark     |   3    |    -10   |
-| :2nd_place_medal: | 2021-09-19 | listowel R1            | 1 Realist             |   4.6  |    -10   |
 | 0                 | 2021-09-19 | listowel R1            | 12 Feigh              |   3.25 |    -10   |
+| :2nd_place_medal: | 2021-09-19 | listowel R1            | 1 Realist             |   4.6  |    -10   |
 | 5                 | 2021-09-19 | kalgoorlie R7          | 11 Stafford's Lad     |  11    |    -10   |
 | :2nd_place_medal: | 2021-09-19 | kalgoorlie R2          | 7 Warpipes            |   1.6  |    -10   |
 | :boom:            | 2021-09-19 | devonport-synthetic R1 | 3 Rising Light        |   2    |     10   |
@@ -803,8 +803,8 @@ categories: None
 | 0                 | 2021-09-19 | newbury R6             | 3 Gis A Sub           |  11    |    -10   |
 | 6                 | 2021-09-19 | newmarket R6           | 5 Aveta               |   7    |    -10   |
 | 17                | 2021-09-19 | ayr R5                 | 20 Popmaster          |   9.5  |    -10   |
-| 4                 | 2021-09-19 | newbury R5             | 7 Aramaic             |   3.7  |    -10   |
 | 0                 | 2021-09-19 | newbury R5             | 9 Mo'assess           |  10    |    -10   |
+| 4                 | 2021-09-19 | newbury R5             | 7 Aramaic             |   3.7  |    -10   |
 | :3rd_place_medal: | 2021-09-19 | newmarket R5           | 2 Themaxwecan         |   9    |    -10   |
 | :boom:            | 2021-09-19 | turffontein R7         | 8 Willow's Wish       |   3.3  |     23   |
 | 0                 | 2021-09-19 | turffontein R7         | 1 Reunion             |   2.8  |    -10   |
@@ -821,8 +821,8 @@ categories: None
 | 0                 | 2021-09-18 | newmarket R3           | 5 Dancing To Win      |   2.87 |    -10   |
 | :boom:            | 2021-09-18 | turffontein R5         | 9 Clafoutis           |   1.5  |      5   |
 | :2nd_place_medal: | 2021-09-18 | newbury R2             | 10 Il Bandito         |   7    |    -10   |
-| :3rd_place_medal: | 2021-09-18 | turffontein R4         | 2 Greens              |   6.5  |    -10   |
 | :boom:            | 2021-09-18 | turffontein R4         | 3 Bella Chica         |   2.6  |     16   |
+| :3rd_place_medal: | 2021-09-18 | turffontein R4         | 2 Greens              |   6.5  |    -10   |
 | 0                 | 2021-09-18 | ayr R1                 | 5 Makalu              |   7.5  |    -10   |
 | 0                 | 2021-09-18 | ayr R1                 | 2 King Of York        |   4.33 |    -10   |
 | :boom:            | 2021-09-18 | newmarket R1           | 6 Mellow Yellow       |   3.9  |     29   |
@@ -864,8 +864,8 @@ categories: None
 | :boom:            | 2021-09-18 | ayr R5                 | 12 Call Me Ginger     |   5    |     40   |
 | :2nd_place_medal: | 2021-09-18 | newton-abbot R3        | 1 She's A Novelty     |   2    |    -10   |
 | :boom:            | 2021-09-18 | newton-abbot R3        | 3 Ginger Du Val       |   3    |     20   |
-| 0                 | 2021-09-17 | newbury R4             | 4 Bolthole            |   6    |    -10   |
 | :3rd_place_medal: | 2021-09-17 | newbury R4             | 1 King Of Conquest    |   2.25 |    -10   |
+| 0                 | 2021-09-17 | newbury R4             | 4 Bolthole            |   6    |    -10   |
 | 4                 | 2021-09-17 | newbury R3             | 1 Nuance              |   3.3  |    -10   |
 | :2nd_place_medal: | 2021-09-17 | fairview R5            | 4 Rock The Kazvar     |   3.1  |    -10   |
 | :2nd_place_medal: | 2021-09-17 | newbury R2             | 2 Silk Romance        |   1.45 |    -10   |
@@ -880,8 +880,8 @@ categories: None
 | :boom:            | 2021-09-17 | yarmouth R7            | 2 Natural Path        |   2.9  |     19   |
 | :boom:            | 2021-09-17 | yarmouth R6            | 7 Forest Falcon       |   8    |     70   |
 | 0                 | 2021-09-17 | yarmouth R6            | 9 Mango Boy           |   2.1  |    -10   |
-| :3rd_place_medal: | 2021-09-17 | yarmouth R5            | 7 Future              |   4.8  |    -10   |
 | 4                 | 2021-09-17 | yarmouth R5            | 2 Princess Nadia      |   3.75 |    -10   |
+| :3rd_place_medal: | 2021-09-17 | yarmouth R5            | 7 Future              |   4.8  |    -10   |
 | 0                 | 2021-09-17 | yarmouth R4            | 2 Prince Alex         |   3.3  |    -10   |
 | :2nd_place_medal: | 2021-09-16 | vaal R5                | 5 Alabama Anna        |   4.2  |    -10   |
 | 0                 | 2021-09-16 | yarmouth R2            | 7 Tippy Toes          |   4    |    -10   |
@@ -925,8 +925,8 @@ categories: None
 | :3rd_place_medal: | 2021-09-13 | thirsk R4              | 1 Bartzella           |   1.22 |    -10   |
 | :2nd_place_medal: | 2021-09-13 | brighton R1            | 1 Great News          |   3.5  |    -10   |
 | 4                 | 2021-09-13 | greyville R5           | 2 Fight Song          |   3.4  |    -10   |
-| 0                 | 2021-09-13 | haydock R6             | 15 Silver Gunn        |   6    |    -10   |
 | 4                 | 2021-09-13 | haydock R6             | 10 Miramichi          |   8    |    -10   |
+| 0                 | 2021-09-13 | haydock R6             | 15 Silver Gunn        |   6    |    -10   |
 | 0                 | 2021-09-13 | curragh R7             | 9 Benevolent          |  19    |    -10   |
 | 0                 | 2021-09-13 | curragh R6             | 6 Master Of Reality   |  19    |    -10   |
 | 0                 | 2021-09-13 | curragh R6             | 3 Barbados            |  34    |    -10   |
@@ -951,8 +951,8 @@ categories: None
 | 0                 | 2021-09-12 | doncaster R6           | 5 Living Legend       |   8    |    -10   |
 | 0                 | 2021-09-12 | durbanville R7         | 6 Sabina's Prodigy    |   5    |    -10   |
 | :3rd_place_medal: | 2021-09-12 | bath R5                | 3 Commonsensical      |   4    |    -10   |
-| 0                 | 2021-09-12 | turffontein R8         | 4 Kay Tee Perry       |   6.5  |    -10   |
 | 0                 | 2021-09-12 | turffontein R8         | 5 Kokeshi             |   8    |    -10   |
+| 0                 | 2021-09-12 | turffontein R8         | 4 Kay Tee Perry       |   6.5  |    -10   |
 | 0                 | 2021-09-12 | doncaster R5           | 6 Ottoman Emperor     |  12    |    -10   |
 | :boom:            | 2021-09-12 | doncaster R5           | 3 Hurricane Lane      |   1.73 |      7.3 |
 | 0                 | 2021-09-12 | durbanville R6         | 5 La Folie Douce      |   3    |    -10   |
@@ -967,8 +967,8 @@ categories: None
 | 0                 | 2021-09-11 | leopardstown R4        | 12 Snapraeterea       |  18    |    -10   |
 | 0                 | 2021-09-11 | chester R2             | 4 Throne Hall         |   8.5  |    -10   |
 | 4                 | 2021-09-11 | turffontein R5         | 4 Suited Connector    |   2.7  |    -10   |
-| :2nd_place_medal: | 2021-09-11 | leopardstown R3        | 4 Pearls Galore       |   8.5  |    -10   |
 | 0                 | 2021-09-11 | leopardstown R3        | 5 Acanella            |  13    |    -10   |
+| :2nd_place_medal: | 2021-09-11 | leopardstown R3        | 4 Pearls Galore       |   8.5  |    -10   |
 | :2nd_place_medal: | 2021-09-11 | doncaster R1           | 2 La Pulga            |   2.5  |    -10   |
 | :3rd_place_medal: | 2021-09-11 | doncaster R1           | 1 Fall Of Rome        |   2.45 |    -10   |
 | 0                 | 2021-09-11 | leopardstown R2        | 8 Maritime Wings      |   5    |    -10   |
@@ -1111,9 +1111,9 @@ categories: None
 | :3rd_place_medal: | 2021-09-04 | kempton R3             | 1 Hierarchy           |   4    |    -10   |
 | :2nd_place_medal: | 2021-09-04 | ascot R1               | 1 Alotaibi            |   1.8  |    -10   |
 | :boom:            | 2021-09-04 | haydock R2             | 2 Artistic Rifles     |   8.5  |     75   |
+| :2nd_place_medal: | 2021-09-04 | haydock R1             | 2 Hafit               |   1.75 |    -10   |
 | :boom:            | 2021-09-04 | haydock R1             | 4 Triple Time         |   4.2  |     32   |
 | 4                 | 2021-09-04 | haydock R1             | 3 Power Of Beauty     |   4.4  |    -10   |
-| :2nd_place_medal: | 2021-09-04 | haydock R1             | 2 Hafit               |   1.75 |    -10   |
 | 0                 | 2021-09-04 | kenilworth R2          | 12 I'm In Love        |   2.7  |    -10   |
 | :boom:            | 2021-09-04 | turffontein R2         | 6 Safe Passage        |   5    |     40   |
 | :3rd_place_medal: | 2021-09-04 | belmont R7             | 10 Sugar Cain         |   2.9  |    -10   |
@@ -1133,8 +1133,8 @@ categories: None
 | :2nd_place_medal: | 2021-09-04 | ascot R7               | 2 Papacito            |   5    |    -10   |
 | :3rd_place_medal: | 2021-09-04 | ascot R7               | 8 May Night           |  13    |    -10   |
 | 0                 | 2021-09-04 | haydock R7             | 5 Socially Shady      |   4.5  |    -10   |
-| 0                 | 2021-09-04 | fairview R10           | 5 Lemon Pepper        |   6.5  |    -10   |
 | 4                 | 2021-09-04 | fairview R10           | 3 Flying Tessa        |   9    |    -10   |
+| 0                 | 2021-09-04 | fairview R10           | 5 Lemon Pepper        |   6.5  |    -10   |
 | :2nd_place_medal: | 2021-09-04 | fairview R9            | 3 Teofilia            |   8    |    -10   |
 | 0                 | 2021-09-03 | fairview R8            | 7 Valetorio           |   6    |    -10   |
 | :2nd_place_medal: | 2021-09-03 | haydock R3             | 3 Mitrosonfire        |   5.5  |    -10   |
@@ -1177,8 +1177,8 @@ categories: None
 | 4                 | 2021-09-01 | lingfield R3           | 3 Amalfi Bay          |   2    |    -10   |
 | :3rd_place_medal: | 2021-09-01 | lingfield R1           | 2 Constanta           |   2.7  |    -10   |
 | 7                 | 2021-09-01 | belmont R6             | 6 Belle Of Liberty    |  12    |    -10   |
-| 5                 | 2021-09-01 | belmont R4             | 8 Stella Fair         |   7    |    -10   |
 | 8                 | 2021-09-01 | belmont R4             | 5 Southstar           |  18    |    -10   |
+| 5                 | 2021-09-01 | belmont R4             | 8 Stella Fair         |   7    |    -10   |
 | :3rd_place_medal: | 2021-09-01 | sandown-lakeside R5    | 12 Quintello          |   2.05 |    -10   |
 | 5                 | 2021-09-01 | kensington R3          | 6 Journalism          |   5.5  |    -10   |
 | 4                 | 2021-09-01 | sandown-lakeside R1    | 7 Growl               |   4.4  |    -10   |
@@ -1201,8 +1201,8 @@ categories: None
 | 4                 | 2021-08-31 | ripon R4               | 3 Melayu Kingdom      |  11    |    -10   |
 | 4                 | 2021-08-30 | epsom R2               | 2 Secret Handsheikh   |   8    |    -10   |
 | :3rd_place_medal: | 2021-08-30 | epsom R2               | 5 Saatty              |   4    |    -10   |
-| 0                 | 2021-08-30 | goodwood R7            | 5 Betty Crean L A     |   9    |    -10   |
 | 4                 | 2021-08-30 | goodwood R7            | 3 Maytal              |   3.25 |    -10   |
+| 0                 | 2021-08-30 | goodwood R7            | 5 Betty Crean L A     |   9    |    -10   |
 | 4                 | 2021-08-30 | goodwood R6            | 1 Just Fine           |   2.25 |    -10   |
 | :2nd_place_medal: | 2021-08-30 | goodwood R5            | 2 Double Or Bubble    |   3.5  |    -10   |
 | :3rd_place_medal: | 2021-08-29 | carnarvon R5           | 4 Marxian             |   3.7  |    -10   |
@@ -1212,15 +1212,15 @@ categories: None
 | :boom:            | 2021-08-29 | devonport-synthetic R6 | 4 Wardell             |   2.2  |     12   |
 | 4                 | 2021-08-29 | windsor R5             | 1 Bangkok             |   3.4  |    -10   |
 | :2nd_place_medal: | 2021-08-29 | redcar R4              | 1 Bellstreet Bridie   |   2.25 |    -10   |
-| 4                 | 2021-08-29 | newmarket R7           | 2 Newyorkstateofmind  |  15    |    -10   |
 | 0                 | 2021-08-29 | newmarket R7           | 4 Han Solo Berger     |   6    |    -10   |
+| 4                 | 2021-08-29 | newmarket R7           | 2 Newyorkstateofmind  |  15    |    -10   |
 | 4                 | 2021-08-29 | newmarket R6           | 6 Mustazeed           |   3.2  |    -10   |
 | :boom:            | 2021-08-29 | beverley R6            | 2 Fireworks           |   1.2  |      2   |
 | :boom:            | 2021-08-29 | newmarket R5           | 7 Bague D'or          |   4.2  |     32   |
 | 0                 | 2021-08-29 | turffontein R9         | 1 Riverstown          |   2.8  |    -10   |
 | 0                 | 2021-08-29 | goodwood R5            | 9 Mutasaabeq          |   5.5  |    -10   |
-| :2nd_place_medal: | 2021-08-29 | newmarket R3           | 3 The Attorney        |   3    |    -10   |
 | :3rd_place_medal: | 2021-08-29 | newmarket R3           | 2 Aquaman             |   2.4  |    -10   |
+| :2nd_place_medal: | 2021-08-29 | newmarket R3           | 3 The Attorney        |   3    |    -10   |
 | :2nd_place_medal: | 2021-08-29 | beverley R3            | 4 Justanotherbottle   |   8.5  |    -10   |
 | 0                 | 2021-08-29 | goodwood R4            | 5 White Pepper        |  34    |    -10   |
 | :3rd_place_medal: | 2021-08-28 | cartmel R1             | 3 Ibbenburen          |   3    |    -10   |
@@ -1270,8 +1270,8 @@ categories: None
 | :2nd_place_medal: | 2021-08-27 | tipperary R4           | 4 Roca Roma           |  10    |    -10   |
 | :boom:            | 2021-08-27 | lingfield R2           | 8 Natural Path        |   4.8  |     38   |
 | :2nd_place_medal: | 2021-08-27 | sedgefield R1          | 1 October Storm       |   3.8  |    -10   |
-| :3rd_place_medal: | 2021-08-27 | chelmsford-city R6     | 4 Barshaa             |   3    |    -10   |
 | :2nd_place_medal: | 2021-08-27 | chelmsford-city R6     | 2 At A Pinch          |   1.9  |    -10   |
+| :3rd_place_medal: | 2021-08-27 | chelmsford-city R6     | 4 Barshaa             |   3    |    -10   |
 | :boom:            | 2021-08-27 | chelmsford-city R5     | 8 The Vegas Raider    |   3.4  |     24   |
 | :3rd_place_medal: | 2021-08-27 | vaal R8                | 5 Florida Keys        |   2.05 |    -10   |
 | :2nd_place_medal: | 2021-08-27 | vaal R7                | 4 Now You See Me      |   4.6  |    -10   |
@@ -1303,8 +1303,8 @@ categories: None
 | 0                 | 2021-08-24 | vaal R5                | 1 Ideal Jet           |   4    |    -10   |
 | 4                 | 2021-08-24 | dalby R4               | 8 Dragon Pins         |   3.2  |    -10   |
 | :boom:            | 2021-08-24 | ripon R1               | 2 Liberation Point    |   4.2  |     32   |
-| 4                 | 2021-08-24 | chepstow R5            | 2 Maajdah             |   4.5  |    -10   |
 | :boom:            | 2021-08-24 | chepstow R5            | 4 Russco              |   3.8  |     28   |
+| 4                 | 2021-08-24 | chepstow R5            | 2 Maajdah             |   4.5  |    -10   |
 | 4                 | 2021-08-23 | brighton R2            | 7 Rhyme Scheme        |   7    |    -10   |
 | :boom:            | 2021-08-23 | brighton R1            | 5 Summer's Day        |   1.57 |      5.7 |
 | 4                 | 2021-08-23 | greyville R4           | 10 Different Face     |   6.5  |    -10   |
@@ -1312,8 +1312,8 @@ categories: None
 | 0                 | 2021-08-23 | sandown-hillside R5    | 3 Ravens Ark          |   0    |    -10   |
 | 0                 | 2021-08-23 | naas R8                | 6 Team Of Firsts      |   4.8  |    -10   |
 | 0                 | 2021-08-23 | naas R6                | 2 Dabana              |   4    |    -10   |
-| :2nd_place_medal: | 2021-08-23 | turffontein R8         | 2 City By The Sea     |   3.6  |    -10   |
 | 0                 | 2021-08-23 | naas R5                | 1 Blazing Star        |   6.5  |    -10   |
+| :2nd_place_medal: | 2021-08-23 | turffontein R8         | 2 City By The Sea     |   3.6  |    -10   |
 | :boom:            | 2021-08-22 | brighton R2            | 7 Lucky Shake         |   4.6  |     36   |
 | :2nd_place_medal: | 2021-08-22 | turffontein R6         | 4 Grappler            |   4    |    -10   |
 | :boom:            | 2021-08-22 | turffontein R5         | 4 Full Velocity       |   1.45 |      4.5 |
@@ -1335,11 +1335,11 @@ categories: None
 | :2nd_place_medal: | 2021-08-21 | chester R4             | 4 Little Miss Dynamo  |   3.6  |    -10   |
 | 0                 | 2021-08-21 | sandown-hillside R4    | 4 Auria               |   0    |    -10   |
 | :2nd_place_medal: | 2021-08-21 | sandown-hillside R4    | 3 Waliyak             |   5.5  |    -10   |
-| :boom:            | 2021-08-21 | york R2                | 15 Valley Forge       |  11    |    100   |
-| 19                | 2021-08-21 | york R2                | 12 Imperial Sun       |   9.5  |    -10   |
 | 4                 | 2021-08-21 | york R2                | 2 Dhushan             |   6    |    -10   |
-| 0                 | 2021-08-21 | sandown-hillside R3    | 7 Star From Afarhh    |   0    |    -10   |
+| 19                | 2021-08-21 | york R2                | 12 Imperial Sun       |   9.5  |    -10   |
+| :boom:            | 2021-08-21 | york R2                | 15 Valley Forge       |  11    |    100   |
 | :boom:            | 2021-08-21 | sandown-hillside R3    | 5 Reach For The Moon  |   1.4  |      4   |
+| 0                 | 2021-08-21 | sandown-hillside R3    | 7 Star From Afarhh    |   0    |    -10   |
 | :boom:            | 2021-08-21 | york R1                | 6 Real World          |   2    |     10   |
 | :2nd_place_medal: | 2021-08-21 | sandown-hillside R2    | 1 Implore             |   4.4  |    -10   |
 | 0                 | 2021-08-21 | sandown-hillside R2    | 3 Strozzi             |   0    |    -10   |
@@ -1368,17 +1368,17 @@ categories: None
 | 0                 | 2021-08-21 | york R6                | 11 Umneyaat           |   7.5  |    -10   |
 | :3rd_place_medal: | 2021-08-21 | york R6                | 5 Achelois            |   3.8  |    -10   |
 | 0                 | 2021-08-21 | york R5                | 15 Velazquez          |   8    |    -10   |
-| :3rd_place_medal: | 2021-08-21 | york R4                | 6 Dragon Symbol       |   5    |    -10   |
 | 0                 | 2021-08-21 | york R4                | 7 Golden Pal          |   3.6  |    -10   |
 | 4                 | 2021-08-21 | york R4                | 13 Suesa              |   3.3  |    -10   |
-| 0                 | 2021-08-21 | york R3                | 3 American Star       |  20    |    -10   |
+| :3rd_place_medal: | 2021-08-21 | york R4                | 6 Dragon Symbol       |   5    |    -10   |
 | 0                 | 2021-08-21 | york R3                | 1 Berkshire Shadow    |   4    |    -10   |
+| 0                 | 2021-08-21 | york R3                | 3 American Star       |  20    |    -10   |
 | :3rd_place_medal: | 2021-08-20 | kempton R4             | 4 Mount Marcy         |   3.5  |    -10   |
 | :boom:            | 2021-08-20 | kempton R4             | 9 Waldlowe            |   2.4  |     14   |
 | 0                 | 2021-08-20 | fairview R7            | 11 Katie To           |  10    |    -10   |
-| :2nd_place_medal: | 2021-08-20 | fairview R6            | 5 Delicasea           |   8    |    -10   |
 | :3rd_place_medal: | 2021-08-20 | fairview R6            | 3 What A Winner       |   4.6  |    -10   |
 | :boom:            | 2021-08-20 | fairview R6            | 4 Stranger Danger     |   1.45 |      4.5 |
+| :2nd_place_medal: | 2021-08-20 | fairview R6            | 5 Delicasea           |   8    |    -10   |
 | :boom:            | 2021-08-20 | kempton R2             | 6 Natasha             |   1.9  |      9   |
 | :2nd_place_medal: | 2021-08-20 | fairview R5            | 3 Mesmerizing Moon    |   3.4  |    -10   |
 | :2nd_place_medal: | 2021-08-20 | fairview R1            | 2 Diamonds And Toads  |   7    |    -10   |
@@ -1472,8 +1472,8 @@ categories: None
 | :boom:            | 2021-08-13 | lingfield R6           | 2 Lydford             |   2.5  |     15   |
 | :2nd_place_medal: | 2021-08-13 | tramore R5             | 2 Mr Caplan           |  12    |    -10   |
 | :3rd_place_medal: | 2021-08-13 | lingfield R4           | 8 Lankaran            |   3    |    -10   |
-| 4                 | 2021-08-13 | leopardstown R6        | 5 Port Sunlight       |   5.5  |    -10   |
 | 0                 | 2021-08-13 | leopardstown R6        | 4 Kirkland Lady       |  21    |    -10   |
+| 4                 | 2021-08-13 | leopardstown R6        | 5 Port Sunlight       |   5.5  |    -10   |
 | 0                 | 2021-08-13 | tramore R4             | 3 Walking Fame        |   2.62 |    -10   |
 | :boom:            | 2021-08-13 | chelmsford-city R1     | 5 Home City           |   1.6  |      6   |
 | :2nd_place_medal: | 2021-08-13 | leopardstown R4        | 7 Flagged             |   4.2  |    -10   |
@@ -1482,8 +1482,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-13 | ffos-las R5            | 2 Moonshiner          |   3.5  |    -10   |
 | 4                 | 2021-08-13 | ffos-las R5            | 1 Morty               |   3.3  |    -10   |
 | 0                 | 2021-08-12 | salisbury R4           | 2 Amor de Mi Vida     |  16    |    -10   |
-| :2nd_place_medal: | 2021-08-12 | salisbury R3           | 8 Peintre D'etoiles   |   4.2  |    -10   |
 | :3rd_place_medal: | 2021-08-12 | salisbury R3           | 5 Red Genesis         |   3.5  |    -10   |
+| :2nd_place_medal: | 2021-08-12 | salisbury R3           | 8 Peintre D'etoiles   |   4.2  |    -10   |
 | :boom:            | 2021-08-12 | ffos-las R2            | 6 Summer's Knight     |   2.2  |     12   |
 | :3rd_place_medal: | 2021-08-12 | ffos-las R2            | 7 Damned Elusive      |   8.5  |    -10   |
 | :boom:            | 2021-08-12 | ffos-las R1            | 3 Hey Teacher         |   1.25 |      2.5 |
@@ -1525,8 +1525,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-10 | ayr R5                 | 5 Zoravan             |   0    |    -10   |
 | 4                 | 2021-08-10 | wolverhampton R6       | 2 Merry Secret        |   0    |    -10   |
 | 0                 | 2021-08-10 | ayr R4                 | 9 Ribaldry            |   0    |    -10   |
-| :3rd_place_medal: | 2021-08-09 | turffontein R5         | 2 Wolffs World        |   0    |    -10   |
 | :boom:            | 2021-08-09 | turffontein R5         | 6 The Kop             |   3.1  |     21   |
+| :3rd_place_medal: | 2021-08-09 | turffontein R5         | 2 Wolffs World        |   0    |    -10   |
 | :boom:            | 2021-08-09 | turffontein R3         | 4 Kwite A Trip        |   1.7  |      7   |
 | 0                 | 2021-08-09 | wolverhampton R1       | 1 Tommytwohoots       |   0    |    -10   |
 | :boom:            | 2021-08-09 | mildura R8             | 8 First Mate          |   2.5  |     15   |
@@ -1631,9 +1631,9 @@ categories: None
 | :3rd_place_medal: | 2021-08-02 | naas R3                | 5 Ultramarine         |  41    |    -10   |
 | :boom:            | 2021-08-02 | ripon R1               | 2 Little Miss Dynamo  |   4    |     30   |
 | :boom:            | 2021-08-02 | fairview R3            | 2 Meeneera            |   3.7  |     27   |
-| 9                 | 2021-08-02 | darwin R10             | 2 Skaldak             |   6    |    -10   |
 | :2nd_place_medal: | 2021-08-02 | darwin R10             | 1 Count of Essex      |   4    |    -10   |
 | :boom:            | 2021-08-02 | darwin R10             | 3 Tugga War           |   2    |     10   |
+| 9                 | 2021-08-02 | darwin R10             | 2 Skaldak             |   6    |    -10   |
 | :2nd_place_medal: | 2021-08-02 | darwin R7              | 1 That's Justified    |   3    |    -10   |
 | :3rd_place_medal: | 2021-08-02 | warwick R3             | 3 Inciter             |   2.8  |    -10   |
 | :3rd_place_medal: | 2021-08-02 | darwin R5              | 2 Yulong Awesome      |   6    |    -10   |
@@ -1651,27 +1651,27 @@ categories: None
 | 4                 | 2021-08-01 | chester R1             | 5 Emporium Flame      |   6    |    -10   |
 | 0                 | 2021-08-01 | turffontein R1         | 1 Right Choice        |   0    |    -10   |
 | 4                 | 2021-08-01 | singapore R11          | 2 Heartening Flyer    |   0    |    -10   |
-| 6                 | 2021-08-01 | devonport-synthetic R8 | 1 Ruettiger           |   3.8  |    -10   |
 | :3rd_place_medal: | 2021-08-01 | devonport-synthetic R8 | 4 Gregorian Chant     |   5    |    -10   |
+| 6                 | 2021-08-01 | devonport-synthetic R8 | 1 Ruettiger           |   3.8  |    -10   |
 | :boom:            | 2021-08-01 | devonport-synthetic R5 | 5 Cheeky One          |   2.8  |     18   |
-| :3rd_place_medal: | 2021-08-01 | sandown-lakeside R4    | 2 Mawaany Machine     |   2    |    -10   |
 | 5                 | 2021-08-01 | sandown-lakeside R4    | 4 Light Pillar        |   3.8  |    -10   |
+| :3rd_place_medal: | 2021-08-01 | sandown-lakeside R4    | 2 Mawaany Machine     |   2    |    -10   |
 | :2nd_place_medal: | 2021-08-01 | kembla-grange R3       | 6 Segal               |   3    |    -10   |
 | 4                 | 2021-08-01 | sunshine-coast R1      | 5 Forceful Matilda    |   4.4  |    -10   |
 | 7                 | 2021-08-01 | sandown-lakeside R2    | 8 Another Engagement  |   4.8  |    -10   |
 | 5                 | 2021-08-01 | te-aroha R5            | 1 Go You Good Thing   |   8    |    -10   |
 | 9                 | 2021-08-01 | kembla-grange R1       | 3 Kermajack           |   7    |    -10   |
-| 5                 | 2021-08-01 | sandown-lakeside R1    | 4 Big Blue            |   5.5  |    -10   |
 | :boom:            | 2021-08-01 | sandown-lakeside R1    | 5 Social Element      |   2    |     10   |
+| 5                 | 2021-08-01 | sandown-lakeside R1    | 4 Big Blue            |   5.5  |    -10   |
 | :2nd_place_medal: | 2021-08-01 | newmarket R7           | 3 Ranchero            |   8    |    -10   |
 | :2nd_place_medal: | 2021-08-01 | greyville R10          | 7 Victoria Paige      |   0    |    -10   |
 | 0                 | 2021-08-01 | newmarket R6           | 2 Twaasol             |   6    |    -10   |
 | :2nd_place_medal: | 2021-08-01 | greyville R9           | 5 Catch Twentytwo     |   0    |    -10   |
 | 0                 | 2021-08-01 | newmarket R5           | 2 Taqareer            |   4.6  |    -10   |
 | :2nd_place_medal: | 2021-08-01 | newmarket R5           | 3 Strawberry Rock     |   2.9  |    -10   |
-| :boom:            | 2021-08-01 | goodwood R4            | 1 Wonderful Tonight   |   1.8  |      8   |
-| 0                 | 2021-08-01 | goodwood R4            | 5 Golden Pass         |  23    |    -10   |
 | 4                 | 2021-08-01 | goodwood R4            | 9 Divinely            |  10    |    -10   |
+| 0                 | 2021-08-01 | goodwood R4            | 5 Golden Pass         |  23    |    -10   |
+| :boom:            | 2021-08-01 | goodwood R4            | 1 Wonderful Tonight   |   1.8  |      8   |
 | :boom:            | 2021-07-31 | doncaster R3           | 3 Poet Of Life        |   1.36 |      3.6 |
 | 0                 | 2021-07-31 | greyville R8           | 14 True To Life       |   0    |    -10   |
 | 0                 | 2021-07-31 | greyville R8           | 11 Kasimir            |   0    |    -10   |
@@ -1687,8 +1687,8 @@ categories: None
 | :boom:            | 2021-07-31 | greyville R5           | 7 Rain In Holland     |   2.1  |     11   |
 | 0                 | 2021-07-31 | greyville R4           | 4 Bon Vivant          |   0    |    -10   |
 | :2nd_place_medal: | 2021-07-31 | greyville R3           | 6 Remember When       |   0    |    -10   |
-| :2nd_place_medal: | 2021-07-31 | greyville R1           | 11 Native Tongue      |   0    |    -10   |
 | 4                 | 2021-07-31 | greyville R1           | 2 Indlamu             |   0    |    -10   |
+| :2nd_place_medal: | 2021-07-31 | greyville R1           | 11 Native Tongue      |   0    |    -10   |
 | 8                 | 2021-07-31 | belmont R9             | 7 Irritable Rodnee    |   5    |    -10   |
 | :2nd_place_medal: | 2021-07-31 | morphettville R9       | 10 Noname Lane        |   5.5  |    -10   |
 | 8                 | 2021-07-31 | broome R4              | 8 Retribution         |   7.5  |    -10   |
@@ -1725,10 +1725,10 @@ categories: None
 | 0                 | 2021-07-31 | goodwood R5            | 6 Outbox              |   9.5  |    -10   |
 | :boom:            | 2021-07-31 | goodwood R5            | 8 Passion And Glory   |   3    |     20   |
 | :2nd_place_medal: | 2021-07-31 | goodwood R4            | 11 Dragon Symbol      |   4    |    -10   |
-| 4                 | 2021-07-31 | goodwood R3            | 3 Johan               |   9.5  |    -10   |
-| 0                 | 2021-07-31 | goodwood R3            | 14 Shelir             |  17    |    -10   |
-| 0                 | 2021-07-31 | goodwood R3            | 15 Path Of Thunder    |   4.8  |    -10   |
 | 0                 | 2021-07-31 | goodwood R3            | 5 Magical Morning     |   8    |    -10   |
+| 0                 | 2021-07-31 | goodwood R3            | 15 Path Of Thunder    |   4.8  |    -10   |
+| 0                 | 2021-07-31 | goodwood R3            | 14 Shelir             |  17    |    -10   |
+| 4                 | 2021-07-31 | goodwood R3            | 3 Johan               |   9.5  |    -10   |
 | :boom:            | 2021-07-30 | bangor R4              | 3 Ibbenburen          |   2.25 |     12.5 |
 | 0                 | 2021-07-30 | goodwood R2            | 3 Khartoum            |  13    |    -10   |
 | :2nd_place_medal: | 2021-07-30 | bangor R2              | 1 Finisk River        |   3.6  |    -10   |
@@ -1744,9 +1744,9 @@ categories: None
 | :boom:            | 2021-07-30 | goodwood R5            | 4 Aswan               |   7.5  |     65   |
 | 0                 | 2021-07-30 | goodwood R5            | 2 Adjuvant            |   4.2  |    -10   |
 | 0                 | 2021-07-30 | goodwood R5            | 5 Robasta             |   9    |    -10   |
-| :2nd_place_medal: | 2021-07-30 | goodwood R4            | 6 Zeyaadah            |  13    |    -10   |
-| 4                 | 2021-07-30 | goodwood R4            | 5 Technique           |  41    |    -10   |
 | :3rd_place_medal: | 2021-07-30 | goodwood R4            | 4 Joan Of Arc         |   3.5  |    -10   |
+| 4                 | 2021-07-30 | goodwood R4            | 5 Technique           |  41    |    -10   |
+| :2nd_place_medal: | 2021-07-30 | goodwood R4            | 6 Zeyaadah            |  13    |    -10   |
 | 0                 | 2021-07-30 | goodwood R3            | 1 Yibir               |   6    |    -10   |
 | :boom:            | 2021-07-30 | goodwood R3            | 5 Ottoman Emperor     |  12    |    110   |
 | :2nd_place_medal: | 2021-07-30 | goodwood R3            | 6 Sir Lucan           |   9.5  |    -10   |
@@ -1759,9 +1759,9 @@ categories: None
 | 0                 | 2021-07-29 | galway R3              | 8 Lasparas            |   2.8  |    -10   |
 | :boom:            | 2021-07-29 | galway R3              | 5 Desir Du Large      |   3.8  |     28   |
 | :3rd_place_medal: | 2021-07-29 | galway R2              | 6 Dark Voyager        |   3    |    -10   |
+| 0                 | 2021-07-29 | goodwood R4            | 3 Lope Y Fernandez    |  19    |    -10   |
 | 0                 | 2021-07-29 | goodwood R4            | 4 Order Of Australia  |  17    |    -10   |
 | 4                 | 2021-07-29 | goodwood R4            | 2 Duhail              |  26    |    -10   |
-| 0                 | 2021-07-29 | goodwood R4            | 3 Lope Y Fernandez    |  19    |    -10   |
 | 0                 | 2021-07-29 | goodwood R3            | 10 Swayze             |  23    |    -10   |
 | 0                 | 2021-07-28 | goodwood R1            | 9 Kolisi              |   7    |    -10   |
 | :boom:            | 2021-07-28 | redcar R2              | 2 Star Jewel          |   1.28 |      2.8 |
@@ -1796,8 +1796,8 @@ categories: None
 | 0                 | 2021-07-27 | newton-abbot R5        | 3 Give Us A Swig      |  10    |    -10   |
 | 4                 | 2021-07-27 | lingfield R3           | 8 Peggoty             |   1.5  |    -10   |
 | :boom:            | 2021-07-26 | newton-abbot R1        | 1 Ultimate Getaway    |   3.4  |     24   |
-| :3rd_place_medal: | 2021-07-26 | musselburgh R7         | 8 Euro Implosion      |   9    |    -10   |
 | 4                 | 2021-07-26 | musselburgh R7         | 1 Hint Of Stars       |   5    |    -10   |
+| :3rd_place_medal: | 2021-07-26 | musselburgh R7         | 8 Euro Implosion      |   9    |    -10   |
 | 4                 | 2021-07-26 | musselburgh R5         | 4 Real Terms          |   5    |    -10   |
 | :2nd_place_medal: | 2021-07-26 | musselburgh R4         | 3 Gunnerside          |   7    |    -10   |
 | :3rd_place_medal: | 2021-07-26 | musselburgh R4         | 9 Primo's Comet       |  11    |    -10   |
@@ -1823,8 +1823,8 @@ categories: None
 | :boom:            | 2021-07-25 | royal-ascot R5         | 5 Adayar              |   3.3  |     23   |
 | 0                 | 2021-07-25 | royal-ascot R5         | 6 Lone Eagle          |   7    |    -10   |
 | :3rd_place_medal: | 2021-07-25 | york R3                | 5 Mohaafeth           |   2.1  |    -10   |
-| :boom:            | 2021-07-25 | royal-ascot R4         | 2 Danyah              |   5.5  |     45   |
 | 0                 | 2021-07-25 | royal-ascot R4         | 7 Matthew Flinders    |   6    |    -10   |
+| :boom:            | 2021-07-25 | royal-ascot R4         | 2 Danyah              |   5.5  |     45   |
 | 0                 | 2021-07-24 | newcastle R4           | 5 Soapys Sister       |   5    |    -10   |
 | 4                 | 2021-07-24 | royal-ascot R3         | 2 Latest Generation   |   4.75 |    -10   |
 | :boom:            | 2021-07-24 | royal-ascot R3         | 6 Guru                |   5    |     40   |
@@ -1861,8 +1861,8 @@ categories: None
 | :2nd_place_medal: | 2021-07-24 | york R3                | 3 Silky Wilkie        |   2.6  |    -10   |
 | :boom:            | 2021-07-24 | newmarket R4           | 3 Wishaah             |   4.4  |     34   |
 | :boom:            | 2021-07-24 | york R1                | 1 Dejame Paso         |   3.8  |     28   |
-| 4                 | 2021-07-24 | royal-ascot R4         | 6 Indigo Girl         |   2.2  |    -10   |
 | :2nd_place_medal: | 2021-07-24 | royal-ascot R4         | 3 Lights On           |   3.75 |    -10   |
+| 4                 | 2021-07-24 | royal-ascot R4         | 6 Indigo Girl         |   2.2  |    -10   |
 | :boom:            | 2021-07-23 | uttoxeter R3           | 5 No No Maestro       |   3.5  |     25   |
 | :boom:            | 2021-07-23 | uttoxeter R1           | 2 Clay Rogers         |   1.09 |      0.9 |
 | 4                 | 2021-07-23 | mildura R8             | 3 Blood Sweat Tears   |   4.6  |    -10   |
@@ -1878,8 +1878,8 @@ categories: None
 | :boom:            | 2021-07-22 | sandown R4             | 2 Classic Lord        |   2.2  |     12   |
 | :2nd_place_medal: | 2021-07-22 | sandown R3             | 9 Wild Beauty         |   3    |    -10   |
 | :boom:            | 2021-07-22 | sandown R3             | 4 Inspiral            |   2.2  |     12   |
-| 0                 | 2021-07-22 | sandown R2             | 4 King's Guard        |   4.4  |    -10   |
 | 4                 | 2021-07-22 | sandown R2             | 3 Dukedom             |   1.9  |    -10   |
+| 0                 | 2021-07-22 | sandown R2             | 4 King's Guard        |   4.4  |    -10   |
 | :2nd_place_medal: | 2021-07-22 | townsville R6          | 4 Bold Type           |   2.6  |    -10   |
 | :3rd_place_medal: | 2021-07-22 | townsville R6          | 5 Higher Realm        |   2.4  |    -10   |
 | :boom:            | 2021-07-22 | pinjarra R2            | 5 Poker Face          |   3.3  |     23   |
@@ -1887,8 +1887,8 @@ categories: None
 | :boom:            | 2021-07-22 | townsville R4          | 5 Waterway            |   5.3  |     43   |
 | :3rd_place_medal: | 2021-07-22 | ballina R3             | 1 Brave Warrior       |   2.25 |    -10   |
 | :3rd_place_medal: | 2021-07-22 | townsville R2          | 1 Boomed              |   5.5  |    -10   |
-| :2nd_place_medal: | 2021-07-22 | sandown R5             | 3 Barn Owl            |   4.8  |    -10   |
 | 0                 | 2021-07-22 | sandown R5             | 5 Sea Sylph           |   5    |    -10   |
+| :2nd_place_medal: | 2021-07-22 | sandown R5             | 3 Barn Owl            |   4.8  |    -10   |
 | :3rd_place_medal: | 2021-07-22 | leicester R5           | 5 Coul Queen          |   3.1  |    -10   |
 | :2nd_place_medal: | 2021-07-22 | leicester R5           | 1 Silent Escape       |   2.75 |    -10   |
 | :boom:            | 2021-07-22 | sandown R3             | 3 Sunset Bay          |   2.5  |     15   |
@@ -2085,9 +2085,9 @@ categories: None
 | :boom:            | 2021-07-06 | turffontein R2         | 8 Quantum King        |   2.35 |     13.5 |
 | :boom:            | 2021-07-06 | townsville R7          | 4 Full Recognition    |   2.8  |     18   |
 | :boom:            | 2021-07-06 | townsville R6          | 1 Cleaver Greene      |   1.6  |      6   |
+| 9                 | 2021-07-06 | townsville R5          | 11 Soldati            |  41    |    -10   |
 | :2nd_place_medal: | 2021-07-06 | townsville R5          | 6 Bellevita           |   6    |    -10   |
 | 4                 | 2021-07-06 | townsville R5          | 8 Taikun Warrior      |  11    |    -10   |
-| 9                 | 2021-07-06 | townsville R5          | 11 Soldati            |  41    |    -10   |
 | 4                 | 2021-07-06 | townsville R3          | 8 Soul Searcher       |   5.5  |    -10   |
 | :2nd_place_medal: | 2021-07-05 | worcester R3           | 4 First Street        |   1.95 |    -10   |
 | :2nd_place_medal: | 2021-07-05 | ayr R7                 | 1 Tanasoq             |   3.25 |    -10   |
@@ -2102,8 +2102,8 @@ categories: None
 | 0                 | 2021-07-04 | beverley R4            | 2 Elvrika             |   3    |    -10   |
 | :boom:            | 2021-07-04 | leicester R6           | 9 Anjella             |   3.9  |     29   |
 | :2nd_place_medal: | 2021-07-04 | sandown R5             | 1 Addeybb             |   4.2  |    -10   |
-| 0                 | 2021-07-04 | haydock R4             | 15 Valyrian Steel     |   8    |    -10   |
 | 0                 | 2021-07-04 | haydock R4             | 17 Longsider          |   9    |    -10   |
+| 0                 | 2021-07-04 | haydock R4             | 15 Valyrian Steel     |   8    |    -10   |
 | :boom:            | 2021-07-03 | haydock R3             | 1 Alpinista           |   4.3  |     33   |
 | 0                 | 2021-07-03 | haydock R3             | 9 Mystery Angel       |   6.5  |    -10   |
 | :3rd_place_medal: | 2021-07-03 | haydock R3             | 3 Cabaletta           |  17    |    -10   |
@@ -2173,8 +2173,8 @@ categories: None
 | :boom:            | 2021-06-28 | windsor R4             | 11 Chai Yo Power      |   2.2  |     12   |
 | 0                 | 2021-06-27 | greyville R6           | 2 Against The Grain   |   0    |    -10   |
 | :2nd_place_medal: | 2021-06-27 | uttoxeter R1           | 1 Ambassador          |   1.55 |    -10   |
-| :3rd_place_medal: | 2021-06-27 | greyville R1           | 1 Voltron             |   0    |    -10   |
 | :2nd_place_medal: | 2021-06-27 | greyville R1           | 7 Miss Magician       |   0    |    -10   |
+| :3rd_place_medal: | 2021-06-27 | greyville R1           | 1 Voltron             |   0    |    -10   |
 | :3rd_place_medal: | 2021-06-27 | devonport-synthetic R8 | 4 Sanction King       |   1.9  |    -10   |
 | :3rd_place_medal: | 2021-06-27 | naracoorte R5          | 3 Lucian              |   1.9  |    -10   |
 | :2nd_place_medal: | 2021-06-27 | te-aroha R1            | 1 Dr Hank             |   1.65 |    -10   |
@@ -2191,8 +2191,8 @@ categories: None
 | 5                 | 2021-06-26 | darwin R3              | 12 Tugga War          |   4.8  |    -10   |
 | :boom:            | 2021-06-26 | newcastle R7           | 2 Fantastic Baby      |   1.8  |      8   |
 | :boom:            | 2021-06-26 | belmont R3             | 9 Crescent City       |   4.4  |     34   |
-| :3rd_place_medal: | 2021-06-26 | newcastle R5           | 1 Sidereal            |   9.1  |    -10   |
 | 5                 | 2021-06-26 | newcastle R5           | 2 Supremo             |   2.6  |    -10   |
+| :3rd_place_medal: | 2021-06-26 | newcastle R5           | 1 Sidereal            |   9.1  |    -10   |
 | :boom:            | 2021-06-26 | newcastle R4           | 4 Significant Rule    |   5.3  |     43   |
 | 10                | 2021-06-26 | eagle-farm R4          | 8 Deepwood Vale       |  23    |    -10   |
 | :3rd_place_medal: | 2021-06-26 | eagle-farm R3          | 1 Mass Destruction    |   3    |    -10   |
@@ -2219,8 +2219,8 @@ categories: None
 | 0                 | 2021-06-24 | worcester R7           | 6 Luck Of The Duck    |  17    |    -10   |
 | :3rd_place_medal: | 2021-06-24 | salisbury R7           | 5 Buriram             |   3.8  |    -10   |
 | :3rd_place_medal: | 2021-06-24 | worcester R6           | 8 Your Band           |   4.4  |    -10   |
-| :3rd_place_medal: | 2021-06-24 | salisbury R5           | 4 Khaiz               |   2.4  |    -10   |
 | :boom:            | 2021-06-24 | salisbury R5           | 5 Kolisi              |   4.7  |     37   |
+| :3rd_place_medal: | 2021-06-24 | salisbury R5           | 4 Khaiz               |   2.4  |    -10   |
 | :2nd_place_medal: | 2021-06-23 | salisbury R3           | 5 General Panic       |   4.4  |    -10   |
 | :boom:            | 2021-06-23 | happy-valley R4        | 3 Green Luck          |   5.5  |     45   |
 | 8                 | 2021-06-23 | cranbourne R8          | 12 Indian Doll        |   5.5  |    -10   |
@@ -2242,18 +2242,18 @@ categories: None
 | :3rd_place_medal: | 2021-06-20 | alice-springs R7       | 4 Faolan              |   1.9  |    -10   |
 | :boom:            | 2021-06-20 | kalgoorlie R3          | 4 Hip Wiggle          |   4.9  |     39   |
 | :2nd_place_medal: | 2021-06-20 | kalgoorlie R3          | 6 Miss Zedel          |   4.5  |    -10   |
-| :3rd_place_medal: | 2021-06-20 | devonport-synthetic R7 | 11 Sharma Rama        |   3    |    -10   |
 | :boom:            | 2021-06-20 | devonport-synthetic R7 | 5 Michbar             |   4.3  |     33   |
 | 6                 | 2021-06-20 | devonport-synthetic R7 | 13 Reward Achiever    |   6.5  |    -10   |
-| :3rd_place_medal: | 2021-06-20 | devonport-synthetic R6 | 1 Hero Of Romani      |   2.9  |    -10   |
+| :3rd_place_medal: | 2021-06-20 | devonport-synthetic R7 | 11 Sharma Rama        |   3    |    -10   |
 | 5                 | 2021-06-20 | devonport-synthetic R6 | 4 Endured             |   2.2  |    -10   |
+| :3rd_place_medal: | 2021-06-20 | devonport-synthetic R6 | 1 Hero Of Romani      |   2.9  |    -10   |
 | 4                 | 2021-06-20 | alice-springs R3       | 1 Extraction          |   2.5  |    -10   |
 | 9                 | 2021-06-20 | coonamble R4           | 3 Legal Zou           |   3.6  |    -10   |
 | 9                 | 2021-06-20 | bendigo R4             | 11 Karolinka          |   3.6  |    -10   |
 | 5                 | 2021-06-20 | alice-springs R1       | 4 Future Dreams       |   5    |    -10   |
-| :3rd_place_medal: | 2021-06-20 | royal-ascot R6         | 14 Irish Legend       |  17    |    -10   |
 | 0                 | 2021-06-20 | royal-ascot R6         | 11 King Frankel       |   3.75 |    -10   |
 | 0                 | 2021-06-20 | royal-ascot R6         | 9 Fantastic Fox       |   9    |    -10   |
+| :3rd_place_medal: | 2021-06-20 | royal-ascot R6         | 14 Irish Legend       |  17    |    -10   |
 | 0                 | 2021-06-20 | royal-ascot R4         | 10 Starman            |   6    |    -10   |
 | 0                 | 2021-06-20 | royal-ascot R4         | 7 Nahaarr             |   5.5  |    -10   |
 | 0                 | 2021-06-20 | royal-ascot R3         | 6 Ilaraab             |   7    |    -10   |
@@ -2261,10 +2261,10 @@ categories: None
 | :boom:            | 2021-06-20 | newmarket R4           | 1 Baaeed              |   1.67 |      6.7 |
 | :boom:            | 2021-06-20 | royal-ascot R2         | 4 Creative Force      |   6    |     50   |
 | 0                 | 2021-06-20 | royal-ascot R2         | 5 Fundamental         |  12    |    -10   |
-| :2nd_place_medal: | 2021-06-19 | royal-ascot R1         | 5 Reach For The Moon  |   7.5  |    -10   |
-| 0                 | 2021-06-19 | royal-ascot R1         | 3 New Science         |   7    |    -10   |
 | :3rd_place_medal: | 2021-06-19 | royal-ascot R1         | 1 Great Max           |  15    |    -10   |
 | 0                 | 2021-06-19 | royal-ascot R1         | 9 Out In Yorkshire    |  67    |    -10   |
+| 0                 | 2021-06-19 | royal-ascot R1         | 3 New Science         |   7    |    -10   |
+| :2nd_place_medal: | 2021-06-19 | royal-ascot R1         | 5 Reach For The Moon  |   7.5  |    -10   |
 | :3rd_place_medal: | 2021-06-19 | belmont R8             | 10 Tri For Us         |   5.5  |    -10   |
 | 5                 | 2021-06-19 | darwin R7              | 2 The Auditor         |   6.6  |    -10   |
 | :boom:            | 2021-06-19 | belmont R7             | 3 Amasenus            |   2.7  |     17   |
@@ -2288,8 +2288,8 @@ categories: None
 | :3rd_place_medal: | 2021-06-19 | royal-ascot R6         | 2 Zabeel Champion     |  17    |    -10   |
 | 0                 | 2021-06-19 | royal-ascot R5         | 25 She Do             |  19    |    -10   |
 | :boom:            | 2021-06-19 | limerick R1            | 7 Gegenpressing       |   2.25 |     12.5 |
-| :boom:            | 2021-06-19 | royal-ascot R3         | 3 Dragon Symbol       |   5    |     40   |
 | 0                 | 2021-06-19 | royal-ascot R3         | 21 Suesa              |   5.5  |    -10   |
+| :boom:            | 2021-06-19 | royal-ascot R3         | 3 Dragon Symbol       |   5    |     40   |
 | 0                 | 2021-06-19 | royal-ascot R2         | 8 Yibir               |   9    |    -10   |
 | :boom:            | 2021-06-19 | royal-ascot R2         | 2 Alenquer            |   2.62 |     16.2 |
 | 0                 | 2021-06-18 | royal-ascot R1         | 5 Eve Lodge           |   9    |    -10   |
@@ -2302,24 +2302,24 @@ categories: None
 | 0                 | 2021-06-18 | ffos-las R2            | 4 Get An Oscar        |   3.8  |    -10   |
 | 0                 | 2021-06-18 | leopardstown R4        | 1 Diderot             |   2.25 |    -10   |
 | 17                | 2021-06-18 | royal-ascot R6         | 9 Kondo Isami         |  15    |    -10   |
-| 7                 | 2021-06-18 | royal-ascot R6         | 11 First Light        |   5.5  |    -10   |
-| 0                 | 2021-06-18 | royal-ascot R6         | 2 Siskany             |   7.5  |    -10   |
-| 5                 | 2021-06-18 | royal-ascot R6         | 14 Military Mission   |  34    |    -10   |
-| :boom:            | 2021-06-18 | royal-ascot R6         | 16 Surefire           |   6    |     50   |
 | :3rd_place_medal: | 2021-06-18 | royal-ascot R6         | 15 Parachute          |  21    |    -10   |
+| 7                 | 2021-06-18 | royal-ascot R6         | 11 First Light        |   5.5  |    -10   |
 | :2nd_place_medal: | 2021-06-18 | royal-ascot R6         | 1 Sir Lamorak         |   4.75 |    -10   |
 | 8                 | 2021-06-18 | royal-ascot R6         | 8 Marshall Plan       |  29    |    -10   |
-| 0                 | 2021-06-18 | royal-ascot R5         | 29 Air To Air         |   7.5  |    -10   |
+| :boom:            | 2021-06-18 | royal-ascot R6         | 16 Surefire           |   6    |     50   |
+| 5                 | 2021-06-18 | royal-ascot R6         | 14 Military Mission   |  34    |    -10   |
+| 0                 | 2021-06-18 | royal-ascot R6         | 2 Siskany             |   7.5  |    -10   |
 | 0                 | 2021-06-18 | royal-ascot R5         | 5 Raadobarg           |   7.5  |    -10   |
 | 0                 | 2021-06-18 | royal-ascot R5         | 25 Royal Pleasure     |  21    |    -10   |
 | 0                 | 2021-06-18 | royal-ascot R5         | 10 Aerion Power       |  17    |    -10   |
 | 0                 | 2021-06-18 | royal-ascot R5         | 7 Qaader              |  29    |    -10   |
+| 0                 | 2021-06-18 | royal-ascot R5         | 29 Air To Air         |   7.5  |    -10   |
 | :boom:            | 2021-06-18 | royal-ascot R4         | 12 Subjectivist       |   7.5  |     65   |
 | 0                 | 2021-06-18 | royal-ascot R4         | 2 Rip Van Lips        | 101    |    -10   |
 | 0                 | 2021-06-18 | leopardstown R1        | 2 Elzaam Tales        |   3.2  |    -10   |
+| 0                 | 2021-06-18 | royal-ascot R3         | 11 Noon Star          |   3    |    -10   |
 | :2nd_place_medal: | 2021-06-18 | royal-ascot R3         | 6 Eshaada             |   7    |    -10   |
 | 0                 | 2021-06-18 | royal-ascot R3         | 7 Gloria Mundi        |   5.5  |    -10   |
-| 0                 | 2021-06-18 | royal-ascot R3         | 11 Noon Star          |   3    |    -10   |
 | :boom:            | 2021-06-18 | royal-ascot R2         | 3 Mohaafeth           |   2.37 |     13.7 |
 | :3rd_place_medal: | 2021-06-18 | royal-ascot R2         | 8 Secret Protector    |  23    |    -10   |
 | 0                 | 2021-06-17 | turffontein R6         | 9 Encore              |   0    |    -10   |
@@ -2345,8 +2345,8 @@ categories: None
 | 0                 | 2021-06-17 | royal-ascot R6         | 23 Superior Force     |  29    |    -10   |
 | :2nd_place_medal: | 2021-06-17 | royal-ascot R6         | 11 Dig Two            |   9    |    -10   |
 | 0                 | 2021-06-17 | royal-ascot R6         | 22 Spring Is Sprung   |  21    |    -10   |
-| 0                 | 2021-06-17 | royal-ascot R5         | 14 Magical Morning    |   6    |    -10   |
 | 0                 | 2021-06-17 | royal-ascot R5         | 8 Maydanny            |  21    |    -10   |
+| 0                 | 2021-06-17 | royal-ascot R5         | 14 Magical Morning    |   6    |    -10   |
 | 0                 | 2021-06-17 | royal-ascot R4         | 3 Lord North          |   3.25 |    -10   |
 | :boom:            | 2021-06-17 | royal-ascot R4         | 7 Love                |   2.1  |     11   |
 | :3rd_place_medal: | 2021-06-17 | uttoxeter R6           | 5 Brief Ambition      |   2.5  |    -10   |
@@ -2354,11 +2354,11 @@ categories: None
 | :boom:            | 2021-06-17 | royal-ascot R2         | 6 Kemari              |   8.5  |     75   |
 | 0                 | 2021-06-17 | royal-ascot R2         | 3 Dancing King        |   9    |    -10   |
 | :2nd_place_medal: | 2021-06-17 | royal-ascot R2         | 14 Wordsworth         |   3.25 |    -10   |
-| 0                 | 2021-06-16 | royal-ascot R1         | 2 Beautiful Sunshine  |  21    |    -10   |
-| 0                 | 2021-06-16 | royal-ascot R1         | 8 Eve Lodge           |  12    |    -10   |
-| 0                 | 2021-06-16 | royal-ascot R1         | 1 Artos               |   7    |    -10   |
 | :2nd_place_medal: | 2021-06-16 | royal-ascot R1         | 19 Twilight Gleaming  |   3.25 |    -10   |
 | 0                 | 2021-06-16 | royal-ascot R1         | 22 Yet                |  13    |    -10   |
+| 0                 | 2021-06-16 | royal-ascot R1         | 8 Eve Lodge           |  12    |    -10   |
+| 0                 | 2021-06-16 | royal-ascot R1         | 1 Artos               |   7    |    -10   |
+| 0                 | 2021-06-16 | royal-ascot R1         | 2 Beautiful Sunshine  |  21    |    -10   |
 | 7                 | 2021-06-16 | belmont R3             | 5 Playing Red         |   5.1  |    -10   |
 | :3rd_place_medal: | 2021-06-16 | belmont R2             | 7 Memorable Miss      |   2.3  |    -10   |
 | :2nd_place_medal: | 2021-06-16 | sandown-lakeside R3    | 4 Ocean's Jen         |   4.85 |    -10   |
@@ -2366,18 +2366,18 @@ categories: None
 | :3rd_place_medal: | 2021-06-16 | royal-ascot R6         | 4 Solid Stone         |   5.5  |    -10   |
 | :2nd_place_medal: | 2021-06-16 | royal-ascot R6         | 13 Patrick Sarsfield  |   4.5  |    -10   |
 | 7                 | 2021-06-16 | beverley R1            | 8 Mezzanotte          |   3.1  |    -10   |
+| 0                 | 2021-06-16 | royal-ascot R4         | 8 Mostahdaf           |   7.5  |    -10   |
 | 0                 | 2021-06-16 | royal-ascot R4         | 7 Maximal             |  26    |    -10   |
 | 0                 | 2021-06-16 | royal-ascot R4         | 4 Highland Avenue     |   7.5  |    -10   |
-| 0                 | 2021-06-16 | royal-ascot R4         | 8 Mostahdaf           |   7.5  |    -10   |
 | 0                 | 2021-06-16 | royal-ascot R3         | 6 Maven               |  41    |    -10   |
 | :3rd_place_medal: | 2021-06-16 | royal-ascot R3         | 3 Extravagant Kid     |  19    |    -10   |
 | :boom:            | 2021-06-16 | thirsk R5              | 9 Tadreeb             |   5.4  |     44   |
-| 0                 | 2021-06-16 | royal-ascot R2         | 6 Ebro River          |  13    |    -10   |
-| 0                 | 2021-06-16 | royal-ascot R2         | 5 Dhabab              |   5    |    -10   |
-| 0                 | 2021-06-16 | royal-ascot R2         | 15 Tolstoy            |  12    |    -10   |
 | 0                 | 2021-06-16 | royal-ascot R2         | 12 The Acropolis      |   7    |    -10   |
-| 0                 | 2021-06-16 | royal-ascot R2         | 1 Angel Bleu          |  29    |    -10   |
 | 0                 | 2021-06-16 | royal-ascot R2         | 17 Kaufymaker         |   9    |    -10   |
+| 0                 | 2021-06-16 | royal-ascot R2         | 1 Angel Bleu          |  29    |    -10   |
+| 0                 | 2021-06-16 | royal-ascot R2         | 6 Ebro River          |  13    |    -10   |
+| 0                 | 2021-06-16 | royal-ascot R2         | 15 Tolstoy            |  12    |    -10   |
+| 0                 | 2021-06-16 | royal-ascot R2         | 5 Dhabab              |   5    |    -10   |
 | :2nd_place_medal: | 2021-06-15 | thirsk R4              | 4 Motawaajed          |   1.7  |    -10   |
 | :boom:            | 2021-06-15 | royal-ascot R1         | 6 Palace Pier         |   1.29 |      2.9 |
 | 9                 | 2021-06-15 | scone R6               | 2 Chaready            |   3    |    -10   |
@@ -2436,8 +2436,8 @@ categories: None
 | :3rd_place_medal: | 2021-06-11 | haydock R7             | 2 Action Hero         |   4    |    -10   |
 | :boom:            | 2021-06-11 | uttoxeter R3           | 2 Dog Of War          |   2.9  |     19   |
 | 0                 | 2021-06-11 | leopardstown R4        | 7 Soul Search         |  10    |    -10   |
-| :3rd_place_medal: | 2021-06-11 | newbury R7             | 1 Zikany              |   2.1  |    -10   |
 | :boom:            | 2021-06-11 | newbury R7             | 6 Reina Del Mar       |   8    |     70   |
+| :3rd_place_medal: | 2021-06-11 | newbury R7             | 1 Zikany              |   2.1  |    -10   |
 | :2nd_place_medal: | 2021-06-11 | leopardstown R1        | 4 Moony Beams         |   1.5  |    -10   |
 | 0                 | 2021-06-11 | newbury R6             | 10 Aussie Rascal      |   9    |    -10   |
 | 0                 | 2021-06-11 | newbury R6             | 9 Secret Haunt        |   6.6  |    -10   |
@@ -2463,8 +2463,8 @@ categories: None
 | :boom:            | 2021-06-09 | fontwell R2            | 5 Light In The Sky    |   3.5  |     25   |
 | :2nd_place_medal: | 2021-06-09 | fontwell R2            | 6 Bright Eyed Eagle   |   3.25 |    -10   |
 | 0                 | 2021-06-09 | kenilworth R4          | 3 Katie To            |   2.6  |    -10   |
-| :boom:            | 2021-06-09 | fontwell R1            | 2 Blue Sans           |   2.9  |     19   |
 | :3rd_place_medal: | 2021-06-09 | fontwell R1            | 3 Kimmins             |   2    |    -10   |
+| :boom:            | 2021-06-09 | fontwell R1            | 2 Blue Sans           |   2.9  |     19   |
 | 4                 | 2021-06-09 | belmont R5             | 1 Nurhaci             |   6.6  |    -10   |
 | 4                 | 2021-06-09 | canterbury R5          | 6 Stoical             |   3.6  |    -10   |
 | :3rd_place_medal: | 2021-06-09 | sunshine-coast R1      | 1 Fierce Warrior      |   4.8  |    -10   |
@@ -2491,8 +2491,8 @@ categories: None
 | :boom:            | 2021-06-06 | perth R1               | 3 Will Carver         |   2.1  |     11   |
 | 0                 | 2021-06-06 | turffontein R4         | 4 Way Of The World    |   0    |    -10   |
 | 0                 | 2021-06-06 | scottsville R6         | 6 It's About Time     |   0    |    -10   |
-| 0                 | 2021-06-06 | scottsville R5         | 6 Super Siri          |   0    |    -10   |
 | 0                 | 2021-06-06 | scottsville R5         | 12 Heavens Girl       |   0    |    -10   |
+| 0                 | 2021-06-06 | scottsville R5         | 6 Super Siri          |   0    |    -10   |
 | :boom:            | 2021-06-06 | pinjarra R8            | 4 Vane Tempest        |   3.2  |     22   |
 | 7                 | 2021-06-06 | devonport-synthetic R8 | 5 Spihro              |   9.5  |    -10   |
 | :boom:            | 2021-06-06 | devonport-synthetic R7 | 2 And Beyond          |   2.3  |     13   |
@@ -2518,8 +2518,8 @@ categories: None
 | 0                 | 2021-06-05 | flemington R8          | 14 Sugartown          |   5.5  |    -10   |
 | :boom:            | 2021-06-05 | belmont R4             | 2 Adornment           |   2.7  |     17   |
 | 5                 | 2021-06-05 | adelaide-river R3      | 1 Divine Red          |   2.7  |    -10   |
-| 10                | 2021-06-05 | eagle-farm R7          | 12 Purrfect Deal      |  31    |    -10   |
 | :3rd_place_medal: | 2021-06-05 | eagle-farm R7          | 3 Rocha Clock         |   8    |    -10   |
+| 10                | 2021-06-05 | eagle-farm R7          | 12 Purrfect Deal      |  31    |    -10   |
 | 4                 | 2021-06-05 | morphettville-parks R6 | 11 He's A Balter      |   7    |    -10   |
 | 10                | 2021-06-05 | eagle-farm R6          | 9 Goldifox            |   9.1  |    -10   |
 | :boom:            | 2021-06-05 | flemington R5          | 3 Yulong January      |   2.3  |     13   |
@@ -2528,8 +2528,8 @@ categories: None
 | 8                 | 2021-06-05 | eagle-farm R3          | 9 Red Bloom           |  12.2  |    -10   |
 | :boom:            | 2021-06-05 | flemington R2          | 3 Snickerdoodledandy  |   2.9  |     19   |
 | :2nd_place_medal: | 2021-06-05 | morphettville-parks R1 | 2 Strike Award        |   3.15 |    -10   |
-| 5                 | 2021-06-05 | flemington R1          | 1 Haky                |   6    |    -10   |
 | :boom:            | 2021-06-05 | flemington R1          | 2 Grand Promenade     |   1.3  |      3   |
+| 5                 | 2021-06-05 | flemington R1          | 1 Haky                |   6    |    -10   |
 | 4                 | 2021-06-05 | eagle-farm R1          | 4 Prince Of Arragon   |   2.9  |    -10   |
 | 0                 | 2021-06-05 | goodwood R3            | 8 Siberian Night      |   7    |    -10   |
 | :boom:            | 2021-06-05 | doncaster R2           | 2 Bashosh             |   2    |     10   |
@@ -2537,9 +2537,9 @@ categories: None
 | :boom:            | 2021-06-05 | market-rasen R7        | 2 San Fermin          |   1.3  |      3   |
 | :boom:            | 2021-06-05 | epsom-downs R5         | 10 Snowfall           |   7    |     60   |
 | 0                 | 2021-06-05 | epsom-downs R5         | 14 Zeyaadah           |   6    |    -10   |
+| :3rd_place_medal: | 2021-06-05 | epsom-downs R3         | 3 Japan               |   3.75 |    -10   |
 | 0                 | 2021-06-05 | epsom-downs R3         | 6 Albaflora           |  12    |    -10   |
 | :2nd_place_medal: | 2021-06-05 | epsom-downs R3         | 1 Al Aasy             |   2.2  |    -10   |
-| :3rd_place_medal: | 2021-06-05 | epsom-downs R3         | 3 Japan               |   3.75 |    -10   |
 | 0                 | 2021-06-04 | market-rasen R4        | 6 Cage Of Fear        |   8    |    -10   |
 | 0                 | 2021-06-04 | epsom-downs R1         | 2 Dairerin            |   3.3  |    -10   |
 | :boom:            | 2021-06-04 | epsom-downs R1         | 8 Oscula              |   8.5  |     75   |
@@ -2555,8 +2555,8 @@ categories: None
 | 0                 | 2021-06-03 | kempton R2             | 3 Before Dawn         |   2.8  |    -10   |
 | :2nd_place_medal: | 2021-06-03 | kempton R1             | 1 Mr Curiosity        |   4.4  |    -10   |
 | :boom:            | 2021-06-03 | kempton R1             | 6 Manobo              |   1.4  |      4   |
-| 0                 | 2021-06-03 | nottingham R6          | 2 Sevenal             |   3.4  |    -10   |
 | :3rd_place_medal: | 2021-06-03 | nottingham R6          | 3 Qaasid              |   4.8  |    -10   |
+| 0                 | 2021-06-03 | nottingham R6          | 2 Sevenal             |   3.4  |    -10   |
 | 0                 | 2021-06-02 | cartmel R3             | 5 Rooster Cogburn     |   5    |    -10   |
 | 0                 | 2021-06-02 | nottingham R1          | 10 Shakenotstirred    |   3.7  |    -10   |
 | :3rd_place_medal: | 2021-06-02 | belmont R8             | 5 Secret Statue       |   2.4  |    -10   |
@@ -2591,9 +2591,9 @@ categories: None
 | 0                 | 2021-05-30 | salisbury R3           | 2 Biggles             |   2.5  |    -10   |
 | :2nd_place_medal: | 2021-05-30 | chester R6             | 2 Military Mission    |   3.3  |    -10   |
 | 0                 | 2021-05-30 | haydock R6             | 1 Twilight Heir       |   5    |    -10   |
-| 0                 | 2021-05-30 | chester R4             | 5 Dreamweaver         |   4.2  |    -10   |
 | :2nd_place_medal: | 2021-05-30 | chester R4             | 6 Buriram             |   7    |    -10   |
 | 0                 | 2021-05-30 | chester R4             | 8 Dance To Paris      |  17    |    -10   |
+| 0                 | 2021-05-30 | chester R4             | 5 Dreamweaver         |   4.2  |    -10   |
 | 0                 | 2021-05-30 | chester R3             | 1 Rumaythah           |   4.5  |    -10   |
 | :2nd_place_medal: | 2021-05-30 | greyville R8           | 4 Trying Times        |   0    |    -10   |
 | 0                 | 2021-05-29 | chester R2             | 10 King's Knight      |  10    |    -10   |
@@ -2628,10 +2628,10 @@ categories: None
 | :2nd_place_medal: | 2021-05-29 | stratford R4           | 3 Bob And Co          |   1.8  |    -10   |
 | :boom:            | 2021-05-29 | pontefract R2          | 1 Skyrunner           |   1.5  |      5   |
 | 0                 | 2021-05-29 | haydock R2             | 2 Golden Viola        |   6    |    -10   |
-| :3rd_place_medal: | 2021-05-29 | stratford R2           | 4 Merrion Avenue      |  67    |    -10   |
-| :2nd_place_medal: | 2021-05-29 | stratford R2           | 1 Virak               |   2.62 |    -10   |
-| :boom:            | 2021-05-29 | stratford R2           | 3 Deans Road          |   3.5  |     25   |
 | 0                 | 2021-05-29 | stratford R2           | 6 Southfield Theatre  |   3    |    -10   |
+| :boom:            | 2021-05-29 | stratford R2           | 3 Deans Road          |   3.5  |     25   |
+| :2nd_place_medal: | 2021-05-29 | stratford R2           | 1 Virak               |   2.62 |    -10   |
+| :3rd_place_medal: | 2021-05-29 | stratford R2           | 4 Merrion Avenue      |  67    |    -10   |
 | :boom:            | 2021-05-29 | yarmouth R8            | 9 Thomas Lanfiere     |   7.1  |     61   |
 | 0                 | 2021-05-29 | brighton R5            | 5 Thunder Flash       |   4    |    -10   |
 | 0                 | 2021-05-29 | yarmouth R4            | 8 Franklet            |   9.5  |    -10   |
@@ -2699,19 +2699,19 @@ categories: None
 | :boom:            | 2021-05-23 | turffontein R8         | 1 Sound Of Summer     |   3.8  |     28   |
 | 0                 | 2021-05-23 | curragh R4             | 4 La Barrosa          |  12    |    -10   |
 | 0                 | 2021-05-23 | york R3                | 2 Wise Eagle          |   5.5  |    -10   |
-| 0                 | 2021-05-23 | haydock R4             | 7 Nebulosa            |   7    |    -10   |
 | :boom:            | 2021-05-23 | haydock R4             | 6 Raadobarg           |   6.5  |     55   |
+| 0                 | 2021-05-23 | haydock R4             | 7 Nebulosa            |   7    |    -10   |
 | 0                 | 2021-05-22 | turffontein R7         | 4 Anne Boleyn         |   0    |    -10   |
 | :3rd_place_medal: | 2021-05-22 | goodwood R4            | 1 Aldaary             |   2.1  |    -10   |
-| 0                 | 2021-05-22 | york R2                | 5 Mighty Blue         |   4    |    -10   |
 | :boom:            | 2021-05-22 | york R2                | 6 Tribal Craft        |  13    |    120   |
+| 0                 | 2021-05-22 | york R2                | 5 Mighty Blue         |   4    |    -10   |
 | :2nd_place_medal: | 2021-05-22 | kenilworth R6          | 3 Rain In Newmarket   |   0    |    -10   |
 | 0                 | 2021-05-22 | curragh R2             | 1 Cadamosto           |   3.75 |    -10   |
 | :boom:            | 2021-05-22 | kenilworth R5          | 1 Major Attraction    |   3    |     20   |
 | 0                 | 2021-05-22 | kenilworth R4          | 3 L'ami Jean          |   0    |    -10   |
 | :2nd_place_medal: | 2021-05-22 | newmarket R1           | 1 Superior Force      |   1.83 |    -10   |
-| :2nd_place_medal: | 2021-05-22 | haydock R1             | 3 Mystical Dawn       |   3.75 |    -10   |
 | :3rd_place_medal: | 2021-05-22 | haydock R1             | 2 Oman                |   3.75 |    -10   |
+| :2nd_place_medal: | 2021-05-22 | haydock R1             | 3 Mystical Dawn       |   3.75 |    -10   |
 | :3rd_place_medal: | 2021-05-22 | belmont R9             | 11 Angelic Miss       |   3.9  |    -10   |
 | 4                 | 2021-05-22 | belmont R6             | 1 No Surrender        |  13    |    -10   |
 | :2nd_place_medal: | 2021-05-22 | darwin R3              | 3 Another Bit         |  10    |    -10   |
@@ -2747,9 +2747,9 @@ categories: None
 | 0                 | 2021-05-20 | warwick R6             | 4 Grey Noise          |   0    |    -10   |
 | 0                 | 2021-05-20 | kilmore R2             | 2 Bellicosity         |   0    |    -10   |
 | :2nd_place_medal: | 2021-05-20 | southwell R2           | 6 Statuario           |   4    |    -10   |
-| :3rd_place_medal: | 2021-05-20 | warwick R6             | 6 Southfield Royale   |  19    |    -10   |
-| :2nd_place_medal: | 2021-05-20 | warwick R6             | 1 Captain Cattistock  |   3.75 |    -10   |
 | :boom:            | 2021-05-20 | warwick R6             | 8 Sugar Baron         |   5    |     40   |
+| :2nd_place_medal: | 2021-05-20 | warwick R6             | 1 Captain Cattistock  |   3.75 |    -10   |
+| :3rd_place_medal: | 2021-05-20 | warwick R6             | 6 Southfield Royale   |  19    |    -10   |
 | :2nd_place_medal: | 2021-05-19 | pinjarra R6            | 2 Material Witness    |   2.8  |    -10   |
 | :3rd_place_medal: | 2021-05-19 | pinjarra R3            | 4 Celebrity Man       |   2.05 |    -10   |
 | 4                 | 2021-05-19 | kensington R3          | 5 Imposing Beau       |   4    |    -10   |
@@ -2766,8 +2766,8 @@ categories: None
 | 0                 | 2021-05-18 | leicester R6           | 5 Zookeeper           |   6    |    -10   |
 | 0                 | 2021-05-18 | leicester R5           | 5 Global Esteem       |   5.5  |    -10   |
 | 0                 | 2021-05-18 | leicester R4           | 10 Mobaadel           |   2.75 |    -10   |
-| :2nd_place_medal: | 2021-05-18 | windsor R1             | 3 Hollywood Lady      |   2.6  |    -10   |
 | 0                 | 2021-05-18 | windsor R1             | 1 Eagle Springs       |   8    |    -10   |
+| :2nd_place_medal: | 2021-05-18 | windsor R1             | 3 Hollywood Lady      |   2.6  |    -10   |
 | :boom:            | 2021-05-17 | redcar R3              | 1 Potapova            |   1.22 |      2.2 |
 | :3rd_place_medal: | 2021-05-16 | albany R6              | 4 Count The Sessions  |   9    |    -10   |
 | 6                 | 2021-05-16 | casterton R9           | 4 Desert Spirit       |  10    |    -10   |
@@ -2776,26 +2776,26 @@ categories: None
 | 4                 | 2021-05-16 | casterton R3           | 4 Jimmy's Secret      |   2.8  |    -10   |
 | :boom:            | 2021-05-16 | hobart R1              | 2 Sir Da Vinci        |   2.8  |     18   |
 | :3rd_place_medal: | 2021-05-16 | doncaster R2           | 3 Koda Legend         |   2.1  |    -10   |
-| :2nd_place_medal: | 2021-05-16 | newmarket R6           | 5 Mellow Magic        |   3    |    -10   |
 | :boom:            | 2021-05-16 | newmarket R6           | 8 Sayyida             |   5    |     40   |
+| :2nd_place_medal: | 2021-05-16 | newmarket R6           | 5 Mellow Magic        |   3    |    -10   |
 | 0                 | 2021-05-16 | newbury R6             | 9 Twisted Reality     |   6    |    -10   |
 | :boom:            | 2021-05-16 | newbury R6             | 5 Eshaada             |  19    |    180   |
 | 0                 | 2021-05-16 | newbury R6             | 8 Sea Empress         |   2.35 |    -10   |
 | 0                 | 2021-05-16 | newbury R6             | 4 Companionship       |  13    |    -10   |
 | :3rd_place_medal: | 2021-05-16 | turffontein R9         | 4 Say When            |   0    |    -10   |
 | :boom:            | 2021-05-16 | newmarket R5           | 10 Ametist            |   2    |     10   |
-| :boom:            | 2021-05-16 | newbury R5             | 8 Palace Pier         |   1.55 |      5.5 |
-| 0                 | 2021-05-16 | newbury R5             | 7 My Oberon           |  12    |    -10   |
-| 0                 | 2021-05-16 | newbury R5             | 4 Lope Y Fernandez    |   6.5  |    -10   |
 | 0                 | 2021-05-16 | newbury R5             | 1 Bless Him           | 101    |    -10   |
+| 0                 | 2021-05-16 | newbury R5             | 4 Lope Y Fernandez    |   6.5  |    -10   |
+| 0                 | 2021-05-16 | newbury R5             | 7 My Oberon           |  12    |    -10   |
+| :boom:            | 2021-05-16 | newbury R5             | 8 Palace Pier         |   1.55 |      5.5 |
 | 0                 | 2021-05-16 | newbury R4             | 2 Tamborrada          |   6.5  |    -10   |
 | 0                 | 2021-05-16 | newbury R4             | 3 Highland Rocker     |   7    |    -10   |
 | :boom:            | 2021-05-16 | newbury R4             | 4 Bay Bridge          |   3.8  |     28   |
 | :boom:            | 2021-05-15 | turffontein R7         | 6 Way Of The World    |  10    |     90   |
 | 0                 | 2021-05-15 | newmarket R3           | 1 Cloudbridge         |   5.5  |    -10   |
 | 0                 | 2021-05-15 | newbury R3             | 4 Ranch Hand          |  15    |    -10   |
-| :boom:            | 2021-05-15 | newbury R2             | 2 Creative Force      |   3.4  |     24   |
 | :3rd_place_medal: | 2021-05-15 | newbury R2             | 1 Tactical            |   3    |    -10   |
+| :boom:            | 2021-05-15 | newbury R2             | 2 Creative Force      |   3.4  |     24   |
 | :2nd_place_medal: | 2021-05-15 | turffontein R5         | 6 Global Player       |   0    |    -10   |
 | 0                 | 2021-05-15 | bangor R1              | 5 Castel Gandolfo     |   2.62 |    -10   |
 | :boom:            | 2021-05-15 | turffontein R1         | 1 Freedom Of Choice   |   4.2  |     32   |
@@ -2848,8 +2848,8 @@ categories: None
 | :2nd_place_medal: | 2021-05-14 | newmarket R4           | 4 Rodrigo Diaz        |   4.33 |    -10   |
 | :3rd_place_medal: | 2021-05-14 | newmarket R2           | 1 General Panic       |   5    |    -10   |
 | :2nd_place_medal: | 2021-05-14 | fontwell R2            | 3 Eglantine Du Seuil  |   1.45 |    -10   |
-| 0                 | 2021-05-14 | newmarket R1           | 4 Serena's Queen      |   4.6  |    -10   |
 | 0                 | 2021-05-14 | newmarket R1           | 11 Puy Mary           |   7    |    -10   |
+| 0                 | 2021-05-14 | newmarket R1           | 4 Serena's Queen      |   4.6  |    -10   |
 | 0                 | 2021-05-14 | salisbury R6           | 4 Soapy Stevens       |   7.5  |    -10   |
 | :3rd_place_medal: | 2021-05-14 | york R5                | 8 Dexter Belle        |   5.5  |    -10   |
 | :3rd_place_medal: | 2021-05-14 | york R4                | 5 High Definition     |   2.62 |    -10   |
@@ -2858,8 +2858,8 @@ categories: None
 | :boom:            | 2021-05-13 | salisbury R3           | 1 Lord Protector      |   3.8  |     28   |
 | 0                 | 2021-05-13 | vaal R5                | 1 Sergei              |   0    |    -10   |
 | :2nd_place_medal: | 2021-05-13 | york R2                | 2 Chamade             |  11    |    -10   |
-| :2nd_place_medal: | 2021-05-13 | perth R3               | 4 Fitzroy             |   9    |    -10   |
 | 0                 | 2021-05-13 | perth R3               | 2 Ask Dillon          |   1.85 |    -10   |
+| :2nd_place_medal: | 2021-05-13 | perth R3               | 4 Fitzroy             |   9    |    -10   |
 | :boom:            | 2021-05-13 | salisbury R2           | 8 Military Mission    |   2    |     10   |
 | :boom:            | 2021-05-13 | vaal R4                | 7 The Contractor      |   3.8  |     28   |
 | :2nd_place_medal: | 2021-05-13 | northam R7             | 2 Trevello            |   7    |    -10   |
@@ -2868,8 +2868,8 @@ categories: None
 | 7                 | 2021-05-13 | wyong R5               | 3 War General         |   6.5  |    -10   |
 | :boom:            | 2021-05-13 | northam R1             | 2 Nowhiteflag         |   1.8  |      8   |
 | 0                 | 2021-05-13 | perth R6               | 7 Royal Chant         |   5.5  |    -10   |
-| :boom:            | 2021-05-13 | york R7                | 15 Flyin' Solo        |   4    |     30   |
 | 0                 | 2021-05-13 | york R7                | 2 Hint Of Stars       |  10    |    -10   |
+| :boom:            | 2021-05-13 | york R7                | 15 Flyin' Solo        |   4    |     30   |
 | 0                 | 2021-05-13 | durbanville R7         | 8 Queen's Club        |   0    |    -10   |
 | 0                 | 2021-05-13 | york R4                | 1 Auria               |  19    |    -10   |
 | 0                 | 2021-05-12 | york R3                | 10 Final Song         |  15    |    -10   |
@@ -2915,15 +2915,15 @@ categories: None
 | :2nd_place_medal: | 2021-05-09 | royal-ascot R5         | 11 Group One Power    |   4.33 |    -10   |
 | :2nd_place_medal: | 2021-05-09 | haydock R5             | 6 Tomfre              |   3.75 |    -10   |
 | 0                 | 2021-05-09 | royal-ascot R4         | 3 Symbolize           |  13    |    -10   |
-| 0                 | 2021-05-09 | royal-ascot R4         | 1 Motakhayyel         |  19    |    -10   |
 | 0                 | 2021-05-09 | royal-ascot R4         | 18 Acquitted          |   7.5  |    -10   |
+| 0                 | 2021-05-09 | royal-ascot R4         | 1 Motakhayyel         |  19    |    -10   |
 | :2nd_place_medal: | 2021-05-09 | kenilworth R7          | 5 Super Siri          |   2.35 |    -10   |
 | 0                 | 2021-05-09 | lingfield R5           | 8 Meu Amor            |   9.5  |    -10   |
 | :3rd_place_medal: | 2021-05-09 | royal-ascot R3         | 7 Robasta             |   5.5  |    -10   |
 | 0                 | 2021-05-08 | nottingham R4          | 5 Mountain Brave      |   8    |    -10   |
-| :2nd_place_medal: | 2021-05-08 | lingfield R4           | 1 Adayar              |   2.2  |    -10   |
 | :3rd_place_medal: | 2021-05-08 | lingfield R4           | 6 Scope               |   6    |    -10   |
 | 0                 | 2021-05-08 | lingfield R4           | 4 Kyprios             |   5    |    -10   |
+| :2nd_place_medal: | 2021-05-08 | lingfield R4           | 1 Adayar              |   2.2  |    -10   |
 | :boom:            | 2021-05-08 | royal-ascot R2         | 11 Albaflora          |   5    |     40   |
 | :2nd_place_medal: | 2021-05-08 | lingfield R3           | 7 Save A Forest       |  12    |    -10   |
 | 0                 | 2021-05-08 | lingfield R3           | 9 Technique           |   5    |    -10   |
@@ -2940,8 +2940,8 @@ categories: None
 | 0                 | 2021-05-08 | morphettville R8       | 9 Way To Go Paula     |   5.5  |    -10   |
 | 4                 | 2021-05-08 | ascot R4               | 2 First Law           |   5    |    -10   |
 | 4                 | 2021-05-08 | darwin R1              | 3 Escondido           |   3.25 |    -10   |
-| :boom:            | 2021-05-08 | morphettville R7       | 1 Explosive Jack      |   3.9  |     29   |
 | :2nd_place_medal: | 2021-05-08 | morphettville R7       | 4 Let's Karaka Deel   |  15    |    -10   |
+| :boom:            | 2021-05-08 | morphettville R7       | 1 Explosive Jack      |   3.9  |     29   |
 | :2nd_place_medal: | 2021-05-08 | ascot R2               | 2 Born To Try         |   2.25 |    -10   |
 | :boom:            | 2021-05-08 | caulfield R6           | 8 Streetcar Stranger  |   2.6  |     16   |
 | :2nd_place_medal: | 2021-05-08 | ipswich R5             | 1 Wham                |   4.6  |    -10   |
@@ -2956,8 +2956,8 @@ categories: None
 | 0                 | 2021-05-08 | nottingham R7          | 3 Copper Queen        |   2.37 |    -10   |
 | :3rd_place_medal: | 2021-05-08 | ripon R1               | 8 Wee Loch Lass       |   2    |    -10   |
 | 0                 | 2021-05-08 | royal-ascot R7         | 4 Orgetorix           |   6    |    -10   |
-| :boom:            | 2021-05-08 | chester R6             | 13 Green Book         |   6    |     50   |
 | 0                 | 2021-05-08 | chester R6             | 7 Brasca              |  12    |    -10   |
+| :boom:            | 2021-05-08 | chester R6             | 13 Green Book         |   6    |     50   |
 | 0                 | 2021-05-08 | market-rasen R8        | 3 Mexican Boy         |   2.6  |    -10   |
 | 0                 | 2021-05-08 | royal-ascot R6         | 11 Marlay Park        |  15    |    -10   |
 | 0                 | 2021-05-08 | royal-ascot R6         | 1 Crimson Sand        |   3.25 |    -10   |
@@ -3009,8 +3009,8 @@ categories: None
 | :2nd_place_medal: | 2021-05-05 | warrnambool R3         | 2 Grabowski           |   7    |    -10   |
 | :3rd_place_medal: | 2021-05-05 | southwell R4           | 1 Barony Legends      |   4    |    -10   |
 | 0                 | 2021-05-05 | wolverhampton R1       | 4 Sky Lake            |   4.5  |    -10   |
-| :boom:            | 2021-05-05 | fakenham R6            | 5 Tullys Touch        |   1.75 |      7.5 |
 | :3rd_place_medal: | 2021-05-05 | fakenham R6            | 4 Streets Of London   |   4    |    -10   |
+| :boom:            | 2021-05-05 | fakenham R6            | 5 Tullys Touch        |   1.75 |      7.5 |
 | 0                 | 2021-05-05 | vaal R8                | 2 Ace Of Spades       |   0    |    -10   |
 | 0                 | 2021-05-04 | gowran-park R3         | 16 Spilt Passion      |   6    |    -10   |
 | :boom:            | 2021-05-04 | gowran-park R1         | 2 Bellagio Man        |   4.9  |     39   |
@@ -3026,8 +3026,8 @@ categories: None
 | :2nd_place_medal: | 2021-05-04 | windsor R6             | 1 Greatgadian         |   2.8  |    -10   |
 | :2nd_place_medal: | 2021-05-04 | kenilworth R8          | 6 Lilac Sensation     |   3.8  |    -10   |
 | :2nd_place_medal: | 2021-05-04 | kenilworth R7          | 3 One Way Traffic     |   2.15 |    -10   |
-| 0                 | 2021-05-03 | warwick R2             | 8 I Will Follow Her   |  10    |    -10   |
 | :2nd_place_medal: | 2021-05-03 | warwick R2             | 15 Subway Surf        |   3.75 |    -10   |
+| 0                 | 2021-05-03 | warwick R2             | 8 I Will Follow Her   |  10    |    -10   |
 | :boom:            | 2021-05-03 | curragh R3             | 3 Broome              |   1.5  |      5   |
 | :boom:            | 2021-05-03 | kempton R3             | 6 Will Carver         |   2    |     10   |
 | :boom:            | 2021-05-03 | beverley R3            | 4 Sound Reason        |   7    |     60   |
@@ -3035,10 +3035,10 @@ categories: None
 | 0                 | 2021-05-03 | newmarket R7           | 4 Defined             |   8    |    -10   |
 | 0                 | 2021-05-03 | newmarket R7           | 2 Annandale           |   3    |    -10   |
 | :2nd_place_medal: | 2021-05-03 | newmarket R7           | 1 Echo Point          |   2.1  |    -10   |
-| 0                 | 2021-05-03 | newmarket R5           | 3 Lullaby Moon        |  34    |    -10   |
-| 0                 | 2021-05-03 | newmarket R5           | 10 Statement          |   9.5  |    -10   |
-| 0                 | 2021-05-03 | newmarket R5           | 7 Santa Barbara       |   2.8  |    -10   |
 | :boom:            | 2021-05-03 | newmarket R5           | 4 Mother Earth        |  12.2  |    112   |
+| 0                 | 2021-05-03 | newmarket R5           | 7 Santa Barbara       |   2.8  |    -10   |
+| 0                 | 2021-05-03 | newmarket R5           | 10 Statement          |   9.5  |    -10   |
+| 0                 | 2021-05-03 | newmarket R5           | 3 Lullaby Moon        |  34    |    -10   |
 | :2nd_place_medal: | 2021-05-03 | greyville R9           | 1 Midnight Badger     |   0    |    -10   |
 | 0                 | 2021-05-02 | salisbury R4           | 1 Gustav Holst        |   4.33 |    -10   |
 | 0                 | 2021-05-02 | greyville R8           | 5 Third Runway        |   0    |    -10   |
@@ -3083,17 +3083,17 @@ categories: None
 | :3rd_place_medal: | 2021-05-02 | punchestown R3         | 2 Concertista         |   2.1  |    -10   |
 | 0                 | 2021-05-02 | newmarket R4           | 1 Al Zaraqaan         |   3.8  |    -10   |
 | :boom:            | 2021-05-02 | newmarket R4           | 4 Sir Ron Priestley   |   2.9  |     19   |
-| 0                 | 2021-05-01 | thirsk R3              | 12 Tom Collins        |   8    |    -10   |
 | 0                 | 2021-05-01 | thirsk R3              | 11 Queen's Sargent    |  19    |    -10   |
+| 0                 | 2021-05-01 | thirsk R3              | 12 Tom Collins        |   8    |    -10   |
 | :boom:            | 2021-05-01 | turffontein R7         | 2 Rio Querari         |   3.5  |     25   |
 | :3rd_place_medal: | 2021-05-01 | turffontein R7         | 9 True To Life        |   0    |    -10   |
 | 0                 | 2021-05-01 | newmarket R2           | 1 Bright Melody       |   4.6  |    -10   |
 | :boom:            | 2021-05-01 | goodwood R2            | 2 Nebulosa            |   2.5  |     15   |
 | 0                 | 2021-05-01 | newmarket R1           | 5 If You Dare         |   6    |    -10   |
 | 0                 | 2021-05-01 | turffontein R4         | 7 Warrior Captain     |   0    |    -10   |
-| 0                 | 2021-05-01 | turffontein R3         | 3 Freed From Desire   |   0    |    -10   |
-| :boom:            | 2021-05-01 | turffontein R3         | 5 Heavens Girl        |  17    |    160   |
 | 0                 | 2021-05-01 | turffontein R3         | 6 Kwazzi's Lady       |   0    |    -10   |
+| :boom:            | 2021-05-01 | turffontein R3         | 5 Heavens Girl        |  17    |    160   |
+| 0                 | 2021-05-01 | turffontein R3         | 3 Freed From Desire   |   0    |    -10   |
 | 0                 | 2021-05-01 | turffontein R1         | 3 Winter With Jo      |   0    |    -10   |
 | :boom:            | 2021-05-01 | eagle-farm R8          | 3 Niccanova           |  12.4  |    114   |
 | 8                 | 2021-05-01 | barcaldine R5          | 4 Pitchi Pitchi       |   2.8  |    -10   |
@@ -3140,8 +3140,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-30 | chelmsford-city R7     | 1 Garden Paradise     |   9.5  |    -10   |
 | :boom:            | 2021-04-30 | punchestown R8         | 3 Dysart Dynamo       |   2.25 |     12.5 |
 | :boom:            | 2021-04-30 | punchestown R7         | 1 Gauloise            |   2.8  |     18   |
-| :2nd_place_medal: | 2021-04-30 | chelmsford-city R2     | 1 Pied Piper          |   2.4  |    -10   |
 | :boom:            | 2021-04-30 | chelmsford-city R2     | 2 Golden Flame        |   2.3  |     13   |
+| :2nd_place_medal: | 2021-04-30 | chelmsford-city R2     | 1 Pied Piper          |   2.4  |    -10   |
 | :2nd_place_medal: | 2021-04-30 | chelmsford-city R1     | 8 Tippy Toes          |   2.1  |    -10   |
 | 0                 | 2021-04-30 | musselburgh R5         | 1 Air Time            |   3    |    -10   |
 | 0                 | 2021-04-30 | lingfield R6           | 5 Going Gone          |   9.5  |    -10   |
@@ -3158,8 +3158,8 @@ categories: None
 | :boom:            | 2021-04-29 | punchestown R4         | 6 Galopin Des Champs  |   2.8  |     18   |
 | 0                 | 2021-04-29 | royal-ascot R7         | 1 Rewaayat            |   3.25 |    -10   |
 | :boom:            | 2021-04-29 | pontefract R5          | 1 Bergerac            |   2.35 |     13.5 |
-| 0                 | 2021-04-29 | royal-ascot R6         | 3 Marie's Diamond     |   8    |    -10   |
 | 0                 | 2021-04-29 | royal-ascot R6         | 2 Haqeeqy             |   2.5  |    -10   |
+| 0                 | 2021-04-29 | royal-ascot R6         | 3 Marie's Diamond     |   8    |    -10   |
 | :boom:            | 2021-04-29 | kenilworth R7          | 4 Major Attraction    |   4    |     30   |
 | 0                 | 2021-04-29 | royal-ascot R5         | 4 Method              |   5    |    -10   |
 | :2nd_place_medal: | 2021-04-28 | royal-ascot R3         | 1 Auria               |   8    |    -10   |
@@ -3186,8 +3186,8 @@ categories: None
 | 0                 | 2021-04-27 | yarmouth R1            | 4 Ladywood            |   2.8  |    -10   |
 | :2nd_place_medal: | 2021-04-27 | townsville R6          | 8 Willygood           |   3.6  |    -10   |
 | 5                 | 2021-04-27 | townsville R4          | 5 Silent Explorer     |   2.45 |    -10   |
-| 5                 | 2021-04-27 | townsville R2          | 3 Well Charred        |   4.45 |    -10   |
 | :boom:            | 2021-04-27 | townsville R2          | 2 Husette             |   1.5  |      5   |
+| 5                 | 2021-04-27 | townsville R2          | 3 Well Charred        |   4.45 |    -10   |
 | 0                 | 2021-04-27 | windsor R3             | 5 Last Light          |   3.75 |    -10   |
 | 0                 | 2021-04-27 | naas R8                | 14 Sir William Bruce  |   2.62 |    -10   |
 | 0                 | 2021-04-27 | lingfield R3           | 5 Moselle Valley      |   1.85 |    -10   |
@@ -3230,8 +3230,8 @@ categories: None
 | 0                 | 2021-04-25 | turffontein R9         | 1 Gilboa              |   0    |    -10   |
 | :2nd_place_medal: | 2021-04-25 | haydock R4             | 4 Menai Bridge        |   3.5  |    -10   |
 | :2nd_place_medal: | 2021-04-25 | leicester R7           | 1 Possible Man        |   3    |    -10   |
-| :boom:            | 2021-04-25 | kenilworth R7          | 6 Warrior             |   4.8  |     38   |
 | 0                 | 2021-04-25 | kenilworth R7          | 4 Northern Song       |   0    |    -10   |
+| :boom:            | 2021-04-25 | kenilworth R7          | 6 Warrior             |   4.8  |     38   |
 | 0                 | 2021-04-25 | sandown R3             | 4 Nuts Well           |  15    |    -10   |
 | :boom:            | 2021-04-24 | haydock R2             | 4 Persuasion          |   9    |     80   |
 | :boom:            | 2021-04-24 | leicester R5           | 2 Dancing King        |   2.2  |     12   |
@@ -3240,8 +3240,8 @@ categories: None
 | :boom:            | 2021-04-24 | kenilworth R4          | 4 Sabina's Prodigy    |  10    |     90   |
 | 0                 | 2021-04-24 | sandown R1             | 2 Rockstar Ronnie     |  13    |    -10   |
 | 0                 | 2021-04-24 | turffontein R5         | 8 Irish Rain          |   0    |    -10   |
-| :3rd_place_medal: | 2021-04-24 | kenilworth R3          | 3 Queen Of Quiet      |   0    |    -10   |
 | :boom:            | 2021-04-24 | kenilworth R3          | 1 Phil's Dancer       |   4    |     30   |
+| :3rd_place_medal: | 2021-04-24 | kenilworth R3          | 3 Queen Of Quiet      |   0    |    -10   |
 | 0                 | 2021-04-24 | singapore R10          | 14 Celavi             |  31    |    -10   |
 | 10                | 2021-04-24 | morphettville-parks R9 | 2 Azaly               |  17    |    -10   |
 | :boom:            | 2021-04-24 | morphettville-parks R9 | 1 Royal Mile          |   4.5  |     35   |
@@ -3249,17 +3249,17 @@ categories: None
 | 6                 | 2021-04-24 | ascot R5               | 9 Stellar Vista       |   4.6  |    -10   |
 | 0                 | 2021-04-24 | randwick R8            | 9 Starspangled Rodeo  |   5.6  |    -10   |
 | :3rd_place_medal: | 2021-04-24 | darwin R2              | 3 Kaptan Apollo       |   6.5  |    -10   |
+| :2nd_place_medal: | 2021-04-24 | singapore R5           | 2 Spirit Of Big Bang  |   3.3  |    -10   |
 | 0                 | 2021-04-24 | singapore R5           | 3 On Line             |   2    |    -10   |
 | 6                 | 2021-04-24 | kembla-grange R7       | 4 Favra               |   2.8  |    -10   |
-| :2nd_place_medal: | 2021-04-24 | singapore R5           | 2 Spirit Of Big Bang  |   3.3  |    -10   |
 | 13                | 2021-04-24 | randwick R6            | 11 Wolfburn           |  81    |    -10   |
 | 4                 | 2021-04-24 | doomben R6             | 2 Good Soize          |   6.6  |    -10   |
 | 9                 | 2021-04-24 | doomben R6             | 5 Only Words          |   7    |    -10   |
 | 5                 | 2021-04-24 | randwick R5            | 5 Signore Fox         |   5.5  |    -10   |
 | 0                 | 2021-04-24 | riccarton-park R9      | 7 Lightning Jack      |  12    |    -10   |
 | 8                 | 2021-04-24 | doomben R5             | 6 Barefoot            |  10.2  |    -10   |
-| 8                 | 2021-04-24 | doomben R4             | 4 Holy Command        |   8.5  |    -10   |
 | 4                 | 2021-04-24 | doomben R4             | 14 Tramonto           |   7.1  |    -10   |
+| 8                 | 2021-04-24 | doomben R4             | 4 Holy Command        |   8.5  |    -10   |
 | 6                 | 2021-04-24 | caulfield R2           | 1 Pride Of Jenni      |   3.8  |    -10   |
 | 6                 | 2021-04-24 | randwick R2            | 2 Kiku                |   2.4  |    -10   |
 | 0                 | 2021-04-24 | ellerslie R4           | 2 Bak Da Master       |   4.35 |    -10   |
@@ -3268,28 +3268,28 @@ categories: None
 | 0                 | 2021-04-24 | sandown R7             | 1 Sea The Shells      |   2.1  |    -10   |
 | :boom:            | 2021-04-24 | sandown R7             | 3 Juan De Montalban   |   4    |     30   |
 | :boom:            | 2021-04-24 | sandown R6             | 1 Nash Nasha          |   2.4  |     14   |
-| 0                 | 2021-04-24 | sandown R5             | 8 Sir Lucan           |  13    |    -10   |
-| 0                 | 2021-04-24 | sandown R5             | 5 Irish Legend        |  26    |    -10   |
 | 0                 | 2021-04-24 | sandown R5             | 6 Lone Eagle          |   6.5  |    -10   |
 | 0                 | 2021-04-24 | sandown R5             | 9 Trawlerman          |   6    |    -10   |
+| 0                 | 2021-04-24 | sandown R5             | 8 Sir Lucan           |  13    |    -10   |
+| 0                 | 2021-04-24 | sandown R5             | 5 Irish Legend        |  26    |    -10   |
 | :boom:            | 2021-04-24 | doncaster R5           | 2 Ben Lilly           |   3.5  |     25   |
 | 0                 | 2021-04-24 | perth R4               | 6 Gunsight Ridge      |   3.75 |    -10   |
 | 0                 | 2021-04-24 | sandown R4             | 3 Khuzaam             |   4    |    -10   |
 | :2nd_place_medal: | 2021-04-23 | doncaster R4           | 3 Taravara            |   3.8  |    -10   |
 | :boom:            | 2021-04-23 | doncaster R4           | 1 Side Shot           |   5    |     40   |
-| :boom:            | 2021-04-23 | sandown R3             | 6 Waldkonig           |   2.6  |     16   |
 | 0                 | 2021-04-23 | sandown R3             | 5 Thunderous          |   7    |    -10   |
+| :boom:            | 2021-04-23 | sandown R3             | 6 Waldkonig           |   2.6  |     16   |
 | :boom:            | 2021-04-23 | fairview R6            | 9 Mojito Magic        |   4    |     30   |
-| 0                 | 2021-04-23 | sandown R2             | 4 Rifleman            |   4.5  |    -10   |
 | 0                 | 2021-04-23 | sandown R2             | 9 Melody Of Life      |  17    |    -10   |
+| 0                 | 2021-04-23 | sandown R2             | 4 Rifleman            |   4.5  |    -10   |
 | :boom:            | 2021-04-23 | cranbourne R3          | 10 Hereforagoodtime   |   2.7  |     17   |
 | :2nd_place_medal: | 2021-04-23 | tamworth R4            | 10 Scorched Land      |   6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-23 | exeter R2              | 3 Castel Gandolfo     |   3.5  |    -10   |
 | 0                 | 2021-04-22 | vaal R7                | 1 Castellano          |   0    |    -10   |
 | 0                 | 2021-04-22 | vaal R2                | 10 Greenhill          |   0    |    -10   |
 | :boom:            | 2021-04-22 | racing.com-park R6     | 5 Sweet Sixteen       |   2.2  |     12   |
-| 0                 | 2021-04-22 | vaal R1                | 6 Grace From Above    |   0    |    -10   |
 | :boom:            | 2021-04-22 | vaal R1                | 2 Trying Times        |   3    |     20   |
+| 0                 | 2021-04-22 | vaal R1                | 6 Grace From Above    |   0    |    -10   |
 | 6                 | 2021-04-22 | racing.com-park R5     | 1 Staredown           |   2.1  |    -10   |
 | :2nd_place_medal: | 2021-04-22 | kilmore R8             | 1 Seiners Express     |   5    |    -10   |
 | :boom:            | 2021-04-22 | newcastle R7           | 6 Adelaide's Light    |   1.8  |      8   |
@@ -3312,11 +3312,11 @@ categories: None
 | :2nd_place_medal: | 2021-04-21 | epsom-downs R4         | 2 Silent Film         |   2.5  |    -10   |
 | :boom:            | 2021-04-21 | epsom-downs R4         | 5 Fast Steps          |  11    |    100   |
 | 0                 | 2021-04-20 | epsom-downs R3         | 2 Harrovian           |   6.5  |    -10   |
-| :boom:            | 2021-04-20 | epsom-downs R2         | 8 Wirko               |   7    |     60   |
-| :2nd_place_medal: | 2021-04-20 | epsom-downs R2         | 9 Technique           |  15    |    -10   |
-| 0                 | 2021-04-20 | epsom-downs R2         | 3 Hector De Maris     |  10    |    -10   |
-| 0                 | 2021-04-20 | epsom-downs R2         | 4 Star Caliber        |   9.5  |    -10   |
 | :3rd_place_medal: | 2021-04-20 | epsom-downs R2         | 7 Uncle Bryn          |   2.1  |    -10   |
+| 0                 | 2021-04-20 | epsom-downs R2         | 4 Star Caliber        |   9.5  |    -10   |
+| 0                 | 2021-04-20 | epsom-downs R2         | 3 Hector De Maris     |  10    |    -10   |
+| :2nd_place_medal: | 2021-04-20 | epsom-downs R2         | 9 Technique           |  15    |    -10   |
+| :boom:            | 2021-04-20 | epsom-downs R2         | 8 Wirko               |   7    |     60   |
 | :boom:            | 2021-04-20 | mackay R6              | 5 The Egyptian        |   2.1  |     11   |
 | 4                 | 2021-04-20 | geelong R5             | 6 Supreme Belief      |   7    |    -10   |
 | :boom:            | 2021-04-20 | geelong R4             | 5 Red Santa           |   2    |     10   |
@@ -3332,8 +3332,8 @@ categories: None
 | 0                 | 2021-04-19 | ayr R8                 | 3 Flemenstide         |   3.5  |    -10   |
 | :boom:            | 2021-04-19 | ayr R6                 | 7 Bass Rock           |   9.5  |     85   |
 | :2nd_place_medal: | 2021-04-19 | newbury R6             | 3 Counsel             |   4.2  |    -10   |
-| 0                 | 2021-04-18 | newbury R4             | 8 Nando Parrado       |   8    |    -10   |
 | 0                 | 2021-04-18 | newbury R4             | 3 Fundamental         |   8    |    -10   |
+| 0                 | 2021-04-18 | newbury R4             | 8 Nando Parrado       |   8    |    -10   |
 | 0                 | 2021-04-18 | newbury R3             | 10 Miss Finland       |  26    |    -10   |
 | 0                 | 2021-04-18 | newbury R3             | 16 Wild Iris          |  16    |    -10   |
 | 0                 | 2021-04-18 | newbury R3             | 5 Hello Me            | 101    |    -10   |
@@ -3360,8 +3360,8 @@ categories: None
 | 6                 | 2021-04-17 | morphettville R6       | 2 Minhaaj             |   5.5  |    -10   |
 | 13                | 2021-04-17 | randwick R7            | 10 Favorite Moon      |   7    |    -10   |
 | :3rd_place_medal: | 2021-04-17 | morphettville R5       | 4 Don'tdreamit'sover  |   2.4  |    -10   |
-| 9                 | 2021-04-17 | randwick R6            | 4 Aim                 |  26    |    -10   |
 | :2nd_place_medal: | 2021-04-17 | randwick R6            | 9 Isotope             |   3.7  |    -10   |
+| 9                 | 2021-04-17 | randwick R6            | 4 Aim                 |  26    |    -10   |
 | :boom:            | 2021-04-17 | kyneton R4             | 1 Sir Da Vinci        |   4    |     30   |
 | 7                 | 2021-04-17 | morphettville R4       | 7 Grafton Avenue      |  11.2  |    -10   |
 | :3rd_place_medal: | 2021-04-17 | alice-springs R2       | 4 The Captain         |   1.55 |    -10   |
@@ -3407,15 +3407,15 @@ categories: None
 | :2nd_place_medal: | 2021-04-16 | ripon R5               | 2 Emperor Spirit      |   1.9  |    -10   |
 | :2nd_place_medal: | 2021-04-16 | cheltenham R6          | 5 Miss Amelia         |   3.8  |    -10   |
 | :2nd_place_medal: | 2021-04-16 | newmarket R6           | 3 Scope               |   4    |    -10   |
-| :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi           |   3.2  |     22   |
 | 0                 | 2021-04-16 | newmarket R6           | 2 Daramethos          |   2.9  |    -10   |
+| :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi           |   3.2  |     22   |
 | :boom:            | 2021-04-16 | ripon R4               | 2 Zabeel Champion     |   3.05 |     20.5 |
 | 0                 | 2021-04-16 | cheltenham R5          | 5 Flower Of Scotland  |   4    |    -10   |
 | 0                 | 2021-04-16 | newmarket R5           | 9 Sandhurst           |   9.5  |    -10   |
 | 0                 | 2021-04-16 | newmarket R5           | 8 Royal Air Force     |  17    |    -10   |
 | 0                 | 2021-04-16 | newmarket R5           | 4 Khartoum            |   7.5  |    -10   |
-| 0                 | 2021-04-16 | newmarket R4           | 2 Exalted Angel       |  13    |    -10   |
 | 0                 | 2021-04-16 | newmarket R4           | 4 Shine So Bright     |  11    |    -10   |
+| 0                 | 2021-04-16 | newmarket R4           | 2 Exalted Angel       |  13    |    -10   |
 | :boom:            | 2021-04-15 | ripon R2               | 1 Highland Rocker     |   1.5  |      5   |
 | 0                 | 2021-04-15 | greyville R7           | 6 Burning Wings       |   0    |    -10   |
 | 0                 | 2021-04-15 | newmarket R1           | 7 Qurtajana           |   3.1  |    -10   |
@@ -3451,10 +3451,10 @@ categories: None
 | 0                 | 2021-04-14 | kenilworth R8          | 3 On Your Marks       |   5    |    -10   |
 | 0                 | 2021-04-14 | newmarket R6           | 13 Eton College       |   7    |    -10   |
 | :boom:            | 2021-04-14 | newmarket R6           | 9 Double Or Bubble    |   8.5  |     75   |
-| 0                 | 2021-04-14 | newmarket R5           | 1 Fancy Man           |   9.5  |    -10   |
-| :2nd_place_medal: | 2021-04-14 | newmarket R5           | 8 Secret Protector    |   5    |    -10   |
 | :boom:            | 2021-04-14 | newmarket R5           | 5 Highland Avenue     |   5.5  |     45   |
 | 0                 | 2021-04-14 | newmarket R5           | 2 Arturo Toscanini    |   6    |    -10   |
+| :2nd_place_medal: | 2021-04-14 | newmarket R5           | 8 Secret Protector    |   5    |    -10   |
+| 0                 | 2021-04-14 | newmarket R5           | 1 Fancy Man           |   9.5  |    -10   |
 | :boom:            | 2021-04-13 | newmarket R4           | 6 Overwrite           |   4.35 |     33.5 |
 | :2nd_place_medal: | 2021-04-13 | newmarket R3           | 3 Noble Dynasty       |   2.8  |    -10   |
 | :boom:            | 2021-04-13 | southwell R1           | 1 Fidelio Vallis      |   1.3  |      3   |
@@ -3462,9 +3462,9 @@ categories: None
 | 0                 | 2021-04-13 | redcar R6              | 3 Chase The Dollar    |   2.8  |    -10   |
 | :2nd_place_medal: | 2021-04-13 | redcar R6              | 2 Otyrar              |   3.75 |    -10   |
 | :3rd_place_medal: | 2021-04-13 | windsor R6             | 1 Fiordland           |   4    |    -10   |
+| :2nd_place_medal: | 2021-04-12 | redcar R3              | 8 Freak Out           |   6    |    -10   |
 | 0                 | 2021-04-12 | redcar R3              | 6 Surprise Picture    |   6.5  |    -10   |
 | :3rd_place_medal: | 2021-04-12 | redcar R3              | 5 Mr Excellency       |   4.4  |    -10   |
-| :2nd_place_medal: | 2021-04-12 | redcar R3              | 8 Freak Out           |   6    |    -10   |
 | :2nd_place_medal: | 2021-04-12 | redcar R2              | 4 Super Over          |   1.75 |    -10   |
 | :3rd_place_medal: | 2021-04-12 | mildura R7             | 3 Justwins            |   3.4  |    -10   |
 | :boom:            | 2021-04-12 | leopardstown R6        | 7 Sir Lamorak         |   3.25 |     22.5 |
@@ -3498,8 +3498,8 @@ categories: None
 | 8                 | 2021-04-10 | randwick R7            | 2 Rocket Spade        |  12.4  |    -10   |
 | :boom:            | 2021-04-10 | randwick R7            | 10 Explosive Jack     |  15.9  |    149   |
 | 6                 | 2021-04-10 | gold-coast R5          | 3 Vaporizing          |   2.3  |    -10   |
-| :boom:            | 2021-04-10 | caulfield R5           | 1 Annavisto           |   2.7  |     17   |
 | :2nd_place_medal: | 2021-04-10 | caulfield R5           | 6 Mozzie Monster      |   2.8  |    -10   |
+| :boom:            | 2021-04-10 | caulfield R5           | 1 Annavisto           |   2.7  |     17   |
 | 8                 | 2021-04-10 | doomben R6             | 2 Abracadazzle        |   7    |    -10   |
 | 0                 | 2021-04-10 | riccarton-park R8      | 3 Rockland            |   2.8  |    -10   |
 | :3rd_place_medal: | 2021-04-10 | alice-springs R2       | 6 Dataset             |   5.5  |    -10   |
@@ -3524,9 +3524,9 @@ categories: None
 | :boom:            | 2021-04-09 | leicester R4           | 1 Dirty Rascal        |   2.6  |     16   |
 | :2nd_place_medal: | 2021-04-09 | rockhampton R9         | 6 Blonde's Day Out    |   7.6  |    -10   |
 | :boom:            | 2021-04-09 | darwin R1              | 1 Kaptan Apollo       |   2.7  |     17   |
-| :boom:            | 2021-04-09 | rockhampton R7         | 5 Sizzalating         |   2.7  |     17   |
-| :3rd_place_medal: | 2021-04-09 | rockhampton R7         | 6 Demurral            |   8.5  |    -10   |
 | :2nd_place_medal: | 2021-04-09 | rockhampton R7         | 3 Van Winkel          |  15    |    -10   |
+| :3rd_place_medal: | 2021-04-09 | rockhampton R7         | 6 Demurral            |   8.5  |    -10   |
+| :boom:            | 2021-04-09 | rockhampton R7         | 5 Sizzalating         |   2.7  |     17   |
 | :2nd_place_medal: | 2021-04-09 | chelmsford-city R6     | 4 Aventuriere         |   1.66 |    -10   |
 | 0                 | 2021-04-09 | chelmsford-city R2     | 6 Velvet Vista        |   3.75 |    -10   |
 | 0                 | 2021-04-09 | aintree R7             | 8 Mind Sunday         |  26.5  |    -10   |
@@ -3543,8 +3543,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-08 | newcastle R5           | 1 Forest Falcon       |   2    |    -10   |
 | :boom:            | 2021-04-08 | newcastle R5           | 2 Aerion Power        |   2.9  |     19   |
 | :2nd_place_medal: | 2021-04-08 | newcastle R2           | 1 Al Nefud            |   1.9  |    -10   |
-| :boom:            | 2021-04-08 | nottingham R7          | 4 Annandale           |   3    |     20   |
 | :3rd_place_medal: | 2021-04-08 | nottingham R7          | 2 Currency Exchange   |  12    |    -10   |
+| :boom:            | 2021-04-08 | nottingham R7          | 4 Annandale           |   3    |     20   |
 | 0                 | 2021-04-08 | nottingham R6          | 2 Nugget              |   5    |    -10   |
 | 0                 | 2021-04-08 | lingfield R8           | 11 Pure Purfection    |  11    |    -10   |
 | :boom:            | 2021-04-08 | nottingham R5          | 5 Sir Ron Priestley   |   3.25 |     22.5 |
@@ -3570,8 +3570,8 @@ categories: None
 | 5                 | 2021-04-06 | tamworth R6            | 9 Salsa Man           |   5.5  |    -10   |
 | :boom:            | 2021-04-06 | redcar R8              | 1 London Eye          |   3.75 |     27.5 |
 | 0                 | 2021-04-06 | kempton R6             | 4 Starczewski         |   4    |    -10   |
-| :boom:            | 2021-04-06 | wolverhampton R6       | 2 Dirty Rascal        |   2.62 |     16.2 |
 | :2nd_place_medal: | 2021-04-06 | wolverhampton R6       | 1 Gobi Sunset         |   3.2  |    -10   |
+| :boom:            | 2021-04-06 | wolverhampton R6       | 2 Dirty Rascal        |   2.62 |     16.2 |
 | 0                 | 2021-04-06 | kempton R5             | 6 Leafhopper          |   7    |    -10   |
 | :3rd_place_medal: | 2021-04-06 | redcar R6              | 1 Sir Oliver          |   5.5  |    -10   |
 | :boom:            | 2021-04-06 | wolverhampton R5       | 2 Mack The Knife      |   1.67 |      6.7 |
@@ -3670,8 +3670,8 @@ categories: None
 | :boom:            | 2021-03-31 | sandown-hillside R3    | 5 Steinem             |   2.2  |     12   |
 | 8                 | 2021-03-31 | sandown-hillside R3    | 10 Screwdriver        |   9    |    -10   |
 | :boom:            | 2021-03-31 | warwick-farm R3        | 2 Heart Of Puissance  |   3.8  |     28   |
-| 4                 | 2021-03-31 | sandown-hillside R2    | 5 Volatore            |   8.1  |    -10   |
 | 7                 | 2021-03-31 | sandown-hillside R2    | 7 Sensational Reward  |   6.1  |    -10   |
+| 4                 | 2021-03-31 | sandown-hillside R2    | 5 Volatore            |   8.1  |    -10   |
 | :3rd_place_medal: | 2021-03-31 | warwick R3             | 1 Everything For You  |   2.5  |    -10   |
 | 0                 | 2021-03-31 | turffontein R6         | 2 Herodotus           |   0    |    -10   |
 | :boom:            | 2021-03-30 | mackay R5              | 9 Such A Whit         |   3.3  |     23   |
@@ -3679,8 +3679,8 @@ categories: None
 | 0                 | 2021-03-30 | wolverhampton R5       | 1 Lovely Breeze       |   2.25 |    -10   |
 | :2nd_place_medal: | 2021-03-30 | wolverhampton R5       | 6 Numoor              |   7.5  |    -10   |
 | 0                 | 2021-03-30 | wolverhampton R4       | 1 Deep Impression     |   7    |    -10   |
-| 0                 | 2021-03-30 | wolverhampton R2       | 11 Chairman Power     |   5    |    -10   |
 | :boom:            | 2021-03-30 | wolverhampton R2       | 7 Dream With Me       |   5    |     40   |
+| 0                 | 2021-03-30 | wolverhampton R2       | 11 Chairman Power     |   5    |    -10   |
 | 0                 | 2021-03-29 | durbanville R6         | 1 Follow The Star     |   0    |    -10   |
 | :boom:            | 2021-03-29 | durbanville R1         | 6 Santa Maria         |   2    |     10   |
 | 4                 | 2021-03-29 | townsville R5          | 5 Full Recognition    |   3.1  |    -10   |
@@ -3705,8 +3705,8 @@ categories: None
 | 0                 | 2021-03-28 | kempton R4             | 5 May Sonic           |   3.25 |    -10   |
 | :3rd_place_medal: | 2021-03-28 | doncaster R3           | 9 Mostawaa            |  21    |    -10   |
 | 0                 | 2021-03-28 | doncaster R2           | 11 Bounce The Blues   |   5    |    -10   |
-| :3rd_place_medal: | 2021-03-27 | ascot R8               | 4 Temptacion          |   3.8  |    -10   |
 | :2nd_place_medal: | 2021-03-27 | ascot R8               | 3 Pure Devotion       |   2.1  |    -10   |
+| :3rd_place_medal: | 2021-03-27 | ascot R8               | 4 Temptacion          |   3.8  |    -10   |
 | :boom:            | 2021-03-27 | ascot R7               | 10 Amasenus           |   2.8  |     18   |
 | 0                 | 2021-03-27 | alice-springs R5       | 6 Schillertin         |   6.5  |    -10   |
 | :3rd_place_medal: | 2021-03-27 | toowoomba R1           | 8 Easy Come           |   2.4  |    -10   |
@@ -3735,15 +3735,15 @@ categories: None
 | 0                 | 2021-03-27 | lingfield R1           | 5 Belle Rouge         |   2.2  |    -10   |
 | 5                 | 2021-03-26 | darwin R2              | 2 Patriot Day         |   4.4  |    -10   |
 | :2nd_place_medal: | 2021-03-26 | darwin R1              | 1 Kaptan Apollo       |   3.6  |    -10   |
-| 0                 | 2021-03-26 | warrnambool R5         | 9 Duchess Of Dorset   |   5.6  |    -10   |
 | :boom:            | 2021-03-26 | warrnambool R5         | 3 Sig Positano        |   2.8  |     18   |
+| 0                 | 2021-03-26 | warrnambool R5         | 9 Duchess Of Dorset   |   5.6  |    -10   |
 | 0                 | 2021-03-26 | cork R6                | 6 Bold Assassin       |   4.2  |    -10   |
 | 0                 | 2021-03-26 | ludlow R6              | 8 My Bobby Dazzler    |  15    |    -10   |
 | 5                 | 2021-03-25 | racing.com-park R8     | 1 Scarlett Heart      |   7.1  |    -10   |
 | 8                 | 2021-03-25 | rockhampton R8         | 3 Kotabharu           |   8    |    -10   |
 | :boom:            | 2021-03-25 | rockhampton R8         | 1 Isis Brumby         |   2.4  |     14   |
-| 0                 | 2021-03-25 | rockhampton R7         | 12 Finucane Missile   |   5    |    -10   |
 | :boom:            | 2021-03-25 | rockhampton R7         | 4 Spring Creek        |   8.3  |     73   |
+| 0                 | 2021-03-25 | rockhampton R7         | 12 Finucane Missile   |   5    |    -10   |
 | :3rd_place_medal: | 2021-03-25 | pinjarra R2            | 1 Powerful Force      |   1.9  |    -10   |
 | 0                 | 2021-03-25 | rockhampton R6         | 3 Ornate              |   3.7  |    -10   |
 | 0                 | 2021-03-25 | rockhampton R5         | 2 Stubai              |   2.7  |    -10   |
@@ -3778,8 +3778,8 @@ categories: None
 | :boom:            | 2021-03-20 | eagle-farm R6          | 5 Joymaker            |   3.3  |     23   |
 | :boom:            | 2021-03-20 | ascot R3               | 11 Amasenus           |   3.2  |     22   |
 | :2nd_place_medal: | 2021-03-20 | alice-springs R7       | 1 Zap                 |   4.05 |    -10   |
-| :2nd_place_medal: | 2021-03-20 | mackay R4              | 3 Verbalizer          |   6.5  |    -10   |
 | :3rd_place_medal: | 2021-03-20 | mackay R4              | 2 Disco Mo            |   3.5  |    -10   |
+| :2nd_place_medal: | 2021-03-20 | mackay R4              | 3 Verbalizer          |   6.5  |    -10   |
 | 0                 | 2021-03-20 | morphettville-parks R6 | 10 Virtue             |   5    |    -10   |
 | :3rd_place_medal: | 2021-03-20 | mackay R3              | 2 Ollie's Stand       |   2.45 |    -10   |
 | :3rd_place_medal: | 2021-03-20 | morphettville-parks R5 | 8 Centrefield         |   5.6  |    -10   |
@@ -3821,9 +3821,9 @@ categories: None
 | :boom:            | 2021-03-18 | lingfield R5           | 1 Unforgiving Minute  |   2    |     10   |
 | 0                 | 2021-03-18 | lingfield R4           | 5 Total Commitment    |   3.5  |    -10   |
 | :2nd_place_medal: | 2021-03-18 | lingfield R4           | 3 Shine So Bright     |   3.3  |    -10   |
-| :2nd_place_medal: | 2021-03-18 | cheltenham R4          | 6 Nube Negra          |  11    |    -10   |
 | 0                 | 2021-03-18 | cheltenham R4          | 7 Politologue         |  13    |    -10   |
 | :3rd_place_medal: | 2021-03-18 | cheltenham R4          | 1 Chacun Pour Soi     |   1.85 |    -10   |
+| :2nd_place_medal: | 2021-03-18 | cheltenham R4          | 6 Nube Negra          |  11    |    -10   |
 | 0                 | 2021-03-18 | cheltenham R2          | 2 Eklat De Rire       |  12    |    -10   |
 | 0                 | 2021-03-18 | cheltenham R2          | 1 Dickie Diver        |  26    |    -10   |
 | :2nd_place_medal: | 2021-03-18 | cheltenham R1          | 5 Gaillard Du Mesnil  |   3.5  |    -10   |
@@ -3952,8 +3952,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-08 | canberra R6            | 4 Kermanding          |   6.5  |    -10   |
 | :boom:            | 2021-03-08 | canberra R6            | 2 Equation            |   1.9  |      9   |
 | 11                | 2021-03-08 | morphettville R5       | 8 Call It a Day       |  20    |    -10   |
-| :2nd_place_medal: | 2021-03-08 | morphettville R4       | 3 Second Slip         |   4    |    -10   |
 | 7                 | 2021-03-08 | morphettville R4       | 6 Swing And Boom      |  34    |    -10   |
+| :2nd_place_medal: | 2021-03-08 | morphettville R4       | 3 Second Slip         |   4    |    -10   |
 | 7                 | 2021-03-08 | morphettville R3       | 1 Ecumenical          |   5.6  |    -10   |
 | :2nd_place_medal: | 2021-03-08 | morphettville R2       | 8 La Richesse         |   4.6  |    -10   |
 | 4                 | 2021-03-08 | morphettville R2       | 4 Unlaced             |   2.35 |    -10   |
@@ -3970,8 +3970,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-07 | lingfield R7           | 3 Almost You          |   2    |    -10   |
 | :boom:            | 2021-03-07 | turffontein R8         | 11 Mk's Pride         |   2.5  |     15   |
 | 5                 | 2021-03-07 | turffontein R8         | 6 Pack Leader         |   0    |    -10   |
-| 0                 | 2021-03-07 | turffontein R7         | 6 Dr Doolittle        |   0    |    -10   |
 | :3rd_place_medal: | 2021-03-07 | turffontein R7         | 2 Catch Twentytwo     |   0    |    -10   |
+| 0                 | 2021-03-07 | turffontein R7         | 6 Dr Doolittle        |   0    |    -10   |
 | :boom:            | 2021-03-07 | kelso R3               | 1 My Drogo            |   3.1  |     21   |
 | 0                 | 2021-03-07 | kelso R3               | 7 Lucky One           |   5.5  |    -10   |
 | 0                 | 2021-03-07 | lingfield R4           | 5 Tone The Barone     |   2.5  |    -10   |
@@ -4016,8 +4016,8 @@ categories: None
 | :2nd_place_medal: | 2021-03-04 | kempton R1             | 4 Lucky's Dream       |   4.33 |    -10   |
 | 6                 | 2021-03-03 | launceston R6          | 2 Cabarrus            |   3.5  |    -10   |
 | 6                 | 2021-03-03 | sandown-lakeside R8    | 9 Sign Of Ussuri      |  11.2  |    -10   |
-| 6                 | 2021-03-03 | launceston R3          | 2 Take The Sit        |   2.6  |    -10   |
 | :boom:            | 2021-03-03 | launceston R3          | 4 Coronation Pia      |  12.3  |    113   |
+| 6                 | 2021-03-03 | launceston R3          | 2 Take The Sit        |   2.6  |    -10   |
 | :boom:            | 2021-03-03 | sandown-lakeside R6    | 9 Eagles Crag         |   1.5  |      5   |
 | 7                 | 2021-03-03 | warwick-farm R8        | 3 Snitzify            |   7    |    -10   |
 | :boom:            | 2021-03-03 | murray-bdge R5         | 2 Master Of Zerprise  |   2.6  |     16   |
@@ -4241,16 +4241,16 @@ categories: None
 | 4                 | 2021-02-06 | morphettville R7       | 5 Farooq              |   4.4  |    -10   |
 | 5                 | 2021-02-06 | morphettville R7       | 7 Don'tdreamit'sover  |   5.1  |    -10   |
 | 8                 | 2021-02-06 | eagle-farm R5          | 5 Wolff Boss          |   2.95 |    -10   |
-| 4                 | 2021-02-06 | morphettville R6       | 5 Monteferrante       |   4    |    -10   |
 | :2nd_place_medal: | 2021-02-06 | morphettville R6       | 6 Master Of Zerprise  |   5.1  |    -10   |
+| 4                 | 2021-02-06 | morphettville R6       | 5 Monteferrante       |   4    |    -10   |
 | :boom:            | 2021-02-06 | eagle-farm R4          | 1 Ligulate            |   2    |     10   |
 | :boom:            | 2021-02-06 | morphettville R5       | 3 Ritratto            |   2.9  |     19   |
 | 4                 | 2021-02-06 | caulfield R5           | 4 Miss Divine Em      |  21.5  |    -10   |
 | 8                 | 2021-02-06 | eagle-farm R3          | 5 Gunnobe             |   2.95 |    -10   |
 | :boom:            | 2021-02-06 | newcastle R2           | 3 Bastaki             |   1.3  |      3   |
 | :boom:            | 2021-02-06 | randwick R3            | 6 Written Beauty      |   1.2  |      2   |
-| 4                 | 2021-02-06 | morphettville R3       | 4 Blow Torch          |  21    |    -10   |
 | 6                 | 2021-02-06 | morphettville R3       | 5 Sizzlefly           |   3.8  |    -10   |
+| 4                 | 2021-02-06 | morphettville R3       | 4 Blow Torch          |  21    |    -10   |
 | :3rd_place_medal: | 2021-02-06 | emerald R1             | 3 Manila Miss         |   3.6  |    -10   |
 | :2nd_place_medal: | 2021-02-06 | pukekura-raceway R5    | 1 Quattro Quinta      |   1.9  |    -10   |
 | 0                 | 2021-02-06 | newcastle R1           | 9 Monsaraz            |   7.5  |    -10   |
@@ -4304,8 +4304,8 @@ categories: None
 | 7                 | 2021-01-30 | morphettville R9       | 1 Bill The Bee        |   3.55 |    -10   |
 | 8                 | 2021-01-30 | sunshine-coast R8      | 14 Juventus           |   9    |    -10   |
 | 0                 | 2021-01-30 | newcastle R6           | 11 Geist              |   4.2  |    -10   |
-| 5                 | 2021-01-30 | caulfield R8           | 4 Maximak             |  11    |    -10   |
 | :2nd_place_medal: | 2021-01-30 | caulfield R8           | 7 Need New Friends    |   8.5  |    -10   |
+| 5                 | 2021-01-30 | caulfield R8           | 4 Maximak             |  11    |    -10   |
 | 10                | 2021-01-30 | sunshine-coast R7      | 9 Divulge             |   2.5  |    -10   |
 | 6                 | 2021-01-30 | caulfield R7           | 3 Tarn's Prince       |   5    |    -10   |
 | 4                 | 2021-01-30 | morphettville R6       | 3 Regalo Di Gaetano   |  41    |    -10   |
@@ -4436,8 +4436,8 @@ categories: None
 | :2nd_place_medal: | 2021-01-17 | sunshine-coast R3      | 4 Aleysa's Dream      |   4.45 |    -10   |
 | 0                 | 2021-01-17 | kempton R3             | 7 Stiletto            |   2.9  |    -10   |
 | :boom:            | 2021-01-17 | kempton R1             | 2 Durdle Door         |   6.5  |     55   |
-| :3rd_place_medal: | 2021-01-17 | market-rasen R6        | 4 Grangee             |   2.9  |    -10   |
 | 0                 | 2021-01-17 | market-rasen R6        | 5 Merry Mistress      |   5.5  |    -10   |
+| :3rd_place_medal: | 2021-01-17 | market-rasen R6        | 4 Grangee             |   2.9  |    -10   |
 | :boom:            | 2021-01-17 | market-rasen R5        | 1 On The Blind Side   |   2.1  |     11   |
 | 0                 | 2021-01-17 | turffontein R8         | 4 Cordillera          |   2.5  |    -10   |
 | 0                 | 2021-01-17 | warwick R4             | 7 Midnight River      |   6.5  |    -10   |
@@ -4454,8 +4454,8 @@ categories: None
 | :boom:            | 2021-01-16 | darwin R4              | 7 Autocratic          |   1.9  |      9   |
 | 8                 | 2021-01-16 | flemington R8          | 12 Miss Damita        |   5.5  |    -10   |
 | :2nd_place_medal: | 2021-01-16 | ascot R4               | 5 Giant Leap          |   2.9  |    -10   |
-| 7                 | 2021-01-16 | flemington R7          | 2 Prezado             |   6.5  |    -10   |
 | :2nd_place_medal: | 2021-01-16 | flemington R7          | 8 Sword of Mercy      |   6    |    -10   |
+| 7                 | 2021-01-16 | flemington R7          | 2 Prezado             |   6.5  |    -10   |
 | :boom:            | 2021-01-16 | darwin R2              | 4 Kowloon Kid         |   3.1  |     21   |
 | :3rd_place_medal: | 2021-01-16 | ascot R3               | 5 Phoneme             |   5    |    -10   |
 | :2nd_place_medal: | 2021-01-16 | flemington R6          | 5 Rule The World      |   5.1  |    -10   |
@@ -4472,8 +4472,8 @@ categories: None
 | :3rd_place_medal: | 2021-01-16 | murray-bdge R3         | 5 Daily Spirit        |   5    |    -10   |
 | :boom:            | 2021-01-16 | trentham R7            | 9 Our Hail Mary       |   4.8  |     38   |
 | 4                 | 2021-01-16 | rosehill R2            | 7 The Bopper          |   2.85 |    -10   |
-| :2nd_place_medal: | 2021-01-16 | murray-bdge R2         | 3 Serious Spender     |   3.2  |    -10   |
 | 6                 | 2021-01-16 | murray-bdge R2         | 6 Stan The Caddy      |   3.4  |    -10   |
+| :2nd_place_medal: | 2021-01-16 | murray-bdge R2         | 3 Serious Spender     |   3.2  |    -10   |
 | :2nd_place_medal: | 2021-01-16 | trentham R6            | 1 Brando              |   1.96 |    -10   |
 | :boom:            | 2021-01-16 | murray-bdge R1         | 5 Don'tdreamit'sover  |   2.3  |     13   |
 | :boom:            | 2021-01-16 | trentham R4            | 1 Quattro Quinta      |   2    |     10   |

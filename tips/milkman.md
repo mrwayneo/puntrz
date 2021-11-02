@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-02 15:59:32 +1000  
+date: 2021-11-02 17:16:45 +1000  
 categories: None 
 ---   
 
@@ -21,10 +21,10 @@ categories: None
 | 23:55             | 2021-11-02 | exeter R1        | 3 Ask Me Early        |  3.7  |      -10 |
 | 19:00             | 2021-11-02 | ascot R7         | 9 Patchwork           |  3.5  |      -10 |
 | 17:48             | 2021-11-02 | eagle-farm R7    | 2 King Klaus          |  6.5  |      -10 |
-| 17:11             | 2021-11-02 | muswellbrook R6  | 4 West Germany        |  2.25 |      -10 |
-| 17:08             | 2021-11-02 | eagle-farm R6    | 3 Valiant             | 11    |      -10 |
-| 16:40             | 2021-11-02 | flemington R9    | 14 Maracana           |  4.2  |      -10 |
-| 16:35             | 2021-11-02 | muswellbrook R5  | 2 Mobstar             |  1.75 |      -10 |
+| 0                 | 2021-11-02 | muswellbrook R6  | 4 West Germany        |  0    |      -10 |
+| 0                 | 2021-11-02 | eagle-farm R6    | 3 Valiant             |  0    |      -10 |
+| :3rd_place_medal: | 2021-11-02 | flemington R9    | 14 Maracana           |  4.2  |      -10 |
+| :2nd_place_medal: | 2021-11-02 | muswellbrook R5  | 2 Mobstar             |  1.75 |      -10 |
 | :boom:            | 2021-11-02 | randwick R6      | 10 Satin Ribbons      |  4.6  |       36 |
 | :2nd_place_medal: | 2021-11-02 | randwick R6      | 7 Six Again           |  2.45 |      -10 |
 | :2nd_place_medal: | 2021-11-02 | flemington R7    | 2 Incentivise         |  2.9  |      -10 |

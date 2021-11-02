@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-02 15:59:03 +1000  
+date: 2021-11-02 17:16:20 +1000  
 categories: None 
 ---   
 
@@ -27,19 +27,19 @@ categories: None
 | 17:48             | 2021-11-02 | eagle-farm R7    | 4 Le Palmier         |  2.3  |    -10   |
 | 17:48             | 2021-11-02 | eagle-farm R7    | 2 King Klaus         |  6.5  |    -10   |
 | 17:22             | 2021-11-02 | darwin R4        | 2 Autocratic         |  5    |    -10   |
-| 17:15             | 2021-11-02 | flemington R10   | 4 Prime Candidate    |  8.5  |    -10   |
-| 17:15             | 2021-11-02 | flemington R10   | 6 Pandemic           |  4.8  |    -10   |
-| 17:15             | 2021-11-02 | flemington R10   | 13 Night Raid        | 17    |    -10   |
-| 17:15             | 2021-11-02 | flemington R10   | 8 Rubisaki           | 11    |    -10   |
-| 17:08             | 2021-11-02 | eagle-farm R6    | 4 Ingear             |  1.8  |    -10   |
-| 16:47             | 2021-11-02 | darwin R3        | 4 Overruled          |  2.6  |    -10   |
-| 16:23             | 2021-11-02 | canberra R6      | 3 Propose To Me      |  5    |    -10   |
-| 16:07             | 2021-11-02 | darwin R2        | 3 Syncline           |  2.35 |    -10   |
-| 16:07             | 2021-11-02 | darwin R2        | 4 The Captain        |  2.25 |    -10   |
-| 16:07             | 2021-11-02 | darwin R2        | 5 Dizzy Miss Lizzy   |  4.8  |    -10   |
-| 0                 | 2021-11-02 | eagle-farm R4    | 7 Fetch              |  0    |    -10   |
-| 0                 | 2021-11-02 | eagle-farm R4    | 3 Ralph's Honour     |  0    |    -10   |
-| 0                 | 2021-11-02 | canberra R5      | 5 Port Douglas       |  0    |    -10   |
+| 0                 | 2021-11-02 | flemington R10   | 4 Prime Candidate    |  0    |    -10   |
+| 0                 | 2021-11-02 | flemington R10   | 6 Pandemic           |  0    |    -10   |
+| 0                 | 2021-11-02 | flemington R10   | 13 Night Raid        |  0    |    -10   |
+| 0                 | 2021-11-02 | flemington R10   | 8 Rubisaki           |  0    |    -10   |
+| :boom:            | 2021-11-02 | eagle-farm R6    | 4 Ingear             |  1.8  |      8   |
+| :boom:            | 2021-11-02 | darwin R3        | 4 Overruled          |  2.7  |     17   |
+| :2nd_place_medal: | 2021-11-02 | canberra R6      | 3 Propose To Me      |  5    |    -10   |
+| :3rd_place_medal: | 2021-11-02 | darwin R2        | 3 Syncline           |  2.35 |    -10   |
+| :boom:            | 2021-11-02 | darwin R2        | 4 The Captain        |  3.1  |     21   |
+| 4                 | 2021-11-02 | darwin R2        | 5 Dizzy Miss Lizzy   |  4.8  |    -10   |
+| :2nd_place_medal: | 2021-11-02 | eagle-farm R4    | 7 Fetch              |  2.2  |    -10   |
+| :3rd_place_medal: | 2021-11-02 | eagle-farm R4    | 3 Ralph's Honour     |  4.6  |    -10   |
+| 5                 | 2021-11-02 | canberra R5      | 5 Port Douglas       |  4.2  |    -10   |
 | 4                 | 2021-11-02 | ascot R1         | 7 Rebelzone          |  8    |    -10   |
 | :2nd_place_medal: | 2021-11-02 | gold-coast R2    | 3 Winside            |  3.6  |    -10   |
 | 0                 | 2021-11-02 | te-rapa R7       | 11 Tellall           |  0    |    -10   |
