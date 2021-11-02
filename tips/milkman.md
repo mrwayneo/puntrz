@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-02 13:32:51 +1000  
+date: 2021-11-02 15:14:32 +1000  
 categories: None 
 ---   
 
@@ -27,8 +27,8 @@ categories: None
 | 16:35             | 2021-11-02 | muswellbrook R5  | 2 Mobstar             |  1.75 |      -10 |
 | 15:40             | 2021-11-02 | randwick R6      | 10 Satin Ribbons      |  3.5  |      -10 |
 | 15:40             | 2021-11-02 | randwick R6      | 7 Six Again           |  2.45 |      -10 |
-| 15:00             | 2021-11-02 | flemington R7    | 2 Incentivise         |  2.9  |      -10 |
-| 13:43             | 2021-11-02 | te-rapa R7       | 11 Tellall            |  3.9  |      -10 |
+| 0                 | 2021-11-02 | flemington R7    | 2 Incentivise         |  0    |      -10 |
+| 0                 | 2021-11-02 | te-rapa R7       | 11 Tellall            |  0    |      -10 |
 | 0                 | 2021-11-02 | flemington R5    | 7 Pindaric            |  0    |      -10 |
 | 4                 | 2021-11-01 | cork R4          | 5 Noble Yeats         |  6.5  |      -10 |
 | 0                 | 2021-11-01 | greyville R7     | 5 Proud Master        |  0    |      -10 |

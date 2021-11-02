@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-02 13:32:35 +1000  
+date: 2021-11-02 15:10:45 +1000  
 categories: None 
 ---   
 
@@ -40,9 +40,9 @@ categories: None
 | 15:51             | 2021-11-02 | eagle-farm R4    | 7 Fetch              |  2.2  |    -10   |
 | 15:51             | 2021-11-02 | eagle-farm R4    | 3 Ralph's Honour     |  4.6  |    -10   |
 | 15:24             | 2021-11-02 | canberra R5      | 5 Port Douglas       |  4.2  |    -10   |
-| 14:33             | 2021-11-02 | ascot R1         | 7 Rebelzone          |  8    |    -10   |
-| 14:12             | 2021-11-02 | gold-coast R2    | 3 Winside            |  3.6  |    -10   |
-| 13:43             | 2021-11-02 | te-rapa R7       | 11 Tellall           |  3.9  |    -10   |
+| 0                 | 2021-11-02 | ascot R1         | 7 Rebelzone          |  0    |    -10   |
+| 0                 | 2021-11-02 | gold-coast R2    | 3 Winside            |  0    |    -10   |
+| 0                 | 2021-11-02 | te-rapa R7       | 11 Tellall           |  0    |    -10   |
 | 0                 | 2021-11-02 | morphettville R3 | 3 Tatalina           |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-02 | flemington R5    | 4 Blondeau           |  3.9  |    -10   |
 | 0                 | 2021-11-02 | kempton R6       | 2 Outbox             |  0    |    -10   |
