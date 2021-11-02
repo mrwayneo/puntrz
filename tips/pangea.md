@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-02 10:02:32 +1000  
+date: 2021-11-02 13:32:35 +1000  
 categories: None 
 ---   
 
@@ -43,8 +43,8 @@ categories: None
 | 14:33             | 2021-11-02 | ascot R1         | 7 Rebelzone          |  8    |    -10   |
 | 14:12             | 2021-11-02 | gold-coast R2    | 3 Winside            |  3.6  |    -10   |
 | 13:43             | 2021-11-02 | te-rapa R7       | 11 Tellall           |  3.9  |    -10   |
-| 13:32             | 2021-11-02 | morphettville R3 | 3 Tatalina           |  5    |    -10   |
-| 13:20             | 2021-11-02 | flemington R5    | 4 Blondeau           |  3.9  |    -10   |
+| 0                 | 2021-11-02 | morphettville R3 | 3 Tatalina           |  0    |    -10   |
+| :3rd_place_medal: | 2021-11-02 | flemington R5    | 4 Blondeau           |  3.9  |    -10   |
 | 0                 | 2021-11-02 | kempton R6       | 2 Outbox             |  0    |    -10   |
 | 4                 | 2021-11-01 | cork R4          | 5 Noble Yeats        |  6.5  |    -10   |
 | 0                 | 2021-11-01 | huntingdon R3    | 1 Tequila Blaze      |  0    |    -10   |

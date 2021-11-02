@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-02 10:04:34 +1000  
+date: 2021-11-02 13:32:51 +1000  
 categories: None 
 ---   
 
@@ -29,7 +29,7 @@ categories: None
 | 15:40             | 2021-11-02 | randwick R6      | 7 Six Again           |  2.45 |      -10 |
 | 15:00             | 2021-11-02 | flemington R7    | 2 Incentivise         |  2.9  |      -10 |
 | 13:43             | 2021-11-02 | te-rapa R7       | 11 Tellall            |  3.9  |      -10 |
-| 13:20             | 2021-11-02 | flemington R5    | 7 Pindaric            |  7    |      -10 |
+| 0                 | 2021-11-02 | flemington R5    | 7 Pindaric            |  0    |      -10 |
 | 4                 | 2021-11-01 | cork R4          | 5 Noble Yeats         |  6.5  |      -10 |
 | 0                 | 2021-11-01 | greyville R7     | 5 Proud Master        |  0    |      -10 |
 | :3rd_place_medal: | 2021-11-01 | cork R3          | 6 Mr Josiey Wales     |  5    |      -10 |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-11-02 10:15:56 +1000  
+date: 2021-11-02 13:34:42 +1000  
 categories: None 
 ---   
 
@@ -19,8 +19,8 @@ categories: None
 | 16:00             | 2021-11-02 | flemington R8     | 11 Promise Of Success |  3.1  |    -10   |
 | 15:00             | 2021-11-02 | flemington R7     | 4 Verry Elleegant     | 16    |    -10   |
 | 13:55             | 2021-11-02 | flemington R6     | 1 Profiteer           |  2.35 |    -10   |
-| 13:20             | 2021-11-02 | flemington R5     | 4 Blondeau            |  3.9  |    -10   |
-| 10:45             | 2021-11-02 | flemington R1     | 7 Le Gagneur          | 19    |    -10   |
+| :3rd_place_medal: | 2021-11-02 | flemington R5     | 4 Blondeau            |  3.9  |    -10   |
+| :3rd_place_medal: | 2021-11-02 | flemington R1     | 7 Le Gagneur          | 19    |    -10   |
 | :boom:            | 2021-10-30 | flemington R9     | 5 Minhaaj             |  3.7  |     27   |
 | :3rd_place_medal: | 2021-10-30 | flemington R8     | 2 Cascadian           |  9.5  |    -10   |
 | :boom:            | 2021-10-30 | flemington R7     | 5 Home Affairs        |  5.7  |     47   |
