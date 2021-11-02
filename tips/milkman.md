@@ -1,24 +1,28 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-03 01:03:43 +1000  
+date: 2021-11-03 09:00:30 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     35 |      1 |     -304 | 0.03 | -0.87 |
-| Last 28 Days   |     35 |      1 |     -304 | 0.03 | -0.87 |
-| Last 6 Months  |     35 |      1 |     -304 | 0.03 | -0.87 |
-| Since Jan 2020 |     35 |      1 |     -304 | 0.03 | -0.87 |
+| Last 7 Days    |     35 |      3 |     -209 | 0.09 |  -0.6 |
+| Last 28 Days   |     35 |      3 |     -209 | 0.09 |  -0.6 |
+| Last 6 Months  |     35 |      3 |     -209 | 0.09 |  -0.6 |
+| Since Jan 2020 |     35 |      3 |     -209 | 0.09 |  -0.6 |
 
 | finish            | date       | event            | runner                |   win |   return |
 |:------------------|:-----------|:-----------------|:----------------------|------:|---------:|
-| 0                 | 2021-11-03 | exeter R3        | 1 Greaneteen          |  0    |      -10 |
+| 02:00             | 2021-11-04 | chepstow R6      | 2 Brave Kingdom       |  2    |      -10 |
+| 01:30             | 2021-11-04 | chepstow R5      | 7 Tokay Dokey         |  8    |      -10 |
+| 23:54             | 2021-11-03 | kenilworth R4    | 1 Kitty Cat Chat      |  0    |      -10 |
+| 23:30             | 2021-11-03 | chepstow R1      | 7 Good Risk At All    |  1.5  |      -10 |
+| 4                 | 2021-11-03 | exeter R3        | 1 Greaneteen          |  5    |      -10 |
 | 0                 | 2021-11-03 | fairyhouse R4    | 8 Largy Debut         |  0    |      -10 |
-| 0                 | 2021-11-03 | exeter R2        | 2 Brief Times         |  0    |      -10 |
-| 0                 | 2021-11-02 | exeter R1        | 3 Ask Me Early        |  0    |      -10 |
+| :boom:            | 2021-11-03 | exeter R2        | 2 Brief Times         |  7    |       60 |
+| :boom:            | 2021-11-02 | exeter R1        | 3 Ask Me Early        |  2.5  |       15 |
 | :3rd_place_medal: | 2021-11-02 | ascot R7         | 9 Patchwork           |  3.5  |      -10 |
 | 4                 | 2021-11-02 | eagle-farm R7    | 2 King Klaus          |  6.5  |      -10 |
 | 9                 | 2021-11-02 | muswellbrook R6  | 4 West Germany        |  2.25 |      -10 |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-11-03 01:03:42 +1000  
+date: 2021-11-03 09:00:27 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 20:20             | 2021-11-03 | launceston R6          | 2 Balearic            |  8.5  |    -10   |
 | 6                 | 2021-11-02 | eagle-farm R7          | 4 Le Palmier          |  2.3  |    -10   |
 | :boom:            | 2021-11-02 | eagle-farm R6          | 4 Ingear              |  1.8  |      8   |
 | :3rd_place_medal: | 2021-11-02 | flemington R5          | 4 Blondeau            |  3.9  |    -10   |
@@ -358,8 +359,8 @@ categories: None
 | 10                | 2021-04-24 | morphettville-parks R9 | 2 Azaly               | 17    |    -10   |
 | :2nd_place_medal: | 2021-04-24 | darwin R4              | 1 Patria              |  2.8  |    -10   |
 | 5                 | 2021-04-24 | darwin R4              | 4 Trebla              | 14    |    -10   |
-| :3rd_place_medal: | 2021-04-24 | darwin R2              | 3 Kaptan Apollo       |  6.5  |    -10   |
 | 4                 | 2021-04-24 | darwin R2              | 2 Paseeto             |  6    |    -10   |
+| :3rd_place_medal: | 2021-04-24 | darwin R2              | 3 Kaptan Apollo       |  6.5  |    -10   |
 | :3rd_place_medal: | 2021-04-24 | darwin R1              | 1 God's Penny         |  2.55 |    -10   |
 | 7                 | 2021-04-24 | randwick R7            | 6 Fifty Stars         | 67    |    -10   |
 | 4                 | 2021-04-24 | doomben R7             | 9 Maozi               |  8.6  |    -10   |
@@ -419,8 +420,8 @@ categories: None
 | 6                 | 2021-04-03 | alice-springs R5       | 1 Live And Free       |  6    |    -10   |
 | :3rd_place_medal: | 2021-04-03 | ascot R4               | 3 Amelia's Contraire  |  3    |    -10   |
 | 4                 | 2021-04-03 | alice-springs R4       | 4 Hope Ya Don't Mind  |  2.4  |    -10   |
-| 0                 | 2021-04-03 | awapuni R3             | 1 Navalha             |  9.5  |    -10   |
 | :2nd_place_medal: | 2021-04-03 | awapuni R3             | 2 Hold The Press      |  2.9  |    -10   |
+| 0                 | 2021-04-03 | awapuni R3             | 1 Navalha             |  9.5  |    -10   |
 | 0                 | 2021-04-03 | awapuni R2             | 3 Leaderboard         |  5.5  |    -10   |
 | 5                 | 2021-04-01 | toowoomba R7           | 5 Spirit One          |  1.82 |    -10   |
 | :boom:            | 2021-03-31 | doomben R6             | 6 Skins               |  1.6  |      6   |

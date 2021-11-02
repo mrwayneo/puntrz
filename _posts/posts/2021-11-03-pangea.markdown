@@ -1,22 +1,24 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-03 01:03:38 +1000  
+date: 2021-11-03 09:00:20 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     80 |     11 |   -430.5 | 0.14 | -0.54 |
-| Last 28 Days   |     80 |     11 |   -430.5 | 0.14 | -0.54 |
-| Last 6 Months  |     80 |     11 |   -430.5 | 0.14 | -0.54 |
-| Since Jan 2020 |     80 |     11 |   -430.5 | 0.14 | -0.54 |
+| Last 7 Days    |     80 |     12 |   -405.5 | 0.15 | -0.51 |
+| Last 28 Days   |     80 |     12 |   -405.5 | 0.15 | -0.51 |
+| Last 6 Months  |     80 |     12 |   -405.5 | 0.15 | -0.51 |
+| Since Jan 2020 |     80 |     12 |   -405.5 | 0.15 | -0.51 |
 
 | finish            | date       | event            | runner               |   win |   return |
 |:------------------|:-----------|:-----------------|:---------------------|------:|---------:|
+| 20:20             | 2021-11-03 | launceston R6    | 2 Balearic           |  8.5  |    -10   |
+| 13:50             | 2021-11-03 | port-lincoln R1  | 1 Spanish Heirloom   |  1.7  |    -10   |
 | 0                 | 2021-11-03 | vaal R5          | 1 Western Fort       |  0    |    -10   |
-| 0                 | 2021-11-02 | exeter R1        | 3 Ask Me Early       |  0    |    -10   |
+| :boom:            | 2021-11-02 | exeter R1        | 3 Ask Me Early       |  2.5  |     15   |
 | :3rd_place_medal: | 2021-11-02 | darwin R7        | 4 Siakam             |  3.2  |    -10   |
 | 8                 | 2021-11-02 | darwin R7        | 5 Taciturn           |  4.8  |    -10   |
 | :3rd_place_medal: | 2021-11-02 | darwin R6        | 1 Mr Boomjangles     |  6    |    -10   |
@@ -27,18 +29,18 @@ categories: None
 | 6                 | 2021-11-02 | eagle-farm R7    | 4 Le Palmier         |  2.3  |    -10   |
 | 4                 | 2021-11-02 | eagle-farm R7    | 2 King Klaus         |  6.5  |    -10   |
 | :3rd_place_medal: | 2021-11-02 | darwin R4        | 2 Autocratic         |  5    |    -10   |
-| :3rd_place_medal: | 2021-11-02 | flemington R10   | 4 Prime Candidate    |  8.5  |    -10   |
 | 10                | 2021-11-02 | flemington R10   | 6 Pandemic           |  4.8  |    -10   |
-| 13                | 2021-11-02 | flemington R10   | 13 Night Raid        | 17    |    -10   |
 | 7                 | 2021-11-02 | flemington R10   | 8 Rubisaki           | 11    |    -10   |
+| 13                | 2021-11-02 | flemington R10   | 13 Night Raid        | 17    |    -10   |
+| :3rd_place_medal: | 2021-11-02 | flemington R10   | 4 Prime Candidate    |  8.5  |    -10   |
 | :boom:            | 2021-11-02 | eagle-farm R6    | 4 Ingear             |  1.8  |      8   |
 | :boom:            | 2021-11-02 | darwin R3        | 4 Overruled          |  2.7  |     17   |
 | :2nd_place_medal: | 2021-11-02 | canberra R6      | 3 Propose To Me      |  5    |    -10   |
-| :3rd_place_medal: | 2021-11-02 | darwin R2        | 3 Syncline           |  2.35 |    -10   |
-| :boom:            | 2021-11-02 | darwin R2        | 4 The Captain        |  3.1  |     21   |
 | 4                 | 2021-11-02 | darwin R2        | 5 Dizzy Miss Lizzy   |  4.8  |    -10   |
-| :2nd_place_medal: | 2021-11-02 | eagle-farm R4    | 7 Fetch              |  2.2  |    -10   |
+| :boom:            | 2021-11-02 | darwin R2        | 4 The Captain        |  3.1  |     21   |
+| :3rd_place_medal: | 2021-11-02 | darwin R2        | 3 Syncline           |  2.35 |    -10   |
 | :3rd_place_medal: | 2021-11-02 | eagle-farm R4    | 3 Ralph's Honour     |  4.6  |    -10   |
+| :2nd_place_medal: | 2021-11-02 | eagle-farm R4    | 7 Fetch              |  2.2  |    -10   |
 | 5                 | 2021-11-02 | canberra R5      | 5 Port Douglas       |  4.2  |    -10   |
 | 4                 | 2021-11-02 | ascot R1         | 7 Rebelzone          |  8    |    -10   |
 | :2nd_place_medal: | 2021-11-02 | gold-coast R2    | 3 Winside            |  3.6  |    -10   |

@@ -1,25 +1,30 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-11-03 01:03:50 +1000  
+date: 2021-11-03 09:00:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     23 |      0 |   -230   | 0    | -1    |
-| Last 28 Days   |    108 |     12 |   -175   | 0.11 | -0.16 |
-| Last 6 Months  |    704 |    101 |  -1220.6 | 0.14 | -0.17 |
-| Since Jan 2020 |   1041 |    148 |  -1918.1 | 0.14 | -0.18 |
+| Last 7 Days    |     23 |      1 |    -40   | 0.04 | -0.17 |
+| Last 28 Days   |    108 |     13 |     15   | 0.12 |  0.01 |
+| Last 6 Months  |    704 |    102 |  -1030.6 | 0.14 | -0.15 |
+| Since Jan 2020 |   1041 |    149 |  -1728.1 | 0.14 | -0.17 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:05             | 2021-11-03 | lingfield R8                  | 2 Ray's The One       |   9.5  |    -10   |
-| 03:05             | 2021-11-03 | lingfield R8                  | 1 Psyche              |   6.5  |    -10   |
-| 02:45             | 2021-11-03 | fairyhouse R8                 | 9 Saga Aravis         |   4.5  |    -10   |
-| 02:30             | 2021-11-03 | newcastle R2                  | 1 Great Ridley        |   6.5  |    -10   |
-| 0                 | 2021-11-03 | lingfield R2                  | 6 Kingsofthemidlands  |   0    |    -10   |
+| 02:15             | 2021-11-04 | kempton R2                    | 8 Kirilenko           |   3.4  |    -10   |
+| 01:45             | 2021-11-04 | kempton R1                    | 6 Adatorio            |   7    |    -10   |
+| 00:40             | 2021-11-04 | nottingham R3                 | 4 Glam De Vega        |   5    |    -10   |
+| 00:10             | 2021-11-04 | nottingham R2                 | 9 Rockfire            |   6.5  |    -10   |
+| 19:45             | 2021-11-03 | launceston R5                 | 2 Chosen Eagle        |   5.5  |    -10   |
+| :boom:            | 2021-11-03 | lingfield R8                  | 2 Ray's The One       |  19    |    180   |
+| :2nd_place_medal: | 2021-11-03 | lingfield R8                  | 1 Psyche              |   6.5  |    -10   |
+| :2nd_place_medal: | 2021-11-03 | fairyhouse R8                 | 9 Saga Aravis         |   4.5  |    -10   |
+| 4                 | 2021-11-03 | newcastle R2                  | 1 Great Ridley        |   6.5  |    -10   |
+| :3rd_place_medal: | 2021-11-03 | lingfield R2                  | 6 Kingsofthemidlands  |   3.9  |    -10   |
 | 0                 | 2021-11-02 | lingfield R1                  | 2 Desert Pioneer      |   0    |    -10   |
 | 4                 | 2021-11-02 | eagle-farm R7                 | 2 King Klaus          |   6.5  |    -10   |
 | 10                | 2021-11-02 | wingatui R4                   | 1 Leaderboard         |   4.8  |    -10   |
@@ -161,8 +166,8 @@ categories: None
 | 4                 | 2021-09-24 | listowel R7                   | 15 Flora              |   2.25 |    -10   |
 | :3rd_place_medal: | 2021-09-24 | perth R4                      | 2 Findthetime         |   7    |    -10   |
 | 4                 | 2021-09-23 | hawkesbury R2                 | 2 A Magic Zariz       |   7    |    -10   |
-| :3rd_place_medal: | 2021-09-23 | kempton R7                    | 2 Theyazin            |   3.3  |    -10   |
 | 0                 | 2021-09-23 | kempton R7                    | 5 Riverfront          |  10    |    -10   |
+| :3rd_place_medal: | 2021-09-23 | kempton R7                    | 2 Theyazin            |   3.3  |    -10   |
 | 0                 | 2021-09-23 | kempton R5                    | 2 Adaay Atatime       |  10    |    -10   |
 | 0                 | 2021-09-23 | perth R8                      | 4 She's A Rocca       |   9    |    -10   |
 | 4                 | 2021-09-22 | belmont R3                    | 6 Kandaka             |   9.5  |    -10   |
@@ -387,8 +392,8 @@ categories: None
 | :2nd_place_medal: | 2021-07-28 | worcester R3                  | 9 Percy Pi            |   9    |    -10   |
 | 0                 | 2021-07-28 | galway R2                     | 9 Livia Celeste       |   5    |    -10   |
 | 0                 | 2021-07-27 | beverley R1                   | 11 Alpine Lady        |   3.8  |    -10   |
-| 0                 | 2021-07-27 | wolverhampton R5              | 8 Bookmark            |   9.5  |    -10   |
 | 0                 | 2021-07-27 | wolverhampton R5              | 4 Kornflake           |   9    |    -10   |
+| 0                 | 2021-07-27 | wolverhampton R5              | 8 Bookmark            |   9.5  |    -10   |
 | 0                 | 2021-07-27 | galway R7                     | 19 Dani Barcelona     |   8    |    -10   |
 | 0                 | 2021-07-26 | newton-abbot R2               | 7 Masterdream         |   5    |    -10   |
 | 4                 | 2021-07-25 | sapphire-coast R5             | 3 Halliday Road       |   7    |    -10   |
@@ -658,8 +663,8 @@ categories: None
 | :boom:            | 2021-05-23 | stratford R3                  | 8 Hooper              |   2.2  |     12   |
 | :3rd_place_medal: | 2021-05-22 | worcester R7                  | 9 Krujers Girl        |   3.4  |    -10   |
 | 0                 | 2021-05-22 | worcester R7                  | 13 Miss Harriett      |   7.5  |    -10   |
-| :3rd_place_medal: | 2021-05-22 | worcester R6                  | 7 Coastal Drift       |   8    |    -10   |
 | 0                 | 2021-05-22 | worcester R6                  | 16 Alfoski            |   9.5  |    -10   |
+| :3rd_place_medal: | 2021-05-22 | worcester R6                  | 7 Coastal Drift       |   8    |    -10   |
 | :2nd_place_medal: | 2021-05-22 | wexford R6                    | 11 Antigua Son        |   3.75 |    -10   |
 | :3rd_place_medal: | 2021-05-22 | wexford R2                    | 5 Merry Dreamer       |   8    |    -10   |
 | 0                 | 2021-05-22 | bath-arab R5                  | 1 Fight For It        |   4.5  |    -10   |
@@ -756,8 +761,8 @@ categories: None
 | 0                 | 2021-04-23 | kilbeggan R8                  | 11 Barncroft          |   7    |    -10   |
 | 0                 | 2021-04-23 | warwick R7                    | 11 Hiway One O Three  |   9    |    -10   |
 | 0                 | 2021-04-23 | kilbeggan R3                  | 13 Lost Oscar         |   4.5  |    -10   |
-| 0                 | 2021-04-22 | perth R2                      | 6 Ensel Du Perche     |   5.5  |    -10   |
 | 0                 | 2021-04-22 | perth R2                      | 15 Wake The Giant     |   5.5  |    -10   |
+| 0                 | 2021-04-22 | perth R2                      | 6 Ensel Du Perche     |   5.5  |    -10   |
 | :3rd_place_medal: | 2021-04-22 | grafton R3                    | 8 Frida's Time        |   7    |    -10   |
 | 4                 | 2021-04-22 | grafton R3                    | 10 Diana Rocks        |   3.45 |    -10   |
 | 0                 | 2021-04-22 | woodville R1                  | 5 I'm Chuck           |   5.6  |    -10   |
@@ -821,8 +826,8 @@ categories: None
 | 0                 | 2021-04-04 | wolverhampton R1              | 10 Jenny Ren          |   5.5  |    -10   |
 | 0                 | 2021-04-04 | newton-abbot R5               | 3 Who Shot Jr         |   7.5  |    -10   |
 | 0                 | 2021-04-04 | newton-abbot R5               | 10 Auld Sod           |   4    |    -10   |
-| 0                 | 2021-04-04 | carlisle R7                   | 3 Artic Quest         |   3.8  |    -10   |
 | 0                 | 2021-04-04 | carlisle R7                   | 9 Just Got To Get On  |   6.5  |    -10   |
+| 0                 | 2021-04-04 | carlisle R7                   | 3 Artic Quest         |   3.8  |    -10   |
 | 6                 | 2021-04-03 | port-macquarie R1             | 3 Olympic Time        |   9    |    -10   |
 | :2nd_place_medal: | 2021-04-03 | kembla-grange R2              | 6 Akahata             |   7.5  |    -10   |
 | 7                 | 2021-04-02 | launceston R7                 | 4 Queen's Needs       |   9    |    -10   |
