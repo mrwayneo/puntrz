@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-11-02 17:16:37 +1000  
+date: 2021-11-02 20:01:17 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 17:48             | 2021-11-02 | eagle-farm R7          | 4 Le Palmier          |  2.3  |    -10   |
+| 6                 | 2021-11-02 | eagle-farm R7          | 4 Le Palmier          |  2.3  |    -10   |
 | :boom:            | 2021-11-02 | eagle-farm R6          | 4 Ingear              |  1.8  |      8   |
 | :3rd_place_medal: | 2021-11-02 | flemington R5          | 4 Blondeau            |  3.9  |    -10   |
 | 0                 | 2021-10-30 | turffontein R5         | 2 Malmoos             |  0    |    -10   |
@@ -32,8 +32,8 @@ categories: None
 | :2nd_place_medal: | 2021-10-20 | geelong R7             | 7 Dr Drill            | 19    |    -10   |
 | :boom:            | 2021-10-16 | ascot R9               | 12 Real Charisma      |  2    |     10   |
 | :3rd_place_medal: | 2021-10-16 | eagle-farm R4          | 9 Salateen            |  2.2  |    -10   |
-| :boom:            | 2021-10-15 | ipswich R3             | 8 Sir Rocket          |  1.75 |      7.5 |
 | :2nd_place_medal: | 2021-10-15 | ipswich R3             | 10 Lyrical Girl       |  2.15 |    -10   |
+| :boom:            | 2021-10-15 | ipswich R3             | 8 Sir Rocket          |  1.75 |      7.5 |
 | :boom:            | 2021-10-15 | carlisle R7            | 3 Armattiekan         |  2.6  |     16   |
 | :boom:            | 2021-10-13 | launceston R7          | 7 Vivilici            |  4.6  |     36   |
 | :3rd_place_medal: | 2021-10-13 | launceston R7          | 5 Red Letter Lady     |  3.3  |    -10   |
@@ -377,8 +377,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-18 | hobart R4              | 4 Judge Burns         |  8.5  |    -10   |
 | 7                 | 2021-04-17 | ascot R9               | 3 Amelia's Contraire  |  6    |    -10   |
 | :2nd_place_medal: | 2021-04-17 | randwick R10           | 3 Entriviere          |  5    |    -10   |
-| 8                 | 2021-04-17 | caulfield R8           | 2 Yulong January      | 21    |    -10   |
 | 5                 | 2021-04-17 | caulfield R8           | 3 How Womantic        |  4.05 |    -10   |
+| 8                 | 2021-04-17 | caulfield R8           | 2 Yulong January      | 21    |    -10   |
 | :2nd_place_medal: | 2021-04-17 | randwick R6            | 9 Isotope             |  3.7  |    -10   |
 | :boom:            | 2021-04-17 | randwick R6            | 1 Wild Ruler          |  5.7  |     47   |
 | :3rd_place_medal: | 2021-04-17 | alice-springs R2       | 4 The Captain         |  1.55 |    -10   |

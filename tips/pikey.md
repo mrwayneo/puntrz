@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-02 17:18:35 +1000  
+date: 2021-11-02 20:03:21 +1000  
 categories: None 
 ---   
 
@@ -16,9 +16,9 @@ categories: None
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
 | 20:45             | 2021-11-02 | ascot R10             | 4 Airlie Queen        |  2.9  |    -10   |
-| 19:00             | 2021-11-02 | ascot R7              | 7 Mrs America         |  2.3  |    -10   |
-| 18:20             | 2021-11-02 | ascot R6              | 11 Arcadia Grace      |  1.7  |    -10   |
-| 17:44             | 2021-11-02 | ascot R5              | 5 Agent Kensington    |  7    |    -10   |
+| :boom:            | 2021-11-02 | ascot R7              | 7 Mrs America         |  2.3  |     13   |
+| 0                 | 2021-11-02 | ascot R6              | 11 Arcadia Grace      |  0    |    -10   |
+| 9                 | 2021-11-02 | ascot R5              | 5 Agent Kensington    |  7    |    -10   |
 | 4                 | 2021-11-02 | ascot R1              | 7 Rebelzone           |  8    |    -10   |
 | :2nd_place_medal: | 2021-10-30 | ascot R11             | 4 Roman Flirt         |  3.5  |    -10   |
 | :boom:            | 2021-10-30 | ascot R10             | 9 Western Empire      |  3    |     20   |

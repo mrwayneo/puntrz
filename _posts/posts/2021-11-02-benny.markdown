@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-11-02 17:15:47 +1000  
+date: 2021-11-02 20:00:16 +1000  
 categories: None 
 ---   
 
@@ -15,12 +15,12 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
-| 19:06             | 2021-11-02 | darwin R7               | 5 Taciturn            |  4.8  |    -10   |
-| 18:33             | 2021-11-02 | darwin R6               | 3 El Sicario          |  3.9  |    -10   |
-| 17:22             | 2021-11-02 | darwin R4               | 2 Autocratic          |  5    |    -10   |
+| 8                 | 2021-11-02 | darwin R7               | 5 Taciturn            |  4.8  |    -10   |
+| :2nd_place_medal: | 2021-11-02 | darwin R6               | 3 El Sicario          |  3.9  |    -10   |
+| :3rd_place_medal: | 2021-11-02 | darwin R4               | 2 Autocratic          |  5    |    -10   |
 | :2nd_place_medal: | 2021-11-02 | canberra R6             | 3 Propose To Me       |  5    |    -10   |
 | :boom:            | 2021-11-02 | darwin R2               | 4 The Captain         |  3.1  |     21   |
-| 0                 | 2021-11-02 | te-rapa R7              | 11 Tellall            |  0    |    -10   |
+| 6                 | 2021-11-02 | te-rapa R7              | 11 Tellall            |  3.9  |    -10   |
 | 6                 | 2021-11-02 | morphettville R3        | 3 Tatalina            |  5    |    -10   |
 | 0                 | 2021-10-30 | turffontein R5          | 2 Malmoos             |  0    |    -10   |
 | :2nd_place_medal: | 2021-10-30 | toowoomba R6            | 1 Perfect Page        |  3    |    -10   |
@@ -99,8 +99,8 @@ categories: None
 | 7                 | 2021-09-25 | toowoomba R1            | 3 Better Ethics       | 16    |    -10   |
 | :2nd_place_medal: | 2021-09-24 | moonee-valley R7        | 3 The Inferno         |  6    |    -10   |
 | :3rd_place_medal: | 2021-09-22 | goodwood R2             | 3 Kettle Hill         |  3    |    -10   |
-| 4                 | 2021-09-22 | gosford R5              | 5 Mightybeel          |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-09-22 | gosford R5              | 1 Jazzland            |  9    |    -10   |
+| 4                 | 2021-09-22 | gosford R5              | 5 Mightybeel          |  6.5  |    -10   |
 | :3rd_place_medal: | 2021-09-22 | gosford R4              | 7 Fastconi            |  6    |    -10   |
 | 0                 | 2021-09-21 | beaudesert R7           | 5 Brazen Dynamo       |  0    |    -10   |
 | :2nd_place_medal: | 2021-09-19 | devonport-synthetic R8  | 1 Fragment            | 12    |    -10   |
@@ -213,8 +213,8 @@ categories: None
 | 4                 | 2021-08-05 | ipswich R5              | 3 Vivid Fortress      |  2.4  |    -10   |
 | 6                 | 2021-08-05 | ipswich R1              | 3 Unconditional       | 11    |    -10   |
 | :2nd_place_medal: | 2021-08-04 | belmont R6              | 3 Conquered Zone      |  2.35 |    -10   |
-| 5                 | 2021-08-04 | eagle-farm R6           | 3 Short Sara          |  2.8  |    -10   |
 | :2nd_place_medal: | 2021-08-04 | eagle-farm R6           | 6 Blackboots          |  4.4  |    -10   |
+| 5                 | 2021-08-04 | eagle-farm R6           | 3 Short Sara          |  2.8  |    -10   |
 | :boom:            | 2021-08-04 | eagle-farm R5           | 4 Spokesman           |  3.1  |     21   |
 | :boom:            | 2021-08-04 | eagle-farm R3           | 1 Avowal              |  3.2  |     22   |
 | 6                 | 2021-08-02 | darwin R6               | 1 Taciturn            |  5.5  |    -10   |

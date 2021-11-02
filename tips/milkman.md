@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-02 17:16:45 +1000  
+date: 2021-11-02 20:01:21 +1000  
 categories: None 
 ---   
 
@@ -19,16 +19,16 @@ categories: None
 | 00:45             | 2021-11-03 | fairyhouse R4    | 8 Largy Debut         |  5    |      -10 |
 | 00:25             | 2021-11-03 | exeter R2        | 2 Brief Times         |  4.5  |      -10 |
 | 23:55             | 2021-11-02 | exeter R1        | 3 Ask Me Early        |  3.7  |      -10 |
-| 19:00             | 2021-11-02 | ascot R7         | 9 Patchwork           |  3.5  |      -10 |
-| 17:48             | 2021-11-02 | eagle-farm R7    | 2 King Klaus          |  6.5  |      -10 |
-| 0                 | 2021-11-02 | muswellbrook R6  | 4 West Germany        |  0    |      -10 |
-| 0                 | 2021-11-02 | eagle-farm R6    | 3 Valiant             |  0    |      -10 |
+| :3rd_place_medal: | 2021-11-02 | ascot R7         | 9 Patchwork           |  3.5  |      -10 |
+| 4                 | 2021-11-02 | eagle-farm R7    | 2 King Klaus          |  6.5  |      -10 |
+| 9                 | 2021-11-02 | muswellbrook R6  | 4 West Germany        |  2.25 |      -10 |
+| 5                 | 2021-11-02 | eagle-farm R6    | 3 Valiant             | 11    |      -10 |
 | :3rd_place_medal: | 2021-11-02 | flemington R9    | 14 Maracana           |  4.2  |      -10 |
 | :2nd_place_medal: | 2021-11-02 | muswellbrook R5  | 2 Mobstar             |  1.75 |      -10 |
 | :boom:            | 2021-11-02 | randwick R6      | 10 Satin Ribbons      |  4.6  |       36 |
 | :2nd_place_medal: | 2021-11-02 | randwick R6      | 7 Six Again           |  2.45 |      -10 |
 | :2nd_place_medal: | 2021-11-02 | flemington R7    | 2 Incentivise         |  2.9  |      -10 |
-| 0                 | 2021-11-02 | te-rapa R7       | 11 Tellall            |  0    |      -10 |
+| 6                 | 2021-11-02 | te-rapa R7       | 11 Tellall            |  3.9  |      -10 |
 | 6                 | 2021-11-02 | flemington R5    | 7 Pindaric            |  7    |      -10 |
 | 4                 | 2021-11-01 | cork R4          | 5 Noble Yeats         |  6.5  |      -10 |
 | 0                 | 2021-11-01 | greyville R7     | 5 Proud Master        |  0    |      -10 |
