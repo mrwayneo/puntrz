@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-03 00:33:45 +1000  
+date: 2021-11-03 01:05:08 +1000  
 ---   
 
 
@@ -96,52 +96,52 @@ date: 2021-11-03 00:33:45 +1000
 |  44 | :soon:                   | 2021-11-03 01:20:00 | vaal           |      6 |        5 | Phoenix            |   0    | prometheus           |
 |  45 | :soon:                   | 2021-11-03 01:20:00 | vaal           |      6 |        2 | Ululate            |   0    | prometheus           |
 |  46 | :soon:                   | 2021-11-03 01:10:00 | redcar         |      5 |        5 | Simply True        |  51    | roughnut             |
-|  47 | :soon:                   | 2021-11-03 00:55:00 | exeter         |      3 |        2 | Hitman             |   2    | overthrow            |
-|  48 | :soon:                   | 2021-11-03 00:55:00 | exeter         |      3 |        5 | King D'Argent      |  12    | overthrow            |
-|  49 | :soon:                   | 2021-11-03 00:55:00 | exeter         |      3 |        1 | Greaneteen         |   5    | milkman              |
-|  50 | :soon:                   | 2021-11-03 00:50:00 | vaal           |      5 |        2 | Oyster King        |   0    | prometheus           |
+|  47 | :hourglass_flowing_sand: | 2021-11-03 00:55:00 | exeter         |      3 |        2 | Hitman             |   2    | overthrow            |
+|  48 | :hourglass_flowing_sand: | 2021-11-03 00:55:00 | exeter         |      3 |        5 | King D'Argent      |  12    | overthrow            |
+|  49 | :hourglass_flowing_sand: | 2021-11-03 00:55:00 | exeter         |      3 |        1 | Greaneteen         |   5    | milkman              |
+|  50 | :hourglass_flowing_sand: | 2021-11-03 00:50:00 | vaal           |      5 |        2 | Oyster King        |   0    | prometheus           |
 |  51 | :soon:                   | 2021-11-03 00:50:00 | vaal           |      5 |        1 | Western Fort       |   0    | pangea,prometheus    |
-|  52 | :soon:                   | 2021-11-03 00:50:00 | vaal           |      5 |        6 | Juan Carlos        |   0    | prometheus           |
-|  53 | :soon:                   | 2021-11-03 00:50:00 | vaal           |      5 |        7 | Earl               |   0    | prometheus           |
-|  54 | :soon:                   | 2021-11-03 00:50:00 | vaal           |      5 |        5 | Laird Of Breedon   |   0    | prometheus           |
-|  55 | :soon:                   | 2021-11-03 00:50:00 | vaal           |      5 |        4 | Twin Turbo         |   0    | prometheus           |
-|  56 | :soon:                   | 2021-11-03 00:50:00 | vaal           |      5 |        8 | Fsquadron          |   0    | prometheus           |
-|  57 | :soon:                   | 2021-11-03 00:45:00 | fairyhouse     |      4 |        8 | Largy Debut        |   5    | milkman              |
-|  58 | :soon:                   | 2021-11-03 00:45:00 | fairyhouse     |      4 |       10 | Paladian Jewel     |  51    | roughnut             |
-|  59 | :hourglass_flowing_sand: | 2021-11-03 00:25:00 | exeter         |      2 |        2 | Brief Times        |   4.5  | milkman              |
-|  60 | :hourglass_flowing_sand: | 2021-11-03 00:25:00 | exeter         |      2 |        9 | Reilly             |   5.5  | evenodds,overthrow   |
-|  61 | :hourglass_flowing_sand: | 2021-11-03 00:25:00 | exeter         |      2 |        5 | Huflower           |   2.5  | evenodds,overthrow   |
-|  62 | :hourglass_flowing_sand: | 2021-11-03 00:20:00 | vaal           |      4 |        5 | Olympic Silk       |   0    | prometheus           |
-|  63 | :hourglass_flowing_sand: | 2021-11-03 00:20:00 | vaal           |      4 |        1 | Western Dance      |   0    | prometheus           |
-|  64 | :hourglass_flowing_sand: | 2021-11-03 00:15:00 | fairyhouse     |      3 |        1 | Astrophysicist     |  17    | roughnut             |
-|  65 | :hourglass_flowing_sand: | 2021-11-03 00:10:00 | redcar         |      3 |        7 | Desert History     |   2.7  | prometheus           |
-|  66 | :hourglass_flowing_sand: | 2021-11-03 00:03:00 | lingfield      |      2 |        6 | Kingsofthemidlands |   3.9  | looseknot            |
-|  67 | :hourglass_flowing_sand: | 2021-11-02 23:55:00 | exeter         |      1 |        6 | Landen Calling     |  34    | overthrow            |
+|  52 | :hourglass_flowing_sand: | 2021-11-03 00:50:00 | vaal           |      5 |        6 | Juan Carlos        |   0    | prometheus           |
+|  53 | :hourglass_flowing_sand: | 2021-11-03 00:50:00 | vaal           |      5 |        7 | Earl               |   0    | prometheus           |
+|  54 | :hourglass_flowing_sand: | 2021-11-03 00:50:00 | vaal           |      5 |        5 | Laird Of Breedon   |   0    | prometheus           |
+|  55 | :hourglass_flowing_sand: | 2021-11-03 00:50:00 | vaal           |      5 |        4 | Twin Turbo         |   0    | prometheus           |
+|  56 | :hourglass_flowing_sand: | 2021-11-03 00:50:00 | vaal           |      5 |        8 | Fsquadron          |   0    | prometheus           |
+|  57 | :hourglass_flowing_sand: | 2021-11-03 00:45:00 | fairyhouse     |      4 |        8 | Largy Debut        |   5    | milkman              |
+|  58 | :hourglass_flowing_sand: | 2021-11-03 00:45:00 | fairyhouse     |      4 |       10 | Paladian Jewel     |  51    | roughnut             |
+|  59 | --                       | 2021-11-03 00:25:00 | exeter         |      2 |        2 | Brief Times        |   4.5  | milkman              |
+|  60 | --                       | 2021-11-03 00:25:00 | exeter         |      2 |        9 | Reilly             |   5.5  | evenodds,overthrow   |
+|  61 | --                       | 2021-11-03 00:25:00 | exeter         |      2 |        5 | Huflower           |   2.5  | evenodds,overthrow   |
+|  62 | --                       | 2021-11-03 00:20:00 | vaal           |      4 |        5 | Olympic Silk       |   0    | prometheus           |
+|  63 | --                       | 2021-11-03 00:20:00 | vaal           |      4 |        1 | Western Dance      |   0    | prometheus           |
+|  64 | --                       | 2021-11-03 00:15:00 | fairyhouse     |      3 |        1 | Astrophysicist     |  17    | roughnut             |
+|  65 | --                       | 2021-11-03 00:10:00 | redcar         |      3 |        7 | Desert History     |   2.7  | prometheus           |
+|  66 | --                       | 2021-11-03 00:03:00 | lingfield      |      2 |        6 | Kingsofthemidlands |   3.9  | looseknot            |
+|  67 | --                       | 2021-11-02 23:55:00 | exeter         |      1 |        6 | Landen Calling     |  34    | overthrow            |
 |  68 | :soon:                   | 2021-11-02 23:55:00 | exeter         |      1 |        3 | Ask Me Early       |   3.7  | pangea,milkman       |
-|  69 | :hourglass_flowing_sand: | 2021-11-02 23:55:00 | exeter         |      1 |        7 | Mojito Royale      |  34    | roughnut             |
-|  70 | :hourglass_flowing_sand: | 2021-11-02 23:55:00 | exeter         |      1 |        8 | Outlaw Peter       |   2.15 | overthrow            |
-|  71 | :hourglass_flowing_sand: | 2021-11-02 23:50:00 | vaal           |      3 |       10 | Last Cheer         |   0    | prometheus           |
-|  72 | :hourglass_flowing_sand: | 2021-11-02 23:50:00 | vaal           |      3 |        7 | Astral Plane       |   0    | prometheus           |
-|  73 | :hourglass_flowing_sand: | 2021-11-02 23:50:00 | vaal           |      3 |        5 | Keepingthepeace    |   0    | prometheus           |
-|  74 | :hourglass_flowing_sand: | 2021-11-02 23:50:00 | vaal           |      3 |        1 | Franklin           |   0    | prometheus           |
-|  75 | :hourglass_flowing_sand: | 2021-11-02 23:50:00 | vaal           |      3 |        9 | Liverpool Legend   |   0    | prometheus           |
-|  76 | :hourglass_flowing_sand: | 2021-11-02 23:45:00 | fairyhouse     |      2 |        7 | Save Us Avis       |  21    | roughnut             |
-|  77 | :hourglass_flowing_sand: | 2021-11-02 23:45:00 | fairyhouse     |      2 |        8 | Sliabh Mhuire Lass |  26    | roughnut             |
-|  78 | :hourglass_flowing_sand: | 2021-11-02 23:45:00 | fairyhouse     |      2 |       10 | Top Question       |  12    | roughnut             |
-|  79 | :hourglass_flowing_sand: | 2021-11-02 23:45:00 | fairyhouse     |      2 |       12 | Laughing Trix      |  17    | roughnut             |
-|  80 | :hourglass_flowing_sand: | 2021-11-02 23:45:00 | fairyhouse     |      2 |        5 | Double Windsor     |  17    | roughnut             |
-|  81 | :hourglass_flowing_sand: | 2021-11-02 23:40:00 | redcar         |      2 |        8 | Purple Ice         |  67    | roughnut             |
-|  82 | :hourglass_flowing_sand: | 2021-11-02 23:30:00 | lingfield      |      1 |        2 | Desert Pioneer     |   3.6  | looseknot            |
-|  83 | :hourglass_flowing_sand: | 2021-11-02 23:15:00 | fairyhouse     |      1 |        5 | A Girl Like Me     |  26    | roughnut             |
-|  84 | :hourglass_flowing_sand: | 2021-11-02 23:10:00 | vaal           |      2 |       10 | Pomodoro Hills     |   0    | prometheus           |
-|  85 | :hourglass_flowing_sand: | 2021-11-02 23:10:00 | vaal           |      2 |       13 | Vercin Dance       |   0    | prometheus           |
-|  86 | :hourglass_flowing_sand: | 2021-11-02 23:10:00 | vaal           |      2 |        5 | Pewter Sky         |   0    | prometheus           |
-|  87 | :hourglass_flowing_sand: | 2021-11-02 23:10:00 | vaal           |      2 |        7 | Groomedtowin       |   0    | prometheus           |
-|  88 | :hourglass_flowing_sand: | 2021-11-02 23:05:00 | redcar         |      1 |       10 | Storm Castle       |   2.6  | prometheus           |
-|  89 | :hourglass_flowing_sand: | 2021-11-02 22:30:00 | vaal           |      1 |        4 | Pink Legacy        |   0    | prometheus           |
-|  90 | :hourglass_flowing_sand: | 2021-11-02 22:30:00 | vaal           |      1 |        1 | Princess Philippa  |   0    | prometheus           |
-|  91 | :hourglass_flowing_sand: | 2021-11-02 22:30:00 | vaal           |      1 |        5 | Watching Closely   |   0    | prometheus           |
-|  92 | :hourglass_flowing_sand: | 2021-11-02 20:45:00 | ascot          |     10 |        4 | Airlie Queen       |   2.9  | evenodds,pikey       |
+|  69 | --                       | 2021-11-02 23:55:00 | exeter         |      1 |        7 | Mojito Royale      |  34    | roughnut             |
+|  70 | --                       | 2021-11-02 23:55:00 | exeter         |      1 |        8 | Outlaw Peter       |   2.15 | overthrow            |
+|  71 | --                       | 2021-11-02 23:50:00 | vaal           |      3 |       10 | Last Cheer         |   0    | prometheus           |
+|  72 | --                       | 2021-11-02 23:50:00 | vaal           |      3 |        7 | Astral Plane       |   0    | prometheus           |
+|  73 | --                       | 2021-11-02 23:50:00 | vaal           |      3 |        5 | Keepingthepeace    |   0    | prometheus           |
+|  74 | --                       | 2021-11-02 23:50:00 | vaal           |      3 |        1 | Franklin           |   0    | prometheus           |
+|  75 | --                       | 2021-11-02 23:50:00 | vaal           |      3 |        9 | Liverpool Legend   |   0    | prometheus           |
+|  76 | --                       | 2021-11-02 23:45:00 | fairyhouse     |      2 |        7 | Save Us Avis       |  21    | roughnut             |
+|  77 | --                       | 2021-11-02 23:45:00 | fairyhouse     |      2 |        8 | Sliabh Mhuire Lass |  26    | roughnut             |
+|  78 | --                       | 2021-11-02 23:45:00 | fairyhouse     |      2 |       10 | Top Question       |  12    | roughnut             |
+|  79 | --                       | 2021-11-02 23:45:00 | fairyhouse     |      2 |       12 | Laughing Trix      |  17    | roughnut             |
+|  80 | --                       | 2021-11-02 23:45:00 | fairyhouse     |      2 |        5 | Double Windsor     |  17    | roughnut             |
+|  81 | --                       | 2021-11-02 23:40:00 | redcar         |      2 |        8 | Purple Ice         |  67    | roughnut             |
+|  82 | --                       | 2021-11-02 23:30:00 | lingfield      |      1 |        2 | Desert Pioneer     |   3.6  | looseknot            |
+|  83 | --                       | 2021-11-02 23:15:00 | fairyhouse     |      1 |        5 | A Girl Like Me     |  26    | roughnut             |
+|  84 | --                       | 2021-11-02 23:10:00 | vaal           |      2 |       10 | Pomodoro Hills     |   0    | prometheus           |
+|  85 | --                       | 2021-11-02 23:10:00 | vaal           |      2 |       13 | Vercin Dance       |   0    | prometheus           |
+|  86 | --                       | 2021-11-02 23:10:00 | vaal           |      2 |        5 | Pewter Sky         |   0    | prometheus           |
+|  87 | --                       | 2021-11-02 23:10:00 | vaal           |      2 |        7 | Groomedtowin       |   0    | prometheus           |
+|  88 | --                       | 2021-11-02 23:05:00 | redcar         |      1 |       10 | Storm Castle       |   2.6  | prometheus           |
+|  89 | --                       | 2021-11-02 22:30:00 | vaal           |      1 |        4 | Pink Legacy        |   0    | prometheus           |
+|  90 | --                       | 2021-11-02 22:30:00 | vaal           |      1 |        1 | Princess Philippa  |   0    | prometheus           |
+|  91 | --                       | 2021-11-02 22:30:00 | vaal           |      1 |        5 | Watching Closely   |   0    | prometheus           |
+|  92 | --                       | 2021-11-02 20:45:00 | ascot          |     10 |        4 | Airlie Queen       |   2.9  | evenodds,pikey       |
 |  93 | --                       | 2021-11-02 19:37:00 | ascot          |      8 |        6 | Frequent Friar     |   9.5  | cosmo,roughnut       |
 |  94 | 8                        | 2021-11-02 19:06:00 | darwin         |      7 |        5 | Taciturn           |   4.8  | benny,pangea         |
 |  95 | :2nd_place_medal:        | 2021-11-02 19:06:00 | darwin         |      7 |        8 | Against The Tide   |   7    | vulture              |
