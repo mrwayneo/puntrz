@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-11-03 09:00:31 +1000  
+date: 2021-11-03 16:53:38 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
-| 13:50             | 2021-11-03 | port-lincoln R1         | 1 Spanish Heirloom    |  1.7  |    -10   |
+| :boom:            | 2021-11-03 | port-lincoln R1         | 1 Spanish Heirloom    |  2.1  |     11   |
 | :boom:            | 2021-11-02 | darwin R2               | 4 The Captain         |  3.1  |     21   |
 | :3rd_place_medal: | 2021-11-02 | eagle-farm R4           | 3 Ralph's Honour      |  4.6  |    -10   |
 | 0                 | 2021-10-30 | turffontein R5          | 2 Malmoos             |  0    |    -10   |

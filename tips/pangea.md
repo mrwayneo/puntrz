@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-03 09:00:20 +1000  
+date: 2021-11-03 16:53:11 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event            | runner               |   win |   return |
 |:------------------|:-----------|:-----------------|:---------------------|------:|---------:|
 | 20:20             | 2021-11-03 | launceston R6    | 2 Balearic           |  8.5  |    -10   |
-| 13:50             | 2021-11-03 | port-lincoln R1  | 1 Spanish Heirloom   |  1.7  |    -10   |
+| :boom:            | 2021-11-03 | port-lincoln R1  | 1 Spanish Heirloom   |  2.1  |     11   |
 | 0                 | 2021-11-03 | vaal R5          | 1 Western Fort       |  0    |    -10   |
 | :boom:            | 2021-11-02 | exeter R1        | 3 Ask Me Early       |  2.5  |     15   |
 | :3rd_place_medal: | 2021-11-02 | darwin R7        | 4 Siakam             |  3.2  |    -10   |
