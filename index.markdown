@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-03 17:10:38 +1000  
+date: 2021-11-04 01:57:20 +1000  
 ---   
 
 
@@ -32,20 +32,20 @@ date: 2021-11-03 17:10:38 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     38 |     11 |    428.5 | 0.29 |  1.13 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    173 |     50 |    245.5 | 0.29 |  0.14 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    359 |     75 |   -133   | 0.21 | -0.04 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    194 |     57 |   -178.9 | 0.29 | -0.09 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     35 |      3 |   -209   | 0.09 | -0.6  |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    360 |     75 |   -143   | 0.21 | -0.04 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    195 |     58 |   -167.9 | 0.3  | -0.09 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     44 |      6 |   -219   | 0.14 | -0.5  |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    335 |     81 |   -267.6 | 0.24 | -0.08 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     80 |     12 |   -405.5 | 0.15 | -0.51 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     39 |      3 |   -249   | 0.08 | -0.64 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    336 |     81 |   -277.6 | 0.24 | -0.08 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     82 |     13 |   -404.5 | 0.16 | -0.49 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    484 |    121 |   -817   | 0.25 | -0.17 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    713 |    102 |  -1120.6 | 0.14 | -0.16 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    589 |    155 |  -1162.5 | 0.26 | -0.2  |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2632 |    149 |  -1686   | 0.06 | -0.06 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1967 |    458 |  -1982.1 | 0.23 | -0.1  |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3149 |    704 |  -5874   | 0.22 | -0.19 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6224 |    911 |  -9988.7 | 0.15 | -0.16 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8399 |    452 | -16452.5 | 0.05 | -0.2  |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    588 |    154 |  -1172.5 | 0.26 | -0.2  |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    715 |    101 |  -1215.6 | 0.14 | -0.17 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2632 |    148 |  -1818   | 0.06 | -0.07 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1973 |    458 |  -1912.1 | 0.23 | -0.1  |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3146 |    702 |  -5931.5 | 0.22 | -0.19 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6260 |    911 | -10220.7 | 0.15 | -0.16 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8386 |    450 | -16529.5 | 0.05 | -0.2  |
 
 |    | finish                   | time                | track        |   race |   number | name               |   odds | tipster             |
 |---:|:-------------------------|:--------------------|:-------------|-------:|---------:|:-------------------|-------:|:--------------------|
@@ -71,71 +71,71 @@ date: 2021-11-03 17:10:38 +1000
 | 19 | :soon:                   | 2021-11-04 02:00:00 | chepstow     |      6 |        5 | Don Alvaro         |   11   | overthrow           |
 | 20 | :soon:                   | 2021-11-04 02:00:00 | chepstow     |      6 |        2 | Brave Kingdom      |    2   | milkman             |
 | 21 | :soon:                   | 2021-11-04 02:00:00 | chepstow     |      6 |       13 | Risk D'Argent      |   17   | roughnut            |
-| 22 | :soon:                   | 2021-11-04 01:50:00 | musselburgh  |      5 |        3 | Idilico            |   15   | roughnut            |
-| 23 | :soon:                   | 2021-11-04 01:45:00 | kempton      |      1 |        9 | Between The Sheets |   10   | roughnut            |
-| 24 | :soon:                   | 2021-11-04 01:45:00 | kempton      |      1 |        8 | Lucrosa            |   15   | cosmo,roughnut      |
-| 25 | :soon:                   | 2021-11-04 01:45:00 | kenilworth   |      7 |        8 | Regina Isabella    |    0   | prometheus          |
-| 26 | :soon:                   | 2021-11-04 01:45:00 | kenilworth   |      7 |        3 | Grey Princess      |    0   | prometheus          |
-| 27 | :soon:                   | 2021-11-04 01:45:00 | kenilworth   |      7 |        2 | Crimson Princess   |    0   | prometheus          |
-| 28 | :soon:                   | 2021-11-04 01:45:00 | kempton      |      1 |        6 | Adatorio           |    7   | looseknot           |
-| 29 | :soon:                   | 2021-11-04 01:40:00 | nottingham   |      5 |        1 | Let Me Be          |   15   | cosmo,roughnut      |
-| 30 | :soon:                   | 2021-11-04 01:40:00 | nottingham   |      5 |        9 | Tralee Hills       |   21   | cosmo,roughnut      |
-| 31 | :soon:                   | 2021-11-04 01:30:00 | chepstow     |      5 |        7 | Tokay Dokey        |    8   | overthrow,milkman   |
-| 32 | :soon:                   | 2021-11-04 01:30:00 | chepstow     |      5 |       13 | Powerstown Park    |   13   | overthrow           |
-| 33 | :soon:                   | 2021-11-04 01:30:00 | chepstow     |      5 |       12 | Java Point         |   15   | roughnut            |
-| 34 | :soon:                   | 2021-11-04 01:30:00 | chepstow     |      5 |        6 | Brewers Project    |    5.5 | overthrow           |
-| 35 | :soon:                   | 2021-11-04 01:20:00 | musselburgh  |      4 |        3 | Fightfortheroses   |   10   | roughnut            |
-| 36 | :soon:                   | 2021-11-04 01:20:00 | musselburgh  |      4 |        8 | Scorpo             |   61   | roughnut            |
-| 37 | :soon:                   | 2021-11-04 01:15:00 | happy-valley |      7 |        4 | Royal Pride        |    0   | prometheus          |
-| 38 | :soon:                   | 2021-11-04 01:15:00 | happy-valley |      7 |        5 | Green Aeon         |    0   | prometheus          |
-| 39 | :soon:                   | 2021-11-04 01:15:00 | happy-valley |      7 |        6 | Turin Redstar      |    0   | prometheus          |
-| 40 | :soon:                   | 2021-11-04 01:15:00 | happy-valley |      7 |        8 | Wind Speeder       |    0   | prometheus          |
-| 41 | :soon:                   | 2021-11-04 01:15:00 | happy-valley |      7 |        9 | Total Power        |    0   | prometheus          |
-| 42 | :soon:                   | 2021-11-04 01:15:00 | happy-valley |      7 |        2 | Gift Of Lifeline   |    0   | prometheus          |
-| 43 | :soon:                   | 2021-11-04 01:15:00 | happy-valley |      7 |        3 | Presence           |    0   | prometheus          |
-| 44 | :soon:                   | 2021-11-04 01:15:00 | happy-valley |      7 |       10 | Able Reign         |    0   | prometheus          |
-| 45 | :soon:                   | 2021-11-04 01:10:00 | nottingham   |      4 |        7 | Copperknob         |   10   | cosmo,roughnut      |
-| 46 | :soon:                   | 2021-11-04 01:10:00 | nottingham   |      4 |        6 | Whitcliffe         |   14   | cosmo,roughnut      |
-| 47 | :soon:                   | 2021-11-04 01:05:00 | kenilworth   |      6 |        7 | Bad Reputation     |    0   | prometheus          |
-| 48 | :soon:                   | 2021-11-04 01:05:00 | kenilworth   |      6 |        6 | Song               |    0   | prometheus          |
-| 49 | :soon:                   | 2021-11-04 01:05:00 | kenilworth   |      6 |        4 | Helen's Blush      |    0   | prometheus          |
-| 50 | :soon:                   | 2021-11-04 01:05:00 | kenilworth   |      6 |        3 | French Declaration |    0   | prometheus          |
-| 51 | :soon:                   | 2021-11-04 01:05:00 | kenilworth   |      6 |        1 | Fynbos             |    0   | prometheus          |
-| 52 | :soon:                   | 2021-11-04 00:50:00 | musselburgh  |      3 |        2 | Collingham         |    2.2 | vulture             |
-| 53 | :soon:                   | 2021-11-04 00:50:00 | musselburgh  |      3 |        1 | Ben Asker          |   34   | cosmo,roughnut      |
-| 54 | :soon:                   | 2021-11-04 00:40:00 | nottingham   |      3 |        4 | Glam De Vega       |    5   | looseknot           |
-| 55 | :soon:                   | 2021-11-04 00:28:00 | kenilworth   |      5 |       10 | Princess Santo     |    0   | prometheus          |
-| 56 | :soon:                   | 2021-11-04 00:28:00 | kenilworth   |      5 |        5 | Chilly Winter      |    0   | prometheus          |
-| 57 | :soon:                   | 2021-11-04 00:28:00 | kenilworth   |      5 |        1 | Safe To Assume     |    0   | prometheus          |
-| 58 | :soon:                   | 2021-11-04 00:28:00 | kenilworth   |      5 |        3 | Seeking Peace      |    0   | prometheus          |
-| 59 | :soon:                   | 2021-11-04 00:15:00 | happy-valley |      5 |        2 | Delightful Laos    |    0   | prometheus          |
-| 60 | :soon:                   | 2021-11-04 00:15:00 | happy-valley |      5 |        5 | Beauty Fit         |    0   | prometheus          |
-| 61 | :soon:                   | 2021-11-04 00:15:00 | happy-valley |      5 |        3 | Berlin Tango       |    0   | prometheus          |
-| 62 | :soon:                   | 2021-11-04 00:15:00 | happy-valley |      5 |        1 | Savvy Nine         |    0   | prometheus          |
-| 63 | :soon:                   | 2021-11-04 00:10:00 | nottingham   |      2 |        9 | Rockfire           |    6.5 | looseknot           |
-| 64 | :soon:                   | 2021-11-04 00:00:00 | chepstow     |      2 |       17 | Representing Bob   |    2.9 | vulture             |
-| 65 | :soon:                   | 2021-11-03 23:54:00 | kenilworth   |      4 |        5 | Caribbean Sunset   |    0   | prometheus          |
-| 66 | :soon:                   | 2021-11-03 23:54:00 | kenilworth   |      4 |        2 | Green Light Gal    |    0   | prometheus          |
-| 67 | :soon:                   | 2021-11-03 23:54:00 | kenilworth   |      4 |        1 | Kitty Cat Chat     |    0   | milkman             |
-| 68 | :soon:                   | 2021-11-03 23:30:00 | chepstow     |      1 |        8 | Hardkore           |    6   | overthrow           |
-| 69 | :soon:                   | 2021-11-03 23:30:00 | chepstow     |      1 |        7 | Good Risk At All   |    1.5 | vulture,milkman     |
-| 70 | :soon:                   | 2021-11-03 23:30:00 | chepstow     |      1 |        2 | Carry On The Magic |   21   | overthrow,roughnut  |
-| 71 | :soon:                   | 2021-11-03 23:30:00 | chepstow     |      1 |        3 | Diamon Des Flos    |   51   | roughnut            |
-| 72 | :soon:                   | 2021-11-03 23:20:00 | kenilworth   |      3 |        4 | Boisterous Buddy   |    0   | prometheus          |
-| 73 | :soon:                   | 2021-11-03 23:20:00 | kenilworth   |      3 |        6 | Master Of Time     |    0   | prometheus          |
-| 74 | :soon:                   | 2021-11-03 22:40:00 | kenilworth   |      2 |        2 | Sunday Island      |    0   | prometheus          |
-| 75 | :soon:                   | 2021-11-03 22:40:00 | kenilworth   |      2 |        6 | Al Bugatti         |    0   | prometheus          |
-| 76 | :soon:                   | 2021-11-03 22:05:00 | kenilworth   |      1 |        5 | Ntinga             |    0   | prometheus          |
-| 77 | :soon:                   | 2021-11-03 22:05:00 | kenilworth   |      1 |        2 | Bite My Lip        |    0   | prometheus          |
-| 78 | :soon:                   | 2021-11-03 22:05:00 | kenilworth   |      1 |        7 | Parisienne Girl    |    0   | prometheus          |
-| 79 | :soon:                   | 2021-11-03 22:05:00 | kenilworth   |      1 |        8 | Star Search        |    0   | prometheus          |
-| 80 | :soon:                   | 2021-11-03 22:00:00 | launceston   |      9 |        9 | Luca Bratzi        |   10   | cosmo,roughnut      |
-| 81 | :soon:                   | 2021-11-03 20:20:00 | launceston   |      6 |        6 | Creative Hero      |    6   | roughnut            |
-| 82 | :soon:                   | 2021-11-03 20:20:00 | launceston   |      6 |        2 | Balearic           |    8.5 | benny,blackshadow   |
-| 83 | :soon:                   | 2021-11-03 19:45:00 | launceston   |      5 |        6 | Needs Remembering  |    4.8 | overthrow           |
-| 84 | :soon:                   | 2021-11-03 19:45:00 | launceston   |      5 |        2 | Chosen Eagle       |    5.5 | overthrow,looseknot |
-| 85 | :soon:                   | 2021-11-03 17:55:00 | launceston   |      2 |        2 | Incriminate        |    6   | overthrow           |
-| 86 | :hourglass_flowing_sand: | 2021-11-03 16:20:00 | port-lincoln |      5 |        1 | Boniface           |    2.9 | prometheus          |
+| 22 | :hourglass_flowing_sand: | 2021-11-04 01:50:00 | musselburgh  |      5 |        3 | Idilico            |   15   | roughnut            |
+| 23 | :hourglass_flowing_sand: | 2021-11-04 01:45:00 | kempton      |      1 |        9 | Between The Sheets |   10   | roughnut            |
+| 24 | :hourglass_flowing_sand: | 2021-11-04 01:45:00 | kempton      |      1 |        8 | Lucrosa            |   15   | cosmo,roughnut      |
+| 25 | :hourglass_flowing_sand: | 2021-11-04 01:45:00 | kenilworth   |      7 |        8 | Regina Isabella    |    0   | prometheus          |
+| 26 | :hourglass_flowing_sand: | 2021-11-04 01:45:00 | kenilworth   |      7 |        3 | Grey Princess      |    0   | prometheus          |
+| 27 | :hourglass_flowing_sand: | 2021-11-04 01:45:00 | kenilworth   |      7 |        2 | Crimson Princess   |    0   | prometheus          |
+| 28 | :hourglass_flowing_sand: | 2021-11-04 01:45:00 | kempton      |      1 |        6 | Adatorio           |    7   | looseknot           |
+| 29 | :hourglass_flowing_sand: | 2021-11-04 01:40:00 | nottingham   |      5 |        1 | Let Me Be          |   15   | cosmo,roughnut      |
+| 30 | :hourglass_flowing_sand: | 2021-11-04 01:40:00 | nottingham   |      5 |        9 | Tralee Hills       |   21   | cosmo,roughnut      |
+| 31 | :hourglass_flowing_sand: | 2021-11-04 01:30:00 | chepstow     |      5 |        7 | Tokay Dokey        |    8   | overthrow,milkman   |
+| 32 | :hourglass_flowing_sand: | 2021-11-04 01:30:00 | chepstow     |      5 |       13 | Powerstown Park    |   13   | overthrow           |
+| 33 | :hourglass_flowing_sand: | 2021-11-04 01:30:00 | chepstow     |      5 |       12 | Java Point         |   15   | roughnut            |
+| 34 | :hourglass_flowing_sand: | 2021-11-04 01:30:00 | chepstow     |      5 |        6 | Brewers Project    |    5.5 | overthrow           |
+| 35 | --                       | 2021-11-04 01:20:00 | musselburgh  |      4 |        3 | Fightfortheroses   |   10   | roughnut            |
+| 36 | --                       | 2021-11-04 01:20:00 | musselburgh  |      4 |        8 | Scorpo             |   61   | roughnut            |
+| 37 | --                       | 2021-11-04 01:15:00 | happy-valley |      7 |        4 | Royal Pride        |    0   | prometheus          |
+| 38 | --                       | 2021-11-04 01:15:00 | happy-valley |      7 |        5 | Green Aeon         |    0   | prometheus          |
+| 39 | --                       | 2021-11-04 01:15:00 | happy-valley |      7 |        6 | Turin Redstar      |    0   | prometheus          |
+| 40 | --                       | 2021-11-04 01:15:00 | happy-valley |      7 |        8 | Wind Speeder       |    0   | prometheus          |
+| 41 | :3rd_place_medal:        | 2021-11-04 01:15:00 | happy-valley |      7 |        9 | Total Power        |    0   | prometheus          |
+| 42 | --                       | 2021-11-04 01:15:00 | happy-valley |      7 |        2 | Gift Of Lifeline   |    0   | prometheus          |
+| 43 | :2nd_place_medal:        | 2021-11-04 01:15:00 | happy-valley |      7 |        3 | Presence           |    0   | prometheus          |
+| 44 | --                       | 2021-11-04 01:15:00 | happy-valley |      7 |       10 | Able Reign         |    0   | prometheus          |
+| 45 | --                       | 2021-11-04 01:10:00 | nottingham   |      4 |        7 | Copperknob         |   10   | cosmo,roughnut      |
+| 46 | --                       | 2021-11-04 01:10:00 | nottingham   |      4 |        6 | Whitcliffe         |   14   | cosmo,roughnut      |
+| 47 | --                       | 2021-11-04 01:05:00 | kenilworth   |      6 |        7 | Bad Reputation     |    0   | prometheus          |
+| 48 | :3rd_place_medal:        | 2021-11-04 01:05:00 | kenilworth   |      6 |        6 | Song               |    0   | prometheus          |
+| 49 | --                       | 2021-11-04 01:05:00 | kenilworth   |      6 |        4 | Helen's Blush      |    0   | prometheus          |
+| 50 | :boom:                   | 2021-11-04 01:05:00 | kenilworth   |      6 |        3 | French Declaration |    0   | prometheus          |
+| 51 | --                       | 2021-11-04 01:05:00 | kenilworth   |      6 |        1 | Fynbos             |    0   | prometheus          |
+| 52 | :boom:                   | 2021-11-04 00:50:00 | musselburgh  |      3 |        2 | Collingham         |    2.2 | vulture             |
+| 53 | --                       | 2021-11-04 00:50:00 | musselburgh  |      3 |        1 | Ben Asker          |   34   | cosmo,roughnut      |
+| 54 | :2nd_place_medal:        | 2021-11-04 00:40:00 | nottingham   |      3 |        4 | Glam De Vega       |    5   | looseknot           |
+| 55 | :3rd_place_medal:        | 2021-11-04 00:28:00 | kenilworth   |      5 |       10 | Princess Santo     |    0   | prometheus          |
+| 56 | :2nd_place_medal:        | 2021-11-04 00:28:00 | kenilworth   |      5 |        5 | Chilly Winter      |    0   | prometheus          |
+| 57 | --                       | 2021-11-04 00:28:00 | kenilworth   |      5 |        1 | Safe To Assume     |    0   | prometheus          |
+| 58 | 4                        | 2021-11-04 00:28:00 | kenilworth   |      5 |        3 | Seeking Peace      |    0   | prometheus          |
+| 59 | --                       | 2021-11-04 00:15:00 | happy-valley |      5 |        2 | Delightful Laos    |    0   | prometheus          |
+| 60 | --                       | 2021-11-04 00:15:00 | happy-valley |      5 |        5 | Beauty Fit         |    0   | prometheus          |
+| 61 | --                       | 2021-11-04 00:15:00 | happy-valley |      5 |        3 | Berlin Tango       |    0   | prometheus          |
+| 62 | :3rd_place_medal:        | 2021-11-04 00:15:00 | happy-valley |      5 |        1 | Savvy Nine         |    0   | prometheus          |
+| 63 | --                       | 2021-11-04 00:10:00 | nottingham   |      2 |        9 | Rockfire           |    6.5 | looseknot           |
+| 64 | :2nd_place_medal:        | 2021-11-04 00:00:00 | chepstow     |      2 |       17 | Representing Bob   |    2.9 | vulture             |
+| 65 | --                       | 2021-11-03 23:54:00 | kenilworth   |      4 |        5 | Caribbean Sunset   |    0   | prometheus          |
+| 66 | :3rd_place_medal:        | 2021-11-03 23:54:00 | kenilworth   |      4 |        2 | Green Light Gal    |    0   | prometheus          |
+| 67 | --                       | 2021-11-03 23:54:00 | kenilworth   |      4 |        1 | Kitty Cat Chat     |    0   | milkman             |
+| 68 | :boom:                   | 2021-11-03 23:30:00 | chepstow     |      1 |        8 | Hardkore           |    6   | overthrow           |
+| 69 | :2nd_place_medal:        | 2021-11-03 23:30:00 | chepstow     |      1 |        7 | Good Risk At All   |    1.5 | vulture,milkman     |
+| 70 | 7                        | 2021-11-03 23:30:00 | chepstow     |      1 |        2 | Carry On The Magic |   21   | overthrow,roughnut  |
+| 71 | 8                        | 2021-11-03 23:30:00 | chepstow     |      1 |        3 | Diamon Des Flos    |   51   | roughnut            |
+| 72 | --                       | 2021-11-03 23:20:00 | kenilworth   |      3 |        4 | Boisterous Buddy   |    0   | prometheus          |
+| 73 | --                       | 2021-11-03 23:20:00 | kenilworth   |      3 |        6 | Master Of Time     |    0   | prometheus          |
+| 74 | :2nd_place_medal:        | 2021-11-03 22:40:00 | kenilworth   |      2 |        2 | Sunday Island      |    0   | prometheus          |
+| 75 | --                       | 2021-11-03 22:40:00 | kenilworth   |      2 |        6 | Al Bugatti         |    0   | prometheus          |
+| 76 | --                       | 2021-11-03 22:05:00 | kenilworth   |      1 |        5 | Ntinga             |    0   | prometheus          |
+| 77 | --                       | 2021-11-03 22:05:00 | kenilworth   |      1 |        2 | Bite My Lip        |    0   | prometheus          |
+| 78 | 4                        | 2021-11-03 22:05:00 | kenilworth   |      1 |        7 | Parisienne Girl    |    0   | prometheus          |
+| 79 | --                       | 2021-11-03 22:05:00 | kenilworth   |      1 |        8 | Star Search        |    0   | prometheus          |
+| 80 | 5                        | 2021-11-03 22:00:00 | launceston   |      9 |        9 | Luca Bratzi        |   10   | cosmo,roughnut      |
+| 81 | --                       | 2021-11-03 20:20:00 | launceston   |      6 |        6 | Creative Hero      |    6   | roughnut            |
+| 82 | 4                        | 2021-11-03 20:20:00 | launceston   |      6 |        2 | Balearic           |    8.5 | benny,blackshadow   |
+| 83 | 7                        | 2021-11-03 19:45:00 | launceston   |      5 |        6 | Needs Remembering  |    4.8 | overthrow           |
+| 84 | :3rd_place_medal:        | 2021-11-03 19:45:00 | launceston   |      5 |        2 | Chosen Eagle       |    5.5 | overthrow,looseknot |
+| 85 | 4                        | 2021-11-03 17:55:00 | launceston   |      2 |        2 | Incriminate        |    6   | overthrow           |
+| 86 | 4                        | 2021-11-03 16:20:00 | port-lincoln |      5 |        1 | Boniface           |    2.9 | prometheus          |
 | 87 | :2nd_place_medal:        | 2021-11-03 15:50:00 | grafton      |      4 |        5 | Dunara             |    2.9 | prometheus          |
 | 88 | :3rd_place_medal:        | 2021-11-03 15:40:00 | port-lincoln |      4 |        3 | Hayzelle           |    8.5 | vulture             |
 | 89 | --                       | 2021-11-03 15:20:00 | kyneton      |      6 |       10 | Comte              |   16   | cosmo,roughnut      |
