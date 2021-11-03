@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-04 01:43:37 +1000  
+date: 2021-11-04 08:18:23 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,11 @@ categories: None
 
 | finish            | date       | event            | runner                |   win |   return |
 |:------------------|:-----------|:-----------------|:----------------------|------:|---------:|
-| 02:00             | 2021-11-04 | chepstow R6      | 2 Brave Kingdom       |  2    |      -10 |
+| 01:00             | 2021-11-05 | newbury R4       | 5 Elle Est Belle      |  1.8  |      -10 |
+| 00:30             | 2021-11-05 | newbury R3       | 4 Silver Forever      |  2.6  |      -10 |
+| 15:35             | 2021-11-04 | hawkesbury R5    | 5 Daichi              |  3.3  |      -10 |
+| 13:15             | 2021-11-04 | flemington R2    | 1 Sirileo Miss        |  2.35 |      -10 |
+| 0                 | 2021-11-04 | chepstow R6      | 2 Brave Kingdom       |  0    |      -10 |
 | 0                 | 2021-11-04 | chepstow R5      | 7 Tokay Dokey         |  0    |      -10 |
 | 0                 | 2021-11-03 | kenilworth R4    | 1 Kitty Cat Chat      |  0    |      -10 |
 | :2nd_place_medal: | 2021-11-03 | chepstow R1      | 7 Good Risk At All    |  1.5  |      -10 |
