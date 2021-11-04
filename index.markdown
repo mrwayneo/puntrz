@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-05 00:06:22 +1000  
+date: 2021-11-05 00:34:54 +1000  
 ---   
 
 
@@ -42,9 +42,9 @@ date: 2021-11-05 00:06:22 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    594 |    153 |  -1250   | 0.26 | -0.21 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    717 |    100 |  -1330.6 | 0.14 | -0.19 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2645 |    148 |  -1920   | 0.06 | -0.07 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1987 |    455 |  -2121.6 | 0.23 | -0.11 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1987 |    456 |  -2082.6 | 0.23 | -0.1  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3146 |    699 |  -6051   | 0.22 | -0.19 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6255 |    908 | -10643.7 | 0.15 | -0.17 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6255 |    908 | -10653.7 | 0.15 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8388 |    449 | -17017.5 | 0.05 | -0.2  |
 
 |     | finish                   | time                | track           |   race |   number | name               |   odds | tipster             |
@@ -97,20 +97,20 @@ date: 2021-11-05 00:06:22 +1000
 |  45 | :soon:                   | 2021-11-05 00:53:00 | vaal            |      6 |        5 | Capetown Affair    |   0    | prometheus          |
 |  46 | :soon:                   | 2021-11-05 00:53:00 | vaal            |      6 |        6 | Balouchi           |   0    | vulture             |
 |  47 | :soon:                   | 2021-11-05 00:38:00 | ludlow          |      3 |        5 | Jersey             |  12    | roughnut            |
-|  48 | :soon:                   | 2021-11-05 00:30:00 | newbury         |      3 |        4 | Silver Forever     |   2.6  | evenodds,milkman    |
-|  49 | :soon:                   | 2021-11-05 00:30:00 | newbury         |      3 |        1 | Imperial Alcazar   |   1.9  | overthrow           |
-|  50 | :soon:                   | 2021-11-05 00:20:00 | thurles         |      3 |       16 | Frontline Worker   |   7.5  | looseknot           |
-|  51 | :soon:                   | 2021-11-05 00:20:00 | thurles         |      3 |        2 | Matilda With Me    | 126    | roughnut            |
-|  52 | :soon:                   | 2021-11-05 00:20:00 | vaal            |      5 |        5 | Lemon Delight      |   0    | prometheus          |
-|  53 | :soon:                   | 2021-11-05 00:20:00 | vaal            |      5 |        6 | Top Drawer         |   0    | prometheus          |
-|  54 | :soon:                   | 2021-11-05 00:12:00 | sedgefield      |      2 |        2 | Red Giant          |   4.2  | vulture             |
-|  55 | :hourglass_flowing_sand: | 2021-11-05 00:05:00 | ludlow          |      2 |        5 | Muse Of Fire       |   5    | looseknot           |
-|  56 | :hourglass_flowing_sand: | 2021-11-05 00:05:00 | ludlow          |      2 |        3 | Zamani             |  19    | roughnut            |
-|  57 | :hourglass_flowing_sand: | 2021-11-05 00:05:00 | ludlow          |      2 |        6 | Judex Lefou        |  14    | roughnut            |
-|  58 | --                       | 2021-11-04 23:55:00 | newbury         |      2 |        2 | Boombawn           |   7    | evenodds,overthrow  |
-|  59 | --                       | 2021-11-04 23:55:00 | newbury         |      2 |        1 | Broomfield Burg    |   1.65 | evenodds,overthrow  |
+|  48 | :hourglass_flowing_sand: | 2021-11-05 00:30:00 | newbury         |      3 |        4 | Silver Forever     |   2.6  | evenodds,milkman    |
+|  49 | :hourglass_flowing_sand: | 2021-11-05 00:30:00 | newbury         |      3 |        1 | Imperial Alcazar   |   1.9  | overthrow           |
+|  50 | :hourglass_flowing_sand: | 2021-11-05 00:20:00 | thurles         |      3 |       16 | Frontline Worker   |   7.5  | looseknot           |
+|  51 | :hourglass_flowing_sand: | 2021-11-05 00:20:00 | thurles         |      3 |        2 | Matilda With Me    | 126    | roughnut            |
+|  52 | --                       | 2021-11-05 00:20:00 | vaal            |      5 |        5 | Lemon Delight      |   0    | prometheus          |
+|  53 | --                       | 2021-11-05 00:20:00 | vaal            |      5 |        6 | Top Drawer         |   0    | prometheus          |
+|  54 | --                       | 2021-11-05 00:12:00 | sedgefield      |      2 |        2 | Red Giant          |   4.2  | vulture             |
+|  55 | --                       | 2021-11-05 00:05:00 | ludlow          |      2 |        5 | Muse Of Fire       |   5    | looseknot           |
+|  56 | --                       | 2021-11-05 00:05:00 | ludlow          |      2 |        3 | Zamani             |  19    | roughnut            |
+|  57 | :3rd_place_medal:        | 2021-11-05 00:05:00 | ludlow          |      2 |        6 | Judex Lefou        |  14    | roughnut            |
+|  58 | :3rd_place_medal:        | 2021-11-04 23:55:00 | newbury         |      2 |        2 | Boombawn           |   7    | evenodds,overthrow  |
+|  59 | :2nd_place_medal:        | 2021-11-04 23:55:00 | newbury         |      2 |        1 | Broomfield Burg    |   1.65 | evenodds,overthrow  |
 |  60 | --                       | 2021-11-04 23:55:00 | newbury         |      2 |        4 | Chancycourt        |   8    | evenodds,overthrow  |
-|  61 | --                       | 2021-11-04 23:55:00 | newbury         |      2 |        7 | Silent Revolution  |   4.4  | overthrow           |
+|  61 | :boom:                   | 2021-11-04 23:55:00 | newbury         |      2 |        7 | Silent Revolution  |   4.4  | overthrow           |
 |  62 | --                       | 2021-11-04 23:45:00 | vaal            |      4 |        7 | Princess Queen     |   0    | prometheus          |
 |  63 | --                       | 2021-11-04 23:45:00 | vaal            |      4 |        9 | Allez Les Bleu     |   0    | prometheus          |
 |  64 | --                       | 2021-11-04 23:45:00 | vaal            |      4 |        2 | Alabama Anna       |   0    | prometheus          |
