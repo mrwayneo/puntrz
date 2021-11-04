@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-04 14:21:46 +1000  
+date: 2021-11-04 14:33:39 +1000  
 ---   
 
 
@@ -165,23 +165,23 @@ date: 2021-11-04 14:21:46 +1000
 | 113 | :soon:                   | 2021-11-04 14:55:00 | hawkesbury      |      4 |        4 | Sir Savaluca       |  11    | vulture             |
 | 114 | :soon:                   | 2021-11-04 14:35:00 | flemington      |      4 |        2 | Flash Aah          |  21    | cosmo,roughnut      |
 | 115 | :soon:                   | 2021-11-04 14:35:00 | flemington      |      4 |        5 | Djukon             |  11    | jmac                |
-| 116 | :soon:                   | 2021-11-04 14:30:00 | ipswich         |      1 |        7 | Trojan Angel       |  34    | cosmo,roughnut      |
-| 117 | :hourglass_flowing_sand: | 2021-11-04 14:15:00 | hawkesbury      |      3 |        7 | Oakfield Cherokee  |   9.5  | cosmo,roughnut      |
-| 118 | :hourglass_flowing_sand: | 2021-11-04 14:15:00 | hawkesbury      |      3 |        5 | Phelan Thirsty     |   9.5  | cosmo,roughnut      |
-| 119 | :hourglass_flowing_sand: | 2021-11-04 14:11:00 | wangaratta      |      2 |        3 | Praetor            |   9.5  | roughnut            |
-| 120 | :hourglass_flowing_sand: | 2021-11-04 14:11:00 | wangaratta      |      2 |        5 | Finanza D'oro      |   8    | roughnut            |
-| 121 | :hourglass_flowing_sand: | 2021-11-04 14:11:00 | wangaratta      |      2 |        8 | Chaotic Cranach    |   4.6  | roughnut            |
-| 122 | :hourglass_flowing_sand: | 2021-11-04 14:11:00 | wangaratta      |      2 |        7 | Beans              |   2.35 | prometheus          |
-| 123 | :hourglass_flowing_sand: | 2021-11-04 14:07:00 | gawler          |      2 |        7 | Fields Of Athenry  |   4    | looseknot           |
-| 124 | :hourglass_flowing_sand: | 2021-11-04 14:07:00 | gawler          |      2 |        6 | Delta River        |   3.4  | roughnut            |
-| 125 | :hourglass_flowing_sand: | 2021-11-04 14:07:00 | gawler          |      2 |        9 | The Trance Factor  |  19    | roughnut            |
-| 126 | :hourglass_flowing_sand: | 2021-11-04 13:15:00 | flemington      |      2 |        3 | Zing               |   4    | benny,jmac          |
-| 127 | :hourglass_flowing_sand: | 2021-11-04 13:15:00 | flemington      |      2 |        1 | Sirileo Miss       |   2.35 | benny,milkman       |
-| 128 | :hourglass_flowing_sand: | 2021-11-04 12:40:00 | flemington      |      1 |       11 | Spectacle          |  11    | cosmo,roughnut      |
-| 129 | :hourglass_flowing_sand: | 2021-11-04 12:40:00 | flemington      |      1 |        2 | Plucky Pirouette   |  19    | cosmo,roughnut      |
-| 130 | :hourglass_flowing_sand: | 2021-11-04 12:40:00 | flemington      |      1 |        3 | Ruru               |   8.5  | jmac                |
+| 116 | :hourglass_flowing_sand: | 2021-11-04 14:30:00 | ipswich         |      1 |        7 | Trojan Angel       |  34    | cosmo,roughnut      |
+| 117 | --                       | 2021-11-04 14:15:00 | hawkesbury      |      3 |        7 | Oakfield Cherokee  |   9.5  | cosmo,roughnut      |
+| 118 | --                       | 2021-11-04 14:15:00 | hawkesbury      |      3 |        5 | Phelan Thirsty     |   9.5  | cosmo,roughnut      |
+| 119 | 6                        | 2021-11-04 14:11:00 | wangaratta      |      2 |        3 | Praetor            |   9.5  | roughnut            |
+| 120 | :boom:                   | 2021-11-04 14:11:00 | wangaratta      |      2 |        5 | Finanza D'oro      |   8    | roughnut            |
+| 121 | 9                        | 2021-11-04 14:11:00 | wangaratta      |      2 |        8 | Chaotic Cranach    |   4.6  | roughnut            |
+| 122 | :3rd_place_medal:        | 2021-11-04 14:11:00 | wangaratta      |      2 |        7 | Beans              |   2.35 | prometheus          |
+| 123 | :3rd_place_medal:        | 2021-11-04 14:07:00 | gawler          |      2 |        7 | Fields Of Athenry  |   4    | looseknot           |
+| 124 | 7                        | 2021-11-04 14:07:00 | gawler          |      2 |        6 | Delta River        |   3.4  | roughnut            |
+| 125 | 5                        | 2021-11-04 14:07:00 | gawler          |      2 |        9 | The Trance Factor  |  19    | roughnut            |
+| 126 | 5                        | 2021-11-04 13:15:00 | flemington      |      2 |        3 | Zing               |   4    | benny,jmac          |
+| 127 | 4                        | 2021-11-04 13:15:00 | flemington      |      2 |        1 | Sirileo Miss       |   2.35 | benny,milkman       |
+| 128 | 8                        | 2021-11-04 12:40:00 | flemington      |      1 |       11 | Spectacle          |  11    | cosmo,roughnut      |
+| 129 | :boom:                   | 2021-11-04 12:40:00 | flemington      |      1 |        2 | Plucky Pirouette   |  19    | cosmo,roughnut      |
+| 130 | 4                        | 2021-11-04 12:40:00 | flemington      |      1 |        3 | Ruru               |   8.5  | jmac                |
 | 131 | --                       | 2021-11-04 11:25:00 | otaki           |      3 |        4 | Midnight Swey      |   7    | roughnut            |
-| 132 | --                       | 2021-11-04 10:50:00 | otaki           |      2 |        4 | Wolverine          |   2.1  | prometheus          |
-| 133 | --                       | 2021-11-04 10:15:00 | otaki           |      1 |        1 | Brookbourne        |   3.85 | roughnut            |
+| 132 | :boom:                   | 2021-11-04 10:50:00 | otaki           |      2 |        4 | Wolverine          |   2.1  | prometheus          |
+| 133 | :3rd_place_medal:        | 2021-11-04 10:15:00 | otaki           |      1 |        1 | Brookbourne        |   3.85 | roughnut            |
 | 134 | --                       | 2021-11-04 10:15:00 | otaki           |      1 |        6 | My Bibby           |   4.05 | roughnut            |
-| 135 | --                       | 2021-11-04 10:15:00 | otaki           |      1 |        9 | Zuma Rock          |   9.5  | roughnut            |
+| 135 | 4                        | 2021-11-04 10:15:00 | otaki           |      1 |        9 | Zuma Rock          |   9.5  | roughnut            |
