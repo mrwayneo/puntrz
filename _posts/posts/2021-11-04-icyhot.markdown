@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-11-04 14:30:21 +1000  
+date: 2021-11-04 23:49:21 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
-| 15:50             | 2021-11-04 | flemington R6           | 10 Written Beauty     |  4.8  |    -10   |
+| 5                 | 2021-11-04 | flemington R6           | 10 Written Beauty     |  4.8  |    -10   |
 | :boom:            | 2021-11-03 | port-lincoln R1         | 1 Spanish Heirloom    |  2.1  |     11   |
 | :boom:            | 2021-11-02 | darwin R2               | 4 The Captain         |  3.1  |     21   |
 | :3rd_place_medal: | 2021-11-02 | eagle-farm R4           | 3 Ralph's Honour      |  4.6  |    -10   |
@@ -156,8 +156,8 @@ categories: None
 | 5                 | 2021-06-19 | darwin R2               | 4 Obligatory          |  2.25 |    -10   |
 | :boom:            | 2021-06-19 | belmont R2              | 1 I'm Pretty          |  2.6  |     16   |
 | :boom:            | 2021-06-17 | warrnambool R6          | 3 Out And Dreaming    |  5.5  |     45   |
-| 13                | 2021-06-12 | belmont R8              | 2 Come Play With Me   | 51    |    -10   |
 | 6                 | 2021-06-12 | belmont R8              | 13 Leading Girl       |  4.55 |    -10   |
+| 13                | 2021-06-12 | belmont R8              | 2 Come Play With Me   | 51    |    -10   |
 | :3rd_place_medal: | 2021-06-12 | townsville R3           | 4 Courtesy Bus        |  5    |    -10   |
 | 4                 | 2021-06-11 | swan-hill R7            | 2 More Than Exceed    |  8    |    -10   |
 | :3rd_place_medal: | 2021-06-07 | northam R8              | 5 Gallant Ranger      | 15    |    -10   |

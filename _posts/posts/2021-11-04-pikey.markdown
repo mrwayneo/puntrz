@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-04 14:33:08 +1000  
+date: 2021-11-04 23:51:23 +1000  
 categories: None 
 ---   
 
@@ -15,12 +15,12 @@ categories: None
 
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
-| 20:37             | 2021-11-04 | belmont R8            | 5 Memorable Miss      |  5    |    -10   |
-| 20:00             | 2021-11-04 | belmont R7            | 11 Altani             | 16    |    -10   |
-| 18:50             | 2021-11-04 | belmont R5            | 4 Antique Jewel       |  2.8  |    -10   |
-| 17:42             | 2021-11-04 | belmont R3            | 13 Elusive Dream      |  9    |    -10   |
-| 16:59             | 2021-11-04 | belmont R2            | 2 Total Lockdown      | 11    |    -10   |
-| 16:20             | 2021-11-04 | belmont R1            | 10 Beauty In Me       | 10    |    -10   |
+| :2nd_place_medal: | 2021-11-04 | belmont R8            | 5 Memorable Miss      |  5    |    -10   |
+| 6                 | 2021-11-04 | belmont R7            | 11 Altani             | 16    |    -10   |
+| :boom:            | 2021-11-04 | belmont R5            | 4 Antique Jewel       |  2.3  |     13   |
+| 9                 | 2021-11-04 | belmont R3            | 13 Elusive Dream      |  9    |    -10   |
+| 8                 | 2021-11-04 | belmont R2            | 2 Total Lockdown      | 11    |    -10   |
+| :3rd_place_medal: | 2021-11-04 | belmont R1            | 10 Beauty In Me       | 10    |    -10   |
 | 4                 | 2021-11-02 | ascot R10             | 4 Airlie Queen        |  2.9  |    -10   |
 | :boom:            | 2021-11-02 | ascot R7              | 7 Mrs America         |  2.3  |     13   |
 | 0                 | 2021-11-02 | ascot R6              | 11 Arcadia Grace      |  0    |    -10   |

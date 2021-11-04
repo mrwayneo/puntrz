@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-04 14:30:05 +1000  
+date: 2021-11-04 23:49:04 +1000  
 categories: None 
 ---   
 
@@ -15,13 +15,13 @@ categories: None
 
 | finish            | date       | event            | runner               |   win |   return |
 |:------------------|:-----------|:-----------------|:---------------------|------:|---------:|
-| 16:50             | 2021-11-04 | hawkesbury R7    | 1 Quackerjack        |  3.3  |    -10   |
-| 15:50             | 2021-11-04 | flemington R6    | 10 Written Beauty    |  4.8  |    -10   |
-| 15:50             | 2021-11-04 | flemington R6    | 8 Malkovich          |  2.5  |    -10   |
-| 15:50             | 2021-11-04 | flemington R6    | 6 Parsifal           | 13    |    -10   |
-| 15:45             | 2021-11-04 | ipswich R3       | 3 Kessel Run         | 11    |    -10   |
-| 15:35             | 2021-11-04 | hawkesbury R5    | 1 Quiet Riot         |  5    |    -10   |
-| 15:10             | 2021-11-04 | ipswich R2       | 1 Motomiss           |  3.3  |    -10   |
+| 4                 | 2021-11-04 | hawkesbury R7    | 1 Quackerjack        |  3.3  |    -10   |
+| 5                 | 2021-11-04 | flemington R6    | 10 Written Beauty    |  4.8  |    -10   |
+| :2nd_place_medal: | 2021-11-04 | flemington R6    | 8 Malkovich          |  2.5  |    -10   |
+| 4                 | 2021-11-04 | flemington R6    | 6 Parsifal           | 13    |    -10   |
+| 5                 | 2021-11-04 | ipswich R3       | 3 Kessel Run         | 11    |    -10   |
+| 4                 | 2021-11-04 | hawkesbury R5    | 1 Quiet Riot         |  5    |    -10   |
+| :boom:            | 2021-11-04 | ipswich R2       | 1 Motomiss           |  3.1  |     21   |
 | 5                 | 2021-11-04 | flemington R2    | 3 Zing               |  4    |    -10   |
 | 4                 | 2021-11-04 | flemington R2    | 1 Sirileo Miss       |  2.35 |    -10   |
 | 4                 | 2021-11-03 | launceston R6    | 2 Balearic           |  8.5  |    -10   |
@@ -48,8 +48,8 @@ categories: None
 | 4                 | 2021-11-02 | darwin R2        | 5 Dizzy Miss Lizzy   |  4.8  |    -10   |
 | :boom:            | 2021-11-02 | darwin R2        | 4 The Captain        |  3.1  |     21   |
 | :3rd_place_medal: | 2021-11-02 | darwin R2        | 3 Syncline           |  2.35 |    -10   |
-| :2nd_place_medal: | 2021-11-02 | eagle-farm R4    | 7 Fetch              |  2.2  |    -10   |
 | :3rd_place_medal: | 2021-11-02 | eagle-farm R4    | 3 Ralph's Honour     |  4.6  |    -10   |
+| :2nd_place_medal: | 2021-11-02 | eagle-farm R4    | 7 Fetch              |  2.2  |    -10   |
 | 5                 | 2021-11-02 | canberra R5      | 5 Port Douglas       |  4.2  |    -10   |
 | 4                 | 2021-11-02 | ascot R1         | 7 Rebelzone          |  8    |    -10   |
 | :2nd_place_medal: | 2021-11-02 | gold-coast R2    | 3 Winside            |  3.6  |    -10   |
@@ -83,8 +83,8 @@ categories: None
 | 7                 | 2021-10-30 | rosehill R8      | 7 Redoute's Image    |  9.5  |    -10   |
 | 4                 | 2021-10-30 | morphettville R8 | 7 Aussie Nugget      |  7.5  |    -10   |
 | 5                 | 2021-10-30 | morphettville R8 | 4 Ritratto           | 11    |    -10   |
-| 5                 | 2021-10-30 | eagle-farm R8    | 2 Factory Warrior    | 11    |    -10   |
 | 11                | 2021-10-30 | eagle-farm R8    | 1 Montez             |  6    |    -10   |
+| 5                 | 2021-10-30 | eagle-farm R8    | 2 Factory Warrior    | 11    |    -10   |
 | :boom:            | 2021-10-30 | morphettville R7 | 9 Rock The Ring      |  2.1  |     11   |
 | :2nd_place_medal: | 2021-10-30 | flemington R7    | 12 Bruckner          | 41    |    -10   |
 | :3rd_place_medal: | 2021-10-30 | eagle-farm R7    | 1 Genzai The Wolf    |  3.9  |    -10   |
