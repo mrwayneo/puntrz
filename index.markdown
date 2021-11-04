@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-04 23:53:35 +1000  
+date: 2021-11-05 00:06:22 +1000  
 ---   
 
 
@@ -30,22 +30,22 @@ date: 2021-11-04 23:53:35 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     38 |     11 |    428.5 | 0.29 |  1.13 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    173 |     50 |    245.5 | 0.29 |  0.14 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    360 |     75 |   -143   | 0.21 | -0.04 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    195 |     58 |   -167.9 | 0.3  | -0.09 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     37 |     11 |    438.5 | 0.3  |  1.19 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    178 |     51 |    241.5 | 0.29 |  0.14 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    363 |     75 |   -173   | 0.21 | -0.05 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    196 |     58 |   -177.9 | 0.3  | -0.09 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     44 |      6 |   -219   | 0.14 | -0.5  |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     39 |      3 |   -249   | 0.08 | -0.64 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    336 |     81 |   -277.6 | 0.24 | -0.08 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     82 |     13 |   -404.5 | 0.16 | -0.49 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    484 |    121 |   -817   | 0.25 | -0.17 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    588 |    154 |  -1172.5 | 0.26 | -0.2  |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    715 |    101 |  -1215.6 | 0.14 | -0.17 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2632 |    148 |  -1818   | 0.06 | -0.07 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1973 |    458 |  -1912.1 | 0.23 | -0.1  |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3146 |    702 |  -5931.5 | 0.22 | -0.19 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6260 |    911 | -10220.7 | 0.15 | -0.16 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8386 |    450 | -16529.5 | 0.05 | -0.2  |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     43 |      3 |   -289   | 0.07 | -0.67 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     91 |     14 |   -463.5 | 0.15 | -0.51 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    490 |    122 |   -854   | 0.25 | -0.17 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    594 |    153 |  -1250   | 0.26 | -0.21 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    717 |    100 |  -1330.6 | 0.14 | -0.19 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2645 |    148 |  -1920   | 0.06 | -0.07 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1987 |    455 |  -2121.6 | 0.23 | -0.11 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3146 |    699 |  -6051   | 0.22 | -0.19 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6255 |    908 | -10643.7 | 0.15 | -0.17 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8388 |    449 | -17017.5 | 0.05 | -0.2  |
 
 |     | finish                   | time                | track           |   race |   number | name               |   odds | tipster             |
 |----:|:-------------------------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:--------------------|
@@ -104,19 +104,19 @@ date: 2021-11-04 23:53:35 +1000
 |  52 | :soon:                   | 2021-11-05 00:20:00 | vaal            |      5 |        5 | Lemon Delight      |   0    | prometheus          |
 |  53 | :soon:                   | 2021-11-05 00:20:00 | vaal            |      5 |        6 | Top Drawer         |   0    | prometheus          |
 |  54 | :soon:                   | 2021-11-05 00:12:00 | sedgefield      |      2 |        2 | Red Giant          |   4.2  | vulture             |
-|  55 | :soon:                   | 2021-11-05 00:05:00 | ludlow          |      2 |        5 | Muse Of Fire       |   5    | looseknot           |
-|  56 | :soon:                   | 2021-11-05 00:05:00 | ludlow          |      2 |        3 | Zamani             |  19    | roughnut            |
-|  57 | :soon:                   | 2021-11-05 00:05:00 | ludlow          |      2 |        6 | Judex Lefou        |  14    | roughnut            |
-|  58 | :hourglass_flowing_sand: | 2021-11-04 23:55:00 | newbury         |      2 |        2 | Boombawn           |   7    | evenodds,overthrow  |
-|  59 | :hourglass_flowing_sand: | 2021-11-04 23:55:00 | newbury         |      2 |        1 | Broomfield Burg    |   1.65 | evenodds,overthrow  |
-|  60 | :hourglass_flowing_sand: | 2021-11-04 23:55:00 | newbury         |      2 |        4 | Chancycourt        |   8    | evenodds,overthrow  |
-|  61 | :hourglass_flowing_sand: | 2021-11-04 23:55:00 | newbury         |      2 |        7 | Silent Revolution  |   4.4  | overthrow           |
-|  62 | :hourglass_flowing_sand: | 2021-11-04 23:45:00 | vaal            |      4 |        7 | Princess Queen     |   0    | prometheus          |
-|  63 | :hourglass_flowing_sand: | 2021-11-04 23:45:00 | vaal            |      4 |        9 | Allez Les Bleu     |   0    | prometheus          |
-|  64 | :hourglass_flowing_sand: | 2021-11-04 23:45:00 | vaal            |      4 |        2 | Alabama Anna       |   0    | prometheus          |
-|  65 | :hourglass_flowing_sand: | 2021-11-04 23:45:00 | vaal            |      4 |        8 | Zodiac Princess    |   0    | prometheus          |
-|  66 | --                       | 2021-11-04 23:37:00 | sedgefield      |      1 |        2 | Monjules           |   2    | prometheus          |
-|  67 | --                       | 2021-11-04 23:37:00 | sedgefield      |      1 |        5 | Shamrock Wine      |  13    | roughnut            |
+|  55 | :hourglass_flowing_sand: | 2021-11-05 00:05:00 | ludlow          |      2 |        5 | Muse Of Fire       |   5    | looseknot           |
+|  56 | :hourglass_flowing_sand: | 2021-11-05 00:05:00 | ludlow          |      2 |        3 | Zamani             |  19    | roughnut            |
+|  57 | :hourglass_flowing_sand: | 2021-11-05 00:05:00 | ludlow          |      2 |        6 | Judex Lefou        |  14    | roughnut            |
+|  58 | --                       | 2021-11-04 23:55:00 | newbury         |      2 |        2 | Boombawn           |   7    | evenodds,overthrow  |
+|  59 | --                       | 2021-11-04 23:55:00 | newbury         |      2 |        1 | Broomfield Burg    |   1.65 | evenodds,overthrow  |
+|  60 | --                       | 2021-11-04 23:55:00 | newbury         |      2 |        4 | Chancycourt        |   8    | evenodds,overthrow  |
+|  61 | --                       | 2021-11-04 23:55:00 | newbury         |      2 |        7 | Silent Revolution  |   4.4  | overthrow           |
+|  62 | --                       | 2021-11-04 23:45:00 | vaal            |      4 |        7 | Princess Queen     |   0    | prometheus          |
+|  63 | --                       | 2021-11-04 23:45:00 | vaal            |      4 |        9 | Allez Les Bleu     |   0    | prometheus          |
+|  64 | --                       | 2021-11-04 23:45:00 | vaal            |      4 |        2 | Alabama Anna       |   0    | prometheus          |
+|  65 | --                       | 2021-11-04 23:45:00 | vaal            |      4 |        8 | Zodiac Princess    |   0    | prometheus          |
+|  66 | :boom:                   | 2021-11-04 23:37:00 | sedgefield      |      1 |        2 | Monjules           |   2    | prometheus          |
+|  67 | :2nd_place_medal:        | 2021-11-04 23:37:00 | sedgefield      |      1 |        5 | Shamrock Wine      |  13    | roughnut            |
 |  68 | --                       | 2021-11-04 23:30:00 | ludlow          |      1 |        2 | Jaunty Freyja      |  13    | cosmo,roughnut      |
 |  69 | --                       | 2021-11-04 23:10:00 | thurles         |      1 |        2 | Double Jubilee     |  17    | roughnut            |
 |  70 | --                       | 2021-11-04 23:10:00 | thurles         |      1 |        3 | Guido Reni         |  11    | roughnut            |
