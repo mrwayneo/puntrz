@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-04 14:33:39 +1000  
+date: 2021-11-04 23:53:35 +1000  
 ---   
 
 
@@ -107,67 +107,67 @@ date: 2021-11-04 14:33:39 +1000
 |  55 | :soon:                   | 2021-11-05 00:05:00 | ludlow          |      2 |        5 | Muse Of Fire       |   5    | looseknot           |
 |  56 | :soon:                   | 2021-11-05 00:05:00 | ludlow          |      2 |        3 | Zamani             |  19    | roughnut            |
 |  57 | :soon:                   | 2021-11-05 00:05:00 | ludlow          |      2 |        6 | Judex Lefou        |  14    | roughnut            |
-|  58 | :soon:                   | 2021-11-04 23:55:00 | newbury         |      2 |        2 | Boombawn           |   7    | evenodds,overthrow  |
-|  59 | :soon:                   | 2021-11-04 23:55:00 | newbury         |      2 |        1 | Broomfield Burg    |   1.65 | evenodds,overthrow  |
-|  60 | :soon:                   | 2021-11-04 23:55:00 | newbury         |      2 |        4 | Chancycourt        |   8    | evenodds,overthrow  |
-|  61 | :soon:                   | 2021-11-04 23:55:00 | newbury         |      2 |        7 | Silent Revolution  |   4.4  | overthrow           |
-|  62 | :soon:                   | 2021-11-04 23:45:00 | vaal            |      4 |        7 | Princess Queen     |   0    | prometheus          |
-|  63 | :soon:                   | 2021-11-04 23:45:00 | vaal            |      4 |        9 | Allez Les Bleu     |   0    | prometheus          |
-|  64 | :soon:                   | 2021-11-04 23:45:00 | vaal            |      4 |        2 | Alabama Anna       |   0    | prometheus          |
-|  65 | :soon:                   | 2021-11-04 23:45:00 | vaal            |      4 |        8 | Zodiac Princess    |   0    | prometheus          |
-|  66 | :soon:                   | 2021-11-04 23:37:00 | sedgefield      |      1 |        2 | Monjules           |   2    | prometheus          |
-|  67 | :soon:                   | 2021-11-04 23:37:00 | sedgefield      |      1 |        5 | Shamrock Wine      |  13    | roughnut            |
-|  68 | :soon:                   | 2021-11-04 23:30:00 | ludlow          |      1 |        2 | Jaunty Freyja      |  13    | cosmo,roughnut      |
-|  69 | :soon:                   | 2021-11-04 23:10:00 | thurles         |      1 |        2 | Double Jubilee     |  17    | roughnut            |
-|  70 | :soon:                   | 2021-11-04 23:10:00 | thurles         |      1 |        3 | Guido Reni         |  11    | roughnut            |
-|  71 | :soon:                   | 2021-11-04 23:10:00 | thurles         |      1 |        9 | Feyan              |  26    | roughnut            |
-|  72 | :soon:                   | 2021-11-04 23:10:00 | thurles         |      1 |       13 | Where's Bunny      |  13    | roughnut            |
-|  73 | :soon:                   | 2021-11-04 22:35:00 | vaal            |      2 |        1 | General Hancock    |   0    | prometheus          |
-|  74 | :soon:                   | 2021-11-04 22:00:00 | vaal            |      1 |        7 | Full Royalty       |   0    | prometheus          |
-|  75 | :soon:                   | 2021-11-04 22:00:00 | vaal            |      1 |        4 | Courante           |   0    | prometheus          |
-|  76 | :soon:                   | 2021-11-04 22:00:00 | vaal            |      1 |        2 | Beltway            |   0    | prometheus          |
-|  77 | :soon:                   | 2021-11-04 22:00:00 | vaal            |      1 |        8 | Goddess Of Light   |   0    | vulture             |
-|  78 | :soon:                   | 2021-11-04 20:37:00 | belmont         |      8 |        5 | Memorable Miss     |   5    | evenodds,pikey      |
-|  79 | :soon:                   | 2021-11-04 20:00:00 | belmont         |      7 |       11 | Altani             |  16    | pikey               |
-|  80 | :soon:                   | 2021-11-04 20:00:00 | belmont         |      7 |        8 | Enticing           |  17    | cosmo,roughnut      |
-|  81 | :soon:                   | 2021-11-04 19:25:00 | belmont         |      6 |        1 | Skater Boy         |  15    | cosmo,roughnut      |
-|  82 | :soon:                   | 2021-11-04 18:50:00 | belmont         |      5 |        8 | Dance Of The South |  19    | roughnut            |
-|  83 | :soon:                   | 2021-11-04 18:50:00 | belmont         |      5 |        4 | Antique Jewel      |   2.8  | pikey               |
-|  84 | :soon:                   | 2021-11-04 17:42:00 | belmont         |      3 |       13 | Elusive Dream      |   9    | overthrow,pikey     |
-|  85 | :soon:                   | 2021-11-04 17:42:00 | belmont         |      3 |        8 | Westriver Miracle  |   6    | roughnut            |
-|  86 | :soon:                   | 2021-11-04 17:42:00 | belmont         |      3 |        2 | Melwood Coast      |  21    | roughnut            |
-|  87 | :soon:                   | 2021-11-04 17:10:00 | flemington      |      8 |        3 | Daisies            |   4.8  | vulture,jmac        |
-|  88 | :soon:                   | 2021-11-04 17:10:00 | flemington      |      8 |        6 | Douceur            |  17    | cosmo,roughnut      |
-|  89 | :soon:                   | 2021-11-04 16:59:00 | belmont         |      2 |        2 | Total Lockdown     |  11    | pikey               |
-|  90 | :soon:                   | 2021-11-04 16:59:00 | belmont         |      2 |        1 | Disengo            |  11    | cosmo,roughnut      |
-|  91 | :soon:                   | 2021-11-04 16:50:00 | hawkesbury      |      7 |        1 | Quackerjack        |   3.3  | benny,pangea        |
-|  92 | :soon:                   | 2021-11-04 16:50:00 | hawkesbury      |      7 |        9 | Guise              |  16    | roughnut            |
-|  93 | :soon:                   | 2021-11-04 16:25:00 | ipswich         |      4 |       12 | Lucky Bean         |   5    | roughnut            |
-|  94 | :soon:                   | 2021-11-04 16:25:00 | ipswich         |      4 |        1 | Day Day Supreme    |   2.05 | prometheus          |
-|  95 | :soon:                   | 2021-11-04 16:20:00 | belmont         |      1 |        8 | Dance Session      |  10    | cosmo,roughnut      |
-|  96 | :soon:                   | 2021-11-04 16:20:00 | belmont         |      1 |        9 | Winning Pia        |  21    | cosmo,roughnut      |
-|  97 | :soon:                   | 2021-11-04 16:20:00 | belmont         |      1 |       10 | Beauty In Me       |  10    | pikey               |
-|  98 | :soon:                   | 2021-11-04 16:06:00 | wangaratta      |      5 |        2 | Broken Treaty      |   7    | roughnut            |
-|  99 | :soon:                   | 2021-11-04 15:50:00 | flemington      |      6 |        4 | Music Addition     |  81    | roughnut            |
-| 100 | :soon:                   | 2021-11-04 15:50:00 | flemington      |      6 |        8 | Malkovich          |   2.5  | pangea              |
-| 101 | :soon:                   | 2021-11-04 15:50:00 | flemington      |      6 |       10 | Written Beauty     |   4.8  | pangea,jmac         |
-| 102 | :soon:                   | 2021-11-04 15:50:00 | flemington      |      6 |        6 | Parsifal           |  13    | vulture,pangea      |
-| 103 | :soon:                   | 2021-11-04 15:45:00 | ipswich         |      3 |        3 | Kessel Run         |  11    | pangea              |
-| 104 | :soon:                   | 2021-11-04 15:45:00 | ipswich         |      3 |        7 | Albert's In Charge |  17    | cosmo,roughnut      |
-| 105 | :soon:                   | 2021-11-04 15:35:00 | hawkesbury      |      5 |        7 | Celestial Doll     |  15    | cosmo,roughnut      |
-| 106 | :soon:                   | 2021-11-04 15:35:00 | hawkesbury      |      5 |        1 | Quiet Riot         |   5    | benny,pangea        |
-| 107 | :soon:                   | 2021-11-04 15:35:00 | hawkesbury      |      5 |        5 | Daichi             |   3.3  | milkman             |
-| 108 | :soon:                   | 2021-11-04 15:27:00 | gawler          |      4 |        7 | Run And Tell       |  13    | roughnut            |
-| 109 | :soon:                   | 2021-11-04 15:27:00 | gawler          |      4 |        9 | Lucy Diamonds      |  12    | roughnut            |
-| 110 | :soon:                   | 2021-11-04 15:10:00 | ipswich         |      2 |        6 | Special Case       |  26    | cosmo,roughnut      |
-| 111 | :soon:                   | 2021-11-04 15:10:00 | ipswich         |      2 |        1 | Motomiss           |   3.3  | vulture,pangea      |
-| 112 | :soon:                   | 2021-11-04 14:55:00 | hawkesbury      |      4 |       10 | Ba Ai Gei Ni       |  17    | roughnut            |
-| 113 | :soon:                   | 2021-11-04 14:55:00 | hawkesbury      |      4 |        4 | Sir Savaluca       |  11    | vulture             |
-| 114 | :soon:                   | 2021-11-04 14:35:00 | flemington      |      4 |        2 | Flash Aah          |  21    | cosmo,roughnut      |
-| 115 | :soon:                   | 2021-11-04 14:35:00 | flemington      |      4 |        5 | Djukon             |  11    | jmac                |
-| 116 | :hourglass_flowing_sand: | 2021-11-04 14:30:00 | ipswich         |      1 |        7 | Trojan Angel       |  34    | cosmo,roughnut      |
-| 117 | --                       | 2021-11-04 14:15:00 | hawkesbury      |      3 |        7 | Oakfield Cherokee  |   9.5  | cosmo,roughnut      |
-| 118 | --                       | 2021-11-04 14:15:00 | hawkesbury      |      3 |        5 | Phelan Thirsty     |   9.5  | cosmo,roughnut      |
+|  58 | :hourglass_flowing_sand: | 2021-11-04 23:55:00 | newbury         |      2 |        2 | Boombawn           |   7    | evenodds,overthrow  |
+|  59 | :hourglass_flowing_sand: | 2021-11-04 23:55:00 | newbury         |      2 |        1 | Broomfield Burg    |   1.65 | evenodds,overthrow  |
+|  60 | :hourglass_flowing_sand: | 2021-11-04 23:55:00 | newbury         |      2 |        4 | Chancycourt        |   8    | evenodds,overthrow  |
+|  61 | :hourglass_flowing_sand: | 2021-11-04 23:55:00 | newbury         |      2 |        7 | Silent Revolution  |   4.4  | overthrow           |
+|  62 | :hourglass_flowing_sand: | 2021-11-04 23:45:00 | vaal            |      4 |        7 | Princess Queen     |   0    | prometheus          |
+|  63 | :hourglass_flowing_sand: | 2021-11-04 23:45:00 | vaal            |      4 |        9 | Allez Les Bleu     |   0    | prometheus          |
+|  64 | :hourglass_flowing_sand: | 2021-11-04 23:45:00 | vaal            |      4 |        2 | Alabama Anna       |   0    | prometheus          |
+|  65 | :hourglass_flowing_sand: | 2021-11-04 23:45:00 | vaal            |      4 |        8 | Zodiac Princess    |   0    | prometheus          |
+|  66 | --                       | 2021-11-04 23:37:00 | sedgefield      |      1 |        2 | Monjules           |   2    | prometheus          |
+|  67 | --                       | 2021-11-04 23:37:00 | sedgefield      |      1 |        5 | Shamrock Wine      |  13    | roughnut            |
+|  68 | --                       | 2021-11-04 23:30:00 | ludlow          |      1 |        2 | Jaunty Freyja      |  13    | cosmo,roughnut      |
+|  69 | --                       | 2021-11-04 23:10:00 | thurles         |      1 |        2 | Double Jubilee     |  17    | roughnut            |
+|  70 | --                       | 2021-11-04 23:10:00 | thurles         |      1 |        3 | Guido Reni         |  11    | roughnut            |
+|  71 | --                       | 2021-11-04 23:10:00 | thurles         |      1 |        9 | Feyan              |  26    | roughnut            |
+|  72 | --                       | 2021-11-04 23:10:00 | thurles         |      1 |       13 | Where's Bunny      |  13    | roughnut            |
+|  73 | --                       | 2021-11-04 22:35:00 | vaal            |      2 |        1 | General Hancock    |   0    | prometheus          |
+|  74 | 4                        | 2021-11-04 22:00:00 | vaal            |      1 |        7 | Full Royalty       |   0    | prometheus          |
+|  75 | :2nd_place_medal:        | 2021-11-04 22:00:00 | vaal            |      1 |        4 | Courante           |   0    | prometheus          |
+|  76 | --                       | 2021-11-04 22:00:00 | vaal            |      1 |        2 | Beltway            |   0    | prometheus          |
+|  77 | :boom:                   | 2021-11-04 22:00:00 | vaal            |      1 |        8 | Goddess Of Light   |   0    | vulture             |
+|  78 | :2nd_place_medal:        | 2021-11-04 20:37:00 | belmont         |      8 |        5 | Memorable Miss     |   5    | evenodds,pikey      |
+|  79 | 6                        | 2021-11-04 20:00:00 | belmont         |      7 |       11 | Altani             |  16    | pikey               |
+|  80 | 7                        | 2021-11-04 20:00:00 | belmont         |      7 |        8 | Enticing           |  17    | cosmo,roughnut      |
+|  81 | 8                        | 2021-11-04 19:25:00 | belmont         |      6 |        1 | Skater Boy         |  15    | cosmo,roughnut      |
+|  82 | :2nd_place_medal:        | 2021-11-04 18:50:00 | belmont         |      5 |        8 | Dance Of The South |  19    | roughnut            |
+|  83 | :boom:                   | 2021-11-04 18:50:00 | belmont         |      5 |        4 | Antique Jewel      |   2.8  | pikey               |
+|  84 | 9                        | 2021-11-04 17:42:00 | belmont         |      3 |       13 | Elusive Dream      |   9    | overthrow,pikey     |
+|  85 | :3rd_place_medal:        | 2021-11-04 17:42:00 | belmont         |      3 |        8 | Westriver Miracle  |   6    | roughnut            |
+|  86 | 4                        | 2021-11-04 17:42:00 | belmont         |      3 |        2 | Melwood Coast      |  21    | roughnut            |
+|  87 | 5                        | 2021-11-04 17:10:00 | flemington      |      8 |        3 | Daisies            |   4.8  | vulture,jmac        |
+|  88 | :2nd_place_medal:        | 2021-11-04 17:10:00 | flemington      |      8 |        6 | Douceur            |  17    | cosmo,roughnut      |
+|  89 | 8                        | 2021-11-04 16:59:00 | belmont         |      2 |        2 | Total Lockdown     |  11    | pikey               |
+|  90 | :2nd_place_medal:        | 2021-11-04 16:59:00 | belmont         |      2 |        1 | Disengo            |  11    | cosmo,roughnut      |
+|  91 | 4                        | 2021-11-04 16:50:00 | hawkesbury      |      7 |        1 | Quackerjack        |   3.3  | benny,pangea        |
+|  92 | 6                        | 2021-11-04 16:50:00 | hawkesbury      |      7 |        9 | Guise              |  16    | roughnut            |
+|  93 | 4                        | 2021-11-04 16:25:00 | ipswich         |      4 |       12 | Lucky Bean         |   5    | roughnut            |
+|  94 | :2nd_place_medal:        | 2021-11-04 16:25:00 | ipswich         |      4 |        1 | Day Day Supreme    |   2.05 | prometheus          |
+|  95 | :2nd_place_medal:        | 2021-11-04 16:20:00 | belmont         |      1 |        8 | Dance Session      |  10    | cosmo,roughnut      |
+|  96 | 7                        | 2021-11-04 16:20:00 | belmont         |      1 |        9 | Winning Pia        |  21    | cosmo,roughnut      |
+|  97 | :3rd_place_medal:        | 2021-11-04 16:20:00 | belmont         |      1 |       10 | Beauty In Me       |  10    | pikey               |
+|  98 | 5                        | 2021-11-04 16:06:00 | wangaratta      |      5 |        2 | Broken Treaty      |   7    | roughnut            |
+|  99 | --                       | 2021-11-04 15:50:00 | flemington      |      6 |        4 | Music Addition     |  81    | roughnut            |
+| 100 | :2nd_place_medal:        | 2021-11-04 15:50:00 | flemington      |      6 |        8 | Malkovich          |   2.5  | pangea              |
+| 101 | 5                        | 2021-11-04 15:50:00 | flemington      |      6 |       10 | Written Beauty     |   4.8  | pangea,jmac         |
+| 102 | 4                        | 2021-11-04 15:50:00 | flemington      |      6 |        6 | Parsifal           |  13    | vulture,pangea      |
+| 103 | 5                        | 2021-11-04 15:45:00 | ipswich         |      3 |        3 | Kessel Run         |  11    | pangea              |
+| 104 | 4                        | 2021-11-04 15:45:00 | ipswich         |      3 |        7 | Albert's In Charge |  17    | cosmo,roughnut      |
+| 105 | 6                        | 2021-11-04 15:35:00 | hawkesbury      |      5 |        7 | Celestial Doll     |  15    | cosmo,roughnut      |
+| 106 | 4                        | 2021-11-04 15:35:00 | hawkesbury      |      5 |        1 | Quiet Riot         |   5    | benny,pangea        |
+| 107 | :3rd_place_medal:        | 2021-11-04 15:35:00 | hawkesbury      |      5 |        5 | Daichi             |   3.3  | milkman             |
+| 108 | 5                        | 2021-11-04 15:27:00 | gawler          |      4 |        7 | Run And Tell       |  13    | roughnut            |
+| 109 | :boom:                   | 2021-11-04 15:27:00 | gawler          |      4 |        9 | Lucy Diamonds      |  12    | roughnut            |
+| 110 | 6                        | 2021-11-04 15:10:00 | ipswich         |      2 |        6 | Special Case       |  26    | cosmo,roughnut      |
+| 111 | :boom:                   | 2021-11-04 15:10:00 | ipswich         |      2 |        1 | Motomiss           |   3.3  | vulture,pangea      |
+| 112 | :3rd_place_medal:        | 2021-11-04 14:55:00 | hawkesbury      |      4 |       10 | Ba Ai Gei Ni       |  17    | roughnut            |
+| 113 | 6                        | 2021-11-04 14:55:00 | hawkesbury      |      4 |        4 | Sir Savaluca       |  11    | vulture             |
+| 114 | 7                        | 2021-11-04 14:35:00 | flemington      |      4 |        2 | Flash Aah          |  21    | cosmo,roughnut      |
+| 115 | :boom:                   | 2021-11-04 14:35:00 | flemington      |      4 |        5 | Djukon             |  11    | jmac                |
+| 116 | 8                        | 2021-11-04 14:30:00 | ipswich         |      1 |        7 | Trojan Angel       |  34    | cosmo,roughnut      |
+| 117 | 5                        | 2021-11-04 14:15:00 | hawkesbury      |      3 |        7 | Oakfield Cherokee  |   9.5  | cosmo,roughnut      |
+| 118 | 6                        | 2021-11-04 14:15:00 | hawkesbury      |      3 |        5 | Phelan Thirsty     |   9.5  | cosmo,roughnut      |
 | 119 | 6                        | 2021-11-04 14:11:00 | wangaratta      |      2 |        3 | Praetor            |   9.5  | roughnut            |
 | 120 | :boom:                   | 2021-11-04 14:11:00 | wangaratta      |      2 |        5 | Finanza D'oro      |   8    | roughnut            |
 | 121 | 9                        | 2021-11-04 14:11:00 | wangaratta      |      2 |        8 | Chaotic Cranach    |   4.6  | roughnut            |
@@ -180,8 +180,8 @@ date: 2021-11-04 14:33:39 +1000
 | 128 | 8                        | 2021-11-04 12:40:00 | flemington      |      1 |       11 | Spectacle          |  11    | cosmo,roughnut      |
 | 129 | :boom:                   | 2021-11-04 12:40:00 | flemington      |      1 |        2 | Plucky Pirouette   |  19    | cosmo,roughnut      |
 | 130 | 4                        | 2021-11-04 12:40:00 | flemington      |      1 |        3 | Ruru               |   8.5  | jmac                |
-| 131 | --                       | 2021-11-04 11:25:00 | otaki           |      3 |        4 | Midnight Swey      |   7    | roughnut            |
+| 131 | 7                        | 2021-11-04 11:25:00 | otaki           |      3 |        4 | Midnight Swey      |   7    | roughnut            |
 | 132 | :boom:                   | 2021-11-04 10:50:00 | otaki           |      2 |        4 | Wolverine          |   2.1  | prometheus          |
 | 133 | :3rd_place_medal:        | 2021-11-04 10:15:00 | otaki           |      1 |        1 | Brookbourne        |   3.85 | roughnut            |
-| 134 | --                       | 2021-11-04 10:15:00 | otaki           |      1 |        6 | My Bibby           |   4.05 | roughnut            |
+| 134 | 9                        | 2021-11-04 10:15:00 | otaki           |      1 |        6 | My Bibby           |   4.05 | roughnut            |
 | 135 | 4                        | 2021-11-04 10:15:00 | otaki           |      1 |        9 | Zuma Rock          |   9.5  | roughnut            |
