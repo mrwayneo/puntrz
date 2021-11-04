@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-11-05 00:32:06 +1000  
+date: 2021-11-05 09:49:01 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
+| 16:40             | 2021-11-05 | kempsey R7             | 4 Top Me Up Again    |   3.3  |    -10   |
 | :boom:            | 2021-10-31 | ascot R7               | 8 Estacas            |   4.2  |     32   |
 | :boom:            | 2021-10-25 | te-rapa R7             | 1 Gold Watch         |   2.95 |     19.5 |
 | 0                 | 2021-10-24 | trentham R3            | 5 Nobellem           |   0    |    -10   |

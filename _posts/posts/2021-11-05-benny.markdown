@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-11-05 00:29:27 +1000  
+date: 2021-11-05 09:47:28 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
+| 17:30             | 2021-11-05 | rockhampton R7          | 2 Santorini Summer    |  9.5  |    -10   |
+| 16:15             | 2021-11-05 | rockhampton R5          | 5 Boss Baby           |  5.5  |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R7           | 1 Quackerjack         |  3.3  |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R5           | 1 Quiet Riot          |  5    |    -10   |
 | 5                 | 2021-11-04 | flemington R2           | 3 Zing                |  4    |    -10   |
@@ -149,8 +151,8 @@ categories: None
 | 4                 | 2021-09-04 | gold-coast R8           | 2 Moonan Me           |  7    |    -10   |
 | 10                | 2021-09-04 | eagle-farm R9           | 1 Vinco               |  5    |    -10   |
 | 8                 | 2021-09-04 | belmont R5              | 3 Campese             |  2.05 |    -10   |
-| :3rd_place_medal: | 2021-09-04 | eagle-farm R7           | 3 Ready Babe          | 18    |    -10   |
 | :boom:            | 2021-09-04 | eagle-farm R7           | 4 Ingear              |  2.5  |     15   |
+| :3rd_place_medal: | 2021-09-04 | eagle-farm R7           | 3 Ready Babe          | 18    |    -10   |
 | :2nd_place_medal: | 2021-09-04 | belmont R3              | 2 Dunbar              |  2.8  |    -10   |
 | :3rd_place_medal: | 2021-09-04 | randwick R7             | 5 Star of the Seas    | 11    |    -10   |
 | 4                 | 2021-09-04 | newcastle R4            | 5 False Step          | 10    |    -10   |
@@ -166,8 +168,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-28 | darwin R4               | 2 Sebrakate           | 15    |    -10   |
 | 9                 | 2021-08-28 | darwin R3               | 3 Kaptan Apollo       | 26    |    -10   |
 | :boom:            | 2021-08-28 | darwin R3               | 4 Patriot Day         | 10.5  |     95   |
-| 7                 | 2021-08-28 | cairns R6               | 8 Bold Type           |  4.2  |    -10   |
 | 11                | 2021-08-28 | cairns R6               | 3 Hidden in Heaven    | 34    |    -10   |
+| 7                 | 2021-08-28 | cairns R6               | 8 Bold Type           |  4.2  |    -10   |
 | 5                 | 2021-08-28 | caulfield R6            | 10 Diamonds Inthe Sky | 21    |    -10   |
 | 7                 | 2021-08-28 | darwin R2               | 3 Trebla              |  5.5  |    -10   |
 | 9                 | 2021-08-28 | doomben R6              | 4 Let's Party Marty   | 19    |    -10   |
