@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-05 00:04:39 +1000  
+date: 2021-11-05 00:30:39 +1000  
 categories: None 
 ---   
 
@@ -48,8 +48,8 @@ categories: None
 | 4                 | 2021-11-02 | darwin R2        | 5 Dizzy Miss Lizzy   |  4.8  |    -10   |
 | :boom:            | 2021-11-02 | darwin R2        | 4 The Captain        |  3.1  |     21   |
 | :3rd_place_medal: | 2021-11-02 | darwin R2        | 3 Syncline           |  2.35 |    -10   |
-| :2nd_place_medal: | 2021-11-02 | eagle-farm R4    | 7 Fetch              |  2.2  |    -10   |
 | :3rd_place_medal: | 2021-11-02 | eagle-farm R4    | 3 Ralph's Honour     |  4.6  |    -10   |
+| :2nd_place_medal: | 2021-11-02 | eagle-farm R4    | 7 Fetch              |  2.2  |    -10   |
 | 5                 | 2021-11-02 | canberra R5      | 5 Port Douglas       |  4.2  |    -10   |
 | 4                 | 2021-11-02 | ascot R1         | 7 Rebelzone          |  8    |    -10   |
 | :2nd_place_medal: | 2021-11-02 | gold-coast R2    | 3 Winside            |  3.6  |    -10   |
@@ -83,8 +83,8 @@ categories: None
 | 7                 | 2021-10-30 | rosehill R8      | 7 Redoute's Image    |  9.5  |    -10   |
 | 4                 | 2021-10-30 | morphettville R8 | 7 Aussie Nugget      |  7.5  |    -10   |
 | 5                 | 2021-10-30 | morphettville R8 | 4 Ritratto           | 11    |    -10   |
-| 5                 | 2021-10-30 | eagle-farm R8    | 2 Factory Warrior    | 11    |    -10   |
 | 11                | 2021-10-30 | eagle-farm R8    | 1 Montez             |  6    |    -10   |
+| 5                 | 2021-10-30 | eagle-farm R8    | 2 Factory Warrior    | 11    |    -10   |
 | :boom:            | 2021-10-30 | morphettville R7 | 9 Rock The Ring      |  2.1  |     11   |
 | :2nd_place_medal: | 2021-10-30 | flemington R7    | 12 Bruckner          | 41    |    -10   |
 | :3rd_place_medal: | 2021-10-30 | eagle-farm R7    | 1 Genzai The Wolf    |  3.9  |    -10   |
