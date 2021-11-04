@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-04 08:17:42 +1000  
+date: 2021-11-04 14:30:05 +1000  
 categories: None 
 ---   
 
@@ -22,8 +22,8 @@ categories: None
 | 15:45             | 2021-11-04 | ipswich R3       | 3 Kessel Run         | 11    |    -10   |
 | 15:35             | 2021-11-04 | hawkesbury R5    | 1 Quiet Riot         |  5    |    -10   |
 | 15:10             | 2021-11-04 | ipswich R2       | 1 Motomiss           |  3.3  |    -10   |
-| 13:15             | 2021-11-04 | flemington R2    | 3 Zing               |  4    |    -10   |
-| 13:15             | 2021-11-04 | flemington R2    | 1 Sirileo Miss       |  2.35 |    -10   |
+| 5                 | 2021-11-04 | flemington R2    | 3 Zing               |  4    |    -10   |
+| 4                 | 2021-11-04 | flemington R2    | 1 Sirileo Miss       |  2.35 |    -10   |
 | 4                 | 2021-11-03 | launceston R6    | 2 Balearic           |  8.5  |    -10   |
 | :boom:            | 2021-11-03 | port-lincoln R1  | 1 Spanish Heirloom   |  2.1  |     11   |
 | 0                 | 2021-11-03 | vaal R5          | 1 Western Fort       |  0    |    -10   |

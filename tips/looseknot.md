@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-11-04 08:19:27 +1000  
+date: 2021-11-04 14:30:40 +1000  
 categories: None 
 ---   
 
@@ -20,7 +20,7 @@ categories: None
 | 01:50             | 2021-11-05 | chelmsford-city R1            | 6 Accelerando         |   5    |    -10   |
 | 00:20             | 2021-11-05 | thurles R3                    | 16 Frontline Worker   |   7.5  |    -10   |
 | 00:05             | 2021-11-05 | ludlow R2                     | 5 Muse Of Fire        |   5    |    -10   |
-| 14:07             | 2021-11-04 | gawler R2                     | 7 Fields Of Athenry   |   4    |    -10   |
+| :3rd_place_medal: | 2021-11-04 | gawler R2                     | 7 Fields Of Athenry   |   4    |    -10   |
 | 0                 | 2021-11-04 | kempton R2                    | 8 Kirilenko           |   0    |    -10   |
 | 0                 | 2021-11-04 | kempton R1                    | 6 Adatorio            |   0    |    -10   |
 | :2nd_place_medal: | 2021-11-04 | nottingham R3                 | 4 Glam De Vega        |   5    |    -10   |

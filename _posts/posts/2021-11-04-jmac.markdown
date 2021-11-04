@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-11-04 08:22:58 +1000  
+date: 2021-11-04 14:33:00 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,11 @@ categories: None
 
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
+| 17:10             | 2021-11-04 | flemington R8     | 3 Daisies             |  4.8  |    -10   |
+| 15:50             | 2021-11-04 | flemington R6     | 10 Written Beauty     |  4.8  |    -10   |
+| 14:35             | 2021-11-04 | flemington R4     | 5 Djukon              | 11    |    -10   |
+| 5                 | 2021-11-04 | flemington R2     | 3 Zing                |  4    |    -10   |
+| 4                 | 2021-11-04 | flemington R1     | 3 Ruru                |  8.5  |    -10   |
 | 10                | 2021-11-02 | flemington R10    | 6 Pandemic            |  4.8  |    -10   |
 | 0                 | 2021-11-02 | flemington R8     | 11 Promise Of Success |  0    |    -10   |
 | :boom:            | 2021-11-02 | flemington R7     | 4 Verry Elleegant     | 16.5  |    155   |

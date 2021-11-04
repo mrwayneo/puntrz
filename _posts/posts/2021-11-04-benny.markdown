@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-11-04 08:16:33 +1000  
+date: 2021-11-04 14:29:29 +1000  
 categories: None 
 ---   
 
@@ -17,8 +17,8 @@ categories: None
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
 | 16:50             | 2021-11-04 | hawkesbury R7           | 1 Quackerjack         |  3.3  |    -10   |
 | 15:35             | 2021-11-04 | hawkesbury R5           | 1 Quiet Riot          |  5    |    -10   |
-| 13:15             | 2021-11-04 | flemington R2           | 3 Zing                |  4    |    -10   |
-| 13:15             | 2021-11-04 | flemington R2           | 1 Sirileo Miss        |  2.35 |    -10   |
+| 5                 | 2021-11-04 | flemington R2           | 3 Zing                |  4    |    -10   |
+| 4                 | 2021-11-04 | flemington R2           | 1 Sirileo Miss        |  2.35 |    -10   |
 | 4                 | 2021-11-03 | launceston R6           | 2 Balearic            |  8.5  |    -10   |
 | 8                 | 2021-11-02 | darwin R7               | 5 Taciturn            |  4.8  |    -10   |
 | :2nd_place_medal: | 2021-11-02 | darwin R6               | 3 El Sicario          |  3.9  |    -10   |
