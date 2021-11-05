@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-11-05 16:03:29 +1000  
+date: 2021-11-05 22:41:24 +1000  
 categories: None 
 ---   
 
@@ -20,10 +20,10 @@ categories: None
 | 02:30             | 2021-11-06 | newcastle R3           | 1 Enigmatic          |  12   |      -10 |
 | 01:25             | 2021-11-06 | newcastle R1           | 8 Wee Poppy          |  34   |      -10 |
 | 23:40             | 2021-11-05 | fontwell R1            | 11 Checkitsme        |  71   |      -10 |
-| 18:34             | 2021-11-05 | rockhampton R9         | 3 Ventures Benir     |  15   |      -10 |
-| 17:30             | 2021-11-05 | rockhampton R7         | 2 Santorini Summer   |   9.5 |      -10 |
-| 16:50             | 2021-11-05 | rockhampton R6         | 3 Rock 'n' Sol       |  13   |      -10 |
-| 16:40             | 2021-11-05 | kempsey R7             | 7 Righthere Rightnow |  26   |      -10 |
+| 6                 | 2021-11-05 | rockhampton R9         | 3 Ventures Benir     |  15   |      -10 |
+| 4                 | 2021-11-05 | rockhampton R7         | 2 Santorini Summer   |   9.5 |      -10 |
+| 5                 | 2021-11-05 | rockhampton R6         | 3 Rock 'n' Sol       |  13   |      -10 |
+| :3rd_place_medal: | 2021-11-05 | kempsey R7             | 7 Righthere Rightnow |  26   |      -10 |
 | 0                 | 2021-11-05 | chelmsford-city R5     | 6 Influencer         |   0   |      -10 |
 | 0                 | 2021-11-05 | chelmsford-city R4     | 8 Maysong            |   0   |      -10 |
 | 0                 | 2021-11-05 | sedgefield R6          | 10 Barnay            |   0   |      -10 |
@@ -68,9 +68,9 @@ categories: None
 | 5                 | 2021-11-02 | darwin R5              | 4 Lionel             |  26   |      -10 |
 | 8                 | 2021-11-02 | ascot R5               | 9 Canto De Guerra    |  71   |      -10 |
 | 6                 | 2021-11-02 | ascot R5               | 3 Moet de Vega       |  12   |      -10 |
+| 15                | 2021-11-02 | flemington R10         | 3 Despatch           |  51   |      -10 |
 | 4                 | 2021-11-02 | flemington R10         | 11 Munitions         |  34   |      -10 |
 | 12                | 2021-11-02 | flemington R10         | 2 Sansom             |  61   |      -10 |
-| 15                | 2021-11-02 | flemington R10         | 3 Despatch           |  51   |      -10 |
 | 7                 | 2021-11-02 | morphettville R7       | 4 Ginny Ann          |  11   |      -10 |
 | 8                 | 2021-11-02 | morphettville R7       | 5 Distant Lover      |  15   |      -10 |
 | 6                 | 2021-11-02 | darwin R3              | 1 Gladiolo           |   8   |      -10 |

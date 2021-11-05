@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-11-05 16:02:39 +1000  
+date: 2021-11-05 22:41:14 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 17:30             | 2021-11-05 | rockhampton R7         | 1 Big Jake            |  2.7  |    -10   |
+| :2nd_place_medal: | 2021-11-05 | rockhampton R7         | 1 Big Jake            |  2.7  |    -10   |
 | 4                 | 2021-11-03 | launceston R6          | 2 Balearic            |  8.5  |    -10   |
 | 6                 | 2021-11-02 | eagle-farm R7          | 4 Le Palmier          |  2.3  |    -10   |
 | :boom:            | 2021-11-02 | eagle-farm R6          | 4 Ingear              |  1.8  |      8   |

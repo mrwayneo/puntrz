@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2021-11-05 16:00:17 +1000  
+date: 2021-11-05 22:40:37 +1000  
 categories: None 
 ---   
 
@@ -16,9 +16,9 @@ categories: None
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
 | 23:50             | 2021-11-05 | warwick R1             | 6 In This World       |  0    |    -10   |
-| 20:00             | 2021-11-05 | sunshine-coast R3      | 2 Maya Bay            |  2.15 |    -10   |
-| 20:00             | 2021-11-05 | sunshine-coast R3      | 7 Allez Zou           |  4.8  |    -10   |
-| 17:30             | 2021-11-05 | rockhampton R7         | 1 Big Jake            |  2.7  |    -10   |
+| 4                 | 2021-11-05 | sunshine-coast R3      | 2 Maya Bay            |  2.15 |    -10   |
+| :boom:            | 2021-11-05 | sunshine-coast R3      | 7 Allez Zou           |  4.4  |     34   |
+| :2nd_place_medal: | 2021-11-05 | rockhampton R7         | 1 Big Jake            |  2.7  |    -10   |
 | 0                 | 2021-11-05 | chelmsford-city R3     | 2 Manaafith           |  0    |    -10   |
 | 0                 | 2021-11-05 | newbury R4             | 5 Elle Est Belle      |  0    |    -10   |
 | 0                 | 2021-11-05 | newbury R3             | 4 Silver Forever      |  0    |    -10   |

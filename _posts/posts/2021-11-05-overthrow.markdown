@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-11-05 16:01:47 +1000  
+date: 2021-11-05 22:41:01 +1000  
 categories: None 
 ---   
 
@@ -25,14 +25,14 @@ categories: None
 | 00:25             | 2021-11-06 | warwick R2         | 3 Complete Unknown    |  0    |    -10   |
 | 00:25             | 2021-11-06 | warwick R2         | 2 Blue Stello         |  0    |    -10   |
 | 23:50             | 2021-11-05 | warwick R1         | 6 In This World       |  0    |    -10   |
-| 22:00             | 2021-11-05 | sunshine-coast R7  | 1 Demurral            |  4.2  |    -10   |
-| 20:30             | 2021-11-05 | sunshine-coast R4  | 4 Deep Tempest        |  2.6  |    -10   |
-| 20:00             | 2021-11-05 | sunshine-coast R3  | 7 Allez Zou           |  4.8  |    -10   |
-| 20:00             | 2021-11-05 | sunshine-coast R3  | 2 Maya Bay            |  2.15 |    -10   |
-| 19:30             | 2021-11-05 | sunshine-coast R2  | 7 Mah Precious        |  7.5  |    -10   |
-| 19:30             | 2021-11-05 | sunshine-coast R2  | 1 Argyle Pink         | 21    |    -10   |
-| 18:52             | 2021-11-05 | sunshine-coast R1  | 8 Muschialli          |  6    |    -10   |
-| 17:30             | 2021-11-05 | rockhampton R7     | 1 Big Jake            |  2.7  |    -10   |
+| :boom:            | 2021-11-05 | sunshine-coast R7  | 1 Demurral            |  3.2  |     22   |
+| :boom:            | 2021-11-05 | sunshine-coast R4  | 4 Deep Tempest        |  2.3  |     13   |
+| :boom:            | 2021-11-05 | sunshine-coast R3  | 7 Allez Zou           |  4.4  |     34   |
+| 4                 | 2021-11-05 | sunshine-coast R3  | 2 Maya Bay            |  2.15 |    -10   |
+| 13                | 2021-11-05 | sunshine-coast R2  | 7 Mah Precious        |  7.5  |    -10   |
+| 4                 | 2021-11-05 | sunshine-coast R2  | 1 Argyle Pink         | 21    |    -10   |
+| :boom:            | 2021-11-05 | sunshine-coast R1  | 8 Muschialli          |  4.5  |     35   |
+| :2nd_place_medal: | 2021-11-05 | rockhampton R7     | 1 Big Jake            |  2.7  |    -10   |
 | :3rd_place_medal: | 2021-11-05 | rockhampton R4     | 2 Better Than Elvis   |  4    |    -10   |
 | :boom:            | 2021-11-05 | rockhampton R2     | 5 Dawson Diamond      |  3.2  |     22   |
 | 0                 | 2021-11-05 | chelmsford-city R3 | 2 Manaafith           |  0    |    -10   |
@@ -59,9 +59,9 @@ categories: None
 | 0                 | 2021-11-04 | chepstow R7        | 12 Riskintheground    |  0    |    -10   |
 | 0                 | 2021-11-04 | chepstow R6        | 5 Don Alvaro          |  0    |    -10   |
 | 0                 | 2021-11-04 | chepstow R6        | 3 Camdonian           |  0    |    -10   |
+| 0                 | 2021-11-04 | chepstow R5        | 13 Powerstown Park    |  0    |    -10   |
 | 0                 | 2021-11-04 | chepstow R5        | 7 Tokay Dokey         |  0    |    -10   |
 | 0                 | 2021-11-04 | chepstow R5        | 6 Brewers Project     |  0    |    -10   |
-| 0                 | 2021-11-04 | chepstow R5        | 13 Powerstown Park    |  0    |    -10   |
 | :boom:            | 2021-11-03 | chepstow R1        | 8 Hardkore            | 15    |    140   |
 | 7                 | 2021-11-03 | chepstow R1        | 2 Carry On The Magic  | 21    |    -10   |
 | 7                 | 2021-11-03 | launceston R5      | 6 Needs Remembering   |  4.8  |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-05 16:01:31 +1000  
+date: 2021-11-05 22:40:58 +1000  
 categories: None 
 ---   
 
@@ -15,10 +15,10 @@ categories: None
 
 | finish            | date       | event             | runner               |   win |   return |
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
-| 20:00             | 2021-11-05 | sunshine-coast R3 | 2 Maya Bay           |  2.15 |    -10   |
-| 17:30             | 2021-11-05 | rockhampton R7    | 1 Big Jake           |  2.7  |    -10   |
-| 17:30             | 2021-11-05 | rockhampton R7    | 2 Santorini Summer   |  9.5  |    -10   |
-| 16:15             | 2021-11-05 | rockhampton R5    | 5 Boss Baby          |  5.5  |    -10   |
+| 4                 | 2021-11-05 | sunshine-coast R3 | 2 Maya Bay           |  2.15 |    -10   |
+| :2nd_place_medal: | 2021-11-05 | rockhampton R7    | 1 Big Jake           |  2.7  |    -10   |
+| 4                 | 2021-11-05 | rockhampton R7    | 2 Santorini Summer   |  9.5  |    -10   |
+| :3rd_place_medal: | 2021-11-05 | rockhampton R5    | 5 Boss Baby          |  5.5  |    -10   |
 | :2nd_place_medal: | 2021-11-05 | rockhampton R1    | 1 Mocial Chief       |  1.4  |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R7     | 1 Quackerjack        |  3.3  |    -10   |
 | 5                 | 2021-11-04 | flemington R6     | 10 Written Beauty    |  4.8  |    -10   |

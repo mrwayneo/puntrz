@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-11-05 16:05:04 +1000  
+date: 2021-11-05 22:41:44 +1000  
 categories: None 
 ---   
 
@@ -62,16 +62,16 @@ categories: None
 | 22:55             | 2021-11-05 | fairview R4        | 2 Fort Snow           |  0    |    -10   |
 | 22:55             | 2021-11-05 | fairview R4        | 8 Khal Drogo          |  0    |    -10   |
 | 22:55             | 2021-11-05 | fairview R4        | 9 Grace From Above    |  0    |    -10   |
-| 22:20             | 2021-11-05 | fairview R3        | 16 Trippin The Stars  |  0    |    -10   |
-| 22:20             | 2021-11-05 | fairview R3        | 15 Elusive Diva       |  0    |    -10   |
-| 22:20             | 2021-11-05 | fairview R3        | 13 Quick Wit          |  0    |    -10   |
-| 22:20             | 2021-11-05 | fairview R3        | 10 Derecho            |  0    |    -10   |
-| 22:20             | 2021-11-05 | fairview R3        | 9 Forward March       |  0    |    -10   |
-| 22:20             | 2021-11-05 | fairview R3        | 8 Catch The Cat       |  0    |    -10   |
-| 22:20             | 2021-11-05 | fairview R3        | 5 Lady Nica           |  0    |    -10   |
-| 22:20             | 2021-11-05 | fairview R3        | 1 Cecca               |  0    |    -10   |
-| 22:20             | 2021-11-05 | fairview R3        | 12 Voltron            |  0    |    -10   |
-| 21:45             | 2021-11-05 | fairview R2        | 4 Nova Stella         |  0    |    -10   |
+| 0                 | 2021-11-05 | fairview R3        | 16 Trippin The Stars  |  0    |    -10   |
+| 0                 | 2021-11-05 | fairview R3        | 15 Elusive Diva       |  0    |    -10   |
+| 0                 | 2021-11-05 | fairview R3        | 13 Quick Wit          |  0    |    -10   |
+| 0                 | 2021-11-05 | fairview R3        | 10 Derecho            |  0    |    -10   |
+| 0                 | 2021-11-05 | fairview R3        | 9 Forward March       |  0    |    -10   |
+| 0                 | 2021-11-05 | fairview R3        | 8 Catch The Cat       |  0    |    -10   |
+| 0                 | 2021-11-05 | fairview R3        | 5 Lady Nica           |  0    |    -10   |
+| 0                 | 2021-11-05 | fairview R3        | 1 Cecca               |  0    |    -10   |
+| 0                 | 2021-11-05 | fairview R3        | 12 Voltron            |  0    |    -10   |
+| 0                 | 2021-11-05 | fairview R2        | 4 Nova Stella         |  0    |    -10   |
 | 4                 | 2021-11-05 | rockhampton R4     | 1 Twostone Lighter    |  2.35 |    -10   |
 | 5                 | 2021-11-05 | rockhampton R3     | 1 Bright And Ready    |  2.8  |    -10   |
 | 0                 | 2021-11-05 | chelmsford-city R3 | 5 Assessment          |  0    |    -10   |
@@ -147,22 +147,22 @@ categories: None
 | 0                 | 2021-11-03 | vaal R8            | 8 Space Race          |  0    |    -10   |
 | 0                 | 2021-11-03 | vaal R8            | 3 Midnight Badger     |  0    |    -10   |
 | 0                 | 2021-11-03 | vaal R8            | 14 Fantasy Flower     |  0    |    -10   |
+| 0                 | 2021-11-03 | vaal R7            | 8 Gilda Gray          |  0    |    -10   |
+| 0                 | 2021-11-03 | vaal R7            | 7 Eastern Belle       |  0    |    -10   |
 | 0                 | 2021-11-03 | vaal R7            | 13 Rose Willow        |  0    |    -10   |
 | 0                 | 2021-11-03 | vaal R7            | 11 Burnt Jasper       |  0    |    -10   |
 | 0                 | 2021-11-03 | vaal R7            | 10 Indigo Winter      |  0    |    -10   |
-| 0                 | 2021-11-03 | vaal R7            | 8 Gilda Gray          |  0    |    -10   |
-| 0                 | 2021-11-03 | vaal R7            | 7 Eastern Belle       |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-03 | exeter R4          | 2 Honest Vic          |  2.75 |    -10   |
 | 0                 | 2021-11-03 | vaal R6            | 2 Ululate             |  0    |    -10   |
 | 0                 | 2021-11-03 | vaal R6            | 5 Phoenix             |  0    |    -10   |
 | 0                 | 2021-11-03 | vaal R6            | 6 Lee Express         |  0    |    -10   |
-| 0                 | 2021-11-03 | vaal R5            | 4 Twin Turbo          |  0    |    -10   |
 | 0                 | 2021-11-03 | vaal R5            | 6 Juan Carlos         |  0    |    -10   |
-| 0                 | 2021-11-03 | vaal R5            | 1 Western Fort        |  0    |    -10   |
 | 0                 | 2021-11-03 | vaal R5            | 5 Laird Of Breedon    |  0    |    -10   |
-| 0                 | 2021-11-03 | vaal R5            | 2 Oyster King         |  0    |    -10   |
-| 0                 | 2021-11-03 | vaal R5            | 7 Earl                |  0    |    -10   |
+| 0                 | 2021-11-03 | vaal R5            | 1 Western Fort        |  0    |    -10   |
 | 0                 | 2021-11-03 | vaal R5            | 8 Fsquadron           |  0    |    -10   |
+| 0                 | 2021-11-03 | vaal R5            | 2 Oyster King         |  0    |    -10   |
+| 0                 | 2021-11-03 | vaal R5            | 4 Twin Turbo          |  0    |    -10   |
+| 0                 | 2021-11-03 | vaal R5            | 7 Earl                |  0    |    -10   |
 | 0                 | 2021-11-03 | vaal R4            | 5 Olympic Silk        |  0    |    -10   |
 | 0                 | 2021-11-03 | vaal R4            | 1 Western Dance       |  0    |    -10   |
 | 0                 | 2021-11-03 | redcar R3          | 7 Desert History      |  0    |    -10   |
@@ -241,12 +241,12 @@ categories: None
 | 0                 | 2021-11-01 | greyville R5       | 7 Tempting Fate       |  0    |    -10   |
 | 0                 | 2021-11-01 | greyville R5       | 5 Filippo             |  0    |    -10   |
 | 0                 | 2021-11-01 | greyville R5       | 4 Ishnana             |  0    |    -10   |
+| 0                 | 2021-10-31 | greyville R4       | 6 Karoo Lark          |  0    |    -10   |
+| 0                 | 2021-10-31 | greyville R4       | 1 Antigonus           |  0    |    -10   |
 | 0                 | 2021-10-31 | greyville R4       | 13 Farland            |  0    |    -10   |
 | 4                 | 2021-10-31 | greyville R4       | 12 Cabinet Shuffle    |  0    |    -10   |
 | :boom:            | 2021-10-31 | greyville R4       | 9 Tread Swiftly       |  6    |     50   |
 | 0                 | 2021-10-31 | greyville R4       | 8 Sacred Blues        |  0    |    -10   |
-| 0                 | 2021-10-31 | greyville R4       | 6 Karoo Lark          |  0    |    -10   |
-| 0                 | 2021-10-31 | greyville R4       | 1 Antigonus           |  0    |    -10   |
 | 0                 | 2021-10-31 | greyville R3       | 7 Blackwhitedynamite  |  0    |    -10   |
 | 0                 | 2021-10-31 | greyville R3       | 4 William The Good    |  0    |    -10   |
 | 4                 | 2021-10-31 | greyville R2       | 5 Global Secret       |  0    |    -10   |
@@ -268,11 +268,11 @@ categories: None
 | 0                 | 2021-10-31 | happy-valley R5    | 2 Vincy               |  0    |    -10   |
 | :2nd_place_medal: | 2021-10-31 | happy-valley R5    | 9 Above               |  0    |    -10   |
 | 5                 | 2021-10-31 | cairns R6          | 2 War General         |  2.9  |    -10   |
+| 0                 | 2021-10-31 | happy-valley R2    | 6 Loving A Boom       |  0    |    -10   |
+| 0                 | 2021-10-31 | happy-valley R2    | 5 Valiant Dream       |  0    |    -10   |
 | 0                 | 2021-10-31 | happy-valley R2    | 3 Classic Unicorn     |  0    |    -10   |
 | 0                 | 2021-10-31 | happy-valley R2    | 2 Hong Kong Win       |  0    |    -10   |
 | :boom:            | 2021-10-31 | happy-valley R2    | 7 Sight Success       |  3.7  |     27   |
-| 0                 | 2021-10-31 | happy-valley R2    | 6 Loving A Boom       |  0    |    -10   |
-| 0                 | 2021-10-31 | happy-valley R2    | 5 Valiant Dream       |  0    |    -10   |
 | 4                 | 2021-10-31 | narrogin R1        | 5 I'm A Dreamer       |  2.45 |    -10   |
 | 6                 | 2021-10-31 | muswellbrook R5    | 2 Allande             |  2.5  |    -10   |
 | :2nd_place_medal: | 2021-10-31 | cairns R1          | 1 Smarty Lee          |  2    |    -10   |
@@ -282,11 +282,11 @@ categories: None
 | 0                 | 2021-10-31 | kenilworth R8      | 8 Hammie's Fan        |  0    |    -10   |
 | 0                 | 2021-10-31 | kenilworth R8      | 2 Rocket Girl         |  0    |    -10   |
 | 0                 | 2021-10-31 | kenilworth R8      | 7 A Moment Apart      |  0    |    -10   |
-| 0                 | 2021-10-31 | turffontein R10    | 12 Grand Destiny      |  0    |    -10   |
 | 0                 | 2021-10-31 | turffontein R10    | 11 Ginjamatinja       |  0    |    -10   |
 | :3rd_place_medal: | 2021-10-31 | turffontein R10    | 2 Global Player       |  0    |    -10   |
-| 0                 | 2021-10-31 | turffontein R10    | 6 Cross Examiner      |  0    |    -10   |
 | 0                 | 2021-10-31 | turffontein R10    | 8 Cosmic Rush         |  0    |    -10   |
+| 0                 | 2021-10-31 | turffontein R10    | 12 Grand Destiny      |  0    |    -10   |
+| 0                 | 2021-10-31 | turffontein R10    | 6 Cross Examiner      |  0    |    -10   |
 | :boom:            | 2021-10-31 | musselburgh R7     | 3 Kopa Kilana         |  5    |     40   |
 | 0                 | 2021-10-31 | kenilworth R7      | 16 Winter Scout       |  0    |    -10   |
 | 4                 | 2021-10-31 | kenilworth R7      | 3 Bush Tracker        |  0    |    -10   |

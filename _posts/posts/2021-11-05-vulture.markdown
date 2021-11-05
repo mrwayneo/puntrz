@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2021-11-05 16:00:33 +1000  
+date: 2021-11-05 22:40:41 +1000  
 categories: None 
 ---   
 
@@ -18,11 +18,11 @@ categories: None
 | 03:05             | 2021-11-06 | warwick R7             | 9 Game On For Glory   |  0    |    -10   |
 | 23:50             | 2021-11-05 | warwick R1             | 4 Greystoke           |  0    |    -10   |
 | 23:50             | 2021-11-05 | warwick R1             | 3 Graystone           |  0    |    -10   |
-| 20:00             | 2021-11-05 | sunshine-coast R3      | 2 Maya Bay            |  2.15 |    -10   |
-| 18:52             | 2021-11-05 | sunshine-coast R1      | 11 Richunclemoneybags |  5.5  |    -10   |
-| 17:30             | 2021-11-05 | rockhampton R7         | 1 Big Jake            |  2.7  |    -10   |
-| 16:50             | 2021-11-05 | rockhampton R6         | 2 Ollie's Stand       |  2.3  |    -10   |
-| 16:15             | 2021-11-05 | rockhampton R5         | 5 Boss Baby           |  5.5  |    -10   |
+| 4                 | 2021-11-05 | sunshine-coast R3      | 2 Maya Bay            |  2.15 |    -10   |
+| 4                 | 2021-11-05 | sunshine-coast R1      | 11 Richunclemoneybags |  5.5  |    -10   |
+| :2nd_place_medal: | 2021-11-05 | rockhampton R7         | 1 Big Jake            |  2.7  |    -10   |
+| :boom:            | 2021-11-05 | rockhampton R6         | 2 Ollie's Stand       |  2.3  |     13   |
+| :3rd_place_medal: | 2021-11-05 | rockhampton R5         | 5 Boss Baby           |  5.5  |    -10   |
 | :boom:            | 2021-11-05 | warrnambool R4         | 3 Blue Army           |  1.5  |      5   |
 | 0                 | 2021-11-05 | chelmsford-city R3     | 2 Manaafith           |  0    |    -10   |
 | 0                 | 2021-11-05 | newbury R7             | 7 Rambo T             |  0    |    -10   |
@@ -232,9 +232,9 @@ categories: None
 | :2nd_place_medal: | 2021-10-23 | cheltenham R4          | 4 Danny Kirwan        |  0    |    -10   |
 | 0                 | 2021-10-23 | cheltenham R4          | 2 Back On The Lash    |  0    |    -10   |
 | :3rd_place_medal: | 2021-10-23 | newbury R4             | 5 Skytree             |  0    |    -10   |
-| :2nd_place_medal: | 2021-10-23 | cheltenham R2          | 4 Buddy Rich          |  0    |    -10   |
 | :3rd_place_medal: | 2021-10-23 | cheltenham R2          | 3 Any News            |  0    |    -10   |
 | 4                 | 2021-10-23 | cheltenham R2          | 1 Fidelio Vallis      |  0    |    -10   |
+| :2nd_place_medal: | 2021-10-23 | cheltenham R2          | 4 Buddy Rich          |  0    |    -10   |
 | :boom:            | 2021-10-22 | cheltenham R1          | 1 Camprond            |  1.35 |      3.5 |
 | :2nd_place_medal: | 2021-10-22 | cheltenham R1          | 2 Mars Harper         |  0    |    -10   |
 | 4                 | 2021-10-22 | launceston R9          | 2 Turk Delight        |  8.6  |    -10   |

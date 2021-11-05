@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-05 16:07:21 +1000  
+date: 2021-11-05 22:42:20 +1000  
 categories: None 
 ---   
 
@@ -39,14 +39,14 @@ categories: None
 | 00:00             | 2021-11-06 | hexham R2          | 7 Paddy The Panda     |  11    |      -10 |
 | 23:40             | 2021-11-05 | fontwell R1        | 11 Checkitsme         |  71    |      -10 |
 | 23:40             | 2021-11-05 | fontwell R1        | 2 Come Dancing        |  71    |      -10 |
-| 20:30             | 2021-11-05 | sunshine-coast R4  | 15 Fleckerl           |  91    |      -10 |
-| 20:30             | 2021-11-05 | sunshine-coast R4  | 13 Nanna Knuckey      |   9    |      -10 |
-| 20:00             | 2021-11-05 | sunshine-coast R3  | 10 Lion's Tooth       |  10    |      -10 |
-| 18:34             | 2021-11-05 | rockhampton R9     | 3 Ventures Benir      |  15    |      -10 |
-| 17:30             | 2021-11-05 | rockhampton R7     | 2 Santorini Summer    |   9.5  |      -10 |
-| 17:05             | 2021-11-05 | albury R5          | 1 Cheeky Chipmunk     |  19    |      -10 |
-| 16:50             | 2021-11-05 | rockhampton R6     | 3 Rock 'n' Sol        |  13    |      -10 |
-| 16:40             | 2021-11-05 | kempsey R7         | 7 Righthere Rightnow  |  26    |      -10 |
+| 13                | 2021-11-05 | sunshine-coast R4  | 15 Fleckerl           |  91    |      -10 |
+| 12                | 2021-11-05 | sunshine-coast R4  | 13 Nanna Knuckey      |   9    |      -10 |
+| 0                 | 2021-11-05 | sunshine-coast R3  | 10 Lion's Tooth       |   0    |      -10 |
+| 6                 | 2021-11-05 | rockhampton R9     | 3 Ventures Benir      |  15    |      -10 |
+| 4                 | 2021-11-05 | rockhampton R7     | 2 Santorini Summer    |   9.5  |      -10 |
+| 4                 | 2021-11-05 | albury R5          | 1 Cheeky Chipmunk     |  19    |      -10 |
+| 5                 | 2021-11-05 | rockhampton R6     | 3 Rock 'n' Sol        |  13    |      -10 |
+| :3rd_place_medal: | 2021-11-05 | kempsey R7         | 7 Righthere Rightnow  |  26    |      -10 |
 | 0                 | 2021-11-05 | chelmsford-city R5 | 6 Influencer          |   0    |      -10 |
 | 0                 | 2021-11-05 | chelmsford-city R4 | 8 Maysong             |   0    |      -10 |
 | 0                 | 2021-11-05 | thurles R7         | 5 Castlehill Boy      |   0    |      -10 |
@@ -61,9 +61,9 @@ categories: None
 | 0                 | 2021-11-05 | thurles R5         | 12 Something Sweet    |   0    |      -10 |
 | 0                 | 2021-11-05 | thurles R5         | 14 Sani Pass          |   0    |      -10 |
 | 0                 | 2021-11-05 | thurles R5         | 4 Rebel Early         |   0    |      -10 |
+| 0                 | 2021-11-05 | sedgefield R4      | 6 First Revolution    |   0    |      -10 |
 | 0                 | 2021-11-05 | sedgefield R4      | 5 Clondaw Pretender   |   0    |      -10 |
 | 0                 | 2021-11-05 | sedgefield R4      | 7 Knocknamona         |   0    |      -10 |
-| 0                 | 2021-11-05 | sedgefield R4      | 6 First Revolution    |   0    |      -10 |
 | 0                 | 2021-11-05 | ludlow R4          | 6 Another Stowaway    |   0    |      -10 |
 | 0                 | 2021-11-05 | ludlow R4          | 8 Cape Robin          |   0    |      -10 |
 | 0                 | 2021-11-05 | ludlow R4          | 3 Sirobbie            |   0    |      -10 |
@@ -257,29 +257,29 @@ categories: None
 | :boom:            | 2021-11-01 | naas R7            | 3 Yaxeni              |  41    |      400 |
 | 0                 | 2021-11-01 | naas R7            | 8 Lynwood Gold        |   0    |      -10 |
 | 0                 | 2021-11-01 | lingfield R7       | 12 Doitforthevillage  |   0    |      -10 |
+| 0                 | 2021-11-01 | cork R6            | 19 Royal Rhythm       |   0    |      -10 |
 | 8                 | 2021-11-01 | cork R6            | 6 Toms Courage        |  19    |      -10 |
-| 11                | 2021-11-01 | cork R6            | 18 Big Shanghai       |  15    |      -10 |
 | 9                 | 2021-11-01 | cork R6            | 2 Key Commander       |  17    |      -10 |
 | :boom:            | 2021-11-01 | cork R6            | 4 Perry Owens         |  10    |       90 |
-| 0                 | 2021-11-01 | cork R6            | 19 Royal Rhythm       |   0    |      -10 |
+| 11                | 2021-11-01 | cork R6            | 18 Big Shanghai       |  15    |      -10 |
 | 0                 | 2021-11-01 | cork R6            | 11 Karawaan           |   0    |      -10 |
 | :2nd_place_medal: | 2021-11-01 | cork R6            | 7 Capture The Action  |  11    |      -10 |
 | 0                 | 2021-11-01 | naas R6            | 16 Woodland Garden    |   0    |      -10 |
+| 4                 | 2021-11-01 | cork R5            | 2 Eurobot             |  12    |      -10 |
+| 0                 | 2021-11-01 | cork R5            | 11 Whatsyourstatus    |   0    |      -10 |
 | 0                 | 2021-11-01 | cork R5            | 12 Arverne            |   0    |      -10 |
 | 0                 | 2021-11-01 | cork R5            | 9 Dromore Lad         |   0    |      -10 |
 | 0                 | 2021-11-01 | cork R5            | 8 Agent Boru          |   0    |      -10 |
-| 4                 | 2021-11-01 | cork R5            | 2 Eurobot             |  12    |      -10 |
-| 0                 | 2021-11-01 | cork R5            | 11 Whatsyourstatus    |   0    |      -10 |
 | 0                 | 2021-11-01 | lingfield R5       | 10 Belle Na Bann      |   0    |      -10 |
 | 0                 | 2021-11-01 | lingfield R5       | 11 Style Council      |   0    |      -10 |
 | 0                 | 2021-11-01 | cork R3            | 2 Benbulben Boy       |   0    |      -10 |
 | :3rd_place_medal: | 2021-11-01 | huntingdon R2      | 3 Sabre Jet           |  21    |      -10 |
 | 0                 | 2021-11-01 | carlisle R4        | 6 Willy Nilly         |   0    |      -10 |
-| 0                 | 2021-11-01 | cork R2            | 3 Belle Lurette       |   0    |      -10 |
 | 0                 | 2021-11-01 | cork R2            | 12 Kingram Lady       |   0    |      -10 |
-| 0                 | 2021-11-01 | cork R2            | 20 Whatsstoppingyou   |   0    |      -10 |
 | :2nd_place_medal: | 2021-11-01 | cork R2            | 13 Little Token       |  34    |      -10 |
+| 0                 | 2021-11-01 | cork R2            | 3 Belle Lurette       |   0    |      -10 |
 | 0                 | 2021-11-01 | cork R2            | 8 Gold Buckle Dreams  |   0    |      -10 |
+| 0                 | 2021-11-01 | cork R2            | 20 Whatsstoppingyou   |   0    |      -10 |
 | 0                 | 2021-10-31 | carlisle R3        | 8 Portstorm           |   0    |      -10 |
 | 0                 | 2021-10-31 | lingfield R2       | 8 Hatchet Jack        |   0    |      -10 |
 | 4                 | 2021-10-31 | lingfield R2       | 13 Freedelivery       |  23    |      -10 |
@@ -288,9 +288,9 @@ categories: None
 | 0                 | 2021-10-31 | lingfield R1       | 2 Dolphin Vista       |   0    |      -10 |
 | 0                 | 2021-10-31 | lingfield R1       | 11 Jumping Jack       |   0    |      -10 |
 | 0                 | 2021-10-31 | lingfield R1       | 7 Hier Encore         |   0    |      -10 |
+| 0                 | 2021-10-31 | carlisle R1        | 10 Storm Tiger        |   0    |      -10 |
 | 4                 | 2021-10-31 | carlisle R1        | 9 Ned Tanner          |  19    |      -10 |
 | 0                 | 2021-10-31 | carlisle R1        | 4 Enemy At The Gate   |   0    |      -10 |
-| 0                 | 2021-10-31 | carlisle R1        | 10 Storm Tiger        |   0    |      -10 |
 | 7                 | 2021-10-31 | narrogin R6        | 10 Alexis Olympia     |  11    |      -10 |
 | 4                 | 2021-10-31 | cairns R8          | 1 Vulpes              |  26    |      -10 |
 | 8                 | 2021-10-31 | cairns R8          | 8 Catcha Spark        |  15    |      -10 |
@@ -313,5 +313,5 @@ categories: None
 | 7                 | 2021-10-31 | ashburton R5       | 9 Coffers             |   5.5  |      -10 |
 | 0                 | 2021-10-31 | wetherby R7        | 9 Blazer              |   0    |      -10 |
 | 0                 | 2021-10-31 | wetherby R6        | 5 Wolf Run            |   0    |      -10 |
-| 0                 | 2021-10-31 | down-royal R6      | 4 Dubai Devils        |   0    |      -10 |
+| 0                 | 2021-10-31 | down-royal R6      | 3 Majurca             |   0    |      -10 |
 | 0                 | 2021-10-31 | down-royal R6      | 9 Sunrise Lady        |   0    |      -10 |
