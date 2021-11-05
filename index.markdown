@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-05 14:51:52 +1000  
+date: 2021-11-05 16:11:07 +1000  
 ---   
 
 
@@ -163,10 +163,10 @@ date: 2021-11-05 14:51:52 +1000
 | 111 | :soon:            | 2021-11-05 16:40:00 | kempsey        |      7 |        7 | Righthere Rightnow |  26    | cosmo,roughnut       |
 | 112 | :soon:            | 2021-11-05 16:40:00 | kempsey        |      7 |        4 | Top Me Up Again    |   3.3  | moechilli            |
 | 113 | :soon:            | 2021-11-05 16:15:00 | rockhampton    |      5 |        5 | Boss Baby          |   5.5  | benny,pangea         |
-| 114 | :soon:            | 2021-11-05 15:50:00 | albury         |      3 |        6 | Spritley Miss      |   6    | milkman              |
-| 115 | :soon:            | 2021-11-05 15:35:00 | rockhampton    |      4 |        2 | Better Than Elvis  |   4    | overthrow            |
-| 116 | :soon:            | 2021-11-05 15:35:00 | rockhampton    |      4 |        1 | Twostone Lighter   |   2.35 | prometheus           |
-| 117 | :soon:            | 2021-11-05 15:00:00 | warrnambool    |      4 |        3 | Blue Army          |   2.15 | vulture              |
-| 118 | :soon:            | 2021-11-05 14:57:00 | rockhampton    |      3 |        1 | Bright And Ready   |   2.8  | prometheus           |
+| 114 | --                | 2021-11-05 15:50:00 | albury         |      3 |        6 | Spritley Miss      |   6    | milkman              |
+| 115 | :3rd_place_medal: | 2021-11-05 15:35:00 | rockhampton    |      4 |        2 | Better Than Elvis  |   4    | overthrow            |
+| 116 | 4                 | 2021-11-05 15:35:00 | rockhampton    |      4 |        1 | Twostone Lighter   |   2.35 | prometheus           |
+| 117 | :boom:            | 2021-11-05 15:00:00 | warrnambool    |      4 |        3 | Blue Army          |   2.15 | vulture              |
+| 118 | 5                 | 2021-11-05 14:57:00 | rockhampton    |      3 |        1 | Bright And Ready   |   2.8  | prometheus           |
 | 119 | :boom:            | 2021-11-05 14:22:00 | rockhampton    |      2 |        5 | Dawson Diamond     |   4    | overthrow            |
 | 120 | :2nd_place_medal: | 2021-11-05 13:47:00 | rockhampton    |      1 |        1 | Mocial Chief       |   1.4  | pangea,icyhot        |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-05 14:50:54 +1000  
+date: 2021-11-05 16:02:54 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
 | 20:00             | 2021-11-05 | sunshine-coast R3 | 6 Carribean King      |  5.5  |      -10 |
 | 17:30             | 2021-11-05 | rockhampton R7    | 1 Big Jake            |  2.7  |      -10 |
-| 15:50             | 2021-11-05 | albury R3         | 6 Spritley Miss       |  6    |      -10 |
+| 0                 | 2021-11-05 | albury R3         | 6 Spritley Miss       |  0    |      -10 |
 | 0                 | 2021-11-05 | newbury R4        | 5 Elle Est Belle      |  0    |      -10 |
 | 0                 | 2021-11-05 | newbury R3        | 4 Silver Forever      |  0    |      -10 |
 | :3rd_place_medal: | 2021-11-04 | hawkesbury R5     | 5 Daichi              |  3.3  |      -10 |
