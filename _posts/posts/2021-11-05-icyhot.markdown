@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-11-05 09:48:28 +1000  
+date: 2021-11-05 14:50:56 +1000  
 categories: None 
 ---   
 
@@ -15,37 +15,6 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
-| 20:00             | 2021-11-05 | sunshine-coast R3       | 6 Carribean King      |  5.5  |    -10   |
-| 13:47             | 2021-11-05 | rockhampton R1          | 1 Mocial Chief        |  1.4  |    -10   |
-| 5                 | 2021-11-04 | flemington R6           | 10 Written Beauty     |  4.8  |    -10   |
-| :boom:            | 2021-11-03 | port-lincoln R1         | 1 Spanish Heirloom    |  2.1  |     11   |
-| :boom:            | 2021-11-02 | darwin R2               | 4 The Captain         |  3.1  |     21   |
-| :3rd_place_medal: | 2021-11-02 | eagle-farm R4           | 3 Ralph's Honour      |  4.6  |    -10   |
-| 0                 | 2021-10-30 | turffontein R5          | 2 Malmoos             |  0    |    -10   |
-| :boom:            | 2021-10-30 | ascot R8                | 7 Wilchino            |  2.4  |     14   |
-| 4                 | 2021-10-30 | flemington R8           | 14 Mr Brightside      |  4.2  |    -10   |
-| :boom:            | 2021-10-30 | rosehill R6             | 1 Eduardo             |  2.5  |     15   |
-| 5                 | 2021-10-30 | rosehill R5             | 3 Shared Ambition     |  9    |    -10   |
-| :3rd_place_medal: | 2021-10-30 | eagle-farm R5           | 5 Gave Us Up          |  7.5  |    -10   |
-| 0                 | 2021-10-30 | fairview R9             | 2 Arctic Drift        |  0    |    -10   |
-| 0                 | 2021-10-27 | bangor R6               | 7 Stop Talking        |  0    |    -10   |
-| :boom:            | 2021-10-23 | ascot R7                | 5 Wilchino            |  2.8  |     18   |
-| :boom:            | 2021-10-23 | ascot R6                | 4 Magical Dream       |  6.5  |     55   |
-| :boom:            | 2021-10-23 | doomben R5              | 2 Birriecart          |  2.3  |     13   |
-| :2nd_place_medal: | 2021-10-23 | doomben R5              | 1 Tiger Heart         |  1.65 |    -10   |
-| :2nd_place_medal: | 2021-10-23 | doomben R4              | 1 Ligulate            |  9    |    -10   |
-| :boom:            | 2021-10-22 | launceston R5           | 1 Deroche             |  1.9  |      9   |
-| 8                 | 2021-10-22 | moonee-valley R6        | 8 Overkill            |  8    |    -10   |
-| 6                 | 2021-10-21 | gatton R5               | 7 Foxy Rippa          |  2.35 |    -10   |
-| 5                 | 2021-10-20 | geelong R5              | 4 River Twain         |  3.5  |    -10   |
-| :boom:            | 2021-10-17 | alice-springs R2        | 4 Dakota Lee          |  1.95 |      9.5 |
-| 7                 | 2021-10-16 | caulfield R10           | 6 He's A Balter       |  8    |    -10   |
-| :boom:            | 2021-10-15 | murray-bdge R9          | 12 Valuable Witness   |  3.3  |     23   |
-| :2nd_place_medal: | 2021-10-15 | ipswich R3              | 10 Lyrical Girl       |  2.15 |    -10   |
-| :boom:            | 2021-10-15 | ipswich R3              | 8 Sir Rocket          |  1.75 |      7.5 |
-| :2nd_place_medal: | 2021-10-09 | ascot R8                | 2 Miss Conteki        |  3.2  |    -10   |
-| :boom:            | 2021-10-09 | randwick R10            | 10 Leo                |  5.8  |     48   |
-| :3rd_place_medal: | 2021-10-09 | ascot R5                | 4 Kaptain Kaos        |  2.6  |    -10   |
 | 0                 | 2021-10-09 | alice-springs R2        | 2 Roppongi            |  0    |    -10   |
 | :2nd_place_medal: | 2021-10-08 | cloncurry R3            | 2 Christmas Creek     |  4    |    -10   |
 | 0                 | 2021-10-03 | durbanville R7          | 4 Sachdev             | 19    |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-05 09:48:11 +1000  
+date: 2021-11-05 14:50:39 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 17:30             | 2021-11-05 | rockhampton R7    | 1 Big Jake           |  2.7  |    -10   |
 | 17:30             | 2021-11-05 | rockhampton R7    | 2 Santorini Summer   |  9.5  |    -10   |
 | 16:15             | 2021-11-05 | rockhampton R5    | 5 Boss Baby          |  5.5  |    -10   |
-| 13:47             | 2021-11-05 | rockhampton R1    | 1 Mocial Chief       |  1.4  |    -10   |
+| :2nd_place_medal: | 2021-11-05 | rockhampton R1    | 1 Mocial Chief       |  1.4  |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R7     | 1 Quackerjack        |  3.3  |    -10   |
 | 5                 | 2021-11-04 | flemington R6     | 10 Written Beauty    |  4.8  |    -10   |
 | :2nd_place_medal: | 2021-11-04 | flemington R6     | 8 Malkovich          |  2.5  |    -10   |
@@ -27,8 +27,8 @@ categories: None
 | 5                 | 2021-11-04 | ipswich R3        | 3 Kessel Run         | 11    |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R5     | 1 Quiet Riot         |  5    |    -10   |
 | :boom:            | 2021-11-04 | ipswich R2        | 1 Motomiss           |  3.1  |     21   |
-| 4                 | 2021-11-04 | flemington R2     | 1 Sirileo Miss       |  2.35 |    -10   |
 | 5                 | 2021-11-04 | flemington R2     | 3 Zing               |  4    |    -10   |
+| 4                 | 2021-11-04 | flemington R2     | 1 Sirileo Miss       |  2.35 |    -10   |
 | 4                 | 2021-11-03 | launceston R6     | 2 Balearic           |  8.5  |    -10   |
 | :boom:            | 2021-11-03 | port-lincoln R1   | 1 Spanish Heirloom   |  2.1  |     11   |
 | 0                 | 2021-11-03 | vaal R5           | 1 Western Fort       |  0    |    -10   |
@@ -50,9 +50,9 @@ categories: None
 | :boom:            | 2021-11-02 | eagle-farm R6     | 4 Ingear             |  1.8  |      8   |
 | :boom:            | 2021-11-02 | darwin R3         | 4 Overruled          |  2.7  |     17   |
 | :2nd_place_medal: | 2021-11-02 | canberra R6       | 3 Propose To Me      |  5    |    -10   |
-| :3rd_place_medal: | 2021-11-02 | darwin R2         | 3 Syncline           |  2.35 |    -10   |
-| :boom:            | 2021-11-02 | darwin R2         | 4 The Captain        |  3.1  |     21   |
 | 4                 | 2021-11-02 | darwin R2         | 5 Dizzy Miss Lizzy   |  4.8  |    -10   |
+| :boom:            | 2021-11-02 | darwin R2         | 4 The Captain        |  3.1  |     21   |
+| :3rd_place_medal: | 2021-11-02 | darwin R2         | 3 Syncline           |  2.35 |    -10   |
 | :3rd_place_medal: | 2021-11-02 | eagle-farm R4     | 3 Ralph's Honour     |  4.6  |    -10   |
 | :2nd_place_medal: | 2021-11-02 | eagle-farm R4     | 7 Fetch              |  2.2  |    -10   |
 | 5                 | 2021-11-02 | canberra R5       | 5 Port Douglas       |  4.2  |    -10   |
@@ -86,8 +86,8 @@ categories: None
 | 10                | 2021-10-30 | flemington R9     | 16 Never Talk        | 15    |    -10   |
 | 4                 | 2021-10-30 | eagle-farm R9     | 1 Animate            |  5    |    -10   |
 | 7                 | 2021-10-30 | rosehill R8       | 7 Redoute's Image    |  9.5  |    -10   |
-| 5                 | 2021-10-30 | morphettville R8  | 4 Ritratto           | 11    |    -10   |
 | 4                 | 2021-10-30 | morphettville R8  | 7 Aussie Nugget      |  7.5  |    -10   |
+| 5                 | 2021-10-30 | morphettville R8  | 4 Ritratto           | 11    |    -10   |
 | 11                | 2021-10-30 | eagle-farm R8     | 1 Montez             |  6    |    -10   |
 | 5                 | 2021-10-30 | eagle-farm R8     | 2 Factory Warrior    | 11    |    -10   |
 | :boom:            | 2021-10-30 | morphettville R7  | 9 Rock The Ring      |  2.1  |     11   |
@@ -98,8 +98,8 @@ categories: None
 | :2nd_place_medal: | 2021-10-30 | rosehill R6       | 13 Lost And Running  |  8    |    -10   |
 | :boom:            | 2021-10-30 | gold-coast R5     | 5 Moonan Joyce       | 11.1  |    101   |
 | 6                 | 2021-10-30 | eagle-farm R6     | 3 Prioritise         |  5.5  |    -10   |
-| 13                | 2021-10-30 | flemington R5     | 9 Amarelinha         | 10    |    -10   |
 | 8                 | 2021-10-30 | flemington R5     | 12 Kiku              | 31    |    -10   |
+| 13                | 2021-10-30 | flemington R5     | 9 Amarelinha         | 10    |    -10   |
 | :boom:            | 2021-10-30 | ascot R2          | 3 The Front Bar      |  3.5  |     25   |
 | :3rd_place_medal: | 2021-10-30 | gold-coast R3     | 4 Neptune's Choice   |  3.4  |    -10   |
 | 6                 | 2021-10-30 | flemington R4     | 7 Oxley Road         |  2.35 |    -10   |
