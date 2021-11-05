@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-06 08:04:42 +1000  
+date: 2021-11-06 08:37:52 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,13 @@ categories: None
 
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
+| 01:30             | 2021-11-07 | naas R5           | 6 Highland Charge     |  3.2  |      -10 |
+| 01:30             | 2021-11-07 | naas R5           | 3 Eric Bloodaxe       |  2.4  |      -10 |
+| 01:00             | 2021-11-07 | kenilworth R5     | 1 Kommetdieding       |  0    |      -10 |
+| 23:30             | 2021-11-06 | turffontein R4    | 4 Rain In Holland     |  0    |      -10 |
+| 23:10             | 2021-11-06 | kenilworth R2     | 6 Stiptelik           |  0    |      -10 |
+| 18:37             | 2021-11-06 | toowoomba R3      | 1 Festival Prince     |  1.6  |      -10 |
+| 16:56             | 2021-11-06 | alice-springs R2  | 2 Dakota Lee          |  1.2  |      -10 |
 | :2nd_place_medal: | 2021-11-05 | sunshine-coast R3 | 6 Carribean King      |  5.5  |      -10 |
 | :2nd_place_medal: | 2021-11-05 | rockhampton R7    | 1 Big Jake            |  2.7  |      -10 |
 | :2nd_place_medal: | 2021-11-05 | albury R3         | 6 Spritley Miss       |  6    |      -10 |

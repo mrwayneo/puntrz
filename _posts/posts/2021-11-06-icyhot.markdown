@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-11-06 08:04:42 +1000  
+date: 2021-11-06 08:37:53 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,9 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
+| 18:37             | 2021-11-06 | toowoomba R3            | 2 Rhyme Time          |  5.5  |    -10   |
+| 17:25             | 2021-11-06 | rosehill R8             | 2 Polly Grey          | 21    |    -10   |
+| 15:05             | 2021-11-06 | eagle-farm R3           | 4 Stuck With You      |  4.4  |    -10   |
 | :2nd_place_medal: | 2021-11-05 | sunshine-coast R3       | 6 Carribean King      |  5.5  |    -10   |
 | :2nd_place_medal: | 2021-11-05 | rockhampton R1          | 1 Mocial Chief        |  1.4  |    -10   |
 | 5                 | 2021-11-04 | flemington R6           | 10 Written Beauty     |  4.8  |    -10   |
@@ -73,8 +76,8 @@ categories: None
 | :boom:            | 2021-09-18 | gold-coast R6           | 2 Weona Smartone      |  1.8  |      8   |
 | 8                 | 2021-09-18 | dalby R5                | 4 Harbour Trick       |  7.5  |    -10   |
 | :boom:            | 2021-09-18 | caulfield R2            | 7 He's A Balter       |  6.3  |     53   |
-| 4                 | 2021-09-12 | devonport-synthetic R1  | 6 Assaranca           |  4.6  |    -10   |
 | 5                 | 2021-09-12 | devonport-synthetic R1  | 4 Vivilici            |  3    |    -10   |
+| 4                 | 2021-09-12 | devonport-synthetic R1  | 6 Assaranca           |  4.6  |    -10   |
 | 6                 | 2021-09-11 | belmont R6              | 4 General Grant       | 11    |    -10   |
 | :boom:            | 2021-09-11 | belmont R1              | 4 Red Fifty Three     |  4.1  |     31   |
 | :boom:            | 2021-09-10 | fairview R5             | 2 Cairon              |  1.75 |      7.5 |
@@ -315,3 +318,34 @@ categories: None
 | :boom:            | 2021-02-09 | mackay R1               | 2 Carlin Trend        |  3.1  |     21   |
 | :3rd_place_medal: | 2021-02-07 | naracoorte R6           | 1 Challicum           |  5    |    -10   |
 | 5                 | 2021-02-07 | hobart R6               | 6 Mystical Pursuit    |  5.6  |    -10   |
+| 0                 | 2021-02-06 | lingfield R2            | 3 Bowling Russian     |  7    |    -10   |
+| :boom:            | 2021-02-06 | morphettville R9        | 1 Pindaric            |  2.2  |     12   |
+| :boom:            | 2021-02-06 | caulfield R5            | 1 La Mexicana         |  2.6  |     16   |
+| :2nd_place_medal: | 2021-02-06 | morphettville R1        | 5 Lake's Folly        |  6.5  |    -10   |
+| :2nd_place_medal: | 2021-02-06 | caulfield R1            | 1 Mystery Shot        |  5.1  |    -10   |
+| :3rd_place_medal: | 2021-02-03 | sandown-hillside R8     | 7 Galactus            |  4    |    -10   |
+| :2nd_place_medal: | 2021-01-31 | kenilworth R9           | 3 Belgarion           |  2.9  |    -10   |
+| :boom:            | 2021-01-30 | caulfield R9            | 3 Defibrillate        |  2.2  |     12   |
+| 10                | 2021-01-30 | sunshine-coast R8       | 4 Prometheus          | 14.2  |    -10   |
+| :3rd_place_medal: | 2021-01-30 | sunshine-coast R4       | 4 Jetski              |  3.9  |    -10   |
+| 4                 | 2021-01-27 | gosford R6              | 3 Ballistica          |  4.8  |    -10   |
+| :3rd_place_medal: | 2021-01-23 | rockhampton R5          | 4 Brad                |  3    |    -10   |
+| 4                 | 2021-01-23 | ascot R3                | 3 Madam Torio         |  1.9  |    -10   |
+| 4                 | 2021-01-23 | gawler R6               | 2 Four Of A Kind      |  4.2  |    -10   |
+| 9                 | 2021-01-23 | doomben R4              | 6 Dixon Bay           | 18.2  |    -10   |
+| 6                 | 2021-01-23 | sandown-hillside R4     | 8 Saint Eustace       | 11    |    -10   |
+| :boom:            | 2021-01-23 | doomben R2              | 2 Ligulate            |  1.9  |      9   |
+| :boom:            | 2021-01-20 | launceston R7           | 1 Deroche             |  1.7  |      7   |
+| :boom:            | 2021-01-19 | benalla R7              | 3 Hillcrest Moses     |  2.6  |     16   |
+| :2nd_place_medal: | 2021-01-16 | launceston R7           | 5 Hannah's Song       |  3.5  |    -10   |
+| :boom:            | 2021-01-16 | warwick R4              | 1 Wolff Boss          |  1.8  |      8   |
+| 4                 | 2021-01-16 | murray-bdge R2          | 2 Quaffany            | 15    |    -10   |
+| :3rd_place_medal: | 2021-01-15 | townsville R5           | 2 All Star Rocket     |  1.25 |    -10   |
+| :boom:            | 2021-01-15 | townsville R2           | 1 I Did It Again      |  1.4  |      4   |
+| :2nd_place_medal: | 2021-01-10 | albany R8               | 13 Wild Fusion        | 14.2  |    -10   |
+| :3rd_place_medal: | 2021-01-10 | kenilworth R7           | 3 Belgarion           |  2.25 |    -10   |
+| 8                 | 2021-01-09 | murray-bdge R7          | 13 Done By Me         |  4.2  |    -10   |
+| :3rd_place_medal: | 2021-01-09 | murray-bdge R2          | 5 Mayameen            |  3.4  |    -10   |
+| 9                 | 2021-01-08 | sunshine-coast R6       | 5 La Jument           |  2.55 |    -10   |
+| 6                 | 2021-01-08 | launceston R9           | 8 Mystical Pursuit    |  4.65 |    -10   |
+| :boom:            | 2021-01-05 | wolverhampton R6        | 2 Amniarix            |  2.8  |     18   |
