@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-07 02:11:21 +1000  
+date: 2021-11-07 07:25:55 +1000  
 ---   
 
 
@@ -36,90 +36,90 @@ date: 2021-11-07 02:11:21 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    201 |     59 |   -214.9 | 0.29 | -0.11 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     44 |      6 |   -219   | 0.14 | -0.5  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    342 |     86 |   -233.6 | 0.25 | -0.07 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     57 |      6 |   -393   | 0.11 | -0.69 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    132 |     21 |   -616.5 | 0.16 | -0.47 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     57 |      7 |   -370   | 0.12 | -0.65 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    132 |     21 |   -592.5 | 0.16 | -0.45 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    498 |    123 |   -907   | 0.25 | -0.18 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    598 |    155 |  -1232   | 0.26 | -0.21 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    719 |    100 |  -1350.6 | 0.14 | -0.19 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2017 |    465 |  -2115.6 | 0.23 | -0.1  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2681 |    149 |  -2193   | 0.06 | -0.08 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3152 |    701 |  -6096.5 | 0.22 | -0.19 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6314 |    912 | -11013.7 | 0.14 | -0.17 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6314 |    912 | -10993.7 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8415 |    446 | -18022.5 | 0.05 | -0.21 |
 
 |     | finish                   | time                | track               |   race |   number | name               |   odds | tipster              |
 |----:|:-------------------------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|   0 | :soon:                   | 2021-11-07 04:30:00 | chelmsford-city     |      6 |       11 | Jungle Boogaloo    |  26    | roughnut             |
-|   1 | :soon:                   | 2021-11-07 04:30:00 | chelmsford-city     |      6 |        8 | Lady Amalthea      |   7    | roughnut             |
-|   2 | :soon:                   | 2021-11-07 04:00:00 | chelmsford-city     |      5 |        6 | Royal Heart        |   6.5  | roughnut             |
-|   3 | :soon:                   | 2021-11-07 03:15:00 | naas                |      8 |        8 | Getaway Dancer     |  81    | roughnut             |
-|   4 | :soon:                   | 2021-11-07 03:15:00 | naas                |      8 |       11 | Lilian Bland       |  10    | roughnut             |
-|   5 | :soon:                   | 2021-11-07 03:15:00 | naas                |      8 |        3 | Bellatior          |   2.1  | prometheus           |
-|   6 | :soon:                   | 2021-11-07 03:05:00 | wincanton           |      7 |        2 | Fame And Fun       |   2.8  | overthrow            |
-|   7 | :soon:                   | 2021-11-07 02:55:00 | aintree             |      7 |        7 | Saveasea           |   3.8  | overthrow            |
-|   8 | :soon:                   | 2021-11-07 02:50:00 | kelso               |      7 |       11 | Tip Top Tonto      |  10    | roughnut             |
-|   9 | :soon:                   | 2021-11-07 02:47:00 | kenilworth          |      8 |        2 | Mount Anderson     |   0    | prometheus           |
-|  10 | :soon:                   | 2021-11-07 02:47:00 | kenilworth          |      8 |        4 | Look For Hounds    |   0    | prometheus           |
-|  11 | :soon:                   | 2021-11-07 02:47:00 | kenilworth          |      8 |        1 | Hyde Park          |   0    | prometheus           |
-|  12 | :soon:                   | 2021-11-07 02:40:00 | naas                |      7 |       18 | Persia             |  26    | roughnut             |
-|  13 | :soon:                   | 2021-11-07 02:40:00 | naas                |      7 |       19 | Coqolino           |   9    | looseknot            |
-|  14 | :soon:                   | 2021-11-07 02:40:00 | naas                |      7 |       15 | Wingin A Prayer    |  15    | roughnut             |
-|  15 | :soon:                   | 2021-11-07 02:40:00 | naas                |      7 |       16 | Jeremys Flame      |  10    | roughnut             |
-|  16 | :soon:                   | 2021-11-07 02:40:00 | naas                |      7 |        9 | John Adams         | 126    | roughnut             |
-|  17 | :soon:                   | 2021-11-07 02:40:00 | naas                |      7 |        8 | Isotope            |  41    | roughnut             |
-|  18 | :soon:                   | 2021-11-07 02:40:00 | naas                |      7 |        4 | Fou Diligence      | 201    | roughnut             |
-|  19 | :soon:                   | 2021-11-07 02:40:00 | naas                |      7 |        3 | Farceur Du Large   |  17    | roughnut             |
-|  20 | :soon:                   | 2021-11-07 02:35:00 | wincanton           |      6 |        4 | Sole Pretender     |   9    | milkman              |
-|  21 | :soon:                   | 2021-11-07 02:35:00 | wincanton           |      6 |        7 | Teqany             |  17    | pangea               |
-|  22 | :soon:                   | 2021-11-07 02:30:00 | turffontein         |      9 |        3 | Phinda Mzala       |   0    | prometheus           |
-|  23 | :soon:                   | 2021-11-07 02:30:00 | turffontein         |      9 |        6 | Love Lies          |   0    | vulture              |
-|  24 | :soon:                   | 2021-11-07 02:30:00 | turffontein         |      9 |        5 | Valiente           |   0    | prometheus           |
-|  25 | :soon:                   | 2021-11-07 02:30:00 | turffontein         |      9 |        9 | Imitation Game     |   0    | prometheus           |
-|  26 | :soon:                   | 2021-11-07 02:28:00 | chelmsford-city     |      2 |        3 | Nations Pride      |   1.26 | vulture              |
-|  27 | :soon:                   | 2021-11-07 02:20:00 | aintree             |      6 |        2 | Wilde About Oscar  |   5.5  | overthrow            |
-|  28 | :soon:                   | 2021-11-07 02:15:00 | kelso               |      6 |        4 | Manetti            |  13    | roughnut             |
-|  29 | :soon:                   | 2021-11-07 02:15:00 | kelso               |      6 |        7 | Old Jewry          |  21    | roughnut             |
-|  30 | :soon:                   | 2021-11-07 02:15:00 | kelso               |      6 |       12 | Adelphi Prince     |  31    | roughnut             |
-|  31 | :soon:                   | 2021-11-07 02:15:00 | kelso               |      6 |        8 | Hattaab            |  31    | roughnut             |
-|  32 | :hourglass_flowing_sand: | 2021-11-07 02:12:00 | kenilworth          |      7 |        4 | Keep The Lights On |   0    | pangea               |
-|  33 | :hourglass_flowing_sand: | 2021-11-07 02:12:00 | kenilworth          |      7 |        2 | Capitana           |   0    | vulture              |
-|  34 | :hourglass_flowing_sand: | 2021-11-07 02:12:00 | kenilworth          |      7 |        7 | Marmalisa          |   0    | prometheus           |
-|  35 | :hourglass_flowing_sand: | 2021-11-07 02:12:00 | kenilworth          |      7 |       12 | Gillian Anne       |   0    | prometheus           |
-|  36 | :hourglass_flowing_sand: | 2021-11-07 02:12:00 | kenilworth          |      7 |        1 | Phil's Dancer      |   0    | pangea               |
-|  37 | :hourglass_flowing_sand: | 2021-11-07 02:10:00 | doncaster           |      7 |        5 | King Alfred        |   3.8  | looseknot            |
-|  38 | :hourglass_flowing_sand: | 2021-11-07 02:05:00 | naas                |      6 |        2 | Bentham            |  12    | roughnut             |
-|  39 | :hourglass_flowing_sand: | 2021-11-07 02:05:00 | naas                |      6 |        7 | Ran Rite           |  26    | roughnut             |
-|  40 | :hourglass_flowing_sand: | 2021-11-07 02:05:00 | naas                |      6 |        9 | Bolbec             |  13    | roughnut             |
-|  41 | :hourglass_flowing_sand: | 2021-11-07 01:55:00 | turffontein         |      8 |        3 | Mr Flood           |   0    | prometheus           |
-|  42 | :hourglass_flowing_sand: | 2021-11-07 01:55:00 | turffontein         |      8 |        9 | Riverstown         |   0    | vulture              |
-|  43 | :hourglass_flowing_sand: | 2021-11-07 01:55:00 | turffontein         |      8 |        6 | Shango             |   0    | prometheus           |
-|  44 | :hourglass_flowing_sand: | 2021-11-07 01:55:00 | chelmsford-city     |      1 |        8 | Mezzanotte         |  11    | cosmo,roughnut       |
-|  45 | :hourglass_flowing_sand: | 2021-11-07 01:55:00 | chelmsford-city     |      1 |        2 | Kennet             |   2.7  | prometheus           |
-|  46 | :hourglass_flowing_sand: | 2021-11-07 01:50:00 | aintree             |      5 |        1 | Antunes            |   6.5  | overthrow            |
-|  47 | :hourglass_flowing_sand: | 2021-11-07 01:50:00 | aintree             |      5 |        4 | Sao                |  10    | roughnut             |
-|  48 | :hourglass_flowing_sand: | 2021-11-07 01:45:00 | kelso               |      5 |        9 | Holme Abbey        |  13    | roughnut             |
-|  49 | :hourglass_flowing_sand: | 2021-11-07 01:40:00 | doncaster           |      6 |       19 | Whitehaven         |  31    | cosmo,roughnut       |
-|  50 | :hourglass_flowing_sand: | 2021-11-07 01:40:00 | doncaster           |      6 |       10 | Sam Cooke          |  11    | roughnut             |
-|  51 | :hourglass_flowing_sand: | 2021-11-07 01:40:00 | doncaster           |      6 |       14 | Prince Alex        |  23    | cosmo,roughnut       |
-|  52 | :hourglass_flowing_sand: | 2021-11-07 01:35:00 | kenilworth          |      6 |        8 | Catchafallingstar  |   0    | prometheus           |
-|  53 | :hourglass_flowing_sand: | 2021-11-07 01:35:00 | kenilworth          |      6 |        5 | Magnificent Seven  |   0    | prometheus           |
-|  54 | :hourglass_flowing_sand: | 2021-11-07 01:35:00 | kenilworth          |      6 |        4 | Anse Lazio         |   0    | prometheus           |
-|  55 | :hourglass_flowing_sand: | 2021-11-07 01:30:00 | naas                |      5 |        3 | Eric Bloodaxe      |   2.4  | milkman              |
-|  56 | :hourglass_flowing_sand: | 2021-11-07 01:30:00 | naas                |      5 |       13 | Vintage Prosseco   |  10    | roughnut             |
-|  57 | :hourglass_flowing_sand: | 2021-11-07 01:30:00 | naas                |      5 |        9 | Lucky Ranger       |  31    | roughnut             |
-|  58 | :hourglass_flowing_sand: | 2021-11-07 01:30:00 | naas                |      5 |       11 | Supreme Jet        |  17    | roughnut             |
-|  59 | :hourglass_flowing_sand: | 2021-11-07 01:30:00 | naas                |      5 |        6 | Highland Charge    |   3.2  | milkman              |
-|  60 | :hourglass_flowing_sand: | 2021-11-07 01:25:00 | wincanton           |      4 |        3 | Cut The Mustard    |  11    | overthrow            |
-|  61 | :hourglass_flowing_sand: | 2021-11-07 01:25:00 | wincanton           |      4 |        1 | Eglantine Du Seuil |  10    | overthrow            |
-|  62 | --                       | 2021-11-07 01:20:00 | turffontein         |      7 |        5 | Astrix             |   0    | vulture              |
+|   0 | :hourglass_flowing_sand: | 2021-11-07 04:30:00 | chelmsford-city     |      6 |       11 | Jungle Boogaloo    |  26    | roughnut             |
+|   1 | :hourglass_flowing_sand: | 2021-11-07 04:30:00 | chelmsford-city     |      6 |        8 | Lady Amalthea      |   7    | roughnut             |
+|   2 | :hourglass_flowing_sand: | 2021-11-07 04:00:00 | chelmsford-city     |      5 |        6 | Royal Heart        |   6.5  | roughnut             |
+|   3 | :hourglass_flowing_sand: | 2021-11-07 03:15:00 | naas                |      8 |        8 | Getaway Dancer     |  81    | roughnut             |
+|   4 | :hourglass_flowing_sand: | 2021-11-07 03:15:00 | naas                |      8 |       11 | Lilian Bland       |  10    | roughnut             |
+|   5 | :hourglass_flowing_sand: | 2021-11-07 03:15:00 | naas                |      8 |        3 | Bellatior          |   2.1  | prometheus           |
+|   6 | :hourglass_flowing_sand: | 2021-11-07 03:05:00 | wincanton           |      7 |        2 | Fame And Fun       |   2.8  | overthrow            |
+|   7 | :hourglass_flowing_sand: | 2021-11-07 02:55:00 | aintree             |      7 |        7 | Saveasea           |   3.8  | overthrow            |
+|   8 | :hourglass_flowing_sand: | 2021-11-07 02:50:00 | kelso               |      7 |       11 | Tip Top Tonto      |  10    | roughnut             |
+|   9 | :hourglass_flowing_sand: | 2021-11-07 02:47:00 | kenilworth          |      8 |        2 | Mount Anderson     |   0    | prometheus           |
+|  10 | :hourglass_flowing_sand: | 2021-11-07 02:47:00 | kenilworth          |      8 |        4 | Look For Hounds    |   0    | prometheus           |
+|  11 | :hourglass_flowing_sand: | 2021-11-07 02:47:00 | kenilworth          |      8 |        1 | Hyde Park          |   0    | prometheus           |
+|  12 | :hourglass_flowing_sand: | 2021-11-07 02:40:00 | naas                |      7 |       18 | Persia             |  26    | roughnut             |
+|  13 | :hourglass_flowing_sand: | 2021-11-07 02:40:00 | naas                |      7 |       19 | Coqolino           |   9    | looseknot            |
+|  14 | :hourglass_flowing_sand: | 2021-11-07 02:40:00 | naas                |      7 |       15 | Wingin A Prayer    |  15    | roughnut             |
+|  15 | :hourglass_flowing_sand: | 2021-11-07 02:40:00 | naas                |      7 |       16 | Jeremys Flame      |  10    | roughnut             |
+|  16 | :hourglass_flowing_sand: | 2021-11-07 02:40:00 | naas                |      7 |        9 | John Adams         | 126    | roughnut             |
+|  17 | :hourglass_flowing_sand: | 2021-11-07 02:40:00 | naas                |      7 |        8 | Isotope            |  41    | roughnut             |
+|  18 | :hourglass_flowing_sand: | 2021-11-07 02:40:00 | naas                |      7 |        4 | Fou Diligence      | 201    | roughnut             |
+|  19 | :hourglass_flowing_sand: | 2021-11-07 02:40:00 | naas                |      7 |        3 | Farceur Du Large   |  17    | roughnut             |
+|  20 | :hourglass_flowing_sand: | 2021-11-07 02:35:00 | wincanton           |      6 |        4 | Sole Pretender     |   9    | milkman              |
+|  21 | :hourglass_flowing_sand: | 2021-11-07 02:35:00 | wincanton           |      6 |        7 | Teqany             |  17    | pangea               |
+|  22 | :hourglass_flowing_sand: | 2021-11-07 02:30:00 | turffontein         |      9 |        3 | Phinda Mzala       |   0    | prometheus           |
+|  23 | :hourglass_flowing_sand: | 2021-11-07 02:30:00 | turffontein         |      9 |        6 | Love Lies          |   0    | vulture              |
+|  24 | :hourglass_flowing_sand: | 2021-11-07 02:30:00 | turffontein         |      9 |        5 | Valiente           |   0    | prometheus           |
+|  25 | :hourglass_flowing_sand: | 2021-11-07 02:30:00 | turffontein         |      9 |        9 | Imitation Game     |   0    | prometheus           |
+|  26 | --                       | 2021-11-07 02:28:00 | chelmsford-city     |      2 |        3 | Nations Pride      |   1.26 | vulture              |
+|  27 | --                       | 2021-11-07 02:20:00 | aintree             |      6 |        2 | Wilde About Oscar  |   5.5  | overthrow            |
+|  28 | :3rd_place_medal:        | 2021-11-07 02:15:00 | kelso               |      6 |        4 | Manetti            |  13    | roughnut             |
+|  29 | --                       | 2021-11-07 02:15:00 | kelso               |      6 |        7 | Old Jewry          |  21    | roughnut             |
+|  30 | --                       | 2021-11-07 02:15:00 | kelso               |      6 |       12 | Adelphi Prince     |  31    | roughnut             |
+|  31 | --                       | 2021-11-07 02:15:00 | kelso               |      6 |        8 | Hattaab            |  31    | roughnut             |
+|  32 | --                       | 2021-11-07 02:12:00 | kenilworth          |      7 |        4 | Keep The Lights On |   0    | pangea               |
+|  33 | --                       | 2021-11-07 02:12:00 | kenilworth          |      7 |        2 | Capitana           |   0    | vulture              |
+|  34 | --                       | 2021-11-07 02:12:00 | kenilworth          |      7 |        7 | Marmalisa          |   0    | prometheus           |
+|  35 | --                       | 2021-11-07 02:12:00 | kenilworth          |      7 |       12 | Gillian Anne       |   0    | prometheus           |
+|  36 | --                       | 2021-11-07 02:12:00 | kenilworth          |      7 |        1 | Phil's Dancer      |   0    | pangea               |
+|  37 | --                       | 2021-11-07 02:10:00 | doncaster           |      7 |        5 | King Alfred        |   3.8  | looseknot            |
+|  38 | --                       | 2021-11-07 02:05:00 | naas                |      6 |        2 | Bentham            |  12    | roughnut             |
+|  39 | --                       | 2021-11-07 02:05:00 | naas                |      6 |        7 | Ran Rite           |  26    | roughnut             |
+|  40 | --                       | 2021-11-07 02:05:00 | naas                |      6 |        9 | Bolbec             |  13    | roughnut             |
+|  41 | --                       | 2021-11-07 01:55:00 | turffontein         |      8 |        3 | Mr Flood           |   0    | prometheus           |
+|  42 | 4                        | 2021-11-07 01:55:00 | turffontein         |      8 |        9 | Riverstown         |   0    | vulture              |
+|  43 | --                       | 2021-11-07 01:55:00 | turffontein         |      8 |        6 | Shango             |   0    | prometheus           |
+|  44 | --                       | 2021-11-07 01:55:00 | chelmsford-city     |      1 |        8 | Mezzanotte         |  11    | cosmo,roughnut       |
+|  45 | --                       | 2021-11-07 01:55:00 | chelmsford-city     |      1 |        2 | Kennet             |   2.7  | prometheus           |
+|  46 | --                       | 2021-11-07 01:50:00 | aintree             |      5 |        1 | Antunes            |   6.5  | overthrow            |
+|  47 | :2nd_place_medal:        | 2021-11-07 01:50:00 | aintree             |      5 |        4 | Sao                |  10    | roughnut             |
+|  48 | --                       | 2021-11-07 01:45:00 | kelso               |      5 |        9 | Holme Abbey        |  13    | roughnut             |
+|  49 | 17                       | 2021-11-07 01:40:00 | doncaster           |      6 |       19 | Whitehaven         |  31    | cosmo,roughnut       |
+|  50 | :3rd_place_medal:        | 2021-11-07 01:40:00 | doncaster           |      6 |       10 | Sam Cooke          |  11    | roughnut             |
+|  51 | 9                        | 2021-11-07 01:40:00 | doncaster           |      6 |       14 | Prince Alex        |  23    | cosmo,roughnut       |
+|  52 | 4                        | 2021-11-07 01:35:00 | kenilworth          |      6 |        8 | Catchafallingstar  |   0    | prometheus           |
+|  53 | --                       | 2021-11-07 01:35:00 | kenilworth          |      6 |        5 | Magnificent Seven  |   0    | prometheus           |
+|  54 | :3rd_place_medal:        | 2021-11-07 01:35:00 | kenilworth          |      6 |        4 | Anse Lazio         |   0    | prometheus           |
+|  55 | :boom:                   | 2021-11-07 01:30:00 | naas                |      5 |        3 | Eric Bloodaxe      |   2.4  | milkman              |
+|  56 | --                       | 2021-11-07 01:30:00 | naas                |      5 |       13 | Vintage Prosseco   |  10    | roughnut             |
+|  57 | --                       | 2021-11-07 01:30:00 | naas                |      5 |        9 | Lucky Ranger       |  31    | roughnut             |
+|  58 | :2nd_place_medal:        | 2021-11-07 01:30:00 | naas                |      5 |       11 | Supreme Jet        |  17    | roughnut             |
+|  59 | --                       | 2021-11-07 01:30:00 | naas                |      5 |        6 | Highland Charge    |   3.2  | milkman              |
+|  60 | --                       | 2021-11-07 01:25:00 | wincanton           |      4 |        3 | Cut The Mustard    |  11    | overthrow            |
+|  61 | --                       | 2021-11-07 01:25:00 | wincanton           |      4 |        1 | Eglantine Du Seuil |  10    | overthrow            |
+|  62 | :3rd_place_medal:        | 2021-11-07 01:20:00 | turffontein         |      7 |        5 | Astrix             |   0    | vulture              |
 |  63 | --                       | 2021-11-07 01:20:00 | turffontein         |      7 |        9 | Savannah Storm     |   0    | prometheus           |
 |  64 | --                       | 2021-11-07 01:20:00 | turffontein         |      7 |       10 | Imperial Ruby      |   0    | prometheus           |
 |  65 | --                       | 2021-11-07 01:20:00 | turffontein         |      7 |        4 | Running Brave      |   0    | prometheus           |
 |  66 | --                       | 2021-11-07 01:20:00 | turffontein         |      7 |        3 | Pamushana's Pride  |   0    | pangea               |
 |  67 | --                       | 2021-11-07 01:15:00 | aintree             |      4 |        5 | Al Roc             |  34    | cosmo,roughnut       |
 |  68 | --                       | 2021-11-07 01:15:00 | aintree             |      4 |        1 | Spyglass Hill      |  13    | cosmo,roughnut       |
-|  69 | --                       | 2021-11-07 01:15:00 | aintree             |      4 |        9 | Cat Tiger          |   6.5  | vulture              |
-|  70 | --                       | 2021-11-07 01:15:00 | aintree             |      4 |       11 | Thomas Macdonagh   |  11    | vulture              |
+|  69 | 5                        | 2021-11-07 01:15:00 | aintree             |      4 |        9 | Cat Tiger          |   6.5  | vulture              |
+|  70 | 7                        | 2021-11-07 01:15:00 | aintree             |      4 |       11 | Thomas Macdonagh   |  11    | vulture              |
 |  71 | --                       | 2021-11-07 01:05:00 | doncaster           |      5 |       15 | Tarhib             |   8.5  | evenodds,overthrow   |
 |  72 | :boom:                   | 2021-11-07 01:00:00 | kenilworth          |      5 |        9 | Warrior            |   0    | prometheus           |
 |  73 | --                       | 2021-11-07 01:00:00 | kenilworth          |      5 |       10 | Azores             |   0    | prometheus           |

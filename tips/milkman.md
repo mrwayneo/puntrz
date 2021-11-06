@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-07 01:53:47 +1000  
+date: 2021-11-07 07:23:51 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     37 |      6 |     -193 | 0.16 | -0.52 |
-| Last 28 Days   |     57 |      6 |     -393 | 0.11 | -0.69 |
-| Last 6 Months  |     57 |      6 |     -393 | 0.11 | -0.69 |
-| Since Jan 2020 |     57 |      6 |     -393 | 0.11 | -0.69 |
+| Last 7 Days    |     37 |      7 |     -170 | 0.19 | -0.46 |
+| Last 28 Days   |     57 |      7 |     -370 | 0.12 | -0.65 |
+| Last 6 Months  |     57 |      7 |     -370 | 0.12 | -0.65 |
+| Since Jan 2020 |     57 |      7 |     -370 | 0.12 | -0.65 |
 
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
-| 02:35             | 2021-11-07 | wincanton R6      | 4 Sole Pretender      |  9    |      -10 |
+| 0                 | 2021-11-07 | wincanton R6      | 4 Sole Pretender      |  0    |      -10 |
 | 0                 | 2021-11-07 | naas R5           | 6 Highland Charge     |  0    |      -10 |
-| 0                 | 2021-11-07 | naas R5           | 3 Eric Bloodaxe       |  0    |      -10 |
+| :boom:            | 2021-11-07 | naas R5           | 3 Eric Bloodaxe       |  2.3  |       13 |
 | :3rd_place_medal: | 2021-11-07 | kenilworth R5     | 1 Kommetdieding       |  0    |      -10 |
 | :boom:            | 2021-11-07 | wincanton R2      | 1 Knappers Hill       |  1.1  |        1 |
 | :3rd_place_medal: | 2021-11-06 | turffontein R4    | 4 Rain In Holland     |  0    |      -10 |

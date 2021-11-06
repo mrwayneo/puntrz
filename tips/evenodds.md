@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2021-11-07 01:49:56 +1000  
+date: 2021-11-07 07:23:15 +1000  
 categories: None 
 ---   
 
@@ -119,9 +119,9 @@ categories: None
 | 4                 | 2021-10-10 | newmarket R7           | 1 Barney Roy          |  4.2  |    -10   |
 | :boom:            | 2021-10-10 | chepstow R7            | 1 Timeforatune        |  1.67 |      6.7 |
 | :2nd_place_medal: | 2021-10-10 | turffontein R8         | 1 About To Storm      |  0    |    -10   |
-| :2nd_place_medal: | 2021-10-10 | newmarket R5           | 12 Burning Victory    |  9.5  |    -10   |
 | 0                 | 2021-10-10 | newmarket R5           | 7 M C Muldoon         |  0    |    -10   |
 | :boom:            | 2021-10-10 | newmarket R5           | 15 Buzz               |  9    |     80   |
+| :2nd_place_medal: | 2021-10-10 | newmarket R5           | 12 Burning Victory    |  9.5  |    -10   |
 | 5                 | 2021-10-10 | chepstow R5            | 1 Proschema           |  6    |    -10   |
 | :2nd_place_medal: | 2021-10-10 | chepstow R4            | 2 Fidelio Vallis      |  2.25 |    -10   |
 | :boom:            | 2021-10-10 | newmarket R3           | 3 Coroebus            |  1.8  |      8   |
@@ -159,9 +159,9 @@ categories: None
 | :2nd_place_medal: | 2021-10-02 | newmarket R2           | 8 Swoon               |  9    |    -10   |
 | :3rd_place_medal: | 2021-10-02 | kalgoorlie R8          | 9 Sugar Cain          |  4.4  |    -10   |
 | 4                 | 2021-10-02 | darwin R5              | 3 Prince Ruban        |  7    |    -10   |
+| :boom:            | 2021-10-02 | gowran-park R8         | 6 Quiet Escape        | 18    |    170   |
 | 0                 | 2021-10-02 | gowran-park R8         | 4 Memorable Daise     | 15    |    -10   |
 | :3rd_place_medal: | 2021-10-02 | gowran-park R8         | 3 Flemencello         |  3.6  |    -10   |
-| :boom:            | 2021-10-02 | gowran-park R8         | 6 Quiet Escape        | 18    |    170   |
 | :boom:            | 2021-10-02 | ascot R6               | 1 Sunray Major        |  2.3  |     13   |
 | 0                 | 2021-10-02 | ascot R3               | 3 First Light         |  6    |    -10   |
 | 7                 | 2021-10-01 | townsville R4          | 2 Cash Raider         | 61    |    -10   |
@@ -620,9 +620,9 @@ categories: None
 | :3rd_place_medal: | 2021-05-01 | te-rapa R7             | 1 Savy Yong Blonk     |  2.45 |    -10   |
 | 0                 | 2021-05-01 | cheltenham R6          | 3 Kilkishen           |  4    |    -10   |
 | :boom:            | 2021-05-01 | cheltenham R5          | 5 Highway Jewel       |  1.34 |      3.4 |
-| :3rd_place_medal: | 2021-05-01 | cheltenham R4          | 1 Fifty Shades        |  8    |    -10   |
 | 0                 | 2021-05-01 | cheltenham R4          | 5 Coco Live           | 26    |    -10   |
 | 0                 | 2021-05-01 | cheltenham R4          | 2 Garde Ville         |  3    |    -10   |
+| :3rd_place_medal: | 2021-05-01 | cheltenham R4          | 1 Fifty Shades        |  8    |    -10   |
 | :boom:            | 2021-05-01 | punchestown R5         | 4 Gaillard Du Mesnil  |  1.5  |      5   |
 | 0                 | 2021-05-01 | cheltenham R2          | 7 Guttural            | 11    |    -10   |
 | 0                 | 2021-05-01 | cheltenham R2          | 11 Ryans Fancy        | 13    |    -10   |
@@ -768,9 +768,9 @@ categories: None
 | 0                 | 2021-03-19 | cheltenham R1          | 8 Shan Blue           | 11    |    -10   |
 | 0                 | 2021-03-18 | kempton R4             | 6 Ridgeway Avenue     |  2.8  |    -10   |
 | :2nd_place_medal: | 2021-03-18 | cheltenham R7          | 6 Kilcruit            |  2.9  |    -10   |
+| :3rd_place_medal: | 2021-03-18 | cheltenham R4          | 1 Chacun Pour Soi     |  1.85 |    -10   |
 | 0                 | 2021-03-18 | cheltenham R4          | 7 Politologue         | 13    |    -10   |
 | :2nd_place_medal: | 2021-03-18 | cheltenham R4          | 6 Nube Negra          | 11    |    -10   |
-| :3rd_place_medal: | 2021-03-18 | cheltenham R4          | 1 Chacun Pour Soi     |  1.85 |    -10   |
 | :2nd_place_medal: | 2021-03-18 | cheltenham R1          | 5 Gaillard Du Mesnil  |  3.5  |    -10   |
 | :3rd_place_medal: | 2021-03-18 | cheltenham R1          | 3 Bravemansgame       |  4.75 |    -10   |
 | 0                 | 2021-03-17 | ascot R1               | 4 Airlie Queen        |  6.5  |    -10   |
@@ -781,9 +781,9 @@ categories: None
 | :boom:            | 2021-03-15 | warwick R2             | 1 Calico              |  1.3  |      3   |
 | 6                 | 2021-03-14 | sunshine-coast R6      | 1 Bombay Rocket       |  5    |    -10   |
 | 0                 | 2021-03-14 | hereford R5            | 5 Undisputed          | 12    |    -10   |
-| 0                 | 2021-03-14 | sandown R5             | 1 Stratagem           |  9    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | sandown R5             | 3 Lust For Glory      | 15    |    -10   |
 | 0                 | 2021-03-14 | sandown R5             | 4 No Getaway          |  6    |    -10   |
+| 0                 | 2021-03-14 | sandown R5             | 1 Stratagem           |  9    |    -10   |
 | 0                 | 2021-03-14 | sandown R4             | 9 Precious            | 17    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | sandown R4             | 18 Tweed Skirt        |  7.5  |    -10   |
 | 0                 | 2021-03-14 | sandown R4             | 5 Dazzling Glory      | 21    |    -10   |

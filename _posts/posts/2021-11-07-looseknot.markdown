@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-11-07 01:55:30 +1000  
+date: 2021-11-07 07:24:11 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:40             | 2021-11-07 | naas R7                       | 19 Coqolino           |   9    |    -10   |
-| 02:10             | 2021-11-07 | doncaster R7                  | 5 King Alfred         |   3.8  |    -10   |
+| 0                 | 2021-11-07 | naas R7                       | 19 Coqolino           |   0    |    -10   |
+| 0                 | 2021-11-07 | doncaster R7                  | 5 King Alfred         |   0    |    -10   |
 | 0                 | 2021-11-06 | naas R1                       | 16 Whiskeywealth      |   0    |    -10   |
 | 0                 | 2021-11-06 | dundalk R5                    | 2 Bucky Larson        |   0    |    -10   |
 | 0                 | 2021-11-05 | newbury R7                    | 4 Clean Getaway       |   0    |    -10   |

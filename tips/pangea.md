@@ -1,26 +1,26 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-07 01:51:54 +1000  
+date: 2021-11-07 07:23:34 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     82 |     13 |   -410   | 0.16 | -0.5  |
-| Last 28 Days   |    132 |     21 |   -616.5 | 0.16 | -0.47 |
-| Last 6 Months  |    132 |     21 |   -616.5 | 0.16 | -0.47 |
-| Since Jan 2020 |    132 |     21 |   -616.5 | 0.16 | -0.47 |
+| Last 7 Days    |     82 |     13 |   -386   | 0.16 | -0.47 |
+| Last 28 Days   |    132 |     21 |   -592.5 | 0.16 | -0.45 |
+| Last 6 Months  |    132 |     21 |   -592.5 | 0.16 | -0.45 |
+| Since Jan 2020 |    132 |     21 |   -592.5 | 0.16 | -0.45 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 02:35             | 2021-11-07 | wincanton R6           | 7 Teqany             | 17    |    -10   |
-| 02:12             | 2021-11-07 | kenilworth R7          | 1 Phil's Dancer      |  0    |    -10   |
-| 02:12             | 2021-11-07 | kenilworth R7          | 4 Keep The Lights On |  0    |    -10   |
+| 0                 | 2021-11-07 | wincanton R6           | 7 Teqany             |  0    |    -10   |
+| 0                 | 2021-11-07 | kenilworth R7          | 1 Phil's Dancer      |  0    |    -10   |
+| 0                 | 2021-11-07 | kenilworth R7          | 4 Keep The Lights On |  0    |    -10   |
 | 0                 | 2021-11-07 | turffontein R7         | 3 Pamushana's Pride  |  0    |    -10   |
 | 0                 | 2021-11-07 | kenilworth R5          | 6 Native Tongue      |  0    |    -10   |
-| :boom:            | 2021-11-07 | turffontein R6         | 6 Hello Winter Hello | 11.6  |    106   |
+| :boom:            | 2021-11-07 | turffontein R6         | 6 Hello Winter Hello | 14    |    130   |
 | :boom:            | 2021-11-06 | ascot R9               | 14 Bright Diamond    |  2.7  |     17   |
 | :3rd_place_medal: | 2021-11-06 | ascot R9               | 5 Angelic Miss       |  7    |    -10   |
 | 5                 | 2021-11-06 | toowoomba R4           | 3 Raffalli           |  5.5  |    -10   |
@@ -71,9 +71,9 @@ categories: None
 | :boom:            | 2021-11-02 | exeter R1              | 3 Ask Me Early       |  2.5  |     15   |
 | :3rd_place_medal: | 2021-11-02 | darwin R7              | 4 Siakam             |  3.2  |    -10   |
 | 8                 | 2021-11-02 | darwin R7              | 5 Taciturn           |  4.8  |    -10   |
-| :2nd_place_medal: | 2021-11-02 | darwin R6              | 3 El Sicario         |  3.9  |    -10   |
 | :3rd_place_medal: | 2021-11-02 | darwin R6              | 1 Mr Boomjangles     |  6    |    -10   |
 | 5                 | 2021-11-02 | darwin R6              | 2 Trebla             |  3    |    -10   |
+| :2nd_place_medal: | 2021-11-02 | darwin R6              | 3 El Sicario         |  3.9  |    -10   |
 | 5                 | 2021-11-02 | eagle-farm R8          | 2 Firebox            |  4.2  |    -10   |
 | 8                 | 2021-11-02 | darwin R5              | 1 Kaptan Apollo      |  4.6  |    -10   |
 | 6                 | 2021-11-02 | eagle-farm R7          | 4 Le Palmier         |  2.3  |    -10   |
