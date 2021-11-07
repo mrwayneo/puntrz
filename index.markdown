@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-07 23:25:20 +1000  
+date: 2021-11-07 23:35:33 +1000  
 ---   
 
 
@@ -98,8 +98,8 @@ date: 2021-11-07 23:25:20 +1000
 |  46 | :soon:            | 2021-11-07 23:50:00 | greyville      |      5 |       11 | Crown Towers       |   0    | pangea             |
 |  47 | :soon:            | 2021-11-07 23:50:00 | greyville      |      5 |        5 | News Stream        |   0    | prometheus         |
 |  48 | :soon:            | 2021-11-07 23:50:00 | greyville      |      5 |        8 | Priceless Ruler    |   0    | prometheus         |
-|  49 | :soon:            | 2021-11-07 23:30:00 | sandown        |      1 |        3 | Broken Halo        |   4.4  | milkman            |
-|  50 | :soon:            | 2021-11-07 23:30:00 | sandown        |      1 |       10 | Duarigle           |  34    | roughnut           |
+|  49 | --                | 2021-11-07 23:30:00 | sandown        |      1 |        3 | Broken Halo        |   4.4  | milkman            |
+|  50 | --                | 2021-11-07 23:30:00 | sandown        |      1 |       10 | Duarigle           |  34    | roughnut           |
 |  51 | --                | 2021-11-07 23:15:00 | greyville      |      4 |        2 | Allaroundtheworld  |   0    | prometheus         |
 |  52 | --                | 2021-11-07 23:15:00 | greyville      |      4 |        7 | One Shot Wonder    |   0    | prometheus         |
 |  53 | --                | 2021-11-07 22:40:00 | greyville      |      3 |        5 | Mingshi            |   0    | prometheus         |
