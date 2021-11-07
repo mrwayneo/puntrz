@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-08 00:38:46 +1000  
+date: 2021-11-08 00:45:19 +1000  
 ---   
 
 
@@ -80,14 +80,14 @@ date: 2021-11-08 00:38:46 +1000
 |  28 | :soon:                   | 2021-11-08 01:05:00 | greyville      |      7 |        3 | Morse              |   0    | prometheus         |
 |  29 | :soon:                   | 2021-11-08 01:05:00 | greyville      |      7 |        2 | Spring High        |   0    | prometheus         |
 |  30 | :soon:                   | 2021-11-08 00:55:00 | ffos-las       |      2 |        5 | Eden Du Houx       |   9    | pangea             |
-|  31 | :soon:                   | 2021-11-08 00:45:00 | navan          |      4 |        9 | So Near So Farhh   |  12    | roughnut           |
-|  32 | :soon:                   | 2021-11-08 00:45:00 | navan          |      4 |        1 | Mig Des Taillons   |  26    | roughnut           |
-|  33 | :soon:                   | 2021-11-08 00:45:00 | navan          |      4 |       10 | Union Park         |  17    | roughnut           |
-|  34 | :hourglass_flowing_sand: | 2021-11-08 00:35:00 | sandown        |      3 |        2 | Bombs Away         |   2.25 | vulture            |
-|  35 | :hourglass_flowing_sand: | 2021-11-08 00:35:00 | sandown        |      3 |       10 | Name In Lights     |  19    | roughnut           |
-|  36 | :hourglass_flowing_sand: | 2021-11-08 00:35:00 | sandown        |      3 |        7 | I'm Spellbound     |  13    | roughnut           |
-|  37 | :hourglass_flowing_sand: | 2021-11-08 00:35:00 | sandown        |      3 |        6 | He's A Knowall     |   8.5  | milkman            |
-|  38 | :hourglass_flowing_sand: | 2021-11-08 00:35:00 | sandown        |      3 |        1 | Blairgowrie        |   2.6  | overthrow          |
+|  31 | :hourglass_flowing_sand: | 2021-11-08 00:45:00 | navan          |      4 |        9 | So Near So Farhh   |  12    | roughnut           |
+|  32 | :hourglass_flowing_sand: | 2021-11-08 00:45:00 | navan          |      4 |        1 | Mig Des Taillons   |  26    | roughnut           |
+|  33 | :hourglass_flowing_sand: | 2021-11-08 00:45:00 | navan          |      4 |       10 | Union Park         |  17    | roughnut           |
+|  34 | --                       | 2021-11-08 00:35:00 | sandown        |      3 |        2 | Bombs Away         |   2.25 | vulture            |
+|  35 | --                       | 2021-11-08 00:35:00 | sandown        |      3 |       10 | Name In Lights     |  19    | roughnut           |
+|  36 | --                       | 2021-11-08 00:35:00 | sandown        |      3 |        7 | I'm Spellbound     |  13    | roughnut           |
+|  37 | --                       | 2021-11-08 00:35:00 | sandown        |      3 |        6 | He's A Knowall     |   8.5  | milkman            |
+|  38 | --                       | 2021-11-08 00:35:00 | sandown        |      3 |        1 | Blairgowrie        |   2.6  | overthrow          |
 |  39 | :2nd_place_medal:        | 2021-11-08 00:20:00 | ffos-las       |      1 |        7 | Port Or Starboard  |  41    | roughnut           |
 |  40 | 4                        | 2021-11-08 00:20:00 | ffos-las       |      1 |        4 | Colonial Empire    |  17    | roughnut           |
 |  41 | --                       | 2021-11-08 00:10:00 | navan          |      3 |        6 | Nibblers Charm     |  26    | roughnut           |
