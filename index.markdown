@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-08 04:13:59 +1000  
+date: 2021-11-08 04:35:12 +1000  
 ---   
 
 
@@ -50,7 +50,7 @@ date: 2021-11-08 04:13:59 +1000
 |     | finish            | time                | track          |   race |   number | name               |   odds | tipster            |
 |----:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
 |   0 | --                | 2021-11-08 03:10:00 | ffos-las       |      6 |        4 | Court Duty         |  12    | roughnut           |
-|   1 | --                | 2021-11-08 03:10:00 | ffos-las       |      6 |        9 | Kiera Royale       |  12    | roughnut           |
+|   1 | 4                 | 2021-11-08 03:10:00 | ffos-las       |      6 |        9 | Kiera Royale       |  12    | roughnut           |
 |   2 | --                | 2021-11-08 03:10:00 | ffos-las       |      6 |       10 | Loco Coco          |  15    | roughnut           |
 |   3 | --                | 2021-11-08 02:55:00 | navan          |      8 |        6 | Kool Kal           |  31    | roughnut           |
 |   4 | :boom:            | 2021-11-08 02:55:00 | navan          |      8 |        3 | Gringo D'aubrelle  |   2.25 | vulture            |
