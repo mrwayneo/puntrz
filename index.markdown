@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-07 23:13:45 +1000  
+date: 2021-11-07 23:25:20 +1000  
 ---   
 
 
@@ -100,8 +100,8 @@ date: 2021-11-07 23:13:45 +1000
 |  48 | :soon:            | 2021-11-07 23:50:00 | greyville      |      5 |        8 | Priceless Ruler    |   0    | prometheus         |
 |  49 | :soon:            | 2021-11-07 23:30:00 | sandown        |      1 |        3 | Broken Halo        |   4.4  | milkman            |
 |  50 | :soon:            | 2021-11-07 23:30:00 | sandown        |      1 |       10 | Duarigle           |  34    | roughnut           |
-|  51 | :soon:            | 2021-11-07 23:15:00 | greyville      |      4 |        2 | Allaroundtheworld  |   0    | prometheus         |
-|  52 | :soon:            | 2021-11-07 23:15:00 | greyville      |      4 |        7 | One Shot Wonder    |   0    | prometheus         |
+|  51 | --                | 2021-11-07 23:15:00 | greyville      |      4 |        2 | Allaroundtheworld  |   0    | prometheus         |
+|  52 | --                | 2021-11-07 23:15:00 | greyville      |      4 |        7 | One Shot Wonder    |   0    | prometheus         |
 |  53 | --                | 2021-11-07 22:40:00 | greyville      |      3 |        5 | Mingshi            |   0    | prometheus         |
 |  54 | :boom:            | 2021-11-07 22:40:00 | greyville      |      3 |        7 | Pashtunwali        |   0    | vulture            |
 |  55 | --                | 2021-11-07 22:40:00 | greyville      |      3 |        1 | Flute              |   0    | prometheus         |
