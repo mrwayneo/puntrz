@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2021-11-07 09:22:36 +1000  
+date: 2021-11-07 21:59:03 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
 | 00:00             | 2021-11-08 | sandown R2             | 3 Sending Love        |  9.5  |    -10   |
-| 16:20             | 2021-11-07 | sunshine-coast R5      | 2 Ma Ma's Rose        |  3.8  |    -10   |
+| :3rd_place_medal: | 2021-11-07 | sunshine-coast R5      | 2 Ma Ma's Rose        |  3.8  |    -10   |
 | 0                 | 2021-11-07 | doncaster R5           | 15 Tarhib             |  0    |    -10   |
 | 8                 | 2021-11-06 | toowoomba R2           | 6 Madam of the House  |  3.9  |    -10   |
 | 8                 | 2021-11-06 | gold-coast R7          | 6 Bargannon           |  5.5  |    -10   |
@@ -29,9 +29,9 @@ categories: None
 | 0                 | 2021-11-05 | chelmsford-city R3     | 2 Manaafith           |  0    |    -10   |
 | 0                 | 2021-11-05 | newbury R4             | 5 Elle Est Belle      |  0    |    -10   |
 | 0                 | 2021-11-05 | newbury R3             | 4 Silver Forever      |  0    |    -10   |
+| :3rd_place_medal: | 2021-11-04 | newbury R2             | 2 Boombawn            |  7    |    -10   |
 | :2nd_place_medal: | 2021-11-04 | newbury R2             | 1 Broomfield Burg     |  1.65 |    -10   |
 | 0                 | 2021-11-04 | newbury R2             | 4 Chancycourt         |  0    |    -10   |
-| :3rd_place_medal: | 2021-11-04 | newbury R2             | 2 Boombawn            |  7    |    -10   |
 | :2nd_place_medal: | 2021-11-04 | belmont R8             | 5 Memorable Miss      |  5    |    -10   |
 | :2nd_place_medal: | 2021-11-03 | exeter R4              | 1 Ask A Honey Bee     |  4    |    -10   |
 | :2nd_place_medal: | 2021-11-03 | exeter R2              | 9 Reilly              |  5.5  |    -10   |

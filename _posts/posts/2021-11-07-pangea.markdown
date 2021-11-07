@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-07 09:23:13 +1000  
+date: 2021-11-07 22:02:20 +1000  
 categories: None 
 ---   
 
@@ -17,10 +17,10 @@ categories: None
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
 | 00:55             | 2021-11-08 | ffos-las R2            | 5 Eden Du Houx       |  9    |    -10   |
 | 23:50             | 2021-11-07 | greyville R5           | 11 Crown Towers      |  0    |    -10   |
-| 17:45             | 2021-11-07 | penola R7              | 2 Dr Dee Dee         |  9    |    -10   |
-| 16:15             | 2021-11-07 | ararat R6              | 6 Aurora's Symphony  |  4.8  |    -10   |
-| 15:44             | 2021-11-07 | sunshine-coast R4      | 2 Sheezasinga        |  5.5  |    -10   |
-| 15:15             | 2021-11-07 | armidale R4            | 1 Reiby's Regent     |  4.4  |    -10   |
+| :3rd_place_medal: | 2021-11-07 | penola R7              | 2 Dr Dee Dee         |  9    |    -10   |
+| :3rd_place_medal: | 2021-11-07 | ararat R6              | 6 Aurora's Symphony  |  4.8  |    -10   |
+| :3rd_place_medal: | 2021-11-07 | sunshine-coast R4      | 2 Sheezasinga        |  5.5  |    -10   |
+| :3rd_place_medal: | 2021-11-07 | armidale R4            | 1 Reiby's Regent     |  4.4  |    -10   |
 | 0                 | 2021-11-07 | wincanton R6           | 7 Teqany             |  0    |    -10   |
 | 0                 | 2021-11-07 | kenilworth R7          | 1 Phil's Dancer      |  0    |    -10   |
 | 0                 | 2021-11-07 | kenilworth R7          | 4 Keep The Lights On |  0    |    -10   |
