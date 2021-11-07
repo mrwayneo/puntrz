@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-08 01:04:36 +1000  
+date: 2021-11-08 01:35:10 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
 | 02:45             | 2021-11-08 | sandown R7        | 1 Revasser            |  6    |      -10 |
-| 01:10             | 2021-11-08 | sandown R4        | 1 Chantry House       |  1.4  |      -10 |
+| 0                 | 2021-11-08 | sandown R4        | 1 Chantry House       |  0    |      -10 |
 | 0                 | 2021-11-08 | sandown R3        | 6 He's A Knowall      |  0    |      -10 |
 | 0                 | 2021-11-07 | sandown R1        | 3 Broken Halo         |  0    |      -10 |
 | :3rd_place_medal: | 2021-11-07 | sunshine-coast R5 | 2 Ma Ma's Rose        |  3.8  |      -10 |

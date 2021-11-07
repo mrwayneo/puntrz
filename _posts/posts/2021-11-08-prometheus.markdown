@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-11-08 01:04:45 +1000  
+date: 2021-11-08 01:35:15 +1000  
 categories: None 
 ---   
 
@@ -20,10 +20,10 @@ categories: None
 | 01:40             | 2021-11-08 | greyville R8                  | 12 Lord Wylie         |   0    |    -10   |
 | 01:40             | 2021-11-08 | greyville R8                  | 3 Var Aglow           |   0    |    -10   |
 | 01:40             | 2021-11-08 | greyville R8                  | 1 Desolate Road       |   0    |    -10   |
-| 01:05             | 2021-11-08 | greyville R7                  | 9 Happy Aristocrat    |   0    |    -10   |
-| 01:05             | 2021-11-08 | greyville R7                  | 4 Bernie's Dream      |   0    |    -10   |
-| 01:05             | 2021-11-08 | greyville R7                  | 3 Morse               |   0    |    -10   |
-| 01:05             | 2021-11-08 | greyville R7                  | 2 Spring High         |   0    |    -10   |
+| 0                 | 2021-11-08 | greyville R7                  | 9 Happy Aristocrat    |   0    |    -10   |
+| 0                 | 2021-11-08 | greyville R7                  | 4 Bernie's Dream      |   0    |    -10   |
+| 0                 | 2021-11-08 | greyville R7                  | 3 Morse               |   0    |    -10   |
+| 0                 | 2021-11-08 | greyville R7                  | 2 Spring High         |   0    |    -10   |
 | 0                 | 2021-11-07 | greyville R5                  | 5 News Stream         |   0    |    -10   |
 | :2nd_place_medal: | 2021-11-07 | greyville R5                  | 8 Priceless Ruler     |   0    |    -10   |
 | 0                 | 2021-11-07 | greyville R4                  | 2 Allaroundtheworld   |   0    |    -10   |

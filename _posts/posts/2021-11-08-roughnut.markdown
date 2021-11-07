@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-08 01:04:57 +1000  
+date: 2021-11-08 01:35:22 +1000  
 categories: None 
 ---   
 
@@ -26,11 +26,11 @@ categories: None
 | 02:05             | 2021-11-08 | ffos-las R4                   | 3 Ranieri             |  15    |    -10   |
 | 02:05             | 2021-11-08 | ffos-las R4                   | 8 Tudors Treasure     |  12    |    -10   |
 | 01:55             | 2021-11-08 | navan R6                      | 4 Make My Heart Fly   |  26    |    -10   |
-| 01:30             | 2021-11-08 | ffos-las R3                   | 3 Fanamix             |  15    |    -10   |
-| 01:20             | 2021-11-08 | navan R5                      | 12 Fiveaftermidnight  |  41    |    -10   |
-| 01:20             | 2021-11-08 | navan R5                      | 11 Broken Ice         |  10    |    -10   |
-| 01:20             | 2021-11-08 | navan R5                      | 7 Yaiza               |  31    |    -10   |
-| 01:20             | 2021-11-08 | navan R5                      | 13 April's Moon       |  21    |    -10   |
+| 0                 | 2021-11-08 | ffos-las R3                   | 3 Fanamix             |   0    |    -10   |
+| 0                 | 2021-11-08 | navan R5                      | 12 Fiveaftermidnight  |   0    |    -10   |
+| 0                 | 2021-11-08 | navan R5                      | 11 Broken Ice         |   0    |    -10   |
+| 0                 | 2021-11-08 | navan R5                      | 7 Yaiza               |   0    |    -10   |
+| 0                 | 2021-11-08 | navan R5                      | 13 April's Moon       |   0    |    -10   |
 | 0                 | 2021-11-08 | navan R4                      | 10 Union Park         |   0    |    -10   |
 | 0                 | 2021-11-08 | navan R4                      | 9 So Near So Farhh    |   0    |    -10   |
 | 0                 | 2021-11-08 | navan R4                      | 1 Mig Des Taillons    |   0    |    -10   |
