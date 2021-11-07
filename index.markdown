@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-07 23:50:37 +1000  
+date: 2021-11-08 00:25:33 +1000  
 ---   
 
 
@@ -32,20 +32,20 @@ date: 2021-11-07 23:50:37 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     38 |     11 |    428.5 | 0.29 |  1.13 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    183 |     53 |    226.5 | 0.29 |  0.12 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    371 |     77 |   -203   | 0.21 | -0.05 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    201 |     59 |   -214.9 | 0.29 | -0.11 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     44 |      6 |   -219   | 0.14 | -0.5  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    342 |     86 |   -233.6 | 0.25 | -0.07 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     57 |      7 |   -370   | 0.12 | -0.65 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    132 |     21 |   -592.5 | 0.16 | -0.45 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    369 |     75 |   -236   | 0.2  | -0.06 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    200 |     58 |   -239.9 | 0.29 | -0.12 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     63 |      7 |   -430   | 0.11 | -0.68 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    138 |     21 |   -652.5 | 0.15 | -0.47 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    498 |    123 |   -907   | 0.25 | -0.18 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    598 |    155 |  -1232   | 0.26 | -0.21 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    719 |    100 |  -1350.6 | 0.14 | -0.19 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2017 |    465 |  -2115.6 | 0.23 | -0.1  |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2681 |    149 |  -2193   | 0.06 | -0.08 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3152 |    701 |  -6096.5 | 0.22 | -0.19 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6314 |    912 | -10993.7 | 0.14 | -0.17 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8415 |    446 | -18022.5 | 0.05 | -0.21 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    599 |    154 |  -1259   | 0.26 | -0.21 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    718 |    100 |  -1340.6 | 0.14 | -0.19 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2675 |    150 |  -2010   | 0.06 | -0.08 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2022 |    465 |  -2147.6 | 0.23 | -0.11 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3146 |    699 |  -6075.5 | 0.22 | -0.19 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6315 |    912 | -11110.7 | 0.14 | -0.18 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8404 |    447 | -17922.5 | 0.05 | -0.21 |
 
 |     | finish                   | time                | track          |   race |   number | name               |   odds | tipster            |
 |----:|:-------------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
@@ -88,16 +88,16 @@ date: 2021-11-07 23:50:37 +1000
 |  36 | :soon:                   | 2021-11-08 00:35:00 | sandown        |      3 |        7 | I'm Spellbound     |  13    | roughnut           |
 |  37 | :soon:                   | 2021-11-08 00:35:00 | sandown        |      3 |        6 | He's A Knowall     |   8.5  | milkman            |
 |  38 | :soon:                   | 2021-11-08 00:35:00 | sandown        |      3 |        1 | Blairgowrie        |   2.6  | overthrow          |
-|  39 | :soon:                   | 2021-11-08 00:20:00 | ffos-las       |      1 |        7 | Port Or Starboard  |  41    | roughnut           |
-|  40 | :soon:                   | 2021-11-08 00:20:00 | ffos-las       |      1 |        4 | Colonial Empire    |  17    | roughnut           |
-|  41 | :soon:                   | 2021-11-08 00:10:00 | navan          |      3 |        6 | Nibblers Charm     |  26    | roughnut           |
-|  42 | :soon:                   | 2021-11-08 00:00:00 | sandown        |      2 |        4 | Fugitives Drift    |  10    | vulture            |
-|  43 | :soon:                   | 2021-11-08 00:00:00 | sandown        |      2 |        1 | Minella Trump      |   3.7  | vulture            |
-|  44 | :soon:                   | 2021-11-08 00:00:00 | sandown        |      2 |        3 | Sending Love       |   9.5  | evenodds,overthrow |
-|  45 | :soon:                   | 2021-11-08 00:00:00 | sandown        |      2 |        6 | Son Of Camas       |   9    | overthrow          |
-|  46 | :hourglass_flowing_sand: | 2021-11-07 23:50:00 | greyville      |      5 |       11 | Crown Towers       |   0    | pangea             |
-|  47 | :hourglass_flowing_sand: | 2021-11-07 23:50:00 | greyville      |      5 |        5 | News Stream        |   0    | prometheus         |
-|  48 | :hourglass_flowing_sand: | 2021-11-07 23:50:00 | greyville      |      5 |        8 | Priceless Ruler    |   0    | prometheus         |
+|  39 | :hourglass_flowing_sand: | 2021-11-08 00:20:00 | ffos-las       |      1 |        7 | Port Or Starboard  |  41    | roughnut           |
+|  40 | :hourglass_flowing_sand: | 2021-11-08 00:20:00 | ffos-las       |      1 |        4 | Colonial Empire    |  17    | roughnut           |
+|  41 | :hourglass_flowing_sand: | 2021-11-08 00:10:00 | navan          |      3 |        6 | Nibblers Charm     |  26    | roughnut           |
+|  42 | --                       | 2021-11-08 00:00:00 | sandown        |      2 |        4 | Fugitives Drift    |  10    | vulture            |
+|  43 | :boom:                   | 2021-11-08 00:00:00 | sandown        |      2 |        1 | Minella Trump      |   3.7  | vulture            |
+|  44 | --                       | 2021-11-08 00:00:00 | sandown        |      2 |        3 | Sending Love       |   9.5  | evenodds,overthrow |
+|  45 | 4                        | 2021-11-08 00:00:00 | sandown        |      2 |        6 | Son Of Camas       |   9    | overthrow          |
+|  46 | --                       | 2021-11-07 23:50:00 | greyville      |      5 |       11 | Crown Towers       |   0    | pangea             |
+|  47 | --                       | 2021-11-07 23:50:00 | greyville      |      5 |        5 | News Stream        |   0    | prometheus         |
+|  48 | :2nd_place_medal:        | 2021-11-07 23:50:00 | greyville      |      5 |        8 | Priceless Ruler    |   0    | prometheus         |
 |  49 | --                       | 2021-11-07 23:30:00 | sandown        |      1 |        3 | Broken Halo        |   4.4  | milkman            |
 |  50 | --                       | 2021-11-07 23:30:00 | sandown        |      1 |       10 | Duarigle           |  34    | roughnut           |
 |  51 | --                       | 2021-11-07 23:15:00 | greyville      |      4 |        2 | Allaroundtheworld  |   0    | prometheus         |
