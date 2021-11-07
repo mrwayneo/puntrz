@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-08 01:35:10 +1000  
+date: 2021-11-08 03:18:45 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     28 |      4 |     -221 | 0.14 | -0.79 |
-| Last 28 Days   |     63 |      7 |     -430 | 0.11 | -0.68 |
-| Last 6 Months  |     63 |      7 |     -430 | 0.11 | -0.68 |
-| Since Jan 2020 |     63 |      7 |     -430 | 0.11 | -0.68 |
+| Last 7 Days    |     28 |      5 |     -208 | 0.18 | -0.74 |
+| Last 28 Days   |     63 |      8 |     -417 | 0.13 | -0.66 |
+| Last 6 Months  |     63 |      8 |     -417 | 0.13 | -0.66 |
+| Since Jan 2020 |     63 |      8 |     -417 | 0.13 | -0.66 |
 
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
-| 02:45             | 2021-11-08 | sandown R7        | 1 Revasser            |  6    |      -10 |
-| 0                 | 2021-11-08 | sandown R4        | 1 Chantry House       |  0    |      -10 |
+| 0                 | 2021-11-08 | sandown R7        | 1 Revasser            |  0    |      -10 |
+| :boom:            | 2021-11-08 | sandown R4        | 1 Chantry House       |  1.3  |        3 |
 | 0                 | 2021-11-08 | sandown R3        | 6 He's A Knowall      |  0    |      -10 |
 | 0                 | 2021-11-07 | sandown R1        | 3 Broken Halo         |  0    |      -10 |
 | :3rd_place_medal: | 2021-11-07 | sunshine-coast R5 | 2 Ma Ma's Rose        |  3.8  |      -10 |
