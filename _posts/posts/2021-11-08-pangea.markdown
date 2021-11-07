@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-08 00:43:39 +1000  
+date: 2021-11-08 01:04:30 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 00:55             | 2021-11-08 | ffos-las R2            | 5 Eden Du Houx       |  9    |    -10   |
+| 0                 | 2021-11-08 | ffos-las R2            | 5 Eden Du Houx       |  0    |    -10   |
 | 0                 | 2021-11-07 | greyville R5           | 11 Crown Towers      |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-07 | penola R7              | 2 Dr Dee Dee         |  9    |    -10   |
 | :3rd_place_medal: | 2021-11-07 | ararat R6              | 6 Aurora's Symphony  |  4.8  |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-08 00:44:29 +1000  
+date: 2021-11-08 01:04:57 +1000  
 categories: None 
 ---   
 
@@ -31,9 +31,9 @@ categories: None
 | 01:20             | 2021-11-08 | navan R5                      | 11 Broken Ice         |  10    |    -10   |
 | 01:20             | 2021-11-08 | navan R5                      | 7 Yaiza               |  31    |    -10   |
 | 01:20             | 2021-11-08 | navan R5                      | 13 April's Moon       |  21    |    -10   |
-| 00:45             | 2021-11-08 | navan R4                      | 10 Union Park         |  17    |    -10   |
-| 00:45             | 2021-11-08 | navan R4                      | 9 So Near So Farhh    |  12    |    -10   |
-| 00:45             | 2021-11-08 | navan R4                      | 1 Mig Des Taillons    |  26    |    -10   |
+| 0                 | 2021-11-08 | navan R4                      | 10 Union Park         |   0    |    -10   |
+| 0                 | 2021-11-08 | navan R4                      | 9 So Near So Farhh    |   0    |    -10   |
+| 0                 | 2021-11-08 | navan R4                      | 1 Mig Des Taillons    |   0    |    -10   |
 | 0                 | 2021-11-08 | sandown R3                    | 7 I'm Spellbound      |   0    |    -10   |
 | 0                 | 2021-11-08 | sandown R3                    | 10 Name In Lights     |   0    |    -10   |
 | :2nd_place_medal: | 2021-11-08 | ffos-las R1                   | 7 Port Or Starboard   |  41    |    -10   |

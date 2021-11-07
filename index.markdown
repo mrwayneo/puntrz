@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-08 00:45:19 +1000  
+date: 2021-11-08 01:05:23 +1000  
 ---   
 
 
@@ -43,7 +43,7 @@ date: 2021-11-08 00:45:19 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    718 |    100 |  -1340.6 | 0.14 | -0.19 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2675 |    150 |  -2010   | 0.06 | -0.08 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2022 |    465 |  -2147.6 | 0.23 | -0.11 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3146 |    699 |  -6075.5 | 0.22 | -0.19 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3146 |    700 |  -6040.5 | 0.22 | -0.19 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6315 |    912 | -11110.7 | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8404 |    447 | -17922.5 | 0.05 | -0.21 |
 
@@ -75,15 +75,15 @@ date: 2021-11-08 00:45:19 +1000
 |  23 | :soon:                   | 2021-11-08 01:20:00 | navan          |      5 |       12 | Fiveaftermidnight  |  41    | roughnut           |
 |  24 | :soon:                   | 2021-11-08 01:20:00 | navan          |      5 |       11 | Broken Ice         |  10    | roughnut           |
 |  25 | :soon:                   | 2021-11-08 01:10:00 | sandown        |      4 |        1 | Chantry House      |   1.4  | overthrow,milkman  |
-|  26 | :soon:                   | 2021-11-08 01:05:00 | greyville      |      7 |        9 | Happy Aristocrat   |   0    | prometheus         |
-|  27 | :soon:                   | 2021-11-08 01:05:00 | greyville      |      7 |        4 | Bernie's Dream     |   0    | prometheus         |
-|  28 | :soon:                   | 2021-11-08 01:05:00 | greyville      |      7 |        3 | Morse              |   0    | prometheus         |
-|  29 | :soon:                   | 2021-11-08 01:05:00 | greyville      |      7 |        2 | Spring High        |   0    | prometheus         |
-|  30 | :soon:                   | 2021-11-08 00:55:00 | ffos-las       |      2 |        5 | Eden Du Houx       |   9    | pangea             |
-|  31 | :hourglass_flowing_sand: | 2021-11-08 00:45:00 | navan          |      4 |        9 | So Near So Farhh   |  12    | roughnut           |
-|  32 | :hourglass_flowing_sand: | 2021-11-08 00:45:00 | navan          |      4 |        1 | Mig Des Taillons   |  26    | roughnut           |
-|  33 | :hourglass_flowing_sand: | 2021-11-08 00:45:00 | navan          |      4 |       10 | Union Park         |  17    | roughnut           |
-|  34 | --                       | 2021-11-08 00:35:00 | sandown        |      3 |        2 | Bombs Away         |   2.25 | vulture            |
+|  26 | :hourglass_flowing_sand: | 2021-11-08 01:05:00 | greyville      |      7 |        9 | Happy Aristocrat   |   0    | prometheus         |
+|  27 | :hourglass_flowing_sand: | 2021-11-08 01:05:00 | greyville      |      7 |        4 | Bernie's Dream     |   0    | prometheus         |
+|  28 | :hourglass_flowing_sand: | 2021-11-08 01:05:00 | greyville      |      7 |        3 | Morse              |   0    | prometheus         |
+|  29 | :hourglass_flowing_sand: | 2021-11-08 01:05:00 | greyville      |      7 |        2 | Spring High        |   0    | prometheus         |
+|  30 | --                       | 2021-11-08 00:55:00 | ffos-las       |      2 |        5 | Eden Du Houx       |   9    | pangea             |
+|  31 | --                       | 2021-11-08 00:45:00 | navan          |      4 |        9 | So Near So Farhh   |  12    | roughnut           |
+|  32 | --                       | 2021-11-08 00:45:00 | navan          |      4 |        1 | Mig Des Taillons   |  26    | roughnut           |
+|  33 | --                       | 2021-11-08 00:45:00 | navan          |      4 |       10 | Union Park         |  17    | roughnut           |
+|  34 | :boom:                   | 2021-11-08 00:35:00 | sandown        |      3 |        2 | Bombs Away         |   2.25 | vulture            |
 |  35 | --                       | 2021-11-08 00:35:00 | sandown        |      3 |       10 | Name In Lights     |  19    | roughnut           |
 |  36 | --                       | 2021-11-08 00:35:00 | sandown        |      3 |        7 | I'm Spellbound     |  13    | roughnut           |
 |  37 | --                       | 2021-11-08 00:35:00 | sandown        |      3 |        6 | He's A Knowall     |   8.5  | milkman            |
