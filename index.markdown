@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-08 14:10:55 +1000  
+date: 2021-11-08 15:00:38 +1000  
 ---   
 
 
@@ -114,6 +114,6 @@ date: 2021-11-08 14:10:55 +1000
 | 62 | :soon:                   | 2021-11-08 16:20:00 | lismore       |      5 |        2 | Helmet Head        |  13    | cosmo,roughnut    |
 | 63 | :soon:                   | 2021-11-08 15:25:00 | queanbeyan    |      3 |        2 | I Love Lucy        |   2.8  | prometheus        |
 | 64 | :soon:                   | 2021-11-08 15:25:00 | queanbeyan    |      3 |        9 | Jesta Diva         |  17    | cosmo,roughnut    |
-| 65 | :soon:                   | 2021-11-08 14:30:00 | moe           |      4 |        9 | Master Fontana     |   5    | roughnut          |
-| 66 | :hourglass_flowing_sand: | 2021-11-08 14:10:00 | queanbeyan    |      1 |        8 | Pandering          |   2.5  | prometheus        |
+| 65 | :hourglass_flowing_sand: | 2021-11-08 14:30:00 | moe           |      4 |        9 | Master Fontana     |   5    | roughnut          |
+| 66 | :3rd_place_medal:        | 2021-11-08 14:10:00 | queanbeyan    |      1 |        8 | Pandering          |   2.5  | prometheus        |
 | 67 | :boom:                   | 2021-11-08 13:50:00 | lismore       |      1 |        6 | I'm Gunna Cashew   |   2.8  | prometheus        |
