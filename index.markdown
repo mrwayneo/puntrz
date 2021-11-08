@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-08 23:14:36 +1000  
+date: 2021-11-09 00:23:49 +1000  
 ---   
 
 
@@ -30,22 +30,22 @@ date: 2021-11-08 23:14:36 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     38 |     11 |    428.5 | 0.29 |  1.13 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     39 |     11 |    418.5 | 0.28 |  1.07 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    183 |     53 |    226.5 | 0.29 |  0.12 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     44 |      6 |   -219   | 0.14 | -0.5  |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    342 |     86 |   -233.6 | 0.25 | -0.07 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    369 |     75 |   -236   | 0.2  | -0.06 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    200 |     58 |   -239.9 | 0.29 | -0.12 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     63 |      8 |   -417   | 0.13 | -0.66 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    138 |     22 |   -552.5 | 0.16 | -0.4  |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    498 |    123 |   -907   | 0.25 | -0.18 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    599 |    154 |  -1259   | 0.26 | -0.21 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    360 |     74 |   -220   | 0.21 | -0.06 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    201 |     58 |   -249.9 | 0.29 | -0.12 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    338 |     84 |   -294.6 | 0.25 | -0.09 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     66 |      8 |   -447   | 0.12 | -0.68 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    140 |     22 |   -572.5 | 0.16 | -0.41 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    494 |    122 |   -907   | 0.25 | -0.18 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    594 |    153 |  -1283   | 0.26 | -0.22 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    718 |    100 |  -1340.6 | 0.14 | -0.19 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2675 |    150 |  -2010   | 0.06 | -0.08 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2022 |    466 |  -2134.6 | 0.23 | -0.11 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3146 |    701 |  -6031.3 | 0.22 | -0.19 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6315 |    914 | -10940.7 | 0.14 | -0.17 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8404 |    447 | -17922.5 | 0.05 | -0.21 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2009 |    464 |  -2105.6 | 0.23 | -0.1  |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2638 |    146 |  -2251   | 0.06 | -0.09 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3105 |    690 |  -5945.3 | 0.22 | -0.19 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6316 |    913 | -10975.2 | 0.14 | -0.17 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8313 |    439 | -18385.5 | 0.05 | -0.22 |
 
 |    | finish                   | time                | track         |   race |   number | name               |   odds | tipster           |
 |---:|:-------------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:------------------|
@@ -77,35 +77,35 @@ date: 2021-11-08 23:14:36 +1000
 | 25 | :soon:                   | 2021-11-09 00:25:00 | greyville     |      6 |        4 | Calgary            |   0    | prometheus        |
 | 26 | :soon:                   | 2021-11-09 00:25:00 | greyville     |      6 |        7 | Path To Fortune    |   0    | prometheus        |
 | 27 | :soon:                   | 2021-11-09 00:25:00 | greyville     |      6 |        1 | Flying Grace       |   0    | prometheus        |
-| 28 | :soon:                   | 2021-11-09 00:10:00 | wolverhampton |      3 |        1 | Aussie Banker      |  13    | roughnut          |
-| 29 | :soon:                   | 2021-11-09 00:00:00 | carlisle      |      2 |        5 | Emir Sacree        |   7.5  | pangea            |
-| 30 | :soon:                   | 2021-11-09 00:00:00 | carlisle      |      2 |        1 | Midnight River     |   1.75 | overthrow         |
-| 31 | :soon:                   | 2021-11-08 23:50:00 | kempton       |      1 |        1 | Midnights Legacy   |   1.5  | vulture           |
-| 32 | :soon:                   | 2021-11-08 23:45:00 | greyville     |      5 |        4 | Airbuzz            |   0    | prometheus        |
-| 33 | :soon:                   | 2021-11-08 23:45:00 | greyville     |      5 |        6 | Sofia Erin         |   0    | prometheus        |
-| 34 | :soon:                   | 2021-11-08 23:45:00 | greyville     |      5 |        7 | Diamonds 'n Dust   |   0    | prometheus        |
-| 35 | :soon:                   | 2021-11-08 23:45:00 | greyville     |      5 |        8 | Mind Set           |   0    | prometheus        |
-| 36 | :soon:                   | 2021-11-08 23:45:00 | greyville     |      5 |        1 | Flaming Lass       |   0    | prometheus        |
-| 37 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |        9 | Snowy Clouds       |   5    | milkman           |
-| 38 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |       13 | Nurse Susan        |   3.4  | overthrow         |
-| 39 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |       16 | The Wild Wild Sea  |  67    | roughnut          |
-| 40 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |        7 | Lightning Attack   |  51    | roughnut          |
-| 41 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |        1 | Bouncing Bobby     | 126    | roughnut          |
-| 42 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |        2 | Broomfields Kan    |  34    | roughnut          |
-| 43 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |       15 | Star Dreamer       |  61    | roughnut          |
-| 44 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |       12 | Granny Mags        |  51    | roughnut          |
-| 45 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |        8 | Post Chaise        | 201    | roughnut          |
-| 46 | :hourglass_flowing_sand: | 2021-11-08 23:10:00 | wolverhampton |      1 |        7 | Sea Of Charm       |  11    | roughnut          |
-| 47 | :hourglass_flowing_sand: | 2021-11-08 23:10:00 | wolverhampton |      1 |        9 | Peachey Carnehan   |  12    | roughnut          |
-| 48 | :hourglass_flowing_sand: | 2021-11-08 23:10:00 | wolverhampton |      1 |       12 | Surewecan          |  41    | roughnut          |
-| 49 | :hourglass_flowing_sand: | 2021-11-08 23:10:00 | wolverhampton |      1 |       11 | Anniemation        |  34    | roughnut          |
-| 50 | :hourglass_flowing_sand: | 2021-11-08 23:10:00 | wolverhampton |      1 |        5 | Seeking Perfection |  51    | roughnut          |
-| 51 | :hourglass_flowing_sand: | 2021-11-08 23:10:00 | greyville     |      4 |        1 | Diedi              |   0    | prometheus        |
-| 52 | :hourglass_flowing_sand: | 2021-11-08 23:10:00 | greyville     |      4 |        3 | Leslies Pathtofame |   0    | prometheus        |
-| 53 | :hourglass_flowing_sand: | 2021-11-08 23:10:00 | greyville     |      4 |       11 | Great Guy          |   0    | prometheus        |
+| 28 | :hourglass_flowing_sand: | 2021-11-09 00:10:00 | wolverhampton |      3 |        1 | Aussie Banker      |  13    | roughnut          |
+| 29 | :hourglass_flowing_sand: | 2021-11-09 00:00:00 | carlisle      |      2 |        5 | Emir Sacree        |   7.5  | pangea            |
+| 30 | :hourglass_flowing_sand: | 2021-11-09 00:00:00 | carlisle      |      2 |        1 | Midnight River     |   1.75 | overthrow         |
+| 31 | :hourglass_flowing_sand: | 2021-11-08 23:50:00 | kempton       |      1 |        1 | Midnights Legacy   |   1.5  | vulture           |
+| 32 | :hourglass_flowing_sand: | 2021-11-08 23:45:00 | greyville     |      5 |        4 | Airbuzz            |   0    | prometheus        |
+| 33 | :hourglass_flowing_sand: | 2021-11-08 23:45:00 | greyville     |      5 |        6 | Sofia Erin         |   0    | prometheus        |
+| 34 | :hourglass_flowing_sand: | 2021-11-08 23:45:00 | greyville     |      5 |        7 | Diamonds 'n Dust   |   0    | prometheus        |
+| 35 | :hourglass_flowing_sand: | 2021-11-08 23:45:00 | greyville     |      5 |        8 | Mind Set           |   0    | prometheus        |
+| 36 | :hourglass_flowing_sand: | 2021-11-08 23:45:00 | greyville     |      5 |        1 | Flaming Lass       |   0    | prometheus        |
+| 37 | :hourglass_flowing_sand: | 2021-11-08 23:30:00 | carlisle      |      1 |        9 | Snowy Clouds       |   5    | milkman           |
+| 38 | :hourglass_flowing_sand: | 2021-11-08 23:30:00 | carlisle      |      1 |       13 | Nurse Susan        |   3.4  | overthrow         |
+| 39 | :hourglass_flowing_sand: | 2021-11-08 23:30:00 | carlisle      |      1 |       16 | The Wild Wild Sea  |  67    | roughnut          |
+| 40 | :hourglass_flowing_sand: | 2021-11-08 23:30:00 | carlisle      |      1 |        7 | Lightning Attack   |  51    | roughnut          |
+| 41 | :hourglass_flowing_sand: | 2021-11-08 23:30:00 | carlisle      |      1 |        1 | Bouncing Bobby     | 126    | roughnut          |
+| 42 | :hourglass_flowing_sand: | 2021-11-08 23:30:00 | carlisle      |      1 |        2 | Broomfields Kan    |  34    | roughnut          |
+| 43 | :hourglass_flowing_sand: | 2021-11-08 23:30:00 | carlisle      |      1 |       15 | Star Dreamer       |  61    | roughnut          |
+| 44 | :hourglass_flowing_sand: | 2021-11-08 23:30:00 | carlisle      |      1 |       12 | Granny Mags        |  51    | roughnut          |
+| 45 | :hourglass_flowing_sand: | 2021-11-08 23:30:00 | carlisle      |      1 |        8 | Post Chaise        | 201    | roughnut          |
+| 46 | :3rd_place_medal:        | 2021-11-08 23:10:00 | wolverhampton |      1 |        7 | Sea Of Charm       |  11    | roughnut          |
+| 47 | 4                        | 2021-11-08 23:10:00 | wolverhampton |      1 |        9 | Peachey Carnehan   |  12    | roughnut          |
+| 48 | --                       | 2021-11-08 23:10:00 | wolverhampton |      1 |       12 | Surewecan          |  41    | roughnut          |
+| 49 | --                       | 2021-11-08 23:10:00 | wolverhampton |      1 |       11 | Anniemation        |  34    | roughnut          |
+| 50 | --                       | 2021-11-08 23:10:00 | wolverhampton |      1 |        5 | Seeking Perfection |  51    | roughnut          |
+| 51 | :boom:                   | 2021-11-08 23:10:00 | greyville     |      4 |        1 | Diedi              |   0    | prometheus        |
+| 52 | 4                        | 2021-11-08 23:10:00 | greyville     |      4 |        3 | Leslies Pathtofame |   0    | prometheus        |
+| 53 | --                       | 2021-11-08 23:10:00 | greyville     |      4 |       11 | Great Guy          |   0    | prometheus        |
 | 54 | --                       | 2021-11-08 22:35:00 | greyville     |      3 |        7 | Greatclubqueen     |   0    | prometheus        |
-| 55 | --                       | 2021-11-08 22:35:00 | greyville     |      3 |        2 | Shield Maiden      |   0    | prometheus        |
-| 56 | --                       | 2021-11-08 22:35:00 | greyville     |      3 |        3 | My Elouise         |   0    | prometheus        |
+| 55 | :boom:                   | 2021-11-08 22:35:00 | greyville     |      3 |        2 | Shield Maiden      |   0    | prometheus        |
+| 56 | :3rd_place_medal:        | 2021-11-08 22:35:00 | greyville     |      3 |        3 | My Elouise         |   0    | prometheus        |
 | 57 | --                       | 2021-11-08 22:05:00 | greyville     |      2 |        1 | Hippocrates        |   0    | prometheus        |
 | 58 | --                       | 2021-11-08 17:50:00 | queanbeyan    |      7 |        3 | Military Bay       |   2.8  | prometheus        |
 | 59 | 6                        | 2021-11-08 17:35:00 | lismore       |      7 |       11 | Epic Player        |  13    | cosmo,roughnut    |
