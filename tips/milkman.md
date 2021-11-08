@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-08 07:54:29 +1000  
+date: 2021-11-08 13:24:49 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,9 @@ categories: None
 
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
+| 00:55             | 2021-11-09 | kempton R3        | 3 Doddiethegreat      |  1.45 |      -10 |
+| 00:55             | 2021-11-09 | kempton R3        | 1 Fifrelet            |  5    |      -10 |
+| 23:30             | 2021-11-08 | carlisle R1       | 9 Snowy Clouds        |  5    |      -10 |
 | 0                 | 2021-11-08 | sandown R7        | 1 Revasser            |  0    |      -10 |
 | :boom:            | 2021-11-08 | sandown R4        | 1 Chantry House       |  1.3  |        3 |
 | 0                 | 2021-11-08 | sandown R3        | 6 He's A Knowall      |  0    |      -10 |
