@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-09 01:44:36 +1000  
+date: 2021-11-09 03:32:31 +1000  
 ---   
 
 
@@ -36,42 +36,42 @@ date: 2021-11-09 01:44:36 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    360 |     74 |   -220   | 0.21 | -0.06 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    201 |     58 |   -249.9 | 0.29 | -0.12 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    338 |     84 |   -294.6 | 0.25 | -0.09 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     66 |      8 |   -447   | 0.12 | -0.68 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    140 |     23 |   -506.5 | 0.16 | -0.36 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     66 |      9 |   -433.7 | 0.14 | -0.66 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    140 |     23 |   -517.5 | 0.16 | -0.37 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    494 |    122 |   -907   | 0.25 | -0.18 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    594 |    153 |  -1283   | 0.26 | -0.22 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    718 |    100 |  -1340.6 | 0.14 | -0.19 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2009 |    465 |  -2071.6 | 0.23 | -0.1  |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2009 |    466 |  -2058.3 | 0.23 | -0.1  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2638 |    146 |  -2251   | 0.06 | -0.09 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3105 |    690 |  -5945.3 | 0.22 | -0.19 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6316 |    914 | -10920.2 | 0.14 | -0.17 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8313 |    439 | -18385.5 | 0.05 | -0.22 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6316 |    914 | -10918.2 | 0.14 | -0.17 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8313 |    440 | -18255.5 | 0.05 | -0.22 |
 
 |    | finish                   | time                | track         |   race |   number | name               |   odds | tipster           |
 |---:|:-------------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:------------------|
 |  0 | :soon:                   | 2021-11-09 06:00:00 | newcastle     |      7 |       11 | Tilia Cordata      |   5    | looseknot         |
-|  1 | :soon:                   | 2021-11-09 02:55:00 | wolverhampton |      8 |        8 | Bonnie Lad         |   6.5  | roughnut          |
-|  2 | :soon:                   | 2021-11-09 02:45:00 | newcastle     |      1 |        4 | Hathlool           |   9.5  | roughnut          |
-|  3 | :soon:                   | 2021-11-09 02:45:00 | newcastle     |      1 |        1 | Gaassee            |   1.7  | vulture           |
-|  4 | :soon:                   | 2021-11-09 02:40:00 | carlisle      |      7 |        5 | Niceandeasy        |  12    | roughnut          |
-|  5 | :soon:                   | 2021-11-09 02:40:00 | carlisle      |      7 |       11 | Stolen Money       |  10    | roughnut          |
-|  6 | :soon:                   | 2021-11-09 02:40:00 | carlisle      |      7 |       13 | Pistol             |  81    | roughnut          |
-|  7 | :soon:                   | 2021-11-09 02:30:00 | kempton       |      6 |        1 | Lilly Pedlar       |   2.8  | overthrow         |
-|  8 | :soon:                   | 2021-11-09 02:30:00 | kempton       |      6 |        2 | Get The Appeal     |   4.6  | overthrow         |
-|  9 | :soon:                   | 2021-11-09 02:20:00 | wolverhampton |      7 |        4 | Dandy Maestro      |  41    | roughnut          |
-| 10 | :soon:                   | 2021-11-09 02:20:00 | wolverhampton |      7 |        6 | Resumption         |   3.2  | prometheus        |
-| 11 | :soon:                   | 2021-11-09 02:10:00 | carlisle      |      6 |        4 | If Not For Dylan   |  11    | roughnut          |
-| 12 | :soon:                   | 2021-11-09 01:50:00 | wolverhampton |      6 |        7 | Songkran           |  12    | benny,roughnut    |
-| 13 | :hourglass_flowing_sand: | 2021-11-09 01:40:00 | carlisle      |      5 |        1 | Captain Biggles    |   2.9  | vulture           |
-| 14 | :hourglass_flowing_sand: | 2021-11-09 01:40:00 | carlisle      |      5 |        2 | Father John        |   4.5  | vulture           |
-| 15 | :hourglass_flowing_sand: | 2021-11-09 01:40:00 | carlisle      |      5 |        6 | Fairlawn Flyer     |  11    | cosmo,roughnut    |
-| 16 | :hourglass_flowing_sand: | 2021-11-09 01:35:00 | greyville     |      8 |        2 | Don't Touch Me     |  13    | cosmo,roughnut    |
-| 17 | :hourglass_flowing_sand: | 2021-11-09 01:35:00 | greyville     |      8 |        3 | Dinetto            |   6    | roughnut          |
-| 18 | :hourglass_flowing_sand: | 2021-11-09 01:35:00 | greyville     |      8 |        8 | Congo Compaq       |  21    | roughnut          |
-| 19 | :hourglass_flowing_sand: | 2021-11-09 01:30:00 | kempton       |      4 |        5 | Generous Day       |  12    | roughnut          |
-| 20 | :hourglass_flowing_sand: | 2021-11-09 01:00:00 | greyville     |      7 |        7 | Mach Four          |   8.5  | vulture           |
-| 21 | :hourglass_flowing_sand: | 2021-11-09 00:55:00 | kempton       |      3 |        1 | Fifrelet           |   5    | milkman           |
-| 22 | :hourglass_flowing_sand: | 2021-11-09 00:55:00 | kempton       |      3 |        3 | Doddiethegreat     |   1.45 | overthrow,milkman |
+|  1 | --                       | 2021-11-09 02:55:00 | wolverhampton |      8 |        8 | Bonnie Lad         |   6.5  | roughnut          |
+|  2 | :hourglass_flowing_sand: | 2021-11-09 02:45:00 | newcastle     |      1 |        4 | Hathlool           |   9.5  | roughnut          |
+|  3 | :hourglass_flowing_sand: | 2021-11-09 02:45:00 | newcastle     |      1 |        1 | Gaassee            |   1.7  | vulture           |
+|  4 | :hourglass_flowing_sand: | 2021-11-09 02:40:00 | carlisle      |      7 |        5 | Niceandeasy        |  12    | roughnut          |
+|  5 | :hourglass_flowing_sand: | 2021-11-09 02:40:00 | carlisle      |      7 |       11 | Stolen Money       |  10    | roughnut          |
+|  6 | :hourglass_flowing_sand: | 2021-11-09 02:40:00 | carlisle      |      7 |       13 | Pistol             |  81    | roughnut          |
+|  7 | :hourglass_flowing_sand: | 2021-11-09 02:30:00 | kempton       |      6 |        1 | Lilly Pedlar       |   2.8  | overthrow         |
+|  8 | :hourglass_flowing_sand: | 2021-11-09 02:30:00 | kempton       |      6 |        2 | Get The Appeal     |   4.6  | overthrow         |
+|  9 | --                       | 2021-11-09 02:20:00 | wolverhampton |      7 |        4 | Dandy Maestro      |  41    | roughnut          |
+| 10 | --                       | 2021-11-09 02:20:00 | wolverhampton |      7 |        6 | Resumption         |   3.2  | prometheus        |
+| 11 | :hourglass_flowing_sand: | 2021-11-09 02:10:00 | carlisle      |      6 |        4 | If Not For Dylan   |  11    | roughnut          |
+| 12 | --                       | 2021-11-09 01:50:00 | wolverhampton |      6 |        7 | Songkran           |  12    | benny,roughnut    |
+| 13 | :2nd_place_medal:        | 2021-11-09 01:40:00 | carlisle      |      5 |        1 | Captain Biggles    |   2.9  | vulture           |
+| 14 | :3rd_place_medal:        | 2021-11-09 01:40:00 | carlisle      |      5 |        2 | Father John        |   4.5  | vulture           |
+| 15 | 4                        | 2021-11-09 01:40:00 | carlisle      |      5 |        6 | Fairlawn Flyer     |  11    | cosmo,roughnut    |
+| 16 | :3rd_place_medal:        | 2021-11-09 01:35:00 | greyville     |      8 |        2 | Don't Touch Me     |  13    | cosmo,roughnut    |
+| 17 | 4                        | 2021-11-09 01:35:00 | greyville     |      8 |        3 | Dinetto            |   6    | roughnut          |
+| 18 | :boom:                   | 2021-11-09 01:35:00 | greyville     |      8 |        8 | Congo Compaq       |  21    | roughnut          |
+| 19 | --                       | 2021-11-09 01:30:00 | kempton       |      4 |        5 | Generous Day       |  12    | roughnut          |
+| 20 | :2nd_place_medal:        | 2021-11-09 01:00:00 | greyville     |      7 |        7 | Mach Four          |   8.5  | vulture           |
+| 21 | 4                        | 2021-11-09 00:55:00 | kempton       |      3 |        1 | Fifrelet           |   5    | milkman           |
+| 22 | :boom:                   | 2021-11-09 00:55:00 | kempton       |      3 |        3 | Doddiethegreat     |   1.45 | overthrow,milkman |
 | 23 | --                       | 2021-11-09 00:35:00 | carlisle      |      3 |        2 | Laskadine          |  13    | roughnut          |
 | 24 | :2nd_place_medal:        | 2021-11-09 00:25:00 | greyville     |      6 |        5 | Master Tobe        |   0    | prometheus        |
 | 25 | :boom:                   | 2021-11-09 00:25:00 | greyville     |      6 |        4 | Calgary            |   0    | prometheus        |
