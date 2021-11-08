@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-08 21:47:58 +1000  
+date: 2021-11-08 22:27:38 +1000  
 ---   
 
 
@@ -47,73 +47,73 @@ date: 2021-11-08 21:47:58 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6315 |    914 | -10940.7 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8404 |    447 | -17922.5 | 0.05 | -0.21 |
 
-|    | finish            | time                | track         |   race |   number | name               |   odds | tipster           |
-|---:|:------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:------------------|
-|  0 | :soon:            | 2021-11-09 06:00:00 | newcastle     |      7 |       11 | Tilia Cordata      |   5    | looseknot         |
-|  1 | :soon:            | 2021-11-09 02:55:00 | wolverhampton |      8 |        8 | Bonnie Lad         |   6.5  | roughnut          |
-|  2 | :soon:            | 2021-11-09 02:45:00 | newcastle     |      1 |        4 | Hathlool           |   9.5  | roughnut          |
-|  3 | :soon:            | 2021-11-09 02:45:00 | newcastle     |      1 |        1 | Gaassee            |   1.7  | vulture           |
-|  4 | :soon:            | 2021-11-09 02:40:00 | carlisle      |      7 |        5 | Niceandeasy        |  12    | roughnut          |
-|  5 | :soon:            | 2021-11-09 02:40:00 | carlisle      |      7 |       11 | Stolen Money       |  10    | roughnut          |
-|  6 | :soon:            | 2021-11-09 02:40:00 | carlisle      |      7 |       13 | Pistol             |  81    | roughnut          |
-|  7 | :soon:            | 2021-11-09 02:30:00 | kempton       |      6 |        1 | Lilly Pedlar       |   2.8  | overthrow         |
-|  8 | :soon:            | 2021-11-09 02:30:00 | kempton       |      6 |        2 | Get The Appeal     |   4.6  | overthrow         |
-|  9 | :soon:            | 2021-11-09 02:20:00 | wolverhampton |      7 |        4 | Dandy Maestro      |  41    | roughnut          |
-| 10 | :soon:            | 2021-11-09 02:20:00 | wolverhampton |      7 |        6 | Resumption         |   3.2  | prometheus        |
-| 11 | :soon:            | 2021-11-09 02:10:00 | carlisle      |      6 |        4 | If Not For Dylan   |  11    | roughnut          |
-| 12 | :soon:            | 2021-11-09 01:50:00 | wolverhampton |      6 |        7 | Songkran           |  12    | benny,roughnut    |
-| 13 | :soon:            | 2021-11-09 01:40:00 | carlisle      |      5 |        1 | Captain Biggles    |   2.9  | vulture           |
-| 14 | :soon:            | 2021-11-09 01:40:00 | carlisle      |      5 |        2 | Father John        |   4.5  | vulture           |
-| 15 | :soon:            | 2021-11-09 01:40:00 | carlisle      |      5 |        6 | Fairlawn Flyer     |  11    | cosmo,roughnut    |
-| 16 | :soon:            | 2021-11-09 01:35:00 | greyville     |      8 |        2 | Don't Touch Me     |  13    | cosmo,roughnut    |
-| 17 | :soon:            | 2021-11-09 01:35:00 | greyville     |      8 |        3 | Dinetto            |   6    | roughnut          |
-| 18 | :soon:            | 2021-11-09 01:35:00 | greyville     |      8 |        8 | Congo Compaq       |  21    | roughnut          |
-| 19 | :soon:            | 2021-11-09 01:30:00 | kempton       |      4 |        5 | Generous Day       |  12    | roughnut          |
-| 20 | :soon:            | 2021-11-09 01:00:00 | greyville     |      7 |        7 | Mach Four          |   8.5  | vulture           |
-| 21 | :soon:            | 2021-11-09 00:55:00 | kempton       |      3 |        1 | Fifrelet           |   5    | milkman           |
-| 22 | :soon:            | 2021-11-09 00:55:00 | kempton       |      3 |        3 | Doddiethegreat     |   1.45 | overthrow,milkman |
-| 23 | :soon:            | 2021-11-09 00:35:00 | carlisle      |      3 |        2 | Laskadine          |  13    | roughnut          |
-| 24 | :soon:            | 2021-11-09 00:25:00 | greyville     |      6 |        5 | Master Tobe        |   0    | prometheus        |
-| 25 | :soon:            | 2021-11-09 00:25:00 | greyville     |      6 |        4 | Calgary            |   0    | prometheus        |
-| 26 | :soon:            | 2021-11-09 00:25:00 | greyville     |      6 |        7 | Path To Fortune    |   0    | prometheus        |
-| 27 | :soon:            | 2021-11-09 00:25:00 | greyville     |      6 |        1 | Flying Grace       |   0    | prometheus        |
-| 28 | :soon:            | 2021-11-09 00:10:00 | wolverhampton |      3 |        1 | Aussie Banker      |  13    | roughnut          |
-| 29 | :soon:            | 2021-11-09 00:00:00 | carlisle      |      2 |        5 | Emir Sacree        |   7.5  | pangea            |
-| 30 | :soon:            | 2021-11-09 00:00:00 | carlisle      |      2 |        1 | Midnight River     |   1.75 | overthrow         |
-| 31 | :soon:            | 2021-11-08 23:50:00 | kempton       |      1 |        1 | Midnights Legacy   |   1.5  | vulture           |
-| 32 | :soon:            | 2021-11-08 23:45:00 | greyville     |      5 |        4 | Airbuzz            |   0    | prometheus        |
-| 33 | :soon:            | 2021-11-08 23:45:00 | greyville     |      5 |        6 | Sofia Erin         |   0    | prometheus        |
-| 34 | :soon:            | 2021-11-08 23:45:00 | greyville     |      5 |        7 | Diamonds 'n Dust   |   0    | prometheus        |
-| 35 | :soon:            | 2021-11-08 23:45:00 | greyville     |      5 |        8 | Mind Set           |   0    | prometheus        |
-| 36 | :soon:            | 2021-11-08 23:45:00 | greyville     |      5 |        1 | Flaming Lass       |   0    | prometheus        |
-| 37 | :soon:            | 2021-11-08 23:30:00 | carlisle      |      1 |        9 | Snowy Clouds       |   5    | milkman           |
-| 38 | :soon:            | 2021-11-08 23:30:00 | carlisle      |      1 |       13 | Nurse Susan        |   3.4  | overthrow         |
-| 39 | :soon:            | 2021-11-08 23:30:00 | carlisle      |      1 |       16 | The Wild Wild Sea  |  67    | roughnut          |
-| 40 | :soon:            | 2021-11-08 23:30:00 | carlisle      |      1 |        7 | Lightning Attack   |  51    | roughnut          |
-| 41 | :soon:            | 2021-11-08 23:30:00 | carlisle      |      1 |        1 | Bouncing Bobby     | 126    | roughnut          |
-| 42 | :soon:            | 2021-11-08 23:30:00 | carlisle      |      1 |        2 | Broomfields Kan    |  34    | roughnut          |
-| 43 | :soon:            | 2021-11-08 23:30:00 | carlisle      |      1 |       15 | Star Dreamer       |  61    | roughnut          |
-| 44 | :soon:            | 2021-11-08 23:30:00 | carlisle      |      1 |       12 | Granny Mags        |  51    | roughnut          |
-| 45 | :soon:            | 2021-11-08 23:30:00 | carlisle      |      1 |        8 | Post Chaise        | 201    | roughnut          |
-| 46 | :soon:            | 2021-11-08 23:10:00 | wolverhampton |      1 |        7 | Sea Of Charm       |  11    | roughnut          |
-| 47 | :soon:            | 2021-11-08 23:10:00 | wolverhampton |      1 |        9 | Peachey Carnehan   |  12    | roughnut          |
-| 48 | :soon:            | 2021-11-08 23:10:00 | wolverhampton |      1 |       12 | Surewecan          |  41    | roughnut          |
-| 49 | :soon:            | 2021-11-08 23:10:00 | wolverhampton |      1 |       11 | Anniemation        |  34    | roughnut          |
-| 50 | :soon:            | 2021-11-08 23:10:00 | wolverhampton |      1 |        5 | Seeking Perfection |  51    | roughnut          |
-| 51 | :soon:            | 2021-11-08 23:10:00 | greyville     |      4 |        1 | Diedi              |   0    | prometheus        |
-| 52 | :soon:            | 2021-11-08 23:10:00 | greyville     |      4 |        3 | Leslies Pathtofame |   0    | prometheus        |
-| 53 | :soon:            | 2021-11-08 23:10:00 | greyville     |      4 |       11 | Great Guy          |   0    | prometheus        |
-| 54 | :soon:            | 2021-11-08 22:35:00 | greyville     |      3 |        7 | Greatclubqueen     |   0    | prometheus        |
-| 55 | :soon:            | 2021-11-08 22:35:00 | greyville     |      3 |        2 | Shield Maiden      |   0    | prometheus        |
-| 56 | :soon:            | 2021-11-08 22:35:00 | greyville     |      3 |        3 | My Elouise         |   0    | prometheus        |
-| 57 | :soon:            | 2021-11-08 22:05:00 | greyville     |      2 |        1 | Hippocrates        |   0    | prometheus        |
-| 58 | --                | 2021-11-08 17:50:00 | queanbeyan    |      7 |        3 | Military Bay       |   2.8  | prometheus        |
-| 59 | 6                 | 2021-11-08 17:35:00 | lismore       |      7 |       11 | Epic Player        |  13    | cosmo,roughnut    |
-| 60 | :2nd_place_medal: | 2021-11-08 16:55:00 | lismore       |      6 |        1 | Star Magnum        |   1.65 | icyhot            |
-| 61 | --                | 2021-11-08 16:20:00 | lismore       |      5 |        4 | Tabulam            |   4.2  | moechilli         |
-| 62 | 4                 | 2021-11-08 16:20:00 | lismore       |      5 |        2 | Helmet Head        |  13    | cosmo,roughnut    |
-| 63 | :boom:            | 2021-11-08 15:25:00 | queanbeyan    |      3 |        2 | I Love Lucy        |   2.8  | prometheus        |
-| 64 | :2nd_place_medal: | 2021-11-08 15:25:00 | queanbeyan    |      3 |        9 | Jesta Diva         |  17    | cosmo,roughnut    |
-| 65 | :boom:            | 2021-11-08 14:30:00 | moe           |      4 |        9 | Master Fontana     |   5    | roughnut          |
-| 66 | :3rd_place_medal: | 2021-11-08 14:10:00 | queanbeyan    |      1 |        8 | Pandering          |   2.5  | prometheus        |
-| 67 | :boom:            | 2021-11-08 13:50:00 | lismore       |      1 |        6 | I'm Gunna Cashew   |   2.8  | prometheus        |
+|    | finish                   | time                | track         |   race |   number | name               |   odds | tipster           |
+|---:|:-------------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:------------------|
+|  0 | :soon:                   | 2021-11-09 06:00:00 | newcastle     |      7 |       11 | Tilia Cordata      |   5    | looseknot         |
+|  1 | :soon:                   | 2021-11-09 02:55:00 | wolverhampton |      8 |        8 | Bonnie Lad         |   6.5  | roughnut          |
+|  2 | :soon:                   | 2021-11-09 02:45:00 | newcastle     |      1 |        4 | Hathlool           |   9.5  | roughnut          |
+|  3 | :soon:                   | 2021-11-09 02:45:00 | newcastle     |      1 |        1 | Gaassee            |   1.7  | vulture           |
+|  4 | :soon:                   | 2021-11-09 02:40:00 | carlisle      |      7 |        5 | Niceandeasy        |  12    | roughnut          |
+|  5 | :soon:                   | 2021-11-09 02:40:00 | carlisle      |      7 |       11 | Stolen Money       |  10    | roughnut          |
+|  6 | :soon:                   | 2021-11-09 02:40:00 | carlisle      |      7 |       13 | Pistol             |  81    | roughnut          |
+|  7 | :soon:                   | 2021-11-09 02:30:00 | kempton       |      6 |        1 | Lilly Pedlar       |   2.8  | overthrow         |
+|  8 | :soon:                   | 2021-11-09 02:30:00 | kempton       |      6 |        2 | Get The Appeal     |   4.6  | overthrow         |
+|  9 | :soon:                   | 2021-11-09 02:20:00 | wolverhampton |      7 |        4 | Dandy Maestro      |  41    | roughnut          |
+| 10 | :soon:                   | 2021-11-09 02:20:00 | wolverhampton |      7 |        6 | Resumption         |   3.2  | prometheus        |
+| 11 | :soon:                   | 2021-11-09 02:10:00 | carlisle      |      6 |        4 | If Not For Dylan   |  11    | roughnut          |
+| 12 | :soon:                   | 2021-11-09 01:50:00 | wolverhampton |      6 |        7 | Songkran           |  12    | benny,roughnut    |
+| 13 | :soon:                   | 2021-11-09 01:40:00 | carlisle      |      5 |        1 | Captain Biggles    |   2.9  | vulture           |
+| 14 | :soon:                   | 2021-11-09 01:40:00 | carlisle      |      5 |        2 | Father John        |   4.5  | vulture           |
+| 15 | :soon:                   | 2021-11-09 01:40:00 | carlisle      |      5 |        6 | Fairlawn Flyer     |  11    | cosmo,roughnut    |
+| 16 | :soon:                   | 2021-11-09 01:35:00 | greyville     |      8 |        2 | Don't Touch Me     |  13    | cosmo,roughnut    |
+| 17 | :soon:                   | 2021-11-09 01:35:00 | greyville     |      8 |        3 | Dinetto            |   6    | roughnut          |
+| 18 | :soon:                   | 2021-11-09 01:35:00 | greyville     |      8 |        8 | Congo Compaq       |  21    | roughnut          |
+| 19 | :soon:                   | 2021-11-09 01:30:00 | kempton       |      4 |        5 | Generous Day       |  12    | roughnut          |
+| 20 | :soon:                   | 2021-11-09 01:00:00 | greyville     |      7 |        7 | Mach Four          |   8.5  | vulture           |
+| 21 | :soon:                   | 2021-11-09 00:55:00 | kempton       |      3 |        1 | Fifrelet           |   5    | milkman           |
+| 22 | :soon:                   | 2021-11-09 00:55:00 | kempton       |      3 |        3 | Doddiethegreat     |   1.45 | overthrow,milkman |
+| 23 | :soon:                   | 2021-11-09 00:35:00 | carlisle      |      3 |        2 | Laskadine          |  13    | roughnut          |
+| 24 | :soon:                   | 2021-11-09 00:25:00 | greyville     |      6 |        5 | Master Tobe        |   0    | prometheus        |
+| 25 | :soon:                   | 2021-11-09 00:25:00 | greyville     |      6 |        4 | Calgary            |   0    | prometheus        |
+| 26 | :soon:                   | 2021-11-09 00:25:00 | greyville     |      6 |        7 | Path To Fortune    |   0    | prometheus        |
+| 27 | :soon:                   | 2021-11-09 00:25:00 | greyville     |      6 |        1 | Flying Grace       |   0    | prometheus        |
+| 28 | :soon:                   | 2021-11-09 00:10:00 | wolverhampton |      3 |        1 | Aussie Banker      |  13    | roughnut          |
+| 29 | :soon:                   | 2021-11-09 00:00:00 | carlisle      |      2 |        5 | Emir Sacree        |   7.5  | pangea            |
+| 30 | :soon:                   | 2021-11-09 00:00:00 | carlisle      |      2 |        1 | Midnight River     |   1.75 | overthrow         |
+| 31 | :soon:                   | 2021-11-08 23:50:00 | kempton       |      1 |        1 | Midnights Legacy   |   1.5  | vulture           |
+| 32 | :soon:                   | 2021-11-08 23:45:00 | greyville     |      5 |        4 | Airbuzz            |   0    | prometheus        |
+| 33 | :soon:                   | 2021-11-08 23:45:00 | greyville     |      5 |        6 | Sofia Erin         |   0    | prometheus        |
+| 34 | :soon:                   | 2021-11-08 23:45:00 | greyville     |      5 |        7 | Diamonds 'n Dust   |   0    | prometheus        |
+| 35 | :soon:                   | 2021-11-08 23:45:00 | greyville     |      5 |        8 | Mind Set           |   0    | prometheus        |
+| 36 | :soon:                   | 2021-11-08 23:45:00 | greyville     |      5 |        1 | Flaming Lass       |   0    | prometheus        |
+| 37 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |        9 | Snowy Clouds       |   5    | milkman           |
+| 38 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |       13 | Nurse Susan        |   3.4  | overthrow         |
+| 39 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |       16 | The Wild Wild Sea  |  67    | roughnut          |
+| 40 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |        7 | Lightning Attack   |  51    | roughnut          |
+| 41 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |        1 | Bouncing Bobby     | 126    | roughnut          |
+| 42 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |        2 | Broomfields Kan    |  34    | roughnut          |
+| 43 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |       15 | Star Dreamer       |  61    | roughnut          |
+| 44 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |       12 | Granny Mags        |  51    | roughnut          |
+| 45 | :soon:                   | 2021-11-08 23:30:00 | carlisle      |      1 |        8 | Post Chaise        | 201    | roughnut          |
+| 46 | :soon:                   | 2021-11-08 23:10:00 | wolverhampton |      1 |        7 | Sea Of Charm       |  11    | roughnut          |
+| 47 | :soon:                   | 2021-11-08 23:10:00 | wolverhampton |      1 |        9 | Peachey Carnehan   |  12    | roughnut          |
+| 48 | :soon:                   | 2021-11-08 23:10:00 | wolverhampton |      1 |       12 | Surewecan          |  41    | roughnut          |
+| 49 | :soon:                   | 2021-11-08 23:10:00 | wolverhampton |      1 |       11 | Anniemation        |  34    | roughnut          |
+| 50 | :soon:                   | 2021-11-08 23:10:00 | wolverhampton |      1 |        5 | Seeking Perfection |  51    | roughnut          |
+| 51 | :soon:                   | 2021-11-08 23:10:00 | greyville     |      4 |        1 | Diedi              |   0    | prometheus        |
+| 52 | :soon:                   | 2021-11-08 23:10:00 | greyville     |      4 |        3 | Leslies Pathtofame |   0    | prometheus        |
+| 53 | :soon:                   | 2021-11-08 23:10:00 | greyville     |      4 |       11 | Great Guy          |   0    | prometheus        |
+| 54 | :soon:                   | 2021-11-08 22:35:00 | greyville     |      3 |        7 | Greatclubqueen     |   0    | prometheus        |
+| 55 | :soon:                   | 2021-11-08 22:35:00 | greyville     |      3 |        2 | Shield Maiden      |   0    | prometheus        |
+| 56 | :soon:                   | 2021-11-08 22:35:00 | greyville     |      3 |        3 | My Elouise         |   0    | prometheus        |
+| 57 | :hourglass_flowing_sand: | 2021-11-08 22:05:00 | greyville     |      2 |        1 | Hippocrates        |   0    | prometheus        |
+| 58 | --                       | 2021-11-08 17:50:00 | queanbeyan    |      7 |        3 | Military Bay       |   2.8  | prometheus        |
+| 59 | 6                        | 2021-11-08 17:35:00 | lismore       |      7 |       11 | Epic Player        |  13    | cosmo,roughnut    |
+| 60 | :2nd_place_medal:        | 2021-11-08 16:55:00 | lismore       |      6 |        1 | Star Magnum        |   1.65 | icyhot            |
+| 61 | --                       | 2021-11-08 16:20:00 | lismore       |      5 |        4 | Tabulam            |   4.2  | moechilli         |
+| 62 | 4                        | 2021-11-08 16:20:00 | lismore       |      5 |        2 | Helmet Head        |  13    | cosmo,roughnut    |
+| 63 | :boom:                   | 2021-11-08 15:25:00 | queanbeyan    |      3 |        2 | I Love Lucy        |   2.8  | prometheus        |
+| 64 | :2nd_place_medal:        | 2021-11-08 15:25:00 | queanbeyan    |      3 |        9 | Jesta Diva         |  17    | cosmo,roughnut    |
+| 65 | :boom:                   | 2021-11-08 14:30:00 | moe           |      4 |        9 | Master Fontana     |   5    | roughnut          |
+| 66 | :3rd_place_medal:        | 2021-11-08 14:10:00 | queanbeyan    |      1 |        8 | Pandering          |   2.5  | prometheus        |
+| 67 | :boom:                   | 2021-11-08 13:50:00 | lismore       |      1 |        6 | I'm Gunna Cashew   |   2.8  | prometheus        |
