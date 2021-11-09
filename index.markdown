@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-10 10:23:21 +1000  
+date: 2021-11-10 10:38:23 +1000  
 ---   
 
 
@@ -178,4 +178,4 @@ date: 2021-11-10 10:23:21 +1000
 | 126 | :soon:   | 2021-11-10 11:42:00 | riccarton-park |      4 |       15 | Megavision         |  41    | roughnut             |
 | 127 | :soon:   | 2021-11-10 11:07:00 | riccarton-park |      3 |       14 | Shibuya Kosaten    |  11    | cosmo,roughnut       |
 | 128 | :soon:   | 2021-11-10 11:07:00 | riccarton-park |      3 |        4 | Lennon             |  13    | roughnut             |
-| 129 | :soon:   | 2021-11-10 10:32:00 | riccarton-park |      2 |        6 | Kudos De Sothys    |  10    | roughnut             |
+| 129 | --       | 2021-11-10 10:32:00 | riccarton-park |      2 |        6 | Kudos De Sothys    |  10    | roughnut             |
