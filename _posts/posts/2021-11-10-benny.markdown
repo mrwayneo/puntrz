@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-11-10 07:51:24 +1000  
+date: 2021-11-10 10:15:06 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
+| 16:45             | 2021-11-10 | murray-bdge R6          | 2 Boomer Beach        |  7.5  |    -10   |
+| 16:03             | 2021-11-10 | ipswich R3              | 3 Better Than Best    |  5    |    -10   |
 | :3rd_place_medal: | 2021-11-09 | wolverhampton R6        | 7 Songkran            | 12    |    -10   |
 | 4                 | 2021-11-06 | morphettville-parks R9  | 13 Lady Dunmore       |  5.5  |    -10   |
 | :3rd_place_medal: | 2021-11-06 | flemington R8           | 7 Mo'unga             |  8    |    -10   |
@@ -83,8 +85,8 @@ categories: None
 | :boom:            | 2021-10-09 | randwick R10            | 10 Leo                |  5.8  |     48   |
 | 10                | 2021-10-09 | randwick R9             | 10 Great News         |  4.4  |    -10   |
 | 8                 | 2021-10-09 | caulfield R9            | 4 Elephant            |  4.6  |    -10   |
-| 8                 | 2021-10-09 | eagle-farm R7           | 6 Ligulate            | 19    |    -10   |
 | :3rd_place_medal: | 2021-10-09 | eagle-farm R7           | 7 Vinco               |  5    |    -10   |
+| 8                 | 2021-10-09 | eagle-farm R7           | 6 Ligulate            | 19    |    -10   |
 | 5                 | 2021-10-09 | morphettville R7        | 6 Taken Off           |  6    |    -10   |
 | 7                 | 2021-10-09 | eagle-farm R6           | 4 Firebox             | 21    |    -10   |
 | 11                | 2021-10-09 | randwick R6             | 2 All Saints' Eve     | 11    |    -10   |
@@ -160,8 +162,8 @@ categories: None
 | 4                 | 2021-09-04 | gold-coast R8           | 2 Moonan Me           |  7    |    -10   |
 | 10                | 2021-09-04 | eagle-farm R9           | 1 Vinco               |  5    |    -10   |
 | 8                 | 2021-09-04 | belmont R5              | 3 Campese             |  2.05 |    -10   |
-| :boom:            | 2021-09-04 | eagle-farm R7           | 4 Ingear              |  2.5  |     15   |
 | :3rd_place_medal: | 2021-09-04 | eagle-farm R7           | 3 Ready Babe          | 18    |    -10   |
+| :boom:            | 2021-09-04 | eagle-farm R7           | 4 Ingear              |  2.5  |     15   |
 | :2nd_place_medal: | 2021-09-04 | belmont R3              | 2 Dunbar              |  2.8  |    -10   |
 | :3rd_place_medal: | 2021-09-04 | randwick R7             | 5 Star of the Seas    | 11    |    -10   |
 | 4                 | 2021-09-04 | newcastle R4            | 5 False Step          | 10    |    -10   |
@@ -177,8 +179,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-28 | darwin R4               | 2 Sebrakate           | 15    |    -10   |
 | 9                 | 2021-08-28 | darwin R3               | 3 Kaptan Apollo       | 26    |    -10   |
 | :boom:            | 2021-08-28 | darwin R3               | 4 Patriot Day         | 10.5  |     95   |
-| 11                | 2021-08-28 | cairns R6               | 3 Hidden in Heaven    | 34    |    -10   |
 | 7                 | 2021-08-28 | cairns R6               | 8 Bold Type           |  4.2  |    -10   |
+| 11                | 2021-08-28 | cairns R6               | 3 Hidden in Heaven    | 34    |    -10   |
 | 5                 | 2021-08-28 | caulfield R6            | 10 Diamonds Inthe Sky | 21    |    -10   |
 | 7                 | 2021-08-28 | darwin R2               | 3 Trebla              |  5.5  |    -10   |
 | 9                 | 2021-08-28 | doomben R6              | 4 Let's Party Marty   | 19    |    -10   |
@@ -403,8 +405,8 @@ categories: None
 | :3rd_place_medal: | 2021-04-25 | devonport-synthetic R6  | 4 Rhyme Writer        |  4.8  |    -10   |
 | 5                 | 2021-04-25 | alice-springs R1        | 4 Dataset             |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-25 | awapuni R1              | 2 Maison Roxanne      |  2.4  |    -10   |
-| :2nd_place_medal: | 2021-04-24 | darwin R4               | 1 Patria              |  2.8  |    -10   |
 | 5                 | 2021-04-24 | darwin R4               | 4 Trebla              | 14    |    -10   |
+| :2nd_place_medal: | 2021-04-24 | darwin R4               | 1 Patria              |  2.8  |    -10   |
 | 0                 | 2021-04-24 | randwick R8             | 9 Starspangled Rodeo  |  5.6  |    -10   |
 | 4                 | 2021-04-24 | darwin R2               | 2 Paseeto             |  6    |    -10   |
 | 5                 | 2021-04-24 | morphettville-parks R7  | 9 Renegade            | 14    |    -10   |
@@ -533,8 +535,8 @@ categories: None
 | :3rd_place_medal: | 2021-02-05 | townsville R1           | 1 Attackabeel         |  1.4  |    -10   |
 | :3rd_place_medal: | 2021-01-30 | ascot R4                | 5 Phoneme             |  5    |    -10   |
 | 5                 | 2021-01-30 | caulfield R8            | 4 Maximak             | 11    |    -10   |
-| 6                 | 2021-01-30 | morphettville R6        | 7 Symphonette         | 18    |    -10   |
 | :boom:            | 2021-01-30 | morphettville R6        | 1 Behemoth            |  1.5  |      5   |
+| 6                 | 2021-01-30 | morphettville R6        | 7 Symphonette         | 18    |    -10   |
 | :2nd_place_medal: | 2021-01-30 | sunshine-coast R4       | 5 What the Fuss       |  4.45 |    -10   |
 | :boom:            | 2021-01-30 | morphettville R4        | 2 Soul Obsession      |  2.6  |     16   |
 | 8                 | 2021-01-28 | scone R6                | 1 Expiredtime         | 17    |    -10   |

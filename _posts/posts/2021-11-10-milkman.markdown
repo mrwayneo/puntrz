@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-10 07:51:38 +1000  
+date: 2021-11-10 10:15:22 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,9 @@ categories: None
 
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
+| 01:40             | 2021-11-11 | exeter R5         | 4 Gallyhill           |  2.45 |    -10   |
+| 00:10             | 2021-11-11 | exeter R2         | 5 I Am Maximus        |  1.9  |    -10   |
+| 00:10             | 2021-11-11 | exeter R2         | 7 Judicial Law        |  9    |    -10   |
 | :2nd_place_medal: | 2021-11-10 | fairyhouse R8     | 4 O'moore Park        |  2.5  |    -10   |
 | :boom:            | 2021-11-10 | fairyhouse R8     | 3 Glenglass           |  2    |     10   |
 | :3rd_place_medal: | 2021-11-10 | huntingdon R7     | 1 Alazwar             |  1.5  |    -10   |
@@ -30,8 +33,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-07 | sunshine-coast R5 | 2 Ma Ma's Rose        |  3.8  |    -10   |
 | 4                 | 2021-11-07 | ararat R6         | 5 Seawhatyouthink     |  4.6  |    -10   |
 | 0                 | 2021-11-07 | wincanton R6      | 4 Sole Pretender      |  0    |    -10   |
-| 0                 | 2021-11-07 | naas R5           | 6 Highland Charge     |  0    |    -10   |
 | :boom:            | 2021-11-07 | naas R5           | 3 Eric Bloodaxe       |  2.3  |     13   |
+| 0                 | 2021-11-07 | naas R5           | 6 Highland Charge     |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-07 | kenilworth R5     | 1 Kommetdieding       |  0    |    -10   |
 | :boom:            | 2021-11-07 | wincanton R2      | 1 Knappers Hill       |  1.1  |      1   |
 | :3rd_place_medal: | 2021-11-06 | turffontein R4    | 4 Rain In Holland     |  0    |    -10   |
