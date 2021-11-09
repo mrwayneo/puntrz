@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-09 14:47:00 +1000  
+date: 2021-11-09 15:29:57 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 02:50             | 2021-11-10 | fairyhouse R8     | 3 Glenglass           |  1.85 |    -10   |
 | 02:30             | 2021-11-10 | huntingdon R7     | 1 Alazwar             |  1.5  |    -10   |
 | 23:30             | 2021-11-09 | huntingdon R1     | 7 Theatre Glory       |  1.85 |    -10   |
-| 15:15             | 2021-11-09 | townsville R3     | 3 Yes Dream           |  1.7  |    -10   |
+| 0                 | 2021-11-09 | townsville R3     | 3 Yes Dream           |  0    |    -10   |
 | :boom:            | 2021-11-09 | kempton R3        | 3 Doddiethegreat      |  1.33 |      3.3 |
 | 4                 | 2021-11-09 | kempton R3        | 1 Fifrelet            |  5    |    -10   |
 | 0                 | 2021-11-08 | carlisle R1       | 9 Snowy Clouds        |  0    |    -10   |
