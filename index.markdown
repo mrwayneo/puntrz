@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-09 13:33:08 +1000  
+date: 2021-11-09 14:12:58 +1000  
 ---   
 
 
@@ -125,5 +125,5 @@ date: 2021-11-09 13:33:08 +1000
 | 73 | :soon:   | 2021-11-09 14:30:00 | hamilton   |      3 |        6 | Guaranteed         |   2.6  | prometheus         |
 | 74 | :soon:   | 2021-11-09 14:30:00 | hamilton   |      3 |        1 | Boga Dreams        |   2.7  | prometheus         |
 | 75 | :soon:   | 2021-11-09 14:20:00 | gosford    |      3 |        9 | Auzstar            |   7.5  | looseknot          |
-| 76 | :soon:   | 2021-11-09 13:40:00 | gosford    |      2 |        6 | Astern's Girl      |  12    | roughnut           |
+| 76 | --       | 2021-11-09 13:40:00 | gosford    |      2 |        6 | Astern's Girl      |  12    | roughnut           |
 | 77 | --       | 2021-11-09 10:30:00 | te-aroha   |      2 |        2 | Mahomes            |   6    | roughnut           |
