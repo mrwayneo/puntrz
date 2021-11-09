@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-10 00:27:00 +1000  
+date: 2021-11-10 00:32:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     28 |      7 |   -178.7 | 0.25 | -0.64 |
-| Last 28 Days   |     71 |     10 |   -467.7 | 0.14 | -0.66 |
-| Last 6 Months  |     71 |     10 |   -467.7 | 0.14 | -0.66 |
-| Since Jan 2020 |     71 |     10 |   -467.7 | 0.14 | -0.66 |
+| Last 7 Days    |     28 |      8 |   -152.5 | 0.29 | -0.54 |
+| Last 28 Days   |     71 |     11 |   -441.5 | 0.15 | -0.62 |
+| Last 6 Months  |     71 |     11 |   -441.5 | 0.15 | -0.62 |
+| Since Jan 2020 |     71 |     11 |   -441.5 | 0.15 | -0.62 |
 
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
 | 02:50             | 2021-11-10 | fairyhouse R8     | 4 O'moore Park        |  2.5  |    -10   |
 | 02:50             | 2021-11-10 | fairyhouse R8     | 3 Glenglass           |  1.85 |    -10   |
 | 02:30             | 2021-11-10 | huntingdon R7     | 1 Alazwar             |  1.5  |    -10   |
-| 0                 | 2021-11-09 | huntingdon R1     | 7 Theatre Glory       |  0    |    -10   |
+| :boom:            | 2021-11-09 | huntingdon R1     | 7 Theatre Glory       |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3     | 3 Yes Dream           |  1.6  |      6   |
 | :boom:            | 2021-11-09 | kempton R3        | 3 Doddiethegreat      |  1.33 |      3.3 |
 | 4                 | 2021-11-09 | kempton R3        | 1 Fifrelet            |  5    |    -10   |
