@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-10 01:06:12 +1000  
+date: 2021-11-10 04:13:42 +1000  
 ---   
 
 
@@ -36,42 +36,42 @@ date: 2021-11-10 01:06:12 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    359 |     73 |   -264   | 0.2  | -0.07 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    201 |     58 |   -288.9 | 0.29 | -0.14 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    336 |     83 |   -382.6 | 0.25 | -0.11 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     71 |     11 |   -441.5 | 0.15 | -0.62 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     71 |     12 |   -421.5 | 0.17 | -0.59 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    144 |     25 |   -515.5 | 0.17 | -0.36 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    494 |    122 |   -907   | 0.25 | -0.18 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    595 |    153 |  -1293   | 0.26 | -0.22 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    719 |    101 |  -1306.6 | 0.14 | -0.18 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2009 |    466 |  -2113.1 | 0.23 | -0.11 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2009 |    467 |  -2023.1 | 0.23 | -0.1  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2640 |    146 |  -2271   | 0.06 | -0.09 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3109 |    693 |  -5922.8 | 0.22 | -0.19 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6305 |    914 | -11008.7 | 0.14 | -0.17 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8327 |    441 | -18285.5 | 0.05 | -0.22 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3109 |    695 |  -5881.3 | 0.22 | -0.19 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6305 |    915 | -10977.7 | 0.15 | -0.17 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8327 |    442 | -17975.5 | 0.05 | -0.22 |
 
 |    | finish            | time                | track      |   race |   number | name               |   odds | tipster            |
 |---:|:------------------|:--------------------|:-----------|-------:|---------:|:-------------------|-------:|:-------------------|
 |  0 | :soon:            | 2021-11-10 05:30:00 | newcastle  |      6 |        2 | Haven Lady         |  18    | cosmo,roughnut     |
 |  1 | :soon:            | 2021-11-10 04:30:00 | newcastle  |      4 |        3 | Reigning Profit    |   9.5  | roughnut           |
-|  2 | :soon:            | 2021-11-10 03:20:00 | newcastle  |      2 |        3 | Different Look     |   7.5  | roughnut           |
-|  3 | :soon:            | 2021-11-10 02:50:00 | fairyhouse |      8 |        3 | Glenglass          |   1.85 | vulture,milkman    |
-|  4 | :soon:            | 2021-11-10 02:50:00 | fairyhouse |      8 |        4 | O'moore Park       |   2.5  | vulture,milkman    |
-|  5 | :soon:            | 2021-11-10 02:37:00 | lingfield  |      6 |        3 | Touchthesoul       |  14    | roughnut           |
-|  6 | :soon:            | 2021-11-10 02:30:00 | huntingdon |      7 |        1 | Alazwar            |   1.5  | milkman            |
-|  7 | :soon:            | 2021-11-10 02:15:00 | vaal       |      8 |        1 | Ra'ed              |   0    | prometheus         |
-|  8 | :soon:            | 2021-11-10 02:15:00 | vaal       |      8 |        2 | Global Player      |   0    | prometheus         |
-|  9 | :soon:            | 2021-11-10 02:15:00 | vaal       |      8 |        5 | With Pleasure      |   0    | prometheus         |
-| 10 | :soon:            | 2021-11-10 02:15:00 | vaal       |      8 |       10 | Indus Knight       |   0    | prometheus         |
-| 11 | :soon:            | 2021-11-10 02:15:00 | fairyhouse |      7 |        3 | Bonne Debut        |   5.5  | looseknot          |
-| 12 | :soon:            | 2021-11-10 02:15:00 | fairyhouse |      7 |        6 | Drumlees Pet       |  21    | roughnut           |
-| 13 | :soon:            | 2021-11-10 02:15:00 | fairyhouse |      7 |        4 | Born Famous        |  34    | roughnut           |
-| 14 | :soon:            | 2021-11-10 01:45:00 | fairyhouse |      6 |        4 | Hymie Weiss        |  15    | roughnut           |
-| 15 | :soon:            | 2021-11-10 01:45:00 | fairyhouse |      6 |        6 | Fulysse            |  26    | roughnut           |
-| 16 | :soon:            | 2021-11-10 01:40:00 | vaal       |      7 |        3 | Angelsea           |   0    | prometheus         |
-| 17 | :soon:            | 2021-11-10 01:37:00 | lingfield  |      4 |        4 | Milan Bridge       |   5    | overthrow          |
-| 18 | :soon:            | 2021-11-10 01:30:00 | huntingdon |      5 |        8 | Time Is Time       | 101    | roughnut           |
-| 19 | :soon:            | 2021-11-10 01:30:00 | huntingdon |      5 |        1 | King Cnut          |  23    | roughnut           |
-| 20 | :soon:            | 2021-11-10 01:15:00 | fairyhouse |      5 |        2 | Mighty Stowaway    |   3    | vulture            |
-| 21 | :soon:            | 2021-11-10 01:15:00 | fairyhouse |      5 |        5 | Vaucelet           |   2.25 | vulture            |
-| 22 | :soon:            | 2021-11-10 01:07:00 | lingfield  |      3 |        1 | Entre Deux         |  10    | roughnut           |
+|  2 | --                | 2021-11-10 03:20:00 | newcastle  |      2 |        3 | Different Look     |   7.5  | roughnut           |
+|  3 | :boom:            | 2021-11-10 02:50:00 | fairyhouse |      8 |        3 | Glenglass          |   1.85 | vulture,milkman    |
+|  4 | :2nd_place_medal: | 2021-11-10 02:50:00 | fairyhouse |      8 |        4 | O'moore Park       |   2.5  | vulture,milkman    |
+|  5 | --                | 2021-11-10 02:37:00 | lingfield  |      6 |        3 | Touchthesoul       |  14    | roughnut           |
+|  6 | :3rd_place_medal: | 2021-11-10 02:30:00 | huntingdon |      7 |        1 | Alazwar            |   1.5  | milkman            |
+|  7 | 4                 | 2021-11-10 02:15:00 | vaal       |      8 |        1 | Ra'ed              |   0    | prometheus         |
+|  8 | :boom:            | 2021-11-10 02:15:00 | vaal       |      8 |        2 | Global Player      |   0    | prometheus         |
+|  9 | --                | 2021-11-10 02:15:00 | vaal       |      8 |        5 | With Pleasure      |   0    | prometheus         |
+| 10 | :2nd_place_medal: | 2021-11-10 02:15:00 | vaal       |      8 |       10 | Indus Knight       |   0    | prometheus         |
+| 11 | :3rd_place_medal: | 2021-11-10 02:15:00 | fairyhouse |      7 |        3 | Bonne Debut        |   5.5  | looseknot          |
+| 12 | 4                 | 2021-11-10 02:15:00 | fairyhouse |      7 |        6 | Drumlees Pet       |  21    | roughnut           |
+| 13 | --                | 2021-11-10 02:15:00 | fairyhouse |      7 |        4 | Born Famous        |  34    | roughnut           |
+| 14 | --                | 2021-11-10 01:45:00 | fairyhouse |      6 |        4 | Hymie Weiss        |  15    | roughnut           |
+| 15 | :boom:            | 2021-11-10 01:45:00 | fairyhouse |      6 |        6 | Fulysse            |  26    | roughnut           |
+| 16 | :2nd_place_medal: | 2021-11-10 01:40:00 | vaal       |      7 |        3 | Angelsea           |   0    | prometheus         |
+| 17 | :boom:            | 2021-11-10 01:37:00 | lingfield  |      4 |        4 | Milan Bridge       |   5    | overthrow          |
+| 18 | --                | 2021-11-10 01:30:00 | huntingdon |      5 |        8 | Time Is Time       | 101    | roughnut           |
+| 19 | --                | 2021-11-10 01:30:00 | huntingdon |      5 |        1 | King Cnut          |  23    | roughnut           |
+| 20 | :3rd_place_medal: | 2021-11-10 01:15:00 | fairyhouse |      5 |        2 | Mighty Stowaway    |   3    | vulture            |
+| 21 | :boom:            | 2021-11-10 01:15:00 | fairyhouse |      5 |        5 | Vaucelet           |   2.25 | vulture            |
+| 22 | --                | 2021-11-10 01:07:00 | lingfield  |      3 |        1 | Entre Deux         |  10    | roughnut           |
 | 23 | 4                 | 2021-11-10 00:52:00 | hereford   |      3 |        2 | Steinkraus         |   2    | vulture            |
 | 24 | --                | 2021-11-10 00:45:00 | fairyhouse |      4 |       12 | Top Question       |  26    | roughnut           |
 | 25 | --                | 2021-11-10 00:37:00 | lingfield  |      2 |        2 | Blackjack Kentucky |   3.5  | evenodds,overthrow |
