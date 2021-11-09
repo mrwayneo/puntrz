@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-09 10:26:06 +1000  
+date: 2021-11-09 11:01:43 +1000  
 categories: None 
 ---   
 
@@ -47,7 +47,7 @@ categories: None
 | 15:56             | 2021-11-09 | townsville R4                 | 9 Bridgerton          |  71    |    -10   |
 | 15:15             | 2021-11-09 | townsville R3                 | 8 Santa Marinella     |  11    |    -10   |
 | 13:40             | 2021-11-09 | gosford R2                    | 6 Astern's Girl       |  12    |    -10   |
-| 10:30             | 2021-11-09 | te-aroha R2                   | 2 Mahomes             |   6    |    -10   |
+| 0                 | 2021-11-09 | te-aroha R2                   | 2 Mahomes             |   0    |    -10   |
 | 0                 | 2021-11-09 | wolverhampton R8              | 8 Bonnie Lad          |   0    |    -10   |
 | :2nd_place_medal: | 2021-11-09 | newcastle R1                  | 4 Hathlool            |   9.5  |    -10   |
 | 4                 | 2021-11-09 | carlisle R7                   | 5 Niceandeasy         |  12    |    -10   |
