@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-11-09 21:27:32 +1000  
+date: 2021-11-09 22:09:27 +1000  
 categories: None 
 ---   
 
@@ -28,9 +28,9 @@ categories: None
 | 23:20             | 2021-11-09 | vaal R3                       | 13 Jet Captain        |   0    |    -10   |
 | 23:20             | 2021-11-09 | vaal R3                       | 5 Volluto             |   0    |    -10   |
 | 22:45             | 2021-11-09 | vaal R2                       | 4 Maria's World       |   0    |    -10   |
-| 22:10             | 2021-11-09 | vaal R1                       | 1 Lil Wahoo           |   0    |    -10   |
-| 22:10             | 2021-11-09 | vaal R1                       | 6 Beaded Gown         |   0    |    -10   |
-| 22:10             | 2021-11-09 | vaal R1                       | 7 Express Flyer       |   0    |    -10   |
+| 0                 | 2021-11-09 | vaal R1                       | 1 Lil Wahoo           |   0    |    -10   |
+| 0                 | 2021-11-09 | vaal R1                       | 6 Beaded Gown         |   0    |    -10   |
+| 0                 | 2021-11-09 | vaal R1                       | 7 Express Flyer       |   0    |    -10   |
 | :2nd_place_medal: | 2021-11-09 | hamilton R6                   | 5 Desired             |   1.45 |    -10   |
 | 4                 | 2021-11-09 | hamilton R5                   | 1 Yarra Boy           |   1.85 |    -10   |
 | 0                 | 2021-11-09 | hamilton R3                   | 5 Tom's Shout         |   0    |    -10   |
