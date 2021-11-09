@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-11-09 11:01:23 +1000  
+date: 2021-11-09 11:03:59 +1000  
 categories: None 
 ---   
 
@@ -279,8 +279,8 @@ categories: None
 | :2nd_place_medal: | 2021-06-12 | darwin R6              | 8 Tugga War           |  6    |    -10   |
 | 5                 | 2021-06-12 | belmont R5             | 5 Devoted Star        |  2.7  |    -10   |
 | :2nd_place_medal: | 2021-06-12 | darwin R1              | 5 Patria              |  2.5  |    -10   |
-| :boom:            | 2021-06-10 | rockhampton R4         | 1 Tango Rain          |  3.4  |     24   |
 | :2nd_place_medal: | 2021-06-10 | rockhampton R4         | 2 Barachiel           |  4.05 |    -10   |
+| :boom:            | 2021-06-10 | rockhampton R4         | 1 Tango Rain          |  3.4  |     24   |
 | 7                 | 2021-06-06 | devonport-synthetic R8 | 5 Spihro              |  9.5  |    -10   |
 | 7                 | 2021-06-06 | devonport-synthetic R7 | 3 Lesnar              |  7.5  |    -10   |
 | :3rd_place_medal: | 2021-06-05 | belmont R9             | 11 Bright Diamond     |  1.9  |    -10   |
@@ -323,8 +323,8 @@ categories: None
 | :3rd_place_medal: | 2021-05-22 | murray-bdge R6         | 13 Hills              | 12    |    -10   |
 | :boom:            | 2021-05-22 | worcester R2           | 1 Wishing And Hoping  |  5    |     40   |
 | :3rd_place_medal: | 2021-05-21 | cranbourne R4          | 3 Runaway Train       |  4.65 |    -10   |
-| 4                 | 2021-05-21 | mackay R5              | 4 Slaydem             |  5.5  |    -10   |
 | :boom:            | 2021-05-21 | mackay R5              | 1 The Egyptian        |  1.5  |      5   |
+| 4                 | 2021-05-21 | mackay R5              | 4 Slaydem             |  5.5  |    -10   |
 | 0                 | 2021-05-20 | vaal R3                | 3 Pin Up              |  0    |    -10   |
 | 6                 | 2021-05-16 | hobart R8              | 1 Galenus             |  2    |    -10   |
 | :boom:            | 2021-05-16 | hobart R6              | 2 First Accused       |  1.7  |      7   |
@@ -368,8 +368,8 @@ categories: None
 | 10                | 2021-04-24 | morphettville-parks R9 | 2 Azaly               | 17    |    -10   |
 | :2nd_place_medal: | 2021-04-24 | darwin R4              | 1 Patria              |  2.8  |    -10   |
 | 5                 | 2021-04-24 | darwin R4              | 4 Trebla              | 14    |    -10   |
-| :3rd_place_medal: | 2021-04-24 | darwin R2              | 3 Kaptan Apollo       |  6.5  |    -10   |
 | 4                 | 2021-04-24 | darwin R2              | 2 Paseeto             |  6    |    -10   |
+| :3rd_place_medal: | 2021-04-24 | darwin R2              | 3 Kaptan Apollo       |  6.5  |    -10   |
 | :3rd_place_medal: | 2021-04-24 | darwin R1              | 1 God's Penny         |  2.55 |    -10   |
 | 7                 | 2021-04-24 | randwick R7            | 6 Fifty Stars         | 67    |    -10   |
 | 4                 | 2021-04-24 | doomben R7             | 9 Maozi               |  8.6  |    -10   |
