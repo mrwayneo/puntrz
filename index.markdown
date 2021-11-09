@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-09 17:19:58 +1000  
+date: 2021-11-09 17:40:29 +1000  
 ---   
 
 
@@ -107,9 +107,9 @@ date: 2021-11-09 17:19:58 +1000
 | 55 | :soon:            | 2021-11-09 22:10:00 | vaal       |      1 |        1 | Lil Wahoo          |   0    | prometheus         |
 | 56 | :soon:            | 2021-11-09 22:10:00 | vaal       |      1 |        6 | Beaded Gown        |   0    | prometheus         |
 | 57 | :soon:            | 2021-11-09 22:10:00 | vaal       |      1 |        7 | Express Flyer      |   0    | prometheus         |
-| 58 | :soon:            | 2021-11-09 17:30:00 | gosford    |      8 |        6 | Velorum            |  11    | cosmo,roughnut     |
-| 59 | :soon:            | 2021-11-09 17:30:00 | gosford    |      8 |       10 | Investor           |  19    | cosmo,roughnut     |
-| 60 | :soon:            | 2021-11-09 17:30:00 | gosford    |      8 |        3 | Little Steiny      |  26    | looseknot          |
+| 58 | :3rd_place_medal: | 2021-11-09 17:30:00 | gosford    |      8 |        6 | Velorum            |  11    | cosmo,roughnut     |
+| 59 | --                | 2021-11-09 17:30:00 | gosford    |      8 |       10 | Investor           |  19    | cosmo,roughnut     |
+| 60 | --                | 2021-11-09 17:30:00 | gosford    |      8 |        3 | Little Steiny      |  26    | looseknot          |
 | 61 | 7                 | 2021-11-09 16:50:00 | gosford    |      7 |        4 | Toomai             |  21    | cosmo,roughnut     |
 | 62 | 4                 | 2021-11-09 16:30:00 | hamilton   |      7 |        3 | Pristine Image     |   2.6  | vulture,pangea     |
 | 63 | 8                 | 2021-11-09 16:30:00 | hamilton   |      7 |        5 | Four Outlaws       |  14    | cosmo,roughnut     |
