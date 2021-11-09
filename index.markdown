@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-09 15:34:45 +1000  
+date: 2021-11-09 16:09:43 +1000  
 ---   
 
 
@@ -113,13 +113,13 @@ date: 2021-11-09 15:34:45 +1000
 | 61 | :soon:                   | 2021-11-09 16:50:00 | gosford    |      7 |        4 | Toomai             |  21    | cosmo,roughnut     |
 | 62 | :soon:                   | 2021-11-09 16:30:00 | hamilton   |      7 |        3 | Pristine Image     |   2.6  | vulture,pangea     |
 | 63 | :soon:                   | 2021-11-09 16:30:00 | hamilton   |      7 |        5 | Four Outlaws       |  14    | cosmo,roughnut     |
-| 64 | :soon:                   | 2021-11-09 16:00:00 | hamilton   |      6 |        5 | Desired            |   1.45 | prometheus         |
-| 65 | :soon:                   | 2021-11-09 16:00:00 | hamilton   |      6 |        6 | Amorem             |   6.5  | roughnut           |
-| 66 | :soon:                   | 2021-11-09 15:56:00 | townsville |      4 |        9 | Bridgerton         |  71    | roughnut           |
-| 67 | :hourglass_flowing_sand: | 2021-11-09 15:35:00 | gosford    |      5 |        1 | Freedom Square     |   1.85 | vulture            |
-| 68 | :hourglass_flowing_sand: | 2021-11-09 15:30:00 | hamilton   |      5 |        1 | Yarra Boy          |   1.85 | prometheus         |
-| 69 | :hourglass_flowing_sand: | 2021-11-09 15:15:00 | townsville |      3 |        8 | Santa Marinella    |  11    | cosmo,roughnut     |
-| 70 | :hourglass_flowing_sand: | 2021-11-09 15:15:00 | townsville |      3 |        3 | Yes Dream          |   1.7  | pangea,icyhot      |
+| 64 | :hourglass_flowing_sand: | 2021-11-09 16:00:00 | hamilton   |      6 |        5 | Desired            |   1.45 | prometheus         |
+| 65 | :hourglass_flowing_sand: | 2021-11-09 16:00:00 | hamilton   |      6 |        6 | Amorem             |   6.5  | roughnut           |
+| 66 | :hourglass_flowing_sand: | 2021-11-09 15:56:00 | townsville |      4 |        9 | Bridgerton         |  71    | roughnut           |
+| 67 | :boom:                   | 2021-11-09 15:35:00 | gosford    |      5 |        1 | Freedom Square     |   1.85 | vulture            |
+| 68 | 4                        | 2021-11-09 15:30:00 | hamilton   |      5 |        1 | Yarra Boy          |   1.85 | prometheus         |
+| 69 | :3rd_place_medal:        | 2021-11-09 15:15:00 | townsville |      3 |        8 | Santa Marinella    |  11    | cosmo,roughnut     |
+| 70 | :boom:                   | 2021-11-09 15:15:00 | townsville |      3 |        3 | Yes Dream          |   1.7  | pangea,icyhot      |
 | 71 | :boom:                   | 2021-11-09 14:40:00 | townsville |      2 |        2 | Maquereau          |   2.7  | vulture,pangea     |
 | 72 | --                       | 2021-11-09 14:30:00 | hamilton   |      3 |        5 | Tom's Shout        |   3    | prometheus         |
 | 73 | :boom:                   | 2021-11-09 14:30:00 | hamilton   |      3 |        6 | Guaranteed         |   2.6  | prometheus         |
