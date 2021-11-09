@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-10 04:13:42 +1000  
+date: 2021-11-10 04:44:30 +1000  
 ---   
 
 
@@ -50,7 +50,7 @@ date: 2021-11-10 04:13:42 +1000
 |    | finish            | time                | track      |   race |   number | name               |   odds | tipster            |
 |---:|:------------------|:--------------------|:-----------|-------:|---------:|:-------------------|-------:|:-------------------|
 |  0 | :soon:            | 2021-11-10 05:30:00 | newcastle  |      6 |        2 | Haven Lady         |  18    | cosmo,roughnut     |
-|  1 | :soon:            | 2021-11-10 04:30:00 | newcastle  |      4 |        3 | Reigning Profit    |   9.5  | roughnut           |
+|  1 | 4                 | 2021-11-10 04:30:00 | newcastle  |      4 |        3 | Reigning Profit    |   9.5  | roughnut           |
 |  2 | --                | 2021-11-10 03:20:00 | newcastle  |      2 |        3 | Different Look     |   7.5  | roughnut           |
 |  3 | :boom:            | 2021-11-10 02:50:00 | fairyhouse |      8 |        3 | Glenglass          |   1.85 | vulture,milkman    |
 |  4 | :2nd_place_medal: | 2021-11-10 02:50:00 | fairyhouse |      8 |        4 | O'moore Park       |   2.5  | vulture,milkman    |
