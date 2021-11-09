@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-09 16:12:42 +1000  
+date: 2021-11-09 16:29:50 +1000  
 ---   
 
 
@@ -114,8 +114,8 @@ date: 2021-11-09 16:12:42 +1000
 | 62 | :soon:            | 2021-11-09 16:30:00 | hamilton   |      7 |        3 | Pristine Image     |   2.6  | vulture,pangea     |
 | 63 | :soon:            | 2021-11-09 16:30:00 | hamilton   |      7 |        5 | Four Outlaws       |  14    | cosmo,roughnut     |
 | 64 | :2nd_place_medal: | 2021-11-09 16:00:00 | hamilton   |      6 |        5 | Desired            |   1.45 | prometheus         |
-| 65 | --                | 2021-11-09 16:00:00 | hamilton   |      6 |        6 | Amorem             |   6.5  | roughnut           |
-| 66 | --                | 2021-11-09 15:56:00 | townsville |      4 |        9 | Bridgerton         |  71    | roughnut           |
+| 65 | 5                 | 2021-11-09 16:00:00 | hamilton   |      6 |        6 | Amorem             |   6.5  | roughnut           |
+| 66 | 9                 | 2021-11-09 15:56:00 | townsville |      4 |        9 | Bridgerton         |  71    | roughnut           |
 | 67 | :boom:            | 2021-11-09 15:35:00 | gosford    |      5 |        1 | Freedom Square     |   1.85 | vulture            |
 | 68 | 4                 | 2021-11-09 15:30:00 | hamilton   |      5 |        1 | Yarra Boy          |   1.85 | prometheus         |
 | 69 | :3rd_place_medal: | 2021-11-09 15:15:00 | townsville |      3 |        8 | Santa Marinella    |  11    | cosmo,roughnut     |
@@ -126,4 +126,4 @@ date: 2021-11-09 16:12:42 +1000
 | 74 | :2nd_place_medal: | 2021-11-09 14:30:00 | hamilton   |      3 |        1 | Boga Dreams        |   2.7  | prometheus         |
 | 75 | :3rd_place_medal: | 2021-11-09 14:20:00 | gosford    |      3 |        9 | Auzstar            |   7.5  | looseknot          |
 | 76 | 5                 | 2021-11-09 13:40:00 | gosford    |      2 |        6 | Astern's Girl      |  12    | roughnut           |
-| 77 | --                | 2021-11-09 10:30:00 | te-aroha   |      2 |        2 | Mahomes            |   6    | roughnut           |
+| 77 | 9                 | 2021-11-09 10:30:00 | te-aroha   |      2 |        2 | Mahomes            |   6    | roughnut           |
