@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-11-10 18:43:15 +1000  
+date: 2021-11-10 19:52:55 +1000  
 categories: None 
 ---   
 
@@ -17,8 +17,8 @@ categories: None
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
 | 04:00             | 2021-11-11 | kempton R2                    | 11 Peace Offering     |   8    |    -10   |
 | 04:00             | 2021-11-11 | kempton R2                    | 3 Al Husn             |   3.6  |    -10   |
-| 19:25             | 2021-11-10 | ascot R6                      | 4 Black Chips         |  19    |    -10   |
-| 19:10             | 2021-11-10 | launceston R3                 | 2 Brew Horse          |   8.5  |    -10   |
+| 0                 | 2021-11-10 | ascot R6                      | 4 Black Chips         |   0    |    -10   |
+| 0                 | 2021-11-10 | launceston R3                 | 2 Brew Horse          |   0    |    -10   |
 | :boom:            | 2021-11-10 | ipswich R1                    | 6 Ready For Anything  |   7    |     60   |
 | :3rd_place_medal: | 2021-11-10 | fairyhouse R7                 | 3 Bonne Debut         |   5.5  |    -10   |
 | :boom:            | 2021-11-10 | hereford R2                   | 9 Wavecrest           |   4.4  |     34   |

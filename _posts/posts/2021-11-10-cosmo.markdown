@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-11-10 18:43:01 +1000  
+date: 2021-11-10 19:52:47 +1000  
 categories: None 
 ---   
 
@@ -19,9 +19,9 @@ categories: None
 | 05:30             | 2021-11-11 | kempton R5                    | 6 Costa Adeje         |  10   |      -10 |
 | 20:38             | 2021-11-10 | ascot R8                      | 4 Brave Call          |  15   |      -10 |
 | 20:20             | 2021-11-10 | launceston R5                 | 8 Lucky Lil           |  11   |      -10 |
-| 19:25             | 2021-11-10 | ascot R6                      | 8 Casa Rosada         |  19   |      -10 |
-| 18:50             | 2021-11-10 | ascot R5                      | 2 Uncle Lino          |  26   |      -10 |
-| 18:50             | 2021-11-10 | ascot R5                      | 8 He's All Mighty     |  12   |      -10 |
+| 0                 | 2021-11-10 | ascot R6                      | 8 Casa Rosada         |   0   |      -10 |
+| 0                 | 2021-11-10 | ascot R5                      | 2 Uncle Lino          |   0   |      -10 |
+| 0                 | 2021-11-10 | ascot R5                      | 8 He's All Mighty     |   0   |      -10 |
 | 0                 | 2021-11-10 | ipswich R7                    | 11 In Great Nic       |   0   |      -10 |
 | 0                 | 2021-11-10 | ipswich R7                    | 4 Octavian            |   0   |      -10 |
 | 0                 | 2021-11-10 | ipswich R7                    | 2 Raging Pole         |   0   |      -10 |
