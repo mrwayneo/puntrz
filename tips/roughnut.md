@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-10 20:00:57 +1000  
+date: 2021-11-10 20:23:07 +1000  
 categories: None 
 ---   
 
@@ -43,7 +43,7 @@ categories: None
 | 23:30             | 2021-11-10 | bangor R1                     | 2 Star of Rory        |  31    |    -10   |
 | 20:38             | 2021-11-10 | ascot R8                      | 9 Master Moore        |  26    |    -10   |
 | 20:38             | 2021-11-10 | ascot R8                      | 4 Brave Call          |  15    |    -10   |
-| 20:20             | 2021-11-10 | launceston R5                 | 8 Lucky Lil           |  11    |    -10   |
+| 0                 | 2021-11-10 | launceston R5                 | 8 Lucky Lil           |   0    |    -10   |
 | 10                | 2021-11-10 | ascot R6                      | 8 Casa Rosada         |  19    |    -10   |
 | 6                 | 2021-11-10 | ascot R5                      | 8 He's All Mighty     |  12    |    -10   |
 | 7                 | 2021-11-10 | ascot R5                      | 2 Uncle Lino          |  26    |    -10   |
