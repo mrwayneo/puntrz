@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-11-10 15:50:38 +1000  
+date: 2021-11-10 16:50:58 +1000  
 categories: None 
 ---   
 
@@ -36,7 +36,7 @@ categories: None
 | 17:50             | 2021-11-10 | ipswich R6             | 10 All Too Quick      |   4.8  |    -10   |
 | 17:13             | 2021-11-10 | ipswich R5             | 3 Loca                |   3    |    -10   |
 | 17:13             | 2021-11-10 | ipswich R5             | 2 Jakkalberry Finn    |   2.15 |    -10   |
-| 16:03             | 2021-11-10 | ipswich R3             | 2 Joy Too All         |   2.5  |    -10   |
+| 0                 | 2021-11-10 | ipswich R3             | 2 Joy Too All         |   0    |    -10   |
 | :boom:            | 2021-11-10 | lingfield R4           | 4 Milan Bridge        |   9    |     80   |
 | 0                 | 2021-11-10 | lingfield R2           | 2 Blackjack Kentucky  |   0    |    -10   |
 | 0                 | 2021-11-10 | huntingdon R3          | 2 Cabot Cliffs        |   0    |    -10   |

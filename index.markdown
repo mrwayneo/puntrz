@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-10 15:52:12 +1000  
+date: 2021-11-10 16:52:45 +1000  
 ---   
 
 
@@ -151,17 +151,17 @@ date: 2021-11-10 15:52:12 +1000
 |  99 | :soon:                   | 2021-11-10 17:13:00 | ipswich        |      5 |        3 | Loca               |   3    | evenodds,prometheus  |
 | 100 | :soon:                   | 2021-11-10 16:59:00 | ascot          |      2 |        5 | Art Warrior        |   4    | roughnut             |
 | 101 | :soon:                   | 2021-11-10 16:59:00 | ascot          |      2 |        3 | Roch Legacy        |   4.4  | pikey                |
-| 102 | :soon:                   | 2021-11-10 16:45:00 | murray-bdge    |      6 |        5 | Big Acheeva        |  21    | cosmo,roughnut       |
-| 103 | :soon:                   | 2021-11-10 16:45:00 | murray-bdge    |      6 |        2 | Boomer Beach       |   7.5  | benny,pangea         |
-| 104 | :soon:                   | 2021-11-10 16:45:00 | murray-bdge    |      6 |       15 | Zip Akeed          |  41    | roughnut             |
-| 105 | :soon:                   | 2021-11-10 16:24:00 | ascot          |      1 |        1 | Great Fortune      |   2.9  | pikey                |
-| 106 | :soon:                   | 2021-11-10 16:20:00 | hawkesbury     |      5 |        2 | Prospero           |  16    | cosmo,roughnut       |
-| 107 | :soon:                   | 2021-11-10 16:20:00 | hawkesbury     |      5 |        9 | Trescha            |  14    | cosmo,roughnut       |
-| 108 | :soon:                   | 2021-11-10 16:03:00 | ipswich        |      3 |        5 | Glock              |  13    | pangea,roughnut      |
-| 109 | :soon:                   | 2021-11-10 16:03:00 | ipswich        |      3 |        2 | Joy Too All        |   2.5  | evenodds,overthrow   |
-| 110 | :soon:                   | 2021-11-10 16:03:00 | ipswich        |      3 |        3 | Better Than Best   |   5    | benny,pangea         |
-| 111 | :hourglass_flowing_sand: | 2021-11-10 15:45:00 | hawkesbury     |      4 |       12 | The Brotherhood    |  91    | roughnut             |
-| 112 | :hourglass_flowing_sand: | 2021-11-10 15:35:00 | murray-bdge    |      4 |        4 | Rapid Raiser       |   7.5  | pangea               |
+| 102 | :hourglass_flowing_sand: | 2021-11-10 16:45:00 | murray-bdge    |      6 |        5 | Big Acheeva        |  21    | cosmo,roughnut       |
+| 103 | :hourglass_flowing_sand: | 2021-11-10 16:45:00 | murray-bdge    |      6 |        2 | Boomer Beach       |   7.5  | benny,pangea         |
+| 104 | :hourglass_flowing_sand: | 2021-11-10 16:45:00 | murray-bdge    |      6 |       15 | Zip Akeed          |  41    | roughnut             |
+| 105 | :hourglass_flowing_sand: | 2021-11-10 16:24:00 | ascot          |      1 |        1 | Great Fortune      |   2.9  | pikey                |
+| 106 | :hourglass_flowing_sand: | 2021-11-10 16:20:00 | hawkesbury     |      5 |        2 | Prospero           |  16    | cosmo,roughnut       |
+| 107 | :hourglass_flowing_sand: | 2021-11-10 16:20:00 | hawkesbury     |      5 |        9 | Trescha            |  14    | cosmo,roughnut       |
+| 108 | :hourglass_flowing_sand: | 2021-11-10 16:03:00 | ipswich        |      3 |        5 | Glock              |  13    | pangea,roughnut      |
+| 109 | :hourglass_flowing_sand: | 2021-11-10 16:03:00 | ipswich        |      3 |        2 | Joy Too All        |   2.5  | evenodds,overthrow   |
+| 110 | :hourglass_flowing_sand: | 2021-11-10 16:03:00 | ipswich        |      3 |        3 | Better Than Best   |   5    | benny,pangea         |
+| 111 | --                       | 2021-11-10 15:45:00 | hawkesbury     |      4 |       12 | The Brotherhood    |  91    | roughnut             |
+| 112 | :3rd_place_medal:        | 2021-11-10 15:35:00 | murray-bdge    |      4 |        4 | Rapid Raiser       |   7.5  | pangea               |
 | 113 | --                       | 2021-11-10 15:14:00 | riccarton-park |     10 |       12 | Dawn Parade        |  18    | roughnut             |
 | 114 | :boom:                   | 2021-11-10 14:53:00 | ipswich        |      1 |        6 | Ready For Anything |   5.5  | looseknot            |
 | 115 | :2nd_place_medal:        | 2021-11-10 14:45:00 | bendigo        |      4 |        7 | Celtic Glory       |   4    | roughnut             |

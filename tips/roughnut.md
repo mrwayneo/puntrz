@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-10 15:51:39 +1000  
+date: 2021-11-10 16:51:47 +1000  
 categories: None 
 ---   
 
@@ -53,11 +53,11 @@ categories: None
 | 17:50             | 2021-11-10 | ipswich R6                    | 2 Burgundy Rules      |  26    |    -10   |
 | 17:30             | 2021-11-10 | hawkesbury R7                 | 5 One Star Shining    |  12    |    -10   |
 | 16:59             | 2021-11-10 | ascot R2                      | 5 Art Warrior         |   4    |    -10   |
-| 16:45             | 2021-11-10 | murray-bdge R6                | 5 Big Acheeva         |  21    |    -10   |
-| 16:45             | 2021-11-10 | murray-bdge R6                | 15 Zip Akeed          |  41    |    -10   |
-| 16:20             | 2021-11-10 | hawkesbury R5                 | 9 Trescha             |  14    |    -10   |
-| 16:20             | 2021-11-10 | hawkesbury R5                 | 2 Prospero            |  16    |    -10   |
-| 16:03             | 2021-11-10 | ipswich R3                    | 5 Glock               |  13    |    -10   |
+| 0                 | 2021-11-10 | murray-bdge R6                | 5 Big Acheeva         |   0    |    -10   |
+| 0                 | 2021-11-10 | murray-bdge R6                | 15 Zip Akeed          |   0    |    -10   |
+| 0                 | 2021-11-10 | hawkesbury R5                 | 9 Trescha             |   0    |    -10   |
+| 0                 | 2021-11-10 | hawkesbury R5                 | 2 Prospero            |   0    |    -10   |
+| 0                 | 2021-11-10 | ipswich R3                    | 5 Glock               |   0    |    -10   |
 | 0                 | 2021-11-10 | hawkesbury R4                 | 12 The Brotherhood    |   0    |    -10   |
 | 0                 | 2021-11-10 | riccarton-park R10            | 12 Dawn Parade        |   0    |    -10   |
 | :2nd_place_medal: | 2021-11-10 | bendigo R4                    | 7 Celtic Glory        |   4    |    -10   |

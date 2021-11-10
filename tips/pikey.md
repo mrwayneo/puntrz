@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-10 15:52:01 +1000  
+date: 2021-11-10 16:52:29 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 19:25             | 2021-11-10 | ascot R6              | 3 Alimentaria         |  4.8  |    -10   |
 | 18:50             | 2021-11-10 | ascot R5              | 6 Greatness Awaits    |  8.5  |    -10   |
 | 16:59             | 2021-11-10 | ascot R2              | 3 Roch Legacy         |  4.4  |    -10   |
-| 16:24             | 2021-11-10 | ascot R1              | 1 Great Fortune       |  2.9  |    -10   |
+| 0                 | 2021-11-10 | ascot R1              | 1 Great Fortune       |  0    |    -10   |
 | :boom:            | 2021-11-06 | ascot R9              | 14 Bright Diamond     |  2.7  |     17   |
 | 4                 | 2021-11-06 | ascot R8              | 1 Regal Power         |  3.9  |    -10   |
 | 5                 | 2021-11-06 | ascot R7              | 8 Devoted             |  3.8  |    -10   |

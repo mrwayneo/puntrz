@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-11-10 15:50:56 +1000  
+date: 2021-11-10 16:51:11 +1000  
 categories: None 
 ---   
 
@@ -26,10 +26,10 @@ categories: None
 | 18:25             | 2021-11-10 | ipswich R7                    | 4 Octavian            |  34   |      -10 |
 | 18:25             | 2021-11-10 | ipswich R7                    | 2 Raging Pole         |  12   |      -10 |
 | 17:30             | 2021-11-10 | hawkesbury R7                 | 5 One Star Shining    |  12   |      -10 |
-| 16:45             | 2021-11-10 | murray-bdge R6                | 5 Big Acheeva         |  21   |      -10 |
-| 16:20             | 2021-11-10 | hawkesbury R5                 | 9 Trescha             |  14   |      -10 |
-| 16:20             | 2021-11-10 | hawkesbury R5                 | 2 Prospero            |  16   |      -10 |
-| 16:03             | 2021-11-10 | ipswich R3                    | 5 Glock               |  13   |      -10 |
+| 0                 | 2021-11-10 | murray-bdge R6                | 5 Big Acheeva         |   0   |      -10 |
+| 0                 | 2021-11-10 | hawkesbury R5                 | 9 Trescha             |   0   |      -10 |
+| 0                 | 2021-11-10 | hawkesbury R5                 | 2 Prospero            |   0   |      -10 |
+| 0                 | 2021-11-10 | ipswich R3                    | 5 Glock               |   0   |      -10 |
 | 0                 | 2021-11-10 | riccarton-park R7             | 9 Lucky Viking        |   0   |      -10 |
 | :3rd_place_medal: | 2021-11-10 | riccarton-park R5             | 6 Original Gangster   |   8   |      -10 |
 | 0                 | 2021-11-10 | riccarton-park R3             | 14 Shibuya Kosaten    |   0   |      -10 |
