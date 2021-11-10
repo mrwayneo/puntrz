@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-10 17:13:40 +1000  
+date: 2021-11-10 18:23:45 +1000  
 ---   
 
 
@@ -142,15 +142,15 @@ date: 2021-11-10 17:13:40 +1000
 |  90 | :soon:                   | 2021-11-10 18:25:00 | ipswich        |      7 |        2 | Raging Pole        |  12    | cosmo,roughnut       |
 |  91 | :soon:                   | 2021-11-10 18:25:00 | ipswich        |      7 |       11 | In Great Nic       |  29    | cosmo,roughnut       |
 |  92 | :soon:                   | 2021-11-10 18:25:00 | ipswich        |      7 |        4 | Octavian           |  34    | cosmo,roughnut       |
-|  93 | :soon:                   | 2021-11-10 18:10:00 | ascot          |      4 |        4 | Safety Bay         |   2.7  | prometheus           |
-|  94 | :soon:                   | 2021-11-10 17:50:00 | ipswich        |      6 |        2 | Burgundy Rules     |  26    | roughnut             |
-|  95 | :soon:                   | 2021-11-10 17:50:00 | ipswich        |      6 |        3 | Private Cheetah    |   2.9  | prometheus           |
-|  96 | :soon:                   | 2021-11-10 17:50:00 | ipswich        |      6 |       10 | All Too Quick      |   4.8  | evenodds,overthrow   |
-|  97 | :soon:                   | 2021-11-10 17:30:00 | hawkesbury     |      7 |        5 | One Star Shining   |  12    | pangea,roughnut      |
-|  98 | :hourglass_flowing_sand: | 2021-11-10 17:13:00 | ipswich        |      5 |        2 | Jakkalberry Finn   |   2.15 | overthrow            |
-|  99 | :hourglass_flowing_sand: | 2021-11-10 17:13:00 | ipswich        |      5 |        3 | Loca               |   3    | evenodds,prometheus  |
-| 100 | --                       | 2021-11-10 16:59:00 | ascot          |      2 |        5 | Art Warrior        |   4    | roughnut             |
-| 101 | --                       | 2021-11-10 16:59:00 | ascot          |      2 |        3 | Roch Legacy        |   4.4  | pikey                |
+|  93 | :hourglass_flowing_sand: | 2021-11-10 18:10:00 | ascot          |      4 |        4 | Safety Bay         |   2.7  | prometheus           |
+|  94 | :hourglass_flowing_sand: | 2021-11-10 17:50:00 | ipswich        |      6 |        2 | Burgundy Rules     |  26    | roughnut             |
+|  95 | :hourglass_flowing_sand: | 2021-11-10 17:50:00 | ipswich        |      6 |        3 | Private Cheetah    |   2.9  | prometheus           |
+|  96 | :hourglass_flowing_sand: | 2021-11-10 17:50:00 | ipswich        |      6 |       10 | All Too Quick      |   4.8  | evenodds,overthrow   |
+|  97 | --                       | 2021-11-10 17:30:00 | hawkesbury     |      7 |        5 | One Star Shining   |  12    | pangea,roughnut      |
+|  98 | :3rd_place_medal:        | 2021-11-10 17:13:00 | ipswich        |      5 |        2 | Jakkalberry Finn   |   2.15 | overthrow            |
+|  99 | 5                        | 2021-11-10 17:13:00 | ipswich        |      5 |        3 | Loca               |   3    | evenodds,prometheus  |
+| 100 | 9                        | 2021-11-10 16:59:00 | ascot          |      2 |        5 | Art Warrior        |   4    | roughnut             |
+| 101 | 6                        | 2021-11-10 16:59:00 | ascot          |      2 |        3 | Roch Legacy        |   4.4  | pikey                |
 | 102 | 11                       | 2021-11-10 16:45:00 | murray-bdge    |      6 |        5 | Big Acheeva        |  21    | cosmo,roughnut       |
 | 103 | 10                       | 2021-11-10 16:45:00 | murray-bdge    |      6 |        2 | Boomer Beach       |   7.5  | benny,pangea         |
 | 104 | :3rd_place_medal:        | 2021-11-10 16:45:00 | murray-bdge    |      6 |       15 | Zip Akeed          |  41    | roughnut             |
