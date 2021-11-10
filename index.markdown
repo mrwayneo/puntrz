@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-10 17:03:22 +1000  
+date: 2021-11-10 17:13:40 +1000  
 ---   
 
 
@@ -147,12 +147,12 @@ date: 2021-11-10 17:03:22 +1000
 |  95 | :soon:                   | 2021-11-10 17:50:00 | ipswich        |      6 |        3 | Private Cheetah    |   2.9  | prometheus           |
 |  96 | :soon:                   | 2021-11-10 17:50:00 | ipswich        |      6 |       10 | All Too Quick      |   4.8  | evenodds,overthrow   |
 |  97 | :soon:                   | 2021-11-10 17:30:00 | hawkesbury     |      7 |        5 | One Star Shining   |  12    | pangea,roughnut      |
-|  98 | :soon:                   | 2021-11-10 17:13:00 | ipswich        |      5 |        2 | Jakkalberry Finn   |   2.15 | overthrow            |
-|  99 | :soon:                   | 2021-11-10 17:13:00 | ipswich        |      5 |        3 | Loca               |   3    | evenodds,prometheus  |
-| 100 | :hourglass_flowing_sand: | 2021-11-10 16:59:00 | ascot          |      2 |        5 | Art Warrior        |   4    | roughnut             |
-| 101 | :hourglass_flowing_sand: | 2021-11-10 16:59:00 | ascot          |      2 |        3 | Roch Legacy        |   4.4  | pikey                |
-| 102 | --                       | 2021-11-10 16:45:00 | murray-bdge    |      6 |        5 | Big Acheeva        |  21    | cosmo,roughnut       |
-| 103 | --                       | 2021-11-10 16:45:00 | murray-bdge    |      6 |        2 | Boomer Beach       |   7.5  | benny,pangea         |
+|  98 | :hourglass_flowing_sand: | 2021-11-10 17:13:00 | ipswich        |      5 |        2 | Jakkalberry Finn   |   2.15 | overthrow            |
+|  99 | :hourglass_flowing_sand: | 2021-11-10 17:13:00 | ipswich        |      5 |        3 | Loca               |   3    | evenodds,prometheus  |
+| 100 | --                       | 2021-11-10 16:59:00 | ascot          |      2 |        5 | Art Warrior        |   4    | roughnut             |
+| 101 | --                       | 2021-11-10 16:59:00 | ascot          |      2 |        3 | Roch Legacy        |   4.4  | pikey                |
+| 102 | 11                       | 2021-11-10 16:45:00 | murray-bdge    |      6 |        5 | Big Acheeva        |  21    | cosmo,roughnut       |
+| 103 | 10                       | 2021-11-10 16:45:00 | murray-bdge    |      6 |        2 | Boomer Beach       |   7.5  | benny,pangea         |
 | 104 | :3rd_place_medal:        | 2021-11-10 16:45:00 | murray-bdge    |      6 |       15 | Zip Akeed          |  41    | roughnut             |
 | 105 | 5                        | 2021-11-10 16:24:00 | ascot          |      1 |        1 | Great Fortune      |   2.9  | pikey                |
 | 106 | --                       | 2021-11-10 16:20:00 | hawkesbury     |      5 |        2 | Prospero           |  16    | cosmo,roughnut       |
