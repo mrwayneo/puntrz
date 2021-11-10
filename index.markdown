@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-11 00:40:16 +1000  
+date: 2021-11-11 02:54:06 +1000  
 ---   
 
 
@@ -44,7 +44,7 @@ date: 2021-11-11 00:40:16 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2025 |    469 |  -2129.1 | 0.23 | -0.11 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2656 |    146 |  -2431   | 0.05 | -0.09 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3116 |    699 |  -5833.3 | 0.22 | -0.19 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6298 |    915 | -10974.4 | 0.15 | -0.17 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6298 |    916 | -10932.4 | 0.15 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8327 |    442 | -17975.5 | 0.05 | -0.22 |
 
 |     | finish                   | time                | track          |   race |   number | name               |   odds | tipster              |
@@ -63,38 +63,38 @@ date: 2021-11-11 00:40:16 +1000
 |  11 | :soon:                   | 2021-11-11 03:20:00 | dundalk        |      5 |       11 | Zoffalee           |  21    | roughnut             |
 |  12 | :soon:                   | 2021-11-11 03:20:00 | dundalk        |      5 |       12 | Macaban City       |  26    | roughnut             |
 |  13 | :soon:                   | 2021-11-11 03:20:00 | dundalk        |      5 |        4 | Rodney Bay         |  13    | roughnut             |
-|  14 | :soon:                   | 2021-11-11 02:40:00 | exeter         |      7 |        5 | Mind Sunday        |   4.2  | overthrow            |
-|  15 | :soon:                   | 2021-11-11 02:40:00 | exeter         |      7 |       16 | Wind From The West |  26    | roughnut             |
-|  16 | :soon:                   | 2021-11-11 02:40:00 | exeter         |      7 |       12 | Towtheline         | 251    | roughnut             |
-|  17 | :soon:                   | 2021-11-11 02:40:00 | exeter         |      7 |        9 | Sabrina            |   4.6  | overthrow            |
-|  18 | :soon:                   | 2021-11-11 02:30:00 | bangor         |      7 |        3 | Giovanni Royale    |  23    | roughnut             |
-|  19 | :soon:                   | 2021-11-11 02:30:00 | bangor         |      7 |        9 | Turnaway           |  12    | overthrow            |
-|  20 | :soon:                   | 2021-11-11 02:30:00 | bangor         |      7 |        7 | Twotwothree        |  13    | roughnut             |
-|  21 | :soon:                   | 2021-11-11 02:20:00 | dundalk        |      3 |       11 | Gudrid             |   4.6  | roughnut             |
-|  22 | :soon:                   | 2021-11-11 02:20:00 | dundalk        |      3 |       14 | Lolly Yeats        |   7    | roughnut             |
-|  23 | :soon:                   | 2021-11-11 02:10:00 | exeter         |      6 |        3 | Endless Flight     |  21    | roughnut             |
-|  24 | :soon:                   | 2021-11-11 02:00:00 | bangor         |      6 |        9 | One For Billy      |  11    | overthrow            |
-|  25 | :soon:                   | 2021-11-11 02:00:00 | bangor         |      6 |        8 | The Grey Falco     |  13    | roughnut             |
-|  26 | :soon:                   | 2021-11-11 01:40:00 | exeter         |      5 |        4 | Gallyhill          |   2.45 | overthrow,milkman    |
-|  27 | :soon:                   | 2021-11-11 01:40:00 | exeter         |      5 |        6 | Menapian           | 251    | roughnut             |
-|  28 | :soon:                   | 2021-11-11 01:35:00 | greyville      |      8 |        3 | Ramchandani Road   |   0    | prometheus           |
-|  29 | :soon:                   | 2021-11-11 01:35:00 | greyville      |      8 |        1 | Two Of Us          |   0    | prometheus           |
-|  30 | :soon:                   | 2021-11-11 01:35:00 | greyville      |      8 |        4 | Purple And Green   |   0    | prometheus           |
-|  31 | :soon:                   | 2021-11-11 01:30:00 | bangor         |      5 |       11 | Whenthepennydrops  |   3.9  | overthrow            |
-|  32 | :soon:                   | 2021-11-11 01:10:00 | exeter         |      4 |        4 | Tulin              |   3.8  | evenodds,overthrow   |
-|  33 | :soon:                   | 2021-11-11 01:00:00 | bangor         |      4 |        1 | Book of Secrets    |   2.62 | overthrow            |
-|  34 | :soon:                   | 2021-11-11 00:58:00 | greyville      |      7 |        4 | Movie Magic        |   0    | prometheus           |
-|  35 | :soon:                   | 2021-11-11 00:58:00 | greyville      |      7 |        5 | Saipan             |   0    | prometheus           |
-|  36 | :soon:                   | 2021-11-11 00:58:00 | greyville      |      7 |        6 | Captain Zee        |   0    | prometheus           |
-|  37 | :soon:                   | 2021-11-11 00:58:00 | greyville      |      7 |        9 | Fiery Duke         |   0    | prometheus           |
-|  38 | :hourglass_flowing_sand: | 2021-11-11 00:40:00 | exeter         |      3 |        8 | Story Of Friends   |  15    | pangea               |
-|  39 | :hourglass_flowing_sand: | 2021-11-11 00:30:00 | bangor         |      3 |       11 | Late Romantic      |  34    | roughnut             |
-|  40 | :hourglass_flowing_sand: | 2021-11-11 00:30:00 | bangor         |      3 |        7 | Blaklion           |  10    | overthrow            |
-|  41 | :hourglass_flowing_sand: | 2021-11-11 00:25:00 | greyville      |      6 |        9 | Time To Roll       |   0    | prometheus           |
-|  42 | :hourglass_flowing_sand: | 2021-11-11 00:25:00 | greyville      |      6 |        1 | Tombola            |   0    | prometheus           |
-|  43 | :hourglass_flowing_sand: | 2021-11-11 00:25:00 | greyville      |      6 |        4 | To The Max         |   0    | prometheus           |
-|  44 | :hourglass_flowing_sand: | 2021-11-11 00:25:00 | greyville      |      6 |        8 | Swiss Bank         |   0    | prometheus           |
-|  45 | :hourglass_flowing_sand: | 2021-11-11 00:25:00 | greyville      |      6 |        7 | Someone Exciting   |   0    | prometheus           |
+|  14 | :hourglass_flowing_sand: | 2021-11-11 02:40:00 | exeter         |      7 |        5 | Mind Sunday        |   4.2  | overthrow            |
+|  15 | :hourglass_flowing_sand: | 2021-11-11 02:40:00 | exeter         |      7 |       16 | Wind From The West |  26    | roughnut             |
+|  16 | :hourglass_flowing_sand: | 2021-11-11 02:40:00 | exeter         |      7 |       12 | Towtheline         | 251    | roughnut             |
+|  17 | :hourglass_flowing_sand: | 2021-11-11 02:40:00 | exeter         |      7 |        9 | Sabrina            |   4.6  | overthrow            |
+|  18 | :hourglass_flowing_sand: | 2021-11-11 02:30:00 | bangor         |      7 |        3 | Giovanni Royale    |  23    | roughnut             |
+|  19 | :hourglass_flowing_sand: | 2021-11-11 02:30:00 | bangor         |      7 |        9 | Turnaway           |  12    | overthrow            |
+|  20 | :hourglass_flowing_sand: | 2021-11-11 02:30:00 | bangor         |      7 |        7 | Twotwothree        |  13    | roughnut             |
+|  21 | :hourglass_flowing_sand: | 2021-11-11 02:20:00 | dundalk        |      3 |       11 | Gudrid             |   4.6  | roughnut             |
+|  22 | :hourglass_flowing_sand: | 2021-11-11 02:20:00 | dundalk        |      3 |       14 | Lolly Yeats        |   7    | roughnut             |
+|  23 | :hourglass_flowing_sand: | 2021-11-11 02:10:00 | exeter         |      6 |        3 | Endless Flight     |  21    | roughnut             |
+|  24 | :hourglass_flowing_sand: | 2021-11-11 02:00:00 | bangor         |      6 |        9 | One For Billy      |  11    | overthrow            |
+|  25 | :hourglass_flowing_sand: | 2021-11-11 02:00:00 | bangor         |      6 |        8 | The Grey Falco     |  13    | roughnut             |
+|  26 | :hourglass_flowing_sand: | 2021-11-11 01:40:00 | exeter         |      5 |        4 | Gallyhill          |   2.45 | overthrow,milkman    |
+|  27 | :hourglass_flowing_sand: | 2021-11-11 01:40:00 | exeter         |      5 |        6 | Menapian           | 251    | roughnut             |
+|  28 | :hourglass_flowing_sand: | 2021-11-11 01:35:00 | greyville      |      8 |        3 | Ramchandani Road   |   0    | prometheus           |
+|  29 | :hourglass_flowing_sand: | 2021-11-11 01:35:00 | greyville      |      8 |        1 | Two Of Us          |   0    | prometheus           |
+|  30 | :hourglass_flowing_sand: | 2021-11-11 01:35:00 | greyville      |      8 |        4 | Purple And Green   |   0    | prometheus           |
+|  31 | :hourglass_flowing_sand: | 2021-11-11 01:30:00 | bangor         |      5 |       11 | Whenthepennydrops  |   3.9  | overthrow            |
+|  32 | :hourglass_flowing_sand: | 2021-11-11 01:10:00 | exeter         |      4 |        4 | Tulin              |   3.8  | evenodds,overthrow   |
+|  33 | :hourglass_flowing_sand: | 2021-11-11 01:00:00 | bangor         |      4 |        1 | Book of Secrets    |   2.62 | overthrow            |
+|  34 | :hourglass_flowing_sand: | 2021-11-11 00:58:00 | greyville      |      7 |        4 | Movie Magic        |   0    | prometheus           |
+|  35 | :hourglass_flowing_sand: | 2021-11-11 00:58:00 | greyville      |      7 |        5 | Saipan             |   0    | prometheus           |
+|  36 | :hourglass_flowing_sand: | 2021-11-11 00:58:00 | greyville      |      7 |        6 | Captain Zee        |   0    | prometheus           |
+|  37 | :hourglass_flowing_sand: | 2021-11-11 00:58:00 | greyville      |      7 |        9 | Fiery Duke         |   0    | prometheus           |
+|  38 | --                       | 2021-11-11 00:40:00 | exeter         |      3 |        8 | Story Of Friends   |  15    | pangea               |
+|  39 | --                       | 2021-11-11 00:30:00 | bangor         |      3 |       11 | Late Romantic      |  34    | roughnut             |
+|  40 | --                       | 2021-11-11 00:30:00 | bangor         |      3 |        7 | Blaklion           |  10    | overthrow            |
+|  41 | :boom:                   | 2021-11-11 00:25:00 | greyville      |      6 |        9 | Time To Roll       |   0    | prometheus           |
+|  42 | --                       | 2021-11-11 00:25:00 | greyville      |      6 |        1 | Tombola            |   0    | prometheus           |
+|  43 | --                       | 2021-11-11 00:25:00 | greyville      |      6 |        4 | To The Max         |   0    | prometheus           |
+|  44 | --                       | 2021-11-11 00:25:00 | greyville      |      6 |        8 | Swiss Bank         |   0    | prometheus           |
+|  45 | --                       | 2021-11-11 00:25:00 | greyville      |      6 |        7 | Someone Exciting   |   0    | prometheus           |
 |  46 | --                       | 2021-11-11 00:15:00 | happy-valley   |      6 |        1 | Sparkling Dragon   |   0    | prometheus           |
 |  47 | :3rd_place_medal:        | 2021-11-11 00:15:00 | happy-valley   |      6 |        9 | Winning Method     |   0    | prometheus           |
 |  48 | --                       | 2021-11-11 00:15:00 | happy-valley   |      6 |        4 | Igniting           |   0    | prometheus           |
