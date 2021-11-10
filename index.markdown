@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-10 14:20:32 +1000  
+date: 2021-11-10 14:24:42 +1000  
 ---   
 
 
@@ -168,9 +168,9 @@ date: 2021-11-10 14:20:32 +1000
 | 116 | :soon:            | 2021-11-10 14:35:00 | hawkesbury     |      2 |        7 | Strombus           |   2.15 | prometheus           |
 | 117 | :soon:            | 2021-11-10 14:25:00 | murray-bdge    |      2 |        5 | French Fields      |   2    | icyhot               |
 | 118 | :soon:            | 2021-11-10 14:25:00 | murray-bdge    |      2 |        3 | Virtue             |   5.5  | pangea               |
-| 119 | --                | 2021-11-10 13:50:00 | murray-bdge    |      1 |        7 | The Trance Factor  |  12    | roughnut             |
-| 120 | --                | 2021-11-10 13:50:00 | murray-bdge    |      1 |        4 | Huntley Lady       |   1.5  | vulture              |
-| 121 | --                | 2021-11-10 13:50:00 | murray-bdge    |      1 |        5 | Rouge Renarde      |  13    | roughnut             |
+| 119 | :3rd_place_medal: | 2021-11-10 13:50:00 | murray-bdge    |      1 |        7 | The Trance Factor  |  12    | roughnut             |
+| 120 | :boom:            | 2021-11-10 13:50:00 | murray-bdge    |      1 |        4 | Huntley Lady       |   1.5  | vulture              |
+| 121 | :2nd_place_medal: | 2021-11-10 13:50:00 | murray-bdge    |      1 |        5 | Rouge Renarde      |  13    | roughnut             |
 | 122 | --                | 2021-11-10 13:29:00 | riccarton-park |      7 |        9 | Lucky Viking       |  12    | cosmo,roughnut       |
 | 123 | 4                 | 2021-11-10 13:29:00 | riccarton-park |      7 |        1 | Yolo               |   2.8  | prometheus           |
 | 124 | :2nd_place_medal: | 2021-11-10 13:00:00 | bendigo        |      1 |       11 | Viviane            |   2.3  | prometheus           |
