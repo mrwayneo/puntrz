@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-11-10 10:37:36 +1000  
+date: 2021-11-10 11:18:30 +1000  
 categories: None 
 ---   
 
@@ -32,7 +32,7 @@ categories: None
 | 16:03             | 2021-11-10 | ipswich R3                    | 5 Glock               |  13   |      -10 |
 | 13:29             | 2021-11-10 | riccarton-park R7             | 9 Lucky Viking        |  12   |      -10 |
 | 12:17             | 2021-11-10 | riccarton-park R5             | 6 Original Gangster   |   8   |      -10 |
-| 11:07             | 2021-11-10 | riccarton-park R3             | 14 Shibuya Kosaten    |  11   |      -10 |
+| 0                 | 2021-11-10 | riccarton-park R3             | 14 Shibuya Kosaten    |   0   |      -10 |
 | 0                 | 2021-11-10 | newcastle R6                  | 2 Haven Lady          |   0   |      -10 |
 | :3rd_place_medal: | 2021-11-09 | gosford R8                    | 6 Velorum             |  11   |      -10 |
 | 7                 | 2021-11-09 | gosford R8                    | 10 Investor           |  19   |      -10 |

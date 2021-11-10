@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-10 10:37:53 +1000  
+date: 2021-11-10 11:18:49 +1000  
 categories: None 
 ---   
 
@@ -66,8 +66,8 @@ categories: None
 | 13:29             | 2021-11-10 | riccarton-park R7             | 9 Lucky Viking        |  12    |    -10   |
 | 12:17             | 2021-11-10 | riccarton-park R5             | 6 Original Gangster   |   8    |    -10   |
 | 11:42             | 2021-11-10 | riccarton-park R4             | 15 Megavision         |  41    |    -10   |
-| 11:07             | 2021-11-10 | riccarton-park R3             | 4 Lennon              |  13    |    -10   |
-| 11:07             | 2021-11-10 | riccarton-park R3             | 14 Shibuya Kosaten    |  11    |    -10   |
+| 0                 | 2021-11-10 | riccarton-park R3             | 4 Lennon              |   0    |    -10   |
+| 0                 | 2021-11-10 | riccarton-park R3             | 14 Shibuya Kosaten    |   0    |    -10   |
 | 0                 | 2021-11-10 | riccarton-park R2             | 6 Kudos De Sothys     |   0    |    -10   |
 | 0                 | 2021-11-10 | newcastle R6                  | 2 Haven Lady          |   0    |    -10   |
 | 4                 | 2021-11-10 | newcastle R4                  | 3 Reigning Profit     |   9.5  |    -10   |
