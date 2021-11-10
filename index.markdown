@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-10 16:52:45 +1000  
+date: 2021-11-10 17:03:22 +1000  
 ---   
 
 
@@ -149,17 +149,17 @@ date: 2021-11-10 16:52:45 +1000
 |  97 | :soon:                   | 2021-11-10 17:30:00 | hawkesbury     |      7 |        5 | One Star Shining   |  12    | pangea,roughnut      |
 |  98 | :soon:                   | 2021-11-10 17:13:00 | ipswich        |      5 |        2 | Jakkalberry Finn   |   2.15 | overthrow            |
 |  99 | :soon:                   | 2021-11-10 17:13:00 | ipswich        |      5 |        3 | Loca               |   3    | evenodds,prometheus  |
-| 100 | :soon:                   | 2021-11-10 16:59:00 | ascot          |      2 |        5 | Art Warrior        |   4    | roughnut             |
-| 101 | :soon:                   | 2021-11-10 16:59:00 | ascot          |      2 |        3 | Roch Legacy        |   4.4  | pikey                |
-| 102 | :hourglass_flowing_sand: | 2021-11-10 16:45:00 | murray-bdge    |      6 |        5 | Big Acheeva        |  21    | cosmo,roughnut       |
-| 103 | :hourglass_flowing_sand: | 2021-11-10 16:45:00 | murray-bdge    |      6 |        2 | Boomer Beach       |   7.5  | benny,pangea         |
-| 104 | :hourglass_flowing_sand: | 2021-11-10 16:45:00 | murray-bdge    |      6 |       15 | Zip Akeed          |  41    | roughnut             |
-| 105 | :hourglass_flowing_sand: | 2021-11-10 16:24:00 | ascot          |      1 |        1 | Great Fortune      |   2.9  | pikey                |
-| 106 | :hourglass_flowing_sand: | 2021-11-10 16:20:00 | hawkesbury     |      5 |        2 | Prospero           |  16    | cosmo,roughnut       |
-| 107 | :hourglass_flowing_sand: | 2021-11-10 16:20:00 | hawkesbury     |      5 |        9 | Trescha            |  14    | cosmo,roughnut       |
-| 108 | :hourglass_flowing_sand: | 2021-11-10 16:03:00 | ipswich        |      3 |        5 | Glock              |  13    | pangea,roughnut      |
-| 109 | :hourglass_flowing_sand: | 2021-11-10 16:03:00 | ipswich        |      3 |        2 | Joy Too All        |   2.5  | evenodds,overthrow   |
-| 110 | :hourglass_flowing_sand: | 2021-11-10 16:03:00 | ipswich        |      3 |        3 | Better Than Best   |   5    | benny,pangea         |
+| 100 | :hourglass_flowing_sand: | 2021-11-10 16:59:00 | ascot          |      2 |        5 | Art Warrior        |   4    | roughnut             |
+| 101 | :hourglass_flowing_sand: | 2021-11-10 16:59:00 | ascot          |      2 |        3 | Roch Legacy        |   4.4  | pikey                |
+| 102 | --                       | 2021-11-10 16:45:00 | murray-bdge    |      6 |        5 | Big Acheeva        |  21    | cosmo,roughnut       |
+| 103 | --                       | 2021-11-10 16:45:00 | murray-bdge    |      6 |        2 | Boomer Beach       |   7.5  | benny,pangea         |
+| 104 | :3rd_place_medal:        | 2021-11-10 16:45:00 | murray-bdge    |      6 |       15 | Zip Akeed          |  41    | roughnut             |
+| 105 | 5                        | 2021-11-10 16:24:00 | ascot          |      1 |        1 | Great Fortune      |   2.9  | pikey                |
+| 106 | --                       | 2021-11-10 16:20:00 | hawkesbury     |      5 |        2 | Prospero           |  16    | cosmo,roughnut       |
+| 107 | --                       | 2021-11-10 16:20:00 | hawkesbury     |      5 |        9 | Trescha            |  14    | cosmo,roughnut       |
+| 108 | 5                        | 2021-11-10 16:03:00 | ipswich        |      3 |        5 | Glock              |  13    | pangea,roughnut      |
+| 109 | :boom:                   | 2021-11-10 16:03:00 | ipswich        |      3 |        2 | Joy Too All        |   2.5  | evenodds,overthrow   |
+| 110 | 4                        | 2021-11-10 16:03:00 | ipswich        |      3 |        3 | Better Than Best   |   5    | benny,pangea         |
 | 111 | --                       | 2021-11-10 15:45:00 | hawkesbury     |      4 |       12 | The Brotherhood    |  91    | roughnut             |
 | 112 | :3rd_place_medal:        | 2021-11-10 15:35:00 | murray-bdge    |      4 |        4 | Rapid Raiser       |   7.5  | pangea               |
 | 113 | --                       | 2021-11-10 15:14:00 | riccarton-park |     10 |       12 | Dawn Parade        |  18    | roughnut             |
