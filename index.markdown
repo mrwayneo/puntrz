@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-10 20:29:53 +1000  
+date: 2021-11-10 20:52:27 +1000  
 ---   
 
 
@@ -123,13 +123,13 @@ date: 2021-11-10 20:29:53 +1000
 |  71 | :soon:            | 2021-11-10 21:30:00 | launceston     |      7 |        3 | Freelancer         |   4.8  | vulture              |
 |  72 | :soon:            | 2021-11-10 21:30:00 | launceston     |      7 |        2 | The Risk Factor    |   2.3  | pangea,prometheus    |
 |  73 | :soon:            | 2021-11-10 21:25:00 | greyville      |      1 |        3 | Protea Pride       |   0    | prometheus           |
-|  74 | :soon:            | 2021-11-10 20:38:00 | ascot          |      8 |        9 | Master Moore       |  26    | roughnut             |
-|  75 | :soon:            | 2021-11-10 20:38:00 | ascot          |      8 |        3 | My Squeeze Louise  |   3.3  | pikey                |
-|  76 | :soon:            | 2021-11-10 20:38:00 | ascot          |      8 |        4 | Brave Call         |  15    | cosmo,roughnut       |
+|  74 | --                | 2021-11-10 20:38:00 | ascot          |      8 |        9 | Master Moore       |  26    | roughnut             |
+|  75 | --                | 2021-11-10 20:38:00 | ascot          |      8 |        3 | My Squeeze Louise  |   3.3  | pikey                |
+|  76 | --                | 2021-11-10 20:38:00 | ascot          |      8 |        4 | Brave Call         |  15    | cosmo,roughnut       |
 |  77 | --                | 2021-11-10 20:20:00 | launceston     |      5 |        7 | Hannah's Song      |   9.5  | pangea               |
-|  78 | --                | 2021-11-10 20:20:00 | launceston     |      5 |        5 | Red Letter Lady    |   3.4  | overthrow            |
+|  78 | :2nd_place_medal: | 2021-11-10 20:20:00 | launceston     |      5 |        5 | Red Letter Lady    |   3.4  | overthrow            |
 |  79 | --                | 2021-11-10 20:20:00 | launceston     |      5 |        8 | Lucky Lil          |  11    | cosmo,roughnut       |
-|  80 | --                | 2021-11-10 20:20:00 | launceston     |      5 |        3 | Vivilici           |   6    | evenodds,blackshadow |
+|  80 | :boom:            | 2021-11-10 20:20:00 | launceston     |      5 |        3 | Vivilici           |   6    | evenodds,blackshadow |
 |  81 | --                | 2021-11-10 20:20:00 | launceston     |      5 |        6 | Sirene Stryker     |   6.5  | vulture              |
 |  82 | :3rd_place_medal: | 2021-11-10 19:25:00 | ascot          |      6 |        3 | Alimentaria        |   4.8  | pikey                |
 |  83 | 4                 | 2021-11-10 19:25:00 | ascot          |      6 |        4 | Black Chips        |  19    | looseknot            |

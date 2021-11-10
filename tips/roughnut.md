@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-10 20:29:25 +1000  
+date: 2021-11-10 20:51:50 +1000  
 categories: None 
 ---   
 
@@ -41,8 +41,8 @@ categories: None
 | 23:40             | 2021-11-10 | exeter R1                     | 15 Bellamy's Grey     |  61    |    -10   |
 | 23:40             | 2021-11-10 | exeter R1                     | 11 Airton             |  41    |    -10   |
 | 23:30             | 2021-11-10 | bangor R1                     | 2 Star of Rory        |  31    |    -10   |
-| 20:38             | 2021-11-10 | ascot R8                      | 9 Master Moore        |  26    |    -10   |
-| 20:38             | 2021-11-10 | ascot R8                      | 4 Brave Call          |  15    |    -10   |
+| 0                 | 2021-11-10 | ascot R8                      | 9 Master Moore        |   0    |    -10   |
+| 0                 | 2021-11-10 | ascot R8                      | 4 Brave Call          |   0    |    -10   |
 | 0                 | 2021-11-10 | launceston R5                 | 8 Lucky Lil           |   0    |    -10   |
 | 10                | 2021-11-10 | ascot R6                      | 8 Casa Rosada         |  19    |    -10   |
 | 6                 | 2021-11-10 | ascot R5                      | 8 He's All Mighty     |  12    |    -10   |

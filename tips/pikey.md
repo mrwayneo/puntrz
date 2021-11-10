@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-10 20:29:42 +1000  
+date: 2021-11-10 20:52:15 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
-| 20:38             | 2021-11-10 | ascot R8              | 3 My Squeeze Louise   |  3.3  |    -10   |
+| 0                 | 2021-11-10 | ascot R8              | 3 My Squeeze Louise   |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-10 | ascot R6              | 3 Alimentaria         |  4.8  |    -10   |
 | :3rd_place_medal: | 2021-11-10 | ascot R5              | 6 Greatness Awaits    |  8.5  |    -10   |
 | 6                 | 2021-11-10 | ascot R2              | 3 Roch Legacy         |  4.4  |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-11-10 20:28:57 +1000  
+date: 2021-11-10 20:51:03 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
 | 21:30             | 2021-11-10 | launceston R7          | 2 The Risk Factor     |  2.3  |    -10   |
-| 0                 | 2021-11-10 | launceston R5          | 3 Vivilici            |  0    |    -10   |
+| :boom:            | 2021-11-10 | launceston R5          | 3 Vivilici            |  5.1  |     41   |
 | :boom:            | 2021-11-09 | townsville R3          | 3 Yes Dream           |  1.6  |      6   |
 | :boom:            | 2021-11-06 | ascot R9               | 14 Bright Diamond     |  2.7  |     17   |
 | :boom:            | 2021-11-06 | toowoomba R3           | 1 Festival Prince     |  1.4  |      4   |
@@ -114,9 +114,9 @@ categories: None
 | :boom:            | 2021-09-14 | yeppoon R5             | 1 The Egyptian        |  1.8  |      8   |
 | 4                 | 2021-09-14 | yeppoon R1             | 6 Attackabeel         |  2    |    -10   |
 | 0                 | 2021-09-13 | worcester R4           | 2 Bathiva             |  3.2  |    -10   |
-| 4                 | 2021-09-12 | devonport-synthetic R1 | 6 Assaranca           |  4.6  |    -10   |
-| 5                 | 2021-09-12 | devonport-synthetic R1 | 4 Vivilici            |  3    |    -10   |
 | :boom:            | 2021-09-12 | devonport-synthetic R1 | 5 Red Letter Lady     |  4.8  |     38   |
+| 5                 | 2021-09-12 | devonport-synthetic R1 | 4 Vivilici            |  3    |    -10   |
+| 4                 | 2021-09-12 | devonport-synthetic R1 | 6 Assaranca           |  4.6  |    -10   |
 | 4                 | 2021-09-11 | durbanville R5         | 1 The Gatekeeper      |  2.5  |    -10   |
 | 4                 | 2021-09-11 | turffontein R6         | 3 Tierra Del Fuego    | 13    |    -10   |
 | :boom:            | 2021-09-11 | turffontein R5         | 5 Cleveland           | 16    |    150   |
@@ -297,8 +297,8 @@ categories: None
 | 8                 | 2021-06-01 | rockhampton R4         | 1 Trump Me            |  3.35 |    -10   |
 | 0                 | 2021-06-01 | redcar R6              | 1 Faylaq              |  9    |    -10   |
 | 0                 | 2021-05-30 | ffos-las R5            | 3 Clemento            |  3.25 |    -10   |
-| 4                 | 2021-05-29 | belmont R9             | 5 Battle Storm        |  4    |    -10   |
 | :2nd_place_medal: | 2021-05-29 | belmont R9             | 12 This'll Testya     |  8.5  |    -10   |
+| 4                 | 2021-05-29 | belmont R9             | 5 Battle Storm        |  4    |    -10   |
 | :boom:            | 2021-05-29 | belmont R7             | 2 Leading Girl        |  2.7  |     17   |
 | 4                 | 2021-05-29 | darwin R3              | 2 Count of Essex      |  4.25 |    -10   |
 | 7                 | 2021-05-29 | belmont R4             | 3 Mystical View       | 12    |    -10   |
@@ -368,8 +368,8 @@ categories: None
 | :3rd_place_medal: | 2021-04-25 | sha-tin R8             | 6 Daring Tact         |  2.15 |    -10   |
 | :3rd_place_medal: | 2021-04-25 | devonport-synthetic R6 | 4 Rhyme Writer        |  4.8  |    -10   |
 | 10                | 2021-04-24 | morphettville-parks R9 | 2 Azaly               | 17    |    -10   |
-| 5                 | 2021-04-24 | darwin R4              | 4 Trebla              | 14    |    -10   |
 | :2nd_place_medal: | 2021-04-24 | darwin R4              | 1 Patria              |  2.8  |    -10   |
+| 5                 | 2021-04-24 | darwin R4              | 4 Trebla              | 14    |    -10   |
 | 4                 | 2021-04-24 | darwin R2              | 2 Paseeto             |  6    |    -10   |
 | :3rd_place_medal: | 2021-04-24 | darwin R2              | 3 Kaptan Apollo       |  6.5  |    -10   |
 | :3rd_place_medal: | 2021-04-24 | darwin R1              | 1 God's Penny         |  2.55 |    -10   |
