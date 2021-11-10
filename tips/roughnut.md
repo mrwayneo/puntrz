@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-10 15:21:08 +1000  
+date: 2021-11-10 15:51:39 +1000  
 categories: None 
 ---   
 
@@ -58,7 +58,7 @@ categories: None
 | 16:20             | 2021-11-10 | hawkesbury R5                 | 9 Trescha             |  14    |    -10   |
 | 16:20             | 2021-11-10 | hawkesbury R5                 | 2 Prospero            |  16    |    -10   |
 | 16:03             | 2021-11-10 | ipswich R3                    | 5 Glock               |  13    |    -10   |
-| 15:45             | 2021-11-10 | hawkesbury R4                 | 12 The Brotherhood    |  91    |    -10   |
+| 0                 | 2021-11-10 | hawkesbury R4                 | 12 The Brotherhood    |   0    |    -10   |
 | 0                 | 2021-11-10 | riccarton-park R10            | 12 Dawn Parade        |   0    |    -10   |
 | :2nd_place_medal: | 2021-11-10 | bendigo R4                    | 7 Celtic Glory        |   4    |    -10   |
 | :3rd_place_medal: | 2021-11-10 | murray-bdge R1                | 7 The Trance Factor   |  12    |    -10   |
