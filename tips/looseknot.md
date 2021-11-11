@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-11-11 19:17:42 +1000  
+date: 2021-11-11 20:03:25 +1000  
 categories: None 
 ---   
 
@@ -419,8 +419,8 @@ categories: None
 | :2nd_place_medal: | 2021-07-28 | worcester R3                  | 9 Percy Pi            |   9    |    -10   |
 | 0                 | 2021-07-28 | galway R2                     | 9 Livia Celeste       |   5    |    -10   |
 | 0                 | 2021-07-27 | beverley R1                   | 11 Alpine Lady        |   3.8  |    -10   |
-| 0                 | 2021-07-27 | wolverhampton R5              | 8 Bookmark            |   9.5  |    -10   |
 | 0                 | 2021-07-27 | wolverhampton R5              | 4 Kornflake           |   9    |    -10   |
+| 0                 | 2021-07-27 | wolverhampton R5              | 8 Bookmark            |   9.5  |    -10   |
 | 0                 | 2021-07-27 | galway R7                     | 19 Dani Barcelona     |   8    |    -10   |
 | 0                 | 2021-07-26 | newton-abbot R2               | 7 Masterdream         |   5    |    -10   |
 | 4                 | 2021-07-25 | sapphire-coast R5             | 3 Halliday Road       |   7    |    -10   |
@@ -454,8 +454,8 @@ categories: None
 | :3rd_place_medal: | 2021-07-17 | morphettville-parks R5        | 2 Gosden              |   6    |    -10   |
 | 0                 | 2021-07-17 | hamilton R6                   | 2 Too Big To Fail     |   7    |    -10   |
 | :boom:            | 2021-07-16 | killarney R3                  | 7 Baltinglass Hill    |   9    |     80   |
-| :2nd_place_medal: | 2021-07-16 | nottingham R1                 | 6 Sovereign Prince    |   4    |    -10   |
 | 4                 | 2021-07-16 | nottingham R1                 | 4 King Of War         |   4.5  |    -10   |
+| :2nd_place_medal: | 2021-07-16 | nottingham R1                 | 6 Sovereign Prince    |   4    |    -10   |
 | 0                 | 2021-07-16 | haydock R2                    | 6 Great Havana        |   5    |    -10   |
 | 4                 | 2021-07-16 | newbury R1                    | 2 Bell Shot           |   8    |    -10   |
 | :3rd_place_medal: | 2021-07-16 | worcester R6                  | 2 Accordini           |   9    |    -10   |
@@ -464,16 +464,16 @@ categories: None
 | :boom:            | 2021-07-16 | epsom-downs R2                | 6 Prosperous Voyage   |   5    |     40   |
 | 5                 | 2021-07-16 | killarney R5                  | 4 Viking Hoard        |   5    |    -10   |
 | :2nd_place_medal: | 2021-07-15 | leicester R4                  | 9 Tall Order          |   3.4  |    -10   |
-| 0                 | 2021-07-15 | chepstow R1                   | 10 Fetna              |   5    |    -10   |
 | 0                 | 2021-07-15 | chepstow R1                   | 3 Sienna Breeze       |   6    |    -10   |
+| 0                 | 2021-07-15 | chepstow R1                   | 10 Fetna              |   5    |    -10   |
 | 0                 | 2021-07-15 | leicester R1                  | 4 Adatorio            |   8    |    -10   |
 | :3rd_place_medal: | 2021-07-15 | gosford R3                    | 10 Retrieval          |   5    |    -10   |
 | 5                 | 2021-07-15 | gosford R2                    | 11 Tanzimat           |   7.5  |    -10   |
 | 0                 | 2021-07-15 | wolverhampton R8              | 7 Party Planner       |   7    |    -10   |
 | 0                 | 2021-07-15 | catterick R6                  | 13 One More Su        |   4    |    -10   |
 | 0                 | 2021-07-15 | uttoxeter R7                  | 1 Legal Beagle        |   6.5  |    -10   |
-| 4                 | 2021-07-15 | uttoxeter R6                  | 9 Alfoski             |   9    |    -10   |
 | :2nd_place_medal: | 2021-07-15 | uttoxeter R6                  | 10 Midnight Jewel     |   4.6  |    -10   |
+| 4                 | 2021-07-15 | uttoxeter R6                  | 9 Alfoski             |   9    |    -10   |
 | 4                 | 2021-07-14 | uttoxeter R3                  | 3 Capricia            |   8    |    -10   |
 | :boom:            | 2021-07-14 | doomben R4                    | 3 Nowitzki            |   4.3  |     33   |
 | :boom:            | 2021-07-14 | southwell R6                  | 2 Ballymilan          |   6.5  |     55   |
@@ -506,8 +506,8 @@ categories: None
 | :2nd_place_medal: | 2021-07-08 | kembla-grange R3              | 1 Da Nang Star        |   4.6  |    -10   |
 | 0                 | 2021-07-08 | yarmouth R4                   | 6 Amalfi Bay          |   8.5  |    -10   |
 | :3rd_place_medal: | 2021-07-07 | roscommon R8                  | 5 Faith Du Val        |   7    |    -10   |
-| :boom:            | 2021-07-07 | roscommon R6                  | 12 Punters Poet       |   5    |     40   |
 | :3rd_place_medal: | 2021-07-07 | roscommon R6                  | 10 Stealthy Tom       |   4.5  |    -10   |
+| :boom:            | 2021-07-07 | roscommon R6                  | 12 Punters Poet       |   5    |     40   |
 | :3rd_place_medal: | 2021-07-07 | roscommon R1                  | 6 Viking Hoard        |   9    |    -10   |
 | 0                 | 2021-07-06 | wolverhampton R2              | 5 Russco              |   3.8  |    -10   |
 | :3rd_place_medal: | 2021-07-06 | ripon R6                      | 10 Lockerbie          |   4.5  |    -10   |
@@ -574,9 +574,9 @@ categories: None
 | 0                 | 2021-06-17 | royal-ascot R6                | 26 Golden Bell        |   9    |    -10   |
 | :2nd_place_medal: | 2021-06-17 | uttoxeter R8                  | 12 Here's Bingo       |   5    |    -10   |
 | 0                 | 2021-06-16 | royal-ascot R1                | 1 Artos               |   7    |    -10   |
-| 0                 | 2021-06-16 | uttoxeter R3                  | 2 Waterlefe Getaway   |   7.1  |    -10   |
-| 0                 | 2021-06-16 | uttoxeter R3                  | 6 Crossfirehurricane  |   9.1  |    -10   |
 | :boom:            | 2021-06-16 | uttoxeter R3                  | 10 Misscarlett        |   8.5  |     75   |
+| 0                 | 2021-06-16 | uttoxeter R3                  | 6 Crossfirehurricane  |   9.1  |    -10   |
+| 0                 | 2021-06-16 | uttoxeter R3                  | 2 Waterlefe Getaway   |   7.1  |    -10   |
 | :2nd_place_medal: | 2021-06-16 | uttoxeter R1                  | 2 Helford River       |   6.1  |    -10   |
 | :boom:            | 2021-06-16 | brighton R4                   | 5 Khufu               |   6    |     50   |
 | 0                 | 2021-06-16 | royal-ascot R2                | 17 Kaufymaker         |   9    |    -10   |
@@ -986,8 +986,8 @@ categories: None
 | :boom:            | 2021-02-27 | muswellbrook R6               | 1 Expiredtime         |   6.2  |     52   |
 | :2nd_place_medal: | 2021-02-27 | rockhampton R4                | 5 Prickly Tick        |   9.5  |    -10   |
 | 5                 | 2021-02-27 | muswellbrook R1               | 7 Coop's Star         |   4.8  |    -10   |
-| :boom:            | 2021-02-27 | rockhampton R1                | 2 Alikick             |   6.3  |     53   |
 | :2nd_place_medal: | 2021-02-27 | rockhampton R1                | 4 Jack's Echo         |   9    |    -10   |
+| :boom:            | 2021-02-27 | rockhampton R1                | 2 Alikick             |   6.3  |     53   |
 | :2nd_place_medal: | 2021-02-27 | flemington R1                 | 1 Kallos              |   4.2  |    -10   |
 | :3rd_place_medal: | 2021-02-27 | otaki R4                      | 1 Ace Royale          |   4.5  |    -10   |
 | 0                 | 2021-02-27 | dundalk R4                    | 9 Jo March            |   4.2  |    -10   |

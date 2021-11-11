@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-11 19:27:33 +1000  
+date: 2021-11-11 20:07:48 +1000  
 ---   
 
 
@@ -130,8 +130,8 @@ date: 2021-11-11 19:27:33 +1000
 |  78 | :soon:                   | 2021-11-11 22:05:00 | turffontein     |      1 |        6 | Last Cheer         |   0    | prometheus           |
 |  79 | :soon:                   | 2021-11-11 20:37:00 | belmont         |      8 |       12 | Igarashi           |   9    | pikey                |
 |  80 | :soon:                   | 2021-11-11 20:37:00 | belmont         |      8 |        7 | Pasajero           |  11    | roughnut             |
-|  81 | :soon:                   | 2021-11-11 20:00:00 | belmont         |      7 |        6 | I'm Eugene         |  13    | cosmo,roughnut       |
-|  82 | :hourglass_flowing_sand: | 2021-11-11 19:25:00 | belmont         |      6 |        7 | Mirror Moon        |   8    | overthrow,pikey      |
+|  81 | :hourglass_flowing_sand: | 2021-11-11 20:00:00 | belmont         |      7 |        6 | I'm Eugene         |  13    | cosmo,roughnut       |
+|  82 | :2nd_place_medal:        | 2021-11-11 19:25:00 | belmont         |      6 |        7 | Mirror Moon        |   8    | overthrow,pikey      |
 |  83 | --                       | 2021-11-11 18:10:00 | belmont         |      4 |       12 | Arcadia Gem        |   8    | overthrow,pikey      |
 |  84 | :2nd_place_medal:        | 2021-11-11 18:00:00 | racing.com-park |      7 |        7 | Our Modena         |   2.05 | prometheus           |
 |  85 | 6                        | 2021-11-11 18:00:00 | racing.com-park |      7 |       10 | She Zed So         |  16    | looseknot            |
