@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-11-11 14:34:41 +1000  
+date: 2021-11-11 14:54:42 +1000  
 categories: None 
 ---   
 
@@ -32,8 +32,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-05 | rockhampton R5          | 5 Boss Baby           |  5.5  |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R7           | 1 Quackerjack         |  3.3  |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R5           | 1 Quiet Riot          |  5    |    -10   |
-| 5                 | 2021-11-04 | flemington R2           | 3 Zing                |  4    |    -10   |
 | 4                 | 2021-11-04 | flemington R2           | 1 Sirileo Miss        |  2.35 |    -10   |
+| 5                 | 2021-11-04 | flemington R2           | 3 Zing                |  4    |    -10   |
 | 4                 | 2021-11-03 | launceston R6           | 2 Balearic            |  8.5  |    -10   |
 | 8                 | 2021-11-02 | darwin R7               | 5 Taciturn            |  4.8  |    -10   |
 | :2nd_place_medal: | 2021-11-02 | darwin R6               | 3 El Sicario          |  3.9  |    -10   |
@@ -179,8 +179,8 @@ categories: None
 | :boom:            | 2021-08-29 | ballarat R4             | 1 Saunter Boy         |  2.5  |     15   |
 | 6                 | 2021-08-28 | toowoomba R1            | 4 Nick the Skip       |  5.5  |    -10   |
 | :3rd_place_medal: | 2021-08-28 | darwin R4               | 2 Sebrakate           | 15    |    -10   |
-| 9                 | 2021-08-28 | darwin R3               | 3 Kaptan Apollo       | 26    |    -10   |
 | :boom:            | 2021-08-28 | darwin R3               | 4 Patriot Day         | 10.5  |     95   |
+| 9                 | 2021-08-28 | darwin R3               | 3 Kaptan Apollo       | 26    |    -10   |
 | 11                | 2021-08-28 | cairns R6               | 3 Hidden in Heaven    | 34    |    -10   |
 | 7                 | 2021-08-28 | cairns R6               | 8 Bold Type           |  4.2  |    -10   |
 | 5                 | 2021-08-28 | caulfield R6            | 10 Diamonds Inthe Sky | 21    |    -10   |
@@ -407,8 +407,8 @@ categories: None
 | :3rd_place_medal: | 2021-04-25 | devonport-synthetic R6  | 4 Rhyme Writer        |  4.8  |    -10   |
 | 5                 | 2021-04-25 | alice-springs R1        | 4 Dataset             |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-25 | awapuni R1              | 2 Maison Roxanne      |  2.4  |    -10   |
-| :2nd_place_medal: | 2021-04-24 | darwin R4               | 1 Patria              |  2.8  |    -10   |
 | 5                 | 2021-04-24 | darwin R4               | 4 Trebla              | 14    |    -10   |
+| :2nd_place_medal: | 2021-04-24 | darwin R4               | 1 Patria              |  2.8  |    -10   |
 | 0                 | 2021-04-24 | randwick R8             | 9 Starspangled Rodeo  |  5.6  |    -10   |
 | 4                 | 2021-04-24 | darwin R2               | 2 Paseeto             |  6    |    -10   |
 | 5                 | 2021-04-24 | morphettville-parks R7  | 9 Renegade            | 14    |    -10   |
@@ -537,8 +537,8 @@ categories: None
 | :3rd_place_medal: | 2021-02-05 | townsville R1           | 1 Attackabeel         |  1.4  |    -10   |
 | :3rd_place_medal: | 2021-01-30 | ascot R4                | 5 Phoneme             |  5    |    -10   |
 | 5                 | 2021-01-30 | caulfield R8            | 4 Maximak             | 11    |    -10   |
-| 6                 | 2021-01-30 | morphettville R6        | 7 Symphonette         | 18    |    -10   |
 | :boom:            | 2021-01-30 | morphettville R6        | 1 Behemoth            |  1.5  |      5   |
+| 6                 | 2021-01-30 | morphettville R6        | 7 Symphonette         | 18    |    -10   |
 | :2nd_place_medal: | 2021-01-30 | sunshine-coast R4       | 5 What the Fuss       |  4.45 |    -10   |
 | :boom:            | 2021-01-30 | morphettville R4        | 2 Soul Obsession      |  2.6  |     16   |
 | 8                 | 2021-01-28 | scone R6                | 1 Expiredtime         | 17    |    -10   |
