@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-11-11 16:04:16 +1000  
+date: 2021-11-11 16:36:53 +1000  
 categories: None 
 ---   
 
@@ -44,7 +44,7 @@ categories: None
 | 22:05             | 2021-11-11 | turffontein R1                | 3 Orus Apollo         |   0    |    -10   |
 | 18:00             | 2021-11-11 | racing.com-park R7            | 7 Our Modena          |   2.05 |    -10   |
 | 17:30             | 2021-11-11 | racing.com-park R6            | 2 Manasa              |   2.8  |    -10   |
-| 16:35             | 2021-11-11 | port-macquarie R6             | 5 Bak Da Man          |   2.9  |    -10   |
+| 0                 | 2021-11-11 | port-macquarie R6             | 5 Bak Da Man          |   0    |    -10   |
 | 0                 | 2021-11-11 | racing.com-park R2            | 7 Skipping Girl       |   0    |    -10   |
 | :boom:            | 2021-11-11 | port-macquarie R1             | 4 Straya Pride        |   2.6  |     16   |
 | 5                 | 2021-11-11 | mackay R1                     | 6 Imbatido            |   1.9  |    -10   |

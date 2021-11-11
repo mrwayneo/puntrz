@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-11-11 16:02:42 +1000  
+date: 2021-11-11 16:36:31 +1000  
 categories: None 
 ---   
 
@@ -18,8 +18,8 @@ categories: None
 | 06:30             | 2021-11-12 | chelmsford-city R7            | 8 Giuseppe Cassioli   |  11   |      -10 |
 | 06:30             | 2021-11-12 | chelmsford-city R7            | 6 Roman Dynasty       |  15   |      -10 |
 | 20:00             | 2021-11-11 | belmont R7                    | 6 I'm Eugene          |  13   |      -10 |
-| 16:15             | 2021-11-11 | mackay R6                     | 6 Schatzi             |  10   |      -10 |
-| 16:15             | 2021-11-11 | mackay R6                     | 2 Better Days Ahead   |  11   |      -10 |
+| 0                 | 2021-11-11 | mackay R6                     | 6 Schatzi             |   0   |      -10 |
+| 0                 | 2021-11-11 | mackay R6                     | 2 Better Days Ahead   |   0   |      -10 |
 | 0                 | 2021-11-11 | kempton R6                    | 4 Protected Guest     |   0   |      -10 |
 | 0                 | 2021-11-11 | kempton R5                    | 6 Costa Adeje         |   0   |      -10 |
 | 7                 | 2021-11-10 | ascot R8                      | 4 Brave Call          |  15   |      -10 |

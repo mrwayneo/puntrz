@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-11 16:05:44 +1000  
+date: 2021-11-11 16:37:19 +1000  
 categories: None 
 ---   
 
@@ -53,9 +53,9 @@ categories: None
 | 20:00             | 2021-11-11 | belmont R7                    | 6 I'm Eugene          |  13    |    -10   |
 | 17:37             | 2021-11-11 | belmont R3                    | 6 Dadirra             |   8    |    -10   |
 | 17:37             | 2021-11-11 | belmont R3                    | 3 Chick Flix          |  12    |    -10   |
-| 16:15             | 2021-11-11 | mackay R6                     | 2 Better Days Ahead   |  11    |    -10   |
-| 16:15             | 2021-11-11 | mackay R6                     | 6 Schatzi             |  10    |    -10   |
-| 16:15             | 2021-11-11 | mackay R6                     | 7 She's Maganda       |  12    |    -10   |
+| 0                 | 2021-11-11 | mackay R6                     | 2 Better Days Ahead   |   0    |    -10   |
+| 0                 | 2021-11-11 | mackay R6                     | 6 Schatzi             |   0    |    -10   |
+| 0                 | 2021-11-11 | mackay R6                     | 7 She's Maganda       |   0    |    -10   |
 | 0                 | 2021-11-11 | racing.com-park R2            | 5 Liberty Fire        |   0    |    -10   |
 | :3rd_place_medal: | 2021-11-11 | mackay R1                     | 9 Mahkota Rose        |  19.2  |    -10   |
 | 0                 | 2021-11-11 | kempton R7                    | 7 Beat The Breeze     |   0    |    -10   |
