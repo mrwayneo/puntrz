@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-11 20:34:06 +1000  
+date: 2021-11-11 21:03:48 +1000  
 ---   
 
 
@@ -128,9 +128,9 @@ date: 2021-11-11 20:34:06 +1000
 |  76 | :soon:            | 2021-11-11 22:05:00 | turffontein     |      1 |        7 | Liverpool Legend   |   0    | prometheus           |
 |  77 | :soon:            | 2021-11-11 22:05:00 | turffontein     |      1 |        9 | Western Dance      |   0    | prometheus           |
 |  78 | :soon:            | 2021-11-11 22:05:00 | turffontein     |      1 |        6 | Last Cheer         |   0    | prometheus           |
-|  79 | :soon:            | 2021-11-11 20:37:00 | belmont         |      8 |       12 | Igarashi           |   9    | pikey                |
-|  80 | :soon:            | 2021-11-11 20:37:00 | belmont         |      8 |        7 | Pasajero           |  11    | roughnut             |
-|  81 | --                | 2021-11-11 20:00:00 | belmont         |      7 |        6 | I'm Eugene         |  13    | cosmo,roughnut       |
+|  79 | --                | 2021-11-11 20:37:00 | belmont         |      8 |       12 | Igarashi           |   9    | pikey                |
+|  80 | --                | 2021-11-11 20:37:00 | belmont         |      8 |        7 | Pasajero           |  11    | roughnut             |
+|  81 | 8                 | 2021-11-11 20:00:00 | belmont         |      7 |        6 | I'm Eugene         |  13    | cosmo,roughnut       |
 |  82 | :2nd_place_medal: | 2021-11-11 19:25:00 | belmont         |      6 |        7 | Mirror Moon        |   8    | overthrow,pikey      |
 |  83 | --                | 2021-11-11 18:10:00 | belmont         |      4 |       12 | Arcadia Gem        |   8    | overthrow,pikey      |
 |  84 | :2nd_place_medal: | 2021-11-11 18:00:00 | racing.com-park |      7 |        7 | Our Modena         |   2.05 | prometheus           |
