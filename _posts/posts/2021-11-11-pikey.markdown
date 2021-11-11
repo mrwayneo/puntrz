@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-11 21:03:30 +1000  
+date: 2021-11-11 21:17:51 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
-| 0                 | 2021-11-11 | belmont R8            | 12 Igarashi           |  0    |    -10   |
+| 4                 | 2021-11-11 | belmont R8            | 12 Igarashi           |  9    |    -10   |
 | :2nd_place_medal: | 2021-11-11 | belmont R6            | 7 Mirror Moon         |  8    |    -10   |
 | 0                 | 2021-11-11 | belmont R4            | 12 Arcadia Gem        |  0    |    -10   |
 | :boom:            | 2021-11-11 | belmont R3            | 7 Frigid              |  1.5  |      5   |
