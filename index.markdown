@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-11 16:39:25 +1000  
+date: 2021-11-11 16:57:37 +1000  
 ---   
 
 
@@ -140,14 +140,14 @@ date: 2021-11-11 16:39:25 +1000
 |  88 | :soon:                   | 2021-11-11 17:37:00 | belmont         |      3 |        3 | Chick Flix         |  12    | roughnut             |
 |  89 | :soon:                   | 2021-11-11 17:30:00 | racing.com-park |      6 |        2 | Manasa             |   2.8  | prometheus           |
 |  90 | :soon:                   | 2021-11-11 17:25:00 | mackay          |      8 |        7 | Manhattan Whirl    |  11    | benny,pangea         |
-|  91 | :soon:                   | 2021-11-11 16:57:00 | belmont         |      2 |        6 | Jamaica Jeuney     |   2.9  | pikey                |
-|  92 | :hourglass_flowing_sand: | 2021-11-11 16:35:00 | port-macquarie  |      6 |        5 | Bak Da Man         |   2.9  | prometheus           |
-|  93 | :hourglass_flowing_sand: | 2021-11-11 16:15:00 | mackay          |      6 |        6 | Schatzi            |  10    | cosmo,roughnut       |
-|  94 | :hourglass_flowing_sand: | 2021-11-11 16:15:00 | mackay          |      6 |        2 | Better Days Ahead  |  11    | cosmo,roughnut       |
-|  95 | :hourglass_flowing_sand: | 2021-11-11 16:15:00 | mackay          |      6 |        7 | She's Maganda      |  12    | roughnut             |
-|  96 | --                       | 2021-11-11 15:30:00 | racing.com-park |      2 |        7 | Skipping Girl      |   2.2  | prometheus           |
-|  97 | --                       | 2021-11-11 15:30:00 | racing.com-park |      2 |        9 | Valley Of Queens   |   3.2  | looseknot            |
-|  98 | --                       | 2021-11-11 15:30:00 | racing.com-park |      2 |        5 | Liberty Fire       |   3.4  | roughnut             |
+|  91 | :hourglass_flowing_sand: | 2021-11-11 16:57:00 | belmont         |      2 |        6 | Jamaica Jeuney     |   2.9  | pikey                |
+|  92 | :boom:                   | 2021-11-11 16:35:00 | port-macquarie  |      6 |        5 | Bak Da Man         |   2.9  | prometheus           |
+|  93 | :3rd_place_medal:        | 2021-11-11 16:15:00 | mackay          |      6 |        6 | Schatzi            |  10    | cosmo,roughnut       |
+|  94 | :2nd_place_medal:        | 2021-11-11 16:15:00 | mackay          |      6 |        2 | Better Days Ahead  |  11    | cosmo,roughnut       |
+|  95 | --                       | 2021-11-11 16:15:00 | mackay          |      6 |        7 | She's Maganda      |  12    | roughnut             |
+|  96 | :3rd_place_medal:        | 2021-11-11 15:30:00 | racing.com-park |      2 |        7 | Skipping Girl      |   2.2  | prometheus           |
+|  97 | 6                        | 2021-11-11 15:30:00 | racing.com-park |      2 |        9 | Valley Of Queens   |   3.2  | looseknot            |
+|  98 | :boom:                   | 2021-11-11 15:30:00 | racing.com-park |      2 |        5 | Liberty Fire       |   3.4  | roughnut             |
 |  99 | 5                        | 2021-11-11 15:20:00 | port-macquarie  |      4 |        1 | Juventus           |   4.8  | looseknot            |
 | 100 | :boom:                   | 2021-11-11 13:35:00 | port-macquarie  |      1 |        4 | Straya Pride       |   2.9  | prometheus           |
 | 101 | :3rd_place_medal:        | 2021-11-11 13:15:00 | mackay          |      1 |        9 | Mahkota Rose       |  19.2  | roughnut             |
