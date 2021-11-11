@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-11 17:39:41 +1000  
+date: 2021-11-11 17:52:10 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 19:25             | 2021-11-11 | belmont R6            | 7 Mirror Moon         |  8    |    -10   |
 | 18:10             | 2021-11-11 | belmont R4            | 12 Arcadia Gem        |  8    |    -10   |
 | 0                 | 2021-11-11 | belmont R3            | 7 Frigid              |  0    |    -10   |
-| 0                 | 2021-11-11 | belmont R2            | 6 Jamaica Jeuney      |  0    |    -10   |
+| 5                 | 2021-11-11 | belmont R2            | 6 Jamaica Jeuney      |  2.9  |    -10   |
 | :boom:            | 2021-11-10 | ascot R8              | 3 My Squeeze Louise   |  2.4  |     14   |
 | :3rd_place_medal: | 2021-11-10 | ascot R6              | 3 Alimentaria         |  4.8  |    -10   |
 | :3rd_place_medal: | 2021-11-10 | ascot R5              | 6 Greatness Awaits    |  8.5  |    -10   |
