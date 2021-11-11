@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-11 01:10:43 +1000  
+date: 2021-11-11 11:45:11 +1000  
 categories: None 
 ---   
 
@@ -15,16 +15,16 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 06:30             | 2021-11-11 | kempton R7                    | 7 Beat The Breeze     |  11    |    -10   |
-| 06:00             | 2021-11-11 | kempton R6                    | 4 Protected Guest     |  12    |    -10   |
-| 05:30             | 2021-11-11 | kempton R5                    | 6 Costa Adeje         |  10    |    -10   |
-| 05:00             | 2021-11-11 | kempton R4                    | 14 Mighty Mind        |  10    |    -10   |
-| 04:20             | 2021-11-11 | dundalk R7                    | 8 Wonder Spirit       |   9    |    -10   |
-| 03:50             | 2021-11-11 | dundalk R6                    | 1 Duleek Street       |   7.5  |    -10   |
-| 03:20             | 2021-11-11 | dundalk R5                    | 2 Universal Focus     |  13    |    -10   |
-| 03:20             | 2021-11-11 | dundalk R5                    | 4 Rodney Bay          |  13    |    -10   |
-| 03:20             | 2021-11-11 | dundalk R5                    | 11 Zoffalee           |  21    |    -10   |
-| 03:20             | 2021-11-11 | dundalk R5                    | 12 Macaban City       |  26    |    -10   |
+| 0                 | 2021-11-11 | kempton R7                    | 7 Beat The Breeze     |   0    |    -10   |
+| 0                 | 2021-11-11 | kempton R6                    | 4 Protected Guest     |   0    |    -10   |
+| 0                 | 2021-11-11 | kempton R5                    | 6 Costa Adeje         |   0    |    -10   |
+| 0                 | 2021-11-11 | kempton R4                    | 14 Mighty Mind        |   0    |    -10   |
+| 0                 | 2021-11-11 | dundalk R7                    | 8 Wonder Spirit       |   0    |    -10   |
+| 0                 | 2021-11-11 | dundalk R6                    | 1 Duleek Street       |   0    |    -10   |
+| 0                 | 2021-11-11 | dundalk R5                    | 2 Universal Focus     |   0    |    -10   |
+| 0                 | 2021-11-11 | dundalk R5                    | 4 Rodney Bay          |   0    |    -10   |
+| 0                 | 2021-11-11 | dundalk R5                    | 11 Zoffalee           |   0    |    -10   |
+| 0                 | 2021-11-11 | dundalk R5                    | 12 Macaban City       |   0    |    -10   |
 | 0                 | 2021-11-11 | exeter R7                     | 16 Wind From The West |   0    |    -10   |
 | 0                 | 2021-11-11 | exeter R7                     | 12 Towtheline         |   0    |    -10   |
 | 0                 | 2021-11-11 | bangor R7                     | 7 Twotwothree         |   0    |    -10   |

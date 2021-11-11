@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-11-11 01:09:04 +1000  
+date: 2021-11-11 11:44:58 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 06:00             | 2021-11-11 | kempton R6                    | 4 Protected Guest     |  12   |      -10 |
-| 05:30             | 2021-11-11 | kempton R5                    | 6 Costa Adeje         |  10   |      -10 |
+| 0                 | 2021-11-11 | kempton R6                    | 4 Protected Guest     |   0   |      -10 |
+| 0                 | 2021-11-11 | kempton R5                    | 6 Costa Adeje         |   0   |      -10 |
 | 7                 | 2021-11-10 | ascot R8                      | 4 Brave Call          |  15   |      -10 |
 | 6                 | 2021-11-10 | launceston R5                 | 8 Lucky Lil           |  11   |      -10 |
 | 10                | 2021-11-10 | ascot R6                      | 8 Casa Rosada         |  19   |      -10 |

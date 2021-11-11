@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-11-11 01:06:26 +1000  
+date: 2021-11-11 11:44:53 +1000  
 categories: None 
 ---   
 
@@ -15,15 +15,15 @@ categories: None
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 04:00             | 2021-11-11 | kempton R2             | 9 Love Someone        |  13    |    -10   |
-| 04:00             | 2021-11-11 | kempton R2             | 3 Al Husn             |   3.6  |    -10   |
-| 02:40             | 2021-11-11 | exeter R7              | 9 Sabrina             |   4.6  |    -10   |
-| 02:40             | 2021-11-11 | exeter R7              | 5 Mind Sunday         |   4.2  |    -10   |
-| 02:30             | 2021-11-11 | bangor R7              | 9 Turnaway            |  12    |    -10   |
-| 02:00             | 2021-11-11 | bangor R6              | 9 One For Billy       |  11    |    -10   |
-| 01:40             | 2021-11-11 | exeter R5              | 4 Gallyhill           |   2.45 |    -10   |
-| 01:30             | 2021-11-11 | bangor R5              | 11 Whenthepennydrops  |   3.9  |    -10   |
-| 01:10             | 2021-11-11 | exeter R4              | 4 Tulin               |   3.8  |    -10   |
+| 0                 | 2021-11-11 | kempton R2             | 9 Love Someone        |   0    |    -10   |
+| 0                 | 2021-11-11 | kempton R2             | 3 Al Husn             |   0    |    -10   |
+| 0                 | 2021-11-11 | exeter R7              | 9 Sabrina             |   0    |    -10   |
+| 0                 | 2021-11-11 | exeter R7              | 5 Mind Sunday         |   0    |    -10   |
+| 0                 | 2021-11-11 | bangor R7              | 9 Turnaway            |   0    |    -10   |
+| 0                 | 2021-11-11 | bangor R6              | 9 One For Billy       |   0    |    -10   |
+| 0                 | 2021-11-11 | exeter R5              | 4 Gallyhill           |   0    |    -10   |
+| 0                 | 2021-11-11 | bangor R5              | 11 Whenthepennydrops  |   0    |    -10   |
+| 0                 | 2021-11-11 | exeter R4              | 4 Tulin               |   0    |    -10   |
 | 0                 | 2021-11-11 | bangor R4              | 1 Book of Secrets     |   0    |    -10   |
 | 0                 | 2021-11-11 | bangor R3              | 7 Blaklion            |   0    |    -10   |
 | :3rd_place_medal: | 2021-11-11 | exeter R2              | 5 I Am Maximus        |   1.9  |    -10   |

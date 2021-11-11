@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-11 01:08:55 +1000  
+date: 2021-11-11 11:44:57 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
-| 01:40             | 2021-11-11 | exeter R5         | 4 Gallyhill           |  2.45 |    -10   |
+| 0                 | 2021-11-11 | exeter R5         | 4 Gallyhill           |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-11 | exeter R2         | 5 I Am Maximus        |  1.9  |    -10   |
 | 0                 | 2021-11-11 | exeter R2         | 7 Judicial Law        |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-10 | fairyhouse R8     | 4 O'moore Park        |  2.5  |    -10   |

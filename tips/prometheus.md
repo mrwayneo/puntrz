@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-11-11 01:09:31 +1000  
+date: 2021-11-11 11:45:03 +1000  
 categories: None 
 ---   
 
@@ -15,9 +15,9 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:35             | 2021-11-11 | greyville R8                  | 4 Purple And Green    |   0    |    -10   |
-| 01:35             | 2021-11-11 | greyville R8                  | 3 Ramchandani Road    |   0    |    -10   |
-| 01:35             | 2021-11-11 | greyville R8                  | 1 Two Of Us           |   0    |    -10   |
+| 0                 | 2021-11-11 | greyville R8                  | 4 Purple And Green    |   0    |    -10   |
+| 0                 | 2021-11-11 | greyville R8                  | 3 Ramchandani Road    |   0    |    -10   |
+| 0                 | 2021-11-11 | greyville R8                  | 1 Two Of Us           |   0    |    -10   |
 | 0                 | 2021-11-11 | greyville R7                  | 9 Fiery Duke          |   0    |    -10   |
 | 0                 | 2021-11-11 | greyville R7                  | 6 Captain Zee         |   0    |    -10   |
 | 0                 | 2021-11-11 | greyville R7                  | 5 Saipan              |   0    |    -10   |
