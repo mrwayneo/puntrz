@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-11 22:13:07 +1000  
+date: 2021-11-11 22:29:54 +1000  
 ---   
 
 
@@ -123,10 +123,10 @@ date: 2021-11-11 22:13:07 +1000
 |  71 | :soon:            | 2021-11-11 22:40:00 | turffontein     |      2 |        6 | Elusive Swann      |   0    | prometheus           |
 |  72 | :soon:            | 2021-11-11 22:40:00 | turffontein     |      2 |        7 | Golden Tune        |   0    | prometheus           |
 |  73 | :soon:            | 2021-11-11 22:40:00 | turffontein     |      2 |        5 | Timbavati River    |   0    | prometheus           |
-|  74 | --                | 2021-11-11 22:05:00 | turffontein     |      1 |        5 | Masaaken           |   0    | vulture              |
+|  74 | :boom:            | 2021-11-11 22:05:00 | turffontein     |      1 |        5 | Masaaken           |   0    | vulture              |
 |  75 | --                | 2021-11-11 22:05:00 | turffontein     |      1 |        3 | Orus Apollo        |   0    | prometheus           |
-|  76 | --                | 2021-11-11 22:05:00 | turffontein     |      1 |        7 | Liverpool Legend   |   0    | prometheus           |
-|  77 | --                | 2021-11-11 22:05:00 | turffontein     |      1 |        9 | Western Dance      |   0    | prometheus           |
+|  76 | :3rd_place_medal: | 2021-11-11 22:05:00 | turffontein     |      1 |        7 | Liverpool Legend   |   0    | prometheus           |
+|  77 | :2nd_place_medal: | 2021-11-11 22:05:00 | turffontein     |      1 |        9 | Western Dance      |   0    | prometheus           |
 |  78 | --                | 2021-11-11 22:05:00 | turffontein     |      1 |        6 | Last Cheer         |   0    | prometheus           |
 |  79 | 4                 | 2021-11-11 20:37:00 | belmont         |      8 |       12 | Igarashi           |   9    | pikey                |
 |  80 | :3rd_place_medal: | 2021-11-11 20:37:00 | belmont         |      8 |        7 | Pasajero           |  11    | roughnut             |
