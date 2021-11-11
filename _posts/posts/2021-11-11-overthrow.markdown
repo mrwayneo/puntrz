@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-11-11 17:48:40 +1000  
+date: 2021-11-11 18:19:01 +1000  
 categories: None 
 ---   
 
@@ -24,7 +24,7 @@ categories: None
 | 23:30             | 2021-11-11 | market-rasen R1        | 3 Horizon D'ainay     |   6    |    -10   |
 | 23:30             | 2021-11-11 | market-rasen R1        | 8 Oslo                |   6.5  |    -10   |
 | 19:25             | 2021-11-11 | belmont R6             | 7 Mirror Moon         |   8    |    -10   |
-| 18:10             | 2021-11-11 | belmont R4             | 12 Arcadia Gem        |   8    |    -10   |
+| 0                 | 2021-11-11 | belmont R4             | 12 Arcadia Gem        |   0    |    -10   |
 | 0                 | 2021-11-11 | kempton R2             | 9 Love Someone        |   0    |    -10   |
 | 0                 | 2021-11-11 | kempton R2             | 3 Al Husn             |   0    |    -10   |
 | 0                 | 2021-11-11 | exeter R7              | 9 Sabrina             |   0    |    -10   |

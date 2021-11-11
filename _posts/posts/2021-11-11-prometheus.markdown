@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-11-11 17:49:48 +1000  
+date: 2021-11-11 18:20:12 +1000  
 categories: None 
 ---   
 
@@ -42,7 +42,7 @@ categories: None
 | 22:05             | 2021-11-11 | turffontein R1                | 7 Liverpool Legend    |   0    |    -10   |
 | 22:05             | 2021-11-11 | turffontein R1                | 6 Last Cheer          |   0    |    -10   |
 | 22:05             | 2021-11-11 | turffontein R1                | 3 Orus Apollo         |   0    |    -10   |
-| 18:00             | 2021-11-11 | racing.com-park R7            | 7 Our Modena          |   2.05 |    -10   |
+| 0                 | 2021-11-11 | racing.com-park R7            | 7 Our Modena          |   0    |    -10   |
 | :boom:            | 2021-11-11 | racing.com-park R6            | 2 Manasa              |   4.3  |     33   |
 | :boom:            | 2021-11-11 | port-macquarie R6             | 5 Bak Da Man          |   2.6  |     16   |
 | :3rd_place_medal: | 2021-11-11 | racing.com-park R2            | 7 Skipping Girl       |   2.2  |    -10   |

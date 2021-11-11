@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-11-11 17:49:41 +1000  
+date: 2021-11-11 18:20:01 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
 | 01:47             | 2021-11-12 | sedgefield R5                 | 9 Tiger Jet           |   6.5  |    -10   |
 | 01:17             | 2021-11-12 | sedgefield R4                 | 8 Lucky Icon          |   5    |    -10   |
-| 18:00             | 2021-11-11 | racing.com-park R7            | 10 She Zed So         |  16    |    -10   |
+| 0                 | 2021-11-11 | racing.com-park R7            | 10 She Zed So         |   0    |    -10   |
 | 6                 | 2021-11-11 | racing.com-park R2            | 9 Valley Of Queens    |   3.2  |    -10   |
 | 5                 | 2021-11-11 | port-macquarie R4             | 1 Juventus            |   4.8  |    -10   |
 | :boom:            | 2021-11-11 | mackay R1                     | 5 Tennessee Whiskey   |   4.7  |     37   |
