@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-12 21:47:15 +1000  
+date: 2021-11-12 22:02:14 +1000  
 ---   
 
 
@@ -76,7 +76,7 @@ date: 2021-11-12 21:47:15 +1000
 | 24 | :soon:            | 2021-11-13 00:00:00 | worcester      |      2 |        6 | The Mighty Arc |   7    | vulture            |
 | 25 | :soon:            | 2021-11-12 23:30:00 | worcester      |      1 |        4 | Rapid Flight   |   7.5  | overthrow          |
 | 26 | :soon:            | 2021-11-12 22:10:00 | sunshine-coast |      8 |        1 | Shebringzit    |   2.15 | overthrow          |
-| 27 | --                | 2021-11-12 21:38:00 | sunshine-coast |      7 |        4 | Bean Dreamin'  |   3.9  | evenodds,milkman   |
+| 27 | :3rd_place_medal: | 2021-11-12 21:38:00 | sunshine-coast |      7 |        4 | Bean Dreamin'  |   3.9  | evenodds,milkman   |
 | 28 | :3rd_place_medal: | 2021-11-12 19:45:00 | moonee-valley  |      4 |        7 | Crimosa        |   4.2  | milkman            |
 | 29 | 4                 | 2021-11-12 19:30:00 | canterbury     |      4 |        7 | Green Flash    |   1.8  | vulture            |
 | 30 | 5                 | 2021-11-12 18:00:00 | canterbury     |      1 |        6 | Mojo Classic   |   2    | vulture,jmac       |
