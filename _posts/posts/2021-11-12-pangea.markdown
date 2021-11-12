@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-12 15:37:01 +1000  
+date: 2021-11-12 15:53:38 +1000  
 categories: None 
 ---   
 
@@ -45,8 +45,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-07 | sunshine-coast R4      | 2 Sheezasinga        |  5.5  |    -10   |
 | :3rd_place_medal: | 2021-11-07 | armidale R4            | 1 Reiby's Regent     |  4.4  |    -10   |
 | 0                 | 2021-11-07 | wincanton R6           | 7 Teqany             |  0    |    -10   |
-| 0                 | 2021-11-07 | kenilworth R7          | 1 Phil's Dancer      |  0    |    -10   |
 | 0                 | 2021-11-07 | kenilworth R7          | 4 Keep The Lights On |  0    |    -10   |
+| 0                 | 2021-11-07 | kenilworth R7          | 1 Phil's Dancer      |  0    |    -10   |
 | 0                 | 2021-11-07 | turffontein R7         | 3 Pamushana's Pride  |  0    |    -10   |
 | 0                 | 2021-11-07 | kenilworth R5          | 6 Native Tongue      |  0    |    -10   |
 | :boom:            | 2021-11-07 | turffontein R6         | 6 Hello Winter Hello | 14    |    130   |
@@ -55,8 +55,8 @@ categories: None
 | 5                 | 2021-11-06 | toowoomba R4           | 3 Raffalli           |  5.5  |    -10   |
 | :3rd_place_medal: | 2021-11-06 | toowoomba R3           | 2 Rhyme Time         |  5.5  |    -10   |
 | 6                 | 2021-11-06 | eagle-farm R8          | 5 Wonderful Riri     |  4.8  |    -10   |
-| 6                 | 2021-11-06 | ascot R5               | 9 Bopping Blue       |  4.6  |    -10   |
 | :3rd_place_medal: | 2021-11-06 | ascot R5               | 6 Vadette De Star    |  5    |    -10   |
+| 6                 | 2021-11-06 | ascot R5               | 9 Bopping Blue       |  4.6  |    -10   |
 | :2nd_place_medal: | 2021-11-06 | toowoomba R2           | 1 Loburn Lass        |  3.6  |    -10   |
 | 4                 | 2021-11-06 | morphettville-parks R9 | 13 Lady Dunmore      |  5.5  |    -10   |
 | 8                 | 2021-11-06 | gold-coast R7          | 6 Bargannon          |  5.5  |    -10   |
@@ -86,9 +86,9 @@ categories: None
 | :3rd_place_medal: | 2021-11-05 | rockhampton R5         | 5 Boss Baby          |  5.5  |    -10   |
 | :2nd_place_medal: | 2021-11-05 | rockhampton R1         | 1 Mocial Chief       |  1.4  |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R7          | 1 Quackerjack        |  3.3  |    -10   |
+| :2nd_place_medal: | 2021-11-04 | flemington R6          | 8 Malkovich          |  2.5  |    -10   |
 | 4                 | 2021-11-04 | flemington R6          | 6 Parsifal           | 13    |    -10   |
 | 5                 | 2021-11-04 | flemington R6          | 10 Written Beauty    |  4.8  |    -10   |
-| :2nd_place_medal: | 2021-11-04 | flemington R6          | 8 Malkovich          |  2.5  |    -10   |
 | 5                 | 2021-11-04 | ipswich R3             | 3 Kessel Run         | 11    |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R5          | 1 Quiet Riot         |  5    |    -10   |
 | :boom:            | 2021-11-04 | ipswich R2             | 1 Motomiss           |  3.1  |     21   |
@@ -105,8 +105,8 @@ categories: None
 | 5                 | 2021-11-02 | darwin R6              | 2 Trebla             |  3    |    -10   |
 | 5                 | 2021-11-02 | eagle-farm R8          | 2 Firebox            |  4.2  |    -10   |
 | 8                 | 2021-11-02 | darwin R5              | 1 Kaptan Apollo      |  4.6  |    -10   |
-| 6                 | 2021-11-02 | eagle-farm R7          | 4 Le Palmier         |  2.3  |    -10   |
 | 4                 | 2021-11-02 | eagle-farm R7          | 2 King Klaus         |  6.5  |    -10   |
+| 6                 | 2021-11-02 | eagle-farm R7          | 4 Le Palmier         |  2.3  |    -10   |
 | :3rd_place_medal: | 2021-11-02 | darwin R4              | 2 Autocratic         |  5    |    -10   |
 | 7                 | 2021-11-02 | flemington R10         | 8 Rubisaki           | 11    |    -10   |
 | 10                | 2021-11-02 | flemington R10         | 6 Pandemic           |  4.8  |    -10   |
@@ -115,9 +115,9 @@ categories: None
 | :boom:            | 2021-11-02 | eagle-farm R6          | 4 Ingear             |  1.8  |      8   |
 | :boom:            | 2021-11-02 | darwin R3              | 4 Overruled          |  2.7  |     17   |
 | :2nd_place_medal: | 2021-11-02 | canberra R6            | 3 Propose To Me      |  5    |    -10   |
-| :3rd_place_medal: | 2021-11-02 | darwin R2              | 3 Syncline           |  2.35 |    -10   |
-| :boom:            | 2021-11-02 | darwin R2              | 4 The Captain        |  3.1  |     21   |
 | 4                 | 2021-11-02 | darwin R2              | 5 Dizzy Miss Lizzy   |  4.8  |    -10   |
+| :boom:            | 2021-11-02 | darwin R2              | 4 The Captain        |  3.1  |     21   |
+| :3rd_place_medal: | 2021-11-02 | darwin R2              | 3 Syncline           |  2.35 |    -10   |
 | :3rd_place_medal: | 2021-11-02 | eagle-farm R4          | 3 Ralph's Honour     |  4.6  |    -10   |
 | :2nd_place_medal: | 2021-11-02 | eagle-farm R4          | 7 Fetch              |  2.2  |    -10   |
 | 5                 | 2021-11-02 | canberra R5            | 5 Port Douglas       |  4.2  |    -10   |
