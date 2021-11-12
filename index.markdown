@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-12 19:46:06 +1000  
+date: 2021-11-12 20:11:57 +1000  
 ---   
 
 
@@ -47,38 +47,38 @@ date: 2021-11-12 19:46:06 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6297 |    919 | -10761.4 | 0.15 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8315 |    441 | -18383.5 | 0.05 | -0.22 |
 
-|    | finish                   | time                | track          |   race |   number | name           |   odds | tipster            |
-|---:|:-------------------------|:--------------------|:---------------|-------:|---------:|:---------------|-------:|:-------------------|
-|  0 | :soon:                   | 2021-11-13 06:00:00 | kempton        |      6 |        2 | Uber Cool      |   4    | vulture            |
-|  1 | :soon:                   | 2021-11-13 06:00:00 | kempton        |      6 |        6 | Bandinelli     |   2.75 | evenodds,overthrow |
-|  2 | :soon:                   | 2021-11-13 05:00:00 | kempton        |      4 |        5 | Last Ammo      |   4    | overthrow          |
-|  3 | :soon:                   | 2021-11-13 04:30:00 | kempton        |      3 |        2 | Al Nafir       |   1.85 | evenodds,overthrow |
-|  4 | :soon:                   | 2021-11-13 04:30:00 | kempton        |      3 |        5 | First Officer  |   2.9  | overthrow          |
-|  5 | :soon:                   | 2021-11-13 03:00:00 | cheltenham     |      6 |        8 | Brorson        |  13    | vulture            |
-|  6 | :soon:                   | 2021-11-13 03:00:00 | cheltenham     |      6 |        1 | Percy's Word   |  16    | evenodds,overthrow |
-|  7 | :soon:                   | 2021-11-13 03:00:00 | cheltenham     |      6 |       15 | City Derby     |   8.5  | evenodds,overthrow |
-|  8 | :soon:                   | 2021-11-13 03:00:00 | cheltenham     |      6 |        6 | Samba Dancer   |  13    | overthrow          |
-|  9 | :soon:                   | 2021-11-13 03:00:00 | cheltenham     |      6 |       13 | Just The Man   |  26    | vulture            |
-| 10 | :soon:                   | 2021-11-13 02:30:00 | cheltenham     |      5 |        5 | Kayf Hernando  |  13    | overthrow          |
-| 11 | :soon:                   | 2021-11-13 02:30:00 | cheltenham     |      5 |        3 | Gelino Bello   |   2.4  | overthrow,milkman  |
-| 12 | :soon:                   | 2021-11-13 02:30:00 | cheltenham     |      5 |        1 | Off Your Rocco |   3.9  | milkman            |
-| 13 | :soon:                   | 2021-11-13 01:20:00 | cheltenham     |      3 |        2 | Gin On Lime    |   3.25 | vulture            |
-| 14 | :soon:                   | 2021-11-13 01:20:00 | cheltenham     |      3 |        3 | My Drogo       |   1.36 | evenodds,overthrow |
-| 15 | :soon:                   | 2021-11-13 01:00:00 | newcastle      |      5 |        2 | Tarroob        |   2.5  | vulture            |
-| 16 | :soon:                   | 2021-11-13 00:45:00 | cheltenham     |      2 |        8 | Kap Auteuil    |   7    | pangea             |
-| 17 | :soon:                   | 2021-11-13 00:45:00 | cheltenham     |      2 |        2 | Hatcher        |  15    | overthrow          |
-| 18 | :soon:                   | 2021-11-13 00:45:00 | cheltenham     |      2 |        9 | Bathiva        |  12    | overthrow          |
-| 19 | :soon:                   | 2021-11-13 00:45:00 | cheltenham     |      2 |        1 | Magic Saint    |   3.8  | pangea,blackshadow |
-| 20 | :soon:                   | 2021-11-13 00:20:00 | fairview       |      6 |        1 | Soft Spot      |   0    | milkman            |
-| 21 | :soon:                   | 2021-11-13 00:10:00 | cheltenham     |      1 |       14 | Art Approval   |   7    | overthrow          |
-| 22 | :soon:                   | 2021-11-13 00:10:00 | cheltenham     |      1 |        4 | Skatman        |   4    | milkman            |
-| 23 | :soon:                   | 2021-11-13 00:00:00 | worcester      |      2 |        7 | Aki Bomaye     |   4    | vulture            |
-| 24 | :soon:                   | 2021-11-13 00:00:00 | worcester      |      2 |        6 | The Mighty Arc |   7    | vulture            |
-| 25 | :soon:                   | 2021-11-12 23:30:00 | worcester      |      1 |        4 | Rapid Flight   |   7.5  | overthrow          |
-| 26 | :soon:                   | 2021-11-12 22:10:00 | sunshine-coast |      8 |        1 | Shebringzit    |   2.15 | overthrow          |
-| 27 | :soon:                   | 2021-11-12 21:38:00 | sunshine-coast |      7 |        4 | Bean Dreamin'  |   3.9  | evenodds,milkman   |
-| 28 | :hourglass_flowing_sand: | 2021-11-12 19:45:00 | moonee-valley  |      4 |        7 | Crimosa        |   4.2  | milkman            |
-| 29 | 4                        | 2021-11-12 19:30:00 | canterbury     |      4 |        7 | Green Flash    |   1.8  | vulture            |
-| 30 | 5                        | 2021-11-12 18:00:00 | canterbury     |      1 |        6 | Mojo Classic   |   2    | vulture,jmac       |
-| 31 | --                       | 2021-11-12 14:10:00 | awapuni        |      7 |        8 | Illumination   |   3.7  | vulture            |
-| 32 | :boom:                   | 2021-11-12 10:38:00 | awapuni        |      1 |        8 | La Bella Beals |   2.4  | vulture            |
+|    | finish            | time                | track          |   race |   number | name           |   odds | tipster            |
+|---:|:------------------|:--------------------|:---------------|-------:|---------:|:---------------|-------:|:-------------------|
+|  0 | :soon:            | 2021-11-13 06:00:00 | kempton        |      6 |        2 | Uber Cool      |   4    | vulture            |
+|  1 | :soon:            | 2021-11-13 06:00:00 | kempton        |      6 |        6 | Bandinelli     |   2.75 | evenodds,overthrow |
+|  2 | :soon:            | 2021-11-13 05:00:00 | kempton        |      4 |        5 | Last Ammo      |   4    | overthrow          |
+|  3 | :soon:            | 2021-11-13 04:30:00 | kempton        |      3 |        2 | Al Nafir       |   1.85 | evenodds,overthrow |
+|  4 | :soon:            | 2021-11-13 04:30:00 | kempton        |      3 |        5 | First Officer  |   2.9  | overthrow          |
+|  5 | :soon:            | 2021-11-13 03:00:00 | cheltenham     |      6 |        8 | Brorson        |  13    | vulture            |
+|  6 | :soon:            | 2021-11-13 03:00:00 | cheltenham     |      6 |        1 | Percy's Word   |  16    | evenodds,overthrow |
+|  7 | :soon:            | 2021-11-13 03:00:00 | cheltenham     |      6 |       15 | City Derby     |   8.5  | evenodds,overthrow |
+|  8 | :soon:            | 2021-11-13 03:00:00 | cheltenham     |      6 |        6 | Samba Dancer   |  13    | overthrow          |
+|  9 | :soon:            | 2021-11-13 03:00:00 | cheltenham     |      6 |       13 | Just The Man   |  26    | vulture            |
+| 10 | :soon:            | 2021-11-13 02:30:00 | cheltenham     |      5 |        5 | Kayf Hernando  |  13    | overthrow          |
+| 11 | :soon:            | 2021-11-13 02:30:00 | cheltenham     |      5 |        3 | Gelino Bello   |   2.4  | overthrow,milkman  |
+| 12 | :soon:            | 2021-11-13 02:30:00 | cheltenham     |      5 |        1 | Off Your Rocco |   3.9  | milkman            |
+| 13 | :soon:            | 2021-11-13 01:20:00 | cheltenham     |      3 |        2 | Gin On Lime    |   3.25 | vulture            |
+| 14 | :soon:            | 2021-11-13 01:20:00 | cheltenham     |      3 |        3 | My Drogo       |   1.36 | evenodds,overthrow |
+| 15 | :soon:            | 2021-11-13 01:00:00 | newcastle      |      5 |        2 | Tarroob        |   2.5  | vulture            |
+| 16 | :soon:            | 2021-11-13 00:45:00 | cheltenham     |      2 |        8 | Kap Auteuil    |   7    | pangea             |
+| 17 | :soon:            | 2021-11-13 00:45:00 | cheltenham     |      2 |        2 | Hatcher        |  15    | overthrow          |
+| 18 | :soon:            | 2021-11-13 00:45:00 | cheltenham     |      2 |        9 | Bathiva        |  12    | overthrow          |
+| 19 | :soon:            | 2021-11-13 00:45:00 | cheltenham     |      2 |        1 | Magic Saint    |   3.8  | pangea,blackshadow |
+| 20 | :soon:            | 2021-11-13 00:20:00 | fairview       |      6 |        1 | Soft Spot      |   0    | milkman            |
+| 21 | :soon:            | 2021-11-13 00:10:00 | cheltenham     |      1 |       14 | Art Approval   |   7    | overthrow          |
+| 22 | :soon:            | 2021-11-13 00:10:00 | cheltenham     |      1 |        4 | Skatman        |   4    | milkman            |
+| 23 | :soon:            | 2021-11-13 00:00:00 | worcester      |      2 |        7 | Aki Bomaye     |   4    | vulture            |
+| 24 | :soon:            | 2021-11-13 00:00:00 | worcester      |      2 |        6 | The Mighty Arc |   7    | vulture            |
+| 25 | :soon:            | 2021-11-12 23:30:00 | worcester      |      1 |        4 | Rapid Flight   |   7.5  | overthrow          |
+| 26 | :soon:            | 2021-11-12 22:10:00 | sunshine-coast |      8 |        1 | Shebringzit    |   2.15 | overthrow          |
+| 27 | :soon:            | 2021-11-12 21:38:00 | sunshine-coast |      7 |        4 | Bean Dreamin'  |   3.9  | evenodds,milkman   |
+| 28 | :3rd_place_medal: | 2021-11-12 19:45:00 | moonee-valley  |      4 |        7 | Crimosa        |   4.2  | milkman            |
+| 29 | 4                 | 2021-11-12 19:30:00 | canterbury     |      4 |        7 | Green Flash    |   1.8  | vulture            |
+| 30 | 5                 | 2021-11-12 18:00:00 | canterbury     |      1 |        6 | Mojo Classic   |   2    | vulture,jmac       |
+| 31 | --                | 2021-11-12 14:10:00 | awapuni        |      7 |        8 | Illumination   |   3.7  | vulture            |
+| 32 | :boom:            | 2021-11-12 10:38:00 | awapuni        |      1 |        8 | La Bella Beals |   2.4  | vulture            |
