@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-12 13:55:14 +1000  
+date: 2021-11-12 14:46:48 +1000  
 ---   
 
 
@@ -80,5 +80,5 @@ date: 2021-11-12 13:55:14 +1000
 | 28 | :soon:   | 2021-11-12 19:45:00 | moonee-valley  |      4 |        7 | Crimosa        |   4.2  | milkman            |
 | 29 | :soon:   | 2021-11-12 19:30:00 | canterbury     |      4 |        7 | Green Flash    |   1.8  | vulture            |
 | 30 | :soon:   | 2021-11-12 18:00:00 | canterbury     |      1 |        6 | Mojo Classic   |   2    | vulture,jmac       |
-| 31 | :soon:   | 2021-11-12 14:10:00 | awapuni        |      7 |        8 | Illumination   |   3.7  | vulture            |
+| 31 | --       | 2021-11-12 14:10:00 | awapuni        |      7 |        8 | Illumination   |   3.7  | vulture            |
 | 32 | :boom:   | 2021-11-12 10:38:00 | awapuni        |      1 |        8 | La Bella Beals |   2.4  | vulture            |
