@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-12 21:30:40 +1000  
+date: 2021-11-12 21:46:31 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 02:30             | 2021-11-13 | cheltenham R5      | 1 Off Your Rocco      |  3.9  |    -10   |
 | 00:20             | 2021-11-13 | fairview R6        | 1 Soft Spot           |  0    |    -10   |
 | 00:10             | 2021-11-13 | cheltenham R1      | 4 Skatman             |  4    |    -10   |
-| 21:38             | 2021-11-12 | sunshine-coast R7  | 4 Bean Dreamin'       |  3.9  |    -10   |
+| 0                 | 2021-11-12 | sunshine-coast R7  | 4 Bean Dreamin'       |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-12 | moonee-valley R4   | 7 Crimosa             |  4.2  |    -10   |
 | 0                 | 2021-11-12 | chelmsford-city R5 | 4 Napper Tandy        |  0    |    -10   |
 | 0                 | 2021-11-12 | turffontein R7     | 5 Val D'orcia         |  0    |    -10   |
