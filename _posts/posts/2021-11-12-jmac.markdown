@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-11-12 17:37:54 +1000  
+date: 2021-11-12 18:08:49 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
-| 18:00             | 2021-11-12 | canterbury R1     | 6 Mojo Classic        |  2    |    -10   |
+| 0                 | 2021-11-12 | canterbury R1     | 6 Mojo Classic        |  0    |    -10   |
 | :boom:            | 2021-11-06 | flemington R8     | 4 Zaaki               |  2.2  |     12   |
 | 6                 | 2021-11-06 | flemington R7     | 2 Sinawann            |  6    |    -10   |
 | :boom:            | 2021-11-06 | flemington R6     | 1 Nature Strip        |  1.3  |      3   |
