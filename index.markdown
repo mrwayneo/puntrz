@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-13 12:36:50 +1000  
+date: 2021-11-13 12:51:37 +1000  
 ---   
 
 
@@ -302,8 +302,8 @@ date: 2021-11-13 12:36:50 +1000
 | 250 | :soon:            | 2021-11-13 12:55:00 | newcastle           |      2 |        2 | Ma And Pa          |   2.45 | vulture,pangea       |
 | 251 | :soon:            | 2021-11-13 12:55:00 | newcastle           |      2 |       10 | Sacred Command     |   3.4  | benny,pangea         |
 | 252 | :soon:            | 2021-11-13 12:55:00 | newcastle           |      2 |        6 | Charmmebaby        |  10    | roughnut             |
-| 253 | :soon:            | 2021-11-13 12:47:00 | morphettville-parks |      1 |        7 | Kalamon            |  11    | vulture,roughnut     |
-| 254 | --                | 2021-11-13 12:20:00 | newcastle           |      1 |        3 | Lord Of The Hunter |   5.5  | vulture,jmac         |
+| 253 | --                | 2021-11-13 12:47:00 | morphettville-parks |      1 |        7 | Kalamon            |  11    | vulture,roughnut     |
+| 254 | 4                 | 2021-11-13 12:20:00 | newcastle           |      1 |        3 | Lord Of The Hunter |   5.5  | vulture,jmac         |
 | 255 | :3rd_place_medal: | 2021-11-13 12:08:00 | riccarton-park      |      6 |        4 | Tap Dancer         |   6    | looseknot            |
 | 256 | :boom:            | 2021-11-13 11:35:00 | riccarton-park      |      5 |        5 | Ocean Point        |  10    | roughnut             |
 | 257 | :boom:            | 2021-11-13 10:42:00 | tauranga            |      1 |       11 | Achieve            |   3.1  | roughnut             |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-11-13 12:36:42 +1000  
+date: 2021-11-13 12:51:28 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
 | 16:00             | 2021-11-13 | newcastle R7      | 8 Loch Eagle          | 10    |    -10   |
 | 14:40             | 2021-11-13 | newcastle R5      | 3 Mightybeel          |  2    |    -10   |
-| 0                 | 2021-11-13 | newcastle R1      | 3 Lord Of The Hunter  |  0    |    -10   |
+| 4                 | 2021-11-13 | newcastle R1      | 3 Lord Of The Hunter  |  5.5  |    -10   |
 | 5                 | 2021-11-12 | canterbury R1     | 6 Mojo Classic        |  2    |    -10   |
 | :boom:            | 2021-11-06 | flemington R8     | 4 Zaaki               |  2.2  |     12   |
 | 6                 | 2021-11-06 | flemington R7     | 2 Sinawann            |  6    |    -10   |
