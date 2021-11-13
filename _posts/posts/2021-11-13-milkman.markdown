@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-13 22:42:36 +1000  
+date: 2021-11-13 23:03:34 +1000  
 categories: None 
 ---   
 
@@ -24,25 +24,25 @@ categories: None
 | 01:35             | 2021-11-14 | wetherby R5        | 5 Sauce Of Life       |  2.1  |    -10   |
 | 01:25             | 2021-11-14 | kenilworth R6      | 2 Kalahari Ferrari    |  0    |    -10   |
 | 23:20             | 2021-11-13 | turffontein R5     | 5 Sprinkles           |  0    |    -10   |
-| 23:00             | 2021-11-13 | punchestown R1     | 2 Bob Olinger         |  1.2  |    -10   |
+| 0                 | 2021-11-13 | punchestown R1     | 2 Bob Olinger         |  0    |    -10   |
 | 0                 | 2021-11-13 | ascot R9           | 10 The Front Bar      |  0    |    -10   |
 | 0                 | 2021-11-13 | sha-tin R9         | 1 Packing Victory     |  0    |    -10   |
 | 0                 | 2021-11-13 | sha-tin R7         | 4 Excellent Proposal  |  0    |    -10   |
-| :boom:            | 2021-11-13 | ascot R5           | 6 Kissonallforcheeks  |  1.8  |      8   |
 | 4                 | 2021-11-13 | ascot R5           | 3 Kaptain Kaos        |  2.7  |    -10   |
+| :boom:            | 2021-11-13 | ascot R5           | 6 Kissonallforcheeks  |  1.8  |      8   |
 | :boom:            | 2021-11-13 | ascot R3           | 3 Wilchino            |  4.4  |     34   |
-| :2nd_place_medal: | 2021-11-13 | doomben R6         | 8 Palaisipan          |  4.6  |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R6         | 9 She Can Sing        |  2.9  |    -10   |
+| :2nd_place_medal: | 2021-11-13 | doomben R6         | 8 Palaisipan          |  4.6  |    -10   |
 | 0                 | 2021-11-13 | kembla-grange R5   | 1 Spaltet             |  0    |    -10   |
-| :3rd_place_medal: | 2021-11-13 | doomben R5         | 10 Putontheredlight   |  2.15 |    -10   |
 | 4                 | 2021-11-13 | doomben R5         | 4 Zavaboom            | 17    |    -10   |
+| :3rd_place_medal: | 2021-11-13 | doomben R5         | 10 Putontheredlight   |  2.15 |    -10   |
 | 7                 | 2021-11-13 | ascot R1           | 2 Fairy Fast          |  6    |    -10   |
 | :boom:            | 2021-11-13 | ascot R1           | 6 Written Matter      |  5.1  |     41   |
 | :2nd_place_medal: | 2021-11-13 | gold-coast R4      | 1 Vivyn               |  1.28 |    -10   |
 | :3rd_place_medal: | 2021-11-13 | newcastle R5       | 1 Love Tap            |  3.1  |    -10   |
 | 4                 | 2021-11-13 | riccarton-park R8  | 1 Imperatriz          |  3.5  |    -10   |
-| 0                 | 2021-11-13 | cheltenham R5      | 1 Off Your Rocco      |  0    |    -10   |
 | 0                 | 2021-11-13 | cheltenham R5      | 3 Gelino Bello        |  0    |    -10   |
+| 0                 | 2021-11-13 | cheltenham R5      | 1 Off Your Rocco      |  0    |    -10   |
 | 0                 | 2021-11-13 | fairview R6        | 1 Soft Spot           |  0    |    -10   |
 | 6                 | 2021-11-13 | cheltenham R1      | 4 Skatman             |  4    |    -10   |
 | :3rd_place_medal: | 2021-11-12 | sunshine-coast R7  | 4 Bean Dreamin'       |  3.9  |    -10   |
@@ -54,8 +54,8 @@ categories: None
 | 0                 | 2021-11-11 | exeter R5          | 4 Gallyhill           |  0    |    -10   |
 | 0                 | 2021-11-11 | exeter R2          | 7 Judicial Law        |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-11 | exeter R2          | 5 I Am Maximus        |  1.9  |    -10   |
-| :2nd_place_medal: | 2021-11-10 | fairyhouse R8      | 4 O'moore Park        |  2.5  |    -10   |
 | :boom:            | 2021-11-10 | fairyhouse R8      | 3 Glenglass           |  2    |     10   |
+| :2nd_place_medal: | 2021-11-10 | fairyhouse R8      | 4 O'moore Park        |  2.5  |    -10   |
 | :3rd_place_medal: | 2021-11-10 | huntingdon R7      | 1 Alazwar             |  1.5  |    -10   |
 | :boom:            | 2021-11-09 | huntingdon R1      | 7 Theatre Glory       |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3      | 3 Yes Dream           |  1.6  |      6   |
@@ -69,8 +69,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-07 | sunshine-coast R5  | 2 Ma Ma's Rose        |  3.8  |    -10   |
 | 4                 | 2021-11-07 | ararat R6          | 5 Seawhatyouthink     |  4.6  |    -10   |
 | 0                 | 2021-11-07 | wincanton R6       | 4 Sole Pretender      |  0    |    -10   |
-| 0                 | 2021-11-07 | naas R5            | 6 Highland Charge     |  0    |    -10   |
 | :boom:            | 2021-11-07 | naas R5            | 3 Eric Bloodaxe       |  2.3  |     13   |
+| 0                 | 2021-11-07 | naas R5            | 6 Highland Charge     |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-07 | kenilworth R5      | 1 Kommetdieding       |  0    |    -10   |
 | :boom:            | 2021-11-07 | wincanton R2       | 1 Knappers Hill       |  1.1  |      1   |
 | :3rd_place_medal: | 2021-11-06 | turffontein R4     | 4 Rain In Holland     |  0    |    -10   |

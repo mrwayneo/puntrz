@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-13 22:42:47 +1000  
+date: 2021-11-13 23:03:45 +1000  
 ---   
 
 
@@ -49,8 +49,8 @@ date: 2021-11-13 22:42:47 +1000
 
 |     | finish                   | time                | track               |   race |   number | name               |   odds | tipster              |
 |----:|:-------------------------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|   0 | :soon:                   | 2021-11-14 06:30:00 | wolverhampton       |      7 |       11 | Wild Flower        |  17    | cosmo,roughnut       |
-|   1 | :soon:                   | 2021-11-14 06:30:00 | wolverhampton       |      7 |        2 | Robustly           |  31    | cosmo,roughnut       |
+|   0 | :soon:                   | 2021-11-14 06:30:00 | wolverhampton       |      7 |        2 | Robustly           |  31    | cosmo,roughnut       |
+|   1 | :soon:                   | 2021-11-14 06:30:00 | wolverhampton       |      7 |       11 | Wild Flower        |  17    | cosmo,roughnut       |
 |   2 | :soon:                   | 2021-11-14 05:30:00 | wolverhampton       |      5 |        3 | Raased             |  21    | cosmo,roughnut       |
 |   3 | :soon:                   | 2021-11-14 05:00:00 | wolverhampton       |      4 |        2 | Roman Dragon       |  10    | cosmo,roughnut       |
 |   4 | :soon:                   | 2021-11-14 05:00:00 | wolverhampton       |      4 |        6 | Irish Millions     |   3.5  | vulture              |
@@ -73,8 +73,8 @@ date: 2021-11-13 22:42:47 +1000
 |  21 | :soon:                   | 2021-11-14 02:30:00 | punchestown         |      7 |        1 | Minella Crooner    |   1.14 | vulture              |
 |  22 | :soon:                   | 2021-11-14 02:25:00 | cheltenham          |      6 |        1 | Benson             |  12    | cosmo,roughnut       |
 |  23 | :soon:                   | 2021-11-14 02:25:00 | cheltenham          |      6 |        3 | Breffniboy         |  17    | roughnut             |
-|  24 | :soon:                   | 2021-11-14 02:25:00 | cheltenham          |      6 |        8 | Mackelduff         |   4.5  | vulture,milkman      |
-|  25 | :soon:                   | 2021-11-14 02:25:00 | cheltenham          |      6 |        7 | Pyramid Place      |  12    | vulture              |
+|  24 | :soon:                   | 2021-11-14 02:25:00 | cheltenham          |      6 |        7 | Pyramid Place      |  12    | vulture              |
+|  25 | :soon:                   | 2021-11-14 02:25:00 | cheltenham          |      6 |        8 | Mackelduff         |   4.5  | vulture,milkman      |
 |  26 | :soon:                   | 2021-11-14 02:25:00 | cheltenham          |      6 |       10 | Unexpected Party   |   4.5  | evenodds,overthrow   |
 |  27 | :soon:                   | 2021-11-14 02:17:00 | uttoxeter           |      6 |        3 | Presentedwithwings |  10    | roughnut             |
 |  28 | :soon:                   | 2021-11-14 02:05:00 | lingfield           |      7 |       12 | Jouska             |  26    | roughnut             |
@@ -82,10 +82,10 @@ date: 2021-11-13 22:42:47 +1000
 |  30 | :soon:                   | 2021-11-14 02:00:00 | kenilworth          |      7 |        3 | Spring Awakening   |   0    | vulture              |
 |  31 | :soon:                   | 2021-11-14 02:00:00 | kenilworth          |      7 |        2 | Safe Return        |   0    | prometheus           |
 |  32 | :soon:                   | 2021-11-14 02:00:00 | kenilworth          |      7 |        5 | Apollo Ace         |   0    | prometheus           |
-|  33 | :soon:                   | 2021-11-14 01:58:00 | punchestown         |      6 |        8 | Where's Bunny      |  41    | roughnut             |
+|  33 | :soon:                   | 2021-11-14 01:58:00 | punchestown         |      6 |        7 | Dalileo            |  21    | roughnut             |
 |  34 | :soon:                   | 2021-11-14 01:58:00 | punchestown         |      6 |       11 | Ruler Of Dubai     |  12    | roughnut             |
-|  35 | :soon:                   | 2021-11-14 01:58:00 | punchestown         |      6 |        7 | Dalileo            |  21    | roughnut             |
-|  36 | :soon:                   | 2021-11-14 01:58:00 | punchestown         |      6 |        2 | Endlessly          |  51    | roughnut             |
+|  35 | :soon:                   | 2021-11-14 01:58:00 | punchestown         |      6 |        2 | Endlessly          |  51    | roughnut             |
+|  36 | :soon:                   | 2021-11-14 01:58:00 | punchestown         |      6 |        8 | Where's Bunny      |  41    | roughnut             |
 |  37 | :soon:                   | 2021-11-14 01:58:00 | punchestown         |      6 |        9 | Rock Of Tuskar     |  15    | roughnut             |
 |  38 | :soon:                   | 2021-11-14 01:50:00 | cheltenham          |      5 |       10 | Scheu Time         |  26    | roughnut             |
 |  39 | :soon:                   | 2021-11-14 01:50:00 | cheltenham          |      5 |        6 | Onagatheringstorm  |   8    | overthrow            |
@@ -101,12 +101,12 @@ date: 2021-11-13 22:42:47 +1000
 |  49 | :soon:                   | 2021-11-14 01:23:00 | punchestown         |      5 |       16 | Whatsavailable     |  11    | roughnut             |
 |  50 | :soon:                   | 2021-11-14 01:23:00 | punchestown         |      5 |       20 | Park Hind          |  17    | roughnut             |
 |  51 | :soon:                   | 2021-11-14 01:15:00 | cheltenham          |      4 |       15 | Belargus           |  41    | roughnut             |
-|  52 | :soon:                   | 2021-11-14 01:15:00 | cheltenham          |      4 |        2 | Protektorat        |   8    | overthrow            |
-|  53 | :soon:                   | 2021-11-14 01:15:00 | cheltenham          |      4 |        6 | Lalor              |   7.5  | overthrow            |
+|  52 | :soon:                   | 2021-11-14 01:15:00 | cheltenham          |      4 |        6 | Lalor              |   7.5  | overthrow            |
+|  53 | :soon:                   | 2021-11-14 01:15:00 | cheltenham          |      4 |        2 | Protektorat        |   8    | overthrow            |
 |  54 | :soon:                   | 2021-11-14 01:07:00 | uttoxeter           |      4 |        6 | Lord Getaway       |  12    | roughnut             |
-|  55 | :soon:                   | 2021-11-14 01:05:00 | turffontein         |      8 |        2 | White Fang         |   0    | prometheus           |
+|  55 | :soon:                   | 2021-11-14 01:05:00 | turffontein         |      8 |        6 | Black Thorn        |   0    | prometheus           |
 |  56 | :soon:                   | 2021-11-14 01:05:00 | turffontein         |      8 |        3 | Barak              |   0    | vulture              |
-|  57 | :soon:                   | 2021-11-14 01:05:00 | turffontein         |      8 |        6 | Black Thorn        |   0    | prometheus           |
+|  57 | :soon:                   | 2021-11-14 01:05:00 | turffontein         |      8 |        2 | White Fang         |   0    | prometheus           |
 |  58 | :soon:                   | 2021-11-14 00:55:00 | lingfield           |      5 |        6 | Desert Lime        |   2    | prometheus           |
 |  59 | :soon:                   | 2021-11-14 00:50:00 | kenilworth          |      5 |        4 | Baltimore Jack     |   0    | prometheus           |
 |  60 | :soon:                   | 2021-11-14 00:48:00 | punchestown         |      4 |        8 | Top Bandit         |   3    | vulture,blackshadow  |
@@ -116,60 +116,60 @@ date: 2021-11-13 22:42:47 +1000
 |  64 | :soon:                   | 2021-11-14 00:30:00 | turffontein         |      7 |        6 | Splash Of Green    |   0    | prometheus           |
 |  65 | :soon:                   | 2021-11-14 00:30:00 | turffontein         |      7 |        2 | La Luvia           |   0    | prometheus           |
 |  66 | :soon:                   | 2021-11-14 00:30:00 | turffontein         |      7 |        3 | Querari Ferrari    |   0    | prometheus           |
-|  67 | :soon:                   | 2021-11-14 00:25:00 | wetherby            |      3 |        3 | Perfect Man        |  15    | roughnut             |
-|  68 | :soon:                   | 2021-11-14 00:25:00 | wetherby            |      3 |        8 | Desaray Girl       |  21    | roughnut             |
+|  67 | :soon:                   | 2021-11-14 00:25:00 | wetherby            |      3 |        8 | Desaray Girl       |  21    | roughnut             |
+|  68 | :soon:                   | 2021-11-14 00:25:00 | wetherby            |      3 |        3 | Perfect Man        |  15    | roughnut             |
 |  69 | :soon:                   | 2021-11-14 00:15:00 | kenilworth          |      4 |        3 | Over Two You       |   0    | prometheus           |
 |  70 | :soon:                   | 2021-11-14 00:15:00 | kenilworth          |      4 |        4 | Augusta Green      |   0    | prometheus           |
 |  71 | :soon:                   | 2021-11-13 23:57:00 | uttoxeter           |      2 |       10 | Diamond Joel       |  13    | roughnut             |
-|  72 | :soon:                   | 2021-11-13 23:55:00 | turffontein         |      6 |        3 | Majestic Mozart    |   0    | prometheus           |
-|  73 | :soon:                   | 2021-11-13 23:55:00 | turffontein         |      6 |        8 | Bold Decision      |   0    | prometheus           |
-|  74 | :soon:                   | 2021-11-13 23:55:00 | turffontein         |      6 |        6 | Lemon Delight      |   0    | prometheus           |
+|  72 | :soon:                   | 2021-11-13 23:55:00 | turffontein         |      6 |        6 | Lemon Delight      |   0    | prometheus           |
+|  73 | :soon:                   | 2021-11-13 23:55:00 | turffontein         |      6 |        3 | Majestic Mozart    |   0    | prometheus           |
+|  74 | :soon:                   | 2021-11-13 23:55:00 | turffontein         |      6 |        8 | Bold Decision      |   0    | prometheus           |
 |  75 | :soon:                   | 2021-11-13 23:45:00 | lingfield           |      3 |       12 | Kenstone           |  13    | cosmo,roughnut       |
-|  76 | :soon:                   | 2021-11-13 23:40:00 | kenilworth          |      3 |        3 | Cruizin California |   0    | prometheus           |
-|  77 | :soon:                   | 2021-11-13 23:40:00 | kenilworth          |      3 |        5 | Phedra             |   0    | prometheus           |
+|  76 | :soon:                   | 2021-11-13 23:40:00 | kenilworth          |      3 |        5 | Phedra             |   0    | prometheus           |
+|  77 | :soon:                   | 2021-11-13 23:40:00 | kenilworth          |      3 |        3 | Cruizin California |   0    | prometheus           |
 |  78 | :soon:                   | 2021-11-13 23:40:00 | kenilworth          |      3 |        6 | Ntinga             |   0    | prometheus           |
-|  79 | :soon:                   | 2021-11-13 23:38:00 | punchestown         |      2 |        3 | Buddy Rich         |   8.5  | vulture              |
-|  80 | :soon:                   | 2021-11-13 23:38:00 | punchestown         |      2 |        2 | Embittered         |   8    | vulture              |
-|  81 | :soon:                   | 2021-11-13 23:30:00 | cheltenham          |      1 |        3 | Magistrato         |   2.75 | overthrow            |
-|  82 | :soon:                   | 2021-11-13 23:30:00 | cheltenham          |      1 |        5 | Rocky Man          |  15    | overthrow            |
+|  79 | :soon:                   | 2021-11-13 23:38:00 | punchestown         |      2 |        2 | Embittered         |   8    | vulture              |
+|  80 | :soon:                   | 2021-11-13 23:38:00 | punchestown         |      2 |        3 | Buddy Rich         |   8.5  | vulture              |
+|  81 | :soon:                   | 2021-11-13 23:30:00 | cheltenham          |      1 |        5 | Rocky Man          |  15    | overthrow            |
+|  82 | :soon:                   | 2021-11-13 23:30:00 | cheltenham          |      1 |        3 | Magistrato         |   2.75 | overthrow            |
 |  83 | :soon:                   | 2021-11-13 23:22:00 | uttoxeter           |      1 |        9 | Moot Court         |  17    | overthrow            |
-|  84 | :soon:                   | 2021-11-13 23:20:00 | turffontein         |      5 |        5 | Sprinkles          |   0    | vulture,milkman      |
-|  85 | :soon:                   | 2021-11-13 23:20:00 | turffontein         |      5 |        7 | Clafoutis          |   0    | vulture              |
+|  84 | :soon:                   | 2021-11-13 23:20:00 | turffontein         |      5 |        7 | Clafoutis          |   0    | vulture              |
+|  85 | :soon:                   | 2021-11-13 23:20:00 | turffontein         |      5 |        5 | Sprinkles          |   0    | vulture,milkman      |
 |  86 | :soon:                   | 2021-11-13 23:10:00 | lingfield           |      2 |        2 | Independent Act    |   2.5  | overthrow,prometheus |
 |  87 | :soon:                   | 2021-11-13 23:10:00 | lingfield           |      2 |       10 | Zestful            |   7.5  | looseknot            |
 |  88 | :soon:                   | 2021-11-13 23:05:00 | kenilworth          |      2 |        9 | Surjay             |   0    | prometheus           |
 |  89 | :soon:                   | 2021-11-13 23:05:00 | kenilworth          |      2 |        6 | New York New York  |   0    | prometheus           |
 |  90 | :soon:                   | 2021-11-13 23:05:00 | kenilworth          |      2 |        1 | Legitimise         |   0    | prometheus           |
-|  91 | :soon:                   | 2021-11-13 23:05:00 | kenilworth          |      2 |        8 | Steinbeck          |   0    | prometheus           |
-|  92 | :soon:                   | 2021-11-13 23:05:00 | kenilworth          |      2 |       10 | The Futurist       |   0    | prometheus           |
-|  93 | :soon:                   | 2021-11-13 23:00:00 | punchestown         |      1 |        2 | Bob Olinger        |   1.2  | milkman              |
-|  94 | :soon:                   | 2021-11-13 23:00:00 | punchestown         |      1 |       14 | Zoffanien          |  15    | roughnut             |
-|  95 | :soon:                   | 2021-11-13 23:00:00 | punchestown         |      1 |        7 | Fighting Fit       | 151    | roughnut             |
-|  96 | :soon:                   | 2021-11-13 23:00:00 | punchestown         |      1 |        6 | Farceur Du Large   |  26    | roughnut             |
-|  97 | :soon:                   | 2021-11-13 23:00:00 | punchestown         |      1 |       10 | Rhinestone         |  21    | roughnut             |
-|  98 | :soon:                   | 2021-11-13 23:00:00 | punchestown         |      1 |        8 | Fou Diligence      | 201    | roughnut             |
-|  99 | :soon:                   | 2021-11-13 23:00:00 | punchestown         |      1 |       12 | Whatsafellatodo    | 201    | roughnut             |
-| 100 | :soon:                   | 2021-11-13 22:45:00 | turffontein         |      4 |       10 | Leeson             |   0    | prometheus           |
-| 101 | :soon:                   | 2021-11-13 22:45:00 | turffontein         |      4 |        8 | Imperious Light    |   0    | prometheus           |
-| 102 | :soon:                   | 2021-11-13 22:45:00 | turffontein         |      4 |        4 | Corapi             |   0    | vulture              |
-| 103 | :soon:                   | 2021-11-13 22:45:00 | turffontein         |      4 |        3 | Mike The Pilot     |   0    | prometheus           |
-| 104 | :soon:                   | 2021-11-13 22:45:00 | turffontein         |      4 |       12 | Stolen Thunder     |   0    | prometheus           |
+|  91 | :soon:                   | 2021-11-13 23:05:00 | kenilworth          |      2 |       10 | The Futurist       |   0    | prometheus           |
+|  92 | :soon:                   | 2021-11-13 23:05:00 | kenilworth          |      2 |        8 | Steinbeck          |   0    | prometheus           |
+|  93 | :hourglass_flowing_sand: | 2021-11-13 23:00:00 | punchestown         |      1 |        2 | Bob Olinger        |   1.2  | milkman              |
+|  94 | :hourglass_flowing_sand: | 2021-11-13 23:00:00 | punchestown         |      1 |       14 | Zoffanien          |  15    | roughnut             |
+|  95 | :hourglass_flowing_sand: | 2021-11-13 23:00:00 | punchestown         |      1 |        7 | Fighting Fit       | 151    | roughnut             |
+|  96 | :hourglass_flowing_sand: | 2021-11-13 23:00:00 | punchestown         |      1 |        6 | Farceur Du Large   |  26    | roughnut             |
+|  97 | :hourglass_flowing_sand: | 2021-11-13 23:00:00 | punchestown         |      1 |       10 | Rhinestone         |  21    | roughnut             |
+|  98 | :hourglass_flowing_sand: | 2021-11-13 23:00:00 | punchestown         |      1 |        8 | Fou Diligence      | 201    | roughnut             |
+|  99 | :hourglass_flowing_sand: | 2021-11-13 23:00:00 | punchestown         |      1 |       12 | Whatsafellatodo    | 201    | roughnut             |
+| 100 | :hourglass_flowing_sand: | 2021-11-13 22:45:00 | turffontein         |      4 |       10 | Leeson             |   0    | prometheus           |
+| 101 | :hourglass_flowing_sand: | 2021-11-13 22:45:00 | turffontein         |      4 |        8 | Imperious Light    |   0    | prometheus           |
+| 102 | :hourglass_flowing_sand: | 2021-11-13 22:45:00 | turffontein         |      4 |        4 | Corapi             |   0    | vulture              |
+| 103 | :hourglass_flowing_sand: | 2021-11-13 22:45:00 | turffontein         |      4 |        3 | Mike The Pilot     |   0    | prometheus           |
+| 104 | :hourglass_flowing_sand: | 2021-11-13 22:45:00 | turffontein         |      4 |       12 | Stolen Thunder     |   0    | prometheus           |
 | 105 | :hourglass_flowing_sand: | 2021-11-13 22:40:00 | lingfield           |      1 |        7 | Three Start        |   2.7  | vulture              |
 | 106 | :hourglass_flowing_sand: | 2021-11-13 22:40:00 | lingfield           |      1 |        4 | Golden Disc        |   8    | looseknot            |
 | 107 | :hourglass_flowing_sand: | 2021-11-13 22:40:00 | lingfield           |      1 |        5 | Percy Jones        |  17    | cosmo,roughnut       |
 | 108 | :hourglass_flowing_sand: | 2021-11-13 22:40:00 | lingfield           |      1 |        9 | Untold Mystery     |   3    | overthrow            |
-| 109 | :hourglass_flowing_sand: | 2021-11-13 22:30:00 | kenilworth          |      1 |        5 | Wildest Dreams     |   0    | prometheus           |
-| 110 | :hourglass_flowing_sand: | 2021-11-13 22:30:00 | kenilworth          |      1 |        1 | Tamil Tiger        |   0    | prometheus           |
-| 111 | :hourglass_flowing_sand: | 2021-11-13 22:30:00 | kenilworth          |      1 |        2 | Adira              |   0    | prometheus           |
+| 109 | :hourglass_flowing_sand: | 2021-11-13 22:30:00 | kenilworth          |      1 |        1 | Tamil Tiger        |   0    | prometheus           |
+| 110 | :hourglass_flowing_sand: | 2021-11-13 22:30:00 | kenilworth          |      1 |        2 | Adira              |   0    | prometheus           |
+| 111 | :hourglass_flowing_sand: | 2021-11-13 22:30:00 | kenilworth          |      1 |        5 | Wildest Dreams     |   0    | prometheus           |
 | 112 | :hourglass_flowing_sand: | 2021-11-13 22:10:00 | turffontein         |      3 |        7 | He'smakingeyesatme |   0    | prometheus           |
 | 113 | :hourglass_flowing_sand: | 2021-11-13 22:10:00 | turffontein         |      3 |        8 | Label Queen        |   0    | prometheus           |
-| 114 | --                       | 2021-11-13 21:35:00 | turffontein         |      2 |        8 | Chyavana           |   0    | prometheus           |
-| 115 | --                       | 2021-11-13 21:35:00 | turffontein         |      2 |        2 | Coming In Hot      |   0    | prometheus           |
-| 116 | --                       | 2021-11-13 21:35:00 | turffontein         |      2 |        3 | General Hancock    |   0    | prometheus           |
-| 117 | --                       | 2021-11-13 21:35:00 | turffontein         |      2 |       10 | Goethe             |   0    | prometheus           |
-| 118 | --                       | 2021-11-13 21:00:00 | turffontein         |      1 |       10 | River Queraress    |   0    | prometheus           |
+| 114 | --                       | 2021-11-13 21:35:00 | turffontein         |      2 |        3 | General Hancock    |   0    | prometheus           |
+| 115 | --                       | 2021-11-13 21:35:00 | turffontein         |      2 |       10 | Goethe             |   0    | prometheus           |
+| 116 | --                       | 2021-11-13 21:35:00 | turffontein         |      2 |        2 | Coming In Hot      |   0    | prometheus           |
+| 117 | --                       | 2021-11-13 21:35:00 | turffontein         |      2 |        8 | Chyavana           |   0    | prometheus           |
+| 118 | --                       | 2021-11-13 21:00:00 | turffontein         |      1 |        4 | Vasilikos          |   0    | prometheus           |
 | 119 | --                       | 2021-11-13 21:00:00 | turffontein         |      1 |        7 | Fennec Fox         |   0    | prometheus           |
-| 120 | --                       | 2021-11-13 21:00:00 | turffontein         |      1 |        4 | Vasilikos          |   0    | prometheus           |
+| 120 | --                       | 2021-11-13 21:00:00 | turffontein         |      1 |       10 | River Queraress    |   0    | prometheus           |
 | 121 | --                       | 2021-11-13 20:35:00 | ascot               |      9 |       10 | The Front Bar      |   3.4  | pangea,pikey         |
 | 122 | --                       | 2021-11-13 20:10:00 | sha-tin             |      9 |        1 | Packing Victory    |   2.5  | milkman              |
 | 123 | --                       | 2021-11-13 20:00:00 | ascot               |      8 |       11 | Plutocracy         |  81    | cosmo,roughnut       |
@@ -185,8 +185,8 @@ date: 2021-11-13 22:42:47 +1000
 | 133 | --                       | 2021-11-13 19:05:00 | sha-tin             |      7 |        4 | Excellent Proposal |   8.5  | milkman              |
 | 134 | :3rd_place_medal:        | 2021-11-13 18:50:00 | ascot               |      6 |       10 | Playing Marika     |  12    | roughnut             |
 | 135 | 11                       | 2021-11-13 18:50:00 | ascot               |      6 |       13 | Temptacion         |   6    | evenodds,blackshadow |
-| 136 | :boom:                   | 2021-11-13 18:50:00 | ascot               |      6 |        8 | Midnight Blue      |   3.9  | pangea,pikey         |
-| 137 | 12                       | 2021-11-13 18:50:00 | ascot               |      6 |        3 | Royal Command      |  14    | pangea               |
+| 136 | 12                       | 2021-11-13 18:50:00 | ascot               |      6 |        3 | Royal Command      |  14    | pangea               |
+| 137 | :boom:                   | 2021-11-13 18:50:00 | ascot               |      6 |        8 | Midnight Blue      |   3.9  | pangea,pikey         |
 | 138 | :soon:                   | 2021-11-13 18:47:00 | darwin              |      6 |        1 | Fromthenevernever  |   2    | milkman,icyhot       |
 | 139 | --                       | 2021-11-13 18:47:00 | darwin              |      6 |        6 | Vexatious Boy      |  61    | roughnut             |
 | 140 | :3rd_place_medal:        | 2021-11-13 18:12:00 | doomben             |      9 |       12 | Morethannumberone  |   2.15 | evenodds,blackshadow |
@@ -201,8 +201,8 @@ date: 2021-11-13 22:42:47 +1000
 | 149 | --                       | 2021-11-13 18:06:00 | darwin              |      5 |        6 | Extolment          |  14    | benny,roughnut       |
 | 150 | 5                        | 2021-11-13 17:50:00 | geraldton           |      4 |       11 | Frosty Belle       |   5    | roughnut             |
 | 151 | 7                        | 2021-11-13 17:50:00 | geraldton           |      4 |        3 | Shecky Red         |   7.5  | pangea               |
-| 152 | --                       | 2021-11-13 17:45:00 | kembla-grange       |      8 |        6 | Shaka Rock         |   0    | prometheus           |
-| 153 | --                       | 2021-11-13 17:45:00 | kembla-grange       |      8 |        1 | Nothinsweetaboutme |   2.7  | prometheus           |
+| 152 | --                       | 2021-11-13 17:45:00 | kembla-grange       |      8 |        1 | Nothinsweetaboutme |   2.7  | prometheus           |
+| 153 | --                       | 2021-11-13 17:45:00 | kembla-grange       |      8 |        6 | Shaka Rock         |   0    | prometheus           |
 | 154 | :2nd_place_medal:        | 2021-11-13 17:34:00 | darwin              |      4 |        5 | Bar Gem            |   1.85 | vulture              |
 | 155 | 5                        | 2021-11-13 17:34:00 | darwin              |      4 |        1 | Good Therapy       |  21    | cosmo,roughnut       |
 | 156 | 8                        | 2021-11-13 17:34:00 | darwin              |      4 |        7 | Gladiolo           |  15    | overthrow            |
@@ -254,16 +254,16 @@ date: 2021-11-13 22:42:47 +1000
 | 202 | 7                        | 2021-11-13 15:27:00 | ascot               |      1 |        2 | Fairy Fast         |   6    | evenodds,pikey       |
 | 203 | :soon:                   | 2021-11-13 15:27:00 | ascot               |      1 |        6 | Written Matter     |   5    | milkman,icyhot       |
 | 204 | :2nd_place_medal:        | 2021-11-13 15:27:00 | ascot               |      1 |        8 | Island Charm       |  21    | cosmo,roughnut       |
-| 205 | 9                        | 2021-11-13 15:27:00 | ascot               |      1 |        5 | Heritage Sash      | 126    | cosmo,roughnut       |
-| 206 | 8                        | 2021-11-13 15:27:00 | ascot               |      1 |        7 | Mini Winnie        |  23    | cosmo,roughnut       |
+| 205 | 8                        | 2021-11-13 15:27:00 | ascot               |      1 |        7 | Mini Winnie        |  23    | cosmo,roughnut       |
+| 206 | 9                        | 2021-11-13 15:27:00 | ascot               |      1 |        5 | Heritage Sash      | 126    | cosmo,roughnut       |
 | 207 | 5                        | 2021-11-13 15:27:00 | ascot               |      1 |        4 | Nowhiteflag        |   1.95 | pangea,icyhot        |
 | 208 | :3rd_place_medal:        | 2021-11-13 15:20:00 | newcastle           |      6 |        7 | Hush Writer        |   9.5  | cosmo,roughnut       |
 | 209 | 5                        | 2021-11-13 15:20:00 | newcastle           |      6 |        1 | Shared Ambition    |   2.8  | prometheus           |
 | 210 | :boom:                   | 2021-11-13 15:16:00 | dunkeld             |      5 |        2 | Pride Of Kinross   |   1.9  | prometheus           |
 | 211 | 4                        | 2021-11-13 15:12:00 | morphettville-parks |      5 |        8 | Ourkhani           |  10    | cosmo,roughnut       |
 | 212 | :2nd_place_medal:        | 2021-11-13 15:07:00 | gold-coast          |      4 |        1 | Vivyn              |   1.28 | overthrow,prometheus |
-| 213 | --                       | 2021-11-13 15:02:00 | emerald             |      3 |        1 | Such A Whit        |   0    | prometheus           |
-| 214 | --                       | 2021-11-13 15:02:00 | emerald             |      3 |        3 | Li'l Rodge         |   0    | prometheus           |
+| 213 | --                       | 2021-11-13 15:02:00 | emerald             |      3 |        3 | Li'l Rodge         |   0    | prometheus           |
+| 214 | --                       | 2021-11-13 15:02:00 | emerald             |      3 |        1 | Such A Whit        |   0    | prometheus           |
 | 215 | :3rd_place_medal:        | 2021-11-13 14:52:00 | doomben             |      4 |        9 | Divine Eleven      |  11    | vulture              |
 | 216 | 7                        | 2021-11-13 14:52:00 | doomben             |      4 |       14 | Blaze Seven        |  29    | cosmo,roughnut       |
 | 217 | 4                        | 2021-11-13 14:48:00 | tauranga            |      8 |        7 | Mollys Game        |  15    | roughnut             |
@@ -272,9 +272,9 @@ date: 2021-11-13 22:42:47 +1000
 | 220 | :3rd_place_medal:        | 2021-11-13 14:40:00 | newcastle           |      5 |        1 | Love Tap           |   3.1  | milkman              |
 | 221 | :boom:                   | 2021-11-13 14:40:00 | newcastle           |      5 |        3 | Mightybeel         |   2    | vulture,jmac         |
 | 222 | --                       | 2021-11-13 14:25:00 | kembla-grange       |      3 |        6 | Field Wiri         |   0    | prometheus           |
-| 223 | --                       | 2021-11-13 14:22:00 | emerald             |      2 |        1 | Dixie Preacher     |   0    | prometheus           |
-| 224 | --                       | 2021-11-13 14:22:00 | emerald             |      2 |        3 | Soul Dancer        |   0    | prometheus           |
-| 225 | --                       | 2021-11-13 14:22:00 | emerald             |      2 |        2 | Parangas           |   0    | prometheus           |
+| 223 | --                       | 2021-11-13 14:22:00 | emerald             |      2 |        2 | Parangas           |   0    | prometheus           |
+| 224 | --                       | 2021-11-13 14:22:00 | emerald             |      2 |        1 | Dixie Preacher     |   0    | prometheus           |
+| 225 | --                       | 2021-11-13 14:22:00 | emerald             |      2 |        3 | Soul Dancer        |   0    | prometheus           |
 | 226 | --                       | 2021-11-13 14:16:00 | gundagai            |      2 |        6 | I Call Junee Home  |   3.4  | vulture              |
 | 227 | :boom:                   | 2021-11-13 14:13:00 | doomben             |      3 |        1 | Kubrick            |   3.5  | vulture,pangea       |
 | 228 | --                       | 2021-11-13 14:09:00 | bathurst            |      1 |        3 | Who's Tinny        |   0    | prometheus           |
