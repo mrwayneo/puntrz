@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-11-13 14:36:26 +1000  
+date: 2021-11-13 22:42:36 +1000  
 categories: None 
 ---   
 
@@ -17,13 +17,13 @@ categories: None
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
 | 00:48             | 2021-11-14 | punchestown R4         | 8 Top Bandit          |  3    |    -10   |
 | 00:40             | 2021-11-14 | cheltenham R3          | 3 Mick Pastor         |  6    |    -10   |
-| 18:50             | 2021-11-13 | ascot R6               | 8 Midnight Blue       |  3.9  |    -10   |
-| 18:50             | 2021-11-13 | ascot R6               | 13 Temptacion         |  6    |    -10   |
-| 18:12             | 2021-11-13 | doomben R9             | 12 Morethannumberone  |  2.15 |    -10   |
-| 17:32             | 2021-11-13 | doomben R8             | 4 Tambo's Mate        |  3.5  |    -10   |
-| 16:47             | 2021-11-13 | ascot R3               | 8 Secret Plan         |  3    |    -10   |
-| 16:12             | 2021-11-13 | doomben R6             | 6 Lyrical Girl        |  2.3  |    -10   |
-| 15:27             | 2021-11-13 | ascot R1               | 4 Nowhiteflag         |  1.95 |    -10   |
+| :boom:            | 2021-11-13 | ascot R6               | 8 Midnight Blue       |  3.8  |     28   |
+| 11                | 2021-11-13 | ascot R6               | 13 Temptacion         |  6    |    -10   |
+| :3rd_place_medal: | 2021-11-13 | doomben R9             | 12 Morethannumberone  |  2.15 |    -10   |
+| :boom:            | 2021-11-13 | doomben R8             | 4 Tambo's Mate        |  3.3  |     23   |
+| :2nd_place_medal: | 2021-11-13 | ascot R3               | 8 Secret Plan         |  3    |    -10   |
+| :boom:            | 2021-11-13 | doomben R6             | 6 Lyrical Girl        |  3.5  |     25   |
+| 5                 | 2021-11-13 | ascot R1               | 4 Nowhiteflag         |  1.95 |    -10   |
 | 0                 | 2021-11-13 | cheltenham R2          | 1 Magic Saint         |  0    |    -10   |
 | :boom:            | 2021-11-10 | launceston R7          | 2 The Risk Factor     |  2.2  |     12   |
 | :boom:            | 2021-11-10 | launceston R5          | 3 Vivilici            |  5.1  |     41   |

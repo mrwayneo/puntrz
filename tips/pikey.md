@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-13 14:36:55 +1000  
+date: 2021-11-13 22:42:44 +1000  
 categories: None 
 ---   
 
@@ -15,13 +15,13 @@ categories: None
 
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
-| 20:35             | 2021-11-13 | ascot R9              | 10 The Front Bar      |  3.4  |    -10   |
-| 20:00             | 2021-11-13 | ascot R8              | 15 Graceful Girl      |  4.6  |    -10   |
-| 19:25             | 2021-11-13 | ascot R7              | 7 Mrs America         |  7    |    -10   |
-| 18:50             | 2021-11-13 | ascot R6              | 8 Midnight Blue       |  3.9  |    -10   |
-| 16:47             | 2021-11-13 | ascot R3              | 8 Secret Plan         |  3    |    -10   |
-| 16:07             | 2021-11-13 | ascot R2              | 5 Megadon             |  4.8  |    -10   |
-| 15:27             | 2021-11-13 | ascot R1              | 2 Fairy Fast          |  6    |    -10   |
+| 0                 | 2021-11-13 | ascot R9              | 10 The Front Bar      |  0    |    -10   |
+| 0                 | 2021-11-13 | ascot R8              | 15 Graceful Girl      |  0    |    -10   |
+| 0                 | 2021-11-13 | ascot R7              | 7 Mrs America         |  0    |    -10   |
+| :boom:            | 2021-11-13 | ascot R6              | 8 Midnight Blue       |  3.8  |     28   |
+| :2nd_place_medal: | 2021-11-13 | ascot R3              | 8 Secret Plan         |  3    |    -10   |
+| 7                 | 2021-11-13 | ascot R2              | 5 Megadon             |  4.8  |    -10   |
+| 7                 | 2021-11-13 | ascot R1              | 2 Fairy Fast          |  6    |    -10   |
 | 4                 | 2021-11-11 | belmont R8            | 12 Igarashi           |  9    |    -10   |
 | :2nd_place_medal: | 2021-11-11 | belmont R6            | 7 Mirror Moon         |  8    |    -10   |
 | 0                 | 2021-11-11 | belmont R4            | 12 Arcadia Gem        |  0    |    -10   |

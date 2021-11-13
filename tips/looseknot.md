@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-11-13 14:36:32 +1000  
+date: 2021-11-13 22:42:37 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 04:00             | 2021-11-14 | wolverhampton R2              | 11 Nashy              |   6    |    -10   |
 | 01:23             | 2021-11-14 | punchestown R5                | 10 Neveradullmoment   |   9    |    -10   |
 | 23:10             | 2021-11-13 | lingfield R2                  | 10 Zestful            |   7.5  |    -10   |
-| 22:40             | 2021-11-13 | lingfield R1                  | 4 Golden Disc         |   8    |    -10   |
+| 0                 | 2021-11-13 | lingfield R1                  | 4 Golden Disc         |   0    |    -10   |
 | :3rd_place_medal: | 2021-11-13 | riccarton-park R6             | 4 Tap Dancer          |   6    |    -10   |
 | 0                 | 2021-11-12 | sedgefield R5                 | 9 Tiger Jet           |   0    |    -10   |
 | 0                 | 2021-11-12 | sedgefield R4                 | 8 Lucky Icon          |   0    |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-11-13 14:36:27 +1000  
+date: 2021-11-13 22:42:36 +1000  
 categories: None 
 ---   
 
@@ -16,11 +16,11 @@ categories: None
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
 | 02:05             | 2021-11-14 | lingfield R7            | 5 Good Effort         |  3.75 |    -10   |
-| 17:27             | 2021-11-13 | ascot R4                | 4 Ginger Flyer        |  4.2  |    -10   |
-| 16:47             | 2021-11-13 | ascot R3                | 2 Son Of A God        | 26    |    -10   |
-| 16:12             | 2021-11-13 | doomben R6              | 6 Lyrical Girl        |  2.3  |    -10   |
-| 15:27             | 2021-11-13 | ascot R1                | 6 Written Matter      |  5    |    -10   |
-| 15:27             | 2021-11-13 | ascot R1                | 4 Nowhiteflag         |  1.95 |    -10   |
+| :2nd_place_medal: | 2021-11-13 | ascot R4                | 4 Ginger Flyer        |  4.2  |    -10   |
+| :3rd_place_medal: | 2021-11-13 | ascot R3                | 2 Son Of A God        | 26    |    -10   |
+| :boom:            | 2021-11-13 | doomben R6              | 6 Lyrical Girl        |  3.5  |     25   |
+| :boom:            | 2021-11-13 | ascot R1                | 6 Written Matter      |  5.1  |     41   |
+| 5                 | 2021-11-13 | ascot R1                | 4 Nowhiteflag         |  1.95 |    -10   |
 | :boom:            | 2021-11-13 | gold-coast R2           | 1 Sir Rocket          |  1.7  |      7   |
 | 0                 | 2021-11-11 | turffontein R3          | 5 Sound Of Summer     |  0    |    -10   |
 | 6                 | 2021-11-10 | murray-bdge R2          | 5 French Fields       |  2    |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-13 14:36:22 +1000  
+date: 2021-11-13 22:42:35 +1000  
 categories: None 
 ---   
 
@@ -17,34 +17,34 @@ categories: None
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
 | 00:48             | 2021-11-14 | punchestown R4         | 8 Top Bandit         |  3    |    -10   |
 | 00:40             | 2021-11-14 | cheltenham R3          | 3 Mick Pastor        |  6    |    -10   |
-| 20:35             | 2021-11-13 | ascot R9               | 10 The Front Bar     |  3.4  |    -10   |
-| 20:00             | 2021-11-13 | ascot R8               | 7 Stageman           |  7    |    -10   |
-| 18:50             | 2021-11-13 | ascot R6               | 13 Temptacion        |  6    |    -10   |
-| 18:50             | 2021-11-13 | ascot R6               | 8 Midnight Blue      |  3.9  |    -10   |
-| 18:50             | 2021-11-13 | ascot R6               | 3 Royal Command      | 14    |    -10   |
-| 18:12             | 2021-11-13 | doomben R9             | 5 Academy            |  7.5  |    -10   |
-| 18:12             | 2021-11-13 | doomben R9             | 12 Morethannumberone |  2.15 |    -10   |
-| 18:06             | 2021-11-13 | darwin R5              | 6 Extolment          | 14    |    -10   |
-| 17:50             | 2021-11-13 | geraldton R4           | 3 Shecky Red         |  7.5  |    -10   |
-| 17:32             | 2021-11-13 | doomben R8             | 4 Tambo's Mate       |  3.5  |    -10   |
-| 17:32             | 2021-11-13 | doomben R8             | 1 Niccanova          |  6    |    -10   |
-| 17:27             | 2021-11-13 | ascot R4               | 11 She's God To You  |  3.7  |    -10   |
-| 17:27             | 2021-11-13 | ascot R4               | 7 Beret              |  4.5  |    -10   |
-| 17:20             | 2021-11-13 | newcastle R9           | 7 Grande Rumore      |  4.8  |    -10   |
-| 17:09             | 2021-11-13 | gold-coast R7          | 5 Enrique            |  7    |    -10   |
-| 16:47             | 2021-11-13 | ascot R3               | 8 Secret Plan        |  3    |    -10   |
-| 16:12             | 2021-11-13 | doomben R6             | 6 Lyrical Girl       |  2.3  |    -10   |
-| 16:12             | 2021-11-13 | doomben R6             | 9 She Can Sing       |  2.9  |    -10   |
-| 15:52             | 2021-11-13 | morphettville-parks R6 | 1 Terbium            |  3.9  |    -10   |
-| 15:40             | 2021-11-13 | cranbourne R6          | 2 Dexelation         |  2.7  |    -10   |
-| 15:27             | 2021-11-13 | ascot R1               | 4 Nowhiteflag        |  1.95 |    -10   |
+| 0                 | 2021-11-13 | ascot R9               | 10 The Front Bar     |  0    |    -10   |
+| 0                 | 2021-11-13 | ascot R8               | 7 Stageman           |  0    |    -10   |
+| 11                | 2021-11-13 | ascot R6               | 13 Temptacion        |  6    |    -10   |
+| :boom:            | 2021-11-13 | ascot R6               | 8 Midnight Blue      |  3.8  |     28   |
+| 12                | 2021-11-13 | ascot R6               | 3 Royal Command      | 14    |    -10   |
+| :3rd_place_medal: | 2021-11-13 | doomben R9             | 12 Morethannumberone |  2.15 |    -10   |
+| 5                 | 2021-11-13 | doomben R9             | 5 Academy            |  7.5  |    -10   |
+| 0                 | 2021-11-13 | darwin R5              | 6 Extolment          |  0    |    -10   |
+| 7                 | 2021-11-13 | geraldton R4           | 3 Shecky Red         |  7.5  |    -10   |
+| :boom:            | 2021-11-13 | doomben R8             | 4 Tambo's Mate       |  3.3  |     23   |
+| 4                 | 2021-11-13 | doomben R8             | 1 Niccanova          |  6    |    -10   |
+| 0                 | 2021-11-13 | ascot R4               | 11 She's God To You  |  0    |    -10   |
+| :boom:            | 2021-11-13 | ascot R4               | 7 Beret              |  5.3  |     43   |
+| :2nd_place_medal: | 2021-11-13 | newcastle R9           | 7 Grande Rumore      |  4.8  |    -10   |
+| :2nd_place_medal: | 2021-11-13 | gold-coast R7          | 5 Enrique            |  7    |    -10   |
+| :2nd_place_medal: | 2021-11-13 | ascot R3               | 8 Secret Plan        |  3    |    -10   |
+| :boom:            | 2021-11-13 | doomben R6             | 6 Lyrical Girl       |  3.5  |     25   |
+| :3rd_place_medal: | 2021-11-13 | doomben R6             | 9 She Can Sing       |  2.9  |    -10   |
+| 8                 | 2021-11-13 | morphettville-parks R6 | 1 Terbium            |  3.9  |    -10   |
+| :boom:            | 2021-11-13 | cranbourne R6          | 2 Dexelation         |  3.5  |     25   |
+| 5                 | 2021-11-13 | ascot R1               | 4 Nowhiteflag        |  1.95 |    -10   |
 | :boom:            | 2021-11-13 | doomben R3             | 1 Kubrick            |  5.2  |     42   |
 | :boom:            | 2021-11-13 | gold-coast R2          | 1 Sir Rocket         |  1.7  |      7   |
 | 4                 | 2021-11-13 | doomben R2             | 1 Hostage Of War     | 12    |    -10   |
-| 4                 | 2021-11-13 | newcastle R2           | 10 Sacred Command    |  3.4  |    -10   |
 | :2nd_place_medal: | 2021-11-13 | newcastle R2           | 2 Ma And Pa          |  2.45 |    -10   |
-| 0                 | 2021-11-13 | cheltenham R2          | 8 Kap Auteuil        |  0    |    -10   |
+| 4                 | 2021-11-13 | newcastle R2           | 10 Sacred Command    |  3.4  |    -10   |
 | 0                 | 2021-11-13 | cheltenham R2          | 1 Magic Saint        |  0    |    -10   |
+| 0                 | 2021-11-13 | cheltenham R2          | 8 Kap Auteuil        |  0    |    -10   |
 | 0                 | 2021-11-12 | turffontein R8         | 5 Ancient Rome       |  0    |    -10   |
 | 0                 | 2021-11-11 | turffontein R3         | 5 Sound Of Summer    |  0    |    -10   |
 | 0                 | 2021-11-11 | turffontein R2         | 4 Atomic Blonde      |  0    |    -10   |
@@ -101,9 +101,9 @@ categories: None
 | :boom:            | 2021-11-06 | eagle-farm R4          | 6 Shamaton           |  1.4  |      4   |
 | :3rd_place_medal: | 2021-11-06 | eagle-farm R4          | 5 Frozen In Time     | 11    |    -10   |
 | :boom:            | 2021-11-06 | gold-coast R3          | 4 Sunrise Dancer     |  3.6  |     26   |
+| :2nd_place_medal: | 2021-11-06 | flemington R5          | 7 Our Intrigue       | 13    |    -10   |
 | 0                 | 2021-11-06 | flemington R5          | 2 Only Words         |  0    |    -10   |
 | 14                | 2021-11-06 | flemington R5          | 4 Princess Jenni     | 14    |    -10   |
-| :2nd_place_medal: | 2021-11-06 | flemington R5          | 7 Our Intrigue       | 13    |    -10   |
 | 4                 | 2021-11-06 | rosehill R4            | 4 Seleque            |  2.9  |    -10   |
 | :boom:            | 2021-11-06 | flemington R2          | 1 Warning            |  2.9  |     19   |
 | :3rd_place_medal: | 2021-11-06 | flemington R2          | 5 Wentwood           |  5.5  |    -10   |
@@ -143,9 +143,9 @@ categories: None
 | :boom:            | 2021-11-02 | eagle-farm R6          | 4 Ingear             |  1.8  |      8   |
 | :boom:            | 2021-11-02 | darwin R3              | 4 Overruled          |  2.7  |     17   |
 | :2nd_place_medal: | 2021-11-02 | canberra R6            | 3 Propose To Me      |  5    |    -10   |
-| :3rd_place_medal: | 2021-11-02 | darwin R2              | 3 Syncline           |  2.35 |    -10   |
 | 4                 | 2021-11-02 | darwin R2              | 5 Dizzy Miss Lizzy   |  4.8  |    -10   |
 | :boom:            | 2021-11-02 | darwin R2              | 4 The Captain        |  3.1  |     21   |
+| :3rd_place_medal: | 2021-11-02 | darwin R2              | 3 Syncline           |  2.35 |    -10   |
 | :3rd_place_medal: | 2021-11-02 | eagle-farm R4          | 3 Ralph's Honour     |  4.6  |    -10   |
 | :2nd_place_medal: | 2021-11-02 | eagle-farm R4          | 7 Fetch              |  2.2  |    -10   |
 | 5                 | 2021-11-02 | canberra R5            | 5 Port Douglas       |  4.2  |    -10   |
