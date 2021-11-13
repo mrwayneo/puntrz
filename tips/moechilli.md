@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-11-13 13:36:57 +1000  
+date: 2021-11-13 13:51:23 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
 | 18:47             | 2021-11-13 | darwin R6              | 1 Fromthenevernever  |   2    |    -10   |
-| 13:50             | 2021-11-13 | kembla-grange R2       | 11 Aldasha           | 126    |    -10   |
+| 0                 | 2021-11-13 | kembla-grange R2       | 11 Aldasha           |   0    |    -10   |
 | 0                 | 2021-11-08 | lismore R5             | 4 Tabulam            |   0    |    -10   |
 | :3rd_place_medal: | 2021-11-06 | wyong R7               | 3 Momack             |   8    |    -10   |
 | :2nd_place_medal: | 2021-11-05 | kempsey R7             | 4 Top Me Up Again    |   3.3  |    -10   |
