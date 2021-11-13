@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-13 12:51:37 +1000  
+date: 2021-11-13 13:06:59 +1000  
 ---   
 
 
@@ -298,10 +298,10 @@ date: 2021-11-13 12:51:37 +1000
 | 246 | :soon:            | 2021-11-13 13:17:00 | gold-coast          |      1 |        4 | Baristasista       |   2.5  | prometheus           |
 | 247 | :soon:            | 2021-11-13 13:15:00 | kembla-grange       |      1 |        1 | Laos Fortune       |   0    | prometheus           |
 | 248 | :soon:            | 2021-11-13 13:15:00 | kembla-grange       |      1 |        5 | Petulant           |   1.65 | prometheus           |
-| 249 | :soon:            | 2021-11-13 13:03:00 | doomben             |      1 |        3 | Battledance        |  13    | roughnut             |
-| 250 | :soon:            | 2021-11-13 12:55:00 | newcastle           |      2 |        2 | Ma And Pa          |   2.45 | vulture,pangea       |
-| 251 | :soon:            | 2021-11-13 12:55:00 | newcastle           |      2 |       10 | Sacred Command     |   3.4  | benny,pangea         |
-| 252 | :soon:            | 2021-11-13 12:55:00 | newcastle           |      2 |        6 | Charmmebaby        |  10    | roughnut             |
+| 249 | --                | 2021-11-13 13:03:00 | doomben             |      1 |        3 | Battledance        |  13    | roughnut             |
+| 250 | :2nd_place_medal: | 2021-11-13 12:55:00 | newcastle           |      2 |        2 | Ma And Pa          |   2.45 | vulture,pangea       |
+| 251 | --                | 2021-11-13 12:55:00 | newcastle           |      2 |       10 | Sacred Command     |   3.4  | benny,pangea         |
+| 252 | --                | 2021-11-13 12:55:00 | newcastle           |      2 |        6 | Charmmebaby        |  10    | roughnut             |
 | 253 | --                | 2021-11-13 12:47:00 | morphettville-parks |      1 |        7 | Kalamon            |  11    | vulture,roughnut     |
 | 254 | 4                 | 2021-11-13 12:20:00 | newcastle           |      1 |        3 | Lord Of The Hunter |   5.5  | vulture,jmac         |
 | 255 | :3rd_place_medal: | 2021-11-13 12:08:00 | riccarton-park      |      6 |        4 | Tap Dancer         |   6    | looseknot            |
