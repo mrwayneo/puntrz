@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-14 16:40:47 +1000  
+date: 2021-11-14 17:01:36 +1000  
 ---   
 
 
@@ -162,12 +162,12 @@ date: 2021-11-14 16:40:47 +1000
 | 110 | :soon:                   | 2021-11-14 17:30:00 | cairns      |      6 |        6 | Akileos             |   7.5  | vulture,pangea       |
 | 111 | :soon:                   | 2021-11-14 17:16:00 | canberra    |      7 |       11 | Rapidity            |  13    | cosmo,roughnut       |
 | 112 | :soon:                   | 2021-11-14 17:08:00 | albany      |      2 |        3 | Dargie              |   2.5  | prometheus           |
-| 113 | :soon:                   | 2021-11-14 17:00:00 | geelong     |      7 |        5 | Dance Date          |   2.9  | prometheus           |
-| 114 | :soon:                   | 2021-11-14 16:50:00 | cairns      |      5 |        2 | Dutton Branded      |   3.4  | looseknot            |
-| 115 | :hourglass_flowing_sand: | 2021-11-14 16:37:00 | hobart      |      7 |        2 | Banca Syd           |  15    | cosmo,roughnut       |
-| 116 | --                       | 2021-11-14 16:30:00 | singapore   |      4 |        8 | Asgard Massif       |   0    | prometheus           |
+| 113 | :hourglass_flowing_sand: | 2021-11-14 17:00:00 | geelong     |      7 |        5 | Dance Date          |   2.9  | prometheus           |
+| 114 | --                       | 2021-11-14 16:50:00 | cairns      |      5 |        2 | Dutton Branded      |   3.4  | looseknot            |
+| 115 | :3rd_place_medal:        | 2021-11-14 16:37:00 | hobart      |      7 |        2 | Banca Syd           |  15    | cosmo,roughnut       |
+| 116 | 4                        | 2021-11-14 16:30:00 | singapore   |      4 |        8 | Asgard Massif       |   0    | prometheus           |
 | 117 | --                       | 2021-11-14 16:30:00 | singapore   |      4 |       11 | Adipson             |   0    | prometheus           |
-| 118 | --                       | 2021-11-14 16:30:00 | singapore   |      4 |        2 | Wild Bee            |   0    | prometheus           |
+| 118 | :2nd_place_medal:        | 2021-11-14 16:30:00 | singapore   |      4 |        2 | Wild Bee            |   0    | prometheus           |
 | 119 | --                       | 2021-11-14 16:30:00 | singapore   |      4 |        6 | Gentlemen Agreement |   0    | prometheus           |
 | 120 | --                       | 2021-11-14 16:30:00 | singapore   |      4 |        7 | Yaya Papaya         |   0    | prometheus           |
 | 121 | --                       | 2021-11-14 16:15:00 | cairns      |      4 |        1 | Fab's Cowboy        |  11    | pangea               |
