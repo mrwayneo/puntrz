@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-14 22:08:24 +1000  
+date: 2021-11-14 22:21:00 +1000  
 ---   
 
 
@@ -142,19 +142,19 @@ date: 2021-11-14 22:08:24 +1000
 |  90 | :soon:            | 2021-11-14 23:00:00 | punchestown |      1 |       12 | King's Song         |  71    | roughnut             |
 |  91 | :soon:            | 2021-11-14 22:50:00 | cork        |      1 |        2 | Bugs Moran          |   3.8  | roughnut             |
 |  92 | :soon:            | 2021-11-14 22:45:00 | greyville   |      3 |        4 | Silvano'sbutterfly  |   0    | prometheus           |
-|  93 | :soon:            | 2021-11-14 22:10:00 | greyville   |      2 |       12 | Just The Wind       |   0    | prometheus           |
-|  94 | :soon:            | 2021-11-14 22:10:00 | greyville   |      2 |        2 | Princess Tea        |   0    | prometheus           |
+|  93 | --                | 2021-11-14 22:10:00 | greyville   |      2 |       12 | Just The Wind       |   0    | prometheus           |
+|  94 | --                | 2021-11-14 22:10:00 | greyville   |      2 |        2 | Princess Tea        |   0    | prometheus           |
 |  95 | :boom:            | 2021-11-14 19:20:00 | albany      |      6 |        8 | Copping Points      |  14    | roughnut             |
-|  96 | --                | 2021-11-14 19:00:00 | singapore   |      9 |       11 | Webster             |   0    | prometheus           |
-|  97 | --                | 2021-11-14 19:00:00 | singapore   |      9 |        1 | Grand Koonta        |   0    | prometheus           |
+|  96 | 5                 | 2021-11-14 19:00:00 | singapore   |      9 |       11 | Webster             |   0    | prometheus           |
+|  97 | 6                 | 2021-11-14 19:00:00 | singapore   |      9 |        1 | Grand Koonta        |   0    | prometheus           |
 |  98 | 8                 | 2021-11-14 18:40:00 | cairns      |      8 |        7 | Buwan               |  16    | overthrow,roughnut   |
 |  99 | 5                 | 2021-11-14 18:40:00 | cairns      |      8 |        9 | Conquering Judas    |  11    | roughnut             |
 | 100 | :boom:            | 2021-11-14 18:40:00 | cairns      |      8 |        4 | Avatea              |   2.05 | overthrow,prometheus |
-| 101 | --                | 2021-11-14 18:30:00 | singapore   |      8 |       12 | Born To Win         |   0    | prometheus           |
+| 101 | 5                 | 2021-11-14 18:30:00 | singapore   |      8 |       12 | Born To Win         |   0    | prometheus           |
 | 102 | 4                 | 2021-11-14 18:30:00 | singapore   |      8 |       11 | Fortune Star        |   0    | prometheus           |
 | 103 | :2nd_place_medal: | 2021-11-14 18:30:00 | singapore   |      8 |        8 | Mr Big Brother      |   0    | prometheus           |
-| 104 | --                | 2021-11-14 18:30:00 | singapore   |      8 |        4 | Champagne Finale    |   0    | prometheus           |
-| 105 | --                | 2021-11-14 18:30:00 | singapore   |      8 |        1 | Lim's Craft         |   0    | prometheus           |
+| 104 | 7                 | 2021-11-14 18:30:00 | singapore   |      8 |        4 | Champagne Finale    |   0    | prometheus           |
+| 105 | 6                 | 2021-11-14 18:30:00 | singapore   |      8 |        1 | Lim's Craft         |   0    | prometheus           |
 | 106 | :3rd_place_medal: | 2021-11-14 18:20:00 | albany      |      4 |        3 | The Great One       |   2.8  | prometheus           |
 | 107 | :2nd_place_medal: | 2021-11-14 18:20:00 | albany      |      4 |        9 | Schoolwork          |  41    | cosmo,roughnut       |
 | 108 | 6                 | 2021-11-14 18:10:00 | cairns      |      7 |        2 | Bougatsa            |  13    | cosmo,roughnut       |
@@ -166,10 +166,10 @@ date: 2021-11-14 22:08:24 +1000
 | 114 | 4                 | 2021-11-14 16:50:00 | cairns      |      5 |        2 | Dutton Branded      |   3.4  | looseknot            |
 | 115 | :3rd_place_medal: | 2021-11-14 16:37:00 | hobart      |      7 |        2 | Banca Syd           |  15    | cosmo,roughnut       |
 | 116 | 4                 | 2021-11-14 16:30:00 | singapore   |      4 |        8 | Asgard Massif       |   0    | prometheus           |
-| 117 | --                | 2021-11-14 16:30:00 | singapore   |      4 |       11 | Adipson             |   0    | prometheus           |
+| 117 | 8                 | 2021-11-14 16:30:00 | singapore   |      4 |       11 | Adipson             |   0    | prometheus           |
 | 118 | :2nd_place_medal: | 2021-11-14 16:30:00 | singapore   |      4 |        2 | Wild Bee            |   0    | prometheus           |
-| 119 | --                | 2021-11-14 16:30:00 | singapore   |      4 |        6 | Gentlemen Agreement |   0    | prometheus           |
-| 120 | --                | 2021-11-14 16:30:00 | singapore   |      4 |        7 | Yaya Papaya         |   0    | prometheus           |
+| 119 | 12                | 2021-11-14 16:30:00 | singapore   |      4 |        6 | Gentlemen Agreement |   0    | prometheus           |
+| 120 | 14                | 2021-11-14 16:30:00 | singapore   |      4 |        7 | Yaya Papaya         |   0    | prometheus           |
 | 121 | 6                 | 2021-11-14 16:15:00 | cairns      |      4 |        1 | Fab's Cowboy        |  11    | pangea               |
 | 122 | :2nd_place_medal: | 2021-11-14 16:15:00 | cairns      |      4 |        2 | Silent Explorer     |   2.6  | benny,prometheus     |
 | 123 | --                | 2021-11-14 16:05:00 | canberra    |      5 |        3 | Desert Flame        |   9.5  | roughnut             |
@@ -183,15 +183,15 @@ date: 2021-11-14 22:08:24 +1000
 | 131 | :2nd_place_medal: | 2021-11-14 16:00:00 | hobart      |      6 |        6 | Rising Light        |   5    | vulture              |
 | 132 | :3rd_place_medal: | 2021-11-14 15:40:00 | cairns      |      3 |        1 | Galaxy Ghost        |   3.7  | vulture              |
 | 133 | 4                 | 2021-11-14 15:35:00 | donald      |      5 |        7 | Donatrice           |   2.7  | prometheus           |
-| 134 | --                | 2021-11-14 15:30:00 | singapore   |      2 |        2 | Magnifique          |   0    | prometheus           |
-| 135 | --                | 2021-11-14 15:30:00 | singapore   |      2 |       13 | Beer Garden         |   0    | prometheus           |
-| 136 | --                | 2021-11-14 15:30:00 | singapore   |      2 |       14 | Classic Thirtysix   |   0    | prometheus           |
+| 134 | 8                 | 2021-11-14 15:30:00 | singapore   |      2 |        2 | Magnifique          |   0    | prometheus           |
+| 135 | 6                 | 2021-11-14 15:30:00 | singapore   |      2 |       13 | Beer Garden         |   0    | prometheus           |
+| 136 | 14                | 2021-11-14 15:30:00 | singapore   |      2 |       14 | Classic Thirtysix   |   0    | prometheus           |
 | 137 | :2nd_place_medal: | 2021-11-14 15:30:00 | singapore   |      2 |        5 | From The Navy       |   0    | prometheus           |
 | 138 | 4                 | 2021-11-14 15:30:00 | singapore   |      2 |        6 | Salamence           |   0    | prometheus           |
-| 139 | --                | 2021-11-14 15:30:00 | singapore   |      2 |       12 | Grandpa Mick Mac    |   0    | prometheus           |
-| 140 | --                | 2021-11-14 15:30:00 | singapore   |      2 |       11 | Street Party        |   0    | prometheus           |
-| 141 | --                | 2021-11-14 15:30:00 | singapore   |      2 |       10 | Mister Dynamo       |   0    | prometheus           |
-| 142 | --                | 2021-11-14 15:30:00 | singapore   |      2 |        7 | Clarton Treasure    |   0    | prometheus           |
+| 139 | 10                | 2021-11-14 15:30:00 | singapore   |      2 |       12 | Grandpa Mick Mac    |   0    | prometheus           |
+| 140 | 5                 | 2021-11-14 15:30:00 | singapore   |      2 |       11 | Street Party        |   0    | prometheus           |
+| 141 | 12                | 2021-11-14 15:30:00 | singapore   |      2 |       10 | Mister Dynamo       |   0    | prometheus           |
+| 142 | 7                 | 2021-11-14 15:30:00 | singapore   |      2 |        7 | Clarton Treasure    |   0    | prometheus           |
 | 143 | 8                 | 2021-11-14 15:25:00 | hobart      |      5 |        5 | Ruettiger           |  34    | cosmo,roughnut       |
 | 144 | 6                 | 2021-11-14 15:25:00 | hobart      |      5 |        3 | Deroche             |   4.2  | evenodds,blackshadow |
 | 145 | :2nd_place_medal: | 2021-11-14 15:15:00 | geelong     |      4 |        3 | Sunday Night Tea    |   2.25 | prometheus           |
