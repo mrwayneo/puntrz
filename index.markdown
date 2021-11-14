@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-14 15:25:27 +1000  
+date: 2021-11-14 15:36:03 +1000  
 ---   
 
 
@@ -182,24 +182,24 @@ date: 2021-11-14 15:25:27 +1000
 | 130 | :soon:                   | 2021-11-14 16:00:00 | hobart      |      6 |       11 | Born Magic          |  16    | cosmo,roughnut       |
 | 131 | :soon:                   | 2021-11-14 16:00:00 | hobart      |      6 |        6 | Rising Light        |   5    | vulture              |
 | 132 | :soon:                   | 2021-11-14 15:40:00 | cairns      |      3 |        1 | Galaxy Ghost        |   3.7  | vulture              |
-| 133 | :soon:                   | 2021-11-14 15:35:00 | donald      |      5 |        7 | Donatrice           |   2.7  | prometheus           |
-| 134 | :soon:                   | 2021-11-14 15:30:00 | singapore   |      2 |        2 | Magnifique          |   0    | prometheus           |
-| 135 | :soon:                   | 2021-11-14 15:30:00 | singapore   |      2 |       13 | Beer Garden         |   0    | prometheus           |
-| 136 | :soon:                   | 2021-11-14 15:30:00 | singapore   |      2 |       14 | Classic Thirtysix   |   0    | prometheus           |
-| 137 | :soon:                   | 2021-11-14 15:30:00 | singapore   |      2 |        5 | From The Navy       |   0    | prometheus           |
-| 138 | :soon:                   | 2021-11-14 15:30:00 | singapore   |      2 |        6 | Salamence           |   0    | prometheus           |
-| 139 | :soon:                   | 2021-11-14 15:30:00 | singapore   |      2 |       12 | Grandpa Mick Mac    |   0    | prometheus           |
-| 140 | :soon:                   | 2021-11-14 15:30:00 | singapore   |      2 |       11 | Street Party        |   0    | prometheus           |
-| 141 | :soon:                   | 2021-11-14 15:30:00 | singapore   |      2 |       10 | Mister Dynamo       |   0    | prometheus           |
-| 142 | :soon:                   | 2021-11-14 15:30:00 | singapore   |      2 |        7 | Clarton Treasure    |   0    | prometheus           |
-| 143 | :hourglass_flowing_sand: | 2021-11-14 15:25:00 | hobart      |      5 |        5 | Ruettiger           |  34    | cosmo,roughnut       |
-| 144 | :hourglass_flowing_sand: | 2021-11-14 15:25:00 | hobart      |      5 |        3 | Deroche             |   4.2  | evenodds,blackshadow |
-| 145 | --                       | 2021-11-14 15:15:00 | geelong     |      4 |        3 | Sunday Night Tea    |   2.25 | prometheus           |
-| 146 | --                       | 2021-11-14 15:15:00 | geelong     |      4 |        1 | Effort              |   2.4  | prometheus           |
-| 147 | --                       | 2021-11-14 15:05:00 | cairns      |      2 |        3 | Roth'n'bell         |   2.9  | prometheus           |
+| 133 | :hourglass_flowing_sand: | 2021-11-14 15:35:00 | donald      |      5 |        7 | Donatrice           |   2.7  | prometheus           |
+| 134 | --                       | 2021-11-14 15:30:00 | singapore   |      2 |        2 | Magnifique          |   0    | prometheus           |
+| 135 | --                       | 2021-11-14 15:30:00 | singapore   |      2 |       13 | Beer Garden         |   0    | prometheus           |
+| 136 | --                       | 2021-11-14 15:30:00 | singapore   |      2 |       14 | Classic Thirtysix   |   0    | prometheus           |
+| 137 | --                       | 2021-11-14 15:30:00 | singapore   |      2 |        5 | From The Navy       |   0    | prometheus           |
+| 138 | --                       | 2021-11-14 15:30:00 | singapore   |      2 |        6 | Salamence           |   0    | prometheus           |
+| 139 | --                       | 2021-11-14 15:30:00 | singapore   |      2 |       12 | Grandpa Mick Mac    |   0    | prometheus           |
+| 140 | --                       | 2021-11-14 15:30:00 | singapore   |      2 |       11 | Street Party        |   0    | prometheus           |
+| 141 | --                       | 2021-11-14 15:30:00 | singapore   |      2 |       10 | Mister Dynamo       |   0    | prometheus           |
+| 142 | --                       | 2021-11-14 15:30:00 | singapore   |      2 |        7 | Clarton Treasure    |   0    | prometheus           |
+| 143 | --                       | 2021-11-14 15:25:00 | hobart      |      5 |        5 | Ruettiger           |  34    | cosmo,roughnut       |
+| 144 | --                       | 2021-11-14 15:25:00 | hobart      |      5 |        3 | Deroche             |   4.2  | evenodds,blackshadow |
+| 145 | :2nd_place_medal:        | 2021-11-14 15:15:00 | geelong     |      4 |        3 | Sunday Night Tea    |   2.25 | prometheus           |
+| 146 | :boom:                   | 2021-11-14 15:15:00 | geelong     |      4 |        1 | Effort              |   2.4  | prometheus           |
+| 147 | :2nd_place_medal:        | 2021-11-14 15:05:00 | cairns      |      2 |        3 | Roth'n'bell         |   2.9  | prometheus           |
 | 148 | 4                        | 2021-11-14 14:50:00 | hobart      |      4 |        7 | Lady                |   3.1  | prometheus           |
-| 149 | --                       | 2021-11-14 14:50:00 | hobart      |      4 |        4 | Aussie Warrior      |  18    | roughnut             |
-| 150 | --                       | 2021-11-14 14:50:00 | hobart      |      4 |        1 | Bulbasaur           |  21    | roughnut             |
+| 149 | 6                        | 2021-11-14 14:50:00 | hobart      |      4 |        4 | Aussie Warrior      |  18    | roughnut             |
+| 150 | 5                        | 2021-11-14 14:50:00 | hobart      |      4 |        1 | Bulbasaur           |  21    | roughnut             |
 | 151 | :boom:                   | 2021-11-14 14:30:00 | cairns      |      1 |        4 | Brave Missile       |  13    | roughnut             |
 | 152 | 4                        | 2021-11-14 14:30:00 | cairns      |      1 |        5 | Lapseki             |   2.8  | prometheus           |
 | 153 | 8                        | 2021-11-14 14:20:00 | canberra    |      2 |        9 | Sham                |  17    | cosmo,roughnut       |
