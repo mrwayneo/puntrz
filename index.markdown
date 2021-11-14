@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-14 18:35:41 +1000  
+date: 2021-11-14 18:50:45 +1000  
 ---   
 
 
@@ -147,17 +147,17 @@ date: 2021-11-14 18:35:41 +1000
 |  95 | :soon:            | 2021-11-14 19:20:00 | albany      |      6 |        8 | Copping Points      |  14    | roughnut             |
 |  96 | :soon:            | 2021-11-14 19:00:00 | singapore   |      9 |       11 | Webster             |   0    | prometheus           |
 |  97 | :soon:            | 2021-11-14 19:00:00 | singapore   |      9 |        1 | Grand Koonta        |   0    | prometheus           |
-|  98 | :soon:            | 2021-11-14 18:40:00 | cairns      |      8 |        7 | Buwan               |  16    | overthrow,roughnut   |
-|  99 | :soon:            | 2021-11-14 18:40:00 | cairns      |      8 |        9 | Conquering Judas    |  11    | roughnut             |
-| 100 | :soon:            | 2021-11-14 18:40:00 | cairns      |      8 |        4 | Avatea              |   2.05 | overthrow,prometheus |
+|  98 | --                | 2021-11-14 18:40:00 | cairns      |      8 |        7 | Buwan               |  16    | overthrow,roughnut   |
+|  99 | --                | 2021-11-14 18:40:00 | cairns      |      8 |        9 | Conquering Judas    |  11    | roughnut             |
+| 100 | :boom:            | 2021-11-14 18:40:00 | cairns      |      8 |        4 | Avatea              |   2.05 | overthrow,prometheus |
 | 101 | --                | 2021-11-14 18:30:00 | singapore   |      8 |       12 | Born To Win         |   0    | prometheus           |
-| 102 | --                | 2021-11-14 18:30:00 | singapore   |      8 |       11 | Fortune Star        |   0    | prometheus           |
-| 103 | --                | 2021-11-14 18:30:00 | singapore   |      8 |        8 | Mr Big Brother      |   0    | prometheus           |
+| 102 | 4                 | 2021-11-14 18:30:00 | singapore   |      8 |       11 | Fortune Star        |   0    | prometheus           |
+| 103 | :2nd_place_medal: | 2021-11-14 18:30:00 | singapore   |      8 |        8 | Mr Big Brother      |   0    | prometheus           |
 | 104 | --                | 2021-11-14 18:30:00 | singapore   |      8 |        4 | Champagne Finale    |   0    | prometheus           |
 | 105 | --                | 2021-11-14 18:30:00 | singapore   |      8 |        1 | Lim's Craft         |   0    | prometheus           |
 | 106 | :3rd_place_medal: | 2021-11-14 18:20:00 | albany      |      4 |        3 | The Great One       |   2.8  | prometheus           |
 | 107 | :2nd_place_medal: | 2021-11-14 18:20:00 | albany      |      4 |        9 | Schoolwork          |  41    | cosmo,roughnut       |
-| 108 | --                | 2021-11-14 18:10:00 | cairns      |      7 |        2 | Bougatsa            |  13    | cosmo,roughnut       |
+| 108 | 6                 | 2021-11-14 18:10:00 | cairns      |      7 |        2 | Bougatsa            |  13    | cosmo,roughnut       |
 | 109 | 5                 | 2021-11-14 17:30:00 | cairns      |      6 |        4 | Deluxe Rocker       |   2.25 | pangea               |
 | 110 | 8                 | 2021-11-14 17:30:00 | cairns      |      6 |        6 | Akileos             |   7.5  | vulture,pangea       |
 | 111 | :boom:            | 2021-11-14 17:16:00 | canberra    |      7 |       11 | Rapidity            |  13    | cosmo,roughnut       |
