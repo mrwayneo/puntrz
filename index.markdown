@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-14 18:50:45 +1000  
+date: 2021-11-14 19:07:02 +1000  
 ---   
 
 
@@ -145,8 +145,8 @@ date: 2021-11-14 18:50:45 +1000
 |  93 | :soon:            | 2021-11-14 22:10:00 | greyville   |      2 |       12 | Just The Wind       |   0    | prometheus           |
 |  94 | :soon:            | 2021-11-14 22:10:00 | greyville   |      2 |        2 | Princess Tea        |   0    | prometheus           |
 |  95 | :soon:            | 2021-11-14 19:20:00 | albany      |      6 |        8 | Copping Points      |  14    | roughnut             |
-|  96 | :soon:            | 2021-11-14 19:00:00 | singapore   |      9 |       11 | Webster             |   0    | prometheus           |
-|  97 | :soon:            | 2021-11-14 19:00:00 | singapore   |      9 |        1 | Grand Koonta        |   0    | prometheus           |
+|  96 | --                | 2021-11-14 19:00:00 | singapore   |      9 |       11 | Webster             |   0    | prometheus           |
+|  97 | --                | 2021-11-14 19:00:00 | singapore   |      9 |        1 | Grand Koonta        |   0    | prometheus           |
 |  98 | --                | 2021-11-14 18:40:00 | cairns      |      8 |        7 | Buwan               |  16    | overthrow,roughnut   |
 |  99 | --                | 2021-11-14 18:40:00 | cairns      |      8 |        9 | Conquering Judas    |  11    | roughnut             |
 | 100 | :boom:            | 2021-11-14 18:40:00 | cairns      |      8 |        4 | Avatea              |   2.05 | overthrow,prometheus |
