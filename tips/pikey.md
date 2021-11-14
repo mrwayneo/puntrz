@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-14 12:44:42 +1000  
+date: 2021-11-14 13:17:09 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     17 |      3 |      -93 | 0.18 | -0.55 |
-| Last 28 Days   |     68 |     12 |     -377 | 0.18 | -0.55 |
-| Last 6 Months  |    502 |    128 |     -823 | 0.25 | -0.16 |
-| Since Jan 2020 |    582 |    145 |    -1025 | 0.25 | -0.18 |
+| Last 7 Days    |     17 |      4 |      -55 | 0.24 | -0.32 |
+| Last 28 Days   |     68 |     13 |     -339 | 0.19 | -0.5  |
+| Last 6 Months  |    502 |    129 |     -785 | 0.26 | -0.16 |
+| Since Jan 2020 |    582 |    146 |     -987 | 0.25 | -0.17 |
 
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
-| 0                 | 2021-11-13 | ascot R9              | 10 The Front Bar      |  0    |    -10   |
-| 0                 | 2021-11-13 | ascot R8              | 15 Graceful Girl      |  0    |    -10   |
-| 0                 | 2021-11-13 | ascot R7              | 7 Mrs America         |  0    |    -10   |
+| :boom:            | 2021-11-13 | ascot R9              | 10 The Front Bar      |  3.8  |     28   |
+| :2nd_place_medal: | 2021-11-13 | ascot R8              | 15 Graceful Girl      |  4.6  |    -10   |
+| 7                 | 2021-11-13 | ascot R7              | 7 Mrs America         |  7    |    -10   |
 | :boom:            | 2021-11-13 | ascot R6              | 8 Midnight Blue       |  3.8  |     28   |
 | :2nd_place_medal: | 2021-11-13 | ascot R3              | 8 Secret Plan         |  3    |    -10   |
 | 7                 | 2021-11-13 | ascot R2              | 5 Megadon             |  4.8  |    -10   |

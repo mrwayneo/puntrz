@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-11-14 12:44:38 +1000  
+date: 2021-11-14 13:16:39 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     10 |      4 |     19   | 0.4  |  0.19 |
-| Last 28 Days   |     39 |     13 |    -22   | 0.33 | -0.06 |
-| Last 6 Months  |    213 |     64 |   -176.9 | 0.3  | -0.08 |
-| Since Jan 2020 |    347 |    117 |    -79.4 | 0.34 | -0.02 |
+| Last 7 Days    |     10 |      5 |     43   | 0.5  |  0.43 |
+| Last 28 Days   |     39 |     14 |      2   | 0.36 |  0.01 |
+| Last 6 Months  |    213 |     65 |   -152.9 | 0.31 | -0.07 |
+| Since Jan 2020 |    347 |    118 |    -55.4 | 0.34 | -0.02 |
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
-| 0                 | 2021-11-14 | lingfield R7            | 5 Good Effort         |  0    |    -10   |
+| :boom:            | 2021-11-14 | lingfield R7            | 5 Good Effort         |  2.4  |     14   |
 | :2nd_place_medal: | 2021-11-13 | ascot R4                | 4 Ginger Flyer        |  4.2  |    -10   |
 | :3rd_place_medal: | 2021-11-13 | ascot R3                | 2 Son Of A God        | 26    |    -10   |
 | :boom:            | 2021-11-13 | doomben R6              | 6 Lyrical Girl        |  3.5  |     25   |
