@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-14 17:04:11 +1000  
+date: 2021-11-14 17:22:00 +1000  
 categories: None 
 ---   
 
@@ -43,8 +43,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-13 | doomben R6         | 9 She Can Sing        |  2.9  |    -10   |
 | :2nd_place_medal: | 2021-11-13 | doomben R6         | 8 Palaisipan          |  4.6  |    -10   |
 | 0                 | 2021-11-13 | kembla-grange R5   | 1 Spaltet             |  0    |    -10   |
-| :3rd_place_medal: | 2021-11-13 | doomben R5         | 10 Putontheredlight   |  2.15 |    -10   |
 | 4                 | 2021-11-13 | doomben R5         | 4 Zavaboom            | 17    |    -10   |
+| :3rd_place_medal: | 2021-11-13 | doomben R5         | 10 Putontheredlight   |  2.15 |    -10   |
 | 7                 | 2021-11-13 | ascot R1           | 2 Fairy Fast          |  6    |    -10   |
 | :boom:            | 2021-11-13 | ascot R1           | 6 Written Matter      |  5.1  |     41   |
 | :2nd_place_medal: | 2021-11-13 | gold-coast R4      | 1 Vivyn               |  1.28 |    -10   |
