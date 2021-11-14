@@ -4,10 +4,9 @@ _site
 .jekyll-metadata
 vendor
 .app
+.dump
 git
 run_jobs_bash
 cp_bash
-<<<<<<< HEAD
 .bash_history
-=======
->>>>>>> 0861c553159711d0f88172c834800942f4fe39c2
+
