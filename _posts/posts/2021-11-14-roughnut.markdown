@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-14 15:06:41 +1000  
+date: 2021-11-14 15:25:06 +1000  
 categories: None 
 ---   
 
@@ -75,7 +75,7 @@ categories: None
 | 16:00             | 2021-11-14 | hobart R6                     | 10 Videmanette        |  10    |    -10   |
 | 16:00             | 2021-11-14 | hobart R6                     | 11 Born Magic         |  16    |    -10   |
 | 16:00             | 2021-11-14 | hobart R6                     | 7 Ivoryman            |  10    |    -10   |
-| 15:25             | 2021-11-14 | hobart R5                     | 5 Ruettiger           |  34    |    -10   |
+| 0                 | 2021-11-14 | hobart R5                     | 5 Ruettiger           |   0    |    -10   |
 | 0                 | 2021-11-14 | hobart R4                     | 4 Aussie Warrior      |   0    |    -10   |
 | 0                 | 2021-11-14 | hobart R4                     | 1 Bulbasaur           |   0    |    -10   |
 | :boom:            | 2021-11-14 | cairns R1                     | 4 Brave Missile       |  12.6  |    116   |

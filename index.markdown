@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-14 15:07:09 +1000  
+date: 2021-11-14 15:25:27 +1000  
 ---   
 
 
@@ -192,11 +192,11 @@ date: 2021-11-14 15:07:09 +1000
 | 140 | :soon:                   | 2021-11-14 15:30:00 | singapore   |      2 |       11 | Street Party        |   0    | prometheus           |
 | 141 | :soon:                   | 2021-11-14 15:30:00 | singapore   |      2 |       10 | Mister Dynamo       |   0    | prometheus           |
 | 142 | :soon:                   | 2021-11-14 15:30:00 | singapore   |      2 |        7 | Clarton Treasure    |   0    | prometheus           |
-| 143 | :soon:                   | 2021-11-14 15:25:00 | hobart      |      5 |        5 | Ruettiger           |  34    | cosmo,roughnut       |
-| 144 | :soon:                   | 2021-11-14 15:25:00 | hobart      |      5 |        3 | Deroche             |   4.2  | evenodds,blackshadow |
-| 145 | :soon:                   | 2021-11-14 15:15:00 | geelong     |      4 |        3 | Sunday Night Tea    |   2.25 | prometheus           |
-| 146 | :soon:                   | 2021-11-14 15:15:00 | geelong     |      4 |        1 | Effort              |   2.4  | prometheus           |
-| 147 | :hourglass_flowing_sand: | 2021-11-14 15:05:00 | cairns      |      2 |        3 | Roth'n'bell         |   2.9  | prometheus           |
+| 143 | :hourglass_flowing_sand: | 2021-11-14 15:25:00 | hobart      |      5 |        5 | Ruettiger           |  34    | cosmo,roughnut       |
+| 144 | :hourglass_flowing_sand: | 2021-11-14 15:25:00 | hobart      |      5 |        3 | Deroche             |   4.2  | evenodds,blackshadow |
+| 145 | --                       | 2021-11-14 15:15:00 | geelong     |      4 |        3 | Sunday Night Tea    |   2.25 | prometheus           |
+| 146 | --                       | 2021-11-14 15:15:00 | geelong     |      4 |        1 | Effort              |   2.4  | prometheus           |
+| 147 | --                       | 2021-11-14 15:05:00 | cairns      |      2 |        3 | Roth'n'bell         |   2.9  | prometheus           |
 | 148 | 4                        | 2021-11-14 14:50:00 | hobart      |      4 |        7 | Lady                |   3.1  | prometheus           |
 | 149 | --                       | 2021-11-14 14:50:00 | hobart      |      4 |        4 | Aussie Warrior      |  18    | roughnut             |
 | 150 | --                       | 2021-11-14 14:50:00 | hobart      |      4 |        1 | Bulbasaur           |  21    | roughnut             |

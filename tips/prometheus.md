@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-11-14 15:06:32 +1000  
+date: 2021-11-14 15:24:57 +1000  
 categories: None 
 ---   
 
@@ -67,8 +67,8 @@ categories: None
 | 15:30             | 2021-11-14 | singapore R2                  | 5 From The Navy       |   0    |    -10   |
 | 15:30             | 2021-11-14 | singapore R2                  | 2 Magnifique          |   0    |    -10   |
 | 15:30             | 2021-11-14 | singapore R2                  | 13 Beer Garden        |   0    |    -10   |
-| 15:15             | 2021-11-14 | geelong R4                    | 3 Sunday Night Tea    |   2.25 |    -10   |
-| 15:15             | 2021-11-14 | geelong R4                    | 1 Effort              |   2.4  |    -10   |
+| 0                 | 2021-11-14 | geelong R4                    | 3 Sunday Night Tea    |   0    |    -10   |
+| 0                 | 2021-11-14 | geelong R4                    | 1 Effort              |   0    |    -10   |
 | 0                 | 2021-11-14 | cairns R2                     | 3 Roth'n'bell         |   0    |    -10   |
 | 4                 | 2021-11-14 | hobart R4                     | 7 Lady                |   3.1  |    -10   |
 | 4                 | 2021-11-14 | cairns R1                     | 5 Lapseki             |   2.8  |    -10   |
