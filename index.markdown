@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-14 17:39:14 +1000  
+date: 2021-11-14 17:53:36 +1000  
 ---   
 
 
@@ -161,7 +161,7 @@ date: 2021-11-14 17:39:14 +1000
 | 109 | --                | 2021-11-14 17:30:00 | cairns      |      6 |        4 | Deluxe Rocker       |   2.25 | pangea               |
 | 110 | --                | 2021-11-14 17:30:00 | cairns      |      6 |        6 | Akileos             |   7.5  | vulture,pangea       |
 | 111 | :boom:            | 2021-11-14 17:16:00 | canberra    |      7 |       11 | Rapidity            |  13    | cosmo,roughnut       |
-| 112 | --                | 2021-11-14 17:08:00 | albany      |      2 |        3 | Dargie              |   2.5  | prometheus           |
+| 112 | 10                | 2021-11-14 17:08:00 | albany      |      2 |        3 | Dargie              |   2.5  | prometheus           |
 | 113 | :boom:            | 2021-11-14 17:00:00 | geelong     |      7 |        5 | Dance Date          |   2.9  | prometheus           |
 | 114 | 4                 | 2021-11-14 16:50:00 | cairns      |      5 |        2 | Dutton Branded      |   3.4  | looseknot            |
 | 115 | :3rd_place_medal: | 2021-11-14 16:37:00 | hobart      |      7 |        2 | Banca Syd           |  15    | cosmo,roughnut       |
