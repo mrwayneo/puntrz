@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-14 14:49:43 +1000  
+date: 2021-11-14 15:06:25 +1000  
 categories: None 
 ---   
 
@@ -23,7 +23,7 @@ categories: None
 | 01:20             | 2021-11-15 | cheltenham R3      | 4 Put The Kettle On   |  2.7  |    -10   |
 | 01:05             | 2021-11-15 | punchestown R5     | 4 Zanahiyr            |  4.8  |    -10   |
 | 23:25             | 2021-11-14 | fontwell R1        | 13 Wiseguy            |  1.55 |    -10   |
-| 0                 | 2021-11-14 | hobart R3          | 9 Lady Marina         |  0    |    -10   |
+| 8                 | 2021-11-14 | hobart R3          | 9 Lady Marina         |  7.5  |    -10   |
 | :3rd_place_medal: | 2021-11-14 | wolverhampton R3   | 1 Dakota Power        |  5.5  |    -10   |
 | 0                 | 2021-11-14 | cheltenham R7      | 9 Lady Excalibur      |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R7      | 7 Finest View         |  0    |    -10   |
@@ -43,8 +43,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-13 | doomben R6         | 9 She Can Sing        |  2.9  |    -10   |
 | :2nd_place_medal: | 2021-11-13 | doomben R6         | 8 Palaisipan          |  4.6  |    -10   |
 | 0                 | 2021-11-13 | kembla-grange R5   | 1 Spaltet             |  0    |    -10   |
-| :3rd_place_medal: | 2021-11-13 | doomben R5         | 10 Putontheredlight   |  2.15 |    -10   |
 | 4                 | 2021-11-13 | doomben R5         | 4 Zavaboom            | 17    |    -10   |
+| :3rd_place_medal: | 2021-11-13 | doomben R5         | 10 Putontheredlight   |  2.15 |    -10   |
 | 7                 | 2021-11-13 | ascot R1           | 2 Fairy Fast          |  6    |    -10   |
 | :boom:            | 2021-11-13 | ascot R1           | 6 Written Matter      |  5.1  |     41   |
 | :2nd_place_medal: | 2021-11-13 | gold-coast R4      | 1 Vivyn               |  1.28 |    -10   |

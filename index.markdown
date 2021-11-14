@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-14 14:50:23 +1000  
+date: 2021-11-14 15:07:09 +1000  
 ---   
 
 
@@ -196,20 +196,20 @@ date: 2021-11-14 14:50:23 +1000
 | 144 | :soon:                   | 2021-11-14 15:25:00 | hobart      |      5 |        3 | Deroche             |   4.2  | evenodds,blackshadow |
 | 145 | :soon:                   | 2021-11-14 15:15:00 | geelong     |      4 |        3 | Sunday Night Tea    |   2.25 | prometheus           |
 | 146 | :soon:                   | 2021-11-14 15:15:00 | geelong     |      4 |        1 | Effort              |   2.4  | prometheus           |
-| 147 | :soon:                   | 2021-11-14 15:05:00 | cairns      |      2 |        3 | Roth'n'bell         |   2.9  | prometheus           |
-| 148 | :hourglass_flowing_sand: | 2021-11-14 14:50:00 | hobart      |      4 |        7 | Lady                |   3.1  | prometheus           |
-| 149 | :hourglass_flowing_sand: | 2021-11-14 14:50:00 | hobart      |      4 |        4 | Aussie Warrior      |  18    | roughnut             |
-| 150 | :hourglass_flowing_sand: | 2021-11-14 14:50:00 | hobart      |      4 |        1 | Bulbasaur           |  21    | roughnut             |
+| 147 | :hourglass_flowing_sand: | 2021-11-14 15:05:00 | cairns      |      2 |        3 | Roth'n'bell         |   2.9  | prometheus           |
+| 148 | 4                        | 2021-11-14 14:50:00 | hobart      |      4 |        7 | Lady                |   3.1  | prometheus           |
+| 149 | --                       | 2021-11-14 14:50:00 | hobart      |      4 |        4 | Aussie Warrior      |  18    | roughnut             |
+| 150 | --                       | 2021-11-14 14:50:00 | hobart      |      4 |        1 | Bulbasaur           |  21    | roughnut             |
 | 151 | :boom:                   | 2021-11-14 14:30:00 | cairns      |      1 |        4 | Brave Missile       |  13    | roughnut             |
 | 152 | 4                        | 2021-11-14 14:30:00 | cairns      |      1 |        5 | Lapseki             |   2.8  | prometheus           |
-| 153 | --                       | 2021-11-14 14:20:00 | canberra    |      2 |        9 | Sham                |  17    | cosmo,roughnut       |
+| 153 | 8                        | 2021-11-14 14:20:00 | canberra    |      2 |        9 | Sham                |  17    | cosmo,roughnut       |
 | 154 | --                       | 2021-11-14 14:20:00 | canberra    |      2 |        7 | Mark's Kingdom      |  34    | cosmo,roughnut       |
-| 155 | --                       | 2021-11-14 14:20:00 | canberra    |      2 |       11 | Chaotic Beauty      |  51    | roughnut             |
-| 156 | --                       | 2021-11-14 14:20:00 | canberra    |      2 |        8 | Only The Lonely     |  41    | roughnut             |
+| 155 | 6                        | 2021-11-14 14:20:00 | canberra    |      2 |       11 | Chaotic Beauty      |  51    | roughnut             |
+| 156 | 5                        | 2021-11-14 14:20:00 | canberra    |      2 |        8 | Only The Lonely     |  41    | roughnut             |
 | 157 | :2nd_place_medal:        | 2021-11-14 14:20:00 | canberra    |      2 |        2 | Affiliate           |  17    | vulture              |
-| 158 | --                       | 2021-11-14 14:15:00 | hobart      |      3 |        5 | Stelladoni          |  16    | roughnut             |
-| 159 | --                       | 2021-11-14 14:15:00 | hobart      |      3 |        9 | Lady Marina         |   7.5  | milkman              |
-| 160 | --                       | 2021-11-14 14:15:00 | hobart      |      3 |        8 | Just Mooncoin       |  41    | roughnut             |
+| 158 | 7                        | 2021-11-14 14:15:00 | hobart      |      3 |        5 | Stelladoni          |  16    | roughnut             |
+| 159 | 8                        | 2021-11-14 14:15:00 | hobart      |      3 |        9 | Lady Marina         |   7.5  | milkman              |
+| 160 | 9                        | 2021-11-14 14:15:00 | hobart      |      3 |        8 | Just Mooncoin       |  41    | roughnut             |
 | 161 | :3rd_place_medal:        | 2021-11-14 13:50:00 | donald      |      2 |        5 | Telegraph           |   2.6  | vulture              |
 | 162 | :3rd_place_medal:        | 2021-11-14 13:45:00 | canberra    |      1 |        1 | No Nay Sell         |   5    | roughnut             |
 | 163 | --                       | 2021-11-14 11:35:00 | waverley    |      5 |        8 | Upland Court        |  13    | roughnut             |

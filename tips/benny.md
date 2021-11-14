@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-11-14 14:49:24 +1000  
+date: 2021-11-14 15:06:12 +1000  
 categories: None 
 ---   
 
@@ -329,8 +329,8 @@ categories: None
 | 11                | 2021-06-05 | eagle-farm R7           | 6 Fabric              | 14    |    -10   |
 | :3rd_place_medal: | 2021-06-05 | eagle-farm R6           | 7 Luvoir              |  6    |    -10   |
 | :2nd_place_medal: | 2021-06-05 | wanganui R7             | 9 Crowning Star       |  7    |    -10   |
-| 6                 | 2021-06-05 | eagle-farm R4           | 3 Spurcraft           | 11    |    -10   |
 | :boom:            | 2021-06-05 | eagle-farm R4           | 1 Usmanov             |  3.3  |     23   |
+| 6                 | 2021-06-05 | eagle-farm R4           | 3 Spurcraft           | 11    |    -10   |
 | :3rd_place_medal: | 2021-06-03 | wyong R7                | 7 Lake Tai            |  5.5  |    -10   |
 | :boom:            | 2021-06-02 | doomben R6              | 2 Starosa             |  3.7  |     27   |
 | 6                 | 2021-06-02 | warwick-farm R5         | 2 Egyptian Missile    | 13.2  |    -10   |
@@ -347,8 +347,8 @@ categories: None
 | 11                | 2021-05-29 | eagle-farm R3           | 10 Not an Option      | 26    |    -10   |
 | 8                 | 2021-05-29 | eagle-farm R2           | 14 Beachbreak         | 11    |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R7       | 5 Queen Dazzler       |  3.4  |    -10   |
-| :boom:            | 2021-05-27 | northam R9              | 9 Conquered Zone      |  5.8  |     48   |
 | :2nd_place_medal: | 2021-05-27 | northam R9              | 7 Brave Dream         |  5.1  |    -10   |
+| :boom:            | 2021-05-27 | northam R9              | 9 Conquered Zone      |  5.8  |     48   |
 | 6                 | 2021-05-26 | belmont R7              | 5 Truly Reliable      | 26    |    -10   |
 | 0                 | 2021-05-25 | fairview R2             | 1 Tarsus              |  3.8  |    -10   |
 | :boom:            | 2021-05-23 | devonport-synthetic R6  | 8 Aragon Star         |  4.5  |     35   |
@@ -382,8 +382,8 @@ categories: None
 | 10                | 2021-05-08 | newcastle R7            | 5 Favra               |  8    |    -10   |
 | :2nd_place_medal: | 2021-05-08 | ascot R2                | 2 Born To Try         |  2.25 |    -10   |
 | 4                 | 2021-05-08 | gosford R6              | 1 Signore Fox         |  6    |    -10   |
-| 6                 | 2021-05-08 | morphettville R4        | 8 Secret Vega         | 23    |    -10   |
 | 8                 | 2021-05-08 | morphettville R4        | 9 Calypso Reign       |  7    |    -10   |
+| 6                 | 2021-05-08 | morphettville R4        | 8 Secret Vega         | 23    |    -10   |
 | 4                 | 2021-05-08 | gosford R4              | 6 Blesk               |  5    |    -10   |
 | 8                 | 2021-05-08 | gold-coast R4           | 5 Capital Connection  | 21    |    -10   |
 | :boom:            | 2021-05-07 | albany R2               | 7 Kazkazi             |  3.5  |     25   |
@@ -462,8 +462,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-31 | doomben R6              | 3 Say Haya            |  6.1  |    -10   |
 | :boom:            | 2021-03-30 | mackay R4               | 5 Nailed It Nan       |  2.3  |     13   |
 | :boom:            | 2021-03-28 | hobart R3               | 1 Boris The Blade     |  1.8  |      8   |
-| :boom:            | 2021-03-28 | kempton R3              | 1 Al Zaraqaan         |  2.05 |     10.5 |
 | :2nd_place_medal: | 2021-03-28 | kempton R3              | 5 Almighwar           |  4.6  |    -10   |
+| :boom:            | 2021-03-28 | kempton R3              | 1 Al Zaraqaan         |  2.05 |     10.5 |
 | 6                 | 2021-03-27 | morphettville R4        | 10 Our Sustar         | 34    |    -10   |
 | 0                 | 2021-03-27 | rosehill R4             | 2 Sir Dragonet        |  0    |    -10   |
 | :boom:            | 2021-03-27 | bendigo R4              | 4 Fanciful Toff       |  2.4  |     14   |
@@ -541,8 +541,8 @@ categories: None
 | :3rd_place_medal: | 2021-02-05 | townsville R1           | 1 Attackabeel         |  1.4  |    -10   |
 | :3rd_place_medal: | 2021-01-30 | ascot R4                | 5 Phoneme             |  5    |    -10   |
 | 5                 | 2021-01-30 | caulfield R8            | 4 Maximak             | 11    |    -10   |
-| :boom:            | 2021-01-30 | morphettville R6        | 1 Behemoth            |  1.5  |      5   |
 | 6                 | 2021-01-30 | morphettville R6        | 7 Symphonette         | 18    |    -10   |
+| :boom:            | 2021-01-30 | morphettville R6        | 1 Behemoth            |  1.5  |      5   |
 | :2nd_place_medal: | 2021-01-30 | sunshine-coast R4       | 5 What the Fuss       |  4.45 |    -10   |
 | :boom:            | 2021-01-30 | morphettville R4        | 2 Soul Obsession      |  2.6  |     16   |
 | 8                 | 2021-01-28 | scone R6                | 1 Expiredtime         | 17    |    -10   |
