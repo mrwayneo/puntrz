@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-15 22:18:29 +1000  
+date: 2021-11-15 22:33:42 +1000  
 ---   
 
 
@@ -86,11 +86,11 @@ date: 2021-11-15 22:18:29 +1000
 | 34 | :soon:   | 2021-11-15 23:00:00 | turffontein |      4 |        6 | Evening Rise      |   0    | prometheus          |
 | 35 | :soon:   | 2021-11-15 23:00:00 | turffontein |      4 |        3 | Louvain           |   0    | prometheus          |
 | 36 | :soon:   | 2021-11-15 23:00:00 | turffontein |      4 |       10 | Got You           |   0    | prometheus          |
-| 37 | :soon:   | 2021-11-15 22:25:00 | turffontein |      3 |       10 | Top Drawer        |   0    | prometheus          |
-| 38 | :soon:   | 2021-11-15 22:25:00 | turffontein |      3 |        9 | Sacred Lotus      |   0    | vulture,blackshadow |
-| 39 | :soon:   | 2021-11-15 22:25:00 | turffontein |      3 |        2 | Spice Market      |   0    | pangea,prometheus   |
-| 40 | :soon:   | 2021-11-15 22:25:00 | turffontein |      3 |        8 | Me Time           |   0    | prometheus          |
-| 41 | :soon:   | 2021-11-15 22:25:00 | turffontein |      3 |        7 | Mamaquera         |   0    | prometheus          |
+| 37 | --       | 2021-11-15 22:25:00 | turffontein |      3 |       10 | Top Drawer        |   0    | prometheus          |
+| 38 | --       | 2021-11-15 22:25:00 | turffontein |      3 |        9 | Sacred Lotus      |   0    | vulture,blackshadow |
+| 39 | --       | 2021-11-15 22:25:00 | turffontein |      3 |        2 | Spice Market      |   0    | pangea,prometheus   |
+| 40 | --       | 2021-11-15 22:25:00 | turffontein |      3 |        8 | Me Time           |   0    | prometheus          |
+| 41 | --       | 2021-11-15 22:25:00 | turffontein |      3 |        7 | Mamaquera         |   0    | prometheus          |
 | 42 | --       | 2021-11-15 21:45:00 | turffontein |      2 |        7 | Moon Valley       |   0    | prometheus          |
 | 43 | :boom:   | 2021-11-15 21:45:00 | turffontein |      2 |        8 | Sequoia           |   0    | prometheus          |
 | 44 | --       | 2021-11-15 21:45:00 | turffontein |      2 |        6 | Masuulka          |   0    | prometheus          |
