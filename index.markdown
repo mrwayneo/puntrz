@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-15 10:30:15 +1000  
+date: 2021-11-15 16:09:24 +1000  
 ---   
 
 
@@ -100,7 +100,7 @@ date: 2021-11-15 10:30:15 +1000
 | 48 | :soon:   | 2021-11-15 21:10:00 | turffontein |      1 |        4 | Red Hot           |   0    | prometheus          |
 | 49 | :soon:   | 2021-11-15 21:10:00 | turffontein |      1 |        1 | Burmese Tiara     |   0    | vulture             |
 | 50 | :soon:   | 2021-11-15 16:30:00 | bairnsdale  |      7 |        2 | Saving            |   1.7  | vulture             |
-| 51 | :soon:   | 2021-11-15 15:00:00 | bairnsdale  |      4 |        6 | Viking Rebel      |   6.5  | looseknot           |
-| 52 | :soon:   | 2021-11-15 14:00:00 | bairnsdale  |      2 |        8 | Lady Vuitton      |   2.25 | prometheus          |
-| 53 | :soon:   | 2021-11-15 13:30:00 | bairnsdale  |      1 |        7 | Lottie's The Boss |   1.96 | prometheus          |
-| 54 | :soon:   | 2021-11-15 13:20:00 | scone       |      1 |        9 | Rose Sauvage      |  23    | cosmo,roughnut      |
+| 51 | --       | 2021-11-15 15:00:00 | bairnsdale  |      4 |        6 | Viking Rebel      |   6.5  | looseknot           |
+| 52 | --       | 2021-11-15 14:00:00 | bairnsdale  |      2 |        8 | Lady Vuitton      |   2.25 | prometheus          |
+| 53 | --       | 2021-11-15 13:30:00 | bairnsdale  |      1 |        7 | Lottie's The Boss |   1.96 | prometheus          |
+| 54 | 9        | 2021-11-15 13:20:00 | scone       |      1 |        9 | Rose Sauvage      |  23    | cosmo,roughnut      |
