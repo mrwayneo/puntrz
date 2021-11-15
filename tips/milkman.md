@@ -1,21 +1,24 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-15 22:48:36 +1000  
+date: 2021-11-16 09:20:04 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     48 |      4 |   -327   | 0.08 | -0.68 |
-| Last 28 Days   |    119 |     16 |   -748.5 | 0.13 | -0.63 |
-| Last 6 Months  |    119 |     16 |   -748.5 | 0.13 | -0.63 |
-| Since Jan 2020 |    119 |     16 |   -748.5 | 0.13 | -0.63 |
+| Last 7 Days    |     46 |      4 |   -307   | 0.09 | -0.67 |
+| Last 28 Days   |    120 |     16 |   -758.5 | 0.13 | -0.63 |
+| Last 6 Months  |    120 |     16 |   -758.5 | 0.13 | -0.63 |
+| Since Jan 2020 |    120 |     16 |   -758.5 | 0.13 | -0.63 |
 
 | finish            | date       | event              | runner                |   win |   return |
 |:------------------|:-----------|:-------------------|:----------------------|------:|---------:|
-| 00:10             | 2021-11-16 | turffontein R6     | 4 Bella Swan          |  0    |    -10   |
+| 01:55             | 2021-11-17 | kenilworth R7      | 6 Pacaya              |  0    |    -10   |
+| 00:30             | 2021-11-17 | lingfield R3       | 3 Moveit Like Minnie  |  4.6  |    -10   |
+| 23:30             | 2021-11-16 | ayr R1             | 8 Soft Risk           |  1.75 |    -10   |
+| 0                 | 2021-11-16 | turffontein R6     | 4 Bella Swan          |  0    |    -10   |
 | :boom:            | 2021-11-15 | punchestown R8     | 2 The Big Doyen       |  4    |     30   |
 | 0                 | 2021-11-15 | punchestown R8     | 1 Smooth Player       |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-15 | cheltenham R5      | 4 Washington          |  3.4  |    -10   |
@@ -26,10 +29,10 @@ categories: None
 | :3rd_place_medal: | 2021-11-14 | fontwell R1        | 13 Wiseguy            |  1.55 |    -10   |
 | 8                 | 2021-11-14 | hobart R3          | 9 Lady Marina         |  7.5  |    -10   |
 | 0                 | 2021-11-14 | wolverhampton R3   | 1 Dakota Power        |  0    |    -10   |
-| 0                 | 2021-11-14 | cheltenham R7      | 7 Finest View         |  0    |    -10   |
-| 0                 | 2021-11-14 | cheltenham R7      | 9 Lady Excalibur      |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R7      | 16 Starlyte           |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R7      | 19 Whisky Express     |  0    |    -10   |
+| 0                 | 2021-11-14 | cheltenham R7      | 7 Finest View         |  0    |    -10   |
+| 0                 | 2021-11-14 | cheltenham R7      | 9 Lady Excalibur      |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R6      | 8 Mackelduff          |  0    |    -10   |
 | 0                 | 2021-11-14 | wetherby R5        | 5 Sauce Of Life       |  0    |    -10   |
 | 0                 | 2021-11-14 | kenilworth R6      | 2 Kalahari Ferrari    |  0    |    -10   |
@@ -41,8 +44,8 @@ categories: None
 | 4                 | 2021-11-13 | ascot R5           | 3 Kaptain Kaos        |  2.7  |    -10   |
 | :boom:            | 2021-11-13 | ascot R5           | 6 Kissonallforcheeks  |  1.8  |      8   |
 | :boom:            | 2021-11-13 | ascot R3           | 3 Wilchino            |  4.4  |     34   |
-| :3rd_place_medal: | 2021-11-13 | doomben R6         | 9 She Can Sing        |  2.9  |    -10   |
 | :2nd_place_medal: | 2021-11-13 | doomben R6         | 8 Palaisipan          |  4.6  |    -10   |
+| :3rd_place_medal: | 2021-11-13 | doomben R6         | 9 She Can Sing        |  2.9  |    -10   |
 | 0                 | 2021-11-13 | kembla-grange R5   | 1 Spaltet             |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R5         | 10 Putontheredlight   |  2.15 |    -10   |
 | 4                 | 2021-11-13 | doomben R5         | 4 Zavaboom            | 17    |    -10   |
