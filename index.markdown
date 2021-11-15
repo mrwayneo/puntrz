@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-15 21:18:32 +1000  
+date: 2021-11-15 21:33:46 +1000  
 ---   
 
 
@@ -98,7 +98,7 @@ date: 2021-11-15 21:18:32 +1000
 | 46 | --       | 2021-11-15 21:10:00 | turffontein |      1 |       10 | Mama Tembu        |   0    | prometheus          |
 | 47 | --       | 2021-11-15 21:10:00 | turffontein |      1 |        5 | Namibsroos        |   0    | prometheus          |
 | 48 | --       | 2021-11-15 21:10:00 | turffontein |      1 |        4 | Red Hot           |   0    | prometheus          |
-| 49 | --       | 2021-11-15 21:10:00 | turffontein |      1 |        1 | Burmese Tiara     |   0    | vulture             |
+| 49 | :boom:   | 2021-11-15 21:10:00 | turffontein |      1 |        1 | Burmese Tiara     |   0    | vulture             |
 | 50 | --       | 2021-11-15 16:30:00 | bairnsdale  |      7 |        2 | Saving            |   1.7  | vulture             |
 | 51 | --       | 2021-11-15 15:00:00 | bairnsdale  |      4 |        6 | Viking Rebel      |   6.5  | looseknot           |
 | 52 | --       | 2021-11-15 14:00:00 | bairnsdale  |      2 |        8 | Lady Vuitton      |   2.25 | prometheus          |
