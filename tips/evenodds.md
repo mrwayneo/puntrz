@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2021-11-15 19:33:28 +1000  
+date: 2021-11-15 20:04:01 +1000  
 categories: None 
 ---   
 
@@ -655,9 +655,9 @@ categories: None
 | :3rd_place_medal: | 2021-05-01 | te-rapa R7             | 1 Savy Yong Blonk     |  2.45 |    -10   |
 | 0                 | 2021-05-01 | cheltenham R6          | 3 Kilkishen           |  4    |    -10   |
 | :boom:            | 2021-05-01 | cheltenham R5          | 5 Highway Jewel       |  1.34 |      3.4 |
+| 0                 | 2021-05-01 | cheltenham R4          | 2 Garde Ville         |  3    |    -10   |
 | :3rd_place_medal: | 2021-05-01 | cheltenham R4          | 1 Fifty Shades        |  8    |    -10   |
 | 0                 | 2021-05-01 | cheltenham R4          | 5 Coco Live           | 26    |    -10   |
-| 0                 | 2021-05-01 | cheltenham R4          | 2 Garde Ville         |  3    |    -10   |
 | :boom:            | 2021-05-01 | punchestown R5         | 4 Gaillard Du Mesnil  |  1.5  |      5   |
 | 0                 | 2021-05-01 | cheltenham R2          | 7 Guttural            | 11    |    -10   |
 | 0                 | 2021-05-01 | cheltenham R2          | 11 Ryans Fancy        | 13    |    -10   |

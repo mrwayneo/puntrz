@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-15 19:33:30 +1000  
+date: 2021-11-15 20:04:05 +1000  
 categories: None 
 ---   
 
@@ -26,10 +26,10 @@ categories: None
 | :3rd_place_medal: | 2021-11-14 | fontwell R1        | 13 Wiseguy            |  1.55 |    -10   |
 | 8                 | 2021-11-14 | hobart R3          | 9 Lady Marina         |  7.5  |    -10   |
 | 0                 | 2021-11-14 | wolverhampton R3   | 1 Dakota Power        |  0    |    -10   |
-| 0                 | 2021-11-14 | cheltenham R7      | 19 Whisky Express     |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R7      | 16 Starlyte           |  0    |    -10   |
-| 0                 | 2021-11-14 | cheltenham R7      | 7 Finest View         |  0    |    -10   |
+| 0                 | 2021-11-14 | cheltenham R7      | 19 Whisky Express     |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R7      | 9 Lady Excalibur      |  0    |    -10   |
+| 0                 | 2021-11-14 | cheltenham R7      | 7 Finest View         |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R6      | 8 Mackelduff          |  0    |    -10   |
 | 0                 | 2021-11-14 | wetherby R5        | 5 Sauce Of Life       |  0    |    -10   |
 | 0                 | 2021-11-14 | kenilworth R6      | 2 Kalahari Ferrari    |  0    |    -10   |

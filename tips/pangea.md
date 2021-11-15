@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-15 19:33:29 +1000  
+date: 2021-11-15 20:04:04 +1000  
 categories: None 
 ---   
 
@@ -128,9 +128,9 @@ categories: None
 | :3rd_place_medal: | 2021-11-05 | rockhampton R5         | 5 Boss Baby          |  5.5  |    -10   |
 | :2nd_place_medal: | 2021-11-05 | rockhampton R1         | 1 Mocial Chief       |  1.4  |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R7          | 1 Quackerjack        |  3.3  |    -10   |
+| :2nd_place_medal: | 2021-11-04 | flemington R6          | 8 Malkovich          |  2.5  |    -10   |
 | 4                 | 2021-11-04 | flemington R6          | 6 Parsifal           | 13    |    -10   |
 | 5                 | 2021-11-04 | flemington R6          | 10 Written Beauty    |  4.8  |    -10   |
-| :2nd_place_medal: | 2021-11-04 | flemington R6          | 8 Malkovich          |  2.5  |    -10   |
 | 5                 | 2021-11-04 | ipswich R3             | 3 Kessel Run         | 11    |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R5          | 1 Quiet Riot         |  5    |    -10   |
 | :boom:            | 2021-11-04 | ipswich R2             | 1 Motomiss           |  3.1  |     21   |
@@ -142,9 +142,9 @@ categories: None
 | :boom:            | 2021-11-02 | exeter R1              | 3 Ask Me Early       |  2.5  |     15   |
 | 8                 | 2021-11-02 | darwin R7              | 5 Taciturn           |  4.8  |    -10   |
 | :3rd_place_medal: | 2021-11-02 | darwin R7              | 4 Siakam             |  3.2  |    -10   |
-| 5                 | 2021-11-02 | darwin R6              | 2 Trebla             |  3    |    -10   |
 | :3rd_place_medal: | 2021-11-02 | darwin R6              | 1 Mr Boomjangles     |  6    |    -10   |
 | :2nd_place_medal: | 2021-11-02 | darwin R6              | 3 El Sicario         |  3.9  |    -10   |
+| 5                 | 2021-11-02 | darwin R6              | 2 Trebla             |  3    |    -10   |
 | 5                 | 2021-11-02 | eagle-farm R8          | 2 Firebox            |  4.2  |    -10   |
 | 8                 | 2021-11-02 | darwin R5              | 1 Kaptan Apollo      |  4.6  |    -10   |
 | 6                 | 2021-11-02 | eagle-farm R7          | 4 Le Palmier         |  2.3  |    -10   |
