@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-16 22:26:10 +1000  
+date: 2021-11-16 22:41:21 +1000  
 categories: None 
 ---   
 
@@ -29,10 +29,10 @@ categories: None
 | :3rd_place_medal: | 2021-11-14 | fontwell R1        | 13 Wiseguy            |  1.55 |    -10   |
 | 8                 | 2021-11-14 | hobart R3          | 9 Lady Marina         |  7.5  |    -10   |
 | 0                 | 2021-11-14 | wolverhampton R3   | 1 Dakota Power        |  0    |    -10   |
-| 0                 | 2021-11-14 | cheltenham R7      | 7 Finest View         |  0    |    -10   |
-| 0                 | 2021-11-14 | cheltenham R7      | 9 Lady Excalibur      |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R7      | 16 Starlyte           |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R7      | 19 Whisky Express     |  0    |    -10   |
+| 0                 | 2021-11-14 | cheltenham R7      | 7 Finest View         |  0    |    -10   |
+| 0                 | 2021-11-14 | cheltenham R7      | 9 Lady Excalibur      |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R6      | 8 Mackelduff          |  0    |    -10   |
 | 0                 | 2021-11-14 | wetherby R5        | 5 Sauce Of Life       |  0    |    -10   |
 | 0                 | 2021-11-14 | kenilworth R6      | 2 Kalahari Ferrari    |  0    |    -10   |
@@ -44,8 +44,8 @@ categories: None
 | 4                 | 2021-11-13 | ascot R5           | 3 Kaptain Kaos        |  2.7  |    -10   |
 | :boom:            | 2021-11-13 | ascot R5           | 6 Kissonallforcheeks  |  1.8  |      8   |
 | :boom:            | 2021-11-13 | ascot R3           | 3 Wilchino            |  4.4  |     34   |
-| :3rd_place_medal: | 2021-11-13 | doomben R6         | 9 She Can Sing        |  2.9  |    -10   |
 | :2nd_place_medal: | 2021-11-13 | doomben R6         | 8 Palaisipan          |  4.6  |    -10   |
+| :3rd_place_medal: | 2021-11-13 | doomben R6         | 9 She Can Sing        |  2.9  |    -10   |
 | 0                 | 2021-11-13 | kembla-grange R5   | 1 Spaltet             |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R5         | 10 Putontheredlight   |  2.15 |    -10   |
 | 4                 | 2021-11-13 | doomben R5         | 4 Zavaboom            | 17    |    -10   |
