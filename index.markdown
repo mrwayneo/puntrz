@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-17 16:58:06 +1000  
+date: 2021-11-17 17:13:16 +1000  
 ---   
 
 
@@ -80,10 +80,10 @@ date: 2021-11-17 16:58:06 +1000
 | 28 | :soon:            | 2021-11-17 17:48:00 | doomben          |      7 |        6 | Carribean King     |   3.9  | vulture            |
 | 29 | :soon:            | 2021-11-17 17:48:00 | doomben          |      7 |        8 | Contessa           |   7.5  | pangea             |
 | 30 | :soon:            | 2021-11-17 17:38:00 | belmont          |      4 |       11 | Beauty In Me       |   2.5  | pikey              |
-| 31 | :soon:            | 2021-11-17 17:05:00 | sandown-lakeside |      8 |       11 | Launch Pad         |   2.3  | vulture            |
-| 32 | :soon:            | 2021-11-17 16:59:00 | belmont          |      3 |        5 | Acefire            |   1.91 | pikey              |
-| 33 | --                | 2021-11-17 16:55:00 | rosehill         |      6 |       13 | I Am Lethal        |   6.5  | vulture            |
-| 34 | --                | 2021-11-17 16:55:00 | rosehill         |      6 |        4 | Francesco Guardi   |   6    | jmac               |
+| 31 | :3rd_place_medal: | 2021-11-17 17:05:00 | sandown-lakeside |      8 |       11 | Launch Pad         |   2.3  | vulture            |
+| 32 | :boom:            | 2021-11-17 16:59:00 | belmont          |      3 |        5 | Acefire            |   1.91 | pikey              |
+| 33 | 4                 | 2021-11-17 16:55:00 | rosehill         |      6 |       13 | I Am Lethal        |   6.5  | vulture            |
+| 34 | :2nd_place_medal: | 2021-11-17 16:55:00 | rosehill         |      6 |        4 | Francesco Guardi   |   6    | jmac               |
 | 35 | 7                 | 2021-11-17 16:30:00 | sandown-lakeside |      7 |       13 | Making Contact     |  26    | vulture            |
 | 36 | :3rd_place_medal: | 2021-11-17 15:55:00 | sandown-lakeside |      6 |       10 | Dubai Nights       |   6    | vulture,milkman    |
 | 37 | 9                 | 2021-11-17 15:35:00 | strathalbyn      |      5 |        5 | Antonella          |   7.5  | looseknot          |
