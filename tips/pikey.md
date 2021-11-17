@@ -1,20 +1,26 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-16 22:41:26 +1000  
+date: 2021-11-17 12:24:13 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     12 |      2 |      -67 | 0.17 | -0.56 |
-| Last 28 Days   |     68 |     12 |     -377 | 0.18 | -0.55 |
+| Last 7 Days    |      7 |      1 |      -32 | 0.14 | -0.46 |
+| Last 28 Days   |     66 |     11 |     -371 | 0.17 | -0.56 |
 | Last 6 Months  |    502 |    128 |     -823 | 0.25 | -0.16 |
 | Since Jan 2020 |    582 |    145 |    -1025 | 0.25 | -0.18 |
 
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
+| 20:42             | 2021-11-17 | belmont R9            | 7 Antique Jewel       |  2.4  |    -10   |
+| 19:25             | 2021-11-17 | belmont R7            | 5 Memorable Miss      |  3.3  |    -10   |
+| 18:50             | 2021-11-17 | belmont R6            | 4 Airlie Queen        |  5    |    -10   |
+| 18:15             | 2021-11-17 | belmont R5            | 6 Let's Cut Loose     |  5    |    -10   |
+| 17:38             | 2021-11-17 | belmont R4            | 11 Beauty In Me       |  2.5  |    -10   |
+| 16:59             | 2021-11-17 | belmont R3            | 5 Acefire             |  1.91 |    -10   |
 | 0                 | 2021-11-13 | ascot R9              | 10 The Front Bar      |  0    |    -10   |
 | 0                 | 2021-11-13 | ascot R8              | 15 Graceful Girl      |  0    |    -10   |
 | 0                 | 2021-11-13 | ascot R7              | 7 Mrs America         |  0    |    -10   |
