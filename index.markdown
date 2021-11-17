@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-18 06:53:29 +1000  
+date: 2021-11-18 10:04:23 +1000  
 ---   
 
 
@@ -47,47 +47,39 @@ date: 2021-11-18 06:53:29 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6374 |    915 | -11956.5 | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8219 |    435 | -18483   | 0.05 | -0.22 |
 
-|    | finish            | time                | track            |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :boom:            | 2021-11-18 02:45:00 | ffos-las         |      7 |        9 | Hidden Beauty      |   4.8  | overthrow          |
-|  1 | --                | 2021-11-18 02:45:00 | ffos-las         |      7 |       15 | Spitfire Girl      |  11    | vulture            |
-|  2 | --                | 2021-11-18 02:35:00 | hexham           |      7 |        8 | Coeur Aimant       |   4.4  | looseknot          |
-|  3 | 4                 | 2021-11-18 02:10:00 | ffos-las         |      6 |        6 | Hang Tough         |  11    | pangea             |
-|  4 | :3rd_place_medal: | 2021-11-18 02:00:00 | hexham           |      6 |        8 | Click And Collect  |   6.5  | looseknot          |
-|  5 | :boom:            | 2021-11-18 01:50:00 | warwick          |      6 |        8 | Final Nudge        |   0    | overthrow          |
-|  6 | --                | 2021-11-18 01:25:00 | hexham           |      5 |        1 | Donladd            |   6.5  | pangea,blackshadow |
-|  7 | --                | 2021-11-18 01:00:00 | ffos-las         |      4 |        1 | Town Parks         |  19    | pangea             |
-|  8 | 4                 | 2021-11-18 01:00:00 | ffos-las         |      4 |        2 | Nada To Prada      |   3.3  | milkman            |
-|  9 | :2nd_place_medal: | 2021-11-18 00:40:00 | warwick          |      4 |        5 | Stepney Causeway   |   4.45 | overthrow,milkman  |
-| 10 | --                | 2021-11-18 00:25:00 | ffos-las         |      3 |        8 | Moonlight Flit     |   4.6  | overthrow          |
-| 11 | :3rd_place_medal: | 2021-11-18 00:05:00 | warwick          |      3 |        1 | Joyful Kit         |   6.3  | looseknot          |
-| 12 | :boom:            | 2021-11-18 00:05:00 | warwick          |      3 |        6 | West Balboa        |   4.1  | evenodds,overthrow |
-| 13 | :2nd_place_medal: | 2021-11-18 00:05:00 | warwick          |      3 |        3 | Queens River       |   1.42 | evenodds,overthrow |
-| 14 | :boom:            | 2021-11-17 23:50:00 | ffos-las         |      2 |        7 | Brooksway Fair     |   6    | looseknot          |
-| 15 | --                | 2021-11-17 23:42:00 | greyville        |      5 |        1 | Flying Grace       |   0    | vulture            |
-| 16 | 4                 | 2021-11-17 23:30:00 | warwick          |      2 |        1 | Global Harmony     |   6.5  | overthrow          |
-| 17 | :boom:            | 2021-11-17 23:00:00 | warwick          |      1 |        4 | Hartur D'oudairies |   2.15 | overthrow          |
-| 18 | :boom:            | 2021-11-17 21:30:00 | launceston       |      8 |        2 | Sh'bourne Renegade |   4    | pangea,blackshadow |
-| 19 | :2nd_place_medal: | 2021-11-17 21:00:00 | launceston       |      7 |        6 | Boom Dot Com       |   6.5  | benny,pangea       |
-| 20 | 4                 | 2021-11-17 20:42:00 | belmont          |      9 |        7 | Antique Jewel      |   2.4  | vulture,pikey      |
-| 21 | :3rd_place_medal: | 2021-11-17 20:05:00 | belmont          |      8 |        2 | Off Wego           |   4.8  | pangea             |
-| 22 | :2nd_place_medal: | 2021-11-17 19:45:00 | launceston       |      5 |        2 | Outbound           |   2.2  | evenodds,overthrow |
-| 23 | :boom:            | 2021-11-17 19:25:00 | belmont          |      7 |        5 | Memorable Miss     |   3.3  | evenodds,pikey     |
-| 24 | 7                 | 2021-11-17 18:50:00 | belmont          |      6 |        4 | Airlie Queen       |   5    | overthrow,pikey    |
-| 25 | 5                 | 2021-11-17 18:15:00 | belmont          |      5 |        6 | Let's Cut Loose    |   5    | pikey              |
-| 26 | 9                 | 2021-11-17 17:55:00 | launceston       |      2 |        7 | Leica Starlet      |   4    | looseknot          |
-| 27 | :2nd_place_medal: | 2021-11-17 17:55:00 | launceston       |      2 |        5 | Needs Remembering  |   4.2  | overthrow          |
-| 28 | :2nd_place_medal: | 2021-11-17 17:48:00 | doomben          |      7 |        6 | Carribean King     |   3.9  | vulture            |
-| 29 | 7                 | 2021-11-17 17:48:00 | doomben          |      7 |        8 | Contessa           |   7.5  | pangea             |
-| 30 | :2nd_place_medal: | 2021-11-17 17:38:00 | belmont          |      4 |       11 | Beauty In Me       |   2.5  | pikey              |
-| 31 | :3rd_place_medal: | 2021-11-17 17:05:00 | sandown-lakeside |      8 |       11 | Launch Pad         |   2.3  | vulture            |
-| 32 | :boom:            | 2021-11-17 16:59:00 | belmont          |      3 |        5 | Acefire            |   1.91 | pikey              |
-| 33 | 4                 | 2021-11-17 16:55:00 | rosehill         |      6 |       13 | I Am Lethal        |   6.5  | vulture            |
-| 34 | :2nd_place_medal: | 2021-11-17 16:55:00 | rosehill         |      6 |        4 | Francesco Guardi   |   6    | jmac               |
-| 35 | 7                 | 2021-11-17 16:30:00 | sandown-lakeside |      7 |       13 | Making Contact     |  26    | vulture            |
-| 36 | :3rd_place_medal: | 2021-11-17 15:55:00 | sandown-lakeside |      6 |       10 | Dubai Nights       |   6    | vulture,milkman    |
-| 37 | 9                 | 2021-11-17 15:35:00 | strathalbyn      |      5 |        5 | Antonella          |   7.5  | looseknot          |
-| 38 | :boom:            | 2021-11-17 15:28:00 | doomben          |      3 |        1 | Ashgrove           |   1.65 | overthrow          |
-| 39 | :3rd_place_medal: | 2021-11-17 15:10:00 | rosehill         |      3 |       11 | Comrade Rosa       |   3.7  | evenodds,jmac      |
-| 40 | :3rd_place_medal: | 2021-11-17 14:45:00 | sandown-lakeside |      4 |        6 | Saving             |  15    | vulture            |
-| 41 | :boom:            | 2021-11-17 14:18:00 | doomben          |      1 |        2 | Capital Tower      |   3.2  | overthrow          |
+|    | finish   | time                | track        |   race |   number | name             |   odds | tipster            |
+|---:|:---------|:--------------------|:-------------|-------:|---------:|:-----------------|-------:|:-------------------|
+|  0 | :soon:   | 2021-11-19 02:50:00 | wincanton    |      7 |        9 | New Zealander    |   3.75 | overthrow          |
+|  1 | :soon:   | 2021-11-19 02:25:00 | market-rasen |      7 |        6 | Sister Michael   |   9    | looseknot          |
+|  2 | :soon:   | 2021-11-19 02:25:00 | market-rasen |      7 |        7 | Springwell Bay   |   1.6  | vulture            |
+|  3 | :soon:   | 2021-11-19 02:25:00 | market-rasen |      7 |        8 | Urban Grit       |   5.5  | vulture            |
+|  4 | :soon:   | 2021-11-19 02:15:00 | wincanton    |      6 |        3 | Golden Taipan    |   3.3  | evenodds,overthrow |
+|  5 | :soon:   | 2021-11-19 02:15:00 | wincanton    |      6 |        1 | Thyme White      |   3    | overthrow          |
+|  6 | :soon:   | 2021-11-19 02:00:00 | thurles      |      7 |        4 | Keepthefaithinme |   1.3  | vulture            |
+|  7 | :soon:   | 2021-11-19 01:15:00 | wincanton    |      4 |        1 | Time To Tinker   |   2.2  | evenodds,overthrow |
+|  8 | :soon:   | 2021-11-19 01:15:00 | wincanton    |      4 |        2 | Royal Pretender  |   1.95 | vulture            |
+|  9 | :soon:   | 2021-11-19 01:07:00 | newcastle    |      4 |        1 | Betty Baloo      |   2.1  | milkman            |
+| 10 | :soon:   | 2021-11-19 01:00:00 | thurles      |      5 |       14 | Kilkenny Star    |   7.5  | looseknot          |
+| 11 | :soon:   | 2021-11-19 00:45:00 | wincanton    |      3 |        2 | Get The Game     |   4.6  | overthrow          |
+| 12 | :soon:   | 2021-11-19 00:15:00 | wincanton    |      2 |        2 | Atakan           |   7    | looseknot          |
+| 13 | :soon:   | 2021-11-19 00:07:00 | newcastle    |      2 |       12 | Our Idic Boy     |   7.5  | looseknot          |
+| 14 | :soon:   | 2021-11-19 00:00:00 | thurles      |      3 |        5 | Quantum Realm    |   3.25 | vulture            |
+| 15 | :soon:   | 2021-11-18 23:30:00 | thurles      |      2 |        6 | Pairc Na Ngael   |   4.5  | looseknot          |
+| 16 | :soon:   | 2021-11-18 23:00:00 | thurles      |      1 |        3 | Gabbys Cross     |  21    | pangea             |
+| 17 | :soon:   | 2021-11-18 22:47:00 | vaal         |      6 |        7 | Zeus             |   0    | milkman            |
+| 18 | :soon:   | 2021-11-18 18:50:00 | rockhampton  |      9 |        2 | Villa Villekulla |   4    | vulture,pangea     |
+| 19 | :soon:   | 2021-11-18 18:15:00 | rockhampton  |      8 |        5 | Anacheeva Lad    |   3.9  | pangea             |
+| 20 | :soon:   | 2021-11-18 18:15:00 | rockhampton  |      8 |        1 | Black Monaco     |   5    | evenodds,overthrow |
+| 21 | :soon:   | 2021-11-18 17:37:00 | rockhampton  |      7 |        3 | Rhyme Nor Rhythm |   5    | pangea,overthrow   |
+| 22 | :soon:   | 2021-11-18 17:37:00 | rockhampton  |      7 |        2 | Ahwahneechee     |   6.1  | pangea             |
+| 23 | :soon:   | 2021-11-18 17:37:00 | rockhampton  |      7 |        8 | Boss Baby        |  10    | pangea             |
+| 24 | :soon:   | 2021-11-18 17:25:00 | hawkesbury   |      8 |        7 | Yumi             |   3.7  | jmac               |
+| 25 | :soon:   | 2021-11-18 16:50:00 | hawkesbury   |      7 |        9 | This'llbetheone  |   2.38 | evenodds,jmac      |
+| 26 | :soon:   | 2021-11-18 16:42:00 | narrogin     |      1 |        2 | I'm A Dreamer    |   1.72 | vulture            |
+| 27 | :soon:   | 2021-11-18 16:20:00 | rockhampton  |      5 |        2 | Bluindi          |   2.7  | pangea,icyhot      |
+| 28 | :soon:   | 2021-11-18 16:20:00 | rockhampton  |      5 |        8 | All Native       |   9    | pangea             |
+| 29 | :soon:   | 2021-11-18 16:20:00 | rockhampton  |      5 |        3 | Eveready         |   7.5  | benny,pangea       |
+| 30 | :soon:   | 2021-11-18 15:45:00 | rockhampton  |      4 |        2 | Ask Me Again     |   8    | evenodds,overthrow |
+| 31 | :soon:   | 2021-11-18 15:35:00 | hawkesbury   |      5 |        1 | Don Arcangelo    |   4    | overthrow,jmac     |
+| 32 | :soon:   | 2021-11-18 14:27:00 | rockhampton  |      2 |        6 | Ollie's Stand    |   1.55 | pangea             |
+| 33 | :soon:   | 2021-11-18 13:52:00 | rockhampton  |      1 |        5 | Zipping Irish    |   3.55 | overthrow          |
