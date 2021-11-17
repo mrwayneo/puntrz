@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-17 21:23:06 +1000  
+date: 2021-11-17 21:38:43 +1000  
 ---   
 
 
@@ -67,7 +67,7 @@ date: 2021-11-17 21:23:06 +1000
 | 15 | :soon:            | 2021-11-17 23:42:00 | greyville        |      5 |        1 | Flying Grace       |   0    | vulture            |
 | 16 | :soon:            | 2021-11-17 23:30:00 | warwick          |      2 |        1 | Global Harmony     |   6.5  | overthrow          |
 | 17 | :soon:            | 2021-11-17 23:00:00 | warwick          |      1 |        4 | Hartur D'oudairies |   2.15 | overthrow          |
-| 18 | :soon:            | 2021-11-17 21:30:00 | launceston       |      8 |        2 | Sh'bourne Renegade |   4    | pangea,blackshadow |
+| 18 | :boom:            | 2021-11-17 21:30:00 | launceston       |      8 |        2 | Sh'bourne Renegade |   4    | pangea,blackshadow |
 | 19 | :2nd_place_medal: | 2021-11-17 21:00:00 | launceston       |      7 |        6 | Boom Dot Com       |   6.5  | benny,pangea       |
 | 20 | 4                 | 2021-11-17 20:42:00 | belmont          |      9 |        7 | Antique Jewel      |   2.4  | vulture,pikey      |
 | 21 | :3rd_place_medal: | 2021-11-17 20:05:00 | belmont          |      8 |        2 | Off Wego           |   4.8  | pangea             |
