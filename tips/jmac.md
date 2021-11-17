@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-11-17 12:24:13 +1000  
+date: 2021-11-17 16:44:05 +1000  
 categories: None 
 ---   
 
@@ -16,8 +16,8 @@ categories: None
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
 | 16:55             | 2021-11-17 | rosehill R6       | 4 Francesco Guardi    |  6    |    -10   |
-| 15:10             | 2021-11-17 | rosehill R3       | 11 Comrade Rosa       |  3.7  |    -10   |
-| 14:00             | 2021-11-17 | rosehill R1       | 5 Waverider Buoy      |  2.7  |    -10   |
+| :3rd_place_medal: | 2021-11-17 | rosehill R3       | 11 Comrade Rosa       |  3.7  |    -10   |
+| :2nd_place_medal: | 2021-11-17 | rosehill R1       | 5 Waverider Buoy      |  2.7  |    -10   |
 | 7                 | 2021-11-13 | newcastle R7      | 8 Loch Eagle          | 10    |    -10   |
 | :boom:            | 2021-11-13 | newcastle R5      | 3 Mightybeel          |  2.3  |     13   |
 | 4                 | 2021-11-13 | newcastle R1      | 3 Lord Of The Hunter  |  5.5  |    -10   |

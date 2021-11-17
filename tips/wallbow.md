@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2021-11-17 12:24:08 +1000  
+date: 2021-11-17 16:43:57 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event            | runner             |   win |   return |
 |:------------------|:-----------|:-----------------|:-------------------|------:|---------:|
-| 15:10             | 2021-11-17 | rosehill R3      | 3 Aslav            | 20    |      -10 |
+| 11                | 2021-11-17 | rosehill R3      | 3 Aslav            | 20    |      -10 |
 | 4                 | 2021-11-02 | randwick R4      | 4 Gracilistyla     |  2.7  |      -10 |
 | :3rd_place_medal: | 2021-11-02 | randwick R3      | 6 Hoover Lucy      |  1.65 |      -10 |
 | :2nd_place_medal: | 2021-10-30 | rosehill R2      | 2 Mightybeel       |  2    |      -10 |
