@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-17 22:53:10 +1000  
+date: 2021-11-18 04:10:45 +1000  
 ---   
 
 
@@ -30,43 +30,43 @@ date: 2021-11-17 22:53:10 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    176 |     52 |    251.5 | 0.3  |  0.14 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    179 |     52 |    221.5 | 0.29 |  0.12 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     40 |     10 |    178.5 | 0.25 |  0.45 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    358 |     72 |   -149   | 0.2  | -0.04 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    198 |     60 |   -176.9 | 0.3  | -0.09 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     44 |      6 |   -219   | 0.14 | -0.5  |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    342 |     86 |   -300.6 | 0.25 | -0.09 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    204 |     36 |   -607.5 | 0.18 | -0.3  |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    123 |     16 |   -788.5 | 0.13 | -0.64 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    493 |    122 |   -995   | 0.25 | -0.2  |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    719 |    101 |  -1385.6 | 0.14 | -0.19 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    598 |    150 |  -1399.5 | 0.25 | -0.23 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2037 |    466 |  -2346.2 | 0.23 | -0.12 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2621 |    139 |  -3245   | 0.05 | -0.12 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3072 |    684 |  -5962   | 0.22 | -0.19 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6349 |    908 | -11870   | 0.14 | -0.19 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8190 |    434 | -18453   | 0.05 | -0.23 |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     45 |      6 |   -229   | 0.13 | -0.51 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    346 |     87 |   -285.6 | 0.25 | -0.08 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    214 |     37 |   -652.5 | 0.17 | -0.3  |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    127 |     16 |   -828.5 | 0.13 | -0.65 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    499 |    124 |  -1001   | 0.25 | -0.2  |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    722 |    102 |  -1376.6 | 0.14 | -0.19 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    603 |    152 |  -1378.5 | 0.25 | -0.23 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2048 |    471 |  -2235.7 | 0.23 | -0.11 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2629 |    139 |  -3325   | 0.05 | -0.13 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3080 |    685 |  -5983.2 | 0.22 | -0.19 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6374 |    915 | -11956.5 | 0.14 | -0.19 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8219 |    435 | -18483   | 0.05 | -0.22 |
 
 |    | finish            | time                | track            |   race |   number | name               |   odds | tipster            |
 |---:|:------------------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:            | 2021-11-18 02:45:00 | ffos-las         |      7 |        9 | Hidden Beauty      |   4.8  | overthrow          |
-|  1 | :soon:            | 2021-11-18 02:45:00 | ffos-las         |      7 |       15 | Spitfire Girl      |  11    | vulture            |
-|  2 | :soon:            | 2021-11-18 02:35:00 | hexham           |      7 |        8 | Coeur Aimant       |   4.4  | looseknot          |
-|  3 | :soon:            | 2021-11-18 02:10:00 | ffos-las         |      6 |        6 | Hang Tough         |  11    | pangea             |
-|  4 | :soon:            | 2021-11-18 02:00:00 | hexham           |      6 |        8 | Click And Collect  |   6.5  | looseknot          |
-|  5 | :soon:            | 2021-11-18 01:50:00 | warwick          |      6 |        8 | Final Nudge        |   0    | overthrow          |
-|  6 | :soon:            | 2021-11-18 01:25:00 | hexham           |      5 |        1 | Donladd            |   6.5  | pangea,blackshadow |
-|  7 | :soon:            | 2021-11-18 01:00:00 | ffos-las         |      4 |        1 | Town Parks         |  19    | pangea             |
-|  8 | :soon:            | 2021-11-18 01:00:00 | ffos-las         |      4 |        2 | Nada To Prada      |   3.3  | milkman            |
-|  9 | :soon:            | 2021-11-18 00:40:00 | warwick          |      4 |        5 | Stepney Causeway   |   4.45 | overthrow,milkman  |
-| 10 | :soon:            | 2021-11-18 00:25:00 | ffos-las         |      3 |        8 | Moonlight Flit     |   4.6  | overthrow          |
-| 11 | :soon:            | 2021-11-18 00:05:00 | warwick          |      3 |        1 | Joyful Kit         |   6.3  | looseknot          |
-| 12 | :soon:            | 2021-11-18 00:05:00 | warwick          |      3 |        6 | West Balboa        |   4.1  | evenodds,overthrow |
-| 13 | :soon:            | 2021-11-18 00:05:00 | warwick          |      3 |        3 | Queens River       |   1.42 | evenodds,overthrow |
-| 14 | :soon:            | 2021-11-17 23:50:00 | ffos-las         |      2 |        7 | Brooksway Fair     |   6    | looseknot          |
-| 15 | :soon:            | 2021-11-17 23:42:00 | greyville        |      5 |        1 | Flying Grace       |   0    | vulture            |
-| 16 | :soon:            | 2021-11-17 23:30:00 | warwick          |      2 |        1 | Global Harmony     |   6.5  | overthrow          |
-| 17 | :soon:            | 2021-11-17 23:00:00 | warwick          |      1 |        4 | Hartur D'oudairies |   2.15 | overthrow          |
+|  0 | :boom:            | 2021-11-18 02:45:00 | ffos-las         |      7 |        9 | Hidden Beauty      |   4.8  | overthrow          |
+|  1 | --                | 2021-11-18 02:45:00 | ffos-las         |      7 |       15 | Spitfire Girl      |  11    | vulture            |
+|  2 | --                | 2021-11-18 02:35:00 | hexham           |      7 |        8 | Coeur Aimant       |   4.4  | looseknot          |
+|  3 | 4                 | 2021-11-18 02:10:00 | ffos-las         |      6 |        6 | Hang Tough         |  11    | pangea             |
+|  4 | :3rd_place_medal: | 2021-11-18 02:00:00 | hexham           |      6 |        8 | Click And Collect  |   6.5  | looseknot          |
+|  5 | :boom:            | 2021-11-18 01:50:00 | warwick          |      6 |        8 | Final Nudge        |   0    | overthrow          |
+|  6 | --                | 2021-11-18 01:25:00 | hexham           |      5 |        1 | Donladd            |   6.5  | pangea,blackshadow |
+|  7 | --                | 2021-11-18 01:00:00 | ffos-las         |      4 |        1 | Town Parks         |  19    | pangea             |
+|  8 | 4                 | 2021-11-18 01:00:00 | ffos-las         |      4 |        2 | Nada To Prada      |   3.3  | milkman            |
+|  9 | :2nd_place_medal: | 2021-11-18 00:40:00 | warwick          |      4 |        5 | Stepney Causeway   |   4.45 | overthrow,milkman  |
+| 10 | --                | 2021-11-18 00:25:00 | ffos-las         |      3 |        8 | Moonlight Flit     |   4.6  | overthrow          |
+| 11 | :3rd_place_medal: | 2021-11-18 00:05:00 | warwick          |      3 |        1 | Joyful Kit         |   6.3  | looseknot          |
+| 12 | :boom:            | 2021-11-18 00:05:00 | warwick          |      3 |        6 | West Balboa        |   4.1  | evenodds,overthrow |
+| 13 | :2nd_place_medal: | 2021-11-18 00:05:00 | warwick          |      3 |        3 | Queens River       |   1.42 | evenodds,overthrow |
+| 14 | :boom:            | 2021-11-17 23:50:00 | ffos-las         |      2 |        7 | Brooksway Fair     |   6    | looseknot          |
+| 15 | --                | 2021-11-17 23:42:00 | greyville        |      5 |        1 | Flying Grace       |   0    | vulture            |
+| 16 | 4                 | 2021-11-17 23:30:00 | warwick          |      2 |        1 | Global Harmony     |   6.5  | overthrow          |
+| 17 | :boom:            | 2021-11-17 23:00:00 | warwick          |      1 |        4 | Hartur D'oudairies |   2.15 | overthrow          |
 | 18 | :boom:            | 2021-11-17 21:30:00 | launceston       |      8 |        2 | Sh'bourne Renegade |   4    | pangea,blackshadow |
 | 19 | :2nd_place_medal: | 2021-11-17 21:00:00 | launceston       |      7 |        6 | Boom Dot Com       |   6.5  | benny,pangea       |
 | 20 | 4                 | 2021-11-17 20:42:00 | belmont          |      9 |        7 | Antique Jewel      |   2.4  | vulture,pikey      |

@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-17 22:53:05 +1000  
+date: 2021-11-18 04:10:39 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     45 |      4 |   -297   | 0.09 | -0.66 |
-| Last 28 Days   |    123 |     16 |   -788.5 | 0.13 | -0.64 |
-| Last 6 Months  |    123 |     16 |   -788.5 | 0.13 | -0.64 |
-| Since Jan 2020 |    123 |     16 |   -788.5 | 0.13 | -0.64 |
+| Last 7 Days    |     43 |      4 |   -277   | 0.09 | -0.64 |
+| Last 28 Days   |    127 |     16 |   -828.5 | 0.13 | -0.65 |
+| Last 6 Months  |    127 |     16 |   -828.5 | 0.13 | -0.65 |
+| Since Jan 2020 |    127 |     16 |   -828.5 | 0.13 | -0.65 |
 
 | finish            | date       | event               | runner                |   win |   return |
 |:------------------|:-----------|:--------------------|:----------------------|------:|---------:|
-| 01:00             | 2021-11-18 | ffos-las R4         | 2 Nada To Prada       |  3.3  |    -10   |
-| 00:40             | 2021-11-18 | warwick R4          | 5 Stepney Causeway    |  4.45 |    -10   |
+| 4                 | 2021-11-18 | ffos-las R4         | 2 Nada To Prada       |  3.3  |    -10   |
+| :2nd_place_medal: | 2021-11-18 | warwick R4          | 5 Stepney Causeway    |  4.45 |    -10   |
 | :3rd_place_medal: | 2021-11-17 | sandown-lakeside R6 | 10 Dubai Nights       |  6    |    -10   |
 | :3rd_place_medal: | 2021-11-17 | rosehill R3         | 11 Comrade Rosa       |  3.7  |    -10   |
 | 0                 | 2021-11-17 | kenilworth R7       | 6 Pacaya              |  0    |    -10   |
@@ -45,8 +45,8 @@ categories: None
 | 0                 | 2021-11-13 | ascot R9            | 10 The Front Bar      |  0    |    -10   |
 | 0                 | 2021-11-13 | sha-tin R9          | 1 Packing Victory     |  0    |    -10   |
 | 0                 | 2021-11-13 | sha-tin R7          | 4 Excellent Proposal  |  0    |    -10   |
-| :boom:            | 2021-11-13 | ascot R5            | 6 Kissonallforcheeks  |  1.8  |      8   |
 | 4                 | 2021-11-13 | ascot R5            | 3 Kaptain Kaos        |  2.7  |    -10   |
+| :boom:            | 2021-11-13 | ascot R5            | 6 Kissonallforcheeks  |  1.8  |      8   |
 | :boom:            | 2021-11-13 | ascot R3            | 3 Wilchino            |  4.4  |     34   |
 | :2nd_place_medal: | 2021-11-13 | doomben R6          | 8 Palaisipan          |  4.6  |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R6          | 9 She Can Sing        |  2.9  |    -10   |
