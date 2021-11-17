@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-17 16:43:56 +1000  
+date: 2021-11-17 16:58:01 +1000  
 categories: None 
 ---   
 
@@ -45,8 +45,8 @@ categories: None
 | 0                 | 2021-11-13 | ascot R9            | 10 The Front Bar      |  0    |    -10   |
 | 0                 | 2021-11-13 | sha-tin R9          | 1 Packing Victory     |  0    |    -10   |
 | 0                 | 2021-11-13 | sha-tin R7          | 4 Excellent Proposal  |  0    |    -10   |
-| 4                 | 2021-11-13 | ascot R5            | 3 Kaptain Kaos        |  2.7  |    -10   |
 | :boom:            | 2021-11-13 | ascot R5            | 6 Kissonallforcheeks  |  1.8  |      8   |
+| 4                 | 2021-11-13 | ascot R5            | 3 Kaptain Kaos        |  2.7  |    -10   |
 | :boom:            | 2021-11-13 | ascot R3            | 3 Wilchino            |  4.4  |     34   |
 | :2nd_place_medal: | 2021-11-13 | doomben R6          | 8 Palaisipan          |  4.6  |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R6          | 9 She Can Sing        |  2.9  |    -10   |
