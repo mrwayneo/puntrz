@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-17 20:08:10 +1000  
+date: 2021-11-17 20:23:10 +1000  
 ---   
 
 
@@ -70,7 +70,7 @@ date: 2021-11-17 20:08:10 +1000
 | 18 | :soon:            | 2021-11-17 21:30:00 | launceston       |      8 |        2 | Sh'bourne Renegade |   4    | pangea,blackshadow |
 | 19 | :soon:            | 2021-11-17 21:00:00 | launceston       |      7 |        6 | Boom Dot Com       |   6.5  | benny,pangea       |
 | 20 | :soon:            | 2021-11-17 20:42:00 | belmont          |      9 |        7 | Antique Jewel      |   2.4  | vulture,pikey      |
-| 21 | --                | 2021-11-17 20:05:00 | belmont          |      8 |        2 | Off Wego           |   4.8  | pangea             |
+| 21 | :3rd_place_medal: | 2021-11-17 20:05:00 | belmont          |      8 |        2 | Off Wego           |   4.8  | pangea             |
 | 22 | :2nd_place_medal: | 2021-11-17 19:45:00 | launceston       |      5 |        2 | Outbound           |   2.2  | evenodds,overthrow |
 | 23 | :boom:            | 2021-11-17 19:25:00 | belmont          |      7 |        5 | Memorable Miss     |   3.3  | evenodds,pikey     |
 | 24 | 7                 | 2021-11-17 18:50:00 | belmont          |      6 |        4 | Airlie Queen       |   5    | overthrow,pikey    |
