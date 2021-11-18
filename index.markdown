@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-18 14:29:57 +1000  
+date: 2021-11-18 14:44:58 +1000  
 ---   
 
 
@@ -81,5 +81,5 @@ date: 2021-11-18 14:29:57 +1000
 | 29 | :soon:            | 2021-11-18 16:20:00 | rockhampton  |      5 |        3 | Eveready         |   7.5  | benny,pangea       |
 | 30 | :soon:            | 2021-11-18 15:45:00 | rockhampton  |      4 |        2 | Ask Me Again     |   8    | evenodds,overthrow |
 | 31 | :soon:            | 2021-11-18 15:35:00 | hawkesbury   |      5 |        1 | Don Arcangelo    |   4    | overthrow,jmac     |
-| 32 | --                | 2021-11-18 14:27:00 | rockhampton  |      2 |        6 | Ollie's Stand    |   1.55 | pangea             |
+| 32 | :boom:            | 2021-11-18 14:27:00 | rockhampton  |      2 |        6 | Ollie's Stand    |   1.55 | pangea             |
 | 33 | :3rd_place_medal: | 2021-11-18 13:52:00 | rockhampton  |      1 |        5 | Zipping Irish    |   3.55 | overthrow          |
