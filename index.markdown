@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-18 19:02:08 +1000  
+date: 2021-11-18 19:43:51 +1000  
 ---   
 
 
@@ -67,9 +67,9 @@ date: 2021-11-18 19:02:08 +1000
 | 15 | :soon:            | 2021-11-18 23:30:00 | thurles      |      2 |        6 | Pairc Na Ngael   |   4.5  | looseknot          |
 | 16 | :soon:            | 2021-11-18 23:00:00 | thurles      |      1 |        3 | Gabbys Cross     |  21    | pangea             |
 | 17 | :soon:            | 2021-11-18 22:47:00 | vaal         |      6 |        7 | Zeus             |   0    | milkman            |
-| 18 | --                | 2021-11-18 18:50:00 | rockhampton  |      9 |        2 | Villa Villekulla |   4    | vulture,pangea     |
-| 19 | --                | 2021-11-18 18:15:00 | rockhampton  |      8 |        5 | Anacheeva Lad    |   3.9  | pangea             |
-| 20 | --                | 2021-11-18 18:15:00 | rockhampton  |      8 |        1 | Black Monaco     |   5    | evenodds,overthrow |
+| 18 | :boom:            | 2021-11-18 18:50:00 | rockhampton  |      9 |        2 | Villa Villekulla |   4    | vulture,pangea     |
+| 19 | :3rd_place_medal: | 2021-11-18 18:15:00 | rockhampton  |      8 |        5 | Anacheeva Lad    |   3.9  | pangea             |
+| 20 | :2nd_place_medal: | 2021-11-18 18:15:00 | rockhampton  |      8 |        1 | Black Monaco     |   5    | evenodds,overthrow |
 | 21 | :3rd_place_medal: | 2021-11-18 17:37:00 | rockhampton  |      7 |        3 | Rhyme Nor Rhythm |   5    | pangea,overthrow   |
 | 22 | 5                 | 2021-11-18 17:37:00 | rockhampton  |      7 |        2 | Ahwahneechee     |   6.1  | pangea             |
 | 23 | 7                 | 2021-11-18 17:37:00 | rockhampton  |      7 |        8 | Boss Baby        |  10    | pangea             |
