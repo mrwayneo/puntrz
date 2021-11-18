@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-18 13:14:48 +1000  
+date: 2021-11-18 13:30:08 +1000  
 categories: None 
 ---   
 
@@ -43,9 +43,9 @@ categories: None
 | 0                 | 2021-11-15 | punchestown R4         | 1 Telmesomethinggirl |  0    |    -10   |
 | 8                 | 2021-11-14 | cairns R8              | 7 Buwan              | 18    |    -10   |
 | :3rd_place_medal: | 2021-11-14 | cairns R7              | 6 Ryano              | 21    |    -10   |
+| 8                 | 2021-11-14 | cairns R6              | 6 Akileos            |  8    |    -10   |
 | 5                 | 2021-11-14 | cairns R6              | 4 Deluxe Rocker      |  2.1  |    -10   |
 | :2nd_place_medal: | 2021-11-14 | cairns R6              | 3 Sylvester          |  7.5  |    -10   |
-| 8                 | 2021-11-14 | cairns R6              | 6 Akileos            |  8    |    -10   |
 | 6                 | 2021-11-14 | cairns R4              | 1 Fab's Cowboy       |  9    |    -10   |
 | :2nd_place_medal: | 2021-11-14 | cairns R4              | 2 Silent Explorer    |  2.9  |    -10   |
 | :3rd_place_medal: | 2021-11-14 | cairns R3              | 1 Galaxy Ghost       |  3.9  |    -10   |
@@ -57,8 +57,8 @@ categories: None
 | 12                | 2021-11-13 | ascot R6               | 3 Royal Command      | 14    |    -10   |
 | :boom:            | 2021-11-13 | ascot R6               | 8 Midnight Blue      |  3.8  |     28   |
 | 11                | 2021-11-13 | ascot R6               | 13 Temptacion        |  6    |    -10   |
-| :3rd_place_medal: | 2021-11-13 | doomben R9             | 12 Morethannumberone |  2.15 |    -10   |
 | 5                 | 2021-11-13 | doomben R9             | 5 Academy            |  7.5  |    -10   |
+| :3rd_place_medal: | 2021-11-13 | doomben R9             | 12 Morethannumberone |  2.15 |    -10   |
 | 0                 | 2021-11-13 | darwin R5              | 6 Extolment          |  0    |    -10   |
 | 7                 | 2021-11-13 | geraldton R4           | 3 Shecky Red         |  7.5  |    -10   |
 | :boom:            | 2021-11-13 | doomben R8             | 4 Tambo's Mate       |  3.3  |     23   |
@@ -113,8 +113,8 @@ categories: None
 | 0                 | 2021-11-07 | turffontein R7         | 3 Pamushana's Pride  |  0    |    -10   |
 | 0                 | 2021-11-07 | kenilworth R5          | 6 Native Tongue      |  0    |    -10   |
 | :boom:            | 2021-11-07 | turffontein R6         | 6 Hello Winter Hello | 14    |    130   |
-| :3rd_place_medal: | 2021-11-06 | ascot R9               | 5 Angelic Miss       |  7    |    -10   |
 | :boom:            | 2021-11-06 | ascot R9               | 14 Bright Diamond    |  2.7  |     17   |
+| :3rd_place_medal: | 2021-11-06 | ascot R9               | 5 Angelic Miss       |  7    |    -10   |
 | 5                 | 2021-11-06 | toowoomba R4           | 3 Raffalli           |  5.5  |    -10   |
 | :3rd_place_medal: | 2021-11-06 | toowoomba R3           | 2 Rhyme Time         |  5.5  |    -10   |
 | 6                 | 2021-11-06 | eagle-farm R8          | 5 Wonderful Riri     |  4.8  |    -10   |
@@ -155,8 +155,8 @@ categories: None
 | 5                 | 2021-11-04 | ipswich R3             | 3 Kessel Run         | 11    |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R5          | 1 Quiet Riot         |  5    |    -10   |
 | :boom:            | 2021-11-04 | ipswich R2             | 1 Motomiss           |  3.1  |     21   |
-| 5                 | 2021-11-04 | flemington R2          | 3 Zing               |  4    |    -10   |
 | 4                 | 2021-11-04 | flemington R2          | 1 Sirileo Miss       |  2.35 |    -10   |
+| 5                 | 2021-11-04 | flemington R2          | 3 Zing               |  4    |    -10   |
 | 4                 | 2021-11-03 | launceston R6          | 2 Balearic           |  8.5  |    -10   |
 | :boom:            | 2021-11-03 | port-lincoln R1        | 1 Spanish Heirloom   |  2.1  |     11   |
 | 0                 | 2021-11-03 | vaal R5                | 1 Western Fort       |  0    |    -10   |
@@ -210,8 +210,8 @@ categories: None
 | 5                 | 2021-10-30 | eagle-farm R10         | 2 Better Than Best   |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-10-30 | eagle-farm R10         | 6 Salateen           |  2.6  |    -10   |
 | 6                 | 2021-10-30 | gold-coast R8          | 6 Ossabuco           | 14    |    -10   |
-| :boom:            | 2021-10-30 | flemington R9          | 5 Minhaaj            |  3.7  |     27   |
 | 10                | 2021-10-30 | flemington R9          | 16 Never Talk        | 15    |    -10   |
+| :boom:            | 2021-10-30 | flemington R9          | 5 Minhaaj            |  3.7  |     27   |
 | 4                 | 2021-10-30 | eagle-farm R9          | 1 Animate            |  5    |    -10   |
 | 7                 | 2021-10-30 | rosehill R8            | 7 Redoute's Image    |  9.5  |    -10   |
 | 5                 | 2021-10-30 | morphettville R8       | 4 Ritratto           | 11    |    -10   |
