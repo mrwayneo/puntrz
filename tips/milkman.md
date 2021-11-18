@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-18 22:57:31 +1000  
+date: 2021-11-19 04:16:45 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     43 |      4 |   -277   | 0.09 | -0.64 |
-| Last 28 Days   |    127 |     16 |   -828.5 | 0.13 | -0.65 |
-| Last 6 Months  |    127 |     16 |   -828.5 | 0.13 | -0.65 |
-| Since Jan 2020 |    127 |     16 |   -828.5 | 0.13 | -0.65 |
+| Last 7 Days    |     20 |      3 |    -99   | 0.15 | -0.5  |
+| Last 28 Days   |    130 |     18 |   -797.5 | 0.14 | -0.61 |
+| Last 6 Months  |    130 |     18 |   -797.5 | 0.14 | -0.61 |
+| Since Jan 2020 |    130 |     18 |   -797.5 | 0.14 | -0.61 |
 
 | finish            | date       | event               | runner                |   win |   return |
 |:------------------|:-----------|:--------------------|:----------------------|------:|---------:|
-| 01:07             | 2021-11-19 | newcastle R4        | 1 Betty Baloo         |  2.1  |    -10   |
-| 0                 | 2021-11-18 | vaal R6             | 7 Zeus                |  0    |    -10   |
+| :2nd_place_medal: | 2021-11-19 | newcastle R4        | 1 Betty Baloo         |  2.1  |    -10   |
+| :boom:            | 2021-11-18 | vaal R6             | 7 Zeus                |  4.4  |     34   |
 | :boom:            | 2021-11-18 | hawkesbury R7       | 9 This'llbetheone     |  1.7  |      7   |
 | 4                 | 2021-11-18 | ffos-las R4         | 2 Nada To Prada       |  3.3  |    -10   |
 | :2nd_place_medal: | 2021-11-18 | warwick R4          | 5 Stepney Causeway    |  4.45 |    -10   |
@@ -79,8 +79,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-10 | huntingdon R7       | 1 Alazwar             |  1.5  |    -10   |
 | :boom:            | 2021-11-09 | huntingdon R1       | 7 Theatre Glory       |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3       | 3 Yes Dream           |  1.6  |      6   |
-| 4                 | 2021-11-09 | kempton R3          | 1 Fifrelet            |  5    |    -10   |
 | :boom:            | 2021-11-09 | kempton R3          | 3 Doddiethegreat      |  1.33 |      3.3 |
+| 4                 | 2021-11-09 | kempton R3          | 1 Fifrelet            |  5    |    -10   |
 | 0                 | 2021-11-08 | carlisle R1         | 9 Snowy Clouds        |  0    |    -10   |
 | 0                 | 2021-11-08 | sandown R7          | 1 Revasser            |  0    |    -10   |
 | :boom:            | 2021-11-08 | sandown R4          | 1 Chantry House       |  1.3  |      3   |

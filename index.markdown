@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-18 22:57:36 +1000  
+date: 2021-11-19 04:16:50 +1000  
 ---   
 
 
@@ -30,43 +30,43 @@ date: 2021-11-18 22:57:36 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    179 |     52 |    221.5 | 0.29 |  0.12 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    182 |     54 |    253.5 | 0.3  |  0.14 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     40 |     10 |    178.5 | 0.25 |  0.45 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    358 |     72 |   -149   | 0.2  | -0.04 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    198 |     60 |   -176.9 | 0.3  | -0.09 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    358 |     71 |   -177   | 0.2  | -0.05 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    199 |     60 |   -186.9 | 0.3  | -0.09 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     45 |      6 |   -229   | 0.13 | -0.51 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    346 |     87 |   -285.6 | 0.25 | -0.08 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    214 |     37 |   -652.5 | 0.17 | -0.3  |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    127 |     16 |   -828.5 | 0.13 | -0.65 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    347 |     87 |   -295.6 | 0.25 | -0.09 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    224 |     39 |   -712.5 | 0.17 | -0.32 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    130 |     18 |   -797.5 | 0.14 | -0.61 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    499 |    124 |  -1001   | 0.25 | -0.2  |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    722 |    102 |  -1376.6 | 0.14 | -0.19 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    603 |    152 |  -1378.5 | 0.25 | -0.23 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2048 |    471 |  -2235.7 | 0.23 | -0.11 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2629 |    139 |  -3325   | 0.05 | -0.13 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3080 |    685 |  -5983.2 | 0.22 | -0.19 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6374 |    915 | -11956.5 | 0.14 | -0.19 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8219 |    435 | -18483   | 0.05 | -0.22 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    724 |    103 |  -1361.6 | 0.14 | -0.19 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    607 |    154 |  -1370.5 | 0.25 | -0.23 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2056 |    474 |  -2337.7 | 0.23 | -0.11 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2627 |    139 |  -3305   | 0.05 | -0.13 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3083 |    688 |  -5959.9 | 0.22 | -0.19 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6373 |    916 | -11645.5 | 0.14 | -0.18 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8176 |    435 | -18318   | 0.05 | -0.22 |
 
 |    | finish            | time                | track        |   race |   number | name             |   odds | tipster            |
 |---:|:------------------|:--------------------|:-------------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | :soon:            | 2021-11-19 02:50:00 | wincanton    |      7 |        9 | New Zealander    |   3.75 | overthrow          |
-|  1 | :soon:            | 2021-11-19 02:25:00 | market-rasen |      7 |        6 | Sister Michael   |   9    | looseknot          |
-|  2 | :soon:            | 2021-11-19 02:25:00 | market-rasen |      7 |        7 | Springwell Bay   |   1.6  | vulture            |
-|  3 | :soon:            | 2021-11-19 02:25:00 | market-rasen |      7 |        8 | Urban Grit       |   5.5  | vulture            |
-|  4 | :soon:            | 2021-11-19 02:15:00 | wincanton    |      6 |        3 | Golden Taipan    |   3.3  | evenodds,overthrow |
-|  5 | :soon:            | 2021-11-19 02:15:00 | wincanton    |      6 |        1 | Thyme White      |   3    | overthrow          |
-|  6 | :soon:            | 2021-11-19 02:00:00 | thurles      |      7 |        4 | Keepthefaithinme |   1.3  | vulture            |
-|  7 | :soon:            | 2021-11-19 01:15:00 | wincanton    |      4 |        1 | Time To Tinker   |   2.2  | evenodds,overthrow |
-|  8 | :soon:            | 2021-11-19 01:15:00 | wincanton    |      4 |        2 | Royal Pretender  |   1.95 | vulture            |
-|  9 | :soon:            | 2021-11-19 01:07:00 | newcastle    |      4 |        1 | Betty Baloo      |   2.1  | milkman            |
-| 10 | :soon:            | 2021-11-19 01:00:00 | thurles      |      5 |       14 | Kilkenny Star    |   7.5  | looseknot          |
-| 11 | :soon:            | 2021-11-19 00:45:00 | wincanton    |      3 |        2 | Get The Game     |   4.6  | overthrow          |
-| 12 | :soon:            | 2021-11-19 00:15:00 | wincanton    |      2 |        2 | Atakan           |   7    | looseknot          |
-| 13 | :soon:            | 2021-11-19 00:07:00 | newcastle    |      2 |       12 | Our Idic Boy     |   7.5  | looseknot          |
-| 14 | :soon:            | 2021-11-19 00:00:00 | thurles      |      3 |        5 | Quantum Realm    |   3.25 | vulture            |
-| 15 | :soon:            | 2021-11-18 23:30:00 | thurles      |      2 |        6 | Pairc Na Ngael   |   4.5  | looseknot          |
-| 16 | :soon:            | 2021-11-18 23:00:00 | thurles      |      1 |        3 | Gabbys Cross     |  21    | pangea             |
-| 17 | --                | 2021-11-18 22:47:00 | vaal         |      6 |        7 | Zeus             |   0    | milkman            |
+|  0 | --                | 2021-11-19 02:50:00 | wincanton    |      7 |        9 | New Zealander    |   3.75 | overthrow          |
+|  1 | --                | 2021-11-19 02:25:00 | market-rasen |      7 |        6 | Sister Michael   |   9    | looseknot          |
+|  2 | :boom:            | 2021-11-19 02:25:00 | market-rasen |      7 |        7 | Springwell Bay   |   1.6  | vulture            |
+|  3 | :3rd_place_medal: | 2021-11-19 02:25:00 | market-rasen |      7 |        8 | Urban Grit       |   5.5  | vulture            |
+|  4 | :3rd_place_medal: | 2021-11-19 02:15:00 | wincanton    |      6 |        3 | Golden Taipan    |   3.3  | evenodds,overthrow |
+|  5 | :2nd_place_medal: | 2021-11-19 02:15:00 | wincanton    |      6 |        1 | Thyme White      |   3    | overthrow          |
+|  6 | :3rd_place_medal: | 2021-11-19 02:00:00 | thurles      |      7 |        4 | Keepthefaithinme |   1.3  | vulture            |
+|  7 | :boom:            | 2021-11-19 01:15:00 | wincanton    |      4 |        1 | Time To Tinker   |   2.2  | evenodds,overthrow |
+|  8 | :2nd_place_medal: | 2021-11-19 01:15:00 | wincanton    |      4 |        2 | Royal Pretender  |   1.95 | vulture            |
+|  9 | :2nd_place_medal: | 2021-11-19 01:07:00 | newcastle    |      4 |        1 | Betty Baloo      |   2.1  | milkman            |
+| 10 | --                | 2021-11-19 01:00:00 | thurles      |      5 |       14 | Kilkenny Star    |   7.5  | looseknot          |
+| 11 | :3rd_place_medal: | 2021-11-19 00:45:00 | wincanton    |      3 |        2 | Get The Game     |   4.6  | overthrow          |
+| 12 | 4                 | 2021-11-19 00:15:00 | wincanton    |      2 |        2 | Atakan           |   7    | looseknot          |
+| 13 | :boom:            | 2021-11-19 00:07:00 | newcastle    |      2 |       12 | Our Idic Boy     |   7.5  | looseknot          |
+| 14 | --                | 2021-11-19 00:00:00 | thurles      |      3 |        5 | Quantum Realm    |   3.25 | vulture            |
+| 15 | :boom:            | 2021-11-18 23:30:00 | thurles      |      2 |        6 | Pairc Na Ngael   |   4.5  | looseknot          |
+| 16 | 4                 | 2021-11-18 23:00:00 | thurles      |      1 |        3 | Gabbys Cross     |  21    | pangea             |
+| 17 | :boom:            | 2021-11-18 22:47:00 | vaal         |      6 |        7 | Zeus             |   0    | milkman            |
 | 18 | :boom:            | 2021-11-18 18:50:00 | rockhampton  |      9 |        2 | Villa Villekulla |   4    | vulture,pangea     |
 | 19 | :3rd_place_medal: | 2021-11-18 18:15:00 | rockhampton  |      8 |        5 | Anacheeva Lad    |   3.9  | pangea             |
 | 20 | :2nd_place_medal: | 2021-11-18 18:15:00 | rockhampton  |      8 |        1 | Black Monaco     |   5    | evenodds,overthrow |
