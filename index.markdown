@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-18 22:28:42 +1000  
+date: 2021-11-18 22:57:36 +1000  
 ---   
 
 
@@ -66,7 +66,7 @@ date: 2021-11-18 22:28:42 +1000
 | 14 | :soon:            | 2021-11-19 00:00:00 | thurles      |      3 |        5 | Quantum Realm    |   3.25 | vulture            |
 | 15 | :soon:            | 2021-11-18 23:30:00 | thurles      |      2 |        6 | Pairc Na Ngael   |   4.5  | looseknot          |
 | 16 | :soon:            | 2021-11-18 23:00:00 | thurles      |      1 |        3 | Gabbys Cross     |  21    | pangea             |
-| 17 | :soon:            | 2021-11-18 22:47:00 | vaal         |      6 |        7 | Zeus             |   0    | milkman            |
+| 17 | --                | 2021-11-18 22:47:00 | vaal         |      6 |        7 | Zeus             |   0    | milkman            |
 | 18 | :boom:            | 2021-11-18 18:50:00 | rockhampton  |      9 |        2 | Villa Villekulla |   4    | vulture,pangea     |
 | 19 | :3rd_place_medal: | 2021-11-18 18:15:00 | rockhampton  |      8 |        5 | Anacheeva Lad    |   3.9  | pangea             |
 | 20 | :2nd_place_medal: | 2021-11-18 18:15:00 | rockhampton  |      8 |        1 | Black Monaco     |   5    | evenodds,overthrow |
