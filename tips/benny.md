@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-11-18 13:44:49 +1000  
+date: 2021-11-18 13:59:54 +1000  
 categories: None 
 ---   
 
@@ -94,8 +94,8 @@ categories: None
 | :boom:            | 2021-10-09 | randwick R10            | 10 Leo                |  5.8  |     48   |
 | 10                | 2021-10-09 | randwick R9             | 10 Great News         |  4.4  |    -10   |
 | 8                 | 2021-10-09 | caulfield R9            | 4 Elephant            |  4.6  |    -10   |
-| 8                 | 2021-10-09 | eagle-farm R7           | 6 Ligulate            | 19    |    -10   |
 | :3rd_place_medal: | 2021-10-09 | eagle-farm R7           | 7 Vinco               |  5    |    -10   |
+| 8                 | 2021-10-09 | eagle-farm R7           | 6 Ligulate            | 19    |    -10   |
 | 5                 | 2021-10-09 | morphettville R7        | 6 Taken Off           |  6    |    -10   |
 | 7                 | 2021-10-09 | eagle-farm R6           | 4 Firebox             | 21    |    -10   |
 | 11                | 2021-10-09 | randwick R6             | 2 All Saints' Eve     | 11    |    -10   |
@@ -385,8 +385,8 @@ categories: None
 | 10                | 2021-05-08 | newcastle R7            | 5 Favra               |  8    |    -10   |
 | :2nd_place_medal: | 2021-05-08 | ascot R2                | 2 Born To Try         |  2.25 |    -10   |
 | 4                 | 2021-05-08 | gosford R6              | 1 Signore Fox         |  6    |    -10   |
-| 8                 | 2021-05-08 | morphettville R4        | 9 Calypso Reign       |  7    |    -10   |
 | 6                 | 2021-05-08 | morphettville R4        | 8 Secret Vega         | 23    |    -10   |
+| 8                 | 2021-05-08 | morphettville R4        | 9 Calypso Reign       |  7    |    -10   |
 | 4                 | 2021-05-08 | gosford R4              | 6 Blesk               |  5    |    -10   |
 | 8                 | 2021-05-08 | gold-coast R4           | 5 Capital Connection  | 21    |    -10   |
 | :boom:            | 2021-05-07 | albany R2               | 7 Kazkazi             |  3.5  |     25   |
@@ -465,8 +465,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-31 | doomben R6              | 3 Say Haya            |  6.1  |    -10   |
 | :boom:            | 2021-03-30 | mackay R4               | 5 Nailed It Nan       |  2.3  |     13   |
 | :boom:            | 2021-03-28 | hobart R3               | 1 Boris The Blade     |  1.8  |      8   |
-| :2nd_place_medal: | 2021-03-28 | kempton R3              | 5 Almighwar           |  4.6  |    -10   |
 | :boom:            | 2021-03-28 | kempton R3              | 1 Al Zaraqaan         |  2.05 |     10.5 |
+| :2nd_place_medal: | 2021-03-28 | kempton R3              | 5 Almighwar           |  4.6  |    -10   |
 | 6                 | 2021-03-27 | morphettville R4        | 10 Our Sustar         | 34    |    -10   |
 | 0                 | 2021-03-27 | rosehill R4             | 2 Sir Dragonet        |  0    |    -10   |
 | :boom:            | 2021-03-27 | bendigo R4              | 4 Fanciful Toff       |  2.4  |     14   |
@@ -544,8 +544,8 @@ categories: None
 | :3rd_place_medal: | 2021-02-05 | townsville R1           | 1 Attackabeel         |  1.4  |    -10   |
 | :3rd_place_medal: | 2021-01-30 | ascot R4                | 5 Phoneme             |  5    |    -10   |
 | 5                 | 2021-01-30 | caulfield R8            | 4 Maximak             | 11    |    -10   |
-| 6                 | 2021-01-30 | morphettville R6        | 7 Symphonette         | 18    |    -10   |
 | :boom:            | 2021-01-30 | morphettville R6        | 1 Behemoth            |  1.5  |      5   |
+| 6                 | 2021-01-30 | morphettville R6        | 7 Symphonette         | 18    |    -10   |
 | :2nd_place_medal: | 2021-01-30 | sunshine-coast R4       | 5 What the Fuss       |  4.45 |    -10   |
 | :boom:            | 2021-01-30 | morphettville R4        | 2 Soul Obsession      |  2.6  |     16   |
 | 8                 | 2021-01-28 | scone R6                | 1 Expiredtime         | 17    |    -10   |
