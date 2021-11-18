@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-11-18 17:29:49 +1000  
+date: 2021-11-18 18:23:53 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
-| 0                 | 2021-11-18 | hawkesbury R8     | 7 Yumi                |  0    |    -10   |
+| 7                 | 2021-11-18 | hawkesbury R8     | 7 Yumi                |  3.7  |    -10   |
 | :boom:            | 2021-11-18 | hawkesbury R7     | 9 This'llbetheone     |  1.7  |      7   |
 | :boom:            | 2021-11-18 | hawkesbury R5     | 1 Don Arcangelo       |  4.5  |     35   |
 | :2nd_place_medal: | 2021-11-17 | rosehill R6       | 4 Francesco Guardi    |  6    |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-18 17:29:50 +1000  
+date: 2021-11-18 18:23:54 +1000  
 ---   
 
 
@@ -68,12 +68,12 @@ date: 2021-11-18 17:29:50 +1000
 | 16 | :soon:            | 2021-11-18 23:00:00 | thurles      |      1 |        3 | Gabbys Cross     |  21    | pangea             |
 | 17 | :soon:            | 2021-11-18 22:47:00 | vaal         |      6 |        7 | Zeus             |   0    | milkman            |
 | 18 | :soon:            | 2021-11-18 18:50:00 | rockhampton  |      9 |        2 | Villa Villekulla |   4    | vulture,pangea     |
-| 19 | :soon:            | 2021-11-18 18:15:00 | rockhampton  |      8 |        5 | Anacheeva Lad    |   3.9  | pangea             |
-| 20 | :soon:            | 2021-11-18 18:15:00 | rockhampton  |      8 |        1 | Black Monaco     |   5    | evenodds,overthrow |
-| 21 | :soon:            | 2021-11-18 17:37:00 | rockhampton  |      7 |        3 | Rhyme Nor Rhythm |   5    | pangea,overthrow   |
-| 22 | :soon:            | 2021-11-18 17:37:00 | rockhampton  |      7 |        2 | Ahwahneechee     |   6.1  | pangea             |
-| 23 | :soon:            | 2021-11-18 17:37:00 | rockhampton  |      7 |        8 | Boss Baby        |  10    | pangea             |
-| 24 | --                | 2021-11-18 17:25:00 | hawkesbury   |      8 |        7 | Yumi             |   3.7  | jmac               |
+| 19 | --                | 2021-11-18 18:15:00 | rockhampton  |      8 |        5 | Anacheeva Lad    |   3.9  | pangea             |
+| 20 | --                | 2021-11-18 18:15:00 | rockhampton  |      8 |        1 | Black Monaco     |   5    | evenodds,overthrow |
+| 21 | :3rd_place_medal: | 2021-11-18 17:37:00 | rockhampton  |      7 |        3 | Rhyme Nor Rhythm |   5    | pangea,overthrow   |
+| 22 | 5                 | 2021-11-18 17:37:00 | rockhampton  |      7 |        2 | Ahwahneechee     |   6.1  | pangea             |
+| 23 | 7                 | 2021-11-18 17:37:00 | rockhampton  |      7 |        8 | Boss Baby        |  10    | pangea             |
+| 24 | 7                 | 2021-11-18 17:25:00 | hawkesbury   |      8 |        7 | Yumi             |   3.7  | jmac               |
 | 25 | :boom:            | 2021-11-18 16:50:00 | hawkesbury   |      7 |        9 | This'llbetheone  |   2.38 | evenodds,jmac      |
 | 26 | 5                 | 2021-11-18 16:42:00 | narrogin     |      1 |        2 | I'm A Dreamer    |   1.72 | vulture            |
 | 27 | :3rd_place_medal: | 2021-11-18 16:20:00 | rockhampton  |      5 |        2 | Bluindi          |   2.7  | pangea,icyhot      |
