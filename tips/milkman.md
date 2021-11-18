@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-18 10:04:18 +1000  
+date: 2021-11-18 13:14:49 +1000  
 categories: None 
 ---   
 
@@ -79,8 +79,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-10 | huntingdon R7       | 1 Alazwar             |  1.5  |    -10   |
 | :boom:            | 2021-11-09 | huntingdon R1       | 7 Theatre Glory       |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3       | 3 Yes Dream           |  1.6  |      6   |
-| 4                 | 2021-11-09 | kempton R3          | 1 Fifrelet            |  5    |    -10   |
 | :boom:            | 2021-11-09 | kempton R3          | 3 Doddiethegreat      |  1.33 |      3.3 |
+| 4                 | 2021-11-09 | kempton R3          | 1 Fifrelet            |  5    |    -10   |
 | 0                 | 2021-11-08 | carlisle R1         | 9 Snowy Clouds        |  0    |    -10   |
 | 0                 | 2021-11-08 | sandown R7          | 1 Revasser            |  0    |    -10   |
 | :boom:            | 2021-11-08 | sandown R4          | 1 Chantry House       |  1.3  |      3   |
