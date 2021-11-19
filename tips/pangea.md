@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-19 16:50:04 +1000  
+date: 2021-11-19 17:05:16 +1000  
 categories: None 
 ---   
 
@@ -27,9 +27,9 @@ categories: None
 | :3rd_place_medal: | 2021-11-18 | rockhampton R7         | 3 Rhyme Nor Rhythm   |  5    |    -10   |
 | 5                 | 2021-11-18 | rockhampton R7         | 2 Ahwahneechee       |  6.1  |    -10   |
 | 7                 | 2021-11-18 | rockhampton R7         | 8 Boss Baby          | 10    |    -10   |
-| :3rd_place_medal: | 2021-11-18 | rockhampton R5         | 2 Bluindi            |  2.7  |    -10   |
-| :2nd_place_medal: | 2021-11-18 | rockhampton R5         | 3 Eveready           |  7.5  |    -10   |
 | 7                 | 2021-11-18 | rockhampton R5         | 8 All Native         |  9    |    -10   |
+| :2nd_place_medal: | 2021-11-18 | rockhampton R5         | 3 Eveready           |  7.5  |    -10   |
+| :3rd_place_medal: | 2021-11-18 | rockhampton R5         | 2 Bluindi            |  2.7  |    -10   |
 | :boom:            | 2021-11-18 | rockhampton R2         | 6 Ollie's Stand      |  1.5  |      5   |
 | 4                 | 2021-11-18 | ffos-las R6            | 6 Hang Tough         | 11    |    -10   |
 | 0                 | 2021-11-18 | hexham R5              | 1 Donladd            |  0    |    -10   |
@@ -42,8 +42,8 @@ categories: None
 | 7                 | 2021-11-17 | doomben R7             | 8 Contessa           |  7.5  |    -10   |
 | :3rd_place_medal: | 2021-11-17 | rosehill R3            | 11 Comrade Rosa      |  3.7  |    -10   |
 | 0                 | 2021-11-17 | fakenham R4            | 2 Little Light       |  0    |    -10   |
-| 0                 | 2021-11-15 | turffontein R3         | 2 Spice Market       |  0    |    -10   |
 | :boom:            | 2021-11-15 | turffontein R3         | 9 Sacred Lotus       |  4.6  |     36   |
+| 0                 | 2021-11-15 | turffontein R3         | 2 Spice Market       |  0    |    -10   |
 | 4                 | 2021-11-15 | cheltenham R3          | 3 Rouge Vif          |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-15 | cheltenham R3          | 2 Politologue        |  5    |    -10   |
 | 0                 | 2021-11-15 | punchestown R4         | 1 Telmesomethinggirl |  0    |    -10   |
@@ -187,8 +187,8 @@ categories: None
 | :boom:            | 2021-11-02 | darwin R2              | 4 The Captain        |  3.1  |     21   |
 | :3rd_place_medal: | 2021-11-02 | darwin R2              | 3 Syncline           |  2.35 |    -10   |
 | 4                 | 2021-11-02 | darwin R2              | 5 Dizzy Miss Lizzy   |  4.8  |    -10   |
-| :2nd_place_medal: | 2021-11-02 | eagle-farm R4          | 7 Fetch              |  2.2  |    -10   |
 | :3rd_place_medal: | 2021-11-02 | eagle-farm R4          | 3 Ralph's Honour     |  4.6  |    -10   |
+| :2nd_place_medal: | 2021-11-02 | eagle-farm R4          | 7 Fetch              |  2.2  |    -10   |
 | 5                 | 2021-11-02 | canberra R5            | 5 Port Douglas       |  4.2  |    -10   |
 | 4                 | 2021-11-02 | ascot R1               | 7 Rebelzone          |  8    |    -10   |
 | :2nd_place_medal: | 2021-11-02 | gold-coast R2          | 3 Winside            |  3.6  |    -10   |
@@ -216,8 +216,8 @@ categories: None
 | 5                 | 2021-10-30 | eagle-farm R10         | 2 Better Than Best   |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-10-30 | eagle-farm R10         | 6 Salateen           |  2.6  |    -10   |
 | 6                 | 2021-10-30 | gold-coast R8          | 6 Ossabuco           | 14    |    -10   |
-| :boom:            | 2021-10-30 | flemington R9          | 5 Minhaaj            |  3.7  |     27   |
 | 10                | 2021-10-30 | flemington R9          | 16 Never Talk        | 15    |    -10   |
+| :boom:            | 2021-10-30 | flemington R9          | 5 Minhaaj            |  3.7  |     27   |
 | 4                 | 2021-10-30 | eagle-farm R9          | 1 Animate            |  5    |    -10   |
 | 7                 | 2021-10-30 | rosehill R8            | 7 Redoute's Image    |  9.5  |    -10   |
 | 5                 | 2021-10-30 | morphettville R8       | 4 Ritratto           | 11    |    -10   |
