@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-19 17:05:17 +1000  
+date: 2021-11-19 17:23:34 +1000  
 categories: None 
 ---   
 
@@ -20,7 +20,7 @@ categories: None
 | 23:55             | 2021-11-19 | ascot R2            | 5 Golden Boy Grey     | 16    |    -10   |
 | 23:55             | 2021-11-19 | ascot R2            | 1 Faivoir             |  2.5  |    -10   |
 | 23:20             | 2021-11-19 | ascot R1            | 5 Kincardine          |  2.9  |    -10   |
-| 17:15             | 2021-11-19 | grafton R8          | 5 Thunder Moon        |  2.88 |    -10   |
+| 0                 | 2021-11-19 | grafton R8          | 5 Thunder Moon        |  0    |    -10   |
 | :boom:            | 2021-11-19 | orange R7           | 3 O'not A Doubt       |  4.5  |     35   |
 | :2nd_place_medal: | 2021-11-19 | newcastle R4        | 1 Betty Baloo         |  2.1  |    -10   |
 | :boom:            | 2021-11-18 | vaal R6             | 7 Zeus                |  4.4  |     34   |
