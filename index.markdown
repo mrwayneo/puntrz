@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-19 16:32:02 +1000  
+date: 2021-11-19 16:50:09 +1000  
 ---   
 
 
@@ -71,9 +71,9 @@ date: 2021-11-19 16:32:02 +1000
 | 19 | :soon:            | 2021-11-19 17:15:00 | grafton          |      8 |        4 | Tabulam           |   7.5  | moechilli          |
 | 20 | :soon:            | 2021-11-19 17:15:00 | grafton          |      8 |        5 | Thunder Moon      |   2.88 | milkman            |
 | 21 | :soon:            | 2021-11-19 16:59:00 | ipswich          |      6 |        1 | Frankie Blue Eyes |   7    | overthrow          |
-| 22 | :soon:            | 2021-11-19 16:49:00 | orange           |      7 |        3 | O'not A Doubt     |   3.75 | milkman            |
-| 23 | --                | 2021-11-19 16:25:00 | naracoorte       |      4 |        2 | Rhythmatic        |   5    | pangea             |
-| 24 | --                | 2021-11-19 16:19:00 | ipswich          |      5 |        5 | Sunrise Dancer    |   4.4  | pangea             |
+| 22 | --                | 2021-11-19 16:49:00 | orange           |      7 |        3 | O'not A Doubt     |   3.75 | milkman            |
+| 23 | 7                 | 2021-11-19 16:25:00 | naracoorte       |      4 |        2 | Rhythmatic        |   5    | pangea             |
+| 24 | 8                 | 2021-11-19 16:19:00 | ipswich          |      5 |        5 | Sunrise Dancer    |   4.4  | pangea             |
 | 25 | --                | 2021-11-19 16:11:00 | pukekura-raceway |      7 |        2 | Darci La Bella    |   5    | overthrow          |
 | 26 | 9                 | 2021-11-19 15:55:00 | grafton          |      6 |        1 | Laphroaig         |   5    | looseknot          |
 | 27 | --                | 2021-11-19 15:02:00 | pukekura-raceway |      5 |        9 | Sophistical       |   4.8  | blackshadow        |
