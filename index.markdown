@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-19 22:48:21 +1000  
+date: 2021-11-20 06:15:53 +1000  
 ---   
 
 
@@ -31,42 +31,42 @@ date: 2021-11-19 22:48:21 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    182 |     54 |    253.5 | 0.3  |  0.14 |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     40 |     10 |    178.5 | 0.25 |  0.45 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    358 |     71 |   -177   | 0.2  | -0.05 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     41 |     10 |    168.5 | 0.24 |  0.41 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    357 |     71 |   -167   | 0.2  | -0.05 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    199 |     60 |   -186.9 | 0.3  | -0.09 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     45 |      6 |   -229   | 0.13 | -0.51 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    347 |     87 |   -295.6 | 0.25 | -0.09 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    224 |     39 |   -712.5 | 0.17 | -0.32 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    130 |     18 |   -797.5 | 0.14 | -0.61 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    499 |    124 |  -1001   | 0.25 | -0.2  |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    724 |    103 |  -1361.6 | 0.14 | -0.19 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    607 |    154 |  -1370.5 | 0.25 | -0.23 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2056 |    474 |  -2337.7 | 0.23 | -0.11 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2627 |    139 |  -3305   | 0.05 | -0.13 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3083 |    688 |  -5959.9 | 0.22 | -0.19 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6373 |    916 | -11645.5 | 0.14 | -0.18 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8176 |    435 | -18318   | 0.05 | -0.22 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    349 |     87 |   -315.6 | 0.25 | -0.09 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    230 |     40 |   -747.5 | 0.17 | -0.32 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    137 |     21 |   -772.5 | 0.15 | -0.56 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    492 |    121 |  -1047   | 0.25 | -0.21 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    723 |    104 |  -1322.6 | 0.14 | -0.18 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    608 |    154 |  -1380.5 | 0.25 | -0.23 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2067 |    475 |  -2443.2 | 0.23 | -0.12 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2633 |    140 |  -3216   | 0.05 | -0.12 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3082 |    687 |  -6017.9 | 0.22 | -0.2  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6436 |    919 | -12091   | 0.14 | -0.19 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8154 |    436 | -17980   | 0.05 | -0.22 |
 
 |    | finish            | time                | track            |   race |   number | name              |   odds | tipster            |
 |---:|:------------------|:--------------------|:-----------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:            | 2021-11-20 02:15:00 | ascot            |      6 |        3 | Getaround         |   3    | overthrow          |
-|  1 | :soon:            | 2021-11-20 02:15:00 | ascot            |      6 |        1 | Jatiluwih         |   6.5  | vulture            |
-|  2 | :soon:            | 2021-11-20 01:40:00 | ascot            |      5 |        7 | Captain Morgs     |   4.2  | overthrow          |
-|  3 | :soon:            | 2021-11-20 01:40:00 | ascot            |      5 |        3 | Cabot Cliffs      |   7.5  | overthrow          |
-|  4 | :soon:            | 2021-11-20 01:40:00 | ascot            |      5 |        2 | Garry Clermont    |   7    | vulture            |
-|  5 | :soon:            | 2021-11-20 01:05:00 | ascot            |      4 |        1 | Red Risk          |   7.5  | overthrow          |
-|  6 | :soon:            | 2021-11-20 01:05:00 | ascot            |      4 |        4 | Lust For Glory    |  17    | overthrow          |
-|  7 | :soon:            | 2021-11-20 01:05:00 | ascot            |      4 |        7 | Flegmatik         |   4    | overthrow          |
-|  8 | :soon:            | 2021-11-20 00:55:00 | catterick        |      4 |        1 | Minella Trump     |   0    | vulture            |
-|  9 | :soon:            | 2021-11-20 00:40:00 | fairview         |      7 |        1 | Global Drummer    |   0    | milkman            |
-| 10 | :soon:            | 2021-11-20 00:30:00 | ascot            |      3 |        4 | Tweed Skirt       |   3.75 | overthrow          |
-| 11 | :soon:            | 2021-11-20 00:30:00 | ascot            |      3 |        1 | Go Dante          |   1.26 | vulture,milkman    |
-| 12 | :soon:            | 2021-11-19 23:55:00 | ascot            |      2 |        3 | Cascova           |   4    | evenodds,overthrow |
-| 13 | :soon:            | 2021-11-19 23:55:00 | ascot            |      2 |        1 | Faivoir           |   2.5  | pangea,milkman     |
-| 14 | :soon:            | 2021-11-19 23:20:00 | ascot            |      1 |        5 | Kincardine        |   2.9  | evenodds,milkman   |
-| 15 | :soon:            | 2021-11-19 23:20:00 | ascot            |      1 |        3 | Pull Again Green  |   4.6  | evenodds,overthrow |
-| 16 | :soon:            | 2021-11-19 23:20:00 | ascot            |      1 |        4 | Hidden Heroics    |  15    | overthrow          |
-| 17 | :soon:            | 2021-11-19 23:00:00 | chepstow         |      1 |        1 | No No Juliet      |   0    | overthrow          |
+|  0 | :3rd_place_medal: | 2021-11-20 02:15:00 | ascot            |      6 |        3 | Getaround         |   3    | overthrow          |
+|  1 | 4                 | 2021-11-20 02:15:00 | ascot            |      6 |        1 | Jatiluwih         |   6.5  | vulture            |
+|  2 | :boom:            | 2021-11-20 01:40:00 | ascot            |      5 |        7 | Captain Morgs     |   4.2  | overthrow          |
+|  3 | 4                 | 2021-11-20 01:40:00 | ascot            |      5 |        3 | Cabot Cliffs      |   7.5  | overthrow          |
+|  4 | :2nd_place_medal: | 2021-11-20 01:40:00 | ascot            |      5 |        2 | Garry Clermont    |   7    | vulture            |
+|  5 | --                | 2021-11-20 01:05:00 | ascot            |      4 |        1 | Red Risk          |   7.5  | overthrow          |
+|  6 | --                | 2021-11-20 01:05:00 | ascot            |      4 |        4 | Lust For Glory    |  17    | overthrow          |
+|  7 | 4                 | 2021-11-20 01:05:00 | ascot            |      4 |        7 | Flegmatik         |   4    | overthrow          |
+|  8 | :boom:            | 2021-11-20 00:55:00 | catterick        |      4 |        1 | Minella Trump     |   0    | vulture            |
+|  9 | :boom:            | 2021-11-20 00:40:00 | fairview         |      7 |        1 | Global Drummer    |   0    | milkman            |
+| 10 | :boom:            | 2021-11-20 00:30:00 | ascot            |      3 |        4 | Tweed Skirt       |   3.75 | overthrow          |
+| 11 | :2nd_place_medal: | 2021-11-20 00:30:00 | ascot            |      3 |        1 | Go Dante          |   1.26 | vulture,milkman    |
+| 12 | --                | 2021-11-19 23:55:00 | ascot            |      2 |        3 | Cascova           |   4    | evenodds,overthrow |
+| 13 | :boom:            | 2021-11-19 23:55:00 | ascot            |      2 |        1 | Faivoir           |   2.5  | pangea,milkman     |
+| 14 | --                | 2021-11-19 23:20:00 | ascot            |      1 |        5 | Kincardine        |   2.9  | evenodds,milkman   |
+| 15 | :2nd_place_medal: | 2021-11-19 23:20:00 | ascot            |      1 |        3 | Pull Again Green  |   4.6  | evenodds,overthrow |
+| 16 | :3rd_place_medal: | 2021-11-19 23:20:00 | ascot            |      1 |        4 | Hidden Heroics    |  15    | overthrow          |
+| 17 | 6                 | 2021-11-19 23:00:00 | chepstow         |      1 |        1 | No No Juliet      |   0    | overthrow          |
 | 18 | :3rd_place_medal: | 2021-11-19 17:55:00 | grafton          |      9 |        6 | Sidekiss          |   5    | pangea             |
 | 19 | :2nd_place_medal: | 2021-11-19 17:15:00 | grafton          |      8 |        4 | Tabulam           |   7.5  | moechilli          |
 | 20 | --                | 2021-11-19 17:15:00 | grafton          |      8 |        5 | Thunder Moon      |   2.88 | milkman            |

@@ -1,25 +1,25 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-19 22:48:15 +1000  
+date: 2021-11-20 06:15:48 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     20 |      3 |    -99   | 0.15 | -0.5  |
-| Last 28 Days   |    130 |     18 |   -797.5 | 0.14 | -0.61 |
-| Last 6 Months  |    130 |     18 |   -797.5 | 0.14 | -0.61 |
-| Since Jan 2020 |    130 |     18 |   -797.5 | 0.14 | -0.61 |
+| Last 7 Days    |     18 |      5 |    -24   | 0.28 | -0.13 |
+| Last 28 Days   |    137 |     21 |   -772.5 | 0.15 | -0.56 |
+| Last 6 Months  |    137 |     21 |   -772.5 | 0.15 | -0.56 |
+| Since Jan 2020 |    137 |     21 |   -772.5 | 0.15 | -0.56 |
 
 | finish            | date       | event               | runner                |   win |   return |
 |:------------------|:-----------|:--------------------|:----------------------|------:|---------:|
-| 00:40             | 2021-11-20 | fairview R7         | 1 Global Drummer      |  0    |    -10   |
-| 00:30             | 2021-11-20 | ascot R3            | 1 Go Dante            |  1.26 |    -10   |
-| 23:55             | 2021-11-19 | ascot R2            | 5 Golden Boy Grey     | 16    |    -10   |
-| 23:55             | 2021-11-19 | ascot R2            | 1 Faivoir             |  2.5  |    -10   |
-| 23:20             | 2021-11-19 | ascot R1            | 5 Kincardine          |  2.9  |    -10   |
+| :boom:            | 2021-11-20 | fairview R7         | 1 Global Drummer      |  2.5  |     15   |
+| :2nd_place_medal: | 2021-11-20 | ascot R3            | 1 Go Dante            |  1.26 |    -10   |
+| 0                 | 2021-11-19 | ascot R2            | 5 Golden Boy Grey     |  0    |    -10   |
+| :boom:            | 2021-11-19 | ascot R2            | 1 Faivoir             |  2.5  |     15   |
+| 0                 | 2021-11-19 | ascot R1            | 5 Kincardine          |  0    |    -10   |
 | 0                 | 2021-11-19 | grafton R8          | 5 Thunder Moon        |  0    |    -10   |
 | :boom:            | 2021-11-19 | orange R7           | 3 O'not A Doubt       |  4.5  |     35   |
 | :2nd_place_medal: | 2021-11-19 | newcastle R4        | 1 Betty Baloo         |  2.1  |    -10   |
