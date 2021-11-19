@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-19 14:02:53 +1000  
+date: 2021-11-19 14:38:09 +1000  
 ---   
 
 
@@ -78,7 +78,7 @@ date: 2021-11-19 14:02:53 +1000
 | 26 | :soon:            | 2021-11-19 15:55:00 | grafton          |      6 |        1 | Laphroaig         |   5    | looseknot          |
 | 27 | :soon:            | 2021-11-19 15:02:00 | pukekura-raceway |      5 |        9 | Sophistical       |   4.8  | blackshadow        |
 | 28 | :soon:            | 2021-11-19 15:02:00 | pukekura-raceway |      5 |        1 | Kid Roc           |   7.5  | pangea             |
-| 29 | :soon:            | 2021-11-19 14:15:00 | terang           |      3 |        8 | Charm And Disarm  |   3.9  | looseknot          |
+| 29 | :boom:            | 2021-11-19 14:15:00 | terang           |      3 |        8 | Charm And Disarm  |   3.9  | looseknot          |
 | 30 | :2nd_place_medal: | 2021-11-19 13:30:00 | grafton          |      2 |        9 | Lady Rain         |   4.33 | overthrow          |
 | 31 | --                | 2021-11-19 13:17:00 | pukekura-raceway |      2 |        7 | Wicked Romance    |   6.5  | looseknot          |
 | 32 | --                | 2021-11-19 13:17:00 | pukekura-raceway |      2 |        3 | Graciano          |   4.6  | blackshadow        |
