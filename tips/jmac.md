@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-11-20 07:51:10 +1000  
+date: 2021-11-20 10:28:10 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,12 @@ categories: None
 
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
+| 18:00             | 2021-11-20 | kembla-grange R10 | 8 Dynamic Impact      |  3.4  |    -10   |
+| 16:00             | 2021-11-20 | kembla-grange R7  | 3 Malkovich           |  2.2  |    -10   |
+| 14:40             | 2021-11-20 | kembla-grange R5  | 3 Selburose           |  3.8  |    -10   |
+| 14:05             | 2021-11-20 | kembla-grange R4  | 7 Rammstein           |  4    |    -10   |
+| 12:55             | 2021-11-20 | kembla-grange R2  | 6 Shelby Sixtysix     |  8    |    -10   |
+| 12:20             | 2021-11-20 | kembla-grange R1  | 6 Suppression         |  3.5  |    -10   |
 | 7                 | 2021-11-18 | hawkesbury R8     | 7 Yumi                |  3.7  |    -10   |
 | :boom:            | 2021-11-18 | hawkesbury R7     | 9 This'llbetheone     |  1.7  |      7   |
 | :boom:            | 2021-11-18 | hawkesbury R5     | 1 Don Arcangelo       |  4.5  |     35   |

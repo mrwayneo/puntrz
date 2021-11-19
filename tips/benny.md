@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-11-20 07:51:05 +1000  
+date: 2021-11-20 10:28:03 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,15 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
+| 17:52             | 2021-11-20 | morphettville-parks R9  | 4 Dr Dee Dee          | 15    |    -10   |
+| 16:48             | 2021-11-20 | sunshine-coast R7       | 7 Totally Charmed     | 14    |    -10   |
+| 16:48             | 2021-11-20 | sunshine-coast R7       | 2 Zoustyle            |  2.62 |    -10   |
+| 16:26             | 2021-11-20 | darwin R2               | 3 Syncline            |  2.8  |    -10   |
+| 15:57             | 2021-11-20 | roma R4                 | 8 Phionaix            |  5.6  |    -10   |
+| 15:57             | 2021-11-20 | roma R4                 | 2 Patented            |  3    |    -10   |
+| 14:40             | 2021-11-20 | kembla-grange R5        | 1 Incredulous Dream   |  7    |    -10   |
+| 13:38             | 2021-11-20 | sunshine-coast R2       | 11 Tru Blu Tango      | 18    |    -10   |
+| 12:55             | 2021-11-20 | kembla-grange R2        | 3 Brother Bassy       | 14    |    -10   |
 | :2nd_place_medal: | 2021-11-18 | rockhampton R5          | 3 Eveready            |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-17 | launceston R7           | 6 Boom Dot Com        |  6.5  |    -10   |
 | 9                 | 2021-11-17 | belmont R9              | 5 Savvy Dan           | 12    |    -10   |
@@ -544,8 +553,8 @@ categories: None
 | :3rd_place_medal: | 2021-02-05 | townsville R1           | 1 Attackabeel         |  1.4  |    -10   |
 | :3rd_place_medal: | 2021-01-30 | ascot R4                | 5 Phoneme             |  5    |    -10   |
 | 5                 | 2021-01-30 | caulfield R8            | 4 Maximak             | 11    |    -10   |
-| :boom:            | 2021-01-30 | morphettville R6        | 1 Behemoth            |  1.5  |      5   |
 | 6                 | 2021-01-30 | morphettville R6        | 7 Symphonette         | 18    |    -10   |
+| :boom:            | 2021-01-30 | morphettville R6        | 1 Behemoth            |  1.5  |      5   |
 | :2nd_place_medal: | 2021-01-30 | sunshine-coast R4       | 5 What the Fuss       |  4.45 |    -10   |
 | :boom:            | 2021-01-30 | morphettville R4        | 2 Soul Obsession      |  2.6  |     16   |
 | 8                 | 2021-01-28 | scone R6                | 1 Expiredtime         | 17    |    -10   |

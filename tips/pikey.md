@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-20 07:51:10 +1000  
+date: 2021-11-20 10:28:10 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,14 @@ categories: None
 
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
+| 20:57             | 2021-11-20 | ascot R10             | 11 God Has Chosen     |  2.7  |    -10   |
+| 20:20             | 2021-11-20 | ascot R9              | 9 Bright Diamond      |  2.75 |    -10   |
+| 19:05             | 2021-11-20 | ascot R7              | 13 Treasured Star     |  2.3  |    -10   |
+| 18:25             | 2021-11-20 | ascot R6              | 5 Royal Command       | 16    |    -10   |
+| 17:45             | 2021-11-20 | ascot R5              | 10 Real Danger        |  7.5  |    -10   |
+| 17:05             | 2021-11-20 | ascot R4              | 3 Proconsent          |  2.62 |    -10   |
+| 16:25             | 2021-11-20 | ascot R3              | 8 Expressionist       |  5    |    -10   |
+| 15:05             | 2021-11-20 | ascot R1              | 1 Pure Devotion       |  1.8  |    -10   |
 | 4                 | 2021-11-17 | belmont R9            | 7 Antique Jewel       |  2.4  |    -10   |
 | :boom:            | 2021-11-17 | belmont R7            | 5 Memorable Miss      |  3.8  |     28   |
 | 7                 | 2021-11-17 | belmont R6            | 4 Airlie Queen        |  5    |    -10   |
