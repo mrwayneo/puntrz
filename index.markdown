@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-19 17:41:34 +1000  
+date: 2021-11-19 17:58:49 +1000  
 ---   
 
 
@@ -67,7 +67,7 @@ date: 2021-11-19 17:41:34 +1000
 | 15 | :soon:            | 2021-11-19 23:20:00 | ascot            |      1 |        3 | Pull Again Green  |   4.6  | evenodds,overthrow |
 | 16 | :soon:            | 2021-11-19 23:20:00 | ascot            |      1 |        4 | Hidden Heroics    |  15    | overthrow          |
 | 17 | :soon:            | 2021-11-19 23:00:00 | chepstow         |      1 |        1 | No No Juliet      |   0    | overthrow          |
-| 18 | :soon:            | 2021-11-19 17:55:00 | grafton          |      9 |        6 | Sidekiss          |   5    | pangea             |
+| 18 | --                | 2021-11-19 17:55:00 | grafton          |      9 |        6 | Sidekiss          |   5    | pangea             |
 | 19 | :2nd_place_medal: | 2021-11-19 17:15:00 | grafton          |      8 |        4 | Tabulam           |   7.5  | moechilli          |
 | 20 | --                | 2021-11-19 17:15:00 | grafton          |      8 |        5 | Thunder Moon      |   2.88 | milkman            |
 | 21 | 5                 | 2021-11-19 16:59:00 | ipswich          |      6 |        1 | Frankie Blue Eyes |   7    | overthrow          |
