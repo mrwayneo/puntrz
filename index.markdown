@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-19 15:23:40 +1000  
+date: 2021-11-19 16:01:58 +1000  
 ---   
 
 
@@ -75,7 +75,7 @@ date: 2021-11-19 15:23:40 +1000
 | 23 | :soon:            | 2021-11-19 16:25:00 | naracoorte       |      4 |        2 | Rhythmatic        |   5    | pangea             |
 | 24 | :soon:            | 2021-11-19 16:19:00 | ipswich          |      5 |        5 | Sunrise Dancer    |   4.4  | pangea             |
 | 25 | :soon:            | 2021-11-19 16:11:00 | pukekura-raceway |      7 |        2 | Darci La Bella    |   5    | overthrow          |
-| 26 | :soon:            | 2021-11-19 15:55:00 | grafton          |      6 |        1 | Laphroaig         |   5    | looseknot          |
+| 26 | --                | 2021-11-19 15:55:00 | grafton          |      6 |        1 | Laphroaig         |   5    | looseknot          |
 | 27 | --                | 2021-11-19 15:02:00 | pukekura-raceway |      5 |        9 | Sophistical       |   4.8  | blackshadow        |
 | 28 | --                | 2021-11-19 15:02:00 | pukekura-raceway |      5 |        1 | Kid Roc           |   7.5  | pangea             |
 | 29 | :boom:            | 2021-11-19 14:15:00 | terang           |      3 |        8 | Charm And Disarm  |   3.9  | looseknot          |
