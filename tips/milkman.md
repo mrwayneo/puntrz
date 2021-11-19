@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-19 07:51:45 +1000  
+date: 2021-11-19 13:23:03 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,13 @@ categories: None
 
 | finish            | date       | event               | runner                |   win |   return |
 |:------------------|:-----------|:--------------------|:----------------------|------:|---------:|
+| 00:40             | 2021-11-20 | fairview R7         | 1 Global Drummer      |  0    |    -10   |
+| 00:30             | 2021-11-20 | ascot R3            | 1 Go Dante            |  1.26 |    -10   |
+| 23:55             | 2021-11-19 | ascot R2            | 5 Golden Boy Grey     | 16    |    -10   |
+| 23:55             | 2021-11-19 | ascot R2            | 1 Faivoir             |  2.5  |    -10   |
+| 23:20             | 2021-11-19 | ascot R1            | 5 Kincardine          |  2.9  |    -10   |
+| 17:15             | 2021-11-19 | grafton R8          | 5 Thunder Moon        |  2.88 |    -10   |
+| 16:49             | 2021-11-19 | orange R7           | 3 O'not A Doubt       |  3.75 |    -10   |
 | :2nd_place_medal: | 2021-11-19 | newcastle R4        | 1 Betty Baloo         |  2.1  |    -10   |
 | :boom:            | 2021-11-18 | vaal R6             | 7 Zeus                |  4.4  |     34   |
 | :boom:            | 2021-11-18 | hawkesbury R7       | 9 This'llbetheone     |  1.7  |      7   |
