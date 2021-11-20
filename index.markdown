@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-20 21:05:57 +1000  
+date: 2021-11-20 21:20:58 +1000  
 ---   
 
 
@@ -76,10 +76,10 @@ date: 2021-11-20 21:05:57 +1000
 |  24 | :soon:            | 2021-11-20 23:10:00 | haydock             |      1 |        1 | Sonigino           |   7    | evenodds,milkman     |
 |  25 | :soon:            | 2021-11-20 22:35:00 | lingfield           |      1 |        5 | Marion's Boy       |   0    | vulture              |
 |  26 | :soon:            | 2021-11-20 22:24:00 | toowoomba           |      9 |        8 | Imadgic            |   1.55 | overthrow            |
-|  27 | :soon:            | 2021-11-20 21:10:00 | toowoomba           |      7 |        4 | Telephone Booth    |  16    | vulture,milkman      |
-|  28 | :soon:            | 2021-11-20 21:10:00 | toowoomba           |      7 |        6 | Lemon Lover        |  19    | vulture              |
-|  29 | --                | 2021-11-20 20:57:00 | ascot               |     10 |       11 | God Has Chosen     |   2.7  | pangea,pikey         |
-|  30 | --                | 2021-11-20 20:57:00 | ascot               |     10 |        8 | Timely Outburst    |   4    | pangea               |
+|  27 | --                | 2021-11-20 21:10:00 | toowoomba           |      7 |        4 | Telephone Booth    |  16    | vulture,milkman      |
+|  28 | --                | 2021-11-20 21:10:00 | toowoomba           |      7 |        6 | Lemon Lover        |  19    | vulture              |
+|  29 | :2nd_place_medal: | 2021-11-20 20:57:00 | ascot               |     10 |       11 | God Has Chosen     |   2.7  | pangea,pikey         |
+|  30 | 6                 | 2021-11-20 20:57:00 | ascot               |     10 |        8 | Timely Outburst    |   4    | pangea               |
 |  31 | :boom:            | 2021-11-20 20:20:00 | ascot               |      9 |       11 | Angelic Miss       |   4.4  | pangea               |
 |  32 | 5                 | 2021-11-20 20:20:00 | ascot               |      9 |        9 | Bright Diamond     |   2.75 | evenodds,pikey       |
 |  33 | 5                 | 2021-11-20 19:05:00 | ascot               |      7 |       10 | Buzzoom            |   4.75 | overthrow            |
