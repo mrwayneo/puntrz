@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-20 17:23:30 +1000  
+date: 2021-11-20 17:39:15 +1000  
 ---   
 
 
@@ -98,8 +98,8 @@ date: 2021-11-20 17:23:30 +1000
 |  46 | :soon:            | 2021-11-20 17:45:00 | ascot               |      5 |       10 | Real Danger        |   7.5  | overthrow,pikey      |
 |  47 | :soon:            | 2021-11-20 17:42:00 | darwin              |      4 |        1 | Robe de Fete       |   2.9  | overthrow            |
 |  48 | :soon:            | 2021-11-20 17:42:00 | darwin              |      4 |        7 | Extolment          |  16.2  | pangea               |
-|  49 | :soon:            | 2021-11-20 17:35:00 | gosford             |      8 |        6 | Noble Beauty       |   6.5  | milkman              |
-|  50 | --                | 2021-11-20 17:12:00 | morphettville-parks |      8 |        4 | Ideas Man          |  10    | vulture              |
+|  49 | --                | 2021-11-20 17:35:00 | gosford             |      8 |        6 | Noble Beauty       |   6.5  | milkman              |
+|  50 | 4                 | 2021-11-20 17:12:00 | morphettville-parks |      8 |        4 | Ideas Man          |  10    | vulture              |
 |  51 | :2nd_place_medal: | 2021-11-20 17:09:00 | gold-coast          |      9 |        9 | Storm Attack       |   7    | pangea,blackshadow   |
 |  52 | --                | 2021-11-20 17:09:00 | gold-coast          |      9 |        3 | Tesarc             |   4.05 | pangea               |
 |  53 | 7                 | 2021-11-20 17:06:00 | darwin              |      3 |        2 | Shenanigan City    |  12    | overthrow            |
