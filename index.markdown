@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-20 16:41:31 +1000  
+date: 2021-11-20 17:03:22 +1000  
 ---   
 
 
@@ -107,25 +107,25 @@ date: 2021-11-20 16:41:31 +1000
 |  55 | :soon:            | 2021-11-20 17:05:00 | ascot               |      4 |        2 | Ginger Flyer       |   7    | icyhot               |
 |  56 | :soon:            | 2021-11-20 17:05:00 | ascot               |      4 |        1 | Come Right Back    |  20    | pangea               |
 |  57 | :soon:            | 2021-11-20 17:05:00 | ascot               |      4 |        3 | Proconsent         |   2.62 | vulture,pikey        |
-|  58 | :soon:            | 2021-11-20 16:55:00 | gosford             |      7 |        4 | Azarmin            |   4.4  | pangea               |
-|  59 | :soon:            | 2021-11-20 16:48:00 | sunshine-coast      |      7 |        4 | Shooting For Gold  |   4.75 | vulture,pangea       |
-|  60 | :soon:            | 2021-11-20 16:48:00 | sunshine-coast      |      7 |        2 | Zoustyle           |   2.62 | benny,icyhot         |
-|  61 | :soon:            | 2021-11-20 16:48:00 | sunshine-coast      |      7 |        7 | Totally Charmed    |  14    | benny,icyhot         |
+|  58 | --                | 2021-11-20 16:55:00 | gosford             |      7 |        4 | Azarmin            |   4.4  | pangea               |
+|  59 | :3rd_place_medal: | 2021-11-20 16:48:00 | sunshine-coast      |      7 |        4 | Shooting For Gold  |   4.75 | vulture,pangea       |
+|  60 | :boom:            | 2021-11-20 16:48:00 | sunshine-coast      |      7 |        2 | Zoustyle           |   2.62 | benny,icyhot         |
+|  61 | :2nd_place_medal: | 2021-11-20 16:48:00 | sunshine-coast      |      7 |        7 | Totally Charmed    |  14    | benny,icyhot         |
 |  62 | :2nd_place_medal: | 2021-11-20 16:32:00 | morphettville-parks |      7 |        2 | Full Probe         |   3.4  | vulture              |
 |  63 | :boom:            | 2021-11-20 16:26:00 | darwin              |      2 |        3 | Syncline           |   2.8  | benny,overthrow      |
-|  64 | --                | 2021-11-20 16:26:00 | darwin              |      2 |        7 | Good Therapy       |  41    | pangea               |
+|  64 | 6                 | 2021-11-20 16:26:00 | darwin              |      2 |        7 | Good Therapy       |  41    | pangea               |
 |  65 | :boom:            | 2021-11-20 16:25:00 | ascot               |      3 |        8 | Expressionist      |   5    | pikey                |
 |  66 | :3rd_place_medal: | 2021-11-20 16:15:00 | gosford             |      6 |        6 | Sungblue           |   3.95 | milkman              |
 |  67 | :2nd_place_medal: | 2021-11-20 16:08:00 | sunshine-coast      |      6 |        2 | Glorious Ruby      |   7.5  | pangea               |
-|  68 | --                | 2021-11-20 16:08:00 | sunshine-coast      |      6 |        3 | Stellar Magic      |   4.75 | pangea               |
+|  68 | 5                 | 2021-11-20 16:08:00 | sunshine-coast      |      6 |        3 | Stellar Magic      |   4.75 | pangea               |
 |  69 | :3rd_place_medal: | 2021-11-20 16:08:00 | sunshine-coast      |      6 |       12 | Muschialli         |   8.5  | icyhot               |
-|  70 | --                | 2021-11-20 16:08:00 | sunshine-coast      |      6 |       13 | Enabler            |   8.5  | vulture              |
+|  70 | 12                | 2021-11-20 16:08:00 | sunshine-coast      |      6 |       13 | Enabler            |   8.5  | vulture              |
 |  71 | :boom:            | 2021-11-20 16:08:00 | sunshine-coast      |      6 |        9 | Coco Rox           |  23    | vulture              |
 |  72 | :2nd_place_medal: | 2021-11-20 16:00:00 | kembla-grange       |      7 |        3 | Malkovich          |   2.2  | pangea,jmac          |
-|  73 | --                | 2021-11-20 15:57:00 | roma                |      4 |        3 | Nick the Skip      |   8.1  | overthrow            |
-|  74 | --                | 2021-11-20 15:57:00 | roma                |      4 |        8 | Phionaix           |   5.6  | benny,pangea         |
+|  73 | 4                 | 2021-11-20 15:57:00 | roma                |      4 |        3 | Nick the Skip      |   8.1  | overthrow            |
+|  74 | :2nd_place_medal: | 2021-11-20 15:57:00 | roma                |      4 |        8 | Phionaix           |   5.6  | benny,pangea         |
 |  75 | --                | 2021-11-20 15:57:00 | roma                |      4 |        1 | V J Day            |   4.4  | pangea,icyhot        |
-|  76 | --                | 2021-11-20 15:57:00 | roma                |      4 |        2 | Patented           |   3    | benny,icyhot         |
+|  76 | :boom:            | 2021-11-20 15:57:00 | roma                |      4 |        2 | Patented           |   3    | benny,icyhot         |
 |  77 | :soon:            | 2021-11-20 15:57:00 | roma                |      4 |        4 | Wait A Minute      |   4.6  | benny,pangea         |
 |  78 | 7                 | 2021-11-20 15:46:00 | darwin              |      1 |        3 | Lionel             |   9    | overthrow            |
 |  79 | :boom:            | 2021-11-20 15:40:00 | ballarat            |      7 |        9 | Just Benjamin      |  10.2  | pangea               |
