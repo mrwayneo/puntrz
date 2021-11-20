@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-11-20 17:39:14 +1000  
+date: 2021-11-20 18:01:18 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
-| 18:00             | 2021-11-20 | kembla-grange R10 | 8 Dynamic Impact      |  3.4  |    -10   |
+| 0                 | 2021-11-20 | kembla-grange R10 | 8 Dynamic Impact      |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-20 | kembla-grange R7  | 3 Malkovich           |  2.2  |    -10   |
 | 8                 | 2021-11-20 | kembla-grange R5  | 3 Selburose           |  3.8  |    -10   |
 | :2nd_place_medal: | 2021-11-20 | kembla-grange R4  | 7 Rammstein           |  4    |    -10   |

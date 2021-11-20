@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-20 17:39:10 +1000  
+date: 2021-11-20 18:01:14 +1000  
 categories: None 
 ---   
 
@@ -20,8 +20,8 @@ categories: None
 | 21:10             | 2021-11-20 | toowoomba R7           | 4 Telephone Booth     | 16    |    -10   |
 | 19:05             | 2021-11-20 | ascot R7               | 5 He's A Lucky Lad    | 26    |    -10   |
 | 18:12             | 2021-11-20 | sunshine-coast R9      | 6 Sir Warwick         |  3.4  |    -10   |
-| 17:45             | 2021-11-20 | ascot R5               | 11 Sparkling Blue     |  6    |    -10   |
-| 0                 | 2021-11-20 | gosford R8             | 6 Noble Beauty        |  0    |    -10   |
+| 6                 | 2021-11-20 | ascot R5               | 11 Sparkling Blue     |  6    |    -10   |
+| :3rd_place_medal: | 2021-11-20 | gosford R8             | 6 Noble Beauty        |  6.5  |    -10   |
 | :3rd_place_medal: | 2021-11-20 | gosford R6             | 6 Sungblue            |  3.95 |    -10   |
 | :boom:            | 2021-11-20 | ballarat R4            | 6 Duchess Of Dorset   |  1.8  |      8   |
 | 5                 | 2021-11-20 | sunshine-coast R2      | 4 Lepreezy            | 11    |    -10   |
@@ -101,8 +101,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-10 | huntingdon R7          | 1 Alazwar             |  1.5  |    -10   |
 | :boom:            | 2021-11-09 | huntingdon R1          | 7 Theatre Glory       |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3          | 3 Yes Dream           |  1.6  |      6   |
-| 4                 | 2021-11-09 | kempton R3             | 1 Fifrelet            |  5    |    -10   |
 | :boom:            | 2021-11-09 | kempton R3             | 3 Doddiethegreat      |  1.33 |      3.3 |
+| 4                 | 2021-11-09 | kempton R3             | 1 Fifrelet            |  5    |    -10   |
 | 0                 | 2021-11-08 | carlisle R1            | 9 Snowy Clouds        |  0    |    -10   |
 | 0                 | 2021-11-08 | sandown R7             | 1 Revasser            |  0    |    -10   |
 | :boom:            | 2021-11-08 | sandown R4             | 1 Chantry House       |  1.3  |      3   |
