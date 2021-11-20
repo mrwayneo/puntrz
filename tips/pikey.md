@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-20 20:50:59 +1000  
+date: 2021-11-20 21:05:57 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
-| 20:57             | 2021-11-20 | ascot R10             | 11 God Has Chosen     |  2.7  |    -10   |
+| 0                 | 2021-11-20 | ascot R10             | 11 God Has Chosen     |  0    |    -10   |
 | 5                 | 2021-11-20 | ascot R9              | 9 Bright Diamond      |  2.75 |    -10   |
 | :boom:            | 2021-11-20 | ascot R7              | 13 Treasured Star     |  2.8  |     18   |
 | 10                | 2021-11-20 | ascot R6              | 5 Royal Command       | 16    |    -10   |
