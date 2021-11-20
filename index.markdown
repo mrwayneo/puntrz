@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-20 13:07:45 +1000  
+date: 2021-11-20 13:50:26 +1000  
 ---   
 
 
@@ -146,16 +146,16 @@ date: 2021-11-20 13:07:45 +1000
 |  94 | :soon:            | 2021-11-20 14:05:00 | kembla-grange       |      4 |        6 | El Buena           |   6.5  | pangea,wallbow       |
 |  95 | :soon:            | 2021-11-20 13:57:00 | morphettville-parks |      3 |        2 | Mayameen           |  12    | pangea               |
 |  96 | :soon:            | 2021-11-20 13:55:00 | te-rapa             |      7 |       10 | Zee Falls          |  13.2  | vulture              |
-|  97 | :soon:            | 2021-11-20 13:45:00 | ballarat            |      4 |        6 | Duchess Of Dorset  |   2.1  | milkman              |
+|  97 | --                | 2021-11-20 13:45:00 | ballarat            |      4 |        6 | Duchess Of Dorset  |   2.1  | milkman              |
 |  98 | :soon:            | 2021-11-20 13:45:00 | ballarat            |      4 |       11 | Way To Go Paula    |   5.5  | pangea               |
-|  99 | :soon:            | 2021-11-20 13:38:00 | sunshine-coast      |      2 |        4 | Lepreezy           |  11    | milkman              |
-| 100 | :soon:            | 2021-11-20 13:38:00 | sunshine-coast      |      2 |        2 | Aleysa's Dream     |   5    | pangea               |
-| 101 | :soon:            | 2021-11-20 13:38:00 | sunshine-coast      |      2 |       11 | Tru Blu Tango      |  18    | benny,pangea         |
-| 102 | :soon:            | 2021-11-20 13:38:00 | sunshine-coast      |      2 |        5 | Avocado Sunset     |   4.33 | pangea               |
-| 103 | :soon:            | 2021-11-20 13:30:00 | kembla-grange       |      3 |        4 | Satin Ribbons      |   3.4  | milkman              |
-| 104 | :soon:            | 2021-11-20 13:10:00 | ballarat            |      3 |        2 | Nothing Silly      |  11    | milkman              |
-| 105 | --                | 2021-11-20 13:03:00 | sunshine-coast      |      1 |        4 | Sneaky Starter     |   7.5  | milkman              |
-| 106 | --                | 2021-11-20 12:55:00 | kembla-grange       |      2 |        6 | Shelby Sixtysix    |   8    | jmac                 |
+|  99 | --                | 2021-11-20 13:38:00 | sunshine-coast      |      2 |        4 | Lepreezy           |  11    | milkman              |
+| 100 | :2nd_place_medal: | 2021-11-20 13:38:00 | sunshine-coast      |      2 |        2 | Aleysa's Dream     |   5    | pangea               |
+| 101 | --                | 2021-11-20 13:38:00 | sunshine-coast      |      2 |       11 | Tru Blu Tango      |  18    | benny,pangea         |
+| 102 | --                | 2021-11-20 13:38:00 | sunshine-coast      |      2 |        5 | Avocado Sunset     |   4.33 | pangea               |
+| 103 | :2nd_place_medal: | 2021-11-20 13:30:00 | kembla-grange       |      3 |        4 | Satin Ribbons      |   3.4  | milkman              |
+| 104 | 6                 | 2021-11-20 13:10:00 | ballarat            |      3 |        2 | Nothing Silly      |  11    | milkman              |
+| 105 | 4                 | 2021-11-20 13:03:00 | sunshine-coast      |      1 |        4 | Sneaky Starter     |   7.5  | milkman              |
+| 106 | 8                 | 2021-11-20 12:55:00 | kembla-grange       |      2 |        6 | Shelby Sixtysix    |   8    | jmac                 |
 | 107 | --                | 2021-11-20 12:55:00 | kembla-grange       |      2 |        3 | Brother Bassy      |  14    | benny,pangea         |
 | 108 | 4                 | 2021-11-20 12:51:00 | morphettville-parks |      1 |        3 | Eyes Never Lie     |   2.8  | milkman              |
 | 109 | :2nd_place_medal: | 2021-11-20 12:46:00 | gold-coast          |      2 |        4 | Dark Son           |   7    | evenodds,overthrow   |

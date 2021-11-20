@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-11-20 13:07:39 +1000  
+date: 2021-11-20 13:50:19 +1000  
 categories: None 
 ---   
 
@@ -22,7 +22,7 @@ categories: None
 | 15:57             | 2021-11-20 | roma R4                 | 8 Phionaix            |  5.6  |    -10   |
 | 15:57             | 2021-11-20 | roma R4                 | 2 Patented            |  3    |    -10   |
 | 14:40             | 2021-11-20 | kembla-grange R5        | 1 Incredulous Dream   |  7    |    -10   |
-| 13:38             | 2021-11-20 | sunshine-coast R2       | 11 Tru Blu Tango      | 18    |    -10   |
+| 0                 | 2021-11-20 | sunshine-coast R2       | 11 Tru Blu Tango      |  0    |    -10   |
 | 0                 | 2021-11-20 | kembla-grange R2        | 3 Brother Bassy       |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-18 | rockhampton R5          | 3 Eveready            |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-17 | launceston R7           | 6 Boom Dot Com        |  6.5  |    -10   |
@@ -553,8 +553,8 @@ categories: None
 | :3rd_place_medal: | 2021-02-05 | townsville R1           | 1 Attackabeel         |  1.4  |    -10   |
 | :3rd_place_medal: | 2021-01-30 | ascot R4                | 5 Phoneme             |  5    |    -10   |
 | 5                 | 2021-01-30 | caulfield R8            | 4 Maximak             | 11    |    -10   |
-| 6                 | 2021-01-30 | morphettville R6        | 7 Symphonette         | 18    |    -10   |
 | :boom:            | 2021-01-30 | morphettville R6        | 1 Behemoth            |  1.5  |      5   |
+| 6                 | 2021-01-30 | morphettville R6        | 7 Symphonette         | 18    |    -10   |
 | :2nd_place_medal: | 2021-01-30 | sunshine-coast R4       | 5 What the Fuss       |  4.45 |    -10   |
 | :boom:            | 2021-01-30 | morphettville R4        | 2 Soul Obsession      |  2.6  |     16   |
 | 8                 | 2021-01-28 | scone R6                | 1 Expiredtime         | 17    |    -10   |
