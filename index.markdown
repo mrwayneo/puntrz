@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-20 14:39:26 +1000  
+date: 2021-11-20 15:11:25 +1000  
 ---   
 
 
@@ -129,16 +129,16 @@ date: 2021-11-20 14:39:26 +1000
 |  77 | :soon:            | 2021-11-20 15:57:00 | roma                |      4 |        4 | Wait A Minute      |   4.6  | benny,pangea         |
 |  78 | :soon:            | 2021-11-20 15:46:00 | darwin              |      1 |        3 | Lionel             |   9    | overthrow            |
 |  79 | :soon:            | 2021-11-20 15:40:00 | ballarat            |      7 |        9 | Just Benjamin      |  10.2  | pangea               |
-|  80 | :soon:            | 2021-11-20 15:05:00 | ascot               |      1 |        3 | Reliable Star      |   3    | vulture              |
-|  81 | :soon:            | 2021-11-20 15:05:00 | ascot               |      1 |        1 | Pure Devotion      |   1.8  | evenodds,pikey       |
-|  82 | :soon:            | 2021-11-20 14:55:00 | gosford             |      4 |        8 | Millennium Jewel   |   7    | vulture              |
-|  83 | :soon:            | 2021-11-20 14:42:00 | roma                |      2 |        7 | Mori's Press       |   2.1  | evenodds,overthrow   |
-|  84 | :soon:            | 2021-11-20 14:42:00 | roma                |      2 |        1 | Laurie             |   3.4  | vulture              |
-|  85 | :soon:            | 2021-11-20 14:42:00 | roma                |      2 |        4 | Big Talk           |  16    | vulture              |
-|  86 | :soon:            | 2021-11-20 14:42:00 | roma                |      2 |        5 | Mishani Ghost      |  23    | evenodds,blackshadow |
-|  87 | :soon:            | 2021-11-20 14:40:00 | kembla-grange       |      5 |        1 | Incredulous Dream  |   7    | benny,pangea         |
-|  88 | :soon:            | 2021-11-20 14:40:00 | kembla-grange       |      5 |        5 | Tinker McPhee      |  10    | pangea,wallbow       |
-|  89 | :soon:            | 2021-11-20 14:40:00 | kembla-grange       |      5 |        3 | Selburose          |   3.8  | vulture,jmac         |
+|  80 | :2nd_place_medal: | 2021-11-20 15:05:00 | ascot               |      1 |        3 | Reliable Star      |   3    | vulture              |
+|  81 | :boom:            | 2021-11-20 15:05:00 | ascot               |      1 |        1 | Pure Devotion      |   1.8  | evenodds,pikey       |
+|  82 | 5                 | 2021-11-20 14:55:00 | gosford             |      4 |        8 | Millennium Jewel   |   7    | vulture              |
+|  83 | --                | 2021-11-20 14:42:00 | roma                |      2 |        7 | Mori's Press       |   2.1  | evenodds,overthrow   |
+|  84 | --                | 2021-11-20 14:42:00 | roma                |      2 |        1 | Laurie             |   3.4  | vulture              |
+|  85 | --                | 2021-11-20 14:42:00 | roma                |      2 |        4 | Big Talk           |  16    | vulture              |
+|  86 | --                | 2021-11-20 14:42:00 | roma                |      2 |        5 | Mishani Ghost      |  23    | evenodds,blackshadow |
+|  87 | :2nd_place_medal: | 2021-11-20 14:40:00 | kembla-grange       |      5 |        1 | Incredulous Dream  |   7    | benny,pangea         |
+|  88 | 7                 | 2021-11-20 14:40:00 | kembla-grange       |      5 |        5 | Tinker McPhee      |  10    | pangea,wallbow       |
+|  89 | 8                 | 2021-11-20 14:40:00 | kembla-grange       |      5 |        3 | Selburose          |   3.8  | vulture,jmac         |
 |  90 | :boom:            | 2021-11-20 14:30:00 | te-rapa             |      8 |        1 | Showoroses         |  10    | overthrow            |
 |  91 | :boom:            | 2021-11-20 14:13:00 | sunshine-coast      |      3 |        6 | Karlstad           |   3.8  | vulture,pangea       |
 |  92 | --                | 2021-11-20 14:13:00 | sunshine-coast      |      3 |        3 | Neutron            |   2.2  | vulture              |
