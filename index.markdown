@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-20 13:50:26 +1000  
+date: 2021-11-20 14:39:26 +1000  
 ---   
 
 
@@ -139,19 +139,19 @@ date: 2021-11-20 13:50:26 +1000
 |  87 | :soon:            | 2021-11-20 14:40:00 | kembla-grange       |      5 |        1 | Incredulous Dream  |   7    | benny,pangea         |
 |  88 | :soon:            | 2021-11-20 14:40:00 | kembla-grange       |      5 |        5 | Tinker McPhee      |  10    | pangea,wallbow       |
 |  89 | :soon:            | 2021-11-20 14:40:00 | kembla-grange       |      5 |        3 | Selburose          |   3.8  | vulture,jmac         |
-|  90 | :soon:            | 2021-11-20 14:30:00 | te-rapa             |      8 |        1 | Showoroses         |  10    | overthrow            |
-|  91 | :soon:            | 2021-11-20 14:13:00 | sunshine-coast      |      3 |        6 | Karlstad           |   3.8  | vulture,pangea       |
-|  92 | :soon:            | 2021-11-20 14:13:00 | sunshine-coast      |      3 |        3 | Neutron            |   2.2  | vulture              |
-|  93 | :soon:            | 2021-11-20 14:05:00 | kembla-grange       |      4 |        7 | Rammstein          |   4    | pangea,jmac          |
-|  94 | :soon:            | 2021-11-20 14:05:00 | kembla-grange       |      4 |        6 | El Buena           |   6.5  | pangea,wallbow       |
-|  95 | :soon:            | 2021-11-20 13:57:00 | morphettville-parks |      3 |        2 | Mayameen           |  12    | pangea               |
-|  96 | :soon:            | 2021-11-20 13:55:00 | te-rapa             |      7 |       10 | Zee Falls          |  13.2  | vulture              |
-|  97 | --                | 2021-11-20 13:45:00 | ballarat            |      4 |        6 | Duchess Of Dorset  |   2.1  | milkman              |
+|  90 | :boom:            | 2021-11-20 14:30:00 | te-rapa             |      8 |        1 | Showoroses         |  10    | overthrow            |
+|  91 | :boom:            | 2021-11-20 14:13:00 | sunshine-coast      |      3 |        6 | Karlstad           |   3.8  | vulture,pangea       |
+|  92 | --                | 2021-11-20 14:13:00 | sunshine-coast      |      3 |        3 | Neutron            |   2.2  | vulture              |
+|  93 | :2nd_place_medal: | 2021-11-20 14:05:00 | kembla-grange       |      4 |        7 | Rammstein          |   4    | pangea,jmac          |
+|  94 | :3rd_place_medal: | 2021-11-20 14:05:00 | kembla-grange       |      4 |        6 | El Buena           |   6.5  | pangea,wallbow       |
+|  95 | 7                 | 2021-11-20 13:57:00 | morphettville-parks |      3 |        2 | Mayameen           |  12    | pangea               |
+|  96 | --                | 2021-11-20 13:55:00 | te-rapa             |      7 |       10 | Zee Falls          |  13.2  | vulture              |
+|  97 | :boom:            | 2021-11-20 13:45:00 | ballarat            |      4 |        6 | Duchess Of Dorset  |   2.1  | milkman              |
 |  98 | :soon:            | 2021-11-20 13:45:00 | ballarat            |      4 |       11 | Way To Go Paula    |   5.5  | pangea               |
-|  99 | --                | 2021-11-20 13:38:00 | sunshine-coast      |      2 |        4 | Lepreezy           |  11    | milkman              |
+|  99 | 5                 | 2021-11-20 13:38:00 | sunshine-coast      |      2 |        4 | Lepreezy           |  11    | milkman              |
 | 100 | :2nd_place_medal: | 2021-11-20 13:38:00 | sunshine-coast      |      2 |        2 | Aleysa's Dream     |   5    | pangea               |
 | 101 | --                | 2021-11-20 13:38:00 | sunshine-coast      |      2 |       11 | Tru Blu Tango      |  18    | benny,pangea         |
-| 102 | --                | 2021-11-20 13:38:00 | sunshine-coast      |      2 |        5 | Avocado Sunset     |   4.33 | pangea               |
+| 102 | 9                 | 2021-11-20 13:38:00 | sunshine-coast      |      2 |        5 | Avocado Sunset     |   4.33 | pangea               |
 | 103 | :2nd_place_medal: | 2021-11-20 13:30:00 | kembla-grange       |      3 |        4 | Satin Ribbons      |   3.4  | milkman              |
 | 104 | 6                 | 2021-11-20 13:10:00 | ballarat            |      3 |        2 | Nothing Silly      |  11    | milkman              |
 | 105 | 4                 | 2021-11-20 13:03:00 | sunshine-coast      |      1 |        4 | Sneaky Starter     |   7.5  | milkman              |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2021-11-20 13:50:21 +1000  
+date: 2021-11-20 14:39:21 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
 | 18:00             | 2021-11-20 | kembla-grange R10 | 6 Zegalo           |  8.5  |      -10 |
 | 14:40             | 2021-11-20 | kembla-grange R5  | 5 Tinker McPhee    | 10    |      -10 |
-| 14:05             | 2021-11-20 | kembla-grange R4  | 6 El Buena         |  6.5  |      -10 |
+| :3rd_place_medal: | 2021-11-20 | kembla-grange R4  | 6 El Buena         |  6.5  |      -10 |
 | 5                 | 2021-11-20 | kembla-grange R1  | 4 Solar Apex       |  8.5  |      -10 |
 | 11                | 2021-11-17 | rosehill R3       | 3 Aslav            | 20    |      -10 |
 | 4                 | 2021-11-02 | randwick R4       | 4 Gracilistyla     |  2.7  |      -10 |
