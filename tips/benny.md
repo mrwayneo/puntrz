@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-11-20 22:52:28 +1000  
+date: 2021-11-21 06:02:22 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
-| Last 28 Days   |     48 |      7 |   -153.5 | 0.15 | -0.32 |
-| Last 6 Months  |    381 |     79 |   -124   | 0.21 | -0.03 |
-| Since Jan 2020 |    565 |    120 |   -473.5 | 0.21 | -0.08 |
+| Last 7 Days    |     12 |      3 |    -32   | 0.25 | -0.27 |
+| Last 28 Days   |     57 |     10 |   -155.5 | 0.18 | -0.27 |
+| Last 6 Months  |    390 |     82 |   -126   | 0.21 | -0.03 |
+| Since Jan 2020 |    574 |    123 |   -475.5 | 0.21 | -0.08 |
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
@@ -553,8 +553,8 @@ categories: None
 | :3rd_place_medal: | 2021-02-05 | townsville R1           | 1 Attackabeel         |  1.4  |    -10   |
 | :3rd_place_medal: | 2021-01-30 | ascot R4                | 5 Phoneme             |  5    |    -10   |
 | 5                 | 2021-01-30 | caulfield R8            | 4 Maximak             | 11    |    -10   |
-| :boom:            | 2021-01-30 | morphettville R6        | 1 Behemoth            |  1.5  |      5   |
 | 6                 | 2021-01-30 | morphettville R6        | 7 Symphonette         | 18    |    -10   |
+| :boom:            | 2021-01-30 | morphettville R6        | 1 Behemoth            |  1.5  |      5   |
 | :2nd_place_medal: | 2021-01-30 | sunshine-coast R4       | 5 What the Fuss       |  4.45 |    -10   |
 | :boom:            | 2021-01-30 | morphettville R4        | 2 Soul Obsession      |  2.6  |     16   |
 | 8                 | 2021-01-28 | scone R6                | 1 Expiredtime         | 17    |    -10   |

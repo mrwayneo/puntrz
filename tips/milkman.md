@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-20 22:52:29 +1000  
+date: 2021-11-21 06:02:24 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     18 |      5 |    -24   | 0.28 | -0.13 |
-| Last 28 Days   |    137 |     21 |   -772.5 | 0.15 | -0.56 |
-| Last 6 Months  |    137 |     21 |   -772.5 | 0.15 | -0.56 |
-| Since Jan 2020 |    137 |     21 |   -772.5 | 0.15 | -0.56 |
+| Last 7 Days    |     32 |      6 |   -146   | 0.19 | -0.46 |
+| Last 28 Days   |    152 |     22 |   -904.5 | 0.14 | -0.6  |
+| Last 6 Months  |    152 |     22 |   -904.5 | 0.14 | -0.6  |
+| Since Jan 2020 |    152 |     22 |   -904.5 | 0.14 | -0.6  |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 02:50             | 2021-11-21 | ascot R7               | 1 Another Mystery     |  0    |    -10   |
-| 23:10             | 2021-11-20 | haydock R1             | 1 Sonigino            |  7    |    -10   |
+| 0                 | 2021-11-21 | ascot R7               | 1 Another Mystery     |  0    |    -10   |
+| :3rd_place_medal: | 2021-11-20 | haydock R1             | 1 Sonigino            |  7    |    -10   |
 | 0                 | 2021-11-20 | toowoomba R7           | 4 Telephone Booth     |  0    |    -10   |
 | 6                 | 2021-11-20 | ascot R7               | 5 He's A Lucky Lad    | 26    |    -10   |
 | 6                 | 2021-11-20 | sunshine-coast R9      | 6 Sir Warwick         |  3.4  |    -10   |
@@ -101,8 +101,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-10 | huntingdon R7          | 1 Alazwar             |  1.5  |    -10   |
 | :boom:            | 2021-11-09 | huntingdon R1          | 7 Theatre Glory       |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3          | 3 Yes Dream           |  1.6  |      6   |
-| 4                 | 2021-11-09 | kempton R3             | 1 Fifrelet            |  5    |    -10   |
 | :boom:            | 2021-11-09 | kempton R3             | 3 Doddiethegreat      |  1.33 |      3.3 |
+| 4                 | 2021-11-09 | kempton R3             | 1 Fifrelet            |  5    |    -10   |
 | 0                 | 2021-11-08 | carlisle R1            | 9 Snowy Clouds        |  0    |    -10   |
 | 0                 | 2021-11-08 | sandown R7             | 1 Revasser            |  0    |    -10   |
 | :boom:            | 2021-11-08 | sandown R4             | 1 Chantry House       |  1.3  |      3   |

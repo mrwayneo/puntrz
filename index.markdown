@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-20 22:52:34 +1000  
+date: 2021-11-21 06:02:29 +1000  
 ---   
 
 
@@ -30,50 +30,50 @@ date: 2021-11-20 22:52:34 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    182 |     54 |    253.5 | 0.3  |  0.14 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    188 |     55 |    220.5 | 0.29 |  0.12 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     41 |     10 |    168.5 | 0.24 |  0.41 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    357 |     71 |   -167   | 0.2  | -0.05 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    199 |     60 |   -186.9 | 0.3  | -0.09 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     45 |      6 |   -229   | 0.13 | -0.51 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    349 |     87 |   -315.6 | 0.25 | -0.09 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    230 |     40 |   -747.5 | 0.17 | -0.32 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    137 |     21 |   -772.5 | 0.15 | -0.56 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    492 |    121 |  -1047   | 0.25 | -0.21 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    723 |    104 |  -1322.6 | 0.14 | -0.18 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    608 |    154 |  -1380.5 | 0.25 | -0.23 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2067 |    475 |  -2443.2 | 0.23 | -0.12 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2633 |    140 |  -3216   | 0.05 | -0.12 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3082 |    687 |  -6017.9 | 0.22 | -0.2  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6436 |    919 | -12091   | 0.14 | -0.19 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8154 |    436 | -17980   | 0.05 | -0.22 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    366 |     74 |   -169   | 0.2  | -0.05 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    205 |     62 |   -199.9 | 0.3  | -0.1  |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     49 |      6 |   -269   | 0.12 | -0.55 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    356 |     89 |   -348.6 | 0.25 | -0.1  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    273 |     48 |   -892.5 | 0.18 | -0.33 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    152 |     22 |   -904.5 | 0.14 | -0.6  |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    500 |    125 |  -1001   | 0.25 | -0.2  |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    717 |    104 |  -1262.6 | 0.15 | -0.18 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    612 |    157 |  -1369   | 0.26 | -0.22 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2091 |    485 |  -2310.2 | 0.23 | -0.11 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2626 |    140 |  -3146   | 0.05 | -0.12 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3113 |    698 |  -5736.4 | 0.22 | -0.18 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6422 |    919 | -11951   | 0.14 | -0.19 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8101 |    436 | -17450   | 0.05 | -0.22 |
 
 |     | finish            | time                | track               |   race |   number | name               |   odds | tipster              |
 |----:|:------------------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|   0 | :soon:            | 2021-11-21 05:30:00 | wolverhampton       |      5 |       11 | Yantarni           |   0    | vulture              |
-|   1 | :soon:            | 2021-11-21 02:50:00 | ascot               |      7 |        1 | Another Mystery    |   0    | vulture,milkman      |
-|   2 | :soon:            | 2021-11-21 02:50:00 | ascot               |      7 |        9 | Our Jester         |   0    | vulture              |
-|   3 | :soon:            | 2021-11-21 02:23:00 | gowran-park         |      7 |        2 | Cute Cherry        |   0    | vulture              |
-|   4 | :soon:            | 2021-11-21 02:00:00 | haydock             |      6 |        6 | Next Destination   |   8    | overthrow            |
-|   5 | :soon:            | 2021-11-21 01:40:00 | ascot               |      5 |        3 | Buzz               |   2.1  | overthrow            |
-|   6 | :soon:            | 2021-11-21 01:25:00 | haydock             |      5 |        5 | Storm Arising      |  31    | overthrow            |
-|   7 | :soon:            | 2021-11-21 01:25:00 | haydock             |      5 |       15 | Riggs              |   6.5  | overthrow            |
-|   8 | :soon:            | 2021-11-21 01:25:00 | haydock             |      5 |       10 | Flight Deck        |   9    | vulture              |
-|   9 | :soon:            | 2021-11-21 01:25:00 | haydock             |      5 |        4 | Stoney Mountain    |  15    | vulture              |
-|  10 | :soon:            | 2021-11-21 01:13:00 | gowran-park         |      5 |        3 | Saint Felicien     |   0    | vulture              |
-|  11 | :soon:            | 2021-11-21 01:05:00 | ascot               |      4 |        6 | Pistol Whipped     |  13    | overthrow            |
-|  12 | :soon:            | 2021-11-21 00:50:00 | haydock             |      4 |        3 | Bravemansgame      |   1.6  | evenodds,overthrow   |
-|  13 | :soon:            | 2021-11-21 00:50:00 | haydock             |      4 |        2 | Itchy Feet         |   4.6  | vulture              |
-|  14 | :soon:            | 2021-11-21 00:50:00 | haydock             |      4 |        1 | Alnadam            |  17    | overthrow            |
-|  15 | :soon:            | 2021-11-21 00:30:00 | ascot               |      3 |        3 | Get The Appeal     |   9    | overthrow            |
-|  16 | :soon:            | 2021-11-21 00:30:00 | ascot               |      3 |        5 | Tequila Blaze      |   8    | overthrow            |
-|  17 | :soon:            | 2021-11-21 00:15:00 | haydock             |      3 |        2 | Christopher Wood   |   7.5  | overthrow            |
-|  18 | :soon:            | 2021-11-21 00:15:00 | haydock             |      3 |        4 | Calico             |   5    | overthrow            |
-|  19 | :soon:            | 2021-11-20 23:55:00 | ascot               |      2 |        2 | Ask A Honey Bee    |   3    | overthrow            |
-|  20 | :soon:            | 2021-11-20 23:48:00 | huntingdon          |      2 |        2 | Barbados Blue      |   0    | vulture              |
-|  21 | :soon:            | 2021-11-20 23:20:00 | ascot               |      1 |        2 | Go Sacre Go        |   0    | overthrow            |
-|  22 | :soon:            | 2021-11-20 23:10:00 | haydock             |      1 |        2 | Barrichello        |   5.5  | vulture              |
-|  23 | :soon:            | 2021-11-20 23:10:00 | haydock             |      1 |        4 | Knickerbockerglory |  12    | overthrow            |
-|  24 | :soon:            | 2021-11-20 23:10:00 | haydock             |      1 |        1 | Sonigino           |   7    | evenodds,milkman     |
+|   0 | :3rd_place_medal: | 2021-11-21 05:30:00 | wolverhampton       |      5 |       11 | Yantarni           |   0    | vulture              |
+|   1 | --                | 2021-11-21 02:50:00 | ascot               |      7 |        1 | Another Mystery    |   0    | vulture,milkman      |
+|   2 | :boom:            | 2021-11-21 02:50:00 | ascot               |      7 |        9 | Our Jester         |   0    | vulture              |
+|   3 | --                | 2021-11-21 02:23:00 | gowran-park         |      7 |        2 | Cute Cherry        |   0    | vulture              |
+|   4 | --                | 2021-11-21 02:00:00 | haydock             |      6 |        6 | Next Destination   |   8    | overthrow            |
+|   5 | :boom:            | 2021-11-21 01:40:00 | ascot               |      5 |        3 | Buzz               |   2.1  | overthrow            |
+|   6 | --                | 2021-11-21 01:25:00 | haydock             |      5 |        5 | Storm Arising      |  31    | overthrow            |
+|   7 | :2nd_place_medal: | 2021-11-21 01:25:00 | haydock             |      5 |       15 | Riggs              |   6.5  | overthrow            |
+|   8 | --                | 2021-11-21 01:25:00 | haydock             |      5 |       10 | Flight Deck        |   9    | vulture              |
+|   9 | 4                 | 2021-11-21 01:25:00 | haydock             |      5 |        4 | Stoney Mountain    |  15    | vulture              |
+|  10 | :boom:            | 2021-11-21 01:13:00 | gowran-park         |      5 |        3 | Saint Felicien     |   0    | vulture              |
+|  11 | --                | 2021-11-21 01:05:00 | ascot               |      4 |        6 | Pistol Whipped     |  13    | overthrow            |
+|  12 | :boom:            | 2021-11-21 00:50:00 | haydock             |      4 |        3 | Bravemansgame      |   1.6  | evenodds,overthrow   |
+|  13 | :2nd_place_medal: | 2021-11-21 00:50:00 | haydock             |      4 |        2 | Itchy Feet         |   4.6  | vulture              |
+|  14 | 4                 | 2021-11-21 00:50:00 | haydock             |      4 |        1 | Alnadam            |  17    | overthrow            |
+|  15 | --                | 2021-11-21 00:30:00 | ascot               |      3 |        3 | Get The Appeal     |   9    | overthrow            |
+|  16 | :boom:            | 2021-11-21 00:30:00 | ascot               |      3 |        5 | Tequila Blaze      |   8    | overthrow            |
+|  17 | --                | 2021-11-21 00:15:00 | haydock             |      3 |        2 | Christopher Wood   |   7.5  | overthrow            |
+|  18 | 4                 | 2021-11-21 00:15:00 | haydock             |      3 |        4 | Calico             |   5    | overthrow            |
+|  19 | --                | 2021-11-20 23:55:00 | ascot               |      2 |        2 | Ask A Honey Bee    |   3    | overthrow            |
+|  20 | :2nd_place_medal: | 2021-11-20 23:48:00 | huntingdon          |      2 |        2 | Barbados Blue      |   0    | vulture              |
+|  21 | :3rd_place_medal: | 2021-11-20 23:20:00 | ascot               |      1 |        2 | Go Sacre Go        |   0    | overthrow            |
+|  22 | :boom:            | 2021-11-20 23:10:00 | haydock             |      1 |        2 | Barrichello        |   5.5  | vulture              |
+|  23 | --                | 2021-11-20 23:10:00 | haydock             |      1 |        4 | Knickerbockerglory |  12    | overthrow            |
+|  24 | :3rd_place_medal: | 2021-11-20 23:10:00 | haydock             |      1 |        1 | Sonigino           |   7    | evenodds,milkman     |
 |  25 | :boom:            | 2021-11-20 22:35:00 | lingfield           |      1 |        5 | Marion's Boy       |   0    | vulture              |
 |  26 | :3rd_place_medal: | 2021-11-20 22:24:00 | toowoomba           |      9 |        8 | Imadgic            |   1.55 | overthrow            |
 |  27 | --                | 2021-11-20 21:10:00 | toowoomba           |      7 |        4 | Telephone Booth    |  16    | vulture,milkman      |

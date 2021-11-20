@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-11-20 22:52:29 +1000  
+date: 2021-11-21 06:02:24 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      8 |      2 |     21   | 0.25 |  0.26 |
-| Last 28 Days   |     40 |     14 |     18   | 0.35 |  0.04 |
-| Last 6 Months  |    359 |     94 |   -107.6 | 0.26 | -0.03 |
-| Since Jan 2020 |    562 |    143 |   -638.5 | 0.25 | -0.11 |
+| Last 7 Days    |     15 |      3 |    -58   | 0.2  | -0.39 |
+| Last 28 Days   |     48 |     16 |    -25   | 0.33 | -0.05 |
+| Last 6 Months  |    367 |     96 |   -150.6 | 0.26 | -0.04 |
+| Since Jan 2020 |    570 |    145 |   -681.5 | 0.25 | -0.12 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
@@ -442,8 +442,8 @@ categories: None
 | 6                 | 2021-04-10 | ascot R3               | 8 Let's Cut Loose     |  4.6  |    -10   |
 | :boom:            | 2021-04-10 | randwick R7            | 10 Explosive Jack     | 15.9  |    149   |
 | 4                 | 2021-04-10 | rockhampton R4         | 1 Only Wanna Sing     |  3.1  |    -10   |
-| :3rd_place_medal: | 2021-04-10 | rockhampton R2         | 3 Disco Mo            |  5.5  |    -10   |
 | :boom:            | 2021-04-10 | rockhampton R2         | 1 Hey Pal             |  2    |     10   |
+| :3rd_place_medal: | 2021-04-10 | rockhampton R2         | 3 Disco Mo            |  5.5  |    -10   |
 | 5                 | 2021-04-10 | doomben R3             | 1 Cloak               |  3.6  |    -10   |
 | 0                 | 2021-04-10 | aintree R4             | 8 Politologue         |  3.65 |    -10   |
 | :2nd_place_medal: | 2021-04-09 | darwin R3              | 1 Divine Red          |  4.2  |    -10   |
@@ -461,8 +461,8 @@ categories: None
 | 6                 | 2021-04-03 | alice-springs R5       | 1 Live And Free       |  6    |    -10   |
 | :3rd_place_medal: | 2021-04-03 | ascot R4               | 3 Amelia's Contraire  |  3    |    -10   |
 | 4                 | 2021-04-03 | alice-springs R4       | 4 Hope Ya Don't Mind  |  2.4  |    -10   |
-| :2nd_place_medal: | 2021-04-03 | awapuni R3             | 2 Hold The Press      |  2.9  |    -10   |
 | 0                 | 2021-04-03 | awapuni R3             | 1 Navalha             |  9.5  |    -10   |
+| :2nd_place_medal: | 2021-04-03 | awapuni R3             | 2 Hold The Press      |  2.9  |    -10   |
 | 0                 | 2021-04-03 | awapuni R2             | 3 Leaderboard         |  5.5  |    -10   |
 | 5                 | 2021-04-01 | toowoomba R7           | 5 Spirit One          |  1.82 |    -10   |
 | :boom:            | 2021-03-31 | doomben R6             | 6 Skins               |  1.6  |      6   |
