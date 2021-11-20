@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-20 20:13:34 +1000  
+date: 2021-11-20 20:32:30 +1000  
 ---   
 
 
@@ -80,8 +80,8 @@ date: 2021-11-20 20:13:34 +1000
 |  28 | :soon:            | 2021-11-20 21:10:00 | toowoomba           |      7 |        6 | Lemon Lover        |  19    | vulture              |
 |  29 | :soon:            | 2021-11-20 20:57:00 | ascot               |     10 |       11 | God Has Chosen     |   2.7  | pangea,pikey         |
 |  30 | :soon:            | 2021-11-20 20:57:00 | ascot               |     10 |        8 | Timely Outburst    |   4    | pangea               |
-|  31 | :soon:            | 2021-11-20 20:20:00 | ascot               |      9 |       11 | Angelic Miss       |   4.4  | pangea               |
-|  32 | :soon:            | 2021-11-20 20:20:00 | ascot               |      9 |        9 | Bright Diamond     |   2.75 | evenodds,pikey       |
+|  31 | :boom:            | 2021-11-20 20:20:00 | ascot               |      9 |       11 | Angelic Miss       |   4.4  | pangea               |
+|  32 | --                | 2021-11-20 20:20:00 | ascot               |      9 |        9 | Bright Diamond     |   2.75 | evenodds,pikey       |
 |  33 | 5                 | 2021-11-20 19:05:00 | ascot               |      7 |       10 | Buzzoom            |   4.75 | overthrow            |
 |  34 | :boom:            | 2021-11-20 19:05:00 | ascot               |      7 |       13 | Treasured Star     |   2.3  | overthrow,pikey      |
 |  35 | 6                 | 2021-11-20 19:05:00 | ascot               |      7 |        5 | He's A Lucky Lad   |  26    | vulture,milkman      |

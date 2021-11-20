@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-11-20 20:13:29 +1000  
+date: 2021-11-20 20:32:25 +1000  
 categories: None 
 ---   
 
@@ -26,8 +26,8 @@ categories: None
 | :2nd_place_medal: | 2021-11-13 | ascot R4                | 4 Ginger Flyer        |  4.2  |    -10   |
 | :3rd_place_medal: | 2021-11-13 | ascot R3                | 2 Son Of A God        | 26    |    -10   |
 | :boom:            | 2021-11-13 | doomben R6              | 6 Lyrical Girl        |  3.5  |     25   |
-| :boom:            | 2021-11-13 | ascot R1                | 6 Written Matter      |  5.1  |     41   |
 | 5                 | 2021-11-13 | ascot R1                | 4 Nowhiteflag         |  1.95 |    -10   |
+| :boom:            | 2021-11-13 | ascot R1                | 6 Written Matter      |  5.1  |     41   |
 | :boom:            | 2021-11-13 | gold-coast R2           | 1 Sir Rocket          |  1.7  |      7   |
 | 0                 | 2021-11-11 | turffontein R3          | 5 Sound Of Summer     |  0    |    -10   |
 | 6                 | 2021-11-10 | murray-bdge R2          | 5 French Fields       |  2    |    -10   |
@@ -247,8 +247,8 @@ categories: None
 | 0                 | 2021-04-24 | ellerslie R8            | 5 Markus Aurelius     |  2    |    -10   |
 | :3rd_place_medal: | 2021-04-24 | doomben R5              | 7 Walking Flying      |  3.25 |    -10   |
 | 4                 | 2021-04-24 | doomben R2              | 1 Humbolt Current     |  3.9  |    -10   |
-| 7                 | 2021-04-21 | ipswich R8              | 3 Amicitia            |  7.5  |    -10   |
 | 9                 | 2021-04-21 | ipswich R8              | 2 Grand Zou           | 14    |    -10   |
+| 7                 | 2021-04-21 | ipswich R8              | 3 Amicitia            |  7.5  |    -10   |
 | :boom:            | 2021-04-20 | epsom-downs R3          | 3 Victory Chime       |  9    |     80   |
 | 4                 | 2021-04-20 | mackay R4               | 3 Moreno              |  3    |    -10   |
 | :2nd_place_medal: | 2021-04-20 | mackay R4               | 7 Princess Rules      |  4.6  |    -10   |
@@ -259,8 +259,8 @@ categories: None
 | :boom:            | 2021-04-18 | wagga R5                | 2 Huntly Castle       |  2    |     10   |
 | :boom:            | 2021-04-18 | hobart R5               | 2 Hela                |  1.1  |      1   |
 | 10                | 2021-04-17 | morphettville R8        | 6 Octane              | 14    |    -10   |
-| 4                 | 2021-04-17 | morphettville R6        | 1 Instant Celebrity   |  3.1  |    -10   |
 | 7                 | 2021-04-17 | morphettville R6        | 10 Echoes In Eternity | 11    |    -10   |
+| 4                 | 2021-04-17 | morphettville R6        | 1 Instant Celebrity   |  3.1  |    -10   |
 | :boom:            | 2021-04-17 | randwick R6             | 1 Wild Ruler          |  5.7  |     47   |
 | 6                 | 2021-04-16 | toowoomba R6            | 7 Motomiss            |  2.3  |    -10   |
 | :boom:            | 2021-04-16 | toowoomba R5            | 3 Rhyme Time          |  3    |     20   |
