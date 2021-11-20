@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-20 12:32:39 +1000  
+date: 2021-11-20 13:07:45 +1000  
 ---   
 
 
@@ -154,13 +154,13 @@ date: 2021-11-20 12:32:39 +1000
 | 102 | :soon:            | 2021-11-20 13:38:00 | sunshine-coast      |      2 |        5 | Avocado Sunset     |   4.33 | pangea               |
 | 103 | :soon:            | 2021-11-20 13:30:00 | kembla-grange       |      3 |        4 | Satin Ribbons      |   3.4  | milkman              |
 | 104 | :soon:            | 2021-11-20 13:10:00 | ballarat            |      3 |        2 | Nothing Silly      |  11    | milkman              |
-| 105 | :soon:            | 2021-11-20 13:03:00 | sunshine-coast      |      1 |        4 | Sneaky Starter     |   7.5  | milkman              |
-| 106 | :soon:            | 2021-11-20 12:55:00 | kembla-grange       |      2 |        6 | Shelby Sixtysix    |   8    | jmac                 |
-| 107 | :soon:            | 2021-11-20 12:55:00 | kembla-grange       |      2 |        3 | Brother Bassy      |  14    | benny,pangea         |
-| 108 | :soon:            | 2021-11-20 12:51:00 | morphettville-parks |      1 |        3 | Eyes Never Lie     |   2.8  | milkman              |
-| 109 | :soon:            | 2021-11-20 12:46:00 | gold-coast          |      2 |        4 | Dark Son           |   7    | evenodds,overthrow   |
-| 110 | :soon:            | 2021-11-20 12:40:00 | ballarat            |      2 |        3 | Jimmy The Bear     |   6    | milkman              |
+| 105 | --                | 2021-11-20 13:03:00 | sunshine-coast      |      1 |        4 | Sneaky Starter     |   7.5  | milkman              |
+| 106 | --                | 2021-11-20 12:55:00 | kembla-grange       |      2 |        6 | Shelby Sixtysix    |   8    | jmac                 |
+| 107 | --                | 2021-11-20 12:55:00 | kembla-grange       |      2 |        3 | Brother Bassy      |  14    | benny,pangea         |
+| 108 | 4                 | 2021-11-20 12:51:00 | morphettville-parks |      1 |        3 | Eyes Never Lie     |   2.8  | milkman              |
+| 109 | :2nd_place_medal: | 2021-11-20 12:46:00 | gold-coast          |      2 |        4 | Dark Son           |   7    | evenodds,overthrow   |
+| 110 | :2nd_place_medal: | 2021-11-20 12:40:00 | ballarat            |      2 |        3 | Jimmy The Bear     |   6    | milkman              |
 | 111 | :2nd_place_medal: | 2021-11-20 12:20:00 | kembla-grange       |      1 |        1 | Shibli             |   4.75 | vulture              |
 | 112 | --                | 2021-11-20 12:20:00 | kembla-grange       |      1 |        3 | New King           |  18    | vulture              |
-| 113 | --                | 2021-11-20 12:20:00 | kembla-grange       |      1 |        6 | Suppression        |   3.5  | vulture,jmac         |
-| 114 | --                | 2021-11-20 12:20:00 | kembla-grange       |      1 |        4 | Solar Apex         |   8.5  | wallbow              |
+| 113 | 6                 | 2021-11-20 12:20:00 | kembla-grange       |      1 |        6 | Suppression        |   3.5  | vulture,jmac         |
+| 114 | 5                 | 2021-11-20 12:20:00 | kembla-grange       |      1 |        4 | Solar Apex         |   8.5  | wallbow              |

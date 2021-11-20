@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-20 12:32:34 +1000  
+date: 2021-11-20 13:07:41 +1000  
 categories: None 
 ---   
 
@@ -27,9 +27,9 @@ categories: None
 | 13:38             | 2021-11-20 | sunshine-coast R2      | 4 Lepreezy            | 11    |    -10   |
 | 13:30             | 2021-11-20 | kembla-grange R3       | 4 Satin Ribbons       |  3.4  |    -10   |
 | 13:10             | 2021-11-20 | ballarat R3            | 2 Nothing Silly       | 11    |    -10   |
-| 13:03             | 2021-11-20 | sunshine-coast R1      | 4 Sneaky Starter      |  7.5  |    -10   |
-| 12:51             | 2021-11-20 | morphettville-parks R1 | 3 Eyes Never Lie      |  2.8  |    -10   |
-| 12:40             | 2021-11-20 | ballarat R2            | 3 Jimmy The Bear      |  6    |    -10   |
+| 0                 | 2021-11-20 | sunshine-coast R1      | 4 Sneaky Starter      |  0    |    -10   |
+| 4                 | 2021-11-20 | morphettville-parks R1 | 3 Eyes Never Lie      |  2.8  |    -10   |
+| :2nd_place_medal: | 2021-11-20 | ballarat R2            | 3 Jimmy The Bear      |  6    |    -10   |
 | :boom:            | 2021-11-20 | fairview R7            | 1 Global Drummer      |  2.5  |     15   |
 | :2nd_place_medal: | 2021-11-20 | ascot R3               | 1 Go Dante            |  1.26 |    -10   |
 | 0                 | 2021-11-19 | ascot R2               | 5 Golden Boy Grey     |  0    |    -10   |
@@ -101,8 +101,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-10 | huntingdon R7          | 1 Alazwar             |  1.5  |    -10   |
 | :boom:            | 2021-11-09 | huntingdon R1          | 7 Theatre Glory       |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3          | 3 Yes Dream           |  1.6  |      6   |
-| 4                 | 2021-11-09 | kempton R3             | 1 Fifrelet            |  5    |    -10   |
 | :boom:            | 2021-11-09 | kempton R3             | 3 Doddiethegreat      |  1.33 |      3.3 |
+| 4                 | 2021-11-09 | kempton R3             | 1 Fifrelet            |  5    |    -10   |
 | 0                 | 2021-11-08 | carlisle R1            | 9 Snowy Clouds        |  0    |    -10   |
 | 0                 | 2021-11-08 | sandown R7             | 1 Revasser            |  0    |    -10   |
 | :boom:            | 2021-11-08 | sandown R4             | 1 Chantry House       |  1.3  |      3   |

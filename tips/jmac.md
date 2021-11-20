@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-11-20 12:32:38 +1000  
+date: 2021-11-20 13:07:45 +1000  
 categories: None 
 ---   
 
@@ -19,8 +19,8 @@ categories: None
 | 16:00             | 2021-11-20 | kembla-grange R7  | 3 Malkovich           |  2.2  |    -10   |
 | 14:40             | 2021-11-20 | kembla-grange R5  | 3 Selburose           |  3.8  |    -10   |
 | 14:05             | 2021-11-20 | kembla-grange R4  | 7 Rammstein           |  4    |    -10   |
-| 12:55             | 2021-11-20 | kembla-grange R2  | 6 Shelby Sixtysix     |  8    |    -10   |
-| 0                 | 2021-11-20 | kembla-grange R1  | 6 Suppression         |  0    |    -10   |
+| 0                 | 2021-11-20 | kembla-grange R2  | 6 Shelby Sixtysix     |  0    |    -10   |
+| 6                 | 2021-11-20 | kembla-grange R1  | 6 Suppression         |  3.5  |    -10   |
 | 7                 | 2021-11-18 | hawkesbury R8     | 7 Yumi                |  3.7  |    -10   |
 | :boom:            | 2021-11-18 | hawkesbury R7     | 9 This'llbetheone     |  1.7  |      7   |
 | :boom:            | 2021-11-18 | hawkesbury R5     | 1 Don Arcangelo       |  4.5  |     35   |
