@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-20 22:21:02 +1000  
+date: 2021-11-20 22:37:34 +1000  
 ---   
 
 
@@ -74,8 +74,8 @@ date: 2021-11-20 22:21:02 +1000
 |  22 | :soon:            | 2021-11-20 23:10:00 | haydock             |      1 |        2 | Barrichello        |   5.5  | vulture              |
 |  23 | :soon:            | 2021-11-20 23:10:00 | haydock             |      1 |        4 | Knickerbockerglory |  12    | overthrow            |
 |  24 | :soon:            | 2021-11-20 23:10:00 | haydock             |      1 |        1 | Sonigino           |   7    | evenodds,milkman     |
-|  25 | :soon:            | 2021-11-20 22:35:00 | lingfield           |      1 |        5 | Marion's Boy       |   0    | vulture              |
-|  26 | :soon:            | 2021-11-20 22:24:00 | toowoomba           |      9 |        8 | Imadgic            |   1.55 | overthrow            |
+|  25 | --                | 2021-11-20 22:35:00 | lingfield           |      1 |        5 | Marion's Boy       |   0    | vulture              |
+|  26 | :3rd_place_medal: | 2021-11-20 22:24:00 | toowoomba           |      9 |        8 | Imadgic            |   1.55 | overthrow            |
 |  27 | --                | 2021-11-20 21:10:00 | toowoomba           |      7 |        4 | Telephone Booth    |  16    | vulture,milkman      |
 |  28 | 5                 | 2021-11-20 21:10:00 | toowoomba           |      7 |        6 | Lemon Lover        |  19    | vulture              |
 |  29 | :2nd_place_medal: | 2021-11-20 20:57:00 | ascot               |     10 |       11 | God Has Chosen     |   2.7  | pangea,pikey         |
