@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-20 17:03:22 +1000  
+date: 2021-11-20 17:23:29 +1000  
 categories: None 
 ---   
 
@@ -20,7 +20,7 @@ categories: None
 | 19:05             | 2021-11-20 | ascot R7              | 13 Treasured Star     |  2.3  |    -10   |
 | 18:25             | 2021-11-20 | ascot R6              | 5 Royal Command       | 16    |    -10   |
 | 17:45             | 2021-11-20 | ascot R5              | 10 Real Danger        |  7.5  |    -10   |
-| 17:05             | 2021-11-20 | ascot R4              | 3 Proconsent          |  2.62 |    -10   |
+| :boom:            | 2021-11-20 | ascot R4              | 3 Proconsent          |  2.5  |     15   |
 | :boom:            | 2021-11-20 | ascot R3              | 8 Expressionist       |  5.7  |     47   |
 | :boom:            | 2021-11-20 | ascot R1              | 1 Pure Devotion       |  1.6  |      6   |
 | 4                 | 2021-11-17 | belmont R9            | 7 Antique Jewel       |  2.4  |    -10   |

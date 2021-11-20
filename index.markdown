@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-20 17:03:22 +1000  
+date: 2021-11-20 17:23:30 +1000  
 ---   
 
 
@@ -99,15 +99,15 @@ date: 2021-11-20 17:03:22 +1000
 |  47 | :soon:            | 2021-11-20 17:42:00 | darwin              |      4 |        1 | Robe de Fete       |   2.9  | overthrow            |
 |  48 | :soon:            | 2021-11-20 17:42:00 | darwin              |      4 |        7 | Extolment          |  16.2  | pangea               |
 |  49 | :soon:            | 2021-11-20 17:35:00 | gosford             |      8 |        6 | Noble Beauty       |   6.5  | milkman              |
-|  50 | :soon:            | 2021-11-20 17:12:00 | morphettville-parks |      8 |        4 | Ideas Man          |  10    | vulture              |
-|  51 | :soon:            | 2021-11-20 17:09:00 | gold-coast          |      9 |        9 | Storm Attack       |   7    | pangea,blackshadow   |
-|  52 | :soon:            | 2021-11-20 17:09:00 | gold-coast          |      9 |        3 | Tesarc             |   4.05 | pangea               |
-|  53 | :soon:            | 2021-11-20 17:06:00 | darwin              |      3 |        2 | Shenanigan City    |  12    | overthrow            |
-|  54 | :soon:            | 2021-11-20 17:06:00 | darwin              |      3 |        7 | Overruled          |   3.85 | vulture              |
-|  55 | :soon:            | 2021-11-20 17:05:00 | ascot               |      4 |        2 | Ginger Flyer       |   7    | icyhot               |
-|  56 | :soon:            | 2021-11-20 17:05:00 | ascot               |      4 |        1 | Come Right Back    |  20    | pangea               |
-|  57 | :soon:            | 2021-11-20 17:05:00 | ascot               |      4 |        3 | Proconsent         |   2.62 | vulture,pikey        |
-|  58 | --                | 2021-11-20 16:55:00 | gosford             |      7 |        4 | Azarmin            |   4.4  | pangea               |
+|  50 | --                | 2021-11-20 17:12:00 | morphettville-parks |      8 |        4 | Ideas Man          |  10    | vulture              |
+|  51 | :2nd_place_medal: | 2021-11-20 17:09:00 | gold-coast          |      9 |        9 | Storm Attack       |   7    | pangea,blackshadow   |
+|  52 | --                | 2021-11-20 17:09:00 | gold-coast          |      9 |        3 | Tesarc             |   4.05 | pangea               |
+|  53 | 7                 | 2021-11-20 17:06:00 | darwin              |      3 |        2 | Shenanigan City    |  12    | overthrow            |
+|  54 | :2nd_place_medal: | 2021-11-20 17:06:00 | darwin              |      3 |        7 | Overruled          |   3.85 | vulture              |
+|  55 | 4                 | 2021-11-20 17:05:00 | ascot               |      4 |        2 | Ginger Flyer       |   7    | icyhot               |
+|  56 | 10                | 2021-11-20 17:05:00 | ascot               |      4 |        1 | Come Right Back    |  20    | pangea               |
+|  57 | :boom:            | 2021-11-20 17:05:00 | ascot               |      4 |        3 | Proconsent         |   2.62 | vulture,pikey        |
+|  58 | 7                 | 2021-11-20 16:55:00 | gosford             |      7 |        4 | Azarmin            |   4.4  | pangea               |
 |  59 | :3rd_place_medal: | 2021-11-20 16:48:00 | sunshine-coast      |      7 |        4 | Shooting For Gold  |   4.75 | vulture,pangea       |
 |  60 | :boom:            | 2021-11-20 16:48:00 | sunshine-coast      |      7 |        2 | Zoustyle           |   2.62 | benny,icyhot         |
 |  61 | :2nd_place_medal: | 2021-11-20 16:48:00 | sunshine-coast      |      7 |        7 | Totally Charmed    |  14    | benny,icyhot         |
