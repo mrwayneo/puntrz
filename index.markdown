@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-20 18:45:47 +1000  
+date: 2021-11-20 19:00:44 +1000  
 ---   
 
 
@@ -87,9 +87,9 @@ date: 2021-11-20 18:45:47 +1000
 |  35 | :soon:            | 2021-11-20 19:05:00 | ascot               |      7 |        5 | He's A Lucky Lad   |  26    | vulture,milkman      |
 |  36 | :soon:            | 2021-11-20 19:01:00 | darwin              |      6 |        6 | Against The Tide   |   9    | vulture              |
 |  37 | :soon:            | 2021-11-20 19:01:00 | darwin              |      6 |        2 | No Say in It       |   2.9  | evenodds,overthrow   |
-|  38 | --                | 2021-11-20 18:25:00 | ascot               |      6 |        5 | Royal Command      |  16    | pangea,pikey         |
+|  38 | 10                | 2021-11-20 18:25:00 | ascot               |      6 |        5 | Royal Command      |  16    | pangea,pikey         |
 |  39 | 7                 | 2021-11-20 18:22:00 | darwin              |      5 |        4 | Son Of Utred       |   3.95 | evenodds,overthrow   |
-|  40 | --                | 2021-11-20 18:12:00 | sunshine-coast      |      9 |        6 | Sir Warwick        |   3.4  | vulture,milkman      |
+|  40 | 6                 | 2021-11-20 18:12:00 | sunshine-coast      |      9 |        6 | Sir Warwick        |   3.4  | vulture,milkman      |
 |  41 | :soon:            | 2021-11-20 18:00:00 | kembla-grange       |     10 |        8 | Dynamic Impact     |   3.4  | jmac                 |
 |  42 | 6                 | 2021-11-20 18:00:00 | kembla-grange       |     10 |        6 | Zegalo             |   8.5  | vulture,wallbow      |
 |  43 | --                | 2021-11-20 18:00:00 | kembla-grange       |     10 |        7 | Blesk              |   4    | vulture              |
