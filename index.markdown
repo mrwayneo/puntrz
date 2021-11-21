@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-21 19:01:47 +1000  
+date: 2021-11-21 19:18:52 +1000  
 ---   
 
 
@@ -65,7 +65,7 @@ date: 2021-11-21 19:01:47 +1000
 | 13 | :soon:            | 2021-11-21 23:10:00 | uttoxeter     |      1 |        1 | Gaia Du Gouet      |   2.5  | overthrow            |
 | 14 | :soon:            | 2021-11-21 20:35:00 | belmont       |      8 |       10 | Miss Vasari        |   2.8  | pangea,blackshadow   |
 | 15 | :soon:            | 2021-11-21 20:00:00 | belmont       |      7 |        9 | Bizzi Too          |  26    | vulture              |
-| 16 | --                | 2021-11-21 19:00:00 | alice-springs |      5 |        1 | Bench Press        |   1.6  | benny,icyhot         |
+| 16 | :boom:            | 2021-11-21 19:00:00 | alice-springs |      5 |        1 | Bench Press        |   1.6  | benny,icyhot         |
 | 17 | :boom:            | 2021-11-21 18:50:00 | belmont       |      5 |        9 | Disengo            |   3.1  | vulture              |
 | 18 | :3rd_place_medal: | 2021-11-21 18:50:00 | belmont       |      5 |        2 | Market Stryke      |   2    | vulture              |
 | 19 | --                | 2021-11-21 18:35:00 | sha-tin       |      6 |        9 | Courier Wonder     |   3.5  | milkman              |
