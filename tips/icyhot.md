@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-11-21 18:13:50 +1000  
+date: 2021-11-21 18:31:38 +1000  
 categories: None 
 ---   
 
@@ -137,8 +137,8 @@ categories: None
 | 0                 | 2021-07-29 | goodwood R4             | 1 Century Dream       | 17    |    -10   |
 | :2nd_place_medal: | 2021-07-28 | darwin R5               | 5 Syncline            |  3    |    -10   |
 | :boom:            | 2021-07-26 | pontefract R3           | 1 Corinthia Knight    |  4.4  |     34   |
-| 7                 | 2021-07-25 | oamaru R6               | 5 Pete The Driver     | 10    |    -10   |
 | :boom:            | 2021-07-25 | oamaru R6               | 3 Dunhill             |  3.9  |     29   |
+| 7                 | 2021-07-25 | oamaru R6               | 5 Pete The Driver     | 10    |    -10   |
 | :boom:            | 2021-07-24 | darwin R5               | 8 Belmont Day         |  2.6  |     16   |
 | :2nd_place_medal: | 2021-07-24 | mackay R7               | 3 The Egyptian        |  4    |    -10   |
 | :2nd_place_medal: | 2021-07-24 | caulfield R4            | 1 La Mexicana         |  3.3  |    -10   |
@@ -249,8 +249,8 @@ categories: None
 | 0                 | 2021-04-24 | ellerslie R8            | 5 Markus Aurelius     |  2    |    -10   |
 | :3rd_place_medal: | 2021-04-24 | doomben R5              | 7 Walking Flying      |  3.25 |    -10   |
 | 4                 | 2021-04-24 | doomben R2              | 1 Humbolt Current     |  3.9  |    -10   |
-| 9                 | 2021-04-21 | ipswich R8              | 2 Grand Zou           | 14    |    -10   |
 | 7                 | 2021-04-21 | ipswich R8              | 3 Amicitia            |  7.5  |    -10   |
+| 9                 | 2021-04-21 | ipswich R8              | 2 Grand Zou           | 14    |    -10   |
 | :boom:            | 2021-04-20 | epsom-downs R3          | 3 Victory Chime       |  9    |     80   |
 | 4                 | 2021-04-20 | mackay R4               | 3 Moreno              |  3    |    -10   |
 | :2nd_place_medal: | 2021-04-20 | mackay R4               | 7 Princess Rules      |  4.6  |    -10   |
@@ -261,8 +261,8 @@ categories: None
 | :boom:            | 2021-04-18 | wagga R5                | 2 Huntly Castle       |  2    |     10   |
 | :boom:            | 2021-04-18 | hobart R5               | 2 Hela                |  1.1  |      1   |
 | 10                | 2021-04-17 | morphettville R8        | 6 Octane              | 14    |    -10   |
-| 7                 | 2021-04-17 | morphettville R6        | 10 Echoes In Eternity | 11    |    -10   |
 | 4                 | 2021-04-17 | morphettville R6        | 1 Instant Celebrity   |  3.1  |    -10   |
+| 7                 | 2021-04-17 | morphettville R6        | 10 Echoes In Eternity | 11    |    -10   |
 | :boom:            | 2021-04-17 | randwick R6             | 1 Wild Ruler          |  5.7  |     47   |
 | 6                 | 2021-04-16 | toowoomba R6            | 7 Motomiss            |  2.3  |    -10   |
 | :boom:            | 2021-04-16 | toowoomba R5            | 3 Rhyme Time          |  3    |     20   |
@@ -294,8 +294,8 @@ categories: None
 | :boom:            | 2021-03-30 | mackay R4               | 5 Nailed It Nan       |  2.3  |     13   |
 | :2nd_place_medal: | 2021-03-30 | ipswich R1              | 3 Le Rubis            |  9    |    -10   |
 | :boom:            | 2021-03-28 | sha-tin R3              | 5 Winner Method       |  1.35 |      3.5 |
-| :2nd_place_medal: | 2021-03-28 | kempton R3              | 5 Almighwar           |  4.6  |    -10   |
 | :boom:            | 2021-03-28 | kempton R3              | 1 Al Zaraqaan         |  2.05 |     10.5 |
+| :2nd_place_medal: | 2021-03-28 | kempton R3              | 5 Almighwar           |  4.6  |    -10   |
 | 0                 | 2021-03-28 | kempton R2              | 1 Faylaq              |  4.2  |    -10   |
 | 0                 | 2021-03-27 | toowoomba R6            | 6 Boom Ranga          |  5.5  |    -10   |
 | :boom:            | 2021-03-27 | ascot R9                | 11 Miss Conteki       |  1.6  |      6   |
