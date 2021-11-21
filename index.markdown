@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-21 17:58:54 +1000  
+date: 2021-11-21 18:13:55 +1000  
 ---   
 
 
@@ -70,7 +70,7 @@ date: 2021-11-21 17:58:54 +1000
 | 18 | :soon:            | 2021-11-21 18:50:00 | belmont       |      5 |        2 | Market Stryke      |   2    | vulture              |
 | 19 | :soon:            | 2021-11-21 18:35:00 | sha-tin       |      6 |        9 | Courier Wonder     |   3.5  | milkman              |
 | 20 | :soon:            | 2021-11-21 18:35:00 | sha-tin       |      6 |       10 | Naboo Attack       |   8    | milkman              |
-| 21 | :soon:            | 2021-11-21 18:00:00 | townsville    |      8 |        6 | Dawson Diamond     |   2.62 | evenodds,overthrow   |
+| 21 | :boom:            | 2021-11-21 18:00:00 | townsville    |      8 |        6 | Dawson Diamond     |   2.62 | evenodds,overthrow   |
 | 22 | :boom:            | 2021-11-21 17:21:00 | townsville    |      7 |        3 | Maquereau          |   3    | vulture,pangea       |
 | 23 | :boom:            | 2021-11-21 17:20:00 | alice-springs |      2 |        1 | That's Justified   |   1.3  | vulture,blackshadow  |
 | 24 | :3rd_place_medal: | 2021-11-21 17:20:00 | alice-springs |      2 |        2 | Valley Prince      |   2.9  | icyhot               |
