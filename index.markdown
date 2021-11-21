@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-21 20:22:22 +1000  
+date: 2021-11-21 20:39:07 +1000  
 ---   
 
 
@@ -63,8 +63,8 @@ date: 2021-11-21 20:22:22 +1000
 | 11 | :soon:            | 2021-11-22 00:20:00 | navan         |      2 |        1 | Bust Or Bray Dee   |   5.5  | vulture              |
 | 12 | :soon:            | 2021-11-22 00:00:00 | exeter        |      2 |        4 | Oscars Moonshine   |   2    | evenodds,overthrow   |
 | 13 | :soon:            | 2021-11-21 23:10:00 | uttoxeter     |      1 |        1 | Gaia Du Gouet      |   2.5  | overthrow            |
-| 14 | :soon:            | 2021-11-21 20:35:00 | belmont       |      8 |       10 | Miss Vasari        |   2.8  | pangea,blackshadow   |
-| 15 | --                | 2021-11-21 20:00:00 | belmont       |      7 |        9 | Bizzi Too          |  26    | vulture              |
+| 14 | 4                 | 2021-11-21 20:35:00 | belmont       |      8 |       10 | Miss Vasari        |   2.8  | pangea,blackshadow   |
+| 15 | 13                | 2021-11-21 20:00:00 | belmont       |      7 |        9 | Bizzi Too          |  26    | vulture              |
 | 16 | :boom:            | 2021-11-21 19:00:00 | alice-springs |      5 |        1 | Bench Press        |   1.6  | benny,icyhot         |
 | 17 | :boom:            | 2021-11-21 18:50:00 | belmont       |      5 |        9 | Disengo            |   3.1  | vulture              |
 | 18 | :3rd_place_medal: | 2021-11-21 18:50:00 | belmont       |      5 |        2 | Market Stryke      |   2    | vulture              |
