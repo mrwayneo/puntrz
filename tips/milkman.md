@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-21 19:37:12 +1000  
+date: 2021-11-21 19:52:14 +1000  
 categories: None 
 ---   
 
@@ -54,18 +54,18 @@ categories: None
 | 0                 | 2021-11-16 | turffontein R6         | 4 Bella Swan          |  0    |    -10   |
 | :boom:            | 2021-11-15 | punchestown R8         | 2 The Big Doyen       |  4    |     30   |
 | 0                 | 2021-11-15 | punchestown R8         | 1 Smooth Player       |  0    |    -10   |
-| :2nd_place_medal: | 2021-11-15 | cheltenham R5          | 4 Washington          |  3.4  |    -10   |
 | 0                 | 2021-11-15 | cheltenham R5          | 2 Sonigino            |  0    |    -10   |
+| :2nd_place_medal: | 2021-11-15 | cheltenham R5          | 4 Washington          |  3.4  |    -10   |
 | 7                 | 2021-11-15 | cheltenham R4          | 11 Marie's Rock       | 23    |    -10   |
 | :3rd_place_medal: | 2021-11-15 | cheltenham R3          | 4 Put The Kettle On   |  2.7  |    -10   |
 | :2nd_place_medal: | 2021-11-15 | punchestown R5         | 4 Zanahiyr            |  5.5  |    -10   |
 | :3rd_place_medal: | 2021-11-14 | fontwell R1            | 13 Wiseguy            |  1.55 |    -10   |
 | 8                 | 2021-11-14 | hobart R3              | 9 Lady Marina         |  7.5  |    -10   |
 | 0                 | 2021-11-14 | wolverhampton R3       | 1 Dakota Power        |  0    |    -10   |
-| 0                 | 2021-11-14 | cheltenham R7          | 16 Starlyte           |  0    |    -10   |
-| 0                 | 2021-11-14 | cheltenham R7          | 19 Whisky Express     |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R7          | 7 Finest View         |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R7          | 9 Lady Excalibur      |  0    |    -10   |
+| 0                 | 2021-11-14 | cheltenham R7          | 19 Whisky Express     |  0    |    -10   |
+| 0                 | 2021-11-14 | cheltenham R7          | 16 Starlyte           |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R6          | 8 Mackelduff          |  0    |    -10   |
 | 0                 | 2021-11-14 | wetherby R5            | 5 Sauce Of Life       |  0    |    -10   |
 | 0                 | 2021-11-14 | kenilworth R6          | 2 Kalahari Ferrari    |  0    |    -10   |
@@ -74,8 +74,8 @@ categories: None
 | 0                 | 2021-11-13 | ascot R9               | 10 The Front Bar      |  0    |    -10   |
 | 0                 | 2021-11-13 | sha-tin R9             | 1 Packing Victory     |  0    |    -10   |
 | 0                 | 2021-11-13 | sha-tin R7             | 4 Excellent Proposal  |  0    |    -10   |
-| 4                 | 2021-11-13 | ascot R5               | 3 Kaptain Kaos        |  2.7  |    -10   |
 | :boom:            | 2021-11-13 | ascot R5               | 6 Kissonallforcheeks  |  1.8  |      8   |
+| 4                 | 2021-11-13 | ascot R5               | 3 Kaptain Kaos        |  2.7  |    -10   |
 | :boom:            | 2021-11-13 | ascot R3               | 3 Wilchino            |  4.4  |     34   |
 | :2nd_place_medal: | 2021-11-13 | doomben R6             | 8 Palaisipan          |  4.6  |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R6             | 9 She Can Sing        |  2.9  |    -10   |
