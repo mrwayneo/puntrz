@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-21 16:44:00 +1000  
+date: 2021-11-21 16:58:49 +1000  
 ---   
 
 
@@ -74,7 +74,7 @@ date: 2021-11-21 16:44:00 +1000
 | 22 | :soon:   | 2021-11-21 17:21:00 | townsville    |      7 |        3 | Maquereau          |   3    | vulture,pangea       |
 | 23 | :soon:   | 2021-11-21 17:20:00 | alice-springs |      2 |        1 | That's Justified   |   1.3  | vulture,blackshadow  |
 | 24 | :soon:   | 2021-11-21 17:20:00 | alice-springs |      2 |        2 | Valley Prince      |   2.9  | icyhot               |
-| 25 | :soon:   | 2021-11-21 16:58:00 | clare         |      6 |        8 | Biarchi            |   4.75 | vulture              |
-| 26 | --       | 2021-11-21 16:35:00 | kilmore       |      6 |        5 | Nuclear Energy     |  16    | pangea               |
+| 25 | --       | 2021-11-21 16:58:00 | clare         |      6 |        8 | Biarchi            |   4.75 | vulture              |
+| 26 | 9        | 2021-11-21 16:35:00 | kilmore       |      6 |        5 | Nuclear Energy     |  16    | pangea               |
 | 27 | :boom:   | 2021-11-21 16:05:00 | townsville    |      5 |        2 | Big Jake           |   3.6  | evenodds,blackshadow |
 | 28 | :boom:   | 2021-11-21 13:40:00 | townsville    |      1 |        7 | Sweet Way's        |   3.8  | overthrow            |
