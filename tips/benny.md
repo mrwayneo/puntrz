@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-11-21 18:46:43 +1000  
+date: 2021-11-21 19:01:41 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
-| 19:00             | 2021-11-21 | alice-springs R5        | 1 Bench Press         |  1.6  |    -10   |
+| 0                 | 2021-11-21 | alice-springs R5        | 1 Bench Press         |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-20 | morphettville-parks R9  | 4 Dr Dee Dee          | 15    |    -10   |
 | :2nd_place_medal: | 2021-11-20 | sunshine-coast R7       | 7 Totally Charmed     | 14    |    -10   |
 | :boom:            | 2021-11-20 | sunshine-coast R7       | 2 Zoustyle            |  2.1  |     11   |
@@ -554,8 +554,8 @@ categories: None
 | :3rd_place_medal: | 2021-02-05 | townsville R1           | 1 Attackabeel         |  1.4  |    -10   |
 | :3rd_place_medal: | 2021-01-30 | ascot R4                | 5 Phoneme             |  5    |    -10   |
 | 5                 | 2021-01-30 | caulfield R8            | 4 Maximak             | 11    |    -10   |
-| 6                 | 2021-01-30 | morphettville R6        | 7 Symphonette         | 18    |    -10   |
 | :boom:            | 2021-01-30 | morphettville R6        | 1 Behemoth            |  1.5  |      5   |
+| 6                 | 2021-01-30 | morphettville R6        | 7 Symphonette         | 18    |    -10   |
 | :2nd_place_medal: | 2021-01-30 | sunshine-coast R4       | 5 What the Fuss       |  4.45 |    -10   |
 | :boom:            | 2021-01-30 | morphettville R4        | 2 Soul Obsession      |  2.6  |     16   |
 | 8                 | 2021-01-28 | scone R6                | 1 Expiredtime         | 17    |    -10   |
