@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-22 07:04:36 +1000  
+date: 2021-11-22 12:38:01 +1000  
 ---   
 
 
@@ -47,34 +47,19 @@ date: 2021-11-22 07:04:36 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6412 |    915 | -11936.5 | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8054 |    431 | -17845   | 0.05 | -0.22 |
 
-|    | finish            | time                | track         |   race |   number | name               |   odds | tipster              |
-|---:|:------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|  0 | --                | 2021-11-22 02:50:00 | navan         |      7 |        6 | Nos Na Gaoithe     |  15    | overthrow            |
-|  1 | --                | 2021-11-22 02:50:00 | navan         |      7 |        4 | Flemencello        |   4.4  | overthrow            |
-|  2 | :boom:            | 2021-11-22 02:30:00 | exeter        |      7 |       10 | In Rem             |   2.8  | pangea               |
-|  3 | :2nd_place_medal: | 2021-11-22 02:00:00 | exeter        |      6 |        8 | Mi Laddo           |   4    | vulture              |
-|  4 | --                | 2021-11-22 01:35:00 | greyville     |      8 |        6 | Iron Bark          |   8.5  | vulture              |
-|  5 | 4                 | 2021-11-22 01:30:00 | exeter        |      5 |        1 | Black Kalanisi     |   6    | evenodds,overthrow   |
-|  6 | :3rd_place_medal: | 2021-11-22 01:10:00 | uttoxeter     |      5 |        8 | Gentle Connections |   7.5  | overthrow            |
-|  7 | --                | 2021-11-22 01:00:00 | exeter        |      4 |        1 | Young Wolf         |  12    | pangea               |
-|  8 | :boom:            | 2021-11-22 00:50:00 | navan         |      3 |        5 | Hollow Games       |   1.4  | vulture,milkman      |
-|  9 | --                | 2021-11-22 00:30:00 | exeter        |      3 |        3 | Doin'whatshelikes  |  34    | overthrow            |
-| 10 | 4                 | 2021-11-22 00:20:00 | navan         |      2 |        8 | Au Fleuron         |   1.65 | vulture,milkman      |
-| 11 | --                | 2021-11-22 00:20:00 | navan         |      2 |        1 | Bust Or Bray Dee   |   7.5  | vulture              |
-| 12 | --                | 2021-11-22 00:00:00 | exeter        |      2 |        4 | Oscars Moonshine   | nan    | evenodds,overthrow   |
-| 13 | :boom:            | 2021-11-21 23:10:00 | uttoxeter     |      1 |        1 | Gaia Du Gouet      |   1.85 | overthrow            |
-| 14 | 4                 | 2021-11-21 20:35:00 | belmont       |      8 |       10 | Miss Vasari        |   2.8  | pangea,blackshadow   |
-| 15 | 13                | 2021-11-21 20:00:00 | belmont       |      7 |        9 | Bizzi Too          |  26    | vulture              |
-| 16 | :boom:            | 2021-11-21 19:00:00 | alice-springs |      5 |        1 | Bench Press        |   1.6  | benny,icyhot         |
-| 17 | :boom:            | 2021-11-21 18:50:00 | belmont       |      5 |        9 | Disengo            |   3.1  | vulture              |
-| 18 | :3rd_place_medal: | 2021-11-21 18:50:00 | belmont       |      5 |        2 | Market Stryke      |   2    | vulture              |
-| 19 | --                | 2021-11-21 18:35:00 | sha-tin       |      6 |        9 | Courier Wonder     |   3    | milkman              |
-| 20 | :2nd_place_medal: | 2021-11-21 18:35:00 | sha-tin       |      6 |       10 | Naboo Attack       |   9    | milkman              |
-| 21 | :boom:            | 2021-11-21 18:00:00 | townsville    |      8 |        6 | Dawson Diamond     |   2.62 | evenodds,overthrow   |
-| 22 | :boom:            | 2021-11-21 17:21:00 | townsville    |      7 |        3 | Maquereau          |   3    | vulture,pangea       |
-| 23 | :boom:            | 2021-11-21 17:20:00 | alice-springs |      2 |        1 | That's Justified   |   1.3  | vulture,blackshadow  |
-| 24 | :3rd_place_medal: | 2021-11-21 17:20:00 | alice-springs |      2 |        2 | Valley Prince      |   2.9  | icyhot               |
-| 25 | 5                 | 2021-11-21 16:58:00 | clare         |      6 |        8 | Biarchi            |   4.75 | vulture              |
-| 26 | 9                 | 2021-11-21 16:35:00 | kilmore       |      6 |        5 | Nuclear Energy     |  16    | pangea               |
-| 27 | :boom:            | 2021-11-21 16:05:00 | townsville    |      5 |        2 | Big Jake           |   3.6  | evenodds,blackshadow |
-| 28 | :boom:            | 2021-11-21 13:40:00 | townsville    |      1 |        7 | Sweet Way's        |   3.8  | overthrow            |
+|    | finish   | time                | track     |   race |   number | name             |   odds | tipster            |
+|---:|:---------|:--------------------|:----------|-------:|---------:|:-----------------|-------:|:-------------------|
+|  0 | :soon:   | 2021-11-23 02:25:00 | kempton   |      6 |        4 | Timberman        |   4.5  | overthrow          |
+|  1 | :soon:   | 2021-11-23 01:55:00 | kempton   |      5 |        5 | Khan             |   3.5  | vulture            |
+|  2 | :soon:   | 2021-11-23 01:35:00 | ludlow    |      4 |        1 | Bathiva          |   3.5  | overthrow          |
+|  3 | :soon:   | 2021-11-23 01:25:00 | kempton   |      4 |        3 | Gortroe Joe      |   3.75 | overthrow          |
+|  4 | :soon:   | 2021-11-23 00:50:00 | kempton   |      3 |        1 | My Sister Sarah  |   1.6  | overthrow          |
+|  5 | :soon:   | 2021-11-23 00:25:00 | ludlow    |      2 |        1 | Brief Ambition   |   1.26 | evenodds,overthrow |
+|  6 | :soon:   | 2021-11-23 00:15:00 | kempton   |      2 |        2 | Atholl Street    |   2.5  | evenodds,overthrow |
+|  7 | :soon:   | 2021-11-23 00:15:00 | kempton   |      2 |        3 | Sebastopol       |   2.25 | vulture            |
+|  8 | :soon:   | 2021-11-22 23:50:00 | ludlow    |      1 |        3 | Rock Legend      |   2.45 | overthrow          |
+|  9 | :soon:   | 2021-11-22 23:40:00 | kempton   |      1 |        1 | Call Of The Wild |   1.5  | vulture,milkman    |
+| 10 | :soon:   | 2021-11-22 23:40:00 | kempton   |      1 |        3 | Petrossian       |   2.8  | overthrow,milkman  |
+| 11 | :soon:   | 2021-11-22 21:35:00 | greyville |      1 |        6 | Yata             |   0    | vulture            |
+| 12 | 103      | 2021-11-22 16:45:00 | warwick   |      5 |        2 | Open Road        |  14    | vulture            |
+| 13 | 103      | 2021-11-22 16:10:00 | warwick   |      4 |        5 | Hallowed Dreams  |   6    | pangea             |
