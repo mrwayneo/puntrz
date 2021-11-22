@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-23 00:24:40 +1000  
+date: 2021-11-23 05:27:01 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     31 |      8 |   -108   | 0.26 | -0.35 |
-| Last 28 Days   |    158 |     24 |   -936.5 | 0.15 | -0.59 |
-| Last 6 Months  |    158 |     24 |   -936.5 | 0.15 | -0.59 |
-| Since Jan 2020 |    158 |     24 |   -936.5 | 0.15 | -0.59 |
+| Last 7 Days    |     31 |      8 |   -108.5 | 0.26 | -0.35 |
+| Last 28 Days   |    158 |     24 |   -937   | 0.15 | -0.59 |
+| Last 6 Months  |    158 |     24 |   -937   | 0.15 | -0.59 |
+| Since Jan 2020 |    158 |     24 |   -937   | 0.15 | -0.59 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
 | :2nd_place_medal: | 2021-11-22 | kempton R1             | 3 Petrossian          |  2.8  |    -10   |
-| :boom:            | 2021-11-22 | kempton R1             | 1 Call Of The Wild    |  1.4  |      4   |
+| :boom:            | 2021-11-22 | kempton R1             | 1 Call Of The Wild    |  1.35 |      3.5 |
 | :boom:            | 2021-11-22 | navan R3               | 5 Hollow Games        |  1.4  |      4   |
 | 4                 | 2021-11-22 | navan R2               | 8 Au Fleuron          |  1.65 |    -10   |
 | :2nd_place_medal: | 2021-11-21 | sha-tin R6             | 10 Naboo Attack       |  9    |    -10   |
@@ -54,8 +54,8 @@ categories: None
 | 0                 | 2021-11-17 | lingfield R3           | 3 Moveit Like Minnie  |  0    |    -10   |
 | 0                 | 2021-11-16 | ayr R1                 | 8 Soft Risk           |  0    |    -10   |
 | 0                 | 2021-11-16 | turffontein R6         | 4 Bella Swan          |  0    |    -10   |
-| 0                 | 2021-11-15 | punchestown R8         | 1 Smooth Player       |  0    |    -10   |
 | :boom:            | 2021-11-15 | punchestown R8         | 2 The Big Doyen       |  4    |     30   |
+| 0                 | 2021-11-15 | punchestown R8         | 1 Smooth Player       |  0    |    -10   |
 | 0                 | 2021-11-15 | cheltenham R5          | 2 Sonigino            |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-15 | cheltenham R5          | 4 Washington          |  3.4  |    -10   |
 | 7                 | 2021-11-15 | cheltenham R4          | 11 Marie's Rock       | 23    |    -10   |
@@ -64,10 +64,10 @@ categories: None
 | :3rd_place_medal: | 2021-11-14 | fontwell R1            | 13 Wiseguy            |  1.55 |    -10   |
 | 8                 | 2021-11-14 | hobart R3              | 9 Lady Marina         |  7.5  |    -10   |
 | 0                 | 2021-11-14 | wolverhampton R3       | 1 Dakota Power        |  0    |    -10   |
-| 0                 | 2021-11-14 | cheltenham R7          | 19 Whisky Express     |  0    |    -10   |
-| 0                 | 2021-11-14 | cheltenham R7          | 16 Starlyte           |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R7          | 9 Lady Excalibur      |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R7          | 7 Finest View         |  0    |    -10   |
+| 0                 | 2021-11-14 | cheltenham R7          | 16 Starlyte           |  0    |    -10   |
+| 0                 | 2021-11-14 | cheltenham R7          | 19 Whisky Express     |  0    |    -10   |
 | 0                 | 2021-11-14 | cheltenham R6          | 8 Mackelduff          |  0    |    -10   |
 | 0                 | 2021-11-14 | wetherby R5            | 5 Sauce Of Life       |  0    |    -10   |
 | 0                 | 2021-11-14 | kenilworth R6          | 2 Kalahari Ferrari    |  0    |    -10   |
@@ -84,8 +84,8 @@ categories: None
 | 0                 | 2021-11-13 | kembla-grange R5       | 1 Spaltet             |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R5             | 10 Putontheredlight   |  2.15 |    -10   |
 | 4                 | 2021-11-13 | doomben R5             | 4 Zavaboom            | 17    |    -10   |
-| :boom:            | 2021-11-13 | ascot R1               | 6 Written Matter      |  5.1  |     41   |
 | 7                 | 2021-11-13 | ascot R1               | 2 Fairy Fast          |  6    |    -10   |
+| :boom:            | 2021-11-13 | ascot R1               | 6 Written Matter      |  5.1  |     41   |
 | :2nd_place_medal: | 2021-11-13 | gold-coast R4          | 1 Vivyn               |  1.28 |    -10   |
 | :3rd_place_medal: | 2021-11-13 | newcastle R5           | 1 Love Tap            |  3.1  |    -10   |
 | 4                 | 2021-11-13 | riccarton-park R8      | 1 Imperatriz          |  3.5  |    -10   |

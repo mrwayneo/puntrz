@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-23 00:24:45 +1000  
+date: 2021-11-23 05:27:06 +1000  
 ---   
 
 
@@ -37,25 +37,25 @@ date: 2021-11-23 00:24:45 +1000
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     48 |      6 |   -259   | 0.12 | -0.54 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    348 |     88 |   -316.6 | 0.25 | -0.09 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    282 |     53 |   -835.5 | 0.19 | -0.3  |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    158 |     24 |   -936.5 | 0.15 | -0.59 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    158 |     24 |   -937   | 0.15 | -0.59 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    493 |    123 |   -964   | 0.25 | -0.2  |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    706 |    103 |  -1174.6 | 0.15 | -0.17 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    611 |    158 |  -1297.5 | 0.26 | -0.21 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2078 |    482 |  -2258.2 | 0.23 | -0.11 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    611 |    159 |  -1284   | 0.26 | -0.21 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2078 |    487 |  -2126.2 | 0.23 | -0.1  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2576 |    136 |  -3185   | 0.05 | -0.12 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3088 |    692 |  -5802.6 | 0.22 | -0.19 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6354 |    906 | -11741   | 0.14 | -0.18 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3088 |    693 |  -5789.6 | 0.22 | -0.19 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6354 |    908 | -11626   | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7999 |    425 | -18369   | 0.05 | -0.23 |
 
 |    | finish            | time                | track     |   race |   number | name             |   odds | tipster            |
 |---:|:------------------|:--------------------|:----------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | :soon:            | 2021-11-23 02:25:00 | kempton   |      6 |        4 | Timberman        |   4.5  | overthrow          |
-|  1 | :soon:            | 2021-11-23 01:55:00 | kempton   |      5 |        5 | Khan             |   3.5  | vulture            |
-|  2 | :soon:            | 2021-11-23 01:35:00 | ludlow    |      4 |        1 | Bathiva          |   3.5  | overthrow          |
-|  3 | :soon:            | 2021-11-23 01:25:00 | kempton   |      4 |        3 | Gortroe Joe      |   3.75 | overthrow          |
-|  4 | :soon:            | 2021-11-23 00:50:00 | kempton   |      3 |        1 | My Sister Sarah  |   1.6  | overthrow          |
-|  5 | :soon:            | 2021-11-23 00:25:00 | ludlow    |      2 |        1 | Brief Ambition   |   1.26 | evenodds,overthrow |
-|  6 | 108               | 2021-11-23 00:15:00 | kempton   |      2 |        2 | Atholl Street    |   2.6  | evenodds,overthrow |
+|  0 | :boom:            | 2021-11-23 02:25:00 | kempton   |      6 |        4 | Timberman        |   4.5  | overthrow          |
+|  1 | :3rd_place_medal: | 2021-11-23 01:55:00 | kempton   |      5 |        5 | Khan             |   3.5  | vulture            |
+|  2 | :boom:            | 2021-11-23 01:35:00 | ludlow    |      4 |        1 | Bathiva          |   3.5  | overthrow          |
+|  3 | :boom:            | 2021-11-23 01:25:00 | kempton   |      4 |        3 | Gortroe Joe      |   3.75 | overthrow          |
+|  4 | :boom:            | 2021-11-23 00:50:00 | kempton   |      3 |        1 | My Sister Sarah  |   1.6  | overthrow          |
+|  5 | :boom:            | 2021-11-23 00:25:00 | ludlow    |      2 |        1 | Brief Ambition   |   1.26 | evenodds,overthrow |
+|  6 | :2nd_place_medal: | 2021-11-23 00:15:00 | kempton   |      2 |        2 | Atholl Street    |   2.6  | evenodds,overthrow |
 |  7 | 108               | 2021-11-23 00:15:00 | kempton   |      2 |        3 | Sebastopol       |   3.4  | vulture            |
 |  8 | :2nd_place_medal: | 2021-11-22 23:50:00 | ludlow    |      1 |        3 | Rock Legend      |   2.45 | overthrow          |
 |  9 | :boom:            | 2021-11-22 23:40:00 | kempton   |      1 |        1 | Call Of The Wild |   1.5  | vulture,milkman    |
