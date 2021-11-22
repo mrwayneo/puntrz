@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-22 17:35:38 +1000  
+date: 2021-11-22 17:50:30 +1000  
 ---   
 
 
@@ -61,5 +61,3 @@ date: 2021-11-22 17:35:38 +1000
 |  9 | :soon:   | 2021-11-22 23:40:00 | kempton   |      1 |        1 | Call Of The Wild |   1.5  | vulture,milkman    |
 | 10 | :soon:   | 2021-11-22 23:40:00 | kempton   |      1 |        3 | Petrossian       |   2.8  | overthrow,milkman  |
 | 11 | :soon:   | 2021-11-22 21:35:00 | greyville |      1 |        6 | Yata             |   0    | vulture            |
-| 12 | 103      | 2021-11-22 16:45:00 | warwick   |      5 |        2 | Open Road        |  14    | vulture            |
-| 13 | 103      | 2021-11-22 16:10:00 | warwick   |      4 |        5 | Hallowed Dreams  |   6    | pangea             |
