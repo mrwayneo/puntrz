@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2021-11-23 08:15:29 +1000  
+date: 2021-11-23 13:34:06 +1000  
 categories: None 
 ---   
 
@@ -93,9 +93,9 @@ categories: None
 | 0                 | 2021-11-05 | chelmsford-city R3     | 2 Manaafith           |  0    |    -10   |
 | 0                 | 2021-11-05 | newbury R4             | 5 Elle Est Belle      |  0    |    -10   |
 | 0                 | 2021-11-05 | newbury R3             | 4 Silver Forever      |  0    |    -10   |
-| 0                 | 2021-11-04 | newbury R2             | 4 Chancycourt         |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-04 | newbury R2             | 1 Broomfield Burg     |  1.65 |    -10   |
 | :3rd_place_medal: | 2021-11-04 | newbury R2             | 2 Boombawn            |  7    |    -10   |
+| 0                 | 2021-11-04 | newbury R2             | 4 Chancycourt         |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-04 | belmont R8             | 5 Memorable Miss      |  5    |    -10   |
 | :2nd_place_medal: | 2021-11-03 | exeter R4              | 1 Ask A Honey Bee     |  4    |    -10   |
 | :2nd_place_medal: | 2021-11-03 | exeter R2              | 9 Reilly              |  5.5  |    -10   |
@@ -834,9 +834,9 @@ categories: None
 | 0                 | 2021-03-19 | cheltenham R1          | 8 Shan Blue           | 11    |    -10   |
 | 0                 | 2021-03-18 | kempton R4             | 6 Ridgeway Avenue     |  2.8  |    -10   |
 | :2nd_place_medal: | 2021-03-18 | cheltenham R7          | 6 Kilcruit            |  2.9  |    -10   |
+| :3rd_place_medal: | 2021-03-18 | cheltenham R4          | 1 Chacun Pour Soi     |  1.85 |    -10   |
 | 0                 | 2021-03-18 | cheltenham R4          | 7 Politologue         | 13    |    -10   |
 | :2nd_place_medal: | 2021-03-18 | cheltenham R4          | 6 Nube Negra          | 11    |    -10   |
-| :3rd_place_medal: | 2021-03-18 | cheltenham R4          | 1 Chacun Pour Soi     |  1.85 |    -10   |
 | :3rd_place_medal: | 2021-03-18 | cheltenham R1          | 3 Bravemansgame       |  4.75 |    -10   |
 | :2nd_place_medal: | 2021-03-18 | cheltenham R1          | 5 Gaillard Du Mesnil  |  3.5  |    -10   |
 | 0                 | 2021-03-17 | ascot R1               | 4 Airlie Queen        |  6.5  |    -10   |
@@ -847,9 +847,9 @@ categories: None
 | :boom:            | 2021-03-15 | warwick R2             | 1 Calico              |  1.3  |      3   |
 | 6                 | 2021-03-14 | sunshine-coast R6      | 1 Bombay Rocket       |  5    |    -10   |
 | 0                 | 2021-03-14 | hereford R5            | 5 Undisputed          | 12    |    -10   |
+| 0                 | 2021-03-14 | sandown R5             | 4 No Getaway          |  6    |    -10   |
 | 0                 | 2021-03-14 | sandown R5             | 1 Stratagem           |  9    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | sandown R5             | 3 Lust For Glory      | 15    |    -10   |
-| 0                 | 2021-03-14 | sandown R5             | 4 No Getaway          |  6    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | sandown R4             | 18 Tweed Skirt        |  7.5  |    -10   |
 | 0                 | 2021-03-14 | sandown R4             | 9 Precious            | 17    |    -10   |
 | 0                 | 2021-03-14 | sandown R4             | 5 Dazzling Glory      | 21    |    -10   |

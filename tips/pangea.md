@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2021-11-23 08:15:30 +1000  
+date: 2021-11-23 13:34:07 +1000  
 categories: None 
 ---   
 
@@ -47,9 +47,9 @@ categories: None
 | 5                 | 2021-11-20 | sunshine-coast R6      | 3 Stellar Magic      |  4.75 |    -10   |
 | :2nd_place_medal: | 2021-11-20 | sunshine-coast R6      | 2 Glorious Ruby      |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-20 | kembla-grange R7       | 3 Malkovich          |  2.2  |    -10   |
+| :boom:            | 2021-11-20 | roma R4                | 2 Patented           |  2.6  |     16   |
 | :2nd_place_medal: | 2021-11-20 | roma R4                | 8 Phionaix           |  5.6  |    -10   |
 | 0                 | 2021-11-20 | roma R4                | 1 V J Day            |  0    |    -10   |
-| :boom:            | 2021-11-20 | roma R4                | 2 Patented           |  2.6  |     16   |
 | :boom:            | 2021-11-20 | ballarat R7            | 9 Just Benjamin      | 11    |    100   |
 | :boom:            | 2021-11-20 | ascot R1               | 1 Pure Devotion      |  1.6  |      6   |
 | 0                 | 2021-11-20 | roma R2                | 5 Mishani Ghost      |  0    |    -10   |
@@ -208,9 +208,9 @@ categories: None
 | :3rd_place_medal: | 2021-11-05 | rockhampton R5         | 5 Boss Baby          |  5.5  |    -10   |
 | :2nd_place_medal: | 2021-11-05 | rockhampton R1         | 1 Mocial Chief       |  1.4  |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R7          | 1 Quackerjack        |  3.3  |    -10   |
+| :2nd_place_medal: | 2021-11-04 | flemington R6          | 8 Malkovich          |  2.5  |    -10   |
 | 4                 | 2021-11-04 | flemington R6          | 6 Parsifal           | 13    |    -10   |
 | 5                 | 2021-11-04 | flemington R6          | 10 Written Beauty    |  4.8  |    -10   |
-| :2nd_place_medal: | 2021-11-04 | flemington R6          | 8 Malkovich          |  2.5  |    -10   |
 | 5                 | 2021-11-04 | ipswich R3             | 3 Kessel Run         | 11    |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R5          | 1 Quiet Riot         |  5    |    -10   |
 | :boom:            | 2021-11-04 | ipswich R2             | 1 Motomiss           |  3.1  |     21   |
@@ -230,16 +230,16 @@ categories: None
 | 4                 | 2021-11-02 | eagle-farm R7          | 2 King Klaus         |  6.5  |    -10   |
 | 6                 | 2021-11-02 | eagle-farm R7          | 4 Le Palmier         |  2.3  |    -10   |
 | :3rd_place_medal: | 2021-11-02 | darwin R4              | 2 Autocratic         |  5    |    -10   |
-| 10                | 2021-11-02 | flemington R10         | 6 Pandemic           |  4.8  |    -10   |
-| 13                | 2021-11-02 | flemington R10         | 13 Night Raid        | 17    |    -10   |
 | :3rd_place_medal: | 2021-11-02 | flemington R10         | 4 Prime Candidate    |  8.5  |    -10   |
 | 7                 | 2021-11-02 | flemington R10         | 8 Rubisaki           | 11    |    -10   |
+| 10                | 2021-11-02 | flemington R10         | 6 Pandemic           |  4.8  |    -10   |
+| 13                | 2021-11-02 | flemington R10         | 13 Night Raid        | 17    |    -10   |
 | :boom:            | 2021-11-02 | eagle-farm R6          | 4 Ingear             |  1.8  |      8   |
 | :boom:            | 2021-11-02 | darwin R3              | 4 Overruled          |  2.7  |     17   |
 | :2nd_place_medal: | 2021-11-02 | canberra R6            | 3 Propose To Me      |  5    |    -10   |
-| 4                 | 2021-11-02 | darwin R2              | 5 Dizzy Miss Lizzy   |  4.8  |    -10   |
 | :boom:            | 2021-11-02 | darwin R2              | 4 The Captain        |  3.1  |     21   |
 | :3rd_place_medal: | 2021-11-02 | darwin R2              | 3 Syncline           |  2.35 |    -10   |
+| 4                 | 2021-11-02 | darwin R2              | 5 Dizzy Miss Lizzy   |  4.8  |    -10   |
 | :2nd_place_medal: | 2021-11-02 | eagle-farm R4          | 7 Fetch              |  2.2  |    -10   |
 | :3rd_place_medal: | 2021-11-02 | eagle-farm R4          | 3 Ralph's Honour     |  4.6  |    -10   |
 | 5                 | 2021-11-02 | canberra R5            | 5 Port Douglas       |  4.2  |    -10   |
