@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-23 16:59:14 +1000  
+date: 2021-11-23 17:14:36 +1000  
 ---   
 
 
@@ -59,7 +59,7 @@ date: 2021-11-23 16:59:14 +1000
 |  7 | :soon:            | 2021-11-24 00:45:00 | sedgefield    |      3 |        4 | Obey The Rules  |    2.1 | vulture            |
 |  8 | :soon:            | 2021-11-24 00:25:00 | southwell     |      3 |        2 | Haas Boy        |    5.5 | looseknot          |
 |  9 | :soon:            | 2021-11-23 23:50:00 | southwell     |      2 |        4 | Accordingtogino |    5.5 | overthrow          |
-| 10 | --                | 2021-11-23 16:40:00 | ballina       |      5 |        2 | Vivyn           |    1.6 | evenodds,overthrow |
+| 10 | 6.0               | 2021-11-23 16:40:00 | ballina       |      5 |        2 | Vivyn           |    1.6 | evenodds,overthrow |
 | 11 | :2nd_place_medal: | 2021-11-23 16:27:00 | cairns        |      4 |        1 | Verbalizer      |    2.3 | benny,icyhot       |
 | 12 | :boom:            | 2021-11-23 15:50:00 | cairns        |      3 |        1 | Yes Dream       |    1.3 | evenodds,milkman   |
-| 13 | 4                 | 2021-11-23 14:34:00 | cairns        |      1 |        2 | Own Sweet Way   |    2.7 | vulture,pangea     |
+| 13 | 4.0               | 2021-11-23 14:34:00 | cairns        |      1 |        2 | Own Sweet Way   |    2.7 | vulture,pangea     |
