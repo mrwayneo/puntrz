@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-23 19:46:57 +1000  
+date: 2021-11-23 21:38:26 +1000  
 categories: None 
 ---   
 
@@ -84,8 +84,8 @@ categories: None
 | :2nd_place_medal: | 2021-11-13 | doomben R6             | 8 Palaisipan          |  4.6  |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R6             | 9 She Can Sing        |  2.9  |    -10   |
 | 0                 | 2021-11-13 | kembla-grange R5       | 1 Spaltet             |  0    |    -10   |
-| :3rd_place_medal: | 2021-11-13 | doomben R5             | 10 Putontheredlight   |  2.15 |    -10   |
 | 4                 | 2021-11-13 | doomben R5             | 4 Zavaboom            | 17    |    -10   |
+| :3rd_place_medal: | 2021-11-13 | doomben R5             | 10 Putontheredlight   |  2.15 |    -10   |
 | :boom:            | 2021-11-13 | ascot R1               | 6 Written Matter      |  5.1  |     41   |
 | 7                 | 2021-11-13 | ascot R1               | 2 Fairy Fast          |  6    |    -10   |
 | :2nd_place_medal: | 2021-11-13 | gold-coast R4          | 1 Vivyn               |  1.28 |    -10   |
@@ -104,8 +104,8 @@ categories: None
 | 0                 | 2021-11-11 | exeter R5              | 4 Gallyhill           |  0    |    -10   |
 | 0                 | 2021-11-11 | exeter R2              | 7 Judicial Law        |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-11 | exeter R2              | 5 I Am Maximus        |  1.9  |    -10   |
-| :boom:            | 2021-11-10 | fairyhouse R8          | 3 Glenglass           |  2    |     10   |
 | :2nd_place_medal: | 2021-11-10 | fairyhouse R8          | 4 O'moore Park        |  2.5  |    -10   |
+| :boom:            | 2021-11-10 | fairyhouse R8          | 3 Glenglass           |  2    |     10   |
 | :3rd_place_medal: | 2021-11-10 | huntingdon R7          | 1 Alazwar             |  1.5  |    -10   |
 | :boom:            | 2021-11-09 | huntingdon R1          | 7 Theatre Glory       |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3          | 3 Yes Dream           |  1.6  |      6   |
