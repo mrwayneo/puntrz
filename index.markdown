@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-23 14:04:35 +1000  
+date: 2021-11-23 14:47:56 +1000  
 ---   
 
 
@@ -62,4 +62,4 @@ date: 2021-11-23 14:04:35 +1000
 | 10 | :soon:   | 2021-11-23 16:40:00 | ballina       |      5 |        2 | Vivyn           |    1.6 | evenodds,overthrow |
 | 11 | :soon:   | 2021-11-23 16:27:00 | cairns        |      4 |        1 | Verbalizer      |    2.3 | benny,icyhot       |
 | 12 | :soon:   | 2021-11-23 15:50:00 | cairns        |      3 |        1 | Yes Dream       |    1.3 | evenodds,milkman   |
-| 13 | :soon:   | 2021-11-23 14:34:00 | cairns        |      1 |        2 | Own Sweet Way   |    2.7 | vulture,pangea     |
+| 13 | 4        | 2021-11-23 14:34:00 | cairns        |      1 |        2 | Own Sweet Way   |    2.7 | vulture,pangea     |
