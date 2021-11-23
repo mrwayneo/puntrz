@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-23 16:29:09 +1000  
+date: 2021-11-23 16:44:27 +1000  
 ---   
 
 
@@ -47,19 +47,19 @@ date: 2021-11-23 16:29:09 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6354 |    908 | -11626   | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7999 |    425 | -18369   | 0.05 | -0.23 |
 
-|    | finish   | time                | track         |   race |   number | name            |   odds | tipster            |
-|---:|:---------|:--------------------|:--------------|-------:|---------:|:----------------|-------:|:-------------------|
-|  0 | :soon:   | 2021-11-24 04:00:00 | wolverhampton |      3 |        3 | Shamlaan        |    3.5 | vulture            |
-|  1 | :soon:   | 2021-11-24 03:30:00 | wolverhampton |      2 |        2 | Secret Image    |    4.6 | vulture,milkman    |
-|  2 | :soon:   | 2021-11-24 03:30:00 | wolverhampton |      2 |       13 | Tamilla         |    7.5 | looseknot          |
-|  3 | :soon:   | 2021-11-24 03:00:00 | wolverhampton |      1 |        1 | New Mission     |    3   | vulture            |
-|  4 | :soon:   | 2021-11-24 02:35:00 | punchestown   |      8 |       12 | Lovely Moon     |    6.5 | looseknot          |
-|  5 | :soon:   | 2021-11-24 01:25:00 | southwell     |      5 |        5 | Lelantos        |    2.4 | overthrow          |
-|  6 | :soon:   | 2021-11-24 01:05:00 | punchestown   |      5 |        5 | I A Connect     |    5.5 | looseknot          |
-|  7 | :soon:   | 2021-11-24 00:45:00 | sedgefield    |      3 |        4 | Obey The Rules  |    2.1 | vulture            |
-|  8 | :soon:   | 2021-11-24 00:25:00 | southwell     |      3 |        2 | Haas Boy        |    5.5 | looseknot          |
-|  9 | :soon:   | 2021-11-23 23:50:00 | southwell     |      2 |        4 | Accordingtogino |    5.5 | overthrow          |
-| 10 | :soon:   | 2021-11-23 16:40:00 | ballina       |      5 |        2 | Vivyn           |    1.6 | evenodds,overthrow |
-| 11 | --       | 2021-11-23 16:27:00 | cairns        |      4 |        1 | Verbalizer      |    2.3 | benny,icyhot       |
-| 12 | :boom:   | 2021-11-23 15:50:00 | cairns        |      3 |        1 | Yes Dream       |    1.3 | evenodds,milkman   |
-| 13 | 4        | 2021-11-23 14:34:00 | cairns        |      1 |        2 | Own Sweet Way   |    2.7 | vulture,pangea     |
+|    | finish            | time                | track         |   race |   number | name            |   odds | tipster            |
+|---:|:------------------|:--------------------|:--------------|-------:|---------:|:----------------|-------:|:-------------------|
+|  0 | :soon:            | 2021-11-24 04:00:00 | wolverhampton |      3 |        3 | Shamlaan        |    3.5 | vulture            |
+|  1 | :soon:            | 2021-11-24 03:30:00 | wolverhampton |      2 |        2 | Secret Image    |    4.6 | vulture,milkman    |
+|  2 | :soon:            | 2021-11-24 03:30:00 | wolverhampton |      2 |       13 | Tamilla         |    7.5 | looseknot          |
+|  3 | :soon:            | 2021-11-24 03:00:00 | wolverhampton |      1 |        1 | New Mission     |    3   | vulture            |
+|  4 | :soon:            | 2021-11-24 02:35:00 | punchestown   |      8 |       12 | Lovely Moon     |    6.5 | looseknot          |
+|  5 | :soon:            | 2021-11-24 01:25:00 | southwell     |      5 |        5 | Lelantos        |    2.4 | overthrow          |
+|  6 | :soon:            | 2021-11-24 01:05:00 | punchestown   |      5 |        5 | I A Connect     |    5.5 | looseknot          |
+|  7 | :soon:            | 2021-11-24 00:45:00 | sedgefield    |      3 |        4 | Obey The Rules  |    2.1 | vulture            |
+|  8 | :soon:            | 2021-11-24 00:25:00 | southwell     |      3 |        2 | Haas Boy        |    5.5 | looseknot          |
+|  9 | :soon:            | 2021-11-23 23:50:00 | southwell     |      2 |        4 | Accordingtogino |    5.5 | overthrow          |
+| 10 | --                | 2021-11-23 16:40:00 | ballina       |      5 |        2 | Vivyn           |    1.6 | evenodds,overthrow |
+| 11 | :2nd_place_medal: | 2021-11-23 16:27:00 | cairns        |      4 |        1 | Verbalizer      |    2.3 | benny,icyhot       |
+| 12 | :boom:            | 2021-11-23 15:50:00 | cairns        |      3 |        1 | Yes Dream       |    1.3 | evenodds,milkman   |
+| 13 | 4                 | 2021-11-23 14:34:00 | cairns        |      1 |        2 | Own Sweet Way   |    2.7 | vulture,pangea     |
