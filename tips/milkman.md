@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-23 22:57:16 +1000  
+date: 2021-11-24 04:01:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     31 |      8 |   -108.5 | 0.26 | -0.35 |
-| Last 28 Days   |    158 |     24 |   -937   | 0.15 | -0.59 |
-| Last 6 Months  |    158 |     24 |   -937   | 0.15 | -0.59 |
-| Since Jan 2020 |    158 |     24 |   -937   | 0.15 | -0.59 |
+| Last 7 Days    |     30 |      7 |   -147.5 | 0.23 | -0.49 |
+| Last 28 Days   |    160 |     25 |   -945   | 0.16 | -0.59 |
+| Last 6 Months  |    160 |     25 |   -945   | 0.16 | -0.59 |
+| Since Jan 2020 |    160 |     25 |   -945   | 0.16 | -0.59 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 03:30             | 2021-11-24 | wolverhampton R2       | 2 Secret Image        |  4.6  |    -10   |
+| :2nd_place_medal: | 2021-11-24 | wolverhampton R2       | 2 Secret Image        |  4.6  |    -10   |
 | :boom:            | 2021-11-23 | cairns R3              | 1 Yes Dream           |  1.2  |      2   |
 | :2nd_place_medal: | 2021-11-22 | kempton R1             | 3 Petrossian          |  2.8  |    -10   |
 | :boom:            | 2021-11-22 | kempton R1             | 1 Call Of The Wild    |  1.35 |      3.5 |
@@ -84,8 +84,8 @@ categories: None
 | :2nd_place_medal: | 2021-11-13 | doomben R6             | 8 Palaisipan          |  4.6  |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R6             | 9 She Can Sing        |  2.9  |    -10   |
 | 0                 | 2021-11-13 | kembla-grange R5       | 1 Spaltet             |  0    |    -10   |
-| :3rd_place_medal: | 2021-11-13 | doomben R5             | 10 Putontheredlight   |  2.15 |    -10   |
 | 4                 | 2021-11-13 | doomben R5             | 4 Zavaboom            | 17    |    -10   |
+| :3rd_place_medal: | 2021-11-13 | doomben R5             | 10 Putontheredlight   |  2.15 |    -10   |
 | :boom:            | 2021-11-13 | ascot R1               | 6 Written Matter      |  5.1  |     41   |
 | 7                 | 2021-11-13 | ascot R1               | 2 Fairy Fast          |  6    |    -10   |
 | :2nd_place_medal: | 2021-11-13 | gold-coast R4          | 1 Vivyn               |  1.28 |    -10   |
@@ -104,8 +104,8 @@ categories: None
 | 0                 | 2021-11-11 | exeter R5              | 4 Gallyhill           |  0    |    -10   |
 | 0                 | 2021-11-11 | exeter R2              | 7 Judicial Law        |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-11 | exeter R2              | 5 I Am Maximus        |  1.9  |    -10   |
-| :boom:            | 2021-11-10 | fairyhouse R8          | 3 Glenglass           |  2    |     10   |
 | :2nd_place_medal: | 2021-11-10 | fairyhouse R8          | 4 O'moore Park        |  2.5  |    -10   |
+| :boom:            | 2021-11-10 | fairyhouse R8          | 3 Glenglass           |  2    |     10   |
 | :3rd_place_medal: | 2021-11-10 | huntingdon R7          | 1 Alazwar             |  1.5  |    -10   |
 | :boom:            | 2021-11-09 | huntingdon R1          | 7 Theatre Glory       |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3          | 3 Yes Dream           |  1.6  |      6   |
