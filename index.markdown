@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-25 06:05:03 +1000  
+date: 2021-11-25 06:23:00 +1000  
 ---   
 
 
@@ -49,7 +49,7 @@ date: 2021-11-25 06:05:03 +1000
 
 |    | finish            | time                | track            |   race |   number | name               |   odds | tipster             |
 |---:|:------------------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | :soon:            | 2021-11-25 06:15:00 | kempton          |      6 |       10 | Lady Rockstar      |   8.5  | benny,pangea        |
+|  0 | --                | 2021-11-25 06:15:00 | kempton          |      6 |       10 | Lady Rockstar      |   8.5  | benny,pangea        |
 |  1 | 4.0               | 2021-11-25 05:45:00 | kempton          |      5 |        6 | Spice Store        |   8.5  | looseknot           |
 |  2 | --                | 2021-11-25 05:15:00 | kempton          |      4 |       12 | Petite Joe         |   5.5  | looseknot           |
 |  3 | --                | 2021-11-25 04:15:00 | kempton          |      2 |       13 | Allarmista         |   5    | looseknot           |
