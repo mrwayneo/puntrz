@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-24 20:58:32 +1000  
+date: 2021-11-24 21:12:13 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
-| 0                 | 2021-11-24 | belmont R8            | 5 Vanman              |  0    |    -10   |
+| 9                 | 2021-11-24 | belmont R8            | 5 Vanman              |  6.5  |    -10   |
 | :boom:            | 2021-11-24 | belmont R7            | 5 Acefire             |  1.8  |      8   |
 | :boom:            | 2021-11-24 | belmont R6            | 2 English Heritage    |  2.2  |     12   |
 | 5                 | 2021-11-24 | belmont R4            | 3 Kick A Goal Son     |  9.5  |    -10   |

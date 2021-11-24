@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-11-24 20:58:28 +1000  
+date: 2021-11-24 21:12:09 +1000  
 categories: None 
 ---   
 
@@ -59,8 +59,8 @@ categories: None
 | 0                 | 2021-10-27 | bangor R6               | 7 Stop Talking        |  0    |    -10   |
 | :boom:            | 2021-10-23 | ascot R7                | 5 Wilchino            |  2.8  |     18   |
 | :boom:            | 2021-10-23 | ascot R6                | 4 Magical Dream       |  6.5  |     55   |
-| :boom:            | 2021-10-23 | doomben R5              | 2 Birriecart          |  2.3  |     13   |
 | :2nd_place_medal: | 2021-10-23 | doomben R5              | 1 Tiger Heart         |  1.65 |    -10   |
+| :boom:            | 2021-10-23 | doomben R5              | 2 Birriecart          |  2.3  |     13   |
 | :2nd_place_medal: | 2021-10-23 | doomben R4              | 1 Ligulate            |  9    |    -10   |
 | :boom:            | 2021-10-22 | launceston R5           | 1 Deroche             |  1.9  |      9   |
 | 8                 | 2021-10-22 | moonee-valley R6        | 8 Overkill            |  8    |    -10   |
@@ -92,8 +92,8 @@ categories: None
 | :2nd_place_medal: | 2021-09-24 | wolverhampton R6        | 10 Tricolore          | 18    |    -10   |
 | :boom:            | 2021-09-20 | fairview R7             | 9 Whatever Next       |  4.8  |     38   |
 | 0                 | 2021-09-18 | durbanville R5          | 1 Kasimir             |  4    |    -10   |
-| 4                 | 2021-09-18 | newbury R4              | 1 Al Aasy             |  1.67 |    -10   |
 | :3rd_place_medal: | 2021-09-18 | newbury R4              | 3 Ilaraab             | 10    |    -10   |
+| 4                 | 2021-09-18 | newbury R4              | 1 Al Aasy             |  1.67 |    -10   |
 | :3rd_place_medal: | 2021-09-18 | caulfield R9            | 4 La Mexicana         |  5    |    -10   |
 | :2nd_place_medal: | 2021-09-18 | mackay R5               | 2 Mocial Chief        |  3.8  |    -10   |
 | :boom:            | 2021-09-18 | alice-springs R1        | 5 Roppongi            |  2.2  |     12   |
@@ -170,8 +170,8 @@ categories: None
 | :3rd_place_medal: | 2021-06-30 | warwick-farm R7         | 16 Promise Of Success |  2.1  |    -10   |
 | :boom:            | 2021-06-29 | townsville R1           | 5 Ruby July           |  1.2  |      2   |
 | :boom:            | 2021-06-27 | devonport-synthetic R9  | 4 Ancona              |  2.8  |     18   |
-| 9                 | 2021-06-27 | devonport-synthetic R6  | 3 Silkstone           |  8    |    -10   |
 | 5                 | 2021-06-27 | devonport-synthetic R6  | 1 Rising Hsiang       |  6.6  |    -10   |
+| 9                 | 2021-06-27 | devonport-synthetic R6  | 3 Silkstone           |  8    |    -10   |
 | 7                 | 2021-06-26 | belmont R8              | 9 Leading Girl        |  3.3  |    -10   |
 | 0                 | 2021-06-26 | darwin R7               | 4 Autocratic          |  2.05 |    -10   |
 | :3rd_place_medal: | 2021-06-26 | belmont R4              | 7 Secret Plan         |  2.4  |    -10   |
@@ -297,8 +297,8 @@ categories: None
 | :boom:            | 2021-03-30 | mackay R4               | 5 Nailed It Nan       |  2.3  |     13   |
 | :2nd_place_medal: | 2021-03-30 | ipswich R1              | 3 Le Rubis            |  9    |    -10   |
 | :boom:            | 2021-03-28 | sha-tin R3              | 5 Winner Method       |  1.35 |      3.5 |
-| :boom:            | 2021-03-28 | kempton R3              | 1 Al Zaraqaan         |  2.05 |     10.5 |
 | :2nd_place_medal: | 2021-03-28 | kempton R3              | 5 Almighwar           |  4.6  |    -10   |
+| :boom:            | 2021-03-28 | kempton R3              | 1 Al Zaraqaan         |  2.05 |     10.5 |
 | 0                 | 2021-03-28 | kempton R2              | 1 Faylaq              |  4.2  |    -10   |
 | 0                 | 2021-03-27 | toowoomba R6            | 6 Boom Ranga          |  5.5  |    -10   |
 | :boom:            | 2021-03-27 | ascot R9                | 11 Miss Conteki       |  1.6  |      6   |
