@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-24 21:57:18 +1000  
+date: 2021-11-24 22:12:12 +1000  
 ---   
 
 
@@ -66,7 +66,7 @@ date: 2021-11-24 21:57:18 +1000
 | 14 | :soon:            | 2021-11-25 00:15:00 | wetherby         |      2 |        8 | Tarseem            |   4.2  | overthrow           |
 | 15 | :soon:            | 2021-11-24 23:45:00 | wetherby         |      1 |        1 | Away At Dawn       |   2.9  | vulture,blackshadow |
 | 16 | :soon:            | 2021-11-24 23:30:00 | hereford         |      1 |        1 | Le Chiffre D'or    |   1.17 | overthrow           |
-| 17 | :soon:            | 2021-11-24 22:00:00 | launceston       |      9 |        2 | The Risk Factor    |   1.6  | evenodds,overthrow  |
+| 17 | :2nd_place_medal: | 2021-11-24 22:00:00 | launceston       |      9 |        2 | The Risk Factor    |   1.6  | evenodds,overthrow  |
 | 18 | 13.0              | 2021-11-24 20:40:00 | belmont          |      8 |        4 | Phenomenal Anomaly |   9.5  | milkman             |
 | 19 | 9.0               | 2021-11-24 20:40:00 | belmont          |      8 |        5 | Vanman             |   6.5  | overthrow,pikey     |
 | 20 | 12.0              | 2021-11-24 20:05:00 | belmont          |      7 |       12 | Hilton             |   4.33 | milkman             |
