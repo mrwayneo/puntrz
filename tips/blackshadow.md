@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-11-24 22:51:29 +1000  
+date: 2021-11-25 06:04:58 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     14 |      5 |    -16   | 0.36 | -0.11 |
-| Last 28 Days   |     51 |     19 |     32   | 0.37 |  0.06 |
-| Last 6 Months  |    371 |     99 |   -103.6 | 0.27 | -0.03 |
-| Since Jan 2020 |    574 |    148 |   -634.5 | 0.26 | -0.11 |
+| Last 7 Days    |     14 |      6 |     12   | 0.43 |  0.09 |
+| Last 28 Days   |     53 |     20 |     40   | 0.38 |  0.08 |
+| Last 6 Months  |    373 |    100 |    -95.6 | 0.27 | -0.03 |
+| Since Jan 2020 |    576 |    149 |   -626.5 | 0.26 | -0.11 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 23:45             | 2021-11-24 | wetherby R1            | 1 Away At Dawn        |  2.9  |    -10   |
+| :2nd_place_medal: | 2021-11-24 | wetherby R1            | 1 Away At Dawn        |  2.9  |    -10   |
 | :boom:            | 2021-11-24 | belmont R1             | 2 Safety Fuse         |  2.8  |     18   |
 | 4                 | 2021-11-21 | belmont R8             | 10 Miss Vasari        |  2.8  |    -10   |
 | :boom:            | 2021-11-21 | alice-springs R5       | 1 Bench Press         |  1.6  |      6   |
@@ -24,8 +24,8 @@ categories: None
 | 5                 | 2021-11-20 | ascot R9               | 9 Bright Diamond      |  2.75 |    -10   |
 | 6                 | 2021-11-20 | sunshine-coast R9      | 6 Sir Warwick         |  3.4  |    -10   |
 | :2nd_place_medal: | 2021-11-20 | gold-coast R9          | 9 Storm Attack        |  7    |    -10   |
-| :boom:            | 2021-11-20 | sunshine-coast R7      | 2 Zoustyle            |  2.1  |     11   |
 | :2nd_place_medal: | 2021-11-20 | sunshine-coast R7      | 7 Totally Charmed     | 14    |    -10   |
+| :boom:            | 2021-11-20 | sunshine-coast R7      | 2 Zoustyle            |  2.1  |     11   |
 | 5                 | 2021-11-20 | roma R4                | 4 Wait A Minute       |  4.6  |    -10   |
 | :boom:            | 2021-11-20 | ascot R1               | 1 Pure Devotion       |  1.6  |      6   |
 | 0                 | 2021-11-20 | roma R2                | 5 Mishani Ghost       |  0    |    -10   |
@@ -37,8 +37,8 @@ categories: None
 | 9                 | 2021-11-17 | belmont R9             | 5 Savvy Dan           | 12    |    -10   |
 | :3rd_place_medal: | 2021-11-17 | rosehill R3            | 11 Comrade Rosa       |  3.7  |    -10   |
 | :boom:            | 2021-11-15 | turffontein R3         | 9 Sacred Lotus        |  4.6  |     36   |
-| :2nd_place_medal: | 2021-11-15 | cheltenham R3          | 2 Politologue         |  5    |    -10   |
 | 4                 | 2021-11-15 | cheltenham R3          | 3 Rouge Vif           |  7.5  |    -10   |
+| :2nd_place_medal: | 2021-11-15 | cheltenham R3          | 2 Politologue         |  5    |    -10   |
 | :2nd_place_medal: | 2021-11-14 | cairns R4              | 2 Silent Explorer     |  2.9  |    -10   |
 | 6                 | 2021-11-14 | hobart R5              | 3 Deroche             |  4    |    -10   |
 | 0                 | 2021-11-14 | punchestown R4         | 8 Top Bandit          |  0    |    -10   |
@@ -73,15 +73,15 @@ categories: None
 | :2nd_place_medal: | 2021-10-23 | ascot R6               | 7 Secret Plan         |  2.25 |    -10   |
 | :2nd_place_medal: | 2021-10-23 | doomben R5             | 1 Tiger Heart         |  1.65 |    -10   |
 | :3rd_place_medal: | 2021-10-23 | doomben R4             | 8 Run For Glory       |  3.8  |    -10   |
-| :2nd_place_medal: | 2021-10-23 | doomben R3             | 11 Shamaton           |  3.4  |    -10   |
 | :boom:            | 2021-10-23 | doomben R3             | 8 Lyrical Girl        |  7.9  |     69   |
+| :2nd_place_medal: | 2021-10-23 | doomben R3             | 11 Shamaton           |  3.4  |    -10   |
 | :2nd_place_medal: | 2021-10-23 | cheltenham R4          | 4 Danny Kirwan        |  0    |    -10   |
 | :boom:            | 2021-10-22 | launceston R5          | 1 Deroche             |  1.9  |      9   |
 | :2nd_place_medal: | 2021-10-20 | geelong R7             | 7 Dr Drill            | 19    |    -10   |
 | :boom:            | 2021-10-16 | ascot R9               | 12 Real Charisma      |  2    |     10   |
 | :3rd_place_medal: | 2021-10-16 | eagle-farm R4          | 9 Salateen            |  2.2  |    -10   |
-| :boom:            | 2021-10-15 | ipswich R3             | 8 Sir Rocket          |  1.75 |      7.5 |
 | :2nd_place_medal: | 2021-10-15 | ipswich R3             | 10 Lyrical Girl       |  2.15 |    -10   |
+| :boom:            | 2021-10-15 | ipswich R3             | 8 Sir Rocket          |  1.75 |      7.5 |
 | :boom:            | 2021-10-15 | carlisle R7            | 3 Armattiekan         |  2.6  |     16   |
 | :3rd_place_medal: | 2021-10-13 | launceston R7          | 5 Red Letter Lady     |  3.3  |    -10   |
 | :boom:            | 2021-10-13 | launceston R7          | 7 Vivilici            |  4.6  |     36   |
@@ -150,9 +150,9 @@ categories: None
 | :boom:            | 2021-09-14 | yeppoon R5             | 1 The Egyptian        |  1.8  |      8   |
 | 4                 | 2021-09-14 | yeppoon R1             | 6 Attackabeel         |  2    |    -10   |
 | 0                 | 2021-09-13 | worcester R4           | 2 Bathiva             |  3.2  |    -10   |
+| 4                 | 2021-09-12 | devonport-synthetic R1 | 6 Assaranca           |  4.6  |    -10   |
 | :boom:            | 2021-09-12 | devonport-synthetic R1 | 5 Red Letter Lady     |  4.8  |     38   |
 | 5                 | 2021-09-12 | devonport-synthetic R1 | 4 Vivilici            |  3    |    -10   |
-| 4                 | 2021-09-12 | devonport-synthetic R1 | 6 Assaranca           |  4.6  |    -10   |
 | 4                 | 2021-09-11 | durbanville R5         | 1 The Gatekeeper      |  2.5  |    -10   |
 | 4                 | 2021-09-11 | turffontein R6         | 3 Tierra Del Fuego    | 13    |    -10   |
 | :boom:            | 2021-09-11 | turffontein R5         | 5 Cleveland           | 16    |    150   |

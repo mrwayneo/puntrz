@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-11-24 22:51:30 +1000  
+date: 2021-11-25 06:04:59 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |      8 |      1 |    -38   | 0.12 | -0.48 |
-| Last 6 Months  |     47 |     11 |    338.5 | 0.23 |  0.72 |
-| Since Jan 2020 |     88 |     27 |    783.9 | 0.31 |  0.89 |
+| Last 28 Days   |      9 |      1 |    -48   | 0.11 | -0.53 |
+| Last 6 Months  |     48 |     11 |    328.5 | 0.23 |  0.68 |
+| Since Jan 2020 |     89 |     27 |    773.9 | 0.3  |  0.87 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 02:00             | 2021-11-25 | dundalk R3             | 11 Mullacash Buzz    |   6    |    -10   |
+| 0                 | 2021-11-25 | dundalk R3             | 11 Mullacash Buzz    |   0    |    -10   |
 | :2nd_place_medal: | 2021-11-19 | grafton R8             | 4 Tabulam            |   7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-14 | canberra R2            | 2 Affiliate          |   8    |    -10   |
 | 0                 | 2021-11-13 | darwin R6              | 1 Fromthenevernever  |   0    |    -10   |
