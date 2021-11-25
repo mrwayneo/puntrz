@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-25 15:32:24 +1000  
+date: 2021-11-25 15:47:37 +1000  
 ---   
 
 
@@ -78,6 +78,6 @@ date: 2021-11-25 15:32:24 +1000
 | 26 | :soon:            | 2021-11-25 17:22:00 | northam         |      2 |        7 | Marinsky Ballet   |   4.4  | pikey           |
 | 27 | :soon:            | 2021-11-25 17:15:00 | narromine       |      6 |        8 | On a Promise      |   2.3  | vulture         |
 | 28 | :soon:            | 2021-11-25 16:55:00 | wyong           |      6 |        4 | Never Second      |   3    | vulture,pangea  |
-| 29 | :soon:            | 2021-11-25 15:40:00 | wyong           |      4 |        5 | Groover           |   3.6  | vulture,milkman |
+| 29 | 4.0               | 2021-11-25 15:40:00 | wyong           |      4 |        5 | Groover           |   3.6  | vulture,milkman |
 | 30 | :3rd_place_medal: | 2021-11-25 13:57:00 | otaki           |      8 |        4 | Barrow Boy        |   3.6  | vulture         |
 | 31 | :2nd_place_medal: | 2021-11-25 13:22:00 | otaki           |      7 |        6 | Victorem          |   3.7  | vulture         |
