@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-25 20:32:37 +1000  
+date: 2021-11-25 21:12:23 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
-| 0                 | 2021-11-25 | northam R7            | 4 Chiclett            |  0    |    -10   |
+| :3rd_place_medal: | 2021-11-25 | northam R7            | 4 Chiclett            |  2.15 |    -10   |
 | 8                 | 2021-11-25 | northam R5            | 6 Quintus             |  6    |    -10   |
 | :2nd_place_medal: | 2021-11-25 | northam R4            | 3 Do It Right         |  6    |    -10   |
 | :boom:            | 2021-11-25 | northam R2            | 7 Marinsky Ballet     |  4.3  |     33   |
