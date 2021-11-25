@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-25 07:55:09 +1000  
+date: 2021-11-25 13:19:46 +1000  
 ---   
 
 
@@ -47,36 +47,37 @@ date: 2021-11-25 07:55:09 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6303 |    901 | -11651   | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7991 |    425 | -18057   | 0.05 | -0.23 |
 
-|    | finish            | time                | track            |   race |   number | name               |   odds | tipster             |
-|---:|:------------------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | --                | 2021-11-25 06:15:00 | kempton          |      6 |       10 | Lady Rockstar      |   8.5  | benny,pangea        |
-|  1 | 4.0               | 2021-11-25 05:45:00 | kempton          |      5 |        6 | Spice Store        |   8.5  | looseknot           |
-|  2 | --                | 2021-11-25 05:15:00 | kempton          |      4 |       12 | Petite Joe         |   5.5  | looseknot           |
-|  3 | --                | 2021-11-25 04:15:00 | kempton          |      2 |       13 | Allarmista         |   5    | looseknot           |
-|  4 | :boom:            | 2021-11-25 02:40:00 | hereford         |      7 |        4 | Lallygag           |   1.45 | evenodds,overthrow  |
-|  5 | --                | 2021-11-25 02:30:00 | dundalk          |      4 |        4 | Sangria            |   3.9  | vulture             |
-|  6 | --                | 2021-11-25 02:20:00 | wetherby         |      6 |        2 | Betty Getaway      |   5    | overthrow           |
-|  7 | --                | 2021-11-25 02:00:00 | dundalk          |      3 |       11 | Mullacash Buzz     |   6    | moechilli           |
-|  8 | --                | 2021-11-25 01:50:00 | wetherby         |      5 |        1 | Antunes            |   8    | overthrow           |
-|  9 | --                | 2021-11-25 01:15:00 | happy-valley     |      7 |       11 | Toronado Phantom   |   3.25 | milkman             |
-| 10 | --                | 2021-11-25 01:15:00 | happy-valley     |      7 |        1 | Everyone's Delight |   5    | icyhot              |
-| 11 | :boom:            | 2021-11-25 01:10:00 | hereford         |      4 |        1 | Ballintubber Boy   |   2.7  | milkman             |
-| 12 | --                | 2021-11-25 01:10:00 | hereford         |      4 |        3 | Grace A Vous Enki  |   1.4  | overthrow           |
-| 13 | --                | 2021-11-25 00:45:00 | wetherby         |      3 |        6 | Da Vinci Hand      |   7.5  | looseknot           |
-| 14 | :3rd_place_medal: | 2021-11-25 00:15:00 | wetherby         |      2 |        8 | Tarseem            |   4.2  | overthrow           |
-| 15 | :2nd_place_medal: | 2021-11-24 23:45:00 | wetherby         |      1 |        1 | Away At Dawn       |   2.9  | vulture,blackshadow |
-| 16 | :boom:            | 2021-11-24 23:30:00 | hereford         |      1 |        1 | Le Chiffre D'or    |   1.17 | overthrow           |
-| 17 | :2nd_place_medal: | 2021-11-24 22:00:00 | launceston       |      9 |        2 | The Risk Factor    |   1.6  | evenodds,overthrow  |
-| 18 | 13.0              | 2021-11-24 20:40:00 | belmont          |      8 |        4 | Phenomenal Anomaly |   9.5  | milkman             |
-| 19 | 9.0               | 2021-11-24 20:40:00 | belmont          |      8 |        5 | Vanman             |   6.5  | overthrow,pikey     |
-| 20 | 12.0              | 2021-11-24 20:05:00 | belmont          |      7 |       12 | Hilton             |   4.33 | milkman             |
-| 21 | :boom:            | 2021-11-24 20:05:00 | belmont          |      7 |        5 | Acefire            |   1.6  | pikey               |
-| 22 | --                | 2021-11-24 19:25:00 | belmont          |      6 |        9 | Star Of Rosie      |   4.8  | vulture,milkman     |
-| 23 | 5.0               | 2021-11-24 18:10:00 | belmont          |      4 |        3 | Kick A Goal Son    |   9.5  | pikey               |
-| 24 | 7.0               | 2021-11-24 17:35:00 | belmont          |      3 |        7 | Seeable            |   4    | pikey               |
-| 25 | 4.0               | 2021-11-24 17:30:00 | gosford          |      6 |        9 | Almighty Rising    |   2.35 | vulture,pangea      |
-| 26 | 8.0               | 2021-11-24 17:17:00 | launceston       |      1 |        9 | Wood's Point       |  10    | pangea              |
-| 27 | :2nd_place_medal: | 2021-11-24 17:17:00 | launceston       |      1 |        2 | Needs Toasting     |   3.5  | evenodds,overthrow  |
-| 28 | :2nd_place_medal: | 2021-11-24 16:24:00 | belmont          |      1 |        1 | Advanced           |   2.35 | overthrow,pikey     |
-| 29 | :boom:            | 2021-11-24 16:24:00 | belmont          |      1 |        2 | Safety Fuse        |   2.9  | pangea,icyhot       |
-| 32 | 6.0               | 2021-11-24 13:35:00 | sandown-lakeside |      2 |        6 | Video              |   8.5  | pangea              |
+|    | finish   | time                | track           |   race |   number | name              |   odds | tipster         |
+|---:|:---------|:--------------------|:----------------|-------:|---------:|:------------------|-------:|:----------------|
+|  0 | :soon:   | 2021-11-26 04:50:00 | chelmsford-city |      4 |        7 | Spy               |   7.5  | looseknot       |
+|  1 | :soon:   | 2021-11-26 04:50:00 | chelmsford-city |      4 |        5 | It Is Now         |   8    | looseknot       |
+|  2 | :soon:   | 2021-11-26 04:20:00 | chelmsford-city |      3 |        3 | Accelerando       |   6    | vulture         |
+|  3 | :soon:   | 2021-11-26 03:35:00 | wolverhampton   |      6 |        4 | Saleymm           |   2    | vulture         |
+|  4 | :soon:   | 2021-11-26 03:05:00 | wolverhampton   |      5 |        8 | Silent Speech     |   1.35 | vulture         |
+|  5 | :soon:   | 2021-11-26 01:55:00 | taunton         |      5 |        3 | Go Pharisee Flyer |   9    | looseknot       |
+|  6 | :soon:   | 2021-11-26 01:47:00 | lingfield       |      6 |        3 | Highland Glory    |   7.5  | overthrow       |
+|  7 | :soon:   | 2021-11-26 01:47:00 | lingfield       |      6 |        9 | Whisky Express    |   3.5  | milkman         |
+|  8 | :soon:   | 2021-11-26 01:40:00 | thurles         |      6 |        6 | Tudor Manor       |   8.6  | looseknot       |
+|  9 | :soon:   | 2021-11-26 01:17:00 | lingfield       |      5 |        6 | Seven No Trumps   |   7.5  | overthrow       |
+| 10 | :soon:   | 2021-11-26 01:05:00 | wolverhampton   |      1 |        2 | Queen Of Burgundy |   6    | looseknot       |
+| 11 | :soon:   | 2021-11-26 01:05:00 | wolverhampton   |      1 |       13 | Gigi's Beach      |   9.5  | overthrow       |
+| 12 | :soon:   | 2021-11-26 00:55:00 | taunton         |      3 |        3 | Roque It          |   2.8  | overthrow       |
+| 13 | :soon:   | 2021-11-26 00:45:00 | lingfield       |      4 |        5 | Heltenham         |   4.8  | overthrow       |
+| 14 | :soon:   | 2021-11-26 00:35:00 | thurles         |      4 |        4 | Vina Ardanza      |   1.85 | milkman         |
+| 15 | :soon:   | 2021-11-26 00:25:00 | taunton         |      2 |        2 | Famoso            |   3.3  | overthrow       |
+| 16 | :soon:   | 2021-11-25 23:55:00 | taunton         |      1 |        4 | Gala De Corton    |   4    | overthrow       |
+| 17 | :soon:   | 2021-11-25 23:55:00 | taunton         |      1 |        6 | Brilliant Present |   8.5  | overthrow       |
+| 18 | :soon:   | 2021-11-25 23:25:00 | vaal            |      6 |        3 | Cleveland         |   0    | vulture         |
+| 19 | :soon:   | 2021-11-25 21:10:00 | vaal            |      2 |        6 | Maradiva          |   0    | vulture         |
+| 20 | :soon:   | 2021-11-25 20:45:00 | racing.com-park |      7 |        5 | Sixbysixtythree   |   2.15 | pangea          |
+| 21 | :soon:   | 2021-11-25 20:15:00 | racing.com-park |      6 |        7 | Our Modena        |   3.25 | pangea          |
+| 22 | :soon:   | 2021-11-25 20:00:00 | northam         |      7 |        4 | Chiclett          |   2.15 | pikey           |
+| 23 | :soon:   | 2021-11-25 19:00:00 | northam         |      5 |        6 | Quintus           |   6    | pikey           |
+| 24 | :soon:   | 2021-11-25 18:30:00 | northam         |      4 |        3 | Do It Right       |   6    | pikey           |
+| 25 | :soon:   | 2021-11-25 17:30:00 | wyong           |      7 |        4 | Bak Da Man        |   4.4  | vulture         |
+| 26 | :soon:   | 2021-11-25 17:22:00 | northam         |      2 |        7 | Marinsky Ballet   |   4.4  | pikey           |
+| 27 | :soon:   | 2021-11-25 17:15:00 | narromine       |      6 |        8 | On a Promise      |   2.3  | vulture         |
+| 28 | :soon:   | 2021-11-25 16:55:00 | wyong           |      6 |        4 | Never Second      |   3    | vulture,pangea  |
+| 29 | :soon:   | 2021-11-25 15:40:00 | wyong           |      4 |        5 | Groover           |   3.6  | vulture,milkman |
+| 30 | :soon:   | 2021-11-25 13:57:00 | otaki           |      8 |        4 | Barrow Boy        |   3.6  | vulture         |
+| 31 | :soon:   | 2021-11-25 13:22:00 | otaki           |      7 |        6 | Victorem          |   3.7  | vulture         |
