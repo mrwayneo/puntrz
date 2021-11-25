@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-25 20:02:35 +1000  
+date: 2021-11-25 20:18:00 +1000  
 ---   
 
 
@@ -70,7 +70,7 @@ date: 2021-11-25 20:02:35 +1000
 | 18 | :soon:            | 2021-11-25 23:25:00 | vaal            |      6 |        3 | Cleveland         |   0    | vulture         |
 | 19 | :soon:            | 2021-11-25 21:10:00 | vaal            |      2 |        6 | Maradiva          |   0    | vulture         |
 | 20 | :soon:            | 2021-11-25 20:45:00 | racing.com-park |      7 |        5 | Sixbysixtythree   |   2.15 | pangea          |
-| 21 | :soon:            | 2021-11-25 20:15:00 | racing.com-park |      6 |        7 | Our Modena        |   3.25 | pangea          |
+| 21 | --                | 2021-11-25 20:15:00 | racing.com-park |      6 |        7 | Our Modena        |   3.25 | pangea          |
 | 22 | --                | 2021-11-25 20:00:00 | northam         |      7 |        4 | Chiclett          |   2.15 | pikey           |
 | 23 | 8.0               | 2021-11-25 19:00:00 | northam         |      5 |        6 | Quintus           |   6    | pikey           |
 | 24 | :2nd_place_medal: | 2021-11-25 18:30:00 | northam         |      4 |        3 | Do It Right       |   6    | pikey           |
