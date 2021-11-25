@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-25 19:17:35 +1000  
+date: 2021-11-25 19:32:35 +1000  
 ---   
 
 
@@ -72,7 +72,7 @@ date: 2021-11-25 19:17:35 +1000
 | 20 | :soon:            | 2021-11-25 20:45:00 | racing.com-park |      7 |        5 | Sixbysixtythree   |   2.15 | pangea          |
 | 21 | :soon:            | 2021-11-25 20:15:00 | racing.com-park |      6 |        7 | Our Modena        |   3.25 | pangea          |
 | 22 | :soon:            | 2021-11-25 20:00:00 | northam         |      7 |        4 | Chiclett          |   2.15 | pikey           |
-| 23 | --                | 2021-11-25 19:00:00 | northam         |      5 |        6 | Quintus           |   6    | pikey           |
+| 23 | 8.0               | 2021-11-25 19:00:00 | northam         |      5 |        6 | Quintus           |   6    | pikey           |
 | 24 | :2nd_place_medal: | 2021-11-25 18:30:00 | northam         |      4 |        3 | Do It Right       |   6    | pikey           |
 | 25 | --                | 2021-11-25 17:30:00 | wyong           |      7 |        4 | Bak Da Man        |   4.4  | vulture         |
 | 26 | :boom:            | 2021-11-25 17:22:00 | northam         |      2 |        7 | Marinsky Ballet   |   4.4  | pikey           |
