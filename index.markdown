@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-25 21:12:23 +1000  
+date: 2021-11-25 21:27:21 +1000  
 ---   
 
 
@@ -68,7 +68,7 @@ date: 2021-11-25 21:12:23 +1000
 | 16 | :soon:            | 2021-11-25 23:55:00 | taunton         |      1 |        4 | Gala De Corton    |   4    | overthrow       |
 | 17 | :soon:            | 2021-11-25 23:55:00 | taunton         |      1 |        6 | Brilliant Present |   8.5  | overthrow       |
 | 18 | :soon:            | 2021-11-25 23:25:00 | vaal            |      6 |        3 | Cleveland         |   0    | vulture         |
-| 19 | --                | 2021-11-25 21:10:00 | vaal            |      2 |        6 | Maradiva          |   0    | vulture         |
+| 19 | :2nd_place_medal: | 2021-11-25 21:10:00 | vaal            |      2 |        6 | Maradiva          |   0    | vulture         |
 | 20 | :boom:            | 2021-11-25 20:45:00 | racing.com-park |      7 |        5 | Sixbysixtythree   |   2.15 | pangea          |
 | 21 | 4.0               | 2021-11-25 20:15:00 | racing.com-park |      6 |        7 | Our Modena        |   3.25 | pangea          |
 | 22 | :3rd_place_medal: | 2021-11-25 20:00:00 | northam         |      7 |        4 | Chiclett          |   2.15 | pikey           |
