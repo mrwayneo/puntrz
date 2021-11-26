@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-26 22:48:07 +1000  
+date: 2021-11-27 06:09:50 +1000  
 ---   
 
 
@@ -30,51 +30,51 @@ date: 2021-11-26 22:48:07 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    184 |     54 |    238.5 | 0.29 |  0.13 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    181 |     52 |    179.5 | 0.29 |  0.1  |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     42 |     10 |    158.5 | 0.24 |  0.38 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    358 |     72 |   -190.5 | 0.2  | -0.05 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    202 |     61 |   -213.9 | 0.3  | -0.11 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     48 |      6 |   -259   | 0.12 | -0.54 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    357 |     72 |   -180.5 | 0.2  | -0.05 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    204 |     62 |   -209.9 | 0.3  | -0.1  |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     46 |      6 |   -239   | 0.13 | -0.52 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    348 |     88 |   -308.6 | 0.25 | -0.09 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    295 |     56 |   -807.5 | 0.19 | -0.27 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    503 |    126 |   -981   | 0.25 | -0.2  |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    168 |     26 |   -987   | 0.15 | -0.59 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    706 |    102 |  -1198.6 | 0.14 | -0.17 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    611 |    160 |  -1289   | 0.26 | -0.21 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2078 |    483 |  -2307.4 | 0.23 | -0.11 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2584 |    138 |  -3042   | 0.05 | -0.12 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3092 |    691 |  -6134.4 | 0.22 | -0.2  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6332 |    898 | -11969   | 0.14 | -0.19 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8009 |    426 | -18041   | 0.05 | -0.23 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    299 |     58 |   -791.5 | 0.19 | -0.26 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    497 |    126 |   -921   | 0.25 | -0.19 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    175 |     27 |  -1033   | 0.15 | -0.59 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    704 |    102 |  -1178.6 | 0.14 | -0.17 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    615 |    160 |  -1349.1 | 0.26 | -0.22 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2086 |    483 |  -2402.2 | 0.23 | -0.12 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2585 |    139 |  -2922   | 0.05 | -0.11 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3095 |    693 |  -6108   | 0.22 | -0.2  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6341 |    897 | -12208   | 0.14 | -0.19 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8003 |    427 | -17738   | 0.05 | -0.22 |
 
 |    | finish            | time                | track                     |   race |   number | name              |   odds | tipster            |
 |---:|:------------------|:--------------------|:--------------------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:            | 2021-11-27 05:45:00 | chelmsford-city           |      6 |        1 | Sealed Offer      |   4.6  | vulture            |
-|  1 | :soon:            | 2021-11-27 05:15:00 | chelmsford-city           |      5 |        1 | Beggarman         |   2.35 | vulture            |
-|  2 | :soon:            | 2021-11-27 05:00:00 | dundalk                   |      5 |        6 | Eco Friendly      |  16    | looseknot          |
-|  3 | :soon:            | 2021-11-27 04:45:00 | chelmsford-city           |      4 |        2 | Il Pescatore      |   8.5  | looseknot          |
-|  4 | :soon:            | 2021-11-27 03:15:00 | chelmsford-city           |      1 |        1 | Baileysgutfeeling |   7.5  | vulture            |
-|  5 | :soon:            | 2021-11-27 03:15:00 | chelmsford-city           |      1 |       15 | Invasive          |   4.8  | vulture            |
-|  6 | :soon:            | 2021-11-27 02:35:00 | newbury                   |      7 |       13 | Eyeofthescorpion  |   5.5  | overthrow          |
-|  7 | :soon:            | 2021-11-27 02:35:00 | newbury                   |      7 |        4 | Shannon Bridge    |  26    | overthrow          |
-|  8 | :soon:            | 2021-11-27 02:35:00 | newbury                   |      7 |        6 | Saint Sonnet      |  10    | overthrow          |
-|  9 | :soon:            | 2021-11-27 02:00:00 | newbury                   |      6 |        1 | Paisley Park      |   3.25 | milkman            |
-| 10 | :soon:            | 2021-11-27 02:00:00 | newbury                   |      6 |        2 | On The Blind Side |  13    | overthrow          |
-| 11 | :soon:            | 2021-11-27 01:25:00 | newbury                   |      5 |        4 | Eritage           |  11    | overthrow          |
-| 12 | :soon:            | 2021-11-27 01:25:00 | newbury                   |      5 |        6 | Morning Vicar     |   6    | evenodds,overthrow |
-| 13 | :soon:            | 2021-11-27 01:25:00 | newbury                   |      5 |        5 | Gaelik Coast      |   9    | vulture            |
-| 14 | :soon:            | 2021-11-27 01:25:00 | newbury                   |      5 |        3 | Phoenix Way       |   4.2  | milkman            |
-| 15 | :soon:            | 2021-11-27 00:50:00 | newbury                   |      4 |        2 | Mister Coffey     |   3.9  | overthrow          |
-| 16 | :soon:            | 2021-11-27 00:50:00 | newbury                   |      4 |        1 | Solo              |   6    | overthrow          |
-| 17 | :soon:            | 2021-11-27 00:40:00 | doncaster                 |      3 |        1 | The Newest One    |   2.9  | vulture            |
-| 18 | :soon:            | 2021-11-27 00:40:00 | doncaster                 |      3 |        2 | Huntsmans Jog     |   2.1  | evenodds,overthrow |
-| 19 | :soon:            | 2021-11-27 00:15:00 | newbury                   |      3 |        2 | Boombawn          |   8.5  | overthrow          |
-| 20 | :soon:            | 2021-11-27 00:15:00 | newbury                   |      3 |        7 | Jonbon            |   1.61 | overthrow          |
-| 21 | :soon:            | 2021-11-27 00:05:00 | doncaster                 |      2 |        2 | Gentleman Valley  |   4    | vulture            |
-| 22 | :soon:            | 2021-11-26 23:40:00 | newbury                   |      2 |        4 | Nassalam          |   3.4  | vulture            |
-| 23 | :soon:            | 2021-11-26 23:40:00 | newbury                   |      2 |        3 | Pic D'Orhy        |   6    | overthrow          |
-| 24 | :soon:            | 2021-11-26 23:10:00 | newbury                   |      1 |        6 | Kincardine        |   4.2  | evenodds,milkman   |
-| 25 | :soon:            | 2021-11-26 23:10:00 | newbury                   |      1 |        1 | Stage Star        |   1.45 | evenodds,overthrow |
+|  0 | --                | 2021-11-27 05:45:00 | chelmsford-city           |      6 |        1 | Sealed Offer      |   4.6  | vulture            |
+|  1 | :boom:            | 2021-11-27 05:15:00 | chelmsford-city           |      5 |        1 | Beggarman         |   2.35 | vulture            |
+|  2 | --                | 2021-11-27 05:00:00 | dundalk                   |      5 |        6 | Eco Friendly      |  16    | looseknot          |
+|  3 | 14.0              | 2021-11-27 04:45:00 | chelmsford-city           |      4 |        2 | Il Pescatore      |   8.5  | looseknot          |
+|  4 | :2nd_place_medal: | 2021-11-27 03:15:00 | chelmsford-city           |      1 |        1 | Baileysgutfeeling |   7.5  | vulture            |
+|  5 | --                | 2021-11-27 03:15:00 | chelmsford-city           |      1 |       15 | Invasive          |   4.8  | vulture            |
+|  6 | :3rd_place_medal: | 2021-11-27 02:35:00 | newbury                   |      7 |       13 | Eyeofthescorpion  |   5.5  | overthrow          |
+|  7 | 14.0              | 2021-11-27 02:35:00 | newbury                   |      7 |        4 | Shannon Bridge    |  26    | overthrow          |
+|  8 | 11.0              | 2021-11-27 02:35:00 | newbury                   |      7 |        6 | Saint Sonnet      |  10    | overthrow          |
+|  9 | :3rd_place_medal: | 2021-11-27 02:00:00 | newbury                   |      6 |        1 | Paisley Park      |   3.25 | milkman            |
+| 10 | :2nd_place_medal: | 2021-11-27 02:00:00 | newbury                   |      6 |        2 | On The Blind Side |  13    | overthrow          |
+| 11 | --                | 2021-11-27 01:25:00 | newbury                   |      5 |        4 | Eritage           |  11    | overthrow          |
+| 12 | --                | 2021-11-27 01:25:00 | newbury                   |      5 |        6 | Morning Vicar     |   6    | evenodds,overthrow |
+| 13 | --                | 2021-11-27 01:25:00 | newbury                   |      5 |        5 | Gaelik Coast      |   9    | vulture            |
+| 14 | --                | 2021-11-27 01:25:00 | newbury                   |      5 |        3 | Phoenix Way       |   4.2  | milkman            |
+| 15 | :3rd_place_medal: | 2021-11-27 00:50:00 | newbury                   |      4 |        2 | Mister Coffey     |   3.9  | overthrow          |
+| 16 | :2nd_place_medal: | 2021-11-27 00:50:00 | newbury                   |      4 |        1 | Solo              |   6    | overthrow          |
+| 17 | :boom:            | 2021-11-27 00:40:00 | doncaster                 |      3 |        1 | The Newest One    |   2.9  | vulture            |
+| 18 | :2nd_place_medal: | 2021-11-27 00:40:00 | doncaster                 |      3 |        2 | Huntsmans Jog     |   2.1  | evenodds,overthrow |
+| 19 | :3rd_place_medal: | 2021-11-27 00:15:00 | newbury                   |      3 |        2 | Boombawn          |   8.5  | overthrow          |
+| 20 | :boom:            | 2021-11-27 00:15:00 | newbury                   |      3 |        7 | Jonbon            |   1.61 | overthrow          |
+| 21 | --                | 2021-11-27 00:05:00 | doncaster                 |      2 |        2 | Gentleman Valley  |   4    | vulture            |
+| 22 | :boom:            | 2021-11-26 23:40:00 | newbury                   |      2 |        4 | Nassalam          |   3.4  | vulture            |
+| 23 | --                | 2021-11-26 23:40:00 | newbury                   |      2 |        3 | Pic D'Orhy        |   6    | overthrow          |
+| 24 | :3rd_place_medal: | 2021-11-26 23:10:00 | newbury                   |      1 |        6 | Kincardine        |   4.2  | evenodds,milkman   |
+| 25 | :boom:            | 2021-11-26 23:10:00 | newbury                   |      1 |        1 | Stage Star        |   1.45 | evenodds,overthrow |
 | 26 | :2nd_place_medal: | 2021-11-26 22:20:00 | lingfield                 |      1 |        4 | Resumption        |   2.35 | vulture            |
 | 27 | :2nd_place_medal: | 2021-11-26 20:08:00 | sunshine-coast-poly-track |      3 |        5 | Eloquently        |   1.11 | vulture,milkman    |
 | 28 | 6.0               | 2021-11-26 20:00:00 | canterbury                |      5 |        4 | Electric          |  12    | pangea,icyhot      |
