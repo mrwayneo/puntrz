@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2021-11-25 21:27:15 +1000  
+date: 2021-11-26 14:28:52 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     82 |     22 |     14.7 | 0.27 |  0.02 |
-| Last 28 Days   |    419 |     99 |  -1064.3 | 0.24 | -0.25 |
-| Last 6 Months  |   3357 |    784 |  -5235.3 | 0.23 | -0.16 |
-| Since Jan 2020 |   4851 |   1151 |  -7356.2 | 0.24 | -0.15 |
+| Last 7 Days    |     47 |     11 |   -226.8 | 0.23 | -0.48 |
+| Last 28 Days   |    415 |     99 |  -1024.3 | 0.24 | -0.25 |
+| Last 6 Months  |   3368 |    784 |  -5345.3 | 0.23 | -0.16 |
+| Since Jan 2020 |   4862 |   1151 |  -7466.2 | 0.24 | -0.15 |
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 04:20             | 2021-11-26 | chelmsford-city R3     | 3 Accelerando         |   6    |    -10   |
-| 03:35             | 2021-11-26 | wolverhampton R6       | 4 Saleymm             |   2    |    -10   |
-| 03:05             | 2021-11-26 | wolverhampton R5       | 8 Silent Speech       |   1.35 |    -10   |
-| 23:25             | 2021-11-25 | vaal R6                | 3 Cleveland           |   0    |    -10   |
+| 0                 | 2021-11-26 | chelmsford-city R3     | 3 Accelerando         |   0    |    -10   |
+| 0                 | 2021-11-26 | wolverhampton R6       | 4 Saleymm             |   0    |    -10   |
+| 0                 | 2021-11-26 | wolverhampton R5       | 8 Silent Speech       |   0    |    -10   |
+| 0                 | 2021-11-25 | vaal R6                | 3 Cleveland           |   0    |    -10   |
 | :2nd_place_medal: | 2021-11-25 | vaal R2                | 6 Maradiva            |   0    |    -10   |
 | 0                 | 2021-11-25 | wyong R7               | 4 Bak Da Man          |   0    |    -10   |
 | 0                 | 2021-11-25 | narromine R6           | 8 On a Promise        |   0    |    -10   |

@@ -1,28 +1,28 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-11-25 21:27:15 +1000  
+date: 2021-11-26 14:28:53 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     71 |     25 |     56.3 | 0.35 |  0.08 |
-| Last 28 Days   |    417 |     90 |  -1133   | 0.22 | -0.27 |
-| Last 6 Months  |   2263 |    536 |  -2265.8 | 0.24 | -0.1  |
-| Since Jan 2020 |   3565 |    861 |  -4452   | 0.24 | -0.12 |
+| Last 7 Days    |     45 |     15 |    -56.7 | 0.33 | -0.13 |
+| Last 28 Days   |    415 |     90 |  -1113   | 0.22 | -0.27 |
+| Last 6 Months  |   2271 |    536 |  -2345.8 | 0.24 | -0.1  |
+| Since Jan 2020 |   3573 |    861 |  -4532   | 0.24 | -0.13 |
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 01:47             | 2021-11-26 | lingfield R6           | 3 Highland Glory      |   7.5  |    -10   |
-| 01:17             | 2021-11-26 | lingfield R5           | 6 Seven No Trumps     |   7.5  |    -10   |
-| 01:05             | 2021-11-26 | wolverhampton R1       | 13 Gigi's Beach       |   9.5  |    -10   |
-| 00:55             | 2021-11-26 | taunton R3             | 3 Roque It            |   2.8  |    -10   |
-| 00:45             | 2021-11-26 | lingfield R4           | 5 Heltenham           |   4.8  |    -10   |
-| 00:25             | 2021-11-26 | taunton R2             | 2 Famoso              |   3.3  |    -10   |
-| 23:55             | 2021-11-25 | taunton R1             | 4 Gala De Corton      |   4    |    -10   |
-| 23:55             | 2021-11-25 | taunton R1             | 6 Brilliant Present   |   8.5  |    -10   |
+| 0                 | 2021-11-26 | lingfield R6           | 3 Highland Glory      |   0    |    -10   |
+| 0                 | 2021-11-26 | lingfield R5           | 6 Seven No Trumps     |   0    |    -10   |
+| 0                 | 2021-11-26 | wolverhampton R1       | 13 Gigi's Beach       |   0    |    -10   |
+| 0                 | 2021-11-26 | taunton R3             | 3 Roque It            |   0    |    -10   |
+| 0                 | 2021-11-26 | lingfield R4           | 5 Heltenham           |   0    |    -10   |
+| 0                 | 2021-11-26 | taunton R2             | 2 Famoso              |   0    |    -10   |
+| 0                 | 2021-11-25 | taunton R1             | 4 Gala De Corton      |   0    |    -10   |
+| 0                 | 2021-11-25 | taunton R1             | 6 Brilliant Present   |   0    |    -10   |
 | :boom:            | 2021-11-25 | hereford R7            | 4 Lallygag            |   1.3  |      3   |
 | :2nd_place_medal: | 2021-11-25 | wetherby R6            | 8 Peerless Beauty     |   2.7  |    -10   |
 | 0                 | 2021-11-25 | wetherby R6            | 2 Betty Getaway       |   0    |    -10   |

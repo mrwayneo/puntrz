@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-11-25 21:27:16 +1000  
+date: 2021-11-26 14:28:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     20 |      0 |     -200 | 0    | -1    |
-| Last 28 Days   |    327 |     10 |    -1665 | 0.03 | -0.51 |
-| Last 6 Months  |   2822 |    158 |    -1452 | 0.06 | -0.05 |
-| Since Jan 2020 |   4156 |    239 |     -939 | 0.06 | -0.02 |
+| Last 7 Days    |     29 |      2 |      -67 | 0.07 | -0.23 |
+| Last 28 Days   |    329 |     12 |    -1462 | 0.04 | -0.44 |
+| Last 6 Months  |   2831 |    160 |    -1319 | 0.06 | -0.05 |
+| Since Jan 2020 |   4165 |    241 |     -806 | 0.06 | -0.02 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 04:35             | 2021-11-26 | wolverhampton R8              | 10 Mercian Hymn       |  10   |      -10 |
-| 04:20             | 2021-11-26 | chelmsford-city R3            | 1 Liv Lucky           |  16   |      -10 |
+| 0                 | 2021-11-26 | wolverhampton R8              | 10 Mercian Hymn       |   0   |      -10 |
+| 0                 | 2021-11-26 | chelmsford-city R3            | 1 Liv Lucky           |   0   |      -10 |
 | :boom:            | 2021-11-25 | racing.com-park R6            | 1 Daqiansweet Junior  |  11.2 |      102 |
 | 4                 | 2021-11-25 | northam R5                    | 9 Yankee Lima         |  34   |      -10 |
 | :boom:            | 2021-11-25 | northam R5                    | 8 Winsalot            |  11.1 |      101 |

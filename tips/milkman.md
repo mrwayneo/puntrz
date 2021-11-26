@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-25 21:27:16 +1000  
+date: 2021-11-26 14:28:53 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     28 |      5 |   -184.5 | 0.18 | -0.66 |
-| Last 28 Days   |    165 |     26 |   -957   | 0.16 | -0.58 |
-| Last 6 Months  |    165 |     26 |   -957   | 0.16 | -0.58 |
-| Since Jan 2020 |    165 |     26 |   -957   | 0.16 | -0.58 |
+| Last 7 Days    |     16 |      4 |    -82.5 | 0.25 | -0.52 |
+| Last 28 Days   |    168 |     26 |   -987   | 0.15 | -0.59 |
+| Last 6 Months  |    168 |     26 |   -987   | 0.15 | -0.59 |
+| Since Jan 2020 |    168 |     26 |   -987   | 0.15 | -0.59 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 01:47             | 2021-11-26 | lingfield R6           | 9 Whisky Express      |  3.5  |    -10   |
-| 00:35             | 2021-11-26 | thurles R4             | 4 Vina Ardanza        |  1.85 |    -10   |
+| 0                 | 2021-11-26 | lingfield R6           | 9 Whisky Express      |  0    |    -10   |
+| 0                 | 2021-11-26 | thurles R4             | 4 Vina Ardanza        |  0    |    -10   |
 | 4                 | 2021-11-25 | wyong R4               | 5 Groover             |  3.6  |    -10   |
 | 0                 | 2021-11-25 | happy-valley R7        | 11 Toronado Phantom   |  0    |    -10   |
 | :boom:            | 2021-11-25 | hereford R4            | 1 Ballintubber Boy    |  3.8  |     28   |

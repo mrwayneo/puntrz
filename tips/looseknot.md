@@ -1,25 +1,25 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-11-25 21:27:17 +1000  
+date: 2021-11-26 14:28:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      8 |      1 |     10   | 0.12 |  0.12 |
-| Last 28 Days   |     86 |     10 |   -226   | 0.12 | -0.26 |
-| Last 6 Months  |    767 |    111 |  -1216.6 | 0.14 | -0.16 |
-| Since Jan 2020 |   1104 |    158 |  -1914.1 | 0.14 | -0.17 |
+| Last 7 Days    |     13 |      1 |    -40   | 0.08 | -0.31 |
+| Last 28 Days   |     87 |     10 |   -236   | 0.11 | -0.27 |
+| Last 6 Months  |    772 |    111 |  -1266.6 | 0.14 | -0.16 |
+| Since Jan 2020 |   1109 |    158 |  -1964.1 | 0.14 | -0.18 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:50             | 2021-11-26 | chelmsford-city R4            | 7 Spy                 |   7.5  |    -10   |
-| 04:50             | 2021-11-26 | chelmsford-city R4            | 5 It Is Now           |   8    |    -10   |
-| 01:55             | 2021-11-26 | taunton R5                    | 3 Go Pharisee Flyer   |   9    |    -10   |
-| 01:40             | 2021-11-26 | thurles R6                    | 6 Tudor Manor         |   8.6  |    -10   |
-| 01:05             | 2021-11-26 | wolverhampton R1              | 2 Queen Of Burgundy   |   6    |    -10   |
+| 0                 | 2021-11-26 | chelmsford-city R4            | 7 Spy                 |   0    |    -10   |
+| 0                 | 2021-11-26 | chelmsford-city R4            | 5 It Is Now           |   0    |    -10   |
+| 0                 | 2021-11-26 | taunton R5                    | 3 Go Pharisee Flyer   |   0    |    -10   |
+| 0                 | 2021-11-26 | thurles R6                    | 6 Tudor Manor         |   0    |    -10   |
+| 0                 | 2021-11-26 | wolverhampton R1              | 2 Queen Of Burgundy   |   0    |    -10   |
 | 4                 | 2021-11-25 | kempton R5                    | 6 Spice Store         |   8.5  |    -10   |
 | 0                 | 2021-11-25 | kempton R4                    | 12 Petite Joe         |   0    |    -10   |
 | 0                 | 2021-11-25 | kempton R2                    | 13 Allarmista         |   0    |    -10   |

@@ -1,53 +1,53 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-25 21:27:18 +1000  
+date: 2021-11-26 14:28:56 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     81 |      4 |   -251   | 0.05 | -0.31 |
-| Last 28 Days   |   1119 |     45 |  -5660.5 | 0.04 | -0.51 |
-| Last 6 Months  |   9070 |    488 | -18024   | 0.05 | -0.2  |
-| Since Jan 2020 |  14517 |    774 | -27069   | 0.05 | -0.19 |
+| Last 7 Days    |    126 |      6 |   -478   | 0.05 | -0.38 |
+| Last 28 Days   |   1120 |     47 |  -5447.5 | 0.04 | -0.49 |
+| Last 6 Months  |   9115 |    490 | -18251   | 0.05 | -0.2  |
+| Since Jan 2020 |  14562 |    776 | -27296   | 0.05 | -0.19 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:50             | 2021-11-26 | chelmsford-city R6            | 8 Giorgio Vasari      |   9.5  |    -10   |
-| 04:35             | 2021-11-26 | wolverhampton R8              | 10 Mercian Hymn       |  10    |    -10   |
-| 04:20             | 2021-11-26 | chelmsford-city R3            | 1 Liv Lucky           |  16    |    -10   |
-| 03:05             | 2021-11-26 | wolverhampton R5              | 4 King Of War         |  13    |    -10   |
-| 03:05             | 2021-11-26 | wolverhampton R5              | 1 Aussie Banker       |  18    |    -10   |
-| 02:35             | 2021-11-26 | wolverhampton R4              | 3 Benjamin Bear       |  41    |    -10   |
-| 02:25             | 2021-11-26 | taunton R6                    | 2 Independence        |  16    |    -10   |
-| 02:17             | 2021-11-26 | lingfield R7                  | 3 King Cnut           |  26    |    -10   |
-| 02:17             | 2021-11-26 | lingfield R7                  | 2 Finnegan's Garden   |  11    |    -10   |
-| 01:55             | 2021-11-26 | taunton R5                    | 7 Mister Robbo        |  15    |    -10   |
-| 01:47             | 2021-11-26 | lingfield R6                  | 4 Simply Supreme      |  23    |    -10   |
-| 01:47             | 2021-11-26 | lingfield R6                  | 11 Russian Rumour     |  41    |    -10   |
-| 01:17             | 2021-11-26 | lingfield R5                  | 3 Foxboro             |  16    |    -10   |
-| 01:10             | 2021-11-26 | thurles R5                    | 11 Ardera Ru          |  21    |    -10   |
-| 01:10             | 2021-11-26 | thurles R5                    | 2 Jazz Lady           | 126    |    -10   |
-| 00:35             | 2021-11-26 | thurles R4                    | 14 Wild Hunt          |  26    |    -10   |
-| 00:35             | 2021-11-26 | thurles R4                    | 8 Highlander Casseul  |  17    |    -10   |
-| 00:05             | 2021-11-26 | thurles R3                    | 4 Mamaslittlestar     | 201    |    -10   |
-| 00:05             | 2021-11-26 | thurles R3                    | 3 Knock On Steel      |  67    |    -10   |
-| 23:45             | 2021-11-25 | lingfield R2                  | 8 Ballintara          |  15    |    -10   |
-| 23:45             | 2021-11-25 | lingfield R2                  | 4 Norwegian Woods     |  41    |    -10   |
-| 23:45             | 2021-11-25 | lingfield R2                  | 2 Doitforthevillage   |  34    |    -10   |
-| 23:35             | 2021-11-25 | thurles R2                    | 8 My Oakclahome       |  17    |    -10   |
-| 23:35             | 2021-11-25 | thurles R2                    | 12 Rolling Revenge    |  19    |    -10   |
-| 23:35             | 2021-11-25 | thurles R2                    | 2 Yaiza               |  34    |    -10   |
-| 23:35             | 2021-11-25 | thurles R2                    | 6 Western Sea         |  11    |    -10   |
-| 23:15             | 2021-11-25 | lingfield R1                  | 5 Auenwirbel          |  19    |    -10   |
-| 23:15             | 2021-11-25 | lingfield R1                  | 4 Benny Flies High    |  61    |    -10   |
-| 23:15             | 2021-11-25 | lingfield R1                  | 8 Timely Gift         |  19    |    -10   |
-| 23:15             | 2021-11-25 | lingfield R1                  | 11 Soarlikeaneagle    |  17    |    -10   |
-| 23:15             | 2021-11-25 | lingfield R1                  | 13 Mr Fitzroy         |  51    |    -10   |
-| 23:05             | 2021-11-25 | thurles R1                    | 8 Coulonces           |  26    |    -10   |
-| 23:05             | 2021-11-25 | thurles R1                    | 4 Difficult Decision  |  34    |    -10   |
+| 0                 | 2021-11-26 | chelmsford-city R6            | 8 Giorgio Vasari      |   0    |    -10   |
+| 0                 | 2021-11-26 | wolverhampton R8              | 10 Mercian Hymn       |   0    |    -10   |
+| 0                 | 2021-11-26 | chelmsford-city R3            | 1 Liv Lucky           |   0    |    -10   |
+| 0                 | 2021-11-26 | wolverhampton R5              | 4 King Of War         |   0    |    -10   |
+| 0                 | 2021-11-26 | wolverhampton R5              | 1 Aussie Banker       |   0    |    -10   |
+| 0                 | 2021-11-26 | wolverhampton R4              | 3 Benjamin Bear       |   0    |    -10   |
+| 0                 | 2021-11-26 | taunton R6                    | 2 Independence        |   0    |    -10   |
+| 0                 | 2021-11-26 | lingfield R7                  | 3 King Cnut           |   0    |    -10   |
+| 0                 | 2021-11-26 | lingfield R7                  | 2 Finnegan's Garden   |   0    |    -10   |
+| 0                 | 2021-11-26 | taunton R5                    | 7 Mister Robbo        |   0    |    -10   |
+| 0                 | 2021-11-26 | lingfield R6                  | 4 Simply Supreme      |   0    |    -10   |
+| 0                 | 2021-11-26 | lingfield R6                  | 11 Russian Rumour     |   0    |    -10   |
+| 0                 | 2021-11-26 | lingfield R5                  | 3 Foxboro             |   0    |    -10   |
+| 0                 | 2021-11-26 | thurles R5                    | 11 Ardera Ru          |   0    |    -10   |
+| 0                 | 2021-11-26 | thurles R5                    | 2 Jazz Lady           |   0    |    -10   |
+| 0                 | 2021-11-26 | thurles R4                    | 14 Wild Hunt          |   0    |    -10   |
+| 0                 | 2021-11-26 | thurles R4                    | 8 Highlander Casseul  |   0    |    -10   |
+| 0                 | 2021-11-26 | thurles R3                    | 4 Mamaslittlestar     |   0    |    -10   |
+| 0                 | 2021-11-26 | thurles R3                    | 3 Knock On Steel      |   0    |    -10   |
+| 0                 | 2021-11-25 | lingfield R2                  | 8 Ballintara          |   0    |    -10   |
+| 0                 | 2021-11-25 | lingfield R2                  | 4 Norwegian Woods     |   0    |    -10   |
+| 0                 | 2021-11-25 | lingfield R2                  | 2 Doitforthevillage   |   0    |    -10   |
+| 0                 | 2021-11-25 | thurles R2                    | 8 My Oakclahome       |   0    |    -10   |
+| 0                 | 2021-11-25 | thurles R2                    | 12 Rolling Revenge    |   0    |    -10   |
+| 0                 | 2021-11-25 | thurles R2                    | 2 Yaiza               |   0    |    -10   |
+| 0                 | 2021-11-25 | thurles R2                    | 6 Western Sea         |   0    |    -10   |
+| 0                 | 2021-11-25 | lingfield R1                  | 5 Auenwirbel          |   0    |    -10   |
+| 0                 | 2021-11-25 | lingfield R1                  | 4 Benny Flies High    |   0    |    -10   |
+| 0                 | 2021-11-25 | lingfield R1                  | 8 Timely Gift         |   0    |    -10   |
+| 0                 | 2021-11-25 | lingfield R1                  | 11 Soarlikeaneagle    |   0    |    -10   |
+| 0                 | 2021-11-25 | lingfield R1                  | 13 Mr Fitzroy         |   0    |    -10   |
+| 0                 | 2021-11-25 | thurles R1                    | 8 Coulonces           |   0    |    -10   |
+| 0                 | 2021-11-25 | thurles R1                    | 4 Difficult Decision  |   0    |    -10   |
 | :boom:            | 2021-11-25 | racing.com-park R6            | 1 Daqiansweet Junior  |  11.2  |    102   |
 | 4                 | 2021-11-25 | northam R5                    | 9 Yankee Lima         |  34    |    -10   |
 | :boom:            | 2021-11-25 | northam R5                    | 8 Winsalot            |  11.1  |    101   |

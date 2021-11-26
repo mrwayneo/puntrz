@@ -1,47 +1,47 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-11-25 21:27:17 +1000  
+date: 2021-11-26 14:28:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     69 |      8 |   -249   | 0.12 | -0.36 |
-| Last 28 Days   |   1057 |    106 |  -5013   | 0.1  | -0.47 |
-| Last 6 Months  |   6809 |    995 | -11202.2 | 0.15 | -0.16 |
-| Since Jan 2020 |   9553 |   1508 | -13800.1 | 0.16 | -0.14 |
+| Last 7 Days    |    107 |     10 |   -529   | 0.09 | -0.49 |
+| Last 28 Days   |   1027 |    106 |  -4680   | 0.1  | -0.46 |
+| Last 6 Months  |   6847 |    997 | -11482.2 | 0.15 | -0.17 |
+| Since Jan 2020 |   9591 |   1510 | -14080.1 | 0.16 | -0.15 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:40             | 2021-11-26 | vaal R10                      | 17 Informative        |   0    |    -10   |
-| 01:40             | 2021-11-26 | vaal R10                      | 14 Edward Longshanks  |   0    |    -10   |
-| 01:40             | 2021-11-26 | vaal R10                      | 13 Successful Secret  |   0    |    -10   |
-| 01:40             | 2021-11-26 | vaal R10                      | 8 West Coast Lover    |   0    |    -10   |
-| 01:40             | 2021-11-26 | vaal R10                      | 6 Twice As Splendid   |   0    |    -10   |
-| 01:40             | 2021-11-26 | vaal R10                      | 3 Raisetheredlantern  |   0    |    -10   |
-| 01:40             | 2021-11-26 | vaal R10                      | 1 Mutawaary           |   0    |    -10   |
-| 01:10             | 2021-11-26 | vaal R9                       | 6 Supreme Dance       |   0    |    -10   |
-| 01:10             | 2021-11-26 | vaal R9                       | 9 Snow Palace         |   0    |    -10   |
-| 01:10             | 2021-11-26 | vaal R9                       | 4 Category Four       |   0    |    -10   |
-| 01:10             | 2021-11-26 | vaal R9                       | 7 Romeo's Magic       |   0    |    -10   |
-| 01:10             | 2021-11-26 | vaal R9                       | 10 Fsquadron          |   0    |    -10   |
-| 00:35             | 2021-11-26 | vaal R8                       | 5 Cavivar             |   0    |    -10   |
-| 00:25             | 2021-11-26 | taunton R2                    | 5 Nelsons Rock        |   2.9  |    -10   |
-| 00:00             | 2021-11-26 | vaal R7                       | 6 Captain Lannister   |   0    |    -10   |
-| 23:25             | 2021-11-25 | vaal R6                       | 10 Excellarator       |   0    |    -10   |
-| 23:25             | 2021-11-25 | vaal R6                       | 9 Into The Future     |   0    |    -10   |
-| 23:25             | 2021-11-25 | vaal R6                       | 8 Tillieangus         |   0    |    -10   |
-| 23:25             | 2021-11-25 | vaal R6                       | 7 Tambora             |   0    |    -10   |
-| 23:25             | 2021-11-25 | vaal R6                       | 4 Suited Connector    |   0    |    -10   |
-| 22:50             | 2021-11-25 | vaal R5                       | 9 Red Carpet Girl     |   0    |    -10   |
-| 22:50             | 2021-11-25 | vaal R5                       | 1 Kissed By Fire      |   0    |    -10   |
-| 22:15             | 2021-11-25 | vaal R4                       | 6 Jp Two Thousand     |   0    |    -10   |
-| 22:15             | 2021-11-25 | vaal R4                       | 4 Coming In Hot       |   0    |    -10   |
-| 22:15             | 2021-11-25 | vaal R4                       | 1 Wildeye             |   0    |    -10   |
-| 21:40             | 2021-11-25 | vaal R3                       | 4 Motor City Hitman   |   0    |    -10   |
-| 21:40             | 2021-11-25 | vaal R3                       | 5 Cross Examiner      |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R10                      | 17 Informative        |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R10                      | 14 Edward Longshanks  |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R10                      | 13 Successful Secret  |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R10                      | 8 West Coast Lover    |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R10                      | 6 Twice As Splendid   |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R10                      | 3 Raisetheredlantern  |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R10                      | 1 Mutawaary           |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R9                       | 6 Supreme Dance       |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R9                       | 9 Snow Palace         |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R9                       | 4 Category Four       |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R9                       | 7 Romeo's Magic       |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R9                       | 10 Fsquadron          |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R8                       | 5 Cavivar             |   0    |    -10   |
+| 0                 | 2021-11-26 | taunton R2                    | 5 Nelsons Rock        |   0    |    -10   |
+| 0                 | 2021-11-26 | vaal R7                       | 6 Captain Lannister   |   0    |    -10   |
+| 0                 | 2021-11-25 | vaal R6                       | 10 Excellarator       |   0    |    -10   |
+| 0                 | 2021-11-25 | vaal R6                       | 9 Into The Future     |   0    |    -10   |
+| 0                 | 2021-11-25 | vaal R6                       | 8 Tillieangus         |   0    |    -10   |
+| 0                 | 2021-11-25 | vaal R6                       | 7 Tambora             |   0    |    -10   |
+| 0                 | 2021-11-25 | vaal R6                       | 4 Suited Connector    |   0    |    -10   |
+| 0                 | 2021-11-25 | vaal R5                       | 9 Red Carpet Girl     |   0    |    -10   |
+| 0                 | 2021-11-25 | vaal R5                       | 1 Kissed By Fire      |   0    |    -10   |
+| 0                 | 2021-11-25 | vaal R4                       | 6 Jp Two Thousand     |   0    |    -10   |
+| 0                 | 2021-11-25 | vaal R4                       | 4 Coming In Hot       |   0    |    -10   |
+| 0                 | 2021-11-25 | vaal R4                       | 1 Wildeye             |   0    |    -10   |
+| 0                 | 2021-11-25 | vaal R3                       | 4 Motor City Hitman   |   0    |    -10   |
+| 0                 | 2021-11-25 | vaal R3                       | 5 Cross Examiner      |   0    |    -10   |
 | 0                 | 2021-11-25 | vaal R2                       | 5 Brief Crusade       |   0    |    -10   |
 | 0                 | 2021-11-25 | vaal R2                       | 8 Back To Basics      |   0    |    -10   |
 | 0                 | 2021-11-25 | vaal R1                       | 11 Mayenne            |   0    |    -10   |
