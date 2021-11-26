@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-26 20:15:38 +1000  
+date: 2021-11-26 20:30:35 +1000  
 ---   
 
 
@@ -76,7 +76,7 @@ date: 2021-11-26 20:15:38 +1000
 | 24 | :soon:            | 2021-11-26 23:10:00 | newbury                   |      1 |        6 | Kincardine        |   4.2  | evenodds,milkman   |
 | 25 | :soon:            | 2021-11-26 23:10:00 | newbury                   |      1 |        1 | Stage Star        |   1.45 | evenodds,overthrow |
 | 26 | :soon:            | 2021-11-26 22:20:00 | lingfield                 |      1 |        4 | Resumption        |   2.35 | vulture            |
-| 27 | --                | 2021-11-26 20:08:00 | sunshine-coast-poly-track |      3 |        5 | Eloquently        |   1.11 | vulture,milkman    |
+| 27 | :2nd_place_medal: | 2021-11-26 20:08:00 | sunshine-coast-poly-track |      3 |        5 | Eloquently        |   1.11 | vulture,milkman    |
 | 28 | 6.0               | 2021-11-26 20:00:00 | canterbury                |      5 |        4 | Electric          |  12    | pangea,icyhot      |
 | 29 | :boom:            | 2021-11-26 19:20:00 | albany                    |      6 |        6 | Nurhaci           |   2.7  | pangea             |
 | 30 | :3rd_place_medal: | 2021-11-26 18:30:00 | canterbury                |      2 |        1 | Black Queen       |   1.7  | vulture,jmac       |
