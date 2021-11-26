@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-11-26 14:28:58 +1000  
+date: 2021-11-26 14:31:31 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,9 @@ categories: None
 
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
+| 20:00             | 2021-11-26 | canterbury R5     | 9 Bacchanalia         |  1.73 |    -10   |
+| 18:30             | 2021-11-26 | canterbury R2     | 1 Black Queen         |  1.7  |    -10   |
+| 18:00             | 2021-11-26 | canterbury R1     | 1 Adair               |  4    |    -10   |
 | :boom:            | 2021-11-20 | kembla-grange R10 | 8 Dynamic Impact      |  2.7  |     17   |
 | :2nd_place_medal: | 2021-11-20 | kembla-grange R7  | 3 Malkovich           |  2.2  |    -10   |
 | 8                 | 2021-11-20 | kembla-grange R5  | 3 Selburose           |  3.8  |    -10   |
