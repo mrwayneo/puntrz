@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-26 20:00:15 +1000  
+date: 2021-11-26 20:15:38 +1000  
 ---   
 
 
@@ -47,43 +47,43 @@ date: 2021-11-26 20:00:15 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6332 |    898 | -11969   | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8009 |    426 | -18041   | 0.05 | -0.23 |
 
-|    | finish                   | time                | track                     |   race |   number | name              |   odds | tipster            |
-|---:|:-------------------------|:--------------------|:--------------------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:                   | 2021-11-27 05:45:00 | chelmsford-city           |      6 |        1 | Sealed Offer      |   4.6  | vulture            |
-|  1 | :soon:                   | 2021-11-27 05:15:00 | chelmsford-city           |      5 |        1 | Beggarman         |   2.35 | vulture            |
-|  2 | :soon:                   | 2021-11-27 05:00:00 | dundalk                   |      5 |        6 | Eco Friendly      |  16    | looseknot          |
-|  3 | :soon:                   | 2021-11-27 04:45:00 | chelmsford-city           |      4 |        2 | Il Pescatore      |   8.5  | looseknot          |
-|  4 | :soon:                   | 2021-11-27 03:15:00 | chelmsford-city           |      1 |        1 | Baileysgutfeeling |   7.5  | vulture            |
-|  5 | :soon:                   | 2021-11-27 03:15:00 | chelmsford-city           |      1 |       15 | Invasive          |   4.8  | vulture            |
-|  6 | :soon:                   | 2021-11-27 02:35:00 | newbury                   |      7 |       13 | Eyeofthescorpion  |   5.5  | overthrow          |
-|  7 | :soon:                   | 2021-11-27 02:35:00 | newbury                   |      7 |        4 | Shannon Bridge    |  26    | overthrow          |
-|  8 | :soon:                   | 2021-11-27 02:35:00 | newbury                   |      7 |        6 | Saint Sonnet      |  10    | overthrow          |
-|  9 | :soon:                   | 2021-11-27 02:00:00 | newbury                   |      6 |        1 | Paisley Park      |   3.25 | milkman            |
-| 10 | :soon:                   | 2021-11-27 02:00:00 | newbury                   |      6 |        2 | On The Blind Side |  13    | overthrow          |
-| 11 | :soon:                   | 2021-11-27 01:25:00 | newbury                   |      5 |        4 | Eritage           |  11    | overthrow          |
-| 12 | :soon:                   | 2021-11-27 01:25:00 | newbury                   |      5 |        6 | Morning Vicar     |   6    | evenodds,overthrow |
-| 13 | :soon:                   | 2021-11-27 01:25:00 | newbury                   |      5 |        5 | Gaelik Coast      |   9    | vulture            |
-| 14 | :soon:                   | 2021-11-27 01:25:00 | newbury                   |      5 |        3 | Phoenix Way       |   4.2  | milkman            |
-| 15 | :soon:                   | 2021-11-27 00:50:00 | newbury                   |      4 |        2 | Mister Coffey     |   3.9  | overthrow          |
-| 16 | :soon:                   | 2021-11-27 00:50:00 | newbury                   |      4 |        1 | Solo              |   6    | overthrow          |
-| 17 | :soon:                   | 2021-11-27 00:40:00 | doncaster                 |      3 |        1 | The Newest One    |   2.9  | vulture            |
-| 18 | :soon:                   | 2021-11-27 00:40:00 | doncaster                 |      3 |        2 | Huntsmans Jog     |   2.1  | evenodds,overthrow |
-| 19 | :soon:                   | 2021-11-27 00:15:00 | newbury                   |      3 |        2 | Boombawn          |   8.5  | overthrow          |
-| 20 | :soon:                   | 2021-11-27 00:15:00 | newbury                   |      3 |        7 | Jonbon            |   1.61 | overthrow          |
-| 21 | :soon:                   | 2021-11-27 00:05:00 | doncaster                 |      2 |        2 | Gentleman Valley  |   4    | vulture            |
-| 22 | :soon:                   | 2021-11-26 23:40:00 | newbury                   |      2 |        4 | Nassalam          |   3.4  | vulture            |
-| 23 | :soon:                   | 2021-11-26 23:40:00 | newbury                   |      2 |        3 | Pic D'Orhy        |   6    | overthrow          |
-| 24 | :soon:                   | 2021-11-26 23:10:00 | newbury                   |      1 |        6 | Kincardine        |   4.2  | evenodds,milkman   |
-| 25 | :soon:                   | 2021-11-26 23:10:00 | newbury                   |      1 |        1 | Stage Star        |   1.45 | evenodds,overthrow |
-| 26 | :soon:                   | 2021-11-26 22:20:00 | lingfield                 |      1 |        4 | Resumption        |   2.35 | vulture            |
-| 27 | :soon:                   | 2021-11-26 20:08:00 | sunshine-coast-poly-track |      3 |        5 | Eloquently        |   1.11 | vulture,milkman    |
-| 28 | :hourglass_flowing_sand: | 2021-11-26 20:00:00 | canterbury                |      5 |        4 | Electric          |  12    | pangea,icyhot      |
-| 29 | :boom:                   | 2021-11-26 19:20:00 | albany                    |      6 |        6 | Nurhaci           |   2.7  | pangea             |
-| 30 | :3rd_place_medal:        | 2021-11-26 18:30:00 | canterbury                |      2 |        1 | Black Queen       |   1.7  | vulture,jmac       |
-| 31 | :3rd_place_medal:        | 2021-11-26 18:15:00 | moonee-valley             |      1 |        3 | The Amazonian     |   4.75 | vulture            |
-| 32 | 7.0                      | 2021-11-26 18:00:00 | canterbury                |      1 |        1 | Adair             |   4    | jmac               |
-| 33 | :boom:                   | 2021-11-26 16:33:00 | canberra                  |      6 |        9 | I Call Junee Home |   2.05 | vulture            |
-| 35 | 9.0                      | 2021-11-26 14:34:00 | mackay                    |      2 |        3 | Magnetic Drive    |   8.5  | pangea,milkman     |
-| 36 | :boom:                   | 2021-11-26 14:34:00 | mackay                    |      2 |        2 | Isis Carmella     |   2.35 | pangea,icyhot      |
-| 37 | 5.0                      | 2021-11-26 14:10:00 | cromwell                  |      5 |        1 | Tap 'n' Go        |   5    | looseknot          |
-| 38 | :2nd_place_medal:        | 2021-11-26 13:59:00 | mackay                    |      1 |        5 | In Order          |   1.6  | evenodds,overthrow |
+|    | finish            | time                | track                     |   race |   number | name              |   odds | tipster            |
+|---:|:------------------|:--------------------|:--------------------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:            | 2021-11-27 05:45:00 | chelmsford-city           |      6 |        1 | Sealed Offer      |   4.6  | vulture            |
+|  1 | :soon:            | 2021-11-27 05:15:00 | chelmsford-city           |      5 |        1 | Beggarman         |   2.35 | vulture            |
+|  2 | :soon:            | 2021-11-27 05:00:00 | dundalk                   |      5 |        6 | Eco Friendly      |  16    | looseknot          |
+|  3 | :soon:            | 2021-11-27 04:45:00 | chelmsford-city           |      4 |        2 | Il Pescatore      |   8.5  | looseknot          |
+|  4 | :soon:            | 2021-11-27 03:15:00 | chelmsford-city           |      1 |        1 | Baileysgutfeeling |   7.5  | vulture            |
+|  5 | :soon:            | 2021-11-27 03:15:00 | chelmsford-city           |      1 |       15 | Invasive          |   4.8  | vulture            |
+|  6 | :soon:            | 2021-11-27 02:35:00 | newbury                   |      7 |       13 | Eyeofthescorpion  |   5.5  | overthrow          |
+|  7 | :soon:            | 2021-11-27 02:35:00 | newbury                   |      7 |        4 | Shannon Bridge    |  26    | overthrow          |
+|  8 | :soon:            | 2021-11-27 02:35:00 | newbury                   |      7 |        6 | Saint Sonnet      |  10    | overthrow          |
+|  9 | :soon:            | 2021-11-27 02:00:00 | newbury                   |      6 |        1 | Paisley Park      |   3.25 | milkman            |
+| 10 | :soon:            | 2021-11-27 02:00:00 | newbury                   |      6 |        2 | On The Blind Side |  13    | overthrow          |
+| 11 | :soon:            | 2021-11-27 01:25:00 | newbury                   |      5 |        4 | Eritage           |  11    | overthrow          |
+| 12 | :soon:            | 2021-11-27 01:25:00 | newbury                   |      5 |        6 | Morning Vicar     |   6    | evenodds,overthrow |
+| 13 | :soon:            | 2021-11-27 01:25:00 | newbury                   |      5 |        5 | Gaelik Coast      |   9    | vulture            |
+| 14 | :soon:            | 2021-11-27 01:25:00 | newbury                   |      5 |        3 | Phoenix Way       |   4.2  | milkman            |
+| 15 | :soon:            | 2021-11-27 00:50:00 | newbury                   |      4 |        2 | Mister Coffey     |   3.9  | overthrow          |
+| 16 | :soon:            | 2021-11-27 00:50:00 | newbury                   |      4 |        1 | Solo              |   6    | overthrow          |
+| 17 | :soon:            | 2021-11-27 00:40:00 | doncaster                 |      3 |        1 | The Newest One    |   2.9  | vulture            |
+| 18 | :soon:            | 2021-11-27 00:40:00 | doncaster                 |      3 |        2 | Huntsmans Jog     |   2.1  | evenodds,overthrow |
+| 19 | :soon:            | 2021-11-27 00:15:00 | newbury                   |      3 |        2 | Boombawn          |   8.5  | overthrow          |
+| 20 | :soon:            | 2021-11-27 00:15:00 | newbury                   |      3 |        7 | Jonbon            |   1.61 | overthrow          |
+| 21 | :soon:            | 2021-11-27 00:05:00 | doncaster                 |      2 |        2 | Gentleman Valley  |   4    | vulture            |
+| 22 | :soon:            | 2021-11-26 23:40:00 | newbury                   |      2 |        4 | Nassalam          |   3.4  | vulture            |
+| 23 | :soon:            | 2021-11-26 23:40:00 | newbury                   |      2 |        3 | Pic D'Orhy        |   6    | overthrow          |
+| 24 | :soon:            | 2021-11-26 23:10:00 | newbury                   |      1 |        6 | Kincardine        |   4.2  | evenodds,milkman   |
+| 25 | :soon:            | 2021-11-26 23:10:00 | newbury                   |      1 |        1 | Stage Star        |   1.45 | evenodds,overthrow |
+| 26 | :soon:            | 2021-11-26 22:20:00 | lingfield                 |      1 |        4 | Resumption        |   2.35 | vulture            |
+| 27 | --                | 2021-11-26 20:08:00 | sunshine-coast-poly-track |      3 |        5 | Eloquently        |   1.11 | vulture,milkman    |
+| 28 | 6.0               | 2021-11-26 20:00:00 | canterbury                |      5 |        4 | Electric          |  12    | pangea,icyhot      |
+| 29 | :boom:            | 2021-11-26 19:20:00 | albany                    |      6 |        6 | Nurhaci           |   2.7  | pangea             |
+| 30 | :3rd_place_medal: | 2021-11-26 18:30:00 | canterbury                |      2 |        1 | Black Queen       |   1.7  | vulture,jmac       |
+| 31 | :3rd_place_medal: | 2021-11-26 18:15:00 | moonee-valley             |      1 |        3 | The Amazonian     |   4.75 | vulture            |
+| 32 | 7.0               | 2021-11-26 18:00:00 | canterbury                |      1 |        1 | Adair             |   4    | jmac               |
+| 33 | :boom:            | 2021-11-26 16:33:00 | canberra                  |      6 |        9 | I Call Junee Home |   2.05 | vulture            |
+| 35 | 9.0               | 2021-11-26 14:34:00 | mackay                    |      2 |        3 | Magnetic Drive    |   8.5  | pangea,milkman     |
+| 36 | :boom:            | 2021-11-26 14:34:00 | mackay                    |      2 |        2 | Isis Carmella     |   2.35 | pangea,icyhot      |
+| 37 | 5.0               | 2021-11-26 14:10:00 | cromwell                  |      5 |        1 | Tap 'n' Go        |   5    | looseknot          |
+| 38 | :2nd_place_medal: | 2021-11-26 13:59:00 | mackay                    |      1 |        5 | In Order          |   1.6  | evenodds,overthrow |

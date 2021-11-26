@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-11-26 20:00:10 +1000  
+date: 2021-11-26 20:15:33 +1000  
 categories: None 
 ---   
 
@@ -338,16 +338,16 @@ categories: None
 | 4                 | 2021-05-29 | belmont R9             | 5 Battle Storm        |  4    |    -10   |
 | :boom:            | 2021-05-29 | belmont R7             | 2 Leading Girl        |  2.7  |     17   |
 | 4                 | 2021-05-29 | darwin R3              | 2 Count of Essex      |  4.25 |    -10   |
-| :2nd_place_medal: | 2021-05-29 | belmont R4             | 6 Devoted Star        |  6.5  |    -10   |
 | 7                 | 2021-05-29 | belmont R4             | 3 Mystical View       | 12    |    -10   |
+| :2nd_place_medal: | 2021-05-29 | belmont R4             | 6 Devoted Star        |  6.5  |    -10   |
 | :3rd_place_medal: | 2021-05-29 | eagle-farm R8          | 11 Signore Fox        | 51    |    -10   |
 | :boom:            | 2021-05-29 | darwin R2              | 2 Captain Hedderwick  |  2.5  |     15   |
 | 0                 | 2021-05-29 | belmont R3             | 1 I'm Pretty          |  6    |    -10   |
 | :boom:            | 2021-05-29 | darwin R1              | 7 The Auditor         | 12.5  |    115   |
 | :boom:            | 2021-05-29 | belmont R2             | 6 Graceful Girl       |  2.6  |     16   |
 | 8                 | 2021-05-29 | eagle-farm R5          | 1 Southern France     | 11.2  |    -10   |
-| 7                 | 2021-05-29 | eagle-farm R3          | 1 Aim                 | 26    |    -10   |
 | 12                | 2021-05-29 | eagle-farm R3          | 7 Exoboom             |  8.5  |    -10   |
+| 7                 | 2021-05-29 | eagle-farm R3          | 1 Aim                 | 26    |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R4      | 5 Weboughtazou        |  2.9  |    -10   |
 | 6                 | 2021-05-26 | belmont R1             | 3 Nowhiteflag         |  1.95 |    -10   |
 | :boom:            | 2021-05-25 | rockhampton R2         | 1 Stubai              |  2    |     10   |
@@ -428,8 +428,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-17 | randwick R10           | 3 Entriviere          |  5    |    -10   |
 | 5                 | 2021-04-17 | caulfield R8           | 3 How Womantic        |  4.05 |    -10   |
 | 8                 | 2021-04-17 | caulfield R8           | 2 Yulong January      | 21    |    -10   |
-| :2nd_place_medal: | 2021-04-17 | randwick R6            | 9 Isotope             |  3.7  |    -10   |
 | :boom:            | 2021-04-17 | randwick R6            | 1 Wild Ruler          |  5.7  |     47   |
+| :2nd_place_medal: | 2021-04-17 | randwick R6            | 9 Isotope             |  3.7  |    -10   |
 | :3rd_place_medal: | 2021-04-17 | alice-springs R2       | 4 The Captain         |  1.55 |    -10   |
 | 4                 | 2021-04-17 | randwick R5            | 2 Amarelinha          |  4.65 |    -10   |
 | 7                 | 2021-04-17 | caulfield R1           | 4 Fanciful Toff       |  3.7  |    -10   |
@@ -438,8 +438,8 @@ categories: None
 | 4                 | 2021-04-16 | darwin R2              | 2 Kowloon Kid         |  4.6  |    -10   |
 | :boom:            | 2021-04-15 | albany R6              | 6 Strathmore Rose     |  1.4  |      4   |
 | 4                 | 2021-04-15 | albany R4              | 1 Captain Sharmane    |  2.25 |    -10   |
-| 0                 | 2021-04-15 | newmarket R4           | 6 Solid Stone         |  8.5  |    -10   |
 | 0                 | 2021-04-15 | newmarket R4           | 1 Forest Of Dean      | 11    |    -10   |
+| 0                 | 2021-04-15 | newmarket R4           | 6 Solid Stone         |  8.5  |    -10   |
 | 6                 | 2021-04-14 | eagle-farm R8          | 6 Highmaster          |  1.96 |    -10   |
 | :2nd_place_medal: | 2021-04-14 | hawkesbury R5          | 9 Exoboom             |  1.8  |    -10   |
 | 6                 | 2021-04-11 | devonport-synthetic R6 | 7 Spihro              |  8.5  |    -10   |
