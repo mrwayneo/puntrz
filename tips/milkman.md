@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-26 21:47:13 +1000  
+date: 2021-11-26 22:02:43 +1000  
 categories: None 
 ---   
 
@@ -35,8 +35,8 @@ categories: None
 | :2nd_place_medal: | 2021-11-22 | kempton R1                   | 3 Petrossian          |  2.8  |    -10   |
 | :boom:            | 2021-11-22 | navan R3                     | 5 Hollow Games        |  1.4  |      4   |
 | 4                 | 2021-11-22 | navan R2                     | 8 Au Fleuron          |  1.65 |    -10   |
-| :2nd_place_medal: | 2021-11-21 | sha-tin R6                   | 10 Naboo Attack       |  9    |    -10   |
 | 0                 | 2021-11-21 | sha-tin R6                   | 9 Courier Wonder      |  0    |    -10   |
+| :2nd_place_medal: | 2021-11-21 | sha-tin R6                   | 10 Naboo Attack       |  9    |    -10   |
 | 0                 | 2021-11-21 | ascot R7                     | 1 Another Mystery     |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-20 | haydock R1                   | 1 Sonigino            |  7    |    -10   |
 | 0                 | 2021-11-20 | toowoomba R7                 | 4 Telephone Booth     |  0    |    -10   |
@@ -100,8 +100,8 @@ categories: None
 | 0                 | 2021-11-13 | kembla-grange R5             | 1 Spaltet             |  0    |    -10   |
 | 4                 | 2021-11-13 | doomben R5                   | 4 Zavaboom            | 17    |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R5                   | 10 Putontheredlight   |  2.15 |    -10   |
-| :boom:            | 2021-11-13 | ascot R1                     | 6 Written Matter      |  5.1  |     41   |
 | 7                 | 2021-11-13 | ascot R1                     | 2 Fairy Fast          |  6    |    -10   |
+| :boom:            | 2021-11-13 | ascot R1                     | 6 Written Matter      |  5.1  |     41   |
 | :2nd_place_medal: | 2021-11-13 | gold-coast R4                | 1 Vivyn               |  1.28 |    -10   |
 | :3rd_place_medal: | 2021-11-13 | newcastle R5                 | 1 Love Tap            |  3.1  |    -10   |
 | 4                 | 2021-11-13 | riccarton-park R8            | 1 Imperatriz          |  3.5  |    -10   |
@@ -123,8 +123,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-10 | huntingdon R7                | 1 Alazwar             |  1.5  |    -10   |
 | :boom:            | 2021-11-09 | huntingdon R1                | 7 Theatre Glory       |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3                | 3 Yes Dream           |  1.6  |      6   |
-| 4                 | 2021-11-09 | kempton R3                   | 1 Fifrelet            |  5    |    -10   |
 | :boom:            | 2021-11-09 | kempton R3                   | 3 Doddiethegreat      |  1.33 |      3.3 |
+| 4                 | 2021-11-09 | kempton R3                   | 1 Fifrelet            |  5    |    -10   |
 | 0                 | 2021-11-08 | carlisle R1                  | 9 Snowy Clouds        |  0    |    -10   |
 | 0                 | 2021-11-08 | sandown R7                   | 1 Revasser            |  0    |    -10   |
 | :boom:            | 2021-11-08 | sandown R4                   | 1 Chantry House       |  1.3  |      3   |
