@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-26 19:15:21 +1000  
+date: 2021-11-26 19:30:19 +1000  
 ---   
 
 
@@ -78,7 +78,7 @@ date: 2021-11-26 19:15:21 +1000
 | 26 | :soon:            | 2021-11-26 22:20:00 | lingfield                 |      1 |        4 | Resumption        |   2.35 | vulture            |
 | 27 | :soon:            | 2021-11-26 20:08:00 | sunshine-coast-poly-track |      3 |        5 | Eloquently        |   1.11 | vulture,milkman    |
 | 28 | :soon:            | 2021-11-26 20:00:00 | canterbury                |      5 |        4 | Electric          |  12    | pangea,icyhot      |
-| 29 | :soon:            | 2021-11-26 19:20:00 | albany                    |      6 |        6 | Nurhaci           |   2.7  | pangea             |
+| 29 | :boom:            | 2021-11-26 19:20:00 | albany                    |      6 |        6 | Nurhaci           |   2.7  | pangea             |
 | 30 | :3rd_place_medal: | 2021-11-26 18:30:00 | canterbury                |      2 |        1 | Black Queen       |   1.7  | vulture,jmac       |
 | 31 | :3rd_place_medal: | 2021-11-26 18:15:00 | moonee-valley             |      1 |        3 | The Amazonian     |   4.75 | vulture            |
 | 32 | 7.0               | 2021-11-26 18:00:00 | canterbury                |      1 |        1 | Adair             |   4    | jmac               |
