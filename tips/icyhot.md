@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-11-27 20:37:14 +1000  
+date: 2021-11-27 20:52:12 +1000  
 categories: None 
 ---   
 
@@ -37,8 +37,8 @@ categories: None
 | :2nd_place_medal: | 2021-11-13 | ascot R4                | 4 Ginger Flyer        |  4.2  |    -10   |
 | :3rd_place_medal: | 2021-11-13 | ascot R3                | 2 Son Of A God        | 26    |    -10   |
 | :boom:            | 2021-11-13 | doomben R6              | 6 Lyrical Girl        |  3.5  |     25   |
-| 5                 | 2021-11-13 | ascot R1                | 4 Nowhiteflag         |  1.95 |    -10   |
 | :boom:            | 2021-11-13 | ascot R1                | 6 Written Matter      |  5.1  |     41   |
+| 5                 | 2021-11-13 | ascot R1                | 4 Nowhiteflag         |  1.95 |    -10   |
 | :boom:            | 2021-11-13 | gold-coast R2           | 1 Sir Rocket          |  1.7  |      7   |
 | 0                 | 2021-11-11 | turffontein R3          | 5 Sound Of Summer     |  0    |    -10   |
 | 6                 | 2021-11-10 | murray-bdge R2          | 5 French Fields       |  2    |    -10   |
