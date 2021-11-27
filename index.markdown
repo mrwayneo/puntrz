@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-27 16:43:38 +1000  
+date: 2021-11-27 16:58:25 +1000  
 ---   
 
 
@@ -107,8 +107,8 @@ date: 2021-11-27 16:43:38 +1000
 | 55 | :soon:            | 2021-11-27 17:05:00 | ascot         |      4 |       12 | Dais              |   4.6  | pikey              |
 | 56 | :soon:            | 2021-11-27 17:00:00 | caulfield     |      8 |        8 | Djukon            |  16    | vulture,pangea     |
 | 57 | :soon:            | 2021-11-27 17:00:00 | caulfield     |      8 |        6 | Our Playboy       |   2.75 | vulture            |
-| 58 | :soon:            | 2021-11-27 16:54:00 | alice-springs |      2 |        4 | Valenciano        |   5.5  | benny,pangea       |
-| 62 | --                | 2021-11-27 16:25:00 | ascot         |      3 |        9 | Secret Plan       |   1.85 | evenodds,pikey     |
+| 58 | --                | 2021-11-27 16:54:00 | alice-springs |      2 |        4 | Valenciano        |   5.5  | benny,pangea       |
+| 62 | 5.0               | 2021-11-27 16:25:00 | ascot         |      3 |        9 | Secret Plan       |   1.85 | evenodds,pikey     |
 | 63 | :boom:            | 2021-11-27 16:25:00 | ascot         |      3 |        6 | Triple Missile    |   3    | pangea             |
 | 64 | :2nd_place_medal: | 2021-11-27 16:20:00 | caulfield     |      7 |        6 | Dr Drill          |  19    | benny,pangea       |
 | 65 | :3rd_place_medal: | 2021-11-27 16:20:00 | caulfield     |      7 |        4 | Wentwood          |  26    | benny,pangea       |
