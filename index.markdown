@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-27 14:17:50 +1000  
+date: 2021-11-27 14:36:49 +1000  
 ---   
 
 
@@ -121,10 +121,10 @@ date: 2021-11-27 14:17:50 +1000
 | 72 | :soon:            | 2021-11-27 15:05:00 | ascot         |      1 |        1 | The Front Bar     |   1.75 | benny,pikey        |
 | 73 | :soon:            | 2021-11-27 15:00:00 | caulfield     |      5 |        1 | Quantum Mechanic  |   6    | pangea             |
 | 74 | :soon:            | 2021-11-27 14:50:00 | ipswich       |      5 |        4 | Curwood           |   5.5  | looseknot          |
-| 76 | :soon:            | 2021-11-27 14:30:00 | te-aroha      |      8 |        7 | Gold Watch        |   1.5  | vulture,milkman    |
-| 77 | :soon:            | 2021-11-27 14:30:00 | te-aroha      |      8 |        8 | Run To Perfection |   5    | vulture            |
-| 78 | :soon:            | 2021-11-27 14:20:00 | caulfield     |      4 |       13 | Yulong Command    |   3.8  | vulture,pangea     |
-| 79 | :soon:            | 2021-11-27 14:20:00 | caulfield     |      4 |       12 | Starry Legend     |   9.5  | pangea             |
+| 76 | :boom:            | 2021-11-27 14:30:00 | te-aroha      |      8 |        7 | Gold Watch        |   1.5  | vulture,milkman    |
+| 77 | --                | 2021-11-27 14:30:00 | te-aroha      |      8 |        8 | Run To Perfection |   5    | vulture            |
+| 78 | :3rd_place_medal: | 2021-11-27 14:20:00 | caulfield     |      4 |       13 | Yulong Command    |   3.8  | vulture,pangea     |
+| 79 | 4.0               | 2021-11-27 14:20:00 | caulfield     |      4 |       12 | Starry Legend     |   9.5  | pangea             |
 | 80 | 8.0               | 2021-11-27 13:57:00 | morphettville |      3 |        6 | Lucy Diamonds     |   8.5  | moechilli          |
 | 81 | :boom:            | 2021-11-27 13:55:00 | te-aroha      |      7 |        1 | Pareanui Bay      |   2.3  | vulture,milkman    |
 | 82 | 4.0               | 2021-11-27 13:55:00 | te-aroha      |      7 |        4 | La Bella Beals    |   6.6  | vulture            |
