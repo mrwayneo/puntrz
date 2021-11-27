@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-27 07:55:51 +1000  
+date: 2021-11-27 13:48:20 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,14 @@ categories: None
 
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
+| 20:20             | 2021-11-27 | ascot R9              | 4 Bogart              |  6.5  |    -10   |
+| 19:05             | 2021-11-27 | ascot R7              | 4 Midnight Blue       |  1.9  |    -10   |
+| 18:25             | 2021-11-27 | ascot R6              | 7 Scandolo            |  4.33 |    -10   |
+| 17:45             | 2021-11-27 | ascot R5              | 3 God Has Chosen      |  1.65 |    -10   |
+| 17:05             | 2021-11-27 | ascot R4              | 12 Dais               |  4.6  |    -10   |
+| 16:25             | 2021-11-27 | ascot R3              | 9 Secret Plan         |  1.85 |    -10   |
+| 15:45             | 2021-11-27 | ascot R2              | 4 Utgard Loki         |  6.5  |    -10   |
+| 15:05             | 2021-11-27 | ascot R1              | 1 The Front Bar       |  1.75 |    -10   |
 | :3rd_place_medal: | 2021-11-25 | northam R7            | 4 Chiclett            |  2.15 |    -10   |
 | 8                 | 2021-11-25 | northam R5            | 6 Quintus             |  6    |    -10   |
 | :2nd_place_medal: | 2021-11-25 | northam R4            | 3 Do It Right         |  6    |    -10   |

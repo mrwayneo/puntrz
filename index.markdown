@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-27 07:55:52 +1000  
+date: 2021-11-27 13:48:21 +1000  
 ---   
 
 
@@ -47,43 +47,89 @@ date: 2021-11-27 07:55:52 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6341 |    897 | -12208   | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8003 |    427 | -17738   | 0.05 | -0.22 |
 
-|    | finish            | time                | track                     |   race |   number | name              |   odds | tipster            |
-|---:|:------------------|:--------------------|:--------------------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | --                | 2021-11-27 05:45:00 | chelmsford-city           |      6 |        1 | Sealed Offer      |   4.6  | vulture            |
-|  1 | :boom:            | 2021-11-27 05:15:00 | chelmsford-city           |      5 |        1 | Beggarman         |   2.35 | vulture            |
-|  2 | --                | 2021-11-27 05:00:00 | dundalk                   |      5 |        6 | Eco Friendly      |  16    | looseknot          |
-|  3 | 14.0              | 2021-11-27 04:45:00 | chelmsford-city           |      4 |        2 | Il Pescatore      |   8.5  | looseknot          |
-|  4 | :2nd_place_medal: | 2021-11-27 03:15:00 | chelmsford-city           |      1 |        1 | Baileysgutfeeling |   7.5  | vulture            |
-|  5 | --                | 2021-11-27 03:15:00 | chelmsford-city           |      1 |       15 | Invasive          |   4.8  | vulture            |
-|  6 | :3rd_place_medal: | 2021-11-27 02:35:00 | newbury                   |      7 |       13 | Eyeofthescorpion  |   5.5  | overthrow          |
-|  7 | 14.0              | 2021-11-27 02:35:00 | newbury                   |      7 |        4 | Shannon Bridge    |  26    | overthrow          |
-|  8 | 11.0              | 2021-11-27 02:35:00 | newbury                   |      7 |        6 | Saint Sonnet      |  10    | overthrow          |
-|  9 | :3rd_place_medal: | 2021-11-27 02:00:00 | newbury                   |      6 |        1 | Paisley Park      |   3.25 | milkman            |
-| 10 | :2nd_place_medal: | 2021-11-27 02:00:00 | newbury                   |      6 |        2 | On The Blind Side |  13    | overthrow          |
-| 11 | --                | 2021-11-27 01:25:00 | newbury                   |      5 |        4 | Eritage           |  11    | overthrow          |
-| 12 | --                | 2021-11-27 01:25:00 | newbury                   |      5 |        6 | Morning Vicar     |   6    | evenodds,overthrow |
-| 13 | --                | 2021-11-27 01:25:00 | newbury                   |      5 |        5 | Gaelik Coast      |   9    | vulture            |
-| 14 | --                | 2021-11-27 01:25:00 | newbury                   |      5 |        3 | Phoenix Way       |   4.2  | milkman            |
-| 15 | :3rd_place_medal: | 2021-11-27 00:50:00 | newbury                   |      4 |        2 | Mister Coffey     |   3.9  | overthrow          |
-| 16 | :2nd_place_medal: | 2021-11-27 00:50:00 | newbury                   |      4 |        1 | Solo              |   6    | overthrow          |
-| 17 | :boom:            | 2021-11-27 00:40:00 | doncaster                 |      3 |        1 | The Newest One    |   2.9  | vulture            |
-| 18 | :2nd_place_medal: | 2021-11-27 00:40:00 | doncaster                 |      3 |        2 | Huntsmans Jog     |   2.1  | evenodds,overthrow |
-| 19 | :3rd_place_medal: | 2021-11-27 00:15:00 | newbury                   |      3 |        2 | Boombawn          |   8.5  | overthrow          |
-| 20 | :boom:            | 2021-11-27 00:15:00 | newbury                   |      3 |        7 | Jonbon            |   1.61 | overthrow          |
-| 21 | --                | 2021-11-27 00:05:00 | doncaster                 |      2 |        2 | Gentleman Valley  |   4    | vulture            |
-| 22 | :boom:            | 2021-11-26 23:40:00 | newbury                   |      2 |        4 | Nassalam          |   3.4  | vulture            |
-| 23 | --                | 2021-11-26 23:40:00 | newbury                   |      2 |        3 | Pic D'Orhy        |   6    | overthrow          |
-| 24 | :3rd_place_medal: | 2021-11-26 23:10:00 | newbury                   |      1 |        6 | Kincardine        |   4.2  | evenodds,milkman   |
-| 25 | :boom:            | 2021-11-26 23:10:00 | newbury                   |      1 |        1 | Stage Star        |   1.45 | evenodds,overthrow |
-| 26 | :2nd_place_medal: | 2021-11-26 22:20:00 | lingfield                 |      1 |        4 | Resumption        |   2.35 | vulture            |
-| 27 | :2nd_place_medal: | 2021-11-26 20:08:00 | sunshine-coast-poly-track |      3 |        5 | Eloquently        |   1.11 | vulture,milkman    |
-| 28 | 6.0               | 2021-11-26 20:00:00 | canterbury                |      5 |        4 | Electric          |  12    | pangea,icyhot      |
-| 29 | :boom:            | 2021-11-26 19:20:00 | albany                    |      6 |        6 | Nurhaci           |   2.7  | pangea             |
-| 30 | :3rd_place_medal: | 2021-11-26 18:30:00 | canterbury                |      2 |        1 | Black Queen       |   1.7  | vulture,jmac       |
-| 31 | :3rd_place_medal: | 2021-11-26 18:15:00 | moonee-valley             |      1 |        3 | The Amazonian     |   4.75 | vulture            |
-| 32 | 7.0               | 2021-11-26 18:00:00 | canterbury                |      1 |        1 | Adair             |   4    | jmac               |
-| 33 | :boom:            | 2021-11-26 16:33:00 | canberra                  |      6 |        9 | I Call Junee Home |   2.05 | vulture            |
-| 35 | 9.0               | 2021-11-26 14:34:00 | mackay                    |      2 |        3 | Magnetic Drive    |   8.5  | pangea,milkman     |
-| 36 | :boom:            | 2021-11-26 14:34:00 | mackay                    |      2 |        2 | Isis Carmella     |   2.35 | pangea,icyhot      |
-| 37 | 5.0               | 2021-11-26 14:10:00 | cromwell                  |      5 |        1 | Tap 'n' Go        |   5    | looseknot          |
-| 38 | :2nd_place_medal: | 2021-11-26 13:59:00 | mackay                    |      1 |        5 | In Order          |   1.6  | evenodds,overthrow |
+|    | finish   | time                | track         |   race |   number | name              |   odds | tipster            |
+|---:|:---------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:   | 2021-11-28 05:00:00 | wolverhampton |      5 |        8 | Silver Screen     |   4    | looseknot          |
+|  1 | :soon:   | 2021-11-28 04:30:00 | wolverhampton |      4 |        4 | Morgan Fairy      |   3.4  | looseknot          |
+|  2 | :soon:   | 2021-11-28 04:00:00 | wolverhampton |      3 |        3 | Ammolite          |   5    | milkman            |
+|  3 | :soon:   | 2021-11-28 02:35:00 | newbury       |      7 |        2 | Gumball           |  12    | overthrow          |
+|  4 | :soon:   | 2021-11-28 02:35:00 | newbury       |      7 |        7 | Eclair D'Ainay    |   7.5  | overthrow          |
+|  5 | :soon:   | 2021-11-28 02:35:00 | newbury       |      7 |       13 | Il Ridoto         |   5.5  | overthrow          |
+|  6 | :soon:   | 2021-11-28 02:15:00 | newcastle     |      7 |        6 | Epatante          |   2.35 | overthrow          |
+|  7 | :soon:   | 2021-11-28 02:15:00 | newcastle     |      7 |        1 | Monmiral          |   3    | vulture            |
+|  8 | :soon:   | 2021-11-28 02:10:00 | kenilworth    |      7 |        4 | Silver Sabre      |   0    | vulture            |
+|  9 | :soon:   | 2021-11-28 02:00:00 | newbury       |      6 |        2 | Eklat De Rire     |   4.6  | milkman            |
+| 10 | :soon:   | 2021-11-28 02:00:00 | newbury       |      6 |       12 | Enrilo            |   7.5  | overthrow,milkman  |
+| 11 | :soon:   | 2021-11-28 01:46:00 | fairyhouse    |      7 |        6 | Rodaniche         |   3.2  | vulture            |
+| 12 | :soon:   | 2021-11-28 01:25:00 | newbury       |      5 |        1 | Soaring Glory     |   2.2  | vulture,milkman    |
+| 13 | :soon:   | 2021-11-28 01:25:00 | newbury       |      5 |        4 | Captain Morgs     |   4.8  | vulture            |
+| 14 | :soon:   | 2021-11-28 01:18:00 | doncaster     |      5 |        2 | Courtandbould     |   5.5  | overthrow          |
+| 15 | :soon:   | 2021-11-28 01:11:00 | fairyhouse    |      6 |        4 | Mt Leinster Gold  |  12    | milkman            |
+| 16 | :soon:   | 2021-11-28 00:50:00 | newbury       |      4 |        2 | Calva D'Auge      |   8    | overthrow          |
+| 17 | :soon:   | 2021-11-28 00:50:00 | newbury       |      4 |       10 | Lecale's Article  |   4.6  | milkman            |
+| 18 | :soon:   | 2021-11-28 00:50:00 | newbury       |      4 |        1 | Ch'tibello        |  11    | overthrow          |
+| 19 | :soon:   | 2021-11-28 00:36:00 | fairyhouse    |      5 |       16 | Grangee           |   1.95 | milkman            |
+| 20 | :soon:   | 2021-11-28 00:22:00 | bangor        |      3 |        4 | Gericault Roque   |   4.6  | looseknot          |
+| 21 | :soon:   | 2021-11-28 00:15:00 | newbury       |      3 |       11 | Kapcorse          |   7    | overthrow          |
+| 22 | :soon:   | 2021-11-28 00:15:00 | newbury       |      3 |        6 | Grand Sancy       |   9.5  | overthrow          |
+| 23 | :soon:   | 2021-11-28 00:08:00 | doncaster     |      3 |        3 | Becky The Boo     |   4.5  | overthrow          |
+| 24 | :soon:   | 2021-11-28 00:01:00 | fairyhouse    |      4 |        8 | Harald Hardrad    |   7.5  | milkman            |
+| 25 | :soon:   | 2021-11-28 00:00:00 | turffontein   |      7 |        8 | Rain In Holland   |   0    | milkman            |
+| 26 | :soon:   | 2021-11-27 23:55:00 | newcastle     |      3 |        3 | One Fine Man      |  12    | evenodds,overthrow |
+| 27 | :soon:   | 2021-11-27 23:55:00 | newcastle     |      3 |        2 | Mr Glass          |   1.9  | vulture            |
+| 28 | :soon:   | 2021-11-27 23:40:00 | newbury       |      2 |        3 | Flash Collonges   |   7.5  | overthrow,milkman  |
+| 29 | :soon:   | 2021-11-27 23:40:00 | newbury       |      2 |        2 | Ashtown Lad       |   7.5  | overthrow          |
+| 30 | :soon:   | 2021-11-27 23:35:00 | doncaster     |      2 |        3 | Alghazaal         |   6    | vulture            |
+| 31 | :soon:   | 2021-11-27 23:25:00 | turffontein   |      6 |        5 | Aragosta          |   0    | pangea,icyhot      |
+| 32 | :soon:   | 2021-11-27 23:25:00 | turffontein   |      6 |        2 | Safe Passage      |   0    | vulture,milkman    |
+| 33 | :soon:   | 2021-11-27 23:10:00 | newbury       |      1 |        5 | Rainyday Woman    |  10    | evenodds,overthrow |
+| 34 | :soon:   | 2021-11-27 23:10:00 | newbury       |      1 |        2 | Ahorsewithnoname  |   6    | vulture            |
+| 35 | :soon:   | 2021-11-27 23:10:00 | newbury       |      1 |        7 | Theatre Glory     |   7    | vulture,milkman    |
+| 36 | :soon:   | 2021-11-27 23:10:00 | newbury       |      1 |        3 | Elle Est Belle    |   2.6  | overthrow          |
+| 37 | :soon:   | 2021-11-27 22:15:00 | turffontein   |      4 |        7 | Big Burn          |   0    | milkman            |
+| 38 | :soon:   | 2021-11-27 21:43:00 | toowoomba     |      7 |        2 | Songzilla         |   3.5  | milkman            |
+| 39 | :soon:   | 2021-11-27 20:35:00 | turffontein   |      1 |        3 | Angelsea          |   0    | vulture            |
+| 40 | :soon:   | 2021-11-27 20:20:00 | ascot         |      9 |        6 | Beret             |   4.4  | vulture,pangea     |
+| 41 | :soon:   | 2021-11-27 20:20:00 | ascot         |      9 |        4 | Bogart            |   6.5  | pangea,pikey       |
+| 42 | :soon:   | 2021-11-27 19:05:00 | ascot         |      7 |        4 | Midnight Blue     |   1.9  | evenodds,pikey     |
+| 43 | :soon:   | 2021-11-27 19:05:00 | ascot         |      7 |       10 | Stafford's Lad    |  17    | overthrow          |
+| 44 | :soon:   | 2021-11-27 18:35:00 | toowoomba     |      2 |        4 | Motomiss          |   2.15 | vulture,pangea     |
+| 45 | :soon:   | 2021-11-27 18:35:00 | toowoomba     |      2 |       11 | Super One Susie   |   9    | vulture            |
+| 46 | :soon:   | 2021-11-27 18:25:00 | ascot         |      6 |        7 | Scandolo          |   4.33 | vulture,pikey      |
+| 47 | :soon:   | 2021-11-27 18:15:00 | alice-springs |      4 |        3 | Faolan            |   4.75 | pangea,blackshadow |
+| 48 | :soon:   | 2021-11-27 17:45:00 | ascot         |      5 |        3 | God Has Chosen    |   1.65 | pangea,pikey       |
+| 49 | :soon:   | 2021-11-27 17:45:00 | ascot         |      5 |        8 | Tri For Us        |  12    | pangea             |
+| 50 | :soon:   | 2021-11-27 17:40:00 | caulfield     |      9 |       11 | Cambourne         |  14    | vulture,pangea     |
+| 51 | :soon:   | 2021-11-27 17:30:00 | ipswich       |      9 |        7 | Love Yers All     |   4.2  | pangea             |
+| 52 | :soon:   | 2021-11-27 17:12:00 | morphettville |      8 |        6 | Second Slip       |   8.5  | pangea             |
+| 53 | :soon:   | 2021-11-27 17:12:00 | morphettville |      8 |       16 | Another Award     |  15    | vulture            |
+| 54 | :soon:   | 2021-11-27 17:12:00 | morphettville |      8 |        8 | Rock The Ring     |   2.7  | pangea,icyhot      |
+| 55 | :soon:   | 2021-11-27 17:05:00 | ascot         |      4 |       12 | Dais              |   4.6  | pikey              |
+| 56 | :soon:   | 2021-11-27 17:00:00 | caulfield     |      8 |        8 | Djukon            |  16    | vulture,pangea     |
+| 57 | :soon:   | 2021-11-27 17:00:00 | caulfield     |      8 |        6 | Our Playboy       |   2.75 | vulture            |
+| 58 | :soon:   | 2021-11-27 16:54:00 | alice-springs |      2 |        4 | Valenciano        |   5.5  | benny,pangea       |
+| 62 | :soon:   | 2021-11-27 16:25:00 | ascot         |      3 |        9 | Secret Plan       |   1.85 | evenodds,pikey     |
+| 63 | :soon:   | 2021-11-27 16:25:00 | ascot         |      3 |        6 | Triple Missile    |   3    | pangea             |
+| 64 | :soon:   | 2021-11-27 16:20:00 | caulfield     |      7 |        6 | Dr Drill          |  19    | benny,pangea       |
+| 65 | :soon:   | 2021-11-27 16:20:00 | caulfield     |      7 |        4 | Wentwood          |  26    | benny,pangea       |
+| 66 | :soon:   | 2021-11-27 16:10:00 | ipswich       |      7 |        5 | Enrique           |   3.4  | vulture            |
+| 67 | :soon:   | 2021-11-27 16:10:00 | ipswich       |      7 |        6 | Ice Elite         |   3.6  | vulture            |
+| 68 | :soon:   | 2021-11-27 16:05:00 | kilcoy        |      4 |        3 | Commandeering     |   3    | pangea             |
+| 69 | :soon:   | 2021-11-27 15:45:00 | ascot         |      2 |        4 | Utgard Loki       |   6.5  | pangea,pikey       |
+| 70 | :soon:   | 2021-11-27 15:40:00 | caulfield     |      6 |        9 | Blue Army         |  16    | vulture            |
+| 71 | :soon:   | 2021-11-27 15:12:00 | morphettville |      5 |        7 | Rapid Raiser      |  12    | pangea             |
+| 72 | :soon:   | 2021-11-27 15:05:00 | ascot         |      1 |        1 | The Front Bar     |   1.75 | benny,pikey        |
+| 73 | :soon:   | 2021-11-27 15:00:00 | caulfield     |      5 |        1 | Quantum Mechanic  |   6    | pangea             |
+| 74 | :soon:   | 2021-11-27 14:50:00 | ipswich       |      5 |        4 | Curwood           |   5.5  | looseknot          |
+| 76 | :soon:   | 2021-11-27 14:30:00 | te-aroha      |      8 |        7 | Gold Watch        |   1.5  | vulture,milkman    |
+| 77 | :soon:   | 2021-11-27 14:30:00 | te-aroha      |      8 |        8 | Run To Perfection |   5    | vulture            |
+| 78 | :soon:   | 2021-11-27 14:20:00 | caulfield     |      4 |       13 | Yulong Command    |   3.8  | vulture,pangea     |
+| 79 | :soon:   | 2021-11-27 14:20:00 | caulfield     |      4 |       12 | Starry Legend     |   9.5  | pangea             |
+| 80 | :soon:   | 2021-11-27 13:57:00 | morphettville |      3 |        6 | Lucy Diamonds     |   8.5  | moechilli          |
+| 81 | :soon:   | 2021-11-27 13:55:00 | te-aroha      |      7 |        1 | Pareanui Bay      |   2.3  | vulture,milkman    |
+| 82 | :soon:   | 2021-11-27 13:55:00 | te-aroha      |      7 |        4 | La Bella Beals    |   6.6  | vulture            |
+| 86 | :soon:   | 2021-11-27 13:38:00 | ipswich       |      3 |        3 | Puerto Rico       |   3.2  | vulture            |
+| 87 | :soon:   | 2021-11-27 13:20:00 | te-aroha      |      6 |       10 | Les Crayeres      |   4    | vulture,milkman    |
+| 88 | :soon:   | 2021-11-27 13:10:00 | caulfield     |      2 |        4 | Accountability    |   3.2  | vulture            |
+| 89 | :soon:   | 2021-11-27 12:35:00 | caulfield     |      1 |        1 | Brereton          |   2.75 | vulture,milkman    |
+| 90 | :soon:   | 2021-11-27 11:02:00 | te-aroha      |      2 |        8 | Sakura Blossom    |   2    | vulture,milkman    |

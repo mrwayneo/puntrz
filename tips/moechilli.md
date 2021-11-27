@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-11-27 07:55:48 +1000  
+date: 2021-11-27 13:48:17 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
+| 13:57             | 2021-11-27 | morphettville R3       | 6 Lucy Diamonds      |   8.5  |    -10   |
 | 0                 | 2021-11-25 | dundalk R3             | 11 Mullacash Buzz    |   0    |    -10   |
 | :2nd_place_medal: | 2021-11-19 | grafton R8             | 4 Tabulam            |   7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-14 | canberra R2            | 2 Affiliate          |   8    |    -10   |
