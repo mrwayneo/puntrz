@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-27 15:47:05 +1000  
+date: 2021-11-27 16:13:25 +1000  
 ---   
 
 
@@ -112,24 +112,24 @@ date: 2021-11-27 15:47:05 +1000
 | 63 | :soon:            | 2021-11-27 16:25:00 | ascot         |      3 |        6 | Triple Missile    |   3    | pangea             |
 | 64 | :soon:            | 2021-11-27 16:20:00 | caulfield     |      7 |        6 | Dr Drill          |  19    | benny,pangea       |
 | 65 | :soon:            | 2021-11-27 16:20:00 | caulfield     |      7 |        4 | Wentwood          |  26    | benny,pangea       |
-| 66 | :soon:            | 2021-11-27 16:10:00 | ipswich       |      7 |        5 | Enrique           |   3.4  | vulture            |
-| 67 | :soon:            | 2021-11-27 16:10:00 | ipswich       |      7 |        6 | Ice Elite         |   3.6  | vulture            |
-| 68 | :soon:            | 2021-11-27 16:05:00 | kilcoy        |      4 |        3 | Commandeering     |   3    | pangea             |
-| 69 | --                | 2021-11-27 15:45:00 | ascot         |      2 |        4 | Utgard Loki       |   6.5  | pangea,pikey       |
+| 66 | --                | 2021-11-27 16:10:00 | ipswich       |      7 |        5 | Enrique           |   3.4  | vulture            |
+| 67 | --                | 2021-11-27 16:10:00 | ipswich       |      7 |        6 | Ice Elite         |   3.6  | vulture            |
+| 68 | :3rd_place_medal: | 2021-11-27 16:05:00 | kilcoy        |      4 |        3 | Commandeering     |   3    | pangea             |
+| 69 | 5.0               | 2021-11-27 15:45:00 | ascot         |      2 |        4 | Utgard Loki       |   6.5  | pangea,pikey       |
 | 70 | :boom:            | 2021-11-27 15:40:00 | caulfield     |      6 |        9 | Blue Army         |  16    | vulture            |
 | 71 | :3rd_place_medal: | 2021-11-27 15:12:00 | morphettville |      5 |        7 | Rapid Raiser      |  12    | pangea             |
 | 72 | :boom:            | 2021-11-27 15:05:00 | ascot         |      1 |        1 | The Front Bar     |   1.75 | benny,pikey        |
 | 73 | :2nd_place_medal: | 2021-11-27 15:00:00 | caulfield     |      5 |        1 | Quantum Mechanic  |   6    | pangea             |
 | 74 | 7.0               | 2021-11-27 14:50:00 | ipswich       |      5 |        4 | Curwood           |   5.5  | looseknot          |
 | 76 | :boom:            | 2021-11-27 14:30:00 | te-aroha      |      8 |        7 | Gold Watch        |   1.5  | vulture,milkman    |
-| 77 | --                | 2021-11-27 14:30:00 | te-aroha      |      8 |        8 | Run To Perfection |   5    | vulture            |
+| 77 | 8.0               | 2021-11-27 14:30:00 | te-aroha      |      8 |        8 | Run To Perfection |   5    | vulture            |
 | 78 | :3rd_place_medal: | 2021-11-27 14:20:00 | caulfield     |      4 |       13 | Yulong Command    |   3.8  | vulture,pangea     |
 | 79 | 4.0               | 2021-11-27 14:20:00 | caulfield     |      4 |       12 | Starry Legend     |   9.5  | pangea             |
 | 80 | 8.0               | 2021-11-27 13:57:00 | morphettville |      3 |        6 | Lucy Diamonds     |   8.5  | moechilli          |
 | 81 | :boom:            | 2021-11-27 13:55:00 | te-aroha      |      7 |        1 | Pareanui Bay      |   2.3  | vulture,milkman    |
 | 82 | 4.0               | 2021-11-27 13:55:00 | te-aroha      |      7 |        4 | La Bella Beals    |   6.6  | vulture            |
 | 86 | :3rd_place_medal: | 2021-11-27 13:38:00 | ipswich       |      3 |        3 | Puerto Rico       |   3.2  | vulture            |
-| 87 | --                | 2021-11-27 13:20:00 | te-aroha      |      6 |       10 | Les Crayeres      |   4    | vulture,milkman    |
+| 87 | 8.0               | 2021-11-27 13:20:00 | te-aroha      |      6 |       10 | Les Crayeres      |   4    | vulture,milkman    |
 | 88 | 6.0               | 2021-11-27 13:10:00 | caulfield     |      2 |        4 | Accountability    |   3.2  | vulture            |
 | 89 | 4.0               | 2021-11-27 12:35:00 | caulfield     |      1 |        1 | Brereton          |   2.75 | vulture,milkman    |
-| 90 | --                | 2021-11-27 11:02:00 | te-aroha      |      2 |        8 | Sakura Blossom    |   2    | vulture,milkman    |
+| 90 | 5.0               | 2021-11-27 11:02:00 | te-aroha      |      2 |        8 | Sakura Blossom    |   2    | vulture,milkman    |
