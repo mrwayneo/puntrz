@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-27 17:31:51 +1000  
+date: 2021-11-27 17:47:08 +1000  
 ---   
 
 
@@ -97,10 +97,10 @@ date: 2021-11-27 17:31:51 +1000
 | 45 | :soon:            | 2021-11-27 18:35:00 | toowoomba     |      2 |       11 | Super One Susie   |   9    | vulture            |
 | 46 | :soon:            | 2021-11-27 18:25:00 | ascot         |      6 |        7 | Scandolo          |   4.33 | vulture,pikey      |
 | 47 | :soon:            | 2021-11-27 18:15:00 | alice-springs |      4 |        3 | Faolan            |   4.75 | pangea,blackshadow |
-| 48 | :soon:            | 2021-11-27 17:45:00 | ascot         |      5 |        3 | God Has Chosen    |   1.65 | pangea,pikey       |
-| 49 | :soon:            | 2021-11-27 17:45:00 | ascot         |      5 |        8 | Tri For Us        |  12    | pangea             |
-| 50 | :soon:            | 2021-11-27 17:40:00 | caulfield     |      9 |       11 | Cambourne         |  14    | vulture,pangea     |
-| 51 | --                | 2021-11-27 17:30:00 | ipswich       |      9 |        7 | Love Yers All     |   4.2  | pangea             |
+| 48 | --                | 2021-11-27 17:45:00 | ascot         |      5 |        3 | God Has Chosen    |   1.65 | pangea,pikey       |
+| 49 | --                | 2021-11-27 17:45:00 | ascot         |      5 |        8 | Tri For Us        |  12    | pangea             |
+| 50 | 4.0               | 2021-11-27 17:40:00 | caulfield     |      9 |       11 | Cambourne         |  14    | vulture,pangea     |
+| 51 | :2nd_place_medal: | 2021-11-27 17:30:00 | ipswich       |      9 |        7 | Love Yers All     |   4.2  | pangea             |
 | 52 | 6.0               | 2021-11-27 17:12:00 | morphettville |      8 |        6 | Second Slip       |   8.5  | pangea             |
 | 53 | 8.0               | 2021-11-27 17:12:00 | morphettville |      8 |       16 | Another Award     |  15    | vulture            |
 | 54 | :2nd_place_medal: | 2021-11-27 17:12:00 | morphettville |      8 |        8 | Rock The Ring     |   2.7  | pangea,icyhot      |
