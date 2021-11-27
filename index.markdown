@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-27 16:28:21 +1000  
+date: 2021-11-27 16:43:38 +1000  
 ---   
 
 
@@ -109,10 +109,10 @@ date: 2021-11-27 16:28:21 +1000
 | 57 | :soon:            | 2021-11-27 17:00:00 | caulfield     |      8 |        6 | Our Playboy       |   2.75 | vulture            |
 | 58 | :soon:            | 2021-11-27 16:54:00 | alice-springs |      2 |        4 | Valenciano        |   5.5  | benny,pangea       |
 | 62 | --                | 2021-11-27 16:25:00 | ascot         |      3 |        9 | Secret Plan       |   1.85 | evenodds,pikey     |
-| 63 | --                | 2021-11-27 16:25:00 | ascot         |      3 |        6 | Triple Missile    |   3    | pangea             |
+| 63 | :boom:            | 2021-11-27 16:25:00 | ascot         |      3 |        6 | Triple Missile    |   3    | pangea             |
 | 64 | :2nd_place_medal: | 2021-11-27 16:20:00 | caulfield     |      7 |        6 | Dr Drill          |  19    | benny,pangea       |
 | 65 | :3rd_place_medal: | 2021-11-27 16:20:00 | caulfield     |      7 |        4 | Wentwood          |  26    | benny,pangea       |
-| 66 | --                | 2021-11-27 16:10:00 | ipswich       |      7 |        5 | Enrique           |   3.4  | vulture            |
+| 66 | 6.0               | 2021-11-27 16:10:00 | ipswich       |      7 |        5 | Enrique           |   3.4  | vulture            |
 | 67 | :2nd_place_medal: | 2021-11-27 16:10:00 | ipswich       |      7 |        6 | Ice Elite         |   3.6  | vulture            |
 | 68 | :3rd_place_medal: | 2021-11-27 16:05:00 | kilcoy        |      4 |        3 | Commandeering     |   3    | pangea             |
 | 69 | 5.0               | 2021-11-27 15:45:00 | ascot         |      2 |        4 | Utgard Loki       |   6.5  | pangea,pikey       |
