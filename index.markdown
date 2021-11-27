@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-27 18:16:56 +1000  
+date: 2021-11-27 18:31:55 +1000  
 ---   
 
 
@@ -95,10 +95,10 @@ date: 2021-11-27 18:16:56 +1000
 | 43 | :soon:            | 2021-11-27 19:05:00 | ascot         |      7 |       10 | Stafford's Lad    |  17    | overthrow          |
 | 44 | :soon:            | 2021-11-27 18:35:00 | toowoomba     |      2 |        4 | Motomiss          |   2.15 | vulture,pangea     |
 | 45 | :soon:            | 2021-11-27 18:35:00 | toowoomba     |      2 |       11 | Super One Susie   |   9    | vulture            |
-| 46 | :soon:            | 2021-11-27 18:25:00 | ascot         |      6 |        7 | Scandolo          |   4.33 | vulture,pikey      |
-| 47 | --                | 2021-11-27 18:15:00 | alice-springs |      4 |        3 | Faolan            |   4.75 | pangea,blackshadow |
+| 46 | --                | 2021-11-27 18:25:00 | ascot         |      6 |        7 | Scandolo          |   4.33 | vulture,pikey      |
+| 47 | :boom:            | 2021-11-27 18:15:00 | alice-springs |      4 |        3 | Faolan            |   4.75 | pangea,blackshadow |
 | 48 | :boom:            | 2021-11-27 17:45:00 | ascot         |      5 |        3 | God Has Chosen    |   1.65 | pangea,pikey       |
-| 49 | --                | 2021-11-27 17:45:00 | ascot         |      5 |        8 | Tri For Us        |  12    | pangea             |
+| 49 | 12.0              | 2021-11-27 17:45:00 | ascot         |      5 |        8 | Tri For Us        |  12    | pangea             |
 | 50 | 4.0               | 2021-11-27 17:40:00 | caulfield     |      9 |       11 | Cambourne         |  14    | vulture,pangea     |
 | 51 | :2nd_place_medal: | 2021-11-27 17:30:00 | ipswich       |      9 |        7 | Love Yers All     |   4.2  | pangea             |
 | 52 | 6.0               | 2021-11-27 17:12:00 | morphettville |      8 |        6 | Second Slip       |   8.5  | pangea             |
