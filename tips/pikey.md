@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-27 15:32:11 +1000  
+date: 2021-11-27 15:47:04 +1000  
 categories: None 
 ---   
 
@@ -21,7 +21,7 @@ categories: None
 | 17:45             | 2021-11-27 | ascot R5              | 3 God Has Chosen      |  1.65 |    -10   |
 | 17:05             | 2021-11-27 | ascot R4              | 12 Dais               |  4.6  |    -10   |
 | 16:25             | 2021-11-27 | ascot R3              | 9 Secret Plan         |  1.85 |    -10   |
-| 15:45             | 2021-11-27 | ascot R2              | 4 Utgard Loki         |  6.5  |    -10   |
+| 0                 | 2021-11-27 | ascot R2              | 4 Utgard Loki         |  0    |    -10   |
 | :boom:            | 2021-11-27 | ascot R1              | 1 The Front Bar       |  2.2  |     12   |
 | :3rd_place_medal: | 2021-11-25 | northam R7            | 4 Chiclett            |  2.15 |    -10   |
 | 8                 | 2021-11-25 | northam R5            | 6 Quintus             |  6    |    -10   |

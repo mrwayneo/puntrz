@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-27 15:32:12 +1000  
+date: 2021-11-27 15:47:05 +1000  
 ---   
 
 
@@ -115,8 +115,8 @@ date: 2021-11-27 15:32:12 +1000
 | 66 | :soon:            | 2021-11-27 16:10:00 | ipswich       |      7 |        5 | Enrique           |   3.4  | vulture            |
 | 67 | :soon:            | 2021-11-27 16:10:00 | ipswich       |      7 |        6 | Ice Elite         |   3.6  | vulture            |
 | 68 | :soon:            | 2021-11-27 16:05:00 | kilcoy        |      4 |        3 | Commandeering     |   3    | pangea             |
-| 69 | :soon:            | 2021-11-27 15:45:00 | ascot         |      2 |        4 | Utgard Loki       |   6.5  | pangea,pikey       |
-| 70 | :soon:            | 2021-11-27 15:40:00 | caulfield     |      6 |        9 | Blue Army         |  16    | vulture            |
+| 69 | --                | 2021-11-27 15:45:00 | ascot         |      2 |        4 | Utgard Loki       |   6.5  | pangea,pikey       |
+| 70 | :boom:            | 2021-11-27 15:40:00 | caulfield     |      6 |        9 | Blue Army         |  16    | vulture            |
 | 71 | :3rd_place_medal: | 2021-11-27 15:12:00 | morphettville |      5 |        7 | Rapid Raiser      |  12    | pangea             |
 | 72 | :boom:            | 2021-11-27 15:05:00 | ascot         |      1 |        1 | The Front Bar     |   1.75 | benny,pikey        |
 | 73 | :2nd_place_medal: | 2021-11-27 15:00:00 | caulfield     |      5 |        1 | Quantum Mechanic  |   6    | pangea             |
