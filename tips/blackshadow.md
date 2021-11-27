@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-11-27 18:02:02 +1000  
+date: 2021-11-27 18:16:51 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 18:15             | 2021-11-27 | alice-springs R4       | 3 Faolan              |  4.75 |    -10   |
+| 0                 | 2021-11-27 | alice-springs R4       | 3 Faolan              |  0    |    -10   |
 | 5                 | 2021-11-27 | ascot R3               | 9 Secret Plan         |  1.85 |    -10   |
 | 9                 | 2021-11-26 | mackay R2              | 3 Magnetic Drive      |  8.5  |    -10   |
 | :2nd_place_medal: | 2021-11-24 | wetherby R1            | 1 Away At Dawn        |  2.9  |    -10   |
@@ -244,8 +244,8 @@ categories: None
 | :2nd_place_medal: | 2021-08-04 | eagle-farm R6          | 6 Blackboots          |  4.4  |    -10   |
 | :boom:            | 2021-08-03 | rockhampton R3         | 3 The Egyptian        |  1.3  |      3   |
 | 5                 | 2021-08-02 | darwin R9              | 3 Autocratic          |  6.5  |    -10   |
-| :2nd_place_medal: | 2021-08-02 | darwin R7              | 1 That's Justified    |  3    |    -10   |
 | 4                 | 2021-08-02 | darwin R7              | 5 No Say in It        | 34    |    -10   |
+| :2nd_place_medal: | 2021-08-02 | darwin R7              | 1 That's Justified    |  3    |    -10   |
 | 6                 | 2021-08-02 | darwin R6              | 1 Taciturn            |  5.5  |    -10   |
 | :boom:            | 2021-08-02 | darwin R4              | 4 Belmont Day         |  1.5  |      5   |
 | :boom:            | 2021-08-02 | darwin R3              | 6 Silver Melody       |  5.7  |     47   |
@@ -336,8 +336,8 @@ categories: None
 | 8                 | 2021-06-01 | rockhampton R4         | 1 Trump Me            |  3.35 |    -10   |
 | 0                 | 2021-06-01 | redcar R6              | 1 Faylaq              |  9    |    -10   |
 | 0                 | 2021-05-30 | ffos-las R5            | 3 Clemento            |  3.25 |    -10   |
-| :2nd_place_medal: | 2021-05-29 | belmont R9             | 12 This'll Testya     |  8.5  |    -10   |
 | 4                 | 2021-05-29 | belmont R9             | 5 Battle Storm        |  4    |    -10   |
+| :2nd_place_medal: | 2021-05-29 | belmont R9             | 12 This'll Testya     |  8.5  |    -10   |
 | :boom:            | 2021-05-29 | belmont R7             | 2 Leading Girl        |  2.7  |     17   |
 | 4                 | 2021-05-29 | darwin R3              | 2 Count of Essex      |  4.25 |    -10   |
 | 7                 | 2021-05-29 | belmont R4             | 3 Mystical View       | 12    |    -10   |
@@ -364,8 +364,8 @@ categories: None
 | :3rd_place_medal: | 2021-05-22 | murray-bdge R6         | 13 Hills              | 12    |    -10   |
 | :boom:            | 2021-05-22 | worcester R2           | 1 Wishing And Hoping  |  5    |     40   |
 | :3rd_place_medal: | 2021-05-21 | cranbourne R4          | 3 Runaway Train       |  4.65 |    -10   |
-| 4                 | 2021-05-21 | mackay R5              | 4 Slaydem             |  5.5  |    -10   |
 | :boom:            | 2021-05-21 | mackay R5              | 1 The Egyptian        |  1.5  |      5   |
+| 4                 | 2021-05-21 | mackay R5              | 4 Slaydem             |  5.5  |    -10   |
 | 0                 | 2021-05-20 | vaal R3                | 3 Pin Up              |  0    |    -10   |
 | 6                 | 2021-05-16 | hobart R8              | 1 Galenus             |  2    |    -10   |
 | :boom:            | 2021-05-16 | hobart R6              | 2 First Accused       |  1.7  |      7   |
@@ -430,8 +430,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-17 | randwick R10           | 3 Entriviere          |  5    |    -10   |
 | 5                 | 2021-04-17 | caulfield R8           | 3 How Womantic        |  4.05 |    -10   |
 | 8                 | 2021-04-17 | caulfield R8           | 2 Yulong January      | 21    |    -10   |
-| :boom:            | 2021-04-17 | randwick R6            | 1 Wild Ruler          |  5.7  |     47   |
 | :2nd_place_medal: | 2021-04-17 | randwick R6            | 9 Isotope             |  3.7  |    -10   |
+| :boom:            | 2021-04-17 | randwick R6            | 1 Wild Ruler          |  5.7  |     47   |
 | :3rd_place_medal: | 2021-04-17 | alice-springs R2       | 4 The Captain         |  1.55 |    -10   |
 | 4                 | 2021-04-17 | randwick R5            | 2 Amarelinha          |  4.65 |    -10   |
 | 7                 | 2021-04-17 | caulfield R1           | 4 Fanciful Toff       |  3.7  |    -10   |
@@ -440,8 +440,8 @@ categories: None
 | 4                 | 2021-04-16 | darwin R2              | 2 Kowloon Kid         |  4.6  |    -10   |
 | :boom:            | 2021-04-15 | albany R6              | 6 Strathmore Rose     |  1.4  |      4   |
 | 4                 | 2021-04-15 | albany R4              | 1 Captain Sharmane    |  2.25 |    -10   |
-| 0                 | 2021-04-15 | newmarket R4           | 1 Forest Of Dean      | 11    |    -10   |
 | 0                 | 2021-04-15 | newmarket R4           | 6 Solid Stone         |  8.5  |    -10   |
+| 0                 | 2021-04-15 | newmarket R4           | 1 Forest Of Dean      | 11    |    -10   |
 | 6                 | 2021-04-14 | eagle-farm R8          | 6 Highmaster          |  1.96 |    -10   |
 | :2nd_place_medal: | 2021-04-14 | hawkesbury R5          | 9 Exoboom             |  1.8  |    -10   |
 | 6                 | 2021-04-11 | devonport-synthetic R6 | 7 Spihro              |  8.5  |    -10   |
