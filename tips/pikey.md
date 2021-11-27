@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-27 17:13:30 +1000  
+date: 2021-11-27 17:31:50 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 19:05             | 2021-11-27 | ascot R7              | 4 Midnight Blue       |  1.9  |    -10   |
 | 18:25             | 2021-11-27 | ascot R6              | 7 Scandolo            |  4.33 |    -10   |
 | 17:45             | 2021-11-27 | ascot R5              | 3 God Has Chosen      |  1.65 |    -10   |
-| 0                 | 2021-11-27 | ascot R4              | 12 Dais               |  0    |    -10   |
+| 9                 | 2021-11-27 | ascot R4              | 12 Dais               |  4.6  |    -10   |
 | 5                 | 2021-11-27 | ascot R3              | 9 Secret Plan         |  1.85 |    -10   |
 | 5                 | 2021-11-27 | ascot R2              | 4 Utgard Loki         |  6.5  |    -10   |
 | :boom:            | 2021-11-27 | ascot R1              | 1 The Front Bar       |  2.2  |     12   |

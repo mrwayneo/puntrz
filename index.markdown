@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-27 17:13:31 +1000  
+date: 2021-11-27 17:31:51 +1000  
 ---   
 
 
@@ -100,13 +100,13 @@ date: 2021-11-27 17:13:31 +1000
 | 48 | :soon:            | 2021-11-27 17:45:00 | ascot         |      5 |        3 | God Has Chosen    |   1.65 | pangea,pikey       |
 | 49 | :soon:            | 2021-11-27 17:45:00 | ascot         |      5 |        8 | Tri For Us        |  12    | pangea             |
 | 50 | :soon:            | 2021-11-27 17:40:00 | caulfield     |      9 |       11 | Cambourne         |  14    | vulture,pangea     |
-| 51 | :soon:            | 2021-11-27 17:30:00 | ipswich       |      9 |        7 | Love Yers All     |   4.2  | pangea             |
-| 52 | --                | 2021-11-27 17:12:00 | morphettville |      8 |        6 | Second Slip       |   8.5  | pangea             |
-| 53 | --                | 2021-11-27 17:12:00 | morphettville |      8 |       16 | Another Award     |  15    | vulture            |
-| 54 | --                | 2021-11-27 17:12:00 | morphettville |      8 |        8 | Rock The Ring     |   2.7  | pangea,icyhot      |
-| 55 | --                | 2021-11-27 17:05:00 | ascot         |      4 |       12 | Dais              |   4.6  | pikey              |
-| 56 | --                | 2021-11-27 17:00:00 | caulfield     |      8 |        8 | Djukon            |  16    | vulture,pangea     |
-| 57 | --                | 2021-11-27 17:00:00 | caulfield     |      8 |        6 | Our Playboy       |   2.75 | vulture            |
+| 51 | --                | 2021-11-27 17:30:00 | ipswich       |      9 |        7 | Love Yers All     |   4.2  | pangea             |
+| 52 | 6.0               | 2021-11-27 17:12:00 | morphettville |      8 |        6 | Second Slip       |   8.5  | pangea             |
+| 53 | 8.0               | 2021-11-27 17:12:00 | morphettville |      8 |       16 | Another Award     |  15    | vulture            |
+| 54 | :2nd_place_medal: | 2021-11-27 17:12:00 | morphettville |      8 |        8 | Rock The Ring     |   2.7  | pangea,icyhot      |
+| 55 | 9.0               | 2021-11-27 17:05:00 | ascot         |      4 |       12 | Dais              |   4.6  | pikey              |
+| 56 | 8.0               | 2021-11-27 17:00:00 | caulfield     |      8 |        8 | Djukon            |  16    | vulture,pangea     |
+| 57 | 5.0               | 2021-11-27 17:00:00 | caulfield     |      8 |        6 | Our Playboy       |   2.75 | vulture            |
 | 58 | :boom:            | 2021-11-27 16:54:00 | alice-springs |      2 |        4 | Valenciano        |   5.5  | benny,pangea       |
 | 62 | 5.0               | 2021-11-27 16:25:00 | ascot         |      3 |        9 | Secret Plan       |   1.85 | evenodds,pikey     |
 | 63 | :boom:            | 2021-11-27 16:25:00 | ascot         |      3 |        6 | Triple Missile    |   3    | pangea             |
