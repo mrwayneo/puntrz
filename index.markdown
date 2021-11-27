@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-27 14:36:49 +1000  
+date: 2021-11-27 14:58:14 +1000  
 ---   
 
 
@@ -120,7 +120,7 @@ date: 2021-11-27 14:36:49 +1000
 | 71 | :soon:            | 2021-11-27 15:12:00 | morphettville |      5 |        7 | Rapid Raiser      |  12    | pangea             |
 | 72 | :soon:            | 2021-11-27 15:05:00 | ascot         |      1 |        1 | The Front Bar     |   1.75 | benny,pikey        |
 | 73 | :soon:            | 2021-11-27 15:00:00 | caulfield     |      5 |        1 | Quantum Mechanic  |   6    | pangea             |
-| 74 | :soon:            | 2021-11-27 14:50:00 | ipswich       |      5 |        4 | Curwood           |   5.5  | looseknot          |
+| 74 | --                | 2021-11-27 14:50:00 | ipswich       |      5 |        4 | Curwood           |   5.5  | looseknot          |
 | 76 | :boom:            | 2021-11-27 14:30:00 | te-aroha      |      8 |        7 | Gold Watch        |   1.5  | vulture,milkman    |
 | 77 | --                | 2021-11-27 14:30:00 | te-aroha      |      8 |        8 | Run To Perfection |   5    | vulture            |
 | 78 | :3rd_place_medal: | 2021-11-27 14:20:00 | caulfield     |      4 |       13 | Yulong Command    |   3.8  | vulture,pangea     |
