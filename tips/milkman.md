@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-27 14:58:10 +1000  
+date: 2021-11-27 15:17:14 +1000  
 categories: None 
 ---   
 
@@ -30,7 +30,7 @@ categories: None
 | 23:10             | 2021-11-27 | newbury R1                   | 7 Theatre Glory       |  7    |    -10   |
 | 22:15             | 2021-11-27 | turffontein R4               | 7 Big Burn            |  0    |    -10   |
 | 21:43             | 2021-11-27 | toowoomba R7                 | 2 Songzilla           |  3.5  |    -10   |
-| 15:05             | 2021-11-27 | ascot R1                     | 1 The Front Bar       |  1.75 |    -10   |
+| :boom:            | 2021-11-27 | ascot R1                     | 1 The Front Bar       |  2.2  |     12   |
 | :boom:            | 2021-11-27 | te-aroha R8                  | 7 Gold Watch          |  2.1  |     11   |
 | :boom:            | 2021-11-27 | te-aroha R7                  | 1 Pareanui Bay        |  2    |     10   |
 | 0                 | 2021-11-27 | te-aroha R6                  | 10 Les Crayeres       |  0    |    -10   |
@@ -185,8 +185,8 @@ categories: None
 | 5                 | 2021-11-02 | eagle-farm R6                | 3 Valiant             | 11    |    -10   |
 | :3rd_place_medal: | 2021-11-02 | flemington R9                | 14 Maracana           |  4.2  |    -10   |
 | :2nd_place_medal: | 2021-11-02 | muswellbrook R5              | 2 Mobstar             |  1.75 |    -10   |
-| :boom:            | 2021-11-02 | randwick R6                  | 10 Satin Ribbons      |  4.6  |     36   |
 | :2nd_place_medal: | 2021-11-02 | randwick R6                  | 7 Six Again           |  2.45 |    -10   |
+| :boom:            | 2021-11-02 | randwick R6                  | 10 Satin Ribbons      |  4.6  |     36   |
 | :2nd_place_medal: | 2021-11-02 | flemington R7                | 2 Incentivise         |  2.9  |    -10   |
 | 6                 | 2021-11-02 | te-rapa R7                   | 11 Tellall            |  3.9  |    -10   |
 | 6                 | 2021-11-02 | flemington R5                | 7 Pindaric            |  7    |    -10   |
