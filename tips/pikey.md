@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-27 19:01:58 +1000  
+date: 2021-11-27 19:16:54 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
 | 20:20             | 2021-11-27 | ascot R9              | 4 Bogart              |  6.5  |    -10   |
-| 19:05             | 2021-11-27 | ascot R7              | 4 Midnight Blue       |  1.9  |    -10   |
+| 4                 | 2021-11-27 | ascot R7              | 4 Midnight Blue       |  1.9  |    -10   |
 | :2nd_place_medal: | 2021-11-27 | ascot R6              | 7 Scandolo            |  4.33 |    -10   |
 | :boom:            | 2021-11-27 | ascot R5              | 3 God Has Chosen      |  1.6  |      6   |
 | 9                 | 2021-11-27 | ascot R4              | 12 Dais               |  4.6  |    -10   |

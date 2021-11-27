@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-27 19:01:59 +1000  
+date: 2021-11-27 19:16:55 +1000  
 ---   
 
 
@@ -91,10 +91,10 @@ date: 2021-11-27 19:01:59 +1000
 | 39 | :soon:            | 2021-11-27 20:35:00 | turffontein   |      1 |        3 | Angelsea          |   0    | vulture            |
 | 40 | :soon:            | 2021-11-27 20:20:00 | ascot         |      9 |        6 | Beret             |   4.4  | vulture,pangea     |
 | 41 | :soon:            | 2021-11-27 20:20:00 | ascot         |      9 |        4 | Bogart            |   6.5  | pangea,pikey       |
-| 42 | :soon:            | 2021-11-27 19:05:00 | ascot         |      7 |        4 | Midnight Blue     |   1.9  | evenodds,pikey     |
-| 43 | :soon:            | 2021-11-27 19:05:00 | ascot         |      7 |       10 | Stafford's Lad    |  17    | overthrow          |
+| 42 | 4.0               | 2021-11-27 19:05:00 | ascot         |      7 |        4 | Midnight Blue     |   1.9  | evenodds,pikey     |
+| 43 | :3rd_place_medal: | 2021-11-27 19:05:00 | ascot         |      7 |       10 | Stafford's Lad    |  17    | overthrow          |
 | 44 | :boom:            | 2021-11-27 18:35:00 | toowoomba     |      2 |        4 | Motomiss          |   2.15 | vulture,pangea     |
-| 45 | --                | 2021-11-27 18:35:00 | toowoomba     |      2 |       11 | Super One Susie   |   9    | vulture            |
+| 45 | 5.0               | 2021-11-27 18:35:00 | toowoomba     |      2 |       11 | Super One Susie   |   9    | vulture            |
 | 46 | :2nd_place_medal: | 2021-11-27 18:25:00 | ascot         |      6 |        7 | Scandolo          |   4.33 | vulture,pikey      |
 | 47 | :boom:            | 2021-11-27 18:15:00 | alice-springs |      4 |        3 | Faolan            |   4.75 | pangea,blackshadow |
 | 48 | :boom:            | 2021-11-27 17:45:00 | ascot         |      5 |        3 | God Has Chosen    |   1.65 | pangea,pikey       |
