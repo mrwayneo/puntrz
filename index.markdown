@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-27 19:47:28 +1000  
+date: 2021-11-27 20:22:11 +1000  
 ---   
 
 
@@ -89,8 +89,8 @@ date: 2021-11-27 19:47:28 +1000
 | 37 | :soon:            | 2021-11-27 22:15:00 | turffontein   |      4 |        7 | Big Burn          |   0    | milkman            |
 | 38 | :soon:            | 2021-11-27 21:43:00 | toowoomba     |      7 |        2 | Songzilla         |   3.5  | milkman            |
 | 39 | :soon:            | 2021-11-27 20:35:00 | turffontein   |      1 |        3 | Angelsea          |   0    | vulture            |
-| 40 | :soon:            | 2021-11-27 20:20:00 | ascot         |      9 |        6 | Beret             |   4.4  | vulture,pangea     |
-| 41 | :soon:            | 2021-11-27 20:20:00 | ascot         |      9 |        4 | Bogart            |   6.5  | pangea,pikey       |
+| 40 | --                | 2021-11-27 20:20:00 | ascot         |      9 |        6 | Beret             |   4.4  | vulture,pangea     |
+| 41 | --                | 2021-11-27 20:20:00 | ascot         |      9 |        4 | Bogart            |   6.5  | pangea,pikey       |
 | 42 | 4.0               | 2021-11-27 19:05:00 | ascot         |      7 |        4 | Midnight Blue     |   1.9  | evenodds,pikey     |
 | 43 | :3rd_place_medal: | 2021-11-27 19:05:00 | ascot         |      7 |       10 | Stafford's Lad    |  17    | overthrow          |
 | 44 | :boom:            | 2021-11-27 18:35:00 | toowoomba     |      2 |        4 | Motomiss          |   2.15 | vulture,pangea     |
