@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-28 16:24:10 +1000  
+date: 2021-11-28 16:39:35 +1000  
 ---   
 
 
@@ -74,7 +74,7 @@ date: 2021-11-28 16:24:10 +1000
 | 22 | :soon:            | 2021-11-28 19:10:00 | sha-tin        |      7 |        6 | Excellent Proposal |   2.25 | milkman            |
 | 23 | :soon:            | 2021-11-28 17:50:00 | sunshine-coast |      7 |        2 | Elegant Drover     |   2.2  | pangea             |
 | 24 | :soon:            | 2021-11-28 17:50:00 | sunshine-coast |      7 |       12 | Gullfoss           |   6    | looseknot          |
-| 25 | --                | 2021-11-28 16:22:00 | geraldton      |      2 |        6 | King Kashoo        |   1.8  | vulture            |
+| 25 | :boom:            | 2021-11-28 16:22:00 | geraldton      |      2 |        6 | King Kashoo        |   1.8  | vulture            |
 | 26 | :2nd_place_medal: | 2021-11-28 15:45:00 | geraldton      |      1 |        8 | Dark Peak          |   2.5  | vulture            |
 | 27 | :boom:            | 2021-11-28 13:40:00 | hobart         |      2 |        2 | Ella Exceeds       |   1.35 | vulture            |
 | 28 | 8.0               | 2021-11-28 13:05:00 | hobart         |      1 |        9 | Nufen Special      |   6.5  | vulture            |
