@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-28 22:26:26 +1000  
+date: 2021-11-28 22:48:02 +1000  
 ---   
 
 
@@ -70,7 +70,7 @@ date: 2021-11-28 22:26:26 +1000
 | 18 | :soon:            | 2021-11-28 23:35:00 | fairyhouse     |      2 |        5 | Max Mayhem         |   6.5  | vulture            |
 | 19 | :soon:            | 2021-11-28 23:35:00 | fairyhouse     |      2 |        3 | Fil Dor            |   1.5  | vulture            |
 | 20 | :soon:            | 2021-11-28 23:00:00 | fairyhouse     |      1 |        2 | The Sliding Rock   |   3.4  | vulture            |
-| 21 | :soon:            | 2021-11-28 22:40:00 | greyville      |      4 |        8 | Papa C             |   0    | milkman            |
+| 21 | --                | 2021-11-28 22:40:00 | greyville      |      4 |        8 | Papa C             |   0    | milkman            |
 | 22 | :2nd_place_medal: | 2021-11-28 19:10:00 | sha-tin        |      7 |        6 | Excellent Proposal |   2.25 | milkman            |
 | 23 | :2nd_place_medal: | 2021-11-28 17:50:00 | sunshine-coast |      7 |        2 | Elegant Drover     |   2.2  | pangea             |
 | 24 | 5.0               | 2021-11-28 17:50:00 | sunshine-coast |      7 |       12 | Gullfoss           |   6    | looseknot          |
