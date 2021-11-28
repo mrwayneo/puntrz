@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-28 17:09:29 +1000  
+date: 2021-11-28 18:17:32 +1000  
 ---   
 
 
@@ -72,8 +72,8 @@ date: 2021-11-28 17:09:29 +1000
 | 20 | :soon:            | 2021-11-28 23:00:00 | fairyhouse     |      1 |        2 | The Sliding Rock   |   3.4  | vulture            |
 | 21 | :soon:            | 2021-11-28 22:40:00 | greyville      |      4 |        8 | Papa C             |   0    | milkman            |
 | 22 | :soon:            | 2021-11-28 19:10:00 | sha-tin        |      7 |        6 | Excellent Proposal |   2.25 | milkman            |
-| 23 | :soon:            | 2021-11-28 17:50:00 | sunshine-coast |      7 |        2 | Elegant Drover     |   2.2  | pangea             |
-| 24 | :soon:            | 2021-11-28 17:50:00 | sunshine-coast |      7 |       12 | Gullfoss           |   6    | looseknot          |
+| 23 | :2nd_place_medal: | 2021-11-28 17:50:00 | sunshine-coast |      7 |        2 | Elegant Drover     |   2.2  | pangea             |
+| 24 | 5.0               | 2021-11-28 17:50:00 | sunshine-coast |      7 |       12 | Gullfoss           |   6    | looseknot          |
 | 25 | :boom:            | 2021-11-28 16:22:00 | geraldton      |      2 |        6 | King Kashoo        |   1.8  | vulture            |
 | 26 | :2nd_place_medal: | 2021-11-28 15:45:00 | geraldton      |      1 |        8 | Dark Peak          |   2.5  | vulture            |
 | 27 | :boom:            | 2021-11-28 13:40:00 | hobart         |      2 |        2 | Ella Exceeds       |   1.35 | vulture            |
