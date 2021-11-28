@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-11-27 21:22:16 +1000  
+date: 2021-11-28 13:20:06 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      2 |      2   | 0.4  |  0.04 |
-| Last 28 Days   |     36 |     12 |    -61   | 0.33 | -0.17 |
-| Last 6 Months  |    227 |     69 |   -201.9 | 0.3  | -0.09 |
-| Since Jan 2020 |    361 |    122 |   -104.4 | 0.34 | -0.03 |
+| Last 7 Days    |      9 |      3 |    -16   | 0.33 | -0.18 |
+| Last 28 Days   |     40 |     13 |    -79   | 0.32 | -0.2  |
+| Last 6 Months  |    231 |     70 |   -219.9 | 0.3  | -0.1  |
+| Since Jan 2020 |    365 |    123 |   -122.4 | 0.34 | -0.03 |
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
-| 23:25             | 2021-11-27 | turffontein R6          | 5 Aragosta            |  0    |    -10   |
+| 0                 | 2021-11-27 | turffontein R6          | 5 Aragosta            |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-27 | morphettville R8        | 8 Rock The Ring       |  2.7  |    -10   |
 | :boom:            | 2021-11-27 | ascot R1                | 1 The Front Bar       |  2.2  |     12   |
 | 5                 | 2021-11-27 | caulfield R4            | 5 He's A Balter       |  8    |    -10   |

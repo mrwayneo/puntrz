@@ -1,35 +1,40 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-27 21:22:16 +1000  
+date: 2021-11-28 13:20:06 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     18 |      4 |    -92.5 | 0.22 | -0.51 |
-| Last 28 Days   |    158 |     27 |   -863   | 0.17 | -0.55 |
-| Last 6 Months  |    174 |     27 |  -1023   | 0.16 | -0.59 |
-| Since Jan 2020 |    174 |     27 |  -1023   | 0.16 | -0.59 |
+| Last 7 Days    |     37 |      6 |   -233.5 | 0.16 | -0.63 |
+| Last 28 Days   |    175 |     30 |   -970.5 | 0.17 | -0.55 |
+| Last 6 Months  |    195 |     30 |  -1170.5 | 0.15 | -0.6  |
+| Since Jan 2020 |    195 |     30 |  -1170.5 | 0.15 | -0.6  |
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
-| 04:00             | 2021-11-28 | wolverhampton R3             | 3 Ammolite            |  5    |    -10   |
-| 02:00             | 2021-11-28 | newbury R6                   | 12 Enrilo             |  7.5  |    -10   |
-| 02:00             | 2021-11-28 | newbury R6                   | 2 Eklat De Rire       |  4.6  |    -10   |
-| 01:25             | 2021-11-28 | newbury R5                   | 1 Soaring Glory       |  2.2  |    -10   |
-| 01:11             | 2021-11-28 | fairyhouse R6                | 4 Mt Leinster Gold    | 12    |    -10   |
-| 00:50             | 2021-11-28 | newbury R4                   | 10 Lecale's Article   |  4.6  |    -10   |
-| 00:36             | 2021-11-28 | fairyhouse R5                | 16 Grangee            |  1.95 |    -10   |
-| 00:01             | 2021-11-28 | fairyhouse R4                | 8 Harald Hardrad      |  7.5  |    -10   |
-| 00:00             | 2021-11-28 | turffontein R7               | 8 Rain In Holland     |  0    |    -10   |
-| 23:40             | 2021-11-27 | newbury R2                   | 3 Flash Collonges     |  7.5  |    -10   |
-| 23:25             | 2021-11-27 | turffontein R6               | 5 Aragosta            |  0    |    -10   |
-| 23:25             | 2021-11-27 | turffontein R6               | 2 Safe Passage        |  0    |    -10   |
-| 23:10             | 2021-11-27 | newbury R1                   | 7 Theatre Glory       |  7    |    -10   |
-| 22:15             | 2021-11-27 | turffontein R4               | 7 Big Burn            |  0    |    -10   |
-| 21:43             | 2021-11-27 | toowoomba R7                 | 2 Songzilla           |  3.5  |    -10   |
+| 01:40             | 2021-11-29 | fairyhouse R6                | 8 Honeysuckle         |  1.4  |    -10   |
+| 00:35             | 2021-11-29 | fairyhouse R4                | 7 Grand Paradis       |  9.5  |    -10   |
+| 00:05             | 2021-11-29 | fairyhouse R3                | 3 Mighty Potter       |  4    |    -10   |
+| 22:40             | 2021-11-28 | greyville R4                 | 8 Papa C              |  0    |    -10   |
+| 19:10             | 2021-11-28 | sha-tin R7                   | 6 Excellent Proposal  |  2.25 |    -10   |
+| 0                 | 2021-11-28 | wolverhampton R3             | 3 Ammolite            |  0    |    -10   |
+| 0                 | 2021-11-28 | newbury R6                   | 12 Enrilo             |  0    |    -10   |
+| 0                 | 2021-11-28 | newbury R6                   | 2 Eklat De Rire       |  0    |    -10   |
+| 0                 | 2021-11-28 | newbury R5                   | 1 Soaring Glory       |  0    |    -10   |
+| 0                 | 2021-11-28 | fairyhouse R6                | 4 Mt Leinster Gold    |  0    |    -10   |
+| 0                 | 2021-11-28 | newbury R4                   | 10 Lecale's Article   |  0    |    -10   |
+| 0                 | 2021-11-28 | fairyhouse R5                | 16 Grangee            |  0    |    -10   |
+| 0                 | 2021-11-28 | fairyhouse R4                | 8 Harald Hardrad      |  0    |    -10   |
+| 0                 | 2021-11-28 | turffontein R7               | 8 Rain In Holland     |  0    |    -10   |
+| 0                 | 2021-11-27 | newbury R2                   | 3 Flash Collonges     |  0    |    -10   |
+| 0                 | 2021-11-27 | turffontein R6               | 5 Aragosta            |  0    |    -10   |
+| 0                 | 2021-11-27 | turffontein R6               | 2 Safe Passage        |  0    |    -10   |
+| 0                 | 2021-11-27 | newbury R1                   | 7 Theatre Glory       |  0    |    -10   |
+| 0                 | 2021-11-27 | turffontein R4               | 7 Big Burn            |  0    |    -10   |
+| 0                 | 2021-11-27 | toowoomba R7                 | 2 Songzilla           |  0    |    -10   |
 | :boom:            | 2021-11-27 | ascot R1                     | 1 The Front Bar       |  2.2  |     12   |
 | :boom:            | 2021-11-27 | te-aroha R8                  | 7 Gold Watch          |  2.05 |     10.5 |
 | :boom:            | 2021-11-27 | te-aroha R7                  | 1 Pareanui Bay        |  2    |     10   |
@@ -56,8 +61,8 @@ categories: None
 | :2nd_place_medal: | 2021-11-22 | kempton R1                   | 3 Petrossian          |  2.8  |    -10   |
 | :boom:            | 2021-11-22 | navan R3                     | 5 Hollow Games        |  1.4  |      4   |
 | 4                 | 2021-11-22 | navan R2                     | 8 Au Fleuron          |  1.65 |    -10   |
-| :2nd_place_medal: | 2021-11-21 | sha-tin R6                   | 10 Naboo Attack       |  9    |    -10   |
 | 0                 | 2021-11-21 | sha-tin R6                   | 9 Courier Wonder      |  0    |    -10   |
+| :2nd_place_medal: | 2021-11-21 | sha-tin R6                   | 10 Naboo Attack       |  9    |    -10   |
 | 0                 | 2021-11-21 | ascot R7                     | 1 Another Mystery     |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-20 | haydock R1                   | 1 Sonigino            |  7    |    -10   |
 | 0                 | 2021-11-20 | toowoomba R7                 | 4 Telephone Booth     |  0    |    -10   |
@@ -121,8 +126,8 @@ categories: None
 | 0                 | 2021-11-13 | kembla-grange R5             | 1 Spaltet             |  0    |    -10   |
 | 4                 | 2021-11-13 | doomben R5                   | 4 Zavaboom            | 17    |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R5                   | 10 Putontheredlight   |  2.15 |    -10   |
-| :boom:            | 2021-11-13 | ascot R1                     | 6 Written Matter      |  5.1  |     41   |
 | 7                 | 2021-11-13 | ascot R1                     | 2 Fairy Fast          |  6    |    -10   |
+| :boom:            | 2021-11-13 | ascot R1                     | 6 Written Matter      |  5.1  |     41   |
 | :2nd_place_medal: | 2021-11-13 | gold-coast R4                | 1 Vivyn               |  1.28 |    -10   |
 | :3rd_place_medal: | 2021-11-13 | newcastle R5                 | 1 Love Tap            |  3.1  |    -10   |
 | 4                 | 2021-11-13 | riccarton-park R8            | 1 Imperatriz          |  3.5  |    -10   |
@@ -185,8 +190,8 @@ categories: None
 | 5                 | 2021-11-02 | eagle-farm R6                | 3 Valiant             | 11    |    -10   |
 | :3rd_place_medal: | 2021-11-02 | flemington R9                | 14 Maracana           |  4.2  |    -10   |
 | :2nd_place_medal: | 2021-11-02 | muswellbrook R5              | 2 Mobstar             |  1.75 |    -10   |
-| :2nd_place_medal: | 2021-11-02 | randwick R6                  | 7 Six Again           |  2.45 |    -10   |
 | :boom:            | 2021-11-02 | randwick R6                  | 10 Satin Ribbons      |  4.6  |     36   |
+| :2nd_place_medal: | 2021-11-02 | randwick R6                  | 7 Six Again           |  2.45 |    -10   |
 | :2nd_place_medal: | 2021-11-02 | flemington R7                | 2 Incentivise         |  2.9  |    -10   |
 | 6                 | 2021-11-02 | te-rapa R7                   | 11 Tellall            |  3.9  |    -10   |
 | 6                 | 2021-11-02 | flemington R5                | 7 Pindaric            |  7    |    -10   |

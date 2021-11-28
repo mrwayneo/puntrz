@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-27 21:22:21 +1000  
+date: 2021-11-28 13:20:15 +1000  
 ---   
 
 
@@ -31,105 +31,51 @@ date: 2021-11-27 21:22:21 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    181 |     52 |    179.5 | 0.29 |  0.1  |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     42 |     10 |    158.5 | 0.24 |  0.38 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    357 |     72 |   -180.5 | 0.2  | -0.05 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    204 |     62 |   -209.9 | 0.3  | -0.1  |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     43 |     10 |    148.5 | 0.23 |  0.35 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    359 |     73 |   -171.5 | 0.2  | -0.05 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    208 |     63 |   -227.9 | 0.3  | -0.11 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     46 |      6 |   -239   | 0.13 | -0.52 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    348 |     88 |   -308.6 | 0.25 | -0.09 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    299 |     58 |   -791.5 | 0.19 | -0.26 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    497 |    126 |   -921   | 0.25 | -0.19 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    175 |     27 |  -1033   | 0.15 | -0.59 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    704 |    102 |  -1178.6 | 0.14 | -0.17 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    615 |    160 |  -1349.1 | 0.26 | -0.22 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2086 |    483 |  -2402.2 | 0.23 | -0.12 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2585 |    139 |  -2922   | 0.05 | -0.11 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3095 |    693 |  -6108   | 0.22 | -0.2  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6341 |    897 | -12208   | 0.14 | -0.19 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8003 |    427 | -17738   | 0.05 | -0.22 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    351 |     89 |   -284.6 | 0.25 | -0.08 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    332 |     66 |   -848   | 0.2  | -0.26 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    501 |    127 |   -981   | 0.25 | -0.2  |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    198 |     30 |  -1200.5 | 0.15 | -0.61 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    705 |    101 |  -1293.6 | 0.14 | -0.18 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    620 |    160 |  -1399.1 | 0.26 | -0.23 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2099 |    479 |  -2648.5 | 0.23 | -0.13 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2605 |    138 |  -3228   | 0.05 | -0.12 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3120 |    697 |  -6145.5 | 0.22 | -0.2  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6423 |    899 | -12996   | 0.14 | -0.2  |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8033 |    424 | -18240   | 0.05 | -0.23 |
 
-|    | finish            | time                | track         |   race |   number | name              |   odds | tipster            |
-|---:|:------------------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:            | 2021-11-28 05:00:00 | wolverhampton |      5 |        8 | Silver Screen     |   4    | looseknot          |
-|  1 | :soon:            | 2021-11-28 04:30:00 | wolverhampton |      4 |        4 | Morgan Fairy      |   3.4  | looseknot          |
-|  2 | :soon:            | 2021-11-28 04:00:00 | wolverhampton |      3 |        3 | Ammolite          |   5    | milkman            |
-|  3 | :soon:            | 2021-11-28 02:35:00 | newbury       |      7 |        2 | Gumball           |  12    | overthrow          |
-|  4 | :soon:            | 2021-11-28 02:35:00 | newbury       |      7 |        7 | Eclair D'Ainay    |   7.5  | overthrow          |
-|  5 | :soon:            | 2021-11-28 02:35:00 | newbury       |      7 |       13 | Il Ridoto         |   5.5  | overthrow          |
-|  6 | :soon:            | 2021-11-28 02:15:00 | newcastle     |      7 |        6 | Epatante          |   2.35 | overthrow          |
-|  7 | :soon:            | 2021-11-28 02:15:00 | newcastle     |      7 |        1 | Monmiral          |   3    | vulture            |
-|  8 | :soon:            | 2021-11-28 02:10:00 | kenilworth    |      7 |        4 | Silver Sabre      |   0    | vulture            |
-|  9 | :soon:            | 2021-11-28 02:00:00 | newbury       |      6 |        2 | Eklat De Rire     |   4.6  | milkman            |
-| 10 | :soon:            | 2021-11-28 02:00:00 | newbury       |      6 |       12 | Enrilo            |   7.5  | overthrow,milkman  |
-| 11 | :soon:            | 2021-11-28 01:46:00 | fairyhouse    |      7 |        6 | Rodaniche         |   3.2  | vulture            |
-| 12 | :soon:            | 2021-11-28 01:25:00 | newbury       |      5 |        1 | Soaring Glory     |   2.2  | vulture,milkman    |
-| 13 | :soon:            | 2021-11-28 01:25:00 | newbury       |      5 |        4 | Captain Morgs     |   4.8  | vulture            |
-| 14 | :soon:            | 2021-11-28 01:18:00 | doncaster     |      5 |        2 | Courtandbould     |   5.5  | overthrow          |
-| 15 | :soon:            | 2021-11-28 01:11:00 | fairyhouse    |      6 |        4 | Mt Leinster Gold  |  12    | milkman            |
-| 16 | :soon:            | 2021-11-28 00:50:00 | newbury       |      4 |        2 | Calva D'Auge      |   8    | overthrow          |
-| 17 | :soon:            | 2021-11-28 00:50:00 | newbury       |      4 |       10 | Lecale's Article  |   4.6  | milkman            |
-| 18 | :soon:            | 2021-11-28 00:50:00 | newbury       |      4 |        1 | Ch'tibello        |  11    | overthrow          |
-| 19 | :soon:            | 2021-11-28 00:36:00 | fairyhouse    |      5 |       16 | Grangee           |   1.95 | milkman            |
-| 20 | :soon:            | 2021-11-28 00:22:00 | bangor        |      3 |        4 | Gericault Roque   |   4.6  | looseknot          |
-| 21 | :soon:            | 2021-11-28 00:15:00 | newbury       |      3 |       11 | Kapcorse          |   7    | overthrow          |
-| 22 | :soon:            | 2021-11-28 00:15:00 | newbury       |      3 |        6 | Grand Sancy       |   9.5  | overthrow          |
-| 23 | :soon:            | 2021-11-28 00:08:00 | doncaster     |      3 |        3 | Becky The Boo     |   4.5  | overthrow          |
-| 24 | :soon:            | 2021-11-28 00:01:00 | fairyhouse    |      4 |        8 | Harald Hardrad    |   7.5  | milkman            |
-| 25 | :soon:            | 2021-11-28 00:00:00 | turffontein   |      7 |        8 | Rain In Holland   |   0    | milkman            |
-| 26 | :soon:            | 2021-11-27 23:55:00 | newcastle     |      3 |        3 | One Fine Man      |  12    | evenodds,overthrow |
-| 27 | :soon:            | 2021-11-27 23:55:00 | newcastle     |      3 |        2 | Mr Glass          |   1.9  | vulture            |
-| 28 | :soon:            | 2021-11-27 23:40:00 | newbury       |      2 |        3 | Flash Collonges   |   7.5  | overthrow,milkman  |
-| 29 | :soon:            | 2021-11-27 23:40:00 | newbury       |      2 |        2 | Ashtown Lad       |   7.5  | overthrow          |
-| 30 | :soon:            | 2021-11-27 23:35:00 | doncaster     |      2 |        3 | Alghazaal         |   6    | vulture            |
-| 31 | :soon:            | 2021-11-27 23:25:00 | turffontein   |      6 |        5 | Aragosta          |   0    | pangea,icyhot      |
-| 32 | :soon:            | 2021-11-27 23:25:00 | turffontein   |      6 |        2 | Safe Passage      |   0    | vulture,milkman    |
-| 33 | :soon:            | 2021-11-27 23:10:00 | newbury       |      1 |        5 | Rainyday Woman    |  10    | evenodds,overthrow |
-| 34 | :soon:            | 2021-11-27 23:10:00 | newbury       |      1 |        2 | Ahorsewithnoname  |   6    | vulture            |
-| 35 | :soon:            | 2021-11-27 23:10:00 | newbury       |      1 |        7 | Theatre Glory     |   7    | vulture,milkman    |
-| 36 | :soon:            | 2021-11-27 23:10:00 | newbury       |      1 |        3 | Elle Est Belle    |   2.6  | overthrow          |
-| 37 | :soon:            | 2021-11-27 22:15:00 | turffontein   |      4 |        7 | Big Burn          |   0    | milkman            |
-| 38 | :soon:            | 2021-11-27 21:43:00 | toowoomba     |      7 |        2 | Songzilla         |   3.5  | milkman            |
-| 39 | --                | 2021-11-27 20:35:00 | turffontein   |      1 |        3 | Angelsea          |   0    | vulture            |
-| 40 | :boom:            | 2021-11-27 20:20:00 | ascot         |      9 |        6 | Beret             |   4.4  | vulture,pangea     |
-| 41 | 11.0              | 2021-11-27 20:20:00 | ascot         |      9 |        4 | Bogart            |   6.5  | pangea,pikey       |
-| 42 | 4.0               | 2021-11-27 19:05:00 | ascot         |      7 |        4 | Midnight Blue     |   1.9  | evenodds,pikey     |
-| 43 | :3rd_place_medal: | 2021-11-27 19:05:00 | ascot         |      7 |       10 | Stafford's Lad    |  17    | overthrow          |
-| 44 | :boom:            | 2021-11-27 18:35:00 | toowoomba     |      2 |        4 | Motomiss          |   2.15 | vulture,pangea     |
-| 45 | 5.0               | 2021-11-27 18:35:00 | toowoomba     |      2 |       11 | Super One Susie   |   9    | vulture            |
-| 46 | :2nd_place_medal: | 2021-11-27 18:25:00 | ascot         |      6 |        7 | Scandolo          |   4.33 | vulture,pikey      |
-| 47 | :boom:            | 2021-11-27 18:15:00 | alice-springs |      4 |        3 | Faolan            |   4.75 | pangea,blackshadow |
-| 48 | :boom:            | 2021-11-27 17:45:00 | ascot         |      5 |        3 | God Has Chosen    |   1.65 | pangea,pikey       |
-| 49 | 12.0              | 2021-11-27 17:45:00 | ascot         |      5 |        8 | Tri For Us        |  12    | pangea             |
-| 50 | 4.0               | 2021-11-27 17:40:00 | caulfield     |      9 |       11 | Cambourne         |  14    | vulture,pangea     |
-| 51 | :2nd_place_medal: | 2021-11-27 17:30:00 | ipswich       |      9 |        7 | Love Yers All     |   4.2  | pangea             |
-| 52 | 6.0               | 2021-11-27 17:12:00 | morphettville |      8 |        6 | Second Slip       |   8.5  | pangea             |
-| 53 | 8.0               | 2021-11-27 17:12:00 | morphettville |      8 |       16 | Another Award     |  15    | vulture            |
-| 54 | :2nd_place_medal: | 2021-11-27 17:12:00 | morphettville |      8 |        8 | Rock The Ring     |   2.7  | pangea,icyhot      |
-| 55 | 9.0               | 2021-11-27 17:05:00 | ascot         |      4 |       12 | Dais              |   4.6  | pikey              |
-| 56 | 8.0               | 2021-11-27 17:00:00 | caulfield     |      8 |        8 | Djukon            |  16    | vulture,pangea     |
-| 57 | 5.0               | 2021-11-27 17:00:00 | caulfield     |      8 |        6 | Our Playboy       |   2.75 | vulture            |
-| 58 | :boom:            | 2021-11-27 16:54:00 | alice-springs |      2 |        4 | Valenciano        |   5.5  | benny,pangea       |
-| 62 | 5.0               | 2021-11-27 16:25:00 | ascot         |      3 |        9 | Secret Plan       |   1.85 | evenodds,pikey     |
-| 63 | :boom:            | 2021-11-27 16:25:00 | ascot         |      3 |        6 | Triple Missile    |   3    | pangea             |
-| 64 | :2nd_place_medal: | 2021-11-27 16:20:00 | caulfield     |      7 |        6 | Dr Drill          |  19    | benny,pangea       |
-| 65 | :3rd_place_medal: | 2021-11-27 16:20:00 | caulfield     |      7 |        4 | Wentwood          |  26    | benny,pangea       |
-| 66 | 6.0               | 2021-11-27 16:10:00 | ipswich       |      7 |        5 | Enrique           |   3.4  | vulture            |
-| 67 | :2nd_place_medal: | 2021-11-27 16:10:00 | ipswich       |      7 |        6 | Ice Elite         |   3.6  | vulture            |
-| 68 | :3rd_place_medal: | 2021-11-27 16:05:00 | kilcoy        |      4 |        3 | Commandeering     |   3    | pangea             |
-| 69 | 5.0               | 2021-11-27 15:45:00 | ascot         |      2 |        4 | Utgard Loki       |   6.5  | pangea,pikey       |
-| 70 | :boom:            | 2021-11-27 15:40:00 | caulfield     |      6 |        9 | Blue Army         |  16    | vulture            |
-| 71 | :3rd_place_medal: | 2021-11-27 15:12:00 | morphettville |      5 |        7 | Rapid Raiser      |  12    | pangea             |
-| 72 | :boom:            | 2021-11-27 15:05:00 | ascot         |      1 |        1 | The Front Bar     |   1.75 | benny,pikey        |
-| 73 | :2nd_place_medal: | 2021-11-27 15:00:00 | caulfield     |      5 |        1 | Quantum Mechanic  |   6    | pangea             |
-| 74 | 7.0               | 2021-11-27 14:50:00 | ipswich       |      5 |        4 | Curwood           |   5.5  | looseknot          |
-| 76 | :boom:            | 2021-11-27 14:30:00 | te-aroha      |      8 |        7 | Gold Watch        |   1.5  | vulture,milkman    |
-| 77 | 8.0               | 2021-11-27 14:30:00 | te-aroha      |      8 |        8 | Run To Perfection |   5    | vulture            |
-| 78 | :3rd_place_medal: | 2021-11-27 14:20:00 | caulfield     |      4 |       13 | Yulong Command    |   3.8  | vulture,pangea     |
-| 79 | 4.0               | 2021-11-27 14:20:00 | caulfield     |      4 |       12 | Starry Legend     |   9.5  | pangea             |
-| 80 | 8.0               | 2021-11-27 13:57:00 | morphettville |      3 |        6 | Lucy Diamonds     |   8.5  | moechilli          |
-| 81 | :boom:            | 2021-11-27 13:55:00 | te-aroha      |      7 |        1 | Pareanui Bay      |   2.3  | vulture,milkman    |
-| 82 | 4.0               | 2021-11-27 13:55:00 | te-aroha      |      7 |        4 | La Bella Beals    |   6.6  | vulture            |
-| 86 | :3rd_place_medal: | 2021-11-27 13:38:00 | ipswich       |      3 |        3 | Puerto Rico       |   3.2  | vulture            |
-| 87 | 8.0               | 2021-11-27 13:20:00 | te-aroha      |      6 |       10 | Les Crayeres      |   4    | vulture,milkman    |
-| 88 | 6.0               | 2021-11-27 13:10:00 | caulfield     |      2 |        4 | Accountability    |   3.2  | vulture            |
-| 89 | 4.0               | 2021-11-27 12:35:00 | caulfield     |      1 |        1 | Brereton          |   2.75 | vulture,milkman    |
-| 90 | 5.0               | 2021-11-27 11:02:00 | te-aroha      |      2 |        8 | Sakura Blossom    |   2    | vulture,milkman    |
+|    | finish   | time                | track          |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2021-11-29 02:30:00 | leicester      |      6 |        6 | Dorisa Queen       |   2    | evenodds,overthrow |
+|  1 | :soon:   | 2021-11-29 02:30:00 | leicester      |      6 |        2 | Tashunka           |   4.4  | overthrow          |
+|  2 | :soon:   | 2021-11-29 02:20:00 | carlisle       |      7 |        5 | Chase Outlaw       |   6.5  | vulture            |
+|  3 | :soon:   | 2021-11-29 02:20:00 | carlisle       |      7 |        1 | Knowwhentoholdem   |   4.4  | vulture            |
+|  4 | :soon:   | 2021-11-29 02:00:00 | leicester      |      5 |        4 | Floki              |  10    | overthrow          |
+|  5 | :soon:   | 2021-11-29 01:40:00 | fairyhouse     |      6 |        7 | Sire Du Berlais    |  19    | vulture            |
+|  6 | :soon:   | 2021-11-29 01:40:00 | fairyhouse     |      6 |        8 | Honeysuckle        |   1.4  | milkman            |
+|  7 | :soon:   | 2021-11-29 01:40:00 | fairyhouse     |      6 |        5 | Saldier            |   8    | evenodds,overthrow |
+|  8 | :soon:   | 2021-11-29 01:30:00 | leicester      |      4 |        2 | Lonimoss Bareliere |   2.8  | overthrow          |
+|  9 | :soon:   | 2021-11-29 00:55:00 | leicester      |      3 |        3 | Reilly             |   3    | evenodds,overthrow |
+| 10 | :soon:   | 2021-11-29 00:55:00 | leicester      |      3 |        1 | Marble Sands       |   2.15 | overthrow          |
+| 11 | :soon:   | 2021-11-29 00:45:00 | carlisle       |      4 |        2 | Elimay             |   1.4  | vulture            |
+| 12 | :soon:   | 2021-11-29 00:45:00 | carlisle       |      4 |        1 | Annie Mc           |   4.2  | vulture            |
+| 13 | :soon:   | 2021-11-29 00:35:00 | fairyhouse     |      4 |        7 | Grand Paradis      |   9.5  | milkman            |
+| 14 | :soon:   | 2021-11-29 00:15:00 | carlisle       |      3 |        1 | A Distant Place    |   1.85 | vulture            |
+| 15 | :soon:   | 2021-11-29 00:05:00 | fairyhouse     |      3 |        3 | Mighty Potter      |   4    | milkman            |
+| 16 | :soon:   | 2021-11-28 23:55:00 | leicester      |      1 |        2 | Book of Secrets    |   1.85 | evenodds,overthrow |
+| 17 | :soon:   | 2021-11-28 23:55:00 | leicester      |      1 |        9 | Parliament Hill    |   5    | looseknot          |
+| 18 | :soon:   | 2021-11-28 23:35:00 | fairyhouse     |      2 |        5 | Max Mayhem         |   6.5  | vulture            |
+| 19 | :soon:   | 2021-11-28 23:35:00 | fairyhouse     |      2 |        3 | Fil Dor            |   1.5  | vulture            |
+| 20 | :soon:   | 2021-11-28 23:00:00 | fairyhouse     |      1 |        2 | The Sliding Rock   |   3.4  | vulture            |
+| 21 | :soon:   | 2021-11-28 22:40:00 | greyville      |      4 |        8 | Papa C             |   0    | milkman            |
+| 22 | :soon:   | 2021-11-28 19:10:00 | sha-tin        |      7 |        6 | Excellent Proposal |   2.25 | milkman            |
+| 23 | :soon:   | 2021-11-28 17:50:00 | sunshine-coast |      7 |        2 | Elegant Drover     |   2.2  | pangea             |
+| 24 | :soon:   | 2021-11-28 17:50:00 | sunshine-coast |      7 |       12 | Gullfoss           |   6    | looseknot          |
+| 25 | :soon:   | 2021-11-28 16:22:00 | geraldton      |      2 |        6 | King Kashoo        |   1.8  | vulture            |
+| 26 | :soon:   | 2021-11-28 15:45:00 | geraldton      |      1 |        8 | Dark Peak          |   2.5  | vulture            |
+| 27 | :soon:   | 2021-11-28 13:40:00 | hobart         |      2 |        2 | Ella Exceeds       |   1.35 | vulture            |
+| 28 | --       | 2021-11-28 13:05:00 | hobart         |      1 |        9 | Nufen Special      |   6.5  | vulture            |
+| 29 | --       | 2021-11-28 12:30:00 | traralgon      |      1 |        8 | Little Miss Rich   |   3.7  | looseknot          |
