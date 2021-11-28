@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-28 22:47:57 +1000  
+date: 2021-11-29 06:07:15 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     37 |      6 |   -233.5 | 0.16 | -0.63 |
-| Last 28 Days   |    175 |     30 |   -970.5 | 0.17 | -0.55 |
-| Last 6 Months  |    195 |     30 |  -1170.5 | 0.15 | -0.6  |
-| Since Jan 2020 |    195 |     30 |  -1170.5 | 0.15 | -0.6  |
+| Last 7 Days    |     40 |      5 |   -275.5 | 0.12 | -0.69 |
+| Last 28 Days   |    180 |     30 |  -1020.5 | 0.17 | -0.57 |
+| Last 6 Months  |    200 |     30 |  -1220.5 | 0.15 | -0.61 |
+| Since Jan 2020 |    200 |     30 |  -1220.5 | 0.15 | -0.61 |
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
-| 01:40             | 2021-11-29 | fairyhouse R6                | 8 Honeysuckle         |  1.4  |    -10   |
-| 00:35             | 2021-11-29 | fairyhouse R4                | 7 Grand Paradis       |  9.5  |    -10   |
-| 00:05             | 2021-11-29 | fairyhouse R3                | 3 Mighty Potter       |  4    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R6                | 8 Honeysuckle         |  0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R4                | 7 Grand Paradis       |  0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R3                | 3 Mighty Potter       |  0    |    -10   |
 | 0                 | 2021-11-28 | greyville R4                 | 8 Papa C              |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-28 | sha-tin R7                   | 6 Excellent Proposal  |  2.25 |    -10   |
 | 0                 | 2021-11-28 | wolverhampton R3             | 3 Ammolite            |  0    |    -10   |

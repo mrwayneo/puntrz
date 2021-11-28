@@ -1,40 +1,40 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-11-28 22:47:58 +1000  
+date: 2021-11-29 06:07:16 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    181 |     15 |  -1162   | 0.08 | -0.64 |
-| Last 28 Days   |    984 |     97 |  -4800.5 | 0.1  | -0.49 |
-| Last 6 Months  |   6940 |   1005 | -12156.2 | 0.14 | -0.18 |
-| Since Jan 2020 |   9684 |   1518 | -14754.1 | 0.16 | -0.15 |
+| Last 7 Days    |    179 |     14 |  -1341   | 0.08 | -0.75 |
+| Last 28 Days   |    998 |     95 |  -5093   | 0.1  | -0.51 |
+| Last 6 Months  |   6980 |   1008 | -12485.2 | 0.14 | -0.18 |
+| Since Jan 2020 |   9724 |   1521 | -15083.1 | 0.16 | -0.16 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:40             | 2021-11-29 | fairyhouse R8                 | 2 Data Breach         |   2.75 |    -10   |
-| 02:40             | 2021-11-29 | fairyhouse R8                 | 9 Sa Fureur           |   3.2  |    -10   |
-| 01:40             | 2021-11-29 | greyville R9                  | 5 Someone Exciting    |   0    |    -10   |
-| 01:40             | 2021-11-29 | greyville R9                  | 13 Birdwatcher        |   0    |    -10   |
-| 01:40             | 2021-11-29 | greyville R9                  | 12 Boogie Shoes       |   0    |    -10   |
-| 01:40             | 2021-11-29 | greyville R9                  | 10 Sea Eagle          |   0    |    -10   |
-| 01:40             | 2021-11-29 | greyville R9                  | 6 Grue Of Ice         |   0    |    -10   |
-| 01:05             | 2021-11-29 | greyville R8                  | 6 Catch The Tune      |   0    |    -10   |
-| 01:05             | 2021-11-29 | greyville R8                  | 1 Casimiro            |   0    |    -10   |
-| 01:05             | 2021-11-29 | greyville R8                  | 9 Final Destiny       |   0    |    -10   |
-| 01:05             | 2021-11-29 | greyville R8                  | 13 Letaba             |   0    |    -10   |
-| 01:05             | 2021-11-29 | greyville R8                  | 11 Cupid's Song       |   0    |    -10   |
-| 00:30             | 2021-11-29 | greyville R7                  | 14 Walton Hall        |   0    |    -10   |
-| 00:30             | 2021-11-29 | greyville R7                  | 10 Tight Five         |   0    |    -10   |
-| 00:30             | 2021-11-29 | greyville R7                  | 7 Morse               |   0    |    -10   |
-| 00:30             | 2021-11-29 | greyville R7                  | 6 Governors Glory     |   0    |    -10   |
-| 00:25             | 2021-11-29 | leicester R2                  | 4 Robeam              |   2.45 |    -10   |
-| 23:50             | 2021-11-28 | greyville R6                  | 1 Aunty Lizzy         |   0    |    -10   |
-| 23:15             | 2021-11-28 | greyville R5                  | 5 Favour              |   0    |    -10   |
-| 23:15             | 2021-11-28 | greyville R5                  | 1 Tristful            |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R8                 | 2 Data Breach         |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R8                 | 9 Sa Fureur           |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R9                  | 5 Someone Exciting    |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R9                  | 13 Birdwatcher        |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R9                  | 12 Boogie Shoes       |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R9                  | 10 Sea Eagle          |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R9                  | 6 Grue Of Ice         |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R8                  | 6 Catch The Tune      |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R8                  | 1 Casimiro            |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R8                  | 9 Final Destiny       |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R8                  | 13 Letaba             |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R8                  | 11 Cupid's Song       |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R7                  | 14 Walton Hall        |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R7                  | 10 Tight Five         |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R7                  | 7 Morse               |   0    |    -10   |
+| 0                 | 2021-11-29 | greyville R7                  | 6 Governors Glory     |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R2                  | 4 Robeam              |   0    |    -10   |
+| 0                 | 2021-11-28 | greyville R6                  | 1 Aunty Lizzy         |   0    |    -10   |
+| 0                 | 2021-11-28 | greyville R5                  | 5 Favour              |   0    |    -10   |
+| 0                 | 2021-11-28 | greyville R5                  | 1 Tristful            |   0    |    -10   |
 | 0                 | 2021-11-28 | greyville R4                  | 2 Teichman            |   0    |    -10   |
 | 0                 | 2021-11-28 | greyville R4                  | 5 Decorated           |   0    |    -10   |
 | 0                 | 2021-11-28 | greyville R4                  | 3 Querari's Cowboy    |   0    |    -10   |

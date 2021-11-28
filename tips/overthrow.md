@@ -1,29 +1,29 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-11-28 22:47:56 +1000  
+date: 2021-11-29 06:07:14 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     63 |      9 |   -457.8 | 0.14 | -0.73 |
-| Last 28 Days   |    408 |     84 |  -1325.6 | 0.21 | -0.32 |
-| Last 6 Months  |   2308 |    539 |  -2666.4 | 0.23 | -0.12 |
-| Since Jan 2020 |   3610 |    864 |  -4852.6 | 0.24 | -0.13 |
+| Last 7 Days    |     66 |      6 |   -557.8 | 0.09 | -0.85 |
+| Last 28 Days   |    409 |     82 |  -1376.6 | 0.2  | -0.34 |
+| Last 6 Months  |   2317 |    539 |  -2756.4 | 0.23 | -0.12 |
+| Since Jan 2020 |   3619 |    864 |  -4942.6 | 0.24 | -0.14 |
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 02:40             | 2021-11-29 | fairyhouse R8          | 2 Data Breach         |   2.75 |    -10   |
-| 02:30             | 2021-11-29 | leicester R6           | 6 Dorisa Queen        |   2    |    -10   |
-| 02:30             | 2021-11-29 | leicester R6           | 2 Tashunka            |   4.4  |    -10   |
-| 02:00             | 2021-11-29 | leicester R5           | 4 Floki               |  10    |    -10   |
-| 01:40             | 2021-11-29 | fairyhouse R6          | 5 Saldier             |   8    |    -10   |
-| 01:30             | 2021-11-29 | leicester R4           | 2 Lonimoss Bareliere  |   2.8  |    -10   |
-| 00:55             | 2021-11-29 | leicester R3           | 3 Reilly              |   3    |    -10   |
-| 00:55             | 2021-11-29 | leicester R3           | 1 Marble Sands        |   2.15 |    -10   |
-| 23:55             | 2021-11-28 | leicester R1           | 2 Book of Secrets     |   1.85 |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R8          | 2 Data Breach         |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R6           | 6 Dorisa Queen        |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R6           | 2 Tashunka            |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R5           | 4 Floki               |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R6          | 5 Saldier             |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R4           | 2 Lonimoss Bareliere  |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R3           | 3 Reilly              |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R3           | 1 Marble Sands        |   0    |    -10   |
+| 0                 | 2021-11-28 | leicester R1           | 2 Book of Secrets     |   0    |    -10   |
 | 0                 | 2021-11-28 | newbury R7             | 13 Il Ridoto          |   0    |    -10   |
 | 0                 | 2021-11-28 | newbury R7             | 7 Eclair D'Ainay      |   0    |    -10   |
 | 0                 | 2021-11-28 | newbury R7             | 2 Gumball             |   0    |    -10   |

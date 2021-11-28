@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-11-28 22:47:57 +1000  
+date: 2021-11-29 06:07:15 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     62 |      3 |     -267 | 0.05 | -0.43 |
-| Last 28 Days   |    319 |      9 |    -2035 | 0.03 | -0.64 |
-| Last 6 Months  |   2868 |    161 |    -1559 | 0.06 | -0.05 |
-| Since Jan 2020 |   4202 |    242 |    -1046 | 0.06 | -0.02 |
+| Last 7 Days    |     71 |      4 |     -186 | 0.06 | -0.26 |
+| Last 28 Days   |    330 |     10 |    -1974 | 0.03 | -0.6  |
+| Last 6 Months  |   2882 |    162 |    -1528 | 0.06 | -0.05 |
+| Since Jan 2020 |   4216 |    243 |    -1015 | 0.06 | -0.02 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 01:30             | 2021-11-29 | leicester R4                  | 5 Taqwaa              |  11   |      -10 |
-| 00:15             | 2021-11-29 | carlisle R3                   | 5 Tim Pat             |  21   |      -10 |
-| 23:55             | 2021-11-28 | leicester R1                  | 11 Trusty Scout       |  23   |      -10 |
+| 0                 | 2021-11-29 | leicester R4                  | 5 Taqwaa              |   0   |      -10 |
+| 0                 | 2021-11-29 | carlisle R3                   | 5 Tim Pat             |   0   |      -10 |
+| 0                 | 2021-11-28 | leicester R1                  | 11 Trusty Scout       |   0   |      -10 |
 | 8                 | 2021-11-28 | geraldton R7                  | 7 Aurman Zou          |   7   |      -10 |
 | :3rd_place_medal: | 2021-11-28 | newcastle R8                  | 4 Greek Hero          |  26   |      -10 |
 | 7                 | 2021-11-28 | hobart R7                     | 2 Brew Horse          |   9   |      -10 |

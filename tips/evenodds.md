@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2021-11-28 22:47:55 +1000  
+date: 2021-11-29 06:07:13 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     14 |      3 |   -102.1 | 0.21 | -0.73 |
-| Last 28 Days   |    103 |     22 |   -469.1 | 0.21 | -0.46 |
-| Last 6 Months  |    674 |    176 |  -1452.6 | 0.26 | -0.22 |
-| Since Jan 2020 |    992 |    264 |  -2138.8 | 0.27 | -0.22 |
+| Last 7 Days    |     16 |      2 |   -134.1 | 0.12 | -0.84 |
+| Last 28 Days   |    105 |     21 |   -505.1 | 0.2  | -0.48 |
+| Last 6 Months  |    678 |    176 |  -1492.6 | 0.26 | -0.22 |
+| Since Jan 2020 |    996 |    264 |  -2178.8 | 0.27 | -0.22 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 02:30             | 2021-11-29 | leicester R6           | 6 Dorisa Queen        |  2    |    -10   |
-| 01:40             | 2021-11-29 | fairyhouse R6          | 5 Saldier             |  8    |    -10   |
-| 00:55             | 2021-11-29 | leicester R3           | 3 Reilly              |  3    |    -10   |
-| 23:55             | 2021-11-28 | leicester R1           | 2 Book of Secrets     |  1.85 |    -10   |
+| 0                 | 2021-11-29 | leicester R6           | 6 Dorisa Queen        |  0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R6          | 5 Saldier             |  0    |    -10   |
+| 0                 | 2021-11-29 | leicester R3           | 3 Reilly              |  0    |    -10   |
+| 0                 | 2021-11-28 | leicester R1           | 2 Book of Secrets     |  0    |    -10   |
 | 0                 | 2021-11-27 | newcastle R3           | 3 One Fine Man        |  0    |    -10   |
 | 0                 | 2021-11-27 | newbury R1             | 5 Rainyday Woman      |  0    |    -10   |
 | 4                 | 2021-11-27 | ascot R7               | 4 Midnight Blue       |  1.9  |    -10   |

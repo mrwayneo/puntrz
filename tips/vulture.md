@@ -1,33 +1,33 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2021-11-28 22:47:55 +1000  
+date: 2021-11-29 06:07:13 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     80 |     13 |   -340.9 | 0.16 | -0.43 |
-| Last 28 Days   |    404 |     89 |  -1058.4 | 0.22 | -0.26 |
-| Last 6 Months  |   3422 |    794 |  -5477.4 | 0.23 | -0.16 |
-| Since Jan 2020 |   4916 |   1161 |  -7598.3 | 0.24 | -0.15 |
+| Last 7 Days    |     90 |     13 |   -446.1 | 0.14 | -0.5  |
+| Last 28 Days   |    415 |     89 |  -1166.9 | 0.21 | -0.28 |
+| Last 6 Months  |   3439 |    796 |  -5614.4 | 0.23 | -0.16 |
+| Since Jan 2020 |   4933 |   1163 |  -7735.3 | 0.24 | -0.16 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 02:30             | 2021-11-29 | leicester R6                 | 6 Dorisa Queen        |   2    |    -10   |
-| 02:20             | 2021-11-29 | carlisle R7                  | 5 Chase Outlaw        |   6.5  |    -10   |
-| 02:20             | 2021-11-29 | carlisle R7                  | 1 Knowwhentoholdem    |   4.4  |    -10   |
-| 01:40             | 2021-11-29 | fairyhouse R6                | 7 Sire Du Berlais     |  19    |    -10   |
-| 01:40             | 2021-11-29 | fairyhouse R6                | 5 Saldier             |   8    |    -10   |
-| 00:55             | 2021-11-29 | leicester R3                 | 3 Reilly              |   3    |    -10   |
-| 00:45             | 2021-11-29 | carlisle R4                  | 2 Elimay              |   1.4  |    -10   |
-| 00:45             | 2021-11-29 | carlisle R4                  | 1 Annie Mc            |   4.2  |    -10   |
-| 00:15             | 2021-11-29 | carlisle R3                  | 1 A Distant Place     |   1.85 |    -10   |
-| 23:55             | 2021-11-28 | leicester R1                 | 2 Book of Secrets     |   1.85 |    -10   |
-| 23:35             | 2021-11-28 | fairyhouse R2                | 5 Max Mayhem          |   6.5  |    -10   |
-| 23:35             | 2021-11-28 | fairyhouse R2                | 3 Fil Dor             |   1.5  |    -10   |
-| 23:00             | 2021-11-28 | fairyhouse R1                | 2 The Sliding Rock    |   3.4  |    -10   |
+| 0                 | 2021-11-29 | leicester R6                 | 6 Dorisa Queen        |   0    |    -10   |
+| 0                 | 2021-11-29 | carlisle R7                  | 5 Chase Outlaw        |   0    |    -10   |
+| 0                 | 2021-11-29 | carlisle R7                  | 1 Knowwhentoholdem    |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R6                | 7 Sire Du Berlais     |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R6                | 5 Saldier             |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R3                 | 3 Reilly              |   0    |    -10   |
+| 0                 | 2021-11-29 | carlisle R4                  | 2 Elimay              |   0    |    -10   |
+| 0                 | 2021-11-29 | carlisle R4                  | 1 Annie Mc            |   0    |    -10   |
+| 0                 | 2021-11-29 | carlisle R3                  | 1 A Distant Place     |   0    |    -10   |
+| 0                 | 2021-11-28 | leicester R1                 | 2 Book of Secrets     |   0    |    -10   |
+| 0                 | 2021-11-28 | fairyhouse R2                | 5 Max Mayhem          |   0    |    -10   |
+| 0                 | 2021-11-28 | fairyhouse R2                | 3 Fil Dor             |   0    |    -10   |
+| 0                 | 2021-11-28 | fairyhouse R1                | 2 The Sliding Rock    |   0    |    -10   |
 | :boom:            | 2021-11-28 | geraldton R2                 | 6 King Kashoo         |   1.5  |      5   |
 | :2nd_place_medal: | 2021-11-28 | geraldton R1                 | 8 Dark Peak           |   2.5  |    -10   |
 | :boom:            | 2021-11-28 | hobart R2                    | 2 Ella Exceeds        |   1.8  |      8   |

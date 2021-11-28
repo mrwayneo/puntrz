@@ -1,45 +1,45 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-11-28 22:47:59 +1000  
+date: 2021-11-29 06:07:17 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    218 |      8 |  -1016   | 0.04 | -0.47 |
-| Last 28 Days   |   1076 |     41 |  -5857.5 | 0.04 | -0.54 |
-| Last 6 Months  |   9230 |    493 | -18983   | 0.05 | -0.21 |
-| Since Jan 2020 |  14677 |    779 | -28028   | 0.05 | -0.19 |
+| Last 7 Days    |    238 |      7 |  -1427   | 0.03 | -0.6  |
+| Last 28 Days   |   1101 |     41 |  -6106.5 | 0.04 | -0.55 |
+| Last 6 Months  |   9279 |    494 | -19302   | 0.05 | -0.21 |
+| Since Jan 2020 |  14726 |    780 | -28347   | 0.05 | -0.19 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:40             | 2021-11-29 | fairyhouse R8                 | 13 Kilbunny Pontic    |  26    |    -10   |
-| 02:10             | 2021-11-29 | fairyhouse R7                 | 7 Autumn Evening      |  10    |    -10   |
-| 02:10             | 2021-11-29 | fairyhouse R7                 | 12 Light Brigade      |  10    |    -10   |
-| 02:10             | 2021-11-29 | fairyhouse R7                 | 15 Sit Down Lucy      |  21    |    -10   |
-| 02:10             | 2021-11-29 | fairyhouse R7                 | 16 Easca Peasca       |  19    |    -10   |
-| 02:10             | 2021-11-29 | fairyhouse R7                 | 17 Brides Hill        |  26    |    -10   |
-| 02:10             | 2021-11-29 | fairyhouse R7                 | 20 Jiving Jerry       |  21    |    -10   |
-| 02:00             | 2021-11-29 | leicester R5                  | 10 Prairie Town       |  14    |    -10   |
-| 02:00             | 2021-11-29 | leicester R5                  | 3 The Dancing Poet    |  12    |    -10   |
-| 02:00             | 2021-11-29 | leicester R5                  | 5 Sid Hoodie          |  26    |    -10   |
-| 02:00             | 2021-11-29 | leicester R5                  | 9 Begin The Luck      |  10    |    -10   |
-| 01:30             | 2021-11-29 | leicester R4                  | 5 Taqwaa              |  11    |    -10   |
-| 01:30             | 2021-11-29 | leicester R4                  | 7 Ace Time            |  11    |    -10   |
-| 01:20             | 2021-11-29 | carlisle R5                   | 10 The Delray Munky   |  21    |    -10   |
-| 01:20             | 2021-11-29 | carlisle R5                   | 9 Perfect Man         |  41    |    -10   |
-| 01:20             | 2021-11-29 | carlisle R5                   | 6 Flashjack           |  18    |    -10   |
-| 01:05             | 2021-11-29 | fairyhouse R5                 | 11 Fiveaftermidnight  |  41    |    -10   |
-| 01:05             | 2021-11-29 | fairyhouse R5                 | 9 Agent Boru          |  13    |    -10   |
-| 01:05             | 2021-11-29 | fairyhouse R5                 | 3 Fairyhill Run       |  11    |    -10   |
-| 00:35             | 2021-11-29 | fairyhouse R4                 | 4 Fire Attack         |  31    |    -10   |
-| 00:25             | 2021-11-29 | leicester R2                  | 3 Olly's Folly        |   9.5  |    -10   |
-| 00:15             | 2021-11-29 | carlisle R3                   | 5 Tim Pat             |  21    |    -10   |
-| 23:55             | 2021-11-28 | leicester R1                  | 11 Trusty Scout       |  23    |    -10   |
-| 23:55             | 2021-11-28 | leicester R1                  | 6 Krypton Gold        |  23    |    -10   |
-| 23:45             | 2021-11-28 | carlisle R2                   | 1 Arvico Bleu         |  15    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R8                 | 13 Kilbunny Pontic    |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R7                 | 7 Autumn Evening      |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R7                 | 12 Light Brigade      |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R7                 | 15 Sit Down Lucy      |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R7                 | 16 Easca Peasca       |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R7                 | 17 Brides Hill        |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R7                 | 20 Jiving Jerry       |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R5                  | 10 Prairie Town       |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R5                  | 3 The Dancing Poet    |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R5                  | 5 Sid Hoodie          |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R5                  | 9 Begin The Luck      |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R4                  | 5 Taqwaa              |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R4                  | 7 Ace Time            |   0    |    -10   |
+| 0                 | 2021-11-29 | carlisle R5                   | 10 The Delray Munky   |   0    |    -10   |
+| 0                 | 2021-11-29 | carlisle R5                   | 9 Perfect Man         |   0    |    -10   |
+| 0                 | 2021-11-29 | carlisle R5                   | 6 Flashjack           |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R5                 | 11 Fiveaftermidnight  |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R5                 | 9 Agent Boru          |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R5                 | 3 Fairyhill Run       |   0    |    -10   |
+| 0                 | 2021-11-29 | fairyhouse R4                 | 4 Fire Attack         |   0    |    -10   |
+| 0                 | 2021-11-29 | leicester R2                  | 3 Olly's Folly        |   0    |    -10   |
+| 0                 | 2021-11-29 | carlisle R3                   | 5 Tim Pat             |   0    |    -10   |
+| 0                 | 2021-11-28 | leicester R1                  | 11 Trusty Scout       |   0    |    -10   |
+| 0                 | 2021-11-28 | leicester R1                  | 6 Krypton Gold        |   0    |    -10   |
+| 0                 | 2021-11-28 | carlisle R2                   | 1 Arvico Bleu         |   0    |    -10   |
 | 8                 | 2021-11-28 | geraldton R7                  | 7 Aurman Zou          |   7    |    -10   |
 | :3rd_place_medal: | 2021-11-28 | newcastle R8                  | 4 Greek Hero          |  26    |    -10   |
 | 6                 | 2021-11-28 | geraldton R3                  | 5 Wingsonmyfeet       |  10    |    -10   |

@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-11-28 22:47:57 +1000  
+date: 2021-11-29 06:07:15 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     20 |      1 |   -110   | 0.05 | -0.55 |
-| Last 28 Days   |     85 |     10 |   -216   | 0.12 | -0.25 |
-| Last 6 Months  |    779 |    111 |  -1336.6 | 0.14 | -0.17 |
-| Since Jan 2020 |   1116 |    158 |  -2034.1 | 0.14 | -0.18 |
+| Last 7 Days    |     19 |      0 |   -190   | 0    | -1    |
+| Last 28 Days   |     86 |     10 |   -226   | 0.12 | -0.26 |
+| Last 6 Months  |    782 |    111 |  -1366.6 | 0.14 | -0.17 |
+| Since Jan 2020 |   1119 |    158 |  -2064.1 | 0.14 | -0.18 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 23:55             | 2021-11-28 | leicester R1                  | 9 Parliament Hill     |   5    |    -10   |
+| 0                 | 2021-11-28 | leicester R1                  | 9 Parliament Hill     |   0    |    -10   |
 | 5                 | 2021-11-28 | sunshine-coast R7             | 12 Gullfoss           |   6    |    -10   |
 | :2nd_place_medal: | 2021-11-28 | traralgon R1                  | 8 Little Miss Rich    |   3.7  |    -10   |
 | 0                 | 2021-11-28 | wolverhampton R5              | 8 Silver Screen       |   0    |    -10   |
