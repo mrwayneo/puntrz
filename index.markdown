@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-29 13:11:11 +1000  
+date: 2021-11-29 13:28:15 +1000  
 ---   
 
 
@@ -57,4 +57,4 @@ date: 2021-11-29 13:11:11 +1000
 |  5 | :soon:   | 2021-11-29 17:10:00 | taree   |      7 |        5 | Pelgrave         |   3.1  | pangea             |
 |  6 | :soon:   | 2021-11-29 15:15:00 | taree   |      4 |        8 | Tiva Bay         |   2.4  | vulture            |
 |  7 | :soon:   | 2021-11-29 14:05:00 | taree   |      2 |        3 | Taking The Mikki |   1.95 | vulture            |
-|  8 | :soon:   | 2021-11-29 13:25:00 | taree   |      1 |        4 | Trescha          |   2.6  | vulture            |
+|  8 | --       | 2021-11-29 13:25:00 | taree   |      1 |        4 | Trescha          |   2.6  | vulture            |
