@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-11-30 08:00:28 +1000  
+date: 2021-11-30 09:41:47 +1000  
 categories: None 
 ---   
 
@@ -37,12 +37,12 @@ categories: None
 | :boom:            | 2021-10-02 | doomben R5             | 3 Our Rebel          |   4.6  |     36   |
 | 4                 | 2021-09-26 | market-rasen R4        | 8 Flamboyant Joyaux  |   6    |    -10   |
 | 5                 | 2021-09-06 | ashburton R4           | 6 Venturesome        |   5.5  |    -10   |
-| 0                 | 2021-09-01 | newton-abbot R4        | 6 Flying Verse       |   2.5  |    -10   |
+| 03:00             | 2021-09-01 | newton-abbot R4        | 6 Flying Verse       |   2.5  |    -10   |
 | 6                 | 2021-08-29 | devonport-synthetic R3 | 6 Sirocco Shamal     |   9    |    -10   |
 | :3rd_place_medal: | 2021-08-29 | devonport-synthetic R2 | 3 Ancona             |   3.4  |    -10   |
 | 7                 | 2021-08-22 | devonport-synthetic R6 | 1 Freelancer         |   3.6  |    -10   |
 | :boom:            | 2021-08-20 | murwillumbah R2        | 1 Our Rebel          |   3    |     20   |
-| 0                 | 2021-08-19 | kempton R2             | 9 Petite Joe         |  34    |    -10   |
+| 03:45             | 2021-08-19 | kempton R2             | 9 Petite Joe         |  34    |    -10   |
 | :boom:            | 2021-08-19 | kempton R1             | 3 Vitalline          |   2.5  |     15   |
 | 4                 | 2021-08-15 | cranbourne R1          | 4 Rhinoceros         |   7    |    -10   |
 | 4                 | 2021-08-08 | hobart R6              | 1 Ancona             |   3.8  |    -10   |
@@ -51,7 +51,7 @@ categories: None
 | :boom:            | 2021-07-31 | gold-coast R7          | 3 Our Rebel          |   4.1  |     31   |
 | :2nd_place_medal: | 2021-07-27 | lingfield R7           | 4 Vitalline          |   2.4  |    -10   |
 | :2nd_place_medal: | 2021-07-03 | darwin R7              | 2 Husslin Humph      |   4.6  |    -10   |
-| 0                 | 2021-06-12 | trentham R6            | 4 Vatican News       |   6    |    -10   |
+| 12:48             | 2021-06-12 | trentham R6            | 4 Vatican News       |  14    |    -10   |
 | 5                 | 2021-06-09 | belmont R3             | 6 My Boy Eddy        |   5    |    -10   |
 | 9                 | 2021-06-03 | wyong R2               | 2 Master Drumer      | 151    |    -10   |
 | 5                 | 2021-05-30 | kalgoorlie R4          | 6 Solarize           |   2.3  |    -10   |

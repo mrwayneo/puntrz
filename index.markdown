@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-30 07:45:07 +1000  
+date: 2021-11-30 09:41:51 +1000  
 ---   
 
 
@@ -47,14 +47,19 @@ date: 2021-11-30 07:45:07 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6381 |    881 | -13574   | 0.14 | -0.21 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7968 |    422 | -17669   | 0.05 | -0.22 |
 
-|    | finish            | time                | track   |   race |   number | name             |   odds | tipster            |
-|---:|:------------------|:--------------------|:--------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | --                | 2021-11-30 03:10:00 | kempton |      8 |       10 | Schwartz         |   5.5  | looseknot          |
-|  1 | :3rd_place_medal: | 2021-11-30 02:20:00 | ayr     |      6 |        1 | Knowwhentoholdem |   5    | vulture            |
-|  2 | --                | 2021-11-30 01:10:00 | ayr     |      4 |        6 | Schalke          |   9    | looseknot          |
-|  3 | :3rd_place_medal: | 2021-11-29 23:30:00 | ayr     |      1 |        8 | Sauce Of Life    |   3    | milkman            |
-|  4 | :2nd_place_medal: | 2021-11-29 23:15:00 | kempton |      1 |        7 | Noble Order      |   2    | evenodds,overthrow |
-|  5 | 6.0               | 2021-11-29 17:10:00 | taree   |      7 |        5 | Pelgrave         |   3.1  | pangea             |
-|  6 | :2nd_place_medal: | 2021-11-29 15:15:00 | taree   |      4 |        8 | Tiva Bay         |   2.4  | vulture            |
-|  7 | :3rd_place_medal: | 2021-11-29 14:05:00 | taree   |      2 |        3 | Taking The Mikki |   1.95 | vulture            |
-|  8 | 4.0               | 2021-11-29 13:25:00 | taree   |      1 |        4 | Trescha          |   2.6  | vulture            |
+|    | finish   | time                | track       |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2021-12-01 03:15:00 | newcastle   |      2 |        5 | Dance At Night     |   4.6  | looseknot          |
+|  1 | :soon:   | 2021-12-01 02:30:00 | southwell   |      7 |        8 | Thundersockssundae |   4.2  | overthrow          |
+|  2 | :soon:   | 2021-12-01 02:30:00 | southwell   |      7 |       13 | Global Protektor   |  13    | overthrow          |
+|  3 | :soon:   | 2021-12-01 02:00:00 | southwell   |      6 |        7 | Midnight Centurion |   3    | vulture            |
+|  4 | :soon:   | 2021-12-01 02:00:00 | southwell   |      6 |        6 | Lydford            |   1.6  | evenodds,overthrow |
+|  5 | :soon:   | 2021-12-01 01:30:00 | southwell   |      5 |       10 | Whenthepennydrops  |   4    | overthrow          |
+|  6 | :soon:   | 2021-12-01 00:25:00 | southwell   |      3 |        4 | Across The Line    |   4    | evenodds,overthrow |
+|  7 | :soon:   | 2021-12-01 00:10:00 | lingfield   |      4 |        3 | Kaasirr            |   2.6  | vulture            |
+|  9 | :soon:   | 2021-11-30 23:55:00 | southwell   |      2 |        1 | Une De La Seniere  |   3.4  | overthrow          |
+| 12 | :soon:   | 2021-11-30 23:10:00 | lingfield   |      2 |        4 | If You Can Dream   |   6    | looseknot          |
+| 13 | :soon:   | 2021-11-30 22:40:00 | lingfield   |      1 |       10 | Hannalite          |   8    | looseknot          |
+| 14 | :soon:   | 2021-11-30 22:20:00 | turffontein |      4 |        7 | Big Burn           |   4    | milkman            |
+| 15 | :soon:   | 2021-11-30 20:40:00 | turffontein |      1 |        3 | Angelsea           |   2.25 | vulture            |
+| 16 | :soon:   | 2021-11-30 14:25:00 | tamworth    |      3 |        9 | Bullinachinashop   |   4.8  | pangea             |
