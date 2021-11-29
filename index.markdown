@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-29 15:05:34 +1000  
+date: 2021-11-29 15:25:14 +1000  
 ---   
 
 
@@ -55,6 +55,6 @@ date: 2021-11-29 15:05:34 +1000
 |  3 | :soon:            | 2021-11-29 23:30:00 | ayr     |      1 |        8 | Sauce Of Life    |   3    | milkman            |
 |  4 | :soon:            | 2021-11-29 23:15:00 | kempton |      1 |        7 | Noble Order      |   2    | evenodds,overthrow |
 |  5 | :soon:            | 2021-11-29 17:10:00 | taree   |      7 |        5 | Pelgrave         |   3.1  | pangea             |
-|  6 | :soon:            | 2021-11-29 15:15:00 | taree   |      4 |        8 | Tiva Bay         |   2.4  | vulture            |
+|  6 | :2nd_place_medal: | 2021-11-29 15:15:00 | taree   |      4 |        8 | Tiva Bay         |   2.4  | vulture            |
 |  7 | :3rd_place_medal: | 2021-11-29 14:05:00 | taree   |      2 |        3 | Taking The Mikki |   1.95 | vulture            |
 |  8 | 4.0               | 2021-11-29 13:25:00 | taree   |      1 |        4 | Trescha          |   2.6  | vulture            |
