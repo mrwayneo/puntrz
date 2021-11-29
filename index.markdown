@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-29 13:58:09 +1000  
+date: 2021-11-29 14:19:31 +1000  
 ---   
 
 
@@ -47,14 +47,14 @@ date: 2021-11-29 13:58:09 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6427 |    896 | -13193   | 0.14 | -0.21 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   8048 |    427 | -18004   | 0.05 | -0.22 |
 
-|    | finish   | time                | track   |   race |   number | name             |   odds | tipster            |
-|---:|:---------|:--------------------|:--------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | :soon:   | 2021-11-30 03:10:00 | kempton |      8 |       10 | Schwartz         |   5.5  | looseknot          |
-|  1 | :soon:   | 2021-11-30 02:20:00 | ayr     |      6 |        1 | Knowwhentoholdem |   5    | vulture            |
-|  2 | :soon:   | 2021-11-30 01:10:00 | ayr     |      4 |        6 | Schalke          |   9    | looseknot          |
-|  3 | :soon:   | 2021-11-29 23:30:00 | ayr     |      1 |        8 | Sauce Of Life    |   3    | milkman            |
-|  4 | :soon:   | 2021-11-29 23:15:00 | kempton |      1 |        7 | Noble Order      |   2    | evenodds,overthrow |
-|  5 | :soon:   | 2021-11-29 17:10:00 | taree   |      7 |        5 | Pelgrave         |   3.1  | pangea             |
-|  6 | :soon:   | 2021-11-29 15:15:00 | taree   |      4 |        8 | Tiva Bay         |   2.4  | vulture            |
-|  7 | :soon:   | 2021-11-29 14:05:00 | taree   |      2 |        3 | Taking The Mikki |   1.95 | vulture            |
-|  8 | 4.0      | 2021-11-29 13:25:00 | taree   |      1 |        4 | Trescha          |   2.6  | vulture            |
+|    | finish            | time                | track   |   race |   number | name             |   odds | tipster            |
+|---:|:------------------|:--------------------|:--------|-------:|---------:|:-----------------|-------:|:-------------------|
+|  0 | :soon:            | 2021-11-30 03:10:00 | kempton |      8 |       10 | Schwartz         |   5.5  | looseknot          |
+|  1 | :soon:            | 2021-11-30 02:20:00 | ayr     |      6 |        1 | Knowwhentoholdem |   5    | vulture            |
+|  2 | :soon:            | 2021-11-30 01:10:00 | ayr     |      4 |        6 | Schalke          |   9    | looseknot          |
+|  3 | :soon:            | 2021-11-29 23:30:00 | ayr     |      1 |        8 | Sauce Of Life    |   3    | milkman            |
+|  4 | :soon:            | 2021-11-29 23:15:00 | kempton |      1 |        7 | Noble Order      |   2    | evenodds,overthrow |
+|  5 | :soon:            | 2021-11-29 17:10:00 | taree   |      7 |        5 | Pelgrave         |   3.1  | pangea             |
+|  6 | :soon:            | 2021-11-29 15:15:00 | taree   |      4 |        8 | Tiva Bay         |   2.4  | vulture            |
+|  7 | :3rd_place_medal: | 2021-11-29 14:05:00 | taree   |      2 |        3 | Taking The Mikki |   1.95 | vulture            |
+|  8 | 4.0               | 2021-11-29 13:25:00 | taree   |      1 |        4 | Trescha          |   2.6  | vulture            |
