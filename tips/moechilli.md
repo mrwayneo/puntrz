@@ -1,32 +1,31 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-11-29 22:47:13 +1000  
+date: 2021-11-30 06:11:30 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |      9 |      0 |    -90   | 0    | -1    |
-| Last 6 Months  |     49 |     11 |    318.5 | 0.22 |  0.65 |
-| Since Jan 2020 |     90 |     27 |    763.9 | 0.3  |  0.85 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      8 |      0 |    -80   | 0    | -1    |
+| Last 6 Months  |     48 |     11 |    328.5 | 0.23 |  0.68 |
+| Since Jan 2020 |     89 |     27 |    773.9 | 0.3  |  0.87 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
 | 8                 | 2021-11-27 | morphettville R3       | 6 Lucy Diamonds      |   8.5  |    -10   |
-| 0                 | 2021-11-25 | dundalk R3             | 11 Mullacash Buzz    |   0    |    -10   |
+| 02:00             | 2021-11-25 | dundalk R3             | 11 Mullacash Buzz    |   0    |    -10   |
 | :2nd_place_medal: | 2021-11-19 | grafton R8             | 4 Tabulam            |   7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-14 | canberra R2            | 2 Affiliate          |   8    |    -10   |
 | 0                 | 2021-11-13 | darwin R6              | 1 Fromthenevernever  |   0    |    -10   |
 | 0                 | 2021-11-13 | kembla-grange R2       | 11 Aldasha           |   0    |    -10   |
-| 0                 | 2021-11-08 | lismore R5             | 4 Tabulam            |   0    |    -10   |
 | :3rd_place_medal: | 2021-11-06 | wyong R7               | 3 Momack             |   8    |    -10   |
 | :2nd_place_medal: | 2021-11-05 | kempsey R7             | 4 Top Me Up Again    |   3.3  |    -10   |
 | :boom:            | 2021-10-31 | ascot R7               | 8 Estacas            |   4.2  |     32   |
 | :boom:            | 2021-10-25 | te-rapa R7             | 1 Gold Watch         |   2.95 |     19.5 |
-| 0                 | 2021-10-24 | trentham R3            | 5 Nobellem           |   0    |    -10   |
+| 5                 | 2021-10-24 | trentham R3            | 5 Nobellem           |   0    |    -10   |
 | 0                 | 2021-10-22 | wolverhampton R3       | 6 Petite Joe         |   0    |    -10   |
 | :boom:            | 2021-10-20 | northam R5             | 3 Black Chips        |  19    |    180   |
 | 4                 | 2021-10-20 | ipswich R5             | 1 Our Rebel          |   1.55 |    -10   |

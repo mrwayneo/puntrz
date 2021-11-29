@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-29 22:47:12 +1000  
+date: 2021-11-30 06:11:29 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     40 |      6 |   -261.5 | 0.15 | -0.65 |
-| Last 28 Days   |    180 |     31 |  -1006.5 | 0.17 | -0.56 |
-| Last 6 Months  |    200 |     31 |  -1206.5 | 0.16 | -0.6  |
-| Since Jan 2020 |    200 |     31 |  -1206.5 | 0.16 | -0.6  |
+| Last 7 Days    |     36 |      5 |   -259.5 | 0.14 | -0.72 |
+| Last 28 Days   |    166 |     28 |  -1007.5 | 0.17 | -0.61 |
+| Last 6 Months  |    201 |     31 |  -1216.5 | 0.15 | -0.61 |
+| Since Jan 2020 |    201 |     31 |  -1216.5 | 0.15 | -0.61 |
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
-| 23:30             | 2021-11-29 | ayr R1                       | 8 Sauce Of Life       |  3    |    -10   |
+| :3rd_place_medal: | 2021-11-29 | ayr R1                       | 8 Sauce Of Life       |  3    |    -10   |
 | :boom:            | 2021-11-29 | fairyhouse R6                | 8 Honeysuckle         |  1.4  |      4   |
 | 0                 | 2021-11-29 | fairyhouse R4                | 7 Grand Paradis       |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-29 | fairyhouse R3                | 3 Mighty Potter       |  4    |    -10   |
@@ -62,8 +62,8 @@ categories: None
 | :2nd_place_medal: | 2021-11-22 | kempton R1                   | 3 Petrossian          |  2.8  |    -10   |
 | :boom:            | 2021-11-22 | navan R3                     | 5 Hollow Games        |  1.4  |      4   |
 | 4                 | 2021-11-22 | navan R2                     | 8 Au Fleuron          |  1.65 |    -10   |
-| :2nd_place_medal: | 2021-11-21 | sha-tin R6                   | 10 Naboo Attack       |  9    |    -10   |
 | 0                 | 2021-11-21 | sha-tin R6                   | 9 Courier Wonder      |  0    |    -10   |
+| :2nd_place_medal: | 2021-11-21 | sha-tin R6                   | 10 Naboo Attack       |  9    |    -10   |
 | 0                 | 2021-11-21 | ascot R7                     | 1 Another Mystery     |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-20 | haydock R1                   | 1 Sonigino            |  7    |    -10   |
 | 0                 | 2021-11-20 | toowoomba R7                 | 4 Telephone Booth     |  0    |    -10   |
@@ -127,8 +127,8 @@ categories: None
 | 0                 | 2021-11-13 | kembla-grange R5             | 1 Spaltet             |  0    |    -10   |
 | 4                 | 2021-11-13 | doomben R5                   | 4 Zavaboom            | 17    |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R5                   | 10 Putontheredlight   |  2.15 |    -10   |
-| :boom:            | 2021-11-13 | ascot R1                     | 6 Written Matter      |  5.1  |     41   |
 | 7                 | 2021-11-13 | ascot R1                     | 2 Fairy Fast          |  6    |    -10   |
+| :boom:            | 2021-11-13 | ascot R1                     | 6 Written Matter      |  5.1  |     41   |
 | :2nd_place_medal: | 2021-11-13 | gold-coast R4                | 1 Vivyn               |  1.28 |    -10   |
 | :3rd_place_medal: | 2021-11-13 | newcastle R5                 | 1 Love Tap            |  3.1  |    -10   |
 | 4                 | 2021-11-13 | riccarton-park R8            | 1 Imperatriz          |  3.5  |    -10   |
@@ -191,8 +191,8 @@ categories: None
 | 5                 | 2021-11-02 | eagle-farm R6                | 3 Valiant             | 11    |    -10   |
 | :3rd_place_medal: | 2021-11-02 | flemington R9                | 14 Maracana           |  4.2  |    -10   |
 | :2nd_place_medal: | 2021-11-02 | muswellbrook R5              | 2 Mobstar             |  1.75 |    -10   |
-| :2nd_place_medal: | 2021-11-02 | randwick R6                  | 7 Six Again           |  2.45 |    -10   |
 | :boom:            | 2021-11-02 | randwick R6                  | 10 Satin Ribbons      |  4.6  |     36   |
+| :2nd_place_medal: | 2021-11-02 | randwick R6                  | 7 Six Again           |  2.45 |    -10   |
 | :2nd_place_medal: | 2021-11-02 | flemington R7                | 2 Incentivise         |  2.9  |    -10   |
 | 6                 | 2021-11-02 | te-rapa R7                   | 11 Tellall            |  3.9  |    -10   |
 | 6                 | 2021-11-02 | flemington R5                | 7 Pindaric            |  7    |    -10   |
