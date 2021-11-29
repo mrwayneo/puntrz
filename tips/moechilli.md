@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-11-30 06:42:26 +1000  
+date: 2021-11-30 06:57:28 +1000  
 categories: None 
 ---   
 
@@ -29,7 +29,7 @@ categories: None
 | 0                 | 2021-10-22 | wolverhampton R3       | 6 Petite Joe         |   0    |    -10   |
 | :boom:            | 2021-10-20 | northam R5             | 3 Black Chips        |  19    |    180   |
 | 4                 | 2021-10-20 | ipswich R5             | 1 Our Rebel          |   1.55 |    -10   |
-| 0                 | 2021-10-14 | carlisle R1            | 2 Bavington Bob      |   0    |    -10   |
+| 23:23             | 2021-10-14 | carlisle R1            | 2 Bavington Bob      |   0    |    -10   |
 | :boom:            | 2021-10-04 | kelso R4               | 2 Nuts Well          |   6    |     50   |
 | 4                 | 2021-10-04 | kelso R3               | 1 Hello Judge        |   1.85 |    -10   |
 | :2nd_place_medal: | 2021-10-02 | doomben R8             | 4 King Klaus         |   8.5  |    -10   |
