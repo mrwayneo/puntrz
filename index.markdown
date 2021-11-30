@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-30 13:24:36 +1000  
+date: 2021-11-30 13:39:14 +1000  
 ---   
 
 
@@ -34,7 +34,7 @@ date: 2021-11-30 13:24:36 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     41 |      9 |    133.5 | 0.22 |  0.33 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    204 |     62 |   -214.9 | 0.3  | -0.11 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     44 |      6 |   -219   | 0.14 | -0.5  |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    346 |     70 |   -289.5 | 0.2  | -0.08 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    349 |     71 |   -298.5 | 0.2  | -0.09 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    335 |     85 |   -327.6 | 0.25 | -0.1  |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    334 |     66 |   -868   | 0.2  | -0.26 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    493 |    124 |   -990   | 0.25 | -0.2  |

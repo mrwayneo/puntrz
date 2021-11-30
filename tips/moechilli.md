@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-11-30 13:24:31 +1000  
+date: 2021-11-30 13:39:09 +1000  
 categories: None 
 ---   
 
@@ -9,9 +9,9 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |      8 |      0 |    -80   | 0    | -1    |
-| Last 6 Months  |     48 |     11 |    328.5 | 0.23 |  0.68 |
-| Since Jan 2020 |     89 |     27 |    773.9 | 0.3  |  0.87 |
+| Last 28 Days   |      6 |      0 |    -60   | 0    | -1    |
+| Last 6 Months  |     46 |     11 |    348.5 | 0.24 |  0.76 |
+| Since Jan 2020 |     87 |     27 |    793.9 | 0.31 |  0.91 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
@@ -19,8 +19,6 @@ categories: None
 | 02:00             | 2021-11-25 | dundalk R3             | 11 Mullacash Buzz    |   0    |    -10   |
 | :2nd_place_medal: | 2021-11-19 | grafton R8             | 4 Tabulam            |   7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-14 | canberra R2            | 2 Affiliate          |   8    |    -10   |
-| 0                 | 2021-11-13 | darwin R6              | 1 Fromthenevernever  |   0    |    -10   |
-| 0                 | 2021-11-13 | kembla-grange R2       | 11 Aldasha           |   0    |    -10   |
 | :3rd_place_medal: | 2021-11-06 | wyong R7               | 3 Momack             |   8    |    -10   |
 | :2nd_place_medal: | 2021-11-05 | kempsey R7             | 4 Top Me Up Again    |   3.3  |    -10   |
 | :boom:            | 2021-10-31 | ascot R7               | 8 Estacas            |   4.2  |     32   |
