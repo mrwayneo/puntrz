@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-11-30 14:48:51 +1000  
+date: 2021-11-30 15:03:59 +1000  
 categories: None 
 ---   
 
@@ -312,8 +312,8 @@ categories: None
 | :boom:            | 2021-03-21 | sha-tin R9              | 4 Fantastic Way       |  1.9  |      9   |
 | :boom:            | 2021-03-21 | sha-tin R7              | 8 Courier Wonder      |  1.15 |      1.5 |
 | :boom:            | 2021-03-19 | moonee-valley R8        | 9 Marabi              |  1.2  |      2   |
-| 0                 | 2021-03-19 | moonee-valley R7        | 1 Hey Doc             | 12    |    -10   |
 | 0                 | 2021-03-19 | moonee-valley R7        | 14 Swats That         | 13    |    -10   |
+| 0                 | 2021-03-19 | moonee-valley R7        | 1 Hey Doc             | 12    |    -10   |
 | 5                 | 2021-03-17 | doomben R4              | 4 Gunnobe             |  2.7  |    -10   |
 | :boom:            | 2021-03-17 | cheltenham R4           | 10 Honeysuckle        |  2.2  |     12   |
 | :2nd_place_medal: | 2021-03-14 | hereford R4             | 4 Hollywoodien        |  5.5  |    -10   |
