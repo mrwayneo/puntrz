@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-30 16:49:13 +1000  
+date: 2021-11-30 17:04:09 +1000  
 ---   
 
 
@@ -42,7 +42,7 @@ date: 2021-11-30 16:49:13 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    705 |    101 |  -1323.6 | 0.14 | -0.19 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    614 |    157 |  -1424.1 | 0.26 | -0.23 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2071 |    467 |  -2993.5 | 0.23 | -0.14 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2580 |    135 |  -3357   | 0.05 | -0.13 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2580 |    136 |  -3302   | 0.05 | -0.13 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3089 |    692 |  -6166.8 | 0.22 | -0.2  |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6381 |    881 | -13574   | 0.14 | -0.21 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7968 |    422 | -17669   | 0.05 | -0.22 |
