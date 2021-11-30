@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-11-30 20:36:37 +1000  
+date: 2021-11-30 20:52:41 +1000  
 ---   
 
 
@@ -61,5 +61,5 @@ date: 2021-11-30 20:36:37 +1000
 | 12 | :soon:            | 2021-11-30 23:10:00 | lingfield   |      2 |        4 | If You Can Dream   |   6    | looseknot          |
 | 13 | :soon:            | 2021-11-30 22:40:00 | lingfield   |      1 |       10 | Hannalite          |   8    | looseknot          |
 | 14 | :soon:            | 2021-11-30 22:20:00 | turffontein |      4 |        7 | Big Burn           |   4    | milkman            |
-| 15 | :soon:            | 2021-11-30 20:40:00 | turffontein |      1 |        3 | Angelsea           |   2.25 | vulture            |
+| 15 | :2nd_place_medal: | 2021-11-30 20:40:00 | turffontein |      1 |        3 | Angelsea           |   2.25 | vulture            |
 | 16 | :3rd_place_medal: | 2021-11-30 14:25:00 | tamworth    |      3 |        9 | Bullinachinashop   |   4.8  | pangea             |

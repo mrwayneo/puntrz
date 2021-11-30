@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-11-30 20:36:30 +1000  
+date: 2021-11-30 20:52:31 +1000  
 categories: None 
 ---   
 
@@ -47,8 +47,8 @@ categories: None
 | 0                 | 2021-11-27 | newbury R5                   | 3 Phoenix Way         |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-26 | newbury R1                   | 6 Kincardine          |  4.2  |    -10   |
 | :2nd_place_medal: | 2021-11-26 | sunshine-coast-poly-track R3 | 5 Eloquently          |  1.11 |    -10   |
-| :boom:            | 2021-11-26 | mackay R2                    | 2 Isis Carmella       |  2.4  |     14   |
 | 9                 | 2021-11-26 | mackay R2                    | 3 Magnetic Drive      |  8.5  |    -10   |
+| :boom:            | 2021-11-26 | mackay R2                    | 2 Isis Carmella       |  2.4  |     14   |
 | 0                 | 2021-11-26 | lingfield R6                 | 9 Whisky Express      |  0    |    -10   |
 | 0                 | 2021-11-26 | thurles R4                   | 4 Vina Ardanza        |  0    |    -10   |
 | 4                 | 2021-11-25 | wyong R4                     | 5 Groover             |  3.6  |    -10   |
@@ -100,8 +100,8 @@ categories: None
 | 0                 | 2021-11-16 | turffontein R6               | 4 Bella Swan          |  0    |    -10   |
 | 0                 | 2021-11-15 | punchestown R8               | 1 Smooth Player       |  0    |    -10   |
 | :boom:            | 2021-11-15 | punchestown R8               | 2 The Big Doyen       |  4    |     30   |
-| 0                 | 2021-11-15 | cheltenham R5                | 2 Sonigino            |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-15 | cheltenham R5                | 4 Washington          |  3.4  |    -10   |
+| 0                 | 2021-11-15 | cheltenham R5                | 2 Sonigino            |  0    |    -10   |
 | 7                 | 2021-11-15 | cheltenham R4                | 11 Marie's Rock       | 23    |    -10   |
 | :3rd_place_medal: | 2021-11-15 | cheltenham R3                | 4 Put The Kettle On   |  2.7  |    -10   |
 | :2nd_place_medal: | 2021-11-15 | punchestown R5               | 4 Zanahiyr            |  5.5  |    -10   |
@@ -126,8 +126,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-13 | doomben R6                   | 9 She Can Sing        |  2.9  |    -10   |
 | :2nd_place_medal: | 2021-11-13 | doomben R6                   | 8 Palaisipan          |  4.6  |    -10   |
 | 0                 | 2021-11-13 | kembla-grange R5             | 1 Spaltet             |  0    |    -10   |
-| :3rd_place_medal: | 2021-11-13 | doomben R5                   | 10 Putontheredlight   |  2.15 |    -10   |
 | 4                 | 2021-11-13 | doomben R5                   | 4 Zavaboom            | 17    |    -10   |
+| :3rd_place_medal: | 2021-11-13 | doomben R5                   | 10 Putontheredlight   |  2.15 |    -10   |
 | 7                 | 2021-11-13 | ascot R1                     | 2 Fairy Fast          |  6    |    -10   |
 | :boom:            | 2021-11-13 | ascot R1                     | 6 Written Matter      |  5.1  |     41   |
 | :2nd_place_medal: | 2021-11-13 | gold-coast R4                | 1 Vivyn               |  1.28 |    -10   |
@@ -151,8 +151,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-10 | huntingdon R7                | 1 Alazwar             |  1.5  |    -10   |
 | :boom:            | 2021-11-09 | huntingdon R1                | 7 Theatre Glory       |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3                | 3 Yes Dream           |  1.6  |      6   |
-| :boom:            | 2021-11-09 | kempton R3                   | 3 Doddiethegreat      |  1.33 |      3.3 |
 | 4                 | 2021-11-09 | kempton R3                   | 1 Fifrelet            |  5    |    -10   |
+| :boom:            | 2021-11-09 | kempton R3                   | 3 Doddiethegreat      |  1.33 |      3.3 |
 | 0                 | 2021-11-08 | carlisle R1                  | 9 Snowy Clouds        |  0    |    -10   |
 | 0                 | 2021-11-08 | sandown R7                   | 1 Revasser            |  0    |    -10   |
 | :boom:            | 2021-11-08 | sandown R4                   | 1 Chantry House       |  1.3  |      3   |
