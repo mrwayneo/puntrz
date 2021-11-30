@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-11-30 09:41:47 +1000  
+date: 2021-11-30 13:11:04 +1000  
 categories: None 
 ---   
 
@@ -55,24 +55,24 @@ categories: None
 | 5                 | 2021-06-09 | belmont R3             | 6 My Boy Eddy        |   5    |    -10   |
 | 9                 | 2021-06-03 | wyong R2               | 2 Master Drumer      | 151    |    -10   |
 | 5                 | 2021-05-30 | kalgoorlie R4          | 6 Solarize           |   2.3  |    -10   |
-| 0                 | 2021-05-29 | stratford R6           | 4 Pillowman          |   2.75 |    -10   |
+| 05:05             | 2021-05-29 | stratford R6           | 4 Pillowman          |   5    |    -10   |
 | :boom:            | 2021-05-29 | stratford R2           | 3 Deans Road         |   3.5  |     25   |
 | :boom:            | 2021-05-13 | hamilton R4            | 3 Crooked Creek      |  23    |    220   |
 | 5                 | 2021-05-09 | devonport-synthetic R4 | 4 Rhode Away         |   6.5  |    -10   |
-| 0                 | 2021-05-06 | kempton R4             | 5 Lilkian            |   4.5  |    -10   |
+| 03:40             | 2021-05-06 | kempton R4             | 5 Lilkian            |  21    |    -10   |
 | :2nd_place_medal: | 2021-05-05 | fakenham R6            | 2 Laser Beam         |   5    |    -10   |
 | 9                 | 2021-05-02 | alice-springs R7       | 2 Hope Ya Don't Mind |   6.1  |    -10   |
 | 11                | 2021-05-02 | alice-springs R2       | 10 Asahi Bearing     |   6    |    -10   |
 | :boom:            | 2021-05-01 | barcaldine R4          | 2 Grey Rules         |   2.9  |     19   |
-| 0                 | 2021-05-01 | cheltenham R6          | 10 Know The Score    |   8    |    -10   |
+| 04:45             | 2021-05-01 | cheltenham R6          | 10 Know The Score    |   5.5  |    -10   |
+| 03:45             | 2021-05-01 | cheltenham R4          | 2 Garde Ville        |   3.5  |    -10   |
 | :3rd_place_medal: | 2021-05-01 | cheltenham R4          | 1 Fifty Shades       |   8    |    -10   |
-| 0                 | 2021-05-01 | cheltenham R4          | 2 Garde Ville        |   3    |    -10   |
-| 0                 | 2021-05-01 | cheltenham R2          | 9 Hotel Du Nord      |   4.2  |    -10   |
+| 02:35             | 2021-05-01 | cheltenham R2          | 9 Hotel Du Nord      |   5.5  |    -10   |
 | :boom:            | 2021-04-29 | rockhampton R1         | 3 Whoshotthemagician |   5    |     40   |
-| 0                 | 2021-04-29 | chelmsford-city R1     | 10 I'm Mable         |  11    |    -10   |
+| 02:10             | 2021-04-29 | chelmsford-city R1     | 10 I'm Mable         |  17    |    -10   |
 | :boom:            | 2021-04-28 | toowoomba R7           | 2 King Klaus         |   3.7  |     27   |
 | :2nd_place_medal: | 2021-04-23 | exeter R6              | 1 Crews Pitch        |   2.25 |    -10   |
-| 0                 | 2021-04-19 | stratford R7           | 1 Captain Buck's     |   2.2  |    -10   |
+| 00:07             | 2021-04-19 | stratford R7           | 1 Captain Buck's     |   2    |    -10   |
 | :boom:            | 2021-04-18 | hobart R1              | 6 Far Away Hit       |   3.3  |     23   |
 | :3rd_place_medal: | 2021-04-17 | lismore R6             | 1 Get On Board       |   2.5  |    -10   |
 | :boom:            | 2021-04-17 | randwick R8            | 1 Addeybb            |   3.4  |     24   |
@@ -84,18 +84,18 @@ categories: None
 | :boom:            | 2021-04-03 | alice-springs R3       | 6 Asahi Bearing      |   5    |     40   |
 | :boom:            | 2021-03-31 | warwick R6             | 1 Caid Du Berlais    |   1.14 |      1.4 |
 | :2nd_place_medal: | 2021-03-29 | doncaster R4           | 4 Taqareer           |   4.8  |    -10   |
-| 0                 | 2021-03-28 | doncaster R2           | 1 Guru               |   1.8  |    -10   |
-| 0                 | 2021-03-27 | rosehill R2            | 11 Kaapfever         |   0    |    -10   |
-| 0                 | 2021-03-27 | rosehill R2            | 11 Kaapfever         |   0    |    -10   |
+| 23:55             | 2021-03-28 | doncaster R2           | 1 Guru               |   3.3  |    -10   |
+| 6                 | 2021-03-27 | rosehill R2            | 11 Kaapfever         |   0    |    -10   |
+| 6                 | 2021-03-27 | rosehill R2            | 11 Kaapfever         |   0    |    -10   |
 | :2nd_place_medal: | 2021-03-25 | tipperary R6           | 6 Glenbeg Express    |   2.5  |    -10   |
 | :boom:            | 2021-03-14 | mount-barker R1        | 8 Montiblu           |   9.4  |     84   |
 | :boom:            | 2021-03-13 | trentham R6            | 2 Ace Royale         |   6    |     50   |
-| 0                 | 2021-03-12 | thurles R7             | 10 Pray Tell         | 101    |    -10   |
-| 0                 | 2021-03-10 | clonmel R7             | 1 Cashels Quest      | 201    |    -10   |
+| 04:45             | 2021-03-12 | thurles R7             | 10 Pray Tell         | 251    |    -10   |
+| 04:30             | 2021-03-10 | clonmel R7             | 1 Cashels Quest      | 251    |    -10   |
 | 6                 | 2021-03-07 | ascot R4               | 6 Shooting Shirocco  |   6.6  |    -10   |
 | 11                | 2021-03-07 | sunshine-coast R2      | 2 Bluindi            |   7.6  |    -10   |
 | :boom:            | 2021-03-04 | wincanton R7           | 1 Caid Du Berlais    |   3.15 |     21.5 |
-| 0                 | 2021-03-03 | leicester R5           | 3 Captain McGinley   |   6.5  |    -10   |
+| 03:10             | 2021-03-03 | leicester R5           | 3 Captain McGinley   |   8    |    -10   |
 | 6                 | 2021-02-27 | sunshine-coast R7      | 8 King Klaus         |   7    |    -10   |
 | :boom:            | 2021-02-13 | te-rapa R5             | 3 Gold Watch         |   3.4  |     24   |
 | :boom:            | 2021-02-12 | awapuni R4             | 5 Ace Royale         |   9.5  |     85   |
