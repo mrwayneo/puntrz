@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-11-30 15:48:53 +1000  
+date: 2021-11-30 16:04:08 +1000  
 categories: None 
 ---   
 
@@ -11,7 +11,7 @@ categories: None
 | Last 7 Days    |      4 |      2 |     47   | 0.5  |  1.18 |
 | Last 28 Days   |     40 |     11 |     41   | 0.28 |  0.1  |
 | Last 6 Months  |    397 |     86 |    -72   | 0.22 | -0.02 |
-| Since Jan 2020 |    584 |    127 |   -451.5 | 0.22 | -0.08 |
+| Since Jan 2020 |    581 |    127 |   -421.5 | 0.22 | -0.07 |
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
@@ -426,19 +426,18 @@ categories: None
 | :2nd_place_medal: | 2021-04-28 | toowoomba R8            | 8 Dis Dah Wun         |  2.45 |    -10   |
 | 5                 | 2021-04-27 | townsville R4           | 5 Silent Explorer     |  2.45 |    -10   |
 | :2nd_place_medal: | 2021-04-27 | goulburn R3             | 2 Egyptian Missile    |  3    |    -10   |
-| 0                 | 2021-04-25 | sha-tin R5              | 1 Danon Smash         |  2.15 |    -10   |
+| 16:50             | 2021-04-25 | sha-tin R5              | 1 Danon Smash         |  2.35 |    -10   |
 | :3rd_place_medal: | 2021-04-25 | devonport-synthetic R6  | 4 Rhyme Writer        |  4.8  |    -10   |
 | 5                 | 2021-04-25 | alice-springs R1        | 4 Dataset             |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-25 | awapuni R1              | 2 Maison Roxanne      |  2.4  |    -10   |
 | 5                 | 2021-04-24 | darwin R4               | 4 Trebla              | 14    |    -10   |
 | :2nd_place_medal: | 2021-04-24 | darwin R4               | 1 Patria              |  2.8  |    -10   |
-| 0                 | 2021-04-24 | randwick R8             | 9 Starspangled Rodeo  |  5.6  |    -10   |
 | 4                 | 2021-04-24 | darwin R2               | 2 Paseeto             |  6    |    -10   |
 | 5                 | 2021-04-24 | morphettville-parks R7  | 9 Renegade            | 14    |    -10   |
 | 4                 | 2021-04-24 | doomben R6              | 2 Good Soize          |  6.6  |    -10   |
 | :3rd_place_medal: | 2021-04-23 | canberra R6             | 3 Propose To Me       |  2.1  |    -10   |
 | :3rd_place_medal: | 2021-04-23 | gatton R4               | 3 Love Yers All       |  3.1  |    -10   |
-| 0                 | 2021-04-23 | chelmsford-city R3      | 5 Corinthia Knight    |  9    |    -10   |
+| 03:15             | 2021-04-23 | chelmsford-city R3      | 5 Corinthia Knight    | 16    |    -10   |
 | 7                 | 2021-04-21 | canterbury R6           | 2 Montserrat          |  6.5  |    -10   |
 | 4                 | 2021-04-21 | ipswich R4              | 3 Calm Seeker         |  9.5  |    -10   |
 | 4                 | 2021-04-20 | mackay R4               | 3 Moreno              |  3    |    -10   |
@@ -451,8 +450,7 @@ categories: None
 | :boom:            | 2021-04-16 | toowoomba R5            | 3 Rhyme Time          |  3    |     20   |
 | :3rd_place_medal: | 2021-04-16 | orange R3               | 4 Highest Standard    |  8.5  |    -10   |
 | :boom:            | 2021-04-15 | racing.com-park R5      | 4 Sig Positano        |  3.9  |     29   |
-| 0                 | 2021-04-15 | newmarket R4            | 1 Forest Of Dean      | 11    |    -10   |
-| 0                 | 2021-04-15 | newmarket R4            | 2 Global Giant        |  2.2  |    -10   |
+| 00:00             | 2021-04-15 | newmarket R4            | 2 Global Giant        |  1.95 |    -10   |
 | 4                 | 2021-04-14 | bendigo R4              | 2 Modear              |  3    |    -10   |
 | :2nd_place_medal: | 2021-04-13 | cairns R4               | 3 Bold Type           |  3    |    -10   |
 | :boom:            | 2021-04-11 | devonport-synthetic R7  | 2 Cabarrus            |  5.1  |     41   |
@@ -468,7 +466,7 @@ categories: None
 | 5                 | 2021-04-10 | doomben R3              | 1 Cloak               |  3.6  |    -10   |
 | 4                 | 2021-04-09 | rockhampton R3          | 1 Mr Phenomenal       |  5    |    -10   |
 | 5                 | 2021-04-07 | launceston R6           | 2 Exoteric            |  7    |    -10   |
-| 0                 | 2021-04-06 | pontefract R3           | 2 Victory Chime       |  8.5  |    -10   |
+| 23:00             | 2021-04-06 | pontefract R3           | 2 Victory Chime       | 11    |    -10   |
 | :2nd_place_medal: | 2021-04-06 | tamworth R6             | 10 War Cat            |  4.8  |    -10   |
 | :boom:            | 2021-04-04 | wimmera%40stawell R7    | 3 Hard 'n' Tough      |  5.6  |     46   |
 | :2nd_place_medal: | 2021-04-04 | mudgee R1               | 3 Primal Scream       |  2.45 |    -10   |
@@ -493,23 +491,22 @@ categories: None
 | 11                | 2021-03-27 | rosehill R2             | 2 Raheen House        |  0    |    -10   |
 | 11                | 2021-03-27 | rosehill R2             | 2 Raheen House        |  0    |    -10   |
 | :2nd_place_medal: | 2021-03-26 | darwin R1               | 1 Kaptan Apollo       |  3.6  |    -10   |
-| 0                 | 2021-03-25 | rockhampton R7          | 12 Finucane Missile   |  5    |    -10   |
+| 5                 | 2021-03-25 | rockhampton R7          | 12 Finucane Missile   |  4.55 |    -10   |
 | 4                 | 2021-03-22 | tamworth R5             | 3 Chambermaid         |  3.6  |    -10   |
-| 0                 | 2021-03-21 | bunbury R7              | 2 Montelena           |  2.15 |    -10   |
+| 8                 | 2021-03-21 | bunbury R7              | 2 Montelena           |  2.05 |    -10   |
 | 7                 | 2021-03-20 | morphettville-parks R7  | 8 Ambidazzle          |  4.6  |    -10   |
 | :3rd_place_medal: | 2021-03-20 | mackay R4               | 2 Disco Mo            |  3.5  |    -10   |
 | 5                 | 2021-03-20 | alice-springs R6        | 5 Andale Gringo       |  5.5  |    -10   |
 | :3rd_place_medal: | 2021-03-20 | morphettville-parks R5  | 8 Centrefield         |  5.6  |    -10   |
 | 4                 | 2021-03-20 | mackay R2               | 2 Ultimate Ring       |  4.8  |    -10   |
 | :3rd_place_medal: | 2021-03-20 | morphettville-parks R2  | 3 Handsome Return     | 11    |    -10   |
-| 0                 | 2021-03-19 | moonee-valley R7        | 7 Flit                | 34    |    -10   |
+| 5                 | 2021-03-19 | moonee-valley R7        | 7 Flit                | 27    |    -10   |
 | :boom:            | 2021-03-17 | launceston R4           | 1 The Risk Factor     |  1.9  |      9   |
-| 0                 | 2021-03-17 | ascot R3                | 5 Censure             |  7.5  |    -10   |
+| 7                 | 2021-03-17 | ascot R3                | 5 Censure             |  9    |    -10   |
 | 5                 | 2021-03-17 | kensington R4           | 2 Shadow Crush        |  4.2  |    -10   |
 | 5                 | 2021-03-14 | port-lincoln R7         | 5 Witch Kid           |  7.5  |    -10   |
 | :boom:            | 2021-03-14 | hobart R1               | 1 Street Tough        |  2    |     10   |
 | 4                 | 2021-03-14 | port-lincoln R1         | 2 Artful Rambler      |  6.1  |    -10   |
-| 0                 | 2021-03-13 | moonee-valley R9        | 10 The Billionaire    |  2.9  |    -10   |
 | :3rd_place_medal: | 2021-03-13 | rosehill R8             | 6 Rock                |  6    |    -10   |
 | :2nd_place_medal: | 2021-03-13 | morphettville-parks R7  | 10 Sadente            |  5.5  |    -10   |
 | :boom:            | 2021-03-13 | darwin R2               | 1 Papalet             |  1.5  |      5   |
