@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-01 07:45:57 +1000  
+date: 2021-12-01 13:18:25 +1000  
 ---   
 
 
@@ -47,22 +47,41 @@ date: 2021-12-01 07:45:57 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6373 |    877 | -13506.3 | 0.14 | -0.21 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7885 |    416 | -17017   | 0.05 | -0.22 |
 
-|    | finish            | time                | track       |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | 4.0               | 2021-12-01 03:15:00 | newcastle   |      2 |        5 | Dance At Night     |   4.6  | looseknot          |
-|  1 | :3rd_place_medal: | 2021-12-01 02:30:00 | southwell   |      7 |        8 | Thundersockssundae |   4.2  | overthrow          |
-|  2 | --                | 2021-12-01 02:30:00 | southwell   |      7 |       13 | Global Protektor   |  13    | overthrow          |
-|  3 | 4.0               | 2021-12-01 02:00:00 | southwell   |      6 |        7 | Midnight Centurion |   3    | vulture            |
-|  4 | :boom:            | 2021-12-01 02:00:00 | southwell   |      6 |        6 | Lydford            |   1.6  | evenodds,overthrow |
-|  5 | 4.0               | 2021-12-01 01:30:00 | southwell   |      5 |       10 | Whenthepennydrops  |   4    | overthrow          |
-|  6 | :boom:            | 2021-12-01 00:25:00 | southwell   |      3 |        4 | Across The Line    |   4    | evenodds,overthrow |
-|  7 | --                | 2021-12-01 00:10:00 | lingfield   |      4 |        3 | Kaasirr            |   2.6  | vulture            |
-|  8 | :3rd_place_medal: | 2021-12-01 00:05:00 | turffontein |      7 |        8 | Rain In Holland    |   3.4  | milkman            |
-|  9 | 4.0               | 2021-11-30 23:55:00 | southwell   |      2 |        1 | Une De La Seniere  |   3.4  | overthrow          |
-| 10 | :boom:            | 2021-11-30 23:30:00 | turffontein |      6 |        2 | Safe Passage       |   4.6  | vulture,milkman    |
-| 11 | :3rd_place_medal: | 2021-11-30 23:30:00 | turffontein |      6 |        5 | Aragosta           |   6    | pangea,icyhot      |
-| 12 | --                | 2021-11-30 23:10:00 | lingfield   |      2 |        4 | If You Can Dream   |   6    | looseknot          |
-| 13 | :3rd_place_medal: | 2021-11-30 22:40:00 | lingfield   |      1 |       10 | Hannalite          |   8    | looseknot          |
-| 14 | :2nd_place_medal: | 2021-11-30 22:20:00 | turffontein |      4 |        7 | Big Burn           |   4    | milkman            |
-| 15 | :2nd_place_medal: | 2021-11-30 20:40:00 | turffontein |      1 |        3 | Angelsea           |   2.25 | vulture            |
-| 16 | :3rd_place_medal: | 2021-11-30 14:25:00 | tamworth    |      3 |        9 | Bullinachinashop   |   4.8  | pangea             |
+|    | finish   | time                | track                     |   race |   number | name             |   odds | tipster            |
+|---:|:---------|:--------------------|:--------------------------|-------:|---------:|:-----------------|-------:|:-------------------|
+|  0 | :soon:   | 2021-12-02 04:30:00 | kempton                   |      4 |        1 | Outbox           |   8.5  | pangea             |
+|  1 | :soon:   | 2021-12-02 04:30:00 | kempton                   |      4 |        5 | Siskany          |   1.6  | overthrow          |
+|  2 | :soon:   | 2021-12-02 02:20:00 | haydock                   |      6 |       14 | Scarpia          |  17    | overthrow          |
+|  3 | :soon:   | 2021-12-02 02:20:00 | haydock                   |      6 |       11 | Gran Luna        |   8.5  | milkman            |
+|  4 | :soon:   | 2021-12-02 02:00:00 | lingfield                 |      7 |        2 | Carnival Girl    |   2.05 | overthrow          |
+|  5 | :soon:   | 2021-12-02 01:50:00 | haydock                   |      5 |        3 | Ami Desbois      |   6.5  | overthrow          |
+|  6 | :soon:   | 2021-12-02 01:50:00 | haydock                   |      5 |        7 | Blaklion         |   6.5  | overthrow          |
+|  7 | :soon:   | 2021-12-02 01:30:00 | lingfield                 |      6 |        2 | Azaheer          |   6.5  | overthrow          |
+|  8 | :soon:   | 2021-12-02 01:25:00 | kenilworth                |      7 |        6 | Double Charge    |   0    | vulture            |
+|  9 | :soon:   | 2021-12-02 01:20:00 | haydock                   |      4 |        5 | Mind Sunday      |   6    | evenodds,overthrow |
+| 10 | :soon:   | 2021-12-02 01:20:00 | haydock                   |      4 |        1 | A Different Kind |   1.95 | vulture            |
+| 11 | :soon:   | 2021-12-02 00:50:00 | haydock                   |      3 |        1 | Burrows Edge     |   6.5  | overthrow          |
+| 12 | :soon:   | 2021-12-01 23:20:00 | lingfield                 |      2 |       10 | My Ambition      |   9.5  | looseknot          |
+| 13 | :soon:   | 2021-12-01 23:20:00 | lingfield                 |      2 |       11 | Cheese The One   |   7.5  | looseknot          |
+| 14 | :soon:   | 2021-12-01 23:20:00 | lingfield                 |      2 |        6 | Gidwa            |   6    | looseknot          |
+| 15 | :soon:   | 2021-12-01 23:00:00 | kenilworth                |      3 |        1 | Que Shiraz       |   0    | pangea             |
+| 16 | :soon:   | 2021-12-01 22:00:00 | launceston                |      8 |        3 | Tavisplash       |   1.65 | pangea             |
+| 17 | :soon:   | 2021-12-01 21:30:00 | launceston                |      7 |        2 | Judge Burns      |   8    | benny,pangea       |
+| 18 | :soon:   | 2021-12-01 21:00:00 | launceston                |      6 |        5 | Weekend Whisky   |   4.75 | pangea             |
+| 19 | :soon:   | 2021-12-01 21:00:00 | launceston                |      6 |        4 | Weldborough      |   3.25 | benny,pangea       |
+| 20 | :soon:   | 2021-12-01 20:10:00 | belmont                   |      9 |        7 | Agent Kensington |   8.5  | pangea,blackshadow |
+| 21 | :soon:   | 2021-12-01 19:50:00 | launceston                |      4 |        8 | Majestic Diamond |   7    | overthrow,milkman  |
+| 22 | :soon:   | 2021-12-01 19:50:00 | launceston                |      4 |        3 | Alpine Wolf      |   4.2  | vulture,milkman    |
+| 23 | :soon:   | 2021-12-01 19:50:00 | launceston                |      4 |        1 | Turk Warrior     |   1.95 | pangea             |
+| 24 | :soon:   | 2021-12-01 19:50:00 | launceston                |      4 |        7 | Miss Tuppence    |   4.33 | milkman            |
+| 25 | :soon:   | 2021-12-01 19:50:00 | launceston                |      4 |        2 | Outbound         |   7    | evenodds,overthrow |
+| 26 | :soon:   | 2021-12-01 19:40:00 | belmont                   |      8 |       10 | My Marlaina      |   3.75 | pikey              |
+| 27 | :soon:   | 2021-12-01 19:20:00 | launceston                |      3 |        9 | Summer Fire      |   1.65 | evenodds,overthrow |
+| 28 | :soon:   | 2021-12-01 19:10:00 | belmont                   |      7 |        9 | Western Rhythm   |   5    | pikey              |
+| 29 | :soon:   | 2021-12-01 17:19:00 | belmont                   |      4 |       10 | Story Book       |   4.33 | pikey              |
+| 30 | :soon:   | 2021-12-01 16:44:00 | belmont                   |      3 |        2 | Roch Legacy      |   9.5  | pikey              |
+| 31 | :soon:   | 2021-12-01 16:40:00 | warwick-farm              |      5 |        8 | Hollywood Gossip |   3.1  | vulture,jmac       |
+| 32 | :soon:   | 2021-12-01 15:34:00 | belmont                   |      1 |        2 | Astrape          |   2.3  | overthrow          |
+| 33 | :soon:   | 2021-12-01 15:34:00 | belmont                   |      1 |        8 | My Dilemma       |   4.2  | pikey              |
+| 34 | :soon:   | 2021-12-01 14:38:00 | sunshine-coast-poly-track |      2 |        6 | Canny Impact     |   6    | looseknot          |
+| 35 | :soon:   | 2021-12-01 14:20:00 | warwick-farm              |      1 |        6 | Kipsbay          |   5.5  | jmac               |
