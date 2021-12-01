@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-01 17:00:16 +1000  
+date: 2021-12-01 17:15:14 +1000  
 ---   
 
 
@@ -15,8 +15,8 @@ date: 2021-12-01 17:00:16 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      8 |     30.5 | 0.4  |  0.15 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      6 |     29   | 0.3  |  0.14 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      7 |     24   | 0.35 |  0.12 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |      3   | 0.2  |  0.02 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      6 |     -7   | 0.3  | -0.04 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |    -10.5 | 0.2  | -0.05 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |    -12   | 0.2  | -0.06 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      4 |    -14   | 0.2  | -0.07 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -38   | 0.25 | -0.19 |
@@ -36,11 +36,11 @@ date: 2021-12-01 17:00:16 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    203 |     61 |   -232.9 | 0.3  | -0.11 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    334 |     86 |   -286.6 | 0.26 | -0.09 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    349 |     71 |   -298.5 | 0.2  | -0.09 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    336 |     66 |   -888   | 0.2  | -0.26 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    493 |    124 |   -990   | 0.25 | -0.2  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    208 |     32 |  -1211.5 | 0.15 | -0.58 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    702 |    101 |  -1293.6 | 0.14 | -0.18 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    615 |    159 |  -1380.1 | 0.26 | -0.22 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1783 |    364 |  -2194.6 | 0.2  | -0.12 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2066 |    468 |  -3019.5 | 0.23 | -0.15 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2561 |    134 |  -3295   | 0.05 | -0.13 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3084 |    691 |  -6129.3 | 0.22 | -0.2  |
@@ -79,7 +79,7 @@ date: 2021-12-01 17:00:16 +1000
 | 27 | :soon:            | 2021-12-01 19:20:00 | launceston                |      3 |        9 | Summer Fire      |   1.65 | evenodds,overthrow |
 | 28 | :soon:            | 2021-12-01 19:10:00 | belmont                   |      7 |        9 | Western Rhythm   |   5    | pikey              |
 | 29 | :soon:            | 2021-12-01 17:19:00 | belmont                   |      4 |       10 | Story Book       |   4.33 | pikey              |
-| 30 | --                | 2021-12-01 16:44:00 | belmont                   |      3 |        2 | Roch Legacy      |   9.5  | pikey              |
+| 30 | 5.0               | 2021-12-01 16:44:00 | belmont                   |      3 |        2 | Roch Legacy      |   9.5  | pikey              |
 | 31 | :boom:            | 2021-12-01 16:40:00 | warwick-farm              |      5 |        8 | Hollywood Gossip |   3.1  | vulture,jmac       |
 | 32 | :3rd_place_medal: | 2021-12-01 15:34:00 | belmont                   |      1 |        2 | Astrape          |   2.3  | overthrow          |
 | 33 | :boom:            | 2021-12-01 15:34:00 | belmont                   |      1 |        8 | My Dilemma       |   4.2  | pikey              |
