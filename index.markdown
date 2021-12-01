@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-01 21:59:25 +1000  
+date: 2021-12-01 22:18:43 +1000  
 ---   
 
 
@@ -65,7 +65,7 @@ date: 2021-12-01 21:59:25 +1000
 | 13 | :soon:            | 2021-12-01 23:20:00 | lingfield                 |      2 |       11 | Cheese The One   |   7.5  | looseknot          |
 | 14 | :soon:            | 2021-12-01 23:20:00 | lingfield                 |      2 |        6 | Gidwa            |   6    | looseknot          |
 | 15 | :soon:            | 2021-12-01 23:00:00 | kenilworth                |      3 |        1 | Que Shiraz       |   0    | pangea             |
-| 16 | :soon:            | 2021-12-01 22:00:00 | launceston                |      8 |        3 | Tavisplash       |   1.65 | pangea             |
+| 16 | :boom:            | 2021-12-01 22:00:00 | launceston                |      8 |        3 | Tavisplash       |   1.65 | pangea             |
 | 17 | 8.0               | 2021-12-01 21:30:00 | launceston                |      7 |        2 | Judge Burns      |   8    | benny,pangea       |
 | 18 | :3rd_place_medal: | 2021-12-01 21:00:00 | launceston                |      6 |        5 | Weekend Whisky   |   4.75 | pangea             |
 | 19 | :boom:            | 2021-12-01 21:00:00 | launceston                |      6 |        4 | Weldborough      |   3.25 | benny,pangea       |
