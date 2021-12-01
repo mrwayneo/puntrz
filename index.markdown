@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-01 14:43:11 +1000  
+date: 2021-12-01 14:59:19 +1000  
 ---   
 
 
@@ -83,5 +83,5 @@ date: 2021-12-01 14:43:11 +1000
 | 31 | :soon:   | 2021-12-01 16:40:00 | warwick-farm              |      5 |        8 | Hollywood Gossip |   3.1  | vulture,jmac       |
 | 32 | :soon:   | 2021-12-01 15:34:00 | belmont                   |      1 |        2 | Astrape          |   2.3  | overthrow          |
 | 33 | :soon:   | 2021-12-01 15:34:00 | belmont                   |      1 |        8 | My Dilemma       |   4.2  | pikey              |
-| 34 | --       | 2021-12-01 14:38:00 | sunshine-coast-poly-track |      2 |        6 | Canny Impact     |   6    | looseknot          |
-| 35 | --       | 2021-12-01 14:20:00 | warwick-farm              |      1 |        6 | Kipsbay          |   5.5  | jmac               |
+| 34 | 4.0      | 2021-12-01 14:38:00 | sunshine-coast-poly-track |      2 |        6 | Canny Impact     |   6    | looseknot          |
+| 35 | 6.0      | 2021-12-01 14:20:00 | warwick-farm              |      1 |        6 | Kipsbay          |   5.5  | jmac               |
