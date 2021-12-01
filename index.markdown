@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-01 20:11:55 +1000  
+date: 2021-12-01 20:26:58 +1000  
 ---   
 
 
@@ -69,12 +69,12 @@ date: 2021-12-01 20:11:55 +1000
 | 17 | :soon:            | 2021-12-01 21:30:00 | launceston                |      7 |        2 | Judge Burns      |   8    | benny,pangea       |
 | 18 | :soon:            | 2021-12-01 21:00:00 | launceston                |      6 |        5 | Weekend Whisky   |   4.75 | pangea             |
 | 19 | :soon:            | 2021-12-01 21:00:00 | launceston                |      6 |        4 | Weldborough      |   3.25 | benny,pangea       |
-| 20 | --                | 2021-12-01 20:10:00 | belmont                   |      9 |        7 | Agent Kensington |   8.5  | pangea,blackshadow |
+| 20 | 4.0               | 2021-12-01 20:10:00 | belmont                   |      9 |        7 | Agent Kensington |   8.5  | pangea,blackshadow |
 | 21 | :3rd_place_medal: | 2021-12-01 19:50:00 | launceston                |      4 |        8 | Majestic Diamond |   7    | overthrow,milkman  |
 | 22 | :2nd_place_medal: | 2021-12-01 19:50:00 | launceston                |      4 |        3 | Alpine Wolf      |   4.2  | vulture,milkman    |
 | 23 | :boom:            | 2021-12-01 19:50:00 | launceston                |      4 |        1 | Turk Warrior     |   1.95 | pangea             |
-| 24 | --                | 2021-12-01 19:50:00 | launceston                |      4 |        7 | Miss Tuppence    |   4.33 | milkman            |
-| 25 | --                | 2021-12-01 19:50:00 | launceston                |      4 |        2 | Outbound         |   7    | evenodds,overthrow |
+| 24 | 8.0               | 2021-12-01 19:50:00 | launceston                |      4 |        7 | Miss Tuppence    |   4.33 | milkman            |
+| 25 | 5.0               | 2021-12-01 19:50:00 | launceston                |      4 |        2 | Outbound         |   7    | evenodds,overthrow |
 | 26 | :3rd_place_medal: | 2021-12-01 19:40:00 | belmont                   |      8 |       10 | My Marlaina      |   3.75 | pikey              |
 | 27 | :boom:            | 2021-12-01 19:20:00 | launceston                |      3 |        9 | Summer Fire      |   1.65 | evenodds,overthrow |
 | 28 | :2nd_place_medal: | 2021-12-01 19:10:00 | belmont                   |      7 |        9 | Western Rhythm   |   5    | pikey              |
