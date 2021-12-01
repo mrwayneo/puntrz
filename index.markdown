@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-01 16:30:19 +1000  
+date: 2021-12-01 16:45:26 +1000  
 ---   
 
 
@@ -79,8 +79,8 @@ date: 2021-12-01 16:30:19 +1000
 | 27 | :soon:            | 2021-12-01 19:20:00 | launceston                |      3 |        9 | Summer Fire      |   1.65 | evenodds,overthrow |
 | 28 | :soon:            | 2021-12-01 19:10:00 | belmont                   |      7 |        9 | Western Rhythm   |   5    | pikey              |
 | 29 | :soon:            | 2021-12-01 17:19:00 | belmont                   |      4 |       10 | Story Book       |   4.33 | pikey              |
-| 30 | :soon:            | 2021-12-01 16:44:00 | belmont                   |      3 |        2 | Roch Legacy      |   9.5  | pikey              |
-| 31 | :soon:            | 2021-12-01 16:40:00 | warwick-farm              |      5 |        8 | Hollywood Gossip |   3.1  | vulture,jmac       |
+| 30 | --                | 2021-12-01 16:44:00 | belmont                   |      3 |        2 | Roch Legacy      |   9.5  | pikey              |
+| 31 | --                | 2021-12-01 16:40:00 | warwick-farm              |      5 |        8 | Hollywood Gossip |   3.1  | vulture,jmac       |
 | 32 | :3rd_place_medal: | 2021-12-01 15:34:00 | belmont                   |      1 |        2 | Astrape          |   2.3  | overthrow          |
 | 33 | :boom:            | 2021-12-01 15:34:00 | belmont                   |      1 |        8 | My Dilemma       |   4.2  | pikey              |
 | 34 | 4.0               | 2021-12-01 14:38:00 | sunshine-coast-poly-track |      2 |        6 | Canny Impact     |   6    | looseknot          |
