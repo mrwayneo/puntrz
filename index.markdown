@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-01 19:18:01 +1000  
+date: 2021-12-01 19:32:58 +1000  
 ---   
 
 
@@ -43,7 +43,7 @@ date: 2021-12-01 19:18:01 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1715 |    366 |  -1445.6 | 0.21 | -0.08 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2472 |    134 |  -2405   | 0.05 | -0.1  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2021 |    468 |  -2569.5 | 0.23 | -0.13 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2938 |    697 |  -4694.5 | 0.24 | -0.16 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2935 |    701 |  -4499   | 0.24 | -0.15 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5978 |    892 |  -8534.8 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7721 |    416 | -15377   | 0.05 | -0.2  |
 
@@ -76,7 +76,7 @@ date: 2021-12-01 19:18:01 +1000
 | 24 | :soon:            | 2021-12-01 19:50:00 | launceston                |      4 |        7 | Miss Tuppence    |   4.33 | milkman            |
 | 25 | :soon:            | 2021-12-01 19:50:00 | launceston                |      4 |        2 | Outbound         |   7    | evenodds,overthrow |
 | 26 | :soon:            | 2021-12-01 19:40:00 | belmont                   |      8 |       10 | My Marlaina      |   3.75 | pikey              |
-| 27 | :soon:            | 2021-12-01 19:20:00 | launceston                |      3 |        9 | Summer Fire      |   1.65 | evenodds,overthrow |
+| 27 | :boom:            | 2021-12-01 19:20:00 | launceston                |      3 |        9 | Summer Fire      |   1.65 | evenodds,overthrow |
 | 28 | :2nd_place_medal: | 2021-12-01 19:10:00 | belmont                   |      7 |        9 | Western Rhythm   |   5    | pikey              |
 | 29 | 9.0               | 2021-12-01 17:19:00 | belmont                   |      4 |       10 | Story Book       |   4.33 | pikey              |
 | 30 | 5.0               | 2021-12-01 16:44:00 | belmont                   |      3 |        2 | Roch Legacy      |   9.5  | pikey              |
