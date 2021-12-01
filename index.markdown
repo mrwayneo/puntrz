@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-01 17:30:23 +1000  
+date: 2021-12-01 17:45:31 +1000  
 ---   
 
 
@@ -44,7 +44,7 @@ date: 2021-12-01 17:30:23 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2066 |    468 |  -3019.5 | 0.23 | -0.15 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2561 |    134 |  -3295   | 0.05 | -0.13 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3084 |    691 |  -6129.3 | 0.22 | -0.2  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6373 |    877 | -13506.3 | 0.14 | -0.21 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6373 |    886 | -12888.8 | 0.14 | -0.2  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7885 |    416 | -17017   | 0.05 | -0.22 |
 
 |    | finish            | time                | track                     |   race |   number | name             |   odds | tipster            |
