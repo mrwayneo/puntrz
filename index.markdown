@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-01 18:48:02 +1000  
+date: 2021-12-01 19:02:57 +1000  
 ---   
 
 
@@ -13,7 +13,6 @@ date: 2021-12-01 18:48:02 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      8 |    142   | 0.4  |  0.71 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      2 |     63   | 0.1  |  0.32 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      8 |     30.5 | 0.4  |  0.15 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      6 |     29   | 0.3  |  0.14 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      7 |     24   | 0.35 |  0.12 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |      3   | 0.2  |  0.02 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      6 |     -7   | 0.3  | -0.04 |
@@ -22,6 +21,7 @@ date: 2021-12-01 18:48:02 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -38   | 0.25 | -0.19 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |    -64   | 0.05 | -0.32 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      6 |    -78   | 0.3  | -0.39 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      3 |   -112   | 0.15 | -0.56 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |   -124   | 0.15 | -0.62 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      0 |   -200   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
@@ -30,7 +30,7 @@ date: 2021-12-01 18:48:02 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    181 |     52 |    179.5 | 0.29 |  0.1  |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    268 |     73 |    274.5 | 0.27 |  0.1  |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     40 |      9 |    143.5 | 0.22 |  0.36 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     44 |      6 |   -219   | 0.14 | -0.5  |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    203 |     61 |   -232.9 | 0.3  | -0.11 |
@@ -43,7 +43,7 @@ date: 2021-12-01 18:48:02 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1783 |    366 |  -2125.6 | 0.21 | -0.12 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2066 |    468 |  -3019.5 | 0.23 | -0.15 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2561 |    134 |  -3295   | 0.05 | -0.13 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3084 |    691 |  -6129.3 | 0.22 | -0.2  |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   3084 |    697 |  -6154.5 | 0.23 | -0.2  |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6373 |    892 | -12484.8 | 0.14 | -0.2  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7885 |    416 | -17017   | 0.05 | -0.22 |
 
