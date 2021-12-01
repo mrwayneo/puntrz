@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-01 22:55:34 +1000  
+date: 2021-12-02 06:01:05 +1000  
 ---   
 
 
@@ -30,41 +30,41 @@ date: 2021-12-01 22:55:34 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    264 |     73 |    314.5 | 0.28 |  0.12 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    266 |     74 |    334.5 | 0.28 |  0.13 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     37 |      9 |    173.5 | 0.24 |  0.47 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    313 |     86 |    -76.6 | 0.27 | -0.02 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    336 |     71 |   -168.5 | 0.21 | -0.05 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    197 |     61 |   -172.9 | 0.31 | -0.09 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    312 |     86 |    -66.6 | 0.28 | -0.02 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    338 |     72 |   -111.5 | 0.21 | -0.03 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    196 |     61 |   -162.9 | 0.31 | -0.08 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     44 |      6 |   -219   | 0.14 | -0.5  |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    473 |    124 |   -790   | 0.26 | -0.17 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    690 |    101 |  -1173.6 | 0.15 | -0.17 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    205 |     32 |  -1181.5 | 0.16 | -0.58 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    602 |    159 |  -1250.1 | 0.26 | -0.21 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1715 |    366 |  -1445.6 | 0.21 | -0.08 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2472 |    134 |  -2405   | 0.05 | -0.1  |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2021 |    468 |  -2569.5 | 0.23 | -0.13 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2935 |    701 |  -4499   | 0.24 | -0.15 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5978 |    892 |  -8534.8 | 0.15 | -0.14 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7721 |    416 | -15377   | 0.05 | -0.2  |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    478 |    125 |   -792   | 0.26 | -0.17 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    691 |    101 |  -1183.6 | 0.15 | -0.17 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    209 |     32 |  -1221.5 | 0.15 | -0.58 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    602 |    160 |  -1236.1 | 0.27 | -0.21 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1719 |    369 |  -1374.6 | 0.21 | -0.08 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2473 |    133 |  -2450   | 0.05 | -0.1  |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2028 |    470 |  -2585.5 | 0.23 | -0.13 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2933 |    703 |  -4440.8 | 0.24 | -0.15 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5973 |    892 |  -8482.5 | 0.15 | -0.14 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7701 |    415 | -15212   | 0.05 | -0.2  |
 
 |    | finish            | time                | track                     |   race |   number | name             |   odds | tipster            |
 |---:|:------------------|:--------------------|:--------------------------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | :soon:            | 2021-12-02 04:30:00 | kempton                   |      4 |        1 | Outbox           |   8.5  | pangea             |
-|  1 | :soon:            | 2021-12-02 04:30:00 | kempton                   |      4 |        5 | Siskany          |   1.6  | overthrow          |
-|  2 | :soon:            | 2021-12-02 02:20:00 | haydock                   |      6 |       14 | Scarpia          |  17    | overthrow          |
-|  3 | :soon:            | 2021-12-02 02:20:00 | haydock                   |      6 |       11 | Gran Luna        |   8.5  | milkman            |
-|  4 | :soon:            | 2021-12-02 02:00:00 | lingfield                 |      7 |        2 | Carnival Girl    |   2.05 | overthrow          |
-|  5 | :soon:            | 2021-12-02 01:50:00 | haydock                   |      5 |        3 | Ami Desbois      |   6.5  | overthrow          |
-|  6 | :soon:            | 2021-12-02 01:50:00 | haydock                   |      5 |        7 | Blaklion         |   6.5  | overthrow          |
-|  7 | :soon:            | 2021-12-02 01:30:00 | lingfield                 |      6 |        2 | Azaheer          |   6.5  | overthrow          |
-|  8 | :soon:            | 2021-12-02 01:25:00 | kenilworth                |      7 |        6 | Double Charge    |   0    | vulture            |
-|  9 | :soon:            | 2021-12-02 01:20:00 | haydock                   |      4 |        5 | Mind Sunday      |   6    | evenodds,overthrow |
-| 10 | :soon:            | 2021-12-02 01:20:00 | haydock                   |      4 |        1 | A Different Kind |   1.95 | vulture            |
-| 11 | :soon:            | 2021-12-02 00:50:00 | haydock                   |      3 |        1 | Burrows Edge     |   6.5  | overthrow          |
-| 12 | :soon:            | 2021-12-01 23:20:00 | lingfield                 |      2 |       10 | My Ambition      |   9.5  | looseknot          |
-| 13 | :soon:            | 2021-12-01 23:20:00 | lingfield                 |      2 |       11 | Cheese The One   |   7.5  | looseknot          |
-| 14 | :soon:            | 2021-12-01 23:20:00 | lingfield                 |      2 |        6 | Gidwa            |   6    | looseknot          |
-| 15 | :soon:            | 2021-12-01 23:00:00 | kenilworth                |      3 |        1 | Que Shiraz       |   0    | pangea             |
+|  0 | --                | 2021-12-02 04:30:00 | kempton                   |      4 |        1 | Outbox           |   8.5  | pangea             |
+|  1 | :2nd_place_medal: | 2021-12-02 04:30:00 | kempton                   |      4 |        5 | Siskany          |   1.6  | overthrow          |
+|  2 | --                | 2021-12-02 02:20:00 | haydock                   |      6 |       14 | Scarpia          |  17    | overthrow          |
+|  3 | --                | 2021-12-02 02:20:00 | haydock                   |      6 |       11 | Gran Luna        |   8.5  | milkman            |
+|  4 | :3rd_place_medal: | 2021-12-02 02:00:00 | lingfield                 |      7 |        2 | Carnival Girl    |   2.05 | overthrow          |
+|  5 | --                | 2021-12-02 01:50:00 | haydock                   |      5 |        3 | Ami Desbois      |   6.5  | overthrow          |
+|  6 | :boom:            | 2021-12-02 01:50:00 | haydock                   |      5 |        7 | Blaklion         |   6.5  | overthrow          |
+|  7 | :2nd_place_medal: | 2021-12-02 01:30:00 | lingfield                 |      6 |        2 | Azaheer          |   6.5  | overthrow          |
+|  8 | :2nd_place_medal: | 2021-12-02 01:25:00 | kenilworth                |      7 |        6 | Double Charge    |   0    | vulture            |
+|  9 | :3rd_place_medal: | 2021-12-02 01:20:00 | haydock                   |      4 |        5 | Mind Sunday      |   6    | evenodds,overthrow |
+| 10 | :boom:            | 2021-12-02 01:20:00 | haydock                   |      4 |        1 | A Different Kind |   1.95 | vulture            |
+| 11 | 4.0               | 2021-12-02 00:50:00 | haydock                   |      3 |        1 | Burrows Edge     |   6.5  | overthrow          |
+| 12 | --                | 2021-12-01 23:20:00 | lingfield                 |      2 |       10 | My Ambition      |   9.5  | looseknot          |
+| 13 | --                | 2021-12-01 23:20:00 | lingfield                 |      2 |       11 | Cheese The One   |   7.5  | looseknot          |
+| 14 | --                | 2021-12-01 23:20:00 | lingfield                 |      2 |        6 | Gidwa            |   6    | looseknot          |
+| 15 | :2nd_place_medal: | 2021-12-01 23:00:00 | kenilworth                |      3 |        1 | Que Shiraz       |   0    | pangea             |
 | 16 | :boom:            | 2021-12-01 22:00:00 | launceston                |      8 |        3 | Tavisplash       |   1.65 | pangea             |
 | 17 | 8.0               | 2021-12-01 21:30:00 | launceston                |      7 |        2 | Judge Burns      |   8    | benny,pangea       |
 | 18 | :3rd_place_medal: | 2021-12-01 21:00:00 | launceston                |      6 |        5 | Weekend Whisky   |   4.75 | pangea             |
