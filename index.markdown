@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-01 16:45:26 +1000  
+date: 2021-12-01 17:00:16 +1000  
 ---   
 
 
@@ -34,8 +34,8 @@ date: 2021-12-01 16:45:26 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     40 |      9 |    143.5 | 0.22 |  0.36 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     44 |      6 |   -219   | 0.14 | -0.5  |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    203 |     61 |   -232.9 | 0.3  | -0.11 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    334 |     86 |   -286.6 | 0.26 | -0.09 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    349 |     71 |   -298.5 | 0.2  | -0.09 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    334 |     85 |   -317.6 | 0.25 | -0.1  |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |    336 |     66 |   -888   | 0.2  | -0.26 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    493 |    124 |   -990   | 0.25 | -0.2  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    208 |     32 |  -1211.5 | 0.15 | -0.58 |
@@ -80,7 +80,7 @@ date: 2021-12-01 16:45:26 +1000
 | 28 | :soon:            | 2021-12-01 19:10:00 | belmont                   |      7 |        9 | Western Rhythm   |   5    | pikey              |
 | 29 | :soon:            | 2021-12-01 17:19:00 | belmont                   |      4 |       10 | Story Book       |   4.33 | pikey              |
 | 30 | --                | 2021-12-01 16:44:00 | belmont                   |      3 |        2 | Roch Legacy      |   9.5  | pikey              |
-| 31 | --                | 2021-12-01 16:40:00 | warwick-farm              |      5 |        8 | Hollywood Gossip |   3.1  | vulture,jmac       |
+| 31 | :boom:            | 2021-12-01 16:40:00 | warwick-farm              |      5 |        8 | Hollywood Gossip |   3.1  | vulture,jmac       |
 | 32 | :3rd_place_medal: | 2021-12-01 15:34:00 | belmont                   |      1 |        2 | Astrape          |   2.3  | overthrow          |
 | 33 | :boom:            | 2021-12-01 15:34:00 | belmont                   |      1 |        8 | My Dilemma       |   4.2  | pikey              |
 | 34 | 4.0               | 2021-12-01 14:38:00 | sunshine-coast-poly-track |      2 |        6 | Canny Impact     |   6    | looseknot          |
