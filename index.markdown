@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-01 20:56:56 +1000  
+date: 2021-12-01 21:29:04 +1000  
 ---   
 
 
@@ -67,8 +67,8 @@ date: 2021-12-01 20:56:56 +1000
 | 15 | :soon:            | 2021-12-01 23:00:00 | kenilworth                |      3 |        1 | Que Shiraz       |   0    | pangea             |
 | 16 | :soon:            | 2021-12-01 22:00:00 | launceston                |      8 |        3 | Tavisplash       |   1.65 | pangea             |
 | 17 | :soon:            | 2021-12-01 21:30:00 | launceston                |      7 |        2 | Judge Burns      |   8    | benny,pangea       |
-| 18 | :soon:            | 2021-12-01 21:00:00 | launceston                |      6 |        5 | Weekend Whisky   |   4.75 | pangea             |
-| 19 | :soon:            | 2021-12-01 21:00:00 | launceston                |      6 |        4 | Weldborough      |   3.25 | benny,pangea       |
+| 18 | :3rd_place_medal: | 2021-12-01 21:00:00 | launceston                |      6 |        5 | Weekend Whisky   |   4.75 | pangea             |
+| 19 | :boom:            | 2021-12-01 21:00:00 | launceston                |      6 |        4 | Weldborough      |   3.25 | benny,pangea       |
 | 20 | 4.0               | 2021-12-01 20:10:00 | belmont                   |      9 |        7 | Agent Kensington |   8.5  | pangea,blackshadow |
 | 21 | :3rd_place_medal: | 2021-12-01 19:50:00 | launceston                |      4 |        8 | Majestic Diamond |   7    | overthrow,milkman  |
 | 22 | :2nd_place_medal: | 2021-12-01 19:50:00 | launceston                |      4 |        3 | Alpine Wolf      |   4.2  | vulture,milkman    |
