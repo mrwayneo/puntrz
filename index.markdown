@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-03 04:51:39 +1000  
+date: 2021-12-03 04:58:15 +1000  
 ---   
 
 
@@ -10,7 +10,7 @@ date: 2021-12-03 04:51:39 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     87 |     27 |    793.9 | 0.31 |  0.91 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     82 |     11 |    195   | 0.13 |  0.24 |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     81 |     11 |    205   | 0.14 |  0.25 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   4120 |    245 |     80   | 0.06 |  0    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    466 |    123 |     71.5 | 0.26 |  0.02 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    361 |    125 |    -37.4 | 0.35 | -0.01 |
@@ -19,11 +19,11 @@ date: 2021-12-03 04:51:39 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   2965 |    665 |   -812.7 | 0.22 | -0.03 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    624 |    160 |  -1012   | 0.26 | -0.16 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |   1093 |    166 |  -1464.3 | 0.15 | -0.13 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    985 |    279 |  -1772.8 | 0.28 | -0.18 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1916 |    495 |  -2249.2 | 0.26 | -0.12 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   3576 |    898 |  -3046.9 | 0.25 | -0.09 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   4821 |   1192 |  -5836.1 | 0.25 | -0.12 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   9590 |   1551 | -11986.4 | 0.16 | -0.12 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    985 |    280 |  -1760.2 | 0.28 | -0.18 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1914 |    495 |  -2229.2 | 0.26 | -0.12 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   3550 |    901 |  -2714   | 0.25 | -0.08 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   4821 |   1193 |  -5823.5 | 0.25 | -0.12 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   9574 |   1553 | -11859.7 | 0.16 | -0.12 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |  14822 |    788 | -27792   | 0.05 | -0.19 |
 
 ##### Form Last 20 tips   
@@ -59,32 +59,32 @@ date: 2021-12-03 04:51:39 +1000
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     43 |      6 |   -209   | 0.14 | -0.49 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    666 |    107 |   -660.8 | 0.16 | -0.1  |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    478 |    128 |   -708   | 0.27 | -0.15 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    584 |    168 |   -906.6 | 0.29 | -0.16 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1990 |    490 |  -1156.8 | 0.25 | -0.06 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1971 |    493 |   -893.9 | 0.25 | -0.05 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    584 |    169 |   -894   | 0.29 | -0.15 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1705 |    369 |  -1225.6 | 0.22 | -0.07 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1079 |    259 |  -1779.9 | 0.24 | -0.16 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1077 |    259 |  -1759.9 | 0.24 | -0.16 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2434 |    133 |  -2060   | 0.05 | -0.08 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2869 |    709 |  -3537.3 | 0.25 | -0.12 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5971 |    889 |  -8727   | 0.15 | -0.15 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2869 |    710 |  -3524.7 | 0.25 | -0.12 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5958 |    889 |  -8690.3 | 0.15 | -0.15 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7695 |    416 | -15081   | 0.05 | -0.2  |
 
 |    | finish            | time                | track           |   race |   number | name            |   odds | tipster            |
 |---:|:------------------|:--------------------|:----------------|-------:|---------:|:----------------|-------:|:-------------------|
 |  0 | :3rd_place_medal: | 2021-12-03 03:00:00 | chelmsford-city |      1 |        7 | Mc'ted          |   4.8  | looseknot          |
-|  1 | --                | 2021-12-03 02:15:00 | wincanton       |      6 |        3 | My Lady Grey    |   3.8  | vulture            |
+|  1 | :3rd_place_medal: | 2021-12-03 02:15:00 | wincanton       |      6 |        3 | My Lady Grey    |   3.8  | vulture            |
 |  2 | --                | 2021-12-03 01:45:00 | wincanton       |      5 |        2 | Tulin           |   4.4  | pangea,blackshadow |
 |  3 | :3rd_place_medal: | 2021-12-03 01:37:00 | leicester       |      4 |       12 | Runwiththetide  |   4.4  | overthrow          |
-|  4 | :boom:            | 2021-12-03 01:07:00 | leicester       |      3 |        5 | Go Steady       |   6    | overthrow          |
-|  5 | :2nd_place_medal: | 2021-12-03 00:45:00 | wincanton       |      3 |        4 | Don Alvaro      |   5.5  | overthrow          |
+|  4 | --                | 2021-12-03 01:07:00 | leicester       |      3 |        5 | Go Steady       |   6    | overthrow          |
+|  5 | --                | 2021-12-03 00:45:00 | wincanton       |      3 |        4 | Don Alvaro      |   5.5  | overthrow          |
 |  6 | :boom:            | 2021-12-03 00:37:00 | leicester       |      2 |        7 | Nurse Susan     |   1.6  | evenodds,milkman   |
-|  7 | :3rd_place_medal: | 2021-12-03 00:30:00 | clonmel         |      4 |        4 | Burrows Saint   |   3.9  | overthrow          |
+|  7 | --                | 2021-12-03 00:30:00 | clonmel         |      4 |        4 | Burrows Saint   |   3.9  | overthrow          |
 |  8 | --                | 2021-12-03 00:15:00 | wincanton       |      2 |        3 | Parisian Blue   |   4.2  | overthrow          |
-|  9 | --                | 2021-12-03 00:15:00 | wincanton       |      2 |        4 | Rainyday Woman  |   1.65 | evenodds,overthrow |
+|  9 | :boom:            | 2021-12-03 00:15:00 | wincanton       |      2 |        4 | Rainyday Woman  |   1.65 | evenodds,overthrow |
 | 10 | :2nd_place_medal: | 2021-12-03 00:00:00 | clonmel         |      3 |        4 | Sefton Warrior  |   6.5  | looseknot          |
-| 11 | :boom:            | 2021-12-02 23:45:00 | wincanton       |      1 |        2 | Galileo Silver  |   3.3  | overthrow          |
+| 11 | --                | 2021-12-02 23:45:00 | wincanton       |      1 |        2 | Galileo Silver  |   3.3  | overthrow          |
 | 12 | 99.0              | 2021-12-02 23:30:00 | clonmel         |      2 |        8 | Rathgearan      |  11    | looseknot          |
 | 13 | --                | 2021-12-02 23:22:00 | market-rasen    |      1 |        6 | George Bancroft |   2.35 | vulture            |
-| 14 | :3rd_place_medal: | 2021-12-02 23:00:00 | clonmel         |      1 |        6 | Gorki D'airy    |   3.8  | overthrow          |
+| 14 | --                | 2021-12-02 23:00:00 | clonmel         |      1 |        6 | Gorki D'airy    |   3.8  | overthrow          |
 | 15 | :boom:            | 2021-12-02 20:37:00 | northam         |      7 |        7 | Celtic Court    |   3.9  | pangea,pikey       |
 | 16 | 9.0               | 2021-12-02 18:45:00 | northam         |      4 |        9 | Wise Words      |   2.6  | pikey              |
 | 17 | :boom:            | 2021-12-02 18:07:00 | northam         |      3 |        7 | Beauty In Me    |   2.15 | pikey              |
