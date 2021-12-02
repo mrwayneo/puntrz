@@ -1,20 +1,30 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-11-30 22:09:21 +1000  
+date: 2021-12-03 05:11:45 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     12 |      3 |      -39 | 0.25 | -0.32 |
-| Last 28 Days   |     63 |     16 |     -202 | 0.25 | -0.32 |
-| Last 6 Months  |    534 |    139 |     -842 | 0.26 | -0.16 |
-| Since Jan 2020 |    614 |    156 |    -1044 | 0.25 | -0.17 |
+| Last 7 Days    |     10 |      4 |       32 | 0.4  |  0.32 |
+| Last 28 Days   |     67 |     19 |     -133 | 0.28 | -0.2  |
+| Last 6 Months  |    483 |    128 |     -758 | 0.27 | -0.16 |
+| Since Jan 2020 |    624 |    160 |    -1012 | 0.26 | -0.16 |
 
 | finish            | date       | event                 | runner                |   win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|------:|---------:|
+| :boom:            | 2021-12-02 | northam R7            | 7 Celtic Court        |  4.6  |     36   |
+| 10                | 2021-12-02 | northam R6            | 3 Let's Cut Loose     |  2.8  |    -10   |
+| 9                 | 2021-12-02 | northam R4            | 9 Wise Words          |  2.6  |    -10   |
+| :boom:            | 2021-12-02 | northam R3            | 7 Beauty In Me        |  2.5  |     15   |
+| :boom:            | 2021-12-02 | northam R1            | 5 Great Fortune       |  1.3  |      3   |
+| :3rd_place_medal: | 2021-12-01 | belmont R8            | 10 My Marlaina        |  3.75 |    -10   |
+| :2nd_place_medal: | 2021-12-01 | belmont R7            | 9 Western Rhythm      |  5    |    -10   |
+| 9                 | 2021-12-01 | belmont R4            | 10 Story Book         |  4.33 |    -10   |
+| 5                 | 2021-12-01 | belmont R3            | 2 Roch Legacy         |  9.5  |    -10   |
+| :boom:            | 2021-12-01 | belmont R1            | 8 My Dilemma          |  4.8  |     38   |
 | 11                | 2021-11-27 | ascot R9              | 4 Bogart              |  6.5  |    -10   |
 | 4                 | 2021-11-27 | ascot R7              | 4 Midnight Blue       |  1.9  |    -10   |
 | :2nd_place_medal: | 2021-11-27 | ascot R6              | 7 Scandolo            |  4.33 |    -10   |

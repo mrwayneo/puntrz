@@ -1,16 +1,15 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-11-30 22:09:18 +1000  
+date: 2021-12-03 05:11:41 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |      6 |      0 |    -60   | 0    | -1    |
-| Last 6 Months  |     46 |     11 |    348.5 | 0.24 |  0.76 |
+| Last 28 Days   |      5 |      0 |    -50   | 0    | -1    |
+| Last 6 Months  |     37 |      9 |    173.5 | 0.24 |  0.47 |
 | Since Jan 2020 |     87 |     27 |    793.9 | 0.31 |  0.91 |
 
 | finish            | date       | event                  | runner               |    win |   return |
@@ -45,7 +44,7 @@ categories: None
 | 4                 | 2021-08-15 | cranbourne R1          | 4 Rhinoceros         |   7    |    -10   |
 | 4                 | 2021-08-08 | hobart R6              | 1 Ancona             |   3.8  |    -10   |
 | 4                 | 2021-08-07 | doomben R7             | 12 Far Too Easy      |   4.2  |    -10   |
-| 5                 | 2021-08-01 | devonport-synthetic R1 | 5 Sirocco Shamal     |   3.3  |    -10   |
+| 5                 | 2021-08-01 | devonport-synthetic R1 | 5 Sirocco Shamal     |   5.5  |    -10   |
 | :boom:            | 2021-07-31 | gold-coast R7          | 3 Our Rebel          |   4.1  |     31   |
 | :2nd_place_medal: | 2021-07-27 | lingfield R7           | 4 Vitalline          |   2.4  |    -10   |
 | :2nd_place_medal: | 2021-07-03 | darwin R7              | 2 Husslin Humph      |   4.6  |    -10   |
@@ -56,7 +55,7 @@ categories: None
 | 99                | 2021-05-29 | stratford R6           | 4 Pillowman          |   5    |    -10   |
 | :boom:            | 2021-05-29 | stratford R2           | 3 Deans Road         |   3.5  |     25   |
 | :boom:            | 2021-05-13 | hamilton R4            | 3 Crooked Creek      |  23    |    220   |
-| 5                 | 2021-05-09 | devonport-synthetic R4 | 4 Rhode Away         |   6.5  |    -10   |
+| 5                 | 2021-05-09 | devonport-synthetic R4 | 4 Rhode Away         |   5.5  |    -10   |
 | 99                | 2021-05-06 | kempton R4             | 5 Lilkian            |  21    |    -10   |
 | :2nd_place_medal: | 2021-05-05 | fakenham R6            | 2 Laser Beam         |   5    |    -10   |
 | 9                 | 2021-05-02 | alice-springs R7       | 2 Hope Ya Don't Mind |   6.1  |    -10   |
@@ -72,7 +71,7 @@ categories: None
 | :2nd_place_medal: | 2021-04-23 | exeter R6              | 1 Crews Pitch        |   2.25 |    -10   |
 | 99                | 2021-04-19 | stratford R7           | 1 Captain Buck's     |   2    |    -10   |
 | :boom:            | 2021-04-18 | hobart R1              | 6 Far Away Hit       |   3.3  |     23   |
-| :3rd_place_medal: | 2021-04-17 | lismore R6             | 1 Get On Board       |   2.5  |    -10   |
+| :3rd_place_medal: | 2021-04-17 | lismore R6             | 1 Get On Board       |   3.6  |    -10   |
 | :boom:            | 2021-04-17 | randwick R8            | 1 Addeybb            |   3.4  |     24   |
 | :boom:            | 2021-04-17 | exeter R6              | 1 Chase Me           |   1.85 |      8.5 |
 | :3rd_place_medal: | 2021-04-08 | lingfield R6           | 2 Caspian Queen      |   4.2  |    -10   |
