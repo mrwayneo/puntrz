@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-02 21:01:21 +1000  
+date: 2021-12-02 21:16:18 +1000  
 ---   
 
 
@@ -33,14 +33,14 @@ date: 2021-12-02 21:01:21 +1000
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    266 |     74 |    334.5 | 0.28 |  0.13 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     37 |      9 |    173.5 | 0.24 |  0.47 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    312 |     86 |    -66.6 | 0.28 | -0.02 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    193 |     63 |    -87.9 | 0.33 | -0.05 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    338 |     72 |   -111.5 | 0.21 | -0.03 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    196 |     61 |   -162.9 | 0.31 | -0.08 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     44 |      6 |   -219   | 0.14 | -0.5  |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    478 |    125 |   -792   | 0.26 | -0.17 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    691 |    101 |  -1183.6 | 0.15 | -0.17 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    683 |    106 |   -886.3 | 0.16 | -0.13 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    209 |     32 |  -1221.5 | 0.15 | -0.58 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    602 |    160 |  -1236.1 | 0.27 | -0.21 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1719 |    369 |  -1374.6 | 0.21 | -0.08 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1711 |    369 |  -1294.6 | 0.22 | -0.08 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2439 |    133 |  -2110   | 0.05 | -0.09 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2028 |    470 |  -2585.5 | 0.23 | -0.13 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2933 |    703 |  -4440.8 | 0.24 | -0.15 |
