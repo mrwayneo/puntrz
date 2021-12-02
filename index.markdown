@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-02 21:35:05 +1000  
+date: 2021-12-02 21:50:08 +1000  
 ---   
 
 
@@ -36,8 +36,8 @@ date: 2021-12-02 21:35:05 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    193 |     63 |    -87.9 | 0.33 | -0.05 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    338 |     72 |   -111.5 | 0.21 | -0.03 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     44 |      6 |   -219   | 0.14 | -0.5  |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    668 |    108 |   -643.8 | 0.16 | -0.1  |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    478 |    125 |   -792   | 0.26 | -0.17 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    683 |    106 |   -886.3 | 0.16 | -0.13 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    209 |     32 |  -1221.5 | 0.15 | -0.58 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    602 |    160 |  -1236.1 | 0.27 | -0.21 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1711 |    369 |  -1294.6 | 0.22 | -0.08 |
@@ -61,7 +61,7 @@ date: 2021-12-02 21:35:05 +1000
 |  9 | :soon:            | 2021-12-03 00:15:00 | wincanton       |      2 |        4 | Rainyday Woman  |   1.65 | evenodds,overthrow |
 | 10 | :soon:            | 2021-12-03 00:00:00 | clonmel         |      3 |        4 | Sefton Warrior  |   6.5  | looseknot          |
 | 11 | :soon:            | 2021-12-02 23:45:00 | wincanton       |      1 |        2 | Galileo Silver  |   3.3  | overthrow          |
-| 12 | :soon:            | 2021-12-02 23:30:00 | clonmel         |      2 |        8 | Rathgearan      |   7.5  | looseknot          |
+| 12 | :soon:            | 2021-12-02 23:30:00 | clonmel         |      2 |        8 | Rathgearan      |   8    | looseknot          |
 | 13 | :soon:            | 2021-12-02 23:22:00 | market-rasen    |      1 |        6 | George Bancroft |   2.35 | vulture            |
 | 14 | :soon:            | 2021-12-02 23:00:00 | clonmel         |      1 |        6 | Gorki D'airy    |   3.8  | overthrow          |
 | 15 | :boom:            | 2021-12-02 20:37:00 | northam         |      7 |        7 | Celtic Court    |   3.9  | pangea,pikey       |
