@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-02 20:31:01 +1000  
+date: 2021-12-02 20:46:16 +1000  
 ---   
 
 
@@ -41,7 +41,7 @@ date: 2021-12-02 20:31:01 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    209 |     32 |  -1221.5 | 0.15 | -0.58 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    602 |    160 |  -1236.1 | 0.27 | -0.21 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1719 |    369 |  -1374.6 | 0.21 | -0.08 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2473 |    133 |  -2450   | 0.05 | -0.1  |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2450 |    133 |  -2220   | 0.05 | -0.09 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2028 |    470 |  -2585.5 | 0.23 | -0.13 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2933 |    703 |  -4440.8 | 0.24 | -0.15 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5973 |    892 |  -8482.5 | 0.15 | -0.14 |
@@ -64,7 +64,7 @@ date: 2021-12-02 20:31:01 +1000
 | 12 | :soon:            | 2021-12-02 23:30:00 | clonmel         |      2 |        8 | Rathgearan      |   7.5  | looseknot          |
 | 13 | :soon:            | 2021-12-02 23:22:00 | market-rasen    |      1 |        6 | George Bancroft |   2.35 | vulture            |
 | 14 | :soon:            | 2021-12-02 23:00:00 | clonmel         |      1 |        6 | Gorki D'airy    |   3.8  | overthrow          |
-| 15 | :soon:            | 2021-12-02 20:37:00 | northam         |      7 |        7 | Celtic Court    |   3.9  | pangea,pikey       |
+| 15 | :boom:            | 2021-12-02 20:37:00 | northam         |      7 |        7 | Celtic Court    |   3.9  | pangea,pikey       |
 | 16 | 9.0               | 2021-12-02 18:45:00 | northam         |      4 |        9 | Wise Words      |   2.6  | pikey              |
 | 17 | :boom:            | 2021-12-02 18:07:00 | northam         |      3 |        7 | Beauty In Me    |   2.15 | pikey              |
 | 18 | :3rd_place_medal: | 2021-12-02 18:00:00 | townsville      |      9 |        3 | Hell Of A Boy   |   3.5  | vulture            |
