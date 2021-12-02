@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-02 20:46:16 +1000  
+date: 2021-12-02 21:01:21 +1000  
 ---   
 
 
@@ -41,7 +41,7 @@ date: 2021-12-02 20:46:16 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    209 |     32 |  -1221.5 | 0.15 | -0.58 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    602 |    160 |  -1236.1 | 0.27 | -0.21 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1719 |    369 |  -1374.6 | 0.21 | -0.08 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2450 |    133 |  -2220   | 0.05 | -0.09 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2439 |    133 |  -2110   | 0.05 | -0.09 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2028 |    470 |  -2585.5 | 0.23 | -0.13 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2933 |    703 |  -4440.8 | 0.24 | -0.15 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5973 |    892 |  -8482.5 | 0.15 | -0.14 |
@@ -51,11 +51,11 @@ date: 2021-12-02 20:46:16 +1000
 |---:|:------------------|:--------------------|:----------------|-------:|---------:|:----------------|-------:|:-------------------|
 |  0 | :soon:            | 2021-12-03 03:00:00 | chelmsford-city |      1 |        7 | Mc'ted          |   5    | looseknot          |
 |  1 | :soon:            | 2021-12-03 02:15:00 | wincanton       |      6 |        3 | My Lady Grey    |   3.8  | vulture            |
-|  2 | :soon:            | 2021-12-03 01:45:00 | wincanton       |      5 |        2 | Tulin           |   3.9  | pangea,blackshadow |
+|  2 | :soon:            | 2021-12-03 01:45:00 | wincanton       |      5 |        2 | Tulin           |   4.4  | pangea,blackshadow |
 |  3 | :soon:            | 2021-12-03 01:37:00 | leicester       |      4 |       12 | Runwiththetide  |   4.4  | overthrow          |
 |  4 | :soon:            | 2021-12-03 01:07:00 | leicester       |      3 |        5 | Go Steady       |   6    | overthrow          |
 |  5 | :soon:            | 2021-12-03 00:45:00 | wincanton       |      3 |        4 | Don Alvaro      |   5.5  | overthrow          |
-|  6 | :soon:            | 2021-12-03 00:37:00 | leicester       |      2 |        7 | Nurse Susan     |   1.65 | evenodds,milkman   |
+|  6 | :soon:            | 2021-12-03 00:37:00 | leicester       |      2 |        7 | Nurse Susan     |   1.7  | evenodds,milkman   |
 |  7 | :soon:            | 2021-12-03 00:30:00 | clonmel         |      4 |        4 | Burrows Saint   |   3.9  | overthrow          |
 |  8 | :soon:            | 2021-12-03 00:15:00 | wincanton       |      2 |        3 | Parisian Blue   |   4.2  | overthrow          |
 |  9 | :soon:            | 2021-12-03 00:15:00 | wincanton       |      2 |        4 | Rainyday Woman  |   1.65 | evenodds,overthrow |
