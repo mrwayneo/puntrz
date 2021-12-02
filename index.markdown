@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-02 15:22:42 +1000  
+date: 2021-12-02 15:37:45 +1000  
 ---   
 
 
@@ -71,6 +71,6 @@ date: 2021-12-02 15:22:42 +1000
 | 19 | :soon:            | 2021-12-02 18:00:00 | townsville      |      9 |        7 | Courtesy Bus    |   4.2  | pangea             |
 | 20 | :soon:            | 2021-12-02 16:52:00 | northam         |      1 |        5 | Great Fortune   |   1.55 | pikey              |
 | 21 | :soon:            | 2021-12-02 16:52:00 | northam         |      1 |        6 | Idle Star       |   9    | looseknot          |
-| 24 | :soon:            | 2021-12-02 15:30:00 | wangaratta      |      6 |        2 | Sokkies         |  12    | benny,pangea       |
+| 24 | :2nd_place_medal: | 2021-12-02 15:30:00 | wangaratta      |      6 |        2 | Sokkies         |  12    | benny,pangea       |
 | 26 | 5.0               | 2021-12-02 14:15:00 | townsville      |      3 |        4 | Dutton Branded  |   4.8  | looseknot          |
 | 27 | :2nd_place_medal: | 2021-12-02 13:40:00 | townsville      |      2 |        2 | Gamboa          |   2.15 | benny,pangea       |
