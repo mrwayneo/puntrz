@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-02 17:55:00 +1000  
+date: 2021-12-02 18:10:47 +1000  
 ---   
 
 
@@ -66,9 +66,9 @@ date: 2021-12-02 17:55:00 +1000
 | 14 | :soon:            | 2021-12-02 23:00:00 | clonmel         |      1 |        6 | Gorki D'airy    |   3.8  | overthrow          |
 | 15 | :soon:            | 2021-12-02 20:37:00 | northam         |      7 |        7 | Celtic Court    |   3.9  | pangea,pikey       |
 | 16 | :soon:            | 2021-12-02 18:45:00 | northam         |      4 |        9 | Wise Words      |   2.6  | pikey              |
-| 17 | :soon:            | 2021-12-02 18:07:00 | northam         |      3 |        7 | Beauty In Me    |   2.15 | pikey              |
-| 18 | :soon:            | 2021-12-02 18:00:00 | townsville      |      9 |        3 | Hell Of A Boy   |   3.5  | vulture            |
-| 19 | :soon:            | 2021-12-02 18:00:00 | townsville      |      9 |        7 | Courtesy Bus    |   4.2  | pangea             |
+| 17 | --                | 2021-12-02 18:07:00 | northam         |      3 |        7 | Beauty In Me    |   2.15 | pikey              |
+| 18 | --                | 2021-12-02 18:00:00 | townsville      |      9 |        3 | Hell Of A Boy   |   3.5  | vulture            |
+| 19 | --                | 2021-12-02 18:00:00 | townsville      |      9 |        7 | Courtesy Bus    |   4.2  | pangea             |
 | 20 | :boom:            | 2021-12-02 16:52:00 | northam         |      1 |        5 | Great Fortune   |   1.55 | pikey              |
 | 21 | 4.0               | 2021-12-02 16:52:00 | northam         |      1 |        6 | Idle Star       |   9    | looseknot          |
 | 24 | :2nd_place_medal: | 2021-12-02 15:30:00 | wangaratta      |      6 |        2 | Sokkies         |  12    | benny,pangea       |
