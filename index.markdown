@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-02 19:10:38 +1000  
+date: 2021-12-02 19:48:15 +1000  
 ---   
 
 
@@ -65,7 +65,7 @@ date: 2021-12-02 19:10:38 +1000
 | 13 | :soon:            | 2021-12-02 23:22:00 | market-rasen    |      1 |        6 | George Bancroft |   2.35 | vulture            |
 | 14 | :soon:            | 2021-12-02 23:00:00 | clonmel         |      1 |        6 | Gorki D'airy    |   3.8  | overthrow          |
 | 15 | :soon:            | 2021-12-02 20:37:00 | northam         |      7 |        7 | Celtic Court    |   3.9  | pangea,pikey       |
-| 16 | --                | 2021-12-02 18:45:00 | northam         |      4 |        9 | Wise Words      |   2.6  | pikey              |
+| 16 | 9.0               | 2021-12-02 18:45:00 | northam         |      4 |        9 | Wise Words      |   2.6  | pikey              |
 | 17 | :boom:            | 2021-12-02 18:07:00 | northam         |      3 |        7 | Beauty In Me    |   2.15 | pikey              |
 | 18 | :3rd_place_medal: | 2021-12-02 18:00:00 | townsville      |      9 |        3 | Hell Of A Boy   |   3.5  | vulture            |
 | 19 | 4.0               | 2021-12-02 18:00:00 | townsville      |      9 |        7 | Courtesy Bus    |   4.2  | pangea             |
