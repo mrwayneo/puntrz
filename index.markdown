@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-02 13:32:29 +1000  
+date: 2021-12-02 13:49:09 +1000  
 ---   
 
 
@@ -47,30 +47,30 @@ date: 2021-12-02 13:32:29 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5973 |    892 |  -8482.5 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7701 |    415 | -15212   | 0.05 | -0.2  |
 
-|    | finish   | time                | track           |   race |   number | name            |   odds | tipster            |
-|---:|:---------|:--------------------|:----------------|-------:|---------:|:----------------|-------:|:-------------------|
-|  0 | :soon:   | 2021-12-03 03:00:00 | chelmsford-city |      1 |        7 | Mc'ted          |   5    | looseknot          |
-|  1 | :soon:   | 2021-12-03 02:15:00 | wincanton       |      6 |        3 | My Lady Grey    |   3.8  | vulture            |
-|  2 | :soon:   | 2021-12-03 01:45:00 | wincanton       |      5 |        2 | Tulin           |   3.9  | pangea,blackshadow |
-|  3 | :soon:   | 2021-12-03 01:37:00 | leicester       |      4 |       12 | Runwiththetide  |   4.4  | overthrow          |
-|  4 | :soon:   | 2021-12-03 01:07:00 | leicester       |      3 |        5 | Go Steady       |   6    | overthrow          |
-|  5 | :soon:   | 2021-12-03 00:45:00 | wincanton       |      3 |        4 | Don Alvaro      |   5.5  | overthrow          |
-|  6 | :soon:   | 2021-12-03 00:37:00 | leicester       |      2 |        7 | Nurse Susan     |   1.65 | evenodds,milkman   |
-|  7 | :soon:   | 2021-12-03 00:30:00 | clonmel         |      4 |        4 | Burrows Saint   |   3.9  | overthrow          |
-|  8 | :soon:   | 2021-12-03 00:15:00 | wincanton       |      2 |        3 | Parisian Blue   |   4.2  | overthrow          |
-|  9 | :soon:   | 2021-12-03 00:15:00 | wincanton       |      2 |        4 | Rainyday Woman  |   1.65 | evenodds,overthrow |
-| 10 | :soon:   | 2021-12-03 00:00:00 | clonmel         |      3 |        4 | Sefton Warrior  |   6.5  | looseknot          |
-| 11 | :soon:   | 2021-12-02 23:45:00 | wincanton       |      1 |        2 | Galileo Silver  |   3.3  | overthrow          |
-| 12 | :soon:   | 2021-12-02 23:30:00 | clonmel         |      2 |        8 | Rathgearan      |   7.5  | looseknot          |
-| 13 | :soon:   | 2021-12-02 23:22:00 | market-rasen    |      1 |        6 | George Bancroft |   2.35 | vulture            |
-| 14 | :soon:   | 2021-12-02 23:00:00 | clonmel         |      1 |        6 | Gorki D'airy    |   3.8  | overthrow          |
-| 15 | :soon:   | 2021-12-02 20:37:00 | northam         |      7 |        7 | Celtic Court    |   3.9  | pangea,pikey       |
-| 16 | :soon:   | 2021-12-02 18:45:00 | northam         |      4 |        9 | Wise Words      |   2.6  | pikey              |
-| 17 | :soon:   | 2021-12-02 18:07:00 | northam         |      3 |        7 | Beauty In Me    |   2.15 | pikey              |
-| 18 | :soon:   | 2021-12-02 18:00:00 | townsville      |      9 |        3 | Hell Of A Boy   |   3.5  | vulture            |
-| 19 | :soon:   | 2021-12-02 18:00:00 | townsville      |      9 |        7 | Courtesy Bus    |   4.2  | pangea             |
-| 20 | :soon:   | 2021-12-02 16:52:00 | northam         |      1 |        5 | Great Fortune   |   1.55 | pikey              |
-| 21 | :soon:   | 2021-12-02 16:52:00 | northam         |      1 |        6 | Idle Star       |   9    | looseknot          |
-| 24 | :soon:   | 2021-12-02 15:30:00 | wangaratta      |      6 |        2 | Sokkies         |  12    | benny,pangea       |
-| 26 | :soon:   | 2021-12-02 14:15:00 | townsville      |      3 |        4 | Dutton Branded  |   4.8  | looseknot          |
-| 27 | :soon:   | 2021-12-02 13:40:00 | townsville      |      2 |        2 | Gamboa          |   2.15 | benny,pangea       |
+|    | finish            | time                | track           |   race |   number | name            |   odds | tipster            |
+|---:|:------------------|:--------------------|:----------------|-------:|---------:|:----------------|-------:|:-------------------|
+|  0 | :soon:            | 2021-12-03 03:00:00 | chelmsford-city |      1 |        7 | Mc'ted          |   5    | looseknot          |
+|  1 | :soon:            | 2021-12-03 02:15:00 | wincanton       |      6 |        3 | My Lady Grey    |   3.8  | vulture            |
+|  2 | :soon:            | 2021-12-03 01:45:00 | wincanton       |      5 |        2 | Tulin           |   3.9  | pangea,blackshadow |
+|  3 | :soon:            | 2021-12-03 01:37:00 | leicester       |      4 |       12 | Runwiththetide  |   4.4  | overthrow          |
+|  4 | :soon:            | 2021-12-03 01:07:00 | leicester       |      3 |        5 | Go Steady       |   6    | overthrow          |
+|  5 | :soon:            | 2021-12-03 00:45:00 | wincanton       |      3 |        4 | Don Alvaro      |   5.5  | overthrow          |
+|  6 | :soon:            | 2021-12-03 00:37:00 | leicester       |      2 |        7 | Nurse Susan     |   1.65 | evenodds,milkman   |
+|  7 | :soon:            | 2021-12-03 00:30:00 | clonmel         |      4 |        4 | Burrows Saint   |   3.9  | overthrow          |
+|  8 | :soon:            | 2021-12-03 00:15:00 | wincanton       |      2 |        3 | Parisian Blue   |   4.2  | overthrow          |
+|  9 | :soon:            | 2021-12-03 00:15:00 | wincanton       |      2 |        4 | Rainyday Woman  |   1.65 | evenodds,overthrow |
+| 10 | :soon:            | 2021-12-03 00:00:00 | clonmel         |      3 |        4 | Sefton Warrior  |   6.5  | looseknot          |
+| 11 | :soon:            | 2021-12-02 23:45:00 | wincanton       |      1 |        2 | Galileo Silver  |   3.3  | overthrow          |
+| 12 | :soon:            | 2021-12-02 23:30:00 | clonmel         |      2 |        8 | Rathgearan      |   7.5  | looseknot          |
+| 13 | :soon:            | 2021-12-02 23:22:00 | market-rasen    |      1 |        6 | George Bancroft |   2.35 | vulture            |
+| 14 | :soon:            | 2021-12-02 23:00:00 | clonmel         |      1 |        6 | Gorki D'airy    |   3.8  | overthrow          |
+| 15 | :soon:            | 2021-12-02 20:37:00 | northam         |      7 |        7 | Celtic Court    |   3.9  | pangea,pikey       |
+| 16 | :soon:            | 2021-12-02 18:45:00 | northam         |      4 |        9 | Wise Words      |   2.6  | pikey              |
+| 17 | :soon:            | 2021-12-02 18:07:00 | northam         |      3 |        7 | Beauty In Me    |   2.15 | pikey              |
+| 18 | :soon:            | 2021-12-02 18:00:00 | townsville      |      9 |        3 | Hell Of A Boy   |   3.5  | vulture            |
+| 19 | :soon:            | 2021-12-02 18:00:00 | townsville      |      9 |        7 | Courtesy Bus    |   4.2  | pangea             |
+| 20 | :soon:            | 2021-12-02 16:52:00 | northam         |      1 |        5 | Great Fortune   |   1.55 | pikey              |
+| 21 | :soon:            | 2021-12-02 16:52:00 | northam         |      1 |        6 | Idle Star       |   9    | looseknot          |
+| 24 | :soon:            | 2021-12-02 15:30:00 | wangaratta      |      6 |        2 | Sokkies         |  12    | benny,pangea       |
+| 26 | :soon:            | 2021-12-02 14:15:00 | townsville      |      3 |        4 | Dutton Branded  |   4.8  | looseknot          |
+| 27 | :2nd_place_medal: | 2021-12-02 13:40:00 | townsville      |      2 |        2 | Gamboa          |   2.15 | benny,pangea       |
