@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-03 16:00:34 +1000  
+date: 2021-12-03 16:24:30 +1000  
 ---   
 
 
@@ -49,47 +49,47 @@ date: 2021-12-03 16:00:34 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5846 |    889 |  -7570.3 | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7555 |    427 | -12365   | 0.06 | -0.16 |
 
-|    | finish   | time                | track               |   race |   number | name               |   odds | tipster              |
-|---:|:---------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|  0 | :soon:   | 2021-12-04 05:15:00 | newcastle           |      7 |        3 | Boosala            |   1.9  | vulture,milkman      |
-|  1 | :soon:   | 2021-12-04 02:50:00 | exeter              |      7 |       12 | The Bogmans Ball   |   5.5  | overthrow            |
-|  2 | :soon:   | 2021-12-04 02:50:00 | exeter              |      7 |        4 | Firestream         |   3.6  | looseknot            |
-|  3 | :soon:   | 2021-12-04 02:35:00 | sandown             |      6 |        4 | Storm Arising      |   6    | overthrow            |
-|  4 | :soon:   | 2021-12-04 02:25:00 | sedgefield          |      7 |        8 | Stroll On By       |   2.5  | vulture              |
-|  5 | :soon:   | 2021-12-04 01:50:00 | sedgefield          |      6 |        5 | Bavington Bob      |   6.5  | overthrow            |
-|  6 | :soon:   | 2021-12-04 01:25:00 | sandown             |      4 |        3 | Harper's Brook     |   9.5  | milkman              |
-|  7 | :soon:   | 2021-12-04 01:25:00 | sandown             |      4 |        5 | Viva Lavilla       |  11    | evenodds,overthrow   |
-|  8 | :soon:   | 2021-12-04 01:15:00 | sedgefield          |      5 |        1 | Mister Whitaker    |   2.2  | vulture              |
-|  9 | :soon:   | 2021-12-04 00:50:00 | sandown             |      3 |        2 | Bothwell Bridge    |   4.6  | overthrow            |
-| 10 | :soon:   | 2021-12-04 00:50:00 | sandown             |      3 |        6 | Halo Des Obeaux    |   4.5  | overthrow            |
-| 11 | :soon:   | 2021-12-04 00:30:00 | exeter              |      3 |        5 | Tip Top Cat        |   5    | overthrow            |
-| 12 | :soon:   | 2021-12-04 00:15:00 | sandown             |      2 |        1 | Forever Blessed    |   1.6  | milkman              |
-| 13 | :soon:   | 2021-12-03 23:55:00 | exeter              |      2 |        1 | Mot A Mot          |   2.4  | milkman              |
-| 14 | :soon:   | 2021-12-03 23:45:00 | sandown             |      1 |        4 | Sending Love       |   6    | overthrow            |
-| 15 | :soon:   | 2021-12-03 23:45:00 | sandown             |      1 |        3 | Rolling Dylan      |   6    | looseknot            |
-| 16 | :soon:   | 2021-12-03 23:00:00 | sedgefield          |      1 |        7 | Jungle Jack        |   3    | vulture              |
-| 17 | :soon:   | 2021-12-03 22:00:00 | sunshine-coast      |      8 |        3 | Divulge            |   4.33 | overthrow            |
-| 18 | :soon:   | 2021-12-03 21:30:00 | sunshine-coast      |      7 |        8 | So Clever          |   1.91 | overthrow            |
-| 19 | :soon:   | 2021-12-03 21:30:00 | sunshine-coast      |      7 |       11 | Allez Zou          |   7.5  | evenodds,overthrow   |
-| 20 | :soon:   | 2021-12-03 21:00:00 | sunshine-coast      |      6 |        3 | Regimental Band    |   4.6  | evenodds,overthrow   |
-| 21 | :soon:   | 2021-12-03 20:30:00 | sunshine-coast      |      5 |       14 | Cotton Fields      |  11    | vulture              |
-| 22 | :soon:   | 2021-12-03 20:30:00 | sunshine-coast      |      5 |        8 | Joy Too All        |   3.5  | overthrow            |
-| 23 | :soon:   | 2021-12-03 20:15:00 | moonee-valley       |      5 |        7 | Passing Time       |   6    | vulture,milkman      |
-| 24 | :soon:   | 2021-12-03 19:45:00 | moonee-valley       |      4 |        8 | The Last Napoleon  |   8.5  | vulture              |
-| 25 | :soon:   | 2021-12-03 19:45:00 | moonee-valley       |      4 |        3 | Sig Positano       |   5.5  | pangea               |
-| 26 | :soon:   | 2021-12-03 19:30:00 | sunshine-coast      |      3 |       10 | Perfect Mission    |   4.8  | overthrow            |
-| 27 | :soon:   | 2021-12-03 19:30:00 | sunshine-coast      |      3 |        6 | Sneaky Starter     |   5.5  | milkman              |
-| 28 | :soon:   | 2021-12-03 19:05:00 | devonport-synthetic |      7 |        3 | Chosen Eagle       |   3.7  | evenodds,overthrow   |
-| 29 | :soon:   | 2021-12-03 19:05:00 | devonport-synthetic |      7 |        1 | Ubriaco            |   4.75 | benny,pangea         |
-| 30 | :soon:   | 2021-12-03 18:20:00 | sunshine-coast      |      1 |        4 | Await The Storm    |   7.5  | pangea               |
-| 31 | :soon:   | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        2 | Sh'bourne Renegade |   4.8  | evenodds,blackshadow |
-| 32 | :soon:   | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        6 | Assaranca          |   3.75 | vulture,pangea       |
-| 33 | :soon:   | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        1 | Balearic           |   8    | vulture,blackshadow  |
-| 34 | :soon:   | 2021-12-03 17:59:00 | devonport-synthetic |      5 |       10 | Rising Light       |   4.8  | benny,pangea         |
-| 35 | :soon:   | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        3 | Lesnar             |  14    | pangea               |
-| 36 | :soon:   | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        7 | Red Letter Lady    |   2.5  | pangea,icyhot        |
-| 37 | :soon:   | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        8 | Sirene Stryker     |   3.8  | pangea,icyhot        |
-| 38 | :soon:   | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        9 | Michbar            |   5    | pangea               |
-| 39 | :soon:   | 2021-12-03 16:10:00 | kensington          |      3 |        5 | Socialist          |   2.1  | jmac                 |
-| 40 | :soon:   | 2021-12-03 16:10:00 | kensington          |      3 |        4 | Optimo             |   7    | vulture              |
-| 41 | :boom:   | 2021-12-03 14:55:00 | kensington          |      1 |        6 | Finepoint          |   1.75 | jmac                 |
+|    | finish            | time                | track               |   race |   number | name               |   odds | tipster              |
+|---:|:------------------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:---------------------|
+|  0 | :soon:            | 2021-12-04 05:15:00 | newcastle           |      7 |        3 | Boosala            |   1.9  | vulture,milkman      |
+|  1 | :soon:            | 2021-12-04 02:50:00 | exeter              |      7 |       12 | The Bogmans Ball   |   5.5  | overthrow            |
+|  2 | :soon:            | 2021-12-04 02:50:00 | exeter              |      7 |        4 | Firestream         |   3.6  | looseknot            |
+|  3 | :soon:            | 2021-12-04 02:35:00 | sandown             |      6 |        4 | Storm Arising      |   6    | overthrow            |
+|  4 | :soon:            | 2021-12-04 02:25:00 | sedgefield          |      7 |        8 | Stroll On By       |   2.5  | vulture              |
+|  5 | :soon:            | 2021-12-04 01:50:00 | sedgefield          |      6 |        5 | Bavington Bob      |   6.5  | overthrow            |
+|  6 | :soon:            | 2021-12-04 01:25:00 | sandown             |      4 |        3 | Harper's Brook     |   9.5  | milkman              |
+|  7 | :soon:            | 2021-12-04 01:25:00 | sandown             |      4 |        5 | Viva Lavilla       |  11    | evenodds,overthrow   |
+|  8 | :soon:            | 2021-12-04 01:15:00 | sedgefield          |      5 |        1 | Mister Whitaker    |   2.2  | vulture              |
+|  9 | :soon:            | 2021-12-04 00:50:00 | sandown             |      3 |        2 | Bothwell Bridge    |   4.6  | overthrow            |
+| 10 | :soon:            | 2021-12-04 00:50:00 | sandown             |      3 |        6 | Halo Des Obeaux    |   4.5  | overthrow            |
+| 11 | :soon:            | 2021-12-04 00:30:00 | exeter              |      3 |        5 | Tip Top Cat        |   5    | overthrow            |
+| 12 | :soon:            | 2021-12-04 00:15:00 | sandown             |      2 |        1 | Forever Blessed    |   1.6  | milkman              |
+| 13 | :soon:            | 2021-12-03 23:55:00 | exeter              |      2 |        1 | Mot A Mot          |   2.4  | milkman              |
+| 14 | :soon:            | 2021-12-03 23:45:00 | sandown             |      1 |        4 | Sending Love       |   6    | overthrow            |
+| 15 | :soon:            | 2021-12-03 23:45:00 | sandown             |      1 |        3 | Rolling Dylan      |   6    | looseknot            |
+| 16 | :soon:            | 2021-12-03 23:00:00 | sedgefield          |      1 |        7 | Jungle Jack        |   3    | vulture              |
+| 17 | :soon:            | 2021-12-03 22:00:00 | sunshine-coast      |      8 |        3 | Divulge            |   4.33 | overthrow            |
+| 18 | :soon:            | 2021-12-03 21:30:00 | sunshine-coast      |      7 |        8 | So Clever          |   1.91 | overthrow            |
+| 19 | :soon:            | 2021-12-03 21:30:00 | sunshine-coast      |      7 |       11 | Allez Zou          |   7.5  | evenodds,overthrow   |
+| 20 | :soon:            | 2021-12-03 21:00:00 | sunshine-coast      |      6 |        3 | Regimental Band    |   4.6  | evenodds,overthrow   |
+| 21 | :soon:            | 2021-12-03 20:30:00 | sunshine-coast      |      5 |       14 | Cotton Fields      |  11    | vulture              |
+| 22 | :soon:            | 2021-12-03 20:30:00 | sunshine-coast      |      5 |        8 | Joy Too All        |   3.5  | overthrow            |
+| 23 | :soon:            | 2021-12-03 20:15:00 | moonee-valley       |      5 |        7 | Passing Time       |   6    | vulture,milkman      |
+| 24 | :soon:            | 2021-12-03 19:45:00 | moonee-valley       |      4 |        8 | The Last Napoleon  |   8.5  | vulture              |
+| 25 | :soon:            | 2021-12-03 19:45:00 | moonee-valley       |      4 |        3 | Sig Positano       |   5.5  | pangea               |
+| 26 | :soon:            | 2021-12-03 19:30:00 | sunshine-coast      |      3 |       10 | Perfect Mission    |   4.8  | overthrow            |
+| 27 | :soon:            | 2021-12-03 19:30:00 | sunshine-coast      |      3 |        6 | Sneaky Starter     |   5.5  | milkman              |
+| 28 | :soon:            | 2021-12-03 19:05:00 | devonport-synthetic |      7 |        3 | Chosen Eagle       |   3.7  | evenodds,overthrow   |
+| 29 | :soon:            | 2021-12-03 19:05:00 | devonport-synthetic |      7 |        1 | Ubriaco            |   4.75 | benny,pangea         |
+| 30 | :soon:            | 2021-12-03 18:20:00 | sunshine-coast      |      1 |        4 | Await The Storm    |   7.5  | pangea               |
+| 31 | :soon:            | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        2 | Sh'bourne Renegade |   4.8  | evenodds,blackshadow |
+| 32 | :soon:            | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        6 | Assaranca          |   3.75 | vulture,pangea       |
+| 33 | :soon:            | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        1 | Balearic           |   8    | vulture,blackshadow  |
+| 34 | :soon:            | 2021-12-03 17:59:00 | devonport-synthetic |      5 |       10 | Rising Light       |   4.8  | benny,pangea         |
+| 35 | :soon:            | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        3 | Lesnar             |  14    | pangea               |
+| 36 | :soon:            | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        7 | Red Letter Lady    |   2.5  | pangea,icyhot        |
+| 37 | :soon:            | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        8 | Sirene Stryker     |   3.8  | pangea,icyhot        |
+| 38 | :soon:            | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        9 | Michbar            |   5    | pangea               |
+| 39 | :boom:            | 2021-12-03 16:10:00 | kensington          |      3 |        5 | Socialist          |   2.1  | jmac                 |
+| 40 | :2nd_place_medal: | 2021-12-03 16:10:00 | kensington          |      3 |        4 | Optimo             |   7    | vulture              |
+| 41 | :boom:            | 2021-12-03 14:55:00 | kensington          |      1 |        6 | Finepoint          |   1.75 | jmac                 |
