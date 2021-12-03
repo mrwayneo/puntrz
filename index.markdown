@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-03 18:50:43 +1000  
+date: 2021-12-03 19:07:32 +1000  
 ---   
 
 
@@ -79,13 +79,13 @@ date: 2021-12-03 18:50:43 +1000
 | 25 | :soon:            | 2021-12-03 19:45:00 | moonee-valley       |      4 |        3 | Sig Positano       |   5.5  | pangea               |
 | 26 | :soon:            | 2021-12-03 19:30:00 | sunshine-coast      |      3 |       10 | Perfect Mission    |   4.8  | overthrow            |
 | 27 | :soon:            | 2021-12-03 19:30:00 | sunshine-coast      |      3 |        6 | Sneaky Starter     |   5.5  | milkman              |
-| 28 | :soon:            | 2021-12-03 19:05:00 | devonport-synthetic |      7 |        3 | Chosen Eagle       |   3.7  | evenodds,overthrow   |
-| 29 | :soon:            | 2021-12-03 19:05:00 | devonport-synthetic |      7 |        1 | Ubriaco            |   4.75 | benny,pangea         |
-| 30 | --                | 2021-12-03 18:20:00 | sunshine-coast      |      1 |        4 | Await The Storm    |   7.5  | pangea               |
+| 28 | --                | 2021-12-03 19:05:00 | devonport-synthetic |      7 |        3 | Chosen Eagle       |   3.7  | evenodds,overthrow   |
+| 29 | --                | 2021-12-03 19:05:00 | devonport-synthetic |      7 |        1 | Ubriaco            |   4.75 | benny,pangea         |
+| 30 | 5.0               | 2021-12-03 18:20:00 | sunshine-coast      |      1 |        4 | Await The Storm    |   7.5  | pangea               |
 | 31 | 4.0               | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        2 | Sh'bourne Renegade |   4.8  | evenodds,blackshadow |
-| 32 | --                | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        6 | Assaranca          |   3.75 | vulture,pangea       |
+| 32 | 8.0               | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        6 | Assaranca          |   3.75 | vulture,pangea       |
 | 33 | :2nd_place_medal: | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        1 | Balearic           |   8    | vulture,blackshadow  |
-| 34 | --                | 2021-12-03 17:59:00 | devonport-synthetic |      5 |       10 | Rising Light       |   4.8  | benny,pangea         |
+| 34 | 6.0               | 2021-12-03 17:59:00 | devonport-synthetic |      5 |       10 | Rising Light       |   4.8  | benny,pangea         |
 | 35 | 7.0               | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        3 | Lesnar             |  14    | pangea               |
 | 36 | :3rd_place_medal: | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        7 | Red Letter Lady    |   2.5  | pangea,icyhot        |
 | 37 | 6.0               | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        8 | Sirene Stryker     |   3.8  | pangea,icyhot        |
