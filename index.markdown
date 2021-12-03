@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-03 20:25:00 +1000  
+date: 2021-12-03 20:38:59 +1000  
 ---   
 
 
@@ -72,9 +72,9 @@ date: 2021-12-03 20:25:00 +1000
 | 18 | :soon:            | 2021-12-03 21:30:00 | sunshine-coast      |      7 |        8 | So Clever          |   1.91 | overthrow            |
 | 19 | :soon:            | 2021-12-03 21:30:00 | sunshine-coast      |      7 |       11 | Allez Zou          |   7.5  | evenodds,overthrow   |
 | 20 | :soon:            | 2021-12-03 21:00:00 | sunshine-coast      |      6 |        3 | Regimental Band    |   4.6  | evenodds,overthrow   |
-| 21 | :soon:            | 2021-12-03 20:30:00 | sunshine-coast      |      5 |       14 | Cotton Fields      |  11    | vulture              |
-| 22 | :soon:            | 2021-12-03 20:30:00 | sunshine-coast      |      5 |        8 | Joy Too All        |   3.5  | overthrow            |
-| 23 | --                | 2021-12-03 20:15:00 | moonee-valley       |      5 |        7 | Passing Time       |   6    | vulture,milkman      |
+| 21 | --                | 2021-12-03 20:30:00 | sunshine-coast      |      5 |       14 | Cotton Fields      |  11    | vulture              |
+| 22 | --                | 2021-12-03 20:30:00 | sunshine-coast      |      5 |        8 | Joy Too All        |   3.5  | overthrow            |
+| 23 | 7.0               | 2021-12-03 20:15:00 | moonee-valley       |      5 |        7 | Passing Time       |   6    | vulture,milkman      |
 | 24 | 5.0               | 2021-12-03 19:45:00 | moonee-valley       |      4 |        8 | The Last Napoleon  |   8.5  | vulture              |
 | 25 | :2nd_place_medal: | 2021-12-03 19:45:00 | moonee-valley       |      4 |        3 | Sig Positano       |   5.5  | pangea               |
 | 26 | :2nd_place_medal: | 2021-12-03 19:30:00 | sunshine-coast      |      3 |       10 | Perfect Mission    |   4.8  | overthrow            |
