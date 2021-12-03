@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-03 14:57:04 +1000  
+date: 2021-12-03 15:11:48 +1000  
 ---   
 
 
@@ -92,4 +92,4 @@ date: 2021-12-03 14:57:04 +1000
 | 38 | :soon:   | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        9 | Michbar            |   5    | pangea               |
 | 39 | :soon:   | 2021-12-03 16:10:00 | kensington          |      3 |        5 | Socialist          |   2.1  | jmac                 |
 | 40 | :soon:   | 2021-12-03 16:10:00 | kensington          |      3 |        4 | Optimo             |   7    | vulture              |
-| 41 | --       | 2021-12-03 14:55:00 | kensington          |      1 |        6 | Finepoint          |   1.75 | jmac                 |
+| 41 | :boom:   | 2021-12-03 14:55:00 | kensington          |      1 |        6 | Finepoint          |   1.75 | jmac                 |

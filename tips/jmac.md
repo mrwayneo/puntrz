@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-03 14:57:02 +1000  
+date: 2021-12-03 15:11:47 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event             | runner                |   win |   return |
 |:------------------|:-----------|:------------------|:----------------------|------:|---------:|
 | 16:10             | 2021-12-03 | kensington R3     | 5 Socialist           |  2.1  |    -10   |
-| 0                 | 2021-12-03 | kensington R1     | 6 Finepoint           |  0    |    -10   |
+| :boom:            | 2021-12-03 | kensington R1     | 6 Finepoint           |  1.7  |      7   |
 | :boom:            | 2021-12-01 | warwick-farm R5   | 8 Hollywood Gossip    |  4    |     30   |
 | 6                 | 2021-12-01 | warwick-farm R1   | 6 Kipsbay             |  5.5  |    -10   |
 | :boom:            | 2021-11-26 | canterbury R5     | 9 Bacchanalia         |  1.7  |      7   |
