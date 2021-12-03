@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-03 19:37:24 +1000  
+date: 2021-12-03 19:52:24 +1000  
 ---   
 
 
@@ -75,8 +75,8 @@ date: 2021-12-03 19:37:24 +1000
 | 21 | :soon:            | 2021-12-03 20:30:00 | sunshine-coast      |      5 |       14 | Cotton Fields      |  11    | vulture              |
 | 22 | :soon:            | 2021-12-03 20:30:00 | sunshine-coast      |      5 |        8 | Joy Too All        |   3.5  | overthrow            |
 | 23 | :soon:            | 2021-12-03 20:15:00 | moonee-valley       |      5 |        7 | Passing Time       |   6    | vulture,milkman      |
-| 24 | :soon:            | 2021-12-03 19:45:00 | moonee-valley       |      4 |        8 | The Last Napoleon  |   8.5  | vulture              |
-| 25 | :soon:            | 2021-12-03 19:45:00 | moonee-valley       |      4 |        3 | Sig Positano       |   5.5  | pangea               |
+| 24 | --                | 2021-12-03 19:45:00 | moonee-valley       |      4 |        8 | The Last Napoleon  |   8.5  | vulture              |
+| 25 | :2nd_place_medal: | 2021-12-03 19:45:00 | moonee-valley       |      4 |        3 | Sig Positano       |   5.5  | pangea               |
 | 26 | --                | 2021-12-03 19:30:00 | sunshine-coast      |      3 |       10 | Perfect Mission    |   4.8  | overthrow            |
 | 27 | --                | 2021-12-03 19:30:00 | sunshine-coast      |      3 |        6 | Sneaky Starter     |   5.5  | milkman              |
 | 28 | 6.0               | 2021-12-03 19:05:00 | devonport-synthetic |      7 |        3 | Chosen Eagle       |   3.7  | evenodds,overthrow   |
