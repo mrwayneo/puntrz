@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2021-12-04 07:50:06 +1000  
+date: 2021-12-04 09:10:00 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,8 @@ categories: None
 
 | finish            | date       | event             | runner             |   win |   return |
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
+| 15:20             | 2021-12-04 | rosehill R6       | 7 Karlstad         |  3.9  |      -10 |
+| 13:30             | 2021-12-04 | rosehill R3       | 7 Sacrimony        |  8    |      -10 |
 | 6                 | 2021-11-20 | kembla-grange R10 | 6 Zegalo           |  8.5  |      -10 |
 | 7                 | 2021-11-20 | kembla-grange R5  | 5 Tinker McPhee    | 10    |      -10 |
 | :3rd_place_medal: | 2021-11-20 | kembla-grange R4  | 6 El Buena         |  6.5  |      -10 |

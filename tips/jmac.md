@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-04 07:50:12 +1000  
+date: 2021-12-04 09:10:04 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,14 @@ categories: None
 
 | finish            | date       | event             | runner               |   win |   return |
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
+| 18:00             | 2021-12-04 | rosehill R10      | 10 El Buena          |  8.5  |    -10   |
+| 17:20             | 2021-12-04 | rosehill R9       | 3 Bigboyroy          |  4.4  |    -10   |
+| 16:40             | 2021-12-04 | rosehill R8       | 1 Francesco Guardi   |  3.1  |    -10   |
+| 16:00             | 2021-12-04 | rosehill R7       | 3 Welsh Legend       |  5.5  |    -10   |
+| 15:20             | 2021-12-04 | rosehill R6       | 2 Rousseau           |  2.6  |    -10   |
+| 14:05             | 2021-12-04 | rosehill R4       | 7 Tycoonist          |  4    |    -10   |
+| 13:30             | 2021-12-04 | rosehill R3       | 6 Starman            |  4.5  |    -10   |
+| 12:20             | 2021-12-04 | rosehill R1       | 4 Saigon             |  8    |    -10   |
 | :boom:            | 2021-12-03 | kensington R3     | 5 Socialist          |  1.9  |      9   |
 | :boom:            | 2021-12-03 | kensington R1     | 6 Finepoint          |  1.7  |      7   |
 | :boom:            | 2021-12-01 | warwick-farm R5   | 8 Hollywood Gossip   |  4    |     30   |

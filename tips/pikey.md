@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-04 07:50:12 +1000  
+date: 2021-12-04 09:10:04 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,15 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 20:20             | 2021-12-04 | ascot R9              | 2 Expressionist       |   3.9  |    -10   |
+| 19:45             | 2021-12-04 | ascot R8              | 7 Western Empire      |   1.3  |    -10   |
+| 19:05             | 2021-12-04 | ascot R7              | 9 Bright Diamond      |   3.1  |    -10   |
+| 18:25             | 2021-12-04 | ascot R6              | 8 Real Danger         |   5    |    -10   |
+| 17:45             | 2021-12-04 | ascot R5              | 4 Stageman            |   3.7  |    -10   |
+| 17:05             | 2021-12-04 | ascot R4              | 4 Reliable Star       |   2.1  |    -10   |
+| 16:25             | 2021-12-04 | ascot R3              | 9 Night Voyage        |   6    |    -10   |
+| 15:45             | 2021-12-04 | ascot R2              | 8 Scandolo            |   7.5  |    -10   |
+| 15:05             | 2021-12-04 | ascot R1              | 8 Ciao Luna           |   8.5  |    -10   |
 | :boom:            | 2021-12-02 | northam R7            | 7 Celtic Court        |   4.6  |     36   |
 | 10                | 2021-12-02 | northam R6            | 3 Let's Cut Loose     |   2.8  |    -10   |
 | 9                 | 2021-12-02 | northam R4            | 9 Wise Words          |   2.6  |    -10   |
