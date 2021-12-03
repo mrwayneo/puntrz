@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-03 21:57:40 +1000  
+date: 2021-12-03 22:13:32 +1000  
 ---   
 
 
@@ -68,8 +68,8 @@ date: 2021-12-03 21:57:40 +1000
 | 14 | :soon:            | 2021-12-03 23:45:00 | sandown             |      1 |        4 | Sending Love       |   6    | overthrow            |
 | 15 | :soon:            | 2021-12-03 23:45:00 | sandown             |      1 |        3 | Rolling Dylan      |   6    | looseknot            |
 | 16 | :soon:            | 2021-12-03 23:00:00 | sedgefield          |      1 |        7 | Jungle Jack        |   3    | vulture              |
-| 17 | :soon:            | 2021-12-03 22:00:00 | sunshine-coast      |      8 |        3 | Divulge            |   4.33 | overthrow            |
-| 18 | --                | 2021-12-03 21:30:00 | sunshine-coast      |      7 |        8 | So Clever          |   1.91 | overthrow            |
+| 17 | --                | 2021-12-03 22:00:00 | sunshine-coast      |      8 |        3 | Divulge            |   4.33 | overthrow            |
+| 18 | :3rd_place_medal: | 2021-12-03 21:30:00 | sunshine-coast      |      7 |        8 | So Clever          |   1.91 | overthrow            |
 | 19 | --                | 2021-12-03 21:30:00 | sunshine-coast      |      7 |       11 | Allez Zou          |   7.5  | evenodds,overthrow   |
 | 20 | :boom:            | 2021-12-03 21:00:00 | sunshine-coast      |      6 |        3 | Regimental Band    |   4.6  | evenodds,overthrow   |
 | 21 | 7.0               | 2021-12-03 20:30:00 | sunshine-coast      |      5 |       14 | Cotton Fields      |  11    | vulture              |
