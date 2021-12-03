@@ -1,30 +1,30 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-12-03 22:46:54 +1000  
+date: 2021-12-04 06:04:09 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     17 |      1 |   -140   | 0.06 | -0.82 |
-| Last 28 Days   |     75 |     13 |   -242   | 0.17 | -0.32 |
-| Last 6 Months  |    673 |    108 |   -861.3 | 0.16 | -0.13 |
-| Since Jan 2020 |   1093 |    166 |  -1631.8 | 0.15 | -0.15 |
+| Last 7 Days    |     16 |      0 |   -160   | 0    | -1    |
+| Last 28 Days   |     76 |     13 |   -252   | 0.17 | -0.33 |
+| Last 6 Months  |    675 |    108 |   -881.3 | 0.16 | -0.13 |
+| Since Jan 2020 |   1095 |    166 |  -1651.8 | 0.15 | -0.15 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:50             | 2021-12-04 | exeter R7                     | 4 Firestream          |   3.6  |    -10   |
-| 23:45             | 2021-12-03 | sandown R1                    | 3 Rolling Dylan       |   6    |    -10   |
+| :2nd_place_medal: | 2021-12-04 | exeter R7                     | 4 Firestream          |   3.1  |    -10   |
+| :2nd_place_medal: | 2021-12-03 | sandown R1                    | 3 Rolling Dylan       |   7.5  |    -10   |
 | :3rd_place_medal: | 2021-12-03 | chelmsford-city R1            | 7 Mc'ted              |   4.8  |    -10   |
 | :2nd_place_medal: | 2021-12-03 | clonmel R3                    | 4 Sefton Warrior      |   6.5  |    -10   |
 | 99                | 2021-12-02 | clonmel R2                    | 8 Rathgearan          |   0    |    -10   |
 | 4                 | 2021-12-02 | northam R1                    | 6 Idle Star           |   9    |    -10   |
 | 5                 | 2021-12-02 | townsville R3                 | 4 Dutton Branded      |   4.8  |    -10   |
-| 99                | 2021-12-01 | lingfield R2                  | 11 Cheese The One     |   0    |    -10   |
 | 99                | 2021-12-01 | lingfield R2                  | 10 My Ambition        |   0    |    -10   |
 | 99                | 2021-12-01 | lingfield R2                  | 6 Gidwa               |   0    |    -10   |
+| 99                | 2021-12-01 | lingfield R2                  | 11 Cheese The One     |   0    |    -10   |
 | 4                 | 2021-12-01 | sunshine-coast-poly-track R2  | 6 Canny Impact        |   6    |    -10   |
 | 4                 | 2021-12-01 | newcastle R2                  | 5 Dance At Night      |   4.6  |    -10   |
 | 99                | 2021-11-30 | lingfield R2                  | 4 If You Can Dream    |   0    |    -10   |
@@ -45,7 +45,7 @@ categories: None
 | 4                 | 2021-11-26 | chelmsford-city R4            | 5 It Is Now           |   0    |    -10   |
 | :3rd_place_medal: | 2021-11-26 | taunton R5                    | 3 Go Pharisee Flyer   |   9    |    -10   |
 | :2nd_place_medal: | 2021-11-26 | thurles R6                    | 6 Tudor Manor         |   8.6  |    -10   |
-| 0                 | 2021-11-26 | wolverhampton R1              | 2 Queen Of Burgundy   |   6    |    -10   |
+| 4                 | 2021-11-26 | wolverhampton R1              | 2 Queen Of Burgundy   |   8.5  |    -10   |
 | 4                 | 2021-11-25 | kempton R5                    | 6 Spice Store         |   8.5  |    -10   |
 | 99                | 2021-11-25 | kempton R4                    | 12 Petite Joe         |   0    |    -10   |
 | 99                | 2021-11-25 | kempton R2                    | 13 Allarmista         |   0    |    -10   |
