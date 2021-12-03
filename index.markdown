@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-03 16:24:30 +1000  
+date: 2021-12-03 16:39:10 +1000  
 ---   
 
 
@@ -86,10 +86,10 @@ date: 2021-12-03 16:24:30 +1000
 | 32 | :soon:            | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        6 | Assaranca          |   3.75 | vulture,pangea       |
 | 33 | :soon:            | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        1 | Balearic           |   8    | vulture,blackshadow  |
 | 34 | :soon:            | 2021-12-03 17:59:00 | devonport-synthetic |      5 |       10 | Rising Light       |   4.8  | benny,pangea         |
-| 35 | :soon:            | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        3 | Lesnar             |  14    | pangea               |
-| 36 | :soon:            | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        7 | Red Letter Lady    |   2.5  | pangea,icyhot        |
-| 37 | :soon:            | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        8 | Sirene Stryker     |   3.8  | pangea,icyhot        |
-| 38 | :soon:            | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        9 | Michbar            |   5    | pangea               |
+| 35 | --                | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        3 | Lesnar             |  14    | pangea               |
+| 36 | :3rd_place_medal: | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        7 | Red Letter Lady    |   2.5  | pangea,icyhot        |
+| 37 | --                | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        8 | Sirene Stryker     |   3.8  | pangea,icyhot        |
+| 38 | :2nd_place_medal: | 2021-12-03 16:30:00 | devonport-synthetic |      3 |        9 | Michbar            |   5    | pangea               |
 | 39 | :boom:            | 2021-12-03 16:10:00 | kensington          |      3 |        5 | Socialist          |   2.1  | jmac                 |
 | 40 | :2nd_place_medal: | 2021-12-03 16:10:00 | kensington          |      3 |        4 | Optimo             |   7    | vulture              |
 | 41 | :boom:            | 2021-12-03 14:55:00 | kensington          |      1 |        6 | Finepoint          |   1.75 | jmac                 |
