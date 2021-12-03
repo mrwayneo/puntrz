@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-03 20:53:51 +1000  
+date: 2021-12-03 21:08:46 +1000  
 ---   
 
 
@@ -71,7 +71,7 @@ date: 2021-12-03 20:53:51 +1000
 | 17 | :soon:            | 2021-12-03 22:00:00 | sunshine-coast      |      8 |        3 | Divulge            |   4.33 | overthrow            |
 | 18 | :soon:            | 2021-12-03 21:30:00 | sunshine-coast      |      7 |        8 | So Clever          |   1.91 | overthrow            |
 | 19 | :soon:            | 2021-12-03 21:30:00 | sunshine-coast      |      7 |       11 | Allez Zou          |   7.5  | evenodds,overthrow   |
-| 20 | :soon:            | 2021-12-03 21:00:00 | sunshine-coast      |      6 |        3 | Regimental Band    |   4.6  | evenodds,overthrow   |
+| 20 | --                | 2021-12-03 21:00:00 | sunshine-coast      |      6 |        3 | Regimental Band    |   4.6  | evenodds,overthrow   |
 | 21 | --                | 2021-12-03 20:30:00 | sunshine-coast      |      5 |       14 | Cotton Fields      |  11    | vulture              |
 | 22 | --                | 2021-12-03 20:30:00 | sunshine-coast      |      5 |        8 | Joy Too All        |   3.5  | overthrow            |
 | 23 | 7.0               | 2021-12-03 20:15:00 | moonee-valley       |      5 |        7 | Passing Time       |   6    | vulture,milkman      |
