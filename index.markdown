@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-03 19:07:32 +1000  
+date: 2021-12-03 19:22:30 +1000  
 ---   
 
 
@@ -80,7 +80,7 @@ date: 2021-12-03 19:07:32 +1000
 | 26 | :soon:            | 2021-12-03 19:30:00 | sunshine-coast      |      3 |       10 | Perfect Mission    |   4.8  | overthrow            |
 | 27 | :soon:            | 2021-12-03 19:30:00 | sunshine-coast      |      3 |        6 | Sneaky Starter     |   5.5  | milkman              |
 | 28 | --                | 2021-12-03 19:05:00 | devonport-synthetic |      7 |        3 | Chosen Eagle       |   3.7  | evenodds,overthrow   |
-| 29 | --                | 2021-12-03 19:05:00 | devonport-synthetic |      7 |        1 | Ubriaco            |   4.75 | benny,pangea         |
+| 29 | :2nd_place_medal: | 2021-12-03 19:05:00 | devonport-synthetic |      7 |        1 | Ubriaco            |   4.75 | benny,pangea         |
 | 30 | 5.0               | 2021-12-03 18:20:00 | sunshine-coast      |      1 |        4 | Await The Storm    |   7.5  | pangea               |
 | 31 | 4.0               | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        2 | Sh'bourne Renegade |   4.8  | evenodds,blackshadow |
 | 32 | 8.0               | 2021-12-03 17:59:00 | devonport-synthetic |      5 |        6 | Assaranca          |   3.75 | vulture,pangea       |
