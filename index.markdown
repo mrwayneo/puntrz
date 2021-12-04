@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 16:41:21 +1000  
+date: 2021-12-04 16:56:20 +1000  
 ---   
 
 
@@ -15,12 +15,12 @@ date: 2021-12-04 16:41:21 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      1 |      -39 | 0.09 | -0.35 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      7 |      1 |      -51 | 0.14 | -0.73 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     10 |      1 |      -65 | 0.1  | -0.65 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      8 |      0 |      -80 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     10 |      0 |     -100 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      3 |     -175 | 0.1  | -0.58 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      3 |     -181 | 0.12 | -0.75 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      2 |     -210 | 0.07 | -0.7  |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |      4 |     -223 | 0.1  | -0.57 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |      5 |     -188 | 0.13 | -0.48 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      5 |     -290 | 0.11 | -0.63 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     44 |      0 |     -440 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      0 |     -480 | 0    | -1    |
@@ -150,19 +150,19 @@ date: 2021-12-04 16:41:21 +1000
 |  77 | :soon:            | 2021-12-04 17:12:00 | morphettville-parks |      8 |       10 | Around The Horn    |   7    | milkman              |
 |  78 | :soon:            | 2021-12-04 17:09:00 | gold-coast          |      7 |        1 | Weona Smartone     |   1.26 | pangea,icyhot        |
 |  79 | :soon:            | 2021-12-04 17:05:00 | ascot               |      4 |        4 | Reliable Star      |   2.1  | vulture,pikey        |
-|  80 | :soon:            | 2021-12-04 16:48:00 | doomben             |      7 |        5 | Tambo's Mate       |   4.4  | pangea,blackshadow   |
-|  81 | :soon:            | 2021-12-04 16:48:00 | doomben             |      7 |        2 | Niccanova          |   4.8  | pangea,overthrow     |
-|  82 | :soon:            | 2021-12-04 16:48:00 | doomben             |      7 |        3 | The Harrovian      |   3.9  | pangea,icyhot        |
-|  83 | :soon:            | 2021-12-04 16:48:00 | doomben             |      7 |       10 | Tumbler Ridge      |  18    | pangea               |
-|  84 | :soon:            | 2021-12-04 16:42:00 | darwin              |      2 |        3 | Mr Cashman         |   3.75 | overthrow            |
-|  85 | --                | 2021-12-04 16:40:00 | rosehill            |      8 |        1 | Francesco Guardi   |   3.1  | jmac                 |
+|  80 | :boom:            | 2021-12-04 16:48:00 | doomben             |      7 |        5 | Tambo's Mate       |   4.4  | pangea,blackshadow   |
+|  81 | :3rd_place_medal: | 2021-12-04 16:48:00 | doomben             |      7 |        2 | Niccanova          |   4.8  | pangea,overthrow     |
+|  82 | --                | 2021-12-04 16:48:00 | doomben             |      7 |        3 | The Harrovian      |   3.9  | pangea,icyhot        |
+|  83 | :2nd_place_medal: | 2021-12-04 16:48:00 | doomben             |      7 |       10 | Tumbler Ridge      |  18    | pangea               |
+|  84 | :3rd_place_medal: | 2021-12-04 16:42:00 | darwin              |      2 |        3 | Mr Cashman         |   3.75 | overthrow            |
+|  85 | :2nd_place_medal: | 2021-12-04 16:40:00 | rosehill            |      8 |        1 | Francesco Guardi   |   3.1  | jmac                 |
 |  86 | 5.0               | 2021-12-04 16:25:00 | ascot               |      3 |        9 | Night Voyage       |   6    | pikey                |
 |  87 | :boom:            | 2021-12-04 16:25:00 | ascot               |      3 |        4 | Written Matter     |   2.4  | milkman              |
 |  88 | :2nd_place_medal: | 2021-12-04 16:22:00 | rockhampton         |      5 |        9 | Scoria Star        |   3.9  | evenodds,blackshadow |
 |  89 | :2nd_place_medal: | 2021-12-04 16:20:00 | racing.com-park     |      7 |        3 | Good Idea          |  26    | pangea               |
 |  90 | :boom:            | 2021-12-04 16:20:00 | racing.com-park     |      7 |        8 | Smokin' Romans     |   3.1  | vulture,pangea       |
 |  91 | :boom:            | 2021-12-04 16:08:00 | doomben             |      6 |        2 | So You Win         |   3.9  | pangea               |
-|  92 | --                | 2021-12-04 16:08:00 | doomben             |      6 |        6 | Humbolt Current    |   8    | pangea               |
+|  92 | 9.0               | 2021-12-04 16:08:00 | doomben             |      6 |        6 | Humbolt Current    |   8    | pangea               |
 |  93 | 4.0               | 2021-12-04 16:08:00 | doomben             |      6 |        7 | Tears Of Love      |   9    | vulture              |
 |  94 | :3rd_place_medal: | 2021-12-04 16:06:00 | esperance-bay       |      1 |        5 | Indian Chant       |   6.5  | looseknot            |
 |  95 | :boom:            | 2021-12-04 16:02:00 | darwin              |      1 |        7 | Captain Hedderwick |   8    | evenodds,overthrow   |

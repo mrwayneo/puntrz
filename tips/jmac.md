@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-04 16:41:20 +1000  
+date: 2021-12-04 16:56:19 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
 | 18:00             | 2021-12-04 | rosehill R10      | 10 El Buena          |  8.5  |    -10   |
 | 17:20             | 2021-12-04 | rosehill R9       | 3 Bigboyroy          |  4.4  |    -10   |
-| 0                 | 2021-12-04 | rosehill R8       | 1 Francesco Guardi   |  0    |    -10   |
+| :2nd_place_medal: | 2021-12-04 | rosehill R8       | 1 Francesco Guardi   |  3.1  |    -10   |
 | :2nd_place_medal: | 2021-12-04 | rosehill R7       | 3 Welsh Legend       |  5.5  |    -10   |
 | :2nd_place_medal: | 2021-12-04 | rosehill R6       | 2 Rousseau           |  2.6  |    -10   |
 | :2nd_place_medal: | 2021-12-04 | rosehill R4       | 7 Tycoonist          |  4    |    -10   |
