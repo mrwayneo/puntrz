@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 12:50:30 +1000  
+date: 2021-12-04 13:05:41 +1000  
 ---   
 
 
@@ -185,11 +185,11 @@ date: 2021-12-04 12:50:30 +1000
 | 112 | :soon:            | 2021-12-04 13:57:00 | morphettville-parks |      3 |        1 | Diplomatic Measure |   9.5  | vulture              |
 | 113 | :soon:            | 2021-12-04 13:30:00 | rosehill            |      3 |        6 | Starman            |   4.5  | jmac                 |
 | 114 | :soon:            | 2021-12-04 13:30:00 | rosehill            |      3 |        7 | Sacrimony          |   8    | milkman,wallbow      |
-| 115 | :soon:            | 2021-12-04 13:03:00 | doomben             |      1 |        1 | Capital Tower      |   3.4  | overthrow,milkman    |
-| 116 | :soon:            | 2021-12-04 13:03:00 | doomben             |      1 |        5 | Burnish Gold       |   9.5  | milkman              |
-| 117 | --                | 2021-12-04 12:47:00 | morphettville-parks |      1 |        1 | Swamp Vixen        |   5    | pangea               |
+| 115 | --                | 2021-12-04 13:03:00 | doomben             |      1 |        1 | Capital Tower      |   3.4  | overthrow,milkman    |
+| 116 | --                | 2021-12-04 13:03:00 | doomben             |      1 |        5 | Burnish Gold       |   9.5  | milkman              |
+| 117 | 4.0               | 2021-12-04 12:47:00 | morphettville-parks |      1 |        1 | Swamp Vixen        |   5    | pangea               |
 | 118 | :boom:            | 2021-12-04 12:35:00 | racing.com-park     |      1 |        4 | Lyrical Lad        |   2.6  | vulture              |
-| 119 | --                | 2021-12-04 12:35:00 | racing.com-park     |      1 |        7 | Tycoon Bec         |   3.4  | milkman              |
+| 119 | 6.0               | 2021-12-04 12:35:00 | racing.com-park     |      1 |        7 | Tycoon Bec         |   3.4  | milkman              |
 | 120 | :2nd_place_medal: | 2021-12-04 12:20:00 | rosehill            |      1 |        4 | Saigon             |   8    | pangea,jmac          |
-| 121 | --                | 2021-12-04 12:20:00 | rosehill            |      1 |        5 | Strange Charm      |   7    | pangea               |
+| 121 | 5.0               | 2021-12-04 12:20:00 | rosehill            |      1 |        5 | Strange Charm      |   7    | pangea               |
 | 122 | --                | 2021-12-04 10:58:00 | trentham            |      2 |        4 | Ace Royale         |   6.5  | looseknot            |
