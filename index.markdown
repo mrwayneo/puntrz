@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 15:50:43 +1000  
+date: 2021-12-04 16:07:34 +1000  
 ---   
 
 
@@ -164,11 +164,11 @@ date: 2021-12-04 15:50:43 +1000
 |  91 | :soon:            | 2021-12-04 16:08:00 | doomben             |      6 |        2 | So You Win         |   3.9  | pangea               |
 |  92 | :soon:            | 2021-12-04 16:08:00 | doomben             |      6 |        6 | Humbolt Current    |   8    | pangea               |
 |  93 | :soon:            | 2021-12-04 16:08:00 | doomben             |      6 |        7 | Tears Of Love      |   9    | vulture              |
-|  94 | :soon:            | 2021-12-04 16:06:00 | esperance-bay       |      1 |        5 | Indian Chant       |   6.5  | looseknot            |
-|  95 | :soon:            | 2021-12-04 16:02:00 | darwin              |      1 |        7 | Captain Hedderwick |   8    | evenodds,overthrow   |
-|  96 | :soon:            | 2021-12-04 16:00:00 | rosehill            |      7 |        3 | Welsh Legend       |   5.5  | pangea,jmac          |
-|  97 | :soon:            | 2021-12-04 16:00:00 | rosehill            |      7 |        2 | Jazzland           |   6.5  | vulture              |
-|  98 | --                | 2021-12-04 15:45:00 | ascot               |      2 |        8 | Scandolo           |   7.5  | pikey                |
+|  94 | --                | 2021-12-04 16:06:00 | esperance-bay       |      1 |        5 | Indian Chant       |   6.5  | looseknot            |
+|  95 | --                | 2021-12-04 16:02:00 | darwin              |      1 |        7 | Captain Hedderwick |   8    | evenodds,overthrow   |
+|  96 | :2nd_place_medal: | 2021-12-04 16:00:00 | rosehill            |      7 |        3 | Welsh Legend       |   5.5  | pangea,jmac          |
+|  97 | --                | 2021-12-04 16:00:00 | rosehill            |      7 |        2 | Jazzland           |   6.5  | vulture              |
+|  98 | 8.0               | 2021-12-04 15:45:00 | ascot               |      2 |        8 | Scandolo           |   7.5  | pikey                |
 |  99 | :2nd_place_medal: | 2021-12-04 15:37:00 | rockhampton         |      4 |        1 | Zarnado            |   2    | vulture              |
 | 100 | :boom:            | 2021-12-04 15:28:00 | doomben             |      5 |        2 | Far Too Easy       |   2.5  | benny,milkman        |
 | 101 | 4.0               | 2021-12-04 15:28:00 | doomben             |      5 |        6 | Wardaddy           |   6    | vulture              |
