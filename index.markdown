@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 15:06:00 +1000  
+date: 2021-12-04 15:20:46 +1000  
 ---   
 
 
@@ -172,10 +172,10 @@ date: 2021-12-04 15:06:00 +1000
 |  99 | :soon:            | 2021-12-04 15:37:00 | rockhampton         |      4 |        1 | Zarnado            |   2    | vulture              |
 | 100 | :soon:            | 2021-12-04 15:28:00 | doomben             |      5 |        2 | Far Too Easy       |   2.5  | benny,milkman        |
 | 101 | :soon:            | 2021-12-04 15:28:00 | doomben             |      5 |        6 | Wardaddy           |   6    | vulture              |
-| 102 | :soon:            | 2021-12-04 15:20:00 | rosehill            |      6 |        2 | Rousseau           |   2.6  | jmac                 |
-| 103 | :soon:            | 2021-12-04 15:20:00 | rosehill            |      6 |        7 | Karlstad           |   3.9  | pangea,wallbow       |
-| 104 | --                | 2021-12-04 15:05:00 | ascot               |      1 |        6 | Costume Party      |   4.33 | milkman              |
-| 105 | --                | 2021-12-04 15:05:00 | ascot               |      1 |        8 | Ciao Luna          |   8.5  | pikey                |
+| 102 | --                | 2021-12-04 15:20:00 | rosehill            |      6 |        2 | Rousseau           |   2.6  | jmac                 |
+| 103 | --                | 2021-12-04 15:20:00 | rosehill            |      6 |        7 | Karlstad           |   3.9  | pangea,wallbow       |
+| 104 | :3rd_place_medal: | 2021-12-04 15:05:00 | ascot               |      1 |        6 | Costume Party      |   4.33 | milkman              |
+| 105 | 4.0               | 2021-12-04 15:05:00 | ascot               |      1 |        8 | Ciao Luna          |   8.5  | pikey                |
 | 106 | :2nd_place_medal: | 2021-12-04 14:22:00 | rockhampton         |      2 |        9 | In Order           |   1.67 | evenodds,overthrow   |
 | 107 | :3rd_place_medal: | 2021-12-04 14:13:00 | doomben             |      3 |        3 | Ashgrove           |   2.25 | overthrow            |
 | 108 | 7.0               | 2021-12-04 14:13:00 | doomben             |      3 |        5 | Deep Tempest       |   7.5  | vulture              |
