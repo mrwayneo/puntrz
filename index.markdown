@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 15:20:46 +1000  
+date: 2021-12-04 15:35:49 +1000  
 ---   
 
 
@@ -12,16 +12,16 @@ date: 2021-12-04 15:20:46 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      1 |      -28 | 0.12 | -0.35 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      7 |      1 |      -51 | 0.14 | -0.73 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      7 |      0 |      -70 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      8 |      0 |      -80 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     10 |      0 |     -100 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |     -110 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      1 |     -221 | 0.04 | -0.92 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      2 |     -202 | 0.08 | -0.84 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      1 |     -281 | 0.03 | -0.94 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |      0 |     -390 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      2 |     -414 | 0.04 | -0.9  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |      1 |     -371 | 0.03 | -0.95 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      3 |     -395 | 0.07 | -0.86 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     44 |      0 |     -440 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      0 |     -480 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     93 |      0 |     -930 | 0    | -1    |
@@ -170,10 +170,10 @@ date: 2021-12-04 15:20:46 +1000
 |  97 | :soon:            | 2021-12-04 16:00:00 | rosehill            |      7 |        2 | Jazzland           |   6.5  | vulture              |
 |  98 | :soon:            | 2021-12-04 15:45:00 | ascot               |      2 |        8 | Scandolo           |   7.5  | pikey                |
 |  99 | :soon:            | 2021-12-04 15:37:00 | rockhampton         |      4 |        1 | Zarnado            |   2    | vulture              |
-| 100 | :soon:            | 2021-12-04 15:28:00 | doomben             |      5 |        2 | Far Too Easy       |   2.5  | benny,milkman        |
-| 101 | :soon:            | 2021-12-04 15:28:00 | doomben             |      5 |        6 | Wardaddy           |   6    | vulture              |
-| 102 | --                | 2021-12-04 15:20:00 | rosehill            |      6 |        2 | Rousseau           |   2.6  | jmac                 |
-| 103 | --                | 2021-12-04 15:20:00 | rosehill            |      6 |        7 | Karlstad           |   3.9  | pangea,wallbow       |
+| 100 | :boom:            | 2021-12-04 15:28:00 | doomben             |      5 |        2 | Far Too Easy       |   2.5  | benny,milkman        |
+| 101 | 4.0               | 2021-12-04 15:28:00 | doomben             |      5 |        6 | Wardaddy           |   6    | vulture              |
+| 102 | :2nd_place_medal: | 2021-12-04 15:20:00 | rosehill            |      6 |        2 | Rousseau           |   2.6  | jmac                 |
+| 103 | 4.0               | 2021-12-04 15:20:00 | rosehill            |      6 |        7 | Karlstad           |   3.9  | pangea,wallbow       |
 | 104 | :3rd_place_medal: | 2021-12-04 15:05:00 | ascot               |      1 |        6 | Costume Party      |   4.33 | milkman              |
 | 105 | 4.0               | 2021-12-04 15:05:00 | ascot               |      1 |        8 | Ciao Luna          |   8.5  | pikey                |
 | 106 | :2nd_place_medal: | 2021-12-04 14:22:00 | rockhampton         |      2 |        9 | In Order           |   1.67 | evenodds,overthrow   |
