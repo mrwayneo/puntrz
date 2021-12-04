@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 21:42:52 +1000  
+date: 2021-12-04 22:05:32 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2021-12-04 21:42:52 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      7 |     -141 | 0.15 | -0.31 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      4 |     -149 | 0.13 | -0.5  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      3 |     -181 | 0.12 | -0.75 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      2 |     -435 | 0.04 | -0.91 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      3 |     -385 | 0.06 | -0.8  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     44 |      0 |     -440 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     93 |      0 |     -930 | 0    | -1    |
 
@@ -120,7 +120,7 @@ date: 2021-12-04 21:42:52 +1000
 |  47 | :soon:            | 2021-12-04 22:35:00 | kenilworth          |      2 |        1 | Bon Boyage         |   0    | vulture              |
 |  48 | :soon:            | 2021-12-04 22:30:00 | navan               |      1 |        9 | Prevaricate        |   2.25 | vulture              |
 |  49 | :soon:            | 2021-12-04 22:15:00 | aintree             |      1 |        1 | Bombs Away         |   2.4  | vulture              |
-|  50 | :soon:            | 2021-12-04 21:50:00 | toowoomba           |      8 |        5 | Bit Of A Beauty    |   8.5  | benny,pangea         |
+|  50 | --                | 2021-12-04 21:50:00 | toowoomba           |      8 |        5 | Bit Of A Beauty    |   8.5  | benny,pangea         |
 |  51 | 5.0               | 2021-12-04 20:35:00 | toowoomba           |      6 |        6 | Rowdash            |   1.4  | vulture              |
 |  52 | 6.0               | 2021-12-04 20:20:00 | ascot               |      9 |        2 | Expressionist      |   3.9  | vulture,pikey        |
 |  53 | :boom:            | 2021-12-04 20:20:00 | ascot               |      9 |        9 | Memorable Miss     |   5    | vulture,blackshadow  |
