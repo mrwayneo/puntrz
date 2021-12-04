@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-04 15:35:48 +1000  
+date: 2021-12-04 15:50:42 +1000  
 categories: None 
 ---   
 
@@ -22,7 +22,7 @@ categories: None
 | 17:45             | 2021-12-04 | ascot R5              | 4 Stageman            |   3.7  |    -10   |
 | 17:05             | 2021-12-04 | ascot R4              | 4 Reliable Star       |   2.1  |    -10   |
 | 16:25             | 2021-12-04 | ascot R3              | 9 Night Voyage        |   6    |    -10   |
-| 15:45             | 2021-12-04 | ascot R2              | 8 Scandolo            |   7.5  |    -10   |
+| 0                 | 2021-12-04 | ascot R2              | 8 Scandolo            |   0    |    -10   |
 | 4                 | 2021-12-04 | ascot R1              | 8 Ciao Luna           |   8.5  |    -10   |
 | :boom:            | 2021-12-02 | northam R7            | 7 Celtic Court        |   4.6  |     36   |
 | 10                | 2021-12-02 | northam R6            | 3 Let's Cut Loose     |   2.8  |    -10   |

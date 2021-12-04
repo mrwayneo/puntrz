@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 15:35:49 +1000  
+date: 2021-12-04 15:50:43 +1000  
 ---   
 
 
@@ -168,8 +168,8 @@ date: 2021-12-04 15:35:49 +1000
 |  95 | :soon:            | 2021-12-04 16:02:00 | darwin              |      1 |        7 | Captain Hedderwick |   8    | evenodds,overthrow   |
 |  96 | :soon:            | 2021-12-04 16:00:00 | rosehill            |      7 |        3 | Welsh Legend       |   5.5  | pangea,jmac          |
 |  97 | :soon:            | 2021-12-04 16:00:00 | rosehill            |      7 |        2 | Jazzland           |   6.5  | vulture              |
-|  98 | :soon:            | 2021-12-04 15:45:00 | ascot               |      2 |        8 | Scandolo           |   7.5  | pikey                |
-|  99 | :soon:            | 2021-12-04 15:37:00 | rockhampton         |      4 |        1 | Zarnado            |   2    | vulture              |
+|  98 | --                | 2021-12-04 15:45:00 | ascot               |      2 |        8 | Scandolo           |   7.5  | pikey                |
+|  99 | :2nd_place_medal: | 2021-12-04 15:37:00 | rockhampton         |      4 |        1 | Zarnado            |   2    | vulture              |
 | 100 | :boom:            | 2021-12-04 15:28:00 | doomben             |      5 |        2 | Far Too Easy       |   2.5  | benny,milkman        |
 | 101 | 4.0               | 2021-12-04 15:28:00 | doomben             |      5 |        6 | Wardaddy           |   6    | vulture              |
 | 102 | :2nd_place_medal: | 2021-12-04 15:20:00 | rosehill            |      6 |        2 | Rousseau           |   2.6  | jmac                 |
