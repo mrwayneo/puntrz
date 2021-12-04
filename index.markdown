@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 19:28:30 +1000  
+date: 2021-12-04 19:57:49 +1000  
 ---   
 
 
@@ -124,16 +124,16 @@ date: 2021-12-04 19:28:30 +1000
 |  51 | :soon:            | 2021-12-04 20:35:00 | toowoomba           |      6 |        6 | Rowdash            |   1.4  | vulture              |
 |  52 | :soon:            | 2021-12-04 20:20:00 | ascot               |      9 |        2 | Expressionist      |   3.9  | vulture,pikey        |
 |  53 | :soon:            | 2021-12-04 20:20:00 | ascot               |      9 |        9 | Memorable Miss     |   5    | vulture,blackshadow  |
-|  54 | :soon:            | 2021-12-04 19:55:00 | toowoomba           |      5 |        3 | Open Road          |   7.5  | vulture              |
-|  55 | :soon:            | 2021-12-04 19:45:00 | ascot               |      8 |        7 | Western Empire     |   1.3  | pangea,pikey         |
-|  56 | :soon:            | 2021-12-04 19:45:00 | ascot               |      8 |        9 | Kissonallforcheeks |  17    | milkman              |
+|  54 | --                | 2021-12-04 19:55:00 | toowoomba           |      5 |        3 | Open Road          |   7.5  | vulture              |
+|  55 | :2nd_place_medal: | 2021-12-04 19:45:00 | ascot               |      8 |        7 | Western Empire     |   1.3  | pangea,pikey         |
+|  56 | :3rd_place_medal: | 2021-12-04 19:45:00 | ascot               |      8 |        9 | Kissonallforcheeks |  17    | milkman              |
 |  57 | :2nd_place_medal: | 2021-12-04 19:05:00 | ascot               |      7 |        9 | Bright Diamond     |   3.1  | pangea,pikey         |
-|  58 | --                | 2021-12-04 19:05:00 | ascot               |      7 |       10 | Real Charisma      |  12    | pangea,blackshadow   |
+|  58 | 10.0              | 2021-12-04 19:05:00 | ascot               |      7 |       10 | Real Charisma      |  12    | pangea,blackshadow   |
 |  59 | :boom:            | 2021-12-04 19:05:00 | ascot               |      7 |        4 | Angelic Miss       |   5.5  | vulture              |
 |  60 | 4.0               | 2021-12-04 18:48:00 | doomben             |     10 |        4 | Stellar Magic      |   5.5  | overthrow            |
 |  61 | :2nd_place_medal: | 2021-12-04 18:48:00 | doomben             |     10 |       10 | Putontheredlight   |   7.5  | overthrow            |
-|  62 | --                | 2021-12-04 18:48:00 | doomben             |     10 |       11 | Lime Soda          |  34    | vulture,milkman      |
-|  63 | --                | 2021-12-04 18:48:00 | doomben             |     10 |        7 | Coco Rox           |  11    | vulture,milkman      |
+|  62 | 11.0              | 2021-12-04 18:48:00 | doomben             |     10 |       11 | Lime Soda          |  34    | vulture,milkman      |
+|  63 | 5.0               | 2021-12-04 18:48:00 | doomben             |     10 |        7 | Coco Rox           |  11    | vulture,milkman      |
 |  64 | 5.0               | 2021-12-04 18:38:00 | darwin              |      5 |        6 | Malibu Edition     |  11    | looseknot            |
 |  65 | 4.0               | 2021-12-04 18:25:00 | ascot               |      6 |        9 | Sparkling Blue     |  12    | milkman              |
 |  66 | 5.0               | 2021-12-04 18:25:00 | ascot               |      6 |        8 | Real Danger        |   5    | overthrow,pikey      |
