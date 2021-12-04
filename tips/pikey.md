@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-04 20:42:45 +1000  
+date: 2021-12-04 20:58:17 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2021-12-04 | ascot R9              | 2 Expressionist       |   0    |    -10   |
+| 6                 | 2021-12-04 | ascot R9              | 2 Expressionist       |   3.9  |    -10   |
 | :2nd_place_medal: | 2021-12-04 | ascot R8              | 7 Western Empire      |   1.3  |    -10   |
 | :2nd_place_medal: | 2021-12-04 | ascot R7              | 9 Bright Diamond      |   3.1  |    -10   |
 | 5                 | 2021-12-04 | ascot R6              | 8 Real Danger         |   5    |    -10   |
