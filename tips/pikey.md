@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-04 17:11:22 +1000  
+date: 2021-12-04 17:27:03 +1000  
 categories: None 
 ---   
 
@@ -20,7 +20,7 @@ categories: None
 | 19:05             | 2021-12-04 | ascot R7              | 9 Bright Diamond      |   3.1  |    -10   |
 | 18:25             | 2021-12-04 | ascot R6              | 8 Real Danger         |   5    |    -10   |
 | 17:45             | 2021-12-04 | ascot R5              | 4 Stageman            |   3.7  |    -10   |
-| 0                 | 2021-12-04 | ascot R4              | 4 Reliable Star       |   0    |    -10   |
+| :2nd_place_medal: | 2021-12-04 | ascot R4              | 4 Reliable Star       |   2.1  |    -10   |
 | 5                 | 2021-12-04 | ascot R3              | 9 Night Voyage        |   6    |    -10   |
 | 8                 | 2021-12-04 | ascot R2              | 8 Scandolo            |   7.5  |    -10   |
 | 4                 | 2021-12-04 | ascot R1              | 8 Ciao Luna           |   8.5  |    -10   |
