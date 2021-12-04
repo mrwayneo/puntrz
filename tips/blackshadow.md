@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-12-04 11:03:19 +1000  
+date: 2021-12-04 11:18:32 +1000  
 categories: None 
 ---   
 
@@ -42,8 +42,8 @@ categories: None
 | 5                 | 2021-11-20 | ascot R9               | 9 Bright Diamond      |  2.75 |    -10   |
 | 6                 | 2021-11-20 | sunshine-coast R9      | 6 Sir Warwick         |  3.4  |    -10   |
 | :2nd_place_medal: | 2021-11-20 | gold-coast R9          | 9 Storm Attack        |  7    |    -10   |
-| :2nd_place_medal: | 2021-11-20 | sunshine-coast R7      | 7 Totally Charmed     | 14    |    -10   |
 | :boom:            | 2021-11-20 | sunshine-coast R7      | 2 Zoustyle            |  2.1  |     11   |
+| :2nd_place_medal: | 2021-11-20 | sunshine-coast R7      | 7 Totally Charmed     | 14    |    -10   |
 | 5                 | 2021-11-20 | roma R4                | 4 Wait A Minute       |  4.6  |    -10   |
 | :boom:            | 2021-11-20 | ascot R1               | 1 Pure Devotion       |  1.6  |      6   |
 | :3rd_place_medal: | 2021-11-18 | rockhampton R5         | 2 Bluindi             |  2.7  |    -10   |
@@ -58,8 +58,8 @@ categories: None
 | 6                 | 2021-11-14 | hobart R5              | 3 Deroche             |  4    |    -10   |
 | :boom:            | 2021-11-14 | punchestown R4         | 8 Top Bandit          |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-14 | cheltenham R3          | 3 Mick Pastor         |  0    |    -10   |
-| 11                | 2021-11-13 | ascot R6               | 13 Temptacion         |  6    |    -10   |
 | :boom:            | 2021-11-13 | ascot R6               | 8 Midnight Blue       |  3.8  |     28   |
+| 11                | 2021-11-13 | ascot R6               | 13 Temptacion         |  6    |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R9             | 12 Morethannumberone  |  2.15 |    -10   |
 | :boom:            | 2021-11-13 | doomben R8             | 4 Tambo's Mate        |  3.3  |     23   |
 | :2nd_place_medal: | 2021-11-13 | ascot R3               | 8 Secret Plan         |  3    |    -10   |
@@ -253,8 +253,8 @@ categories: None
 | :2nd_place_medal: | 2021-08-04 | eagle-farm R6          | 6 Blackboots          |  4.4  |    -10   |
 | :boom:            | 2021-08-03 | rockhampton R3         | 3 The Egyptian        |  1.3  |      3   |
 | 5                 | 2021-08-02 | darwin R9              | 3 Autocratic          |  6.5  |    -10   |
-| 4                 | 2021-08-02 | darwin R7              | 5 No Say in It        | 34    |    -10   |
 | :2nd_place_medal: | 2021-08-02 | darwin R7              | 1 That's Justified    |  3    |    -10   |
+| 4                 | 2021-08-02 | darwin R7              | 5 No Say in It        | 34    |    -10   |
 | 6                 | 2021-08-02 | darwin R6              | 1 Taciturn            |  5.5  |    -10   |
 | :boom:            | 2021-08-02 | darwin R4              | 4 Belmont Day         |  1.5  |      5   |
 | :boom:            | 2021-08-02 | darwin R3              | 6 Silver Melody       |  5.7  |     47   |
@@ -329,8 +329,8 @@ categories: None
 | :2nd_place_medal: | 2021-06-12 | darwin R6              | 8 Tugga War           |  6    |    -10   |
 | 5                 | 2021-06-12 | belmont R5             | 5 Devoted Star        |  2.7  |    -10   |
 | :2nd_place_medal: | 2021-06-12 | darwin R1              | 5 Patria              |  2.5  |    -10   |
-| :boom:            | 2021-06-10 | rockhampton R4         | 1 Tango Rain          |  3.4  |     24   |
 | :2nd_place_medal: | 2021-06-10 | rockhampton R4         | 2 Barachiel           |  4.05 |    -10   |
+| :boom:            | 2021-06-10 | rockhampton R4         | 1 Tango Rain          |  3.4  |     24   |
 | 7                 | 2021-06-06 | devonport-synthetic R8 | 5 Spihro              |  9.5  |    -10   |
 | 7                 | 2021-06-06 | devonport-synthetic R7 | 3 Lesnar              |  7.5  |    -10   |
 | :3rd_place_medal: | 2021-06-05 | belmont R9             | 11 Bright Diamond     |  1.9  |    -10   |
@@ -356,8 +356,8 @@ categories: None
 | :boom:            | 2021-05-29 | darwin R1              | 7 The Auditor         | 12.5  |    115   |
 | :boom:            | 2021-05-29 | belmont R2             | 6 Graceful Girl       |  2.6  |     16   |
 | 8                 | 2021-05-29 | eagle-farm R5          | 1 Southern France     | 11.2  |    -10   |
-| 12                | 2021-05-29 | eagle-farm R3          | 7 Exoboom             |  8.5  |    -10   |
 | 7                 | 2021-05-29 | eagle-farm R3          | 1 Aim                 | 26    |    -10   |
+| 12                | 2021-05-29 | eagle-farm R3          | 7 Exoboom             |  8.5  |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R4      | 5 Weboughtazou        |  2.9  |    -10   |
 | 6                 | 2021-05-26 | belmont R1             | 3 Nowhiteflag         |  1.95 |    -10   |
 | :boom:            | 2021-05-25 | rockhampton R2         | 1 Stubai              |  2    |     10   |
@@ -414,8 +414,8 @@ categories: None
 | :3rd_place_medal: | 2021-04-25 | sha-tin R8             | 6 Daring Tact         |  2.15 |    -10   |
 | :3rd_place_medal: | 2021-04-25 | devonport-synthetic R6 | 4 Rhyme Writer        |  4.8  |    -10   |
 | 10                | 2021-04-24 | morphettville-parks R9 | 2 Azaly               | 17    |    -10   |
-| :2nd_place_medal: | 2021-04-24 | darwin R4              | 1 Patria              |  2.8  |    -10   |
 | 5                 | 2021-04-24 | darwin R4              | 4 Trebla              | 14    |    -10   |
+| :2nd_place_medal: | 2021-04-24 | darwin R4              | 1 Patria              |  2.8  |    -10   |
 | :3rd_place_medal: | 2021-04-24 | darwin R2              | 3 Kaptan Apollo       |  6.5  |    -10   |
 | 4                 | 2021-04-24 | darwin R2              | 2 Paseeto             |  6    |    -10   |
 | :3rd_place_medal: | 2021-04-24 | darwin R1              | 1 God's Penny         |  2.55 |    -10   |
@@ -443,8 +443,8 @@ categories: None
 | 4                 | 2021-04-17 | randwick R5            | 2 Amarelinha          |  4.65 |    -10   |
 | 7                 | 2021-04-17 | caulfield R1           | 4 Fanciful Toff       |  3.7  |    -10   |
 | :2nd_place_medal: | 2021-04-16 | darwin R4              | 2 Patriot Day         |  4.2  |    -10   |
-| 5                 | 2021-04-16 | darwin R2              | 4 The Auditor         | 11    |    -10   |
 | 4                 | 2021-04-16 | darwin R2              | 2 Kowloon Kid         |  4.6  |    -10   |
+| 5                 | 2021-04-16 | darwin R2              | 4 The Auditor         | 11    |    -10   |
 | :boom:            | 2021-04-15 | albany R6              | 6 Strathmore Rose     |  1.4  |      4   |
 | 4                 | 2021-04-15 | albany R4              | 1 Captain Sharmane    |  2.25 |    -10   |
 | 6                 | 2021-04-14 | eagle-farm R8          | 6 Highmaster          |  1.96 |    -10   |
@@ -460,8 +460,8 @@ categories: None
 | :3rd_place_medal: | 2021-04-10 | rockhampton R2         | 3 Disco Mo            |  5.5  |    -10   |
 | 5                 | 2021-04-10 | doomben R3             | 1 Cloak               |  3.6  |    -10   |
 | 99                | 2021-04-10 | aintree R4             | 8 Politologue         |  3.65 |    -10   |
-| :boom:            | 2021-04-09 | darwin R3              | 2 Papalet             |  2.3  |     13   |
 | :2nd_place_medal: | 2021-04-09 | darwin R3              | 1 Divine Red          |  4.2  |    -10   |
+| :boom:            | 2021-04-09 | darwin R3              | 2 Papalet             |  2.3  |     13   |
 | :3rd_place_medal: | 2021-04-09 | darwin R2              | 3 God's Penny         |  5    |    -10   |
 | :boom:            | 2021-04-09 | darwin R1              | 1 Kaptan Apollo       |  2.7  |     17   |
 | 4                 | 2021-04-09 | rockhampton R3         | 1 Mr Phenomenal       |  5    |    -10   |
