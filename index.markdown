@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 13:11:15 +1000  
+date: 2021-12-04 13:20:48 +1000  
 ---   
 
 
@@ -18,8 +18,8 @@ date: 2021-12-04 13:11:15 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     10 |      0 |     -100 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |     -110 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      0 |     -240 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      0 |     -300 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      1 |     -221 | 0.04 | -0.92 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      1 |     -281 | 0.03 | -0.94 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |      0 |     -390 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      1 |     -436 | 0.02 | -0.95 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     44 |      0 |     -440 | 0    | -1    |
@@ -185,7 +185,7 @@ date: 2021-12-04 13:11:15 +1000
 | 112 | :soon:            | 2021-12-04 13:57:00 | morphettville-parks |      3 |        1 | Diplomatic Measure |   9.5  | vulture              |
 | 113 | :soon:            | 2021-12-04 13:30:00 | rosehill            |      3 |        6 | Starman            |   4.5  | jmac                 |
 | 114 | :soon:            | 2021-12-04 13:30:00 | rosehill            |      3 |        7 | Sacrimony          |   8    | milkman,wallbow      |
-| 115 | --                | 2021-12-04 13:03:00 | doomben             |      1 |        1 | Capital Tower      |   3.4  | overthrow,milkman    |
+| 115 | :boom:            | 2021-12-04 13:03:00 | doomben             |      1 |        1 | Capital Tower      |   3.4  | overthrow,milkman    |
 | 116 | --                | 2021-12-04 13:03:00 | doomben             |      1 |        5 | Burnish Gold       |   9.5  | milkman              |
 | 117 | 4.0               | 2021-12-04 12:47:00 | morphettville-parks |      1 |        1 | Swamp Vixen        |   5    | pangea               |
 | 118 | :boom:            | 2021-12-04 12:35:00 | racing.com-park     |      1 |        4 | Lyrical Lad        |   2.6  | vulture              |
