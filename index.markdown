@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 17:27:04 +1000  
+date: 2021-12-04 17:42:03 +1000  
 ---   
 
 
@@ -22,8 +22,8 @@ date: 2021-12-04 17:27:04 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |      6 |     -176 | 0.15 | -0.45 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      3 |     -181 | 0.12 | -0.75 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      5 |     -290 | 0.11 | -0.63 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      2 |     -435 | 0.04 | -0.91 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     44 |      0 |     -440 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      1 |     -451 | 0.02 | -0.94 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     93 |      0 |     -930 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -145,9 +145,9 @@ date: 2021-12-04 17:27:04 +1000
 |  72 | :soon:            | 2021-12-04 18:05:00 | darwin              |      4 |        3 | Bel's Banner       |   2    | benny,icyhot         |
 |  73 | :soon:            | 2021-12-04 18:00:00 | rosehill            |     10 |       10 | El Buena           |   8.5  | pangea,jmac          |
 |  74 | :soon:            | 2021-12-04 17:45:00 | ascot               |      5 |        4 | Stageman           |   3.7  | vulture,pikey        |
-|  75 | --                | 2021-12-04 17:22:00 | toowoomba           |      1 |        7 | Vast Kama          |   6    | vulture,blackshadow  |
+|  75 | :2nd_place_medal: | 2021-12-04 17:22:00 | toowoomba           |      1 |        7 | Vast Kama          |   6    | vulture,blackshadow  |
 |  76 | :2nd_place_medal: | 2021-12-04 17:20:00 | rosehill            |      9 |        3 | Bigboyroy          |   4.4  | jmac                 |
-|  77 | --                | 2021-12-04 17:12:00 | morphettville-parks |      8 |       10 | Around The Horn    |   7    | milkman              |
+|  77 | 10.0              | 2021-12-04 17:12:00 | morphettville-parks |      8 |       10 | Around The Horn    |   7    | milkman              |
 |  78 | :boom:            | 2021-12-04 17:09:00 | gold-coast          |      7 |        1 | Weona Smartone     |   1.26 | pangea,icyhot        |
 |  79 | :2nd_place_medal: | 2021-12-04 17:05:00 | ascot               |      4 |        4 | Reliable Star      |   2.1  | vulture,pikey        |
 |  80 | :boom:            | 2021-12-04 16:48:00 | doomben             |      7 |        5 | Tambo's Mate       |   4.4  | pangea,blackshadow   |
