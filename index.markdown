@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 14:36:17 +1000  
+date: 2021-12-04 14:50:51 +1000  
 ---   
 
 
@@ -178,9 +178,9 @@ date: 2021-12-04 14:36:17 +1000
 | 105 | :soon:            | 2021-12-04 15:05:00 | ascot               |      1 |        8 | Ciao Luna          |   8.5  | pikey                |
 | 106 | :2nd_place_medal: | 2021-12-04 14:22:00 | rockhampton         |      2 |        9 | In Order           |   1.67 | evenodds,overthrow   |
 | 107 | :3rd_place_medal: | 2021-12-04 14:13:00 | doomben             |      3 |        3 | Ashgrove           |   2.25 | overthrow            |
-| 108 | --                | 2021-12-04 14:13:00 | doomben             |      3 |        5 | Deep Tempest       |   7.5  | vulture              |
-| 109 | --                | 2021-12-04 14:05:00 | rosehill            |      4 |        2 | Marway             |  23    | pangea               |
-| 110 | :3rd_place_medal: | 2021-12-04 14:05:00 | rosehill            |      4 |        7 | Tycoonist          |   4    | jmac                 |
+| 108 | 7.0               | 2021-12-04 14:13:00 | doomben             |      3 |        5 | Deep Tempest       |   7.5  | vulture              |
+| 109 | 8.0               | 2021-12-04 14:05:00 | rosehill            |      4 |        2 | Marway             |  23    | pangea               |
+| 110 | :2nd_place_medal: | 2021-12-04 14:05:00 | rosehill            |      4 |        7 | Tycoonist          |   4    | jmac                 |
 | 111 | :boom:            | 2021-12-04 13:57:00 | morphettville-parks |      3 |        5 | Full Probe         |   3    | vulture              |
 | 112 | 7.0               | 2021-12-04 13:57:00 | morphettville-parks |      3 |        1 | Diplomatic Measure |   9.5  | vulture              |
 | 113 | :boom:            | 2021-12-04 13:30:00 | rosehill            |      3 |        6 | Starman            |   4.5  | jmac                 |
