@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 17:42:03 +1000  
+date: 2021-12-04 17:57:02 +1000  
 ---   
 
 
@@ -144,7 +144,7 @@ date: 2021-12-04 17:42:03 +1000
 |  71 | :soon:            | 2021-12-04 18:05:00 | darwin              |      4 |        4 | Fromthenevernever  |   2.5  | moechilli            |
 |  72 | :soon:            | 2021-12-04 18:05:00 | darwin              |      4 |        3 | Bel's Banner       |   2    | benny,icyhot         |
 |  73 | :soon:            | 2021-12-04 18:00:00 | rosehill            |     10 |       10 | El Buena           |   8.5  | pangea,jmac          |
-|  74 | :soon:            | 2021-12-04 17:45:00 | ascot               |      5 |        4 | Stageman           |   3.7  | vulture,pikey        |
+|  74 | :2nd_place_medal: | 2021-12-04 17:45:00 | ascot               |      5 |        4 | Stageman           |   3.7  | vulture,pikey        |
 |  75 | :2nd_place_medal: | 2021-12-04 17:22:00 | toowoomba           |      1 |        7 | Vast Kama          |   6    | vulture,blackshadow  |
 |  76 | :2nd_place_medal: | 2021-12-04 17:20:00 | rosehill            |      9 |        3 | Bigboyroy          |   4.4  | jmac                 |
 |  77 | 10.0              | 2021-12-04 17:12:00 | morphettville-parks |      8 |       10 | Around The Horn    |   7    | milkman              |
