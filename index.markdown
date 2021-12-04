@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 18:43:26 +1000  
+date: 2021-12-04 18:58:21 +1000  
 ---   
 
 
@@ -130,11 +130,11 @@ date: 2021-12-04 18:43:26 +1000
 |  57 | :soon:            | 2021-12-04 19:05:00 | ascot               |      7 |        9 | Bright Diamond     |   3.1  | pangea,pikey         |
 |  58 | :soon:            | 2021-12-04 19:05:00 | ascot               |      7 |       10 | Real Charisma      |  12    | pangea,blackshadow   |
 |  59 | :soon:            | 2021-12-04 19:05:00 | ascot               |      7 |        4 | Angelic Miss       |   5.5  | vulture              |
-|  60 | :soon:            | 2021-12-04 18:48:00 | doomben             |     10 |        4 | Stellar Magic      |   5.5  | overthrow            |
-|  61 | :soon:            | 2021-12-04 18:48:00 | doomben             |     10 |       10 | Putontheredlight   |   7.5  | overthrow            |
-|  62 | :soon:            | 2021-12-04 18:48:00 | doomben             |     10 |       11 | Lime Soda          |  34    | vulture,milkman      |
-|  63 | :soon:            | 2021-12-04 18:48:00 | doomben             |     10 |        7 | Coco Rox           |  11    | vulture,milkman      |
-|  64 | --                | 2021-12-04 18:38:00 | darwin              |      5 |        6 | Malibu Edition     |  11    | looseknot            |
+|  60 | --                | 2021-12-04 18:48:00 | doomben             |     10 |        4 | Stellar Magic      |   5.5  | overthrow            |
+|  61 | --                | 2021-12-04 18:48:00 | doomben             |     10 |       10 | Putontheredlight   |   7.5  | overthrow            |
+|  62 | --                | 2021-12-04 18:48:00 | doomben             |     10 |       11 | Lime Soda          |  34    | vulture,milkman      |
+|  63 | --                | 2021-12-04 18:48:00 | doomben             |     10 |        7 | Coco Rox           |  11    | vulture,milkman      |
+|  64 | 5.0               | 2021-12-04 18:38:00 | darwin              |      5 |        6 | Malibu Edition     |  11    | looseknot            |
 |  65 | 4.0               | 2021-12-04 18:25:00 | ascot               |      6 |        9 | Sparkling Blue     |  12    | milkman              |
 |  66 | 5.0               | 2021-12-04 18:25:00 | ascot               |      6 |        8 | Real Danger        |   5    | overthrow,pikey      |
 |  67 | --                | 2021-12-04 18:10:00 | doomben             |      9 |        9 | Shooting For Gold  |   4.8  | pangea,icyhot        |
