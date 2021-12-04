@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 13:35:44 +1000  
+date: 2021-12-04 13:50:31 +1000  
 ---   
 
 
@@ -186,7 +186,7 @@ date: 2021-12-04 13:35:44 +1000
 | 113 | :boom:            | 2021-12-04 13:30:00 | rosehill            |      3 |        6 | Starman            |   4.5  | jmac                 |
 | 114 | :2nd_place_medal: | 2021-12-04 13:30:00 | rosehill            |      3 |        7 | Sacrimony          |   8    | milkman,wallbow      |
 | 115 | :boom:            | 2021-12-04 13:03:00 | doomben             |      1 |        1 | Capital Tower      |   3.4  | overthrow,milkman    |
-| 116 | --                | 2021-12-04 13:03:00 | doomben             |      1 |        5 | Burnish Gold       |   9.5  | milkman              |
+| 116 | 5.0               | 2021-12-04 13:03:00 | doomben             |      1 |        5 | Burnish Gold       |   9.5  | milkman              |
 | 117 | 4.0               | 2021-12-04 12:47:00 | morphettville-parks |      1 |        1 | Swamp Vixen        |   5    | pangea               |
 | 118 | :boom:            | 2021-12-04 12:35:00 | racing.com-park     |      1 |        4 | Lyrical Lad        |   2.6  | vulture              |
 | 119 | 6.0               | 2021-12-04 12:35:00 | racing.com-park     |      1 |        7 | Tycoon Bec         |   3.4  | milkman              |
