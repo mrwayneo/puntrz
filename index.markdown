@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 16:26:20 +1000  
+date: 2021-12-04 16:41:21 +1000  
 ---   
 
 
@@ -18,7 +18,7 @@ date: 2021-12-04 16:26:20 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      8 |      0 |      -80 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     10 |      0 |     -100 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      2 |     -202 | 0.08 | -0.84 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      3 |     -181 | 0.12 | -0.75 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      2 |     -210 | 0.07 | -0.7  |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |      4 |     -223 | 0.1  | -0.57 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      5 |     -290 | 0.11 | -0.63 |
@@ -155,9 +155,9 @@ date: 2021-12-04 16:26:20 +1000
 |  82 | :soon:            | 2021-12-04 16:48:00 | doomben             |      7 |        3 | The Harrovian      |   3.9  | pangea,icyhot        |
 |  83 | :soon:            | 2021-12-04 16:48:00 | doomben             |      7 |       10 | Tumbler Ridge      |  18    | pangea               |
 |  84 | :soon:            | 2021-12-04 16:42:00 | darwin              |      2 |        3 | Mr Cashman         |   3.75 | overthrow            |
-|  85 | :soon:            | 2021-12-04 16:40:00 | rosehill            |      8 |        1 | Francesco Guardi   |   3.1  | jmac                 |
-|  86 | --                | 2021-12-04 16:25:00 | ascot               |      3 |        9 | Night Voyage       |   6    | pikey                |
-|  87 | --                | 2021-12-04 16:25:00 | ascot               |      3 |        4 | Written Matter     |   2.4  | milkman              |
+|  85 | --                | 2021-12-04 16:40:00 | rosehill            |      8 |        1 | Francesco Guardi   |   3.1  | jmac                 |
+|  86 | 5.0               | 2021-12-04 16:25:00 | ascot               |      3 |        9 | Night Voyage       |   6    | pikey                |
+|  87 | :boom:            | 2021-12-04 16:25:00 | ascot               |      3 |        4 | Written Matter     |   2.4  | milkman              |
 |  88 | :2nd_place_medal: | 2021-12-04 16:22:00 | rockhampton         |      5 |        9 | Scoria Star        |   3.9  | evenodds,blackshadow |
 |  89 | :2nd_place_medal: | 2021-12-04 16:20:00 | racing.com-park     |      7 |        3 | Good Idea          |  26    | pangea               |
 |  90 | :boom:            | 2021-12-04 16:20:00 | racing.com-park     |      7 |        8 | Smokin' Romans     |   3.1  | vulture,pangea       |
