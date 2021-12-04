@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 18:58:21 +1000  
+date: 2021-12-04 19:13:54 +1000  
 ---   
 
 
@@ -21,7 +21,7 @@ date: 2021-12-04 18:58:21 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      4 |     -149 | 0.13 | -0.5  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      3 |     -181 | 0.12 | -0.75 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      5 |     -290 | 0.11 | -0.63 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      6 |     -215 | 0.13 | -0.47 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      2 |     -435 | 0.04 | -0.91 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     44 |      0 |     -440 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     93 |      0 |     -930 | 0    | -1    |
@@ -127,11 +127,11 @@ date: 2021-12-04 18:58:21 +1000
 |  54 | :soon:            | 2021-12-04 19:55:00 | toowoomba           |      5 |        3 | Open Road          |   7.5  | vulture              |
 |  55 | :soon:            | 2021-12-04 19:45:00 | ascot               |      8 |        7 | Western Empire     |   1.3  | pangea,pikey         |
 |  56 | :soon:            | 2021-12-04 19:45:00 | ascot               |      8 |        9 | Kissonallforcheeks |  17    | milkman              |
-|  57 | :soon:            | 2021-12-04 19:05:00 | ascot               |      7 |        9 | Bright Diamond     |   3.1  | pangea,pikey         |
-|  58 | :soon:            | 2021-12-04 19:05:00 | ascot               |      7 |       10 | Real Charisma      |  12    | pangea,blackshadow   |
-|  59 | :soon:            | 2021-12-04 19:05:00 | ascot               |      7 |        4 | Angelic Miss       |   5.5  | vulture              |
-|  60 | --                | 2021-12-04 18:48:00 | doomben             |     10 |        4 | Stellar Magic      |   5.5  | overthrow            |
-|  61 | --                | 2021-12-04 18:48:00 | doomben             |     10 |       10 | Putontheredlight   |   7.5  | overthrow            |
+|  57 | :2nd_place_medal: | 2021-12-04 19:05:00 | ascot               |      7 |        9 | Bright Diamond     |   3.1  | pangea,pikey         |
+|  58 | --                | 2021-12-04 19:05:00 | ascot               |      7 |       10 | Real Charisma      |  12    | pangea,blackshadow   |
+|  59 | :boom:            | 2021-12-04 19:05:00 | ascot               |      7 |        4 | Angelic Miss       |   5.5  | vulture              |
+|  60 | 4.0               | 2021-12-04 18:48:00 | doomben             |     10 |        4 | Stellar Magic      |   5.5  | overthrow            |
+|  61 | :2nd_place_medal: | 2021-12-04 18:48:00 | doomben             |     10 |       10 | Putontheredlight   |   7.5  | overthrow            |
 |  62 | --                | 2021-12-04 18:48:00 | doomben             |     10 |       11 | Lime Soda          |  34    | vulture,milkman      |
 |  63 | --                | 2021-12-04 18:48:00 | doomben             |     10 |        7 | Coco Rox           |  11    | vulture,milkman      |
 |  64 | 5.0               | 2021-12-04 18:38:00 | darwin              |      5 |        6 | Malibu Edition     |  11    | looseknot            |
