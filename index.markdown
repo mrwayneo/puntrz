@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 20:29:11 +1000  
+date: 2021-12-04 20:42:46 +1000  
 ---   
 
 
@@ -10,18 +10,18 @@ date: 2021-12-04 20:29:11 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      2 |       49 | 0.25 |  0.61 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     10 |      3 |       21 | 0.3  |  0.21 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |     10 |       17 | 0.26 |  0.04 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      7 |      3 |       -9 | 0.43 | -0.13 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      8 |      3 |      -26 | 0.38 | -0.32 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      1 |      -39 | 0.09 | -0.35 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     10 |      2 |      -53 | 0.2  | -0.53 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |      9 |      -57 | 0.23 | -0.15 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      7 |     -141 | 0.15 | -0.31 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      4 |     -149 | 0.13 | -0.5  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      3 |     -181 | 0.12 | -0.75 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      6 |     -215 | 0.13 | -0.47 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      2 |     -435 | 0.04 | -0.91 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     44 |      0 |     -440 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     93 |      0 |     -930 | 0    | -1    |
@@ -121,9 +121,9 @@ date: 2021-12-04 20:29:11 +1000
 |  48 | :soon:            | 2021-12-04 22:30:00 | navan               |      1 |        9 | Prevaricate        |   2.25 | vulture              |
 |  49 | :soon:            | 2021-12-04 22:15:00 | aintree             |      1 |        1 | Bombs Away         |   2.4  | vulture              |
 |  50 | :soon:            | 2021-12-04 21:50:00 | toowoomba           |      8 |        5 | Bit Of A Beauty    |   8.5  | benny,pangea         |
-|  51 | :soon:            | 2021-12-04 20:35:00 | toowoomba           |      6 |        6 | Rowdash            |   1.4  | vulture              |
+|  51 | --                | 2021-12-04 20:35:00 | toowoomba           |      6 |        6 | Rowdash            |   1.4  | vulture              |
 |  52 | --                | 2021-12-04 20:20:00 | ascot               |      9 |        2 | Expressionist      |   3.9  | vulture,pikey        |
-|  53 | --                | 2021-12-04 20:20:00 | ascot               |      9 |        9 | Memorable Miss     |   5    | vulture,blackshadow  |
+|  53 | :boom:            | 2021-12-04 20:20:00 | ascot               |      9 |        9 | Memorable Miss     |   5    | vulture,blackshadow  |
 |  54 | 9.0               | 2021-12-04 19:55:00 | toowoomba           |      5 |        3 | Open Road          |   7.5  | vulture              |
 |  55 | :2nd_place_medal: | 2021-12-04 19:45:00 | ascot               |      8 |        7 | Western Empire     |   1.3  | pangea,pikey         |
 |  56 | :3rd_place_medal: | 2021-12-04 19:45:00 | ascot               |      8 |        9 | Kissonallforcheeks |  17    | milkman              |
