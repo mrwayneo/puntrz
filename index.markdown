@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 20:12:47 +1000  
+date: 2021-12-04 20:29:11 +1000  
 ---   
 
 
@@ -122,9 +122,9 @@ date: 2021-12-04 20:12:47 +1000
 |  49 | :soon:            | 2021-12-04 22:15:00 | aintree             |      1 |        1 | Bombs Away         |   2.4  | vulture              |
 |  50 | :soon:            | 2021-12-04 21:50:00 | toowoomba           |      8 |        5 | Bit Of A Beauty    |   8.5  | benny,pangea         |
 |  51 | :soon:            | 2021-12-04 20:35:00 | toowoomba           |      6 |        6 | Rowdash            |   1.4  | vulture              |
-|  52 | :soon:            | 2021-12-04 20:20:00 | ascot               |      9 |        2 | Expressionist      |   3.9  | vulture,pikey        |
-|  53 | :soon:            | 2021-12-04 20:20:00 | ascot               |      9 |        9 | Memorable Miss     |   5    | vulture,blackshadow  |
-|  54 | --                | 2021-12-04 19:55:00 | toowoomba           |      5 |        3 | Open Road          |   7.5  | vulture              |
+|  52 | --                | 2021-12-04 20:20:00 | ascot               |      9 |        2 | Expressionist      |   3.9  | vulture,pikey        |
+|  53 | --                | 2021-12-04 20:20:00 | ascot               |      9 |        9 | Memorable Miss     |   5    | vulture,blackshadow  |
+|  54 | 9.0               | 2021-12-04 19:55:00 | toowoomba           |      5 |        3 | Open Road          |   7.5  | vulture              |
 |  55 | :2nd_place_medal: | 2021-12-04 19:45:00 | ascot               |      8 |        7 | Western Empire     |   1.3  | pangea,pikey         |
 |  56 | :3rd_place_medal: | 2021-12-04 19:45:00 | ascot               |      8 |        9 | Kissonallforcheeks |  17    | milkman              |
 |  57 | :2nd_place_medal: | 2021-12-04 19:05:00 | ascot               |      7 |        9 | Bright Diamond     |   3.1  | pangea,pikey         |
