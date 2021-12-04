@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 16:56:20 +1000  
+date: 2021-12-04 17:11:23 +1000  
 ---   
 
 
@@ -148,8 +148,8 @@ date: 2021-12-04 16:56:20 +1000
 |  75 | :soon:            | 2021-12-04 17:22:00 | toowoomba           |      1 |        7 | Vast Kama          |   6    | vulture,blackshadow  |
 |  76 | :soon:            | 2021-12-04 17:20:00 | rosehill            |      9 |        3 | Bigboyroy          |   4.4  | jmac                 |
 |  77 | :soon:            | 2021-12-04 17:12:00 | morphettville-parks |      8 |       10 | Around The Horn    |   7    | milkman              |
-|  78 | :soon:            | 2021-12-04 17:09:00 | gold-coast          |      7 |        1 | Weona Smartone     |   1.26 | pangea,icyhot        |
-|  79 | :soon:            | 2021-12-04 17:05:00 | ascot               |      4 |        4 | Reliable Star      |   2.1  | vulture,pikey        |
+|  78 | --                | 2021-12-04 17:09:00 | gold-coast          |      7 |        1 | Weona Smartone     |   1.26 | pangea,icyhot        |
+|  79 | --                | 2021-12-04 17:05:00 | ascot               |      4 |        4 | Reliable Star      |   2.1  | vulture,pikey        |
 |  80 | :boom:            | 2021-12-04 16:48:00 | doomben             |      7 |        5 | Tambo's Mate       |   4.4  | pangea,blackshadow   |
 |  81 | :3rd_place_medal: | 2021-12-04 16:48:00 | doomben             |      7 |        2 | Niccanova          |   4.8  | pangea,overthrow     |
 |  82 | --                | 2021-12-04 16:48:00 | doomben             |      7 |        3 | The Harrovian      |   3.9  | pangea,icyhot        |
