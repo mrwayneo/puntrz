@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-12-04 14:20:40 +1000  
+date: 2021-12-04 14:36:05 +1000  
 categories: None 
 ---   
 
@@ -21,7 +21,7 @@ categories: None
 | 18:10             | 2021-12-04 | doomben R9              | 5 Zoustyle            |  2.15 |    -10   |
 | 18:05             | 2021-12-04 | darwin R4               | 3 Bel's Banner        |  2    |    -10   |
 | 15:28             | 2021-12-04 | doomben R5              | 2 Far Too Easy        |  2.5  |    -10   |
-| 0                 | 2021-12-04 | racing.com-park R4      | 10 Irish Mist         |  0    |    -10   |
+| 4                 | 2021-12-04 | racing.com-park R4      | 10 Irish Mist         | 20    |    -10   |
 | :2nd_place_medal: | 2021-12-03 | devonport-synthetic R7  | 1 Ubriaco             |  4.75 |    -10   |
 | 6                 | 2021-12-03 | devonport-synthetic R5  | 10 Rising Light       |  4.8  |    -10   |
 | :2nd_place_medal: | 2021-12-02 | wangaratta R6           | 2 Sokkies             | 12    |    -10   |
@@ -215,8 +215,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-28 | darwin R4               | 2 Sebrakate           | 15    |    -10   |
 | :boom:            | 2021-08-28 | darwin R3               | 4 Patriot Day         | 10.5  |     95   |
 | 9                 | 2021-08-28 | darwin R3               | 3 Kaptan Apollo       | 26    |    -10   |
-| 11                | 2021-08-28 | cairns R6               | 3 Hidden in Heaven    | 34    |    -10   |
 | 7                 | 2021-08-28 | cairns R6               | 8 Bold Type           |  4.2  |    -10   |
+| 11                | 2021-08-28 | cairns R6               | 3 Hidden in Heaven    | 34    |    -10   |
 | 5                 | 2021-08-28 | caulfield R6            | 10 Diamonds Inthe Sky | 21    |    -10   |
 | 7                 | 2021-08-28 | darwin R2               | 3 Trebla              |  5.5  |    -10   |
 | 9                 | 2021-08-28 | doomben R6              | 4 Let's Party Marty   | 19    |    -10   |
@@ -412,8 +412,8 @@ categories: None
 | 10                | 2021-05-08 | newcastle R7            | 5 Favra               |  8    |    -10   |
 | :2nd_place_medal: | 2021-05-08 | ascot R2                | 2 Born To Try         |  2.25 |    -10   |
 | 4                 | 2021-05-08 | gosford R6              | 1 Signore Fox         |  6    |    -10   |
-| 6                 | 2021-05-08 | morphettville R4        | 8 Secret Vega         | 23    |    -10   |
 | 8                 | 2021-05-08 | morphettville R4        | 9 Calypso Reign       |  7    |    -10   |
+| 6                 | 2021-05-08 | morphettville R4        | 8 Secret Vega         | 23    |    -10   |
 | 4                 | 2021-05-08 | gosford R4              | 6 Blesk               |  5    |    -10   |
 | 8                 | 2021-05-08 | gold-coast R4           | 5 Capital Connection  | 21    |    -10   |
 | :boom:            | 2021-05-07 | albany R2               | 7 Kazkazi             |  3.5  |     25   |
@@ -441,8 +441,8 @@ categories: None
 | :3rd_place_medal: | 2021-04-25 | devonport-synthetic R6  | 4 Rhyme Writer        |  4.8  |    -10   |
 | 5                 | 2021-04-25 | alice-springs R1        | 4 Dataset             |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-25 | awapuni R1              | 2 Maison Roxanne      |  2.4  |    -10   |
-| :2nd_place_medal: | 2021-04-24 | darwin R4               | 1 Patria              |  2.8  |    -10   |
 | 5                 | 2021-04-24 | darwin R4               | 4 Trebla              | 14    |    -10   |
+| :2nd_place_medal: | 2021-04-24 | darwin R4               | 1 Patria              |  2.8  |    -10   |
 | 4                 | 2021-04-24 | darwin R2               | 2 Paseeto             |  6    |    -10   |
 | 5                 | 2021-04-24 | morphettville-parks R7  | 9 Renegade            | 14    |    -10   |
 | 4                 | 2021-04-24 | doomben R6              | 2 Good Soize          |  6.6  |    -10   |

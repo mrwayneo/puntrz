@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 14:20:48 +1000  
+date: 2021-12-04 14:36:17 +1000  
 ---   
 
 
@@ -176,7 +176,7 @@ date: 2021-12-04 14:20:48 +1000
 | 103 | :soon:            | 2021-12-04 15:20:00 | rosehill            |      6 |        7 | Karlstad           |   3.9  | pangea,wallbow       |
 | 104 | :soon:            | 2021-12-04 15:05:00 | ascot               |      1 |        6 | Costume Party      |   4.33 | milkman              |
 | 105 | :soon:            | 2021-12-04 15:05:00 | ascot               |      1 |        8 | Ciao Luna          |   8.5  | pikey                |
-| 106 | :soon:            | 2021-12-04 14:22:00 | rockhampton         |      2 |        9 | In Order           |   1.67 | evenodds,overthrow   |
+| 106 | :2nd_place_medal: | 2021-12-04 14:22:00 | rockhampton         |      2 |        9 | In Order           |   1.67 | evenodds,overthrow   |
 | 107 | :3rd_place_medal: | 2021-12-04 14:13:00 | doomben             |      3 |        3 | Ashgrove           |   2.25 | overthrow            |
 | 108 | --                | 2021-12-04 14:13:00 | doomben             |      3 |        5 | Deep Tempest       |   7.5  | vulture              |
 | 109 | --                | 2021-12-04 14:05:00 | rosehill            |      4 |        2 | Marway             |  23    | pangea               |
