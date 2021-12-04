@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 13:20:48 +1000  
+date: 2021-12-04 13:35:44 +1000  
 ---   
 
 
@@ -11,10 +11,10 @@ date: 2021-12-04 13:20:48 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      1 |      -28 | 0.12 | -0.35 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      7 |      0 |      -70 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      8 |      0 |      -80 | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      0 |      -80 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     10 |      0 |     -100 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |     -110 | 0    | -1    |
@@ -183,8 +183,8 @@ date: 2021-12-04 13:20:48 +1000
 | 110 | :soon:            | 2021-12-04 14:05:00 | rosehill            |      4 |        7 | Tycoonist          |   4    | jmac                 |
 | 111 | :soon:            | 2021-12-04 13:57:00 | morphettville-parks |      3 |        5 | Full Probe         |   3    | vulture              |
 | 112 | :soon:            | 2021-12-04 13:57:00 | morphettville-parks |      3 |        1 | Diplomatic Measure |   9.5  | vulture              |
-| 113 | :soon:            | 2021-12-04 13:30:00 | rosehill            |      3 |        6 | Starman            |   4.5  | jmac                 |
-| 114 | :soon:            | 2021-12-04 13:30:00 | rosehill            |      3 |        7 | Sacrimony          |   8    | milkman,wallbow      |
+| 113 | :boom:            | 2021-12-04 13:30:00 | rosehill            |      3 |        6 | Starman            |   4.5  | jmac                 |
+| 114 | :2nd_place_medal: | 2021-12-04 13:30:00 | rosehill            |      3 |        7 | Sacrimony          |   8    | milkman,wallbow      |
 | 115 | :boom:            | 2021-12-04 13:03:00 | doomben             |      1 |        1 | Capital Tower      |   3.4  | overthrow,milkman    |
 | 116 | --                | 2021-12-04 13:03:00 | doomben             |      1 |        5 | Burnish Gold       |   9.5  | milkman              |
 | 117 | 4.0               | 2021-12-04 12:47:00 | morphettville-parks |      1 |        1 | Swamp Vixen        |   5    | pangea               |

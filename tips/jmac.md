@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-04 13:20:47 +1000  
+date: 2021-12-04 13:35:43 +1000  
 categories: None 
 ---   
 
@@ -21,7 +21,7 @@ categories: None
 | 16:00             | 2021-12-04 | rosehill R7       | 3 Welsh Legend       |  5.5  |    -10   |
 | 15:20             | 2021-12-04 | rosehill R6       | 2 Rousseau           |  2.6  |    -10   |
 | 14:05             | 2021-12-04 | rosehill R4       | 7 Tycoonist          |  4    |    -10   |
-| 13:30             | 2021-12-04 | rosehill R3       | 6 Starman            |  4.5  |    -10   |
+| :boom:            | 2021-12-04 | rosehill R3       | 6 Starman            |  5.2  |     42   |
 | :2nd_place_medal: | 2021-12-04 | rosehill R1       | 4 Saigon             |  8    |    -10   |
 | :boom:            | 2021-12-03 | kensington R3     | 5 Socialist          |  1.9  |      9   |
 | :boom:            | 2021-12-03 | kensington R1     | 6 Finepoint          |  1.7  |      7   |
