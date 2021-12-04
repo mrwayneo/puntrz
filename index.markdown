@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 17:57:02 +1000  
+date: 2021-12-04 18:12:08 +1000  
 ---   
 
 
@@ -9,17 +9,17 @@ date: 2021-12-04 17:57:02 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      2 |       49 | 0.25 |  0.61 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      1 |      -28 | 0.12 | -0.35 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      7 |      2 |      -25 | 0.29 | -0.36 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      1 |      -39 | 0.09 | -0.35 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      7 |      1 |      -51 | 0.14 | -0.73 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      8 |      2 |      -42 | 0.25 | -0.52 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     10 |      2 |      -53 | 0.2  | -0.53 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      8 |      1 |      -68 | 0.12 | -0.85 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |      8 |      -73 | 0.21 | -0.19 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      3 |     -175 | 0.1  | -0.58 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |      6 |     -176 | 0.15 | -0.45 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      4 |     -149 | 0.13 | -0.5  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      3 |     -181 | 0.12 | -0.75 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      5 |     -290 | 0.11 | -0.63 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      2 |     -435 | 0.04 | -0.91 |
@@ -137,13 +137,13 @@ date: 2021-12-04 17:57:02 +1000
 |  64 | :soon:            | 2021-12-04 18:38:00 | darwin              |      5 |        6 | Malibu Edition     |  11    | looseknot            |
 |  65 | :soon:            | 2021-12-04 18:25:00 | ascot               |      6 |        9 | Sparkling Blue     |  12    | milkman              |
 |  66 | :soon:            | 2021-12-04 18:25:00 | ascot               |      6 |        8 | Real Danger        |   5    | overthrow,pikey      |
-|  67 | :soon:            | 2021-12-04 18:10:00 | doomben             |      9 |        9 | Shooting For Gold  |   4.8  | pangea,icyhot        |
-|  68 | :soon:            | 2021-12-04 18:10:00 | doomben             |      9 |        3 | Hard Empire        |  18    | pangea,icyhot        |
-|  69 | :soon:            | 2021-12-04 18:10:00 | doomben             |      9 |        1 | Alligator Blood    |  14    | pangea               |
-|  70 | :soon:            | 2021-12-04 18:10:00 | doomben             |      9 |        5 | Zoustyle           |   2.15 | benny,icyhot         |
-|  71 | :soon:            | 2021-12-04 18:05:00 | darwin              |      4 |        4 | Fromthenevernever  |   2.5  | moechilli            |
-|  72 | :soon:            | 2021-12-04 18:05:00 | darwin              |      4 |        3 | Bel's Banner       |   2    | benny,icyhot         |
-|  73 | :soon:            | 2021-12-04 18:00:00 | rosehill            |     10 |       10 | El Buena           |   8.5  | pangea,jmac          |
+|  67 | --                | 2021-12-04 18:10:00 | doomben             |      9 |        9 | Shooting For Gold  |   4.8  | pangea,icyhot        |
+|  68 | --                | 2021-12-04 18:10:00 | doomben             |      9 |        3 | Hard Empire        |  18    | pangea,icyhot        |
+|  69 | --                | 2021-12-04 18:10:00 | doomben             |      9 |        1 | Alligator Blood    |  14    | pangea               |
+|  70 | --                | 2021-12-04 18:10:00 | doomben             |      9 |        5 | Zoustyle           |   2.15 | benny,icyhot         |
+|  71 | :2nd_place_medal: | 2021-12-04 18:05:00 | darwin              |      4 |        4 | Fromthenevernever  |   2.5  | moechilli            |
+|  72 | :boom:            | 2021-12-04 18:05:00 | darwin              |      4 |        3 | Bel's Banner       |   2    | benny,icyhot         |
+|  73 | :boom:            | 2021-12-04 18:00:00 | rosehill            |     10 |       10 | El Buena           |   8.5  | pangea,jmac          |
 |  74 | :2nd_place_medal: | 2021-12-04 17:45:00 | ascot               |      5 |        4 | Stageman           |   3.7  | vulture,pikey        |
 |  75 | :2nd_place_medal: | 2021-12-04 17:22:00 | toowoomba           |      1 |        7 | Vast Kama          |   6    | vulture,blackshadow  |
 |  76 | :2nd_place_medal: | 2021-12-04 17:20:00 | rosehill            |      9 |        3 | Bigboyroy          |   4.4  | jmac                 |
