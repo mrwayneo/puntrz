@@ -1,123 +1,104 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 22:50:46 +1000  
+date: 2021-12-05 06:04:27 +1000  
 ---   
 
 
 ##### Form Today tips   
-
-| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
-|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      2 |       49 | 0.25 |  0.61 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     10 |      3 |       21 | 0.3  |  0.21 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |     10 |       17 | 0.26 |  0.04 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      7 |      3 |       -9 | 0.43 | -0.13 |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      8 |      3 |      -26 | 0.38 | -0.32 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      1 |      -39 | 0.09 | -0.35 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      7 |     -141 | 0.15 | -0.31 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      4 |     -149 | 0.13 | -0.5  |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      4 |     -160 | 0.17 | -0.67 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      3 |     -381 | 0.06 | -0.79 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     44 |      0 |     -440 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     93 |      0 |     -930 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      6 |    247.5 | 0.3  |  1.24 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      2 |     72   | 0.1  |  0.36 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      7 |     68   | 0.35 |  0.34 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      6 |    -10   | 0.3  | -0.05 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      7 |    -18   | 0.35 | -0.09 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |    -30   | 0.05 | -0.15 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      6 |    -30   | 0.3  | -0.15 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      4 |    -32.6 | 0.2  | -0.16 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      6 |    -63   | 0.3  | -0.32 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |   -103.4 | 0.25 | -0.52 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      2 |   -128.5 | 0.1  | -0.64 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |   -137.5 | 0.1  | -0.69 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      2 |   -138   | 0.1  | -0.69 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      8 |    243   | 0.4  |  1.22 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      7 |    150   | 0.35 |  0.75 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      6 |    133   | 0.3  |  0.66 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |     65.2 | 0.15 |  0.33 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      7 |     49   | 0.35 |  0.24 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      7 |     41   | 0.35 |  0.2  |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      3 |     26.2 | 0.15 |  0.13 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      7 |    -41   | 0.35 | -0.2  |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      4 |    -68   | 0.2  | -0.34 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |    -69.2 | 0.2  | -0.35 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |   -134.9 | 0.1  | -0.67 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      2 |   -139   | 0.1  | -0.7  |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |   -146.9 | 0.15 | -0.73 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      1 |   -162   | 0.05 | -0.81 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    264 |     75 |    306.5 | 0.28 |  0.12 |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     36 |      9 |    183.5 | 0.25 |  0.51 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    313 |     86 |    -76.6 | 0.27 | -0.02 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    193 |     63 |    -87.9 | 0.33 | -0.05 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    339 |     71 |   -158.5 | 0.21 | -0.05 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     43 |      6 |   -209   | 0.14 | -0.49 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    471 |    132 |   -510   | 0.28 | -0.11 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    661 |    105 |   -705.8 | 0.16 | -0.11 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1973 |    492 |   -899.7 | 0.25 | -0.05 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    587 |    167 |   -990   | 0.28 | -0.17 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1712 |    369 |  -1295.6 | 0.22 | -0.08 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1082 |    261 |  -1733.5 | 0.24 | -0.16 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2447 |    135 |  -1918   | 0.06 | -0.08 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2876 |    706 |  -3695.7 | 0.25 | -0.13 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5862 |    887 |  -7647.3 | 0.15 | -0.13 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7570 |    430 | -12083   | 0.06 | -0.16 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    272 |     77 |    355.5 | 0.28 |  0.13 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     37 |      9 |    173.5 | 0.24 |  0.47 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    322 |     90 |     84.4 | 0.28 |  0.03 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    200 |     67 |    -72.9 | 0.34 | -0.04 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    346 |     74 |   -167.5 | 0.21 | -0.05 |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     45 |      6 |   -229   | 0.13 | -0.51 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    480 |    132 |   -600   | 0.28 | -0.12 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    664 |    105 |   -735.3 | 0.16 | -0.11 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1996 |    497 |   -781.5 | 0.25 | -0.04 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    595 |    169 |   -967.8 | 0.28 | -0.16 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1749 |    381 |  -1113.6 | 0.22 | -0.06 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1097 |    267 |  -1564.5 | 0.24 | -0.14 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2482 |    134 |  -2492   | 0.05 | -0.1  |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2906 |    711 |  -3627.5 | 0.24 | -0.12 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5880 |    884 |  -8056.2 | 0.15 | -0.14 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7624 |    429 | -12981   | 0.06 | -0.17 |
 
 |     | finish            | time                | track               |   race |   number | name               |   odds | tipster              |
 |----:|:------------------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|   0 | :soon:            | 2021-12-05 03:30:00 | wolverhampton       |      2 |        4 | Last Ammo          |   3.5  | looseknot            |
-|   1 | :soon:            | 2021-12-05 03:00:00 | wolverhampton       |      1 |        6 | Closing Bell       |   4.8  | looseknot            |
-|   2 | :soon:            | 2021-12-05 02:45:00 | chepstow            |      8 |        2 | Captain Claude     |   9    | looseknot            |
-|   3 | :soon:            | 2021-12-05 02:45:00 | chepstow            |      8 |       11 | Pilot Show         |   9    | milkman              |
-|   4 | :soon:            | 2021-12-05 02:45:00 | chepstow            |      8 |        4 | Deere Mark         |   2.8  | vulture              |
-|   5 | :soon:            | 2021-12-05 02:40:00 | kenilworth          |      9 |        5 | Steinbeck          |   0    | vulture              |
-|   6 | :soon:            | 2021-12-05 02:40:00 | kenilworth          |      9 |        4 | Sage King          |   0    | vulture              |
-|   7 | :soon:            | 2021-12-05 02:35:00 | sandown             |      7 |        9 | Elham Valley       |   9    | overthrow            |
-|   8 | :soon:            | 2021-12-05 02:35:00 | sandown             |      7 |        7 | Samarrive          |   9.5  | overthrow            |
-|   9 | :soon:            | 2021-12-05 02:15:00 | aintree             |      8 |       10 | Tamar Bridge       |   3.9  | milkman              |
-|  10 | :soon:            | 2021-12-05 02:10:00 | kenilworth          |      8 |        1 | Rio Querari        |   0    | benny,pangea         |
-|  11 | :soon:            | 2021-12-05 02:10:00 | kenilworth          |      8 |        4 | Real Gone Kid      |   0    | milkman,icyhot       |
-|  12 | :soon:            | 2021-12-05 02:10:00 | kenilworth          |      8 |        2 | Kasimir            |   0    | pangea               |
-|  13 | :soon:            | 2021-12-05 02:09:00 | chepstow            |      7 |        1 | Libberty Hunter    |   9.5  | milkman              |
-|  14 | :soon:            | 2021-12-05 02:00:00 | sandown             |      6 |        1 | Highland Hunter    |  10    | overthrow            |
-|  15 | :soon:            | 2021-12-05 01:35:00 | kenilworth          |      7 |        2 | Jet Dark           |   0    | benny,pangea         |
-|  16 | :soon:            | 2021-12-05 01:25:00 | sandown             |      5 |        5 | Nube Negra         |   3.8  | evenodds,overthrow   |
-|  17 | :soon:            | 2021-12-05 01:25:00 | sandown             |      5 |        4 | Hitman             |  14    | evenodds,overthrow   |
-|  18 | :soon:            | 2021-12-05 01:25:00 | sandown             |      5 |        3 | Greaneteen         |   7.5  | pangea,blackshadow   |
-|  19 | :soon:            | 2021-12-05 01:25:00 | sandown             |      5 |        1 | Captain Guinness   |  19    | vulture              |
-|  20 | :soon:            | 2021-12-05 01:25:00 | sandown             |      5 |        2 | Chacun Pour Soi    |   1.8  | evenodds,overthrow   |
-|  21 | :soon:            | 2021-12-05 01:18:00 | navan               |      6 |        2 | Blue Sari          |  21    | overthrow            |
-|  22 | :soon:            | 2021-12-05 01:18:00 | navan               |      6 |        9 | Farouk D'Alene     |   3.3  | milkman              |
-|  23 | :soon:            | 2021-12-05 01:05:00 | aintree             |      6 |        4 | Sam Brown          |  12    | milkman              |
-|  24 | :soon:            | 2021-12-05 01:00:00 | kenilworth          |      6 |        3 | Capitana           |   0    | vulture              |
-|  25 | :soon:            | 2021-12-05 01:00:00 | kenilworth          |      6 |        5 | Keep The Lights On |   0    | pangea               |
-|  26 | :soon:            | 2021-12-05 00:50:00 | sandown             |      4 |        7 | Il Ridoto          |   5.5  | evenodds,overthrow   |
-|  27 | :soon:            | 2021-12-05 00:50:00 | sandown             |      4 |        2 | Edwardstone        |   4    | vulture              |
-|  28 | :soon:            | 2021-12-05 00:50:00 | sandown             |      4 |        3 | Minella Drama      |  11    | vulture,blackshadow  |
-|  29 | :soon:            | 2021-12-05 00:50:00 | sandown             |      4 |        6 | War Lord           |   8.5  | vulture              |
-|  30 | :soon:            | 2021-12-05 00:50:00 | sandown             |      4 |        5 | Third Time Lucki   |   3    | evenodds,overthrow   |
-|  31 | :soon:            | 2021-12-05 00:25:00 | kenilworth          |      5 |        2 | Amanzimtoti        |   0    | milkman              |
-|  32 | :soon:            | 2021-12-05 00:25:00 | kenilworth          |      5 |        4 | Chansonette        |   0    | vulture,milkman      |
-|  33 | :soon:            | 2021-12-05 00:15:00 | sandown             |      3 |        3 | City Derby         |   6    | overthrow            |
-|  34 | :soon:            | 2021-12-05 00:15:00 | sandown             |      3 |        5 | Colden's Dream     |   7.5  | overthrow            |
-|  35 | :soon:            | 2021-12-05 00:08:00 | navan               |      4 |        3 | Duffle Coat        |   9    | milkman              |
-|  36 | :soon:            | 2021-12-04 23:40:00 | sandown             |      2 |        2 | Fable              |   4    | overthrow            |
-|  37 | :soon:            | 2021-12-04 23:20:00 | aintree             |      3 |        1 | Annie Mc           |   4.2  | vulture              |
-|  38 | :soon:            | 2021-12-04 23:20:00 | aintree             |      3 |        2 | Elimay             |   1.36 | evenodds,overthrow   |
-|  39 | :soon:            | 2021-12-04 23:15:00 | kenilworth          |      3 |        2 | Zarina             |   0    | milkman              |
-|  40 | :soon:            | 2021-12-04 23:15:00 | kenilworth          |      3 |        1 | Captain's Ransom   |   0    | pangea               |
-|  41 | :soon:            | 2021-12-04 23:05:00 | sandown             |      1 |        8 | Outlaw Peter       |   6    | overthrow            |
-|  42 | :soon:            | 2021-12-04 23:05:00 | sandown             |      1 |        3 | Constitution Hill  |   3    | evenodds,overthrow   |
-|  43 | :soon:            | 2021-12-04 23:05:00 | sandown             |      1 |        1 | Hardkore           |   6    | evenodds,overthrow   |
-|  44 | :soon:            | 2021-12-04 23:05:00 | sandown             |      1 |        7 | Name In Lights     |   9.5  | vulture              |
+|   0 | :boom:            | 2021-12-05 03:30:00 | wolverhampton       |      2 |        4 | Last Ammo          |   3.5  | looseknot            |
+|   1 | --                | 2021-12-05 03:00:00 | wolverhampton       |      1 |        6 | Closing Bell       |   4.8  | looseknot            |
+|   2 | --                | 2021-12-05 02:45:00 | chepstow            |      8 |        2 | Captain Claude     |   9    | looseknot            |
+|   3 | --                | 2021-12-05 02:45:00 | chepstow            |      8 |       11 | Pilot Show         |   9    | milkman              |
+|   4 | --                | 2021-12-05 02:45:00 | chepstow            |      8 |        4 | Deere Mark         |   2.8  | vulture              |
+|   5 | :2nd_place_medal: | 2021-12-05 02:40:00 | kenilworth          |      9 |        5 | Steinbeck          |   0    | vulture              |
+|   6 | --                | 2021-12-05 02:40:00 | kenilworth          |      9 |        4 | Sage King          |   0    | vulture              |
+|   7 | --                | 2021-12-05 02:35:00 | sandown             |      7 |        9 | Elham Valley       |   9    | overthrow            |
+|   8 | :boom:            | 2021-12-05 02:35:00 | sandown             |      7 |        7 | Samarrive          |   9.5  | overthrow            |
+|   9 | :boom:            | 2021-12-05 02:15:00 | aintree             |      8 |       10 | Tamar Bridge       |   3.9  | milkman              |
+|  10 | :2nd_place_medal: | 2021-12-05 02:10:00 | kenilworth          |      8 |        1 | Rio Querari        |   0    | benny,pangea         |
+|  11 | :boom:            | 2021-12-05 02:10:00 | kenilworth          |      8 |        4 | Real Gone Kid      |   0    | milkman,icyhot       |
+|  12 | :3rd_place_medal: | 2021-12-05 02:10:00 | kenilworth          |      8 |        2 | Kasimir            |   0    | pangea               |
+|  13 | :boom:            | 2021-12-05 02:09:00 | chepstow            |      7 |        1 | Libberty Hunter    |   9.5  | milkman              |
+|  14 | :boom:            | 2021-12-05 02:00:00 | sandown             |      6 |        1 | Highland Hunter    |  10    | overthrow            |
+|  15 | 4.0               | 2021-12-05 01:35:00 | kenilworth          |      7 |        2 | Jet Dark           |   0    | benny,pangea         |
+|  16 | 4.0               | 2021-12-05 01:25:00 | sandown             |      5 |        5 | Nube Negra         |   3.8  | evenodds,overthrow   |
+|  17 | :2nd_place_medal: | 2021-12-05 01:25:00 | sandown             |      5 |        4 | Hitman             |  14    | evenodds,overthrow   |
+|  18 | :boom:            | 2021-12-05 01:25:00 | sandown             |      5 |        3 | Greaneteen         |   7.5  | pangea,blackshadow   |
+|  19 | :3rd_place_medal: | 2021-12-05 01:25:00 | sandown             |      5 |        1 | Captain Guinness   |  19    | vulture              |
+|  20 | --                | 2021-12-05 01:25:00 | sandown             |      5 |        2 | Chacun Pour Soi    |   1.8  | evenodds,overthrow   |
+|  21 | :2nd_place_medal: | 2021-12-05 01:18:00 | navan               |      6 |        2 | Blue Sari          |  21    | overthrow            |
+|  22 | :boom:            | 2021-12-05 01:18:00 | navan               |      6 |        9 | Farouk D'Alene     |   3.3  | milkman              |
+|  23 | :3rd_place_medal: | 2021-12-05 01:05:00 | aintree             |      6 |        4 | Sam Brown          |  12    | milkman              |
+|  24 | :2nd_place_medal: | 2021-12-05 01:00:00 | kenilworth          |      6 |        3 | Capitana           |   0    | vulture              |
+|  25 | --                | 2021-12-05 01:00:00 | kenilworth          |      6 |        5 | Keep The Lights On |   0    | pangea               |
+|  26 | --                | 2021-12-05 00:50:00 | sandown             |      4 |        7 | Il Ridoto          |   5.5  | evenodds,overthrow   |
+|  27 | :boom:            | 2021-12-05 00:50:00 | sandown             |      4 |        2 | Edwardstone        |   4    | vulture              |
+|  28 | --                | 2021-12-05 00:50:00 | sandown             |      4 |        3 | Minella Drama      |  11    | vulture,blackshadow  |
+|  29 | :2nd_place_medal: | 2021-12-05 00:50:00 | sandown             |      4 |        6 | War Lord           |   8.5  | vulture              |
+|  30 | :3rd_place_medal: | 2021-12-05 00:50:00 | sandown             |      4 |        5 | Third Time Lucki   |   3    | evenodds,overthrow   |
+|  31 | --                | 2021-12-05 00:25:00 | kenilworth          |      5 |        2 | Amanzimtoti        |   0    | milkman              |
+|  32 | :boom:            | 2021-12-05 00:25:00 | kenilworth          |      5 |        4 | Chansonette        |   0    | vulture,milkman      |
+|  33 | --                | 2021-12-05 00:15:00 | sandown             |      3 |        3 | City Derby         |   6    | overthrow            |
+|  34 | --                | 2021-12-05 00:15:00 | sandown             |      3 |        5 | Colden's Dream     |   7.5  | overthrow            |
+|  35 | 14.0              | 2021-12-05 00:08:00 | navan               |      4 |        3 | Duffle Coat        |   9    | milkman              |
+|  36 | --                | 2021-12-04 23:40:00 | sandown             |      2 |        2 | Fable              |   4    | overthrow            |
+|  37 | :2nd_place_medal: | 2021-12-04 23:20:00 | aintree             |      3 |        1 | Annie Mc           |   4.2  | vulture              |
+|  38 | :3rd_place_medal: | 2021-12-04 23:20:00 | aintree             |      3 |        2 | Elimay             |   1.36 | evenodds,overthrow   |
+|  39 | 4.0               | 2021-12-04 23:15:00 | kenilworth          |      3 |        2 | Zarina             |   0    | milkman              |
+|  40 | :boom:            | 2021-12-04 23:15:00 | kenilworth          |      3 |        1 | Captain's Ransom   |   0    | pangea               |
+|  41 | :3rd_place_medal: | 2021-12-04 23:05:00 | sandown             |      1 |        8 | Outlaw Peter       |   6    | overthrow            |
+|  42 | :boom:            | 2021-12-04 23:05:00 | sandown             |      1 |        3 | Constitution Hill  |   3    | evenodds,overthrow   |
+|  43 | --                | 2021-12-04 23:05:00 | sandown             |      1 |        1 | Hardkore           |   6    | evenodds,overthrow   |
+|  44 | --                | 2021-12-04 23:05:00 | sandown             |      1 |        7 | Name In Lights     |   9.5  | vulture              |
 |  45 | --                | 2021-12-04 22:45:00 | aintree             |      2 |        5 | Known              |   8    | vulture              |
 |  46 | :boom:            | 2021-12-04 22:38:00 | chepstow            |      1 |        1 | Ask Me Early       |   2.6  | milkman              |
-|  47 | --                | 2021-12-04 22:35:00 | kenilworth          |      2 |        1 | Bon Boyage         |   0    | vulture              |
+|  47 | :2nd_place_medal: | 2021-12-04 22:35:00 | kenilworth          |      2 |        1 | Bon Boyage         |   0    | vulture              |
 |  48 | 4.0               | 2021-12-04 22:30:00 | navan               |      1 |        9 | Prevaricate        |   2.25 | vulture              |
 |  49 | :2nd_place_medal: | 2021-12-04 22:15:00 | aintree             |      1 |        1 | Bombs Away         |   2.4  | vulture              |
 |  50 | 6.0               | 2021-12-04 21:50:00 | toowoomba           |      8 |        5 | Bit Of A Beauty    |   8.5  | benny,pangea         |

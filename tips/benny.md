@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-12-04 22:50:37 +1000  
+date: 2021-12-05 06:04:20 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      1 |     17   | 0.17 |  0.28 |
-| Last 28 Days   |     31 |     10 |    158   | 0.32 |  0.51 |
-| Last 6 Months  |    342 |     72 |   -151.5 | 0.21 | -0.04 |
-| Since Jan 2020 |    585 |    128 |   -384.5 | 0.22 | -0.07 |
+| Last 7 Days    |     13 |      4 |      8   | 0.31 |  0.06 |
+| Last 28 Days   |     38 |     13 |    149   | 0.34 |  0.39 |
+| Last 6 Months  |    349 |     75 |   -160.5 | 0.21 | -0.05 |
+| Since Jan 2020 |    592 |    131 |   -393.5 | 0.22 | -0.07 |
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
-| 02:10             | 2021-12-05 | kenilworth R8           | 1 Rio Querari         |  0    |    -10   |
-| 01:35             | 2021-12-05 | kenilworth R7           | 2 Jet Dark            |  0    |    -10   |
+| :2nd_place_medal: | 2021-12-05 | kenilworth R8           | 1 Rio Querari         |  0    |    -10   |
+| 4                 | 2021-12-05 | kenilworth R7           | 2 Jet Dark            |  0    |    -10   |
 | 6                 | 2021-12-04 | toowoomba R8            | 5 Bit Of A Beauty     |  8.5  |    -10   |
 | :boom:            | 2021-12-04 | doomben R9              | 5 Zoustyle            |  1.6  |      6   |
 | :boom:            | 2021-12-04 | darwin R4               | 3 Bel's Banner        |  2.6  |     16   |
@@ -215,8 +215,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-28 | darwin R4               | 2 Sebrakate           | 15    |    -10   |
 | :boom:            | 2021-08-28 | darwin R3               | 4 Patriot Day         | 10.5  |     95   |
 | 9                 | 2021-08-28 | darwin R3               | 3 Kaptan Apollo       | 26    |    -10   |
-| 11                | 2021-08-28 | cairns R6               | 3 Hidden in Heaven    | 34    |    -10   |
 | 7                 | 2021-08-28 | cairns R6               | 8 Bold Type           |  4.2  |    -10   |
+| 11                | 2021-08-28 | cairns R6               | 3 Hidden in Heaven    | 34    |    -10   |
 | 5                 | 2021-08-28 | caulfield R6            | 10 Diamonds Inthe Sky | 21    |    -10   |
 | 7                 | 2021-08-28 | darwin R2               | 3 Trebla              |  5.5  |    -10   |
 | 9                 | 2021-08-28 | doomben R6              | 4 Let's Party Marty   | 19    |    -10   |
@@ -412,8 +412,8 @@ categories: None
 | 10                | 2021-05-08 | newcastle R7            | 5 Favra               |  8    |    -10   |
 | :2nd_place_medal: | 2021-05-08 | ascot R2                | 2 Born To Try         |  2.25 |    -10   |
 | 4                 | 2021-05-08 | gosford R6              | 1 Signore Fox         |  6    |    -10   |
-| 6                 | 2021-05-08 | morphettville R4        | 8 Secret Vega         | 23    |    -10   |
 | 8                 | 2021-05-08 | morphettville R4        | 9 Calypso Reign       |  7    |    -10   |
+| 6                 | 2021-05-08 | morphettville R4        | 8 Secret Vega         | 23    |    -10   |
 | 4                 | 2021-05-08 | gosford R4              | 6 Blesk               |  5    |    -10   |
 | 8                 | 2021-05-08 | gold-coast R4           | 5 Capital Connection  | 21    |    -10   |
 | :boom:            | 2021-05-07 | albany R2               | 7 Kazkazi             |  3.5  |     25   |
@@ -441,8 +441,8 @@ categories: None
 | :3rd_place_medal: | 2021-04-25 | devonport-synthetic R6  | 4 Rhyme Writer        |  4.8  |    -10   |
 | 5                 | 2021-04-25 | alice-springs R1        | 4 Dataset             |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-25 | awapuni R1              | 2 Maison Roxanne      |  2.4  |    -10   |
-| :2nd_place_medal: | 2021-04-24 | darwin R4               | 1 Patria              |  2.8  |    -10   |
 | 5                 | 2021-04-24 | darwin R4               | 4 Trebla              | 14    |    -10   |
+| :2nd_place_medal: | 2021-04-24 | darwin R4               | 1 Patria              |  2.8  |    -10   |
 | 4                 | 2021-04-24 | darwin R2               | 2 Paseeto             |  6    |    -10   |
 | 5                 | 2021-04-24 | morphettville-parks R7  | 9 Renegade            | 14    |    -10   |
 | 4                 | 2021-04-24 | doomben R6              | 2 Good Soize          |  6.6  |    -10   |
