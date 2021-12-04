@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 16:07:34 +1000  
+date: 2021-12-04 16:26:20 +1000  
 ---   
 
 
@@ -12,16 +12,16 @@ date: 2021-12-04 16:07:34 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      1 |      -28 | 0.12 | -0.35 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      1 |      -39 | 0.09 | -0.35 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      7 |      1 |      -51 | 0.14 | -0.73 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      8 |      0 |      -80 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     10 |      0 |     -100 | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |     -110 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      2 |     -202 | 0.08 | -0.84 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      1 |     -281 | 0.03 | -0.94 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |      1 |     -371 | 0.03 | -0.95 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      3 |     -395 | 0.07 | -0.86 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      2 |     -210 | 0.07 | -0.7  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     39 |      4 |     -223 | 0.1  | -0.57 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     46 |      5 |     -290 | 0.11 | -0.63 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     44 |      0 |     -440 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      0 |     -480 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     93 |      0 |     -930 | 0    | -1    |
@@ -156,18 +156,18 @@ date: 2021-12-04 16:07:34 +1000
 |  83 | :soon:            | 2021-12-04 16:48:00 | doomben             |      7 |       10 | Tumbler Ridge      |  18    | pangea               |
 |  84 | :soon:            | 2021-12-04 16:42:00 | darwin              |      2 |        3 | Mr Cashman         |   3.75 | overthrow            |
 |  85 | :soon:            | 2021-12-04 16:40:00 | rosehill            |      8 |        1 | Francesco Guardi   |   3.1  | jmac                 |
-|  86 | :soon:            | 2021-12-04 16:25:00 | ascot               |      3 |        9 | Night Voyage       |   6    | pikey                |
-|  87 | :soon:            | 2021-12-04 16:25:00 | ascot               |      3 |        4 | Written Matter     |   2.4  | milkman              |
-|  88 | :soon:            | 2021-12-04 16:22:00 | rockhampton         |      5 |        9 | Scoria Star        |   3.9  | evenodds,blackshadow |
-|  89 | :soon:            | 2021-12-04 16:20:00 | racing.com-park     |      7 |        3 | Good Idea          |  26    | pangea               |
-|  90 | :soon:            | 2021-12-04 16:20:00 | racing.com-park     |      7 |        8 | Smokin' Romans     |   3.1  | vulture,pangea       |
-|  91 | :soon:            | 2021-12-04 16:08:00 | doomben             |      6 |        2 | So You Win         |   3.9  | pangea               |
-|  92 | :soon:            | 2021-12-04 16:08:00 | doomben             |      6 |        6 | Humbolt Current    |   8    | pangea               |
-|  93 | :soon:            | 2021-12-04 16:08:00 | doomben             |      6 |        7 | Tears Of Love      |   9    | vulture              |
-|  94 | --                | 2021-12-04 16:06:00 | esperance-bay       |      1 |        5 | Indian Chant       |   6.5  | looseknot            |
-|  95 | --                | 2021-12-04 16:02:00 | darwin              |      1 |        7 | Captain Hedderwick |   8    | evenodds,overthrow   |
+|  86 | --                | 2021-12-04 16:25:00 | ascot               |      3 |        9 | Night Voyage       |   6    | pikey                |
+|  87 | --                | 2021-12-04 16:25:00 | ascot               |      3 |        4 | Written Matter     |   2.4  | milkman              |
+|  88 | :2nd_place_medal: | 2021-12-04 16:22:00 | rockhampton         |      5 |        9 | Scoria Star        |   3.9  | evenodds,blackshadow |
+|  89 | :2nd_place_medal: | 2021-12-04 16:20:00 | racing.com-park     |      7 |        3 | Good Idea          |  26    | pangea               |
+|  90 | :boom:            | 2021-12-04 16:20:00 | racing.com-park     |      7 |        8 | Smokin' Romans     |   3.1  | vulture,pangea       |
+|  91 | :boom:            | 2021-12-04 16:08:00 | doomben             |      6 |        2 | So You Win         |   3.9  | pangea               |
+|  92 | --                | 2021-12-04 16:08:00 | doomben             |      6 |        6 | Humbolt Current    |   8    | pangea               |
+|  93 | 4.0               | 2021-12-04 16:08:00 | doomben             |      6 |        7 | Tears Of Love      |   9    | vulture              |
+|  94 | :3rd_place_medal: | 2021-12-04 16:06:00 | esperance-bay       |      1 |        5 | Indian Chant       |   6.5  | looseknot            |
+|  95 | :boom:            | 2021-12-04 16:02:00 | darwin              |      1 |        7 | Captain Hedderwick |   8    | evenodds,overthrow   |
 |  96 | :2nd_place_medal: | 2021-12-04 16:00:00 | rosehill            |      7 |        3 | Welsh Legend       |   5.5  | pangea,jmac          |
-|  97 | --                | 2021-12-04 16:00:00 | rosehill            |      7 |        2 | Jazzland           |   6.5  | vulture              |
+|  97 | 7.0               | 2021-12-04 16:00:00 | rosehill            |      7 |        2 | Jazzland           |   6.5  | vulture              |
 |  98 | 8.0               | 2021-12-04 15:45:00 | ascot               |      2 |        8 | Scandolo           |   7.5  | pikey                |
 |  99 | :2nd_place_medal: | 2021-12-04 15:37:00 | rockhampton         |      4 |        1 | Zarnado            |   2    | vulture              |
 | 100 | :boom:            | 2021-12-04 15:28:00 | doomben             |      5 |        2 | Far Too Easy       |   2.5  | benny,milkman        |
