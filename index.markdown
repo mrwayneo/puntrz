@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-04 10:45:12 +1000  
+date: 2021-12-04 11:03:24 +1000  
 ---   
 
 
@@ -192,4 +192,4 @@ date: 2021-12-04 10:45:12 +1000
 | 119 | :soon:   | 2021-12-04 12:35:00 | racing.com-park     |      1 |        7 | Tycoon Bec         |   3.4  | milkman              |
 | 120 | :soon:   | 2021-12-04 12:20:00 | rosehill            |      1 |        4 | Saigon             |   8    | pangea,jmac          |
 | 121 | :soon:   | 2021-12-04 12:20:00 | rosehill            |      1 |        5 | Strange Charm      |   7    | pangea               |
-| 122 | :soon:   | 2021-12-04 10:58:00 | trentham            |      2 |        4 | Ace Royale         |   6.5  | looseknot            |
+| 122 | --       | 2021-12-04 10:58:00 | trentham            |      2 |        4 | Ace Royale         |   6.5  | looseknot            |
