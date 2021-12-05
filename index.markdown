@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-05 14:00:43 +1000  
+date: 2021-12-05 14:15:48 +1000  
 ---   
 
 
@@ -64,40 +64,40 @@ date: 2021-12-05 14:00:43 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5880 |    884 |  -8056.2 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7624 |    429 | -12981   | 0.06 | -0.17 |
 
-|    | finish   | time                | track                      |   race |   number | name               |   odds | tipster             |
-|---:|:---------|:--------------------|:---------------------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | :soon:   | 2021-12-06 02:35:00 | punchestown                |      8 |        2 | Glengouly          |   1.85 | overthrow           |
-|  1 | :soon:   | 2021-12-06 01:57:00 | huntingdon                 |      6 |        5 | Lady Jane P        |   3.9  | vulture             |
-|  2 | :soon:   | 2021-12-06 01:57:00 | huntingdon                 |      6 |        9 | Presenting Nelly   |   4.6  | evenodds,milkman    |
-|  3 | :soon:   | 2021-12-06 01:35:00 | punchestown                |      6 |       11 | Thedevilscoachman  |   6.5  | milkman             |
-|  4 | :soon:   | 2021-12-06 01:35:00 | punchestown                |      6 |        3 | Ferny Hollow       |   1.5  | overthrow,milkman   |
-|  5 | :soon:   | 2021-12-06 01:27:00 | huntingdon                 |      5 |        2 | Destrier           |   6.5  | overthrow           |
-|  6 | :soon:   | 2021-12-06 01:00:00 | punchestown                |      5 |        1 | Allaho             |   4.8  | overthrow           |
-|  7 | :soon:   | 2021-12-06 01:00:00 | punchestown                |      5 |        2 | Asterion Forlonge  |   8    | milkman             |
-|  8 | :soon:   | 2021-12-06 00:52:00 | huntingdon                 |      4 |        4 | Master Tommytucker |   4.85 | overthrow           |
-|  9 | :soon:   | 2021-12-06 00:52:00 | huntingdon                 |      4 |        1 | Allmankind         |   2.15 | evenodds,overthrow  |
-| 10 | :soon:   | 2021-12-06 00:52:00 | huntingdon                 |      4 |        2 | Eldorado Allen     |   6    | vulture             |
-| 11 | :soon:   | 2021-12-06 00:25:00 | punchestown                |      4 |       10 | Party Central      |   3.4  | milkman             |
-| 12 | :soon:   | 2021-12-06 00:25:00 | punchestown                |      4 |        7 | Humble Glory       |  12    | vulture             |
-| 13 | :soon:   | 2021-12-06 00:03:00 | kelso                      |      3 |       12 | Weststreet         |   3.5  | vulture             |
-| 14 | :soon:   | 2021-12-05 23:55:00 | punchestown                |      3 |       14 | Gain De Cause      |   6    | looseknot           |
-| 15 | :soon:   | 2021-12-05 23:47:00 | huntingdon                 |      2 |        1 | Barbados Buck's    |   5    | overthrow           |
-| 16 | :soon:   | 2021-12-05 23:33:00 | kelso                      |      2 |        7 | Spider's Bite      |  41    | overthrow           |
-| 17 | :soon:   | 2021-12-05 23:20:00 | scottsville                |      5 |        1 | Hasta Manana       |   0    | vulture,blackshadow |
-| 18 | :soon:   | 2021-12-05 23:17:00 | huntingdon                 |      1 |        3 | Balco Coastal      |   2.5  | overthrow           |
-| 19 | :soon:   | 2021-12-05 23:17:00 | huntingdon                 |      1 |        2 | Peejaybee          |   5.5  | milkman             |
-| 20 | :soon:   | 2021-12-05 20:30:00 | pinjarra                   |      9 |       12 | Bandalera Miss     |   6.5  | pikey               |
-| 21 | :soon:   | 2021-12-05 20:30:00 | pinjarra                   |      9 |        3 | Disengo            |   1.95 | vulture,pangea      |
-| 22 | :soon:   | 2021-12-05 19:55:00 | pinjarra                   |      8 |        7 | Fashion Queen      |   2.8  | vulture,pikey       |
-| 23 | :soon:   | 2021-12-05 18:55:00 | pinjarra                   |      6 |        4 | Airlie Queen       |   4.5  | overthrow,pikey     |
-| 24 | :soon:   | 2021-12-05 17:55:00 | pinjarra                   |      4 |        2 | Do It Right        |   7    | pikey               |
-| 25 | :soon:   | 2021-12-05 17:21:00 | pinjarra                   |      3 |        6 | Mojo Rhythm        |  12    | pikey               |
-| 26 | :soon:   | 2021-12-05 17:19:00 | alice-springs              |      3 |        4 | Irrewarra Gem      |   2.7  | vulture             |
-| 27 | :soon:   | 2021-12-05 17:05:00 | murray-bdge                |      6 |        5 | Yeelanna           |   3.75 | pangea              |
-| 28 | :soon:   | 2021-12-05 16:55:00 | spendthrift-australia-park |      7 |        6 | Starcaster         |   3    | benny,blackshadow   |
-| 29 | :soon:   | 2021-12-05 16:49:00 | alice-springs              |      2 |        3 | Policy             |   3.1  | vulture             |
-| 30 | :soon:   | 2021-12-05 16:20:00 | spendthrift-australia-park |      6 |        5 | Pristine Image     |   2.4  | vulture,pangea      |
-| 31 | :soon:   | 2021-12-05 16:12:00 | pinjarra                   |      1 |        3 | Nights Mystery     |   1.38 | pikey               |
-| 32 | :soon:   | 2021-12-05 16:10:00 | alice-springs              |      1 |        1 | Like A Heartbeat   |   1.2  | vulture             |
-| 33 | :soon:   | 2021-12-05 14:35:00 | sunshine-coast             |      3 |        7 | Asherla            |   1.9  | pangea              |
-| 34 | --       | 2021-12-05 14:00:00 | sunshine-coast             |      2 |        3 | If You Can Dream   |   3.8  | evenodds,overthrow  |
+|    | finish            | time                | track                      |   race |   number | name               |   odds | tipster             |
+|---:|:------------------|:--------------------|:---------------------------|-------:|---------:|:-------------------|-------:|:--------------------|
+|  0 | :soon:            | 2021-12-06 02:35:00 | punchestown                |      8 |        2 | Glengouly          |   1.85 | overthrow           |
+|  1 | :soon:            | 2021-12-06 01:57:00 | huntingdon                 |      6 |        5 | Lady Jane P        |   3.9  | vulture             |
+|  2 | :soon:            | 2021-12-06 01:57:00 | huntingdon                 |      6 |        9 | Presenting Nelly   |   4.6  | evenodds,milkman    |
+|  3 | :soon:            | 2021-12-06 01:35:00 | punchestown                |      6 |       11 | Thedevilscoachman  |   6.5  | milkman             |
+|  4 | :soon:            | 2021-12-06 01:35:00 | punchestown                |      6 |        3 | Ferny Hollow       |   1.5  | overthrow,milkman   |
+|  5 | :soon:            | 2021-12-06 01:27:00 | huntingdon                 |      5 |        2 | Destrier           |   6.5  | overthrow           |
+|  6 | :soon:            | 2021-12-06 01:00:00 | punchestown                |      5 |        1 | Allaho             |   4.8  | overthrow           |
+|  7 | :soon:            | 2021-12-06 01:00:00 | punchestown                |      5 |        2 | Asterion Forlonge  |   8    | milkman             |
+|  8 | :soon:            | 2021-12-06 00:52:00 | huntingdon                 |      4 |        4 | Master Tommytucker |   4.85 | overthrow           |
+|  9 | :soon:            | 2021-12-06 00:52:00 | huntingdon                 |      4 |        1 | Allmankind         |   2.15 | evenodds,overthrow  |
+| 10 | :soon:            | 2021-12-06 00:52:00 | huntingdon                 |      4 |        2 | Eldorado Allen     |   6    | vulture             |
+| 11 | :soon:            | 2021-12-06 00:25:00 | punchestown                |      4 |       10 | Party Central      |   3.4  | milkman             |
+| 12 | :soon:            | 2021-12-06 00:25:00 | punchestown                |      4 |        7 | Humble Glory       |  12    | vulture             |
+| 13 | :soon:            | 2021-12-06 00:03:00 | kelso                      |      3 |       12 | Weststreet         |   3.5  | vulture             |
+| 14 | :soon:            | 2021-12-05 23:55:00 | punchestown                |      3 |       14 | Gain De Cause      |   6    | looseknot           |
+| 15 | :soon:            | 2021-12-05 23:47:00 | huntingdon                 |      2 |        1 | Barbados Buck's    |   5    | overthrow           |
+| 16 | :soon:            | 2021-12-05 23:33:00 | kelso                      |      2 |        7 | Spider's Bite      |  41    | overthrow           |
+| 17 | :soon:            | 2021-12-05 23:20:00 | scottsville                |      5 |        1 | Hasta Manana       |   0    | vulture,blackshadow |
+| 18 | :soon:            | 2021-12-05 23:17:00 | huntingdon                 |      1 |        3 | Balco Coastal      |   2.5  | overthrow           |
+| 19 | :soon:            | 2021-12-05 23:17:00 | huntingdon                 |      1 |        2 | Peejaybee          |   5.5  | milkman             |
+| 20 | :soon:            | 2021-12-05 20:30:00 | pinjarra                   |      9 |       12 | Bandalera Miss     |   6.5  | pikey               |
+| 21 | :soon:            | 2021-12-05 20:30:00 | pinjarra                   |      9 |        3 | Disengo            |   1.95 | vulture,pangea      |
+| 22 | :soon:            | 2021-12-05 19:55:00 | pinjarra                   |      8 |        7 | Fashion Queen      |   2.8  | vulture,pikey       |
+| 23 | :soon:            | 2021-12-05 18:55:00 | pinjarra                   |      6 |        4 | Airlie Queen       |   4.5  | overthrow,pikey     |
+| 24 | :soon:            | 2021-12-05 17:55:00 | pinjarra                   |      4 |        2 | Do It Right        |   7    | pikey               |
+| 25 | :soon:            | 2021-12-05 17:21:00 | pinjarra                   |      3 |        6 | Mojo Rhythm        |  12    | pikey               |
+| 26 | :soon:            | 2021-12-05 17:19:00 | alice-springs              |      3 |        4 | Irrewarra Gem      |   2.7  | vulture             |
+| 27 | :soon:            | 2021-12-05 17:05:00 | murray-bdge                |      6 |        5 | Yeelanna           |   3.75 | pangea              |
+| 28 | :soon:            | 2021-12-05 16:55:00 | spendthrift-australia-park |      7 |        6 | Starcaster         |   3    | benny,blackshadow   |
+| 29 | :soon:            | 2021-12-05 16:49:00 | alice-springs              |      2 |        3 | Policy             |   3.1  | vulture             |
+| 30 | :soon:            | 2021-12-05 16:20:00 | spendthrift-australia-park |      6 |        5 | Pristine Image     |   2.4  | vulture,pangea      |
+| 31 | :soon:            | 2021-12-05 16:12:00 | pinjarra                   |      1 |        3 | Nights Mystery     |   1.38 | pikey               |
+| 32 | :soon:            | 2021-12-05 16:10:00 | alice-springs              |      1 |        1 | Like A Heartbeat   |   1.2  | vulture             |
+| 33 | :soon:            | 2021-12-05 14:35:00 | sunshine-coast             |      3 |        7 | Asherla            |   1.9  | pangea              |
+| 34 | :3rd_place_medal: | 2021-12-05 14:00:00 | sunshine-coast             |      2 |        3 | If You Can Dream   |   3.8  | evenodds,overthrow  |
