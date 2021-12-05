@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-05 17:48:50 +1000  
+date: 2021-12-05 18:03:57 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 19:55             | 2021-12-05 | pinjarra R8           | 7 Fashion Queen       |   2.8  |    -10   |
 | 18:55             | 2021-12-05 | pinjarra R6           | 4 Airlie Queen        |   4.5  |    -10   |
 | 18:25             | 2021-12-05 | pinjarra R5           | 2 Bigdayonit          |  10    |    -10   |
-| 17:55             | 2021-12-05 | pinjarra R4           | 2 Do It Right         |   7    |    -10   |
+| 4                 | 2021-12-05 | pinjarra R4           | 2 Do It Right         |   7    |    -10   |
 | :2nd_place_medal: | 2021-12-05 | pinjarra R3           | 6 Mojo Rhythm         |  12    |    -10   |
 | :2nd_place_medal: | 2021-12-05 | pinjarra R1           | 3 Nights Mystery      |   1.38 |    -10   |
 | 6                 | 2021-12-04 | ascot R9              | 2 Expressionist       |   3.9  |    -10   |
