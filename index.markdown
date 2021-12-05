@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-05 16:11:16 +1000  
+date: 2021-12-05 16:27:04 +1000  
 ---   
 
 
@@ -96,8 +96,8 @@ date: 2021-12-05 16:11:16 +1000
 | 27 | :soon:            | 2021-12-05 17:05:00 | murray-bdge                |      6 |        5 | Yeelanna           |   3.75 | pangea              |
 | 28 | :soon:            | 2021-12-05 16:55:00 | spendthrift-australia-park |      7 |        6 | Starcaster         |   3    | benny,blackshadow   |
 | 29 | :soon:            | 2021-12-05 16:49:00 | alice-springs              |      2 |        3 | Policy             |   3.1  | vulture             |
-| 30 | :soon:            | 2021-12-05 16:20:00 | spendthrift-australia-park |      6 |        5 | Pristine Image     |   2.4  | vulture,pangea      |
-| 31 | :soon:            | 2021-12-05 16:12:00 | pinjarra                   |      1 |        3 | Nights Mystery     |   1.38 | pikey               |
-| 32 | --                | 2021-12-05 16:10:00 | alice-springs              |      1 |        1 | Like A Heartbeat   |   1.2  | vulture             |
+| 30 | --                | 2021-12-05 16:20:00 | spendthrift-australia-park |      6 |        5 | Pristine Image     |   2.4  | vulture,pangea      |
+| 31 | :2nd_place_medal: | 2021-12-05 16:12:00 | pinjarra                   |      1 |        3 | Nights Mystery     |   1.38 | pikey               |
+| 32 | :2nd_place_medal: | 2021-12-05 16:10:00 | alice-springs              |      1 |        1 | Like A Heartbeat   |   1.2  | vulture             |
 | 33 | 4.0               | 2021-12-05 14:35:00 | sunshine-coast             |      3 |        7 | Asherla            |   1.9  | pangea              |
 | 34 | :3rd_place_medal: | 2021-12-05 14:00:00 | sunshine-coast             |      2 |        3 | If You Can Dream   |   3.8  | evenodds,overthrow  |
