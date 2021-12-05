@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-05 18:48:58 +1000  
+date: 2021-12-05 19:04:08 +1000  
 ---   
 
 
@@ -89,7 +89,7 @@ date: 2021-12-05 18:48:58 +1000
 | 20 | :soon:            | 2021-12-05 20:30:00 | pinjarra                   |      9 |       12 | Bandalera Miss     |   6.5  | pikey               |
 | 21 | :soon:            | 2021-12-05 20:30:00 | pinjarra                   |      9 |        3 | Disengo            |   1.95 | vulture,pangea      |
 | 22 | :soon:            | 2021-12-05 19:55:00 | pinjarra                   |      8 |        7 | Fashion Queen      |   2.8  | vulture,pikey       |
-| 23 | :soon:            | 2021-12-05 18:55:00 | pinjarra                   |      6 |        4 | Airlie Queen       |   4.5  | overthrow,pikey     |
+| 23 | 4.0               | 2021-12-05 18:55:00 | pinjarra                   |      6 |        4 | Airlie Queen       |   4.5  | overthrow,pikey     |
 | 24 | 4.0               | 2021-12-05 17:55:00 | pinjarra                   |      4 |        2 | Do It Right        |   7    | pikey               |
 | 25 | :2nd_place_medal: | 2021-12-05 17:21:00 | pinjarra                   |      3 |        6 | Mojo Rhythm        |  12    | pikey               |
 | 26 | :2nd_place_medal: | 2021-12-05 17:19:00 | alice-springs              |      3 |        4 | Irrewarra Gem      |   2.7  | vulture             |
