@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-12-05 22:36:52 +1000  
+date: 2021-12-05 22:51:24 +1000  
 categories: None 
 ---   
 
@@ -152,8 +152,8 @@ categories: None
 | 7                 | 2021-09-25 | toowoomba R1                  | 3 Better Ethics       | 16    |    -10   |
 | :2nd_place_medal: | 2021-09-24 | moonee-valley R7              | 3 The Inferno         |  6    |    -10   |
 | :3rd_place_medal: | 2021-09-22 | goodwood R2                   | 3 Kettle Hill         |  3    |    -10   |
-| :2nd_place_medal: | 2021-09-22 | gosford R5                    | 1 Jazzland            |  9    |    -10   |
 | 4                 | 2021-09-22 | gosford R5                    | 5 Mightybeel          |  6.5  |    -10   |
+| :2nd_place_medal: | 2021-09-22 | gosford R5                    | 1 Jazzland            |  9    |    -10   |
 | :3rd_place_medal: | 2021-09-22 | gosford R4                    | 7 Fastconi            |  6    |    -10   |
 | :3rd_place_medal: | 2021-09-21 | beaudesert R7                 | 5 Brazen Dynamo       |  0    |    -10   |
 | :2nd_place_medal: | 2021-09-19 | devonport-synthetic R8        | 1 Fragment            | 12    |    -10   |
@@ -198,8 +198,8 @@ categories: None
 | 10                | 2021-09-04 | eagle-farm R9                 | 1 Vinco               |  5    |    -10   |
 | 8                 | 2021-09-04 | belmont R5                    | 3 Campese             |  2.05 |    -10   |
 | 8                 | 2021-09-04 | barcaldine R7                 | 6 No Refund           | 21    |    -10   |
-| :boom:            | 2021-09-04 | eagle-farm R7                 | 4 Ingear              |  2.5  |     15   |
 | :3rd_place_medal: | 2021-09-04 | eagle-farm R7                 | 3 Ready Babe          | 18    |    -10   |
+| :boom:            | 2021-09-04 | eagle-farm R7                 | 4 Ingear              |  2.5  |     15   |
 | :2nd_place_medal: | 2021-09-04 | belmont R3                    | 2 Dunbar              |  2.8  |    -10   |
 | :3rd_place_medal: | 2021-09-04 | randwick R7                   | 5 Star of the Seas    | 11    |    -10   |
 | 4                 | 2021-09-04 | newcastle R4                  | 5 False Step          | 10    |    -10   |
@@ -216,8 +216,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-28 | darwin R4                     | 2 Sebrakate           | 15    |    -10   |
 | :boom:            | 2021-08-28 | darwin R3                     | 4 Patriot Day         | 10.5  |     95   |
 | 9                 | 2021-08-28 | darwin R3                     | 3 Kaptan Apollo       | 26    |    -10   |
-| 7                 | 2021-08-28 | cairns R6                     | 8 Bold Type           |  4.2  |    -10   |
 | 11                | 2021-08-28 | cairns R6                     | 3 Hidden in Heaven    | 34    |    -10   |
+| 7                 | 2021-08-28 | cairns R6                     | 8 Bold Type           |  4.2  |    -10   |
 | 5                 | 2021-08-28 | caulfield R6                  | 10 Diamonds Inthe Sky | 21    |    -10   |
 | 7                 | 2021-08-28 | darwin R2                     | 3 Trebla              |  5.5  |    -10   |
 | 9                 | 2021-08-28 | doomben R6                    | 4 Let's Party Marty   | 19    |    -10   |
@@ -374,8 +374,8 @@ categories: None
 | :boom:            | 2021-05-29 | darwin R1                     | 7 The Auditor         | 12.5  |    115   |
 | :boom:            | 2021-05-29 | belmont R2                    | 6 Graceful Girl       |  2.6  |     16   |
 | 7                 | 2021-05-29 | eagle-farm R5                 | 2 Le Don De Vie       |  3.6  |    -10   |
-| :2nd_place_medal: | 2021-05-29 | eagle-farm R3                 | 9 Ayrton              |  1.6  |    -10   |
 | 11                | 2021-05-29 | eagle-farm R3                 | 10 Not an Option      | 26    |    -10   |
+| :2nd_place_medal: | 2021-05-29 | eagle-farm R3                 | 9 Ayrton              |  1.6  |    -10   |
 | 8                 | 2021-05-29 | eagle-farm R2                 | 14 Beachbreak         | 11    |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R7             | 5 Queen Dazzler       |  3.4  |    -10   |
 | :boom:            | 2021-05-27 | northam R9                    | 9 Conquered Zone      |  5.8  |     48   |
@@ -413,8 +413,8 @@ categories: None
 | 10                | 2021-05-08 | newcastle R7                  | 5 Favra               |  8    |    -10   |
 | :2nd_place_medal: | 2021-05-08 | ascot R2                      | 2 Born To Try         |  2.25 |    -10   |
 | 4                 | 2021-05-08 | gosford R6                    | 1 Signore Fox         |  6    |    -10   |
-| 8                 | 2021-05-08 | morphettville R4              | 9 Calypso Reign       |  7    |    -10   |
 | 6                 | 2021-05-08 | morphettville R4              | 8 Secret Vega         | 23    |    -10   |
+| 8                 | 2021-05-08 | morphettville R4              | 9 Calypso Reign       |  7    |    -10   |
 | 4                 | 2021-05-08 | gosford R4                    | 6 Blesk               |  5    |    -10   |
 | 8                 | 2021-05-08 | gold-coast R4                 | 5 Capital Connection  | 21    |    -10   |
 | :boom:            | 2021-05-07 | albany R2                     | 7 Kazkazi             |  3.5  |     25   |

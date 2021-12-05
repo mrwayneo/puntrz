@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2021-12-05 22:36:52 +1000  
+date: 2021-12-05 22:51:25 +1000  
 categories: None 
 ---   
 
@@ -215,8 +215,8 @@ categories: None
 | 99                | 2021-10-11 | goodwood R4            | 10 Al Jaddaf          |   0    |    -10   |
 | :boom:            | 2021-10-10 | newton-abbot R1        | 2 Skatman             |   2.5  |     15   |
 | :boom:            | 2021-10-10 | sunshine-coast R5      | 4 Refero              |   3.2  |     22   |
-| :2nd_place_medal: | 2021-10-10 | newmarket R7           | 2 Bedouin's Story     |   7    |    -10   |
 | 4                 | 2021-10-10 | newmarket R7           | 1 Barney Roy          |   4.2  |    -10   |
+| :2nd_place_medal: | 2021-10-10 | newmarket R7           | 2 Bedouin's Story     |   7    |    -10   |
 | :boom:            | 2021-10-10 | chepstow R7            | 1 Timeforatune        |   1.67 |      6.7 |
 | :2nd_place_medal: | 2021-10-10 | turffontein R8         | 1 About To Storm      |   0    |    -10   |
 | 99                | 2021-10-10 | newmarket R5           | 7 M C Muldoon         |   0    |    -10   |
@@ -565,8 +565,8 @@ categories: None
 | :boom:            | 2021-06-19 | rockhampton R2         | 2 Tezoff              |   2.1  |     11   |
 | 99                | 2021-06-19 | royal-ascot R3         | 21 Suesa              |   3.25 |    -10   |
 | 5                 | 2021-06-18 | sunshine-coast R4      | 2 Perfect Witness     |   3    |    -10   |
-| 99                | 2021-06-18 | royal-ascot R6         | 2 Siskany             |   8.5  |    -10   |
 | 7                 | 2021-06-18 | royal-ascot R6         | 11 First Light        |   9.5  |    -10   |
+| 99                | 2021-06-18 | royal-ascot R6         | 2 Siskany             |   8.5  |    -10   |
 | 99                | 2021-06-18 | royal-ascot R3         | 7 Gloria Mundi        |  10    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R1         | 9 Lucci               |   8    |    -10   |
 | :3rd_place_medal: | 2021-06-17 | mackay R7              | 1 Dawn Too Good       |   2.5  |    -10   |
@@ -676,8 +676,8 @@ categories: None
 | 4                 | 2021-05-15 | gold-coast R5          | 2 I'm Hitchin' Bro    |   2.5  |    -10   |
 | 4                 | 2021-05-15 | gold-coast R3          | 2 Money Shot          |   3.7  |    -10   |
 | 99                | 2021-05-15 | aintree R7             | 7 If I Say            |   5.5  |    -10   |
-| :2nd_place_medal: | 2021-05-14 | york R2                | 2 Creative Flair      |   6    |    -10   |
 | 99                | 2021-05-14 | york R2                | 4 Kestenna            |  26    |    -10   |
+| :2nd_place_medal: | 2021-05-14 | york R2                | 2 Creative Flair      |   6    |    -10   |
 | :2nd_place_medal: | 2021-05-14 | york R1                | 3 Canonized           |   7.1  |    -10   |
 | :2nd_place_medal: | 2021-05-14 | newmarket R2           | 11 Biggles            |   3.8  |    -10   |
 | :boom:            | 2021-05-14 | york R4                | 6 Hurricane Lane      |   6    |     50   |
@@ -756,8 +756,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-21 | sedgefield R8          | 2 Get Sky High        |   2.6  |    -10   |
 | :2nd_place_medal: | 2021-04-21 | epsom-downs R4         | 2 Silent Film         |   2.62 |    -10   |
 | 99                | 2021-04-20 | epsom-downs R3         | 2 Harrovian           |   8.5  |    -10   |
-| :boom:            | 2021-04-20 | epsom-downs R2         | 8 Wirko               |   7    |     60   |
 | :3rd_place_medal: | 2021-04-20 | epsom-downs R2         | 7 Uncle Bryn          |   2.1  |    -10   |
+| :boom:            | 2021-04-20 | epsom-downs R2         | 8 Wirko               |   7    |     60   |
 | 99                | 2021-04-20 | kempton R1             | 3 Chez Hans           |   2.9  |    -10   |
 | :boom:            | 2021-04-20 | windsor R5             | 3 Siskany             |   2.8  |     18   |
 | 99                | 2021-04-19 | ayr R8                 | 9 High Worth          |   4.8  |    -10   |
