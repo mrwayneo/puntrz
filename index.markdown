@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-05 17:18:39 +1000  
+date: 2021-12-05 17:33:52 +1000  
 ---   
 
 
@@ -91,11 +91,11 @@ date: 2021-12-05 17:18:39 +1000
 | 22 | :soon:            | 2021-12-05 19:55:00 | pinjarra                   |      8 |        7 | Fashion Queen      |   2.8  | vulture,pikey       |
 | 23 | :soon:            | 2021-12-05 18:55:00 | pinjarra                   |      6 |        4 | Airlie Queen       |   4.5  | overthrow,pikey     |
 | 24 | :soon:            | 2021-12-05 17:55:00 | pinjarra                   |      4 |        2 | Do It Right        |   7    | pikey               |
-| 25 | :soon:            | 2021-12-05 17:21:00 | pinjarra                   |      3 |        6 | Mojo Rhythm        |  12    | pikey               |
-| 26 | :soon:            | 2021-12-05 17:19:00 | alice-springs              |      3 |        4 | Irrewarra Gem      |   2.7  | vulture             |
+| 25 | :2nd_place_medal: | 2021-12-05 17:21:00 | pinjarra                   |      3 |        6 | Mojo Rhythm        |  12    | pikey               |
+| 26 | :2nd_place_medal: | 2021-12-05 17:19:00 | alice-springs              |      3 |        4 | Irrewarra Gem      |   2.7  | vulture             |
 | 27 | :2nd_place_medal: | 2021-12-05 17:05:00 | murray-bdge                |      6 |        5 | Yeelanna           |   3.75 | pangea              |
 | 28 | :boom:            | 2021-12-05 16:55:00 | spendthrift-australia-park |      7 |        6 | Starcaster         |   3    | benny,blackshadow   |
-| 29 | --                | 2021-12-05 16:49:00 | alice-springs              |      2 |        3 | Policy             |   3.1  | vulture             |
+| 29 | 6.0               | 2021-12-05 16:49:00 | alice-springs              |      2 |        3 | Policy             |   3.1  | vulture             |
 | 30 | 6.0               | 2021-12-05 16:20:00 | spendthrift-australia-park |      6 |        5 | Pristine Image     |   2.4  | vulture,pangea      |
 | 31 | :2nd_place_medal: | 2021-12-05 16:12:00 | pinjarra                   |      1 |        3 | Nights Mystery     |   1.38 | pikey               |
 | 32 | :2nd_place_medal: | 2021-12-05 16:10:00 | alice-springs              |      1 |        1 | Like A Heartbeat   |   1.2  | vulture             |
