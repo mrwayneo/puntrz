@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-05 20:20:49 +1000  
+date: 2021-12-05 20:35:42 +1000  
 ---   
 
 
@@ -12,10 +12,10 @@ date: 2021-12-05 20:20:49 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      1 |       24 | 1    |  2.4  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      1 |       14 | 0.5  |  0.7  |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      1 |      0 |      -10 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      7 |      1 |      -11 | 0.14 | -0.16 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      1 |      -16 | 0.2  | -0.32 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      6 |      0 |      -60 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      7 |      0 |      -70 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     12 |      0 |     -120 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      0 |     -140 | 0    | -1    |
@@ -86,8 +86,8 @@ date: 2021-12-05 20:20:49 +1000
 | 17 | :soon:            | 2021-12-05 23:20:00 | scottsville                |      5 |        1 | Hasta Manana       |   0    | vulture,blackshadow |
 | 18 | :soon:            | 2021-12-05 23:17:00 | huntingdon                 |      1 |        3 | Balco Coastal      |   2.5  | overthrow           |
 | 19 | :soon:            | 2021-12-05 23:17:00 | huntingdon                 |      1 |        2 | Peejaybee          |   5.5  | milkman             |
-| 20 | :soon:            | 2021-12-05 20:30:00 | pinjarra                   |      9 |       12 | Bandalera Miss     |   6.5  | pikey               |
-| 21 | :soon:            | 2021-12-05 20:30:00 | pinjarra                   |      9 |        3 | Disengo            |   1.95 | vulture,pangea      |
+| 20 | :boom:            | 2021-12-05 20:30:00 | pinjarra                   |      9 |       12 | Bandalera Miss     |   6.5  | pikey               |
+| 21 | :2nd_place_medal: | 2021-12-05 20:30:00 | pinjarra                   |      9 |        3 | Disengo            |   1.95 | vulture,pangea      |
 | 22 | :2nd_place_medal: | 2021-12-05 19:55:00 | pinjarra                   |      8 |        7 | Fashion Queen      |   2.8  | vulture,pikey       |
 | 23 | 4.0               | 2021-12-05 18:55:00 | pinjarra                   |      6 |        4 | Airlie Queen       |   4.5  | overthrow,pikey     |
 | 24 | 4.0               | 2021-12-05 17:55:00 | pinjarra                   |      4 |        2 | Do It Right        |   7    | pikey               |

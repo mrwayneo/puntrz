@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-05 20:20:48 +1000  
+date: 2021-12-05 20:35:42 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 20:30             | 2021-12-05 | pinjarra R9           | 12 Bandalera Miss     |   6.5  |    -10   |
+| :boom:            | 2021-12-05 | pinjarra R9           | 12 Bandalera Miss     |   5.9  |     49   |
 | :2nd_place_medal: | 2021-12-05 | pinjarra R8           | 7 Fashion Queen       |   2.8  |    -10   |
 | 4                 | 2021-12-05 | pinjarra R6           | 4 Airlie Queen        |   4.5  |    -10   |
 | :3rd_place_medal: | 2021-12-05 | pinjarra R5           | 2 Bigdayonit          |  10    |    -10   |
