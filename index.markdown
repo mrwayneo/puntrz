@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-05 16:42:02 +1000  
+date: 2021-12-05 17:04:04 +1000  
 ---   
 
 
@@ -9,11 +9,11 @@ date: 2021-12-05 16:42:02 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      1 |       24 | 1    |  2.4  |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      1 |       14 | 0.5  |  0.7  |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      1 |      0 |      -10 | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      1 |      -16 | 0.2  | -0.32 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      0 |      -50 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      6 |      0 |      -60 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      7 |      0 |      -70 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 | 0    | -1    |
@@ -94,8 +94,8 @@ date: 2021-12-05 16:42:02 +1000
 | 25 | :soon:            | 2021-12-05 17:21:00 | pinjarra                   |      3 |        6 | Mojo Rhythm        |  12    | pikey               |
 | 26 | :soon:            | 2021-12-05 17:19:00 | alice-springs              |      3 |        4 | Irrewarra Gem      |   2.7  | vulture             |
 | 27 | :soon:            | 2021-12-05 17:05:00 | murray-bdge                |      6 |        5 | Yeelanna           |   3.75 | pangea              |
-| 28 | :soon:            | 2021-12-05 16:55:00 | spendthrift-australia-park |      7 |        6 | Starcaster         |   3    | benny,blackshadow   |
-| 29 | :soon:            | 2021-12-05 16:49:00 | alice-springs              |      2 |        3 | Policy             |   3.1  | vulture             |
+| 28 | :boom:            | 2021-12-05 16:55:00 | spendthrift-australia-park |      7 |        6 | Starcaster         |   3    | benny,blackshadow   |
+| 29 | --                | 2021-12-05 16:49:00 | alice-springs              |      2 |        3 | Policy             |   3.1  | vulture             |
 | 30 | 6.0               | 2021-12-05 16:20:00 | spendthrift-australia-park |      6 |        5 | Pristine Image     |   2.4  | vulture,pangea      |
 | 31 | :2nd_place_medal: | 2021-12-05 16:12:00 | pinjarra                   |      1 |        3 | Nights Mystery     |   1.38 | pikey               |
 | 32 | :2nd_place_medal: | 2021-12-05 16:10:00 | alice-springs              |      1 |        1 | Like A Heartbeat   |   1.2  | vulture             |
