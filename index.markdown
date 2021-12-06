@@ -1,11 +1,21 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-06 07:47:48 +1000  
+date: 2021-12-06 13:13:18 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      3 |      0 |      -30 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      0 |      -50 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |      9 |      0 |      -90 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     25 |      0 |     -250 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -49,40 +59,15 @@ date: 2021-12-06 07:47:48 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5891 |    883 |  -8244   | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7615 |    426 | -13426   | 0.06 | -0.18 |
 
-|    | finish            | time                | track                      |   race |   number | name               |   odds | tipster             |
-|---:|:------------------|:--------------------|:---------------------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | 4.0               | 2021-12-06 02:35:00 | punchestown                |      8 |        2 | Glengouly          |   1.85 | overthrow           |
-|  1 | :2nd_place_medal: | 2021-12-06 01:57:00 | huntingdon                 |      6 |        5 | Lady Jane P        |   3.9  | vulture             |
-|  2 | --                | 2021-12-06 01:57:00 | huntingdon                 |      6 |        9 | Presenting Nelly   |   4.6  | evenodds,milkman    |
-|  3 | :3rd_place_medal: | 2021-12-06 01:35:00 | punchestown                |      6 |       11 | Thedevilscoachman  |   6.5  | milkman             |
-|  4 | :boom:            | 2021-12-06 01:35:00 | punchestown                |      6 |        3 | Ferny Hollow       |   1.5  | overthrow,milkman   |
-|  5 | --                | 2021-12-06 01:27:00 | huntingdon                 |      5 |        2 | Destrier           |   6.5  | overthrow           |
-|  6 | :boom:            | 2021-12-06 01:00:00 | punchestown                |      5 |        1 | Allaho             |   4.8  | overthrow           |
-|  7 | --                | 2021-12-06 01:00:00 | punchestown                |      5 |        2 | Asterion Forlonge  |   8    | milkman             |
-|  8 | 4.0               | 2021-12-06 00:52:00 | huntingdon                 |      4 |        4 | Master Tommytucker |   4.85 | overthrow           |
-|  9 | --                | 2021-12-06 00:52:00 | huntingdon                 |      4 |        1 | Allmankind         |   2.15 | evenodds,overthrow  |
-| 10 | :3rd_place_medal: | 2021-12-06 00:52:00 | huntingdon                 |      4 |        2 | Eldorado Allen     |   6    | vulture             |
-| 11 | :boom:            | 2021-12-06 00:25:00 | punchestown                |      4 |       10 | Party Central      |   3.4  | milkman             |
-| 12 | :2nd_place_medal: | 2021-12-06 00:25:00 | punchestown                |      4 |        7 | Humble Glory       |  12    | vulture             |
-| 13 | --                | 2021-12-06 00:03:00 | kelso                      |      3 |       12 | Weststreet         |   3.5  | vulture             |
-| 14 | :boom:            | 2021-12-05 23:55:00 | punchestown                |      3 |       14 | Gain De Cause      |   6    | looseknot           |
-| 15 | --                | 2021-12-05 23:47:00 | huntingdon                 |      2 |        1 | Barbados Buck's    |   5    | overthrow           |
-| 16 | --                | 2021-12-05 23:33:00 | kelso                      |      2 |        7 | Spider's Bite      |  41    | overthrow           |
-| 17 | --                | 2021-12-05 23:20:00 | scottsville                |      5 |        1 | Hasta Manana       |   0    | vulture,blackshadow |
-| 18 | :boom:            | 2021-12-05 23:17:00 | huntingdon                 |      1 |        3 | Balco Coastal      |   2.5  | overthrow           |
-| 19 | :3rd_place_medal: | 2021-12-05 23:17:00 | huntingdon                 |      1 |        2 | Peejaybee          |   5.5  | milkman             |
-| 20 | :boom:            | 2021-12-05 20:30:00 | pinjarra                   |      9 |       12 | Bandalera Miss     |   6.5  | pikey               |
-| 21 | :2nd_place_medal: | 2021-12-05 20:30:00 | pinjarra                   |      9 |        3 | Disengo            |   1.95 | vulture,pangea      |
-| 22 | :2nd_place_medal: | 2021-12-05 19:55:00 | pinjarra                   |      8 |        7 | Fashion Queen      |   2.8  | vulture,pikey       |
-| 23 | 4.0               | 2021-12-05 18:55:00 | pinjarra                   |      6 |        4 | Airlie Queen       |   4.5  | overthrow,pikey     |
-| 24 | 4.0               | 2021-12-05 17:55:00 | pinjarra                   |      4 |        2 | Do It Right        |   7    | pikey               |
-| 25 | :2nd_place_medal: | 2021-12-05 17:21:00 | pinjarra                   |      3 |        6 | Mojo Rhythm        |  12    | pikey               |
-| 26 | :2nd_place_medal: | 2021-12-05 17:19:00 | alice-springs              |      3 |        4 | Irrewarra Gem      |   2.7  | vulture             |
-| 27 | :2nd_place_medal: | 2021-12-05 17:05:00 | murray-bdge                |      6 |        5 | Yeelanna           |   3.75 | pangea              |
-| 28 | :boom:            | 2021-12-05 16:55:00 | spendthrift-australia-park |      7 |        6 | Starcaster         |   3    | benny,blackshadow   |
-| 29 | 6.0               | 2021-12-05 16:49:00 | alice-springs              |      2 |        3 | Policy             |   3.1  | vulture             |
-| 30 | 6.0               | 2021-12-05 16:20:00 | spendthrift-australia-park |      6 |        5 | Pristine Image     |   2.4  | vulture,pangea      |
-| 31 | :2nd_place_medal: | 2021-12-05 16:12:00 | pinjarra                   |      1 |        3 | Nights Mystery     |   1.38 | pikey               |
-| 32 | :2nd_place_medal: | 2021-12-05 16:10:00 | alice-springs              |      1 |        1 | Like A Heartbeat   |   1.2  | vulture             |
-| 33 | 4.0               | 2021-12-05 14:35:00 | sunshine-coast             |      3 |        7 | Asherla            |   1.9  | pangea              |
-| 34 | :3rd_place_medal: | 2021-12-05 14:00:00 | sunshine-coast             |      2 |        3 | If You Can Dream   |   3.8  | evenodds,overthrow  |
+|    | finish   | time                | track       |   race |   number | name            |   odds | tipster             |
+|---:|:---------|:--------------------|:------------|-------:|---------:|:----------------|-------:|:--------------------|
+|  0 | :soon:   | 2021-12-07 02:30:00 | ludlow      |      7 |        9 | Fancy Stuff     |   3.2  | evenodds,overthrow  |
+|  1 | :soon:   | 2021-12-07 02:30:00 | ludlow      |      7 |        4 | Hyland          |   3.8  | overthrow           |
+|  2 | :soon:   | 2021-12-07 02:00:00 | ludlow      |      6 |        7 | Mr Katanga      |   8.5  | looseknot           |
+|  3 | :soon:   | 2021-12-07 01:30:00 | ludlow      |      5 |        1 | Wild Max        |   3.9  | overthrow           |
+|  4 | :soon:   | 2021-12-07 01:30:00 | ludlow      |      5 |        4 | Son Of Camas    |   4.4  | overthrow           |
+|  5 | :soon:   | 2021-12-07 01:00:00 | ludlow      |      4 |        1 | Switch Hitter   |   3.2  | milkman             |
+|  6 | :soon:   | 2021-12-07 00:30:00 | ludlow      |      3 |        4 | Progressive     |   9    | overthrow           |
+|  7 | 103.0    | 2021-12-06 23:20:00 | scottsville |      5 |        1 | Hasta Manana    |   1.01 | vulture,blackshadow |
+|  8 | :soon:   | 2021-12-06 23:15:00 | musselburgh |      1 |        2 | Thunder Rock    |   2.7  | vulture             |
+|  9 | :soon:   | 2021-12-06 23:15:00 | musselburgh |      1 |        1 | A Distant Place |   2.25 | vulture             |
