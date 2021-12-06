@@ -1,11 +1,25 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-07 07:59:17 +1000  
+date: 2021-12-07 08:06:47 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      4 |      0 |      -40 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      4 |      0 |      -40 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      6 |      0 |      -60 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     40 |      0 |     -400 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     43 |      0 |     -430 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -49,15 +63,32 @@ date: 2021-12-07 07:59:17 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5854 |    872 |  -8684.5 | 0.15 | -0.15 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7556 |    424 | -13056   | 0.06 | -0.17 |
 
-|    | finish            | time                | track       |   race |   number | name            |   odds | tipster             |
-|---:|:------------------|:--------------------|:------------|-------:|---------:|:----------------|-------:|:--------------------|
-|  0 | :boom:            | 2021-12-07 02:30:00 | ludlow      |      7 |        9 | Fancy Stuff     |   3.2  | evenodds,overthrow  |
-|  1 | 4.0               | 2021-12-07 02:30:00 | ludlow      |      7 |        4 | Hyland          |   3.8  | overthrow           |
-|  2 | --                | 2021-12-07 02:00:00 | ludlow      |      6 |        7 | Mr Katanga      |   8.5  | looseknot           |
-|  3 | --                | 2021-12-07 01:30:00 | ludlow      |      5 |        1 | Wild Max        |   3.9  | overthrow           |
-|  4 | :3rd_place_medal: | 2021-12-07 01:30:00 | ludlow      |      5 |        4 | Son Of Camas    |   4.4  | overthrow           |
-|  5 | :3rd_place_medal: | 2021-12-07 01:00:00 | ludlow      |      4 |        1 | Switch Hitter   |   3.2  | milkman             |
-|  6 | 4.0               | 2021-12-07 00:30:00 | ludlow      |      3 |        4 | Progressive     |   9    | overthrow           |
-|  7 | 103.0             | 2021-12-06 23:20:00 | scottsville |      5 |        1 | Hasta Manana    |   1.01 | vulture,blackshadow |
-|  8 | :boom:            | 2021-12-06 23:15:00 | musselburgh |      1 |        2 | Thunder Rock    |   2.7  | vulture             |
-|  9 | --                | 2021-12-06 23:15:00 | musselburgh |      1 |        1 | A Distant Place |   2.25 | vulture             |
+|    | finish   | time                | track     |   race |   number | name             |   odds | tipster              |
+|---:|:---------|:--------------------|:----------|-------:|---------:|:-----------------|-------:|:---------------------|
+|  0 | :soon:   | 2021-12-08 03:30:00 | southwell |      2 |        4 | Night On Earth   |   4.8  | vulture              |
+|  1 | :soon:   | 2021-12-08 02:40:00 | tramore   |      7 |        7 | Viva Devito      |   2    | overthrow            |
+|  2 | :soon:   | 2021-12-08 02:30:00 | uttoxeter |      8 |        5 | Hidor De Bersy   |   2.1  | milkman              |
+|  3 | :soon:   | 2021-12-08 02:30:00 | uttoxeter |      8 |       12 | Turnaway         |  19    | overthrow            |
+|  4 | :soon:   | 2021-12-08 02:00:00 | uttoxeter |      7 |        6 | Full Of Light    |   3.6  | pangea,overthrow     |
+|  5 | :soon:   | 2021-12-08 02:00:00 | uttoxeter |      7 |       13 | Wolfspear        |   4    | overthrow,milkman    |
+|  6 | :soon:   | 2021-12-08 02:00:00 | uttoxeter |      7 |        4 | Cousu Main       |   2.4  | overthrow            |
+|  7 | :soon:   | 2021-12-08 01:50:00 | fontwell  |      6 |        2 | Get The Appeal   |   4.5  | overthrow            |
+|  8 | :soon:   | 2021-12-08 01:20:00 | fontwell  |      5 |        1 | Terresita        |  11    | milkman              |
+|  9 | :soon:   | 2021-12-08 01:15:00 | vaal      |      9 |        5 | Right Choice     |   0    | vulture              |
+| 10 | :soon:   | 2021-12-08 01:00:00 | uttoxeter |      5 |        5 | Captain Moirette |  15    | overthrow            |
+| 11 | :soon:   | 2021-12-08 00:30:00 | uttoxeter |      4 |        4 | Sail Away        |   5    | overthrow            |
+| 12 | :soon:   | 2021-12-08 00:30:00 | uttoxeter |      4 |        8 | Fantastic Lady   |  26    | overthrow            |
+| 13 | :soon:   | 2021-12-08 00:15:00 | vaal      |      7 |        4 | Flame Flower     |   0    | milkman              |
+| 14 | :soon:   | 2021-12-08 00:00:00 | uttoxeter |      3 |        4 | Dorisa Queen     |   3    | overthrow            |
+| 15 | :soon:   | 2021-12-07 23:50:00 | fontwell  |      2 |        1 | Galileo Silver   |   2.8  | overthrow            |
+| 16 | :soon:   | 2021-12-07 23:20:00 | fontwell  |      1 |        5 | Kotmask          |   7.5  | looseknot            |
+| 17 | :soon:   | 2021-12-07 23:05:00 | vaal      |      5 |        5 | No Time Is Taken |   0    | vulture,milkman      |
+| 18 | :soon:   | 2021-12-07 23:00:00 | uttoxeter |      1 |       10 | Tigerbythetail   |   3.6  | overthrow            |
+| 19 | :soon:   | 2021-12-07 23:00:00 | uttoxeter |      1 |        1 | Blairgowrie      |   3.8  | overthrow            |
+| 20 | :soon:   | 2021-12-07 23:00:00 | uttoxeter |      1 |        5 | Get A Tonic      |   2.8  | overthrow            |
+| 21 | :soon:   | 2021-12-07 21:20:00 | vaal      |      2 |        1 | General Hancock  |   0    | vulture              |
+| 22 | :soon:   | 2021-12-07 16:42:00 | cairns    |      3 |        1 | Tycoon Thunder   |   4    | looseknot            |
+| 23 | :soon:   | 2021-12-07 16:42:00 | cairns    |      3 |        4 | Silent Explorer  |   4.5  | evenodds,blackshadow |
+| 24 | :soon:   | 2021-12-07 16:05:00 | cairns    |      2 |        1 | Magnate          |   2.4  | moechilli            |
+| 25 | :soon:   | 2021-12-07 16:05:00 | cairns    |      2 |        4 | Nanna Knuckey    |   1.65 | evenodds,overthrow   |
+| 26 | :soon:   | 2021-12-07 15:27:00 | cairns    |      1 |        4 | Own Sweet Way    |   4.75 | pangea               |
