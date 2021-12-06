@@ -1,32 +1,32 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2021-12-06 17:36:08 +1000  
+date: 2021-12-07 05:54:50 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     24 |      4 |   -107.8 | 0.17 | -0.45 |
-| Last 28 Days   |    102 |     25 |   -429.9 | 0.25 | -0.42 |
-| Last 6 Months  |    611 |    171 |  -1206.4 | 0.28 | -0.2  |
-| Since Jan 2020 |   1003 |    280 |  -2033.6 | 0.28 | -0.2  |
+| Last 7 Days    |     22 |      3 |    -78   | 0.14 | -0.35 |
+| Last 28 Days   |    102 |     25 |   -406.1 | 0.25 | -0.4  |
+| Last 6 Months  |    612 |    171 |  -1192.6 | 0.28 | -0.19 |
+| Since Jan 2020 |   1004 |    280 |  -2019.8 | 0.28 | -0.2  |
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 02:30             | 2021-12-07 | ludlow R7              | 9 Fancy Stuff         |   3.2  |    -10   |
+| :boom:            | 2021-12-07 | ludlow R7              | 9 Fancy Stuff         |   5.5  |     45   |
 | 0                 | 2021-12-06 | huntingdon R6          | 9 Presenting Nelly    |   0    |    -10   |
 | 0                 | 2021-12-06 | huntingdon R4          | 1 Allmankind          |   0    |    -10   |
 | :3rd_place_medal: | 2021-12-05 | sunshine-coast R2      | 3 If You Can Dream    |   3.8  |    -10   |
-| 4                 | 2021-12-05 | sandown R5             | 5 Nube Negra          |   3.8  |    -10   |
-| :2nd_place_medal: | 2021-12-05 | sandown R5             | 4 Hitman              |  14    |    -10   |
 | 0                 | 2021-12-05 | sandown R5             | 2 Chacun Pour Soi     |   0    |    -10   |
-| :3rd_place_medal: | 2021-12-05 | sandown R4             | 5 Third Time Lucki    |   3    |    -10   |
+| 0                 | 2021-12-05 | sandown R5             | 4 Hitman              |  14    |    -10   |
+| 0                 | 2021-12-05 | sandown R5             | 5 Nube Negra          |   3.8  |    -10   |
 | 0                 | 2021-12-05 | sandown R4             | 7 Il Ridoto           |   0    |    -10   |
+| 0                 | 2021-12-05 | sandown R4             | 5 Third Time Lucki    |   3    |    -10   |
 | :3rd_place_medal: | 2021-12-04 | aintree R3             | 2 Elimay              |   1.36 |    -10   |
+| 0                 | 2021-12-04 | sandown R1             | 3 Constitution Hill   |   3.12 |    -10   |
 | 0                 | 2021-12-04 | sandown R1             | 1 Hardkore            |   0    |    -10   |
-| :boom:            | 2021-12-04 | sandown R1             | 3 Constitution Hill   |   3.12 |     21.2 |
 | :2nd_place_medal: | 2021-12-04 | rockhampton R5         | 9 Scoria Star         |   3.9  |    -10   |
 | :boom:            | 2021-12-04 | darwin R1              | 7 Captain Hedderwick  |   7.1  |     61   |
 | :2nd_place_medal: | 2021-12-04 | rockhampton R2         | 9 In Order            |   1.67 |    -10   |

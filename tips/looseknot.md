@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-12-06 17:36:11 +1000  
+date: 2021-12-07 05:54:53 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     18 |      2 |    -97   | 0.11 | -0.54 |
-| Last 28 Days   |     81 |     15 |   -219   | 0.19 | -0.27 |
-| Last 6 Months  |    682 |    110 |   -868.3 | 0.16 | -0.13 |
-| Since Jan 2020 |   1102 |    168 |  -1638.8 | 0.15 | -0.15 |
+| Last 7 Days    |     15 |      2 |    -67   | 0.13 | -0.45 |
+| Last 28 Days   |     78 |     14 |   -233   | 0.18 | -0.3  |
+| Last 6 Months  |    683 |    110 |   -878.3 | 0.16 | -0.13 |
+| Since Jan 2020 |   1103 |    168 |  -1648.8 | 0.15 | -0.15 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:00             | 2021-12-07 | ludlow R6                     | 7 Mr Katanga          |   8.5  |    -10   |
+| 0                 | 2021-12-07 | ludlow R6                     | 7 Mr Katanga          |   0    |    -10   |
 | :boom:            | 2021-12-05 | punchestown R3                | 14 Gain De Cause      |   4.5  |     35   |
 | :boom:            | 2021-12-05 | wolverhampton R2              | 4 Last Ammo           |   3.8  |     28   |
 | 0                 | 2021-12-05 | wolverhampton R1              | 6 Closing Bell        |   0    |    -10   |

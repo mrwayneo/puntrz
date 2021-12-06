@@ -1,15 +1,15 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-12-06 17:36:10 +1000  
+date: 2021-12-07 05:54:51 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     17 |      4 |    -15   | 0.24 | -0.09 |
-| Last 28 Days   |     56 |     20 |     97   | 0.36 |  0.17 |
+| Last 7 Days    |     16 |      4 |     -5   | 0.25 | -0.03 |
+| Last 28 Days   |     55 |     19 |     91   | 0.35 |  0.17 |
 | Last 6 Months  |    328 |     90 |   -102.6 | 0.27 | -0.03 |
 | Since Jan 2020 |    584 |    156 |   -470   | 0.27 | -0.08 |
 
@@ -60,8 +60,8 @@ categories: None
 | 6                 | 2021-11-14 | hobart R5                     | 3 Deroche             |  4    |    -10   |
 | :boom:            | 2021-11-14 | punchestown R4                | 8 Top Bandit          |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-14 | cheltenham R3                 | 3 Mick Pastor         |  0    |    -10   |
-| 11                | 2021-11-13 | ascot R6                      | 13 Temptacion         |  6    |    -10   |
 | :boom:            | 2021-11-13 | ascot R6                      | 8 Midnight Blue       |  3.8  |     28   |
+| 11                | 2021-11-13 | ascot R6                      | 13 Temptacion         |  6    |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R9                    | 12 Morethannumberone  |  2.15 |    -10   |
 | :boom:            | 2021-11-13 | doomben R8                    | 4 Tambo's Mate        |  3.3  |     23   |
 | :2nd_place_medal: | 2021-11-13 | ascot R3                      | 8 Secret Plan         |  3    |    -10   |
