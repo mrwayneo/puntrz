@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-07 22:55:19 +1000  
+date: 2021-12-07 23:09:00 +1000  
 ---   
 
 
@@ -63,32 +63,32 @@ date: 2021-12-07 22:55:19 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5828 |    883 |  -7522.5 | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7556 |    424 | -13056   | 0.06 | -0.17 |
 
-|    | finish            | time                | track     |   race |   number | name             |   odds | tipster              |
-|---:|:------------------|:--------------------|:----------|-------:|---------:|:-----------------|-------:|:---------------------|
-|  0 | :soon:            | 2021-12-08 03:30:00 | southwell |      2 |        4 | Night On Earth   |   4.8  | vulture              |
-|  1 | :soon:            | 2021-12-08 02:40:00 | tramore   |      7 |        7 | Viva Devito      |   2    | overthrow            |
-|  2 | :soon:            | 2021-12-08 02:30:00 | uttoxeter |      8 |        5 | Hidor De Bersy   |   2.1  | milkman              |
-|  3 | :soon:            | 2021-12-08 02:30:00 | uttoxeter |      8 |       12 | Turnaway         |  19    | overthrow            |
-|  4 | :soon:            | 2021-12-08 02:00:00 | uttoxeter |      7 |        6 | Full Of Light    |   3.4  | pangea,overthrow     |
-|  5 | :soon:            | 2021-12-08 02:00:00 | uttoxeter |      7 |       13 | Wolfspear        |   3.7  | overthrow,milkman    |
-|  6 | :soon:            | 2021-12-08 02:00:00 | uttoxeter |      7 |        4 | Cousu Main       |   2.4  | overthrow            |
-|  7 | :soon:            | 2021-12-08 01:50:00 | fontwell  |      6 |        2 | Get The Appeal   |   3.9  | overthrow            |
-|  8 | :soon:            | 2021-12-08 01:20:00 | fontwell  |      5 |        1 | Terresita        |   9.5  | milkman              |
-|  9 | :soon:            | 2021-12-08 01:15:00 | vaal      |      9 |        5 | Right Choice     |   0    | vulture              |
-| 10 | :soon:            | 2021-12-08 01:00:00 | uttoxeter |      5 |        5 | Captain Moirette |  15    | overthrow            |
-| 11 | :soon:            | 2021-12-08 00:30:00 | uttoxeter |      4 |        4 | Sail Away        |   5    | overthrow            |
-| 12 | :soon:            | 2021-12-08 00:30:00 | uttoxeter |      4 |        8 | Fantastic Lady   |  26    | overthrow            |
-| 13 | :soon:            | 2021-12-08 00:15:00 | vaal      |      7 |        4 | Flame Flower     |   0    | milkman              |
-| 14 | :soon:            | 2021-12-08 00:00:00 | uttoxeter |      3 |        4 | Dorisa Queen     |   3    | overthrow            |
-| 15 | :soon:            | 2021-12-07 23:50:00 | fontwell  |      2 |        1 | Galileo Silver   |   2.8  | overthrow            |
-| 16 | :soon:            | 2021-12-07 23:20:00 | fontwell  |      1 |        5 | Kotmask          |   7    | looseknot            |
-| 17 | :soon:            | 2021-12-07 23:05:00 | vaal      |      5 |        5 | No Time Is Taken |   0    | vulture,milkman      |
-| 18 | :soon:            | 2021-12-07 23:00:00 | uttoxeter |      1 |       10 | Tigerbythetail   |   3.3  | overthrow            |
-| 19 | :soon:            | 2021-12-07 23:00:00 | uttoxeter |      1 |        1 | Blairgowrie      |   3.9  | overthrow            |
-| 20 | :soon:            | 2021-12-07 23:00:00 | uttoxeter |      1 |        5 | Get A Tonic      |   2.8  | overthrow            |
-| 21 | :2nd_place_medal: | 2021-12-07 21:20:00 | vaal      |      2 |        1 | General Hancock  |   0    | vulture              |
-| 22 | 4.0               | 2021-12-07 16:42:00 | cairns    |      3 |        1 | Tycoon Thunder   |   7    | looseknot            |
-| 23 | 5.0               | 2021-12-07 16:42:00 | cairns    |      3 |        4 | Silent Explorer  |   5    | evenodds,blackshadow |
-| 24 | :boom:            | 2021-12-07 16:05:00 | cairns    |      2 |        1 | Magnate          |   2.6  | moechilli            |
-| 25 | 106.0             | 2021-12-07 16:05:00 | cairns    |      2 |        4 | Nanna Knuckey    |   1.67 | evenodds,overthrow   |
-| 26 | :2nd_place_medal: | 2021-12-07 15:27:00 | cairns    |      1 |        4 | Own Sweet Way    |   4.75 | pangea               |
+|    | finish                   | time                | track     |   race |   number | name             |   odds | tipster              |
+|---:|:-------------------------|:--------------------|:----------|-------:|---------:|:-----------------|-------:|:---------------------|
+|  0 | :soon:                   | 2021-12-08 03:30:00 | southwell |      2 |        4 | Night On Earth   |   4.8  | vulture              |
+|  1 | :soon:                   | 2021-12-08 02:40:00 | tramore   |      7 |        7 | Viva Devito      |   2    | overthrow            |
+|  2 | :soon:                   | 2021-12-08 02:30:00 | uttoxeter |      8 |        5 | Hidor De Bersy   |   2.1  | milkman              |
+|  3 | :soon:                   | 2021-12-08 02:30:00 | uttoxeter |      8 |       12 | Turnaway         |  19    | overthrow            |
+|  4 | :soon:                   | 2021-12-08 02:00:00 | uttoxeter |      7 |        6 | Full Of Light    |   3.4  | pangea,overthrow     |
+|  5 | :soon:                   | 2021-12-08 02:00:00 | uttoxeter |      7 |       13 | Wolfspear        |   3.7  | overthrow,milkman    |
+|  6 | :soon:                   | 2021-12-08 02:00:00 | uttoxeter |      7 |        4 | Cousu Main       |   2.4  | overthrow            |
+|  7 | :soon:                   | 2021-12-08 01:50:00 | fontwell  |      6 |        2 | Get The Appeal   |   3.9  | overthrow            |
+|  8 | :soon:                   | 2021-12-08 01:20:00 | fontwell  |      5 |        1 | Terresita        |   9.5  | milkman              |
+|  9 | :soon:                   | 2021-12-08 01:15:00 | vaal      |      9 |        5 | Right Choice     |   0    | vulture              |
+| 10 | :soon:                   | 2021-12-08 01:00:00 | uttoxeter |      5 |        5 | Captain Moirette |  15    | overthrow            |
+| 11 | :soon:                   | 2021-12-08 00:30:00 | uttoxeter |      4 |        4 | Sail Away        |   5    | overthrow            |
+| 12 | :soon:                   | 2021-12-08 00:30:00 | uttoxeter |      4 |        8 | Fantastic Lady   |  26    | overthrow            |
+| 13 | :soon:                   | 2021-12-08 00:15:00 | vaal      |      7 |        4 | Flame Flower     |   0    | milkman              |
+| 14 | :soon:                   | 2021-12-08 00:00:00 | uttoxeter |      3 |        4 | Dorisa Queen     |   3    | overthrow            |
+| 15 | :soon:                   | 2021-12-07 23:50:00 | fontwell  |      2 |        1 | Galileo Silver   |   2.8  | overthrow            |
+| 16 | :soon:                   | 2021-12-07 23:20:00 | fontwell  |      1 |        5 | Kotmask          |   7    | looseknot            |
+| 17 | :hourglass_flowing_sand: | 2021-12-07 23:05:00 | vaal      |      5 |        5 | No Time Is Taken |   0    | vulture,milkman      |
+| 18 | :hourglass_flowing_sand: | 2021-12-07 23:00:00 | uttoxeter |      1 |       10 | Tigerbythetail   |   3.3  | overthrow            |
+| 19 | :hourglass_flowing_sand: | 2021-12-07 23:00:00 | uttoxeter |      1 |        1 | Blairgowrie      |   3.9  | overthrow            |
+| 20 | :hourglass_flowing_sand: | 2021-12-07 23:00:00 | uttoxeter |      1 |        5 | Get A Tonic      |   2.8  | overthrow            |
+| 21 | :2nd_place_medal:        | 2021-12-07 21:20:00 | vaal      |      2 |        1 | General Hancock  |   0    | vulture              |
+| 22 | 4.0                      | 2021-12-07 16:42:00 | cairns    |      3 |        1 | Tycoon Thunder   |   7    | looseknot            |
+| 23 | 5.0                      | 2021-12-07 16:42:00 | cairns    |      3 |        4 | Silent Explorer  |   5    | evenodds,blackshadow |
+| 24 | :boom:                   | 2021-12-07 16:05:00 | cairns    |      2 |        1 | Magnate          |   2.6  | moechilli            |
+| 25 | 106.0                    | 2021-12-07 16:05:00 | cairns    |      2 |        4 | Nanna Knuckey    |   1.67 | evenodds,overthrow   |
+| 26 | :2nd_place_medal:        | 2021-12-07 15:27:00 | cairns    |      1 |        4 | Own Sweet Way    |   4.75 | pangea               |
