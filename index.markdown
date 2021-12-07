@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-07 22:25:25 +1000  
+date: 2021-12-07 22:40:25 +1000  
 ---   
 
 
@@ -30,8 +30,8 @@ date: 2021-12-07 22:25:25 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      6 |    139   | 0.3  |  0.7  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      6 |    127.5 | 0.3  |  0.64 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |    110   | 0.05 |  0.55 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      5 |     69   | 0.25 |  0.34 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      7 |     59   | 0.35 |  0.3  |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     53   | 0.2  |  0.26 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      7 |     49   | 0.35 |  0.24 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |    -25   | 0.4  | -0.12 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |    -26.8 | 0.2  | -0.13 |
