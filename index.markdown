@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-07 16:15:31 +1000  
+date: 2021-12-07 16:31:11 +1000  
 ---   
 
 
@@ -48,7 +48,7 @@ date: 2021-12-07 16:15:31 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    270 |     77 |    375.5 | 0.29 |  0.14 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     37 |      9 |    173.5 | 0.24 |  0.47 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    318 |     90 |     28.4 | 0.28 |  0.01 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    317 |     90 |     38.4 | 0.28 |  0.01 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    190 |     64 |    -34.4 | 0.34 | -0.02 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     45 |      6 |   -229   | 0.13 | -0.51 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    338 |     71 |   -462.5 | 0.21 | -0.14 |
@@ -87,7 +87,7 @@ date: 2021-12-07 16:15:31 +1000
 | 19 | :soon:            | 2021-12-07 23:00:00 | uttoxeter |      1 |        1 | Blairgowrie      |   3.8  | overthrow            |
 | 20 | :soon:            | 2021-12-07 23:00:00 | uttoxeter |      1 |        5 | Get A Tonic      |   2.8  | overthrow            |
 | 21 | :soon:            | 2021-12-07 21:20:00 | vaal      |      2 |        1 | General Hancock  |   0    | vulture              |
-| 22 | :soon:            | 2021-12-07 16:42:00 | cairns    |      3 |        1 | Tycoon Thunder   |   4    | looseknot            |
+| 22 | :soon:            | 2021-12-07 16:42:00 | cairns    |      3 |        1 | Tycoon Thunder   |   4.8  | looseknot            |
 | 23 | :soon:            | 2021-12-07 16:42:00 | cairns    |      3 |        4 | Silent Explorer  |   4.5  | evenodds,blackshadow |
 | 24 | :boom:            | 2021-12-07 16:05:00 | cairns    |      2 |        1 | Magnate          |   2.4  | moechilli            |
 | 25 | --                | 2021-12-07 16:05:00 | cairns    |      2 |        4 | Nanna Knuckey    |   1.65 | evenodds,overthrow   |
