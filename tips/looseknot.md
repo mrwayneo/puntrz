@@ -1,30 +1,29 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-12-07 17:30:36 +1000  
+date: 2021-12-07 17:45:33 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     15 |      2 |    -67   | 0.13 | -0.45 |
-| Last 28 Days   |     78 |     14 |   -233   | 0.18 | -0.3  |
-| Last 6 Months  |    683 |    110 |   -878.3 | 0.16 | -0.13 |
-| Since Jan 2020 |   1103 |    168 |  -1648.8 | 0.15 | -0.15 |
+| Last 7 Days    |     14 |      2 |    -57   | 0.14 | -0.41 |
+| Last 28 Days   |     77 |     14 |   -223   | 0.18 | -0.29 |
+| Last 6 Months  |    682 |    110 |   -868.3 | 0.16 | -0.13 |
+| Since Jan 2020 |   1102 |    168 |  -1638.8 | 0.15 | -0.15 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 23:20             | 2021-12-07 | fontwell R1                   | 5 Kotmask             |   7.5  |    -10   |
+| 23:20             | 2021-12-07 | fontwell R1                   | 5 Kotmask             |   7    |    -10   |
 | 4                 | 2021-12-07 | cairns R3                     | 1 Tycoon Thunder      |   7    |    -10   |
-| 0                 | 2021-12-07 | ludlow R6                     | 7 Mr Katanga          |   0    |    -10   |
+| 99                | 2021-12-07 | ludlow R6                     | 7 Mr Katanga          |   0    |    -10   |
 | :boom:            | 2021-12-05 | punchestown R3                | 14 Gain De Cause      |   4.5  |     35   |
 | :boom:            | 2021-12-05 | wolverhampton R2              | 4 Last Ammo           |   3.8  |     28   |
-| 0                 | 2021-12-05 | wolverhampton R1              | 6 Closing Bell        |   0    |    -10   |
+| 99                | 2021-12-05 | wolverhampton R1              | 6 Closing Bell        |   0    |    -10   |
 | 99                | 2021-12-05 | chepstow R8                   | 2 Captain Claude      |   0    |    -10   |
 | 5                 | 2021-12-04 | darwin R5                     | 6 Malibu Edition      |  11    |    -10   |
 | :3rd_place_medal: | 2021-12-04 | esperance-bay R1              | 5 Indian Chant        |   6.5  |    -10   |
-| 0                 | 2021-12-04 | trentham R2                   | 4 Ace Royale          |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-04 | exeter R7                     | 4 Firestream          |   4.2  |    -10   |
 | :2nd_place_medal: | 2021-12-03 | sandown R1                    | 3 Rolling Dylan       |   7    |    -10   |
 | :3rd_place_medal: | 2021-12-03 | chelmsford-city R1            | 7 Mc'ted              |   4.8  |    -10   |
@@ -33,8 +32,8 @@ categories: None
 | 4                 | 2021-12-02 | northam R1                    | 6 Idle Star           |   9    |    -10   |
 | 5                 | 2021-12-02 | townsville R3                 | 4 Dutton Branded      |   4.8  |    -10   |
 | 99                | 2021-12-01 | lingfield R2                  | 11 Cheese The One     |   0    |    -10   |
-| 99                | 2021-12-01 | lingfield R2                  | 10 My Ambition        |   0    |    -10   |
 | 99                | 2021-12-01 | lingfield R2                  | 6 Gidwa               |   0    |    -10   |
+| 99                | 2021-12-01 | lingfield R2                  | 10 My Ambition        |   0    |    -10   |
 | 4                 | 2021-12-01 | sunshine-coast-poly-track R2  | 6 Canny Impact        |   6    |    -10   |
 | 4                 | 2021-12-01 | newcastle R2                  | 5 Dance At Night      |   4.6  |    -10   |
 | 99                | 2021-11-30 | lingfield R2                  | 4 If You Can Dream    |   0    |    -10   |
@@ -625,8 +624,8 @@ categories: None
 | 99                | 2021-06-17 | royal-ascot R6                | 26 Golden Bell        |   9    |    -10   |
 | :2nd_place_medal: | 2021-06-17 | uttoxeter R8                  | 12 Here's Bingo       |   5.5  |    -10   |
 | 99                | 2021-06-16 | royal-ascot R1                | 1 Artos               |   9    |    -10   |
-| 99                | 2021-06-16 | uttoxeter R3                  | 6 Crossfirehurricane  |   4.8  |    -10   |
 | :boom:            | 2021-06-16 | uttoxeter R3                  | 10 Misscarlett        |   8.5  |     75   |
+| 99                | 2021-06-16 | uttoxeter R3                  | 6 Crossfirehurricane  |   4.8  |    -10   |
 | :2nd_place_medal: | 2021-06-16 | uttoxeter R1                  | 2 Helford River       |   6.1  |    -10   |
 | :boom:            | 2021-06-16 | brighton R4                   | 5 Khufu               |   6    |     50   |
 | 99                | 2021-06-16 | royal-ascot R2                | 17 Kaufymaker         |   9    |    -10   |
