@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-07 22:10:52 +1000  
+date: 2021-12-07 22:25:25 +1000  
 ---   
 
 
@@ -18,7 +18,7 @@ date: 2021-12-07 22:10:52 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     15 |      0 |     -150 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     40 |      3 |     -279 | 0.08 | -0.7  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     40 |      3 |     -283 | 0.08 | -0.71 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     43 |      1 |     -331 | 0.02 | -0.77 |
 
 ##### Form Last 20 tips   
@@ -30,8 +30,8 @@ date: 2021-12-07 22:10:52 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      6 |    139   | 0.3  |  0.7  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      6 |    127.5 | 0.3  |  0.64 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |    110   | 0.05 |  0.55 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      5 |     69   | 0.25 |  0.34 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      7 |     59   | 0.35 |  0.3  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     53   | 0.2  |  0.26 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      7 |     49   | 0.35 |  0.24 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |    -25   | 0.4  | -0.12 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |    -26.8 | 0.2  | -0.13 |
