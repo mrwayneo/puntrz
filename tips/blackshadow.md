@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-12-07 17:15:35 +1000  
+date: 2021-12-07 17:30:35 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     15 |      4 |      5   | 0.27 |  0.03 |
-| Last 28 Days   |     54 |     19 |    101   | 0.35 |  0.19 |
-| Last 6 Months  |    327 |     90 |    -92.6 | 0.28 | -0.03 |
-| Since Jan 2020 |    583 |    156 |   -460   | 0.27 | -0.08 |
+| Last 7 Days    |     15 |      5 |    135   | 0.33 |  0.9  |
+| Last 28 Days   |     54 |     20 |    231   | 0.37 |  0.43 |
+| Last 6 Months  |    327 |     91 |     37.4 | 0.28 |  0.01 |
+| Since Jan 2020 |    583 |    157 |   -330   | 0.27 | -0.06 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
 | 0                 | 2021-12-07 | cairns R3                     | 4 Silent Explorer     |  0    |    -10   |
 | :boom:            | 2021-12-05 | spendthrift-australia-park R7 | 6 Starcaster          |  3.4  |     24   |
-| 0                 | 2021-12-05 | sandown R5                    | 3 Greaneteen          | 13    |    -10   |
+| :boom:            | 2021-12-05 | sandown R5                    | 3 Greaneteen          | 13    |    120   |
 | 99                | 2021-12-05 | sandown R4                    | 3 Minella Drama       |  0    |    -10   |
 | :boom:            | 2021-12-04 | ascot R9                      | 9 Memorable Miss      |  7.4  |     64   |
 | :2nd_place_medal: | 2021-12-04 | ascot R8                      | 7 Western Empire      |  1.3  |    -10   |
@@ -60,8 +60,8 @@ categories: None
 | 6                 | 2021-11-14 | hobart R5                     | 3 Deroche             |  4    |    -10   |
 | :boom:            | 2021-11-14 | punchestown R4                | 8 Top Bandit          |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-14 | cheltenham R3                 | 3 Mick Pastor         |  0    |    -10   |
-| 11                | 2021-11-13 | ascot R6                      | 13 Temptacion         |  6    |    -10   |
 | :boom:            | 2021-11-13 | ascot R6                      | 8 Midnight Blue       |  3.8  |     28   |
+| 11                | 2021-11-13 | ascot R6                      | 13 Temptacion         |  6    |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R9                    | 12 Morethannumberone  |  2.15 |    -10   |
 | :boom:            | 2021-11-13 | doomben R8                    | 4 Tambo's Mate        |  3.3  |     23   |
 | :2nd_place_medal: | 2021-11-13 | ascot R3                      | 8 Secret Plan         |  3    |    -10   |
@@ -165,9 +165,9 @@ categories: None
 | :boom:            | 2021-09-14 | yeppoon R5                    | 1 The Egyptian        |  1.8  |      8   |
 | 4                 | 2021-09-14 | yeppoon R1                    | 6 Attackabeel         |  1.95 |    -10   |
 | 99                | 2021-09-13 | worcester R4                  | 2 Bathiva             |  3.2  |    -10   |
+| 5                 | 2021-09-12 | devonport-synthetic R1        | 4 Vivilici            |  3    |    -10   |
 | 4                 | 2021-09-12 | devonport-synthetic R1        | 6 Assaranca           |  4.6  |    -10   |
 | :boom:            | 2021-09-12 | devonport-synthetic R1        | 5 Red Letter Lady     |  4.8  |     38   |
-| 5                 | 2021-09-12 | devonport-synthetic R1        | 4 Vivilici            |  3    |    -10   |
 | 4                 | 2021-09-11 | durbanville R5                | 1 The Gatekeeper      |  2.5  |    -10   |
 | 4                 | 2021-09-11 | turffontein R6                | 3 Tierra Del Fuego    | 13    |    -10   |
 | :boom:            | 2021-09-11 | turffontein R5                | 5 Cleveland           | 16    |    150   |

@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-12-07 17:15:34 +1000  
+date: 2021-12-07 17:30:33 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     12 |      3 |    -41   | 0.25 | -0.34 |
-| Last 28 Days   |     38 |     13 |    167   | 0.34 |  0.44 |
-| Last 6 Months  |    350 |     75 |   -152.5 | 0.21 | -0.04 |
-| Since Jan 2020 |    593 |    131 |   -385.5 | 0.22 | -0.07 |
+| Last 7 Days    |     12 |      4 |    -25   | 0.33 | -0.21 |
+| Last 28 Days   |     38 |     14 |    183   | 0.37 |  0.48 |
+| Last 6 Months  |    350 |     76 |   -136.5 | 0.22 | -0.04 |
+| Since Jan 2020 |    593 |    132 |   -369.5 | 0.22 | -0.06 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
@@ -19,7 +19,7 @@ categories: None
 | :2nd_place_medal: | 2021-12-05 | kenilworth R8                 | 1 Rio Querari         |  0    |    -10   |
 | 4                 | 2021-12-05 | kenilworth R7                 | 2 Jet Dark            |  0    |    -10   |
 | 6                 | 2021-12-04 | toowoomba R8                  | 5 Bit Of A Beauty     |  8.5  |    -10   |
-| 0                 | 2021-12-04 | doomben R9                    | 5 Zoustyle            |  1.6  |    -10   |
+| :boom:            | 2021-12-04 | doomben R9                    | 5 Zoustyle            |  1.6  |      6   |
 | :boom:            | 2021-12-04 | darwin R4                     | 3 Bel's Banner        |  2.6  |     16   |
 | :boom:            | 2021-12-04 | doomben R5                    | 2 Far Too Easy        |  1.9  |      9   |
 | 4                 | 2021-12-04 | racing.com-park R4            | 10 Irish Mist         | 20    |    -10   |
