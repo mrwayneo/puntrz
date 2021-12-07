@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-07 21:10:22 +1000  
+date: 2021-12-07 21:25:29 +1000  
 ---   
 
 
@@ -86,7 +86,7 @@ date: 2021-12-07 21:10:22 +1000
 | 18 | :soon:            | 2021-12-07 23:00:00 | uttoxeter |      1 |       10 | Tigerbythetail   |   3.3  | overthrow            |
 | 19 | :soon:            | 2021-12-07 23:00:00 | uttoxeter |      1 |        1 | Blairgowrie      |   3.9  | overthrow            |
 | 20 | :soon:            | 2021-12-07 23:00:00 | uttoxeter |      1 |        5 | Get A Tonic      |   2.8  | overthrow            |
-| 21 | :soon:            | 2021-12-07 21:20:00 | vaal      |      2 |        1 | General Hancock  |   0    | vulture              |
+| 21 | --                | 2021-12-07 21:20:00 | vaal      |      2 |        1 | General Hancock  |   0    | vulture              |
 | 22 | 4.0               | 2021-12-07 16:42:00 | cairns    |      3 |        1 | Tycoon Thunder   |   7    | looseknot            |
 | 23 | 5.0               | 2021-12-07 16:42:00 | cairns    |      3 |        4 | Silent Explorer  |   5    | evenodds,blackshadow |
 | 24 | :boom:            | 2021-12-07 16:05:00 | cairns    |      2 |        1 | Magnate          |   2.6  | moechilli            |
