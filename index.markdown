@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-07 14:45:37 +1000  
+date: 2021-12-07 15:00:38 +1000  
 ---   
 
 
@@ -32,6 +32,7 @@ date: 2021-12-07 14:45:37 +1000
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      7 |     49   | 0.35 |  0.24 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      6 |     43   | 0.3  |  0.22 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      5 |      9   | 0.25 |  0.05 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |    -25   | 0.1  | -0.12 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      6 |    -57   | 0.3  | -0.28 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      2 |    -74   | 0.1  | -0.37 |
@@ -39,7 +40,6 @@ date: 2021-12-07 14:45:37 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |   -117   | 0.1  | -0.58 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      2 |   -133   | 0.1  | -0.66 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      2 |   -139   | 0.1  | -0.7  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
@@ -60,7 +60,7 @@ date: 2021-12-07 14:45:37 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1083 |    264 |  -1722.5 | 0.24 | -0.16 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2450 |    133 |  -2282   | 0.05 | -0.09 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2878 |    699 |  -3800.3 | 0.24 | -0.13 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5854 |    872 |  -8684.5 | 0.15 | -0.15 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5852 |    872 |  -8664.5 | 0.15 | -0.15 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7556 |    424 | -13056   | 0.06 | -0.17 |
 
 |    | finish   | time                | track     |   race |   number | name             |   odds | tipster              |
