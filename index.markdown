@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-08 09:14:24 +1000  
+date: 2021-12-08 09:44:02 +1000  
 ---   
 
 
@@ -28,6 +28,7 @@ date: 2021-12-08 09:14:24 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    532   | 1    |  2.66 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      7 |    275.5 | 0.35 |  1.38 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      7 |    237   | 0.35 |  1.18 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      6 |    139   | 0.3  |  0.7  |
@@ -49,6 +50,7 @@ date: 2021-12-08 09:14:24 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     61 |     61 |   1539.5 | 1    |  2.52 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    270 |     77 |    375.5 | 0.29 |  0.14 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     38 |     10 |    191.5 | 0.26 |  0.5  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    318 |     91 |    158.4 | 0.29 |  0.05 |
