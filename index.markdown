@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-08 07:36:18 +1000  
+date: 2021-12-08 09:14:24 +1000  
 ---   
 
 
@@ -66,32 +66,34 @@ date: 2021-12-08 07:36:18 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5842 |    885 |  -7733.5 | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7547 |    424 | -13028   | 0.06 | -0.17 |
 
-|    | finish            | time                | track     |   race |   number | name             |   odds | tipster              |
-|---:|:------------------|:--------------------|:----------|-------:|---------:|:-----------------|-------:|:---------------------|
-|  0 | --                | 2021-12-08 03:30:00 | southwell |      2 |        4 | Night On Earth   |   4.8  | vulture              |
-|  1 | --                | 2021-12-08 02:40:00 | tramore   |      7 |        7 | Viva Devito      |   2    | overthrow            |
-|  2 | :3rd_place_medal: | 2021-12-08 02:30:00 | uttoxeter |      8 |        5 | Hidor De Bersy   |   2.1  | milkman              |
-|  3 | --                | 2021-12-08 02:30:00 | uttoxeter |      8 |       12 | Turnaway         |  19    | overthrow            |
-|  4 | :2nd_place_medal: | 2021-12-08 02:00:00 | uttoxeter |      7 |        6 | Full Of Light    |   3.4  | pangea,overthrow     |
-|  5 | 4.0               | 2021-12-08 02:00:00 | uttoxeter |      7 |       13 | Wolfspear        |   3.7  | overthrow,milkman    |
-|  6 | :boom:            | 2021-12-08 02:00:00 | uttoxeter |      7 |        4 | Cousu Main       |   2.4  | overthrow            |
-|  7 | --                | 2021-12-08 01:50:00 | fontwell  |      6 |        2 | Get The Appeal   |   3.9  | overthrow            |
-|  8 | 4.0               | 2021-12-08 01:20:00 | fontwell  |      5 |        1 | Terresita        |   9.5  | milkman              |
-|  9 | :boom:            | 2021-12-08 01:15:00 | vaal      |      9 |        5 | Right Choice     |   0    | vulture              |
-| 10 | --                | 2021-12-08 01:00:00 | uttoxeter |      5 |        5 | Captain Moirette |  15    | overthrow            |
-| 11 | --                | 2021-12-08 00:30:00 | uttoxeter |      4 |        4 | Sail Away        |   5    | overthrow            |
-| 12 | --                | 2021-12-08 00:30:00 | uttoxeter |      4 |        8 | Fantastic Lady   |  26    | overthrow            |
-| 13 | --                | 2021-12-08 00:15:00 | vaal      |      7 |        4 | Flame Flower     |   0    | milkman              |
-| 14 | :boom:            | 2021-12-08 00:00:00 | uttoxeter |      3 |        4 | Dorisa Queen     |   3    | overthrow            |
-| 15 | --                | 2021-12-07 23:50:00 | fontwell  |      2 |        1 | Galileo Silver   |   2.8  | overthrow            |
-| 16 | :boom:            | 2021-12-07 23:20:00 | fontwell  |      1 |        5 | Kotmask          |   7    | looseknot            |
-| 17 | --                | 2021-12-07 23:05:00 | vaal      |      5 |        5 | No Time Is Taken |   0    | vulture,milkman      |
-| 18 | 4.0               | 2021-12-07 23:00:00 | uttoxeter |      1 |       10 | Tigerbythetail   |   3.3  | overthrow            |
-| 19 | :3rd_place_medal: | 2021-12-07 23:00:00 | uttoxeter |      1 |        1 | Blairgowrie      |   3.9  | overthrow            |
-| 20 | :boom:            | 2021-12-07 23:00:00 | uttoxeter |      1 |        5 | Get A Tonic      |   2.8  | overthrow            |
-| 21 | :2nd_place_medal: | 2021-12-07 21:20:00 | vaal      |      2 |        1 | General Hancock  |   0    | vulture              |
-| 22 | 4.0               | 2021-12-07 16:42:00 | cairns    |      3 |        1 | Tycoon Thunder   |   7    | looseknot            |
-| 23 | 5.0               | 2021-12-07 16:42:00 | cairns    |      3 |        4 | Silent Explorer  |   5    | evenodds,blackshadow |
-| 24 | :boom:            | 2021-12-07 16:05:00 | cairns    |      2 |        1 | Magnate          |   2.6  | moechilli            |
-| 25 | 106.0             | 2021-12-07 16:05:00 | cairns    |      2 |        4 | Nanna Knuckey    |   1.67 | evenodds,overthrow   |
-| 26 | :2nd_place_medal: | 2021-12-07 15:27:00 | cairns    |      1 |        4 | Own Sweet Way    |   4.75 | pangea               |
+|    | finish   | time                | track            |   race |   number | name              |   odds | tipster              |
+|---:|:---------|:--------------------|:-----------------|-------:|---------:|:------------------|-------:|:---------------------|
+|  0 | :soon:   | 2021-12-09 06:00:00 | kempton          |      7 |        2 | Bellosa           |   0    | milkman              |
+|  1 | :soon:   | 2021-12-09 03:00:00 | kempton          |      1 |        1 | Belacqua          |   0    | milkman              |
+|  2 | :soon:   | 2021-12-09 01:50:00 | happy-valley     |      9 |        6 | Savaquin          |   0    | jmac                 |
+|  3 | :soon:   | 2021-12-09 00:10:00 | wolverhampton    |      3 |        4 | Resumption        |   0    | vulture              |
+|  4 | :soon:   | 2021-12-09 00:10:00 | wolverhampton    |      3 |        2 | Famous Star       |   0    | vulture              |
+|  5 | :soon:   | 2021-12-09 00:00:00 | lingfield        |      2 |        5 | Corey's Courage   |   0    | overthrow            |
+|  6 | :soon:   | 2021-12-09 00:00:00 | lingfield        |      2 |        2 | Lilly Pedlar      |   0    | overthrow            |
+|  7 | :soon:   | 2021-12-08 23:30:00 | lingfield        |      1 |        3 | Swapped           |   0    | overthrow            |
+|  8 | :soon:   | 2021-12-08 23:20:00 | hexham           |      1 |        3 | Lady Bowes        |   0    | overthrow            |
+|  9 | :soon:   | 2021-12-08 23:10:00 | wolverhampton    |      1 |        9 | Seagulls Nest     |   0    | vulture              |
+| 10 | :soon:   | 2021-12-08 22:05:00 | scottsville      |      2 |        7 | Dronfield         |   0    | vulture              |
+| 11 | :soon:   | 2021-12-08 20:30:00 | launceston       |      6 |        5 | Azara             |   2.5  | pangea,icyhot        |
+| 12 | :soon:   | 2021-12-08 20:30:00 | launceston       |      6 |        6 | Our Shinkansen    |   3.2  | evenodds,blackshadow |
+| 13 | :soon:   | 2021-12-08 18:50:00 | ipswich          |      9 |        4 | Joy Too All       |   1.45 | overthrow            |
+| 14 | :soon:   | 2021-12-08 18:50:00 | ipswich          |      9 |        1 | For My Annie      |   7    | pangea               |
+| 15 | :soon:   | 2021-12-08 18:10:00 | ipswich          |      8 |        1 | Maxcalemma        |   3.7  | overthrow            |
+| 16 | :soon:   | 2021-12-08 18:10:00 | ipswich          |      8 |        5 | The Tyler         |   5.5  | overthrow            |
+| 17 | :soon:   | 2021-12-08 17:33:00 | ipswich          |      7 |        2 | Harlequin Field   |   3    | vulture              |
+| 18 | :soon:   | 2021-12-08 17:33:00 | ipswich          |      7 |        1 | Smart Star Prince |   3    | benny,blackshadow    |
+| 19 | :soon:   | 2021-12-08 17:15:00 | warwick-farm     |      6 |        8 | Too Much Lippy    |   8.5  | vulture              |
+| 20 | :soon:   | 2021-12-08 16:50:00 | sandown-hillside |      3 |       11 | Jayeffthunder     |   6.5  | looseknot            |
+| 21 | :soon:   | 2021-12-08 16:40:00 | warwick-farm     |      5 |        3 | Black Queen       |   3.5  | wallbow              |
+| 22 | :soon:   | 2021-12-08 16:30:00 | balaklava        |      6 |        7 | Harbouring        |   3.6  | pangea               |
+| 23 | :soon:   | 2021-12-08 16:23:00 | ipswich          |      5 |        8 | Black Monaco      |   4.8  | evenodds,overthrow   |
+| 24 | :soon:   | 2021-12-08 16:09:00 | ascot            |      6 |       10 | Star Of Rosie     |   3.4  | vulture,milkman      |
+| 25 | :soon:   | 2021-12-08 16:05:00 | warwick-farm     |      4 |        5 | Niffler           |   2.25 | milkman,wallbow      |
+| 26 | :soon:   | 2021-12-08 15:48:00 | ipswich          |      4 |        3 | Demurral          |   2.45 | evenodds,overthrow   |
+| 27 | :soon:   | 2021-12-08 15:34:00 | ascot            |      5 |        6 | Hot Blooded       |   9    | evenodds,overthrow   |
+| 28 | :soon:   | 2021-12-08 15:30:00 | warwick-farm     |      3 |        6 | Otyrar            |   6    | wallbow              |
