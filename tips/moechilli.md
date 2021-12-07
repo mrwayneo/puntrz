@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-12-07 16:00:35 +1000  
+date: 2021-12-07 16:12:36 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 16:05             | 2021-12-07 | cairns R2              | 1 Magnate            |   2.4  |    -10   |
+| 0                 | 2021-12-07 | cairns R2              | 1 Magnate            |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-04 | darwin R4              | 4 Fromthenevernever  |   2.5  |    -10   |
 | 8                 | 2021-11-27 | morphettville R3       | 6 Lucy Diamonds      |   8.5  |    -10   |
 | 99                | 2021-11-25 | dundalk R3             | 11 Mullacash Buzz    |   0    |    -10   |
