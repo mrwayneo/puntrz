@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-07 16:31:11 +1000  
+date: 2021-12-07 16:45:40 +1000  
 ---   
 
 
@@ -87,8 +87,8 @@ date: 2021-12-07 16:31:11 +1000
 | 19 | :soon:            | 2021-12-07 23:00:00 | uttoxeter |      1 |        1 | Blairgowrie      |   3.8  | overthrow            |
 | 20 | :soon:            | 2021-12-07 23:00:00 | uttoxeter |      1 |        5 | Get A Tonic      |   2.8  | overthrow            |
 | 21 | :soon:            | 2021-12-07 21:20:00 | vaal      |      2 |        1 | General Hancock  |   0    | vulture              |
-| 22 | :soon:            | 2021-12-07 16:42:00 | cairns    |      3 |        1 | Tycoon Thunder   |   4.8  | looseknot            |
-| 23 | :soon:            | 2021-12-07 16:42:00 | cairns    |      3 |        4 | Silent Explorer  |   4.5  | evenodds,blackshadow |
+| 22 | --                | 2021-12-07 16:42:00 | cairns    |      3 |        1 | Tycoon Thunder   |   4.8  | looseknot            |
+| 23 | --                | 2021-12-07 16:42:00 | cairns    |      3 |        4 | Silent Explorer  |   4.5  | evenodds,blackshadow |
 | 24 | :boom:            | 2021-12-07 16:05:00 | cairns    |      2 |        1 | Magnate          |   2.4  | moechilli            |
 | 25 | --                | 2021-12-07 16:05:00 | cairns    |      2 |        4 | Nanna Knuckey    |   1.65 | evenodds,overthrow   |
 | 26 | :2nd_place_medal: | 2021-12-07 15:27:00 | cairns    |      1 |        4 | Own Sweet Way    |   4.75 | pangea               |
