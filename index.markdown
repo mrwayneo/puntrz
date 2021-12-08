@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-08 20:29:51 +1000  
+date: 2021-12-08 20:34:44 +1000  
 ---   
 
 
@@ -92,8 +92,8 @@ date: 2021-12-08 20:29:51 +1000
 |  8 | :soon:            | 2021-12-08 23:20:00 | hexham           |      1 |        3 | Lady Bowes        |   0    | overthrow            |
 |  9 | :soon:            | 2021-12-08 23:10:00 | wolverhampton    |      1 |        9 | Seagulls Nest     |   0    | vulture              |
 | 10 | :soon:            | 2021-12-08 22:05:00 | scottsville      |      2 |        7 | Dronfield         |   0    | vulture              |
-| 11 | :soon:            | 2021-12-08 20:30:00 | launceston       |      6 |        5 | Azara             |   2.5  | pangea,icyhot        |
-| 12 | :soon:            | 2021-12-08 20:30:00 | launceston       |      6 |        6 | Our Shinkansen    |   3.2  | evenodds,blackshadow |
+| 11 | --                | 2021-12-08 20:30:00 | launceston       |      6 |        5 | Azara             |   2.5  | pangea,icyhot        |
+| 12 | --                | 2021-12-08 20:30:00 | launceston       |      6 |        6 | Our Shinkansen    |   3.2  | evenodds,blackshadow |
 | 13 | --                | 2021-12-08 18:50:00 | ipswich          |      9 |        4 | Joy Too All       |   1.45 | overthrow            |
 | 14 | --                | 2021-12-08 18:50:00 | ipswich          |      9 |        1 | For My Annie      |   7    | pangea               |
 | 15 | --                | 2021-12-08 18:10:00 | ipswich          |      8 |        1 | Maxcalemma        |   3.7  | overthrow            |
