@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-08 17:29:52 +1000  
+date: 2021-12-08 17:45:01 +1000  
 ---   
 
 
@@ -96,8 +96,8 @@ date: 2021-12-08 17:29:52 +1000
 | 14 | :soon:            | 2021-12-08 18:50:00 | ipswich          |      9 |        1 | For My Annie      |   7    | pangea               |
 | 15 | :soon:            | 2021-12-08 18:10:00 | ipswich          |      8 |        1 | Maxcalemma        |   3.7  | overthrow            |
 | 16 | :soon:            | 2021-12-08 18:10:00 | ipswich          |      8 |        5 | The Tyler         |   5.5  | overthrow            |
-| 17 | :soon:            | 2021-12-08 17:33:00 | ipswich          |      7 |        2 | Harlequin Field   |   3    | vulture              |
-| 18 | :soon:            | 2021-12-08 17:33:00 | ipswich          |      7 |        1 | Smart Star Prince |   3    | benny,blackshadow    |
+| 17 | --                | 2021-12-08 17:33:00 | ipswich          |      7 |        2 | Harlequin Field   |   3    | vulture              |
+| 18 | --                | 2021-12-08 17:33:00 | ipswich          |      7 |        1 | Smart Star Prince |   3    | benny,blackshadow    |
 | 19 | :boom:            | 2021-12-08 17:15:00 | warwick-farm     |      6 |        8 | Too Much Lippy    |   8.5  | vulture              |
 | 20 | 14.0              | 2021-12-08 16:50:00 | sandown-hillside |      3 |       11 | Jayeffthunder     |   6.5  | looseknot            |
 | 21 | :boom:            | 2021-12-08 16:40:00 | warwick-farm     |      5 |        3 | Black Queen       |   3.5  | wallbow              |
