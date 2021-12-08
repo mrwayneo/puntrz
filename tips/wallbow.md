@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2021-12-08 15:29:34 +1000  
+date: 2021-12-08 15:44:36 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
 | 16:40             | 2021-12-08 | warwick-farm R5   | 3 Black Queen      |  3.5  |      -10 |
 | 16:05             | 2021-12-08 | warwick-farm R4   | 5 Niffler          |  2.25 |      -10 |
-| 15:30             | 2021-12-08 | warwick-farm R3   | 6 Otyrar           |  6    |      -10 |
+| :2nd_place_medal: | 2021-12-08 | warwick-farm R3   | 6 Otyrar           |  6    |      -10 |
 | 4                 | 2021-12-04 | rosehill R6       | 7 Karlstad         |  3.9  |      -10 |
 | :2nd_place_medal: | 2021-12-04 | rosehill R3       | 7 Sacrimony        |  8    |      -10 |
 | 6                 | 2021-11-20 | kembla-grange R10 | 6 Zegalo           |  8.5  |      -10 |
