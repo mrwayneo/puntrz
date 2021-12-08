@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-09 05:42:28 +1000  
+date: 2021-12-09 06:05:56 +1000  
 ---   
 
 
@@ -14,6 +14,7 @@ date: 2021-12-09 05:42:28 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      4 |    633   | 0.2  |  3.16 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    532   | 1    |  2.66 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      7 |    275.5 | 0.35 |  1.38 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      3 |    122   | 0.15 |  0.61 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      6 |    103   | 0.3  |  0.52 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     14 |     68.5 | 0.7  |  0.34 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      7 |     59   | 0.35 |  0.3  |
@@ -27,7 +28,6 @@ date: 2021-12-09 05:42:28 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      3 |    -49   | 0.15 | -0.24 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      3 |    -67   | 0.15 | -0.34 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |    -88   | 0.1  | -0.44 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |   -118   | 0.15 | -0.59 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
@@ -56,12 +56,12 @@ date: 2021-12-09 05:42:28 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1091 |    267 |  -1581.5 | 0.24 | -0.14 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2452 |    132 |  -2382   | 0.05 | -0.1  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2867 |    705 |  -3228.6 | 0.25 | -0.11 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5925 |    890 |  -8111   | 0.15 | -0.14 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5925 |    891 |  -7901   | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7538 |    421 | -13395   | 0.06 | -0.18 |
 
 |    | finish            | time                | track            |   race |   number | name              |   odds | tipster              |
 |---:|:------------------|:--------------------|:-----------------|-------:|---------:|:------------------|-------:|:---------------------|
-|  0 | :soon:            | 2021-12-09 06:00:00 | kempton          |      7 |        2 | Bellosa           |   0    | milkman              |
+|  0 | :2nd_place_medal: | 2021-12-09 06:00:00 | kempton          |      7 |        2 | Bellosa           |   0    | milkman              |
 |  1 | :2nd_place_medal: | 2021-12-09 03:00:00 | kempton          |      1 |        1 | Belacqua          |   0    | milkman              |
 |  2 | --                | 2021-12-09 01:50:00 | happy-valley     |      9 |        6 | Savaquin          |   0    | jmac                 |
 |  3 | 4.0               | 2021-12-09 00:10:00 | wolverhampton    |      3 |        4 | Resumption        |   0    | vulture              |
