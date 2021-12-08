@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-08 14:06:11 +1000  
+date: 2021-12-08 14:18:03 +1000  
 ---   
 
 
@@ -13,6 +13,7 @@ date: 2021-12-08 14:06:11 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      3 |      0 |      -30 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
@@ -35,6 +36,7 @@ date: 2021-12-08 14:06:11 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      5 |     79   | 0.25 |  0.4  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      7 |     59   | 0.35 |  0.3  |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      7 |     49   | 0.35 |  0.24 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      9 |     15   | 0.45 |  0.08 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |    -25   | 0.4  | -0.12 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      4 |    -37   | 0.2  | -0.18 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |    -38   | 0.15 | -0.19 |
@@ -42,15 +44,16 @@ date: 2021-12-08 14:06:11 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      3 |    -67   | 0.15 | -0.34 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      2 |   -139   | 0.1  | -0.7  |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     61 |     61 |   1539.5 | 1    |  2.52 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |     87 |     55 |   1447.8 | 0.63 |  1.66 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    270 |     77 |    375.5 | 0.29 |  0.14 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     38 |     10 |    191.5 | 0.26 |  0.5  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    318 |     91 |    158.4 | 0.29 |  0.05 |
@@ -75,7 +78,7 @@ date: 2021-12-08 14:06:11 +1000
 |  2 | :soon:   | 2021-12-09 01:50:00 | happy-valley     |      9 |        6 | Savaquin          |   0    | jmac                 |
 |  3 | :soon:   | 2021-12-09 00:10:00 | wolverhampton    |      3 |        4 | Resumption        |   0    | vulture              |
 |  4 | :soon:   | 2021-12-09 00:10:00 | wolverhampton    |      3 |        2 | Famous Star       |   0    | vulture              |
-|  5 | :soon:   | 2021-12-09 00:00:00 | lingfield        |      2 |        5 | Corey's Courage   |   0    | overthrow            |
+|  5 | :soon:   | 2021-12-09 00:00:00 | lingfield        |      2 |        5 | Corey's Courage   |   0    | overthrow,lago       |
 |  6 | :soon:   | 2021-12-09 00:00:00 | lingfield        |      2 |        2 | Lilly Pedlar      |   0    | overthrow            |
 |  7 | :soon:   | 2021-12-08 23:30:00 | lingfield        |      1 |        3 | Swapped           |   0    | overthrow            |
 |  8 | :soon:   | 2021-12-08 23:20:00 | hexham           |      1 |        3 | Lady Bowes        |   0    | overthrow            |
