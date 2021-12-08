@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-08 16:44:45 +1000  
+date: 2021-12-08 16:59:47 +1000  
 ---   
 
 
@@ -9,6 +9,7 @@ date: 2021-12-08 16:44:45 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      3 |      2 |       15 | 0.67 |  0.5  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      1 |      0 |      -10 | 0    | -1    |
@@ -16,7 +17,6 @@ date: 2021-12-08 16:44:45 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      1 |      -12 | 0.33 | -0.4  |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      3 |      1 |      -13 | 0.33 | -0.43 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      1 |      -23 | 0.25 | -0.57 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     25 |      1 |      -40 | 0.04 | -0.16 |
@@ -96,8 +96,8 @@ date: 2021-12-08 16:44:45 +1000
 | 17 | :soon:            | 2021-12-08 17:33:00 | ipswich          |      7 |        2 | Harlequin Field   |   3    | vulture              |
 | 18 | :soon:            | 2021-12-08 17:33:00 | ipswich          |      7 |        1 | Smart Star Prince |   3    | benny,blackshadow    |
 | 19 | :soon:            | 2021-12-08 17:15:00 | warwick-farm     |      6 |        8 | Too Much Lippy    |   8.5  | vulture              |
-| 20 | :soon:            | 2021-12-08 16:50:00 | sandown-hillside |      3 |       11 | Jayeffthunder     |   6.5  | looseknot            |
-| 21 | --                | 2021-12-08 16:40:00 | warwick-farm     |      5 |        3 | Black Queen       |   3.5  | wallbow              |
+| 20 | --                | 2021-12-08 16:50:00 | sandown-hillside |      3 |       11 | Jayeffthunder     |   6.5  | looseknot            |
+| 21 | :boom:            | 2021-12-08 16:40:00 | warwick-farm     |      5 |        3 | Black Queen       |   3.5  | wallbow              |
 | 22 | :2nd_place_medal: | 2021-12-08 16:30:00 | balaklava        |      6 |        7 | Harbouring        |   3.6  | pangea               |
 | 23 | --                | 2021-12-08 16:23:00 | ipswich          |      5 |        8 | Black Monaco      |   4.8  | evenodds,overthrow   |
 | 24 | --                | 2021-12-08 16:09:00 | ascot            |      6 |       10 | Star Of Rosie     |   3.4  | vulture,milkman      |
