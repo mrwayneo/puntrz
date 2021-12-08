@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-08 17:59:49 +1000  
+date: 2021-12-08 18:15:04 +1000  
 ---   
 
 
@@ -51,12 +51,14 @@ date: 2021-12-08 17:59:49 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |    113 |     27 |   3825   | 0.24 |  3.38 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |    128 |     26 |   2673.5 | 0.2  |  2.09 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     61 |     61 |   1539.5 | 1    |  2.52 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     87 |     55 |   1447.8 | 0.63 |  1.66 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    270 |     77 |    375.5 | 0.29 |  0.14 |
@@ -94,8 +96,8 @@ date: 2021-12-08 17:59:49 +1000
 | 12 | :soon:            | 2021-12-08 20:30:00 | launceston       |      6 |        6 | Our Shinkansen    |   3.2  | evenodds,blackshadow |
 | 13 | :soon:            | 2021-12-08 18:50:00 | ipswich          |      9 |        4 | Joy Too All       |   1.45 | overthrow            |
 | 14 | :soon:            | 2021-12-08 18:50:00 | ipswich          |      9 |        1 | For My Annie      |   7    | pangea               |
-| 15 | :soon:            | 2021-12-08 18:10:00 | ipswich          |      8 |        1 | Maxcalemma        |   3.7  | overthrow            |
-| 16 | :soon:            | 2021-12-08 18:10:00 | ipswich          |      8 |        5 | The Tyler         |   5.5  | overthrow            |
+| 15 | --                | 2021-12-08 18:10:00 | ipswich          |      8 |        1 | Maxcalemma        |   3.7  | overthrow            |
+| 16 | --                | 2021-12-08 18:10:00 | ipswich          |      8 |        5 | The Tyler         |   5.5  | overthrow            |
 | 17 | --                | 2021-12-08 17:33:00 | ipswich          |      7 |        2 | Harlequin Field   |   3    | vulture              |
 | 18 | --                | 2021-12-08 17:33:00 | ipswich          |      7 |        1 | Smart Star Prince |   3    | benny,blackshadow    |
 | 19 | :boom:            | 2021-12-08 17:15:00 | warwick-farm     |      6 |        8 | Too Much Lippy    |   8.5  | vulture              |
