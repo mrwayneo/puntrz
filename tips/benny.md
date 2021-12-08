@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-12-09 06:54:54 +1000  
+date: 2021-12-09 07:11:52 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 19:15             | 2021-12-09 | geraldton R6                  | 1 Three Sessions      |  1.91 |    -10   |
+| 16:30             | 2021-12-09 | warrnambool R7                | 5 Miss Cavendish      | 13    |    -10   |
 | 0                 | 2021-12-08 | ipswich R7                    | 1 Smart Star Prince   |  0    |    -10   |
 | :boom:            | 2021-12-05 | spendthrift-australia-park R7 | 6 Starcaster          |  3.4  |     24   |
 | :2nd_place_medal: | 2021-12-05 | kenilworth R8                 | 1 Rio Querari         |  0    |    -10   |
@@ -31,8 +33,8 @@ categories: None
 | 8                 | 2021-12-01 | launceston R7                 | 2 Judge Burns         |  8    |    -10   |
 | :boom:            | 2021-12-01 | launceston R6                 | 4 Weldborough         |  7.7  |     67   |
 | :boom:            | 2021-11-27 | alice-springs R2              | 4 Valenciano          |  6.5  |     55   |
-| :2nd_place_medal: | 2021-11-27 | caulfield R7                  | 6 Dr Drill            | 19    |    -10   |
 | :3rd_place_medal: | 2021-11-27 | caulfield R7                  | 4 Wentwood            | 26    |    -10   |
+| :2nd_place_medal: | 2021-11-27 | caulfield R7                  | 6 Dr Drill            | 19    |    -10   |
 | :boom:            | 2021-11-27 | ascot R1                      | 1 The Front Bar       |  2.2  |     12   |
 | 99                | 2021-11-25 | kempton R6                    | 10 Lady Rockstar      |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-23 | cairns R4                     | 1 Verbalizer          |  2.3  |    -10   |
@@ -215,8 +217,8 @@ categories: None
 | :boom:            | 2021-08-29 | ballarat R4                   | 1 Saunter Boy         |  2.5  |     15   |
 | 6                 | 2021-08-28 | toowoomba R1                  | 4 Nick the Skip       |  5.5  |    -10   |
 | :3rd_place_medal: | 2021-08-28 | darwin R4                     | 2 Sebrakate           | 15    |    -10   |
-| 9                 | 2021-08-28 | darwin R3                     | 3 Kaptan Apollo       | 26    |    -10   |
 | :boom:            | 2021-08-28 | darwin R3                     | 4 Patriot Day         | 10.5  |     95   |
+| 9                 | 2021-08-28 | darwin R3                     | 3 Kaptan Apollo       | 26    |    -10   |
 | 11                | 2021-08-28 | cairns R6                     | 3 Hidden in Heaven    | 34    |    -10   |
 | 7                 | 2021-08-28 | cairns R6                     | 8 Bold Type           |  4.2  |    -10   |
 | 5                 | 2021-08-28 | caulfield R6                  | 10 Diamonds Inthe Sky | 21    |    -10   |
@@ -375,8 +377,8 @@ categories: None
 | :boom:            | 2021-05-29 | darwin R1                     | 7 The Auditor         | 12.5  |    115   |
 | :boom:            | 2021-05-29 | belmont R2                    | 6 Graceful Girl       |  2.6  |     16   |
 | 7                 | 2021-05-29 | eagle-farm R5                 | 2 Le Don De Vie       |  3.6  |    -10   |
-| 11                | 2021-05-29 | eagle-farm R3                 | 10 Not an Option      | 26    |    -10   |
 | :2nd_place_medal: | 2021-05-29 | eagle-farm R3                 | 9 Ayrton              |  1.6  |    -10   |
+| 11                | 2021-05-29 | eagle-farm R3                 | 10 Not an Option      | 26    |    -10   |
 | 8                 | 2021-05-29 | eagle-farm R2                 | 14 Beachbreak         | 11    |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R7             | 5 Queen Dazzler       |  3.4  |    -10   |
 | :boom:            | 2021-05-27 | northam R9                    | 9 Conquered Zone      |  5.8  |     48   |
@@ -414,8 +416,8 @@ categories: None
 | 10                | 2021-05-08 | newcastle R7                  | 5 Favra               |  8    |    -10   |
 | :2nd_place_medal: | 2021-05-08 | ascot R2                      | 2 Born To Try         |  2.25 |    -10   |
 | 4                 | 2021-05-08 | gosford R6                    | 1 Signore Fox         |  6    |    -10   |
-| 8                 | 2021-05-08 | morphettville R4              | 9 Calypso Reign       |  7    |    -10   |
 | 6                 | 2021-05-08 | morphettville R4              | 8 Secret Vega         | 23    |    -10   |
+| 8                 | 2021-05-08 | morphettville R4              | 9 Calypso Reign       |  7    |    -10   |
 | 4                 | 2021-05-08 | gosford R4                    | 6 Blesk               |  5    |    -10   |
 | 8                 | 2021-05-08 | gold-coast R4                 | 5 Capital Connection  | 21    |    -10   |
 | :boom:            | 2021-05-07 | albany R2                     | 7 Kazkazi             |  3.5  |     25   |
