@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2021-12-08 19:15:53 +1000  
+date: 2021-12-08 19:27:33 +1000  
 categories: None 
 ---   
 
@@ -10,7 +10,7 @@ categories: None
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 28 Days   |      5 |      3 |     17   | 0.6  |  0.34 |
 | Last 6 Months  |     32 |     24 |    125.2 | 0.75 |  0.39 |
-| Since Jan 2020 |     35 |     25 |    114.2 | 0.71 |  0.33 |
+| Since Jan 2020 |     48 |     30 |     83.2 | 0.62 |  0.17 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
@@ -50,3 +50,16 @@ categories: None
 | :boom:            | 2021-05-17 | ballarat-synthetic R5  | 3 Namakwa            |  1.9  |      9   |
 | :2nd_place_medal: | 2021-05-16 | casterton R1           | 4 Holburt            |  1.9  |    -10   |
 | :2nd_place_medal: | 2021-05-15 | tuncurry R3            | 2 Oakfield Prince    |  1.9  |    -10   |
+| :boom:            | 2021-04-27 | goulburn R5            | 6 Wholesome Delight  |  2.5  |     15   |
+| :3rd_place_medal: | 2021-04-25 | devonport-synthetic R5 | 4 So Astounding      |  1.9  |    -10   |
+| :2nd_place_medal: | 2021-04-23 | canberra R8            | 2 Shenandoah         |  1.9  |    -10   |
+| :boom:            | 2021-04-23 | canberra R5            | 5 Himiko             |  1.7  |      7   |
+| 5                 | 2021-04-21 | bendigo R1             | 7 Wyld Savanna       |  1.9  |    -10   |
+| :boom:            | 2021-04-17 | caulfield R1           | 2 Mahamedeis         |  1.8  |      8   |
+| :3rd_place_medal: | 2021-04-12 | windsor R3             | 2 Pleasant Man       |  1.9  |    -10   |
+| :boom:            | 2021-04-12 | mildura R8             | 2 Liam's The Boss    |  1.9  |      9   |
+| 4                 | 2021-04-11 | port-augusta R4        | 1 Budget King        |  1.9  |    -10   |
+| 6                 | 2021-03-06 | morphettville-parks R4 | 6 Night Passage      |  1.9  |    -10   |
+| :boom:            | 2021-03-06 | fairyhouse R1          | 14 Rambranlt'jac     |  2    |     10   |
+| 4                 | 2021-01-14 | eagle-farm R4          | 1 Ruddock            |  1.9  |    -10   |
+| 99                | 2021-01-03 | greyville R1           | 2 Crimson Causeway   |  1.9  |    -10   |

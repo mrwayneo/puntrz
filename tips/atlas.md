@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Atlas"   
-date: 2021-12-08 19:15:53 +1000  
+date: 2021-12-08 19:27:33 +1000  
 categories: None 
 ---   
 
@@ -10,7 +10,7 @@ categories: None
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 28 Days   |      1 |      1 |     12   |    1 |  1.2  |
 | Last 6 Months  |     61 |     61 |   1539.5 |    1 |  2.52 |
-| Since Jan 2020 |     63 |     63 |   1563   |    1 |  2.48 |
+| Since Jan 2020 |     75 |     75 |   1739.1 |    1 |  2.32 |
 
 | finish   | date       | event                  | runner               |   win |   return |
 |:---------|:-----------|:-----------------------|:---------------------|------:|---------:|
@@ -77,3 +77,15 @@ categories: None
 | :boom:   | 2021-06-09 | canterbury R2          | 2 Ibaraki            |  1.5  |      5   |
 | :boom:   | 2021-05-15 | pukekura-raceway R3    | 3 Cross Talk         |  2.15 |     11.5 |
 | :boom:   | 2021-05-08 | newcastle R1           | 9 Sinba              |  2.2  |     12   |
+| :boom:   | 2021-04-09 | leicester R1           | 3 Gubbass            |  3.1  |     21   |
+| :boom:   | 2021-02-12 | fairview R1            | 3 Norton Sound       |  2    |     10   |
+| :boom:   | 2021-01-17 | warwick R7             | 4 Gold Bullion       |  2    |     10   |
+| :boom:   | 2021-01-16 | turffontein R1         | 2 Dockofthebay       |  1.65 |      6.5 |
+| :boom:   | 2021-01-16 | warwick R1             | 2 Legal Esprit       |  3.8  |     28   |
+| :boom:   | 2021-01-16 | rosehill R1            | 7 Remarque           |  1.4  |      4   |
+| :boom:   | 2021-01-14 | naas R7                | 8 Belle Metal        |  3.25 |     22.5 |
+| :boom:   | 2021-01-13 | wetherby R7            | 5 Tweed Skirt        |  1.8  |      8   |
+| :boom:   | 2021-01-13 | lingfield R2           | 5 The Hulk           |  3.05 |     20.5 |
+| :boom:   | 2021-01-12 | doncaster R7           | 13 Wiseguy           |  1.91 |      9.1 |
+| :boom:   | 2021-01-07 | geelong R1             | 5 Jigsaw             |  2.4  |     14   |
+| :boom:   | 2021-01-05 | lingfield R5           | 4 Tamborrada         |  3.25 |     22.5 |

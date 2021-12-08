@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2021-12-08 19:15:53 +1000  
+date: 2021-12-08 19:27:33 +1000  
 categories: None 
 ---   
 
@@ -11,7 +11,7 @@ categories: None
 | Last 7 Days    |      3 |      0 |      -30 | 0    | -1    |
 | Last 28 Days   |      8 |      2 |      161 | 0.25 |  2.01 |
 | Last 6 Months  |    117 |     28 |     3895 | 0.24 |  3.33 |
-| Since Jan 2020 |    138 |     39 |     5329 | 0.28 |  3.86 |
+| Since Jan 2020 |    191 |     39 |     4799 | 0.2  |  2.51 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
@@ -129,8 +129,8 @@ categories: None
 | 99                | 2021-06-12 | fairyhouse R3          | 14 Swiss Ace          |  26   |      -10 |
 | :boom:            | 2021-06-11 | swan-hill R3           | 4 Air Defence         |  10.2 |       92 |
 | 99                | 2021-06-10 | pukekura-raceway R2    | 9 Mandalay            |  51   |      -10 |
-| 4                 | 2021-06-06 | devonport-synthetic R9 | 6 Odin's Folly        |  14   |      -10 |
 | :boom:            | 2021-06-06 | devonport-synthetic R9 | 5 Elisavet            |  11   |      100 |
+| 4                 | 2021-06-06 | devonport-synthetic R9 | 6 Odin's Folly        |  14   |      -10 |
 | 9                 | 2021-06-06 | pinjarra R2            | 3 Halatorion          |  31   |      -10 |
 | 11                | 2021-06-05 | flemington R3          | 14 Just Folk          |  17   |      -10 |
 | 7                 | 2021-05-29 | randwick R6            | 10 Wayupinthesky      |  21   |      -10 |
@@ -154,3 +154,56 @@ categories: None
 | 8                 | 2021-05-02 | hobart R9              | 5 Tee Jay Frankie     |  11   |      -10 |
 | :boom:            | 2021-05-01 | morphettville R2       | 10 Ace of Clubs       |  16.5 |      155 |
 | 6                 | 2021-05-01 | eagle-farm R1          | 5 Great Powers        |  23.5 |      -10 |
+| 5                 | 2021-04-29 | rockhampton R8         | 11 Ordell             |  14   |      -10 |
+| 4                 | 2021-04-28 | balaklava R7           | 3 Dawn Salute         |  10   |      -10 |
+| 10                | 2021-04-26 | albury R6              | 9 Crocodile Cod       |  63   |      -10 |
+| 5                 | 2021-04-25 | kalgoorlie R5          | 6 Dalgaranga          |  12   |      -10 |
+| 9                 | 2021-04-25 | flemington R7          | 6 Haky                |  61   |      -10 |
+| :3rd_place_medal: | 2021-04-18 | hobart R5              | 3 Manilenya           |  11   |      -10 |
+| 10                | 2021-04-17 | morphettville R8       | 6 Octane              |  17   |      -10 |
+| 10                | 2021-04-17 | eagle-farm R9          | 1 Factory Warrior     |  21   |      -10 |
+| 9                 | 2021-04-17 | morphettville R3       | 6 Sizzlefly           |   9   |      -10 |
+| 99                | 2021-04-16 | ayr R4                 | 4 Bon Retour          |  27.5 |      -10 |
+| 8                 | 2021-04-14 | ascot R6               | 7 Scoreline           |  16.2 |      -10 |
+| 5                 | 2021-04-11 | pinjarra R7            | 7 Dancing Jack        |  15.2 |      -10 |
+| 4                 | 2021-04-10 | doomben R5             | 5 Hallowed Girl       |  11   |      -10 |
+| 7                 | 2021-04-10 | randwick R5            | 5 Hush Writer         |  11   |      -10 |
+| 6                 | 2021-04-06 | tamworth R6            | 7 The Bald Eagle      |  10   |      -10 |
+| 4                 | 2021-04-05 | sandown-hillside R3    | 7 Debbonaire Boy      |  13.2 |      -10 |
+| 5                 | 2021-04-04 | albany R3              | 4 Dancing Jack        |  20   |      -10 |
+| 5                 | 2021-04-04 | wimmera%40stawell R4   | 4 This Kid Rocks      |  26.5 |      -10 |
+| 7                 | 2021-04-03 | warracknabeal R6       | 3 Scriba              |  21   |      -10 |
+| 5                 | 2021-04-03 | caulfield R6           | 2 Lord Von Costa      |  63   |      -10 |
+| 11                | 2021-03-31 | warwick-farm R6        | 6 Invictus Prince     |  43   |      -10 |
+| 9                 | 2021-03-27 | morphettville R7       | 4 Shamino             |  18   |      -10 |
+| 5                 | 2021-03-27 | morphettville R6       | 16 Narrative Star     |  27   |      -10 |
+| 5                 | 2021-03-20 | morphettville-parks R5 | 6 Just Chipping Away  |  15   |      -10 |
+| 99                | 2021-03-20 | tauranga R7            | 5 Foogayzee           |   8.5 |      -10 |
+| 99                | 2021-03-18 | kempton R6             | 8 Tommy Rock          |  17   |      -10 |
+| 9                 | 2021-03-11 | bunbury R7             | 11 Orange Strudel     |  15   |      -10 |
+| 6                 | 2021-03-08 | morphettville R4       | 2 Terbium             |  10   |      -10 |
+| 9                 | 2021-03-06 | randwick R9            | 18 Selica             |  41   |      -10 |
+| 16                | 2021-03-06 | flemington R8          | 5 Warning             |  41   |      -10 |
+| 8                 | 2021-03-04 | albany R6              | 3 Dancing Jack        |  13.2 |      -10 |
+| 6                 | 2021-03-03 | sandown-lakeside R7    | 3 Masaff              |  11   |      -10 |
+| :3rd_place_medal: | 2021-03-03 | warwick-farm R7        | 10 Irish Angel        |  19.2 |      -10 |
+| :3rd_place_medal: | 2021-03-02 | grafton R1             | 9 Sweet William       |  26   |      -10 |
+| 8                 | 2021-02-27 | murray-bdge R5         | 1 Live And Free       |  23   |      -10 |
+| 6                 | 2021-02-27 | murray-bdge R2         | 5 Biarchi             |  16   |      -10 |
+| :2nd_place_medal: | 2021-02-26 | sale R5                | 6 So Able             |  12   |      -10 |
+| 99                | 2021-02-12 | turffontein R9         | 11 Zabarjad           |  26   |      -10 |
+| 7                 | 2021-02-04 | doomben R6             | 8 Quotant             |  26   |      -10 |
+| 4                 | 2021-02-04 | gosford R7             | 4 Eugenio             |  41   |      -10 |
+| 99                | 2021-02-02 | dundalk R3             | 6 Reddiac             |  16   |      -10 |
+| 4                 | 2021-01-27 | launceston R7          | 7 Sanction King       |   9.1 |      -10 |
+| 5                 | 2021-01-26 | murray-bdge R6         | 5 Elcano              |  14   |      -10 |
+| 10                | 2021-01-23 | doomben R5             | 4 Dark Son            |  26.5 |      -10 |
+| 99                | 2021-01-23 | fairview R7            | 1 Purple Diamond      |  21   |      -10 |
+| 99                | 2021-01-22 | fairview R4            | 5 Still Tappin        |  21   |      -10 |
+| :2nd_place_medal: | 2021-01-16 | darwin R3              | 8 Recording to Win    |  11   |      -10 |
+| 5                 | 2021-01-15 | townsville R7          | 3 Balmaceda           |  13   |      -10 |
+| 99                | 2021-01-15 | bangor-on-dee R6       | 3 Dolly McQueen       |  29   |      -10 |
+| :2nd_place_medal: | 2021-01-15 | fontwell R2            | 5 Hasankey            |  11   |      -10 |
+| 6                 | 2021-01-09 | flemington R6          | 9 Mushaireb           |  18   |      -10 |
+| :3rd_place_medal: | 2021-01-09 | randwick R3            | 7 Macleay             |  10   |      -10 |
+| :2nd_place_medal: | 2021-01-06 | devonport-synthetic R1 | 4 Merciabelle         |  14   |      -10 |

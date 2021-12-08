@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-12-08 19:15:48 +1000  
+date: 2021-12-08 19:27:29 +1000  
 categories: None 
 ---   
 
@@ -18,13 +18,13 @@ categories: None
 | 20:30             | 2021-12-08 | launceston R6           | 5 Azara               |  2.5  |    -10   |
 | :boom:            | 2021-12-05 | kenilworth R8           | 4 Real Gone Kid       |  3.1  |     21   |
 | :2nd_place_medal: | 2021-12-04 | ascot R8                | 7 Western Empire      |  1.3  |    -10   |
-| :boom:            | 2021-12-04 | doomben R9              | 5 Zoustyle            |  1.6  |      6   |
 | 4                 | 2021-12-04 | doomben R9              | 3 Hard Empire         | 31    |    -10   |
+| :boom:            | 2021-12-04 | doomben R9              | 5 Zoustyle            |  1.6  |      6   |
 | :boom:            | 2021-12-04 | darwin R4               | 3 Bel's Banner        |  2.6  |     16   |
 | :boom:            | 2021-12-04 | gold-coast R7           | 1 Weona Smartone      |  1.2  |      2   |
 | 5                 | 2021-12-04 | doomben R7              | 3 The Harrovian       |  3.9  |    -10   |
-| :3rd_place_medal: | 2021-12-03 | devonport-synthetic R3  | 7 Red Letter Lady     |  2.5  |    -10   |
 | 6                 | 2021-12-03 | devonport-synthetic R3  | 8 Sirene Stryker      |  3.8  |    -10   |
+| :3rd_place_medal: | 2021-12-03 | devonport-synthetic R3  | 7 Red Letter Lady     |  2.5  |    -10   |
 | :3rd_place_medal: | 2021-11-30 | turffontein R6          | 5 Aragosta            |  6    |    -10   |
 | :3rd_place_medal: | 2021-11-27 | turffontein R6          | 5 Aragosta            |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-27 | morphettville R8        | 8 Rock The Ring       |  2.7  |    -10   |
@@ -47,8 +47,8 @@ categories: None
 | :2nd_place_medal: | 2021-11-13 | ascot R4                | 4 Ginger Flyer        |  4.2  |    -10   |
 | :3rd_place_medal: | 2021-11-13 | ascot R3                | 2 Son Of A God        | 26    |    -10   |
 | :boom:            | 2021-11-13 | doomben R6              | 6 Lyrical Girl        |  3.5  |     25   |
-| 5                 | 2021-11-13 | ascot R1                | 4 Nowhiteflag         |  1.95 |    -10   |
 | :boom:            | 2021-11-13 | ascot R1                | 6 Written Matter      |  5.1  |     41   |
+| 5                 | 2021-11-13 | ascot R1                | 4 Nowhiteflag         |  1.95 |    -10   |
 | :boom:            | 2021-11-13 | gold-coast R2           | 1 Sir Rocket          |  1.7  |      7   |
 | :boom:            | 2021-11-11 | turffontein R3          | 5 Sound Of Summer     |  2.1  |     11   |
 | 6                 | 2021-11-10 | murray-bdge R2          | 5 French Fields       |  2    |    -10   |
