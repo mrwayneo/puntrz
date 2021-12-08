@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-08 18:44:57 +1000  
+date: 2021-12-08 19:00:31 +1000  
 ---   
 
 
@@ -94,8 +94,8 @@ date: 2021-12-08 18:44:57 +1000
 | 10 | :soon:            | 2021-12-08 22:05:00 | scottsville      |      2 |        7 | Dronfield         |   0    | vulture              |
 | 11 | :soon:            | 2021-12-08 20:30:00 | launceston       |      6 |        5 | Azara             |   2.5  | pangea,icyhot        |
 | 12 | :soon:            | 2021-12-08 20:30:00 | launceston       |      6 |        6 | Our Shinkansen    |   3.2  | evenodds,blackshadow |
-| 13 | :soon:            | 2021-12-08 18:50:00 | ipswich          |      9 |        4 | Joy Too All       |   1.45 | overthrow            |
-| 14 | :soon:            | 2021-12-08 18:50:00 | ipswich          |      9 |        1 | For My Annie      |   7    | pangea               |
+| 13 | --                | 2021-12-08 18:50:00 | ipswich          |      9 |        4 | Joy Too All       |   1.45 | overthrow            |
+| 14 | --                | 2021-12-08 18:50:00 | ipswich          |      9 |        1 | For My Annie      |   7    | pangea               |
 | 15 | --                | 2021-12-08 18:10:00 | ipswich          |      8 |        1 | Maxcalemma        |   3.7  | overthrow            |
 | 16 | --                | 2021-12-08 18:10:00 | ipswich          |      8 |        5 | The Tyler         |   5.5  | overthrow            |
 | 17 | --                | 2021-12-08 17:33:00 | ipswich          |      7 |        2 | Harlequin Field   |   3    | vulture              |
