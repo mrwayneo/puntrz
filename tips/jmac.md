@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-08 22:09:41 +1000  
+date: 2021-12-09 05:42:25 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     10 |      4 |     65   | 0.4  |  0.65 |
-| Last 28 Days   |     31 |     10 |     24   | 0.32 |  0.08 |
-| Last 6 Months  |    275 |     78 |    409.5 | 0.28 |  0.15 |
-| Since Jan 2020 |    474 |    127 |    156.5 | 0.27 |  0.03 |
+| Last 7 Days    |      9 |      2 |     39   | 0.22 |  0.43 |
+| Last 28 Days   |     32 |     10 |     14   | 0.31 |  0.04 |
+| Last 6 Months  |    276 |     78 |    399.5 | 0.28 |  0.14 |
+| Since Jan 2020 |    475 |    127 |    146.5 | 0.27 |  0.03 |
 
 | finish            | date       | event             | runner               |   win |   return |
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
-| 01:50             | 2021-12-09 | happy-valley R9   | 6 Savaquin           |  0    |    -10   |
+| 0                 | 2021-12-09 | happy-valley R9   | 6 Savaquin           |  0    |    -10   |
 | :boom:            | 2021-12-04 | rosehill R10      | 10 El Buena          |  7.7  |     67   |
 | :2nd_place_medal: | 2021-12-04 | rosehill R9       | 3 Bigboyroy          |  4.4  |    -10   |
 | :2nd_place_medal: | 2021-12-04 | rosehill R8       | 1 Francesco Guardi   |  3.1  |    -10   |

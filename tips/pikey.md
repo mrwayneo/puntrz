@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-08 22:09:41 +1000  
+date: 2021-12-09 05:42:26 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |     16 |      1 |     -101 | 0.06 | -0.63 |
-| Last 28 Days   |     69 |     19 |     -107 | 0.28 | -0.16 |
+| Last 28 Days   |     65 |     18 |      -82 | 0.28 | -0.13 |
 | Last 6 Months  |    492 |    133 |     -751 | 0.27 | -0.15 |
 | Since Jan 2020 |    768 |    197 |    -1221 | 0.26 | -0.16 |
 

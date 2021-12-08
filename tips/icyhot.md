@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-12-08 22:09:37 +1000  
+date: 2021-12-09 05:42:17 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      9 |      4 |     -5   | 0.44 | -0.06 |
+| Last 7 Days    |      8 |      5 |     26   | 0.62 |  0.32 |
 | Last 28 Days   |     35 |     15 |     -4   | 0.43 | -0.01 |
-| Last 6 Months  |    202 |     67 |   -116.9 | 0.33 | -0.06 |
-| Since Jan 2020 |    370 |    129 |    -66.4 | 0.35 | -0.02 |
+| Last 6 Months  |    203 |     68 |   -105.9 | 0.33 | -0.05 |
+| Since Jan 2020 |    371 |    130 |    -55.4 | 0.35 | -0.01 |
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
@@ -47,8 +47,8 @@ categories: None
 | :2nd_place_medal: | 2021-11-13 | ascot R4                | 4 Ginger Flyer        |  4.2  |    -10   |
 | :3rd_place_medal: | 2021-11-13 | ascot R3                | 2 Son Of A God        | 26    |    -10   |
 | :boom:            | 2021-11-13 | doomben R6              | 6 Lyrical Girl        |  3.5  |     25   |
-| :boom:            | 2021-11-13 | ascot R1                | 6 Written Matter      |  5.1  |     41   |
 | 5                 | 2021-11-13 | ascot R1                | 4 Nowhiteflag         |  1.95 |    -10   |
+| :boom:            | 2021-11-13 | ascot R1                | 6 Written Matter      |  5.1  |     41   |
 | :boom:            | 2021-11-13 | gold-coast R2           | 1 Sir Rocket          |  1.7  |      7   |
 | :boom:            | 2021-11-11 | turffontein R3          | 5 Sound Of Summer     |  2.1  |     11   |
 | 6                 | 2021-11-10 | murray-bdge R2          | 5 French Fields       |  2    |    -10   |
@@ -256,8 +256,8 @@ categories: None
 | :boom:            | 2021-05-01 | barcaldine R6           | 4 Sizzalating         |  1.6  |      6   |
 | :boom:            | 2021-04-30 | alice-springs R4        | 1 Valley Prince       |  1.04 |      0.4 |
 | 4                 | 2021-04-29 | rockhampton R5          | 1 Brad                |  5.5  |    -10   |
-| :2nd_place_medal: | 2021-04-28 | toowoomba R8            | 8 Dis Dah Wun         |  2.45 |    -10   |
 | 10                | 2021-04-28 | toowoomba R8            | 6 Molly's Rocking     | 19    |    -10   |
+| :2nd_place_medal: | 2021-04-28 | toowoomba R8            | 8 Dis Dah Wun         |  2.45 |    -10   |
 | :boom:            | 2021-04-28 | toowoomba R6            | 10 Better Get Ready   |  5.5  |     45   |
 | :boom:            | 2021-04-28 | punchestown R4          | 3 Chacun Pour Soi     |  2.2  |     12   |
 | :2nd_place_medal: | 2021-04-25 | sandown R3              | 1 Altior              |  3.75 |    -10   |
@@ -350,8 +350,8 @@ categories: None
 | :boom:            | 2021-02-12 | moonee-valley R4        | 7 Starcaster          |  7.6  |     66   |
 | :2nd_place_medal: | 2021-02-12 | townsville R8           | 10 Bold Eos           |  2.6  |    -10   |
 | :boom:            | 2021-02-12 | townsville R8           | 6 Disco Mo            |  5.9  |     49   |
-| :2nd_place_medal: | 2021-02-09 | mackay R2               | 3 Durif               |  2.5  |    -10   |
 | :boom:            | 2021-02-09 | mackay R2               | 2 Brad                |  1.4  |      4   |
+| :2nd_place_medal: | 2021-02-09 | mackay R2               | 3 Durif               |  2.5  |    -10   |
 | :boom:            | 2021-02-09 | mackay R1               | 2 Carlin Trend        |  3.1  |     21   |
 | :3rd_place_medal: | 2021-02-07 | naracoorte R6           | 1 Challicum           |  5    |    -10   |
 | 5                 | 2021-02-07 | hobart R6               | 6 Mystical Pursuit    |  5.6  |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-08 22:09:42 +1000  
+date: 2021-12-09 05:42:26 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      6 |      2 |     14   | 0.33 |  0.23 |
-| Last 28 Days   |     19 |     10 |     25   | 0.53 |  0.13 |
-| Last 6 Months  |     90 |     58 |   1442.8 | 0.64 |  1.6  |
-| Since Jan 2020 |    146 |     81 |   1503.8 | 0.55 |  1.03 |
+| Last 28 Days   |     20 |     10 |     15   | 0.5  |  0.08 |
+| Last 6 Months  |     91 |     58 |   1432.8 | 0.64 |  1.57 |
+| Since Jan 2020 |    147 |     81 |   1493.8 | 0.55 |  1.02 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 00:00             | 2021-12-09 | lingfield R2           | 5 Corey's Courage    | 15    |    -10   |
+| 0                 | 2021-12-09 | lingfield R2           | 5 Corey's Courage    |  0    |    -10   |
 | 4                 | 2021-12-08 | uttoxeter R7           | 13 Wolfspear         |  3.7  |    -10   |
 | :boom:            | 2021-12-07 | ludlow R7              | 9 Fancy Stuff        |  5.5  |     45   |
 | 99                | 2021-12-06 | huntingdon R6          | 9 Presenting Nelly   |  0    |    -10   |
@@ -98,8 +98,8 @@ categories: None
 | 99                | 2021-06-19 | royal-ascot R1         | 3 New Science        |  7.5  |    -10   |
 | 99                | 2021-06-19 | royal-ascot R3         | 21 Suesa             |  3.25 |    -10   |
 | 99                | 2021-06-17 | royal-ascot R1         | 9 Lucci              |  8    |    -10   |
-| 99                | 2021-06-17 | royal-ascot R6         | 28 Ruthin            |  4    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R6         | 26 Golden Bell       |  9    |    -10   |
+| 99                | 2021-06-17 | royal-ascot R6         | 28 Ruthin            |  4    |    -10   |
 | 5                 | 2021-06-12 | sandown-hillside R1    | 1 Mimosas            | 13.2  |    -10   |
 | :boom:            | 2021-06-12 | clonmel R8             | 2 Dani Barcelona     |  1.62 |      6.2 |
 | :boom:            | 2021-06-11 | sandown R3             | 8 Native Trail       |  1.8  |      8   |
