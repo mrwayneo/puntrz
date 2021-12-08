@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-08 19:45:54 +1000  
+date: 2021-12-08 20:01:03 +1000  
 ---   
 
 
@@ -40,7 +40,7 @@ date: 2021-12-08 19:45:54 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      5 |     79   | 0.25 |  0.4  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      7 |     59   | 0.35 |  0.3  |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      7 |     49   | 0.35 |  0.24 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      9 |     15   | 0.45 |  0.08 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |     10 |     44   | 0.5  |  0.22 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |    -25   | 0.4  | -0.12 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      4 |    -37   | 0.2  | -0.18 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |    -38   | 0.15 | -0.19 |
@@ -60,7 +60,7 @@ date: 2021-12-08 19:45:54 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |    113 |     27 |   3825   | 0.24 |  3.38 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |    122 |     26 |   2733.5 | 0.21 |  2.24 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     61 |     61 |   1539.5 | 1    |  2.52 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |     87 |     55 |   1447.8 | 0.63 |  1.66 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |     87 |     56 |   1476.8 | 0.64 |  1.7  |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    270 |     77 |    375.5 | 0.29 |  0.14 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     38 |     10 |    191.5 | 0.26 |  0.5  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    318 |     91 |    158.4 | 0.29 |  0.05 |
@@ -86,8 +86,8 @@ date: 2021-12-08 19:45:54 +1000
 |  2 | :soon:            | 2021-12-09 01:50:00 | happy-valley     |      9 |        6 | Savaquin          |   0    | jmac                 |
 |  3 | :soon:            | 2021-12-09 00:10:00 | wolverhampton    |      3 |        4 | Resumption        |   0    | vulture              |
 |  4 | :soon:            | 2021-12-09 00:10:00 | wolverhampton    |      3 |        2 | Famous Star       |   0    | vulture              |
-|  5 | :soon:            | 2021-12-09 00:00:00 | lingfield        |      2 |        5 | Corey's Courage   |   0    | overthrow,lago       |
-|  6 | :soon:            | 2021-12-09 00:00:00 | lingfield        |      2 |        2 | Lilly Pedlar      |   0    | overthrow            |
+|  5 | :soon:            | 2021-12-09 00:00:00 | lingfield        |      2 |        5 | Corey's Courage   |  15    | overthrow,lago       |
+|  6 | :soon:            | 2021-12-09 00:00:00 | lingfield        |      2 |        2 | Lilly Pedlar      |   4.2  | overthrow            |
 |  7 | :soon:            | 2021-12-08 23:30:00 | lingfield        |      1 |        3 | Swapped           |   0    | overthrow            |
 |  8 | :soon:            | 2021-12-08 23:20:00 | hexham           |      1 |        3 | Lady Bowes        |   0    | overthrow            |
 |  9 | :soon:            | 2021-12-08 23:10:00 | wolverhampton    |      1 |        9 | Seagulls Nest     |   0    | vulture              |

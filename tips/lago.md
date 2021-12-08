@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-08 19:45:53 +1000  
+date: 2021-12-08 20:01:02 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      6 |      2 |     14   | 0.33 |  0.23 |
-| Last 28 Days   |     19 |      9 |     25   | 0.47 |  0.13 |
-| Last 6 Months  |     90 |     57 |   1442.8 | 0.63 |  1.6  |
-| Since Jan 2020 |    146 |     80 |   1503.8 | 0.55 |  1.03 |
+| Last 28 Days   |     19 |     10 |     25   | 0.53 |  0.13 |
+| Last 6 Months  |     90 |     58 |   1442.8 | 0.64 |  1.6  |
+| Since Jan 2020 |    146 |     81 |   1503.8 | 0.55 |  1.03 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 00:00             | 2021-12-09 | lingfield R2           | 5 Corey's Courage    |  0    |    -10   |
+| 00:00             | 2021-12-09 | lingfield R2           | 5 Corey's Courage    | 15    |    -10   |
 | 4                 | 2021-12-08 | uttoxeter R7           | 13 Wolfspear         |  3.7  |    -10   |
 | :boom:            | 2021-12-07 | ludlow R7              | 9 Fancy Stuff        |  5.5  |     45   |
 | 99                | 2021-12-06 | huntingdon R6          | 9 Presenting Nelly   |  0    |    -10   |
@@ -33,7 +33,7 @@ categories: None
 | :2nd_place_medal: | 2021-11-18 | warwick R3             | 3 Queens River       |  1.42 |    -10   |
 | :boom:            | 2021-11-17 | warwick R1             | 4 Hartur D'oudairies |  1.8  |      8   |
 | :3rd_place_medal: | 2021-11-17 | rosehill R3            | 11 Comrade Rosa      |  3.7  |    -10   |
-| 0                 | 2021-11-17 | lingfield R6           | 8 Viva Lavilla       |  0    |    -10   |
+| :boom:            | 2021-11-17 | lingfield R6           | 8 Viva Lavilla       |  0    |    -10   |
 | :boom:            | 2021-11-15 | cheltenham R6          | 7 Timeforatune       |  4    |     30   |
 | :3rd_place_medal: | 2021-11-11 | exeter R2              | 5 I Am Maximus       |  2.1  |    -10   |
 | :boom:            | 2021-11-09 | huntingdon R1          | 7 Theatre Glory      |  2.62 |     16.2 |
