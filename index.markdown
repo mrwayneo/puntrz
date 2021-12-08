@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-08 15:59:42 +1000  
+date: 2021-12-08 16:14:40 +1000  
 ---   
 
 
@@ -16,9 +16,9 @@ date: 2021-12-08 15:59:42 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      1 |      -12 | 0.33 | -0.4  |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      3 |      0 |      -30 | 0    | -1    |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      3 |      1 |      -13 | 0.33 | -0.43 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      1 |      -23 | 0.25 | -0.57 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     25 |      1 |      -40 | 0.04 | -0.16 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      1 |      -42 | 0.17 | -0.7  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     11 |      0 |     -110 | 0    | -1    |
@@ -100,8 +100,8 @@ date: 2021-12-08 15:59:42 +1000
 | 21 | :soon:            | 2021-12-08 16:40:00 | warwick-farm     |      5 |        3 | Black Queen       |   3.5  | wallbow              |
 | 22 | :soon:            | 2021-12-08 16:30:00 | balaklava        |      6 |        7 | Harbouring        |   3.6  | pangea               |
 | 23 | :soon:            | 2021-12-08 16:23:00 | ipswich          |      5 |        8 | Black Monaco      |   4.8  | evenodds,overthrow   |
-| 24 | :soon:            | 2021-12-08 16:09:00 | ascot            |      6 |       10 | Star Of Rosie     |   3.4  | vulture,milkman      |
-| 25 | :soon:            | 2021-12-08 16:05:00 | warwick-farm     |      4 |        5 | Niffler           |   2.25 | milkman,wallbow      |
+| 24 | --                | 2021-12-08 16:09:00 | ascot            |      6 |       10 | Star Of Rosie     |   3.4  | vulture,milkman      |
+| 25 | :boom:            | 2021-12-08 16:05:00 | warwick-farm     |      4 |        5 | Niffler           |   2.25 | milkman,wallbow      |
 | 26 | --                | 2021-12-08 15:48:00 | ipswich          |      4 |        3 | Demurral          |   2.45 | evenodds,overthrow   |
 | 27 | 4.0               | 2021-12-08 15:34:00 | ascot            |      5 |        6 | Hot Blooded       |   9    | evenodds,overthrow   |
 | 28 | :2nd_place_medal: | 2021-12-08 15:30:00 | warwick-farm     |      3 |        6 | Otyrar            |   6    | wallbow              |
