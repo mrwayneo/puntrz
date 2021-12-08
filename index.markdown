@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-08 21:04:31 +1000  
+date: 2021-12-08 21:19:34 +1000  
 ---   
 
 
@@ -10,7 +10,7 @@ date: 2021-12-08 21:04:31 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      3 |      2 |       15 | 0.67 |  0.5  |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      1 |       11 | 1    |  1.1  |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 | 0    | -1    |
@@ -18,10 +18,10 @@ date: 2021-12-08 21:04:31 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      1 |      -12 | 0.33 | -0.4  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      2 |      -21 | 0.33 | -0.35 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      1 |      -23 | 0.25 | -0.57 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     25 |      1 |      -40 | 0.04 | -0.16 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      1 |      -42 | 0.17 | -0.7  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     11 |      1 |      -66 | 0.09 | -0.6  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     14 |      0 |     -140 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     15 |      0 |     -150 | 0    | -1    |
@@ -92,7 +92,7 @@ date: 2021-12-08 21:04:31 +1000
 |  8 | :soon:            | 2021-12-08 23:20:00 | hexham           |      1 |        3 | Lady Bowes        |   0    | overthrow            |
 |  9 | :soon:            | 2021-12-08 23:10:00 | wolverhampton    |      1 |        9 | Seagulls Nest     |   0    | vulture              |
 | 10 | :soon:            | 2021-12-08 22:05:00 | scottsville      |      2 |        7 | Dronfield         |   0    | vulture              |
-| 11 | --                | 2021-12-08 20:30:00 | launceston       |      6 |        5 | Azara             |   2.5  | pangea,icyhot        |
+| 11 | :boom:            | 2021-12-08 20:30:00 | launceston       |      6 |        5 | Azara             |   2.5  | pangea,icyhot        |
 | 12 | --                | 2021-12-08 20:30:00 | launceston       |      6 |        6 | Our Shinkansen    |   3.2  | evenodds,blackshadow |
 | 13 | --                | 2021-12-08 18:50:00 | ipswich          |      9 |        4 | Joy Too All       |   1.45 | overthrow            |
 | 14 | --                | 2021-12-08 18:50:00 | ipswich          |      9 |        1 | For My Annie      |   7    | pangea               |
