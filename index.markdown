@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-08 16:59:47 +1000  
+date: 2021-12-08 17:19:27 +1000  
 ---   
 
 
@@ -10,12 +10,13 @@ date: 2021-12-08 16:59:47 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      3 |      2 |       15 | 0.67 |  0.5  |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      1 |      0 |      -10 | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 | 0    | -1    |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      1 |      0 |      -10 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 | 0    | -1    |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      1 |      -12 | 0.33 | -0.4  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      1 |      -23 | 0.25 | -0.57 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
@@ -30,6 +31,7 @@ date: 2021-12-08 16:59:47 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      5 |    767   | 0.25 |  3.84 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    532   | 1    |  2.66 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      7 |    275.5 | 0.35 |  1.38 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      7 |    237   | 0.35 |  1.18 |
@@ -46,14 +48,15 @@ date: 2021-12-08 16:59:47 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      3 |    -67   | 0.15 | -0.34 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      2 |   -139   | 0.1  | -0.7  |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |    113 |     27 |   3825   | 0.24 |  3.38 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     61 |     61 |   1539.5 | 1    |  2.52 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     87 |     55 |   1447.8 | 0.63 |  1.66 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    270 |     77 |    375.5 | 0.29 |  0.14 |
@@ -74,34 +77,35 @@ date: 2021-12-08 16:59:47 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5842 |    885 |  -7733.5 | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7547 |    424 | -13028   | 0.06 | -0.17 |
 
-|    | finish            | time                | track            |   race |   number | name              |   odds | tipster              |
-|---:|:------------------|:--------------------|:-----------------|-------:|---------:|:------------------|-------:|:---------------------|
-|  0 | :soon:            | 2021-12-09 06:00:00 | kempton          |      7 |        2 | Bellosa           |   0    | milkman              |
-|  1 | :soon:            | 2021-12-09 03:00:00 | kempton          |      1 |        1 | Belacqua          |   0    | milkman              |
-|  2 | :soon:            | 2021-12-09 01:50:00 | happy-valley     |      9 |        6 | Savaquin          |   0    | jmac                 |
-|  3 | :soon:            | 2021-12-09 00:10:00 | wolverhampton    |      3 |        4 | Resumption        |   0    | vulture              |
-|  4 | :soon:            | 2021-12-09 00:10:00 | wolverhampton    |      3 |        2 | Famous Star       |   0    | vulture              |
-|  5 | :soon:            | 2021-12-09 00:00:00 | lingfield        |      2 |        5 | Corey's Courage   |   0    | overthrow,lago       |
-|  6 | :soon:            | 2021-12-09 00:00:00 | lingfield        |      2 |        2 | Lilly Pedlar      |   0    | overthrow            |
-|  7 | :soon:            | 2021-12-08 23:30:00 | lingfield        |      1 |        3 | Swapped           |   0    | overthrow            |
-|  8 | :soon:            | 2021-12-08 23:20:00 | hexham           |      1 |        3 | Lady Bowes        |   0    | overthrow            |
-|  9 | :soon:            | 2021-12-08 23:10:00 | wolverhampton    |      1 |        9 | Seagulls Nest     |   0    | vulture              |
-| 10 | :soon:            | 2021-12-08 22:05:00 | scottsville      |      2 |        7 | Dronfield         |   0    | vulture              |
-| 11 | :soon:            | 2021-12-08 20:30:00 | launceston       |      6 |        5 | Azara             |   2.5  | pangea,icyhot        |
-| 12 | :soon:            | 2021-12-08 20:30:00 | launceston       |      6 |        6 | Our Shinkansen    |   3.2  | evenodds,blackshadow |
-| 13 | :soon:            | 2021-12-08 18:50:00 | ipswich          |      9 |        4 | Joy Too All       |   1.45 | overthrow            |
-| 14 | :soon:            | 2021-12-08 18:50:00 | ipswich          |      9 |        1 | For My Annie      |   7    | pangea               |
-| 15 | :soon:            | 2021-12-08 18:10:00 | ipswich          |      8 |        1 | Maxcalemma        |   3.7  | overthrow            |
-| 16 | :soon:            | 2021-12-08 18:10:00 | ipswich          |      8 |        5 | The Tyler         |   5.5  | overthrow            |
-| 17 | :soon:            | 2021-12-08 17:33:00 | ipswich          |      7 |        2 | Harlequin Field   |   3    | vulture              |
-| 18 | :soon:            | 2021-12-08 17:33:00 | ipswich          |      7 |        1 | Smart Star Prince |   3    | benny,blackshadow    |
-| 19 | :soon:            | 2021-12-08 17:15:00 | warwick-farm     |      6 |        8 | Too Much Lippy    |   8.5  | vulture              |
-| 20 | --                | 2021-12-08 16:50:00 | sandown-hillside |      3 |       11 | Jayeffthunder     |   6.5  | looseknot            |
-| 21 | :boom:            | 2021-12-08 16:40:00 | warwick-farm     |      5 |        3 | Black Queen       |   3.5  | wallbow              |
-| 22 | :2nd_place_medal: | 2021-12-08 16:30:00 | balaklava        |      6 |        7 | Harbouring        |   3.6  | pangea               |
-| 23 | --                | 2021-12-08 16:23:00 | ipswich          |      5 |        8 | Black Monaco      |   4.8  | evenodds,overthrow   |
-| 24 | --                | 2021-12-08 16:09:00 | ascot            |      6 |       10 | Star Of Rosie     |   3.4  | vulture,milkman      |
-| 25 | :boom:            | 2021-12-08 16:05:00 | warwick-farm     |      4 |        5 | Niffler           |   2.25 | milkman,wallbow      |
-| 26 | --                | 2021-12-08 15:48:00 | ipswich          |      4 |        3 | Demurral          |   2.45 | evenodds,overthrow   |
-| 27 | 4.0               | 2021-12-08 15:34:00 | ascot            |      5 |        6 | Hot Blooded       |   9    | evenodds,overthrow   |
-| 28 | :2nd_place_medal: | 2021-12-08 15:30:00 | warwick-farm     |      3 |        6 | Otyrar            |   6    | wallbow              |
+|    | finish                   | time                | track            |   race |   number | name              |   odds | tipster              |
+|---:|:-------------------------|:--------------------|:-----------------|-------:|---------:|:------------------|-------:|:---------------------|
+|  0 | :soon:                   | 2021-12-09 06:00:00 | kempton          |      7 |        2 | Bellosa           |   0    | milkman              |
+|  1 | :soon:                   | 2021-12-09 03:00:00 | kempton          |      1 |        1 | Belacqua          |   0    | milkman              |
+|  2 | :soon:                   | 2021-12-09 01:50:00 | happy-valley     |      9 |        6 | Savaquin          |   0    | jmac                 |
+|  3 | :soon:                   | 2021-12-09 00:10:00 | wolverhampton    |      3 |        4 | Resumption        |   0    | vulture              |
+|  4 | :soon:                   | 2021-12-09 00:10:00 | wolverhampton    |      3 |        2 | Famous Star       |   0    | vulture              |
+|  5 | :soon:                   | 2021-12-09 00:00:00 | lingfield        |      2 |        5 | Corey's Courage   |   0    | overthrow,lago       |
+|  6 | :soon:                   | 2021-12-09 00:00:00 | lingfield        |      2 |        2 | Lilly Pedlar      |   0    | overthrow            |
+|  7 | :soon:                   | 2021-12-08 23:30:00 | lingfield        |      1 |        3 | Swapped           |   0    | overthrow            |
+|  8 | :soon:                   | 2021-12-08 23:20:00 | hexham           |      1 |        3 | Lady Bowes        |   0    | overthrow            |
+|  9 | :soon:                   | 2021-12-08 23:10:00 | wolverhampton    |      1 |        9 | Seagulls Nest     |   0    | vulture              |
+| 10 | :soon:                   | 2021-12-08 22:05:00 | scottsville      |      2 |        7 | Dronfield         |   0    | vulture              |
+| 11 | :soon:                   | 2021-12-08 20:30:00 | launceston       |      6 |        5 | Azara             |   2.5  | pangea,icyhot        |
+| 12 | :soon:                   | 2021-12-08 20:30:00 | launceston       |      6 |        6 | Our Shinkansen    |   3.2  | evenodds,blackshadow |
+| 13 | :soon:                   | 2021-12-08 18:50:00 | ipswich          |      9 |        4 | Joy Too All       |   1.45 | overthrow            |
+| 14 | :soon:                   | 2021-12-08 18:50:00 | ipswich          |      9 |        1 | For My Annie      |   7    | pangea               |
+| 15 | :soon:                   | 2021-12-08 18:10:00 | ipswich          |      8 |        1 | Maxcalemma        |   3.7  | overthrow            |
+| 16 | :soon:                   | 2021-12-08 18:10:00 | ipswich          |      8 |        5 | The Tyler         |   5.5  | overthrow            |
+| 17 | :soon:                   | 2021-12-08 17:33:00 | ipswich          |      7 |        2 | Harlequin Field   |   3    | vulture              |
+| 18 | :soon:                   | 2021-12-08 17:33:00 | ipswich          |      7 |        1 | Smart Star Prince |   3    | benny,blackshadow    |
+| 19 | :hourglass_flowing_sand: | 2021-12-08 17:15:00 | warwick-farm     |      6 |        8 | Too Much Lippy    |   8.5  | vulture              |
+| 20 | 14.0                     | 2021-12-08 16:50:00 | sandown-hillside |      3 |       11 | Jayeffthunder     |   6.5  | looseknot            |
+| 21 | :boom:                   | 2021-12-08 16:40:00 | warwick-farm     |      5 |        3 | Black Queen       |   3.5  | wallbow              |
+| 22 | :2nd_place_medal:        | 2021-12-08 16:30:00 | balaklava        |      6 |        7 | Harbouring        |   3.6  | pangea               |
+| 23 | --                       | 2021-12-08 16:23:00 | ipswich          |      5 |        8 | Black Monaco      |   4.8  | evenodds,overthrow   |
+| 24 | --                       | 2021-12-08 16:09:00 | ascot            |      6 |       10 | Star Of Rosie     |   3.4  | vulture,milkman      |
+| 25 | :boom:                   | 2021-12-08 16:05:00 | warwick-farm     |      4 |        5 | Niffler           |   2.25 | milkman,wallbow      |
+| 26 | --                       | 2021-12-08 15:48:00 | ipswich          |      4 |        3 | Demurral          |   2.45 | evenodds,overthrow   |
+| 27 | 4.0                      | 2021-12-08 15:34:00 | ascot            |      5 |        6 | Hot Blooded       |   9    | evenodds,overthrow   |
+| 28 | :2nd_place_medal:        | 2021-12-08 15:30:00 | warwick-farm     |      3 |        6 | Otyrar            |   6    | wallbow              |
+| 29 | 6.0                      | 2021-12-08 14:55:00 | warwick-farm     |      2 |       10 | Compassionate     |  11    | cosmo,bluey          |
