@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-08 16:29:43 +1000  
+date: 2021-12-08 16:44:45 +1000  
 ---   
 
 
@@ -97,8 +97,8 @@ date: 2021-12-08 16:29:43 +1000
 | 18 | :soon:            | 2021-12-08 17:33:00 | ipswich          |      7 |        1 | Smart Star Prince |   3    | benny,blackshadow    |
 | 19 | :soon:            | 2021-12-08 17:15:00 | warwick-farm     |      6 |        8 | Too Much Lippy    |   8.5  | vulture              |
 | 20 | :soon:            | 2021-12-08 16:50:00 | sandown-hillside |      3 |       11 | Jayeffthunder     |   6.5  | looseknot            |
-| 21 | :soon:            | 2021-12-08 16:40:00 | warwick-farm     |      5 |        3 | Black Queen       |   3.5  | wallbow              |
-| 22 | :soon:            | 2021-12-08 16:30:00 | balaklava        |      6 |        7 | Harbouring        |   3.6  | pangea               |
+| 21 | --                | 2021-12-08 16:40:00 | warwick-farm     |      5 |        3 | Black Queen       |   3.5  | wallbow              |
+| 22 | :2nd_place_medal: | 2021-12-08 16:30:00 | balaklava        |      6 |        7 | Harbouring        |   3.6  | pangea               |
 | 23 | --                | 2021-12-08 16:23:00 | ipswich          |      5 |        8 | Black Monaco      |   4.8  | evenodds,overthrow   |
 | 24 | --                | 2021-12-08 16:09:00 | ascot            |      6 |       10 | Star Of Rosie     |   3.4  | vulture,milkman      |
 | 25 | :boom:            | 2021-12-08 16:05:00 | warwick-farm     |      4 |        5 | Niffler           |   2.25 | milkman,wallbow      |
