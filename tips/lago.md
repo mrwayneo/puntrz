@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-10 06:44:37 +1000  
+date: 2021-12-10 07:00:59 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 23:05             | 2021-12-10 | cheltenham R1          | 2 Hartur D'oudairies |  2.3  |    -10   |
 | 0                 | 2021-12-09 | lingfield R2           | 5 Corey's Courage    |  0    |    -10   |
 | 4                 | 2021-12-08 | uttoxeter R7           | 13 Wolfspear         |  3.7  |    -10   |
 | :boom:            | 2021-12-07 | ludlow R7              | 9 Fancy Stuff        |  5.5  |     45   |
@@ -98,8 +99,8 @@ categories: None
 | 99                | 2021-06-19 | royal-ascot R1         | 3 New Science        |  7.5  |    -10   |
 | 99                | 2021-06-19 | royal-ascot R3         | 21 Suesa             |  3.25 |    -10   |
 | 99                | 2021-06-17 | royal-ascot R1         | 9 Lucci              |  8    |    -10   |
-| 99                | 2021-06-17 | royal-ascot R6         | 28 Ruthin            |  4    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R6         | 26 Golden Bell       |  9    |    -10   |
+| 99                | 2021-06-17 | royal-ascot R6         | 28 Ruthin            |  4    |    -10   |
 | 5                 | 2021-06-12 | sandown-hillside R1    | 1 Mimosas            | 13.2  |    -10   |
 | :boom:            | 2021-06-12 | clonmel R8             | 2 Dani Barcelona     |  1.62 |      6.2 |
 | :boom:            | 2021-06-11 | sandown R3             | 8 Native Trail       |  1.8  |      8   |

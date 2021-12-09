@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-10 06:44:38 +1000  
+date: 2021-12-10 07:00:59 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event               | runner                |    win |   return |
 |:------------------|:-----------|:--------------------|:----------------------|-------:|---------:|
+| 00:50             | 2021-12-11 | cheltenham R4       | 9 Oriental Cross      |  41    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5         | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6       | 8 Precious            |   0    |    -10   |
 | 0                 | 2021-12-05 | navan R7            | 4 Foxy Jacks          |   0    |    -10   |
