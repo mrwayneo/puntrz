@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-09 19:08:54 +1000  
+date: 2021-12-09 19:23:55 +1000  
 ---   
 
 
@@ -9,10 +9,10 @@ date: 2021-12-09 19:08:54 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      1 |       -4 | 0.5  | -0.2  |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      2 |      1 |       -4 | 0.5  | -0.2  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      5 |      2 |       -6 | 0.4  | -0.12 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 | 0    | -1    |
-| [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      2 |      0 |      -20 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      5 |      1 |      -22 | 0.2  | -0.44 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      4 |      0 |      -40 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      7 |      0 |      -70 | 0    | -1    |
@@ -99,7 +99,7 @@ date: 2021-12-09 19:08:54 +1000
 | 21 | :soon:            | 2021-12-09 23:20:00 | warwick         |      1 |        8 | Vazir              |   4.75 | vulture            |
 | 22 | :soon:            | 2021-12-09 23:20:00 | warwick         |      1 |        6 | Saveasea           |   7    | overthrow          |
 | 23 | :soon:            | 2021-12-09 21:00:00 | turffontein     |      1 |        2 | Motor City Hitman  |   0    | vulture            |
-| 24 | :soon:            | 2021-12-09 19:15:00 | geraldton       |      6 |        1 | Three Sessions     |   1.91 | benny,icyhot       |
+| 24 | :boom:            | 2021-12-09 19:15:00 | geraldton       |      6 |        1 | Three Sessions     |   1.91 | benny,icyhot       |
 | 25 | :2nd_place_medal: | 2021-12-09 16:27:00 | mackay          |      5 |        3 | Big Jake           |   1.45 | evenodds,milkman   |
 | 26 | 5.0               | 2021-12-09 15:47:00 | mackay          |      4 |        2 | Cavalero           |   6    | pangea,icyhot      |
 | 27 | 4.0               | 2021-12-09 15:40:00 | wyong           |      4 |        7 | Lord Winston       |   2.35 | milkman            |
