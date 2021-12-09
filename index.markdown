@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-09 15:33:04 +1000  
+date: 2021-12-09 15:48:02 +1000  
 ---   
 
 
@@ -18,7 +18,7 @@ date: 2021-12-09 15:33:04 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      7 |      0 |      -70 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     10 |      0 |     -100 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     18 |      1 |     -149 | 0.06 | -0.83 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     32 |      0 |     -320 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     32 |      1 |     -291 | 0.03 | -0.91 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     58 |      0 |     -580 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -101,6 +101,6 @@ date: 2021-12-09 15:33:04 +1000
 | 23 | :soon:   | 2021-12-09 21:00:00 | turffontein     |      1 |        2 | Motor City Hitman  |   0    | vulture            |
 | 24 | :soon:   | 2021-12-09 19:15:00 | geraldton       |      6 |        1 | Three Sessions     |   1.91 | benny,icyhot       |
 | 25 | :soon:   | 2021-12-09 16:27:00 | mackay          |      5 |        3 | Big Jake           |   1.45 | evenodds,milkman   |
-| 26 | :soon:   | 2021-12-09 15:47:00 | mackay          |      4 |        2 | Cavalero           |   6    | pangea,icyhot      |
-| 27 | :soon:   | 2021-12-09 15:40:00 | wyong           |      4 |        7 | Lord Winston       |   2.35 | milkman            |
+| 26 | --       | 2021-12-09 15:47:00 | mackay          |      4 |        2 | Cavalero           |   6    | pangea,icyhot      |
+| 27 | 4.0      | 2021-12-09 15:40:00 | wyong           |      4 |        7 | Lord Winston       |   2.35 | milkman            |
 | 28 | :boom:   | 2021-12-09 14:34:00 | mackay          |      2 |        5 | Alleluia           |   3.2  | overthrow          |
