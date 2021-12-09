@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-10 06:28:04 +1000  
+date: 2021-12-10 06:44:38 +1000  
 ---   
 
 
@@ -61,7 +61,7 @@ date: 2021-12-10 06:28:04 +1000
 
 |    | finish            | time                | track           |   race |   number | name               |   odds | tipster            |
 |---:|:------------------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:            | 2021-12-10 06:30:00 | chelmsford-city |      8 |        4 | Maysong            |   4.8  | vulture            |
+|  0 | :2nd_place_medal: | 2021-12-10 06:30:00 | chelmsford-city |      8 |        4 | Maysong            |   4.8  | vulture            |
 |  1 | --                | 2021-12-10 05:00:00 | chelmsford-city |      5 |        6 | Quarter Blue       |   5.5  | looseknot          |
 |  2 | --                | 2021-12-10 04:00:00 | chelmsford-city |      3 |       13 | Cashel             |   9    | vulture            |
 |  3 | :boom:            | 2021-12-10 03:00:00 | chelmsford-city |      1 |        2 | Antiphon           |   2.6  | vulture            |
