@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-09 20:54:57 +1000  
+date: 2021-12-09 21:10:06 +1000  
 ---   
 
 
@@ -98,7 +98,7 @@ date: 2021-12-09 20:54:57 +1000
 | 20 | :soon:            | 2021-12-09 23:50:00 | warwick         |      2 |        9 | Major Sting        |  11    | overthrow          |
 | 21 | :soon:            | 2021-12-09 23:20:00 | warwick         |      1 |        8 | Vazir              |   4.75 | vulture            |
 | 22 | :soon:            | 2021-12-09 23:20:00 | warwick         |      1 |        6 | Saveasea           |   7    | overthrow          |
-| 23 | :soon:            | 2021-12-09 21:00:00 | turffontein     |      1 |        2 | Motor City Hitman  |   0    | vulture            |
+| 23 | --                | 2021-12-09 21:00:00 | turffontein     |      1 |        2 | Motor City Hitman  |   0    | vulture            |
 | 24 | :boom:            | 2021-12-09 19:15:00 | geraldton       |      6 |        1 | Three Sessions     |   1.91 | benny,icyhot       |
 | 25 | :2nd_place_medal: | 2021-12-09 16:27:00 | mackay          |      5 |        3 | Big Jake           |   1.45 | evenodds,milkman   |
 | 26 | 5.0               | 2021-12-09 15:47:00 | mackay          |      4 |        2 | Cavalero           |   6    | pangea,icyhot      |
