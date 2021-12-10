@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-10 18:06:38 +1000  
+date: 2021-12-10 18:21:41 +1000  
 ---   
 
 
@@ -21,7 +21,7 @@ date: 2021-12-10 18:06:38 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     17 |      0 |     -170 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     17 |      0 |     -170 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      0 |     -380 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |    107 |      3 |    -1004 | 0.03 | -0.94 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |    107 |      4 |     -973 | 0.04 | -0.91 |
 
 ##### Form Last 20 tips   
 
@@ -99,8 +99,8 @@ date: 2021-12-10 18:06:38 +1000
 | 19 | :soon:            | 2021-12-10 19:10:00 | moonee-valley |      3 |        4 | Surcote            |   6    | looseknot          |
 | 20 | :soon:            | 2021-12-10 19:00:00 | canterbury    |      3 |        3 | Pizarro            |   2.7  | vulture            |
 | 21 | :soon:            | 2021-12-10 18:30:00 | canterbury    |      2 |        5 | Fearnought         |   5.5  | wallbow            |
-| 22 | :soon:            | 2021-12-10 18:14:00 | doomben       |      6 |        2 | Niccanova          |   4.5  | pangea,blackshadow |
-| 23 | :soon:            | 2021-12-10 18:14:00 | doomben       |      6 |        3 | Ligulate           |   3.3  | pangea             |
+| 22 | :2nd_place_medal: | 2021-12-10 18:14:00 | doomben       |      6 |        2 | Niccanova          |   4.5  | pangea,blackshadow |
+| 23 | --                | 2021-12-10 18:14:00 | doomben       |      6 |        3 | Ligulate           |   3.3  | pangea             |
 | 24 | --                | 2021-12-10 17:34:00 | murwillumbah  |      8 |        4 | I'm Gunna Cashew   |   7    | vulture            |
 | 25 | 10.0              | 2021-12-10 17:30:00 | geelong       |      8 |        9 | Zeitakuna          |   5.5  | vulture,milkman    |
 | 26 | :boom:            | 2021-12-10 17:20:00 | scone         |      7 |        7 | Excelness          |   4.75 | pangea             |
