@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-10 15:36:06 +1000  
+date: 2021-12-10 15:58:58 +1000  
 ---   
 
 
@@ -106,5 +106,5 @@ date: 2021-12-10 15:36:06 +1000
 | 26 | :soon:   | 2021-12-10 17:20:00 | scone         |      7 |        7 | Excelness          |   4.75 | pangea             |
 | 27 | :soon:   | 2021-12-10 17:20:00 | scone         |      7 |        5 | Invincible Ninja   |   7    | vulture            |
 | 28 | :soon:   | 2021-12-10 16:22:00 | doomben       |      3 |        6 | Abracadazzle       |   4.5  | pangea,overthrow   |
-| 29 | :soon:   | 2021-12-10 15:42:00 | doomben       |      2 |        4 | Crockett           |   5.5  | vulture            |
+| 29 | 4.0      | 2021-12-10 15:42:00 | doomben       |      2 |        4 | Crockett           |   5.5  | vulture            |
 | 30 | --       | 2021-12-10 13:50:00 | murwillumbah  |      2 |        5 | Diana Rocks        |   2.15 | vulture            |
