@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-10 13:50:07 +1000  
+date: 2021-12-10 14:05:15 +1000  
 ---   
 
 
@@ -75,36 +75,36 @@ date: 2021-12-10 13:50:07 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5947 |    891 |  -7921   | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7560 |    419 | -13716   | 0.06 | -0.18 |
 
-|    | finish                   | time                | track         |   race |   number | name               |   odds | tipster            |
-|---:|:-------------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:                   | 2021-12-11 04:55:00 | greyville     |      7 |        2 | Time To Roll       |   0    | vulture            |
-|  1 | :soon:                   | 2021-12-11 02:00:00 | cheltenham    |      6 |       13 | Fox Pro            |  41    | overthrow          |
-|  2 | :soon:                   | 2021-12-11 01:55:00 | greyville     |      2 |        3 | Herecomestherain   |   0    | vulture            |
-|  3 | :soon:                   | 2021-12-11 01:50:00 | doncaster     |      6 |        2 | Creative Control   |   0    | vulture            |
-|  4 | :soon:                   | 2021-12-11 01:25:00 | cheltenham    |      5 |        2 | Enrilo             |   3.7  | overthrow,milkman  |
-|  5 | :soon:                   | 2021-12-11 00:40:00 | doncaster     |      4 |        1 | Flic Ou Voyou      |   0    | overthrow          |
-|  6 | :soon:                   | 2021-12-11 00:15:00 | cheltenham    |      3 |        4 | Broomfield Burg    |   3    | overthrow          |
-|  7 | :soon:                   | 2021-12-11 00:05:00 | doncaster     |      3 |        4 | Dash Full Of Cash  |   0    | vulture            |
-|  8 | :soon:                   | 2021-12-10 23:40:00 | cheltenham    |      2 |        3 | Barbados Buck's    |   6    | overthrow          |
-|  9 | :soon:                   | 2021-12-10 23:30:00 | doncaster     |      2 |        4 | The Mighty Arc     |   0    | vulture            |
-| 10 | :soon:                   | 2021-12-10 23:05:00 | cheltenham    |      1 |        4 | Washington         |   3.6  | vulture,milkman    |
-| 11 | :soon:                   | 2021-12-10 23:05:00 | cheltenham    |      1 |        3 | Jpr One            |   3.75 | vulture            |
-| 12 | :soon:                   | 2021-12-10 23:05:00 | cheltenham    |      1 |        2 | Hartur D'oudairies |   2.3  | evenodds,lago      |
-| 13 | :soon:                   | 2021-12-10 22:55:00 | doncaster     |      1 |       13 | Master Malachy     |   0    | vulture            |
-| 14 | :soon:                   | 2021-12-10 20:30:00 | canterbury    |      6 |        1 | Zegalo             |   9    | wallbow            |
-| 15 | :soon:                   | 2021-12-10 20:30:00 | canterbury    |      6 |        5 | Relucent           |  12    | vulture,pangea     |
-| 16 | :soon:                   | 2021-12-10 20:30:00 | canterbury    |      6 |        7 | Banger             |  10    | vulture,pangea     |
-| 17 | :soon:                   | 2021-12-10 20:00:00 | canterbury    |      5 |        6 | Ocean Emperor      |   7    | pangea             |
-| 18 | :soon:                   | 2021-12-10 20:00:00 | canterbury    |      5 |        8 | Almighty Rising    |   5    | pangea             |
-| 19 | :soon:                   | 2021-12-10 19:10:00 | moonee-valley |      3 |        4 | Surcote            |   6    | looseknot          |
-| 20 | :soon:                   | 2021-12-10 19:00:00 | canterbury    |      3 |        3 | Pizarro            |   2.7  | vulture            |
-| 21 | :soon:                   | 2021-12-10 18:30:00 | canterbury    |      2 |        5 | Fearnought         |   5.5  | wallbow            |
-| 22 | :soon:                   | 2021-12-10 18:14:00 | doomben       |      6 |        2 | Niccanova          |   4.5  | pangea,blackshadow |
-| 23 | :soon:                   | 2021-12-10 18:14:00 | doomben       |      6 |        3 | Ligulate           |   3.3  | pangea             |
-| 24 | :soon:                   | 2021-12-10 17:34:00 | murwillumbah  |      8 |        4 | I'm Gunna Cashew   |   7    | vulture            |
-| 25 | :soon:                   | 2021-12-10 17:30:00 | geelong       |      8 |        9 | Zeitakuna          |   5.5  | vulture,milkman    |
-| 26 | :soon:                   | 2021-12-10 17:20:00 | scone         |      7 |        7 | Excelness          |   4.75 | pangea             |
-| 27 | :soon:                   | 2021-12-10 17:20:00 | scone         |      7 |        5 | Invincible Ninja   |   7    | vulture            |
-| 28 | :soon:                   | 2021-12-10 16:22:00 | doomben       |      3 |        6 | Abracadazzle       |   4.5  | pangea,overthrow   |
-| 29 | :soon:                   | 2021-12-10 15:42:00 | doomben       |      2 |        4 | Crockett           |   5.5  | vulture            |
-| 30 | :hourglass_flowing_sand: | 2021-12-10 13:50:00 | murwillumbah  |      2 |        5 | Diana Rocks        |   2.15 | vulture            |
+|    | finish   | time                | track         |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2021-12-11 04:55:00 | greyville     |      7 |        2 | Time To Roll       |   0    | vulture            |
+|  1 | :soon:   | 2021-12-11 02:00:00 | cheltenham    |      6 |       13 | Fox Pro            |  41    | overthrow          |
+|  2 | :soon:   | 2021-12-11 01:55:00 | greyville     |      2 |        3 | Herecomestherain   |   0    | vulture            |
+|  3 | :soon:   | 2021-12-11 01:50:00 | doncaster     |      6 |        2 | Creative Control   |   0    | vulture            |
+|  4 | :soon:   | 2021-12-11 01:25:00 | cheltenham    |      5 |        2 | Enrilo             |   3.7  | overthrow,milkman  |
+|  5 | :soon:   | 2021-12-11 00:40:00 | doncaster     |      4 |        1 | Flic Ou Voyou      |   0    | overthrow          |
+|  6 | :soon:   | 2021-12-11 00:15:00 | cheltenham    |      3 |        4 | Broomfield Burg    |   3    | overthrow          |
+|  7 | :soon:   | 2021-12-11 00:05:00 | doncaster     |      3 |        4 | Dash Full Of Cash  |   0    | vulture            |
+|  8 | :soon:   | 2021-12-10 23:40:00 | cheltenham    |      2 |        3 | Barbados Buck's    |   6    | overthrow          |
+|  9 | :soon:   | 2021-12-10 23:30:00 | doncaster     |      2 |        4 | The Mighty Arc     |   0    | vulture            |
+| 10 | :soon:   | 2021-12-10 23:05:00 | cheltenham    |      1 |        4 | Washington         |   3.6  | vulture,milkman    |
+| 11 | :soon:   | 2021-12-10 23:05:00 | cheltenham    |      1 |        3 | Jpr One            |   3.75 | vulture            |
+| 12 | :soon:   | 2021-12-10 23:05:00 | cheltenham    |      1 |        2 | Hartur D'oudairies |   2.3  | evenodds,lago      |
+| 13 | :soon:   | 2021-12-10 22:55:00 | doncaster     |      1 |       13 | Master Malachy     |   0    | vulture            |
+| 14 | :soon:   | 2021-12-10 20:30:00 | canterbury    |      6 |        1 | Zegalo             |   9    | wallbow            |
+| 15 | :soon:   | 2021-12-10 20:30:00 | canterbury    |      6 |        5 | Relucent           |  12    | vulture,pangea     |
+| 16 | :soon:   | 2021-12-10 20:30:00 | canterbury    |      6 |        7 | Banger             |  10    | vulture,pangea     |
+| 17 | :soon:   | 2021-12-10 20:00:00 | canterbury    |      5 |        6 | Ocean Emperor      |   7    | pangea             |
+| 18 | :soon:   | 2021-12-10 20:00:00 | canterbury    |      5 |        8 | Almighty Rising    |   5    | pangea             |
+| 19 | :soon:   | 2021-12-10 19:10:00 | moonee-valley |      3 |        4 | Surcote            |   6    | looseknot          |
+| 20 | :soon:   | 2021-12-10 19:00:00 | canterbury    |      3 |        3 | Pizarro            |   2.7  | vulture            |
+| 21 | :soon:   | 2021-12-10 18:30:00 | canterbury    |      2 |        5 | Fearnought         |   5.5  | wallbow            |
+| 22 | :soon:   | 2021-12-10 18:14:00 | doomben       |      6 |        2 | Niccanova          |   4.5  | pangea,blackshadow |
+| 23 | :soon:   | 2021-12-10 18:14:00 | doomben       |      6 |        3 | Ligulate           |   3.3  | pangea             |
+| 24 | :soon:   | 2021-12-10 17:34:00 | murwillumbah  |      8 |        4 | I'm Gunna Cashew   |   7    | vulture            |
+| 25 | :soon:   | 2021-12-10 17:30:00 | geelong       |      8 |        9 | Zeitakuna          |   5.5  | vulture,milkman    |
+| 26 | :soon:   | 2021-12-10 17:20:00 | scone         |      7 |        7 | Excelness          |   4.75 | pangea             |
+| 27 | :soon:   | 2021-12-10 17:20:00 | scone         |      7 |        5 | Invincible Ninja   |   7    | vulture            |
+| 28 | :soon:   | 2021-12-10 16:22:00 | doomben       |      3 |        6 | Abracadazzle       |   4.5  | pangea,overthrow   |
+| 29 | :soon:   | 2021-12-10 15:42:00 | doomben       |      2 |        4 | Crockett           |   5.5  | vulture            |
+| 30 | --       | 2021-12-10 13:50:00 | murwillumbah  |      2 |        5 | Diana Rocks        |   2.15 | vulture            |
