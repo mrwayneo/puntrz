@@ -1,22 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-11 10:28:36 +1000  
+date: 2021-12-11 10:43:34 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      1 |     15   | 0.25 |  0.38 |
-| Last 28 Days   |     21 |     10 |      5   | 0.48 |  0.02 |
-| Last 6 Months  |     92 |     58 |   1422.8 | 0.63 |  1.55 |
-| Since Jan 2020 |    148 |     81 |   1483.8 | 0.55 |  1    |
+| Last 7 Days    |      3 |      1 |     25   | 0.33 |  0.83 |
+| Last 28 Days   |     20 |     10 |     15   | 0.5  |  0.08 |
+| Last 6 Months  |     91 |     58 |   1432.8 | 0.64 |  1.57 |
+| Since Jan 2020 |    147 |     81 |   1493.8 | 0.55 |  1.02 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 0                 | 2021-12-10 | cheltenham R1          | 2 Hartur D'oudairies |  0    |    -10   |
-| 0                 | 2021-12-09 | lingfield R2           | 5 Corey's Courage    |  0    |    -10   |
+| 99                | 2021-12-10 | cheltenham R1          | 2 Hartur D'oudairies |  0    |    -10   |
 | 4                 | 2021-12-08 | uttoxeter R7           | 13 Wolfspear         |  3.7  |    -10   |
 | :boom:            | 2021-12-07 | ludlow R7              | 9 Fancy Stuff        |  5.5  |     45   |
 | 99                | 2021-12-06 | huntingdon R6          | 9 Presenting Nelly   |  0    |    -10   |

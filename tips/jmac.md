@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-11 10:28:35 +1000  
+date: 2021-12-11 10:43:34 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event             | runner               |   win |   return |
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
-| 0                 | 2021-12-09 | happy-valley R9   | 6 Savaquin           |  0    |    -10   |
+| 8                 | 2021-12-09 | happy-valley R9   | 6 Savaquin           |  0    |    -10   |
 | :boom:            | 2021-12-04 | rosehill R10      | 10 El Buena          |  7.7  |     67   |
 | :2nd_place_medal: | 2021-12-04 | rosehill R9       | 3 Bigboyroy          |  4.4  |    -10   |
 | :2nd_place_medal: | 2021-12-04 | rosehill R8       | 1 Francesco Guardi   |  3.1  |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-11 10:28:36 +1000  
+date: 2021-12-11 10:43:35 +1000  
 categories: None 
 ---   
 
@@ -17,10 +17,10 @@ categories: None
 |:------------------|:-----------|:--------------------|:----------------------|-------:|---------:|
 | 01:12             | 2021-12-12 | fairyhouse R6       | 15 Merry Moves        |  12    |    -10   |
 | 01:12             | 2021-12-12 | fairyhouse R6       | 3 Bearwithmenow       | 101    |    -10   |
-| 0                 | 2021-12-11 | cheltenham R4       | 9 Oriental Cross      |   0    |    -10   |
+| 99                | 2021-12-11 | cheltenham R4       | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5         | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6       | 8 Precious            |   0    |    -10   |
-| 0                 | 2021-12-05 | navan R7            | 4 Foxy Jacks          |   0    |    -10   |
+| 99                | 2021-12-05 | navan R7            | 4 Foxy Jacks          |   0    |    -10   |
 | 99                | 2021-12-05 | chepstow R6         | 7 Iberio              |   0    |    -10   |
 | 8                 | 2021-12-04 | doomben R10         | 13 Inasec             |  23    |    -10   |
 | 14                | 2021-12-04 | racing.com-park R7  | 7 Pappalino           |  19    |    -10   |
@@ -30,11 +30,11 @@ categories: None
 | 12                | 2021-11-28 | warrnambool R4      | 1 Steam Roller        | 101    |    -10   |
 | 0                 | 2021-11-28 | bangor R7           | 10 Supreme Gift       |   0    |    -10   |
 | 4                 | 2021-11-28 | fairyhouse R8       | 1 Bravo Team          |  10    |    -10   |
-| 0                 | 2021-11-25 | lingfield R2        | 2 Doitforthevillage   |   0    |    -10   |
+| 99                | 2021-11-25 | lingfield R2        | 2 Doitforthevillage   |   0    |    -10   |
 | 10                | 2021-11-25 | otaki R4            | 8 Boston Strong Boy   |  13    |    -10   |
 | :3rd_place_medal: | 2021-11-24 | belmont R7          | 6 Let's Galahvant     |  11    |    -10   |
 | 99                | 2021-11-18 | ffos-las R3         | 12 Fashion's Model    |   0    |    -10   |
-| 0                 | 2021-11-18 | hexham R3           | 1 Andante             |   0    |    -10   |
+| 99                | 2021-11-18 | hexham R3           | 1 Andante             |   0    |    -10   |
 | :3rd_place_medal: | 2021-11-11 | mackay R6           | 6 Schatzi             |  10    |    -10   |
 | 99                | 2021-11-07 | naas R4             | 18 Sweet Sting        |   0    |    -10   |
 | 4                 | 2021-11-06 | naas R2             | 4 An Epic Song        |  26    |    -10   |
