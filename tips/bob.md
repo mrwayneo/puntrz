@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-11 07:58:32 +1000  
+date: 2021-12-11 09:27:03 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event               | runner                |    win |   return |
 |:------------------|:-----------|:--------------------|:----------------------|-------:|---------:|
+| 01:12             | 2021-12-12 | fairyhouse R6       | 15 Merry Moves        |  12    |    -10   |
+| 01:12             | 2021-12-12 | fairyhouse R6       | 3 Bearwithmenow       | 101    |    -10   |
 | 0                 | 2021-12-11 | cheltenham R4       | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5         | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6       | 8 Precious            |   0    |    -10   |
@@ -181,8 +183,8 @@ categories: None
 | 9                 | 2021-03-29 | grafton R2          | 7 Medusa's Fury       |   9.1  |    -10   |
 | 9                 | 2021-03-27 | morphettville R3    | 8 Oath Of Omerta      |  21    |    -10   |
 | 99                | 2021-03-27 | dundalk R5          | 2 Doolin Dancer       |  21    |    -10   |
-| 99                | 2021-03-26 | cork R7             | 14 Paper Lantern      | 101    |    -10   |
 | 99                | 2021-03-26 | cork R7             | 2 Optum               |  15    |    -10   |
+| 99                | 2021-03-26 | cork R7             | 14 Paper Lantern      | 101    |    -10   |
 | 99                | 2021-03-25 | hereford R6         | 7 Manor Park          |  34    |    -10   |
 | 99                | 2021-03-21 | thurles R3          | 9 Pateen              |  81    |    -10   |
 | 11                | 2021-03-20 | eagle-farm R9       | 14 Our Rebel          |  63    |    -10   |
