@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-10 20:21:42 +1000  
+date: 2021-12-10 20:36:37 +1000  
 ---   
 
 
@@ -91,9 +91,9 @@ date: 2021-12-10 20:21:42 +1000
 | 11 | :soon:            | 2021-12-10 23:05:00 | cheltenham    |      1 |        3 | Jpr One            |   3.75 | vulture            |
 | 12 | :soon:            | 2021-12-10 23:05:00 | cheltenham    |      1 |        2 | Hartur D'oudairies |   2.3  | evenodds,lago      |
 | 13 | :soon:            | 2021-12-10 22:55:00 | doncaster     |      1 |       13 | Master Malachy     |   0    | vulture            |
-| 14 | :soon:            | 2021-12-10 20:30:00 | canterbury    |      6 |        1 | Zegalo             |   9    | wallbow            |
-| 15 | :soon:            | 2021-12-10 20:30:00 | canterbury    |      6 |        5 | Relucent           |  12    | vulture,pangea     |
-| 16 | :soon:            | 2021-12-10 20:30:00 | canterbury    |      6 |        7 | Banger             |  10    | vulture,pangea     |
+| 14 | --                | 2021-12-10 20:30:00 | canterbury    |      6 |        1 | Zegalo             |   9    | wallbow            |
+| 15 | --                | 2021-12-10 20:30:00 | canterbury    |      6 |        5 | Relucent           |  12    | vulture,pangea     |
+| 16 | 4.0               | 2021-12-10 20:30:00 | canterbury    |      6 |        7 | Banger             |  10    | vulture,pangea     |
 | 17 | --                | 2021-12-10 20:00:00 | canterbury    |      5 |        6 | Ocean Emperor      |   7    | pangea             |
 | 18 | 5.0               | 2021-12-10 20:00:00 | canterbury    |      5 |        8 | Almighty Rising    |   5    | pangea             |
 | 19 | 7.0               | 2021-12-10 19:10:00 | moonee-valley |      3 |        4 | Surcote            |   6    | looseknot          |

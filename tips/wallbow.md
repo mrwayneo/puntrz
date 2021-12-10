@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2021-12-10 20:21:37 +1000  
+date: 2021-12-10 20:36:31 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event             | runner             |   win |   return |
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
-| 20:30             | 2021-12-10 | canterbury R6     | 1 Zegalo           |  9    |      -10 |
+| 0                 | 2021-12-10 | canterbury R6     | 1 Zegalo           |  0    |      -10 |
 | 4                 | 2021-12-10 | canterbury R2     | 5 Fearnought       |  5.5  |      -10 |
 | :boom:            | 2021-12-08 | warwick-farm R5   | 3 Black Queen      |  2.8  |       18 |
 | :boom:            | 2021-12-08 | warwick-farm R4   | 5 Niffler          |  1.7  |        7 |
