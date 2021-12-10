@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-10 19:06:39 +1000  
+date: 2021-12-10 19:21:40 +1000  
 ---   
 
 
@@ -21,7 +21,7 @@ date: 2021-12-10 19:06:39 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     17 |      0 |     -170 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     17 |      0 |     -170 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      0 |     -380 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |    107 |      4 |     -973 | 0.04 | -0.91 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |    107 |      5 |     -939 | 0.05 | -0.88 |
 
 ##### Form Last 20 tips   
 
@@ -96,7 +96,7 @@ date: 2021-12-10 19:06:39 +1000
 | 16 | :soon:            | 2021-12-10 20:30:00 | canterbury    |      6 |        7 | Banger             |  10    | vulture,pangea     |
 | 17 | :soon:            | 2021-12-10 20:00:00 | canterbury    |      5 |        6 | Ocean Emperor      |   7    | pangea             |
 | 18 | :soon:            | 2021-12-10 20:00:00 | canterbury    |      5 |        8 | Almighty Rising    |   5    | pangea             |
-| 19 | :soon:            | 2021-12-10 19:10:00 | moonee-valley |      3 |        4 | Surcote            |   6    | looseknot          |
+| 19 | 7.0               | 2021-12-10 19:10:00 | moonee-valley |      3 |        4 | Surcote            |   6    | looseknot          |
 | 20 | :2nd_place_medal: | 2021-12-10 19:00:00 | canterbury    |      3 |        3 | Pizarro            |   2.7  | vulture            |
 | 21 | 4.0               | 2021-12-10 18:30:00 | canterbury    |      2 |        5 | Fearnought         |   5.5  | wallbow            |
 | 22 | :2nd_place_medal: | 2021-12-10 18:14:00 | doomben       |      6 |        2 | Niccanova          |   4.5  | pangea,blackshadow |
