@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-10 17:00:42 +1000  
+date: 2021-12-10 17:21:31 +1000  
 ---   
 
 
@@ -103,8 +103,8 @@ date: 2021-12-10 17:00:42 +1000
 | 23 | :soon:            | 2021-12-10 18:14:00 | doomben       |      6 |        3 | Ligulate           |   3.3  | pangea             |
 | 24 | :soon:            | 2021-12-10 17:34:00 | murwillumbah  |      8 |        4 | I'm Gunna Cashew   |   7    | vulture            |
 | 25 | :soon:            | 2021-12-10 17:30:00 | geelong       |      8 |        9 | Zeitakuna          |   5.5  | vulture,milkman    |
-| 26 | :soon:            | 2021-12-10 17:20:00 | scone         |      7 |        7 | Excelness          |   4.75 | pangea             |
-| 27 | :soon:            | 2021-12-10 17:20:00 | scone         |      7 |        5 | Invincible Ninja   |   7    | vulture            |
+| 26 | --                | 2021-12-10 17:20:00 | scone         |      7 |        7 | Excelness          |   4.75 | pangea             |
+| 27 | --                | 2021-12-10 17:20:00 | scone         |      7 |        5 | Invincible Ninja   |   7    | vulture            |
 | 28 | :3rd_place_medal: | 2021-12-10 16:22:00 | doomben       |      3 |        6 | Abracadazzle       |   4.5  | pangea,overthrow   |
 | 29 | 4.0               | 2021-12-10 15:42:00 | doomben       |      2 |        4 | Crockett           |   5.5  | vulture            |
 | 30 | --                | 2021-12-10 13:50:00 | murwillumbah  |      2 |        5 | Diana Rocks        |   2.15 | vulture            |
