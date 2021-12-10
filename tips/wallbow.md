@@ -1,22 +1,21 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2021-12-11 10:13:22 +1000  
+date: 2021-12-11 10:28:31 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      2 |       -5 | 0.4  | -0.1  |
-| Last 28 Days   |     12 |      2 |      -75 | 0.17 | -0.62 |
-| Last 6 Months  |     51 |      8 |     -244 | 0.16 | -0.48 |
-| Since Jan 2020 |     88 |     13 |      180 | 0.15 |  0.2  |
+| Last 7 Days    |      4 |      2 |        5 | 0.5  |  0.12 |
+| Last 28 Days   |     11 |      2 |      -65 | 0.18 | -0.59 |
+| Last 6 Months  |     50 |      8 |     -234 | 0.16 | -0.47 |
+| Since Jan 2020 |     87 |     13 |      190 | 0.15 |  0.22 |
 
 | finish            | date       | event             | runner             |   win |   return |
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
-| 14:05             | 2021-12-11 | randwick R4       | 1 Mightybeel       |  3.25 |      -10 |
-| 0                 | 2021-12-10 | canterbury R6     | 1 Zegalo           |  0    |      -10 |
+| 14:05             | 2021-12-11 | randwick R4       | 1 Mightybeel       |  3.3  |      -10 |
 | 4                 | 2021-12-10 | canterbury R2     | 5 Fearnought       |  5.5  |      -10 |
 | :boom:            | 2021-12-08 | warwick-farm R5   | 3 Black Queen      |  2.8  |       18 |
 | :boom:            | 2021-12-08 | warwick-farm R4   | 5 Niffler          |  1.7  |        7 |
