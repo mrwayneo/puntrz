@@ -1,108 +1,108 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-12-10 22:36:43 +1000  
+date: 2021-12-11 07:58:28 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    251 |     21 |   -918.8 | 0.08 | -0.37 |
-| Last 28 Days   |    945 |    102 |  -4284   | 0.11 | -0.45 |
-| Last 6 Months  |   6167 |    926 |  -8958.2 | 0.15 | -0.15 |
-| Since Jan 2020 |   9692 |   1586 | -11637.1 | 0.16 | -0.12 |
+| Last 7 Days    |    321 |     26 |  -1442   | 0.08 | -0.45 |
+| Last 28 Days   |   1003 |     99 |  -4791   | 0.1  | -0.48 |
+| Last 6 Months  |   6274 |    933 |  -9803.2 | 0.15 | -0.16 |
+| Since Jan 2020 |   9799 |   1593 | -12482.1 | 0.16 | -0.13 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 06:30             | 2021-12-11 | dundalk R8                    | 4 Cityman             |   0    |    -10   |
-| 06:30             | 2021-12-11 | dundalk R8                    | 6 Skontonovski        |   0    |    -10   |
-| 06:30             | 2021-12-11 | dundalk R8                    | 9 London Palladium    |   0    |    -10   |
-| 06:30             | 2021-12-11 | dundalk R8                    | 12 Annabelle Rock     |   0    |    -10   |
-| 06:30             | 2021-12-11 | dundalk R8                    | 13 Red Cymbal         |   0    |    -10   |
-| 06:30             | 2021-12-11 | dundalk R8                    | 14 King's View        |   0    |    -10   |
-| 06:15             | 2021-12-11 | southwell R7                  | 9 Mulberry Silk       |   2.5  |    -10   |
-| 06:00             | 2021-12-11 | dundalk R7                    | 5 Sister Lola         |   0    |    -10   |
-| 06:00             | 2021-12-11 | dundalk R7                    | 7 Sister Rosetta      |   0    |    -10   |
-| 06:00             | 2021-12-11 | dundalk R7                    | 10 Independent Missy  |   0    |    -10   |
-| 06:00             | 2021-12-11 | dundalk R7                    | 3 Arcanears           |   0    |    -10   |
-| 06:00             | 2021-12-11 | dundalk R7                    | 1 Dream Today         |   0    |    -10   |
-| 05:30             | 2021-12-11 | dundalk R6                    | 13 Teddy Boy          |   0    |    -10   |
-| 05:30             | 2021-12-11 | greyville R8                  | 4 Pineview            |   0    |    -10   |
-| 05:30             | 2021-12-11 | dundalk R6                    | 12 Robert Guiscard    |   0    |    -10   |
-| 05:30             | 2021-12-11 | dundalk R6                    | 8 Tynamite            |   0    |    -10   |
-| 05:30             | 2021-12-11 | dundalk R6                    | 5 Mass Gathering      |   0    |    -10   |
-| 05:30             | 2021-12-11 | dundalk R6                    | 1 Burning Lake        |   0    |    -10   |
-| 05:30             | 2021-12-11 | dundalk R6                    | 3 Kendred Soul        |   0    |    -10   |
-| 05:30             | 2021-12-11 | dundalk R6                    | 4 Fit For Function    |   0    |    -10   |
-| 05:00             | 2021-12-11 | dundalk R5                    | 1 Business            |   0    |    -10   |
-| 05:00             | 2021-12-11 | dundalk R5                    | 10 Pocket Veto        |   0    |    -10   |
-| 05:00             | 2021-12-11 | dundalk R5                    | 12 Surprising Power   |   0    |    -10   |
-| 05:00             | 2021-12-11 | dundalk R5                    | 7 Prince Of Peace     |   0    |    -10   |
-| 04:55             | 2021-12-11 | greyville R7                  | 5 Alfonse Baby        |   0    |    -10   |
-| 04:55             | 2021-12-11 | greyville R7                  | 6 Jack's Bird         |   0    |    -10   |
-| 04:55             | 2021-12-11 | greyville R7                  | 7 Purple Persuasion   |   0    |    -10   |
-| 04:55             | 2021-12-11 | greyville R7                  | 8 Wishful Girl Linn   |   0    |    -10   |
-| 04:55             | 2021-12-11 | greyville R7                  | 9 Quepid              |   0    |    -10   |
-| 04:45             | 2021-12-11 | southwell R4                  | 5 Danni California    |   2.1  |    -10   |
-| 04:30             | 2021-12-11 | dundalk R4                    | 7 Clarinbridge        |   0    |    -10   |
-| 04:30             | 2021-12-11 | dundalk R4                    | 5 Gunners Dream       |   0    |    -10   |
-| 04:30             | 2021-12-11 | dundalk R4                    | 2 Kirsapp             |   0    |    -10   |
-| 04:20             | 2021-12-11 | greyville R6                  | 11 Living Waters      |   0    |    -10   |
-| 04:20             | 2021-12-11 | greyville R6                  | 1 Twice The Flight    |   0    |    -10   |
-| 04:20             | 2021-12-11 | greyville R6                  | 2 Roy's Command       |   0    |    -10   |
-| 03:40             | 2021-12-11 | greyville R5                  | 3 Path To Fortune     |   0    |    -10   |
-| 03:40             | 2021-12-11 | greyville R5                  | 12 Sea Sponge         |   0    |    -10   |
-| 03:40             | 2021-12-11 | greyville R5                  | 11 Justfortheepenny   |   0    |    -10   |
-| 03:40             | 2021-12-11 | greyville R5                  | 8 Captain Zee         |   0    |    -10   |
-| 03:40             | 2021-12-11 | greyville R5                  | 6 The Appeal          |   0    |    -10   |
-| 03:00             | 2021-12-11 | dundalk R1                    | 14 Trump Card         |   0    |    -10   |
-| 03:00             | 2021-12-11 | dundalk R1                    | 2 Magic Word          |   0    |    -10   |
-| 03:00             | 2021-12-11 | dundalk R1                    | 5 Ellaat              |   0    |    -10   |
-| 03:00             | 2021-12-11 | dundalk R1                    | 11 Quiet Desire       |   0    |    -10   |
-| 02:45             | 2021-12-11 | bangor R7                     | 9 Rockinastorm        |   0    |    -10   |
-| 02:45             | 2021-12-11 | bangor R7                     | 7 Inflagrante         |   0    |    -10   |
-| 02:30             | 2021-12-11 | greyville R3                  | 9 Big Sky Country     |   0    |    -10   |
-| 02:30             | 2021-12-11 | greyville R3                  | 2 Naoshima            |   0    |    -10   |
-| 02:30             | 2021-12-11 | greyville R3                  | 8 Retail Therapy      |   0    |    -10   |
-| 02:30             | 2021-12-11 | greyville R3                  | 4 Flashy Kaitrina     |   0    |    -10   |
-| 02:30             | 2021-12-11 | greyville R3                  | 3 Purple Nkanyezi     |   0    |    -10   |
-| 02:30             | 2021-12-11 | greyville R3                  | 10 Lady Legend        |   0    |    -10   |
-| 01:55             | 2021-12-11 | greyville R2                  | 6 Majorca Palace      |   0    |    -10   |
-| 01:50             | 2021-12-11 | doncaster R6                  | 4 Greenrock Abbey     |   0    |    -10   |
-| 01:50             | 2021-12-11 | doncaster R6                  | 9 Dare To Begin       |   0    |    -10   |
-| 01:35             | 2021-12-11 | fairview R8                   | 1 On Your Marks       |   0    |    -10   |
-| 01:35             | 2021-12-11 | fairview R8                   | 3 Cape Point          |   0    |    -10   |
-| 01:35             | 2021-12-11 | fairview R8                   | 9 Nussply             |   0    |    -10   |
-| 01:00             | 2021-12-11 | fairview R7                   | 2 Wild Coast          |   0    |    -10   |
-| 01:00             | 2021-12-11 | fairview R7                   | 3 Oscar Wilde         |   0    |    -10   |
-| 01:00             | 2021-12-11 | fairview R7                   | 6 Guru's Pride        |   0    |    -10   |
-| 01:00             | 2021-12-11 | fairview R7                   | 11 Thomas Tucker      |   0    |    -10   |
-| 00:25             | 2021-12-11 | fairview R6                   | 12 Abia               |   0    |    -10   |
-| 00:25             | 2021-12-11 | fairview R6                   | 1 Ideal Angel         |   0    |    -10   |
-| 00:25             | 2021-12-11 | fairview R6                   | 2 Malteza             |   0    |    -10   |
-| 00:25             | 2021-12-11 | fairview R6                   | 13 Dancing Girl       |   0    |    -10   |
-| 00:25             | 2021-12-11 | fairview R6                   | 10 Street Dancing     |   0    |    -10   |
-| 00:25             | 2021-12-11 | fairview R6                   | 9 Ashwaaq             |   0    |    -10   |
-| 00:25             | 2021-12-11 | fairview R6                   | 7 Mayfern             |   0    |    -10   |
-| 00:25             | 2021-12-11 | fairview R6                   | 6 Honey Pie           |   0    |    -10   |
-| 00:25             | 2021-12-11 | fairview R6                   | 14 Trippin The Stars  |   0    |    -10   |
-| 00:05             | 2021-12-11 | doncaster R3                  | 1 Amenon              |   0    |    -10   |
-| 23:50             | 2021-12-10 | fairview R5                   | 5 King Julian         |   0    |    -10   |
-| 23:50             | 2021-12-10 | fairview R5                   | 8 Rock With Me        |   0    |    -10   |
-| 23:50             | 2021-12-10 | fairview R5                   | 10 Wangan Midnight    |   0    |    -10   |
-| 23:50             | 2021-12-10 | fairview R5                   | 11 On The Warpath     |   0    |    -10   |
-| 23:50             | 2021-12-10 | fairview R5                   | 7 Constellation Code  |   0    |    -10   |
-| 23:30             | 2021-12-10 | doncaster R2                  | 1 Get Your Own        |   0    |    -10   |
-| 23:30             | 2021-12-10 | doncaster R2                  | 9 Exit To Where       |   0    |    -10   |
-| 23:30             | 2021-12-10 | doncaster R2                  | 10 Morgenstern        |   0    |    -10   |
-| 23:10             | 2021-12-10 | fairview R4                   | 6 Sovereign Supreme   |   0    |    -10   |
-| 23:10             | 2021-12-10 | fairview R4                   | 9 Timkat              |   0    |    -10   |
-| 23:10             | 2021-12-10 | fairview R4                   | 10 Madame Patrice     |   0    |    -10   |
-| 23:10             | 2021-12-10 | fairview R4                   | 4 The Ghan            |   0    |    -10   |
-| 22:55             | 2021-12-10 | doncaster R1                  | 3 Twin Star           |   0    |    -10   |
-| 22:55             | 2021-12-10 | doncaster R1                  | 4 Saint Arvans        |   0    |    -10   |
-| 22:55             | 2021-12-10 | doncaster R1                  | 5 Pinkie Brown        |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R8                    | 4 Cityman             |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R8                    | 6 Skontonovski        |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R8                    | 9 London Palladium    |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R8                    | 12 Annabelle Rock     |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R8                    | 13 Red Cymbal         |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R8                    | 14 King's View        |   0    |    -10   |
+| 0                 | 2021-12-11 | southwell R7                  | 9 Mulberry Silk       |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R7                    | 5 Sister Lola         |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R7                    | 7 Sister Rosetta      |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R7                    | 10 Independent Missy  |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R7                    | 3 Arcanears           |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R7                    | 1 Dream Today         |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R6                    | 13 Teddy Boy          |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R8                  | 4 Pineview            |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R6                    | 12 Robert Guiscard    |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R6                    | 8 Tynamite            |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R6                    | 5 Mass Gathering      |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R6                    | 1 Burning Lake        |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R6                    | 3 Kendred Soul        |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R6                    | 4 Fit For Function    |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R5                    | 1 Business            |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R5                    | 10 Pocket Veto        |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R5                    | 12 Surprising Power   |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R5                    | 7 Prince Of Peace     |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R7                  | 5 Alfonse Baby        |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R7                  | 6 Jack's Bird         |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R7                  | 7 Purple Persuasion   |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R7                  | 8 Wishful Girl Linn   |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R7                  | 9 Quepid              |   0    |    -10   |
+| 0                 | 2021-12-11 | southwell R4                  | 5 Danni California    |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R4                    | 7 Clarinbridge        |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R4                    | 5 Gunners Dream       |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R4                    | 2 Kirsapp             |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R6                  | 11 Living Waters      |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R6                  | 1 Twice The Flight    |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R6                  | 2 Roy's Command       |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R5                  | 3 Path To Fortune     |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R5                  | 12 Sea Sponge         |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R5                  | 11 Justfortheepenny   |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R5                  | 8 Captain Zee         |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R5                  | 6 The Appeal          |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R1                    | 14 Trump Card         |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R1                    | 2 Magic Word          |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R1                    | 5 Ellaat              |   0    |    -10   |
+| 0                 | 2021-12-11 | dundalk R1                    | 11 Quiet Desire       |   0    |    -10   |
+| 0                 | 2021-12-11 | bangor R7                     | 9 Rockinastorm        |   0    |    -10   |
+| 0                 | 2021-12-11 | bangor R7                     | 7 Inflagrante         |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R3                  | 9 Big Sky Country     |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R3                  | 2 Naoshima            |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R3                  | 8 Retail Therapy      |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R3                  | 4 Flashy Kaitrina     |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R3                  | 3 Purple Nkanyezi     |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R3                  | 10 Lady Legend        |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R2                  | 6 Majorca Palace      |   0    |    -10   |
+| 0                 | 2021-12-11 | doncaster R6                  | 4 Greenrock Abbey     |   0    |    -10   |
+| 0                 | 2021-12-11 | doncaster R6                  | 9 Dare To Begin       |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R8                   | 1 On Your Marks       |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R8                   | 3 Cape Point          |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R8                   | 9 Nussply             |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R7                   | 2 Wild Coast          |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R7                   | 3 Oscar Wilde         |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R7                   | 6 Guru's Pride        |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R7                   | 11 Thomas Tucker      |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R6                   | 12 Abia               |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R6                   | 1 Ideal Angel         |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R6                   | 2 Malteza             |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R6                   | 13 Dancing Girl       |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R6                   | 10 Street Dancing     |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R6                   | 9 Ashwaaq             |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R6                   | 7 Mayfern             |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R6                   | 6 Honey Pie           |   0    |    -10   |
+| 0                 | 2021-12-11 | fairview R6                   | 14 Trippin The Stars  |   0    |    -10   |
+| 0                 | 2021-12-11 | doncaster R3                  | 1 Amenon              |   0    |    -10   |
+| 0                 | 2021-12-10 | fairview R5                   | 5 King Julian         |   0    |    -10   |
+| 0                 | 2021-12-10 | fairview R5                   | 8 Rock With Me        |   0    |    -10   |
+| 0                 | 2021-12-10 | fairview R5                   | 10 Wangan Midnight    |   0    |    -10   |
+| 0                 | 2021-12-10 | fairview R5                   | 11 On The Warpath     |   0    |    -10   |
+| 0                 | 2021-12-10 | fairview R5                   | 7 Constellation Code  |   0    |    -10   |
+| 0                 | 2021-12-10 | doncaster R2                  | 1 Get Your Own        |   0    |    -10   |
+| 0                 | 2021-12-10 | doncaster R2                  | 9 Exit To Where       |   0    |    -10   |
+| 0                 | 2021-12-10 | doncaster R2                  | 10 Morgenstern        |   0    |    -10   |
+| 0                 | 2021-12-10 | fairview R4                   | 6 Sovereign Supreme   |   0    |    -10   |
+| 0                 | 2021-12-10 | fairview R4                   | 9 Timkat              |   0    |    -10   |
+| 0                 | 2021-12-10 | fairview R4                   | 10 Madame Patrice     |   0    |    -10   |
+| 0                 | 2021-12-10 | fairview R4                   | 4 The Ghan            |   0    |    -10   |
+| 0                 | 2021-12-10 | doncaster R1                  | 3 Twin Star           |   0    |    -10   |
+| 0                 | 2021-12-10 | doncaster R1                  | 4 Saint Arvans        |   0    |    -10   |
+| 0                 | 2021-12-10 | doncaster R1                  | 5 Pinkie Brown        |   0    |    -10   |
 | 0                 | 2021-12-10 | fairview R3                   | 8 Blindlove           |   0    |    -10   |
 | 0                 | 2021-12-10 | fairview R3                   | 7 Capulet's Heart     |   0    |    -10   |
 | 0                 | 2021-12-10 | fairview R3                   | 1 Hereinafter         |   0    |    -10   |

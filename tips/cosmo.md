@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-12-10 22:36:42 +1000  
+date: 2021-12-11 07:58:27 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     36 |      1 |     -250 | 0.03 | -0.69 |
-| Last 28 Days   |    272 |     11 |    -1349 | 0.04 | -0.5  |
-| Last 6 Months  |   2547 |    136 |    -2808 | 0.05 | -0.11 |
-| Since Jan 2020 |   4220 |    248 |     -648 | 0.06 | -0.02 |
+| Last 7 Days    |     43 |      1 |     -320 | 0.02 | -0.74 |
+| Last 28 Days   |    258 |     11 |    -1209 | 0.04 | -0.47 |
+| Last 6 Months  |   2564 |    136 |    -2978 | 0.05 | -0.12 |
+| Since Jan 2020 |   4237 |    248 |     -818 | 0.06 | -0.02 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:15             | 2021-12-11 | southwell R5                  | 10 Custard The Dragon |  26    |      -10 |
-| 02:35             | 2021-12-11 | cheltenham R7                 | 5 Shannon Bridge      |  26    |      -10 |
-| 02:35             | 2021-12-11 | cheltenham R7                 | 4 Botox Has           |  10    |      -10 |
-| 02:35             | 2021-12-11 | cheltenham R7                 | 2 Agrapart            |  13    |      -10 |
+| 0                 | 2021-12-11 | southwell R5                  | 10 Custard The Dragon |   0    |      -10 |
+| 0                 | 2021-12-11 | cheltenham R7                 | 5 Shannon Bridge      |   0    |      -10 |
+| 0                 | 2021-12-11 | cheltenham R7                 | 4 Botox Has           |   0    |      -10 |
+| 0                 | 2021-12-11 | cheltenham R7                 | 2 Agrapart            |   0    |      -10 |
 | 7                 | 2021-12-10 | cranbourne R6                 | 3 Cyclone Tim         |  18    |      -10 |
 | 0                 | 2021-12-10 | canterbury R6                 | 8 Rich And Shameless  |   0    |      -10 |
 | 4                 | 2021-12-10 | canterbury R3                 | 12 Sizzle Chic        |  21    |      -10 |

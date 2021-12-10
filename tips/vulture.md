@@ -1,29 +1,29 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2021-12-10 22:36:40 +1000  
+date: 2021-12-11 07:58:25 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     41 |      5 |   -175   | 0.12 | -0.43 |
-| Last 28 Days   |    363 |     83 |   -639.8 | 0.23 | -0.18 |
-| Last 6 Months  |   2973 |    730 |  -3986.5 | 0.25 | -0.13 |
-| Since Jan 2020 |   4908 |   1211 |  -6237   | 0.25 | -0.13 |
+| Last 7 Days    |     45 |      5 |   -215   | 0.11 | -0.48 |
+| Last 28 Days   |    347 |     76 |   -587.8 | 0.22 | -0.17 |
+| Last 6 Months  |   2990 |    730 |  -4156.5 | 0.24 | -0.14 |
+| Since Jan 2020 |   4925 |   1211 |  -6407   | 0.25 | -0.13 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:55             | 2021-12-11 | greyville R7                  | 2 Time To Roll        |   0    |    -10   |
-| 01:55             | 2021-12-11 | greyville R2                  | 3 Herecomestherain    |   0    |    -10   |
-| 01:50             | 2021-12-11 | doncaster R6                  | 2 Creative Control    |   0    |    -10   |
-| 00:05             | 2021-12-11 | doncaster R3                  | 4 Dash Full Of Cash   |   0    |    -10   |
-| 23:30             | 2021-12-10 | doncaster R2                  | 4 The Mighty Arc      |   0    |    -10   |
-| 23:05             | 2021-12-10 | cheltenham R1                 | 4 Washington          |   3.6  |    -10   |
-| 23:05             | 2021-12-10 | cheltenham R1                 | 3 Jpr One             |   3.75 |    -10   |
-| 23:05             | 2021-12-10 | cheltenham R1                 | 2 Hartur D'oudairies  |   2.3  |    -10   |
-| 22:55             | 2021-12-10 | doncaster R1                  | 13 Master Malachy     |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R7                  | 2 Time To Roll        |   0    |    -10   |
+| 0                 | 2021-12-11 | greyville R2                  | 3 Herecomestherain    |   0    |    -10   |
+| 0                 | 2021-12-11 | doncaster R6                  | 2 Creative Control    |   0    |    -10   |
+| 0                 | 2021-12-11 | doncaster R3                  | 4 Dash Full Of Cash   |   0    |    -10   |
+| 0                 | 2021-12-10 | doncaster R2                  | 4 The Mighty Arc      |   0    |    -10   |
+| 0                 | 2021-12-10 | cheltenham R1                 | 4 Washington          |   0    |    -10   |
+| 0                 | 2021-12-10 | cheltenham R1                 | 3 Jpr One             |   0    |    -10   |
+| 0                 | 2021-12-10 | cheltenham R1                 | 2 Hartur D'oudairies  |   0    |    -10   |
+| 0                 | 2021-12-10 | doncaster R1                  | 13 Master Malachy     |   0    |    -10   |
 | 6                 | 2021-12-10 | canterbury R6                 | 5 Relucent            |  12    |    -10   |
 | 4                 | 2021-12-10 | canterbury R6                 | 7 Banger              |  10    |    -10   |
 | :2nd_place_medal: | 2021-12-10 | canterbury R3                 | 3 Pizarro             |   2.7  |    -10   |

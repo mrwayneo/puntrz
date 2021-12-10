@@ -1,34 +1,34 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-12-10 22:36:44 +1000  
+date: 2021-12-11 07:58:29 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    216 |      6 |  -1041   | 0.03 | -0.48 |
-| Last 28 Days   |   1027 |     49 |  -3617.5 | 0.05 | -0.35 |
-| Last 6 Months  |   7966 |    439 | -14837   | 0.06 | -0.19 |
-| Since Jan 2020 |  14798 |    813 | -24852   | 0.05 | -0.17 |
+| Last 7 Days    |    173 |      5 |     -921 | 0.03 | -0.53 |
+| Last 28 Days   |    988 |     47 |    -3388 | 0.05 | -0.34 |
+| Last 6 Months  |   8004 |    439 |   -15217 | 0.05 | -0.19 |
+| Since Jan 2020 |  14836 |    813 |   -25232 | 0.05 | -0.17 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 06:15             | 2021-12-11 | southwell R7                  | 2 Khilwafy            |  13    |    -10   |
-| 05:15             | 2021-12-11 | southwell R5                  | 10 Custard The Dragon |  26    |    -10   |
-| 03:45             | 2021-12-11 | southwell R2                  | 7 No Diggity          |   9.5  |    -10   |
-| 03:15             | 2021-12-11 | southwell R1                  | 14 Mr Dib Dab         |   9.5  |    -10   |
-| 02:35             | 2021-12-11 | cheltenham R7                 | 4 Botox Has           |  10    |    -10   |
-| 02:35             | 2021-12-11 | cheltenham R7                 | 2 Agrapart            |  13    |    -10   |
-| 02:35             | 2021-12-11 | cheltenham R7                 | 5 Shannon Bridge      |  26    |    -10   |
-| 02:00             | 2021-12-11 | cheltenham R6                 | 10 Blast Of Koeman    |  34    |    -10   |
-| 02:00             | 2021-12-11 | cheltenham R6                 | 11 Potters Corner     |  23    |    -10   |
-| 02:00             | 2021-12-11 | cheltenham R6                 | 14 Mr Diablo          | 201    |    -10   |
-| 02:00             | 2021-12-11 | cheltenham R6                 | 12 Ballyboker Bridge  |  71    |    -10   |
-| 00:50             | 2021-12-11 | cheltenham R4                 | 9 Oriental Cross      |  41    |    -10   |
-| 00:15             | 2021-12-11 | cheltenham R3                 | 5 Jan Maat            |  51    |    -10   |
-| 23:40             | 2021-12-10 | cheltenham R2                 | 7 Eva's Oskar         |  15    |    -10   |
+| 0                 | 2021-12-11 | southwell R7                  | 2 Khilwafy            |   0    |    -10   |
+| 0                 | 2021-12-11 | southwell R5                  | 10 Custard The Dragon |   0    |    -10   |
+| 0                 | 2021-12-11 | southwell R2                  | 7 No Diggity          |   0    |    -10   |
+| 0                 | 2021-12-11 | southwell R1                  | 14 Mr Dib Dab         |   0    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R7                 | 4 Botox Has           |   0    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R7                 | 2 Agrapart            |   0    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R7                 | 5 Shannon Bridge      |   0    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R6                 | 10 Blast Of Koeman    |   0    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R6                 | 11 Potters Corner     |   0    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R6                 | 14 Mr Diablo          |   0    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R6                 | 12 Ballyboker Bridge  |   0    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R4                 | 9 Oriental Cross      |   0    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R3                 | 5 Jan Maat            |   0    |    -10   |
+| 0                 | 2021-12-10 | cheltenham R2                 | 7 Eva's Oskar         |   0    |    -10   |
 | 7                 | 2021-12-10 | cranbourne R6                 | 3 Cyclone Tim         |  18    |    -10   |
 | 0                 | 2021-12-10 | canterbury R6                 | 8 Rich And Shameless  |   0    |    -10   |
 | 4                 | 2021-12-10 | cranbourne R4                 | 3 Lochie's Song       |   8    |    -10   |

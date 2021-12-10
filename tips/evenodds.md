@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2021-12-10 22:36:40 +1000  
+date: 2021-12-11 07:58:25 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     13 |      1 |    -75   | 0.08 | -0.58 |
-| Last 28 Days   |     94 |     26 |   -255.3 | 0.28 | -0.27 |
-| Last 6 Months  |    618 |    176 |  -1108.8 | 0.28 | -0.18 |
-| Since Jan 2020 |   1010 |    285 |  -1936   | 0.28 | -0.19 |
+| Last 7 Days    |     11 |      1 |    -55   | 0.09 | -0.5  |
+| Last 28 Days   |     84 |     24 |   -188.3 | 0.29 | -0.22 |
+| Last 6 Months  |    619 |    176 |  -1118.8 | 0.28 | -0.18 |
+| Since Jan 2020 |   1011 |    285 |  -1946   | 0.28 | -0.19 |
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 23:05             | 2021-12-10 | cheltenham R1          | 2 Hartur D'oudairies  |   2.3  |    -10   |
+| 0                 | 2021-12-10 | cheltenham R1          | 2 Hartur D'oudairies  |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-10 | taunton R4             | 3 Jeremy Pass         |   3    |    -10   |
 | :2nd_place_medal: | 2021-12-10 | warwick R4             | 3 Barbados Blue       |  15    |    -10   |
 | 4                 | 2021-12-09 | warwick R2             | 13 Our Jet            |   3    |    -10   |

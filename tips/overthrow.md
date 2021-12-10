@@ -1,29 +1,29 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-12-10 22:36:41 +1000  
+date: 2021-12-11 07:58:26 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     63 |     13 |   -205   | 0.21 | -0.33 |
-| Last 28 Days   |    353 |     97 |   -181.1 | 0.27 | -0.05 |
-| Last 6 Months  |   2087 |    526 |  -1444.3 | 0.25 | -0.07 |
-| Since Jan 2020 |   3645 |    929 |  -3300.9 | 0.25 | -0.09 |
+| Last 7 Days    |     63 |     10 |   -282.5 | 0.16 | -0.45 |
+| Last 28 Days   |    328 |     89 |    -98.1 | 0.27 | -0.03 |
+| Last 6 Months  |   2098 |    526 |  -1554.3 | 0.25 | -0.07 |
+| Since Jan 2020 |   3656 |    929 |  -3410.9 | 0.25 | -0.09 |
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 02:35             | 2021-12-11 | cheltenham R7          | 5 Shannon Bridge      |  26    |    -10   |
-| 02:35             | 2021-12-11 | cheltenham R7          | 2 Agrapart            |  13    |    -10   |
-| 02:00             | 2021-12-11 | cheltenham R6          | 13 Fox Pro            |  41    |    -10   |
-| 01:25             | 2021-12-11 | cheltenham R5          | 2 Enrilo              |   3.7  |    -10   |
-| 00:40             | 2021-12-11 | doncaster R4           | 1 Flic Ou Voyou       |   0    |    -10   |
-| 00:15             | 2021-12-11 | cheltenham R3          | 4 Broomfield Burg     |   3    |    -10   |
-| 00:05             | 2021-12-11 | doncaster R3           | 1 Amenon              |   0    |    -10   |
-| 23:40             | 2021-12-10 | cheltenham R2          | 3 Barbados Buck's     |   6    |    -10   |
-| 23:05             | 2021-12-10 | cheltenham R1          | 2 Hartur D'oudairies  |   2.3  |    -10   |
+| 0                 | 2021-12-11 | cheltenham R7          | 5 Shannon Bridge      |   0    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R7          | 2 Agrapart            |   0    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R6          | 13 Fox Pro            |   0    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R5          | 2 Enrilo              |   0    |    -10   |
+| 0                 | 2021-12-11 | doncaster R4           | 1 Flic Ou Voyou       |   0    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R3          | 4 Broomfield Burg     |   0    |    -10   |
+| 0                 | 2021-12-11 | doncaster R3           | 1 Amenon              |   0    |    -10   |
+| 0                 | 2021-12-10 | cheltenham R2          | 3 Barbados Buck's     |   0    |    -10   |
+| 0                 | 2021-12-10 | cheltenham R1          | 2 Hartur D'oudairies  |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-10 | doomben R6             | 2 Niccanova           |   4.5  |    -10   |
 | :3rd_place_medal: | 2021-12-10 | doomben R3             | 6 Abracadazzle        |   4.5  |    -10   |
 | :boom:            | 2021-12-10 | tramore R7             | 7 Viva Devito         |   1.9  |      9   |

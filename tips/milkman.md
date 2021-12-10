@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-12-10 22:36:42 +1000  
+date: 2021-12-11 07:58:27 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     20 |      3 |   -128   | 0.15 | -0.64 |
-| Last 28 Days   |    164 |     41 |   -360.1 | 0.25 | -0.22 |
-| Last 6 Months  |   1138 |    277 |  -1805.5 | 0.24 | -0.16 |
-| Since Jan 2020 |   1964 |    510 |  -2393.8 | 0.26 | -0.12 |
+| Last 7 Days    |     18 |      1 |   -163   | 0.06 | -0.91 |
+| Last 28 Days   |    146 |     37 |   -331.1 | 0.25 | -0.23 |
+| Last 6 Months  |   1142 |    277 |  -1845.5 | 0.24 | -0.16 |
+| Since Jan 2020 |   1968 |    510 |  -2433.8 | 0.26 | -0.12 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 01:25             | 2021-12-11 | cheltenham R5                | 2 Enrilo              |   3.7  |    -10   |
-| 23:05             | 2021-12-10 | cheltenham R1                | 4 Washington          |   3.6  |    -10   |
-| 23:05             | 2021-12-10 | cheltenham R1                | 2 Hartur D'oudairies  |   2.3  |    -10   |
+| 0                 | 2021-12-11 | cheltenham R5                | 2 Enrilo              |   0    |    -10   |
+| 0                 | 2021-12-10 | cheltenham R1                | 4 Washington          |   0    |    -10   |
+| 0                 | 2021-12-10 | cheltenham R1                | 2 Hartur D'oudairies  |   0    |    -10   |
 | 10                | 2021-12-10 | geelong R8                   | 9 Zeitakuna           |   5.5  |    -10   |
 | 0                 | 2021-12-10 | taunton R5                   | 10 Gran Luna          |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-10 | warwick R5                   | 2 Tokay Dokey         |   6    |    -10   |

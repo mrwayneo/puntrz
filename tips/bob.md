@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-10 22:36:47 +1000  
+date: 2021-12-11 07:58:32 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     17 |      0 |   -170   | 0    | -1    |
-| Last 6 Months  |    125 |     26 |   2703.5 | 0.21 |  2.16 |
-| Since Jan 2020 |    202 |     35 |   3206.5 | 0.17 |  1.59 |
+| Last 28 Days   |     18 |      0 |   -180   | 0    | -1    |
+| Last 6 Months  |    126 |     26 |   2693.5 | 0.21 |  2.14 |
+| Since Jan 2020 |    203 |     35 |   3196.5 | 0.17 |  1.57 |
 
 | finish            | date       | event               | runner                |    win |   return |
 |:------------------|:-----------|:--------------------|:----------------------|-------:|---------:|
-| 00:50             | 2021-12-11 | cheltenham R4       | 9 Oriental Cross      |  41    |    -10   |
+| 0                 | 2021-12-11 | cheltenham R4       | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5         | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6       | 8 Precious            |   0    |    -10   |
 | 0                 | 2021-12-05 | navan R7            | 4 Foxy Jacks          |   0    |    -10   |
