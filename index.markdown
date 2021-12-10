@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-10 20:36:37 +1000  
+date: 2021-12-10 20:51:41 +1000  
 ---   
 
 
@@ -42,11 +42,11 @@ date: 2021-12-10 20:36:37 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |    -80   | 0.05 | -0.4  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |    -90   | 0.05 | -0.45 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |    -90   | 0.05 | -0.45 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      2 |   -113.8 | 0.1  | -0.57 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      4 |   -116.5 | 0.2  | -0.58 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |   -118   | 0.15 | -0.59 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      2 |   -127   | 0.1  | -0.64 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      3 |   -128   | 0.15 | -0.64 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
@@ -66,13 +66,13 @@ date: 2021-12-10 20:36:37 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    340 |     72 |   -468.5 | 0.21 | -0.14 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    646 |    104 |   -620.3 | 0.16 | -0.1  |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    458 |    126 |   -623   | 0.28 | -0.14 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1997 |    505 |   -704.1 | 0.25 | -0.04 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1997 |    505 |   -719.1 | 0.25 | -0.04 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    591 |    169 |   -870.8 | 0.29 | -0.15 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1714 |    375 |  -1385.9 | 0.22 | -0.08 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1092 |    266 |  -1629.5 | 0.24 | -0.15 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2451 |    132 |  -2375   | 0.05 | -0.1  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2861 |    702 |  -3283.6 | 0.25 | -0.11 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5947 |    891 |  -7921   | 0.15 | -0.13 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5947 |    886 |  -8205   | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7560 |    419 | -13716   | 0.06 | -0.18 |
 
 |    | finish            | time                | track         |   race |   number | name               |   odds | tipster            |
@@ -92,7 +92,7 @@ date: 2021-12-10 20:36:37 +1000
 | 12 | :soon:            | 2021-12-10 23:05:00 | cheltenham    |      1 |        2 | Hartur D'oudairies |   2.3  | evenodds,lago      |
 | 13 | :soon:            | 2021-12-10 22:55:00 | doncaster     |      1 |       13 | Master Malachy     |   0    | vulture            |
 | 14 | --                | 2021-12-10 20:30:00 | canterbury    |      6 |        1 | Zegalo             |   9    | wallbow            |
-| 15 | --                | 2021-12-10 20:30:00 | canterbury    |      6 |        5 | Relucent           |  12    | vulture,pangea     |
+| 15 | 6.0               | 2021-12-10 20:30:00 | canterbury    |      6 |        5 | Relucent           |  12    | vulture,pangea     |
 | 16 | 4.0               | 2021-12-10 20:30:00 | canterbury    |      6 |        7 | Banger             |  10    | vulture,pangea     |
 | 17 | --                | 2021-12-10 20:00:00 | canterbury    |      5 |        6 | Ocean Emperor      |   7    | pangea             |
 | 18 | 5.0               | 2021-12-10 20:00:00 | canterbury    |      5 |        8 | Almighty Rising    |   5    | pangea             |
