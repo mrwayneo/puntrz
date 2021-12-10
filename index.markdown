@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-10 20:06:39 +1000  
+date: 2021-12-10 20:21:42 +1000  
 ---   
 
 
@@ -95,7 +95,7 @@ date: 2021-12-10 20:06:39 +1000
 | 15 | :soon:            | 2021-12-10 20:30:00 | canterbury    |      6 |        5 | Relucent           |  12    | vulture,pangea     |
 | 16 | :soon:            | 2021-12-10 20:30:00 | canterbury    |      6 |        7 | Banger             |  10    | vulture,pangea     |
 | 17 | --                | 2021-12-10 20:00:00 | canterbury    |      5 |        6 | Ocean Emperor      |   7    | pangea             |
-| 18 | --                | 2021-12-10 20:00:00 | canterbury    |      5 |        8 | Almighty Rising    |   5    | pangea             |
+| 18 | 5.0               | 2021-12-10 20:00:00 | canterbury    |      5 |        8 | Almighty Rising    |   5    | pangea             |
 | 19 | 7.0               | 2021-12-10 19:10:00 | moonee-valley |      3 |        4 | Surcote            |   6    | looseknot          |
 | 20 | :2nd_place_medal: | 2021-12-10 19:00:00 | canterbury    |      3 |        3 | Pizarro            |   2.7  | vulture            |
 | 21 | 4.0               | 2021-12-10 18:30:00 | canterbury    |      2 |        5 | Fearnought         |   5.5  | wallbow            |
