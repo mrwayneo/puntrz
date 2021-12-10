@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-10 17:21:31 +1000  
+date: 2021-12-10 17:36:43 +1000  
 ---   
 
 
@@ -16,12 +16,12 @@ date: 2021-12-10 17:21:31 +1000
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      9 |      0 |      -90 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      9 |      1 |      -44 | 0.11 | -0.49 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     11 |      0 |     -110 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     17 |      0 |     -170 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     17 |      0 |     -170 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      0 |     -380 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |    107 |      1 |    -1055 | 0.01 | -0.99 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |    107 |      2 |    -1032 | 0.02 | -0.96 |
 
 ##### Form Last 20 tips   
 
@@ -101,9 +101,9 @@ date: 2021-12-10 17:21:31 +1000
 | 21 | :soon:            | 2021-12-10 18:30:00 | canterbury    |      2 |        5 | Fearnought         |   5.5  | wallbow            |
 | 22 | :soon:            | 2021-12-10 18:14:00 | doomben       |      6 |        2 | Niccanova          |   4.5  | pangea,blackshadow |
 | 23 | :soon:            | 2021-12-10 18:14:00 | doomben       |      6 |        3 | Ligulate           |   3.3  | pangea             |
-| 24 | :soon:            | 2021-12-10 17:34:00 | murwillumbah  |      8 |        4 | I'm Gunna Cashew   |   7    | vulture            |
-| 25 | :soon:            | 2021-12-10 17:30:00 | geelong       |      8 |        9 | Zeitakuna          |   5.5  | vulture,milkman    |
-| 26 | --                | 2021-12-10 17:20:00 | scone         |      7 |        7 | Excelness          |   4.75 | pangea             |
+| 24 | --                | 2021-12-10 17:34:00 | murwillumbah  |      8 |        4 | I'm Gunna Cashew   |   7    | vulture            |
+| 25 | --                | 2021-12-10 17:30:00 | geelong       |      8 |        9 | Zeitakuna          |   5.5  | vulture,milkman    |
+| 26 | :boom:            | 2021-12-10 17:20:00 | scone         |      7 |        7 | Excelness          |   4.75 | pangea             |
 | 27 | --                | 2021-12-10 17:20:00 | scone         |      7 |        5 | Invincible Ninja   |   7    | vulture            |
 | 28 | :3rd_place_medal: | 2021-12-10 16:22:00 | doomben       |      3 |        6 | Abracadazzle       |   4.5  | pangea,overthrow   |
 | 29 | 4.0               | 2021-12-10 15:42:00 | doomben       |      2 |        4 | Crockett           |   5.5  | vulture            |
