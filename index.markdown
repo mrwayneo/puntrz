@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 13:28:29 +1000  
+date: 2021-12-11 13:46:01 +1000  
 ---   
 
 
@@ -156,9 +156,9 @@ date: 2021-12-11 13:28:29 +1000
 | 73 | :soon:            | 2021-12-11 13:58:00 | morphettville |      3 |        9 | Zoulah             |   4.75 | pangea              |
 | 74 | :soon:            | 2021-12-11 13:58:00 | morphettville |      3 |        2 | Blow Torch         |   9    | pangea,blackshadow  |
 | 75 | :soon:            | 2021-12-11 13:54:00 | gold-coast    |      2 |        3 | Winter Violet      |   2.5  | pangea              |
-| 76 | :soon:            | 2021-12-11 13:45:00 | flemington    |      3 |       10 | Garvoc             |  17    | pangea              |
-| 77 | :soon:            | 2021-12-11 13:34:00 | coffs-harbour |      1 |        2 | Dark Sapphire      |   9    | looseknot           |
-| 78 | --                | 2021-12-11 13:22:00 | te-rapa       |      7 |        1 | Showoroses         |   2.45 | vulture             |
+| 76 | --                | 2021-12-11 13:45:00 | flemington    |      3 |       10 | Garvoc             |  17    | pangea              |
+| 77 | --                | 2021-12-11 13:34:00 | coffs-harbour |      1 |        2 | Dark Sapphire      |   9    | looseknot           |
+| 78 | :2nd_place_medal: | 2021-12-11 13:22:00 | te-rapa       |      7 |        1 | Showoroses         |   2.45 | vulture             |
 | 79 | :2nd_place_medal: | 2021-12-11 13:18:00 | gold-coast    |      1 |        2 | Miss Bulitz        |   3.9  | benny,pangea        |
 | 80 | :3rd_place_medal: | 2021-12-11 13:03:00 | ascot-park    |      5 |        5 | Tyler Eight        |   2.38 | benny,milkman       |
 | 81 | --                | 2021-12-11 13:03:00 | ascot-park    |      5 |        7 | The Ace            |  14    | cosmo,bluey         |
