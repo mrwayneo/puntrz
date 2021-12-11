@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 15:40:44 +1000  
+date: 2021-12-11 15:55:42 +1000  
 ---   
 
 
@@ -139,7 +139,7 @@ date: 2021-12-11 15:40:44 +1000
 | 56 | :soon:            | 2021-12-11 16:08:00 | ascot         |      3 |        5 | Agent Kensington   |   7.5  | benny,overthrow     |
 | 57 | :soon:            | 2021-12-11 16:00:00 | randwick      |      7 |        2 | Southern Lad       |   6    | pangea              |
 | 58 | :soon:            | 2021-12-11 16:00:00 | randwick      |      7 |        8 | Surreal Step       |  19    | pangea,blackshadow  |
-| 59 | :soon:            | 2021-12-11 15:52:00 | morphettville |      6 |        2 | Crowned Monarch    |   3.7  | benny,pangea        |
+| 59 | --                | 2021-12-11 15:52:00 | morphettville |      6 |        2 | Crowned Monarch    |   3.7  | benny,pangea        |
 | 60 | :boom:            | 2021-12-11 15:28:00 | ascot         |      2 |        1 | He's A Sizzler     |   3.5  | vulture             |
 | 61 | :2nd_place_medal: | 2021-12-11 15:22:00 | townsville    |      2 |        5 | Micawber           |   5    | moechilli           |
 | 62 | :3rd_place_medal: | 2021-12-11 15:22:00 | townsville    |      2 |        3 | Deluxe Rocker      |   3.4  | pangea              |
