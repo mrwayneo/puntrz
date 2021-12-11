@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 22:23:21 +1000  
+date: 2021-12-11 22:39:10 +1000  
 ---   
 
 
@@ -109,7 +109,7 @@ date: 2021-12-11 22:23:21 +1000
 | 26 | :soon:            | 2021-12-11 23:05:00 | cheltenham    |      1 |        1 | Message Personnel  |   3    | evenodds,milkman    |
 | 27 | :soon:            | 2021-12-11 23:00:00 | fairyhouse    |      2 |        8 | Gars De Sceaux     |   2.45 | pangea,milkman      |
 | 28 | :soon:            | 2021-12-11 23:00:00 | fairyhouse    |      2 |       13 | Stattler           |   2.25 | overthrow           |
-| 29 | :soon:            | 2021-12-11 22:30:00 | fairyhouse    |      1 |        1 | Blue Lord          |   1.75 | overthrow           |
+| 29 | --                | 2021-12-11 22:30:00 | fairyhouse    |      1 |        1 | Blue Lord          |   1.75 | overthrow           |
 | 30 | 5.0               | 2021-12-11 19:25:00 | ascot         |      8 |       13 | Pure Devotion      |   2.7  | vulture,blackshadow |
 | 31 | :3rd_place_medal: | 2021-12-11 19:25:00 | ascot         |      8 |       14 | Stafford's Lad     |  14    | pangea,blackshadow  |
 | 32 | :boom:            | 2021-12-11 18:50:00 | darwin        |      5 |        1 | Raazou             |   3.4  | overthrow           |
