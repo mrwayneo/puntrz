@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 15:10:03 +1000  
+date: 2021-12-11 15:25:39 +1000  
 ---   
 
 
@@ -141,11 +141,11 @@ date: 2021-12-11 15:10:03 +1000
 | 58 | :soon:            | 2021-12-11 16:00:00 | randwick      |      7 |        8 | Surreal Step       |  19    | pangea,blackshadow  |
 | 59 | :soon:            | 2021-12-11 15:52:00 | morphettville |      6 |        2 | Crowned Monarch    |   3.7  | benny,pangea        |
 | 60 | :soon:            | 2021-12-11 15:28:00 | ascot         |      2 |        1 | He's A Sizzler     |   3.5  | vulture             |
-| 61 | :soon:            | 2021-12-11 15:22:00 | townsville    |      2 |        5 | Micawber           |   5    | moechilli           |
-| 62 | :soon:            | 2021-12-11 15:22:00 | townsville    |      2 |        3 | Deluxe Rocker      |   3.4  | pangea              |
-| 63 | :soon:            | 2021-12-11 15:20:00 | randwick      |      6 |        3 | Incredulous Dream  |   4    | vulture             |
-| 64 | :soon:            | 2021-12-11 15:12:00 | morphettville |      5 |        4 | Resurge            |   4.75 | vulture,blackshadow |
-| 65 | --                | 2021-12-11 15:00:00 | flemington    |      5 |        5 | Dubai Nights       |   7.5  | milkman             |
+| 61 | :2nd_place_medal: | 2021-12-11 15:22:00 | townsville    |      2 |        5 | Micawber           |   5    | moechilli           |
+| 62 | :3rd_place_medal: | 2021-12-11 15:22:00 | townsville    |      2 |        3 | Deluxe Rocker      |   3.4  | pangea              |
+| 63 | 4.0               | 2021-12-11 15:20:00 | randwick      |      6 |        3 | Incredulous Dream  |   4    | vulture             |
+| 64 | :3rd_place_medal: | 2021-12-11 15:12:00 | morphettville |      5 |        4 | Resurge            |   4.75 | vulture,blackshadow |
+| 65 | 11.0              | 2021-12-11 15:00:00 | flemington    |      5 |        5 | Dubai Nights       |   7.5  | milkman             |
 | 66 | :boom:            | 2021-12-11 14:52:00 | eagle-farm    |      3 |        1 | Palazzo Spirit     |   2.38 | milkman,icyhot      |
 | 67 | :2nd_place_medal: | 2021-12-11 14:40:00 | randwick      |      5 |        4 | Calgary Stampede   |   9.5  | vulture,milkman     |
 | 68 | 4.0               | 2021-12-11 14:40:00 | randwick      |      5 |        2 | Boldinho           |   2.25 | vulture             |
