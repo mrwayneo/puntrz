@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 11:43:26 +1000  
+date: 2021-12-11 11:58:37 +1000  
 ---   
 
 
@@ -167,8 +167,8 @@ date: 2021-12-11 11:43:26 +1000
 | 84 | :soon:            | 2021-12-11 12:39:00 | awapuni       |      6 |        1 | Waisake            |   4.5  | pangea              |
 | 85 | :soon:            | 2021-12-11 12:35:00 | flemington    |      1 |        2 | Nothing Silly      |  15    | milkman             |
 | 86 | :soon:            | 2021-12-11 12:35:00 | flemington    |      1 |        3 | Kumicho            |   6.5  | looseknot           |
-| 87 | :soon:            | 2021-12-11 11:57:00 | awapuni       |      5 |        2 | Sinarahma          |  13    | pangea              |
-| 88 | :soon:            | 2021-12-11 11:48:00 | ascot-park    |      3 |        1 | He's Got Power     |   5.5  | benny,pangea        |
+| 87 | --                | 2021-12-11 11:57:00 | awapuni       |      5 |        2 | Sinarahma          |  13    | pangea              |
+| 88 | :2nd_place_medal: | 2021-12-11 11:48:00 | ascot-park    |      3 |        1 | He's Got Power     |   5.5  | benny,pangea        |
 | 89 | --                | 2021-12-11 11:12:00 | ascot-park    |      2 |        6 | Ole Mate           |   6    | looseknot           |
 | 90 | :boom:            | 2021-12-11 11:00:00 | te-rapa       |      3 |        9 | Wolverine          |   2.3  | milkman             |
 | 91 | :2nd_place_medal: | 2021-12-11 09:54:00 | te-rapa       |      1 |        1 | On The Bubbles     |   1.6  | milkman             |
