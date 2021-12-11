@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 14:16:04 +1000  
+date: 2021-12-11 14:30:55 +1000  
 ---   
 
 
@@ -150,11 +150,11 @@ date: 2021-12-11 14:16:04 +1000
 | 67 | :soon:            | 2021-12-11 14:40:00 | randwick      |      5 |        4 | Calgary Stampede   |   9.5  | vulture,milkman     |
 | 68 | :soon:            | 2021-12-11 14:40:00 | randwick      |      5 |        2 | Boldinho           |   2.25 | vulture             |
 | 69 | :soon:            | 2021-12-11 14:40:00 | randwick      |      5 |        1 | Athletica          |   4.8  | vulture             |
-| 70 | --                | 2021-12-11 14:13:00 | ascot-park    |      7 |        2 | Kilowatt           |  11    | cosmo,bluey         |
+| 70 | 4.0               | 2021-12-11 14:13:00 | ascot-park    |      7 |        2 | Kilowatt           |  11    | cosmo,bluey         |
 | 71 | :soon:            | 2021-12-11 14:13:00 | eagle-farm    |      2 |        1 | Artero             |   4.5  | benny,blackshadow   |
 | 72 | :boom:            | 2021-12-11 14:05:00 | randwick      |      4 |        1 | Mightybeel         |   3.3  | wallbow             |
 | 73 | :boom:            | 2021-12-11 13:58:00 | morphettville |      3 |        9 | Zoulah             |   4.75 | pangea              |
-| 74 | --                | 2021-12-11 13:58:00 | morphettville |      3 |        2 | Blow Torch         |   9    | pangea,blackshadow  |
+| 74 | 8.0               | 2021-12-11 13:58:00 | morphettville |      3 |        2 | Blow Torch         |   9    | pangea,blackshadow  |
 | 75 | 4.0               | 2021-12-11 13:54:00 | gold-coast    |      2 |        3 | Winter Violet      |   2.5  | pangea              |
 | 76 | 9.0               | 2021-12-11 13:45:00 | flemington    |      3 |       10 | Garvoc             |  17    | pangea              |
 | 77 | 5.0               | 2021-12-11 13:34:00 | coffs-harbour |      1 |        2 | Dark Sapphire      |   9    | looseknot           |
