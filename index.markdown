@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 17:43:37 +1000  
+date: 2021-12-11 17:58:43 +1000  
 ---   
 
 
@@ -123,7 +123,7 @@ date: 2021-12-11 17:43:37 +1000
 | 40 | :soon:            | 2021-12-11 18:04:00 | toowoomba     |      2 |       10 | Cold Hard Fact     |   3.2  | vulture             |
 | 41 | :soon:            | 2021-12-11 18:00:00 | randwick      |     10 |        5 | Brookspire         |   1.91 | pangea              |
 | 42 | :soon:            | 2021-12-11 18:00:00 | randwick      |     10 |        9 | Blesk              |   6.5  | vulture             |
-| 43 | :soon:            | 2021-12-11 17:47:00 | darwin        |      3 |        1 | Fromthenevernever  |   2    | moechilli           |
+| 43 | :2nd_place_medal: | 2021-12-11 17:47:00 | darwin        |      3 |        1 | Fromthenevernever  |   2    | moechilli           |
 | 44 | :soon:            | 2021-12-11 17:28:00 | ascot         |      5 |        4 | Proconsent         |   1.8  | benny,blackshadow   |
 | 45 | --                | 2021-12-11 17:24:00 | toowoomba     |      1 |        6 | Wait A Minute      |  20    | blackshadow         |
 | 46 | 5.0               | 2021-12-11 17:12:00 | morphettville |      8 |        6 | Rock The Ring      |   2.05 | pangea,icyhot       |
