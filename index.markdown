@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 16:13:31 +1000  
+date: 2021-12-11 16:28:32 +1000  
 ---   
 
 
@@ -23,7 +23,7 @@ date: 2021-12-11 16:13:31 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     27 |      1 |   -229   | 0.04 | -0.85 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      1 |   -356   | 0.02 | -0.87 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     48 |      0 |   -480   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     80 |      1 |   -782   | 0.01 | -0.98 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     80 |      2 |   -769   | 0.02 | -0.96 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    124 |      0 |  -1240   | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -131,12 +131,12 @@ date: 2021-12-11 16:13:31 +1000
 | 48 | :soon:            | 2021-12-11 17:00:00 | flemington    |      8 |        6 | Just Benjamin      |   8    | vulture,pangea      |
 | 49 | :soon:            | 2021-12-11 17:00:00 | flemington    |      8 |       12 | Five Kingdom       |  10    | pangea              |
 | 50 | :soon:            | 2021-12-11 16:42:00 | townsville    |      4 |        4 | Verbalizer         |   3.1  | benny,pangea        |
-| 51 | :soon:            | 2021-12-11 16:27:00 | darwin        |      1 |        5 | Skellig Island     |  12    | overthrow           |
-| 52 | :soon:            | 2021-12-11 16:20:00 | flemington    |      7 |        5 | Parsifal           |  14    | pangea              |
-| 53 | :soon:            | 2021-12-11 16:20:00 | flemington    |      7 |       11 | Tequila Time       |   4.6  | vulture             |
+| 51 | --                | 2021-12-11 16:27:00 | darwin        |      1 |        5 | Skellig Island     |  12    | overthrow           |
+| 52 | :2nd_place_medal: | 2021-12-11 16:20:00 | flemington    |      7 |        5 | Parsifal           |  14    | pangea              |
+| 53 | 4.0               | 2021-12-11 16:20:00 | flemington    |      7 |       11 | Tequila Time       |   4.6  | vulture             |
 | 54 | --                | 2021-12-11 16:12:00 | eagle-farm    |      5 |        5 | Good Chat          |  15    | vulture             |
 | 55 | :2nd_place_medal: | 2021-12-11 16:08:00 | ascot         |      3 |        6 | Bopping Blue       |   2.88 | pangea,blackshadow  |
-| 56 | --                | 2021-12-11 16:08:00 | ascot         |      3 |        5 | Agent Kensington   |   7.5  | benny,overthrow     |
+| 56 | 6.0               | 2021-12-11 16:08:00 | ascot         |      3 |        5 | Agent Kensington   |   7.5  | benny,overthrow     |
 | 57 | :3rd_place_medal: | 2021-12-11 16:00:00 | randwick      |      7 |        2 | Southern Lad       |   6    | pangea              |
 | 58 | 4.0               | 2021-12-11 16:00:00 | randwick      |      7 |        8 | Surreal Step       |  19    | pangea,blackshadow  |
 | 59 | 6.0               | 2021-12-11 15:52:00 | morphettville |      6 |        2 | Crowned Monarch    |   3.7  | benny,pangea        |
