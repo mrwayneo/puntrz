@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 18:14:13 +1000  
+date: 2021-12-11 18:29:17 +1000  
 ---   
 
 
@@ -16,12 +16,12 @@ date: 2021-12-11 18:14:13 +1000
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |    -20   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |    -40   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |     10 |      0 |   -100   | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |     10 |      1 |    -81   | 0.1  | -0.81 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     11 |      0 |   -110   | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     17 |      2 |   -122.5 | 0.12 | -0.72 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     27 |      2 |   -199   | 0.07 | -0.74 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |   -220   | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      3 |   -247   | 0.07 | -0.6  |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      1 |   -201   | 0.05 | -0.91 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      4 |   -228   | 0.1  | -0.56 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     48 |      0 |   -480   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     80 |      2 |   -769   | 0.02 | -0.96 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    124 |      0 |  -1240   | 0    | -1    |
@@ -114,11 +114,11 @@ date: 2021-12-11 18:14:13 +1000
 | 31 | :soon:            | 2021-12-11 19:25:00 | ascot         |      8 |       14 | Stafford's Lad     |  14    | pangea,blackshadow  |
 | 32 | :soon:            | 2021-12-11 18:50:00 | darwin        |      5 |        1 | Raazou             |   3.4  | overthrow           |
 | 33 | :soon:            | 2021-12-11 18:37:00 | toowoomba     |      3 |        6 | Splasher           |   3    | pangea              |
-| 34 | :soon:            | 2021-12-11 18:20:00 | darwin        |      4 |        4 | Dizzy Miss Lizzy   |   3.5  | overthrow           |
-| 35 | --                | 2021-12-11 18:13:00 | eagle-farm    |      8 |        7 | Garibaldi          |   2.7  | benny,overthrow     |
-| 36 | --                | 2021-12-11 18:13:00 | eagle-farm    |      8 |       12 | Garoppolo          |   4.75 | pangea              |
-| 37 | --                | 2021-12-11 18:08:00 | ascot         |      6 |       11 | Winsalot           |  20    | evenodds,overthrow  |
-| 38 | --                | 2021-12-11 18:08:00 | ascot         |      6 |        5 | New Amsterdam      |   9.5  | pangea,blackshadow  |
+| 34 | :3rd_place_medal: | 2021-12-11 18:20:00 | darwin        |      4 |        4 | Dizzy Miss Lizzy   |   3.5  | overthrow           |
+| 35 | :boom:            | 2021-12-11 18:13:00 | eagle-farm    |      8 |        7 | Garibaldi          |   2.7  | benny,overthrow     |
+| 36 | :3rd_place_medal: | 2021-12-11 18:13:00 | eagle-farm    |      8 |       12 | Garoppolo          |   4.75 | pangea              |
+| 37 | 12.0              | 2021-12-11 18:08:00 | ascot         |      6 |       11 | Winsalot           |  20    | evenodds,overthrow  |
+| 38 | 6.0               | 2021-12-11 18:08:00 | ascot         |      6 |        5 | New Amsterdam      |   9.5  | pangea,blackshadow  |
 | 39 | 4.0               | 2021-12-11 18:08:00 | ascot         |      6 |        1 | Island Missile     |   6.5  | vulture             |
 | 40 | :boom:            | 2021-12-11 18:04:00 | toowoomba     |      2 |       10 | Cold Hard Fact     |   3.2  | vulture             |
 | 41 | :boom:            | 2021-12-11 18:00:00 | randwick      |     10 |        5 | Brookspire         |   1.91 | pangea              |
