@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 13:46:01 +1000  
+date: 2021-12-11 14:00:54 +1000  
 ---   
 
 
@@ -23,7 +23,7 @@ date: 2021-12-11 13:46:01 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     27 |      0 |   -270   | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      0 |   -410   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     48 |      0 |   -480   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     80 |      0 |   -800   | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     80 |      1 |   -782   | 0.01 | -0.98 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    124 |      0 |  -1240   | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -153,9 +153,9 @@ date: 2021-12-11 13:46:01 +1000
 | 70 | :soon:            | 2021-12-11 14:13:00 | ascot-park    |      7 |        2 | Kilowatt           |  11    | cosmo,bluey         |
 | 71 | :soon:            | 2021-12-11 14:13:00 | eagle-farm    |      2 |        1 | Artero             |   4.5  | benny,blackshadow   |
 | 72 | :soon:            | 2021-12-11 14:05:00 | randwick      |      4 |        1 | Mightybeel         |   3.3  | wallbow             |
-| 73 | :soon:            | 2021-12-11 13:58:00 | morphettville |      3 |        9 | Zoulah             |   4.75 | pangea              |
-| 74 | :soon:            | 2021-12-11 13:58:00 | morphettville |      3 |        2 | Blow Torch         |   9    | pangea,blackshadow  |
-| 75 | :soon:            | 2021-12-11 13:54:00 | gold-coast    |      2 |        3 | Winter Violet      |   2.5  | pangea              |
+| 73 | --                | 2021-12-11 13:58:00 | morphettville |      3 |        9 | Zoulah             |   4.75 | pangea              |
+| 74 | --                | 2021-12-11 13:58:00 | morphettville |      3 |        2 | Blow Torch         |   9    | pangea,blackshadow  |
+| 75 | --                | 2021-12-11 13:54:00 | gold-coast    |      2 |        3 | Winter Violet      |   2.5  | pangea              |
 | 76 | --                | 2021-12-11 13:45:00 | flemington    |      3 |       10 | Garvoc             |  17    | pangea              |
 | 77 | --                | 2021-12-11 13:34:00 | coffs-harbour |      1 |        2 | Dark Sapphire      |   9    | looseknot           |
 | 78 | :2nd_place_medal: | 2021-12-11 13:22:00 | te-rapa       |      7 |        1 | Showoroses         |   2.45 | vulture             |
