@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 18:44:18 +1000  
+date: 2021-12-11 18:59:27 +1000  
 ---   
 
 
@@ -19,11 +19,11 @@ date: 2021-12-11 18:44:18 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     10 |      1 |    -81   | 0.1  | -0.81 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     11 |      0 |   -110   | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     17 |      2 |   -122.5 | 0.12 | -0.72 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      2 |   -170   | 0.09 | -0.77 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     27 |      2 |   -199   | 0.07 | -0.74 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      1 |   -201   | 0.05 | -0.91 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      4 |   -228   | 0.1  | -0.56 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      5 |   -201   | 0.12 | -0.49 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     48 |      0 |   -480   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     80 |      2 |   -769   | 0.02 | -0.96 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     80 |      3 |   -742   | 0.04 | -0.93 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    124 |      0 |  -1240   | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -112,7 +112,7 @@ date: 2021-12-11 18:44:18 +1000
 | 29 | :soon:            | 2021-12-11 22:30:00 | fairyhouse    |      1 |        1 | Blue Lord          |   1.75 | overthrow           |
 | 30 | :soon:            | 2021-12-11 19:25:00 | ascot         |      8 |       13 | Pure Devotion      |   2.7  | vulture,blackshadow |
 | 31 | :soon:            | 2021-12-11 19:25:00 | ascot         |      8 |       14 | Stafford's Lad     |  14    | pangea,blackshadow  |
-| 32 | :soon:            | 2021-12-11 18:50:00 | darwin        |      5 |        1 | Raazou             |   3.4  | overthrow           |
+| 32 | :boom:            | 2021-12-11 18:50:00 | darwin        |      5 |        1 | Raazou             |   3.4  | overthrow           |
 | 33 | --                | 2021-12-11 18:37:00 | toowoomba     |      3 |        6 | Splasher           |   3    | pangea              |
 | 34 | :3rd_place_medal: | 2021-12-11 18:20:00 | darwin        |      4 |        4 | Dizzy Miss Lizzy   |   3.5  | overthrow           |
 | 35 | :boom:            | 2021-12-11 18:13:00 | eagle-farm    |      8 |        7 | Garibaldi          |   2.7  | benny,overthrow     |
