@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 14:00:54 +1000  
+date: 2021-12-11 14:16:04 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2021-12-11 14:00:54 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |    -10   | 0    | -1    |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      1 |     26   | 1    |  2.6  |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      2 |      0 |    -20   | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      0 |    -20   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |    -20   | 0    | -1    |
@@ -21,7 +21,7 @@ date: 2021-12-11 14:00:54 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     17 |      1 |   -143.5 | 0.06 | -0.84 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |   -220   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     27 |      0 |   -270   | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      0 |   -410   | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      1 |   -356   | 0.02 | -0.87 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     48 |      0 |   -480   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     80 |      1 |   -782   | 0.01 | -0.98 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    124 |      0 |  -1240   | 0    | -1    |
@@ -150,14 +150,14 @@ date: 2021-12-11 14:00:54 +1000
 | 67 | :soon:            | 2021-12-11 14:40:00 | randwick      |      5 |        4 | Calgary Stampede   |   9.5  | vulture,milkman     |
 | 68 | :soon:            | 2021-12-11 14:40:00 | randwick      |      5 |        2 | Boldinho           |   2.25 | vulture             |
 | 69 | :soon:            | 2021-12-11 14:40:00 | randwick      |      5 |        1 | Athletica          |   4.8  | vulture             |
-| 70 | :soon:            | 2021-12-11 14:13:00 | ascot-park    |      7 |        2 | Kilowatt           |  11    | cosmo,bluey         |
+| 70 | --                | 2021-12-11 14:13:00 | ascot-park    |      7 |        2 | Kilowatt           |  11    | cosmo,bluey         |
 | 71 | :soon:            | 2021-12-11 14:13:00 | eagle-farm    |      2 |        1 | Artero             |   4.5  | benny,blackshadow   |
-| 72 | :soon:            | 2021-12-11 14:05:00 | randwick      |      4 |        1 | Mightybeel         |   3.3  | wallbow             |
-| 73 | --                | 2021-12-11 13:58:00 | morphettville |      3 |        9 | Zoulah             |   4.75 | pangea              |
+| 72 | :boom:            | 2021-12-11 14:05:00 | randwick      |      4 |        1 | Mightybeel         |   3.3  | wallbow             |
+| 73 | :boom:            | 2021-12-11 13:58:00 | morphettville |      3 |        9 | Zoulah             |   4.75 | pangea              |
 | 74 | --                | 2021-12-11 13:58:00 | morphettville |      3 |        2 | Blow Torch         |   9    | pangea,blackshadow  |
-| 75 | --                | 2021-12-11 13:54:00 | gold-coast    |      2 |        3 | Winter Violet      |   2.5  | pangea              |
-| 76 | --                | 2021-12-11 13:45:00 | flemington    |      3 |       10 | Garvoc             |  17    | pangea              |
-| 77 | --                | 2021-12-11 13:34:00 | coffs-harbour |      1 |        2 | Dark Sapphire      |   9    | looseknot           |
+| 75 | 4.0               | 2021-12-11 13:54:00 | gold-coast    |      2 |        3 | Winter Violet      |   2.5  | pangea              |
+| 76 | 9.0               | 2021-12-11 13:45:00 | flemington    |      3 |       10 | Garvoc             |  17    | pangea              |
+| 77 | 5.0               | 2021-12-11 13:34:00 | coffs-harbour |      1 |        2 | Dark Sapphire      |   9    | looseknot           |
 | 78 | :2nd_place_medal: | 2021-12-11 13:22:00 | te-rapa       |      7 |        1 | Showoroses         |   2.45 | vulture             |
 | 79 | :2nd_place_medal: | 2021-12-11 13:18:00 | gold-coast    |      1 |        2 | Miss Bulitz        |   3.9  | benny,pangea        |
 | 80 | :3rd_place_medal: | 2021-12-11 13:03:00 | ascot-park    |      5 |        5 | Tyler Eight        |   2.38 | benny,milkman       |

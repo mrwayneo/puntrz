@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2021-12-11 14:00:48 +1000  
+date: 2021-12-11 14:15:59 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event             | runner             |   win |   return |
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
-| 14:05             | 2021-12-11 | randwick R4       | 1 Mightybeel       |  3.3  |      -10 |
+| :boom:            | 2021-12-11 | randwick R4       | 1 Mightybeel       |  3.6  |       26 |
 | 4                 | 2021-12-10 | canterbury R2     | 5 Fearnought       |  5.5  |      -10 |
 | :boom:            | 2021-12-08 | warwick-farm R5   | 3 Black Queen      |  2.8  |       18 |
 | :boom:            | 2021-12-08 | warwick-farm R4   | 5 Niffler          |  1.7  |        7 |
