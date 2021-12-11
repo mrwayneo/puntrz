@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 17:58:43 +1000  
+date: 2021-12-11 18:14:13 +1000  
 ---   
 
 
@@ -19,9 +19,9 @@ date: 2021-12-11 17:58:43 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     10 |      0 |   -100   | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     11 |      0 |   -110   | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     17 |      2 |   -122.5 | 0.12 | -0.72 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     27 |      2 |   -199   | 0.07 | -0.74 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |   -220   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     27 |      1 |   -229   | 0.04 | -0.85 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      2 |   -265   | 0.05 | -0.65 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      3 |   -247   | 0.07 | -0.6  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     48 |      0 |   -480   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     80 |      2 |   -769   | 0.02 | -0.96 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    124 |      0 |  -1240   | 0    | -1    |
@@ -115,17 +115,17 @@ date: 2021-12-11 17:58:43 +1000
 | 32 | :soon:            | 2021-12-11 18:50:00 | darwin        |      5 |        1 | Raazou             |   3.4  | overthrow           |
 | 33 | :soon:            | 2021-12-11 18:37:00 | toowoomba     |      3 |        6 | Splasher           |   3    | pangea              |
 | 34 | :soon:            | 2021-12-11 18:20:00 | darwin        |      4 |        4 | Dizzy Miss Lizzy   |   3.5  | overthrow           |
-| 35 | :soon:            | 2021-12-11 18:13:00 | eagle-farm    |      8 |        7 | Garibaldi          |   2.7  | benny,overthrow     |
-| 36 | :soon:            | 2021-12-11 18:13:00 | eagle-farm    |      8 |       12 | Garoppolo          |   4.75 | pangea              |
-| 37 | :soon:            | 2021-12-11 18:08:00 | ascot         |      6 |       11 | Winsalot           |  20    | evenodds,overthrow  |
-| 38 | :soon:            | 2021-12-11 18:08:00 | ascot         |      6 |        5 | New Amsterdam      |   9.5  | pangea,blackshadow  |
-| 39 | :soon:            | 2021-12-11 18:08:00 | ascot         |      6 |        1 | Island Missile     |   6.5  | vulture             |
-| 40 | :soon:            | 2021-12-11 18:04:00 | toowoomba     |      2 |       10 | Cold Hard Fact     |   3.2  | vulture             |
-| 41 | :soon:            | 2021-12-11 18:00:00 | randwick      |     10 |        5 | Brookspire         |   1.91 | pangea              |
-| 42 | :soon:            | 2021-12-11 18:00:00 | randwick      |     10 |        9 | Blesk              |   6.5  | vulture             |
+| 35 | --                | 2021-12-11 18:13:00 | eagle-farm    |      8 |        7 | Garibaldi          |   2.7  | benny,overthrow     |
+| 36 | --                | 2021-12-11 18:13:00 | eagle-farm    |      8 |       12 | Garoppolo          |   4.75 | pangea              |
+| 37 | --                | 2021-12-11 18:08:00 | ascot         |      6 |       11 | Winsalot           |  20    | evenodds,overthrow  |
+| 38 | --                | 2021-12-11 18:08:00 | ascot         |      6 |        5 | New Amsterdam      |   9.5  | pangea,blackshadow  |
+| 39 | 4.0               | 2021-12-11 18:08:00 | ascot         |      6 |        1 | Island Missile     |   6.5  | vulture             |
+| 40 | :boom:            | 2021-12-11 18:04:00 | toowoomba     |      2 |       10 | Cold Hard Fact     |   3.2  | vulture             |
+| 41 | :boom:            | 2021-12-11 18:00:00 | randwick      |     10 |        5 | Brookspire         |   1.91 | pangea              |
+| 42 | :2nd_place_medal: | 2021-12-11 18:00:00 | randwick      |     10 |        9 | Blesk              |   6.5  | vulture             |
 | 43 | :2nd_place_medal: | 2021-12-11 17:47:00 | darwin        |      3 |        1 | Fromthenevernever  |   2    | moechilli           |
 | 44 | :soon:            | 2021-12-11 17:28:00 | ascot         |      5 |        4 | Proconsent         |   1.8  | benny,blackshadow   |
-| 45 | --                | 2021-12-11 17:24:00 | toowoomba     |      1 |        6 | Wait A Minute      |  20    | blackshadow         |
+| 45 | 6.0               | 2021-12-11 17:24:00 | toowoomba     |      1 |        6 | Wait A Minute      |  20    | blackshadow         |
 | 46 | 5.0               | 2021-12-11 17:12:00 | morphettville |      8 |        6 | Rock The Ring      |   2.05 | pangea,icyhot       |
 | 47 | :2nd_place_medal: | 2021-12-11 17:07:00 | darwin        |      2 |        1 | Sweet Cheval       |   2.7  | benny,icyhot        |
 | 48 | 6.0               | 2021-12-11 17:00:00 | flemington    |      8 |        6 | Just Benjamin      |   8    | vulture,pangea      |
@@ -164,10 +164,10 @@ date: 2021-12-11 17:58:43 +1000
 | 81 | 7.0               | 2021-12-11 13:03:00 | ascot-park    |      5 |        7 | The Ace            |  14    | cosmo,bluey         |
 | 82 | 7.0               | 2021-12-11 12:55:00 | randwick      |      2 |        1 | Travest            |   3    | pangea              |
 | 83 | 4.0               | 2021-12-11 12:48:00 | morphettville |      1 |        1 | Out Of Aflica      |   1.4  | pangea              |
-| 84 | --                | 2021-12-11 12:39:00 | awapuni       |      6 |        1 | Waisake            |   4.5  | pangea              |
+| 84 | 6.0               | 2021-12-11 12:39:00 | awapuni       |      6 |        1 | Waisake            |   4.5  | pangea              |
 | 85 | 5.0               | 2021-12-11 12:35:00 | flemington    |      1 |        2 | Nothing Silly      |  15    | milkman             |
 | 86 | 6.0               | 2021-12-11 12:35:00 | flemington    |      1 |        3 | Kumicho            |   6.5  | looseknot           |
-| 87 | --                | 2021-12-11 11:57:00 | awapuni       |      5 |        2 | Sinarahma          |  13    | pangea              |
+| 87 | 8.0               | 2021-12-11 11:57:00 | awapuni       |      5 |        2 | Sinarahma          |  13    | pangea              |
 | 88 | :2nd_place_medal: | 2021-12-11 11:48:00 | ascot-park    |      3 |        1 | He's Got Power     |   5.5  | benny,pangea        |
 | 89 | 13.0              | 2021-12-11 11:12:00 | ascot-park    |      2 |        6 | Ole Mate           |   6    | looseknot           |
 | 90 | :boom:            | 2021-12-11 11:00:00 | te-rapa       |      3 |        9 | Wolverine          |   2.3  | milkman             |
