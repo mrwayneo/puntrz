@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 16:28:32 +1000  
+date: 2021-12-11 16:43:43 +1000  
 ---   
 
 
@@ -130,11 +130,11 @@ date: 2021-12-11 16:28:32 +1000
 | 47 | :soon:            | 2021-12-11 17:07:00 | darwin        |      2 |        1 | Sweet Cheval       |   2.7  | benny,icyhot        |
 | 48 | :soon:            | 2021-12-11 17:00:00 | flemington    |      8 |        6 | Just Benjamin      |   8    | vulture,pangea      |
 | 49 | :soon:            | 2021-12-11 17:00:00 | flemington    |      8 |       12 | Five Kingdom       |  10    | pangea              |
-| 50 | :soon:            | 2021-12-11 16:42:00 | townsville    |      4 |        4 | Verbalizer         |   3.1  | benny,pangea        |
-| 51 | --                | 2021-12-11 16:27:00 | darwin        |      1 |        5 | Skellig Island     |  12    | overthrow           |
+| 50 | --                | 2021-12-11 16:42:00 | townsville    |      4 |        4 | Verbalizer         |   3.1  | benny,pangea        |
+| 51 | 4.0               | 2021-12-11 16:27:00 | darwin        |      1 |        5 | Skellig Island     |  12    | overthrow           |
 | 52 | :2nd_place_medal: | 2021-12-11 16:20:00 | flemington    |      7 |        5 | Parsifal           |  14    | pangea              |
 | 53 | 4.0               | 2021-12-11 16:20:00 | flemington    |      7 |       11 | Tequila Time       |   4.6  | vulture             |
-| 54 | --                | 2021-12-11 16:12:00 | eagle-farm    |      5 |        5 | Good Chat          |  15    | vulture             |
+| 54 | 5.0               | 2021-12-11 16:12:00 | eagle-farm    |      5 |        5 | Good Chat          |  15    | vulture             |
 | 55 | :2nd_place_medal: | 2021-12-11 16:08:00 | ascot         |      3 |        6 | Bopping Blue       |   2.88 | pangea,blackshadow  |
 | 56 | 6.0               | 2021-12-11 16:08:00 | ascot         |      3 |        5 | Agent Kensington   |   7.5  | benny,overthrow     |
 | 57 | :3rd_place_medal: | 2021-12-11 16:00:00 | randwick      |      7 |        2 | Southern Lad       |   6    | pangea              |
