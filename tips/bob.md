@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-11 12:43:39 +1000  
+date: 2021-12-11 12:58:38 +1000  
 categories: None 
 ---   
 
@@ -183,8 +183,8 @@ categories: None
 | 9                 | 2021-03-29 | grafton R2          | 7 Medusa's Fury       |   9.1  |    -10   |
 | 9                 | 2021-03-27 | morphettville R3    | 8 Oath Of Omerta      |  21    |    -10   |
 | 99                | 2021-03-27 | dundalk R5          | 2 Doolin Dancer       |  21    |    -10   |
-| 99                | 2021-03-26 | cork R7             | 14 Paper Lantern      | 101    |    -10   |
 | 99                | 2021-03-26 | cork R7             | 2 Optum               |  15    |    -10   |
+| 99                | 2021-03-26 | cork R7             | 14 Paper Lantern      | 101    |    -10   |
 | 99                | 2021-03-25 | hereford R6         | 7 Manor Park          |  34    |    -10   |
 | 99                | 2021-03-21 | thurles R3          | 9 Pateen              |  81    |    -10   |
 | 11                | 2021-03-20 | eagle-farm R9       | 14 Our Rebel          |  63    |    -10   |
