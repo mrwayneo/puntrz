@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 12:28:31 +1000  
+date: 2021-12-11 12:43:40 +1000  
 ---   
 
 
@@ -164,9 +164,9 @@ date: 2021-12-11 12:28:31 +1000
 | 81 | :soon:            | 2021-12-11 13:03:00 | ascot-park    |      5 |        7 | The Ace            |  14    | cosmo,bluey         |
 | 82 | :soon:            | 2021-12-11 12:55:00 | randwick      |      2 |        1 | Travest            |   3    | pangea              |
 | 83 | :soon:            | 2021-12-11 12:48:00 | morphettville |      1 |        1 | Out Of Aflica      |   1.4  | pangea              |
-| 84 | :soon:            | 2021-12-11 12:39:00 | awapuni       |      6 |        1 | Waisake            |   4.5  | pangea              |
-| 85 | :soon:            | 2021-12-11 12:35:00 | flemington    |      1 |        2 | Nothing Silly      |  15    | milkman             |
-| 86 | :soon:            | 2021-12-11 12:35:00 | flemington    |      1 |        3 | Kumicho            |   6.5  | looseknot           |
+| 84 | --                | 2021-12-11 12:39:00 | awapuni       |      6 |        1 | Waisake            |   4.5  | pangea              |
+| 85 | --                | 2021-12-11 12:35:00 | flemington    |      1 |        2 | Nothing Silly      |  15    | milkman             |
+| 86 | --                | 2021-12-11 12:35:00 | flemington    |      1 |        3 | Kumicho            |   6.5  | looseknot           |
 | 87 | --                | 2021-12-11 11:57:00 | awapuni       |      5 |        2 | Sinarahma          |  13    | pangea              |
 | 88 | :2nd_place_medal: | 2021-12-11 11:48:00 | ascot-park    |      3 |        1 | He's Got Power     |   5.5  | benny,pangea        |
 | 89 | --                | 2021-12-11 11:12:00 | ascot-park    |      2 |        6 | Ole Mate           |   6    | looseknot           |
