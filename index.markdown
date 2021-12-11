@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 14:47:49 +1000  
+date: 2021-12-11 15:10:03 +1000  
 ---   
 
 
@@ -10,15 +10,15 @@ date: 2021-12-11 14:47:49 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      1 |     26   | 1    |  2.6  |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      1 |     -9   | 0.33 | -0.3  |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      2 |      0 |    -20   | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      0 |    -20   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |    -20   | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |    -30   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |    -40   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     10 |      0 |   -100   | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     11 |      0 |   -110   | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     17 |      1 |   -143.5 | 0.06 | -0.84 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     17 |      2 |   -122.5 | 0.12 | -0.72 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |   -220   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     27 |      0 |   -270   | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      1 |   -356   | 0.02 | -0.87 |
@@ -145,8 +145,8 @@ date: 2021-12-11 14:47:49 +1000
 | 62 | :soon:            | 2021-12-11 15:22:00 | townsville    |      2 |        3 | Deluxe Rocker      |   3.4  | pangea              |
 | 63 | :soon:            | 2021-12-11 15:20:00 | randwick      |      6 |        3 | Incredulous Dream  |   4    | vulture             |
 | 64 | :soon:            | 2021-12-11 15:12:00 | morphettville |      5 |        4 | Resurge            |   4.75 | vulture,blackshadow |
-| 65 | :soon:            | 2021-12-11 15:00:00 | flemington    |      5 |        5 | Dubai Nights       |   7.5  | milkman             |
-| 66 | :soon:            | 2021-12-11 14:52:00 | eagle-farm    |      3 |        1 | Palazzo Spirit     |   2.38 | milkman,icyhot      |
+| 65 | --                | 2021-12-11 15:00:00 | flemington    |      5 |        5 | Dubai Nights       |   7.5  | milkman             |
+| 66 | :boom:            | 2021-12-11 14:52:00 | eagle-farm    |      3 |        1 | Palazzo Spirit     |   2.38 | milkman,icyhot      |
 | 67 | :2nd_place_medal: | 2021-12-11 14:40:00 | randwick      |      5 |        4 | Calgary Stampede   |   9.5  | vulture,milkman     |
 | 68 | 4.0               | 2021-12-11 14:40:00 | randwick      |      5 |        2 | Boldinho           |   2.25 | vulture             |
 | 69 | :3rd_place_medal: | 2021-12-11 14:40:00 | randwick      |      5 |        1 | Athletica          |   4.8  | vulture             |
