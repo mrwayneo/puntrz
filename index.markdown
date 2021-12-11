@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-12 06:01:14 +1000  
+date: 2021-12-12 06:16:13 +1000  
 ---   
 
 
@@ -61,7 +61,7 @@ date: 2021-12-12 06:01:14 +1000
 
 |    | finish            | time                | track         |   race |   number | name               |   odds | tipster             |
 |---:|:------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | :soon:            | 2021-12-12 06:15:00 | wolverhampton |      7 |        2 | Corinthia Knight   |   9.5  | pangea              |
+|  0 | --                | 2021-12-12 06:15:00 | wolverhampton |      7 |        2 | Corinthia Knight   |   9.5  | pangea              |
 |  1 | --                | 2021-12-12 04:45:00 | wolverhampton |      4 |        2 | Roman Dynasty      |   2.9  | vulture             |
 |  2 | :3rd_place_medal: | 2021-12-12 04:45:00 | wolverhampton |      4 |        5 | Tom Collins        |   5.5  | looseknot           |
 |  3 | --                | 2021-12-12 02:35:00 | cheltenham    |      7 |        6 | Lust For Glory     |  34    | overthrow           |
