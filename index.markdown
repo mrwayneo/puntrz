@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 17:28:36 +1000  
+date: 2021-12-11 17:43:37 +1000  
 ---   
 
 
@@ -126,7 +126,7 @@ date: 2021-12-11 17:28:36 +1000
 | 43 | :soon:            | 2021-12-11 17:47:00 | darwin        |      3 |        1 | Fromthenevernever  |   2    | moechilli           |
 | 44 | :soon:            | 2021-12-11 17:28:00 | ascot         |      5 |        4 | Proconsent         |   1.8  | benny,blackshadow   |
 | 45 | --                | 2021-12-11 17:24:00 | toowoomba     |      1 |        6 | Wait A Minute      |  20    | blackshadow         |
-| 46 | --                | 2021-12-11 17:12:00 | morphettville |      8 |        6 | Rock The Ring      |   2.05 | pangea,icyhot       |
+| 46 | 5.0               | 2021-12-11 17:12:00 | morphettville |      8 |        6 | Rock The Ring      |   2.05 | pangea,icyhot       |
 | 47 | :2nd_place_medal: | 2021-12-11 17:07:00 | darwin        |      2 |        1 | Sweet Cheval       |   2.7  | benny,icyhot        |
 | 48 | 6.0               | 2021-12-11 17:00:00 | flemington    |      8 |        6 | Just Benjamin      |   8    | vulture,pangea      |
 | 49 | :boom:            | 2021-12-11 17:00:00 | flemington    |      8 |       12 | Five Kingdom       |  10    | pangea              |
