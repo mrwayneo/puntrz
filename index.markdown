@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 15:25:39 +1000  
+date: 2021-12-11 15:40:44 +1000  
 ---   
 
 
@@ -20,7 +20,7 @@ date: 2021-12-11 15:25:39 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     11 |      0 |   -110   | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     17 |      2 |   -122.5 | 0.12 | -0.72 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |   -220   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     27 |      0 |   -270   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     27 |      1 |   -229   | 0.04 | -0.85 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      1 |   -356   | 0.02 | -0.87 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     48 |      0 |   -480   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     80 |      1 |   -782   | 0.01 | -0.98 |
@@ -140,7 +140,7 @@ date: 2021-12-11 15:25:39 +1000
 | 57 | :soon:            | 2021-12-11 16:00:00 | randwick      |      7 |        2 | Southern Lad       |   6    | pangea              |
 | 58 | :soon:            | 2021-12-11 16:00:00 | randwick      |      7 |        8 | Surreal Step       |  19    | pangea,blackshadow  |
 | 59 | :soon:            | 2021-12-11 15:52:00 | morphettville |      6 |        2 | Crowned Monarch    |   3.7  | benny,pangea        |
-| 60 | :soon:            | 2021-12-11 15:28:00 | ascot         |      2 |        1 | He's A Sizzler     |   3.5  | vulture             |
+| 60 | :boom:            | 2021-12-11 15:28:00 | ascot         |      2 |        1 | He's A Sizzler     |   3.5  | vulture             |
 | 61 | :2nd_place_medal: | 2021-12-11 15:22:00 | townsville    |      2 |        5 | Micawber           |   5    | moechilli           |
 | 62 | :3rd_place_medal: | 2021-12-11 15:22:00 | townsville    |      2 |        3 | Deluxe Rocker      |   3.4  | pangea              |
 | 63 | 4.0               | 2021-12-11 15:20:00 | randwick      |      6 |        3 | Incredulous Dream  |   4    | vulture             |
