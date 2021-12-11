@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 16:58:29 +1000  
+date: 2021-12-11 17:13:29 +1000  
 ---   
 
 
@@ -21,7 +21,7 @@ date: 2021-12-11 16:58:29 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     17 |      2 |   -122.5 | 0.12 | -0.72 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |   -220   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     27 |      1 |   -229   | 0.04 | -0.85 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      1 |   -356   | 0.02 | -0.87 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      2 |   -265   | 0.05 | -0.65 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     48 |      0 |   -480   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     80 |      2 |   -769   | 0.02 | -0.96 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    124 |      0 |  -1240   | 0    | -1    |
@@ -126,10 +126,10 @@ date: 2021-12-11 16:58:29 +1000
 | 43 | :soon:            | 2021-12-11 17:47:00 | darwin        |      3 |        1 | Fromthenevernever  |   2    | moechilli           |
 | 44 | :soon:            | 2021-12-11 17:28:00 | ascot         |      5 |        4 | Proconsent         |   1.8  | benny,blackshadow   |
 | 45 | :soon:            | 2021-12-11 17:24:00 | toowoomba     |      1 |        6 | Wait A Minute      |  20    | blackshadow         |
-| 46 | :soon:            | 2021-12-11 17:12:00 | morphettville |      8 |        6 | Rock The Ring      |   2.05 | pangea,icyhot       |
-| 47 | :soon:            | 2021-12-11 17:07:00 | darwin        |      2 |        1 | Sweet Cheval       |   2.7  | benny,icyhot        |
-| 48 | :soon:            | 2021-12-11 17:00:00 | flemington    |      8 |        6 | Just Benjamin      |   8    | vulture,pangea      |
-| 49 | :soon:            | 2021-12-11 17:00:00 | flemington    |      8 |       12 | Five Kingdom       |  10    | pangea              |
+| 46 | --                | 2021-12-11 17:12:00 | morphettville |      8 |        6 | Rock The Ring      |   2.05 | pangea,icyhot       |
+| 47 | :2nd_place_medal: | 2021-12-11 17:07:00 | darwin        |      2 |        1 | Sweet Cheval       |   2.7  | benny,icyhot        |
+| 48 | --                | 2021-12-11 17:00:00 | flemington    |      8 |        6 | Just Benjamin      |   8    | vulture,pangea      |
+| 49 | :boom:            | 2021-12-11 17:00:00 | flemington    |      8 |       12 | Five Kingdom       |  10    | pangea              |
 | 50 | :2nd_place_medal: | 2021-12-11 16:42:00 | townsville    |      4 |        4 | Verbalizer         |   3.1  | benny,pangea        |
 | 51 | 4.0               | 2021-12-11 16:27:00 | darwin        |      1 |        5 | Skellig Island     |  12    | overthrow           |
 | 52 | :2nd_place_medal: | 2021-12-11 16:20:00 | flemington    |      7 |        5 | Parsifal           |  14    | pangea              |
