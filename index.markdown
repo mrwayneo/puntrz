@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 13:13:45 +1000  
+date: 2021-12-11 13:28:29 +1000  
 ---   
 
 
@@ -158,11 +158,11 @@ date: 2021-12-11 13:13:45 +1000
 | 75 | :soon:            | 2021-12-11 13:54:00 | gold-coast    |      2 |        3 | Winter Violet      |   2.5  | pangea              |
 | 76 | :soon:            | 2021-12-11 13:45:00 | flemington    |      3 |       10 | Garvoc             |  17    | pangea              |
 | 77 | :soon:            | 2021-12-11 13:34:00 | coffs-harbour |      1 |        2 | Dark Sapphire      |   9    | looseknot           |
-| 78 | :soon:            | 2021-12-11 13:22:00 | te-rapa       |      7 |        1 | Showoroses         |   2.45 | vulture             |
-| 79 | :soon:            | 2021-12-11 13:18:00 | gold-coast    |      1 |        2 | Miss Bulitz        |   3.9  | benny,pangea        |
+| 78 | --                | 2021-12-11 13:22:00 | te-rapa       |      7 |        1 | Showoroses         |   2.45 | vulture             |
+| 79 | :2nd_place_medal: | 2021-12-11 13:18:00 | gold-coast    |      1 |        2 | Miss Bulitz        |   3.9  | benny,pangea        |
 | 80 | :3rd_place_medal: | 2021-12-11 13:03:00 | ascot-park    |      5 |        5 | Tyler Eight        |   2.38 | benny,milkman       |
 | 81 | --                | 2021-12-11 13:03:00 | ascot-park    |      5 |        7 | The Ace            |  14    | cosmo,bluey         |
-| 82 | --                | 2021-12-11 12:55:00 | randwick      |      2 |        1 | Travest            |   3    | pangea              |
+| 82 | 7.0               | 2021-12-11 12:55:00 | randwick      |      2 |        1 | Travest            |   3    | pangea              |
 | 83 | 4.0               | 2021-12-11 12:48:00 | morphettville |      1 |        1 | Out Of Aflica      |   1.4  | pangea              |
 | 84 | --                | 2021-12-11 12:39:00 | awapuni       |      6 |        1 | Waisake            |   4.5  | pangea              |
 | 85 | 5.0               | 2021-12-11 12:35:00 | flemington    |      1 |        2 | Nothing Silly      |  15    | milkman             |
