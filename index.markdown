@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 18:59:27 +1000  
+date: 2021-12-11 19:16:31 +1000  
 ---   
 
 
@@ -113,7 +113,7 @@ date: 2021-12-11 18:59:27 +1000
 | 30 | :soon:            | 2021-12-11 19:25:00 | ascot         |      8 |       13 | Pure Devotion      |   2.7  | vulture,blackshadow |
 | 31 | :soon:            | 2021-12-11 19:25:00 | ascot         |      8 |       14 | Stafford's Lad     |  14    | pangea,blackshadow  |
 | 32 | :boom:            | 2021-12-11 18:50:00 | darwin        |      5 |        1 | Raazou             |   3.4  | overthrow           |
-| 33 | --                | 2021-12-11 18:37:00 | toowoomba     |      3 |        6 | Splasher           |   3    | pangea              |
+| 33 | 12.0              | 2021-12-11 18:37:00 | toowoomba     |      3 |        6 | Splasher           |   3    | pangea              |
 | 34 | :3rd_place_medal: | 2021-12-11 18:20:00 | darwin        |      4 |        4 | Dizzy Miss Lizzy   |   3.5  | overthrow           |
 | 35 | :boom:            | 2021-12-11 18:13:00 | eagle-farm    |      8 |        7 | Garibaldi          |   2.7  | benny,overthrow     |
 | 36 | :3rd_place_medal: | 2021-12-11 18:13:00 | eagle-farm    |      8 |       12 | Garoppolo          |   4.75 | pangea              |
