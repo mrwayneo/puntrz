@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 15:55:42 +1000  
+date: 2021-12-11 16:13:31 +1000  
 ---   
 
 
@@ -134,12 +134,12 @@ date: 2021-12-11 15:55:42 +1000
 | 51 | :soon:            | 2021-12-11 16:27:00 | darwin        |      1 |        5 | Skellig Island     |  12    | overthrow           |
 | 52 | :soon:            | 2021-12-11 16:20:00 | flemington    |      7 |        5 | Parsifal           |  14    | pangea              |
 | 53 | :soon:            | 2021-12-11 16:20:00 | flemington    |      7 |       11 | Tequila Time       |   4.6  | vulture             |
-| 54 | :soon:            | 2021-12-11 16:12:00 | eagle-farm    |      5 |        5 | Good Chat          |  15    | vulture             |
-| 55 | :soon:            | 2021-12-11 16:08:00 | ascot         |      3 |        6 | Bopping Blue       |   2.88 | pangea,blackshadow  |
-| 56 | :soon:            | 2021-12-11 16:08:00 | ascot         |      3 |        5 | Agent Kensington   |   7.5  | benny,overthrow     |
-| 57 | :soon:            | 2021-12-11 16:00:00 | randwick      |      7 |        2 | Southern Lad       |   6    | pangea              |
-| 58 | :soon:            | 2021-12-11 16:00:00 | randwick      |      7 |        8 | Surreal Step       |  19    | pangea,blackshadow  |
-| 59 | --                | 2021-12-11 15:52:00 | morphettville |      6 |        2 | Crowned Monarch    |   3.7  | benny,pangea        |
+| 54 | --                | 2021-12-11 16:12:00 | eagle-farm    |      5 |        5 | Good Chat          |  15    | vulture             |
+| 55 | :2nd_place_medal: | 2021-12-11 16:08:00 | ascot         |      3 |        6 | Bopping Blue       |   2.88 | pangea,blackshadow  |
+| 56 | --                | 2021-12-11 16:08:00 | ascot         |      3 |        5 | Agent Kensington   |   7.5  | benny,overthrow     |
+| 57 | :3rd_place_medal: | 2021-12-11 16:00:00 | randwick      |      7 |        2 | Southern Lad       |   6    | pangea              |
+| 58 | 4.0               | 2021-12-11 16:00:00 | randwick      |      7 |        8 | Surreal Step       |  19    | pangea,blackshadow  |
+| 59 | 6.0               | 2021-12-11 15:52:00 | morphettville |      6 |        2 | Crowned Monarch    |   3.7  | benny,pangea        |
 | 60 | :boom:            | 2021-12-11 15:28:00 | ascot         |      2 |        1 | He's A Sizzler     |   3.5  | vulture             |
 | 61 | :2nd_place_medal: | 2021-12-11 15:22:00 | townsville    |      2 |        5 | Micawber           |   5    | moechilli           |
 | 62 | :3rd_place_medal: | 2021-12-11 15:22:00 | townsville    |      2 |        3 | Deluxe Rocker      |   3.4  | pangea              |
@@ -161,7 +161,7 @@ date: 2021-12-11 15:55:42 +1000
 | 78 | :2nd_place_medal: | 2021-12-11 13:22:00 | te-rapa       |      7 |        1 | Showoroses         |   2.45 | vulture             |
 | 79 | :2nd_place_medal: | 2021-12-11 13:18:00 | gold-coast    |      1 |        2 | Miss Bulitz        |   3.9  | benny,pangea        |
 | 80 | :3rd_place_medal: | 2021-12-11 13:03:00 | ascot-park    |      5 |        5 | Tyler Eight        |   2.38 | benny,milkman       |
-| 81 | --                | 2021-12-11 13:03:00 | ascot-park    |      5 |        7 | The Ace            |  14    | cosmo,bluey         |
+| 81 | 7.0               | 2021-12-11 13:03:00 | ascot-park    |      5 |        7 | The Ace            |  14    | cosmo,bluey         |
 | 82 | 7.0               | 2021-12-11 12:55:00 | randwick      |      2 |        1 | Travest            |   3    | pangea              |
 | 83 | 4.0               | 2021-12-11 12:48:00 | morphettville |      1 |        1 | Out Of Aflica      |   1.4  | pangea              |
 | 84 | --                | 2021-12-11 12:39:00 | awapuni       |      6 |        1 | Waisake            |   4.5  | pangea              |
@@ -169,6 +169,6 @@ date: 2021-12-11 15:55:42 +1000
 | 86 | 6.0               | 2021-12-11 12:35:00 | flemington    |      1 |        3 | Kumicho            |   6.5  | looseknot           |
 | 87 | --                | 2021-12-11 11:57:00 | awapuni       |      5 |        2 | Sinarahma          |  13    | pangea              |
 | 88 | :2nd_place_medal: | 2021-12-11 11:48:00 | ascot-park    |      3 |        1 | He's Got Power     |   5.5  | benny,pangea        |
-| 89 | --                | 2021-12-11 11:12:00 | ascot-park    |      2 |        6 | Ole Mate           |   6    | looseknot           |
+| 89 | 13.0              | 2021-12-11 11:12:00 | ascot-park    |      2 |        6 | Ole Mate           |   6    | looseknot           |
 | 90 | :boom:            | 2021-12-11 11:00:00 | te-rapa       |      3 |        9 | Wolverine          |   2.3  | milkman             |
 | 91 | :2nd_place_medal: | 2021-12-11 09:54:00 | te-rapa       |      1 |        1 | On The Bubbles     |   1.6  | milkman             |
