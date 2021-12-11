@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-11 14:30:55 +1000  
+date: 2021-12-11 14:47:49 +1000  
 ---   
 
 
@@ -147,9 +147,9 @@ date: 2021-12-11 14:30:55 +1000
 | 64 | :soon:            | 2021-12-11 15:12:00 | morphettville |      5 |        4 | Resurge            |   4.75 | vulture,blackshadow |
 | 65 | :soon:            | 2021-12-11 15:00:00 | flemington    |      5 |        5 | Dubai Nights       |   7.5  | milkman             |
 | 66 | :soon:            | 2021-12-11 14:52:00 | eagle-farm    |      3 |        1 | Palazzo Spirit     |   2.38 | milkman,icyhot      |
-| 67 | :soon:            | 2021-12-11 14:40:00 | randwick      |      5 |        4 | Calgary Stampede   |   9.5  | vulture,milkman     |
-| 68 | :soon:            | 2021-12-11 14:40:00 | randwick      |      5 |        2 | Boldinho           |   2.25 | vulture             |
-| 69 | :soon:            | 2021-12-11 14:40:00 | randwick      |      5 |        1 | Athletica          |   4.8  | vulture             |
+| 67 | :2nd_place_medal: | 2021-12-11 14:40:00 | randwick      |      5 |        4 | Calgary Stampede   |   9.5  | vulture,milkman     |
+| 68 | 4.0               | 2021-12-11 14:40:00 | randwick      |      5 |        2 | Boldinho           |   2.25 | vulture             |
+| 69 | :3rd_place_medal: | 2021-12-11 14:40:00 | randwick      |      5 |        1 | Athletica          |   4.8  | vulture             |
 | 70 | 4.0               | 2021-12-11 14:13:00 | ascot-park    |      7 |        2 | Kilowatt           |  11    | cosmo,bluey         |
 | 71 | :soon:            | 2021-12-11 14:13:00 | eagle-farm    |      2 |        1 | Artero             |   4.5  | benny,blackshadow   |
 | 72 | :boom:            | 2021-12-11 14:05:00 | randwick      |      4 |        1 | Mightybeel         |   3.3  | wallbow             |
