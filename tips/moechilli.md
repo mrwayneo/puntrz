@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-12-12 19:15:12 +1000  
+date: 2021-12-12 19:30:08 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 19:30             | 2021-12-12 | sha-tin R8             | 11 Lei Papale        |   7    |    -10   |
+| 0                 | 2021-12-12 | sha-tin R8             | 11 Lei Papale        |   0    |    -10   |
 | :3rd_place_medal: | 2021-12-12 | sha-tin R4             | 8 Ebaiyra            |   7    |    -10   |
 | 9                 | 2021-12-12 | canberra R4            | 13 Secret Harbour    |  51    |    -10   |
 | :2nd_place_medal: | 2021-12-11 | darwin R3              | 1 Fromthenevernever  |   2    |    -10   |
