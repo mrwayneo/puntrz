@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-12 17:30:24 +1000  
+date: 2021-12-12 17:45:12 +1000  
 ---   
 
 
@@ -99,10 +99,10 @@ date: 2021-12-12 17:30:24 +1000
 | 17 | :soon:            | 2021-12-12 18:50:00 | sha-tin        |      7 |        3 | Indy Champ      |  17    | benny,blackshadow    |
 | 18 | :soon:            | 2021-12-12 18:15:00 | sha-tin        |      6 |        6 | Fantastic Way   |   3.9  | icyhot               |
 | 19 | :soon:            | 2021-12-12 18:00:00 | pinjarra       |      5 |        8 | Idle Star       |   8    | looseknot            |
-| 20 | :soon:            | 2021-12-12 17:40:00 | sha-tin        |      5 |       12 | Resistencia     |   8.5  | looseknot            |
-| 21 | :soon:            | 2021-12-12 17:40:00 | sha-tin        |      5 |        2 | Pixie Knight    |   3.6  | vulture              |
-| 22 | :soon:            | 2021-12-12 17:40:00 | sha-tin        |      5 |        3 | Danon Smash     |  17    | pangea,blackshadow   |
-| 23 | :soon:            | 2021-12-12 17:40:00 | sha-tin        |      5 |       11 | Courier Wonder  |  10    | milkman,icyhot       |
+| 20 | --                | 2021-12-12 17:40:00 | sha-tin        |      5 |       12 | Resistencia     |   8.5  | looseknot            |
+| 21 | --                | 2021-12-12 17:40:00 | sha-tin        |      5 |        2 | Pixie Knight    |   3.6  | vulture              |
+| 22 | --                | 2021-12-12 17:40:00 | sha-tin        |      5 |        3 | Danon Smash     |  17    | pangea,blackshadow   |
+| 23 | --                | 2021-12-12 17:40:00 | sha-tin        |      5 |       11 | Courier Wonder  |  10    | milkman,icyhot       |
 | 24 | :2nd_place_medal: | 2021-12-12 17:00:00 | sha-tin        |      4 |        1 | Pyledriver      |   3.2  | evenodds,blackshadow |
 | 25 | :boom:            | 2021-12-12 17:00:00 | sha-tin        |      4 |        2 | Glory Vase      |   2.4  | blackshadow          |
 | 26 | :3rd_place_medal: | 2021-12-12 17:00:00 | sha-tin        |      4 |        8 | Ebaiyra         |   7    | moechilli            |
