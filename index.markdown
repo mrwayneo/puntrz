@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-12 18:15:13 +1000  
+date: 2021-12-12 18:30:17 +1000  
 ---   
 
 
@@ -77,37 +77,37 @@ date: 2021-12-12 18:15:13 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6100 |    907 |  -7967.2 | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7647 |    414 | -15334   | 0.05 | -0.2  |
 
-|    | finish                   | time                | track          |   race |   number | name            |   odds | tipster              |
-|---:|:-------------------------|:--------------------|:---------------|-------:|---------:|:----------------|-------:|:---------------------|
-|  0 | :soon:                   | 2021-12-13 02:10:00 | carlisle       |      7 |        9 | Nell's Bells    |   8    | looseknot            |
-|  1 | :soon:                   | 2021-12-13 01:55:00 | southwell      |      6 |        6 | Hob House       |   2.3  | overthrow,lago       |
-|  2 | :soon:                   | 2021-12-13 01:55:00 | southwell      |      6 |        1 | Kayf Hernando   |   7    | overthrow            |
-|  3 | :soon:                   | 2021-12-13 00:55:00 | southwell      |      4 |        2 | Clean Getaway   |   6.5  | overthrow            |
-|  4 | :soon:                   | 2021-12-13 00:55:00 | southwell      |      4 |        5 | Horizon D'Ainay |   1.65 | overthrow            |
-|  5 | :soon:                   | 2021-12-13 00:40:00 | carlisle       |      4 |        6 | Uncle Alastair  |  10    | milkman              |
-|  6 | :soon:                   | 2021-12-13 00:20:00 | southwell      |      3 |       12 | Scarpered       |   6    | overthrow            |
-|  7 | :soon:                   | 2021-12-13 00:20:00 | southwell      |      3 |        6 | Callisto's King |  12    | overthrow            |
-|  8 | :soon:                   | 2021-12-13 00:05:00 | carlisle       |      3 |        1 | Best Trition    |   3.5  | vulture              |
-|  9 | :soon:                   | 2021-12-12 19:30:00 | sha-tin        |      8 |       11 | Lei Papale      |   7    | moechilli            |
-| 10 | :soon:                   | 2021-12-12 19:30:00 | sha-tin        |      8 |        8 | Dubai Honour    |   4.6  | vulture,looseknot    |
-| 11 | :soon:                   | 2021-12-12 19:30:00 | sha-tin        |      8 |       12 | Loves Only You  |   2.6  | pangea,icyhot        |
-| 12 | :soon:                   | 2021-12-12 19:30:00 | sha-tin        |      8 |        4 | Hishi Iguazu    |  17    | overthrow,milkman    |
-| 13 | :soon:                   | 2021-12-12 18:50:00 | sha-tin        |      7 |        4 | Waikuku         |  13    | vulture              |
-| 14 | :soon:                   | 2021-12-12 18:50:00 | sha-tin        |      7 |       11 | Mother Earth    |  34    | pangea               |
-| 15 | :soon:                   | 2021-12-12 18:50:00 | sha-tin        |      7 |        2 | Danon Kingly    |   7    | evenodds,looseknot   |
-| 16 | :soon:                   | 2021-12-12 18:50:00 | sha-tin        |      7 |        6 | Salios          |  21    | pangea               |
-| 17 | :soon:                   | 2021-12-12 18:50:00 | sha-tin        |      7 |        3 | Indy Champ      |  17    | benny,blackshadow    |
-| 18 | :hourglass_flowing_sand: | 2021-12-12 18:15:00 | sha-tin        |      6 |        6 | Fantastic Way   |   3.9  | icyhot               |
-| 19 | --                       | 2021-12-12 18:00:00 | pinjarra       |      5 |        8 | Idle Star       |   8    | looseknot            |
-| 20 | :2nd_place_medal:        | 2021-12-12 17:40:00 | sha-tin        |      5 |       12 | Resistencia     |   8.5  | looseknot            |
-| 21 | --                       | 2021-12-12 17:40:00 | sha-tin        |      5 |        2 | Pixie Knight    |   3.6  | vulture              |
-| 22 | --                       | 2021-12-12 17:40:00 | sha-tin        |      5 |        3 | Danon Smash     |  17    | pangea,blackshadow   |
-| 23 | :3rd_place_medal:        | 2021-12-12 17:40:00 | sha-tin        |      5 |       11 | Courier Wonder  |  10    | milkman,icyhot       |
-| 24 | :2nd_place_medal:        | 2021-12-12 17:00:00 | sha-tin        |      4 |        1 | Pyledriver      |   3.2  | evenodds,blackshadow |
-| 25 | :boom:                   | 2021-12-12 17:00:00 | sha-tin        |      4 |        2 | Glory Vase      |   2.4  | blackshadow          |
-| 26 | :3rd_place_medal:        | 2021-12-12 17:00:00 | sha-tin        |      4 |        8 | Ebaiyra         |   7    | moechilli            |
-| 27 | 8.0                      | 2021-12-12 16:00:00 | sunshine-coast |      5 |        3 | Cotton Fields   |   4.2  | pangea               |
-| 28 | :2nd_place_medal:        | 2021-12-12 15:25:00 | sha-tin        |      1 |        3 | Master Delight  |   1.9  | vulture              |
-| 29 | :3rd_place_medal:        | 2021-12-12 15:05:00 | canberra       |      4 |        1 | Dream Game      |   1.57 | vulture              |
-| 30 | 9.0                      | 2021-12-12 15:05:00 | canberra       |      4 |       13 | Secret Harbour  |  51    | moechilli            |
-| 31 | :2nd_place_medal:        | 2021-12-12 14:05:00 | sunshine-coast |      2 |        4 | Canny Impact    |   7.5  | looseknot            |
+|    | finish            | time                | track          |   race |   number | name            |   odds | tipster              |
+|---:|:------------------|:--------------------|:---------------|-------:|---------:|:----------------|-------:|:---------------------|
+|  0 | :soon:            | 2021-12-13 02:10:00 | carlisle       |      7 |        9 | Nell's Bells    |   8    | looseknot            |
+|  1 | :soon:            | 2021-12-13 01:55:00 | southwell      |      6 |        6 | Hob House       |   2.3  | overthrow,lago       |
+|  2 | :soon:            | 2021-12-13 01:55:00 | southwell      |      6 |        1 | Kayf Hernando   |   7    | overthrow            |
+|  3 | :soon:            | 2021-12-13 00:55:00 | southwell      |      4 |        2 | Clean Getaway   |   6.5  | overthrow            |
+|  4 | :soon:            | 2021-12-13 00:55:00 | southwell      |      4 |        5 | Horizon D'Ainay |   1.65 | overthrow            |
+|  5 | :soon:            | 2021-12-13 00:40:00 | carlisle       |      4 |        6 | Uncle Alastair  |  10    | milkman              |
+|  6 | :soon:            | 2021-12-13 00:20:00 | southwell      |      3 |       12 | Scarpered       |   6    | overthrow            |
+|  7 | :soon:            | 2021-12-13 00:20:00 | southwell      |      3 |        6 | Callisto's King |  12    | overthrow            |
+|  8 | :soon:            | 2021-12-13 00:05:00 | carlisle       |      3 |        1 | Best Trition    |   3.5  | vulture              |
+|  9 | :soon:            | 2021-12-12 19:30:00 | sha-tin        |      8 |       11 | Lei Papale      |   7    | moechilli            |
+| 10 | :soon:            | 2021-12-12 19:30:00 | sha-tin        |      8 |        8 | Dubai Honour    |   4.6  | vulture,looseknot    |
+| 11 | :soon:            | 2021-12-12 19:30:00 | sha-tin        |      8 |       12 | Loves Only You  |   2.6  | pangea,icyhot        |
+| 12 | :soon:            | 2021-12-12 19:30:00 | sha-tin        |      8 |        4 | Hishi Iguazu    |  17    | overthrow,milkman    |
+| 13 | :soon:            | 2021-12-12 18:50:00 | sha-tin        |      7 |        4 | Waikuku         |  13    | vulture              |
+| 14 | :soon:            | 2021-12-12 18:50:00 | sha-tin        |      7 |       11 | Mother Earth    |  34    | pangea               |
+| 15 | :soon:            | 2021-12-12 18:50:00 | sha-tin        |      7 |        2 | Danon Kingly    |   7    | evenodds,looseknot   |
+| 16 | :soon:            | 2021-12-12 18:50:00 | sha-tin        |      7 |        6 | Salios          |  21    | pangea               |
+| 17 | :soon:            | 2021-12-12 18:50:00 | sha-tin        |      7 |        3 | Indy Champ      |  17    | benny,blackshadow    |
+| 18 | --                | 2021-12-12 18:15:00 | sha-tin        |      6 |        6 | Fantastic Way   |   3.9  | icyhot               |
+| 19 | --                | 2021-12-12 18:00:00 | pinjarra       |      5 |        8 | Idle Star       |   8    | looseknot            |
+| 20 | :2nd_place_medal: | 2021-12-12 17:40:00 | sha-tin        |      5 |       12 | Resistencia     |   8.5  | looseknot            |
+| 21 | --                | 2021-12-12 17:40:00 | sha-tin        |      5 |        2 | Pixie Knight    |   3.6  | vulture              |
+| 22 | --                | 2021-12-12 17:40:00 | sha-tin        |      5 |        3 | Danon Smash     |  17    | pangea,blackshadow   |
+| 23 | :3rd_place_medal: | 2021-12-12 17:40:00 | sha-tin        |      5 |       11 | Courier Wonder  |  10    | milkman,icyhot       |
+| 24 | :2nd_place_medal: | 2021-12-12 17:00:00 | sha-tin        |      4 |        1 | Pyledriver      |   3.2  | evenodds,blackshadow |
+| 25 | :boom:            | 2021-12-12 17:00:00 | sha-tin        |      4 |        2 | Glory Vase      |   2.4  | blackshadow          |
+| 26 | :3rd_place_medal: | 2021-12-12 17:00:00 | sha-tin        |      4 |        8 | Ebaiyra         |   7    | moechilli            |
+| 27 | 8.0               | 2021-12-12 16:00:00 | sunshine-coast |      5 |        3 | Cotton Fields   |   4.2  | pangea               |
+| 28 | :2nd_place_medal: | 2021-12-12 15:25:00 | sha-tin        |      1 |        3 | Master Delight  |   1.9  | vulture              |
+| 29 | :3rd_place_medal: | 2021-12-12 15:05:00 | canberra       |      4 |        1 | Dream Game      |   1.57 | vulture              |
+| 30 | 9.0               | 2021-12-12 15:05:00 | canberra       |      4 |       13 | Secret Harbour  |  51    | moechilli            |
+| 31 | :2nd_place_medal: | 2021-12-12 14:05:00 | sunshine-coast |      2 |        4 | Canny Impact    |   7.5  | looseknot            |
