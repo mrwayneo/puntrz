@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-12 22:49:09 +1000  
+date: 2021-12-13 06:13:50 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     19 |      9 |    -15   | 0.47 | -0.08 |
-| Last 6 Months  |     91 |     58 |   1432.8 | 0.64 |  1.57 |
-| Since Jan 2020 |    147 |     81 |   1493.8 | 0.55 |  1.02 |
+| Last 28 Days   |     20 |      9 |    -25   | 0.45 | -0.12 |
+| Last 6 Months  |     92 |     58 |   1422.8 | 0.63 |  1.55 |
+| Since Jan 2020 |    148 |     81 |   1483.8 | 0.55 |  1    |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 01:55             | 2021-12-13 | southwell R6           | 6 Hob House          |  2.3  |    -10   |
+| 0                 | 2021-12-13 | southwell R6           | 6 Hob House          |  0    |    -10   |
 | 99                | 2021-12-10 | cheltenham R1          | 2 Hartur D'oudairies |  0    |    -10   |
 | 4                 | 2021-12-08 | uttoxeter R7           | 13 Wolfspear         |  3.7  |    -10   |
 | :boom:            | 2021-12-07 | ludlow R7              | 9 Fancy Stuff        |  5.5  |     45   |
@@ -88,8 +88,8 @@ categories: None
 | :boom:            | 2021-08-14 | tramore R7             | 7 Coole Og           |  1.67 |      6.7 |
 | :boom:            | 2021-08-14 | newmarket R3           | 2 Coroebus           |  2.2  |     12   |
 | :boom:            | 2021-08-08 | kilbeggan R8           | 9 Flemencello        |  1.4  |      4   |
-| 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
 | :2nd_place_medal: | 2021-07-31 | galway R8              | 15 Ashroe Diamond    |  2.5  |    -10   |
+| 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
 | 4                 | 2021-07-25 | uttoxeter R1           | 2 Knotty Ash         |  1.7  |    -10   |
 | :boom:            | 2021-07-22 | sandown R3             | 4 Inspiral           |  2.2  |     12   |
 | 99                | 2021-07-18 | newbury R7             | 2 Mawenzi            |  3.3  |    -10   |
@@ -99,8 +99,8 @@ categories: None
 | 99                | 2021-06-19 | royal-ascot R1         | 3 New Science        |  7.5  |    -10   |
 | 99                | 2021-06-19 | royal-ascot R3         | 21 Suesa             |  3.25 |    -10   |
 | 99                | 2021-06-17 | royal-ascot R1         | 9 Lucci              |  8    |    -10   |
-| 99                | 2021-06-17 | royal-ascot R6         | 28 Ruthin            |  4    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R6         | 26 Golden Bell       |  9    |    -10   |
+| 99                | 2021-06-17 | royal-ascot R6         | 28 Ruthin            |  4    |    -10   |
 | 5                 | 2021-06-12 | sandown-hillside R1    | 1 Mimosas            | 13.2  |    -10   |
 | :boom:            | 2021-06-12 | clonmel R8             | 2 Dani Barcelona     |  1.62 |      6.2 |
 | :boom:            | 2021-06-11 | sandown R3             | 8 Native Trail       |  1.8  |      8   |
