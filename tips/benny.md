@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-12-12 17:14:54 +1000  
+date: 2021-12-12 17:30:16 +1000  
 categories: None 
 ---   
 
@@ -53,8 +53,8 @@ categories: None
 | :boom:            | 2021-11-20 | sunshine-coast R7             | 2 Zoustyle            |  2.1  |     11   |
 | :2nd_place_medal: | 2021-11-20 | sunshine-coast R7             | 7 Totally Charmed     | 14    |    -10   |
 | :boom:            | 2021-11-20 | darwin R2                     | 3 Syncline            |  4.1  |     31   |
-| :2nd_place_medal: | 2021-11-20 | roma R4                       | 8 Phionaix            |  5.6  |    -10   |
 | :boom:            | 2021-11-20 | roma R4                       | 2 Patented            |  2.6  |     16   |
+| :2nd_place_medal: | 2021-11-20 | roma R4                       | 8 Phionaix            |  5.6  |    -10   |
 | :2nd_place_medal: | 2021-11-20 | kembla-grange R5              | 1 Incredulous Dream   |  7    |    -10   |
 | :2nd_place_medal: | 2021-11-18 | rockhampton R5                | 3 Eveready            |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-17 | launceston R7                 | 6 Boom Dot Com        |  6.5  |    -10   |
@@ -79,8 +79,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-05 | rockhampton R5                | 5 Boss Baby           |  5.5  |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R7                 | 1 Quackerjack         |  3.3  |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R5                 | 1 Quiet Riot          |  5    |    -10   |
-| 4                 | 2021-11-04 | flemington R2                 | 1 Sirileo Miss        |  2.35 |    -10   |
 | 5                 | 2021-11-04 | flemington R2                 | 3 Zing                |  4    |    -10   |
+| 4                 | 2021-11-04 | flemington R2                 | 1 Sirileo Miss        |  2.35 |    -10   |
 | 4                 | 2021-11-03 | launceston R6                 | 2 Balearic            |  8.5  |    -10   |
 | 8                 | 2021-11-02 | darwin R7                     | 5 Taciturn            |  4.8  |    -10   |
 | :2nd_place_medal: | 2021-11-02 | darwin R6                     | 3 El Sicario          |  3.9  |    -10   |
@@ -165,8 +165,8 @@ categories: None
 | 7                 | 2021-09-25 | toowoomba R1                  | 3 Better Ethics       | 16    |    -10   |
 | :2nd_place_medal: | 2021-09-24 | moonee-valley R7              | 3 The Inferno         |  6    |    -10   |
 | :3rd_place_medal: | 2021-09-22 | goodwood R2                   | 3 Kettle Hill         |  3    |    -10   |
-| :2nd_place_medal: | 2021-09-22 | gosford R5                    | 1 Jazzland            |  9    |    -10   |
 | 4                 | 2021-09-22 | gosford R5                    | 5 Mightybeel          |  6.5  |    -10   |
+| :2nd_place_medal: | 2021-09-22 | gosford R5                    | 1 Jazzland            |  9    |    -10   |
 | :3rd_place_medal: | 2021-09-22 | gosford R4                    | 7 Fastconi            |  6    |    -10   |
 | :3rd_place_medal: | 2021-09-21 | beaudesert R7                 | 5 Brazen Dynamo       |  0    |    -10   |
 | :2nd_place_medal: | 2021-09-19 | devonport-synthetic R8        | 1 Fragment            | 12    |    -10   |
@@ -391,8 +391,8 @@ categories: None
 | 11                | 2021-05-29 | eagle-farm R3                 | 10 Not an Option      | 26    |    -10   |
 | 8                 | 2021-05-29 | eagle-farm R2                 | 14 Beachbreak         | 11    |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R7             | 5 Queen Dazzler       |  3.4  |    -10   |
-| :2nd_place_medal: | 2021-05-27 | northam R9                    | 7 Brave Dream         |  5.1  |    -10   |
 | :boom:            | 2021-05-27 | northam R9                    | 9 Conquered Zone      |  5.8  |     48   |
+| :2nd_place_medal: | 2021-05-27 | northam R9                    | 7 Brave Dream         |  5.1  |    -10   |
 | 6                 | 2021-05-26 | belmont R7                    | 5 Truly Reliable      | 26    |    -10   |
 | 99                | 2021-05-25 | fairview R2                   | 1 Tarsus              |  3.8  |    -10   |
 | :boom:            | 2021-05-23 | devonport-synthetic R6        | 8 Aragon Star         |  4.5  |     35   |
@@ -507,8 +507,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-31 | doomben R6                    | 3 Say Haya            |  6.1  |    -10   |
 | :boom:            | 2021-03-30 | mackay R4                     | 5 Nailed It Nan       |  2.3  |     13   |
 | :boom:            | 2021-03-28 | hobart R3                     | 1 Boris The Blade     |  1.8  |      8   |
-| :boom:            | 2021-03-28 | kempton R3                    | 1 Al Zaraqaan         |  2.05 |     10.5 |
 | :2nd_place_medal: | 2021-03-28 | kempton R3                    | 5 Almighwar           |  4.6  |    -10   |
+| :boom:            | 2021-03-28 | kempton R3                    | 1 Al Zaraqaan         |  2.05 |     10.5 |
 | 6                 | 2021-03-27 | morphettville R4              | 10 Our Sustar         | 34    |    -10   |
 | 4                 | 2021-03-27 | rosehill R4                   | 2 Sir Dragonet        |  0    |    -10   |
 | :boom:            | 2021-03-27 | bendigo R4                    | 4 Fanciful Toff       |  2.4  |     14   |
