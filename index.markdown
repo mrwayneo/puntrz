@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-12 19:00:11 +1000  
+date: 2021-12-12 19:15:17 +1000  
 ---   
 
 
@@ -95,7 +95,7 @@ date: 2021-12-12 19:00:11 +1000
 | 13 | --                | 2021-12-12 18:50:00 | sha-tin        |      7 |        4 | Waikuku         |  13    | vulture              |
 | 14 | --                | 2021-12-12 18:50:00 | sha-tin        |      7 |       11 | Mother Earth    |  34    | pangea               |
 | 15 | --                | 2021-12-12 18:50:00 | sha-tin        |      7 |        2 | Danon Kingly    |   7    | evenodds,looseknot   |
-| 16 | --                | 2021-12-12 18:50:00 | sha-tin        |      7 |        6 | Salios          |  21    | pangea               |
+| 16 | :3rd_place_medal: | 2021-12-12 18:50:00 | sha-tin        |      7 |        6 | Salios          |  21    | pangea               |
 | 17 | --                | 2021-12-12 18:50:00 | sha-tin        |      7 |        3 | Indy Champ      |  17    | benny,blackshadow    |
 | 18 | :2nd_place_medal: | 2021-12-12 18:15:00 | sha-tin        |      6 |        6 | Fantastic Way   |   3.9  | icyhot               |
 | 19 | 10.0              | 2021-12-12 18:00:00 | pinjarra       |      5 |        8 | Idle Star       |   8    | looseknot            |
