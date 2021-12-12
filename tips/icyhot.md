@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-12-12 13:06:18 +1000  
+date: 2021-12-12 13:21:33 +1000  
 categories: None 
 ---   
 
@@ -26,8 +26,8 @@ categories: None
 | :boom:            | 2021-12-08 | launceston R6           | 5 Azara               |  2.1  |     11   |
 | :boom:            | 2021-12-05 | kenilworth R8           | 4 Real Gone Kid       |  3.1  |     21   |
 | :2nd_place_medal: | 2021-12-04 | ascot R8                | 7 Western Empire      |  1.3  |    -10   |
-| :boom:            | 2021-12-04 | doomben R9              | 5 Zoustyle            |  1.6  |      6   |
 | 4                 | 2021-12-04 | doomben R9              | 3 Hard Empire         | 31    |    -10   |
+| :boom:            | 2021-12-04 | doomben R9              | 5 Zoustyle            |  1.6  |      6   |
 | :boom:            | 2021-12-04 | darwin R4               | 3 Bel's Banner        |  2.6  |     16   |
 | :boom:            | 2021-12-04 | gold-coast R7           | 1 Weona Smartone      |  1.2  |      2   |
 | 5                 | 2021-12-04 | doomben R7              | 3 The Harrovian       |  3.9  |    -10   |
@@ -264,8 +264,8 @@ categories: None
 | :boom:            | 2021-05-01 | barcaldine R6           | 4 Sizzalating         |  1.6  |      6   |
 | :boom:            | 2021-04-30 | alice-springs R4        | 1 Valley Prince       |  1.04 |      0.4 |
 | 4                 | 2021-04-29 | rockhampton R5          | 1 Brad                |  5.5  |    -10   |
-| 10                | 2021-04-28 | toowoomba R8            | 6 Molly's Rocking     | 19    |    -10   |
 | :2nd_place_medal: | 2021-04-28 | toowoomba R8            | 8 Dis Dah Wun         |  2.45 |    -10   |
+| 10                | 2021-04-28 | toowoomba R8            | 6 Molly's Rocking     | 19    |    -10   |
 | :boom:            | 2021-04-28 | toowoomba R6            | 10 Better Get Ready   |  5.5  |     45   |
 | :boom:            | 2021-04-28 | punchestown R4          | 3 Chacun Pour Soi     |  2.2  |     12   |
 | :2nd_place_medal: | 2021-04-25 | sandown R3              | 1 Altior              |  3.75 |    -10   |
@@ -275,8 +275,8 @@ categories: None
 | 7                 | 2021-04-21 | ipswich R8              | 3 Amicitia            |  7.5  |    -10   |
 | 9                 | 2021-04-21 | ipswich R8              | 2 Grand Zou           | 14    |    -10   |
 | :boom:            | 2021-04-20 | epsom-downs R3          | 3 Victory Chime       |  9    |     80   |
-| 4                 | 2021-04-20 | mackay R4               | 3 Moreno              |  3    |    -10   |
 | :2nd_place_medal: | 2021-04-20 | mackay R4               | 7 Princess Rules      |  4.6  |    -10   |
+| 4                 | 2021-04-20 | mackay R4               | 3 Moreno              |  3    |    -10   |
 | 10                | 2021-04-20 | mackay R3               | 2 Such A Whit         |  8.5  |    -10   |
 | :boom:            | 2021-04-18 | stratford R3            | 2 The Bull Mccabe     |  2    |     10   |
 | :boom:            | 2021-04-18 | sunshine-coast R6       | 5 Joy Too All         |  1.8  |      8   |
@@ -358,8 +358,8 @@ categories: None
 | :boom:            | 2021-02-12 | moonee-valley R4        | 7 Starcaster          |  7.6  |     66   |
 | :2nd_place_medal: | 2021-02-12 | townsville R8           | 10 Bold Eos           |  2.6  |    -10   |
 | :boom:            | 2021-02-12 | townsville R8           | 6 Disco Mo            |  5.9  |     49   |
-| :boom:            | 2021-02-09 | mackay R2               | 2 Brad                |  1.4  |      4   |
 | :2nd_place_medal: | 2021-02-09 | mackay R2               | 3 Durif               |  2.5  |    -10   |
+| :boom:            | 2021-02-09 | mackay R2               | 2 Brad                |  1.4  |      4   |
 | :boom:            | 2021-02-09 | mackay R1               | 2 Carlin Trend        |  3.1  |     21   |
 | :3rd_place_medal: | 2021-02-07 | naracoorte R6           | 1 Challicum           |  5    |    -10   |
 | 5                 | 2021-02-07 | hobart R6               | 6 Mystical Pursuit    |  5.6  |    -10   |
