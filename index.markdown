@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-12 13:51:37 +1000  
+date: 2021-12-12 14:06:37 +1000  
 ---   
 
 
@@ -110,4 +110,4 @@ date: 2021-12-12 13:51:37 +1000
 | 28 | :soon:   | 2021-12-12 15:25:00 | sha-tin        |      1 |        3 | Master Delight  |   1.9  | vulture              |
 | 29 | :soon:   | 2021-12-12 15:05:00 | canberra       |      4 |        1 | Dream Game      |   1.57 | vulture              |
 | 30 | :soon:   | 2021-12-12 15:05:00 | canberra       |      4 |       13 | Secret Harbour  |  51    | moechilli            |
-| 31 | :soon:   | 2021-12-12 14:05:00 | sunshine-coast |      2 |        4 | Canny Impact    |   7.5  | looseknot            |
+| 31 | --       | 2021-12-12 14:05:00 | sunshine-coast |      2 |        4 | Canny Impact    |   7.5  | looseknot            |
