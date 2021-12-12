@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-12 19:45:16 +1000  
+date: 2021-12-12 20:00:23 +1000  
 ---   
 
 
@@ -9,19 +9,19 @@ date: 2021-12-12 19:45:16 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      1 |       -4 | 0.33 | -0.13 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      6 |      2 |      -16 | 0.33 | -0.27 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 | 0    | -1    |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      6 |      1 |      -42 | 0.17 | -0.7  |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      1 |      -74 | 0.1  | -0.74 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      8 |      0 |      -80 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      8 |      0 |      -80 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      0 |     -100 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     11 |      0 |     -110 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     11 |      1 |      -84 | 0.09 | -0.76 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     24 |      0 |     -240 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     40 |      3 |     -312 | 0.08 | -0.78 |
 
@@ -90,8 +90,8 @@ date: 2021-12-12 19:45:16 +1000
 |  8 | :soon:            | 2021-12-13 00:05:00 | carlisle       |      3 |        1 | Best Trition    |   3.5  | vulture              |
 |  9 | --                | 2021-12-12 19:30:00 | sha-tin        |      8 |       11 | Lei Papale      |   7    | moechilli            |
 | 10 | --                | 2021-12-12 19:30:00 | sha-tin        |      8 |        8 | Dubai Honour    |   4.6  | vulture,looseknot    |
-| 11 | --                | 2021-12-12 19:30:00 | sha-tin        |      8 |       12 | Loves Only You  |   2.6  | pangea,icyhot        |
-| 12 | --                | 2021-12-12 19:30:00 | sha-tin        |      8 |        4 | Hishi Iguazu    |  17    | overthrow,milkman    |
+| 11 | :boom:            | 2021-12-12 19:30:00 | sha-tin        |      8 |       12 | Loves Only You  |   2.6  | pangea,icyhot        |
+| 12 | :2nd_place_medal: | 2021-12-12 19:30:00 | sha-tin        |      8 |        4 | Hishi Iguazu    |  17    | overthrow,milkman    |
 | 13 | --                | 2021-12-12 18:50:00 | sha-tin        |      7 |        4 | Waikuku         |  13    | vulture              |
 | 14 | --                | 2021-12-12 18:50:00 | sha-tin        |      7 |       11 | Mother Earth    |  34    | pangea               |
 | 15 | --                | 2021-12-12 18:50:00 | sha-tin        |      7 |        2 | Danon Kingly    |   7    | evenodds,looseknot   |
