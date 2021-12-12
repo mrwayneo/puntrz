@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-12-12 14:36:37 +1000  
+date: 2021-12-12 15:09:27 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
 | 19:30             | 2021-12-12 | sha-tin R8             | 11 Lei Papale        |   7    |    -10   |
 | 17:00             | 2021-12-12 | sha-tin R4             | 8 Ebaiyra            |   7    |    -10   |
-| 15:05             | 2021-12-12 | canberra R4            | 13 Secret Harbour    |  51    |    -10   |
+| 0                 | 2021-12-12 | canberra R4            | 13 Secret Harbour    |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-11 | darwin R3              | 1 Fromthenevernever  |   2    |    -10   |
 | :2nd_place_medal: | 2021-12-11 | townsville R2          | 5 Micawber           |   5    |    -10   |
 | :boom:            | 2021-12-07 | cairns R2              | 1 Magnate            |   2.8  |     18   |

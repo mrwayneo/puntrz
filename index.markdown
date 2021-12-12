@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-12 14:36:41 +1000  
+date: 2021-12-12 15:09:31 +1000  
 ---   
 
 
@@ -108,6 +108,6 @@ date: 2021-12-12 14:36:41 +1000
 | 26 | :soon:            | 2021-12-12 17:00:00 | sha-tin        |      4 |        8 | Ebaiyra         |   7    | moechilli            |
 | 27 | :soon:            | 2021-12-12 16:00:00 | sunshine-coast |      5 |        3 | Cotton Fields   |   4.2  | pangea               |
 | 28 | :soon:            | 2021-12-12 15:25:00 | sha-tin        |      1 |        3 | Master Delight  |   1.9  | vulture              |
-| 29 | :soon:            | 2021-12-12 15:05:00 | canberra       |      4 |        1 | Dream Game      |   1.57 | vulture              |
-| 30 | :soon:            | 2021-12-12 15:05:00 | canberra       |      4 |       13 | Secret Harbour  |  51    | moechilli            |
+| 29 | --                | 2021-12-12 15:05:00 | canberra       |      4 |        1 | Dream Game      |   1.57 | vulture              |
+| 30 | --                | 2021-12-12 15:05:00 | canberra       |      4 |       13 | Secret Harbour  |  51    | moechilli            |
 | 31 | :2nd_place_medal: | 2021-12-12 14:05:00 | sunshine-coast |      2 |        4 | Canny Impact    |   7.5  | looseknot            |
