@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2021-12-12 06:31:12 +1000  
+date: 2021-12-12 11:16:02 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 15:40             | 2021-12-12 | pinjarra R1            | 2 Arnray             |  1.9  |    -10   |
 | 4                 | 2021-12-08 | ipswich R1             | 3 Never Been Better  |  1.9  |    -10   |
 | :boom:            | 2021-11-26 | wodonga R3             | 2 Jonty              |  1.6  |      6   |
 | :3rd_place_medal: | 2021-11-25 | northam R1             | 1 Glenaureen         |  1.9  |    -10   |
