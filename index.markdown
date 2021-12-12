@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-12 16:30:08 +1000  
+date: 2021-12-12 16:45:05 +1000  
 ---   
 
 
@@ -106,7 +106,7 @@ date: 2021-12-12 16:30:08 +1000
 | 24 | :soon:            | 2021-12-12 17:00:00 | sha-tin        |      4 |        1 | Pyledriver      |   3.2  | evenodds,blackshadow |
 | 25 | :soon:            | 2021-12-12 17:00:00 | sha-tin        |      4 |        2 | Glory Vase      |   2.4  | blackshadow          |
 | 26 | :soon:            | 2021-12-12 17:00:00 | sha-tin        |      4 |        8 | Ebaiyra         |   7    | moechilli            |
-| 27 | --                | 2021-12-12 16:00:00 | sunshine-coast |      5 |        3 | Cotton Fields   |   4.2  | pangea               |
+| 27 | 8.0               | 2021-12-12 16:00:00 | sunshine-coast |      5 |        3 | Cotton Fields   |   4.2  | pangea               |
 | 28 | :2nd_place_medal: | 2021-12-12 15:25:00 | sha-tin        |      1 |        3 | Master Delight  |   1.9  | vulture              |
 | 29 | :3rd_place_medal: | 2021-12-12 15:05:00 | canberra       |      4 |        1 | Dream Game      |   1.57 | vulture              |
 | 30 | 9.0               | 2021-12-12 15:05:00 | canberra       |      4 |       13 | Secret Harbour  |  51    | moechilli            |
