@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2021-12-13 23:02:01 +1000  
+date: 2021-12-14 06:11:27 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |      -30 | 0    | -1    |
-| Last 28 Days   |     11 |      2 |      131 | 0.18 |  1.19 |
-| Last 6 Months  |    120 |     28 |     3865 | 0.23 |  3.22 |
-| Since Jan 2020 |    194 |     39 |     4769 | 0.2  |  2.46 |
+| Last 7 Days    |      4 |      0 |      -40 | 0    | -1    |
+| Last 28 Days   |     13 |      2 |      111 | 0.15 |  0.85 |
+| Last 6 Months  |    122 |     28 |     3845 | 0.23 |  3.15 |
+| Since Jan 2020 |    196 |     39 |     4749 | 0.2  |  2.42 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
@@ -111,8 +111,8 @@ categories: None
 | :2nd_place_medal: | 2021-07-09 | carlisle R8            | 3 Zeimaam             |  11   |      -10 |
 | 7                 | 2021-07-07 | bordertown R6          | 10 Humpback           |  19   |      -10 |
 | 9                 | 2021-07-07 | grafton R1             | 5 Astralis            |  15   |      -10 |
-| :3rd_place_medal: | 2021-07-04 | haydock R4             | 9 My Frankel          |  15   |      -10 |
 | :boom:            | 2021-07-04 | haydock R4             | 3 Alounak             |  19.2 |      182 |
+| :3rd_place_medal: | 2021-07-04 | haydock R4             | 9 My Frankel          |  15   |      -10 |
 | :boom:            | 2021-07-03 | darwin R6              | 7 La Trioli           |   9.6 |       86 |
 | :boom:            | 2021-07-02 | newbury R4             | 9 In The Breeze       |  10   |       90 |
 | :2nd_place_medal: | 2021-07-01 | thirsk R7              | 12 Dylan's Lad        |  11   |      -10 |
