@@ -1,11 +1,28 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-13 07:48:34 +1000  
+date: 2021-12-13 11:44:25 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      1 |      0 |      -10 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      1 |      0 |      -10 |    0 |    -1 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 |    0 |    -1 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      0 |      -20 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      4 |      0 |      -40 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      4 |      0 |      -40 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      5 |      0 |      -50 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     11 |      0 |     -110 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     15 |      0 |     -150 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     16 |      0 |     -160 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -19,9 +36,9 @@ date: 2021-12-13 07:48:34 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |     33   | 0.2  |  0.16 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      9 |      4   | 0.45 |  0.02 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |    -31.5 | 0.4  | -0.16 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |    -58.5 | 0.2  | -0.29 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      6 |    -70   | 0.3  | -0.35 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -77.5 | 0.15 | -0.39 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      5 |    -80.7 | 0.25 | -0.4  |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -82   | 0.2  | -0.41 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      3 |   -103.5 | 0.15 | -0.52 |
@@ -29,8 +46,8 @@ date: 2021-12-13 07:48:34 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      1 |   -184   | 0.05 | -0.92 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
@@ -59,37 +76,22 @@ date: 2021-12-13 07:48:34 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6098 |    900 |  -8649.9 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7572 |    413 | -14679   | 0.05 | -0.19 |
 
-|    | finish            | time                | track          |   race |   number | name            |   odds | tipster              |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:----------------|-------:|:---------------------|
-|  0 | :boom:            | 2021-12-13 02:10:00 | carlisle       |      7 |        9 | Nell's Bells    |   8    | looseknot            |
-|  1 | --                | 2021-12-13 01:55:00 | southwell      |      6 |        6 | Hob House       |   2.3  | overthrow,lago       |
-|  2 | :3rd_place_medal: | 2021-12-13 01:55:00 | southwell      |      6 |        1 | Kayf Hernando   |   7    | overthrow            |
-|  3 | --                | 2021-12-13 00:55:00 | southwell      |      4 |        2 | Clean Getaway   |   6.5  | overthrow            |
-|  4 | :2nd_place_medal: | 2021-12-13 00:55:00 | southwell      |      4 |        5 | Horizon D'Ainay |   1.65 | overthrow            |
-|  5 | :2nd_place_medal: | 2021-12-13 00:40:00 | carlisle       |      4 |        6 | Uncle Alastair  |  10    | milkman              |
-|  6 | --                | 2021-12-13 00:20:00 | southwell      |      3 |       12 | Scarpered       |   6    | overthrow            |
-|  7 | --                | 2021-12-13 00:20:00 | southwell      |      3 |        6 | Callisto's King |  12    | overthrow            |
-|  8 | :2nd_place_medal: | 2021-12-13 00:05:00 | carlisle       |      3 |        1 | Best Trition    |   3.5  | vulture              |
-|  9 | --                | 2021-12-12 19:30:00 | sha-tin        |      8 |       11 | Lei Papale      |   7    | moechilli            |
-| 10 | --                | 2021-12-12 19:30:00 | sha-tin        |      8 |        8 | Dubai Honour    |   4.6  | vulture,looseknot    |
-| 11 | :boom:            | 2021-12-12 19:30:00 | sha-tin        |      8 |       12 | Loves Only You  |   2.6  | pangea,icyhot        |
-| 12 | :2nd_place_medal: | 2021-12-12 19:30:00 | sha-tin        |      8 |        4 | Hishi Iguazu    |  17    | overthrow,milkman    |
-| 13 | --                | 2021-12-12 18:50:00 | sha-tin        |      7 |        4 | Waikuku         |  13    | vulture              |
-| 14 | --                | 2021-12-12 18:50:00 | sha-tin        |      7 |       11 | Mother Earth    |  34    | pangea               |
-| 15 | --                | 2021-12-12 18:50:00 | sha-tin        |      7 |        2 | Danon Kingly    |   7    | evenodds,looseknot   |
-| 16 | :3rd_place_medal: | 2021-12-12 18:50:00 | sha-tin        |      7 |        6 | Salios          |  21    | pangea               |
-| 17 | --                | 2021-12-12 18:50:00 | sha-tin        |      7 |        3 | Indy Champ      |  17    | benny,blackshadow    |
-| 18 | :2nd_place_medal: | 2021-12-12 18:15:00 | sha-tin        |      6 |        6 | Fantastic Way   |   3.9  | icyhot               |
-| 19 | 10.0              | 2021-12-12 18:00:00 | pinjarra       |      5 |        8 | Idle Star       |   8    | looseknot            |
-| 20 | :2nd_place_medal: | 2021-12-12 17:40:00 | sha-tin        |      5 |       12 | Resistencia     |   8.5  | looseknot            |
-| 21 | --                | 2021-12-12 17:40:00 | sha-tin        |      5 |        2 | Pixie Knight    |   3.6  | vulture              |
-| 22 | --                | 2021-12-12 17:40:00 | sha-tin        |      5 |        3 | Danon Smash     |  17    | pangea,blackshadow   |
-| 23 | :3rd_place_medal: | 2021-12-12 17:40:00 | sha-tin        |      5 |       11 | Courier Wonder  |  10    | milkman,icyhot       |
-| 24 | :2nd_place_medal: | 2021-12-12 17:00:00 | sha-tin        |      4 |        1 | Pyledriver      |   3.2  | evenodds,blackshadow |
-| 25 | :boom:            | 2021-12-12 17:00:00 | sha-tin        |      4 |        2 | Glory Vase      |   2.4  | blackshadow          |
-| 26 | :3rd_place_medal: | 2021-12-12 17:00:00 | sha-tin        |      4 |        8 | Ebaiyra         |   7    | moechilli            |
-| 27 | 8.0               | 2021-12-12 16:00:00 | sunshine-coast |      5 |        3 | Cotton Fields   |   4.2  | pangea               |
-| 28 | :2nd_place_medal: | 2021-12-12 15:25:00 | sha-tin        |      1 |        3 | Master Delight  |   1.9  | vulture              |
-| 29 | :3rd_place_medal: | 2021-12-12 15:05:00 | canberra       |      4 |        1 | Dream Game      |   1.57 | vulture              |
-| 30 | 9.0               | 2021-12-12 15:05:00 | canberra       |      4 |       13 | Secret Harbour  |  51    | moechilli            |
-| 31 | :2nd_place_medal: | 2021-12-12 14:05:00 | sunshine-coast |      2 |        4 | Canny Impact    |   7.5  | looseknot            |
+|    | finish   | time                | track       |   race |   number | name              |   odds | tipster              |
+|---:|:---------|:--------------------|:------------|-------:|---------:|:------------------|-------:|:---------------------|
+|  0 | :soon:   | 2021-12-14 01:40:00 | greyville   |      8 |        3 | Heartsease        |   0    | vulture              |
+|  1 | :soon:   | 2021-12-13 23:30:00 | plumpton    |      1 |        2 | Stream Of Stars   |   4    | vulture              |
+|  2 | :soon:   | 2021-12-13 18:25:00 | rockhampton |      9 |       12 | She's Our Empress |  11    | cosmo,bluey          |
+|  3 | :soon:   | 2021-12-13 17:08:00 | rockhampton |      7 |        4 | Ahooshu           |   1.75 | benny,pangea         |
+|  4 | :soon:   | 2021-12-13 17:08:00 | rockhampton |      7 |        3 | Tru Blu Tango     |   4.4  | pangea               |
+|  5 | :soon:   | 2021-12-13 17:08:00 | rockhampton |      7 |        8 | Ornate            |  13    | pangea               |
+|  6 | :soon:   | 2021-12-13 17:08:00 | rockhampton |      7 |        1 | Mystery Element   |  81    | cosmo,bluey          |
+|  7 | :soon:   | 2021-12-13 16:28:00 | rockhampton |      6 |        1 | Master Jamie      |   2.2  | pangea,icyhot        |
+|  8 | :soon:   | 2021-12-13 16:28:00 | rockhampton |      6 |        2 | Rhyme Nor Rhythm  |   3.5  | pangea               |
+|  9 | :soon:   | 2021-12-13 16:28:00 | rockhampton |      6 |        3 | Star of O'reilly  |   3    | evenodds,blackshadow |
+| 10 | :soon:   | 2021-12-13 15:48:00 | rockhampton |      5 |        8 | Buster Moon       |  26    | pangea               |
+| 11 | :soon:   | 2021-12-13 15:48:00 | rockhampton |      5 |        6 | Kotabharu         |   2.7  | pangea               |
+| 12 | :soon:   | 2021-12-13 15:48:00 | rockhampton |      5 |        2 | Bluindi           |   2.05 | benny,icyhot         |
+| 13 | :soon:   | 2021-12-13 15:08:00 | rockhampton |      4 |        7 | Echo Point        |   2.62 | evenodds,blackshadow |
+| 14 | :soon:   | 2021-12-13 13:58:00 | rockhampton |      2 |        3 | Magnetic Drive    |   4.2  | overthrow            |
+| 15 | :soon:   | 2021-12-13 13:23:00 | rockhampton |      1 |        5 | Bright And Ready  |   3.6  | looseknot            |
+| 16 | :soon:   | 2021-12-13 13:23:00 | rockhampton |      1 |        4 | Sweet Way's       |   3.2  | evenodds,lago        |
