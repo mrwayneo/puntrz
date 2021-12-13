@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-13 15:51:32 +1000  
+date: 2021-12-13 16:10:50 +1000  
 ---   
 
 
@@ -36,9 +36,9 @@ date: 2021-12-13 15:51:32 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |     33   | 0.2  |  0.16 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      9 |      4   | 0.45 |  0.02 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |    -31.5 | 0.4  | -0.16 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |    -58.5 | 0.2  | -0.29 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      6 |    -70   | 0.3  | -0.35 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -77.5 | 0.15 | -0.39 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      5 |    -80.7 | 0.25 | -0.4  |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -82   | 0.2  | -0.41 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      3 |   -103.5 | 0.15 | -0.52 |
@@ -46,8 +46,8 @@ date: 2021-12-13 15:51:32 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      1 |   -184   | 0.05 | -0.92 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
@@ -88,8 +88,8 @@ date: 2021-12-13 15:51:32 +1000
 |  7 | :soon:            | 2021-12-13 16:28:00 | rockhampton |      6 |        1 | Master Jamie      |   2.2  | pangea,icyhot        |
 |  8 | :soon:            | 2021-12-13 16:28:00 | rockhampton |      6 |        2 | Rhyme Nor Rhythm  |   3.5  | pangea               |
 |  9 | :soon:            | 2021-12-13 16:28:00 | rockhampton |      6 |        3 | Star of O'reilly  |   3    | evenodds,blackshadow |
-| 10 | --                | 2021-12-13 15:48:00 | rockhampton |      5 |        8 | Buster Moon       |  26    | pangea               |
-| 11 | --                | 2021-12-13 15:48:00 | rockhampton |      5 |        6 | Kotabharu         |   2.7  | pangea               |
+| 10 | :3rd_place_medal: | 2021-12-13 15:48:00 | rockhampton |      5 |        8 | Buster Moon       |  26    | pangea               |
+| 11 | :2nd_place_medal: | 2021-12-13 15:48:00 | rockhampton |      5 |        6 | Kotabharu         |   2.7  | pangea               |
 | 12 | --                | 2021-12-13 15:48:00 | rockhampton |      5 |        2 | Bluindi           |   2.05 | benny,icyhot         |
 | 13 | :2nd_place_medal: | 2021-12-13 15:08:00 | rockhampton |      4 |        7 | Echo Point        |   2.62 | evenodds,blackshadow |
 | 14 | :3rd_place_medal: | 2021-12-13 13:58:00 | rockhampton |      2 |        3 | Magnetic Drive    |   4.2  | overthrow            |
