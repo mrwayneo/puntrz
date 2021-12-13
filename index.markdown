@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-13 18:51:44 +1000  
+date: 2021-12-13 19:11:54 +1000  
 ---   
 
 
@@ -36,9 +36,9 @@ date: 2021-12-13 18:51:44 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |     33   | 0.2  |  0.16 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      9 |      4   | 0.45 |  0.02 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |    -31.5 | 0.4  | -0.16 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |    -58.5 | 0.2  | -0.29 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      6 |    -70   | 0.3  | -0.35 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -77.5 | 0.15 | -0.39 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      5 |    -80.7 | 0.25 | -0.4  |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -82   | 0.2  | -0.41 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      3 |   -103.5 | 0.15 | -0.52 |
@@ -46,8 +46,8 @@ date: 2021-12-13 18:51:44 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      1 |   -184   | 0.05 | -0.92 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
@@ -80,7 +80,7 @@ date: 2021-12-13 18:51:44 +1000
 |---:|:------------------|:--------------------|:------------|-------:|---------:|:------------------|-------:|:---------------------|
 |  0 | :soon:            | 2021-12-14 01:40:00 | greyville   |      8 |        3 | Heartsease        |   0    | vulture              |
 |  1 | :soon:            | 2021-12-13 23:30:00 | plumpton    |      1 |        2 | Stream Of Stars   |   4    | vulture              |
-|  2 | --                | 2021-12-13 18:25:00 | rockhampton |      9 |       12 | She's Our Empress |  11    | cosmo,bluey          |
+|  2 | 9.0               | 2021-12-13 18:25:00 | rockhampton |      9 |       12 | She's Our Empress |  11    | cosmo,bluey          |
 |  3 | :boom:            | 2021-12-13 17:08:00 | rockhampton |      7 |        4 | Ahooshu           |   1.75 | benny,pangea         |
 |  4 | :2nd_place_medal: | 2021-12-13 17:08:00 | rockhampton |      7 |        3 | Tru Blu Tango     |   4.4  | pangea               |
 |  5 | 4.0               | 2021-12-13 17:08:00 | rockhampton |      7 |        8 | Ornate            |  13    | pangea               |
