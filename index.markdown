@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-14 21:04:20 +1000  
+date: 2021-12-14 21:19:09 +1000  
 ---   
 
 
@@ -14,9 +14,9 @@ date: 2021-12-14 21:04:20 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     32 |      3 |      -48 | 0.09 | -0.15 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      0 |      -50 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     21 |      1 |     -166 | 0.05 | -0.79 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     32 |      2 |     -278 | 0.06 | -0.87 |
 
 ##### Form Last 20 tips   
 
