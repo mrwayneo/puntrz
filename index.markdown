@@ -1,11 +1,29 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 07:54:13 +1000  
+date: 2021-12-15 08:57:41 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 |    0 |    -1 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      0 |     -110 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     13 |      0 |     -130 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     19 |      0 |     -190 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      0 |     -200 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     38 |      0 |     -380 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     45 |      0 |     -450 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -17,6 +35,7 @@ date: 2021-12-15 07:54:13 +1000
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     13 |     50.5 | 0.65 |  0.25 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      7 |     49   | 0.35 |  0.24 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |     33   | 0.2  |  0.16 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |    -17.5 | 0.1  | -0.09 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -25   | 0.4  | -0.12 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |    -31.5 | 0.4  | -0.16 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
@@ -30,7 +49,6 @@ date: 2021-12-15 07:54:13 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |   -156   | 0.05 | -0.78 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -156.5 | 0.1  | -0.78 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -177.5 | 0.05 | -0.89 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
@@ -59,15 +77,56 @@ date: 2021-12-15 07:54:13 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6108 |    899 |  -8489.7 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7566 |    414 | -14690   | 0.05 | -0.19 |
 
-|    | finish            | time                | track      |   race |   number | name            |   odds | tipster            |
-|---:|:------------------|:--------------------|:-----------|-------:|---------:|:----------------|-------:|:-------------------|
-|  0 | :boom:            | 2021-12-15 02:15:00 | catterick  |      7 |        8 | Kracka Nut      |    7   | overthrow          |
-|  1 | --                | 2021-12-15 01:15:00 | catterick  |      5 |        2 | Accordingtogino |   15   | overthrow          |
-|  2 | :boom:            | 2021-12-15 01:00:00 | wincanton  |      4 |       13 | Rainyday Woman  |    1.8 | overthrow          |
-|  3 | --                | 2021-12-15 01:00:00 | wincanton  |      4 |       16 | Takoda          |   17   | milkman            |
-|  4 | 4.0               | 2021-12-15 00:45:00 | catterick  |      4 |        5 | Krypton Gold    |    3.9 | looseknot          |
-|  5 | :2nd_place_medal: | 2021-12-15 00:30:00 | wincanton  |      3 |        3 | Brief Times     |    2.7 | milkman            |
-|  6 | 4.0               | 2021-12-15 00:00:00 | wincanton  |      2 |        1 | Striking A Pose |    3.4 | milkman            |
-|  7 | --                | 2021-12-15 00:00:00 | wincanton  |      2 |        3 | Atholl Street   |    6   | evenodds,overthrow |
-|  8 | --                | 2021-12-14 23:30:00 | wincanton  |      1 |        6 | Huflower        |    2.8 | overthrow          |
-|  9 | :boom:            | 2021-12-14 17:00:00 | mornington |      8 |        7 | Midwest         |    2.3 | vulture,pangea     |
+|    | finish   | time                | track            |   race |   number | name              |   odds | tipster              |
+|---:|:---------|:--------------------|:-----------------|-------:|---------:|:------------------|-------:|:---------------------|
+|  0 | :soon:   | 2021-12-16 06:15:00 | kempton          |      8 |        1 | Gaassee           |   1.5  | vulture              |
+|  1 | :soon:   | 2021-12-16 04:45:00 | kempton          |      5 |        2 | Keeping Hoping    |   4.2  | vulture              |
+|  2 | :soon:   | 2021-12-16 03:45:00 | kempton          |      3 |        2 | Asaassi           |   2.75 | vulture              |
+|  3 | :soon:   | 2021-12-16 03:45:00 | kempton          |      3 |        4 | Groundbreaker     |   8.5  | looseknot            |
+|  4 | :soon:   | 2021-12-16 03:30:00 | dundalk          |      2 |        7 | Granville Street  |   9    | looseknot            |
+|  5 | :soon:   | 2021-12-16 03:15:00 | kempton          |      2 |        2 | Spirit Of Nguru   |   2.6  | milkman              |
+|  6 | :soon:   | 2021-12-16 02:20:00 | kenilworth       |      8 |        8 | Let It Burn       |   0    | vulture,milkman      |
+|  7 | :soon:   | 2021-12-16 02:15:00 | leicester        |      7 |        3 | Storm Of Light    |   2.5  | vulture              |
+|  8 | :soon:   | 2021-12-16 02:15:00 | leicester        |      7 |        5 | Floki             |   9.5  | overthrow            |
+|  9 | :soon:   | 2021-12-16 01:35:00 | newbury          |      5 |        4 | Dom Of Mary       |   6.5  | milkman              |
+| 10 | :soon:   | 2021-12-16 01:10:00 | kenilworth       |      6 |        5 | Double Charge     |   0    | vulture              |
+| 11 | :soon:   | 2021-12-16 01:00:00 | newbury          |      4 |        4 | Casablanca Mix    |   6.5  | overthrow            |
+| 12 | :soon:   | 2021-12-16 01:00:00 | newbury          |      4 |        7 | Silver Forever    |   2.5  | overthrow,milkman    |
+| 13 | :soon:   | 2021-12-16 00:35:00 | kenilworth       |      5 |        5 | Sunday Island     |   0    | vulture              |
+| 14 | :soon:   | 2021-12-16 00:25:00 | newbury          |      3 |        6 | Valsheda          |   3.1  | overthrow            |
+| 15 | :soon:   | 2021-12-16 00:05:00 | leicester        |      3 |        8 | Sholokjack        |   1.85 | overthrow,lago       |
+| 16 | :soon:   | 2021-12-15 23:50:00 | newbury          |      2 |        7 | I Am Maximus      |   1.4  | overthrow,milkman    |
+| 17 | :soon:   | 2021-12-15 23:50:00 | newbury          |      2 |        5 | Head Law          |  12    | milkman              |
+| 18 | :soon:   | 2021-12-15 23:30:00 | leicester        |      2 |        2 | All Shook Up      |   3.4  | overthrow            |
+| 19 | :soon:   | 2021-12-15 23:20:00 | newbury          |      1 |       11 | One Journey       |   1.9  | overthrow            |
+| 20 | :soon:   | 2021-12-15 22:50:00 | kenilworth       |      2 |        3 | Spring Awakening  |   0    | vulture              |
+| 21 | :soon:   | 2021-12-15 22:50:00 | kenilworth       |      2 |        1 | Irish Morning     |   0    | milkman              |
+| 22 | :soon:   | 2021-12-15 22:00:00 | launceston       |      9 |        3 | The Risk Factor   |   1.5  | evenodds,blackshadow |
+| 23 | :soon:   | 2021-12-15 21:30:00 | launceston       |      8 |        8 | Summer Fire       |   1.5  | overthrow            |
+| 24 | :soon:   | 2021-12-15 21:00:00 | launceston       |      7 |        3 | I'm Wesley        |   4.8  | benny,pangea         |
+| 25 | :soon:   | 2021-12-15 21:00:00 | launceston       |      7 |        7 | And Beyond        |   5    | benny,icyhot         |
+| 26 | :soon:   | 2021-12-15 20:50:00 | belmont          |      7 |        5 | Fashion Queen     |   3    | vulture              |
+| 27 | :soon:   | 2021-12-15 20:30:00 | launceston       |      6 |        2 | Outbound          |  10    | overthrow            |
+| 28 | :soon:   | 2021-12-15 20:30:00 | launceston       |      6 |        1 | Turk Warrior      |   1.6  | pangea               |
+| 29 | :soon:   | 2021-12-15 20:30:00 | launceston       |      6 |        3 | Alpine Wolf       |   2.9  | vulture,milkman      |
+| 30 | :soon:   | 2021-12-15 20:15:00 | belmont          |      6 |        7 | Constant Dreaming |   2.62 | vulture              |
+| 31 | :soon:   | 2021-12-15 19:20:00 | launceston       |      4 |        4 | Needs Toasting    |   2.6  | evenodds,overthrow   |
+| 32 | :soon:   | 2021-12-15 18:40:00 | launceston       |      3 |       12 | Red Letter Lady   |   3.8  | pangea               |
+| 33 | :soon:   | 2021-12-15 18:40:00 | launceston       |      3 |        1 | Le Cadeau         |   5    | overthrow            |
+| 34 | :soon:   | 2021-12-15 18:40:00 | launceston       |      3 |        6 | Vivilici          |   5    | evenodds,overthrow   |
+| 35 | :soon:   | 2021-12-15 18:30:00 | sandown-hillside |      6 |        2 | Pal D'oro         |   3.7  | pangea               |
+| 36 | :soon:   | 2021-12-15 18:30:00 | sandown-hillside |      6 |        6 | Grand Pope        |  12    | cosmo,bluey          |
+| 37 | :soon:   | 2021-12-15 18:15:00 | strathalbyn      |      7 |        5 | Yeelanna          |   4.4  | pangea               |
+| 38 | :soon:   | 2021-12-15 17:25:00 | sandown-hillside |      4 |        2 | Covert            |  11    | cosmo,bob            |
+| 39 | :soon:   | 2021-12-15 17:19:00 | belmont          |      1 |        5 | Lady Tornado      |   6.5  | vulture              |
+| 40 | :soon:   | 2021-12-15 16:23:00 | ipswich          |      4 |        9 | Derani            |   5.5  | pangea               |
+| 41 | :soon:   | 2021-12-15 16:23:00 | ipswich          |      4 |        8 | Harlequin Field   |   3.2  | vulture              |
+| 42 | :soon:   | 2021-12-15 16:15:00 | sandown-hillside |      2 |        6 | Oughton           |   8    | looseknot            |
+| 43 | :soon:   | 2021-12-15 16:05:00 | wyong            |      5 |        1 | El Parmy          |   3    | vulture              |
+| 44 | :soon:   | 2021-12-15 15:40:00 | sandown-hillside |      1 |        2 | Lucky Decision    |   4.4  | looseknot            |
+| 45 | :soon:   | 2021-12-15 15:30:00 | wyong            |      4 |        6 | Snitzonfire       |   2.6  | milkman              |
+| 46 | :soon:   | 2021-12-15 15:30:00 | wyong            |      4 |        1 | Head Legislator   |   3.4  | vulture              |
+| 47 | :soon:   | 2021-12-15 15:20:00 | strathalbyn      |      2 |        7 | Deep'n Meaningful |   1.65 | vulture              |
+| 48 | :soon:   | 2021-12-15 14:45:00 | strathalbyn      |      1 |        7 | Vezere River      |   3.2  | looseknot            |
+| 49 | :soon:   | 2021-12-15 14:35:00 | ipswich          |      1 |       10 | Brooklyn Mam      |   2.8  | looseknot            |
+| 50 | :soon:   | 2021-12-15 11:32:00 | pukekohe-park    |      2 |        8 | Pacific Dragon    |   1.01 | vulture              |
