@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2021-12-15 08:57:40 +1000  
+date: 2021-12-15 09:54:58 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 18:30             | 2021-12-15 | sandown-hillside R6    | 6 Grand Pope          |  12   |      -10 |
+| 18:30             | 2021-12-15 | sandown-hillside R6    | 6 Grand Pope          |   8.5 |      -10 |
 | 9                 | 2021-12-13 | rockhampton R9         | 12 She's Our Empress  |  11   |      -10 |
 | 8                 | 2021-12-13 | rockhampton R7         | 1 Mystery Element     |  81   |      -10 |
 | 4                 | 2021-12-11 | ascot-park R7          | 2 Kilowatt            |  11   |      -10 |
@@ -134,8 +134,8 @@ categories: None
 | 99                | 2021-06-12 | fairyhouse R3          | 14 Swiss Ace          |  26   |      -10 |
 | :boom:            | 2021-06-11 | swan-hill R3           | 4 Air Defence         |  10.2 |       92 |
 | 99                | 2021-06-10 | pukekura-raceway R2    | 9 Mandalay            |  51   |      -10 |
-| :boom:            | 2021-06-06 | devonport-synthetic R9 | 5 Elisavet            |  11   |      100 |
 | 4                 | 2021-06-06 | devonport-synthetic R9 | 6 Odin's Folly        |  14   |      -10 |
+| :boom:            | 2021-06-06 | devonport-synthetic R9 | 5 Elisavet            |  11   |      100 |
 | 9                 | 2021-06-06 | pinjarra R2            | 3 Halatorion          |  31   |      -10 |
 | 11                | 2021-06-05 | flemington R3          | 14 Just Folk          |  17   |      -10 |
 | 7                 | 2021-05-29 | randwick R6            | 10 Wayupinthesky      |  21   |      -10 |
@@ -212,3 +212,24 @@ categories: None
 | 6                 | 2021-01-09 | flemington R6          | 9 Mushaireb           |  18   |      -10 |
 | :3rd_place_medal: | 2021-01-09 | randwick R3            | 7 Macleay             |  10   |      -10 |
 | :2nd_place_medal: | 2021-01-06 | devonport-synthetic R1 | 4 Merciabelle         |  14   |      -10 |
+| 0                 | 2020-10-06 | pontefract R5          | 7 Kind Review         |  13   |      -10 |
+| 4                 | 2020-05-22 | cranbourne R5          | 2 Beerz With Clint    |  18.2 |      -10 |
+| 8                 | 2020-05-22 | geraldton R4           | 10 Sweet Talkin'      |  17.2 |      -10 |
+| :3rd_place_medal: | 2020-05-19 | bundaberg R2           | 2 Al's Briefs         |  12   |      -10 |
+| :3rd_place_medal: | 2020-05-16 | gold-coast R5          | 6 Mountbatten         |  17   |      -10 |
+| :boom:            | 2020-05-16 | gold-coast R3          | 3 Prometheus          |  13.7 |      127 |
+| :3rd_place_medal: | 2020-05-05 | rockhampton R3         | 1 Fun Tickets         |  16   |      -10 |
+| :3rd_place_medal: | 2020-05-02 | doomben R8             | 2 Beat the Beast      |  17.2 |      -10 |
+| :3rd_place_medal: | 2020-02-01 | chepstow R2            | 2 Shantou Vow         |  14   |      -10 |
+| :2nd_place_medal: | 2020-01-31 | ffos-las R4            | 8 Robin Of Sherwood   |  16   |      -10 |
+| 0                 | 2020-01-31 | vaal R7                | 5 Seventh Of June     |  19   |      -10 |
+| :boom:            | 2020-01-26 | cheltenham R3          | 1 Cepage              |  10   |       90 |
+| :2nd_place_medal: | 2020-01-25 | cheltenham R1          | 6 Night Edition       |  23   |      -10 |
+| 0                 | 2020-01-25 | turffontein R3         | 1 Pretty Ballerina    |  14   |      -10 |
+| :2nd_place_medal: | 2020-01-25 | caulfield R9           | 4 Home By Midnight    | 111   |      -10 |
+| :3rd_place_medal: | 2020-01-22 | ascot R7               | 5 Northern River      |  13.2 |      -10 |
+| 6                 | 2020-01-18 | launceston R7          | 1 The Chairman        |  16.8 |      -10 |
+| 8                 | 2020-01-13 | taree R2               | 5 Line Up Girls       |  16.2 |      -10 |
+| 0                 | 2020-01-01 | ellerslie R10          | 12 Aileen Grace       |  15   |      -10 |
+| 7                 | 2020-01-01 | flemington R5          | 5 Ignored             |  53   |      -10 |
+| 8                 | 2020-01-01 | flemington R3          | 1 Home By Midnight    | 301   |      -10 |

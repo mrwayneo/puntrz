@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-15 08:57:40 +1000  
+date: 2021-12-15 09:54:58 +1000  
 categories: None 
 ---   
 
@@ -15,9 +15,9 @@ categories: None
 
 | finish            | date       | event               | runner                |    win |   return |
 |:------------------|:-----------|:--------------------|:----------------------|-------:|---------:|
-| 17:25             | 2021-12-15 | sandown-hillside R4 | 2 Covert              |  11    |    -10   |
-| 0                 | 2021-12-12 | fairyhouse R6       | 15 Merry Moves        |   0    |    -10   |
-| 0                 | 2021-12-12 | fairyhouse R6       | 3 Bearwithmenow       |   0    |    -10   |
+| 17:25             | 2021-12-15 | sandown-hillside R4 | 2 Covert              |  12    |    -10   |
+| 99                | 2021-12-12 | fairyhouse R6       | 15 Merry Moves        |   0    |    -10   |
+| 99                | 2021-12-12 | fairyhouse R6       | 3 Bearwithmenow       |   0    |    -10   |
 | 99                | 2021-12-11 | cheltenham R4       | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5         | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6       | 8 Precious            |   0    |    -10   |
@@ -84,8 +84,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-29 | ballarat R4         | 6 Robbie's Star       |  21    |    -10   |
 | 9                 | 2021-08-26 | mackay R4           | 10 Myzaboom           | 151    |    -10   |
 | :boom:            | 2021-08-24 | ballinrobe R5       | 1 Father Jed          |   5.5  |     45   |
-| :boom:            | 2021-08-21 | scottsville R1      | 1 Humdinger           |  19    |    180   |
 | :2nd_place_medal: | 2021-08-21 | scottsville R1      | 5 Grey View           |   4.6  |    -10   |
+| :boom:            | 2021-08-21 | scottsville R1      | 1 Humdinger           |  19    |    180   |
 | 99                | 2021-08-21 | salisbury R4        | 8 Fuente Ovejuna      |  34    |    -10   |
 | :boom:            | 2021-08-21 | salisbury R1        | 3 Luna Magic          |  11    |    100   |
 | :boom:            | 2021-08-18 | belmont R2          | 11 War Gem            |  11.9  |    109   |
@@ -133,8 +133,8 @@ categories: None
 | :boom:            | 2021-06-23 | pukekohe-park R5    | 3 Hit The Switch      |   5    |     40   |
 | 9                 | 2021-06-20 | kilcoy R7           | 7 Snipfit             |  51    |    -10   |
 | 7                 | 2021-06-19 | darwin R2           | 5 Skellig Island      |  26    |    -10   |
-| 99                | 2021-06-19 | royal-ascot R2      | 3 Belloccio           |   6    |    -10   |
 | 99                | 2021-06-19 | royal-ascot R2      | 1 Gear Up             |  10    |    -10   |
+| 99                | 2021-06-19 | royal-ascot R2      | 3 Belloccio           |   6    |    -10   |
 | 99                | 2021-06-18 | down-royal R2       | 15 Glory For Molly    |  26    |    -10   |
 | 99                | 2021-06-17 | wexford R7          | 7 Ballybrowney Jack   |  32    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R2      | 8 Law Of The Sea      |  17    |    -10   |
@@ -184,8 +184,8 @@ categories: None
 | 9                 | 2021-03-29 | grafton R2          | 7 Medusa's Fury       |   9.1  |    -10   |
 | 9                 | 2021-03-27 | morphettville R3    | 8 Oath Of Omerta      |  21    |    -10   |
 | 99                | 2021-03-27 | dundalk R5          | 2 Doolin Dancer       |  21    |    -10   |
-| 99                | 2021-03-26 | cork R7             | 2 Optum               |  15    |    -10   |
 | 99                | 2021-03-26 | cork R7             | 14 Paper Lantern      | 101    |    -10   |
+| 99                | 2021-03-26 | cork R7             | 2 Optum               |  15    |    -10   |
 | 99                | 2021-03-25 | hereford R6         | 7 Manor Park          |  34    |    -10   |
 | 99                | 2021-03-21 | thurles R3          | 9 Pateen              |  81    |    -10   |
 | 11                | 2021-03-20 | eagle-farm R9       | 14 Our Rebel          |  63    |    -10   |
@@ -193,8 +193,8 @@ categories: None
 | 99                | 2021-03-20 | cheltenham R7       | 24 Martinhal          |  26    |    -10   |
 | 9                 | 2021-03-19 | moonee-valley R7    | 3 Elite Street        |  34    |    -10   |
 | 7                 | 2021-03-19 | moonee-valley R4    | 3 Drone Strike        |  34    |    -10   |
-| 99                | 2021-03-18 | cheltenham R7       | 2 Cool Jet            |  61    |    -10   |
 | 99                | 2021-03-18 | cheltenham R7       | 7 Ramillies           |  18    |    -10   |
+| 99                | 2021-03-18 | cheltenham R7       | 2 Cool Jet            |  61    |    -10   |
 | 99                | 2021-03-16 | stratford R7        | 1 American Legacy     |  23    |    -10   |
 | 99                | 2021-03-14 | navan R6            | 5 Forza Milan         |  10    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | hereford R2         | 10 Oscar Asche        |  23    |    -10   |

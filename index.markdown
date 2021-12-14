@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 08:57:41 +1000  
+date: 2021-12-15 09:54:59 +1000  
 ---   
 
 
@@ -35,7 +35,6 @@ date: 2021-12-15 08:57:41 +1000
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     13 |     50.5 | 0.65 |  0.25 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      7 |     49   | 0.35 |  0.24 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |     33   | 0.2  |  0.16 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |    -17.5 | 0.1  | -0.09 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -25   | 0.4  | -0.12 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |    -31.5 | 0.4  | -0.16 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
@@ -49,6 +48,7 @@ date: 2021-12-15 08:57:41 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |   -156   | 0.05 | -0.78 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -156.5 | 0.1  | -0.78 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -177.5 | 0.05 | -0.89 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
@@ -68,13 +68,13 @@ date: 2021-12-15 08:57:41 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    446 |    126 |   -503   | 0.28 | -0.11 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    343 |     72 |   -597.5 | 0.21 | -0.17 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    631 |    101 |   -610.3 | 0.16 | -0.1  |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1989 |    504 |   -830.5 | 0.25 | -0.04 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    589 |    165 |   -970.8 | 0.28 | -0.16 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1987 |    504 |   -810.5 | 0.25 | -0.04 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    587 |    165 |   -950.8 | 0.28 | -0.16 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1735 |    380 |  -1522.4 | 0.22 | -0.09 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1101 |    268 |  -1653.6 | 0.24 | -0.15 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2448 |    130 |  -2677   | 0.05 | -0.11 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2839 |    692 |  -3469.6 | 0.24 | -0.12 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6108 |    899 |  -8489.7 | 0.15 | -0.14 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2446 |    130 |  -2657   | 0.05 | -0.11 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2838 |    693 |  -3349.6 | 0.24 | -0.12 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6092 |    900 |  -8285.7 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7566 |    414 | -14690   | 0.05 | -0.19 |
 
 |    | finish   | time                | track            |   race |   number | name              |   odds | tipster              |
@@ -112,15 +112,15 @@ date: 2021-12-15 08:57:41 +1000
 | 30 | :soon:   | 2021-12-15 20:15:00 | belmont          |      6 |        7 | Constant Dreaming |   2.62 | vulture              |
 | 31 | :soon:   | 2021-12-15 19:20:00 | launceston       |      4 |        4 | Needs Toasting    |   2.6  | evenodds,overthrow   |
 | 32 | :soon:   | 2021-12-15 18:40:00 | launceston       |      3 |       12 | Red Letter Lady   |   3.8  | pangea               |
-| 33 | :soon:   | 2021-12-15 18:40:00 | launceston       |      3 |        1 | Le Cadeau         |   5    | overthrow            |
-| 34 | :soon:   | 2021-12-15 18:40:00 | launceston       |      3 |        6 | Vivilici          |   5    | evenodds,overthrow   |
-| 35 | :soon:   | 2021-12-15 18:30:00 | sandown-hillside |      6 |        2 | Pal D'oro         |   3.7  | pangea               |
-| 36 | :soon:   | 2021-12-15 18:30:00 | sandown-hillside |      6 |        6 | Grand Pope        |  12    | cosmo,bluey          |
+| 33 | :soon:   | 2021-12-15 18:40:00 | launceston       |      3 |        1 | Le Cadeau         |   5.5  | overthrow            |
+| 34 | :soon:   | 2021-12-15 18:40:00 | launceston       |      3 |        6 | Vivilici          |   5.5  | evenodds,overthrow   |
+| 35 | :soon:   | 2021-12-15 18:30:00 | sandown-hillside |      6 |        2 | Pal D'oro         |   3.8  | pangea               |
+| 36 | :soon:   | 2021-12-15 18:30:00 | sandown-hillside |      6 |        6 | Grand Pope        |   8.5  | cosmo,bluey          |
 | 37 | :soon:   | 2021-12-15 18:15:00 | strathalbyn      |      7 |        5 | Yeelanna          |   4.4  | pangea               |
-| 38 | :soon:   | 2021-12-15 17:25:00 | sandown-hillside |      4 |        2 | Covert            |  11    | cosmo,bob            |
+| 38 | :soon:   | 2021-12-15 17:25:00 | sandown-hillside |      4 |        2 | Covert            |  12    | cosmo,bob            |
 | 39 | :soon:   | 2021-12-15 17:19:00 | belmont          |      1 |        5 | Lady Tornado      |   6.5  | vulture              |
 | 40 | :soon:   | 2021-12-15 16:23:00 | ipswich          |      4 |        9 | Derani            |   5.5  | pangea               |
-| 41 | :soon:   | 2021-12-15 16:23:00 | ipswich          |      4 |        8 | Harlequin Field   |   3.2  | vulture              |
+| 41 | :soon:   | 2021-12-15 16:23:00 | ipswich          |      4 |        8 | Harlequin Field   |   3.4  | vulture              |
 | 42 | :soon:   | 2021-12-15 16:15:00 | sandown-hillside |      2 |        6 | Oughton           |   8    | looseknot            |
 | 43 | :soon:   | 2021-12-15 16:05:00 | wyong            |      5 |        1 | El Parmy          |   3    | vulture              |
 | 44 | :soon:   | 2021-12-15 15:40:00 | sandown-hillside |      1 |        2 | Lucky Decision    |   4.4  | looseknot            |
