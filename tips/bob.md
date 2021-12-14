@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-15 09:54:58 +1000  
+date: 2021-12-15 10:10:06 +1000  
 categories: None 
 ---   
 
@@ -16,8 +16,8 @@ categories: None
 | finish            | date       | event               | runner                |    win |   return |
 |:------------------|:-----------|:--------------------|:----------------------|-------:|---------:|
 | 17:25             | 2021-12-15 | sandown-hillside R4 | 2 Covert              |  12    |    -10   |
-| 99                | 2021-12-12 | fairyhouse R6       | 15 Merry Moves        |   0    |    -10   |
 | 99                | 2021-12-12 | fairyhouse R6       | 3 Bearwithmenow       |   0    |    -10   |
+| 99                | 2021-12-12 | fairyhouse R6       | 15 Merry Moves        |   0    |    -10   |
 | 99                | 2021-12-11 | cheltenham R4       | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5         | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6       | 8 Precious            |   0    |    -10   |
@@ -193,8 +193,8 @@ categories: None
 | 99                | 2021-03-20 | cheltenham R7       | 24 Martinhal          |  26    |    -10   |
 | 9                 | 2021-03-19 | moonee-valley R7    | 3 Elite Street        |  34    |    -10   |
 | 7                 | 2021-03-19 | moonee-valley R4    | 3 Drone Strike        |  34    |    -10   |
-| 99                | 2021-03-18 | cheltenham R7       | 7 Ramillies           |  18    |    -10   |
 | 99                | 2021-03-18 | cheltenham R7       | 2 Cool Jet            |  61    |    -10   |
+| 99                | 2021-03-18 | cheltenham R7       | 7 Ramillies           |  18    |    -10   |
 | 99                | 2021-03-16 | stratford R7        | 1 American Legacy     |  23    |    -10   |
 | 99                | 2021-03-14 | navan R6            | 5 Forza Milan         |  10    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | hereford R2         | 10 Oscar Asche        |  23    |    -10   |
@@ -221,3 +221,18 @@ categories: None
 | :boom:            | 2021-01-15 | geelong R2          | 3 Jungle Jim          |   5    |     40   |
 | :boom:            | 2021-01-12 | kilmore R3          | 6 Circle Of Magic     |   7.3  |     63   |
 | 99                | 2021-01-05 | fakenham R4         | 6 Florella            |  51    |    -10   |
+| 5                 | 2020-10-05 | canterbury R4       | 7 Balonne             |  51    |    -10   |
+| 4                 | 2020-05-26 | hamilton R5         | 7 Indian Rani         |  11    |    -10   |
+| 9                 | 2020-05-23 | belmont R1          | 2 Kazkazi             |  21    |    -10   |
+| 7                 | 2020-05-09 | ascot R1            | 6 Belafonte Boy       |   6.5  |    -10   |
+| :boom:            | 2020-05-07 | pinjarra R7         | 1 Proconsent          |  13.6  |    126   |
+| :boom:            | 2020-05-06 | warrnambool R5      | 10 Savaquin           |  35.3  |    343   |
+| 7                 | 2020-05-03 | bunbury R1          | 7 Miami Moon          |   8.1  |    -10   |
+| :2nd_place_medal: | 2020-01-29 | down-royal R7       | 3 On Eagles Wings     |  13    |    -10   |
+| :boom:            | 2020-01-29 | down-royal R6       | 6 Jurby               |  16    |    150   |
+| 0                 | 2020-01-26 | singapore R9        | 7 Gold Strike         |  19    |    -10   |
+| 7                 | 2020-01-26 | geelong R8          | 1 Havadash            |  12    |    -10   |
+| 0                 | 2020-01-26 | singapore R3        | 12 Gold Company       |  10    |    -10   |
+| 0                 | 2020-01-25 | doncaster R7        | 4 Eclair On Line      |  10    |    -10   |
+| 0                 | 2020-01-15 | doncaster R6        | 1 All My Love         |  29    |    -10   |
+| 11                | 2020-01-01 | pinjarra R2         | 1 Protected Action    |  17.2  |    -10   |

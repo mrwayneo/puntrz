@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-15 09:54:58 +1000  
+date: 2021-12-15 10:10:06 +1000  
 categories: None 
 ---   
 
@@ -11,7 +11,7 @@ categories: None
 | Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
 | Last 28 Days   |     17 |      7 |    -13   | 0.41 | -0.08 |
 | Last 6 Months  |     93 |     58 |   1412.8 | 0.62 |  1.52 |
-| Since Jan 2020 |    149 |     81 |   1473.8 | 0.54 |  0.99 |
+| Since Jan 2020 |    152 |     81 |   1443.8 | 0.53 |  0.95 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
@@ -90,8 +90,8 @@ categories: None
 | :boom:            | 2021-08-14 | tramore R7             | 7 Coole Og           |  1.67 |      6.7 |
 | :boom:            | 2021-08-14 | newmarket R3           | 2 Coroebus           |  2.2  |     12   |
 | :boom:            | 2021-08-08 | kilbeggan R8           | 9 Flemencello        |  1.4  |      4   |
-| 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
 | :2nd_place_medal: | 2021-07-31 | galway R8              | 15 Ashroe Diamond    |  2.5  |    -10   |
+| 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
 | 4                 | 2021-07-25 | uttoxeter R1           | 2 Knotty Ash         |  1.7  |    -10   |
 | :boom:            | 2021-07-22 | sandown R3             | 4 Inspiral           |  2.2  |     12   |
 | 99                | 2021-07-18 | newbury R7             | 2 Mawenzi            |  3.3  |    -10   |
@@ -127,8 +127,8 @@ categories: None
 | :boom:            | 2021-04-17 | newbury R8             | 4 Far Hope           |  5    |     40   |
 | :boom:            | 2021-04-17 | newbury R7             | 4 Gloria Mundi       |  6    |     50   |
 | :boom:            | 2021-04-17 | newbury R5             | 1 Hurricane Lane     |  3.75 |     27.5 |
-| 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
 | :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
+| 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
 | :boom:            | 2021-04-15 | kempton R4             | 1 Ransom             |  3.6  |     26   |
 | 99                | 2021-04-15 | newmarket R5           | 2 Divine Light       |  8.5  |    -10   |
 | :2nd_place_medal: | 2021-04-11 | devonport-synthetic R8 | 6 Azara              |  3.1  |    -10   |
@@ -154,8 +154,8 @@ categories: None
 | :2nd_place_medal: | 2021-02-27 | warwick R1             | 2 Heross Du Seuil    |  1.8  |    -10   |
 | :3rd_place_medal: | 2021-02-23 | southwell R3           | 4 Ballingers Corner  |  4.4  |    -10   |
 | :3rd_place_medal: | 2021-02-09 | fairyhouse R4          | 2 Gauloise           |  3.75 |    -10   |
-| 99                | 2021-02-08 | leopardstown R8        | 1 Brooklynn Glory    |  6    |    -10   |
 | :3rd_place_medal: | 2021-02-08 | leopardstown R8        | 6 Brandy Love        |  2.1  |    -10   |
+| 99                | 2021-02-08 | leopardstown R8        | 1 Brooklynn Glory    |  6    |    -10   |
 | :3rd_place_medal: | 2021-02-05 | townsville R1          | 1 Attackabeel        |  1.4  |    -10   |
 | :2nd_place_medal: | 2021-02-04 | wincanton R1           | 7 Fable              |  3.75 |    -10   |
 | :boom:            | 2021-01-20 | newbury R1             | 6 Gallyhill          |  1.34 |      3.4 |
@@ -165,3 +165,29 @@ categories: None
 | :boom:            | 2021-01-13 | wetherby R7            | 5 Tweed Skirt        |  1.8  |      8   |
 | :boom:            | 2021-01-12 | doncaster R7           | 13 Wiseguy           |  1.91 |      9.1 |
 | :boom:            | 2021-01-04 | fairyhouse R7          | 8 Whatdeawant        |  3.4  |     24   |
+| 0                 | 2020-12-05 | navan R3               | 7 Frere Tuck         |  5    |    -10   |
+| 0                 | 2020-12-05 | sandown R1             | 1 Paros              |  1.75 |    -10   |
+| :3rd_place_medal: | 2020-12-02 | bunbury R1             | 5 Sentimental Hero   |  2.15 |    -10   |
+| :boom:            | 2020-11-06 | newbury R4             | 5 Gran Luna          |  1.36 |      3.6 |
+| :boom:            | 2020-11-02 | cork R8                | 1 Brooklynn Glory    |  1.9  |      9   |
+| :2nd_place_medal: | 2020-10-31 | toowoomba R3           | 3 Forever Volo       |  5    |    -10   |
+| 0                 | 2020-10-28 | chepstow R2            | 1 Balmuick           |  3.25 |    -10   |
+| 0                 | 2020-10-26 | aintree R7             | 1 Hunny Moon         |  4    |    -10   |
+| 0                 | 2020-10-25 | newbury R3             | 4 Little Kitten      |  6    |    -10   |
+| :3rd_place_medal: | 2020-10-18 | royal-ascot R4         | 12 Palace Pier       |  1.66 |    -10   |
+| :2nd_place_medal: | 2020-10-17 | morphettville R4       | 3 Celestine          |  3.9  |    -10   |
+| 0                 | 2020-10-17 | newcastle R5           | 2 Mirage Mac         |  3.8  |    -10   |
+| :boom:            | 2020-10-07 | southwell R6           | 1 Mirage Mac         |  3.5  |     25   |
+| :boom:            | 2020-10-04 | tipperary R1           | 6 Shewearsitwell     |  3    |     20   |
+| :boom:            | 2020-10-03 | morphettville-parks R6 | 12 Vancity Gem       |  4    |     30   |
+| 0                 | 2020-10-03 | hastings R7            | 1 Need I Say More    |  1.75 |    -10   |
+| :2nd_place_medal: | 2020-10-03 | fairview R8            | 3 Bloom              |  0    |    -10   |
+| :boom:            | 2020-05-30 | belmont R3             | 1 Dunbar             |  1.9  |      9   |
+| :boom:            | 2020-05-27 | belmont R2             | 7 Bright Diamond     |  1.7  |      7   |
+| :boom:            | 2020-05-20 | pinjarra R1            | 3 Dunbar             |  1.4  |      4   |
+| :boom:            | 2020-05-15 | sunshine-coast R1      | 9 Wolf Moon          |  2.1  |     11   |
+| 0                 | 2020-01-30 | hereford R3            | 9 Sending Love       |  0    |    -10   |
+| :boom:            | 2020-01-27 | bunbury R5             | 6 Chantrea           |  1.9  |      9   |
+| :boom:            | 2020-01-17 | market-rasen R5        | 9 Panic Attack       |  3.85 |     28.5 |
+| :boom:            | 2020-01-15 | fairyhouse R7          | 5 Stattler           |  2.1  |     11   |
+| :boom:            | 2020-01-02 | ayr R1                 | 7 Marown             |  3.65 |     26.5 |

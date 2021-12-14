@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 09:54:59 +1000  
+date: 2021-12-15 10:10:07 +1000  
 ---   
 
 
@@ -35,6 +35,7 @@ date: 2021-12-15 09:54:59 +1000
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     13 |     50.5 | 0.65 |  0.25 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      7 |     49   | 0.35 |  0.24 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |     33   | 0.2  |  0.16 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |    -17.5 | 0.1  | -0.09 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -25   | 0.4  | -0.12 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |    -31.5 | 0.4  | -0.16 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
@@ -48,7 +49,6 @@ date: 2021-12-15 09:54:59 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |   -156   | 0.05 | -0.78 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -156.5 | 0.1  | -0.78 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -177.5 | 0.05 | -0.89 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   

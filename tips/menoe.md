@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2021-12-15 09:54:58 +1000  
+date: 2021-12-15 10:10:06 +1000  
 categories: None 
 ---   
 
@@ -65,3 +65,7 @@ categories: None
 | :boom:            | 2021-03-06 | fairyhouse R1          | 14 Rambranlt'jac     |  2    |     10   |
 | 4                 | 2021-01-14 | eagle-farm R4          | 1 Ruddock            |  1.9  |    -10   |
 | 99                | 2021-01-03 | greyville R1           | 2 Crimson Causeway   |  1.9  |    -10   |
+| 4                 | 2020-05-06 | canberra R3            | 6 Tchaikovsky        |  1.9  |    -10   |
+| :boom:            | 2020-01-14 | kenilworth R2          | 6 Our Prized Jewel   |  1.9  |      9   |
+| :boom:            | 2020-01-14 | corowa R4              | 2 Mr Aloysius        |  2.1  |     11   |
+| :boom:            | 2020-01-02 | tauherenikau R7        | 5 Den Bosch          |  8.2  |     72   |

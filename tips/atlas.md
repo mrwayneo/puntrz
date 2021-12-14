@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Atlas"   
-date: 2021-12-15 09:54:58 +1000  
+date: 2021-12-15 10:10:06 +1000  
 categories: None 
 ---   
 
@@ -89,3 +89,25 @@ categories: None
 | :boom:   | 2021-01-12 | doncaster R7           | 13 Wiseguy           |  1.91 |      9.1 |
 | :boom:   | 2021-01-07 | geelong R1             | 5 Jigsaw             |  2.4  |     14   |
 | :boom:   | 2021-01-05 | lingfield R5           | 4 Tamborrada         |  3.25 |     22.5 |
+| :boom:   | 2020-05-27 | belmont R2             | 7 Bright Diamond     |  1.7  |      7   |
+| :boom:   | 2020-05-21 | wagga-riverside R1     | 3 Lady Brook         |  2.5  |     15   |
+| :boom:   | 2020-05-20 | pinjarra R1            | 3 Dunbar             |  1.4  |      4   |
+| :boom:   | 2020-05-15 | sunshine-coast R1      | 9 Wolf Moon          |  2.1  |     11   |
+| :boom:   | 2020-05-13 | sandown-hillside R1    | 1 Dark Horse         |  3.2  |     22   |
+| :boom:   | 2020-05-09 | newcastle R1           | 8 Perfect Radiance   |  1.9  |      9   |
+| :boom:   | 2020-05-04 | ipswich R1             | 4 Queen Dazzler      |  2.3  |     13   |
+| :boom:   | 2020-01-31 | bowen R1               | 3 Java Sparrow       |  1.8  |      8   |
+| :boom:   | 2020-01-31 | limerick R8            | 5 Vinnie Is Busy     |  2.8  |     18   |
+| :boom:   | 2020-01-28 | benalla R1             | 6 Nebaraz            |  1.8  |      8   |
+| :boom:   | 2020-01-27 | warwick-farm R1        | 9 Quiet Riot         |  2.1  |     11   |
+| :boom:   | 2020-01-25 | newcastle R3           | 5 Holyfield          |  2.8  |     18   |
+| :boom:   | 2020-01-25 | randwick R1            | 3 Rulership          |  3    |     20   |
+| :boom:   | 2020-01-24 | gowran-park R7         | 2 Homme D'un Soir    |  2.3  |     13   |
+| :boom:   | 2020-01-17 | townsville R1          | 4 Cat In The Raine   |  3    |     20   |
+| :boom:   | 2020-01-17 | geelong R2             | 3 Marnix             |  2.7  |     17   |
+| :boom:   | 2020-01-16 | gosford R6             | 4 Awesome Lad        |  2.7  |     17   |
+| :boom:   | 2020-01-15 | fairyhouse R7          | 5 Stattler           |  2.1  |     11   |
+| :boom:   | 2020-01-14 | kenilworth R2          | 6 Our Prized Jewel   |  1.9  |      9   |
+| :boom:   | 2020-01-11 | warwick R1             | 8 Wild Child         |  3.3  |     23   |
+| :boom:   | 2020-01-02 | geelong R1             | 1 Fresh              |  2    |     10   |
+| :boom:   | 2020-01-01 | doomben R2             | 4 Lucky Patch        |  3.2  |     22   |
