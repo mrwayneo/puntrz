@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-14 16:50:47 +1000  
+date: 2021-12-14 17:05:47 +1000  
 ---   
 
 
@@ -9,10 +9,10 @@ date: 2021-12-14 16:50:47 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      1 |      1 |       16 | 1    |  1.6  |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      2 |      1 |        6 | 0.5  |  0.3  |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      2 |      0 |      -20 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      0 |      -50 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     21 |      1 |     -166 | 0.05 | -0.79 |
@@ -81,4 +81,4 @@ date: 2021-12-14 16:50:47 +1000
 |  6 | :soon:   | 2021-12-15 00:00:00 | wincanton  |      2 |        1 | Striking A Pose |    3.4 | milkman            |
 |  7 | :soon:   | 2021-12-15 00:00:00 | wincanton  |      2 |        3 | Atholl Street   |    6   | evenodds,overthrow |
 |  8 | :soon:   | 2021-12-14 23:30:00 | wincanton  |      1 |        6 | Huflower        |    2.8 | overthrow          |
-|  9 | :soon:   | 2021-12-14 17:00:00 | mornington |      8 |        7 | Midwest         |    2.3 | vulture,pangea     |
+|  9 | :boom:   | 2021-12-14 17:00:00 | mornington |      8 |        7 | Midwest         |    2.3 | vulture,pangea     |
