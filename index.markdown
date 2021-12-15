@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 21:09:02 +1000  
+date: 2021-12-15 21:24:03 +1000  
 ---   
 
 
@@ -103,9 +103,9 @@ date: 2021-12-15 21:09:02 +1000
 | 21 | :soon:            | 2021-12-15 22:50:00 | kenilworth       |      2 |        1 | Irish Morning     |   0    | milkman              |
 | 22 | :soon:            | 2021-12-15 22:00:00 | launceston       |      9 |        3 | The Risk Factor   |   1.5  | evenodds,blackshadow |
 | 23 | :soon:            | 2021-12-15 21:30:00 | launceston       |      8 |        8 | Summer Fire       |   1.5  | overthrow            |
-| 24 | --                | 2021-12-15 21:00:00 | launceston       |      7 |        3 | I'm Wesley        |   4.8  | benny,pangea         |
+| 24 | 8.0               | 2021-12-15 21:00:00 | launceston       |      7 |        3 | I'm Wesley        |   4.8  | benny,pangea         |
 | 25 | :2nd_place_medal: | 2021-12-15 21:00:00 | launceston       |      7 |        7 | And Beyond        |   5    | benny,icyhot         |
-| 26 | --                | 2021-12-15 20:50:00 | belmont          |      7 |        5 | Fashion Queen     |   3    | vulture              |
+| 26 | 6.0               | 2021-12-15 20:50:00 | belmont          |      7 |        5 | Fashion Queen     |   3    | vulture              |
 | 27 | 6.0               | 2021-12-15 20:30:00 | launceston       |      6 |        2 | Outbound          |  10    | overthrow            |
 | 28 | :boom:            | 2021-12-15 20:30:00 | launceston       |      6 |        1 | Turk Warrior      |   1.6  | pangea               |
 | 29 | :2nd_place_medal: | 2021-12-15 20:30:00 | launceston       |      6 |        3 | Alpine Wolf       |   2.9  | vulture,milkman      |
