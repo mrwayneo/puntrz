@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 20:23:59 +1000  
+date: 2021-12-15 20:39:00 +1000  
 ---   
 
 
@@ -19,7 +19,7 @@ date: 2021-12-15 20:23:59 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      2 |     -115 | 0.11 | -0.61 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     13 |      0 |     -130 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     13 |      1 |     -115 | 0.08 | -0.88 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      1 |     -131 | 0.06 | -0.82 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     19 |      0 |     -190 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      2 |     -249 | 0.06 | -0.78 |
@@ -106,9 +106,9 @@ date: 2021-12-15 20:23:59 +1000
 | 24 | :soon:            | 2021-12-15 21:00:00 | launceston       |      7 |        3 | I'm Wesley        |   4.8  | benny,pangea         |
 | 25 | :soon:            | 2021-12-15 21:00:00 | launceston       |      7 |        7 | And Beyond        |   5    | benny,icyhot         |
 | 26 | :soon:            | 2021-12-15 20:50:00 | belmont          |      7 |        5 | Fashion Queen     |   3    | vulture              |
-| 27 | :soon:            | 2021-12-15 20:30:00 | launceston       |      6 |        2 | Outbound          |  10    | overthrow            |
-| 28 | :soon:            | 2021-12-15 20:30:00 | launceston       |      6 |        1 | Turk Warrior      |   1.6  | pangea               |
-| 29 | :soon:            | 2021-12-15 20:30:00 | launceston       |      6 |        3 | Alpine Wolf       |   2.9  | vulture,milkman      |
+| 27 | --                | 2021-12-15 20:30:00 | launceston       |      6 |        2 | Outbound          |  10    | overthrow            |
+| 28 | :boom:            | 2021-12-15 20:30:00 | launceston       |      6 |        1 | Turk Warrior      |   1.6  | pangea               |
+| 29 | :2nd_place_medal: | 2021-12-15 20:30:00 | launceston       |      6 |        3 | Alpine Wolf       |   2.9  | vulture,milkman      |
 | 30 | --                | 2021-12-15 20:15:00 | belmont          |      6 |        7 | Constant Dreaming |   2.62 | vulture              |
 | 31 | :boom:            | 2021-12-15 19:20:00 | launceston       |      4 |        4 | Needs Toasting    |   2.6  | evenodds,overthrow   |
 | 32 | :2nd_place_medal: | 2021-12-15 18:40:00 | launceston       |      3 |       12 | Red Letter Lady   |   3.8  | pangea               |
