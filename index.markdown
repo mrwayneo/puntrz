@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 15:53:48 +1000  
+date: 2021-12-15 16:08:57 +1000  
 ---   
 
 
@@ -74,7 +74,7 @@ date: 2021-12-15 15:53:48 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1101 |    268 |  -1653.6 | 0.24 | -0.15 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2446 |    130 |  -2657   | 0.05 | -0.11 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2838 |    693 |  -3349.6 | 0.24 | -0.12 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6063 |    900 |  -7995.7 | 0.15 | -0.13 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6063 |    897 |  -8153.7 | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7566 |    414 | -14690   | 0.05 | -0.19 |
 
 |    | finish            | time                | track            |   race |   number | name              |   odds | tipster              |
@@ -122,7 +122,7 @@ date: 2021-12-15 15:53:48 +1000
 | 40 | :soon:            | 2021-12-15 16:23:00 | ipswich          |      4 |        9 | Derani            |   5.5  | pangea               |
 | 41 | :soon:            | 2021-12-15 16:23:00 | ipswich          |      4 |        8 | Harlequin Field   |   3.4  | vulture              |
 | 42 | :soon:            | 2021-12-15 16:15:00 | sandown-hillside |      2 |        6 | Oughton           |   8    | looseknot            |
-| 43 | :soon:            | 2021-12-15 16:05:00 | wyong            |      5 |        1 | El Parmy          |   3    | vulture              |
+| 43 | --                | 2021-12-15 16:05:00 | wyong            |      5 |        1 | El Parmy          |   3    | vulture              |
 | 44 | :boom:            | 2021-12-15 15:40:00 | sandown-hillside |      1 |        2 | Lucky Decision    |   4.4  | looseknot            |
 | 45 | :3rd_place_medal: | 2021-12-15 15:30:00 | wyong            |      4 |        6 | Snitzonfire       |   2.6  | milkman              |
 | 46 | 5.0               | 2021-12-15 15:30:00 | wyong            |      4 |        1 | Head Legislator   |   3.4  | vulture              |
