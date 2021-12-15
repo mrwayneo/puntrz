@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 21:54:07 +1000  
+date: 2021-12-15 22:08:54 +1000  
 ---   
 
 
@@ -10,17 +10,17 @@ date: 2021-12-15 21:54:07 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      2 |       98 | 0.33 |  1.63 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      1 |       -1 | 0.33 | -0.03 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      2 |       12 | 0.67 |  0.4  |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      1 |       -7 | 0.5  | -0.35 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     13 |      2 |     -102 | 0.15 | -0.78 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      3 |     -102 | 0.16 | -0.54 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      3 |     -104 | 0.19 | -0.65 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      0 |     -110 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      2 |     -115 | 0.11 | -0.61 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     13 |      1 |     -115 | 0.08 | -0.88 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      2 |     -117 | 0.12 | -0.73 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     19 |      0 |     -190 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      3 |     -231 | 0.09 | -0.72 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     45 |      1 |     -401 | 0.02 | -0.89 |
@@ -101,7 +101,7 @@ date: 2021-12-15 21:54:07 +1000
 | 19 | :soon:            | 2021-12-15 23:20:00 | newbury          |      1 |       11 | One Journey       |   1.9  | overthrow            |
 | 20 | :soon:            | 2021-12-15 22:50:00 | kenilworth       |      2 |        3 | Spring Awakening  |   0    | vulture              |
 | 21 | :soon:            | 2021-12-15 22:50:00 | kenilworth       |      2 |        1 | Irish Morning     |   0    | milkman              |
-| 22 | :soon:            | 2021-12-15 22:00:00 | launceston       |      9 |        3 | The Risk Factor   |   1.5  | evenodds,blackshadow |
+| 22 | :boom:            | 2021-12-15 22:00:00 | launceston       |      9 |        3 | The Risk Factor   |   1.5  | evenodds,blackshadow |
 | 23 | :boom:            | 2021-12-15 21:30:00 | launceston       |      8 |        8 | Summer Fire       |   1.5  | overthrow            |
 | 24 | 8.0               | 2021-12-15 21:00:00 | launceston       |      7 |        3 | I'm Wesley        |   4.8  | benny,pangea         |
 | 25 | :2nd_place_medal: | 2021-12-15 21:00:00 | launceston       |      7 |        7 | And Beyond        |   5    | benny,icyhot         |
