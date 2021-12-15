@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 19:08:56 +1000  
+date: 2021-12-15 19:23:49 +1000  
 ---   
 
 
@@ -110,7 +110,7 @@ date: 2021-12-15 19:08:56 +1000
 | 28 | :soon:            | 2021-12-15 20:30:00 | launceston       |      6 |        1 | Turk Warrior      |   1.6  | pangea               |
 | 29 | :soon:            | 2021-12-15 20:30:00 | launceston       |      6 |        3 | Alpine Wolf       |   2.9  | vulture,milkman      |
 | 30 | :soon:            | 2021-12-15 20:15:00 | belmont          |      6 |        7 | Constant Dreaming |   2.62 | vulture              |
-| 31 | :soon:            | 2021-12-15 19:20:00 | launceston       |      4 |        4 | Needs Toasting    |   2.6  | evenodds,overthrow   |
+| 31 | --                | 2021-12-15 19:20:00 | launceston       |      4 |        4 | Needs Toasting    |   2.6  | evenodds,overthrow   |
 | 32 | :2nd_place_medal: | 2021-12-15 18:40:00 | launceston       |      3 |       12 | Red Letter Lady   |   3.8  | pangea               |
 | 33 | :3rd_place_medal: | 2021-12-15 18:40:00 | launceston       |      3 |        1 | Le Cadeau         |   5.5  | overthrow            |
 | 34 | 6.0               | 2021-12-15 18:40:00 | launceston       |      3 |        6 | Vivilici          |   5.5  | evenodds,overthrow   |
