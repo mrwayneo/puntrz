@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 19:23:49 +1000  
+date: 2021-12-15 19:38:57 +1000  
 ---   
 
 
@@ -10,17 +10,17 @@ date: 2021-12-15 19:23:49 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      2 |       98 | 0.33 |  1.63 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      1 |       -1 | 0.33 | -0.03 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      0 |     -110 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      2 |     -115 | 0.11 | -0.61 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     13 |      0 |     -130 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      1 |     -144 | 0.05 | -0.76 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      1 |     -131 | 0.06 | -0.82 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     19 |      0 |     -190 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      2 |     -249 | 0.06 | -0.78 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     45 |      1 |     -401 | 0.02 | -0.89 |
@@ -110,7 +110,7 @@ date: 2021-12-15 19:23:49 +1000
 | 28 | :soon:            | 2021-12-15 20:30:00 | launceston       |      6 |        1 | Turk Warrior      |   1.6  | pangea               |
 | 29 | :soon:            | 2021-12-15 20:30:00 | launceston       |      6 |        3 | Alpine Wolf       |   2.9  | vulture,milkman      |
 | 30 | :soon:            | 2021-12-15 20:15:00 | belmont          |      6 |        7 | Constant Dreaming |   2.62 | vulture              |
-| 31 | --                | 2021-12-15 19:20:00 | launceston       |      4 |        4 | Needs Toasting    |   2.6  | evenodds,overthrow   |
+| 31 | :boom:            | 2021-12-15 19:20:00 | launceston       |      4 |        4 | Needs Toasting    |   2.6  | evenodds,overthrow   |
 | 32 | :2nd_place_medal: | 2021-12-15 18:40:00 | launceston       |      3 |       12 | Red Letter Lady   |   3.8  | pangea               |
 | 33 | :3rd_place_medal: | 2021-12-15 18:40:00 | launceston       |      3 |        1 | Le Cadeau         |   5.5  | overthrow            |
 | 34 | 6.0               | 2021-12-15 18:40:00 | launceston       |      3 |        6 | Vivilici          |   5.5  | evenodds,overthrow   |
