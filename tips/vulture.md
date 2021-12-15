@@ -1,28 +1,28 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2021-12-15 22:38:57 +1000  
+date: 2021-12-16 07:24:04 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     55 |      6 |   -296   | 0.11 | -0.54 |
-| Last 28 Days   |    338 |     74 |   -598.3 | 0.22 | -0.18 |
-| Last 6 Months  |   3021 |    736 |  -4212.5 | 0.24 | -0.14 |
-| Since Jan 2020 |   4956 |   1217 |  -6463   | 0.25 | -0.13 |
+| Last 7 Days    |     60 |      8 |   -368   | 0.13 | -0.61 |
+| Last 28 Days   |    345 |     73 |   -670.6 | 0.21 | -0.19 |
+| Last 6 Months  |   3040 |    739 |  -4314.5 | 0.24 | -0.14 |
+| Since Jan 2020 |   4975 |   1220 |  -6565   | 0.25 | -0.13 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 06:15             | 2021-12-16 | kempton R8                    | 1 Gaassee             |   1.5  |    -10   |
-| 04:45             | 2021-12-16 | kempton R5                    | 2 Keeping Hoping      |   4.2  |    -10   |
-| 03:45             | 2021-12-16 | kempton R3                    | 2 Asaassi             |   2.8  |    -10   |
-| 02:20             | 2021-12-16 | kenilworth R8                 | 8 Let It Burn         |   0    |    -10   |
-| 02:15             | 2021-12-16 | leicester R7                  | 3 Storm Of Light      |   2.5  |    -10   |
-| 01:10             | 2021-12-16 | kenilworth R6                 | 5 Double Charge       |   0    |    -10   |
-| 00:35             | 2021-12-16 | kenilworth R5                 | 5 Sunday Island       |   0    |    -10   |
-| 22:50             | 2021-12-15 | kenilworth R2                 | 3 Spring Awakening    |   0    |    -10   |
+| 0                 | 2021-12-16 | kempton R8                    | 1 Gaassee             |   0    |    -10   |
+| 0                 | 2021-12-16 | kempton R5                    | 2 Keeping Hoping      |   0    |    -10   |
+| 0                 | 2021-12-16 | kempton R3                    | 2 Asaassi             |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R8                 | 8 Let It Burn         |   0    |    -10   |
+| 0                 | 2021-12-16 | leicester R7                  | 3 Storm Of Light      |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R6                 | 5 Double Charge       |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R5                 | 5 Sunday Island       |   0    |    -10   |
+| 0                 | 2021-12-15 | kenilworth R2                 | 3 Spring Awakening    |   0    |    -10   |
 | :boom:            | 2021-12-15 | launceston R9                 | 3 The Risk Factor     |   1.3  |      3   |
 | 6                 | 2021-12-15 | belmont R7                    | 5 Fashion Queen       |   3    |    -10   |
 | :2nd_place_medal: | 2021-12-15 | launceston R6                 | 3 Alpine Wolf         |   2.9  |    -10   |

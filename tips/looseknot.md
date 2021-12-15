@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2021-12-15 22:39:00 +1000  
+date: 2021-12-16 07:24:06 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     13 |      1 |    -30   | 0.08 | -0.23 |
-| Last 28 Days   |     69 |     10 |   -228   | 0.14 | -0.33 |
-| Last 6 Months  |    699 |    112 |   -888.3 | 0.16 | -0.13 |
-| Since Jan 2020 |   1119 |    170 |  -1658.8 | 0.15 | -0.15 |
+| Last 7 Days    |     18 |      3 |     78   | 0.17 |  0.43 |
+| Last 28 Days   |     70 |     10 |   -160   | 0.14 | -0.23 |
+| Last 6 Months  |    705 |    114 |   -790.3 | 0.16 | -0.11 |
+| Since Jan 2020 |   1125 |    172 |  -1560.8 | 0.15 | -0.14 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:45             | 2021-12-16 | kempton R3                    | 4 Groundbreaker       |   8.5  |    -10   |
-| 03:30             | 2021-12-16 | dundalk R2                    | 7 Granville Street    |   9    |    -10   |
+| 0                 | 2021-12-16 | kempton R3                    | 4 Groundbreaker       |   0    |    -10   |
+| 0                 | 2021-12-16 | dundalk R2                    | 7 Granville Street    |   0    |    -10   |
 | :boom:            | 2021-12-15 | sandown-hillside R2           | 6 Oughton             |   9.4  |     84   |
 | :boom:            | 2021-12-15 | sandown-hillside R1           | 2 Lucky Decision      |   6.4  |     54   |
 | 5                 | 2021-12-15 | strathalbyn R1                | 7 Vezere River        |   3.2  |    -10   |

@@ -1,39 +1,39 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2021-12-15 22:39:02 +1000  
+date: 2021-12-16 07:24:08 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    222 |      6 |    -1808 | 0.03 | -0.81 |
-| Last 28 Days   |   1018 |     43 |    -4553 | 0.04 | -0.45 |
-| Last 6 Months  |   8188 |    445 |   -16645 | 0.05 | -0.2  |
-| Since Jan 2020 |  15020 |    819 |   -26660 | 0.05 | -0.18 |
+| Last 7 Days    |    229 |      7 |    -1829 | 0.03 | -0.8  |
+| Last 28 Days   |   1028 |     42 |    -4854 | 0.04 | -0.47 |
+| Last 6 Months  |   8233 |    446 |   -17046 | 0.05 | -0.21 |
+| Since Jan 2020 |  15065 |    820 |   -27061 | 0.05 | -0.18 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:30             | 2021-12-16 | dundalk R6                    | 1 Godhead             |  17    |    -10   |
-| 05:30             | 2021-12-16 | dundalk R6                    | 3 Fastman             |  12    |    -10   |
-| 05:30             | 2021-12-16 | dundalk R6                    | 5 Bears Hug           |  10    |    -10   |
-| 05:30             | 2021-12-16 | dundalk R6                    | 6 Roibeard            |  34    |    -10   |
-| 05:30             | 2021-12-16 | dundalk R6                    | 11 Convertible        |  34    |    -10   |
-| 05:30             | 2021-12-16 | dundalk R6                    | 12 War Hero           |  21    |    -10   |
-| 03:30             | 2021-12-16 | dundalk R2                    | 10 Mads Black Eights  |  15    |    -10   |
-| 02:15             | 2021-12-16 | leicester R7                  | 7 Iron Horse          |  34    |    -10   |
-| 02:15             | 2021-12-16 | leicester R7                  | 4 One For Billy       |  15    |    -10   |
-| 01:15             | 2021-12-16 | leicester R5                  | 7 Getalady            | 101    |    -10   |
-| 01:00             | 2021-12-16 | newbury R4                    | 8 Win My Wings        |  19    |    -10   |
-| 01:00             | 2021-12-16 | newbury R4                    | 3 Bridge Native       |  10    |    -10   |
-| 00:25             | 2021-12-16 | newbury R3                    | 7 The Macon Lugnatic  |  12    |    -10   |
-| 00:05             | 2021-12-16 | leicester R3                  | 6 Patient Owner       |  34    |    -10   |
-| 00:05             | 2021-12-16 | leicester R3                  | 11 No Reaction        |  26    |    -10   |
-| 23:30             | 2021-12-15 | leicester R2                  | 5 Furia D'Oudairies   |  15    |    -10   |
-| 23:20             | 2021-12-15 | newbury R1                    | 7 Mind Hunter         |  31    |    -10   |
-| 23:20             | 2021-12-15 | newbury R1                    | 10 Pride Of Nepal     |  23    |    -10   |
-| 23:00             | 2021-12-15 | leicester R1                  | 7 Falcon Sun          |  13    |    -10   |
+| 0                 | 2021-12-16 | dundalk R6                    | 1 Godhead             |   0    |    -10   |
+| 0                 | 2021-12-16 | dundalk R6                    | 3 Fastman             |   0    |    -10   |
+| 0                 | 2021-12-16 | dundalk R6                    | 5 Bears Hug           |   0    |    -10   |
+| 0                 | 2021-12-16 | dundalk R6                    | 6 Roibeard            |   0    |    -10   |
+| 0                 | 2021-12-16 | dundalk R6                    | 11 Convertible        |   0    |    -10   |
+| 0                 | 2021-12-16 | dundalk R6                    | 12 War Hero           |   0    |    -10   |
+| 0                 | 2021-12-16 | dundalk R2                    | 10 Mads Black Eights  |   0    |    -10   |
+| 0                 | 2021-12-16 | leicester R7                  | 7 Iron Horse          |   0    |    -10   |
+| 0                 | 2021-12-16 | leicester R7                  | 4 One For Billy       |   0    |    -10   |
+| 0                 | 2021-12-16 | leicester R5                  | 7 Getalady            |   0    |    -10   |
+| 0                 | 2021-12-16 | newbury R4                    | 8 Win My Wings        |   0    |    -10   |
+| 0                 | 2021-12-16 | newbury R4                    | 3 Bridge Native       |   0    |    -10   |
+| 0                 | 2021-12-16 | newbury R3                    | 7 The Macon Lugnatic  |   0    |    -10   |
+| 0                 | 2021-12-16 | leicester R3                  | 6 Patient Owner       |   0    |    -10   |
+| 0                 | 2021-12-16 | leicester R3                  | 11 No Reaction        |   0    |    -10   |
+| 0                 | 2021-12-15 | leicester R2                  | 5 Furia D'Oudairies   |   0    |    -10   |
+| 0                 | 2021-12-15 | newbury R1                    | 7 Mind Hunter         |   0    |    -10   |
+| 0                 | 2021-12-15 | newbury R1                    | 10 Pride Of Nepal     |   0    |    -10   |
+| 0                 | 2021-12-15 | leicester R1                  | 7 Falcon Sun          |   0    |    -10   |
 | 7                 | 2021-12-15 | launceston R8                 | 11 Seguimientos       |  15    |    -10   |
 | 5                 | 2021-12-15 | belmont R7                    | 3 Chief Archer        |  13    |    -10   |
 | :2nd_place_medal: | 2021-12-15 | belmont R6                    | 5 Lady Of Babylon     |   8.5  |    -10   |

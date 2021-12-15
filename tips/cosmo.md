@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2021-12-15 22:39:00 +1000  
+date: 2021-12-16 07:24:06 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     70 |      1 |     -645 | 0.01 | -0.92 |
-| Last 28 Days   |    275 |     10 |    -1585 | 0.04 | -0.58 |
-| Last 6 Months  |   2610 |    137 |    -3383 | 0.05 | -0.13 |
-| Since Jan 2020 |   4283 |    249 |    -1223 | 0.06 | -0.03 |
+| Last 7 Days    |     78 |      1 |     -725 | 0.01 | -0.93 |
+| Last 28 Days   |    289 |     10 |    -1725 | 0.03 | -0.6  |
+| Last 6 Months  |   2629 |    137 |    -3573 | 0.05 | -0.14 |
+| Since Jan 2020 |   4302 |    249 |    -1413 | 0.06 | -0.03 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:15             | 2021-12-16 | leicester R7                  | 7 Iron Horse          |  34    |      -10 |
-| 02:15             | 2021-12-16 | leicester R7                  | 4 One For Billy       |  15    |      -10 |
-| 23:00             | 2021-12-15 | leicester R1                  | 7 Falcon Sun          |  13    |      -10 |
+| 0                 | 2021-12-16 | leicester R7                  | 7 Iron Horse          |   0    |      -10 |
+| 0                 | 2021-12-16 | leicester R7                  | 4 One For Billy       |   0    |      -10 |
+| 0                 | 2021-12-15 | leicester R1                  | 7 Falcon Sun          |   0    |      -10 |
 | 7                 | 2021-12-15 | launceston R8                 | 11 Seguimientos       |  15    |      -10 |
 | 5                 | 2021-12-15 | belmont R7                    | 3 Chief Archer        |  13    |      -10 |
 | 10                | 2021-12-15 | sandown-hillside R8           | 8 Abreed              |  11    |      -10 |

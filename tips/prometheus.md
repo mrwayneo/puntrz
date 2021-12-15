@@ -1,45 +1,45 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2021-12-15 22:39:00 +1000  
+date: 2021-12-16 07:24:07 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    257 |     41 |     11.4 | 0.16 |  0    |
-| Last 28 Days   |    946 |    121 |  -2356.6 | 0.13 | -0.25 |
-| Last 6 Months  |   6367 |    974 |  -8092.8 | 0.15 | -0.13 |
-| Since Jan 2020 |   9892 |   1634 | -10771.7 | 0.17 | -0.11 |
+| Last 7 Days    |    190 |     28 |   -328.6 | 0.15 | -0.17 |
+| Last 28 Days   |    952 |    120 |  -2737.6 | 0.13 | -0.29 |
+| Last 6 Months  |   6399 |    977 |  -8323.8 | 0.15 | -0.13 |
+| Since Jan 2020 |   9924 |   1637 | -11002.7 | 0.16 | -0.11 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:45             | 2021-12-16 | kempton R3                    | 7 Royal Symbol        |   3    |    -10   |
-| 02:20             | 2021-12-16 | kenilworth R8                 | 12 Picture The Moment |   0    |    -10   |
-| 02:20             | 2021-12-16 | kenilworth R8                 | 7 Winchester Mansion  |   0    |    -10   |
-| 02:20             | 2021-12-16 | kenilworth R8                 | 1 Benjamin            |   0    |    -10   |
-| 01:43             | 2021-12-16 | kenilworth R7                 | 8 Paper Trail         |   0    |    -10   |
-| 01:43             | 2021-12-16 | kenilworth R7                 | 7 Izapha              |   0    |    -10   |
-| 01:43             | 2021-12-16 | kenilworth R7                 | 6 Spectra Force       |   0    |    -10   |
-| 01:43             | 2021-12-16 | kenilworth R7                 | 5 Swift Surprise      |   0    |    -10   |
-| 01:10             | 2021-12-16 | kenilworth R6                 | 9 What A Bolt         |   0    |    -10   |
-| 01:10             | 2021-12-16 | kenilworth R6                 | 7 Admiralty Arch      |   0    |    -10   |
-| 00:35             | 2021-12-16 | kenilworth R5                 | 13 Green Tiger        |   0    |    -10   |
-| 00:35             | 2021-12-16 | kenilworth R5                 | 11 Drengs Ferry       |   0    |    -10   |
-| 00:35             | 2021-12-16 | kenilworth R5                 | 7 Thunder Master      |   0    |    -10   |
-| 00:00             | 2021-12-16 | kenilworth R4                 | 1 Bite My Lip         |   0    |    -10   |
-| 23:45             | 2021-12-15 | happy-valley R4               | 4 Wine And Wine       |   6.5  |    -10   |
-| 23:45             | 2021-12-15 | happy-valley R4               | 6 Astro King          | 101    |    -10   |
-| 23:45             | 2021-12-15 | happy-valley R4               | 7 My Ecstatic         |  14    |    -10   |
-| 23:45             | 2021-12-15 | happy-valley R4               | 2 Good View Clarico   |  51    |    -10   |
-| 23:25             | 2021-12-15 | kenilworth R3                 | 12 What A Cherry      |   0    |    -10   |
-| 23:25             | 2021-12-15 | kenilworth R3                 | 6 Rare                |   0    |    -10   |
-| 23:25             | 2021-12-15 | kenilworth R3                 | 5 Raising Quinn       |   0    |    -10   |
-| 23:25             | 2021-12-15 | kenilworth R3                 | 4 Rosie Roan          |   0    |    -10   |
-| 23:25             | 2021-12-15 | kenilworth R3                 | 3 Galiek Yo Baby      |   0    |    -10   |
-| 23:00             | 2021-12-15 | leicester R1                  | 5 Mordred             |   2.05 |    -10   |
-| 22:50             | 2021-12-15 | kenilworth R2                 | 6 Captain Dizzy       |   0    |    -10   |
+| 0                 | 2021-12-16 | kempton R3                    | 7 Royal Symbol        |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R8                 | 12 Picture The Moment |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R8                 | 7 Winchester Mansion  |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R8                 | 1 Benjamin            |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R7                 | 8 Paper Trail         |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R7                 | 7 Izapha              |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R7                 | 6 Spectra Force       |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R7                 | 5 Swift Surprise      |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R6                 | 9 What A Bolt         |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R6                 | 7 Admiralty Arch      |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R5                 | 13 Green Tiger        |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R5                 | 11 Drengs Ferry       |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R5                 | 7 Thunder Master      |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R4                 | 1 Bite My Lip         |   0    |    -10   |
+| 0                 | 2021-12-15 | happy-valley R4               | 4 Wine And Wine       |   0    |    -10   |
+| 0                 | 2021-12-15 | happy-valley R4               | 6 Astro King          |   0    |    -10   |
+| 0                 | 2021-12-15 | happy-valley R4               | 7 My Ecstatic         |   0    |    -10   |
+| 0                 | 2021-12-15 | happy-valley R4               | 2 Good View Clarico   |   0    |    -10   |
+| 0                 | 2021-12-15 | kenilworth R3                 | 12 What A Cherry      |   0    |    -10   |
+| 0                 | 2021-12-15 | kenilworth R3                 | 6 Rare                |   0    |    -10   |
+| 0                 | 2021-12-15 | kenilworth R3                 | 5 Raising Quinn       |   0    |    -10   |
+| 0                 | 2021-12-15 | kenilworth R3                 | 4 Rosie Roan          |   0    |    -10   |
+| 0                 | 2021-12-15 | kenilworth R3                 | 3 Galiek Yo Baby      |   0    |    -10   |
+| 0                 | 2021-12-15 | leicester R1                  | 5 Mordred             |   0    |    -10   |
+| 0                 | 2021-12-15 | kenilworth R2                 | 6 Captain Dizzy       |   0    |    -10   |
 | 0                 | 2021-12-15 | kenilworth R1                 | 11 Icanseeclearlynow  |   0    |    -10   |
 | 0                 | 2021-12-15 | kenilworth R1                 | 7 Captain Cola        |   0    |    -10   |
 | :boom:            | 2021-12-15 | launceston R7                 | 1 The Inevitable      |   1.8  |      8   |

@@ -1,28 +1,28 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2021-12-15 22:38:58 +1000  
+date: 2021-12-16 07:24:05 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     52 |     10 |   -265.5 | 0.19 | -0.51 |
-| Last 28 Days   |    320 |     83 |   -380.6 | 0.26 | -0.12 |
-| Last 6 Months  |   2128 |    537 |  -1555.8 | 0.25 | -0.07 |
-| Since Jan 2020 |   3686 |    940 |  -3412.4 | 0.26 | -0.09 |
+| Last 7 Days    |     58 |     13 |   -269.5 | 0.22 | -0.46 |
+| Last 28 Days   |    323 |     82 |   -462.6 | 0.25 | -0.14 |
+| Last 6 Months  |   2144 |    540 |  -1659.8 | 0.25 | -0.08 |
+| Since Jan 2020 |   3702 |    943 |  -3516.4 | 0.25 | -0.09 |
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 02:15             | 2021-12-16 | leicester R7           | 5 Floki               |   9.5  |    -10   |
-| 01:00             | 2021-12-16 | newbury R4             | 7 Silver Forever      |   2.5  |    -10   |
-| 01:00             | 2021-12-16 | newbury R4             | 4 Casablanca Mix      |   6.5  |    -10   |
-| 00:25             | 2021-12-16 | newbury R3             | 6 Valsheda            |   3.1  |    -10   |
-| 00:05             | 2021-12-16 | leicester R3           | 8 Sholokjack          |   1.85 |    -10   |
-| 23:50             | 2021-12-15 | newbury R2             | 7 I Am Maximus        |   1.4  |    -10   |
-| 23:30             | 2021-12-15 | leicester R2           | 2 All Shook Up        |   3.4  |    -10   |
-| 23:20             | 2021-12-15 | newbury R1             | 11 One Journey        |   1.9  |    -10   |
+| 0                 | 2021-12-16 | leicester R7           | 5 Floki               |   0    |    -10   |
+| 0                 | 2021-12-16 | newbury R4             | 7 Silver Forever      |   0    |    -10   |
+| 0                 | 2021-12-16 | newbury R4             | 4 Casablanca Mix      |   0    |    -10   |
+| 0                 | 2021-12-16 | newbury R3             | 6 Valsheda            |   0    |    -10   |
+| 0                 | 2021-12-16 | leicester R3           | 8 Sholokjack          |   0    |    -10   |
+| 0                 | 2021-12-15 | newbury R2             | 7 I Am Maximus        |   0    |    -10   |
+| 0                 | 2021-12-15 | leicester R2           | 2 All Shook Up        |   0    |    -10   |
+| 0                 | 2021-12-15 | newbury R1             | 11 One Journey        |   0    |    -10   |
 | :boom:            | 2021-12-15 | launceston R9          | 3 The Risk Factor     |   1.3  |      3   |
 | :boom:            | 2021-12-15 | launceston R8          | 8 Summer Fire         |   1.4  |      4   |
 | :2nd_place_medal: | 2021-12-15 | launceston R7          | 7 And Beyond          |   5    |    -10   |

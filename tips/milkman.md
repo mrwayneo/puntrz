@@ -1,28 +1,28 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-12-15 22:38:59 +1000  
+date: 2021-12-16 07:24:05 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     29 |      5 |   -170.7 | 0.17 | -0.59 |
-| Last 28 Days   |    155 |     39 |   -341.8 | 0.25 | -0.22 |
-| Last 6 Months  |   1166 |    282 |  -1966.2 | 0.24 | -0.17 |
-| Since Jan 2020 |   1992 |    515 |  -2554.5 | 0.26 | -0.13 |
+| Last 7 Days    |     36 |      5 |   -240.7 | 0.14 | -0.67 |
+| Last 28 Days   |    163 |     37 |   -482.8 | 0.23 | -0.3  |
+| Last 6 Months  |   1177 |    282 |  -2076.2 | 0.24 | -0.18 |
+| Since Jan 2020 |   2003 |    515 |  -2664.5 | 0.26 | -0.13 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 03:15             | 2021-12-16 | kempton R2                   | 2 Spirit Of Nguru     |   2.6  |    -10   |
-| 02:20             | 2021-12-16 | kenilworth R8                | 7 Winchester Mansion  |   0    |    -10   |
-| 02:20             | 2021-12-16 | kenilworth R8                | 8 Let It Burn         |   0    |    -10   |
-| 01:35             | 2021-12-16 | newbury R5                   | 4 Dom Of Mary         |   6.5  |    -10   |
-| 01:00             | 2021-12-16 | newbury R4                   | 7 Silver Forever      |   2.5  |    -10   |
-| 23:50             | 2021-12-15 | newbury R2                   | 5 Head Law            |  12    |    -10   |
-| 23:50             | 2021-12-15 | newbury R2                   | 7 I Am Maximus        |   1.4  |    -10   |
-| 22:50             | 2021-12-15 | kenilworth R2                | 1 Irish Morning       |   0    |    -10   |
+| 0                 | 2021-12-16 | kempton R2                   | 2 Spirit Of Nguru     |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R8                | 7 Winchester Mansion  |   0    |    -10   |
+| 0                 | 2021-12-16 | kenilworth R8                | 8 Let It Burn         |   0    |    -10   |
+| 0                 | 2021-12-16 | newbury R5                   | 4 Dom Of Mary         |   0    |    -10   |
+| 0                 | 2021-12-16 | newbury R4                   | 7 Silver Forever      |   0    |    -10   |
+| 0                 | 2021-12-15 | newbury R2                   | 5 Head Law            |   0    |    -10   |
+| 0                 | 2021-12-15 | newbury R2                   | 7 I Am Maximus        |   0    |    -10   |
+| 0                 | 2021-12-15 | kenilworth R2                | 1 Irish Morning       |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-15 | launceston R7                | 7 And Beyond          |   5    |    -10   |
 | :2nd_place_medal: | 2021-12-15 | launceston R6                | 3 Alpine Wolf         |   2.9  |    -10   |
 | :3rd_place_medal: | 2021-12-15 | wyong R4                     | 6 Snitzonfire         |   2.6  |    -10   |

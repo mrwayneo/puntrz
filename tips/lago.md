@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-15 22:39:04 +1000  
+date: 2021-12-16 07:24:10 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
-| Last 28 Days   |     17 |      7 |    -13   | 0.41 | -0.08 |
-| Last 6 Months  |     93 |     58 |   1412.8 | 0.62 |  1.52 |
-| Since Jan 2020 |    152 |     81 |   1443.8 | 0.53 |  0.95 |
+| Last 28 Days   |     17 |      6 |    -30   | 0.35 | -0.18 |
+| Last 6 Months  |     94 |     58 |   1402.8 | 0.62 |  1.49 |
+| Since Jan 2020 |    153 |     81 |   1433.8 | 0.53 |  0.94 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 00:05             | 2021-12-16 | leicester R3           | 8 Sholokjack         |  1.85 |    -10   |
+| 0                 | 2021-12-16 | leicester R3           | 8 Sholokjack         |  0    |    -10   |
 | 5                 | 2021-12-13 | rockhampton R1         | 4 Sweet Way's        |  3.2  |    -10   |
 | 99                | 2021-12-13 | southwell R6           | 6 Hob House          |  0    |    -10   |
 | 99                | 2021-12-10 | cheltenham R1          | 2 Hartur D'oudairies |  0    |    -10   |
