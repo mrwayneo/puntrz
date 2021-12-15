@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 18:53:53 +1000  
+date: 2021-12-15 19:08:56 +1000  
 ---   
 
 
@@ -113,7 +113,7 @@ date: 2021-12-15 18:53:53 +1000
 | 31 | :soon:            | 2021-12-15 19:20:00 | launceston       |      4 |        4 | Needs Toasting    |   2.6  | evenodds,overthrow   |
 | 32 | :2nd_place_medal: | 2021-12-15 18:40:00 | launceston       |      3 |       12 | Red Letter Lady   |   3.8  | pangea               |
 | 33 | :3rd_place_medal: | 2021-12-15 18:40:00 | launceston       |      3 |        1 | Le Cadeau         |   5.5  | overthrow            |
-| 34 | --                | 2021-12-15 18:40:00 | launceston       |      3 |        6 | Vivilici          |   5.5  | evenodds,overthrow   |
+| 34 | 6.0               | 2021-12-15 18:40:00 | launceston       |      3 |        6 | Vivilici          |   5.5  | evenodds,overthrow   |
 | 35 | :3rd_place_medal: | 2021-12-15 18:30:00 | sandown-hillside |      6 |        2 | Pal D'oro         |   3.8  | pangea               |
 | 36 | 4.0               | 2021-12-15 18:30:00 | sandown-hillside |      6 |        6 | Grand Pope        |   8.5  | cosmo,bluey          |
 | 37 | 4.0               | 2021-12-15 18:15:00 | strathalbyn      |      7 |        5 | Yeelanna          |   4.4  | pangea               |
