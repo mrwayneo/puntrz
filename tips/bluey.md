@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2021-12-15 18:24:03 +1000  
+date: 2021-12-15 18:38:59 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 18:30             | 2021-12-15 | sandown-hillside R6    | 6 Grand Pope          |   8.5 |      -10 |
+| 4                 | 2021-12-15 | sandown-hillside R6    | 6 Grand Pope          |   8.5 |      -10 |
 | 9                 | 2021-12-13 | rockhampton R9         | 12 She's Our Empress  |  11   |      -10 |
 | 8                 | 2021-12-13 | rockhampton R7         | 1 Mystery Element     |  81   |      -10 |
 | 4                 | 2021-12-11 | ascot-park R7          | 2 Kilowatt            |  11   |      -10 |

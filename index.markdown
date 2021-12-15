@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 18:24:04 +1000  
+date: 2021-12-15 18:39:00 +1000  
 ---   
 
 
@@ -114,8 +114,8 @@ date: 2021-12-15 18:24:04 +1000
 | 32 | :soon:            | 2021-12-15 18:40:00 | launceston       |      3 |       12 | Red Letter Lady   |   3.8  | pangea               |
 | 33 | :soon:            | 2021-12-15 18:40:00 | launceston       |      3 |        1 | Le Cadeau         |   5.5  | overthrow            |
 | 34 | :soon:            | 2021-12-15 18:40:00 | launceston       |      3 |        6 | Vivilici          |   5.5  | evenodds,overthrow   |
-| 35 | :soon:            | 2021-12-15 18:30:00 | sandown-hillside |      6 |        2 | Pal D'oro         |   3.8  | pangea               |
-| 36 | :soon:            | 2021-12-15 18:30:00 | sandown-hillside |      6 |        6 | Grand Pope        |   8.5  | cosmo,bluey          |
+| 35 | :3rd_place_medal: | 2021-12-15 18:30:00 | sandown-hillside |      6 |        2 | Pal D'oro         |   3.8  | pangea               |
+| 36 | 4.0               | 2021-12-15 18:30:00 | sandown-hillside |      6 |        6 | Grand Pope        |   8.5  | cosmo,bluey          |
 | 37 | 4.0               | 2021-12-15 18:15:00 | strathalbyn      |      7 |        5 | Yeelanna          |   4.4  | pangea               |
 | 38 | 5.0               | 2021-12-15 17:25:00 | sandown-hillside |      4 |        2 | Covert            |  12    | cosmo,bob            |
 | 39 | 4.0               | 2021-12-15 17:19:00 | belmont          |      1 |        5 | Lady Tornado      |   6.5  | vulture              |
