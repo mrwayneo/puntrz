@@ -1,11 +1,25 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-16 07:54:05 +1000  
+date: 2021-12-16 07:59:06 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      0 |      -20 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      3 |      0 |      -30 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      6 |      0 |      -60 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      9 |      0 |      -90 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     13 |      0 |     -130 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     41 |      0 |     -410 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     43 |      0 |     -430 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -72,8 +86,8 @@ date: 2021-12-16 07:54:05 +1000
 |  8 | --                | 2021-12-16 02:15:00 | leicester        |      7 |        5 | Floki             |   9.5  | overthrow            |
 |  9 | --                | 2021-12-16 01:35:00 | newbury          |      5 |        4 | Dom Of Mary       |   6.5  | milkman              |
 | 10 | --                | 2021-12-16 01:10:00 | kenilworth       |      6 |        5 | Double Charge     |   0    | vulture              |
-| 11 | --                | 2021-12-16 01:00:00 | newbury          |      4 |        4 | Casablanca Mix    |   6.5  | overthrow            |
-| 12 | --                | 2021-12-16 01:00:00 | newbury          |      4 |        7 | Silver Forever    |   2.5  | overthrow,milkman    |
+| 11 | --                | 2021-12-16 01:00:00 | newbury          |      4 |        7 | Silver Forever    |   2.5  | overthrow,milkman    |
+| 12 | --                | 2021-12-16 01:00:00 | newbury          |      4 |        4 | Casablanca Mix    |   6.5  | overthrow            |
 | 13 | --                | 2021-12-16 00:35:00 | kenilworth       |      5 |        5 | Sunday Island     |   0    | vulture              |
 | 14 | --                | 2021-12-16 00:25:00 | newbury          |      3 |        6 | Valsheda          |   3.1  | overthrow            |
 | 15 | --                | 2021-12-16 00:05:00 | leicester        |      3 |        8 | Sholokjack        |   1.85 | overthrow,lago       |
