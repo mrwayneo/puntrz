@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 16:08:57 +1000  
+date: 2021-12-15 16:23:54 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2021-12-15 16:08:57 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      1 |        4 | 0.17 |  0.07 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      2 |       98 | 0.33 |  1.63 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
@@ -19,10 +19,10 @@ date: 2021-12-15 16:08:57 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     13 |      0 |     -130 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      1 |     -144 | 0.05 | -0.76 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      0 |     -190 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     19 |      0 |     -190 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      1 |     -299 | 0.03 | -0.85 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      1 |     -269 | 0.03 | -0.84 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     45 |      0 |     -450 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -74,14 +74,14 @@ date: 2021-12-15 16:08:57 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1101 |    268 |  -1653.6 | 0.24 | -0.15 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2446 |    130 |  -2657   | 0.05 | -0.11 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2838 |    693 |  -3349.6 | 0.24 | -0.12 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6063 |    897 |  -8153.7 | 0.15 | -0.13 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6053 |    902 |  -7720.7 | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7566 |    414 | -14690   | 0.05 | -0.19 |
 
 |    | finish            | time                | track            |   race |   number | name              |   odds | tipster              |
 |---:|:------------------|:--------------------|:-----------------|-------:|---------:|:------------------|-------:|:---------------------|
 |  0 | :soon:            | 2021-12-16 06:15:00 | kempton          |      8 |        1 | Gaassee           |   1.5  | vulture              |
 |  1 | :soon:            | 2021-12-16 04:45:00 | kempton          |      5 |        2 | Keeping Hoping    |   4.2  | vulture              |
-|  2 | :soon:            | 2021-12-16 03:45:00 | kempton          |      3 |        2 | Asaassi           |   2.75 | vulture              |
+|  2 | :soon:            | 2021-12-16 03:45:00 | kempton          |      3 |        2 | Asaassi           |   2.8  | vulture              |
 |  3 | :soon:            | 2021-12-16 03:45:00 | kempton          |      3 |        4 | Groundbreaker     |   8.5  | looseknot            |
 |  4 | :soon:            | 2021-12-16 03:30:00 | dundalk          |      2 |        7 | Granville Street  |   9    | looseknot            |
 |  5 | :soon:            | 2021-12-16 03:15:00 | kempton          |      2 |        2 | Spirit Of Nguru   |   2.6  | milkman              |
@@ -119,10 +119,10 @@ date: 2021-12-15 16:08:57 +1000
 | 37 | :soon:            | 2021-12-15 18:15:00 | strathalbyn      |      7 |        5 | Yeelanna          |   4.4  | pangea               |
 | 38 | :soon:            | 2021-12-15 17:25:00 | sandown-hillside |      4 |        2 | Covert            |  12    | cosmo,bob            |
 | 39 | :soon:            | 2021-12-15 17:19:00 | belmont          |      1 |        5 | Lady Tornado      |   6.5  | vulture              |
-| 40 | :soon:            | 2021-12-15 16:23:00 | ipswich          |      4 |        9 | Derani            |   5.5  | pangea               |
-| 41 | :soon:            | 2021-12-15 16:23:00 | ipswich          |      4 |        8 | Harlequin Field   |   3.4  | vulture              |
-| 42 | :soon:            | 2021-12-15 16:15:00 | sandown-hillside |      2 |        6 | Oughton           |   8    | looseknot            |
-| 43 | --                | 2021-12-15 16:05:00 | wyong            |      5 |        1 | El Parmy          |   3    | vulture              |
+| 40 | --                | 2021-12-15 16:23:00 | ipswich          |      4 |        9 | Derani            |   5.5  | pangea               |
+| 41 | --                | 2021-12-15 16:23:00 | ipswich          |      4 |        8 | Harlequin Field   |   3.4  | vulture              |
+| 42 | :boom:            | 2021-12-15 16:15:00 | sandown-hillside |      2 |        6 | Oughton           |   8    | looseknot            |
+| 43 | :boom:            | 2021-12-15 16:05:00 | wyong            |      5 |        1 | El Parmy          |   3    | vulture              |
 | 44 | :boom:            | 2021-12-15 15:40:00 | sandown-hillside |      1 |        2 | Lucky Decision    |   4.4  | looseknot            |
 | 45 | :3rd_place_medal: | 2021-12-15 15:30:00 | wyong            |      4 |        6 | Snitzonfire       |   2.6  | milkman              |
 | 46 | 5.0               | 2021-12-15 15:30:00 | wyong            |      4 |        1 | Head Legislator   |   3.4  | vulture              |
