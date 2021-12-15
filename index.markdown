@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 16:23:54 +1000  
+date: 2021-12-15 16:38:51 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2021-12-15 16:23:54 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      1 |     -144 | 0.05 | -0.76 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     19 |      0 |     -190 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      1 |     -269 | 0.03 | -0.84 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      2 |     -249 | 0.06 | -0.78 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     45 |      0 |     -450 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -120,7 +120,7 @@ date: 2021-12-15 16:23:54 +1000
 | 38 | :soon:            | 2021-12-15 17:25:00 | sandown-hillside |      4 |        2 | Covert            |  12    | cosmo,bob            |
 | 39 | :soon:            | 2021-12-15 17:19:00 | belmont          |      1 |        5 | Lady Tornado      |   6.5  | vulture              |
 | 40 | --                | 2021-12-15 16:23:00 | ipswich          |      4 |        9 | Derani            |   5.5  | pangea               |
-| 41 | --                | 2021-12-15 16:23:00 | ipswich          |      4 |        8 | Harlequin Field   |   3.4  | vulture              |
+| 41 | :2nd_place_medal: | 2021-12-15 16:23:00 | ipswich          |      4 |        8 | Harlequin Field   |   3.4  | vulture              |
 | 42 | :boom:            | 2021-12-15 16:15:00 | sandown-hillside |      2 |        6 | Oughton           |   8    | looseknot            |
 | 43 | :boom:            | 2021-12-15 16:05:00 | wyong            |      5 |        1 | El Parmy          |   3    | vulture              |
 | 44 | :boom:            | 2021-12-15 15:40:00 | sandown-hillside |      1 |        2 | Lucky Decision    |   4.4  | looseknot            |
