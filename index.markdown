@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 17:09:04 +1000  
+date: 2021-12-15 17:23:55 +1000  
 ---   
 
 
@@ -23,7 +23,7 @@ date: 2021-12-15 17:09:04 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     19 |      0 |     -190 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      2 |     -249 | 0.06 | -0.78 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     45 |      0 |     -450 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     45 |      1 |     -401 | 0.02 | -0.89 |
 
 ##### Form Last 20 tips   
 
@@ -118,7 +118,7 @@ date: 2021-12-15 17:09:04 +1000
 | 36 | :soon:            | 2021-12-15 18:30:00 | sandown-hillside |      6 |        6 | Grand Pope        |   8.5  | cosmo,bluey          |
 | 37 | :soon:            | 2021-12-15 18:15:00 | strathalbyn      |      7 |        5 | Yeelanna          |   4.4  | pangea               |
 | 38 | :soon:            | 2021-12-15 17:25:00 | sandown-hillside |      4 |        2 | Covert            |  12    | cosmo,bob            |
-| 39 | :soon:            | 2021-12-15 17:19:00 | belmont          |      1 |        5 | Lady Tornado      |   6.5  | vulture              |
+| 39 | 4.0               | 2021-12-15 17:19:00 | belmont          |      1 |        5 | Lady Tornado      |   6.5  | vulture              |
 | 40 | 8.0               | 2021-12-15 16:23:00 | ipswich          |      4 |        9 | Derani            |   5.5  | pangea               |
 | 41 | :2nd_place_medal: | 2021-12-15 16:23:00 | ipswich          |      4 |        8 | Harlequin Field   |   3.4  | vulture              |
 | 42 | :boom:            | 2021-12-15 16:15:00 | sandown-hillside |      2 |        6 | Oughton           |   8    | looseknot            |
