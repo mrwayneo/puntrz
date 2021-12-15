@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-15 15:37:05 +1000  
+date: 2021-12-15 15:53:48 +1000  
 ---   
 
 
@@ -9,6 +9,7 @@ date: 2021-12-15 15:37:05 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      1 |        4 | 0.17 |  0.07 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
@@ -16,13 +17,12 @@ date: 2021-12-15 15:37:05 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 | 0    | -1    |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     13 |      0 |     -130 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      0 |     -190 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     19 |      0 |     -190 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      0 |     -200 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     36 |      1 |     -309 | 0.03 | -0.86 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      1 |     -299 | 0.03 | -0.85 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     45 |      0 |     -450 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -74,7 +74,7 @@ date: 2021-12-15 15:37:05 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1101 |    268 |  -1653.6 | 0.24 | -0.15 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2446 |    130 |  -2657   | 0.05 | -0.11 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2838 |    693 |  -3349.6 | 0.24 | -0.12 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6076 |    900 |  -8125.7 | 0.15 | -0.13 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6063 |    900 |  -7995.7 | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7566 |    414 | -14690   | 0.05 | -0.19 |
 
 |    | finish            | time                | track            |   race |   number | name              |   odds | tipster              |
@@ -123,10 +123,10 @@ date: 2021-12-15 15:37:05 +1000
 | 41 | :soon:            | 2021-12-15 16:23:00 | ipswich          |      4 |        8 | Harlequin Field   |   3.4  | vulture              |
 | 42 | :soon:            | 2021-12-15 16:15:00 | sandown-hillside |      2 |        6 | Oughton           |   8    | looseknot            |
 | 43 | :soon:            | 2021-12-15 16:05:00 | wyong            |      5 |        1 | El Parmy          |   3    | vulture              |
-| 44 | :soon:            | 2021-12-15 15:40:00 | sandown-hillside |      1 |        2 | Lucky Decision    |   4.4  | looseknot            |
+| 44 | :boom:            | 2021-12-15 15:40:00 | sandown-hillside |      1 |        2 | Lucky Decision    |   4.4  | looseknot            |
 | 45 | :3rd_place_medal: | 2021-12-15 15:30:00 | wyong            |      4 |        6 | Snitzonfire       |   2.6  | milkman              |
-| 46 | --                | 2021-12-15 15:30:00 | wyong            |      4 |        1 | Head Legislator   |   3.4  | vulture              |
+| 46 | 5.0               | 2021-12-15 15:30:00 | wyong            |      4 |        1 | Head Legislator   |   3.4  | vulture              |
 | 47 | :2nd_place_medal: | 2021-12-15 15:20:00 | strathalbyn      |      2 |        7 | Deep'n Meaningful |   1.65 | vulture              |
 | 48 | 5.0               | 2021-12-15 14:45:00 | strathalbyn      |      1 |        7 | Vezere River      |   3.2  | looseknot            |
 | 49 | 6.0               | 2021-12-15 14:35:00 | ipswich          |      1 |       10 | Brooklyn Mam      |   2.8  | looseknot            |
-| 50 | --                | 2021-12-15 11:32:00 | pukekohe-park    |      2 |        8 | Pacific Dragon    |   1.01 | vulture              |
+| 50 | 103.0             | 2021-12-15 11:32:00 | pukekohe-park    |      2 |        8 | Pacific Dragon    |   1.01 | vulture              |
