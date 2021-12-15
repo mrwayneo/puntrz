@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-15 11:01:50 +1000  
+date: 2021-12-15 14:58:31 +1000  
 categories: None 
 ---   
 
@@ -127,8 +127,8 @@ categories: None
 | :boom:            | 2021-04-17 | newbury R8             | 4 Far Hope           |  5    |     40   |
 | :boom:            | 2021-04-17 | newbury R7             | 4 Gloria Mundi       |  6    |     50   |
 | :boom:            | 2021-04-17 | newbury R5             | 1 Hurricane Lane     |  3.75 |     27.5 |
-| 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
 | :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
+| 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
 | :boom:            | 2021-04-15 | kempton R4             | 1 Ransom             |  3.6  |     26   |
 | 99                | 2021-04-15 | newmarket R5           | 2 Divine Light       |  8.5  |    -10   |
 | :2nd_place_medal: | 2021-04-11 | devonport-synthetic R8 | 6 Azara              |  3.1  |    -10   |
@@ -138,8 +138,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-03 | awapuni R7             | 4 I Wish I Win       |  3.3  |    -10   |
 | :2nd_place_medal: | 2021-03-31 | doomben R7             | 7 Roman Republic     |  1.9  |    -10   |
 | :boom:            | 2021-03-29 | limerick R8            | 10 Belle Metal       |  1.68 |      6.8 |
-| :boom:            | 2021-03-28 | newbury R7             | 6 Jonbon             |  1.9  |      9   |
 | 99                | 2021-03-28 | newbury R7             | 2 Petrossian         |  3.9  |    -10   |
+| :boom:            | 2021-03-28 | newbury R7             | 6 Jonbon             |  1.9  |      9   |
 | :boom:            | 2021-03-24 | launceston R5          | 6 Azara              |  2.4  |     14   |
 | 99                | 2021-03-22 | chepstow R7            | 2 Gold Bullion       |  2.9  |    -10   |
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1          | 2 Haut En Couleurs   | 23    |    -10   |
