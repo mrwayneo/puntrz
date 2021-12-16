@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-16 22:38:55 +1000  
+date: 2021-12-16 22:54:05 +1000  
 ---   
 
 
@@ -95,8 +95,8 @@ date: 2021-12-16 22:38:55 +1000
 | 17 | :soon:            | 2021-12-16 23:30:00 | exeter          |      2 |       11 | Lac De Constance   |   5.5  | overthrow          |
 | 18 | :soon:            | 2021-12-16 23:05:00 | greyville       |      4 |        2 | More Than A Dime   |   0    | vulture            |
 | 19 | :soon:            | 2021-12-16 23:00:00 | exeter          |      1 |        8 | Marmalaid          |   3.5  | overthrow          |
-| 20 | :soon:            | 2021-12-16 22:45:00 | naas            |      1 |        4 | Deja Rouge         |   4.5  | looseknot          |
-| 21 | :soon:            | 2021-12-16 22:45:00 | naas            |      1 |        8 | Hawai Game         |   1.95 | vulture            |
+| 20 | --                | 2021-12-16 22:45:00 | naas            |      1 |        4 | Deja Rouge         |   4.5  | looseknot          |
+| 21 | --                | 2021-12-16 22:45:00 | naas            |      1 |        8 | Hawai Game         |   1.95 | vulture            |
 | 22 | :2nd_place_medal: | 2021-12-16 19:55:00 | pinjarra        |      7 |       10 | Mirror Moon        |   5.5  | evenodds,overthrow |
 | 23 | 8.0               | 2021-12-16 18:05:00 | pinjarra        |      4 |        3 | Stella Door        |   4.8  | pangea             |
 | 24 | 7.0               | 2021-12-16 16:47:00 | pinjarra        |      2 |        8 | Lucrative Lucy     |   5.5  | overthrow          |
