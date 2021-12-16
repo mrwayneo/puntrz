@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-12-16 22:54:00 +1000  
+date: 2021-12-17 06:07:50 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      9 |      2 |    -43.5 | 0.22 | -0.48 |
-| Last 28 Days   |     38 |     14 |    -74.5 | 0.37 | -0.2  |
-| Last 6 Months  |    214 |     71 |   -153.4 | 0.33 | -0.07 |
-| Since Jan 2020 |    382 |    133 |   -102.9 | 0.35 | -0.03 |
+| Last 7 Days    |      7 |      1 |    -44.5 | 0.14 | -0.64 |
+| Last 28 Days   |     39 |     14 |    -84.5 | 0.36 | -0.22 |
+| Last 6 Months  |    215 |     71 |   -163.4 | 0.33 | -0.08 |
+| Since Jan 2020 |    383 |    133 |   -112.9 | 0.35 | -0.03 |
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
@@ -50,8 +50,8 @@ categories: None
 | :boom:            | 2021-11-21 | alice-springs R5        | 1 Bench Press         |  1.6  |      6   |
 | :3rd_place_medal: | 2021-11-21 | alice-springs R2        | 2 Valley Prince       |  2.9  |    -10   |
 | 4                 | 2021-11-20 | ascot R4                | 2 Ginger Flyer        |  7    |    -10   |
-| :2nd_place_medal: | 2021-11-20 | sunshine-coast R7       | 7 Totally Charmed     | 14    |    -10   |
 | :boom:            | 2021-11-20 | sunshine-coast R7       | 2 Zoustyle            |  2.1  |     11   |
+| :2nd_place_medal: | 2021-11-20 | sunshine-coast R7       | 7 Totally Charmed     | 14    |    -10   |
 | :3rd_place_medal: | 2021-11-20 | sunshine-coast R6       | 12 Muschialli         |  8.5  |    -10   |
 | :boom:            | 2021-11-20 | roma R4                 | 2 Patented            |  2.6  |     16   |
 | :3rd_place_medal: | 2021-11-18 | rockhampton R5          | 2 Bluindi             |  2.7  |    -10   |
@@ -276,8 +276,8 @@ categories: None
 | 99                | 2021-04-24 | ellerslie R8            | 5 Markus Aurelius     |  2.05 |    -10   |
 | :3rd_place_medal: | 2021-04-24 | doomben R5              | 7 Walking Flying      |  3.25 |    -10   |
 | 4                 | 2021-04-24 | doomben R2              | 1 Humbolt Current     |  3.9  |    -10   |
-| 9                 | 2021-04-21 | ipswich R8              | 2 Grand Zou           | 14    |    -10   |
 | 7                 | 2021-04-21 | ipswich R8              | 3 Amicitia            |  7.5  |    -10   |
+| 9                 | 2021-04-21 | ipswich R8              | 2 Grand Zou           | 14    |    -10   |
 | :boom:            | 2021-04-20 | epsom-downs R3          | 3 Victory Chime       |  9    |     80   |
 | :2nd_place_medal: | 2021-04-20 | mackay R4               | 7 Princess Rules      |  4.6  |    -10   |
 | 4                 | 2021-04-20 | mackay R4               | 3 Moreno              |  3    |    -10   |
@@ -288,8 +288,8 @@ categories: None
 | :boom:            | 2021-04-18 | wagga R5                | 2 Huntly Castle       |  2    |     10   |
 | :boom:            | 2021-04-18 | hobart R5               | 2 Hela                |  1.1  |      1   |
 | 10                | 2021-04-17 | morphettville R8        | 6 Octane              | 17    |    -10   |
-| 4                 | 2021-04-17 | morphettville R6        | 1 Instant Celebrity   |  4.65 |    -10   |
 | 7                 | 2021-04-17 | morphettville R6        | 10 Echoes In Eternity | 16    |    -10   |
+| 4                 | 2021-04-17 | morphettville R6        | 1 Instant Celebrity   |  4.65 |    -10   |
 | :boom:            | 2021-04-17 | randwick R6             | 1 Wild Ruler          |  5.7  |     47   |
 | 6                 | 2021-04-16 | toowoomba R6            | 7 Motomiss            |  2.3  |    -10   |
 | :boom:            | 2021-04-16 | toowoomba R5            | 3 Rhyme Time          |  3    |     20   |
@@ -301,8 +301,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-13 | cairns R4               | 3 Bold Type           |  3    |    -10   |
 | :boom:            | 2021-04-11 | sha-tin R8              | 2 Courier Wonder      |  1.25 |      2.5 |
 | :boom:            | 2021-04-11 | devonport-synthetic R7  | 2 Cabarrus            |  5.1  |     41   |
-| 6                 | 2021-04-10 | ascot R3                | 8 Let's Cut Loose     |  4.6  |    -10   |
 | :boom:            | 2021-04-10 | ascot R3                | 2 Kaptain Kaos        |  2.4  |     14   |
+| 6                 | 2021-04-10 | ascot R3                | 8 Let's Cut Loose     |  4.6  |    -10   |
 | 4                 | 2021-04-10 | rockhampton R4          | 1 Only Wanna Sing     |  3.1  |    -10   |
 | 5                 | 2021-04-10 | doomben R3              | 1 Cloak               |  3.6  |    -10   |
 | 99                | 2021-04-10 | kempton R4              | 8 Almost You          |  1.67 |    -10   |
@@ -362,8 +362,8 @@ categories: None
 | :boom:            | 2021-02-12 | moonee-valley R4        | 7 Starcaster          |  7.6  |     66   |
 | :2nd_place_medal: | 2021-02-12 | townsville R8           | 10 Bold Eos           |  2.6  |    -10   |
 | :boom:            | 2021-02-12 | townsville R8           | 6 Disco Mo            |  5.9  |     49   |
-| :boom:            | 2021-02-09 | mackay R2               | 2 Brad                |  1.4  |      4   |
 | :2nd_place_medal: | 2021-02-09 | mackay R2               | 3 Durif               |  2.5  |    -10   |
+| :boom:            | 2021-02-09 | mackay R2               | 2 Brad                |  1.4  |      4   |
 | :boom:            | 2021-02-09 | mackay R1               | 2 Carlin Trend        |  3.1  |     21   |
 | :3rd_place_medal: | 2021-02-07 | naracoorte R6           | 1 Challicum           |  5    |    -10   |
 | 5                 | 2021-02-07 | hobart R6               | 6 Mystical Pursuit    |  5.6  |    -10   |
