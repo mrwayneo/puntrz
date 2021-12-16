@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-16 15:55:42 +1000  
+date: 2021-12-16 18:14:56 +1000  
 ---   
 
 
@@ -17,7 +17,7 @@ date: 2021-12-16 15:55:42 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      3 |      0 |      -30 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      6 |      0 |      -60 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      9 |      0 |      -90 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      9 |      1 |      -76 | 0.11 | -0.84 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     13 |      0 |     -130 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     43 |      2 |     -387 | 0.05 | -0.9  |
 
@@ -98,9 +98,9 @@ date: 2021-12-16 15:55:42 +1000
 | 20 | :soon:            | 2021-12-16 22:45:00 | naas            |      1 |        4 | Deja Rouge         |   4.5  | looseknot          |
 | 21 | :soon:            | 2021-12-16 22:45:00 | naas            |      1 |        8 | Hawai Game         |   1.95 | vulture            |
 | 22 | :soon:            | 2021-12-16 19:55:00 | pinjarra        |      7 |       10 | Mirror Moon        |   5.5  | evenodds,overthrow |
-| 23 | :soon:            | 2021-12-16 18:05:00 | pinjarra        |      4 |        3 | Stella Door        |   4.8  | pangea             |
-| 24 | :soon:            | 2021-12-16 16:47:00 | pinjarra        |      2 |        8 | Lucrative Lucy     |   5.5  | overthrow          |
-| 25 | :soon:            | 2021-12-16 16:20:00 | hawkesbury      |      5 |        2 | Safado             |   3.7  | benny,icyhot       |
-| 26 | :soon:            | 2021-12-16 16:12:00 | pinjarra        |      1 |        4 | Kimberley Boy      |   1.45 | vulture            |
+| 23 | --                | 2021-12-16 18:05:00 | pinjarra        |      4 |        3 | Stella Door        |   4.8  | pangea             |
+| 24 | 7.0               | 2021-12-16 16:47:00 | pinjarra        |      2 |        8 | Lucrative Lucy     |   5.5  | overthrow          |
+| 25 | 6.0               | 2021-12-16 16:20:00 | hawkesbury      |      5 |        2 | Safado             |   3.7  | benny,icyhot       |
+| 26 | :boom:            | 2021-12-16 16:12:00 | pinjarra        |      1 |        4 | Kimberley Boy      |   1.45 | vulture            |
 | 27 | :3rd_place_medal: | 2021-12-16 15:05:00 | hawkesbury      |      3 |        7 | Count On Me        |   8    | looseknot          |
 | 28 | --                | 2021-12-16 13:00:00 | ashburton       |      6 |        2 | Sacred Caga        |   0    | vulture            |
