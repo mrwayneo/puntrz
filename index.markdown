@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-16 12:56:17 +1000  
+date: 2021-12-16 13:12:44 +1000  
 ---   
 
 
@@ -103,4 +103,4 @@ date: 2021-12-16 12:56:17 +1000
 | 25 | :soon:   | 2021-12-16 16:20:00 | hawkesbury      |      5 |        2 | Safado             |   3.7  | benny,icyhot       |
 | 26 | :soon:   | 2021-12-16 16:12:00 | pinjarra        |      1 |        4 | Kimberley Boy      |   1.45 | vulture            |
 | 27 | :soon:   | 2021-12-16 15:05:00 | hawkesbury      |      3 |        7 | Count On Me        |   8    | looseknot          |
-| 28 | :soon:   | 2021-12-16 13:00:00 | ashburton       |      6 |        2 | Sacred Caga        |   0    | vulture            |
+| 28 | --       | 2021-12-16 13:00:00 | ashburton       |      6 |        2 | Sacred Caga        |   0    | vulture            |
