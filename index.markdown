@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-16 14:37:15 +1000  
+date: 2021-12-16 15:55:42 +1000  
 ---   
 
 
@@ -19,7 +19,7 @@ date: 2021-12-16 14:37:15 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      6 |      0 |      -60 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      9 |      0 |      -90 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     13 |      0 |     -130 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     43 |      1 |     -407 | 0.02 | -0.95 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     43 |      2 |     -387 | 0.05 | -0.9  |
 
 ##### Form Last 20 tips   
 
@@ -73,34 +73,34 @@ date: 2021-12-16 14:37:15 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6079 |    903 |  -7941.7 | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7571 |    412 | -14915   | 0.05 | -0.2  |
 
-|    | finish   | time                | track           |   race |   number | name               |   odds | tipster            |
-|---:|:---------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:   | 2021-12-17 04:00:00 | chelmsford-city |      3 |        2 | Jabbar             |   3    | vulture            |
-|  1 | :soon:   | 2021-12-17 03:00:00 | chelmsford-city |      1 |        1 | Yonafis            |   1.6  | vulture,milkman    |
-|  2 | :soon:   | 2021-12-17 02:40:00 | southwell       |      7 |        4 | Poet               |   3    | vulture            |
-|  3 | :soon:   | 2021-12-17 02:15:00 | exeter          |      7 |        7 | Sienna Royale      |   6.5  | looseknot          |
-|  4 | :soon:   | 2021-12-17 02:15:00 | exeter          |      7 |       12 | Muddle Thinking    |   6    | looseknot          |
-|  5 | :soon:   | 2021-12-17 02:15:00 | exeter          |      7 |       13 | Whataboutwalt      |  41    | overthrow          |
-|  6 | :soon:   | 2021-12-17 02:00:00 | naas            |      7 |        5 | Quirke's Gate      |   7.5  | looseknot          |
-|  7 | :soon:   | 2021-12-17 01:15:00 | exeter          |      5 |        2 | Galice Macalo      |   4.4  | overthrow          |
-|  8 | :soon:   | 2021-12-17 01:00:00 | naas            |      5 |        6 | Gaillard Du Mesnil |   1.45 | overthrow          |
-|  9 | :soon:   | 2021-12-17 00:25:00 | naas            |      4 |       21 | Rebelle Chaud      |   7.5  | looseknot          |
-| 10 | :soon:   | 2021-12-17 00:20:00 | greyville       |      6 |        8 | Love On Time       |   0    | vulture            |
-| 11 | :soon:   | 2021-12-17 00:15:00 | ffos-las        |      3 |        2 | Ashfield Paddy     |   5    | pangea             |
-| 12 | :soon:   | 2021-12-17 00:05:00 | exeter          |      3 |        6 | West To The Bridge |  11    | pangea,overthrow   |
-| 13 | :soon:   | 2021-12-17 00:05:00 | exeter          |      3 |        2 | Birds Of Prey      |   6.5  | overthrow          |
-| 14 | :soon:   | 2021-12-16 23:50:00 | naas            |      3 |        2 | Brandy Love        |   1.8  | overthrow          |
-| 15 | :soon:   | 2021-12-16 23:30:00 | exeter          |      2 |        2 | Bold Conduct       |   5.5  | milkman            |
-| 16 | :soon:   | 2021-12-16 23:30:00 | exeter          |      2 |        7 | Horn Cape          |   4.4  | overthrow          |
-| 17 | :soon:   | 2021-12-16 23:30:00 | exeter          |      2 |       11 | Lac De Constance   |   5.5  | overthrow          |
-| 18 | :soon:   | 2021-12-16 23:05:00 | greyville       |      4 |        2 | More Than A Dime   |   0    | vulture            |
-| 19 | :soon:   | 2021-12-16 23:00:00 | exeter          |      1 |        8 | Marmalaid          |   3.5  | overthrow          |
-| 20 | :soon:   | 2021-12-16 22:45:00 | naas            |      1 |        4 | Deja Rouge         |   4.5  | looseknot          |
-| 21 | :soon:   | 2021-12-16 22:45:00 | naas            |      1 |        8 | Hawai Game         |   1.95 | vulture            |
-| 22 | :soon:   | 2021-12-16 19:55:00 | pinjarra        |      7 |       10 | Mirror Moon        |   5.5  | evenodds,overthrow |
-| 23 | :soon:   | 2021-12-16 18:05:00 | pinjarra        |      4 |        3 | Stella Door        |   4.8  | pangea             |
-| 24 | :soon:   | 2021-12-16 16:47:00 | pinjarra        |      2 |        8 | Lucrative Lucy     |   5.5  | overthrow          |
-| 25 | :soon:   | 2021-12-16 16:20:00 | hawkesbury      |      5 |        2 | Safado             |   3.7  | benny,icyhot       |
-| 26 | :soon:   | 2021-12-16 16:12:00 | pinjarra        |      1 |        4 | Kimberley Boy      |   1.45 | vulture            |
-| 27 | :soon:   | 2021-12-16 15:05:00 | hawkesbury      |      3 |        7 | Count On Me        |   8    | looseknot          |
-| 28 | --       | 2021-12-16 13:00:00 | ashburton       |      6 |        2 | Sacred Caga        |   0    | vulture            |
+|    | finish            | time                | track           |   race |   number | name               |   odds | tipster            |
+|---:|:------------------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:            | 2021-12-17 04:00:00 | chelmsford-city |      3 |        2 | Jabbar             |   3    | vulture            |
+|  1 | :soon:            | 2021-12-17 03:00:00 | chelmsford-city |      1 |        1 | Yonafis            |   1.6  | vulture,milkman    |
+|  2 | :soon:            | 2021-12-17 02:40:00 | southwell       |      7 |        4 | Poet               |   3    | vulture            |
+|  3 | :soon:            | 2021-12-17 02:15:00 | exeter          |      7 |        7 | Sienna Royale      |   6.5  | looseknot          |
+|  4 | :soon:            | 2021-12-17 02:15:00 | exeter          |      7 |       12 | Muddle Thinking    |   6    | looseknot          |
+|  5 | :soon:            | 2021-12-17 02:15:00 | exeter          |      7 |       13 | Whataboutwalt      |  41    | overthrow          |
+|  6 | :soon:            | 2021-12-17 02:00:00 | naas            |      7 |        5 | Quirke's Gate      |   7.5  | looseknot          |
+|  7 | :soon:            | 2021-12-17 01:15:00 | exeter          |      5 |        2 | Galice Macalo      |   4.4  | overthrow          |
+|  8 | :soon:            | 2021-12-17 01:00:00 | naas            |      5 |        6 | Gaillard Du Mesnil |   1.45 | overthrow          |
+|  9 | :soon:            | 2021-12-17 00:25:00 | naas            |      4 |       21 | Rebelle Chaud      |   7.5  | looseknot          |
+| 10 | :soon:            | 2021-12-17 00:20:00 | greyville       |      6 |        8 | Love On Time       |   0    | vulture            |
+| 11 | :soon:            | 2021-12-17 00:15:00 | ffos-las        |      3 |        2 | Ashfield Paddy     |   5    | pangea             |
+| 12 | :soon:            | 2021-12-17 00:05:00 | exeter          |      3 |        6 | West To The Bridge |  11    | pangea,overthrow   |
+| 13 | :soon:            | 2021-12-17 00:05:00 | exeter          |      3 |        2 | Birds Of Prey      |   6.5  | overthrow          |
+| 14 | :soon:            | 2021-12-16 23:50:00 | naas            |      3 |        2 | Brandy Love        |   1.8  | overthrow          |
+| 15 | :soon:            | 2021-12-16 23:30:00 | exeter          |      2 |        2 | Bold Conduct       |   5.5  | milkman            |
+| 16 | :soon:            | 2021-12-16 23:30:00 | exeter          |      2 |        7 | Horn Cape          |   4.4  | overthrow          |
+| 17 | :soon:            | 2021-12-16 23:30:00 | exeter          |      2 |       11 | Lac De Constance   |   5.5  | overthrow          |
+| 18 | :soon:            | 2021-12-16 23:05:00 | greyville       |      4 |        2 | More Than A Dime   |   0    | vulture            |
+| 19 | :soon:            | 2021-12-16 23:00:00 | exeter          |      1 |        8 | Marmalaid          |   3.5  | overthrow          |
+| 20 | :soon:            | 2021-12-16 22:45:00 | naas            |      1 |        4 | Deja Rouge         |   4.5  | looseknot          |
+| 21 | :soon:            | 2021-12-16 22:45:00 | naas            |      1 |        8 | Hawai Game         |   1.95 | vulture            |
+| 22 | :soon:            | 2021-12-16 19:55:00 | pinjarra        |      7 |       10 | Mirror Moon        |   5.5  | evenodds,overthrow |
+| 23 | :soon:            | 2021-12-16 18:05:00 | pinjarra        |      4 |        3 | Stella Door        |   4.8  | pangea             |
+| 24 | :soon:            | 2021-12-16 16:47:00 | pinjarra        |      2 |        8 | Lucrative Lucy     |   5.5  | overthrow          |
+| 25 | :soon:            | 2021-12-16 16:20:00 | hawkesbury      |      5 |        2 | Safado             |   3.7  | benny,icyhot       |
+| 26 | :soon:            | 2021-12-16 16:12:00 | pinjarra        |      1 |        4 | Kimberley Boy      |   1.45 | vulture            |
+| 27 | :3rd_place_medal: | 2021-12-16 15:05:00 | hawkesbury      |      3 |        7 | Count On Me        |   8    | looseknot          |
+| 28 | --                | 2021-12-16 13:00:00 | ashburton       |      6 |        2 | Sacred Caga        |   0    | vulture            |
