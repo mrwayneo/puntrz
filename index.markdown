@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-17 19:31:34 +1000  
+date: 2021-12-17 19:46:52 +1000  
 ---   
 
 
@@ -10,7 +10,7 @@ date: 2021-12-17 19:31:34 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      3 |       67 | 0.5  |  1.12 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      1 |        5 | 0.25 |  0.12 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      2 |       21 | 0.5  |  0.52 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
@@ -21,7 +21,7 @@ date: 2021-12-17 19:31:34 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     25 |      1 |     -221 | 0.04 | -0.88 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     25 |      2 |     -205 | 0.08 | -0.82 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     38 |      2 |     -329 | 0.05 | -0.87 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     65 |      2 |     -470 | 0.03 | -0.72 |
 
@@ -43,9 +43,9 @@ date: 2021-12-17 19:31:34 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -82   | 0.2  | -0.41 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      4 |   -116   | 0.2  | -0.58 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |   -131   | 0.2  | -0.66 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |   -141   | 0.2  | -0.7  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |   -143.5 | 0.15 | -0.72 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |   -146   | 0.15 | -0.73 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      2 |   -158   | 0.1  | -0.79 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      1 |   -185.5 | 0.05 | -0.93 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
@@ -107,8 +107,8 @@ date: 2021-12-17 19:31:34 +1000
 | 25 | :soon:            | 2021-12-17 21:08:00 | sunshine-coast |      5 |        6 | Pedal To The Metal |   7    | looseknot          |
 | 26 | :soon:            | 2021-12-17 20:38:00 | sunshine-coast |      4 |        2 | Smart Star Prince  |   4.2  | overthrow          |
 | 27 | :soon:            | 2021-12-17 19:55:00 | morphettville  |      8 |        2 | Bill The Boxer     |   2.75 | vulture,milkman    |
-| 28 | --                | 2021-12-17 19:30:00 | canterbury     |      4 |        6 | Prasiolite         |   4.75 | vulture            |
-| 29 | --                | 2021-12-17 19:30:00 | canterbury     |      4 |        2 | Finepoint          |   2.6  | vulture,jmac       |
+| 28 | 4.0               | 2021-12-17 19:30:00 | canterbury     |      4 |        6 | Prasiolite         |   4.75 | vulture            |
+| 29 | :boom:            | 2021-12-17 19:30:00 | canterbury     |      4 |        2 | Finepoint          |   2.6  | vulture,jmac       |
 | 30 | :2nd_place_medal: | 2021-12-17 19:20:00 | esperance-bay  |      4 |        8 | Alcina             |   3.3  | looseknot          |
 | 31 | 5.0               | 2021-12-17 19:15:00 | moonee-valley  |      3 |        5 | Saving             |   2.6  | evenodds,overthrow |
 | 32 | :2nd_place_medal: | 2021-12-17 19:08:00 | sunshine-coast |      1 |        8 | Perfect Mission    |   5.5  | evenodds,overthrow |
