@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-17 22:51:07 +1000  
+date: 2021-12-18 06:14:56 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
-| Last 28 Days   |     17 |      6 |    -30   | 0.35 | -0.18 |
-| Last 6 Months  |     94 |     58 |   1402.8 | 0.62 |  1.49 |
-| Since Jan 2020 |    153 |     81 |   1433.8 | 0.53 |  0.94 |
+| Last 7 Days    |      5 |      2 |     14   | 0.4  |  0.28 |
+| Last 28 Days   |     20 |      8 |      4   | 0.4  |  0.02 |
+| Last 6 Months  |     97 |     60 |   1436.8 | 0.62 |  1.48 |
+| Since Jan 2020 |    156 |     83 |   1467.8 | 0.53 |  0.94 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 02:30             | 2021-12-18 | ascot R6               | 7 Henri The Second   |  3.3  |    -10   |
-| 01:20             | 2021-12-18 | ascot R4               | 4 Knappers Hill      |  4    |    -10   |
-| 01:20             | 2021-12-18 | ascot R4               | 3 Jonbon             |  1.9  |    -10   |
+| :boom:            | 2021-12-18 | ascot R6               | 7 Henri The Second   |  4.4  |     34   |
+| :3rd_place_medal: | 2021-12-18 | ascot R4               | 4 Knappers Hill      |  4    |    -10   |
+| :boom:            | 2021-12-18 | ascot R4               | 3 Jonbon             |  2    |     10   |
 | 0                 | 2021-12-16 | leicester R3           | 8 Sholokjack         |  0    |    -10   |
 | 5                 | 2021-12-13 | rockhampton R1         | 4 Sweet Way's        |  3.2  |    -10   |
 | 99                | 2021-12-13 | southwell R6           | 6 Hob House          |  0    |    -10   |
@@ -104,8 +104,8 @@ categories: None
 | 99                | 2021-06-19 | royal-ascot R1         | 3 New Science        |  7.5  |    -10   |
 | 99                | 2021-06-19 | royal-ascot R3         | 21 Suesa             |  3.25 |    -10   |
 | 99                | 2021-06-17 | royal-ascot R1         | 9 Lucci              |  8    |    -10   |
-| 99                | 2021-06-17 | royal-ascot R6         | 26 Golden Bell       |  9    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R6         | 28 Ruthin            |  4    |    -10   |
+| 99                | 2021-06-17 | royal-ascot R6         | 26 Golden Bell       |  9    |    -10   |
 | 5                 | 2021-06-12 | sandown-hillside R1    | 1 Mimosas            | 13.2  |    -10   |
 | :boom:            | 2021-06-12 | clonmel R8             | 2 Dani Barcelona     |  1.62 |      6.2 |
 | :boom:            | 2021-06-11 | sandown R3             | 8 Native Trail       |  1.8  |      8   |
