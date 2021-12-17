@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-17 19:16:39 +1000  
+date: 2021-12-17 19:31:33 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event             | runner               |   win |   return |
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
-| 19:30             | 2021-12-17 | canterbury R4     | 2 Finepoint          |  2.6  |    -10   |
+| 0                 | 2021-12-17 | canterbury R4     | 2 Finepoint          |  0    |    -10   |
 | :2nd_place_medal: | 2021-12-17 | canterbury R3     | 5 Kipsbay            |  7.5  |    -10   |
 | :3rd_place_medal: | 2021-12-17 | canterbury R2     | 1 Carartie           |  3.1  |    -10   |
 | :boom:            | 2021-12-17 | canterbury R1     | 3 Sword Point        |  4.5  |     35   |
