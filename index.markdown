@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-17 21:06:02 +1000  
+date: 2021-12-17 21:21:26 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2021-12-17 21:06:02 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      3 |       67 | 0.5  |  1.12 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      4 |      151 | 0.67 |  2.52 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      2 |       21 | 0.5  |  0.52 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 | 0    | -1    |
@@ -43,9 +43,9 @@ date: 2021-12-17 21:06:02 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -82   | 0.2  | -0.41 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      4 |   -116   | 0.2  | -0.58 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |   -131   | 0.2  | -0.66 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |   -141   | 0.2  | -0.7  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |   -143.5 | 0.15 | -0.72 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |   -146   | 0.15 | -0.73 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      2 |   -158   | 0.1  | -0.79 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      1 |   -185.5 | 0.05 | -0.93 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
@@ -104,7 +104,7 @@ date: 2021-12-17 21:06:02 +1000
 | 22 | :soon:            | 2021-12-17 23:45:00 | fairview       |      5 |        2 | Victoria Tower     |   0    | vulture            |
 | 23 | :soon:            | 2021-12-17 22:40:00 | uttoxeter      |      1 |        5 | Don't Rightly Know |  34    | milkman            |
 | 24 | :soon:            | 2021-12-17 22:10:00 | sunshine-coast |      7 |        1 | Walk the Talk      |  34    | pangea             |
-| 25 | :soon:            | 2021-12-17 21:08:00 | sunshine-coast |      5 |        6 | Pedal To The Metal |   7    | looseknot          |
+| 25 | :boom:            | 2021-12-17 21:08:00 | sunshine-coast |      5 |        6 | Pedal To The Metal |   7    | looseknot          |
 | 26 | 4.0               | 2021-12-17 20:38:00 | sunshine-coast |      4 |        2 | Smart Star Prince  |   4.2  | overthrow          |
 | 27 | :boom:            | 2021-12-17 19:55:00 | morphettville  |      8 |        2 | Bill The Boxer     |   2.75 | vulture,milkman    |
 | 28 | 4.0               | 2021-12-17 19:30:00 | canterbury     |      4 |        6 | Prasiolite         |   4.75 | vulture            |
