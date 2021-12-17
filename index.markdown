@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-17 15:51:33 +1000  
+date: 2021-12-17 16:06:48 +1000  
 ---   
 
 
@@ -22,8 +22,8 @@ date: 2021-12-17 15:51:33 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     25 |      0 |     -250 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     38 |      1 |     -351 | 0.03 | -0.92 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     65 |      2 |     -487 | 0.03 | -0.75 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     38 |      2 |     -329 | 0.05 | -0.87 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     65 |      2 |     -470 | 0.03 | -0.72 |
 
 ##### Form Last 20 tips   
 
@@ -43,9 +43,9 @@ date: 2021-12-17 15:51:33 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -82   | 0.2  | -0.41 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      4 |   -116   | 0.2  | -0.58 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |   -131   | 0.2  | -0.66 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |   -141   | 0.2  | -0.7  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |   -143.5 | 0.15 | -0.72 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |   -146   | 0.15 | -0.73 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      2 |   -158   | 0.1  | -0.79 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      1 |   -185.5 | 0.05 | -0.93 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
