@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-17 18:31:42 +1000  
+date: 2021-12-17 18:46:35 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2021-12-17 18:31:42 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      2 |       21 | 0.33 |  0.35 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      3 |       67 | 0.5  |  1.12 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      1 |        5 | 0.25 |  0.12 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 | 0    | -1    |
@@ -43,9 +43,9 @@ date: 2021-12-17 18:31:42 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -82   | 0.2  | -0.41 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      4 |   -116   | 0.2  | -0.58 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |   -131   | 0.2  | -0.66 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |   -141   | 0.2  | -0.7  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |   -143.5 | 0.15 | -0.72 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |   -146   | 0.15 | -0.73 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      2 |   -158   | 0.1  | -0.79 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      1 |   -185.5 | 0.05 | -0.93 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
@@ -116,9 +116,9 @@ date: 2021-12-17 18:31:42 +1000
 | 34 | :soon:            | 2021-12-17 19:00:00 | canterbury     |      3 |        5 | Kipsbay            |   7.5  | jmac               |
 | 35 | :soon:            | 2021-12-17 18:55:00 | morphettville  |      6 |        3 | Ichibansan         |   3.4  | vulture            |
 | 36 | :soon:            | 2021-12-17 18:55:00 | morphettville  |      6 |        2 | Tatalina           |   2.2  | vulture,pangea     |
-| 37 | :soon:            | 2021-12-17 18:45:00 | moonee-valley  |      2 |        5 | Throntari          |  10    | milkman            |
-| 38 | --                | 2021-12-17 18:30:00 | canterbury     |      2 |        1 | Carartie           |   3.1  | vulture,jmac       |
-| 39 | --                | 2021-12-17 18:30:00 | canterbury     |      2 |        5 | Russians           |   5    | looseknot          |
+| 37 | --                | 2021-12-17 18:45:00 | moonee-valley  |      2 |        5 | Throntari          |  10    | milkman            |
+| 38 | :3rd_place_medal: | 2021-12-17 18:30:00 | canterbury     |      2 |        1 | Carartie           |   3.1  | vulture,jmac       |
+| 39 | :boom:            | 2021-12-17 18:30:00 | canterbury     |      2 |        5 | Russians           |   5    | looseknot          |
 | 40 | 8.0               | 2021-12-17 18:00:00 | canterbury     |      1 |        4 | Turgenev           |   8.5  | looseknot          |
 | 41 | :boom:            | 2021-12-17 18:00:00 | canterbury     |      1 |        3 | Sword Point        |   4    | looseknot,jmac     |
 | 42 | 9.0               | 2021-12-17 18:00:00 | canterbury     |      1 |        1 | Island Press       |  18    | wallbow            |
