@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-18 07:56:59 +1000  
+date: 2021-12-18 23:51:03 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,14 @@ categories: None
 
 | finish            | date       | event             | runner               |   win |   return |
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
+| 0                 | 2021-12-18 | randwick R9       | 8 Tycoonist          |  0    |    -10   |
+| 0                 | 2021-12-18 | randwick R8       | 9 Bigboyroy          |  0    |    -10   |
+| 0                 | 2021-12-18 | randwick R7       | 8 Francesco Guardi   |  0    |    -10   |
+| 0                 | 2021-12-18 | randwick R6       | 3 Saigon             |  0    |    -10   |
+| 0                 | 2021-12-18 | randwick R5       | 4 Lord Ardmore       |  0    |    -10   |
+| 0                 | 2021-12-18 | randwick R4       | 11 Hollywood Gossip  |  0    |    -10   |
+| 0                 | 2021-12-18 | randwick R2       | 5 Starman            |  0    |    -10   |
+| 0                 | 2021-12-18 | randwick R1       | 2 Himalaism          |  0    |    -10   |
 | :boom:            | 2021-12-17 | canterbury R4     | 2 Finepoint          |  1.6  |      6   |
 | :2nd_place_medal: | 2021-12-17 | canterbury R3     | 5 Kipsbay            |  7.5  |    -10   |
 | :3rd_place_medal: | 2021-12-17 | canterbury R2     | 1 Carartie           |  3.1  |    -10   |

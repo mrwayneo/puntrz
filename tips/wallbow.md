@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2021-12-18 07:56:55 +1000  
+date: 2021-12-18 23:50:59 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event             | runner             |   win |   return |
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
+| 0                 | 2021-12-18 | randwick R9       | 5 Starla           |  0    |      -10 |
+| 0                 | 2021-12-18 | randwick R2       | 4 Sacred Command   |  0    |      -10 |
 | 9                 | 2021-12-17 | canterbury R1     | 1 Island Press     | 18    |      -10 |
 | :boom:            | 2021-12-11 | randwick R4       | 1 Mightybeel       |  3.6  |       26 |
 | 4                 | 2021-12-10 | canterbury R2     | 5 Fearnought       |  5.5  |      -10 |

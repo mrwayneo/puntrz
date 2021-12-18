@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Atlas"   
-date: 2021-12-18 07:56:59 +1000  
+date: 2021-12-18 23:51:03 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,7 @@ categories: None
 
 | finish   | date       | event                  | runner               |   win |   return |
 |:---------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 0        | 2021-12-18 | turffontein R3         | 11 Mathis            |  0    |    -10   |
 | :boom:   | 2021-11-27 | te-aroha R1            | 11 I Choose You      |  2.2  |     12   |
 | :boom:   | 2021-10-26 | newcastle R3           | 1 Antarah            |  1.8  |      8   |
 | :boom:   | 2021-10-21 | worcester R4           | 3 Onethreefivenotout |  3.1  |     21   |
