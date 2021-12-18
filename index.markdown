@@ -1,11 +1,25 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-19 07:18:42 +1000  
+date: 2021-12-19 07:20:34 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      0 |      -60 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      6 |      0 |      -60 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      7 |      0 |      -70 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      9 |      0 |      -90 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     12 |      0 |     -120 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     42 |      0 |     -420 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     42 |      0 |     -420 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -82,8 +96,8 @@ date: 2021-12-19 07:18:42 +1000
 |  18 | --                | 2021-12-19 01:05:00 | haydock       |      5 |        1 | Soul Emotion       |  13    | overthrow            |
 |  19 | --                | 2021-12-19 01:05:00 | haydock       |      5 |        5 | Minella Charmer    |  21    | overthrow            |
 |  20 | :2nd_place_medal: | 2021-12-19 01:00:00 | lingfield     |      5 |        5 | Regal Reality      |   4.5  | overthrow            |
-|  21 | --                | 2021-12-19 00:50:00 | ascot         |      3 |        9 | Guy                |   5    | vulture              |
-|  22 | --                | 2021-12-19 00:50:00 | ascot         |      3 |        4 | Financier          |  13    | vulture              |
+|  21 | --                | 2021-12-19 00:50:00 | ascot         |      3 |        4 | Financier          |  13    | vulture              |
+|  22 | --                | 2021-12-19 00:50:00 | ascot         |      3 |        9 | Guy                |   5    | vulture              |
 |  23 | :2nd_place_medal: | 2021-12-19 00:50:00 | ascot         |      3 |        2 | Diego Du Charmil   |  13    | overthrow            |
 |  24 | :3rd_place_medal: | 2021-12-19 00:50:00 | ascot         |      3 |        6 | Knight In Dubai    |   4.8  | pangea,overthrow     |
 |  25 | --                | 2021-12-19 00:35:00 | kenilworth    |      6 |        2 | Vikram             |   5.5  | vulture              |
@@ -91,8 +105,8 @@ date: 2021-12-19 07:18:42 +1000
 |  27 | --                | 2021-12-19 00:35:00 | kenilworth    |      6 |        9 | One Way Traffic    |   3.9  | pangea               |
 |  28 | --                | 2021-12-19 00:00:00 | kenilworth    |      5 |        1 | Pretty Betty       |  11    | milkman              |
 |  29 | --                | 2021-12-19 00:00:00 | kenilworth    |      5 |        6 | Santa Therese      |   7    | vulture              |
-|  30 | :2nd_place_medal: | 2021-12-18 23:55:00 | haydock       |      3 |        2 | Nina The Terrier   |   2.2  | milkman              |
-|  31 | 4.0               | 2021-12-18 23:55:00 | haydock       |      3 |        4 | Mayhem Mya         |   9.5  | milkman              |
+|  30 | 4.0               | 2021-12-18 23:55:00 | haydock       |      3 |        4 | Mayhem Mya         |   9.5  | milkman              |
+|  31 | :2nd_place_medal: | 2021-12-18 23:55:00 | haydock       |      3 |        2 | Nina The Terrier   |   2.2  | milkman              |
 |  32 | --                | 2021-12-18 23:45:00 | turffontein   |      6 |        1 | Malmoos            |   3.1  | pangea               |
 |  33 | --                | 2021-12-18 23:40:00 | ascot         |      1 |        7 | Gaulois            |  11    | overthrow            |
 |  34 | --                | 2021-12-18 23:40:00 | ascot         |      1 |        2 | Go Steady          |  15    | evenodds,overthrow   |
