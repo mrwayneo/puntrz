@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-12-19 06:25:01 +1000  
+date: 2021-12-19 06:41:39 +1000  
 categories: None 
 ---   
 
@@ -135,8 +135,8 @@ categories: None
 | :boom:            | 2021-09-18 | gold-coast R6           | 2 Weona Smartone      |  1.8  |      8   |
 | 8                 | 2021-09-18 | dalby R5                | 4 Harbour Trick       |  7.5  |    -10   |
 | :boom:            | 2021-09-18 | caulfield R2            | 7 He's A Balter       |  6.3  |     53   |
-| 5                 | 2021-09-12 | devonport-synthetic R1  | 4 Vivilici            |  3    |    -10   |
 | 4                 | 2021-09-12 | devonport-synthetic R1  | 6 Assaranca           |  4.6  |    -10   |
+| 5                 | 2021-09-12 | devonport-synthetic R1  | 4 Vivilici            |  3    |    -10   |
 | 6                 | 2021-09-11 | belmont R6              | 4 General Grant       | 11    |    -10   |
 | :boom:            | 2021-09-11 | belmont R1              | 4 Red Fifty Three     |  4.1  |     31   |
 | :boom:            | 2021-09-10 | fairview R5             | 2 Cairon              |  1.75 |      7.5 |
@@ -219,8 +219,8 @@ categories: None
 | 5                 | 2021-06-19 | darwin R2               | 4 Obligatory          |  2.25 |    -10   |
 | :boom:            | 2021-06-19 | belmont R2              | 1 I'm Pretty          |  2.6  |     16   |
 | :boom:            | 2021-06-17 | warrnambool R6          | 3 Out And Dreaming    |  5.5  |     45   |
-| 6                 | 2021-06-12 | belmont R8              | 13 Leading Girl       |  4.55 |    -10   |
 | 13                | 2021-06-12 | belmont R8              | 2 Come Play With Me   | 51    |    -10   |
+| 6                 | 2021-06-12 | belmont R8              | 13 Leading Girl       |  4.55 |    -10   |
 | :3rd_place_medal: | 2021-06-12 | townsville R3           | 4 Courtesy Bus        |  5    |    -10   |
 | 4                 | 2021-06-11 | swan-hill R7            | 2 More Than Exceed    |  8    |    -10   |
 | :3rd_place_medal: | 2021-06-07 | northam R8              | 5 Gallant Ranger      | 15    |    -10   |
@@ -295,8 +295,8 @@ categories: None
 | :boom:            | 2021-04-18 | wagga R5                | 2 Huntly Castle       |  2    |     10   |
 | :boom:            | 2021-04-18 | hobart R5               | 2 Hela                |  1.1  |      1   |
 | 10                | 2021-04-17 | morphettville R8        | 6 Octane              | 17    |    -10   |
-| 4                 | 2021-04-17 | morphettville R6        | 1 Instant Celebrity   |  4.65 |    -10   |
 | 7                 | 2021-04-17 | morphettville R6        | 10 Echoes In Eternity | 16    |    -10   |
+| 4                 | 2021-04-17 | morphettville R6        | 1 Instant Celebrity   |  4.65 |    -10   |
 | :boom:            | 2021-04-17 | randwick R6             | 1 Wild Ruler          |  5.7  |     47   |
 | 6                 | 2021-04-16 | toowoomba R6            | 7 Motomiss            |  2.3  |    -10   |
 | :boom:            | 2021-04-16 | toowoomba R5            | 3 Rhyme Time          |  3    |     20   |
@@ -369,8 +369,8 @@ categories: None
 | :boom:            | 2021-02-12 | moonee-valley R4        | 7 Starcaster          |  7.6  |     66   |
 | :2nd_place_medal: | 2021-02-12 | townsville R8           | 10 Bold Eos           |  2.6  |    -10   |
 | :boom:            | 2021-02-12 | townsville R8           | 6 Disco Mo            |  5.9  |     49   |
-| :boom:            | 2021-02-09 | mackay R2               | 2 Brad                |  1.4  |      4   |
 | :2nd_place_medal: | 2021-02-09 | mackay R2               | 3 Durif               |  2.5  |    -10   |
+| :boom:            | 2021-02-09 | mackay R2               | 2 Brad                |  1.4  |      4   |
 | :boom:            | 2021-02-09 | mackay R1               | 2 Carlin Trend        |  3.1  |     21   |
 | :3rd_place_medal: | 2021-02-07 | naracoorte R6           | 1 Challicum           |  5    |    -10   |
 | 5                 | 2021-02-07 | hobart R6               | 6 Mystical Pursuit    |  5.6  |    -10   |
