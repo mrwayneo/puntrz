@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-12-18 23:51:00 +1000  
+date: 2021-12-19 06:07:58 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      9 |      1 |    -62   | 0.11 | -0.69 |
-| Last 6 Months  |     44 |     10 |    131.5 | 0.23 |  0.3  |
-| Since Jan 2020 |     94 |     28 |    751.9 | 0.3  |  0.8  |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |     10 |      1 |    -72   | 0.1  | -0.72 |
+| Last 6 Months  |     45 |     10 |    121.5 | 0.22 |  0.27 |
+| Since Jan 2020 |     95 |     28 |    741.9 | 0.29 |  0.78 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 0                 | 2021-12-18 | eagle-farm R7          | 2 Far Too Easy       |   0    |    -10   |
+| :2nd_place_medal: | 2021-12-18 | eagle-farm R7          | 2 Far Too Easy       |   3    |    -10   |
 | 6                 | 2021-12-12 | sha-tin R8             | 11 Lei Papale        |   0    |    -10   |
 | :3rd_place_medal: | 2021-12-12 | sha-tin R4             | 8 Ebaiyra            |  17    |    -10   |
 | 9                 | 2021-12-12 | canberra R4            | 13 Secret Harbour    |  51    |    -10   |

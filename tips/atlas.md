@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Atlas"   
-date: 2021-12-18 23:51:03 +1000  
+date: 2021-12-19 06:08:02 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      1 |      1 |     12   |    1 |  1.2  |
-| Last 6 Months  |     61 |     61 |   1539.5 |    1 |  2.52 |
-| Since Jan 2020 |     75 |     75 |   1739.1 |    1 |  2.32 |
+| Last 7 Days    |      1 |      1 |     20   |    1 |  2    |
+| Last 28 Days   |      2 |      2 |     32   |    1 |  1.6  |
+| Last 6 Months  |     62 |     62 |   1559.5 |    1 |  2.52 |
+| Since Jan 2020 |     76 |     76 |   1759.1 |    1 |  2.31 |
 
 | finish   | date       | event                  | runner               |   win |   return |
 |:---------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 0        | 2021-12-18 | turffontein R3         | 11 Mathis            |  0    |    -10   |
+| :boom:   | 2021-12-18 | turffontein R3         | 11 Mathis            |  3    |     20   |
 | :boom:   | 2021-11-27 | te-aroha R1            | 11 I Choose You      |  2.2  |     12   |
 | :boom:   | 2021-10-26 | newcastle R3           | 1 Antarah            |  1.8  |      8   |
 | :boom:   | 2021-10-21 | worcester R4           | 3 Onethreefivenotout |  3.1  |     21   |

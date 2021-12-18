@@ -1,28 +1,28 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-18 23:51:03 +1000  
+date: 2021-12-19 06:08:01 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      2 |     21   | 0.5  |  0.52 |
-| Last 28 Days   |     20 |      8 |     83   | 0.4  |  0.42 |
-| Last 6 Months  |    280 |     80 |    420.5 | 0.29 |  0.15 |
-| Since Jan 2020 |    479 |    129 |    167.5 | 0.27 |  0.03 |
+| Last 7 Days    |     12 |      4 |     -5   | 0.33 | -0.04 |
+| Last 28 Days   |     28 |     10 |     57   | 0.36 |  0.2  |
+| Last 6 Months  |    288 |     82 |    394.5 | 0.28 |  0.14 |
+| Since Jan 2020 |    487 |    131 |    141.5 | 0.27 |  0.03 |
 
 | finish            | date       | event             | runner               |   win |   return |
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
-| 0                 | 2021-12-18 | randwick R9       | 8 Tycoonist          |  0    |    -10   |
-| 0                 | 2021-12-18 | randwick R8       | 9 Bigboyroy          |  0    |    -10   |
-| 0                 | 2021-12-18 | randwick R7       | 8 Francesco Guardi   |  0    |    -10   |
-| 0                 | 2021-12-18 | randwick R6       | 3 Saigon             |  0    |    -10   |
-| 0                 | 2021-12-18 | randwick R5       | 4 Lord Ardmore       |  0    |    -10   |
-| 0                 | 2021-12-18 | randwick R4       | 11 Hollywood Gossip  |  0    |    -10   |
-| 0                 | 2021-12-18 | randwick R2       | 5 Starman            |  0    |    -10   |
-| 0                 | 2021-12-18 | randwick R1       | 2 Himalaism          |  0    |    -10   |
+| :boom:            | 2021-12-18 | randwick R9       | 8 Tycoonist          |  3.1  |     21   |
+| 6                 | 2021-12-18 | randwick R8       | 9 Bigboyroy          |  3.25 |    -10   |
+| :boom:            | 2021-12-18 | randwick R7       | 8 Francesco Guardi   |  2.3  |     13   |
+| 4                 | 2021-12-18 | randwick R6       | 3 Saigon             |  5.5  |    -10   |
+| :2nd_place_medal: | 2021-12-18 | randwick R5       | 4 Lord Ardmore       |  3.9  |    -10   |
+| 7                 | 2021-12-18 | randwick R4       | 11 Hollywood Gossip  |  4.6  |    -10   |
+| 4                 | 2021-12-18 | randwick R2       | 5 Starman            |  3.1  |    -10   |
+| :3rd_place_medal: | 2021-12-18 | randwick R1       | 2 Himalaism          |  5    |    -10   |
 | :boom:            | 2021-12-17 | canterbury R4     | 2 Finepoint          |  1.6  |      6   |
 | :2nd_place_medal: | 2021-12-17 | canterbury R3     | 5 Kipsbay            |  7.5  |    -10   |
 | :3rd_place_medal: | 2021-12-17 | canterbury R2     | 1 Carartie           |  3.1  |    -10   |

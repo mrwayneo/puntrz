@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2021-12-18 23:50:59 +1000  
+date: 2021-12-19 06:07:57 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
-| Last 28 Days   |      8 |      3 |        1 | 0.38 |  0.01 |
-| Last 6 Months  |     52 |      9 |     -218 | 0.17 | -0.42 |
-| Since Jan 2020 |     89 |     14 |      206 | 0.16 |  0.23 |
+| Last 7 Days    |      3 |      0 |      -30 | 0    | -1    |
+| Last 28 Days   |     10 |      3 |      -19 | 0.3  | -0.19 |
+| Last 6 Months  |     54 |      9 |     -238 | 0.17 | -0.44 |
+| Since Jan 2020 |     91 |     14 |      186 | 0.15 |  0.2  |
 
 | finish            | date       | event             | runner             |   win |   return |
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
-| 0                 | 2021-12-18 | randwick R9       | 5 Starla           |  0    |      -10 |
-| 0                 | 2021-12-18 | randwick R2       | 4 Sacred Command   |  0    |      -10 |
+| 4                 | 2021-12-18 | randwick R9       | 5 Starla           | 14    |      -10 |
+| 7                 | 2021-12-18 | randwick R2       | 4 Sacred Command   |  8    |      -10 |
 | 9                 | 2021-12-17 | canterbury R1     | 1 Island Press     | 18    |      -10 |
 | :boom:            | 2021-12-11 | randwick R4       | 1 Mightybeel       |  3.6  |       26 |
 | 4                 | 2021-12-10 | canterbury R2     | 5 Fearnought       |  5.5  |      -10 |
