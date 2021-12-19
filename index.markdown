@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-19 17:52:40 +1000  
+date: 2021-12-19 18:12:32 +1000  
 ---   
 
 
@@ -89,7 +89,7 @@ date: 2021-12-19 17:52:40 +1000
 | 11 | :soon:            | 2021-12-19 19:25:00 | geraldton      |      6 |        4 | Allageri         |   8    | pangea             |
 | 12 | :soon:            | 2021-12-19 18:25:00 | alice-springs  |      6 |        2 | Envy Me          |   3.45 | vulture            |
 | 13 | :soon:            | 2021-12-19 18:25:00 | alice-springs  |      6 |        4 | Special Union    |   6.6  | looseknot          |
-| 14 | :soon:            | 2021-12-19 17:55:00 | alice-springs  |      5 |        4 | Valiant Lad      |   3    | vulture            |
+| 14 | :2nd_place_medal: | 2021-12-19 17:55:00 | alice-springs  |      5 |        4 | Valiant Lad      |   3    | vulture            |
 | 15 | :boom:            | 2021-12-19 17:25:00 | sunshine-coast |      6 |        4 | Iolite           |   2.6  | milkman,icyhot     |
 | 16 | :2nd_place_medal: | 2021-12-19 17:25:00 | sunshine-coast |      6 |        2 | Sir Rocket       |   3.25 | pangea             |
 | 17 | :2nd_place_medal: | 2021-12-19 17:17:00 | alice-springs  |      4 |        2 | Supreme Times    |   5    | pangea,blackshadow |
