@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-19 16:40:00 +1000  
+date: 2021-12-19 16:59:45 +1000  
 ---   
 
 
@@ -93,8 +93,8 @@ date: 2021-12-19 16:40:00 +1000
 | 15 | :soon:            | 2021-12-19 17:25:00 | sunshine-coast |      6 |        4 | Iolite           |   2.6  | milkman,icyhot     |
 | 16 | :soon:            | 2021-12-19 17:25:00 | sunshine-coast |      6 |        2 | Sir Rocket       |   3.25 | pangea             |
 | 17 | :soon:            | 2021-12-19 17:17:00 | alice-springs  |      4 |        2 | Supreme Times    |   5    | pangea,blackshadow |
-| 18 | :soon:            | 2021-12-19 16:42:00 | alice-springs  |      3 |        3 | Extraction       |  10    | pangea,blackshadow |
-| 19 | :soon:            | 2021-12-19 16:42:00 | alice-springs  |      3 |        4 | Like A Heartbeat |   3.4  | vulture            |
+| 18 | 6.0               | 2021-12-19 16:42:00 | alice-springs  |      3 |        3 | Extraction       |  10    | pangea,blackshadow |
+| 19 | :3rd_place_medal: | 2021-12-19 16:42:00 | alice-springs  |      3 |        4 | Like A Heartbeat |   3.4  | vulture            |
 | 20 | :2nd_place_medal: | 2021-12-19 16:05:00 | sunshine-coast |      4 |        8 | If You Can Dream |   3.2  | overthrow          |
 | 21 | :boom:            | 2021-12-19 16:02:00 | alice-springs  |      2 |        4 | Mighty Murt      |  15    | vulture            |
 | 22 | 4.0               | 2021-12-19 15:30:00 | alice-springs  |      1 |        3 | Maudy            |   3.7  | vulture            |
