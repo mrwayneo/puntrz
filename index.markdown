@@ -1,11 +1,23 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-20 07:49:02 +1000  
+date: 2021-12-20 08:09:26 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      0 |      -20 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      4 |      0 |      -40 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      4 |      0 |      -40 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     20 |      0 |     -200 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     29 |      0 |     -290 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,29 +71,20 @@ date: 2021-12-20 07:49:02 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6027 |    898 |  -8077.7 | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7640 |    412 | -15006   | 0.05 | -0.2  |
 
-|    | finish            | time                | track          |   race |   number | name             |   odds | tipster            |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | :boom:            | 2021-12-20 02:10:00 | thurles        |      7 |        5 | Dorans Weir      |   5    | looseknot          |
-|  1 | :boom:            | 2021-12-20 01:20:00 | fakenham       |      5 |        3 | Lelantos         |   2.1  | evenodds,overthrow |
-|  2 | :2nd_place_medal: | 2021-12-20 01:10:00 | greyville      |      7 |        2 | Mvulazana        |   0    | milkman            |
-|  3 | --                | 2021-12-20 01:10:00 | scottsville    |      7 |        2 | Mvulazana        |   0    | milkman            |
-|  4 | 4.0               | 2021-12-20 00:40:00 | thurles        |      4 |        3 | Braganza         |   2.35 | overthrow,milkman  |
-|  5 | :2nd_place_medal: | 2021-12-20 00:40:00 | greyville      |      6 |        7 | Chantyman        |   0    | vulture            |
-|  6 | --                | 2021-12-20 00:40:00 | scottsville    |      6 |        7 | Chantyman        |   0    | vulture            |
-|  7 | :2nd_place_medal: | 2021-12-20 00:20:00 | fakenham       |      3 |        2 | Commodore Miller |   3.3  | overthrow          |
-|  8 | --                | 2021-12-19 23:25:00 | scottsville    |      4 |        6 | Airways Law      |   0    | vulture,milkman    |
-|  9 | --                | 2021-12-19 23:25:00 | greyville      |      4 |        6 | Airways Law      |   0    | milkman            |
-| 10 | :boom:            | 2021-12-19 23:10:00 | thurles        |      1 |        9 | Stratum          |   1.6  | overthrow          |
-| 11 | 5.0               | 2021-12-19 19:25:00 | geraldton      |      6 |        4 | Allageri         |   8    | pangea             |
-| 12 | :2nd_place_medal: | 2021-12-19 18:25:00 | alice-springs  |      6 |        2 | Envy Me          |   3.45 | vulture            |
-| 13 | --                | 2021-12-19 18:25:00 | alice-springs  |      6 |        4 | Special Union    |   6.6  | looseknot          |
-| 14 | :2nd_place_medal: | 2021-12-19 17:55:00 | alice-springs  |      5 |        4 | Valiant Lad      |   3    | vulture            |
-| 15 | :boom:            | 2021-12-19 17:25:00 | sunshine-coast |      6 |        4 | Iolite           |   2.6  | milkman,icyhot     |
-| 16 | :2nd_place_medal: | 2021-12-19 17:25:00 | sunshine-coast |      6 |        2 | Sir Rocket       |   3.25 | pangea             |
-| 17 | :2nd_place_medal: | 2021-12-19 17:17:00 | alice-springs  |      4 |        2 | Supreme Times    |   5    | pangea,blackshadow |
-| 18 | 6.0               | 2021-12-19 16:42:00 | alice-springs  |      3 |        3 | Extraction       |  10    | pangea,blackshadow |
-| 19 | :3rd_place_medal: | 2021-12-19 16:42:00 | alice-springs  |      3 |        4 | Like A Heartbeat |   3.4  | vulture            |
-| 20 | :2nd_place_medal: | 2021-12-19 16:05:00 | sunshine-coast |      4 |        8 | If You Can Dream |   3.2  | overthrow          |
-| 21 | :boom:            | 2021-12-19 16:02:00 | alice-springs  |      2 |        4 | Mighty Murt      |  15    | vulture            |
-| 22 | 4.0               | 2021-12-19 15:30:00 | alice-springs  |      1 |        3 | Maudy            |   3.7  | vulture            |
-| 23 | 4.0               | 2021-12-19 15:25:00 | sunshine-coast |      3 |       11 | Rebel Tinge      |   5    | looseknot          |
+|    | finish   | time                | track         |   race |   number | name              |   odds | tipster         |
+|---:|:---------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:----------------|
+|  0 | :soon:   | 2021-12-21 03:30:00 | wolverhampton |      2 |        8 | Arab Cinder       |   5    | looseknot       |
+|  1 | :soon:   | 2021-12-21 03:00:00 | wolverhampton |      1 |        6 | Ruby Red Empress  |  11    | cosmo,bob       |
+|  2 | :soon:   | 2021-12-21 02:30:00 | lingfield     |      7 |        4 | Little Light      |   5.5  | vulture,pangea  |
+|  3 | :soon:   | 2021-12-21 02:30:00 | lingfield     |      7 |        2 | War Call          |   4.2  | overthrow       |
+|  4 | :soon:   | 2021-12-21 02:00:00 | lingfield     |      6 |        7 | Pilot Show        |   8.5  | milkman         |
+|  5 | :soon:   | 2021-12-21 01:30:00 | lingfield     |      5 |        1 | Golden Boy Grey   |   4.8  | milkman         |
+|  6 | :soon:   | 2021-12-21 01:30:00 | lingfield     |      5 |        3 | Fearless          |   2.5  | vulture         |
+|  7 | :soon:   | 2021-12-21 01:00:00 | lingfield     |      4 |        3 | Monsieur Lecoq    |   5.5  | overthrow       |
+|  8 | :soon:   | 2021-12-20 23:30:00 | lingfield     |      1 |        2 | Ellofagetaway     |   5.5  | looseknot       |
+|  9 | :soon:   | 2021-12-20 23:15:00 | musselburgh   |      1 |        5 | River Walk        |   1.65 | vulture,milkman |
+| 10 | :soon:   | 2021-12-20 23:05:00 | turffontein   |      5 |        7 | Fantastical       |   0    | milkman         |
+| 11 | :soon:   | 2021-12-20 22:35:00 | turffontein   |      4 |        2 | Heavens Girl      |   0    | vulture         |
+| 12 | :soon:   | 2021-12-20 16:30:00 | terang        |      8 |        1 | Laughing Grizzley |   4.8  | pangea          |
+| 13 | :soon:   | 2021-12-20 13:50:00 | bathurst      |      1 |       10 | Rosie Impact      |   7.5  | looseknot       |
+| 14 | 103.0    | 2021-12-20 10:13:00 | pukekohe-park |      2 |        8 | Pacific Dragon    |   1.01 | vulture         |

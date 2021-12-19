@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-20 07:49:01 +1000  
+date: 2021-12-20 08:09:25 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event               | runner                |    win |   return |
 |:------------------|:-----------|:--------------------|:----------------------|-------:|---------:|
+| 03:00             | 2021-12-21 | wolverhampton R1    | 6 Ruby Red Empress    |  11    |    -10   |
 | 0                 | 2021-12-17 | uttoxeter R3        | 6 Glebe Road          |   0    |    -10   |
 | 5                 | 2021-12-15 | sandown-hillside R4 | 2 Covert              |  12    |    -10   |
 | 99                | 2021-12-12 | fairyhouse R6       | 3 Bearwithmenow       |   0    |    -10   |
