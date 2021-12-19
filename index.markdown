@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-19 15:57:44 +1000  
+date: 2021-12-19 16:16:47 +1000  
 ---   
 
 
@@ -14,11 +14,11 @@ date: 2021-12-19 15:57:44 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      1 |      -20 | 0.17 | -0.33 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      9 |      1 |      -31 | 0.11 | -0.34 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      6 |      0 |      -60 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      7 |      0 |      -70 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      9 |      0 |      -90 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     12 |      0 |     -120 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     42 |      1 |     -380 | 0.02 | -0.9  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     42 |      2 |     -356 | 0.05 | -0.85 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     42 |      0 |     -420 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -73,29 +73,29 @@ date: 2021-12-19 15:57:44 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6061 |    901 |  -8130.7 | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7659 |    416 | -14520   | 0.05 | -0.19 |
 
-|    | finish   | time                | track          |   race |   number | name             |   odds | tipster            |
-|---:|:---------|:--------------------|:---------------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | :soon:   | 2021-12-20 02:10:00 | thurles        |      7 |        5 | Dorans Weir      |   5    | looseknot          |
-|  1 | :soon:   | 2021-12-20 01:20:00 | fakenham       |      5 |        3 | Lelantos         |   2.1  | evenodds,overthrow |
-|  2 | :soon:   | 2021-12-20 01:10:00 | greyville      |      7 |        2 | Mvulazana        |   0    | milkman            |
-|  3 | :soon:   | 2021-12-20 01:10:00 | scottsville    |      7 |        2 | Mvulazana        |   0    | milkman            |
-|  4 | :soon:   | 2021-12-20 00:40:00 | thurles        |      4 |        3 | Braganza         |   2.35 | overthrow,milkman  |
-|  5 | :soon:   | 2021-12-20 00:40:00 | greyville      |      6 |        7 | Chantyman        |   0    | vulture            |
-|  6 | :soon:   | 2021-12-20 00:40:00 | scottsville    |      6 |        7 | Chantyman        |   0    | vulture            |
-|  7 | :soon:   | 2021-12-20 00:20:00 | fakenham       |      3 |        2 | Commodore Miller |   3.3  | overthrow          |
-|  8 | :soon:   | 2021-12-19 23:25:00 | scottsville    |      4 |        6 | Airways Law      |   0    | vulture,milkman    |
-|  9 | :soon:   | 2021-12-19 23:25:00 | greyville      |      4 |        6 | Airways Law      |   0    | milkman            |
-| 10 | :soon:   | 2021-12-19 23:10:00 | thurles        |      1 |        9 | Stratum          |   1.6  | overthrow          |
-| 11 | :soon:   | 2021-12-19 19:25:00 | geraldton      |      6 |        4 | Allageri         |   8    | pangea             |
-| 12 | :soon:   | 2021-12-19 18:25:00 | alice-springs  |      6 |        2 | Envy Me          |   3.45 | vulture            |
-| 13 | :soon:   | 2021-12-19 18:25:00 | alice-springs  |      6 |        4 | Special Union    |   6.6  | looseknot          |
-| 14 | :soon:   | 2021-12-19 17:55:00 | alice-springs  |      5 |        4 | Valiant Lad      |   3    | vulture            |
-| 15 | :soon:   | 2021-12-19 17:25:00 | sunshine-coast |      6 |        4 | Iolite           |   2.6  | milkman,icyhot     |
-| 16 | :soon:   | 2021-12-19 17:25:00 | sunshine-coast |      6 |        2 | Sir Rocket       |   3.25 | pangea             |
-| 17 | :soon:   | 2021-12-19 17:17:00 | alice-springs  |      4 |        2 | Supreme Times    |   5    | pangea,blackshadow |
-| 18 | :soon:   | 2021-12-19 16:42:00 | alice-springs  |      3 |        3 | Extraction       |  10    | pangea,blackshadow |
-| 19 | :soon:   | 2021-12-19 16:42:00 | alice-springs  |      3 |        4 | Like A Heartbeat |   3.4  | vulture            |
-| 20 | :soon:   | 2021-12-19 16:05:00 | sunshine-coast |      4 |        8 | If You Can Dream |   3.2  | overthrow          |
-| 21 | :soon:   | 2021-12-19 16:02:00 | alice-springs  |      2 |        4 | Mighty Murt      |  15    | vulture            |
-| 22 | 4.0      | 2021-12-19 15:30:00 | alice-springs  |      1 |        3 | Maudy            |   3.7  | vulture            |
-| 23 | 4.0      | 2021-12-19 15:25:00 | sunshine-coast |      3 |       11 | Rebel Tinge      |   5    | looseknot          |
+|    | finish            | time                | track          |   race |   number | name             |   odds | tipster            |
+|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-----------------|-------:|:-------------------|
+|  0 | :soon:            | 2021-12-20 02:10:00 | thurles        |      7 |        5 | Dorans Weir      |   5    | looseknot          |
+|  1 | :soon:            | 2021-12-20 01:20:00 | fakenham       |      5 |        3 | Lelantos         |   2.1  | evenodds,overthrow |
+|  2 | :soon:            | 2021-12-20 01:10:00 | greyville      |      7 |        2 | Mvulazana        |   0    | milkman            |
+|  3 | :soon:            | 2021-12-20 01:10:00 | scottsville    |      7 |        2 | Mvulazana        |   0    | milkman            |
+|  4 | :soon:            | 2021-12-20 00:40:00 | thurles        |      4 |        3 | Braganza         |   2.35 | overthrow,milkman  |
+|  5 | :soon:            | 2021-12-20 00:40:00 | greyville      |      6 |        7 | Chantyman        |   0    | vulture            |
+|  6 | :soon:            | 2021-12-20 00:40:00 | scottsville    |      6 |        7 | Chantyman        |   0    | vulture            |
+|  7 | :soon:            | 2021-12-20 00:20:00 | fakenham       |      3 |        2 | Commodore Miller |   3.3  | overthrow          |
+|  8 | :soon:            | 2021-12-19 23:25:00 | scottsville    |      4 |        6 | Airways Law      |   0    | vulture,milkman    |
+|  9 | :soon:            | 2021-12-19 23:25:00 | greyville      |      4 |        6 | Airways Law      |   0    | milkman            |
+| 10 | :soon:            | 2021-12-19 23:10:00 | thurles        |      1 |        9 | Stratum          |   1.6  | overthrow          |
+| 11 | :soon:            | 2021-12-19 19:25:00 | geraldton      |      6 |        4 | Allageri         |   8    | pangea             |
+| 12 | :soon:            | 2021-12-19 18:25:00 | alice-springs  |      6 |        2 | Envy Me          |   3.45 | vulture            |
+| 13 | :soon:            | 2021-12-19 18:25:00 | alice-springs  |      6 |        4 | Special Union    |   6.6  | looseknot          |
+| 14 | :soon:            | 2021-12-19 17:55:00 | alice-springs  |      5 |        4 | Valiant Lad      |   3    | vulture            |
+| 15 | :soon:            | 2021-12-19 17:25:00 | sunshine-coast |      6 |        4 | Iolite           |   2.6  | milkman,icyhot     |
+| 16 | :soon:            | 2021-12-19 17:25:00 | sunshine-coast |      6 |        2 | Sir Rocket       |   3.25 | pangea             |
+| 17 | :soon:            | 2021-12-19 17:17:00 | alice-springs  |      4 |        2 | Supreme Times    |   5    | pangea,blackshadow |
+| 18 | :soon:            | 2021-12-19 16:42:00 | alice-springs  |      3 |        3 | Extraction       |  10    | pangea,blackshadow |
+| 19 | :soon:            | 2021-12-19 16:42:00 | alice-springs  |      3 |        4 | Like A Heartbeat |   3.4  | vulture            |
+| 20 | :2nd_place_medal: | 2021-12-19 16:05:00 | sunshine-coast |      4 |        8 | If You Can Dream |   3.2  | overthrow          |
+| 21 | :boom:            | 2021-12-19 16:02:00 | alice-springs  |      2 |        4 | Mighty Murt      |  15    | vulture            |
+| 22 | 4.0               | 2021-12-19 15:30:00 | alice-springs  |      1 |        3 | Maudy            |   3.7  | vulture            |
+| 23 | 4.0               | 2021-12-19 15:25:00 | sunshine-coast |      3 |       11 | Rebel Tinge      |   5    | looseknot          |
