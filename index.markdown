@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-19 16:59:45 +1000  
+date: 2021-12-19 17:22:46 +1000  
 ---   
 
 
@@ -92,7 +92,7 @@ date: 2021-12-19 16:59:45 +1000
 | 14 | :soon:            | 2021-12-19 17:55:00 | alice-springs  |      5 |        4 | Valiant Lad      |   3    | vulture            |
 | 15 | :soon:            | 2021-12-19 17:25:00 | sunshine-coast |      6 |        4 | Iolite           |   2.6  | milkman,icyhot     |
 | 16 | :soon:            | 2021-12-19 17:25:00 | sunshine-coast |      6 |        2 | Sir Rocket       |   3.25 | pangea             |
-| 17 | :soon:            | 2021-12-19 17:17:00 | alice-springs  |      4 |        2 | Supreme Times    |   5    | pangea,blackshadow |
+| 17 | :2nd_place_medal: | 2021-12-19 17:17:00 | alice-springs  |      4 |        2 | Supreme Times    |   5    | pangea,blackshadow |
 | 18 | 6.0               | 2021-12-19 16:42:00 | alice-springs  |      3 |        3 | Extraction       |  10    | pangea,blackshadow |
 | 19 | :3rd_place_medal: | 2021-12-19 16:42:00 | alice-springs  |      3 |        4 | Like A Heartbeat |   3.4  | vulture            |
 | 20 | :2nd_place_medal: | 2021-12-19 16:05:00 | sunshine-coast |      4 |        8 | If You Can Dream |   3.2  | overthrow          |
