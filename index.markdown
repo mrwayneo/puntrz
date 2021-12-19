@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-19 19:54:44 +1000  
+date: 2021-12-19 20:00:57 +1000  
 ---   
 
 
@@ -86,7 +86,7 @@ date: 2021-12-19 19:54:44 +1000
 |  8 | :soon:            | 2021-12-19 23:25:00 | scottsville    |      4 |        6 | Airways Law      |   0    | vulture,milkman    |
 |  9 | :soon:            | 2021-12-19 23:25:00 | greyville      |      4 |        6 | Airways Law      |   0    | milkman            |
 | 10 | :soon:            | 2021-12-19 23:10:00 | thurles        |      1 |        9 | Stratum          |   1.6  | overthrow          |
-| 11 | --                | 2021-12-19 19:25:00 | geraldton      |      6 |        4 | Allageri         |   8    | pangea             |
+| 11 | 5.0               | 2021-12-19 19:25:00 | geraldton      |      6 |        4 | Allageri         |   8    | pangea             |
 | 12 | :2nd_place_medal: | 2021-12-19 18:25:00 | alice-springs  |      6 |        2 | Envy Me          |   3.45 | vulture            |
 | 13 | --                | 2021-12-19 18:25:00 | alice-springs  |      6 |        4 | Special Union    |   6.6  | looseknot          |
 | 14 | :2nd_place_medal: | 2021-12-19 17:55:00 | alice-springs  |      5 |        4 | Valiant Lad      |   3    | vulture            |
