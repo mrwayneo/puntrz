@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-20 15:49:52 +1000  
+date: 2021-12-20 16:31:31 +1000  
 ---   
 
 
@@ -85,6 +85,6 @@ date: 2021-12-20 15:49:52 +1000
 |  9 | :soon:            | 2021-12-20 23:15:00 | musselburgh   |      1 |        5 | River Walk        |   1.65 | vulture,milkman |
 | 10 | :soon:            | 2021-12-20 23:05:00 | turffontein   |      5 |        7 | Fantastical       |   0    | milkman         |
 | 11 | :soon:            | 2021-12-20 22:35:00 | turffontein   |      4 |        2 | Heavens Girl      |   0    | vulture         |
-| 12 | :soon:            | 2021-12-20 16:30:00 | terang        |      8 |        1 | Laughing Grizzley |   4.8  | pangea          |
+| 12 | --                | 2021-12-20 16:30:00 | terang        |      8 |        1 | Laughing Grizzley |   4.8  | pangea          |
 | 13 | :2nd_place_medal: | 2021-12-20 13:50:00 | bathurst      |      1 |       10 | Rosie Impact      |   7.5  | looseknot       |
 | 14 | 103.0             | 2021-12-20 10:13:00 | pukekohe-park |      2 |        8 | Pacific Dragon    |   1.01 | vulture         |
