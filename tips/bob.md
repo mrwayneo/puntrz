@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-20 08:09:25 +1000  
+date: 2021-12-20 13:18:25 +1000  
 categories: None 
 ---   
 
@@ -18,8 +18,8 @@ categories: None
 | 03:00             | 2021-12-21 | wolverhampton R1    | 6 Ruby Red Empress    |  11    |    -10   |
 | 0                 | 2021-12-17 | uttoxeter R3        | 6 Glebe Road          |   0    |    -10   |
 | 5                 | 2021-12-15 | sandown-hillside R4 | 2 Covert              |  12    |    -10   |
-| 99                | 2021-12-12 | fairyhouse R6       | 3 Bearwithmenow       |   0    |    -10   |
 | 99                | 2021-12-12 | fairyhouse R6       | 15 Merry Moves        |   0    |    -10   |
+| 99                | 2021-12-12 | fairyhouse R6       | 3 Bearwithmenow       |   0    |    -10   |
 | 99                | 2021-12-11 | cheltenham R4       | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5         | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6       | 8 Precious            |   0    |    -10   |
@@ -186,8 +186,8 @@ categories: None
 | 9                 | 2021-03-29 | grafton R2          | 7 Medusa's Fury       |   9.1  |    -10   |
 | 9                 | 2021-03-27 | morphettville R3    | 8 Oath Of Omerta      |  21    |    -10   |
 | 99                | 2021-03-27 | dundalk R5          | 2 Doolin Dancer       |  21    |    -10   |
-| 99                | 2021-03-26 | cork R7             | 14 Paper Lantern      | 101    |    -10   |
 | 99                | 2021-03-26 | cork R7             | 2 Optum               |  15    |    -10   |
+| 99                | 2021-03-26 | cork R7             | 14 Paper Lantern      | 101    |    -10   |
 | 99                | 2021-03-25 | hereford R6         | 7 Manor Park          |  34    |    -10   |
 | 99                | 2021-03-21 | thurles R3          | 9 Pateen              |  81    |    -10   |
 | 11                | 2021-03-20 | eagle-farm R9       | 14 Our Rebel          |  63    |    -10   |
@@ -234,7 +234,7 @@ categories: None
 | :boom:            | 2020-01-29 | down-royal R6       | 6 Jurby               |  16    |    150   |
 | 0                 | 2020-01-26 | singapore R9        | 7 Gold Strike         |  19    |    -10   |
 | 7                 | 2020-01-26 | geelong R8          | 1 Havadash            |  12    |    -10   |
-| 0                 | 2020-01-26 | singapore R3        | 12 Gold Company       |  10    |    -10   |
-| 0                 | 2020-01-25 | doncaster R7        | 4 Eclair On Line      |  10    |    -10   |
-| 0                 | 2020-01-15 | doncaster R6        | 1 All My Love         |  29    |    -10   |
+| 99                | 2020-01-26 | singapore R3        | 12 Gold Company       |  10    |    -10   |
+| 99                | 2020-01-25 | doncaster R7        | 4 Eclair On Line      |  10    |    -10   |
+| 99                | 2020-01-15 | doncaster R6        | 1 All My Love         |  29    |    -10   |
 | 11                | 2020-01-01 | pinjarra R2         | 1 Protected Action    |  17.2  |    -10   |

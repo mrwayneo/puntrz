@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2021-12-20 08:09:20 +1000  
+date: 2021-12-20 13:17:58 +1000  
 categories: None 
 ---   
 
@@ -11,7 +11,7 @@ categories: None
 | Last 7 Days    |      3 |      0 |      -30 | 0    | -1    |
 | Last 28 Days   |     10 |      3 |      -19 | 0.3  | -0.19 |
 | Last 6 Months  |     54 |      9 |     -238 | 0.17 | -0.44 |
-| Since Jan 2020 |     91 |     14 |      186 | 0.15 |  0.2  |
+| Since Jan 2020 |     95 |     14 |      146 | 0.15 |  0.15 |
 
 | finish            | date       | event             | runner             |   win |   return |
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
@@ -106,3 +106,43 @@ categories: None
 | 5                 | 2021-01-29 | canterbury R2     | 3 Kermajack        | 41    |      -10 |
 | 4                 | 2021-01-26 | warwick-farm R4   | 6 Yiyi             |  9.5  |      -10 |
 | 5                 | 2021-01-23 | randwick R10      | 3 Matowi           | 11    |      -10 |
+| 5                 | 2020-12-09 | warwick-farm R2   | 6 Beachhaven       |  6    |      -10 |
+| 7                 | 2020-12-05 | rosehill R6       | 5 Vegas Jewel      |  8.5  |      -10 |
+| 4                 | 2020-12-05 | rosehill R4       | 1 Prospectus       | 13    |      -10 |
+| :3rd_place_medal: | 2020-12-04 | kensington R3     | 6 Supreme Leader   |  3.3  |      -10 |
+| :2nd_place_medal: | 2020-11-07 | flemington R6     | 2 Nature Strip     |  4.6  |      -10 |
+| :3rd_place_medal: | 2020-11-03 | flemington R4     | 8 Yonkers          |  4    |      -10 |
+| :boom:            | 2020-10-31 | flemington R9     | 2 Fiesta           |  5    |       40 |
+| :3rd_place_medal: | 2020-10-31 | flemington R4     | 2 Brimham Rocks    |  9.5  |      -10 |
+| :boom:            | 2020-10-14 | caulfield R5      | 10 Yonkers         | 10.5  |       95 |
+| 7                 | 2020-10-10 | caulfield R7      | 1 Hungry Heart     |  3.4  |      -10 |
+| :boom:            | 2020-10-10 | caulfield R4      | 8 Fiesta           | 10.6  |       96 |
+| 4                 | 2020-10-03 | randwick R2       | 1 Authentic Jewel  | 18    |      -10 |
+| 7                 | 2020-05-30 | rosehill R4       | 6 Across Dubai     | 16    |      -10 |
+| 5                 | 2020-05-27 | canterbury R1     | 6 Zelify           |  3.2  |      -10 |
+| :2nd_place_medal: | 2020-05-23 | randwick R1       | 7 Overlord         |  2.3  |      -10 |
+| :boom:            | 2020-05-20 | kensington R2     | 6 Hulk             |  5    |       40 |
+| 6                 | 2020-05-20 | kensington R1     | 10 Yulong Code     | 12.2  |      -10 |
+| 4                 | 2020-05-13 | warwick-farm R4   | 2 Lady Cuvee       | 17    |      -10 |
+| 4                 | 2020-05-13 | warwick-farm R1   | 3 Achiever         |  7    |      -10 |
+| 6                 | 2020-05-09 | randwick R9       | 6 Masaff           | 16    |      -10 |
+| :2nd_place_medal: | 2020-05-09 | randwick R2       | 8 Overlord         |  7    |      -10 |
+| 5                 | 2020-05-06 | canterbury R4     | 6 Lucky Maryknoll  |  6    |      -10 |
+| :2nd_place_medal: | 2020-05-06 | canterbury R3     | 5 Irish Angel      |  4    |      -10 |
+| 8                 | 2020-05-06 | canterbury R2     | 11 Yulong Hero     |  5    |      -10 |
+| :boom:            | 2020-05-06 | canterbury R1     | 1 September Run    |  3    |       20 |
+| :boom:            | 2020-05-02 | kensington R2     | 2 Yonkers          |  3.9  |       29 |
+| 6                 | 2020-02-21 | canterbury R3     | 5 Hostage Of War   |  8.5  |      -10 |
+| :2nd_place_medal: | 2020-02-05 | kensington R7     | 6 The Man          |  3.6  |      -10 |
+| 5                 | 2020-02-05 | kensington R5     | 5 Brazilica        |  6    |      -10 |
+| :3rd_place_medal: | 2020-02-05 | kensington R4     | 3 Mountain Breath  |  9    |      -10 |
+| 8                 | 2020-02-05 | kensington R3     | 6 Dancing Gidget   |  4    |      -10 |
+| 5                 | 2020-02-05 | kensington R1     | 5 Volterra         |  4.2  |      -10 |
+| :boom:            | 2020-01-31 | canterbury R3     | 3 Hostage Of War   |  3.5  |       25 |
+| 4                 | 2020-01-22 | canterbury R5     | 6 Flying Pierro    |  6.5  |      -10 |
+| :2nd_place_medal: | 2020-01-22 | canterbury R1     | 5 Dancing Gidget   |  5.5  |      -10 |
+| 5                 | 2020-01-03 | canterbury R7     | 3 Stryke Rock      |  8.5  |      -10 |
+| :boom:            | 2020-01-03 | canterbury R2     | 1 The Man          | 10.4  |       94 |
+| 7                 | 2020-01-01 | kensington R8     | 7 Zouologist       |  6.5  |      -10 |
+| :2nd_place_medal: | 2020-01-01 | kensington R7     | 3 Voila            |  7    |      -10 |
+| :2nd_place_medal: | 2020-01-01 | kensington R2     | 6 Austria          |  5.5  |      -10 |

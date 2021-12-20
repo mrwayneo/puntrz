@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-20 08:09:25 +1000  
+date: 2021-12-20 13:18:25 +1000  
 categories: None 
 ---   
 
@@ -10,7 +10,7 @@ categories: None
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 28 Days   |     44 |     10 |     -128 | 0.23 | -0.29 |
 | Last 6 Months  |    492 |    133 |     -751 | 0.27 | -0.15 |
-| Since Jan 2020 |    768 |    197 |    -1221 | 0.26 | -0.16 |
+| Since Jan 2020 |    781 |    200 |    -1260 | 0.26 | -0.16 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
@@ -782,3 +782,165 @@ categories: None
 | :2nd_place_medal: | 2021-01-09 | ascot R3              | 6 Tambora             |   2.05 |    -10   |
 | 4                 | 2021-01-09 | ascot R2              | 1 Heavenly Waters     |   2.6  |    -10   |
 | 8                 | 2021-01-09 | ascot R1              | 5 I Hope You Dance    |   6.5  |    -10   |
+| 7                 | 2020-12-06 | pinjarra R6           | 4 Snippy Miss         |   3.85 |    -10   |
+| :boom:            | 2020-12-06 | pinjarra R5           | 3 Miss Ivy League     |   3.4  |     24   |
+| :3rd_place_medal: | 2020-12-06 | pinjarra R2           | 11 Shooting Shirocco  |   3.2  |    -10   |
+| 7                 | 2020-12-06 | pinjarra R1           | 10 Perfect Gem        |   4.8  |    -10   |
+| :2nd_place_medal: | 2020-12-05 | ascot R7              | 10 Celebrity Queen    |   2.05 |    -10   |
+| :3rd_place_medal: | 2020-12-05 | ascot R6              | 5 Western Empire      |   2.3  |    -10   |
+| :3rd_place_medal: | 2020-12-05 | ascot R5              | 1 Chantrea            |   4    |    -10   |
+| :2nd_place_medal: | 2020-12-05 | ascot R3              | 5 Long Beach          |   2.85 |    -10   |
+| :3rd_place_medal: | 2020-12-05 | ascot R1              | 5 Astrape             |   2.15 |    -10   |
+| :boom:            | 2020-12-02 | bunbury R6            | 2 Dew West            |   4.6  |     36   |
+| :3rd_place_medal: | 2020-12-02 | bunbury R3            | 4 Crescent City       |   3.6  |    -10   |
+| :boom:            | 2020-12-02 | bunbury R2            | 9 Testing Love        |   1.1  |      1   |
+| :3rd_place_medal: | 2020-12-02 | bunbury R1            | 5 Sentimental Hero    |   2.15 |    -10   |
+| :boom:            | 2020-11-05 | flemington R9         | 6 Written Beauty      |   1.8  |      8   |
+| 9                 | 2020-11-05 | flemington R8         | 10 Art Glass          | 126    |    -10   |
+| 6                 | 2020-11-05 | flemington R6         | 8 Collectable         |  61    |    -10   |
+| 7                 | 2020-11-03 | flemington R10        | 4 Intuition           |  35    |    -10   |
+| 14                | 2020-11-03 | flemington R9         | 5 Music Bay           |   9    |    -10   |
+| 8                 | 2020-11-03 | flemington R8         | 12 Galaxy Raider      |  15    |    -10   |
+| 16                | 2020-11-03 | flemington R7         | 16 Steel Prince       |  51    |    -10   |
+| 7                 | 2020-11-03 | flemington R5         | 7 Dubawi Prince       |  41    |    -10   |
+| :3rd_place_medal: | 2020-11-03 | flemington R3         | 2 Mr Moppett          |   6.6  |    -10   |
+| 4                 | 2020-10-31 | flemington R6         | 6 Doubtland           |  21    |    -10   |
+| 5                 | 2020-10-31 | flemington R4         | 8 Carif               |  21    |    -10   |
+| 11                | 2020-10-31 | flemington R2         | 7 Pensato             |  17    |    -10   |
+| :boom:            | 2020-10-28 | bendigo R4            | 2 Hi Stranger         |   6.8  |     58   |
+| 8                 | 2020-10-24 | moonee-valley R10     | 6 Melba Storm         |  16    |    -10   |
+| 8                 | 2020-10-24 | moonee-valley R8      | 10 Selino             |   9.5  |    -10   |
+| :3rd_place_medal: | 2020-10-24 | moonee-valley R4      | 3 Miss Inbetween      |  13    |    -10   |
+| :3rd_place_medal: | 2020-10-23 | moonee-valley R8      | 6 Dirty Work          |   6.5  |    -10   |
+| :boom:            | 2020-10-23 | moonee-valley R6      | 3 Written Beauty      |   1.7  |      7   |
+| :3rd_place_medal: | 2020-10-23 | moonee-valley R5      | 8 Human Nature        |   3    |    -10   |
+| :2nd_place_medal: | 2020-10-23 | moonee-valley R4      | 4 Galaxy Raider       |   6    |    -10   |
+| 5                 | 2020-10-21 | geelong R7            | 5 Skyward             |   4.6  |    -10   |
+| 10                | 2020-10-21 | geelong R6            | 7 Volatile Stock      |  41    |    -10   |
+| :3rd_place_medal: | 2020-10-21 | geelong R2            | 4 Tolemac             |  26    |    -10   |
+| :boom:            | 2020-10-18 | kilmore R6            | 4 Wise Hero           |  14.9  |    139   |
+| 7                 | 2020-10-18 | kilmore R5            | 6 Monetizing          |   3.1  |    -10   |
+| 6                 | 2020-10-17 | caulfield R10         | 3 Perfect Jewel       |   3.8  |    -10   |
+| 5                 | 2020-10-17 | caulfield R8          | 9 Windstorm           |   2.95 |    -10   |
+| 4                 | 2020-10-17 | caulfield R5          | 6 Pensato             |   8    |    -10   |
+| 8                 | 2020-10-17 | caulfield R3          | 8 Loca                |  21    |    -10   |
+| 7                 | 2020-10-17 | caulfield R2          | 3 Yosemite            |   6.5  |    -10   |
+| 8                 | 2020-10-14 | caulfield R2          | 2 Cape Of Good Hope   |  26.5  |    -10   |
+| :2nd_place_medal: | 2020-10-10 | caulfield R10         | 8 Zebrowski           |   9.5  |    -10   |
+| :3rd_place_medal: | 2020-10-10 | caulfield R9          | 5 Superstorm          |   9.5  |    -10   |
+| :boom:            | 2020-10-10 | caulfield R8          | 3 Ole Kirk            |   4.1  |     31   |
+| :boom:            | 2020-10-10 | caulfield R6          | 5 Arcadia Queen       |   5.2  |     42   |
+| :boom:            | 2020-10-10 | caulfield R5          | 8 Dirty Work          |   4.2  |     32   |
+| :boom:            | 2020-10-10 | caulfield R3          | 6 Windstorm           |   1.7  |      7   |
+| :3rd_place_medal: | 2020-10-08 | mornington R3         | 5 Gunmetal Girl       |   7    |    -10   |
+| 0                 | 2020-10-08 | mornington R2         | 1 Chilliwack          |   2.8  |    -10   |
+| :boom:            | 2020-10-07 | bendigo R4            | 10 Melba Storm        |   7.8  |     68   |
+| 7                 | 2020-10-03 | flemington R7         | 14 Superstorm         |   8.5  |    -10   |
+| 8                 | 2020-10-03 | flemington R5         | 3 Queen Of Rocks      |  14    |    -10   |
+| 4                 | 2020-10-03 | flemington R4         | 7 Kementari           |   9    |    -10   |
+| 7                 | 2020-10-03 | flemington R3         | 7 Galaxy Raider       |  12    |    -10   |
+| 4                 | 2020-10-01 | geelong R6            | 1 Magnolia Man        |   6    |    -10   |
+| :boom:            | 2020-10-01 | geelong R1            | 11 Art Glass          |   9.7  |     87   |
+| 4                 | 2020-06-01 | northam R6            | 11 Pastry             |   2.9  |    -10   |
+| :2nd_place_medal: | 2020-06-01 | northam R3            | 3 Joyrize             |   3.2  |    -10   |
+| 11                | 2020-05-31 | pinjarra R9           | 5 Pink And Purple     |   9.1  |    -10   |
+| 11                | 2020-05-31 | pinjarra R8           | 3 Beethoven           |   5    |    -10   |
+| :boom:            | 2020-05-30 | belmont R9            | 6 Picture Perfect     |   2.3  |     13   |
+| 7                 | 2020-05-30 | belmont R8            | 11 Mississippi Delta  |  10    |    -10   |
+| :2nd_place_medal: | 2020-05-30 | belmont R4            | 2 Windstorm           |   1.45 |    -10   |
+| :boom:            | 2020-05-30 | belmont R3            | 1 Dunbar              |   1.9  |      9   |
+| :boom:            | 2020-05-30 | belmont R1            | 4 Tajmali             |   5.5  |     45   |
+| 11                | 2020-05-28 | belmont R8            | 1 My Demi             |   7    |    -10   |
+| :3rd_place_medal: | 2020-05-28 | belmont R6            | 6 Jakestar            |   6    |    -10   |
+| :3rd_place_medal: | 2020-05-28 | belmont R5            | 9 Tap the Go Go       |  10    |    -10   |
+| :2nd_place_medal: | 2020-05-27 | belmont R4            | 2 Levitate            |   1.75 |    -10   |
+| :boom:            | 2020-05-27 | belmont R2            | 7 Bright Diamond      |   1.7  |      7   |
+| :boom:            | 2020-05-27 | belmont R1            | 10 Nuhad              |   3.7  |     27   |
+| 4                 | 2020-05-23 | belmont R9            | 10 Dawn Armada        |   8    |    -10   |
+| :2nd_place_medal: | 2020-05-23 | belmont R7            | 5 Massimo             |   3.8  |    -10   |
+| 8                 | 2020-05-23 | belmont R4            | 1 Red Army            |   3.5  |    -10   |
+| 4                 | 2020-05-23 | belmont R1            | 8 I Hope You Dance    |   3.55 |    -10   |
+| :boom:            | 2020-05-21 | belmont R7            | 7 Roman Flirt         |   2.3  |     13   |
+| :boom:            | 2020-05-20 | pinjarra R6           | 3 Firesale            |   3.6  |     26   |
+| 4                 | 2020-05-20 | pinjarra R5           | 6 Yeah Bravo          |   4.8  |    -10   |
+| :boom:            | 2020-05-20 | pinjarra R4           | 15 Swift Gondo        |   5.3  |     43   |
+| 12                | 2020-05-20 | pinjarra R3           | 4 Frequent Friar      |   4.4  |    -10   |
+| :boom:            | 2020-05-20 | pinjarra R2           | 6 Black Lightning     |   1.9  |      9   |
+| :boom:            | 2020-05-20 | pinjarra R1           | 3 Dunbar              |   1.4  |      4   |
+| :2nd_place_medal: | 2020-05-16 | ascot R9              | 14 Festival Miss      |   3.8  |    -10   |
+| 5                 | 2020-05-16 | ascot R8              | 10 Angelic Ruler      |   4    |    -10   |
+| :2nd_place_medal: | 2020-05-16 | ascot R5              | 6 Laufey              |   2.8  |    -10   |
+| :boom:            | 2020-05-16 | ascot R4              | 5 Miss Frost          |   2.3  |     13   |
+| :3rd_place_medal: | 2020-05-16 | ascot R2              | 1 Amelia's Contraire  |   1.85 |    -10   |
+| 6                 | 2020-05-16 | ascot R1              | 5 Redhead Ritchie     |  21.5  |    -10   |
+| :boom:            | 2020-05-14 | belmont R6            | 2 Levitate            |   1.5  |      5   |
+| 8                 | 2020-05-14 | belmont R3            | 14 Special Picture    |   7    |    -10   |
+| :boom:            | 2020-05-13 | ascot R2              | 4 Miss Conteki        |   2.4  |     14   |
+| 7                 | 2020-05-13 | ascot R1              | 1 Zangief             |   2.5  |    -10   |
+| 5                 | 2020-05-09 | ascot R8              | 5 Mystery Miss        |   4.45 |    -10   |
+| :2nd_place_medal: | 2020-05-09 | ascot R7              | 1 Massimo             |   2.5  |    -10   |
+| 4                 | 2020-05-09 | ascot R5              | 10 Firesale           |   3.2  |    -10   |
+| 6                 | 2020-05-09 | ascot R4              | 7 Blankenberge        |   4.85 |    -10   |
+| 5                 | 2020-05-09 | ascot R3              | 7 Dew West            |  31    |    -10   |
+| :3rd_place_medal: | 2020-05-09 | ascot R2              | 7 Ghobella            |  11    |    -10   |
+| :2nd_place_medal: | 2020-05-09 | ascot R1              | 9 I Hope You Dance    |   3.3  |    -10   |
+| 10                | 2020-05-07 | pinjarra R7           | 9 Lady Le Jean        |   7    |    -10   |
+| :3rd_place_medal: | 2020-05-07 | pinjarra R5           | 11 Flying Target      |  10    |    -10   |
+| :3rd_place_medal: | 2020-05-07 | pinjarra R4           | 10 Swift Gondo        |   4.8  |    -10   |
+| 4                 | 2020-05-07 | pinjarra R3           | 4 Frequent Friar      |   1.86 |    -10   |
+| 8                 | 2020-05-07 | pinjarra R2           | 5 Stuckinthemiddle    |   5    |    -10   |
+| 8                 | 2020-05-06 | ascot R7              | 12 High Tea           |   9.5  |    -10   |
+| :2nd_place_medal: | 2020-05-06 | ascot R6              | 3 Western King        |   3.3  |    -10   |
+| :3rd_place_medal: | 2020-05-06 | ascot R5              | 6 Golden Bonney       |   5.6  |    -10   |
+| :boom:            | 2020-05-06 | ascot R4              | 3 Stella Door         |   1.6  |      6   |
+| :2nd_place_medal: | 2020-05-06 | ascot R3              | 4 New Amsterdam       |   3.9  |    -10   |
+| :2nd_place_medal: | 2020-05-06 | ascot R1              | 3 Jakestar            |   4.8  |    -10   |
+| :2nd_place_medal: | 2020-05-03 | bunbury R4            | 11 Black Lightning    |   3.8  |    -10   |
+| :boom:            | 2020-05-03 | bunbury R2            | 5 Roman Flirt         |   1.7  |      7   |
+| :boom:            | 2020-05-02 | ascot R8              | 4 Moschard            |   5.6  |     46   |
+| :3rd_place_medal: | 2020-05-02 | ascot R7              | 2 Mankind             |   8    |    -10   |
+| :3rd_place_medal: | 2020-05-02 | ascot R6              | 5 Electric Light      |  17.2  |    -10   |
+| 4                 | 2020-05-02 | ascot R2              | 3 Miss Frost          |   1.45 |    -10   |
+| :boom:            | 2020-04-01 | ascot R7              | 5 Beret               |   1.5  |      5   |
+| :boom:            | 2020-04-01 | ascot R6              | 7 Karijini Aurora     |   1.9  |      9   |
+| :3rd_place_medal: | 2020-04-01 | ascot R3              | 3 Jakestar            |   6.1  |    -10   |
+| :2nd_place_medal: | 2020-04-01 | ascot R1              | 4 No Surrender        |   3.5  |    -10   |
+| :boom:            | 2020-02-09 | narrogin R7           | 5 Burning Pride       |   1.5  |      5   |
+| :2nd_place_medal: | 2020-02-08 | pinjarra R10          | 1 Sweet Dreamin'      |   2.5  |    -10   |
+| :boom:            | 2020-02-08 | pinjarra R8           | 3 Cryptic Wonder      |   2.6  |     16   |
+| 5                 | 2020-02-08 | pinjarra R6           | 3 Mr Genoa            |   3    |    -10   |
+| :3rd_place_medal: | 2020-02-08 | pinjarra R5           | 7 Serenity Bay        |   2.05 |    -10   |
+| :3rd_place_medal: | 2020-02-08 | pinjarra R4           | 3 I'm Pretty          |   9    |    -10   |
+| :boom:            | 2020-02-08 | pinjarra R3           | 6 Celebrity Queen     |   1.6  |      6   |
+| 7                 | 2020-01-29 | ascot R3              | 2 Eurotrip            |   4    |    -10   |
+| :3rd_place_medal: | 2020-01-29 | ascot R2              | 8 Trutiara            |   4.4  |    -10   |
+| :boom:            | 2020-01-27 | bunbury R8            | 2 Sweet Dreamin'      |   2.3  |     13   |
+| :2nd_place_medal: | 2020-01-27 | bunbury R7            | 5 Indigo Wild         |   6    |    -10   |
+| :boom:            | 2020-01-27 | bunbury R5            | 6 Chantrea            |   1.9  |      9   |
+| :2nd_place_medal: | 2020-01-25 | ascot R3              | 9 Flying Target       |  32    |    -10   |
+| 14                | 2020-01-25 | ascot R2              | 4 Eristic             |   6.5  |    -10   |
+| 8                 | 2020-01-18 | ascot R9              | 8 Imperial Venus      |   4.6  |    -10   |
+| 8                 | 2020-01-18 | ascot R8              | 8 Rebel Yell          |   6.5  |    -10   |
+| :boom:            | 2020-01-18 | ascot R7              | 3 Coming Around       |   1.9  |      9   |
+| 8                 | 2020-01-18 | ascot R6              | 3 Alimentaria         |   2.1  |    -10   |
+| :boom:            | 2020-01-18 | ascot R5              | 2 Valour Road         |   1.6  |      6   |
+| 6                 | 2020-01-18 | ascot R3              | 9 Madam Torio         |   3.1  |    -10   |
+| :boom:            | 2020-01-15 | bunbury R4            | 7 Dew West            |   5.2  |     42   |
+| 8                 | 2020-01-15 | bunbury R3            | 7 Dark City           |   7.1  |    -10   |
+| 12                | 2020-01-15 | bunbury R2            | 5 Paradise Road       |  19    |    -10   |
+| :2nd_place_medal: | 2020-01-15 | bunbury R1            | 3 Treasured Crown     |   4    |    -10   |
+| 4                 | 2020-01-11 | pinjarra R9           | 8 State Attorney      |   3.9  |    -10   |
+| 6                 | 2020-01-11 | pinjarra R8           | 11 Midnight Sky       |   6.5  |    -10   |
+| :boom:            | 2020-01-11 | pinjarra R7           | 10 Serenity Bay       |   3.6  |     26   |
+| :boom:            | 2020-01-11 | pinjarra R6           | 12 Put A Spell On You |   5    |     40   |
+| 4                 | 2020-01-11 | pinjarra R5           | 1 Not to Be Mist      |   2.6  |    -10   |
+| 4                 | 2020-01-11 | pinjarra R4           | 5 Snippy Miss         |   3.1  |    -10   |
+| :2nd_place_medal: | 2020-01-11 | pinjarra R3           | 2 Kelly's Gem         |   4    |    -10   |
+| 11                | 2020-01-04 | ascot R9              | 4 Festival Miss       |   4.05 |    -10   |
+| :boom:            | 2020-01-04 | ascot R8              | 7 Mississippi Delta   |   3.4  |     24   |
+| 10                | 2020-01-04 | ascot R7              | 2 Rebel King          |  18    |    -10   |
+| :boom:            | 2020-01-04 | ascot R6              | 1 Perfect Jewel       |   4    |     30   |
+| :2nd_place_medal: | 2020-01-04 | ascot R4              | 1 Sentimental Gift    |   2.2  |    -10   |
+| :2nd_place_medal: | 2020-01-04 | ascot R2              | 2 Jenja               |   5.5  |    -10   |
+| :boom:            | 2020-01-01 | pinjarra R6           | 2 Sweet Dreamin'      |   5.9  |     49   |
+| 7                 | 2020-01-01 | pinjarra R2           | 3 Return To Oz        |   3.15 |    -10   |

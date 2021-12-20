@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-20 08:09:25 +1000  
+date: 2021-12-20 13:18:25 +1000  
 categories: None 
 ---   
 
@@ -11,7 +11,7 @@ categories: None
 | Last 7 Days    |     12 |      4 |     -5   | 0.33 | -0.04 |
 | Last 28 Days   |     28 |     10 |     57   | 0.36 |  0.2  |
 | Last 6 Months  |    288 |     82 |    394.5 | 0.28 |  0.14 |
-| Since Jan 2020 |    487 |    131 |    141.5 | 0.27 |  0.03 |
+| Since Jan 2020 |    501 |    135 |    153.5 | 0.27 |  0.03 |
 
 | finish            | date       | event             | runner               |   win |   return |
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
@@ -502,3 +502,133 @@ categories: None
 | :3rd_place_medal: | 2021-01-14 | eagle-farm R8     | 7 Return With Honour |  1.8  |    -10   |
 | 4                 | 2021-01-14 | eagle-farm R4     | 1 Ruddock            |  1.9  |    -10   |
 | 4                 | 2021-01-14 | eagle-farm R2     | 4 Fairy Me Home      |  3.6  |    -10   |
+| :3rd_place_medal: | 2020-12-09 | warwick-farm R6   | 4 Zing               |  6.6  |    -10   |
+| :3rd_place_medal: | 2020-12-09 | warwick-farm R2   | 1 Jimmy's Dream      |  2.6  |    -10   |
+| :3rd_place_medal: | 2020-12-09 | warwick-farm R1   | 1 Coastwatch         |  7.1  |    -10   |
+| :boom:            | 2020-12-05 | rosehill R9       | 9 Surreal Step       |  6.3  |     53   |
+| :boom:            | 2020-12-05 | rosehill R7       | 8 Pandemic           |  3.9  |     29   |
+| :3rd_place_medal: | 2020-12-05 | rosehill R6       | 7 Accountability     |  3.05 |    -10   |
+| :boom:            | 2020-12-05 | rosehill R4       | 8 The Elanora        |  3.2  |     22   |
+| :2nd_place_medal: | 2020-12-05 | rosehill R2       | 6 Joliette           |  5.6  |    -10   |
+| :3rd_place_medal: | 2020-12-05 | rosehill R1       | 6 Kiku               |  2.8  |    -10   |
+| 4                 | 2020-12-04 | kensington R4     | 9 Front Money        |  3.3  |    -10   |
+| 4                 | 2020-12-04 | kensington R3     | 2 Apollate           |  6.5  |    -10   |
+| :2nd_place_medal: | 2020-12-04 | kensington R2     | 1 Brookspire         |  3    |    -10   |
+| :boom:            | 2020-12-02 | gosford R6        | 8 Knight             |  1.8  |      8   |
+| 4                 | 2020-12-02 | gosford R1        | 8 Screebe            |  3.4  |    -10   |
+| :2nd_place_medal: | 2020-11-03 | flemington R9     | 3 Lyre               |  4.4  |    -10   |
+| 12                | 2020-11-03 | flemington R8     | 7 Mr Satchmo         | 26.5  |    -10   |
+| 9                 | 2020-11-03 | flemington R7     | 11 Finche            | 20    |    -10   |
+| 5                 | 2020-11-03 | flemington R5     | 3 Acrophobic         |  6    |    -10   |
+| 10                | 2020-11-03 | flemington R2     | 2 Joviality          |  3.1  |    -10   |
+| :3rd_place_medal: | 2020-10-31 | flemington R9     | 14 Zaniah            | 21.5  |    -10   |
+| 10                | 2020-10-31 | flemington R7     | 10 Tour Of Duty      | 31    |    -10   |
+| :3rd_place_medal: | 2020-10-31 | flemington R6     | 2 Wild Ruler         |  6.5  |    -10   |
+| 6                 | 2020-10-31 | flemington R2     | 2 Starelle           |  9    |    -10   |
+| :3rd_place_medal: | 2020-10-31 | flemington R1     | 8 Horrifying         | 67    |    -10   |
+| :2nd_place_medal: | 2020-10-24 | moonee-valley R8  | 4 Shared Ambition    |  3.9  |    -10   |
+| 6                 | 2020-10-23 | moonee-valley R8  | 7 Lyre               | 10    |    -10   |
+| 5                 | 2020-10-17 | randwick R10      | 1 Dancing Gidget     |  6    |    -10   |
+| :2nd_place_medal: | 2020-10-17 | randwick R9       | 2 Brimham Rocks      |  4.4  |    -10   |
+| 9                 | 2020-10-17 | randwick R8       | 2 Star of the Seas   |  2.3  |    -10   |
+| 7                 | 2020-10-17 | randwick R6       | 11 Adelong           | 26    |    -10   |
+| :2nd_place_medal: | 2020-10-17 | randwick R4       | 2 Joviality          |  5    |    -10   |
+| 7                 | 2020-10-17 | randwick R1       | 6 Kalashnikov        |  4.45 |    -10   |
+| :3rd_place_medal: | 2020-10-14 | warwick-farm R7   | 2 Testifier          |  3.6  |    -10   |
+| 5                 | 2020-10-14 | warwick-farm R6   | 6 Military Academy   |  5.5  |    -10   |
+| :2nd_place_medal: | 2020-10-14 | warwick-farm R5   | 7 Special Snap       |  2.45 |    -10   |
+| :boom:            | 2020-10-14 | warwick-farm R4   | 6 Kirwan's Lane      |  2.9  |     19   |
+| 4                 | 2020-10-14 | warwick-farm R3   | 4 Deep Crystal       |  6.5  |    -10   |
+| :boom:            | 2020-10-14 | warwick-farm R2   | 4 Parry Sound        |  3.1  |     21   |
+| :3rd_place_medal: | 2020-10-14 | warwick-farm R1   | 6 Easifar            |  2.4  |    -10   |
+| 4                 | 2020-10-10 | randwick R5       | 6 Acrophobic         | 12    |    -10   |
+| :2nd_place_medal: | 2020-10-10 | randwick R4       | 13 Archanna          |  4.4  |    -10   |
+| 8                 | 2020-10-10 | randwick R3       | 5 Bebeautiful        | 19.2  |    -10   |
+| :boom:            | 2020-10-10 | randwick R2       | 1 Wild Ruler         |  1.6  |      6   |
+| :3rd_place_medal: | 2020-10-03 | randwick R9       | 4 Hilo               |  3.4  |    -10   |
+| 4                 | 2020-10-03 | randwick R6       | 1 Nature Strip       |  1.85 |    -10   |
+| :2nd_place_medal: | 2020-10-03 | randwick R5       | 2 Hungry Heart       |  2.3  |    -10   |
+| :boom:            | 2020-10-03 | randwick R4       | 2 Kolding            |  3.3  |     23   |
+| :boom:            | 2020-10-03 | randwick R2       | 4 Enthaar            |  1.5  |      5   |
+| :boom:            | 2020-10-03 | randwick R1       | 9 Laure Me In        |  8.4  |     74   |
+| 4                 | 2020-10-01 | wyong R8          | 5 Knight             |  4.45 |    -10   |
+| 6                 | 2020-10-01 | wyong R3          | 7 Loretta            | 14    |    -10   |
+| :boom:            | 2020-10-01 | wyong R2          | 3 Nyami              |  2    |     10   |
+| :3rd_place_medal: | 2020-10-01 | wyong R1          | 4 Oconee             |  3.3  |    -10   |
+| :2nd_place_medal: | 2020-05-30 | rosehill R4       | 2 Sure Knee          |  6.5  |    -10   |
+| :boom:            | 2020-05-30 | rosehill R3       | 2 Mo's Crown         |  4.7  |     37   |
+| :boom:            | 2020-05-30 | rosehill R1       | 1 Anders             |  2.7  |     17   |
+| :3rd_place_medal: | 2020-05-27 | canterbury R6     | 11 Vitesse           |  7.5  |    -10   |
+| 4                 | 2020-05-27 | canterbury R3     | 4 Papal Warrior      |  6    |    -10   |
+| 8                 | 2020-05-23 | randwick R8       | 1 Redouble           | 11    |    -10   |
+| :3rd_place_medal: | 2020-05-23 | randwick R7       | 11 Longbottom        |  5.5  |    -10   |
+| 4                 | 2020-05-23 | randwick R6       | 7 Word for Word      | 11    |    -10   |
+| :3rd_place_medal: | 2020-05-23 | randwick R5       | 5 Southern Lad       |  1.8  |    -10   |
+| 5                 | 2020-05-20 | kensington R3     | 3 Up Trumpz          |  4.8  |    -10   |
+| 6                 | 2020-05-20 | kensington R2     | 9 Invincible Diva    |  5.5  |    -10   |
+| 4                 | 2020-05-20 | kensington R1     | 4 Armatree           |  9    |    -10   |
+| 8                 | 2020-05-16 | rosehill R9       | 2 Soothing           | 14    |    -10   |
+| :2nd_place_medal: | 2020-05-16 | rosehill R6       | 2 Brave Song         | 11    |    -10   |
+| :boom:            | 2020-05-16 | rosehill R5       | 9 Adelong            |  2.4  |     14   |
+| 4                 | 2020-05-16 | rosehill R4       | 2 True Detective     |  8.5  |    -10   |
+| :boom:            | 2020-05-16 | rosehill R3       | 1 Macroura           |  3    |     20   |
+| 11                | 2020-05-16 | rosehill R1       | 6 Shamusu Sho        |  4.4  |    -10   |
+| :2nd_place_medal: | 2020-05-13 | warwick-farm R7   | 4 Feather            |  7    |    -10   |
+| 5                 | 2020-05-13 | warwick-farm R6   | 6 Jetski             |  4.4  |    -10   |
+| :boom:            | 2020-05-13 | warwick-farm R5   | 13 Starla            | 16.5  |    155   |
+| :3rd_place_medal: | 2020-05-13 | warwick-farm R4   | 9 Moon Panther       | 11    |    -10   |
+| :boom:            | 2020-05-13 | warwick-farm R2   | 8 Mubariz            |  5.4  |     44   |
+| :boom:            | 2020-05-13 | warwick-farm R1   | 4 Acrophobic         |  4    |     30   |
+| 5                 | 2020-05-09 | randwick R9       | 2 Articus            | 23.5  |    -10   |
+| 5                 | 2020-05-09 | randwick R8       | 2 Deprive            |  5.5  |    -10   |
+| 4                 | 2020-05-09 | randwick R2       | 7 Kukeracha          |  8    |    -10   |
+| 7                 | 2020-05-06 | canterbury R5     | 4 Reformist          |  5.5  |    -10   |
+| :boom:            | 2020-05-06 | canterbury R3     | 1 Papal Warrior      |  5    |     40   |
+| 5                 | 2020-05-06 | canterbury R2     | 1 Volterra           |  4.25 |    -10   |
+| :3rd_place_medal: | 2020-05-06 | canterbury R1     | 10 Willinga Panache  | 19    |    -10   |
+| :2nd_place_medal: | 2020-05-02 | kensington R7     | 5 Trumbull           |  7    |    -10   |
+| :2nd_place_medal: | 2020-05-02 | kensington R5     | 11 Up Trumpz         | 16    |    -10   |
+| :3rd_place_medal: | 2020-05-02 | kensington R4     | 1 Witherspoon        | 12.2  |    -10   |
+| 5                 | 2020-05-02 | kensington R1     | 5 El Buena           | 11.2  |    -10   |
+| 0                 | 2020-04-01 | rosehill R4       | 10 Seles             | 10    |    -10   |
+| 5                 | 2020-04-01 | rosehill R1       | 12 Selburose         |  6    |    -10   |
+| 4                 | 2020-02-21 | canterbury R3     | 3 Mountain Breath    |  4.6  |    -10   |
+| 6                 | 2020-02-21 | canterbury R2     | 2 Cathars            |  4    |    -10   |
+| :2nd_place_medal: | 2020-02-21 | canterbury R1     | 1 Blondeau           |  2.5  |    -10   |
+| 0                 | 2020-02-08 | warwick-farm R9   | 4 Coruscate          |  0    |    -10   |
+| 0                 | 2020-02-08 | warwick-farm R8   | 2 Eastender          |  0    |    -10   |
+| 11                | 2020-02-08 | caulfield R8      | 9 Night's Watch      | 34    |    -10   |
+| 0                 | 2020-02-08 | warwick-farm R7   | 4 Condo's Express    |  0    |    -10   |
+| 0                 | 2020-02-08 | warwick-farm R6   | 1 Knowitall Jack     |  0    |    -10   |
+| 0                 | 2020-02-08 | warwick-farm R4   | 1 Circuit Seven      |  0    |    -10   |
+| 0                 | 2020-02-08 | warwick-farm R3   | 5 Enrich Delight     |  0    |    -10   |
+| 10                | 2020-01-27 | warwick-farm R7   | 12 Anubis            |  8.5  |    -10   |
+| :boom:            | 2020-01-27 | warwick-farm R6   | 4 Positive Peace     |  3.7  |     27   |
+| :3rd_place_medal: | 2020-01-27 | warwick-farm R3   | 8 Sweeping Statement |  7    |    -10   |
+| :boom:            | 2020-01-27 | warwick-farm R1   | 9 Quiet Riot         |  2.1  |     11   |
+| :2nd_place_medal: | 2020-01-25 | ellerslie R6      | 2 Conqueror          |  5.6  |    -10   |
+| :3rd_place_medal: | 2020-01-25 | ellerslie R5      | 5 Rondinella         |  3.6  |    -10   |
+| :2nd_place_medal: | 2020-01-25 | ellerslie R4      | 6 Play That Song     |  1.5  |    -10   |
+| 99                | 2020-01-25 | ellerslie R1      | 1 Sentimental Miss   |  4.85 |    -10   |
+| :3rd_place_medal: | 2020-01-22 | canterbury R6     | 1 Accelerato         |  5    |    -10   |
+| :boom:            | 2020-01-22 | canterbury R5     | 2 Knowitall Jack     |  3.6  |     26   |
+| :boom:            | 2020-01-22 | canterbury R2     | 7 Rammstein          |  3.8  |     28   |
+| 6                 | 2020-01-18 | rosehill R7       | 2 Laburnum           |  5.5  |    -10   |
+| :3rd_place_medal: | 2020-01-18 | rosehill R4       | 6 Stella Sea Sun     |  3.2  |    -10   |
+| :3rd_place_medal: | 2020-01-18 | rosehill R1       | 2 Beyliks            |  4    |    -10   |
+| 4                 | 2020-01-17 | canterbury R1     | 8 Our Fraulein       |  1.9  |    -10   |
+| :3rd_place_medal: | 2020-01-15 | warwick-farm R5   | 8 Anubis             |  6.5  |    -10   |
+| :boom:            | 2020-01-15 | warwick-farm R2   | 4 Boomtown Rat       |  5.4  |     44   |
+| :2nd_place_medal: | 2020-01-15 | warwick-farm R1   | 1 California August  |  3.2  |    -10   |
+| :3rd_place_medal: | 2020-01-04 | kensington R9     | 4 Clear the Beach    |  7.5  |    -10   |
+| 7                 | 2020-01-04 | kensington R7     | 1 Admire Robson      | 17    |    -10   |
+| 8                 | 2020-01-04 | kensington R6     | 3 Think Free         |  5.5  |    -10   |
+| 5                 | 2020-01-04 | kensington R5     | 3 Master Shuhood     |  7.5  |    -10   |
+| :boom:            | 2020-01-04 | kensington R3     | 1 Discharged         |  3.3  |     23   |
+| :2nd_place_medal: | 2020-01-04 | kensington R1     | 4 Osamu              |  4.8  |    -10   |
+| 4                 | 2020-01-03 | canterbury R6     | 7 Elleofadeel        |  4    |    -10   |
+| :boom:            | 2020-01-03 | canterbury R5     | 1 Echo Jet           |  2.9  |     19   |
+| 7                 | 2020-01-03 | canterbury R2     | 6 Zing               |  4    |    -10   |
+| :boom:            | 2020-01-01 | ellerslie R10     | 16 Vichy             |  4.2  |     32   |
+| :boom:            | 2020-01-01 | ellerslie R6      | 3 Dragon Leap        |  2.8  |     18   |
+| :boom:            | 2020-01-01 | ellerslie R3      | 5 Play That Song     |  4    |     30   |

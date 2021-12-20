@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2021-12-20 08:09:25 +1000  
+date: 2021-12-20 13:18:25 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 0                 | 2021-12-18 | haydock R1             | 9 Bari Breeze         |   0   |      -10 |
+| 99                | 2021-12-18 | haydock R1             | 9 Bari Breeze         |   0   |      -10 |
 | 8                 | 2021-12-18 | mackay R5              | 9 Our Ariana          |  34   |      -10 |
 | 5                 | 2021-12-18 | randwick R4            | 3 Americana Magic     |  31   |      -10 |
 | 4                 | 2021-12-15 | sandown-hillside R6    | 6 Grand Pope          |   8.5 |      -10 |
@@ -215,7 +215,7 @@ categories: None
 | 6                 | 2021-01-09 | flemington R6          | 9 Mushaireb           |  18   |      -10 |
 | :3rd_place_medal: | 2021-01-09 | randwick R3            | 7 Macleay             |  10   |      -10 |
 | :2nd_place_medal: | 2021-01-06 | devonport-synthetic R1 | 4 Merciabelle         |  14   |      -10 |
-| 0                 | 2020-10-06 | pontefract R5          | 7 Kind Review         |  13   |      -10 |
+| 99                | 2020-10-06 | pontefract R5          | 7 Kind Review         |  13   |      -10 |
 | 4                 | 2020-05-22 | cranbourne R5          | 2 Beerz With Clint    |  18.2 |      -10 |
 | 8                 | 2020-05-22 | geraldton R4           | 10 Sweet Talkin'      |  17.2 |      -10 |
 | :3rd_place_medal: | 2020-05-19 | bundaberg R2           | 2 Al's Briefs         |  12   |      -10 |
@@ -225,14 +225,14 @@ categories: None
 | :3rd_place_medal: | 2020-05-02 | doomben R8             | 2 Beat the Beast      |  17.2 |      -10 |
 | :3rd_place_medal: | 2020-02-01 | chepstow R2            | 2 Shantou Vow         |  14   |      -10 |
 | :2nd_place_medal: | 2020-01-31 | ffos-las R4            | 8 Robin Of Sherwood   |  16   |      -10 |
-| 0                 | 2020-01-31 | vaal R7                | 5 Seventh Of June     |  19   |      -10 |
+| 99                | 2020-01-31 | vaal R7                | 5 Seventh Of June     |  19   |      -10 |
 | :boom:            | 2020-01-26 | cheltenham R3          | 1 Cepage              |  10   |       90 |
 | :2nd_place_medal: | 2020-01-25 | cheltenham R1          | 6 Night Edition       |  23   |      -10 |
-| 0                 | 2020-01-25 | turffontein R3         | 1 Pretty Ballerina    |  14   |      -10 |
+| 99                | 2020-01-25 | turffontein R3         | 1 Pretty Ballerina    |  14   |      -10 |
 | :2nd_place_medal: | 2020-01-25 | caulfield R9           | 4 Home By Midnight    | 111   |      -10 |
 | :3rd_place_medal: | 2020-01-22 | ascot R7               | 5 Northern River      |  13.2 |      -10 |
 | 6                 | 2020-01-18 | launceston R7          | 1 The Chairman        |  16.8 |      -10 |
 | 8                 | 2020-01-13 | taree R2               | 5 Line Up Girls       |  16.2 |      -10 |
-| 0                 | 2020-01-01 | ellerslie R10          | 12 Aileen Grace       |  15   |      -10 |
+| 99                | 2020-01-01 | ellerslie R10          | 12 Aileen Grace       |  15   |      -10 |
 | 7                 | 2020-01-01 | flemington R5          | 5 Ignored             |  53   |      -10 |
 | 8                 | 2020-01-01 | flemington R3          | 1 Home By Midnight    | 301   |      -10 |
