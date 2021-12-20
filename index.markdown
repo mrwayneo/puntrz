@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-20 13:45:53 +1000  
+date: 2021-12-20 14:14:18 +1000  
 ---   
 
 
@@ -9,15 +9,15 @@ date: 2021-12-20 13:45:53 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      0 |      -20 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      4 |      0 |      -40 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      4 |      0 |      -40 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     20 |      0 |     -200 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     29 |      0 |     -290 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      4 |      0 |      -40 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      4 |      0 |      -40 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     20 |      0 |     -200 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     29 |      1 |     -256 | 0.03 | -0.88 |
 
 ##### Form Last 20 tips   
 
@@ -71,20 +71,20 @@ date: 2021-12-20 13:45:53 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6027 |    896 |  -8153.7 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7640 |    412 | -15006   | 0.05 | -0.2  |
 
-|    | finish   | time                | track         |   race |   number | name              |   odds | tipster         |
-|---:|:---------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:----------------|
-|  0 | :soon:   | 2021-12-21 03:30:00 | wolverhampton |      2 |        8 | Arab Cinder       |   5    | looseknot       |
-|  1 | :soon:   | 2021-12-21 03:00:00 | wolverhampton |      1 |        6 | Ruby Red Empress  |  11    | cosmo,bob       |
-|  2 | :soon:   | 2021-12-21 02:30:00 | lingfield     |      7 |        4 | Little Light      |   5.5  | vulture,pangea  |
-|  3 | :soon:   | 2021-12-21 02:30:00 | lingfield     |      7 |        2 | War Call          |   4.2  | overthrow       |
-|  4 | :soon:   | 2021-12-21 02:00:00 | lingfield     |      6 |        7 | Pilot Show        |   8.5  | milkman         |
-|  5 | :soon:   | 2021-12-21 01:30:00 | lingfield     |      5 |        1 | Golden Boy Grey   |   4.8  | milkman         |
-|  6 | :soon:   | 2021-12-21 01:30:00 | lingfield     |      5 |        3 | Fearless          |   2.5  | vulture         |
-|  7 | :soon:   | 2021-12-21 01:00:00 | lingfield     |      4 |        3 | Monsieur Lecoq    |   5.5  | overthrow       |
-|  8 | :soon:   | 2021-12-20 23:30:00 | lingfield     |      1 |        2 | Ellofagetaway     |   5.5  | looseknot       |
-|  9 | :soon:   | 2021-12-20 23:15:00 | musselburgh   |      1 |        5 | River Walk        |   1.65 | vulture,milkman |
-| 10 | :soon:   | 2021-12-20 23:05:00 | turffontein   |      5 |        7 | Fantastical       |   0    | milkman         |
-| 11 | :soon:   | 2021-12-20 22:35:00 | turffontein   |      4 |        2 | Heavens Girl      |   0    | vulture         |
-| 12 | :soon:   | 2021-12-20 16:30:00 | terang        |      8 |        1 | Laughing Grizzley |   4.8  | pangea          |
-| 13 | :soon:   | 2021-12-20 13:50:00 | bathurst      |      1 |       10 | Rosie Impact      |   7.5  | looseknot       |
-| 14 | 103.0    | 2021-12-20 10:13:00 | pukekohe-park |      2 |        8 | Pacific Dragon    |   1.01 | vulture         |
+|    | finish            | time                | track         |   race |   number | name              |   odds | tipster         |
+|---:|:------------------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:----------------|
+|  0 | :soon:            | 2021-12-21 03:30:00 | wolverhampton |      2 |        8 | Arab Cinder       |   5    | looseknot       |
+|  1 | :soon:            | 2021-12-21 03:00:00 | wolverhampton |      1 |        6 | Ruby Red Empress  |  11    | cosmo,bob       |
+|  2 | :soon:            | 2021-12-21 02:30:00 | lingfield     |      7 |        4 | Little Light      |   5.5  | vulture,pangea  |
+|  3 | :soon:            | 2021-12-21 02:30:00 | lingfield     |      7 |        2 | War Call          |   4.2  | overthrow       |
+|  4 | :soon:            | 2021-12-21 02:00:00 | lingfield     |      6 |        7 | Pilot Show        |   8.5  | milkman         |
+|  5 | :soon:            | 2021-12-21 01:30:00 | lingfield     |      5 |        1 | Golden Boy Grey   |   4.8  | milkman         |
+|  6 | :soon:            | 2021-12-21 01:30:00 | lingfield     |      5 |        3 | Fearless          |   2.5  | vulture         |
+|  7 | :soon:            | 2021-12-21 01:00:00 | lingfield     |      4 |        3 | Monsieur Lecoq    |   5.5  | overthrow       |
+|  8 | :soon:            | 2021-12-20 23:30:00 | lingfield     |      1 |        2 | Ellofagetaway     |   5.5  | looseknot       |
+|  9 | :soon:            | 2021-12-20 23:15:00 | musselburgh   |      1 |        5 | River Walk        |   1.65 | vulture,milkman |
+| 10 | :soon:            | 2021-12-20 23:05:00 | turffontein   |      5 |        7 | Fantastical       |   0    | milkman         |
+| 11 | :soon:            | 2021-12-20 22:35:00 | turffontein   |      4 |        2 | Heavens Girl      |   0    | vulture         |
+| 12 | :soon:            | 2021-12-20 16:30:00 | terang        |      8 |        1 | Laughing Grizzley |   4.8  | pangea          |
+| 13 | :2nd_place_medal: | 2021-12-20 13:50:00 | bathurst      |      1 |       10 | Rosie Impact      |   7.5  | looseknot       |
+| 14 | 103.0             | 2021-12-20 10:13:00 | pukekohe-park |      2 |        8 | Pacific Dragon    |   1.01 | vulture         |
