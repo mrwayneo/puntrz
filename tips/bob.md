@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-20 22:26:59 +1000  
+date: 2021-12-21 21:54:44 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     20 |      0 |   -200   | 0    | -1    |
-| Last 6 Months  |    130 |     26 |   2653.5 | 0.2  |  2.04 |
-| Since Jan 2020 |    207 |     35 |   3156.5 | 0.17 |  1.52 |
+| Last 28 Days   |     21 |      0 |   -210   | 0    | -1    |
+| Last 6 Months  |    131 |     26 |   2643.5 | 0.2  |  2.02 |
+| Since Jan 2020 |    208 |     35 |   3146.5 | 0.17 |  1.51 |
 
 | finish            | date       | event               | runner                |    win |   return |
 |:------------------|:-----------|:--------------------|:----------------------|-------:|---------:|
-| 03:00             | 2021-12-21 | wolverhampton R1    | 6 Ruby Red Empress    |  11    |    -10   |
+| 0                 | 2021-12-21 | wolverhampton R1    | 6 Ruby Red Empress    |   0    |    -10   |
 | 0                 | 2021-12-17 | uttoxeter R3        | 6 Glebe Road          |   0    |    -10   |
 | 5                 | 2021-12-15 | sandown-hillside R4 | 2 Covert              |  12    |    -10   |
 | 99                | 2021-12-12 | fairyhouse R6       | 15 Merry Moves        |   0    |    -10   |

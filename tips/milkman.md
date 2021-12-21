@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2021-12-20 22:26:54 +1000  
+date: 2021-12-21 21:54:39 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     55 |      9 |   -289   | 0.16 | -0.53 |
-| Last 28 Days   |    183 |     40 |   -562.3 | 0.22 | -0.31 |
-| Last 6 Months  |   1221 |    291 |  -2255.2 | 0.24 | -0.18 |
-| Since Jan 2020 |   2087 |    531 |  -3015   | 0.25 | -0.14 |
+| Last 7 Days    |     48 |      5 |   -316.5 | 0.1  | -0.66 |
+| Last 28 Days   |    185 |     39 |   -594.3 | 0.21 | -0.32 |
+| Last 6 Months  |   1225 |    291 |  -2295.2 | 0.24 | -0.19 |
+| Since Jan 2020 |   2091 |    531 |  -3055   | 0.25 | -0.15 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 02:00             | 2021-12-21 | lingfield R6                 | 7 Pilot Show          |   8.5  |    -10   |
-| 01:30             | 2021-12-21 | lingfield R5                 | 1 Golden Boy Grey     |   4.8  |    -10   |
-| 23:15             | 2021-12-20 | musselburgh R1               | 5 River Walk          |   1.65 |    -10   |
-| 23:05             | 2021-12-20 | turffontein R5               | 7 Fantastical         |   0    |    -10   |
+| 0                 | 2021-12-21 | lingfield R6                 | 7 Pilot Show          |   0    |    -10   |
+| 0                 | 2021-12-21 | lingfield R5                 | 1 Golden Boy Grey     |   0    |    -10   |
+| 0                 | 2021-12-20 | musselburgh R1               | 5 River Walk          |   0    |    -10   |
+| 0                 | 2021-12-20 | turffontein R5               | 7 Fantastical         |   0    |    -10   |
 | 0                 | 2021-12-20 | scottsville R7               | 2 Mvulazana           |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-20 | greyville R7                 | 2 Mvulazana           |   0    |    -10   |
 | 4                 | 2021-12-20 | thurles R4                   | 3 Braganza            |   2.35 |    -10   |
