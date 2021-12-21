@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-21 21:57:36 +1000  
+date: 2021-12-21 22:12:34 +1000  
 ---   
 
 
@@ -13,7 +13,7 @@ date: 2021-12-21 21:57:36 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      7 |      2 |     75   | 0.29 |  1.07 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      5 |      1 |     47   | 0.2  |  0.94 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      1 |      1   | 0.33 |  0.03 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      8 |      3 |     -5.5 | 0.38 | -0.07 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      8 |      3 |     -2.5 | 0.38 | -0.03 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |    -20   | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |    -20   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |    -20   | 0    | -1    |
@@ -36,13 +36,13 @@ date: 2021-12-21 21:57:36 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -69.1 | 0.2  | -0.35 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      5 |    -80.5 | 0.25 | -0.4  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |    -92   | 0.05 | -0.46 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      2 |    -98   | 0.1  | -0.49 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      4 |   -102.5 | 0.2  | -0.51 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      4 |   -106.5 | 0.2  | -0.53 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |   -119   | 0.15 | -0.6  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      2 |   -166   | 0.1  | -0.83 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      1 |   -183   | 0.05 | -0.92 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      0 |   -200   | 0    | -1    |
 
