@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-22 07:18:35 +1000  
+date: 2021-12-22 07:19:13 +1000  
 ---   
 
 
@@ -13,10 +13,14 @@ date: 2021-12-22 07:18:35 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 |    0 |    -1 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 |    0 |    -1 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 |    0 |    -1 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      5 |      0 |      -50 |    0 |    -1 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      9 |      0 |      -90 |    0 |    -1 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     14 |      0 |     -140 |    0 |    -1 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     24 |      0 |     -240 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     30 |      0 |     -300 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     51 |      0 |     -510 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
