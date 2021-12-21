@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-21 22:57:38 +1000  
+date: 2021-12-22 06:13:56 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     21 |      0 |   -210   | 0    | -1    |
+| Last 28 Days   |     20 |      0 |   -200   | 0    | -1    |
 | Last 6 Months  |    131 |     26 |   2643.5 | 0.2  |  2.02 |
 | Since Jan 2020 |    208 |     35 |   3146.5 | 0.17 |  1.51 |
 

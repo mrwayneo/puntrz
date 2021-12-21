@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2021-12-21 22:57:34 +1000  
+date: 2021-12-22 06:13:52 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |     10 |      1 |    -72   | 0.1  | -0.72 |
+| Last 28 Days   |      9 |      1 |    -62   | 0.11 | -0.69 |
 | Last 6 Months  |     45 |     10 |    121.5 | 0.22 |  0.27 |
 | Since Jan 2020 |     95 |     28 |    741.9 | 0.29 |  0.78 |
 
