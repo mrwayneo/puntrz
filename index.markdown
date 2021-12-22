@@ -1,11 +1,22 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-23 07:37:37 +1000  
+date: 2021-12-23 07:49:08 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      1 |      0 |      -10 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      3 |      0 |      -30 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      0 |      -60 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      6 |      0 |      -60 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |      9 |      0 |      -90 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     30 |      0 |     -300 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -22,10 +33,10 @@ date: 2021-12-23 07:37:37 +1000
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |     -8   | 0.25 | -0.04 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -79   | 0.15 | -0.39 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      4 |   -105.5 | 0.2  | -0.53 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      3 |   -117.5 | 0.15 | -0.59 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |   -119   | 0.15 | -0.6  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |   -128   | 0.15 | -0.64 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      3 |   -136.5 | 0.15 | -0.68 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      2 |   -156   | 0.1  | -0.78 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      2 |   -166   | 0.1  | -0.83 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
@@ -62,10 +73,10 @@ date: 2021-12-23 07:37:37 +1000
 |    | finish            | time                | track               |   race |   number | name               |   odds | tipster              |
 |---:|:------------------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:---------------------|
 |  0 | :boom:            | 2021-12-23 04:30:00 | southwell           |      4 |       10 | Lucayan            |   5.5  | vulture              |
-|  1 | --                | 2021-12-23 02:15:00 | ludlow              |      7 |        1 | Blue Suede Shoes   |  15    | overthrow            |
+|  1 | --                | 2021-12-23 02:15:00 | ludlow              |      7 |        6 | Hana Collonges     |   5    | overthrow            |
 |  2 | --                | 2021-12-23 02:15:00 | ludlow              |      7 |        2 | Call Blue          |   5    | looseknot            |
 |  3 | :2nd_place_medal: | 2021-12-23 02:15:00 | ludlow              |      7 |       10 | Pass The Love On   |   9    | looseknot            |
-|  4 | --                | 2021-12-23 02:15:00 | ludlow              |      7 |        6 | Hana Collonges     |   5    | overthrow            |
+|  4 | --                | 2021-12-23 02:15:00 | ludlow              |      7 |        1 | Blue Suede Shoes   |  15    | overthrow            |
 |  5 | --                | 2021-12-23 02:00:00 | wolverhampton       |      6 |        7 | Stay Smart         |   6.5  | vulture              |
 |  6 | 4.0               | 2021-12-23 01:45:00 | ludlow              |      6 |        7 | Hard Frost         |   9    | overthrow            |
 |  7 | :boom:            | 2021-12-23 01:45:00 | ludlow              |      6 |        1 | Balco Coastal      |   1.4  | overthrow            |
