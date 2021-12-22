@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-22 08:18:46 +1000  
+date: 2021-12-22 15:58:59 +1000  
 categories: None 
 ---   
 
@@ -18,8 +18,8 @@ categories: None
 | 17:15             | 2021-12-22 | warwick-farm R6   | 9 Quatenus           |  3.1  |    -10   |
 | 16:40             | 2021-12-22 | warwick-farm R5   | 2 Miss Einstein      |  3    |    -10   |
 | 16:05             | 2021-12-22 | warwick-farm R4   | 6 Damaged            |  9.5  |    -10   |
-| 15:30             | 2021-12-22 | warwick-farm R3   | 4 Black Queen        |  3.8  |    -10   |
-| 14:20             | 2021-12-22 | warwick-farm R1   | 7 Northumbria        |  6.5  |    -10   |
+| :2nd_place_medal: | 2021-12-22 | warwick-farm R3   | 4 Black Queen        |  3.8  |    -10   |
+| 7                 | 2021-12-22 | warwick-farm R1   | 7 Northumbria        |  6.5  |    -10   |
 | :boom:            | 2021-12-18 | randwick R9       | 8 Tycoonist          |  3.1  |     21   |
 | 6                 | 2021-12-18 | randwick R8       | 9 Bigboyroy          |  3.25 |    -10   |
 | :boom:            | 2021-12-18 | randwick R7       | 8 Francesco Guardi   |  2.3  |     13   |
