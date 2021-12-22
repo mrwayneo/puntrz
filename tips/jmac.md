@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-22 16:26:54 +1000  
+date: 2021-12-22 19:15:33 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event             | runner               |   win |   return |
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
-| 17:15             | 2021-12-22 | warwick-farm R6   | 9 Quatenus           |  3.1  |    -10   |
-| 16:40             | 2021-12-22 | warwick-farm R5   | 2 Miss Einstein      |  3    |    -10   |
+| :2nd_place_medal: | 2021-12-22 | warwick-farm R6   | 9 Quatenus           |  3.1  |    -10   |
+| 9                 | 2021-12-22 | warwick-farm R5   | 2 Miss Einstein      |  3    |    -10   |
 | :2nd_place_medal: | 2021-12-22 | warwick-farm R4   | 6 Damaged            |  9.5  |    -10   |
 | :2nd_place_medal: | 2021-12-22 | warwick-farm R3   | 4 Black Queen        |  3.8  |    -10   |
 | 7                 | 2021-12-22 | warwick-farm R1   | 7 Northumbria        |  6.5  |    -10   |
