@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-22 15:59:00 +1000  
+date: 2021-12-22 16:26:55 +1000  
 ---   
 
 
@@ -19,7 +19,7 @@ date: 2021-12-22 15:59:00 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     14 |      0 |     -140 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     24 |      0 |     -240 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     30 |      1 |     -280 | 0.03 | -0.93 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     30 |      2 |     -266 | 0.07 | -0.89 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     51 |      0 |     -510 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -107,9 +107,9 @@ date: 2021-12-22 15:59:00 +1000
 | 28 | :soon:            | 2021-12-22 16:44:00 | devonport-synthetic |      5 |        1 | Michbar            |   1.83 | evenodds,overthrow   |
 | 29 | :soon:            | 2021-12-22 16:44:00 | devonport-synthetic |      5 |        7 | Reward Achiever    |   6    | pangea               |
 | 30 | :soon:            | 2021-12-22 16:40:00 | warwick-farm        |      5 |        2 | Miss Einstein      |   3    | pangea,jmac          |
-| 31 | :soon:            | 2021-12-22 16:23:00 | sunshine-coast      |      4 |        6 | Island Magic       |   2.7  | evenodds,overthrow   |
-| 32 | :soon:            | 2021-12-22 16:15:00 | sandown-hillside    |      2 |       10 | Newley Wed         |   3.5  | looseknot            |
-| 33 | :soon:            | 2021-12-22 16:05:00 | warwick-farm        |      4 |        6 | Damaged            |   9.5  | jmac                 |
+| 31 | --                | 2021-12-22 16:23:00 | sunshine-coast      |      4 |        6 | Island Magic       |   2.7  | evenodds,overthrow   |
+| 32 | :2nd_place_medal: | 2021-12-22 16:15:00 | sandown-hillside    |      2 |       10 | Newley Wed         |   3.5  | looseknot            |
+| 33 | :2nd_place_medal: | 2021-12-22 16:05:00 | warwick-farm        |      4 |        6 | Damaged            |   9.5  | jmac                 |
 | 34 | :2nd_place_medal: | 2021-12-22 15:30:00 | warwick-farm        |      3 |        4 | Black Queen        |   3.8  | benny,jmac           |
 | 35 | :2nd_place_medal: | 2021-12-22 15:13:00 | sunshine-coast      |      2 |        4 | All Stashed Up     |   8    | looseknot            |
 | 36 | :boom:            | 2021-12-22 15:13:00 | sunshine-coast      |      2 |        7 | Hakkai Maru        |   3.3  | milkman              |
