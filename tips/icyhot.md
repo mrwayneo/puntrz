@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-12-24 07:03:32 +1000  
+date: 2021-12-24 07:14:08 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
+| 14:45             | 2021-12-24 | wagga R4                | 3 Propose To Me       |  2.8  |    -10   |
 | :3rd_place_medal: | 2021-12-23 | toowoomba R5            | 1 Wham                |  3.2  |    -10   |
 | 5                 | 2021-12-21 | townsville R6           | 1 Only Wanna Sing     |  4.2  |    -10   |
 | :3rd_place_medal: | 2021-12-21 | scone R6                | 9 The Snooperstar     |  6    |    -10   |
@@ -109,8 +110,8 @@ categories: None
 | :boom:            | 2021-10-17 | alice-springs R2        | 4 Dakota Lee          |  1.95 |      9.5 |
 | 7                 | 2021-10-16 | caulfield R10           | 6 He's A Balter       |  8    |    -10   |
 | :boom:            | 2021-10-15 | murray-bdge R9          | 12 Valuable Witness   |  3.3  |     23   |
-| :boom:            | 2021-10-15 | ipswich R3              | 8 Sir Rocket          |  1.75 |      7.5 |
 | :2nd_place_medal: | 2021-10-15 | ipswich R3              | 10 Lyrical Girl       |  2.15 |    -10   |
+| :boom:            | 2021-10-15 | ipswich R3              | 8 Sir Rocket          |  1.75 |      7.5 |
 | :2nd_place_medal: | 2021-10-09 | ascot R8                | 2 Miss Conteki        |  3.2  |    -10   |
 | :boom:            | 2021-10-09 | randwick R10            | 10 Leo                |  5.8  |     48   |
 | :3rd_place_medal: | 2021-10-09 | ascot R5                | 4 Kaptain Kaos        |  2.6  |    -10   |
