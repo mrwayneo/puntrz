@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-23 07:52:34 +1000  
+date: 2021-12-23 12:57:26 +1000  
 categories: None 
 ---   
 
@@ -839,7 +839,6 @@ categories: None
 | :boom:            | 2020-10-10 | caulfield R5          | 8 Dirty Work          |   4.2  |     32   |
 | :boom:            | 2020-10-10 | caulfield R3          | 6 Windstorm           |   1.7  |      7   |
 | :3rd_place_medal: | 2020-10-08 | mornington R3         | 5 Gunmetal Girl       |   7    |    -10   |
-| 0                 | 2020-10-08 | mornington R2         | 1 Chilliwack          |   2.8  |    -10   |
 | :boom:            | 2020-10-07 | bendigo R4            | 10 Melba Storm        |   7.8  |     68   |
 | 7                 | 2020-10-03 | flemington R7         | 14 Superstorm         |   8.5  |    -10   |
 | 8                 | 2020-10-03 | flemington R5         | 3 Queen Of Rocks      |  14    |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-23 07:52:34 +1000  
+date: 2021-12-23 12:57:26 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event             | runner               |   win |   return |
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
-| :2nd_place_medal: | 2021-12-22 | warwick-farm R6   | 9 Quatenus           |  3.1  |    -10   |
+| 0                 | 2021-12-22 | warwick-farm R6   | 9 Quatenus           |  3.1  |    -10   |
 | 9                 | 2021-12-22 | warwick-farm R5   | 2 Miss Einstein      |  3    |    -10   |
 | :2nd_place_medal: | 2021-12-22 | warwick-farm R4   | 6 Damaged            |  9.5  |    -10   |
 | :2nd_place_medal: | 2021-12-22 | warwick-farm R3   | 4 Black Queen        |  3.8  |    -10   |
@@ -595,7 +595,6 @@ categories: None
 | :2nd_place_medal: | 2020-05-02 | kensington R5     | 11 Up Trumpz         | 16    |    -10   |
 | :3rd_place_medal: | 2020-05-02 | kensington R4     | 1 Witherspoon        | 12.2  |    -10   |
 | 5                 | 2020-05-02 | kensington R1     | 5 El Buena           | 11.2  |    -10   |
-| 0                 | 2020-04-01 | rosehill R4       | 10 Seles             | 10    |    -10   |
 | 5                 | 2020-04-01 | rosehill R1       | 12 Selburose         |  6    |    -10   |
 | 4                 | 2020-02-21 | canterbury R3     | 3 Mountain Breath    |  4.6  |    -10   |
 | 6                 | 2020-02-21 | canterbury R2     | 2 Cathars            |  4    |    -10   |

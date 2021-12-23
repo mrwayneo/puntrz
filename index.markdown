@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-23 07:52:35 +1000  
+date: 2021-12-23 12:57:28 +1000  
 ---   
 
 
@@ -26,8 +26,8 @@ date: 2021-12-23 07:52:35 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     89.5 | 0.2  |  0.45 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      9 |     67.5 | 0.45 |  0.34 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     13 |     50.5 | 0.65 |  0.25 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      7 |     47.6 | 0.35 |  0.24 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     41   | 0.1  |  0.2  |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      6 |     28.5 | 0.3  |  0.14 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |     23   | 0.1  |  0.12 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |      9   | 0.4  |  0.04 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |     -8   | 0.25 | -0.04 |
@@ -37,7 +37,7 @@ date: 2021-12-23 07:52:35 +1000
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |   -119   | 0.15 | -0.6  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |   -128   | 0.15 | -0.64 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      3 |   -136.5 | 0.15 | -0.68 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      2 |   -156   | 0.1  | -0.78 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      3 |   -136.9 | 0.15 | -0.68 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      2 |   -166   | 0.1  | -0.83 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
@@ -62,51 +62,25 @@ date: 2021-12-23 07:52:35 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    639 |    102 |   -453.3 | 0.16 | -0.07 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    345 |     68 |   -787.5 | 0.2  | -0.23 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    582 |    170 |   -815.2 | 0.29 | -0.14 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2003 |    513 |   -945   | 0.26 | -0.05 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1077 |    265 |  -1728.9 | 0.25 | -0.16 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2003 |    512 |  -1135   | 0.26 | -0.06 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1077 |    266 |  -1709.8 | 0.25 | -0.16 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1765 |    381 |  -1739.4 | 0.22 | -0.1  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2503 |    134 |  -2726   | 0.05 | -0.11 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2817 |    700 |  -3080.4 | 0.25 | -0.11 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6019 |    892 |  -8608.2 | 0.15 | -0.14 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2817 |    700 |  -3078.8 | 0.25 | -0.11 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6019 |    888 |  -8919.2 | 0.15 | -0.15 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7651 |    413 | -14611   | 0.05 | -0.19 |
 
-|    | finish            | time                | track               |   race |   number | name               |   odds | tipster              |
-|---:|:------------------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|  0 | :boom:            | 2021-12-23 04:30:00 | southwell           |      4 |       10 | Lucayan            |   5.5  | vulture              |
-|  1 | --                | 2021-12-23 02:15:00 | ludlow              |      7 |        1 | Blue Suede Shoes   |  15    | overthrow            |
-|  2 | --                | 2021-12-23 02:15:00 | ludlow              |      7 |        2 | Call Blue          |   5    | looseknot            |
-|  3 | :2nd_place_medal: | 2021-12-23 02:15:00 | ludlow              |      7 |       10 | Pass The Love On   |   9    | looseknot            |
-|  4 | --                | 2021-12-23 02:15:00 | ludlow              |      7 |        6 | Hana Collonges     |   5    | overthrow            |
-|  5 | --                | 2021-12-23 02:00:00 | wolverhampton       |      6 |        7 | Stay Smart         |   6.5  | vulture              |
-|  6 | 4.0               | 2021-12-23 01:45:00 | ludlow              |      6 |        7 | Hard Frost         |   9    | overthrow            |
-|  7 | :boom:            | 2021-12-23 01:45:00 | ludlow              |      6 |        1 | Balco Coastal      |   1.4  | overthrow            |
-|  8 | :2nd_place_medal: | 2021-12-23 01:45:00 | ludlow              |      6 |        6 | Frere D'armes      |   9    | overthrow            |
-|  9 | :3rd_place_medal: | 2021-12-23 01:00:00 | wolverhampton       |      4 |        1 | Darwell Lion       |   1.5  | milkman              |
-| 10 | --                | 2021-12-23 00:45:00 | ludlow              |      4 |        4 | Rockstar Ronnie    |   5    | overthrow,milkman    |
-| 11 | 4.0               | 2021-12-23 00:45:00 | ludlow              |      4 |        1 | Fidelio Vallis     |   3.8  | overthrow            |
-| 12 | --                | 2021-12-23 00:15:00 | ludlow              |      3 |       13 | Runwiththetide     |  13    | overthrow            |
-| 13 | --                | 2021-12-23 00:15:00 | ludlow              |      3 |       10 | Kimmins            |   8    | overthrow            |
-| 14 | :2nd_place_medal: | 2021-12-22 23:45:00 | ludlow              |      2 |        1 | Minella Trump      |   1.8  | vulture              |
-| 15 | 4.0               | 2021-12-22 20:35:00 | ascot               |      8 |       11 | Savanik            |   4.75 | pangea,overthrow     |
-| 16 | :2nd_place_medal: | 2021-12-22 19:55:00 | ascot               |      7 |        7 | Pure Devotion      |   2.6  | benny,blackshadow    |
-| 17 | :boom:            | 2021-12-22 19:55:00 | ascot               |      7 |        8 | Stafford's Lad     |   6    | pangea               |
-| 18 | 8.0               | 2021-12-22 18:30:00 | sandown-hillside    |      6 |       10 | Wheal Rose         |  16    | vulture              |
-| 19 | :3rd_place_medal: | 2021-12-22 18:05:00 | sunshine-coast      |      7 |        2 | Daltoro            |   9.5  | pangea               |
-| 20 | 5.0               | 2021-12-22 18:05:00 | sunshine-coast      |      7 |        4 | Big Jake           |   2.9  | evenodds,blackshadow |
-| 21 | :boom:            | 2021-12-22 18:05:00 | sunshine-coast      |      7 |        3 | Global Citizen     |   2.88 | vulture              |
-| 22 | 10.0              | 2021-12-22 17:54:00 | devonport-synthetic |      7 |       11 | Rising Light       |   7.5  | pangea,overthrow     |
-| 23 | :3rd_place_medal: | 2021-12-22 17:54:00 | devonport-synthetic |      7 |        3 | Sh'bourne Renegade |   6.5  | pangea,blackshadow   |
-| 24 | 5.0               | 2021-12-22 17:33:00 | sunshine-coast      |      6 |        1 | Octavian           |   7.5  | pangea               |
-| 25 | 6.0               | 2021-12-22 17:25:00 | sandown-hillside    |      4 |        4 | Rising             |   2.9  | vulture,milkman      |
-| 26 | :2nd_place_medal: | 2021-12-22 17:15:00 | warwick-farm        |      6 |        9 | Quatenus           |   3.1  | jmac                 |
-| 27 | :2nd_place_medal: | 2021-12-22 16:50:00 | sandown-hillside    |      3 |        6 | Seonee             |   2.7  | vulture              |
-| 28 | :boom:            | 2021-12-22 16:44:00 | devonport-synthetic |      5 |        1 | Michbar            |   1.83 | evenodds,overthrow   |
-| 29 | :3rd_place_medal: | 2021-12-22 16:44:00 | devonport-synthetic |      5 |        7 | Reward Achiever    |   6    | pangea               |
-| 30 | 9.0               | 2021-12-22 16:40:00 | warwick-farm        |      5 |        2 | Miss Einstein      |   3    | pangea,jmac          |
-| 31 | :2nd_place_medal: | 2021-12-22 16:23:00 | sunshine-coast      |      4 |        6 | Island Magic       |   2.7  | evenodds,overthrow   |
-| 32 | :2nd_place_medal: | 2021-12-22 16:15:00 | sandown-hillside    |      2 |       10 | Newley Wed         |   3.5  | looseknot            |
-| 33 | :2nd_place_medal: | 2021-12-22 16:05:00 | warwick-farm        |      4 |        6 | Damaged            |   9.5  | jmac                 |
-| 34 | :2nd_place_medal: | 2021-12-22 15:30:00 | warwick-farm        |      3 |        4 | Black Queen        |   3.8  | benny,jmac           |
-| 35 | :2nd_place_medal: | 2021-12-22 15:13:00 | sunshine-coast      |      2 |        4 | All Stashed Up     |   8    | looseknot            |
-| 36 | :boom:            | 2021-12-22 15:13:00 | sunshine-coast      |      2 |        7 | Hakkai Maru        |   3.3  | milkman              |
-| 37 | 7.0               | 2021-12-22 14:20:00 | warwick-farm        |      1 |        7 | Northumbria        |   6.5  | jmac                 |
+|    | finish   | time                | track     |   race |   number | name               |   odds | tipster        |
+|---:|:---------|:--------------------|:----------|-------:|---------:|:-------------------|-------:|:---------------|
+|  0 | :soon:   | 2021-12-24 00:15:00 | vaal      |      7 |        3 | Right Choice       |   0    | vulture        |
+|  1 | :soon:   | 2021-12-23 23:40:00 | vaal      |      6 |        6 | Freed From Desire  |   0    | vulture        |
+|  2 | :soon:   | 2021-12-23 20:45:00 | pinjarra  |      8 |        7 | Prized Miss        |   6    | vulture,pikey  |
+|  3 | :soon:   | 2021-12-23 20:45:00 | pinjarra  |      8 |        5 | She's A Sweet Deel |   3.6  | vulture        |
+|  4 | :soon:   | 2021-12-23 19:45:00 | pinjarra  |      6 |        4 | Soviet Spy         |   3.6  | pikey          |
+|  5 | :soon:   | 2021-12-23 18:40:00 | pinjarra  |      4 |        1 | Noble Scot         |   3.2  | pikey          |
+|  6 | :soon:   | 2021-12-23 18:10:00 | pinjarra  |      3 |        9 | Fine Romance       |   1.65 | pikey          |
+|  7 | :soon:   | 2021-12-23 17:48:00 | toowoomba |      5 |        1 | Wham               |   3.2  | pangea,icyhot  |
+|  8 | :soon:   | 2021-12-23 17:37:00 | pinjarra  |      2 |        9 | Reliable Choice    |   1.67 | vulture,pikey  |
+|  9 | :soon:   | 2021-12-23 16:57:00 | pinjarra  |      1 |        1 | Mojo Rhythm        |   1.85 | pikey          |
+| 10 | :soon:   | 2021-12-23 16:50:00 | gosford   |      7 |       11 | Miss Twenty Twenty |  11    | vulture,pangea |
+| 11 | :soon:   | 2021-12-23 13:50:00 | gosford   |      2 |        2 | Tick Tock Boom     |   6    | pangea         |

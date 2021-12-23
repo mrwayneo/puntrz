@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-23 07:52:34 +1000  
+date: 2021-12-23 12:57:27 +1000  
 categories: None 
 ---   
 
@@ -135,8 +135,8 @@ categories: None
 | :boom:            | 2021-06-23 | pukekohe-park R5    | 3 Hit The Switch      |   5    |     40   |
 | 9                 | 2021-06-20 | kilcoy R7           | 7 Snipfit             |  51    |    -10   |
 | 7                 | 2021-06-19 | darwin R2           | 5 Skellig Island      |  26    |    -10   |
-| 99                | 2021-06-19 | royal-ascot R2      | 1 Gear Up             |  10    |    -10   |
 | 99                | 2021-06-19 | royal-ascot R2      | 3 Belloccio           |   6    |    -10   |
+| 99                | 2021-06-19 | royal-ascot R2      | 1 Gear Up             |  10    |    -10   |
 | 99                | 2021-06-18 | down-royal R2       | 15 Glory For Molly    |  26    |    -10   |
 | 99                | 2021-06-17 | wexford R7          | 7 Ballybrowney Jack   |  32    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R2      | 8 Law Of The Sea      |  17    |    -10   |
@@ -232,7 +232,7 @@ categories: None
 | 7                 | 2020-05-03 | bunbury R1          | 7 Miami Moon          |   8.1  |    -10   |
 | :2nd_place_medal: | 2020-01-29 | down-royal R7       | 3 On Eagles Wings     |  13    |    -10   |
 | :boom:            | 2020-01-29 | down-royal R6       | 6 Jurby               |  16    |    150   |
-| 0                 | 2020-01-26 | singapore R9        | 7 Gold Strike         |  19    |    -10   |
+| 99                | 2020-01-26 | singapore R9        | 7 Gold Strike         |  19    |    -10   |
 | 7                 | 2020-01-26 | geelong R8          | 1 Havadash            |  12    |    -10   |
 | 99                | 2020-01-26 | singapore R3        | 12 Gold Company       |  10    |    -10   |
 | 99                | 2020-01-25 | doncaster R7        | 4 Eclair On Line      |  10    |    -10   |
