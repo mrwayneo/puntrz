@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-23 14:12:26 +1000  
+date: 2021-12-23 19:15:14 +1000  
 categories: None 
 ---   
 
@@ -16,10 +16,10 @@ categories: None
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 20:45             | 2021-12-23 | pinjarra R8           | 7 Prized Miss         |   6    |    -10   |
 | 19:45             | 2021-12-23 | pinjarra R6           | 4 Soviet Spy          |   3.6  |    -10   |
-| 18:40             | 2021-12-23 | pinjarra R4           | 1 Noble Scot          |   3.2  |    -10   |
-| 18:10             | 2021-12-23 | pinjarra R3           | 9 Fine Romance        |   1.65 |    -10   |
-| 17:37             | 2021-12-23 | pinjarra R2           | 9 Reliable Choice     |   1.67 |    -10   |
-| 16:57             | 2021-12-23 | pinjarra R1           | 1 Mojo Rhythm         |   1.85 |    -10   |
+| :boom:            | 2021-12-23 | pinjarra R4           | 1 Noble Scot          |   5.1  |     41   |
+| :2nd_place_medal: | 2021-12-23 | pinjarra R3           | 9 Fine Romance        |   1.65 |    -10   |
+| :boom:            | 2021-12-23 | pinjarra R2           | 9 Reliable Choice     |   1.4  |      4   |
+| 0                 | 2021-12-23 | pinjarra R1           | 1 Mojo Rhythm         |   0    |    -10   |
 | :boom:            | 2021-12-05 | pinjarra R9           | 12 Bandalera Miss     |   5.9  |     49   |
 | :2nd_place_medal: | 2021-12-05 | pinjarra R8           | 7 Fashion Queen       |   2.8  |    -10   |
 | 4                 | 2021-12-05 | pinjarra R6           | 4 Airlie Queen        |   4.5  |    -10   |
