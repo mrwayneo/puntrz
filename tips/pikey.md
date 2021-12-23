@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-23 21:14:21 +1000  
+date: 2021-12-23 21:23:57 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2021-12-23 | pinjarra R8           | 7 Prized Miss         |   0    |    -10   |
+| 5                 | 2021-12-23 | pinjarra R8           | 7 Prized Miss         |   6    |    -10   |
 | :2nd_place_medal: | 2021-12-23 | pinjarra R6           | 4 Soviet Spy          |   3.6  |    -10   |
 | :boom:            | 2021-12-23 | pinjarra R4           | 1 Noble Scot          |   5.1  |     41   |
 | :2nd_place_medal: | 2021-12-23 | pinjarra R3           | 9 Fine Romance        |   1.65 |    -10   |
