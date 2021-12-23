@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-23 19:34:29 +1000  
+date: 2021-12-23 19:49:14 +1000  
 ---   
 
 
@@ -33,10 +33,10 @@ date: 2021-12-23 19:34:29 +1000
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |     -8   | 0.25 | -0.04 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      3 |    -70   | 0.15 | -0.35 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -79   | 0.15 | -0.39 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      4 |   -105.5 | 0.2  | -0.53 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      3 |   -117.5 | 0.15 | -0.59 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |   -119   | 0.15 | -0.6  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |   -128   | 0.15 | -0.64 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      3 |   -136.5 | 0.15 | -0.68 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      3 |   -136.9 | 0.15 | -0.68 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      2 |   -166   | 0.1  | -0.83 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
@@ -76,7 +76,7 @@ date: 2021-12-23 19:34:29 +1000
 |  1 | :soon:            | 2021-12-23 23:40:00 | vaal      |      6 |        6 | Freed From Desire  |   0    | vulture        |
 |  2 | :soon:            | 2021-12-23 20:45:00 | pinjarra  |      8 |        7 | Prized Miss        |   6    | vulture,pikey  |
 |  3 | :soon:            | 2021-12-23 20:45:00 | pinjarra  |      8 |        5 | She's A Sweet Deel |   3.6  | vulture        |
-|  4 | :soon:            | 2021-12-23 19:45:00 | pinjarra  |      6 |        4 | Soviet Spy         |   3.6  | pikey          |
+|  4 | --                | 2021-12-23 19:45:00 | pinjarra  |      6 |        4 | Soviet Spy         |   3.6  | pikey          |
 |  5 | :boom:            | 2021-12-23 18:40:00 | pinjarra  |      4 |        1 | Noble Scot         |   3.2  | pikey          |
 |  6 | :2nd_place_medal: | 2021-12-23 18:10:00 | pinjarra  |      3 |        9 | Fine Romance       |   1.65 | pikey          |
 |  7 | :3rd_place_medal: | 2021-12-23 17:48:00 | toowoomba |      5 |        1 | Wham               |   3.2  | pangea,icyhot  |
