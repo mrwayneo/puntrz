@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-24 07:37:29 +1000  
+date: 2021-12-24 13:31:35 +1000  
 ---   
 
 
@@ -70,17 +70,10 @@ date: 2021-12-24 07:37:29 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6024 |    883 |  -9136.2 | 0.15 | -0.15 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7625 |    412 | -14401   | 0.05 | -0.19 |
 
-|    | finish            | time                | track     |   race |   number | name               |   odds | tipster        |
-|---:|:------------------|:--------------------|:----------|-------:|---------:|:-------------------|-------:|:---------------|
-|  0 | :boom:            | 2021-12-24 00:15:00 | vaal      |      7 |        3 | Right Choice       |   0    | vulture        |
-|  1 | :boom:            | 2021-12-23 23:40:00 | vaal      |      6 |        6 | Freed From Desire  |   0    | vulture        |
-|  2 | 5.0               | 2021-12-23 20:45:00 | pinjarra  |      8 |        7 | Prized Miss        |   6    | vulture,pikey  |
-|  3 | 4.0               | 2021-12-23 20:45:00 | pinjarra  |      8 |        5 | She's A Sweet Deel |   3.6  | vulture        |
-|  4 | :2nd_place_medal: | 2021-12-23 19:45:00 | pinjarra  |      6 |        4 | Soviet Spy         |   3.6  | pikey          |
-|  5 | :boom:            | 2021-12-23 18:40:00 | pinjarra  |      4 |        1 | Noble Scot         |   3.2  | pikey          |
-|  6 | :2nd_place_medal: | 2021-12-23 18:10:00 | pinjarra  |      3 |        9 | Fine Romance       |   1.65 | pikey          |
-|  7 | :3rd_place_medal: | 2021-12-23 17:48:00 | toowoomba |      5 |        1 | Wham               |   3.2  | pangea,icyhot  |
-|  8 | :boom:            | 2021-12-23 17:37:00 | pinjarra  |      2 |        9 | Reliable Choice    |   1.67 | vulture,pikey  |
-|  9 | --                | 2021-12-23 16:57:00 | pinjarra  |      1 |        1 | Mojo Rhythm        |   1.85 | pikey          |
-| 10 | 7.0               | 2021-12-23 16:50:00 | gosford   |      7 |       11 | Miss Twenty Twenty |  11    | vulture,pangea |
-| 11 | :2nd_place_medal: | 2021-12-23 13:50:00 | gosford   |      2 |        2 | Tick Tock Boom     |   6    | pangea         |
+|    | finish   | time                | track    |   race |   number | name           |   odds | tipster          |
+|---:|:---------|:--------------------|:---------|-------:|---------:|:---------------|-------:|:-----------------|
+|  0 | :soon:   | 2021-12-25 01:00:00 | fairview |      7 |        9 | Whatever Next  |   0    | milkman          |
+|  1 | :soon:   | 2021-12-24 15:38:00 | ipswich  |      5 |        6 | Grand Shanghai |   7    | looseknot        |
+|  2 | :soon:   | 2021-12-24 15:20:00 | wagga    |      5 |        3 | London Gal     |   1.75 | pangea           |
+|  3 | :soon:   | 2021-12-24 14:45:00 | wagga    |      4 |        3 | Propose To Me  |   2.8  | icyhot           |
+|  4 | :soon:   | 2021-12-24 14:25:00 | ipswich  |      3 |        1 | Auron          |   2.6  | pangea,overthrow |
