@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-12-24 22:45:38 +1000  
+date: 2021-12-25 06:03:27 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
-| Last 28 Days   |     47 |     10 |   -161   | 0.21 | -0.34 |
+| Last 28 Days   |     43 |      8 |   -208   | 0.19 | -0.48 |
 | Last 6 Months  |    379 |     79 |   -376.5 | 0.21 | -0.1  |
 | Since Jan 2020 |    634 |    139 |   -526.5 | 0.22 | -0.08 |
 
