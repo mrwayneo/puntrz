@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-24 14:41:51 +1000  
+date: 2021-12-24 16:54:05 +1000  
 ---   
 
 
@@ -9,14 +9,14 @@ date: 2021-12-24 14:41:51 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      1 |      1 |       19 |  1   |  1.9  |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      1 |        9 |  0.5 |  0.45 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 |  0   | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 |  0   | -1    |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 |  0   | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      2 |      0 |      -20 |  0   | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |      7 |      0 |      -70 |  0   | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     29 |      0 |     -290 |  0   | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      2 |      1 |      297 | 0.5  | 14.85 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |      7 |      1 |      247 | 0.14 |  3.53 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      1 |      1 |       19 | 1    |  1.9  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      1 |        9 | 0.5  |  0.45 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     29 |      0 |     -290 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -70,10 +70,10 @@ date: 2021-12-24 14:41:51 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6024 |    883 |  -9136.2 | 0.15 | -0.15 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7625 |    412 | -14401   | 0.05 | -0.19 |
 
-|    | finish   | time                | track    |   race |   number | name           |   odds | tipster          |
-|---:|:---------|:--------------------|:---------|-------:|---------:|:---------------|-------:|:-----------------|
-|  0 | :soon:   | 2021-12-25 01:00:00 | fairview |      7 |        9 | Whatever Next  |   0    | milkman          |
-|  1 | :soon:   | 2021-12-24 15:38:00 | ipswich  |      5 |        6 | Grand Shanghai |   7    | looseknot        |
-|  2 | :soon:   | 2021-12-24 15:20:00 | wagga    |      5 |        3 | London Gal     |   1.75 | pangea           |
-|  3 | :soon:   | 2021-12-24 14:45:00 | wagga    |      4 |        3 | Propose To Me  |   2.8  | icyhot           |
-|  4 | :boom:   | 2021-12-24 14:25:00 | ipswich  |      3 |        1 | Auron          |   2.6  | pangea,overthrow |
+|    | finish            | time                | track    |   race |   number | name           |   odds | tipster          |
+|---:|:------------------|:--------------------|:---------|-------:|---------:|:---------------|-------:|:-----------------|
+|  0 | :soon:            | 2021-12-25 01:00:00 | fairview |      7 |        9 | Whatever Next  |   0    | milkman          |
+|  1 | 6.0               | 2021-12-24 15:38:00 | ipswich  |      5 |        6 | Grand Shanghai |   7    | looseknot        |
+|  2 | :3rd_place_medal: | 2021-12-24 15:20:00 | wagga    |      5 |        3 | London Gal     |   1.75 | pangea           |
+|  3 | 5.0               | 2021-12-24 14:45:00 | wagga    |      4 |        3 | Propose To Me  |   2.8  | icyhot           |
+|  4 | :boom:            | 2021-12-24 14:25:00 | ipswich  |      3 |        1 | Auron          |   2.6  | pangea,overthrow |
