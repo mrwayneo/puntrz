@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-27 07:32:17 +1000  
+date: 2021-12-27 07:50:12 +1000  
 ---   
 
 
@@ -99,8 +99,8 @@ date: 2021-12-27 07:32:17 +1000
 | 20 | --                | 2021-12-27 00:45:00 | leopardstown  |      4 |        2 | Hamundarson        |  10    | vulture              |
 | 21 | --                | 2021-12-27 00:35:00 | wetherby      |      4 |        9 | Jersey             |   5.5  | overthrow            |
 | 22 | --                | 2021-12-27 00:25:00 | sedgefield    |      4 |        2 | Barnabas Collins   |   2.1  | vulture,milkman      |
-| 23 | --                | 2021-12-27 00:20:00 | kempton       |      2 |        3 | Bothwell Bridge    |   3.9  | overthrow            |
-| 24 | 4.0               | 2021-12-27 00:20:00 | kempton       |      2 |        4 | Danny Kirwan       |   3.9  | overthrow            |
+| 23 | 4.0               | 2021-12-27 00:20:00 | kempton       |      2 |        4 | Danny Kirwan       |   3.9  | overthrow            |
+| 24 | --                | 2021-12-27 00:20:00 | kempton       |      2 |        3 | Bothwell Bridge    |   3.9  | overthrow            |
 | 25 | --                | 2021-12-27 00:05:00 | market-rasen  |      3 |        2 | Fabrique En France |   3.6  | vulture              |
 | 26 | :boom:            | 2021-12-26 23:45:00 | kempton       |      1 |        2 | Broomfield Burg    |   1.6  | evenodds,overthrow   |
 | 27 | --                | 2021-12-26 23:45:00 | kempton       |      1 |        1 | Paso Doble         |   4    | evenodds,overthrow   |
@@ -115,9 +115,9 @@ date: 2021-12-27 07:32:17 +1000
 | 36 | :3rd_place_medal: | 2021-12-26 17:50:00 | caulfield     |      9 |        2 | Sig Positano       |   7.5  | pangea               |
 | 37 | 7.0               | 2021-12-26 17:50:00 | caulfield     |      9 |        5 | Zoltan             |   7.5  | pangea               |
 | 38 | 4.0               | 2021-12-26 17:42:00 | doomben       |      8 |        1 | Beau Rossa         |   7    | pangea               |
-| 39 | 9.0               | 2021-12-26 17:42:00 | doomben       |      8 |        6 | Southern Lad       |  34    | pangea               |
-| 40 | 5.0               | 2021-12-26 17:42:00 | doomben       |      8 |        2 | Zoustyle           |   2.15 | pangea,overthrow     |
-| 41 | :boom:            | 2021-12-26 17:42:00 | doomben       |      8 |        5 | Roheryn            |  11    | cosmo,jmac           |
+| 39 | :boom:            | 2021-12-26 17:42:00 | doomben       |      8 |        5 | Roheryn            |  11    | cosmo,jmac           |
+| 40 | 9.0               | 2021-12-26 17:42:00 | doomben       |      8 |        6 | Southern Lad       |  34    | pangea               |
+| 41 | 5.0               | 2021-12-26 17:42:00 | doomben       |      8 |        2 | Zoustyle           |   2.15 | pangea,overthrow     |
 | 42 | 103.0             | 2021-12-26 17:34:00 | warwick       |      6 |        9 | Uralba             |   6.5  | vulture              |
 | 43 | :3rd_place_medal: | 2021-12-26 17:30:00 | randwick      |      9 |        6 | Blesk              |   5    | vulture              |
 | 44 | :2nd_place_medal: | 2021-12-26 17:15:00 | beaumont      |      6 |        3 | Tycoon Hallie      |   3.4  | pangea               |
