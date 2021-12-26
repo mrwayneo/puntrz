@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-26 19:45:40 +1000  
+date: 2021-12-26 19:52:21 +1000  
 ---   
 
 
@@ -120,9 +120,9 @@ date: 2021-12-26 19:45:40 +1000
 | 36 | :3rd_place_medal: | 2021-12-26 17:50:00 | caulfield     |      9 |        2 | Sig Positano       |   7.5  | pangea               |
 | 37 | 7.0               | 2021-12-26 17:50:00 | caulfield     |      9 |        5 | Zoltan             |   7.5  | pangea               |
 | 38 | 4.0               | 2021-12-26 17:42:00 | doomben       |      8 |        1 | Beau Rossa         |   7    | pangea               |
-| 39 | :boom:            | 2021-12-26 17:42:00 | doomben       |      8 |        5 | Roheryn            |  11    | cosmo,jmac           |
-| 40 | 9.0               | 2021-12-26 17:42:00 | doomben       |      8 |        6 | Southern Lad       |  34    | pangea               |
-| 41 | 5.0               | 2021-12-26 17:42:00 | doomben       |      8 |        2 | Zoustyle           |   2.15 | pangea,overthrow     |
+| 39 | 9.0               | 2021-12-26 17:42:00 | doomben       |      8 |        6 | Southern Lad       |  34    | pangea               |
+| 40 | 5.0               | 2021-12-26 17:42:00 | doomben       |      8 |        2 | Zoustyle           |   2.15 | pangea,overthrow     |
+| 41 | :boom:            | 2021-12-26 17:42:00 | doomben       |      8 |        5 | Roheryn            |  11    | cosmo,jmac           |
 | 42 | 103.0             | 2021-12-26 17:34:00 | warwick       |      6 |        9 | Uralba             |   6.5  | vulture              |
 | 43 | :3rd_place_medal: | 2021-12-26 17:30:00 | randwick      |      9 |        6 | Blesk              |   5    | vulture              |
 | 44 | :2nd_place_medal: | 2021-12-26 17:15:00 | beaumont      |      6 |        3 | Tycoon Hallie      |   3.4  | pangea               |
