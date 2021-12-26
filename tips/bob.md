@@ -1,20 +1,20 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-25 21:56:32 +1000  
+date: 2021-12-26 19:44:33 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |     16 |      0 |   -160   | 0    | -1    |
+| Last 28 Days   |     15 |      0 |   -150   | 0    | -1    |
 | Last 6 Months  |    131 |     26 |   2643.5 | 0.2  |  2.02 |
 | Since Jan 2020 |    208 |     35 |   3146.5 | 0.17 |  1.51 |
 
 | finish            | date       | event               | runner                |    win |   return |
 |:------------------|:-----------|:--------------------|:----------------------|-------:|---------:|
+| 23:18             | 2021-12-26 | wincanton R1        | 1 Atjima              |  21    |    -10   |
 | 0                 | 2021-12-21 | wolverhampton R1    | 6 Ruby Red Empress    |   0    |    -10   |
 | 0                 | 2021-12-17 | uttoxeter R3        | 6 Glebe Road          |   0    |    -10   |
 | 5                 | 2021-12-15 | sandown-hillside R4 | 2 Covert              |  12    |    -10   |
