@@ -1,11 +1,26 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-27 07:11:07 +1000  
+date: 2021-12-27 07:30:26 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 |    0 |    -1 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      0 |      -20 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      4 |      0 |      -40 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      9 |      0 |      -90 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      9 |      0 |      -90 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     11 |      0 |     -110 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     18 |      0 |     -180 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     25 |      0 |     -250 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     64 |      0 |     -640 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     89 |      0 |     -890 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -84,8 +99,8 @@ date: 2021-12-27 07:11:07 +1000
 | 20 | --                | 2021-12-27 00:45:00 | leopardstown  |      4 |        2 | Hamundarson        |  10    | vulture              |
 | 21 | --                | 2021-12-27 00:35:00 | wetherby      |      4 |        9 | Jersey             |   5.5  | overthrow            |
 | 22 | --                | 2021-12-27 00:25:00 | sedgefield    |      4 |        2 | Barnabas Collins   |   2.1  | vulture,milkman      |
-| 23 | --                | 2021-12-27 00:20:00 | kempton       |      2 |        3 | Bothwell Bridge    |   3.9  | overthrow            |
-| 24 | 4.0               | 2021-12-27 00:20:00 | kempton       |      2 |        4 | Danny Kirwan       |   3.9  | overthrow            |
+| 23 | 4.0               | 2021-12-27 00:20:00 | kempton       |      2 |        4 | Danny Kirwan       |   3.9  | overthrow            |
+| 24 | --                | 2021-12-27 00:20:00 | kempton       |      2 |        3 | Bothwell Bridge    |   3.9  | overthrow            |
 | 25 | --                | 2021-12-27 00:05:00 | market-rasen  |      3 |        2 | Fabrique En France |   3.6  | vulture              |
 | 26 | :boom:            | 2021-12-26 23:45:00 | kempton       |      1 |        2 | Broomfield Burg    |   1.6  | evenodds,overthrow   |
 | 27 | --                | 2021-12-26 23:45:00 | kempton       |      1 |        1 | Paso Doble         |   4    | evenodds,overthrow   |
@@ -100,9 +115,9 @@ date: 2021-12-27 07:11:07 +1000
 | 36 | :3rd_place_medal: | 2021-12-26 17:50:00 | caulfield     |      9 |        2 | Sig Positano       |   7.5  | pangea               |
 | 37 | 7.0               | 2021-12-26 17:50:00 | caulfield     |      9 |        5 | Zoltan             |   7.5  | pangea               |
 | 38 | 4.0               | 2021-12-26 17:42:00 | doomben       |      8 |        1 | Beau Rossa         |   7    | pangea               |
-| 39 | 9.0               | 2021-12-26 17:42:00 | doomben       |      8 |        6 | Southern Lad       |  34    | pangea               |
-| 40 | 5.0               | 2021-12-26 17:42:00 | doomben       |      8 |        2 | Zoustyle           |   2.15 | pangea,overthrow     |
-| 41 | :boom:            | 2021-12-26 17:42:00 | doomben       |      8 |        5 | Roheryn            |  11    | cosmo,jmac           |
+| 39 | :boom:            | 2021-12-26 17:42:00 | doomben       |      8 |        5 | Roheryn            |  11    | cosmo,jmac           |
+| 40 | 9.0               | 2021-12-26 17:42:00 | doomben       |      8 |        6 | Southern Lad       |  34    | pangea               |
+| 41 | 5.0               | 2021-12-26 17:42:00 | doomben       |      8 |        2 | Zoustyle           |   2.15 | pangea,overthrow     |
 | 42 | 103.0             | 2021-12-26 17:34:00 | warwick       |      6 |        9 | Uralba             |   6.5  | vulture              |
 | 43 | :3rd_place_medal: | 2021-12-26 17:30:00 | randwick      |      9 |        6 | Blesk              |   5    | vulture              |
 | 44 | :2nd_place_medal: | 2021-12-26 17:15:00 | beaumont      |      6 |        3 | Tycoon Hallie      |   3.4  | pangea               |
