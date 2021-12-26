@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2021-12-26 22:58:43 +1000  
+date: 2021-12-27 06:13:18 +1000  
 categories: None 
 ---   
 
@@ -9,9 +9,9 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
-| Last 28 Days   |     36 |     10 |   -134.5 | 0.28 | -0.37 |
-| Last 6 Months  |    228 |     73 |   -236.4 | 0.32 | -0.1  |
-| Since Jan 2020 |    406 |    136 |   -271.9 | 0.33 | -0.07 |
+| Last 28 Days   |     38 |     10 |   -154.5 | 0.26 | -0.41 |
+| Last 6 Months  |    230 |     73 |   -256.4 | 0.32 | -0.11 |
+| Since Jan 2020 |    408 |    136 |   -291.9 | 0.33 | -0.07 |
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
@@ -283,16 +283,16 @@ categories: None
 | :boom:            | 2021-05-01 | barcaldine R6           | 4 Sizzalating         |  1.6  |      6   |
 | :boom:            | 2021-04-30 | alice-springs R4        | 1 Valley Prince       |  1.04 |      0.4 |
 | 4                 | 2021-04-29 | rockhampton R5          | 1 Brad                |  5.5  |    -10   |
-| 10                | 2021-04-28 | toowoomba R8            | 6 Molly's Rocking     | 19    |    -10   |
 | :2nd_place_medal: | 2021-04-28 | toowoomba R8            | 8 Dis Dah Wun         |  2.45 |    -10   |
+| 10                | 2021-04-28 | toowoomba R8            | 6 Molly's Rocking     | 19    |    -10   |
 | :boom:            | 2021-04-28 | toowoomba R6            | 10 Better Get Ready   |  5.5  |     45   |
 | :boom:            | 2021-04-28 | punchestown R4          | 3 Chacun Pour Soi     |  2.2  |     12   |
 | :2nd_place_medal: | 2021-04-25 | sandown R3              | 1 Altior              |  3.75 |    -10   |
 | 99                | 2021-04-24 | ellerslie R8            | 5 Markus Aurelius     |  2.05 |    -10   |
 | :3rd_place_medal: | 2021-04-24 | doomben R5              | 7 Walking Flying      |  3.25 |    -10   |
 | 4                 | 2021-04-24 | doomben R2              | 1 Humbolt Current     |  3.9  |    -10   |
-| 7                 | 2021-04-21 | ipswich R8              | 3 Amicitia            |  7.5  |    -10   |
 | 9                 | 2021-04-21 | ipswich R8              | 2 Grand Zou           | 14    |    -10   |
+| 7                 | 2021-04-21 | ipswich R8              | 3 Amicitia            |  7.5  |    -10   |
 | :boom:            | 2021-04-20 | epsom-downs R3          | 3 Victory Chime       |  9    |     80   |
 | :2nd_place_medal: | 2021-04-20 | mackay R4               | 7 Princess Rules      |  4.6  |    -10   |
 | 4                 | 2021-04-20 | mackay R4               | 3 Moreno              |  3    |    -10   |

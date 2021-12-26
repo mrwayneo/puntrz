@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-12-26 22:58:41 +1000  
+date: 2021-12-27 06:13:15 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
-| Last 28 Days   |     43 |      8 |   -208   | 0.19 | -0.48 |
-| Last 6 Months  |    379 |     79 |   -376.5 | 0.21 | -0.1  |
-| Since Jan 2020 |    634 |    139 |   -526.5 | 0.22 | -0.08 |
+| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
+| Last 28 Days   |     46 |      8 |   -238   | 0.17 | -0.52 |
+| Last 6 Months  |    382 |     79 |   -406.5 | 0.21 | -0.11 |
+| Since Jan 2020 |    637 |    139 |   -556.5 | 0.22 | -0.09 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
@@ -184,8 +184,8 @@ categories: None
 | 7                 | 2021-09-25 | toowoomba R1                  | 3 Better Ethics       | 16    |    -10   |
 | :2nd_place_medal: | 2021-09-24 | moonee-valley R7              | 3 The Inferno         |  6    |    -10   |
 | :3rd_place_medal: | 2021-09-22 | goodwood R2                   | 3 Kettle Hill         |  3    |    -10   |
-| :2nd_place_medal: | 2021-09-22 | gosford R5                    | 1 Jazzland            |  9    |    -10   |
 | 4                 | 2021-09-22 | gosford R5                    | 5 Mightybeel          |  6.5  |    -10   |
+| :2nd_place_medal: | 2021-09-22 | gosford R5                    | 1 Jazzland            |  9    |    -10   |
 | :3rd_place_medal: | 2021-09-22 | gosford R4                    | 7 Fastconi            |  6    |    -10   |
 | :3rd_place_medal: | 2021-09-21 | beaudesert R7                 | 5 Brazen Dynamo       |  0    |    -10   |
 | :2nd_place_medal: | 2021-09-19 | devonport-synthetic R8        | 1 Fragment            | 12    |    -10   |
@@ -246,8 +246,8 @@ categories: None
 | :boom:            | 2021-08-29 | ballarat R4                   | 1 Saunter Boy         |  2.5  |     15   |
 | 6                 | 2021-08-28 | toowoomba R1                  | 4 Nick the Skip       |  5.5  |    -10   |
 | :3rd_place_medal: | 2021-08-28 | darwin R4                     | 2 Sebrakate           | 15    |    -10   |
-| :boom:            | 2021-08-28 | darwin R3                     | 4 Patriot Day         | 10.5  |     95   |
 | 9                 | 2021-08-28 | darwin R3                     | 3 Kaptan Apollo       | 26    |    -10   |
+| :boom:            | 2021-08-28 | darwin R3                     | 4 Patriot Day         | 10.5  |     95   |
 | 11                | 2021-08-28 | cairns R6                     | 3 Hidden in Heaven    | 34    |    -10   |
 | 7                 | 2021-08-28 | cairns R6                     | 8 Bold Type           |  4.2  |    -10   |
 | 5                 | 2021-08-28 | caulfield R6                  | 10 Diamonds Inthe Sky | 21    |    -10   |
