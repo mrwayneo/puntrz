@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2021-12-26 19:44:28 +1000  
+date: 2021-12-26 19:45:34 +1000  
 categories: None 
 ---   
 
@@ -14,9 +14,9 @@ categories: None
 
 | finish            | date       | event             | runner             |   win |   return |
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
-| 0                 | 2021-12-26 | randwick R7       | 2 So You Win       |  0    |      -10 |
-| 0                 | 2021-12-26 | randwick R6       | 1 Selburose        |  0    |      -10 |
-| 0                 | 2021-12-26 | randwick R3       | 5 Wheelhouse       |  0    |      -10 |
+| 7                 | 2021-12-26 | randwick R7       | 2 So You Win       | 11    |      -10 |
+| 11                | 2021-12-26 | randwick R6       | 1 Selburose        |  6    |      -10 |
+| :2nd_place_medal: | 2021-12-26 | randwick R3       | 5 Wheelhouse       |  4.4  |      -10 |
 | 4                 | 2021-12-18 | randwick R9       | 5 Starla           | 14    |      -10 |
 | 7                 | 2021-12-18 | randwick R2       | 4 Sacred Command   |  8    |      -10 |
 | 9                 | 2021-12-17 | canterbury R1     | 1 Island Press     | 18    |      -10 |
