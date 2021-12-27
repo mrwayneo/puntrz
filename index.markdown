@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-27 16:00:14 +1000  
+date: 2021-12-27 16:18:14 +1000  
 ---   
 
 
@@ -74,47 +74,47 @@ date: 2021-12-27 16:00:14 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5975 |    881 |  -8870.7 | 0.15 | -0.15 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7665 |    422 | -13335   | 0.06 | -0.17 |
 
-|    | finish                   | time                | track            |   race |   number | name               |   odds | tipster            |
-|---:|:-------------------------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:                   | 2021-12-28 02:40:00 | kempton          |      6 |        1 | Hacker Des Places  |   7.5  | pangea,blackshadow |
-|  1 | :soon:                   | 2021-12-28 02:40:00 | kempton          |      6 |        3 | Captain Morgs      |   5    | overthrow          |
-|  2 | :soon:                   | 2021-12-28 02:30:00 | leopardstown     |      7 |        8 | Santonito          |   2.35 | vulture            |
-|  3 | :soon:                   | 2021-12-28 02:25:00 | chepstow         |      6 |        3 | Storm Arising      |   4.8  | overthrow          |
-|  4 | :soon:                   | 2021-12-28 02:20:00 | wetherby         |      7 |        7 | Grey Dawning       |   5.5  | overthrow          |
-|  5 | :soon:                   | 2021-12-28 02:20:00 | wetherby         |      7 |       12 | Sullivan's Brow    |   8    | vulture            |
-|  6 | :soon:                   | 2021-12-28 02:10:00 | kempton          |      5 |        5 | Morning Vicar      |   8    | overthrow          |
-|  7 | :soon:                   | 2021-12-28 01:55:00 | leopardstown     |      6 |        4 | Agusta Gold        |  18    | overthrow          |
-|  8 | :soon:                   | 2021-12-28 01:50:00 | chepstow         |      5 |        6 | Highland Hunter    |  11    | overthrow          |
-|  9 | :soon:                   | 2021-12-28 01:30:00 | kempton          |      4 |        3 | Shishkin           |   1.45 | overthrow,milkman  |
-| 10 | :soon:                   | 2021-12-28 01:30:00 | kempton          |      4 |        1 | Greaneteen         |   3.5  | vulture,milkman    |
-| 11 | :soon:                   | 2021-12-28 01:20:00 | leopardstown     |      5 |        2 | Call Me Lyreen     |  15    | pangea,blackshadow |
-| 12 | :soon:                   | 2021-12-28 01:15:00 | wetherby         |      5 |        1 | Nuts Well          |   4.8  | pangea,overthrow   |
-| 13 | :soon:                   | 2021-12-28 01:15:00 | wetherby         |      5 |        5 | Eclair D'Ainay     |   5    | overthrow          |
-| 14 | :soon:                   | 2021-12-28 01:10:00 | chepstow         |      4 |        4 | Take Your Time     |   2.9  | evenodds,overthrow |
-| 15 | :soon:                   | 2021-12-28 00:45:00 | leopardstown     |      4 |        3 | Largy Debut        |   3    | milkman            |
-| 16 | :soon:                   | 2021-12-28 00:45:00 | leopardstown     |      4 |        6 | Grangee            |   4.6  | overthrow,milkman  |
-| 17 | :soon:                   | 2021-12-28 00:45:00 | leopardstown     |      4 |        5 | Three Stripe Life  |   6    | vulture            |
-| 18 | :soon:                   | 2021-12-28 00:40:00 | chepstow         |      3 |        1 | Forever Blessed    |   3.6  | milkman            |
-| 19 | :soon:                   | 2021-12-28 00:40:00 | chepstow         |      3 |       10 | Saint Segal        |   8.5  | evenodds,lago      |
-| 20 | :soon:                   | 2021-12-28 00:40:00 | chepstow         |      3 |        3 | Genuflex           |  23    | vulture            |
-| 21 | :soon:                   | 2021-12-28 00:40:00 | chepstow         |      3 |        5 | Magistrato         |   6    | overthrow          |
-| 22 | :soon:                   | 2021-12-28 00:20:00 | kempton          |      2 |        4 | Solo               |   7    | pangea,blackshadow |
-| 23 | :soon:                   | 2021-12-28 00:10:00 | leopardstown     |      3 |        2 | Chacun Pour Soi    |   1.45 | overthrow          |
-| 24 | :soon:                   | 2021-12-28 00:10:00 | leopardstown     |      3 |        1 | Battleoverdoyen    |  19    | vulture            |
-| 25 | :soon:                   | 2021-12-28 00:05:00 | chepstow         |      2 |       11 | Aubusson           |  51    | overthrow          |
-| 26 | :soon:                   | 2021-12-28 00:05:00 | chepstow         |      2 |        9 | Cut The Mustard    |  26    | overthrow          |
-| 27 | :soon:                   | 2021-12-28 00:05:00 | chepstow         |      2 |        3 | Francky Du Berlais |  41    | pangea             |
-| 28 | :soon:                   | 2021-12-28 00:00:00 | wetherby         |      3 |        1 | Pay The Piper      |   2.8  | overthrow          |
-| 29 | :soon:                   | 2021-12-28 00:00:00 | wetherby         |      3 |        2 | Midnight River     |   4.8  | overthrow          |
-| 30 | :soon:                   | 2021-12-27 23:35:00 | leopardstown     |      2 |        4 | Thedevilscoachman  |   2.5  | milkman            |
-| 31 | :soon:                   | 2021-12-27 23:35:00 | leopardstown     |      2 |        8 | Haut En Couleurs   |   1.8  | overthrow          |
-| 32 | :soon:                   | 2021-12-27 23:30:00 | chepstow         |      1 |        4 | Chavez             |   3.8  | overthrow,milkman  |
-| 33 | :soon:                   | 2021-12-27 23:25:00 | wetherby         |      2 |        1 | Harbour Lake       |   1.7  | milkman            |
-| 34 | :soon:                   | 2021-12-27 23:25:00 | wetherby         |      2 |        2 | Lakota Warrior     |   3.8  | overthrow          |
-| 35 | :soon:                   | 2021-12-27 23:05:00 | leopardstown     |      1 |        9 | Icare Allen        |   2.5  | overthrow,lago     |
-| 36 | :soon:                   | 2021-12-27 21:50:00 | turffontein      |      3 |        5 | Insatiable         |   0    | vulture            |
-| 37 | :soon:                   | 2021-12-27 19:30:00 | geraldton        |      4 |        2 | Three Sessions     |   0    | benny,icyhot       |
-| 38 | :soon:                   | 2021-12-27 18:12:00 | sunshine-coast   |      8 |        5 | Irish Thunder      |   8    | pangea             |
-| 39 | :soon:                   | 2021-12-27 16:44:00 | sapphire-coast   |      6 |        3 | Kirkton            |   2.8  | pangea             |
-| 40 | :hourglass_flowing_sand: | 2021-12-27 16:00:00 | stony-creek      |      6 |        2 | Miss Tenthousand   |   2.6  | vulture            |
-| 41 | --                       | 2021-12-27 12:01:00 | pukekura-raceway |      4 |        6 | Lostcause          |  21    | overthrow          |
+|    | finish   | time                | track            |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2021-12-28 02:40:00 | kempton          |      6 |        1 | Hacker Des Places  |   7.5  | pangea,blackshadow |
+|  1 | :soon:   | 2021-12-28 02:40:00 | kempton          |      6 |        3 | Captain Morgs      |   5    | overthrow          |
+|  2 | :soon:   | 2021-12-28 02:30:00 | leopardstown     |      7 |        8 | Santonito          |   2.35 | vulture            |
+|  3 | :soon:   | 2021-12-28 02:25:00 | chepstow         |      6 |        3 | Storm Arising      |   4.8  | overthrow          |
+|  4 | :soon:   | 2021-12-28 02:20:00 | wetherby         |      7 |        7 | Grey Dawning       |   5.5  | overthrow          |
+|  5 | :soon:   | 2021-12-28 02:20:00 | wetherby         |      7 |       12 | Sullivan's Brow    |   8    | vulture            |
+|  6 | :soon:   | 2021-12-28 02:10:00 | kempton          |      5 |        5 | Morning Vicar      |   8    | overthrow          |
+|  7 | :soon:   | 2021-12-28 01:55:00 | leopardstown     |      6 |        4 | Agusta Gold        |  18    | overthrow          |
+|  8 | :soon:   | 2021-12-28 01:50:00 | chepstow         |      5 |        6 | Highland Hunter    |  11    | overthrow          |
+|  9 | :soon:   | 2021-12-28 01:30:00 | kempton          |      4 |        3 | Shishkin           |   1.45 | overthrow,milkman  |
+| 10 | :soon:   | 2021-12-28 01:30:00 | kempton          |      4 |        1 | Greaneteen         |   3.5  | vulture,milkman    |
+| 11 | :soon:   | 2021-12-28 01:20:00 | leopardstown     |      5 |        2 | Call Me Lyreen     |  15    | pangea,blackshadow |
+| 12 | :soon:   | 2021-12-28 01:15:00 | wetherby         |      5 |        1 | Nuts Well          |   4.8  | pangea,overthrow   |
+| 13 | :soon:   | 2021-12-28 01:15:00 | wetherby         |      5 |        5 | Eclair D'Ainay     |   5    | overthrow          |
+| 14 | :soon:   | 2021-12-28 01:10:00 | chepstow         |      4 |        4 | Take Your Time     |   2.9  | evenodds,overthrow |
+| 15 | :soon:   | 2021-12-28 00:45:00 | leopardstown     |      4 |        3 | Largy Debut        |   3    | milkman            |
+| 16 | :soon:   | 2021-12-28 00:45:00 | leopardstown     |      4 |        6 | Grangee            |   4.6  | overthrow,milkman  |
+| 17 | :soon:   | 2021-12-28 00:45:00 | leopardstown     |      4 |        5 | Three Stripe Life  |   6    | vulture            |
+| 18 | :soon:   | 2021-12-28 00:40:00 | chepstow         |      3 |        1 | Forever Blessed    |   3.6  | milkman            |
+| 19 | :soon:   | 2021-12-28 00:40:00 | chepstow         |      3 |       10 | Saint Segal        |   8.5  | evenodds,lago      |
+| 20 | :soon:   | 2021-12-28 00:40:00 | chepstow         |      3 |        3 | Genuflex           |  23    | vulture            |
+| 21 | :soon:   | 2021-12-28 00:40:00 | chepstow         |      3 |        5 | Magistrato         |   6    | overthrow          |
+| 22 | :soon:   | 2021-12-28 00:20:00 | kempton          |      2 |        4 | Solo               |   7    | pangea,blackshadow |
+| 23 | :soon:   | 2021-12-28 00:10:00 | leopardstown     |      3 |        2 | Chacun Pour Soi    |   1.45 | overthrow          |
+| 24 | :soon:   | 2021-12-28 00:10:00 | leopardstown     |      3 |        1 | Battleoverdoyen    |  19    | vulture            |
+| 25 | :soon:   | 2021-12-28 00:05:00 | chepstow         |      2 |       11 | Aubusson           |  51    | overthrow          |
+| 26 | :soon:   | 2021-12-28 00:05:00 | chepstow         |      2 |        9 | Cut The Mustard    |  26    | overthrow          |
+| 27 | :soon:   | 2021-12-28 00:05:00 | chepstow         |      2 |        3 | Francky Du Berlais |  41    | pangea             |
+| 28 | :soon:   | 2021-12-28 00:00:00 | wetherby         |      3 |        1 | Pay The Piper      |   2.8  | overthrow          |
+| 29 | :soon:   | 2021-12-28 00:00:00 | wetherby         |      3 |        2 | Midnight River     |   4.8  | overthrow          |
+| 30 | :soon:   | 2021-12-27 23:35:00 | leopardstown     |      2 |        4 | Thedevilscoachman  |   2.5  | milkman            |
+| 31 | :soon:   | 2021-12-27 23:35:00 | leopardstown     |      2 |        8 | Haut En Couleurs   |   1.8  | overthrow          |
+| 32 | :soon:   | 2021-12-27 23:30:00 | chepstow         |      1 |        4 | Chavez             |   3.8  | overthrow,milkman  |
+| 33 | :soon:   | 2021-12-27 23:25:00 | wetherby         |      2 |        1 | Harbour Lake       |   1.7  | milkman            |
+| 34 | :soon:   | 2021-12-27 23:25:00 | wetherby         |      2 |        2 | Lakota Warrior     |   3.8  | overthrow          |
+| 35 | :soon:   | 2021-12-27 23:05:00 | leopardstown     |      1 |        9 | Icare Allen        |   2.5  | overthrow,lago     |
+| 36 | :soon:   | 2021-12-27 21:50:00 | turffontein      |      3 |        5 | Insatiable         |   0    | vulture            |
+| 37 | :soon:   | 2021-12-27 19:30:00 | geraldton        |      4 |        2 | Three Sessions     |   0    | benny,icyhot       |
+| 38 | :soon:   | 2021-12-27 18:12:00 | sunshine-coast   |      8 |        5 | Irish Thunder      |   8    | pangea             |
+| 39 | :soon:   | 2021-12-27 16:44:00 | sapphire-coast   |      6 |        3 | Kirkton            |   2.8  | pangea             |
+| 40 | --       | 2021-12-27 16:00:00 | stony-creek      |      6 |        2 | Miss Tenthousand   |   2.6  | vulture            |
+| 41 | 5.0      | 2021-12-27 12:01:00 | pukekura-raceway |      4 |        6 | Lostcause          |  21    | overthrow          |
