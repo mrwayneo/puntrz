@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-27 16:51:51 +1000  
+date: 2021-12-27 17:10:13 +1000  
 ---   
 
 
@@ -19,7 +19,7 @@ date: 2021-12-27 16:51:51 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     18 |      0 |     -180 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     25 |      0 |     -250 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     64 |      2 |     -566 | 0.03 | -0.88 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     64 |      3 |     -549 | 0.05 | -0.86 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     89 |      0 |     -890 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -115,6 +115,6 @@ date: 2021-12-27 16:51:51 +1000
 | 36 | :soon:   | 2021-12-27 21:50:00 | turffontein      |      3 |        5 | Insatiable         |   0    | vulture            |
 | 37 | :soon:   | 2021-12-27 19:30:00 | geraldton        |      4 |        2 | Three Sessions     |   0    | benny,icyhot       |
 | 38 | :soon:   | 2021-12-27 18:12:00 | sunshine-coast   |      8 |        5 | Irish Thunder      |   8    | pangea             |
-| 39 | --       | 2021-12-27 16:44:00 | sapphire-coast   |      6 |        3 | Kirkton            |   2.8  | pangea             |
+| 39 | 8.0      | 2021-12-27 16:44:00 | sapphire-coast   |      6 |        3 | Kirkton            |   2.8  | pangea             |
 | 40 | --       | 2021-12-27 16:00:00 | stony-creek      |      6 |        2 | Miss Tenthousand   |   2.6  | vulture            |
 | 41 | 5.0      | 2021-12-27 12:01:00 | pukekura-raceway |      4 |        6 | Lostcause          |  21    | overthrow          |
