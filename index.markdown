@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-27 19:24:03 +1000  
+date: 2021-12-27 19:36:43 +1000  
 ---   
 
 
@@ -113,7 +113,7 @@ date: 2021-12-27 19:24:03 +1000
 | 34 | :soon:   | 2021-12-27 23:25:00 | wetherby         |      2 |        2 | Lakota Warrior     |   3.8  | overthrow          |
 | 35 | :soon:   | 2021-12-27 23:05:00 | leopardstown     |      1 |        9 | Icare Allen        |   2.5  | overthrow,lago     |
 | 36 | :soon:   | 2021-12-27 21:50:00 | turffontein      |      3 |        5 | Insatiable         |   0    | vulture            |
-| 37 | :soon:   | 2021-12-27 19:30:00 | geraldton        |      4 |        2 | Three Sessions     |   0    | benny,icyhot       |
+| 37 | --       | 2021-12-27 19:30:00 | geraldton        |      4 |        2 | Three Sessions     |   0    | benny,icyhot       |
 | 38 | 4.0      | 2021-12-27 18:12:00 | sunshine-coast   |      8 |        5 | Irish Thunder      |   8    | pangea             |
 | 39 | 8.0      | 2021-12-27 16:44:00 | sapphire-coast   |      6 |        3 | Kirkton            |   2.8  | pangea             |
 | 40 | --       | 2021-12-27 16:00:00 | stony-creek      |      6 |        2 | Miss Tenthousand   |   2.6  | vulture            |
