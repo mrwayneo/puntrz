@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-27 11:30:59 +1000  
+date: 2021-12-27 11:52:56 +1000  
 categories: None 
 ---   
 
@@ -50,8 +50,8 @@ categories: None
 | :boom:            | 2021-11-09 | huntingdon R1          | 7 Theatre Glory      |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3          | 3 Yes Dream          |  1.6  |      6   |
 | :boom:            | 2021-11-09 | kempton R3             | 3 Doddiethegreat     |  1.33 |      3.3 |
-| :3rd_place_medal: | 2021-11-07 | sunshine-coast R5      | 2 Ma Ma's Rose       |  3.8  |    -10   |
 | :boom:            | 2021-11-07 | sunshine-coast R5      | 5 Gypsy Goddess      |  3.5  |     25   |
+| :3rd_place_medal: | 2021-11-07 | sunshine-coast R5      | 2 Ma Ma's Rose       |  3.8  |    -10   |
 | :boom:            | 2021-11-07 | wincanton R2           | 1 Knappers Hill      |  1.1  |      1   |
 | 0                 | 2021-11-05 | warwick R1             | 6 In This World      |  0    |    -10   |
 | 99                | 2021-11-03 | exeter R2              | 5 Huflower           |  0    |    -10   |
