@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-27 11:52:57 +1000  
+date: 2021-12-27 12:14:44 +1000  
 ---   
 
 
@@ -117,4 +117,4 @@ date: 2021-12-27 11:52:57 +1000
 | 38 | :soon:   | 2021-12-27 18:12:00 | sunshine-coast   |      8 |        5 | Irish Thunder      |   8    | pangea             |
 | 39 | :soon:   | 2021-12-27 16:44:00 | sapphire-coast   |      6 |        3 | Kirkton            |   2.8  | pangea             |
 | 40 | :soon:   | 2021-12-27 16:00:00 | stony-creek      |      6 |        2 | Miss Tenthousand   |   2.6  | vulture            |
-| 41 | :soon:   | 2021-12-27 12:01:00 | pukekura-raceway |      4 |        6 | Lostcause          |  21    | overthrow          |
+| 41 | --       | 2021-12-27 12:01:00 | pukekura-raceway |      4 |        6 | Lostcause          |  21    | overthrow          |
