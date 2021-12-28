@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-29 07:14:51 +1000  
+date: 2021-12-29 07:29:49 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,10 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 18:50             | 2021-12-29 | pinjarra R6           | 3 Material Witness    |   2.8  |    -10   |
+| 17:34             | 2021-12-29 | pinjarra R4           | 7 Vevinsky            |   2.3  |    -10   |
+| 16:59             | 2021-12-29 | pinjarra R3           | 8 Extra Secret        |   2.3  |    -10   |
+| 16:24             | 2021-12-29 | pinjarra R2           | 2 Civvy Street        |   3.2  |    -10   |
 | 6                 | 2021-12-28 | belmont R8            | 4 Celtic Court        |   5    |    -10   |
 | :2nd_place_medal: | 2021-12-28 | belmont R7            | 8 Fashion Queen       |   2.9  |    -10   |
 | :2nd_place_medal: | 2021-12-28 | belmont R6            | 1 Mirror Moon         |   2.5  |    -10   |

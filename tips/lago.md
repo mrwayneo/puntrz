@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-29 07:14:51 +1000  
+date: 2021-12-29 07:29:49 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 02:25             | 2021-12-30 | leopardstown R7        | 4 The Nice Guy       |  2.05 |    -10   |
+| 00:10             | 2021-12-30 | leopardstown R3        | 2 Shewearsitwell     |  2.5  |    -10   |
 | 0                 | 2021-12-29 | leicester R5           | 2 Nurse Susan        |  0    |    -10   |
 | :2nd_place_medal: | 2021-12-28 | leopardstown R1        | 5 Horantzau D'airy   |  2.25 |    -10   |
 | 0                 | 2021-12-28 | chepstow R3            | 10 Saint Segal       |  0    |    -10   |

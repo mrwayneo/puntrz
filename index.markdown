@@ -1,11 +1,29 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-29 07:14:53 +1000  
+date: 2021-12-29 07:29:50 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 |    0 |    -1 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      0 |      -20 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      0 |     -100 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     12 |      0 |     -120 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     13 |      0 |     -130 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     15 |      0 |     -150 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     23 |      0 |     -230 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      0 |     -320 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     74 |      0 |     -740 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -100,8 +118,8 @@ date: 2021-12-29 07:14:53 +1000
 | 36 | 5.0               | 2021-12-28 17:31:00 | townsville   |      6 |        1 | Micawber           |   4.5  | looseknot          |
 | 37 | --                | 2021-12-28 17:04:00 | warwick      |      6 |        9 | Uralba             |   4.8  | vulture            |
 | 38 | 5.0               | 2021-12-28 16:56:00 | townsville   |      5 |        2 | Loud Enough        |  10    | evenodds,overthrow |
-| 39 | :2nd_place_medal: | 2021-12-28 16:56:00 | townsville   |      5 |        6 | Hell Of A Boy      |   2.05 | vulture            |
-| 40 | :boom:            | 2021-12-28 16:56:00 | townsville   |      5 |        5 | Silent Explorer    |   3.6  | vulture            |
+| 39 | :boom:            | 2021-12-28 16:56:00 | townsville   |      5 |        5 | Silent Explorer    |   3.6  | vulture            |
+| 40 | :2nd_place_medal: | 2021-12-28 16:56:00 | townsville   |      5 |        6 | Hell Of A Boy      |   2.05 | vulture            |
 | 41 | 6.0               | 2021-12-28 15:19:00 | arawa-park   |      8 |       10 | Eva Chiara         |   4.6  | milkman            |
 | 42 | 4.0               | 2021-12-28 13:16:00 | timaru       |      5 |        6 | Itsonlymoney       |   3.5  | pangea             |
 | 43 | :boom:            | 2021-12-28 13:16:00 | timaru       |      5 |        8 | Elizabeth Rose     |   2.9  | vulture            |
