@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-28 20:46:49 +1000  
+date: 2021-12-29 06:08:09 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      1 |     -7   | 0.25 | -0.18 |
-| Last 28 Days   |     20 |      7 |     10.5 | 0.35 |  0.05 |
-| Last 6 Months  |    102 |     62 |   1443.3 | 0.61 |  1.42 |
-| Since Jan 2020 |    161 |     85 |   1474.3 | 0.53 |  0.92 |
+| Last 7 Days    |      6 |      1 |    -27   | 0.17 | -0.45 |
+| Last 28 Days   |     21 |      7 |      0.5 | 0.33 |  0    |
+| Last 6 Months  |    104 |     62 |   1423.3 | 0.6  |  1.37 |
+| Since Jan 2020 |    163 |     85 |   1454.3 | 0.52 |  0.89 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 01:13             | 2021-12-29 | leicester R5           | 2 Nurse Susan        |  1.4  |    -10   |
-| 23:00             | 2021-12-28 | leopardstown R1        | 5 Horantzau D'airy   |  2.25 |    -10   |
+| 0                 | 2021-12-29 | leicester R5           | 2 Nurse Susan        |  0    |    -10   |
+| :2nd_place_medal: | 2021-12-28 | leopardstown R1        | 5 Horantzau D'airy   |  2.25 |    -10   |
 | 0                 | 2021-12-28 | chepstow R3            | 10 Saint Segal       |  0    |    -10   |
 | 0                 | 2021-12-27 | leopardstown R1        | 9 Icare Allen        |  0    |    -10   |
 | 0                 | 2021-12-26 | leopardstown R2        | 6 Goven              |  0    |    -10   |

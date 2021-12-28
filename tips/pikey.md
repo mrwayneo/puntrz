@@ -1,26 +1,26 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-28 20:46:49 +1000  
+date: 2021-12-29 06:08:09 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      2 |        5 | 0.33 |  0.08 |
-| Last 28 Days   |     32 |      7 |      -64 | 0.22 | -0.2  |
-| Last 6 Months  |    498 |    135 |     -746 | 0.27 | -0.15 |
-| Since Jan 2020 |    787 |    202 |    -1255 | 0.26 | -0.16 |
+| Last 7 Days    |      6 |      1 |      -22 | 0.17 | -0.37 |
+| Last 28 Days   |     33 |      7 |      -84 | 0.21 | -0.25 |
+| Last 6 Months  |    504 |    136 |     -768 | 0.27 | -0.15 |
+| Since Jan 2020 |    793 |    203 |    -1277 | 0.26 | -0.16 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 21:51             | 2021-12-28 | belmont R8            | 4 Celtic Court        |   5    |    -10   |
-| 21:17             | 2021-12-28 | belmont R7            | 8 Fashion Queen       |   2.9  |    -10   |
-| 0                 | 2021-12-28 | belmont R6            | 1 Mirror Moon         |   0    |    -10   |
-| 0                 | 2021-12-28 | belmont R5            | 8 Soulsana            |   0    |    -10   |
-| 0                 | 2021-12-28 | belmont R4            | 8 Bandalera Miss      |   0    |    -10   |
-| 0                 | 2021-12-28 | belmont R2            | 11 Rare Case          |   0    |    -10   |
+| 6                 | 2021-12-28 | belmont R8            | 4 Celtic Court        |   5    |    -10   |
+| :2nd_place_medal: | 2021-12-28 | belmont R7            | 8 Fashion Queen       |   2.9  |    -10   |
+| :2nd_place_medal: | 2021-12-28 | belmont R6            | 1 Mirror Moon         |   2.5  |    -10   |
+| 7                 | 2021-12-28 | belmont R5            | 8 Soulsana            |   4.4  |    -10   |
+| :boom:            | 2021-12-28 | belmont R4            | 8 Bandalera Miss      |   3.8  |     28   |
+| 6                 | 2021-12-28 | belmont R2            | 11 Rare Case          |   5.5  |    -10   |
 | 5                 | 2021-12-23 | pinjarra R8           | 7 Prized Miss         |   6    |    -10   |
 | :2nd_place_medal: | 2021-12-23 | pinjarra R6           | 4 Soviet Spy          |   3.6  |    -10   |
 | :boom:            | 2021-12-23 | pinjarra R4           | 1 Noble Scot          |   5.1  |     41   |

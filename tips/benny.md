@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-12-28 20:46:41 +1000  
+date: 2021-12-29 06:08:02 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
-| Last 28 Days   |     47 |      8 |   -248   | 0.17 | -0.53 |
-| Last 6 Months  |    383 |     79 |   -416.5 | 0.21 | -0.11 |
-| Since Jan 2020 |    638 |    139 |   -566.5 | 0.22 | -0.09 |
+| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
+| Last 28 Days   |     47 |      7 |   -325   | 0.15 | -0.69 |
+| Last 6 Months  |    385 |     79 |   -436.5 | 0.21 | -0.11 |
+| Since Jan 2020 |    640 |    139 |   -586.5 | 0.22 | -0.09 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 21:51             | 2021-12-28 | belmont R8                    | 10 Watch Me Ney Ney   |  8    |    -10   |
-| 0                 | 2021-12-28 | orange R7                     | 11 Louder             |  0    |    -10   |
+| 4                 | 2021-12-28 | belmont R8                    | 10 Watch Me Ney Ney   |  8    |    -10   |
+| 9                 | 2021-12-28 | orange R7                     | 11 Louder             |  6.5  |    -10   |
 | 0                 | 2021-12-27 | geraldton R4                  | 2 Three Sessions      |  0    |    -10   |
 | 7                 | 2021-12-26 | morphettville R9              | 8 So You Can          | 10    |    -10   |
 | 10                | 2021-12-26 | gold-coast R8                 | 11 First Crusade      | 29    |    -10   |
