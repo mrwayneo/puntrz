@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2021-12-28 16:12:54 +1000  
+date: 2021-12-28 18:22:21 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
 | 21:51             | 2021-12-28 | belmont R8                    | 10 Watch Me Ney Ney   |  8    |    -10   |
-| 17:45             | 2021-12-28 | orange R7                     | 11 Louder             |  6.5  |    -10   |
+| 0                 | 2021-12-28 | orange R7                     | 11 Louder             |  0    |    -10   |
 | 0                 | 2021-12-27 | geraldton R4                  | 2 Three Sessions      |  0    |    -10   |
 | 7                 | 2021-12-26 | morphettville R9              | 8 So You Can          | 10    |    -10   |
 | 10                | 2021-12-26 | gold-coast R8                 | 11 First Crusade      | 29    |    -10   |

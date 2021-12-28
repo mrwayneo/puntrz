@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-28 16:21:04 +1000  
+date: 2021-12-28 18:22:28 +1000  
 categories: None 
 ---   
 
@@ -20,7 +20,7 @@ categories: None
 | 20:44             | 2021-12-28 | belmont R6            | 1 Mirror Moon         |   2.5  |    -10   |
 | 20:10             | 2021-12-28 | belmont R5            | 8 Soulsana            |   4.4  |    -10   |
 | 19:33             | 2021-12-28 | belmont R4            | 8 Bandalera Miss      |   4.33 |    -10   |
-| 18:19             | 2021-12-28 | belmont R2            | 11 Rare Case          |   5.5  |    -10   |
+| 0                 | 2021-12-28 | belmont R2            | 11 Rare Case          |   0    |    -10   |
 | 5                 | 2021-12-23 | pinjarra R8           | 7 Prized Miss         |   6    |    -10   |
 | :2nd_place_medal: | 2021-12-23 | pinjarra R6           | 4 Soviet Spy          |   3.6  |    -10   |
 | :boom:            | 2021-12-23 | pinjarra R4           | 1 Noble Scot          |   5.1  |     41   |

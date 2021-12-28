@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-28 16:21:06 +1000  
+date: 2021-12-28 18:22:29 +1000  
 ---   
 
 
@@ -18,7 +18,7 @@ date: 2021-12-28 16:21:06 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      0 |    -60   | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      6 |      0 |    -60   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      1 |   -118.5 | 0.07 | -0.85 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      2 |    -83.5 | 0.14 | -0.6  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     13 |      0 |   -130   | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     18 |      0 |   -180   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      2 |   -367   | 0.05 | -0.83 |
@@ -76,49 +76,49 @@ date: 2021-12-28 16:21:06 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6008 |    885 |  -9075.7 | 0.15 | -0.15 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7713 |    420 | -13857   | 0.05 | -0.18 |
 
-|    | finish   | time                | track        |   race |   number | name               |   odds | tipster            |
-|---:|:---------|:--------------------|:-------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:   | 2021-12-29 04:20:00 | newcastle    |      5 |        9 | Tefnut             |   4.4  | vulture            |
-|  1 | :soon:   | 2021-12-29 03:50:00 | newcastle    |      4 |        2 | Ermin Street       |   5    | looseknot          |
-|  2 | :soon:   | 2021-12-29 03:50:00 | newcastle    |      4 |       10 | Wadacre Grace      |   9.5  | looseknot          |
-|  3 | :soon:   | 2021-12-29 02:40:00 | limerick     |      7 |        3 | Data Breach        |   5.5  | overthrow          |
-|  4 | :soon:   | 2021-12-29 01:55:00 | leopardstown |      6 |        7 | Galopin Des Champs |   1.75 | overthrow          |
-|  5 | :soon:   | 2021-12-29 01:55:00 | leopardstown |      6 |        6 | Fury Road          |   6.5  | pangea             |
-|  6 | 103.0    | 2021-12-29 01:55:00 | turffontein  |      3 |        5 | Insatiable         |   1.01 | vulture            |
-|  7 | :soon:   | 2021-12-29 01:55:00 | leopardstown |      6 |        2 | Blue Sari          |   8    | overthrow          |
-|  8 | :soon:   | 2021-12-29 01:45:00 | leicester    |      6 |        6 | Docte Dina         |  11    | overthrow          |
-|  9 | :soon:   | 2021-12-29 01:30:00 | catterick    |      5 |        2 | Obey The Rules     |   2.7  | vulture            |
-| 10 | :soon:   | 2021-12-29 01:20:00 | leopardstown |      5 |        4 | Galvin             |   9    | vulture            |
-| 11 | :soon:   | 2021-12-29 01:20:00 | leopardstown |      5 |        7 | Melon              |  19    | overthrow          |
-| 12 | :soon:   | 2021-12-29 01:20:00 | leopardstown |      5 |        5 | Janidil            |   8.5  | evenodds,overthrow |
-| 13 | :soon:   | 2021-12-29 01:13:00 | leicester    |      5 |        2 | Nurse Susan        |   1.4  | overthrow,lago     |
-| 14 | :soon:   | 2021-12-29 01:13:00 | leicester    |      5 |        9 | Walkonthewildside  |   8.5  | looseknot          |
-| 15 | :soon:   | 2021-12-29 01:13:00 | leicester    |      5 |        1 | Believe Jack       |   4.2  | vulture            |
-| 16 | :soon:   | 2021-12-29 01:00:00 | catterick    |      4 |        6 | Turning Gold       |  31    | cosmo,bluey        |
-| 17 | :soon:   | 2021-12-29 00:45:00 | leopardstown |      4 |        5 | Klassical Dream    |   3    | overthrow          |
-| 18 | :soon:   | 2021-12-29 00:38:00 | leicester    |      4 |        3 | Call Me Lord       |   2.1  | overthrow          |
-| 19 | :soon:   | 2021-12-29 00:10:00 | leopardstown |      3 |        5 | Maze Runner        |  11    | overthrow          |
-| 20 | :soon:   | 2021-12-29 00:03:00 | leicester    |      3 |        4 | Jet Plane          |   3    | overthrow          |
-| 21 | :soon:   | 2021-12-29 00:03:00 | leicester    |      3 |        5 | Moonlight Flit     |   2.35 | overthrow          |
-| 22 | :soon:   | 2021-12-28 23:00:00 | leopardstown |      1 |       17 | Secret She Keeps   |  11    | milkman            |
-| 23 | :soon:   | 2021-12-28 23:00:00 | leopardstown |      1 |       12 | Roaring Potter     |   4    | vulture            |
-| 24 | :soon:   | 2021-12-28 23:00:00 | leopardstown |      1 |        5 | Horantzau D'airy   |   2.25 | evenodds,lago      |
-| 25 | :soon:   | 2021-12-28 21:51:00 | belmont      |      8 |        4 | Celtic Court       |   5    | pikey              |
-| 26 | :soon:   | 2021-12-28 21:51:00 | belmont      |      8 |       10 | Watch Me Ney Ney   |   8    | benny,blackshadow  |
-| 27 | :soon:   | 2021-12-28 21:35:00 | greyville    |      1 |        4 | Insatiable         |   0    | vulture            |
-| 28 | :soon:   | 2021-12-28 21:17:00 | belmont      |      7 |        8 | Fashion Queen      |   2.9  | pikey              |
-| 29 | :soon:   | 2021-12-28 21:17:00 | belmont      |      7 |        3 | Brutus Maximus     |   4.8  | pangea             |
-| 30 | :soon:   | 2021-12-28 20:44:00 | belmont      |      6 |        1 | Mirror Moon        |   2.5  | evenodds,pikey     |
-| 31 | :soon:   | 2021-12-28 20:10:00 | belmont      |      5 |        8 | Soulsana           |   4.4  | pikey              |
-| 32 | :soon:   | 2021-12-28 19:33:00 | belmont      |      4 |        8 | Bandalera Miss     |   4.33 | pikey              |
-| 33 | :soon:   | 2021-12-28 18:19:00 | belmont      |      2 |        3 | Total Lockdown     |   5.5  | overthrow          |
-| 34 | :soon:   | 2021-12-28 18:19:00 | belmont      |      2 |       11 | Rare Case          |   5.5  | pikey              |
-| 35 | :soon:   | 2021-12-28 17:45:00 | orange       |      7 |       11 | Louder             |   6.5  | benny,pangea       |
-| 36 | :soon:   | 2021-12-28 17:31:00 | townsville   |      6 |        1 | Micawber           |   4.5  | looseknot          |
-| 37 | :soon:   | 2021-12-28 17:04:00 | warwick      |      6 |        9 | Uralba             |   4.8  | vulture            |
-| 38 | :soon:   | 2021-12-28 16:56:00 | townsville   |      5 |        2 | Loud Enough        |  10    | evenodds,overthrow |
-| 39 | :soon:   | 2021-12-28 16:56:00 | townsville   |      5 |        6 | Hell Of A Boy      |   2.05 | vulture            |
-| 40 | :soon:   | 2021-12-28 16:56:00 | townsville   |      5 |        5 | Silent Explorer    |   3.6  | vulture            |
-| 41 | 6.0      | 2021-12-28 15:19:00 | arawa-park   |      8 |       10 | Eva Chiara         |   4.6  | milkman            |
-| 42 | 4.0      | 2021-12-28 13:16:00 | timaru       |      5 |        6 | Itsonlymoney       |   3.5  | pangea             |
-| 43 | :boom:   | 2021-12-28 13:16:00 | timaru       |      5 |        8 | Elizabeth Rose     |   2.9  | vulture            |
+|    | finish                   | time                | track        |   race |   number | name               |   odds | tipster            |
+|---:|:-------------------------|:--------------------|:-------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:                   | 2021-12-29 04:20:00 | newcastle    |      5 |        9 | Tefnut             |   4.4  | vulture            |
+|  1 | :soon:                   | 2021-12-29 03:50:00 | newcastle    |      4 |        2 | Ermin Street       |   5    | looseknot          |
+|  2 | :soon:                   | 2021-12-29 03:50:00 | newcastle    |      4 |       10 | Wadacre Grace      |   9.5  | looseknot          |
+|  3 | :soon:                   | 2021-12-29 02:40:00 | limerick     |      7 |        3 | Data Breach        |   5.5  | overthrow          |
+|  4 | :soon:                   | 2021-12-29 01:55:00 | leopardstown |      6 |        7 | Galopin Des Champs |   1.75 | overthrow          |
+|  5 | :soon:                   | 2021-12-29 01:55:00 | leopardstown |      6 |        6 | Fury Road          |   6.5  | pangea             |
+|  6 | 103.0                    | 2021-12-29 01:55:00 | turffontein  |      3 |        5 | Insatiable         |   1.01 | vulture            |
+|  7 | :soon:                   | 2021-12-29 01:55:00 | leopardstown |      6 |        2 | Blue Sari          |   8    | overthrow          |
+|  8 | :soon:                   | 2021-12-29 01:45:00 | leicester    |      6 |        6 | Docte Dina         |  11    | overthrow          |
+|  9 | :soon:                   | 2021-12-29 01:30:00 | catterick    |      5 |        2 | Obey The Rules     |   2.7  | vulture            |
+| 10 | :soon:                   | 2021-12-29 01:20:00 | leopardstown |      5 |        4 | Galvin             |   9    | vulture            |
+| 11 | :soon:                   | 2021-12-29 01:20:00 | leopardstown |      5 |        7 | Melon              |  19    | overthrow          |
+| 12 | :soon:                   | 2021-12-29 01:20:00 | leopardstown |      5 |        5 | Janidil            |   8.5  | evenodds,overthrow |
+| 13 | :soon:                   | 2021-12-29 01:13:00 | leicester    |      5 |        2 | Nurse Susan        |   1.4  | overthrow,lago     |
+| 14 | :soon:                   | 2021-12-29 01:13:00 | leicester    |      5 |        9 | Walkonthewildside  |   8.5  | looseknot          |
+| 15 | :soon:                   | 2021-12-29 01:13:00 | leicester    |      5 |        1 | Believe Jack       |   4.2  | vulture            |
+| 16 | :soon:                   | 2021-12-29 01:00:00 | catterick    |      4 |        6 | Turning Gold       |  31    | cosmo,bluey        |
+| 17 | :soon:                   | 2021-12-29 00:45:00 | leopardstown |      4 |        5 | Klassical Dream    |   3    | overthrow          |
+| 18 | :soon:                   | 2021-12-29 00:38:00 | leicester    |      4 |        3 | Call Me Lord       |   2.1  | overthrow          |
+| 19 | :soon:                   | 2021-12-29 00:10:00 | leopardstown |      3 |        5 | Maze Runner        |  11    | overthrow          |
+| 20 | :soon:                   | 2021-12-29 00:03:00 | leicester    |      3 |        4 | Jet Plane          |   3    | overthrow          |
+| 21 | :soon:                   | 2021-12-29 00:03:00 | leicester    |      3 |        5 | Moonlight Flit     |   2.35 | overthrow          |
+| 22 | :soon:                   | 2021-12-28 23:00:00 | leopardstown |      1 |       17 | Secret She Keeps   |  11    | milkman            |
+| 23 | :soon:                   | 2021-12-28 23:00:00 | leopardstown |      1 |       12 | Roaring Potter     |   4    | vulture            |
+| 24 | :soon:                   | 2021-12-28 23:00:00 | leopardstown |      1 |        5 | Horantzau D'airy   |   2.25 | evenodds,lago      |
+| 25 | :soon:                   | 2021-12-28 21:51:00 | belmont      |      8 |        4 | Celtic Court       |   5    | pikey              |
+| 26 | :soon:                   | 2021-12-28 21:51:00 | belmont      |      8 |       10 | Watch Me Ney Ney   |   8    | benny,blackshadow  |
+| 27 | :soon:                   | 2021-12-28 21:35:00 | greyville    |      1 |        4 | Insatiable         |   0    | vulture            |
+| 28 | :soon:                   | 2021-12-28 21:17:00 | belmont      |      7 |        8 | Fashion Queen      |   2.9  | pikey              |
+| 29 | :soon:                   | 2021-12-28 21:17:00 | belmont      |      7 |        3 | Brutus Maximus     |   4.8  | pangea             |
+| 30 | :soon:                   | 2021-12-28 20:44:00 | belmont      |      6 |        1 | Mirror Moon        |   2.5  | evenodds,pikey     |
+| 31 | :soon:                   | 2021-12-28 20:10:00 | belmont      |      5 |        8 | Soulsana           |   4.4  | pikey              |
+| 32 | :soon:                   | 2021-12-28 19:33:00 | belmont      |      4 |        8 | Bandalera Miss     |   4.33 | pikey              |
+| 33 | :hourglass_flowing_sand: | 2021-12-28 18:19:00 | belmont      |      2 |        3 | Total Lockdown     |   5.5  | overthrow          |
+| 34 | :hourglass_flowing_sand: | 2021-12-28 18:19:00 | belmont      |      2 |       11 | Rare Case          |   5.5  | pikey              |
+| 35 | --                       | 2021-12-28 17:45:00 | orange       |      7 |       11 | Louder             |   6.5  | benny,pangea       |
+| 36 | 5.0                      | 2021-12-28 17:31:00 | townsville   |      6 |        1 | Micawber           |   4.5  | looseknot          |
+| 37 | --                       | 2021-12-28 17:04:00 | warwick      |      6 |        9 | Uralba             |   4.8  | vulture            |
+| 38 | 5.0                      | 2021-12-28 16:56:00 | townsville   |      5 |        2 | Loud Enough        |  10    | evenodds,overthrow |
+| 39 | :2nd_place_medal:        | 2021-12-28 16:56:00 | townsville   |      5 |        6 | Hell Of A Boy      |   2.05 | vulture            |
+| 40 | :boom:                   | 2021-12-28 16:56:00 | townsville   |      5 |        5 | Silent Explorer    |   3.6  | vulture            |
+| 41 | 6.0                      | 2021-12-28 15:19:00 | arawa-park   |      8 |       10 | Eva Chiara         |   4.6  | milkman            |
+| 42 | 4.0                      | 2021-12-28 13:16:00 | timaru       |      5 |        6 | Itsonlymoney       |   3.5  | pangea             |
+| 43 | :boom:                   | 2021-12-28 13:16:00 | timaru       |      5 |        8 | Elizabeth Rose     |   2.9  | vulture            |
