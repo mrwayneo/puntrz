@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2021-12-29 06:27:35 +1000  
+date: 2021-12-29 06:42:20 +1000  
 categories: None 
 ---   
 
@@ -322,8 +322,8 @@ categories: None
 | :boom:            | 2021-07-24 | darwin R7                     | 2 That's Justified    |  4.1  |     31   |
 | :boom:            | 2021-07-24 | belmont R7                    | 12 Giant Leap         |  3.5  |     25   |
 | 5                 | 2021-07-24 | darwin R6                     | 4 Faolan              |  4.8  |    -10   |
-| :2nd_place_medal: | 2021-07-24 | mackay R7                     | 3 The Egyptian        |  4    |    -10   |
 | :boom:            | 2021-07-24 | mackay R7                     | 7 Princess Rules      |  4.7  |     37   |
+| :2nd_place_medal: | 2021-07-24 | mackay R7                     | 3 The Egyptian        |  4    |    -10   |
 | :2nd_place_medal: | 2021-07-24 | york R5                       | 5 Kettle Hill         |  3    |    -10   |
 | :boom:            | 2021-07-23 | mildura R5                    | 10 Starden Lass       |  5.7  |     47   |
 | 7                 | 2021-07-22 | townsville R6                 | 1 Beau Jet            | 10    |    -10   |
@@ -419,8 +419,8 @@ categories: None
 | :3rd_place_medal: | 2021-05-22 | murray-bdge R6                | 13 Hills              | 12    |    -10   |
 | :boom:            | 2021-05-22 | worcester R2                  | 1 Wishing And Hoping  |  5    |     40   |
 | :3rd_place_medal: | 2021-05-21 | cranbourne R4                 | 3 Runaway Train       |  4.65 |    -10   |
-| :boom:            | 2021-05-21 | mackay R5                     | 1 The Egyptian        |  1.5  |      5   |
 | 4                 | 2021-05-21 | mackay R5                     | 4 Slaydem             |  5.5  |    -10   |
+| :boom:            | 2021-05-21 | mackay R5                     | 1 The Egyptian        |  1.5  |      5   |
 | 99                | 2021-05-20 | vaal R3                       | 3 Pin Up              |  0    |    -10   |
 | 6                 | 2021-05-16 | hobart R8                     | 1 Galenus             |  2    |    -10   |
 | :boom:            | 2021-05-16 | hobart R6                     | 2 First Accused       |  1.7  |      7   |
@@ -483,8 +483,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-18 | hobart R4                     | 4 Judge Burns         |  8.5  |    -10   |
 | 7                 | 2021-04-17 | ascot R9                      | 3 Amelia's Contraire  |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-17 | randwick R10                  | 3 Entriviere          |  3.3  |    -10   |
-| 5                 | 2021-04-17 | caulfield R8                  | 3 How Womantic        |  4.2  |    -10   |
 | 8                 | 2021-04-17 | caulfield R8                  | 2 Yulong January      | 26    |    -10   |
+| 5                 | 2021-04-17 | caulfield R8                  | 3 How Womantic        |  4.2  |    -10   |
 | :2nd_place_medal: | 2021-04-17 | randwick R6                   | 9 Isotope             |  3.3  |    -10   |
 | :boom:            | 2021-04-17 | randwick R6                   | 1 Wild Ruler          |  5.7  |     47   |
 | :3rd_place_medal: | 2021-04-17 | alice-springs R2              | 4 The Captain         |  1.55 |    -10   |
@@ -667,8 +667,8 @@ categories: None
 | 8                 | 2020-11-04 | launceston R3                 | 1 Runaway Girl        |  1.92 |    -10   |
 | 4                 | 2020-11-04 | launceston R2                 | 4 Ivoryman            |  3.3  |    -10   |
 | 99                | 2020-11-04 | exeter R4                     | 9 Not That Fuisse     |  7.5  |    -10   |
-| :3rd_place_medal: | 2020-11-03 | hobart R6                     | 3 Deroche             |  1.46 |    -10   |
 | :2nd_place_medal: | 2020-11-03 | hobart R6                     | 4 Fragment            |  4.6  |    -10   |
+| :3rd_place_medal: | 2020-11-03 | hobart R6                     | 3 Deroche             |  1.46 |    -10   |
 | 4                 | 2020-11-03 | hobart R1                     | 5 Lady Foxwedge       |  4.25 |    -10   |
 | :2nd_place_medal: | 2020-11-01 | down-royal R5                 | 3 Easy Game           |  2.25 |    -10   |
 | 6                 | 2020-10-31 | ascot R9                      | 6 True Attraction     |  3.7  |    -10   |
@@ -688,8 +688,8 @@ categories: None
 | :boom:            | 2020-10-24 | doomben R1                    | 6 Niedorp             |  1.3  |      3   |
 | :boom:            | 2020-10-23 | launceston R6                 | 1 Galenus             |  2.1  |     11   |
 | :2nd_place_medal: | 2020-10-23 | launceston R5                 | 5 Ivoryman            |  7    |    -10   |
-| :2nd_place_medal: | 2020-10-23 | launceston R1                 | 3 Sir Simon           |  1.85 |    -10   |
 | :3rd_place_medal: | 2020-10-23 | launceston R1                 | 4 Sh'bourne Star      | 13    |    -10   |
+| :2nd_place_medal: | 2020-10-23 | launceston R1                 | 3 Sir Simon           |  1.85 |    -10   |
 | 6                 | 2020-10-22 | rockhampton R6                | 1 Barachiel           |  4.6  |    -10   |
 | 99                | 2020-10-19 | kempton R4                    | 3 Darling Maltaix     |  2.75 |    -10   |
 | 99                | 2020-10-18 | royal-ascot R4                | 1 Century Dream       | 19    |    -10   |
