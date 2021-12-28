@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-28 13:10:41 +1000  
+date: 2021-12-28 13:25:33 +1000  
 ---   
 
 
@@ -18,10 +18,10 @@ date: 2021-12-28 13:10:41 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      0 |      -60 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      6 |      0 |      -60 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      1 |     -118 | 0.07 | -0.84 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     13 |      0 |     -130 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      0 |     -140 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     18 |      0 |     -180 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      1 |     -401 | 0.02 | -0.91 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      1 |     -402 | 0.02 | -0.91 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     88 |      0 |     -880 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -120,5 +120,5 @@ date: 2021-12-28 13:10:41 +1000
 | 39 | :soon:   | 2021-12-28 16:56:00 | townsville   |      5 |        6 | Hell Of A Boy      |   2.05 | vulture            |
 | 40 | :soon:   | 2021-12-28 16:56:00 | townsville   |      5 |        5 | Silent Explorer    |   3.6  | vulture            |
 | 41 | :soon:   | 2021-12-28 15:19:00 | arawa-park   |      8 |       10 | Eva Chiara         |   4.6  | milkman            |
-| 42 | :soon:   | 2021-12-28 13:16:00 | timaru       |      5 |        6 | Itsonlymoney       |   3.5  | pangea             |
-| 43 | :soon:   | 2021-12-28 13:16:00 | timaru       |      5 |        8 | Elizabeth Rose     |   2.9  | vulture            |
+| 42 | 4.0      | 2021-12-28 13:16:00 | timaru       |      5 |        6 | Itsonlymoney       |   3.5  | pangea             |
+| 43 | :boom:   | 2021-12-28 13:16:00 | timaru       |      5 |        8 | Elizabeth Rose     |   2.9  | vulture            |
