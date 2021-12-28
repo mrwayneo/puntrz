@@ -1,22 +1,24 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-27 21:37:24 +1000  
+date: 2021-12-28 11:05:38 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      1 |     13   | 0.5  |  0.65 |
-| Last 28 Days   |     18 |      7 |     30.5 | 0.39 |  0.17 |
-| Last 6 Months  |    100 |     62 |   1463.3 | 0.62 |  1.46 |
-| Since Jan 2020 |    159 |     85 |   1494.3 | 0.53 |  0.94 |
+| Last 7 Days    |      4 |      1 |     -7   | 0.25 | -0.18 |
+| Last 28 Days   |     20 |      7 |     10.5 | 0.35 |  0.05 |
+| Last 6 Months  |    102 |     62 |   1443.3 | 0.61 |  1.42 |
+| Since Jan 2020 |    161 |     85 |   1474.3 | 0.53 |  0.92 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 00:40             | 2021-12-28 | chepstow R3            | 10 Saint Segal       |  8.5  |    -10   |
-| 23:05             | 2021-12-27 | leopardstown R1        | 9 Icare Allen        |  2.5  |    -10   |
+| 01:13             | 2021-12-29 | leicester R5           | 2 Nurse Susan        |  1.4  |    -10   |
+| 23:00             | 2021-12-28 | leopardstown R1        | 5 Horantzau D'airy   |  2.25 |    -10   |
+| 0                 | 2021-12-28 | chepstow R3            | 10 Saint Segal       |  0    |    -10   |
+| 0                 | 2021-12-27 | leopardstown R1        | 9 Icare Allen        |  0    |    -10   |
 | 0                 | 2021-12-26 | leopardstown R2        | 6 Goven              |  0    |    -10   |
 | :boom:            | 2021-12-26 | wetherby R2            | 4 Galia Des Liteaux  |  3.3  |     23   |
 | 0                 | 2021-12-18 | navan R2               | 15 Belle Metal       |  0    |    -10   |
