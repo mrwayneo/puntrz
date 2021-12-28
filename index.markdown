@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-28 18:22:29 +1000  
+date: 2021-12-28 20:46:50 +1000  
 ---   
 
 
@@ -108,9 +108,9 @@ date: 2021-12-28 18:22:29 +1000
 | 27 | :soon:                   | 2021-12-28 21:35:00 | greyville    |      1 |        4 | Insatiable         |   0    | vulture            |
 | 28 | :soon:                   | 2021-12-28 21:17:00 | belmont      |      7 |        8 | Fashion Queen      |   2.9  | pikey              |
 | 29 | :soon:                   | 2021-12-28 21:17:00 | belmont      |      7 |        3 | Brutus Maximus     |   4.8  | pangea             |
-| 30 | :soon:                   | 2021-12-28 20:44:00 | belmont      |      6 |        1 | Mirror Moon        |   2.5  | evenodds,pikey     |
-| 31 | :soon:                   | 2021-12-28 20:10:00 | belmont      |      5 |        8 | Soulsana           |   4.4  | pikey              |
-| 32 | :soon:                   | 2021-12-28 19:33:00 | belmont      |      4 |        8 | Bandalera Miss     |   4.33 | pikey              |
+| 30 | :hourglass_flowing_sand: | 2021-12-28 20:44:00 | belmont      |      6 |        1 | Mirror Moon        |   2.5  | evenodds,pikey     |
+| 31 | :hourglass_flowing_sand: | 2021-12-28 20:10:00 | belmont      |      5 |        8 | Soulsana           |   4.4  | pikey              |
+| 32 | :hourglass_flowing_sand: | 2021-12-28 19:33:00 | belmont      |      4 |        8 | Bandalera Miss     |   4.33 | pikey              |
 | 33 | :hourglass_flowing_sand: | 2021-12-28 18:19:00 | belmont      |      2 |        3 | Total Lockdown     |   5.5  | overthrow          |
 | 34 | :hourglass_flowing_sand: | 2021-12-28 18:19:00 | belmont      |      2 |       11 | Rare Case          |   5.5  | pikey              |
 | 35 | --                       | 2021-12-28 17:45:00 | orange       |      7 |       11 | Louder             |   6.5  | benny,pangea       |
