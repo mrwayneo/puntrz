@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-29 07:29:50 +1000  
+date: 2021-12-29 07:32:48 +1000  
 ---   
 
 
@@ -118,8 +118,8 @@ date: 2021-12-29 07:29:50 +1000
 | 36 | 5.0               | 2021-12-28 17:31:00 | townsville   |      6 |        1 | Micawber           |   4.5  | looseknot          |
 | 37 | --                | 2021-12-28 17:04:00 | warwick      |      6 |        9 | Uralba             |   4.8  | vulture            |
 | 38 | 5.0               | 2021-12-28 16:56:00 | townsville   |      5 |        2 | Loud Enough        |  10    | evenodds,overthrow |
-| 39 | :boom:            | 2021-12-28 16:56:00 | townsville   |      5 |        5 | Silent Explorer    |   3.6  | vulture            |
-| 40 | :2nd_place_medal: | 2021-12-28 16:56:00 | townsville   |      5 |        6 | Hell Of A Boy      |   2.05 | vulture            |
+| 39 | :2nd_place_medal: | 2021-12-28 16:56:00 | townsville   |      5 |        6 | Hell Of A Boy      |   2.05 | vulture            |
+| 40 | :boom:            | 2021-12-28 16:56:00 | townsville   |      5 |        5 | Silent Explorer    |   3.6  | vulture            |
 | 41 | 6.0               | 2021-12-28 15:19:00 | arawa-park   |      8 |       10 | Eva Chiara         |   4.6  | milkman            |
 | 42 | 4.0               | 2021-12-28 13:16:00 | timaru       |      5 |        6 | Itsonlymoney       |   3.5  | pangea             |
 | 43 | :boom:            | 2021-12-28 13:16:00 | timaru       |      5 |        8 | Elizabeth Rose     |   2.9  | vulture            |
