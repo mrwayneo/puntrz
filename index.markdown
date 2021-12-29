@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-29 14:58:41 +1000  
+date: 2021-12-29 15:14:19 +1000  
 ---   
 
 
@@ -127,6 +127,6 @@ date: 2021-12-29 14:58:41 +1000
 | 45 | :soon:   | 2021-12-29 16:10:00 | strathalbyn  |      5 |        1 | Gogolf Guru      |   7    | looseknot           |
 | 46 | :soon:   | 2021-12-29 15:59:00 | ipswich      |      4 |        4 | Sayl             |  16    | overthrow           |
 | 47 | :soon:   | 2021-12-29 15:39:00 | hobart       |      5 |        3 | Warrior Prince   |   3.4  | pangea,overthrow    |
-| 48 | :soon:   | 2021-12-29 15:10:00 | gosford      |      3 |        9 | Canbya           |   3.7  | vulture             |
-| 49 | :soon:   | 2021-12-29 15:10:00 | gosford      |      3 |        3 | Twice On Sunday  |   8    | benny,pangea        |
-| 50 | :soon:   | 2021-12-29 15:04:00 | hobart       |      4 |        4 | Dolce Casa       |   6.5  | overthrow           |
+| 48 | --       | 2021-12-29 15:10:00 | gosford      |      3 |        9 | Canbya           |   3.7  | vulture             |
+| 49 | --       | 2021-12-29 15:10:00 | gosford      |      3 |        3 | Twice On Sunday  |   8    | benny,pangea        |
+| 50 | --       | 2021-12-29 15:04:00 | hobart       |      4 |        4 | Dolce Casa       |   6.5  | overthrow           |
