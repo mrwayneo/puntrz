@@ -1,11 +1,28 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-30 07:43:34 +1000  
+date: 2021-12-30 08:02:40 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      0 |      -50 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      5 |      0 |      -50 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      7 |      0 |      -70 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     10 |      0 |     -100 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     12 |      0 |     -120 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     31 |      0 |     -310 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     37 |      0 |     -370 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,56 +76,39 @@ date: 2021-12-30 07:43:34 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6051 |    895 |  -8585.4 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7828 |    424 | -14420   | 0.05 | -0.18 |
 
-|    | finish            | time                | track        |   race |   number | name             |   odds | tipster             |
-|---:|:------------------|:--------------------|:-------------|-------:|---------:|:-----------------|-------:|:--------------------|
-|  0 | --                | 2021-12-30 02:35:00 | newbury      |      7 |        1 | Flash Collonges  |   5    | overthrow,milkman   |
-|  1 | --                | 2021-12-30 02:35:00 | newbury      |      7 |        8 | Patroclus        |   5.5  | overthrow           |
-|  2 | :boom:            | 2021-12-30 02:25:00 | leopardstown |      7 |        4 | The Nice Guy     |   2.05 | overthrow,lago      |
-|  3 | --                | 2021-12-30 02:25:00 | leopardstown |      7 |        6 | Flemencello      |   5.5  | overthrow           |
-|  4 | --                | 2021-12-30 02:25:00 | kenilworth   |      8 |        2 | Young Love       |   0    | vulture,milkman     |
-|  5 | --                | 2021-12-30 02:20:00 | doncaster    |      7 |        4 | Kapga De Lily    |   3.5  | milkman             |
-|  6 | --                | 2021-12-30 02:10:00 | limerick     |      6 |        5 | Duffys Getaway   |   5    | looseknot           |
-|  7 | :boom:            | 2021-12-30 02:05:00 | newbury      |      6 |        6 | Stage Star       |   2.6  | overthrow           |
-|  8 | :2nd_place_medal: | 2021-12-30 02:05:00 | newbury      |      6 |        7 | West Balboa      |   8.5  | evenodds,overthrow  |
-|  9 | 4.0               | 2021-12-30 02:05:00 | newbury      |      6 |        1 | Go Dante         |  17    | vulture             |
-| 10 | --                | 2021-12-30 02:05:00 | newbury      |      6 |        4 | Lossiemouth      |   4.2  | vulture,milkman     |
-| 11 | :boom:            | 2021-12-30 02:00:00 | kelso        |      6 |        1 | Soft Risk        |   1.4  | milkman             |
-| 12 | :3rd_place_medal: | 2021-12-30 01:45:00 | kenilworth   |      7 |        5 | Stiptelik        |   0    | milkman             |
-| 13 | --                | 2021-12-30 01:45:00 | kenilworth   |      7 |        7 | Twilight Hour    |   0    | milkman             |
-| 14 | :boom:            | 2021-12-30 01:20:00 | leopardstown |      5 |        4 | Sharjah          |   1.7  | overthrow           |
-| 15 | 4.0               | 2021-12-30 01:20:00 | leopardstown |      5 |        6 | Echoes In Rain   |   5.5  | overthrow           |
-| 16 | 4.0               | 2021-12-30 01:13:00 | doncaster    |      5 |        5 | Skatman          |   5    | milkman             |
-| 17 | --                | 2021-12-30 01:00:00 | newbury      |      4 |        2 | Monte Cristo     |  10    | overthrow           |
-| 18 | --                | 2021-12-30 01:00:00 | newbury      |      4 |        3 | Dickie Diver     |   9.5  | overthrow           |
-| 19 | --                | 2021-12-30 01:00:00 | newbury      |      4 |        6 | Red Risk         |  19    | overthrow           |
-| 20 | :2nd_place_medal: | 2021-12-30 00:45:00 | leopardstown |      4 |        7 | Run Wild Fred    |   3.8  | vulture             |
-| 21 | --                | 2021-12-30 00:45:00 | leopardstown |      4 |        6 | Ontheropes       |   6    | overthrow           |
-| 22 | --                | 2021-12-30 00:10:00 | leopardstown |      3 |        2 | Shewearsitwell   |   2.5  | evenodds,lago       |
-| 23 | --                | 2021-12-29 23:50:00 | newbury      |      2 |       13 | Surfman          |   3.6  | overthrow           |
-| 24 | --                | 2021-12-29 23:50:00 | newbury      |      2 |        5 | Horn Cape        |  13    | overthrow           |
-| 25 | --                | 2021-12-29 23:50:00 | newbury      |      2 |        3 | Fiesta De Vega   |  12    | milkman             |
-| 26 | :2nd_place_medal: | 2021-12-29 23:35:00 | leopardstown |      2 |        8 | Minella Crooner  |   9.5  | vulture             |
-| 27 | :3rd_place_medal: | 2021-12-29 23:35:00 | leopardstown |      2 |        7 | Kilcruit         |   2    | overthrow           |
-| 28 | :boom:            | 2021-12-29 23:15:00 | newbury      |      1 |        3 | Gran Luna        |   7    | overthrow,milkman   |
-| 29 | :boom:            | 2021-12-29 22:55:00 | doncaster    |      1 |        4 | Gala De Corton   |   5    | vulture             |
-| 30 | :3rd_place_medal: | 2021-12-29 22:10:00 | kenilworth   |      1 |        5 | Divine Dynasty   |   0    | vulture             |
-| 31 | 4.0               | 2021-12-29 19:30:00 | pinjarra     |      7 |        1 | Kimberley Boy    |   1.65 | pangea,icyhot       |
-| 32 | :boom:            | 2021-12-29 18:50:00 | pinjarra     |      6 |        3 | Material Witness |   2.8  | benny,pikey         |
-| 33 | :boom:            | 2021-12-29 17:34:00 | pinjarra     |      4 |        7 | Vevinsky         |   2.3  | pikey               |
-| 34 | :2nd_place_medal: | 2021-12-29 17:30:00 | gosford      |      7 |        2 | Brookspire       |   1.4  | vulture,wallbow     |
-| 35 | :3rd_place_medal: | 2021-12-29 17:24:00 | hobart       |      8 |        2 | Wardell          |   1.85 | evenodds,overthrow  |
-| 36 | 6.0               | 2021-12-29 17:20:00 | strathalbyn  |      7 |        1 | Mustari          |   3.75 | pangea,blackshadow  |
-| 37 | 7.0               | 2021-12-29 17:16:00 | canberra     |      7 |        1 | Mr Magical       |   4.2  | pangea              |
-| 38 | :boom:            | 2021-12-29 16:59:00 | pinjarra     |      3 |        8 | Extra Secret     |   2.3  | pikey               |
-| 39 | :boom:            | 2021-12-29 16:55:00 | gosford      |      6 |        3 | Bacchanalia      |   2.9  | vulture             |
-| 40 | 9.0               | 2021-12-29 16:55:00 | gosford      |      6 |        4 | Broken Hill      |  10    | vulture,blackshadow |
-| 41 | :2nd_place_medal: | 2021-12-29 16:24:00 | pinjarra     |      2 |        2 | Civvy Street     |   3.2  | pikey               |
-| 42 | :boom:            | 2021-12-29 16:24:00 | pinjarra     |      2 |        8 | Shake Baby Shake |   3.7  | vulture             |
-| 43 | :boom:            | 2021-12-29 16:20:00 | gosford      |      5 |        5 | Never Second     |   3    | benny,pangea        |
-| 44 | 6.0               | 2021-12-29 16:14:00 | hobart       |      6 |        4 | Liffeybeau       |   7    | pangea,blackshadow  |
-| 45 | 4.0               | 2021-12-29 16:10:00 | strathalbyn  |      5 |        1 | Gogolf Guru      |   7    | looseknot           |
-| 46 | :3rd_place_medal: | 2021-12-29 15:59:00 | ipswich      |      4 |        4 | Sayl             |  16    | overthrow           |
-| 47 | :boom:            | 2021-12-29 15:39:00 | hobart       |      5 |        3 | Warrior Prince   |   3.4  | pangea,overthrow    |
-| 48 | 6.0               | 2021-12-29 15:10:00 | gosford      |      3 |        9 | Canbya           |   3.7  | vulture             |
-| 49 | 5.0               | 2021-12-29 15:10:00 | gosford      |      3 |        3 | Twice On Sunday  |   8    | benny,pangea        |
-| 50 | 10.0              | 2021-12-29 15:04:00 | hobart       |      4 |        4 | Dolce Casa       |   6.5  | overthrow           |
+|    | finish   | time                | track                      |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:---------------------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2021-12-31 02:45:00 | haydock                    |      7 |        5 | Hermes Du Gouet    |   6    | vulture,milkman    |
+|  1 | :soon:   | 2021-12-31 02:45:00 | haydock                    |      7 |        4 | Forpaddytheplumber |   4    | vulture            |
+|  2 | :soon:   | 2021-12-31 02:30:00 | taunton                    |      7 |        1 | Time To Tinker     |   4.8  | overthrow          |
+|  3 | :soon:   | 2021-12-31 02:00:00 | taunton                    |      6 |        9 | The Boat           |   4.4  | looseknot          |
+|  4 | :soon:   | 2021-12-31 01:40:00 | haydock                    |      5 |        7 | Minella Charmer    |  34    | pangea             |
+|  5 | :soon:   | 2021-12-31 01:25:00 | taunton                    |      5 |        5 | Game On For Glory  |   5    | vulture            |
+|  6 | :soon:   | 2021-12-31 01:25:00 | taunton                    |      5 |        6 | Rainyday Woman     |   2.8  | evenodds,overthrow |
+|  7 | :soon:   | 2021-12-31 01:25:00 | taunton                    |      5 |        1 | Ahorsewithnoname   |   3.4  | evenodds,overthrow |
+|  8 | :soon:   | 2021-12-31 01:05:00 | haydock                    |      4 |        4 | Blaklion           |   3.3  | overthrow          |
+|  9 | :soon:   | 2021-12-31 00:50:00 | taunton                    |      4 |        4 | Lilly Pedlar       |  12    | overthrow          |
+| 10 | :soon:   | 2021-12-31 00:35:00 | haydock                    |      3 |        6 | Moveit Like Minnie |   8.5  | vulture,milkman    |
+| 11 | :soon:   | 2021-12-31 00:35:00 | haydock                    |      3 |        1 | Jungle Jack        |   4    | vulture            |
+| 12 | :soon:   | 2021-12-31 00:15:00 | taunton                    |      3 |       13 | Wolfspear          |   9.5  | milkman            |
+| 13 | :soon:   | 2021-12-31 00:15:00 | taunton                    |      3 |        7 | Kayf Baha          |  26    | milkman            |
+| 14 | :soon:   | 2021-12-31 00:15:00 | taunton                    |      3 |        1 | Brave Kingdom      |   1.9  | overthrow,milkman  |
+| 15 | :soon:   | 2021-12-31 00:00:00 | haydock                    |      2 |        1 | Ashtown Lad        |   5.5  | overthrow          |
+| 16 | :soon:   | 2021-12-30 23:45:00 | taunton                    |      2 |        9 | Irish Hill         |   2.8  | overthrow          |
+| 17 | :soon:   | 2021-12-30 20:37:00 | belmont                    |      7 |        4 | Off Wego           |   4.75 | benny,blackshadow  |
+| 18 | :soon:   | 2021-12-30 20:37:00 | belmont                    |      7 |        3 | Tapiconic          |   3    | vulture            |
+| 19 | :soon:   | 2021-12-30 20:00:00 | belmont                    |      6 |        8 | Magic To Exceed    |   3.2  | pangea,pikey       |
+| 20 | :soon:   | 2021-12-30 19:25:00 | belmont                    |      5 |        6 | Sioux City         |   5    | pikey              |
+| 21 | :soon:   | 2021-12-30 18:10:00 | belmont                    |      3 |        1 | Garage Days        |   5.5  | vulture            |
+| 22 | :soon:   | 2021-12-30 17:35:00 | belmont                    |      2 |        1 | Via Monte          |   3.75 | vulture            |
+| 23 | :soon:   | 2021-12-30 17:35:00 | belmont                    |      2 |        7 | Near Perfect       |   8    | looseknot,pikey    |
+| 24 | :soon:   | 2021-12-30 17:10:00 | rockhampton                |      7 |        4 | Brigalow Boy       |   1.91 | overthrow          |
+| 25 | :soon:   | 2021-12-30 16:57:00 | belmont                    |      1 |        3 | Mojo Rhythm        |   1.83 | pikey              |
+| 26 | :soon:   | 2021-12-30 16:35:00 | rockhampton                |      6 |        1 | Courtesy Bus       |   4    | pangea             |
+| 27 | :soon:   | 2021-12-30 16:35:00 | rockhampton                |      6 |        5 | Triptonic          |   9    | cosmo,bluey        |
+| 28 | :soon:   | 2021-12-30 16:35:00 | rockhampton                |      6 |        3 | Kasinova Kid       |   2.1  | vulture            |
+| 29 | :soon:   | 2021-12-30 15:55:00 | rockhampton                |      5 |        1 | Absolut Artie      |   2.62 | pangea             |
+| 30 | :soon:   | 2021-12-30 15:20:00 | rockhampton                |      4 |        3 | My Mate Vinny      |   5.5  | looseknot          |
+| 31 | :soon:   | 2021-12-30 14:00:00 | spendthrift-australia-park |      2 |        5 | Shouri Lad         |   5    | looseknot          |
+| 32 | :soon:   | 2021-12-30 13:35:00 | rockhampton                |      1 |        7 | Bright And Ready   |   3.1  | looseknot          |
+| 33 | :soon:   | 2021-12-30 12:47:00 | taupo                      |      5 |        4 | Habana             |   2.35 | vulture            |
