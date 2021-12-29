@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2021-12-29 16:14:37 +1000  
+date: 2021-12-29 18:54:49 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event             | runner             |   win |   return |
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
-| 17:30             | 2021-12-29 | gosford R7        | 2 Brookspire       |  1.4  |      -10 |
+| :2nd_place_medal: | 2021-12-29 | gosford R7        | 2 Brookspire       |  1.4  |      -10 |
 | 7                 | 2021-12-26 | randwick R7       | 2 So You Win       | 11    |      -10 |
 | 11                | 2021-12-26 | randwick R6       | 1 Selburose        |  6    |      -10 |
 | :2nd_place_medal: | 2021-12-26 | randwick R3       | 5 Wheelhouse       |  4.4  |      -10 |
