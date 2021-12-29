@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-29 18:54:53 +1000  
+date: 2021-12-30 06:14:00 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      1 |      -22 | 0.17 | -0.37 |
-| Last 28 Days   |     33 |      7 |      -84 | 0.21 | -0.25 |
-| Last 6 Months  |    504 |    136 |     -768 | 0.27 | -0.15 |
-| Since Jan 2020 |    793 |    203 |    -1277 | 0.26 | -0.16 |
+| Last 7 Days    |     10 |      4 |       32 | 0.4  |  0.32 |
+| Last 28 Days   |     32 |      7 |      -64 | 0.22 | -0.2  |
+| Last 6 Months  |    508 |    139 |     -714 | 0.27 | -0.14 |
+| Since Jan 2020 |    797 |    206 |    -1223 | 0.26 | -0.15 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2021-12-29 | pinjarra R6           | 3 Material Witness    |   0    |    -10   |
+| :boom:            | 2021-12-29 | pinjarra R6           | 3 Material Witness    |   3.3  |     23   |
 | :boom:            | 2021-12-29 | pinjarra R4           | 7 Vevinsky            |   2.8  |     18   |
 | :boom:            | 2021-12-29 | pinjarra R3           | 8 Extra Secret        |   3.3  |     23   |
 | :2nd_place_medal: | 2021-12-29 | pinjarra R2           | 2 Civvy Street        |   3.2  |    -10   |

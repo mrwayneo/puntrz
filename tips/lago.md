@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-29 18:54:53 +1000  
+date: 2021-12-30 06:14:01 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      1 |    -27   | 0.17 | -0.45 |
-| Last 28 Days   |     21 |      7 |      0.5 | 0.33 |  0    |
-| Last 6 Months  |    104 |     62 |   1423.3 | 0.6  |  1.37 |
-| Since Jan 2020 |    163 |     85 |   1454.3 | 0.52 |  0.89 |
+| Last 7 Days    |      8 |      2 |    -27   | 0.25 | -0.34 |
+| Last 28 Days   |     22 |      7 |     -5.5 | 0.32 | -0.02 |
+| Last 6 Months  |    106 |     63 |   1423.3 | 0.59 |  1.34 |
+| Since Jan 2020 |    165 |     86 |   1454.3 | 0.52 |  0.88 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 02:25             | 2021-12-30 | leopardstown R7        | 4 The Nice Guy       |  2.05 |    -10   |
-| 00:10             | 2021-12-30 | leopardstown R3        | 2 Shewearsitwell     |  2.5  |    -10   |
+| :boom:            | 2021-12-30 | leopardstown R7        | 4 The Nice Guy       |  2    |     10   |
+| 0                 | 2021-12-30 | leopardstown R3        | 2 Shewearsitwell     |  0    |    -10   |
 | 0                 | 2021-12-29 | leicester R5           | 2 Nurse Susan        |  0    |    -10   |
 | :2nd_place_medal: | 2021-12-28 | leopardstown R1        | 5 Horantzau D'airy   |  2.25 |    -10   |
 | 0                 | 2021-12-28 | chepstow R3            | 10 Saint Segal       |  0    |    -10   |
