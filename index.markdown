@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-29 15:36:48 +1000  
+date: 2021-12-29 15:51:50 +1000  
 ---   
 
 
@@ -18,10 +18,10 @@ date: 2021-12-29 15:36:48 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      0 |     -100 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      1 |      -67 | 0.1  | -0.67 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     12 |      0 |     -120 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     15 |      0 |     -150 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     23 |      1 |     -205 | 0.04 | -0.89 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     23 |      2 |     -172 | 0.09 | -0.75 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      2 |     -270 | 0.06 | -0.84 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     74 |      1 |     -415 | 0.01 | -0.56 |
 
@@ -126,7 +126,7 @@ date: 2021-12-29 15:36:48 +1000
 | 44 | :soon:   | 2021-12-29 16:14:00 | hobart       |      6 |        4 | Liffeybeau       |   7    | pangea,blackshadow  |
 | 45 | :soon:   | 2021-12-29 16:10:00 | strathalbyn  |      5 |        1 | Gogolf Guru      |   7    | looseknot           |
 | 46 | :soon:   | 2021-12-29 15:59:00 | ipswich      |      4 |        4 | Sayl             |  16    | overthrow           |
-| 47 | :soon:   | 2021-12-29 15:39:00 | hobart       |      5 |        3 | Warrior Prince   |   3.4  | pangea,overthrow    |
+| 47 | :boom:   | 2021-12-29 15:39:00 | hobart       |      5 |        3 | Warrior Prince   |   3.4  | pangea,overthrow    |
 | 48 | 6.0      | 2021-12-29 15:10:00 | gosford      |      3 |        9 | Canbya           |   3.7  | vulture             |
 | 49 | 5.0      | 2021-12-29 15:10:00 | gosford      |      3 |        3 | Twice On Sunday  |   8    | benny,pangea        |
 | 50 | 10.0     | 2021-12-29 15:04:00 | hobart       |      4 |        4 | Dolce Casa       |   6.5  | overthrow           |
