@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-30 17:04:29 +1000  
+date: 2021-12-30 17:19:38 +1000  
 ---   
 
 
@@ -102,7 +102,7 @@ date: 2021-12-30 17:04:29 +1000
 | 21 | :soon:            | 2021-12-30 18:10:00 | belmont                    |      3 |        1 | Garage Days        |   5.5  | vulture            |
 | 22 | :soon:            | 2021-12-30 17:35:00 | belmont                    |      2 |        1 | Via Monte          |   3.75 | vulture            |
 | 23 | :soon:            | 2021-12-30 17:35:00 | belmont                    |      2 |        7 | Near Perfect       |   8    | looseknot,pikey    |
-| 24 | :soon:            | 2021-12-30 17:10:00 | rockhampton                |      7 |        4 | Brigalow Boy       |   1.91 | overthrow          |
+| 24 | --                | 2021-12-30 17:10:00 | rockhampton                |      7 |        4 | Brigalow Boy       |   1.91 | overthrow          |
 | 25 | :3rd_place_medal: | 2021-12-30 16:57:00 | belmont                    |      1 |        3 | Mojo Rhythm        |   1.83 | pikey              |
 | 26 | :3rd_place_medal: | 2021-12-30 16:35:00 | rockhampton                |      6 |        1 | Courtesy Bus       |   4    | pangea             |
 | 27 | 7.0               | 2021-12-30 16:35:00 | rockhampton                |      6 |        5 | Triptonic          |   9    | cosmo,bluey        |
