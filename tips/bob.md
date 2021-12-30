@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2021-12-30 16:34:34 +1000  
+date: 2021-12-30 16:49:19 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 0                 | 2021-12-30 | spendthrift-australia-park R7 | 1 Vasmee              |   0    |    -10   |
+| :boom:            | 2021-12-30 | spendthrift-australia-park R7 | 1 Vasmee              |   9.1  |     81   |
 | 0                 | 2021-12-26 | wincanton R1                  | 1 Atjima              |   0    |    -10   |
 | 0                 | 2021-12-21 | wolverhampton R1              | 6 Ruby Red Empress    |   0    |    -10   |
 | 0                 | 2021-12-17 | uttoxeter R3                  | 6 Glebe Road          |   0    |    -10   |

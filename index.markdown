@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-30 16:34:35 +1000  
+date: 2021-12-30 16:49:20 +1000  
 ---   
 
 
@@ -9,11 +9,12 @@ date: 2021-12-30 16:34:35 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      1 |     81   | 1    |  8.1  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |    -10   | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |    -10   | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |    -10   | 0    | -1    |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |    -10   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |    -20   | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     37 |      2 |    -20   | 0.05 | -0.05 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      1 |    -27   | 0.2  | -0.54 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |    -40   | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |    -50   | 0    | -1    |
@@ -21,7 +22,6 @@ date: 2021-12-30 16:34:35 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      7 |      0 |    -70   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     12 |      1 |    -95   | 0.08 | -0.79 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     10 |      0 |   -100   | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     37 |      1 |   -111   | 0.03 | -0.3  |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     31 |      1 |   -295.5 | 0.03 | -0.95 |
 
 ##### Form Last 20 tips   
@@ -104,9 +104,9 @@ date: 2021-12-30 16:34:35 +1000
 | 23 | :soon:            | 2021-12-30 17:35:00 | belmont                    |      2 |        7 | Near Perfect       |   8    | looseknot,pikey    |
 | 24 | :soon:            | 2021-12-30 17:10:00 | rockhampton                |      7 |        4 | Brigalow Boy       |   1.91 | overthrow          |
 | 25 | :soon:            | 2021-12-30 16:57:00 | belmont                    |      1 |        3 | Mojo Rhythm        |   1.83 | pikey              |
-| 26 | :soon:            | 2021-12-30 16:35:00 | rockhampton                |      6 |        1 | Courtesy Bus       |   4    | pangea             |
-| 27 | :soon:            | 2021-12-30 16:35:00 | rockhampton                |      6 |        5 | Triptonic          |   9    | cosmo,bluey        |
-| 28 | :soon:            | 2021-12-30 16:35:00 | rockhampton                |      6 |        3 | Kasinova Kid       |   2.1  | vulture            |
+| 26 | :3rd_place_medal: | 2021-12-30 16:35:00 | rockhampton                |      6 |        1 | Courtesy Bus       |   4    | pangea             |
+| 27 | --                | 2021-12-30 16:35:00 | rockhampton                |      6 |        5 | Triptonic          |   9    | cosmo,bluey        |
+| 28 | :2nd_place_medal: | 2021-12-30 16:35:00 | rockhampton                |      6 |        3 | Kasinova Kid       |   2.1  | vulture            |
 | 29 | :boom:            | 2021-12-30 15:55:00 | rockhampton                |      5 |        1 | Absolut Artie      |   2.62 | pangea             |
 | 30 | :3rd_place_medal: | 2021-12-30 15:20:00 | rockhampton                |      4 |        3 | My Mate Vinny      |   5.5  | looseknot          |
 | 31 | 7.0               | 2021-12-30 14:00:00 | spendthrift-australia-park |      2 |        5 | Shouri Lad         |   5    | looseknot          |
