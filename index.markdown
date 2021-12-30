@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-30 18:04:36 +1000  
+date: 2021-12-30 18:19:21 +1000  
 ---   
 
 
@@ -99,7 +99,7 @@ date: 2021-12-30 18:04:36 +1000
 | 18 | :soon:            | 2021-12-30 20:37:00 | belmont                    |      7 |        3 | Tapiconic          |   3    | vulture            |
 | 19 | :soon:            | 2021-12-30 20:00:00 | belmont                    |      6 |        8 | Magic To Exceed    |   3.2  | pangea,pikey       |
 | 20 | :soon:            | 2021-12-30 19:25:00 | belmont                    |      5 |        6 | Sioux City         |   5    | pikey              |
-| 21 | :soon:            | 2021-12-30 18:10:00 | belmont                    |      3 |        1 | Garage Days        |   5.5  | vulture            |
+| 21 | :3rd_place_medal: | 2021-12-30 18:10:00 | belmont                    |      3 |        1 | Garage Days        |   5.5  | vulture            |
 | 22 | :boom:            | 2021-12-30 17:35:00 | belmont                    |      2 |        1 | Via Monte          |   3.75 | vulture            |
 | 23 | 5.0               | 2021-12-30 17:35:00 | belmont                    |      2 |        7 | Near Perfect       |   8    | looseknot,pikey    |
 | 24 | 7.0               | 2021-12-30 17:10:00 | rockhampton                |      7 |        4 | Brigalow Boy       |   1.91 | overthrow          |
