@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2021-12-30 19:34:41 +1000  
+date: 2021-12-30 19:49:35 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | :boom:            | 2021-12-26 | doomben R8        | 5 Roheryn            | 10.7  |     97   |
 | 5                 | 2021-12-26 | doomben R7        | 3 Reloaded           |  5.5  |    -10   |
 | :boom:            | 2021-12-26 | doomben R6        | 9 Coolangatta        |  1.3  |      3   |
-| 0                 | 2021-12-22 | warwick-farm R6   | 9 Quatenus           |  3.1  |    -10   |
+| :2nd_place_medal: | 2021-12-22 | warwick-farm R6   | 9 Quatenus           |  2.45 |    -10   |
 | 9                 | 2021-12-22 | warwick-farm R5   | 2 Miss Einstein      |  3    |    -10   |
 | :2nd_place_medal: | 2021-12-22 | warwick-farm R4   | 6 Damaged            |  9.5  |    -10   |
 | :2nd_place_medal: | 2021-12-22 | warwick-farm R3   | 4 Black Queen        |  3.8  |    -10   |

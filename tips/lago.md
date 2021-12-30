@@ -1,29 +1,28 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2021-12-30 19:34:41 +1000  
+date: 2021-12-30 19:49:35 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      8 |      2 |    -27   | 0.25 | -0.34 |
-| Last 28 Days   |     22 |      7 |     -5.5 | 0.32 | -0.02 |
-| Last 6 Months  |    106 |     63 |   1423.3 | 0.59 |  1.34 |
-| Since Jan 2020 |    165 |     86 |   1454.3 | 0.52 |  0.88 |
+| Last 7 Days    |      7 |      3 |     12   | 0.43 |  0.17 |
+| Last 28 Days   |     21 |      8 |     33.5 | 0.38 |  0.16 |
+| Last 6 Months  |    105 |     64 |   1462.3 | 0.61 |  1.39 |
+| Since Jan 2020 |    164 |     87 |   1493.3 | 0.53 |  0.91 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
 | :boom:            | 2021-12-30 | leopardstown R7        | 4 The Nice Guy       |  2    |     10   |
-| 0                 | 2021-12-30 | leopardstown R3        | 2 Shewearsitwell     |  0    |    -10   |
-| 0                 | 2021-12-29 | leicester R5           | 2 Nurse Susan        |  0    |    -10   |
-| :2nd_place_medal: | 2021-12-28 | leopardstown R1        | 5 Horantzau D'airy   |  2.25 |    -10   |
-| 0                 | 2021-12-28 | chepstow R3            | 10 Saint Segal       |  0    |    -10   |
-| 0                 | 2021-12-27 | leopardstown R1        | 9 Icare Allen        |  0    |    -10   |
-| 0                 | 2021-12-26 | leopardstown R2        | 6 Goven              |  0    |    -10   |
+| 99                | 2021-12-30 | leopardstown R3        | 2 Shewearsitwell     |  0    |    -10   |
+| :2nd_place_medal: | 2021-12-28 | leopardstown R1        | 5 Horantzau D'airy   |  2.2  |    -10   |
+| :2nd_place_medal: | 2021-12-28 | chepstow R3            | 10 Saint Segal       |  8    |    -10   |
+| :boom:            | 2021-12-27 | leopardstown R1        | 9 Icare Allen        |  2.9  |     19   |
+| 99                | 2021-12-26 | leopardstown R2        | 6 Goven              |  0    |    -10   |
 | :boom:            | 2021-12-26 | wetherby R2            | 4 Galia Des Liteaux  |  3.3  |     23   |
-| 0                 | 2021-12-18 | navan R2               | 15 Belle Metal       |  0    |    -10   |
+| 99                | 2021-12-18 | navan R2               | 15 Belle Metal       |  0    |    -10   |
 | :boom:            | 2021-12-18 | ascot R6               | 7 Henri The Second   |  4.4  |     34   |
 | :3rd_place_medal: | 2021-12-18 | ascot R4               | 4 Knappers Hill      |  4    |    -10   |
 | :boom:            | 2021-12-18 | ascot R4               | 3 Jonbon             |  2    |     10   |
@@ -54,8 +53,8 @@ categories: None
 | :boom:            | 2021-11-09 | huntingdon R1          | 7 Theatre Glory      |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3          | 3 Yes Dream          |  1.6  |      6   |
 | :boom:            | 2021-11-09 | kempton R3             | 3 Doddiethegreat     |  1.33 |      3.3 |
-| :boom:            | 2021-11-07 | sunshine-coast R5      | 5 Gypsy Goddess      |  3.5  |     25   |
 | :3rd_place_medal: | 2021-11-07 | sunshine-coast R5      | 2 Ma Ma's Rose       |  3.8  |    -10   |
+| :boom:            | 2021-11-07 | sunshine-coast R5      | 5 Gypsy Goddess      |  3.5  |     25   |
 | :boom:            | 2021-11-07 | wincanton R2           | 1 Knappers Hill      |  1.1  |      1   |
 | 0                 | 2021-11-05 | warwick R1             | 6 In This World      |  0    |    -10   |
 | 99                | 2021-11-03 | exeter R2              | 5 Huflower           |  0    |    -10   |
@@ -102,8 +101,8 @@ categories: None
 | :boom:            | 2021-08-14 | tramore R7             | 7 Coole Og           |  1.67 |      6.7 |
 | :boom:            | 2021-08-14 | newmarket R3           | 2 Coroebus           |  2.2  |     12   |
 | :boom:            | 2021-08-08 | kilbeggan R8           | 9 Flemencello        |  1.4  |      4   |
-| :2nd_place_medal: | 2021-07-31 | galway R8              | 15 Ashroe Diamond    |  2.5  |    -10   |
 | 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
+| :2nd_place_medal: | 2021-07-31 | galway R8              | 15 Ashroe Diamond    |  2.5  |    -10   |
 | 4                 | 2021-07-25 | uttoxeter R1           | 2 Knotty Ash         |  1.7  |    -10   |
 | :boom:            | 2021-07-22 | sandown R3             | 4 Inspiral           |  2.2  |     12   |
 | 99                | 2021-07-18 | newbury R7             | 2 Mawenzi            |  3.3  |    -10   |
@@ -113,8 +112,8 @@ categories: None
 | 99                | 2021-06-19 | royal-ascot R1         | 3 New Science        |  7.5  |    -10   |
 | 99                | 2021-06-19 | royal-ascot R3         | 21 Suesa             |  3.25 |    -10   |
 | 99                | 2021-06-17 | royal-ascot R1         | 9 Lucci              |  8    |    -10   |
-| 99                | 2021-06-17 | royal-ascot R6         | 26 Golden Bell       |  9    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R6         | 28 Ruthin            |  4    |    -10   |
+| 99                | 2021-06-17 | royal-ascot R6         | 26 Golden Bell       |  9    |    -10   |
 | 5                 | 2021-06-12 | sandown-hillside R1    | 1 Mimosas            | 13.2  |    -10   |
 | :boom:            | 2021-06-12 | clonmel R8             | 2 Dani Barcelona     |  1.62 |      6.2 |
 | :boom:            | 2021-06-11 | sandown R3             | 8 Native Trail       |  1.8  |      8   |

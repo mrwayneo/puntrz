@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-30 19:34:42 +1000  
+date: 2021-12-30 19:49:36 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2021-12-30 19:34:42 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      5 |      0 |    -50   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      7 |      0 |    -70   | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     10 |      0 |   -100   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     31 |      1 |   -295.5 | 0.03 | -0.95 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     30 |      1 |   -285.5 | 0.03 | -0.95 |
 
 ##### Form Last 20 tips   
 
@@ -30,14 +30,15 @@ date: 2021-12-30 19:34:42 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      4 |    430   | 0.2  |  2.15 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      1 |    140   | 0.05 |  0.7  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |    125   | 0.05 |  0.62 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     89.5 | 0.2  |  0.45 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      7 |     56   | 0.35 |  0.28 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     13 |     51   | 0.65 |  0.26 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |     43.5 | 0.4  |  0.22 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     41   | 0.1  |  0.2  |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      6 |     35   | 0.3  |  0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |     30   | 0.05 |  0.15 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      6 |     -4.5 | 0.3  | -0.02 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -12   | 0.2  | -0.06 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      6 |    -62   | 0.3  | -0.31 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      4 |    -95   | 0.2  | -0.48 |
@@ -48,23 +49,22 @@ date: 2021-12-30 19:34:42 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      2 |   -143   | 0.1  | -0.72 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      2 |   -148   | 0.1  | -0.74 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |    107 |     25 |   3661   | 0.23 |  3.42 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |    116 |     23 |   2511.5 | 0.2  |  2.17 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |    116 |     24 |   2851.5 | 0.21 |  2.46 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |     94 |     60 |   1542.1 | 0.64 |  1.64 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     58 |     58 |   1521.3 | 1    |  2.62 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |     95 |     59 |   1503.1 | 0.62 |  1.58 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    261 |     71 |    304.5 | 0.27 |  0.12 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     42 |     10 |    151.5 | 0.24 |  0.36 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     27 |     18 |     73   | 0.67 |  0.27 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    341 |     95 |      5.9 | 0.28 |  0    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    196 |     64 |   -166.9 | 0.33 | -0.09 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     53 |      9 |   -228   | 0.17 | -0.43 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    433 |    125 |   -347   | 0.29 | -0.08 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    432 |    125 |   -337   | 0.29 | -0.08 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    631 |    102 |   -373.3 | 0.16 | -0.06 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    345 |     69 |   -805.5 | 0.2  | -0.23 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    585 |    169 |   -901.2 | 0.29 | -0.15 |
@@ -73,7 +73,7 @@ date: 2021-12-30 19:34:42 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1088 |    271 |  -1809.7 | 0.25 | -0.17 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1766 |    376 |  -2153.4 | 0.21 | -0.12 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2819 |    706 |  -2919.2 | 0.25 | -0.1  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6044 |    899 |  -8382.4 | 0.15 | -0.14 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6006 |    902 |  -7849.4 | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7828 |    424 | -14420   | 0.05 | -0.18 |
 
 |    | finish            | time                | track                      |   race |   number | name               |   odds | tipster            |

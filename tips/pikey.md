@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-30 19:34:41 +1000  
+date: 2021-12-30 19:49:35 +1000  
 categories: None 
 ---   
 
@@ -9,9 +9,9 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |     10 |      4 |       32 | 0.4  |  0.32 |
-| Last 28 Days   |     32 |      7 |      -64 | 0.22 | -0.2  |
-| Last 6 Months  |    508 |    139 |     -714 | 0.27 | -0.14 |
-| Since Jan 2020 |    797 |    206 |    -1223 | 0.26 | -0.15 |
+| Last 28 Days   |     31 |      7 |      -54 | 0.23 | -0.17 |
+| Last 6 Months  |    507 |    139 |     -704 | 0.27 | -0.14 |
+| Since Jan 2020 |    796 |    206 |    -1213 | 0.26 | -0.15 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
@@ -34,7 +34,6 @@ categories: None
 | :boom:            | 2021-12-23 | pinjarra R4           | 1 Noble Scot          |   5.1  |     41   |
 | :2nd_place_medal: | 2021-12-23 | pinjarra R3           | 9 Fine Romance        |   1.65 |    -10   |
 | :boom:            | 2021-12-23 | pinjarra R2           | 9 Reliable Choice     |   1.4  |      4   |
-| 0                 | 2021-12-23 | pinjarra R1           | 1 Mojo Rhythm         |   0    |    -10   |
 | :boom:            | 2021-12-05 | pinjarra R9           | 12 Bandalera Miss     |   5.9  |     49   |
 | :2nd_place_medal: | 2021-12-05 | pinjarra R8           | 7 Fashion Queen       |   2.8  |    -10   |
 | 4                 | 2021-12-05 | pinjarra R6           | 4 Airlie Queen        |   4.5  |    -10   |
