@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-30 17:34:33 +1000  
+date: 2021-12-30 17:49:19 +1000  
 ---   
 
 
@@ -17,10 +17,10 @@ date: 2021-12-30 17:34:33 +1000
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     37 |      2 |    -20   | 0.05 | -0.05 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      1 |    -27   | 0.2  | -0.54 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |    -40   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     12 |      2 |    -44   | 0.17 | -0.37 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |    -50   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      5 |      0 |    -50   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      7 |      0 |    -70   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     12 |      1 |    -95   | 0.08 | -0.79 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     10 |      0 |   -100   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     31 |      1 |   -295.5 | 0.03 | -0.95 |
 
@@ -100,9 +100,9 @@ date: 2021-12-30 17:34:33 +1000
 | 19 | :soon:            | 2021-12-30 20:00:00 | belmont                    |      6 |        8 | Magic To Exceed    |   3.2  | pangea,pikey       |
 | 20 | :soon:            | 2021-12-30 19:25:00 | belmont                    |      5 |        6 | Sioux City         |   5    | pikey              |
 | 21 | :soon:            | 2021-12-30 18:10:00 | belmont                    |      3 |        1 | Garage Days        |   5.5  | vulture            |
-| 22 | :soon:            | 2021-12-30 17:35:00 | belmont                    |      2 |        1 | Via Monte          |   3.75 | vulture            |
-| 23 | :soon:            | 2021-12-30 17:35:00 | belmont                    |      2 |        7 | Near Perfect       |   8    | looseknot,pikey    |
-| 24 | --                | 2021-12-30 17:10:00 | rockhampton                |      7 |        4 | Brigalow Boy       |   1.91 | overthrow          |
+| 22 | :boom:            | 2021-12-30 17:35:00 | belmont                    |      2 |        1 | Via Monte          |   3.75 | vulture            |
+| 23 | --                | 2021-12-30 17:35:00 | belmont                    |      2 |        7 | Near Perfect       |   8    | looseknot,pikey    |
+| 24 | 7.0               | 2021-12-30 17:10:00 | rockhampton                |      7 |        4 | Brigalow Boy       |   1.91 | overthrow          |
 | 25 | :3rd_place_medal: | 2021-12-30 16:57:00 | belmont                    |      1 |        3 | Mojo Rhythm        |   1.83 | pikey              |
 | 26 | :3rd_place_medal: | 2021-12-30 16:35:00 | rockhampton                |      6 |        1 | Courtesy Bus       |   4    | pangea             |
 | 27 | 7.0               | 2021-12-30 16:35:00 | rockhampton                |      6 |        5 | Triptonic          |   9    | cosmo,bluey        |
