@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-30 16:49:18 +1000  
+date: 2021-12-30 17:04:28 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 20:00             | 2021-12-30 | belmont R6            | 8 Magic To Exceed     |   3.2  |    -10   |
 | 19:25             | 2021-12-30 | belmont R5            | 6 Sioux City          |   5    |    -10   |
 | 17:35             | 2021-12-30 | belmont R2            | 7 Near Perfect        |   8    |    -10   |
-| 16:57             | 2021-12-30 | belmont R1            | 3 Mojo Rhythm         |   1.83 |    -10   |
+| :3rd_place_medal: | 2021-12-30 | belmont R1            | 3 Mojo Rhythm         |   1.83 |    -10   |
 | :boom:            | 2021-12-29 | pinjarra R6           | 3 Material Witness    |   3.3  |     23   |
 | :boom:            | 2021-12-29 | pinjarra R4           | 7 Vevinsky            |   2.8  |     18   |
 | :boom:            | 2021-12-29 | pinjarra R3           | 8 Extra Secret        |   3.3  |     23   |
