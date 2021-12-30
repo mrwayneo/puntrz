@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-30 19:19:44 +1000  
+date: 2021-12-30 19:34:42 +1000  
 ---   
 
 
@@ -41,13 +41,13 @@ date: 2021-12-30 19:19:44 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -12   | 0.2  | -0.06 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      6 |    -62   | 0.3  | -0.31 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      4 |    -95   | 0.2  | -0.48 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      4 |   -109.4 | 0.2  | -0.55 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |   -115   | 0.15 | -0.57 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |   -119   | 0.15 | -0.6  |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      3 |   -123.8 | 0.15 | -0.62 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -141   | 0.1  | -0.7  |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      2 |   -143   | 0.1  | -0.72 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      2 |   -148   | 0.1  | -0.74 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      0 |   -200   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
@@ -62,43 +62,43 @@ date: 2021-12-30 19:19:44 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     42 |     10 |    151.5 | 0.24 |  0.36 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     27 |     18 |     73   | 0.67 |  0.27 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    341 |     95 |      5.9 | 0.28 |  0    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    197 |     64 |   -176.9 | 0.32 | -0.09 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    196 |     64 |   -166.9 | 0.33 | -0.09 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     53 |      9 |   -228   | 0.17 | -0.43 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    433 |    125 |   -347   | 0.29 | -0.08 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    633 |    102 |   -393.3 | 0.16 | -0.06 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    631 |    102 |   -373.3 | 0.16 | -0.06 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    345 |     69 |   -805.5 | 0.2  | -0.23 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    585 |    169 |   -901.2 | 0.29 | -0.15 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2509 |    140 |  -1616   | 0.06 | -0.06 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2049 |    515 |  -1703.4 | 0.25 | -0.08 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1093 |    268 |  -1946.1 | 0.25 | -0.18 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1769 |    376 |  -2183.4 | 0.21 | -0.12 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2823 |    701 |  -3159.8 | 0.25 | -0.11 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6051 |    895 |  -8585.4 | 0.15 | -0.14 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2505 |    141 |  -1236   | 0.06 | -0.05 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2042 |    522 |  -1424   | 0.26 | -0.07 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1088 |    271 |  -1809.7 | 0.25 | -0.17 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1766 |    376 |  -2153.4 | 0.21 | -0.12 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2819 |    706 |  -2919.2 | 0.25 | -0.1  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6044 |    899 |  -8382.4 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7828 |    424 | -14420   | 0.05 | -0.18 |
 
 |    | finish            | time                | track                      |   race |   number | name               |   odds | tipster            |
 |---:|:------------------|:--------------------|:---------------------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:            | 2021-12-31 02:45:00 | haydock                    |      7 |        5 | Hermes Du Gouet    |   6    | vulture,milkman    |
-|  1 | :soon:            | 2021-12-31 02:45:00 | haydock                    |      7 |        4 | Forpaddytheplumber |   4    | vulture            |
+|  0 | :soon:            | 2021-12-31 02:45:00 | haydock                    |      7 |        5 | Hermes Du Gouet    |   5.5  | vulture,milkman    |
+|  1 | :soon:            | 2021-12-31 02:45:00 | haydock                    |      7 |        4 | Forpaddytheplumber |   4.2  | vulture            |
 |  2 | :soon:            | 2021-12-31 02:30:00 | taunton                    |      7 |        1 | Time To Tinker     |   4.8  | overthrow          |
-|  3 | :soon:            | 2021-12-31 02:00:00 | taunton                    |      6 |        9 | The Boat           |   4.4  | looseknot          |
+|  3 | :soon:            | 2021-12-31 02:00:00 | taunton                    |      6 |        9 | The Boat           |   4.2  | looseknot          |
 |  4 | :soon:            | 2021-12-31 01:40:00 | haydock                    |      5 |        7 | Minella Charmer    |  34    | pangea             |
 |  5 | :soon:            | 2021-12-31 01:25:00 | taunton                    |      5 |        5 | Game On For Glory  |   5.5  | vulture            |
 |  6 | :soon:            | 2021-12-31 01:25:00 | taunton                    |      5 |        6 | Rainyday Woman     |   2.2  | evenodds,overthrow |
 |  7 | :soon:            | 2021-12-31 01:25:00 | taunton                    |      5 |        1 | Ahorsewithnoname   |   3.5  | evenodds,overthrow |
-|  8 | :soon:            | 2021-12-31 01:05:00 | haydock                    |      4 |        4 | Blaklion           |   3.3  | overthrow          |
+|  8 | :soon:            | 2021-12-31 01:05:00 | haydock                    |      4 |        4 | Blaklion           |   3.5  | overthrow          |
 |  9 | :soon:            | 2021-12-31 00:50:00 | taunton                    |      4 |        4 | Lilly Pedlar       |  12    | overthrow          |
-| 10 | :soon:            | 2021-12-31 00:35:00 | haydock                    |      3 |        6 | Moveit Like Minnie |   8.5  | vulture,milkman    |
-| 11 | :soon:            | 2021-12-31 00:35:00 | haydock                    |      3 |        1 | Jungle Jack        |   4    | vulture            |
+| 10 | :soon:            | 2021-12-31 00:35:00 | haydock                    |      3 |        6 | Moveit Like Minnie |   9.5  | vulture,milkman    |
+| 11 | :soon:            | 2021-12-31 00:35:00 | haydock                    |      3 |        1 | Jungle Jack        |   3.9  | vulture            |
 | 12 | :soon:            | 2021-12-31 00:15:00 | taunton                    |      3 |       13 | Wolfspear          |   9.5  | milkman            |
-| 13 | :soon:            | 2021-12-31 00:15:00 | taunton                    |      3 |        7 | Kayf Baha          |  26    | milkman            |
-| 14 | :soon:            | 2021-12-31 00:15:00 | taunton                    |      3 |        1 | Brave Kingdom      |   1.9  | overthrow,milkman  |
-| 15 | :soon:            | 2021-12-31 00:00:00 | haydock                    |      2 |        1 | Ashtown Lad        |   5.5  | overthrow          |
+| 13 | :soon:            | 2021-12-31 00:15:00 | taunton                    |      3 |        7 | Kayf Baha          |  41    | milkman            |
+| 14 | :soon:            | 2021-12-31 00:15:00 | taunton                    |      3 |        1 | Brave Kingdom      |   1.7  | overthrow,milkman  |
+| 15 | :soon:            | 2021-12-31 00:00:00 | haydock                    |      2 |        1 | Ashtown Lad        |   5    | overthrow          |
 | 16 | :soon:            | 2021-12-30 23:45:00 | taunton                    |      2 |        9 | Irish Hill         |   2.8  | overthrow          |
 | 17 | :soon:            | 2021-12-30 20:37:00 | belmont                    |      7 |        4 | Off Wego           |   4.8  | benny,blackshadow  |
 | 18 | :soon:            | 2021-12-30 20:37:00 | belmont                    |      7 |        3 | Tapiconic          |   3.2  | vulture            |
-| 19 | :soon:            | 2021-12-30 20:00:00 | belmont                    |      6 |        8 | Magic To Exceed    |   3.2  | pangea,pikey       |
-| 20 | :soon:            | 2021-12-30 19:25:00 | belmont                    |      5 |        6 | Sioux City         |   5    | pikey              |
+| 19 | :soon:            | 2021-12-30 20:00:00 | belmont                    |      6 |        8 | Magic To Exceed    |   3.1  | pangea,pikey       |
+| 20 | :2nd_place_medal: | 2021-12-30 19:25:00 | belmont                    |      5 |        6 | Sioux City         |   5    | pikey              |
 | 21 | :3rd_place_medal: | 2021-12-30 18:10:00 | belmont                    |      3 |        1 | Garage Days        |   5.5  | vulture            |
 | 22 | :boom:            | 2021-12-30 17:35:00 | belmont                    |      2 |        1 | Via Monte          |   3.75 | vulture            |
 | 23 | 5.0               | 2021-12-30 17:35:00 | belmont                    |      2 |        7 | Near Perfect       |   8    | looseknot,pikey    |
