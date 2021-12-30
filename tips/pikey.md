@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2021-12-30 20:04:39 +1000  
+date: 2021-12-30 20:19:30 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2021-12-30 | belmont R6            | 8 Magic To Exceed     |   0    |    -10   |
+| 4                 | 2021-12-30 | belmont R6            | 8 Magic To Exceed     |   3.1  |    -10   |
 | :2nd_place_medal: | 2021-12-30 | belmont R5            | 6 Sioux City          |   5    |    -10   |
 | 5                 | 2021-12-30 | belmont R2            | 7 Near Perfect        |   8    |    -10   |
 | :3rd_place_medal: | 2021-12-30 | belmont R1            | 3 Mojo Rhythm         |   1.83 |    -10   |

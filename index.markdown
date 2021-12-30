@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-30 20:04:40 +1000  
+date: 2021-12-30 20:19:32 +1000  
 ---   
 
 
@@ -97,7 +97,7 @@ date: 2021-12-30 20:04:40 +1000
 | 16 | :soon:            | 2021-12-30 23:45:00 | taunton                    |      2 |        9 | Irish Hill         |   2.8  | overthrow          |
 | 17 | :soon:            | 2021-12-30 20:37:00 | belmont                    |      7 |        4 | Off Wego           |   4.8  | benny,blackshadow  |
 | 18 | :soon:            | 2021-12-30 20:37:00 | belmont                    |      7 |        3 | Tapiconic          |   3.2  | vulture            |
-| 19 | --                | 2021-12-30 20:00:00 | belmont                    |      6 |        8 | Magic To Exceed    |   3.1  | pangea,pikey       |
+| 19 | 4.0               | 2021-12-30 20:00:00 | belmont                    |      6 |        8 | Magic To Exceed    |   3.1  | pangea,pikey       |
 | 20 | :2nd_place_medal: | 2021-12-30 19:25:00 | belmont                    |      5 |        6 | Sioux City         |   5    | pikey              |
 | 21 | :3rd_place_medal: | 2021-12-30 18:10:00 | belmont                    |      3 |        1 | Garage Days        |   5.5  | vulture            |
 | 22 | :boom:            | 2021-12-30 17:35:00 | belmont                    |      2 |        1 | Via Monte          |   3.75 | vulture            |
