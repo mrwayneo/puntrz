@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-30 19:04:32 +1000  
+date: 2021-12-30 19:19:44 +1000  
 ---   
 
 
@@ -39,8 +39,8 @@ date: 2021-12-30 19:04:32 +1000
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |     30   | 0.05 |  0.15 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      6 |     -4.5 | 0.3  | -0.02 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -12   | 0.2  | -0.06 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      6 |    -62   | 0.3  | -0.31 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      4 |    -95   | 0.2  | -0.48 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -97   | 0.25 | -0.48 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |   -115   | 0.15 | -0.57 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |   -119   | 0.15 | -0.6  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      3 |   -123.8 | 0.15 | -0.62 |
@@ -66,13 +66,13 @@ date: 2021-12-30 19:04:32 +1000
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     53 |      9 |   -228   | 0.17 | -0.43 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    433 |    125 |   -347   | 0.29 | -0.08 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    633 |    102 |   -393.3 | 0.16 | -0.06 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    346 |     69 |   -815.5 | 0.2  | -0.24 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    586 |    169 |   -911.2 | 0.29 | -0.16 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    345 |     69 |   -805.5 | 0.2  | -0.23 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    585 |    169 |   -901.2 | 0.29 | -0.15 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2509 |    140 |  -1616   | 0.06 | -0.06 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2049 |    515 |  -1703.4 | 0.25 | -0.08 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1093 |    268 |  -1946.1 | 0.25 | -0.18 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1769 |    376 |  -2183.4 | 0.21 | -0.12 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2824 |    701 |  -3169.8 | 0.25 | -0.11 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2823 |    701 |  -3159.8 | 0.25 | -0.11 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6051 |    895 |  -8585.4 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7828 |    424 | -14420   | 0.05 | -0.18 |
 
@@ -83,9 +83,9 @@ date: 2021-12-30 19:04:32 +1000
 |  2 | :soon:            | 2021-12-31 02:30:00 | taunton                    |      7 |        1 | Time To Tinker     |   4.8  | overthrow          |
 |  3 | :soon:            | 2021-12-31 02:00:00 | taunton                    |      6 |        9 | The Boat           |   4.4  | looseknot          |
 |  4 | :soon:            | 2021-12-31 01:40:00 | haydock                    |      5 |        7 | Minella Charmer    |  34    | pangea             |
-|  5 | :soon:            | 2021-12-31 01:25:00 | taunton                    |      5 |        5 | Game On For Glory  |   5    | vulture            |
-|  6 | :soon:            | 2021-12-31 01:25:00 | taunton                    |      5 |        6 | Rainyday Woman     |   2.8  | evenodds,overthrow |
-|  7 | :soon:            | 2021-12-31 01:25:00 | taunton                    |      5 |        1 | Ahorsewithnoname   |   3.4  | evenodds,overthrow |
+|  5 | :soon:            | 2021-12-31 01:25:00 | taunton                    |      5 |        5 | Game On For Glory  |   5.5  | vulture            |
+|  6 | :soon:            | 2021-12-31 01:25:00 | taunton                    |      5 |        6 | Rainyday Woman     |   2.2  | evenodds,overthrow |
+|  7 | :soon:            | 2021-12-31 01:25:00 | taunton                    |      5 |        1 | Ahorsewithnoname   |   3.5  | evenodds,overthrow |
 |  8 | :soon:            | 2021-12-31 01:05:00 | haydock                    |      4 |        4 | Blaklion           |   3.3  | overthrow          |
 |  9 | :soon:            | 2021-12-31 00:50:00 | taunton                    |      4 |        4 | Lilly Pedlar       |  12    | overthrow          |
 | 10 | :soon:            | 2021-12-31 00:35:00 | haydock                    |      3 |        6 | Moveit Like Minnie |   8.5  | vulture,milkman    |
@@ -95,8 +95,8 @@ date: 2021-12-30 19:04:32 +1000
 | 14 | :soon:            | 2021-12-31 00:15:00 | taunton                    |      3 |        1 | Brave Kingdom      |   1.9  | overthrow,milkman  |
 | 15 | :soon:            | 2021-12-31 00:00:00 | haydock                    |      2 |        1 | Ashtown Lad        |   5.5  | overthrow          |
 | 16 | :soon:            | 2021-12-30 23:45:00 | taunton                    |      2 |        9 | Irish Hill         |   2.8  | overthrow          |
-| 17 | :soon:            | 2021-12-30 20:37:00 | belmont                    |      7 |        4 | Off Wego           |   4.75 | benny,blackshadow  |
-| 18 | :soon:            | 2021-12-30 20:37:00 | belmont                    |      7 |        3 | Tapiconic          |   3    | vulture            |
+| 17 | :soon:            | 2021-12-30 20:37:00 | belmont                    |      7 |        4 | Off Wego           |   4.8  | benny,blackshadow  |
+| 18 | :soon:            | 2021-12-30 20:37:00 | belmont                    |      7 |        3 | Tapiconic          |   3.2  | vulture            |
 | 19 | :soon:            | 2021-12-30 20:00:00 | belmont                    |      6 |        8 | Magic To Exceed    |   3.2  | pangea,pikey       |
 | 20 | :soon:            | 2021-12-30 19:25:00 | belmont                    |      5 |        6 | Sioux City         |   5    | pikey              |
 | 21 | :3rd_place_medal: | 2021-12-30 18:10:00 | belmont                    |      3 |        1 | Garage Days        |   5.5  | vulture            |
