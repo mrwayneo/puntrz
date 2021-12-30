@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-30 14:09:21 +1000  
+date: 2021-12-30 14:48:16 +1000  
 ---   
 
 
@@ -109,6 +109,6 @@ date: 2021-12-30 14:09:21 +1000
 | 28 | :soon:            | 2021-12-30 16:35:00 | rockhampton                |      6 |        3 | Kasinova Kid       |   2.1  | vulture            |
 | 29 | :soon:            | 2021-12-30 15:55:00 | rockhampton                |      5 |        1 | Absolut Artie      |   2.62 | pangea             |
 | 30 | :soon:            | 2021-12-30 15:20:00 | rockhampton                |      4 |        3 | My Mate Vinny      |   5.5  | looseknot          |
-| 31 | --                | 2021-12-30 14:00:00 | spendthrift-australia-park |      2 |        5 | Shouri Lad         |   5    | looseknot          |
+| 31 | 7.0               | 2021-12-30 14:00:00 | spendthrift-australia-park |      2 |        5 | Shouri Lad         |   5    | looseknot          |
 | 32 | :3rd_place_medal: | 2021-12-30 13:35:00 | rockhampton                |      1 |        7 | Bright And Ready   |   3.1  | looseknot          |
 | 33 | :boom:            | 2021-12-30 12:47:00 | taupo                      |      5 |        4 | Habana             |   2.35 | vulture            |
