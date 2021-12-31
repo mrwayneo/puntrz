@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-31 22:31:06 +1000  
+date: 2021-12-31 22:49:36 +1000  
 ---   
 
 
@@ -33,6 +33,7 @@ date: 2021-12-31 22:31:06 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     41   | 0.1  |  0.2  |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      6 |     35   | 0.3  |  0.18 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |    -59   | 0.15 | -0.3  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |    -90   | 0.05 | -0.45 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |    -92   | 0.2  | -0.46 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -97   | 0.25 | -0.48 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      4 |   -109.4 | 0.2  | -0.55 |
@@ -43,7 +44,6 @@ date: 2021-12-31 22:31:06 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      1 |   -160   | 0.05 | -0.8  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      0 |   -200   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
@@ -85,7 +85,7 @@ date: 2021-12-31 22:31:06 +1000
 |  9 | :soon:            | 2021-12-31 23:45:00 | punchestown   |      3 |       14 | Vauban             |   1.7  | evenodds,overthrow |
 | 10 | :soon:            | 2021-12-31 23:30:00 | warwick       |      2 |        4 | Gentle Connections |   3.25 | overthrow          |
 | 11 | :soon:            | 2021-12-31 23:30:00 | warwick       |      2 |        1 | Love Envoi         |   2.2  | milkman            |
-| 12 | :soon:            | 2021-12-31 22:45:00 | punchestown   |      1 |        2 | Egality Mans       |   2.25 | overthrow          |
+| 12 | --                | 2021-12-31 22:45:00 | punchestown   |      1 |        2 | Egality Mans       |   2.25 | overthrow          |
 | 13 | :2nd_place_medal: | 2021-12-31 18:50:00 | ipswich       |      8 |        1 | All Stashed Up     |   1.73 | milkman            |
 | 14 | :boom:            | 2021-12-31 18:50:00 | ipswich       |      8 |        7 | Exceptional Belle  |  10    | looseknot          |
 | 15 | 4.0               | 2021-12-31 18:45:00 | moonee-valley |      4 |        8 | Race Against Time  |   6    | pangea             |
