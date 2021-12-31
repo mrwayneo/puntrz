@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-01-01 07:38:19 +1000  
+date: 2022-01-01 07:53:05 +1000  
 categories: None 
 ---   
 
@@ -112,8 +112,8 @@ categories: None
 | 99                | 2021-10-27 | bangor R6               | 7 Stop Talking        |  0    |    -10   |
 | :boom:            | 2021-10-23 | ascot R7                | 5 Wilchino            |  2.8  |     18   |
 | :boom:            | 2021-10-23 | ascot R6                | 4 Magical Dream       |  6.5  |     55   |
-| :2nd_place_medal: | 2021-10-23 | doomben R5              | 1 Tiger Heart         |  1.65 |    -10   |
 | :boom:            | 2021-10-23 | doomben R5              | 2 Birriecart          |  2.3  |     13   |
+| :2nd_place_medal: | 2021-10-23 | doomben R5              | 1 Tiger Heart         |  1.65 |    -10   |
 | :2nd_place_medal: | 2021-10-23 | doomben R4              | 1 Ligulate            |  9    |    -10   |
 | :boom:            | 2021-10-22 | launceston R5           | 1 Deroche             |  1.9  |      9   |
 | 8                 | 2021-10-22 | moonee-valley R6        | 8 Overkill            |  8    |    -10   |
@@ -272,8 +272,8 @@ categories: None
 | 4                 | 2021-05-16 | albany R5               | 9 Island Charm        |  1.76 |    -10   |
 | :boom:            | 2021-05-15 | newbury R3              | 1 Al Aasy             |  2.1  |     11   |
 | :2nd_place_medal: | 2021-05-15 | ascot R8                | 3 Elite Street        |  4.4  |    -10   |
-| :2nd_place_medal: | 2021-05-15 | morphettville R8        | 9 Instant Celebrity   |  5.5  |    -10   |
 | 10                | 2021-05-15 | morphettville R8        | 8 Beau Rossa          | 17    |    -10   |
+| :2nd_place_medal: | 2021-05-15 | morphettville R8        | 9 Instant Celebrity   |  5.5  |    -10   |
 | :3rd_place_medal: | 2021-05-15 | doomben R7              | 7 The Harrovian       | 31    |    -10   |
 | 10                | 2021-05-15 | morphettville R3        | 10 That Girl          | 10    |    -10   |
 | 5                 | 2021-05-14 | scone R5                | 2 Total Recall        |  5    |    -10   |
