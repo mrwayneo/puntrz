@@ -1,11 +1,29 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 07:23:12 +1000  
+date: 2022-01-01 07:36:27 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 |    0 |    -1 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      3 |      0 |      -30 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |      -50 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      6 |      0 |      -60 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      9 |      0 |      -90 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      0 |     -240 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     25 |      0 |     -250 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      0 |     -300 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     31 |      0 |     -310 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      0 |     -340 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     81 |      0 |     -810 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    118 |      0 |    -1180 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-01-01 07:23:11 +1000  
+date: 2022-01-01 07:36:25 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 17:14             | 2022-01-01 | murray-bdge R8         | 15 So Bene            |  41   |      -10 |
 | 7                 | 2021-12-30 | rockhampton R6         | 5 Triptonic           |   9   |      -10 |
 | 99                | 2021-12-29 | catterick R4           | 6 Turning Gold        |   0   |      -10 |
 | 99                | 2021-12-18 | haydock R1             | 9 Bari Breeze         |   0   |      -10 |
@@ -139,8 +140,8 @@ categories: None
 | 99                | 2021-06-12 | fairyhouse R3          | 14 Swiss Ace          |  26   |      -10 |
 | :boom:            | 2021-06-11 | swan-hill R3           | 4 Air Defence         |  10.2 |       92 |
 | 99                | 2021-06-10 | pukekura-raceway R2    | 9 Mandalay            |  51   |      -10 |
-| 4                 | 2021-06-06 | devonport-synthetic R9 | 6 Odin's Folly        |  14   |      -10 |
 | :boom:            | 2021-06-06 | devonport-synthetic R9 | 5 Elisavet            |  11   |      100 |
+| 4                 | 2021-06-06 | devonport-synthetic R9 | 6 Odin's Folly        |  14   |      -10 |
 | 9                 | 2021-06-06 | pinjarra R2            | 3 Halatorion          |  31   |      -10 |
 | 11                | 2021-06-05 | flemington R3          | 14 Just Folk          |  17   |      -10 |
 | 7                 | 2021-05-29 | randwick R6            | 10 Wayupinthesky      |  21   |      -10 |
