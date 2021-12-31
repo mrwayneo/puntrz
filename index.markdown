@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2021-12-31 18:45:04 +1000  
+date: 2021-12-31 19:05:45 +1000  
 ---   
 
 
@@ -9,9 +9,9 @@ date: 2021-12-31 18:45:04 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      1 |       46 | 0.33 |  1.53 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      6 |      1 |       13 | 0.17 |  0.22 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      2 |      0 |      -20 | 0    | -1    |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      8 |      2 |      -46 | 0.25 | -0.57 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      6 |      0 |      -60 | 0    | -1    |
@@ -33,6 +33,7 @@ date: 2021-12-31 18:45:04 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     41   | 0.1  |  0.2  |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      6 |     35   | 0.3  |  0.18 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |    -59   | 0.15 | -0.3  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |    -90   | 0.05 | -0.45 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |    -92   | 0.2  | -0.46 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -97   | 0.25 | -0.48 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      4 |   -109.4 | 0.2  | -0.55 |
@@ -43,7 +44,6 @@ date: 2021-12-31 18:45:04 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      1 |   -160   | 0.05 | -0.8  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      0 |   -200   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
@@ -71,28 +71,28 @@ date: 2021-12-31 18:45:04 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6036 |    904 |  -8024.9 | 0.15 | -0.13 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7865 |    426 | -14440   | 0.05 | -0.18 |
 
-|    | finish                   | time                | track         |   race |   number | name               |   odds | tipster            |
-|---:|:-------------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:                   | 2022-01-01 02:40:00 | uttoxeter     |      7 |        5 | Magheroarty Star   |  12    | vulture,milkman    |
-|  1 | :soon:                   | 2022-01-01 02:15:00 | warwick       |      7 |        8 | Lindaka            |   4.8  | looseknot          |
-|  2 | :soon:                   | 2022-01-01 02:15:00 | warwick       |      7 |       10 | Steal My Sunshine  |   4.8  | overthrow          |
-|  3 | :soon:                   | 2022-01-01 02:00:00 | punchestown   |      7 |        4 | Carrigmoorna Queen |   4    | overthrow          |
-|  4 | :soon:                   | 2022-01-01 01:45:00 | warwick       |      6 |        3 | Folly Gate         |   6    | looseknot          |
-|  5 | :soon:                   | 2022-01-01 01:45:00 | warwick       |      6 |        4 | Little Light       |   4.8  | vulture,pangea     |
-|  6 | :soon:                   | 2022-01-01 00:40:00 | warwick       |      4 |        8 | Neil The Legend    |   4.75 | overthrow          |
-|  7 | :soon:                   | 2022-01-01 00:20:00 | punchestown   |      4 |        4 | Cilaos Emery       |   1.85 | overthrow          |
-|  8 | :soon:                   | 2022-01-01 00:05:00 | warwick       |      3 |        4 | In Rem             |   3    | vulture            |
-|  9 | :soon:                   | 2021-12-31 23:45:00 | punchestown   |      3 |       14 | Vauban             |   1.7  | evenodds,overthrow |
-| 10 | :soon:                   | 2021-12-31 23:30:00 | warwick       |      2 |        4 | Gentle Connections |   3.25 | overthrow          |
-| 11 | :soon:                   | 2021-12-31 23:30:00 | warwick       |      2 |        1 | Love Envoi         |   2.2  | milkman            |
-| 12 | :soon:                   | 2021-12-31 22:45:00 | punchestown   |      1 |        2 | Egality Mans       |   2.25 | overthrow          |
-| 13 | :soon:                   | 2021-12-31 18:50:00 | ipswich       |      8 |        1 | All Stashed Up     |   1.73 | milkman            |
-| 14 | :soon:                   | 2021-12-31 18:50:00 | ipswich       |      8 |        7 | Exceptional Belle  |  10    | looseknot          |
-| 15 | :hourglass_flowing_sand: | 2021-12-31 18:45:00 | moonee-valley |      4 |        8 | Race Against Time  |   6    | pangea             |
-| 16 | 10.0                     | 2021-12-31 17:55:00 | gosford       |      8 |        3 | Tawfiq Lass        |  10    | pangea             |
-| 17 | :3rd_place_medal:        | 2021-12-31 17:24:00 | warrnambool   |      6 |        1 | Paddy Mac          |   3.3  | vulture            |
-| 18 | :boom:                   | 2021-12-31 16:40:00 | warrnambool   |      5 |        7 | As I Please        |   6    | milkman            |
-| 19 | :3rd_place_medal:        | 2021-12-31 14:24:00 | ipswich       |      1 |        5 | Scarlet Pimpernel  |   1.8  | evenodds,overthrow |
-| 20 | 4.0                      | 2021-12-31 14:14:00 | nowra         |      2 |        6 | Rupertson          |   5    | vulture,milkman    |
-| 21 | :boom:                   | 2021-12-31 14:10:00 | warrnambool   |      1 |        7 | Morning Has Broken |   1.83 | vulture            |
-| 22 | :boom:                   | 2021-12-31 14:00:00 | gosford       |      2 |        1 | Nasturtium         |   1.38 | vulture            |
+|    | finish            | time                | track         |   race |   number | name               |   odds | tipster            |
+|---:|:------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-01-01 02:40:00 | uttoxeter     |      7 |        5 | Magheroarty Star   |  12    | vulture,milkman    |
+|  1 | :soon:            | 2022-01-01 02:15:00 | warwick       |      7 |        8 | Lindaka            |   4.8  | looseknot          |
+|  2 | :soon:            | 2022-01-01 02:15:00 | warwick       |      7 |       10 | Steal My Sunshine  |   4.8  | overthrow          |
+|  3 | :soon:            | 2022-01-01 02:00:00 | punchestown   |      7 |        4 | Carrigmoorna Queen |   4    | overthrow          |
+|  4 | :soon:            | 2022-01-01 01:45:00 | warwick       |      6 |        3 | Folly Gate         |   6    | looseknot          |
+|  5 | :soon:            | 2022-01-01 01:45:00 | warwick       |      6 |        4 | Little Light       |   4.8  | vulture,pangea     |
+|  6 | :soon:            | 2022-01-01 00:40:00 | warwick       |      4 |        8 | Neil The Legend    |   4.75 | overthrow          |
+|  7 | :soon:            | 2022-01-01 00:20:00 | punchestown   |      4 |        4 | Cilaos Emery       |   1.85 | overthrow          |
+|  8 | :soon:            | 2022-01-01 00:05:00 | warwick       |      3 |        4 | In Rem             |   3    | vulture            |
+|  9 | :soon:            | 2021-12-31 23:45:00 | punchestown   |      3 |       14 | Vauban             |   1.7  | evenodds,overthrow |
+| 10 | :soon:            | 2021-12-31 23:30:00 | warwick       |      2 |        4 | Gentle Connections |   3.25 | overthrow          |
+| 11 | :soon:            | 2021-12-31 23:30:00 | warwick       |      2 |        1 | Love Envoi         |   2.2  | milkman            |
+| 12 | :soon:            | 2021-12-31 22:45:00 | punchestown   |      1 |        2 | Egality Mans       |   2.25 | overthrow          |
+| 13 | :2nd_place_medal: | 2021-12-31 18:50:00 | ipswich       |      8 |        1 | All Stashed Up     |   1.73 | milkman            |
+| 14 | :boom:            | 2021-12-31 18:50:00 | ipswich       |      8 |        7 | Exceptional Belle  |  10    | looseknot          |
+| 15 | 4.0               | 2021-12-31 18:45:00 | moonee-valley |      4 |        8 | Race Against Time  |   6    | pangea             |
+| 16 | 10.0              | 2021-12-31 17:55:00 | gosford       |      8 |        3 | Tawfiq Lass        |  10    | pangea             |
+| 17 | :3rd_place_medal: | 2021-12-31 17:24:00 | warrnambool   |      6 |        1 | Paddy Mac          |   3.3  | vulture            |
+| 18 | :boom:            | 2021-12-31 16:40:00 | warrnambool   |      5 |        7 | As I Please        |   6    | milkman            |
+| 19 | :3rd_place_medal: | 2021-12-31 14:24:00 | ipswich       |      1 |        5 | Scarlet Pimpernel  |   1.8  | evenodds,overthrow |
+| 20 | 4.0               | 2021-12-31 14:14:00 | nowra         |      2 |        6 | Rupertson          |   5    | vulture,milkman    |
+| 21 | :boom:            | 2021-12-31 14:10:00 | warrnambool   |      1 |        7 | Morning Has Broken |   1.83 | vulture            |
+| 22 | :boom:            | 2021-12-31 14:00:00 | gosford       |      2 |        1 | Nasturtium         |   1.38 | vulture            |
