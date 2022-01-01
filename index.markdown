@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 19:54:54 +1000  
+date: 2022-01-01 20:09:45 +1000  
 ---   
 
 
@@ -115,7 +115,7 @@ date: 2022-01-01 19:54:54 +1000
 | 33 | :soon:            | 2022-01-01 20:45:00 | sha-tin     |     11 |       13 | Zone D             |   0    | vulture             |
 | 34 | :soon:            | 2022-01-01 20:20:00 | ascot       |     10 |        4 | Son Son            |   4.6  | vulture,blackshadow |
 | 35 | :soon:            | 2022-01-01 20:10:00 | sha-tin     |     10 |        3 | Blaze Warrior      |   0    | icyhot              |
-| 36 | :soon:            | 2022-01-01 19:58:00 | toowoomba   |      4 |        2 | Got The Lot        |   7    | benny,pangea        |
+| 36 | --                | 2022-01-01 19:58:00 | toowoomba   |      4 |        2 | Got The Lot        |   7    | benny,pangea        |
 | 37 | 4.0               | 2022-01-01 19:45:00 | ascot       |      9 |       14 | Pure Devotion      |   5.5  | vulture             |
 | 38 | --                | 2022-01-01 19:45:00 | ascot       |      9 |       15 | Stafford's Lad     |   6    | evenodds,overthrow  |
 | 39 | :boom:            | 2022-01-01 19:05:00 | ascot       |      8 |        4 | Beret              |   3.6  | vulture             |
