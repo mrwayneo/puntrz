@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 17:10:01 +1000  
+date: 2022-01-01 17:27:18 +1000  
 ---   
 
 
@@ -16,8 +16,8 @@ date: 2022-01-01 17:10:01 +1000
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      3 |      0 |      -30 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      6 |      0 |      -60 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     25 |      4 |      -72 | 0.16 | -0.29 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      9 |      1 |      -75 | 0.11 | -0.83 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     25 |      3 |     -110 | 0.12 | -0.44 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      3 |     -177 | 0.1  | -0.59 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      1 |     -216 | 0.04 | -0.9  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     31 |      2 |     -246 | 0.06 | -0.79 |
@@ -133,10 +133,10 @@ date: 2022-01-01 17:10:01 +1000
 | 51 | :soon:            | 2022-01-01 17:40:00 | darwin      |      4 |        5 | Raazou             |   3    | overthrow           |
 | 52 | :soon:            | 2022-01-01 17:28:00 | doomben     |      8 |        1 | Kementari          |  12    | pangea              |
 | 53 | :soon:            | 2022-01-01 17:28:00 | doomben     |      8 |        4 | Tambo's Mate       |   6    | evenodds,overthrow  |
-| 54 | :soon:            | 2022-01-01 17:20:00 | kensington  |      9 |        7 | Kir Royale         |   4.75 | pangea,icyhot       |
-| 55 | :soon:            | 2022-01-01 17:14:00 | murray-bdge |      8 |       12 | Vancity Gem        |   9    | vulture             |
-| 56 | :soon:            | 2022-01-01 17:14:00 | murray-bdge |      8 |        9 | Spectacle          |   4.75 | pangea              |
-| 57 | :soon:            | 2022-01-01 17:14:00 | murray-bdge |      8 |       15 | So Bene            |  41    | cosmo,bluey         |
+| 54 | --                | 2022-01-01 17:20:00 | kensington  |      9 |        7 | Kir Royale         |   4.75 | pangea,icyhot       |
+| 55 | --                | 2022-01-01 17:14:00 | murray-bdge |      8 |       12 | Vancity Gem        |   9    | vulture             |
+| 56 | :boom:            | 2022-01-01 17:14:00 | murray-bdge |      8 |        9 | Spectacle          |   4.75 | pangea              |
+| 57 | --                | 2022-01-01 17:14:00 | murray-bdge |      8 |       15 | So Bene            |  41    | cosmo,bluey         |
 | 58 | --                | 2022-01-01 17:04:00 | longford    |      7 |        5 | Belle Cadeau       |   4.33 | milkman             |
 | 59 | :boom:            | 2022-01-01 16:48:00 | doomben     |      7 |        2 | Tiger Heart        |   9    | pangea,overthrow    |
 | 60 | :2nd_place_medal: | 2022-01-01 16:48:00 | doomben     |      7 |        8 | Shihonka           |   1.91 | vulture             |
