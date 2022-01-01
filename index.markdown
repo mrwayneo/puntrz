@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 18:19:54 +1000  
+date: 2022-01-01 18:50:07 +1000  
 ---   
 
 
@@ -120,9 +120,9 @@ date: 2022-01-01 18:19:54 +1000
 | 38 | :soon:            | 2022-01-01 19:45:00 | ascot       |      9 |       15 | Stafford's Lad     |   6    | evenodds,overthrow  |
 | 39 | :soon:            | 2022-01-01 19:05:00 | ascot       |      8 |        4 | Beret              |   3.6  | vulture             |
 | 40 | :soon:            | 2022-01-01 19:05:00 | sha-tin     |      8 |        5 | Master Eight       |   0    | milkman,icyhot      |
-| 41 | :soon:            | 2022-01-01 18:48:00 | darwin      |      6 |        3 | Grand Final        |   7.5  | looseknot           |
-| 42 | :soon:            | 2022-01-01 18:48:00 | darwin      |      6 |        6 | Skellig Island     |   6    | overthrow,looseknot |
-| 43 | :soon:            | 2022-01-01 18:48:00 | darwin      |      6 |        1 | Count of Essex     |   6    | pangea              |
+| 41 | --                | 2022-01-01 18:48:00 | darwin      |      6 |        3 | Grand Final        |   7.5  | looseknot           |
+| 42 | --                | 2022-01-01 18:48:00 | darwin      |      6 |        6 | Skellig Island     |   6    | overthrow,looseknot |
+| 43 | --                | 2022-01-01 18:48:00 | darwin      |      6 |        1 | Count of Essex     |   6    | pangea              |
 | 44 | --                | 2022-01-01 18:17:00 | darwin      |      5 |        2 | Another Bit        |   4    | overthrow           |
 | 45 | --                | 2022-01-01 18:10:00 | geraldton   |      5 |        1 | Human Nature       |   9    | looseknot           |
 | 46 | :boom:            | 2022-01-01 18:10:00 | geraldton   |      5 |        3 | Three Sessions     |   1.85 | pangea,icyhot       |
