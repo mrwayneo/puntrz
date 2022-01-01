@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 20:09:45 +1000  
+date: 2022-01-01 20:25:48 +1000  
 ---   
 
 
@@ -113,11 +113,11 @@ date: 2022-01-01 20:09:45 +1000
 | 31 | :soon:            | 2022-01-01 23:15:00 | cheltenham  |      1 |        1 | Doctor Ken         |   8    | vulture             |
 | 32 | :soon:            | 2022-01-01 23:00:00 | tramore     |      1 |        3 | El Fabiolo         |   1.5  | overthrow           |
 | 33 | :soon:            | 2022-01-01 20:45:00 | sha-tin     |     11 |       13 | Zone D             |   0    | vulture             |
-| 34 | :soon:            | 2022-01-01 20:20:00 | ascot       |     10 |        4 | Son Son            |   4.6  | vulture,blackshadow |
-| 35 | :soon:            | 2022-01-01 20:10:00 | sha-tin     |     10 |        3 | Blaze Warrior      |   0    | icyhot              |
+| 34 | :2nd_place_medal: | 2022-01-01 20:20:00 | ascot       |     10 |        4 | Son Son            |   4.6  | vulture,blackshadow |
+| 35 | --                | 2022-01-01 20:10:00 | sha-tin     |     10 |        3 | Blaze Warrior      |   0    | icyhot              |
 | 36 | --                | 2022-01-01 19:58:00 | toowoomba   |      4 |        2 | Got The Lot        |   7    | benny,pangea        |
 | 37 | 4.0               | 2022-01-01 19:45:00 | ascot       |      9 |       14 | Pure Devotion      |   5.5  | vulture             |
-| 38 | --                | 2022-01-01 19:45:00 | ascot       |      9 |       15 | Stafford's Lad     |   6    | evenodds,overthrow  |
+| 38 | 7.0               | 2022-01-01 19:45:00 | ascot       |      9 |       15 | Stafford's Lad     |   6    | evenodds,overthrow  |
 | 39 | :boom:            | 2022-01-01 19:05:00 | ascot       |      8 |        4 | Beret              |   3.6  | vulture             |
 | 40 | :boom:            | 2022-01-01 19:05:00 | sha-tin     |      8 |        5 | Master Eight       |   0    | milkman,icyhot      |
 | 41 | :3rd_place_medal: | 2022-01-01 18:48:00 | darwin      |      6 |        3 | Grand Final        |   7.5  | looseknot           |
