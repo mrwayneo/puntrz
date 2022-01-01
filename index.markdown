@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 11:27:41 +1000  
+date: 2022-01-01 11:42:38 +1000  
 ---   
 
 
@@ -15,11 +15,11 @@ date: 2022-01-01 11:27:41 +1000
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      3 |      0 |      -30 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |      -50 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      6 |      0 |      -60 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      1 |      -70 | 0.03 | -0.23 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      9 |      0 |      -90 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      0 |     -240 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     25 |      0 |     -250 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      0 |     -300 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     31 |      0 |     -310 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      0 |     -340 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     81 |      1 |     -779 | 0.01 | -0.96 |
@@ -170,7 +170,7 @@ date: 2022-01-01 11:27:41 +1000
 | 88 | :soon:            | 2022-01-01 12:05:00 | flemington  |      4 |        4 | Along The River    |   6    | vulture             |
 | 89 | :soon:            | 2022-01-01 12:05:00 | flemington  |      4 |        7 | Vermentino         |   9    | pangea              |
 | 90 | :soon:            | 2022-01-01 12:05:00 | flemington  |      4 |        1 | Sharp Response     |  21    | milkman             |
-| 91 | :soon:            | 2022-01-01 11:32:00 | ellerslie   |      3 |        5 | Wolverine          |   1.75 | milkman             |
-| 92 | :soon:            | 2022-01-01 11:32:00 | ellerslie   |      3 |        7 | I Choose You       |   2.5  | milkman             |
-| 93 | :soon:            | 2022-01-01 11:32:00 | ellerslie   |      3 |        8 | Pacific Dragon     |  19    | vulture             |
+| 91 | :2nd_place_medal: | 2022-01-01 11:32:00 | ellerslie   |      3 |        5 | Wolverine          |   1.75 | milkman             |
+| 92 | :3rd_place_medal: | 2022-01-01 11:32:00 | ellerslie   |      3 |        7 | I Choose You       |   2.5  | milkman             |
+| 93 | :boom:            | 2022-01-01 11:32:00 | ellerslie   |      3 |        8 | Pacific Dragon     |  19    | vulture             |
 | 94 | :3rd_place_medal: | 2022-01-01 10:35:00 | flemington  |      1 |        1 | Kin                |   2.5  | vulture             |
