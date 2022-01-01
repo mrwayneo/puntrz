@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 16:40:14 +1000  
+date: 2022-01-01 16:55:01 +1000  
 ---   
 
 
@@ -17,12 +17,12 @@ date: 2022-01-01 16:40:14 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      6 |      0 |      -60 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      9 |      1 |      -75 | 0.11 | -0.83 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     25 |      2 |     -159 | 0.08 | -0.64 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     25 |      3 |     -110 | 0.12 | -0.44 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      3 |     -177 | 0.1  | -0.59 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      1 |     -216 | 0.04 | -0.9  |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     31 |      2 |     -246 | 0.06 | -0.79 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      1 |     -269 | 0.03 | -0.79 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     31 |      1 |     -295 | 0.03 | -0.95 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     81 |      2 |     -727 | 0.02 | -0.9  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     81 |      3 |     -693 | 0.04 | -0.86 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    118 |      2 |    -1017 | 0.02 | -0.86 |
 
 ##### Form Last 20 tips   
@@ -138,8 +138,8 @@ date: 2022-01-01 16:40:14 +1000
 | 56 | :soon:            | 2022-01-01 17:14:00 | murray-bdge |      8 |        9 | Spectacle          |   4.75 | pangea              |
 | 57 | :soon:            | 2022-01-01 17:14:00 | murray-bdge |      8 |       15 | So Bene            |  41    | cosmo,bluey         |
 | 58 | :soon:            | 2022-01-01 17:04:00 | longford    |      7 |        5 | Belle Cadeau       |   4.33 | milkman             |
-| 59 | :soon:            | 2022-01-01 16:48:00 | doomben     |      7 |        2 | Tiger Heart        |   9    | pangea,overthrow    |
-| 60 | :soon:            | 2022-01-01 16:48:00 | doomben     |      7 |        8 | Shihonka           |   1.91 | vulture             |
+| 59 | :boom:            | 2022-01-01 16:48:00 | doomben     |      7 |        2 | Tiger Heart        |   9    | pangea,overthrow    |
+| 60 | :2nd_place_medal: | 2022-01-01 16:48:00 | doomben     |      7 |        8 | Shihonka           |   1.91 | vulture             |
 | 61 | :boom:            | 2022-01-01 16:18:00 | darwin      |      2 |        5 | Bel's Banner       |   1.65 | benny,icyhot        |
 | 62 | 4.0               | 2022-01-01 16:08:00 | doomben     |      6 |        5 | Humbolt Current    |   3.7  | vulture,pangea      |
 | 63 | :3rd_place_medal: | 2022-01-01 15:52:00 | murray-bdge |      6 |        7 | Kung Fu Fighting   |   3.1  | milkman             |
