@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 13:33:52 +1000  
+date: 2022-01-01 13:48:59 +1000  
 ---   
 
 
@@ -157,9 +157,9 @@ date: 2022-01-01 13:33:52 +1000
 | 75 | :soon:            | 2022-01-01 14:20:00 | flemington  |      8 |       12 | Not to Be Mist     |   8    | vulture,blackshadow |
 | 76 | :soon:            | 2022-01-01 14:20:00 | flemington  |      8 |        8 | Second Slip        |   7.5  | pangea,overthrow    |
 | 77 | :soon:            | 2022-01-01 13:57:00 | murray-bdge |      3 |        3 | Stars The Limit    |   1.6  | vulture             |
-| 78 | :soon:            | 2022-01-01 13:45:00 | flemington  |      7 |        1 | Good Idea          |   7    | vulture             |
-| 79 | :soon:            | 2022-01-01 13:45:00 | flemington  |      7 |        2 | Smokin' Romans     |   2.15 | vulture             |
-| 80 | :soon:            | 2022-01-01 13:37:00 | riverton    |      7 |        3 | Kilowatt           |   7    | looseknot           |
+| 78 | --                | 2022-01-01 13:45:00 | flemington  |      7 |        1 | Good Idea          |   7    | vulture             |
+| 79 | --                | 2022-01-01 13:45:00 | flemington  |      7 |        2 | Smokin' Romans     |   2.15 | vulture             |
+| 80 | :3rd_place_medal: | 2022-01-01 13:37:00 | riverton    |      7 |        3 | Kilowatt           |   7    | looseknot           |
 | 81 | 4.0               | 2022-01-01 13:03:00 | doomben     |      1 |        8 | Excelness          |   6    | vulture,milkman     |
 | 82 | :boom:            | 2022-01-01 13:03:00 | doomben     |      1 |        3 | Kingston's Here    |   2.8  | vulture             |
 | 83 | 6.0               | 2022-01-01 12:51:00 | mornington  |      1 |        6 | Top Arctic         |  23    | moechilli           |
