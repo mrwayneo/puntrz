@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-01-01 14:38:23 +1000  
+date: 2022-01-01 14:53:20 +1000  
 categories: None 
 ---   
 
@@ -23,7 +23,7 @@ categories: None
 | 17:20             | 2022-01-01 | kensington R9           | 7 Kir Royale          |  4.75 |    -10   |
 | 16:32             | 2022-01-01 | murray-bdge R7          | 12 Desired            | 14    |    -10   |
 | 16:18             | 2022-01-01 | darwin R2               | 5 Bel's Banner        |  1.65 |    -10   |
-| 0                 | 2022-01-01 | flemington R8           | 2 Yulong January      |  0    |    -10   |
+| 11                | 2022-01-01 | flemington R8           | 2 Yulong January      |  9.5  |    -10   |
 | 4                 | 2021-12-29 | pinjarra R7             | 1 Kimberley Boy       |  1.65 |    -10   |
 | 4                 | 2021-12-26 | morphettville R9        | 4 Full Probe          |  3.25 |    -10   |
 | :3rd_place_medal: | 2021-12-26 | doomben R2              | 4 Kirkeby             |  2.38 |    -10   |
@@ -112,8 +112,8 @@ categories: None
 | 99                | 2021-10-27 | bangor R6               | 7 Stop Talking        |  0    |    -10   |
 | :boom:            | 2021-10-23 | ascot R7                | 5 Wilchino            |  2.8  |     18   |
 | :boom:            | 2021-10-23 | ascot R6                | 4 Magical Dream       |  6.5  |     55   |
-| :boom:            | 2021-10-23 | doomben R5              | 2 Birriecart          |  2.3  |     13   |
 | :2nd_place_medal: | 2021-10-23 | doomben R5              | 1 Tiger Heart         |  1.65 |    -10   |
+| :boom:            | 2021-10-23 | doomben R5              | 2 Birriecart          |  2.3  |     13   |
 | :2nd_place_medal: | 2021-10-23 | doomben R4              | 1 Ligulate            |  9    |    -10   |
 | :boom:            | 2021-10-22 | launceston R5           | 1 Deroche             |  1.9  |      9   |
 | 8                 | 2021-10-22 | moonee-valley R6        | 8 Overkill            |  8    |    -10   |
@@ -272,8 +272,8 @@ categories: None
 | 4                 | 2021-05-16 | albany R5               | 9 Island Charm        |  1.76 |    -10   |
 | :boom:            | 2021-05-15 | newbury R3              | 1 Al Aasy             |  2.1  |     11   |
 | :2nd_place_medal: | 2021-05-15 | ascot R8                | 3 Elite Street        |  4.4  |    -10   |
-| 10                | 2021-05-15 | morphettville R8        | 8 Beau Rossa          | 17    |    -10   |
 | :2nd_place_medal: | 2021-05-15 | morphettville R8        | 9 Instant Celebrity   |  5.5  |    -10   |
+| 10                | 2021-05-15 | morphettville R8        | 8 Beau Rossa          | 17    |    -10   |
 | :3rd_place_medal: | 2021-05-15 | doomben R7              | 7 The Harrovian       | 31    |    -10   |
 | 10                | 2021-05-15 | morphettville R3        | 10 That Girl          | 10    |    -10   |
 | 5                 | 2021-05-14 | scone R5                | 2 Total Recall        |  5    |    -10   |
