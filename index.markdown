@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 16:55:01 +1000  
+date: 2022-01-01 17:10:01 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-01-01 16:55:01 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      1 |     -216 | 0.04 | -0.9  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     31 |      2 |     -246 | 0.06 | -0.79 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      1 |     -269 | 0.03 | -0.79 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     81 |      3 |     -693 | 0.04 | -0.86 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     81 |      4 |     -670 | 0.05 | -0.83 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    118 |      2 |    -1017 | 0.02 | -0.86 |
 
 ##### Form Last 20 tips   
@@ -137,7 +137,7 @@ date: 2022-01-01 16:55:01 +1000
 | 55 | :soon:            | 2022-01-01 17:14:00 | murray-bdge |      8 |       12 | Vancity Gem        |   9    | vulture             |
 | 56 | :soon:            | 2022-01-01 17:14:00 | murray-bdge |      8 |        9 | Spectacle          |   4.75 | pangea              |
 | 57 | :soon:            | 2022-01-01 17:14:00 | murray-bdge |      8 |       15 | So Bene            |  41    | cosmo,bluey         |
-| 58 | :soon:            | 2022-01-01 17:04:00 | longford    |      7 |        5 | Belle Cadeau       |   4.33 | milkman             |
+| 58 | --                | 2022-01-01 17:04:00 | longford    |      7 |        5 | Belle Cadeau       |   4.33 | milkman             |
 | 59 | :boom:            | 2022-01-01 16:48:00 | doomben     |      7 |        2 | Tiger Heart        |   9    | pangea,overthrow    |
 | 60 | :2nd_place_medal: | 2022-01-01 16:48:00 | doomben     |      7 |        8 | Shihonka           |   1.91 | vulture             |
 | 61 | :boom:            | 2022-01-01 16:18:00 | darwin      |      2 |        5 | Bel's Banner       |   1.65 | benny,icyhot        |
