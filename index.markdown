@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 11:57:42 +1000  
+date: 2022-01-01 12:16:41 +1000  
 ---   
 
 
@@ -13,9 +13,9 @@ date: 2022-01-01 11:57:42 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      3 |      0 |      -30 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      1 |      -40 | 0.03 | -0.13 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |      -50 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      6 |      0 |      -60 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      1 |      -70 | 0.03 | -0.23 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      9 |      0 |      -90 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     24 |      0 |     -240 | 0    | -1    |
@@ -164,12 +164,12 @@ date: 2022-01-01 11:57:42 +1000
 | 82 | :soon:            | 2022-01-01 13:03:00 | doomben     |      1 |        3 | Kingston's Here    |   2.8  | vulture             |
 | 83 | :soon:            | 2022-01-01 12:51:00 | mornington  |      1 |        6 | Top Arctic         |  23    | moechilli           |
 | 84 | :soon:            | 2022-01-01 12:35:00 | flemington  |      5 |        2 | Bermadez           |   1.8  | milkman             |
-| 85 | :soon:            | 2022-01-01 12:07:00 | ellerslie   |      4 |        3 | Cheaperthandivorce |   1.9  | vulture             |
-| 86 | :soon:            | 2022-01-01 12:05:00 | flemington  |      4 |       11 | Butter Blonde      |  13    | evenodds,overthrow  |
-| 87 | :soon:            | 2022-01-01 12:05:00 | flemington  |      4 |        5 | Titans             |  18    | vulture,milkman     |
-| 88 | :soon:            | 2022-01-01 12:05:00 | flemington  |      4 |        4 | Along The River    |   6    | vulture             |
-| 89 | :soon:            | 2022-01-01 12:05:00 | flemington  |      4 |        7 | Vermentino         |   9    | pangea              |
-| 90 | :soon:            | 2022-01-01 12:05:00 | flemington  |      4 |        1 | Sharp Response     |  21    | milkman             |
+| 85 | :2nd_place_medal: | 2022-01-01 12:07:00 | ellerslie   |      4 |        3 | Cheaperthandivorce |   1.9  | vulture             |
+| 86 | --                | 2022-01-01 12:05:00 | flemington  |      4 |       11 | Butter Blonde      |  13    | evenodds,overthrow  |
+| 87 | --                | 2022-01-01 12:05:00 | flemington  |      4 |        5 | Titans             |  18    | vulture,milkman     |
+| 88 | --                | 2022-01-01 12:05:00 | flemington  |      4 |        4 | Along The River    |   6    | vulture             |
+| 89 | --                | 2022-01-01 12:05:00 | flemington  |      4 |        7 | Vermentino         |   9    | pangea              |
+| 90 | :2nd_place_medal: | 2022-01-01 12:05:00 | flemington  |      4 |        1 | Sharp Response     |  21    | milkman             |
 | 91 | :2nd_place_medal: | 2022-01-01 11:32:00 | ellerslie   |      3 |        5 | Wolverine          |   1.75 | milkman             |
 | 92 | :3rd_place_medal: | 2022-01-01 11:32:00 | ellerslie   |      3 |        7 | I Choose You       |   2.5  | milkman             |
 | 93 | :boom:            | 2022-01-01 11:32:00 | ellerslie   |      3 |        8 | Pacific Dragon     |  19    | vulture             |
