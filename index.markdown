@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 18:04:30 +1000  
+date: 2022-01-01 18:19:54 +1000  
 ---   
 
 
@@ -10,12 +10,12 @@ date: 2022-01-01 18:04:30 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      1 |       26 | 0.2  |  0.52 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     25 |      6 |       -8 | 0.24 | -0.03 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     25 |      7 |       13 | 0.28 |  0.05 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      1 |      -15 | 0.33 | -0.5  |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      3 |      0 |      -30 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      9 |      2 |      -53 | 0.22 | -0.59 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      9 |      3 |      -32 | 0.33 | -0.36 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      6 |      0 |      -60 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      3 |     -177 | 0.1  | -0.59 |
@@ -123,9 +123,9 @@ date: 2022-01-01 18:04:30 +1000
 | 41 | :soon:            | 2022-01-01 18:48:00 | darwin      |      6 |        3 | Grand Final        |   7.5  | looseknot           |
 | 42 | :soon:            | 2022-01-01 18:48:00 | darwin      |      6 |        6 | Skellig Island     |   6    | overthrow,looseknot |
 | 43 | :soon:            | 2022-01-01 18:48:00 | darwin      |      6 |        1 | Count of Essex     |   6    | pangea              |
-| 44 | :soon:            | 2022-01-01 18:17:00 | darwin      |      5 |        2 | Another Bit        |   4    | overthrow           |
-| 45 | :soon:            | 2022-01-01 18:10:00 | geraldton   |      5 |        1 | Human Nature       |   9    | looseknot           |
-| 46 | :soon:            | 2022-01-01 18:10:00 | geraldton   |      5 |        3 | Three Sessions     |   1.85 | pangea,icyhot       |
+| 44 | --                | 2022-01-01 18:17:00 | darwin      |      5 |        2 | Another Bit        |   4    | overthrow           |
+| 45 | --                | 2022-01-01 18:10:00 | geraldton   |      5 |        1 | Human Nature       |   9    | looseknot           |
+| 46 | :boom:            | 2022-01-01 18:10:00 | geraldton   |      5 |        3 | Three Sessions     |   1.85 | pangea,icyhot       |
 | 47 | :3rd_place_medal: | 2022-01-01 17:56:00 | toowoomba   |      1 |        1 | I Promise You      |   3.6  | evenodds,overthrow  |
 | 48 | :2nd_place_medal: | 2022-01-01 17:45:00 | ascot       |      6 |       10 | The Front Bar      |   2.4  | pangea,icyhot       |
 | 49 | :boom:            | 2022-01-01 17:45:00 | ascot       |      6 |        6 | Miss Conteki       |   2.88 | pangea,icyhot       |
@@ -147,7 +147,7 @@ date: 2022-01-01 18:04:30 +1000
 | 65 | :3rd_place_medal: | 2022-01-01 15:45:00 | ascot       |      3 |        1 | He's A Sizzler     |   4.33 | evenodds,overthrow  |
 | 66 | 6.0               | 2022-01-01 15:38:00 | darwin      |      1 |        1 | The Albion         |   3.1  | pangea              |
 | 67 | :boom:            | 2022-01-01 15:20:00 | kensington  |      6 |        4 | Kirwan's Lane      |   3.2  | vulture             |
-| 68 | --                | 2022-01-01 15:10:00 | ellerslie   |      9 |        1 | Showoroses         |   9    | vulture             |
+| 68 | 7.0               | 2022-01-01 15:10:00 | ellerslie   |      9 |        1 | Showoroses         |   9    | vulture             |
 | 69 | --                | 2022-01-01 15:10:00 | ellerslie   |      9 |        4 | Gold Watch         |   2.15 | milkman             |
 | 70 | 4.0               | 2022-01-01 15:08:00 | gatton      |      5 |        2 | Lexington Lad      |   3    | pangea              |
 | 71 | 6.0               | 2022-01-01 15:08:00 | gatton      |      5 |        7 | Stormtrooper       |   9.5  | pangea              |
