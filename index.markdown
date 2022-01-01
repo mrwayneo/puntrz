@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 13:48:59 +1000  
+date: 2022-01-01 14:04:18 +1000  
 ---   
 
 
@@ -23,7 +23,7 @@ date: 2022-01-01 13:48:59 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     31 |      0 |     -310 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      0 |     -340 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     81 |      1 |     -779 | 0.01 | -0.96 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    118 |      0 |    -1180 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    118 |      1 |    -1088 | 0.01 | -0.92 |
 
 ##### Form Last 20 tips   
 
@@ -156,9 +156,9 @@ date: 2022-01-01 13:48:59 +1000
 | 74 | :soon:            | 2022-01-01 14:20:00 | flemington  |      8 |        2 | Yulong January     |   9.5  | pangea,icyhot       |
 | 75 | :soon:            | 2022-01-01 14:20:00 | flemington  |      8 |       12 | Not to Be Mist     |   8    | vulture,blackshadow |
 | 76 | :soon:            | 2022-01-01 14:20:00 | flemington  |      8 |        8 | Second Slip        |   7.5  | pangea,overthrow    |
-| 77 | :soon:            | 2022-01-01 13:57:00 | murray-bdge |      3 |        3 | Stars The Limit    |   1.6  | vulture             |
-| 78 | --                | 2022-01-01 13:45:00 | flemington  |      7 |        1 | Good Idea          |   7    | vulture             |
-| 79 | --                | 2022-01-01 13:45:00 | flemington  |      7 |        2 | Smokin' Romans     |   2.15 | vulture             |
+| 77 | --                | 2022-01-01 13:57:00 | murray-bdge |      3 |        3 | Stars The Limit    |   1.6  | vulture             |
+| 78 | 4.0               | 2022-01-01 13:45:00 | flemington  |      7 |        1 | Good Idea          |   7    | vulture             |
+| 79 | 9.0               | 2022-01-01 13:45:00 | flemington  |      7 |        2 | Smokin' Romans     |   2.15 | vulture             |
 | 80 | :3rd_place_medal: | 2022-01-01 13:37:00 | riverton    |      7 |        3 | Kilowatt           |   7    | looseknot           |
 | 81 | 4.0               | 2022-01-01 13:03:00 | doomben     |      1 |        8 | Excelness          |   6    | vulture,milkman     |
 | 82 | :boom:            | 2022-01-01 13:03:00 | doomben     |      1 |        3 | Kingston's Here    |   2.8  | vulture             |
