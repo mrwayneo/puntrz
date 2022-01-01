@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-01 17:47:55 +1000  
+date: 2022-01-01 18:04:29 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
 | 00:20             | 2022-01-02 | fakenham R2                   | 9 Scattercash         |  81    |    -10   |
 | 22:50             | 2022-01-01 | fairyhouse R1                 | 2 Carrig Sam          |  10    |    -10   |
-| 0                 | 2022-01-01 | darwin R4                     | 6 Extrapolate         |   0    |    -10   |
+| 8                 | 2022-01-01 | darwin R4                     | 6 Extrapolate         |  18    |    -10   |
 | :boom:            | 2021-12-30 | spendthrift-australia-park R7 | 1 Vasmee              |   9.1  |     81   |
 | 99                | 2021-12-26 | wincanton R1                  | 1 Atjima              |   0    |    -10   |
 | :boom:            | 2021-12-21 | wolverhampton R1              | 6 Ruby Red Empress    |   0    |    -10   |
