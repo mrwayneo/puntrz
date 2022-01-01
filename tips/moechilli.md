@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-01-01 13:17:20 +1000  
+date: 2022-01-01 13:33:47 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 0                 | 2022-01-01 | mornington R1          | 6 Top Arctic         |   0    |    -10   |
+| 6                 | 2022-01-01 | mornington R1          | 6 Top Arctic         |  23    |    -10   |
 | :2nd_place_medal: | 2021-12-18 | eagle-farm R7          | 2 Far Too Easy       |   3    |    -10   |
 | 6                 | 2021-12-12 | sha-tin R8             | 11 Lei Papale        |   0    |    -10   |
 | :3rd_place_medal: | 2021-12-12 | sha-tin R4             | 8 Ebaiyra            |  17    |    -10   |

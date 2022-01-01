@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 13:17:28 +1000  
+date: 2022-01-01 13:33:52 +1000  
 ---   
 
 
@@ -162,7 +162,7 @@ date: 2022-01-01 13:17:28 +1000
 | 80 | :soon:            | 2022-01-01 13:37:00 | riverton    |      7 |        3 | Kilowatt           |   7    | looseknot           |
 | 81 | 4.0               | 2022-01-01 13:03:00 | doomben     |      1 |        8 | Excelness          |   6    | vulture,milkman     |
 | 82 | :boom:            | 2022-01-01 13:03:00 | doomben     |      1 |        3 | Kingston's Here    |   2.8  | vulture             |
-| 83 | --                | 2022-01-01 12:51:00 | mornington  |      1 |        6 | Top Arctic         |  23    | moechilli           |
+| 83 | 6.0               | 2022-01-01 12:51:00 | mornington  |      1 |        6 | Top Arctic         |  23    | moechilli           |
 | 84 | 5.0               | 2022-01-01 12:35:00 | flemington  |      5 |        2 | Bermadez           |   1.8  | milkman             |
 | 85 | :2nd_place_medal: | 2022-01-01 12:07:00 | ellerslie   |      4 |        3 | Cheaperthandivorce |   1.9  | vulture             |
 | 86 | 7.0               | 2022-01-01 12:05:00 | flemington  |      4 |       11 | Butter Blonde      |  13    | evenodds,overthrow  |
