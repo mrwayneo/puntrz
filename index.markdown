@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 19:04:54 +1000  
+date: 2022-01-01 19:06:06 +1000  
 ---   
 
 
@@ -77,100 +77,100 @@ date: 2022-01-01 19:04:54 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6071 |    907 |  -8253.9 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7867 |    423 | -15189   | 0.05 | -0.19 |
 
-|    | finish            | time                | track       |   race |   number | name               |   odds | tipster             |
-|---:|:------------------|:--------------------|:------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | :soon:            | 2022-01-02 02:50:00 | cheltenham  |      7 |       10 | Royal Max          |   6    | overthrow           |
-|  1 | :soon:            | 2022-01-02 02:50:00 | cheltenham  |      7 |       13 | Iliade Allen       |   6.5  | milkman             |
-|  2 | :soon:            | 2022-01-02 02:50:00 | cheltenham  |      7 |        9 | Mr Sundancer       |  19    | milkman             |
-|  3 | :soon:            | 2022-01-02 02:15:00 | fairyhouse  |      7 |        3 | Grand Paradis      |   3    | milkman             |
-|  4 | :soon:            | 2022-01-02 02:15:00 | fairyhouse  |      7 |       10 | Shadow Rider       |   5.5  | overthrow           |
-|  5 | :soon:            | 2022-01-02 02:10:00 | cheltenham  |      6 |        5 | On The Blind Side  |  17    | overthrow           |
-|  6 | :soon:            | 2022-01-02 02:10:00 | cheltenham  |      6 |        3 | Mcfabulous         |   3.9  | overthrow,milkman   |
-|  7 | :soon:            | 2022-01-02 02:10:00 | cheltenham  |      6 |        1 | Brewin'upastorm    |   2.8  | vulture             |
-|  8 | :soon:            | 2022-01-02 01:40:00 | fairyhouse  |      6 |        1 | Put The Kettle On  |   3    | milkman             |
-|  9 | :soon:            | 2022-01-02 01:40:00 | fairyhouse  |      6 |        5 | Elimay             |   2.6  | overthrow           |
-| 10 | :soon:            | 2022-01-02 01:35:00 | cheltenham  |      5 |        8 | Spiritofthegames   |  12    | overthrow           |
-| 11 | :soon:            | 2022-01-02 01:35:00 | cheltenham  |      5 |        9 | Tamar Bridge       |   6    | milkman             |
-| 12 | :soon:            | 2022-01-02 01:20:00 | tramore     |      5 |        2 | Al Boum Photo      |   1.36 | overthrow           |
-| 13 | :soon:            | 2022-01-02 01:10:00 | musselburgh |      4 |        2 | Christopher Wood   |   5    | overthrow           |
-| 14 | :soon:            | 2022-01-02 01:00:00 | cheltenham  |      4 |        3 | Simply The Betts   |  11    | overthrow           |
-| 15 | :soon:            | 2022-01-02 01:00:00 | cheltenham  |      4 |        8 | Alnadam            |   6    | overthrow           |
-| 16 | :soon:            | 2022-01-02 00:25:00 | cheltenham  |      3 |        2 | L'Homme Presse     |   2.7  | milkman             |
-| 17 | :soon:            | 2022-01-02 00:25:00 | cheltenham  |      3 |        5 | Gallyhill          |  26    | overthrow           |
-| 18 | :soon:            | 2022-01-02 00:25:00 | cheltenham  |      3 |        1 | Gladiateur Allen   |  31    | overthrow           |
-| 19 | :soon:            | 2022-01-02 00:20:00 | fakenham    |      2 |        9 | Scattercash        |  81    | cosmo,bob           |
-| 20 | :soon:            | 2022-01-02 00:10:00 | tramore     |      3 |        8 | Hors Piste         |   1.9  | overthrow           |
-| 21 | :soon:            | 2022-01-01 23:55:00 | turffontein |      6 |        6 | Outofthedarkness   |   0    | milkman             |
-| 22 | :soon:            | 2022-01-01 23:55:00 | turffontein |      6 |        3 | Prince Of Fire     |   0    | milkman             |
-| 23 | :soon:            | 2022-01-01 23:55:00 | fairyhouse  |      3 |        9 | Follow The Crowd   |   7.5  | looseknot           |
-| 24 | :soon:            | 2022-01-01 23:55:00 | fairyhouse  |      3 |       11 | Kashi              |   5    | looseknot           |
-| 25 | :soon:            | 2022-01-01 23:50:00 | cheltenham  |      2 |        1 | Brave Eagle        |  17    | overthrow           |
-| 26 | :soon:            | 2022-01-01 23:30:00 | musselburgh |      1 |        1 | Collingham         |   2.8  | vulture             |
-| 27 | :soon:            | 2022-01-01 23:20:00 | turffontein |      5 |        6 | Sprinkles          |   0    | milkman             |
-| 28 | :soon:            | 2022-01-01 23:15:00 | cheltenham  |      1 |        3 | I Am Maximus       |   2.25 | overthrow,milkman   |
-| 29 | :soon:            | 2022-01-01 23:15:00 | cheltenham  |      1 |        7 | Get A Tonic        |   4.8  | evenodds,overthrow  |
-| 30 | :soon:            | 2022-01-01 23:15:00 | cheltenham  |      1 |        2 | Hillcrest          |   4.6  | vulture,milkman     |
-| 31 | :soon:            | 2022-01-01 23:15:00 | cheltenham  |      1 |        1 | Doctor Ken         |   8    | vulture             |
-| 32 | :soon:            | 2022-01-01 23:00:00 | tramore     |      1 |        3 | El Fabiolo         |   1.5  | overthrow           |
-| 33 | :soon:            | 2022-01-01 20:45:00 | sha-tin     |     11 |       13 | Zone D             |   0    | vulture             |
-| 34 | :soon:            | 2022-01-01 20:20:00 | ascot       |     10 |        4 | Son Son            |   4.6  | vulture,blackshadow |
-| 35 | :soon:            | 2022-01-01 20:10:00 | sha-tin     |     10 |        3 | Blaze Warrior      |   0    | icyhot              |
-| 36 | :soon:            | 2022-01-01 19:58:00 | toowoomba   |      4 |        2 | Got The Lot        |   7    | benny,pangea        |
-| 37 | :soon:            | 2022-01-01 19:45:00 | ascot       |      9 |       14 | Pure Devotion      |   5.5  | vulture             |
-| 38 | :soon:            | 2022-01-01 19:45:00 | ascot       |      9 |       15 | Stafford's Lad     |   6    | evenodds,overthrow  |
-| 39 | :soon:            | 2022-01-01 19:05:00 | ascot       |      8 |        4 | Beret              |   3.6  | vulture             |
-| 40 | :soon:            | 2022-01-01 19:05:00 | sha-tin     |      8 |        5 | Master Eight       |   0    | milkman,icyhot      |
-| 41 | :3rd_place_medal: | 2022-01-01 18:48:00 | darwin      |      6 |        3 | Grand Final        |   7.5  | looseknot           |
-| 42 | 4.0               | 2022-01-01 18:48:00 | darwin      |      6 |        6 | Skellig Island     |   6    | overthrow,looseknot |
-| 43 | 5.0               | 2022-01-01 18:48:00 | darwin      |      6 |        1 | Count of Essex     |   6    | pangea              |
-| 44 | 5.0               | 2022-01-01 18:17:00 | darwin      |      5 |        2 | Another Bit        |   4    | overthrow           |
-| 45 | 9.0               | 2022-01-01 18:10:00 | geraldton   |      5 |        1 | Human Nature       |   9    | looseknot           |
-| 46 | :boom:            | 2022-01-01 18:10:00 | geraldton   |      5 |        3 | Three Sessions     |   1.85 | pangea,icyhot       |
-| 47 | :3rd_place_medal: | 2022-01-01 17:56:00 | toowoomba   |      1 |        1 | I Promise You      |   3.6  | evenodds,overthrow  |
-| 48 | :2nd_place_medal: | 2022-01-01 17:45:00 | ascot       |      6 |       10 | The Front Bar      |   2.4  | pangea,icyhot       |
-| 49 | :boom:            | 2022-01-01 17:45:00 | ascot       |      6 |        6 | Miss Conteki       |   2.88 | pangea,icyhot       |
-| 50 | 8.0               | 2022-01-01 17:40:00 | darwin      |      4 |        6 | Extrapolate        |  18    | cosmo,bob           |
-| 51 | 7.0               | 2022-01-01 17:40:00 | darwin      |      4 |        5 | Raazou             |   3    | overthrow           |
-| 52 | :boom:            | 2022-01-01 17:28:00 | doomben     |      8 |        1 | Kementari          |  12    | pangea              |
-| 53 | 6.0               | 2022-01-01 17:28:00 | doomben     |      8 |        4 | Tambo's Mate       |   6    | evenodds,overthrow  |
-| 54 | --                | 2022-01-01 17:20:00 | kensington  |      9 |        7 | Kir Royale         |   4.75 | pangea,icyhot       |
-| 55 | 10.0              | 2022-01-01 17:14:00 | murray-bdge |      8 |       12 | Vancity Gem        |   9    | vulture             |
-| 56 | :boom:            | 2022-01-01 17:14:00 | murray-bdge |      8 |        9 | Spectacle          |   4.75 | pangea              |
-| 57 | 9.0               | 2022-01-01 17:14:00 | murray-bdge |      8 |       15 | So Bene            |  41    | cosmo,bluey         |
-| 58 | 6.0               | 2022-01-01 17:04:00 | longford    |      7 |        5 | Belle Cadeau       |   4.33 | milkman             |
-| 59 | :boom:            | 2022-01-01 16:48:00 | doomben     |      7 |        2 | Tiger Heart        |   9    | pangea,overthrow    |
-| 60 | :2nd_place_medal: | 2022-01-01 16:48:00 | doomben     |      7 |        8 | Shihonka           |   1.91 | vulture             |
-| 61 | :boom:            | 2022-01-01 16:18:00 | darwin      |      2 |        5 | Bel's Banner       |   1.65 | benny,icyhot        |
-| 62 | 4.0               | 2022-01-01 16:08:00 | doomben     |      6 |        5 | Humbolt Current    |   3.7  | vulture,pangea      |
-| 63 | :3rd_place_medal: | 2022-01-01 15:52:00 | murray-bdge |      6 |        7 | Kung Fu Fighting   |   3.1  | milkman             |
-| 64 | :boom:            | 2022-01-01 15:45:00 | ascot       |      3 |        3 | Bopping Blue       |   8.5  | vulture,blackshadow |
-| 65 | :3rd_place_medal: | 2022-01-01 15:45:00 | ascot       |      3 |        1 | He's A Sizzler     |   4.33 | evenodds,overthrow  |
-| 66 | 6.0               | 2022-01-01 15:38:00 | darwin      |      1 |        1 | The Albion         |   3.1  | pangea              |
-| 67 | :boom:            | 2022-01-01 15:20:00 | kensington  |      6 |        4 | Kirwan's Lane      |   3.2  | vulture             |
-| 68 | 7.0               | 2022-01-01 15:10:00 | ellerslie   |      9 |        1 | Showoroses         |   9    | vulture             |
-| 69 | --                | 2022-01-01 15:10:00 | ellerslie   |      9 |        4 | Gold Watch         |   2.15 | milkman             |
-| 70 | 4.0               | 2022-01-01 15:08:00 | gatton      |      5 |        2 | Lexington Lad      |   3    | pangea              |
-| 71 | 6.0               | 2022-01-01 15:08:00 | gatton      |      5 |        7 | Stormtrooper       |   9.5  | pangea              |
-| 72 | --                | 2022-01-01 14:48:00 | doomben     |      4 |        3 | Ef Troop           |   4.6  | overthrow           |
-| 73 | :3rd_place_medal: | 2022-01-01 14:32:00 | murray-bdge |      4 |        8 | Ideas Man          |   6.5  | pangea,looseknot    |
-| 74 | 11.0              | 2022-01-01 14:20:00 | flemington  |      8 |        2 | Yulong January     |   9.5  | pangea,icyhot       |
-| 75 | :3rd_place_medal: | 2022-01-01 14:20:00 | flemington  |      8 |       12 | Not to Be Mist     |   8    | vulture,blackshadow |
-| 76 | 7.0               | 2022-01-01 14:20:00 | flemington  |      8 |        8 | Second Slip        |   7.5  | pangea,overthrow    |
-| 77 | :3rd_place_medal: | 2022-01-01 13:57:00 | murray-bdge |      3 |        3 | Stars The Limit    |   1.6  | vulture             |
-| 78 | 4.0               | 2022-01-01 13:45:00 | flemington  |      7 |        1 | Good Idea          |   7    | vulture             |
-| 79 | 9.0               | 2022-01-01 13:45:00 | flemington  |      7 |        2 | Smokin' Romans     |   2.15 | vulture             |
-| 80 | :3rd_place_medal: | 2022-01-01 13:37:00 | riverton    |      7 |        3 | Kilowatt           |   7    | looseknot           |
-| 81 | 4.0               | 2022-01-01 13:03:00 | doomben     |      1 |        8 | Excelness          |   6    | vulture,milkman     |
-| 82 | :boom:            | 2022-01-01 13:03:00 | doomben     |      1 |        3 | Kingston's Here    |   2.8  | vulture             |
-| 83 | 6.0               | 2022-01-01 12:51:00 | mornington  |      1 |        6 | Top Arctic         |  23    | moechilli           |
-| 84 | 5.0               | 2022-01-01 12:35:00 | flemington  |      5 |        2 | Bermadez           |   1.8  | milkman             |
-| 85 | :2nd_place_medal: | 2022-01-01 12:07:00 | ellerslie   |      4 |        3 | Cheaperthandivorce |   1.9  | vulture             |
-| 86 | 7.0               | 2022-01-01 12:05:00 | flemington  |      4 |       11 | Butter Blonde      |  13    | evenodds,overthrow  |
-| 87 | 9.0               | 2022-01-01 12:05:00 | flemington  |      4 |        5 | Titans             |  18    | vulture,milkman     |
-| 88 | 5.0               | 2022-01-01 12:05:00 | flemington  |      4 |        4 | Along The River    |   6    | vulture             |
-| 89 | --                | 2022-01-01 12:05:00 | flemington  |      4 |        7 | Vermentino         |   9    | pangea              |
-| 90 | :2nd_place_medal: | 2022-01-01 12:05:00 | flemington  |      4 |        1 | Sharp Response     |  21    | milkman             |
-| 91 | :boom:            | 2022-01-01 11:32:00 | ellerslie   |      3 |        5 | Wolverine          |   1.75 | milkman             |
-| 92 | :3rd_place_medal: | 2022-01-01 11:32:00 | ellerslie   |      3 |        7 | I Choose You       |   2.5  | milkman             |
-| 93 | :2nd_place_medal: | 2022-01-01 11:32:00 | ellerslie   |      3 |        8 | Pacific Dragon     |  19    | vulture             |
-| 94 | :3rd_place_medal: | 2022-01-01 10:35:00 | flemington  |      1 |        1 | Kin                |   2.5  | vulture             |
+|    | finish                   | time                | track       |   race |   number | name               |   odds | tipster             |
+|---:|:-------------------------|:--------------------|:------------|-------:|---------:|:-------------------|-------:|:--------------------|
+|  0 | :soon:                   | 2022-01-02 02:50:00 | cheltenham  |      7 |       10 | Royal Max          |   6    | overthrow           |
+|  1 | :soon:                   | 2022-01-02 02:50:00 | cheltenham  |      7 |       13 | Iliade Allen       |   6.5  | milkman             |
+|  2 | :soon:                   | 2022-01-02 02:50:00 | cheltenham  |      7 |        9 | Mr Sundancer       |  19    | milkman             |
+|  3 | :soon:                   | 2022-01-02 02:15:00 | fairyhouse  |      7 |        3 | Grand Paradis      |   3    | milkman             |
+|  4 | :soon:                   | 2022-01-02 02:15:00 | fairyhouse  |      7 |       10 | Shadow Rider       |   5.5  | overthrow           |
+|  5 | :soon:                   | 2022-01-02 02:10:00 | cheltenham  |      6 |        5 | On The Blind Side  |  17    | overthrow           |
+|  6 | :soon:                   | 2022-01-02 02:10:00 | cheltenham  |      6 |        3 | Mcfabulous         |   3.9  | overthrow,milkman   |
+|  7 | :soon:                   | 2022-01-02 02:10:00 | cheltenham  |      6 |        1 | Brewin'upastorm    |   2.8  | vulture             |
+|  8 | :soon:                   | 2022-01-02 01:40:00 | fairyhouse  |      6 |        1 | Put The Kettle On  |   3    | milkman             |
+|  9 | :soon:                   | 2022-01-02 01:40:00 | fairyhouse  |      6 |        5 | Elimay             |   2.6  | overthrow           |
+| 10 | :soon:                   | 2022-01-02 01:35:00 | cheltenham  |      5 |        8 | Spiritofthegames   |  12    | overthrow           |
+| 11 | :soon:                   | 2022-01-02 01:35:00 | cheltenham  |      5 |        9 | Tamar Bridge       |   6    | milkman             |
+| 12 | :soon:                   | 2022-01-02 01:20:00 | tramore     |      5 |        2 | Al Boum Photo      |   1.36 | overthrow           |
+| 13 | :soon:                   | 2022-01-02 01:10:00 | musselburgh |      4 |        2 | Christopher Wood   |   5    | overthrow           |
+| 14 | :soon:                   | 2022-01-02 01:00:00 | cheltenham  |      4 |        3 | Simply The Betts   |  11    | overthrow           |
+| 15 | :soon:                   | 2022-01-02 01:00:00 | cheltenham  |      4 |        8 | Alnadam            |   6    | overthrow           |
+| 16 | :soon:                   | 2022-01-02 00:25:00 | cheltenham  |      3 |        2 | L'Homme Presse     |   2.7  | milkman             |
+| 17 | :soon:                   | 2022-01-02 00:25:00 | cheltenham  |      3 |        5 | Gallyhill          |  26    | overthrow           |
+| 18 | :soon:                   | 2022-01-02 00:25:00 | cheltenham  |      3 |        1 | Gladiateur Allen   |  31    | overthrow           |
+| 19 | :soon:                   | 2022-01-02 00:20:00 | fakenham    |      2 |        9 | Scattercash        |  81    | cosmo,bob           |
+| 20 | :soon:                   | 2022-01-02 00:10:00 | tramore     |      3 |        8 | Hors Piste         |   1.9  | overthrow           |
+| 21 | :soon:                   | 2022-01-01 23:55:00 | turffontein |      6 |        6 | Outofthedarkness   |   0    | milkman             |
+| 22 | :soon:                   | 2022-01-01 23:55:00 | turffontein |      6 |        3 | Prince Of Fire     |   0    | milkman             |
+| 23 | :soon:                   | 2022-01-01 23:55:00 | fairyhouse  |      3 |        9 | Follow The Crowd   |   7.5  | looseknot           |
+| 24 | :soon:                   | 2022-01-01 23:55:00 | fairyhouse  |      3 |       11 | Kashi              |   5    | looseknot           |
+| 25 | :soon:                   | 2022-01-01 23:50:00 | cheltenham  |      2 |        1 | Brave Eagle        |  17    | overthrow           |
+| 26 | :soon:                   | 2022-01-01 23:30:00 | musselburgh |      1 |        1 | Collingham         |   2.8  | vulture             |
+| 27 | :soon:                   | 2022-01-01 23:20:00 | turffontein |      5 |        6 | Sprinkles          |   0    | milkman             |
+| 28 | :soon:                   | 2022-01-01 23:15:00 | cheltenham  |      1 |        3 | I Am Maximus       |   2.25 | overthrow,milkman   |
+| 29 | :soon:                   | 2022-01-01 23:15:00 | cheltenham  |      1 |        7 | Get A Tonic        |   4.8  | evenodds,overthrow  |
+| 30 | :soon:                   | 2022-01-01 23:15:00 | cheltenham  |      1 |        2 | Hillcrest          |   4.6  | vulture,milkman     |
+| 31 | :soon:                   | 2022-01-01 23:15:00 | cheltenham  |      1 |        1 | Doctor Ken         |   8    | vulture             |
+| 32 | :soon:                   | 2022-01-01 23:00:00 | tramore     |      1 |        3 | El Fabiolo         |   1.5  | overthrow           |
+| 33 | :soon:                   | 2022-01-01 20:45:00 | sha-tin     |     11 |       13 | Zone D             |   0    | vulture             |
+| 34 | :soon:                   | 2022-01-01 20:20:00 | ascot       |     10 |        4 | Son Son            |   4.6  | vulture,blackshadow |
+| 35 | :soon:                   | 2022-01-01 20:10:00 | sha-tin     |     10 |        3 | Blaze Warrior      |   0    | icyhot              |
+| 36 | :soon:                   | 2022-01-01 19:58:00 | toowoomba   |      4 |        2 | Got The Lot        |   7    | benny,pangea        |
+| 37 | :soon:                   | 2022-01-01 19:45:00 | ascot       |      9 |       14 | Pure Devotion      |   5.5  | vulture             |
+| 38 | :soon:                   | 2022-01-01 19:45:00 | ascot       |      9 |       15 | Stafford's Lad     |   6    | evenodds,overthrow  |
+| 39 | :hourglass_flowing_sand: | 2022-01-01 19:05:00 | ascot       |      8 |        4 | Beret              |   3.6  | vulture             |
+| 40 | :hourglass_flowing_sand: | 2022-01-01 19:05:00 | sha-tin     |      8 |        5 | Master Eight       |   0    | milkman,icyhot      |
+| 41 | :3rd_place_medal:        | 2022-01-01 18:48:00 | darwin      |      6 |        3 | Grand Final        |   7.5  | looseknot           |
+| 42 | 4.0                      | 2022-01-01 18:48:00 | darwin      |      6 |        6 | Skellig Island     |   6    | overthrow,looseknot |
+| 43 | 5.0                      | 2022-01-01 18:48:00 | darwin      |      6 |        1 | Count of Essex     |   6    | pangea              |
+| 44 | 5.0                      | 2022-01-01 18:17:00 | darwin      |      5 |        2 | Another Bit        |   4    | overthrow           |
+| 45 | 9.0                      | 2022-01-01 18:10:00 | geraldton   |      5 |        1 | Human Nature       |   9    | looseknot           |
+| 46 | :boom:                   | 2022-01-01 18:10:00 | geraldton   |      5 |        3 | Three Sessions     |   1.85 | pangea,icyhot       |
+| 47 | :3rd_place_medal:        | 2022-01-01 17:56:00 | toowoomba   |      1 |        1 | I Promise You      |   3.6  | evenodds,overthrow  |
+| 48 | :2nd_place_medal:        | 2022-01-01 17:45:00 | ascot       |      6 |       10 | The Front Bar      |   2.4  | pangea,icyhot       |
+| 49 | :boom:                   | 2022-01-01 17:45:00 | ascot       |      6 |        6 | Miss Conteki       |   2.88 | pangea,icyhot       |
+| 50 | 8.0                      | 2022-01-01 17:40:00 | darwin      |      4 |        6 | Extrapolate        |  18    | cosmo,bob           |
+| 51 | 7.0                      | 2022-01-01 17:40:00 | darwin      |      4 |        5 | Raazou             |   3    | overthrow           |
+| 52 | :boom:                   | 2022-01-01 17:28:00 | doomben     |      8 |        1 | Kementari          |  12    | pangea              |
+| 53 | 6.0                      | 2022-01-01 17:28:00 | doomben     |      8 |        4 | Tambo's Mate       |   6    | evenodds,overthrow  |
+| 54 | --                       | 2022-01-01 17:20:00 | kensington  |      9 |        7 | Kir Royale         |   4.75 | pangea,icyhot       |
+| 55 | 10.0                     | 2022-01-01 17:14:00 | murray-bdge |      8 |       12 | Vancity Gem        |   9    | vulture             |
+| 56 | :boom:                   | 2022-01-01 17:14:00 | murray-bdge |      8 |        9 | Spectacle          |   4.75 | pangea              |
+| 57 | 9.0                      | 2022-01-01 17:14:00 | murray-bdge |      8 |       15 | So Bene            |  41    | cosmo,bluey         |
+| 58 | 6.0                      | 2022-01-01 17:04:00 | longford    |      7 |        5 | Belle Cadeau       |   4.33 | milkman             |
+| 59 | :boom:                   | 2022-01-01 16:48:00 | doomben     |      7 |        2 | Tiger Heart        |   9    | pangea,overthrow    |
+| 60 | :2nd_place_medal:        | 2022-01-01 16:48:00 | doomben     |      7 |        8 | Shihonka           |   1.91 | vulture             |
+| 61 | :boom:                   | 2022-01-01 16:18:00 | darwin      |      2 |        5 | Bel's Banner       |   1.65 | benny,icyhot        |
+| 62 | 4.0                      | 2022-01-01 16:08:00 | doomben     |      6 |        5 | Humbolt Current    |   3.7  | vulture,pangea      |
+| 63 | :3rd_place_medal:        | 2022-01-01 15:52:00 | murray-bdge |      6 |        7 | Kung Fu Fighting   |   3.1  | milkman             |
+| 64 | :boom:                   | 2022-01-01 15:45:00 | ascot       |      3 |        3 | Bopping Blue       |   8.5  | vulture,blackshadow |
+| 65 | :3rd_place_medal:        | 2022-01-01 15:45:00 | ascot       |      3 |        1 | He's A Sizzler     |   4.33 | evenodds,overthrow  |
+| 66 | 6.0                      | 2022-01-01 15:38:00 | darwin      |      1 |        1 | The Albion         |   3.1  | pangea              |
+| 67 | :boom:                   | 2022-01-01 15:20:00 | kensington  |      6 |        4 | Kirwan's Lane      |   3.2  | vulture             |
+| 68 | 7.0                      | 2022-01-01 15:10:00 | ellerslie   |      9 |        1 | Showoroses         |   9    | vulture             |
+| 69 | --                       | 2022-01-01 15:10:00 | ellerslie   |      9 |        4 | Gold Watch         |   2.15 | milkman             |
+| 70 | 4.0                      | 2022-01-01 15:08:00 | gatton      |      5 |        2 | Lexington Lad      |   3    | pangea              |
+| 71 | 6.0                      | 2022-01-01 15:08:00 | gatton      |      5 |        7 | Stormtrooper       |   9.5  | pangea              |
+| 72 | --                       | 2022-01-01 14:48:00 | doomben     |      4 |        3 | Ef Troop           |   4.6  | overthrow           |
+| 73 | :3rd_place_medal:        | 2022-01-01 14:32:00 | murray-bdge |      4 |        8 | Ideas Man          |   6.5  | pangea,looseknot    |
+| 74 | 11.0                     | 2022-01-01 14:20:00 | flemington  |      8 |        2 | Yulong January     |   9.5  | pangea,icyhot       |
+| 75 | :3rd_place_medal:        | 2022-01-01 14:20:00 | flemington  |      8 |       12 | Not to Be Mist     |   8    | vulture,blackshadow |
+| 76 | 7.0                      | 2022-01-01 14:20:00 | flemington  |      8 |        8 | Second Slip        |   7.5  | pangea,overthrow    |
+| 77 | :3rd_place_medal:        | 2022-01-01 13:57:00 | murray-bdge |      3 |        3 | Stars The Limit    |   1.6  | vulture             |
+| 78 | 4.0                      | 2022-01-01 13:45:00 | flemington  |      7 |        1 | Good Idea          |   7    | vulture             |
+| 79 | 9.0                      | 2022-01-01 13:45:00 | flemington  |      7 |        2 | Smokin' Romans     |   2.15 | vulture             |
+| 80 | :3rd_place_medal:        | 2022-01-01 13:37:00 | riverton    |      7 |        3 | Kilowatt           |   7    | looseknot           |
+| 81 | 4.0                      | 2022-01-01 13:03:00 | doomben     |      1 |        8 | Excelness          |   6    | vulture,milkman     |
+| 82 | :boom:                   | 2022-01-01 13:03:00 | doomben     |      1 |        3 | Kingston's Here    |   2.8  | vulture             |
+| 83 | 6.0                      | 2022-01-01 12:51:00 | mornington  |      1 |        6 | Top Arctic         |  23    | moechilli           |
+| 84 | 5.0                      | 2022-01-01 12:35:00 | flemington  |      5 |        2 | Bermadez           |   1.8  | milkman             |
+| 85 | :2nd_place_medal:        | 2022-01-01 12:07:00 | ellerslie   |      4 |        3 | Cheaperthandivorce |   1.9  | vulture             |
+| 86 | 7.0                      | 2022-01-01 12:05:00 | flemington  |      4 |       11 | Butter Blonde      |  13    | evenodds,overthrow  |
+| 87 | 9.0                      | 2022-01-01 12:05:00 | flemington  |      4 |        5 | Titans             |  18    | vulture,milkman     |
+| 88 | 5.0                      | 2022-01-01 12:05:00 | flemington  |      4 |        4 | Along The River    |   6    | vulture             |
+| 89 | --                       | 2022-01-01 12:05:00 | flemington  |      4 |        7 | Vermentino         |   9    | pangea              |
+| 90 | :2nd_place_medal:        | 2022-01-01 12:05:00 | flemington  |      4 |        1 | Sharp Response     |  21    | milkman             |
+| 91 | :boom:                   | 2022-01-01 11:32:00 | ellerslie   |      3 |        5 | Wolverine          |   1.75 | milkman             |
+| 92 | :3rd_place_medal:        | 2022-01-01 11:32:00 | ellerslie   |      3 |        7 | I Choose You       |   2.5  | milkman             |
+| 93 | :2nd_place_medal:        | 2022-01-01 11:32:00 | ellerslie   |      3 |        8 | Pacific Dragon     |  19    | vulture             |
+| 94 | :3rd_place_medal:        | 2022-01-01 10:35:00 | flemington  |      1 |        1 | Kin                |   2.5  | vulture             |
