@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 19:39:45 +1000  
+date: 2022-01-01 19:54:54 +1000  
 ---   
 
 
@@ -116,8 +116,8 @@ date: 2022-01-01 19:39:45 +1000
 | 34 | :soon:            | 2022-01-01 20:20:00 | ascot       |     10 |        4 | Son Son            |   4.6  | vulture,blackshadow |
 | 35 | :soon:            | 2022-01-01 20:10:00 | sha-tin     |     10 |        3 | Blaze Warrior      |   0    | icyhot              |
 | 36 | :soon:            | 2022-01-01 19:58:00 | toowoomba   |      4 |        2 | Got The Lot        |   7    | benny,pangea        |
-| 37 | :soon:            | 2022-01-01 19:45:00 | ascot       |      9 |       14 | Pure Devotion      |   5.5  | vulture             |
-| 38 | :soon:            | 2022-01-01 19:45:00 | ascot       |      9 |       15 | Stafford's Lad     |   6    | evenodds,overthrow  |
+| 37 | 4.0               | 2022-01-01 19:45:00 | ascot       |      9 |       14 | Pure Devotion      |   5.5  | vulture             |
+| 38 | --                | 2022-01-01 19:45:00 | ascot       |      9 |       15 | Stafford's Lad     |   6    | evenodds,overthrow  |
 | 39 | :boom:            | 2022-01-01 19:05:00 | ascot       |      8 |        4 | Beret              |   3.6  | vulture             |
 | 40 | :boom:            | 2022-01-01 19:05:00 | sha-tin     |      8 |        5 | Master Eight       |   0    | milkman,icyhot      |
 | 41 | :3rd_place_medal: | 2022-01-01 18:48:00 | darwin      |      6 |        3 | Grand Final        |   7.5  | looseknot           |
