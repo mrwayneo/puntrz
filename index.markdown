@@ -1,11 +1,25 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-02 07:20:07 +1000  
+date: 2022-01-02 07:26:42 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      0 |      -10 |    0 |    -1 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      2 |      0 |      -20 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      0 |      -80 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     12 |      0 |     -120 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     43 |      0 |     -430 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     49 |      0 |     -490 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -75,8 +89,8 @@ date: 2022-01-02 07:20:07 +1000
 | 11 | --                | 2022-01-02 01:35:00 | cheltenham  |      5 |        9 | Tamar Bridge       |   6    | milkman             |
 | 12 | :boom:            | 2022-01-02 01:20:00 | tramore     |      5 |        2 | Al Boum Photo      |   1.36 | overthrow           |
 | 13 | :2nd_place_medal: | 2022-01-02 01:10:00 | musselburgh |      4 |        2 | Christopher Wood   |   5    | overthrow           |
-| 14 | :2nd_place_medal: | 2022-01-02 01:00:00 | cheltenham  |      4 |        3 | Simply The Betts   |  11    | overthrow           |
-| 15 | :3rd_place_medal: | 2022-01-02 01:00:00 | cheltenham  |      4 |        8 | Alnadam            |   6    | overthrow           |
+| 14 | :3rd_place_medal: | 2022-01-02 01:00:00 | cheltenham  |      4 |        8 | Alnadam            |   6    | overthrow           |
+| 15 | :2nd_place_medal: | 2022-01-02 01:00:00 | cheltenham  |      4 |        3 | Simply The Betts   |  11    | overthrow           |
 | 16 | :boom:            | 2022-01-02 00:25:00 | cheltenham  |      3 |        2 | L'Homme Presse     |   2.7  | milkman             |
 | 17 | --                | 2022-01-02 00:25:00 | cheltenham  |      3 |        5 | Gallyhill          |  26    | overthrow           |
 | 18 | --                | 2022-01-02 00:25:00 | cheltenham  |      3 |        1 | Gladiateur Allen   |  31    | overthrow           |
@@ -135,12 +149,12 @@ date: 2022-01-02 07:20:07 +1000
 | 71 | 6.0               | 2022-01-01 15:08:00 | gatton      |      5 |        7 | Stormtrooper       |   9.5  | pangea              |
 | 72 | --                | 2022-01-01 14:48:00 | doomben     |      4 |        3 | Ef Troop           |   4.6  | overthrow           |
 | 73 | :3rd_place_medal: | 2022-01-01 14:32:00 | murray-bdge |      4 |        8 | Ideas Man          |   6.5  | pangea,looseknot    |
-| 74 | 11.0              | 2022-01-01 14:20:00 | flemington  |      8 |        2 | Yulong January     |   9.5  | pangea,icyhot       |
+| 74 | 7.0               | 2022-01-01 14:20:00 | flemington  |      8 |        8 | Second Slip        |   7.5  | pangea,overthrow    |
 | 75 | :3rd_place_medal: | 2022-01-01 14:20:00 | flemington  |      8 |       12 | Not to Be Mist     |   8    | vulture,blackshadow |
-| 76 | 7.0               | 2022-01-01 14:20:00 | flemington  |      8 |        8 | Second Slip        |   7.5  | pangea,overthrow    |
+| 76 | 11.0              | 2022-01-01 14:20:00 | flemington  |      8 |        2 | Yulong January     |   9.5  | pangea,icyhot       |
 | 77 | :3rd_place_medal: | 2022-01-01 13:57:00 | murray-bdge |      3 |        3 | Stars The Limit    |   1.6  | vulture             |
-| 78 | 4.0               | 2022-01-01 13:45:00 | flemington  |      7 |        1 | Good Idea          |   7    | vulture             |
-| 79 | 9.0               | 2022-01-01 13:45:00 | flemington  |      7 |        2 | Smokin' Romans     |   2.15 | vulture             |
+| 78 | 9.0               | 2022-01-01 13:45:00 | flemington  |      7 |        2 | Smokin' Romans     |   2.15 | vulture             |
+| 79 | 4.0               | 2022-01-01 13:45:00 | flemington  |      7 |        1 | Good Idea          |   7    | vulture             |
 | 80 | :3rd_place_medal: | 2022-01-01 13:37:00 | riverton    |      7 |        3 | Kilowatt           |   7    | looseknot           |
 | 81 | 4.0               | 2022-01-01 13:03:00 | doomben     |      1 |        8 | Excelness          |   6    | vulture,milkman     |
 | 82 | :boom:            | 2022-01-01 13:03:00 | doomben     |      1 |        3 | Kingston's Here    |   2.8  | vulture             |
