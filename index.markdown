@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-01 14:18:54 +1000  
+date: 2022-01-01 14:38:29 +1000  
 ---   
 
 
@@ -152,10 +152,10 @@ date: 2022-01-01 14:18:54 +1000
 | 70 | :soon:            | 2022-01-01 15:08:00 | gatton      |      5 |        2 | Lexington Lad      |   3    | pangea              |
 | 71 | :soon:            | 2022-01-01 15:08:00 | gatton      |      5 |        7 | Stormtrooper       |   9.5  | pangea              |
 | 72 | :soon:            | 2022-01-01 14:48:00 | doomben     |      4 |        3 | Ef Troop           |   4.6  | overthrow           |
-| 73 | :soon:            | 2022-01-01 14:32:00 | murray-bdge |      4 |        8 | Ideas Man          |   6.5  | pangea,looseknot    |
-| 74 | :soon:            | 2022-01-01 14:20:00 | flemington  |      8 |        2 | Yulong January     |   9.5  | pangea,icyhot       |
-| 75 | :soon:            | 2022-01-01 14:20:00 | flemington  |      8 |       12 | Not to Be Mist     |   8    | vulture,blackshadow |
-| 76 | :soon:            | 2022-01-01 14:20:00 | flemington  |      8 |        8 | Second Slip        |   7.5  | pangea,overthrow    |
+| 73 | :3rd_place_medal: | 2022-01-01 14:32:00 | murray-bdge |      4 |        8 | Ideas Man          |   6.5  | pangea,looseknot    |
+| 74 | --                | 2022-01-01 14:20:00 | flemington  |      8 |        2 | Yulong January     |   9.5  | pangea,icyhot       |
+| 75 | :3rd_place_medal: | 2022-01-01 14:20:00 | flemington  |      8 |       12 | Not to Be Mist     |   8    | vulture,blackshadow |
+| 76 | --                | 2022-01-01 14:20:00 | flemington  |      8 |        8 | Second Slip        |   7.5  | pangea,overthrow    |
 | 77 | :3rd_place_medal: | 2022-01-01 13:57:00 | murray-bdge |      3 |        3 | Stars The Limit    |   1.6  | vulture             |
 | 78 | 4.0               | 2022-01-01 13:45:00 | flemington  |      7 |        1 | Good Idea          |   7    | vulture             |
 | 79 | 9.0               | 2022-01-01 13:45:00 | flemington  |      7 |        2 | Smokin' Romans     |   2.15 | vulture             |
