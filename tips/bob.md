@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-01 20:26:45 +1000  
+date: 2022-01-02 06:03:19 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      1 |     81   | 1    |  8.1  |
-| Last 28 Days   |     10 |      2 |     -9   | 0.2  | -0.09 |
-| Last 6 Months  |    116 |     24 |   2176.5 | 0.21 |  1.88 |
-| Since Jan 2020 |    224 |     40 |   3726.5 | 0.18 |  1.66 |
+| Last 7 Days    |      4 |      2 |    191   | 0.5  |  4.78 |
+| Last 28 Days   |     12 |      3 |    111   | 0.25 |  0.92 |
+| Last 6 Months  |    119 |     25 |   2286.5 | 0.21 |  1.92 |
+| Since Jan 2020 |    227 |     41 |   3836.5 | 0.18 |  1.69 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 00:20             | 2022-01-02 | fakenham R2                   | 9 Scattercash         |  81    |    -10   |
-| 22:50             | 2022-01-01 | fairyhouse R1                 | 2 Carrig Sam          |  10    |    -10   |
+| 0                 | 2022-01-02 | fakenham R2                   | 9 Scattercash         |   0    |    -10   |
+| :boom:            | 2022-01-01 | fairyhouse R1                 | 2 Carrig Sam          |  14    |    130   |
 | 8                 | 2022-01-01 | darwin R4                     | 6 Extrapolate         |  18    |    -10   |
 | :boom:            | 2021-12-30 | spendthrift-australia-park R7 | 1 Vasmee              |   9.1  |     81   |
 | 99                | 2021-12-26 | wincanton R1                  | 1 Atjima              |   0    |    -10   |
