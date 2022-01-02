@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-02 15:00:31 +1000  
+date: 2022-01-02 15:15:15 +1000  
 ---   
 
 
@@ -73,29 +73,29 @@ date: 2022-01-02 15:00:31 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6139 |    912 |  -8657.9 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7934 |    423 | -16000   | 0.05 | -0.2  |
 
-|    | finish   | time                | track          |   race |   number | name               |   odds | tipster            |
-|---:|:---------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-01-03 01:45:00 | naas           |      5 |        3 | Bronn              |   2.4  | overthrow,lago     |
-|  1 | :soon:   | 2022-01-03 01:45:00 | naas           |      5 |        2 | Better Times Ahead |  51    | overthrow          |
-|  2 | :soon:   | 2022-01-03 01:10:00 | naas           |      4 |        4 | Hollow Games       |   3    | vulture,milkman    |
-|  3 | :soon:   | 2022-01-03 01:10:00 | naas           |      4 |        2 | Ginto              |   2.5  | vulture            |
-|  4 | :soon:   | 2022-01-03 01:10:00 | naas           |      4 |        1 | Churchstonewarrior |  26    | evenodds,overthrow |
-|  5 | :soon:   | 2022-01-03 01:05:00 | newcastle      |      5 |        3 | Tempus             |   6.5  | pangea             |
-|  6 | :soon:   | 2022-01-03 00:40:00 | fairview       |      7 |        4 | Chile Jam          |   0    | vulture            |
-|  7 | :soon:   | 2022-01-03 00:30:00 | newcastle      |      4 |        1 | Good Effort        |   1.85 | vulture            |
-|  8 | :soon:   | 2022-01-03 00:20:00 | ayr            |      3 |        3 | Fabuleux Du Clos   |   4.4  | looseknot          |
-|  9 | :soon:   | 2022-01-03 00:10:00 | plumpton       |      3 |        3 | Another Mystery    |  10    | milkman            |
-| 10 | :soon:   | 2022-01-03 00:00:00 | naas           |      2 |        1 | Blue Lord          |   1.45 | overthrow          |
-| 11 | :soon:   | 2022-01-02 23:30:00 | naas           |      1 |        1 | Dolcita            |   3.9  | overthrow          |
-| 12 | :soon:   | 2022-01-02 21:50:00 | fairview       |      2 |        2 | Make It Happen     |   0    | vulture            |
-| 13 | :soon:   | 2022-01-02 17:25:00 | sunshine-coast |      8 |        3 | Gave Us Up         |   1.83 | vulture            |
-| 14 | :soon:   | 2022-01-02 17:20:00 | cranbourne     |      8 |        1 | Lord Sundowner     |   7.5  | evenodds,moechilli |
-| 15 | :soon:   | 2022-01-02 16:20:00 | terang         |      6 |        5 | Hint Of Mint       |   5.5  | pangea             |
-| 16 | :soon:   | 2022-01-02 16:00:00 | cranbourne     |      6 |        4 | Star Midfielder    |   2.5  | pangea             |
-| 17 | :soon:   | 2022-01-02 15:15:00 | ballina        |      4 |        7 | Not Too Hard       |   1.67 | vulture            |
-| 18 | :soon:   | 2022-01-02 15:15:00 | ballina        |      4 |        1 | Ballistic Babe     |   2.6  | looseknot          |
-| 19 | --       | 2022-01-02 14:53:00 | tauranga       |      7 |        1 | Amalfi Prince      |   1.45 | vulture            |
-| 20 | 4.0      | 2022-01-02 14:07:00 | tauherenikau   |      6 |        5 | Posh Porotene      |   5.5  | looseknot          |
-| 21 | 4.0      | 2022-01-02 13:05:00 | sunshine-coast |      1 |        4 | Just Gigi          |   3.8  | vulture            |
-| 22 | 105.0    | 2022-01-02 13:05:00 | sunshine-coast |      1 |        1 | Atlantic Eagle     |   0    | overthrow          |
-| 23 | 105.0    | 2022-01-02 13:00:00 | cranbourne     |      1 |       12 | Rapid Ruby         |   0    | vulture            |
+|    | finish                   | time                | track          |   race |   number | name               |   odds | tipster            |
+|---:|:-------------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:                   | 2022-01-03 01:45:00 | naas           |      5 |        3 | Bronn              |   2.4  | overthrow,lago     |
+|  1 | :soon:                   | 2022-01-03 01:45:00 | naas           |      5 |        2 | Better Times Ahead |  51    | overthrow          |
+|  2 | :soon:                   | 2022-01-03 01:10:00 | naas           |      4 |        4 | Hollow Games       |   3    | vulture,milkman    |
+|  3 | :soon:                   | 2022-01-03 01:10:00 | naas           |      4 |        2 | Ginto              |   2.5  | vulture            |
+|  4 | :soon:                   | 2022-01-03 01:10:00 | naas           |      4 |        1 | Churchstonewarrior |  26    | evenodds,overthrow |
+|  5 | :soon:                   | 2022-01-03 01:05:00 | newcastle      |      5 |        3 | Tempus             |   6.5  | pangea             |
+|  6 | :soon:                   | 2022-01-03 00:40:00 | fairview       |      7 |        4 | Chile Jam          |   0    | vulture            |
+|  7 | :soon:                   | 2022-01-03 00:30:00 | newcastle      |      4 |        1 | Good Effort        |   1.85 | vulture            |
+|  8 | :soon:                   | 2022-01-03 00:20:00 | ayr            |      3 |        3 | Fabuleux Du Clos   |   4.4  | looseknot          |
+|  9 | :soon:                   | 2022-01-03 00:10:00 | plumpton       |      3 |        3 | Another Mystery    |  10    | milkman            |
+| 10 | :soon:                   | 2022-01-03 00:00:00 | naas           |      2 |        1 | Blue Lord          |   1.45 | overthrow          |
+| 11 | :soon:                   | 2022-01-02 23:30:00 | naas           |      1 |        1 | Dolcita            |   3.9  | overthrow          |
+| 12 | :soon:                   | 2022-01-02 21:50:00 | fairview       |      2 |        2 | Make It Happen     |   0    | vulture            |
+| 13 | :soon:                   | 2022-01-02 17:25:00 | sunshine-coast |      8 |        3 | Gave Us Up         |   1.83 | vulture            |
+| 14 | :soon:                   | 2022-01-02 17:20:00 | cranbourne     |      8 |        1 | Lord Sundowner     |   7.5  | evenodds,moechilli |
+| 15 | :soon:                   | 2022-01-02 16:20:00 | terang         |      6 |        5 | Hint Of Mint       |   5.5  | pangea             |
+| 16 | :soon:                   | 2022-01-02 16:00:00 | cranbourne     |      6 |        4 | Star Midfielder    |   2.5  | pangea             |
+| 17 | :hourglass_flowing_sand: | 2022-01-02 15:15:00 | ballina        |      4 |        7 | Not Too Hard       |   1.67 | vulture            |
+| 18 | :hourglass_flowing_sand: | 2022-01-02 15:15:00 | ballina        |      4 |        1 | Ballistic Babe     |   2.6  | looseknot          |
+| 19 | --                       | 2022-01-02 14:53:00 | tauranga       |      7 |        1 | Amalfi Prince      |   1.45 | vulture            |
+| 20 | 4.0                      | 2022-01-02 14:07:00 | tauherenikau   |      6 |        5 | Posh Porotene      |   5.5  | looseknot          |
+| 21 | 4.0                      | 2022-01-02 13:05:00 | sunshine-coast |      1 |        4 | Just Gigi          |   3.8  | vulture            |
+| 22 | 105.0                    | 2022-01-02 13:05:00 | sunshine-coast |      1 |        1 | Atlantic Eagle     |   0    | overthrow          |
+| 23 | 105.0                    | 2022-01-02 13:00:00 | cranbourne     |      1 |       12 | Rapid Ruby         |   0    | vulture            |
