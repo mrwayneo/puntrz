@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-01-02 13:55:56 +1000  
+date: 2022-01-02 14:11:19 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 01:45             | 2022-01-03 | naas R5                | 3 Bronn              |  2.1  |    -10   |
+| 01:45             | 2022-01-03 | naas R5                | 3 Bronn              |  2.4  |    -10   |
 | :boom:            | 2021-12-30 | leopardstown R7        | 4 The Nice Guy       |  2    |     10   |
 | 99                | 2021-12-30 | leopardstown R3        | 2 Shewearsitwell     |  0    |    -10   |
 | :2nd_place_medal: | 2021-12-28 | leopardstown R1        | 5 Horantzau D'airy   |  2.2  |    -10   |

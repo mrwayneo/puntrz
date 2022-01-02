@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-02 13:55:56 +1000  
+date: 2022-01-02 14:11:20 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 0                 | 2022-01-02 | fakenham R2                   | 9 Scattercash         |   0    |    -10   |
+| 99                | 2022-01-02 | fakenham R2                   | 9 Scattercash         |   0    |    -10   |
 | :boom:            | 2022-01-01 | fairyhouse R1                 | 2 Carrig Sam          |  14    |    130   |
 | 8                 | 2022-01-01 | darwin R4                     | 6 Extrapolate         |  18    |    -10   |
 | :boom:            | 2021-12-30 | spendthrift-australia-park R7 | 1 Vasmee              |   9.1  |     81   |
@@ -23,8 +23,8 @@ categories: None
 | :boom:            | 2021-12-21 | wolverhampton R1              | 6 Ruby Red Empress    |   0    |    -10   |
 | 99                | 2021-12-17 | uttoxeter R3                  | 6 Glebe Road          |   0    |    -10   |
 | 5                 | 2021-12-15 | sandown-hillside R4           | 2 Covert              |  12    |    -10   |
-| 99                | 2021-12-12 | fairyhouse R6                 | 15 Merry Moves        |   0    |    -10   |
 | 99                | 2021-12-12 | fairyhouse R6                 | 3 Bearwithmenow       |   0    |    -10   |
+| 99                | 2021-12-12 | fairyhouse R6                 | 15 Merry Moves        |   0    |    -10   |
 | 99                | 2021-12-11 | cheltenham R4                 | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5                   | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6                 | 8 Precious            |   0    |    -10   |
@@ -191,8 +191,8 @@ categories: None
 | 9                 | 2021-03-29 | grafton R2                    | 7 Medusa's Fury       |   9.1  |    -10   |
 | 9                 | 2021-03-27 | morphettville R3              | 8 Oath Of Omerta      |  21    |    -10   |
 | 99                | 2021-03-27 | dundalk R5                    | 2 Doolin Dancer       |  21    |    -10   |
-| 99                | 2021-03-26 | cork R7                       | 14 Paper Lantern      | 101    |    -10   |
 | 99                | 2021-03-26 | cork R7                       | 2 Optum               |  15    |    -10   |
+| 99                | 2021-03-26 | cork R7                       | 14 Paper Lantern      | 101    |    -10   |
 | 99                | 2021-03-25 | hereford R6                   | 7 Manor Park          |  34    |    -10   |
 | 99                | 2021-03-21 | thurles R3                    | 9 Pateen              |  81    |    -10   |
 | 11                | 2021-03-20 | eagle-farm R9                 | 14 Our Rebel          |  63    |    -10   |
