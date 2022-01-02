@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-02 14:11:21 +1000  
+date: 2022-01-02 14:45:25 +1000  
 ---   
 
 
@@ -75,8 +75,8 @@ date: 2022-01-02 14:11:21 +1000
 
 |    | finish   | time                | track          |   race |   number | name               |   odds | tipster            |
 |---:|:---------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-01-03 01:45:00 | naas           |      5 |        3 | Bronn              |   2.1  | overthrow,lago     |
-|  1 | :soon:   | 2022-01-03 01:45:00 | naas           |      5 |        2 | Better Times Ahead |  34    | overthrow          |
+|  0 | :soon:   | 2022-01-03 01:45:00 | naas           |      5 |        3 | Bronn              |   2.4  | overthrow,lago     |
+|  1 | :soon:   | 2022-01-03 01:45:00 | naas           |      5 |        2 | Better Times Ahead |  51    | overthrow          |
 |  2 | :soon:   | 2022-01-03 01:10:00 | naas           |      4 |        4 | Hollow Games       |   3    | vulture,milkman    |
 |  3 | :soon:   | 2022-01-03 01:10:00 | naas           |      4 |        2 | Ginto              |   2.5  | vulture            |
 |  4 | :soon:   | 2022-01-03 01:10:00 | naas           |      4 |        1 | Churchstonewarrior |  26    | evenodds,overthrow |
@@ -95,7 +95,7 @@ date: 2022-01-02 14:11:21 +1000
 | 17 | :soon:   | 2022-01-02 15:15:00 | ballina        |      4 |        7 | Not Too Hard       |   1.67 | vulture            |
 | 18 | :soon:   | 2022-01-02 15:15:00 | ballina        |      4 |        1 | Ballistic Babe     |   2.6  | looseknot          |
 | 19 | :soon:   | 2022-01-02 14:53:00 | tauranga       |      7 |        1 | Amalfi Prince      |   1.45 | vulture            |
-| 20 | --       | 2022-01-02 14:07:00 | tauherenikau   |      6 |        5 | Posh Porotene      |   5.5  | looseknot          |
+| 20 | 4.0      | 2022-01-02 14:07:00 | tauherenikau   |      6 |        5 | Posh Porotene      |   5.5  | looseknot          |
 | 21 | 4.0      | 2022-01-02 13:05:00 | sunshine-coast |      1 |        4 | Just Gigi          |   3.8  | vulture            |
 | 22 | 105.0    | 2022-01-02 13:05:00 | sunshine-coast |      1 |        1 | Atlantic Eagle     |   0    | overthrow          |
 | 23 | 105.0    | 2022-01-02 13:00:00 | cranbourne     |      1 |       12 | Rapid Ruby         |   0    | vulture            |
