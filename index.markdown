@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-02 13:39:10 +1000  
+date: 2022-01-02 13:55:57 +1000  
 ---   
 
 
@@ -96,6 +96,6 @@ date: 2022-01-02 13:39:10 +1000
 | 18 | :soon:   | 2022-01-02 15:15:00 | ballina        |      4 |        1 | Ballistic Babe     |   4.5  | looseknot          |
 | 19 | :soon:   | 2022-01-02 14:53:00 | tauranga       |      7 |        1 | Amalfi Prince      |   2.05 | vulture            |
 | 20 | :soon:   | 2022-01-02 14:07:00 | tauherenikau   |      6 |        5 | Posh Porotene      |   5.5  | looseknot          |
-| 21 | --       | 2022-01-02 13:05:00 | sunshine-coast |      1 |        4 | Just Gigi          |   6    | vulture            |
+| 21 | 4.0      | 2022-01-02 13:05:00 | sunshine-coast |      1 |        4 | Just Gigi          |   6    | vulture            |
 | 22 | --       | 2022-01-02 13:05:00 | sunshine-coast |      1 |        1 | Atlantic Eagle     |   2.25 | overthrow          |
 | 23 | --       | 2022-01-02 13:00:00 | cranbourne     |      1 |       12 | Rapid Ruby         |   4.5  | vulture            |
