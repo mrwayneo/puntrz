@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-02 15:31:14 +1000  
+date: 2022-01-02 16:15:30 +1000  
 ---   
 
 
@@ -19,7 +19,7 @@ date: 2022-01-02 15:31:14 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      7 |      0 |      -70 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     11 |      1 |      -93 | 0.09 | -0.85 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     43 |      1 |     -300 | 0.02 | -0.7  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     48 |      1 |     -461 | 0.02 | -0.96 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     48 |      2 |     -437 | 0.04 | -0.91 |
 
 ##### Form Last 20 tips   
 
@@ -91,10 +91,10 @@ date: 2022-01-02 15:31:14 +1000
 | 13 | :soon:   | 2022-01-02 17:25:00 | sunshine-coast |      8 |        3 | Gave Us Up         |   1.83 | vulture            |
 | 14 | :soon:   | 2022-01-02 17:20:00 | cranbourne     |      8 |        1 | Lord Sundowner     |   7.5  | evenodds,moechilli |
 | 15 | :soon:   | 2022-01-02 16:20:00 | terang         |      6 |        5 | Hint Of Mint       |   5.5  | pangea             |
-| 16 | :soon:   | 2022-01-02 16:00:00 | cranbourne     |      6 |        4 | Star Midfielder    |   2.5  | pangea             |
+| 16 | --       | 2022-01-02 16:00:00 | cranbourne     |      6 |        4 | Star Midfielder    |   2.5  | pangea             |
 | 17 | :boom:   | 2022-01-02 15:15:00 | ballina        |      4 |        7 | Not Too Hard       |   1.67 | vulture            |
 | 18 | 4.0      | 2022-01-02 15:15:00 | ballina        |      4 |        1 | Ballistic Babe     |   2.6  | looseknot          |
-| 19 | --       | 2022-01-02 14:53:00 | tauranga       |      7 |        1 | Amalfi Prince      |   1.45 | vulture            |
+| 19 | 5.0      | 2022-01-02 14:53:00 | tauranga       |      7 |        1 | Amalfi Prince      |   1.45 | vulture            |
 | 20 | 4.0      | 2022-01-02 14:07:00 | tauherenikau   |      6 |        5 | Posh Porotene      |   5.5  | looseknot          |
 | 21 | 4.0      | 2022-01-02 13:05:00 | sunshine-coast |      1 |        4 | Just Gigi          |   3.8  | vulture            |
 | 22 | 105.0    | 2022-01-02 13:05:00 | sunshine-coast |      1 |        1 | Atlantic Eagle     |   0    | overthrow          |
