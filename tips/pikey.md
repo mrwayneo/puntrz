@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-03 07:45:53 +1000  
+date: 2022-01-03 07:56:28 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,12 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 21:30             | 2022-01-03 | pinjarra R7           | 7 National Guard      |   9.5  |    -10   |
+| 21:05             | 2022-01-03 | pinjarra R6           | 7 Chad's Me Dad       |   3.7  |    -10   |
+| 20:35             | 2022-01-03 | pinjarra R5           | 2 Do It Right         |   2.6  |    -10   |
+| 20:00             | 2022-01-03 | pinjarra R4           | 9 Miss Field          |   4    |    -10   |
+| 19:25             | 2022-01-03 | pinjarra R3           | 8 Men's Club          |   4.4  |    -10   |
+| 18:50             | 2022-01-03 | pinjarra R2           | 5 Mr Brilliant        |   5    |    -10   |
 | 4                 | 2021-12-30 | belmont R6            | 8 Magic To Exceed     |   3.1  |    -10   |
 | :2nd_place_medal: | 2021-12-30 | belmont R5            | 6 Sioux City          |   5    |    -10   |
 | 5                 | 2021-12-30 | belmont R2            | 7 Near Perfect        |   8    |    -10   |

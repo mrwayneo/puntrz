@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-03 07:45:54 +1000  
+date: 2022-01-03 07:56:29 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
+| 00:50             | 2022-01-04 | southwell R4                  | 6 Our Bill's Aunt     |  21    |    -10   |
 | 99                | 2022-01-02 | fakenham R2                   | 9 Scattercash         |   0    |    -10   |
 | :boom:            | 2022-01-01 | fairyhouse R1                 | 2 Carrig Sam          |  14    |    130   |
 | 8                 | 2022-01-01 | darwin R4                     | 6 Extrapolate         |  18    |    -10   |
