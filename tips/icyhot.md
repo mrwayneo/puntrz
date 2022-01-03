@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-01-03 16:21:04 +1000  
+date: 2022-01-04 08:28:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      9 |      4 |    -19   | 0.44 | -0.21 |
-| Last 28 Days   |     37 |     10 |   -158.5 | 0.27 | -0.43 |
-| Last 6 Months  |    203 |     68 |   -189.9 | 0.33 | -0.09 |
-| Since Jan 2020 |    516 |    169 |   -367.3 | 0.33 | -0.07 |
+| Last 7 Days    |     10 |      4 |    -29   | 0.4  | -0.29 |
+| Last 28 Days   |     39 |     10 |   -178.5 | 0.26 | -0.46 |
+| Last 6 Months  |    205 |     68 |   -209.9 | 0.33 | -0.1  |
+| Since Jan 2020 |    518 |    169 |   -387.3 | 0.33 | -0.07 |
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
-| 21:30             | 2022-01-03 | pinjarra R7             | 1 Creator             | 11    |    -10   |
-| 21:05             | 2022-01-03 | pinjarra R6             | 7 Chad's Me Dad       |  3.7  |    -10   |
+| 0                 | 2022-01-03 | pinjarra R7             | 1 Creator             |  0    |    -10   |
+| 0                 | 2022-01-03 | pinjarra R6             | 7 Chad's Me Dad       |  0    |    -10   |
 | 5                 | 2022-01-01 | sha-tin R10             | 3 Blaze Warrior       |  0    |    -10   |
 | :boom:            | 2022-01-01 | sha-tin R8              | 5 Master Eight        |  1.3  |      3   |
 | :boom:            | 2022-01-01 | geraldton R5            | 3 Three Sessions      |  2.1  |     11   |

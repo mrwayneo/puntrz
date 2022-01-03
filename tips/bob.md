@@ -1,21 +1,22 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-03 16:21:09 +1000  
+date: 2022-01-04 08:28:59 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      2 |    191   | 0.5  |  4.78 |
+| Last 7 Days    |      5 |      2 |    181   | 0.4  |  3.62 |
 | Last 28 Days   |     12 |      3 |    111   | 0.25 |  0.92 |
-| Last 6 Months  |    119 |     25 |   2286.5 | 0.21 |  1.92 |
-| Since Jan 2020 |    227 |     41 |   3836.5 | 0.18 |  1.69 |
+| Last 6 Months  |    120 |     25 |   2276.5 | 0.21 |  1.9  |
+| Since Jan 2020 |    228 |     41 |   3826.5 | 0.18 |  1.68 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 00:50             | 2022-01-04 | southwell R4                  | 6 Our Bill's Aunt     |  21    |    -10   |
+| 01:50             | 2022-01-05 | hereford R5                   | 4 Ballybreen          |  23    |    -10   |
+| 0                 | 2022-01-04 | southwell R4                  | 6 Our Bill's Aunt     |   0    |    -10   |
 | 99                | 2022-01-02 | fakenham R2                   | 9 Scattercash         |   0    |    -10   |
 | :boom:            | 2022-01-01 | fairyhouse R1                 | 2 Carrig Sam          |  14    |    130   |
 | 8                 | 2022-01-01 | darwin R4                     | 6 Extrapolate         |  18    |    -10   |
@@ -141,8 +142,8 @@ categories: None
 | :boom:            | 2021-06-23 | pukekohe-park R5              | 3 Hit The Switch      |   5    |     40   |
 | 9                 | 2021-06-20 | kilcoy R7                     | 7 Snipfit             |  51    |    -10   |
 | 7                 | 2021-06-19 | darwin R2                     | 5 Skellig Island      |  26    |    -10   |
-| 99                | 2021-06-19 | royal-ascot R2                | 3 Belloccio           |   6    |    -10   |
 | 99                | 2021-06-19 | royal-ascot R2                | 1 Gear Up             |  10    |    -10   |
+| 99                | 2021-06-19 | royal-ascot R2                | 3 Belloccio           |   6    |    -10   |
 | 99                | 2021-06-18 | down-royal R2                 | 15 Glory For Molly    |  26    |    -10   |
 | 99                | 2021-06-17 | wexford R7                    | 7 Ballybrowney Jack   |  32    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R2                | 8 Law Of The Sea      |  17    |    -10   |

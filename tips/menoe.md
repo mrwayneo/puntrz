@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-01-03 16:21:09 +1000  
+date: 2022-01-04 08:28:59 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      3 |      1 |    -10.5 | 0.33 | -0.35 |
-| Last 6 Months  |     26 |     17 |     65   | 0.65 |  0.25 |
-| Since Jan 2020 |     55 |     34 |    154.7 | 0.62 |  0.28 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      4 |      1 |    -20.5 | 0.25 | -0.51 |
+| Last 6 Months  |     27 |     17 |     55   | 0.63 |  0.2  |
+| Since Jan 2020 |     56 |     34 |    144.7 | 0.61 |  0.26 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 19:25             | 2022-01-03 | pinjarra R3            | 9 Otheroneson        |  1.9  |    -10   |
+| 0                 | 2022-01-03 | pinjarra R3            | 9 Otheroneson        |  0    |    -10   |
 | :boom:            | 2021-12-27 | leopardstown R7        | 6 Facile Vega        |  1.95 |      9.5 |
 | :2nd_place_medal: | 2021-12-12 | pinjarra R1            | 2 Arnray             |  1.9  |    -10   |
 | 4                 | 2021-12-08 | ipswich R1             | 3 Never Been Better  |  1.9  |    -10   |

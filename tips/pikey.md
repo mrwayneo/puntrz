@@ -1,26 +1,26 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-03 16:21:09 +1000  
+date: 2022-01-04 08:28:59 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      8 |      3 |       14 | 0.38 |  0.18 |
-| Last 28 Days   |     19 |      6 |        7 | 0.32 |  0.04 |
-| Last 6 Months  |    427 |    123 |     -419 | 0.29 | -0.1  |
-| Since Jan 2020 |    946 |    246 |    -1307 | 0.26 | -0.14 |
+| Last 7 Days    |     10 |      0 |     -100 | 0    | -1    |
+| Last 28 Days   |     25 |      6 |      -53 | 0.24 | -0.21 |
+| Last 6 Months  |    433 |    123 |     -479 | 0.28 | -0.11 |
+| Since Jan 2020 |    952 |    246 |    -1367 | 0.26 | -0.14 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 21:30             | 2022-01-03 | pinjarra R7           | 7 National Guard      |   9.5  |    -10   |
-| 21:05             | 2022-01-03 | pinjarra R6           | 7 Chad's Me Dad       |   3.7  |    -10   |
-| 20:35             | 2022-01-03 | pinjarra R5           | 2 Do It Right         |   2.6  |    -10   |
-| 20:00             | 2022-01-03 | pinjarra R4           | 9 Miss Field          |   4    |    -10   |
-| 19:25             | 2022-01-03 | pinjarra R3           | 8 Men's Club          |   4.4  |    -10   |
-| 18:50             | 2022-01-03 | pinjarra R2           | 5 Mr Brilliant        |   5    |    -10   |
+| 0                 | 2022-01-03 | pinjarra R7           | 7 National Guard      |   0    |    -10   |
+| 0                 | 2022-01-03 | pinjarra R6           | 7 Chad's Me Dad       |   0    |    -10   |
+| 0                 | 2022-01-03 | pinjarra R5           | 2 Do It Right         |   0    |    -10   |
+| 0                 | 2022-01-03 | pinjarra R4           | 9 Miss Field          |   0    |    -10   |
+| 0                 | 2022-01-03 | pinjarra R3           | 8 Men's Club          |   0    |    -10   |
+| 0                 | 2022-01-03 | pinjarra R2           | 5 Mr Brilliant        |   0    |    -10   |
 | 4                 | 2021-12-30 | belmont R6            | 8 Magic To Exceed     |   3.1  |    -10   |
 | :2nd_place_medal: | 2021-12-30 | belmont R5            | 6 Sioux City          |   5    |    -10   |
 | 5                 | 2021-12-30 | belmont R2            | 7 Near Perfect        |   8    |    -10   |

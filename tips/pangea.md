@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2022-01-03 16:21:02 +1000  
+date: 2022-01-04 08:28:53 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     46 |     12 |    -51.5 | 0.26 | -0.11 |
-| Last 28 Days   |    261 |     44 |  -1095   | 0.17 | -0.42 |
-| Last 6 Months  |   1796 |    385 |  -2160.9 | 0.21 | -0.12 |
-| Since Jan 2020 |   4357 |    932 |  -3115.2 | 0.21 | -0.07 |
+| Last 7 Days    |     40 |     10 |    -57.5 | 0.25 | -0.14 |
+| Last 28 Days   |    261 |     44 |  -1102   | 0.17 | -0.42 |
+| Last 6 Months  |   1800 |    386 |  -2181.9 | 0.21 | -0.12 |
+| Since Jan 2020 |   4361 |    933 |  -3136.2 | 0.21 | -0.07 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:30             | 2022-01-04 | musselburgh R4                | 4 The Steward         |  11    |    -10   |
-| 21:30             | 2022-01-03 | pinjarra R7                   | 7 National Guard      |   9.5  |    -10   |
-| 21:05             | 2022-01-03 | pinjarra R6                   | 7 Chad's Me Dad       |   3.7  |    -10   |
+| 0                 | 2022-01-04 | musselburgh R4                | 4 The Steward         |   0    |    -10   |
+| 0                 | 2022-01-03 | pinjarra R7                   | 7 National Guard      |   0    |    -10   |
+| 0                 | 2022-01-03 | pinjarra R6                   | 7 Chad's Me Dad       |   0    |    -10   |
 | :boom:            | 2022-01-03 | moruya R5                     | 3 Molly Nails         |   1.9  |      9   |
 | :boom:            | 2022-01-03 | newcastle R5                  | 3 Tempus              |   3.75 |     27.5 |
 | 5                 | 2022-01-02 | cranbourne R8                 | 1 Lord Sundowner      |   7.5  |    -10   |
