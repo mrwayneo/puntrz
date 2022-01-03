@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-03 15:20:17 +1000  
+date: 2022-01-03 15:35:21 +1000  
 ---   
 
 
@@ -102,7 +102,7 @@ date: 2022-01-03 15:20:17 +1000
 | 22 | :soon:            | 2022-01-03 19:25:00 | pinjarra         |      3 |        9 | Otheroneson       |   1.9  | overthrow,menoe    |
 | 23 | :soon:            | 2022-01-03 18:50:00 | pinjarra         |      2 |        5 | Mr Brilliant      |   5    | pikey              |
 | 24 | :soon:            | 2022-01-03 15:43:00 | moruya           |      5 |        3 | Molly Nails       |   1.91 | pangea             |
-| 25 | --                | 2022-01-03 15:00:00 | sandown-hillside |      4 |        1 | Sugar And Sweet   |  13    | milkman            |
+| 25 | 8.0               | 2022-01-03 15:00:00 | sandown-hillside |      4 |        1 | Sugar And Sweet   |  13    | milkman            |
 | 26 | :boom:            | 2022-01-03 15:00:00 | sandown-hillside |      4 |        3 | Attractable       |   2.5  | evenodds,overthrow |
 | 27 | :boom:            | 2022-01-03 14:05:00 | te-aroha         |      7 |        8 | Camarosa          |   3.4  | vulture            |
 | 28 | :2nd_place_medal: | 2022-01-03 13:15:00 | sandown-hillside |      1 |        4 | Mountain Range    |   2.05 | evenodds,overthrow |
