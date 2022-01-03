@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-03 13:57:05 +1000  
+date: 2022-01-03 14:12:07 +1000  
 ---   
 
 
@@ -14,14 +14,14 @@ date: 2022-01-03 13:57:05 +1000
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      2 |      0 |      -20 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      1 |      -30 | 0.17 | -0.5  |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      0 |      -60 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      6 |      0 |      -60 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      7 |      0 |      -70 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     12 |      0 |     -120 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     22 |      0 |     -220 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     28 |      1 |     -264 | 0.04 | -0.94 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     28 |      1 |     -265 | 0.04 | -0.95 |
 
 ##### Form Last 20 tips   
 
@@ -104,5 +104,5 @@ date: 2022-01-03 13:57:05 +1000
 | 24 | :soon:            | 2022-01-03 15:43:00 | moruya           |      5 |        3 | Molly Nails       |   1.91 | pangea             |
 | 25 | :soon:            | 2022-01-03 15:00:00 | sandown-hillside |      4 |        1 | Sugar And Sweet   |  13    | milkman            |
 | 26 | :soon:            | 2022-01-03 15:00:00 | sandown-hillside |      4 |        3 | Attractable       |   2.5  | evenodds,overthrow |
-| 27 | :soon:            | 2022-01-03 14:05:00 | te-aroha         |      7 |        8 | Camarosa          |   3.4  | vulture            |
+| 27 | :boom:            | 2022-01-03 14:05:00 | te-aroha         |      7 |        8 | Camarosa          |   3.4  | vulture            |
 | 28 | :2nd_place_medal: | 2022-01-03 13:15:00 | sandown-hillside |      1 |        4 | Mountain Range    |   2.05 | evenodds,overthrow |
