@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-03 15:35:21 +1000  
+date: 2022-01-03 16:05:25 +1000  
 ---   
 
 
@@ -9,19 +9,19 @@ date: 2022-01-03 15:35:21 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      2 |      1 |        1 | 0.5  |  0.05 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      2 |       -9 | 0.33 | -0.15 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    | -1    |
-| [menoe](https://mrwayneo.github.io/tips/menoe.html)           |      1 |      0 |      -10 | 0    | -1    |
-| [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      2 |      0 |      -20 | 0    | -1    |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      6 |      0 |      -60 | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      7 |      0 |      -70 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     12 |      1 |      -99 | 0.08 | -0.82 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     22 |      0 |     -220 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     28 |      2 |     -221 | 0.07 | -0.79 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      2 |      1 |      1   | 0.5  |  0.05 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      2 |     -9   | 0.33 | -0.15 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |    -10   | 0    | -1    |
+| [menoe](https://mrwayneo.github.io/tips/menoe.html)           |      1 |      0 |    -10   | 0    | -1    |
+| [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |    -10   | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      2 |      0 |    -20   | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      1 |    -21   | 0.25 | -0.52 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |    -30   | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      6 |      0 |    -60   | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      7 |      0 |    -70   | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     12 |      1 |    -99   | 0.08 | -0.82 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     22 |      0 |   -220   | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     28 |      2 |   -241.5 | 0.07 | -0.86 |
 
 ##### Form Last 20 tips   
 
@@ -101,7 +101,7 @@ date: 2022-01-03 15:35:21 +1000
 | 21 | :soon:            | 2022-01-03 19:25:00 | pinjarra         |      3 |        8 | Men's Club        |   4.4  | pikey              |
 | 22 | :soon:            | 2022-01-03 19:25:00 | pinjarra         |      3 |        9 | Otheroneson       |   1.9  | overthrow,menoe    |
 | 23 | :soon:            | 2022-01-03 18:50:00 | pinjarra         |      2 |        5 | Mr Brilliant      |   5    | pikey              |
-| 24 | :soon:            | 2022-01-03 15:43:00 | moruya           |      5 |        3 | Molly Nails       |   1.91 | pangea             |
+| 24 | :boom:            | 2022-01-03 15:43:00 | moruya           |      5 |        3 | Molly Nails       |   1.91 | pangea             |
 | 25 | 8.0               | 2022-01-03 15:00:00 | sandown-hillside |      4 |        1 | Sugar And Sweet   |  13    | milkman            |
 | 26 | :boom:            | 2022-01-03 15:00:00 | sandown-hillside |      4 |        3 | Attractable       |   2.5  | evenodds,overthrow |
 | 27 | :boom:            | 2022-01-03 14:05:00 | te-aroha         |      7 |        8 | Camarosa          |   3.4  | vulture            |
