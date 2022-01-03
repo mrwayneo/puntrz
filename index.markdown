@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-03 13:17:01 +1000  
+date: 2022-01-03 13:34:56 +1000  
 ---   
 
 
@@ -75,34 +75,34 @@ date: 2022-01-03 13:17:01 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6173 |    911 |  -8717.4 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7937 |    424 | -15973   | 0.05 | -0.2  |
 
-|    | finish   | time                | track            |   race |   number | name              |   odds | tipster            |
-|---:|:---------|:--------------------|:-----------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-01-04 06:00:00 | wolverhampton    |      7 |        6 | Daysaq            |   4.5  | looseknot          |
-|  1 | :soon:   | 2022-01-04 06:00:00 | wolverhampton    |      7 |        1 | Bagatelle         |   5    | looseknot          |
-|  2 | :soon:   | 2022-01-04 04:30:00 | wolverhampton    |      4 |        5 | Brown Mouse       |   6    | looseknot          |
-|  3 | :soon:   | 2022-01-04 01:50:00 | southwell        |      6 |        6 | Colonel Manderson |   3.8  | overthrow          |
-|  4 | :soon:   | 2022-01-04 01:30:00 | musselburgh      |      4 |        4 | The Steward       |  11    | pangea             |
-|  5 | :soon:   | 2022-01-04 01:30:00 | musselburgh      |      4 |        7 | Court Jurado      |   6.5  | overthrow          |
-|  6 | :soon:   | 2022-01-04 01:30:00 | musselburgh      |      4 |        2 | Gemologist        |   4    | vulture            |
-|  7 | :soon:   | 2022-01-04 01:20:00 | southwell        |      5 |        5 | Lecale's Article  |   8.5  | overthrow          |
-|  8 | :soon:   | 2022-01-04 01:20:00 | southwell        |      5 |        9 | Kayf Hernando     |   6.5  | overthrow          |
-|  9 | :soon:   | 2022-01-04 01:00:00 | musselburgh      |      3 |        3 | Mackenberg        |   4.2  | overthrow          |
-| 10 | :soon:   | 2022-01-04 00:50:00 | southwell        |      4 |        8 | Signal Point      |   2.8  | overthrow          |
-| 11 | :soon:   | 2022-01-04 00:50:00 | southwell        |      4 |        5 | Mind Sunday       |   2    | overthrow          |
-| 12 | :soon:   | 2022-01-04 00:30:00 | musselburgh      |      2 |        2 | Garde Des Champs  |   3.5  | vulture            |
-| 13 | :soon:   | 2022-01-04 00:20:00 | southwell        |      3 |        7 | Mochachocachino   |   5    | overthrow          |
-| 14 | :soon:   | 2022-01-03 23:50:00 | southwell        |      2 |        7 | Docte Dina        |  19    | overthrow          |
-| 15 | :soon:   | 2022-01-03 21:30:00 | pinjarra         |      7 |        1 | Creator           |  11    | icyhot             |
-| 16 | :soon:   | 2022-01-03 21:30:00 | pinjarra         |      7 |        7 | National Guard    |   9.5  | pangea,pikey       |
-| 17 | :soon:   | 2022-01-03 21:30:00 | pinjarra         |      7 |       12 | The Great One     |   9.5  | vulture            |
-| 18 | :soon:   | 2022-01-03 21:05:00 | pinjarra         |      6 |        7 | Chad's Me Dad     |   3.7  | pangea,pikey       |
-| 19 | :soon:   | 2022-01-03 20:35:00 | pinjarra         |      5 |        2 | Do It Right       |   2.6  | pikey              |
-| 20 | :soon:   | 2022-01-03 20:00:00 | pinjarra         |      4 |        9 | Miss Field        |   4    | pikey              |
-| 21 | :soon:   | 2022-01-03 19:25:00 | pinjarra         |      3 |        8 | Men's Club        |   4.4  | pikey              |
-| 22 | :soon:   | 2022-01-03 19:25:00 | pinjarra         |      3 |        9 | Otheroneson       |   1.9  | overthrow,menoe    |
-| 23 | :soon:   | 2022-01-03 18:50:00 | pinjarra         |      2 |        5 | Mr Brilliant      |   5    | pikey              |
-| 24 | :soon:   | 2022-01-03 15:43:00 | moruya           |      5 |        3 | Molly Nails       |   1.91 | pangea             |
-| 25 | :soon:   | 2022-01-03 15:00:00 | sandown-hillside |      4 |        1 | Sugar And Sweet   |  13    | milkman            |
-| 26 | :soon:   | 2022-01-03 15:00:00 | sandown-hillside |      4 |        3 | Attractable       |   2.5  | evenodds,overthrow |
-| 27 | :soon:   | 2022-01-03 14:05:00 | te-aroha         |      7 |        8 | Camarosa          |   3.4  | vulture            |
-| 28 | --       | 2022-01-03 13:15:00 | sandown-hillside |      1 |        4 | Mountain Range    |   2.05 | evenodds,overthrow |
+|    | finish            | time                | track            |   race |   number | name              |   odds | tipster            |
+|---:|:------------------|:--------------------|:-----------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-01-04 06:00:00 | wolverhampton    |      7 |        6 | Daysaq            |   4.5  | looseknot          |
+|  1 | :soon:            | 2022-01-04 06:00:00 | wolverhampton    |      7 |        1 | Bagatelle         |   5    | looseknot          |
+|  2 | :soon:            | 2022-01-04 04:30:00 | wolverhampton    |      4 |        5 | Brown Mouse       |   6    | looseknot          |
+|  3 | :soon:            | 2022-01-04 01:50:00 | southwell        |      6 |        6 | Colonel Manderson |   3.8  | overthrow          |
+|  4 | :soon:            | 2022-01-04 01:30:00 | musselburgh      |      4 |        4 | The Steward       |  11    | pangea             |
+|  5 | :soon:            | 2022-01-04 01:30:00 | musselburgh      |      4 |        7 | Court Jurado      |   6.5  | overthrow          |
+|  6 | :soon:            | 2022-01-04 01:30:00 | musselburgh      |      4 |        2 | Gemologist        |   4    | vulture            |
+|  7 | :soon:            | 2022-01-04 01:20:00 | southwell        |      5 |        5 | Lecale's Article  |   8.5  | overthrow          |
+|  8 | :soon:            | 2022-01-04 01:20:00 | southwell        |      5 |        9 | Kayf Hernando     |   6.5  | overthrow          |
+|  9 | :soon:            | 2022-01-04 01:00:00 | musselburgh      |      3 |        3 | Mackenberg        |   4.2  | overthrow          |
+| 10 | :soon:            | 2022-01-04 00:50:00 | southwell        |      4 |        8 | Signal Point      |   2.8  | overthrow          |
+| 11 | :soon:            | 2022-01-04 00:50:00 | southwell        |      4 |        5 | Mind Sunday       |   2    | overthrow          |
+| 12 | :soon:            | 2022-01-04 00:30:00 | musselburgh      |      2 |        2 | Garde Des Champs  |   3.5  | vulture            |
+| 13 | :soon:            | 2022-01-04 00:20:00 | southwell        |      3 |        7 | Mochachocachino   |   5    | overthrow          |
+| 14 | :soon:            | 2022-01-03 23:50:00 | southwell        |      2 |        7 | Docte Dina        |  19    | overthrow          |
+| 15 | :soon:            | 2022-01-03 21:30:00 | pinjarra         |      7 |        1 | Creator           |  11    | icyhot             |
+| 16 | :soon:            | 2022-01-03 21:30:00 | pinjarra         |      7 |        7 | National Guard    |   9.5  | pangea,pikey       |
+| 17 | :soon:            | 2022-01-03 21:30:00 | pinjarra         |      7 |       12 | The Great One     |   9.5  | vulture            |
+| 18 | :soon:            | 2022-01-03 21:05:00 | pinjarra         |      6 |        7 | Chad's Me Dad     |   3.7  | pangea,pikey       |
+| 19 | :soon:            | 2022-01-03 20:35:00 | pinjarra         |      5 |        2 | Do It Right       |   2.6  | pikey              |
+| 20 | :soon:            | 2022-01-03 20:00:00 | pinjarra         |      4 |        9 | Miss Field        |   4    | pikey              |
+| 21 | :soon:            | 2022-01-03 19:25:00 | pinjarra         |      3 |        8 | Men's Club        |   4.4  | pikey              |
+| 22 | :soon:            | 2022-01-03 19:25:00 | pinjarra         |      3 |        9 | Otheroneson       |   1.9  | overthrow,menoe    |
+| 23 | :soon:            | 2022-01-03 18:50:00 | pinjarra         |      2 |        5 | Mr Brilliant      |   5    | pikey              |
+| 24 | :soon:            | 2022-01-03 15:43:00 | moruya           |      5 |        3 | Molly Nails       |   1.91 | pangea             |
+| 25 | :soon:            | 2022-01-03 15:00:00 | sandown-hillside |      4 |        1 | Sugar And Sweet   |  13    | milkman            |
+| 26 | :soon:            | 2022-01-03 15:00:00 | sandown-hillside |      4 |        3 | Attractable       |   2.5  | evenodds,overthrow |
+| 27 | :soon:            | 2022-01-03 14:05:00 | te-aroha         |      7 |        8 | Camarosa          |   3.4  | vulture            |
+| 28 | :2nd_place_medal: | 2022-01-03 13:15:00 | sandown-hillside |      1 |        4 | Mountain Range    |   2.05 | evenodds,overthrow |
