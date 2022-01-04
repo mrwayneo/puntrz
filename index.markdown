@@ -1,11 +1,28 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-05 07:12:56 +1000  
+date: 2022-01-05 07:20:12 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 |    0 |    -1 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      3 |      0 |      -30 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      3 |      0 |      -30 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      9 |      0 |      -90 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     13 |      0 |     -130 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     15 |      0 |     -150 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     17 |      0 |     -170 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     34 |      0 |     -340 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     48 |      0 |     -480 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
