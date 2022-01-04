@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-04 18:06:25 +1000  
+date: 2022-01-04 22:59:39 +1000  
 ---   
 
 
@@ -9,14 +9,14 @@ date: 2022-01-04 18:06:25 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 |    0 |    -1 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      2 |      0 |      -20 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      2 |      0 |      -20 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      0 |      -50 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     27 |      0 |     -270 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     30 |      0 |     -300 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 | 0    |  -1   |
+| [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 | 0    |  -1   |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      2 |      0 |      -20 | 0    |  -1   |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      2 |      0 |      -20 | 0    |  -1   |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 | 0    |  -1   |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      0 |      -50 | 0    |  -1   |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     30 |      1 |     -240 | 0.03 |  -0.8 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     27 |      0 |     -270 | 0    |  -1   |
 
 ##### Form Last 20 tips   
 
@@ -70,16 +70,16 @@ date: 2022-01-04 18:06:25 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6133 |    905 |  -8872.9 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7865 |    420 | -15831   | 0.05 | -0.2  |
 
-|    | finish   | time                | track     |   race |   number | name           |   odds | tipster         |
-|---:|:---------|:--------------------|:----------|-------:|---------:|:---------------|-------:|:----------------|
-|  0 | :soon:   | 2022-01-05 03:00:00 | newcastle |      3 |        1 | Tyrrhenian Sea |   1.36 | milkman         |
-|  1 | :soon:   | 2022-01-05 02:10:00 | lingfield |      6 |       11 | Yukon Star     |   6    | overthrow       |
-|  2 | :soon:   | 2022-01-05 01:15:00 | hereford  |      4 |        7 | Pure Bliss     |   4.6  | milkman         |
-|  3 | :soon:   | 2022-01-05 01:15:00 | hereford  |      4 |        1 | Calico         |   3.6  | overthrow       |
-|  4 | :soon:   | 2022-01-05 00:45:00 | hereford  |      3 |        5 | Global Harmony |  19    | overthrow       |
-|  5 | :soon:   | 2022-01-05 00:45:00 | hereford  |      3 |        3 | Scarpia        |   3.6  | overthrow       |
-|  6 | :soon:   | 2022-01-05 00:15:00 | hereford  |      2 |        3 | Krypton Gold   |   5    | looseknot       |
-|  7 | :soon:   | 2022-01-05 00:15:00 | hereford  |      2 |        8 | Saveasea       |  23    | overthrow       |
-|  8 | :soon:   | 2022-01-04 22:05:00 | vaal      |      3 |       13 | Tuuletar       |   0    | vulture         |
-|  9 | :soon:   | 2022-01-04 21:35:00 | vaal      |      2 |        1 | Fennec Fox     |   0    | vulture,milkman |
-| 10 | :soon:   | 2022-01-04 21:00:00 | vaal      |      1 |        1 | Thunderstone   |   0    | milkman         |
+|    | finish            | time                | track     |   race |   number | name           |   odds | tipster         |
+|---:|:------------------|:--------------------|:----------|-------:|---------:|:---------------|-------:|:----------------|
+|  0 | :soon:            | 2022-01-05 03:00:00 | newcastle |      3 |        1 | Tyrrhenian Sea |   1.36 | milkman         |
+|  1 | :soon:            | 2022-01-05 02:10:00 | lingfield |      6 |       11 | Yukon Star     |   6    | overthrow       |
+|  2 | :soon:            | 2022-01-05 01:15:00 | hereford  |      4 |        7 | Pure Bliss     |   4.6  | milkman         |
+|  3 | :soon:            | 2022-01-05 01:15:00 | hereford  |      4 |        1 | Calico         |   3.6  | overthrow       |
+|  4 | :soon:            | 2022-01-05 00:45:00 | hereford  |      3 |        5 | Global Harmony |  19    | overthrow       |
+|  5 | :soon:            | 2022-01-05 00:45:00 | hereford  |      3 |        3 | Scarpia        |   3.6  | overthrow       |
+|  6 | :soon:            | 2022-01-05 00:15:00 | hereford  |      2 |        3 | Krypton Gold   |   5    | looseknot       |
+|  7 | :soon:            | 2022-01-05 00:15:00 | hereford  |      2 |        8 | Saveasea       |  23    | overthrow       |
+|  8 | --                | 2022-01-04 22:05:00 | vaal      |      3 |       13 | Tuuletar       |   0    | vulture         |
+|  9 | :3rd_place_medal: | 2022-01-04 21:35:00 | vaal      |      2 |        1 | Fennec Fox     |   0    | vulture,milkman |
+| 10 | --                | 2022-01-04 21:00:00 | vaal      |      1 |        1 | Thunderstone   |   0    | milkman         |
