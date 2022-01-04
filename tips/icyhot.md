@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-01-04 22:59:33 +1000  
+date: 2022-01-05 06:12:55 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |     10 |      4 |    -29   | 0.4  | -0.29 |
-| Last 28 Days   |     39 |     10 |   -178.5 | 0.26 | -0.46 |
+| Last 28 Days   |     38 |      9 |   -189.5 | 0.24 | -0.5  |
 | Last 6 Months  |    205 |     68 |   -209.9 | 0.33 | -0.1  |
 | Since Jan 2020 |    518 |    169 |   -387.3 | 0.33 | -0.07 |
 
