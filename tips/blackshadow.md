@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-01-05 18:35:28 +1000  
+date: 2022-01-05 18:50:34 +1000  
 categories: None 
 ---   
 
@@ -52,8 +52,8 @@ categories: None
 | 6                 | 2021-12-13 | rockhampton R5                | 2 Bluindi             |  2.05 |    -10   |
 | :2nd_place_medal: | 2021-12-13 | rockhampton R4                | 7 Echo Point          |  2.62 |    -10   |
 | 5                 | 2021-12-13 | rockhampton R1                | 4 Sweet Way's         |  3.2  |    -10   |
-| 4                 | 2021-12-12 | sha-tin R8                    | 8 Dubai Honour        |  0    |    -10   |
 | :boom:            | 2021-12-12 | sha-tin R8                    | 12 Loves Only You     |  2.55 |     15.5 |
+| 4                 | 2021-12-12 | sha-tin R8                    | 8 Dubai Honour        |  0    |    -10   |
 | 5                 | 2021-12-12 | sha-tin R7                    | 3 Indy Champ          |  0    |    -10   |
 | 8                 | 2021-12-12 | sha-tin R5                    | 3 Danon Smash         |  0    |    -10   |
 | :boom:            | 2021-12-12 | sha-tin R4                    | 2 Glory Vase          |  1.8  |      8   |
@@ -101,8 +101,8 @@ categories: None
 | 5                 | 2021-11-20 | ascot R9                      | 9 Bright Diamond      |  2.75 |    -10   |
 | 6                 | 2021-11-20 | sunshine-coast R9             | 6 Sir Warwick         |  3.4  |    -10   |
 | :2nd_place_medal: | 2021-11-20 | gold-coast R9                 | 9 Storm Attack        |  7    |    -10   |
-| :boom:            | 2021-11-20 | sunshine-coast R7             | 2 Zoustyle            |  2.1  |     11   |
 | :2nd_place_medal: | 2021-11-20 | sunshine-coast R7             | 7 Totally Charmed     | 14    |    -10   |
+| :boom:            | 2021-11-20 | sunshine-coast R7             | 2 Zoustyle            |  2.1  |     11   |
 | 5                 | 2021-11-20 | roma R4                       | 4 Wait A Minute       |  4.6  |    -10   |
 | :boom:            | 2021-11-20 | ascot R1                      | 1 Pure Devotion       |  1.6  |      6   |
 | :3rd_place_medal: | 2021-11-18 | rockhampton R5                | 2 Bluindi             |  2.7  |    -10   |
@@ -172,8 +172,8 @@ categories: None
 | :3rd_place_medal: | 2021-10-09 | caulfield R6                  | 2 Zaaki               |  1.26 |    -10   |
 | :boom:            | 2021-10-09 | eagle-farm R1                 | 3 Shamaton            |  4    |     30   |
 | 6                 | 2021-10-08 | sunshine-coast R6             | 2 Groomed             | 19    |    -10   |
-| :2nd_place_medal: | 2021-10-08 | cloncurry R3                  | 2 Christmas Creek     |  4    |    -10   |
 | 9                 | 2021-10-08 | cloncurry R3                  | 6 Sizzling Touch      |  5.5  |    -10   |
+| :2nd_place_medal: | 2021-10-08 | cloncurry R3                  | 2 Christmas Creek     |  4    |    -10   |
 | :2nd_place_medal: | 2021-10-08 | cloncurry R2                  | 5 Scarpa              |  3.6  |    -10   |
 | 7                 | 2021-10-06 | launceston R5                 | 2 Easy Road           |  4.2  |    -10   |
 | 5                 | 2021-10-06 | rosehill R6                   | 5 Fumiko              |  3.5  |    -10   |
@@ -312,8 +312,8 @@ categories: None
 | :2nd_place_medal: | 2021-08-04 | eagle-farm R6                 | 6 Blackboots          |  4.4  |    -10   |
 | :boom:            | 2021-08-03 | rockhampton R3                | 3 The Egyptian        |  1.3  |      3   |
 | 5                 | 2021-08-02 | darwin R9                     | 3 Autocratic          |  6.5  |    -10   |
-| 4                 | 2021-08-02 | darwin R7                     | 5 No Say in It        | 34    |    -10   |
 | :2nd_place_medal: | 2021-08-02 | darwin R7                     | 1 That's Justified    |  3    |    -10   |
+| 4                 | 2021-08-02 | darwin R7                     | 5 No Say in It        | 34    |    -10   |
 | 6                 | 2021-08-02 | darwin R6                     | 1 Taciturn            |  5.5  |    -10   |
 | :boom:            | 2021-08-02 | darwin R4                     | 4 Belmont Day         |  1.5  |      5   |
 | :boom:            | 2021-08-02 | darwin R3                     | 6 Silver Melody       |  5.7  |     47   |
@@ -502,8 +502,8 @@ categories: None
 | 4                 | 2021-04-17 | randwick R5                   | 2 Amarelinha          |  4.65 |    -10   |
 | 7                 | 2021-04-17 | caulfield R1                  | 4 Fanciful Toff       |  3.7  |    -10   |
 | :2nd_place_medal: | 2021-04-16 | darwin R4                     | 2 Patriot Day         |  4.2  |    -10   |
-| 4                 | 2021-04-16 | darwin R2                     | 2 Kowloon Kid         |  4.6  |    -10   |
 | 5                 | 2021-04-16 | darwin R2                     | 4 The Auditor         | 11    |    -10   |
+| 4                 | 2021-04-16 | darwin R2                     | 2 Kowloon Kid         |  4.6  |    -10   |
 | :boom:            | 2021-04-15 | albany R6                     | 6 Strathmore Rose     |  1.4  |      4   |
 | 4                 | 2021-04-15 | albany R4                     | 1 Captain Sharmane    |  2.25 |    -10   |
 | 6                 | 2021-04-14 | eagle-farm R8                 | 6 Highmaster          |  1.96 |    -10   |
@@ -736,8 +736,8 @@ categories: None
 | :2nd_place_medal: | 2020-10-09 | cloncurry R4                  | 1 Lord Windermere     |  6.6  |    -10   |
 | 4                 | 2020-10-09 | cloncurry R2                  | 1 Dark Archer         |  7.5  |    -10   |
 | 9                 | 2020-10-08 | rockhampton R5                | 6 Niatross            |  9.5  |    -10   |
-| :2nd_place_medal: | 2020-10-07 | ipswich R5                    | 3 Mccovey Cove        |  2.1  |    -10   |
 | 4                 | 2020-10-07 | ipswich R5                    | 6 Pull Anchor         |  4.05 |    -10   |
+| :2nd_place_medal: | 2020-10-07 | ipswich R5                    | 3 Mccovey Cove        |  2.1  |    -10   |
 | 9                 | 2020-10-07 | warwick-farm R6               | 5 Money Magic         |  7    |    -10   |
 | 8                 | 2020-10-07 | warwick-farm R3               | 5 Deniki              |  2.8  |    -10   |
 | :3rd_place_medal: | 2020-10-06 | orange R1                     | 1 Lucky Elixir        |  2.4  |    -10   |
