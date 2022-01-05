@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-05 15:50:36 +1000  
+date: 2022-01-05 16:05:43 +1000  
 ---   
 
 
@@ -96,7 +96,7 @@ date: 2022-01-05 15:50:36 +1000
 | 15 | :soon:            | 2022-01-05 16:50:00 | sandown-hillside    |      3 |        8 | Unforgiven       |   4.33 | benny,pangea        |
 | 16 | :soon:            | 2022-01-05 16:22:00 | doomben             |      4 |        6 | Maya Bay         |   3.3  | pangea              |
 | 17 | :soon:            | 2022-01-05 16:22:00 | doomben             |      4 |        2 | Wham             |   9.5  | pangea              |
-| 18 | :soon:            | 2022-01-05 15:51:00 | devonport-synthetic |      7 |        4 | Incriminate      |   4.2  | overthrow           |
+| 18 | --                | 2022-01-05 15:51:00 | devonport-synthetic |      7 |        4 | Incriminate      |   4.2  | overthrow           |
 | 19 | :3rd_place_medal: | 2022-01-05 15:16:00 | devonport-synthetic |      6 |        3 | Michbar          |   2.75 | benny,overthrow     |
 | 20 | --                | 2022-01-05 15:16:00 | devonport-synthetic |      6 |        7 | Sirene Stryker   |   8    | pangea              |
 | 21 | --                | 2022-01-05 15:16:00 | devonport-synthetic |      6 |        5 | Azara            |   4.8  | evenodds,overthrow  |
