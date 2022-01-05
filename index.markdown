@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-05 18:06:13 +1000  
+date: 2022-01-05 18:20:40 +1000  
 ---   
 
 
@@ -102,7 +102,7 @@ date: 2022-01-05 18:06:13 +1000
 | 21 | 5.0               | 2022-01-05 15:16:00 | devonport-synthetic |      6 |        5 | Azara            |   4.8  | evenodds,overthrow  |
 | 22 | :2nd_place_medal: | 2022-01-05 15:16:00 | devonport-synthetic |      6 |        8 | Reward Achiever  |   5.5  | pangea              |
 | 23 | :2nd_place_medal: | 2022-01-05 15:12:00 | doomben             |      2 |        3 | Spokesman        |   3.75 | pangea              |
-| 24 | --                | 2022-01-05 15:02:00 | otaki               |      7 |        1 | Skarloey         |  17    | cosmo,bluey         |
+| 24 | 9.0               | 2022-01-05 15:02:00 | otaki               |      7 |        1 | Skarloey         |  17    | cosmo,bluey         |
 | 25 | 5.0               | 2022-01-05 14:41:00 | devonport-synthetic |      5 |        9 | Sharma Rama      |   4.75 | pangea,overthrow    |
 | 26 | :2nd_place_medal: | 2022-01-05 14:20:00 | warwick-farm        |      1 |        4 | Destiny's Bounty |   4.5  | vulture             |
 | 27 | 5.0               | 2022-01-05 14:20:00 | warwick-farm        |      1 |        2 | Celtic Harp      |   8    | jmac                |

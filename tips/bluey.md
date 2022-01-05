@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-01-05 18:06:13 +1000  
+date: 2022-01-05 18:20:39 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 0                 | 2022-01-05 | otaki R7               | 1 Skarloey            |   0   |      -10 |
+| 9                 | 2022-01-05 | otaki R7               | 1 Skarloey            |  17   |      -10 |
 | 9                 | 2022-01-01 | murray-bdge R8         | 15 So Bene            |  41   |      -10 |
 | 7                 | 2021-12-30 | rockhampton R6         | 5 Triptonic           |   9   |      -10 |
 | 99                | 2021-12-29 | catterick R4           | 6 Turning Gold        |   0   |      -10 |
@@ -28,8 +28,8 @@ categories: None
 | 4                 | 2021-12-11 | ascot-park R7          | 2 Kilowatt            |  11   |      -10 |
 | 7                 | 2021-12-11 | ascot-park R5          | 7 The Ace             |  14   |      -10 |
 | 6                 | 2021-12-08 | warwick-farm R2        | 10 Compassionate      |  11   |      -10 |
-| 11                | 2021-12-04 | racing.com-park R6     | 2 Sircconi            |  41   |      -10 |
 | 7                 | 2021-12-04 | racing.com-park R6     | 7 Night Raid          |  11   |      -10 |
+| 11                | 2021-12-04 | racing.com-park R6     | 2 Sircconi            |  41   |      -10 |
 | 99                | 2021-12-04 | sandown R6             | 1 William Henry       |   0   |      -10 |
 | :boom:            | 2021-11-26 | cromwell R7            | 12 Hyspec             |  13   |      120 |
 | :boom:            | 2021-11-25 | northam R5             | 8 Winsalot            |  11.1 |      101 |
