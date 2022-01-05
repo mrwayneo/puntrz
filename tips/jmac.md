@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-01-05 14:23:04 +1000  
+date: 2022-01-05 15:20:41 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 | finish            | date       | event             | runner               |   win |   return |
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
 | 17:15             | 2022-01-05 | warwick-farm R6   | 12 Concocted         |  2.38 |    -10   |
-| 14:55             | 2022-01-05 | warwick-farm R2   | 11 Trifaccia         |  1.65 |    -10   |
-| 0                 | 2022-01-05 | warwick-farm R1   | 2 Celtic Harp        |  0    |    -10   |
+| :boom:            | 2022-01-05 | warwick-farm R2   | 11 Trifaccia         |  1.6  |      6   |
+| 5                 | 2022-01-05 | warwick-farm R1   | 2 Celtic Harp        |  8    |    -10   |
 | :boom:            | 2021-12-26 | doomben R8        | 5 Roheryn            | 10.7  |     97   |
 | 5                 | 2021-12-26 | doomben R7        | 3 Reloaded           |  5.5  |    -10   |
 | :boom:            | 2021-12-26 | doomben R6        | 9 Coolangatta        |  1.3  |      3   |
