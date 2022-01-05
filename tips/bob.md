@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-05 19:45:28 +1000  
+date: 2022-01-06 06:01:15 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      1 |     90   | 0.2  |  1.8  |
-| Last 28 Days   |     13 |      3 |    101   | 0.23 |  0.78 |
-| Last 6 Months  |    121 |     25 |   2266.5 | 0.21 |  1.87 |
-| Since Jan 2020 |    229 |     41 |   3816.5 | 0.18 |  1.67 |
+| Last 7 Days    |      6 |      1 |     80   | 0.17 |  1.33 |
+| Last 28 Days   |     14 |      3 |     91   | 0.21 |  0.65 |
+| Last 6 Months  |    122 |     25 |   2256.5 | 0.2  |  1.85 |
+| Since Jan 2020 |    230 |     41 |   3806.5 | 0.18 |  1.66 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
@@ -143,8 +143,8 @@ categories: None
 | :boom:            | 2021-06-23 | pukekohe-park R5              | 3 Hit The Switch      |   5    |     40   |
 | 9                 | 2021-06-20 | kilcoy R7                     | 7 Snipfit             |  51    |    -10   |
 | 7                 | 2021-06-19 | darwin R2                     | 5 Skellig Island      |  26    |    -10   |
-| 99                | 2021-06-19 | royal-ascot R2                | 1 Gear Up             |  10    |    -10   |
 | 99                | 2021-06-19 | royal-ascot R2                | 3 Belloccio           |   6    |    -10   |
+| 99                | 2021-06-19 | royal-ascot R2                | 1 Gear Up             |  10    |    -10   |
 | 99                | 2021-06-18 | down-royal R2                 | 15 Glory For Molly    |  26    |    -10   |
 | 99                | 2021-06-17 | wexford R7                    | 7 Ballybrowney Jack   |  32    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R2                | 8 Law Of The Sea      |  17    |    -10   |

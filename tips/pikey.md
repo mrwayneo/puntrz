@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-05 19:45:28 +1000  
+date: 2022-01-06 06:01:14 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      0 |      -60 | 0    | -1    |
-| Last 28 Days   |     25 |      6 |      -53 | 0.24 | -0.21 |
-| Last 6 Months  |    433 |    123 |     -479 | 0.28 | -0.11 |
-| Since Jan 2020 |    952 |    246 |    -1367 | 0.26 | -0.14 |
+| Last 7 Days    |      9 |      1 |      -72 | 0.11 | -0.8  |
+| Last 28 Days   |     28 |      7 |      -65 | 0.25 | -0.23 |
+| Last 6 Months  |    436 |    124 |     -491 | 0.28 | -0.11 |
+| Since Jan 2020 |    955 |    247 |    -1379 | 0.26 | -0.14 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 22:00             | 2022-01-05 | belmont R7            | 3 Noble Scot          |   4.75 |    -10   |
-| 21:08             | 2022-01-05 | belmont R5            | 5 Saturn Black        |   3.8  |    -10   |
-| 20:42             | 2022-01-05 | belmont R4            | 1 Soviet Spy          |   2.1  |    -10   |
+| :2nd_place_medal: | 2022-01-05 | belmont R7            | 3 Noble Scot          |   4.75 |    -10   |
+| 4                 | 2022-01-05 | belmont R5            | 5 Saturn Black        |   3.8  |    -10   |
+| :boom:            | 2022-01-05 | belmont R4            | 1 Soviet Spy          |   1.8  |      8   |
 | 0                 | 2022-01-03 | pinjarra R7           | 7 National Guard      |   0    |    -10   |
 | 0                 | 2022-01-03 | pinjarra R6           | 7 Chad's Me Dad       |   0    |    -10   |
 | 0                 | 2022-01-03 | pinjarra R5           | 2 Do It Right         |   0    |    -10   |
