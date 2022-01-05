@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-05 16:20:20 +1000  
+date: 2022-01-05 16:38:34 +1000  
 ---   
 
 
@@ -94,9 +94,9 @@ date: 2022-01-05 16:20:20 +1000
 | 13 | :soon:            | 2022-01-05 17:01:00 | devonport-synthetic |      9 |        3 | Weldborough      |   6    | pangea              |
 | 14 | :soon:            | 2022-01-05 16:57:00 | doomben             |      5 |        1 | Echo Point       |   4.2  | evenodds,overthrow  |
 | 15 | :soon:            | 2022-01-05 16:50:00 | sandown-hillside    |      3 |        8 | Unforgiven       |   4.33 | benny,pangea        |
-| 16 | :soon:            | 2022-01-05 16:22:00 | doomben             |      4 |        6 | Maya Bay         |   3.3  | pangea              |
-| 17 | :soon:            | 2022-01-05 16:22:00 | doomben             |      4 |        2 | Wham             |   9.5  | pangea              |
-| 18 | --                | 2022-01-05 15:51:00 | devonport-synthetic |      7 |        4 | Incriminate      |   4.2  | overthrow           |
+| 16 | :3rd_place_medal: | 2022-01-05 16:22:00 | doomben             |      4 |        6 | Maya Bay         |   3.3  | pangea              |
+| 17 | 4.0               | 2022-01-05 16:22:00 | doomben             |      4 |        2 | Wham             |   9.5  | pangea              |
+| 18 | 7.0               | 2022-01-05 15:51:00 | devonport-synthetic |      7 |        4 | Incriminate      |   4.2  | overthrow           |
 | 19 | :3rd_place_medal: | 2022-01-05 15:16:00 | devonport-synthetic |      6 |        3 | Michbar          |   2.75 | benny,overthrow     |
 | 20 | 6.0               | 2022-01-05 15:16:00 | devonport-synthetic |      6 |        7 | Sirene Stryker   |   8    | pangea              |
 | 21 | 5.0               | 2022-01-05 15:16:00 | devonport-synthetic |      6 |        5 | Azara            |   4.8  | evenodds,overthrow  |
