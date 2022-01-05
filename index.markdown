@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-05 13:53:14 +1000  
+date: 2022-01-05 14:08:03 +1000  
 ---   
 
 
@@ -107,7 +107,7 @@ date: 2022-01-05 13:53:14 +1000
 | 26 | :soon:            | 2022-01-05 14:20:00 | warwick-farm        |      1 |        4 | Destiny's Bounty |   4.5  | vulture             |
 | 27 | :soon:            | 2022-01-05 14:20:00 | warwick-farm        |      1 |        2 | Celtic Harp      |   8    | jmac                |
 | 28 | :soon:            | 2022-01-05 14:18:00 | reefton             |      7 |        8 | Kopua            |   3    | vulture             |
-| 29 | :soon:            | 2022-01-05 14:05:00 | devonport-synthetic |      4 |        1 | Heza Charmer     |   4.2  | overthrow           |
+| 29 | --                | 2022-01-05 14:05:00 | devonport-synthetic |      4 |        1 | Heza Charmer     |   4.2  | overthrow           |
 | 30 | :boom:            | 2022-01-05 13:27:00 | devonport-synthetic |      3 |        2 | Ubriaco          |   4.6  | pangea              |
 | 31 | --                | 2022-01-05 13:27:00 | devonport-synthetic |      3 |        6 | Bynance          |   8    | vulture             |
 | 32 | :2nd_place_medal: | 2022-01-05 12:27:00 | reefton             |      4 |       10 | Lucky Viking     |   6    | vulture             |
