@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-05 17:20:36 +1000  
+date: 2022-01-05 17:35:39 +1000  
 ---   
 
 
@@ -88,11 +88,11 @@ date: 2022-01-05 17:20:36 +1000
 |  7 | :soon:            | 2022-01-05 19:50:00 | belmont             |      2 |        4 | Kelly's Lassie   |   8.5  | vulture,blackshadow |
 |  8 | :soon:            | 2022-01-05 19:30:00 | sandown-hillside    |      8 |       11 | Northern Melody  |   9    | vulture             |
 |  9 | :soon:            | 2022-01-05 17:40:00 | bordertown          |      7 |        2 | Richter          |  12    | cosmo,bob           |
-| 10 | --                | 2022-01-05 17:15:00 | warwick-farm        |      6 |       12 | Concocted        |   2.38 | overthrow,jmac      |
-| 11 | --                | 2022-01-05 17:15:00 | warwick-farm        |      6 |        2 | Cafe Royal       |   6.5  | pangea              |
+| 10 | 10.0              | 2022-01-05 17:15:00 | warwick-farm        |      6 |       12 | Concocted        |   2.38 | overthrow,jmac      |
+| 11 | :2nd_place_medal: | 2022-01-05 17:15:00 | warwick-farm        |      6 |        2 | Cafe Royal       |   6.5  | pangea              |
 | 12 | :2nd_place_medal: | 2022-01-05 17:01:00 | devonport-synthetic |      9 |        6 | Red Letter Lady  |   2.7  | vulture             |
 | 13 | 4.0               | 2022-01-05 17:01:00 | devonport-synthetic |      9 |        3 | Weldborough      |   6    | pangea              |
-| 14 | --                | 2022-01-05 16:57:00 | doomben             |      5 |        1 | Echo Point       |   4.2  | evenodds,overthrow  |
+| 14 | 5.0               | 2022-01-05 16:57:00 | doomben             |      5 |        1 | Echo Point       |   4.2  | evenodds,overthrow  |
 | 15 | :3rd_place_medal: | 2022-01-05 16:50:00 | sandown-hillside    |      3 |        8 | Unforgiven       |   4.33 | benny,pangea        |
 | 16 | :3rd_place_medal: | 2022-01-05 16:22:00 | doomben             |      4 |        6 | Maya Bay         |   3.3  | pangea              |
 | 17 | 4.0               | 2022-01-05 16:22:00 | doomben             |      4 |        2 | Wham             |   9.5  | pangea              |
