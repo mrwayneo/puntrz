@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-05 17:35:39 +1000  
+date: 2022-01-05 17:50:28 +1000  
 ---   
 
 
@@ -87,7 +87,7 @@ date: 2022-01-05 17:35:39 +1000
 |  6 | :soon:            | 2022-01-05 20:42:00 | belmont             |      4 |        1 | Soviet Spy       |   2.1  | vulture,pikey       |
 |  7 | :soon:            | 2022-01-05 19:50:00 | belmont             |      2 |        4 | Kelly's Lassie   |   8.5  | vulture,blackshadow |
 |  8 | :soon:            | 2022-01-05 19:30:00 | sandown-hillside    |      8 |       11 | Northern Melody  |   9    | vulture             |
-|  9 | :soon:            | 2022-01-05 17:40:00 | bordertown          |      7 |        2 | Richter          |  12    | cosmo,bob           |
+|  9 | :2nd_place_medal: | 2022-01-05 17:40:00 | bordertown          |      7 |        2 | Richter          |  12    | cosmo,bob           |
 | 10 | 10.0              | 2022-01-05 17:15:00 | warwick-farm        |      6 |       12 | Concocted        |   2.38 | overthrow,jmac      |
 | 11 | :2nd_place_medal: | 2022-01-05 17:15:00 | warwick-farm        |      6 |        2 | Cafe Royal       |   6.5  | pangea              |
 | 12 | :2nd_place_medal: | 2022-01-05 17:01:00 | devonport-synthetic |      9 |        6 | Red Letter Lady  |   2.7  | vulture             |
