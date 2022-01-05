@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-06 07:50:41 +1000  
+date: 2022-01-06 08:45:49 +1000  
 ---   
 
 
@@ -76,38 +76,31 @@ date: 2022-01-06 07:50:41 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6165 |    907 |  -8805.9 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7859 |    419 | -15846   | 0.05 | -0.2  |
 
-|    | finish            | time                | track               |   race |   number | name             |   odds | tipster             |
-|---:|:------------------|:--------------------|:--------------------|-------:|---------:|:-----------------|-------:|:--------------------|
-|  0 | :boom:            | 2022-01-06 05:00:00 | kempton             |      5 |        2 | Covert Mission   |   4.5  | looseknot           |
-|  1 | --                | 2022-01-06 02:35:00 | wolverhampton       |      7 |        4 | Party Planner    |   5    | looseknot           |
-|  2 | --                | 2022-01-06 01:10:00 | dundalk             |      2 |        6 | Sister Rosetta   |   5.5  | looseknot           |
-|  3 | :2nd_place_medal: | 2022-01-05 22:00:00 | belmont             |      7 |        3 | Noble Scot       |   4.75 | vulture,pikey       |
-|  4 | :3rd_place_medal: | 2022-01-05 21:35:00 | belmont             |      6 |        5 | Savanik          |   4    | pangea,overthrow    |
-|  5 | 4.0               | 2022-01-05 21:08:00 | belmont             |      5 |        5 | Saturn Black     |   3.8  | benny,pikey         |
-|  6 | :boom:            | 2022-01-05 20:42:00 | belmont             |      4 |        1 | Soviet Spy       |   2.1  | vulture,pikey       |
-|  7 | :3rd_place_medal: | 2022-01-05 19:50:00 | belmont             |      2 |        4 | Kelly's Lassie   |   8.5  | vulture,blackshadow |
-|  8 | 4.0               | 2022-01-05 19:30:00 | sandown-hillside    |      8 |       11 | Northern Melody  |   9    | vulture             |
-|  9 | :2nd_place_medal: | 2022-01-05 17:40:00 | bordertown          |      7 |        2 | Richter          |  12    | cosmo,bob           |
-| 10 | 10.0              | 2022-01-05 17:15:00 | warwick-farm        |      6 |       12 | Concocted        |   2.38 | overthrow,jmac      |
-| 11 | :2nd_place_medal: | 2022-01-05 17:15:00 | warwick-farm        |      6 |        2 | Cafe Royal       |   6.5  | pangea              |
-| 12 | :2nd_place_medal: | 2022-01-05 17:01:00 | devonport-synthetic |      9 |        6 | Red Letter Lady  |   2.7  | vulture             |
-| 13 | 4.0               | 2022-01-05 17:01:00 | devonport-synthetic |      9 |        3 | Weldborough      |   6    | pangea              |
-| 14 | 5.0               | 2022-01-05 16:57:00 | doomben             |      5 |        1 | Echo Point       |   4.2  | evenodds,overthrow  |
-| 15 | :3rd_place_medal: | 2022-01-05 16:50:00 | sandown-hillside    |      3 |        8 | Unforgiven       |   4.33 | benny,pangea        |
-| 16 | :3rd_place_medal: | 2022-01-05 16:22:00 | doomben             |      4 |        6 | Maya Bay         |   3.3  | pangea              |
-| 17 | 4.0               | 2022-01-05 16:22:00 | doomben             |      4 |        2 | Wham             |   9.5  | pangea              |
-| 18 | 7.0               | 2022-01-05 15:51:00 | devonport-synthetic |      7 |        4 | Incriminate      |   4.2  | overthrow           |
-| 19 | :3rd_place_medal: | 2022-01-05 15:16:00 | devonport-synthetic |      6 |        3 | Michbar          |   2.75 | benny,overthrow     |
-| 20 | 6.0               | 2022-01-05 15:16:00 | devonport-synthetic |      6 |        7 | Sirene Stryker   |   8    | pangea              |
-| 21 | 5.0               | 2022-01-05 15:16:00 | devonport-synthetic |      6 |        5 | Azara            |   4.8  | evenodds,overthrow  |
-| 22 | :2nd_place_medal: | 2022-01-05 15:16:00 | devonport-synthetic |      6 |        8 | Reward Achiever  |   5.5  | pangea              |
-| 23 | :2nd_place_medal: | 2022-01-05 15:12:00 | doomben             |      2 |        3 | Spokesman        |   3.75 | pangea              |
-| 24 | 9.0               | 2022-01-05 15:02:00 | otaki               |      7 |        1 | Skarloey         |  17    | cosmo,bluey         |
-| 25 | 5.0               | 2022-01-05 14:41:00 | devonport-synthetic |      5 |        9 | Sharma Rama      |   4.75 | pangea,overthrow    |
-| 26 | :2nd_place_medal: | 2022-01-05 14:20:00 | warwick-farm        |      1 |        4 | Destiny's Bounty |   4.5  | vulture             |
-| 27 | 5.0               | 2022-01-05 14:20:00 | warwick-farm        |      1 |        2 | Celtic Harp      |   8    | jmac                |
-| 28 | :2nd_place_medal: | 2022-01-05 14:18:00 | reefton             |      7 |        8 | Kopua            |   3    | vulture             |
-| 29 | 11.0              | 2022-01-05 14:05:00 | devonport-synthetic |      4 |        1 | Heza Charmer     |   4.2  | overthrow           |
-| 30 | :boom:            | 2022-01-05 13:27:00 | devonport-synthetic |      3 |        2 | Ubriaco          |   4.6  | pangea              |
-| 31 | 7.0               | 2022-01-05 13:27:00 | devonport-synthetic |      3 |        6 | Bynance          |   8    | vulture             |
-| 32 | :2nd_place_medal: | 2022-01-05 12:27:00 | reefton             |      4 |       10 | Lucky Viking     |   6    | vulture             |
+|    | finish   | time                | track           |   race |   number | name               |   odds | tipster             |
+|---:|:---------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:--------------------|
+|  0 | :soon:   | 2022-01-07 06:30:00 | chelmsford-city |      8 |        8 | Jeremiah Johnson   |   5.5  | looseknot           |
+|  1 | :soon:   | 2022-01-07 06:00:00 | chelmsford-city |      7 |        4 | Semser             |   4.5  | vulture             |
+|  2 | :soon:   | 2022-01-07 02:50:00 | chepstow        |      8 |        1 | Broken Quest       |   7    | pangea              |
+|  3 | :soon:   | 2022-01-07 02:50:00 | chepstow        |      8 |        7 | Lord Bryan         |  21    | pangea              |
+|  4 | :soon:   | 2022-01-07 02:50:00 | chepstow        |      8 |        4 | Gemirande          |   2.8  | vulture             |
+|  5 | :soon:   | 2022-01-07 02:40:00 | newcastle       |      7 |        2 | Cephalus           |   2.2  | vulture             |
+|  6 | :soon:   | 2022-01-07 02:30:00 | clonmel         |      7 |        1 | Ask D'Man          |   2.9  | overthrow           |
+|  7 | :soon:   | 2022-01-07 00:55:00 | vaal            |      8 |        1 | Bathing Beauty     |   0    | vulture             |
+|  8 | :soon:   | 2022-01-07 00:50:00 | clonmel         |      4 |        5 | Classic Getaway    |   1.6  | overthrow,lago      |
+|  9 | :soon:   | 2022-01-07 00:20:00 | clonmel         |      3 |       14 | Sienne D'or        |   9    | looseknot           |
+| 10 | :soon:   | 2022-01-06 23:50:00 | clonmel         |      2 |        7 | Gorki D'airy       |   2    | overthrow           |
+| 11 | :soon:   | 2022-01-06 23:45:00 | vaal            |      6 |        1 | Elusive Current    |   0    | vulture,blackshadow |
+| 12 | :soon:   | 2022-01-06 23:30:00 | newcastle       |      1 |        9 | Rose Of Lancashire |   7.5  | looseknot           |
+| 13 | :soon:   | 2022-01-06 23:20:00 | clonmel         |      1 |        9 | La Prima Donna     |   2.1  | overthrow           |
+| 14 | :soon:   | 2022-01-06 23:10:00 | vaal            |      5 |        2 | Gimme A Dream      |   0    | vulture             |
+| 15 | :soon:   | 2022-01-06 23:05:00 | chepstow        |      1 |        3 | Lady Tremaine      |   2.6  | overthrow           |
+| 16 | :soon:   | 2022-01-06 21:54:00 | pinjarra        |      7 |        4 | Comealilbitcloser  |   4.2  | benny,pangea        |
+| 17 | :soon:   | 2022-01-06 21:25:00 | vaal            |      2 |        4 | Mufasa             |   0    | vulture             |
+| 18 | :soon:   | 2022-01-06 20:42:00 | pinjarra        |      5 |        6 | Northeast Eagle    |   2.7  | pikey               |
+| 19 | :soon:   | 2022-01-06 20:07:00 | pinjarra        |      4 |        5 | Fine Romance       |   1.38 | pikey               |
+| 20 | :soon:   | 2022-01-06 19:30:00 | pinjarra        |      3 |        4 | Peppi Grove        |   5.5  | pikey               |
+| 21 | :soon:   | 2022-01-06 18:50:00 | pinjarra        |      2 |        3 | Agent Kensington   |   4    | pangea              |
+| 22 | :soon:   | 2022-01-06 18:30:00 | cairns          |      7 |        6 | Lapseki            |   3.8  | evenodds,overthrow  |
+| 23 | :soon:   | 2022-01-06 16:35:00 | cairns          |      4 |        4 | Deluxe Rocker      |   1.95 | pangea              |
+| 24 | :soon:   | 2022-01-06 15:20:00 | cairns          |      2 |        6 | Arise My Son       |   3.5  | benny,icyhot        |
+| 25 | :soon:   | 2022-01-06 13:50:00 | wagga           |      2 |        3 | O'reg              |  16    | cosmo,bluey         |
