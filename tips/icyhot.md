@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-01-06 20:51:39 +1000  
+date: 2022-01-06 21:06:01 +1000  
 categories: None 
 ---   
 
@@ -62,8 +62,8 @@ categories: None
 | :boom:            | 2021-12-04 | darwin R4               | 3 Bel's Banner        |  2.6  |     16   |
 | :boom:            | 2021-12-04 | gold-coast R7           | 1 Weona Smartone      |  1.2  |      2   |
 | 5                 | 2021-12-04 | doomben R7              | 3 The Harrovian       |  3.9  |    -10   |
-| 6                 | 2021-12-03 | devonport-synthetic R3  | 8 Sirene Stryker      |  3.8  |    -10   |
 | :3rd_place_medal: | 2021-12-03 | devonport-synthetic R3  | 7 Red Letter Lady     |  2.5  |    -10   |
+| 6                 | 2021-12-03 | devonport-synthetic R3  | 8 Sirene Stryker      |  3.8  |    -10   |
 | :3rd_place_medal: | 2021-11-30 | turffontein R6          | 5 Aragosta            |  6    |    -10   |
 | :3rd_place_medal: | 2021-11-27 | turffontein R6          | 5 Aragosta            |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-27 | morphettville R8        | 8 Rock The Ring       |  2.7  |    -10   |
@@ -77,8 +77,8 @@ categories: None
 | :boom:            | 2021-11-21 | alice-springs R5        | 1 Bench Press         |  1.6  |      6   |
 | :3rd_place_medal: | 2021-11-21 | alice-springs R2        | 2 Valley Prince       |  2.9  |    -10   |
 | 4                 | 2021-11-20 | ascot R4                | 2 Ginger Flyer        |  7    |    -10   |
-| :2nd_place_medal: | 2021-11-20 | sunshine-coast R7       | 7 Totally Charmed     | 14    |    -10   |
 | :boom:            | 2021-11-20 | sunshine-coast R7       | 2 Zoustyle            |  2.1  |     11   |
+| :2nd_place_medal: | 2021-11-20 | sunshine-coast R7       | 7 Totally Charmed     | 14    |    -10   |
 | :3rd_place_medal: | 2021-11-20 | sunshine-coast R6       | 12 Muschialli         |  8.5  |    -10   |
 | :boom:            | 2021-11-20 | roma R4                 | 2 Patented            |  2.6  |     16   |
 | :3rd_place_medal: | 2021-11-18 | rockhampton R5          | 2 Bluindi             |  2.7  |    -10   |
@@ -224,8 +224,8 @@ categories: None
 | :3rd_place_medal: | 2021-06-30 | warwick-farm R7         | 16 Promise Of Success |  2.1  |    -10   |
 | :boom:            | 2021-06-29 | townsville R1           | 5 Ruby July           |  1.2  |      2   |
 | :boom:            | 2021-06-27 | devonport-synthetic R9  | 4 Ancona              |  2.8  |     18   |
-| 5                 | 2021-06-27 | devonport-synthetic R6  | 1 Rising Hsiang       |  6.6  |    -10   |
 | 9                 | 2021-06-27 | devonport-synthetic R6  | 3 Silkstone           |  8    |    -10   |
+| 5                 | 2021-06-27 | devonport-synthetic R6  | 1 Rising Hsiang       |  6.6  |    -10   |
 | 7                 | 2021-06-26 | belmont R8              | 9 Leading Girl        |  3.3  |    -10   |
 | :3rd_place_medal: | 2021-06-26 | belmont R4              | 7 Secret Plan         |  2.4  |    -10   |
 | 5                 | 2021-06-26 | gatton R7               | 10 Moriconi           |  9    |    -10   |
@@ -239,8 +239,8 @@ categories: None
 | 5                 | 2021-06-19 | darwin R2               | 4 Obligatory          |  2.25 |    -10   |
 | :boom:            | 2021-06-19 | belmont R2              | 1 I'm Pretty          |  2.6  |     16   |
 | :boom:            | 2021-06-17 | warrnambool R6          | 3 Out And Dreaming    |  5.5  |     45   |
-| 13                | 2021-06-12 | belmont R8              | 2 Come Play With Me   | 51    |    -10   |
 | 6                 | 2021-06-12 | belmont R8              | 13 Leading Girl       |  4.55 |    -10   |
+| 13                | 2021-06-12 | belmont R8              | 2 Come Play With Me   | 51    |    -10   |
 | :3rd_place_medal: | 2021-06-12 | townsville R3           | 4 Courtesy Bus        |  5    |    -10   |
 | 4                 | 2021-06-11 | swan-hill R7            | 2 More Than Exceed    |  8    |    -10   |
 | :3rd_place_medal: | 2021-06-07 | northam R8              | 5 Gallant Ranger      | 15    |    -10   |
@@ -274,8 +274,8 @@ categories: None
 | 4                 | 2021-05-16 | albany R5               | 9 Island Charm        |  1.76 |    -10   |
 | :boom:            | 2021-05-15 | newbury R3              | 1 Al Aasy             |  2.1  |     11   |
 | :2nd_place_medal: | 2021-05-15 | ascot R8                | 3 Elite Street        |  4.4  |    -10   |
-| 10                | 2021-05-15 | morphettville R8        | 8 Beau Rossa          | 17    |    -10   |
 | :2nd_place_medal: | 2021-05-15 | morphettville R8        | 9 Instant Celebrity   |  5.5  |    -10   |
+| 10                | 2021-05-15 | morphettville R8        | 8 Beau Rossa          | 17    |    -10   |
 | :3rd_place_medal: | 2021-05-15 | doomben R7              | 7 The Harrovian       | 31    |    -10   |
 | 10                | 2021-05-15 | morphettville R3        | 10 That Girl          | 10    |    -10   |
 | 5                 | 2021-05-14 | scone R5                | 2 Total Recall        |  5    |    -10   |
@@ -306,8 +306,8 @@ categories: None
 | 9                 | 2021-04-21 | ipswich R8              | 2 Grand Zou           | 14    |    -10   |
 | 7                 | 2021-04-21 | ipswich R8              | 3 Amicitia            |  7.5  |    -10   |
 | :boom:            | 2021-04-20 | epsom-downs R3          | 3 Victory Chime       |  9    |     80   |
-| :2nd_place_medal: | 2021-04-20 | mackay R4               | 7 Princess Rules      |  4.6  |    -10   |
 | 4                 | 2021-04-20 | mackay R4               | 3 Moreno              |  3    |    -10   |
+| :2nd_place_medal: | 2021-04-20 | mackay R4               | 7 Princess Rules      |  4.6  |    -10   |
 | 10                | 2021-04-20 | mackay R3               | 2 Such A Whit         |  8.5  |    -10   |
 | :boom:            | 2021-04-18 | stratford R3            | 2 The Bull Mccabe     |  2    |     10   |
 | :boom:            | 2021-04-18 | sunshine-coast R6       | 5 Joy Too All         |  1.8  |      8   |
@@ -357,8 +357,8 @@ categories: None
 | :boom:            | 2021-03-21 | sha-tin R9              | 4 Fantastic Way       |  1.9  |      9   |
 | :boom:            | 2021-03-21 | sha-tin R7              | 8 Courier Wonder      |  1.15 |      1.5 |
 | :boom:            | 2021-03-19 | moonee-valley R8        | 9 Marabi              |  1.2  |      2   |
-| 12                | 2021-03-19 | moonee-valley R7        | 1 Hey Doc             |  8.5  |    -10   |
 | 8                 | 2021-03-19 | moonee-valley R7        | 14 Swats That         |  9    |    -10   |
+| 12                | 2021-03-19 | moonee-valley R7        | 1 Hey Doc             |  8.5  |    -10   |
 | 5                 | 2021-03-17 | doomben R4              | 4 Gunnobe             |  2.7  |    -10   |
 | :boom:            | 2021-03-17 | cheltenham R4           | 10 Honeysuckle        |  2.2  |     12   |
 | :2nd_place_medal: | 2021-03-14 | hereford R4             | 4 Hollywoodien        |  5.5  |    -10   |
@@ -389,8 +389,8 @@ categories: None
 | :boom:            | 2021-02-12 | moonee-valley R4        | 7 Starcaster          |  7.6  |     66   |
 | :boom:            | 2021-02-12 | townsville R8           | 6 Disco Mo            |  5.9  |     49   |
 | :2nd_place_medal: | 2021-02-12 | townsville R8           | 10 Bold Eos           |  2.6  |    -10   |
-| :boom:            | 2021-02-09 | mackay R2               | 2 Brad                |  1.4  |      4   |
 | :2nd_place_medal: | 2021-02-09 | mackay R2               | 3 Durif               |  2.5  |    -10   |
+| :boom:            | 2021-02-09 | mackay R2               | 2 Brad                |  1.4  |      4   |
 | :boom:            | 2021-02-09 | mackay R1               | 2 Carlin Trend        |  3.1  |     21   |
 | :3rd_place_medal: | 2021-02-07 | naracoorte R6           | 1 Challicum           |  5    |    -10   |
 | 5                 | 2021-02-07 | hobart R6               | 6 Mystical Pursuit    |  5.6  |    -10   |
