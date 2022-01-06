@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-06 21:51:44 +1000  
+date: 2022-01-06 22:07:12 +1000  
 ---   
 
 
@@ -94,7 +94,7 @@ date: 2022-01-06 21:51:44 +1000
 | 13 | :soon:            | 2022-01-06 23:20:00 | clonmel         |      1 |        9 | La Prima Donna     |   2.1  | overthrow           |
 | 14 | :soon:            | 2022-01-06 23:10:00 | vaal            |      5 |        2 | Gimme A Dream      |   0    | vulture             |
 | 15 | :soon:            | 2022-01-06 23:05:00 | chepstow        |      1 |        3 | Lady Tremaine      |   2.6  | overthrow           |
-| 16 | :soon:            | 2022-01-06 21:54:00 | pinjarra        |      7 |        4 | Comealilbitcloser  |   4.2  | benny,pangea        |
+| 16 | 4.0               | 2022-01-06 21:54:00 | pinjarra        |      7 |        4 | Comealilbitcloser  |   4.2  | benny,pangea        |
 | 17 | :3rd_place_medal: | 2022-01-06 21:25:00 | vaal            |      2 |        4 | Mufasa             |   0    | vulture             |
 | 18 | :2nd_place_medal: | 2022-01-06 20:42:00 | pinjarra        |      5 |        6 | Northeast Eagle    |   2.7  | pikey               |
 | 19 | :boom:            | 2022-01-06 20:07:00 | pinjarra        |      4 |        5 | Fine Romance       |   1.38 | pikey               |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-06 21:51:43 +1000  
+date: 2022-01-06 22:07:11 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 21:54             | 2022-01-06 | pinjarra R7           | 5 Prized Miss         |   2.62 |    -10   |
+| 0                 | 2022-01-06 | pinjarra R7           | 5 Prized Miss         |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-06 | pinjarra R5           | 6 Northeast Eagle     |   2.7  |    -10   |
 | :boom:            | 2022-01-06 | pinjarra R4           | 5 Fine Romance        |   1.5  |      5   |
 | 5                 | 2022-01-06 | pinjarra R3           | 4 Peppi Grove         |   5.5  |    -10   |
