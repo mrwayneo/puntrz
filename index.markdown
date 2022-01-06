@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-06 13:48:25 +1000  
+date: 2022-01-06 14:03:52 +1000  
 ---   
 
 
@@ -76,31 +76,31 @@ date: 2022-01-06 13:48:25 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6165 |    907 |  -8805.9 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7859 |    419 | -15846   | 0.05 | -0.2  |
 
-|    | finish   | time                | track           |   race |   number | name               |   odds | tipster             |
-|---:|:---------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | :soon:   | 2022-01-07 06:30:00 | chelmsford-city |      8 |        8 | Jeremiah Johnson   |   5.5  | looseknot           |
-|  1 | :soon:   | 2022-01-07 06:00:00 | chelmsford-city |      7 |        4 | Semser             |   4.5  | vulture             |
-|  2 | :soon:   | 2022-01-07 02:50:00 | chepstow        |      8 |        1 | Broken Quest       |   7    | pangea              |
-|  3 | :soon:   | 2022-01-07 02:50:00 | chepstow        |      8 |        7 | Lord Bryan         |  21    | pangea              |
-|  4 | :soon:   | 2022-01-07 02:50:00 | chepstow        |      8 |        4 | Gemirande          |   2.8  | vulture             |
-|  5 | :soon:   | 2022-01-07 02:40:00 | newcastle       |      7 |        2 | Cephalus           |   2.2  | vulture             |
-|  6 | :soon:   | 2022-01-07 02:30:00 | clonmel         |      7 |        1 | Ask D'Man          |   2.9  | overthrow           |
-|  7 | :soon:   | 2022-01-07 00:55:00 | vaal            |      8 |        1 | Bathing Beauty     |   0    | vulture             |
-|  8 | :soon:   | 2022-01-07 00:50:00 | clonmel         |      4 |        5 | Classic Getaway    |   1.6  | overthrow,lago      |
-|  9 | :soon:   | 2022-01-07 00:20:00 | clonmel         |      3 |       14 | Sienne D'or        |   9    | looseknot           |
-| 10 | :soon:   | 2022-01-06 23:50:00 | clonmel         |      2 |        7 | Gorki D'airy       |   2    | overthrow           |
-| 11 | :soon:   | 2022-01-06 23:45:00 | vaal            |      6 |        1 | Elusive Current    |   0    | vulture,blackshadow |
-| 12 | :soon:   | 2022-01-06 23:30:00 | newcastle       |      1 |        9 | Rose Of Lancashire |   7.5  | looseknot           |
-| 13 | :soon:   | 2022-01-06 23:20:00 | clonmel         |      1 |        9 | La Prima Donna     |   2.1  | overthrow           |
-| 14 | :soon:   | 2022-01-06 23:10:00 | vaal            |      5 |        2 | Gimme A Dream      |   0    | vulture             |
-| 15 | :soon:   | 2022-01-06 23:05:00 | chepstow        |      1 |        3 | Lady Tremaine      |   2.6  | overthrow           |
-| 16 | :soon:   | 2022-01-06 21:54:00 | pinjarra        |      7 |        4 | Comealilbitcloser  |   4.2  | benny,pangea        |
-| 17 | :soon:   | 2022-01-06 21:25:00 | vaal            |      2 |        4 | Mufasa             |   0    | vulture             |
-| 18 | :soon:   | 2022-01-06 20:42:00 | pinjarra        |      5 |        6 | Northeast Eagle    |   2.7  | pikey               |
-| 19 | :soon:   | 2022-01-06 20:07:00 | pinjarra        |      4 |        5 | Fine Romance       |   1.38 | pikey               |
-| 20 | :soon:   | 2022-01-06 19:30:00 | pinjarra        |      3 |        4 | Peppi Grove        |   5.5  | pikey               |
-| 21 | :soon:   | 2022-01-06 18:50:00 | pinjarra        |      2 |        3 | Agent Kensington   |   4    | pangea              |
-| 22 | :soon:   | 2022-01-06 18:30:00 | cairns          |      7 |        6 | Lapseki            |   3.8  | evenodds,overthrow  |
-| 23 | :soon:   | 2022-01-06 16:35:00 | cairns          |      4 |        4 | Deluxe Rocker      |   1.95 | pangea              |
-| 24 | :soon:   | 2022-01-06 15:20:00 | cairns          |      2 |        6 | Arise My Son       |   3.5  | benny,icyhot        |
-| 25 | :soon:   | 2022-01-06 13:50:00 | wagga           |      2 |        3 | O'reg              |  16    | cosmo,bluey         |
+|    | finish            | time                | track           |   race |   number | name               |   odds | tipster             |
+|---:|:------------------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:--------------------|
+|  0 | :soon:            | 2022-01-07 06:30:00 | chelmsford-city |      8 |        8 | Jeremiah Johnson   |   5.5  | looseknot           |
+|  1 | :soon:            | 2022-01-07 06:00:00 | chelmsford-city |      7 |        4 | Semser             |   4.5  | vulture             |
+|  2 | :soon:            | 2022-01-07 02:50:00 | chepstow        |      8 |        1 | Broken Quest       |   7    | pangea              |
+|  3 | :soon:            | 2022-01-07 02:50:00 | chepstow        |      8 |        7 | Lord Bryan         |  21    | pangea              |
+|  4 | :soon:            | 2022-01-07 02:50:00 | chepstow        |      8 |        4 | Gemirande          |   2.8  | vulture             |
+|  5 | :soon:            | 2022-01-07 02:40:00 | newcastle       |      7 |        2 | Cephalus           |   2.2  | vulture             |
+|  6 | :soon:            | 2022-01-07 02:30:00 | clonmel         |      7 |        1 | Ask D'Man          |   2.9  | overthrow           |
+|  7 | :soon:            | 2022-01-07 00:55:00 | vaal            |      8 |        1 | Bathing Beauty     |   0    | vulture             |
+|  8 | :soon:            | 2022-01-07 00:50:00 | clonmel         |      4 |        5 | Classic Getaway    |   1.6  | overthrow,lago      |
+|  9 | :soon:            | 2022-01-07 00:20:00 | clonmel         |      3 |       14 | Sienne D'or        |   9    | looseknot           |
+| 10 | :soon:            | 2022-01-06 23:50:00 | clonmel         |      2 |        7 | Gorki D'airy       |   2    | overthrow           |
+| 11 | :soon:            | 2022-01-06 23:45:00 | vaal            |      6 |        1 | Elusive Current    |   0    | vulture,blackshadow |
+| 12 | :soon:            | 2022-01-06 23:30:00 | newcastle       |      1 |        9 | Rose Of Lancashire |   7.5  | looseknot           |
+| 13 | :soon:            | 2022-01-06 23:20:00 | clonmel         |      1 |        9 | La Prima Donna     |   2.1  | overthrow           |
+| 14 | :soon:            | 2022-01-06 23:10:00 | vaal            |      5 |        2 | Gimme A Dream      |   0    | vulture             |
+| 15 | :soon:            | 2022-01-06 23:05:00 | chepstow        |      1 |        3 | Lady Tremaine      |   2.6  | overthrow           |
+| 16 | :soon:            | 2022-01-06 21:54:00 | pinjarra        |      7 |        4 | Comealilbitcloser  |   4.2  | benny,pangea        |
+| 17 | :soon:            | 2022-01-06 21:25:00 | vaal            |      2 |        4 | Mufasa             |   0    | vulture             |
+| 18 | :soon:            | 2022-01-06 20:42:00 | pinjarra        |      5 |        6 | Northeast Eagle    |   2.7  | pikey               |
+| 19 | :soon:            | 2022-01-06 20:07:00 | pinjarra        |      4 |        5 | Fine Romance       |   1.38 | pikey               |
+| 20 | :soon:            | 2022-01-06 19:30:00 | pinjarra        |      3 |        4 | Peppi Grove        |   5.5  | pikey               |
+| 21 | :soon:            | 2022-01-06 18:50:00 | pinjarra        |      2 |        3 | Agent Kensington   |   4    | pangea              |
+| 22 | :soon:            | 2022-01-06 18:30:00 | cairns          |      7 |        6 | Lapseki            |   3.8  | evenodds,overthrow  |
+| 23 | :soon:            | 2022-01-06 16:35:00 | cairns          |      4 |        4 | Deluxe Rocker      |   1.95 | pangea              |
+| 24 | :soon:            | 2022-01-06 15:20:00 | cairns          |      2 |        6 | Arise My Son       |   3.5  | benny,icyhot        |
+| 25 | :2nd_place_medal: | 2022-01-06 13:50:00 | wagga           |      2 |        3 | O'reg              |  16    | cosmo,bluey         |
