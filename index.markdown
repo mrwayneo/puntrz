@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-06 19:56:33 +1000  
+date: 2022-01-06 19:57:08 +1000  
 ---   
 
 
@@ -98,7 +98,7 @@ date: 2022-01-06 19:56:33 +1000
 | 17 | :soon:            | 2022-01-06 21:25:00 | vaal            |      2 |        4 | Mufasa             |   0    | vulture             |
 | 18 | :soon:            | 2022-01-06 20:42:00 | pinjarra        |      5 |        6 | Northeast Eagle    |   2.7  | pikey               |
 | 19 | :soon:            | 2022-01-06 20:07:00 | pinjarra        |      4 |        5 | Fine Romance       |   1.38 | pikey               |
-| 20 | --                | 2022-01-06 19:30:00 | pinjarra        |      3 |        4 | Peppi Grove        |   5.5  | pikey               |
+| 20 | 5.0               | 2022-01-06 19:30:00 | pinjarra        |      3 |        4 | Peppi Grove        |   5.5  | pikey               |
 | 21 | :3rd_place_medal: | 2022-01-06 18:50:00 | pinjarra        |      2 |        3 | Agent Kensington   |   4    | pangea              |
 | 22 | :2nd_place_medal: | 2022-01-06 18:30:00 | cairns          |      7 |        6 | Lapseki            |   3.8  | evenodds,overthrow  |
 | 23 | 4.0               | 2022-01-06 16:35:00 | cairns          |      4 |        4 | Deluxe Rocker      |   1.95 | pangea              |
