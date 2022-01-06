@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-06 20:35:04 +1000  
+date: 2022-01-06 20:51:45 +1000  
 ---   
 
 
@@ -96,7 +96,7 @@ date: 2022-01-06 20:35:04 +1000
 | 15 | :soon:            | 2022-01-06 23:05:00 | chepstow        |      1 |        3 | Lady Tremaine      |   2.6  | overthrow           |
 | 16 | :soon:            | 2022-01-06 21:54:00 | pinjarra        |      7 |        4 | Comealilbitcloser  |   4.2  | benny,pangea        |
 | 17 | :soon:            | 2022-01-06 21:25:00 | vaal            |      2 |        4 | Mufasa             |   0    | vulture             |
-| 18 | :soon:            | 2022-01-06 20:42:00 | pinjarra        |      5 |        6 | Northeast Eagle    |   2.7  | pikey               |
+| 18 | :2nd_place_medal: | 2022-01-06 20:42:00 | pinjarra        |      5 |        6 | Northeast Eagle    |   2.7  | pikey               |
 | 19 | :boom:            | 2022-01-06 20:07:00 | pinjarra        |      4 |        5 | Fine Romance       |   1.38 | pikey               |
 | 20 | 5.0               | 2022-01-06 19:30:00 | pinjarra        |      3 |        4 | Peppi Grove        |   5.5  | pikey               |
 | 21 | :3rd_place_medal: | 2022-01-06 18:50:00 | pinjarra        |      2 |        3 | Agent Kensington   |   4    | pangea              |
