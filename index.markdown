@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-06 22:07:12 +1000  
+date: 2022-01-06 22:07:36 +1000  
 ---   
 
 
@@ -9,19 +9,19 @@ date: 2022-01-06 22:07:12 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      2 |        1 | 0.5  |  0.02 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      1 |      -25 | 0.25 | -0.62 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      0 |      -70 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      8 |      0 |      -80 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      8 |      0 |      -80 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     36 |      3 |     -246 | 0.08 | -0.68 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     36 |      4 |     -215 | 0.11 | -0.6  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     34 |      0 |     -340 | 0    | -1    |
 
 ##### Form Last 20 tips   
