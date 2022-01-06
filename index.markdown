@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-06 16:23:37 +1000  
+date: 2022-01-06 16:38:54 +1000  
 ---   
 
 
@@ -101,6 +101,6 @@ date: 2022-01-06 16:23:37 +1000
 | 20 | :soon:            | 2022-01-06 19:30:00 | pinjarra        |      3 |        4 | Peppi Grove        |   5.5  | pikey               |
 | 21 | :soon:            | 2022-01-06 18:50:00 | pinjarra        |      2 |        3 | Agent Kensington   |   4    | pangea              |
 | 22 | :soon:            | 2022-01-06 18:30:00 | cairns          |      7 |        6 | Lapseki            |   3.8  | evenodds,overthrow  |
-| 23 | :soon:            | 2022-01-06 16:35:00 | cairns          |      4 |        4 | Deluxe Rocker      |   1.95 | pangea              |
+| 23 | --                | 2022-01-06 16:35:00 | cairns          |      4 |        4 | Deluxe Rocker      |   1.95 | pangea              |
 | 24 | :2nd_place_medal: | 2022-01-06 15:20:00 | cairns          |      2 |        6 | Arise My Son       |   3.5  | benny,icyhot        |
 | 25 | :2nd_place_medal: | 2022-01-06 13:50:00 | wagga           |      2 |        3 | O'reg              |  16    | cosmo,bluey         |
