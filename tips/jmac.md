@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-01-07 07:31:43 +1000  
+date: 2022-01-07 07:37:40 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,10 @@ categories: None
 
 | finish            | date       | event             | runner               |   win |   return |
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
+| 20:30             | 2022-01-07 | canterbury R6     | 7 Always On Show     |  3.9  |    -10   |
+| 20:00             | 2022-01-07 | canterbury R5     | 1 Special Reward     |  4.5  |    -10   |
+| 19:00             | 2022-01-07 | canterbury R3     | 9 You Like           |  6    |    -10   |
+| 18:30             | 2022-01-07 | canterbury R2     | 3 Solvere            |  3.1  |    -10   |
 | 10                | 2022-01-05 | warwick-farm R6   | 12 Concocted         |  2.38 |    -10   |
 | :boom:            | 2022-01-05 | warwick-farm R2   | 11 Trifaccia         |  1.6  |      6   |
 | 5                 | 2022-01-05 | warwick-farm R1   | 2 Celtic Harp        |  8    |    -10   |

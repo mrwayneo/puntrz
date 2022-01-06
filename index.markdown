@@ -1,11 +1,30 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 07:31:45 +1000  
+date: 2022-01-07 07:37:41 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 |    0 |    -1 |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 |    0 |    -1 |
+| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      2 |      0 |      -20 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 |    0 |    -1 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      9 |      0 |      -90 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     11 |      0 |     -110 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     12 |      0 |     -120 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     15 |      0 |     -150 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     34 |      0 |     -340 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      0 |     -350 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
