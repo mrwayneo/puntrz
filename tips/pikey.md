@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-06 19:57:07 +1000  
+date: 2022-01-06 20:19:54 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 21:54             | 2022-01-06 | pinjarra R7           | 5 Prized Miss         |   2.62 |    -10   |
 | 20:42             | 2022-01-06 | pinjarra R5           | 6 Northeast Eagle     |   2.7  |    -10   |
-| 20:07             | 2022-01-06 | pinjarra R4           | 5 Fine Romance        |   1.38 |    -10   |
+| :boom:            | 2022-01-06 | pinjarra R4           | 5 Fine Romance        |   1.5  |      5   |
 | 5                 | 2022-01-06 | pinjarra R3           | 4 Peppi Grove         |   5.5  |    -10   |
 | :2nd_place_medal: | 2022-01-05 | belmont R7            | 3 Noble Scot          |   4.75 |    -10   |
 | 4                 | 2022-01-05 | belmont R5            | 5 Saturn Black        |   3.8  |    -10   |

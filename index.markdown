@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-06 19:57:08 +1000  
+date: 2022-01-06 20:19:55 +1000  
 ---   
 
 
@@ -15,8 +15,8 @@ date: 2022-01-06 19:57:08 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      1 |      -25 | 0.25 | -0.62 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      0 |      -70 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      8 |      0 |      -80 | 0    | -1    |
@@ -97,7 +97,7 @@ date: 2022-01-06 19:57:08 +1000
 | 16 | :soon:            | 2022-01-06 21:54:00 | pinjarra        |      7 |        4 | Comealilbitcloser  |   4.2  | benny,pangea        |
 | 17 | :soon:            | 2022-01-06 21:25:00 | vaal            |      2 |        4 | Mufasa             |   0    | vulture             |
 | 18 | :soon:            | 2022-01-06 20:42:00 | pinjarra        |      5 |        6 | Northeast Eagle    |   2.7  | pikey               |
-| 19 | :soon:            | 2022-01-06 20:07:00 | pinjarra        |      4 |        5 | Fine Romance       |   1.38 | pikey               |
+| 19 | :boom:            | 2022-01-06 20:07:00 | pinjarra        |      4 |        5 | Fine Romance       |   1.38 | pikey               |
 | 20 | 5.0               | 2022-01-06 19:30:00 | pinjarra        |      3 |        4 | Peppi Grove        |   5.5  | pikey               |
 | 21 | :3rd_place_medal: | 2022-01-06 18:50:00 | pinjarra        |      2 |        3 | Agent Kensington   |   4    | pangea              |
 | 22 | :2nd_place_medal: | 2022-01-06 18:30:00 | cairns          |      7 |        6 | Lapseki            |   3.8  | evenodds,overthrow  |
