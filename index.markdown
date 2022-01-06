@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 06:21:51 +1000  
+date: 2022-01-07 06:39:19 +1000  
 ---   
 
 
@@ -61,7 +61,7 @@ date: 2022-01-07 06:21:51 +1000
 
 |    | finish            | time                | track           |   race |   number | name               |   odds | tipster             |
 |---:|:------------------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | :soon:            | 2022-01-07 06:30:00 | chelmsford-city |      8 |        8 | Jeremiah Johnson   |   5.5  | looseknot           |
+|  0 | :2nd_place_medal: | 2022-01-07 06:30:00 | chelmsford-city |      8 |        8 | Jeremiah Johnson   |   5.5  | looseknot           |
 |  1 | --                | 2022-01-07 06:00:00 | chelmsford-city |      7 |        4 | Semser             |   4.5  | vulture             |
 |  2 | :2nd_place_medal: | 2022-01-07 02:50:00 | chepstow        |      8 |        1 | Broken Quest       |   7    | pangea              |
 |  3 | --                | 2022-01-07 02:50:00 | chepstow        |      8 |        7 | Lord Bryan         |  21    | pangea              |
