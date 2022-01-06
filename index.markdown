@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-06 14:33:53 +1000  
+date: 2022-01-06 15:23:28 +1000  
 ---   
 
 
@@ -21,7 +21,7 @@ date: 2022-01-06 14:33:53 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      8 |      0 |      -80 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      8 |      0 |      -80 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     36 |      1 |     -331 | 0.03 | -0.92 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     36 |      2 |     -316 | 0.06 | -0.88 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     34 |      0 |     -340 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -102,5 +102,5 @@ date: 2022-01-06 14:33:53 +1000
 | 21 | :soon:            | 2022-01-06 18:50:00 | pinjarra        |      2 |        3 | Agent Kensington   |   4    | pangea              |
 | 22 | :soon:            | 2022-01-06 18:30:00 | cairns          |      7 |        6 | Lapseki            |   3.8  | evenodds,overthrow  |
 | 23 | :soon:            | 2022-01-06 16:35:00 | cairns          |      4 |        4 | Deluxe Rocker      |   1.95 | pangea              |
-| 24 | :soon:            | 2022-01-06 15:20:00 | cairns          |      2 |        6 | Arise My Son       |   3.5  | benny,icyhot        |
+| 24 | --                | 2022-01-06 15:20:00 | cairns          |      2 |        6 | Arise My Son       |   3.5  | benny,icyhot        |
 | 25 | :2nd_place_medal: | 2022-01-06 13:50:00 | wagga           |      2 |        3 | O'reg              |  16    | cosmo,bluey         |
