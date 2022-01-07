@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 20:46:44 +1000  
+date: 2022-01-07 21:02:09 +1000  
 ---   
 
 
@@ -89,8 +89,8 @@ date: 2022-01-07 20:46:44 +1000
 |  6 | :soon:            | 2022-01-08 00:25:00 | wetherby       |      2 |        6 | My Last Oscar      |   6.5  | looseknot            |
 |  7 | :soon:            | 2022-01-07 23:50:00 | wetherby       |      1 |        1 | Kayfast Warrior    |   2    | overthrow            |
 |  8 | :soon:            | 2022-01-07 21:45:00 | cranbourne     |      8 |        4 | Midwest            |   2.25 | benny,pangea         |
-|  9 | --                | 2022-01-07 20:30:00 | canterbury     |      6 |        7 | Always On Show     |   3.9  | jmac                 |
-| 10 | --                | 2022-01-07 20:30:00 | canterbury     |      6 |        2 | Karlstad           |   4.75 | wallbow              |
+|  9 | 5.0               | 2022-01-07 20:30:00 | canterbury     |      6 |        7 | Always On Show     |   3.9  | jmac                 |
+| 10 | 7.0               | 2022-01-07 20:30:00 | canterbury     |      6 |        2 | Karlstad           |   4.75 | wallbow              |
 | 11 | 105.0             | 2022-01-07 20:15:00 | cranbourne     |      5 |        3 | Video              |   0    | evenodds,overthrow   |
 | 12 | 7.0               | 2022-01-07 20:08:00 | sunshine-coast |      4 |        1 | Devil's Temptation |   4.8  | pangea               |
 | 13 | 5.0               | 2022-01-07 20:00:00 | canterbury     |      5 |        2 | Southern Lad       |   5.5  | pangea,icyhot        |

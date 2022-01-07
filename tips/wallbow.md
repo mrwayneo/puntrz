@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-01-07 20:46:39 +1000  
+date: 2022-01-07 21:02:03 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event             | runner             |   win |   return |
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
-| 0                 | 2022-01-07 | canterbury R6     | 2 Karlstad         |  0    |      -10 |
+| 7                 | 2022-01-07 | canterbury R6     | 2 Karlstad         |  4.75 |      -10 |
 | :2nd_place_medal: | 2022-01-07 | canterbury R4     | 5 Lady Proisir     |  8    |      -10 |
 | :2nd_place_medal: | 2021-12-29 | gosford R7        | 2 Brookspire       |  1.4  |      -10 |
 | 7                 | 2021-12-26 | randwick R7       | 2 So You Win       | 11    |      -10 |
