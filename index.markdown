@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 13:57:36 +1000  
+date: 2022-01-07 14:13:01 +1000  
 ---   
 
 
@@ -23,8 +23,8 @@ date: 2022-01-07 13:57:36 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     11 |      0 |     -110 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     12 |      0 |     -120 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     15 |      0 |     -150 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      1 |     -333 | 0.03 | -0.95 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     34 |      0 |     -340 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      0 |     -350 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -112,7 +112,7 @@ date: 2022-01-07 13:57:36 +1000
 | 29 | :soon:            | 2022-01-07 14:34:00 | mackay         |      2 |        3 | Roc De Khaper      |   3.1  | pangea               |
 | 30 | :soon:            | 2022-01-07 14:30:00 | stawell        |      3 |        7 | Bad Influence      |   1.4  | vulture              |
 | 31 | :soon:            | 2022-01-07 14:14:00 | hobart         |      6 |        2 | Alpine Wolf        |   3    | vulture              |
-| 32 | :soon:            | 2022-01-07 14:10:00 | orange         |      2 |        9 | Divine Crescent    |   6    | looseknot            |
+| 32 | --                | 2022-01-07 14:10:00 | orange         |      2 |        9 | Divine Crescent    |   6    | looseknot            |
 | 33 | 4.0               | 2022-01-07 13:42:00 | hobart         |      5 |        8 | Miss Charlie Brown |   4.33 | overthrow            |
 | 34 | --                | 2022-01-07 13:42:00 | hobart         |      5 |        7 | Majestic Diamond   |   3.2  | overthrow,milkman    |
 | 35 | :2nd_place_medal: | 2022-01-07 13:07:00 | hobart         |      4 |        5 | Summer Fire        |   2    | evenodds,overthrow   |
