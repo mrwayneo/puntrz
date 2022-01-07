@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 19:17:02 +1000  
+date: 2022-01-07 19:31:46 +1000  
 ---   
 
 
@@ -96,7 +96,7 @@ date: 2022-01-07 19:17:02 +1000
 | 13 | :soon:            | 2022-01-07 20:00:00 | canterbury     |      5 |        2 | Southern Lad       |   5.5  | pangea,icyhot        |
 | 14 | :soon:            | 2022-01-07 20:00:00 | canterbury     |      5 |        1 | Special Reward     |   4.2  | vulture,jmac         |
 | 15 | :soon:            | 2022-01-07 19:38:00 | sunshine-coast |      3 |        1 | Thelwell           |   1.22 | vulture              |
-| 16 | :soon:            | 2022-01-07 19:30:00 | canterbury     |      4 |        5 | Lady Proisir       |   8    | milkman,bob          |
+| 16 | --                | 2022-01-07 19:30:00 | canterbury     |      4 |        5 | Lady Proisir       |   8    | milkman,bob          |
 | 17 | 4.0               | 2022-01-07 19:00:00 | canterbury     |      3 |        9 | You Like           |   6    | jmac                 |
 | 18 | :boom:            | 2022-01-07 18:30:00 | canterbury     |      2 |        1 | Sneaky Shark       |   2.45 | vulture              |
 | 19 | :2nd_place_medal: | 2022-01-07 18:30:00 | canterbury     |      2 |        3 | Solvere            |   3    | jmac                 |
