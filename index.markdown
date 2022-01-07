@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 19:46:54 +1000  
+date: 2022-01-07 20:01:53 +1000  
 ---   
 
 
@@ -93,8 +93,8 @@ date: 2022-01-07 19:46:54 +1000
 | 10 | :soon:            | 2022-01-07 20:30:00 | canterbury     |      6 |        2 | Karlstad           |   4.75 | wallbow              |
 | 11 | 105.0             | 2022-01-07 20:15:00 | cranbourne     |      5 |        3 | Video              |   0    | evenodds,overthrow   |
 | 12 | :soon:            | 2022-01-07 20:08:00 | sunshine-coast |      4 |        1 | Devil's Temptation |   4.8  | pangea               |
-| 13 | :soon:            | 2022-01-07 20:00:00 | canterbury     |      5 |        2 | Southern Lad       |   5.5  | pangea,icyhot        |
-| 14 | :soon:            | 2022-01-07 20:00:00 | canterbury     |      5 |        1 | Special Reward     |   4.2  | vulture,jmac         |
+| 13 | --                | 2022-01-07 20:00:00 | canterbury     |      5 |        2 | Southern Lad       |   5.5  | pangea,icyhot        |
+| 14 | --                | 2022-01-07 20:00:00 | canterbury     |      5 |        1 | Special Reward     |   4.2  | vulture,jmac         |
 | 15 | :boom:            | 2022-01-07 19:38:00 | sunshine-coast |      3 |        1 | Thelwell           |   1.22 | vulture              |
 | 16 | :2nd_place_medal: | 2022-01-07 19:30:00 | canterbury     |      4 |        5 | Lady Proisir       |   8    | milkman,bob          |
 | 17 | 4.0               | 2022-01-07 19:00:00 | canterbury     |      3 |        9 | You Like           |   6    | jmac                 |

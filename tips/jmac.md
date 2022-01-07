@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-01-07 19:46:53 +1000  
+date: 2022-01-07 20:01:52 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event             | runner               |   win |   return |
 |:------------------|:-----------|:------------------|:---------------------|------:|---------:|
 | 20:30             | 2022-01-07 | canterbury R6     | 7 Always On Show     |  3.9  |    -10   |
-| 20:00             | 2022-01-07 | canterbury R5     | 1 Special Reward     |  4.2  |    -10   |
+| 0                 | 2022-01-07 | canterbury R5     | 1 Special Reward     |  0    |    -10   |
 | 4                 | 2022-01-07 | canterbury R3     | 9 You Like           |  6    |    -10   |
 | :2nd_place_medal: | 2022-01-07 | canterbury R2     | 3 Solvere            |  3    |    -10   |
 | 10                | 2022-01-05 | warwick-farm R6   | 12 Concocted         |  2.38 |    -10   |
