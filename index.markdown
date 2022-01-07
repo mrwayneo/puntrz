@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 14:27:52 +1000  
+date: 2022-01-07 14:42:25 +1000  
 ---   
 
 
@@ -109,8 +109,8 @@ date: 2022-01-07 14:27:52 +1000
 | 26 | :soon:            | 2022-01-07 15:24:00 | hobart         |      8 |        2 | The Risk Factor    |   1.91 | evenodds,blackshadow |
 | 27 | :soon:            | 2022-01-07 14:45:00 | orange         |      3 |        2 | Wolf Queen         |   1.85 | vulture              |
 | 28 | :soon:            | 2022-01-07 14:45:00 | orange         |      3 |        6 | Coopella           |   6.5  | vulture,milkman      |
-| 29 | :soon:            | 2022-01-07 14:34:00 | mackay         |      2 |        3 | Roc De Khaper      |   3.1  | pangea               |
-| 30 | :soon:            | 2022-01-07 14:30:00 | stawell        |      3 |        7 | Bad Influence      |   1.4  | vulture              |
+| 29 | :3rd_place_medal: | 2022-01-07 14:34:00 | mackay         |      2 |        3 | Roc De Khaper      |   3.1  | pangea               |
+| 30 | 4.0               | 2022-01-07 14:30:00 | stawell        |      3 |        7 | Bad Influence      |   1.4  | vulture              |
 | 31 | :boom:            | 2022-01-07 14:14:00 | hobart         |      6 |        2 | Alpine Wolf        |   3    | vulture              |
 | 32 | --                | 2022-01-07 14:10:00 | orange         |      2 |        9 | Divine Crescent    |   6    | looseknot            |
 | 33 | 4.0               | 2022-01-07 13:42:00 | hobart         |      5 |        8 | Miss Charlie Brown |   4.33 | overthrow            |
