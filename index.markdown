@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 07:23:30 +1000  
+date: 2022-01-08 07:26:47 +1000  
 ---   
 
 
@@ -106,8 +106,8 @@ date: 2022-01-08 07:23:30 +1000
 | 24 | 103.0             | 2022-01-07 16:04:00 | hobart         |      9 |        5 | Diamond Bay        |   8.5  | vulture,pangea       |
 | 25 | --                | 2022-01-07 15:55:00 | orange         |      5 |        3 | No Debt            |   2.8  | vulture              |
 | 26 | 8.0               | 2022-01-07 15:24:00 | hobart         |      8 |        2 | The Risk Factor    |   1.91 | evenodds,blackshadow |
-| 27 | 103.0             | 2022-01-07 14:45:00 | orange         |      3 |        6 | Coopella           |   4.75 | vulture,milkman      |
-| 28 | 103.0             | 2022-01-07 14:45:00 | orange         |      3 |        2 | Wolf Queen         |   1.55 | vulture              |
+| 27 | 103.0             | 2022-01-07 14:45:00 | orange         |      3 |        2 | Wolf Queen         |   1.55 | vulture              |
+| 28 | 103.0             | 2022-01-07 14:45:00 | orange         |      3 |        6 | Coopella           |   4.75 | vulture,milkman      |
 | 29 | :3rd_place_medal: | 2022-01-07 14:34:00 | mackay         |      2 |        3 | Roc De Khaper      |   3.1  | pangea               |
 | 30 | 4.0               | 2022-01-07 14:30:00 | stawell        |      3 |        7 | Bad Influence      |   1.4  | vulture              |
 | 31 | :boom:            | 2022-01-07 14:14:00 | hobart         |      6 |        2 | Alpine Wolf        |   3    | vulture              |
