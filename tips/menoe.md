@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-01-07 17:58:05 +1000  
+date: 2022-01-07 18:12:47 +1000  
 categories: None 
 ---   
 
@@ -16,8 +16,7 @@ categories: None
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
 | 7                 | 2022-01-07 | stawell R5             | 4 Wilsons Prom       |  1.9  |    -10   |
-| 0                 | 2022-01-07 | orange R1              | 2 Cinque Torri       |  0    |    -10   |
-| 0                 | 2022-01-03 | pinjarra R3            | 9 Otheroneson        |  0    |    -10   |
+| :2nd_place_medal: | 2022-01-03 | pinjarra R3            | 9 Otheroneson        |  1.9  |    -10   |
 | :boom:            | 2021-12-27 | leopardstown R7        | 6 Facile Vega        |  1.95 |      9.5 |
 | :2nd_place_medal: | 2021-12-12 | pinjarra R1            | 2 Arnray             |  1.9  |    -10   |
 | 4                 | 2021-12-08 | ipswich R1             | 3 Never Been Better  |  1.9  |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 17:58:06 +1000  
+date: 2022-01-07 18:12:48 +1000  
 ---   
 
 
@@ -12,19 +12,19 @@ date: 2022-01-07 17:58:06 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      9 |      1 |      239 | 0.11 |  2.66 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     31 |      1 |       19 | 0.03 |  0.06 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
+| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      8 |      1 |      -18 | 0.12 | -0.22 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
-| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     11 |      1 |      -80 | 0.09 | -0.73 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      0 |     -100 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      1 |     -333 | 0.03 | -0.95 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     33 |      1 |     -313 | 0.03 | -0.95 |
 
 ##### Form Last 20 tips   
 
@@ -36,11 +36,11 @@ date: 2022-01-07 17:58:06 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |     46.5 | 0.4  |  0.23 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     41   | 0.1  |  0.2  |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     12 |     32   | 0.6  |  0.16 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      8 |     19   | 0.4  |  0.1  |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      6 |      6   | 0.3  |  0.03 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |      0   | 0.05 |  0    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      6 |    -16.1 | 0.3  | -0.08 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      7 |    -34   | 0.35 | -0.17 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      6 |    -47   | 0.3  | -0.24 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |    -55   | 0.1  | -0.28 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      3 |   -100.5 | 0.15 | -0.5  |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |   -119   | 0.15 | -0.6  |
@@ -66,7 +66,7 @@ date: 2022-01-07 17:58:06 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    345 |     95 |     -4.1 | 0.28 | -0    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    198 |     68 |   -139.9 | 0.34 | -0.07 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     53 |      9 |   -228   | 0.17 | -0.43 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    433 |    125 |   -382   | 0.29 | -0.09 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    433 |    127 |   -316   | 0.29 | -0.07 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    636 |    101 |   -393.3 | 0.16 | -0.06 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    346 |     68 |   -858.5 | 0.2  | -0.25 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    590 |    166 |  -1077.7 | 0.28 | -0.18 |
@@ -75,7 +75,7 @@ date: 2022-01-07 17:58:06 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2506 |    135 |  -2034   | 0.05 | -0.08 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1782 |    380 |  -2076.9 | 0.21 | -0.12 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2828 |    705 |  -2971.4 | 0.25 | -0.11 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6170 |    910 |  -8428.9 | 0.15 | -0.14 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6159 |    910 |  -8318.9 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7847 |    416 | -15928   | 0.05 | -0.2  |
 
 |    | finish            | time                | track          |   race |   number | name               |   odds | tipster              |
@@ -103,7 +103,7 @@ date: 2022-01-07 17:58:06 +1000
 | 20 | --                | 2022-01-07 17:45:00 | orange         |      8 |        1 | Ballistic Moon     |   4.8  | looseknot            |
 | 21 | --                | 2022-01-07 17:34:00 | mackay         |      7 |        3 | Eveready           |   3.5  | pangea,icyhot        |
 | 22 | --                | 2022-01-07 17:34:00 | mackay         |      7 |        6 | Man O' Ross        |   6.5  | benny,pangea         |
-| 23 | --                | 2022-01-07 16:57:00 | mackay         |      6 |        9 | Tilly's Secret     |   2.62 | vulture,pangea       |
+| 23 | :2nd_place_medal: | 2022-01-07 16:57:00 | mackay         |      6 |        9 | Tilly's Secret     |   2.62 | vulture,pangea       |
 | 24 | 103.0             | 2022-01-07 16:04:00 | hobart         |      9 |        5 | Diamond Bay        |   8.5  | vulture,pangea       |
 | 25 | --                | 2022-01-07 15:55:00 | orange         |      5 |        3 | No Debt            |   2.8  | vulture              |
 | 26 | 8.0               | 2022-01-07 15:24:00 | hobart         |      8 |        2 | The Risk Factor    |   1.91 | evenodds,blackshadow |

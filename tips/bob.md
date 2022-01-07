@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-07 17:58:05 +1000  
+date: 2022-01-07 18:12:47 +1000  
 categories: None 
 ---   
 
@@ -17,8 +17,8 @@ categories: None
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
 | 19:30             | 2022-01-07 | canterbury R4                 | 5 Lady Proisir        |   8    |    -10   |
 | :2nd_place_medal: | 2022-01-05 | bordertown R7                 | 2 Richter             |  12    |    -10   |
-| 0                 | 2022-01-05 | hereford R5                   | 4 Ballybreen          |   0    |    -10   |
-| 0                 | 2022-01-04 | southwell R4                  | 6 Our Bill's Aunt     |   0    |    -10   |
+| 99                | 2022-01-05 | hereford R5                   | 4 Ballybreen          |   0    |    -10   |
+| :2nd_place_medal: | 2022-01-04 | southwell R4                  | 6 Our Bill's Aunt     |  21    |    -10   |
 | 99                | 2022-01-02 | fakenham R2                   | 9 Scattercash         |   0    |    -10   |
 | :boom:            | 2022-01-01 | fairyhouse R1                 | 2 Carrig Sam          |  14    |    130   |
 | 8                 | 2022-01-01 | darwin R4                     | 6 Extrapolate         |  18    |    -10   |
@@ -27,8 +27,8 @@ categories: None
 | :boom:            | 2021-12-21 | wolverhampton R1              | 6 Ruby Red Empress    |   0    |    -10   |
 | 99                | 2021-12-17 | uttoxeter R3                  | 6 Glebe Road          |   0    |    -10   |
 | 5                 | 2021-12-15 | sandown-hillside R4           | 2 Covert              |  12    |    -10   |
-| 99                | 2021-12-12 | fairyhouse R6                 | 3 Bearwithmenow       |   0    |    -10   |
 | 99                | 2021-12-12 | fairyhouse R6                 | 15 Merry Moves        |   0    |    -10   |
+| 99                | 2021-12-12 | fairyhouse R6                 | 3 Bearwithmenow       |   0    |    -10   |
 | 99                | 2021-12-11 | cheltenham R4                 | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5                   | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6                 | 8 Precious            |   0    |    -10   |
@@ -144,8 +144,8 @@ categories: None
 | :boom:            | 2021-06-23 | pukekohe-park R5              | 3 Hit The Switch      |   5    |     40   |
 | 9                 | 2021-06-20 | kilcoy R7                     | 7 Snipfit             |  51    |    -10   |
 | 7                 | 2021-06-19 | darwin R2                     | 5 Skellig Island      |  26    |    -10   |
-| 99                | 2021-06-19 | royal-ascot R2                | 1 Gear Up             |  10    |    -10   |
 | 99                | 2021-06-19 | royal-ascot R2                | 3 Belloccio           |   6    |    -10   |
+| 99                | 2021-06-19 | royal-ascot R2                | 1 Gear Up             |  10    |    -10   |
 | 99                | 2021-06-18 | down-royal R2                 | 15 Glory For Molly    |  26    |    -10   |
 | 99                | 2021-06-17 | wexford R7                    | 7 Ballybrowney Jack   |  32    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R2                | 8 Law Of The Sea      |  17    |    -10   |

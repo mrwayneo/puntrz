@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-07 17:58:04 +1000  
+date: 2022-01-07 18:12:46 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     13 |      3 |      -71 | 0.23 | -0.55 |
-| Last 28 Days   |     32 |      9 |      -64 | 0.28 | -0.2  |
-| Last 6 Months  |    440 |    126 |     -490 | 0.29 | -0.11 |
-| Since Jan 2020 |    959 |    249 |    -1378 | 0.26 | -0.14 |
+| Last 7 Days    |     13 |      5 |       -5 | 0.38 | -0.04 |
+| Last 28 Days   |     32 |     11 |        2 | 0.34 |  0.01 |
+| Last 6 Months  |    440 |    128 |     -424 | 0.29 | -0.1  |
+| Since Jan 2020 |    959 |    251 |    -1312 | 0.26 | -0.14 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
@@ -22,12 +22,12 @@ categories: None
 | :2nd_place_medal: | 2022-01-05 | belmont R7            | 3 Noble Scot          |   4.75 |    -10   |
 | 4                 | 2022-01-05 | belmont R5            | 5 Saturn Black        |   3.8  |    -10   |
 | :boom:            | 2022-01-05 | belmont R4            | 1 Soviet Spy          |   1.8  |      8   |
-| 0                 | 2022-01-03 | pinjarra R7           | 7 National Guard      |   0    |    -10   |
-| 0                 | 2022-01-03 | pinjarra R6           | 7 Chad's Me Dad       |   0    |    -10   |
-| 0                 | 2022-01-03 | pinjarra R5           | 2 Do It Right         |   0    |    -10   |
-| 0                 | 2022-01-03 | pinjarra R4           | 9 Miss Field          |   0    |    -10   |
-| 0                 | 2022-01-03 | pinjarra R3           | 8 Men's Club          |   0    |    -10   |
-| 0                 | 2022-01-03 | pinjarra R2           | 5 Mr Brilliant        |   0    |    -10   |
+| 4                 | 2022-01-03 | pinjarra R7           | 7 National Guard      |   9.5  |    -10   |
+| :boom:            | 2022-01-03 | pinjarra R6           | 7 Chad's Me Dad       |   3.8  |     28   |
+| :2nd_place_medal: | 2022-01-03 | pinjarra R5           | 2 Do It Right         |   2.6  |    -10   |
+| :boom:            | 2022-01-03 | pinjarra R4           | 9 Miss Field          |   2.8  |     18   |
+| :3rd_place_medal: | 2022-01-03 | pinjarra R3           | 8 Men's Club          |   4.4  |    -10   |
+| :3rd_place_medal: | 2022-01-03 | pinjarra R2           | 5 Mr Brilliant        |   5    |    -10   |
 | 4                 | 2021-12-30 | belmont R6            | 8 Magic To Exceed     |   3.1  |    -10   |
 | :2nd_place_medal: | 2021-12-30 | belmont R5            | 6 Sioux City          |   5    |    -10   |
 | 5                 | 2021-12-30 | belmont R2            | 7 Near Perfect        |   8    |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-01-07 17:58:05 +1000  
+date: 2022-01-07 18:12:47 +1000  
 categories: None 
 ---   
 
@@ -26,8 +26,8 @@ categories: None
 | :boom:            | 2021-12-26 | wetherby R2            | 4 Galia Des Liteaux  |  3.3  |     23   |
 | 99                | 2021-12-18 | navan R2               | 15 Belle Metal       |  0    |    -10   |
 | :boom:            | 2021-12-18 | ascot R6               | 7 Henri The Second   |  4.4  |     34   |
-| :boom:            | 2021-12-18 | ascot R4               | 3 Jonbon             |  2    |     10   |
 | :3rd_place_medal: | 2021-12-18 | ascot R4               | 4 Knappers Hill      |  4    |    -10   |
+| :boom:            | 2021-12-18 | ascot R4               | 3 Jonbon             |  2    |     10   |
 | :boom:            | 2021-12-16 | leicester R3           | 8 Sholokjack         |  2.35 |     13.5 |
 | 5                 | 2021-12-13 | rockhampton R1         | 4 Sweet Way's        |  3.2  |    -10   |
 | 99                | 2021-12-13 | southwell R6           | 6 Hob House          |  0    |    -10   |
@@ -103,8 +103,8 @@ categories: None
 | :boom:            | 2021-08-14 | tramore R7             | 7 Coole Og           |  1.67 |      6.7 |
 | :boom:            | 2021-08-14 | newmarket R3           | 2 Coroebus           |  2.2  |     12   |
 | :boom:            | 2021-08-08 | kilbeggan R8           | 9 Flemencello        |  1.4  |      4   |
-| 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
 | :2nd_place_medal: | 2021-07-31 | galway R8              | 15 Ashroe Diamond    |  2.5  |    -10   |
+| 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
 | 4                 | 2021-07-25 | uttoxeter R1           | 2 Knotty Ash         |  1.7  |    -10   |
 | :boom:            | 2021-07-22 | sandown R3             | 4 Inspiral           |  2.2  |     12   |
 | 99                | 2021-07-18 | newbury R7             | 2 Mawenzi            |  3.3  |    -10   |
@@ -151,15 +151,15 @@ categories: None
 | :2nd_place_medal: | 2021-04-03 | awapuni R7             | 4 I Wish I Win       |  3.3  |    -10   |
 | :2nd_place_medal: | 2021-03-31 | doomben R7             | 7 Roman Republic     |  1.9  |    -10   |
 | :boom:            | 2021-03-29 | limerick R8            | 10 Belle Metal       |  1.68 |      6.8 |
-| :boom:            | 2021-03-28 | newbury R7             | 6 Jonbon             |  1.9  |      9   |
 | 99                | 2021-03-28 | newbury R7             | 2 Petrossian         |  3.9  |    -10   |
+| :boom:            | 2021-03-28 | newbury R7             | 6 Jonbon             |  1.9  |      9   |
 | :boom:            | 2021-03-24 | launceston R5          | 6 Azara              |  2.4  |     14   |
 | 99                | 2021-03-22 | chepstow R7            | 2 Gold Bullion       |  2.9  |    -10   |
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1          | 2 Haut En Couleurs   | 23    |    -10   |
 | :boom:            | 2021-03-19 | sunshine-coast R5      | 7 Karaka Lad         |  1.6  |      6   |
 | :3rd_place_medal: | 2021-03-18 | cheltenham R7          | 12 Elle Est Belle    | 19    |    -10   |
-| 99                | 2021-03-14 | sandown R4             | 9 Precious           | 26    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | sandown R4             | 18 Tweed Skirt       |  7.5  |    -10   |
+| 99                | 2021-03-14 | sandown R4             | 9 Precious           | 26    |    -10   |
 | :2nd_place_medal: | 2021-03-12 | thurles R7             | 3 Deploy The Getaway |  1.8  |    -10   |
 | 99                | 2021-03-08 | huntingdon R7          | 1 Quid Pro Quo       |  1.9  |    -10   |
 | 99                | 2021-02-28 | fairyhouse R8          | 5 Glengouly          |  2.25 |    -10   |
