@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 07:56:35 +1000  
+date: 2022-01-08 08:12:51 +1000  
 ---   
 
 
@@ -77,42 +77,86 @@ date: 2022-01-08 07:56:35 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6171 |    910 |  -8699.9 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7838 |    417 | -15564   | 0.05 | -0.2  |
 
-|    | finish            | time                | track          |   race |   number | name               |   odds | tipster              |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|  0 | --                | 2022-01-08 02:07:00 | kenilworth     |      7 |       11 | Sound Of Warning   |   0    | milkman              |
-|  1 | :2nd_place_medal: | 2022-01-08 02:07:00 | kenilworth     |      7 |        2 | Capitana           |   0    | vulture              |
-|  2 | --                | 2022-01-08 02:07:00 | kenilworth     |      7 |        9 | Amanzimtoti        |   0    | milkman              |
-|  3 | :3rd_place_medal: | 2022-01-08 02:05:00 | wetherby       |      5 |        6 | Donladd            |   6    | overthrow            |
-|  4 | --                | 2022-01-08 01:50:00 | lingfield      |      5 |        6 | Caryatid           |   4    | looseknot            |
-|  5 | :2nd_place_medal: | 2022-01-08 01:50:00 | lingfield      |      5 |        5 | Azaheer            |   2.7  | evenodds,overthrow   |
-|  6 | --                | 2022-01-08 00:25:00 | wetherby       |      2 |        6 | My Last Oscar      |   6.5  | looseknot            |
-|  7 | :3rd_place_medal: | 2022-01-07 23:50:00 | wetherby       |      1 |        1 | Kayfast Warrior    |   2    | overthrow            |
-|  8 | --                | 2022-01-07 21:45:00 | cranbourne     |      8 |        4 | Midwest            |   2.25 | benny,pangea         |
-|  9 | 5.0               | 2022-01-07 20:30:00 | canterbury     |      6 |        7 | Always On Show     |   3.9  | jmac                 |
-| 10 | 7.0               | 2022-01-07 20:30:00 | canterbury     |      6 |        2 | Karlstad           |   4.75 | wallbow              |
-| 11 | 105.0             | 2022-01-07 20:15:00 | cranbourne     |      5 |        3 | Video              |   0    | evenodds,overthrow   |
-| 12 | 7.0               | 2022-01-07 20:08:00 | sunshine-coast |      4 |        1 | Devil's Temptation |   4.8  | pangea               |
-| 13 | 5.0               | 2022-01-07 20:00:00 | canterbury     |      5 |        2 | Southern Lad       |   5.5  | pangea,icyhot        |
-| 14 | :2nd_place_medal: | 2022-01-07 20:00:00 | canterbury     |      5 |        1 | Special Reward     |   4.2  | vulture,jmac         |
-| 15 | :boom:            | 2022-01-07 19:38:00 | sunshine-coast |      3 |        1 | Thelwell           |   1.22 | vulture              |
-| 16 | :2nd_place_medal: | 2022-01-07 19:30:00 | canterbury     |      4 |        5 | Lady Proisir       |   8    | milkman,bob          |
-| 17 | 4.0               | 2022-01-07 19:00:00 | canterbury     |      3 |        9 | You Like           |   6    | jmac                 |
-| 18 | :boom:            | 2022-01-07 18:30:00 | canterbury     |      2 |        1 | Sneaky Shark       |   2.45 | vulture              |
-| 19 | :2nd_place_medal: | 2022-01-07 18:30:00 | canterbury     |      2 |        3 | Solvere            |   3    | jmac                 |
-| 20 | --                | 2022-01-07 17:45:00 | orange         |      8 |        1 | Ballistic Moon     |   4.8  | looseknot            |
-| 21 | 5.0               | 2022-01-07 17:34:00 | mackay         |      7 |        3 | Eveready           |   3.5  | pangea,icyhot        |
-| 22 | 6.0               | 2022-01-07 17:34:00 | mackay         |      7 |        6 | Man O' Ross        |   6.5  | benny,pangea         |
-| 23 | :2nd_place_medal: | 2022-01-07 16:57:00 | mackay         |      6 |        9 | Tilly's Secret     |   2.62 | vulture,pangea       |
-| 24 | 103.0             | 2022-01-07 16:04:00 | hobart         |      9 |        5 | Diamond Bay        |   8.5  | vulture,pangea       |
-| 25 | --                | 2022-01-07 15:55:00 | orange         |      5 |        3 | No Debt            |   2.8  | vulture              |
-| 26 | 8.0               | 2022-01-07 15:24:00 | hobart         |      8 |        2 | The Risk Factor    |   1.91 | evenodds,blackshadow |
-| 27 | 103.0             | 2022-01-07 14:45:00 | orange         |      3 |        2 | Wolf Queen         |   1.55 | vulture              |
-| 28 | 103.0             | 2022-01-07 14:45:00 | orange         |      3 |        6 | Coopella           |   4.75 | vulture,milkman      |
-| 29 | :3rd_place_medal: | 2022-01-07 14:34:00 | mackay         |      2 |        3 | Roc De Khaper      |   3.1  | pangea               |
-| 30 | 4.0               | 2022-01-07 14:30:00 | stawell        |      3 |        7 | Bad Influence      |   1.4  | vulture              |
-| 31 | :boom:            | 2022-01-07 14:14:00 | hobart         |      6 |        2 | Alpine Wolf        |   3    | vulture              |
-| 32 | 103.0             | 2022-01-07 14:10:00 | orange         |      2 |        9 | Divine Crescent    |   5.5  | looseknot            |
-| 33 | 4.0               | 2022-01-07 13:42:00 | hobart         |      5 |        8 | Miss Charlie Brown |   4.33 | overthrow            |
-| 34 | 8.0               | 2022-01-07 13:42:00 | hobart         |      5 |        7 | Majestic Diamond   |   3.2  | overthrow,milkman    |
-| 35 | :2nd_place_medal: | 2022-01-07 13:07:00 | hobart         |      4 |        5 | Summer Fire        |   2    | evenodds,overthrow   |
-| 36 | :boom:            | 2022-01-07 11:22:00 | hobart         |      1 |        7 | Jaguar Stone       |   4.75 | overthrow            |
+|    | finish   | time                | track                      |   race |   number | name               |   odds | tipster              |
+|---:|:---------|:--------------------|:---------------------------|-------:|---------:|:-------------------|-------:|:---------------------|
+|  0 | :soon:   | 2022-01-09 03:45:00 | kempton                    |      2 |        2 | Dance At Night     |   6    | looseknot            |
+|  1 | :soon:   | 2022-01-09 03:10:00 | kempton                    |      1 |        5 | Wild Crusade       |   1.65 | vulture              |
+|  2 | :soon:   | 2022-01-09 02:58:00 | cork                       |      7 |        8 | Sarah Runsfor Jack |   7    | looseknot            |
+|  3 | :soon:   | 2022-01-09 02:55:00 | kenilworth                 |     10 |        9 | Warrior Bling      |   0    | vulture              |
+|  4 | :soon:   | 2022-01-09 02:43:00 | newcastle                  |      7 |        1 | Since Day One      |   1.6  | overthrow            |
+|  5 | :soon:   | 2022-01-09 02:20:00 | kenilworth                 |      9 |        6 | Veni Vidi Vicci    |   0    | vulture              |
+|  6 | :soon:   | 2022-01-09 02:20:00 | kenilworth                 |      9 |        2 | Double Charge      |   0    | vulture              |
+|  7 | :soon:   | 2022-01-09 01:33:00 | newcastle                  |      5 |        1 | Crystal Glory      |   2.25 | milkman              |
+|  8 | :soon:   | 2022-01-09 01:25:00 | sandown                    |      5 |        4 | Mr Glass           |  11    | evenodds,overthrow   |
+|  9 | :soon:   | 2022-01-09 01:25:00 | sandown                    |      5 |        1 | Constitution Hill  |   1.35 | overthrow            |
+| 10 | :soon:   | 2022-01-09 01:10:00 | kenilworth                 |      7 |        8 | Pomp And Power     |   0    | milkman              |
+| 11 | :soon:   | 2022-01-09 01:10:00 | kenilworth                 |      7 |        6 | Warrior            |   0    | milkman              |
+| 12 | :soon:   | 2022-01-09 01:10:00 | kenilworth                 |      7 |        2 | Jet Dark           |   0    | benny,pangea         |
+| 13 | :soon:   | 2022-01-09 01:10:00 | kenilworth                 |      7 |        3 | Kommetdieding      |   0    | milkman              |
+| 14 | :soon:   | 2022-01-09 01:10:00 | kenilworth                 |      7 |       11 | Pacaya             |   0    | milkman              |
+| 15 | :soon:   | 2022-01-09 00:58:00 | newcastle                  |      4 |        1 | Adrimel            |   2.35 | milkman              |
+| 16 | :soon:   | 2022-01-09 00:58:00 | newcastle                  |      4 |        2 | Dreams Of Home     |   3.2  | overthrow            |
+| 17 | :soon:   | 2022-01-09 00:35:00 | kenilworth                 |      6 |        2 | Captain's Ransom   |  15    | milkman              |
+| 18 | :soon:   | 2022-01-09 00:35:00 | kenilworth                 |      6 |        3 | Princess Calla     |   6.5  | vulture              |
+| 19 | :soon:   | 2022-01-09 00:35:00 | kenilworth                 |      6 |        8 | Chansonette        |   6.5  | vulture,milkman      |
+| 20 | :soon:   | 2022-01-09 00:23:00 | newcastle                  |      3 |        5 | Bavington Bob      |   2.4  | overthrow,moechilli  |
+| 21 | :soon:   | 2022-01-09 00:15:00 | sandown                    |      3 |        2 | Redzor             |   7.5  | overthrow            |
+| 22 | :soon:   | 2022-01-09 00:03:00 | cork                       |      2 |       22 | Ebasari            |   9.5  | evenodds,overthrow   |
+| 23 | :soon:   | 2022-01-09 00:00:00 | kenilworth                 |      5 |        9 | Hoedspruit         |   0    | pangea               |
+| 24 | :soon:   | 2022-01-08 23:40:00 | sandown                    |      2 |        4 | Gauloise           |   2    | evenodds,overthrow   |
+| 25 | :soon:   | 2022-01-08 23:40:00 | sandown                    |      2 |        5 | Martello Sky       |   2.7  | vulture,milkman      |
+| 26 | :soon:   | 2022-01-08 23:35:00 | lingfield                  |      3 |        8 | Party On Girl      |   9    | evenodds,overthrow   |
+| 27 | :soon:   | 2022-01-08 23:25:00 | kenilworth                 |      4 |        2 | Real Gone Kid      |   0    | milkman,icyhot       |
+| 28 | :soon:   | 2022-01-08 23:20:00 | wincanton                  |      2 |        1 | Come On Gary       |   6    | evenodds,pikey       |
+| 29 | :soon:   | 2022-01-08 23:13:00 | newcastle                  |      1 |        4 | Princess Priya     |   6    | evenodds,blackshadow |
+| 30 | :soon:   | 2022-01-08 23:05:00 | sandown                    |      1 |        1 | Romeo's Bond       |   6    | vulture              |
+| 31 | :soon:   | 2022-01-08 22:45:00 | kenilworth                 |      3 |        3 | Pomodoro's Jet     |   0    | vulture              |
+| 32 | :soon:   | 2022-01-08 21:35:00 | kenilworth                 |      1 |        1 | Belle Rouge        |   0    | vulture              |
+| 33 | :soon:   | 2022-01-08 20:25:00 | ascot                      |      9 |        3 | Kendel's Mee Dad   |  18    | pangea               |
+| 34 | :soon:   | 2022-01-08 20:25:00 | ascot                      |      9 |        2 | Material Witness   |   4.2  | vulture,pikey        |
+| 35 | :soon:   | 2022-01-08 20:25:00 | ascot                      |      9 |        5 | Cristal Dane       |   6.5  | benny,pangea         |
+| 36 | :soon:   | 2022-01-08 19:50:00 | ascot                      |      8 |        5 | The Spruiker       |   2.25 | vulture,milkman      |
+| 37 | :soon:   | 2022-01-08 19:50:00 | ascot                      |      8 |        7 | Proconsent         |   2.5  | benny,pikey          |
+| 38 | :soon:   | 2022-01-08 19:15:00 | ascot                      |      7 |        1 | Come Right Back    |   4    | pangea,pikey         |
+| 39 | :soon:   | 2022-01-08 19:00:00 | singapore                  |      9 |        2 | Lim's Force        |   0    | vulture              |
+| 40 | :soon:   | 2022-01-08 18:40:00 | ascot                      |      6 |        5 | Fairy Fast         |   2.5  | evenodds,pikey       |
+| 41 | :soon:   | 2022-01-08 18:40:00 | ascot                      |      6 |       10 | Watch Me Ney Ney   |  11    | pangea               |
+| 42 | :soon:   | 2022-01-08 18:00:00 | rosehill-gardens           |     10 |        5 | Tycoonist          |   2.6  | benny,jmac           |
+| 43 | :soon:   | 2022-01-08 17:45:00 | caulfield                  |      9 |       16 | Jezoulenko         |   4    | milkman,icyhot       |
+| 44 | :soon:   | 2022-01-08 17:32:00 | gold-coast                 |      8 |        2 | Usmanov            |   8.5  | icyhot               |
+| 45 | :soon:   | 2022-01-08 17:30:00 | singapore                  |      6 |        2 | Super Atas         |   0    | vulture              |
+| 46 | :soon:   | 2022-01-08 17:27:00 | ascot                      |      4 |        3 | Platinum Bullet    |   7.5  | pangea,pikey         |
+| 47 | :soon:   | 2022-01-08 17:27:00 | ascot                      |      4 |        5 | Island Charm       |   3.1  | pangea               |
+| 48 | :soon:   | 2022-01-08 16:47:00 | ascot                      |      3 |        1 | Hear Me Sing       |   5.5  | vulture              |
+| 49 | :soon:   | 2022-01-08 16:47:00 | ascot                      |      3 |       10 | Extra Secret       |   3.9  | benny,pikey          |
+| 50 | :soon:   | 2022-01-08 16:47:00 | ascot                      |      3 |        4 | Awesome Chatter    |   6.5  | vulture              |
+| 51 | :soon:   | 2022-01-08 16:40:00 | rosehill-gardens           |      8 |        4 | Order Again        |   5.5  | jmac                 |
+| 52 | :soon:   | 2022-01-08 16:35:00 | gawler                     |      7 |        4 | Sparkup            |   3.4  | vulture              |
+| 53 | :soon:   | 2022-01-08 16:30:00 | ipswich                    |      8 |        3 | Rhyme Nor Rhythm   |   4    | vulture              |
+| 54 | :soon:   | 2022-01-08 16:30:00 | singapore                  |      4 |        7 | Gold Cut           |   0    | vulture              |
+| 55 | :soon:   | 2022-01-08 16:07:00 | ascot                      |      2 |        4 | Winsalot           |   8.5  | cosmo,pikey          |
+| 56 | :soon:   | 2022-01-08 16:07:00 | ascot                      |      2 |        6 | Snippy Miss        |   4.8  | vulture              |
+| 57 | :soon:   | 2022-01-08 16:00:00 | rosehill-gardens           |      7 |        6 | Loveplanet         |   2.6  | jmac                 |
+| 58 | :soon:   | 2022-01-08 15:56:00 | townsville                 |      3 |        1 | Ahwahneechee       |   3.2  | pangea               |
+| 59 | :soon:   | 2022-01-08 15:56:00 | townsville                 |      3 |        5 | Sylvester          |   2.1  | evenodds,blackshadow |
+| 60 | :soon:   | 2022-01-08 15:55:00 | gawler                     |      6 |        3 | Octane             |   6.5  | pangea               |
+| 61 | :soon:   | 2022-01-08 15:45:00 | caulfield                  |      6 |        7 | Starcaster         |   4    | vulture,pangea       |
+| 62 | :soon:   | 2022-01-08 15:32:00 | gold-coast                 |      5 |        6 | Fall On A Star     |   6    | vulture              |
+| 63 | :soon:   | 2022-01-08 15:27:00 | ascot                      |      1 |        8 | Pierra Art         |   4.5  | pikey                |
+| 64 | 103.0    | 2022-01-08 15:23:00 | spendthrift-australia-park |      4 |        4 | Bill The Bee       |   5.5  | looseknot            |
+| 65 | :soon:   | 2022-01-08 15:20:00 | rosehill-gardens           |      6 |        7 | Centimental        |  11    | jmac                 |
+| 66 | :soon:   | 2022-01-08 15:00:00 | wyong                      |      3 |        5 | Italian Informant  |   6.5  | looseknot            |
+| 67 | :soon:   | 2022-01-08 15:00:00 | wyong                      |      3 |        9 | Flower Press       |   4.33 | looseknot            |
+| 68 | :soon:   | 2022-01-08 14:55:00 | awapuni                    |      8 |        7 | Dalmatia           |   5    | vulture              |
+| 69 | :soon:   | 2022-01-08 14:45:00 | rosehill-gardens           |      5 |        6 | Wairere Falls      |   7    | jmac                 |
+| 70 | :soon:   | 2022-01-08 14:45:00 | rosehill-gardens           |      5 |        2 | Darleb             |   6    | pangea               |
+| 71 | :soon:   | 2022-01-08 14:40:00 | gawler                     |      4 |        3 | Resurge            |   5    | pangea,blackshadow   |
+| 72 | :soon:   | 2022-01-08 14:40:00 | gawler                     |      4 |        4 | Ichibansan         |   2.7  | vulture              |
+| 73 | :soon:   | 2022-01-08 14:10:00 | rosehill-gardens           |      4 |        5 | Metro Legend       |   3.5  | jmac                 |
+| 74 | :soon:   | 2022-01-08 13:43:00 | gold-coast                 |      2 |        1 | Only Wanna Sing    |   7    | benny,pangea         |
+| 75 | :soon:   | 2022-01-08 13:43:00 | gold-coast                 |      2 |        2 | Sir Rocket         |   1.85 | pangea,icyhot        |
+| 76 | :soon:   | 2022-01-08 13:43:00 | gold-coast                 |      2 |        3 | Star of O'reilly   |   4.75 | pangea               |
+| 77 | :soon:   | 2022-01-08 13:35:00 | rosehill-gardens           |      3 |        3 | Saigon             |   3.6  | jmac                 |
+| 78 | :soon:   | 2022-01-08 13:08:00 | gold-coast                 |      1 |        3 | Frosty Mango       |   3.8  | pangea               |
+| 79 | :soon:   | 2022-01-08 13:00:00 | rosehill-gardens           |      2 |        7 | Fiordland          |   3.9  | jmac                 |
+| 80 | :soon:   | 2022-01-08 12:50:00 | ipswich                    |      2 |        7 | Midnight Boom      |   7    | looseknot            |
