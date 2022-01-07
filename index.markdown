@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 08:36:33 +1000  
+date: 2022-01-07 11:27:25 +1000  
 ---   
 
 
@@ -116,4 +116,4 @@ date: 2022-01-07 08:36:33 +1000
 | 33 | :soon:   | 2022-01-07 13:42:00 | hobart         |      5 |        8 | Miss Charlie Brown |   4.33 | overthrow            |
 | 34 | :soon:   | 2022-01-07 13:42:00 | hobart         |      5 |        7 | Majestic Diamond   |   3.2  | overthrow,milkman    |
 | 35 | :soon:   | 2022-01-07 13:07:00 | hobart         |      4 |        5 | Summer Fire        |   2    | evenodds,overthrow   |
-| 36 | :soon:   | 2022-01-07 11:22:00 | hobart         |      1 |        7 | Jaguar Stone       |   4.75 | overthrow            |
+| 36 | --       | 2022-01-07 11:22:00 | hobart         |      1 |        7 | Jaguar Stone       |   4.75 | overthrow            |
