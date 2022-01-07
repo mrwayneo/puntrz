@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 11:27:25 +1000  
+date: 2022-01-07 11:42:28 +1000  
 ---   
 
 
@@ -9,22 +9,22 @@ date: 2022-01-07 11:27:25 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 |    0 |    -1 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 |    0 |    -1 |
-| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      2 |      0 |      -20 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      9 |      0 |      -90 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     11 |      0 |     -110 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     12 |      0 |     -120 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     15 |      0 |     -150 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     34 |      0 |     -340 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      0 |     -350 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    | -1    |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      2 |      0 |      -20 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      9 |      1 |      -28 | 0.11 | -0.31 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     11 |      0 |     -110 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     12 |      0 |     -120 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     15 |      0 |     -150 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     34 |      0 |     -340 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      0 |     -350 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -116,4 +116,4 @@ date: 2022-01-07 11:27:25 +1000
 | 33 | :soon:   | 2022-01-07 13:42:00 | hobart         |      5 |        8 | Miss Charlie Brown |   4.33 | overthrow            |
 | 34 | :soon:   | 2022-01-07 13:42:00 | hobart         |      5 |        7 | Majestic Diamond   |   3.2  | overthrow,milkman    |
 | 35 | :soon:   | 2022-01-07 13:07:00 | hobart         |      4 |        5 | Summer Fire        |   2    | evenodds,overthrow   |
-| 36 | --       | 2022-01-07 11:22:00 | hobart         |      1 |        7 | Jaguar Stone       |   4.75 | overthrow            |
+| 36 | :boom:   | 2022-01-07 11:22:00 | hobart         |      1 |        7 | Jaguar Stone       |   4.75 | overthrow            |
