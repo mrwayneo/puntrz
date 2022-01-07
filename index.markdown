@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 14:42:25 +1000  
+date: 2022-01-07 14:57:46 +1000  
 ---   
 
 
@@ -9,8 +9,10 @@ date: 2022-01-07 14:42:25 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     11 |      1 |      219 | 0.09 |  1.99 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     34 |      1 |      -11 | 0.03 | -0.03 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
@@ -20,11 +22,9 @@ date: 2022-01-07 14:42:25 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     11 |      0 |     -110 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     15 |      1 |     -120 | 0.07 | -0.8  |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     12 |      0 |     -120 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      1 |     -333 | 0.03 | -0.95 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     34 |      0 |     -340 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -107,8 +107,8 @@ date: 2022-01-07 14:42:25 +1000
 | 24 | :soon:            | 2022-01-07 16:04:00 | hobart         |      9 |        5 | Diamond Bay        |   6.5  | vulture,pangea       |
 | 25 | :soon:            | 2022-01-07 15:55:00 | orange         |      5 |        3 | No Debt            |   2.8  | vulture              |
 | 26 | :soon:            | 2022-01-07 15:24:00 | hobart         |      8 |        2 | The Risk Factor    |   1.91 | evenodds,blackshadow |
-| 27 | :soon:            | 2022-01-07 14:45:00 | orange         |      3 |        2 | Wolf Queen         |   1.85 | vulture              |
-| 28 | :soon:            | 2022-01-07 14:45:00 | orange         |      3 |        6 | Coopella           |   6.5  | vulture,milkman      |
+| 27 | --                | 2022-01-07 14:45:00 | orange         |      3 |        2 | Wolf Queen         |   1.85 | vulture              |
+| 28 | --                | 2022-01-07 14:45:00 | orange         |      3 |        6 | Coopella           |   6.5  | vulture,milkman      |
 | 29 | :3rd_place_medal: | 2022-01-07 14:34:00 | mackay         |      2 |        3 | Roc De Khaper      |   3.1  | pangea               |
 | 30 | 4.0               | 2022-01-07 14:30:00 | stawell        |      3 |        7 | Bad Influence      |   1.4  | vulture              |
 | 31 | :boom:            | 2022-01-07 14:14:00 | hobart         |      6 |        2 | Alpine Wolf        |   3    | vulture              |
