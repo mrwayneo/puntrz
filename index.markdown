@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 19:01:55 +1000  
+date: 2022-01-07 19:17:02 +1000  
 ---   
 
 
@@ -97,12 +97,12 @@ date: 2022-01-07 19:01:55 +1000
 | 14 | :soon:            | 2022-01-07 20:00:00 | canterbury     |      5 |        1 | Special Reward     |   4.2  | vulture,jmac         |
 | 15 | :soon:            | 2022-01-07 19:38:00 | sunshine-coast |      3 |        1 | Thelwell           |   1.22 | vulture              |
 | 16 | :soon:            | 2022-01-07 19:30:00 | canterbury     |      4 |        5 | Lady Proisir       |   8    | milkman,bob          |
-| 17 | --                | 2022-01-07 19:00:00 | canterbury     |      3 |        9 | You Like           |   6    | jmac                 |
+| 17 | 4.0               | 2022-01-07 19:00:00 | canterbury     |      3 |        9 | You Like           |   6    | jmac                 |
 | 18 | :boom:            | 2022-01-07 18:30:00 | canterbury     |      2 |        1 | Sneaky Shark       |   2.45 | vulture              |
 | 19 | :2nd_place_medal: | 2022-01-07 18:30:00 | canterbury     |      2 |        3 | Solvere            |   3    | jmac                 |
 | 20 | --                | 2022-01-07 17:45:00 | orange         |      8 |        1 | Ballistic Moon     |   4.8  | looseknot            |
-| 21 | --                | 2022-01-07 17:34:00 | mackay         |      7 |        3 | Eveready           |   3.5  | pangea,icyhot        |
-| 22 | --                | 2022-01-07 17:34:00 | mackay         |      7 |        6 | Man O' Ross        |   6.5  | benny,pangea         |
+| 21 | 5.0               | 2022-01-07 17:34:00 | mackay         |      7 |        3 | Eveready           |   3.5  | pangea,icyhot        |
+| 22 | 6.0               | 2022-01-07 17:34:00 | mackay         |      7 |        6 | Man O' Ross        |   6.5  | benny,pangea         |
 | 23 | :2nd_place_medal: | 2022-01-07 16:57:00 | mackay         |      6 |        9 | Tilly's Secret     |   2.62 | vulture,pangea       |
 | 24 | 103.0             | 2022-01-07 16:04:00 | hobart         |      9 |        5 | Diamond Bay        |   8.5  | vulture,pangea       |
 | 25 | --                | 2022-01-07 15:55:00 | orange         |      5 |        3 | No Debt            |   2.8  | vulture              |
