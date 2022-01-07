@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 16:42:50 +1000  
+date: 2022-01-07 16:57:36 +1000  
 ---   
 
 
@@ -103,7 +103,7 @@ date: 2022-01-07 16:42:50 +1000
 | 20 | :soon:            | 2022-01-07 17:45:00 | orange         |      8 |        1 | Ballistic Moon     |   4.8  | looseknot            |
 | 21 | :soon:            | 2022-01-07 17:34:00 | mackay         |      7 |        3 | Eveready           |   3.8  | pangea,icyhot        |
 | 22 | :soon:            | 2022-01-07 17:34:00 | mackay         |      7 |        6 | Man O' Ross        |   8    | benny,pangea         |
-| 23 | :soon:            | 2022-01-07 16:57:00 | mackay         |      6 |        9 | Tilly's Secret     |   2.45 | vulture,pangea       |
+| 23 | --                | 2022-01-07 16:57:00 | mackay         |      6 |        9 | Tilly's Secret     |   2.45 | vulture,pangea       |
 | 24 | --                | 2022-01-07 16:04:00 | hobart         |      9 |        5 | Diamond Bay        |   6.5  | vulture,pangea       |
 | 25 | --                | 2022-01-07 15:55:00 | orange         |      5 |        3 | No Debt            |   2.8  | vulture              |
 | 26 | 8.0               | 2022-01-07 15:24:00 | hobart         |      8 |        2 | The Risk Factor    |   1.91 | evenodds,blackshadow |
