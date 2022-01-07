@@ -1,11 +1,29 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 07:11:40 +1000  
+date: 2022-01-08 07:23:30 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      5 |      0 |      -50 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |      -60 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      0 |      -70 |    0 |    -1 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      0 |      -80 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      9 |      0 |      -90 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      0 |     -130 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     13 |      0 |     -130 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      0 |     -270 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      0 |     -300 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     30 |      0 |     -300 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     54 |      0 |     -540 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      0 |     -790 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -88,8 +106,8 @@ date: 2022-01-08 07:11:40 +1000
 | 24 | 103.0             | 2022-01-07 16:04:00 | hobart         |      9 |        5 | Diamond Bay        |   8.5  | vulture,pangea       |
 | 25 | --                | 2022-01-07 15:55:00 | orange         |      5 |        3 | No Debt            |   2.8  | vulture              |
 | 26 | 8.0               | 2022-01-07 15:24:00 | hobart         |      8 |        2 | The Risk Factor    |   1.91 | evenodds,blackshadow |
-| 27 | 103.0             | 2022-01-07 14:45:00 | orange         |      3 |        2 | Wolf Queen         |   1.55 | vulture              |
-| 28 | 103.0             | 2022-01-07 14:45:00 | orange         |      3 |        6 | Coopella           |   4.75 | vulture,milkman      |
+| 27 | 103.0             | 2022-01-07 14:45:00 | orange         |      3 |        6 | Coopella           |   4.75 | vulture,milkman      |
+| 28 | 103.0             | 2022-01-07 14:45:00 | orange         |      3 |        2 | Wolf Queen         |   1.55 | vulture              |
 | 29 | :3rd_place_medal: | 2022-01-07 14:34:00 | mackay         |      2 |        3 | Roc De Khaper      |   3.1  | pangea               |
 | 30 | 4.0               | 2022-01-07 14:30:00 | stawell        |      3 |        7 | Bad Influence      |   1.4  | vulture              |
 | 31 | :boom:            | 2022-01-07 14:14:00 | hobart         |      6 |        2 | Alpine Wolf        |   3    | vulture              |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-08 07:11:39 +1000  
+date: 2022-01-08 07:23:29 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,15 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 20:25             | 2022-01-08 | ascot R9              | 2 Material Witness    |   4.2  |    -10   |
+| 19:50             | 2022-01-08 | ascot R8              | 7 Proconsent          |   2.5  |    -10   |
+| 19:15             | 2022-01-08 | ascot R7              | 1 Come Right Back     |   4    |    -10   |
+| 18:40             | 2022-01-08 | ascot R6              | 5 Fairy Fast          |   2.5  |    -10   |
+| 18:05             | 2022-01-08 | ascot R5              | 4 I'm Pretty          |   2.35 |    -10   |
+| 17:27             | 2022-01-08 | ascot R4              | 3 Platinum Bullet     |   7.5  |    -10   |
+| 16:47             | 2022-01-08 | ascot R3              | 10 Extra Secret       |   3.9  |    -10   |
+| 16:07             | 2022-01-08 | ascot R2              | 4 Winsalot            |   8.5  |    -10   |
+| 15:27             | 2022-01-08 | ascot R1              | 8 Pierra Art          |   4.5  |    -10   |
 | :boom:            | 2022-01-06 | pinjarra R7           | 5 Prized Miss         |   2.6  |     16   |
 | :2nd_place_medal: | 2022-01-06 | pinjarra R5           | 6 Northeast Eagle     |   2.7  |    -10   |
 | :boom:            | 2022-01-06 | pinjarra R4           | 5 Fine Romance        |   1.5  |      5   |

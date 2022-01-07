@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-01-08 07:11:34 +1000  
+date: 2022-01-08 07:23:23 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,11 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
+| 23:25             | 2022-01-08 | kenilworth R4           | 2 Real Gone Kid       |  0    |    -10   |
+| 17:45             | 2022-01-08 | caulfield R9            | 16 Jezoulenko         |  4    |    -10   |
+| 17:32             | 2022-01-08 | gold-coast R8           | 2 Usmanov             |  8.5  |    -10   |
+| 17:32             | 2022-01-08 | gold-coast R8           | 1 Tyzone              | 21    |    -10   |
+| 13:43             | 2022-01-08 | gold-coast R2           | 2 Sir Rocket          |  1.85 |    -10   |
 | 5                 | 2022-01-07 | canterbury R5           | 2 Southern Lad        |  5.5  |    -10   |
 | 5                 | 2022-01-07 | mackay R7               | 3 Eveready            |  3.5  |    -10   |
 | :2nd_place_medal: | 2022-01-06 | cairns R2               | 6 Arise My Son        |  3.5  |    -10   |
@@ -59,8 +64,8 @@ categories: None
 | :boom:            | 2021-12-08 | launceston R6           | 5 Azara               |  2.1  |     11   |
 | :boom:            | 2021-12-05 | kenilworth R8           | 4 Real Gone Kid       |  3.1  |     21   |
 | :2nd_place_medal: | 2021-12-04 | ascot R8                | 7 Western Empire      |  1.3  |    -10   |
-| :boom:            | 2021-12-04 | doomben R9              | 5 Zoustyle            |  1.6  |      6   |
 | 4                 | 2021-12-04 | doomben R9              | 3 Hard Empire         | 31    |    -10   |
+| :boom:            | 2021-12-04 | doomben R9              | 5 Zoustyle            |  1.6  |      6   |
 | :boom:            | 2021-12-04 | darwin R4               | 3 Bel's Banner        |  2.6  |     16   |
 | :boom:            | 2021-12-04 | gold-coast R7           | 1 Weona Smartone      |  1.2  |      2   |
 | 5                 | 2021-12-04 | doomben R7              | 3 The Harrovian       |  3.9  |    -10   |
@@ -157,8 +162,8 @@ categories: None
 | :boom:            | 2021-09-18 | gold-coast R6           | 2 Weona Smartone      |  1.8  |      8   |
 | 8                 | 2021-09-18 | dalby R5                | 4 Harbour Trick       |  7.5  |    -10   |
 | :boom:            | 2021-09-18 | caulfield R2            | 7 He's A Balter       |  6.3  |     53   |
-| 4                 | 2021-09-12 | devonport-synthetic R1  | 6 Assaranca           |  4.6  |    -10   |
 | 5                 | 2021-09-12 | devonport-synthetic R1  | 4 Vivilici            |  3    |    -10   |
+| 4                 | 2021-09-12 | devonport-synthetic R1  | 6 Assaranca           |  4.6  |    -10   |
 | 6                 | 2021-09-11 | belmont R6              | 4 General Grant       | 11    |    -10   |
 | :boom:            | 2021-09-11 | belmont R1              | 4 Red Fifty Three     |  4.1  |     31   |
 | :boom:            | 2021-09-10 | fairview R5             | 2 Cairon              |  1.75 |      7.5 |
@@ -305,8 +310,8 @@ categories: None
 | 99                | 2021-04-24 | ellerslie R8            | 5 Markus Aurelius     |  2.05 |    -10   |
 | :3rd_place_medal: | 2021-04-24 | doomben R5              | 7 Walking Flying      |  3.25 |    -10   |
 | 4                 | 2021-04-24 | doomben R2              | 1 Humbolt Current     |  3.9  |    -10   |
-| 7                 | 2021-04-21 | ipswich R8              | 3 Amicitia            |  7.5  |    -10   |
 | 9                 | 2021-04-21 | ipswich R8              | 2 Grand Zou           | 14    |    -10   |
+| 7                 | 2021-04-21 | ipswich R8              | 3 Amicitia            |  7.5  |    -10   |
 | :boom:            | 2021-04-20 | epsom-downs R3          | 3 Victory Chime       |  9    |     80   |
 | 4                 | 2021-04-20 | mackay R4               | 3 Moreno              |  3    |    -10   |
 | :2nd_place_medal: | 2021-04-20 | mackay R4               | 7 Princess Rules      |  4.6  |    -10   |
