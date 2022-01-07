@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-07 18:27:51 +1000  
+date: 2022-01-07 18:46:47 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-01-07 18:27:51 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     11 |      1 |      -80 | 0.09 | -0.73 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     11 |      2 |      -53 | 0.18 | -0.48 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      0 |     -100 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     33 |      1 |     -313 | 0.03 | -0.95 |
 
@@ -98,8 +98,8 @@ date: 2022-01-07 18:27:51 +1000
 | 15 | :soon:            | 2022-01-07 19:38:00 | sunshine-coast |      3 |        1 | Thelwell           |   1.22 | vulture              |
 | 16 | :soon:            | 2022-01-07 19:30:00 | canterbury     |      4 |        5 | Lady Proisir       |   8    | milkman,bob          |
 | 17 | :soon:            | 2022-01-07 19:00:00 | canterbury     |      3 |        9 | You Like           |   6    | jmac                 |
-| 18 | :soon:            | 2022-01-07 18:30:00 | canterbury     |      2 |        1 | Sneaky Shark       |   2.45 | vulture              |
-| 19 | :soon:            | 2022-01-07 18:30:00 | canterbury     |      2 |        3 | Solvere            |   3    | jmac                 |
+| 18 | :boom:            | 2022-01-07 18:30:00 | canterbury     |      2 |        1 | Sneaky Shark       |   2.45 | vulture              |
+| 19 | :2nd_place_medal: | 2022-01-07 18:30:00 | canterbury     |      2 |        3 | Solvere            |   3    | jmac                 |
 | 20 | --                | 2022-01-07 17:45:00 | orange         |      8 |        1 | Ballistic Moon     |   4.8  | looseknot            |
 | 21 | --                | 2022-01-07 17:34:00 | mackay         |      7 |        3 | Eveready           |   3.5  | pangea,icyhot        |
 | 22 | --                | 2022-01-07 17:34:00 | mackay         |      7 |        6 | Man O' Ross        |   6.5  | benny,pangea         |
