@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 17:08:41 +1000  
+date: 2022-01-08 17:26:19 +1000  
 ---   
 
 
@@ -20,9 +20,9 @@ date: 2022-01-08 17:08:41 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      2 |     -100 | 0.15 | -0.77 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      3 |     -116 | 0.1  | -0.39 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     13 |      0 |     -130 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     54 |      6 |     -153 | 0.11 | -0.28 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      1 |     -256 | 0.04 | -0.95 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     30 |      0 |     -300 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     54 |      5 |     -363 | 0.09 | -0.67 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      1 |     -585 | 0.01 | -0.74 |
 
 ##### Form Last 20 tips   
@@ -128,7 +128,7 @@ date: 2022-01-08 17:08:41 +1000
 | 46 | :soon:            | 2022-01-08 17:27:00 | ascot                      |      4 |        3 | Platinum Bullet    |   7.5  | pangea,pikey         |
 | 47 | :soon:            | 2022-01-08 17:27:00 | ascot                      |      4 |        5 | Island Charm       |   3.1  | pangea               |
 | 48 | :boom:            | 2022-01-08 16:47:00 | ascot                      |      3 |        1 | Hear Me Sing       |   5.5  | vulture              |
-| 49 | --                | 2022-01-08 16:47:00 | ascot                      |      3 |       10 | Extra Secret       |   3.9  | benny,pikey          |
+| 49 | 6.0               | 2022-01-08 16:47:00 | ascot                      |      3 |       10 | Extra Secret       |   3.9  | benny,pikey          |
 | 50 | :2nd_place_medal: | 2022-01-08 16:47:00 | ascot                      |      3 |        4 | Awesome Chatter    |   6.5  | vulture              |
 | 51 | 6.0               | 2022-01-08 16:40:00 | rosehill-gardens           |      8 |        4 | Order Again        |   5.5  | jmac                 |
 | 52 | 5.0               | 2022-01-08 16:35:00 | gawler                     |      7 |        4 | Sparkup            |   3.4  | vulture              |
