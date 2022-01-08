@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 15:07:44 +1000  
+date: 2022-01-08 15:22:41 +1000  
 ---   
 
 
@@ -17,12 +17,12 @@ date: 2022-01-08 15:07:44 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |      -60 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      0 |      -80 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      1 |     -116 | 0.08 | -0.89 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      2 |     -100 | 0.15 | -0.77 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     13 |      0 |     -130 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      1 |     -256 | 0.04 | -0.95 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      0 |     -300 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     30 |      0 |     -300 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     54 |      1 |     -518 | 0.02 | -0.96 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     54 |      2 |     -502 | 0.04 | -0.93 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      1 |     -585 | 0.01 | -0.74 |
 
 ##### Form Last 20 tips   
@@ -144,9 +144,9 @@ date: 2022-01-08 15:07:44 +1000
 | 62 | :soon:            | 2022-01-08 15:32:00 | gold-coast                 |      5 |        6 | Fall On A Star     |   6    | vulture              |
 | 63 | :soon:            | 2022-01-08 15:27:00 | ascot                      |      1 |        8 | Pierra Art         |   4.5  | pikey                |
 | 64 | 103.0             | 2022-01-08 15:23:00 | spendthrift-australia-park |      4 |        4 | Bill The Bee       |   5.5  | looseknot            |
-| 65 | :soon:            | 2022-01-08 15:20:00 | rosehill-gardens           |      6 |        7 | Centimental        |  11    | jmac                 |
+| 65 | --                | 2022-01-08 15:20:00 | rosehill-gardens           |      6 |        7 | Centimental        |  11    | jmac                 |
 | 66 | :boom:            | 2022-01-08 15:00:00 | wyong                      |      3 |        5 | Italian Informant  |   6.5  | looseknot            |
-| 67 | --                | 2022-01-08 15:00:00 | wyong                      |      3 |        9 | Flower Press       |   4.33 | looseknot            |
+| 67 | 7.0               | 2022-01-08 15:00:00 | wyong                      |      3 |        9 | Flower Press       |   4.33 | looseknot            |
 | 68 | :2nd_place_medal: | 2022-01-08 14:55:00 | awapuni                    |      8 |        7 | Dalmatia           |   5    | vulture              |
 | 69 | 4.0               | 2022-01-08 14:45:00 | rosehill-gardens           |      5 |        6 | Wairere Falls      |   7    | jmac                 |
 | 70 | 7.0               | 2022-01-08 14:45:00 | rosehill-gardens           |      5 |        2 | Darleb             |   6    | pangea               |
