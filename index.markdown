@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-09 10:41:53 +1000  
+date: 2022-01-09 10:57:29 +1000  
 ---   
 
 
@@ -104,4 +104,4 @@ date: 2022-01-09 10:41:53 +1000
 | 24 | :soon:   | 2022-01-09 15:15:00 | port-lincoln   |      5 |        8 | Hand to Hand      |  29    | cosmo,bob       |
 | 25 | :soon:   | 2022-01-09 15:05:00 | warrnambool    |      4 |       14 | Firmity           |   6    | vulture         |
 | 26 | :soon:   | 2022-01-09 14:00:00 | sunshine-coast |      1 |        2 | Melisma           |   2.7  | overthrow       |
-| 27 | :soon:   | 2022-01-09 10:54:00 | ellerslie      |      2 |        4 | Time Flies        |   1.32 | vulture         |
+| 27 | --       | 2022-01-09 10:54:00 | ellerslie      |      2 |        4 | Time Flies        |   1.32 | vulture         |
