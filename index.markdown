@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 13:37:34 +1000  
+date: 2022-01-08 13:52:40 +1000  
 ---   
 
 
@@ -153,10 +153,10 @@ date: 2022-01-08 13:37:34 +1000
 | 71 | :soon:            | 2022-01-08 14:40:00 | gawler                     |      4 |        3 | Resurge            |   5    | pangea,blackshadow   |
 | 72 | :soon:            | 2022-01-08 14:40:00 | gawler                     |      4 |        4 | Ichibansan         |   2.7  | vulture              |
 | 73 | :soon:            | 2022-01-08 14:10:00 | rosehill-gardens           |      4 |        5 | Metro Legend       |   3.5  | jmac                 |
-| 74 | :soon:            | 2022-01-08 13:43:00 | gold-coast                 |      2 |        1 | Only Wanna Sing    |   7    | benny,pangea         |
-| 75 | :soon:            | 2022-01-08 13:43:00 | gold-coast                 |      2 |        2 | Sir Rocket         |   1.85 | pangea,icyhot        |
-| 76 | :soon:            | 2022-01-08 13:43:00 | gold-coast                 |      2 |        3 | Star of O'reilly   |   4.75 | pangea               |
-| 77 | --                | 2022-01-08 13:35:00 | rosehill-gardens           |      3 |        3 | Saigon             |   3.6  | jmac                 |
+| 74 | --                | 2022-01-08 13:43:00 | gold-coast                 |      2 |        1 | Only Wanna Sing    |   7    | benny,pangea         |
+| 75 | --                | 2022-01-08 13:43:00 | gold-coast                 |      2 |        2 | Sir Rocket         |   1.85 | pangea,icyhot        |
+| 76 | --                | 2022-01-08 13:43:00 | gold-coast                 |      2 |        3 | Star of O'reilly   |   4.75 | pangea               |
+| 77 | :3rd_place_medal: | 2022-01-08 13:35:00 | rosehill-gardens           |      3 |        3 | Saigon             |   3.6  | jmac                 |
 | 78 | :2nd_place_medal: | 2022-01-08 13:08:00 | gold-coast                 |      1 |        3 | Frosty Mango       |   3.8  | pangea               |
 | 79 | :3rd_place_medal: | 2022-01-08 13:00:00 | rosehill-gardens           |      2 |        7 | Fiordland          |   3.9  | jmac                 |
 | 80 | 8.0               | 2022-01-08 12:50:00 | ipswich                    |      2 |        7 | Midnight Boom      |   7    | looseknot            |
