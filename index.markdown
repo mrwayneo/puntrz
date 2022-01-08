@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 22:41:47 +1000  
+date: 2022-01-08 22:56:32 +1000  
 ---   
 
 
@@ -15,9 +15,9 @@ date: 2022-01-08 22:41:47 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      2 |    -25   | 0.29 | -0.36 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      5 |      1 |    -36   | 0.2  | -0.72 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |    -40   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      6 |    -44.5 | 0.2  | -0.15 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      3 |    -47   | 0.23 | -0.36 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |    -60   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      5 |    -77.5 | 0.17 | -0.26 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      0 |    -80   | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     13 |      0 |   -130   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     54 |      6 |   -155.5 | 0.11 | -0.29 |
@@ -110,7 +110,7 @@ date: 2022-01-08 22:41:47 +1000
 | 28 | :soon:            | 2022-01-08 23:20:00 | wincanton                  |      2 |        1 | Come On Gary       |   6    | evenodds,pikey       |
 | 29 | :soon:            | 2022-01-08 23:13:00 | newcastle                  |      1 |        4 | Princess Priya     |   6    | evenodds,blackshadow |
 | 30 | :soon:            | 2022-01-08 23:05:00 | sandown                    |      1 |        1 | Romeo's Bond       |   6    | vulture              |
-| 31 | :soon:            | 2022-01-08 22:45:00 | kenilworth                 |      3 |        3 | Pomodoro's Jet     |   0    | vulture              |
+| 31 | :boom:            | 2022-01-08 22:45:00 | kenilworth                 |      3 |        3 | Pomodoro's Jet     |   0    | vulture              |
 | 32 | :boom:            | 2022-01-08 21:35:00 | kenilworth                 |      1 |        1 | Belle Rouge        |   0    | vulture              |
 | 33 | 4.0               | 2022-01-08 20:25:00 | ascot                      |      9 |        3 | Kendel's Mee Dad   |  18    | pangea               |
 | 34 | 10.0              | 2022-01-08 20:25:00 | ascot                      |      9 |        2 | Material Witness   |   4.2  | vulture,pikey        |
