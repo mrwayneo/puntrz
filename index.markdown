@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 17:41:30 +1000  
+date: 2022-01-08 17:56:45 +1000  
 ---   
 
 
@@ -122,7 +122,7 @@ date: 2022-01-08 17:41:30 +1000
 | 40 | :soon:            | 2022-01-08 18:40:00 | ascot                      |      6 |        5 | Fairy Fast         |   2.5  | evenodds,pikey       |
 | 41 | :soon:            | 2022-01-08 18:40:00 | ascot                      |      6 |       10 | Watch Me Ney Ney   |  11    | pangea               |
 | 42 | :soon:            | 2022-01-08 18:00:00 | rosehill-gardens           |     10 |        5 | Tycoonist          |   2.6  | benny,jmac           |
-| 43 | :soon:            | 2022-01-08 17:45:00 | caulfield                  |      9 |       16 | Jezoulenko         |   4    | milkman,icyhot       |
+| 43 | --                | 2022-01-08 17:45:00 | caulfield                  |      9 |       16 | Jezoulenko         |   4    | milkman,icyhot       |
 | 44 | --                | 2022-01-08 17:32:00 | gold-coast                 |      8 |        2 | Usmanov            |   8.5  | icyhot               |
 | 45 | :boom:            | 2022-01-08 17:30:00 | singapore                  |      6 |        2 | Super Atas         |   0    | vulture              |
 | 46 | :boom:            | 2022-01-08 17:27:00 | ascot                      |      4 |        3 | Platinum Bullet    |   7.5  | pangea,pikey         |
