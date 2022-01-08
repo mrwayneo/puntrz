@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-01-08 16:52:52 +1000  
+date: 2022-01-08 17:08:40 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 18:00             | 2022-01-08 | rosehill-gardens R10 | 5 Tycoonist          |  2.6  |    -10   |
-| 0                 | 2022-01-08 | rosehill-gardens R8  | 4 Order Again        |  0    |    -10   |
+| 6                 | 2022-01-08 | rosehill-gardens R8  | 4 Order Again        |  5.5  |    -10   |
 | 4                 | 2022-01-08 | rosehill-gardens R7  | 6 Loveplanet         |  2.6  |    -10   |
 | 0                 | 2022-01-08 | rosehill-gardens R6  | 7 Centimental        |  0    |    -10   |
 | 4                 | 2022-01-08 | rosehill-gardens R5  | 6 Wairere Falls      |  7    |    -10   |

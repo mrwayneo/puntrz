@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 16:52:53 +1000  
+date: 2022-01-08 17:08:41 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-01-08 16:52:53 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     13 |      0 |     -130 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      1 |     -256 | 0.04 | -0.95 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     30 |      0 |     -300 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     54 |      5 |     -347 | 0.09 | -0.64 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     54 |      5 |     -363 | 0.09 | -0.67 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      1 |     -585 | 0.01 | -0.74 |
 
 ##### Form Last 20 tips   
@@ -130,7 +130,7 @@ date: 2022-01-08 16:52:53 +1000
 | 48 | :boom:            | 2022-01-08 16:47:00 | ascot                      |      3 |        1 | Hear Me Sing       |   5.5  | vulture              |
 | 49 | --                | 2022-01-08 16:47:00 | ascot                      |      3 |       10 | Extra Secret       |   3.9  | benny,pikey          |
 | 50 | :2nd_place_medal: | 2022-01-08 16:47:00 | ascot                      |      3 |        4 | Awesome Chatter    |   6.5  | vulture              |
-| 51 | --                | 2022-01-08 16:40:00 | rosehill-gardens           |      8 |        4 | Order Again        |   5.5  | jmac                 |
+| 51 | 6.0               | 2022-01-08 16:40:00 | rosehill-gardens           |      8 |        4 | Order Again        |   5.5  | jmac                 |
 | 52 | 5.0               | 2022-01-08 16:35:00 | gawler                     |      7 |        4 | Sparkup            |   3.4  | vulture              |
 | 53 | :boom:            | 2022-01-08 16:30:00 | ipswich                    |      8 |        3 | Rhyme Nor Rhythm   |   4    | vulture              |
 | 54 | :2nd_place_medal: | 2022-01-08 16:30:00 | singapore                  |      4 |        7 | Gold Cut           |   0    | vulture              |
