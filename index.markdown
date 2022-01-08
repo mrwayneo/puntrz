@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-09 07:31:15 +1000  
+date: 2022-01-09 07:42:11 +1000  
 ---   
 
 
@@ -29,8 +29,8 @@ date: 2022-01-09 07:31:15 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      3 |    371   | 0.15 |  1.86 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    315   | 0.15 |  1.58 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      6 |    248   | 0.3  |  1.24 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |    195   | 0.1  |  0.98 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |     46.5 | 0.4  |  0.23 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     44   | 0.2  |  0.22 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     41   | 0.1  |  0.2  |
@@ -82,8 +82,8 @@ date: 2022-01-09 07:31:15 +1000
 |  2 | 4.0               | 2022-01-09 02:58:00 | cork                       |      7 |        8 | Sarah Runsfor Jack |   7    | looseknot            |
 |  3 | --                | 2022-01-09 02:55:00 | kenilworth                 |     10 |        9 | Warrior Bling      |   0    | vulture              |
 |  4 | :boom:            | 2022-01-09 02:43:00 | newcastle                  |      7 |        1 | Since Day One      |   1.6  | overthrow            |
-|  5 | --                | 2022-01-09 02:20:00 | kenilworth                 |      9 |        2 | Double Charge      |   0    | vulture              |
-|  6 | :2nd_place_medal: | 2022-01-09 02:20:00 | kenilworth                 |      9 |        6 | Veni Vidi Vicci    |   0    | vulture              |
+|  5 | :2nd_place_medal: | 2022-01-09 02:20:00 | kenilworth                 |      9 |        6 | Veni Vidi Vicci    |   0    | vulture              |
+|  6 | --                | 2022-01-09 02:20:00 | kenilworth                 |      9 |        2 | Double Charge      |   0    | vulture              |
 |  7 | :2nd_place_medal: | 2022-01-09 01:33:00 | newcastle                  |      5 |        1 | Crystal Glory      |   2.25 | milkman              |
 |  8 | :soon:            | 2022-01-09 01:25:00 | sandown                    |      5 |        4 | Mr Glass           |  11    | evenodds,overthrow   |
 |  9 | :boom:            | 2022-01-09 01:25:00 | sandown                    |      5 |        1 | Constitution Hill  |   1.35 | overthrow            |
