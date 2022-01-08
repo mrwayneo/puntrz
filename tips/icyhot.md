@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-01-08 17:26:13 +1000  
+date: 2022-01-08 17:41:25 +1000  
 categories: None 
 ---   
 
@@ -17,8 +17,8 @@ categories: None
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
 | 23:25             | 2022-01-08 | kenilworth R4           | 2 Real Gone Kid       |  0    |    -10   |
 | 17:45             | 2022-01-08 | caulfield R9            | 16 Jezoulenko         |  4    |    -10   |
-| 17:32             | 2022-01-08 | gold-coast R8           | 2 Usmanov             |  8.5  |    -10   |
-| 17:32             | 2022-01-08 | gold-coast R8           | 1 Tyzone              | 21    |    -10   |
+| 0                 | 2022-01-08 | gold-coast R8           | 2 Usmanov             |  0    |    -10   |
+| 0                 | 2022-01-08 | gold-coast R8           | 1 Tyzone              |  0    |    -10   |
 | :boom:            | 2022-01-08 | gold-coast R2           | 2 Sir Rocket          |  1.4  |      4   |
 | 5                 | 2022-01-07 | canterbury R5           | 2 Southern Lad        |  5.5  |    -10   |
 | 5                 | 2022-01-07 | mackay R7               | 3 Eveready            |  3.5  |    -10   |
@@ -162,8 +162,8 @@ categories: None
 | :boom:            | 2021-09-18 | gold-coast R6           | 2 Weona Smartone      |  1.8  |      8   |
 | 8                 | 2021-09-18 | dalby R5                | 4 Harbour Trick       |  7.5  |    -10   |
 | :boom:            | 2021-09-18 | caulfield R2            | 7 He's A Balter       |  6.3  |     53   |
-| 5                 | 2021-09-12 | devonport-synthetic R1  | 4 Vivilici            |  3    |    -10   |
 | 4                 | 2021-09-12 | devonport-synthetic R1  | 6 Assaranca           |  4.6  |    -10   |
+| 5                 | 2021-09-12 | devonport-synthetic R1  | 4 Vivilici            |  3    |    -10   |
 | 6                 | 2021-09-11 | belmont R6              | 4 General Grant       | 11    |    -10   |
 | :boom:            | 2021-09-11 | belmont R1              | 4 Red Fifty Three     |  4.1  |     31   |
 | :boom:            | 2021-09-10 | fairview R5             | 2 Cairon              |  1.75 |      7.5 |
@@ -310,8 +310,8 @@ categories: None
 | 99                | 2021-04-24 | ellerslie R8            | 5 Markus Aurelius     |  2.05 |    -10   |
 | :3rd_place_medal: | 2021-04-24 | doomben R5              | 7 Walking Flying      |  3.25 |    -10   |
 | 4                 | 2021-04-24 | doomben R2              | 1 Humbolt Current     |  3.9  |    -10   |
-| 9                 | 2021-04-21 | ipswich R8              | 2 Grand Zou           | 14    |    -10   |
 | 7                 | 2021-04-21 | ipswich R8              | 3 Amicitia            |  7.5  |    -10   |
+| 9                 | 2021-04-21 | ipswich R8              | 2 Grand Zou           | 14    |    -10   |
 | :boom:            | 2021-04-20 | epsom-downs R3          | 3 Victory Chime       |  9    |     80   |
 | 4                 | 2021-04-20 | mackay R4               | 3 Moreno              |  3    |    -10   |
 | :2nd_place_medal: | 2021-04-20 | mackay R4               | 7 Princess Rules      |  4.6  |    -10   |

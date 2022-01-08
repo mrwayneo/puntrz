@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 17:26:19 +1000  
+date: 2022-01-08 17:41:30 +1000  
 ---   
 
 
@@ -12,16 +12,16 @@ date: 2022-01-08 17:26:19 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      9 |      1 |      -22 | 0.11 | -0.24 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      5 |      1 |      -36 | 0.2  | -0.72 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      1 |      -37 | 0.11 | -0.41 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      3 |      -47 | 0.23 | -0.36 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      1 |      -56 | 0.14 | -0.8  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |      -60 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      0 |      -80 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      2 |     -100 | 0.15 | -0.77 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      3 |     -116 | 0.1  | -0.39 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      4 |      -97 | 0.13 | -0.32 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     13 |      0 |     -130 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     54 |      6 |     -153 | 0.11 | -0.28 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      1 |     -256 | 0.04 | -0.95 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      2 |     -203 | 0.07 | -0.75 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     30 |      0 |     -300 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      1 |     -585 | 0.01 | -0.74 |
 
@@ -123,10 +123,10 @@ date: 2022-01-08 17:26:19 +1000
 | 41 | :soon:            | 2022-01-08 18:40:00 | ascot                      |      6 |       10 | Watch Me Ney Ney   |  11    | pangea               |
 | 42 | :soon:            | 2022-01-08 18:00:00 | rosehill-gardens           |     10 |        5 | Tycoonist          |   2.6  | benny,jmac           |
 | 43 | :soon:            | 2022-01-08 17:45:00 | caulfield                  |      9 |       16 | Jezoulenko         |   4    | milkman,icyhot       |
-| 44 | :soon:            | 2022-01-08 17:32:00 | gold-coast                 |      8 |        2 | Usmanov            |   8.5  | icyhot               |
-| 45 | :soon:            | 2022-01-08 17:30:00 | singapore                  |      6 |        2 | Super Atas         |   0    | vulture              |
-| 46 | :soon:            | 2022-01-08 17:27:00 | ascot                      |      4 |        3 | Platinum Bullet    |   7.5  | pangea,pikey         |
-| 47 | :soon:            | 2022-01-08 17:27:00 | ascot                      |      4 |        5 | Island Charm       |   3.1  | pangea               |
+| 44 | --                | 2022-01-08 17:32:00 | gold-coast                 |      8 |        2 | Usmanov            |   8.5  | icyhot               |
+| 45 | :boom:            | 2022-01-08 17:30:00 | singapore                  |      6 |        2 | Super Atas         |   0    | vulture              |
+| 46 | :boom:            | 2022-01-08 17:27:00 | ascot                      |      4 |        3 | Platinum Bullet    |   7.5  | pangea,pikey         |
+| 47 | --                | 2022-01-08 17:27:00 | ascot                      |      4 |        5 | Island Charm       |   3.1  | pangea               |
 | 48 | :boom:            | 2022-01-08 16:47:00 | ascot                      |      3 |        1 | Hear Me Sing       |   5.5  | vulture              |
 | 49 | 6.0               | 2022-01-08 16:47:00 | ascot                      |      3 |       10 | Extra Secret       |   3.9  | benny,pikey          |
 | 50 | :2nd_place_medal: | 2022-01-08 16:47:00 | ascot                      |      3 |        4 | Awesome Chatter    |   6.5  | vulture              |
