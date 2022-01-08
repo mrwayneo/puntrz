@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 20:26:37 +1000  
+date: 2022-01-08 20:41:37 +1000  
 ---   
 
 
@@ -112,9 +112,9 @@ date: 2022-01-08 20:26:37 +1000
 | 30 | :soon:            | 2022-01-08 23:05:00 | sandown                    |      1 |        1 | Romeo's Bond       |   6    | vulture              |
 | 31 | :soon:            | 2022-01-08 22:45:00 | kenilworth                 |      3 |        3 | Pomodoro's Jet     |   0    | vulture              |
 | 32 | :soon:            | 2022-01-08 21:35:00 | kenilworth                 |      1 |        1 | Belle Rouge        |   0    | vulture              |
-| 33 | --                | 2022-01-08 20:25:00 | ascot                      |      9 |        3 | Kendel's Mee Dad   |  18    | pangea               |
-| 34 | --                | 2022-01-08 20:25:00 | ascot                      |      9 |        2 | Material Witness   |   4.2  | vulture,pikey        |
-| 35 | --                | 2022-01-08 20:25:00 | ascot                      |      9 |        5 | Cristal Dane       |   6.5  | benny,pangea         |
+| 33 | 4.0               | 2022-01-08 20:25:00 | ascot                      |      9 |        3 | Kendel's Mee Dad   |  18    | pangea               |
+| 34 | 10.0              | 2022-01-08 20:25:00 | ascot                      |      9 |        2 | Material Witness   |   4.2  | vulture,pikey        |
+| 35 | :2nd_place_medal: | 2022-01-08 20:25:00 | ascot                      |      9 |        5 | Cristal Dane       |   6.5  | benny,pangea         |
 | 36 | :2nd_place_medal: | 2022-01-08 19:50:00 | ascot                      |      8 |        5 | The Spruiker       |   2.25 | vulture,milkman      |
 | 37 | :3rd_place_medal: | 2022-01-08 19:50:00 | ascot                      |      8 |        7 | Proconsent         |   2.5  | benny,pikey          |
 | 38 | :boom:            | 2022-01-08 19:15:00 | ascot                      |      7 |        1 | Come Right Back    |   4    | pangea,pikey         |
