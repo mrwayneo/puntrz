@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 15:22:41 +1000  
+date: 2022-01-08 15:37:53 +1000  
 ---   
 
 
@@ -141,8 +141,8 @@ date: 2022-01-08 15:22:41 +1000
 | 59 | :soon:            | 2022-01-08 15:56:00 | townsville                 |      3 |        5 | Sylvester          |   2.1  | evenodds,blackshadow |
 | 60 | :soon:            | 2022-01-08 15:55:00 | gawler                     |      6 |        3 | Octane             |   6.5  | pangea               |
 | 61 | :soon:            | 2022-01-08 15:45:00 | caulfield                  |      6 |        7 | Starcaster         |   4    | vulture,pangea       |
-| 62 | :soon:            | 2022-01-08 15:32:00 | gold-coast                 |      5 |        6 | Fall On A Star     |   6    | vulture              |
-| 63 | :soon:            | 2022-01-08 15:27:00 | ascot                      |      1 |        8 | Pierra Art         |   4.5  | pikey                |
+| 62 | --                | 2022-01-08 15:32:00 | gold-coast                 |      5 |        6 | Fall On A Star     |   6    | vulture              |
+| 63 | --                | 2022-01-08 15:27:00 | ascot                      |      1 |        8 | Pierra Art         |   4.5  | pikey                |
 | 64 | 103.0             | 2022-01-08 15:23:00 | spendthrift-australia-park |      4 |        4 | Bill The Bee       |   5.5  | looseknot            |
 | 65 | --                | 2022-01-08 15:20:00 | rosehill-gardens           |      6 |        7 | Centimental        |  11    | jmac                 |
 | 66 | :boom:            | 2022-01-08 15:00:00 | wyong                      |      3 |        5 | Italian Informant  |   6.5  | looseknot            |
