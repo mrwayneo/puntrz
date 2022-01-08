@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-08 17:56:43 +1000  
+date: 2022-01-08 18:11:22 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 19:50             | 2022-01-08 | ascot R8              | 7 Proconsent          |   2.5  |    -10   |
 | 19:15             | 2022-01-08 | ascot R7              | 1 Come Right Back     |   4    |    -10   |
 | 18:40             | 2022-01-08 | ascot R6              | 5 Fairy Fast          |   2.5  |    -10   |
-| 18:05             | 2022-01-08 | ascot R5              | 4 I'm Pretty          |   2.35 |    -10   |
+| 0                 | 2022-01-08 | ascot R5              | 4 I'm Pretty          |   0    |    -10   |
 | :boom:            | 2022-01-08 | ascot R4              | 3 Platinum Bullet     |   5.3  |     43   |
 | 6                 | 2022-01-08 | ascot R3              | 10 Extra Secret       |   3.9  |    -10   |
 | 5                 | 2022-01-08 | ascot R2              | 4 Winsalot            |   8.5  |    -10   |
