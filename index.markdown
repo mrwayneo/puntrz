@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 19:41:34 +1000  
+date: 2022-01-08 19:56:35 +1000  
 ---   
 
 
@@ -115,8 +115,8 @@ date: 2022-01-08 19:41:34 +1000
 | 33 | :soon:            | 2022-01-08 20:25:00 | ascot                      |      9 |        3 | Kendel's Mee Dad   |  18    | pangea               |
 | 34 | :soon:            | 2022-01-08 20:25:00 | ascot                      |      9 |        2 | Material Witness   |   4.2  | vulture,pikey        |
 | 35 | :soon:            | 2022-01-08 20:25:00 | ascot                      |      9 |        5 | Cristal Dane       |   6.5  | benny,pangea         |
-| 36 | :soon:            | 2022-01-08 19:50:00 | ascot                      |      8 |        5 | The Spruiker       |   2.25 | vulture,milkman      |
-| 37 | :soon:            | 2022-01-08 19:50:00 | ascot                      |      8 |        7 | Proconsent         |   2.5  | benny,pikey          |
+| 36 | --                | 2022-01-08 19:50:00 | ascot                      |      8 |        5 | The Spruiker       |   2.25 | vulture,milkman      |
+| 37 | --                | 2022-01-08 19:50:00 | ascot                      |      8 |        7 | Proconsent         |   2.5  | benny,pikey          |
 | 38 | :boom:            | 2022-01-08 19:15:00 | ascot                      |      7 |        1 | Come Right Back    |   4    | pangea,pikey         |
 | 39 | --                | 2022-01-08 19:00:00 | singapore                  |      9 |        2 | Lim's Force        |   0    | vulture              |
 | 40 | :soon:            | 2022-01-08 18:40:00 | ascot                      |      6 |        5 | Fairy Fast         |   2.5  | evenodds,pikey       |
