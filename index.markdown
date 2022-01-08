@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 13:07:29 +1000  
+date: 2022-01-08 13:22:50 +1000  
 ---   
 
 
@@ -157,6 +157,6 @@ date: 2022-01-08 13:07:29 +1000
 | 75 | :soon:            | 2022-01-08 13:43:00 | gold-coast                 |      2 |        2 | Sir Rocket         |   1.85 | pangea,icyhot        |
 | 76 | :soon:            | 2022-01-08 13:43:00 | gold-coast                 |      2 |        3 | Star of O'reilly   |   4.75 | pangea               |
 | 77 | :soon:            | 2022-01-08 13:35:00 | rosehill-gardens           |      3 |        3 | Saigon             |   3.6  | jmac                 |
-| 78 | :soon:            | 2022-01-08 13:08:00 | gold-coast                 |      1 |        3 | Frosty Mango       |   3.8  | pangea               |
+| 78 | :2nd_place_medal: | 2022-01-08 13:08:00 | gold-coast                 |      1 |        3 | Frosty Mango       |   3.8  | pangea               |
 | 79 | :3rd_place_medal: | 2022-01-08 13:00:00 | rosehill-gardens           |      2 |        7 | Fiordland          |   3.9  | jmac                 |
-| 80 | --                | 2022-01-08 12:50:00 | ipswich                    |      2 |        7 | Midnight Boom      |   7    | looseknot            |
+| 80 | 8.0               | 2022-01-08 12:50:00 | ipswich                    |      2 |        7 | Midnight Boom      |   7    | looseknot            |
