@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-01-08 22:56:27 +1000  
+date: 2022-01-09 06:12:07 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      6 |      0 |    -60   | 0    | -1    |
-| Last 6 Months  |     44 |     10 |    131.5 | 0.23 |  0.3  |
-| Since Jan 2020 |    108 |     32 |    768.9 | 0.3  |  0.71 |
+| Last 7 Days    |      1 |      1 |     17   | 1    |  1.7  |
+| Last 28 Days   |      4 |      1 |    -13   | 0.25 | -0.32 |
+| Last 6 Months  |     45 |     11 |    148.5 | 0.24 |  0.33 |
+| Since Jan 2020 |    109 |     33 |    785.9 | 0.3  |  0.72 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 00:23             | 2022-01-09 | newcastle R3           | 5 Bavington Bob      |   2.4  |    -10   |
+| :boom:            | 2022-01-09 | newcastle R3           | 5 Bavington Bob      |   2.7  |     17   |
 | 5                 | 2022-01-02 | cranbourne R8          | 1 Lord Sundowner     |   7.5  |    -10   |
 | 6                 | 2022-01-01 | mornington R1          | 6 Top Arctic         |  23    |    -10   |
 | :2nd_place_medal: | 2021-12-18 | eagle-farm R7          | 2 Far Too Easy       |   3    |    -10   |
