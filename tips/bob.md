@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-09 07:57:06 +1000  
+date: 2022-01-09 08:25:05 +1000  
 categories: None 
 ---   
 
@@ -207,8 +207,8 @@ categories: None
 | 99                | 2021-03-20 | cheltenham R7                 | 24 Martinhal          |  26    |    -10   |
 | 9                 | 2021-03-19 | moonee-valley R7              | 3 Elite Street        |  34    |    -10   |
 | 7                 | 2021-03-19 | moonee-valley R4              | 3 Drone Strike        |  34    |    -10   |
-| 99                | 2021-03-18 | cheltenham R7                 | 2 Cool Jet            |  61    |    -10   |
 | 99                | 2021-03-18 | cheltenham R7                 | 7 Ramillies           |  18    |    -10   |
+| 99                | 2021-03-18 | cheltenham R7                 | 2 Cool Jet            |  61    |    -10   |
 | 99                | 2021-03-16 | stratford R7                  | 1 American Legacy     |  23    |    -10   |
 | 99                | 2021-03-14 | navan R6                      | 5 Forza Milan         |  10    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | hereford R2                   | 10 Oscar Asche        |  23    |    -10   |
