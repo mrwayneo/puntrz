@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 13:52:40 +1000  
+date: 2022-01-08 14:07:45 +1000  
 ---   
 
 
@@ -10,16 +10,16 @@ date: 2022-01-08 13:52:40 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      5 |      1 |      -36 | 0.2  | -0.72 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      5 |      0 |      -50 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      1 |      -56 | 0.14 | -0.8  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |      -60 | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      0 |      -70 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      0 |      -80 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      9 |      0 |      -90 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      0 |     -130 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      1 |     -116 | 0.08 | -0.89 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     13 |      0 |     -130 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      0 |     -270 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      1 |     -256 | 0.04 | -0.95 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      0 |     -300 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     30 |      0 |     -300 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     54 |      1 |     -518 | 0.02 | -0.96 |
@@ -154,8 +154,8 @@ date: 2022-01-08 13:52:40 +1000
 | 72 | :soon:            | 2022-01-08 14:40:00 | gawler                     |      4 |        4 | Ichibansan         |   2.7  | vulture              |
 | 73 | :soon:            | 2022-01-08 14:10:00 | rosehill-gardens           |      4 |        5 | Metro Legend       |   3.5  | jmac                 |
 | 74 | --                | 2022-01-08 13:43:00 | gold-coast                 |      2 |        1 | Only Wanna Sing    |   7    | benny,pangea         |
-| 75 | --                | 2022-01-08 13:43:00 | gold-coast                 |      2 |        2 | Sir Rocket         |   1.85 | pangea,icyhot        |
-| 76 | --                | 2022-01-08 13:43:00 | gold-coast                 |      2 |        3 | Star of O'reilly   |   4.75 | pangea               |
+| 75 | :boom:            | 2022-01-08 13:43:00 | gold-coast                 |      2 |        2 | Sir Rocket         |   1.85 | pangea,icyhot        |
+| 76 | :2nd_place_medal: | 2022-01-08 13:43:00 | gold-coast                 |      2 |        3 | Star of O'reilly   |   4.75 | pangea               |
 | 77 | :3rd_place_medal: | 2022-01-08 13:35:00 | rosehill-gardens           |      3 |        3 | Saigon             |   3.6  | jmac                 |
 | 78 | :2nd_place_medal: | 2022-01-08 13:08:00 | gold-coast                 |      1 |        3 | Frosty Mango       |   3.8  | pangea               |
 | 79 | :3rd_place_medal: | 2022-01-08 13:00:00 | rosehill-gardens           |      2 |        7 | Fiordland          |   3.9  | jmac                 |
