@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 21:56:44 +1000  
+date: 2022-01-08 22:11:40 +1000  
 ---   
 
 
@@ -118,7 +118,7 @@ date: 2022-01-08 21:56:44 +1000
 | 36 | :2nd_place_medal: | 2022-01-08 19:50:00 | ascot                      |      8 |        5 | The Spruiker       |   2.25 | vulture,milkman      |
 | 37 | :3rd_place_medal: | 2022-01-08 19:50:00 | ascot                      |      8 |        7 | Proconsent         |   2.5  | benny,pikey          |
 | 38 | :boom:            | 2022-01-08 19:15:00 | ascot                      |      7 |        1 | Come Right Back    |   4    | pangea,pikey         |
-| 39 | --                | 2022-01-08 19:00:00 | singapore                  |      9 |        2 | Lim's Force        |   0    | vulture              |
+| 39 | 10.0              | 2022-01-08 19:00:00 | singapore                  |      9 |        2 | Lim's Force        |   0    | vulture              |
 | 40 | :soon:            | 2022-01-08 18:40:00 | ascot                      |      6 |        5 | Fairy Fast         |   2.5  | evenodds,pikey       |
 | 41 | 4.0               | 2022-01-08 18:40:00 | ascot                      |      6 |       10 | Watch Me Ney Ney   |  11    | pangea               |
 | 42 | :2nd_place_medal: | 2022-01-08 18:00:00 | rosehill-gardens           |     10 |        5 | Tycoonist          |   2.6  | benny,jmac           |
