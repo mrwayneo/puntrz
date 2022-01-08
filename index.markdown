@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 16:22:59 +1000  
+date: 2022-01-08 16:37:49 +1000  
 ---   
 
 
@@ -19,7 +19,7 @@ date: 2022-01-08 16:22:59 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      2 |     -100 | 0.15 | -0.77 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     13 |      0 |     -130 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      1 |     -245 | 0.03 | -0.82 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      2 |     -199 | 0.07 | -0.66 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      1 |     -256 | 0.04 | -0.95 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     30 |      0 |     -300 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     54 |      4 |     -371 | 0.07 | -0.69 |
@@ -131,9 +131,9 @@ date: 2022-01-08 16:22:59 +1000
 | 49 | :soon:            | 2022-01-08 16:47:00 | ascot                      |      3 |       10 | Extra Secret       |   3.9  | benny,pikey          |
 | 50 | :soon:            | 2022-01-08 16:47:00 | ascot                      |      3 |        4 | Awesome Chatter    |   6.5  | vulture              |
 | 51 | :soon:            | 2022-01-08 16:40:00 | rosehill-gardens           |      8 |        4 | Order Again        |   5.5  | jmac                 |
-| 52 | :soon:            | 2022-01-08 16:35:00 | gawler                     |      7 |        4 | Sparkup            |   3.4  | vulture              |
-| 53 | :soon:            | 2022-01-08 16:30:00 | ipswich                    |      8 |        3 | Rhyme Nor Rhythm   |   4    | vulture              |
-| 54 | :soon:            | 2022-01-08 16:30:00 | singapore                  |      4 |        7 | Gold Cut           |   0    | vulture              |
+| 52 | --                | 2022-01-08 16:35:00 | gawler                     |      7 |        4 | Sparkup            |   3.4  | vulture              |
+| 53 | :boom:            | 2022-01-08 16:30:00 | ipswich                    |      8 |        3 | Rhyme Nor Rhythm   |   4    | vulture              |
+| 54 | --                | 2022-01-08 16:30:00 | singapore                  |      4 |        7 | Gold Cut           |   0    | vulture              |
 | 55 | 5.0               | 2022-01-08 16:07:00 | ascot                      |      2 |        4 | Winsalot           |   8.5  | cosmo,pikey          |
 | 56 | :boom:            | 2022-01-08 16:07:00 | ascot                      |      2 |        6 | Snippy Miss        |   4.8  | vulture              |
 | 57 | 4.0               | 2022-01-08 16:00:00 | rosehill-gardens           |      7 |        6 | Loveplanet         |   2.6  | jmac                 |
