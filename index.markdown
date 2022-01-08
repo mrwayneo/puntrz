@@ -1,11 +1,27 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-09 07:27:03 +1000  
+date: 2022-01-09 07:31:15 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 |    0 |    -1 |
+| [menoe](https://mrwayneo.github.io/tips/menoe.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)               |      3 |      0 |      -30 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      6 |      0 |      -60 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      0 |      -80 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     11 |      0 |     -110 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     11 |      0 |     -110 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     47 |      0 |     -470 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     65 |      0 |     -650 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -13,8 +29,8 @@ date: 2022-01-09 07:27:03 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      3 |    371   | 0.15 |  1.86 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    315   | 0.15 |  1.58 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      6 |    248   | 0.3  |  1.24 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |    195   | 0.1  |  0.98 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |     46.5 | 0.4  |  0.23 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     44   | 0.2  |  0.22 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     41   | 0.1  |  0.2  |
@@ -66,8 +82,8 @@ date: 2022-01-09 07:27:03 +1000
 |  2 | 4.0               | 2022-01-09 02:58:00 | cork                       |      7 |        8 | Sarah Runsfor Jack |   7    | looseknot            |
 |  3 | --                | 2022-01-09 02:55:00 | kenilworth                 |     10 |        9 | Warrior Bling      |   0    | vulture              |
 |  4 | :boom:            | 2022-01-09 02:43:00 | newcastle                  |      7 |        1 | Since Day One      |   1.6  | overthrow            |
-|  5 | :2nd_place_medal: | 2022-01-09 02:20:00 | kenilworth                 |      9 |        6 | Veni Vidi Vicci    |   0    | vulture              |
-|  6 | --                | 2022-01-09 02:20:00 | kenilworth                 |      9 |        2 | Double Charge      |   0    | vulture              |
+|  5 | --                | 2022-01-09 02:20:00 | kenilworth                 |      9 |        2 | Double Charge      |   0    | vulture              |
+|  6 | :2nd_place_medal: | 2022-01-09 02:20:00 | kenilworth                 |      9 |        6 | Veni Vidi Vicci    |   0    | vulture              |
 |  7 | :2nd_place_medal: | 2022-01-09 01:33:00 | newcastle                  |      5 |        1 | Crystal Glory      |   2.25 | milkman              |
 |  8 | :soon:            | 2022-01-09 01:25:00 | sandown                    |      5 |        4 | Mr Glass           |  11    | evenodds,overthrow   |
 |  9 | :boom:            | 2022-01-09 01:25:00 | sandown                    |      5 |        1 | Constitution Hill  |   1.35 | overthrow            |
