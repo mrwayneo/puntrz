@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-01-08 15:52:31 +1000  
+date: 2022-01-08 16:07:56 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 18:00             | 2022-01-08 | rosehill-gardens R10 | 5 Tycoonist          |  2.6  |    -10   |
 | 16:40             | 2022-01-08 | rosehill-gardens R8  | 4 Order Again        |  5.5  |    -10   |
-| 16:00             | 2022-01-08 | rosehill-gardens R7  | 6 Loveplanet         |  2.6  |    -10   |
+| 4                 | 2022-01-08 | rosehill-gardens R7  | 6 Loveplanet         |  2.6  |    -10   |
 | 0                 | 2022-01-08 | rosehill-gardens R6  | 7 Centimental        |  0    |    -10   |
 | 4                 | 2022-01-08 | rosehill-gardens R5  | 6 Wairere Falls      |  7    |    -10   |
 | 4                 | 2022-01-08 | rosehill-gardens R4  | 5 Metro Legend       |  3.5  |    -10   |

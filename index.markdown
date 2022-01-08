@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 15:52:32 +1000  
+date: 2022-01-08 16:07:57 +1000  
 ---   
 
 
@@ -134,13 +134,13 @@ date: 2022-01-08 15:52:32 +1000
 | 52 | :soon:            | 2022-01-08 16:35:00 | gawler                     |      7 |        4 | Sparkup            |   3.4  | vulture              |
 | 53 | :soon:            | 2022-01-08 16:30:00 | ipswich                    |      8 |        3 | Rhyme Nor Rhythm   |   4    | vulture              |
 | 54 | :soon:            | 2022-01-08 16:30:00 | singapore                  |      4 |        7 | Gold Cut           |   0    | vulture              |
-| 55 | :soon:            | 2022-01-08 16:07:00 | ascot                      |      2 |        4 | Winsalot           |   8.5  | cosmo,pikey          |
-| 56 | :soon:            | 2022-01-08 16:07:00 | ascot                      |      2 |        6 | Snippy Miss        |   4.8  | vulture              |
-| 57 | :soon:            | 2022-01-08 16:00:00 | rosehill-gardens           |      7 |        6 | Loveplanet         |   2.6  | jmac                 |
-| 58 | :soon:            | 2022-01-08 15:56:00 | townsville                 |      3 |        1 | Ahwahneechee       |   3.2  | pangea               |
+| 55 | --                | 2022-01-08 16:07:00 | ascot                      |      2 |        4 | Winsalot           |   8.5  | cosmo,pikey          |
+| 56 | --                | 2022-01-08 16:07:00 | ascot                      |      2 |        6 | Snippy Miss        |   4.8  | vulture              |
+| 57 | 4.0               | 2022-01-08 16:00:00 | rosehill-gardens           |      7 |        6 | Loveplanet         |   2.6  | jmac                 |
+| 58 | :2nd_place_medal: | 2022-01-08 15:56:00 | townsville                 |      3 |        1 | Ahwahneechee       |   3.2  | pangea               |
 | 59 | :soon:            | 2022-01-08 15:56:00 | townsville                 |      3 |        5 | Sylvester          |   2.1  | evenodds,blackshadow |
-| 60 | :soon:            | 2022-01-08 15:55:00 | gawler                     |      6 |        3 | Octane             |   6.5  | pangea               |
-| 61 | --                | 2022-01-08 15:45:00 | caulfield                  |      6 |        7 | Starcaster         |   4    | vulture,pangea       |
+| 60 | :3rd_place_medal: | 2022-01-08 15:55:00 | gawler                     |      6 |        3 | Octane             |   6.5  | pangea               |
+| 61 | 5.0               | 2022-01-08 15:45:00 | caulfield                  |      6 |        7 | Starcaster         |   4    | vulture,pangea       |
 | 62 | --                | 2022-01-08 15:32:00 | gold-coast                 |      5 |        6 | Fall On A Star     |   6    | vulture              |
 | 63 | --                | 2022-01-08 15:27:00 | ascot                      |      1 |        8 | Pierra Art         |   4.5  | pikey                |
 | 64 | 103.0             | 2022-01-08 15:23:00 | spendthrift-australia-park |      4 |        4 | Bill The Bee       |   5.5  | looseknot            |
