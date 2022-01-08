@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-08 14:37:41 +1000  
+date: 2022-01-08 14:52:49 +1000  
 ---   
 
 
@@ -148,10 +148,10 @@ date: 2022-01-08 14:37:41 +1000
 | 66 | :soon:            | 2022-01-08 15:00:00 | wyong                      |      3 |        5 | Italian Informant  |   6.5  | looseknot            |
 | 67 | :soon:            | 2022-01-08 15:00:00 | wyong                      |      3 |        9 | Flower Press       |   4.33 | looseknot            |
 | 68 | :soon:            | 2022-01-08 14:55:00 | awapuni                    |      8 |        7 | Dalmatia           |   5    | vulture              |
-| 69 | :soon:            | 2022-01-08 14:45:00 | rosehill-gardens           |      5 |        6 | Wairere Falls      |   7    | jmac                 |
-| 70 | :soon:            | 2022-01-08 14:45:00 | rosehill-gardens           |      5 |        2 | Darleb             |   6    | pangea               |
-| 71 | :soon:            | 2022-01-08 14:40:00 | gawler                     |      4 |        3 | Resurge            |   5    | pangea,blackshadow   |
-| 72 | :soon:            | 2022-01-08 14:40:00 | gawler                     |      4 |        4 | Ichibansan         |   2.7  | vulture              |
+| 69 | 4.0               | 2022-01-08 14:45:00 | rosehill-gardens           |      5 |        6 | Wairere Falls      |   7    | jmac                 |
+| 70 | --                | 2022-01-08 14:45:00 | rosehill-gardens           |      5 |        2 | Darleb             |   6    | pangea               |
+| 71 | :3rd_place_medal: | 2022-01-08 14:40:00 | gawler                     |      4 |        3 | Resurge            |   5    | pangea,blackshadow   |
+| 72 | 5.0               | 2022-01-08 14:40:00 | gawler                     |      4 |        4 | Ichibansan         |   2.7  | vulture              |
 | 73 | 4.0               | 2022-01-08 14:10:00 | rosehill-gardens           |      4 |        5 | Metro Legend       |   3.5  | jmac                 |
 | 74 | 8.0               | 2022-01-08 13:43:00 | gold-coast                 |      2 |        1 | Only Wanna Sing    |   7    | benny,pangea         |
 | 75 | :boom:            | 2022-01-08 13:43:00 | gold-coast                 |      2 |        2 | Sir Rocket         |   1.85 | pangea,icyhot        |
