@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-09 15:26:56 +1000  
+date: 2022-01-09 15:42:11 +1000  
 ---   
 
 
@@ -102,6 +102,6 @@ date: 2022-01-09 15:26:56 +1000
 | 22 | :soon:            | 2022-01-09 17:25:00 | warrnambool    |      8 |        6 | Thunder Point     |   2.1  | vulture         |
 | 23 | :soon:            | 2022-01-09 16:12:00 | albany         |      1 |        9 | Snippagem         |   1.8  | pikey           |
 | 24 | --                | 2022-01-09 15:15:00 | port-lincoln   |      5 |        8 | Hand to Hand      |  29    | cosmo,bob       |
-| 25 | --                | 2022-01-09 15:05:00 | warrnambool    |      4 |       14 | Firmity           |   6    | vulture         |
+| 25 | 5.0               | 2022-01-09 15:05:00 | warrnambool    |      4 |       14 | Firmity           |   6    | vulture         |
 | 26 | --                | 2022-01-09 14:00:00 | sunshine-coast |      1 |        2 | Melisma           |   2.7  | overthrow       |
 | 27 | :3rd_place_medal: | 2022-01-09 10:54:00 | ellerslie      |      2 |        4 | Time Flies        |   1.32 | vulture         |
