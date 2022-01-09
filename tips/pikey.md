@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-09 17:27:25 +1000  
+date: 2022-01-09 17:42:11 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 19:55             | 2022-01-09 | albany R7             | 3 Kia Ora Star        |   3.1  |    -10   |
 | 19:20             | 2022-01-09 | albany R6             | 5 Chiclett            |   2.2  |    -10   |
 | 18:50             | 2022-01-09 | albany R5             | 5 Mr Causeway         |   2.7  |    -10   |
-| 17:30             | 2022-01-09 | albany R3             | 3 Captain Sharmane    |   1.65 |    -10   |
+| :2nd_place_medal: | 2022-01-09 | albany R3             | 3 Captain Sharmane    |   1.65 |    -10   |
 | :3rd_place_medal: | 2022-01-09 | albany R2             | 4 Exalted Rockstar    |   2.88 |    -10   |
 | :boom:            | 2022-01-09 | albany R1             | 9 Snippagem           |   1.6  |      6   |
 | 10                | 2022-01-08 | ascot R9              | 2 Material Witness    |   4.2  |    -10   |

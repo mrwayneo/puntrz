@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-09 17:27:27 +1000  
+date: 2022-01-09 17:42:12 +1000  
 ---   
 
 
@@ -18,7 +18,7 @@ date: 2022-01-09 17:27:27 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |    -40   | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      6 |      1 |    -44   | 0.17 | -0.73 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      0 |    -80   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     11 |      0 |   -110   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     11 |      1 |    -92   | 0.09 | -0.84 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     11 |      0 |   -110   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     65 |      3 |   -413.5 | 0.05 | -0.64 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     47 |      0 |   -470   | 0    | -1    |
@@ -95,11 +95,11 @@ date: 2022-01-09 17:27:27 +1000
 | 15 | :soon:            | 2022-01-09 19:20:00 | albany         |      6 |        5 | Chiclett          |   2.2  | pikey           |
 | 16 | :soon:            | 2022-01-09 19:05:00 | sha-tin        |      7 |        4 | Master Delight    |   0    | vulture         |
 | 17 | :soon:            | 2022-01-09 18:50:00 | albany         |      5 |        5 | Mr Causeway       |   2.7  | pangea,pikey    |
-| 18 | :soon:            | 2022-01-09 17:30:00 | albany         |      3 |        3 | Captain Sharmane  |   1.65 | pikey           |
-| 19 | :soon:            | 2022-01-09 17:30:00 | albany         |      3 |        5 | Divine Mercy      |  10    | vulture         |
+| 18 | :2nd_place_medal: | 2022-01-09 17:30:00 | albany         |      3 |        3 | Captain Sharmane  |   1.65 | pikey           |
+| 19 | --                | 2022-01-09 17:30:00 | albany         |      3 |        5 | Divine Mercy      |  10    | vulture         |
 | 20 | --                | 2022-01-09 17:25:00 | warrnambool    |      8 |        8 | Bold Bourbon      |   1.8  | vulture,milkman |
-| 21 | --                | 2022-01-09 17:25:00 | warrnambool    |      8 |        4 | Cru Classe        |  15    | vulture         |
-| 22 | --                | 2022-01-09 17:25:00 | warrnambool    |      8 |        6 | Thunder Point     |   2.1  | vulture         |
+| 21 | :2nd_place_medal: | 2022-01-09 17:25:00 | warrnambool    |      8 |        4 | Cru Classe        |  15    | vulture         |
+| 22 | :boom:            | 2022-01-09 17:25:00 | warrnambool    |      8 |        6 | Thunder Point     |   2.1  | vulture         |
 | 23 | :boom:            | 2022-01-09 16:12:00 | albany         |      1 |        9 | Snippagem         |   1.8  | pikey           |
 | 24 | 7.0               | 2022-01-09 15:15:00 | port-lincoln   |      5 |        8 | Hand to Hand      |  29    | cosmo,bob       |
 | 25 | 5.0               | 2022-01-09 15:05:00 | warrnambool    |      4 |       14 | Firmity           |   6    | vulture         |
