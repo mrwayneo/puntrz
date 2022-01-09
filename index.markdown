@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-09 17:42:12 +1000  
+date: 2022-01-09 17:57:10 +1000  
 ---   
 
 
@@ -97,7 +97,7 @@ date: 2022-01-09 17:42:12 +1000
 | 17 | :soon:            | 2022-01-09 18:50:00 | albany         |      5 |        5 | Mr Causeway       |   2.7  | pangea,pikey    |
 | 18 | :2nd_place_medal: | 2022-01-09 17:30:00 | albany         |      3 |        3 | Captain Sharmane  |   1.65 | pikey           |
 | 19 | --                | 2022-01-09 17:30:00 | albany         |      3 |        5 | Divine Mercy      |  10    | vulture         |
-| 20 | --                | 2022-01-09 17:25:00 | warrnambool    |      8 |        8 | Bold Bourbon      |   1.8  | vulture,milkman |
+| 20 | 8.0               | 2022-01-09 17:25:00 | warrnambool    |      8 |        8 | Bold Bourbon      |   1.8  | vulture,milkman |
 | 21 | :2nd_place_medal: | 2022-01-09 17:25:00 | warrnambool    |      8 |        4 | Cru Classe        |  15    | vulture         |
 | 22 | :boom:            | 2022-01-09 17:25:00 | warrnambool    |      8 |        6 | Thunder Point     |   2.1  | vulture         |
 | 23 | :boom:            | 2022-01-09 16:12:00 | albany         |      1 |        9 | Snippagem         |   1.8  | pikey           |
