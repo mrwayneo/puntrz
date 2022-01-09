@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-09 11:12:00 +1000  
+date: 2022-01-09 11:26:55 +1000  
 ---   
 
 
@@ -29,8 +29,8 @@ date: 2022-01-09 11:12:00 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      3 |    371   | 0.15 |  1.86 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    315   | 0.15 |  1.58 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      6 |    248   | 0.3  |  1.24 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |    195   | 0.1  |  0.98 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |     46.5 | 0.4  |  0.23 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     44   | 0.2  |  0.22 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     41   | 0.1  |  0.2  |
