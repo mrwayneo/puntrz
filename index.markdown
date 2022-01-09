@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-09 13:57:04 +1000  
+date: 2022-01-09 14:12:09 +1000  
 ---   
 
 
@@ -29,8 +29,8 @@ date: 2022-01-09 13:57:04 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      3 |    371   | 0.15 |  1.86 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    315   | 0.15 |  1.58 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      6 |    248   | 0.3  |  1.24 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |    195   | 0.1  |  0.98 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |     46.5 | 0.4  |  0.23 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     44   | 0.2  |  0.22 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     41   | 0.1  |  0.2  |
@@ -103,5 +103,5 @@ date: 2022-01-09 13:57:04 +1000
 | 23 | :soon:            | 2022-01-09 16:12:00 | albany         |      1 |        9 | Snippagem         |   1.8  | pikey           |
 | 24 | :soon:            | 2022-01-09 15:15:00 | port-lincoln   |      5 |        8 | Hand to Hand      |  29    | cosmo,bob       |
 | 25 | :soon:            | 2022-01-09 15:05:00 | warrnambool    |      4 |       14 | Firmity           |   6    | vulture         |
-| 26 | :soon:            | 2022-01-09 14:00:00 | sunshine-coast |      1 |        2 | Melisma           |   2.7  | overthrow       |
+| 26 | --                | 2022-01-09 14:00:00 | sunshine-coast |      1 |        2 | Melisma           |   2.7  | overthrow       |
 | 27 | :3rd_place_medal: | 2022-01-09 10:54:00 | ellerslie      |      2 |        4 | Time Flies        |   1.32 | vulture         |
