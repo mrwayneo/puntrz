@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-09 12:26:57 +1000  
+date: 2022-01-09 12:42:04 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
 | 00:20             | 2022-01-10 | fairyhouse R2                 | 6 Crossgales Ophelia  |  21    |    -10   |
 | 15:15             | 2022-01-09 | port-lincoln R5               | 8 Hand to Hand        |  29    |    -10   |
-| 12:39             | 2022-01-09 | ellerslie R5                  | 12 Superette          |  12    |    -10   |
+| 0                 | 2022-01-09 | ellerslie R5                  | 12 Superette          |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-07 | canterbury R4                 | 5 Lady Proisir        |   8    |    -10   |
 | :2nd_place_medal: | 2022-01-05 | bordertown R7                 | 2 Richter             |  12    |    -10   |
 | 99                | 2022-01-05 | hereford R5                   | 4 Ballybreen          |   0    |    -10   |
@@ -207,8 +207,8 @@ categories: None
 | 99                | 2021-03-20 | cheltenham R7                 | 24 Martinhal          |  26    |    -10   |
 | 9                 | 2021-03-19 | moonee-valley R7              | 3 Elite Street        |  34    |    -10   |
 | 7                 | 2021-03-19 | moonee-valley R4              | 3 Drone Strike        |  34    |    -10   |
-| 99                | 2021-03-18 | cheltenham R7                 | 7 Ramillies           |  18    |    -10   |
 | 99                | 2021-03-18 | cheltenham R7                 | 2 Cool Jet            |  61    |    -10   |
+| 99                | 2021-03-18 | cheltenham R7                 | 7 Ramillies           |  18    |    -10   |
 | 99                | 2021-03-16 | stratford R7                  | 1 American Legacy     |  23    |    -10   |
 | 99                | 2021-03-14 | navan R6                      | 5 Forza Milan         |  10    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | hereford R2                   | 10 Oscar Asche        |  23    |    -10   |
