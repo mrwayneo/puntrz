@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-09 16:12:08 +1000  
+date: 2022-01-09 16:27:10 +1000  
 ---   
 
 
@@ -16,7 +16,7 @@ date: 2022-01-09 16:12:08 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |    -30   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      3 |      0 |    -30   | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |    -40   | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      6 |      0 |    -60   | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      6 |      1 |    -44   | 0.17 | -0.73 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      0 |    -80   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     11 |      0 |   -110   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     11 |      0 |   -110   | 0    | -1    |
@@ -29,8 +29,8 @@ date: 2022-01-09 16:12:08 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      3 |    371   | 0.15 |  1.86 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    315   | 0.15 |  1.58 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      6 |    248   | 0.3  |  1.24 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |    195   | 0.1  |  0.98 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |     46.5 | 0.4  |  0.23 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     44   | 0.2  |  0.22 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     41   | 0.1  |  0.2  |
@@ -75,33 +75,33 @@ date: 2022-01-09 16:12:08 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6212 |    914 |  -8821.4 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7879 |    418 | -15849   | 0.05 | -0.2  |
 
-|    | finish                   | time                | track          |   race |   number | name              |   odds | tipster         |
-|---:|:-------------------------|:--------------------|:---------------|-------:|---------:|:------------------|-------:|:----------------|
-|  0 | :soon:                   | 2022-01-10 02:30:00 | ayr            |      6 |        4 | Burn The Evidence |   2    | vulture         |
-|  1 | :soon:                   | 2022-01-10 01:50:00 | fairyhouse     |      5 |        6 | Thedevilscoachman |   2.35 | milkman         |
-|  2 | :soon:                   | 2022-01-10 01:50:00 | fairyhouse     |      5 |        9 | Saint Sam         |   3    | overthrow       |
-|  3 | :soon:                   | 2022-01-10 01:20:00 | fairyhouse     |      4 |        3 | Blackbow          |   4.8  | overthrow       |
-|  4 | :soon:                   | 2022-01-10 01:00:00 | ayr            |      3 |        5 | Heartbreak Kid    |   6    | overthrow       |
-|  5 | :soon:                   | 2022-01-10 00:55:00 | greyville      |      7 |        1 | Winter Flight     |   0    | vulture         |
-|  6 | :soon:                   | 2022-01-10 00:55:00 | scottsville    |      7 |        1 | Winter Flight     |   0    | vulture         |
-|  7 | :soon:                   | 2022-01-10 00:50:00 | fairyhouse     |      3 |        5 | Glenquin Castle   |   3.6  | overthrow       |
-|  8 | :soon:                   | 2022-01-10 00:30:00 | ayr            |      2 |        5 | Pure Surf         |   7.5  | looseknot       |
-|  9 | :soon:                   | 2022-01-10 00:20:00 | fairyhouse     |      2 |        8 | Jumping Jet       |   4.4  | milkman         |
-| 10 | :soon:                   | 2022-01-10 00:20:00 | fairyhouse     |      2 |        4 | Brooklynn Glory   |   2.6  | overthrow       |
-| 11 | :soon:                   | 2022-01-09 23:50:00 | fairyhouse     |      1 |        6 | Feigh             |   5.5  | overthrow       |
-| 12 | :soon:                   | 2022-01-09 23:50:00 | fairyhouse     |      1 |        3 | Iberique Du Seuil |   5.5  | vulture         |
-| 13 | :soon:                   | 2022-01-09 19:55:00 | albany         |      7 |        3 | Kia Ora Star      |   3.1  | benny,pikey     |
-| 14 | :soon:                   | 2022-01-09 19:55:00 | albany         |      7 |        7 | Heart of Coeur    |   6.5  | pangea          |
-| 15 | :soon:                   | 2022-01-09 19:20:00 | albany         |      6 |        5 | Chiclett          |   2.2  | pikey           |
-| 16 | :soon:                   | 2022-01-09 19:05:00 | sha-tin        |      7 |        4 | Master Delight    |   0    | vulture         |
-| 17 | :soon:                   | 2022-01-09 18:50:00 | albany         |      5 |        5 | Mr Causeway       |   2.7  | pangea,pikey    |
-| 18 | :soon:                   | 2022-01-09 17:30:00 | albany         |      3 |        3 | Captain Sharmane  |   1.65 | pikey           |
-| 19 | :soon:                   | 2022-01-09 17:30:00 | albany         |      3 |        5 | Divine Mercy      |  10    | vulture         |
-| 20 | :soon:                   | 2022-01-09 17:25:00 | warrnambool    |      8 |        8 | Bold Bourbon      |   1.8  | vulture,milkman |
-| 21 | :soon:                   | 2022-01-09 17:25:00 | warrnambool    |      8 |        4 | Cru Classe        |  15    | vulture         |
-| 22 | :soon:                   | 2022-01-09 17:25:00 | warrnambool    |      8 |        6 | Thunder Point     |   2.1  | vulture         |
-| 23 | :hourglass_flowing_sand: | 2022-01-09 16:12:00 | albany         |      1 |        9 | Snippagem         |   1.8  | pikey           |
-| 24 | --                       | 2022-01-09 15:15:00 | port-lincoln   |      5 |        8 | Hand to Hand      |  29    | cosmo,bob       |
-| 25 | 5.0                      | 2022-01-09 15:05:00 | warrnambool    |      4 |       14 | Firmity           |   6    | vulture         |
-| 26 | --                       | 2022-01-09 14:00:00 | sunshine-coast |      1 |        2 | Melisma           |   2.7  | overthrow       |
-| 27 | :3rd_place_medal:        | 2022-01-09 10:54:00 | ellerslie      |      2 |        4 | Time Flies        |   1.32 | vulture         |
+|    | finish            | time                | track          |   race |   number | name              |   odds | tipster         |
+|---:|:------------------|:--------------------|:---------------|-------:|---------:|:------------------|-------:|:----------------|
+|  0 | :soon:            | 2022-01-10 02:30:00 | ayr            |      6 |        4 | Burn The Evidence |   2    | vulture         |
+|  1 | :soon:            | 2022-01-10 01:50:00 | fairyhouse     |      5 |        6 | Thedevilscoachman |   2.35 | milkman         |
+|  2 | :soon:            | 2022-01-10 01:50:00 | fairyhouse     |      5 |        9 | Saint Sam         |   3    | overthrow       |
+|  3 | :soon:            | 2022-01-10 01:20:00 | fairyhouse     |      4 |        3 | Blackbow          |   4.8  | overthrow       |
+|  4 | :soon:            | 2022-01-10 01:00:00 | ayr            |      3 |        5 | Heartbreak Kid    |   6    | overthrow       |
+|  5 | :soon:            | 2022-01-10 00:55:00 | greyville      |      7 |        1 | Winter Flight     |   0    | vulture         |
+|  6 | :soon:            | 2022-01-10 00:55:00 | scottsville    |      7 |        1 | Winter Flight     |   0    | vulture         |
+|  7 | :soon:            | 2022-01-10 00:50:00 | fairyhouse     |      3 |        5 | Glenquin Castle   |   3.6  | overthrow       |
+|  8 | :soon:            | 2022-01-10 00:30:00 | ayr            |      2 |        5 | Pure Surf         |   7.5  | looseknot       |
+|  9 | :soon:            | 2022-01-10 00:20:00 | fairyhouse     |      2 |        8 | Jumping Jet       |   4.4  | milkman         |
+| 10 | :soon:            | 2022-01-10 00:20:00 | fairyhouse     |      2 |        4 | Brooklynn Glory   |   2.6  | overthrow       |
+| 11 | :soon:            | 2022-01-09 23:50:00 | fairyhouse     |      1 |        6 | Feigh             |   5.5  | overthrow       |
+| 12 | :soon:            | 2022-01-09 23:50:00 | fairyhouse     |      1 |        3 | Iberique Du Seuil |   5.5  | vulture         |
+| 13 | :soon:            | 2022-01-09 19:55:00 | albany         |      7 |        3 | Kia Ora Star      |   3.1  | benny,pikey     |
+| 14 | :soon:            | 2022-01-09 19:55:00 | albany         |      7 |        7 | Heart of Coeur    |   6.5  | pangea          |
+| 15 | :soon:            | 2022-01-09 19:20:00 | albany         |      6 |        5 | Chiclett          |   2.2  | pikey           |
+| 16 | :soon:            | 2022-01-09 19:05:00 | sha-tin        |      7 |        4 | Master Delight    |   0    | vulture         |
+| 17 | :soon:            | 2022-01-09 18:50:00 | albany         |      5 |        5 | Mr Causeway       |   2.7  | pangea,pikey    |
+| 18 | :soon:            | 2022-01-09 17:30:00 | albany         |      3 |        3 | Captain Sharmane  |   1.65 | pikey           |
+| 19 | :soon:            | 2022-01-09 17:30:00 | albany         |      3 |        5 | Divine Mercy      |  10    | vulture         |
+| 20 | :soon:            | 2022-01-09 17:25:00 | warrnambool    |      8 |        8 | Bold Bourbon      |   1.8  | vulture,milkman |
+| 21 | :soon:            | 2022-01-09 17:25:00 | warrnambool    |      8 |        4 | Cru Classe        |  15    | vulture         |
+| 22 | :soon:            | 2022-01-09 17:25:00 | warrnambool    |      8 |        6 | Thunder Point     |   2.1  | vulture         |
+| 23 | :boom:            | 2022-01-09 16:12:00 | albany         |      1 |        9 | Snippagem         |   1.8  | pikey           |
+| 24 | 7.0               | 2022-01-09 15:15:00 | port-lincoln   |      5 |        8 | Hand to Hand      |  29    | cosmo,bob       |
+| 25 | 5.0               | 2022-01-09 15:05:00 | warrnambool    |      4 |       14 | Firmity           |   6    | vulture         |
+| 26 | --                | 2022-01-09 14:00:00 | sunshine-coast |      1 |        2 | Melisma           |   2.7  | overthrow       |
+| 27 | :3rd_place_medal: | 2022-01-09 10:54:00 | ellerslie      |      2 |        4 | Time Flies        |   1.32 | vulture         |

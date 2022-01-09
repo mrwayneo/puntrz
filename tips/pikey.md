@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-09 16:12:07 +1000  
+date: 2022-01-09 16:27:09 +1000  
 categories: None 
 ---   
 
@@ -20,7 +20,7 @@ categories: None
 | 18:50             | 2022-01-09 | albany R5             | 5 Mr Causeway         |   2.7  |    -10   |
 | 17:30             | 2022-01-09 | albany R3             | 3 Captain Sharmane    |   1.65 |    -10   |
 | 16:47             | 2022-01-09 | albany R2             | 4 Exalted Rockstar    |   2.88 |    -10   |
-| 0                 | 2022-01-09 | albany R1             | 9 Snippagem           |   0    |    -10   |
+| :boom:            | 2022-01-09 | albany R1             | 9 Snippagem           |   1.6  |      6   |
 | 10                | 2022-01-08 | ascot R9              | 2 Material Witness    |   4.2  |    -10   |
 | :3rd_place_medal: | 2022-01-08 | ascot R8              | 7 Proconsent          |   2.5  |    -10   |
 | :boom:            | 2022-01-08 | ascot R7              | 1 Come Right Back     |   3.1  |     21   |
