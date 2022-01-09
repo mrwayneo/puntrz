@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-01-09 15:11:57 +1000  
+date: 2022-01-09 15:26:55 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 15:15             | 2022-01-09 | port-lincoln R5        | 8 Hand to Hand        |  29   |      -10 |
+| 0                 | 2022-01-09 | port-lincoln R5        | 8 Hand to Hand        |   0   |      -10 |
 | :2nd_place_medal: | 2022-01-06 | wagga R2               | 3 O'reg               |  16   |      -10 |
 | 9                 | 2022-01-05 | otaki R7               | 1 Skarloey            |  17   |      -10 |
 | 9                 | 2022-01-01 | murray-bdge R8         | 15 So Bene            |  41   |      -10 |
