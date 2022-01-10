@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-01-09 18:27:39 +1000  
+date: 2022-01-10 12:23:56 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     20 |      4 |   -121.6 | 0.2  | -0.61 |
-| Last 28 Days   |    159 |     36 |   -582.7 | 0.23 | -0.37 |
-| Last 6 Months  |   1133 |    281 |  -2228.6 | 0.25 | -0.2  |
-| Since Jan 2020 |   2681 |    674 |  -4173.6 | 0.25 | -0.16 |
+| Last 7 Days    |     20 |      3 |   -133   | 0.15 | -0.66 |
+| Last 28 Days   |    161 |     36 |   -602.7 | 0.22 | -0.37 |
+| Last 6 Months  |   1136 |    281 |  -2258.6 | 0.25 | -0.2  |
+| Since Jan 2020 |   2684 |    674 |  -4203.6 | 0.25 | -0.16 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 01:50             | 2022-01-10 | fairyhouse R5                | 6 Thedevilscoachman   |   2.35 |    -10   |
-| 00:20             | 2022-01-10 | fairyhouse R2                | 8 Jumping Jet         |   4.4  |    -10   |
+| 0                 | 2022-01-10 | fairyhouse R5                | 6 Thedevilscoachman   |   0    |    -10   |
+| 0                 | 2022-01-10 | fairyhouse R2                | 8 Jumping Jet         |   0    |    -10   |
 | 8                 | 2022-01-09 | warrnambool R8               | 8 Bold Bourbon        |   1.8  |    -10   |
 | :2nd_place_medal: | 2022-01-09 | newcastle R5                 | 1 Crystal Glory       |   2.25 |    -10   |
 | 0                 | 2022-01-09 | kenilworth R7                | 11 Pacaya             |   0    |    -10   |

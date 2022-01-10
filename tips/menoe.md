@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-01-09 18:28:12 +1000  
+date: 2022-01-10 12:24:01 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |      3 |      1 |    -10.5 | 0.33 | -0.35 |
-| Last 6 Months  |     28 |     17 |     45   | 0.61 |  0.16 |
-| Since Jan 2020 |     57 |     34 |    134.7 | 0.6  |  0.24 |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
+| Last 28 Days   |      4 |      1 |    -20.5 | 0.25 | -0.51 |
+| Last 6 Months  |     29 |     17 |     35   | 0.59 |  0.12 |
+| Since Jan 2020 |     58 |     34 |    124.7 | 0.59 |  0.22 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 02:30             | 2022-01-10 | ayr R6                 | 2 Tfou               |  1.9  |    -10   |
+| 0                 | 2022-01-10 | ayr R6                 | 2 Tfou               |  0    |    -10   |
 | 7                 | 2022-01-07 | stawell R5             | 4 Wilsons Prom       |  1.9  |    -10   |
 | :2nd_place_medal: | 2022-01-03 | pinjarra R3            | 9 Otheroneson        |  1.9  |    -10   |
 | :boom:            | 2021-12-27 | leopardstown R7        | 6 Facile Vega        |  1.95 |      9.5 |

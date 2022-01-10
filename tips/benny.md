@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-01-09 18:27:30 +1000  
+date: 2022-01-10 12:23:53 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     13 |      1 |    -30   | 0.08 | -0.23 |
-| Last 28 Days   |     41 |      5 |   -228   | 0.12 | -0.56 |
-| Last 6 Months  |    361 |     71 |   -850.5 | 0.2  | -0.24 |
-| Since Jan 2020 |    851 |    184 |   -667.5 | 0.22 | -0.08 |
+| Last 7 Days    |     14 |      1 |    -40   | 0.07 | -0.29 |
+| Last 28 Days   |     40 |      4 |   -233   | 0.1  | -0.58 |
+| Last 6 Months  |    362 |     71 |   -860.5 | 0.2  | -0.24 |
+| Since Jan 2020 |    852 |    184 |   -677.5 | 0.22 | -0.08 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 19:55             | 2022-01-09 | albany R7                     | 3 Kia Ora Star        |  3.1  |    -10   |
+| 0                 | 2022-01-09 | albany R7                     | 3 Kia Ora Star        |  0    |    -10   |
 | :boom:            | 2022-01-09 | kenilworth R7                 | 2 Jet Dark            | 10    |     90   |
 | :2nd_place_medal: | 2022-01-08 | ascot R9                      | 5 Cristal Dane        |  6.5  |    -10   |
 | :3rd_place_medal: | 2022-01-08 | ascot R8                      | 7 Proconsent          |  2.5  |    -10   |

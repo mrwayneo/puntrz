@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-09 18:28:10 +1000  
+date: 2022-01-10 12:24:01 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     16 |      5 |      -17 | 0.31 | -0.11 |
-| Last 28 Days   |     41 |     13 |       -4 | 0.32 | -0.01 |
-| Last 6 Months  |    449 |    130 |     -430 | 0.29 | -0.1  |
-| Since Jan 2020 |    968 |    253 |    -1318 | 0.26 | -0.14 |
+| Last 7 Days    |     22 |      6 |      -61 | 0.27 | -0.28 |
+| Last 28 Days   |     47 |     14 |      -48 | 0.3  | -0.1  |
+| Last 6 Months  |    455 |    131 |     -474 | 0.29 | -0.1  |
+| Since Jan 2020 |    974 |    254 |    -1362 | 0.26 | -0.14 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 19:55             | 2022-01-09 | albany R7             | 3 Kia Ora Star        |   3.1  |    -10   |
-| 19:20             | 2022-01-09 | albany R6             | 5 Chiclett            |   2.2  |    -10   |
-| 18:50             | 2022-01-09 | albany R5             | 5 Mr Causeway         |   2.7  |    -10   |
+| 0                 | 2022-01-09 | albany R7             | 3 Kia Ora Star        |   0    |    -10   |
+| 0                 | 2022-01-09 | albany R6             | 5 Chiclett            |   0    |    -10   |
+| 0                 | 2022-01-09 | albany R5             | 5 Mr Causeway         |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-09 | albany R3             | 3 Captain Sharmane    |   1.65 |    -10   |
 | :3rd_place_medal: | 2022-01-09 | albany R2             | 4 Exalted Rockstar    |   2.88 |    -10   |
 | :boom:            | 2022-01-09 | albany R1             | 9 Snippagem           |   1.6  |      6   |

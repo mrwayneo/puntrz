@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-01-09 18:27:39 +1000  
+date: 2022-01-10 12:23:56 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |     12 |      2 |    -75   | 0.17 | -0.62 |
-| Last 28 Days   |     47 |      6 |   -277   | 0.13 | -0.59 |
+| Last 28 Days   |     43 |      6 |   -237   | 0.14 | -0.55 |
 | Last 6 Months  |    357 |     98 |    -64.1 | 0.27 | -0.02 |
 | Since Jan 2020 |    792 |    199 |   -767.1 | 0.25 | -0.1  |
 

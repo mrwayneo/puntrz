@@ -1,21 +1,22 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-09 18:28:12 +1000  
+date: 2022-01-10 12:24:02 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
-| Last 28 Days   |     12 |      3 |    111   | 0.25 |  0.92 |
-| Last 6 Months  |    123 |     25 |   2246.5 | 0.2  |  1.83 |
-| Since Jan 2020 |    231 |     41 |   3796.5 | 0.18 |  1.64 |
+| Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
+| Last 28 Days   |     15 |      3 |     81   | 0.2  |  0.54 |
+| Last 6 Months  |    126 |     25 |   2216.5 | 0.2  |  1.76 |
+| Since Jan 2020 |    234 |     41 |   3766.5 | 0.18 |  1.61 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 00:20             | 2022-01-10 | fairyhouse R2                 | 6 Crossgales Ophelia  |  21    |    -10   |
+| 01:00             | 2022-01-11 | taunton R3                    | 14 Drag Race          |  23    |    -10   |
+| 0                 | 2022-01-10 | fairyhouse R2                 | 6 Crossgales Ophelia  |   0    |    -10   |
 | 7                 | 2022-01-09 | port-lincoln R5               | 8 Hand to Hand        |  29    |    -10   |
 | 10                | 2022-01-09 | ellerslie R5                  | 12 Superette          |  12    |    -10   |
 | :2nd_place_medal: | 2022-01-07 | canterbury R4                 | 5 Lady Proisir        |   8    |    -10   |
@@ -207,8 +208,8 @@ categories: None
 | 99                | 2021-03-20 | cheltenham R7                 | 24 Martinhal          |  26    |    -10   |
 | 9                 | 2021-03-19 | moonee-valley R7              | 3 Elite Street        |  34    |    -10   |
 | 7                 | 2021-03-19 | moonee-valley R4              | 3 Drone Strike        |  34    |    -10   |
-| 99                | 2021-03-18 | cheltenham R7                 | 7 Ramillies           |  18    |    -10   |
 | 99                | 2021-03-18 | cheltenham R7                 | 2 Cool Jet            |  61    |    -10   |
+| 99                | 2021-03-18 | cheltenham R7                 | 7 Ramillies           |  18    |    -10   |
 | 99                | 2021-03-16 | stratford R7                  | 1 American Legacy     |  23    |    -10   |
 | 99                | 2021-03-14 | navan R6                      | 5 Forza Milan         |  10    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | hereford R2                   | 10 Oscar Asche        |  23    |    -10   |
