@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-01-11 07:21:14 +1000  
+date: 2022-01-11 07:36:21 +1000  
 categories: None 
 ---   
 
@@ -406,8 +406,8 @@ categories: None
 | :boom:            | 2021-09-13 | thirsk R4                     | 4 Quilted             |   4.6  |     36   |
 | :boom:            | 2021-09-12 | donald R4                     | 6 Crystal Dynasty     |   3.6  |     26   |
 | 99                | 2021-09-12 | lingfield R6                  | 6 Mobarhin            |   5    |    -10   |
-| :2nd_place_medal: | 2021-09-11 | chester R1                    | 7 Noteable            |   4.33 |    -10   |
 | 99                | 2021-09-11 | chester R1                    | 4 Zulu Tracker        |   3.7  |    -10   |
+| :2nd_place_medal: | 2021-09-11 | chester R1                    | 7 Noteable            |   4.33 |    -10   |
 | 99                | 2021-09-11 | leopardstown R1               | 6 Lullaby             |   6.5  |    -10   |
 | :2nd_place_medal: | 2021-09-11 | carnarvon R4                  | 7 Counter Drive       |   7.5  |    -10   |
 | 10                | 2021-09-11 | morphettville R8              | 2 Hankstar            |  34    |    -10   |
@@ -499,8 +499,8 @@ categories: None
 | 4                 | 2021-08-23 | pakenham-synthetic R3         | 11 Sino Witness       |   3.9  |    -10   |
 | :2nd_place_medal: | 2021-08-23 | pakenham-synthetic R1         | 8 Henestrosa          |   6    |    -10   |
 | :boom:            | 2021-08-23 | brighton R5                   | 5 Sam Bellamy         |   7    |     60   |
-| 99                | 2021-08-22 | naas R3                       | 5 Indiana Rose        |   4.6  |    -10   |
 | 99                | 2021-08-22 | naas R3                       | 8 Twenty Minutes      |   9.5  |    -10   |
+| 99                | 2021-08-22 | naas R3                       | 5 Indiana Rose        |   4.6  |    -10   |
 | :2nd_place_medal: | 2021-08-22 | worcester R2                  | 10 Hoot At Midnight   |   4.4  |    -10   |
 | 99                | 2021-08-22 | newton-abbot R4               | 8 Hahadi              |  11    |    -10   |
 | :3rd_place_medal: | 2021-08-21 | chester R4                    | 1 Banana              |  11    |    -10   |
@@ -943,8 +943,8 @@ categories: None
 | 99                | 2021-04-23 | warwick R7                    | 11 Hiway One O Three  |  10    |    -10   |
 | 99                | 2021-04-22 | perth R2                      | 15 Wake The Giant     |   5.6  |    -10   |
 | 99                | 2021-04-22 | perth R2                      | 6 Ensel Du Perche     |   8    |    -10   |
-| 4                 | 2021-04-22 | grafton R3                    | 10 Diana Rocks        |   3.45 |    -10   |
 | :3rd_place_medal: | 2021-04-22 | grafton R3                    | 8 Frida's Time        |   7    |    -10   |
+| 4                 | 2021-04-22 | grafton R3                    | 10 Diana Rocks        |   3.45 |    -10   |
 | 99                | 2021-04-22 | woodville R1                  | 5 I'm Chuck           |   6.6  |    -10   |
 | 99                | 2021-04-22 | taunton R3                    | 6 Plenty Of Butty     |  19    |    -10   |
 | :3rd_place_medal: | 2021-04-21 | perth R1                      | 13 Wowsham            |   7    |    -10   |
@@ -996,8 +996,8 @@ categories: None
 | :3rd_place_medal: | 2021-04-08 | wyong R5                      | 7 Radiance            |   7    |    -10   |
 | :boom:            | 2021-04-08 | townsville R3                 | 9 Coop's Star         |   5.4  |     44   |
 | :2nd_place_medal: | 2021-04-08 | kilmore R1                    | 2 Mcgrath             |   8    |    -10   |
-| :2nd_place_medal: | 2021-04-07 | nottingham R1                 | 5 Dubawi Sands        |   4    |    -10   |
 | :boom:            | 2021-04-07 | nottingham R1                 | 9 Mashhoor            |   5.5  |     45   |
+| :2nd_place_medal: | 2021-04-07 | nottingham R1                 | 5 Dubawi Sands        |   4    |    -10   |
 | :2nd_place_medal: | 2021-04-07 | lingfield R1                  | 3 Equality            |   8.5  |    -10   |
 | 99                | 2021-04-05 | tauranga R8                   | 7 Confectionery       |   7    |    -10   |
 | 99                | 2021-04-05 | riverton R4                   | 2 Pinhead             |  12    |    -10   |
@@ -1006,8 +1006,8 @@ categories: None
 | 99                | 2021-04-04 | wolverhampton R1              | 10 Jenny Ren          |   4.6  |    -10   |
 | 99                | 2021-04-04 | newton-abbot R5               | 3 Who Shot Jr         |  12    |    -10   |
 | 99                | 2021-04-04 | newton-abbot R5               | 10 Auld Sod           |   4.33 |    -10   |
-| 99                | 2021-04-04 | carlisle R7                   | 3 Artic Quest         |   5.5  |    -10   |
 | 99                | 2021-04-04 | carlisle R7                   | 9 Just Got To Get On  |   5    |    -10   |
+| 99                | 2021-04-04 | carlisle R7                   | 3 Artic Quest         |   5.5  |    -10   |
 | 6                 | 2021-04-03 | port-macquarie R1             | 3 Olympic Time        |   9    |    -10   |
 | :2nd_place_medal: | 2021-04-03 | kembla-grange R2              | 6 Akahata             |   7.5  |    -10   |
 | 7                 | 2021-04-02 | launceston R7                 | 4 Queen's Needs       |   9    |    -10   |
@@ -1249,8 +1249,8 @@ categories: None
 | 8                 | 2020-05-10 | kalgoorlie R2                 | 7 Brucey Boy          |   5.1  |    -10   |
 | :2nd_place_medal: | 2020-05-09 | newcastle R1                  | 4 Spirit World        |   5.5  |    -10   |
 | :3rd_place_medal: | 2020-05-08 | albany R2                     | 7 Blonde Warrior      |   4    |    -10   |
-| :2nd_place_medal: | 2020-05-08 | port-augusta R2               | 3 Pandeia             |   3.6  |    -10   |
 | :boom:            | 2020-05-08 | port-augusta R2               | 2 No Parole           |   3.8  |     28   |
+| :2nd_place_medal: | 2020-05-08 | port-augusta R2               | 3 Pandeia             |   3.6  |    -10   |
 | :3rd_place_medal: | 2020-05-08 | goulburn R2                   | 8 Lateral Missile     |   9.5  |    -10   |
 | 4                 | 2020-05-07 | kembla-grange R4              | 5 Star Of Success     |   7    |    -10   |
 | 6                 | 2020-05-06 | warrnambool R3                | 10 Tectonic Shift     |   9    |    -10   |
