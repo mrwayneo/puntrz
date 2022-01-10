@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-10 16:05:43 +1000  
+date: 2022-01-10 16:20:36 +1000  
 ---   
 
 
@@ -87,4 +87,4 @@ date: 2022-01-10 16:05:43 +1000
 | 10 | :soon:   | 2022-01-11 01:00:00 | taunton       |      3 |        7 | Mister Splash      |    8.5 | looseknot     |
 | 11 | :soon:   | 2022-01-11 00:30:00 | taunton       |      2 |        6 | Knickerbockerglory |    2.1 | overthrow     |
 | 12 | :soon:   | 2022-01-11 00:00:00 | taunton       |      1 |        8 | Tango Tara         |    5   | evenodds,lago |
-| 13 | :soon:   | 2022-01-10 16:10:00 | beaumont      |      5 |       13 | Miss Twenty Twenty |    8   | pangea        |
+| 13 | --       | 2022-01-10 16:10:00 | beaumont      |      5 |       13 | Miss Twenty Twenty |    8   | pangea        |
