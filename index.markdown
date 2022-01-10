@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-11 07:51:11 +1000  
+date: 2022-01-11 08:06:05 +1000  
 ---   
 
 
@@ -73,19 +73,24 @@ date: 2022-01-11 07:51:11 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6237 |    902 |  -9326.4 | 0.14 | -0.15 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7783 |    405 | -17086   | 0.05 | -0.22 |
 
-|    | finish            | time                | track         |   race |   number | name               |   odds | tipster       |
-|---:|:------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:--------------|
-|  0 | :boom:            | 2022-01-11 04:00:00 | wolverhampton |      3 |        3 | Bare Necessity     |    7.5 | looseknot     |
-|  1 | 4.0               | 2022-01-11 02:30:00 | taunton       |      6 |        7 | Feodora            |    7.5 | looseknot     |
-|  2 | :2nd_place_medal: | 2022-01-11 02:30:00 | taunton       |      6 |        2 | Artemision         |    9.5 | looseknot     |
-|  3 | 6.0               | 2022-01-11 02:00:00 | taunton       |      5 |        5 | Aggy With It       |    6   | overthrow     |
-|  4 | :boom:            | 2022-01-11 02:00:00 | taunton       |      5 |        7 | Cap Du Mathan      |    7   | overthrow     |
-|  5 | --                | 2022-01-11 01:45:00 | ludlow        |      5 |        6 | Moonlight Flit     |    2.8 | overthrow     |
-|  6 | :boom:            | 2022-01-11 01:30:00 | taunton       |      4 |        4 | Golden Boy Grey    |    4.2 | vulture       |
-|  7 | 4.0               | 2022-01-11 01:30:00 | taunton       |      4 |        5 | All Dancer         |    3.7 | overthrow     |
-|  8 | --                | 2022-01-11 01:15:00 | ludlow        |      4 |        4 | Go Sacre Go        |    3.6 | overthrow     |
-|  9 | :3rd_place_medal: | 2022-01-11 01:00:00 | taunton       |      3 |       12 | Yvette Guilbert    |    6   | overthrow     |
-| 10 | :2nd_place_medal: | 2022-01-11 01:00:00 | taunton       |      3 |        7 | Mister Splash      |    8.5 | looseknot     |
-| 11 | :boom:            | 2022-01-11 00:30:00 | taunton       |      2 |        6 | Knickerbockerglory |    2.1 | overthrow     |
-| 12 | :2nd_place_medal: | 2022-01-11 00:00:00 | taunton       |      1 |        8 | Tango Tara         |    5   | evenodds,lago |
-| 13 | 6.0               | 2022-01-10 16:10:00 | beaumont      |      5 |       13 | Miss Twenty Twenty |    8   | pangea        |
+|    | finish   | time                | track       |   race |   number | name              |   odds | tipster            |
+|---:|:---------|:--------------------|:------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-01-12 06:20:00 | southwell   |      7 |        2 | Harry Three       |   2.2  | vulture,milkman    |
+|  1 | :soon:   | 2022-01-12 03:05:00 | exeter      |      8 |        7 | Craan Run         |  12    | vulture            |
+|  2 | :soon:   | 2022-01-12 02:20:00 | doncaster   |      7 |        6 | Come On Gruff     |   3.3  | milkman            |
+|  3 | :soon:   | 2022-01-12 02:05:00 | exeter      |      6 |        4 | Diamon Des Flos   |   9.5  | looseknot          |
+|  4 | :soon:   | 2022-01-12 01:15:00 | doncaster   |      5 |        7 | Russian Ruler     |   2.5  | overthrow,lago     |
+|  5 | :soon:   | 2022-01-12 01:15:00 | doncaster   |      5 |        1 | Moriko De Vassy   |   3.5  | milkman            |
+|  6 | :soon:   | 2022-01-12 00:50:00 | vaal        |      8 |        9 | Frontline Fighter |   0    | vulture            |
+|  7 | :soon:   | 2022-01-12 00:40:00 | doncaster   |      4 |        3 | Gallyhill         |   7    | overthrow          |
+|  8 | :soon:   | 2022-01-12 00:40:00 | doncaster   |      4 |        5 | Beakstown         |   5.5  | overthrow          |
+|  9 | :soon:   | 2022-01-12 00:05:00 | doncaster   |      3 |        7 | Lubeat Foras      |  12    | milkman            |
+| 10 | :soon:   | 2022-01-12 00:05:00 | doncaster   |      3 |        3 | City Chief        |   1.8  | overthrow          |
+| 11 | :soon:   | 2022-01-11 23:05:00 | vaal        |      5 |       11 | Mckenna Skye      |   0    | vulture            |
+| 12 | :soon:   | 2022-01-11 21:35:00 | vaal        |      2 |        1 | Dronfield         |   0    | vulture            |
+| 13 | :soon:   | 2022-01-11 21:00:00 | vaal        |      1 |       10 | Lady Osier        |   0    | vulture            |
+| 14 | :soon:   | 2022-01-11 18:50:00 | rockhampton |      8 |        2 | Deep Breath       |   5.5  | evenodds,overthrow |
+| 15 | :soon:   | 2022-01-11 17:04:00 | rockhampton |      5 |        3 | Easy Joy          |   3.8  | looseknot          |
+| 16 | :soon:   | 2022-01-11 16:27:00 | rockhampton |      4 |        1 | Master Jamie      |   1.95 | pangea,icyhot      |
+| 17 | :soon:   | 2022-01-11 15:30:00 | kilmore     |      5 |        4 | Saw That Coming   |   3.8  | looseknot          |
+| 18 | :soon:   | 2022-01-11 15:12:00 | rockhampton |      2 |        2 | Seenuscoming      |   2.8  | vulture            |
