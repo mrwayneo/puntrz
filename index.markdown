@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-12 07:36:38 +1000  
+date: 2022-01-12 07:46:33 +1000  
 ---   
 
 
@@ -83,8 +83,8 @@ date: 2022-01-12 07:36:38 +1000
 |  4 | :3rd_place_medal: | 2022-01-12 01:15:00 | doncaster   |      5 |        7 | Russian Ruler     |   2.5  | overthrow,lago     |
 |  5 | :boom:            | 2022-01-12 01:15:00 | doncaster   |      5 |        1 | Moriko De Vassy   |   3.5  | milkman            |
 |  6 | 4.0               | 2022-01-12 00:50:00 | vaal        |      8 |        9 | Frontline Fighter |   0    | vulture            |
-|  7 | :2nd_place_medal: | 2022-01-12 00:40:00 | doncaster   |      4 |        5 | Beakstown         |   5.5  | overthrow          |
-|  8 | --                | 2022-01-12 00:40:00 | doncaster   |      4 |        3 | Gallyhill         |   7    | overthrow          |
+|  7 | --                | 2022-01-12 00:40:00 | doncaster   |      4 |        3 | Gallyhill         |   7    | overthrow          |
+|  8 | :2nd_place_medal: | 2022-01-12 00:40:00 | doncaster   |      4 |        5 | Beakstown         |   5.5  | overthrow          |
 |  9 | :3rd_place_medal: | 2022-01-12 00:05:00 | doncaster   |      3 |        7 | Lubeat Foras      |  12    | milkman            |
 | 10 | :2nd_place_medal: | 2022-01-12 00:05:00 | doncaster   |      3 |        3 | City Chief        |   1.8  | overthrow          |
 | 11 | :2nd_place_medal: | 2022-01-11 23:05:00 | vaal        |      5 |       11 | Mckenna Skye      |   0    | vulture            |
