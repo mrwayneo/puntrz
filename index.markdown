@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-11 09:06:01 +1000  
+date: 2022-01-11 22:58:05 +1000  
 ---   
 
 
@@ -9,17 +9,17 @@ date: 2022-01-11 09:06:01 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      1 |      0 |      -10 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 |    0 |    -1 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      3 |      0 |      -30 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      5 |      0 |      -50 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      8 |      0 |      -80 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      0 |      -80 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     28 |      0 |     -280 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     34 |      0 |     -340 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |    -10   | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      1 |      0 |    -10   | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |    -10   | 0    | -1    |
+| [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |    -10   | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      3 |      0 |    -30   | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |    -30   | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      5 |      0 |    -50   | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      1 |    -58   | 0.12 | -0.72 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      8 |      1 |    -62.5 | 0.12 | -0.78 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     34 |      3 |   -262   | 0.09 | -0.77 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     28 |      0 |   -280   | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -73,24 +73,24 @@ date: 2022-01-11 09:06:01 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6237 |    902 |  -9326.4 | 0.14 | -0.15 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7783 |    405 | -17086   | 0.05 | -0.22 |
 
-|    | finish   | time                | track       |   race |   number | name              |   odds | tipster            |
-|---:|:---------|:--------------------|:------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-01-12 06:20:00 | southwell   |      7 |        2 | Harry Three       |   2.2  | vulture,milkman    |
-|  1 | :soon:   | 2022-01-12 03:05:00 | exeter      |      8 |        7 | Craan Run         |  12    | vulture            |
-|  2 | :soon:   | 2022-01-12 02:20:00 | doncaster   |      7 |        6 | Come On Gruff     |   3.3  | milkman            |
-|  3 | :soon:   | 2022-01-12 02:05:00 | exeter      |      6 |        4 | Diamon Des Flos   |   9.5  | looseknot          |
-|  4 | :soon:   | 2022-01-12 01:15:00 | doncaster   |      5 |        7 | Russian Ruler     |   2.5  | overthrow,lago     |
-|  5 | :soon:   | 2022-01-12 01:15:00 | doncaster   |      5 |        1 | Moriko De Vassy   |   3.5  | milkman            |
-|  6 | :soon:   | 2022-01-12 00:50:00 | vaal        |      8 |        9 | Frontline Fighter |   0    | vulture            |
-|  7 | :soon:   | 2022-01-12 00:40:00 | doncaster   |      4 |        3 | Gallyhill         |   7    | overthrow          |
-|  8 | :soon:   | 2022-01-12 00:40:00 | doncaster   |      4 |        5 | Beakstown         |   5.5  | overthrow          |
-|  9 | :soon:   | 2022-01-12 00:05:00 | doncaster   |      3 |        7 | Lubeat Foras      |  12    | milkman            |
-| 10 | :soon:   | 2022-01-12 00:05:00 | doncaster   |      3 |        3 | City Chief        |   1.8  | overthrow          |
-| 11 | :soon:   | 2022-01-11 23:05:00 | vaal        |      5 |       11 | Mckenna Skye      |   0    | vulture            |
-| 12 | :soon:   | 2022-01-11 21:35:00 | vaal        |      2 |        1 | Dronfield         |   0    | vulture            |
-| 13 | :soon:   | 2022-01-11 21:00:00 | vaal        |      1 |       10 | Lady Osier        |   0    | vulture            |
-| 14 | :soon:   | 2022-01-11 18:50:00 | rockhampton |      8 |        2 | Deep Breath       |   5.5  | evenodds,overthrow |
-| 15 | :soon:   | 2022-01-11 17:04:00 | rockhampton |      5 |        3 | Easy Joy          |   3.8  | looseknot          |
-| 16 | :soon:   | 2022-01-11 16:27:00 | rockhampton |      4 |        1 | Master Jamie      |   1.95 | pangea,icyhot      |
-| 17 | :soon:   | 2022-01-11 15:30:00 | kilmore     |      5 |        4 | Saw That Coming   |   3.8  | looseknot          |
-| 18 | :soon:   | 2022-01-11 15:12:00 | rockhampton |      2 |        2 | Seenuscoming      |   2.8  | vulture            |
+|    | finish            | time                | track       |   race |   number | name              |   odds | tipster            |
+|---:|:------------------|:--------------------|:------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-01-12 06:20:00 | southwell   |      7 |        2 | Harry Three       |   2.2  | vulture,milkman    |
+|  1 | :soon:            | 2022-01-12 03:05:00 | exeter      |      8 |        7 | Craan Run         |  12    | vulture            |
+|  2 | :soon:            | 2022-01-12 02:20:00 | doncaster   |      7 |        6 | Come On Gruff     |   3.3  | milkman            |
+|  3 | :soon:            | 2022-01-12 02:05:00 | exeter      |      6 |        4 | Diamon Des Flos   |   9.5  | looseknot          |
+|  4 | :soon:            | 2022-01-12 01:15:00 | doncaster   |      5 |        7 | Russian Ruler     |   2.5  | overthrow,lago     |
+|  5 | :soon:            | 2022-01-12 01:15:00 | doncaster   |      5 |        1 | Moriko De Vassy   |   3.5  | milkman            |
+|  6 | :soon:            | 2022-01-12 00:50:00 | vaal        |      8 |        9 | Frontline Fighter |   0    | vulture            |
+|  7 | :soon:            | 2022-01-12 00:40:00 | doncaster   |      4 |        3 | Gallyhill         |   7    | overthrow          |
+|  8 | :soon:            | 2022-01-12 00:40:00 | doncaster   |      4 |        5 | Beakstown         |   5.5  | overthrow          |
+|  9 | :soon:            | 2022-01-12 00:05:00 | doncaster   |      3 |        7 | Lubeat Foras      |  12    | milkman            |
+| 10 | :soon:            | 2022-01-12 00:05:00 | doncaster   |      3 |        3 | City Chief        |   1.8  | overthrow          |
+| 11 | :soon:            | 2022-01-11 23:05:00 | vaal        |      5 |       11 | Mckenna Skye      |   0    | vulture            |
+| 12 | :boom:            | 2022-01-11 21:35:00 | vaal        |      2 |        1 | Dronfield         |   0    | vulture            |
+| 13 | 4.0               | 2022-01-11 21:00:00 | vaal        |      1 |       10 | Lady Osier        |   0    | vulture            |
+| 14 | :2nd_place_medal: | 2022-01-11 18:50:00 | rockhampton |      8 |        2 | Deep Breath       |   5.5  | evenodds,overthrow |
+| 15 | 9.0               | 2022-01-11 17:04:00 | rockhampton |      5 |        3 | Easy Joy          |   3.8  | looseknot          |
+| 16 | :2nd_place_medal: | 2022-01-11 16:27:00 | rockhampton |      4 |        1 | Master Jamie      |   1.95 | pangea,icyhot      |
+| 17 | 5.0               | 2022-01-11 15:30:00 | kilmore     |      5 |        4 | Saw That Coming   |   3.8  | looseknot          |
+| 18 | 4.0               | 2022-01-11 15:12:00 | rockhampton |      2 |        2 | Seenuscoming      |   2.8  | vulture            |
