@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-12 06:04:36 +1000  
+date: 2022-01-12 06:20:46 +1000  
 ---   
 
 
@@ -59,24 +59,24 @@ date: 2022-01-12 06:04:36 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6234 |    904 |  -8925.4 | 0.15 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7754 |    403 | -16968   | 0.05 | -0.22 |
 
-|    | finish            | time                | track       |   race |   number | name              |   odds | tipster            |
-|---:|:------------------|:--------------------|:------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:            | 2022-01-12 06:20:00 | southwell   |      7 |        2 | Harry Three       |   2.2  | vulture,milkman    |
-|  1 | 8.0               | 2022-01-12 03:05:00 | exeter      |      8 |        7 | Craan Run         |  12    | vulture            |
-|  2 | --                | 2022-01-12 02:20:00 | doncaster   |      7 |        6 | Come On Gruff     |   3.3  | milkman            |
-|  3 | --                | 2022-01-12 02:05:00 | exeter      |      6 |        4 | Diamon Des Flos   |   9.5  | looseknot          |
-|  4 | :3rd_place_medal: | 2022-01-12 01:15:00 | doncaster   |      5 |        7 | Russian Ruler     |   2.5  | overthrow,lago     |
-|  5 | :boom:            | 2022-01-12 01:15:00 | doncaster   |      5 |        1 | Moriko De Vassy   |   3.5  | milkman            |
-|  6 | 4.0               | 2022-01-12 00:50:00 | vaal        |      8 |        9 | Frontline Fighter |   0    | vulture            |
-|  7 | --                | 2022-01-12 00:40:00 | doncaster   |      4 |        3 | Gallyhill         |   7    | overthrow          |
-|  8 | :2nd_place_medal: | 2022-01-12 00:40:00 | doncaster   |      4 |        5 | Beakstown         |   5.5  | overthrow          |
-|  9 | :3rd_place_medal: | 2022-01-12 00:05:00 | doncaster   |      3 |        7 | Lubeat Foras      |  12    | milkman            |
-| 10 | :2nd_place_medal: | 2022-01-12 00:05:00 | doncaster   |      3 |        3 | City Chief        |   1.8  | overthrow          |
-| 11 | :2nd_place_medal: | 2022-01-11 23:05:00 | vaal        |      5 |       11 | Mckenna Skye      |   0    | vulture            |
-| 12 | :boom:            | 2022-01-11 21:35:00 | vaal        |      2 |        1 | Dronfield         |   0    | vulture            |
-| 13 | 4.0               | 2022-01-11 21:00:00 | vaal        |      1 |       10 | Lady Osier        |   0    | vulture            |
-| 14 | :2nd_place_medal: | 2022-01-11 18:50:00 | rockhampton |      8 |        2 | Deep Breath       |   5.5  | evenodds,overthrow |
-| 15 | 9.0               | 2022-01-11 17:04:00 | rockhampton |      5 |        3 | Easy Joy          |   3.8  | looseknot          |
-| 16 | :2nd_place_medal: | 2022-01-11 16:27:00 | rockhampton |      4 |        1 | Master Jamie      |   1.95 | pangea,icyhot      |
-| 17 | 5.0               | 2022-01-11 15:30:00 | kilmore     |      5 |        4 | Saw That Coming   |   3.8  | looseknot          |
-| 18 | 4.0               | 2022-01-11 15:12:00 | rockhampton |      2 |        2 | Seenuscoming      |   2.8  | vulture            |
+|    | finish                   | time                | track       |   race |   number | name              |   odds | tipster            |
+|---:|:-------------------------|:--------------------|:------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :hourglass_flowing_sand: | 2022-01-12 06:20:00 | southwell   |      7 |        2 | Harry Three       |   2.2  | vulture,milkman    |
+|  1 | 8.0                      | 2022-01-12 03:05:00 | exeter      |      8 |        7 | Craan Run         |  12    | vulture            |
+|  2 | --                       | 2022-01-12 02:20:00 | doncaster   |      7 |        6 | Come On Gruff     |   3.3  | milkman            |
+|  3 | --                       | 2022-01-12 02:05:00 | exeter      |      6 |        4 | Diamon Des Flos   |   9.5  | looseknot          |
+|  4 | :3rd_place_medal:        | 2022-01-12 01:15:00 | doncaster   |      5 |        7 | Russian Ruler     |   2.5  | overthrow,lago     |
+|  5 | :boom:                   | 2022-01-12 01:15:00 | doncaster   |      5 |        1 | Moriko De Vassy   |   3.5  | milkman            |
+|  6 | 4.0                      | 2022-01-12 00:50:00 | vaal        |      8 |        9 | Frontline Fighter |   0    | vulture            |
+|  7 | --                       | 2022-01-12 00:40:00 | doncaster   |      4 |        3 | Gallyhill         |   7    | overthrow          |
+|  8 | :2nd_place_medal:        | 2022-01-12 00:40:00 | doncaster   |      4 |        5 | Beakstown         |   5.5  | overthrow          |
+|  9 | :3rd_place_medal:        | 2022-01-12 00:05:00 | doncaster   |      3 |        7 | Lubeat Foras      |  12    | milkman            |
+| 10 | :2nd_place_medal:        | 2022-01-12 00:05:00 | doncaster   |      3 |        3 | City Chief        |   1.8  | overthrow          |
+| 11 | :2nd_place_medal:        | 2022-01-11 23:05:00 | vaal        |      5 |       11 | Mckenna Skye      |   0    | vulture            |
+| 12 | :boom:                   | 2022-01-11 21:35:00 | vaal        |      2 |        1 | Dronfield         |   0    | vulture            |
+| 13 | 4.0                      | 2022-01-11 21:00:00 | vaal        |      1 |       10 | Lady Osier        |   0    | vulture            |
+| 14 | :2nd_place_medal:        | 2022-01-11 18:50:00 | rockhampton |      8 |        2 | Deep Breath       |   5.5  | evenodds,overthrow |
+| 15 | 9.0                      | 2022-01-11 17:04:00 | rockhampton |      5 |        3 | Easy Joy          |   3.8  | looseknot          |
+| 16 | :2nd_place_medal:        | 2022-01-11 16:27:00 | rockhampton |      4 |        1 | Master Jamie      |   1.95 | pangea,icyhot      |
+| 17 | 5.0                      | 2022-01-11 15:30:00 | kilmore     |      5 |        4 | Saw That Coming   |   3.8  | looseknot          |
+| 18 | 4.0                      | 2022-01-11 15:12:00 | rockhampton |      2 |        2 | Seenuscoming      |   2.8  | vulture            |
