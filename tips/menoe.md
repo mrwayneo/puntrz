@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-01-12 14:12:43 +1000  
+date: 2022-01-12 14:27:38 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 0                 | 2022-01-12 | oakbank R1             | 3 Muffla             |  0    |    -10   |
+| :2nd_place_medal: | 2022-01-12 | oakbank R1             | 3 Muffla             |  1.9  |    -10   |
 | 0                 | 2022-01-10 | ayr R6                 | 2 Tfou               |  0    |    -10   |
 | 7                 | 2022-01-07 | stawell R5             | 4 Wilsons Prom       |  1.9  |    -10   |
 | :2nd_place_medal: | 2022-01-03 | pinjarra R3            | 9 Otheroneson        |  1.9  |    -10   |
