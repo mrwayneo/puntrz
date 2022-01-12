@@ -1,11 +1,25 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-13 07:52:04 +1000  
+date: 2022-01-13 10:09:08 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 |    0 |    -1 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      0 |      -10 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      2 |      0 |      -20 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      0 |      -20 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      3 |      0 |      -30 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |      -40 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      0 |      -50 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      7 |      0 |      -70 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     35 |      0 |     -350 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     52 |      0 |     -520 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,36 +73,24 @@ date: 2022-01-13 07:52:04 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6277 |    909 |  -8821.9 | 0.14 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7762 |    402 | -17418   | 0.05 | -0.22 |
 
-|    | finish            | time                | track        |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:-------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | --                | 2022-01-13 02:05:00 | lingfield    |      6 |        3 | Brown Mouse        |   8    | looseknot          |
-|  1 | :boom:            | 2022-01-13 00:50:00 | leicester    |      2 |        2 | Dusart             |   1.3  | overthrow          |
-|  2 | :2nd_place_medal: | 2022-01-13 00:50:00 | leicester    |      2 |        3 | Sail Away          |   6.5  | overthrow          |
-|  3 | --                | 2022-01-13 00:20:00 | leicester    |      1 |       10 | Eairsidh           |   9    | looseknot          |
-|  4 | :boom:            | 2022-01-13 00:05:00 | lingfield    |      2 |        2 | Mobarhin           |   5    | looseknot          |
-|  5 | 11.0              | 2022-01-12 20:30:00 | belmont      |      8 |        3 | Goku               |   4.2  | pikey              |
-|  6 | :2nd_place_medal: | 2022-01-12 19:50:00 | belmont      |      7 |        5 | Off Wego           |   4    | benny,blackshadow  |
-|  7 | 6.0               | 2022-01-12 19:15:00 | belmont      |      6 |        2 | Find Your Man      |   2.88 | pikey              |
-|  8 | :2nd_place_medal: | 2022-01-12 19:15:00 | belmont      |      6 |        5 | Gambler's Gold     |   5    | vulture,milkman    |
-|  9 | :2nd_place_medal: | 2022-01-12 18:34:00 | belmont      |      5 |        4 | Total Lockdown     |   4.2  | overthrow          |
-| 10 | :3rd_place_medal: | 2022-01-12 18:34:00 | belmont      |      5 |        6 | Anna's Boy         |   3.9  | looseknot,pikey    |
-| 11 | --                | 2022-01-12 18:30:00 | caulfield    |      6 |        6 | Yanacocha          |  29    | vulture            |
-| 12 | 6.0               | 2022-01-12 17:54:00 | belmont      |      4 |        5 | Mr Brilliant       |   4.8  | pikey              |
-| 13 | --                | 2022-01-12 17:50:00 | warwick-farm |      7 |        5 | Rhythmic Pulse     |   7    | pangea             |
-| 14 | :boom:            | 2022-01-12 17:19:00 | belmont      |      3 |        2 | Otheroneson        |   1.83 | vulture            |
-| 15 | 5.0               | 2022-01-12 17:19:00 | belmont      |      3 |        8 | Rare Case          |   4.75 | pikey              |
-| 16 | :2nd_place_medal: | 2022-01-12 17:15:00 | warwick-farm |      6 |        3 | Juventus           |   6    | pangea             |
-| 17 | --                | 2022-01-12 17:01:00 | canberra     |      7 |        7 | Jac The Great      |   8    | pangea             |
-| 18 | 6.0               | 2022-01-12 16:54:00 | doomben      |      5 |        3 | Bestie             |  12    | pangea             |
-| 19 | :boom:            | 2022-01-12 16:54:00 | doomben      |      5 |        5 | Toorooloo          |   2.8  | overthrow          |
-| 20 | 7.0               | 2022-01-12 16:50:00 | caulfield    |      3 |        8 | No Crying          |   6.5  | vulture            |
-| 21 | --                | 2022-01-12 16:50:00 | caulfield    |      3 |        6 | Shiriki            |  20    | milkman            |
-| 22 | 4.0               | 2022-01-12 16:44:00 | belmont      |      2 |        7 | Restful            |   2.7  | pikey              |
-| 23 | 7.0               | 2022-01-12 16:15:00 | caulfield    |      2 |        1 | Guardian Spirit    |   4.33 | pangea,blackshadow |
-| 24 | 6.0               | 2022-01-12 16:15:00 | caulfield    |      2 |        4 | Video              |  11    | pangea             |
-| 25 | :2nd_place_medal: | 2022-01-12 16:09:00 | belmont      |      1 |        4 | Shake Baby Shake   |   4.75 | vulture            |
-| 26 | :boom:            | 2022-01-12 16:09:00 | belmont      |      1 |        2 | Rockin' Rupert     |   2.05 | benny,pikey        |
-| 27 | 4.0               | 2022-01-12 14:55:00 | warwick-farm |      2 |        7 | Scat's Surfer Girl |   6    | looseknot          |
-| 28 | :3rd_place_medal: | 2022-01-12 14:34:00 | doomben      |      1 |        7 | Asherla            |   4.6  | pangea             |
-| 29 | :boom:            | 2022-01-12 14:34:00 | doomben      |      1 |        1 | Rubiquitous        |   3    | milkman            |
-| 30 | 4.0               | 2022-01-12 14:34:00 | doomben      |      1 |        2 | I'll Tell You Now  |   5.5  | benny,pangea       |
+|    | finish   | time                | track     |   race |   number | name             |   odds | tipster       |
+|---:|:---------|:--------------------|:----------|-------:|---------:|:-----------------|-------:|:--------------|
+|  0 | :soon:   | 2022-01-14 03:50:00 | newcastle |      7 |        2 | Naval Captain    |    7.5 | milkman       |
+|  1 | :soon:   | 2022-01-14 03:20:00 | newcastle |      6 |       11 | National Charter |    5   | looseknot     |
+|  2 | :soon:   | 2022-01-14 02:40:00 | catterick |      7 |        6 | Kensington Art   |    6.5 | overthrow     |
+|  3 | :soon:   | 2022-01-14 01:30:00 | bangor    |      3 |        4 | Reilly           |    2.5 | overthrow     |
+|  4 | :soon:   | 2022-01-14 01:10:00 | catterick |      4 |        1 | A Different Kind |    1.3 | overthrow     |
+|  5 | :soon:   | 2022-01-14 01:00:00 | bangor    |      2 |        4 | Ballycross       |    7   | overthrow     |
+|  6 | :soon:   | 2022-01-14 00:40:00 | catterick |      3 |        1 | Spider's Bite    |    9   | overthrow     |
+|  7 | :soon:   | 2022-01-14 00:30:00 | bangor    |      1 |        4 | Wildkatze        |    8.5 | looseknot     |
+|  8 | :soon:   | 2022-01-14 00:10:00 | catterick |      2 |        5 | Velkera          |    8   | overthrow     |
+|  9 | :soon:   | 2022-01-13 23:40:00 | catterick |      1 |        2 | Gredin           |    5   | overthrow     |
+| 10 | :soon:   | 2022-01-13 23:25:00 | vaal      |      5 |        9 | Goddess Of Light |    0   | milkman       |
+| 11 | :soon:   | 2022-01-13 20:30:00 | pinjarra  |      8 |        1 | Noble Scot       |    2.8 | vulture,pikey |
+| 12 | :soon:   | 2022-01-13 18:25:00 | pinjarra  |      4 |        1 | Melwood Coast    |    3.9 | pikey         |
+| 13 | :soon:   | 2022-01-13 18:10:00 | kilcoy    |      8 |        6 | Dublin De Quo    |    7   | moechilli     |
+| 14 | :soon:   | 2022-01-13 17:40:00 | pinjarra  |      3 |        6 | Men's Club       |    4.8 | pikey         |
+| 15 | :soon:   | 2022-01-13 17:04:00 | pinjarra  |      2 |        1 | Civvy Street     |    2.8 | pikey         |
+| 16 | :soon:   | 2022-01-13 15:25:00 | moruya    |      4 |        1 | Mandalong Superb |    6   | looseknot     |
+| 17 | :soon:   | 2022-01-13 15:04:00 | otaki     |      9 |        5 | Bold Bette       |    3.1 | vulture       |
+| 18 | :soon:   | 2022-01-13 13:50:00 | penola    |      2 |        6 | Aim to Please    |    6   | looseknot     |

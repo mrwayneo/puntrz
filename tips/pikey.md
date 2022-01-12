@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-13 09:10:26 +1000  
+date: 2022-01-13 10:09:07 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,11 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 20:30             | 2022-01-13 | pinjarra R8           | 1 Noble Scot          |   2.8  |    -10   |
+| 18:25             | 2022-01-13 | pinjarra R4           | 1 Melwood Coast       |   3.9  |    -10   |
+| 17:40             | 2022-01-13 | pinjarra R3           | 6 Men's Club          |   4.8  |    -10   |
+| 17:04             | 2022-01-13 | pinjarra R2           | 1 Civvy Street        |   2.8  |    -10   |
+| 16:24             | 2022-01-13 | pinjarra R1           | 1 Defending           |   1.65 |    -10   |
 | 11                | 2022-01-12 | belmont R8            | 3 Goku                |   4.2  |    -10   |
 | 6                 | 2022-01-12 | belmont R6            | 2 Find Your Man       |   2.88 |    -10   |
 | :3rd_place_medal: | 2022-01-12 | belmont R5            | 6 Anna's Boy          |   3.9  |    -10   |

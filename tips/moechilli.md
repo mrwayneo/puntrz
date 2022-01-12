@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-01-13 09:10:23 +1000  
+date: 2022-01-13 10:09:03 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
+| 18:10             | 2022-01-13 | kilcoy R8              | 6 Dublin De Quo      |   7    |    -10   |
 | :boom:            | 2022-01-09 | newcastle R3           | 5 Bavington Bob      |   2.7  |     17   |
 | 5                 | 2022-01-02 | cranbourne R8          | 1 Lord Sundowner     |   7.5  |    -10   |
 | 6                 | 2022-01-01 | mornington R1          | 6 Top Arctic         |  23    |    -10   |
