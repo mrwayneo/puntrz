@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-01-12 14:27:30 +1000  
+date: 2022-01-12 14:43:14 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 19:50             | 2022-01-12 | belmont R7                    | 5 Off Wego            |  4    |    -10   |
 | 16:54             | 2022-01-12 | doomben R5                    | 6 Royal Banquet       | 11    |    -10   |
 | 16:09             | 2022-01-12 | belmont R1                    | 2 Rockin' Rupert      |  2.05 |    -10   |
-| 14:34             | 2022-01-12 | doomben R1                    | 2 I'll Tell You Now   |  5.5  |    -10   |
+| 4                 | 2022-01-12 | doomben R1                    | 2 I'll Tell You Now   |  5.5  |    -10   |
 | 0                 | 2022-01-09 | albany R7                     | 3 Kia Ora Star        |  0    |    -10   |
 | :boom:            | 2022-01-09 | kenilworth R7                 | 2 Jet Dark            | 10    |     90   |
 | :2nd_place_medal: | 2022-01-08 | ascot R9                      | 5 Cristal Dane        |  6.5  |    -10   |
