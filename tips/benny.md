@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-01-12 16:28:09 +1000  
+date: 2022-01-12 18:26:14 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
 | 19:50             | 2022-01-12 | belmont R7                    | 5 Off Wego            |  4    |    -10   |
-| 16:54             | 2022-01-12 | doomben R5                    | 6 Royal Banquet       | 11    |    -10   |
+| 8                 | 2022-01-12 | doomben R5                    | 6 Royal Banquet       | 11    |    -10   |
 | :boom:            | 2022-01-12 | belmont R1                    | 2 Rockin' Rupert      |  1.6  |      6   |
 | 4                 | 2022-01-12 | doomben R1                    | 2 I'll Tell You Now   |  5.5  |    -10   |
 | 0                 | 2022-01-09 | albany R7                     | 3 Kia Ora Star        |  0    |    -10   |

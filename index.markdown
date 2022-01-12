@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-12 16:28:17 +1000  
+date: 2022-01-12 18:26:26 +1000  
 ---   
 
 
@@ -11,10 +11,10 @@ date: 2022-01-12 16:28:17 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      3 |      1 |       10 | 0.33 |  0.33 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      4 |      1 |      -18 | 0.25 | -0.45 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      4 |      1 |      -24 | 0.25 | -0.6  |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      4 |      0 |      -40 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      1 |      -32 | 0.2  | -0.64 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      5 |      0 |      -50 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      7 |      1 |      -54 | 0.14 | -0.77 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     13 |      1 |     -114 | 0.08 | -0.88 |
@@ -88,19 +88,19 @@ date: 2022-01-12 16:28:17 +1000
 |  9 | :soon:            | 2022-01-12 18:34:00 | belmont      |      5 |        4 | Total Lockdown     |   4.2  | overthrow          |
 | 10 | :soon:            | 2022-01-12 18:34:00 | belmont      |      5 |        6 | Anna's Boy         |   3.9  | looseknot,pikey    |
 | 11 | :soon:            | 2022-01-12 18:30:00 | caulfield    |      6 |        6 | Yanacocha          |  29    | vulture            |
-| 12 | :soon:            | 2022-01-12 17:54:00 | belmont      |      4 |        5 | Mr Brilliant       |   4.8  | pikey              |
-| 13 | :soon:            | 2022-01-12 17:50:00 | warwick-farm |      7 |        5 | Rhythmic Pulse     |   7    | pangea             |
-| 14 | :soon:            | 2022-01-12 17:19:00 | belmont      |      3 |        2 | Otheroneson        |   1.83 | vulture            |
-| 15 | :soon:            | 2022-01-12 17:19:00 | belmont      |      3 |        8 | Rare Case          |   4.75 | pikey              |
-| 16 | :soon:            | 2022-01-12 17:15:00 | warwick-farm |      6 |        3 | Juventus           |   6    | pangea             |
-| 17 | :soon:            | 2022-01-12 17:01:00 | canberra     |      7 |        7 | Jac The Great      |   8    | pangea             |
-| 18 | :soon:            | 2022-01-12 16:54:00 | doomben      |      5 |        3 | Bestie             |  12    | pangea             |
-| 19 | :soon:            | 2022-01-12 16:54:00 | doomben      |      5 |        5 | Toorooloo          |   2.8  | overthrow          |
-| 20 | :soon:            | 2022-01-12 16:50:00 | caulfield    |      3 |        8 | No Crying          |   6.5  | vulture            |
-| 21 | :soon:            | 2022-01-12 16:50:00 | caulfield    |      3 |        6 | Shiriki            |  20    | milkman            |
-| 22 | :soon:            | 2022-01-12 16:44:00 | belmont      |      2 |        7 | Restful            |   2.7  | pikey              |
-| 23 | --                | 2022-01-12 16:15:00 | caulfield    |      2 |        1 | Guardian Spirit    |   4.33 | pangea,blackshadow |
-| 24 | --                | 2022-01-12 16:15:00 | caulfield    |      2 |        4 | Video              |  11    | pangea             |
+| 12 | 6.0               | 2022-01-12 17:54:00 | belmont      |      4 |        5 | Mr Brilliant       |   4.8  | pikey              |
+| 13 | --                | 2022-01-12 17:50:00 | warwick-farm |      7 |        5 | Rhythmic Pulse     |   7    | pangea             |
+| 14 | :boom:            | 2022-01-12 17:19:00 | belmont      |      3 |        2 | Otheroneson        |   1.83 | vulture            |
+| 15 | 5.0               | 2022-01-12 17:19:00 | belmont      |      3 |        8 | Rare Case          |   4.75 | pikey              |
+| 16 | :2nd_place_medal: | 2022-01-12 17:15:00 | warwick-farm |      6 |        3 | Juventus           |   6    | pangea             |
+| 17 | --                | 2022-01-12 17:01:00 | canberra     |      7 |        7 | Jac The Great      |   8    | pangea             |
+| 18 | 6.0               | 2022-01-12 16:54:00 | doomben      |      5 |        3 | Bestie             |  12    | pangea             |
+| 19 | :boom:            | 2022-01-12 16:54:00 | doomben      |      5 |        5 | Toorooloo          |   2.8  | overthrow          |
+| 20 | 7.0               | 2022-01-12 16:50:00 | caulfield    |      3 |        8 | No Crying          |   6.5  | vulture            |
+| 21 | --                | 2022-01-12 16:50:00 | caulfield    |      3 |        6 | Shiriki            |  20    | milkman            |
+| 22 | 4.0               | 2022-01-12 16:44:00 | belmont      |      2 |        7 | Restful            |   2.7  | pikey              |
+| 23 | 7.0               | 2022-01-12 16:15:00 | caulfield    |      2 |        1 | Guardian Spirit    |   4.33 | pangea,blackshadow |
+| 24 | 6.0               | 2022-01-12 16:15:00 | caulfield    |      2 |        4 | Video              |  11    | pangea             |
 | 25 | :2nd_place_medal: | 2022-01-12 16:09:00 | belmont      |      1 |        4 | Shake Baby Shake   |   4.75 | vulture            |
 | 26 | :boom:            | 2022-01-12 16:09:00 | belmont      |      1 |        2 | Rockin' Rupert     |   2.05 | benny,pikey        |
 | 27 | 4.0               | 2022-01-12 14:55:00 | warwick-farm |      2 |        7 | Scat's Surfer Girl |   6    | looseknot          |
