@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-12 20:06:48 +1000  
+date: 2022-01-12 20:50:06 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 20:30             | 2022-01-12 | belmont R8            | 3 Goku                |   4.2  |    -10   |
+| 0                 | 2022-01-12 | belmont R8            | 3 Goku                |   0    |    -10   |
 | 6                 | 2022-01-12 | belmont R6            | 2 Find Your Man       |   2.88 |    -10   |
 | :3rd_place_medal: | 2022-01-12 | belmont R5            | 6 Anna's Boy          |   3.9  |    -10   |
 | 6                 | 2022-01-12 | belmont R4            | 5 Mr Brilliant        |   4.8  |    -10   |
