@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-12 16:13:09 +1000  
+date: 2022-01-12 16:28:17 +1000  
 ---   
 
 
@@ -99,8 +99,8 @@ date: 2022-01-12 16:13:09 +1000
 | 20 | :soon:            | 2022-01-12 16:50:00 | caulfield    |      3 |        8 | No Crying          |   6.5  | vulture            |
 | 21 | :soon:            | 2022-01-12 16:50:00 | caulfield    |      3 |        6 | Shiriki            |  20    | milkman            |
 | 22 | :soon:            | 2022-01-12 16:44:00 | belmont      |      2 |        7 | Restful            |   2.7  | pikey              |
-| 23 | :soon:            | 2022-01-12 16:15:00 | caulfield    |      2 |        1 | Guardian Spirit    |   4.33 | pangea,blackshadow |
-| 24 | :soon:            | 2022-01-12 16:15:00 | caulfield    |      2 |        4 | Video              |  11    | pangea             |
+| 23 | --                | 2022-01-12 16:15:00 | caulfield    |      2 |        1 | Guardian Spirit    |   4.33 | pangea,blackshadow |
+| 24 | --                | 2022-01-12 16:15:00 | caulfield    |      2 |        4 | Video              |  11    | pangea             |
 | 25 | :2nd_place_medal: | 2022-01-12 16:09:00 | belmont      |      1 |        4 | Shake Baby Shake   |   4.75 | vulture            |
 | 26 | :boom:            | 2022-01-12 16:09:00 | belmont      |      1 |        2 | Rockin' Rupert     |   2.05 | benny,pikey        |
 | 27 | 4.0               | 2022-01-12 14:55:00 | warwick-farm |      2 |        7 | Scat's Surfer Girl |   6    | looseknot          |
