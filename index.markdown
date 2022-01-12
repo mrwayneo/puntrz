@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-12 15:58:06 +1000  
+date: 2022-01-12 16:13:09 +1000  
 ---   
 
 
@@ -12,12 +12,12 @@ date: 2022-01-12 15:58:06 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      3 |      1 |       10 | 0.33 |  0.33 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      4 |      0 |      -40 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      4 |      1 |      -24 | 0.25 | -0.6  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      4 |      0 |      -40 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      5 |      0 |      -50 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      7 |      0 |      -70 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     13 |      0 |     -130 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      7 |      1 |      -54 | 0.14 | -0.77 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     13 |      1 |     -114 | 0.08 | -0.88 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     14 |      0 |     -140 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     25 |      0 |     -250 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     49 |      3 |     -413 | 0.06 | -0.84 |
@@ -101,8 +101,8 @@ date: 2022-01-12 15:58:06 +1000
 | 22 | :soon:            | 2022-01-12 16:44:00 | belmont      |      2 |        7 | Restful            |   2.7  | pikey              |
 | 23 | :soon:            | 2022-01-12 16:15:00 | caulfield    |      2 |        1 | Guardian Spirit    |   4.33 | pangea,blackshadow |
 | 24 | :soon:            | 2022-01-12 16:15:00 | caulfield    |      2 |        4 | Video              |  11    | pangea             |
-| 25 | :soon:            | 2022-01-12 16:09:00 | belmont      |      1 |        4 | Shake Baby Shake   |   4.75 | vulture            |
-| 26 | :soon:            | 2022-01-12 16:09:00 | belmont      |      1 |        2 | Rockin' Rupert     |   2.05 | benny,pikey        |
+| 25 | :2nd_place_medal: | 2022-01-12 16:09:00 | belmont      |      1 |        4 | Shake Baby Shake   |   4.75 | vulture            |
+| 26 | :boom:            | 2022-01-12 16:09:00 | belmont      |      1 |        2 | Rockin' Rupert     |   2.05 | benny,pikey        |
 | 27 | 4.0               | 2022-01-12 14:55:00 | warwick-farm |      2 |        7 | Scat's Surfer Girl |   6    | looseknot          |
 | 28 | :3rd_place_medal: | 2022-01-12 14:34:00 | doomben      |      1 |        7 | Asherla            |   4.6  | pangea             |
 | 29 | :boom:            | 2022-01-12 14:34:00 | doomben      |      1 |        1 | Rubiquitous        |   3    | milkman            |

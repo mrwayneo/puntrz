@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-12 15:58:05 +1000  
+date: 2022-01-12 16:13:08 +1000  
 categories: None 
 ---   
 
@@ -21,7 +21,7 @@ categories: None
 | 17:54             | 2022-01-12 | belmont R4            | 5 Mr Brilliant        |   4.8  |    -10   |
 | 17:19             | 2022-01-12 | belmont R3            | 8 Rare Case           |   4.75 |    -10   |
 | 16:44             | 2022-01-12 | belmont R2            | 7 Restful             |   2.7  |    -10   |
-| 16:09             | 2022-01-12 | belmont R1            | 2 Rockin' Rupert      |   2.05 |    -10   |
+| :boom:            | 2022-01-12 | belmont R1            | 2 Rockin' Rupert      |   1.6  |      6   |
 | 0                 | 2022-01-09 | albany R7             | 3 Kia Ora Star        |   0    |    -10   |
 | 0                 | 2022-01-09 | albany R6             | 5 Chiclett            |   0    |    -10   |
 | 0                 | 2022-01-09 | albany R5             | 5 Mr Causeway         |   0    |    -10   |
