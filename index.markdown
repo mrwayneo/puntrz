@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-12 19:06:25 +1000  
+date: 2022-01-12 19:20:47 +1000  
 ---   
 
 
@@ -83,8 +83,8 @@ date: 2022-01-12 19:06:25 +1000
 |  4 | :soon:            | 2022-01-13 00:05:00 | lingfield    |      2 |        2 | Mobarhin           |   5    | looseknot          |
 |  5 | :soon:            | 2022-01-12 20:30:00 | belmont      |      8 |        3 | Goku               |   4.2  | pikey              |
 |  6 | :soon:            | 2022-01-12 19:50:00 | belmont      |      7 |        5 | Off Wego           |   4    | benny,blackshadow  |
-|  7 | :soon:            | 2022-01-12 19:15:00 | belmont      |      6 |        2 | Find Your Man      |   2.88 | pikey              |
-|  8 | :soon:            | 2022-01-12 19:15:00 | belmont      |      6 |        5 | Gambler's Gold     |   5    | vulture,milkman    |
+|  7 | --                | 2022-01-12 19:15:00 | belmont      |      6 |        2 | Find Your Man      |   2.88 | pikey              |
+|  8 | --                | 2022-01-12 19:15:00 | belmont      |      6 |        5 | Gambler's Gold     |   5    | vulture,milkman    |
 |  9 | :2nd_place_medal: | 2022-01-12 18:34:00 | belmont      |      5 |        4 | Total Lockdown     |   4.2  | overthrow          |
 | 10 | :3rd_place_medal: | 2022-01-12 18:34:00 | belmont      |      5 |        6 | Anna's Boy         |   3.9  | looseknot,pikey    |
 | 11 | --                | 2022-01-12 18:30:00 | caulfield    |      6 |        6 | Yanacocha          |  29    | vulture            |
