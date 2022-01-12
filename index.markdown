@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-12 18:26:26 +1000  
+date: 2022-01-12 19:06:25 +1000  
 ---   
 
 
@@ -85,9 +85,9 @@ date: 2022-01-12 18:26:26 +1000
 |  6 | :soon:            | 2022-01-12 19:50:00 | belmont      |      7 |        5 | Off Wego           |   4    | benny,blackshadow  |
 |  7 | :soon:            | 2022-01-12 19:15:00 | belmont      |      6 |        2 | Find Your Man      |   2.88 | pikey              |
 |  8 | :soon:            | 2022-01-12 19:15:00 | belmont      |      6 |        5 | Gambler's Gold     |   5    | vulture,milkman    |
-|  9 | :soon:            | 2022-01-12 18:34:00 | belmont      |      5 |        4 | Total Lockdown     |   4.2  | overthrow          |
-| 10 | :soon:            | 2022-01-12 18:34:00 | belmont      |      5 |        6 | Anna's Boy         |   3.9  | looseknot,pikey    |
-| 11 | :soon:            | 2022-01-12 18:30:00 | caulfield    |      6 |        6 | Yanacocha          |  29    | vulture            |
+|  9 | :2nd_place_medal: | 2022-01-12 18:34:00 | belmont      |      5 |        4 | Total Lockdown     |   4.2  | overthrow          |
+| 10 | :3rd_place_medal: | 2022-01-12 18:34:00 | belmont      |      5 |        6 | Anna's Boy         |   3.9  | looseknot,pikey    |
+| 11 | --                | 2022-01-12 18:30:00 | caulfield    |      6 |        6 | Yanacocha          |  29    | vulture            |
 | 12 | 6.0               | 2022-01-12 17:54:00 | belmont      |      4 |        5 | Mr Brilliant       |   4.8  | pikey              |
 | 13 | --                | 2022-01-12 17:50:00 | warwick-farm |      7 |        5 | Rhythmic Pulse     |   7    | pangea             |
 | 14 | :boom:            | 2022-01-12 17:19:00 | belmont      |      3 |        2 | Otheroneson        |   1.83 | vulture            |
