@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-12 14:43:24 +1000  
+date: 2022-01-12 14:58:01 +1000  
 ---   
 
 
@@ -103,7 +103,7 @@ date: 2022-01-12 14:43:24 +1000
 | 24 | :soon:            | 2022-01-12 16:15:00 | caulfield    |      2 |        4 | Video              |  11    | pangea             |
 | 25 | :soon:            | 2022-01-12 16:09:00 | belmont      |      1 |        4 | Shake Baby Shake   |   4.75 | vulture            |
 | 26 | :soon:            | 2022-01-12 16:09:00 | belmont      |      1 |        2 | Rockin' Rupert     |   2.05 | benny,pikey        |
-| 27 | :soon:            | 2022-01-12 14:55:00 | warwick-farm |      2 |        7 | Scat's Surfer Girl |   6    | looseknot          |
+| 27 | --                | 2022-01-12 14:55:00 | warwick-farm |      2 |        7 | Scat's Surfer Girl |   6    | looseknot          |
 | 28 | :3rd_place_medal: | 2022-01-12 14:34:00 | doomben      |      1 |        7 | Asherla            |   4.6  | pangea             |
 | 29 | :boom:            | 2022-01-12 14:34:00 | doomben      |      1 |        1 | Rubiquitous        |   3    | milkman            |
 | 30 | 4.0               | 2022-01-12 14:34:00 | doomben      |      1 |        2 | I'll Tell You Now  |   5.5  | benny,pangea       |
