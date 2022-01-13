@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-01-13 17:21:56 +1000  
+date: 2022-01-14 10:23:35 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     11 |      2 |      6   | 0.18 |  0.05 |
+| Last 7 Days    |      5 |      1 |    -34   | 0.2  | -0.68 |
 | Last 28 Days   |     41 |      5 |   -227   | 0.12 | -0.55 |
 | Last 6 Months  |    366 |     72 |   -884.5 | 0.2  | -0.24 |
 | Since Jan 2020 |    856 |    185 |   -701.5 | 0.22 | -0.08 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 21:45             | 2022-01-14 | cranbourne R9                 | 8 Ocean's Jen         |  2.6  |    -10   |
 | :2nd_place_medal: | 2022-01-12 | belmont R7                    | 5 Off Wego            |  4    |    -10   |
 | 8                 | 2022-01-12 | doomben R5                    | 6 Royal Banquet       | 11    |    -10   |
 | :boom:            | 2022-01-12 | belmont R1                    | 2 Rockin' Rupert      |  1.6  |      6   |

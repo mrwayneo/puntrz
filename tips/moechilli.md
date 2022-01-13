@@ -1,21 +1,23 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-01-13 17:22:01 +1000  
+date: 2022-01-14 10:23:39 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      1 |     17   | 1    |  1.7  |
-| Last 28 Days   |      4 |      1 |    -13   | 0.25 | -0.32 |
-| Last 6 Months  |     45 |     11 |    148.5 | 0.24 |  0.33 |
-| Since Jan 2020 |    109 |     33 |    785.9 | 0.3  |  0.72 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      5 |      1 |    -23   | 0.2  | -0.46 |
+| Last 6 Months  |     46 |     11 |    138.5 | 0.24 |  0.3  |
+| Since Jan 2020 |    110 |     33 |    775.9 | 0.3  |  0.71 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 18:10             | 2022-01-13 | kilcoy R8              | 6 Dublin De Quo      |   7    |    -10   |
+| 20:23             | 2022-01-14 | esperance-bay R8       | 7 Nobel Prince       |  22    |    -10   |
+| 17:04             | 2022-01-14 | townsville R5          | 5 Micawber           |   3.7  |    -10   |
+| 0                 | 2022-01-13 | kilcoy R8              | 6 Dublin De Quo      |   0    |    -10   |
 | :boom:            | 2022-01-09 | newcastle R3           | 5 Bavington Bob      |   2.7  |     17   |
 | 5                 | 2022-01-02 | cranbourne R8          | 1 Lord Sundowner     |   7.5  |    -10   |
 | 6                 | 2022-01-01 | mornington R1          | 6 Top Arctic         |  23    |    -10   |

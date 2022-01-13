@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-13 17:22:06 +1000  
+date: 2022-01-14 10:23:42 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     22 |      4 |     -104 | 0.18 | -0.47 |
-| Last 28 Days   |     54 |     15 |     -102 | 0.28 | -0.19 |
-| Last 6 Months  |    462 |    132 |     -528 | 0.29 | -0.11 |
-| Since Jan 2020 |    981 |    255 |    -1416 | 0.26 | -0.14 |
+| Last 7 Days    |     18 |      3 |     -131 | 0.17 | -0.73 |
+| Last 28 Days   |     59 |     16 |     -135 | 0.27 | -0.23 |
+| Last 6 Months  |    467 |    133 |     -561 | 0.28 | -0.12 |
+| Since Jan 2020 |    986 |    256 |    -1449 | 0.26 | -0.15 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 20:30             | 2022-01-13 | pinjarra R8           | 1 Noble Scot          |   2.8  |    -10   |
-| 18:25             | 2022-01-13 | pinjarra R4           | 1 Melwood Coast       |   3.9  |    -10   |
-| 17:40             | 2022-01-13 | pinjarra R3           | 6 Men's Club          |   4.8  |    -10   |
+| 0                 | 2022-01-13 | pinjarra R8           | 1 Noble Scot          |   0    |    -10   |
+| 0                 | 2022-01-13 | pinjarra R4           | 1 Melwood Coast       |   0    |    -10   |
+| 0                 | 2022-01-13 | pinjarra R3           | 6 Men's Club          |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-13 | pinjarra R2           | 1 Civvy Street        |   2.8  |    -10   |
 | :boom:            | 2022-01-13 | pinjarra R1           | 1 Defending           |   1.7  |      7   |
 | 11                | 2022-01-12 | belmont R8            | 3 Goku                |   4.2  |    -10   |
