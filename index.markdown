@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-13 16:30:16 +1000  
+date: 2022-01-13 17:22:08 +1000  
 ---   
 
 
@@ -73,24 +73,24 @@ date: 2022-01-13 16:30:16 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6277 |    909 |  -8821.9 | 0.14 | -0.14 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7762 |    402 | -17418   | 0.05 | -0.22 |
 
-|    | finish   | time                | track     |   race |   number | name             |   odds | tipster       |
-|---:|:---------|:--------------------|:----------|-------:|---------:|:-----------------|-------:|:--------------|
-|  0 | :soon:   | 2022-01-14 03:50:00 | newcastle |      7 |        2 | Naval Captain    |    7.5 | milkman       |
-|  1 | :soon:   | 2022-01-14 03:20:00 | newcastle |      6 |       11 | National Charter |    5   | looseknot     |
-|  2 | :soon:   | 2022-01-14 02:40:00 | catterick |      7 |        6 | Kensington Art   |    6.5 | overthrow     |
-|  3 | :soon:   | 2022-01-14 01:30:00 | bangor    |      3 |        4 | Reilly           |    2.5 | overthrow     |
-|  4 | :soon:   | 2022-01-14 01:10:00 | catterick |      4 |        1 | A Different Kind |    1.3 | overthrow     |
-|  5 | :soon:   | 2022-01-14 01:00:00 | bangor    |      2 |        4 | Ballycross       |    7   | overthrow     |
-|  6 | :soon:   | 2022-01-14 00:40:00 | catterick |      3 |        1 | Spider's Bite    |    9   | overthrow     |
-|  7 | :soon:   | 2022-01-14 00:30:00 | bangor    |      1 |        4 | Wildkatze        |    8.5 | looseknot     |
-|  8 | :soon:   | 2022-01-14 00:10:00 | catterick |      2 |        5 | Velkera          |    8   | overthrow     |
-|  9 | :soon:   | 2022-01-13 23:40:00 | catterick |      1 |        2 | Gredin           |    5   | overthrow     |
-| 10 | :soon:   | 2022-01-13 23:25:00 | vaal      |      5 |        9 | Goddess Of Light |    0   | milkman       |
-| 11 | :soon:   | 2022-01-13 20:30:00 | pinjarra  |      8 |        1 | Noble Scot       |    2.8 | vulture,pikey |
-| 12 | :soon:   | 2022-01-13 18:25:00 | pinjarra  |      4 |        1 | Melwood Coast    |    3.9 | pikey         |
-| 13 | :soon:   | 2022-01-13 18:10:00 | kilcoy    |      8 |        6 | Dublin De Quo    |    7   | moechilli     |
-| 14 | :soon:   | 2022-01-13 17:40:00 | pinjarra  |      3 |        6 | Men's Club       |    4.8 | pikey         |
-| 15 | :soon:   | 2022-01-13 17:04:00 | pinjarra  |      2 |        1 | Civvy Street     |    2.8 | pikey         |
-| 16 | 7.0      | 2022-01-13 15:25:00 | moruya    |      4 |        1 | Mandalong Superb |    6   | looseknot     |
-| 17 | :boom:   | 2022-01-13 15:04:00 | otaki     |      9 |        5 | Bold Bette       |    3.1 | vulture       |
-| 18 | 4.0      | 2022-01-13 13:50:00 | penola    |      2 |        6 | Aim to Please    |    6   | looseknot     |
+|    | finish            | time                | track     |   race |   number | name             |   odds | tipster       |
+|---:|:------------------|:--------------------|:----------|-------:|---------:|:-----------------|-------:|:--------------|
+|  0 | :soon:            | 2022-01-14 03:50:00 | newcastle |      7 |        2 | Naval Captain    |    7.5 | milkman       |
+|  1 | :soon:            | 2022-01-14 03:20:00 | newcastle |      6 |       11 | National Charter |    5   | looseknot     |
+|  2 | :soon:            | 2022-01-14 02:40:00 | catterick |      7 |        6 | Kensington Art   |    6.5 | overthrow     |
+|  3 | :soon:            | 2022-01-14 01:30:00 | bangor    |      3 |        4 | Reilly           |    2.5 | overthrow     |
+|  4 | :soon:            | 2022-01-14 01:10:00 | catterick |      4 |        1 | A Different Kind |    1.3 | overthrow     |
+|  5 | :soon:            | 2022-01-14 01:00:00 | bangor    |      2 |        4 | Ballycross       |    7   | overthrow     |
+|  6 | :soon:            | 2022-01-14 00:40:00 | catterick |      3 |        1 | Spider's Bite    |    9   | overthrow     |
+|  7 | :soon:            | 2022-01-14 00:30:00 | bangor    |      1 |        4 | Wildkatze        |    8.5 | looseknot     |
+|  8 | :soon:            | 2022-01-14 00:10:00 | catterick |      2 |        5 | Velkera          |    8   | overthrow     |
+|  9 | :soon:            | 2022-01-13 23:40:00 | catterick |      1 |        2 | Gredin           |    5   | overthrow     |
+| 10 | :soon:            | 2022-01-13 23:25:00 | vaal      |      5 |        9 | Goddess Of Light |    0   | milkman       |
+| 11 | :soon:            | 2022-01-13 20:30:00 | pinjarra  |      8 |        1 | Noble Scot       |    2.8 | vulture,pikey |
+| 12 | :soon:            | 2022-01-13 18:25:00 | pinjarra  |      4 |        1 | Melwood Coast    |    3.9 | pikey         |
+| 13 | :soon:            | 2022-01-13 18:10:00 | kilcoy    |      8 |        6 | Dublin De Quo    |    7   | moechilli     |
+| 14 | :soon:            | 2022-01-13 17:40:00 | pinjarra  |      3 |        6 | Men's Club       |    4.8 | pikey         |
+| 15 | :2nd_place_medal: | 2022-01-13 17:04:00 | pinjarra  |      2 |        1 | Civvy Street     |    2.8 | pikey         |
+| 16 | 7.0               | 2022-01-13 15:25:00 | moruya    |      4 |        1 | Mandalong Superb |    6   | looseknot     |
+| 17 | :boom:            | 2022-01-13 15:04:00 | otaki     |      9 |        5 | Bold Bette       |    3.1 | vulture       |
+| 18 | 4.0               | 2022-01-13 13:50:00 | penola    |      2 |        6 | Aim to Please    |    6   | looseknot     |
