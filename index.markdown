@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-13 15:45:09 +1000  
+date: 2022-01-13 16:00:25 +1000  
 ---   
 
 
@@ -9,17 +9,17 @@ date: 2022-01-13 15:45:09 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 |    0 |    -1 |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      0 |      -10 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      2 |      0 |      -20 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      0 |      -20 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      3 |      0 |      -30 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |      -40 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      0 |      -50 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      7 |      0 |      -70 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     35 |      0 |     -350 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     52 |      0 |     -520 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      2 |      1 |       50 |  0.5 |   2.5 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 |  0   |  -1   |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      0 |      -10 |  0   |  -1   |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      0 |      -20 |  0   |  -1   |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      3 |      0 |      -30 |  0   |  -1   |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |      -40 |  0   |  -1   |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 |  0   |  -1   |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      0 |      -50 |  0   |  -1   |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      7 |      0 |      -70 |  0   |  -1   |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     35 |      0 |     -350 |  0   |  -1   |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     52 |      0 |     -520 |  0   |  -1   |
 
 ##### Form Last 20 tips   
 
@@ -92,5 +92,5 @@ date: 2022-01-13 15:45:09 +1000
 | 14 | :soon:   | 2022-01-13 17:40:00 | pinjarra  |      3 |        6 | Men's Club       |    4.8 | pikey         |
 | 15 | :soon:   | 2022-01-13 17:04:00 | pinjarra  |      2 |        1 | Civvy Street     |    2.8 | pikey         |
 | 16 | 7.0      | 2022-01-13 15:25:00 | moruya    |      4 |        1 | Mandalong Superb |    6   | looseknot     |
-| 17 | --       | 2022-01-13 15:04:00 | otaki     |      9 |        5 | Bold Bette       |    3.1 | vulture       |
+| 17 | :boom:   | 2022-01-13 15:04:00 | otaki     |      9 |        5 | Bold Bette       |    3.1 | vulture       |
 | 18 | 4.0      | 2022-01-13 13:50:00 | penola    |      2 |        6 | Aim to Please    |    6   | looseknot     |
