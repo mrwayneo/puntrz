@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-13 13:41:02 +1000  
+date: 2022-01-13 13:56:08 +1000  
 ---   
 
 
@@ -93,4 +93,4 @@ date: 2022-01-13 13:41:02 +1000
 | 15 | :soon:   | 2022-01-13 17:04:00 | pinjarra  |      2 |        1 | Civvy Street     |    2.8 | pikey         |
 | 16 | :soon:   | 2022-01-13 15:25:00 | moruya    |      4 |        1 | Mandalong Superb |    6   | looseknot     |
 | 17 | :soon:   | 2022-01-13 15:04:00 | otaki     |      9 |        5 | Bold Bette       |    3.1 | vulture       |
-| 18 | :soon:   | 2022-01-13 13:50:00 | penola    |      2 |        6 | Aim to Please    |    6   | looseknot     |
+| 18 | 4.0      | 2022-01-13 13:50:00 | penola    |      2 |        6 | Aim to Please    |    6   | looseknot     |
