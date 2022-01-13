@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-13 15:26:13 +1000  
+date: 2022-01-13 15:45:09 +1000  
 ---   
 
 
@@ -91,6 +91,6 @@ date: 2022-01-13 15:26:13 +1000
 | 13 | :soon:   | 2022-01-13 18:10:00 | kilcoy    |      8 |        6 | Dublin De Quo    |    7   | moechilli     |
 | 14 | :soon:   | 2022-01-13 17:40:00 | pinjarra  |      3 |        6 | Men's Club       |    4.8 | pikey         |
 | 15 | :soon:   | 2022-01-13 17:04:00 | pinjarra  |      2 |        1 | Civvy Street     |    2.8 | pikey         |
-| 16 | --       | 2022-01-13 15:25:00 | moruya    |      4 |        1 | Mandalong Superb |    6   | looseknot     |
+| 16 | 7.0      | 2022-01-13 15:25:00 | moruya    |      4 |        1 | Mandalong Superb |    6   | looseknot     |
 | 17 | --       | 2022-01-13 15:04:00 | otaki     |      9 |        5 | Bold Bette       |    3.1 | vulture       |
 | 18 | 4.0      | 2022-01-13 13:50:00 | penola    |      2 |        6 | Aim to Please    |    6   | looseknot     |
