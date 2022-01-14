@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-14 15:50:41 +1000  
+date: 2022-01-14 16:08:15 +1000  
 ---   
 
 
@@ -106,9 +106,9 @@ date: 2022-01-14 15:50:41 +1000
 | 25 | :soon:            | 2022-01-14 16:40:00 | ballina       |      6 |        2 | Motomiss          |   4.4  | pangea             |
 | 26 | :soon:            | 2022-01-14 16:27:00 | townsville    |      4 |        5 | Ponderoso         |   4.8  | evenodds,overthrow |
 | 27 | :soon:            | 2022-01-14 16:27:00 | townsville    |      4 |        2 | Malawi Gold       |   6.5  | vulture            |
-| 28 | --                | 2022-01-14 15:45:00 | gosford       |      2 |       11 | Joyzel            |   7    | vulture            |
+| 28 | 6.0               | 2022-01-14 15:45:00 | gosford       |      2 |       11 | Joyzel            |   7    | vulture            |
 | 29 | :boom:            | 2022-01-14 15:25:00 | ballina       |      4 |        4 | Sweet Margot May  |   1.95 | milkman            |
-| 30 | --                | 2022-01-14 15:25:00 | ballina       |      4 |        1 | Pocketrocket      |   8    | vulture            |
+| 30 | 6.0               | 2022-01-14 15:25:00 | ballina       |      4 |        1 | Pocketrocket      |   8    | vulture            |
 | 31 | 10.0              | 2022-01-14 14:00:00 | geelong       |      2 |        3 | Mr Nafplion       |  18    | looseknot          |
 | 32 | :2nd_place_medal: | 2022-01-14 13:35:00 | ballina       |      1 |        2 | Dis Go Boom       |   2.7  | vulture            |
 | 33 | --                | 2022-01-14 12:12:00 | tauranga      |      3 |        5 | Cha Siu Bao       |   3.9  | looseknot          |
