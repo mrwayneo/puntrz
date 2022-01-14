@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-15 07:58:14 +1000  
+date: 2022-01-15 08:40:33 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,15 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 21:25             | 2022-01-15 | ascot R10             | 5 Universal Pleasure  |   3.4  |    -10   |
+| 20:55             | 2022-01-15 | ascot R9              | 8 Clairvoyance        |   2.3  |    -10   |
+| 20:20             | 2022-01-15 | ascot R8              | 1 Bogart              |   4    |    -10   |
+| 19:45             | 2022-01-15 | ascot R7              | 2 Cheval de Vaga      |   2.8  |    -10   |
+| 19:05             | 2022-01-15 | ascot R6              | 6 Fashion Queen       |   2.62 |    -10   |
+| 18:30             | 2022-01-15 | ascot R5              | 4 Picture Perfect     |   9.5  |    -10   |
+| 17:05             | 2022-01-15 | ascot R3              | 4 Fiery Water         |   5    |    -10   |
+| 16:23             | 2022-01-15 | ascot R2              | 5 Cold Shizzle        |   8.5  |    -10   |
+| 15:43             | 2022-01-15 | ascot R1              | 8 Upper Limits        |   6.5  |    -10   |
 | 0                 | 2022-01-13 | pinjarra R8           | 1 Noble Scot          |   0    |    -10   |
 | 0                 | 2022-01-13 | pinjarra R4           | 1 Melwood Coast       |   0    |    -10   |
 | 0                 | 2022-01-13 | pinjarra R3           | 6 Men's Club          |   0    |    -10   |
