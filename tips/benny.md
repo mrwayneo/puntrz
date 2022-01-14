@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-01-14 21:03:35 +1000  
+date: 2022-01-14 22:42:18 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 21:45             | 2022-01-14 | cranbourne R9                 | 8 Ocean's Jen         |  2.6  |    -10   |
+| :boom:            | 2022-01-14 | cranbourne R9                 | 8 Ocean's Jen         |  3.7  |     27   |
 | :2nd_place_medal: | 2022-01-12 | belmont R7                    | 5 Off Wego            |  4    |    -10   |
 | 8                 | 2022-01-12 | doomben R5                    | 6 Royal Banquet       | 11    |    -10   |
 | :boom:            | 2022-01-12 | belmont R1                    | 2 Rockin' Rupert      |  1.6  |      6   |
