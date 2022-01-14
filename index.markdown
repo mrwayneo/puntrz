@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-15 06:47:15 +1000  
+date: 2022-01-15 07:13:26 +1000  
 ---   
 
 
@@ -61,7 +61,7 @@ date: 2022-01-15 06:47:15 +1000
 
 |    | finish            | time                | track         |   race |   number | name              |   odds | tipster            |
 |---:|:------------------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:            | 2022-01-15 07:00:00 | wolverhampton |      8 |        1 | Share The Profits |   3.8  | vulture            |
+|  0 | --                | 2022-01-15 07:00:00 | wolverhampton |      8 |        1 | Share The Profits |   3.8  | vulture            |
 |  1 | :3rd_place_medal: | 2022-01-15 05:30:00 | wolverhampton |      5 |        3 | Author's Dream    |   4.4  | vulture            |
 |  2 | :3rd_place_medal: | 2022-01-15 02:50:00 | sedgefield    |      8 |        6 | Iceman Dennis     |   1.35 | evenodds,overthrow |
 |  3 | --                | 2022-01-15 02:20:00 | sedgefield    |      7 |        5 | Durragh           |   7.5  | overthrow          |

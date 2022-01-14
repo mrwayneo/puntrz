@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-01-15 06:47:10 +1000  
+date: 2022-01-15 07:13:20 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:00             | 2022-01-15 | wolverhampton R8              | 7 Pure Charmer        |  19    |      -10 |
+| 0                 | 2022-01-15 | wolverhampton R8              | 7 Pure Charmer        |   0    |      -10 |
 | 4                 | 2022-01-15 | wolverhampton R5              | 1 King's Advice       |  10    |      -10 |
 | 0                 | 2022-01-15 | lingfield R5                  | 4 Garth Rockett       |   0    |      -10 |
 | 5                 | 2022-01-14 | esperance-bay R7              | 4 Spring To Life      |   8.5  |      -10 |

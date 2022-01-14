@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-01-15 06:47:07 +1000  
+date: 2022-01-15 07:13:17 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:00             | 2022-01-15 | wolverhampton R8              | 1 Share The Profits   |   3.8  |    -10   |
+| 0                 | 2022-01-15 | wolverhampton R8              | 1 Share The Profits   |   0    |    -10   |
 | :3rd_place_medal: | 2022-01-15 | wolverhampton R5              | 3 Author's Dream      |   4.4  |    -10   |
 | :3rd_place_medal: | 2022-01-15 | sedgefield R8                 | 6 Iceman Dennis       |   1.35 |    -10   |
 | :boom:            | 2022-01-15 | huntingdon R4                 | 3 Kotmask             |   2.25 |     12.5 |

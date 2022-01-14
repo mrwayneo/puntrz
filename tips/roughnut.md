@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-01-15 06:47:12 +1000  
+date: 2022-01-15 07:13:22 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:00             | 2022-01-15 | wolverhampton R8              | 7 Pure Charmer        |  19    |    -10   |
+| 0                 | 2022-01-15 | wolverhampton R8              | 7 Pure Charmer        |   0    |    -10   |
 | 0                 | 2022-01-15 | wolverhampton R6              | 4 Isabella Ruby       |   0    |    -10   |
 | 4                 | 2022-01-15 | wolverhampton R5              | 1 King's Advice       |  10    |    -10   |
 | 0                 | 2022-01-15 | wolverhampton R3              | 5 La Duchesse         |   0    |    -10   |
