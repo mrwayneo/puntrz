@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-14 12:05:54 +1000  
+date: 2022-01-14 14:13:11 +1000  
 ---   
 
 
@@ -76,39 +76,39 @@ date: 2022-01-14 12:05:54 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6294 |    903 |  -9606.9 | 0.14 | -0.15 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7772 |    399 | -18013   | 0.05 | -0.23 |
 
-|    | finish   | time                | track         |   race |   number | name              |   odds | tipster            |
-|---:|:---------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-01-15 07:00:00 | wolverhampton |      8 |        1 | Share The Profits |   3.8  | vulture            |
-|  1 | :soon:   | 2022-01-15 05:30:00 | wolverhampton |      5 |        3 | Author's Dream    |   4.4  | vulture            |
-|  2 | :soon:   | 2022-01-15 02:50:00 | sedgefield    |      8 |        6 | Iceman Dennis     |   1.35 | evenodds,overthrow |
-|  3 | :soon:   | 2022-01-15 02:20:00 | sedgefield    |      7 |        5 | Durragh           |   7.5  | overthrow          |
-|  4 | :soon:   | 2022-01-15 02:00:00 | huntingdon    |      5 |        6 | Parisian Blue     |  15    | overthrow          |
-|  5 | :soon:   | 2022-01-15 01:30:00 | huntingdon    |      4 |        3 | Kotmask           |   3    | vulture,milkman    |
-|  6 | :soon:   | 2022-01-15 01:00:00 | huntingdon    |      3 |        2 | Barbados Blue     |   3    | overthrow          |
-|  7 | :soon:   | 2022-01-15 00:30:00 | huntingdon    |      2 |        3 | Frere D'armes     |   1.85 | overthrow          |
-|  8 | :soon:   | 2022-01-15 00:00:00 | huntingdon    |      1 |       10 | Ace Time          |   5    | looseknot          |
-|  9 | :soon:   | 2022-01-14 23:20:00 | sedgefield    |      1 |        6 | Sullivan's Brow   |   6    | overthrow          |
-| 10 | :soon:   | 2022-01-14 21:30:00 | launceston    |      9 |        1 | Heza Charmer      |   7    | overthrow          |
-| 11 | :soon:   | 2022-01-14 21:15:00 | cranbourne    |      8 |        9 | Ain'tsheserious   |   7.5  | vulture            |
-| 12 | :soon:   | 2022-01-14 20:30:00 | launceston    |      7 |        1 | Deroche           |   3.9  | pangea,icyhot      |
-| 13 | :soon:   | 2022-01-14 20:23:00 | esperance-bay |      8 |        7 | Nobel Prince      |  22    | moechilli          |
-| 14 | :soon:   | 2022-01-14 20:00:00 | launceston    |      6 |        5 | Diamond Bay       |  10    | vulture,pangea     |
-| 15 | :soon:   | 2022-01-14 19:15:00 | cranbourne    |      4 |        5 | Savileo           |   4.5  | looseknot          |
-| 16 | :soon:   | 2022-01-14 19:00:00 | launceston    |      4 |        7 | Our Shinkansen    |   2.7  | pangea,blackshadow |
-| 17 | :soon:   | 2022-01-14 18:53:00 | esperance-bay |      5 |        3 | Shadow Shifter    |  10    | looseknot          |
-| 18 | :soon:   | 2022-01-14 18:53:00 | esperance-bay |      5 |        9 | Town Hall         |   9    | looseknot          |
-| 19 | :soon:   | 2022-01-14 18:30:00 | launceston    |      3 |       10 | Shake Your Tooshy |   5    | pangea             |
-| 20 | :soon:   | 2022-01-14 18:19:00 | townsville    |      7 |        1 | Tennessee Whiskey |   2.3  | overthrow          |
-| 21 | :soon:   | 2022-01-14 17:40:00 | townsville    |      6 |        4 | Silent Explorer   |   3.5  | vulture,pangea     |
-| 22 | :soon:   | 2022-01-14 17:40:00 | townsville    |      6 |        7 | Nice Retort       |   2.4  | evenodds,overthrow |
-| 23 | :soon:   | 2022-01-14 17:40:00 | townsville    |      6 |        2 | Loud Enough       |  20    | cosmo,bluey        |
-| 24 | :soon:   | 2022-01-14 17:04:00 | townsville    |      5 |        5 | Micawber          |   3.7  | moechilli          |
-| 25 | :soon:   | 2022-01-14 16:40:00 | ballina       |      6 |        2 | Motomiss          |   4.4  | pangea             |
-| 26 | :soon:   | 2022-01-14 16:27:00 | townsville    |      4 |        5 | Ponderoso         |   4.8  | evenodds,overthrow |
-| 27 | :soon:   | 2022-01-14 16:27:00 | townsville    |      4 |        2 | Malawi Gold       |   6.5  | vulture            |
-| 28 | :soon:   | 2022-01-14 15:45:00 | gosford       |      2 |       11 | Joyzel            |   7    | vulture            |
-| 29 | :soon:   | 2022-01-14 15:25:00 | ballina       |      4 |        4 | Sweet Margot May  |   1.95 | milkman            |
-| 30 | :soon:   | 2022-01-14 15:25:00 | ballina       |      4 |        1 | Pocketrocket      |   8    | vulture            |
-| 31 | :soon:   | 2022-01-14 14:00:00 | geelong       |      2 |        3 | Mr Nafplion       |  18    | looseknot          |
-| 32 | :soon:   | 2022-01-14 13:35:00 | ballina       |      1 |        2 | Dis Go Boom       |   2.7  | vulture            |
-| 33 | :soon:   | 2022-01-14 12:12:00 | tauranga      |      3 |        5 | Cha Siu Bao       |   3.9  | looseknot          |
+|    | finish            | time                | track         |   race |   number | name              |   odds | tipster            |
+|---:|:------------------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-01-15 07:00:00 | wolverhampton |      8 |        1 | Share The Profits |   3.8  | vulture            |
+|  1 | :soon:            | 2022-01-15 05:30:00 | wolverhampton |      5 |        3 | Author's Dream    |   4.4  | vulture            |
+|  2 | :soon:            | 2022-01-15 02:50:00 | sedgefield    |      8 |        6 | Iceman Dennis     |   1.35 | evenodds,overthrow |
+|  3 | :soon:            | 2022-01-15 02:20:00 | sedgefield    |      7 |        5 | Durragh           |   7.5  | overthrow          |
+|  4 | :soon:            | 2022-01-15 02:00:00 | huntingdon    |      5 |        6 | Parisian Blue     |  15    | overthrow          |
+|  5 | :soon:            | 2022-01-15 01:30:00 | huntingdon    |      4 |        3 | Kotmask           |   3    | vulture,milkman    |
+|  6 | :soon:            | 2022-01-15 01:00:00 | huntingdon    |      3 |        2 | Barbados Blue     |   3    | overthrow          |
+|  7 | :soon:            | 2022-01-15 00:30:00 | huntingdon    |      2 |        3 | Frere D'armes     |   1.85 | overthrow          |
+|  8 | :soon:            | 2022-01-15 00:00:00 | huntingdon    |      1 |       10 | Ace Time          |   5    | looseknot          |
+|  9 | :soon:            | 2022-01-14 23:20:00 | sedgefield    |      1 |        6 | Sullivan's Brow   |   6    | overthrow          |
+| 10 | :soon:            | 2022-01-14 21:30:00 | launceston    |      9 |        1 | Heza Charmer      |   7    | overthrow          |
+| 11 | :soon:            | 2022-01-14 21:15:00 | cranbourne    |      8 |        9 | Ain'tsheserious   |   7.5  | vulture            |
+| 12 | :soon:            | 2022-01-14 20:30:00 | launceston    |      7 |        1 | Deroche           |   3.9  | pangea,icyhot      |
+| 13 | :soon:            | 2022-01-14 20:23:00 | esperance-bay |      8 |        7 | Nobel Prince      |  22    | moechilli          |
+| 14 | :soon:            | 2022-01-14 20:00:00 | launceston    |      6 |        5 | Diamond Bay       |  10    | vulture,pangea     |
+| 15 | :soon:            | 2022-01-14 19:15:00 | cranbourne    |      4 |        5 | Savileo           |   4.5  | looseknot          |
+| 16 | :soon:            | 2022-01-14 19:00:00 | launceston    |      4 |        7 | Our Shinkansen    |   2.7  | pangea,blackshadow |
+| 17 | :soon:            | 2022-01-14 18:53:00 | esperance-bay |      5 |        3 | Shadow Shifter    |  10    | looseknot          |
+| 18 | :soon:            | 2022-01-14 18:53:00 | esperance-bay |      5 |        9 | Town Hall         |   9    | looseknot          |
+| 19 | :soon:            | 2022-01-14 18:30:00 | launceston    |      3 |       10 | Shake Your Tooshy |   5    | pangea             |
+| 20 | :soon:            | 2022-01-14 18:19:00 | townsville    |      7 |        1 | Tennessee Whiskey |   2.3  | overthrow          |
+| 21 | :soon:            | 2022-01-14 17:40:00 | townsville    |      6 |        4 | Silent Explorer   |   3.5  | vulture,pangea     |
+| 22 | :soon:            | 2022-01-14 17:40:00 | townsville    |      6 |        7 | Nice Retort       |   2.4  | evenodds,overthrow |
+| 23 | :soon:            | 2022-01-14 17:40:00 | townsville    |      6 |        2 | Loud Enough       |  20    | cosmo,bluey        |
+| 24 | :soon:            | 2022-01-14 17:04:00 | townsville    |      5 |        5 | Micawber          |   3.7  | moechilli          |
+| 25 | :soon:            | 2022-01-14 16:40:00 | ballina       |      6 |        2 | Motomiss          |   4.4  | pangea             |
+| 26 | :soon:            | 2022-01-14 16:27:00 | townsville    |      4 |        5 | Ponderoso         |   4.8  | evenodds,overthrow |
+| 27 | :soon:            | 2022-01-14 16:27:00 | townsville    |      4 |        2 | Malawi Gold       |   6.5  | vulture            |
+| 28 | :soon:            | 2022-01-14 15:45:00 | gosford       |      2 |       11 | Joyzel            |   7    | vulture            |
+| 29 | :soon:            | 2022-01-14 15:25:00 | ballina       |      4 |        4 | Sweet Margot May  |   1.95 | milkman            |
+| 30 | :soon:            | 2022-01-14 15:25:00 | ballina       |      4 |        1 | Pocketrocket      |   8    | vulture            |
+| 31 | --                | 2022-01-14 14:00:00 | geelong       |      2 |        3 | Mr Nafplion       |  18    | looseknot          |
+| 32 | :2nd_place_medal: | 2022-01-14 13:35:00 | ballina       |      1 |        2 | Dis Go Boom       |   2.7  | vulture            |
+| 33 | --                | 2022-01-14 12:12:00 | tauranga      |      3 |        5 | Cha Siu Bao       |   3.9  | looseknot          |

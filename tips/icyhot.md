@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-01-14 12:05:48 +1000  
+date: 2022-01-14 14:13:06 +1000  
 categories: None 
 ---   
 
@@ -31,8 +31,8 @@ categories: None
 | 5                 | 2022-01-01 | sha-tin R10             | 3 Blaze Warrior       |  0    |    -10   |
 | :boom:            | 2022-01-01 | sha-tin R8              | 5 Master Eight        |  1.3  |      3   |
 | :boom:            | 2022-01-01 | geraldton R5            | 3 Three Sessions      |  2.1  |     11   |
-| :2nd_place_medal: | 2022-01-01 | ascot R6                | 10 The Front Bar      |  2.4  |    -10   |
 | :boom:            | 2022-01-01 | ascot R6                | 6 Miss Conteki        |  2.2  |     12   |
+| :2nd_place_medal: | 2022-01-01 | ascot R6                | 10 The Front Bar      |  2.4  |    -10   |
 | :3rd_place_medal: | 2022-01-01 | murray-bdge R7          | 12 Desired            | 14    |    -10   |
 | :boom:            | 2022-01-01 | darwin R2               | 5 Bel's Banner        |  1.5  |      5   |
 | 11                | 2022-01-01 | flemington R8           | 2 Yulong January      |  9.5  |    -10   |
@@ -96,8 +96,8 @@ categories: None
 | :2nd_place_medal: | 2021-11-13 | ascot R4                | 4 Ginger Flyer        |  4.2  |    -10   |
 | :3rd_place_medal: | 2021-11-13 | ascot R3                | 2 Son Of A God        | 26    |    -10   |
 | :boom:            | 2021-11-13 | doomben R6              | 6 Lyrical Girl        |  3.5  |     25   |
-| :boom:            | 2021-11-13 | ascot R1                | 6 Written Matter      |  5.1  |     41   |
 | 5                 | 2021-11-13 | ascot R1                | 4 Nowhiteflag         |  1.95 |    -10   |
+| :boom:            | 2021-11-13 | ascot R1                | 6 Written Matter      |  5.1  |     41   |
 | :boom:            | 2021-11-13 | gold-coast R2           | 1 Sir Rocket          |  1.7  |      7   |
 | :boom:            | 2021-11-11 | turffontein R3          | 5 Sound Of Summer     |  2.1  |     11   |
 | 6                 | 2021-11-10 | murray-bdge R2          | 5 French Fields       |  2    |    -10   |
@@ -397,8 +397,8 @@ categories: None
 | :3rd_place_medal: | 2021-02-24 | launceston R3           | 6 Crackerjack Lady    |  8    |    -10   |
 | :boom:            | 2021-02-13 | flemington R5           | 4 Zou Dancer          |  3.5  |     25   |
 | :boom:            | 2021-02-12 | moonee-valley R4        | 7 Starcaster          |  7.6  |     66   |
-| :boom:            | 2021-02-12 | townsville R8           | 6 Disco Mo            |  5.9  |     49   |
 | :2nd_place_medal: | 2021-02-12 | townsville R8           | 10 Bold Eos           |  2.6  |    -10   |
+| :boom:            | 2021-02-12 | townsville R8           | 6 Disco Mo            |  5.9  |     49   |
 | :2nd_place_medal: | 2021-02-09 | mackay R2               | 3 Durif               |  2.5  |    -10   |
 | :boom:            | 2021-02-09 | mackay R2               | 2 Brad                |  1.4  |      4   |
 | :boom:            | 2021-02-09 | mackay R1               | 2 Carlin Trend        |  3.1  |     21   |
