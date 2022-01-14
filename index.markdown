@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-14 16:33:11 +1000  
+date: 2022-01-14 21:06:28 +1000  
 ---   
 
 
@@ -21,7 +21,7 @@ date: 2022-01-14 16:33:11 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     13 |      0 |     -130 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      0 |     -130 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     34 |      0 |     -340 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     34 |      2 |     -256 | 0.06 | -0.75 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     45 |      0 |     -450 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -90,20 +90,20 @@ date: 2022-01-14 16:33:11 +1000
 |  9 | :soon:            | 2022-01-14 23:20:00 | sedgefield    |      1 |        6 | Sullivan's Brow   |   6    | overthrow          |
 | 10 | :soon:            | 2022-01-14 21:30:00 | launceston    |      9 |        1 | Heza Charmer      |   7    | overthrow          |
 | 11 | :soon:            | 2022-01-14 21:15:00 | cranbourne    |      8 |        9 | Ain'tsheserious   |   7.5  | vulture            |
-| 12 | :soon:            | 2022-01-14 20:30:00 | launceston    |      7 |        1 | Deroche           |   3.9  | pangea,icyhot      |
-| 13 | :soon:            | 2022-01-14 20:23:00 | esperance-bay |      8 |        7 | Nobel Prince      |  22    | moechilli          |
-| 14 | :soon:            | 2022-01-14 20:00:00 | launceston    |      6 |        5 | Diamond Bay       |  10    | vulture,pangea     |
-| 15 | :soon:            | 2022-01-14 19:15:00 | cranbourne    |      4 |        5 | Savileo           |   4.5  | looseknot          |
-| 16 | :soon:            | 2022-01-14 19:00:00 | launceston    |      4 |        7 | Our Shinkansen    |   2.7  | pangea,blackshadow |
-| 17 | :soon:            | 2022-01-14 18:53:00 | esperance-bay |      5 |        3 | Shadow Shifter    |  10    | looseknot          |
-| 18 | :soon:            | 2022-01-14 18:53:00 | esperance-bay |      5 |        9 | Town Hall         |   9    | looseknot          |
-| 19 | :soon:            | 2022-01-14 18:30:00 | launceston    |      3 |       10 | Shake Your Tooshy |   5    | pangea             |
-| 20 | :soon:            | 2022-01-14 18:19:00 | townsville    |      7 |        1 | Tennessee Whiskey |   2.3  | overthrow          |
-| 21 | :soon:            | 2022-01-14 17:40:00 | townsville    |      6 |        4 | Silent Explorer   |   3.5  | vulture,pangea     |
-| 22 | :soon:            | 2022-01-14 17:40:00 | townsville    |      6 |        7 | Nice Retort       |   2.4  | evenodds,overthrow |
-| 23 | :soon:            | 2022-01-14 17:40:00 | townsville    |      6 |        2 | Loud Enough       |  20    | cosmo,bluey        |
-| 24 | :soon:            | 2022-01-14 17:04:00 | townsville    |      5 |        5 | Micawber          |   3.7  | moechilli          |
-| 25 | :soon:            | 2022-01-14 16:40:00 | ballina       |      6 |        2 | Motomiss          |   4.4  | pangea             |
+| 12 | :3rd_place_medal: | 2022-01-14 20:30:00 | launceston    |      7 |        1 | Deroche           |   3.9  | pangea,icyhot      |
+| 13 | --                | 2022-01-14 20:23:00 | esperance-bay |      8 |        7 | Nobel Prince      |  22    | moechilli          |
+| 14 | 11.0              | 2022-01-14 20:00:00 | launceston    |      6 |        5 | Diamond Bay       |  10    | vulture,pangea     |
+| 15 | :2nd_place_medal: | 2022-01-14 19:15:00 | cranbourne    |      4 |        5 | Savileo           |   4.5  | looseknot          |
+| 16 | 6.0               | 2022-01-14 19:00:00 | launceston    |      4 |        7 | Our Shinkansen    |   2.7  | pangea,blackshadow |
+| 17 | :2nd_place_medal: | 2022-01-14 18:53:00 | esperance-bay |      5 |        3 | Shadow Shifter    |  10    | looseknot          |
+| 18 | 10.0              | 2022-01-14 18:53:00 | esperance-bay |      5 |        9 | Town Hall         |   9    | looseknot          |
+| 19 | 7.0               | 2022-01-14 18:30:00 | launceston    |      3 |       10 | Shake Your Tooshy |   5    | pangea             |
+| 20 | 7.0               | 2022-01-14 18:19:00 | townsville    |      7 |        1 | Tennessee Whiskey |   2.3  | overthrow          |
+| 21 | :2nd_place_medal: | 2022-01-14 17:40:00 | townsville    |      6 |        4 | Silent Explorer   |   3.5  | vulture,pangea     |
+| 22 | 5.0               | 2022-01-14 17:40:00 | townsville    |      6 |        7 | Nice Retort       |   2.4  | evenodds,overthrow |
+| 23 | 7.0               | 2022-01-14 17:40:00 | townsville    |      6 |        2 | Loud Enough       |  20    | cosmo,bluey        |
+| 24 | 6.0               | 2022-01-14 17:04:00 | townsville    |      5 |        5 | Micawber          |   3.7  | moechilli          |
+| 25 | :3rd_place_medal: | 2022-01-14 16:40:00 | ballina       |      6 |        2 | Motomiss          |   4.4  | pangea             |
 | 26 | 4.0               | 2022-01-14 16:27:00 | townsville    |      4 |        5 | Ponderoso         |   4.8  | evenodds,overthrow |
 | 27 | :3rd_place_medal: | 2022-01-14 16:27:00 | townsville    |      4 |        2 | Malawi Gold       |   6.5  | vulture            |
 | 28 | 6.0               | 2022-01-14 15:45:00 | gosford       |      2 |       11 | Joyzel            |   7    | vulture            |

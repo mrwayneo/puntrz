@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-01-14 16:33:06 +1000  
+date: 2022-01-14 21:03:40 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 20:23             | 2022-01-14 | esperance-bay R8       | 7 Nobel Prince       |  22    |    -10   |
-| 17:04             | 2022-01-14 | townsville R5          | 5 Micawber           |   3.7  |    -10   |
+| 0                 | 2022-01-14 | esperance-bay R8       | 7 Nobel Prince       |   0    |    -10   |
+| 6                 | 2022-01-14 | townsville R5          | 5 Micawber           |   3.7  |    -10   |
 | 0                 | 2022-01-13 | kilcoy R8              | 6 Dublin De Quo      |   0    |    -10   |
 | :boom:            | 2022-01-09 | newcastle R3           | 5 Bavington Bob      |   2.7  |     17   |
 | 5                 | 2022-01-02 | cranbourne R8          | 1 Lord Sundowner     |   7.5  |    -10   |
