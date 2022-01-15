@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-15 14:34:27 +1000  
+date: 2022-01-15 14:49:33 +1000  
 ---   
 
 
@@ -164,8 +164,8 @@ date: 2022-01-15 14:34:27 +1000
 | 80 | :soon:            | 2022-01-15 15:00:00 | gold-coast       |      4 |       10 | Lady Of Luxury     |  10    | benny,pangea        |
 | 81 | :soon:            | 2022-01-15 15:00:00 | gold-coast       |      4 |        3 | Kiku               |   6    | pangea              |
 | 82 | :soon:            | 2022-01-15 14:50:00 | trentham         |      8 |        5 | Entriviere         |   1.6  | vulture             |
-| 83 | :soon:            | 2022-01-15 14:40:00 | rosehill-gardens |      5 |        5 | Niffler            |   2.35 | milkman             |
-| 84 | :soon:            | 2022-01-15 14:38:00 | warwick          |      3 |        3 | Cold Hard Fact     |   3.2  | vulture             |
+| 83 | :3rd_place_medal: | 2022-01-15 14:40:00 | rosehill-gardens |      5 |        5 | Niffler            |   2.35 | milkman             |
+| 84 | --                | 2022-01-15 14:38:00 | warwick          |      3 |        3 | Cold Hard Fact     |   3.2  | vulture             |
 | 85 | 4.0               | 2022-01-15 14:25:00 | gold-coast       |      3 |        1 | Parry Sound        |   2.5  | vulture,jmac        |
 | 86 | 4.0               | 2022-01-15 14:18:00 | flemington       |      4 |        1 | Can't Go Wong      |   4.33 | vulture,milkman     |
 | 87 | 13.0              | 2022-01-15 14:18:00 | flemington       |      4 |       10 | Tuki Twelve        |  41    | cosmo,bob           |
