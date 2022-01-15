@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-15 21:29:57 +1000  
+date: 2022-01-15 21:44:54 +1000  
 ---   
 
 
@@ -25,7 +25,7 @@ date: 2022-01-15 21:29:57 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     31 |      4 |   -157   | 0.13 | -0.51 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      0 |   -180   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     84 |      3 |   -284   | 0.04 | -0.34 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     59 |      2 |   -528   | 0.03 | -0.89 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     59 |      3 |   -510   | 0.05 | -0.86 |
 
 ##### Form Last 20 tips   
 
@@ -118,7 +118,7 @@ date: 2022-01-15 21:29:57 +1000
 | 34 | :soon:            | 2022-01-15 23:25:00 | turffontein      |      5 |        1 | Ablaan             |   0    | milkman             |
 | 35 | :soon:            | 2022-01-15 22:45:00 | fairyhouse       |      1 |        2 | Cherif De L'Isle   |   7    | pangea              |
 | 36 | :soon:            | 2022-01-15 22:45:00 | fairyhouse       |      1 |        7 | It Could Be You    |   7    | looseknot           |
-| 37 | --                | 2022-01-15 21:25:00 | ascot            |     10 |        5 | Universal Pleasure |   3.4  | evenodds,pikey      |
+| 37 | 10.0              | 2022-01-15 21:25:00 | ascot            |     10 |        5 | Universal Pleasure |   3.4  | evenodds,pikey      |
 | 38 | 7.0               | 2022-01-15 20:55:00 | ascot            |      9 |        8 | Clairvoyance       |   2.3  | milkman,pikey       |
 | 39 | :boom:            | 2022-01-15 20:55:00 | ascot            |      9 |        6 | Miss Conteki       |   3    | pangea,icyhot       |
 | 40 | :2nd_place_medal: | 2022-01-15 20:55:00 | ascot            |      9 |        9 | Iseered Iseered    |   6    | milkman             |
