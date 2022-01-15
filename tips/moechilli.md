@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-01-16 09:57:28 +1000  
+date: 2022-01-16 10:57:21 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
+| 16:35             | 2022-01-16 | strathalbyn R5         | 5 Gogolf Guru        |   9    |    -10   |
 | 0                 | 2022-01-14 | esperance-bay R8       | 7 Nobel Prince       |   0    |    -10   |
 | 6                 | 2022-01-14 | townsville R5          | 5 Micawber           |   3.7  |    -10   |
 | 0                 | 2022-01-13 | kilcoy R8              | 6 Dublin De Quo      |   0    |    -10   |
