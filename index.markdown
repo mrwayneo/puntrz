@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-15 11:59:19 +1000  
+date: 2022-01-15 12:14:26 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-01-15 11:59:19 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      1 |       40 | 0.25 |  1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      1 |       35 | 0.25 |  0.88 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      3 |      0 |      -30 | 0    | -1    |
@@ -176,6 +176,6 @@ date: 2022-01-15 11:59:19 +1000
 | 92 | :soon:   | 2022-01-15 12:47:00 | murray-bdge      |      1 |        1 | Shamino            |   8    | pangea              |
 | 93 | :soon:   | 2022-01-15 12:33:00 | flemington       |      1 |        1 | Jamarra            |   8.5  | vulture             |
 | 94 | :soon:   | 2022-01-15 12:20:00 | rosehill-gardens |      1 |        5 | Kir Royale         |   2.4  | milkman             |
-| 95 | :soon:   | 2022-01-15 12:10:00 | wingatui         |      5 |       10 | Robina Joy         |   8    | looseknot           |
+| 95 | --       | 2022-01-15 12:10:00 | wingatui         |      5 |       10 | Robina Joy         |   8    | looseknot           |
 | 96 | :boom:   | 2022-01-15 11:55:00 | trentham         |      3 |        4 | Hanalei            |   2.9  | vulture             |
 | 97 | :boom:   | 2022-01-15 11:35:00 | wingatui         |      4 |        7 | Sharpie            |   5    | looseknot           |
