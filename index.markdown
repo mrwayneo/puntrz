@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-15 19:34:51 +1000  
+date: 2022-01-15 21:20:31 +1000  
 ---   
 
 
@@ -9,23 +9,23 @@ date: 2022-01-15 19:34:51 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     32 |      2 |      147 | 0.06 |  0.46 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     34 |      5 |       55 | 0.15 |  0.16 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      4 |      1 |       49 | 0.25 |  1.23 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      1 |       35 | 0.25 |  0.88 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      6 |      2 |       28 | 0.33 |  0.47 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      3 |        8 | 0.33 |  0.09 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      1 |       -1 | 0.25 | -0.02 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    | -1    |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      3 |      0 |      -30 | 0    | -1    |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |      -60 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      1 |      -66 | 0.11 | -0.73 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      4 |      -99 | 0.17 | -0.41 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      0 |     -180 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     31 |      3 |     -194 | 0.1  | -0.63 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     84 |      3 |     -284 | 0.04 | -0.34 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     59 |      2 |     -528 | 0.03 | -0.89 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     32 |      2 |    147   | 0.06 |  0.46 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     34 |      6 |     92   | 0.18 |  0.27 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      4 |      1 |     49   | 0.25 |  1.23 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      1 |     35   | 0.25 |  0.88 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      2 |     30.5 | 1    |  1.53 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      6 |      2 |     28   | 0.33 |  0.47 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      3 |      8   | 0.33 |  0.09 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      1 |     -1   | 0.25 | -0.02 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      3 |     -2   | 0.33 | -0.02 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |    -10   | 0    | -1    |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      3 |      0 |    -30   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      5 |    -56   | 0.21 | -0.23 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |    -60   | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     31 |      4 |   -157   | 0.13 | -0.51 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      0 |   -180   | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     84 |      3 |   -284   | 0.04 | -0.34 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     59 |      2 |   -528   | 0.03 | -0.89 |
 
 ##### Form Last 20 tips   
 
@@ -119,13 +119,13 @@ date: 2022-01-15 19:34:51 +1000
 | 35 | :soon:            | 2022-01-15 22:45:00 | fairyhouse       |      1 |        2 | Cherif De L'Isle   |   7    | pangea              |
 | 36 | :soon:            | 2022-01-15 22:45:00 | fairyhouse       |      1 |        7 | It Could Be You    |   7    | looseknot           |
 | 37 | :soon:            | 2022-01-15 21:25:00 | ascot            |     10 |        5 | Universal Pleasure |   3.4  | evenodds,pikey      |
-| 38 | :soon:            | 2022-01-15 20:55:00 | ascot            |      9 |        8 | Clairvoyance       |   2.3  | milkman,pikey       |
-| 39 | :soon:            | 2022-01-15 20:55:00 | ascot            |      9 |        6 | Miss Conteki       |   3    | pangea,icyhot       |
-| 40 | :soon:            | 2022-01-15 20:55:00 | ascot            |      9 |        9 | Iseered Iseered    |   6    | milkman             |
-| 41 | :soon:            | 2022-01-15 20:20:00 | ascot            |      8 |        1 | Bogart             |   4    | vulture,pikey       |
-| 42 | :soon:            | 2022-01-15 20:20:00 | ascot            |      8 |        5 | Big Bada Boom      |   6    | pangea              |
-| 43 | :soon:            | 2022-01-15 19:45:00 | ascot            |      7 |        2 | Cheval de Vaga     |   2.8  | pikey               |
-| 44 | --                | 2022-01-15 19:30:00 | singapore        |     10 |        4 | Lim's Kosciuszko   |   0    | icyhot              |
+| 38 | 7.0               | 2022-01-15 20:55:00 | ascot            |      9 |        8 | Clairvoyance       |   2.3  | milkman,pikey       |
+| 39 | :boom:            | 2022-01-15 20:55:00 | ascot            |      9 |        6 | Miss Conteki       |   3    | pangea,icyhot       |
+| 40 | :2nd_place_medal: | 2022-01-15 20:55:00 | ascot            |      9 |        9 | Iseered Iseered    |   6    | milkman             |
+| 41 | :boom:            | 2022-01-15 20:20:00 | ascot            |      8 |        1 | Bogart             |   4    | vulture,pikey       |
+| 42 | 5.0               | 2022-01-15 20:20:00 | ascot            |      8 |        5 | Big Bada Boom      |   6    | pangea              |
+| 43 | :boom:            | 2022-01-15 19:45:00 | ascot            |      7 |        2 | Cheval de Vaga     |   2.8  | pikey               |
+| 44 | :boom:            | 2022-01-15 19:30:00 | singapore        |     10 |        4 | Lim's Kosciuszko   |   0    | icyhot              |
 | 45 | :boom:            | 2022-01-15 19:05:00 | ascot            |      6 |        6 | Fashion Queen      |   2.62 | pikey               |
 | 46 | 4.0               | 2022-01-15 18:48:00 | darwin           |      5 |        1 | Raazou             |   2.35 | overthrow           |
 | 47 | 7.0               | 2022-01-15 18:30:00 | ascot            |      5 |        4 | Picture Perfect    |   9.5  | pangea,pikey        |
