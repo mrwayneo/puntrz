@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-15 14:19:24 +1000  
+date: 2022-01-15 14:34:27 +1000  
 ---   
 
 
@@ -9,23 +9,23 @@ date: 2022-01-15 14:19:24 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      4 |      1 |       49 | 0.25 |  1.23 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      1 |       35 | 0.25 |  0.88 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      3 |      0 |      -30 | 0    | -1    |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      4 |      0 |      -40 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |      -60 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      6 |      0 |      -60 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      9 |      0 |      -90 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     32 |      1 |     -133 | 0.03 | -0.42 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      0 |     -180 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      1 |     -211 | 0.04 | -0.88 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     31 |      0 |     -310 | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     32 |      0 |     -320 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     34 |      0 |     -340 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     59 |      1 |     -549 | 0.02 | -0.93 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     84 |      0 |     -840 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     84 |      2 |     -564 | 0.02 | -0.67 |
 
 ##### Form Last 20 tips   
 
@@ -166,10 +166,10 @@ date: 2022-01-15 14:19:24 +1000
 | 82 | :soon:            | 2022-01-15 14:50:00 | trentham         |      8 |        5 | Entriviere         |   1.6  | vulture             |
 | 83 | :soon:            | 2022-01-15 14:40:00 | rosehill-gardens |      5 |        5 | Niffler            |   2.35 | milkman             |
 | 84 | :soon:            | 2022-01-15 14:38:00 | warwick          |      3 |        3 | Cold Hard Fact     |   3.2  | vulture             |
-| 85 | :soon:            | 2022-01-15 14:25:00 | gold-coast       |      3 |        1 | Parry Sound        |   2.5  | vulture,jmac        |
-| 86 | --                | 2022-01-15 14:18:00 | flemington       |      4 |        1 | Can't Go Wong      |   4.33 | vulture,milkman     |
-| 87 | --                | 2022-01-15 14:18:00 | flemington       |      4 |       10 | Tuki Twelve        |  41    | cosmo,bob           |
-| 88 | --                | 2022-01-15 14:18:00 | flemington       |      4 |        5 | Elzamee            |   5    | evenodds,lago       |
+| 85 | 4.0               | 2022-01-15 14:25:00 | gold-coast       |      3 |        1 | Parry Sound        |   2.5  | vulture,jmac        |
+| 86 | 4.0               | 2022-01-15 14:18:00 | flemington       |      4 |        1 | Can't Go Wong      |   4.33 | vulture,milkman     |
+| 87 | 13.0              | 2022-01-15 14:18:00 | flemington       |      4 |       10 | Tuki Twelve        |  41    | cosmo,bob           |
+| 88 | 7.0               | 2022-01-15 14:18:00 | flemington       |      4 |        5 | Elzamee            |   5    | evenodds,lago       |
 | 89 | 4.0               | 2022-01-15 13:50:00 | gold-coast       |      2 |        1 | Reloaded           |   7.5  | benny,jmac          |
 | 90 | :2nd_place_medal: | 2022-01-15 13:40:00 | trentham         |      6 |        1 | Pareanui Bay       |   1.95 | milkman             |
 | 91 | 5.0               | 2022-01-15 13:08:00 | flemington       |      2 |        8 | Perito Moreno      |  10    | vulture             |
