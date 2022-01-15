@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-15 12:59:17 +1000  
+date: 2022-01-15 13:14:30 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-01-15 12:59:17 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      1 |       40 | 0.25 |  1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      1 |       35 | 0.25 |  0.88 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      3 |      0 |      -30 | 0    | -1    |
@@ -24,7 +24,7 @@ date: 2022-01-15 12:59:17 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     31 |      0 |     -310 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     32 |      0 |     -320 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     34 |      0 |     -340 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     59 |      0 |     -590 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     59 |      1 |     -549 | 0.02 | -0.93 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     84 |      0 |     -840 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -172,8 +172,8 @@ date: 2022-01-15 12:59:17 +1000
 | 88 | :soon:            | 2022-01-15 14:18:00 | flemington       |      4 |        5 | Elzamee            |   5    | evenodds,lago       |
 | 89 | :soon:            | 2022-01-15 13:50:00 | gold-coast       |      2 |        1 | Reloaded           |   7.5  | benny,jmac          |
 | 90 | :soon:            | 2022-01-15 13:40:00 | trentham         |      6 |        1 | Pareanui Bay       |   1.95 | milkman             |
-| 91 | :soon:            | 2022-01-15 13:08:00 | flemington       |      2 |        8 | Perito Moreno      |  10    | vulture             |
-| 92 | --                | 2022-01-15 12:47:00 | murray-bdge      |      1 |        1 | Shamino            |   8    | pangea              |
+| 91 | --                | 2022-01-15 13:08:00 | flemington       |      2 |        8 | Perito Moreno      |  10    | vulture             |
+| 92 | 6.0               | 2022-01-15 12:47:00 | murray-bdge      |      1 |        1 | Shamino            |   8    | pangea              |
 | 93 | :3rd_place_medal: | 2022-01-15 12:33:00 | flemington       |      1 |        1 | Jamarra            |   8.5  | vulture             |
 | 94 | :3rd_place_medal: | 2022-01-15 12:20:00 | rosehill-gardens |      1 |        5 | Kir Royale         |   2.4  | milkman             |
 | 95 | 4.0               | 2022-01-15 12:10:00 | wingatui         |      5 |       10 | Robina Joy         |   8    | looseknot           |
