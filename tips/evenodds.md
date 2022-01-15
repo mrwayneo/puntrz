@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2022-01-15 22:12:56 +1000  
+date: 2022-01-16 09:57:24 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
-| Last 28 Days   |     53 |     10 |   -282   | 0.19 | -0.53 |
-| Last 6 Months  |    610 |    168 |  -1260.7 | 0.28 | -0.21 |
-| Since Jan 2020 |   1299 |    363 |  -2571.5 | 0.28 | -0.2  |
+| Last 7 Days    |     13 |      3 |    -32   | 0.23 | -0.25 |
+| Last 28 Days   |     61 |     12 |   -301.5 | 0.2  | -0.49 |
+| Last 6 Months  |    619 |    171 |  -1252.7 | 0.28 | -0.2  |
+| Since Jan 2020 |   1308 |    366 |  -2563.5 | 0.28 | -0.2  |
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 02:57             | 2022-01-16 | wetherby R7            | 8 Roc Of Dundee       |   4.8  |    -10   |
-| 00:03             | 2022-01-16 | wetherby R2            | 4 Forpaddytheplumber  |   4.4  |    -10   |
+| 0                 | 2022-01-16 | wetherby R7            | 8 Roc Of Dundee       |   0    |    -10   |
+| 0                 | 2022-01-16 | wetherby R2            | 4 Forpaddytheplumber  |   0    |    -10   |
 | 10                | 2022-01-15 | ascot R10              | 5 Universal Pleasure  |   3.4  |    -10   |
 | :boom:            | 2022-01-15 | darwin R3              | 5 Mr Cashman          |   3.1  |     21   |
 | :boom:            | 2022-01-15 | gold-coast R5          | 14 Isotope            |   2.8  |     18   |

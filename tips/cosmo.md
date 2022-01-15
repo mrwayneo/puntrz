@@ -1,26 +1,26 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-01-15 22:12:59 +1000  
+date: 2022-01-16 09:57:27 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     33 |      0 |     -330 | 0    | -1    |
-| Last 28 Days   |    291 |     15 |     -449 | 0.05 | -0.15 |
-| Last 6 Months  |   2646 |    140 |    -2975 | 0.05 | -0.11 |
-| Since Jan 2020 |   5125 |    301 |      179 | 0.06 |  0    |
+| Last 7 Days    |     64 |      2 |     -173 | 0.03 | -0.27 |
+| Last 28 Days   |    311 |     17 |     -182 | 0.05 | -0.06 |
+| Last 6 Months  |   2678 |    142 |    -2828 | 0.05 | -0.11 |
+| Since Jan 2020 |   5157 |    303 |      326 | 0.06 |  0.01 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:15             | 2022-01-16 | chelmsford-city R5            | 3 Woke Media          |  15    |      -10 |
-| 05:15             | 2022-01-16 | chelmsford-city R5            | 5 Magical Mile        |  12    |      -10 |
-| 01:20             | 2022-01-16 | lingfield R5                  | 5 Corinthia Knight    |  17    |      -10 |
-| 00:10             | 2022-01-16 | lingfield R3                  | 9 Mayson Mount        |  31    |      -10 |
-| 23:27             | 2022-01-15 | wetherby R1                   | 7 Seven Arches        |  15    |      -10 |
-| 23:27             | 2022-01-15 | wetherby R1                   | 4 Fishing For Likes   | 126    |      -10 |
+| 0                 | 2022-01-16 | chelmsford-city R5            | 3 Woke Media          |   0    |      -10 |
+| 0                 | 2022-01-16 | chelmsford-city R5            | 5 Magical Mile        |   0    |      -10 |
+| 0                 | 2022-01-16 | lingfield R5                  | 5 Corinthia Knight    |   0    |      -10 |
+| 0                 | 2022-01-16 | lingfield R3                  | 9 Mayson Mount        |   0    |      -10 |
+| 0                 | 2022-01-15 | wetherby R1                   | 7 Seven Arches        |   0    |      -10 |
+| 0                 | 2022-01-15 | wetherby R1                   | 4 Fishing For Likes   |   0    |      -10 |
 | 7                 | 2022-01-15 | ascot R10                     | 6 King's Authority    |  17    |      -10 |
 | :3rd_place_medal: | 2022-01-15 | ascot R9                      | 2 Floyd               | 126    |      -10 |
 | 9                 | 2022-01-15 | ascot R8                      | 4 Superior Smile      |  14    |      -10 |

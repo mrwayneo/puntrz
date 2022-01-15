@@ -1,40 +1,40 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-01-15 22:12:57 +1000  
+date: 2022-01-16 09:57:26 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     40 |      6 |   -257.2 | 0.15 | -0.64 |
-| Last 28 Days   |    275 |     63 |  -1089.4 | 0.23 | -0.4  |
-| Last 6 Months  |   2177 |    547 |  -2607.6 | 0.25 | -0.12 |
-| Since Jan 2020 |   4879 |   1254 |  -4426.5 | 0.26 | -0.09 |
+| Last 7 Days    |     66 |     10 |   -152.5 | 0.15 | -0.23 |
+| Last 28 Days   |    302 |     66 |   -997.9 | 0.22 | -0.33 |
+| Last 6 Months  |   2211 |    553 |  -2515.6 | 0.25 | -0.11 |
+| Since Jan 2020 |   4913 |   1260 |  -4334.5 | 0.26 | -0.09 |
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 02:57             | 2022-01-16 | wetherby R7            | 8 Roc Of Dundee       |   4.8  |    -10   |
-| 02:50             | 2022-01-16 | kempton R7             | 2 First Street        |   6    |    -10   |
-| 02:35             | 2022-01-16 | warwick R6             | 7 Riggs               |   3.3  |    -10   |
-| 02:00             | 2022-01-16 | warwick R5             | 8 Padleyourowncanoe   |   8    |    -10   |
-| 01:40             | 2022-01-16 | kempton R5             | 4 Marie's Rock        |   7    |    -10   |
-| 01:40             | 2022-01-16 | kempton R5             | 7 Gelino Bello        |   8    |    -10   |
-| 01:25             | 2022-01-16 | warwick R4             | 7 Viva Lavilla        |   6    |    -10   |
-| 01:25             | 2022-01-16 | warwick R4             | 6 Surrey Quest        |   3    |    -10   |
-| 01:05             | 2022-01-16 | kempton R4             | 4 Rouge Vif           |   4.6  |    -10   |
-| 00:57             | 2022-01-16 | fairyhouse R5          | 6 Hauturiere          |   3    |    -10   |
-| 00:32             | 2022-01-16 | kempton R3             | 1 Falco Blitz         |   7    |    -10   |
-| 00:18             | 2022-01-16 | warwick R2             | 3 Fast Buck           |   7.5  |    -10   |
-| 00:03             | 2022-01-16 | wetherby R2            | 4 Forpaddytheplumber  |   4.4  |    -10   |
-| 23:55             | 2022-01-15 | kempton R2             | 2 Milan Bridge        |   2.85 |    -10   |
-| 23:55             | 2022-01-15 | kempton R2             | 6 Major Sting         |  23    |    -10   |
-| 23:50             | 2022-01-15 | fairyhouse R3          | 2 Annamix             |   5.5  |    -10   |
-| 23:40             | 2022-01-15 | warwick R1             | 6 Greatest Star       |   4.8  |    -10   |
-| 23:40             | 2022-01-15 | warwick R1             | 2 Flinteur Sacre      |   6    |    -10   |
-| 23:27             | 2022-01-15 | wetherby R1            | 1 Cartonne            |   7.5  |    -10   |
-| 23:27             | 2022-01-15 | wetherby R1            | 6 Our Jet             |   1.55 |    -10   |
+| 0                 | 2022-01-16 | wetherby R7            | 8 Roc Of Dundee       |   0    |    -10   |
+| 0                 | 2022-01-16 | kempton R7             | 2 First Street        |   0    |    -10   |
+| 0                 | 2022-01-16 | warwick R6             | 7 Riggs               |   0    |    -10   |
+| 0                 | 2022-01-16 | warwick R5             | 8 Padleyourowncanoe   |   0    |    -10   |
+| 0                 | 2022-01-16 | kempton R5             | 4 Marie's Rock        |   0    |    -10   |
+| 0                 | 2022-01-16 | kempton R5             | 7 Gelino Bello        |   0    |    -10   |
+| 0                 | 2022-01-16 | warwick R4             | 7 Viva Lavilla        |   0    |    -10   |
+| 0                 | 2022-01-16 | warwick R4             | 6 Surrey Quest        |   0    |    -10   |
+| 0                 | 2022-01-16 | kempton R4             | 4 Rouge Vif           |   0    |    -10   |
+| 0                 | 2022-01-16 | fairyhouse R5          | 6 Hauturiere          |   0    |    -10   |
+| 0                 | 2022-01-16 | kempton R3             | 1 Falco Blitz         |   0    |    -10   |
+| 0                 | 2022-01-16 | warwick R2             | 3 Fast Buck           |   0    |    -10   |
+| 0                 | 2022-01-16 | wetherby R2            | 4 Forpaddytheplumber  |   0    |    -10   |
+| 0                 | 2022-01-15 | kempton R2             | 2 Milan Bridge        |   0    |    -10   |
+| 0                 | 2022-01-15 | kempton R2             | 6 Major Sting         |   0    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R3          | 2 Annamix             |   0    |    -10   |
+| 0                 | 2022-01-15 | warwick R1             | 6 Greatest Star       |   0    |    -10   |
+| 0                 | 2022-01-15 | warwick R1             | 2 Flinteur Sacre      |   0    |    -10   |
+| 0                 | 2022-01-15 | wetherby R1            | 1 Cartonne            |   0    |    -10   |
+| 0                 | 2022-01-15 | wetherby R1            | 6 Our Jet             |   0    |    -10   |
 | 10                | 2022-01-15 | ascot R10              | 5 Universal Pleasure  |   3.4  |    -10   |
 | :boom:            | 2022-01-15 | ascot R9               | 6 Miss Conteki        |   3.7  |     27   |
 | 4                 | 2022-01-15 | darwin R5              | 1 Raazou              |   2.35 |    -10   |

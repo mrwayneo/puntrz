@@ -1,26 +1,26 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-01-15 22:12:56 +1000  
+date: 2022-01-16 09:57:24 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     30 |      5 |   -136.5 | 0.17 | -0.46 |
-| Last 28 Days   |    269 |     64 |   -595.1 | 0.24 | -0.22 |
-| Last 6 Months  |   2967 |    737 |  -3813.7 | 0.25 | -0.13 |
-| Since Jan 2020 |   6460 |   1584 |  -9527.1 | 0.25 | -0.15 |
+| Last 7 Days    |     52 |      9 |   -217.5 | 0.17 | -0.42 |
+| Last 28 Days   |    284 |     67 |   -657.6 | 0.24 | -0.23 |
+| Last 6 Months  |   2991 |    742 |  -3869.7 | 0.25 | -0.13 |
+| Since Jan 2020 |   6484 |   1589 |  -9583.1 | 0.25 | -0.15 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:57             | 2022-01-16 | wetherby R7                   | 8 Roc Of Dundee       |   4.8  |    -10   |
-| 02:30             | 2022-01-16 | lingfield R7                  | 7 Vocal Duke          |   4    |    -10   |
-| 01:55             | 2022-01-16 | lingfield R6                  | 1 Pillars Of Earth    |   3.5  |    -10   |
-| 01:20             | 2022-01-16 | lingfield R5                  | 1 Soldier's Minute    |   3.2  |    -10   |
-| 00:35             | 2022-01-16 | turffontein R7                | 3 Freed From Desire   |   0    |    -10   |
-| 00:03             | 2022-01-16 | wetherby R2                   | 4 Forpaddytheplumber  |   4.4  |    -10   |
+| 0                 | 2022-01-16 | wetherby R7                   | 8 Roc Of Dundee       |   0    |    -10   |
+| 0                 | 2022-01-16 | lingfield R7                  | 7 Vocal Duke          |   0    |    -10   |
+| 0                 | 2022-01-16 | lingfield R6                  | 1 Pillars Of Earth    |   0    |    -10   |
+| 0                 | 2022-01-16 | lingfield R5                  | 1 Soldier's Minute    |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R7                | 3 Freed From Desire   |   0    |    -10   |
+| 0                 | 2022-01-16 | wetherby R2                   | 4 Forpaddytheplumber  |   0    |    -10   |
 | :boom:            | 2022-01-15 | ascot R8                      | 1 Bogart              |   4.3  |     33   |
 | 6                 | 2022-01-15 | ascot R5                      | 2 Tinsnip             |   7    |    -10   |
 | :boom:            | 2022-01-15 | darwin R3                     | 5 Mr Cashman          |   3.1  |     21   |

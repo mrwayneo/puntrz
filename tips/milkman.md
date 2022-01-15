@@ -1,31 +1,31 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-01-15 22:12:58 +1000  
+date: 2022-01-16 09:57:26 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     13 |      4 |    -18.5 | 0.31 | -0.14 |
-| Last 28 Days   |    123 |     31 |   -410.2 | 0.25 | -0.33 |
-| Last 6 Months  |   1149 |    285 |  -2277.1 | 0.25 | -0.2  |
-| Since Jan 2020 |   2697 |    678 |  -4222.1 | 0.25 | -0.16 |
+| Last 7 Days    |     31 |      4 |   -198.5 | 0.13 | -0.64 |
+| Last 28 Days   |    135 |     30 |   -547.2 | 0.22 | -0.41 |
+| Last 6 Months  |   1167 |    285 |  -2457.1 | 0.24 | -0.21 |
+| Since Jan 2020 |   2715 |    678 |  -4402.1 | 0.25 | -0.16 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 04:15             | 2022-01-16 | chelmsford-city R3           | 1 Shanko              |   2    |    -10   |
-| 02:35             | 2022-01-16 | warwick R6                   | 2 Sporting John       |   6    |    -10   |
-| 01:45             | 2022-01-16 | turffontein R9               | 8 Zeus                |   0    |    -10   |
-| 01:40             | 2022-01-16 | kempton R5                   | 4 Marie's Rock        |   7    |    -10   |
-| 01:32             | 2022-01-16 | fairyhouse R6                | 5 Amirite             |   2.2  |    -10   |
-| 01:25             | 2022-01-16 | warwick R4                   | 6 Surrey Quest        |   3    |    -10   |
-| 00:57             | 2022-01-16 | fairyhouse R5                | 15 Secret She Keeps   |   1.7  |    -10   |
-| 00:50             | 2022-01-16 | warwick R3                   | 1 Threeunderthrufive  |   1.57 |    -10   |
-| 00:35             | 2022-01-16 | turffontein R7               | 2 Big Burn            |   0    |    -10   |
-| 23:25             | 2022-01-15 | turffontein R5               | 1 Ablaan              |   0    |    -10   |
-| 23:25             | 2022-01-15 | turffontein R5               | 9 Zanetto             |   0    |    -10   |
+| 0                 | 2022-01-16 | chelmsford-city R3           | 1 Shanko              |   0    |    -10   |
+| 0                 | 2022-01-16 | warwick R6                   | 2 Sporting John       |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R9               | 8 Zeus                |   0    |    -10   |
+| 0                 | 2022-01-16 | kempton R5                   | 4 Marie's Rock        |   0    |    -10   |
+| 0                 | 2022-01-16 | fairyhouse R6                | 5 Amirite             |   0    |    -10   |
+| 0                 | 2022-01-16 | warwick R4                   | 6 Surrey Quest        |   0    |    -10   |
+| 0                 | 2022-01-16 | fairyhouse R5                | 15 Secret She Keeps   |   0    |    -10   |
+| 0                 | 2022-01-16 | warwick R3                   | 1 Threeunderthrufive  |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R7               | 2 Big Burn            |   0    |    -10   |
+| 0                 | 2022-01-15 | turffontein R5               | 1 Ablaan              |   0    |    -10   |
+| 0                 | 2022-01-15 | turffontein R5               | 9 Zanetto             |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-15 | ascot R9                     | 9 Iseered Iseered     |   6    |    -10   |
 | 7                 | 2022-01-15 | ascot R9                     | 8 Clairvoyance        |   2.3  |    -10   |
 | :3rd_place_medal: | 2022-01-15 | rosehill-gardens R5          | 5 Niffler             |   2.35 |    -10   |

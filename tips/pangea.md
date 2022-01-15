@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2022-01-15 22:12:57 +1000  
+date: 2022-01-16 09:57:25 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     25 |      2 |   -197   | 0.08 | -0.79 |
-| Last 28 Days   |    203 |     29 |   -886.5 | 0.14 | -0.44 |
-| Last 6 Months  |   1888 |    396 |  -2553.9 | 0.21 | -0.14 |
-| Since Jan 2020 |   4449 |    943 |  -3508.2 | 0.21 | -0.08 |
+| Last 7 Days    |     55 |      6 |   -344   | 0.11 | -0.63 |
+| Last 28 Days   |    228 |     32 |  -1023.5 | 0.14 | -0.45 |
+| Last 6 Months  |   1919 |    400 |  -2710.9 | 0.21 | -0.14 |
+| Since Jan 2020 |   4480 |    947 |  -3665.2 | 0.21 | -0.08 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:45             | 2022-01-16 | chelmsford-city R6            | 3 Nankeen             |   1.9  |    -10   |
-| 01:20             | 2022-01-16 | lingfield R5                  | 5 Corinthia Knight    |  17    |    -10   |
-| 22:45             | 2022-01-15 | fairyhouse R1                 | 2 Cherif De L'Isle    |   7    |    -10   |
+| 0                 | 2022-01-16 | chelmsford-city R6            | 3 Nankeen             |   0    |    -10   |
+| 0                 | 2022-01-16 | lingfield R5                  | 5 Corinthia Knight    |   0    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R1                 | 2 Cherif De L'Isle    |   0    |    -10   |
 | 10                | 2022-01-15 | ascot R10                     | 5 Universal Pleasure  |   3.4  |    -10   |
 | :boom:            | 2022-01-15 | ascot R9                      | 6 Miss Conteki        |   3.7  |     27   |
 | 5                 | 2022-01-15 | ascot R8                      | 5 Big Bada Boom       |   6    |    -10   |

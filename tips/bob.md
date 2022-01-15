@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-15 22:13:04 +1000  
+date: 2022-01-16 09:57:32 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |     14 |      3 |     91   | 0.21 |  0.65 |
-| Last 6 Months  |    127 |     25 |   2206.5 | 0.2  |  1.74 |
-| Since Jan 2020 |    235 |     41 |   3756.5 | 0.17 |  1.6  |
+| Last 7 Days    |      4 |      1 |     49   | 0.25 |  1.23 |
+| Last 28 Days   |     18 |      4 |    140   | 0.22 |  0.78 |
+| Last 6 Months  |    131 |     26 |   2255.5 | 0.2  |  1.72 |
+| Since Jan 2020 |    239 |     42 |   3805.5 | 0.18 |  1.59 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 22:45             | 2022-01-15 | fairyhouse R1                 | 9 Longacre Square     |  34    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R1                 | 9 Longacre Square     |   0    |    -10   |
 | 13                | 2022-01-15 | flemington R4                 | 10 Tuki Twelve        |  41    |    -10   |
 | :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
 | 9                 | 2022-01-15 | flemington R4                 | 6 Think Bold          |  20    |    -10   |

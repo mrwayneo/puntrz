@@ -1,54 +1,54 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-01-15 22:13:01 +1000  
+date: 2022-01-16 09:57:29 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    156 |      3 |    -1050 | 0.02 | -0.67 |
-| Last 28 Days   |   1228 |     48 |    -5059 | 0.04 | -0.41 |
-| Last 6 Months  |   8421 |    439 |   -18661 | 0.05 | -0.22 |
-| Since Jan 2020 |  16512 |    877 |   -32572 | 0.05 | -0.2  |
+| Last 7 Days    |    217 |      6 |    -1104 | 0.03 | -0.51 |
+| Last 28 Days   |   1270 |     51 |    -4923 | 0.04 | -0.39 |
+| Last 6 Months  |   8505 |    442 |   -18945 | 0.05 | -0.22 |
+| Since Jan 2020 |  16596 |    880 |   -32856 | 0.05 | -0.2  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:15             | 2022-01-16 | chelmsford-city R5            | 3 Woke Media          |  15    |    -10   |
-| 05:15             | 2022-01-16 | chelmsford-city R5            | 5 Magical Mile        |  12    |    -10   |
-| 03:45             | 2022-01-16 | chelmsford-city R2            | 10 Lethal Touch       |  17    |    -10   |
-| 02:23             | 2022-01-16 | wetherby R6                   | 8 Raddle And Hum      |  16    |    -10   |
-| 01:40             | 2022-01-16 | kempton R5                    | 17 Commanche Red      |  41    |    -10   |
-| 01:40             | 2022-01-16 | kempton R5                    | 3 Dans Le Vent        |  13    |    -10   |
-| 01:32             | 2022-01-16 | fairyhouse R6                 | 2 Red Secret          | 151    |    -10   |
-| 01:32             | 2022-01-16 | fairyhouse R6                 | 13 The Blind Piper    |  19    |    -10   |
-| 01:25             | 2022-01-16 | warwick R4                    | 1 Gentleman At Arms   |  13    |    -10   |
-| 01:20             | 2022-01-16 | lingfield R5                  | 5 Corinthia Knight    |  17    |    -10   |
-| 00:57             | 2022-01-16 | fairyhouse R5                 | 7 Maura Jeanne        |  41    |    -10   |
-| 00:57             | 2022-01-16 | fairyhouse R5                 | 12 Our Miss Power     |  12    |    -10   |
-| 00:50             | 2022-01-16 | warwick R3                    | 5 Mossy Fen           |  13    |    -10   |
-| 00:39             | 2022-01-16 | wetherby R3                   | 7 Kildrum             |  51    |    -10   |
-| 00:24             | 2022-01-16 | fairyhouse R4                 | 7 Hard Rain           | 101    |    -10   |
-| 00:10             | 2022-01-16 | lingfield R3                  | 9 Mayson Mount        |  31    |    -10   |
-| 23:40             | 2022-01-15 | warwick R1                    | 1 Order Of St John    |  21    |    -10   |
-| 23:40             | 2022-01-15 | warwick R1                    | 7 Exmoor Express      |  12    |    -10   |
-| 23:40             | 2022-01-15 | warwick R1                    | 9 Daenerys Stormborn  |  51    |    -10   |
-| 23:27             | 2022-01-15 | wetherby R1                   | 4 Fishing For Likes   | 126    |    -10   |
-| 23:27             | 2022-01-15 | wetherby R1                   | 7 Seven Arches        |  15    |    -10   |
-| 23:20             | 2022-01-15 | kempton R1                    | 1 Cuban Cigar         |  20    |    -10   |
-| 23:15             | 2022-01-15 | fairyhouse R2                 | 10 Touch Of Oscar     |  23    |    -10   |
-| 23:15             | 2022-01-15 | fairyhouse R2                 | 7 Conquredalofeurope  |  11    |    -10   |
-| 23:15             | 2022-01-15 | fairyhouse R2                 | 6 Classic Concorde    |  41    |    -10   |
-| 23:15             | 2022-01-15 | fairyhouse R2                 | 5 Arverne             |  41    |    -10   |
-| 23:15             | 2022-01-15 | fairyhouse R2                 | 4 Kristian Goingwel   |  23    |    -10   |
-| 23:15             | 2022-01-15 | fairyhouse R2                 | 1 Jurby               |  51    |    -10   |
-| 23:05             | 2022-01-15 | lingfield R1                  | 10 Tie A Yellowribbon |  12    |    -10   |
-| 23:05             | 2022-01-15 | lingfield R1                  | 8 Headora             |  10    |    -10   |
-| 22:45             | 2022-01-15 | fairyhouse R1                 | 3 Clonbury Bridge     |  13    |    -10   |
-| 22:45             | 2022-01-15 | fairyhouse R1                 | 11 Oscer Romero       |  26    |    -10   |
-| 22:45             | 2022-01-15 | fairyhouse R1                 | 16 Lily's Gem         |  26    |    -10   |
-| 22:45             | 2022-01-15 | fairyhouse R1                 | 9 Longacre Square     |  34    |    -10   |
+| 0                 | 2022-01-16 | chelmsford-city R5            | 3 Woke Media          |   0    |    -10   |
+| 0                 | 2022-01-16 | chelmsford-city R5            | 5 Magical Mile        |   0    |    -10   |
+| 0                 | 2022-01-16 | chelmsford-city R2            | 10 Lethal Touch       |   0    |    -10   |
+| 0                 | 2022-01-16 | wetherby R6                   | 8 Raddle And Hum      |   0    |    -10   |
+| 0                 | 2022-01-16 | kempton R5                    | 17 Commanche Red      |   0    |    -10   |
+| 0                 | 2022-01-16 | kempton R5                    | 3 Dans Le Vent        |   0    |    -10   |
+| 0                 | 2022-01-16 | fairyhouse R6                 | 2 Red Secret          |   0    |    -10   |
+| 0                 | 2022-01-16 | fairyhouse R6                 | 13 The Blind Piper    |   0    |    -10   |
+| 0                 | 2022-01-16 | warwick R4                    | 1 Gentleman At Arms   |   0    |    -10   |
+| 0                 | 2022-01-16 | lingfield R5                  | 5 Corinthia Knight    |   0    |    -10   |
+| 0                 | 2022-01-16 | fairyhouse R5                 | 7 Maura Jeanne        |   0    |    -10   |
+| 0                 | 2022-01-16 | fairyhouse R5                 | 12 Our Miss Power     |   0    |    -10   |
+| 0                 | 2022-01-16 | warwick R3                    | 5 Mossy Fen           |   0    |    -10   |
+| 0                 | 2022-01-16 | wetherby R3                   | 7 Kildrum             |   0    |    -10   |
+| 0                 | 2022-01-16 | fairyhouse R4                 | 7 Hard Rain           |   0    |    -10   |
+| 0                 | 2022-01-16 | lingfield R3                  | 9 Mayson Mount        |   0    |    -10   |
+| 0                 | 2022-01-15 | warwick R1                    | 1 Order Of St John    |   0    |    -10   |
+| 0                 | 2022-01-15 | warwick R1                    | 7 Exmoor Express      |   0    |    -10   |
+| 0                 | 2022-01-15 | warwick R1                    | 9 Daenerys Stormborn  |   0    |    -10   |
+| 0                 | 2022-01-15 | wetherby R1                   | 4 Fishing For Likes   |   0    |    -10   |
+| 0                 | 2022-01-15 | wetherby R1                   | 7 Seven Arches        |   0    |    -10   |
+| 0                 | 2022-01-15 | kempton R1                    | 1 Cuban Cigar         |   0    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R2                 | 10 Touch Of Oscar     |   0    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R2                 | 7 Conquredalofeurope  |   0    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R2                 | 6 Classic Concorde    |   0    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R2                 | 5 Arverne             |   0    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R2                 | 4 Kristian Goingwel   |   0    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R2                 | 1 Jurby               |   0    |    -10   |
+| 0                 | 2022-01-15 | lingfield R1                  | 10 Tie A Yellowribbon |   0    |    -10   |
+| 0                 | 2022-01-15 | lingfield R1                  | 8 Headora             |   0    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R1                 | 3 Clonbury Bridge     |   0    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R1                 | 11 Oscer Romero       |   0    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R1                 | 16 Lily's Gem         |   0    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R1                 | 9 Longacre Square     |   0    |    -10   |
 | 7                 | 2022-01-15 | ascot R10                     | 6 King's Authority    |  17    |    -10   |
 | :3rd_place_medal: | 2022-01-15 | ascot R9                      | 2 Floyd               | 126    |    -10   |
 | 9                 | 2022-01-15 | ascot R8                      | 4 Superior Smile      |  14    |    -10   |

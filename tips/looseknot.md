@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-01-15 22:12:59 +1000  
+date: 2022-01-16 09:57:28 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     22 |      2 |   -105   | 0.09 | -0.48 |
-| Last 28 Days   |     84 |     10 |   -146   | 0.12 | -0.17 |
-| Last 6 Months  |    688 |    110 |   -523.8 | 0.16 | -0.08 |
-| Since Jan 2020 |   1309 |    198 |  -1517.8 | 0.15 | -0.12 |
+| Last 7 Days    |     22 |      2 |   -100   | 0.09 | -0.45 |
+| Last 28 Days   |     86 |     10 |   -146   | 0.12 | -0.17 |
+| Last 6 Months  |    692 |    111 |   -488.8 | 0.16 | -0.07 |
+| Since Jan 2020 |   1313 |    199 |  -1482.8 | 0.15 | -0.11 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:50             | 2022-01-16 | kempton R7                    | 8 Grisbi De Berce     |   6    |    -10   |
-| 22:45             | 2022-01-15 | fairyhouse R1                 | 7 It Could Be You     |   7    |    -10   |
+| 0                 | 2022-01-16 | kempton R7                    | 8 Grisbi De Berce     |   0    |    -10   |
+| 0                 | 2022-01-15 | fairyhouse R1                 | 7 It Could Be You     |   0    |    -10   |
 | 4                 | 2022-01-15 | wingatui R5                   | 10 Robina Joy         |   8    |    -10   |
 | :boom:            | 2022-01-15 | wingatui R4                   | 7 Sharpie             |   7.5  |     65   |
 | 0                 | 2022-01-15 | huntingdon R1                 | 10 Ace Time           |   0    |    -10   |

@@ -1,45 +1,45 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-01-15 22:13:00 +1000  
+date: 2022-01-16 09:57:28 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    185 |     19 |   -544.5 | 0.1  | -0.29 |
-| Last 28 Days   |    981 |    114 |  -3057.7 | 0.12 | -0.31 |
-| Last 6 Months  |   6640 |    970 | -10817.1 | 0.15 | -0.16 |
-| Since Jan 2020 |  11228 |   1871 | -13246.5 | 0.17 | -0.12 |
+| Last 7 Days    |    228 |     21 |   -919.5 | 0.09 | -0.4  |
+| Last 28 Days   |   1002 |    112 |  -3410.7 | 0.11 | -0.34 |
+| Last 6 Months  |   6699 |    973 | -11327.1 | 0.15 | -0.17 |
+| Since Jan 2020 |  11287 |   1874 | -13756.5 | 0.17 | -0.12 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:15             | 2022-01-16 | chelmsford-city R5            | 4 Jenson Benson       |   3.3  |    -10   |
-| 03:15             | 2022-01-16 | chelmsford-city R1            | 2 Krazy Paving        |   3.3  |    -10   |
-| 03:15             | 2022-01-16 | chelmsford-city R1            | 1 Indian Affair       |   3.3  |    -10   |
-| 03:05             | 2022-01-16 | warwick R7                    | 6 Blow Your Wad       |   3.3  |    -10   |
-| 03:05             | 2022-01-16 | warwick R7                    | 2 Fairly Famous       |   3.3  |    -10   |
-| 02:57             | 2022-01-16 | wetherby R7                   | 3 Kalelula            |   3.3  |    -10   |
-| 01:45             | 2022-01-16 | turffontein R9                | 4 Juan Carlos         |   0    |    -10   |
-| 01:45             | 2022-01-16 | turffontein R9                | 6 Romeo's Magic       |   0    |    -10   |
-| 01:45             | 2022-01-16 | turffontein R9                | 1 Eskimo Pie          |   0    |    -10   |
-| 01:45             | 2022-01-16 | turffontein R9                | 5 Category Four       |   0    |    -10   |
-| 01:45             | 2022-01-16 | turffontein R9                | 9 Fsquadron           |   0    |    -10   |
-| 01:45             | 2022-01-16 | turffontein R9                | 10 My Master          |   0    |    -10   |
-| 01:10             | 2022-01-16 | turffontein R8                | 1 Singfonico          |   0    |    -10   |
-| 00:00             | 2022-01-16 | turffontein R6                | 12 Rio's Winter       |   0    |    -10   |
-| 00:00             | 2022-01-16 | turffontein R6                | 11 Visiway            |   0    |    -10   |
-| 00:00             | 2022-01-16 | turffontein R6                | 9 Riverstown          |   0    |    -10   |
-| 00:00             | 2022-01-16 | turffontein R6                | 6 Warrior's Rest      |   0    |    -10   |
-| 00:00             | 2022-01-16 | turffontein R6                | 5 Chimichuri Run      |   0    |    -10   |
-| 00:00             | 2022-01-16 | turffontein R6                | 4 Rivarine            |   0    |    -10   |
-| 23:25             | 2022-01-15 | turffontein R5                | 10 Valencia           |   0    |    -10   |
-| 23:25             | 2022-01-15 | turffontein R5                | 6 Riccardo            |   0    |    -10   |
-| 23:25             | 2022-01-15 | turffontein R5                | 7 Secret Is Ours      |   0    |    -10   |
-| 23:25             | 2022-01-15 | turffontein R5                | 3 In Cahoots          |   0    |    -10   |
-| 22:50             | 2022-01-15 | turffontein R4                | 9 Mardi Gras          |   0    |    -10   |
-| 22:50             | 2022-01-15 | turffontein R4                | 7 Youcanthurrylove    |   0    |    -10   |
+| 0                 | 2022-01-16 | chelmsford-city R5            | 4 Jenson Benson       |   0    |    -10   |
+| 0                 | 2022-01-16 | chelmsford-city R1            | 2 Krazy Paving        |   0    |    -10   |
+| 0                 | 2022-01-16 | chelmsford-city R1            | 1 Indian Affair       |   0    |    -10   |
+| 0                 | 2022-01-16 | warwick R7                    | 6 Blow Your Wad       |   0    |    -10   |
+| 0                 | 2022-01-16 | warwick R7                    | 2 Fairly Famous       |   0    |    -10   |
+| 0                 | 2022-01-16 | wetherby R7                   | 3 Kalelula            |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R9                | 4 Juan Carlos         |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R9                | 6 Romeo's Magic       |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R9                | 1 Eskimo Pie          |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R9                | 5 Category Four       |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R9                | 9 Fsquadron           |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R9                | 10 My Master          |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R8                | 1 Singfonico          |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R6                | 12 Rio's Winter       |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R6                | 11 Visiway            |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R6                | 9 Riverstown          |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R6                | 6 Warrior's Rest      |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R6                | 5 Chimichuri Run      |   0    |    -10   |
+| 0                 | 2022-01-16 | turffontein R6                | 4 Rivarine            |   0    |    -10   |
+| 0                 | 2022-01-15 | turffontein R5                | 10 Valencia           |   0    |    -10   |
+| 0                 | 2022-01-15 | turffontein R5                | 6 Riccardo            |   0    |    -10   |
+| 0                 | 2022-01-15 | turffontein R5                | 7 Secret Is Ours      |   0    |    -10   |
+| 0                 | 2022-01-15 | turffontein R5                | 3 In Cahoots          |   0    |    -10   |
+| 0                 | 2022-01-15 | turffontein R4                | 9 Mardi Gras          |   0    |    -10   |
+| 0                 | 2022-01-15 | turffontein R4                | 7 Youcanthurrylove    |   0    |    -10   |
 | 0                 | 2022-01-15 | turffontein R3                | 7 Count Pablo         |   0    |    -10   |
 | 0                 | 2022-01-15 | turffontein R3                | 11 Montmerency        |   0    |    -10   |
 | :boom:            | 2022-01-15 | turffontein R2                | 1 Majestic Mozart     |   1.8  |      8   |
