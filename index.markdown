@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-15 13:30:23 +1000  
+date: 2022-01-15 14:04:27 +1000  
 ---   
 
 
@@ -170,9 +170,9 @@ date: 2022-01-15 13:30:23 +1000
 | 86 | :soon:            | 2022-01-15 14:18:00 | flemington       |      4 |        1 | Can't Go Wong      |   4.33 | vulture,milkman     |
 | 87 | :soon:            | 2022-01-15 14:18:00 | flemington       |      4 |       10 | Tuki Twelve        |  41    | cosmo,bob           |
 | 88 | :soon:            | 2022-01-15 14:18:00 | flemington       |      4 |        5 | Elzamee            |   5    | evenodds,lago       |
-| 89 | :soon:            | 2022-01-15 13:50:00 | gold-coast       |      2 |        1 | Reloaded           |   7.5  | benny,jmac          |
-| 90 | :soon:            | 2022-01-15 13:40:00 | trentham         |      6 |        1 | Pareanui Bay       |   1.95 | milkman             |
-| 91 | --                | 2022-01-15 13:08:00 | flemington       |      2 |        8 | Perito Moreno      |  10    | vulture             |
+| 89 | 4.0               | 2022-01-15 13:50:00 | gold-coast       |      2 |        1 | Reloaded           |   7.5  | benny,jmac          |
+| 90 | :2nd_place_medal: | 2022-01-15 13:40:00 | trentham         |      6 |        1 | Pareanui Bay       |   1.95 | milkman             |
+| 91 | 5.0               | 2022-01-15 13:08:00 | flemington       |      2 |        8 | Perito Moreno      |  10    | vulture             |
 | 92 | 6.0               | 2022-01-15 12:47:00 | murray-bdge      |      1 |        1 | Shamino            |   8    | pangea              |
 | 93 | :3rd_place_medal: | 2022-01-15 12:33:00 | flemington       |      1 |        1 | Jamarra            |   8.5  | vulture             |
 | 94 | :3rd_place_medal: | 2022-01-15 12:20:00 | rosehill-gardens |      1 |        5 | Kir Royale         |   2.4  | milkman             |
