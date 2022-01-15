@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-15 14:49:33 +1000  
+date: 2022-01-15 15:04:21 +1000  
 ---   
 
 
@@ -157,13 +157,13 @@ date: 2022-01-15 14:49:33 +1000
 | 73 | :soon:            | 2022-01-15 15:15:00 | rosehill-gardens |      6 |        2 | Above And Beyond   |  16    | cosmo,bluey         |
 | 74 | :soon:            | 2022-01-15 15:07:00 | murray-bdge      |      5 |        2 | Call Me Shamus     |   6.5  | pangea              |
 | 75 | :soon:            | 2022-01-15 15:07:00 | murray-bdge      |      5 |        7 | Resurge            |   5.5  | pangea,blackshadow  |
-| 76 | :soon:            | 2022-01-15 15:00:00 | gold-coast       |      4 |        7 | Snapdancer         |   4    | evenodds,jmac       |
-| 77 | :soon:            | 2022-01-15 15:00:00 | gold-coast       |      4 |        5 | Salateen           |  11    | evenodds,overthrow  |
-| 78 | :soon:            | 2022-01-15 15:00:00 | gold-coast       |      4 |        9 | Georgie's Pride    |  26    | pangea              |
-| 79 | :soon:            | 2022-01-15 15:00:00 | gold-coast       |      4 |       14 | Beachbreak         | 101    | cosmo,bluey         |
-| 80 | :soon:            | 2022-01-15 15:00:00 | gold-coast       |      4 |       10 | Lady Of Luxury     |  10    | benny,pangea        |
-| 81 | :soon:            | 2022-01-15 15:00:00 | gold-coast       |      4 |        3 | Kiku               |   6    | pangea              |
-| 82 | :soon:            | 2022-01-15 14:50:00 | trentham         |      8 |        5 | Entriviere         |   1.6  | vulture             |
+| 76 | --                | 2022-01-15 15:00:00 | gold-coast       |      4 |        7 | Snapdancer         |   4    | evenodds,jmac       |
+| 77 | --                | 2022-01-15 15:00:00 | gold-coast       |      4 |        5 | Salateen           |  11    | evenodds,overthrow  |
+| 78 | --                | 2022-01-15 15:00:00 | gold-coast       |      4 |        9 | Georgie's Pride    |  26    | pangea              |
+| 79 | --                | 2022-01-15 15:00:00 | gold-coast       |      4 |       14 | Beachbreak         | 101    | cosmo,bluey         |
+| 80 | --                | 2022-01-15 15:00:00 | gold-coast       |      4 |       10 | Lady Of Luxury     |  10    | benny,pangea        |
+| 81 | --                | 2022-01-15 15:00:00 | gold-coast       |      4 |        3 | Kiku               |   6    | pangea              |
+| 82 | --                | 2022-01-15 14:50:00 | trentham         |      8 |        5 | Entriviere         |   1.6  | vulture             |
 | 83 | :3rd_place_medal: | 2022-01-15 14:40:00 | rosehill-gardens |      5 |        5 | Niffler            |   2.35 | milkman             |
 | 84 | --                | 2022-01-15 14:38:00 | warwick          |      3 |        3 | Cold Hard Fact     |   3.2  | vulture             |
 | 85 | 4.0               | 2022-01-15 14:25:00 | gold-coast       |      3 |        1 | Parry Sound        |   2.5  | vulture,jmac        |
