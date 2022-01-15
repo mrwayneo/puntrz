@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-15 12:44:27 +1000  
+date: 2022-01-15 12:59:17 +1000  
 ---   
 
 
@@ -173,7 +173,7 @@ date: 2022-01-15 12:44:27 +1000
 | 89 | :soon:            | 2022-01-15 13:50:00 | gold-coast       |      2 |        1 | Reloaded           |   7.5  | benny,jmac          |
 | 90 | :soon:            | 2022-01-15 13:40:00 | trentham         |      6 |        1 | Pareanui Bay       |   1.95 | milkman             |
 | 91 | :soon:            | 2022-01-15 13:08:00 | flemington       |      2 |        8 | Perito Moreno      |  10    | vulture             |
-| 92 | :soon:            | 2022-01-15 12:47:00 | murray-bdge      |      1 |        1 | Shamino            |   8    | pangea              |
+| 92 | --                | 2022-01-15 12:47:00 | murray-bdge      |      1 |        1 | Shamino            |   8    | pangea              |
 | 93 | :3rd_place_medal: | 2022-01-15 12:33:00 | flemington       |      1 |        1 | Jamarra            |   8.5  | vulture             |
 | 94 | :3rd_place_medal: | 2022-01-15 12:20:00 | rosehill-gardens |      1 |        5 | Kir Royale         |   2.4  | milkman             |
 | 95 | 4.0               | 2022-01-15 12:10:00 | wingatui         |      5 |       10 | Robina Joy         |   8    | looseknot           |
