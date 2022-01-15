@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-01-15 19:32:19 +1000  
+date: 2022-01-15 19:34:49 +1000  
 categories: None 
 ---   
 
@@ -15,9 +15,9 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 0                 | 2022-01-15 | gold-coast R9          | 1 The Odyssey         |   0   |      -10 |
-| 0                 | 2022-01-15 | rosehill-gardens R6    | 2 Above And Beyond    |   0   |      -10 |
-| 0                 | 2022-01-15 | gold-coast R4          | 14 Beachbreak         |   0   |      -10 |
+| 6                 | 2022-01-15 | gold-coast R9          | 1 The Odyssey         |  14   |      -10 |
+| 4                 | 2022-01-15 | rosehill-gardens R6    | 2 Above And Beyond    |  16   |      -10 |
+| 12                | 2022-01-15 | gold-coast R4          | 14 Beachbreak         | 101   |      -10 |
 | 7                 | 2022-01-14 | townsville R6          | 2 Loud Enough         |  20   |      -10 |
 | 7                 | 2022-01-09 | port-lincoln R5        | 8 Hand to Hand        |  29   |      -10 |
 | :2nd_place_medal: | 2022-01-06 | wagga R2               | 3 O'reg               |  16   |      -10 |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-01-15 19:32:19 +1000  
+date: 2022-01-15 19:34:48 +1000  
 categories: None 
 ---   
 
@@ -14,8 +14,8 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 0                 | 2022-01-15 | gold-coast R5        | 6 Away Game          |  0    |    -10   |
-| 0                 | 2022-01-15 | gold-coast R4        | 7 Snapdancer         |  0    |    -10   |
+| :3rd_place_medal: | 2022-01-15 | gold-coast R5        | 6 Away Game          |  3.2  |    -10   |
+| :boom:            | 2022-01-15 | gold-coast R4        | 7 Snapdancer         |  3.9  |     29   |
 | 4                 | 2022-01-15 | gold-coast R3        | 1 Parry Sound        |  2.5  |    -10   |
 | 4                 | 2022-01-15 | gold-coast R2        | 1 Reloaded           |  7.5  |    -10   |
 | :2nd_place_medal: | 2022-01-08 | rosehill-gardens R10 | 5 Tycoonist          |  2.6  |    -10   |
