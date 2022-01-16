@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-16 21:23:42 +1000  
+date: 2022-01-16 21:38:15 +1000  
 ---   
 
 
@@ -39,10 +39,10 @@ date: 2022-01-16 21:23:42 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      3 |    -47   | 0.15 | -0.24 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      4 |    -67   | 0.2  | -0.34 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |    -80   | 0.1  | -0.4  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -94   | 0.15 | -0.47 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      4 |    -95   | 0.2  | -0.48 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      3 |   -102   | 0.15 | -0.51 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |   -119   | 0.15 | -0.6  |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      2 |   -122   | 0.1  | -0.61 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      2 |   -145   | 0.1  | -0.72 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      1 |   -177.5 | 0.05 | -0.89 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
@@ -91,7 +91,7 @@ date: 2022-01-16 21:23:42 +1000
 | 10 | :soon:            | 2022-01-17 00:35:00 | kelso          |      2 |        2 | Ensel Du Perche    |   6    | looseknot           |
 | 11 | :soon:            | 2022-01-16 23:15:00 | punchestown    |      1 |        6 | Hawai Game         |   5.5  | vulture             |
 | 12 | :soon:            | 2022-01-16 23:15:00 | punchestown    |      1 |        1 | Dysart Dynamo      |   1.5  | overthrow,lago      |
-| 13 | :soon:            | 2022-01-16 21:25:00 | scottsville    |      1 |        9 | Maradiva           |   0    | vulture             |
+| 13 | --                | 2022-01-16 21:25:00 | scottsville    |      1 |        9 | Maradiva           |   0    | vulture             |
 | 14 | :boom:            | 2022-01-16 20:45:00 | sha-tin        |     10 |        4 | Romantic Warrior   |   0    | milkman             |
 | 15 | :2nd_place_medal: | 2022-01-16 20:30:00 | geraldton      |      9 |        5 | Corn Cob           |   1.95 | milkman             |
 | 16 | --                | 2022-01-16 20:10:00 | sha-tin        |      9 |        3 | Fantastic Way      |   0    | icyhot              |
