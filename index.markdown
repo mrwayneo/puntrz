@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-17 07:57:02 +1000  
+date: 2022-01-17 08:12:10 +1000  
 ---   
 
 
@@ -70,37 +70,21 @@ date: 2022-01-17 07:57:02 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6356 |    905 | -10147.4 | 0.14 | -0.16 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7824 |    399 | -18524   | 0.05 | -0.24 |
 
-|    | finish            | time                | track          |   race |   number | name               |   odds | tipster             |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | 4.0               | 2022-01-17 02:30:00 | southwell      |      7 |        4 | Gidwa              |   8.5  | looseknot           |
-|  1 | :3rd_place_medal: | 2022-01-17 02:10:00 | kelso          |      5 |        2 | Mister Whitaker    |   2.7  | overthrow           |
-|  2 | :boom:            | 2022-01-17 01:50:00 | punchestown    |      6 |       12 | Whiskey Lullaby    |   3.2  | overthrow           |
-|  3 | :3rd_place_medal: | 2022-01-17 01:40:00 | kelso          |      4 |        3 | Word Has It        |   3.2  | overthrow           |
-|  4 | --                | 2022-01-17 01:35:00 | scottsville    |      8 |       12 | Angel Of Justice   |   0    | milkman             |
-|  5 | :3rd_place_medal: | 2022-01-17 01:20:00 | punchestown    |      5 |        4 | Gaillard Du Mesnil |   5.5  | pangea,blackshadow  |
-|  6 | :boom:            | 2022-01-17 01:20:00 | punchestown    |      5 |        1 | Bob Olinger        |   1.45 | milkman             |
-|  7 | :boom:            | 2022-01-17 01:10:00 | kelso          |      3 |        1 | Soft Risk          |   1.7  | milkman             |
-|  8 | :boom:            | 2022-01-17 01:00:00 | southwell      |      4 |        8 | Social Contact     |   2.6  | vulture             |
-|  9 | --                | 2022-01-17 00:55:00 | scottsville    |      7 |        2 | Crown Towers       |   0    | pangea              |
-| 10 | --                | 2022-01-17 00:35:00 | kelso          |      2 |        2 | Ensel Du Perche    |   6    | looseknot           |
-| 11 | --                | 2022-01-16 23:15:00 | punchestown    |      1 |        6 | Hawai Game         |   5.5  | vulture             |
-| 12 | :boom:            | 2022-01-16 23:15:00 | punchestown    |      1 |        1 | Dysart Dynamo      |   1.5  | overthrow,lago      |
-| 13 | --                | 2022-01-16 21:25:00 | scottsville    |      1 |        9 | Maradiva           |   0    | vulture             |
-| 14 | :boom:            | 2022-01-16 20:45:00 | sha-tin        |     10 |        4 | Romantic Warrior   |   0    | milkman             |
-| 15 | :2nd_place_medal: | 2022-01-16 20:30:00 | geraldton      |      9 |        5 | Corn Cob           |   1.95 | milkman             |
-| 16 | --                | 2022-01-16 20:10:00 | sha-tin        |      9 |        3 | Fantastic Way      |   0    | icyhot              |
-| 17 | :2nd_place_medal: | 2022-01-16 19:55:00 | geraldton      |      8 |        2 | Son Son            |   1.8  | vulture,blackshadow |
-| 18 | :boom:            | 2022-01-16 19:35:00 | sha-tin        |      8 |        9 | Sight Spirit       |   1.9  | vulture,milkman     |
-| 19 | 10.0              | 2022-01-16 18:10:00 | geraldton      |      5 |        8 | O'reilly's Crumpet |  31    | cosmo,bluey         |
-| 20 | :boom:            | 2022-01-16 17:05:00 | strathalbyn    |      6 |        6 | Ambidazzle         |   5    | pangea              |
-| 21 | 4.0               | 2022-01-16 17:05:00 | strathalbyn    |      6 |        2 | Yuri Royale        |   2.1  | icyhot              |
-| 22 | 9.0               | 2022-01-16 17:00:00 | sunshine-coast |      6 |       10 | Bien Cuit          |   6    | overthrow           |
-| 23 | :boom:            | 2022-01-16 16:35:00 | strathalbyn    |      5 |        3 | Miss Langtry       |   3    | vulture             |
-| 24 | 4.0               | 2022-01-16 16:35:00 | strathalbyn    |      5 |        5 | Gogolf Guru        |   9    | moechilli           |
-| 25 | 6.0               | 2022-01-16 16:25:00 | sunshine-coast |      5 |        3 | Thawra             |   5.5  | benny,pangea        |
-| 26 | :3rd_place_medal: | 2022-01-16 15:40:00 | cowra          |      6 |        7 | No Debt            |   2.6  | vulture             |
-| 27 | :2nd_place_medal: | 2022-01-16 15:35:00 | geraldton      |      1 |        1 | Delago Dehero      |   4.4  | pangea              |
-| 28 | :2nd_place_medal: | 2022-01-16 15:10:00 | sunshine-coast |      3 |        1 | Elegist            |   3    | pangea              |
-| 29 | :3rd_place_medal: | 2022-01-16 14:35:00 | sunshine-coast |      2 |        5 | Kobe Lad           |   4.5  | overthrow           |
-| 30 | :3rd_place_medal: | 2022-01-16 14:05:00 | strathalbyn    |      1 |        6 | Ten Feathers       |   5.5  | looseknot           |
-| 31 | :boom:            | 2022-01-16 14:00:00 | sunshine-coast |      1 |        1 | Scarlet Pimpernel  |   1.85 | overthrow           |
+|    | finish   | time                | track         |   race |   number | name               |   odds | tipster        |
+|---:|:---------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:---------------|
+|  0 | :soon:   | 2022-01-18 03:30:00 | wolverhampton |      1 |        1 | Art Expert         |   3.3  | vulture        |
+|  1 | :soon:   | 2022-01-18 03:15:00 | chepstow      |      8 |        7 | Shutthegate        |   5.5  | looseknot      |
+|  2 | :soon:   | 2022-01-18 03:15:00 | chepstow      |      8 |        6 | Vians Hill         |   6    | looseknot      |
+|  3 | :soon:   | 2022-01-18 03:05:00 | punchestown   |      7 |       10 | Reine Machine      |   5.5  | overthrow      |
+|  4 | :soon:   | 2022-01-18 03:05:00 | punchestown   |      7 |        1 | Brookline          |   2.35 | overthrow      |
+|  5 | :soon:   | 2022-01-18 03:05:00 | punchestown   |      7 |        9 | North Of Nashville |   4.6  | vulture        |
+|  6 | :soon:   | 2022-01-18 02:45:00 | chepstow      |      7 |        2 | Rock Of Star       |   8    | looseknot      |
+|  7 | :soon:   | 2022-01-18 02:35:00 | kenilworth    |      8 |        2 | Double Charge      |   0    | vulture        |
+|  8 | :soon:   | 2022-01-18 01:35:00 | chepstow      |      5 |        1 | West To The Bridge |   2.5  | overthrow      |
+|  9 | :soon:   | 2022-01-18 01:00:00 | chepstow      |      4 |        3 | Frenchy Du Large   |   2.4  | vulture,pangea |
+| 10 | :soon:   | 2022-01-18 01:00:00 | chepstow      |      4 |        4 | Firak              |   8    | overthrow      |
+| 11 | :soon:   | 2022-01-18 00:50:00 | kenilworth    |      5 |        8 | Global Ally        |   0    | vulture        |
+| 12 | :soon:   | 2022-01-18 00:20:00 | punchestown   |      2 |        5 | Magnor Glory       |   5    | looseknot      |
+| 13 | :soon:   | 2022-01-18 00:15:00 | kenilworth    |      4 |        3 | Sage King          |   0    | vulture        |
+| 14 | :soon:   | 2022-01-17 16:20:00 | muswellbrook  |      5 |        6 | Phule              |   3.1  | milkman        |
+| 15 | :soon:   | 2022-01-17 15:40:00 | muswellbrook  |      4 |        2 | Eiger              |   6    | vulture        |
