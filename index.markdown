@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-16 20:25:00 +1000  
+date: 2022-01-16 20:25:22 +1000  
 ---   
 
 
@@ -97,7 +97,7 @@ date: 2022-01-16 20:25:00 +1000
 | 16 | --                | 2022-01-16 20:10:00 | sha-tin        |      9 |        3 | Fantastic Way      |   0    | icyhot              |
 | 17 | :2nd_place_medal: | 2022-01-16 19:55:00 | geraldton      |      8 |        2 | Son Son            |   1.8  | vulture,blackshadow |
 | 18 | :boom:            | 2022-01-16 19:35:00 | sha-tin        |      8 |        9 | Sight Spirit       |   1.9  | vulture,milkman     |
-| 19 | --                | 2022-01-16 18:10:00 | geraldton      |      5 |        8 | O'reilly's Crumpet |  31    | cosmo,bluey         |
+| 19 | 10.0              | 2022-01-16 18:10:00 | geraldton      |      5 |        8 | O'reilly's Crumpet |  31    | cosmo,bluey         |
 | 20 | :boom:            | 2022-01-16 17:05:00 | strathalbyn    |      6 |        6 | Ambidazzle         |   5    | pangea              |
 | 21 | 4.0               | 2022-01-16 17:05:00 | strathalbyn    |      6 |        2 | Yuri Royale        |   2.1  | icyhot              |
 | 22 | 9.0               | 2022-01-16 17:00:00 | sunshine-coast |      6 |       10 | Bien Cuit          |   6    | overthrow           |
