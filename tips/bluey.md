@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-01-16 10:57:25 +1000  
+date: 2022-01-16 20:24:59 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 18:10             | 2022-01-16 | geraldton R5           | 8 O'reilly's Crumpet  |  31   |      -10 |
+| 10                | 2022-01-16 | geraldton R5           | 8 O'reilly's Crumpet  |  31   |      -10 |
 | 6                 | 2022-01-15 | gold-coast R9          | 1 The Odyssey         |  14   |      -10 |
 | 4                 | 2022-01-15 | rosehill-gardens R6    | 2 Above And Beyond    |  16   |      -10 |
 | 12                | 2022-01-15 | gold-coast R4          | 14 Beachbreak         | 101   |      -10 |
