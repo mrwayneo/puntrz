@@ -1,11 +1,22 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-18 07:04:10 +1000  
+date: 2022-01-18 16:42:16 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      1 |      0 |      -10 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      2 |      0 |      -20 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      4 |      0 |      -40 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     27 |      0 |     -270 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     35 |      0 |     -350 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,21 +70,13 @@ date: 2022-01-18 07:04:10 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6314 |    899 | -10492.4 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7799 |    391 | -19457   | 0.05 | -0.25 |
 
-|    | finish            | time                | track         |   race |   number | name               |   odds | tipster        |
-|---:|:------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:---------------|
-|  0 | --                | 2022-01-18 03:30:00 | wolverhampton |      1 |        1 | Art Expert         |   3.3  | vulture        |
-|  1 | 4.0               | 2022-01-18 03:15:00 | chepstow      |      8 |        7 | Shutthegate        |   5.5  | looseknot      |
-|  2 | --                | 2022-01-18 03:15:00 | chepstow      |      8 |        6 | Vians Hill         |   6    | looseknot      |
-|  3 | --                | 2022-01-18 03:05:00 | punchestown   |      7 |       10 | Reine Machine      |   5.5  | overthrow      |
-|  4 | :2nd_place_medal: | 2022-01-18 03:05:00 | punchestown   |      7 |        1 | Brookline          |   2.35 | overthrow      |
-|  5 | --                | 2022-01-18 03:05:00 | punchestown   |      7 |        9 | North Of Nashville |   4.6  | vulture        |
-|  6 | :boom:            | 2022-01-18 02:45:00 | chepstow      |      7 |        2 | Rock Of Star       |   8    | looseknot      |
-|  7 | --                | 2022-01-18 02:35:00 | kenilworth    |      8 |        2 | Double Charge      |   0    | vulture        |
-|  8 | :boom:            | 2022-01-18 01:35:00 | chepstow      |      5 |        1 | West To The Bridge |   2.5  | overthrow      |
-|  9 | :boom:            | 2022-01-18 01:00:00 | chepstow      |      4 |        3 | Frenchy Du Large   |   2.4  | vulture,pangea |
-| 10 | :3rd_place_medal: | 2022-01-18 01:00:00 | chepstow      |      4 |        4 | Firak              |   8    | overthrow      |
-| 11 | :2nd_place_medal: | 2022-01-18 00:50:00 | kenilworth    |      5 |        8 | Global Ally        |   0    | vulture        |
-| 12 | :3rd_place_medal: | 2022-01-18 00:20:00 | punchestown   |      2 |        5 | Magnor Glory       |   5    | looseknot      |
-| 13 | :boom:            | 2022-01-18 00:15:00 | kenilworth    |      4 |        3 | Sage King          |   0    | vulture        |
-| 14 | :boom:            | 2022-01-17 16:20:00 | muswellbrook  |      5 |        6 | Phule              |   3.1  | milkman        |
-| 15 | 4.0               | 2022-01-17 15:40:00 | muswellbrook  |      4 |        2 | Eiger              |   6    | vulture        |
+|    | finish   | time                | track   |   race |   number | name              |   odds | tipster      |
+|---:|:---------|:--------------------|:--------|-------:|---------:|:------------------|-------:|:-------------|
+|  0 | :soon:   | 2022-01-19 03:10:00 | exeter  |      7 |        7 | Pimlico Point     |   4.8  | vulture      |
+|  1 | :soon:   | 2022-01-19 03:10:00 | exeter  |      7 |        4 | Firestream        |   2.35 | vulture      |
+|  2 | :soon:   | 2022-01-19 01:40:00 | exeter  |      4 |       11 | No Hubs No Hoobs  |   9.5  | looseknot    |
+|  3 | :soon:   | 2022-01-19 01:10:00 | exeter  |      3 |        6 | Scarface          |   7.5  | looseknot    |
+|  4 | :soon:   | 2022-01-18 16:15:00 | wyong   |      5 |        5 | Kung Fu Mushu     |   2.6  | vulture      |
+|  5 | :soon:   | 2022-01-18 15:55:00 | wagga   |      4 |        4 | Kirkton           |   6    | benny,pangea |
+|  6 | :soon:   | 2022-01-18 15:40:00 | wyong   |      4 |        4 | Rejoiced          |   2.6  | milkman      |
+|  7 | :soon:   | 2022-01-18 13:50:00 | wyong   |      1 |        9 | Icing On The Cake |   4.6  | vulture      |
