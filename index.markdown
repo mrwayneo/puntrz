@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-18 16:42:16 +1000  
+date: 2022-01-18 16:45:54 +1000  
 ---   
 
 
@@ -9,14 +9,14 @@ date: 2022-01-18 16:42:16 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      1 |      0 |      -10 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      2 |      0 |      -20 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      4 |      0 |      -40 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     27 |      0 |     -270 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     35 |      0 |     -350 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      1 |       17 | 1    |  1.7  |
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      1 |      0 |      -10 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      2 |      0 |      -20 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      4 |      0 |      -40 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     27 |      1 |     -250 | 0.04 | -0.93 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     35 |      0 |     -350 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -70,13 +70,13 @@ date: 2022-01-18 16:42:16 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6314 |    899 | -10492.4 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7799 |    391 | -19457   | 0.05 | -0.25 |
 
-|    | finish   | time                | track   |   race |   number | name              |   odds | tipster      |
-|---:|:---------|:--------------------|:--------|-------:|---------:|:------------------|-------:|:-------------|
-|  0 | :soon:   | 2022-01-19 03:10:00 | exeter  |      7 |        7 | Pimlico Point     |   4.8  | vulture      |
-|  1 | :soon:   | 2022-01-19 03:10:00 | exeter  |      7 |        4 | Firestream        |   2.35 | vulture      |
-|  2 | :soon:   | 2022-01-19 01:40:00 | exeter  |      4 |       11 | No Hubs No Hoobs  |   9.5  | looseknot    |
-|  3 | :soon:   | 2022-01-19 01:10:00 | exeter  |      3 |        6 | Scarface          |   7.5  | looseknot    |
-|  4 | :soon:   | 2022-01-18 16:15:00 | wyong   |      5 |        5 | Kung Fu Mushu     |   2.6  | vulture      |
-|  5 | :soon:   | 2022-01-18 15:55:00 | wagga   |      4 |        4 | Kirkton           |   6    | benny,pangea |
-|  6 | :soon:   | 2022-01-18 15:40:00 | wyong   |      4 |        4 | Rejoiced          |   2.6  | milkman      |
-|  7 | :soon:   | 2022-01-18 13:50:00 | wyong   |      1 |        9 | Icing On The Cake |   4.6  | vulture      |
+|    | finish            | time                | track   |   race |   number | name              |   odds | tipster      |
+|---:|:------------------|:--------------------|:--------|-------:|---------:|:------------------|-------:|:-------------|
+|  0 | :soon:            | 2022-01-19 03:10:00 | exeter  |      7 |        7 | Pimlico Point     |   4.8  | vulture      |
+|  1 | :soon:            | 2022-01-19 03:10:00 | exeter  |      7 |        4 | Firestream        |   2.35 | vulture      |
+|  2 | :soon:            | 2022-01-19 01:40:00 | exeter  |      4 |       11 | No Hubs No Hoobs  |   9.5  | looseknot    |
+|  3 | :soon:            | 2022-01-19 01:10:00 | exeter  |      3 |        6 | Scarface          |   7.5  | looseknot    |
+|  4 | 4.0               | 2022-01-18 16:15:00 | wyong   |      5 |        5 | Kung Fu Mushu     |   2.6  | vulture      |
+|  5 | :2nd_place_medal: | 2022-01-18 15:55:00 | wagga   |      4 |        4 | Kirkton           |   6    | benny,pangea |
+|  6 | :boom:            | 2022-01-18 15:40:00 | wyong   |      4 |        4 | Rejoiced          |   2.6  | milkman      |
+|  7 | :3rd_place_medal: | 2022-01-18 13:50:00 | wyong   |      1 |        9 | Icing On The Cake |   4.6  | vulture      |
