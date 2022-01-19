@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-01-20 07:01:46 +1000  
+date: 2022-01-20 07:16:39 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:05             | 2022-01-20 | southwell R8                  | 4 Olympic Eagle       |   2.5  |    -10   |
+| 0                 | 2022-01-20 | southwell R8                  | 4 Olympic Eagle       |   0    |    -10   |
 | :3rd_place_medal: | 2022-01-20 | greyville R8                  | 8 Etiquette           |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-20 | greyville R6                  | 6 Crazy Blues         |   2.9  |    -10   |
 | :2nd_place_medal: | 2022-01-19 | greyville R1                  | 5 Namaqua Dove        |   2.8  |    -10   |

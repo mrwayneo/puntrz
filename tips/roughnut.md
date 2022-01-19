@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-01-20 07:01:47 +1000  
+date: 2022-01-20 07:16:41 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:05             | 2022-01-20 | southwell R8                  | 8 Lochside Lass       |  31    |    -10   |
+| 0                 | 2022-01-20 | southwell R8                  | 8 Lochside Lass       |   0    |    -10   |
 | 5                 | 2022-01-20 | southwell R6                  | 5 Strategic Fortune   |   9    |    -10   |
 | 0                 | 2022-01-20 | southwell R5                  | 11 Hot Desert         |   0    |    -10   |
 | 0                 | 2022-01-20 | southwell R4                  | 6 Cubano              |   0    |    -10   |
