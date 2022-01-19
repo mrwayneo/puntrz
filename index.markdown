@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-20 07:52:49 +1000  
+date: 2022-01-20 08:31:16 +1000  
 ---   
 
 
@@ -72,35 +72,18 @@ date: 2022-01-20 07:52:49 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6265 |    894 | -10581.4 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7806 |    385 | -20834   | 0.05 | -0.27 |
 
-|    | finish            | time                | track            |   race |   number | name               |   odds | tipster             |
-|---:|:------------------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | :boom:            | 2022-01-20 03:00:00 | newbury          |      7 |        3 | Authorised Speed   |   2    | vulture             |
-|  1 | --                | 2022-01-20 03:00:00 | newbury          |      7 |        7 | Kingsand Bay       |   9.5  | overthrow           |
-|  2 | :2nd_place_medal: | 2022-01-20 03:00:00 | newbury          |      7 |        4 | Captain Destiny    |   6.5  | overthrow           |
-|  3 | :2nd_place_medal: | 2022-01-20 02:30:00 | newbury          |      6 |        3 | Gran Luna          |   2.6  | overthrow,milkman   |
-|  4 | :2nd_place_medal: | 2022-01-20 02:10:00 | plumpton         |      4 |        4 | Atakan             |   6.5  | looseknot           |
-|  5 | --                | 2022-01-20 01:50:00 | happy-valley     |      9 |        9 | Toronado Phantom   |   4.6  | vulture             |
-|  6 | :2nd_place_medal: | 2022-01-20 00:50:00 | newbury          |      3 |        5 | Son Of Camas       |   9.5  | overthrow           |
-|  7 | --                | 2022-01-20 00:25:00 | plumpton         |      1 |        2 | Aikenbreakinheart  |   9    | looseknot           |
-|  8 | :3rd_place_medal: | 2022-01-20 00:25:00 | plumpton         |      1 |        4 | Pumpkin's Pride    |   5    | looseknot           |
-|  9 | :3rd_place_medal: | 2022-01-20 00:15:00 | newbury          |      2 |       10 | Maclaine           |   6.5  | looseknot           |
-| 10 | :boom:            | 2022-01-20 00:15:00 | happy-valley     |      6 |        6 | Beauty Joy         |   3.9  | milkman             |
-| 11 | :boom:            | 2022-01-20 00:15:00 | newbury          |      2 |       12 | Walking On Air     |   1.61 | overthrow           |
-| 12 | :2nd_place_medal: | 2022-01-20 00:15:00 | newbury          |      2 |        2 | Hecouldbetheone    |   3.75 | pangea              |
-| 13 | 4.0               | 2022-01-19 23:45:00 | newbury          |      1 |        1 | Swincombe Fleat    |   5.5  | vulture             |
-| 14 | --                | 2022-01-19 23:45:00 | newbury          |      1 |        2 | Tweed Skirt        |   2.8  | evenodds,overthrow  |
-| 15 | --                | 2022-01-19 23:45:00 | newbury          |      1 |        3 | Becky The Boo      |  13    | vulture             |
-| 16 | 103.0             | 2022-01-19 22:07:00 | belmont          |      8 |        7 | She's A Sweet Deel |   1.6  | icyhot              |
-| 17 | 103.0             | 2022-01-19 20:50:00 | belmont          |      5 |        1 | Kimberley Boy      |   4.2  | pangea,blackshadow  |
-| 18 | 103.0             | 2022-01-19 20:00:00 | belmont          |      3 |        3 | Awesome Chatter    |   3.3  | vulture             |
-| 19 | 4.0               | 2022-01-19 19:55:00 | launceston       |      4 |       10 | Fighting Phoenix   |   9.5  | vulture             |
-| 20 | 103.0             | 2022-01-19 19:34:00 | belmont          |      2 |        7 | La Galexia         |   3.2  | looseknot           |
-| 21 | 4.0               | 2022-01-19 19:30:00 | sandown-lakeside |      8 |       11 | Agnelli            |   7.5  | pangea,bluey        |
-| 22 | :3rd_place_medal: | 2022-01-19 19:30:00 | sandown-lakeside |      7 |        9 | Victory Bay        |   3.6  | evenodds,overthrow  |
-| 23 | 8.0               | 2022-01-19 18:35:00 | sandown-lakeside |      5 |        6 | Inner Spirit       |   4.2  | vulture,blackshadow |
-| 24 | 10.0              | 2022-01-19 17:33:00 | ipswich          |      7 |        5 | Ellastra           |   6.5  | pangea              |
-| 25 | :boom:            | 2022-01-19 17:25:00 | sandown-lakeside |      4 |        1 | Green Belt         |   1.7  | vulture,milkman     |
-| 26 | 7.0               | 2022-01-19 16:50:00 | sandown-lakeside |      3 |       10 | Poppy Joan         |   3.6  | overthrow           |
-| 27 | 4.0               | 2022-01-19 16:23:00 | ipswich          |      5 |       10 | Dubai Dee          |   4.6  | overthrow           |
-| 28 | :3rd_place_medal: | 2022-01-19 16:15:00 | sandown-lakeside |      2 |        6 | Miss Middle Park   |   2.2  | evenodds,overthrow  |
-| 29 | 4.0               | 2022-01-19 15:48:00 | ipswich          |      4 |       10 | Argyle Pink        |   2.15 | evenodds,overthrow  |
+|    | finish   | time                | track              |   race |   number | name              |   odds | tipster        |
+|---:|:---------|:--------------------|:-------------------|-------:|---------:|:------------------|-------:|:---------------|
+|  0 | :soon:   | 2022-01-21 03:00:00 | ludlow             |      7 |        2 | Carlo Du Berlais  |    2.9 | vulture        |
+|  1 | :soon:   | 2022-01-21 02:50:00 | wincanton          |      6 |        5 | Captain Chaos     |    5   | overthrow      |
+|  2 | :soon:   | 2022-01-21 01:00:00 | ludlow             |      3 |        2 | Blackcauseway     |    3.3 | milkman        |
+|  3 | :soon:   | 2022-01-20 20:00:00 | pinjarra-scarpside |      7 |        2 | Comealilbitcloser |    4.6 | vulture        |
+|  4 | :soon:   | 2022-01-20 19:45:00 | racing.com-park    |      5 |        7 | Yulong Code       |    2.9 | benny,pangea   |
+|  5 | :soon:   | 2022-01-20 17:54:00 | pinjarra-scarpside |      3 |        1 | Total Lockdown    |    3.5 | vulture        |
+|  6 | :soon:   | 2022-01-20 17:50:00 | rockhampton        |      7 |        3 | Crockett          |    3.9 | pangea         |
+|  7 | :soon:   | 2022-01-20 17:17:00 | pinjarra-scarpside |      2 |        3 | Regal Ruler       |    4   | looseknot      |
+|  8 | :soon:   | 2022-01-20 17:00:00 | warrnambool        |      8 |        3 | Nordic Symphony   |    3.3 | vulture,pangea |
+|  9 | :soon:   | 2022-01-20 16:30:00 | warrnambool        |      7 |        6 | Zoltan            |    6.5 | pangea         |
+| 10 | :soon:   | 2022-01-20 15:40:00 | tamworth           |      5 |        1 | Highlights        |    3.2 | vulture        |
+| 11 | :soon:   | 2022-01-20 14:17:00 | riccarton-park     |      6 |        2 | Harbourside       |    2.9 | vulture        |
+| 12 | :soon:   | 2022-01-20 13:07:00 | riccarton-park     |      4 |        1 | Postcode Envy     |    5   | looseknot      |
