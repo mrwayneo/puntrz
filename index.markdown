@@ -1,11 +1,24 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-20 07:46:47 +1000  
+date: 2022-01-20 07:52:49 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      1 |      0 |      -10 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      2 |      0 |      -20 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      6 |      0 |      -60 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |      9 |      0 |      -90 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     42 |      0 |     -420 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -62,8 +75,8 @@ date: 2022-01-20 07:46:47 +1000
 |    | finish            | time                | track            |   race |   number | name               |   odds | tipster             |
 |---:|:------------------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:--------------------|
 |  0 | :boom:            | 2022-01-20 03:00:00 | newbury          |      7 |        3 | Authorised Speed   |   2    | vulture             |
-|  1 | :2nd_place_medal: | 2022-01-20 03:00:00 | newbury          |      7 |        4 | Captain Destiny    |   6.5  | overthrow           |
-|  2 | --                | 2022-01-20 03:00:00 | newbury          |      7 |        7 | Kingsand Bay       |   9.5  | overthrow           |
+|  1 | --                | 2022-01-20 03:00:00 | newbury          |      7 |        7 | Kingsand Bay       |   9.5  | overthrow           |
+|  2 | :2nd_place_medal: | 2022-01-20 03:00:00 | newbury          |      7 |        4 | Captain Destiny    |   6.5  | overthrow           |
 |  3 | :2nd_place_medal: | 2022-01-20 02:30:00 | newbury          |      6 |        3 | Gran Luna          |   2.6  | overthrow,milkman   |
 |  4 | :2nd_place_medal: | 2022-01-20 02:10:00 | plumpton         |      4 |        4 | Atakan             |   6.5  | looseknot           |
 |  5 | --                | 2022-01-20 01:50:00 | happy-valley     |      9 |        9 | Toronado Phantom   |   4.6  | vulture             |
