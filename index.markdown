@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-20 13:49:15 +1000  
+date: 2022-01-20 14:37:31 +1000  
 ---   
 
 
@@ -14,10 +14,10 @@ date: 2022-01-20 13:49:15 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      1 |      0 |      -10 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      1 |      -29 | 0.14 | -0.41 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |      9 |      1 |      -58 | 0.11 | -0.64 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      6 |      0 |      -60 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     42 |      1 |     -345 | 0.02 | -0.82 |
 
 ##### Form Last 20 tips   
@@ -85,5 +85,5 @@ date: 2022-01-20 13:49:15 +1000
 |  8 | :soon:   | 2022-01-20 17:00:00 | warrnambool        |      8 |        3 | Nordic Symphony   |    3.3 | vulture,pangea |
 |  9 | :soon:   | 2022-01-20 16:30:00 | warrnambool        |      7 |        6 | Zoltan            |    6.5 | pangea         |
 | 10 | :soon:   | 2022-01-20 15:40:00 | tamworth           |      5 |        1 | Highlights        |    3.2 | vulture        |
-| 11 | :soon:   | 2022-01-20 14:17:00 | riccarton-park     |      6 |        2 | Harbourside       |    2.9 | vulture        |
+| 11 | :boom:   | 2022-01-20 14:17:00 | riccarton-park     |      6 |        2 | Harbourside       |    2.9 | vulture        |
 | 12 | :boom:   | 2022-01-20 13:07:00 | riccarton-park     |      4 |        1 | Postcode Envy     |    5   | looseknot      |
