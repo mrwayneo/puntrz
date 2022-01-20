@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-20 13:19:11 +1000  
+date: 2022-01-20 13:34:54 +1000  
 ---   
 
 
@@ -9,11 +9,11 @@ date: 2022-01-20 13:19:11 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      2 |      1 |       22 | 0.5  |  1.1  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      1 |      0 |      -10 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 | 0    | -1    |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      2 |      0 |      -20 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      6 |      0 |      -60 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 | 0    | -1    |
@@ -86,4 +86,4 @@ date: 2022-01-20 13:19:11 +1000
 |  9 | :soon:   | 2022-01-20 16:30:00 | warrnambool        |      7 |        6 | Zoltan            |    6.5 | pangea         |
 | 10 | :soon:   | 2022-01-20 15:40:00 | tamworth           |      5 |        1 | Highlights        |    3.2 | vulture        |
 | 11 | :soon:   | 2022-01-20 14:17:00 | riccarton-park     |      6 |        2 | Harbourside       |    2.9 | vulture        |
-| 12 | --       | 2022-01-20 13:07:00 | riccarton-park     |      4 |        1 | Postcode Envy     |    5   | looseknot      |
+| 12 | :boom:   | 2022-01-20 13:07:00 | riccarton-park     |      4 |        1 | Postcode Envy     |    5   | looseknot      |
