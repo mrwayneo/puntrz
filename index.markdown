@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-21 07:57:11 +1000  
+date: 2022-01-21 08:11:55 +1000  
 ---   
 
 
@@ -75,18 +75,35 @@ date: 2022-01-21 07:57:11 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6248 |    892 | -10492.9 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7814 |    385 | -20879   | 0.05 | -0.27 |
 
-|    | finish            | time                | track              |   race |   number | name              |   odds | tipster        |
-|---:|:------------------|:--------------------|:-------------------|-------:|---------:|:------------------|-------:|:---------------|
-|  0 | --                | 2022-01-21 03:00:00 | ludlow             |      7 |        2 | Carlo Du Berlais  |    2.9 | vulture        |
-|  1 | --                | 2022-01-21 02:50:00 | wincanton          |      6 |        5 | Captain Chaos     |    5   | overthrow      |
-|  2 | --                | 2022-01-21 01:00:00 | ludlow             |      3 |        2 | Blackcauseway     |    3.3 | milkman        |
-|  3 | :2nd_place_medal: | 2022-01-20 20:00:00 | pinjarra-scarpside |      7 |        2 | Comealilbitcloser |    4.6 | vulture        |
-|  4 | :2nd_place_medal: | 2022-01-20 19:45:00 | racing.com-park    |      5 |        7 | Yulong Code       |    2.9 | benny,pangea   |
-|  5 | :3rd_place_medal: | 2022-01-20 17:54:00 | pinjarra-scarpside |      3 |        1 | Total Lockdown    |    3.5 | vulture        |
-|  6 | 7.0               | 2022-01-20 17:50:00 | rockhampton        |      7 |        3 | Crockett          |    3.9 | pangea         |
-|  7 | 7.0               | 2022-01-20 17:17:00 | pinjarra-scarpside |      2 |        3 | Regal Ruler       |    4   | looseknot      |
-|  8 | 4.0               | 2022-01-20 17:00:00 | warrnambool        |      8 |        3 | Nordic Symphony   |    3.3 | vulture,pangea |
-|  9 | :2nd_place_medal: | 2022-01-20 16:30:00 | warrnambool        |      7 |        6 | Zoltan            |    6.5 | pangea         |
-| 10 | :boom:            | 2022-01-20 15:40:00 | tamworth           |      5 |        1 | Highlights        |    3.2 | vulture        |
-| 11 | :boom:            | 2022-01-20 14:17:00 | riccarton-park     |      6 |        2 | Harbourside       |    2.9 | vulture        |
-| 12 | :boom:            | 2022-01-20 13:07:00 | riccarton-park     |      4 |        1 | Postcode Envy     |    5   | looseknot      |
+|    | finish   | time                | track          |   race |   number | name              |   odds | tipster            |
+|---:|:---------|:--------------------|:---------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-01-22 05:30:00 | newcastle      |      6 |        7 | Power Point       |   8    | looseknot          |
+|  1 | :soon:   | 2022-01-22 03:08:00 | lingfield      |      7 |        2 | Cut The Mustard   |   7.5  | overthrow          |
+|  2 | :soon:   | 2022-01-22 03:08:00 | lingfield      |      7 |        9 | Neil The Legend   |   3.5  | overthrow          |
+|  3 | :soon:   | 2022-01-22 03:00:00 | newcastle      |      1 |        1 | Desert Emperor    |   4.4  | vulture            |
+|  4 | :soon:   | 2022-01-22 02:35:00 | lingfield      |      6 |        5 | Antunes           |  71    | overthrow          |
+|  5 | :soon:   | 2022-01-22 02:35:00 | lingfield      |      6 |        6 | Hacker Des Places |  12    | pangea,overthrow   |
+|  6 | :soon:   | 2022-01-22 02:00:00 | lingfield      |      5 |        1 | Broken Halo       |   3.3  | overthrow          |
+|  7 | :soon:   | 2022-01-22 02:00:00 | lingfield      |      5 |        5 | Midnight River    |   9.5  | overthrow          |
+|  8 | :soon:   | 2022-01-22 01:40:00 | market-rasen   |      5 |        4 | Hidden Beauty     |   2.9  | vulture,milkman    |
+|  9 | :soon:   | 2022-01-22 01:40:00 | market-rasen   |      5 |        6 | Nell's Bells      |   3.8  | evenodds,milkman   |
+| 10 | :soon:   | 2022-01-22 01:25:00 | lingfield      |      4 |        4 | On The Blind Side |   2.8  | overthrow          |
+| 11 | :soon:   | 2022-01-22 01:25:00 | lingfield      |      4 |        1 | Calva D'Auge      |   3.3  | overthrow          |
+| 12 | :soon:   | 2022-01-22 01:15:00 | southwell      |      5 |        8 | Available Angel   |  11    | cosmo,bluey        |
+| 13 | :soon:   | 2022-01-22 00:50:00 | lingfield      |      3 |        1 | Eclair D'Ainay    |   3.8  | evenodds,overthrow |
+| 14 | :soon:   | 2022-01-22 00:20:00 | lingfield      |      2 |        3 | Pure Bliss        |  10    | milkman            |
+| 15 | :soon:   | 2022-01-22 00:00:00 | market-rasen   |      2 |        3 | Donladd           |   6    | overthrow          |
+| 16 | :soon:   | 2022-01-21 23:50:00 | lingfield      |      1 |        2 | Nurse Susan       |   2.85 | evenodds,lago      |
+| 17 | :soon:   | 2022-01-21 23:50:00 | lingfield      |      1 |        3 | Rainyday Woman    |   2.8  | evenodds,overthrow |
+| 18 | :soon:   | 2022-01-21 23:40:00 | southwell      |      2 |        1 | Last Ammo         |   1.8  | vulture,milkman    |
+| 19 | :soon:   | 2022-01-21 21:15:00 | canterbury     |      7 |        2 | Miracle Day       |   4.6  | benny,pangea       |
+| 20 | :soon:   | 2022-01-21 20:45:00 | canterbury     |      6 |        3 | Sessions Road     |   7.5  | pangea             |
+| 21 | :soon:   | 2022-01-21 20:30:00 | sunshine-coast |      5 |        1 | Brave Nick        |   2.9  | evenodds,overthrow |
+| 22 | :soon:   | 2022-01-21 19:15:00 | canterbury     |      3 |        1 | Evening Bride     |   3.9  | milkman            |
+| 23 | :soon:   | 2022-01-21 19:15:00 | canterbury     |      3 |        7 | Jal Lei           |   1.65 | vulture,milkman    |
+| 24 | :soon:   | 2022-01-21 17:20:00 | canberra       |      7 |        7 | Ten Bells         |   2    | benny,pangea       |
+| 25 | :soon:   | 2022-01-21 15:45:00 | port-macquarie |      5 |        7 | Jet Pack          |   4.8  | looseknot          |
+| 26 | :soon:   | 2022-01-21 15:30:00 | flemington     |      2 |        8 | Strike Eagle      |   7.5  | vulture            |
+| 27 | :soon:   | 2022-01-21 15:25:00 | canberra       |      4 |        8 | The Grundler      |   5.5  | vulture            |
+| 28 | :soon:   | 2022-01-21 15:12:00 | dalby          |      5 |        1 | Wolff Boss        |   5    | pangea             |
+| 29 | :soon:   | 2022-01-21 13:22:00 | dalby          |      2 |        1 | Guts 'N' Glory    |   3.5  | looseknot          |
