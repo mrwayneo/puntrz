@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-20 17:12:38 +1000  
+date: 2022-01-20 18:27:39 +1000  
 ---   
 
 
@@ -79,9 +79,9 @@ date: 2022-01-20 17:12:38 +1000
 |  2 | :soon:            | 2022-01-21 01:00:00 | ludlow             |      3 |        2 | Blackcauseway     |    3.3 | milkman        |
 |  3 | :soon:            | 2022-01-20 20:00:00 | pinjarra-scarpside |      7 |        2 | Comealilbitcloser |    4.6 | vulture        |
 |  4 | :soon:            | 2022-01-20 19:45:00 | racing.com-park    |      5 |        7 | Yulong Code       |    2.9 | benny,pangea   |
-|  5 | :soon:            | 2022-01-20 17:54:00 | pinjarra-scarpside |      3 |        1 | Total Lockdown    |    3.5 | vulture        |
-|  6 | :soon:            | 2022-01-20 17:50:00 | rockhampton        |      7 |        3 | Crockett          |    3.9 | pangea         |
-|  7 | :soon:            | 2022-01-20 17:17:00 | pinjarra-scarpside |      2 |        3 | Regal Ruler       |    4   | looseknot      |
+|  5 | :3rd_place_medal: | 2022-01-20 17:54:00 | pinjarra-scarpside |      3 |        1 | Total Lockdown    |    3.5 | vulture        |
+|  6 | 7.0               | 2022-01-20 17:50:00 | rockhampton        |      7 |        3 | Crockett          |    3.9 | pangea         |
+|  7 | 7.0               | 2022-01-20 17:17:00 | pinjarra-scarpside |      2 |        3 | Regal Ruler       |    4   | looseknot      |
 |  8 | 4.0               | 2022-01-20 17:00:00 | warrnambool        |      8 |        3 | Nordic Symphony   |    3.3 | vulture,pangea |
 |  9 | :2nd_place_medal: | 2022-01-20 16:30:00 | warrnambool        |      7 |        6 | Zoltan            |    6.5 | pangea         |
 | 10 | :boom:            | 2022-01-20 15:40:00 | tamworth           |      5 |        1 | Highlights        |    3.2 | vulture        |
