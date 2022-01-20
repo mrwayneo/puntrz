@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-20 14:52:42 +1000  
+date: 2022-01-20 15:07:29 +1000  
 ---   
 
 
@@ -14,7 +14,7 @@ date: 2022-01-20 14:52:42 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      1 |      0 |      -10 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      1 |      -29 | 0.14 | -0.41 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      1 |      -36 | 0.14 | -0.51 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |      9 |      1 |      -58 | 0.11 | -0.64 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      6 |      0 |      -60 | 0    | -1    |
