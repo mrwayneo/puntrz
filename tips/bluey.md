@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-01-21 07:24:59 +1000  
+date: 2022-01-21 07:30:44 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 01:15             | 2022-01-22 | southwell R5           | 8 Available Angel     |  11   |      -10 |
 | 4                 | 2022-01-19 | sandown-lakeside R8    | 11 Agnelli            |   7.5 |      -10 |
 | 10                | 2022-01-16 | geraldton R5           | 8 O'reilly's Crumpet  |  31   |      -10 |
 | 6                 | 2022-01-15 | gold-coast R9          | 1 The Odyssey         |  14   |      -10 |
