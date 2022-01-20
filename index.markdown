@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-20 19:47:05 +1000  
+date: 2022-01-20 20:30:18 +1000  
 ---   
 
 
@@ -77,8 +77,8 @@ date: 2022-01-20 19:47:05 +1000
 |  0 | :soon:            | 2022-01-21 03:00:00 | ludlow             |      7 |        2 | Carlo Du Berlais  |    2.9 | vulture        |
 |  1 | :soon:            | 2022-01-21 02:50:00 | wincanton          |      6 |        5 | Captain Chaos     |    5   | overthrow      |
 |  2 | :soon:            | 2022-01-21 01:00:00 | ludlow             |      3 |        2 | Blackcauseway     |    3.3 | milkman        |
-|  3 | :soon:            | 2022-01-20 20:00:00 | pinjarra-scarpside |      7 |        2 | Comealilbitcloser |    4.6 | vulture        |
-|  4 | --                | 2022-01-20 19:45:00 | racing.com-park    |      5 |        7 | Yulong Code       |    2.9 | benny,pangea   |
+|  3 | :2nd_place_medal: | 2022-01-20 20:00:00 | pinjarra-scarpside |      7 |        2 | Comealilbitcloser |    4.6 | vulture        |
+|  4 | :2nd_place_medal: | 2022-01-20 19:45:00 | racing.com-park    |      5 |        7 | Yulong Code       |    2.9 | benny,pangea   |
 |  5 | :3rd_place_medal: | 2022-01-20 17:54:00 | pinjarra-scarpside |      3 |        1 | Total Lockdown    |    3.5 | vulture        |
 |  6 | 7.0               | 2022-01-20 17:50:00 | rockhampton        |      7 |        3 | Crockett          |    3.9 | pangea         |
 |  7 | 7.0               | 2022-01-20 17:17:00 | pinjarra-scarpside |      2 |        3 | Regal Ruler       |    4   | looseknot      |
