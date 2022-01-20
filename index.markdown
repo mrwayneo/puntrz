@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-20 13:04:00 +1000  
+date: 2022-01-20 13:19:11 +1000  
 ---   
 
 
@@ -86,4 +86,4 @@ date: 2022-01-20 13:04:00 +1000
 |  9 | :soon:   | 2022-01-20 16:30:00 | warrnambool        |      7 |        6 | Zoltan            |    6.5 | pangea         |
 | 10 | :soon:   | 2022-01-20 15:40:00 | tamworth           |      5 |        1 | Highlights        |    3.2 | vulture        |
 | 11 | :soon:   | 2022-01-20 14:17:00 | riccarton-park     |      6 |        2 | Harbourside       |    2.9 | vulture        |
-| 12 | :soon:   | 2022-01-20 13:07:00 | riccarton-park     |      4 |        1 | Postcode Envy     |    5   | looseknot      |
+| 12 | --       | 2022-01-20 13:07:00 | riccarton-park     |      4 |        1 | Postcode Envy     |    5   | looseknot      |
