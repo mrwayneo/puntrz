@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-20 16:27:41 +1000  
+date: 2022-01-20 16:43:11 +1000  
 ---   
 
 
@@ -72,18 +72,18 @@ date: 2022-01-20 16:27:41 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6265 |    894 | -10581.4 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7806 |    385 | -20834   | 0.05 | -0.27 |
 
-|    | finish   | time                | track              |   race |   number | name              |   odds | tipster        |
-|---:|:---------|:--------------------|:-------------------|-------:|---------:|:------------------|-------:|:---------------|
-|  0 | :soon:   | 2022-01-21 03:00:00 | ludlow             |      7 |        2 | Carlo Du Berlais  |    2.9 | vulture        |
-|  1 | :soon:   | 2022-01-21 02:50:00 | wincanton          |      6 |        5 | Captain Chaos     |    5   | overthrow      |
-|  2 | :soon:   | 2022-01-21 01:00:00 | ludlow             |      3 |        2 | Blackcauseway     |    3.3 | milkman        |
-|  3 | :soon:   | 2022-01-20 20:00:00 | pinjarra-scarpside |      7 |        2 | Comealilbitcloser |    4.6 | vulture        |
-|  4 | :soon:   | 2022-01-20 19:45:00 | racing.com-park    |      5 |        7 | Yulong Code       |    2.9 | benny,pangea   |
-|  5 | :soon:   | 2022-01-20 17:54:00 | pinjarra-scarpside |      3 |        1 | Total Lockdown    |    3.5 | vulture        |
-|  6 | :soon:   | 2022-01-20 17:50:00 | rockhampton        |      7 |        3 | Crockett          |    3.9 | pangea         |
-|  7 | :soon:   | 2022-01-20 17:17:00 | pinjarra-scarpside |      2 |        3 | Regal Ruler       |    4   | looseknot      |
-|  8 | :soon:   | 2022-01-20 17:00:00 | warrnambool        |      8 |        3 | Nordic Symphony   |    3.3 | vulture,pangea |
-|  9 | :soon:   | 2022-01-20 16:30:00 | warrnambool        |      7 |        6 | Zoltan            |    6.5 | pangea         |
-| 10 | :boom:   | 2022-01-20 15:40:00 | tamworth           |      5 |        1 | Highlights        |    3.2 | vulture        |
-| 11 | :boom:   | 2022-01-20 14:17:00 | riccarton-park     |      6 |        2 | Harbourside       |    2.9 | vulture        |
-| 12 | :boom:   | 2022-01-20 13:07:00 | riccarton-park     |      4 |        1 | Postcode Envy     |    5   | looseknot      |
+|    | finish            | time                | track              |   race |   number | name              |   odds | tipster        |
+|---:|:------------------|:--------------------|:-------------------|-------:|---------:|:------------------|-------:|:---------------|
+|  0 | :soon:            | 2022-01-21 03:00:00 | ludlow             |      7 |        2 | Carlo Du Berlais  |    2.9 | vulture        |
+|  1 | :soon:            | 2022-01-21 02:50:00 | wincanton          |      6 |        5 | Captain Chaos     |    5   | overthrow      |
+|  2 | :soon:            | 2022-01-21 01:00:00 | ludlow             |      3 |        2 | Blackcauseway     |    3.3 | milkman        |
+|  3 | :soon:            | 2022-01-20 20:00:00 | pinjarra-scarpside |      7 |        2 | Comealilbitcloser |    4.6 | vulture        |
+|  4 | :soon:            | 2022-01-20 19:45:00 | racing.com-park    |      5 |        7 | Yulong Code       |    2.9 | benny,pangea   |
+|  5 | :soon:            | 2022-01-20 17:54:00 | pinjarra-scarpside |      3 |        1 | Total Lockdown    |    3.5 | vulture        |
+|  6 | :soon:            | 2022-01-20 17:50:00 | rockhampton        |      7 |        3 | Crockett          |    3.9 | pangea         |
+|  7 | :soon:            | 2022-01-20 17:17:00 | pinjarra-scarpside |      2 |        3 | Regal Ruler       |    4   | looseknot      |
+|  8 | :soon:            | 2022-01-20 17:00:00 | warrnambool        |      8 |        3 | Nordic Symphony   |    3.3 | vulture,pangea |
+|  9 | :2nd_place_medal: | 2022-01-20 16:30:00 | warrnambool        |      7 |        6 | Zoltan            |    6.5 | pangea         |
+| 10 | :boom:            | 2022-01-20 15:40:00 | tamworth           |      5 |        1 | Highlights        |    3.2 | vulture        |
+| 11 | :boom:            | 2022-01-20 14:17:00 | riccarton-park     |      6 |        2 | Harbourside       |    2.9 | vulture        |
+| 12 | :boom:            | 2022-01-20 13:07:00 | riccarton-park     |      4 |        1 | Postcode Envy     |    5   | looseknot      |
