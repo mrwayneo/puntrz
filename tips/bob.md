@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-20 22:54:15 +1000  
+date: 2022-01-21 06:08:17 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      1 |     39   | 0.2  |  0.78 |
-| Last 28 Days   |     18 |      3 |    140   | 0.17 |  0.78 |
-| Last 6 Months  |    132 |     26 |   2245.5 | 0.2  |  1.7  |
-| Since Jan 2020 |    240 |     42 |   3795.5 | 0.18 |  1.58 |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
+| Last 28 Days   |     19 |      3 |    130   | 0.16 |  0.68 |
+| Last 6 Months  |    133 |     26 |   2235.5 | 0.2  |  1.68 |
+| Since Jan 2020 |    241 |     42 |   3785.5 | 0.17 |  1.57 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
@@ -214,8 +214,8 @@ categories: None
 | 99                | 2021-03-20 | cheltenham R7                 | 24 Martinhal          |  26    |    -10   |
 | 9                 | 2021-03-19 | moonee-valley R7              | 3 Elite Street        |  34    |    -10   |
 | 7                 | 2021-03-19 | moonee-valley R4              | 3 Drone Strike        |  34    |    -10   |
-| 99                | 2021-03-18 | cheltenham R7                 | 7 Ramillies           |  18    |    -10   |
 | 99                | 2021-03-18 | cheltenham R7                 | 2 Cool Jet            |  61    |    -10   |
+| 99                | 2021-03-18 | cheltenham R7                 | 7 Ramillies           |  18    |    -10   |
 | 99                | 2021-03-16 | stratford R7                  | 1 American Legacy     |  23    |    -10   |
 | 99                | 2021-03-14 | navan R6                      | 5 Forza Milan         |  10    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | hereford R2                   | 10 Oscar Asche        |  23    |    -10   |
