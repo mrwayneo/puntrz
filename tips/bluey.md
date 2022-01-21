@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-01-21 20:55:27 +1000  
+date: 2022-01-22 06:05:04 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
-| Last 28 Days   |     12 |      0 |     -120 | 0    | -1    |
-| Last 6 Months  |    115 |     24 |     3481 | 0.21 |  3.03 |
-| Since Jan 2020 |    230 |     41 |     4646 | 0.18 |  2.02 |
+| Last 28 Days   |     13 |      0 |     -130 | 0    | -1    |
+| Last 6 Months  |    116 |     24 |     3471 | 0.21 |  2.99 |
+| Since Jan 2020 |    231 |     41 |     4636 | 0.18 |  2.01 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 01:15             | 2022-01-22 | southwell R5           | 8 Available Angel     |  11   |      -10 |
+| 0                 | 2022-01-22 | southwell R5           | 8 Available Angel     |   0   |      -10 |
 | 4                 | 2022-01-19 | sandown-lakeside R8    | 11 Agnelli            |   7.5 |      -10 |
 | 10                | 2022-01-16 | geraldton R5           | 8 O'reilly's Crumpet  |  31   |      -10 |
 | 6                 | 2022-01-15 | gold-coast R9          | 1 The Odyssey         |  14   |      -10 |

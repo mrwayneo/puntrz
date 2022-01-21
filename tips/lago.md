@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-01-21 20:55:27 +1000  
+date: 2022-01-22 06:05:04 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      1 |      4.5 | 1    |  0.45 |
-| Last 28 Days   |     13 |      5 |    -11.5 | 0.38 | -0.09 |
-| Last 6 Months  |    100 |     62 |   1489.6 | 0.62 |  1.49 |
-| Since Jan 2020 |    193 |    102 |   1563.4 | 0.53 |  0.81 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |     14 |      5 |    -21.5 | 0.36 | -0.15 |
+| Last 6 Months  |    101 |     62 |   1479.6 | 0.61 |  1.46 |
+| Since Jan 2020 |    194 |    102 |   1553.4 | 0.53 |  0.8  |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 23:50             | 2022-01-21 | lingfield R1           | 2 Nurse Susan        |  2.85 |    -10   |
+| :2nd_place_medal: | 2022-01-21 | lingfield R1           | 2 Nurse Susan        |  2.85 |    -10   |
 | :boom:            | 2022-01-16 | punchestown R1         | 1 Dysart Dynamo      |  1.45 |      4.5 |
 | 7                 | 2022-01-15 | flemington R4          | 5 Elzamee            |  5    |    -10   |
 | :3rd_place_medal: | 2022-01-12 | doncaster R5           | 7 Russian Ruler      |  2.5  |    -10   |
@@ -163,8 +163,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1          | 2 Haut En Couleurs   | 23    |    -10   |
 | :boom:            | 2021-03-19 | sunshine-coast R5      | 7 Karaka Lad         |  1.6  |      6   |
 | :3rd_place_medal: | 2021-03-18 | cheltenham R7          | 12 Elle Est Belle    | 19    |    -10   |
-| 99                | 2021-03-14 | sandown R4             | 9 Precious           | 26    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | sandown R4             | 18 Tweed Skirt       |  7.5  |    -10   |
+| 99                | 2021-03-14 | sandown R4             | 9 Precious           | 26    |    -10   |
 | :2nd_place_medal: | 2021-03-12 | thurles R7             | 3 Deploy The Getaway |  1.8  |    -10   |
 | 99                | 2021-03-08 | huntingdon R7          | 1 Quid Pro Quo       |  1.9  |    -10   |
 | 99                | 2021-02-28 | fairyhouse R8          | 5 Glengouly          |  2.25 |    -10   |
