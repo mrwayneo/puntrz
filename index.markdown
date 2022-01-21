@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-21 14:59:17 +1000  
+date: 2022-01-21 15:33:46 +1000  
 ---   
 
 
@@ -103,7 +103,7 @@ date: 2022-01-21 14:59:17 +1000
 | 23 | :soon:            | 2022-01-21 19:15:00 | canterbury     |      3 |        7 | Jal Lei           |   1.65 | vulture,milkman    |
 | 24 | :soon:            | 2022-01-21 17:20:00 | canberra       |      7 |        7 | Ten Bells         |   2    | benny,pangea       |
 | 25 | :soon:            | 2022-01-21 15:45:00 | port-macquarie |      5 |        7 | Jet Pack          |   4.8  | looseknot          |
-| 26 | :soon:            | 2022-01-21 15:30:00 | flemington     |      2 |        8 | Strike Eagle      |   7.5  | vulture            |
-| 27 | :soon:            | 2022-01-21 15:25:00 | canberra       |      4 |        8 | The Grundler      |   5.5  | vulture            |
-| 28 | :soon:            | 2022-01-21 15:12:00 | dalby          |      5 |        1 | Wolff Boss        |   5    | pangea             |
+| 26 | --                | 2022-01-21 15:30:00 | flemington     |      2 |        8 | Strike Eagle      |   7.5  | vulture            |
+| 27 | :2nd_place_medal: | 2022-01-21 15:25:00 | canberra       |      4 |        8 | The Grundler      |   5.5  | vulture            |
+| 28 | :3rd_place_medal: | 2022-01-21 15:12:00 | dalby          |      5 |        1 | Wolff Boss        |   5    | pangea             |
 | 29 | :3rd_place_medal: | 2022-01-21 13:22:00 | dalby          |      2 |        1 | Guts 'N' Glory    |   3.5  | looseknot          |
