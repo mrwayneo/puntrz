@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-21 13:09:42 +1000  
+date: 2022-01-21 13:24:35 +1000  
 ---   
 
 
@@ -106,4 +106,4 @@ date: 2022-01-21 13:09:42 +1000
 | 26 | :soon:   | 2022-01-21 15:30:00 | flemington     |      2 |        8 | Strike Eagle      |   7.5  | vulture            |
 | 27 | :soon:   | 2022-01-21 15:25:00 | canberra       |      4 |        8 | The Grundler      |   5.5  | vulture            |
 | 28 | :soon:   | 2022-01-21 15:12:00 | dalby          |      5 |        1 | Wolff Boss        |   5    | pangea             |
-| 29 | :soon:   | 2022-01-21 13:22:00 | dalby          |      2 |        1 | Guts 'N' Glory    |   3.5  | looseknot          |
+| 29 | --       | 2022-01-21 13:22:00 | dalby          |      2 |        1 | Guts 'N' Glory    |   3.5  | looseknot          |
