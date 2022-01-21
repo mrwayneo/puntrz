@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-01-22 07:53:06 +1000  
+date: 2022-01-22 09:13:18 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event             | runner             |   win |   return |
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
+| 17:20             | 2022-01-22 | randwick R9       | 8 Kingsheir        |  3.9  |      -10 |
 | :2nd_place_medal: | 2022-01-21 | canterbury R1     | 6 Taborca          | 12    |      -10 |
 | 7                 | 2022-01-07 | canterbury R6     | 2 Karlstad         |  4.75 |      -10 |
 | :2nd_place_medal: | 2022-01-07 | canterbury R4     | 5 Lady Proisir     |  8    |      -10 |

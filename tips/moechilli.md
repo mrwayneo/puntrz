@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-01-22 07:53:07 +1000  
+date: 2022-01-22 09:13:19 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,9 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
+| 01:00             | 2022-01-23 | haydock R3             | 6 Tommy's Oscar      |   1.6  |    -10   |
+| 18:32             | 2022-01-22 | esperance-bay R4       | 5 Noble Reflection   |   2.45 |    -10   |
+| 13:23             | 2022-01-22 | townsville R1          | 6 Magnate            |   4    |    -10   |
 | 4                 | 2022-01-16 | strathalbyn R5         | 5 Gogolf Guru        |   9    |    -10   |
 | 0                 | 2022-01-14 | esperance-bay R8       | 7 Nobel Prince       |   0    |    -10   |
 | 6                 | 2022-01-14 | townsville R5          | 5 Micawber           |   3.7  |    -10   |

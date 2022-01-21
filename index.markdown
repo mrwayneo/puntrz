@@ -1,11 +1,30 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-22 07:53:12 +1000  
+date: 2022-01-22 09:13:24 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 |    0 |    -1 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 |    0 |    -1 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      3 |      0 |      -30 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 |    0 |    -1 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      3 |      0 |      -30 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |     -110 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      0 |     -190 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      0 |     -200 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      0 |     -260 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     27 |      0 |     -270 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     27 |      0 |     -270 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     72 |      0 |     -720 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     97 |      0 |     -970 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,35 +78,84 @@ date: 2022-01-22 07:53:12 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6214 |    889 | -10364.9 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7813 |    385 | -20874   | 0.05 | -0.27 |
 
-|    | finish            | time                | track          |   race |   number | name              |   odds | tipster            |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | --                | 2022-01-22 05:30:00 | newcastle      |      6 |        7 | Power Point       |   8    | looseknot          |
-|  1 | :3rd_place_medal: | 2022-01-22 03:08:00 | lingfield      |      7 |        2 | Cut The Mustard   |   7.5  | overthrow          |
-|  2 | --                | 2022-01-22 03:08:00 | lingfield      |      7 |        9 | Neil The Legend   |   3.5  | overthrow          |
-|  3 | --                | 2022-01-22 03:00:00 | newcastle      |      1 |        1 | Desert Emperor    |   4.4  | vulture            |
-|  4 | --                | 2022-01-22 02:35:00 | lingfield      |      6 |        5 | Antunes           |  71    | overthrow          |
-|  5 | 4.0               | 2022-01-22 02:35:00 | lingfield      |      6 |        6 | Hacker Des Places |  12    | pangea,overthrow   |
-|  6 | 4.0               | 2022-01-22 02:00:00 | lingfield      |      5 |        1 | Broken Halo       |   3.3  | overthrow          |
-|  7 | --                | 2022-01-22 02:00:00 | lingfield      |      5 |        5 | Midnight River    |   9.5  | overthrow          |
-|  8 | --                | 2022-01-22 01:40:00 | market-rasen   |      5 |        4 | Hidden Beauty     |   2.9  | vulture,milkman    |
-|  9 | --                | 2022-01-22 01:40:00 | market-rasen   |      5 |        6 | Nell's Bells      |   3.8  | evenodds,milkman   |
-| 10 | 4.0               | 2022-01-22 01:25:00 | lingfield      |      4 |        4 | On The Blind Side |   2.8  | overthrow          |
-| 11 | --                | 2022-01-22 01:25:00 | lingfield      |      4 |        1 | Calva D'Auge      |   3.3  | overthrow          |
-| 12 | --                | 2022-01-22 01:15:00 | southwell      |      5 |        8 | Available Angel   |  11    | cosmo,bluey        |
-| 13 | :2nd_place_medal: | 2022-01-22 00:50:00 | lingfield      |      3 |        1 | Eclair D'Ainay    |   3.8  | evenodds,overthrow |
-| 14 | :3rd_place_medal: | 2022-01-22 00:20:00 | lingfield      |      2 |        3 | Pure Bliss        |  10    | milkman            |
-| 15 | --                | 2022-01-22 00:00:00 | market-rasen   |      2 |        3 | Donladd           |   6    | overthrow          |
-| 16 | :2nd_place_medal: | 2022-01-21 23:50:00 | lingfield      |      1 |        2 | Nurse Susan       |   2.85 | evenodds,lago      |
-| 17 | --                | 2022-01-21 23:50:00 | lingfield      |      1 |        3 | Rainyday Woman    |   2.8  | evenodds,overthrow |
-| 18 | --                | 2022-01-21 23:40:00 | southwell      |      2 |        1 | Last Ammo         |   1.8  | vulture,milkman    |
-| 19 | --                | 2022-01-21 21:15:00 | canterbury     |      7 |        2 | Miracle Day       |   4.6  | benny,pangea       |
-| 20 | :3rd_place_medal: | 2022-01-21 20:45:00 | canterbury     |      6 |        3 | Sessions Road     |   7.5  | pangea             |
-| 21 | 6.0               | 2022-01-21 20:30:00 | sunshine-coast |      5 |        1 | Brave Nick        |   2.9  | evenodds,overthrow |
-| 22 | :3rd_place_medal: | 2022-01-21 19:15:00 | canterbury     |      3 |        1 | Evening Bride     |   3.9  | milkman            |
-| 23 | :boom:            | 2022-01-21 19:15:00 | canterbury     |      3 |        7 | Jal Lei           |   1.65 | vulture,milkman    |
-| 24 | --                | 2022-01-21 17:20:00 | canberra       |      7 |        7 | Ten Bells         |   2    | benny,pangea       |
-| 25 | :3rd_place_medal: | 2022-01-21 15:45:00 | port-macquarie |      5 |        7 | Jet Pack          |   4.8  | looseknot          |
-| 26 | 7.0               | 2022-01-21 15:30:00 | flemington     |      2 |        8 | Strike Eagle      |   7.5  | vulture            |
-| 27 | :2nd_place_medal: | 2022-01-21 15:25:00 | canberra       |      4 |        8 | The Grundler      |   5.5  | vulture            |
-| 28 | :3rd_place_medal: | 2022-01-21 15:12:00 | dalby          |      5 |        1 | Wolff Boss        |   5    | pangea             |
-| 29 | :3rd_place_medal: | 2022-01-21 13:22:00 | dalby          |      2 |        1 | Guts 'N' Glory    |   3.5  | looseknot          |
+|    | finish   | time                | track         |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-01-23 03:30:00 | wolverhampton |      1 |        6 | Rose Fandango      |  11    | cosmo,bluey        |
+|  1 | :soon:   | 2022-01-23 03:15:00 | haydock       |      7 |        8 | Sacre Pierre       |   2.6  | overthrow          |
+|  2 | :soon:   | 2022-01-23 03:05:00 | ascot         |      7 |        5 | Complete Unknown   |   3.5  | overthrow          |
+|  3 | :soon:   | 2022-01-23 03:05:00 | ascot         |      7 |        4 | Mucho Mas          |  11    | milkman            |
+|  4 | :soon:   | 2022-01-23 03:05:00 | ascot         |      7 |        8 | Galia Des Liteaux  |   2.1  | evenodds,lago      |
+|  5 | :soon:   | 2022-01-23 03:00:00 | navan         |      8 |        1 | Don Chalant        |   3.8  | overthrow          |
+|  6 | :soon:   | 2022-01-23 02:53:00 | taunton       |      6 |        4 | Turnaway           |   8.5  | overthrow          |
+|  7 | :soon:   | 2022-01-23 02:40:00 | lingfield     |      6 |        6 | Umm Hurair         |   4    | milkman            |
+|  8 | :soon:   | 2022-01-23 02:40:00 | lingfield     |      6 |        3 | Miss Marble        |  11    | milkman            |
+|  9 | :soon:   | 2022-01-23 02:40:00 | lingfield     |      6 |        2 | Viola              |   7    | vulture            |
+| 10 | :soon:   | 2022-01-23 02:35:00 | ascot         |      6 |        1 | Amoola Gold        | 101    | overthrow          |
+| 11 | :soon:   | 2022-01-23 02:35:00 | ascot         |      6 |        4 | Shishkin           |   1.8  | evenodds,milkman   |
+| 12 | :soon:   | 2022-01-23 02:35:00 | ascot         |      6 |        2 | Energumene         |   2.4  | evenodds,overthrow |
+| 13 | :soon:   | 2022-01-23 02:10:00 | haydock       |      5 |        3 | Tokyo Getaway      |   6.5  | vulture            |
+| 14 | :soon:   | 2022-01-23 02:05:00 | lingfield     |      5 |        5 | Miss Candy         |   6    | looseknot          |
+| 15 | :soon:   | 2022-01-23 01:55:00 | ascot         |      5 |        3 | Amour de Nuit      |  17    | evenodds,overthrow |
+| 16 | :soon:   | 2022-01-23 01:55:00 | ascot         |      5 |        8 | Knight In Dubai    |   6    | overthrow          |
+| 17 | :soon:   | 2022-01-23 01:55:00 | ascot         |      5 |        5 | Phoenix Way        |   6.5  | vulture            |
+| 18 | :soon:   | 2022-01-23 01:35:00 | haydock       |      4 |        3 | Sam Brown          |  10    | milkman            |
+| 19 | :soon:   | 2022-01-23 01:20:00 | ascot         |      4 |        1 | Molly Ollys Wishes |   3.25 | overthrow          |
+| 20 | :soon:   | 2022-01-23 01:20:00 | ascot         |      4 |        2 | My Sister Sarah    |   3.3  | overthrow          |
+| 21 | :soon:   | 2022-01-23 01:00:00 | haydock       |      3 |        1 | Navajo Pass        |  13    | overthrow          |
+| 22 | :soon:   | 2022-01-23 01:00:00 | haydock       |      3 |        6 | Tommy's Oscar      |   1.6  | moechilli          |
+| 23 | :soon:   | 2022-01-23 00:55:00 | lingfield     |      3 |        4 | Mobashr            |   3.7  | milkman            |
+| 24 | :soon:   | 2022-01-23 00:55:00 | lingfield     |      3 |        1 | Diderot            |   3    | vulture            |
+| 25 | :soon:   | 2022-01-23 00:45:00 | ascot         |      3 |        9 | Unexpected Party   |   4.5  | pangea,overthrow   |
+| 26 | :soon:   | 2022-01-23 00:45:00 | ascot         |      3 |       11 | Sonigino           |  19    | overthrow          |
+| 27 | :soon:   | 2022-01-23 00:45:00 | ascot         |      3 |        3 | Fils D'oudairies   |   9    | overthrow          |
+| 28 | :soon:   | 2022-01-23 00:25:00 | haydock       |      2 |        4 | Might I            |   6    | milkman            |
+| 29 | :soon:   | 2022-01-23 00:25:00 | haydock       |      2 |        7 | Richmond Lake      |  13    | overthrow          |
+| 30 | :soon:   | 2022-01-23 00:25:00 | haydock       |      2 |        1 | Jonbon             |   1.35 | overthrow,lago     |
+| 31 | :soon:   | 2022-01-23 00:05:00 | navan         |      3 |       19 | Rock On Cassie     |  23    | milkman            |
+| 32 | :soon:   | 2022-01-23 00:05:00 | turffontein   |      7 |        1 | Aragosta           |   0    | milkman            |
+| 33 | :soon:   | 2022-01-22 23:50:00 | haydock       |      1 |        2 | Minella Drama      |   2.9  | overthrow          |
+| 34 | :soon:   | 2022-01-22 23:45:00 | lingfield     |      1 |        3 | Totally Charming   |   3.3  | vulture            |
+| 35 | :soon:   | 2022-01-22 23:35:00 | ascot         |      1 |        3 | Irish Hill         |   2.8  | evenodds,overthrow |
+| 36 | :soon:   | 2022-01-22 23:35:00 | ascot         |      1 |        5 | Doctor Parnassus   |   8.5  | evenodds,overthrow |
+| 37 | :soon:   | 2022-01-22 23:35:00 | ascot         |      1 |        2 | Hayedo             |   7.5  | vulture            |
+| 38 | :soon:   | 2022-01-22 23:00:00 | navan         |      1 |        1 | Au Fleuron         |   4.4  | milkman            |
+| 39 | :soon:   | 2022-01-22 21:10:00 | turffontein   |      2 |        1 | Val D'orcia        |   0    | milkman            |
+| 40 | :soon:   | 2022-01-22 21:10:00 | turffontein   |      2 |        6 | Supreme Warrior    |   0    | milkman            |
+| 41 | :soon:   | 2022-01-22 19:45:00 | esperance-bay |      6 |        6 | Translucent        |   4.2  | looseknot          |
+| 42 | :soon:   | 2022-01-22 19:30:00 | singapore     |     10 |        2 | Katak              |   0    | milkman            |
+| 43 | :soon:   | 2022-01-22 18:32:00 | esperance-bay |      4 |        5 | Noble Reflection   |   2.45 | moechilli          |
+| 44 | :soon:   | 2022-01-22 18:12:00 | doomben       |      9 |        7 | The Ritz           |   4.2  | evenodds,milkman   |
+| 45 | :soon:   | 2022-01-22 18:12:00 | doomben       |      9 |       14 | Palladas           |   4    | pangea             |
+| 46 | :soon:   | 2022-01-22 18:12:00 | doomben       |      9 |        9 | Strange Charm      |   8    | pangea             |
+| 47 | :soon:   | 2022-01-22 17:45:00 | kembla-grange |      7 |        5 | Cinque Torri       |   6    | pangea             |
+| 48 | :soon:   | 2022-01-22 17:40:00 | moonee-valley |      9 |        8 | Way To Go Paula    |   6    | benny,pangea       |
+| 49 | :soon:   | 2022-01-22 17:28:00 | townsville    |      7 |        4 | Endorse            |   6.5  | vulture,pangea     |
+| 50 | :soon:   | 2022-01-22 17:20:00 | randwick      |      9 |        8 | Kingsheir          |   3.9  | wallbow            |
+| 51 | :soon:   | 2022-01-22 17:12:00 | gawler        |      8 |       10 | Montign            |   3.5  | benny,pangea       |
+| 52 | :soon:   | 2022-01-22 16:32:00 | gawler        |      7 |        6 | Spectacle          |   3.5  | vulture            |
+| 53 | :soon:   | 2022-01-22 16:28:00 | gatton        |      4 |        3 | Elveena            |   2.15 | pangea             |
+| 54 | :soon:   | 2022-01-22 16:20:00 | moonee-valley |      7 |       12 | Unanimous          |   3.25 | evenodds,overthrow |
+| 55 | :soon:   | 2022-01-22 16:12:00 | doomben       |      6 |        7 | Amity Gal          |   2.1  | evenodds,lago      |
+| 56 | :soon:   | 2022-01-22 16:12:00 | doomben       |      6 |        2 | Frosty Mango       |   2.3  | pangea             |
+| 57 | :soon:   | 2022-01-22 16:04:00 | townsville    |      5 |        4 | Dutton Branded     |   3.9  | vulture            |
+| 58 | :soon:   | 2022-01-22 16:00:00 | randwick      |      7 |        7 | Salina Dreaming    |   3.25 | pangea,blackshadow |
+| 59 | :soon:   | 2022-01-22 15:51:00 | ellerslie     |      3 |        3 | Imperatriz         |   3.5  | milkman            |
+| 60 | :soon:   | 2022-01-22 15:48:00 | gatton        |      3 |        2 | Heart Vandelay     |   2.88 | evenodds,overthrow |
+| 61 | :soon:   | 2022-01-22 15:40:00 | moonee-valley |      6 |        6 | Rogue Star         |   9    | pangea             |
+| 62 | :soon:   | 2022-01-22 14:56:00 | parkes        |      3 |        6 | Celestial Doll     |   2.15 | pangea             |
+| 63 | :soon:   | 2022-01-22 14:53:00 | gore          |      9 |        2 | Kilowatt           |   5    | pangea             |
+| 64 | :soon:   | 2022-01-22 14:18:00 | doomben       |      3 |        6 | Supergiant         |   5    | overthrow          |
+| 65 | :soon:   | 2022-01-22 14:18:00 | gore          |      8 |        4 | Pinhead            |   4.8  | looseknot          |
+| 66 | :soon:   | 2022-01-22 14:02:00 | gawler        |      3 |        5 | Eminencia          |  12    | vulture            |
+| 67 | :soon:   | 2022-01-22 14:02:00 | gawler        |      3 |        2 | Miss Langtry       |   6.5  | vulture            |
+| 68 | :soon:   | 2022-01-22 14:00:00 | trentham      |      7 |        3 | Dalmatia           |   4.2  | vulture            |
+| 69 | :soon:   | 2022-01-22 13:50:00 | moonee-valley |      3 |        3 | Starcaster         |   4.5  | pangea             |
+| 70 | :soon:   | 2022-01-22 13:50:00 | moonee-valley |      3 |        1 | Good Idea          |   3.8  | benny,pangea       |
+| 71 | :soon:   | 2022-01-22 13:27:00 | gawler        |      2 |        7 | Centrefield        |   8    | vulture            |
+| 72 | :soon:   | 2022-01-22 13:27:00 | gawler        |      2 |        3 | Fighting Mclaren   |   3.1  | milkman            |
+| 73 | :soon:   | 2022-01-22 13:23:00 | townsville    |      1 |        6 | Magnate            |   4    | vulture,moechilli  |
+| 74 | :soon:   | 2022-01-22 13:15:00 | moonee-valley |      2 |        3 | Eros               |   2.25 | evenodds,overthrow |
+| 75 | :soon:   | 2022-01-22 12:40:00 | moonee-valley |      1 |        1 | Unflinching        |   1.75 | milkman,icyhot     |
+| 76 | :soon:   | 2022-01-22 12:40:00 | moonee-valley |      1 |        5 | Duchy Of Savoy     |   2.45 | vulture,pangea     |
+| 77 | :soon:   | 2022-01-22 12:33:00 | gore          |      5 |        2 | So Much Mour       |   9    | pangea             |
+| 78 | :soon:   | 2022-01-22 12:25:00 | randwick      |      1 |        4 | Silent Impact      |   2.45 | milkman            |
