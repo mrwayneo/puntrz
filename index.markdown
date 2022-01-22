@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-22 13:24:10 +1000  
+date: 2022-01-22 13:40:20 +1000  
 ---   
 
 
@@ -151,9 +151,9 @@ date: 2022-01-22 13:24:10 +1000
 | 68 | :soon:            | 2022-01-22 14:00:00 | trentham      |      7 |        3 | Dalmatia           |   4.2  | vulture            |
 | 69 | :soon:            | 2022-01-22 13:50:00 | moonee-valley |      3 |        3 | Starcaster         |   4.5  | pangea             |
 | 70 | :soon:            | 2022-01-22 13:50:00 | moonee-valley |      3 |        1 | Good Idea          |   3.8  | benny,pangea       |
-| 71 | :soon:            | 2022-01-22 13:27:00 | gawler        |      2 |        7 | Centrefield        |   8    | vulture            |
-| 72 | :soon:            | 2022-01-22 13:27:00 | gawler        |      2 |        3 | Fighting Mclaren   |   3.1  | milkman            |
-| 73 | --                | 2022-01-22 13:23:00 | townsville    |      1 |        6 | Magnate            |   4    | vulture,moechilli  |
+| 71 | --                | 2022-01-22 13:27:00 | gawler        |      2 |        7 | Centrefield        |   8    | vulture            |
+| 72 | :2nd_place_medal: | 2022-01-22 13:27:00 | gawler        |      2 |        3 | Fighting Mclaren   |   3.1  | milkman            |
+| 73 | :2nd_place_medal: | 2022-01-22 13:23:00 | townsville    |      1 |        6 | Magnate            |   4    | vulture,moechilli  |
 | 74 | :3rd_place_medal: | 2022-01-22 13:15:00 | moonee-valley |      2 |        3 | Eros               |   2.25 | evenodds,overthrow |
 | 75 | :boom:            | 2022-01-22 12:40:00 | moonee-valley |      1 |        1 | Unflinching        |   1.75 | milkman,icyhot     |
 | 76 | :2nd_place_medal: | 2022-01-22 12:40:00 | moonee-valley |      1 |        5 | Duchy Of Savoy     |   2.45 | vulture,pangea     |
