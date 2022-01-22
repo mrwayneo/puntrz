@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-22 18:36:16 +1000  
+date: 2022-01-22 19:39:26 +1000  
 ---   
 
 
@@ -19,11 +19,11 @@ date: 2022-01-22 18:36:16 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      3 |      0 |      -30 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |     -101 | 0.15 | -0.51 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |     -110 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      2 |     -144 | 0.11 | -0.76 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      3 |     -112 | 0.16 | -0.59 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      1 |     -209 | 0.04 | -0.8  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     72 |      5 |     -264 | 0.07 | -0.37 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     27 |      0 |     -270 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     27 |      0 |     -270 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     72 |      4 |     -375 | 0.06 | -0.52 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     97 |      1 |     -870 | 0.01 | -0.9  |
 
 ##### Form Last 20 tips   
@@ -122,7 +122,7 @@ date: 2022-01-22 18:36:16 +1000
 | 39 | :soon:            | 2022-01-22 21:10:00 | turffontein   |      2 |        1 | Val D'orcia        |   0    | milkman            |
 | 40 | :soon:            | 2022-01-22 21:10:00 | turffontein   |      2 |        6 | Supreme Warrior    |   0    | milkman            |
 | 41 | :soon:            | 2022-01-22 19:45:00 | esperance-bay |      6 |        6 | Translucent        |   4.2  | looseknot          |
-| 42 | :soon:            | 2022-01-22 19:30:00 | singapore     |     10 |        2 | Katak              |   0    | milkman            |
+| 42 | :boom:            | 2022-01-22 19:30:00 | singapore     |     10 |        2 | Katak              |   0    | milkman            |
 | 43 | :3rd_place_medal: | 2022-01-22 18:32:00 | esperance-bay |      4 |        5 | Noble Reflection   |   2.45 | moechilli          |
 | 44 | 8.0               | 2022-01-22 18:12:00 | doomben       |      9 |        7 | The Ritz           |   4.2  | evenodds,milkman   |
 | 45 | :2nd_place_medal: | 2022-01-22 18:12:00 | doomben       |      9 |       14 | Palladas           |   4    | pangea             |
