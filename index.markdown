@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-22 16:19:46 +1000  
+date: 2022-01-22 16:34:47 +1000  
 ---   
 
 
@@ -23,7 +23,7 @@ date: 2022-01-22 16:19:46 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      0 |     -260 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     27 |      0 |     -270 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     27 |      0 |     -270 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     72 |      2 |     -444 | 0.03 | -0.62 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     72 |      3 |     -411 | 0.04 | -0.57 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     97 |      1 |     -870 | 0.01 | -0.9  |
 
 ##### Form Last 20 tips   
@@ -132,9 +132,9 @@ date: 2022-01-22 16:19:46 +1000
 | 49 | :soon:            | 2022-01-22 17:28:00 | townsville    |      7 |        4 | Endorse            |   6.5  | vulture,pangea     |
 | 50 | :soon:            | 2022-01-22 17:20:00 | randwick      |      9 |        8 | Kingsheir          |   3.9  | wallbow            |
 | 51 | :soon:            | 2022-01-22 17:12:00 | gawler        |      8 |       10 | Montign            |   3.5  | benny,pangea       |
-| 52 | :soon:            | 2022-01-22 16:32:00 | gawler        |      7 |        6 | Spectacle          |   3.5  | vulture            |
-| 53 | :soon:            | 2022-01-22 16:28:00 | gatton        |      4 |        3 | Elveena            |   2.15 | pangea             |
-| 54 | :soon:            | 2022-01-22 16:20:00 | moonee-valley |      7 |       12 | Unanimous          |   3.25 | evenodds,overthrow |
+| 52 | --                | 2022-01-22 16:32:00 | gawler        |      7 |        6 | Spectacle          |   3.5  | vulture            |
+| 53 | :3rd_place_medal: | 2022-01-22 16:28:00 | gatton        |      4 |        3 | Elveena            |   2.15 | pangea             |
+| 54 | :2nd_place_medal: | 2022-01-22 16:20:00 | moonee-valley |      7 |       12 | Unanimous          |   3.25 | evenodds,overthrow |
 | 55 | :3rd_place_medal: | 2022-01-22 16:12:00 | doomben       |      6 |        7 | Amity Gal          |   2.1  | evenodds,lago      |
 | 56 | :2nd_place_medal: | 2022-01-22 16:12:00 | doomben       |      6 |        2 | Frosty Mango       |   2.3  | pangea             |
 | 57 | :2nd_place_medal: | 2022-01-22 16:04:00 | townsville    |      5 |        4 | Dutton Branded     |   3.9  | vulture            |
