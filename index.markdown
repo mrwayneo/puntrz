@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-22 15:25:22 +1000  
+date: 2022-01-22 15:49:02 +1000  
 ---   
 
 
@@ -140,8 +140,8 @@ date: 2022-01-22 15:25:22 +1000
 | 57 | :soon:            | 2022-01-22 16:04:00 | townsville    |      5 |        4 | Dutton Branded     |   3.9  | vulture            |
 | 58 | :soon:            | 2022-01-22 16:00:00 | randwick      |      7 |        7 | Salina Dreaming    |   3.25 | pangea,blackshadow |
 | 59 | :soon:            | 2022-01-22 15:51:00 | ellerslie     |      3 |        3 | Imperatriz         |   3.5  | milkman            |
-| 60 | :soon:            | 2022-01-22 15:48:00 | gatton        |      3 |        2 | Heart Vandelay     |   2.88 | evenodds,overthrow |
-| 61 | :soon:            | 2022-01-22 15:40:00 | moonee-valley |      6 |        6 | Rogue Star         |   9    | pangea             |
+| 60 | --                | 2022-01-22 15:48:00 | gatton        |      3 |        2 | Heart Vandelay     |   2.88 | evenodds,overthrow |
+| 61 | --                | 2022-01-22 15:40:00 | moonee-valley |      6 |        6 | Rogue Star         |   9    | pangea             |
 | 62 | :boom:            | 2022-01-22 14:56:00 | parkes        |      3 |        6 | Celestial Doll     |   2.15 | pangea             |
 | 63 | --                | 2022-01-22 14:53:00 | gore          |      9 |        2 | Kilowatt           |   5    | pangea             |
 | 64 | 4.0               | 2022-01-22 14:18:00 | doomben       |      3 |        6 | Supergiant         |   5    | overthrow          |
