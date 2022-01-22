@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-01-22 16:05:06 +1000  
+date: 2022-01-22 16:19:45 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
 | 03:05             | 2022-01-23 | ascot R7               | 8 Galia Des Liteaux  |  2.1  |    -10   |
 | 00:25             | 2022-01-23 | haydock R2             | 1 Jonbon             |  1.35 |    -10   |
-| 16:12             | 2022-01-22 | doomben R6             | 7 Amity Gal          |  2.1  |    -10   |
+| :3rd_place_medal: | 2022-01-22 | doomben R6             | 7 Amity Gal          |  2.1  |    -10   |
 | :2nd_place_medal: | 2022-01-21 | lingfield R1           | 2 Nurse Susan        |  2.85 |    -10   |
 | :boom:            | 2022-01-16 | punchestown R1         | 1 Dysart Dynamo      |  1.45 |      4.5 |
 | 7                 | 2022-01-15 | flemington R4          | 5 Elzamee            |  5    |    -10   |
@@ -63,8 +63,8 @@ categories: None
 | :boom:            | 2021-11-09 | huntingdon R1          | 7 Theatre Glory      |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3          | 3 Yes Dream          |  1.6  |      6   |
 | :boom:            | 2021-11-09 | kempton R3             | 3 Doddiethegreat     |  1.33 |      3.3 |
-| :boom:            | 2021-11-07 | sunshine-coast R5      | 5 Gypsy Goddess      |  3.5  |     25   |
 | :3rd_place_medal: | 2021-11-07 | sunshine-coast R5      | 2 Ma Ma's Rose       |  3.8  |    -10   |
+| :boom:            | 2021-11-07 | sunshine-coast R5      | 5 Gypsy Goddess      |  3.5  |     25   |
 | :boom:            | 2021-11-07 | wincanton R2           | 1 Knappers Hill      |  1.1  |      1   |
 | 0                 | 2021-11-05 | warwick R1             | 6 In This World      |  0    |    -10   |
 | 99                | 2021-11-03 | exeter R2              | 5 Huflower           |  0    |    -10   |
