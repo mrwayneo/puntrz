@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-22 13:40:20 +1000  
+date: 2022-01-22 13:54:41 +1000  
 ---   
 
 
@@ -149,9 +149,9 @@ date: 2022-01-22 13:40:20 +1000
 | 66 | :soon:            | 2022-01-22 14:02:00 | gawler        |      3 |        5 | Eminencia          |  12    | vulture            |
 | 67 | :soon:            | 2022-01-22 14:02:00 | gawler        |      3 |        2 | Miss Langtry       |   6.5  | vulture            |
 | 68 | :soon:            | 2022-01-22 14:00:00 | trentham      |      7 |        3 | Dalmatia           |   4.2  | vulture            |
-| 69 | :soon:            | 2022-01-22 13:50:00 | moonee-valley |      3 |        3 | Starcaster         |   4.5  | pangea             |
-| 70 | :soon:            | 2022-01-22 13:50:00 | moonee-valley |      3 |        1 | Good Idea          |   3.8  | benny,pangea       |
-| 71 | --                | 2022-01-22 13:27:00 | gawler        |      2 |        7 | Centrefield        |   8    | vulture            |
+| 69 | --                | 2022-01-22 13:50:00 | moonee-valley |      3 |        3 | Starcaster         |   4.5  | pangea             |
+| 70 | --                | 2022-01-22 13:50:00 | moonee-valley |      3 |        1 | Good Idea          |   3.8  | benny,pangea       |
+| 71 | 6.0               | 2022-01-22 13:27:00 | gawler        |      2 |        7 | Centrefield        |   8    | vulture            |
 | 72 | :2nd_place_medal: | 2022-01-22 13:27:00 | gawler        |      2 |        3 | Fighting Mclaren   |   3.1  | milkman            |
 | 73 | :2nd_place_medal: | 2022-01-22 13:23:00 | townsville    |      1 |        6 | Magnate            |   4    | vulture,moechilli  |
 | 74 | :3rd_place_medal: | 2022-01-22 13:15:00 | moonee-valley |      2 |        3 | Eros               |   2.25 | evenodds,overthrow |
