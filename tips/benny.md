@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-01-22 16:34:38 +1000  
+date: 2022-01-22 18:36:08 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 17:40             | 2022-01-22 | moonee-valley R9              | 8 Way To Go Paula     |  6    |    -10   |
-| 17:12             | 2022-01-22 | gawler R8                     | 10 Montign            |  3.5  |    -10   |
+| :3rd_place_medal: | 2022-01-22 | moonee-valley R9              | 8 Way To Go Paula     |  6    |    -10   |
+| :boom:            | 2022-01-22 | gawler R8                     | 10 Montign            |  3    |     20   |
 | 4                 | 2022-01-22 | moonee-valley R3              | 1 Good Idea           |  3.8  |    -10   |
 | 0                 | 2022-01-21 | canterbury R7                 | 2 Miracle Day         |  0    |    -10   |
 | 0                 | 2022-01-21 | canberra R7                   | 7 Ten Bells           |  0    |    -10   |
@@ -164,8 +164,8 @@ categories: None
 | 8                 | 2021-10-27 | bendigo R9                    | 8 Quiet Lucky         | 16    |    -10   |
 | 5                 | 2021-10-27 | canterbury R6                 | 5 Loch Lomond         |  8.5  |    -10   |
 | 4                 | 2021-10-27 | gore R2                       | 1 Kilowatt            |  3    |    -10   |
-| :boom:            | 2021-10-23 | ascot R7                      | 5 Wilchino            |  2.8  |     18   |
 | :3rd_place_medal: | 2021-10-23 | ascot R7                      | 12 Bright Diamond     |  3.3  |    -10   |
+| :boom:            | 2021-10-23 | ascot R7                      | 5 Wilchino            |  2.8  |     18   |
 | 5                 | 2021-10-23 | randwick R10                  | 7 Surreal Step        | 51    |    -10   |
 | 5                 | 2021-10-23 | randwick R6                   | 6 Shibli              |  4.2  |    -10   |
 | :boom:            | 2021-10-23 | doomben R5                    | 2 Birriecart          |  2.3  |     13   |
