@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-22 19:39:26 +1000  
+date: 2022-01-22 19:54:34 +1000  
 ---   
 
 
@@ -121,7 +121,7 @@ date: 2022-01-22 19:39:26 +1000
 | 38 | :soon:            | 2022-01-22 23:00:00 | navan         |      1 |        1 | Au Fleuron         |   4.4  | milkman            |
 | 39 | :soon:            | 2022-01-22 21:10:00 | turffontein   |      2 |        1 | Val D'orcia        |   0    | milkman            |
 | 40 | :soon:            | 2022-01-22 21:10:00 | turffontein   |      2 |        6 | Supreme Warrior    |   0    | milkman            |
-| 41 | :soon:            | 2022-01-22 19:45:00 | esperance-bay |      6 |        6 | Translucent        |   4.2  | looseknot          |
+| 41 | :3rd_place_medal: | 2022-01-22 19:45:00 | esperance-bay |      6 |        6 | Translucent        |   4.2  | looseknot          |
 | 42 | :boom:            | 2022-01-22 19:30:00 | singapore     |     10 |        2 | Katak              |   0    | milkman            |
 | 43 | :3rd_place_medal: | 2022-01-22 18:32:00 | esperance-bay |      4 |        5 | Noble Reflection   |   2.45 | moechilli          |
 | 44 | 8.0               | 2022-01-22 18:12:00 | doomben       |      9 |        7 | The Ritz           |   4.2  | evenodds,milkman   |
