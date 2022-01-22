@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-01-22 22:54:59 +1000  
+date: 2022-01-23 06:04:42 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
-| Last 28 Days   |     42 |      6 |   -200   | 0.14 | -0.48 |
-| Last 6 Months  |    378 |     73 |   -967.5 | 0.19 | -0.26 |
-| Since Jan 2020 |    868 |    186 |   -784.5 | 0.21 | -0.09 |
+| Last 7 Days    |      7 |      1 |    -40   | 0.14 | -0.57 |
+| Last 28 Days   |     42 |      7 |   -170   | 0.17 | -0.4  |
+| Last 6 Months  |    381 |     74 |   -967.5 | 0.19 | -0.25 |
+| Since Jan 2020 |    871 |    187 |   -784.5 | 0.21 | -0.09 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
@@ -164,8 +164,8 @@ categories: None
 | 8                 | 2021-10-27 | bendigo R9                    | 8 Quiet Lucky         | 16    |    -10   |
 | 5                 | 2021-10-27 | canterbury R6                 | 5 Loch Lomond         |  8.5  |    -10   |
 | 4                 | 2021-10-27 | gore R2                       | 1 Kilowatt            |  3    |    -10   |
-| :boom:            | 2021-10-23 | ascot R7                      | 5 Wilchino            |  2.8  |     18   |
 | :3rd_place_medal: | 2021-10-23 | ascot R7                      | 12 Bright Diamond     |  3.3  |    -10   |
+| :boom:            | 2021-10-23 | ascot R7                      | 5 Wilchino            |  2.8  |     18   |
 | 5                 | 2021-10-23 | randwick R10                  | 7 Surreal Step        | 51    |    -10   |
 | 5                 | 2021-10-23 | randwick R6                   | 6 Shibli              |  4.2  |    -10   |
 | :boom:            | 2021-10-23 | doomben R5                    | 2 Birriecart          |  2.3  |     13   |

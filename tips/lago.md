@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-01-22 22:55:07 +1000  
+date: 2022-01-23 06:04:49 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |     14 |      5 |    -21.5 | 0.36 | -0.15 |
-| Last 6 Months  |    101 |     62 |   1479.6 | 0.61 |  1.46 |
-| Since Jan 2020 |    194 |    102 |   1553.4 | 0.53 |  0.8  |
+| Last 7 Days    |      4 |      1 |    -26   | 0.25 | -0.65 |
+| Last 28 Days   |     15 |      5 |    -50.5 | 0.33 | -0.34 |
+| Last 6 Months  |    104 |     63 |   1463.6 | 0.61 |  1.41 |
+| Since Jan 2020 |    197 |    103 |   1537.4 | 0.52 |  0.78 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 03:05             | 2022-01-23 | ascot R7               | 8 Galia Des Liteaux  |  2.1  |    -10   |
-| 00:25             | 2022-01-23 | haydock R2             | 1 Jonbon             |  1.35 |    -10   |
+| :3rd_place_medal: | 2022-01-23 | ascot R7               | 8 Galia Des Liteaux  |  2.1  |    -10   |
+| :boom:            | 2022-01-23 | haydock R2             | 1 Jonbon             |  1.4  |      4   |
 | :3rd_place_medal: | 2022-01-22 | doomben R6             | 7 Amity Gal          |  2.1  |    -10   |
 | :2nd_place_medal: | 2022-01-21 | lingfield R1           | 2 Nurse Susan        |  2.85 |    -10   |
 | :boom:            | 2022-01-16 | punchestown R1         | 1 Dysart Dynamo      |  1.45 |      4.5 |
@@ -63,8 +63,8 @@ categories: None
 | :boom:            | 2021-11-09 | huntingdon R1          | 7 Theatre Glory      |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3          | 3 Yes Dream          |  1.6  |      6   |
 | :boom:            | 2021-11-09 | kempton R3             | 3 Doddiethegreat     |  1.33 |      3.3 |
-| :boom:            | 2021-11-07 | sunshine-coast R5      | 5 Gypsy Goddess      |  3.5  |     25   |
 | :3rd_place_medal: | 2021-11-07 | sunshine-coast R5      | 2 Ma Ma's Rose       |  3.8  |    -10   |
+| :boom:            | 2021-11-07 | sunshine-coast R5      | 5 Gypsy Goddess      |  3.5  |     25   |
 | :boom:            | 2021-11-07 | wincanton R2           | 1 Knappers Hill      |  1.1  |      1   |
 | 0                 | 2021-11-05 | warwick R1             | 6 In This World      |  0    |    -10   |
 | 99                | 2021-11-03 | exeter R2              | 5 Huflower           |  0    |    -10   |

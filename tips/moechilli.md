@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-01-22 22:55:03 +1000  
+date: 2022-01-23 06:04:45 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      7 |      1 |    -43   | 0.14 | -0.61 |
-| Last 6 Months  |     49 |     11 |    108.5 | 0.22 |  0.22 |
-| Since Jan 2020 |    113 |     33 |    745.9 | 0.29 |  0.66 |
+| Last 7 Days    |      3 |      1 |    -14.3 | 0.33 | -0.48 |
+| Last 28 Days   |     10 |      2 |    -57.3 | 0.2  | -0.57 |
+| Last 6 Months  |     52 |     12 |     94.2 | 0.23 |  0.18 |
+| Since Jan 2020 |    116 |     34 |    731.6 | 0.29 |  0.63 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 01:00             | 2022-01-23 | haydock R3             | 6 Tommy's Oscar      |   1.6  |    -10   |
+| :boom:            | 2022-01-23 | haydock R3             | 6 Tommy's Oscar      |   1.57 |      5.7 |
 | :3rd_place_medal: | 2022-01-22 | esperance-bay R4       | 5 Noble Reflection   |   2.45 |    -10   |
 | :2nd_place_medal: | 2022-01-22 | townsville R1          | 6 Magnate            |   4    |    -10   |
 | 4                 | 2022-01-16 | strathalbyn R5         | 5 Gogolf Guru        |   9    |    -10   |
