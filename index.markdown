@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-24 07:46:27 +1000  
+date: 2022-01-24 08:14:36 +1000  
 ---   
 
 
@@ -70,43 +70,21 @@ date: 2022-01-24 07:46:27 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6251 |    897 |  -9709.6 | 0.14 | -0.16 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7879 |    384 | -21455   | 0.05 | -0.27 |
 
-|    | finish            | time                | track          |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :2nd_place_medal: | 2022-01-24 03:15:00 | thurles        |      7 |        1 | Billaway           |   1.65 | overthrow          |
-|  1 | :boom:            | 2022-01-24 03:15:00 | thurles        |      7 |        2 | Winged Leader      |   5    | overthrow          |
-|  2 | :3rd_place_medal: | 2022-01-24 03:08:00 | lingfield      |      7 |        3 | Nothin To Ask      |   4.6  | vulture            |
-|  3 | :3rd_place_medal: | 2022-01-24 03:00:00 | warwick        |      6 |        3 | Give Me A Copper   |   3.3  | overthrow          |
-|  4 | :boom:            | 2022-01-24 02:45:00 | thurles        |      6 |        1 | Fakir D'alene      |   2.25 | vulture            |
-|  5 | --                | 2022-01-24 02:15:00 | thurles        |      5 |        3 | Battleoverdoyen    |  26    | vulture            |
-|  6 | :boom:            | 2022-01-24 02:15:00 | thurles        |      5 |        1 | Allaho             |   1.4  | overthrow          |
-|  7 | --                | 2022-01-24 02:00:00 | lingfield      |      5 |        3 | Master Tommytucker |   9    | overthrow          |
-|  8 | :2nd_place_medal: | 2022-01-24 01:55:00 | kenilworth     |      7 |        6 | Long White Cloud   |   0    | milkman            |
-|  9 | :3rd_place_medal: | 2022-01-24 01:50:00 | warwick        |      4 |        2 | Washington         |   4.2  | milkman            |
-| 10 | :boom:            | 2022-01-24 01:50:00 | warwick        |      4 |        1 | Barrichello        |   6    | overthrow          |
-| 11 | --                | 2022-01-24 01:40:00 | thurles        |      4 |        7 | Robinnia           |   6.5  | overthrow          |
-| 12 | :2nd_place_medal: | 2022-01-24 00:50:00 | lingfield      |      3 |        1 | Faivoir            |   3.3  | overthrow,milkman  |
-| 13 | :3rd_place_medal: | 2022-01-24 00:50:00 | lingfield      |      3 |        4 | Il Ridoto          |   3.8  | overthrow          |
-| 14 | :boom:            | 2022-01-24 00:30:00 | thurles        |      2 |        2 | Gerri Colombe      |   1.55 | milkman            |
-| 15 | :boom:            | 2022-01-24 00:20:00 | lingfield      |      2 |        2 | Ballygrifincottage |   2.7  | overthrow          |
-| 16 | :boom:            | 2022-01-24 00:10:00 | warwick        |      1 |        1 | Saint Segal        |   1.28 | milkman            |
-| 17 | :2nd_place_medal: | 2022-01-23 23:50:00 | lingfield      |      1 |        4 | Swapped            |   7.5  | overthrow          |
-| 18 | :3rd_place_medal: | 2022-01-23 23:50:00 | lingfield      |      1 |        2 | Estacas            |   3.2  | vulture,milkman    |
-| 19 | 7.0               | 2022-01-23 20:30:00 | mount-barker   |      9 |        3 | Medellin           |   3.75 | vulture            |
-| 20 | 4.0               | 2022-01-23 20:30:00 | mount-barker   |      9 |        2 | Loki               |   3.9  | pangea             |
-| 21 | :2nd_place_medal: | 2022-01-23 19:20:00 | mount-barker   |      7 |        4 | Shake Baby Shake   |   3.25 | benny,blackshadow  |
-| 22 | 5.0               | 2022-01-23 18:50:00 | mount-barker   |      6 |        6 | Kelly's Lassie     |  15    | pangea,blackshadow |
-| 23 | --                | 2022-01-23 18:00:00 | sha-tin        |      5 |        1 | Jumbo Fortune      |   5    | milkman            |
-| 24 | :2nd_place_medal: | 2022-01-23 17:28:00 | mount-barker   |      4 |        3 | Off Wego           |   2.25 | vulture            |
-| 25 | --                | 2022-01-23 17:00:00 | sha-tin        |      3 |        3 | Courier Wonder     |   4.2  | icyhot             |
-| 26 | 5.0               | 2022-01-23 16:25:00 | sunshine-coast |      5 |        1 | Glock              |   6.5  | pangea             |
-| 27 | 5.0               | 2022-01-23 16:20:00 | geelong        |      6 |        1 | Cadboll            |   3.9  | vulture,milkman    |
-| 28 | 6.0               | 2022-01-23 16:20:00 | geelong        |      6 |        7 | Kick               |   3.8  | vulture            |
-| 29 | 4.0               | 2022-01-23 16:12:00 | hobart         |      7 |        6 | Lady Monaco        |   6.5  | milkman            |
-| 30 | :2nd_place_medal: | 2022-01-23 16:00:00 | grafton        |      6 |        1 | Harvesta           |   2.1  | evenodds,overthrow |
-| 31 | :3rd_place_medal: | 2022-01-23 15:35:00 | hobart         |      6 |        5 | Boom Dot Com       |   6.5  | pangea             |
-| 32 | 7.0               | 2022-01-23 15:35:00 | hobart         |      6 |       11 | Seguimientos       |  67    | cosmo,bluey        |
-| 33 | 4.0               | 2022-01-23 14:55:00 | hobart         |      5 |        1 | Geegee Jet By      |   2.45 | milkman            |
-| 34 | 8.0               | 2022-01-23 14:55:00 | hobart         |      5 |        6 | Ella Exceeds       |   6.5  | evenodds,overthrow |
-| 35 | 7.0               | 2022-01-23 14:35:00 | sunshine-coast |      2 |        9 | Rebel Tinge        |   5    | looseknot          |
-| 36 | :boom:            | 2022-01-23 14:00:00 | sunshine-coast |      1 |        3 | Soothsayer         |   3.7  | looseknot          |
-| 37 | --                | 2022-01-23 13:50:00 | wyong          |      2 |        8 | Cloud Hopper       |   5.5  | looseknot          |
+|    | finish   | time                | track       |   race |   number | name               |   odds | tipster      |
+|---:|:---------|:--------------------|:------------|-------:|---------:|:-------------------|-------:|:-------------|
+|  0 | :soon:   | 2022-01-25 03:00:00 | southwell   |      7 |        1 | Vespasian          |    1.9 | vulture      |
+|  1 | :soon:   | 2022-01-25 01:15:00 | kempton     |      3 |        9 | Global Vision      |   15   | cosmo,bluey  |
+|  2 | :soon:   | 2022-01-25 01:05:00 | scottsville |      7 |       13 | After The Rain     |    0   | milkman      |
+|  3 | :soon:   | 2022-01-24 23:15:00 | scottsville |      4 |       12 | Winter Air         |    0   | milkman      |
+|  4 | :soon:   | 2022-01-24 21:33:00 | ascot       |     11 |       10 | She's A Sweet Deel |    4   | vulture      |
+|  5 | :soon:   | 2022-01-24 21:33:00 | ascot       |     11 |        7 | Burnya To Survive  |    2.1 | milkman      |
+|  6 | :soon:   | 2022-01-24 20:55:00 | ascot       |     10 |        5 | Beret              |    5.5 | vulture      |
+|  7 | :soon:   | 2022-01-24 20:20:00 | ascot       |      9 |        3 | Fairy Fast         |    6   | vulture      |
+|  8 | :soon:   | 2022-01-24 20:20:00 | ascot       |      9 |        7 | Prized Miss        |    4.2 | vulture      |
+|  9 | :soon:   | 2022-01-24 19:45:00 | ascot       |      8 |        4 | Miss Vasari        |    3.9 | pangea       |
+| 10 | :soon:   | 2022-01-24 19:10:00 | ascot       |      7 |        1 | Plutocracy         |    5   | pangea       |
+| 11 | :soon:   | 2022-01-24 18:02:00 | ascot       |      5 |        3 | Snippy Miss        |    3.5 | vulture      |
+| 12 | :soon:   | 2022-01-24 17:50:00 | goulburn    |      7 |       12 | Rupertson          |    3.6 | milkman      |
+| 13 | :soon:   | 2022-01-24 16:50:00 | armidale    |      6 |        8 | Dawnburst          |    2.5 | benny,pangea |
+| 14 | :soon:   | 2022-01-24 16:42:00 | ascot       |      3 |        6 | Via Monte          |    3.9 | vulture      |
+| 15 | :soon:   | 2022-01-24 15:22:00 | ascot       |      1 |        3 | Awesome Chatter    |    3.2 | vulture      |
