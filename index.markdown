@@ -1,11 +1,22 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-24 07:16:29 +1000  
+date: 2022-01-24 07:27:47 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      3 |      0 |      -30 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      8 |      0 |      -80 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      8 |      0 |      -80 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     22 |      0 |     -220 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     28 |      0 |     -280 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -88,8 +99,8 @@ date: 2022-01-24 07:16:29 +1000
 | 24 | :2nd_place_medal: | 2022-01-23 17:28:00 | mount-barker   |      4 |        3 | Off Wego           |   2.25 | vulture            |
 | 25 | --                | 2022-01-23 17:00:00 | sha-tin        |      3 |        3 | Courier Wonder     |   4.2  | icyhot             |
 | 26 | 5.0               | 2022-01-23 16:25:00 | sunshine-coast |      5 |        1 | Glock              |   6.5  | pangea             |
-| 27 | 6.0               | 2022-01-23 16:20:00 | geelong        |      6 |        7 | Kick               |   3.8  | vulture            |
-| 28 | 5.0               | 2022-01-23 16:20:00 | geelong        |      6 |        1 | Cadboll            |   3.9  | vulture,milkman    |
+| 27 | 5.0               | 2022-01-23 16:20:00 | geelong        |      6 |        1 | Cadboll            |   3.9  | vulture,milkman    |
+| 28 | 6.0               | 2022-01-23 16:20:00 | geelong        |      6 |        7 | Kick               |   3.8  | vulture            |
 | 29 | 4.0               | 2022-01-23 16:12:00 | hobart         |      7 |        6 | Lady Monaco        |   6.5  | milkman            |
 | 30 | :2nd_place_medal: | 2022-01-23 16:00:00 | grafton        |      6 |        1 | Harvesta           |   2.1  | evenodds,overthrow |
 | 31 | :3rd_place_medal: | 2022-01-23 15:35:00 | hobart         |      6 |        5 | Boom Dot Com       |   6.5  | pangea             |
