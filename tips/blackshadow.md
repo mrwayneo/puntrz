@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-01-23 23:22:36 +1000  
+date: 2022-01-24 06:32:00 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     40 |      5 |   -191   | 0.12 | -0.48 |
-| Last 6 Months  |    371 |    100 |   -116.1 | 0.27 | -0.03 |
-| Since Jan 2020 |    806 |    201 |   -819.1 | 0.25 | -0.1  |
+| Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
+| Last 28 Days   |     39 |      5 |   -181   | 0.13 | -0.46 |
+| Last 6 Months  |    374 |    100 |   -146.1 | 0.27 | -0.04 |
+| Since Jan 2020 |    809 |    201 |   -849.1 | 0.25 | -0.1  |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
@@ -105,8 +105,8 @@ categories: None
 | 99                | 2021-12-05 | sandown R4                    | 3 Minella Drama       |  0    |    -10   |
 | :boom:            | 2021-12-04 | ascot R9                      | 9 Memorable Miss      |  7.4  |     64   |
 | :2nd_place_medal: | 2021-12-04 | ascot R8                      | 7 Western Empire      |  1.3  |    -10   |
-| :2nd_place_medal: | 2021-12-04 | ascot R7                      | 9 Bright Diamond      |  3.1  |    -10   |
 | 10                | 2021-12-04 | ascot R7                      | 10 Real Charisma      | 12    |    -10   |
+| :2nd_place_medal: | 2021-12-04 | ascot R7                      | 9 Bright Diamond      |  3.1  |    -10   |
 | :2nd_place_medal: | 2021-12-04 | toowoomba R1                  | 7 Vast Kama           |  6    |    -10   |
 | :boom:            | 2021-12-04 | gold-coast R7                 | 1 Weona Smartone      |  1.2  |      2   |
 | :boom:            | 2021-12-04 | doomben R7                    | 5 Tambo's Mate        |  3.5  |     25   |
@@ -181,8 +181,8 @@ categories: None
 | :2nd_place_medal: | 2021-10-20 | geelong R7                    | 7 Dr Drill            | 19    |    -10   |
 | :boom:            | 2021-10-16 | ascot R9                      | 12 Real Charisma      |  2    |     10   |
 | :3rd_place_medal: | 2021-10-16 | eagle-farm R4                 | 9 Salateen            |  2.2  |    -10   |
-| :boom:            | 2021-10-15 | ipswich R3                    | 8 Sir Rocket          |  1.75 |      7.5 |
 | :2nd_place_medal: | 2021-10-15 | ipswich R3                    | 10 Lyrical Girl       |  2.15 |    -10   |
+| :boom:            | 2021-10-15 | ipswich R3                    | 8 Sir Rocket          |  1.75 |      7.5 |
 | :boom:            | 2021-10-15 | carlisle R7                   | 3 Armattiekan         |  2.6  |     16   |
 | :3rd_place_medal: | 2021-10-13 | launceston R7                 | 5 Red Letter Lady     |  3.3  |    -10   |
 | :boom:            | 2021-10-13 | launceston R7                 | 7 Vivilici            |  4.6  |     36   |
@@ -415,8 +415,8 @@ categories: None
 | :2nd_place_medal: | 2021-06-12 | darwin R6                     | 8 Tugga War           |  6    |    -10   |
 | 5                 | 2021-06-12 | belmont R5                    | 5 Devoted Star        |  2.7  |    -10   |
 | :2nd_place_medal: | 2021-06-12 | darwin R1                     | 5 Patria              |  2.5  |    -10   |
-| :2nd_place_medal: | 2021-06-10 | rockhampton R4                | 2 Barachiel           |  4.05 |    -10   |
 | :boom:            | 2021-06-10 | rockhampton R4                | 1 Tango Rain          |  3.4  |     24   |
+| :2nd_place_medal: | 2021-06-10 | rockhampton R4                | 2 Barachiel           |  4.05 |    -10   |
 | 7                 | 2021-06-06 | devonport-synthetic R8        | 5 Spihro              |  9.5  |    -10   |
 | 7                 | 2021-06-06 | devonport-synthetic R7        | 3 Lesnar              |  7.5  |    -10   |
 | :3rd_place_medal: | 2021-06-05 | belmont R9                    | 11 Bright Diamond     |  1.9  |    -10   |
@@ -431,8 +431,8 @@ categories: None
 | 8                 | 2021-06-01 | rockhampton R4                | 1 Trump Me            |  3.35 |    -10   |
 | 99                | 2021-06-01 | redcar R6                     | 1 Faylaq              |  8.6  |    -10   |
 | 99                | 2021-05-30 | ffos-las R5                   | 3 Clemento            |  3.8  |    -10   |
-| 4                 | 2021-05-29 | belmont R9                    | 5 Battle Storm        |  4    |    -10   |
 | :2nd_place_medal: | 2021-05-29 | belmont R9                    | 12 This'll Testya     |  8.5  |    -10   |
+| 4                 | 2021-05-29 | belmont R9                    | 5 Battle Storm        |  4    |    -10   |
 | :boom:            | 2021-05-29 | belmont R7                    | 2 Leading Girl        |  2.7  |     17   |
 | 4                 | 2021-05-29 | darwin R3                     | 2 Count of Essex      |  4.25 |    -10   |
 | :2nd_place_medal: | 2021-05-29 | belmont R4                    | 6 Devoted Star        |  9    |    -10   |
@@ -442,8 +442,8 @@ categories: None
 | :boom:            | 2021-05-29 | darwin R1                     | 7 The Auditor         | 12.5  |    115   |
 | :boom:            | 2021-05-29 | belmont R2                    | 6 Graceful Girl       |  2.6  |     16   |
 | 8                 | 2021-05-29 | eagle-farm R5                 | 1 Southern France     | 11.2  |    -10   |
-| 7                 | 2021-05-29 | eagle-farm R3                 | 1 Aim                 | 26    |    -10   |
 | 12                | 2021-05-29 | eagle-farm R3                 | 7 Exoboom             |  8.5  |    -10   |
+| 7                 | 2021-05-29 | eagle-farm R3                 | 1 Aim                 | 26    |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R4             | 5 Weboughtazou        |  2.9  |    -10   |
 | 6                 | 2021-05-26 | belmont R1                    | 3 Nowhiteflag         |  1.95 |    -10   |
 | :boom:            | 2021-05-25 | rockhampton R2                | 1 Stubai              |  2    |     10   |
@@ -609,8 +609,8 @@ categories: None
 | :2nd_place_medal: | 2021-03-06 | bunbury R9                    | 7 Montelena           |  1.72 |    -10   |
 | :boom:            | 2021-03-06 | eagle-farm R8                 | 6 Wren's Day          |  2.5  |     15   |
 | 6                 | 2021-03-06 | flemington R8                 | 12 Defibrillate       | 13    |    -10   |
-| 7                 | 2021-03-06 | eagle-farm R6                 | 2 Only Wanna Sing     |  3    |    -10   |
 | :boom:            | 2021-03-06 | eagle-farm R6                 | 3 Royal Hale          |  4.3  |     33   |
+| 7                 | 2021-03-06 | eagle-farm R6                 | 2 Only Wanna Sing     |  3    |    -10   |
 | 10                | 2021-03-06 | morphettville-parks R5        | 4 Annika              |  2.35 |    -10   |
 | 7                 | 2021-03-06 | eagle-farm R4                 | 3 Seeingisbelieving   |  5.5  |    -10   |
 | 4                 | 2021-03-06 | eagle-farm R3                 | 1 Leadership Spill    |  2.4  |    -10   |
@@ -799,8 +799,8 @@ categories: None
 | :boom:            | 2020-02-09 | newbury R3                    | 1 Altior              |  1.33 |      3.3 |
 | 5                 | 2020-02-08 | pinjarra R6                   | 3 Mr Genoa            |  3    |    -10   |
 | :3rd_place_medal: | 2020-02-08 | pinjarra R5                   | 7 Serenity Bay        |  2.05 |    -10   |
-| 10                | 2020-02-08 | caulfield R8                  | 11 Ringerdingding     | 21    |    -10   |
 | 11                | 2020-02-08 | caulfield R8                  | 9 Night's Watch       | 34    |    -10   |
+| 10                | 2020-02-08 | caulfield R8                  | 11 Ringerdingding     | 21    |    -10   |
 | :boom:            | 2020-02-08 | eagle-farm R6                 | 6 New Universe        |  5.8  |     48   |
 | :boom:            | 2020-02-08 | pinjarra R3                   | 6 Celebrity Queen     |  1.6  |      6   |
 | :3rd_place_medal: | 2020-02-08 | caulfield R5                  | 6 Adelaide Ace        |  4.6  |    -10   |

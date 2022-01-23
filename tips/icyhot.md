@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-01-23 23:22:37 +1000  
+date: 2022-01-24 06:32:01 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      1 |     13   | 1    |  1.3  |
-| Last 28 Days   |     27 |     10 |    -61.5 | 0.37 | -0.23 |
-| Last 6 Months  |    221 |     74 |   -232.4 | 0.33 | -0.11 |
-| Since Jan 2020 |    534 |    175 |   -409.8 | 0.33 | -0.08 |
+| Last 7 Days    |      2 |      1 |      3   | 0.5  |  0.15 |
+| Last 28 Days   |     28 |     10 |    -71.5 | 0.36 | -0.26 |
+| Last 6 Months  |    222 |     74 |   -242.4 | 0.33 | -0.11 |
+| Since Jan 2020 |    535 |    175 |   -419.8 | 0.33 | -0.08 |
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
@@ -255,8 +255,8 @@ categories: None
 | 5                 | 2021-06-19 | darwin R2               | 4 Obligatory          |  2.25 |    -10   |
 | :boom:            | 2021-06-19 | belmont R2              | 1 I'm Pretty          |  2.6  |     16   |
 | :boom:            | 2021-06-17 | warrnambool R6          | 3 Out And Dreaming    |  5.5  |     45   |
-| 6                 | 2021-06-12 | belmont R8              | 13 Leading Girl       |  4.55 |    -10   |
 | 13                | 2021-06-12 | belmont R8              | 2 Come Play With Me   | 51    |    -10   |
+| 6                 | 2021-06-12 | belmont R8              | 13 Leading Girl       |  4.55 |    -10   |
 | :3rd_place_medal: | 2021-06-12 | townsville R3           | 4 Courtesy Bus        |  5    |    -10   |
 | 4                 | 2021-06-11 | swan-hill R7            | 2 More Than Exceed    |  8    |    -10   |
 | :3rd_place_medal: | 2021-06-07 | northam R8              | 5 Gallant Ranger      | 15    |    -10   |
@@ -466,8 +466,8 @@ categories: None
 | :boom:            | 2020-10-31 | alice-springs R5        | 1 Texas Miller        |  1.7  |      7   |
 | 4                 | 2020-10-31 | rosehill R7             | 3 Eduardo             |  6.5  |    -10   |
 | :boom:            | 2020-10-31 | morphettville R1        | 4 Star Of Uma         |  1.9  |      9   |
-| 99                | 2020-10-31 | wetherby R5             | 2 Born Survivor       |  7.5  |    -10   |
 | :2nd_place_medal: | 2020-10-31 | wetherby R5             | 4 Two For Gold        |  4    |    -10   |
+| 99                | 2020-10-31 | wetherby R5             | 2 Born Survivor       |  7.5  |    -10   |
 | :boom:            | 2020-10-30 | down-royal R1           | 2 Farouk D'Alene      |  1.28 |      2.8 |
 | :boom:            | 2020-10-24 | kenilworth R4           | 3 Run Fox Run         |  2.2  |     12   |
 | :2nd_place_medal: | 2020-10-24 | toowoomba R5            | 4 Wild Moon           |  2.25 |    -10   |
