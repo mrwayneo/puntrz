@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-23 19:10:03 +1000  
+date: 2022-01-23 19:11:58 +1000  
 ---   
 
 
@@ -30,7 +30,6 @@ date: 2022-01-23 19:10:03 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      4 |    460   | 0.2  |  2.3  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      3 |    142.5 | 0.15 |  0.71 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |     -0.7 | 0.2  | -0    |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     10 |     -4   | 0.5  | -0.02 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      6 |    -19.2 | 0.3  | -0.1  |
@@ -44,6 +43,7 @@ date: 2022-01-23 19:10:03 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      4 |    -95   | 0.2  | -0.48 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |   -103   | 0.1  | -0.52 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      3 |   -117   | 0.15 | -0.58 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |   -117.5 | 0.1  | -0.59 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |   -119   | 0.15 | -0.6  |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      3 |   -129.3 | 0.15 | -0.65 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      2 |   -131.7 | 0.1  | -0.66 |
@@ -100,7 +100,7 @@ date: 2022-01-23 19:10:03 +1000
 | 19 | :soon:            | 2022-01-23 20:30:00 | mount-barker   |      9 |        3 | Medellin           |   3.75 | vulture            |
 | 20 | :soon:            | 2022-01-23 20:30:00 | mount-barker   |      9 |        2 | Loki               |   3.9  | pangea             |
 | 21 | :soon:            | 2022-01-23 19:20:00 | mount-barker   |      7 |        4 | Shake Baby Shake   |   3.25 | benny,blackshadow  |
-| 22 | --                | 2022-01-23 18:50:00 | mount-barker   |      6 |        6 | Kelly's Lassie     |  15    | pangea,blackshadow |
+| 22 | 5.0               | 2022-01-23 18:50:00 | mount-barker   |      6 |        6 | Kelly's Lassie     |  15    | pangea,blackshadow |
 | 23 | --                | 2022-01-23 18:00:00 | sha-tin        |      5 |        1 | Jumbo Fortune      |   5    | milkman            |
 | 24 | :2nd_place_medal: | 2022-01-23 17:28:00 | mount-barker   |      4 |        3 | Off Wego           |   2.25 | vulture            |
 | 25 | --                | 2022-01-23 17:00:00 | sha-tin        |      3 |        3 | Courier Wonder     |   4.2  | icyhot             |
