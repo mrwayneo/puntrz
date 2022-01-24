@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-24 17:44:25 +1000  
+date: 2022-01-24 17:59:05 +1000  
 ---   
 
 
@@ -84,7 +84,7 @@ date: 2022-01-24 17:44:25 +1000
 |  9 | :soon:            | 2022-01-24 19:45:00 | ascot       |      8 |        4 | Miss Vasari        |    3.9 | pangea       |
 | 10 | :soon:            | 2022-01-24 19:10:00 | ascot       |      7 |        1 | Plutocracy         |    5   | pangea       |
 | 11 | :soon:            | 2022-01-24 18:02:00 | ascot       |      5 |        3 | Snippy Miss        |    3.5 | vulture      |
-| 12 | :soon:            | 2022-01-24 17:50:00 | goulburn    |      7 |       12 | Rupertson          |    3.6 | milkman      |
+| 12 | --                | 2022-01-24 17:50:00 | goulburn    |      7 |       12 | Rupertson          |    3.6 | milkman      |
 | 13 | 4.0               | 2022-01-24 16:50:00 | armidale    |      6 |        8 | Dawnburst          |    2.5 | benny,pangea |
 | 14 | :2nd_place_medal: | 2022-01-24 16:42:00 | ascot       |      3 |        6 | Via Monte          |    3.9 | vulture      |
 | 15 | :2nd_place_medal: | 2022-01-24 15:22:00 | ascot       |      1 |        3 | Awesome Chatter    |    3.2 | vulture      |
