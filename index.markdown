@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-24 20:44:21 +1000  
+date: 2022-01-24 20:59:27 +1000  
 ---   
 
 
@@ -78,8 +78,8 @@ date: 2022-01-24 20:44:21 +1000
 |  3 | :soon:            | 2022-01-24 23:15:00 | scottsville |      4 |       12 | Winter Air         |    0   | milkman      |
 |  4 | :soon:            | 2022-01-24 21:33:00 | ascot       |     11 |       10 | She's A Sweet Deel |    4   | vulture      |
 |  5 | :soon:            | 2022-01-24 21:33:00 | ascot       |     11 |        7 | Burnya To Survive  |    2.1 | milkman      |
-|  6 | :soon:            | 2022-01-24 20:55:00 | ascot       |     10 |        5 | Beret              |    5.5 | vulture      |
-|  7 | --                | 2022-01-24 20:20:00 | ascot       |      9 |        3 | Fairy Fast         |    6   | vulture      |
+|  6 | --                | 2022-01-24 20:55:00 | ascot       |     10 |        5 | Beret              |    5.5 | vulture      |
+|  7 | 5.0               | 2022-01-24 20:20:00 | ascot       |      9 |        3 | Fairy Fast         |    6   | vulture      |
 |  8 | 4.0               | 2022-01-24 20:20:00 | ascot       |      9 |        7 | Prized Miss        |    4.2 | vulture      |
 |  9 | :2nd_place_medal: | 2022-01-24 19:45:00 | ascot       |      8 |        4 | Miss Vasari        |    3.9 | pangea       |
 | 10 | 5.0               | 2022-01-24 19:10:00 | ascot       |      7 |        1 | Plutocracy         |    5   | pangea       |
