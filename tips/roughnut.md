@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-01-25 06:56:27 +1000  
+date: 2022-01-25 07:11:42 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:00             | 2022-01-25 | wolverhampton R8              | 6 Many Words          |  21    |    -10   |
+| 0                 | 2022-01-25 | wolverhampton R8              | 6 Many Words          |   0    |    -10   |
 | 4                 | 2022-01-25 | wolverhampton R6              | 9 The Provenist       |  10    |    -10   |
 | :3rd_place_medal: | 2022-01-25 | kempton R7                    | 7 Fred Bear           |  12    |    -10   |
 | 0                 | 2022-01-25 | kempton R7                    | 5 Trouble Shooter     |   0    |    -10   |
