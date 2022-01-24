@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-24 15:14:09 +1000  
+date: 2022-01-24 15:29:15 +1000  
 ---   
 
 
@@ -70,21 +70,21 @@ date: 2022-01-24 15:14:09 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6251 |    897 |  -9709.6 | 0.14 | -0.16 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7879 |    384 | -21455   | 0.05 | -0.27 |
 
-|    | finish   | time                | track       |   race |   number | name               |   odds | tipster      |
-|---:|:---------|:--------------------|:------------|-------:|---------:|:-------------------|-------:|:-------------|
-|  0 | :soon:   | 2022-01-25 03:00:00 | southwell   |      7 |        1 | Vespasian          |    1.9 | vulture      |
-|  1 | :soon:   | 2022-01-25 01:15:00 | kempton     |      3 |        9 | Global Vision      |   15   | cosmo,bluey  |
-|  2 | :soon:   | 2022-01-25 01:05:00 | scottsville |      7 |       13 | After The Rain     |    0   | milkman      |
-|  3 | :soon:   | 2022-01-24 23:15:00 | scottsville |      4 |       12 | Winter Air         |    0   | milkman      |
-|  4 | :soon:   | 2022-01-24 21:33:00 | ascot       |     11 |       10 | She's A Sweet Deel |    4   | vulture      |
-|  5 | :soon:   | 2022-01-24 21:33:00 | ascot       |     11 |        7 | Burnya To Survive  |    2.1 | milkman      |
-|  6 | :soon:   | 2022-01-24 20:55:00 | ascot       |     10 |        5 | Beret              |    5.5 | vulture      |
-|  7 | :soon:   | 2022-01-24 20:20:00 | ascot       |      9 |        3 | Fairy Fast         |    6   | vulture      |
-|  8 | :soon:   | 2022-01-24 20:20:00 | ascot       |      9 |        7 | Prized Miss        |    4.2 | vulture      |
-|  9 | :soon:   | 2022-01-24 19:45:00 | ascot       |      8 |        4 | Miss Vasari        |    3.9 | pangea       |
-| 10 | :soon:   | 2022-01-24 19:10:00 | ascot       |      7 |        1 | Plutocracy         |    5   | pangea       |
-| 11 | :soon:   | 2022-01-24 18:02:00 | ascot       |      5 |        3 | Snippy Miss        |    3.5 | vulture      |
-| 12 | :soon:   | 2022-01-24 17:50:00 | goulburn    |      7 |       12 | Rupertson          |    3.6 | milkman      |
-| 13 | :soon:   | 2022-01-24 16:50:00 | armidale    |      6 |        8 | Dawnburst          |    2.5 | benny,pangea |
-| 14 | :soon:   | 2022-01-24 16:42:00 | ascot       |      3 |        6 | Via Monte          |    3.9 | vulture      |
-| 15 | :soon:   | 2022-01-24 15:22:00 | ascot       |      1 |        3 | Awesome Chatter    |    3.2 | vulture      |
+|    | finish            | time                | track       |   race |   number | name               |   odds | tipster      |
+|---:|:------------------|:--------------------|:------------|-------:|---------:|:-------------------|-------:|:-------------|
+|  0 | :soon:            | 2022-01-25 03:00:00 | southwell   |      7 |        1 | Vespasian          |    1.9 | vulture      |
+|  1 | :soon:            | 2022-01-25 01:15:00 | kempton     |      3 |        9 | Global Vision      |   15   | cosmo,bluey  |
+|  2 | :soon:            | 2022-01-25 01:05:00 | scottsville |      7 |       13 | After The Rain     |    0   | milkman      |
+|  3 | :soon:            | 2022-01-24 23:15:00 | scottsville |      4 |       12 | Winter Air         |    0   | milkman      |
+|  4 | :soon:            | 2022-01-24 21:33:00 | ascot       |     11 |       10 | She's A Sweet Deel |    4   | vulture      |
+|  5 | :soon:            | 2022-01-24 21:33:00 | ascot       |     11 |        7 | Burnya To Survive  |    2.1 | milkman      |
+|  6 | :soon:            | 2022-01-24 20:55:00 | ascot       |     10 |        5 | Beret              |    5.5 | vulture      |
+|  7 | :soon:            | 2022-01-24 20:20:00 | ascot       |      9 |        3 | Fairy Fast         |    6   | vulture      |
+|  8 | :soon:            | 2022-01-24 20:20:00 | ascot       |      9 |        7 | Prized Miss        |    4.2 | vulture      |
+|  9 | :soon:            | 2022-01-24 19:45:00 | ascot       |      8 |        4 | Miss Vasari        |    3.9 | pangea       |
+| 10 | :soon:            | 2022-01-24 19:10:00 | ascot       |      7 |        1 | Plutocracy         |    5   | pangea       |
+| 11 | :soon:            | 2022-01-24 18:02:00 | ascot       |      5 |        3 | Snippy Miss        |    3.5 | vulture      |
+| 12 | :soon:            | 2022-01-24 17:50:00 | goulburn    |      7 |       12 | Rupertson          |    3.6 | milkman      |
+| 13 | :soon:            | 2022-01-24 16:50:00 | armidale    |      6 |        8 | Dawnburst          |    2.5 | benny,pangea |
+| 14 | :soon:            | 2022-01-24 16:42:00 | ascot       |      3 |        6 | Via Monte          |    3.9 | vulture      |
+| 15 | :2nd_place_medal: | 2022-01-24 15:22:00 | ascot       |      1 |        3 | Awesome Chatter    |    3.2 | vulture      |
