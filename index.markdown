@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-25 13:21:35 +1000  
+date: 2022-01-25 13:38:16 +1000  
 ---   
 
 
@@ -72,20 +72,20 @@ date: 2022-01-25 13:21:35 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6230 |    893 |  -9633.6 | 0.14 | -0.15 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7845 |    382 | -21498   | 0.05 | -0.27 |
 
-|    | finish   | time                | track       |   race |   number | name               |   odds | tipster          |
-|---:|:---------|:--------------------|:------------|-------:|---------:|:-------------------|-------:|:-----------------|
-|  0 | :soon:   | 2022-01-26 04:00:00 | southwell   |      2 |        5 | Blue Trail         |   1.55 | vulture          |
-|  1 | :soon:   | 2022-01-26 03:10:00 | down-royal  |      7 |        4 | Jackpot Lad        |   8    | overthrow        |
-|  2 | :soon:   | 2022-01-26 03:10:00 | down-royal  |      7 |       12 | Tenzing            |   3    | overthrow        |
-|  3 | :soon:   | 2022-01-26 02:50:00 | leicester   |      6 |        1 | Tokay Dokey        |   2.25 | evenodds,milkman |
-|  4 | :soon:   | 2022-01-26 02:50:00 | leicester   |      6 |        3 | Golden Boy Grey    |   2.8  | vulture,milkman  |
-|  5 | :soon:   | 2022-01-26 02:30:00 | lingfield   |      6 |        4 | Mummy's Boy        |   3.3  | vulture          |
-|  6 | :soon:   | 2022-01-26 01:50:00 | leicester   |      4 |        4 | Walk In Clover     |   1.6  | overthrow        |
-|  7 | :soon:   | 2022-01-26 01:20:00 | leicester   |      3 |        3 | Autonomous Cloud   |  10    | cosmo,bob        |
-|  8 | :soon:   | 2022-01-26 01:20:00 | leicester   |      3 |        2 | Go Steady          |   3    | overthrow        |
-|  9 | :soon:   | 2022-01-26 00:45:00 | turffontein |      8 |        1 | Suited Connector   |   0    | vulture          |
-| 10 | :soon:   | 2022-01-26 00:10:00 | down-royal  |      1 |       21 | Music Of Tara      |   6    | looseknot        |
-| 11 | :soon:   | 2022-01-26 00:10:00 | down-royal  |      1 |       10 | Deploy The Getaway |   1.7  | overthrow        |
-| 12 | :soon:   | 2022-01-25 21:20:00 | turffontein |      2 |        3 | Roha               |   0    | pangea           |
-| 13 | :soon:   | 2022-01-25 14:30:00 | kilmore     |      3 |        3 | Bartolini          |   4.8  | looseknot        |
-| 14 | --       | 2022-01-25 13:15:00 | bathurst    |      1 |        1 | Divine Crescent    |   3.25 | looseknot        |
+|    | finish            | time                | track       |   race |   number | name               |   odds | tipster          |
+|---:|:------------------|:--------------------|:------------|-------:|---------:|:-------------------|-------:|:-----------------|
+|  0 | :soon:            | 2022-01-26 04:00:00 | southwell   |      2 |        5 | Blue Trail         |   1.55 | vulture          |
+|  1 | :soon:            | 2022-01-26 03:10:00 | down-royal  |      7 |        4 | Jackpot Lad        |   8    | overthrow        |
+|  2 | :soon:            | 2022-01-26 03:10:00 | down-royal  |      7 |       12 | Tenzing            |   3    | overthrow        |
+|  3 | :soon:            | 2022-01-26 02:50:00 | leicester   |      6 |        1 | Tokay Dokey        |   2.25 | evenodds,milkman |
+|  4 | :soon:            | 2022-01-26 02:50:00 | leicester   |      6 |        3 | Golden Boy Grey    |   2.8  | vulture,milkman  |
+|  5 | :soon:            | 2022-01-26 02:30:00 | lingfield   |      6 |        4 | Mummy's Boy        |   3.3  | vulture          |
+|  6 | :soon:            | 2022-01-26 01:50:00 | leicester   |      4 |        4 | Walk In Clover     |   1.6  | overthrow        |
+|  7 | :soon:            | 2022-01-26 01:20:00 | leicester   |      3 |        3 | Autonomous Cloud   |  10    | cosmo,bob        |
+|  8 | :soon:            | 2022-01-26 01:20:00 | leicester   |      3 |        2 | Go Steady          |   3    | overthrow        |
+|  9 | :soon:            | 2022-01-26 00:45:00 | turffontein |      8 |        1 | Suited Connector   |   0    | vulture          |
+| 10 | :soon:            | 2022-01-26 00:10:00 | down-royal  |      1 |       21 | Music Of Tara      |   6    | looseknot        |
+| 11 | :soon:            | 2022-01-26 00:10:00 | down-royal  |      1 |       10 | Deploy The Getaway |   1.7  | overthrow        |
+| 12 | :soon:            | 2022-01-25 21:20:00 | turffontein |      2 |        3 | Roha               |   0    | pangea           |
+| 13 | :soon:            | 2022-01-25 14:30:00 | kilmore     |      3 |        3 | Bartolini          |   4.8  | looseknot        |
+| 14 | :3rd_place_medal: | 2022-01-25 13:15:00 | bathurst    |      1 |        1 | Divine Crescent    |   3.25 | looseknot        |
