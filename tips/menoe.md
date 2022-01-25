@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-01-26 07:58:59 +1000  
+date: 2022-01-26 08:06:27 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 01:10             | 2022-01-27 | catterick R2           | 2 Get Your Own       |  1.9  |    -10   |
 | :2nd_place_medal: | 2022-01-12 | oakbank R1             | 3 Muffla             |  1.9  |    -10   |
 | 0                 | 2022-01-10 | ayr R6                 | 2 Tfou               |  0    |    -10   |
 | 7                 | 2022-01-07 | stawell R5             | 4 Wilsons Prom       |  1.9  |    -10   |
