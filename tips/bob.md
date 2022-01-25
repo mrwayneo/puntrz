@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-25 22:58:56 +1000  
+date: 2022-01-26 06:13:48 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     19 |      3 |    130   | 0.16 |  0.68 |
-| Last 6 Months  |    134 |     26 |   2225.5 | 0.19 |  1.66 |
-| Since Jan 2020 |    242 |     42 |   3775.5 | 0.17 |  1.56 |
+| Last 28 Days   |     20 |      3 |    120   | 0.15 |  0.6  |
+| Last 6 Months  |    135 |     26 |   2215.5 | 0.19 |  1.64 |
+| Since Jan 2020 |    243 |     42 |   3765.5 | 0.17 |  1.55 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:20             | 2022-01-26 | leicester R3                  | 3 Autonomous Cloud    |  10    |    -10   |
+| :3rd_place_medal: | 2022-01-26 | leicester R3                  | 3 Autonomous Cloud    |  10    |    -10   |
 | 8                 | 2022-01-24 | thurles R3                    | 7 Sullane Hill        |  41    |    -10   |
 | 9                 | 2022-01-20 | warrnambool R7                | 8 Prince Of Eagles    |  19    |    -10   |
 | 5                 | 2022-01-20 | plumpton R3                   | 7 Tzar De L'Elfe      |  21    |    -10   |
@@ -107,8 +107,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-29 | ballarat R4                   | 6 Robbie's Star       |  21    |    -10   |
 | 9                 | 2021-08-26 | mackay R4                     | 10 Myzaboom           | 151    |    -10   |
 | :boom:            | 2021-08-24 | ballinrobe R5                 | 1 Father Jed          |   5.5  |     45   |
-| :2nd_place_medal: | 2021-08-21 | scottsville R1                | 5 Grey View           |   4.6  |    -10   |
 | :boom:            | 2021-08-21 | scottsville R1                | 1 Humdinger           |  19    |    180   |
+| :2nd_place_medal: | 2021-08-21 | scottsville R1                | 5 Grey View           |   4.6  |    -10   |
 | 99                | 2021-08-21 | salisbury R4                  | 8 Fuente Ovejuna      |  34    |    -10   |
 | :boom:            | 2021-08-21 | salisbury R1                  | 3 Luna Magic          |  11    |    100   |
 | :boom:            | 2021-08-18 | belmont R2                    | 11 War Gem            |  11.9  |    109   |
