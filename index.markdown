@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 06:29:17 +1000  
+date: 2022-01-26 06:45:03 +1000  
 ---   
 
 
@@ -29,7 +29,7 @@ date: 2022-01-26 06:29:17 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      2 |   -131.7 | 0.1  | -0.66 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      3 |   -146.1 | 0.15 | -0.73 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      2 |   -152.3 | 0.1  | -0.76 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -167.5 | 0.05 | -0.84 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      0 |   -200   | 0    | -1    |
 
@@ -56,7 +56,7 @@ date: 2022-01-26 06:29:17 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1769 |    363 |  -2916.4 | 0.21 | -0.16 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2442 |    122 |  -3750   | 0.05 | -0.15 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2759 |    671 |  -3844.8 | 0.24 | -0.14 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6184 |    885 | -10063.6 | 0.14 | -0.16 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6184 |    886 | -10031.1 | 0.14 | -0.16 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7838 |    384 | -20849   | 0.05 | -0.27 |
 
 |    | finish            | time                | track       |   race |   number | name               |   odds | tipster          |
