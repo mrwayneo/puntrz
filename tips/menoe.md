@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-01-26 22:50:50 +1000  
+date: 2022-01-27 09:14:39 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      4 |      0 |    -40   | 0    | -1    |
-| Last 6 Months  |     30 |     17 |     25   | 0.57 |  0.08 |
-| Since Jan 2020 |     59 |     34 |    114.7 | 0.58 |  0.19 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      5 |      0 |    -50   | 0    | -1    |
+| Last 6 Months  |     31 |     17 |     15   | 0.55 |  0.05 |
+| Since Jan 2020 |     60 |     34 |    104.7 | 0.57 |  0.17 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 01:10             | 2022-01-27 | catterick R2           | 2 Get Your Own       |  1.9  |    -10   |
+| 0                 | 2022-01-27 | catterick R2           | 2 Get Your Own       |  0    |    -10   |
 | :2nd_place_medal: | 2022-01-12 | oakbank R1             | 3 Muffla             |  1.9  |    -10   |
 | 0                 | 2022-01-10 | ayr R6                 | 2 Tfou               |  0    |    -10   |
 | 7                 | 2022-01-07 | stawell R5             | 4 Wilsons Prom       |  1.9  |    -10   |
