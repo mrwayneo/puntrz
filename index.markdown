@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 18:14:53 +1000  
+date: 2022-01-26 18:30:29 +1000  
 ---   
 
 
@@ -118,7 +118,7 @@ date: 2022-01-26 18:14:53 +1000
 | 34 | 5.0               | 2022-01-26 17:40:00 | caulfield    |      8 |        6 | Sensationalisation |   9    | pangea              |
 | 35 | 5.0               | 2022-01-26 17:32:00 | ipswich      |      7 |        1 | Destiny's Own      |  13    | icyhot              |
 | 36 | :2nd_place_medal: | 2022-01-26 17:28:00 | belmont      |      5 |        3 | Total Lockdown     |   2.6  | overthrow,pikey     |
-| 37 | --                | 2022-01-26 17:24:00 | darwin       |      4 |        4 | Against The Tide   |   4.8  | pangea              |
+| 37 | :2nd_place_medal: | 2022-01-26 17:24:00 | darwin       |      4 |        4 | Against The Tide   |   4.8  | pangea              |
 | 38 | --                | 2022-01-26 17:24:00 | darwin       |      4 |        1 | Mr Boomjangles     |   4    | pangea              |
 | 39 | 9.0               | 2022-01-26 17:20:00 | warwick-farm |      7 |        6 | Navy Cross         |   4.8  | benny,pangea        |
 | 40 | :2nd_place_medal: | 2022-01-26 17:20:00 | warwick-farm |      7 |        2 | Parry Sound        |   3.4  | pangea,jmac         |
