@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 19:50:50 +1000  
+date: 2022-01-26 20:06:39 +1000  
 ---   
 
 
@@ -20,11 +20,11 @@ date: 2022-01-26 19:50:50 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      6 |      0 |      -60 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      1 |      -64 | 0.12 | -0.8  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      8 |      0 |      -80 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     27 |      2 |     -102 | 0.07 | -0.38 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      4 |     -129 | 0.15 | -0.5  |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     27 |      1 |     -157 | 0.04 | -0.58 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      2 |     -203 | 0.07 | -0.75 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      1 |     -204 | 0.05 | -0.93 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      2 |     -277 | 0.04 | -0.49 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      3 |     -222 | 0.05 | -0.4  |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      2 |     -406 | 0.04 | -0.85 |
 
 ##### Form Last 20 tips   
@@ -104,7 +104,7 @@ date: 2022-01-26 19:50:50 +1000
 | 20 | :soon:            | 2022-01-26 21:00:00 | launceston   |      7 |        4 | Le Cadeau          |   5    | vulture             |
 | 21 | :soon:            | 2022-01-26 20:40:00 | belmont      |     10 |        6 | Zero Consequence   |   7.5  | vulture,milkman     |
 | 22 | :soon:            | 2022-01-26 20:20:00 | launceston   |      6 |        2 | Ashy Boy           |   6    | overthrow           |
-| 23 | :soon:            | 2022-01-26 20:00:00 | belmont      |      9 |        8 | Kick A Goal Son    |   2.25 | pangea              |
+| 23 | 4.0               | 2022-01-26 20:00:00 | belmont      |      9 |        8 | Kick A Goal Son    |   2.25 | pangea              |
 | 24 | :2nd_place_medal: | 2022-01-26 19:40:00 | launceston   |      5 |        3 | Clifton Danseur    |   5    | overthrow           |
 | 25 | :2nd_place_medal: | 2022-01-26 19:20:00 | belmont      |      8 |        2 | Makfly             |   6.5  | benny,pangea        |
 | 26 | 8.0               | 2022-01-26 18:37:00 | darwin       |      6 |        1 | Rich Sun           |   7    | overthrow           |
