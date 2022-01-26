@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 17:29:45 +1000  
+date: 2022-01-26 17:45:02 +1000  
 ---   
 
 
@@ -113,14 +113,14 @@ date: 2022-01-26 17:29:45 +1000
 | 29 | :soon:            | 2022-01-26 18:04:00 | darwin       |      5 |        1 | Mr Cashman         |   4    | evenodds,overthrow  |
 | 30 | :soon:            | 2022-01-26 18:00:00 | warwick-farm |      8 |        1 | Dajraan            |   2.25 | evenodds,jmac       |
 | 31 | :soon:            | 2022-01-26 18:00:00 | warwick-farm |      8 |        5 | Miracle Day        |   7    | benny,pangea        |
-| 32 | :soon:            | 2022-01-26 17:40:00 | caulfield    |      8 |        8 | Ayahuasca          |  11    | vulture             |
-| 33 | :soon:            | 2022-01-26 17:40:00 | caulfield    |      8 |        9 | Yonce              |   2.05 | vulture,milkman     |
-| 34 | :soon:            | 2022-01-26 17:40:00 | caulfield    |      8 |        6 | Sensationalisation |   9    | pangea              |
-| 35 | :soon:            | 2022-01-26 17:32:00 | ipswich      |      7 |        1 | Destiny's Own      |  13    | icyhot              |
-| 36 | --                | 2022-01-26 17:28:00 | belmont      |      5 |        3 | Total Lockdown     |   2.6  | overthrow,pikey     |
+| 32 | --                | 2022-01-26 17:40:00 | caulfield    |      8 |        8 | Ayahuasca          |  11    | vulture             |
+| 33 | --                | 2022-01-26 17:40:00 | caulfield    |      8 |        9 | Yonce              |   2.05 | vulture,milkman     |
+| 34 | --                | 2022-01-26 17:40:00 | caulfield    |      8 |        6 | Sensationalisation |   9    | pangea              |
+| 35 | --                | 2022-01-26 17:32:00 | ipswich      |      7 |        1 | Destiny's Own      |  13    | icyhot              |
+| 36 | :2nd_place_medal: | 2022-01-26 17:28:00 | belmont      |      5 |        3 | Total Lockdown     |   2.6  | overthrow,pikey     |
 | 37 | --                | 2022-01-26 17:24:00 | darwin       |      4 |        4 | Against The Tide   |   4.8  | pangea              |
 | 38 | --                | 2022-01-26 17:24:00 | darwin       |      4 |        1 | Mr Boomjangles     |   4    | pangea              |
-| 39 | --                | 2022-01-26 17:20:00 | warwick-farm |      7 |        6 | Navy Cross         |   4.8  | benny,pangea        |
+| 39 | 9.0               | 2022-01-26 17:20:00 | warwick-farm |      7 |        6 | Navy Cross         |   4.8  | benny,pangea        |
 | 40 | :2nd_place_medal: | 2022-01-26 17:20:00 | warwick-farm |      7 |        2 | Parry Sound        |   3.4  | pangea,jmac         |
 | 41 | 7.0               | 2022-01-26 17:00:00 | caulfield    |      7 |        7 | Saint Of Katowice  |   7.5  | pangea              |
 | 42 | 6.0               | 2022-01-26 17:00:00 | caulfield    |      7 |       12 | Thunder Point      |   4.4  | vulture,pangea      |
