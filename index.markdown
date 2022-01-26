@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 21:51:03 +1000  
+date: 2022-01-26 22:05:58 +1000  
 ---   
 
 
@@ -9,11 +9,12 @@ date: 2022-01-26 21:51:03 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     27 |      4 |      106 | 0.15 |  0.39 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      1 |       37 | 1    |  3.7  |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      1 |       17 | 0.33 |  0.57 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     27 |      3 |       15 | 0.11 |  0.06 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      5 |      -14 | 0.09 | -0.02 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      1 |      -24 | 0.25 | -0.6  |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      1 |      -24 | 0.25 | -0.6  |
@@ -21,7 +22,6 @@ date: 2022-01-26 21:51:03 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      6 |      0 |      -60 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      1 |      -64 | 0.12 | -0.8  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      8 |      0 |      -80 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      4 |     -105 | 0.07 | -0.19 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      4 |     -129 | 0.15 | -0.5  |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      2 |     -203 | 0.07 | -0.75 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      1 |     -204 | 0.05 | -0.93 |
@@ -96,9 +96,9 @@ date: 2022-01-26 21:51:03 +1000
 | 12 | :soon:            | 2022-01-27 00:00:00 | lingfield    |      1 |        9 | Stormingin         |   6    | vulture             |
 | 13 | :soon:            | 2022-01-27 00:00:00 | lingfield    |      1 |        5 | Eagle's Realm      |   3.4  | vulture             |
 | 14 | :soon:            | 2022-01-26 23:50:00 | greyville    |      5 |        6 | Que For You        |   0    | vulture             |
-| 15 | :soon:            | 2022-01-26 21:55:00 | belmont      |     12 |       12 | Star Storm         |   6    | overthrow,pikey     |
-| 16 | :soon:            | 2022-01-26 21:55:00 | belmont      |     12 |        6 | Gambler's Gold     |   3.9  | vulture,pangea      |
-| 17 | --                | 2022-01-26 21:30:00 | launceston   |      8 |        8 | Our Shinkansen     |   5    | overthrow           |
+| 15 | 4.0               | 2022-01-26 21:55:00 | belmont      |     12 |       12 | Star Storm         |   6    | overthrow,pikey     |
+| 16 | :2nd_place_medal: | 2022-01-26 21:55:00 | belmont      |     12 |        6 | Gambler's Gold     |   3.9  | vulture,pangea      |
+| 17 | 5.0               | 2022-01-26 21:30:00 | launceston   |      8 |        8 | Our Shinkansen     |   5    | overthrow           |
 | 18 | :2nd_place_medal: | 2022-01-26 21:15:00 | belmont      |     11 |       12 | Blonde Warrior     |  26    | vulture             |
 | 19 | 8.0               | 2022-01-26 21:15:00 | belmont      |     11 |       10 | Mrs America        |   1.85 | overthrow,pikey     |
 | 20 | :3rd_place_medal: | 2022-01-26 21:00:00 | launceston   |      7 |        4 | Le Cadeau          |   5    | vulture             |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-26 21:51:01 +1000  
+date: 2022-01-26 22:05:57 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 21:55             | 2022-01-26 | belmont R12           | 12 Star Storm         |   6    |    -10   |
+| 4                 | 2022-01-26 | belmont R12           | 12 Star Storm         |   6    |    -10   |
 | 8                 | 2022-01-26 | belmont R11           | 10 Mrs America        |   1.85 |    -10   |
 | :2nd_place_medal: | 2022-01-26 | belmont R6            | 6 Men's Club          |   7    |    -10   |
 | :2nd_place_medal: | 2022-01-26 | belmont R5            | 3 Total Lockdown      |   2.6  |    -10   |
