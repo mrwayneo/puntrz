@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 17:45:02 +1000  
+date: 2022-01-26 17:59:41 +1000  
 ---   
 
 
@@ -18,11 +18,11 @@ date: 2022-01-26 17:45:02 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      6 |      0 |      -60 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |      -80 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      1 |      -64 | 0.12 | -0.8  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      8 |      0 |      -80 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      3 |     -145 | 0.12 | -0.56 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     27 |      1 |     -157 | 0.04 | -0.58 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      2 |     -161 | 0.08 | -0.62 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      1 |     -219 | 0.04 | -0.81 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      2 |     -203 | 0.07 | -0.75 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |     -220 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      2 |     -277 | 0.04 | -0.49 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      2 |     -406 | 0.04 | -0.85 |
@@ -113,10 +113,10 @@ date: 2022-01-26 17:45:02 +1000
 | 29 | :soon:            | 2022-01-26 18:04:00 | darwin       |      5 |        1 | Mr Cashman         |   4    | evenodds,overthrow  |
 | 30 | :soon:            | 2022-01-26 18:00:00 | warwick-farm |      8 |        1 | Dajraan            |   2.25 | evenodds,jmac       |
 | 31 | :soon:            | 2022-01-26 18:00:00 | warwick-farm |      8 |        5 | Miracle Day        |   7    | benny,pangea        |
-| 32 | --                | 2022-01-26 17:40:00 | caulfield    |      8 |        8 | Ayahuasca          |  11    | vulture             |
-| 33 | --                | 2022-01-26 17:40:00 | caulfield    |      8 |        9 | Yonce              |   2.05 | vulture,milkman     |
-| 34 | --                | 2022-01-26 17:40:00 | caulfield    |      8 |        6 | Sensationalisation |   9    | pangea              |
-| 35 | --                | 2022-01-26 17:32:00 | ipswich      |      7 |        1 | Destiny's Own      |  13    | icyhot              |
+| 32 | :2nd_place_medal: | 2022-01-26 17:40:00 | caulfield    |      8 |        8 | Ayahuasca          |  11    | vulture             |
+| 33 | :boom:            | 2022-01-26 17:40:00 | caulfield    |      8 |        9 | Yonce              |   2.05 | vulture,milkman     |
+| 34 | 5.0               | 2022-01-26 17:40:00 | caulfield    |      8 |        6 | Sensationalisation |   9    | pangea              |
+| 35 | 5.0               | 2022-01-26 17:32:00 | ipswich      |      7 |        1 | Destiny's Own      |  13    | icyhot              |
 | 36 | :2nd_place_medal: | 2022-01-26 17:28:00 | belmont      |      5 |        3 | Total Lockdown     |   2.6  | overthrow,pikey     |
 | 37 | --                | 2022-01-26 17:24:00 | darwin       |      4 |        4 | Against The Tide   |   4.8  | pangea              |
 | 38 | --                | 2022-01-26 17:24:00 | darwin       |      4 |        1 | Mr Boomjangles     |   4    | pangea              |
@@ -124,7 +124,7 @@ date: 2022-01-26 17:45:02 +1000
 | 40 | :2nd_place_medal: | 2022-01-26 17:20:00 | warwick-farm |      7 |        2 | Parry Sound        |   3.4  | pangea,jmac         |
 | 41 | 7.0               | 2022-01-26 17:00:00 | caulfield    |      7 |        7 | Saint Of Katowice  |   7.5  | pangea              |
 | 42 | 6.0               | 2022-01-26 17:00:00 | caulfield    |      7 |       12 | Thunder Point      |   4.4  | vulture,pangea      |
-| 43 | --                | 2022-01-26 16:44:00 | darwin       |      3 |        1 | Syncline           |   2.5  | benny,overthrow     |
+| 43 | :2nd_place_medal: | 2022-01-26 16:44:00 | darwin       |      3 |        1 | Syncline           |   2.5  | benny,overthrow     |
 | 44 | :2nd_place_medal: | 2022-01-26 16:40:00 | warwick-farm |      6 |        9 | Overlord           |   6.5  | wallbow             |
 | 45 | :boom:            | 2022-01-26 16:20:00 | caulfield    |      6 |        5 | Open Minded        |   3.7  | blackshadow,icyhot  |
 | 46 | :2nd_place_medal: | 2022-01-26 16:20:00 | caulfield    |      6 |        4 | Lighthouse         |   2    | benny,milkman       |
