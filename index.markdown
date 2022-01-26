@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 16:15:27 +1000  
+date: 2022-01-26 16:29:37 +1000  
 ---   
 
 
@@ -9,11 +9,11 @@ date: 2022-01-26 16:15:27 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      1 |       37 | 1    |  3.7  |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      1 |       17 | 0.33 |  0.57 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
@@ -126,8 +126,8 @@ date: 2022-01-26 16:15:27 +1000
 | 42 | :soon:            | 2022-01-26 17:00:00 | caulfield    |      7 |       12 | Thunder Point      |   4.4  | vulture,pangea      |
 | 43 | :soon:            | 2022-01-26 16:44:00 | darwin       |      3 |        1 | Syncline           |   2.5  | benny,overthrow     |
 | 44 | :soon:            | 2022-01-26 16:40:00 | warwick-farm |      6 |        9 | Overlord           |   6.5  | wallbow             |
-| 45 | :soon:            | 2022-01-26 16:20:00 | caulfield    |      6 |        5 | Open Minded        |   3.7  | blackshadow,icyhot  |
-| 46 | :soon:            | 2022-01-26 16:20:00 | caulfield    |      6 |        4 | Lighthouse         |   2    | benny,milkman       |
+| 45 | :boom:            | 2022-01-26 16:20:00 | caulfield    |      6 |        5 | Open Minded        |   3.7  | blackshadow,icyhot  |
+| 46 | :2nd_place_medal: | 2022-01-26 16:20:00 | caulfield    |      6 |        4 | Lighthouse         |   2    | benny,milkman       |
 | 47 | :3rd_place_medal: | 2022-01-26 16:00:00 | warwick-farm |      5 |        9 | Confessed          |   4.2  | benny,pangea        |
 | 48 | 5.0               | 2022-01-26 15:45:00 | wagga        |      5 |        2 | Kirkton            |   5.5  | vulture             |
 | 49 | 9.0               | 2022-01-26 15:40:00 | caulfield    |      5 |        7 | Force Of Will      |  13    | overthrow           |
