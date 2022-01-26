@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 18:46:49 +1000  
+date: 2022-01-26 19:02:02 +1000  
 ---   
 
 
@@ -109,8 +109,8 @@ date: 2022-01-26 18:46:49 +1000
 | 25 | :soon:            | 2022-01-26 19:20:00 | belmont      |      8 |        2 | Makfly             |   6.5  | benny,pangea        |
 | 26 | --                | 2022-01-26 18:37:00 | darwin       |      6 |        1 | Rich Sun           |   7    | overthrow           |
 | 27 | :2nd_place_medal: | 2022-01-26 18:08:00 | belmont      |      6 |        6 | Men's Club         |   7    | pikey               |
-| 28 | --                | 2022-01-26 18:04:00 | darwin       |      5 |        6 | Young Douro        |   7    | benny,pangea        |
-| 29 | --                | 2022-01-26 18:04:00 | darwin       |      5 |        1 | Mr Cashman         |   4    | evenodds,overthrow  |
+| 28 | 7.0               | 2022-01-26 18:04:00 | darwin       |      5 |        6 | Young Douro        |   7    | benny,pangea        |
+| 29 | :2nd_place_medal: | 2022-01-26 18:04:00 | darwin       |      5 |        1 | Mr Cashman         |   4    | evenodds,overthrow  |
 | 30 | :boom:            | 2022-01-26 18:00:00 | warwick-farm |      8 |        1 | Dajraan            |   2.25 | evenodds,jmac       |
 | 31 | 9.0               | 2022-01-26 18:00:00 | warwick-farm |      8 |        5 | Miracle Day        |   7    | benny,pangea        |
 | 32 | :2nd_place_medal: | 2022-01-26 17:40:00 | caulfield    |      8 |        8 | Ayahuasca          |  11    | vulture             |
