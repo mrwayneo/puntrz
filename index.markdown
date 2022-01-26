@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 16:59:45 +1000  
+date: 2022-01-26 17:14:50 +1000  
 ---   
 
 
@@ -122,8 +122,8 @@ date: 2022-01-26 16:59:45 +1000
 | 38 | :soon:            | 2022-01-26 17:24:00 | darwin       |      4 |        1 | Mr Boomjangles     |   4    | pangea              |
 | 39 | :soon:            | 2022-01-26 17:20:00 | warwick-farm |      7 |        6 | Navy Cross         |   4.8  | benny,pangea        |
 | 40 | :soon:            | 2022-01-26 17:20:00 | warwick-farm |      7 |        2 | Parry Sound        |   3.4  | pangea,jmac         |
-| 41 | :soon:            | 2022-01-26 17:00:00 | caulfield    |      7 |        7 | Saint Of Katowice  |   7.5  | pangea              |
-| 42 | :soon:            | 2022-01-26 17:00:00 | caulfield    |      7 |       12 | Thunder Point      |   4.4  | vulture,pangea      |
+| 41 | 7.0               | 2022-01-26 17:00:00 | caulfield    |      7 |        7 | Saint Of Katowice  |   7.5  | pangea              |
+| 42 | 6.0               | 2022-01-26 17:00:00 | caulfield    |      7 |       12 | Thunder Point      |   4.4  | vulture,pangea      |
 | 43 | --                | 2022-01-26 16:44:00 | darwin       |      3 |        1 | Syncline           |   2.5  | benny,overthrow     |
 | 44 | :2nd_place_medal: | 2022-01-26 16:40:00 | warwick-farm |      6 |        9 | Overlord           |   6.5  | wallbow             |
 | 45 | :boom:            | 2022-01-26 16:20:00 | caulfield    |      6 |        5 | Open Minded        |   3.7  | blackshadow,icyhot  |
