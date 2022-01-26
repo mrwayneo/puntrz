@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 20:51:03 +1000  
+date: 2022-01-26 21:06:01 +1000  
 ---   
 
 
@@ -101,9 +101,9 @@ date: 2022-01-26 20:51:03 +1000
 | 17 | :soon:            | 2022-01-26 21:30:00 | launceston   |      8 |        8 | Our Shinkansen     |   5    | overthrow           |
 | 18 | :soon:            | 2022-01-26 21:15:00 | belmont      |     11 |       12 | Blonde Warrior     |  26    | vulture             |
 | 19 | :soon:            | 2022-01-26 21:15:00 | belmont      |     11 |       10 | Mrs America        |   1.85 | overthrow,pikey     |
-| 20 | :soon:            | 2022-01-26 21:00:00 | launceston   |      7 |        4 | Le Cadeau          |   5    | vulture             |
+| 20 | :3rd_place_medal: | 2022-01-26 21:00:00 | launceston   |      7 |        4 | Le Cadeau          |   5    | vulture             |
 | 21 | --                | 2022-01-26 20:40:00 | belmont      |     10 |        6 | Zero Consequence   |   7.5  | vulture,milkman     |
-| 22 | --                | 2022-01-26 20:20:00 | launceston   |      6 |        2 | Ashy Boy           |   6    | overthrow           |
+| 22 | 5.0               | 2022-01-26 20:20:00 | launceston   |      6 |        2 | Ashy Boy           |   6    | overthrow           |
 | 23 | 4.0               | 2022-01-26 20:00:00 | belmont      |      9 |        8 | Kick A Goal Son    |   2.25 | pangea              |
 | 24 | :2nd_place_medal: | 2022-01-26 19:40:00 | launceston   |      5 |        3 | Clifton Danseur    |   5    | overthrow           |
 | 25 | :2nd_place_medal: | 2022-01-26 19:20:00 | belmont      |      8 |        2 | Makfly             |   6.5  | benny,pangea        |
