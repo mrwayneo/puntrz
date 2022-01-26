@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-26 14:45:04 +1000  
+date: 2022-01-26 15:01:20 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 18:08             | 2022-01-26 | belmont R6            | 6 Men's Club          |   7    |    -10   |
 | 17:28             | 2022-01-26 | belmont R5            | 3 Total Lockdown      |   2.6  |    -10   |
 | 15:29             | 2022-01-26 | belmont R2            | 7 Arcadia Grace       |   1.6  |    -10   |
-| 14:54             | 2022-01-26 | belmont R1            | 6 Compak              |   7    |    -10   |
+| 0                 | 2022-01-26 | belmont R1            | 6 Compak              |   0    |    -10   |
 | 10                | 2022-01-15 | ascot R10             | 5 Universal Pleasure  |   3.4  |    -10   |
 | 7                 | 2022-01-15 | ascot R9              | 8 Clairvoyance        |   2.3  |    -10   |
 | :boom:            | 2022-01-15 | ascot R8              | 1 Bogart              |   4.3  |     33   |

@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 14:45:06 +1000  
+date: 2022-01-26 15:01:24 +1000  
 ---   
 
 
@@ -9,23 +9,23 @@ date: 2022-01-26 14:45:06 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 |    0 |    -1 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 |    0 |    -1 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      6 |      0 |      -60 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |      -80 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      8 |      0 |      -80 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |     -220 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      0 |     -260 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      0 |     -270 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     27 |      0 |     -270 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      0 |     -480 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      0 |     -560 |    0 |    -1 |
+| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      6 |      0 |      -60 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |      -80 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      8 |      0 |      -80 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      1 |     -212 | 0.04 | -0.82 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |     -220 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      0 |     -270 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     27 |      0 |     -270 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      0 |     -480 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      0 |     -560 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -137,12 +137,12 @@ date: 2022-01-26 14:45:06 +1000
 | 53 | :soon:            | 2022-01-26 15:05:00 | caulfield    |      4 |        2 | Streetcar Stranger |   4.6  | vulture,pangea      |
 | 54 | :soon:            | 2022-01-26 15:05:00 | caulfield    |      4 |        4 | Mossman Gorge      |  12    | benny,pangea        |
 | 55 | :soon:            | 2022-01-26 15:05:00 | caulfield    |      4 |        3 | Enthaar            |   1.55 | pangea,icyhot       |
-| 56 | :soon:            | 2022-01-26 14:54:00 | belmont      |      1 |        6 | Compak             |   7    | pikey               |
-| 57 | :soon:            | 2022-01-26 14:50:00 | warwick-farm |      3 |        3 | Bon Vivant         |   5.5  | vulture             |
-| 58 | :soon:            | 2022-01-26 14:50:00 | warwick-farm |      3 |        7 | Scat's Surfer Girl |   4    | looseknot           |
-| 59 | :soon:            | 2022-01-26 14:50:00 | warwick-farm |      3 |        2 | Tuhinga            |   3.1  | jmac                |
-| 60 | --                | 2022-01-26 14:30:00 | caulfield    |      3 |        6 | Suricate           |   4.8  | vulture,milkman     |
-| 61 | --                | 2022-01-26 14:30:00 | caulfield    |      3 |        7 | Shiriki            |  31    | milkman             |
+| 56 | --                | 2022-01-26 14:54:00 | belmont      |      1 |        6 | Compak             |   7    | pikey               |
+| 57 | :boom:            | 2022-01-26 14:50:00 | warwick-farm |      3 |        3 | Bon Vivant         |   5.5  | vulture             |
+| 58 | --                | 2022-01-26 14:50:00 | warwick-farm |      3 |        7 | Scat's Surfer Girl |   4    | looseknot           |
+| 59 | 4.0               | 2022-01-26 14:50:00 | warwick-farm |      3 |        2 | Tuhinga            |   3.1  | jmac                |
+| 60 | 5.0               | 2022-01-26 14:30:00 | caulfield    |      3 |        6 | Suricate           |   4.8  | vulture,milkman     |
+| 61 | 7.0               | 2022-01-26 14:30:00 | caulfield    |      3 |        7 | Shiriki            |  31    | milkman             |
 | 62 | :3rd_place_medal: | 2022-01-26 14:15:00 | warwick-farm |      2 |        2 | Aton Of Delight    |  10    | wallbow             |
 | 63 | :3rd_place_medal: | 2022-01-26 13:55:00 | caulfield    |      2 |        1 | Latizia            |   3.9  | vulture,milkman     |
 | 64 | 9.0               | 2022-01-26 13:55:00 | caulfield    |      2 |        2 | Satin Love         |   9    | vulture             |
