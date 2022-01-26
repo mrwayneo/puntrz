@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 15:59:45 +1000  
+date: 2022-01-26 16:15:27 +1000  
 ---   
 
 
@@ -128,8 +128,8 @@ date: 2022-01-26 15:59:45 +1000
 | 44 | :soon:            | 2022-01-26 16:40:00 | warwick-farm |      6 |        9 | Overlord           |   6.5  | wallbow             |
 | 45 | :soon:            | 2022-01-26 16:20:00 | caulfield    |      6 |        5 | Open Minded        |   3.7  | blackshadow,icyhot  |
 | 46 | :soon:            | 2022-01-26 16:20:00 | caulfield    |      6 |        4 | Lighthouse         |   2    | benny,milkman       |
-| 47 | :soon:            | 2022-01-26 16:00:00 | warwick-farm |      5 |        9 | Confessed          |   4.2  | benny,pangea        |
-| 48 | --                | 2022-01-26 15:45:00 | wagga        |      5 |        2 | Kirkton            |   5.5  | vulture             |
+| 47 | :3rd_place_medal: | 2022-01-26 16:00:00 | warwick-farm |      5 |        9 | Confessed          |   4.2  | benny,pangea        |
+| 48 | 5.0               | 2022-01-26 15:45:00 | wagga        |      5 |        2 | Kirkton            |   5.5  | vulture             |
 | 49 | 9.0               | 2022-01-26 15:40:00 | caulfield    |      5 |        7 | Force Of Will      |  13    | overthrow           |
 | 50 | --                | 2022-01-26 15:29:00 | darwin       |      1 |        1 | Expert Witness     |   3    | pangea              |
 | 51 | --                | 2022-01-26 15:29:00 | belmont      |      2 |        7 | Arcadia Grace      |   1.6  | overthrow,pikey     |
