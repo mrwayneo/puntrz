@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 14:29:57 +1000  
+date: 2022-01-26 14:45:06 +1000  
 ---   
 
 
@@ -141,8 +141,8 @@ date: 2022-01-26 14:29:57 +1000
 | 57 | :soon:            | 2022-01-26 14:50:00 | warwick-farm |      3 |        3 | Bon Vivant         |   5.5  | vulture             |
 | 58 | :soon:            | 2022-01-26 14:50:00 | warwick-farm |      3 |        7 | Scat's Surfer Girl |   4    | looseknot           |
 | 59 | :soon:            | 2022-01-26 14:50:00 | warwick-farm |      3 |        2 | Tuhinga            |   3.1  | jmac                |
-| 60 | :soon:            | 2022-01-26 14:30:00 | caulfield    |      3 |        6 | Suricate           |   4.8  | vulture,milkman     |
-| 61 | :soon:            | 2022-01-26 14:30:00 | caulfield    |      3 |        7 | Shiriki            |  31    | milkman             |
+| 60 | --                | 2022-01-26 14:30:00 | caulfield    |      3 |        6 | Suricate           |   4.8  | vulture,milkman     |
+| 61 | --                | 2022-01-26 14:30:00 | caulfield    |      3 |        7 | Shiriki            |  31    | milkman             |
 | 62 | :3rd_place_medal: | 2022-01-26 14:15:00 | warwick-farm |      2 |        2 | Aton Of Delight    |  10    | wallbow             |
 | 63 | :3rd_place_medal: | 2022-01-26 13:55:00 | caulfield    |      2 |        1 | Latizia            |   3.9  | vulture,milkman     |
 | 64 | 9.0               | 2022-01-26 13:55:00 | caulfield    |      2 |        2 | Satin Love         |   9    | vulture             |
