@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 18:30:29 +1000  
+date: 2022-01-26 18:46:49 +1000  
 ---   
 
 
@@ -107,7 +107,7 @@ date: 2022-01-26 18:30:29 +1000
 | 23 | :soon:            | 2022-01-26 20:00:00 | belmont      |      9 |        8 | Kick A Goal Son    |   2.25 | pangea              |
 | 24 | :soon:            | 2022-01-26 19:40:00 | launceston   |      5 |        3 | Clifton Danseur    |   5    | overthrow           |
 | 25 | :soon:            | 2022-01-26 19:20:00 | belmont      |      8 |        2 | Makfly             |   6.5  | benny,pangea        |
-| 26 | :soon:            | 2022-01-26 18:37:00 | darwin       |      6 |        1 | Rich Sun           |   7    | overthrow           |
+| 26 | --                | 2022-01-26 18:37:00 | darwin       |      6 |        1 | Rich Sun           |   7    | overthrow           |
 | 27 | :2nd_place_medal: | 2022-01-26 18:08:00 | belmont      |      6 |        6 | Men's Club         |   7    | pikey               |
 | 28 | --                | 2022-01-26 18:04:00 | darwin       |      5 |        6 | Young Douro        |   7    | benny,pangea        |
 | 29 | --                | 2022-01-26 18:04:00 | darwin       |      5 |        1 | Mr Cashman         |   4    | evenodds,overthrow  |
@@ -119,7 +119,7 @@ date: 2022-01-26 18:30:29 +1000
 | 35 | 5.0               | 2022-01-26 17:32:00 | ipswich      |      7 |        1 | Destiny's Own      |  13    | icyhot              |
 | 36 | :2nd_place_medal: | 2022-01-26 17:28:00 | belmont      |      5 |        3 | Total Lockdown     |   2.6  | overthrow,pikey     |
 | 37 | :2nd_place_medal: | 2022-01-26 17:24:00 | darwin       |      4 |        4 | Against The Tide   |   4.8  | pangea              |
-| 38 | --                | 2022-01-26 17:24:00 | darwin       |      4 |        1 | Mr Boomjangles     |   4    | pangea              |
+| 38 | 5.0               | 2022-01-26 17:24:00 | darwin       |      4 |        1 | Mr Boomjangles     |   4    | pangea              |
 | 39 | 9.0               | 2022-01-26 17:20:00 | warwick-farm |      7 |        6 | Navy Cross         |   4.8  | benny,pangea        |
 | 40 | :2nd_place_medal: | 2022-01-26 17:20:00 | warwick-farm |      7 |        2 | Parry Sound        |   3.4  | pangea,jmac         |
 | 41 | 7.0               | 2022-01-26 17:00:00 | caulfield    |      7 |        7 | Saint Of Katowice  |   7.5  | pangea              |
