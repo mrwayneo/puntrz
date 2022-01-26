@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-01-26 16:29:31 +1000  
+date: 2022-01-26 16:44:56 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event             | runner             |   win |   return |
 |:------------------|:-----------|:------------------|:-------------------|------:|---------:|
-| 16:40             | 2022-01-26 | warwick-farm R6   | 9 Overlord         |  6.5  |      -10 |
+| :2nd_place_medal: | 2022-01-26 | warwick-farm R6   | 9 Overlord         |  6.5  |      -10 |
 | :3rd_place_medal: | 2022-01-26 | warwick-farm R2   | 2 Aton Of Delight  | 10    |      -10 |
 | :3rd_place_medal: | 2022-01-22 | randwick R9       | 8 Kingsheir        |  3.9  |      -10 |
 | :2nd_place_medal: | 2022-01-21 | canterbury R1     | 6 Taborca          | 12    |      -10 |
