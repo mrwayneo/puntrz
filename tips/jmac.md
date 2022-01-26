@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-01-26 17:14:49 +1000  
+date: 2022-01-26 17:29:44 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 18:00             | 2022-01-26 | warwick-farm R8      | 1 Dajraan            |  2.25 |    -10   |
-| 17:20             | 2022-01-26 | warwick-farm R7      | 2 Parry Sound        |  3.4  |    -10   |
+| :2nd_place_medal: | 2022-01-26 | warwick-farm R7      | 2 Parry Sound        |  3.4  |    -10   |
 | 4                 | 2022-01-26 | warwick-farm R3      | 2 Tuhinga            |  3.1  |    -10   |
 | 6                 | 2022-01-26 | warwick-farm R1      | 7 Have Mercy         | 12    |    -10   |
 | :3rd_place_medal: | 2022-01-15 | gold-coast R5        | 6 Away Game          |  3.2  |    -10   |

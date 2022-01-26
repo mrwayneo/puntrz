@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 17:14:50 +1000  
+date: 2022-01-26 17:29:45 +1000  
 ---   
 
 
@@ -25,7 +25,7 @@ date: 2022-01-26 17:14:50 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      1 |     -219 | 0.04 | -0.81 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |     -220 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      2 |     -277 | 0.04 | -0.49 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      1 |     -456 | 0.02 | -0.95 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      2 |     -406 | 0.04 | -0.85 |
 
 ##### Form Last 20 tips   
 
@@ -117,11 +117,11 @@ date: 2022-01-26 17:14:50 +1000
 | 33 | :soon:            | 2022-01-26 17:40:00 | caulfield    |      8 |        9 | Yonce              |   2.05 | vulture,milkman     |
 | 34 | :soon:            | 2022-01-26 17:40:00 | caulfield    |      8 |        6 | Sensationalisation |   9    | pangea              |
 | 35 | :soon:            | 2022-01-26 17:32:00 | ipswich      |      7 |        1 | Destiny's Own      |  13    | icyhot              |
-| 36 | :soon:            | 2022-01-26 17:28:00 | belmont      |      5 |        3 | Total Lockdown     |   2.6  | overthrow,pikey     |
-| 37 | :soon:            | 2022-01-26 17:24:00 | darwin       |      4 |        4 | Against The Tide   |   4.8  | pangea              |
-| 38 | :soon:            | 2022-01-26 17:24:00 | darwin       |      4 |        1 | Mr Boomjangles     |   4    | pangea              |
-| 39 | :soon:            | 2022-01-26 17:20:00 | warwick-farm |      7 |        6 | Navy Cross         |   4.8  | benny,pangea        |
-| 40 | :soon:            | 2022-01-26 17:20:00 | warwick-farm |      7 |        2 | Parry Sound        |   3.4  | pangea,jmac         |
+| 36 | --                | 2022-01-26 17:28:00 | belmont      |      5 |        3 | Total Lockdown     |   2.6  | overthrow,pikey     |
+| 37 | --                | 2022-01-26 17:24:00 | darwin       |      4 |        4 | Against The Tide   |   4.8  | pangea              |
+| 38 | --                | 2022-01-26 17:24:00 | darwin       |      4 |        1 | Mr Boomjangles     |   4    | pangea              |
+| 39 | --                | 2022-01-26 17:20:00 | warwick-farm |      7 |        6 | Navy Cross         |   4.8  | benny,pangea        |
+| 40 | :2nd_place_medal: | 2022-01-26 17:20:00 | warwick-farm |      7 |        2 | Parry Sound        |   3.4  | pangea,jmac         |
 | 41 | 7.0               | 2022-01-26 17:00:00 | caulfield    |      7 |        7 | Saint Of Katowice  |   7.5  | pangea              |
 | 42 | 6.0               | 2022-01-26 17:00:00 | caulfield    |      7 |       12 | Thunder Point      |   4.4  | vulture,pangea      |
 | 43 | --                | 2022-01-26 16:44:00 | darwin       |      3 |        1 | Syncline           |   2.5  | benny,overthrow     |
