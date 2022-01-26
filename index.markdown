@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 17:59:41 +1000  
+date: 2022-01-26 18:14:53 +1000  
 ---   
 
 
@@ -14,16 +14,16 @@ date: 2022-01-26 17:59:41 +1000
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      1 |      -24 | 0.25 | -0.6  |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      1 |      -24 | 0.25 | -0.6  |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      6 |      0 |      -60 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      1 |      -64 | 0.12 | -0.8  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      8 |      0 |      -80 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      3 |     -145 | 0.12 | -0.56 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      4 |     -129 | 0.15 | -0.5  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     27 |      1 |     -157 | 0.04 | -0.58 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      2 |     -203 | 0.07 | -0.75 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |     -220 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      1 |     -204 | 0.05 | -0.93 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      2 |     -277 | 0.04 | -0.49 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      2 |     -406 | 0.04 | -0.85 |
 
@@ -108,11 +108,11 @@ date: 2022-01-26 17:59:41 +1000
 | 24 | :soon:            | 2022-01-26 19:40:00 | launceston   |      5 |        3 | Clifton Danseur    |   5    | overthrow           |
 | 25 | :soon:            | 2022-01-26 19:20:00 | belmont      |      8 |        2 | Makfly             |   6.5  | benny,pangea        |
 | 26 | :soon:            | 2022-01-26 18:37:00 | darwin       |      6 |        1 | Rich Sun           |   7    | overthrow           |
-| 27 | :soon:            | 2022-01-26 18:08:00 | belmont      |      6 |        6 | Men's Club         |   7    | pikey               |
-| 28 | :soon:            | 2022-01-26 18:04:00 | darwin       |      5 |        6 | Young Douro        |   7    | benny,pangea        |
-| 29 | :soon:            | 2022-01-26 18:04:00 | darwin       |      5 |        1 | Mr Cashman         |   4    | evenodds,overthrow  |
-| 30 | :soon:            | 2022-01-26 18:00:00 | warwick-farm |      8 |        1 | Dajraan            |   2.25 | evenodds,jmac       |
-| 31 | :soon:            | 2022-01-26 18:00:00 | warwick-farm |      8 |        5 | Miracle Day        |   7    | benny,pangea        |
+| 27 | :2nd_place_medal: | 2022-01-26 18:08:00 | belmont      |      6 |        6 | Men's Club         |   7    | pikey               |
+| 28 | --                | 2022-01-26 18:04:00 | darwin       |      5 |        6 | Young Douro        |   7    | benny,pangea        |
+| 29 | --                | 2022-01-26 18:04:00 | darwin       |      5 |        1 | Mr Cashman         |   4    | evenodds,overthrow  |
+| 30 | :boom:            | 2022-01-26 18:00:00 | warwick-farm |      8 |        1 | Dajraan            |   2.25 | evenodds,jmac       |
+| 31 | 9.0               | 2022-01-26 18:00:00 | warwick-farm |      8 |        5 | Miracle Day        |   7    | benny,pangea        |
 | 32 | :2nd_place_medal: | 2022-01-26 17:40:00 | caulfield    |      8 |        8 | Ayahuasca          |  11    | vulture             |
 | 33 | :boom:            | 2022-01-26 17:40:00 | caulfield    |      8 |        9 | Yonce              |   2.05 | vulture,milkman     |
 | 34 | 5.0               | 2022-01-26 17:40:00 | caulfield    |      8 |        6 | Sensationalisation |   9    | pangea              |
@@ -132,12 +132,12 @@ date: 2022-01-26 17:59:41 +1000
 | 48 | 5.0               | 2022-01-26 15:45:00 | wagga        |      5 |        2 | Kirkton            |   5.5  | vulture             |
 | 49 | 9.0               | 2022-01-26 15:40:00 | caulfield    |      5 |        7 | Force Of Will      |  13    | overthrow           |
 | 50 | :2nd_place_medal: | 2022-01-26 15:29:00 | darwin       |      1 |        1 | Expert Witness     |   3    | pangea              |
-| 51 | --                | 2022-01-26 15:29:00 | belmont      |      2 |        7 | Arcadia Grace      |   1.6  | overthrow,pikey     |
+| 51 | 4.0               | 2022-01-26 15:29:00 | belmont      |      2 |        7 | Arcadia Grace      |   1.6  | overthrow,pikey     |
 | 52 | :3rd_place_medal: | 2022-01-26 15:10:00 | wagga        |      4 |        2 | Think More         |   4.6  | pangea              |
 | 53 | :boom:            | 2022-01-26 15:05:00 | caulfield    |      4 |        2 | Streetcar Stranger |   4.6  | vulture,pangea      |
 | 54 | :2nd_place_medal: | 2022-01-26 15:05:00 | caulfield    |      4 |        4 | Mossman Gorge      |  12    | benny,pangea        |
 | 55 | 4.0               | 2022-01-26 15:05:00 | caulfield    |      4 |        3 | Enthaar            |   1.55 | pangea,icyhot       |
-| 56 | --                | 2022-01-26 14:54:00 | belmont      |      1 |        6 | Compak             |   7    | pikey               |
+| 56 | 7.0               | 2022-01-26 14:54:00 | belmont      |      1 |        6 | Compak             |   7    | pikey               |
 | 57 | :boom:            | 2022-01-26 14:50:00 | warwick-farm |      3 |        3 | Bon Vivant         |   5.5  | vulture             |
 | 58 | 6.0               | 2022-01-26 14:50:00 | warwick-farm |      3 |        7 | Scat's Surfer Girl |   4    | looseknot           |
 | 59 | 4.0               | 2022-01-26 14:50:00 | warwick-farm |      3 |        2 | Tuhinga            |   3.1  | jmac                |
