@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 21:20:52 +1000  
+date: 2022-01-26 21:35:02 +1000  
 ---   
 
 
@@ -98,7 +98,7 @@ date: 2022-01-26 21:20:52 +1000
 | 14 | :soon:            | 2022-01-26 23:50:00 | greyville    |      5 |        6 | Que For You        |   0    | vulture             |
 | 15 | :soon:            | 2022-01-26 21:55:00 | belmont      |     12 |       12 | Star Storm         |   6    | overthrow,pikey     |
 | 16 | :soon:            | 2022-01-26 21:55:00 | belmont      |     12 |        6 | Gambler's Gold     |   3.9  | vulture,pangea      |
-| 17 | :soon:            | 2022-01-26 21:30:00 | launceston   |      8 |        8 | Our Shinkansen     |   5    | overthrow           |
+| 17 | --                | 2022-01-26 21:30:00 | launceston   |      8 |        8 | Our Shinkansen     |   5    | overthrow           |
 | 18 | :2nd_place_medal: | 2022-01-26 21:15:00 | belmont      |     11 |       12 | Blonde Warrior     |  26    | vulture             |
 | 19 | --                | 2022-01-26 21:15:00 | belmont      |     11 |       10 | Mrs America        |   1.85 | overthrow,pikey     |
 | 20 | :3rd_place_medal: | 2022-01-26 21:00:00 | launceston   |      7 |        4 | Le Cadeau          |   5    | vulture             |
