@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 13:44:53 +1000  
+date: 2022-01-26 14:00:14 +1000  
 ---   
 
 
@@ -144,7 +144,7 @@ date: 2022-01-26 13:44:53 +1000
 | 60 | :soon:            | 2022-01-26 14:30:00 | caulfield    |      3 |        6 | Suricate           |   4.8  | vulture,milkman     |
 | 61 | :soon:            | 2022-01-26 14:30:00 | caulfield    |      3 |        7 | Shiriki            |  31    | milkman             |
 | 62 | :soon:            | 2022-01-26 14:15:00 | warwick-farm |      2 |        2 | Aton Of Delight    |  10    | wallbow             |
-| 63 | :soon:            | 2022-01-26 13:55:00 | caulfield    |      2 |        1 | Latizia            |   3.9  | vulture,milkman     |
-| 64 | :soon:            | 2022-01-26 13:55:00 | caulfield    |      2 |        2 | Satin Love         |   9    | vulture             |
-| 65 | :soon:            | 2022-01-26 13:55:00 | caulfield    |      2 |        4 | Bistro             |   7    | vulture,milkman     |
+| 63 | --                | 2022-01-26 13:55:00 | caulfield    |      2 |        1 | Latizia            |   3.9  | vulture,milkman     |
+| 64 | --                | 2022-01-26 13:55:00 | caulfield    |      2 |        2 | Satin Love         |   9    | vulture             |
+| 65 | --                | 2022-01-26 13:55:00 | caulfield    |      2 |        4 | Bistro             |   7    | vulture,milkman     |
 | 66 | :2nd_place_medal: | 2022-01-26 13:20:00 | caulfield    |      1 |        2 | Rampant Lion       |   2.6  | overthrow           |
