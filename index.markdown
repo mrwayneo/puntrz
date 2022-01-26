@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 15:01:24 +1000  
+date: 2022-01-26 15:15:02 +1000  
 ---   
 
 
@@ -20,9 +20,9 @@ date: 2022-01-26 15:01:24 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      6 |      0 |      -60 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |      -80 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      8 |      0 |      -80 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      1 |     -212 | 0.04 | -0.82 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      2 |     -161 | 0.08 | -0.62 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      1 |     -219 | 0.04 | -0.81 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |     -220 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      0 |     -270 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     27 |      0 |     -270 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      0 |     -480 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      0 |     -560 | 0    | -1    |
@@ -133,13 +133,13 @@ date: 2022-01-26 15:01:24 +1000
 | 49 | :soon:            | 2022-01-26 15:40:00 | caulfield    |      5 |        7 | Force Of Will      |  13    | overthrow           |
 | 50 | :soon:            | 2022-01-26 15:29:00 | darwin       |      1 |        1 | Expert Witness     |   3    | pangea              |
 | 51 | :soon:            | 2022-01-26 15:29:00 | belmont      |      2 |        7 | Arcadia Grace      |   1.6  | overthrow,pikey     |
-| 52 | :soon:            | 2022-01-26 15:10:00 | wagga        |      4 |        2 | Think More         |   4.6  | pangea              |
-| 53 | :soon:            | 2022-01-26 15:05:00 | caulfield    |      4 |        2 | Streetcar Stranger |   4.6  | vulture,pangea      |
-| 54 | :soon:            | 2022-01-26 15:05:00 | caulfield    |      4 |        4 | Mossman Gorge      |  12    | benny,pangea        |
-| 55 | :soon:            | 2022-01-26 15:05:00 | caulfield    |      4 |        3 | Enthaar            |   1.55 | pangea,icyhot       |
+| 52 | --                | 2022-01-26 15:10:00 | wagga        |      4 |        2 | Think More         |   4.6  | pangea              |
+| 53 | :boom:            | 2022-01-26 15:05:00 | caulfield    |      4 |        2 | Streetcar Stranger |   4.6  | vulture,pangea      |
+| 54 | :2nd_place_medal: | 2022-01-26 15:05:00 | caulfield    |      4 |        4 | Mossman Gorge      |  12    | benny,pangea        |
+| 55 | 4.0               | 2022-01-26 15:05:00 | caulfield    |      4 |        3 | Enthaar            |   1.55 | pangea,icyhot       |
 | 56 | --                | 2022-01-26 14:54:00 | belmont      |      1 |        6 | Compak             |   7    | pikey               |
 | 57 | :boom:            | 2022-01-26 14:50:00 | warwick-farm |      3 |        3 | Bon Vivant         |   5.5  | vulture             |
-| 58 | --                | 2022-01-26 14:50:00 | warwick-farm |      3 |        7 | Scat's Surfer Girl |   4    | looseknot           |
+| 58 | 6.0               | 2022-01-26 14:50:00 | warwick-farm |      3 |        7 | Scat's Surfer Girl |   4    | looseknot           |
 | 59 | 4.0               | 2022-01-26 14:50:00 | warwick-farm |      3 |        2 | Tuhinga            |   3.1  | jmac                |
 | 60 | 5.0               | 2022-01-26 14:30:00 | caulfield    |      3 |        6 | Suricate           |   4.8  | vulture,milkman     |
 | 61 | 7.0               | 2022-01-26 14:30:00 | caulfield    |      3 |        7 | Shiriki            |  31    | milkman             |
