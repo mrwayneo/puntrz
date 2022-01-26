@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 21:35:52 +1000  
+date: 2022-01-26 21:51:03 +1000  
 ---   
 
 
@@ -25,7 +25,7 @@ date: 2022-01-26 21:35:52 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      4 |     -129 | 0.15 | -0.5  |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      2 |     -203 | 0.07 | -0.75 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      1 |     -204 | 0.05 | -0.93 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      2 |     -406 | 0.04 | -0.85 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     48 |      3 |     -366 | 0.06 | -0.76 |
 
 ##### Form Last 20 tips   
 
@@ -100,7 +100,7 @@ date: 2022-01-26 21:35:52 +1000
 | 16 | :soon:            | 2022-01-26 21:55:00 | belmont      |     12 |        6 | Gambler's Gold     |   3.9  | vulture,pangea      |
 | 17 | --                | 2022-01-26 21:30:00 | launceston   |      8 |        8 | Our Shinkansen     |   5    | overthrow           |
 | 18 | :2nd_place_medal: | 2022-01-26 21:15:00 | belmont      |     11 |       12 | Blonde Warrior     |  26    | vulture             |
-| 19 | --                | 2022-01-26 21:15:00 | belmont      |     11 |       10 | Mrs America        |   1.85 | overthrow,pikey     |
+| 19 | 8.0               | 2022-01-26 21:15:00 | belmont      |     11 |       10 | Mrs America        |   1.85 | overthrow,pikey     |
 | 20 | :3rd_place_medal: | 2022-01-26 21:00:00 | launceston   |      7 |        4 | Le Cadeau          |   5    | vulture             |
 | 21 | 5.0               | 2022-01-26 20:40:00 | belmont      |     10 |        6 | Zero Consequence   |   7.5  | vulture,milkman     |
 | 22 | 5.0               | 2022-01-26 20:20:00 | launceston   |      6 |        2 | Ashy Boy           |   6    | overthrow           |
