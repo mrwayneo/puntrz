@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-26 19:35:45 +1000  
+date: 2022-01-26 19:50:50 +1000  
 ---   
 
 
@@ -105,7 +105,7 @@ date: 2022-01-26 19:35:45 +1000
 | 21 | :soon:            | 2022-01-26 20:40:00 | belmont      |     10 |        6 | Zero Consequence   |   7.5  | vulture,milkman     |
 | 22 | :soon:            | 2022-01-26 20:20:00 | launceston   |      6 |        2 | Ashy Boy           |   6    | overthrow           |
 | 23 | :soon:            | 2022-01-26 20:00:00 | belmont      |      9 |        8 | Kick A Goal Son    |   2.25 | pangea              |
-| 24 | :soon:            | 2022-01-26 19:40:00 | launceston   |      5 |        3 | Clifton Danseur    |   5    | overthrow           |
+| 24 | :2nd_place_medal: | 2022-01-26 19:40:00 | launceston   |      5 |        3 | Clifton Danseur    |   5    | overthrow           |
 | 25 | :2nd_place_medal: | 2022-01-26 19:20:00 | belmont      |      8 |        2 | Makfly             |   6.5  | benny,pangea        |
 | 26 | 8.0               | 2022-01-26 18:37:00 | darwin       |      6 |        1 | Rich Sun           |   7    | overthrow           |
 | 27 | :2nd_place_medal: | 2022-01-26 18:08:00 | belmont      |      6 |        6 | Men's Club         |   7    | pikey               |
