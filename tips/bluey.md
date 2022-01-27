@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-01-27 14:39:22 +1000  
+date: 2022-01-27 15:35:17 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 14:55             | 2022-01-27 | rockhampton R3         | 5 Fleetingly          |  26   |      -10 |
+| 6                 | 2022-01-27 | rockhampton R3         | 5 Fleetingly          |  26   |      -10 |
 | 4                 | 2022-01-25 | kempton R3             | 9 Global Vision       |  15   |      -10 |
 | 7                 | 2022-01-23 | hobart R6              | 11 Seguimientos       |  67   |      -10 |
 | 0                 | 2022-01-23 | wolverhampton R1       | 6 Rose Fandango       |   0   |      -10 |
@@ -132,8 +132,8 @@ categories: None
 | :2nd_place_medal: | 2021-07-09 | carlisle R8            | 3 Zeimaam             |  11   |      -10 |
 | 7                 | 2021-07-07 | bordertown R6          | 10 Humpback           |  19   |      -10 |
 | 9                 | 2021-07-07 | grafton R1             | 5 Astralis            |  15   |      -10 |
-| :boom:            | 2021-07-04 | haydock R4             | 3 Alounak             |  19.2 |      182 |
 | :3rd_place_medal: | 2021-07-04 | haydock R4             | 9 My Frankel          |  15   |      -10 |
+| :boom:            | 2021-07-04 | haydock R4             | 3 Alounak             |  19.2 |      182 |
 | :boom:            | 2021-07-03 | darwin R6              | 7 La Trioli           |   9.6 |       86 |
 | :boom:            | 2021-07-02 | newbury R4             | 9 In The Breeze       |  10   |       90 |
 | :2nd_place_medal: | 2021-07-01 | thirsk R7              | 12 Dylan's Lad        |  11   |      -10 |
