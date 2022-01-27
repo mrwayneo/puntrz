@@ -1,11 +1,27 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-28 07:50:40 +1000  
+date: 2022-01-28 08:33:21 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 |    0 |    -1 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      0 |      -10 |    0 |    -1 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      0 |      -20 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 |    0 |    -1 |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      3 |      0 |      -30 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |      -40 |    0 |    -1 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      6 |      0 |      -60 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      7 |      0 |      -70 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      0 |      -80 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     38 |      0 |     -380 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     51 |      0 |     -510 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,36 +75,35 @@ date: 2022-01-28 07:50:40 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6227 |    884 | -10698.6 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7909 |    388 | -21082   | 0.05 | -0.27 |
 
-|    | finish            | time                | track       |   race |   number | name              |   odds | tipster            |
-|---:|:------------------|:--------------------|:------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :boom:            | 2022-01-28 04:30:00 | newcastle   |      4 |        4 | Little Raven      |   2.4  | pangea             |
-|  1 | :3rd_place_medal: | 2022-01-28 03:07:00 | gowran-park |      7 |        1 | Douglas Dc        |   7    | vulture            |
-|  2 | --                | 2022-01-28 03:00:00 | southwell   |      7 |        6 | Gertcha           |   6.5  | looseknot          |
-|  3 | --                | 2022-01-28 02:15:00 | wetherby    |      6 |        3 | Chase Outlaw      |   7.5  | overthrow          |
-|  4 | :boom:            | 2022-01-28 02:15:00 | wetherby    |      6 |        1 | Sholokjack        |   2.1  | overthrow,lago     |
-|  5 | :2nd_place_medal: | 2022-01-28 02:05:00 | gowran-park |      5 |        4 | Franco De Port    |  13    | overthrow          |
-|  6 | --                | 2022-01-28 01:45:00 | wetherby    |      5 |        4 | Barnabas Collins  |   7.5  | overthrow,milkman  |
-|  7 | --                | 2022-01-28 01:45:00 | wetherby    |      5 |        3 | Apothicaire       |   9.5  | overthrow          |
-|  8 | :2nd_place_medal: | 2022-01-28 01:45:00 | wetherby    |      5 |        1 | Lupus Regem       |   3    | milkman            |
-|  9 | 5.0               | 2022-01-28 01:25:00 | southwell   |      4 |        2 | Aberama Gold      |  12    | cosmo,bob          |
-| 10 | 4.0               | 2022-01-28 01:05:00 | gowran-park |      3 |        1 | Klassical Dream   |   1.4  | overthrow          |
-| 11 | :boom:            | 2022-01-28 00:35:00 | gowran-park |      2 |        3 | Glengouly         |   4    | overthrow          |
-| 12 | --                | 2022-01-28 00:35:00 | gowran-park |      2 |        4 | Monkstreet        |   4.2  | looseknot          |
-| 13 | :boom:            | 2022-01-28 00:20:00 | southwell   |      2 |        1 | Symbol Of Light   |   1.5  | vulture,pangea     |
-| 14 | :2nd_place_medal: | 2022-01-28 00:10:00 | wetherby    |      2 |        3 | Message Personnel |   2.5  | overthrow          |
-| 15 | :boom:            | 2022-01-27 20:00:00 | geraldton   |      6 |        3 | Startrade         |   1.6  | pangea             |
-| 16 | 8.0               | 2022-01-27 17:50:00 | rockhampton |      8 |        1 | Deep Breath       |   6    | vulture            |
-| 17 | 4.0               | 2022-01-27 17:50:00 | rockhampton |      8 |        4 | Teeling           |   9    | evenodds,overthrow |
-| 18 | 4.0               | 2022-01-27 17:15:00 | rockhampton |      7 |        7 | Whoa Lola         |   1.67 | benny,pangea       |
-| 19 | :boom:            | 2022-01-27 16:40:00 | rockhampton |      6 |        3 | Bean Deadly       |   2.8  | vulture            |
-| 20 | 7.0               | 2022-01-27 16:20:00 | gosford     |      6 |        8 | Sebring's Rose    |   5    | milkman            |
-| 21 | 5.0               | 2022-01-27 16:20:00 | gosford     |      6 |        5 | Emissive          |   2.15 | milkman            |
-| 22 | :2nd_place_medal: | 2022-01-27 16:05:00 | rockhampton |      5 |        2 | Chosen Distance   |   5.5  | vulture            |
-| 23 | :3rd_place_medal: | 2022-01-27 15:45:00 | gosford     |      5 |        8 | Gerardjoseph      |   5    | vulture            |
-| 24 | 7.0               | 2022-01-27 15:45:00 | gosford     |      5 |        4 | Gulf Of Sidra     |   8    | looseknot          |
-| 25 | 5.0               | 2022-01-27 15:10:00 | gosford     |      4 |        5 | The Winter Sun    |   3.9  | looseknot          |
-| 26 | 6.0               | 2022-01-27 14:55:00 | rockhampton |      3 |        5 | Fleetingly        |  26    | cosmo,bluey        |
-| 27 | :2nd_place_medal: | 2022-01-27 14:35:00 | gosford     |      3 |        2 | Beholder          |   4.8  | looseknot          |
-| 28 | :3rd_place_medal: | 2022-01-27 14:20:00 | rockhampton |      2 |        3 | Courtesy Bus      |   4.33 | benny,pangea       |
-| 29 | :2nd_place_medal: | 2022-01-27 14:20:00 | rockhampton |      2 |        2 | Nailed It Nan     |   2.6  | benny,blackshadow  |
-| 30 | :2nd_place_medal: | 2022-01-27 13:32:00 | hastings    |      4 |        5 | Titled            |   2.8  | vulture            |
+|    | finish   | time                | track         |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-01-29 03:45:00 | wolverhampton |      1 |        4 | Sea Formula        |   2.2  | vulture            |
+|  1 | :soon:   | 2022-01-29 03:10:00 | huntingdon    |      8 |        2 | Festive Glory      |   8    | looseknot          |
+|  2 | :soon:   | 2022-01-29 03:10:00 | huntingdon    |      8 |        9 | Western Zephyr     |   7.5  | vulture,milkman    |
+|  3 | :soon:   | 2022-01-29 02:10:00 | huntingdon    |      6 |        2 | Mill Green         |  10    | overthrow          |
+|  4 | :soon:   | 2022-01-29 01:35:00 | huntingdon    |      5 |        4 | Galice Macalo      |  12    | vulture            |
+|  5 | :soon:   | 2022-01-29 01:25:00 | doncaster     |      5 |        9 | Ridgeway           |   3.4  | overthrow          |
+|  6 | :soon:   | 2022-01-29 01:25:00 | doncaster     |      5 |        3 | Callisto's King    |  26    | overthrow          |
+|  7 | :soon:   | 2022-01-29 01:00:00 | fairview      |      7 |        6 | Whatever Next      |   0    | milkman            |
+|  8 | :soon:   | 2022-01-29 00:25:00 | huntingdon    |      3 |        2 | Royal Ruby         |   3    | overthrow          |
+|  9 | :soon:   | 2022-01-29 00:15:00 | doncaster     |      3 |        4 | King D'Argent      |  15    | overthrow          |
+| 10 | :soon:   | 2022-01-28 23:45:00 | doncaster     |      2 |        6 | Skytastic          |   2.2  | milkman            |
+| 11 | :soon:   | 2022-01-28 23:45:00 | doncaster     |      2 |        2 | Commodore Miller   |   6    | vulture            |
+| 12 | :soon:   | 2022-01-28 21:00:00 | canterbury    |      7 |        4 | Sky Command        |   5.5  | jmac               |
+| 13 | :soon:   | 2022-01-28 21:00:00 | canterbury    |      7 |        2 | Able Willie        |   2.7  | wallbow            |
+| 14 | :soon:   | 2022-01-28 20:30:00 | canterbury    |      6 |        6 | Texcel             |   4.4  | vulture            |
+| 15 | :soon:   | 2022-01-28 20:00:00 | canterbury    |      5 |        1 | Fortified          |   4.8  | jmac               |
+| 16 | :soon:   | 2022-01-28 20:00:00 | canterbury    |      5 |        6 | Rules Don't Apply  |   6    | wallbow            |
+| 17 | :soon:   | 2022-01-28 20:00:00 | canterbury    |      5 |        7 | Regal Toff         |  31    | cosmo,bluey        |
+| 18 | :soon:   | 2022-01-28 19:45:00 | cranbourne    |      4 |       10 | Loving Angel       |   8.5  | looseknot          |
+| 19 | :soon:   | 2022-01-28 19:30:00 | canterbury    |      4 |        6 | Fiordland          |   3.3  | jmac               |
+| 20 | :soon:   | 2022-01-28 19:30:00 | canterbury    |      4 |        2 | Savoury            |   6    | pangea             |
+| 21 | :soon:   | 2022-01-28 19:00:00 | canterbury    |      3 |        1 | Inuwashi           |   4.33 | wallbow            |
+| 22 | :soon:   | 2022-01-28 19:00:00 | canterbury    |      3 |        6 | Pretes             |   3.75 | looseknot,jmac     |
+| 23 | :soon:   | 2022-01-28 18:40:00 | townsville    |      8 |        6 | Micawber           |   6.5  | moechilli          |
+| 24 | :soon:   | 2022-01-28 18:30:00 | canterbury    |      2 |        9 | You Are Persistent |  11    | jmac               |
+| 25 | :soon:   | 2022-01-28 18:00:00 | canterbury    |      1 |        4 | Robusto            |   1.85 | jmac               |
+| 26 | :soon:   | 2022-01-28 17:40:00 | townsville    |      6 |        6 | Deadly Diva        |   3.9  | overthrow          |
+| 27 | :soon:   | 2022-01-28 17:04:00 | townsville    |      5 |        1 | Arise My Son       |   7.5  | evenodds,overthrow |
+| 28 | :soon:   | 2022-01-28 15:05:00 | scone         |      4 |        3 | Expect A Hero      |   9    | vulture,pangea     |
+| 29 | :soon:   | 2022-01-28 13:35:00 | taree         |      1 |        1 | Oakfield Pinto     |   3.1  | looseknot          |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-01-28 07:50:39 +1000  
+date: 2022-01-28 08:33:20 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 20:00             | 2022-01-28 | canterbury R5          | 7 Regal Toff          |  31   |      -10 |
 | 6                 | 2022-01-27 | rockhampton R3         | 5 Fleetingly          |  26   |      -10 |
 | 4                 | 2022-01-25 | kempton R3             | 9 Global Vision       |  15   |      -10 |
 | 7                 | 2022-01-23 | hobart R6              | 11 Seguimientos       |  67   |      -10 |
