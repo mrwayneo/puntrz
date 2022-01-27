@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-27 18:12:35 +1000  
+date: 2022-01-27 19:05:17 +1000  
 ---   
 
 
@@ -21,7 +21,7 @@ date: 2022-01-27 18:12:35 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      9 |      0 |      -90 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      0 |     -130 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     15 |      0 |     -150 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     37 |      0 |     -370 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     37 |      1 |     -349 | 0.03 | -0.94 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     55 |      0 |     -550 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -94,7 +94,7 @@ date: 2022-01-27 18:12:35 +1000
 | 13 | :soon:            | 2022-01-28 00:20:00 | southwell   |      2 |        1 | Symbol Of Light   |   1.5  | vulture,pangea     |
 | 14 | :soon:            | 2022-01-28 00:10:00 | wetherby    |      2 |        3 | Message Personnel |   2.5  | overthrow          |
 | 15 | :soon:            | 2022-01-27 20:00:00 | geraldton   |      6 |        3 | Startrade         |   1.6  | pangea             |
-| 16 | --                | 2022-01-27 17:50:00 | rockhampton |      8 |        1 | Deep Breath       |   6    | vulture            |
+| 16 | 8.0               | 2022-01-27 17:50:00 | rockhampton |      8 |        1 | Deep Breath       |   6    | vulture            |
 | 17 | 4.0               | 2022-01-27 17:50:00 | rockhampton |      8 |        4 | Teeling           |   9    | evenodds,overthrow |
 | 18 | 4.0               | 2022-01-27 17:15:00 | rockhampton |      7 |        7 | Whoa Lola         |   1.67 | benny,pangea       |
 | 19 | :boom:            | 2022-01-27 16:40:00 | rockhampton |      6 |        3 | Bean Deadly       |   2.8  | vulture            |
