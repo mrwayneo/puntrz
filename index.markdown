@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-27 12:56:21 +1000  
+date: 2022-01-27 13:54:18 +1000  
 ---   
 
 
@@ -76,36 +76,36 @@ date: 2022-01-27 12:56:21 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6212 |    885 | -10393.1 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7883 |    389 | -20753   | 0.05 | -0.26 |
 
-|    | finish   | time                | track       |   race |   number | name              |   odds | tipster            |
-|---:|:---------|:--------------------|:------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-01-28 04:30:00 | newcastle   |      4 |        4 | Little Raven      |   2.4  | pangea             |
-|  1 | :soon:   | 2022-01-28 03:07:00 | gowran-park |      7 |        1 | Douglas Dc        |   7    | vulture            |
-|  2 | :soon:   | 2022-01-28 03:00:00 | southwell   |      7 |        6 | Gertcha           |   6.5  | looseknot          |
-|  3 | :soon:   | 2022-01-28 02:15:00 | wetherby    |      6 |        3 | Chase Outlaw      |   7.5  | overthrow          |
-|  4 | :soon:   | 2022-01-28 02:15:00 | wetherby    |      6 |        1 | Sholokjack        |   2.1  | overthrow,lago     |
-|  5 | :soon:   | 2022-01-28 02:05:00 | gowran-park |      5 |        4 | Franco De Port    |  13    | overthrow          |
-|  6 | :soon:   | 2022-01-28 01:45:00 | wetherby    |      5 |        4 | Barnabas Collins  |   7.5  | overthrow,milkman  |
-|  7 | :soon:   | 2022-01-28 01:45:00 | wetherby    |      5 |        3 | Apothicaire       |   9.5  | overthrow          |
-|  8 | :soon:   | 2022-01-28 01:45:00 | wetherby    |      5 |        1 | Lupus Regem       |   3    | milkman            |
-|  9 | :soon:   | 2022-01-28 01:25:00 | southwell   |      4 |        2 | Aberama Gold      |  12    | cosmo,bob          |
-| 10 | :soon:   | 2022-01-28 01:05:00 | gowran-park |      3 |        1 | Klassical Dream   |   1.4  | overthrow          |
-| 11 | :soon:   | 2022-01-28 00:35:00 | gowran-park |      2 |        3 | Glengouly         |   4    | overthrow          |
-| 12 | :soon:   | 2022-01-28 00:35:00 | gowran-park |      2 |        4 | Monkstreet        |   4.2  | looseknot          |
-| 13 | :soon:   | 2022-01-28 00:20:00 | southwell   |      2 |        1 | Symbol Of Light   |   1.5  | vulture,pangea     |
-| 14 | :soon:   | 2022-01-28 00:10:00 | wetherby    |      2 |        3 | Message Personnel |   2.5  | overthrow          |
-| 15 | :soon:   | 2022-01-27 20:00:00 | geraldton   |      6 |        3 | Startrade         |   1.6  | pangea             |
-| 16 | :soon:   | 2022-01-27 17:50:00 | rockhampton |      8 |        1 | Deep Breath       |   6    | vulture            |
-| 17 | :soon:   | 2022-01-27 17:50:00 | rockhampton |      8 |        4 | Teeling           |   9    | evenodds,overthrow |
-| 18 | :soon:   | 2022-01-27 17:15:00 | rockhampton |      7 |        7 | Whoa Lola         |   1.67 | benny,pangea       |
-| 19 | :soon:   | 2022-01-27 16:40:00 | rockhampton |      6 |        3 | Bean Deadly       |   2.8  | vulture            |
-| 20 | :soon:   | 2022-01-27 16:20:00 | gosford     |      6 |        8 | Sebring's Rose    |   5    | milkman            |
-| 21 | :soon:   | 2022-01-27 16:20:00 | gosford     |      6 |        5 | Emissive          |   2.15 | milkman            |
-| 22 | :soon:   | 2022-01-27 16:05:00 | rockhampton |      5 |        2 | Chosen Distance   |   5.5  | vulture            |
-| 23 | :soon:   | 2022-01-27 15:45:00 | gosford     |      5 |        8 | Gerardjoseph      |   5    | vulture            |
-| 24 | :soon:   | 2022-01-27 15:45:00 | gosford     |      5 |        4 | Gulf Of Sidra     |   8    | looseknot          |
-| 25 | :soon:   | 2022-01-27 15:10:00 | gosford     |      4 |        5 | The Winter Sun    |   3.9  | looseknot          |
-| 26 | :soon:   | 2022-01-27 14:55:00 | rockhampton |      3 |        5 | Fleetingly        |  26    | cosmo,bluey        |
-| 27 | :soon:   | 2022-01-27 14:35:00 | gosford     |      3 |        2 | Beholder          |   4.8  | looseknot          |
-| 28 | :soon:   | 2022-01-27 14:20:00 | rockhampton |      2 |        3 | Courtesy Bus      |   4.33 | benny,pangea       |
-| 29 | :soon:   | 2022-01-27 14:20:00 | rockhampton |      2 |        2 | Nailed It Nan     |   2.6  | benny,blackshadow  |
-| 30 | :soon:   | 2022-01-27 13:32:00 | hastings    |      4 |        5 | Titled            |   2.8  | vulture            |
+|    | finish            | time                | track       |   race |   number | name              |   odds | tipster            |
+|---:|:------------------|:--------------------|:------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-01-28 04:30:00 | newcastle   |      4 |        4 | Little Raven      |   2.4  | pangea             |
+|  1 | :soon:            | 2022-01-28 03:07:00 | gowran-park |      7 |        1 | Douglas Dc        |   7    | vulture            |
+|  2 | :soon:            | 2022-01-28 03:00:00 | southwell   |      7 |        6 | Gertcha           |   6.5  | looseknot          |
+|  3 | :soon:            | 2022-01-28 02:15:00 | wetherby    |      6 |        3 | Chase Outlaw      |   7.5  | overthrow          |
+|  4 | :soon:            | 2022-01-28 02:15:00 | wetherby    |      6 |        1 | Sholokjack        |   2.1  | overthrow,lago     |
+|  5 | :soon:            | 2022-01-28 02:05:00 | gowran-park |      5 |        4 | Franco De Port    |  13    | overthrow          |
+|  6 | :soon:            | 2022-01-28 01:45:00 | wetherby    |      5 |        4 | Barnabas Collins  |   7.5  | overthrow,milkman  |
+|  7 | :soon:            | 2022-01-28 01:45:00 | wetherby    |      5 |        3 | Apothicaire       |   9.5  | overthrow          |
+|  8 | :soon:            | 2022-01-28 01:45:00 | wetherby    |      5 |        1 | Lupus Regem       |   3    | milkman            |
+|  9 | :soon:            | 2022-01-28 01:25:00 | southwell   |      4 |        2 | Aberama Gold      |  12    | cosmo,bob          |
+| 10 | :soon:            | 2022-01-28 01:05:00 | gowran-park |      3 |        1 | Klassical Dream   |   1.4  | overthrow          |
+| 11 | :soon:            | 2022-01-28 00:35:00 | gowran-park |      2 |        3 | Glengouly         |   4    | overthrow          |
+| 12 | :soon:            | 2022-01-28 00:35:00 | gowran-park |      2 |        4 | Monkstreet        |   4.2  | looseknot          |
+| 13 | :soon:            | 2022-01-28 00:20:00 | southwell   |      2 |        1 | Symbol Of Light   |   1.5  | vulture,pangea     |
+| 14 | :soon:            | 2022-01-28 00:10:00 | wetherby    |      2 |        3 | Message Personnel |   2.5  | overthrow          |
+| 15 | :soon:            | 2022-01-27 20:00:00 | geraldton   |      6 |        3 | Startrade         |   1.6  | pangea             |
+| 16 | :soon:            | 2022-01-27 17:50:00 | rockhampton |      8 |        1 | Deep Breath       |   6    | vulture            |
+| 17 | :soon:            | 2022-01-27 17:50:00 | rockhampton |      8 |        4 | Teeling           |   9    | evenodds,overthrow |
+| 18 | :soon:            | 2022-01-27 17:15:00 | rockhampton |      7 |        7 | Whoa Lola         |   1.67 | benny,pangea       |
+| 19 | :soon:            | 2022-01-27 16:40:00 | rockhampton |      6 |        3 | Bean Deadly       |   2.8  | vulture            |
+| 20 | :soon:            | 2022-01-27 16:20:00 | gosford     |      6 |        8 | Sebring's Rose    |   5    | milkman            |
+| 21 | :soon:            | 2022-01-27 16:20:00 | gosford     |      6 |        5 | Emissive          |   2.15 | milkman            |
+| 22 | :soon:            | 2022-01-27 16:05:00 | rockhampton |      5 |        2 | Chosen Distance   |   5.5  | vulture            |
+| 23 | :soon:            | 2022-01-27 15:45:00 | gosford     |      5 |        8 | Gerardjoseph      |   5    | vulture            |
+| 24 | :soon:            | 2022-01-27 15:45:00 | gosford     |      5 |        4 | Gulf Of Sidra     |   8    | looseknot          |
+| 25 | :soon:            | 2022-01-27 15:10:00 | gosford     |      4 |        5 | The Winter Sun    |   3.9  | looseknot          |
+| 26 | :soon:            | 2022-01-27 14:55:00 | rockhampton |      3 |        5 | Fleetingly        |  26    | cosmo,bluey        |
+| 27 | :soon:            | 2022-01-27 14:35:00 | gosford     |      3 |        2 | Beholder          |   4.8  | looseknot          |
+| 28 | :soon:            | 2022-01-27 14:20:00 | rockhampton |      2 |        3 | Courtesy Bus      |   4.33 | benny,pangea       |
+| 29 | :soon:            | 2022-01-27 14:20:00 | rockhampton |      2 |        2 | Nailed It Nan     |   2.6  | benny,blackshadow  |
+| 30 | :2nd_place_medal: | 2022-01-27 13:32:00 | hastings    |      4 |        5 | Titled            |   2.8  | vulture            |
