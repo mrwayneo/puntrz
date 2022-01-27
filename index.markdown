@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-27 16:19:56 +1000  
+date: 2022-01-27 17:06:16 +1000  
 ---   
 
 
@@ -9,20 +9,20 @@ date: 2022-01-27 16:19:56 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 |    0 |    -1 |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 |    0 |    -1 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      4 |      0 |      -40 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      5 |      0 |      -50 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      9 |      0 |      -90 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      9 |      0 |      -90 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      0 |     -130 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     15 |      0 |     -150 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     37 |      0 |     -370 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     55 |      0 |     -550 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      4 |      0 |      -40 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      5 |      0 |      -50 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      9 |      1 |      -61 | 0.11 | -0.68 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      9 |      0 |      -90 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      0 |     -130 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     15 |      0 |     -150 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     37 |      0 |     -370 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     55 |      0 |     -550 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -97,9 +97,9 @@ date: 2022-01-27 16:19:56 +1000
 | 16 | :soon:            | 2022-01-27 17:50:00 | rockhampton |      8 |        1 | Deep Breath       |   6    | vulture            |
 | 17 | :soon:            | 2022-01-27 17:50:00 | rockhampton |      8 |        4 | Teeling           |   9    | evenodds,overthrow |
 | 18 | :soon:            | 2022-01-27 17:15:00 | rockhampton |      7 |        7 | Whoa Lola         |   1.67 | benny,pangea       |
-| 19 | :soon:            | 2022-01-27 16:40:00 | rockhampton |      6 |        3 | Bean Deadly       |   2.8  | vulture            |
-| 20 | :soon:            | 2022-01-27 16:20:00 | gosford     |      6 |        8 | Sebring's Rose    |   5    | milkman            |
-| 21 | :soon:            | 2022-01-27 16:20:00 | gosford     |      6 |        5 | Emissive          |   2.15 | milkman            |
+| 19 | :boom:            | 2022-01-27 16:40:00 | rockhampton |      6 |        3 | Bean Deadly       |   2.8  | vulture            |
+| 20 | 7.0               | 2022-01-27 16:20:00 | gosford     |      6 |        8 | Sebring's Rose    |   5    | milkman            |
+| 21 | 5.0               | 2022-01-27 16:20:00 | gosford     |      6 |        5 | Emissive          |   2.15 | milkman            |
 | 22 | :2nd_place_medal: | 2022-01-27 16:05:00 | rockhampton |      5 |        2 | Chosen Distance   |   5.5  | vulture            |
 | 23 | :3rd_place_medal: | 2022-01-27 15:45:00 | gosford     |      5 |        8 | Gerardjoseph      |   5    | vulture            |
 | 24 | 7.0               | 2022-01-27 15:45:00 | gosford     |      5 |        4 | Gulf Of Sidra     |   8    | looseknot          |
