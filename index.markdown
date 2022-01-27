@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-27 15:35:19 +1000  
+date: 2022-01-27 15:49:52 +1000  
 ---   
 
 
@@ -101,8 +101,8 @@ date: 2022-01-27 15:35:19 +1000
 | 20 | :soon:            | 2022-01-27 16:20:00 | gosford     |      6 |        8 | Sebring's Rose    |   5    | milkman            |
 | 21 | :soon:            | 2022-01-27 16:20:00 | gosford     |      6 |        5 | Emissive          |   2.15 | milkman            |
 | 22 | :soon:            | 2022-01-27 16:05:00 | rockhampton |      5 |        2 | Chosen Distance   |   5.5  | vulture            |
-| 23 | :soon:            | 2022-01-27 15:45:00 | gosford     |      5 |        8 | Gerardjoseph      |   5    | vulture            |
-| 24 | :soon:            | 2022-01-27 15:45:00 | gosford     |      5 |        4 | Gulf Of Sidra     |   8    | looseknot          |
+| 23 | --                | 2022-01-27 15:45:00 | gosford     |      5 |        8 | Gerardjoseph      |   5    | vulture            |
+| 24 | --                | 2022-01-27 15:45:00 | gosford     |      5 |        4 | Gulf Of Sidra     |   8    | looseknot          |
 | 25 | 5.0               | 2022-01-27 15:10:00 | gosford     |      4 |        5 | The Winter Sun    |   3.9  | looseknot          |
 | 26 | 6.0               | 2022-01-27 14:55:00 | rockhampton |      3 |        5 | Fleetingly        |  26    | cosmo,bluey        |
 | 27 | :2nd_place_medal: | 2022-01-27 14:35:00 | gosford     |      3 |        2 | Beholder          |   4.8  | looseknot          |
