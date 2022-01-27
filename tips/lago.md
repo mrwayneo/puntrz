@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-01-27 14:24:30 +1000  
+date: 2022-01-27 14:39:22 +1000  
 categories: None 
 ---   
 
@@ -113,8 +113,8 @@ categories: None
 | :boom:            | 2021-08-14 | tramore R7             | 7 Coole Og           |  1.67 |      6.7 |
 | :boom:            | 2021-08-14 | newmarket R3           | 2 Coroebus           |  2.2  |     12   |
 | :boom:            | 2021-08-08 | kilbeggan R8           | 9 Flemencello        |  1.4  |      4   |
-| :2nd_place_medal: | 2021-07-31 | galway R8              | 15 Ashroe Diamond    |  2.5  |    -10   |
 | 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
+| :2nd_place_medal: | 2021-07-31 | galway R8              | 15 Ashroe Diamond    |  2.5  |    -10   |
 | 4                 | 2021-07-25 | uttoxeter R1           | 2 Knotty Ash         |  1.7  |    -10   |
 | :boom:            | 2021-07-22 | sandown R3             | 4 Inspiral           |  2.2  |     12   |
 | 99                | 2021-07-18 | newbury R7             | 2 Mawenzi            |  3.3  |    -10   |
@@ -177,8 +177,8 @@ categories: None
 | :2nd_place_medal: | 2021-02-27 | warwick R1             | 2 Heross Du Seuil    |  1.8  |    -10   |
 | :3rd_place_medal: | 2021-02-23 | southwell R3           | 4 Ballingers Corner  |  4.4  |    -10   |
 | :3rd_place_medal: | 2021-02-09 | fairyhouse R4          | 2 Gauloise           |  3.75 |    -10   |
-| 99                | 2021-02-08 | leopardstown R8        | 1 Brooklynn Glory    |  6    |    -10   |
 | :3rd_place_medal: | 2021-02-08 | leopardstown R8        | 6 Brandy Love        |  2.1  |    -10   |
+| 99                | 2021-02-08 | leopardstown R8        | 1 Brooklynn Glory    |  6    |    -10   |
 | :3rd_place_medal: | 2021-02-05 | townsville R1          | 1 Attackabeel        |  1.4  |    -10   |
 | :2nd_place_medal: | 2021-02-04 | wincanton R1           | 7 Fable              |  3.75 |    -10   |
 | :boom:            | 2021-01-20 | newbury R1             | 6 Gallyhill          |  1.34 |      3.4 |

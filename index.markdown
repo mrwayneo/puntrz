@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-27 14:24:31 +1000  
+date: 2022-01-27 14:39:23 +1000  
 ---   
 
 
@@ -105,7 +105,7 @@ date: 2022-01-27 14:24:31 +1000
 | 24 | :soon:            | 2022-01-27 15:45:00 | gosford     |      5 |        4 | Gulf Of Sidra     |   8    | looseknot          |
 | 25 | :soon:            | 2022-01-27 15:10:00 | gosford     |      4 |        5 | The Winter Sun    |   3.9  | looseknot          |
 | 26 | :soon:            | 2022-01-27 14:55:00 | rockhampton |      3 |        5 | Fleetingly        |  26    | cosmo,bluey        |
-| 27 | :soon:            | 2022-01-27 14:35:00 | gosford     |      3 |        2 | Beholder          |   4.8  | looseknot          |
+| 27 | --                | 2022-01-27 14:35:00 | gosford     |      3 |        2 | Beholder          |   4.8  | looseknot          |
 | 28 | :3rd_place_medal: | 2022-01-27 14:20:00 | rockhampton |      2 |        3 | Courtesy Bus      |   4.33 | benny,pangea       |
 | 29 | :2nd_place_medal: | 2022-01-27 14:20:00 | rockhampton |      2 |        2 | Nailed It Nan     |   2.6  | benny,blackshadow  |
 | 30 | :2nd_place_medal: | 2022-01-27 13:32:00 | hastings    |      4 |        5 | Titled            |   2.8  | vulture            |
