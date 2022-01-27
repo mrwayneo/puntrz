@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-27 17:51:30 +1000  
+date: 2022-01-27 18:12:35 +1000  
 ---   
 
 
@@ -95,7 +95,7 @@ date: 2022-01-27 17:51:30 +1000
 | 14 | :soon:            | 2022-01-28 00:10:00 | wetherby    |      2 |        3 | Message Personnel |   2.5  | overthrow          |
 | 15 | :soon:            | 2022-01-27 20:00:00 | geraldton   |      6 |        3 | Startrade         |   1.6  | pangea             |
 | 16 | --                | 2022-01-27 17:50:00 | rockhampton |      8 |        1 | Deep Breath       |   6    | vulture            |
-| 17 | --                | 2022-01-27 17:50:00 | rockhampton |      8 |        4 | Teeling           |   9    | evenodds,overthrow |
+| 17 | 4.0               | 2022-01-27 17:50:00 | rockhampton |      8 |        4 | Teeling           |   9    | evenodds,overthrow |
 | 18 | 4.0               | 2022-01-27 17:15:00 | rockhampton |      7 |        7 | Whoa Lola         |   1.67 | benny,pangea       |
 | 19 | :boom:            | 2022-01-27 16:40:00 | rockhampton |      6 |        3 | Bean Deadly       |   2.8  | vulture            |
 | 20 | 7.0               | 2022-01-27 16:20:00 | gosford     |      6 |        8 | Sebring's Rose    |   5    | milkman            |
