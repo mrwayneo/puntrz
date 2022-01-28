@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-28 13:21:17 +1000  
+date: 2022-01-28 13:36:29 +1000  
 ---   
 
 
@@ -106,4 +106,4 @@ date: 2022-01-28 13:21:17 +1000
 | 26 | :soon:   | 2022-01-28 17:40:00 | townsville    |      6 |        6 | Deadly Diva        |   3.9  | overthrow          |
 | 27 | :soon:   | 2022-01-28 17:04:00 | townsville    |      5 |        1 | Arise My Son       |   7.5  | evenodds,overthrow |
 | 28 | :soon:   | 2022-01-28 15:05:00 | scone         |      4 |        3 | Expect A Hero      |   9    | vulture,pangea     |
-| 29 | :soon:   | 2022-01-28 13:35:00 | taree         |      1 |        1 | Oakfield Pinto     |   3.1  | looseknot          |
+| 29 | --       | 2022-01-28 13:35:00 | taree         |      1 |        1 | Oakfield Pinto     |   3.1  | looseknot          |
