@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-28 20:11:27 +1000  
+date: 2022-01-28 21:09:32 +1000  
 ---   
 
 
@@ -11,13 +11,13 @@ date: 2022-01-28 20:11:27 +1000
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      1 |      139 | 1    | 13.9  |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      1 |       15 | 0.5  |  0.75 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      6 |      1 |        2 | 0.17 |  0.03 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |      -40 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      1 |      -58 | 0.12 | -0.72 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      6 |      0 |      -60 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      7 |      0 |      -70 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     38 |      0 |     -380 | 0    | -1    |
@@ -89,9 +89,9 @@ date: 2022-01-28 20:11:27 +1000
 |  9 | :soon:            | 2022-01-29 00:15:00 | doncaster     |      3 |        4 | King D'Argent      |  15    | overthrow          |
 | 10 | :soon:            | 2022-01-28 23:45:00 | doncaster     |      2 |        6 | Skytastic          |   2.2  | milkman            |
 | 11 | :soon:            | 2022-01-28 23:45:00 | doncaster     |      2 |        2 | Commodore Miller   |   6    | vulture            |
-| 12 | :soon:            | 2022-01-28 21:00:00 | canterbury    |      7 |        4 | Sky Command        |   5.5  | jmac               |
-| 13 | :soon:            | 2022-01-28 21:00:00 | canterbury    |      7 |        2 | Able Willie        |   2.7  | wallbow            |
-| 14 | :soon:            | 2022-01-28 20:30:00 | canterbury    |      6 |        6 | Texcel             |   4.4  | vulture            |
+| 12 | :boom:            | 2022-01-28 21:00:00 | canterbury    |      7 |        4 | Sky Command        |   5.5  | jmac               |
+| 13 | :2nd_place_medal: | 2022-01-28 21:00:00 | canterbury    |      7 |        2 | Able Willie        |   2.7  | wallbow            |
+| 14 | --                | 2022-01-28 20:30:00 | canterbury    |      6 |        6 | Texcel             |   4.4  | vulture            |
 | 15 | :2nd_place_medal: | 2022-01-28 20:00:00 | canterbury    |      5 |        1 | Fortified          |   4.8  | jmac               |
 | 16 | --                | 2022-01-28 20:00:00 | canterbury    |      5 |        6 | Rules Don't Apply  |   6    | wallbow            |
 | 17 | --                | 2022-01-28 20:00:00 | canterbury    |      5 |        7 | Regal Toff         |  31    | cosmo,bluey        |
