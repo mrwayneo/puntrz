@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-28 18:22:37 +1000  
+date: 2022-01-28 18:37:34 +1000  
 ---   
 
 
@@ -21,7 +21,7 @@ date: 2022-01-28 18:22:37 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      7 |      0 |      -70 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     38 |      0 |     -380 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     51 |      1 |     -496 | 0.02 | -0.97 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     51 |      2 |     -477 | 0.04 | -0.94 |
 
 ##### Form Last 20 tips   
 
@@ -101,7 +101,7 @@ date: 2022-01-28 18:22:37 +1000
 | 21 | :soon:            | 2022-01-28 19:00:00 | canterbury    |      3 |        1 | Inuwashi           |   4.33 | wallbow            |
 | 22 | :soon:            | 2022-01-28 19:00:00 | canterbury    |      3 |        6 | Pretes             |   3.75 | looseknot,jmac     |
 | 23 | :soon:            | 2022-01-28 18:40:00 | townsville    |      8 |        6 | Micawber           |   6.5  | moechilli          |
-| 24 | :soon:            | 2022-01-28 18:30:00 | canterbury    |      2 |        9 | You Are Persistent |  11    | jmac               |
+| 24 | --                | 2022-01-28 18:30:00 | canterbury    |      2 |        9 | You Are Persistent |  11    | jmac               |
 | 25 | :3rd_place_medal: | 2022-01-28 18:00:00 | canterbury    |      1 |        4 | Robusto            |   1.85 | jmac               |
 | 26 | :boom:            | 2022-01-28 17:40:00 | townsville    |      6 |        6 | Deadly Diva        |   3.9  | overthrow          |
 | 27 | :2nd_place_medal: | 2022-01-28 17:04:00 | townsville    |      5 |        1 | Arise My Son       |   7.5  | evenodds,overthrow |
