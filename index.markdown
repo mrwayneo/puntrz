@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-28 21:23:48 +1000  
+date: 2022-01-28 21:25:26 +1000  
 ---   
 
 
@@ -91,7 +91,7 @@ date: 2022-01-28 21:23:48 +1000
 | 11 | :soon:            | 2022-01-28 23:45:00 | doncaster     |      2 |        2 | Commodore Miller   |   6    | vulture            |
 | 12 | :boom:            | 2022-01-28 21:00:00 | canterbury    |      7 |        4 | Sky Command        |   5.5  | jmac               |
 | 13 | :2nd_place_medal: | 2022-01-28 21:00:00 | canterbury    |      7 |        2 | Able Willie        |   2.7  | wallbow            |
-| 14 | --                | 2022-01-28 20:30:00 | canterbury    |      6 |        6 | Texcel             |   4.4  | vulture            |
+| 14 | 6.0               | 2022-01-28 20:30:00 | canterbury    |      6 |        6 | Texcel             |   4.4  | vulture            |
 | 15 | :2nd_place_medal: | 2022-01-28 20:00:00 | canterbury    |      5 |        1 | Fortified          |   4.8  | jmac               |
 | 16 | --                | 2022-01-28 20:00:00 | canterbury    |      5 |        6 | Rules Don't Apply  |   6    | wallbow            |
 | 17 | --                | 2022-01-28 20:00:00 | canterbury    |      5 |        7 | Regal Toff         |  31    | cosmo,bluey        |
