@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-01-28 18:37:28 +1000  
+date: 2022-01-28 18:52:27 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 18:40             | 2022-01-28 | townsville R8          | 6 Micawber           |   6.5  |    -10   |
+| :boom:            | 2022-01-28 | townsville R8          | 6 Micawber           |  14.9  |    139   |
 | :boom:            | 2022-01-23 | haydock R3             | 6 Tommy's Oscar      |   1.57 |      5.7 |
 | :3rd_place_medal: | 2022-01-22 | esperance-bay R4       | 5 Noble Reflection   |   2.45 |    -10   |
 | :2nd_place_medal: | 2022-01-22 | townsville R1          | 6 Magnate            |   4    |    -10   |
