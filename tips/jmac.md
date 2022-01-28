@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-01-28 19:39:51 +1000  
+date: 2022-01-28 19:41:30 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 21:00             | 2022-01-28 | canterbury R7        | 4 Sky Command        |  5.5  |    -10   |
 | 20:00             | 2022-01-28 | canterbury R5        | 1 Fortified          |  4.8  |    -10   |
 | 0                 | 2022-01-28 | canterbury R4        | 6 Fiordland          |  0    |    -10   |
-| 0                 | 2022-01-28 | canterbury R3        | 6 Pretes             |  0    |    -10   |
+| 10                | 2022-01-28 | canterbury R3        | 6 Pretes             |  3.75 |    -10   |
 | 5                 | 2022-01-28 | canterbury R2        | 9 You Are Persistent | 11    |    -10   |
 | :3rd_place_medal: | 2022-01-28 | canterbury R1        | 4 Robusto            |  1.85 |    -10   |
 | :boom:            | 2022-01-26 | warwick-farm R8      | 1 Dajraan            |  1.6  |      6   |
