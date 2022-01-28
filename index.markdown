@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-28 13:36:29 +1000  
+date: 2022-01-28 13:52:29 +1000  
 ---   
 
 
@@ -75,35 +75,35 @@ date: 2022-01-28 13:36:29 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6227 |    884 | -10698.6 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7909 |    388 | -21082   | 0.05 | -0.27 |
 
-|    | finish   | time                | track         |   race |   number | name               |   odds | tipster            |
-|---:|:---------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-01-29 03:45:00 | wolverhampton |      1 |        4 | Sea Formula        |   2.2  | vulture            |
-|  1 | :soon:   | 2022-01-29 03:10:00 | huntingdon    |      8 |        2 | Festive Glory      |   8    | looseknot          |
-|  2 | :soon:   | 2022-01-29 03:10:00 | huntingdon    |      8 |        9 | Western Zephyr     |   7.5  | vulture,milkman    |
-|  3 | :soon:   | 2022-01-29 02:10:00 | huntingdon    |      6 |        2 | Mill Green         |  10    | overthrow          |
-|  4 | :soon:   | 2022-01-29 01:35:00 | huntingdon    |      5 |        4 | Galice Macalo      |  12    | vulture            |
-|  5 | :soon:   | 2022-01-29 01:25:00 | doncaster     |      5 |        9 | Ridgeway           |   3.4  | overthrow          |
-|  6 | :soon:   | 2022-01-29 01:25:00 | doncaster     |      5 |        3 | Callisto's King    |  26    | overthrow          |
-|  7 | :soon:   | 2022-01-29 01:00:00 | fairview      |      7 |        6 | Whatever Next      |   0    | milkman            |
-|  8 | :soon:   | 2022-01-29 00:25:00 | huntingdon    |      3 |        2 | Royal Ruby         |   3    | overthrow          |
-|  9 | :soon:   | 2022-01-29 00:15:00 | doncaster     |      3 |        4 | King D'Argent      |  15    | overthrow          |
-| 10 | :soon:   | 2022-01-28 23:45:00 | doncaster     |      2 |        6 | Skytastic          |   2.2  | milkman            |
-| 11 | :soon:   | 2022-01-28 23:45:00 | doncaster     |      2 |        2 | Commodore Miller   |   6    | vulture            |
-| 12 | :soon:   | 2022-01-28 21:00:00 | canterbury    |      7 |        4 | Sky Command        |   5.5  | jmac               |
-| 13 | :soon:   | 2022-01-28 21:00:00 | canterbury    |      7 |        2 | Able Willie        |   2.7  | wallbow            |
-| 14 | :soon:   | 2022-01-28 20:30:00 | canterbury    |      6 |        6 | Texcel             |   4.4  | vulture            |
-| 15 | :soon:   | 2022-01-28 20:00:00 | canterbury    |      5 |        1 | Fortified          |   4.8  | jmac               |
-| 16 | :soon:   | 2022-01-28 20:00:00 | canterbury    |      5 |        6 | Rules Don't Apply  |   6    | wallbow            |
-| 17 | :soon:   | 2022-01-28 20:00:00 | canterbury    |      5 |        7 | Regal Toff         |  31    | cosmo,bluey        |
-| 18 | :soon:   | 2022-01-28 19:45:00 | cranbourne    |      4 |       10 | Loving Angel       |   8.5  | looseknot          |
-| 19 | :soon:   | 2022-01-28 19:30:00 | canterbury    |      4 |        6 | Fiordland          |   3.3  | jmac               |
-| 20 | :soon:   | 2022-01-28 19:30:00 | canterbury    |      4 |        2 | Savoury            |   6    | pangea             |
-| 21 | :soon:   | 2022-01-28 19:00:00 | canterbury    |      3 |        1 | Inuwashi           |   4.33 | wallbow            |
-| 22 | :soon:   | 2022-01-28 19:00:00 | canterbury    |      3 |        6 | Pretes             |   3.75 | looseknot,jmac     |
-| 23 | :soon:   | 2022-01-28 18:40:00 | townsville    |      8 |        6 | Micawber           |   6.5  | moechilli          |
-| 24 | :soon:   | 2022-01-28 18:30:00 | canterbury    |      2 |        9 | You Are Persistent |  11    | jmac               |
-| 25 | :soon:   | 2022-01-28 18:00:00 | canterbury    |      1 |        4 | Robusto            |   1.85 | jmac               |
-| 26 | :soon:   | 2022-01-28 17:40:00 | townsville    |      6 |        6 | Deadly Diva        |   3.9  | overthrow          |
-| 27 | :soon:   | 2022-01-28 17:04:00 | townsville    |      5 |        1 | Arise My Son       |   7.5  | evenodds,overthrow |
-| 28 | :soon:   | 2022-01-28 15:05:00 | scone         |      4 |        3 | Expect A Hero      |   9    | vulture,pangea     |
-| 29 | --       | 2022-01-28 13:35:00 | taree         |      1 |        1 | Oakfield Pinto     |   3.1  | looseknot          |
+|    | finish            | time                | track         |   race |   number | name               |   odds | tipster            |
+|---:|:------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-01-29 03:45:00 | wolverhampton |      1 |        4 | Sea Formula        |   2.2  | vulture            |
+|  1 | :soon:            | 2022-01-29 03:10:00 | huntingdon    |      8 |        2 | Festive Glory      |   8    | looseknot          |
+|  2 | :soon:            | 2022-01-29 03:10:00 | huntingdon    |      8 |        9 | Western Zephyr     |   7.5  | vulture,milkman    |
+|  3 | :soon:            | 2022-01-29 02:10:00 | huntingdon    |      6 |        2 | Mill Green         |  10    | overthrow          |
+|  4 | :soon:            | 2022-01-29 01:35:00 | huntingdon    |      5 |        4 | Galice Macalo      |  12    | vulture            |
+|  5 | :soon:            | 2022-01-29 01:25:00 | doncaster     |      5 |        9 | Ridgeway           |   3.4  | overthrow          |
+|  6 | :soon:            | 2022-01-29 01:25:00 | doncaster     |      5 |        3 | Callisto's King    |  26    | overthrow          |
+|  7 | :soon:            | 2022-01-29 01:00:00 | fairview      |      7 |        6 | Whatever Next      |   0    | milkman            |
+|  8 | :soon:            | 2022-01-29 00:25:00 | huntingdon    |      3 |        2 | Royal Ruby         |   3    | overthrow          |
+|  9 | :soon:            | 2022-01-29 00:15:00 | doncaster     |      3 |        4 | King D'Argent      |  15    | overthrow          |
+| 10 | :soon:            | 2022-01-28 23:45:00 | doncaster     |      2 |        6 | Skytastic          |   2.2  | milkman            |
+| 11 | :soon:            | 2022-01-28 23:45:00 | doncaster     |      2 |        2 | Commodore Miller   |   6    | vulture            |
+| 12 | :soon:            | 2022-01-28 21:00:00 | canterbury    |      7 |        4 | Sky Command        |   5.5  | jmac               |
+| 13 | :soon:            | 2022-01-28 21:00:00 | canterbury    |      7 |        2 | Able Willie        |   2.7  | wallbow            |
+| 14 | :soon:            | 2022-01-28 20:30:00 | canterbury    |      6 |        6 | Texcel             |   4.4  | vulture            |
+| 15 | :soon:            | 2022-01-28 20:00:00 | canterbury    |      5 |        1 | Fortified          |   4.8  | jmac               |
+| 16 | :soon:            | 2022-01-28 20:00:00 | canterbury    |      5 |        6 | Rules Don't Apply  |   6    | wallbow            |
+| 17 | :soon:            | 2022-01-28 20:00:00 | canterbury    |      5 |        7 | Regal Toff         |  31    | cosmo,bluey        |
+| 18 | :soon:            | 2022-01-28 19:45:00 | cranbourne    |      4 |       10 | Loving Angel       |   8.5  | looseknot          |
+| 19 | :soon:            | 2022-01-28 19:30:00 | canterbury    |      4 |        6 | Fiordland          |   3.3  | jmac               |
+| 20 | :soon:            | 2022-01-28 19:30:00 | canterbury    |      4 |        2 | Savoury            |   6    | pangea             |
+| 21 | :soon:            | 2022-01-28 19:00:00 | canterbury    |      3 |        1 | Inuwashi           |   4.33 | wallbow            |
+| 22 | :soon:            | 2022-01-28 19:00:00 | canterbury    |      3 |        6 | Pretes             |   3.75 | looseknot,jmac     |
+| 23 | :soon:            | 2022-01-28 18:40:00 | townsville    |      8 |        6 | Micawber           |   6.5  | moechilli          |
+| 24 | :soon:            | 2022-01-28 18:30:00 | canterbury    |      2 |        9 | You Are Persistent |  11    | jmac               |
+| 25 | :soon:            | 2022-01-28 18:00:00 | canterbury    |      1 |        4 | Robusto            |   1.85 | jmac               |
+| 26 | :soon:            | 2022-01-28 17:40:00 | townsville    |      6 |        6 | Deadly Diva        |   3.9  | overthrow          |
+| 27 | :soon:            | 2022-01-28 17:04:00 | townsville    |      5 |        1 | Arise My Son       |   7.5  | evenodds,overthrow |
+| 28 | :soon:            | 2022-01-28 15:05:00 | scone         |      4 |        3 | Expect A Hero      |   9    | vulture,pangea     |
+| 29 | :3rd_place_medal: | 2022-01-28 13:35:00 | taree         |      1 |        1 | Oakfield Pinto     |   3.1  | looseknot          |
