@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-28 17:21:48 +1000  
+date: 2022-01-28 18:22:37 +1000  
 ---   
 
 
@@ -16,10 +16,10 @@ date: 2022-01-28 17:21:48 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |      -40 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      1 |      -58 | 0.12 | -0.72 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      6 |      0 |      -60 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      7 |      0 |      -70 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      0 |      -80 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     38 |      0 |     -380 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     51 |      1 |     -496 | 0.02 | -0.97 |
 
@@ -102,8 +102,8 @@ date: 2022-01-28 17:21:48 +1000
 | 22 | :soon:            | 2022-01-28 19:00:00 | canterbury    |      3 |        6 | Pretes             |   3.75 | looseknot,jmac     |
 | 23 | :soon:            | 2022-01-28 18:40:00 | townsville    |      8 |        6 | Micawber           |   6.5  | moechilli          |
 | 24 | :soon:            | 2022-01-28 18:30:00 | canterbury    |      2 |        9 | You Are Persistent |  11    | jmac               |
-| 25 | :soon:            | 2022-01-28 18:00:00 | canterbury    |      1 |        4 | Robusto            |   1.85 | jmac               |
-| 26 | :soon:            | 2022-01-28 17:40:00 | townsville    |      6 |        6 | Deadly Diva        |   3.9  | overthrow          |
+| 25 | :3rd_place_medal: | 2022-01-28 18:00:00 | canterbury    |      1 |        4 | Robusto            |   1.85 | jmac               |
+| 26 | :boom:            | 2022-01-28 17:40:00 | townsville    |      6 |        6 | Deadly Diva        |   3.9  | overthrow          |
 | 27 | :2nd_place_medal: | 2022-01-28 17:04:00 | townsville    |      5 |        1 | Arise My Son       |   7.5  | evenodds,overthrow |
 | 28 | 8.0               | 2022-01-28 15:05:00 | scone         |      4 |        3 | Expect A Hero      |   9    | vulture,pangea     |
 | 29 | :3rd_place_medal: | 2022-01-28 13:35:00 | taree         |      1 |        1 | Oakfield Pinto     |   3.1  | looseknot          |
