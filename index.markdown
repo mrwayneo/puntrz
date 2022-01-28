@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-28 18:52:33 +1000  
+date: 2022-01-28 19:07:25 +1000  
 ---   
 
 
@@ -98,8 +98,8 @@ date: 2022-01-28 18:52:33 +1000
 | 18 | :soon:            | 2022-01-28 19:45:00 | cranbourne    |      4 |       10 | Loving Angel       |   8.5  | looseknot          |
 | 19 | :soon:            | 2022-01-28 19:30:00 | canterbury    |      4 |        6 | Fiordland          |   3.3  | jmac               |
 | 20 | :soon:            | 2022-01-28 19:30:00 | canterbury    |      4 |        2 | Savoury            |   6    | pangea             |
-| 21 | :soon:            | 2022-01-28 19:00:00 | canterbury    |      3 |        1 | Inuwashi           |   4.33 | wallbow            |
-| 22 | :soon:            | 2022-01-28 19:00:00 | canterbury    |      3 |        6 | Pretes             |   3.75 | looseknot,jmac     |
+| 21 | :2nd_place_medal: | 2022-01-28 19:00:00 | canterbury    |      3 |        1 | Inuwashi           |   4.33 | wallbow            |
+| 22 | --                | 2022-01-28 19:00:00 | canterbury    |      3 |        6 | Pretes             |   3.75 | looseknot,jmac     |
 | 23 | :boom:            | 2022-01-28 18:40:00 | townsville    |      8 |        6 | Micawber           |   6.5  | moechilli          |
 | 24 | 5.0               | 2022-01-28 18:30:00 | canterbury    |      2 |        9 | You Are Persistent |  11    | jmac               |
 | 25 | :3rd_place_medal: | 2022-01-28 18:00:00 | canterbury    |      1 |        4 | Robusto            |   1.85 | jmac               |
