@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-01-28 19:56:57 +1000  
+date: 2022-01-28 20:11:21 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event             | runner              |   win |   return |
 |:------------------|:-----------|:------------------|:--------------------|------:|---------:|
 | 21:00             | 2022-01-28 | canterbury R7     | 2 Able Willie       |  2.7  |      -10 |
-| 20:00             | 2022-01-28 | canterbury R5     | 6 Rules Don't Apply |  6    |      -10 |
+| 0                 | 2022-01-28 | canterbury R5     | 6 Rules Don't Apply |  0    |      -10 |
 | :2nd_place_medal: | 2022-01-28 | canterbury R3     | 1 Inuwashi          |  4.33 |      -10 |
 | :2nd_place_medal: | 2022-01-26 | warwick-farm R6   | 9 Overlord          |  6.5  |      -10 |
 | :3rd_place_medal: | 2022-01-26 | warwick-farm R2   | 2 Aton Of Delight   | 10    |      -10 |

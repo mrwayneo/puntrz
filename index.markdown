@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-28 19:57:06 +1000  
+date: 2022-01-28 20:11:27 +1000  
 ---   
 
 
@@ -92,9 +92,9 @@ date: 2022-01-28 19:57:06 +1000
 | 12 | :soon:            | 2022-01-28 21:00:00 | canterbury    |      7 |        4 | Sky Command        |   5.5  | jmac               |
 | 13 | :soon:            | 2022-01-28 21:00:00 | canterbury    |      7 |        2 | Able Willie        |   2.7  | wallbow            |
 | 14 | :soon:            | 2022-01-28 20:30:00 | canterbury    |      6 |        6 | Texcel             |   4.4  | vulture            |
-| 15 | :soon:            | 2022-01-28 20:00:00 | canterbury    |      5 |        1 | Fortified          |   4.8  | jmac               |
-| 16 | :soon:            | 2022-01-28 20:00:00 | canterbury    |      5 |        6 | Rules Don't Apply  |   6    | wallbow            |
-| 17 | :soon:            | 2022-01-28 20:00:00 | canterbury    |      5 |        7 | Regal Toff         |  31    | cosmo,bluey        |
+| 15 | :2nd_place_medal: | 2022-01-28 20:00:00 | canterbury    |      5 |        1 | Fortified          |   4.8  | jmac               |
+| 16 | --                | 2022-01-28 20:00:00 | canterbury    |      5 |        6 | Rules Don't Apply  |   6    | wallbow            |
+| 17 | --                | 2022-01-28 20:00:00 | canterbury    |      5 |        7 | Regal Toff         |  31    | cosmo,bluey        |
 | 18 | --                | 2022-01-28 19:45:00 | cranbourne    |      4 |       10 | Loving Angel       |   8.5  | looseknot          |
 | 19 | 7.0               | 2022-01-28 19:30:00 | canterbury    |      4 |        6 | Fiordland          |   3.3  | jmac               |
 | 20 | :boom:            | 2022-01-28 19:30:00 | canterbury    |      4 |        2 | Savoury            |   6    | pangea             |
