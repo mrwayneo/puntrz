@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-28 16:52:25 +1000  
+date: 2022-01-28 17:07:02 +1000  
 ---   
 
 
@@ -104,6 +104,6 @@ date: 2022-01-28 16:52:25 +1000
 | 24 | :soon:            | 2022-01-28 18:30:00 | canterbury    |      2 |        9 | You Are Persistent |  11    | jmac               |
 | 25 | :soon:            | 2022-01-28 18:00:00 | canterbury    |      1 |        4 | Robusto            |   1.85 | jmac               |
 | 26 | :soon:            | 2022-01-28 17:40:00 | townsville    |      6 |        6 | Deadly Diva        |   3.9  | overthrow          |
-| 27 | :soon:            | 2022-01-28 17:04:00 | townsville    |      5 |        1 | Arise My Son       |   7.5  | evenodds,overthrow |
+| 27 | --                | 2022-01-28 17:04:00 | townsville    |      5 |        1 | Arise My Son       |   7.5  | evenodds,overthrow |
 | 28 | 8.0               | 2022-01-28 15:05:00 | scone         |      4 |        3 | Expect A Hero      |   9    | vulture,pangea     |
 | 29 | :3rd_place_medal: | 2022-01-28 13:35:00 | taree         |      1 |        1 | Oakfield Pinto     |   3.1  | looseknot          |
