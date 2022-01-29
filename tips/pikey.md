@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-29 11:05:23 +1000  
+date: 2022-01-29 11:23:57 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,14 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 22:00             | 2022-01-29 | ascot R9              | 6 Mr Causeway         |   7    |    -10   |
+| 21:30             | 2022-01-29 | ascot R8              | 11 Clairvoyance       |   2.75 |    -10   |
+| 21:00             | 2022-01-29 | ascot R7              | 7 Strathmore Rose     |   4.2  |    -10   |
+| 20:26             | 2022-01-29 | ascot R6              | 2 Treasured Crown     |  16    |    -10   |
+| 19:53             | 2022-01-29 | ascot R5              | 9 Deputano            |   9    |    -10   |
+| 18:40             | 2022-01-29 | ascot R3              | 9 Fiorucci Mama       |   9.5  |    -10   |
+| 18:05             | 2022-01-29 | ascot R2              | 6 Winsalot            |   7.5  |    -10   |
+| 17:28             | 2022-01-29 | ascot R1              | 3 Policiere           |   6    |    -10   |
 | 4                 | 2022-01-26 | belmont R12           | 12 Star Storm         |   6    |    -10   |
 | 8                 | 2022-01-26 | belmont R11           | 10 Mrs America        |   1.85 |    -10   |
 | :2nd_place_medal: | 2022-01-26 | belmont R6            | 6 Men's Club          |   7    |    -10   |
