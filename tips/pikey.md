@@ -1,24 +1,32 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-29 20:19:52 +1000  
+date: 2022-01-30 08:28:41 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      0 |      -60 | 0    | -1    |
-| Last 28 Days   |     55 |     13 |     -204 | 0.24 | -0.37 |
-| Last 6 Months  |    482 |    136 |     -623 | 0.28 | -0.13 |
-| Since Jan 2020 |   1001 |    259 |    -1511 | 0.26 | -0.15 |
+| Last 7 Days    |     14 |      0 |     -140 | 0    | -1    |
+| Last 28 Days   |     63 |     13 |     -284 | 0.21 | -0.45 |
+| Last 6 Months  |    490 |    136 |     -703 | 0.28 | -0.14 |
+| Since Jan 2020 |   1009 |    259 |    -1591 | 0.26 | -0.16 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 22:00             | 2022-01-29 | ascot R9              | 6 Mr Causeway         |   7    |    -10   |
-| 21:30             | 2022-01-29 | ascot R8              | 11 Clairvoyance       |   2.75 |    -10   |
-| 21:00             | 2022-01-29 | ascot R7              | 7 Strathmore Rose     |   4.2  |    -10   |
-| 20:26             | 2022-01-29 | ascot R6              | 2 Treasured Crown     |  16    |    -10   |
+| 20:30             | 2022-01-30 | pinjarra-scarpside R8 | 9 Bandalera Miss      |  10    |    -10   |
+| 19:55             | 2022-01-30 | pinjarra-scarpside R7 | 7 Miss Field          |   2.3  |    -10   |
+| 19:20             | 2022-01-30 | pinjarra-scarpside R6 | 4 Fine Romance        |   4.6  |    -10   |
+| 18:50             | 2022-01-30 | pinjarra-scarpside R5 | 1 Soviet Spy          |   3.1  |    -10   |
+| 18:10             | 2022-01-30 | pinjarra-scarpside R4 | 12 Ruby Noir          |   2    |    -10   |
+| 17:30             | 2022-01-30 | pinjarra-scarpside R3 | 7 Chang Man           |   4.2  |    -10   |
+| 16:47             | 2022-01-30 | pinjarra-scarpside R2 | 5 Got Ya              |   4.33 |    -10   |
+| 16:12             | 2022-01-30 | pinjarra-scarpside R1 | 3 Anna's Boy          |   2.3  |    -10   |
+| 0                 | 2022-01-29 | ascot R9              | 6 Mr Causeway         |   0    |    -10   |
+| 0                 | 2022-01-29 | ascot R8              | 11 Clairvoyance       |   0    |    -10   |
+| 0                 | 2022-01-29 | ascot R7              | 7 Strathmore Rose     |   0    |    -10   |
+| 0                 | 2022-01-29 | ascot R6              | 2 Treasured Crown     |   0    |    -10   |
 | 0                 | 2022-01-29 | ascot R5              | 9 Deputano            |   0    |    -10   |
 | 0                 | 2022-01-29 | ascot R3              | 9 Fiorucci Mama       |   0    |    -10   |
 | 0                 | 2022-01-29 | ascot R2              | 6 Winsalot            |   0    |    -10   |

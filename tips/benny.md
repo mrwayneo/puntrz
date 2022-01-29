@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-01-29 20:19:44 +1000  
+date: 2022-01-30 08:28:16 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     13 |      0 |   -130   | 0    | -1    |
-| Last 28 Days   |     47 |      4 |   -287   | 0.09 | -0.61 |
-| Last 6 Months  |    395 |     74 |  -1107.5 | 0.19 | -0.28 |
-| Since Jan 2020 |    885 |    187 |   -924.5 | 0.21 | -0.1  |
+| Last 7 Days    |     17 |      0 |   -170   | 0    | -1    |
+| Last 28 Days   |     52 |      4 |   -337   | 0.08 | -0.65 |
+| Last 6 Months  |    400 |     74 |  -1157.5 | 0.18 | -0.29 |
+| Since Jan 2020 |    890 |    187 |   -974.5 | 0.21 | -0.11 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 16:16             | 2022-01-30 | sapphire-coast R6             | 2 Bombdiggity         |  4.33 |    -10   |
 | 0                 | 2022-01-29 | ascot R5                      | 6 Crescent City       |  0    |    -10   |
 | 0                 | 2022-01-29 | bundaberg R6                  | 2 Homecall            |  0    |    -10   |
 | 0                 | 2022-01-29 | tamworth R5                   | 2 C'mon And Love Me   |  0    |    -10   |
@@ -361,8 +362,8 @@ categories: None
 | 4                 | 2021-08-05 | ipswich R5                    | 3 Vivid Fortress      |  2.25 |    -10   |
 | 6                 | 2021-08-05 | ipswich R1                    | 3 Unconditional       | 11    |    -10   |
 | :2nd_place_medal: | 2021-08-04 | belmont R6                    | 3 Conquered Zone      |  2.35 |    -10   |
-| 5                 | 2021-08-04 | eagle-farm R6                 | 3 Short Sara          |  2.8  |    -10   |
 | :2nd_place_medal: | 2021-08-04 | eagle-farm R6                 | 6 Blackboots          |  4.4  |    -10   |
+| 5                 | 2021-08-04 | eagle-farm R6                 | 3 Short Sara          |  2.8  |    -10   |
 | :boom:            | 2021-08-04 | eagle-farm R5                 | 4 Spokesman           |  3.1  |     21   |
 | :boom:            | 2021-08-04 | eagle-farm R3                 | 1 Avowal              |  3.2  |     22   |
 | 6                 | 2021-08-02 | darwin R6                     | 1 Taciturn            |  5.5  |    -10   |

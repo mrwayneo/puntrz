@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-01-29 20:19:52 +1000  
+date: 2022-01-30 08:28:42 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     17 |      1 |    -81   | 0.06 | -0.48 |
-| Last 6 Months  |    136 |     26 |   2205.5 | 0.19 |  1.62 |
-| Since Jan 2020 |    244 |     42 |   3755.5 | 0.17 |  1.54 |
+| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
+| Last 28 Days   |     18 |      1 |    -91   | 0.06 | -0.51 |
+| Last 6 Months  |    137 |     26 |   2195.5 | 0.19 |  1.6  |
+| Since Jan 2020 |    245 |     42 |   3745.5 | 0.17 |  1.53 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:23             | 2022-01-30 | lingfield R7                  | 2 Igotatext           |  12    |    -10   |
+| 0                 | 2022-01-30 | lingfield R7                  | 2 Igotatext           |   0    |    -10   |
 | 5                 | 2022-01-28 | southwell R4                  | 2 Aberama Gold        |  12    |    -10   |
 | :3rd_place_medal: | 2022-01-26 | leicester R3                  | 3 Autonomous Cloud    |  10    |    -10   |
 | 8                 | 2022-01-24 | thurles R3                    | 7 Sullane Hill        |  41    |    -10   |
