@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-01-29 11:23:57 +1000  
+date: 2022-01-29 20:19:52 +1000  
 categories: None 
 ---   
 
@@ -15,13 +15,13 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 17:20             | 2022-01-29 | rosehill-gardens R9  | 6 Rule Of Law        |  2.1  |    -10   |
-| 16:40             | 2022-01-29 | rosehill-gardens R8  | 4 Yiyi               |  2.15 |    -10   |
-| 16:00             | 2022-01-29 | rosehill-gardens R7  | 6 Anamoe             |  1.67 |    -10   |
-| 15:20             | 2022-01-29 | rosehill-gardens R6  | 2 Crystal Pegasus    |  3    |    -10   |
-| 14:10             | 2022-01-29 | rosehill-gardens R4  | 4 And We Danced      |  2.75 |    -10   |
-| 13:35             | 2022-01-29 | rosehill-gardens R3  | 2 Ojai               |  6    |    -10   |
-| 13:00             | 2022-01-29 | rosehill-gardens R2  | 4 Great Barrier Reef |  1.45 |    -10   |
+| 0                 | 2022-01-29 | rosehill-gardens R9  | 6 Rule Of Law        |  0    |    -10   |
+| 0                 | 2022-01-29 | rosehill-gardens R8  | 4 Yiyi               |  0    |    -10   |
+| 0                 | 2022-01-29 | rosehill-gardens R7  | 6 Anamoe             |  0    |    -10   |
+| 0                 | 2022-01-29 | rosehill-gardens R6  | 2 Crystal Pegasus    |  0    |    -10   |
+| 0                 | 2022-01-29 | rosehill-gardens R4  | 4 And We Danced      |  0    |    -10   |
+| 0                 | 2022-01-29 | rosehill-gardens R3  | 2 Ojai               |  0    |    -10   |
+| 0                 | 2022-01-29 | rosehill-gardens R2  | 4 Great Barrier Reef |  0    |    -10   |
 | :boom:            | 2022-01-28 | canterbury R7        | 4 Sky Command        |  6.2  |     52   |
 | :2nd_place_medal: | 2022-01-28 | canterbury R5        | 1 Fortified          |  4.8  |    -10   |
 | 7                 | 2022-01-28 | canterbury R4        | 6 Fiordland          |  3.3  |    -10   |
