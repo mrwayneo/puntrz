@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-01-28 22:55:55 +1000  
+date: 2022-01-29 11:05:18 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     28 |      4 |   -210.1 | 0.14 | -0.75 |
-| Last 28 Days   |    147 |     34 |   -644.4 | 0.23 | -0.44 |
-| Last 6 Months  |   1234 |    305 |  -2687.9 | 0.25 | -0.22 |
-| Since Jan 2020 |   2782 |    698 |  -4632.9 | 0.25 | -0.17 |
+| Last 7 Days    |     21 |      2 |   -166   | 0.1  | -0.79 |
+| Last 28 Days   |    128 |     29 |   -628.9 | 0.23 | -0.49 |
+| Last 6 Months  |   1237 |    305 |  -2717.9 | 0.25 | -0.22 |
+| Since Jan 2020 |   2785 |    698 |  -4662.9 | 0.25 | -0.17 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 03:10             | 2022-01-29 | huntingdon R8                | 9 Western Zephyr      |   7.5  |    -10   |
-| 01:00             | 2022-01-29 | fairview R7                  | 6 Whatever Next       |   0    |    -10   |
-| 23:45             | 2022-01-28 | doncaster R2                 | 6 Skytastic           |   2.2  |    -10   |
+| 0                 | 2022-01-29 | huntingdon R8                | 9 Western Zephyr      |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R7                  | 6 Whatever Next       |   0    |    -10   |
+| 0                 | 2022-01-28 | doncaster R2                 | 6 Skytastic           |   0    |    -10   |
 | 0                 | 2022-01-28 | wetherby R5                  | 4 Barnabas Collins    |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-28 | wetherby R5                  | 1 Lupus Regem         |   3    |    -10   |
 | 7                 | 2022-01-27 | gosford R6                   | 8 Sebring's Rose      |   5    |    -10   |

@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-01-28 22:55:56 +1000  
+date: 2022-01-29 11:05:19 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     67 |      4 |     -294 | 0.06 | -0.44 |
-| Last 28 Days   |    319 |     10 |    -1730 | 0.03 | -0.54 |
-| Last 6 Months  |   2812 |    147 |    -3630 | 0.05 | -0.13 |
-| Since Jan 2020 |   5291 |    308 |     -476 | 0.06 | -0.01 |
+| Last 7 Days    |     61 |      4 |     -234 | 0.07 | -0.38 |
+| Last 28 Days   |    294 |      9 |    -1551 | 0.03 | -0.53 |
+| Last 6 Months  |   2819 |    147 |    -3700 | 0.05 | -0.13 |
+| Since Jan 2020 |   5298 |    308 |     -546 | 0.06 | -0.01 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:10             | 2022-01-29 | lingfield R3                  | 8 Canmore             |  18    |      -10 |
-| 01:00             | 2022-01-29 | huntingdon R4                 | 6 Novis Adventus      |  26    |      -10 |
+| 0                 | 2022-01-29 | lingfield R3                  | 8 Canmore             |   0    |      -10 |
+| 0                 | 2022-01-29 | huntingdon R4                 | 6 Novis Adventus      |   0    |      -10 |
 | 0                 | 2022-01-28 | cranbourne R5                 | 10 Sphera             |   0    |      -10 |
 | 0                 | 2022-01-28 | canterbury R5                 | 7 Regal Toff          |   0    |      -10 |
 | 0                 | 2022-01-28 | canterbury R2                 | 5 My Turn Astern      |   0    |      -10 |

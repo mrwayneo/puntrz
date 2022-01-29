@@ -1,26 +1,26 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-01-28 22:55:54 +1000  
+date: 2022-01-29 11:05:17 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     54 |     11 |   -253   | 0.2  | -0.47 |
-| Last 28 Days   |    290 |     53 |  -1254.8 | 0.18 | -0.43 |
-| Last 6 Months  |   2330 |    575 |  -3123.6 | 0.25 | -0.13 |
-| Since Jan 2020 |   5032 |   1282 |  -4942.5 | 0.25 | -0.1  |
+| Last 7 Days    |     49 |      8 |   -324.6 | 0.16 | -0.66 |
+| Last 28 Days   |    270 |     49 |  -1144.5 | 0.18 | -0.42 |
+| Last 6 Months  |   2338 |    576 |  -3181.6 | 0.25 | -0.14 |
+| Since Jan 2020 |   5040 |   1283 |  -5000.5 | 0.25 | -0.1  |
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 04:15             | 2022-01-29 | wolverhampton R2       | 4 Mukaddamah          |   1.82 |    -10   |
-| 02:10             | 2022-01-29 | huntingdon R6          | 2 Mill Green          |  10    |    -10   |
-| 01:25             | 2022-01-29 | doncaster R5           | 9 Ridgeway            |   3.4  |    -10   |
-| 01:25             | 2022-01-29 | doncaster R5           | 3 Callisto's King     |  26    |    -10   |
-| 00:25             | 2022-01-29 | huntingdon R3          | 2 Royal Ruby          |   3    |    -10   |
-| 00:15             | 2022-01-29 | doncaster R3           | 4 King D'Argent       |  15    |    -10   |
+| 0                 | 2022-01-29 | wolverhampton R2       | 4 Mukaddamah          |   0    |    -10   |
+| 0                 | 2022-01-29 | huntingdon R6          | 2 Mill Green          |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R5           | 9 Ridgeway            |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R5           | 3 Callisto's King     |   0    |    -10   |
+| 0                 | 2022-01-29 | huntingdon R3          | 2 Royal Ruby          |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R3           | 4 King D'Argent       |   0    |    -10   |
 | :boom:            | 2022-01-28 | townsville R6          | 6 Deadly Diva         |   2.2  |     12   |
 | :2nd_place_medal: | 2022-01-28 | townsville R5          | 1 Arise My Son        |   7.5  |    -10   |
 | :boom:            | 2022-01-28 | gowran-park R7         | 5 Mercurey            |   1.3  |      3   |

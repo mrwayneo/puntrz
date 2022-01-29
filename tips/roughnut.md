@@ -1,44 +1,44 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-01-28 22:55:58 +1000  
+date: 2022-01-29 11:05:21 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    207 |     11 |     -355 | 0.05 | -0.17 |
-| Last 28 Days   |   1224 |     41 |    -6391 | 0.03 | -0.52 |
-| Last 6 Months  |   9040 |    460 |   -21821 | 0.05 | -0.24 |
-| Since Jan 2020 |  17131 |    898 |   -35732 | 0.05 | -0.21 |
+| Last 7 Days    |    200 |     10 |     -464 | 0.05 | -0.23 |
+| Last 28 Days   |   1144 |     37 |    -5964 | 0.03 | -0.52 |
+| Last 6 Months  |   9078 |    460 |   -22201 | 0.05 | -0.24 |
+| Since Jan 2020 |  17169 |    898 |   -36112 | 0.05 | -0.21 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 06:30             | 2022-01-29 | dundalk R7                    | 9 Slade Runner        |   6    |    -10   |
-| 04:15             | 2022-01-29 | wolverhampton R2              | 8 Scarlet Willow      |   8    |    -10   |
-| 04:00             | 2022-01-29 | dundalk R2                    | 11 Mads Black Eights  |  21    |    -10   |
-| 03:10             | 2022-01-29 | huntingdon R8                 | 7 Imperial B G        |  12    |    -10   |
-| 03:00             | 2022-01-29 | doncaster R8                  | 6 Heure De Gloire     |  17    |    -10   |
-| 03:00             | 2022-01-29 | doncaster R8                  | 12 Barnay             |  10    |    -10   |
-| 03:00             | 2022-01-29 | doncaster R8                  | 4 Court Dreaming      |  13    |    -10   |
-| 02:40             | 2022-01-29 | huntingdon R7                 | 7 Realms Of Fire      |  21    |    -10   |
-| 02:30             | 2022-01-29 | doncaster R7                  | 8 Sorbonne            |  18    |    -10   |
-| 02:30             | 2022-01-29 | doncaster R7                  | 9 Motahassen          |  26    |    -10   |
-| 02:10             | 2022-01-29 | huntingdon R6                 | 9 Risk And Roll       |  18    |    -10   |
-| 02:00             | 2022-01-29 | doncaster R6                  | 3 Boys Of Wexford     |  11    |    -10   |
-| 02:00             | 2022-01-29 | doncaster R6                  | 8 One Step Too Far    |  41    |    -10   |
-| 02:00             | 2022-01-29 | doncaster R6                  | 10 Chance Finale      |  26    |    -10   |
-| 01:25             | 2022-01-29 | doncaster R5                  | 10 Scudamore          |  51    |    -10   |
-| 01:25             | 2022-01-29 | doncaster R5                  | 8 Jupiter Road        | 251    |    -10   |
-| 01:10             | 2022-01-29 | lingfield R3                  | 8 Canmore             |  18    |    -10   |
-| 01:00             | 2022-01-29 | huntingdon R4                 | 6 Novis Adventus      |  26    |    -10   |
-| 00:25             | 2022-01-29 | huntingdon R3                 | 4 Baracalu            |  26    |    -10   |
-| 00:15             | 2022-01-29 | doncaster R3                  | 7 Gold Des Bois       |  17    |    -10   |
-| 23:55             | 2022-01-28 | huntingdon R2                 | 3 Daniel Deronda      |  11    |    -10   |
-| 23:25             | 2022-01-28 | huntingdon R1                 | 7 Time Please         | 101    |    -10   |
-| 23:25             | 2022-01-28 | huntingdon R1                 | 8 Twistedfirestarter  |  51    |    -10   |
-| 23:15             | 2022-01-28 | doncaster R1                  | 2 O Connell Street    |  31    |    -10   |
+| 0                 | 2022-01-29 | dundalk R7                    | 9 Slade Runner        |   0    |    -10   |
+| 0                 | 2022-01-29 | wolverhampton R2              | 8 Scarlet Willow      |   0    |    -10   |
+| 0                 | 2022-01-29 | dundalk R2                    | 11 Mads Black Eights  |   0    |    -10   |
+| 0                 | 2022-01-29 | huntingdon R8                 | 7 Imperial B G        |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R8                  | 6 Heure De Gloire     |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R8                  | 12 Barnay             |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R8                  | 4 Court Dreaming      |   0    |    -10   |
+| 0                 | 2022-01-29 | huntingdon R7                 | 7 Realms Of Fire      |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R7                  | 8 Sorbonne            |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R7                  | 9 Motahassen          |   0    |    -10   |
+| 0                 | 2022-01-29 | huntingdon R6                 | 9 Risk And Roll       |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R6                  | 3 Boys Of Wexford     |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R6                  | 8 One Step Too Far    |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R6                  | 10 Chance Finale      |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R5                  | 10 Scudamore          |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R5                  | 8 Jupiter Road        |   0    |    -10   |
+| 0                 | 2022-01-29 | lingfield R3                  | 8 Canmore             |   0    |    -10   |
+| 0                 | 2022-01-29 | huntingdon R4                 | 6 Novis Adventus      |   0    |    -10   |
+| 0                 | 2022-01-29 | huntingdon R3                 | 4 Baracalu            |   0    |    -10   |
+| 0                 | 2022-01-29 | doncaster R3                  | 7 Gold Des Bois       |   0    |    -10   |
+| 0                 | 2022-01-28 | huntingdon R2                 | 3 Daniel Deronda      |   0    |    -10   |
+| 0                 | 2022-01-28 | huntingdon R1                 | 7 Time Please         |   0    |    -10   |
+| 0                 | 2022-01-28 | huntingdon R1                 | 8 Twistedfirestarter  |   0    |    -10   |
+| 0                 | 2022-01-28 | doncaster R1                  | 2 O Connell Street    |   0    |    -10   |
 | 0                 | 2022-01-28 | cranbourne R5                 | 10 Sphera             |   0    |    -10   |
 | 0                 | 2022-01-28 | cranbourne R5                 | 7 Mariinsky           |   0    |    -10   |
 | 0                 | 2022-01-28 | canterbury R5                 | 7 Regal Toff          |   0    |    -10   |

@@ -1,57 +1,57 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-01-28 22:55:57 +1000  
+date: 2022-01-29 11:05:20 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    155 |     18 |   -807.5 | 0.12 | -0.52 |
-| Last 28 Days   |    989 |    110 |  -3087   | 0.11 | -0.31 |
-| Last 6 Months  |   7039 |   1016 | -12280.6 | 0.14 | -0.17 |
-| Since Jan 2020 |  11627 |   1917 | -14710   | 0.16 | -0.13 |
+| Last 7 Days    |    186 |     15 |  -1396.5 | 0.08 | -0.75 |
+| Last 28 Days   |    959 |    107 |  -2915   | 0.11 | -0.3  |
+| Last 6 Months  |   7090 |   1019 | -12717.6 | 0.14 | -0.18 |
+| Since Jan 2020 |  11678 |   1920 | -15147   | 0.16 | -0.13 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:15             | 2022-01-29 | wolverhampton R4              | 2 Beggarman           |   2.25 |    -10   |
-| 04:45             | 2022-01-29 | wolverhampton R3              | 5 Mutarabby           |   2.6  |    -10   |
-| 04:15             | 2022-01-29 | wolverhampton R2              | 4 Mukaddamah          |   1.82 |    -10   |
-| 03:30             | 2022-01-29 | dundalk R1                    | 2 Here And Now        |   1.8  |    -10   |
-| 01:30             | 2022-01-29 | fairview R8                   | 12 War Jewel          |   0    |    -10   |
-| 01:30             | 2022-01-29 | fairview R8                   | 11 Global Ash         |   0    |    -10   |
-| 01:30             | 2022-01-29 | fairview R8                   | 6 Pacific Duke        |   0    |    -10   |
-| 01:30             | 2022-01-29 | fairview R8                   | 5 Alado's Pride       |   0    |    -10   |
-| 01:30             | 2022-01-29 | fairview R8                   | 4 Gold Rock           |   0    |    -10   |
-| 01:30             | 2022-01-29 | fairview R8                   | 2 Silver Tiara        |   0    |    -10   |
-| 01:30             | 2022-01-29 | fairview R8                   | 1 Irish Willow        |   0    |    -10   |
-| 01:00             | 2022-01-29 | fairview R7                   | 5 Snow Report         |   0    |    -10   |
-| 01:00             | 2022-01-29 | fairview R7                   | 12 Crown Guardian     |   0    |    -10   |
-| 01:00             | 2022-01-29 | fairview R7                   | 11 Al Qaasim          |   0    |    -10   |
-| 01:00             | 2022-01-29 | fairview R7                   | 9 Spring Awakening    |   0    |    -10   |
-| 00:35             | 2022-01-29 | lingfield R2                  | 4 Attentive           |   2.4  |    -10   |
-| 00:25             | 2022-01-29 | fairview R6                   | 8 Great Warrior       |   0    |    -10   |
-| 00:25             | 2022-01-29 | fairview R6                   | 1 Master Supreme      |   0    |    -10   |
-| 00:25             | 2022-01-29 | fairview R6                   | 3 Rattle Mouse        |   0    |    -10   |
-| 00:05             | 2022-01-29 | lingfield R1                  | 2 Soyounique          |   3.3  |    -10   |
-| 23:55             | 2022-01-28 | fairview R5                   | 15 Herodotus          |   0    |    -10   |
-| 23:55             | 2022-01-28 | fairview R5                   | 13 Blingking          |   0    |    -10   |
-| 23:55             | 2022-01-28 | fairview R5                   | 10 Aqua Delta         |   0    |    -10   |
-| 23:55             | 2022-01-28 | fairview R5                   | 9 My Bestie           |   0    |    -10   |
-| 23:55             | 2022-01-28 | fairview R5                   | 7 Jaeger Moon         |   0    |    -10   |
-| 23:55             | 2022-01-28 | fairview R5                   | 4 Oscar Wilde         |   0    |    -10   |
-| 23:55             | 2022-01-28 | fairview R5                   | 3 Native Tongue       |   0    |    -10   |
-| 23:55             | 2022-01-28 | fairview R5                   | 2 Blackball           |   0    |    -10   |
-| 23:15             | 2022-01-28 | fairview R4                   | 5 Monashada           |   0    |    -10   |
-| 23:15             | 2022-01-28 | fairview R4                   | 1 Glitter In The Air  |   0    |    -10   |
-| 23:15             | 2022-01-28 | fairview R4                   | 3 Soller              |   0    |    -10   |
-| 23:15             | 2022-01-28 | fairview R4                   | 4 Winter Scout        |   0    |    -10   |
-| 23:15             | 2022-01-28 | fairview R4                   | 15 Immaculate         |   0    |    -10   |
-| 23:15             | 2022-01-28 | fairview R4                   | 6 Rose Of Bayeux      |   0    |    -10   |
-| 23:15             | 2022-01-28 | fairview R4                   | 8 Alaskan Fate        |   0    |    -10   |
-| 23:15             | 2022-01-28 | fairview R4                   | 11 Mayfern            |   0    |    -10   |
-| 23:15             | 2022-01-28 | fairview R4                   | 13 Corsage            |   0    |    -10   |
+| 0                 | 2022-01-29 | wolverhampton R4              | 2 Beggarman           |   0    |    -10   |
+| 0                 | 2022-01-29 | wolverhampton R3              | 5 Mutarabby           |   0    |    -10   |
+| 0                 | 2022-01-29 | wolverhampton R2              | 4 Mukaddamah          |   0    |    -10   |
+| 0                 | 2022-01-29 | dundalk R1                    | 2 Here And Now        |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R8                   | 12 War Jewel          |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R8                   | 11 Global Ash         |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R8                   | 6 Pacific Duke        |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R8                   | 5 Alado's Pride       |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R8                   | 4 Gold Rock           |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R8                   | 2 Silver Tiara        |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R8                   | 1 Irish Willow        |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R7                   | 5 Snow Report         |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R7                   | 12 Crown Guardian     |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R7                   | 11 Al Qaasim          |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R7                   | 9 Spring Awakening    |   0    |    -10   |
+| 0                 | 2022-01-29 | lingfield R2                  | 4 Attentive           |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R6                   | 8 Great Warrior       |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R6                   | 1 Master Supreme      |   0    |    -10   |
+| 0                 | 2022-01-29 | fairview R6                   | 3 Rattle Mouse        |   0    |    -10   |
+| 0                 | 2022-01-29 | lingfield R1                  | 2 Soyounique          |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R5                   | 15 Herodotus          |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R5                   | 13 Blingking          |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R5                   | 10 Aqua Delta         |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R5                   | 9 My Bestie           |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R5                   | 7 Jaeger Moon         |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R5                   | 4 Oscar Wilde         |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R5                   | 3 Native Tongue       |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R5                   | 2 Blackball           |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R4                   | 5 Monashada           |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R4                   | 1 Glitter In The Air  |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R4                   | 3 Soller              |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R4                   | 4 Winter Scout        |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R4                   | 15 Immaculate         |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R4                   | 6 Rose Of Bayeux      |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R4                   | 8 Alaskan Fate        |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R4                   | 11 Mayfern            |   0    |    -10   |
+| 0                 | 2022-01-28 | fairview R4                   | 13 Corsage            |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-28 | fairview R3                   | 8 Lord Marmite        |   0    |    -10   |
 | :3rd_place_medal: | 2022-01-28 | fairview R3                   | 5 Hell Of A Duke      |   0    |    -10   |
 | 0                 | 2022-01-28 | fairview R3                   | 1 Jumeirah Gold       |   0    |    -10   |

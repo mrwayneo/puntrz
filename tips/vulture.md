@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-01-28 22:55:52 +1000  
+date: 2022-01-29 11:05:16 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     58 |      8 |   -354.3 | 0.14 | -0.61 |
-| Last 28 Days   |    305 |     57 |  -1161.3 | 0.19 | -0.38 |
-| Last 6 Months  |   3121 |    764 |  -4480   | 0.24 | -0.14 |
-| Since Jan 2020 |   6614 |   1611 | -10193.4 | 0.24 | -0.15 |
+| Last 7 Days    |     55 |      7 |   -355.3 | 0.13 | -0.65 |
+| Last 28 Days   |    282 |     52 |  -1118.3 | 0.18 | -0.4  |
+| Last 6 Months  |   3128 |    764 |  -4550   | 0.24 | -0.15 |
+| Since Jan 2020 |   6621 |   1611 | -10263.4 | 0.24 | -0.16 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:45             | 2022-01-29 | wolverhampton R1              | 4 Sea Formula         |   2.2  |    -10   |
-| 03:10             | 2022-01-29 | huntingdon R8                 | 9 Western Zephyr      |   7.5  |    -10   |
-| 01:35             | 2022-01-29 | huntingdon R5                 | 4 Galice Macalo       |  12    |    -10   |
-| 23:45             | 2022-01-28 | doncaster R2                  | 2 Commodore Miller    |   6    |    -10   |
+| 0                 | 2022-01-29 | wolverhampton R1              | 4 Sea Formula         |   0    |    -10   |
+| 0                 | 2022-01-29 | huntingdon R8                 | 9 Western Zephyr      |   0    |    -10   |
+| 0                 | 2022-01-29 | huntingdon R5                 | 4 Galice Macalo       |   0    |    -10   |
+| 0                 | 2022-01-28 | doncaster R2                  | 2 Commodore Miller    |   0    |    -10   |
 | 6                 | 2022-01-28 | canterbury R6                 | 6 Texcel              |   4.4  |    -10   |
 | :2nd_place_medal: | 2022-01-28 | townsville R5                 | 1 Arise My Son        |   7.5  |    -10   |
 | 8                 | 2022-01-28 | scone R4                      | 3 Expect A Hero       |   9    |    -10   |

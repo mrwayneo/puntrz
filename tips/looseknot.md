@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-01-28 22:55:56 +1000  
+date: 2022-01-29 11:05:19 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     14 |      1 |    -73   | 0.07 | -0.52 |
-| Last 28 Days   |     94 |     12 |   -138   | 0.13 | -0.15 |
-| Last 6 Months  |    727 |    114 |   -674.8 | 0.16 | -0.09 |
-| Since Jan 2020 |   1348 |    202 |  -1668.8 | 0.15 | -0.12 |
+| Last 7 Days    |     15 |      0 |   -150   | 0    | -1    |
+| Last 28 Days   |     91 |     12 |   -108   | 0.13 | -0.12 |
+| Last 6 Months  |    731 |    114 |   -714.8 | 0.16 | -0.1  |
+| Since Jan 2020 |   1352 |    202 |  -1708.8 | 0.15 | -0.13 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:10             | 2022-01-29 | huntingdon R8                 | 2 Festive Glory       |   8    |    -10   |
+| 0                 | 2022-01-29 | huntingdon R8                 | 2 Festive Glory       |   0    |    -10   |
 | 0                 | 2022-01-28 | cranbourne R4                 | 10 Loving Angel       |   0    |    -10   |
 | 10                | 2022-01-28 | canterbury R3                 | 6 Pretes              |   3.75 |    -10   |
 | :3rd_place_medal: | 2022-01-28 | taree R1                      | 1 Oakfield Pinto      |   3.1  |    -10   |
