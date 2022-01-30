@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-01-30 09:59:47 +1000  
+date: 2022-01-30 19:44:59 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 16:16             | 2022-01-30 | sapphire-coast R6             | 2 Bombdiggity         |  4.33 |    -10   |
+| 0                 | 2022-01-30 | sapphire-coast R6             | 2 Bombdiggity         |  0    |    -10   |
 | 0                 | 2022-01-29 | ascot R5                      | 6 Crescent City       |  0    |    -10   |
 | 0                 | 2022-01-29 | bundaberg R6                  | 2 Homecall            |  0    |    -10   |
 | 0                 | 2022-01-29 | tamworth R5                   | 2 C'mon And Love Me   |  0    |    -10   |
@@ -362,8 +362,8 @@ categories: None
 | 4                 | 2021-08-05 | ipswich R5                    | 3 Vivid Fortress      |  2.25 |    -10   |
 | 6                 | 2021-08-05 | ipswich R1                    | 3 Unconditional       | 11    |    -10   |
 | :2nd_place_medal: | 2021-08-04 | belmont R6                    | 3 Conquered Zone      |  2.35 |    -10   |
-| :2nd_place_medal: | 2021-08-04 | eagle-farm R6                 | 6 Blackboots          |  4.4  |    -10   |
 | 5                 | 2021-08-04 | eagle-farm R6                 | 3 Short Sara          |  2.8  |    -10   |
+| :2nd_place_medal: | 2021-08-04 | eagle-farm R6                 | 6 Blackboots          |  4.4  |    -10   |
 | :boom:            | 2021-08-04 | eagle-farm R5                 | 4 Spokesman           |  3.1  |     21   |
 | :boom:            | 2021-08-04 | eagle-farm R3                 | 1 Avowal              |  3.2  |     22   |
 | 6                 | 2021-08-02 | darwin R6                     | 1 Taciturn            |  5.5  |    -10   |

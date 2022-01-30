@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-30 09:59:58 +1000  
+date: 2022-01-30 19:45:07 +1000  
 categories: None 
 ---   
 
@@ -17,12 +17,12 @@ categories: None
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 20:30             | 2022-01-30 | pinjarra-scarpside R8 | 9 Bandalera Miss      |  10    |    -10   |
 | 19:55             | 2022-01-30 | pinjarra-scarpside R7 | 7 Miss Field          |   2.3  |    -10   |
-| 19:20             | 2022-01-30 | pinjarra-scarpside R6 | 4 Fine Romance        |   4.6  |    -10   |
-| 18:50             | 2022-01-30 | pinjarra-scarpside R5 | 1 Soviet Spy          |   3.1  |    -10   |
-| 18:10             | 2022-01-30 | pinjarra-scarpside R4 | 12 Ruby Noir          |   2    |    -10   |
-| 17:30             | 2022-01-30 | pinjarra-scarpside R3 | 7 Chang Man           |   4.2  |    -10   |
-| 16:47             | 2022-01-30 | pinjarra-scarpside R2 | 5 Got Ya              |   4.33 |    -10   |
-| 16:12             | 2022-01-30 | pinjarra-scarpside R1 | 3 Anna's Boy          |   2.3  |    -10   |
+| 0                 | 2022-01-30 | pinjarra-scarpside R6 | 4 Fine Romance        |   0    |    -10   |
+| 0                 | 2022-01-30 | pinjarra-scarpside R5 | 1 Soviet Spy          |   0    |    -10   |
+| 0                 | 2022-01-30 | pinjarra-scarpside R4 | 12 Ruby Noir          |   0    |    -10   |
+| 0                 | 2022-01-30 | pinjarra-scarpside R3 | 7 Chang Man           |   0    |    -10   |
+| 0                 | 2022-01-30 | pinjarra-scarpside R2 | 5 Got Ya              |   0    |    -10   |
+| 0                 | 2022-01-30 | pinjarra-scarpside R1 | 3 Anna's Boy          |   0    |    -10   |
 | 0                 | 2022-01-29 | ascot R9              | 6 Mr Causeway         |   0    |    -10   |
 | 0                 | 2022-01-29 | ascot R8              | 11 Clairvoyance       |   0    |    -10   |
 | 0                 | 2022-01-29 | ascot R7              | 7 Strathmore Rose     |   0    |    -10   |
