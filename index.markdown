@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-01-31 07:52:56 +1000  
+date: 2022-01-31 08:39:15 +1000  
 ---   
 
 
@@ -71,37 +71,18 @@ date: 2022-01-31 07:52:56 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6251 |    873 | -11892.6 | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7892 |    382 | -21877   | 0.05 | -0.28 |
 
-|    | finish   | time                | track              |   race |   number | name               |   odds | tipster            |
-|---:|:---------|:--------------------|:-------------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-01-31 03:20:00 | fontwell           |      7 |        3 | Hourvari           |   3.5  | looseknot          |
-|  1 | :soon:   | 2022-01-31 03:00:00 | sedgefield         |      8 |        4 | The Steward        |   6.5  | vulture            |
-|  2 | :soon:   | 2022-01-31 02:50:00 | fontwell           |      6 |        3 | Spotty Dog         |   6.5  | looseknot          |
-|  3 | :soon:   | 2022-01-31 02:20:00 | fontwell           |      5 |        8 | Antony             |   6    | pangea,blackshadow |
-|  4 | :soon:   | 2022-01-31 02:10:00 | naas               |      6 |       17 | The Nice Guy       |   2.2  | overthrow,lago     |
-|  5 | :soon:   | 2022-01-31 01:00:00 | sedgefield         |      4 |        2 | Heartbreak Kid     |   2.15 | evenodds,overthrow |
-|  6 | :soon:   | 2022-01-31 00:40:00 | naas               |      3 |        5 | Whiskey Sour       |   4    | overthrow          |
-|  7 | :soon:   | 2022-01-31 00:40:00 | naas               |      3 |        3 | Felix Desjy        |  19    | pangea             |
-|  8 | :soon:   | 2022-01-30 23:40:00 | naas               |      1 |        3 | Farouk D'Alene     |   4.4  | milkman            |
-|  9 | :soon:   | 2022-01-30 23:40:00 | naas               |      1 |        6 | Stattler           |   3.3  | evenodds,overthrow |
-| 10 | :soon:   | 2022-01-30 20:30:00 | pinjarra-scarpside |      8 |        9 | Bandalera Miss     |  10    | pikey              |
-| 11 | :soon:   | 2022-01-30 19:55:00 | pinjarra-scarpside |      7 |        7 | Miss Field         |   2.3  | vulture,pikey      |
-| 12 | :soon:   | 2022-01-30 19:20:00 | pinjarra-scarpside |      6 |        4 | Fine Romance       |   4.6  | vulture,pikey      |
-| 13 | :soon:   | 2022-01-30 19:20:00 | pinjarra-scarpside |      6 |        3 | Awesome Chatter    |   9    | vulture            |
-| 14 | :soon:   | 2022-01-30 19:20:00 | pinjarra-scarpside |      6 |        2 | Hear Me Sing       |   6.5  | vulture            |
-| 15 | :soon:   | 2022-01-30 18:50:00 | pinjarra-scarpside |      5 |        1 | Soviet Spy         |   3.1  | vulture,pikey      |
-| 16 | :soon:   | 2022-01-30 18:10:00 | pinjarra-scarpside |      4 |       12 | Ruby Noir          |   2    | pikey              |
-| 17 | :soon:   | 2022-01-30 17:40:00 | strathalbyn        |      8 |       14 | Geandge            |  12    | pangea             |
-| 18 | :soon:   | 2022-01-30 17:30:00 | pinjarra-scarpside |      3 |        7 | Chang Man          |   4.2  | pikey              |
-| 19 | :soon:   | 2022-01-30 17:05:00 | strathalbyn        |      7 |        6 | Resurge            |   3.25 | pangea,icyhot      |
-| 20 | :soon:   | 2022-01-30 17:05:00 | strathalbyn        |      7 |        5 | Call Me Shamus     |   4    | vulture,pangea     |
-| 21 | :soon:   | 2022-01-30 16:47:00 | pinjarra-scarpside |      2 |        5 | Got Ya             |   4.33 | pikey              |
-| 22 | :soon:   | 2022-01-30 16:16:00 | sapphire-coast     |      6 |        4 | Mr Magical         |   6    | pangea,icyhot      |
-| 23 | :soon:   | 2022-01-30 16:16:00 | sapphire-coast     |      6 |        2 | Bombdiggity        |   4.33 | benny,pangea       |
-| 24 | :soon:   | 2022-01-30 15:49:00 | ellerslie          |     10 |        1 | Flat Track Bully   |   5    | overthrow          |
-| 25 | :soon:   | 2022-01-30 15:40:00 | sapphire-coast     |      5 |        3 | Cavalier Charles   |   2.4  | pangea             |
-| 26 | :soon:   | 2022-01-30 15:20:00 | murwillumbah       |      4 |        4 | Who Loves To Dance |   2.2  | evenodds,overthrow |
-| 27 | :soon:   | 2022-01-30 15:15:00 | strathalbyn        |      4 |        2 | Think Winning      |   4.2  | pangea             |
-| 28 | :soon:   | 2022-01-30 14:10:00 | murwillumbah       |      2 |        2 | Far Reaching       |   4.2  | evenodds,overthrow |
-| 29 | :soon:   | 2022-01-30 12:50:00 | ellerslie          |      5 |        4 | Campionessa        |   2.9  | evenodds,overthrow |
-| 30 | :soon:   | 2022-01-30 11:40:00 | ellerslie          |      3 |        3 | Navalha            |   3.3  | overthrow          |
-| 31 | :soon:   | 2022-01-30 10:30:00 | ellerslie          |      1 |        2 | Brando             |   2.25 | overthrow          |
+|    | finish   | time                | track         |   race |   number | name              |   odds | tipster          |
+|---:|:---------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:-----------------|
+|  0 | :soon:   | 2022-02-01 06:00:00 | wolverhampton |      6 |        1 | Raajil            |   2.8  | milkman          |
+|  1 | :soon:   | 2022-02-01 05:00:00 | wolverhampton |      4 |        1 | Denzil's Laughing |   2    | vulture          |
+|  2 | :soon:   | 2022-02-01 03:30:00 | wolverhampton |      1 |        7 | Becoming          |   6    | looseknot        |
+|  3 | :soon:   | 2022-02-01 03:00:00 | hereford      |      7 |        1 | Sweet Auburn      |   1.85 | evenodds,milkman |
+|  4 | :soon:   | 2022-02-01 03:00:00 | hereford      |      7 |        4 | Minniemum         |   4.8  | looseknot        |
+|  5 | :soon:   | 2022-02-01 02:00:00 | hereford      |      5 |        1 | Eritage           |   3.3  | overthrow        |
+|  6 | :soon:   | 2022-02-01 01:50:00 | punchestown   |      4 |        1 | Classic Getaway   |   1.4  | overthrow        |
+|  7 | :soon:   | 2022-02-01 01:40:00 | plumpton      |      3 |        5 | Quickbuck         |   6.5  | overthrow        |
+|  8 | :soon:   | 2022-02-01 01:00:00 | hereford      |      3 |        2 | Switch Hitter     |   2.8  | overthrow        |
+|  9 | :soon:   | 2022-02-01 00:30:00 | hereford      |      2 |        2 | Kayf Taoi         |   2.25 | overthrow        |
+| 10 | :soon:   | 2022-02-01 00:20:00 | punchestown   |      1 |       11 | Kilcruit          |   1.3  | overthrow        |
+| 11 | :soon:   | 2022-01-31 15:50:00 | dubbo         |      5 |        6 | Madison Point     |  16    | pangea           |
+| 12 | :soon:   | 2022-01-31 13:50:00 | beaumont      |      1 |        4 | Brave Boy         |   2.9  | vulture          |
