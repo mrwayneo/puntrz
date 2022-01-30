@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-01-30 21:52:39 +1000  
+date: 2022-01-31 07:52:49 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      1 |     17   | 0.33 |  0.57 |
-| Last 28 Days   |     32 |      5 |   -140   | 0.16 | -0.44 |
-| Last 6 Months  |    377 |    101 |   -129.1 | 0.27 | -0.03 |
-| Since Jan 2020 |    812 |    202 |   -832.1 | 0.25 | -0.1  |
+| Last 7 Days    |      5 |      1 |     -3   | 0.2  | -0.06 |
+| Last 28 Days   |     34 |      5 |   -160   | 0.15 | -0.47 |
+| Last 6 Months  |    379 |    101 |   -149.1 | 0.27 | -0.04 |
+| Since Jan 2020 |    814 |    202 |   -852.1 | 0.25 | -0.1  |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 02:20             | 2022-01-31 | fontwell R5                   | 8 Antony              |  6    |    -10   |
+| 0                 | 2022-01-31 | fontwell R5                   | 8 Antony              |  0    |    -10   |
 | 0                 | 2022-01-30 | pinjarra-scarpside R5         | 1 Soviet Spy          |  0    |    -10   |
 | 0                 | 2022-01-29 | rosehill-gardens R7           | 6 Anamoe              |  0    |    -10   |
 | :2nd_place_medal: | 2022-01-27 | rockhampton R2                | 2 Nailed It Nan       |  2.6  |    -10   |
