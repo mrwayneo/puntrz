@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-01-30 19:45:07 +1000  
+date: 2022-01-30 20:52:30 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 20:30             | 2022-01-30 | pinjarra-scarpside R8 | 9 Bandalera Miss      |  10    |    -10   |
-| 19:55             | 2022-01-30 | pinjarra-scarpside R7 | 7 Miss Field          |   2.3  |    -10   |
+| 0                 | 2022-01-30 | pinjarra-scarpside R8 | 9 Bandalera Miss      |   0    |    -10   |
+| 0                 | 2022-01-30 | pinjarra-scarpside R7 | 7 Miss Field          |   0    |    -10   |
 | 0                 | 2022-01-30 | pinjarra-scarpside R6 | 4 Fine Romance        |   0    |    -10   |
 | 0                 | 2022-01-30 | pinjarra-scarpside R5 | 1 Soviet Spy          |   0    |    -10   |
 | 0                 | 2022-01-30 | pinjarra-scarpside R4 | 12 Ruby Noir          |   0    |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-01-30 19:45:02 +1000  
+date: 2022-01-30 20:52:25 +1000  
 categories: None 
 ---   
 
@@ -152,8 +152,8 @@ categories: None
 | :boom:            | 2021-10-17 | alice-springs R2        | 4 Dakota Lee          |  1.95 |      9.5 |
 | 7                 | 2021-10-16 | caulfield R10           | 6 He's A Balter       |  8    |    -10   |
 | :boom:            | 2021-10-15 | murray-bdge R9          | 12 Valuable Witness   |  3.3  |     23   |
-| :2nd_place_medal: | 2021-10-15 | ipswich R3              | 10 Lyrical Girl       |  2.15 |    -10   |
 | :boom:            | 2021-10-15 | ipswich R3              | 8 Sir Rocket          |  1.75 |      7.5 |
+| :2nd_place_medal: | 2021-10-15 | ipswich R3              | 10 Lyrical Girl       |  2.15 |    -10   |
 | :2nd_place_medal: | 2021-10-09 | ascot R8                | 2 Miss Conteki        |  3.2  |    -10   |
 | :boom:            | 2021-10-09 | randwick R10            | 10 Leo                |  5.8  |     48   |
 | :3rd_place_medal: | 2021-10-09 | ascot R5                | 4 Kaptain Kaos        |  2.6  |    -10   |
@@ -331,8 +331,8 @@ categories: None
 | 99                | 2021-04-24 | ellerslie R8            | 5 Markus Aurelius     |  2.05 |    -10   |
 | :3rd_place_medal: | 2021-04-24 | doomben R5              | 7 Walking Flying      |  3.25 |    -10   |
 | 4                 | 2021-04-24 | doomben R2              | 1 Humbolt Current     |  3.9  |    -10   |
-| 7                 | 2021-04-21 | ipswich R8              | 3 Amicitia            |  7.5  |    -10   |
 | 9                 | 2021-04-21 | ipswich R8              | 2 Grand Zou           | 14    |    -10   |
+| 7                 | 2021-04-21 | ipswich R8              | 3 Amicitia            |  7.5  |    -10   |
 | :boom:            | 2021-04-20 | epsom-downs R3          | 3 Victory Chime       |  9    |     80   |
 | 4                 | 2021-04-20 | mackay R4               | 3 Moreno              |  3    |    -10   |
 | :2nd_place_medal: | 2021-04-20 | mackay R4               | 7 Princess Rules      |  4.6  |    -10   |
@@ -376,8 +376,8 @@ categories: None
 | :boom:            | 2021-03-30 | mackay R4               | 5 Nailed It Nan       |  2.3  |     13   |
 | :2nd_place_medal: | 2021-03-30 | ipswich R1              | 3 Le Rubis            |  9    |    -10   |
 | :boom:            | 2021-03-28 | sha-tin R3              | 5 Winner Method       |  1.35 |      3.5 |
-| :2nd_place_medal: | 2021-03-28 | kempton R3              | 5 Almighwar           |  4.6  |    -10   |
 | :boom:            | 2021-03-28 | kempton R3              | 1 Al Zaraqaan         |  2.05 |     10.5 |
+| :2nd_place_medal: | 2021-03-28 | kempton R3              | 5 Almighwar           |  4.6  |    -10   |
 | 99                | 2021-03-28 | kempton R2              | 1 Faylaq              |  3.8  |    -10   |
 | 8                 | 2021-03-27 | toowoomba R6            | 6 Boom Ranga          |  4.4  |    -10   |
 | :boom:            | 2021-03-27 | ascot R9                | 11 Miss Conteki       |  1.6  |      6   |
@@ -461,8 +461,8 @@ categories: None
 | :2nd_place_medal: | 2020-12-04 | fairview R2             | 1 Africa's Gold       |  1.44 |    -10   |
 | 4                 | 2020-12-04 | devonport-synthetic R3  | 2 Sh'bourne Renegade  | 10.2  |    -10   |
 | :3rd_place_medal: | 2020-12-02 | gold-coast R8           | 7 Test of War         |  3.4  |    -10   |
-| :2nd_place_medal: | 2020-12-02 | gosford R6              | 4 Occupy              |  7    |    -10   |
 | 5                 | 2020-12-02 | gosford R6              | 3 New Tycoon          |  5    |    -10   |
+| :2nd_place_medal: | 2020-12-02 | gosford R6              | 4 Occupy              |  7    |    -10   |
 | :boom:            | 2020-11-08 | wincanton R2            | 1 Flic Ou Voyou       |  1.35 |      3.5 |
 | 11                | 2020-11-07 | ascot R8                | 4 Free Trade          | 14    |    -10   |
 | :boom:            | 2020-11-07 | alice-springs R6        | 2 Texas Miller        |  1.4  |      4   |
