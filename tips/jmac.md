@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-01 21:37:36 +1000  
+date: 2022-02-02 08:54:58 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,17 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |     13 |      1 |    -68   | 0.08 | -0.52 |
-| Last 28 Days   |     36 |      4 |   -227   | 0.11 | -0.63 |
+| Last 28 Days   |     33 |      3 |   -213   | 0.09 | -0.65 |
 | Last 6 Months  |    271 |     69 |    137.5 | 0.25 |  0.05 |
 | Since Jan 2020 |    630 |    156 |   -218.5 | 0.25 | -0.03 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 17:15             | 2022-02-02 | kensington R6        | 7 Rejoiced           |  3.4  |    -10   |
+| 16:40             | 2022-02-02 | kensington R5        | 5 Rules Don't Apply  |  4    |    -10   |
+| 15:30             | 2022-02-02 | kensington R3        | 4 Jawaani            |  3.9  |    -10   |
+| 14:55             | 2022-02-02 | kensington R2        | 2 Himalaism          |  2.8  |    -10   |
+| 14:20             | 2022-02-02 | kensington R1        | 6 With Your Blessing |  3.3  |    -10   |
 | 0                 | 2022-01-29 | rosehill-gardens R9  | 6 Rule Of Law        |  0    |    -10   |
 | 0                 | 2022-01-29 | rosehill-gardens R8  | 4 Yiyi               |  0    |    -10   |
 | 0                 | 2022-01-29 | rosehill-gardens R7  | 6 Anamoe             |  0    |    -10   |

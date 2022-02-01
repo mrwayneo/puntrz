@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-02-01 21:37:32 +1000  
+date: 2022-02-02 08:54:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     18 |      0 |   -180   | 0    | -1    |
-| Last 28 Days   |     93 |     12 |   -128   | 0.13 | -0.14 |
-| Last 6 Months  |    624 |    100 |   -362.8 | 0.16 | -0.06 |
-| Since Jan 2020 |   1309 |    198 |  -1581.8 | 0.15 | -0.12 |
+| Last 7 Days    |     16 |      0 |   -160   | 0    | -1    |
+| Last 28 Days   |     93 |     11 |   -163   | 0.12 | -0.18 |
+| Last 6 Months  |    627 |    100 |   -392.8 | 0.16 | -0.06 |
+| Since Jan 2020 |   1312 |    198 |  -1611.8 | 0.15 | -0.12 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:50             | 2022-02-02 | wolverhampton R5              | 1 Liv Lucky           |   6    |    -10   |
-| 03:40             | 2022-02-02 | limerick R8                   | 2 Any Biscuits        |   6.5  |    -10   |
-| 23:55             | 2022-02-01 | newcastle R2                  | 5 Wotsmyname          |   8.5  |    -10   |
+| 0                 | 2022-02-02 | wolverhampton R5              | 1 Liv Lucky           |   0    |    -10   |
+| 0                 | 2022-02-02 | limerick R8                   | 2 Any Biscuits        |   0    |    -10   |
+| 0                 | 2022-02-01 | newcastle R2                  | 5 Wotsmyname          |   0    |    -10   |
 | 0                 | 2022-02-01 | wolverhampton R1              | 7 Becoming            |   0    |    -10   |
 | 0                 | 2022-02-01 | hereford R7                   | 4 Minniemum           |   0    |    -10   |
 | 0                 | 2022-01-31 | fontwell R7                   | 3 Hourvari            |   0    |    -10   |

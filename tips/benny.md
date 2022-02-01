@@ -1,20 +1,22 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-02-01 21:37:28 +1000  
+date: 2022-02-02 08:54:50 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     10 |      0 |   -100   | 0    | -1    |
-| Last 28 Days   |     53 |      4 |   -347   | 0.08 | -0.65 |
+| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
+| Last 28 Days   |     50 |      4 |   -317   | 0.08 | -0.63 |
 | Last 6 Months  |    355 |     61 |  -1212.5 | 0.17 | -0.34 |
 | Since Jan 2020 |    848 |    182 |   -727.5 | 0.21 | -0.09 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 06:00             | 2022-02-03 | kempton R5                    | 8 Berrahri            | 21    |    -10   |
+| 18:50             | 2022-02-02 | ipswich R8                    | 9 Bella Royale        |  9.5  |    -10   |
 | 0                 | 2022-01-30 | sapphire-coast R6             | 2 Bombdiggity         |  0    |    -10   |
 | 0                 | 2022-01-29 | ascot R5                      | 6 Crescent City       |  0    |    -10   |
 | 0                 | 2022-01-29 | bundaberg R6                  | 2 Homecall            |  0    |    -10   |

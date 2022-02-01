@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-02-01 21:37:36 +1000  
+date: 2022-02-02 08:54:58 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |      -30 | 0    | -1    |
-| Last 28 Days   |     16 |      0 |     -160 | 0    | -1    |
+| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
+| Last 28 Days   |     15 |      0 |     -150 | 0    | -1    |
 | Last 6 Months  |     99 |     16 |     2249 | 0.16 |  2.27 |
 | Since Jan 2020 |    227 |     40 |     4576 | 0.18 |  2.02 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 19:50             | 2022-02-02 | belmont R6             | 6 Man Of The Hour     |  31   |      -10 |
 | 0                 | 2022-01-29 | sunshine-coast R8      | 14 Star Of Michelin   |   0   |      -10 |
 | 0                 | 2022-01-28 | canterbury R5          | 7 Regal Toff          |   0   |      -10 |
 | 6                 | 2022-01-27 | rockhampton R3         | 5 Fleetingly          |  26   |      -10 |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-02-01 21:37:31 +1000  
+date: 2022-02-02 08:54:53 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,14 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
-| Last 28 Days   |     34 |      5 |   -160   | 0.15 | -0.47 |
-| Last 6 Months  |    335 |     86 |   -280.1 | 0.26 | -0.08 |
-| Since Jan 2020 |    795 |    198 |   -755.7 | 0.25 | -0.1  |
+| Last 28 Days   |     33 |      5 |   -150   | 0.15 | -0.45 |
+| Last 6 Months  |    336 |     86 |   -290.1 | 0.26 | -0.09 |
+| Since Jan 2020 |    796 |    198 |   -765.7 | 0.25 | -0.1  |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 17:33             | 2022-02-02 | ipswich R6                    | 1 Octavian            |  7    |    -10   |
+| 16:58             | 2022-02-02 | ipswich R5                    | 4 Wham                |  6.5  |    -10   |
 | 0                 | 2022-02-01 | bowen R4                      | 5 Big Jake            |  0    |    -10   |
 | 0                 | 2022-01-31 | fontwell R5                   | 8 Antony              |  0    |    -10   |
 | 0                 | 2022-01-30 | pinjarra-scarpside R5         | 1 Soviet Spy          |  0    |    -10   |
@@ -77,8 +79,8 @@ categories: None
 | :2nd_place_medal: | 2021-12-18 | toowoomba R3                  | 4 Outback Heights     |  6    |    -10   |
 | :boom:            | 2021-12-18 | mackay R5                     | 6 Scoria Star         |  1.9  |      9   |
 | :2nd_place_medal: | 2021-12-18 | ascot R5                      | 2 Faivoir             |  3.3  |    -10   |
-| 4                 | 2021-12-18 | ascot R4                      | 5 Elle Est Belle      |  7.5  |    -10   |
 | :3rd_place_medal: | 2021-12-18 | ascot R4                      | 4 Knappers Hill       |  4    |    -10   |
+| 4                 | 2021-12-18 | ascot R4                      | 5 Elle Est Belle      |  7.5  |    -10   |
 | :boom:            | 2021-12-15 | launceston R9                 | 3 The Risk Factor     |  1.3  |      3   |
 | 12                | 2021-12-15 | launceston R3                 | 8 Scottish Rogue      | 16    |    -10   |
 | :2nd_place_medal: | 2021-12-13 | rockhampton R6                | 3 Star of O'reilly    |  3    |    -10   |
@@ -91,8 +93,8 @@ categories: None
 | 8                 | 2021-12-12 | sha-tin R5                    | 3 Danon Smash         |  0    |    -10   |
 | :2nd_place_medal: | 2021-12-12 | sha-tin R4                    | 1 Pyledriver          |  4.8  |    -10   |
 | :boom:            | 2021-12-12 | sha-tin R4                    | 2 Glory Vase          |  1.8  |      8   |
-| 5                 | 2021-12-11 | ascot R8                      | 13 Pure Devotion      |  2.7  |    -10   |
 | :3rd_place_medal: | 2021-12-11 | ascot R8                      | 14 Stafford's Lad     | 14    |    -10   |
+| 5                 | 2021-12-11 | ascot R8                      | 13 Pure Devotion      |  2.7  |    -10   |
 | 6                 | 2021-12-11 | ascot R6                      | 5 New Amsterdam       |  9.5  |    -10   |
 | :2nd_place_medal: | 2021-12-11 | ascot R5                      | 4 Proconsent          |  1.8  |    -10   |
 | 6                 | 2021-12-11 | toowoomba R1                  | 6 Wait A Minute       | 20    |    -10   |
@@ -180,8 +182,8 @@ categories: None
 | :2nd_place_medal: | 2021-10-23 | ascot R6                      | 7 Secret Plan         |  2.25 |    -10   |
 | :2nd_place_medal: | 2021-10-23 | doomben R5                    | 1 Tiger Heart         |  1.65 |    -10   |
 | :3rd_place_medal: | 2021-10-23 | doomben R4                    | 8 Run For Glory       |  3.8  |    -10   |
-| :boom:            | 2021-10-23 | doomben R3                    | 8 Lyrical Girl        |  7.9  |     69   |
 | :2nd_place_medal: | 2021-10-23 | doomben R3                    | 11 Shamaton           |  3.4  |    -10   |
+| :boom:            | 2021-10-23 | doomben R3                    | 8 Lyrical Girl        |  7.9  |     69   |
 | :2nd_place_medal: | 2021-10-23 | cheltenham R4                 | 4 Danny Kirwan        |  6.5  |    -10   |
 | :boom:            | 2021-10-22 | launceston R5                 | 1 Deroche             |  1.9  |      9   |
 | :2nd_place_medal: | 2021-10-20 | geelong R7                    | 7 Dr Drill            | 19    |    -10   |
@@ -548,8 +550,8 @@ categories: None
 | 6                 | 2021-04-10 | ascot R3                      | 8 Let's Cut Loose     |  4.6  |    -10   |
 | :boom:            | 2021-04-10 | randwick R7                   | 10 Explosive Jack     | 15.9  |    149   |
 | 4                 | 2021-04-10 | rockhampton R4                | 1 Only Wanna Sing     |  3.1  |    -10   |
-| :boom:            | 2021-04-10 | rockhampton R2                | 1 Hey Pal             |  2    |     10   |
 | :3rd_place_medal: | 2021-04-10 | rockhampton R2                | 3 Disco Mo            |  5.5  |    -10   |
+| :boom:            | 2021-04-10 | rockhampton R2                | 1 Hey Pal             |  2    |     10   |
 | 5                 | 2021-04-10 | doomben R3                    | 1 Cloak               |  3.6  |    -10   |
 | 99                | 2021-04-10 | aintree R4                    | 8 Politologue         |  3.65 |    -10   |
 | :2nd_place_medal: | 2021-04-09 | darwin R3                     | 1 Divine Red          |  4.2  |    -10   |
@@ -805,8 +807,8 @@ categories: None
 | :boom:            | 2020-02-09 | newbury R3                    | 1 Altior              |  1.33 |      3.3 |
 | 5                 | 2020-02-08 | pinjarra R6                   | 3 Mr Genoa            |  3    |    -10   |
 | :3rd_place_medal: | 2020-02-08 | pinjarra R5                   | 7 Serenity Bay        |  2.05 |    -10   |
-| 11                | 2020-02-08 | caulfield R8                  | 9 Night's Watch       | 34    |    -10   |
 | 10                | 2020-02-08 | caulfield R8                  | 11 Ringerdingding     | 21    |    -10   |
+| 11                | 2020-02-08 | caulfield R8                  | 9 Night's Watch       | 34    |    -10   |
 | :boom:            | 2020-02-08 | eagle-farm R6                 | 6 New Universe        |  5.8  |     48   |
 | :boom:            | 2020-02-08 | pinjarra R3                   | 6 Celebrity Queen     |  1.6  |      6   |
 | :3rd_place_medal: | 2020-02-08 | caulfield R5                  | 6 Adelaide Ace        |  4.6  |    -10   |
