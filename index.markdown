@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-03 07:26:14 +1000  
+date: 2022-02-03 08:06:20 +1000  
 ---   
 
 
@@ -74,45 +74,28 @@ date: 2022-02-03 07:26:14 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6214 |    881 | -11494.4 | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7816 |    373 | -22677   | 0.05 | -0.29 |
 
-|    | finish   | time                | track            |   race |   number | name               |   odds | tipster             |
-|---:|:---------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | :soon:   | 2022-02-03 06:00:00 | kempton          |      5 |        7 | Crown Power        |   5.5  | vulture             |
-|  1 | :soon:   | 2022-02-03 05:00:00 | kempton          |      3 |        4 | Melodramatica      |   6    | milkman             |
-|  2 | :soon:   | 2022-02-03 05:00:00 | kempton          |      3 |        3 | Queen's Fair       |   3.5  | vulture             |
-|  3 | :soon:   | 2022-02-03 03:45:00 | exeter           |      7 |        9 | Don Alvaro         |   4.5  | overthrow           |
-|  4 | :soon:   | 2022-02-03 03:10:00 | exeter           |      6 |        2 | Chavez             |   3.3  | evenodds,overthrow  |
-|  5 | :soon:   | 2022-02-03 02:40:00 | exeter           |      5 |        8 | Carry On The Magic |   6    | overthrow           |
-|  6 | :soon:   | 2022-02-03 02:40:00 | exeter           |      5 |        5 | Lord Bryan         |  13    | pangea              |
-|  7 | :soon:   | 2022-02-03 02:20:00 | leicester        |      5 |        4 | Flegmatik          |   4.2  | overthrow           |
-|  8 | 105.0    | 2022-02-03 02:10:00 | exeter           |      4 |        5 | Hana Collonges     |   0    | overthrow           |
-|  9 | :soon:   | 2022-02-03 01:40:00 | exeter           |      3 |        7 | Parisian Blue      |   9    | overthrow           |
-| 10 | :soon:   | 2022-02-03 01:10:00 | exeter           |      2 |        2 | Dusart             |   1.35 | overthrow           |
-| 11 | :soon:   | 2022-02-03 01:10:00 | exeter           |      2 |        4 | Flash Collonges    |   3.5  | overthrow           |
-| 12 | :soon:   | 2022-02-03 00:50:00 | leicester        |      2 |        2 | Jet Plane          |   5    | evenodds,overthrow  |
-| 13 | :soon:   | 2022-02-02 20:00:00 | singapore        |     11 |        2 | Illustrious        |   4.5  | vulture             |
-| 14 | :soon:   | 2022-02-02 19:50:00 | belmont          |      6 |        6 | Man Of The Hour    |  51    | cosmo,bluey         |
-| 15 | :soon:   | 2022-02-02 19:15:00 | belmont          |      5 |        6 | Kohli              |   1.85 | pangea              |
-| 16 | 103.0    | 2022-02-02 18:50:00 | ipswich          |      8 |        2 | Maybe The Best     |   2.5  | pangea              |
-| 17 | 103.0    | 2022-02-02 18:50:00 | ipswich          |      8 |        9 | Bella Royale       |  12    | benny,pangea        |
-| 18 | 105.0    | 2022-02-02 18:30:00 | sandown-lakeside |      6 |        8 | Bronzba            |   0    | milkman             |
-| 19 | 103.0    | 2022-02-02 18:10:00 | ipswich          |      7 |        4 | Pedal To The Metal |  13    | vulture             |
-| 20 | 103.0    | 2022-02-02 18:10:00 | ipswich          |      7 |        8 | Naughty Harry      |   2.9  | vulture,milkman     |
-| 21 | :soon:   | 2022-02-02 17:54:00 | belmont          |      3 |        2 | Cash Away          |   3.6  | milkman             |
-| 22 | 103.0    | 2022-02-02 17:33:00 | ipswich          |      6 |        1 | Octavian           |   8.5  | vulture,blackshadow |
-| 23 | :soon:   | 2022-02-02 17:19:00 | belmont          |      2 |        3 | Prince Ragnar      |   1.6  | overthrow           |
-| 24 | :soon:   | 2022-02-02 17:15:00 | kensington       |      6 |        7 | Rejoiced           |   6    | vulture,jmac        |
-| 25 | :soon:   | 2022-02-02 17:15:00 | kensington       |      6 |        3 | Mensa Missile      |   3.3  | pangea              |
-| 26 | :soon:   | 2022-02-02 17:05:00 | murray-bdge      |      6 |        4 | Brazen Boy         |   5    | vulture             |
-| 27 | 103.0    | 2022-02-02 16:58:00 | ipswich          |      5 |        4 | Wham               |   7.5  | pangea,blackshadow  |
-| 28 | :soon:   | 2022-02-02 16:40:00 | kensington       |      5 |        5 | Rules Don't Apply  |  10    | jmac                |
-| 29 | 103.0    | 2022-02-02 16:23:00 | ipswich          |      4 |        6 | Befana             |   2.05 | vulture             |
-| 30 | :soon:   | 2022-02-02 16:15:00 | sandown-lakeside |      2 |        5 | Healing Game       |   2.15 | overthrow           |
-| 31 | :soon:   | 2022-02-02 16:05:00 | kensington       |      4 |        6 | Always Praying     |   5    | vulture             |
-| 32 | 103.0    | 2022-02-02 15:48:00 | ipswich          |      3 |        6 | Trip The Light     |   3.8  | pangea              |
-| 33 | :soon:   | 2022-02-02 15:40:00 | sandown-lakeside |      1 |        7 | Ruthless Dame      |   2.88 | overthrow,lago      |
-| 34 | :soon:   | 2022-02-02 15:34:00 | te-rapa          |      8 |        9 | The Perfect Pink   |   1.67 | vulture             |
-| 35 | :soon:   | 2022-02-02 15:34:00 | te-rapa          |      8 |        1 | Shamus             |   3.25 | vulture,milkman     |
-| 36 | :soon:   | 2022-02-02 15:30:00 | kensington       |      3 |        4 | Jawaani            |   3.9  | jmac                |
-| 37 | :soon:   | 2022-02-02 15:02:00 | te-rapa          |      7 |        9 | Illicit Miss       |   2.25 | vulture             |
-| 38 | :soon:   | 2022-02-02 14:55:00 | kensington       |      2 |        2 | Himalaism          |   2.8  | jmac                |
-| 39 | :soon:   | 2022-02-02 14:20:00 | kensington       |      1 |        6 | With Your Blessing |   4    | jmac                |
+|    | finish   | time                | track           |   race |   number | name             |   odds | tipster             |
+|---:|:---------|:--------------------|:----------------|-------:|---------:|:-----------------|-------:|:--------------------|
+|  0 | :soon:   | 2022-02-04 06:30:00 | chelmsford-city |      6 |        4 | Bella Colorossa  |   3.75 | pangea              |
+|  1 | :soon:   | 2022-02-04 03:40:00 | wincanton       |      8 |        3 | Fishcake         |   4    | overthrow           |
+|  2 | :soon:   | 2022-02-04 03:40:00 | wincanton       |      8 |        6 | Parkin Fine      |  19    | overthrow           |
+|  3 | :soon:   | 2022-02-04 03:10:00 | wincanton       |      7 |        1 | Rapper           |   6.5  | vulture             |
+|  4 | :soon:   | 2022-02-04 03:10:00 | wincanton       |      7 |        4 | Jeremy Pass      |   4.2  | overthrow           |
+|  5 | :soon:   | 2022-02-04 03:00:00 | southwell       |      7 |        1 | Capricorn Prince |   2.9  | vulture             |
+|  6 | :soon:   | 2022-02-04 02:40:00 | wincanton       |      6 |        1 | Frere D'armes    |   1.4  | overthrow           |
+|  7 | :soon:   | 2022-02-04 01:40:00 | wincanton       |      4 |        6 | Sabrina          |   4.2  | overthrow           |
+|  8 | :soon:   | 2022-02-04 01:10:00 | wincanton       |      3 |        2 | Siroco Jo        |   2    | overthrow           |
+|  9 | :soon:   | 2022-02-04 00:10:00 | wincanton       |      1 |        1 | Alcala           |   1.65 | overthrow           |
+| 10 | :soon:   | 2022-02-03 23:45:00 | vaal            |      6 |        2 | Reunion          |   0    | benny,pangea        |
+| 11 | :soon:   | 2022-02-03 21:15:00 | racing.com-park |      8 |        1 | Deepstrike       |   5    | benny,pangea        |
+| 12 | :soon:   | 2022-02-03 21:15:00 | racing.com-park |      8 |        6 | Mountain Range   |   3.25 | vulture             |
+| 13 | :soon:   | 2022-02-03 21:15:00 | racing.com-park |      8 |        7 | Bronzba          |   7    | milkman             |
+| 14 | :soon:   | 2022-02-03 20:15:00 | racing.com-park |      6 |        9 | Fateela          |   5.5  | icyhot              |
+| 15 | :soon:   | 2022-02-03 20:15:00 | racing.com-park |      6 |        1 | Let's Sea        |   2.15 | evenodds,overthrow  |
+| 16 | :soon:   | 2022-02-03 19:45:00 | racing.com-park |      5 |       10 | Way To Go Paula  |   4.8  | benny,icyhot        |
+| 17 | :soon:   | 2022-02-03 19:45:00 | racing.com-park |      5 |        4 | Yulong Code      |   2.8  | vulture,blackshadow |
+| 18 | :soon:   | 2022-02-03 19:40:00 | sha-tin         |      9 |       12 | Running Glory    |   0    | vulture             |
+| 19 | :soon:   | 2022-02-03 19:30:00 | geraldton       |      5 |        2 | Prize Pursuit    |   5    | looseknot           |
+| 20 | :soon:   | 2022-02-03 17:30:00 | gosford         |      8 |        3 | Cross Step       |   5.5  | vulture,milkman     |
+| 21 | :soon:   | 2022-02-03 17:00:00 | sha-tin         |      4 |        2 | Lucky Express    |   0    | vulture             |
+| 22 | :soon:   | 2022-02-03 16:27:00 | warwick         |      4 |        2 | Heart Vandelay   |   3.75 | pangea,overthrow    |
