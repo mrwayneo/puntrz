@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-02 09:27:15 +1000  
+date: 2022-02-02 19:35:23 +1000  
 categories: None 
 ---   
 
@@ -15,11 +15,11 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 17:15             | 2022-02-02 | kensington R6        | 7 Rejoiced           |  3.5  |    -10   |
-| 16:40             | 2022-02-02 | kensington R5        | 5 Rules Don't Apply  |  4    |    -10   |
-| 15:30             | 2022-02-02 | kensington R3        | 4 Jawaani            |  3.9  |    -10   |
-| 14:55             | 2022-02-02 | kensington R2        | 2 Himalaism          |  2.8  |    -10   |
-| 14:20             | 2022-02-02 | kensington R1        | 6 With Your Blessing |  3.3  |    -10   |
+| 0                 | 2022-02-02 | kensington R6        | 7 Rejoiced           |  0    |    -10   |
+| 0                 | 2022-02-02 | kensington R5        | 5 Rules Don't Apply  |  0    |    -10   |
+| 0                 | 2022-02-02 | kensington R3        | 4 Jawaani            |  0    |    -10   |
+| 0                 | 2022-02-02 | kensington R2        | 2 Himalaism          |  0    |    -10   |
+| 0                 | 2022-02-02 | kensington R1        | 6 With Your Blessing |  0    |    -10   |
 | 0                 | 2022-01-29 | rosehill-gardens R9  | 6 Rule Of Law        |  0    |    -10   |
 | 0                 | 2022-01-29 | rosehill-gardens R8  | 4 Yiyi               |  0    |    -10   |
 | 0                 | 2022-01-29 | rosehill-gardens R7  | 6 Anamoe             |  0    |    -10   |

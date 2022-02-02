@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-02-02 09:27:15 +1000  
+date: 2022-02-02 19:35:24 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 0                 | 2022-02-02 | sandown-lakeside R1    | 7 Ruthless Dame      |  0    |    -10   |
 | 0                 | 2022-02-02 | ffos-las R7            | 7 Tahmuras           |  0    |    -10   |
 | 0                 | 2022-01-31 | naas R6                | 17 The Nice Guy      |  0    |    -10   |
 | 0                 | 2022-01-30 | cheltenham R8          | 9 Notnowlinda        |  0    |    -10   |
@@ -40,8 +41,8 @@ categories: None
 | :boom:            | 2021-12-26 | wetherby R2            | 4 Galia Des Liteaux  |  3.3  |     23   |
 | 99                | 2021-12-18 | navan R2               | 15 Belle Metal       |  0    |    -10   |
 | :boom:            | 2021-12-18 | ascot R6               | 7 Henri The Second   |  4.4  |     34   |
-| :3rd_place_medal: | 2021-12-18 | ascot R4               | 4 Knappers Hill      |  4    |    -10   |
 | :boom:            | 2021-12-18 | ascot R4               | 3 Jonbon             |  2    |     10   |
+| :3rd_place_medal: | 2021-12-18 | ascot R4               | 4 Knappers Hill      |  4    |    -10   |
 | :boom:            | 2021-12-16 | leicester R3           | 8 Sholokjack         |  2.35 |     13.5 |
 | 5                 | 2021-12-13 | rockhampton R1         | 4 Sweet Way's        |  3.2  |    -10   |
 | 99                | 2021-12-13 | southwell R6           | 6 Hob House          |  0    |    -10   |
@@ -181,8 +182,8 @@ categories: None
 | :2nd_place_medal: | 2021-02-27 | warwick R1             | 2 Heross Du Seuil    |  1.8  |    -10   |
 | :3rd_place_medal: | 2021-02-23 | southwell R3           | 4 Ballingers Corner  |  4.4  |    -10   |
 | :3rd_place_medal: | 2021-02-09 | fairyhouse R4          | 2 Gauloise           |  3.75 |    -10   |
-| :3rd_place_medal: | 2021-02-08 | leopardstown R8        | 6 Brandy Love        |  2.1  |    -10   |
 | 99                | 2021-02-08 | leopardstown R8        | 1 Brooklynn Glory    |  6    |    -10   |
+| :3rd_place_medal: | 2021-02-08 | leopardstown R8        | 6 Brandy Love        |  2.1  |    -10   |
 | :3rd_place_medal: | 2021-02-05 | townsville R1          | 1 Attackabeel        |  1.4  |    -10   |
 | :2nd_place_medal: | 2021-02-04 | wincanton R1           | 7 Fable              |  3.75 |    -10   |
 | :boom:            | 2021-01-20 | newbury R1             | 6 Gallyhill          |  1.34 |      3.4 |

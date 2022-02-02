@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-02-02 09:27:11 +1000  
+date: 2022-02-02 19:35:19 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
-| 0                 | 2022-01-29 | rosehill-gardens R8 | 5 Kingsheir        |  0    |      -10 |
+| 4                 | 2022-01-29 | rosehill-gardens R8 | 5 Kingsheir        |  0    |      -10 |
 | :boom:            | 2022-01-29 | rosehill-gardens R4 | 2 Centimental      |  0    |      -10 |
 | :2nd_place_medal: | 2022-01-28 | canterbury R7       | 2 Able Willie      |  2.7  |      -10 |
 | :2nd_place_medal: | 2022-01-28 | canterbury R3       | 1 Inuwashi         |  4.33 |      -10 |

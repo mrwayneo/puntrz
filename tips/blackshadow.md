@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-02-02 09:27:10 +1000  
+date: 2022-02-02 19:35:18 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,6 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 17:33             | 2022-02-02 | ipswich R6                    | 1 Octavian            |  7.5  |    -10   |
-| 16:58             | 2022-02-02 | ipswich R5                    | 4 Wham                |  7.5  |    -10   |
 | :boom:            | 2022-02-01 | bowen R4                      | 5 Big Jake            |  0    |    -10   |
 | 4                 | 2022-01-30 | pinjarra-scarpside R5         | 1 Soviet Spy          |  0    |    -10   |
 | :3rd_place_medal: | 2022-01-29 | rosehill-gardens R7           | 6 Anamoe              |  0    |    -10   |
@@ -90,8 +88,8 @@ categories: None
 | 4                 | 2021-12-12 | sha-tin R8                    | 8 Dubai Honour        |  0    |    -10   |
 | 5                 | 2021-12-12 | sha-tin R7                    | 3 Indy Champ          |  0    |    -10   |
 | 8                 | 2021-12-12 | sha-tin R5                    | 3 Danon Smash         |  0    |    -10   |
-| :boom:            | 2021-12-12 | sha-tin R4                    | 2 Glory Vase          |  1.8  |      8   |
 | :2nd_place_medal: | 2021-12-12 | sha-tin R4                    | 1 Pyledriver          |  4.8  |    -10   |
+| :boom:            | 2021-12-12 | sha-tin R4                    | 2 Glory Vase          |  1.8  |      8   |
 | :3rd_place_medal: | 2021-12-11 | ascot R8                      | 14 Stafford's Lad     | 14    |    -10   |
 | 5                 | 2021-12-11 | ascot R8                      | 13 Pure Devotion      |  2.7  |    -10   |
 | 6                 | 2021-12-11 | ascot R6                      | 5 New Amsterdam       |  9.5  |    -10   |
@@ -188,8 +186,8 @@ categories: None
 | :2nd_place_medal: | 2021-10-20 | geelong R7                    | 7 Dr Drill            | 19    |    -10   |
 | :boom:            | 2021-10-16 | ascot R9                      | 12 Real Charisma      |  2    |     10   |
 | :3rd_place_medal: | 2021-10-16 | eagle-farm R4                 | 9 Salateen            |  2.2  |    -10   |
-| :2nd_place_medal: | 2021-10-15 | ipswich R3                    | 10 Lyrical Girl       |  2.15 |    -10   |
 | :boom:            | 2021-10-15 | ipswich R3                    | 8 Sir Rocket          |  1.75 |      7.5 |
+| :2nd_place_medal: | 2021-10-15 | ipswich R3                    | 10 Lyrical Girl       |  2.15 |    -10   |
 | :boom:            | 2021-10-15 | carlisle R7                   | 3 Armattiekan         |  2.6  |     16   |
 | :3rd_place_medal: | 2021-10-13 | launceston R7                 | 5 Red Letter Lady     |  3.3  |    -10   |
 | :boom:            | 2021-10-13 | launceston R7                 | 7 Vivilici            |  4.6  |     36   |
@@ -346,8 +344,8 @@ categories: None
 | :2nd_place_medal: | 2021-08-04 | eagle-farm R6                 | 6 Blackboots          |  4.4  |    -10   |
 | :boom:            | 2021-08-03 | rockhampton R3                | 3 The Egyptian        |  1.3  |      3   |
 | 5                 | 2021-08-02 | darwin R9                     | 3 Autocratic          |  6.5  |    -10   |
-| 4                 | 2021-08-02 | darwin R7                     | 5 No Say in It        | 34    |    -10   |
 | :2nd_place_medal: | 2021-08-02 | darwin R7                     | 1 That's Justified    |  3    |    -10   |
+| 4                 | 2021-08-02 | darwin R7                     | 5 No Say in It        | 34    |    -10   |
 | 6                 | 2021-08-02 | darwin R6                     | 1 Taciturn            |  5.5  |    -10   |
 | :boom:            | 2021-08-02 | darwin R4                     | 4 Belmont Day         |  1.5  |      5   |
 | :boom:            | 2021-08-02 | darwin R3                     | 6 Silver Melody       |  5.7  |     47   |
@@ -442,8 +440,8 @@ categories: None
 | :2nd_place_medal: | 2021-05-29 | belmont R9                    | 12 This'll Testya     |  8.5  |    -10   |
 | :boom:            | 2021-05-29 | belmont R7                    | 2 Leading Girl        |  2.7  |     17   |
 | 4                 | 2021-05-29 | darwin R3                     | 2 Count of Essex      |  4.25 |    -10   |
-| 7                 | 2021-05-29 | belmont R4                    | 3 Mystical View       | 14    |    -10   |
 | :2nd_place_medal: | 2021-05-29 | belmont R4                    | 6 Devoted Star        |  9    |    -10   |
+| 7                 | 2021-05-29 | belmont R4                    | 3 Mystical View       | 14    |    -10   |
 | :3rd_place_medal: | 2021-05-29 | eagle-farm R8                 | 11 Signore Fox        | 51    |    -10   |
 | :boom:            | 2021-05-29 | darwin R2                     | 2 Captain Hedderwick  |  2.5  |     15   |
 | :boom:            | 2021-05-29 | darwin R1                     | 7 The Auditor         | 12.5  |    115   |
@@ -530,8 +528,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-17 | randwick R10                  | 3 Entriviere          |  3.3  |    -10   |
 | 5                 | 2021-04-17 | caulfield R8                  | 3 How Womantic        |  4.2  |    -10   |
 | 8                 | 2021-04-17 | caulfield R8                  | 2 Yulong January      | 26    |    -10   |
-| :2nd_place_medal: | 2021-04-17 | randwick R6                   | 9 Isotope             |  3.3  |    -10   |
 | :boom:            | 2021-04-17 | randwick R6                   | 1 Wild Ruler          |  5.7  |     47   |
+| :2nd_place_medal: | 2021-04-17 | randwick R6                   | 9 Isotope             |  3.3  |    -10   |
 | :3rd_place_medal: | 2021-04-17 | alice-springs R2              | 4 The Captain         |  1.55 |    -10   |
 | 4                 | 2021-04-17 | randwick R5                   | 2 Amarelinha          |  4.65 |    -10   |
 | 7                 | 2021-04-17 | caulfield R1                  | 4 Fanciful Toff       |  3.7  |    -10   |
@@ -553,8 +551,8 @@ categories: None
 | :boom:            | 2021-04-10 | rockhampton R2                | 1 Hey Pal             |  2    |     10   |
 | 5                 | 2021-04-10 | doomben R3                    | 1 Cloak               |  3.6  |    -10   |
 | 99                | 2021-04-10 | aintree R4                    | 8 Politologue         |  3.65 |    -10   |
-| :boom:            | 2021-04-09 | darwin R3                     | 2 Papalet             |  2.3  |     13   |
 | :2nd_place_medal: | 2021-04-09 | darwin R3                     | 1 Divine Red          |  4.2  |    -10   |
+| :boom:            | 2021-04-09 | darwin R3                     | 2 Papalet             |  2.3  |     13   |
 | :3rd_place_medal: | 2021-04-09 | darwin R2                     | 3 God's Penny         |  5    |    -10   |
 | :boom:            | 2021-04-09 | darwin R1                     | 1 Kaptan Apollo       |  2.7  |     17   |
 | 4                 | 2021-04-09 | rockhampton R3                | 1 Mr Phenomenal       |  5    |    -10   |
@@ -568,8 +566,8 @@ categories: None
 | 6                 | 2021-04-03 | alice-springs R5              | 1 Live And Free       |  6    |    -10   |
 | :3rd_place_medal: | 2021-04-03 | ascot R4                      | 3 Amelia's Contraire  |  3    |    -10   |
 | 4                 | 2021-04-03 | alice-springs R4              | 4 Hope Ya Don't Mind  |  2.4  |    -10   |
-| 99                | 2021-04-03 | awapuni R3                    | 1 Navalha             |  9.5  |    -10   |
 | :2nd_place_medal: | 2021-04-03 | awapuni R3                    | 2 Hold The Press      |  2.9  |    -10   |
+| 99                | 2021-04-03 | awapuni R3                    | 1 Navalha             |  9.5  |    -10   |
 | 99                | 2021-04-03 | awapuni R2                    | 3 Leaderboard         |  5.5  |    -10   |
 | 5                 | 2021-04-01 | toowoomba R7                  | 5 Spirit One          |  1.82 |    -10   |
 | :boom:            | 2021-03-31 | doomben R6                    | 6 Skins               |  1.6  |      6   |
@@ -616,8 +614,8 @@ categories: None
 | :2nd_place_medal: | 2021-03-06 | bunbury R9                    | 7 Montelena           |  1.72 |    -10   |
 | :boom:            | 2021-03-06 | eagle-farm R8                 | 6 Wren's Day          |  2.5  |     15   |
 | 6                 | 2021-03-06 | flemington R8                 | 12 Defibrillate       | 13    |    -10   |
-| 7                 | 2021-03-06 | eagle-farm R6                 | 2 Only Wanna Sing     |  3    |    -10   |
 | :boom:            | 2021-03-06 | eagle-farm R6                 | 3 Royal Hale          |  4.3  |     33   |
+| 7                 | 2021-03-06 | eagle-farm R6                 | 2 Only Wanna Sing     |  3    |    -10   |
 | 10                | 2021-03-06 | morphettville-parks R5        | 4 Annika              |  2.35 |    -10   |
 | 7                 | 2021-03-06 | eagle-farm R4                 | 3 Seeingisbelieving   |  5.5  |    -10   |
 | 4                 | 2021-03-06 | eagle-farm R3                 | 1 Leadership Spill    |  2.4  |    -10   |
@@ -779,8 +777,8 @@ categories: None
 | :boom:            | 2020-10-04 | tipperary R1                  | 6 Shewearsitwell      |  3    |     20   |
 | 4                 | 2020-10-04 | sunshine-coast R3             | 3 One for Betty       |  2.8  |    -10   |
 | 99                | 2020-10-04 | gowran-park R8                | 2 Cuneo               |  4.8  |    -10   |
-| 5                 | 2020-10-03 | eagle-farm R8                 | 1 Snitch              | 11    |    -10   |
 | :3rd_place_medal: | 2020-10-03 | eagle-farm R8                 | 2 Desert Lord         |  1.9  |    -10   |
+| 5                 | 2020-10-03 | eagle-farm R8                 | 1 Snitch              | 11    |    -10   |
 | :2nd_place_medal: | 2020-10-03 | eagle-farm R7                 | 5 Royal Hale          |  3.8  |    -10   |
 | :3rd_place_medal: | 2020-10-03 | randwick R1                   | 2 Discharged          |  2.9  |    -10   |
 | :2nd_place_medal: | 2020-10-01 | yeppoon R1                    | 2 Russian Weapon      |  4    |    -10   |
