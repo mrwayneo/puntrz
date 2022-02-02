@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-02-03 08:06:19 +1000  
+date: 2022-02-03 09:20:45 +1000  
 categories: None 
 ---   
 
@@ -20,7 +20,7 @@ categories: None
 | :2nd_place_medal: | 2022-01-30 | pinjarra-scarpside R6 | 4 Fine Romance        |   0    |    -10   |
 | 4                 | 2022-01-30 | pinjarra-scarpside R5 | 1 Soviet Spy          |   0    |    -10   |
 | 0                 | 2022-01-30 | pinjarra-scarpside R4 | 12 Ruby Noir          |   0    |    -10   |
-| 0                 | 2022-01-30 | pinjarra-scarpside R3 | 7 Chang Man           |   0    |    -10   |
+| 5                 | 2022-01-30 | pinjarra-scarpside R3 | 7 Chang Man           |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-30 | pinjarra-scarpside R2 | 5 Got Ya              |   0    |    -10   |
 | 6                 | 2022-01-30 | pinjarra-scarpside R1 | 3 Anna's Boy          |   0    |    -10   |
 | 5                 | 2022-01-29 | ascot R9              | 6 Mr Causeway         |   0    |    -10   |
@@ -47,7 +47,7 @@ categories: None
 | 5                 | 2022-01-15 | ascot R2              | 5 Cold Shizzle        |   8.5  |    -10   |
 | :2nd_place_medal: | 2022-01-15 | ascot R1              | 8 Upper Limits        |   6.5  |    -10   |
 | 4                 | 2022-01-13 | pinjarra R8           | 1 Noble Scot          |   0    |    -10   |
-| 0                 | 2022-01-13 | pinjarra R4           | 1 Melwood Coast       |   0    |    -10   |
+| :2nd_place_medal: | 2022-01-13 | pinjarra R4           | 1 Melwood Coast       |   0    |    -10   |
 | 5                 | 2022-01-13 | pinjarra R3           | 6 Men's Club          |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-13 | pinjarra R2           | 1 Civvy Street        |   2.8  |    -10   |
 | :boom:            | 2022-01-13 | pinjarra R1           | 1 Defending           |   1.7  |      7   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-02-03 08:06:20 +1000  
+date: 2022-02-03 09:20:46 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 0                 | 2022-02-02 | belmont R6             | 6 Man Of The Hour     |   0   |      -10 |
+| 8                 | 2022-02-02 | belmont R6             | 6 Man Of The Hour     |   0   |      -10 |
 | 8                 | 2022-01-29 | sunshine-coast R8      | 14 Star Of Michelin   |   0   |      -10 |
 | 6                 | 2022-01-27 | rockhampton R3         | 5 Fleetingly          |  26   |      -10 |
 | 4                 | 2022-01-25 | kempton R3             | 9 Global Vision       |  15   |      -10 |

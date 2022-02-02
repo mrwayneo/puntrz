@@ -1,25 +1,25 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-03 08:06:19 +1000  
+date: 2022-02-03 09:20:45 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     12 |      2 |   -120   | 0.17 | -1    |
-| Last 28 Days   |     37 |      5 |   -253   | 0.14 | -0.68 |
-| Last 6 Months  |    275 |     71 |     97.5 | 0.26 |  0.04 |
-| Since Jan 2020 |    634 |    158 |   -258.5 | 0.25 | -0.04 |
+| Last 7 Days    |     12 |      3 |   -120   | 0.25 | -1    |
+| Last 28 Days   |     37 |      6 |   -253   | 0.16 | -0.68 |
+| Last 6 Months  |    275 |     72 |     97.5 | 0.26 |  0.04 |
+| Since Jan 2020 |    634 |    159 |   -258.5 | 0.25 | -0.04 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 0                 | 2022-02-02 | kensington R6        | 7 Rejoiced           |  0    |    -10   |
-| 0                 | 2022-02-02 | kensington R5        | 5 Rules Don't Apply  |  0    |    -10   |
+| 6                 | 2022-02-02 | kensington R6        | 7 Rejoiced           |  0    |    -10   |
+| 5                 | 2022-02-02 | kensington R5        | 5 Rules Don't Apply  |  0    |    -10   |
 | 0                 | 2022-02-02 | kensington R3        | 4 Jawaani            |  0    |    -10   |
 | 0                 | 2022-02-02 | kensington R2        | 2 Himalaism          |  0    |    -10   |
-| 0                 | 2022-02-02 | kensington R1        | 6 With Your Blessing |  0    |    -10   |
+| :boom:            | 2022-02-02 | kensington R1        | 6 With Your Blessing |  0    |    -10   |
 | :boom:            | 2022-01-29 | rosehill-gardens R9  | 6 Rule Of Law        |  0    |    -10   |
 | :2nd_place_medal: | 2022-01-29 | rosehill-gardens R8  | 4 Yiyi               |  0    |    -10   |
 | :3rd_place_medal: | 2022-01-29 | rosehill-gardens R7  | 6 Anamoe             |  0    |    -10   |
