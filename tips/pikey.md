@@ -1,36 +1,36 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-02-02 19:35:24 +1000  
+date: 2022-02-02 20:35:35 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     16 |      0 |     -160 | 0    | -1    |
-| Last 28 Days   |     62 |     10 |     -358 | 0.16 | -0.58 |
-| Last 6 Months  |    426 |    119 |     -703 | 0.28 | -0.17 |
-| Since Jan 2020 |    987 |    250 |    -1660 | 0.25 | -0.17 |
+| Last 7 Days    |     16 |      1 |     -160 | 0.06 | -1    |
+| Last 28 Days   |     62 |     14 |     -358 | 0.23 | -0.58 |
+| Last 6 Months  |    426 |    123 |     -703 | 0.29 | -0.17 |
+| Since Jan 2020 |    987 |    254 |    -1660 | 0.26 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2022-01-30 | pinjarra-scarpside R8 | 9 Bandalera Miss      |   0    |    -10   |
-| 0                 | 2022-01-30 | pinjarra-scarpside R7 | 7 Miss Field          |   0    |    -10   |
-| 0                 | 2022-01-30 | pinjarra-scarpside R6 | 4 Fine Romance        |   0    |    -10   |
-| 0                 | 2022-01-30 | pinjarra-scarpside R5 | 1 Soviet Spy          |   0    |    -10   |
+| 5                 | 2022-01-30 | pinjarra-scarpside R8 | 9 Bandalera Miss      |   0    |    -10   |
+| :3rd_place_medal: | 2022-01-30 | pinjarra-scarpside R7 | 7 Miss Field          |   0    |    -10   |
+| :2nd_place_medal: | 2022-01-30 | pinjarra-scarpside R6 | 4 Fine Romance        |   0    |    -10   |
+| 4                 | 2022-01-30 | pinjarra-scarpside R5 | 1 Soviet Spy          |   0    |    -10   |
 | 0                 | 2022-01-30 | pinjarra-scarpside R4 | 12 Ruby Noir          |   0    |    -10   |
 | 0                 | 2022-01-30 | pinjarra-scarpside R3 | 7 Chang Man           |   0    |    -10   |
-| 0                 | 2022-01-30 | pinjarra-scarpside R2 | 5 Got Ya              |   0    |    -10   |
-| 0                 | 2022-01-30 | pinjarra-scarpside R1 | 3 Anna's Boy          |   0    |    -10   |
-| 0                 | 2022-01-29 | ascot R9              | 6 Mr Causeway         |   0    |    -10   |
-| 0                 | 2022-01-29 | ascot R8              | 11 Clairvoyance       |   0    |    -10   |
-| 0                 | 2022-01-29 | ascot R7              | 7 Strathmore Rose     |   0    |    -10   |
-| 0                 | 2022-01-29 | ascot R6              | 2 Treasured Crown     |   0    |    -10   |
-| 0                 | 2022-01-29 | ascot R5              | 9 Deputano            |   0    |    -10   |
-| 0                 | 2022-01-29 | ascot R3              | 9 Fiorucci Mama       |   0    |    -10   |
-| 0                 | 2022-01-29 | ascot R2              | 6 Winsalot            |   0    |    -10   |
-| 0                 | 2022-01-29 | ascot R1              | 3 Policiere           |   0    |    -10   |
+| :2nd_place_medal: | 2022-01-30 | pinjarra-scarpside R2 | 5 Got Ya              |   0    |    -10   |
+| 6                 | 2022-01-30 | pinjarra-scarpside R1 | 3 Anna's Boy          |   0    |    -10   |
+| 5                 | 2022-01-29 | ascot R9              | 6 Mr Causeway         |   0    |    -10   |
+| 12                | 2022-01-29 | ascot R8              | 11 Clairvoyance       |   0    |    -10   |
+| 9                 | 2022-01-29 | ascot R7              | 7 Strathmore Rose     |   0    |    -10   |
+| 11                | 2022-01-29 | ascot R6              | 2 Treasured Crown     |   0    |    -10   |
+| 10                | 2022-01-29 | ascot R5              | 9 Deputano            |   0    |    -10   |
+| :boom:            | 2022-01-29 | ascot R3              | 9 Fiorucci Mama       |   0    |    -10   |
+| :2nd_place_medal: | 2022-01-29 | ascot R2              | 6 Winsalot            |   0    |    -10   |
+| 4                 | 2022-01-29 | ascot R1              | 3 Policiere           |   0    |    -10   |
 | 4                 | 2022-01-26 | belmont R12           | 12 Star Storm         |   6    |    -10   |
 | 8                 | 2022-01-26 | belmont R11           | 10 Mrs America        |   1.85 |    -10   |
 | :2nd_place_medal: | 2022-01-26 | belmont R6            | 6 Men's Club          |   7    |    -10   |
@@ -46,9 +46,9 @@ categories: None
 | 7                 | 2022-01-15 | ascot R3              | 4 Fiery Water         |   5    |    -10   |
 | 5                 | 2022-01-15 | ascot R2              | 5 Cold Shizzle        |   8.5  |    -10   |
 | :2nd_place_medal: | 2022-01-15 | ascot R1              | 8 Upper Limits        |   6.5  |    -10   |
-| 0                 | 2022-01-13 | pinjarra R8           | 1 Noble Scot          |   0    |    -10   |
+| 4                 | 2022-01-13 | pinjarra R8           | 1 Noble Scot          |   0    |    -10   |
 | 0                 | 2022-01-13 | pinjarra R4           | 1 Melwood Coast       |   0    |    -10   |
-| 0                 | 2022-01-13 | pinjarra R3           | 6 Men's Club          |   0    |    -10   |
+| 5                 | 2022-01-13 | pinjarra R3           | 6 Men's Club          |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-13 | pinjarra R2           | 1 Civvy Street        |   2.8  |    -10   |
 | :boom:            | 2022-01-13 | pinjarra R1           | 1 Defending           |   1.7  |      7   |
 | 11                | 2022-01-12 | belmont R8            | 3 Goku                |   4.2  |    -10   |
@@ -58,9 +58,9 @@ categories: None
 | 5                 | 2022-01-12 | belmont R3            | 8 Rare Case           |   4.75 |    -10   |
 | 4                 | 2022-01-12 | belmont R2            | 7 Restful             |   2.7  |    -10   |
 | :boom:            | 2022-01-12 | belmont R1            | 2 Rockin' Rupert      |   1.6  |      6   |
-| 0                 | 2022-01-09 | albany R7             | 3 Kia Ora Star        |   0    |    -10   |
-| 0                 | 2022-01-09 | albany R6             | 5 Chiclett            |   0    |    -10   |
-| 0                 | 2022-01-09 | albany R5             | 5 Mr Causeway         |   0    |    -10   |
+| :boom:            | 2022-01-09 | albany R7             | 3 Kia Ora Star        |   0    |    -10   |
+| :boom:            | 2022-01-09 | albany R6             | 5 Chiclett            |   0    |    -10   |
+| :boom:            | 2022-01-09 | albany R5             | 5 Mr Causeway         |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-09 | albany R3             | 3 Captain Sharmane    |   1.65 |    -10   |
 | :3rd_place_medal: | 2022-01-09 | albany R2             | 4 Exalted Rockstar    |   2.88 |    -10   |
 | :boom:            | 2022-01-09 | albany R1             | 9 Snippagem           |   1.6  |      6   |

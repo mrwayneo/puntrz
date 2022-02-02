@@ -1,28 +1,27 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-02-02 19:35:24 +1000  
+date: 2022-02-02 20:35:36 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
-| Last 28 Days   |     15 |      0 |     -150 | 0    | -1    |
-| Last 6 Months  |     99 |     16 |     2249 | 0.16 |  2.27 |
-| Since Jan 2020 |    227 |     40 |     4576 | 0.18 |  2.02 |
+| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
+| Last 28 Days   |     14 |      0 |     -140 | 0    | -1    |
+| Last 6 Months  |     98 |     16 |     2259 | 0.16 |  2.31 |
+| Since Jan 2020 |    226 |     40 |     4586 | 0.18 |  2.03 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 19:50             | 2022-02-02 | belmont R6             | 6 Man Of The Hour     |  41   |      -10 |
-| 0                 | 2022-01-29 | sunshine-coast R8      | 14 Star Of Michelin   |   0   |      -10 |
-| 0                 | 2022-01-28 | canterbury R5          | 7 Regal Toff          |   0   |      -10 |
+| 0                 | 2022-02-02 | belmont R6             | 6 Man Of The Hour     |   0   |      -10 |
+| 8                 | 2022-01-29 | sunshine-coast R8      | 14 Star Of Michelin   |   0   |      -10 |
 | 6                 | 2022-01-27 | rockhampton R3         | 5 Fleetingly          |  26   |      -10 |
 | 4                 | 2022-01-25 | kempton R3             | 9 Global Vision       |  15   |      -10 |
 | 7                 | 2022-01-23 | hobart R6              | 11 Seguimientos       |  67   |      -10 |
-| 0                 | 2022-01-23 | wolverhampton R1       | 6 Rose Fandango       |   0   |      -10 |
-| 0                 | 2022-01-22 | southwell R5           | 8 Available Angel     |   0   |      -10 |
+| 99                | 2022-01-23 | wolverhampton R1       | 6 Rose Fandango       |   0   |      -10 |
+| 99                | 2022-01-22 | southwell R5           | 8 Available Angel     |   0   |      -10 |
 | 4                 | 2022-01-19 | sandown-lakeside R8    | 11 Agnelli            |   7.5 |      -10 |
 | 10                | 2022-01-16 | geraldton R5           | 8 O'reilly's Crumpet  |  31   |      -10 |
 | 6                 | 2022-01-15 | gold-coast R9          | 1 The Odyssey         |  14   |      -10 |

@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-02 19:35:23 +1000  
+date: 2022-02-02 20:35:35 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     13 |      1 |    -68   | 0.08 | -0.52 |
-| Last 28 Days   |     33 |      3 |   -213   | 0.09 | -0.65 |
-| Last 6 Months  |    271 |     69 |    137.5 | 0.25 |  0.05 |
-| Since Jan 2020 |    630 |    156 |   -218.5 | 0.25 | -0.03 |
+| Last 7 Days    |     13 |      3 |    -68   | 0.23 | -0.52 |
+| Last 28 Days   |     32 |      5 |   -203   | 0.16 | -0.63 |
+| Last 6 Months  |    270 |     71 |    147.5 | 0.26 |  0.05 |
+| Since Jan 2020 |    629 |    158 |   -208.5 | 0.25 | -0.03 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
@@ -20,18 +20,18 @@ categories: None
 | 0                 | 2022-02-02 | kensington R3        | 4 Jawaani            |  0    |    -10   |
 | 0                 | 2022-02-02 | kensington R2        | 2 Himalaism          |  0    |    -10   |
 | 0                 | 2022-02-02 | kensington R1        | 6 With Your Blessing |  0    |    -10   |
-| 0                 | 2022-01-29 | rosehill-gardens R9  | 6 Rule Of Law        |  0    |    -10   |
-| 0                 | 2022-01-29 | rosehill-gardens R8  | 4 Yiyi               |  0    |    -10   |
-| 0                 | 2022-01-29 | rosehill-gardens R7  | 6 Anamoe             |  0    |    -10   |
-| 0                 | 2022-01-29 | rosehill-gardens R6  | 2 Crystal Pegasus    |  0    |    -10   |
-| 0                 | 2022-01-29 | rosehill-gardens R4  | 4 And We Danced      |  0    |    -10   |
-| 0                 | 2022-01-29 | rosehill-gardens R3  | 2 Ojai               |  0    |    -10   |
-| 0                 | 2022-01-29 | rosehill-gardens R2  | 4 Great Barrier Reef |  0    |    -10   |
+| :boom:            | 2022-01-29 | rosehill-gardens R9  | 6 Rule Of Law        |  0    |    -10   |
+| :2nd_place_medal: | 2022-01-29 | rosehill-gardens R8  | 4 Yiyi               |  0    |    -10   |
+| :3rd_place_medal: | 2022-01-29 | rosehill-gardens R7  | 6 Anamoe             |  0    |    -10   |
+| :boom:            | 2022-01-29 | rosehill-gardens R6  | 2 Crystal Pegasus    |  0    |    -10   |
+| 6                 | 2022-01-29 | rosehill-gardens R4  | 4 And We Danced      |  0    |    -10   |
+| 5                 | 2022-01-29 | rosehill-gardens R3  | 2 Ojai               |  0    |    -10   |
+| 4                 | 2022-01-29 | rosehill-gardens R2  | 4 Great Barrier Reef |  0    |    -10   |
 | :boom:            | 2022-01-28 | canterbury R7        | 4 Sky Command        |  6.2  |     52   |
-| :2nd_place_medal: | 2022-01-28 | canterbury R5        | 1 Fortified          |  4.8  |    -10   |
+| :2nd_place_medal: | 2022-01-28 | canterbury R5        | 1 Fortified          |  3.4  |    -10   |
 | 7                 | 2022-01-28 | canterbury R4        | 6 Fiordland          |  3.3  |    -10   |
 | 10                | 2022-01-28 | canterbury R3        | 6 Pretes             |  3.75 |    -10   |
-| 5                 | 2022-01-28 | canterbury R2        | 9 You Are Persistent | 11    |    -10   |
+| 5                 | 2022-01-28 | canterbury R2        | 9 You Are Persistent |  9    |    -10   |
 | :3rd_place_medal: | 2022-01-28 | canterbury R1        | 4 Robusto            |  1.85 |    -10   |
 | :boom:            | 2022-01-26 | warwick-farm R8      | 1 Dajraan            |  1.6  |      6   |
 | :2nd_place_medal: | 2022-01-26 | warwick-farm R7      | 2 Parry Sound        |  3.4  |    -10   |
@@ -44,7 +44,6 @@ categories: None
 | :2nd_place_medal: | 2022-01-08 | rosehill-gardens R10 | 5 Tycoonist          |  2.6  |    -10   |
 | 6                 | 2022-01-08 | rosehill-gardens R8  | 4 Order Again        |  5.5  |    -10   |
 | 4                 | 2022-01-08 | rosehill-gardens R7  | 6 Loveplanet         |  2.6  |    -10   |
-| 0                 | 2022-01-08 | rosehill-gardens R6  | 7 Centimental        |  0    |    -10   |
 | 4                 | 2022-01-08 | rosehill-gardens R5  | 6 Wairere Falls      |  7    |    -10   |
 | 4                 | 2022-01-08 | rosehill-gardens R4  | 5 Metro Legend       |  3.5  |    -10   |
 | :3rd_place_medal: | 2022-01-08 | rosehill-gardens R3  | 3 Saigon             |  3.6  |    -10   |

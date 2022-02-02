@@ -1,22 +1,24 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-02-02 19:35:24 +1000  
+date: 2022-02-02 20:35:36 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      4 |      0 |    -40   | 0    | -1    |
-| Last 6 Months  |     28 |     16 |     27   | 0.57 |  0.1  |
-| Since Jan 2020 |     57 |     31 |     12.7 | 0.54 |  0.02 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      5 |      0 |    -50   | 0    | -1    |
+| Last 6 Months  |     29 |     16 |     17   | 0.55 |  0.06 |
+| Since Jan 2020 |     58 |     31 |      2.7 | 0.53 |  0    |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 0                 | 2022-01-27 | catterick R2           | 2 Get Your Own       |  0    |    -10   |
+| :3rd_place_medal: | 2022-01-30 | strathalbyn R1         | 8 Ten Feathers       |  0    |    -10   |
+| :3rd_place_medal: | 2022-01-27 | catterick R2           | 2 Get Your Own       |  1.9  |    -10   |
 | :2nd_place_medal: | 2022-01-12 | oakbank R1             | 3 Muffla             |  1.9  |    -10   |
-| 0                 | 2022-01-10 | ayr R6                 | 2 Tfou               |  0    |    -10   |
+| :2nd_place_medal: | 2022-01-10 | ayr R6                 | 2 Tfou               |  0    |    -10   |
 | 7                 | 2022-01-07 | stawell R5             | 4 Wilsons Prom       |  1.9  |    -10   |
 | :2nd_place_medal: | 2022-01-03 | pinjarra R3            | 9 Otheroneson        |  1.9  |    -10   |
 | :boom:            | 2021-12-27 | leopardstown R7        | 6 Facile Vega        |  1.95 |      9.5 |

@@ -1,31 +1,31 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-02-02 19:35:24 +1000  
+date: 2022-02-02 20:35:36 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
-| Last 28 Days   |     15 |      3 |    -95.5 | 0.2  | -0.64 |
-| Last 6 Months  |    102 |     60 |    613.1 | 0.59 |  0.6  |
-| Since Jan 2020 |    198 |    100 |   1438.4 | 0.51 |  0.73 |
+| Last 7 Days    |      4 |      1 |    -40   | 0.25 | -1    |
+| Last 28 Days   |     15 |      4 |    -95.5 | 0.27 | -0.64 |
+| Last 6 Months  |    102 |     61 |    613.1 | 0.6  |  0.6  |
+| Since Jan 2020 |    198 |    101 |   1438.4 | 0.51 |  0.73 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
 | 0                 | 2022-02-02 | sandown-lakeside R1    | 7 Ruthless Dame      |  0    |    -10   |
-| 0                 | 2022-02-02 | ffos-las R7            | 7 Tahmuras           |  0    |    -10   |
-| 0                 | 2022-01-31 | naas R6                | 17 The Nice Guy      |  0    |    -10   |
-| 0                 | 2022-01-30 | cheltenham R8          | 9 Notnowlinda        |  0    |    -10   |
-| 0                 | 2022-01-29 | cheltenham R2          | 1 Iceo               |  0    |    -10   |
+| :2nd_place_medal: | 2022-02-02 | ffos-las R7            | 7 Tahmuras           |  0    |    -10   |
+| :boom:            | 2022-01-31 | naas R6                | 17 The Nice Guy      |  0    |    -10   |
+| :3rd_place_medal: | 2022-01-30 | cheltenham R8          | 9 Notnowlinda        |  0    |    -10   |
+| 4                 | 2022-01-29 | cheltenham R2          | 1 Iceo               |  0    |    -10   |
 | :boom:            | 2022-01-28 | wetherby R6            | 1 Sholokjack         |  2.6  |     16   |
-| 0                 | 2022-01-27 | catterick R3           | 2 River Walk         |  0    |    -10   |
+| :2nd_place_medal: | 2022-01-27 | catterick R3           | 2 River Walk         |  3.5  |    -10   |
 | :3rd_place_medal: | 2022-01-23 | ascot R7               | 8 Galia Des Liteaux  |  2.1  |    -10   |
 | :boom:            | 2022-01-23 | haydock R2             | 1 Jonbon             |  1.4  |      4   |
 | :3rd_place_medal: | 2022-01-22 | doomben R6             | 7 Amity Gal          |  2.1  |    -10   |
-| :2nd_place_medal: | 2022-01-21 | lingfield R1           | 2 Nurse Susan        |  2.85 |    -10   |
+| :2nd_place_medal: | 2022-01-21 | lingfield R1           | 2 Nurse Susan        |  2.8  |    -10   |
 | :boom:            | 2022-01-16 | punchestown R1         | 1 Dysart Dynamo      |  1.45 |      4.5 |
 | 7                 | 2022-01-15 | flemington R4          | 5 Elzamee            |  5    |    -10   |
 | :3rd_place_medal: | 2022-01-12 | doncaster R5           | 7 Russian Ruler      |  2.5  |    -10   |
@@ -155,8 +155,8 @@ categories: None
 | :boom:            | 2021-04-17 | newbury R8             | 4 Far Hope           |  5    |     40   |
 | :boom:            | 2021-04-17 | newbury R7             | 4 Gloria Mundi       |  6    |     50   |
 | :boom:            | 2021-04-17 | newbury R5             | 1 Hurricane Lane     |  3.75 |     27.5 |
-| :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
 | 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
+| :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
 | :boom:            | 2021-04-15 | kempton R4             | 1 Ransom             |  3.6  |     26   |
 | 99                | 2021-04-15 | newmarket R5           | 2 Divine Light       |  8.5  |    -10   |
 | :2nd_place_medal: | 2021-04-11 | devonport-synthetic R8 | 6 Azara              |  3.1  |    -10   |

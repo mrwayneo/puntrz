@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-02-02 19:35:19 +1000  
+date: 2022-02-02 20:35:31 +1000  
 categories: None 
 ---   
 
@@ -9,9 +9,9 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      1 |      1 |    139   | 1    | 13.9  |
-| Last 28 Days   |      9 |      3 |    101.7 | 0.33 |  1.13 |
-| Last 6 Months  |     49 |     12 |    232.2 | 0.24 |  0.47 |
-| Since Jan 2020 |    108 |     32 |    862.6 | 0.3  |  0.8  |
+| Last 28 Days   |      8 |      3 |    111.7 | 0.38 |  1.4  |
+| Last 6 Months  |     48 |     12 |    242.2 | 0.25 |  0.5  |
+| Since Jan 2020 |    107 |     32 |    872.6 | 0.3  |  0.82 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
@@ -20,9 +20,8 @@ categories: None
 | :3rd_place_medal: | 2022-01-22 | esperance-bay R4       | 5 Noble Reflection   |   2.45 |    -10   |
 | :2nd_place_medal: | 2022-01-22 | townsville R1          | 6 Magnate            |   4    |    -10   |
 | 4                 | 2022-01-16 | strathalbyn R5         | 5 Gogolf Guru        |   9    |    -10   |
-| 0                 | 2022-01-14 | esperance-bay R8       | 7 Nobel Prince       |   0    |    -10   |
 | 6                 | 2022-01-14 | townsville R5          | 5 Micawber           |   3.7  |    -10   |
-| 0                 | 2022-01-13 | kilcoy R8              | 6 Dublin De Quo      |   0    |    -10   |
+| :3rd_place_medal: | 2022-01-13 | kilcoy R8              | 6 Dublin De Quo      |   0    |    -10   |
 | :boom:            | 2022-01-09 | newcastle R3           | 5 Bavington Bob      |   2.7  |     17   |
 | 5                 | 2022-01-02 | cranbourne R8          | 1 Lord Sundowner     |   7.5  |    -10   |
 | 6                 | 2022-01-01 | mornington R1          | 6 Top Arctic         |  23    |    -10   |
