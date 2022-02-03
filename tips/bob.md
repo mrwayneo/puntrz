@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-02-03 22:19:35 +1000  
+date: 2022-02-04 08:11:50 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |     15 |      1 |    -61   | 0.07 | -0.41 |
+| Last 28 Days   |     14 |      1 |    -51   | 0.07 | -0.36 |
 | Last 6 Months  |    115 |     24 |   1715.5 | 0.21 |  1.49 |
 | Since Jan 2020 |    238 |     41 |   3655.5 | 0.17 |  1.54 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
+| 00:55             | 2022-02-05 | chepstow R2                   | 3 El Diablo           |  51    |    -10   |
+| 00:20             | 2022-02-05 | chepstow R1                   | 7 Gris Majeur         |  13    |    -10   |
 | 99                | 2022-01-30 | lingfield R7                  | 2 Igotatext           |   0    |    -10   |
 | 5                 | 2022-01-28 | southwell R4                  | 2 Aberama Gold        |  12    |    -10   |
 | :3rd_place_medal: | 2022-01-26 | leicester R3                  | 3 Autonomous Cloud    |  10    |    -10   |
