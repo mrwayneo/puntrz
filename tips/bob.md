@@ -1,21 +1,23 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-02-04 22:26:49 +1000  
+date: 2022-02-05 08:03:24 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |     14 |      1 |    -51   | 0.07 | -0.36 |
-| Last 6 Months  |    115 |     24 |   1715.5 | 0.21 |  1.49 |
-| Since Jan 2020 |    238 |     41 |   3655.5 | 0.17 |  1.54 |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
+| Last 28 Days   |     16 |      1 |    -71   | 0.06 | -0.44 |
+| Last 6 Months  |    117 |     24 |   1695.5 | 0.21 |  1.45 |
+| Since Jan 2020 |    240 |     41 |   3635.5 | 0.17 |  1.51 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 00:55             | 2022-02-05 | chepstow R2                   | 3 El Diablo           |  51    |    -10   |
-| 00:20             | 2022-02-05 | chepstow R1                   | 7 Gris Majeur         |  13    |    -10   |
+| 17:25             | 2022-02-05 | randwick R9                   | 7 Soami               |  21    |    -10   |
+| 0                 | 2022-02-05 | chepstow R2                   | 3 El Diablo           |   0    |    -10   |
+| 0                 | 2022-02-05 | chepstow R1                   | 7 Gris Majeur         |   0    |    -10   |
 | 99                | 2022-01-30 | lingfield R7                  | 2 Igotatext           |   0    |    -10   |
 | 5                 | 2022-01-28 | southwell R4                  | 2 Aberama Gold        |  12    |    -10   |
 | :3rd_place_medal: | 2022-01-26 | leicester R3                  | 3 Autonomous Cloud    |  10    |    -10   |

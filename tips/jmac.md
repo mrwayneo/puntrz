@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-04 22:26:49 +1000  
+date: 2022-02-05 08:03:23 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,19 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      5 |      1 |    -50   | 0.2  | -1    |
-| Last 28 Days   |     33 |      6 |   -213   | 0.18 | -0.65 |
+| Last 28 Days   |     26 |      6 |   -143   | 0.23 | -0.55 |
 | Last 6 Months  |    275 |     72 |     97.5 | 0.26 |  0.04 |
 | Since Jan 2020 |    634 |    159 |   -258.5 | 0.25 | -0.04 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 18:00             | 2022-02-05 | randwick R10         | 9 No Compromise      |  9    |    -10   |
+| 17:25             | 2022-02-05 | randwick R9          | 9 El Buena           | 14    |    -10   |
+| 16:45             | 2022-02-05 | randwick R8          | 11 Ranch Hand        |  5.5  |    -10   |
+| 16:05             | 2022-02-05 | randwick R7          | 7 Joviality          |  3.3  |    -10   |
+| 14:45             | 2022-02-05 | randwick R5          | 4 Through Irish Eyes |  5    |    -10   |
+| 14:10             | 2022-02-05 | randwick R4          | 5 Emanate            | 11    |    -10   |
+| 12:25             | 2022-02-05 | randwick R1          | 5 Lady Laguna        |  2.9  |    -10   |
 | 6                 | 2022-02-02 | kensington R6        | 7 Rejoiced           |  0    |    -10   |
 | 5                 | 2022-02-02 | kensington R5        | 5 Rules Don't Apply  |  0    |    -10   |
 | 0                 | 2022-02-02 | kensington R3        | 4 Jawaani            |  0    |    -10   |

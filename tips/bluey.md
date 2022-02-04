@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-02-04 22:26:49 +1000  
+date: 2022-02-05 08:03:24 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 17:25             | 2022-02-05 | randwick R9            | 6 Broken Arrows       |  17   |      -10 |
+| 13:35             | 2022-02-05 | randwick R3            | 6 Jungle Book         |  20   |      -10 |
 | 8                 | 2022-02-02 | belmont R6             | 6 Man Of The Hour     |   0   |      -10 |
 | 8                 | 2022-01-29 | sunshine-coast R8      | 14 Star Of Michelin   |   0   |      -10 |
 | 6                 | 2022-01-27 | rockhampton R3         | 5 Fleetingly          |  26   |      -10 |
@@ -43,8 +45,8 @@ categories: None
 | 4                 | 2021-12-11 | ascot-park R7          | 2 Kilowatt            |  11   |      -10 |
 | 7                 | 2021-12-11 | ascot-park R5          | 7 The Ace             |  14   |      -10 |
 | 6                 | 2021-12-08 | warwick-farm R2        | 10 Compassionate      |  11   |      -10 |
-| 11                | 2021-12-04 | racing.com-park R6     | 2 Sircconi            |  41   |      -10 |
 | 7                 | 2021-12-04 | racing.com-park R6     | 7 Night Raid          |  11   |      -10 |
+| 11                | 2021-12-04 | racing.com-park R6     | 2 Sircconi            |  41   |      -10 |
 | 99                | 2021-12-04 | sandown R6             | 1 William Henry       |   0   |      -10 |
 | :boom:            | 2021-11-26 | cromwell R7            | 12 Hyspec             |  13   |      120 |
 | :boom:            | 2021-11-25 | northam R5             | 8 Winsalot            |  11.1 |      101 |
