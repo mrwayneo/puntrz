@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-02-04 10:16:09 +1000  
+date: 2022-02-04 19:27:28 +1000  
 categories: None 
 ---   
 
@@ -17,8 +17,8 @@ categories: None
 | 21:20             | 2022-02-04 | esperance-bay R8       | 5 Warzachantz        |   2.75 |    -10   |
 | 20:50             | 2022-02-04 | esperance-bay R7       | 5 Noble Reflection   |   4    |    -10   |
 | 20:08             | 2022-02-04 | esperance-bay R6       | 5 Translucent        |   6.5  |    -10   |
-| 19:08             | 2022-02-04 | esperance-bay R4       | 3 Shadow Shifter     |   4.4  |    -10   |
-| 14:24             | 2022-02-04 | cairns R1              | 1 Magnate            |   2.2  |    -10   |
+| 0                 | 2022-02-04 | esperance-bay R4       | 3 Shadow Shifter     |   0    |    -10   |
+| 0                 | 2022-02-04 | cairns R1              | 1 Magnate            |   0    |    -10   |
 | :boom:            | 2022-01-28 | townsville R8          | 6 Micawber           |  14.9  |    139   |
 | :boom:            | 2022-01-23 | haydock R3             | 6 Tommy's Oscar      |   1.57 |      5.7 |
 | :3rd_place_medal: | 2022-01-22 | esperance-bay R4       | 5 Noble Reflection   |   2.45 |    -10   |
