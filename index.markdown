@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-04 20:27:16 +1000  
+date: 2022-02-04 21:23:14 +1000  
 ---   
 
 
@@ -9,18 +9,18 @@ date: 2022-02-04 20:27:16 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 |    0 |    -1 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      2 |      0 |      -20 |    0 |    -1 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 |    0 |    -1 |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      5 |      0 |      -50 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      0 |      -80 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      9 |      0 |      -90 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     11 |      0 |     -110 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     33 |      0 |     -330 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     35 |      0 |     -350 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      3 |       64 | 0.38 |  0.8  |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      2 |       54 | 0.67 |  1.8  |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 | 0    | -1    |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      5 |      0 |      -50 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      9 |      0 |      -90 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     11 |      0 |     -110 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     35 |      1 |     -260 | 0.03 | -0.74 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     33 |      1 |     -289 | 0.03 | -0.88 |
 
 ##### Form Last 20 tips   
 
@@ -74,30 +74,30 @@ date: 2022-02-04 20:27:16 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6222 |    883 | -10981.2 | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7797 |    371 | -22767   | 0.05 | -0.29 |
 
-|    | finish   | time                | track          |   race |   number | name             |   odds | tipster            |
-|---:|:---------|:--------------------|:---------------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-02-05 05:15:00 | newcastle      |      5 |        4 | Tyrrhenian Sea   |   1.4  | milkman            |
-|  1 | :soon:   | 2022-02-05 03:35:00 | chepstow       |      7 |        2 | Rockinastorm     |   6.5  | vulture,milkman    |
-|  2 | :soon:   | 2022-02-05 03:35:00 | chepstow       |      7 |        3 | Etalon           |  17    | overthrow          |
-|  3 | :soon:   | 2022-02-05 03:35:00 | chepstow       |      7 |        4 | I Am Rocco       |   5    | overthrow          |
-|  4 | :soon:   | 2022-02-05 03:35:00 | chepstow       |      7 |        7 | Makin'yourmindup |  12    | overthrow          |
-|  5 | :soon:   | 2022-02-05 03:00:00 | chepstow       |      6 |       10 | Eaton Collina    |   6.5  | vulture            |
-|  6 | :soon:   | 2022-02-05 03:00:00 | chepstow       |      6 |        4 | Full Of Light    |   3.3  | evenodds,overthrow |
-|  7 | :soon:   | 2022-02-05 01:25:00 | chepstow       |      3 |        1 | Sail Away        |   7    | overthrow          |
-|  8 | :soon:   | 2022-02-05 01:25:00 | chepstow       |      3 |        8 | Burrows Park     |  17    | pangea             |
-|  9 | :soon:   | 2022-02-05 00:55:00 | chepstow       |      2 |        2 | Grange Road      |   3.2  | overthrow          |
-| 10 | :soon:   | 2022-02-05 00:40:00 | lingfield      |      1 |        1 | Always Fearless  |   2.5  | vulture            |
-| 11 | :soon:   | 2022-02-05 00:20:00 | chepstow       |      1 |        9 | River Legend     |  34    | overthrow          |
-| 12 | :soon:   | 2022-02-05 00:20:00 | chepstow       |      1 |       12 | Pepe Le Moko     |  15    | overthrow          |
-| 13 | :soon:   | 2022-02-04 21:20:00 | esperance-bay  |      8 |        5 | Warzachantz      |   2.75 | moechilli          |
-| 14 | :soon:   | 2022-02-04 20:50:00 | esperance-bay  |      7 |        5 | Noble Reflection |   4    | moechilli          |
-| 15 | :soon:   | 2022-02-04 20:30:00 | sunshine-coast |      4 |        2 | Brave Nick       |   4.2  | pangea,blackshadow |
-| 16 | :soon:   | 2022-02-04 20:08:00 | esperance-bay  |      6 |        5 | Translucent      |   6.5  | moechilli          |
-| 17 | :soon:   | 2022-02-04 19:15:00 | moonee-valley  |      3 |        3 | My Delight       |   5    | pangea             |
-| 18 | :soon:   | 2022-02-04 19:15:00 | moonee-valley  |      3 |        6 | Sacred Lass      |   7    | pangea             |
-| 19 | :soon:   | 2022-02-04 19:08:00 | esperance-bay  |      4 |        3 | Shadow Shifter   |   4.4  | moechilli          |
-| 20 | :soon:   | 2022-02-04 19:00:00 | sunshine-coast |      1 |        1 | Glock            |   5    | benny,pangea       |
-| 21 | :soon:   | 2022-02-04 17:50:00 | port-lincoln   |      6 |        1 | Midnight Brawler |   4.8  | benny,pangea       |
-| 22 | :soon:   | 2022-02-04 15:34:00 | cairns         |      3 |        2 | Eagle Eye Star   |   1.85 | overthrow          |
-| 23 | :soon:   | 2022-02-04 14:28:00 | port-lincoln   |      1 |        3 | Artful Ambition  |   2.62 | benny,pangea       |
-| 24 | :soon:   | 2022-02-04 14:24:00 | cairns         |      1 |        1 | Magnate          |   2.2  | vulture,moechilli  |
+|    | finish            | time                | track          |   race |   number | name             |   odds | tipster            |
+|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-----------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-02-05 05:15:00 | newcastle      |      5 |        4 | Tyrrhenian Sea   |   1.4  | milkman            |
+|  1 | :soon:            | 2022-02-05 03:35:00 | chepstow       |      7 |        2 | Rockinastorm     |   6.5  | vulture,milkman    |
+|  2 | :soon:            | 2022-02-05 03:35:00 | chepstow       |      7 |        3 | Etalon           |  17    | overthrow          |
+|  3 | :soon:            | 2022-02-05 03:35:00 | chepstow       |      7 |        4 | I Am Rocco       |   5    | overthrow          |
+|  4 | :soon:            | 2022-02-05 03:35:00 | chepstow       |      7 |        7 | Makin'yourmindup |  12    | overthrow          |
+|  5 | :soon:            | 2022-02-05 03:00:00 | chepstow       |      6 |       10 | Eaton Collina    |   6.5  | vulture            |
+|  6 | :soon:            | 2022-02-05 03:00:00 | chepstow       |      6 |        4 | Full Of Light    |   3.3  | evenodds,overthrow |
+|  7 | :soon:            | 2022-02-05 01:25:00 | chepstow       |      3 |        1 | Sail Away        |   7    | overthrow          |
+|  8 | :soon:            | 2022-02-05 01:25:00 | chepstow       |      3 |        8 | Burrows Park     |  17    | pangea             |
+|  9 | :soon:            | 2022-02-05 00:55:00 | chepstow       |      2 |        2 | Grange Road      |   3.2  | overthrow          |
+| 10 | :soon:            | 2022-02-05 00:40:00 | lingfield      |      1 |        1 | Always Fearless  |   2.5  | vulture            |
+| 11 | :soon:            | 2022-02-05 00:20:00 | chepstow       |      1 |        9 | River Legend     |  34    | overthrow          |
+| 12 | :soon:            | 2022-02-05 00:20:00 | chepstow       |      1 |       12 | Pepe Le Moko     |  15    | overthrow          |
+| 13 | --                | 2022-02-04 21:20:00 | esperance-bay  |      8 |        5 | Warzachantz      |   2.75 | moechilli          |
+| 14 | 6.0               | 2022-02-04 20:50:00 | esperance-bay  |      7 |        5 | Noble Reflection |   4    | moechilli          |
+| 15 | 4.0               | 2022-02-04 20:30:00 | sunshine-coast |      4 |        2 | Brave Nick       |   4.2  | pangea,blackshadow |
+| 16 | 8.0               | 2022-02-04 20:08:00 | esperance-bay  |      6 |        5 | Translucent      |   6.5  | moechilli          |
+| 17 | :3rd_place_medal: | 2022-02-04 19:15:00 | moonee-valley  |      3 |        3 | My Delight       |   5    | pangea             |
+| 18 | :boom:            | 2022-02-04 19:15:00 | moonee-valley  |      3 |        6 | Sacred Lass      |   7    | pangea             |
+| 19 | :3rd_place_medal: | 2022-02-04 19:08:00 | esperance-bay  |      4 |        3 | Shadow Shifter   |   4.4  | moechilli          |
+| 20 | :boom:            | 2022-02-04 19:00:00 | sunshine-coast |      1 |        1 | Glock            |   5    | benny,pangea       |
+| 21 | :boom:            | 2022-02-04 17:50:00 | port-lincoln   |      6 |        1 | Midnight Brawler |   4.8  | benny,pangea       |
+| 22 | :2nd_place_medal: | 2022-02-04 15:34:00 | cairns         |      3 |        2 | Eagle Eye Star   |   1.85 | overthrow          |
+| 23 | 4.0               | 2022-02-04 14:28:00 | port-lincoln   |      1 |        3 | Artful Ambition  |   2.62 | benny,pangea       |
+| 24 | :3rd_place_medal: | 2022-02-04 14:24:00 | cairns         |      1 |        1 | Magnate          |   2.2  | vulture,moechilli  |
