@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-02-05 23:11:24 +1000  
+date: 2022-02-06 06:36:44 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
-| Last 28 Days   |     14 |      0 |     -140 | 0    | -1    |
-| Last 6 Months  |     99 |     16 |     2249 | 0.16 |  2.27 |
-| Since Jan 2020 |    227 |     40 |     4576 | 0.18 |  2.02 |
+| Last 7 Days    |      3 |      0 |      -30 | 0    | -1    |
+| Last 28 Days   |     15 |      0 |     -150 | 0    | -1    |
+| Last 6 Months  |    101 |     16 |     2229 | 0.16 |  2.21 |
+| Since Jan 2020 |    229 |     40 |     4556 | 0.17 |  1.99 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
@@ -45,8 +45,8 @@ categories: None
 | 4                 | 2021-12-11 | ascot-park R7          | 2 Kilowatt            |  11   |      -10 |
 | 7                 | 2021-12-11 | ascot-park R5          | 7 The Ace             |  14   |      -10 |
 | 6                 | 2021-12-08 | warwick-farm R2        | 10 Compassionate      |  11   |      -10 |
-| 7                 | 2021-12-04 | racing.com-park R6     | 7 Night Raid          |  11   |      -10 |
 | 11                | 2021-12-04 | racing.com-park R6     | 2 Sircconi            |  41   |      -10 |
+| 7                 | 2021-12-04 | racing.com-park R6     | 7 Night Raid          |  11   |      -10 |
 | 99                | 2021-12-04 | sandown R6             | 1 William Henry       |   0   |      -10 |
 | :boom:            | 2021-11-26 | cromwell R7            | 12 Hyspec             |  13   |      120 |
 | :boom:            | 2021-11-25 | northam R5             | 8 Winsalot            |  11.1 |      101 |

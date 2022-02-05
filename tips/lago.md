@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-02-05 23:11:24 +1000  
+date: 2022-02-06 06:36:44 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      1 |    -20   | 0.5  | -1    |
-| Last 28 Days   |     15 |      5 |    -95.5 | 0.33 | -0.64 |
-| Last 6 Months  |    103 |     62 |    603.1 | 0.6  |  0.59 |
-| Since Jan 2020 |    199 |    102 |   1428.4 | 0.51 |  0.72 |
+| Last 7 Days    |      5 |      2 |    -32.7 | 0.4  | -0.65 |
+| Last 28 Days   |     18 |      6 |   -108.2 | 0.33 | -0.6  |
+| Last 6 Months  |    106 |     63 |    590.4 | 0.59 |  0.56 |
+| Since Jan 2020 |    202 |    103 |   1415.7 | 0.51 |  0.7  |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 03:25             | 2022-02-06 | leopardstown R7        | 5 Facile Vega        |  4.2  |    -10   |
-| 03:25             | 2022-02-06 | leopardstown R7        | 4 Embassy Gardens    | 23    |    -10   |
-| 00:05             | 2022-02-06 | leopardstown R1        | 1 Bronn              |  7    |    -10   |
+| :boom:            | 2022-02-06 | leopardstown R7        | 5 Facile Vega        |  1.73 |      7.3 |
+| 0                 | 2022-02-06 | leopardstown R7        | 4 Embassy Gardens    |  0    |    -10   |
+| 0                 | 2022-02-06 | leopardstown R1        | 1 Bronn              |  0    |    -10   |
 | :boom:            | 2022-02-02 | sandown-lakeside R1    | 7 Ruthless Dame      |  0    |    -10   |
 | :2nd_place_medal: | 2022-02-02 | ffos-las R7            | 7 Tahmuras           |  0    |    -10   |
 | :boom:            | 2022-01-31 | naas R6                | 17 The Nice Guy      |  0    |    -10   |
@@ -132,8 +132,8 @@ categories: None
 | 99                | 2021-06-19 | royal-ascot R1         | 3 New Science        |  7.5  |    -10   |
 | 99                | 2021-06-19 | royal-ascot R3         | 21 Suesa             |  3.25 |    -10   |
 | 99                | 2021-06-17 | royal-ascot R1         | 9 Lucci              |  8    |    -10   |
-| 99                | 2021-06-17 | royal-ascot R6         | 26 Golden Bell       |  9    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R6         | 28 Ruthin            |  4    |    -10   |
+| 99                | 2021-06-17 | royal-ascot R6         | 26 Golden Bell       |  9    |    -10   |
 | 5                 | 2021-06-12 | sandown-hillside R1    | 1 Mimosas            | 13.2  |    -10   |
 | :boom:            | 2021-06-12 | clonmel R8             | 2 Dani Barcelona     |  1.62 |      6.2 |
 | :boom:            | 2021-06-11 | sandown R3             | 8 Native Trail       |  1.8  |      8   |
@@ -185,8 +185,8 @@ categories: None
 | :2nd_place_medal: | 2021-02-27 | warwick R1             | 2 Heross Du Seuil    |  1.8  |    -10   |
 | :3rd_place_medal: | 2021-02-23 | southwell R3           | 4 Ballingers Corner  |  4.4  |    -10   |
 | :3rd_place_medal: | 2021-02-09 | fairyhouse R4          | 2 Gauloise           |  3.75 |    -10   |
-| :3rd_place_medal: | 2021-02-08 | leopardstown R8        | 6 Brandy Love        |  2.1  |    -10   |
 | 99                | 2021-02-08 | leopardstown R8        | 1 Brooklynn Glory    |  6    |    -10   |
+| :3rd_place_medal: | 2021-02-08 | leopardstown R8        | 6 Brandy Love        |  2.1  |    -10   |
 | :3rd_place_medal: | 2021-02-05 | townsville R1          | 1 Attackabeel        |  1.4  |    -10   |
 | :2nd_place_medal: | 2021-02-04 | wincanton R1           | 7 Fable              |  3.75 |    -10   |
 | :boom:            | 2021-01-20 | newbury R1             | 6 Gallyhill          |  1.34 |      3.4 |

@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-02-05 22:54:04 +1000  
+date: 2022-02-06 06:36:40 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
-| Last 28 Days   |     12 |      2 |     44.7 | 0.17 |  0.37 |
-| Last 6 Months  |     53 |     12 |    192.2 | 0.23 |  0.36 |
-| Since Jan 2020 |    112 |     32 |    822.6 | 0.29 |  0.73 |
+| Last 7 Days    |      6 |      1 |    -36   | 0.17 | -0.6  |
+| Last 28 Days   |     13 |      3 |     58.7 | 0.23 |  0.45 |
+| Last 6 Months  |     54 |     13 |    206.2 | 0.24 |  0.38 |
+| Since Jan 2020 |    113 |     33 |    836.6 | 0.29 |  0.74 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 03:19             | 2022-02-06 | musselburgh R7         | 1 Myth Buster        |   2.8  |    -10   |
+| :boom:            | 2022-02-06 | musselburgh R7         | 1 Myth Buster        |   2.4  |     14   |
 | 0                 | 2022-02-04 | esperance-bay R8       | 5 Warzachantz        |   0    |    -10   |
 | 6                 | 2022-02-04 | esperance-bay R7       | 5 Noble Reflection   |   4    |    -10   |
 | 8                 | 2022-02-04 | esperance-bay R6       | 5 Translucent        |   6.5  |    -10   |
