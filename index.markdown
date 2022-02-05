@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-05 18:42:43 +1000  
+date: 2022-02-05 19:46:21 +1000  
 ---   
 
 
@@ -120,7 +120,7 @@ date: 2022-02-05 18:42:43 +1000
 | 37 | :soon:            | 2022-02-05 23:05:00 | turffontein         |      5 |        9 | Sweet Future       |   0    | milkman             |
 | 38 | :soon:            | 2022-02-05 23:05:00 | turffontein         |      5 |        5 | Master Archie      |   0    | vulture             |
 | 39 | :soon:            | 2022-02-05 22:05:00 | toowoomba           |      8 |        3 | Splasher           |   2.38 | vulture             |
-| 40 | :soon:            | 2022-02-05 19:10:00 | darwin              |      5 |        1 | Sweet Cheval       |   2.15 | pangea,icyhot       |
+| 40 | :3rd_place_medal: | 2022-02-05 19:10:00 | darwin              |      5 |        1 | Sweet Cheval       |   2.15 | pangea,icyhot       |
 | 41 | --                | 2022-02-05 18:02:00 | darwin              |      3 |        7 | Trebla             |   4.8  | pangea,overthrow    |
 | 42 | :3rd_place_medal: | 2022-02-05 18:00:00 | randwick            |     10 |        9 | No Compromise      |   9    | jmac                |
 | 43 | :2nd_place_medal: | 2022-02-05 18:00:00 | randwick            |     10 |       12 | Lackeen            |   4.2  | vulture             |
