@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-05 17:42:31 +1000  
+date: 2022-02-05 17:57:47 +1000  
 ---   
 
 
@@ -125,8 +125,8 @@ date: 2022-02-05 17:42:31 +1000
 | 42 | :soon:            | 2022-02-05 18:00:00 | randwick            |     10 |        9 | No Compromise      |   9    | jmac                |
 | 43 | :soon:            | 2022-02-05 18:00:00 | randwick            |     10 |       12 | Lackeen            |   4.2  | vulture             |
 | 44 | :soon:            | 2022-02-05 18:00:00 | randwick            |     10 |        4 | Frosty Rocks       |   6.5  | pangea              |
-| 45 | :soon:            | 2022-02-05 17:52:00 | morphettville-parks |      9 |        7 | Ambidazzle         |   6    | vulture,pangea      |
-| 46 | :soon:            | 2022-02-05 17:52:00 | morphettville-parks |      9 |        9 | Gogolf Guru        |  22    | looseknot           |
+| 45 | :3rd_place_medal: | 2022-02-05 17:52:00 | morphettville-parks |      9 |        7 | Ambidazzle         |   6    | vulture,pangea      |
+| 46 | --                | 2022-02-05 17:52:00 | morphettville-parks |      9 |        9 | Gogolf Guru        |  22    | looseknot           |
 | 47 | :2nd_place_medal: | 2022-02-05 17:27:00 | darwin              |      2 |        1 | Syncline           |   1.73 | evenodds,overthrow  |
 | 48 | :2nd_place_medal: | 2022-02-05 17:25:00 | randwick            |      9 |       13 | Silent Impact      |   2.7  | pangea,icyhot       |
 | 49 | 8.0               | 2022-02-05 17:25:00 | randwick            |      9 |        9 | El Buena           |  14    | jmac                |
