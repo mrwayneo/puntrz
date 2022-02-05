@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-02-06 08:08:10 +1000  
+date: 2022-02-06 09:24:46 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 14:55             | 2022-02-06 | launceston R6                 | 5 Wardell             |  6    |    -10   |
+| 13:45             | 2022-02-06 | launceston R4                 | 3 Needs Toasting      |  9.5  |    -10   |
 | 4                 | 2022-02-04 | sunshine-coast R4             | 2 Brave Nick          |  4.2  |    -10   |
 | :2nd_place_medal: | 2022-02-04 | cairns R1                     | 3 Ponderoso           |  2.8  |    -10   |
 | 0                 | 2022-02-03 | racing.com-park R5            | 4 Yulong Code         |  0    |    -10   |

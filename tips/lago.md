@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-02-06 08:08:16 +1000  
+date: 2022-02-06 09:24:52 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,10 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 03:40             | 2022-02-07 | leopardstown R8        | 14 Pink In The Park  |  2.1  |    -10   |
+| 03:40             | 2022-02-07 | leopardstown R8        | 5 Eabha Grace        |  9    |    -10   |
+| 17:15             | 2022-02-06 | sunshine-coast R6      | 6 Husson's Revenge   |  4.6  |    -10   |
+| 14:20             | 2022-02-06 | launceston R5          | 1 Bello Beau         |  1.83 |    -10   |
 | :boom:            | 2022-02-06 | leopardstown R7        | 5 Facile Vega        |  1.73 |      7.3 |
 | 0                 | 2022-02-06 | leopardstown R7        | 4 Embassy Gardens    |  0    |    -10   |
 | 0                 | 2022-02-06 | leopardstown R1        | 1 Bronn              |  0    |    -10   |

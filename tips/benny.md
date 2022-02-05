@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-02-06 08:08:07 +1000  
+date: 2022-02-06 09:24:54 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 21:20             | 2022-02-06 | pinjarra R10                  | 2 Son Son             |  4.6  |    -10   |
+| 13:45             | 2022-02-06 | launceston R4                 | 1 High Maintenance    |  7.5  |    -10   |
 | :2nd_place_medal: | 2022-02-05 | darwin R3                     | 3 Kaptan Apollo       | 11    |    -10   |
 | :3rd_place_medal: | 2022-02-05 | randwick R9                   | 5 Rustic Steel        |  8.5  |    -10   |
 | :2nd_place_medal: | 2022-02-05 | doomben R5                    | 7 Osamu               |  4.4  |    -10   |

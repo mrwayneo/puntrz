@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2022-02-06 08:08:08 +1000  
+date: 2022-02-06 09:24:54 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,13 @@ categories: None
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
+| 03:40             | 2022-02-07 | leopardstown R8        | 14 Pink In The Park   |   2.1  |    -10   |
+| 03:40             | 2022-02-07 | leopardstown R8        | 5 Eabha Grace         |   9    |    -10   |
+| 00:20             | 2022-02-07 | leopardstown R2        | 7 Galopin Des Champs  |   1.5  |    -10   |
+| 17:15             | 2022-02-06 | sunshine-coast R6      | 6 Husson's Revenge    |   4.6  |    -10   |
+| 16:50             | 2022-02-06 | launceston R9          | 4 Warrior Prince      |   2.7  |    -10   |
+| 16:30             | 2022-02-06 | sunshine-coast R5      | 6 If You Can Dream    |   2.88 |    -10   |
+| 14:20             | 2022-02-06 | launceston R5          | 1 Bello Beau          |   1.83 |    -10   |
 | 0                 | 2022-02-06 | wetherby R6            | 3 Global Racing       |   0    |    -10   |
 | 0                 | 2022-02-06 | wetherby R6            | 1 Law Of Gold         |   0    |    -10   |
 | :boom:            | 2022-02-06 | wetherby R6            | 2 Dubai Quest         |   2.37 |     13.7 |
@@ -876,10 +883,10 @@ categories: None
 | 99                | 2021-05-01 | cheltenham R4          | 2 Garde Ville         |   3.5  |    -10   |
 | :3rd_place_medal: | 2021-05-01 | cheltenham R4          | 1 Fifty Shades        |   8    |    -10   |
 | :boom:            | 2021-05-01 | punchestown R5         | 4 Gaillard Du Mesnil  |   1.5  |      5   |
-| 99                | 2021-05-01 | cheltenham R2          | 7 Guttural            |  15.2  |    -10   |
 | 99                | 2021-05-01 | cheltenham R2          | 11 Ryans Fancy        |  34    |    -10   |
-| 99                | 2021-05-01 | cheltenham R2          | 1 Benefaktor          |   3    |    -10   |
+| 99                | 2021-05-01 | cheltenham R2          | 7 Guttural            |  15.2  |    -10   |
 | 99                | 2021-05-01 | cheltenham R2          | 9 Hotel Du Nord       |   5.5  |    -10   |
+| 99                | 2021-05-01 | cheltenham R2          | 1 Benefaktor          |   3    |    -10   |
 | 99                | 2021-05-01 | goodwood R6            | 4 Freak Out           |   6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-30 | sunshine-coast R5      | 7 Aleysa's Dream      |   6.6  |    -10   |
 | :boom:            | 2021-04-30 | punchestown R8         | 3 Dysart Dynamo       |   2.25 |     12.5 |
@@ -1027,9 +1034,9 @@ categories: None
 | :boom:            | 2021-03-15 | warwick R2             | 1 Calico              |   1.3  |      3   |
 | 6                 | 2021-03-14 | sunshine-coast R6      | 1 Bombay Rocket       |   5    |    -10   |
 | 99                | 2021-03-14 | hereford R5            | 5 Undisputed          |   6.5  |    -10   |
+| 99                | 2021-03-14 | sandown R5             | 4 No Getaway          |   7.5  |    -10   |
 | :3rd_place_medal: | 2021-03-14 | sandown R5             | 3 Lust For Glory      |  15    |    -10   |
 | 99                | 2021-03-14 | sandown R5             | 1 Stratagem           |  23    |    -10   |
-| 99                | 2021-03-14 | sandown R5             | 4 No Getaway          |   7.5  |    -10   |
 | 99                | 2021-03-14 | sandown R4             | 9 Precious            |  26    |    -10   |
 | 99                | 2021-03-14 | sandown R4             | 5 Dazzling Glory      |  31    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | sandown R4             | 18 Tweed Skirt        |   7.5  |    -10   |

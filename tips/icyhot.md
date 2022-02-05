@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-02-06 08:08:10 +1000  
+date: 2022-02-06 09:24:47 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
+| 19:45             | 2022-02-06 | pinjarra R7             | 5 Defending           | 31    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | lingfield R6            | 1 Good Effort         |  2.75 |    -10   |
 | :2nd_place_medal: | 2022-02-06 | sandown R2              | 4 Frero Banbou        |  4.6  |    -10   |
 | :3rd_place_medal: | 2022-02-05 | darwin R5               | 1 Sweet Cheval        |  2.15 |    -10   |
