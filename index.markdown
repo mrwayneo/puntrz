@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-05 15:25:31 +1000  
+date: 2022-02-05 15:42:20 +1000  
 ---   
 
 
@@ -9,10 +9,10 @@ date: 2022-02-05 15:25:31 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     30 |      5 |       29 | 0.17 |  0.1  |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      2 |      0 |      -20 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     30 |      4 |      -24 | 0.13 | -0.08 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)             |      3 |      0 |      -30 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |      -40 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      5 |      0 |      -50 | 0    | -1    |
@@ -138,9 +138,9 @@ date: 2022-02-05 15:25:31 +1000
 | 55 | :soon:            | 2022-02-05 16:45:00 | randwick            |      8 |       11 | Ranch Hand         |   5.5  | jmac                |
 | 56 | :soon:            | 2022-02-05 16:05:00 | randwick            |      7 |        7 | Joviality          |   3.3  | jmac                |
 | 57 | :soon:            | 2022-02-05 16:05:00 | randwick            |      7 |        9 | Score              |  12    | vulture             |
-| 58 | :soon:            | 2022-02-05 15:37:00 | doomben             |      5 |        7 | Osamu              |   4.4  | benny,pangea        |
-| 59 | :soon:            | 2022-02-05 15:29:00 | emerald             |      4 |        8 | Dark Archer        |   4.2  | vulture             |
-| 60 | --                | 2022-02-05 15:17:00 | morphettville-parks |      5 |        7 | Hidden Legend      |   3.8  | benny,pangea        |
+| 58 | --                | 2022-02-05 15:37:00 | doomben             |      5 |        7 | Osamu              |   4.4  | benny,pangea        |
+| 59 | :boom:            | 2022-02-05 15:29:00 | emerald             |      4 |        8 | Dark Archer        |   4.2  | vulture             |
+| 60 | 6.0               | 2022-02-05 15:17:00 | morphettville-parks |      5 |        7 | Hidden Legend      |   3.8  | benny,pangea        |
 | 61 | 7.0               | 2022-02-05 14:45:00 | randwick            |      5 |        3 | Mr Gee             |  13    | pangea              |
 | 62 | 5.0               | 2022-02-05 14:45:00 | randwick            |      5 |        4 | Through Irish Eyes |   5    | overthrow,jmac      |
 | 63 | --                | 2022-02-05 14:34:00 | gold-coast          |      3 |        5 | Mort Doyle         |   4.4  | looseknot           |
