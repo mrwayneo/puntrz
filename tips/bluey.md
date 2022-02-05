@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-02-05 16:12:31 +1000  
+date: 2022-02-05 16:27:39 +1000  
 categories: None 
 ---   
 
@@ -45,8 +45,8 @@ categories: None
 | 4                 | 2021-12-11 | ascot-park R7          | 2 Kilowatt            |  11   |      -10 |
 | 7                 | 2021-12-11 | ascot-park R5          | 7 The Ace             |  14   |      -10 |
 | 6                 | 2021-12-08 | warwick-farm R2        | 10 Compassionate      |  11   |      -10 |
-| 7                 | 2021-12-04 | racing.com-park R6     | 7 Night Raid          |  11   |      -10 |
 | 11                | 2021-12-04 | racing.com-park R6     | 2 Sircconi            |  41   |      -10 |
+| 7                 | 2021-12-04 | racing.com-park R6     | 7 Night Raid          |  11   |      -10 |
 | 99                | 2021-12-04 | sandown R6             | 1 William Henry       |   0   |      -10 |
 | :boom:            | 2021-11-26 | cromwell R7            | 12 Hyspec             |  13   |      120 |
 | :boom:            | 2021-11-25 | northam R5             | 8 Winsalot            |  11.1 |      101 |
