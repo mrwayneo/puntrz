@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-05 15:57:44 +1000  
+date: 2022-02-05 16:12:32 +1000  
 ---   
 
 
@@ -15,10 +15,10 @@ date: 2022-02-05 15:57:44 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)             |      3 |      0 |      -30 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |      -40 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      1 |      -45 | 0.14 | -0.64 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      5 |      0 |      -50 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      5 |      0 |      -50 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      7 |      0 |      -70 | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      0 |      -70 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |     19 |      0 |     -190 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     25 |      1 |     -193 | 0.04 | -0.77 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     23 |      1 |     -205 | 0.04 | -0.89 |
@@ -136,8 +136,8 @@ date: 2022-02-05 15:57:44 +1000
 | 53 | :soon:            | 2022-02-05 17:14:00 | gold-coast          |      7 |        2 | She's An Eagle     |   2.5  | overthrow           |
 | 54 | :soon:            | 2022-02-05 16:57:00 | doomben             |      7 |        5 | Palladas           |   2.35 | pangea              |
 | 55 | :soon:            | 2022-02-05 16:45:00 | randwick            |      8 |       11 | Ranch Hand         |   5.5  | jmac                |
-| 56 | :soon:            | 2022-02-05 16:05:00 | randwick            |      7 |        7 | Joviality          |   3.3  | jmac                |
-| 57 | :soon:            | 2022-02-05 16:05:00 | randwick            |      7 |        9 | Score              |  12    | vulture             |
+| 56 | :boom:            | 2022-02-05 16:05:00 | randwick            |      7 |        7 | Joviality          |   3.3  | jmac                |
+| 57 | --                | 2022-02-05 16:05:00 | randwick            |      7 |        9 | Score              |  12    | vulture             |
 | 58 | :2nd_place_medal: | 2022-02-05 15:37:00 | doomben             |      5 |        7 | Osamu              |   4.4  | benny,pangea        |
 | 59 | :boom:            | 2022-02-05 15:29:00 | emerald             |      4 |        8 | Dark Archer        |   4.2  | vulture             |
 | 60 | 6.0               | 2022-02-05 15:17:00 | morphettville-parks |      5 |        7 | Hidden Legend      |   3.8  | benny,pangea        |
@@ -164,7 +164,7 @@ date: 2022-02-05 15:57:44 +1000
 | 81 | :3rd_place_medal: | 2022-02-05 12:25:00 | randwick            |      1 |        3 | Spacewalk          |   5    | looseknot           |
 | 82 | :2nd_place_medal: | 2022-02-05 12:25:00 | randwick            |      1 |        5 | Lady Laguna        |   2.9  | vulture,jmac        |
 | 83 | --                | 2022-02-05 12:14:00 | pukekura-raceway    |      4 |        5 | Maven Belle        |   2.05 | vulture             |
-| 84 | --                | 2022-02-05 12:00:00 | wingatui            |      4 |        9 | Ataahua Pipedream  |  34    | vulture             |
+| 84 | 12.0              | 2022-02-05 12:00:00 | wingatui            |      4 |        9 | Ataahua Pipedream  |  34    | vulture             |
 | 85 | --                | 2022-02-05 11:40:00 | pukekura-raceway    |      3 |        7 | Highborn           |   5.5  | vulture             |
 | 86 | :3rd_place_medal: | 2022-02-05 10:50:00 | wingatui            |      2 |        7 | Harbourside        |   7    | benny,pangea        |
-| 87 | --                | 2022-02-05 10:30:00 | pukekura-raceway    |      1 |        3 | Lebanese Trader    |   6.5  | vulture             |
+| 87 | 5.0               | 2022-02-05 10:30:00 | pukekura-raceway    |      1 |        3 | Lebanese Trader    |   6.5  | vulture             |
