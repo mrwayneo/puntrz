@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-05 15:42:20 +1000  
+date: 2022-02-05 15:57:44 +1000  
 ---   
 
 
@@ -138,7 +138,7 @@ date: 2022-02-05 15:42:20 +1000
 | 55 | :soon:            | 2022-02-05 16:45:00 | randwick            |      8 |       11 | Ranch Hand         |   5.5  | jmac                |
 | 56 | :soon:            | 2022-02-05 16:05:00 | randwick            |      7 |        7 | Joviality          |   3.3  | jmac                |
 | 57 | :soon:            | 2022-02-05 16:05:00 | randwick            |      7 |        9 | Score              |  12    | vulture             |
-| 58 | --                | 2022-02-05 15:37:00 | doomben             |      5 |        7 | Osamu              |   4.4  | benny,pangea        |
+| 58 | :2nd_place_medal: | 2022-02-05 15:37:00 | doomben             |      5 |        7 | Osamu              |   4.4  | benny,pangea        |
 | 59 | :boom:            | 2022-02-05 15:29:00 | emerald             |      4 |        8 | Dark Archer        |   4.2  | vulture             |
 | 60 | 6.0               | 2022-02-05 15:17:00 | morphettville-parks |      5 |        7 | Hidden Legend      |   3.8  | benny,pangea        |
 | 61 | 7.0               | 2022-02-05 14:45:00 | randwick            |      5 |        3 | Mr Gee             |  13    | pangea              |
