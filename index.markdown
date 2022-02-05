@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-05 17:12:39 +1000  
+date: 2022-02-05 17:27:56 +1000  
 ---   
 
 
@@ -78,93 +78,93 @@ date: 2022-02-05 17:12:39 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6234 |    882 | -11119.2 | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7797 |    371 | -22813   | 0.05 | -0.29 |
 
-|    | finish            | time                | track               |   race |   number | name               |   odds | tipster             |
-|---:|:------------------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | :soon:            | 2022-02-06 04:55:00 | kempton             |      3 |        4 | Nahanni            |   1.8  | vulture             |
-|  1 | :soon:            | 2022-02-06 03:25:00 | leopardstown        |      7 |        6 | Itswhatunitesus    |   4.8  | milkman             |
-|  2 | :soon:            | 2022-02-06 03:25:00 | leopardstown        |      7 |        5 | Facile Vega        |   4.2  | overthrow,lago      |
-|  3 | :soon:            | 2022-02-06 03:25:00 | leopardstown        |      7 |        4 | Embassy Gardens    |  23    | overthrow,lago      |
-|  4 | :soon:            | 2022-02-06 03:25:00 | leopardstown        |      7 |        7 | Sandor Clegane     |   8.5  | milkman             |
-|  5 | :soon:            | 2022-02-06 03:19:00 | musselburgh         |      7 |        2 | Soldier Of Love    |   1.5  | overthrow           |
-|  6 | :soon:            | 2022-02-06 03:19:00 | musselburgh         |      7 |        1 | Myth Buster        |   2.8  | overthrow,moechilli |
-|  7 | :soon:            | 2022-02-06 03:10:00 | wetherby            |      7 |        2 | Don Hollow         |   6.5  | overthrow           |
-|  8 | :soon:            | 2022-02-06 03:05:00 | sandown             |      7 |        3 | Peejaybee          |   4    | milkman             |
-|  9 | :soon:            | 2022-02-06 02:50:00 | leopardstown        |      6 |        5 | Mt Leinster        |   3.3  | overthrow           |
-| 10 | :soon:            | 2022-02-06 02:38:00 | wetherby            |      6 |        2 | Dubai Quest        |   2.5  | evenodds,overthrow  |
-| 11 | :soon:            | 2022-02-06 02:38:00 | wetherby            |      6 |        3 | Global Racing      |  41    | evenodds,overthrow  |
-| 12 | :soon:            | 2022-02-06 02:38:00 | wetherby            |      6 |        1 | Law Of Gold        |   2.9  | evenodds,milkman    |
-| 13 | :soon:            | 2022-02-06 02:30:00 | sandown             |      6 |        3 | Kapcorse           |   8    | overthrow           |
-| 14 | :soon:            | 2022-02-06 02:25:00 | lingfield           |      5 |        1 | Al Zaraqaan        |   2.8  | pangea              |
-| 15 | :soon:            | 2022-02-06 02:15:00 | leopardstown        |      5 |        7 | Kemboy             |   4    | overthrow           |
-| 16 | :soon:            | 2022-02-06 01:55:00 | sandown             |      5 |        5 | Orbys Legend       |  12    | milkman             |
-| 17 | :soon:            | 2022-02-06 01:30:00 | wetherby            |      4 |        2 | Ashtown Lad        |  11    | overthrow           |
-| 18 | :soon:            | 2022-02-06 01:25:00 | turffontein         |      9 |        6 | Shangani           |   0    | pangea              |
-| 19 | :soon:            | 2022-02-06 01:20:00 | sandown             |      4 |        3 | L'Homme Presse     |   1.75 | milkman             |
-| 20 | :soon:            | 2022-02-06 01:20:00 | sandown             |      4 |        5 | Pic D'Orhy         |   3    | overthrow           |
-| 21 | :soon:            | 2022-02-06 01:20:00 | sandown             |      4 |        4 | Mister Coffey      |   9.5  | overthrow           |
-| 22 | :soon:            | 2022-02-06 01:20:00 | sandown             |      4 |        2 | Gladiateur Allen   |  26    | overthrow           |
-| 23 | :soon:            | 2022-02-06 01:16:00 | lingfield           |      3 |        3 | Ask Peter          |   9    | looseknot           |
-| 24 | :soon:            | 2022-02-06 01:10:00 | leopardstown        |      3 |        1 | Blue Lord          |   5    | evenodds,overthrow  |
-| 25 | :soon:            | 2022-02-06 00:35:00 | leopardstown        |      2 |        6 | Vauban             |  15    | evenodds,overthrow  |
-| 26 | :soon:            | 2022-02-06 00:29:00 | musselburgh         |      2 |        2 | Lyrical Genius     |  11    | milkman             |
-| 27 | :soon:            | 2022-02-06 00:22:00 | wetherby            |      2 |        3 | No Getaway         |   6    | overthrow           |
-| 28 | :soon:            | 2022-02-06 00:20:00 | turffontein         |      7 |        2 | Aragosta           |   0    | pangea,milkman      |
-| 29 | :soon:            | 2022-02-06 00:20:00 | turffontein         |      7 |       11 | Supreme Warrior    |   0    | milkman             |
-| 30 | :soon:            | 2022-02-06 00:15:00 | sandown             |      2 |        4 | Frero Banbou       |   4.6  | pangea,icyhot       |
-| 31 | :soon:            | 2022-02-06 00:15:00 | sandown             |      2 |        3 | Dolos              |   7    | overthrow           |
-| 32 | :soon:            | 2022-02-06 00:05:00 | leopardstown        |      1 |        7 | Minella Crooner    |   5.5  | pangea              |
-| 33 | :soon:            | 2022-02-06 00:05:00 | leopardstown        |      1 |        5 | Hollow Games       |   3.5  | milkman             |
-| 34 | :soon:            | 2022-02-06 00:05:00 | leopardstown        |      1 |        1 | Bronn              |   7    | evenodds,lago       |
-| 35 | :soon:            | 2022-02-05 23:50:00 | wetherby            |      1 |        2 | Our Jet            |   1.8  | overthrow           |
-| 36 | :soon:            | 2022-02-05 23:40:00 | sandown             |      1 |        4 | Balkeo             |   3    | overthrow           |
-| 37 | :soon:            | 2022-02-05 23:05:00 | turffontein         |      5 |        9 | Sweet Future       |   0    | milkman             |
-| 38 | :soon:            | 2022-02-05 23:05:00 | turffontein         |      5 |        5 | Master Archie      |   0    | vulture             |
-| 39 | :soon:            | 2022-02-05 22:05:00 | toowoomba           |      8 |        3 | Splasher           |   2.38 | vulture             |
-| 40 | :soon:            | 2022-02-05 19:10:00 | darwin              |      5 |        1 | Sweet Cheval       |   2.15 | pangea,icyhot       |
-| 41 | :soon:            | 2022-02-05 18:02:00 | darwin              |      3 |        7 | Trebla             |   4.8  | pangea,overthrow    |
-| 42 | :soon:            | 2022-02-05 18:00:00 | randwick            |     10 |        9 | No Compromise      |   9    | jmac                |
-| 43 | :soon:            | 2022-02-05 18:00:00 | randwick            |     10 |       12 | Lackeen            |   4.2  | vulture             |
-| 44 | :soon:            | 2022-02-05 18:00:00 | randwick            |     10 |        4 | Frosty Rocks       |   6.5  | pangea              |
-| 45 | :soon:            | 2022-02-05 17:52:00 | morphettville-parks |      9 |        7 | Ambidazzle         |   6    | vulture,pangea      |
-| 46 | :soon:            | 2022-02-05 17:52:00 | morphettville-parks |      9 |        9 | Gogolf Guru        |  22    | looseknot           |
-| 47 | :soon:            | 2022-02-05 17:27:00 | darwin              |      2 |        1 | Syncline           |   1.73 | evenodds,overthrow  |
-| 48 | :soon:            | 2022-02-05 17:25:00 | randwick            |      9 |       13 | Silent Impact      |   2.7  | pangea,icyhot       |
-| 49 | :soon:            | 2022-02-05 17:25:00 | randwick            |      9 |        9 | El Buena           |  14    | jmac                |
-| 50 | :soon:            | 2022-02-05 17:25:00 | randwick            |      9 |        6 | Broken Arrows      |  17    | cosmo,bluey         |
-| 51 | :soon:            | 2022-02-05 17:25:00 | randwick            |      9 |        5 | Rustic Steel       |   8.5  | benny,milkman       |
-| 52 | :soon:            | 2022-02-05 17:17:00 | morphettville-parks |      8 |       10 | Hills              |   6.5  | pangea              |
-| 53 | :soon:            | 2022-02-05 17:14:00 | gold-coast          |      7 |        2 | She's An Eagle     |   2.5  | overthrow           |
-| 54 | :3rd_place_medal: | 2022-02-05 16:57:00 | doomben             |      7 |        5 | Palladas           |   2.35 | pangea              |
-| 55 | :2nd_place_medal: | 2022-02-05 16:45:00 | randwick            |      8 |       11 | Ranch Hand         |   5.5  | jmac                |
-| 56 | :boom:            | 2022-02-05 16:05:00 | randwick            |      7 |        7 | Joviality          |   3.3  | jmac                |
-| 57 | --                | 2022-02-05 16:05:00 | randwick            |      7 |        9 | Score              |  12    | vulture             |
-| 58 | :2nd_place_medal: | 2022-02-05 15:37:00 | doomben             |      5 |        7 | Osamu              |   4.4  | benny,pangea        |
-| 59 | :boom:            | 2022-02-05 15:29:00 | emerald             |      4 |        8 | Dark Archer        |   4.2  | vulture             |
-| 60 | 6.0               | 2022-02-05 15:17:00 | morphettville-parks |      5 |        7 | Hidden Legend      |   3.8  | benny,pangea        |
-| 61 | 7.0               | 2022-02-05 14:45:00 | randwick            |      5 |        3 | Mr Gee             |  13    | pangea              |
-| 62 | 5.0               | 2022-02-05 14:45:00 | randwick            |      5 |        4 | Through Irish Eyes |   5    | overthrow,jmac      |
-| 63 | --                | 2022-02-05 14:34:00 | gold-coast          |      3 |        5 | Mort Doyle         |   4.4  | looseknot           |
-| 64 | 9.0               | 2022-02-05 14:25:00 | caulfield           |      4 |        9 | Mrs Patmore        |   8    | vulture             |
-| 65 | --                | 2022-02-05 14:18:00 | doomben             |      3 |        1 | Axe                |   4.75 | pangea              |
-| 66 | 6.0               | 2022-02-05 14:14:00 | emerald             |      2 |        3 | American Genius    |  10    | vulture             |
-| 67 | :3rd_place_medal: | 2022-02-05 14:10:00 | randwick            |      4 |        4 | Mossman Gorge      |  17    | pangea              |
-| 68 | 4.0               | 2022-02-05 14:10:00 | randwick            |      4 |        5 | Emanate            |  11    | jmac                |
-| 69 | 7.0               | 2022-02-05 14:10:00 | randwick            |      4 |        2 | Wisdom Of Water    |   6.5  | vulture             |
-| 70 | :boom:            | 2022-02-05 14:10:00 | randwick            |      4 |        6 | Shadow Crush       |   5.5  | vulture             |
-| 71 | 5.0               | 2022-02-05 14:10:00 | randwick            |      4 |        1 | Malkovich          |   3.4  | vulture,pangea      |
-| 72 | 5.0               | 2022-02-05 14:02:00 | morphettville-parks |      3 |        1 | In The Navy        |   1.8  | vulture,milkman     |
-| 73 | :boom:            | 2022-02-05 13:43:00 | doomben             |      2 |        4 | Sayl               |   7    | vulture             |
-| 74 | --                | 2022-02-05 13:35:00 | randwick            |      3 |        6 | Jungle Book        |  20    | cosmo,bluey         |
-| 75 | :boom:            | 2022-02-05 13:20:00 | newcastle           |      1 |        6 | Forever You        |   1.2  | vulture             |
-| 76 | 5.0               | 2022-02-05 13:08:00 | doomben             |      1 |        8 | Wild Botanica      |   7    | vulture             |
-| 77 | 7.0               | 2022-02-05 12:52:00 | morphettville-parks |      1 |        7 | Does It            |  21    | pangea              |
-| 78 | :boom:            | 2022-02-05 12:52:00 | morphettville-parks |      1 |        4 | Night Passage      |   4    | vulture,pangea      |
-| 79 | 5.0               | 2022-02-05 12:40:00 | caulfield           |      1 |        3 | Mingora            |  16    | vulture,milkman     |
-| 80 | 7.0               | 2022-02-05 12:25:00 | randwick            |      1 |        9 | Plymstock          |   4.6  | icyhot              |
-| 81 | :3rd_place_medal: | 2022-02-05 12:25:00 | randwick            |      1 |        3 | Spacewalk          |   5    | looseknot           |
-| 82 | :2nd_place_medal: | 2022-02-05 12:25:00 | randwick            |      1 |        5 | Lady Laguna        |   2.9  | vulture,jmac        |
-| 83 | --                | 2022-02-05 12:14:00 | pukekura-raceway    |      4 |        5 | Maven Belle        |   2.05 | vulture             |
-| 84 | 12.0              | 2022-02-05 12:00:00 | wingatui            |      4 |        9 | Ataahua Pipedream  |  34    | vulture             |
-| 85 | --                | 2022-02-05 11:40:00 | pukekura-raceway    |      3 |        7 | Highborn           |   5.5  | vulture             |
-| 86 | :3rd_place_medal: | 2022-02-05 10:50:00 | wingatui            |      2 |        7 | Harbourside        |   7    | benny,pangea        |
-| 87 | 5.0               | 2022-02-05 10:30:00 | pukekura-raceway    |      1 |        3 | Lebanese Trader    |   6.5  | vulture             |
+|    | finish                   | time                | track               |   race |   number | name               |   odds | tipster             |
+|---:|:-------------------------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:--------------------|
+|  0 | :soon:                   | 2022-02-06 04:55:00 | kempton             |      3 |        4 | Nahanni            |   1.8  | vulture             |
+|  1 | :soon:                   | 2022-02-06 03:25:00 | leopardstown        |      7 |        6 | Itswhatunitesus    |   4.8  | milkman             |
+|  2 | :soon:                   | 2022-02-06 03:25:00 | leopardstown        |      7 |        5 | Facile Vega        |   4.2  | overthrow,lago      |
+|  3 | :soon:                   | 2022-02-06 03:25:00 | leopardstown        |      7 |        4 | Embassy Gardens    |  23    | overthrow,lago      |
+|  4 | :soon:                   | 2022-02-06 03:25:00 | leopardstown        |      7 |        7 | Sandor Clegane     |   8.5  | milkman             |
+|  5 | :soon:                   | 2022-02-06 03:19:00 | musselburgh         |      7 |        2 | Soldier Of Love    |   1.5  | overthrow           |
+|  6 | :soon:                   | 2022-02-06 03:19:00 | musselburgh         |      7 |        1 | Myth Buster        |   2.8  | overthrow,moechilli |
+|  7 | :soon:                   | 2022-02-06 03:10:00 | wetherby            |      7 |        2 | Don Hollow         |   6.5  | overthrow           |
+|  8 | :soon:                   | 2022-02-06 03:05:00 | sandown             |      7 |        3 | Peejaybee          |   4    | milkman             |
+|  9 | :soon:                   | 2022-02-06 02:50:00 | leopardstown        |      6 |        5 | Mt Leinster        |   3.3  | overthrow           |
+| 10 | :soon:                   | 2022-02-06 02:38:00 | wetherby            |      6 |        2 | Dubai Quest        |   2.5  | evenodds,overthrow  |
+| 11 | :soon:                   | 2022-02-06 02:38:00 | wetherby            |      6 |        3 | Global Racing      |  41    | evenodds,overthrow  |
+| 12 | :soon:                   | 2022-02-06 02:38:00 | wetherby            |      6 |        1 | Law Of Gold        |   2.9  | evenodds,milkman    |
+| 13 | :soon:                   | 2022-02-06 02:30:00 | sandown             |      6 |        3 | Kapcorse           |   8    | overthrow           |
+| 14 | :soon:                   | 2022-02-06 02:25:00 | lingfield           |      5 |        1 | Al Zaraqaan        |   2.8  | pangea              |
+| 15 | :soon:                   | 2022-02-06 02:15:00 | leopardstown        |      5 |        7 | Kemboy             |   4    | overthrow           |
+| 16 | :soon:                   | 2022-02-06 01:55:00 | sandown             |      5 |        5 | Orbys Legend       |  12    | milkman             |
+| 17 | :soon:                   | 2022-02-06 01:30:00 | wetherby            |      4 |        2 | Ashtown Lad        |  11    | overthrow           |
+| 18 | :soon:                   | 2022-02-06 01:25:00 | turffontein         |      9 |        6 | Shangani           |   0    | pangea              |
+| 19 | :soon:                   | 2022-02-06 01:20:00 | sandown             |      4 |        3 | L'Homme Presse     |   1.75 | milkman             |
+| 20 | :soon:                   | 2022-02-06 01:20:00 | sandown             |      4 |        5 | Pic D'Orhy         |   3    | overthrow           |
+| 21 | :soon:                   | 2022-02-06 01:20:00 | sandown             |      4 |        4 | Mister Coffey      |   9.5  | overthrow           |
+| 22 | :soon:                   | 2022-02-06 01:20:00 | sandown             |      4 |        2 | Gladiateur Allen   |  26    | overthrow           |
+| 23 | :soon:                   | 2022-02-06 01:16:00 | lingfield           |      3 |        3 | Ask Peter          |   9    | looseknot           |
+| 24 | :soon:                   | 2022-02-06 01:10:00 | leopardstown        |      3 |        1 | Blue Lord          |   5    | evenodds,overthrow  |
+| 25 | :soon:                   | 2022-02-06 00:35:00 | leopardstown        |      2 |        6 | Vauban             |  15    | evenodds,overthrow  |
+| 26 | :soon:                   | 2022-02-06 00:29:00 | musselburgh         |      2 |        2 | Lyrical Genius     |  11    | milkman             |
+| 27 | :soon:                   | 2022-02-06 00:22:00 | wetherby            |      2 |        3 | No Getaway         |   6    | overthrow           |
+| 28 | :soon:                   | 2022-02-06 00:20:00 | turffontein         |      7 |        2 | Aragosta           |   0    | pangea,milkman      |
+| 29 | :soon:                   | 2022-02-06 00:20:00 | turffontein         |      7 |       11 | Supreme Warrior    |   0    | milkman             |
+| 30 | :soon:                   | 2022-02-06 00:15:00 | sandown             |      2 |        4 | Frero Banbou       |   4.6  | pangea,icyhot       |
+| 31 | :soon:                   | 2022-02-06 00:15:00 | sandown             |      2 |        3 | Dolos              |   7    | overthrow           |
+| 32 | :soon:                   | 2022-02-06 00:05:00 | leopardstown        |      1 |        7 | Minella Crooner    |   5.5  | pangea              |
+| 33 | :soon:                   | 2022-02-06 00:05:00 | leopardstown        |      1 |        5 | Hollow Games       |   3.5  | milkman             |
+| 34 | :soon:                   | 2022-02-06 00:05:00 | leopardstown        |      1 |        1 | Bronn              |   7    | evenodds,lago       |
+| 35 | :soon:                   | 2022-02-05 23:50:00 | wetherby            |      1 |        2 | Our Jet            |   1.8  | overthrow           |
+| 36 | :soon:                   | 2022-02-05 23:40:00 | sandown             |      1 |        4 | Balkeo             |   3    | overthrow           |
+| 37 | :soon:                   | 2022-02-05 23:05:00 | turffontein         |      5 |        9 | Sweet Future       |   0    | milkman             |
+| 38 | :soon:                   | 2022-02-05 23:05:00 | turffontein         |      5 |        5 | Master Archie      |   0    | vulture             |
+| 39 | :soon:                   | 2022-02-05 22:05:00 | toowoomba           |      8 |        3 | Splasher           |   2.38 | vulture             |
+| 40 | :soon:                   | 2022-02-05 19:10:00 | darwin              |      5 |        1 | Sweet Cheval       |   2.15 | pangea,icyhot       |
+| 41 | :soon:                   | 2022-02-05 18:02:00 | darwin              |      3 |        7 | Trebla             |   4.8  | pangea,overthrow    |
+| 42 | :soon:                   | 2022-02-05 18:00:00 | randwick            |     10 |        9 | No Compromise      |   9    | jmac                |
+| 43 | :soon:                   | 2022-02-05 18:00:00 | randwick            |     10 |       12 | Lackeen            |   4.2  | vulture             |
+| 44 | :soon:                   | 2022-02-05 18:00:00 | randwick            |     10 |        4 | Frosty Rocks       |   6.5  | pangea              |
+| 45 | :soon:                   | 2022-02-05 17:52:00 | morphettville-parks |      9 |        7 | Ambidazzle         |   6    | vulture,pangea      |
+| 46 | :soon:                   | 2022-02-05 17:52:00 | morphettville-parks |      9 |        9 | Gogolf Guru        |  22    | looseknot           |
+| 47 | :hourglass_flowing_sand: | 2022-02-05 17:27:00 | darwin              |      2 |        1 | Syncline           |   1.73 | evenodds,overthrow  |
+| 48 | --                       | 2022-02-05 17:25:00 | randwick            |      9 |       13 | Silent Impact      |   2.7  | pangea,icyhot       |
+| 49 | --                       | 2022-02-05 17:25:00 | randwick            |      9 |        9 | El Buena           |  14    | jmac                |
+| 50 | --                       | 2022-02-05 17:25:00 | randwick            |      9 |        6 | Broken Arrows      |  17    | cosmo,bluey         |
+| 51 | --                       | 2022-02-05 17:25:00 | randwick            |      9 |        5 | Rustic Steel       |   8.5  | benny,milkman       |
+| 52 | :2nd_place_medal:        | 2022-02-05 17:17:00 | morphettville-parks |      8 |       10 | Hills              |   6.5  | pangea              |
+| 53 | --                       | 2022-02-05 17:14:00 | gold-coast          |      7 |        2 | She's An Eagle     |   2.5  | overthrow           |
+| 54 | :3rd_place_medal:        | 2022-02-05 16:57:00 | doomben             |      7 |        5 | Palladas           |   2.35 | pangea              |
+| 55 | :2nd_place_medal:        | 2022-02-05 16:45:00 | randwick            |      8 |       11 | Ranch Hand         |   5.5  | jmac                |
+| 56 | :boom:                   | 2022-02-05 16:05:00 | randwick            |      7 |        7 | Joviality          |   3.3  | jmac                |
+| 57 | --                       | 2022-02-05 16:05:00 | randwick            |      7 |        9 | Score              |  12    | vulture             |
+| 58 | :2nd_place_medal:        | 2022-02-05 15:37:00 | doomben             |      5 |        7 | Osamu              |   4.4  | benny,pangea        |
+| 59 | :boom:                   | 2022-02-05 15:29:00 | emerald             |      4 |        8 | Dark Archer        |   4.2  | vulture             |
+| 60 | 6.0                      | 2022-02-05 15:17:00 | morphettville-parks |      5 |        7 | Hidden Legend      |   3.8  | benny,pangea        |
+| 61 | 7.0                      | 2022-02-05 14:45:00 | randwick            |      5 |        3 | Mr Gee             |  13    | pangea              |
+| 62 | 5.0                      | 2022-02-05 14:45:00 | randwick            |      5 |        4 | Through Irish Eyes |   5    | overthrow,jmac      |
+| 63 | --                       | 2022-02-05 14:34:00 | gold-coast          |      3 |        5 | Mort Doyle         |   4.4  | looseknot           |
+| 64 | 9.0                      | 2022-02-05 14:25:00 | caulfield           |      4 |        9 | Mrs Patmore        |   8    | vulture             |
+| 65 | --                       | 2022-02-05 14:18:00 | doomben             |      3 |        1 | Axe                |   4.75 | pangea              |
+| 66 | 6.0                      | 2022-02-05 14:14:00 | emerald             |      2 |        3 | American Genius    |  10    | vulture             |
+| 67 | :3rd_place_medal:        | 2022-02-05 14:10:00 | randwick            |      4 |        4 | Mossman Gorge      |  17    | pangea              |
+| 68 | 4.0                      | 2022-02-05 14:10:00 | randwick            |      4 |        5 | Emanate            |  11    | jmac                |
+| 69 | 7.0                      | 2022-02-05 14:10:00 | randwick            |      4 |        2 | Wisdom Of Water    |   6.5  | vulture             |
+| 70 | :boom:                   | 2022-02-05 14:10:00 | randwick            |      4 |        6 | Shadow Crush       |   5.5  | vulture             |
+| 71 | 5.0                      | 2022-02-05 14:10:00 | randwick            |      4 |        1 | Malkovich          |   3.4  | vulture,pangea      |
+| 72 | 5.0                      | 2022-02-05 14:02:00 | morphettville-parks |      3 |        1 | In The Navy        |   1.8  | vulture,milkman     |
+| 73 | :boom:                   | 2022-02-05 13:43:00 | doomben             |      2 |        4 | Sayl               |   7    | vulture             |
+| 74 | --                       | 2022-02-05 13:35:00 | randwick            |      3 |        6 | Jungle Book        |  20    | cosmo,bluey         |
+| 75 | :boom:                   | 2022-02-05 13:20:00 | newcastle           |      1 |        6 | Forever You        |   1.2  | vulture             |
+| 76 | 5.0                      | 2022-02-05 13:08:00 | doomben             |      1 |        8 | Wild Botanica      |   7    | vulture             |
+| 77 | 7.0                      | 2022-02-05 12:52:00 | morphettville-parks |      1 |        7 | Does It            |  21    | pangea              |
+| 78 | :boom:                   | 2022-02-05 12:52:00 | morphettville-parks |      1 |        4 | Night Passage      |   4    | vulture,pangea      |
+| 79 | 5.0                      | 2022-02-05 12:40:00 | caulfield           |      1 |        3 | Mingora            |  16    | vulture,milkman     |
+| 80 | 7.0                      | 2022-02-05 12:25:00 | randwick            |      1 |        9 | Plymstock          |   4.6  | icyhot              |
+| 81 | :3rd_place_medal:        | 2022-02-05 12:25:00 | randwick            |      1 |        3 | Spacewalk          |   5    | looseknot           |
+| 82 | :2nd_place_medal:        | 2022-02-05 12:25:00 | randwick            |      1 |        5 | Lady Laguna        |   2.9  | vulture,jmac        |
+| 83 | --                       | 2022-02-05 12:14:00 | pukekura-raceway    |      4 |        5 | Maven Belle        |   2.05 | vulture             |
+| 84 | 12.0                     | 2022-02-05 12:00:00 | wingatui            |      4 |        9 | Ataahua Pipedream  |  34    | vulture             |
+| 85 | --                       | 2022-02-05 11:40:00 | pukekura-raceway    |      3 |        7 | Highborn           |   5.5  | vulture             |
+| 86 | :3rd_place_medal:        | 2022-02-05 10:50:00 | wingatui            |      2 |        7 | Harbourside        |   7    | benny,pangea        |
+| 87 | 5.0                      | 2022-02-05 10:30:00 | pukekura-raceway    |      1 |        3 | Lebanese Trader    |   6.5  | vulture             |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-02-05 17:12:39 +1000  
+date: 2022-02-05 17:27:55 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 17:25             | 2022-02-05 | randwick R9                   | 7 Soami               |  21    |    -10   |
+| 0                 | 2022-02-05 | randwick R9                   | 7 Soami               |   0    |    -10   |
 | 0                 | 2022-02-05 | chepstow R2                   | 3 El Diablo           |   0    |    -10   |
 | 0                 | 2022-02-05 | chepstow R1                   | 7 Gris Majeur         |   0    |    -10   |
 | 99                | 2022-01-30 | lingfield R7                  | 2 Igotatext           |   0    |    -10   |
