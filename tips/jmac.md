@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-05 17:57:46 +1000  
+date: 2022-02-05 18:12:39 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 18:00             | 2022-02-05 | randwick R10         | 9 No Compromise      |  9    |    -10   |
+| :3rd_place_medal: | 2022-02-05 | randwick R10         | 9 No Compromise      |  9    |    -10   |
 | 8                 | 2022-02-05 | randwick R9          | 9 El Buena           | 14    |    -10   |
 | :2nd_place_medal: | 2022-02-05 | randwick R8          | 11 Ranch Hand        |  5.5  |    -10   |
 | :boom:            | 2022-02-05 | randwick R7          | 7 Joviality          |  2.5  |     15   |

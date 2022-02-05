@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-05 17:57:47 +1000  
+date: 2022-02-05 18:12:41 +1000  
 ---   
 
 
@@ -19,8 +19,8 @@ date: 2022-02-05 17:57:47 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      5 |      0 |      -50 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      5 |      0 |      -50 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      7 |      0 |      -70 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     25 |      2 |     -127 | 0.08 | -0.51 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |     19 |      0 |     -190 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     25 |      1 |     -193 | 0.04 | -0.77 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     23 |      1 |     -205 | 0.04 | -0.89 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     34 |      1 |     -230 | 0.03 | -0.68 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     27 |      0 |     -270 | 0    | -1    |
@@ -121,12 +121,12 @@ date: 2022-02-05 17:57:47 +1000
 | 38 | :soon:            | 2022-02-05 23:05:00 | turffontein         |      5 |        5 | Master Archie      |   0    | vulture             |
 | 39 | :soon:            | 2022-02-05 22:05:00 | toowoomba           |      8 |        3 | Splasher           |   2.38 | vulture             |
 | 40 | :soon:            | 2022-02-05 19:10:00 | darwin              |      5 |        1 | Sweet Cheval       |   2.15 | pangea,icyhot       |
-| 41 | :soon:            | 2022-02-05 18:02:00 | darwin              |      3 |        7 | Trebla             |   4.8  | pangea,overthrow    |
-| 42 | :soon:            | 2022-02-05 18:00:00 | randwick            |     10 |        9 | No Compromise      |   9    | jmac                |
-| 43 | :soon:            | 2022-02-05 18:00:00 | randwick            |     10 |       12 | Lackeen            |   4.2  | vulture             |
-| 44 | :soon:            | 2022-02-05 18:00:00 | randwick            |     10 |        4 | Frosty Rocks       |   6.5  | pangea              |
+| 41 | --                | 2022-02-05 18:02:00 | darwin              |      3 |        7 | Trebla             |   4.8  | pangea,overthrow    |
+| 42 | :3rd_place_medal: | 2022-02-05 18:00:00 | randwick            |     10 |        9 | No Compromise      |   9    | jmac                |
+| 43 | :2nd_place_medal: | 2022-02-05 18:00:00 | randwick            |     10 |       12 | Lackeen            |   4.2  | vulture             |
+| 44 | :boom:            | 2022-02-05 18:00:00 | randwick            |     10 |        4 | Frosty Rocks       |   6.5  | pangea              |
 | 45 | :3rd_place_medal: | 2022-02-05 17:52:00 | morphettville-parks |      9 |        7 | Ambidazzle         |   6    | vulture,pangea      |
-| 46 | --                | 2022-02-05 17:52:00 | morphettville-parks |      9 |        9 | Gogolf Guru        |  22    | looseknot           |
+| 46 | 6.0               | 2022-02-05 17:52:00 | morphettville-parks |      9 |        9 | Gogolf Guru        |  22    | looseknot           |
 | 47 | :2nd_place_medal: | 2022-02-05 17:27:00 | darwin              |      2 |        1 | Syncline           |   1.73 | evenodds,overthrow  |
 | 48 | :2nd_place_medal: | 2022-02-05 17:25:00 | randwick            |      9 |       13 | Silent Impact      |   2.7  | pangea,icyhot       |
 | 49 | 8.0               | 2022-02-05 17:25:00 | randwick            |      9 |        9 | El Buena           |  14    | jmac                |
