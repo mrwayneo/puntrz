@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-05 13:19:24 +1000  
+date: 2022-02-05 15:25:29 +1000  
 categories: None 
 ---   
 
@@ -19,8 +19,8 @@ categories: None
 | 17:25             | 2022-02-05 | randwick R9          | 9 El Buena           | 14    |    -10   |
 | 16:45             | 2022-02-05 | randwick R8          | 11 Ranch Hand        |  5.5  |    -10   |
 | 16:05             | 2022-02-05 | randwick R7          | 7 Joviality          |  3.3  |    -10   |
-| 14:45             | 2022-02-05 | randwick R5          | 4 Through Irish Eyes |  5    |    -10   |
-| 14:10             | 2022-02-05 | randwick R4          | 5 Emanate            | 11    |    -10   |
+| 5                 | 2022-02-05 | randwick R5          | 4 Through Irish Eyes |  5    |    -10   |
+| 4                 | 2022-02-05 | randwick R4          | 5 Emanate            | 11    |    -10   |
 | :2nd_place_medal: | 2022-02-05 | randwick R1          | 5 Lady Laguna        |  2.9  |    -10   |
 | 6                 | 2022-02-02 | kensington R6        | 7 Rejoiced           |  0    |    -10   |
 | 5                 | 2022-02-02 | kensington R5        | 5 Rules Don't Apply  |  0    |    -10   |

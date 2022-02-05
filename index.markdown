@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-05 13:19:26 +1000  
+date: 2022-02-05 15:25:31 +1000  
 ---   
 
 
@@ -12,6 +12,7 @@ date: 2022-02-05 13:19:26 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      2 |      0 |      -20 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     30 |      4 |      -24 | 0.13 | -0.08 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)             |      3 |      0 |      -30 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |      -40 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      5 |      0 |      -50 | 0    | -1    |
@@ -20,11 +21,10 @@ date: 2022-02-05 13:19:26 +1000
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      0 |      -70 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |     19 |      0 |     -190 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     25 |      1 |     -193 | 0.04 | -0.77 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     34 |      1 |     -205 | 0.03 | -0.6  |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     23 |      1 |     -205 | 0.04 | -0.89 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     30 |      1 |     -243 | 0.03 | -0.81 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     34 |      1 |     -230 | 0.03 | -0.68 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     27 |      0 |     -270 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     74 |      1 |     -605 | 0.01 | -0.82 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     74 |      1 |     -630 | 0.01 | -0.85 |
 
 ##### Form Last 20 tips   
 
@@ -140,23 +140,23 @@ date: 2022-02-05 13:19:26 +1000
 | 57 | :soon:            | 2022-02-05 16:05:00 | randwick            |      7 |        9 | Score              |  12    | vulture             |
 | 58 | :soon:            | 2022-02-05 15:37:00 | doomben             |      5 |        7 | Osamu              |   4.4  | benny,pangea        |
 | 59 | :soon:            | 2022-02-05 15:29:00 | emerald             |      4 |        8 | Dark Archer        |   4.2  | vulture             |
-| 60 | :soon:            | 2022-02-05 15:17:00 | morphettville-parks |      5 |        7 | Hidden Legend      |   3.8  | benny,pangea        |
-| 61 | :soon:            | 2022-02-05 14:45:00 | randwick            |      5 |        3 | Mr Gee             |  13    | pangea              |
-| 62 | :soon:            | 2022-02-05 14:45:00 | randwick            |      5 |        4 | Through Irish Eyes |   5    | overthrow,jmac      |
-| 63 | :soon:            | 2022-02-05 14:34:00 | gold-coast          |      3 |        5 | Mort Doyle         |   4.4  | looseknot           |
-| 64 | :soon:            | 2022-02-05 14:25:00 | caulfield           |      4 |        9 | Mrs Patmore        |   8    | vulture             |
-| 65 | :soon:            | 2022-02-05 14:18:00 | doomben             |      3 |        1 | Axe                |   4.75 | pangea              |
-| 66 | :soon:            | 2022-02-05 14:14:00 | emerald             |      2 |        3 | American Genius    |  10    | vulture             |
-| 67 | :soon:            | 2022-02-05 14:10:00 | randwick            |      4 |        4 | Mossman Gorge      |  17    | pangea              |
-| 68 | :soon:            | 2022-02-05 14:10:00 | randwick            |      4 |        5 | Emanate            |  11    | jmac                |
-| 69 | :soon:            | 2022-02-05 14:10:00 | randwick            |      4 |        2 | Wisdom Of Water    |   6.5  | vulture             |
-| 70 | :soon:            | 2022-02-05 14:10:00 | randwick            |      4 |        6 | Shadow Crush       |   5.5  | vulture             |
-| 71 | :soon:            | 2022-02-05 14:10:00 | randwick            |      4 |        1 | Malkovich          |   3.4  | vulture,pangea      |
-| 72 | :soon:            | 2022-02-05 14:02:00 | morphettville-parks |      3 |        1 | In The Navy        |   1.8  | vulture,milkman     |
-| 73 | :soon:            | 2022-02-05 13:43:00 | doomben             |      2 |        4 | Sayl               |   7    | vulture             |
-| 74 | :soon:            | 2022-02-05 13:35:00 | randwick            |      3 |        6 | Jungle Book        |  20    | cosmo,bluey         |
-| 75 | :soon:            | 2022-02-05 13:20:00 | newcastle           |      1 |        6 | Forever You        |   1.2  | vulture             |
-| 76 | --                | 2022-02-05 13:08:00 | doomben             |      1 |        8 | Wild Botanica      |   7    | vulture             |
+| 60 | --                | 2022-02-05 15:17:00 | morphettville-parks |      5 |        7 | Hidden Legend      |   3.8  | benny,pangea        |
+| 61 | 7.0               | 2022-02-05 14:45:00 | randwick            |      5 |        3 | Mr Gee             |  13    | pangea              |
+| 62 | 5.0               | 2022-02-05 14:45:00 | randwick            |      5 |        4 | Through Irish Eyes |   5    | overthrow,jmac      |
+| 63 | --                | 2022-02-05 14:34:00 | gold-coast          |      3 |        5 | Mort Doyle         |   4.4  | looseknot           |
+| 64 | 9.0               | 2022-02-05 14:25:00 | caulfield           |      4 |        9 | Mrs Patmore        |   8    | vulture             |
+| 65 | --                | 2022-02-05 14:18:00 | doomben             |      3 |        1 | Axe                |   4.75 | pangea              |
+| 66 | 6.0               | 2022-02-05 14:14:00 | emerald             |      2 |        3 | American Genius    |  10    | vulture             |
+| 67 | :3rd_place_medal: | 2022-02-05 14:10:00 | randwick            |      4 |        4 | Mossman Gorge      |  17    | pangea              |
+| 68 | 4.0               | 2022-02-05 14:10:00 | randwick            |      4 |        5 | Emanate            |  11    | jmac                |
+| 69 | 7.0               | 2022-02-05 14:10:00 | randwick            |      4 |        2 | Wisdom Of Water    |   6.5  | vulture             |
+| 70 | :boom:            | 2022-02-05 14:10:00 | randwick            |      4 |        6 | Shadow Crush       |   5.5  | vulture             |
+| 71 | 5.0               | 2022-02-05 14:10:00 | randwick            |      4 |        1 | Malkovich          |   3.4  | vulture,pangea      |
+| 72 | 5.0               | 2022-02-05 14:02:00 | morphettville-parks |      3 |        1 | In The Navy        |   1.8  | vulture,milkman     |
+| 73 | :boom:            | 2022-02-05 13:43:00 | doomben             |      2 |        4 | Sayl               |   7    | vulture             |
+| 74 | --                | 2022-02-05 13:35:00 | randwick            |      3 |        6 | Jungle Book        |  20    | cosmo,bluey         |
+| 75 | :boom:            | 2022-02-05 13:20:00 | newcastle           |      1 |        6 | Forever You        |   1.2  | vulture             |
+| 76 | 5.0               | 2022-02-05 13:08:00 | doomben             |      1 |        8 | Wild Botanica      |   7    | vulture             |
 | 77 | 7.0               | 2022-02-05 12:52:00 | morphettville-parks |      1 |        7 | Does It            |  21    | pangea              |
 | 78 | :boom:            | 2022-02-05 12:52:00 | morphettville-parks |      1 |        4 | Night Passage      |   4    | vulture,pangea      |
 | 79 | 5.0               | 2022-02-05 12:40:00 | caulfield           |      1 |        3 | Mingora            |  16    | vulture,milkman     |
