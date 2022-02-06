@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-06 19:40:08 +1000  
+date: 2022-02-06 19:55:41 +1000  
 ---   
 
 
@@ -97,9 +97,9 @@ date: 2022-02-06 19:40:08 +1000
 | 17 | :soon:            | 2022-02-06 21:20:00 | pinjarra       |     10 |        2 | Son Son            |   4.6  | benny,pangea       |
 | 18 | :soon:            | 2022-02-06 20:50:00 | pinjarra       |      9 |        6 | Beret              |   4.4  | vulture,pangea     |
 | 19 | :soon:            | 2022-02-06 20:50:00 | pinjarra       |      9 |        7 | Proconsent         |   4    | pangea             |
-| 20 | :soon:            | 2022-02-06 19:45:00 | pinjarra       |      7 |        7 | Outspoken Lad      |  20    | cosmo,bob          |
-| 21 | :soon:            | 2022-02-06 19:45:00 | pinjarra       |      7 |        2 | Red Fifty Three    |   8    | pangea             |
-| 22 | :soon:            | 2022-02-06 19:45:00 | pinjarra       |      7 |        5 | Defending          |  31    | icyhot             |
+| 20 | --                | 2022-02-06 19:45:00 | pinjarra       |      7 |        7 | Outspoken Lad      |  20    | cosmo,bob          |
+| 21 | 4.0               | 2022-02-06 19:45:00 | pinjarra       |      7 |        2 | Red Fifty Three    |   8    | pangea             |
+| 22 | --                | 2022-02-06 19:45:00 | pinjarra       |      7 |        5 | Defending          |  31    | icyhot             |
 | 23 | :boom:            | 2022-02-06 19:15:00 | pinjarra       |      6 |        3 | Lipstick Flickers  |   6.5  | vulture            |
 | 24 | 10.0              | 2022-02-06 19:15:00 | pinjarra       |      6 |        1 | Born To Try        |  15    | pangea             |
 | 25 | :boom:            | 2022-02-06 17:35:00 | pinjarra       |      3 |        5 | Off Wego           |   5.5  | vulture            |
