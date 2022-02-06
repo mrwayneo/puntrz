@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-06 17:37:37 +1000  
+date: 2022-02-06 17:52:54 +1000  
 ---   
 
 
@@ -9,12 +9,12 @@ date: 2022-02-06 17:37:37 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     17 |      3 |       -4 | 0.18 | -0.02 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      4 |      1 |      -20 | 0.25 | -0.5  |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     17 |      2 |      -49 | 0.12 | -0.29 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      1 |      -50 | 0.14 | -0.71 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      9 |      1 |      -70 | 0.11 | -0.78 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     17 |      1 |     -120 | 0.06 | -0.71 |
@@ -102,7 +102,7 @@ date: 2022-02-06 17:37:37 +1000
 | 22 | :soon:            | 2022-02-06 19:45:00 | pinjarra       |      7 |        5 | Defending          |  31    | icyhot             |
 | 23 | :soon:            | 2022-02-06 19:15:00 | pinjarra       |      6 |        3 | Lipstick Flickers  |   6.5  | vulture            |
 | 24 | :soon:            | 2022-02-06 19:15:00 | pinjarra       |      6 |        1 | Born To Try        |  15    | pangea             |
-| 25 | --                | 2022-02-06 17:35:00 | pinjarra       |      3 |        5 | Off Wego           |   5.5  | vulture            |
+| 25 | :boom:            | 2022-02-06 17:35:00 | pinjarra       |      3 |        5 | Off Wego           |   5.5  | vulture            |
 | 26 | :3rd_place_medal: | 2022-02-06 17:15:00 | sunshine-coast |      6 |        6 | Husson's Revenge   |   4.6  | evenodds,lago      |
 | 27 | :boom:            | 2022-02-06 17:04:00 | pinjarra       |      2 |        3 | Tradem' In         |   8    | pangea             |
 | 28 | :2nd_place_medal: | 2022-02-06 16:55:00 | bendigo        |      7 |       10 | Red Hot Nicc       |  14    | vulture            |
