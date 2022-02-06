@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-02-06 17:07:34 +1000  
+date: 2022-02-06 17:23:21 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
 | 03:40             | 2022-02-07 | leopardstown R8        | 14 Pink In The Park  |  2.1  |    -10   |
 | 03:40             | 2022-02-07 | leopardstown R8        | 5 Eabha Grace        |  9    |    -10   |
-| 17:15             | 2022-02-06 | sunshine-coast R6      | 6 Husson's Revenge   |  4.6  |    -10   |
+| :3rd_place_medal: | 2022-02-06 | sunshine-coast R6      | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5          | 1 Bello Beau         |  2    |     10   |
 | :boom:            | 2022-02-06 | leopardstown R7        | 5 Facile Vega        |  1.73 |      7.3 |
 | 0                 | 2022-02-06 | leopardstown R7        | 4 Embassy Gardens    |  0    |    -10   |
@@ -162,8 +162,8 @@ categories: None
 | :boom:            | 2021-04-17 | newbury R8             | 4 Far Hope           |  5    |     40   |
 | :boom:            | 2021-04-17 | newbury R7             | 4 Gloria Mundi       |  6    |     50   |
 | :boom:            | 2021-04-17 | newbury R5             | 1 Hurricane Lane     |  3.75 |     27.5 |
-| :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
 | 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
+| :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
 | :boom:            | 2021-04-15 | kempton R4             | 1 Ransom             |  3.6  |     26   |
 | 99                | 2021-04-15 | newmarket R5           | 2 Divine Light       |  8.5  |    -10   |
 | :2nd_place_medal: | 2021-04-11 | devonport-synthetic R8 | 6 Azara              |  3.1  |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-06 17:07:35 +1000  
+date: 2022-02-06 17:23:22 +1000  
 ---   
 
 
@@ -17,8 +17,8 @@ date: 2022-02-06 17:07:35 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     17 |      2 |      -49 | 0.12 | -0.29 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      1 |      -50 | 0.14 | -0.71 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      9 |      1 |      -70 | 0.11 | -0.78 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     17 |      1 |     -120 | 0.06 | -0.71 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     15 |      1 |     -130 | 0.07 | -0.87 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     17 |      0 |     -170 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     19 |      0 |     -190 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     48 |      1 |     -320 | 0.02 | -0.67 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     60 |      1 |     -583 | 0.02 | -0.97 |
@@ -103,10 +103,10 @@ date: 2022-02-06 17:07:35 +1000
 | 23 | :soon:            | 2022-02-06 19:15:00 | pinjarra       |      6 |        3 | Lipstick Flickers  |   6.5  | vulture            |
 | 24 | :soon:            | 2022-02-06 19:15:00 | pinjarra       |      6 |        1 | Born To Try        |  15    | pangea             |
 | 25 | :soon:            | 2022-02-06 17:35:00 | pinjarra       |      3 |        5 | Off Wego           |   5.5  | vulture            |
-| 26 | :soon:            | 2022-02-06 17:15:00 | sunshine-coast |      6 |        6 | Husson's Revenge   |   4.6  | evenodds,lago      |
-| 27 | --                | 2022-02-06 17:04:00 | pinjarra       |      2 |        3 | Tradem' In         |   8    | pangea             |
+| 26 | :3rd_place_medal: | 2022-02-06 17:15:00 | sunshine-coast |      6 |        6 | Husson's Revenge   |   4.6  | evenodds,lago      |
+| 27 | :boom:            | 2022-02-06 17:04:00 | pinjarra       |      2 |        3 | Tradem' In         |   8    | pangea             |
 | 28 | :2nd_place_medal: | 2022-02-06 16:55:00 | bendigo        |      7 |       10 | Red Hot Nicc       |  14    | vulture            |
-| 29 | --                | 2022-02-06 16:50:00 | launceston     |      9 |        4 | Warrior Prince     |   2.7  | evenodds,overthrow |
+| 29 | 5.0               | 2022-02-06 16:50:00 | launceston     |      9 |        4 | Warrior Prince     |   2.7  | evenodds,overthrow |
 | 30 | :2nd_place_medal: | 2022-02-06 16:50:00 | launceston     |      9 |        7 | Azara              |   8    | pangea             |
 | 31 | 5.0               | 2022-02-06 16:30:00 | sunshine-coast |      5 |        6 | If You Can Dream   |   2.88 | evenodds,overthrow |
 | 32 | 4.0               | 2022-02-06 15:45:00 | bendigo        |      5 |        4 | Red Muscat         |  13    | milkman            |
