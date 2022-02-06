@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-07 07:22:21 +1000  
+date: 2022-02-07 07:37:12 +1000  
 ---   
 
 
@@ -77,8 +77,8 @@ date: 2022-02-07 07:22:21 +1000
 |    | finish            | time                | track          |   race |   number | name               |   odds | tipster            |
 |---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
 |  0 | --                | 2022-02-07 03:40:00 | leopardstown   |      8 |        4 | Bellatior          |  15    | milkman            |
-|  1 | --                | 2022-02-07 03:40:00 | leopardstown   |      8 |        5 | Eabha Grace        |   9    | evenodds,lago      |
-|  2 | --                | 2022-02-07 03:40:00 | leopardstown   |      8 |       14 | Pink In The Park   |   2.1  | evenodds,lago      |
+|  1 | --                | 2022-02-07 03:40:00 | leopardstown   |      8 |       14 | Pink In The Park   |   2.1  | evenodds,lago      |
+|  2 | --                | 2022-02-07 03:40:00 | leopardstown   |      8 |        5 | Eabha Grace        |   9    | evenodds,lago      |
 |  3 | --                | 2022-02-07 03:30:00 | kempton        |      6 |       10 | Dance At Night     |  51    | vulture            |
 |  4 | --                | 2022-02-07 03:10:00 | leopardstown   |      7 |        2 | Ballyadam          |  15    | pangea             |
 |  5 | :boom:            | 2022-02-07 03:10:00 | leopardstown   |      7 |       10 | Call Me Lyreen     |  26    | pangea             |
