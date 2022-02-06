@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-06 16:52:36 +1000  
+date: 2022-02-06 17:07:35 +1000  
 ---   
 
 
@@ -20,7 +20,7 @@ date: 2022-02-06 16:52:36 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     15 |      1 |     -130 | 0.07 | -0.87 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     17 |      0 |     -170 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     19 |      0 |     -190 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     48 |      0 |     -480 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     48 |      1 |     -320 | 0.02 | -0.67 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     60 |      1 |     -583 | 0.02 | -0.97 |
 
 ##### Form Last 20 tips   
@@ -75,44 +75,44 @@ date: 2022-02-06 16:52:36 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6236 |    877 | -11347.7 | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7835 |    372 | -23037   | 0.05 | -0.29 |
 
-|    | finish   | time                | track          |   race |   number | name               |   odds | tipster            |
-|---:|:---------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-02-07 03:40:00 | leopardstown   |      8 |        4 | Bellatior          |  15    | milkman            |
-|  1 | :soon:   | 2022-02-07 03:40:00 | leopardstown   |      8 |        5 | Eabha Grace        |   9    | evenodds,lago      |
-|  2 | :soon:   | 2022-02-07 03:40:00 | leopardstown   |      8 |       14 | Pink In The Park   |   2.1  | evenodds,lago      |
-|  3 | :soon:   | 2022-02-07 03:30:00 | kempton        |      6 |       10 | Dance At Night     |  51    | vulture            |
-|  4 | :soon:   | 2022-02-07 03:10:00 | leopardstown   |      7 |        2 | Ballyadam          |  15    | pangea             |
-|  5 | :soon:   | 2022-02-07 03:10:00 | leopardstown   |      7 |       10 | Call Me Lyreen     |  26    | pangea             |
-|  6 | :soon:   | 2022-02-07 03:00:00 | kempton        |      5 |        3 | La Tihaty          |   1.9  | milkman            |
-|  7 | :soon:   | 2022-02-07 02:35:00 | leopardstown   |      6 |        6 | Sir Gerhard        |   1.9  | overthrow,milkman  |
-|  8 | :soon:   | 2022-02-07 02:25:00 | kempton        |      4 |        1 | Anythingtoday      |  13    | pangea             |
-|  9 | :soon:   | 2022-02-07 02:00:00 | leopardstown   |      5 |        3 | Echoes In Rain     |  21    | overthrow          |
-| 10 | :soon:   | 2022-02-07 01:50:00 | kempton        |      3 |        3 | Tranquil Night     |   1.4  | overthrow          |
-| 11 | :soon:   | 2022-02-07 01:25:00 | leopardstown   |      4 |        2 | Blackbow           |   7    | overthrow          |
-| 12 | :soon:   | 2022-02-07 01:05:00 | musselburgh    |      3 |        2 | Since Day One      |   2.8  | vulture            |
-| 13 | :soon:   | 2022-02-07 00:50:00 | leopardstown   |      3 |        3 | Chacun Pour Soi    |   1.55 | overthrow          |
-| 14 | :soon:   | 2022-02-07 00:20:00 | leopardstown   |      2 |        7 | Galopin Des Champs |   1.5  | evenodds,overthrow |
-| 15 | :soon:   | 2022-02-06 23:45:00 | leopardstown   |      1 |       11 | Party Central      |   2.85 | pangea,milkman     |
-| 16 | :soon:   | 2022-02-06 21:20:00 | pinjarra       |     10 |        7 | Comes A Time       |   6.5  | pangea             |
-| 17 | :soon:   | 2022-02-06 21:20:00 | pinjarra       |     10 |        2 | Son Son            |   4.6  | benny,pangea       |
-| 18 | :soon:   | 2022-02-06 20:50:00 | pinjarra       |      9 |        6 | Beret              |   4.4  | vulture,pangea     |
-| 19 | :soon:   | 2022-02-06 20:50:00 | pinjarra       |      9 |        7 | Proconsent         |   4    | pangea             |
-| 20 | :soon:   | 2022-02-06 19:45:00 | pinjarra       |      7 |        7 | Outspoken Lad      |  20    | cosmo,bob          |
-| 21 | :soon:   | 2022-02-06 19:45:00 | pinjarra       |      7 |        2 | Red Fifty Three    |   8    | pangea             |
-| 22 | :soon:   | 2022-02-06 19:45:00 | pinjarra       |      7 |        5 | Defending          |  31    | icyhot             |
-| 23 | :soon:   | 2022-02-06 19:15:00 | pinjarra       |      6 |        3 | Lipstick Flickers  |   6.5  | vulture            |
-| 24 | :soon:   | 2022-02-06 19:15:00 | pinjarra       |      6 |        1 | Born To Try        |  15    | pangea             |
-| 25 | :soon:   | 2022-02-06 17:35:00 | pinjarra       |      3 |        5 | Off Wego           |   5.5  | vulture            |
-| 26 | :soon:   | 2022-02-06 17:15:00 | sunshine-coast |      6 |        6 | Husson's Revenge   |   4.6  | evenodds,lago      |
-| 27 | :soon:   | 2022-02-06 17:04:00 | pinjarra       |      2 |        3 | Tradem' In         |   8    | pangea             |
-| 28 | :soon:   | 2022-02-06 16:55:00 | bendigo        |      7 |       10 | Red Hot Nicc       |  14    | vulture            |
-| 29 | --       | 2022-02-06 16:50:00 | launceston     |      9 |        4 | Warrior Prince     |   2.7  | evenodds,overthrow |
-| 30 | --       | 2022-02-06 16:50:00 | launceston     |      9 |        7 | Azara              |   8    | pangea             |
-| 31 | --       | 2022-02-06 16:30:00 | sunshine-coast |      5 |        6 | If You Can Dream   |   2.88 | evenodds,overthrow |
-| 32 | 4.0      | 2022-02-06 15:45:00 | bendigo        |      5 |        4 | Red Muscat         |  13    | milkman            |
-| 33 | 9.0      | 2022-02-06 14:55:00 | launceston     |      6 |        5 | Wardell            |   6    | pangea,blackshadow |
-| 34 | :boom:   | 2022-02-06 14:20:00 | launceston     |      5 |        1 | Bello Beau         |   1.83 | evenodds,lago      |
-| 35 | :boom:   | 2022-02-06 13:45:00 | launceston     |      4 |        4 | Ubriaco            |   9.5  | vulture            |
-| 36 | 5.0      | 2022-02-06 13:45:00 | launceston     |      4 |        1 | High Maintenance   |   7.5  | benny,pangea       |
-| 37 | 10.0     | 2022-02-06 13:10:00 | launceston     |      3 |        1 | Heza Charmer       |  10    | overthrow          |
-| 38 | --       | 2022-02-06 11:53:00 | tauranga       |      3 |        6 | The Mighty Spar    |   3.1  | vulture            |
+|    | finish            | time                | track          |   race |   number | name               |   odds | tipster            |
+|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-02-07 03:40:00 | leopardstown   |      8 |        4 | Bellatior          |  15    | milkman            |
+|  1 | :soon:            | 2022-02-07 03:40:00 | leopardstown   |      8 |        5 | Eabha Grace        |   9    | evenodds,lago      |
+|  2 | :soon:            | 2022-02-07 03:40:00 | leopardstown   |      8 |       14 | Pink In The Park   |   2.1  | evenodds,lago      |
+|  3 | :soon:            | 2022-02-07 03:30:00 | kempton        |      6 |       10 | Dance At Night     |  51    | vulture            |
+|  4 | :soon:            | 2022-02-07 03:10:00 | leopardstown   |      7 |        2 | Ballyadam          |  15    | pangea             |
+|  5 | :soon:            | 2022-02-07 03:10:00 | leopardstown   |      7 |       10 | Call Me Lyreen     |  26    | pangea             |
+|  6 | :soon:            | 2022-02-07 03:00:00 | kempton        |      5 |        3 | La Tihaty          |   1.9  | milkman            |
+|  7 | :soon:            | 2022-02-07 02:35:00 | leopardstown   |      6 |        6 | Sir Gerhard        |   1.9  | overthrow,milkman  |
+|  8 | :soon:            | 2022-02-07 02:25:00 | kempton        |      4 |        1 | Anythingtoday      |  13    | pangea             |
+|  9 | :soon:            | 2022-02-07 02:00:00 | leopardstown   |      5 |        3 | Echoes In Rain     |  21    | overthrow          |
+| 10 | :soon:            | 2022-02-07 01:50:00 | kempton        |      3 |        3 | Tranquil Night     |   1.4  | overthrow          |
+| 11 | :soon:            | 2022-02-07 01:25:00 | leopardstown   |      4 |        2 | Blackbow           |   7    | overthrow          |
+| 12 | :soon:            | 2022-02-07 01:05:00 | musselburgh    |      3 |        2 | Since Day One      |   2.8  | vulture            |
+| 13 | :soon:            | 2022-02-07 00:50:00 | leopardstown   |      3 |        3 | Chacun Pour Soi    |   1.55 | overthrow          |
+| 14 | :soon:            | 2022-02-07 00:20:00 | leopardstown   |      2 |        7 | Galopin Des Champs |   1.5  | evenodds,overthrow |
+| 15 | :soon:            | 2022-02-06 23:45:00 | leopardstown   |      1 |       11 | Party Central      |   2.85 | pangea,milkman     |
+| 16 | :soon:            | 2022-02-06 21:20:00 | pinjarra       |     10 |        7 | Comes A Time       |   6.5  | pangea             |
+| 17 | :soon:            | 2022-02-06 21:20:00 | pinjarra       |     10 |        2 | Son Son            |   4.6  | benny,pangea       |
+| 18 | :soon:            | 2022-02-06 20:50:00 | pinjarra       |      9 |        6 | Beret              |   4.4  | vulture,pangea     |
+| 19 | :soon:            | 2022-02-06 20:50:00 | pinjarra       |      9 |        7 | Proconsent         |   4    | pangea             |
+| 20 | :soon:            | 2022-02-06 19:45:00 | pinjarra       |      7 |        7 | Outspoken Lad      |  20    | cosmo,bob          |
+| 21 | :soon:            | 2022-02-06 19:45:00 | pinjarra       |      7 |        2 | Red Fifty Three    |   8    | pangea             |
+| 22 | :soon:            | 2022-02-06 19:45:00 | pinjarra       |      7 |        5 | Defending          |  31    | icyhot             |
+| 23 | :soon:            | 2022-02-06 19:15:00 | pinjarra       |      6 |        3 | Lipstick Flickers  |   6.5  | vulture            |
+| 24 | :soon:            | 2022-02-06 19:15:00 | pinjarra       |      6 |        1 | Born To Try        |  15    | pangea             |
+| 25 | :soon:            | 2022-02-06 17:35:00 | pinjarra       |      3 |        5 | Off Wego           |   5.5  | vulture            |
+| 26 | :soon:            | 2022-02-06 17:15:00 | sunshine-coast |      6 |        6 | Husson's Revenge   |   4.6  | evenodds,lago      |
+| 27 | --                | 2022-02-06 17:04:00 | pinjarra       |      2 |        3 | Tradem' In         |   8    | pangea             |
+| 28 | :2nd_place_medal: | 2022-02-06 16:55:00 | bendigo        |      7 |       10 | Red Hot Nicc       |  14    | vulture            |
+| 29 | --                | 2022-02-06 16:50:00 | launceston     |      9 |        4 | Warrior Prince     |   2.7  | evenodds,overthrow |
+| 30 | :2nd_place_medal: | 2022-02-06 16:50:00 | launceston     |      9 |        7 | Azara              |   8    | pangea             |
+| 31 | 5.0               | 2022-02-06 16:30:00 | sunshine-coast |      5 |        6 | If You Can Dream   |   2.88 | evenodds,overthrow |
+| 32 | 4.0               | 2022-02-06 15:45:00 | bendigo        |      5 |        4 | Red Muscat         |  13    | milkman            |
+| 33 | 9.0               | 2022-02-06 14:55:00 | launceston     |      6 |        5 | Wardell            |   6    | pangea,blackshadow |
+| 34 | :boom:            | 2022-02-06 14:20:00 | launceston     |      5 |        1 | Bello Beau         |   1.83 | evenodds,lago      |
+| 35 | :boom:            | 2022-02-06 13:45:00 | launceston     |      4 |        4 | Ubriaco            |   9.5  | vulture            |
+| 36 | 5.0               | 2022-02-06 13:45:00 | launceston     |      4 |        1 | High Maintenance   |   7.5  | benny,pangea       |
+| 37 | 10.0              | 2022-02-06 13:10:00 | launceston     |      3 |        1 | Heza Charmer       |  10    | overthrow          |
+| 38 | --                | 2022-02-06 11:53:00 | tauranga       |      3 |        6 | The Mighty Spar    |   3.1  | vulture            |
