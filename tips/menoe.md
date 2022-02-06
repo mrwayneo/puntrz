@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-02-07 07:07:16 +1000  
+date: 2022-02-07 07:20:34 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 01:45             | 2022-02-08 | carlisle R5            | 4 Lady Tremaine      |  1.9  |    -10   |
 | :3rd_place_medal: | 2022-01-30 | strathalbyn R1         | 8 Ten Feathers       |  0    |    -10   |
 | :3rd_place_medal: | 2022-01-27 | catterick R2           | 2 Get Your Own       |  1.9  |    -10   |
 | :2nd_place_medal: | 2022-01-12 | oakbank R1             | 3 Muffla             |  1.9  |    -10   |
