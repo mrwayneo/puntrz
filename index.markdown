@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-06 19:24:51 +1000  
+date: 2022-02-06 19:40:05 +1000  
 ---   
 
 
@@ -101,7 +101,7 @@ date: 2022-02-06 19:24:51 +1000
 | 21 | :soon:            | 2022-02-06 19:45:00 | pinjarra       |      7 |        2 | Red Fifty Three    |   8    | pangea             |
 | 22 | :soon:            | 2022-02-06 19:45:00 | pinjarra       |      7 |        5 | Defending          |  31    | icyhot             |
 | 23 | :boom:            | 2022-02-06 19:15:00 | pinjarra       |      6 |        3 | Lipstick Flickers  |   6.5  | vulture            |
-| 24 | --                | 2022-02-06 19:15:00 | pinjarra       |      6 |        1 | Born To Try        |  15    | pangea             |
+| 24 | 10.0              | 2022-02-06 19:15:00 | pinjarra       |      6 |        1 | Born To Try        |  15    | pangea             |
 | 25 | :boom:            | 2022-02-06 17:35:00 | pinjarra       |      3 |        5 | Off Wego           |   5.5  | vulture            |
 | 26 | :3rd_place_medal: | 2022-02-06 17:15:00 | sunshine-coast |      6 |        6 | Husson's Revenge   |   4.6  | evenodds,lago      |
 | 27 | :boom:            | 2022-02-06 17:04:00 | pinjarra       |      2 |        3 | Tradem' In         |   8    | pangea             |
