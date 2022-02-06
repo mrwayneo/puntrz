@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-06 20:40:19 +1000  
+date: 2022-02-06 20:55:19 +1000  
 ---   
 
 
@@ -9,6 +9,8 @@ date: 2022-02-06 20:40:19 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     19 |      1 |    484   | 0.05 |  2.55 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     48 |      2 |    354   | 0.04 |  0.74 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     17 |      4 |     46   | 0.24 |  0.27 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |    -10   | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |    -20   | 0    | -1    |
@@ -19,8 +21,6 @@ date: 2022-02-06 20:40:19 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      9 |      1 |    -70   | 0.11 | -0.78 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     17 |      1 |   -120   | 0.06 | -0.71 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     15 |      1 |   -130   | 0.07 | -0.87 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     19 |      0 |   -190   | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     48 |      1 |   -320   | 0.02 | -0.67 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     60 |      2 |   -557.5 | 0.03 | -0.93 |
 
 ##### Form Last 20 tips   
@@ -95,8 +95,8 @@ date: 2022-02-06 20:40:19 +1000
 | 15 | :soon:            | 2022-02-06 23:45:00 | leopardstown   |      1 |       11 | Party Central      |   2.85 | pangea,milkman     |
 | 16 | :soon:            | 2022-02-06 21:20:00 | pinjarra       |     10 |        7 | Comes A Time       |   6.5  | pangea             |
 | 17 | :soon:            | 2022-02-06 21:20:00 | pinjarra       |     10 |        2 | Son Son            |   4.6  | benny,pangea       |
-| 18 | :soon:            | 2022-02-06 20:50:00 | pinjarra       |      9 |        6 | Beret              |   4.4  | vulture,pangea     |
-| 19 | :soon:            | 2022-02-06 20:50:00 | pinjarra       |      9 |        7 | Proconsent         |   4    | pangea             |
+| 18 | --                | 2022-02-06 20:50:00 | pinjarra       |      9 |        6 | Beret              |   4.4  | vulture,pangea     |
+| 19 | --                | 2022-02-06 20:50:00 | pinjarra       |      9 |        7 | Proconsent         |   4    | pangea             |
 | 20 | 11.0              | 2022-02-06 19:45:00 | pinjarra       |      7 |        7 | Outspoken Lad      |  20    | cosmo,bob          |
 | 21 | 4.0               | 2022-02-06 19:45:00 | pinjarra       |      7 |        2 | Red Fifty Three    |   8    | pangea             |
 | 22 | 7.0               | 2022-02-06 19:45:00 | pinjarra       |      7 |        5 | Defending          |  31    | icyhot             |
