@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-06 16:37:47 +1000  
+date: 2022-02-06 16:52:36 +1000  
 ---   
 
 
@@ -106,8 +106,8 @@ date: 2022-02-06 16:37:47 +1000
 | 26 | :soon:   | 2022-02-06 17:15:00 | sunshine-coast |      6 |        6 | Husson's Revenge   |   4.6  | evenodds,lago      |
 | 27 | :soon:   | 2022-02-06 17:04:00 | pinjarra       |      2 |        3 | Tradem' In         |   8    | pangea             |
 | 28 | :soon:   | 2022-02-06 16:55:00 | bendigo        |      7 |       10 | Red Hot Nicc       |  14    | vulture            |
-| 29 | :soon:   | 2022-02-06 16:50:00 | launceston     |      9 |        4 | Warrior Prince     |   2.7  | evenodds,overthrow |
-| 30 | :soon:   | 2022-02-06 16:50:00 | launceston     |      9 |        7 | Azara              |   8    | pangea             |
+| 29 | --       | 2022-02-06 16:50:00 | launceston     |      9 |        4 | Warrior Prince     |   2.7  | evenodds,overthrow |
+| 30 | --       | 2022-02-06 16:50:00 | launceston     |      9 |        7 | Azara              |   8    | pangea             |
 | 31 | --       | 2022-02-06 16:30:00 | sunshine-coast |      5 |        6 | If You Can Dream   |   2.88 | evenodds,overthrow |
 | 32 | 4.0      | 2022-02-06 15:45:00 | bendigo        |      5 |        4 | Red Muscat         |  13    | milkman            |
 | 33 | 9.0      | 2022-02-06 14:55:00 | launceston     |      6 |        5 | Wardell            |   6    | pangea,blackshadow |
