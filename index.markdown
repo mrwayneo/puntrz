@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-06 21:10:02 +1000  
+date: 2022-02-06 21:25:05 +1000  
 ---   
 
 
@@ -93,10 +93,10 @@ date: 2022-02-06 21:10:02 +1000
 | 13 | :soon:            | 2022-02-07 00:50:00 | leopardstown   |      3 |        3 | Chacun Pour Soi    |   1.55 | overthrow          |
 | 14 | :soon:            | 2022-02-07 00:20:00 | leopardstown   |      2 |        7 | Galopin Des Champs |   1.5  | evenodds,overthrow |
 | 15 | :soon:            | 2022-02-06 23:45:00 | leopardstown   |      1 |       11 | Party Central      |   2.85 | pangea,milkman     |
-| 16 | :soon:            | 2022-02-06 21:20:00 | pinjarra       |     10 |        7 | Comes A Time       |   6.5  | pangea             |
-| 17 | :soon:            | 2022-02-06 21:20:00 | pinjarra       |     10 |        2 | Son Son            |   4.6  | benny,pangea       |
-| 18 | --                | 2022-02-06 20:50:00 | pinjarra       |      9 |        6 | Beret              |   4.4  | vulture,pangea     |
-| 19 | --                | 2022-02-06 20:50:00 | pinjarra       |      9 |        7 | Proconsent         |   4    | pangea             |
+| 16 | :2nd_place_medal: | 2022-02-06 21:20:00 | pinjarra       |     10 |        7 | Comes A Time       |   6.5  | pangea             |
+| 17 | 4.0               | 2022-02-06 21:20:00 | pinjarra       |     10 |        2 | Son Son            |   4.6  | benny,pangea       |
+| 18 | 5.0               | 2022-02-06 20:50:00 | pinjarra       |      9 |        6 | Beret              |   4.4  | vulture,pangea     |
+| 19 | 7.0               | 2022-02-06 20:50:00 | pinjarra       |      9 |        7 | Proconsent         |   4    | pangea             |
 | 20 | 11.0              | 2022-02-06 19:45:00 | pinjarra       |      7 |        7 | Outspoken Lad      |  20    | cosmo,bob          |
 | 21 | 4.0               | 2022-02-06 19:45:00 | pinjarra       |      7 |        2 | Red Fifty Three    |   8    | pangea             |
 | 22 | 7.0               | 2022-02-06 19:45:00 | pinjarra       |      7 |        5 | Defending          |  31    | icyhot             |
