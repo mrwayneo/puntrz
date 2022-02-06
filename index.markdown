@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-06 11:40:35 +1000  
+date: 2022-02-06 11:56:14 +1000  
 ---   
 
 
@@ -115,4 +115,4 @@ date: 2022-02-06 11:40:35 +1000
 | 35 | :soon:   | 2022-02-06 13:45:00 | launceston     |      4 |        4 | Ubriaco            |   9.5  | vulture            |
 | 36 | :soon:   | 2022-02-06 13:45:00 | launceston     |      4 |        1 | High Maintenance   |   7.5  | benny,pangea       |
 | 37 | :soon:   | 2022-02-06 13:10:00 | launceston     |      3 |        1 | Heza Charmer       |  10    | overthrow          |
-| 38 | :soon:   | 2022-02-06 11:53:00 | tauranga       |      3 |        6 | The Mighty Spar    |   3.1  | vulture            |
+| 38 | --       | 2022-02-06 11:53:00 | tauranga       |      3 |        6 | The Mighty Spar    |   3.1  | vulture            |
