@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-06 14:06:27 +1000  
+date: 2022-02-06 14:36:23 +1000  
 ---   
 
 
@@ -12,12 +12,12 @@ date: 2022-02-06 14:06:27 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      4 |      1 |      -20 | 0.25 | -0.5  |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 | 0    | -1    |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      4 |      0 |      -40 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     17 |      1 |      -69 | 0.06 | -0.41 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      0 |      -70 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      9 |      0 |      -90 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     15 |      0 |     -150 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     17 |      2 |      -49 | 0.12 | -0.29 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      1 |      -50 | 0.14 | -0.71 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      9 |      1 |      -70 | 0.11 | -0.78 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     15 |      1 |     -130 | 0.07 | -0.87 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     17 |      0 |     -170 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     19 |      0 |     -190 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     48 |      0 |     -480 | 0    | -1    |
@@ -111,8 +111,8 @@ date: 2022-02-06 14:06:27 +1000
 | 31 | :soon:   | 2022-02-06 16:30:00 | sunshine-coast |      5 |        6 | If You Can Dream   |   2.88 | evenodds,overthrow |
 | 32 | :soon:   | 2022-02-06 15:45:00 | bendigo        |      5 |        4 | Red Muscat         |  13    | milkman            |
 | 33 | :soon:   | 2022-02-06 14:55:00 | launceston     |      6 |        5 | Wardell            |   6    | pangea,blackshadow |
-| 34 | :soon:   | 2022-02-06 14:20:00 | launceston     |      5 |        1 | Bello Beau         |   1.83 | evenodds,lago      |
+| 34 | :boom:   | 2022-02-06 14:20:00 | launceston     |      5 |        1 | Bello Beau         |   1.83 | evenodds,lago      |
 | 35 | :boom:   | 2022-02-06 13:45:00 | launceston     |      4 |        4 | Ubriaco            |   9.5  | vulture            |
-| 36 | --       | 2022-02-06 13:45:00 | launceston     |      4 |        1 | High Maintenance   |   7.5  | benny,pangea       |
+| 36 | 5.0      | 2022-02-06 13:45:00 | launceston     |      4 |        1 | High Maintenance   |   7.5  | benny,pangea       |
 | 37 | 10.0     | 2022-02-06 13:10:00 | launceston     |      3 |        1 | Heza Charmer       |  10    | overthrow          |
 | 38 | --       | 2022-02-06 11:53:00 | tauranga       |      3 |        6 | The Mighty Spar    |   3.1  | vulture            |
