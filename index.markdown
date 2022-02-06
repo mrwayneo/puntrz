@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-07 07:37:12 +1000  
+date: 2022-02-07 08:47:50 +1000  
 ---   
 
 
@@ -74,44 +74,20 @@ date: 2022-02-07 07:37:12 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6252 |    872 | -11989.7 | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7838 |    371 | -22778   | 0.05 | -0.29 |
 
-|    | finish            | time                | track          |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | --                | 2022-02-07 03:40:00 | leopardstown   |      8 |        4 | Bellatior          |  15    | milkman            |
-|  1 | --                | 2022-02-07 03:40:00 | leopardstown   |      8 |       14 | Pink In The Park   |   2.1  | evenodds,lago      |
-|  2 | --                | 2022-02-07 03:40:00 | leopardstown   |      8 |        5 | Eabha Grace        |   9    | evenodds,lago      |
-|  3 | --                | 2022-02-07 03:30:00 | kempton        |      6 |       10 | Dance At Night     |  51    | vulture            |
-|  4 | --                | 2022-02-07 03:10:00 | leopardstown   |      7 |        2 | Ballyadam          |  15    | pangea             |
-|  5 | :boom:            | 2022-02-07 03:10:00 | leopardstown   |      7 |       10 | Call Me Lyreen     |  26    | pangea             |
-|  6 | :boom:            | 2022-02-07 03:00:00 | kempton        |      5 |        3 | La Tihaty          |   1.9  | milkman            |
-|  7 | :boom:            | 2022-02-07 02:35:00 | leopardstown   |      6 |        6 | Sir Gerhard        |   1.9  | overthrow,milkman  |
-|  8 | 5.0               | 2022-02-07 02:25:00 | kempton        |      4 |        1 | Anythingtoday      |  13    | pangea             |
-|  9 | :3rd_place_medal: | 2022-02-07 02:00:00 | leopardstown   |      5 |        3 | Echoes In Rain     |  21    | overthrow          |
-| 10 | :boom:            | 2022-02-07 01:50:00 | kempton        |      3 |        3 | Tranquil Night     |   1.4  | overthrow          |
-| 11 | 5.0               | 2022-02-07 01:25:00 | leopardstown   |      4 |        2 | Blackbow           |   7    | overthrow          |
-| 12 | :2nd_place_medal: | 2022-02-07 01:05:00 | musselburgh    |      3 |        2 | Since Day One      |   2.8  | vulture            |
-| 13 | :boom:            | 2022-02-07 00:50:00 | leopardstown   |      3 |        3 | Chacun Pour Soi    |   1.55 | overthrow          |
-| 14 | :boom:            | 2022-02-07 00:20:00 | leopardstown   |      2 |        7 | Galopin Des Champs |   1.5  | evenodds,overthrow |
-| 15 | :boom:            | 2022-02-06 23:45:00 | leopardstown   |      1 |       11 | Party Central      |   2.85 | pangea,milkman     |
-| 16 | :2nd_place_medal: | 2022-02-06 21:20:00 | pinjarra       |     10 |        7 | Comes A Time       |   6.5  | pangea             |
-| 17 | 4.0               | 2022-02-06 21:20:00 | pinjarra       |     10 |        2 | Son Son            |   4.6  | benny,pangea       |
-| 18 | 5.0               | 2022-02-06 20:50:00 | pinjarra       |      9 |        6 | Beret              |   4.4  | vulture,pangea     |
-| 19 | 7.0               | 2022-02-06 20:50:00 | pinjarra       |      9 |        7 | Proconsent         |   4    | pangea             |
-| 20 | 11.0              | 2022-02-06 19:45:00 | pinjarra       |      7 |        7 | Outspoken Lad      |  20    | cosmo,bob          |
-| 21 | 4.0               | 2022-02-06 19:45:00 | pinjarra       |      7 |        2 | Red Fifty Three    |   8    | pangea             |
-| 22 | 7.0               | 2022-02-06 19:45:00 | pinjarra       |      7 |        5 | Defending          |  31    | icyhot             |
-| 23 | :boom:            | 2022-02-06 19:15:00 | pinjarra       |      6 |        3 | Lipstick Flickers  |   6.5  | vulture            |
-| 24 | 10.0              | 2022-02-06 19:15:00 | pinjarra       |      6 |        1 | Born To Try        |  15    | pangea             |
-| 25 | :boom:            | 2022-02-06 17:35:00 | pinjarra       |      3 |        5 | Off Wego           |   5.5  | vulture            |
-| 26 | :3rd_place_medal: | 2022-02-06 17:15:00 | sunshine-coast |      6 |        6 | Husson's Revenge   |   4.6  | evenodds,lago      |
-| 27 | :boom:            | 2022-02-06 17:04:00 | pinjarra       |      2 |        3 | Tradem' In         |   8    | pangea             |
-| 28 | :2nd_place_medal: | 2022-02-06 16:55:00 | bendigo        |      7 |       10 | Red Hot Nicc       |  14    | vulture            |
-| 29 | 5.0               | 2022-02-06 16:50:00 | launceston     |      9 |        4 | Warrior Prince     |   2.7  | evenodds,overthrow |
-| 30 | :2nd_place_medal: | 2022-02-06 16:50:00 | launceston     |      9 |        7 | Azara              |   8    | pangea             |
-| 31 | 5.0               | 2022-02-06 16:30:00 | sunshine-coast |      5 |        6 | If You Can Dream   |   2.88 | evenodds,overthrow |
-| 32 | 4.0               | 2022-02-06 15:45:00 | bendigo        |      5 |        4 | Red Muscat         |  13    | milkman            |
-| 33 | 9.0               | 2022-02-06 14:55:00 | launceston     |      6 |        5 | Wardell            |   6    | pangea,blackshadow |
-| 34 | :boom:            | 2022-02-06 14:20:00 | launceston     |      5 |        1 | Bello Beau         |   1.83 | evenodds,lago      |
-| 35 | :boom:            | 2022-02-06 13:45:00 | launceston     |      4 |        4 | Ubriaco            |   9.5  | vulture            |
-| 36 | 5.0               | 2022-02-06 13:45:00 | launceston     |      4 |        1 | High Maintenance   |   7.5  | benny,pangea       |
-| 37 | 10.0              | 2022-02-06 13:10:00 | launceston     |      3 |        1 | Heza Charmer       |  10    | overthrow          |
-| 38 | --                | 2022-02-06 11:53:00 | tauranga       |      3 |        6 | The Mighty Spar    |   3.1  | vulture            |
+|    | finish   | time                | track         |   race |   number | name            |   odds | tipster          |
+|---:|:---------|:--------------------|:--------------|-------:|---------:|:----------------|-------:|:-----------------|
+|  0 | :soon:   | 2022-02-08 06:30:00 | wolverhampton |      6 |        9 | Kaahira         |   6.5  | looseknot        |
+|  1 | :soon:   | 2022-02-08 03:40:00 | fontwell      |      8 |        2 | Antony          |   5.5  | pangea           |
+|  2 | :soon:   | 2022-02-08 03:25:00 | carlisle      |      8 |        6 | Maximilian      |   6.5  | vulture,milkman  |
+|  3 | :soon:   | 2022-02-08 02:20:00 | carlisle      |      6 |        3 | Tokay Dokey     |   2.25 | evenodds,milkman |
+|  4 | :soon:   | 2022-02-08 01:25:00 | fontwell      |      4 |        7 | Gamaret         |   2.6  | vulture,milkman  |
+|  5 | :soon:   | 2022-02-08 00:15:00 | fontwell      |      2 |        7 | Kotmask         |   2.5  | milkman          |
+|  6 | :soon:   | 2022-02-07 23:30:00 | carlisle      |      1 |        2 | Apothicaire     |  17    | overthrow        |
+|  7 | :soon:   | 2022-02-07 23:30:00 | carlisle      |      1 |        9 | Masked Crusader |   8    | vulture          |
+|  8 | :soon:   | 2022-02-07 17:20:00 | muswellbrook  |      6 |        9 | Cross Step      |   4    | vulture,milkman  |
+|  9 | :soon:   | 2022-02-07 17:20:00 | muswellbrook  |      6 |        4 | Tawfiq Lass     |   6.5  | pangea           |
+| 10 | :soon:   | 2022-02-07 16:30:00 | benalla       |      8 |       11 | Starcrippa      |  26    | looseknot        |
+| 11 | :soon:   | 2022-02-07 16:10:00 | muswellbrook  |      4 |        5 | Movin' Denman   |   7.5  | milkman          |
+| 12 | :soon:   | 2022-02-07 15:50:00 | bathurst      |      4 |        4 | Shades Of Rose  |   1.6  | pangea,milkman   |
+| 13 | :soon:   | 2022-02-07 14:15:00 | muswellbrook  |      1 |       12 | Pirrama         |  12    | cosmo,bluey      |
+| 14 | --       | 2022-02-03 16:27:00 | warwick       |      4 |        2 | Heart Vandelay  |   3.2  | pangea,overthrow |
