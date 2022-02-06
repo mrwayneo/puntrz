@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-02-06 22:54:58 +1000  
+date: 2022-02-07 06:52:27 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
-| Last 28 Days   |     14 |      1 |    -51   | 0.07 | -0.36 |
-| Last 6 Months  |    118 |     24 |   1685.5 | 0.2  |  1.43 |
-| Since Jan 2020 |    241 |     41 |   3625.5 | 0.17 |  1.5  |
+| Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
+| Last 28 Days   |     15 |      1 |    -61   | 0.07 | -0.41 |
+| Last 6 Months  |    120 |     24 |   1665.5 | 0.2  |  1.39 |
+| Since Jan 2020 |    243 |     41 |   3605.5 | 0.17 |  1.48 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:10             | 2022-02-07 | leopardstown R7               | 23 Suprise Package    |  21    |    -10   |
+| 0                 | 2022-02-07 | leopardstown R7               | 23 Suprise Package    |   0    |    -10   |
 | 11                | 2022-02-06 | pinjarra R7                   | 7 Outspoken Lad       |  20    |    -10   |
 | 9                 | 2022-02-05 | randwick R9                   | 7 Soami               |  21    |    -10   |
 | 0                 | 2022-02-05 | chepstow R2                   | 3 El Diablo           |   0    |    -10   |
@@ -46,8 +46,8 @@ categories: None
 | :boom:            | 2021-12-21 | wolverhampton R1              | 6 Ruby Red Empress    |   0    |    -10   |
 | 99                | 2021-12-17 | uttoxeter R3                  | 6 Glebe Road          |   0    |    -10   |
 | 5                 | 2021-12-15 | sandown-hillside R4           | 2 Covert              |  12    |    -10   |
-| 99                | 2021-12-12 | fairyhouse R6                 | 3 Bearwithmenow       |   0    |    -10   |
 | 99                | 2021-12-12 | fairyhouse R6                 | 15 Merry Moves        |   0    |    -10   |
+| 99                | 2021-12-12 | fairyhouse R6                 | 3 Bearwithmenow       |   0    |    -10   |
 | 99                | 2021-12-11 | cheltenham R4                 | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5                   | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6                 | 8 Precious            |   0    |    -10   |

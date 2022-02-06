@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-02-06 22:54:58 +1000  
+date: 2022-02-07 06:52:27 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      2 |    -32.7 | 0.4  | -0.65 |
-| Last 28 Days   |     18 |      6 |   -108.2 | 0.33 | -0.6  |
-| Last 6 Months  |    106 |     63 |    590.4 | 0.59 |  0.56 |
-| Since Jan 2020 |    202 |    103 |   1415.7 | 0.51 |  0.7  |
+| Last 7 Days    |      8 |      3 |    -42.7 | 0.38 | -0.53 |
+| Last 28 Days   |     21 |      7 |   -118.2 | 0.33 | -0.56 |
+| Last 6 Months  |    110 |     64 |    570.4 | 0.58 |  0.52 |
+| Since Jan 2020 |    206 |    104 |   1395.7 | 0.5  |  0.68 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 03:40             | 2022-02-07 | leopardstown R8        | 14 Pink In The Park  |  2.1  |    -10   |
-| 03:40             | 2022-02-07 | leopardstown R8        | 5 Eabha Grace        |  9    |    -10   |
+| 0                 | 2022-02-07 | leopardstown R8        | 14 Pink In The Park  |  0    |    -10   |
+| 0                 | 2022-02-07 | leopardstown R8        | 5 Eabha Grace        |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6      | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5          | 1 Bello Beau         |  2    |     10   |
 | :boom:            | 2022-02-06 | leopardstown R7        | 5 Facile Vega        |  1.73 |      7.3 |
@@ -162,8 +162,8 @@ categories: None
 | :boom:            | 2021-04-17 | newbury R8             | 4 Far Hope           |  5    |     40   |
 | :boom:            | 2021-04-17 | newbury R7             | 4 Gloria Mundi       |  6    |     50   |
 | :boom:            | 2021-04-17 | newbury R5             | 1 Hurricane Lane     |  3.75 |     27.5 |
-| 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
 | :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
+| 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
 | :boom:            | 2021-04-15 | kempton R4             | 1 Ransom             |  3.6  |     26   |
 | 99                | 2021-04-15 | newmarket R5           | 2 Divine Light       |  8.5  |    -10   |
 | :2nd_place_medal: | 2021-04-11 | devonport-synthetic R8 | 6 Azara              |  3.1  |    -10   |
