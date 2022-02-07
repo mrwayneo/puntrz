@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-07 16:34:27 +1000  
+date: 2022-02-07 16:49:23 +1000  
 ---   
 
 
@@ -86,7 +86,7 @@ date: 2022-02-07 16:34:27 +1000
 |  7 | :soon:   | 2022-02-07 23:30:00 | carlisle      |      1 |        9 | Masked Crusader |   8    | vulture          |
 |  8 | :soon:   | 2022-02-07 17:20:00 | muswellbrook  |      6 |        9 | Cross Step      |   4    | vulture,milkman  |
 |  9 | :soon:   | 2022-02-07 17:20:00 | muswellbrook  |      6 |        4 | Tawfiq Lass     |   6.5  | pangea           |
-| 10 | --       | 2022-02-07 16:30:00 | benalla       |      8 |       11 | Starcrippa      |  26    | looseknot        |
+| 10 | 10.0     | 2022-02-07 16:30:00 | benalla       |      8 |       11 | Starcrippa      |  26    | looseknot        |
 | 11 | 7.0      | 2022-02-07 16:10:00 | muswellbrook  |      4 |        5 | Movin' Denman   |   7.5  | milkman          |
 | 12 | :boom:   | 2022-02-07 15:50:00 | bathurst      |      4 |        4 | Shades Of Rose  |   1.6  | pangea,milkman   |
 | 13 | :boom:   | 2022-02-07 14:15:00 | muswellbrook  |      1 |       12 | Pirrama         |  12    | cosmo,bluey      |
