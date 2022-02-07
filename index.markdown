@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-07 14:11:43 +1000  
+date: 2022-02-07 14:26:07 +1000  
 ---   
 
 
@@ -9,17 +9,17 @@ date: 2022-02-07 14:11:43 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      1 |      110 | 1    | 11    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      6 |      1 |       60 | 0.17 |  1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      0 |      -50 | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      6 |      0 |      -60 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      7 |      0 |      -70 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     22 |      0 |     -220 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     22 |      1 |     -100 | 0.05 | -0.45 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     50 |      1 |     -482 | 0.02 | -0.96 |
 
 ##### Form Last 20 tips   
@@ -89,5 +89,5 @@ date: 2022-02-07 14:11:43 +1000
 | 10 | :soon:   | 2022-02-07 16:30:00 | benalla       |      8 |       11 | Starcrippa      |  26    | looseknot        |
 | 11 | :soon:   | 2022-02-07 16:10:00 | muswellbrook  |      4 |        5 | Movin' Denman   |   7.5  | milkman          |
 | 12 | :soon:   | 2022-02-07 15:50:00 | bathurst      |      4 |        4 | Shades Of Rose  |   1.6  | pangea,milkman   |
-| 13 | :soon:   | 2022-02-07 14:15:00 | muswellbrook  |      1 |       12 | Pirrama         |  12    | cosmo,bluey      |
+| 13 | :boom:   | 2022-02-07 14:15:00 | muswellbrook  |      1 |       12 | Pirrama         |  12    | cosmo,bluey      |
 | 14 | --       | 2022-02-03 16:27:00 | warwick       |      4 |        2 | Heart Vandelay  |   3.2  | pangea,overthrow |
