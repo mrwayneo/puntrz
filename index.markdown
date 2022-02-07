@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-07 17:34:44 +1000  
+date: 2022-02-07 17:49:36 +1000  
 ---   
 
 
@@ -84,7 +84,7 @@ date: 2022-02-07 17:34:44 +1000
 |  5 | :soon:   | 2022-02-08 00:15:00 | fontwell      |      2 |        7 | Kotmask         |   2.5  | milkman          |
 |  6 | :soon:   | 2022-02-07 23:30:00 | carlisle      |      1 |        2 | Apothicaire     |  17    | overthrow        |
 |  7 | :soon:   | 2022-02-07 23:30:00 | carlisle      |      1 |        9 | Masked Crusader |   8    | vulture          |
-|  8 | --       | 2022-02-07 17:20:00 | muswellbrook  |      6 |        9 | Cross Step      |   4    | vulture,milkman  |
+|  8 | 6.0      | 2022-02-07 17:20:00 | muswellbrook  |      6 |        9 | Cross Step      |   4    | vulture,milkman  |
 |  9 | :boom:   | 2022-02-07 17:20:00 | muswellbrook  |      6 |        4 | Tawfiq Lass     |   6.5  | pangea           |
 | 10 | 10.0     | 2022-02-07 16:30:00 | benalla       |      8 |       11 | Starcrippa      |  26    | looseknot        |
 | 11 | 7.0      | 2022-02-07 16:10:00 | muswellbrook  |      4 |        5 | Movin' Denman   |   7.5  | milkman          |
