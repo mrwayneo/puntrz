@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-07 15:40:20 +1000  
+date: 2022-02-07 15:55:19 +1000  
 ---   
 
 
@@ -16,9 +16,9 @@ date: 2022-02-07 15:40:20 +1000
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      3 |      0 |      -30 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      1 |      -37 | 0.2  | -0.74 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      0 |      -50 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      7 |      0 |      -70 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      7 |      1 |      -57 | 0.14 | -0.81 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     22 |      1 |     -100 | 0.05 | -0.45 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     50 |      1 |     -482 | 0.02 | -0.96 |
 
@@ -88,6 +88,6 @@ date: 2022-02-07 15:40:20 +1000
 |  9 | :soon:   | 2022-02-07 17:20:00 | muswellbrook  |      6 |        4 | Tawfiq Lass     |   6.5  | pangea           |
 | 10 | :soon:   | 2022-02-07 16:30:00 | benalla       |      8 |       11 | Starcrippa      |  26    | looseknot        |
 | 11 | :soon:   | 2022-02-07 16:10:00 | muswellbrook  |      4 |        5 | Movin' Denman   |   7.5  | milkman          |
-| 12 | :soon:   | 2022-02-07 15:50:00 | bathurst      |      4 |        4 | Shades Of Rose  |   1.6  | pangea,milkman   |
+| 12 | :boom:   | 2022-02-07 15:50:00 | bathurst      |      4 |        4 | Shades Of Rose  |   1.6  | pangea,milkman   |
 | 13 | :boom:   | 2022-02-07 14:15:00 | muswellbrook  |      1 |       12 | Pirrama         |  12    | cosmo,bluey      |
 | 14 | --       | 2022-02-03 16:27:00 | warwick       |      4 |        2 | Heart Vandelay  |   3.2  | pangea,overthrow |
