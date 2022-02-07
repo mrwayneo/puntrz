@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-07 17:04:21 +1000  
+date: 2022-02-07 17:20:06 +1000  
 ---   
 
 
@@ -74,20 +74,20 @@ date: 2022-02-07 17:04:21 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6252 |    872 | -11989.7 | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7838 |    371 | -22778   | 0.05 | -0.29 |
 
-|    | finish   | time                | track         |   race |   number | name            |   odds | tipster          |
-|---:|:---------|:--------------------|:--------------|-------:|---------:|:----------------|-------:|:-----------------|
-|  0 | :soon:   | 2022-02-08 06:30:00 | wolverhampton |      6 |        9 | Kaahira         |   6.5  | looseknot        |
-|  1 | :soon:   | 2022-02-08 03:40:00 | fontwell      |      8 |        2 | Antony          |   5.5  | pangea           |
-|  2 | :soon:   | 2022-02-08 03:25:00 | carlisle      |      8 |        6 | Maximilian      |   6.5  | vulture,milkman  |
-|  3 | :soon:   | 2022-02-08 02:20:00 | carlisle      |      6 |        3 | Tokay Dokey     |   2.25 | evenodds,milkman |
-|  4 | :soon:   | 2022-02-08 01:25:00 | fontwell      |      4 |        7 | Gamaret         |   2.6  | vulture,milkman  |
-|  5 | :soon:   | 2022-02-08 00:15:00 | fontwell      |      2 |        7 | Kotmask         |   2.5  | milkman          |
-|  6 | :soon:   | 2022-02-07 23:30:00 | carlisle      |      1 |        2 | Apothicaire     |  17    | overthrow        |
-|  7 | :soon:   | 2022-02-07 23:30:00 | carlisle      |      1 |        9 | Masked Crusader |   8    | vulture          |
-|  8 | :soon:   | 2022-02-07 17:20:00 | muswellbrook  |      6 |        9 | Cross Step      |   4    | vulture,milkman  |
-|  9 | :soon:   | 2022-02-07 17:20:00 | muswellbrook  |      6 |        4 | Tawfiq Lass     |   6.5  | pangea           |
-| 10 | 10.0     | 2022-02-07 16:30:00 | benalla       |      8 |       11 | Starcrippa      |  26    | looseknot        |
-| 11 | 7.0      | 2022-02-07 16:10:00 | muswellbrook  |      4 |        5 | Movin' Denman   |   7.5  | milkman          |
-| 12 | :boom:   | 2022-02-07 15:50:00 | bathurst      |      4 |        4 | Shades Of Rose  |   1.6  | pangea,milkman   |
-| 13 | :boom:   | 2022-02-07 14:15:00 | muswellbrook  |      1 |       12 | Pirrama         |  12    | cosmo,bluey      |
-| 14 | --       | 2022-02-03 16:27:00 | warwick       |      4 |        2 | Heart Vandelay  |   3.2  | pangea,overthrow |
+|    | finish                   | time                | track         |   race |   number | name            |   odds | tipster          |
+|---:|:-------------------------|:--------------------|:--------------|-------:|---------:|:----------------|-------:|:-----------------|
+|  0 | :soon:                   | 2022-02-08 06:30:00 | wolverhampton |      6 |        9 | Kaahira         |   6.5  | looseknot        |
+|  1 | :soon:                   | 2022-02-08 03:40:00 | fontwell      |      8 |        2 | Antony          |   5.5  | pangea           |
+|  2 | :soon:                   | 2022-02-08 03:25:00 | carlisle      |      8 |        6 | Maximilian      |   6.5  | vulture,milkman  |
+|  3 | :soon:                   | 2022-02-08 02:20:00 | carlisle      |      6 |        3 | Tokay Dokey     |   2.25 | evenodds,milkman |
+|  4 | :soon:                   | 2022-02-08 01:25:00 | fontwell      |      4 |        7 | Gamaret         |   2.6  | vulture,milkman  |
+|  5 | :soon:                   | 2022-02-08 00:15:00 | fontwell      |      2 |        7 | Kotmask         |   2.5  | milkman          |
+|  6 | :soon:                   | 2022-02-07 23:30:00 | carlisle      |      1 |        2 | Apothicaire     |  17    | overthrow        |
+|  7 | :soon:                   | 2022-02-07 23:30:00 | carlisle      |      1 |        9 | Masked Crusader |   8    | vulture          |
+|  8 | :hourglass_flowing_sand: | 2022-02-07 17:20:00 | muswellbrook  |      6 |        9 | Cross Step      |   4    | vulture,milkman  |
+|  9 | :hourglass_flowing_sand: | 2022-02-07 17:20:00 | muswellbrook  |      6 |        4 | Tawfiq Lass     |   6.5  | pangea           |
+| 10 | 10.0                     | 2022-02-07 16:30:00 | benalla       |      8 |       11 | Starcrippa      |  26    | looseknot        |
+| 11 | 7.0                      | 2022-02-07 16:10:00 | muswellbrook  |      4 |        5 | Movin' Denman   |   7.5  | milkman          |
+| 12 | :boom:                   | 2022-02-07 15:50:00 | bathurst      |      4 |        4 | Shades Of Rose  |   1.6  | pangea,milkman   |
+| 13 | :boom:                   | 2022-02-07 14:15:00 | muswellbrook  |      1 |       12 | Pirrama         |  12    | cosmo,bluey      |
+| 14 | --                       | 2022-02-03 16:27:00 | warwick       |      4 |        2 | Heart Vandelay  |   3.2  | pangea,overthrow |
