@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-02-07 22:54:31 +1000  
+date: 2022-02-08 06:28:21 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      3 |      0 |    -30   | 0    | -1    |
-| Last 6 Months  |     29 |     16 |     17   | 0.55 |  0.06 |
-| Since Jan 2020 |     58 |     31 |      2.7 | 0.53 |  0    |
+| Last 7 Days    |      1 |      1 |     10   | 1    |  1    |
+| Last 28 Days   |      4 |      1 |    -20   | 0.25 | -0.5  |
+| Last 6 Months  |     30 |     17 |     27   | 0.57 |  0.09 |
+| Since Jan 2020 |     59 |     32 |     12.7 | 0.54 |  0.02 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 01:45             | 2022-02-08 | carlisle R5            | 4 Lady Tremaine      |  1.9  |    -10   |
+| :boom:            | 2022-02-08 | carlisle R5            | 4 Lady Tremaine      |  2    |     10   |
 | :3rd_place_medal: | 2022-01-30 | strathalbyn R1         | 8 Ten Feathers       |  0    |    -10   |
 | :3rd_place_medal: | 2022-01-27 | catterick R2           | 2 Get Your Own       |  1.9  |    -10   |
 | :2nd_place_medal: | 2022-01-12 | oakbank R1             | 3 Muffla             |  1.9  |    -10   |
