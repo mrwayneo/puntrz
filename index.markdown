@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-08 07:55:00 +1000  
+date: 2022-02-08 08:56:31 +1000  
 ---   
 
 
@@ -72,20 +72,22 @@ date: 2022-02-08 07:55:00 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6275 |    867 | -12082.7 | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7775 |    369 | -22497   | 0.05 | -0.29 |
 
-|    | finish            | time                | track         |   race |   number | name            |   odds | tipster          |
-|---:|:------------------|:--------------------|:--------------|-------:|---------:|:----------------|-------:|:-----------------|
-|  0 | --                | 2022-02-08 06:30:00 | wolverhampton |      6 |        9 | Kaahira         |   6.5  | looseknot        |
-|  1 | --                | 2022-02-08 03:40:00 | fontwell      |      8 |        2 | Antony          |   5.5  | pangea           |
-|  2 | :boom:            | 2022-02-08 03:25:00 | carlisle      |      8 |        6 | Maximilian      |   6.5  | vulture,milkman  |
-|  3 | :3rd_place_medal: | 2022-02-08 02:20:00 | carlisle      |      6 |        3 | Tokay Dokey     |   2.25 | evenodds,milkman |
-|  4 | :boom:            | 2022-02-08 01:25:00 | fontwell      |      4 |        7 | Gamaret         |   2.6  | vulture,milkman  |
-|  5 | --                | 2022-02-08 00:15:00 | fontwell      |      2 |        7 | Kotmask         |   2.5  | milkman          |
-|  6 | :3rd_place_medal: | 2022-02-07 23:30:00 | carlisle      |      1 |        2 | Apothicaire     |  17    | overthrow        |
-|  7 | :2nd_place_medal: | 2022-02-07 23:30:00 | carlisle      |      1 |        9 | Masked Crusader |   8    | vulture          |
-|  8 | 6.0               | 2022-02-07 17:20:00 | muswellbrook  |      6 |        9 | Cross Step      |   4    | vulture,milkman  |
-|  9 | :boom:            | 2022-02-07 17:20:00 | muswellbrook  |      6 |        4 | Tawfiq Lass     |   6.5  | pangea           |
-| 10 | 10.0              | 2022-02-07 16:30:00 | benalla       |      8 |       11 | Starcrippa      |  26    | looseknot        |
-| 11 | 7.0               | 2022-02-07 16:10:00 | muswellbrook  |      4 |        5 | Movin' Denman   |   7.5  | milkman          |
-| 12 | :boom:            | 2022-02-07 15:50:00 | bathurst      |      4 |        4 | Shades Of Rose  |   1.6  | pangea,milkman   |
-| 13 | :boom:            | 2022-02-07 14:15:00 | muswellbrook  |      1 |       12 | Pirrama         |  12    | cosmo,bluey      |
-| 14 | --                | 2022-02-03 16:27:00 | warwick       |      4 |        2 | Heart Vandelay  |   3.2  | pangea,overthrow |
+|    | finish   | time                | track        |   race |   number | name             |   odds | tipster            |
+|---:|:---------|:--------------------|:-------------|-------:|---------:|:-----------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-02-09 04:50:00 | turffontein  |      9 |        6 | Shangani         |    0   | pangea             |
+|  1 | :soon:   | 2022-02-09 03:45:00 | taunton      |      7 |        6 | Presenting Nelly |    3.5 | overthrow,milkman  |
+|  2 | :soon:   | 2022-02-09 03:40:00 | turffontein  |      7 |       11 | Supreme Warrior  |    0   | milkman            |
+|  3 | :soon:   | 2022-02-09 03:40:00 | turffontein  |      7 |        2 | Aragosta         |    0   | pangea,milkman     |
+|  4 | :soon:   | 2022-02-09 03:30:00 | market-rasen |      7 |        4 | Rosearelli       |    8   | looseknot          |
+|  5 | :soon:   | 2022-02-09 03:10:00 | taunton      |      6 |        2 | Folly Gate       |    4.6 | vulture            |
+|  6 | :soon:   | 2022-02-09 02:35:00 | taunton      |      5 |        2 | Sofia's Rock     |    9.5 | overthrow          |
+|  7 | :soon:   | 2022-02-09 02:30:00 | turffontein  |      5 |        9 | Sweet Future     |    0   | milkman            |
+|  8 | :soon:   | 2022-02-09 02:30:00 | turffontein  |      5 |        5 | Master Archie    |    0   | vulture            |
+|  9 | :soon:   | 2022-02-09 01:45:00 | market-rasen |      4 |        9 | Schalke          |    7.5 | looseknot          |
+| 10 | :soon:   | 2022-02-09 01:25:00 | taunton      |      3 |        1 | Walk In Clover   |    2.2 | evenodds,overthrow |
+| 11 | :soon:   | 2022-02-09 01:25:00 | taunton      |      3 |        4 | Crossrail        |    4.6 | milkman            |
+| 12 | :soon:   | 2022-02-09 00:50:00 | taunton      |      2 |       11 | Clondaw Dancer   |    8.5 | looseknot          |
+| 13 | :soon:   | 2022-02-09 00:15:00 | taunton      |      1 |       10 | Doctor Parnassus |    1.4 | evenodds,overthrow |
+| 14 | :soon:   | 2022-02-08 17:00:00 | ballarat     |      8 |        1 | French Moon      |    3.8 | benny,pangea       |
+| 15 | :soon:   | 2022-02-08 15:05:00 | hawkesbury   |      3 |        5 | Highly Ambitious |    4.5 | vulture,milkman    |
+| 16 | :soon:   | 2022-02-08 13:50:00 | hawkesbury   |      1 |        1 | Naples           |    2.5 | vulture            |
