@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-08 06:28:23 +1000  
+date: 2022-02-08 06:43:20 +1000  
 ---   
 
 
@@ -61,7 +61,7 @@ date: 2022-02-08 06:28:23 +1000
 
 |    | finish            | time                | track         |   race |   number | name            |   odds | tipster          |
 |---:|:------------------|:--------------------|:--------------|-------:|---------:|:----------------|-------:|:-----------------|
-|  0 | :soon:            | 2022-02-08 06:30:00 | wolverhampton |      6 |        9 | Kaahira         |   6.5  | looseknot        |
+|  0 | --                | 2022-02-08 06:30:00 | wolverhampton |      6 |        9 | Kaahira         |   6.5  | looseknot        |
 |  1 | --                | 2022-02-08 03:40:00 | fontwell      |      8 |        2 | Antony          |   5.5  | pangea           |
 |  2 | :boom:            | 2022-02-08 03:25:00 | carlisle      |      8 |        6 | Maximilian      |   6.5  | vulture,milkman  |
 |  3 | :3rd_place_medal: | 2022-02-08 02:20:00 | carlisle      |      6 |        3 | Tokay Dokey     |   2.25 | evenodds,milkman |
