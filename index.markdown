@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-08 15:00:17 +1000  
+date: 2022-02-08 15:15:42 +1000  
 ---   
 
 
@@ -17,7 +17,7 @@ date: 2022-02-08 15:00:17 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      1 |      -37 | 0.14 | -0.53 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      0 |      -50 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      6 |      0 |      -60 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     20 |      0 |     -200 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     20 |      1 |     -105 | 0.05 | -0.52 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     48 |      0 |     -480 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -89,5 +89,5 @@ date: 2022-02-08 15:00:17 +1000
 | 12 | :soon:   | 2022-02-09 00:50:00 | taunton      |      2 |       11 | Clondaw Dancer   |    8.5 | looseknot          |
 | 13 | :soon:   | 2022-02-09 00:15:00 | taunton      |      1 |       10 | Doctor Parnassus |    1.4 | evenodds,overthrow |
 | 14 | :soon:   | 2022-02-08 17:00:00 | ballarat     |      8 |        1 | French Moon      |    3.8 | benny,pangea       |
-| 15 | :soon:   | 2022-02-08 15:05:00 | hawkesbury   |      3 |        5 | Highly Ambitious |    4.5 | vulture,milkman    |
+| 15 | --       | 2022-02-08 15:05:00 | hawkesbury   |      3 |        5 | Highly Ambitious |    4.5 | vulture,milkman    |
 | 16 | :boom:   | 2022-02-08 13:50:00 | hawkesbury   |      1 |        1 | Naples           |    2.5 | vulture            |
