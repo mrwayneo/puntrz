@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-02-09 06:59:03 +1000  
+date: 2022-02-09 07:24:20 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:00             | 2022-02-09 | southwell R7                  | 2 Ubahha              |   3    |    -10   |
+| 0                 | 2022-02-09 | southwell R7                  | 2 Ubahha              |   0    |    -10   |
 | 0                 | 2022-02-09 | turffontein R10               | 3 Chimichuri Run      |   0    |    -10   |
 | 0                 | 2022-02-09 | turffontein R9                | 5 Imperial Ruby       |   0    |    -10   |
 | 0                 | 2022-02-09 | southwell R1                  | 1 Denzil's Laughing   |   0    |    -10   |
