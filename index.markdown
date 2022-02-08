@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-08 15:30:13 +1000  
+date: 2022-02-08 16:03:03 +1000  
 ---   
 
 
@@ -72,22 +72,22 @@ date: 2022-02-08 15:30:13 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6275 |    867 | -12082.7 | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7775 |    369 | -22497   | 0.05 | -0.29 |
 
-|    | finish   | time                | track        |   race |   number | name             |   odds | tipster            |
-|---:|:---------|:--------------------|:-------------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-02-09 04:50:00 | turffontein  |      9 |        6 | Shangani         |    0   | pangea             |
-|  1 | :soon:   | 2022-02-09 03:45:00 | taunton      |      7 |        6 | Presenting Nelly |    3.5 | overthrow,milkman  |
-|  2 | :soon:   | 2022-02-09 03:40:00 | turffontein  |      7 |       11 | Supreme Warrior  |    0   | milkman            |
-|  3 | :soon:   | 2022-02-09 03:40:00 | turffontein  |      7 |        2 | Aragosta         |    0   | pangea,milkman     |
-|  4 | :soon:   | 2022-02-09 03:30:00 | market-rasen |      7 |        4 | Rosearelli       |    8   | looseknot          |
-|  5 | :soon:   | 2022-02-09 03:10:00 | taunton      |      6 |        2 | Folly Gate       |    4.6 | vulture            |
-|  6 | :soon:   | 2022-02-09 02:35:00 | taunton      |      5 |        2 | Sofia's Rock     |    9.5 | overthrow          |
-|  7 | :soon:   | 2022-02-09 02:30:00 | turffontein  |      5 |        9 | Sweet Future     |    0   | milkman            |
-|  8 | :soon:   | 2022-02-09 02:30:00 | turffontein  |      5 |        5 | Master Archie    |    0   | vulture            |
-|  9 | :soon:   | 2022-02-09 01:45:00 | market-rasen |      4 |        9 | Schalke          |    7.5 | looseknot          |
-| 10 | :soon:   | 2022-02-09 01:25:00 | taunton      |      3 |        1 | Walk In Clover   |    2.2 | evenodds,overthrow |
-| 11 | :soon:   | 2022-02-09 01:25:00 | taunton      |      3 |        4 | Crossrail        |    4.6 | milkman            |
-| 12 | :soon:   | 2022-02-09 00:50:00 | taunton      |      2 |       11 | Clondaw Dancer   |    8.5 | looseknot          |
-| 13 | :soon:   | 2022-02-09 00:15:00 | taunton      |      1 |       10 | Doctor Parnassus |    1.4 | evenodds,overthrow |
-| 14 | :soon:   | 2022-02-08 17:00:00 | ballarat     |      8 |        1 | French Moon      |    3.8 | benny,pangea       |
-| 15 | --       | 2022-02-08 15:05:00 | hawkesbury   |      3 |        5 | Highly Ambitious |    4.5 | vulture,milkman    |
-| 16 | :boom:   | 2022-02-08 13:50:00 | hawkesbury   |      1 |        1 | Naples           |    2.5 | vulture            |
+|    | finish            | time                | track        |   race |   number | name             |   odds | tipster            |
+|---:|:------------------|:--------------------|:-------------|-------:|---------:|:-----------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-02-09 04:50:00 | turffontein  |      9 |        6 | Shangani         |    0   | pangea             |
+|  1 | :soon:            | 2022-02-09 03:45:00 | taunton      |      7 |        6 | Presenting Nelly |    3.5 | overthrow,milkman  |
+|  2 | :soon:            | 2022-02-09 03:40:00 | turffontein  |      7 |       11 | Supreme Warrior  |    0   | milkman            |
+|  3 | :soon:            | 2022-02-09 03:40:00 | turffontein  |      7 |        2 | Aragosta         |    0   | pangea,milkman     |
+|  4 | :soon:            | 2022-02-09 03:30:00 | market-rasen |      7 |        4 | Rosearelli       |    8   | looseknot          |
+|  5 | :soon:            | 2022-02-09 03:10:00 | taunton      |      6 |        2 | Folly Gate       |    4.6 | vulture            |
+|  6 | :soon:            | 2022-02-09 02:35:00 | taunton      |      5 |        2 | Sofia's Rock     |    9.5 | overthrow          |
+|  7 | :soon:            | 2022-02-09 02:30:00 | turffontein  |      5 |        9 | Sweet Future     |    0   | milkman            |
+|  8 | :soon:            | 2022-02-09 02:30:00 | turffontein  |      5 |        5 | Master Archie    |    0   | vulture            |
+|  9 | :soon:            | 2022-02-09 01:45:00 | market-rasen |      4 |        9 | Schalke          |    7.5 | looseknot          |
+| 10 | :soon:            | 2022-02-09 01:25:00 | taunton      |      3 |        1 | Walk In Clover   |    2.2 | evenodds,overthrow |
+| 11 | :soon:            | 2022-02-09 01:25:00 | taunton      |      3 |        4 | Crossrail        |    4.6 | milkman            |
+| 12 | :soon:            | 2022-02-09 00:50:00 | taunton      |      2 |       11 | Clondaw Dancer   |    8.5 | looseknot          |
+| 13 | :soon:            | 2022-02-09 00:15:00 | taunton      |      1 |       10 | Doctor Parnassus |    1.4 | evenodds,overthrow |
+| 14 | :soon:            | 2022-02-08 17:00:00 | ballarat     |      8 |        1 | French Moon      |    3.8 | benny,pangea       |
+| 15 | :2nd_place_medal: | 2022-02-08 15:05:00 | hawkesbury   |      3 |        5 | Highly Ambitious |    4.5 | vulture,milkman    |
+| 16 | :boom:            | 2022-02-08 13:50:00 | hawkesbury   |      1 |        1 | Naples           |    2.5 | vulture            |
