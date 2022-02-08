@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-02-09 07:24:25 +1000  
+date: 2022-02-09 08:30:31 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 19:15             | 2022-02-09 | belmont R8             | 7 Ulusaba             |  71   |      -10 |
 | :boom:            | 2022-02-07 | muswellbrook R1        | 12 Pirrama            |  12   |      110 |
 | 6                 | 2022-02-05 | randwick R9            | 6 Broken Arrows       |  17   |      -10 |
 | 0                 | 2022-02-05 | randwick R3            | 6 Jungle Book         |   0   |      -10 |
