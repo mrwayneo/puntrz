@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-09 13:03:06 +1000  
+date: 2022-02-09 14:56:10 +1000  
 categories: None 
 ---   
 
@@ -17,8 +17,8 @@ categories: None
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 16:40             | 2022-02-09 | warwick-farm R5      | 10 Roots             |  2.75 |    -10   |
 | 15:30             | 2022-02-09 | warwick-farm R3      | 9 Paternal           |  3.5  |    -10   |
-| 14:55             | 2022-02-09 | warwick-farm R2      | 13 Arbitration       |  5    |    -10   |
-| 14:20             | 2022-02-09 | warwick-farm R1      | 3 Robusto            |  2.2  |    -10   |
+| 0                 | 2022-02-09 | warwick-farm R2      | 13 Arbitration       |  0    |    -10   |
+| :boom:            | 2022-02-09 | warwick-farm R1      | 3 Robusto            |  2.5  |     15   |
 | :3rd_place_medal: | 2022-02-05 | randwick R10         | 9 No Compromise      |  9    |    -10   |
 | 8                 | 2022-02-05 | randwick R9          | 9 El Buena           | 14    |    -10   |
 | :2nd_place_medal: | 2022-02-05 | randwick R8          | 11 Ranch Hand        |  5.5  |    -10   |
