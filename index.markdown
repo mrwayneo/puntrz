@@ -1,11 +1,28 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-10 07:57:28 +1000  
+date: 2022-02-10 08:07:25 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 |    0 |    -1 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      2 |      0 |      -20 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     11 |      0 |     -110 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     12 |      0 |     -120 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     41 |      0 |     -410 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      0 |     -560 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,60 +76,34 @@ date: 2022-02-10 07:57:28 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6245 |    870 | -11871.5 | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7810 |    367 | -23026   | 0.05 | -0.29 |
 
-|    | finish            | time                | track            |   race |   number | name              |   odds | tipster            |
-|---:|:------------------|:--------------------|:-----------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :boom:            | 2022-02-10 04:30:00 | kempton          |      2 |       10 | Gidwa             |   9.5  | looseknot          |
-|  1 | :3rd_place_medal: | 2022-02-10 03:40:00 | sedgefield       |      7 |        4 | Latino Fling      |   2.35 | overthrow          |
-|  2 | :2nd_place_medal: | 2022-02-10 02:45:00 | fairyhouse       |      7 |        2 | Gjoumi            |   3    | overthrow          |
-|  3 | --                | 2022-02-10 02:30:00 | ludlow           |      6 |        3 | Harde Fashion     |   6    | looseknot          |
-|  4 | :boom:            | 2022-02-10 02:15:00 | fairyhouse       |      6 |        1 | Heia              |   3    | overthrow          |
-|  5 | :boom:            | 2022-02-10 02:07:00 | sedgefield       |      4 |        3 | The Big Jetaway   |   3.2  | overthrow          |
-|  6 | 6.0               | 2022-02-10 02:00:00 | ludlow           |      5 |        5 | Aggy With It      |   7.5  | overthrow          |
-|  7 | --                | 2022-02-10 01:52:00 | fakenham         |      3 |        7 | Teddy Blue        |   2.7  | vulture            |
-|  8 | --                | 2022-02-10 01:22:00 | fakenham         |      2 |        2 | Lucky Lara        |   4.6  | looseknot          |
-|  9 | 5.0               | 2022-02-10 01:22:00 | fakenham         |      2 |        8 | Treacys Jim       |   7    | looseknot          |
-| 10 | :boom:            | 2022-02-10 01:15:00 | fairyhouse       |      4 |        4 | Tempo Chapter Two |   3.2  | evenodds,overthrow |
-| 11 | --                | 2022-02-10 00:55:00 | kenilworth       |      6 |        9 | Auld Mug          |   0    | vulture            |
-| 12 | --                | 2022-02-10 00:37:00 | sedgefield       |      1 |        7 | Red Vision        |   9.5  | evenodds,overthrow |
-| 13 | :boom:            | 2022-02-10 00:30:00 | ludlow           |      2 |        1 | Galop De Chasse   |   2.1  | vulture            |
-| 14 | :2nd_place_medal: | 2022-02-10 00:30:00 | ludlow           |      2 |        2 | Cenotice          |   3.3  | vulture            |
-| 15 | --                | 2022-02-10 00:15:00 | fairyhouse       |      2 |        6 | Recite A Prayer   |   9    | overthrow          |
-| 16 | --                | 2022-02-10 00:15:00 | fairyhouse       |      2 |        4 | John Adams        |   7.5  | pangea             |
-| 17 | :boom:            | 2022-02-10 00:00:00 | ludlow           |      1 |        2 | Ile De Jersey     |   1.5  | overthrow          |
-| 18 | :boom:            | 2022-02-09 23:45:00 | fairyhouse       |      1 |        6 | Dolcita           |   2.1  | overthrow          |
-| 19 | :2nd_place_medal: | 2022-02-09 19:30:00 | sandown-hillside |      8 |        3 | Pal D'oro         |   4.2  | benny,pangea       |
-| 20 | 12.0              | 2022-02-09 19:15:00 | belmont          |      8 |        7 | Ulusaba           |  71    | cosmo,bluey        |
-| 21 | --                | 2022-02-09 19:15:00 | belmont          |      8 |        3 | National Guard    |   4.2  | pangea             |
-| 22 | 4.0               | 2022-02-09 19:00:00 | sandown-hillside |      7 |        2 | Ocean's Thirteen  |   3.8  | vulture            |
-| 23 | :boom:            | 2022-02-09 19:00:00 | sandown-hillside |      7 |        8 | Honeycreeper      |   3.7  | vulture            |
-| 24 | :boom:            | 2022-02-09 18:50:00 | ipswich          |      9 |        3 | Hi Hi Hi          |   3.4  | looseknot          |
-| 25 | 4.0               | 2022-02-09 18:50:00 | ipswich          |      9 |        9 | Sanzera           |   5.5  | evenodds,lago      |
-| 26 | 12.0              | 2022-02-09 18:34:00 | belmont          |      7 |        8 | Makfly            |   9    | pangea             |
-| 27 | :2nd_place_medal: | 2022-02-09 18:30:00 | sandown-hillside |      6 |        7 | Raccolto          |   3.3  | vulture            |
-| 28 | :3rd_place_medal: | 2022-02-09 18:10:00 | ipswich          |      8 |       11 | Fall On A Star    |   2.8  | icyhot             |
-| 29 | :boom:            | 2022-02-09 18:10:00 | ipswich          |      8 |        2 | Charretera        |   3.8  | pangea             |
-| 30 | 5.0               | 2022-02-09 18:10:00 | ipswich          |      8 |        1 | Raging Pole       |  19    | pangea             |
-| 31 | :3rd_place_medal: | 2022-02-09 18:00:00 | sandown-hillside |      5 |        5 | Island Edition    |   3.4  | vulture            |
-| 32 | 5.0               | 2022-02-09 17:54:00 | belmont          |      6 |        3 | Celevacci         |   4.8  | pangea,overthrow   |
-| 33 | :3rd_place_medal: | 2022-02-09 17:25:00 | sandown-hillside |      4 |        2 | Secret Isle       |   9.5  | cosmo,bob          |
-| 34 | :boom:            | 2022-02-09 17:19:00 | belmont          |      5 |        2 | Henchard          |   2.25 | evenodds,overthrow |
-| 35 | 4.0               | 2022-02-09 16:58:00 | ipswich          |      6 |        2 | Corvo             |   3.1  | vulture            |
-| 36 | 5.0               | 2022-02-09 16:58:00 | ipswich          |      6 |        4 | Apache Blue       |   4.6  | vulture            |
-| 37 | :boom:            | 2022-02-09 16:50:00 | sandown-hillside |      3 |        1 | Attractable       |   2.4  | overthrow          |
-| 38 | :2nd_place_medal: | 2022-02-09 16:50:00 | sandown-hillside |      3 |        4 | Matron Bullwinkel |   3.8  | vulture            |
-| 39 | 9.0               | 2022-02-09 16:44:00 | belmont          |      4 |       14 | Arcadia Gem       |  15    | overthrow          |
-| 40 | 9.0               | 2022-02-09 16:40:00 | warwick-farm     |      5 |        8 | Beep Test         |   3.8  | benny,pangea       |
-| 41 | :boom:            | 2022-02-09 16:40:00 | warwick-farm     |      5 |       10 | Roots             |   2.75 | jmac               |
-| 42 | 4.0               | 2022-02-09 16:15:00 | sandown-hillside |      2 |        1 | Morning Melody    |   1.75 | milkman            |
-| 43 | :2nd_place_medal: | 2022-02-09 16:09:00 | belmont          |      3 |        4 | Multinova Man     |   4    | overthrow          |
-| 44 | 7.0               | 2022-02-09 15:48:00 | ipswich          |      4 |        4 | Scarlet Pimpernel |   5.5  | evenodds,overthrow |
-| 45 | 6.0               | 2022-02-09 15:30:00 | warwick-farm     |      3 |        2 | Benaud            |   4.8  | pangea             |
-| 46 | :3rd_place_medal: | 2022-02-09 15:30:00 | warwick-farm     |      3 |        9 | Paternal          |   3.5  | pangea,jmac        |
-| 47 | :boom:            | 2022-02-09 15:20:00 | gawler           |      3 |        8 | Sabaku            |   1.95 | vulture            |
-| 48 | 6.0               | 2022-02-09 15:03:00 | ruakaka          |      9 |        6 | The Mighty Spar   |   4.2  | vulture            |
-| 49 | 5.0               | 2022-02-09 15:03:00 | ruakaka          |      9 |        2 | Dionysus          |   9.5  | vulture            |
-| 50 | :boom:            | 2022-02-09 14:55:00 | warwick-farm     |      2 |       13 | Arbitration       |   5    | vulture,jmac       |
-| 51 | :3rd_place_medal: | 2022-02-09 14:20:00 | warwick-farm     |      1 |        7 | A Lot More Love   |   7    | looseknot          |
-| 52 | 6.0               | 2022-02-09 12:06:00 | ruakaka          |      4 |        7 | Soprano Supreme   |   3.7  | vulture            |
-| 53 | 6.0               | 2022-02-09 10:58:00 | ruakaka          |      2 |        2 | Asperitas         |   3.75 | looseknot          |
-| 54 | :2nd_place_medal: | 2022-02-09 10:23:00 | ruakaka          |      1 |        6 | Skew Wiff         |   4    | looseknot          |
+|    | finish   | time                | track           |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-02-11 03:45:00 | huntingdon      |      7 |        4 | Kateira            |   4.75 | overthrow          |
+|  1 | :soon:   | 2022-02-11 03:45:00 | huntingdon      |      7 |        1 | Mistral Nell       |   4.5  | vulture,milkman    |
+|  2 | :soon:   | 2022-02-11 03:25:00 | newcastle       |      1 |        2 | Shake A Leg        |   7.5  | looseknot          |
+|  3 | :soon:   | 2022-02-11 03:20:00 | doncaster       |      7 |        3 | Progressive        |   4.2  | overthrow          |
+|  4 | :soon:   | 2022-02-11 03:00:00 | thurles         |      5 |        2 | Haxo               |   4.5  | overthrow          |
+|  5 | :soon:   | 2022-02-11 02:50:00 | doncaster       |      6 |        6 | Terresita          |   6    | milkman            |
+|  6 | :soon:   | 2022-02-11 02:45:00 | huntingdon      |      5 |        1 | Wilde About Oscar  |   7    | overthrow          |
+|  7 | :soon:   | 2022-02-11 02:10:00 | huntingdon      |      4 |        5 | Elle Est Belle     |   3.3  | overthrow          |
+|  8 | :soon:   | 2022-02-11 02:10:00 | huntingdon      |      4 |        3 | Jerrash            |   9.5  | vulture,milkman    |
+|  9 | :soon:   | 2022-02-11 02:02:00 | ffos-las        |      4 |        1 | Good Look Charm    |   3.3  | vulture,pangea     |
+| 10 | :soon:   | 2022-02-11 01:55:00 | thurles         |      3 |        1 | Adamantly Chosen   |   1.55 | overthrow          |
+| 11 | :soon:   | 2022-02-11 01:27:00 | ffos-las        |      3 |        1 | Soldier Of Destiny |   4    | pangea             |
+| 12 | :soon:   | 2022-02-11 01:27:00 | ffos-las        |      3 |        2 | Shalakar           |   8    | pangea,blackshadow |
+| 13 | :soon:   | 2022-02-10 20:45:00 | racing.com-park |      7 |        3 | Bottom Line        |   3.5  | pangea             |
+| 14 | :soon:   | 2022-02-10 20:15:00 | racing.com-park |      6 |        3 | Arktika            |   1.5  | pangea,icyhot      |
+| 15 | :soon:   | 2022-02-10 20:00:00 | albany          |      6 |       10 | Garage Days        |   5.5  | overthrow          |
+| 16 | :soon:   | 2022-02-10 19:45:00 | racing.com-park |      5 |        4 | Asymmetrical       |   3.9  | milkman            |
+| 17 | :soon:   | 2022-02-10 19:30:00 | albany          |      5 |        6 | Special Royale     |   2.8  | evenodds,lago      |
+| 18 | :soon:   | 2022-02-10 18:50:00 | albany          |      4 |        3 | Tri For Us         |   1.57 | evenodds,overthrow |
+| 19 | :soon:   | 2022-02-10 18:10:00 | albany          |      3 |        3 | Divine Mercy       |   9    | vulture            |
+| 20 | :soon:   | 2022-02-10 17:50:00 | gatton          |      9 |        2 | Tony's Decree      |   5.5  | pangea             |
+| 21 | :soon:   | 2022-02-10 17:50:00 | gatton          |      9 |        5 | Dulcie Tie         |   4.2  | pangea             |
+| 22 | :soon:   | 2022-02-10 17:33:00 | albany          |      2 |        6 | Final Authority    |   1.65 | overthrow          |
+| 23 | :soon:   | 2022-02-10 17:00:00 | kilmore         |      8 |        1 | Lord Sundowner     |   8    | pangea,moechilli   |
+| 24 | :soon:   | 2022-02-10 16:57:00 | albany          |      1 |        5 | Hole In One        |   2.25 | evenodds,overthrow |
+| 25 | :soon:   | 2022-02-10 16:00:00 | kilmore         |      6 |        3 | Code Blue          |   2.25 | pangea             |
+| 26 | :soon:   | 2022-02-10 15:57:00 | gatton          |      6 |        3 | Vast Kama          |   4    | vulture,pangea     |
+| 27 | :soon:   | 2022-02-10 13:02:00 | gatton          |      1 |        3 | Diwali Lights      |   4.6  | moechilli          |
+| 28 | :soon:   | 2022-02-10 11:53:00 | hastings        |      4 |        4 | Puke Park          |   3.2  | looseknot          |
