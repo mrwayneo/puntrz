@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-02-10 06:55:45 +1000  
+date: 2022-02-10 07:11:24 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:00             | 2022-02-10 | kempton R7                    | 2 Ayda                |  18    |    -10   |
-| 07:00             | 2022-02-10 | kempton R7                    | 12 Miss Pollyanna     |  17    |    -10   |
+| 0                 | 2022-02-10 | kempton R7                    | 2 Ayda                |   0    |    -10   |
+| 0                 | 2022-02-10 | kempton R7                    | 12 Miss Pollyanna     |   0    |    -10   |
 | 0                 | 2022-02-10 | kempton R2                    | 1 Deacs Delight       |   0    |    -10   |
 | :3rd_place_medal: | 2022-02-10 | kempton R2                    | 7 Fat Gladiator       |   6.5  |    -10   |
 | 0                 | 2022-02-10 | sedgefield R7                 | 9 Lizzie Loch         |   0    |    -10   |
