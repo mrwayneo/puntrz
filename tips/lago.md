@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-02-09 18:38:38 +1000  
+date: 2022-02-09 18:53:42 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 18:50             | 2022-02-09 | ipswich R9             | 9 Sanzera            |  5.5  |    -10   |
+| 0                 | 2022-02-09 | ipswich R9             | 9 Sanzera            |  0    |    -10   |
 | 0                 | 2022-02-07 | leopardstown R8        | 14 Pink In The Park  |  0    |    -10   |
 | 0                 | 2022-02-07 | leopardstown R8        | 5 Eabha Grace        |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6      | 6 Husson's Revenge   |  4.6  |    -10   |
@@ -163,8 +163,8 @@ categories: None
 | :boom:            | 2021-04-17 | newbury R8             | 4 Far Hope           |  5    |     40   |
 | :boom:            | 2021-04-17 | newbury R7             | 4 Gloria Mundi       |  6    |     50   |
 | :boom:            | 2021-04-17 | newbury R5             | 1 Hurricane Lane     |  3.75 |     27.5 |
-| :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
 | 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
+| :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
 | :boom:            | 2021-04-15 | kempton R4             | 1 Ransom             |  3.6  |     26   |
 | 99                | 2021-04-15 | newmarket R5           | 2 Divine Light       |  8.5  |    -10   |
 | :2nd_place_medal: | 2021-04-11 | devonport-synthetic R8 | 6 Azara              |  3.1  |    -10   |

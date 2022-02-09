@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-09 18:38:39 +1000  
+date: 2022-02-09 18:53:42 +1000  
 ---   
 
 
@@ -103,13 +103,13 @@ date: 2022-02-09 18:38:39 +1000
 | 21 | :soon:            | 2022-02-09 19:15:00 | belmont          |      8 |        3 | National Guard    |   4.2  | pangea             |
 | 22 | :soon:            | 2022-02-09 19:00:00 | sandown-hillside |      7 |        2 | Ocean's Thirteen  |   3.8  | vulture            |
 | 23 | :soon:            | 2022-02-09 19:00:00 | sandown-hillside |      7 |        8 | Honeycreeper      |   3.7  | vulture            |
-| 24 | :soon:            | 2022-02-09 18:50:00 | ipswich          |      9 |        3 | Hi Hi Hi          |   3.4  | looseknot          |
-| 25 | :soon:            | 2022-02-09 18:50:00 | ipswich          |      9 |        9 | Sanzera           |   5.5  | evenodds,lago      |
+| 24 | --                | 2022-02-09 18:50:00 | ipswich          |      9 |        3 | Hi Hi Hi          |   3.4  | looseknot          |
+| 25 | --                | 2022-02-09 18:50:00 | ipswich          |      9 |        9 | Sanzera           |   5.5  | evenodds,lago      |
 | 26 | --                | 2022-02-09 18:34:00 | belmont          |      7 |        8 | Makfly            |   9    | pangea             |
 | 27 | :2nd_place_medal: | 2022-02-09 18:30:00 | sandown-hillside |      6 |        7 | Raccolto          |   3.3  | vulture            |
 | 28 | :3rd_place_medal: | 2022-02-09 18:10:00 | ipswich          |      8 |       11 | Fall On A Star    |   2.8  | icyhot             |
 | 29 | :boom:            | 2022-02-09 18:10:00 | ipswich          |      8 |        2 | Charretera        |   3.8  | pangea             |
-| 30 | --                | 2022-02-09 18:10:00 | ipswich          |      8 |        1 | Raging Pole       |  19    | pangea             |
+| 30 | 5.0               | 2022-02-09 18:10:00 | ipswich          |      8 |        1 | Raging Pole       |  19    | pangea             |
 | 31 | :3rd_place_medal: | 2022-02-09 18:00:00 | sandown-hillside |      5 |        5 | Island Edition    |   3.4  | vulture            |
 | 32 | 5.0               | 2022-02-09 17:54:00 | belmont          |      6 |        3 | Celevacci         |   4.8  | pangea,overthrow   |
 | 33 | :3rd_place_medal: | 2022-02-09 17:25:00 | sandown-hillside |      4 |        2 | Secret Isle       |   9.5  | cosmo,bob          |
