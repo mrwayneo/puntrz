@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-09 14:56:12 +1000  
+date: 2022-02-09 15:11:25 +1000  
 ---   
 
 
@@ -9,19 +9,19 @@ date: 2022-02-09 14:56:12 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      2 |       13 | 0.5  |  0.32 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      1 |      -15 | 0.25 | -0.38 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      5 |      0 |      -50 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      8 |      0 |      -80 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     18 |      0 |     -180 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     21 |      1 |     -182 | 0.05 | -0.87 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     20 |      0 |     -200 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     21 |      0 |     -210 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     45 |      1 |     -425 | 0.02 | -0.94 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     57 |      0 |     -570 | 0    | -1    |
 
@@ -127,9 +127,9 @@ date: 2022-02-09 14:56:12 +1000
 | 45 | :soon:            | 2022-02-09 15:30:00 | warwick-farm     |      3 |        2 | Benaud            |   4.8  | pangea             |
 | 46 | :soon:            | 2022-02-09 15:30:00 | warwick-farm     |      3 |        9 | Paternal          |   3.5  | pangea,jmac        |
 | 47 | :soon:            | 2022-02-09 15:20:00 | gawler           |      3 |        8 | Sabaku            |   1.95 | vulture            |
-| 48 | :soon:            | 2022-02-09 15:03:00 | ruakaka          |      9 |        6 | The Mighty Spar   |   4.2  | vulture            |
-| 49 | :soon:            | 2022-02-09 15:03:00 | ruakaka          |      9 |        2 | Dionysus          |   9.5  | vulture            |
-| 50 | --                | 2022-02-09 14:55:00 | warwick-farm     |      2 |       13 | Arbitration       |   5    | vulture,jmac       |
+| 48 | --                | 2022-02-09 15:03:00 | ruakaka          |      9 |        6 | The Mighty Spar   |   4.2  | vulture            |
+| 49 | --                | 2022-02-09 15:03:00 | ruakaka          |      9 |        2 | Dionysus          |   9.5  | vulture            |
+| 50 | :boom:            | 2022-02-09 14:55:00 | warwick-farm     |      2 |       13 | Arbitration       |   5    | vulture,jmac       |
 | 51 | :3rd_place_medal: | 2022-02-09 14:20:00 | warwick-farm     |      1 |        7 | A Lot More Love   |   7    | looseknot          |
 | 52 | --                | 2022-02-09 12:06:00 | ruakaka          |      4 |        7 | Soprano Supreme   |   3.7  | vulture            |
 | 53 | --                | 2022-02-09 10:58:00 | ruakaka          |      2 |        2 | Asperitas         |   3.75 | looseknot          |
