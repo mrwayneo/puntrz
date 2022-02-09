@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-09 16:26:32 +1000  
+date: 2022-02-09 16:41:23 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 16:40             | 2022-02-09 | warwick-farm R5      | 10 Roots             |  2.75 |    -10   |
+| 0                 | 2022-02-09 | warwick-farm R5      | 10 Roots             |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-09 | warwick-farm R3      | 9 Paternal           |  3.5  |    -10   |
 | :boom:            | 2022-02-09 | warwick-farm R2      | 13 Arbitration       |  2.8  |     18   |
 | :boom:            | 2022-02-09 | warwick-farm R1      | 3 Robusto            |  2.5  |     15   |

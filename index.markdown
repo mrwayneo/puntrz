@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-09 16:26:33 +1000  
+date: 2022-02-09 16:41:24 +1000  
 ---   
 
 
@@ -119,8 +119,8 @@ date: 2022-02-09 16:26:33 +1000
 | 37 | :soon:            | 2022-02-09 16:50:00 | sandown-hillside |      3 |        1 | Attractable       |   2.4  | overthrow          |
 | 38 | :soon:            | 2022-02-09 16:50:00 | sandown-hillside |      3 |        4 | Matron Bullwinkel |   3.8  | vulture            |
 | 39 | :soon:            | 2022-02-09 16:44:00 | belmont          |      4 |       14 | Arcadia Gem       |  15    | overthrow          |
-| 40 | :soon:            | 2022-02-09 16:40:00 | warwick-farm     |      5 |        8 | Beep Test         |   3.8  | benny,pangea       |
-| 41 | :soon:            | 2022-02-09 16:40:00 | warwick-farm     |      5 |       10 | Roots             |   2.75 | jmac               |
+| 40 | --                | 2022-02-09 16:40:00 | warwick-farm     |      5 |        8 | Beep Test         |   3.8  | benny,pangea       |
+| 41 | --                | 2022-02-09 16:40:00 | warwick-farm     |      5 |       10 | Roots             |   2.75 | jmac               |
 | 42 | 4.0               | 2022-02-09 16:15:00 | sandown-hillside |      2 |        1 | Morning Melody    |   1.75 | milkman            |
 | 43 | :2nd_place_medal: | 2022-02-09 16:09:00 | belmont          |      3 |        4 | Multinova Man     |   4    | overthrow          |
 | 44 | 7.0               | 2022-02-09 15:48:00 | ipswich          |      4 |        4 | Scarlet Pimpernel |   5.5  | evenodds,overthrow |
