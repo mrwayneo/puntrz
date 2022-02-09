@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-09 17:53:29 +1000  
+date: 2022-02-09 18:08:15 +1000  
 ---   
 
 
@@ -110,8 +110,8 @@ date: 2022-02-09 17:53:29 +1000
 | 28 | :soon:            | 2022-02-09 18:10:00 | ipswich          |      8 |       11 | Fall On A Star    |   2.8  | icyhot             |
 | 29 | :soon:            | 2022-02-09 18:10:00 | ipswich          |      8 |        2 | Charretera        |   3.8  | pangea             |
 | 30 | :soon:            | 2022-02-09 18:10:00 | ipswich          |      8 |        1 | Raging Pole       |  19    | pangea             |
-| 31 | :soon:            | 2022-02-09 18:00:00 | sandown-hillside |      5 |        5 | Island Edition    |   3.4  | vulture            |
-| 32 | :soon:            | 2022-02-09 17:54:00 | belmont          |      6 |        3 | Celevacci         |   4.8  | pangea,overthrow   |
+| 31 | :3rd_place_medal: | 2022-02-09 18:00:00 | sandown-hillside |      5 |        5 | Island Edition    |   3.4  | vulture            |
+| 32 | --                | 2022-02-09 17:54:00 | belmont          |      6 |        3 | Celevacci         |   4.8  | pangea,overthrow   |
 | 33 | :3rd_place_medal: | 2022-02-09 17:25:00 | sandown-hillside |      4 |        2 | Secret Isle       |   9.5  | cosmo,bob          |
 | 34 | :boom:            | 2022-02-09 17:19:00 | belmont          |      5 |        2 | Henchard          |   2.25 | evenodds,overthrow |
 | 35 | 4.0               | 2022-02-09 16:58:00 | ipswich          |      6 |        2 | Corvo             |   3.1  | vulture            |
