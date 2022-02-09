@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-09 16:41:24 +1000  
+date: 2022-02-09 16:56:26 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-02-09 16:41:24 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      2 |       13 | 0.5  |  0.32 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      3 |       40 | 0.75 |  1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 | 0    | -1    |
@@ -20,8 +20,8 @@ date: 2022-02-09 16:41:24 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      8 |      0 |      -80 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     21 |      2 |     -168 | 0.1  | -0.8  |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     20 |      1 |     -178 | 0.05 | -0.89 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     18 |      0 |     -180 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     20 |      0 |     -200 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     45 |      4 |     -351 | 0.09 | -0.78 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     57 |      0 |     -570 | 0    | -1    |
 
@@ -116,11 +116,11 @@ date: 2022-02-09 16:41:24 +1000
 | 34 | :soon:            | 2022-02-09 17:19:00 | belmont          |      5 |        2 | Henchard          |   2.25 | evenodds,overthrow |
 | 35 | :soon:            | 2022-02-09 16:58:00 | ipswich          |      6 |        2 | Corvo             |   3.1  | vulture            |
 | 36 | :soon:            | 2022-02-09 16:58:00 | ipswich          |      6 |        4 | Apache Blue       |   4.6  | vulture            |
-| 37 | :soon:            | 2022-02-09 16:50:00 | sandown-hillside |      3 |        1 | Attractable       |   2.4  | overthrow          |
-| 38 | :soon:            | 2022-02-09 16:50:00 | sandown-hillside |      3 |        4 | Matron Bullwinkel |   3.8  | vulture            |
-| 39 | :soon:            | 2022-02-09 16:44:00 | belmont          |      4 |       14 | Arcadia Gem       |  15    | overthrow          |
+| 37 | :boom:            | 2022-02-09 16:50:00 | sandown-hillside |      3 |        1 | Attractable       |   2.4  | overthrow          |
+| 38 | :2nd_place_medal: | 2022-02-09 16:50:00 | sandown-hillside |      3 |        4 | Matron Bullwinkel |   3.8  | vulture            |
+| 39 | --                | 2022-02-09 16:44:00 | belmont          |      4 |       14 | Arcadia Gem       |  15    | overthrow          |
 | 40 | --                | 2022-02-09 16:40:00 | warwick-farm     |      5 |        8 | Beep Test         |   3.8  | benny,pangea       |
-| 41 | --                | 2022-02-09 16:40:00 | warwick-farm     |      5 |       10 | Roots             |   2.75 | jmac               |
+| 41 | :boom:            | 2022-02-09 16:40:00 | warwick-farm     |      5 |       10 | Roots             |   2.75 | jmac               |
 | 42 | 4.0               | 2022-02-09 16:15:00 | sandown-hillside |      2 |        1 | Morning Melody    |   1.75 | milkman            |
 | 43 | :2nd_place_medal: | 2022-02-09 16:09:00 | belmont          |      3 |        4 | Multinova Man     |   4    | overthrow          |
 | 44 | 7.0               | 2022-02-09 15:48:00 | ipswich          |      4 |        4 | Scarlet Pimpernel |   5.5  | evenodds,overthrow |
