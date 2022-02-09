@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-09 10:46:47 +1000  
+date: 2022-02-09 11:00:51 +1000  
 ---   
 
 
@@ -132,5 +132,5 @@ date: 2022-02-09 10:46:47 +1000
 | 50 | :soon:            | 2022-02-09 14:55:00 | warwick-farm     |      2 |       13 | Arbitration       |   5    | vulture,jmac       |
 | 51 | :soon:            | 2022-02-09 14:20:00 | warwick-farm     |      1 |        7 | A Lot More Love   |   7    | looseknot          |
 | 52 | :soon:            | 2022-02-09 12:06:00 | ruakaka          |      4 |        7 | Soprano Supreme   |   3.7  | vulture            |
-| 53 | :soon:            | 2022-02-09 10:58:00 | ruakaka          |      2 |        2 | Asperitas         |   3.75 | looseknot          |
+| 53 | --                | 2022-02-09 10:58:00 | ruakaka          |      2 |        2 | Asperitas         |   3.75 | looseknot          |
 | 54 | :2nd_place_medal: | 2022-02-09 10:23:00 | ruakaka          |      1 |        6 | Skew Wiff         |   4    | looseknot          |
