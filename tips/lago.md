@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-02-09 22:49:59 +1000  
+date: 2022-02-10 06:10:00 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      7 |      2 |    -32.7 | 0.29 | -0.47 |
-| Last 28 Days   |     20 |      7 |   -108.2 | 0.35 | -0.54 |
-| Last 6 Months  |    110 |     64 |    570.4 | 0.58 |  0.52 |
-| Since Jan 2020 |    206 |    104 |   1395.7 | 0.5  |  0.68 |
+| Last 7 Days    |      8 |      2 |    -42.7 | 0.25 | -0.53 |
+| Last 28 Days   |     21 |      7 |   -118.2 | 0.33 | -0.56 |
+| Last 6 Months  |    111 |     64 |    560.4 | 0.58 |  0.5  |
+| Since Jan 2020 |    207 |    104 |   1385.7 | 0.5  |  0.67 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
@@ -163,8 +163,8 @@ categories: None
 | :boom:            | 2021-04-17 | newbury R8             | 4 Far Hope           |  5    |     40   |
 | :boom:            | 2021-04-17 | newbury R7             | 4 Gloria Mundi       |  6    |     50   |
 | :boom:            | 2021-04-17 | newbury R5             | 1 Hurricane Lane     |  3.75 |     27.5 |
-| :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
 | 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
+| :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
 | :boom:            | 2021-04-15 | kempton R4             | 1 Ransom             |  3.6  |     26   |
 | 99                | 2021-04-15 | newmarket R5           | 2 Divine Light       |  8.5  |    -10   |
 | :2nd_place_medal: | 2021-04-11 | devonport-synthetic R8 | 6 Azara              |  3.1  |    -10   |

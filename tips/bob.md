@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-02-09 22:49:59 +1000  
+date: 2022-02-10 06:10:00 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
-| Last 28 Days   |     15 |      1 |    -61   | 0.07 | -0.41 |
-| Last 6 Months  |    120 |     24 |   1665.5 | 0.2  |  1.39 |
-| Since Jan 2020 |    243 |     41 |   3605.5 | 0.17 |  1.48 |
+| Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
+| Last 28 Days   |     16 |      1 |    -71   | 0.06 | -0.44 |
+| Last 6 Months  |    121 |     24 |   1655.5 | 0.2  |  1.37 |
+| Since Jan 2020 |    244 |     41 |   3595.5 | 0.17 |  1.47 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
@@ -47,8 +47,8 @@ categories: None
 | :boom:            | 2021-12-21 | wolverhampton R1              | 6 Ruby Red Empress    |   0    |    -10   |
 | 99                | 2021-12-17 | uttoxeter R3                  | 6 Glebe Road          |   0    |    -10   |
 | 5                 | 2021-12-15 | sandown-hillside R4           | 2 Covert              |  12    |    -10   |
-| 99                | 2021-12-12 | fairyhouse R6                 | 15 Merry Moves        |   0    |    -10   |
 | 99                | 2021-12-12 | fairyhouse R6                 | 3 Bearwithmenow       |   0    |    -10   |
+| 99                | 2021-12-12 | fairyhouse R6                 | 15 Merry Moves        |   0    |    -10   |
 | 99                | 2021-12-11 | cheltenham R4                 | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5                   | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6                 | 8 Precious            |   0    |    -10   |
