@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-09 16:11:31 +1000  
+date: 2022-02-09 16:26:33 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-02-09 16:11:31 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     21 |      2 |     -168 | 0.1  | -0.8  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     18 |      0 |     -180 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     20 |      0 |     -200 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     45 |      3 |     -374 | 0.07 | -0.83 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     45 |      4 |     -351 | 0.09 | -0.78 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     57 |      0 |     -570 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -121,8 +121,8 @@ date: 2022-02-09 16:11:31 +1000
 | 39 | :soon:            | 2022-02-09 16:44:00 | belmont          |      4 |       14 | Arcadia Gem       |  15    | overthrow          |
 | 40 | :soon:            | 2022-02-09 16:40:00 | warwick-farm     |      5 |        8 | Beep Test         |   3.8  | benny,pangea       |
 | 41 | :soon:            | 2022-02-09 16:40:00 | warwick-farm     |      5 |       10 | Roots             |   2.75 | jmac               |
-| 42 | :soon:            | 2022-02-09 16:15:00 | sandown-hillside |      2 |        1 | Morning Melody    |   1.75 | milkman            |
-| 43 | --                | 2022-02-09 16:09:00 | belmont          |      3 |        4 | Multinova Man     |   4    | overthrow          |
+| 42 | 4.0               | 2022-02-09 16:15:00 | sandown-hillside |      2 |        1 | Morning Melody    |   1.75 | milkman            |
+| 43 | :2nd_place_medal: | 2022-02-09 16:09:00 | belmont          |      3 |        4 | Multinova Man     |   4    | overthrow          |
 | 44 | 7.0               | 2022-02-09 15:48:00 | ipswich          |      4 |        4 | Scarlet Pimpernel |   5.5  | evenodds,overthrow |
 | 45 | 6.0               | 2022-02-09 15:30:00 | warwick-farm     |      3 |        2 | Benaud            |   4.8  | pangea             |
 | 46 | :3rd_place_medal: | 2022-02-09 15:30:00 | warwick-farm     |      3 |        9 | Paternal          |   3.5  | pangea,jmac        |
