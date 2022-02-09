@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-09 19:38:49 +1000  
+date: 2022-02-09 19:53:45 +1000  
 ---   
 
 
@@ -99,7 +99,7 @@ date: 2022-02-09 19:38:49 +1000
 | 17 | :soon:            | 2022-02-10 00:00:00 | ludlow           |      1 |        2 | Ile De Jersey     |   1.5  | overthrow          |
 | 18 | :soon:            | 2022-02-09 23:45:00 | fairyhouse       |      1 |        6 | Dolcita           |   2.1  | overthrow          |
 | 19 | :2nd_place_medal: | 2022-02-09 19:30:00 | sandown-hillside |      8 |        3 | Pal D'oro         |   4.2  | benny,pangea       |
-| 20 | --                | 2022-02-09 19:15:00 | belmont          |      8 |        7 | Ulusaba           |  71    | cosmo,bluey        |
+| 20 | 12.0              | 2022-02-09 19:15:00 | belmont          |      8 |        7 | Ulusaba           |  71    | cosmo,bluey        |
 | 21 | --                | 2022-02-09 19:15:00 | belmont          |      8 |        3 | National Guard    |   4.2  | pangea             |
 | 22 | 4.0               | 2022-02-09 19:00:00 | sandown-hillside |      7 |        2 | Ocean's Thirteen  |   3.8  | vulture            |
 | 23 | :boom:            | 2022-02-09 19:00:00 | sandown-hillside |      7 |        8 | Honeycreeper      |   3.7  | vulture            |
