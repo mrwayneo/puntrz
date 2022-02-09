@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-09 15:27:15 +1000  
+date: 2022-02-09 15:41:27 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-02-09 15:27:15 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     21 |      2 |     -168 | 0.1  | -0.8  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     18 |      0 |     -180 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     20 |      0 |     -200 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     45 |      1 |     -425 | 0.02 | -0.94 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     45 |      2 |     -391 | 0.04 | -0.87 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     57 |      0 |     -570 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -124,8 +124,8 @@ date: 2022-02-09 15:27:15 +1000
 | 42 | :soon:            | 2022-02-09 16:15:00 | sandown-hillside |      2 |        1 | Morning Melody    |   1.75 | milkman            |
 | 43 | :soon:            | 2022-02-09 16:09:00 | belmont          |      3 |        4 | Multinova Man     |   4    | overthrow          |
 | 44 | :soon:            | 2022-02-09 15:48:00 | ipswich          |      4 |        4 | Scarlet Pimpernel |   5.5  | evenodds,overthrow |
-| 45 | :soon:            | 2022-02-09 15:30:00 | warwick-farm     |      3 |        2 | Benaud            |   4.8  | pangea             |
-| 46 | :soon:            | 2022-02-09 15:30:00 | warwick-farm     |      3 |        9 | Paternal          |   3.5  | pangea,jmac        |
+| 45 | 6.0               | 2022-02-09 15:30:00 | warwick-farm     |      3 |        2 | Benaud            |   4.8  | pangea             |
+| 46 | :3rd_place_medal: | 2022-02-09 15:30:00 | warwick-farm     |      3 |        9 | Paternal          |   3.5  | pangea,jmac        |
 | 47 | :boom:            | 2022-02-09 15:20:00 | gawler           |      3 |        8 | Sabaku            |   1.95 | vulture            |
 | 48 | --                | 2022-02-09 15:03:00 | ruakaka          |      9 |        6 | The Mighty Spar   |   4.2  | vulture            |
 | 49 | --                | 2022-02-09 15:03:00 | ruakaka          |      9 |        2 | Dionysus          |   9.5  | vulture            |
