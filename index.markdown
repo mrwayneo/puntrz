@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-09 16:56:26 +1000  
+date: 2022-02-09 17:12:25 +1000  
 ---   
 
 
@@ -114,12 +114,12 @@ date: 2022-02-09 16:56:26 +1000
 | 32 | :soon:            | 2022-02-09 17:54:00 | belmont          |      6 |        3 | Celevacci         |   4.8  | pangea,overthrow   |
 | 33 | :soon:            | 2022-02-09 17:25:00 | sandown-hillside |      4 |        2 | Secret Isle       |   9.5  | cosmo,bob          |
 | 34 | :soon:            | 2022-02-09 17:19:00 | belmont          |      5 |        2 | Henchard          |   2.25 | evenodds,overthrow |
-| 35 | :soon:            | 2022-02-09 16:58:00 | ipswich          |      6 |        2 | Corvo             |   3.1  | vulture            |
-| 36 | :soon:            | 2022-02-09 16:58:00 | ipswich          |      6 |        4 | Apache Blue       |   4.6  | vulture            |
+| 35 | 4.0               | 2022-02-09 16:58:00 | ipswich          |      6 |        2 | Corvo             |   3.1  | vulture            |
+| 36 | --                | 2022-02-09 16:58:00 | ipswich          |      6 |        4 | Apache Blue       |   4.6  | vulture            |
 | 37 | :boom:            | 2022-02-09 16:50:00 | sandown-hillside |      3 |        1 | Attractable       |   2.4  | overthrow          |
 | 38 | :2nd_place_medal: | 2022-02-09 16:50:00 | sandown-hillside |      3 |        4 | Matron Bullwinkel |   3.8  | vulture            |
 | 39 | --                | 2022-02-09 16:44:00 | belmont          |      4 |       14 | Arcadia Gem       |  15    | overthrow          |
-| 40 | --                | 2022-02-09 16:40:00 | warwick-farm     |      5 |        8 | Beep Test         |   3.8  | benny,pangea       |
+| 40 | 9.0               | 2022-02-09 16:40:00 | warwick-farm     |      5 |        8 | Beep Test         |   3.8  | benny,pangea       |
 | 41 | :boom:            | 2022-02-09 16:40:00 | warwick-farm     |      5 |       10 | Roots             |   2.75 | jmac               |
 | 42 | 4.0               | 2022-02-09 16:15:00 | sandown-hillside |      2 |        1 | Morning Melody    |   1.75 | milkman            |
 | 43 | :2nd_place_medal: | 2022-02-09 16:09:00 | belmont          |      3 |        4 | Multinova Man     |   4    | overthrow          |
