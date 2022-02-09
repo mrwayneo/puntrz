@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-09 15:56:30 +1000  
+date: 2022-02-09 16:11:31 +1000  
 ---   
 
 
@@ -122,15 +122,15 @@ date: 2022-02-09 15:56:30 +1000
 | 40 | :soon:            | 2022-02-09 16:40:00 | warwick-farm     |      5 |        8 | Beep Test         |   3.8  | benny,pangea       |
 | 41 | :soon:            | 2022-02-09 16:40:00 | warwick-farm     |      5 |       10 | Roots             |   2.75 | jmac               |
 | 42 | :soon:            | 2022-02-09 16:15:00 | sandown-hillside |      2 |        1 | Morning Melody    |   1.75 | milkman            |
-| 43 | :soon:            | 2022-02-09 16:09:00 | belmont          |      3 |        4 | Multinova Man     |   4    | overthrow          |
-| 44 | --                | 2022-02-09 15:48:00 | ipswich          |      4 |        4 | Scarlet Pimpernel |   5.5  | evenodds,overthrow |
+| 43 | --                | 2022-02-09 16:09:00 | belmont          |      3 |        4 | Multinova Man     |   4    | overthrow          |
+| 44 | 7.0               | 2022-02-09 15:48:00 | ipswich          |      4 |        4 | Scarlet Pimpernel |   5.5  | evenodds,overthrow |
 | 45 | 6.0               | 2022-02-09 15:30:00 | warwick-farm     |      3 |        2 | Benaud            |   4.8  | pangea             |
 | 46 | :3rd_place_medal: | 2022-02-09 15:30:00 | warwick-farm     |      3 |        9 | Paternal          |   3.5  | pangea,jmac        |
 | 47 | :boom:            | 2022-02-09 15:20:00 | gawler           |      3 |        8 | Sabaku            |   1.95 | vulture            |
-| 48 | --                | 2022-02-09 15:03:00 | ruakaka          |      9 |        6 | The Mighty Spar   |   4.2  | vulture            |
-| 49 | --                | 2022-02-09 15:03:00 | ruakaka          |      9 |        2 | Dionysus          |   9.5  | vulture            |
+| 48 | 6.0               | 2022-02-09 15:03:00 | ruakaka          |      9 |        6 | The Mighty Spar   |   4.2  | vulture            |
+| 49 | 5.0               | 2022-02-09 15:03:00 | ruakaka          |      9 |        2 | Dionysus          |   9.5  | vulture            |
 | 50 | :boom:            | 2022-02-09 14:55:00 | warwick-farm     |      2 |       13 | Arbitration       |   5    | vulture,jmac       |
 | 51 | :3rd_place_medal: | 2022-02-09 14:20:00 | warwick-farm     |      1 |        7 | A Lot More Love   |   7    | looseknot          |
-| 52 | --                | 2022-02-09 12:06:00 | ruakaka          |      4 |        7 | Soprano Supreme   |   3.7  | vulture            |
-| 53 | --                | 2022-02-09 10:58:00 | ruakaka          |      2 |        2 | Asperitas         |   3.75 | looseknot          |
+| 52 | 6.0               | 2022-02-09 12:06:00 | ruakaka          |      4 |        7 | Soprano Supreme   |   3.7  | vulture            |
+| 53 | 6.0               | 2022-02-09 10:58:00 | ruakaka          |      2 |        2 | Asperitas         |   3.75 | looseknot          |
 | 54 | :2nd_place_medal: | 2022-02-09 10:23:00 | ruakaka          |      1 |        6 | Skew Wiff         |   4    | looseknot          |
