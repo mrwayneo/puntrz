@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-02-09 12:45:02 +1000  
+date: 2022-02-09 13:02:58 +1000  
 categories: None 
 ---   
 
@@ -324,8 +324,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-28 | darwin R4                     | 2 Sebrakate           | 15    |    -10   |
 | :boom:            | 2021-08-28 | darwin R3                     | 4 Patriot Day         | 10.5  |     95   |
 | 9                 | 2021-08-28 | darwin R3                     | 3 Kaptan Apollo       | 26    |    -10   |
-| 11                | 2021-08-28 | cairns R6                     | 3 Hidden in Heaven    | 34    |    -10   |
 | 7                 | 2021-08-28 | cairns R6                     | 8 Bold Type           |  4.2  |    -10   |
+| 11                | 2021-08-28 | cairns R6                     | 3 Hidden in Heaven    | 34    |    -10   |
 | 5                 | 2021-08-28 | caulfield R6                  | 10 Diamonds Inthe Sky | 21    |    -10   |
 | 7                 | 2021-08-28 | darwin R2                     | 3 Trebla              |  5.5  |    -10   |
 | 9                 | 2021-08-28 | doomben R6                    | 4 Let's Party Marty   | 19    |    -10   |
@@ -836,8 +836,8 @@ categories: None
 | :2nd_place_medal: | 2020-05-18 | ballarat-synthetic R7         | 8 Channing            | 11    |    -10   |
 | 5                 | 2020-05-17 | parkes R7                     | 1 A Magic Zariz       | 10.2  |    -10   |
 | :boom:            | 2020-05-16 | ascot R2                      | 3 We've Got Dreams    |  8.5  |     75   |
-| :2nd_place_medal: | 2020-05-16 | gold-coast R5                 | 12 Thine is the Power |  3    |    -10   |
 | 5                 | 2020-05-16 | gold-coast R5                 | 2 Right or Wrong      | 13    |    -10   |
+| :2nd_place_medal: | 2020-05-16 | gold-coast R5                 | 12 Thine is the Power |  3    |    -10   |
 | :2nd_place_medal: | 2020-05-16 | flemington R1                 | 2 Gododdin            |  7.5  |    -10   |
 | 8                 | 2020-05-15 | sunshine-coast R5             | 2 Scout               | 11.2  |    -10   |
 | 5                 | 2020-05-15 | sunshine-coast R2             | 4 Quality Seeker      |  2.6  |    -10   |
