@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-09 18:08:15 +1000  
+date: 2022-02-09 18:23:41 +1000  
 ---   
 
 
@@ -17,8 +17,8 @@ date: 2022-02-09 18:08:15 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      5 |      1 |      -30 | 0.2  | -0.6  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     11 |      1 |      -55 | 0.09 | -0.5  |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      8 |      0 |      -80 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     20 |      2 |     -158 | 0.1  | -0.79 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     21 |      2 |     -168 | 0.1  | -0.8  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     18 |      0 |     -180 | 0    | -1    |
@@ -107,9 +107,9 @@ date: 2022-02-09 18:08:15 +1000
 | 25 | :soon:            | 2022-02-09 18:50:00 | ipswich          |      9 |        9 | Sanzera           |   5.5  | evenodds,lago      |
 | 26 | :soon:            | 2022-02-09 18:34:00 | belmont          |      7 |        8 | Makfly            |   9    | pangea             |
 | 27 | :soon:            | 2022-02-09 18:30:00 | sandown-hillside |      6 |        7 | Raccolto          |   3.3  | vulture            |
-| 28 | :soon:            | 2022-02-09 18:10:00 | ipswich          |      8 |       11 | Fall On A Star    |   2.8  | icyhot             |
-| 29 | :soon:            | 2022-02-09 18:10:00 | ipswich          |      8 |        2 | Charretera        |   3.8  | pangea             |
-| 30 | :soon:            | 2022-02-09 18:10:00 | ipswich          |      8 |        1 | Raging Pole       |  19    | pangea             |
+| 28 | :3rd_place_medal: | 2022-02-09 18:10:00 | ipswich          |      8 |       11 | Fall On A Star    |   2.8  | icyhot             |
+| 29 | :boom:            | 2022-02-09 18:10:00 | ipswich          |      8 |        2 | Charretera        |   3.8  | pangea             |
+| 30 | --                | 2022-02-09 18:10:00 | ipswich          |      8 |        1 | Raging Pole       |  19    | pangea             |
 | 31 | :3rd_place_medal: | 2022-02-09 18:00:00 | sandown-hillside |      5 |        5 | Island Edition    |   3.4  | vulture            |
 | 32 | --                | 2022-02-09 17:54:00 | belmont          |      6 |        3 | Celevacci         |   4.8  | pangea,overthrow   |
 | 33 | :3rd_place_medal: | 2022-02-09 17:25:00 | sandown-hillside |      4 |        2 | Secret Isle       |   9.5  | cosmo,bob          |
