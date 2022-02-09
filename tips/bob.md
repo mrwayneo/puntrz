@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-02-09 17:12:23 +1000  
+date: 2022-02-09 17:28:43 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 17:25             | 2022-02-09 | sandown-hillside R4           | 2 Secret Isle         |   9.5  |    -10   |
+| 0                 | 2022-02-09 | sandown-hillside R4           | 2 Secret Isle         |   0    |    -10   |
 | 0                 | 2022-02-07 | leopardstown R7               | 23 Suprise Package    |   0    |    -10   |
 | 11                | 2022-02-06 | pinjarra R7                   | 7 Outspoken Lad       |  20    |    -10   |
 | 9                 | 2022-02-05 | randwick R9                   | 7 Soami               |  21    |    -10   |
@@ -47,8 +47,8 @@ categories: None
 | :boom:            | 2021-12-21 | wolverhampton R1              | 6 Ruby Red Empress    |   0    |    -10   |
 | 99                | 2021-12-17 | uttoxeter R3                  | 6 Glebe Road          |   0    |    -10   |
 | 5                 | 2021-12-15 | sandown-hillside R4           | 2 Covert              |  12    |    -10   |
-| 99                | 2021-12-12 | fairyhouse R6                 | 3 Bearwithmenow       |   0    |    -10   |
 | 99                | 2021-12-12 | fairyhouse R6                 | 15 Merry Moves        |   0    |    -10   |
+| 99                | 2021-12-12 | fairyhouse R6                 | 3 Bearwithmenow       |   0    |    -10   |
 | 99                | 2021-12-11 | cheltenham R4                 | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5                   | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6                 | 8 Precious            |   0    |    -10   |

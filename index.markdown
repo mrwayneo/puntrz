@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-09 17:12:25 +1000  
+date: 2022-02-09 17:28:43 +1000  
 ---   
 
 
@@ -15,12 +15,12 @@ date: 2022-02-09 17:12:25 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      5 |      1 |      -30 | 0.2  | -0.6  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      5 |      0 |      -50 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      8 |      0 |      -80 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     11 |      0 |     -110 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     20 |      2 |     -158 | 0.1  | -0.79 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     21 |      2 |     -168 | 0.1  | -0.8  |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     20 |      1 |     -178 | 0.05 | -0.89 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     18 |      0 |     -180 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     45 |      4 |     -351 | 0.09 | -0.78 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     57 |      0 |     -570 | 0    | -1    |
@@ -112,13 +112,13 @@ date: 2022-02-09 17:12:25 +1000
 | 30 | :soon:            | 2022-02-09 18:10:00 | ipswich          |      8 |        1 | Raging Pole       |  19    | pangea             |
 | 31 | :soon:            | 2022-02-09 18:00:00 | sandown-hillside |      5 |        5 | Island Edition    |   3.4  | vulture            |
 | 32 | :soon:            | 2022-02-09 17:54:00 | belmont          |      6 |        3 | Celevacci         |   4.8  | pangea,overthrow   |
-| 33 | :soon:            | 2022-02-09 17:25:00 | sandown-hillside |      4 |        2 | Secret Isle       |   9.5  | cosmo,bob          |
-| 34 | :soon:            | 2022-02-09 17:19:00 | belmont          |      5 |        2 | Henchard          |   2.25 | evenodds,overthrow |
+| 33 | --                | 2022-02-09 17:25:00 | sandown-hillside |      4 |        2 | Secret Isle       |   9.5  | cosmo,bob          |
+| 34 | :boom:            | 2022-02-09 17:19:00 | belmont          |      5 |        2 | Henchard          |   2.25 | evenodds,overthrow |
 | 35 | 4.0               | 2022-02-09 16:58:00 | ipswich          |      6 |        2 | Corvo             |   3.1  | vulture            |
-| 36 | --                | 2022-02-09 16:58:00 | ipswich          |      6 |        4 | Apache Blue       |   4.6  | vulture            |
+| 36 | 5.0               | 2022-02-09 16:58:00 | ipswich          |      6 |        4 | Apache Blue       |   4.6  | vulture            |
 | 37 | :boom:            | 2022-02-09 16:50:00 | sandown-hillside |      3 |        1 | Attractable       |   2.4  | overthrow          |
 | 38 | :2nd_place_medal: | 2022-02-09 16:50:00 | sandown-hillside |      3 |        4 | Matron Bullwinkel |   3.8  | vulture            |
-| 39 | --                | 2022-02-09 16:44:00 | belmont          |      4 |       14 | Arcadia Gem       |  15    | overthrow          |
+| 39 | 9.0               | 2022-02-09 16:44:00 | belmont          |      4 |       14 | Arcadia Gem       |  15    | overthrow          |
 | 40 | 9.0               | 2022-02-09 16:40:00 | warwick-farm     |      5 |        8 | Beep Test         |   3.8  | benny,pangea       |
 | 41 | :boom:            | 2022-02-09 16:40:00 | warwick-farm     |      5 |       10 | Roots             |   2.75 | jmac               |
 | 42 | 4.0               | 2022-02-09 16:15:00 | sandown-hillside |      2 |        1 | Morning Melody    |   1.75 | milkman            |
