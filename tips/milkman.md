@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-02-10 22:45:59 +1000  
+date: 2022-02-11 07:19:18 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     45 |     10 |   -205.2 | 0.22 | -0.46 |
-| Last 28 Days   |    175 |     45 |   -913.6 | 0.26 | -0.52 |
-| Last 6 Months  |   1132 |    278 |  -2937.6 | 0.25 | -0.26 |
-| Since Jan 2020 |   2753 |    692 |  -4861.8 | 0.25 | -0.18 |
+| Last 7 Days    |     30 |      7 |   -129   | 0.23 | -0.43 |
+| Last 28 Days   |    176 |     43 |   -962.1 | 0.24 | -0.55 |
+| Last 6 Months  |   1136 |    278 |  -2977.6 | 0.24 | -0.26 |
+| Since Jan 2020 |   2757 |    692 |  -4901.8 | 0.25 | -0.18 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 03:45             | 2022-02-11 | huntingdon R7                | 1 Mistral Nell        |   4.5  |    -10   |
-| 02:50             | 2022-02-11 | doncaster R6                 | 6 Terresita           |   6    |    -10   |
-| 02:10             | 2022-02-11 | huntingdon R4                | 3 Jerrash             |   9.5  |    -10   |
+| 0                 | 2022-02-11 | huntingdon R7                | 1 Mistral Nell        |   0    |    -10   |
+| 0                 | 2022-02-11 | doncaster R6                 | 6 Terresita           |   0    |    -10   |
+| 0                 | 2022-02-11 | huntingdon R4                | 3 Jerrash             |   0    |    -10   |
 | :2nd_place_medal: | 2022-02-10 | racing.com-park R5           | 4 Asymmetrical        |   3.9  |    -10   |
 | :3rd_place_medal: | 2022-02-10 | kenilworth R5                | 6 Gimmie A Star       |   0    |    -10   |
 | 4                 | 2022-02-09 | ipswich R9                   | 9 Sanzera             |   5.5  |    -10   |

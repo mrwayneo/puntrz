@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-02-10 22:46:00 +1000  
+date: 2022-02-11 07:19:19 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     17 |      4 |     38   | 0.24 |  0.22 |
-| Last 28 Days   |     74 |      8 |   -293   | 0.11 | -0.4  |
-| Last 6 Months  |    639 |    104 |   -304.8 | 0.16 | -0.05 |
-| Since Jan 2020 |   1324 |    202 |  -1523.8 | 0.15 | -0.12 |
+| Last 7 Days    |     15 |      5 |    113   | 0.33 |  0.75 |
+| Last 28 Days   |     71 |      9 |   -208   | 0.13 | -0.29 |
+| Last 6 Months  |    641 |    105 |   -269.8 | 0.16 | -0.04 |
+| Since Jan 2020 |   1326 |    203 |  -1488.8 | 0.15 | -0.11 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:25             | 2022-02-11 | newcastle R1                  | 2 Shake A Leg         |   7.5  |    -10   |
+| 0                 | 2022-02-11 | newcastle R1                  | 2 Shake A Leg         |   0    |    -10   |
 | :boom:            | 2022-02-10 | hastings R4                   | 4 Puke Park           |   5.5  |     45   |
 | :boom:            | 2022-02-10 | kempton R2                    | 10 Gidwa              |   4.8  |     38   |
 | 0                 | 2022-02-10 | ludlow R6                     | 3 Harde Fashion       |   0    |    -10   |

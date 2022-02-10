@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-02-10 22:45:57 +1000  
+date: 2022-02-11 07:19:16 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     80 |     23 |    137.8 | 0.29 |  0.17 |
-| Last 28 Days   |    320 |     65 |  -1233.5 | 0.2  | -0.39 |
-| Last 6 Months  |   2791 |    683 |  -4906.1 | 0.24 | -0.18 |
-| Since Jan 2020 |   6530 |   1581 | -10539.1 | 0.24 | -0.16 |
+| Last 7 Days    |     55 |     15 |     -4.9 | 0.27 | -0.01 |
+| Last 28 Days   |    312 |     65 |  -1129   | 0.21 | -0.36 |
+| Last 6 Months  |   2796 |    684 |  -4909.1 | 0.24 | -0.18 |
+| Since Jan 2020 |   6535 |   1582 | -10542.1 | 0.24 | -0.16 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:45             | 2022-02-11 | huntingdon R7                 | 1 Mistral Nell        |   4.5  |    -10   |
-| 02:10             | 2022-02-11 | huntingdon R4                 | 3 Jerrash             |   9.5  |    -10   |
-| 02:02             | 2022-02-11 | ffos-las R4                   | 1 Good Look Charm     |   3.3  |    -10   |
+| 0                 | 2022-02-11 | huntingdon R7                 | 1 Mistral Nell        |   0    |    -10   |
+| 0                 | 2022-02-11 | huntingdon R4                 | 3 Jerrash             |   0    |    -10   |
+| 0                 | 2022-02-11 | ffos-las R4                   | 1 Good Look Charm     |   0    |    -10   |
 | 7                 | 2022-02-10 | albany R3                     | 3 Divine Mercy        |   9    |    -10   |
 | :boom:            | 2022-02-10 | gatton R6                     | 3 Vast Kama           |   4.7  |     37   |
 | 0                 | 2022-02-10 | fakenham R3                   | 7 Teddy Blue          |   0    |    -10   |

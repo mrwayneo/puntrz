@@ -1,51 +1,51 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-02-10 22:46:02 +1000  
+date: 2022-02-11 07:19:21 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    221 |     12 |      -97 | 0.05 | -0.04 |
-| Last 28 Days   |   1225 |     34 |    -7017 | 0.03 | -0.57 |
-| Last 6 Months  |   8127 |    389 |   -23021 | 0.05 | -0.28 |
-| Since Jan 2020 |  17692 |    911 |   -39139 | 0.05 | -0.22 |
+| Last 7 Days    |    203 |     11 |      153 | 0.05 |  0.08 |
+| Last 28 Days   |   1236 |     37 |    -6628 | 0.03 | -0.54 |
+| Last 6 Months  |   8183 |    392 |   -23082 | 0.05 | -0.28 |
+| Since Jan 2020 |  17748 |    914 |   -39200 | 0.05 | -0.22 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 06:00             | 2022-02-11 | newcastle R6                  | 7 Tarnhelm            |  19    |    -10   |
-| 03:30             | 2022-02-11 | thurles R6                    | 1 Something Sweet     |  10    |    -10   |
-| 03:30             | 2022-02-11 | thurles R6                    | 4 Chelseas Friend     |  26    |    -10   |
-| 03:25             | 2022-02-11 | newcastle R1                  | 4 Caldwell            |  19    |    -10   |
-| 03:20             | 2022-02-11 | doncaster R7                  | 6 Stop Talking        |  34    |    -10   |
-| 03:20             | 2022-02-11 | doncaster R7                  | 4 Miss Delighted      |  21    |    -10   |
-| 03:15             | 2022-02-11 | huntingdon R6                 | 4 San Pedro De Senam  |  19    |    -10   |
-| 03:07             | 2022-02-11 | ffos-las R6                   | 7 Heure De Gloire     |  12    |    -10   |
-| 03:07             | 2022-02-11 | ffos-las R6                   | 2 Champagne Rhythm    |  10    |    -10   |
-| 03:00             | 2022-02-11 | thurles R5                    | 12 Katlaur            | 101    |    -10   |
-| 03:00             | 2022-02-11 | thurles R5                    | 3 All About Joe       |  13    |    -10   |
-| 02:50             | 2022-02-11 | doncaster R6                  | 1 Sultans Pride       |  11    |    -10   |
-| 02:50             | 2022-02-11 | doncaster R6                  | 3 Faire Part Sivola   |  12    |    -10   |
-| 02:50             | 2022-02-11 | doncaster R6                  | 2 Dell' Arca          |  21    |    -10   |
-| 02:37             | 2022-02-11 | ffos-las R5                   | 5 Thomas Patrick      |  17    |    -10   |
-| 02:20             | 2022-02-11 | doncaster R5                  | 4 Creggan White Hare  |  11    |    -10   |
-| 01:55             | 2022-02-11 | thurles R3                    | 16 Prince Zaltar      | 151    |    -10   |
-| 01:20             | 2022-02-11 | thurles R2                    | 7 Kilkeaskins First   |  20    |    -10   |
-| 01:20             | 2022-02-11 | thurles R2                    | 3 Damut               |  26    |    -10   |
-| 01:10             | 2022-02-11 | doncaster R3                  | 4 Coole Lion          |  17    |    -10   |
-| 01:10             | 2022-02-11 | doncaster R3                  | 11 Well Cliche        |  26    |    -10   |
-| 00:45             | 2022-02-11 | thurles R1                    | 11 Dreamsrmadeofthis  |  17    |    -10   |
-| 00:45             | 2022-02-11 | thurles R1                    | 10 Quarry Lil         |  26    |    -10   |
-| 00:45             | 2022-02-11 | thurles R1                    | 9 Nazine              |  15    |    -10   |
-| 00:45             | 2022-02-11 | thurles R1                    | 1 Carrigeen Castle    | 151    |    -10   |
-| 00:45             | 2022-02-11 | thurles R1                    | 3 For Everyone        |  19    |    -10   |
-| 00:45             | 2022-02-11 | thurles R1                    | 8 Kingston Kid        |  15    |    -10   |
-| 00:35             | 2022-02-11 | doncaster R2                  | 11 Thunder Ahead      |  12    |    -10   |
-| 00:25             | 2022-02-11 | huntingdon R1                 | 7 Order Of St John    |  41    |    -10   |
-| 00:17             | 2022-02-11 | ffos-las R1                   | 3 Del La Mar Rocket   |  12    |    -10   |
-| 00:00             | 2022-02-11 | doncaster R1                  | 2 Glan Y Gors         |  51    |    -10   |
+| 0                 | 2022-02-11 | newcastle R6                  | 7 Tarnhelm            |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R6                    | 1 Something Sweet     |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R6                    | 4 Chelseas Friend     |   0    |    -10   |
+| 0                 | 2022-02-11 | newcastle R1                  | 4 Caldwell            |   0    |    -10   |
+| 0                 | 2022-02-11 | doncaster R7                  | 6 Stop Talking        |   0    |    -10   |
+| 0                 | 2022-02-11 | doncaster R7                  | 4 Miss Delighted      |   0    |    -10   |
+| 0                 | 2022-02-11 | huntingdon R6                 | 4 San Pedro De Senam  |   0    |    -10   |
+| 0                 | 2022-02-11 | ffos-las R6                   | 7 Heure De Gloire     |   0    |    -10   |
+| 0                 | 2022-02-11 | ffos-las R6                   | 2 Champagne Rhythm    |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R5                    | 12 Katlaur            |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R5                    | 3 All About Joe       |   0    |    -10   |
+| 0                 | 2022-02-11 | doncaster R6                  | 1 Sultans Pride       |   0    |    -10   |
+| 0                 | 2022-02-11 | doncaster R6                  | 3 Faire Part Sivola   |   0    |    -10   |
+| 0                 | 2022-02-11 | doncaster R6                  | 2 Dell' Arca          |   0    |    -10   |
+| 0                 | 2022-02-11 | ffos-las R5                   | 5 Thomas Patrick      |   0    |    -10   |
+| 0                 | 2022-02-11 | doncaster R5                  | 4 Creggan White Hare  |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R3                    | 16 Prince Zaltar      |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R2                    | 7 Kilkeaskins First   |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R2                    | 3 Damut               |   0    |    -10   |
+| 0                 | 2022-02-11 | doncaster R3                  | 4 Coole Lion          |   0    |    -10   |
+| 0                 | 2022-02-11 | doncaster R3                  | 11 Well Cliche        |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R1                    | 11 Dreamsrmadeofthis  |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R1                    | 10 Quarry Lil         |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R1                    | 9 Nazine              |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R1                    | 1 Carrigeen Castle    |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R1                    | 3 For Everyone        |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R1                    | 8 Kingston Kid        |   0    |    -10   |
+| 0                 | 2022-02-11 | doncaster R2                  | 11 Thunder Ahead      |   0    |    -10   |
+| 0                 | 2022-02-11 | huntingdon R1                 | 7 Order Of St John    |   0    |    -10   |
+| 0                 | 2022-02-11 | ffos-las R1                   | 3 Del La Mar Rocket   |   0    |    -10   |
+| 0                 | 2022-02-11 | doncaster R1                  | 2 Glan Y Gors         |   0    |    -10   |
 | 14                | 2022-02-10 | albany R7                     | 4 Celtic Court        |  12    |    -10   |
 | 8                 | 2022-02-10 | albany R5                     | 2 Belle Power         |  10    |    -10   |
 | :2nd_place_medal: | 2022-02-10 | racing.com-park R3            | 10 Li'l Loft          |   9    |    -10   |

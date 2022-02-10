@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-02-10 22:46:05 +1000  
+date: 2022-02-11 07:19:23 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
-| Last 28 Days   |     16 |      1 |    -71   | 0.06 | -0.44 |
-| Last 6 Months  |    121 |     24 |   1655.5 | 0.2  |  1.37 |
-| Since Jan 2020 |    244 |     41 |   3595.5 | 0.17 |  1.47 |
+| Last 28 Days   |     17 |      1 |    -81   | 0.06 | -0.48 |
+| Last 6 Months  |    122 |     24 |   1645.5 | 0.2  |  1.35 |
+| Since Jan 2020 |    245 |     41 |   3585.5 | 0.17 |  1.46 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:50             | 2022-02-11 | doncaster R6                  | 3 Faire Part Sivola   |  12    |    -10   |
+| 0                 | 2022-02-11 | doncaster R6                  | 3 Faire Part Sivola   |   0    |    -10   |
 | :3rd_place_medal: | 2022-02-09 | sandown-hillside R4           | 2 Secret Isle         |   9.5  |    -10   |
 | 0                 | 2022-02-07 | leopardstown R7               | 23 Suprise Package    |   0    |    -10   |
 | 11                | 2022-02-06 | pinjarra R7                   | 7 Outspoken Lad       |  20    |    -10   |

@@ -1,26 +1,26 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-02-10 22:45:58 +1000  
+date: 2022-02-11 07:19:17 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     70 |     21 |   -112.5 | 0.3  | -0.16 |
-| Last 28 Days   |    325 |     77 |  -1355.8 | 0.24 | -0.42 |
-| Last 6 Months  |   2176 |    549 |  -4382.4 | 0.25 | -0.2  |
-| Since Jan 2020 |   5009 |   1277 |  -5560.5 | 0.25 | -0.11 |
+| Last 7 Days    |     55 |     16 |   -198.6 | 0.29 | -0.36 |
+| Last 28 Days   |    324 |     79 |  -1276.3 | 0.24 | -0.39 |
+| Last 6 Months  |   2188 |    552 |  -4414.4 | 0.25 | -0.2  |
+| Since Jan 2020 |   5021 |   1280 |  -5592.5 | 0.25 | -0.11 |
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 03:45             | 2022-02-11 | huntingdon R7          | 4 Kateira             |   4.75 |    -10   |
-| 03:20             | 2022-02-11 | doncaster R7           | 3 Progressive         |   4.2  |    -10   |
-| 03:00             | 2022-02-11 | thurles R5             | 2 Haxo                |   4.5  |    -10   |
-| 02:45             | 2022-02-11 | huntingdon R5          | 1 Wilde About Oscar   |   7    |    -10   |
-| 02:10             | 2022-02-11 | huntingdon R4          | 5 Elle Est Belle      |   3.3  |    -10   |
-| 01:55             | 2022-02-11 | thurles R3             | 1 Adamantly Chosen    |   1.55 |    -10   |
+| 0                 | 2022-02-11 | huntingdon R7          | 4 Kateira             |   0    |    -10   |
+| 0                 | 2022-02-11 | doncaster R7           | 3 Progressive         |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R5             | 2 Haxo                |   0    |    -10   |
+| 0                 | 2022-02-11 | huntingdon R5          | 1 Wilde About Oscar   |   0    |    -10   |
+| 0                 | 2022-02-11 | huntingdon R4          | 5 Elle Est Belle      |   0    |    -10   |
+| 0                 | 2022-02-11 | thurles R3             | 1 Adamantly Chosen    |   0    |    -10   |
 | :boom:            | 2022-02-10 | albany R6              | 10 Garage Days        |   4.5  |     35   |
 | 0                 | 2022-02-10 | albany R5              | 6 Special Royale      |   0    |    -10   |
 | :boom:            | 2022-02-10 | albany R4              | 3 Tri For Us          |   1.7  |      7   |

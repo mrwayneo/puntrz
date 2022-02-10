@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-02-10 22:45:59 +1000  
+date: 2022-02-11 07:19:18 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
-| Last 28 Days   |     26 |      4 |   -125   | 0.15 | -0.48 |
-| Last 6 Months  |    341 |     87 |   -340.1 | 0.26 | -0.1  |
-| Since Jan 2020 |    801 |    199 |   -815.7 | 0.25 | -0.1  |
+| Last 7 Days    |      5 |      0 |    -50   | 0    |  -1   |
+| Last 28 Days   |     27 |      4 |   -135   | 0.15 |  -0.5 |
+| Last 6 Months  |    343 |     87 |   -360.1 | 0.25 |  -0.1 |
+| Since Jan 2020 |    803 |    199 |   -835.7 | 0.25 |  -0.1 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 02:10             | 2022-02-11 | huntingdon R4                 | 3 Jerrash             |  9.5  |    -10   |
-| 01:27             | 2022-02-11 | ffos-las R3                   | 2 Shalakar            |  8    |    -10   |
+| 0                 | 2022-02-11 | huntingdon R4                 | 3 Jerrash             |  0    |    -10   |
+| 0                 | 2022-02-11 | ffos-las R3                   | 2 Shalakar            |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-08 | carlisle R6                   | 3 Tokay Dokey         |  2.25 |    -10   |
 | 9                 | 2022-02-06 | launceston R6                 | 5 Wardell             |  6    |    -10   |
 | 7                 | 2022-02-06 | launceston R4                 | 3 Needs Toasting      |  9.5  |    -10   |

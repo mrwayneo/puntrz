@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2022-02-10 22:45:57 +1000  
+date: 2022-02-11 07:19:16 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     61 |      8 |     -0.5 | 0.13 | -0    |
-| Last 28 Days   |    252 |     38 |  -1192.8 | 0.15 | -0.47 |
-| Last 6 Months  |   1852 |    373 |  -3579.9 | 0.2  | -0.19 |
-| Since Jan 2020 |   4501 |    947 |  -4305.1 | 0.21 | -0.1  |
+| Last 7 Days    |     47 |     10 |    135.5 | 0.21 |  0.29 |
+| Last 28 Days   |    256 |     41 |  -1150.8 | 0.16 | -0.45 |
+| Last 6 Months  |   1863 |    377 |  -3570.9 | 0.2  | -0.19 |
+| Since Jan 2020 |   4512 |    951 |  -4296.1 | 0.21 | -0.1  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:10             | 2022-02-11 | huntingdon R4                 | 3 Jerrash             |   9.5  |    -10   |
-| 02:02             | 2022-02-11 | ffos-las R4                   | 1 Good Look Charm     |   3.3  |    -10   |
-| 01:27             | 2022-02-11 | ffos-las R3                   | 1 Soldier Of Destiny  |   4    |    -10   |
-| 01:27             | 2022-02-11 | ffos-las R3                   | 2 Shalakar            |   8    |    -10   |
+| 0                 | 2022-02-11 | huntingdon R4                 | 3 Jerrash             |   0    |    -10   |
+| 0                 | 2022-02-11 | ffos-las R4                   | 1 Good Look Charm     |   0    |    -10   |
+| 0                 | 2022-02-11 | ffos-las R3                   | 1 Soldier Of Destiny  |   0    |    -10   |
+| 0                 | 2022-02-11 | ffos-las R3                   | 2 Shalakar            |   0    |    -10   |
 | :boom:            | 2022-02-10 | racing.com-park R7            | 3 Bottom Line         |   4    |     30   |
 | :boom:            | 2022-02-10 | racing.com-park R6            | 3 Arktika             |   1.2  |      2   |
 | 5                 | 2022-02-10 | gatton R9                     | 2 Tony's Decree       |   5.5  |    -10   |

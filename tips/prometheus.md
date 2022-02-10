@@ -1,44 +1,44 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-02-10 22:46:00 +1000  
+date: 2022-02-11 07:19:19 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    226 |     19 |  -1148.3 | 0.08 | -0.51 |
-| Last 28 Days   |    967 |     98 |  -4639.8 | 0.1  | -0.48 |
-| Last 6 Months  |   6536 |    910 | -15273.1 | 0.14 | -0.23 |
-| Since Jan 2020 |  11984 |   1916 | -17546.7 | 0.16 | -0.15 |
+| Last 7 Days    |    244 |     19 |  -1307.3 | 0.08 | -0.54 |
+| Last 28 Days   |    976 |     93 |  -4924.8 | 0.1  | -0.5  |
+| Last 6 Months  |   6577 |    911 | -15637.1 | 0.14 | -0.24 |
+| Since Jan 2020 |  12025 |   1917 | -17910.7 | 0.16 | -0.15 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:55             | 2022-02-11 | newcastle R2                  | 5 After The Rain      |   2.5  |    -10   |
-| 00:45             | 2022-02-11 | vaal R8                       | 14 Raisetheredlantern |   0    |    -10   |
-| 00:45             | 2022-02-11 | vaal R8                       | 12 Tambora            |   0    |    -10   |
-| 00:45             | 2022-02-11 | vaal R8                       | 11 Tokyo Drift        |   0    |    -10   |
-| 00:45             | 2022-02-11 | vaal R8                       | 10 Tallinn            |   0    |    -10   |
-| 00:45             | 2022-02-11 | vaal R8                       | 7 Written In Stone    |   0    |    -10   |
-| 00:45             | 2022-02-11 | vaal R8                       | 5 Midnight Caller     |   0    |    -10   |
-| 00:45             | 2022-02-11 | vaal R8                       | 4 Waqaas              |   0    |    -10   |
-| 00:45             | 2022-02-11 | vaal R8                       | 3 Lone Survivor       |   0    |    -10   |
-| 00:10             | 2022-02-11 | vaal R7                       | 8 Waya Yire           |   0    |    -10   |
-| 00:10             | 2022-02-11 | vaal R7                       | 7 Timbavati River     |   0    |    -10   |
-| 00:10             | 2022-02-11 | vaal R7                       | 1 Noble Striker       |   0    |    -10   |
-| 23:35             | 2022-02-10 | vaal R6                       | 3 River Doon          |   0    |    -10   |
-| 23:35             | 2022-02-10 | vaal R6                       | 8 Me Time             |   0    |    -10   |
-| 23:35             | 2022-02-10 | vaal R6                       | 1 Glowtoria           |   0    |    -10   |
-| 23:35             | 2022-02-10 | vaal R6                       | 6 Diamonds 'n Dust    |   0    |    -10   |
-| 23:35             | 2022-02-10 | vaal R6                       | 4 Elusive Woman       |   0    |    -10   |
-| 23:35             | 2022-02-10 | vaal R6                       | 12 Paityns Pride      |   0    |    -10   |
-| 23:35             | 2022-02-10 | vaal R6                       | 13 What Gives         |   0    |    -10   |
-| 23:00             | 2022-02-10 | vaal R5                       | 12 Scottadito         |   0    |    -10   |
-| 23:00             | 2022-02-10 | vaal R5                       | 7 Golden Tune         |   0    |    -10   |
-| 23:00             | 2022-02-10 | vaal R5                       | 6 Timeforthat         |   0    |    -10   |
-| 23:00             | 2022-02-10 | vaal R5                       | 4 Nabeela             |   0    |    -10   |
-| 23:00             | 2022-02-10 | vaal R5                       | 3 Twosidestoastory    |   0    |    -10   |
+| 0                 | 2022-02-11 | newcastle R2                  | 5 After The Rain      |   0    |    -10   |
+| 0                 | 2022-02-11 | vaal R8                       | 14 Raisetheredlantern |   0    |    -10   |
+| 0                 | 2022-02-11 | vaal R8                       | 12 Tambora            |   0    |    -10   |
+| 0                 | 2022-02-11 | vaal R8                       | 11 Tokyo Drift        |   0    |    -10   |
+| 0                 | 2022-02-11 | vaal R8                       | 10 Tallinn            |   0    |    -10   |
+| 0                 | 2022-02-11 | vaal R8                       | 7 Written In Stone    |   0    |    -10   |
+| 0                 | 2022-02-11 | vaal R8                       | 5 Midnight Caller     |   0    |    -10   |
+| 0                 | 2022-02-11 | vaal R8                       | 4 Waqaas              |   0    |    -10   |
+| 0                 | 2022-02-11 | vaal R8                       | 3 Lone Survivor       |   0    |    -10   |
+| 0                 | 2022-02-11 | vaal R7                       | 8 Waya Yire           |   0    |    -10   |
+| 0                 | 2022-02-11 | vaal R7                       | 7 Timbavati River     |   0    |    -10   |
+| 0                 | 2022-02-11 | vaal R7                       | 1 Noble Striker       |   0    |    -10   |
+| 0                 | 2022-02-10 | vaal R6                       | 3 River Doon          |   0    |    -10   |
+| 0                 | 2022-02-10 | vaal R6                       | 8 Me Time             |   0    |    -10   |
+| 0                 | 2022-02-10 | vaal R6                       | 1 Glowtoria           |   0    |    -10   |
+| 0                 | 2022-02-10 | vaal R6                       | 6 Diamonds 'n Dust    |   0    |    -10   |
+| 0                 | 2022-02-10 | vaal R6                       | 4 Elusive Woman       |   0    |    -10   |
+| 0                 | 2022-02-10 | vaal R6                       | 12 Paityns Pride      |   0    |    -10   |
+| 0                 | 2022-02-10 | vaal R6                       | 13 What Gives         |   0    |    -10   |
+| 0                 | 2022-02-10 | vaal R5                       | 12 Scottadito         |   0    |    -10   |
+| 0                 | 2022-02-10 | vaal R5                       | 7 Golden Tune         |   0    |    -10   |
+| 0                 | 2022-02-10 | vaal R5                       | 6 Timeforthat         |   0    |    -10   |
+| 0                 | 2022-02-10 | vaal R5                       | 4 Nabeela             |   0    |    -10   |
+| 0                 | 2022-02-10 | vaal R5                       | 3 Twosidestoastory    |   0    |    -10   |
 | 0                 | 2022-02-10 | vaal R4                       | 8 Rainy Season        |   0    |    -10   |
 | 0                 | 2022-02-10 | vaal R4                       | 2 Lady Calavera       |   0    |    -10   |
 | 0                 | 2022-02-10 | vaal R4                       | 3 Elusive Swann       |   0    |    -10   |

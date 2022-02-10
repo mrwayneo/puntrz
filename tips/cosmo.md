@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-02-10 22:45:59 +1000  
+date: 2022-02-11 07:19:18 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     80 |      5 |      563 | 0.06 |  0.7  |
+| Last 7 Days    |     56 |      3 |      644 | 0.05 |  1.15 |
 | Last 28 Days   |    325 |     18 |     -882 | 0.06 | -0.27 |
-| Last 6 Months  |   2539 |    135 |    -3711 | 0.05 | -0.15 |
-| Since Jan 2020 |   5240 |    307 |     -935 | 0.06 | -0.02 |
+| Last 6 Months  |   2549 |    135 |    -3811 | 0.05 | -0.15 |
+| Since Jan 2020 |   5250 |    307 |    -1035 | 0.06 | -0.02 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:15             | 2022-02-11 | huntingdon R6                 | 4 San Pedro De Senam  |  19    |      -10 |
-| 02:37             | 2022-02-11 | ffos-las R5                   | 5 Thomas Patrick      |  17    |      -10 |
-| 02:20             | 2022-02-11 | doncaster R5                  | 4 Creggan White Hare  |  11    |      -10 |
+| 0                 | 2022-02-11 | huntingdon R6                 | 4 San Pedro De Senam  |   0    |      -10 |
+| 0                 | 2022-02-11 | ffos-las R5                   | 5 Thomas Patrick      |   0    |      -10 |
+| 0                 | 2022-02-11 | doncaster R5                  | 4 Creggan White Hare  |   0    |      -10 |
 | 14                | 2022-02-10 | albany R7                     | 4 Celtic Court        |  12    |      -10 |
 | 8                 | 2022-02-10 | albany R5                     | 2 Belle Power         |  10    |      -10 |
 | 5                 | 2022-02-10 | kilmore R7                    | 9 I Fought The Law    |  67    |      -10 |
