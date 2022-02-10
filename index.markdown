@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-10 13:00:01 +1000  
+date: 2022-02-10 13:15:06 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-02-10 13:00:01 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      1 |       53 | 0.5  |  2.65 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      1 |       35 | 0.5  |  1.75 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
@@ -105,5 +105,5 @@ date: 2022-02-10 13:00:01 +1000
 | 24 | :soon:   | 2022-02-10 16:57:00 | albany          |      1 |        5 | Hole In One        |   2.25 | evenodds,overthrow |
 | 25 | :soon:   | 2022-02-10 16:00:00 | kilmore         |      6 |        3 | Code Blue          |   2.25 | pangea             |
 | 26 | :soon:   | 2022-02-10 15:57:00 | gatton          |      6 |        3 | Vast Kama          |   4    | vulture,pangea     |
-| 27 | :soon:   | 2022-02-10 13:02:00 | gatton          |      1 |        3 | Diwali Lights      |   4.6  | moechilli          |
+| 27 | 4.0      | 2022-02-10 13:02:00 | gatton          |      1 |        3 | Diwali Lights      |   4.6  | moechilli          |
 | 28 | :boom:   | 2022-02-10 11:53:00 | hastings        |      4 |        4 | Puke Park          |   3.2  | looseknot          |
