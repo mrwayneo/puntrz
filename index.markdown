@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-10 11:42:45 +1000  
+date: 2022-02-10 11:57:45 +1000  
 ---   
 
 
@@ -9,12 +9,12 @@ date: 2022-02-10 11:42:45 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      1 |     53   | 0.5  |  2.65 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |    -10   | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |    -10   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |    -10   | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |    -20   | 0    | -1    |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      2 |      0 |    -20   | 0    | -1    |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |    -20   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |    -30   | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |    -40   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |    -50   | 0    | -1    |
@@ -106,4 +106,4 @@ date: 2022-02-10 11:42:45 +1000
 | 25 | :soon:   | 2022-02-10 16:00:00 | kilmore         |      6 |        3 | Code Blue          |   2.25 | pangea             |
 | 26 | :soon:   | 2022-02-10 15:57:00 | gatton          |      6 |        3 | Vast Kama          |   4    | vulture,pangea     |
 | 27 | :soon:   | 2022-02-10 13:02:00 | gatton          |      1 |        3 | Diwali Lights      |   4.6  | moechilli          |
-| 28 | :soon:   | 2022-02-10 11:53:00 | hastings        |      4 |        4 | Puke Park          |   3.2  | looseknot          |
+| 28 | :boom:   | 2022-02-10 11:53:00 | hastings        |      4 |        4 | Puke Park          |   3.2  | looseknot          |
