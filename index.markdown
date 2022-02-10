@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-10 15:50:15 +1000  
+date: 2022-02-10 16:05:34 +1000  
 ---   
 
 
@@ -10,6 +10,7 @@ date: 2022-02-10 15:50:15 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      1 |       35 | 0.5  |  1.75 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      1 |       -3 | 0.2  | -0.06 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
@@ -17,9 +18,8 @@ date: 2022-02-10 15:50:15 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      2 |      0 |      -20 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     11 |      1 |      -63 | 0.09 | -0.57 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     11 |      0 |     -110 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     12 |      0 |     -120 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      2 |     -245 | 0.04 | -0.44 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     41 |      0 |     -410 | 0    | -1    |
@@ -103,7 +103,7 @@ date: 2022-02-10 15:50:15 +1000
 | 22 | :soon:   | 2022-02-10 17:33:00 | albany          |      2 |        6 | Final Authority    |   1.65 | overthrow          |
 | 23 | :soon:   | 2022-02-10 17:00:00 | kilmore         |      8 |        1 | Lord Sundowner     |   8    | pangea,moechilli   |
 | 24 | :soon:   | 2022-02-10 16:57:00 | albany          |      1 |        5 | Hole In One        |   2.25 | evenodds,overthrow |
-| 25 | :soon:   | 2022-02-10 16:00:00 | kilmore         |      6 |        3 | Code Blue          |   2.25 | pangea             |
-| 26 | :soon:   | 2022-02-10 15:57:00 | gatton          |      6 |        3 | Vast Kama          |   4    | vulture,pangea     |
+| 25 | --       | 2022-02-10 16:00:00 | kilmore         |      6 |        3 | Code Blue          |   2.25 | pangea             |
+| 26 | :boom:   | 2022-02-10 15:57:00 | gatton          |      6 |        3 | Vast Kama          |   4    | vulture,pangea     |
 | 27 | 4.0      | 2022-02-10 13:02:00 | gatton          |      1 |        3 | Diwali Lights      |   4.6  | moechilli          |
 | 28 | :boom:   | 2022-02-10 11:53:00 | hastings        |      4 |        4 | Puke Park          |   3.2  | looseknot          |
