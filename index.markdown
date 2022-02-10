@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-10 22:31:24 +1000  
+date: 2022-02-10 22:46:05 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-02-10 22:31:24 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      3 |      -61 | 0.05 | -0.11 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     41 |      0 |     -410 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     41 |      1 |     -364 | 0.02 | -0.89 |
 
 ##### Form Last 20 tips   
 
