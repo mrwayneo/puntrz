@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-10 18:35:28 +1000  
+date: 2022-02-10 18:54:53 +1000  
 ---   
 
 
@@ -14,13 +14,13 @@ date: 2022-02-10 18:35:28 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      1 |      -13 | 0.33 | -0.43 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      2 |      0 |      -20 | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     11 |      2 |      -43 | 0.18 | -0.39 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      3 |      -61 | 0.05 | -0.11 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     12 |      1 |      -94 | 0.08 | -0.78 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     12 |      2 |      -77 | 0.17 | -0.64 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     41 |      0 |     -410 | 0    | -1    |
 
@@ -96,8 +96,8 @@ date: 2022-02-10 18:35:28 +1000
 | 15 | :soon:            | 2022-02-10 20:00:00 | albany          |      6 |       10 | Garage Days        |   5.5  | overthrow          |
 | 16 | :soon:            | 2022-02-10 19:45:00 | racing.com-park |      5 |        4 | Asymmetrical       |   3.9  | milkman            |
 | 17 | :soon:            | 2022-02-10 19:30:00 | albany          |      5 |        6 | Special Royale     |   2.8  | evenodds,lago      |
-| 18 | :soon:            | 2022-02-10 18:50:00 | albany          |      4 |        3 | Tri For Us         |   1.57 | evenodds,overthrow |
-| 19 | --                | 2022-02-10 18:10:00 | albany          |      3 |        3 | Divine Mercy       |   9    | vulture            |
+| 18 | :boom:            | 2022-02-10 18:50:00 | albany          |      4 |        3 | Tri For Us         |   1.57 | evenodds,overthrow |
+| 19 | 7.0               | 2022-02-10 18:10:00 | albany          |      3 |        3 | Divine Mercy       |   9    | vulture            |
 | 20 | 5.0               | 2022-02-10 17:50:00 | gatton          |      9 |        2 | Tony's Decree      |   5.5  | pangea             |
 | 21 | :3rd_place_medal: | 2022-02-10 17:50:00 | gatton          |      9 |        5 | Dulcie Tie         |   4.2  | pangea             |
 | 22 | :boom:            | 2022-02-10 17:33:00 | albany          |      2 |        6 | Final Authority    |   1.65 | overthrow          |
