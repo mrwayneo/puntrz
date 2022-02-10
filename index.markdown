@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-10 20:44:51 +1000  
+date: 2022-02-10 21:00:08 +1000  
 ---   
 
 
@@ -10,6 +10,7 @@ date: 2022-02-10 20:44:51 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      1 |       35 | 0.5  |  1.75 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     11 |      4 |        9 | 0.36 |  0.08 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      1 |        2 | 1    |  0.2  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      1 |       -3 | 0.2  | -0.06 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
@@ -17,7 +18,6 @@ date: 2022-02-10 20:44:51 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      1 |      -13 | 0.33 | -0.43 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      2 |      0 |      -20 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     11 |      3 |      -31 | 0.27 | -0.28 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     12 |      3 |      -32 | 0.25 | -0.27 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     56 |      3 |      -61 | 0.05 | -0.11 |
@@ -91,7 +91,7 @@ date: 2022-02-10 20:44:51 +1000
 | 10 | :soon:            | 2022-02-11 01:55:00 | thurles         |      3 |        1 | Adamantly Chosen   |   1.55 | overthrow          |
 | 11 | :soon:            | 2022-02-11 01:27:00 | ffos-las        |      3 |        1 | Soldier Of Destiny |   4    | pangea             |
 | 12 | :soon:            | 2022-02-11 01:27:00 | ffos-las        |      3 |        2 | Shalakar           |   8    | pangea,blackshadow |
-| 13 | :soon:            | 2022-02-10 20:45:00 | racing.com-park |      7 |        3 | Bottom Line        |   3.5  | pangea             |
+| 13 | :boom:            | 2022-02-10 20:45:00 | racing.com-park |      7 |        3 | Bottom Line        |   3.5  | pangea             |
 | 14 | :boom:            | 2022-02-10 20:15:00 | racing.com-park |      6 |        3 | Arktika            |   1.5  | pangea,icyhot      |
 | 15 | :boom:            | 2022-02-10 20:00:00 | albany          |      6 |       10 | Garage Days        |   5.5  | overthrow          |
 | 16 | :2nd_place_medal: | 2022-02-10 19:45:00 | racing.com-park |      5 |        4 | Asymmetrical       |   3.9  | milkman            |
