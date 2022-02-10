@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-02-11 07:34:33 +1000  
+date: 2022-02-11 07:47:42 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
+| 19:00             | 2022-02-11 | canterbury R2       | 11 Vivid Flash     | 11    |      -10 |
 | 4                 | 2022-01-29 | rosehill-gardens R8 | 5 Kingsheir        |  0    |      -10 |
 | :boom:            | 2022-01-29 | rosehill-gardens R4 | 2 Centimental      |  0    |      -10 |
 | :2nd_place_medal: | 2022-01-28 | canterbury R7       | 2 Able Willie      |  2.7  |      -10 |
