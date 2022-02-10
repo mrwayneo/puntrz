@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-10 17:21:09 +1000  
+date: 2022-02-10 17:35:37 +1000  
 ---   
 
 
@@ -100,7 +100,7 @@ date: 2022-02-10 17:21:09 +1000
 | 19 | :soon:            | 2022-02-10 18:10:00 | albany          |      3 |        3 | Divine Mercy       |   9    | vulture            |
 | 20 | :soon:            | 2022-02-10 17:50:00 | gatton          |      9 |        2 | Tony's Decree      |   5.5  | pangea             |
 | 21 | :soon:            | 2022-02-10 17:50:00 | gatton          |      9 |        5 | Dulcie Tie         |   4.2  | pangea             |
-| 22 | :soon:            | 2022-02-10 17:33:00 | albany          |      2 |        6 | Final Authority    |   1.65 | overthrow          |
+| 22 | --                | 2022-02-10 17:33:00 | albany          |      2 |        6 | Final Authority    |   1.65 | overthrow          |
 | 23 | --                | 2022-02-10 17:00:00 | kilmore         |      8 |        1 | Lord Sundowner     |   8    | pangea,moechilli   |
 | 24 | :2nd_place_medal: | 2022-02-10 16:57:00 | albany          |      1 |        5 | Hole In One        |   2.25 | evenodds,overthrow |
 | 25 | :boom:            | 2022-02-10 16:00:00 | kilmore         |      6 |        3 | Code Blue          |   2.25 | pangea             |
