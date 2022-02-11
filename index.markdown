@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-11 18:13:55 +1000  
+date: 2022-02-11 18:28:46 +1000  
 ---   
 
 
@@ -109,12 +109,12 @@ date: 2022-02-11 18:13:55 +1000
 | 27 | :soon:            | 2022-02-11 18:49:00 | rockhampton     |      7 |       11 | In Order           |   2    | evenodds,blackshadow |
 | 28 | :soon:            | 2022-02-11 18:49:00 | rockhampton     |      7 |        7 | Kotabharu          |   5.5  | pangea               |
 | 29 | :soon:            | 2022-02-11 18:35:00 | darwin          |      4 |        3 | Skellig Island     |   2.6  | evenodds,overthrow   |
-| 30 | :soon:            | 2022-02-11 18:26:00 | hobart          |      7 |        2 | Zoushine           |   8.5  | pangea               |
-| 31 | :soon:            | 2022-02-11 18:26:00 | hobart          |      7 |        5 | Take The Sit       |   9    | pangea,blackshadow   |
-| 32 | :soon:            | 2022-02-11 18:26:00 | hobart          |      7 |        6 | Boom Dot Com       |  12    | benny,pangea         |
-| 33 | :soon:            | 2022-02-11 18:19:00 | rockhampton     |      6 |        4 | Seberton           |   4.8  | pangea               |
-| 34 | :soon:            | 2022-02-11 18:15:00 | moonee-valley   |      1 |        6 | Stromboli          |   4.5  | looseknot            |
-| 35 | --                | 2022-02-11 18:00:00 | darwin          |      3 |        1 | Mr Cashman         |   1.85 | benny,overthrow      |
+| 30 | --                | 2022-02-11 18:26:00 | hobart          |      7 |        2 | Zoushine           |   8.5  | pangea               |
+| 31 | --                | 2022-02-11 18:26:00 | hobart          |      7 |        5 | Take The Sit       |   9    | pangea,blackshadow   |
+| 32 | --                | 2022-02-11 18:26:00 | hobart          |      7 |        6 | Boom Dot Com       |  12    | benny,pangea         |
+| 33 | --                | 2022-02-11 18:19:00 | rockhampton     |      6 |        4 | Seberton           |   4.8  | pangea               |
+| 34 | :3rd_place_medal: | 2022-02-11 18:15:00 | moonee-valley   |      1 |        6 | Stromboli          |   4.5  | looseknot            |
+| 35 | 5.0               | 2022-02-11 18:00:00 | darwin          |      3 |        1 | Mr Cashman         |   1.85 | benny,overthrow      |
 | 36 | 4.0               | 2022-02-11 18:00:00 | darwin          |      3 |        5 | Count of Essex     |   8.5  | pangea               |
 | 37 | :boom:            | 2022-02-11 17:50:00 | hobart          |      6 |        3 | The Nephew         |   3.3  | vulture              |
 | 38 | :3rd_place_medal: | 2022-02-11 17:50:00 | hobart          |      6 |        7 | Dodgy One          |   5.5  | vulture              |
