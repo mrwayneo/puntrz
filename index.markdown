@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-11 15:58:39 +1000  
+date: 2022-02-11 16:14:02 +1000  
 ---   
 
 
@@ -128,7 +128,7 @@ date: 2022-02-11 15:58:39 +1000
 | 46 | :soon:            | 2022-02-11 16:45:00 | darwin          |      1 |        3 | Kaptan Apollo      |   3    | vulture,pangea       |
 | 47 | :boom:            | 2022-02-11 15:47:00 | rockhampton     |      2 |        5 | Emilee's Empire    |   1.7  | pangea               |
 | 48 | 4.0               | 2022-02-11 15:17:00 | hobart          |      2 |        6 | Sharma Rama        |   3.25 | evenodds,overthrow   |
-| 49 | --                | 2022-02-11 15:17:00 | hobart          |      2 |        1 | Lucky Bucky        |   4.4  | pangea               |
+| 49 | 8.0               | 2022-02-11 15:17:00 | hobart          |      2 |        1 | Lucky Bucky        |   4.4  | pangea               |
 | 50 | :2nd_place_medal: | 2022-02-11 15:12:00 | rockhampton     |      1 |        5 | She's Winning      |   3.3  | overthrow            |
-| 51 | --                | 2022-02-11 14:29:00 | awapuni         |      7 |        2 | Alhambra Lad       |   2.8  | vulture              |
+| 51 | 5.0               | 2022-02-11 14:29:00 | awapuni         |      7 |        2 | Alhambra Lad       |   2.8  | vulture              |
 | 52 | :2nd_place_medal: | 2022-02-11 13:19:00 | awapuni         |      5 |        7 | Highborn           |   4.2  | vulture              |
