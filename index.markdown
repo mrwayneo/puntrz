@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-11 16:58:54 +1000  
+date: 2022-02-11 17:13:47 +1000  
 ---   
 
 
@@ -9,9 +9,9 @@ date: 2022-02-11 16:58:54 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      1 |        3 | 0.5  |  0.15 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      3 |      0 |      -30 | 0    | -1    |
@@ -21,7 +21,7 @@ date: 2022-02-11 16:58:54 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     11 |      0 |     -110 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      0 |     -160 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     19 |      0 |     -190 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      1 |     -256 | 0.04 | -0.95 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      2 |     -233 | 0.07 | -0.86 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      1 |     -305 | 0.03 | -0.8  |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      0 |     -440 | 0    | -1    |
 
@@ -121,9 +121,9 @@ date: 2022-02-11 16:58:54 +1000
 | 39 | :soon:            | 2022-02-11 17:25:00 | darwin          |      2 |        5 | No Strings         |   4.2  | overthrow            |
 | 40 | :soon:            | 2022-02-11 17:25:00 | darwin          |      2 |        3 | The Albion         |   4.2  | pangea               |
 | 41 | :soon:            | 2022-02-11 17:25:00 | darwin          |      2 |        2 | Cometh The Hour    |   3.8  | pangea               |
-| 42 | :soon:            | 2022-02-11 17:10:00 | hobart          |      5 |        1 | Turk Warrior       |   1.83 | pangea,icyhot        |
-| 43 | :soon:            | 2022-02-11 17:04:00 | rockhampton     |      4 |        3 | Bean Deadly        |   3    | vulture,blackshadow  |
-| 44 | :soon:            | 2022-02-11 17:00:00 | colac           |      7 |        6 | Aurora's Symphony  |   2.5  | pangea,icyhot        |
+| 42 | --                | 2022-02-11 17:10:00 | hobart          |      5 |        1 | Turk Warrior       |   1.83 | pangea,icyhot        |
+| 43 | :2nd_place_medal: | 2022-02-11 17:04:00 | rockhampton     |      4 |        3 | Bean Deadly        |   3    | vulture,blackshadow  |
+| 44 | :boom:            | 2022-02-11 17:00:00 | colac           |      7 |        6 | Aurora's Symphony  |   2.5  | pangea,icyhot        |
 | 45 | :3rd_place_medal: | 2022-02-11 16:45:00 | darwin          |      1 |        5 | Son Of Utred       |   4.8  | pangea,blackshadow   |
 | 46 | 4.0               | 2022-02-11 16:45:00 | darwin          |      1 |        3 | Kaptan Apollo      |   3    | vulture,pangea       |
 | 47 | :boom:            | 2022-02-11 15:47:00 | rockhampton     |      2 |        5 | Emilee's Empire    |   1.7  | pangea               |
