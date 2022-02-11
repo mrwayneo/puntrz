@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-11 17:43:45 +1000  
+date: 2022-02-11 17:58:39 +1000  
 ---   
 
 
@@ -19,7 +19,7 @@ date: 2022-02-11 17:43:45 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      6 |      0 |      -60 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      0 |      -70 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     11 |      0 |     -110 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      0 |     -160 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      1 |     -133 | 0.06 | -0.83 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     19 |      1 |     -161 | 0.05 | -0.85 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      3 |     -216 | 0.11 | -0.8  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      1 |     -305 | 0.03 | -0.8  |
@@ -116,8 +116,8 @@ date: 2022-02-11 17:43:45 +1000
 | 34 | :soon:            | 2022-02-11 18:15:00 | moonee-valley   |      1 |        6 | Stromboli          |   4.5  | looseknot            |
 | 35 | :soon:            | 2022-02-11 18:00:00 | darwin          |      3 |        1 | Mr Cashman         |   1.85 | benny,overthrow      |
 | 36 | :soon:            | 2022-02-11 18:00:00 | darwin          |      3 |        5 | Count of Essex     |   8.5  | pangea               |
-| 37 | :soon:            | 2022-02-11 17:50:00 | hobart          |      6 |        3 | The Nephew         |   3.3  | vulture              |
-| 38 | :soon:            | 2022-02-11 17:50:00 | hobart          |      6 |        7 | Dodgy One          |   5.5  | vulture              |
+| 37 | :boom:            | 2022-02-11 17:50:00 | hobart          |      6 |        3 | The Nephew         |   3.3  | vulture              |
+| 38 | :3rd_place_medal: | 2022-02-11 17:50:00 | hobart          |      6 |        7 | Dodgy One          |   5.5  | vulture              |
 | 39 | :boom:            | 2022-02-11 17:25:00 | darwin          |      2 |        5 | No Strings         |   4.2  | overthrow            |
 | 40 | 6.0               | 2022-02-11 17:25:00 | darwin          |      2 |        3 | The Albion         |   4.2  | pangea               |
 | 41 | :2nd_place_medal: | 2022-02-11 17:25:00 | darwin          |      2 |        2 | Cometh The Hour    |   3.8  | pangea               |
