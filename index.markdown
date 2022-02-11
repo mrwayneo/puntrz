@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-12 06:14:29 +1000  
+date: 2022-02-12 06:29:36 +1000  
 ---   
 
 
@@ -61,7 +61,7 @@ date: 2022-02-12 06:14:29 +1000
 
 |    | finish            | time                | track           |   race |   number | name               |   odds | tipster              |
 |---:|:------------------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|  0 | :soon:            | 2022-02-12 06:15:00 | chelmsford-city |      6 |        1 | Always Fearless    |   3.5  | vulture              |
+|  0 | 4.0               | 2022-02-12 06:15:00 | chelmsford-city |      6 |        1 | Always Fearless    |   3.5  | vulture              |
 |  1 | :boom:            | 2022-02-12 03:15:00 | bangor          |      5 |        1 | Jungle Jack        |   1.92 | overthrow,lago       |
 |  2 | :boom:            | 2022-02-12 03:05:00 | kempton         |      6 |        8 | Flegmatik          |   5    | overthrow            |
 |  3 | 7.0               | 2022-02-12 03:05:00 | kempton         |      6 |        2 | Morning Vicar      |   9    | overthrow            |
