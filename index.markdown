@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-11 18:59:41 +1000  
+date: 2022-02-11 19:13:41 +1000  
 ---   
 
 
@@ -10,6 +10,7 @@ date: 2022-02-11 18:59:41 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      2 |       20 | 1    |  1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     11 |      1 |       10 | 0.09 |  0.09 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 | 0    | -1    |
@@ -18,11 +19,10 @@ date: 2022-02-11 18:59:41 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      6 |      1 |      -38 | 0.17 | -0.63 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      1 |      -48 | 0.14 | -0.69 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     11 |      0 |     -110 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      2 |     -111 | 0.12 | -0.69 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      5 |     -128 | 0.19 | -0.47 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     19 |      2 |     -139 | 0.11 | -0.73 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      1 |     -305 | 0.03 | -0.8  |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      2 |     -185 | 0.05 | -0.49 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      0 |     -440 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -102,9 +102,9 @@ date: 2022-02-11 18:59:41 +1000
 | 20 | :soon:            | 2022-02-11 20:00:00 | canterbury      |      4 |        3 | Sweet Angeline     |   5.5  | pangea               |
 | 21 | :soon:            | 2022-02-11 20:00:00 | canterbury      |      4 |        4 | Ciccina            |   6    | vulture,milkman      |
 | 22 | :soon:            | 2022-02-11 19:45:00 | moonee-valley   |      4 |        5 | Angel Like         |   4    | benny,pangea         |
-| 23 | :soon:            | 2022-02-11 19:00:00 | canterbury      |      2 |       11 | Vivid Flash        |  11    | milkman,wallbow      |
-| 24 | :soon:            | 2022-02-11 19:00:00 | canterbury      |      2 |        8 | Chief Conductor    |  10    | milkman              |
-| 25 | :soon:            | 2022-02-11 19:00:00 | canterbury      |      2 |       10 | Ringarosa          |   5.5  | jmac                 |
+| 23 | :2nd_place_medal: | 2022-02-11 19:00:00 | canterbury      |      2 |       11 | Vivid Flash        |  11    | milkman,wallbow      |
+| 24 | :3rd_place_medal: | 2022-02-11 19:00:00 | canterbury      |      2 |        8 | Chief Conductor    |  10    | milkman              |
+| 25 | --                | 2022-02-11 19:00:00 | canterbury      |      2 |       10 | Ringarosa          |   5.5  | jmac                 |
 | 26 | 4.0               | 2022-02-11 18:49:00 | rockhampton     |      7 |        4 | Lastofthe Mohicans |  10    | pangea               |
 | 27 | :boom:            | 2022-02-11 18:49:00 | rockhampton     |      7 |       11 | In Order           |   2    | evenodds,blackshadow |
 | 28 | :2nd_place_medal: | 2022-02-11 18:49:00 | rockhampton     |      7 |        7 | Kotabharu          |   5.5  | pangea               |
@@ -112,7 +112,7 @@ date: 2022-02-11 18:59:41 +1000
 | 30 | :boom:            | 2022-02-11 18:26:00 | hobart          |      7 |        2 | Zoushine           |   8.5  | pangea               |
 | 31 | 8.0               | 2022-02-11 18:26:00 | hobart          |      7 |        5 | Take The Sit       |   9    | pangea,blackshadow   |
 | 32 | 4.0               | 2022-02-11 18:26:00 | hobart          |      7 |        6 | Boom Dot Com       |  12    | benny,pangea         |
-| 33 | --                | 2022-02-11 18:19:00 | rockhampton     |      6 |        4 | Seberton           |   4.8  | pangea               |
+| 33 | 9.0               | 2022-02-11 18:19:00 | rockhampton     |      6 |        4 | Seberton           |   4.8  | pangea               |
 | 34 | :3rd_place_medal: | 2022-02-11 18:15:00 | moonee-valley   |      1 |        6 | Stromboli          |   4.5  | looseknot            |
 | 35 | 5.0               | 2022-02-11 18:00:00 | darwin          |      3 |        1 | Mr Cashman         |   1.85 | benny,overthrow      |
 | 36 | 4.0               | 2022-02-11 18:00:00 | darwin          |      3 |        5 | Count of Essex     |   8.5  | pangea               |
