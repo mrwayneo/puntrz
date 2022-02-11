@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-11 20:29:04 +1000  
+date: 2022-02-11 20:48:46 +1000  
 ---   
 
 
@@ -19,8 +19,8 @@ date: 2022-02-11 20:29:04 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      6 |      1 |      -38 | 0.17 | -0.63 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      1 |      -48 | 0.14 | -0.69 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      6 |      -58 | 0.22 | -0.21 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      2 |     -111 | 0.12 | -0.69 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      5 |     -128 | 0.19 | -0.47 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     19 |      2 |     -139 | 0.11 | -0.73 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      2 |     -185 | 0.05 | -0.49 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      0 |     -440 | 0    | -1    |
@@ -94,9 +94,9 @@ date: 2022-02-11 20:29:04 +1000
 | 12 | :soon:            | 2022-02-12 00:10:00 | kempton         |      1 |        3 | Global Famenglory  |   2.85 | evenodds,overthrow   |
 | 13 | :soon:            | 2022-02-11 21:15:00 | moonee-valley   |      7 |        5 | Mars Mission       |   1.83 | vulture              |
 | 14 | :soon:            | 2022-02-11 21:15:00 | moonee-valley   |      7 |        3 | He's The Ultimate  |   3.25 | evenodds,blackshadow |
-| 15 | :soon:            | 2022-02-11 20:45:00 | moonee-valley   |      6 |        8 | Miss Melbourne     |   7.5  | milkman              |
-| 16 | :soon:            | 2022-02-11 20:30:00 | canterbury      |      5 |       11 | Sessions Road      |   6    | pangea               |
-| 17 | :soon:            | 2022-02-11 20:30:00 | canterbury      |      5 |        5 | Score              |   5.5  | vulture,jmac         |
+| 15 | --                | 2022-02-11 20:45:00 | moonee-valley   |      6 |        8 | Miss Melbourne     |   7.5  | milkman              |
+| 16 | :boom:            | 2022-02-11 20:30:00 | canterbury      |      5 |       11 | Sessions Road      |   6    | pangea               |
+| 17 | --                | 2022-02-11 20:30:00 | canterbury      |      5 |        5 | Score              |   5.5  | vulture,jmac         |
 | 18 | 4.0               | 2022-02-11 20:15:00 | moonee-valley   |      5 |        4 | Glamour And Glory  |   4.2  | pangea               |
 | 19 | 7.0               | 2022-02-11 20:00:00 | canterbury      |      4 |        1 | Ita                |   4.75 | jmac                 |
 | 20 | 9.0               | 2022-02-11 20:00:00 | canterbury      |      4 |        3 | Sweet Angeline     |   5.5  | pangea               |
