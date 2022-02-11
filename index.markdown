@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-11 19:58:47 +1000  
+date: 2022-02-11 20:13:59 +1000  
 ---   
 
 
@@ -98,9 +98,9 @@ date: 2022-02-11 19:58:47 +1000
 | 16 | :soon:            | 2022-02-11 20:30:00 | canterbury      |      5 |       11 | Sessions Road      |   6    | pangea               |
 | 17 | :soon:            | 2022-02-11 20:30:00 | canterbury      |      5 |        5 | Score              |   5.5  | vulture,jmac         |
 | 18 | :soon:            | 2022-02-11 20:15:00 | moonee-valley   |      5 |        4 | Glamour And Glory  |   4.2  | pangea               |
-| 19 | :soon:            | 2022-02-11 20:00:00 | canterbury      |      4 |        1 | Ita                |   4.75 | jmac                 |
-| 20 | :soon:            | 2022-02-11 20:00:00 | canterbury      |      4 |        3 | Sweet Angeline     |   5.5  | pangea               |
-| 21 | :soon:            | 2022-02-11 20:00:00 | canterbury      |      4 |        4 | Ciccina            |   6    | vulture,milkman      |
+| 19 | --                | 2022-02-11 20:00:00 | canterbury      |      4 |        1 | Ita                |   4.75 | jmac                 |
+| 20 | --                | 2022-02-11 20:00:00 | canterbury      |      4 |        3 | Sweet Angeline     |   5.5  | pangea               |
+| 21 | --                | 2022-02-11 20:00:00 | canterbury      |      4 |        4 | Ciccina            |   6    | vulture,milkman      |
 | 22 | :2nd_place_medal: | 2022-02-11 19:45:00 | moonee-valley   |      4 |        5 | Angel Like         |   4    | benny,pangea         |
 | 23 | :2nd_place_medal: | 2022-02-11 19:00:00 | canterbury      |      2 |       11 | Vivid Flash        |  11    | milkman,wallbow      |
 | 24 | :3rd_place_medal: | 2022-02-11 19:00:00 | canterbury      |      2 |        8 | Chief Conductor    |  10    | milkman              |
