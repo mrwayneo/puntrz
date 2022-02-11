@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-11 16:43:50 +1000  
+date: 2022-02-11 16:58:54 +1000  
 ---   
 
 
@@ -124,8 +124,8 @@ date: 2022-02-11 16:43:50 +1000
 | 42 | :soon:            | 2022-02-11 17:10:00 | hobart          |      5 |        1 | Turk Warrior       |   1.83 | pangea,icyhot        |
 | 43 | :soon:            | 2022-02-11 17:04:00 | rockhampton     |      4 |        3 | Bean Deadly        |   3    | vulture,blackshadow  |
 | 44 | :soon:            | 2022-02-11 17:00:00 | colac           |      7 |        6 | Aurora's Symphony  |   2.5  | pangea,icyhot        |
-| 45 | :soon:            | 2022-02-11 16:45:00 | darwin          |      1 |        5 | Son Of Utred       |   4.8  | pangea,blackshadow   |
-| 46 | :soon:            | 2022-02-11 16:45:00 | darwin          |      1 |        3 | Kaptan Apollo      |   3    | vulture,pangea       |
+| 45 | :3rd_place_medal: | 2022-02-11 16:45:00 | darwin          |      1 |        5 | Son Of Utred       |   4.8  | pangea,blackshadow   |
+| 46 | 4.0               | 2022-02-11 16:45:00 | darwin          |      1 |        3 | Kaptan Apollo      |   3    | vulture,pangea       |
 | 47 | :boom:            | 2022-02-11 15:47:00 | rockhampton     |      2 |        5 | Emilee's Empire    |   1.7  | pangea               |
 | 48 | 4.0               | 2022-02-11 15:17:00 | hobart          |      2 |        6 | Sharma Rama        |   3.25 | evenodds,overthrow   |
 | 49 | 8.0               | 2022-02-11 15:17:00 | hobart          |      2 |        1 | Lucky Bucky        |   4.4  | pangea               |
