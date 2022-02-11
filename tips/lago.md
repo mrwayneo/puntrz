@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-02-11 22:53:33 +1000  
+date: 2022-02-12 06:14:28 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      1 |    -40   | 0.17 | -0.67 |
-| Last 28 Days   |     22 |      7 |   -128.2 | 0.32 | -0.58 |
-| Last 6 Months  |    112 |     64 |    550.4 | 0.57 |  0.49 |
-| Since Jan 2020 |    208 |    104 |   1375.7 | 0.5  |  0.66 |
+| Last 7 Days    |      3 |      1 |    -11.5 | 0.33 | -0.38 |
+| Last 28 Days   |     22 |      8 |   -109.7 | 0.36 | -0.5  |
+| Last 6 Months  |    113 |     65 |    558.9 | 0.58 |  0.49 |
+| Since Jan 2020 |    209 |    105 |   1384.2 | 0.5  |  0.66 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 03:15             | 2022-02-12 | bangor R5              | 1 Jungle Jack        |  1.92 |    -10   |
+| :boom:            | 2022-02-12 | bangor R5              | 1 Jungle Jack        |  1.85 |      8.5 |
 | 0                 | 2022-02-10 | albany R5              | 6 Special Royale     |  0    |    -10   |
 | 4                 | 2022-02-09 | ipswich R9             | 9 Sanzera            |  5.5  |    -10   |
 | 0                 | 2022-02-07 | leopardstown R8        | 14 Pink In The Park  |  0    |    -10   |
@@ -165,8 +165,8 @@ categories: None
 | :boom:            | 2021-04-17 | newbury R8             | 4 Far Hope           |  5    |     40   |
 | :boom:            | 2021-04-17 | newbury R7             | 4 Gloria Mundi       |  6    |     50   |
 | :boom:            | 2021-04-17 | newbury R5             | 1 Hurricane Lane     |  3.75 |     27.5 |
-| 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
 | :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
+| 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
 | :boom:            | 2021-04-15 | kempton R4             | 1 Ransom             |  3.6  |     26   |
 | 99                | 2021-04-15 | newmarket R5           | 2 Divine Light       |  8.5  |    -10   |
 | :2nd_place_medal: | 2021-04-11 | devonport-synthetic R8 | 6 Azara              |  3.1  |    -10   |
