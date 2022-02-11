@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-11 09:30:27 +1000  
+date: 2022-02-11 14:15:21 +1000  
 ---   
 
 
@@ -77,58 +77,58 @@ date: 2022-02-11 09:30:27 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6259 |    864 | -12304.5 | 0.14 | -0.2  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7853 |    370 | -22957   | 0.05 | -0.29 |
 
-|    | finish   | time                | track           |   race |   number | name               |   odds | tipster              |
-|---:|:---------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|  0 | :soon:   | 2022-02-12 06:15:00 | chelmsford-city |      6 |        1 | Always Fearless    |   3.5  | vulture              |
-|  1 | :soon:   | 2022-02-12 03:15:00 | bangor          |      5 |        1 | Jungle Jack        |   1.92 | overthrow,lago       |
-|  2 | :soon:   | 2022-02-12 03:05:00 | kempton         |      6 |        8 | Flegmatik          |   5    | overthrow            |
-|  3 | :soon:   | 2022-02-12 03:05:00 | kempton         |      6 |        2 | Morning Vicar      |   9    | overthrow            |
-|  4 | :soon:   | 2022-02-12 02:40:00 | bangor          |      4 |        8 | Kayfast Warrior    |   3.25 | overthrow            |
-|  5 | :soon:   | 2022-02-12 02:30:00 | kempton         |      5 |        8 | Major Sting        |   7    | overthrow            |
-|  6 | :soon:   | 2022-02-12 01:55:00 | kempton         |      4 |        4 | Across The Line    |   4.6  | evenodds,overthrow   |
-|  7 | :soon:   | 2022-02-12 01:10:00 | southwell       |      4 |        3 | Black Kalanisi     |   3.5  | pangea               |
-|  8 | :soon:   | 2022-02-12 00:55:00 | bangor          |      1 |        2 | Porlock Bay        |   1.73 | pangea,blackshadow   |
-|  9 | :soon:   | 2022-02-12 00:55:00 | bangor          |      1 |        7 | Sir Mangan         |  11    | overthrow            |
-| 10 | :soon:   | 2022-02-12 00:45:00 | kempton         |      2 |        1 | Valsheda           |   2.6  | overthrow            |
-| 11 | :soon:   | 2022-02-12 00:35:00 | southwell       |      3 |        3 | Government         |   6    | looseknot            |
-| 12 | :soon:   | 2022-02-12 00:10:00 | kempton         |      1 |        3 | Global Famenglory  |   2.85 | evenodds,overthrow   |
-| 13 | :soon:   | 2022-02-11 21:15:00 | moonee-valley   |      7 |        5 | Mars Mission       |   1.83 | vulture              |
-| 14 | :soon:   | 2022-02-11 21:15:00 | moonee-valley   |      7 |        3 | He's The Ultimate  |   3.25 | evenodds,blackshadow |
-| 15 | :soon:   | 2022-02-11 20:45:00 | moonee-valley   |      6 |        8 | Miss Melbourne     |   7.5  | milkman              |
-| 16 | :soon:   | 2022-02-11 20:30:00 | canterbury      |      5 |       11 | Sessions Road      |   6    | pangea               |
-| 17 | :soon:   | 2022-02-11 20:30:00 | canterbury      |      5 |        5 | Score              |   5.5  | vulture,jmac         |
-| 18 | :soon:   | 2022-02-11 20:15:00 | moonee-valley   |      5 |        4 | Glamour And Glory  |   4.2  | pangea               |
-| 19 | :soon:   | 2022-02-11 20:00:00 | canterbury      |      4 |        1 | Ita                |   4.75 | jmac                 |
-| 20 | :soon:   | 2022-02-11 20:00:00 | canterbury      |      4 |        3 | Sweet Angeline     |   5.5  | pangea               |
-| 21 | :soon:   | 2022-02-11 20:00:00 | canterbury      |      4 |        4 | Ciccina            |   6    | vulture,milkman      |
-| 22 | :soon:   | 2022-02-11 19:45:00 | moonee-valley   |      4 |        5 | Angel Like         |   4    | benny,pangea         |
-| 23 | :soon:   | 2022-02-11 19:00:00 | canterbury      |      2 |       11 | Vivid Flash        |  11    | milkman,wallbow      |
-| 24 | :soon:   | 2022-02-11 19:00:00 | canterbury      |      2 |        8 | Chief Conductor    |  10    | milkman              |
-| 25 | :soon:   | 2022-02-11 19:00:00 | canterbury      |      2 |       10 | Ringarosa          |   5.5  | jmac                 |
-| 26 | :soon:   | 2022-02-11 18:49:00 | rockhampton     |      7 |        4 | Lastofthe Mohicans |  10    | pangea               |
-| 27 | :soon:   | 2022-02-11 18:49:00 | rockhampton     |      7 |       11 | In Order           |   2    | evenodds,blackshadow |
-| 28 | :soon:   | 2022-02-11 18:49:00 | rockhampton     |      7 |        7 | Kotabharu          |   5.5  | pangea               |
-| 29 | :soon:   | 2022-02-11 18:35:00 | darwin          |      4 |        3 | Skellig Island     |   2.6  | evenodds,overthrow   |
-| 30 | :soon:   | 2022-02-11 18:26:00 | hobart          |      7 |        2 | Zoushine           |   8.5  | pangea               |
-| 31 | :soon:   | 2022-02-11 18:26:00 | hobart          |      7 |        5 | Take The Sit       |   9    | pangea,blackshadow   |
-| 32 | :soon:   | 2022-02-11 18:26:00 | hobart          |      7 |        6 | Boom Dot Com       |  12    | benny,pangea         |
-| 33 | :soon:   | 2022-02-11 18:19:00 | rockhampton     |      6 |        4 | Seberton           |   4.8  | pangea               |
-| 34 | :soon:   | 2022-02-11 18:15:00 | moonee-valley   |      1 |        6 | Stromboli          |   4.5  | looseknot            |
-| 35 | :soon:   | 2022-02-11 18:00:00 | darwin          |      3 |        1 | Mr Cashman         |   1.85 | benny,overthrow      |
-| 36 | :soon:   | 2022-02-11 18:00:00 | darwin          |      3 |        5 | Count of Essex     |   8.5  | pangea               |
-| 37 | :soon:   | 2022-02-11 17:50:00 | hobart          |      6 |        3 | The Nephew         |   3.3  | vulture              |
-| 38 | :soon:   | 2022-02-11 17:50:00 | hobart          |      6 |        7 | Dodgy One          |   5.5  | vulture              |
-| 39 | :soon:   | 2022-02-11 17:25:00 | darwin          |      2 |        5 | No Strings         |   4.2  | overthrow            |
-| 40 | :soon:   | 2022-02-11 17:25:00 | darwin          |      2 |        3 | The Albion         |   4.2  | pangea               |
-| 41 | :soon:   | 2022-02-11 17:25:00 | darwin          |      2 |        2 | Cometh The Hour    |   3.8  | pangea               |
-| 42 | :soon:   | 2022-02-11 17:10:00 | hobart          |      5 |        1 | Turk Warrior       |   1.83 | pangea,icyhot        |
-| 43 | :soon:   | 2022-02-11 17:04:00 | rockhampton     |      4 |        3 | Bean Deadly        |   3    | vulture,blackshadow  |
-| 44 | :soon:   | 2022-02-11 17:00:00 | colac           |      7 |        6 | Aurora's Symphony  |   2.5  | pangea,icyhot        |
-| 45 | :soon:   | 2022-02-11 16:45:00 | darwin          |      1 |        5 | Son Of Utred       |   4.8  | pangea,blackshadow   |
-| 46 | :soon:   | 2022-02-11 16:45:00 | darwin          |      1 |        3 | Kaptan Apollo      |   3    | vulture,pangea       |
-| 47 | :soon:   | 2022-02-11 15:47:00 | rockhampton     |      2 |        5 | Emilee's Empire    |   1.7  | pangea               |
-| 48 | :soon:   | 2022-02-11 15:17:00 | hobart          |      2 |        6 | Sharma Rama        |   3.25 | evenodds,overthrow   |
-| 49 | :soon:   | 2022-02-11 15:17:00 | hobart          |      2 |        1 | Lucky Bucky        |   4.4  | pangea               |
-| 50 | :soon:   | 2022-02-11 15:12:00 | rockhampton     |      1 |        5 | She's Winning      |   3.3  | overthrow            |
-| 51 | :soon:   | 2022-02-11 14:29:00 | awapuni         |      7 |        2 | Alhambra Lad       |   2.8  | vulture              |
-| 52 | :soon:   | 2022-02-11 13:19:00 | awapuni         |      5 |        7 | Highborn           |   4.2  | vulture              |
+|    | finish            | time                | track           |   race |   number | name               |   odds | tipster              |
+|---:|:------------------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:---------------------|
+|  0 | :soon:            | 2022-02-12 06:15:00 | chelmsford-city |      6 |        1 | Always Fearless    |   3.5  | vulture              |
+|  1 | :soon:            | 2022-02-12 03:15:00 | bangor          |      5 |        1 | Jungle Jack        |   1.92 | overthrow,lago       |
+|  2 | :soon:            | 2022-02-12 03:05:00 | kempton         |      6 |        8 | Flegmatik          |   5    | overthrow            |
+|  3 | :soon:            | 2022-02-12 03:05:00 | kempton         |      6 |        2 | Morning Vicar      |   9    | overthrow            |
+|  4 | :soon:            | 2022-02-12 02:40:00 | bangor          |      4 |        8 | Kayfast Warrior    |   3.25 | overthrow            |
+|  5 | :soon:            | 2022-02-12 02:30:00 | kempton         |      5 |        8 | Major Sting        |   7    | overthrow            |
+|  6 | :soon:            | 2022-02-12 01:55:00 | kempton         |      4 |        4 | Across The Line    |   4.6  | evenodds,overthrow   |
+|  7 | :soon:            | 2022-02-12 01:10:00 | southwell       |      4 |        3 | Black Kalanisi     |   3.5  | pangea               |
+|  8 | :soon:            | 2022-02-12 00:55:00 | bangor          |      1 |        2 | Porlock Bay        |   1.73 | pangea,blackshadow   |
+|  9 | :soon:            | 2022-02-12 00:55:00 | bangor          |      1 |        7 | Sir Mangan         |  11    | overthrow            |
+| 10 | :soon:            | 2022-02-12 00:45:00 | kempton         |      2 |        1 | Valsheda           |   2.6  | overthrow            |
+| 11 | :soon:            | 2022-02-12 00:35:00 | southwell       |      3 |        3 | Government         |   6    | looseknot            |
+| 12 | :soon:            | 2022-02-12 00:10:00 | kempton         |      1 |        3 | Global Famenglory  |   2.85 | evenodds,overthrow   |
+| 13 | :soon:            | 2022-02-11 21:15:00 | moonee-valley   |      7 |        5 | Mars Mission       |   1.83 | vulture              |
+| 14 | :soon:            | 2022-02-11 21:15:00 | moonee-valley   |      7 |        3 | He's The Ultimate  |   3.25 | evenodds,blackshadow |
+| 15 | :soon:            | 2022-02-11 20:45:00 | moonee-valley   |      6 |        8 | Miss Melbourne     |   7.5  | milkman              |
+| 16 | :soon:            | 2022-02-11 20:30:00 | canterbury      |      5 |       11 | Sessions Road      |   6    | pangea               |
+| 17 | :soon:            | 2022-02-11 20:30:00 | canterbury      |      5 |        5 | Score              |   5.5  | vulture,jmac         |
+| 18 | :soon:            | 2022-02-11 20:15:00 | moonee-valley   |      5 |        4 | Glamour And Glory  |   4.2  | pangea               |
+| 19 | :soon:            | 2022-02-11 20:00:00 | canterbury      |      4 |        1 | Ita                |   4.75 | jmac                 |
+| 20 | :soon:            | 2022-02-11 20:00:00 | canterbury      |      4 |        3 | Sweet Angeline     |   5.5  | pangea               |
+| 21 | :soon:            | 2022-02-11 20:00:00 | canterbury      |      4 |        4 | Ciccina            |   6    | vulture,milkman      |
+| 22 | :soon:            | 2022-02-11 19:45:00 | moonee-valley   |      4 |        5 | Angel Like         |   4    | benny,pangea         |
+| 23 | :soon:            | 2022-02-11 19:00:00 | canterbury      |      2 |       11 | Vivid Flash        |  11    | milkman,wallbow      |
+| 24 | :soon:            | 2022-02-11 19:00:00 | canterbury      |      2 |        8 | Chief Conductor    |  10    | milkman              |
+| 25 | :soon:            | 2022-02-11 19:00:00 | canterbury      |      2 |       10 | Ringarosa          |   5.5  | jmac                 |
+| 26 | :soon:            | 2022-02-11 18:49:00 | rockhampton     |      7 |        4 | Lastofthe Mohicans |  10    | pangea               |
+| 27 | :soon:            | 2022-02-11 18:49:00 | rockhampton     |      7 |       11 | In Order           |   2    | evenodds,blackshadow |
+| 28 | :soon:            | 2022-02-11 18:49:00 | rockhampton     |      7 |        7 | Kotabharu          |   5.5  | pangea               |
+| 29 | :soon:            | 2022-02-11 18:35:00 | darwin          |      4 |        3 | Skellig Island     |   2.6  | evenodds,overthrow   |
+| 30 | :soon:            | 2022-02-11 18:26:00 | hobart          |      7 |        2 | Zoushine           |   8.5  | pangea               |
+| 31 | :soon:            | 2022-02-11 18:26:00 | hobart          |      7 |        5 | Take The Sit       |   9    | pangea,blackshadow   |
+| 32 | :soon:            | 2022-02-11 18:26:00 | hobart          |      7 |        6 | Boom Dot Com       |  12    | benny,pangea         |
+| 33 | :soon:            | 2022-02-11 18:19:00 | rockhampton     |      6 |        4 | Seberton           |   4.8  | pangea               |
+| 34 | :soon:            | 2022-02-11 18:15:00 | moonee-valley   |      1 |        6 | Stromboli          |   4.5  | looseknot            |
+| 35 | :soon:            | 2022-02-11 18:00:00 | darwin          |      3 |        1 | Mr Cashman         |   1.85 | benny,overthrow      |
+| 36 | :soon:            | 2022-02-11 18:00:00 | darwin          |      3 |        5 | Count of Essex     |   8.5  | pangea               |
+| 37 | :soon:            | 2022-02-11 17:50:00 | hobart          |      6 |        3 | The Nephew         |   3.3  | vulture              |
+| 38 | :soon:            | 2022-02-11 17:50:00 | hobart          |      6 |        7 | Dodgy One          |   5.5  | vulture              |
+| 39 | :soon:            | 2022-02-11 17:25:00 | darwin          |      2 |        5 | No Strings         |   4.2  | overthrow            |
+| 40 | :soon:            | 2022-02-11 17:25:00 | darwin          |      2 |        3 | The Albion         |   4.2  | pangea               |
+| 41 | :soon:            | 2022-02-11 17:25:00 | darwin          |      2 |        2 | Cometh The Hour    |   3.8  | pangea               |
+| 42 | :soon:            | 2022-02-11 17:10:00 | hobart          |      5 |        1 | Turk Warrior       |   1.83 | pangea,icyhot        |
+| 43 | :soon:            | 2022-02-11 17:04:00 | rockhampton     |      4 |        3 | Bean Deadly        |   3    | vulture,blackshadow  |
+| 44 | :soon:            | 2022-02-11 17:00:00 | colac           |      7 |        6 | Aurora's Symphony  |   2.5  | pangea,icyhot        |
+| 45 | :soon:            | 2022-02-11 16:45:00 | darwin          |      1 |        5 | Son Of Utred       |   4.8  | pangea,blackshadow   |
+| 46 | :soon:            | 2022-02-11 16:45:00 | darwin          |      1 |        3 | Kaptan Apollo      |   3    | vulture,pangea       |
+| 47 | :soon:            | 2022-02-11 15:47:00 | rockhampton     |      2 |        5 | Emilee's Empire    |   1.7  | pangea               |
+| 48 | :soon:            | 2022-02-11 15:17:00 | hobart          |      2 |        6 | Sharma Rama        |   3.25 | evenodds,overthrow   |
+| 49 | :soon:            | 2022-02-11 15:17:00 | hobart          |      2 |        1 | Lucky Bucky        |   4.4  | pangea               |
+| 50 | :soon:            | 2022-02-11 15:12:00 | rockhampton     |      1 |        5 | She's Winning      |   3.3  | overthrow            |
+| 51 | :soon:            | 2022-02-11 14:29:00 | awapuni         |      7 |        2 | Alhambra Lad       |   2.8  | vulture              |
+| 52 | :2nd_place_medal: | 2022-02-11 13:19:00 | awapuni         |      5 |        7 | Highborn           |   4.2  | vulture              |
