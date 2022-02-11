@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-11 19:28:53 +1000  
+date: 2022-02-11 19:43:52 +1000  
 ---   
 
 
@@ -104,7 +104,7 @@ date: 2022-02-11 19:28:53 +1000
 | 22 | :soon:            | 2022-02-11 19:45:00 | moonee-valley   |      4 |        5 | Angel Like         |   4    | benny,pangea         |
 | 23 | :2nd_place_medal: | 2022-02-11 19:00:00 | canterbury      |      2 |       11 | Vivid Flash        |  11    | milkman,wallbow      |
 | 24 | :3rd_place_medal: | 2022-02-11 19:00:00 | canterbury      |      2 |        8 | Chief Conductor    |  10    | milkman              |
-| 25 | --                | 2022-02-11 19:00:00 | canterbury      |      2 |       10 | Ringarosa          |   5.5  | jmac                 |
+| 25 | 5.0               | 2022-02-11 19:00:00 | canterbury      |      2 |       10 | Ringarosa          |   5.5  | jmac                 |
 | 26 | 4.0               | 2022-02-11 18:49:00 | rockhampton     |      7 |        4 | Lastofthe Mohicans |  10    | pangea               |
 | 27 | :boom:            | 2022-02-11 18:49:00 | rockhampton     |      7 |       11 | In Order           |   2    | evenodds,blackshadow |
 | 28 | :2nd_place_medal: | 2022-02-11 18:49:00 | rockhampton     |      7 |        7 | Kotabharu          |   5.5  | pangea               |

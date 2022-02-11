@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-11 19:28:51 +1000  
+date: 2022-02-11 19:43:50 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 20:30             | 2022-02-11 | canterbury R5        | 5 Score              |  5.5  |    -10   |
 | 20:00             | 2022-02-11 | canterbury R4        | 1 Ita                |  4.75 |    -10   |
-| 0                 | 2022-02-11 | canterbury R2        | 10 Ringarosa         |  0    |    -10   |
+| 5                 | 2022-02-11 | canterbury R2        | 10 Ringarosa         |  5.5  |    -10   |
 | :boom:            | 2022-02-09 | warwick-farm R5      | 10 Roots             |  2.7  |     17   |
 | :3rd_place_medal: | 2022-02-09 | warwick-farm R3      | 9 Paternal           |  3.5  |    -10   |
 | :boom:            | 2022-02-09 | warwick-farm R2      | 13 Arbitration       |  2.8  |     18   |
