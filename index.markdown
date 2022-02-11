@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-11 14:15:21 +1000  
+date: 2022-02-11 14:31:41 +1000  
 ---   
 
 
@@ -9,21 +9,21 @@ date: 2022-02-11 14:15:21 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 |    0 |    -1 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      3 |      0 |      -30 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 |    0 |    -1 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      6 |      0 |      -60 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      0 |      -70 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     11 |      0 |     -110 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      0 |     -160 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     19 |      0 |     -190 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      0 |     -270 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      0 |     -380 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      0 |     -440 |    0 |    -1 |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 | 0    |  -1   |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    |  -1   |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    |  -1   |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 | 0    |  -1   |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 | 0    |  -1   |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      3 |      0 |      -30 | 0    |  -1   |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    |  -1   |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      6 |      0 |      -60 | 0    |  -1   |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      0 |      -70 | 0    |  -1   |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     11 |      0 |     -110 | 0    |  -1   |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      0 |     -160 | 0    |  -1   |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     19 |      0 |     -190 | 0    |  -1   |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     27 |      0 |     -270 | 0    |  -1   |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      1 |     -305 | 0.03 |  -0.8 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      0 |     -440 | 0    |  -1   |
 
 ##### Form Last 20 tips   
 
@@ -130,5 +130,5 @@ date: 2022-02-11 14:15:21 +1000
 | 48 | :soon:            | 2022-02-11 15:17:00 | hobart          |      2 |        6 | Sharma Rama        |   3.25 | evenodds,overthrow   |
 | 49 | :soon:            | 2022-02-11 15:17:00 | hobart          |      2 |        1 | Lucky Bucky        |   4.4  | pangea               |
 | 50 | :soon:            | 2022-02-11 15:12:00 | rockhampton     |      1 |        5 | She's Winning      |   3.3  | overthrow            |
-| 51 | :soon:            | 2022-02-11 14:29:00 | awapuni         |      7 |        2 | Alhambra Lad       |   2.8  | vulture              |
+| 51 | --                | 2022-02-11 14:29:00 | awapuni         |      7 |        2 | Alhambra Lad       |   2.8  | vulture              |
 | 52 | :2nd_place_medal: | 2022-02-11 13:19:00 | awapuni         |      5 |        7 | Highborn           |   4.2  | vulture              |
