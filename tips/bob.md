@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-02-12 22:46:24 +1000  
+date: 2022-02-13 06:11:15 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     13 |      0 |   -130   | 0    | -1    |
-| Last 6 Months  |    122 |     24 |   1645.5 | 0.2  |  1.35 |
-| Since Jan 2020 |    245 |     41 |   3585.5 | 0.17 |  1.46 |
+| Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
+| Last 28 Days   |     15 |      0 |   -150   | 0    | -1    |
+| Last 6 Months  |    124 |     24 |   1625.5 | 0.19 |  1.31 |
+| Since Jan 2020 |    247 |     41 |   3565.5 | 0.17 |  1.44 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:45             | 2022-02-13 | newbury R7                    | 6 Dusky Days          |  31    |    -10   |
-| 02:50             | 2022-02-13 | warwick R6                    | 1 Ballintubber Boy    |  12    |    -10   |
+| 0                 | 2022-02-13 | newbury R7                    | 6 Dusky Days          |   0    |    -10   |
+| 0                 | 2022-02-13 | warwick R6                    | 1 Ballintubber Boy    |   0    |    -10   |
 | 0                 | 2022-02-11 | doncaster R6                  | 3 Faire Part Sivola   |   0    |    -10   |
 | :3rd_place_medal: | 2022-02-09 | sandown-hillside R4           | 2 Secret Isle         |   9.5  |    -10   |
 | 0                 | 2022-02-07 | leopardstown R7               | 23 Suprise Package    |   0    |    -10   |
@@ -31,9 +31,9 @@ categories: None
 | 9                 | 2022-01-20 | warrnambool R7                | 8 Prince Of Eagles    |  19    |    -10   |
 | 5                 | 2022-01-20 | plumpton R3                   | 7 Tzar De L'Elfe      |  21    |    -10   |
 | 99                | 2022-01-15 | fairyhouse R1                 | 9 Longacre Square     |   0    |    -10   |
-| 9                 | 2022-01-15 | flemington R4                 | 6 Think Bold          |  20    |    -10   |
-| 13                | 2022-01-15 | flemington R4                 | 10 Tuki Twelve        |  41    |    -10   |
 | :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
+| 13                | 2022-01-15 | flemington R4                 | 10 Tuki Twelve        |  41    |    -10   |
+| 9                 | 2022-01-15 | flemington R4                 | 6 Think Bold          |  20    |    -10   |
 | 99                | 2022-01-11 | taunton R3                    | 14 Drag Race          |   0    |    -10   |
 | 4                 | 2022-01-10 | fairyhouse R2                 | 6 Crossgales Ophelia  |   0    |    -10   |
 | 7                 | 2022-01-09 | port-lincoln R5               | 8 Hand to Hand        |  29    |    -10   |

@@ -1,31 +1,11 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-12 22:46:25 +1000  
+date: 2022-02-13 06:11:15 +1000  
 ---   
 
 
 ##### Form Today tips   
-
-| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
-|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      1 |    124   | 0.5  |  6.2  |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      3 |     31   | 0.5  |  0.52 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      5 |     25   | 0.2  |  0.1  |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      3 |     22   | 0.27 |  0.2  |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |    -10   | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |    -10   | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      3 |    -18   | 0.07 | -0.04 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      0 |    -20   | 0    | -1    |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |    -20   | 0    | -1    |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |    -50   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     57 |     12 |    -56.5 | 0.21 | -0.1  |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      6 |      0 |    -60   | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     37 |      5 |   -179   | 0.14 | -0.48 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      6 |   -223   | 0.15 | -0.54 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     65 |      5 |   -242   | 0.08 | -0.37 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     97 |      3 |   -558   | 0.03 | -0.58 |
 
 ##### Form Last 20 tips   
 
@@ -33,97 +13,97 @@ date: 2022-02-12 22:46:25 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      6 |    138   | 0.3  |  0.69 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      7 |    116.6 | 0.35 |  0.58 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      6 |    -35.9 | 0.3  | -0.18 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -29   | 0.25 | -0.14 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -39.5 | 0.4  | -0.2  |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -42   | 0.15 | -0.21 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      7 |    -52.9 | 0.35 | -0.26 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |    -55   | 0.1  | -0.28 |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    -80   | 0.05 | -0.4  |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |    -80   | 0.05 | -0.4  |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      6 |    -66.9 | 0.3  | -0.33 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      4 |    -70   | 0.2  | -0.35 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      1 |    -80   | 0.05 | -0.4  |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -91.4 | 0.25 | -0.46 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      4 |    -92.5 | 0.2  | -0.46 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -91.5 | 0.2  | -0.46 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      4 |    -95   | 0.2  | -0.48 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      2 |    -99   | 0.1  | -0.5  |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      5 |   -100.9 | 0.25 | -0.5  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |   -105   | 0.1  | -0.52 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      1 |   -111   | 0.05 | -0.56 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      2 |   -116   | 0.1  | -0.58 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |   -119.2 | 0.15 | -0.6  |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |   -129   | 0.15 | -0.64 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      2 |   -141.5 | 0.1  | -0.71 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |   -115.4 | 0.2  | -0.58 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      4 |   -120   | 0.2  | -0.6  |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      2 |   -152   | 0.1  | -0.76 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -166.2 | 0.1  | -0.83 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -168   | 0.05 | -0.84 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     98 |     16 |   2229   | 0.16 |  2.27 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |    114 |     21 |   1482.5 | 0.18 |  1.3  |
-| [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     53 |     53 |   1419.3 | 1    |  2.68 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |    112 |     64 |    635.2 | 0.57 |  0.57 |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     54 |     13 |    206.2 | 0.24 |  0.38 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    270 |     72 |     95.1 | 0.27 |  0.04 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    605 |    100 |     61.2 | 0.17 |  0.01 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |    100 |     17 |   2353   | 0.17 |  2.35 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |    116 |     21 |   1462.5 | 0.18 |  1.26 |
+| [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     52 |     52 |   1357.3 | 1    |  2.61 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |    114 |     64 |    615.2 | 0.56 |  0.54 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     55 |     13 |    196.2 | 0.24 |  0.36 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    276 |     72 |     35.1 | 0.26 |  0.01 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    608 |    100 |     31.2 | 0.16 |  0.01 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     28 |     15 |     10   | 0.54 |  0.04 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    406 |    120 |   -309.5 | 0.3  | -0.08 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    212 |     68 |   -316.5 | 0.32 | -0.15 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     56 |      7 |   -335   | 0.12 | -0.6  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    330 |     82 |   -424.3 | 0.25 | -0.13 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    348 |     59 |  -1300.8 | 0.17 | -0.37 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    577 |    148 |  -1670   | 0.26 | -0.29 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2418 |    128 |  -2293   | 0.05 | -0.09 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1117 |    271 |  -2688.8 | 0.24 | -0.24 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1802 |    360 |  -3336.1 | 0.2  | -0.19 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2144 |    533 |  -3487.1 | 0.25 | -0.16 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2671 |    644 |  -4085.8 | 0.24 | -0.15 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6248 |    856 | -12649.5 | 0.14 | -0.2  |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7842 |    373 | -22577   | 0.05 | -0.29 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    353 |     62 |  -1259.8 | 0.18 | -0.36 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    587 |    151 |  -1638   | 0.26 | -0.28 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2456 |    131 |  -2261   | 0.05 | -0.09 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1138 |    276 |  -2618.2 | 0.24 | -0.23 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2172 |    543 |  -3420.6 | 0.25 | -0.16 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1836 |    367 |  -3500.5 | 0.2  | -0.19 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2705 |    653 |  -3983.3 | 0.24 | -0.15 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6166 |    851 | -12973.5 | 0.14 | -0.21 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7929 |    377 | -22905   | 0.05 | -0.29 |
 
 |     | finish            | time                | track          |   race |   number | name               |   odds | tipster              |
 |----:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:---------------------|
 |   0 | :soon:            | 2022-02-13 07:15:00 | wolverhampton  |      7 |        2 | Menai Bridge       |   2.55 | vulture              |
-|   1 | :soon:            | 2022-02-13 05:45:00 | wolverhampton  |      4 |        1 | Alrehb             |   2.5  | pangea               |
+|   1 | :boom:            | 2022-02-13 05:45:00 | wolverhampton  |      4 |        1 | Alrehb             |   2.5  | pangea               |
 |   2 | :soon:            | 2022-02-13 05:15:00 | wolverhampton  |      3 |        5 | Great Empress      |   9.5  | evenodds,overthrow   |
-|   3 | :soon:            | 2022-02-13 03:45:00 | newbury        |      7 |        8 | Hullnback          |   8    | milkman              |
-|   4 | :soon:            | 2022-02-13 03:45:00 | newbury        |      7 |        4 | Ballyglass         |  13    | vulture              |
-|   5 | :soon:            | 2022-02-13 03:45:00 | newbury        |      7 |        1 | Timeforatune       |   9    | evenodds,lago        |
-|   6 | :soon:            | 2022-02-13 03:45:00 | newbury        |      7 |        6 | Dusky Days         |  31    | cosmo,bob            |
-|   7 | :soon:            | 2022-02-13 03:45:00 | newbury        |      7 |        7 | Filanderer         |   8.5  | vulture,milkman      |
-|   8 | :soon:            | 2022-02-13 03:30:00 | naas           |      7 |        1 | Ask D'Man          |   6    | evenodds,overthrow   |
-|   9 | :soon:            | 2022-02-13 03:30:00 | naas           |      7 |        2 | Billaway           |   1.4  | overthrow            |
-|  10 | :soon:            | 2022-02-13 03:25:00 | warwick        |      7 |        6 | Riskintheground    |   3.75 | overthrow            |
-|  11 | :soon:            | 2022-02-13 03:10:00 | newbury        |      6 |        1 | Sonigino           |   4.75 | overthrow            |
-|  12 | :soon:            | 2022-02-13 03:10:00 | newbury        |      6 |        4 | King Ottokar       |   3.5  | overthrow            |
-|  13 | :soon:            | 2022-02-13 03:00:00 | naas           |      6 |        1 | Elimay             |   1.17 | pangea               |
-|  14 | :soon:            | 2022-02-13 02:50:00 | warwick        |      6 |        6 | Colonel Manderson  |   2.8  | overthrow            |
-|  15 | :soon:            | 2022-02-13 02:50:00 | warwick        |      6 |        4 | In Rem             |   2.75 | milkman              |
-|  16 | :soon:            | 2022-02-13 02:35:00 | newbury        |      5 |        6 | Knappers Hill      |  11    | overthrow            |
-|  17 | :soon:            | 2022-02-13 02:35:00 | newbury        |      5 |        8 | Broomfield Burg    |   4.8  | overthrow            |
-|  18 | :soon:            | 2022-02-13 02:35:00 | newbury        |      5 |        4 | First Street       |  15    | milkman              |
-|  19 | :soon:            | 2022-02-13 02:15:00 | warwick        |      5 |        4 | Falco Blitz        |   6    | pangea,overthrow     |
-|  20 | :soon:            | 2022-02-13 02:08:00 | uttoxeter      |      5 |        1 | Barrowdale         |   2.6  | overthrow            |
-|  21 | :soon:            | 2022-02-13 02:00:00 | newbury        |      4 |        4 | Funambule Sivola   |   3.3  | vulture              |
-|  22 | :soon:            | 2022-02-13 02:00:00 | newbury        |      4 |        5 | Hitman             |   3.2  | overthrow            |
-|  23 | :soon:            | 2022-02-13 01:55:00 | lingfield      |      3 |        1 | Kodias Sangarius   |   3.6  | vulture              |
+|   3 | --                | 2022-02-13 03:45:00 | newbury        |      7 |        8 | Hullnback          |   8    | milkman              |
+|   4 | :3rd_place_medal: | 2022-02-13 03:45:00 | newbury        |      7 |        4 | Ballyglass         |  13    | vulture              |
+|   5 | --                | 2022-02-13 03:45:00 | newbury        |      7 |        1 | Timeforatune       |   9    | evenodds,lago        |
+|   6 | --                | 2022-02-13 03:45:00 | newbury        |      7 |        6 | Dusky Days         |  31    | cosmo,bob            |
+|   7 | --                | 2022-02-13 03:45:00 | newbury        |      7 |        7 | Filanderer         |   8.5  | vulture,milkman      |
+|   8 | --                | 2022-02-13 03:30:00 | naas           |      7 |        1 | Ask D'Man          |   6    | evenodds,overthrow   |
+|   9 | :boom:            | 2022-02-13 03:30:00 | naas           |      7 |        2 | Billaway           |   1.4  | overthrow            |
+|  10 | --                | 2022-02-13 03:25:00 | warwick        |      7 |        6 | Riskintheground    |   3.75 | overthrow            |
+|  11 | --                | 2022-02-13 03:10:00 | newbury        |      6 |        1 | Sonigino           |   4.75 | overthrow            |
+|  12 | --                | 2022-02-13 03:10:00 | newbury        |      6 |        4 | King Ottokar       |   3.5  | overthrow            |
+|  13 | :boom:            | 2022-02-13 03:00:00 | naas           |      6 |        1 | Elimay             |   1.17 | pangea               |
+|  14 | :2nd_place_medal: | 2022-02-13 02:50:00 | warwick        |      6 |        6 | Colonel Manderson  |   2.8  | overthrow            |
+|  15 | :boom:            | 2022-02-13 02:50:00 | warwick        |      6 |        4 | In Rem             |   2.75 | milkman              |
+|  16 | 6.0               | 2022-02-13 02:35:00 | newbury        |      5 |        6 | Knappers Hill      |  11    | overthrow            |
+|  17 | 7.0               | 2022-02-13 02:35:00 | newbury        |      5 |        8 | Broomfield Burg    |   4.8  | overthrow            |
+|  18 | :3rd_place_medal: | 2022-02-13 02:35:00 | newbury        |      5 |        4 | First Street       |  15    | milkman              |
+|  19 | --                | 2022-02-13 02:15:00 | warwick        |      5 |        4 | Falco Blitz        |   6    | pangea,overthrow     |
+|  20 | :boom:            | 2022-02-13 02:08:00 | uttoxeter      |      5 |        1 | Barrowdale         |   2.6  | overthrow            |
+|  21 | :boom:            | 2022-02-13 02:00:00 | newbury        |      4 |        4 | Funambule Sivola   |   3.3  | vulture              |
+|  22 | :3rd_place_medal: | 2022-02-13 02:00:00 | newbury        |      4 |        5 | Hitman             |   3.2  | overthrow            |
+|  23 | 5.0               | 2022-02-13 01:55:00 | lingfield      |      3 |        1 | Kodias Sangarius   |   3.6  | vulture              |
 |  24 | :soon:            | 2022-02-13 01:40:00 | warwick        |      4 |        5 | Horizon D'Ainay    |   4.5  | evenodds,overthrow   |
-|  25 | :soon:            | 2022-02-13 01:33:00 | uttoxeter      |      4 |        3 | Belle De Manech    |   8    | vulture              |
-|  26 | :soon:            | 2022-02-13 01:25:00 | newbury        |      3 |        4 | Royale Pagaille    |   3    | pangea,blackshadow   |
-|  27 | :soon:            | 2022-02-13 01:25:00 | newbury        |      3 |        1 | Clan Des Obeaux    |   2.25 | overthrow            |
-|  28 | :soon:            | 2022-02-13 01:15:00 | naas           |      3 |       25 | Brooklynn Glory    |   3.8  | overthrow            |
-|  29 | :soon:            | 2022-02-13 01:05:00 | warwick        |      3 |        3 | Brave Seasca       |   6    | milkman              |
-|  30 | :soon:            | 2022-02-13 01:05:00 | warwick        |      3 |        2 | Third Time Lucki   |   2.75 | overthrow            |
-|  31 | :soon:            | 2022-02-13 00:58:00 | uttoxeter      |      3 |        2 | Emmas Joy          |   9.5  | overthrow            |
-|  32 | :soon:            | 2022-02-13 00:40:00 | naas           |      2 |        3 | Hi Ho Phoenix      |   7    | overthrow            |
-|  33 | :soon:            | 2022-02-13 00:35:00 | warwick        |      2 |        4 | Marie's Rock       |   3    | overthrow            |
-|  34 | :soon:            | 2022-02-13 00:35:00 | warwick        |      2 |        3 | Get A Tonic        |   9    | overthrow            |
-|  35 | :soon:            | 2022-02-13 00:25:00 | uttoxeter      |      2 |        1 | Heartbreak Kid     |   4.6  | overthrow            |
-|  36 | :soon:            | 2022-02-13 00:15:00 | newbury        |      1 |        1 | Bravemansgame      |   1.85 | overthrow            |
-|  37 | :soon:            | 2022-02-13 00:15:00 | newbury        |      1 |        5 | Gallyhill          |  15    | overthrow            |
+|  25 | :2nd_place_medal: | 2022-02-13 01:33:00 | uttoxeter      |      4 |        3 | Belle De Manech    |   8    | vulture              |
+|  26 | :2nd_place_medal: | 2022-02-13 01:25:00 | newbury        |      3 |        4 | Royale Pagaille    |   3    | pangea,blackshadow   |
+|  27 | :3rd_place_medal: | 2022-02-13 01:25:00 | newbury        |      3 |        1 | Clan Des Obeaux    |   2.25 | overthrow            |
+|  28 | :3rd_place_medal: | 2022-02-13 01:15:00 | naas           |      3 |       25 | Brooklynn Glory    |   3.8  | overthrow            |
+|  29 | :3rd_place_medal: | 2022-02-13 01:05:00 | warwick        |      3 |        3 | Brave Seasca       |   6    | milkman              |
+|  30 | :2nd_place_medal: | 2022-02-13 01:05:00 | warwick        |      3 |        2 | Third Time Lucki   |   2.75 | overthrow            |
+|  31 | --                | 2022-02-13 00:58:00 | uttoxeter      |      3 |        2 | Emmas Joy          |   9.5  | overthrow            |
+|  32 | --                | 2022-02-13 00:40:00 | naas           |      2 |        3 | Hi Ho Phoenix      |   7    | overthrow            |
+|  33 | :boom:            | 2022-02-13 00:35:00 | warwick        |      2 |        4 | Marie's Rock       |   3    | overthrow            |
+|  34 | :2nd_place_medal: | 2022-02-13 00:35:00 | warwick        |      2 |        3 | Get A Tonic        |   9    | overthrow            |
+|  35 | :boom:            | 2022-02-13 00:25:00 | uttoxeter      |      2 |        1 | Heartbreak Kid     |   4.6  | overthrow            |
+|  36 | :boom:            | 2022-02-13 00:15:00 | newbury        |      1 |        1 | Bravemansgame      |   1.85 | overthrow            |
+|  37 | --                | 2022-02-13 00:15:00 | newbury        |      1 |        5 | Gallyhill          |  15    | overthrow            |
 |  38 | :soon:            | 2022-02-13 00:05:00 | naas           |      1 |        4 | Feigh              |   3.5  | evenodds,blackshadow |
 |  39 | :soon:            | 2022-02-13 00:00:00 | warwick        |      1 |        4 | Camdonian          |   3.1  | evenodds,overthrow   |
-|  40 | :soon:            | 2022-02-12 23:50:00 | uttoxeter      |      1 |        5 | Kobra              |  41    | overthrow            |
-|  41 | :soon:            | 2022-02-12 23:50:00 | uttoxeter      |      1 |        1 | Corey's Courage    |   1.4  | milkman              |
-|  42 | :soon:            | 2022-02-12 23:20:00 | kenilworth     |      3 |        2 | Everglades         |   0    | vulture              |
+|  40 | --                | 2022-02-12 23:50:00 | uttoxeter      |      1 |        5 | Kobra              |  41    | overthrow            |
+|  41 | :boom:            | 2022-02-12 23:50:00 | uttoxeter      |      1 |        1 | Corey's Courage    |   1.4  | milkman              |
+|  42 | :boom:            | 2022-02-12 23:20:00 | kenilworth     |      3 |        2 | Everglades         |   0    | vulture              |
 |  43 | --                | 2022-02-12 21:50:00 | turffontein    |      3 |        7 | Super Silver       |   0    | milkman              |
 |  44 | :soon:            | 2022-02-12 20:34:00 | ascot          |      9 |        7 | Fashion Queen      |   5    | evenodds,overthrow   |
 |  45 | 10.0              | 2022-02-12 19:57:00 | ascot          |      8 |        2 | Amasenus           |   7    | vulture,pangea       |
