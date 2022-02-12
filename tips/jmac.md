@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-12 07:49:24 +1000  
+date: 2022-02-12 20:18:21 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,12 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 0                 | 2022-02-12 | randwick R8          | 9 Verry Elleegant    |  0    |    -10   |
+| 0                 | 2022-02-12 | randwick R6          | 2 Laws Of Indices    |  0    |    -10   |
+| 0                 | 2022-02-12 | randwick R5          | 2 Yiyi               |  0    |    -10   |
+| 0                 | 2022-02-12 | randwick R4          | 1 Delexo             |  0    |    -10   |
+| 0                 | 2022-02-12 | randwick R3          | 7 Fortified          |  0    |    -10   |
+| 0                 | 2022-02-12 | randwick R1          | 4 Northern Beaches   |  0    |    -10   |
 | 0                 | 2022-02-11 | canterbury R5        | 5 Score              |  0    |    -10   |
 | 7                 | 2022-02-11 | canterbury R4        | 1 Ita                |  4.75 |    -10   |
 | 5                 | 2022-02-11 | canterbury R2        | 10 Ringarosa         |  5.5  |    -10   |

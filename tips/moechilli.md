@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-02-12 07:49:20 +1000  
+date: 2022-02-12 20:18:17 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
+| 0                 | 2022-02-12 | gold-coast R8          | 3 Lord Markel        |   0    |    -10   |
 | 4                 | 2022-02-10 | kilmore R8             | 1 Lord Sundowner     |   8    |    -10   |
 | 4                 | 2022-02-10 | gatton R1              | 3 Diwali Lights      |   4.6  |    -10   |
 | :boom:            | 2022-02-06 | musselburgh R7         | 1 Myth Buster        |   2.4  |     14   |
