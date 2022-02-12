@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-02-13 06:25:47 +1000  
+date: 2022-02-13 07:29:17 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:15             | 2022-02-13 | wolverhampton R7              | 2 Menai Bridge        |   2.55 |    -10   |
+| 0                 | 2022-02-13 | wolverhampton R7              | 2 Menai Bridge        |   0    |    -10   |
 | :3rd_place_medal: | 2022-02-13 | newbury R7                    | 4 Ballyglass          |  13    |    -10   |
 | 0                 | 2022-02-13 | newbury R7                    | 7 Filanderer          |   0    |    -10   |
 | 0                 | 2022-02-13 | naas R7                       | 1 Ask D'Man           |   0    |    -10   |

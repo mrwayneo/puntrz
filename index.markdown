@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-13 06:25:56 +1000  
+date: 2022-02-13 07:29:26 +1000  
 ---   
 
 
@@ -61,7 +61,7 @@ date: 2022-02-13 06:25:56 +1000
 
 |     | finish            | time                | track          |   race |   number | name               |   odds | tipster              |
 |----:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|   0 | :soon:            | 2022-02-13 07:15:00 | wolverhampton  |      7 |        2 | Menai Bridge       |   2.55 | vulture              |
+|   0 | --                | 2022-02-13 07:15:00 | wolverhampton  |      7 |        2 | Menai Bridge       |   2.55 | vulture              |
 |   1 | :boom:            | 2022-02-13 05:45:00 | wolverhampton  |      4 |        1 | Alrehb             |   2.5  | pangea               |
 |   2 | :soon:            | 2022-02-13 05:15:00 | wolverhampton  |      3 |        5 | Great Empress      |   9.5  | evenodds,overthrow   |
 |   3 | --                | 2022-02-13 03:45:00 | newbury        |      7 |        8 | Hullnback          |   8    | milkman              |
