@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-12 21:46:30 +1000  
+date: 2022-02-12 22:01:16 +1000  
 ---   
 
 
@@ -124,7 +124,7 @@ date: 2022-02-12 21:46:30 +1000
 |  40 | :soon:            | 2022-02-12 23:50:00 | uttoxeter      |      1 |        5 | Kobra              |  41    | overthrow            |
 |  41 | :soon:            | 2022-02-12 23:50:00 | uttoxeter      |      1 |        1 | Corey's Courage    |   1.4  | milkman              |
 |  42 | :soon:            | 2022-02-12 23:20:00 | kenilworth     |      3 |        2 | Everglades         |   0    | vulture              |
-|  43 | :soon:            | 2022-02-12 21:50:00 | turffontein    |      3 |        7 | Super Silver       |   0    | milkman              |
+|  43 | --                | 2022-02-12 21:50:00 | turffontein    |      3 |        7 | Super Silver       |   0    | milkman              |
 |  44 | :soon:            | 2022-02-12 20:34:00 | ascot          |      9 |        7 | Fashion Queen      |   5    | evenodds,overthrow   |
 |  45 | 10.0              | 2022-02-12 19:57:00 | ascot          |      8 |        2 | Amasenus           |   7    | vulture,pangea       |
 |  46 | :2nd_place_medal: | 2022-02-12 19:57:00 | ascot          |      8 |        1 | Kissonallforcheeks |  10    | pangea               |
