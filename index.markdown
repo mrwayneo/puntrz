@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-12 21:31:07 +1000  
+date: 2022-02-12 21:46:30 +1000  
 ---   
 
 
@@ -24,7 +24,7 @@ date: 2022-02-12 21:31:07 +1000
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      6 |      0 |    -60   | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     37 |      5 |   -179   | 0.14 | -0.48 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      6 |   -223   | 0.15 | -0.54 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     65 |      3 |   -519   | 0.05 | -0.8  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     65 |      4 |   -472   | 0.06 | -0.73 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     97 |      3 |   -558   | 0.03 | -0.58 |
 
 ##### Form Last 20 tips   
