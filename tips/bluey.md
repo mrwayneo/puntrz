@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-02-12 20:18:21 +1000  
+date: 2022-02-12 20:29:26 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 0                 | 2022-02-12 | caulfield R6           | 5 Earlswood           |   0   |      -10 |
-| 0                 | 2022-02-12 | caulfield R4           | 6 Satin Love          |   0   |      -10 |
+| :boom:            | 2022-02-12 | caulfield R6           | 5 Earlswood           |  14.4 |      134 |
+| 12                | 2022-02-12 | caulfield R4           | 6 Satin Love          |  81   |      -10 |
 | 12                | 2022-02-09 | belmont R8             | 7 Ulusaba             |  71   |      -10 |
 | :boom:            | 2022-02-07 | muswellbrook R1        | 12 Pirrama            |  12   |      110 |
 | 6                 | 2022-02-05 | randwick R9            | 6 Broken Arrows       |  17   |      -10 |

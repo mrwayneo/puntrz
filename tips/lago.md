@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-02-12 20:18:21 +1000  
+date: 2022-02-12 20:29:26 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
 | 03:45             | 2022-02-13 | newbury R7             | 1 Timeforatune       |  9    |    -10   |
-| 0                 | 2022-02-12 | ascot R7               | 8 Secret Deploy      |  0    |    -10   |
+| :3rd_place_medal: | 2022-02-12 | ascot R7               | 8 Secret Deploy      |  2.9  |    -10   |
 | :boom:            | 2022-02-12 | bangor R5              | 1 Jungle Jack        |  1.85 |      8.5 |
 | 0                 | 2022-02-10 | albany R5              | 6 Special Royale     |  0    |    -10   |
 | 4                 | 2022-02-09 | ipswich R9             | 9 Sanzera            |  5.5  |    -10   |
@@ -167,8 +167,8 @@ categories: None
 | :boom:            | 2021-04-17 | newbury R8             | 4 Far Hope           |  5    |     40   |
 | :boom:            | 2021-04-17 | newbury R7             | 4 Gloria Mundi       |  6    |     50   |
 | :boom:            | 2021-04-17 | newbury R5             | 1 Hurricane Lane     |  3.75 |     27.5 |
-| 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
 | :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
+| 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
 | :boom:            | 2021-04-15 | kempton R4             | 1 Ransom             |  3.6  |     26   |
 | 99                | 2021-04-15 | newmarket R5           | 2 Divine Light       |  8.5  |    -10   |
 | :2nd_place_medal: | 2021-04-11 | devonport-synthetic R8 | 6 Azara              |  3.1  |    -10   |
