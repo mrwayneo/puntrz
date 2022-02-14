@@ -1,11 +1,26 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-15 07:55:50 +1000  
+date: 2022-02-15 09:02:43 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      2 |      0 |      -20 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      2 |      0 |      -20 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      4 |      0 |      -40 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      4 |      0 |      -40 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      5 |      0 |      -50 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     18 |      0 |     -180 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     50 |      0 |     -500 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,15 +74,17 @@ date: 2022-02-15 07:55:50 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6080 |    837 | -12679.2 | 0.14 | -0.21 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7827 |    368 | -23346   | 0.05 | -0.3  |
 
-|    | finish            | time                | track         |   race |   number | name             |   odds | tipster   |
-|---:|:------------------|:--------------------|:--------------|-------:|---------:|:-----------------|-------:|:----------|
-|  0 | :2nd_place_medal: | 2022-02-15 06:00:00 | wolverhampton |      5 |        9 | Show Lights      |   4    | vulture   |
-|  1 | :boom:            | 2022-02-15 02:50:00 | catterick     |      6 |        9 | You Wear It Well |   1.85 | vulture   |
-|  2 | :3rd_place_medal: | 2022-02-15 02:50:00 | catterick     |      6 |        5 | Stroll On By     |   3.75 | vulture   |
-|  3 | --                | 2022-02-15 02:30:00 | plumpton      |      4 |        4 | Full Of Light    |   2.9  | overthrow |
-|  4 | :2nd_place_medal: | 2022-02-15 01:55:00 | plumpton      |      3 |        1 | Ubetya           |   3    | overthrow |
-|  5 | --                | 2022-02-15 01:30:00 | greyville     |      8 |       12 | Eventidor        |   0    | vulture   |
-|  6 | :boom:            | 2022-02-15 01:05:00 | catterick     |      3 |        2 | Miss Fairfax     |   1.82 | vulture   |
-|  7 | --                | 2022-02-14 23:10:00 | greyville     |      4 |        6 | Camora           |   0    | vulture   |
-|  8 | :2nd_place_medal: | 2022-02-14 15:40:00 | scone         |      4 |        1 | Two Ya Got       |   2.75 | milkman   |
-|  9 | :2nd_place_medal: | 2022-02-14 13:50:00 | scone         |      1 |        3 | The Winter Sun   |   4.75 | looseknot |
+|    | finish   | time                | track     |   race |   number | name             |   odds | tipster            |
+|---:|:---------|:--------------------|:----------|-------:|---------:|:-----------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-02-16 02:55:00 | lingfield |      6 |       10 | Coolvalla        |   8    | looseknot          |
+|  1 | :soon:   | 2022-02-16 02:20:00 | lingfield |      5 |        7 | Seven No Trumps  |   8.5  | overthrow          |
+|  2 | :soon:   | 2022-02-16 01:45:00 | lingfield |      4 |        9 | Nikolayeva       |   8    | vulture            |
+|  3 | :soon:   | 2022-02-16 00:35:00 | lingfield |      2 |        1 | Cousu Main       |   1.9  | evenodds,overthrow |
+|  4 | :soon:   | 2022-02-16 00:35:00 | lingfield |      2 |       10 | Teddy Blue       |   2.5  | vulture            |
+|  5 | :soon:   | 2022-02-15 17:10:00 | mackay    |      5 |        3 | Aleysa's Dream   |   1.33 | pangea             |
+|  6 | :soon:   | 2022-02-15 16:50:00 | wyong     |      7 |        6 | Shameonus        |  19    | pangea             |
+|  7 | :soon:   | 2022-02-15 16:35:00 | mackay    |      4 |        4 | Tavi Mcbride     |   4.2  | vulture,pangea     |
+|  8 | :soon:   | 2022-02-15 15:55:00 | mackay    |      3 |        3 | Nailed It Nan    |   1.57 | benny,icyhot       |
+|  9 | :soon:   | 2022-02-15 15:20:00 | mackay    |      2 |        3 | Runinscared      |   8    | evenodds,overthrow |
+| 10 | :soon:   | 2022-02-15 15:05:00 | wyong     |      4 |       10 | Heavenly Prophet |  22    | pikey              |
+| 11 | :soon:   | 2022-02-15 14:25:00 | wyong     |      3 |        8 | Choix De La Mer  |   8.5  | looseknot,pikey    |
