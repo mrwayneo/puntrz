@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-15 06:05:41 +1000  
+date: 2022-02-15 06:20:49 +1000  
 ---   
 
 
@@ -61,7 +61,7 @@ date: 2022-02-15 06:05:41 +1000
 
 |    | finish            | time                | track         |   race |   number | name             |   odds | tipster   |
 |---:|:------------------|:--------------------|:--------------|-------:|---------:|:-----------------|-------:|:----------|
-|  0 | --                | 2022-02-15 06:00:00 | wolverhampton |      5 |        9 | Show Lights      |   4    | vulture   |
+|  0 | :2nd_place_medal: | 2022-02-15 06:00:00 | wolverhampton |      5 |        9 | Show Lights      |   4    | vulture   |
 |  1 | :boom:            | 2022-02-15 02:50:00 | catterick     |      6 |        9 | You Wear It Well |   1.85 | vulture   |
 |  2 | :3rd_place_medal: | 2022-02-15 02:50:00 | catterick     |      6 |        5 | Stroll On By     |   3.75 | vulture   |
 |  3 | --                | 2022-02-15 02:30:00 | plumpton      |      4 |        4 | Full Of Light    |   2.9  | overthrow |
