@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-14 13:49:16 +1000  
+date: 2022-02-14 14:05:00 +1000  
 ---   
 
 
@@ -37,7 +37,7 @@ date: 2022-02-14 13:49:16 +1000
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      1 |   -111   | 0.05 | -0.56 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |   -115.4 | 0.2  | -0.58 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      4 |   -120   | 0.2  | -0.6  |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      3 |   -127   | 0.15 | -0.64 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      2 |   -152   | 0.1  | -0.76 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -166.2 | 0.1  | -0.83 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -168   | 0.05 | -0.84 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
@@ -69,15 +69,15 @@ date: 2022-02-14 13:49:16 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6090 |    842 | -12618.2 | 0.14 | -0.21 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7905 |    372 | -23230   | 0.05 | -0.29 |
 
-|    | finish   | time                | track         |   race |   number | name             |   odds | tipster   |
-|---:|:---------|:--------------------|:--------------|-------:|---------:|:-----------------|-------:|:----------|
-|  0 | :soon:   | 2022-02-15 06:00:00 | wolverhampton |      5 |        9 | Show Lights      |   4    | vulture   |
-|  1 | :soon:   | 2022-02-15 02:50:00 | catterick     |      6 |        9 | You Wear It Well |   1.85 | vulture   |
-|  2 | :soon:   | 2022-02-15 02:50:00 | catterick     |      6 |        5 | Stroll On By     |   3.75 | vulture   |
-|  3 | :soon:   | 2022-02-15 02:30:00 | plumpton      |      4 |        4 | Full Of Light    |   2.9  | overthrow |
-|  4 | :soon:   | 2022-02-15 01:55:00 | plumpton      |      3 |        1 | Ubetya           |   3    | overthrow |
-|  5 | :soon:   | 2022-02-15 01:30:00 | greyville     |      8 |       12 | Eventidor        |   0    | vulture   |
-|  6 | :soon:   | 2022-02-15 01:05:00 | catterick     |      3 |        2 | Miss Fairfax     |   1.82 | vulture   |
-|  7 | :soon:   | 2022-02-14 23:10:00 | greyville     |      4 |        6 | Camora           |   0    | vulture   |
-|  8 | :soon:   | 2022-02-14 15:40:00 | scone         |      4 |        1 | Two Ya Got       |   2.75 | milkman   |
-|  9 | :soon:   | 2022-02-14 13:50:00 | scone         |      1 |        3 | The Winter Sun   |   4.75 | looseknot |
+|    | finish            | time                | track         |   race |   number | name             |   odds | tipster   |
+|---:|:------------------|:--------------------|:--------------|-------:|---------:|:-----------------|-------:|:----------|
+|  0 | :soon:            | 2022-02-15 06:00:00 | wolverhampton |      5 |        9 | Show Lights      |   4    | vulture   |
+|  1 | :soon:            | 2022-02-15 02:50:00 | catterick     |      6 |        9 | You Wear It Well |   1.85 | vulture   |
+|  2 | :soon:            | 2022-02-15 02:50:00 | catterick     |      6 |        5 | Stroll On By     |   3.75 | vulture   |
+|  3 | :soon:            | 2022-02-15 02:30:00 | plumpton      |      4 |        4 | Full Of Light    |   2.9  | overthrow |
+|  4 | :soon:            | 2022-02-15 01:55:00 | plumpton      |      3 |        1 | Ubetya           |   3    | overthrow |
+|  5 | :soon:            | 2022-02-15 01:30:00 | greyville     |      8 |       12 | Eventidor        |   0    | vulture   |
+|  6 | :soon:            | 2022-02-15 01:05:00 | catterick     |      3 |        2 | Miss Fairfax     |   1.82 | vulture   |
+|  7 | :soon:            | 2022-02-14 23:10:00 | greyville     |      4 |        6 | Camora           |   0    | vulture   |
+|  8 | :soon:            | 2022-02-14 15:40:00 | scone         |      4 |        1 | Two Ya Got       |   2.75 | milkman   |
+|  9 | :2nd_place_medal: | 2022-02-14 13:50:00 | scone         |      1 |        3 | The Winter Sun   |   4.75 | looseknot |
