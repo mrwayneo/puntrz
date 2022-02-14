@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-15 06:35:53 +1000  
+date: 2022-02-15 06:50:32 +1000  
 ---   
 
 
@@ -13,12 +13,12 @@ date: 2022-02-15 06:35:53 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      6 |    138   | 0.3  |  0.69 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |     98   | 0.1  |  0.49 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      6 |     66.6 | 0.3  |  0.33 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -29   | 0.25 | -0.14 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -39.5 | 0.4  | -0.2  |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |    -52   | 0.05 | -0.26 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      6 |    -66.9 | 0.3  | -0.33 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      4 |    -70   | 0.2  | -0.35 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      1 |    -80   | 0.05 | -0.4  |
@@ -57,7 +57,7 @@ date: 2022-02-15 06:35:53 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1794 |    359 |  -3450.5 | 0.2  | -0.19 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2664 |    644 |  -3973.3 | 0.24 | -0.15 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6080 |    837 | -12679.2 | 0.14 | -0.21 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7827 |    367 | -23496   | 0.05 | -0.3  |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7827 |    368 | -23346   | 0.05 | -0.3  |
 
 |    | finish            | time                | track         |   race |   number | name             |   odds | tipster   |
 |---:|:------------------|:--------------------|:--------------|-------:|---------:|:-----------------|-------:|:----------|
