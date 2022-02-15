@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-15 15:07:55 +1000  
+date: 2022-02-15 15:22:49 +1000  
 ---   
 
 
@@ -86,5 +86,5 @@ date: 2022-02-15 15:07:55 +1000
 |  7 | :soon:            | 2022-02-15 16:35:00 | mackay    |      4 |        4 | Tavi Mcbride     |   4.2  | vulture,pangea     |
 |  8 | :soon:            | 2022-02-15 15:55:00 | mackay    |      3 |        3 | Nailed It Nan    |   1.57 | benny,icyhot       |
 |  9 | :soon:            | 2022-02-15 15:20:00 | mackay    |      2 |        3 | Runinscared      |   8    | evenodds,overthrow |
-| 10 | --                | 2022-02-15 15:05:00 | wyong     |      4 |       10 | Heavenly Prophet |  22    | pikey              |
+| 10 | 5.0               | 2022-02-15 15:05:00 | wyong     |      4 |       10 | Heavenly Prophet |  22    | pikey              |
 | 11 | :3rd_place_medal: | 2022-02-15 14:25:00 | wyong     |      3 |        8 | Choix De La Mer  |   8.5  | looseknot,pikey    |

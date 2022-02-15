@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-02-15 15:07:54 +1000  
+date: 2022-02-15 15:22:48 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2022-02-15 | wyong R4              | 10 Heavenly Prophet   |   0    |    -10   |
+| 5                 | 2022-02-15 | wyong R4              | 10 Heavenly Prophet   |  22    |    -10   |
 | :3rd_place_medal: | 2022-02-15 | wyong R3              | 8 Choix De La Mer     |   8.5  |    -10   |
 | 5                 | 2022-01-30 | pinjarra-scarpside R8 | 9 Bandalera Miss      |   0    |    -10   |
 | :3rd_place_medal: | 2022-01-30 | pinjarra-scarpside R7 | 7 Miss Field          |   0    |    -10   |
