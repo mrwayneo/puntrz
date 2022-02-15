@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-16 07:55:57 +1000  
+date: 2022-02-16 08:10:15 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 17:15             | 2022-02-16 | kensington R6        | 9 Laurelin           |  2.05 |    -10   |
 | 7                 | 2022-02-12 | randwick R8          | 9 Verry Elleegant    |  5    |    -10   |
 | 5                 | 2022-02-12 | randwick R6          | 2 Laws Of Indices    |  7.5  |    -10   |
 | 6                 | 2022-02-12 | randwick R5          | 2 Yiyi               |  2.3  |    -10   |
