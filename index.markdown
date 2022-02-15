@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-15 16:43:37 +1000  
+date: 2022-02-15 19:02:46 +1000  
 ---   
 
 
@@ -15,10 +15,10 @@ date: 2022-02-15 16:43:37 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      2 |      0 |      -20 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      2 |      0 |      -20 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      4 |      1 |      -24 | 0.25 | -0.6  |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     18 |      1 |      -35 | 0.06 | -0.19 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      4 |      0 |      -40 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      4 |      0 |      -40 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      5 |      0 |      -50 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     50 |      0 |     -500 | 0    | -1    |
 
@@ -81,9 +81,9 @@ date: 2022-02-15 16:43:37 +1000
 |  2 | :soon:            | 2022-02-16 01:45:00 | lingfield |      4 |        9 | Nikolayeva       |   8    | vulture            |
 |  3 | :soon:            | 2022-02-16 00:35:00 | lingfield |      2 |        1 | Cousu Main       |   1.9  | evenodds,overthrow |
 |  4 | :soon:            | 2022-02-16 00:35:00 | lingfield |      2 |       10 | Teddy Blue       |   2.5  | vulture            |
-|  5 | :soon:            | 2022-02-15 17:10:00 | mackay    |      5 |        3 | Aleysa's Dream   |   1.33 | pangea             |
-|  6 | :soon:            | 2022-02-15 16:50:00 | wyong     |      7 |        6 | Shameonus        |  19    | pangea             |
-|  7 | --                | 2022-02-15 16:35:00 | mackay    |      4 |        4 | Tavi Mcbride     |   4.2  | vulture,pangea     |
+|  5 | :boom:            | 2022-02-15 17:10:00 | mackay    |      5 |        3 | Aleysa's Dream   |   1.33 | pangea             |
+|  6 | 9.0               | 2022-02-15 16:50:00 | wyong     |      7 |        6 | Shameonus        |  19    | pangea             |
+|  7 | :3rd_place_medal: | 2022-02-15 16:35:00 | mackay    |      4 |        4 | Tavi Mcbride     |   4.2  | vulture,pangea     |
 |  8 | :2nd_place_medal: | 2022-02-15 15:55:00 | mackay    |      3 |        3 | Nailed It Nan    |   1.57 | benny,icyhot       |
 |  9 | :soon:            | 2022-02-15 15:20:00 | mackay    |      2 |        3 | Runinscared      |   8    | evenodds,overthrow |
 | 10 | 5.0               | 2022-02-15 15:05:00 | wyong     |      4 |       10 | Heavenly Prophet |  22    | pikey              |
