@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-15 14:22:25 +1000  
+date: 2022-02-15 14:39:17 +1000  
 ---   
 
 
@@ -74,17 +74,17 @@ date: 2022-02-15 14:22:25 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6080 |    837 | -12679.2 | 0.14 | -0.21 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7827 |    368 | -23346   | 0.05 | -0.3  |
 
-|    | finish   | time                | track     |   race |   number | name             |   odds | tipster            |
-|---:|:---------|:--------------------|:----------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-02-16 02:55:00 | lingfield |      6 |       10 | Coolvalla        |   8    | looseknot          |
-|  1 | :soon:   | 2022-02-16 02:20:00 | lingfield |      5 |        7 | Seven No Trumps  |   8.5  | overthrow          |
-|  2 | :soon:   | 2022-02-16 01:45:00 | lingfield |      4 |        9 | Nikolayeva       |   8    | vulture            |
-|  3 | :soon:   | 2022-02-16 00:35:00 | lingfield |      2 |        1 | Cousu Main       |   1.9  | evenodds,overthrow |
-|  4 | :soon:   | 2022-02-16 00:35:00 | lingfield |      2 |       10 | Teddy Blue       |   2.5  | vulture            |
-|  5 | :soon:   | 2022-02-15 17:10:00 | mackay    |      5 |        3 | Aleysa's Dream   |   1.33 | pangea             |
-|  6 | :soon:   | 2022-02-15 16:50:00 | wyong     |      7 |        6 | Shameonus        |  19    | pangea             |
-|  7 | :soon:   | 2022-02-15 16:35:00 | mackay    |      4 |        4 | Tavi Mcbride     |   4.2  | vulture,pangea     |
-|  8 | :soon:   | 2022-02-15 15:55:00 | mackay    |      3 |        3 | Nailed It Nan    |   1.57 | benny,icyhot       |
-|  9 | :soon:   | 2022-02-15 15:20:00 | mackay    |      2 |        3 | Runinscared      |   8    | evenodds,overthrow |
-| 10 | :soon:   | 2022-02-15 15:05:00 | wyong     |      4 |       10 | Heavenly Prophet |  22    | pikey              |
-| 11 | :soon:   | 2022-02-15 14:25:00 | wyong     |      3 |        8 | Choix De La Mer  |   8.5  | looseknot,pikey    |
+|    | finish            | time                | track     |   race |   number | name             |   odds | tipster            |
+|---:|:------------------|:--------------------|:----------|-------:|---------:|:-----------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-02-16 02:55:00 | lingfield |      6 |       10 | Coolvalla        |   8    | looseknot          |
+|  1 | :soon:            | 2022-02-16 02:20:00 | lingfield |      5 |        7 | Seven No Trumps  |   8.5  | overthrow          |
+|  2 | :soon:            | 2022-02-16 01:45:00 | lingfield |      4 |        9 | Nikolayeva       |   8    | vulture            |
+|  3 | :soon:            | 2022-02-16 00:35:00 | lingfield |      2 |        1 | Cousu Main       |   1.9  | evenodds,overthrow |
+|  4 | :soon:            | 2022-02-16 00:35:00 | lingfield |      2 |       10 | Teddy Blue       |   2.5  | vulture            |
+|  5 | :soon:            | 2022-02-15 17:10:00 | mackay    |      5 |        3 | Aleysa's Dream   |   1.33 | pangea             |
+|  6 | :soon:            | 2022-02-15 16:50:00 | wyong     |      7 |        6 | Shameonus        |  19    | pangea             |
+|  7 | :soon:            | 2022-02-15 16:35:00 | mackay    |      4 |        4 | Tavi Mcbride     |   4.2  | vulture,pangea     |
+|  8 | :soon:            | 2022-02-15 15:55:00 | mackay    |      3 |        3 | Nailed It Nan    |   1.57 | benny,icyhot       |
+|  9 | :soon:            | 2022-02-15 15:20:00 | mackay    |      2 |        3 | Runinscared      |   8    | evenodds,overthrow |
+| 10 | :soon:            | 2022-02-15 15:05:00 | wyong     |      4 |       10 | Heavenly Prophet |  22    | pikey              |
+| 11 | :3rd_place_medal: | 2022-02-15 14:25:00 | wyong     |      3 |        8 | Choix De La Mer  |   8.5  | looseknot,pikey    |
