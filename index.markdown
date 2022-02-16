@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-16 15:18:15 +1000  
+date: 2022-02-16 15:33:15 +1000  
 ---   
 
 
@@ -9,30 +9,30 @@ date: 2022-02-16 15:18:15 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      1 |      0 |      -10 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      0 |      -80 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     10 |      0 |     -100 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     10 |      0 |     -100 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     14 |      0 |     -140 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     37 |      0 |     -370 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     48 |      0 |     -480 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      1 |      0 |      -10 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      0 |      -80 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     10 |      0 |     -100 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     10 |      0 |     -100 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     14 |      0 |     -140 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     37 |      0 |     -370 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     48 |      1 |     -463 | 0.02 | -0.96 |
 
 ##### Form Last 20 tips   
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      3 |    385   | 0.15 |  1.92 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    215   | 0.15 |  1.08 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      5 |     68   | 0.25 |  0.34 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      6 |     66.6 | 0.3  |  0.33 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |    -25   | 0.1  | -0.12 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -39.5 | 0.4  | -0.2  |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |    -46   | 0.2  | -0.23 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      6 |    -66.9 | 0.3  | -0.33 |
