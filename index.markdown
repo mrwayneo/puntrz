@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-16 17:48:45 +1000  
+date: 2022-02-16 18:03:32 +1000  
 ---   
 
 
@@ -27,12 +27,12 @@ date: 2022-02-16 17:48:45 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      3 |    385   | 0.15 |  1.92 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    215   | 0.15 |  1.08 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      5 |     68   | 0.25 |  0.34 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      6 |     66.6 | 0.3  |  0.33 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |    -25   | 0.1  | -0.12 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -39.5 | 0.4  | -0.2  |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |    -46   | 0.2  | -0.23 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      6 |    -66.9 | 0.3  | -0.33 |
@@ -95,7 +95,7 @@ date: 2022-02-16 17:48:45 +1000
 | 16 | :soon:            | 2022-02-16 19:00:00 | sandown-hillside |      7 |        4 | More               |   4.5  | pangea              |
 | 17 | :soon:            | 2022-02-16 18:30:00 | sandown-hillside |      6 |        4 | Tea Master         |  11    | vulture,milkman     |
 | 18 | :soon:            | 2022-02-16 18:10:00 | doomben          |      7 |        6 | Always On Show     |   2.75 | pangea              |
-| 19 | :soon:            | 2022-02-16 18:00:00 | sandown-hillside |      5 |        2 | Rapid Achiever     |   3.2  | milkman             |
+| 19 | --                | 2022-02-16 18:00:00 | sandown-hillside |      5 |        2 | Rapid Achiever     |   3.2  | milkman             |
 | 20 | :boom:            | 2022-02-16 17:25:00 | sandown-hillside |      4 |        1 | Castlereagh Kid    |   1.91 | vulture             |
 | 21 | :2nd_place_medal: | 2022-02-16 17:25:00 | sandown-hillside |      4 |        3 | Santero            |   6.5  | vulture             |
 | 22 | :3rd_place_medal: | 2022-02-16 17:25:00 | sandown-hillside |      4 |        5 | Aspen Colorado     |   4.2  | pangea              |
