@@ -1,20 +1,33 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-17 07:49:12 +1000  
+date: 2022-02-17 08:27:32 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      2 |      0 |      -20 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      3 |      0 |      -30 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      5 |      0 |      -50 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      6 |      0 |      -60 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     11 |      0 |     -110 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     39 |      0 |     -390 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     44 |      0 |     -440 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      7 |    109.6 | 0.35 |  0.55 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      5 |     68   | 0.25 |  0.34 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      6 |     18.6 | 0.3  |  0.09 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -39.5 | 0.4  | -0.2  |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |    -46   | 0.2  | -0.23 |
@@ -59,35 +72,27 @@ date: 2022-02-17 07:49:12 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6040 |    823 | -12746.2 | 0.14 | -0.21 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7849 |    369 | -23451   | 0.05 | -0.3  |
 
-|    | finish            | time                | track            |   race |   number | name               |   odds | tipster             |
-|---:|:------------------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | --                | 2022-02-17 07:30:00 | kempton          |      8 |        3 | Hold Fast          |   2.1  | vulture             |
-|  1 | --                | 2022-02-17 06:30:00 | kempton          |      6 |        4 | Papa Stour         |   3.8  | vulture             |
-|  2 | --                | 2022-02-17 05:00:00 | kempton          |      3 |        2 | Covert Mission     |   4    | vulture             |
-|  3 | --                | 2022-02-17 03:45:00 | hereford         |      7 |        2 | Propelled          |   3.3  | evenodds,overthrow  |
-|  4 | --                | 2022-02-17 03:45:00 | hereford         |      7 |        4 | Shomen Uchi        |   2.2  | vulture             |
-|  5 | --                | 2022-02-17 02:15:00 | wetherby         |      5 |        2 | Firak              |   9    | overthrow           |
-|  6 | --                | 2022-02-17 01:40:00 | wetherby         |      4 |        4 | Hasankey           |   2.7  | pangea              |
-|  7 | --                | 2022-02-17 01:05:00 | wetherby         |      3 |        5 | Shannon Bridge     |   5.5  | overthrow           |
-|  8 | --                | 2022-02-17 00:20:00 | hereford         |      1 |        7 | The Boat           |   7    | looseknot           |
-|  9 | --                | 2022-02-17 00:00:00 | wetherby         |      1 |        1 | Abuffalosoldier    |   4.8  | milkman             |
-| 10 | --                | 2022-02-17 00:00:00 | wetherby         |      1 |        3 | Viva Lavilla       |   2.15 | overthrow           |
-| 11 | 5.0               | 2022-02-16 21:10:00 | belmont          |      8 |        1 | He's A Lucky Lad   |   2.3  | pangea,icyhot       |
-| 12 | 12.0              | 2022-02-16 20:40:00 | belmont          |      7 |        5 | Irritable Rodnee   |   7    | looseknot           |
-| 13 | 9.0               | 2022-02-16 20:40:00 | belmont          |      7 |        4 | Disengo            |   4.5  | vulture             |
-| 14 | 6.0               | 2022-02-16 19:40:00 | belmont          |      5 |        7 | Reliable Choice    |   1.85 | vulture             |
-| 15 | :3rd_place_medal: | 2022-02-16 19:10:00 | belmont          |      4 |        4 | Gambler's Gold     |   3.9  | vulture,pangea      |
-| 16 | 4.0               | 2022-02-16 19:00:00 | sandown-hillside |      7 |        4 | More               |   4.5  | pangea              |
-| 17 | 8.0               | 2022-02-16 18:30:00 | sandown-hillside |      6 |        4 | Tea Master         |  11    | vulture,milkman     |
-| 18 | :boom:            | 2022-02-16 18:10:00 | doomben          |      7 |        6 | Always On Show     |   2.75 | pangea              |
-| 19 | :boom:            | 2022-02-16 18:00:00 | sandown-hillside |      5 |        2 | Rapid Achiever     |   3.2  | milkman             |
-| 20 | :boom:            | 2022-02-16 17:25:00 | sandown-hillside |      4 |        1 | Castlereagh Kid    |   1.91 | vulture             |
-| 21 | :2nd_place_medal: | 2022-02-16 17:25:00 | sandown-hillside |      4 |        3 | Santero            |   6.5  | vulture             |
-| 22 | :3rd_place_medal: | 2022-02-16 17:25:00 | sandown-hillside |      4 |        5 | Aspen Colorado     |   4.2  | pangea              |
-| 23 | 6.0               | 2022-02-16 17:15:00 | kensington       |      6 |        9 | Laurelin           |   2.05 | vulture,jmac        |
-| 24 | 8.0               | 2022-02-16 16:58:00 | doomben          |      5 |        5 | Vampirina Diamond  |   7    | pangea              |
-| 25 | :boom:            | 2022-02-16 16:23:00 | doomben          |      4 |        6 | A Call From Heaven |   5    | vulture             |
-| 26 | :boom:            | 2022-02-16 16:15:00 | sandown-hillside |      2 |        5 | Sir Bailey         |   2.2  | overthrow           |
-| 27 | 5.0               | 2022-02-16 16:05:00 | kensington       |      4 |        2 | Narvaez            |   4.2  | benny,pangea        |
-| 28 | :3rd_place_medal: | 2022-02-16 15:02:00 | tauranga         |      5 |       10 | Sternland          |   3.9  | overthrow,looseknot |
-| 29 | 5.0               | 2022-02-16 14:38:00 | doomben          |      1 |        3 | Kobe Lad           |   4.2  | vulture             |
+|    | finish   | time                | track           |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-02-18 06:00:00 | chelmsford-city |      5 |        8 | Tributo            |   7.5  | vulture            |
+|  1 | :soon:   | 2022-02-18 03:50:00 | clonmel         |      7 |        2 | Fox Watch          |   9    | looseknot          |
+|  2 | :soon:   | 2022-02-18 03:40:00 | sandown         |      7 |        2 | Amenon             |  10    | overthrow          |
+|  3 | :soon:   | 2022-02-18 03:40:00 | sandown         |      7 |        3 | Moonlight Flit     |  10    | overthrow          |
+|  4 | :soon:   | 2022-02-18 03:30:00 | leicester       |      6 |        6 | Path To Freedom    |  11    | overthrow          |
+|  5 | :soon:   | 2022-02-18 03:30:00 | leicester       |      6 |        2 | Bingo Star         |  11    | evenodds,overthrow |
+|  6 | :soon:   | 2022-02-18 03:15:00 | clonmel         |      6 |        2 | Cavallino          |   2.5  | overthrow          |
+|  7 | :soon:   | 2022-02-18 02:30:00 | sandown         |      5 |        5 | Operation Manna    |   4.6  | milkman            |
+|  8 | :soon:   | 2022-02-18 02:30:00 | sandown         |      5 |        2 | Monviel            |   3    | vulture            |
+|  9 | :soon:   | 2022-02-18 01:55:00 | sandown         |      4 |        2 | Diplomate Sivola   |   6    | overthrow          |
+| 10 | :soon:   | 2022-02-18 01:45:00 | leicester       |      3 |        5 | Stepney Causeway   |   2.3  | overthrow          |
+| 11 | :soon:   | 2022-02-18 01:30:00 | clonmel         |      3 |        1 | Mr Fred Rogers     |   2.25 | milkman            |
+| 12 | :soon:   | 2022-02-18 01:20:00 | sandown         |      3 |        2 | Love Envoi         |   1.85 | milkman            |
+| 13 | :soon:   | 2022-02-18 01:10:00 | leicester       |      2 |        2 | Redzor             |   9.5  | overthrow          |
+| 14 | :soon:   | 2022-02-18 01:02:00 | fontwell        |      2 |        4 | After The Fox      |   7.5  | overthrow          |
+| 15 | :soon:   | 2022-02-18 00:45:00 | sandown         |      2 |        5 | Darebin            |   8.5  | pangea,blackshadow |
+| 16 | :soon:   | 2022-02-18 00:35:00 | leicester       |      1 |        1 | No Hubs No Hoobs   |   5.5  | looseknot          |
+| 17 | :soon:   | 2022-02-18 00:20:00 | clonmel         |      1 |        9 | Hors Piste         |   1.85 | evenodds,overthrow |
+| 18 | :soon:   | 2022-02-17 23:10:00 | vaal            |      5 |        6 | Moonshiningthrough |   0    | milkman            |
+| 19 | :soon:   | 2022-02-17 19:00:00 | mount-barker    |      4 |        4 | Crossaro           |   5    | overthrow          |
+| 20 | :soon:   | 2022-02-17 17:23:00 | ipswich         |      6 |        5 | Early Crow         |   2.3  | milkman            |
+| 21 | :soon:   | 2022-02-17 15:20:00 | goulburn        |      4 |        3 | So Good So Cool    |   7.5  | milkman            |
