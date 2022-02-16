@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-16 16:33:19 +1000  
+date: 2022-02-16 16:48:19 +1000  
 ---   
 
 
@@ -27,12 +27,12 @@ date: 2022-02-16 16:33:19 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      3 |    385   | 0.15 |  1.92 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    215   | 0.15 |  1.08 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      5 |     68   | 0.25 |  0.34 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      6 |     66.6 | 0.3  |  0.33 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |    -25   | 0.1  | -0.12 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -39.5 | 0.4  | -0.2  |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |    -46   | 0.2  | -0.23 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      6 |    -66.9 | 0.3  | -0.33 |
