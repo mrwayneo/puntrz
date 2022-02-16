@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-16 16:03:34 +1000  
+date: 2022-02-16 16:18:25 +1000  
 ---   
 
 
@@ -102,7 +102,7 @@ date: 2022-02-16 16:03:34 +1000
 | 23 | :soon:            | 2022-02-16 17:15:00 | kensington       |      6 |        9 | Laurelin           |   2.05 | vulture,jmac        |
 | 24 | :soon:            | 2022-02-16 16:58:00 | doomben          |      5 |        5 | Vampirina Diamond  |   7    | pangea              |
 | 25 | :soon:            | 2022-02-16 16:23:00 | doomben          |      4 |        6 | A Call From Heaven |   5    | vulture             |
-| 26 | :soon:            | 2022-02-16 16:15:00 | sandown-hillside |      2 |        5 | Sir Bailey         |   2.2  | overthrow           |
-| 27 | :soon:            | 2022-02-16 16:05:00 | kensington       |      4 |        2 | Narvaez            |   4.2  | benny,pangea        |
+| 26 | --                | 2022-02-16 16:15:00 | sandown-hillside |      2 |        5 | Sir Bailey         |   2.2  | overthrow           |
+| 27 | --                | 2022-02-16 16:05:00 | kensington       |      4 |        2 | Narvaez            |   4.2  | benny,pangea        |
 | 28 | :3rd_place_medal: | 2022-02-16 15:02:00 | tauranga         |      5 |       10 | Sternland          |   3.9  | overthrow,looseknot |
 | 29 | 5.0               | 2022-02-16 14:38:00 | doomben          |      1 |        3 | Kobe Lad           |   4.2  | vulture             |
