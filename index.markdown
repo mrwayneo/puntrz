@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-16 18:18:31 +1000  
+date: 2022-02-16 22:34:57 +1000  
 ---   
 
 
@@ -15,24 +15,24 @@ date: 2022-02-16 18:18:31 +1000
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      2 |      -47 | 0.25 | -0.59 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     14 |      2 |      -56 | 0.14 | -0.4  |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      8 |      1 |      -62 | 0.12 | -0.78 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     10 |      1 |      -72 | 0.1  | -0.72 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     10 |      0 |     -100 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     37 |      0 |     -370 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     48 |      1 |     -463 | 0.02 | -0.96 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     48 |      2 |     -448 | 0.04 | -0.93 |
 
 ##### Form Last 20 tips   
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      3 |    385   | 0.15 |  1.92 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    215   | 0.15 |  1.08 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      5 |     68   | 0.25 |  0.34 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      6 |     66.6 | 0.3  |  0.33 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |    -25   | 0.1  | -0.12 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -39.5 | 0.4  | -0.2  |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |    -46   | 0.2  | -0.23 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      6 |    -66.9 | 0.3  | -0.33 |
@@ -87,13 +87,13 @@ date: 2022-02-16 18:18:31 +1000
 |  8 | :soon:            | 2022-02-17 00:20:00 | hereford         |      1 |        7 | The Boat           |   7    | looseknot           |
 |  9 | :soon:            | 2022-02-17 00:00:00 | wetherby         |      1 |        1 | Abuffalosoldier    |   4.8  | milkman             |
 | 10 | :soon:            | 2022-02-17 00:00:00 | wetherby         |      1 |        3 | Viva Lavilla       |   2.15 | overthrow           |
-| 11 | :soon:            | 2022-02-16 21:10:00 | belmont          |      8 |        1 | He's A Lucky Lad   |   2.3  | pangea,icyhot       |
-| 12 | :soon:            | 2022-02-16 20:40:00 | belmont          |      7 |        5 | Irritable Rodnee   |   7    | looseknot           |
-| 13 | :soon:            | 2022-02-16 20:40:00 | belmont          |      7 |        4 | Disengo            |   4.5  | vulture             |
-| 14 | :soon:            | 2022-02-16 19:40:00 | belmont          |      5 |        7 | Reliable Choice    |   1.85 | vulture             |
-| 15 | :soon:            | 2022-02-16 19:10:00 | belmont          |      4 |        4 | Gambler's Gold     |   3.9  | vulture,pangea      |
-| 16 | :soon:            | 2022-02-16 19:00:00 | sandown-hillside |      7 |        4 | More               |   4.5  | pangea              |
-| 17 | :soon:            | 2022-02-16 18:30:00 | sandown-hillside |      6 |        4 | Tea Master         |  11    | vulture,milkman     |
+| 11 | 5.0               | 2022-02-16 21:10:00 | belmont          |      8 |        1 | He's A Lucky Lad   |   2.3  | pangea,icyhot       |
+| 12 | 12.0              | 2022-02-16 20:40:00 | belmont          |      7 |        5 | Irritable Rodnee   |   7    | looseknot           |
+| 13 | 9.0               | 2022-02-16 20:40:00 | belmont          |      7 |        4 | Disengo            |   4.5  | vulture             |
+| 14 | 6.0               | 2022-02-16 19:40:00 | belmont          |      5 |        7 | Reliable Choice    |   1.85 | vulture             |
+| 15 | :3rd_place_medal: | 2022-02-16 19:10:00 | belmont          |      4 |        4 | Gambler's Gold     |   3.9  | vulture,pangea      |
+| 16 | 4.0               | 2022-02-16 19:00:00 | sandown-hillside |      7 |        4 | More               |   4.5  | pangea              |
+| 17 | 8.0               | 2022-02-16 18:30:00 | sandown-hillside |      6 |        4 | Tea Master         |  11    | vulture,milkman     |
 | 18 | :boom:            | 2022-02-16 18:10:00 | doomben          |      7 |        6 | Always On Show     |   2.75 | pangea              |
 | 19 | :boom:            | 2022-02-16 18:00:00 | sandown-hillside |      5 |        2 | Rapid Achiever     |   3.2  | milkman             |
 | 20 | :boom:            | 2022-02-16 17:25:00 | sandown-hillside |      4 |        1 | Castlereagh Kid    |   1.91 | vulture             |
