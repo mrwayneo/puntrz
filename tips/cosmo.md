@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-02-16 22:50:22 +1000  
+date: 2022-02-17 07:33:57 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     61 |      5 |       42 | 0.08 |  0.07 |
-| Last 28 Days   |    333 |     21 |     -777 | 0.06 | -0.23 |
-| Last 6 Months  |   2610 |    140 |    -3769 | 0.05 | -0.14 |
-| Since Jan 2020 |   5311 |    312 |     -993 | 0.06 | -0.02 |
+| Last 7 Days    |     60 |      4 |      -68 | 0.07 | -0.11 |
+| Last 28 Days   |    338 |     20 |     -989 | 0.06 | -0.29 |
+| Last 6 Months  |   2620 |    140 |    -3869 | 0.05 | -0.15 |
+| Since Jan 2020 |   5321 |    312 |    -1093 | 0.06 | -0.02 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:00             | 2022-02-17 | kempton R3                    | 3 Pink Jazz           |  18    |      -10 |
-| 04:30             | 2022-02-17 | kempton R2                    | 1 Rectory Road        |  13    |      -10 |
+| 0                 | 2022-02-17 | kempton R3                    | 3 Pink Jazz           |   0    |      -10 |
+| 0                 | 2022-02-17 | kempton R2                    | 1 Rectory Road        |   0    |      -10 |
 | 13                | 2022-02-16 | belmont R9                    | 4 Gee Force           |  41    |      -10 |
 | 8                 | 2022-02-16 | belmont R5                    | 6 Contessa Medici     |  26    |      -10 |
 | 5                 | 2022-02-16 | belmont R5                    | 1 O'lara's Prince     |  10    |      -10 |

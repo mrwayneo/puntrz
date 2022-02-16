@@ -1,56 +1,56 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-02-16 22:50:23 +1000  
+date: 2022-02-17 07:33:58 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    189 |     17 |   -101   | 0.09 | -0.05 |
-| Last 28 Days   |   1012 |     93 |  -4313.8 | 0.09 | -0.43 |
-| Last 6 Months  |   6766 |    928 | -15738.1 | 0.14 | -0.23 |
-| Since Jan 2020 |  12214 |   1934 | -18011.7 | 0.16 | -0.15 |
+| Last 7 Days    |    193 |     16 |   -324   | 0.08 | -0.17 |
+| Last 28 Days   |   1051 |     92 |  -4847.8 | 0.09 | -0.46 |
+| Last 6 Months  |   6814 |    930 | -16186.1 | 0.14 | -0.24 |
+| Since Jan 2020 |  12262 |   1936 | -18459.7 | 0.16 | -0.15 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:50             | 2022-02-17 | happy-valley R9               | 1 Bear Again          |   0    |    -10   |
-| 01:50             | 2022-02-17 | happy-valley R9               | 6 Kinda Cool          |   0    |    -10   |
-| 01:50             | 2022-02-17 | happy-valley R9               | 7 King Tourbillon     |   0    |    -10   |
-| 01:50             | 2022-02-17 | happy-valley R9               | 8 Storm Legend        |   0    |    -10   |
-| 01:50             | 2022-02-17 | happy-valley R9               | 9 Ready Player One    |   0    |    -10   |
-| 01:35             | 2022-02-17 | greyville R8                  | 11 Metallic Gold      |   0    |    -10   |
-| 01:35             | 2022-02-17 | greyville R8                  | 7 Alpenhorn           |   0    |    -10   |
-| 01:35             | 2022-02-17 | greyville R8                  | 2 Word For Word       |   0    |    -10   |
-| 01:15             | 2022-02-17 | happy-valley R8               | 1 Family Folks        |   0    |    -10   |
-| 01:15             | 2022-02-17 | happy-valley R8               | 6 California Forest   |   0    |    -10   |
-| 01:15             | 2022-02-17 | happy-valley R8               | 4 Beauty Champ        |   0    |    -10   |
-| 01:15             | 2022-02-17 | happy-valley R8               | 2 Be Ready            |   0    |    -10   |
-| 01:15             | 2022-02-17 | happy-valley R8               | 7 Meridian Genius     |   0    |    -10   |
-| 01:00             | 2022-02-17 | greyville R7                  | 9 Movie Magic         |   0    |    -10   |
-| 01:00             | 2022-02-17 | greyville R7                  | 7 Imbejeje            |   0    |    -10   |
-| 01:00             | 2022-02-17 | greyville R7                  | 5 Gingerspathtoglory  |   0    |    -10   |
-| 01:00             | 2022-02-17 | greyville R7                  | 2 Miss Lialah         |   0    |    -10   |
-| 00:25             | 2022-02-17 | greyville R6                  | 2 Pelargonium         |   0    |    -10   |
-| 00:25             | 2022-02-17 | greyville R6                  | 6 Loving The Victory  |   0    |    -10   |
-| 00:25             | 2022-02-17 | greyville R6                  | 3 Brunilda            |   0    |    -10   |
-| 00:25             | 2022-02-17 | greyville R6                  | 4 Miss Charlotte      |   0    |    -10   |
-| 00:25             | 2022-02-17 | greyville R6                  | 5 Maidens Prayer      |   0    |    -10   |
-| 00:25             | 2022-02-17 | greyville R6                  | 1 Scent Of A Woman    |   0    |    -10   |
-| 23:50             | 2022-02-16 | greyville R5                  | 6 Ultra Magnus        |   0    |    -10   |
-| 23:50             | 2022-02-16 | greyville R5                  | 3 Pray For Rain       |   0    |    -10   |
-| 23:50             | 2022-02-16 | greyville R5                  | 7 Love Bomb           |   0    |    -10   |
-| 23:15             | 2022-02-16 | happy-valley R4               | 5 Excellent Chariot   |   0    |    -10   |
-| 23:15             | 2022-02-16 | happy-valley R4               | 6 Let's Do It         |   0    |    -10   |
-| 23:15             | 2022-02-16 | happy-valley R4               | 4 Namjong Sings       |   0    |    -10   |
-| 23:15             | 2022-02-16 | happy-valley R4               | 2 Simply Fluke        |   0    |    -10   |
-| 23:15             | 2022-02-16 | happy-valley R4               | 9 Sky Forever         |   0    |    -10   |
-| 23:15             | 2022-02-16 | happy-valley R4               | 3 Royal Bomb          |   0    |    -10   |
-| 23:10             | 2022-02-16 | greyville R4                  | 1 Lundy Island        |   0    |    -10   |
-| 23:10             | 2022-02-16 | greyville R4                  | 3 Port Adelaide       |   0    |    -10   |
-| 23:10             | 2022-02-16 | greyville R4                  | 4 Mode                |   0    |    -10   |
-| 23:10             | 2022-02-16 | greyville R4                  | 8 Lady Yusra          |   0    |    -10   |
+| 0                 | 2022-02-17 | happy-valley R9               | 1 Bear Again          |   0    |    -10   |
+| 0                 | 2022-02-17 | happy-valley R9               | 6 Kinda Cool          |   0    |    -10   |
+| 0                 | 2022-02-17 | happy-valley R9               | 7 King Tourbillon     |   0    |    -10   |
+| 0                 | 2022-02-17 | happy-valley R9               | 8 Storm Legend        |   0    |    -10   |
+| 0                 | 2022-02-17 | happy-valley R9               | 9 Ready Player One    |   0    |    -10   |
+| 0                 | 2022-02-17 | greyville R8                  | 11 Metallic Gold      |   0    |    -10   |
+| 0                 | 2022-02-17 | greyville R8                  | 7 Alpenhorn           |   0    |    -10   |
+| 0                 | 2022-02-17 | greyville R8                  | 2 Word For Word       |   0    |    -10   |
+| 0                 | 2022-02-17 | happy-valley R8               | 1 Family Folks        |   0    |    -10   |
+| 0                 | 2022-02-17 | happy-valley R8               | 6 California Forest   |   0    |    -10   |
+| 0                 | 2022-02-17 | happy-valley R8               | 4 Beauty Champ        |   0    |    -10   |
+| 0                 | 2022-02-17 | happy-valley R8               | 2 Be Ready            |   0    |    -10   |
+| 0                 | 2022-02-17 | happy-valley R8               | 7 Meridian Genius     |   0    |    -10   |
+| 0                 | 2022-02-17 | greyville R7                  | 9 Movie Magic         |   0    |    -10   |
+| 0                 | 2022-02-17 | greyville R7                  | 7 Imbejeje            |   0    |    -10   |
+| 0                 | 2022-02-17 | greyville R7                  | 5 Gingerspathtoglory  |   0    |    -10   |
+| 0                 | 2022-02-17 | greyville R7                  | 2 Miss Lialah         |   0    |    -10   |
+| 0                 | 2022-02-17 | greyville R6                  | 2 Pelargonium         |   0    |    -10   |
+| 0                 | 2022-02-17 | greyville R6                  | 6 Loving The Victory  |   0    |    -10   |
+| 0                 | 2022-02-17 | greyville R6                  | 3 Brunilda            |   0    |    -10   |
+| 0                 | 2022-02-17 | greyville R6                  | 4 Miss Charlotte      |   0    |    -10   |
+| 0                 | 2022-02-17 | greyville R6                  | 5 Maidens Prayer      |   0    |    -10   |
+| 0                 | 2022-02-17 | greyville R6                  | 1 Scent Of A Woman    |   0    |    -10   |
+| 0                 | 2022-02-16 | greyville R5                  | 6 Ultra Magnus        |   0    |    -10   |
+| 0                 | 2022-02-16 | greyville R5                  | 3 Pray For Rain       |   0    |    -10   |
+| 0                 | 2022-02-16 | greyville R5                  | 7 Love Bomb           |   0    |    -10   |
+| 0                 | 2022-02-16 | happy-valley R4               | 5 Excellent Chariot   |   0    |    -10   |
+| 0                 | 2022-02-16 | happy-valley R4               | 6 Let's Do It         |   0    |    -10   |
+| 0                 | 2022-02-16 | happy-valley R4               | 4 Namjong Sings       |   0    |    -10   |
+| 0                 | 2022-02-16 | happy-valley R4               | 2 Simply Fluke        |   0    |    -10   |
+| 0                 | 2022-02-16 | happy-valley R4               | 9 Sky Forever         |   0    |    -10   |
+| 0                 | 2022-02-16 | happy-valley R4               | 3 Royal Bomb          |   0    |    -10   |
+| 0                 | 2022-02-16 | greyville R4                  | 1 Lundy Island        |   0    |    -10   |
+| 0                 | 2022-02-16 | greyville R4                  | 3 Port Adelaide       |   0    |    -10   |
+| 0                 | 2022-02-16 | greyville R4                  | 4 Mode                |   0    |    -10   |
+| 0                 | 2022-02-16 | greyville R4                  | 8 Lady Yusra          |   0    |    -10   |
 | 0                 | 2022-02-16 | happy-valley R2               | 5 Fast Pace           |   0    |    -10   |
 | 0                 | 2022-02-16 | happy-valley R2               | 7 Nordic Sky          |   0    |    -10   |
 | 0                 | 2022-02-16 | happy-valley R2               | 6 God Of Dragon       |   0    |    -10   |

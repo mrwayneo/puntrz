@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-02-16 22:50:22 +1000  
+date: 2022-02-17 07:33:56 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     31 |      8 |     25.1 | 0.26 |  0.08 |
-| Last 28 Days   |    177 |     38 |   -927.9 | 0.21 | -0.52 |
-| Last 6 Months  |   1167 |    286 |  -2952.5 | 0.25 | -0.25 |
-| Since Jan 2020 |   2788 |    700 |  -4876.7 | 0.25 | -0.17 |
+| Last 7 Days    |     30 |      8 |     59.6 | 0.27 |  0.2  |
+| Last 28 Days   |    180 |     39 |   -914.9 | 0.22 | -0.51 |
+| Last 6 Months  |   1171 |    287 |  -2949.5 | 0.25 | -0.25 |
+| Since Jan 2020 |   2792 |    701 |  -4873.7 | 0.25 | -0.17 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 00:00             | 2022-02-17 | wetherby R1                  | 1 Abuffalosoldier     |   4.8  |    -10   |
+| 0                 | 2022-02-17 | wetherby R1                  | 1 Abuffalosoldier     |   0    |    -10   |
 | 8                 | 2022-02-16 | sandown-hillside R6          | 4 Tea Master          |  11    |    -10   |
 | :boom:            | 2022-02-16 | sandown-hillside R5          | 2 Rapid Achiever      |   4.3  |     33   |
 | 6                 | 2022-02-16 | kensington R6                | 9 Laurelin            |   2.05 |    -10   |

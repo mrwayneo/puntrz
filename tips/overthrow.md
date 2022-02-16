@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-02-16 22:50:21 +1000  
+date: 2022-02-17 07:33:55 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     60 |     14 |   -146   | 0.23 | -0.24 |
-| Last 28 Days   |    327 |     78 |  -1605   | 0.24 | -0.49 |
-| Last 6 Months  |   2248 |    566 |  -4560.4 | 0.25 | -0.2  |
-| Since Jan 2020 |   5081 |   1294 |  -5738.5 | 0.25 | -0.11 |
+| Last 7 Days    |     49 |     12 |   -110.5 | 0.24 | -0.23 |
+| Last 28 Days   |    334 |     80 |  -1642   | 0.24 | -0.49 |
+| Last 6 Months  |   2256 |    568 |  -4607.4 | 0.25 | -0.2  |
+| Since Jan 2020 |   5089 |   1296 |  -5785.5 | 0.25 | -0.11 |
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
-| 03:45             | 2022-02-17 | hereford R7            | 2 Propelled           |   3.3  |    -10   |
-| 02:15             | 2022-02-17 | wetherby R5            | 2 Firak               |   9    |    -10   |
-| 01:05             | 2022-02-17 | wetherby R3            | 5 Shannon Bridge      |   5.5  |    -10   |
-| 00:00             | 2022-02-17 | wetherby R1            | 3 Viva Lavilla        |   2.15 |    -10   |
+| 0                 | 2022-02-17 | hereford R7            | 2 Propelled           |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R5            | 2 Firak               |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R3            | 5 Shannon Bridge      |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R1            | 3 Viva Lavilla        |   0    |    -10   |
 | :boom:            | 2022-02-16 | belmont R6             | 5 Arcadia Grace       |   1.5  |      5   |
 | :2nd_place_medal: | 2022-02-16 | doomben R4             | 2 Sacred Oath         |   2.2  |    -10   |
 | :boom:            | 2022-02-16 | sandown-hillside R2    | 5 Sir Bailey          |   1.8  |      8   |

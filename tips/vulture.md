@@ -1,25 +1,25 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-02-16 22:50:19 +1000  
+date: 2022-02-17 07:33:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     83 |     19 |   -149.5 | 0.23 | -0.18 |
-| Last 28 Days   |    344 |     69 |  -1269.7 | 0.2  | -0.37 |
-| Last 6 Months  |   2879 |    703 |  -5058.6 | 0.24 | -0.18 |
-| Since Jan 2020 |   6618 |   1601 | -10691.6 | 0.24 | -0.16 |
+| Last 7 Days    |     81 |     18 |   -116.5 | 0.22 | -0.14 |
+| Last 28 Days   |    351 |     69 |  -1319.7 | 0.2  | -0.38 |
+| Last 6 Months  |   2893 |    705 |  -5114.6 | 0.24 | -0.18 |
+| Since Jan 2020 |   6632 |   1603 | -10747.6 | 0.24 | -0.16 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:30             | 2022-02-17 | kempton R8                    | 3 Hold Fast           |   2.1  |    -10   |
-| 06:30             | 2022-02-17 | kempton R6                    | 4 Papa Stour          |   3.8  |    -10   |
-| 05:00             | 2022-02-17 | kempton R3                    | 2 Covert Mission      |   4    |    -10   |
-| 03:45             | 2022-02-17 | hereford R7                   | 2 Propelled           |   3.3  |    -10   |
-| 03:45             | 2022-02-17 | hereford R7                   | 4 Shomen Uchi         |   2.2  |    -10   |
+| 0                 | 2022-02-17 | kempton R8                    | 3 Hold Fast           |   0    |    -10   |
+| 0                 | 2022-02-17 | kempton R6                    | 4 Papa Stour          |   0    |    -10   |
+| 0                 | 2022-02-17 | kempton R3                    | 2 Covert Mission      |   0    |    -10   |
+| 0                 | 2022-02-17 | hereford R7                   | 2 Propelled           |   0    |    -10   |
+| 0                 | 2022-02-17 | hereford R7                   | 4 Shomen Uchi         |   0    |    -10   |
 | 9                 | 2022-02-16 | belmont R7                    | 4 Disengo             |   4.5  |    -10   |
 | 6                 | 2022-02-16 | belmont R5                    | 7 Reliable Choice     |   1.85 |    -10   |
 | :3rd_place_medal: | 2022-02-16 | belmont R4                    | 4 Gambler's Gold      |   3.9  |    -10   |

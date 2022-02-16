@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-02-16 22:50:23 +1000  
+date: 2022-02-17 07:33:58 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     10 |      2 |     35   | 0.2  |  0.35 |
-| Last 28 Days   |     64 |      9 |   -133   | 0.14 | -0.21 |
-| Last 6 Months  |    651 |    107 |   -234.8 | 0.16 | -0.04 |
-| Since Jan 2020 |   1336 |    205 |  -1453.8 | 0.15 | -0.11 |
+| Last 7 Days    |     11 |      1 |    -50   | 0.09 | -0.45 |
+| Last 28 Days   |     65 |      8 |   -185   | 0.12 | -0.28 |
+| Last 6 Months  |    654 |    107 |   -264.8 | 0.16 | -0.04 |
+| Since Jan 2020 |   1339 |    205 |  -1483.8 | 0.15 | -0.11 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 00:20             | 2022-02-17 | hereford R1                   | 7 The Boat            |   7    |    -10   |
+| 0                 | 2022-02-17 | hereford R1                   | 7 The Boat            |   0    |    -10   |
 | 12                | 2022-02-16 | belmont R7                    | 5 Irritable Rodnee    |   7    |    -10   |
 | :3rd_place_medal: | 2022-02-16 | tauranga R5                   | 10 Sternland          |   3.9  |    -10   |
 | :boom:            | 2022-02-16 | lingfield R6                  | 10 Coolvalla          |   6    |     50   |

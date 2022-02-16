@@ -1,44 +1,44 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-02-16 22:50:25 +1000  
+date: 2022-02-17 07:33:59 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    174 |     12 |     -295 | 0.07 | -0.17 |
-| Last 28 Days   |   1175 |     45 |    -5176 | 0.04 | -0.44 |
-| Last 6 Months  |   8357 |    404 |   -23377 | 0.05 | -0.28 |
-| Since Jan 2020 |  17922 |    926 |   -39495 | 0.05 | -0.22 |
+| Last 7 Days    |    173 |      8 |     -625 | 0.05 | -0.36 |
+| Last 28 Days   |   1170 |     43 |    -5363 | 0.04 | -0.46 |
+| Last 6 Months  |   8394 |    404 |   -23747 | 0.05 | -0.28 |
+| Since Jan 2020 |  17959 |    926 |   -39865 | 0.05 | -0.22 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:30             | 2022-02-17 | kempton R4                    | 5 Unforgiving Minute  |  12    |    -10   |
-| 05:00             | 2022-02-17 | kempton R3                    | 3 Pink Jazz           |  18    |    -10   |
-| 04:30             | 2022-02-17 | kempton R2                    | 1 Rectory Road        |  13    |    -10   |
-| 04:10             | 2022-02-17 | dundalk R8                    | 10 Brokers Tip        |   8.5  |    -10   |
-| 03:22             | 2022-02-17 | wetherby R7                   | 13 Snowed In          |  34    |    -10   |
-| 03:22             | 2022-02-17 | wetherby R7                   | 4 Arctic Road         |  21    |    -10   |
-| 03:22             | 2022-02-17 | wetherby R7                   | 2 Darius Des Sources  |  13    |    -10   |
-| 03:10             | 2022-02-17 | hereford R6                   | 11 Kenyan Cowboy      |  26    |    -10   |
-| 03:10             | 2022-02-17 | hereford R6                   | 14 Always Able        |  17    |    -10   |
-| 02:50             | 2022-02-17 | wetherby R6                   | 7 The Electrician     |  21    |    -10   |
-| 02:50             | 2022-02-17 | wetherby R6                   | 9 Post Chaise         |  15    |    -10   |
-| 02:50             | 2022-02-17 | wetherby R6                   | 10 Silk Or Scarlet    |  11    |    -10   |
-| 02:15             | 2022-02-17 | wetherby R5                   | 15 Sigurd             |  26    |    -10   |
-| 02:15             | 2022-02-17 | wetherby R5                   | 14 Scoop The Pot      |  34    |    -10   |
-| 02:15             | 2022-02-17 | wetherby R5                   | 10 Manetti            |  15    |    -10   |
-| 02:15             | 2022-02-17 | wetherby R5                   | 8 Dragonfruit         |  15    |    -10   |
-| 02:15             | 2022-02-17 | wetherby R5                   | 4 Mr Scrumpy          |  10    |    -10   |
-| 02:15             | 2022-02-17 | wetherby R5                   | 12 Ladronne           |  12    |    -10   |
-| 01:40             | 2022-02-17 | wetherby R4                   | 1 Eragone             |  17    |    -10   |
-| 01:30             | 2022-02-17 | hereford R3                   | 7 Simply Red          |  17    |    -10   |
-| 00:20             | 2022-02-17 | hereford R1                   | 6 Pembroke House      |  51    |    -10   |
-| 00:00             | 2022-02-17 | wetherby R1                   | 8 Follow Your Arrow   |  26    |    -10   |
-| 00:00             | 2022-02-17 | wetherby R1                   | 7 Burrow Seven        |  10    |    -10   |
-| 00:00             | 2022-02-17 | wetherby R1                   | 6 Beat The Edge       | 126    |    -10   |
+| 0                 | 2022-02-17 | kempton R4                    | 5 Unforgiving Minute  |   0    |    -10   |
+| 0                 | 2022-02-17 | kempton R3                    | 3 Pink Jazz           |   0    |    -10   |
+| 0                 | 2022-02-17 | kempton R2                    | 1 Rectory Road        |   0    |    -10   |
+| 0                 | 2022-02-17 | dundalk R8                    | 10 Brokers Tip        |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R7                   | 13 Snowed In          |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R7                   | 4 Arctic Road         |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R7                   | 2 Darius Des Sources  |   0    |    -10   |
+| 0                 | 2022-02-17 | hereford R6                   | 11 Kenyan Cowboy      |   0    |    -10   |
+| 0                 | 2022-02-17 | hereford R6                   | 14 Always Able        |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R6                   | 7 The Electrician     |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R6                   | 9 Post Chaise         |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R6                   | 10 Silk Or Scarlet    |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R5                   | 15 Sigurd             |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R5                   | 14 Scoop The Pot      |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R5                   | 10 Manetti            |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R5                   | 8 Dragonfruit         |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R5                   | 4 Mr Scrumpy          |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R5                   | 12 Ladronne           |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R4                   | 1 Eragone             |   0    |    -10   |
+| 0                 | 2022-02-17 | hereford R3                   | 7 Simply Red          |   0    |    -10   |
+| 0                 | 2022-02-17 | hereford R1                   | 6 Pembroke House      |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R1                   | 8 Follow Your Arrow   |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R1                   | 7 Burrow Seven        |   0    |    -10   |
+| 0                 | 2022-02-17 | wetherby R1                   | 6 Beat The Edge       |   0    |    -10   |
 | 13                | 2022-02-16 | belmont R9                    | 4 Gee Force           |  41    |    -10   |
 | 5                 | 2022-02-16 | belmont R5                    | 1 O'lara's Prince     |  10    |    -10   |
 | 8                 | 2022-02-16 | belmont R5                    | 6 Contessa Medici     |  26    |    -10   |
