@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-16 17:03:24 +1000  
+date: 2022-02-16 17:18:25 +1000  
 ---   
 
 
@@ -99,7 +99,7 @@ date: 2022-02-16 17:03:24 +1000
 | 20 | :soon:            | 2022-02-16 17:25:00 | sandown-hillside |      4 |        1 | Castlereagh Kid    |   1.91 | vulture             |
 | 21 | :soon:            | 2022-02-16 17:25:00 | sandown-hillside |      4 |        3 | Santero            |   6.5  | vulture             |
 | 22 | :soon:            | 2022-02-16 17:25:00 | sandown-hillside |      4 |        5 | Aspen Colorado     |   4.2  | pangea              |
-| 23 | :soon:            | 2022-02-16 17:15:00 | kensington       |      6 |        9 | Laurelin           |   2.05 | vulture,jmac        |
+| 23 | --                | 2022-02-16 17:15:00 | kensington       |      6 |        9 | Laurelin           |   2.05 | vulture,jmac        |
 | 24 | --                | 2022-02-16 16:58:00 | doomben          |      5 |        5 | Vampirina Diamond  |   7    | pangea              |
 | 25 | :boom:            | 2022-02-16 16:23:00 | doomben          |      4 |        6 | A Call From Heaven |   5    | vulture             |
 | 26 | :boom:            | 2022-02-16 16:15:00 | sandown-hillside |      2 |        5 | Sir Bailey         |   2.2  | overthrow           |
