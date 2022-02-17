@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-02-18 07:46:32 +1000  
+date: 2022-02-18 08:52:15 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,8 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
+| 20:00             | 2022-02-18 | canterbury R5       | 8 Gracilistyla     |  5    |      -10 |
+| 19:30             | 2022-02-18 | canterbury R4       | 5 Inuwashi         | 11    |      -10 |
 | :2nd_place_medal: | 2022-02-11 | canterbury R2       | 11 Vivid Flash     | 11    |      -10 |
 | 4                 | 2022-01-29 | rosehill-gardens R8 | 5 Kingsheir        |  0    |      -10 |
 | :boom:            | 2022-01-29 | rosehill-gardens R4 | 2 Centimental      |  0    |      -10 |
