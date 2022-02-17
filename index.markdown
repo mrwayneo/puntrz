@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-17 19:01:37 +1000  
+date: 2022-02-17 19:16:32 +1000  
 ---   
 
 
@@ -93,6 +93,6 @@ date: 2022-02-17 19:01:37 +1000
 | 16 | :soon:            | 2022-02-18 00:35:00 | leicester       |      1 |        1 | No Hubs No Hoobs   |   5.5  | looseknot          |
 | 17 | :soon:            | 2022-02-18 00:20:00 | clonmel         |      1 |        9 | Hors Piste         |   1.85 | evenodds,overthrow |
 | 18 | :soon:            | 2022-02-17 23:10:00 | vaal            |      5 |        6 | Moonshiningthrough |   0    | milkman            |
-| 19 | --                | 2022-02-17 19:00:00 | mount-barker    |      4 |        4 | Crossaro           |   5    | overthrow          |
+| 19 | 8.0               | 2022-02-17 19:00:00 | mount-barker    |      4 |        4 | Crossaro           |   5    | overthrow          |
 | 20 | :2nd_place_medal: | 2022-02-17 17:23:00 | ipswich         |      6 |        5 | Early Crow         |   2.3  | milkman            |
 | 21 | 5.0               | 2022-02-17 15:20:00 | goulburn        |      4 |        3 | So Good So Cool    |   7.5  | milkman            |
