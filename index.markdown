@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-18 18:56:49 +1000  
+date: 2022-02-18 19:10:57 +1000  
 ---   
 
 
@@ -78,34 +78,34 @@ date: 2022-02-18 18:56:49 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6051 |    827 | -12572.2 | 0.14 | -0.21 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7871 |    371 | -23506   | 0.05 | -0.3  |
 
-|    | finish            | time                | track          |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:            | 2022-02-19 06:15:00 | southwell      |      6 |        1 | Flaming Dawn       |   2.1  | milkman            |
-|  1 | :soon:            | 2022-02-19 04:45:00 | southwell      |      3 |        2 | Purple Power       |   4.6  | looseknot          |
-|  2 | :soon:            | 2022-02-19 03:00:00 | fakenham       |      6 |        2 | Desire De Joie     |   0    | overthrow          |
-|  3 | :soon:            | 2022-02-19 02:35:00 | kelso          |      6 |        1 | Monbeg Chit Chat   |   4.6  | evenodds,moechilli |
-|  4 | :soon:            | 2022-02-19 01:55:00 | fakenham       |      4 |        1 | Peejaybee          |   0    | milkman            |
-|  5 | :soon:            | 2022-02-19 01:10:00 | lingfield      |      3 |        9 | Sharac             |   4.5  | looseknot          |
-|  6 | :soon:            | 2022-02-19 01:00:00 | kelso          |      3 |        2 | Word Has It        |   3.75 | overthrow          |
-|  7 | :soon:            | 2022-02-19 00:30:00 | kelso          |      2 |        2 | Grey Skies         |   2.9  | evenodds,overthrow |
-|  8 | :soon:            | 2022-02-18 21:08:00 | sunshine-coast |      5 |        3 | Red Stiletto       |   4    | looseknot          |
-|  9 | :soon:            | 2022-02-18 20:45:00 | moonee-valley  |      6 |        2 | Daqiansweet Junior |   2.75 | pangea,icyhot      |
-| 10 | :soon:            | 2022-02-18 20:30:00 | canterbury     |      6 |       11 | Bedtime Stories    |  15    | pikey              |
-| 11 | :soon:            | 2022-02-18 20:00:00 | canterbury     |      5 |        2 | Black Duke         |   3.8  | pikey              |
-| 12 | :soon:            | 2022-02-18 20:00:00 | canterbury     |      5 |        1 | Vreneli            |   4.75 | pangea,icyhot      |
-| 13 | :soon:            | 2022-02-18 20:00:00 | canterbury     |      5 |        8 | Gracilistyla       |   5    | wallbow            |
-| 14 | :soon:            | 2022-02-18 19:30:00 | canterbury     |      4 |        5 | Inuwashi           |  11    | vulture,wallbow    |
-| 15 | :soon:            | 2022-02-18 19:30:00 | canterbury     |      4 |       10 | Pretty Amazing     |   4.6  | vulture,jmac       |
-| 16 | :soon:            | 2022-02-18 19:08:00 | sunshine-coast |      1 |        1 | Glock              |   2.7  | benny,pangea       |
-| 17 | :soon:            | 2022-02-18 19:00:00 | canterbury     |      3 |        6 | Rockover           |   8.5  | pikey              |
-| 18 | --                | 2022-02-18 18:55:00 | darwin         |      5 |        3 | Captain Hedderwick |   5    | pangea,blackshadow |
-| 19 | --                | 2022-02-18 18:55:00 | darwin         |      5 |        6 | Against The Tide   |   3.4  | pangea             |
-| 20 | :boom:            | 2022-02-18 18:30:00 | canterbury     |      2 |        3 | Devil's Throat     |   1.95 | vulture            |
-| 21 | 4.0               | 2022-02-18 18:30:00 | canterbury     |      2 |        1 | Barrichello        |   4.2  | vulture,jmac       |
-| 22 | :2nd_place_medal: | 2022-02-18 18:25:00 | darwin         |      4 |        3 | Raazou             |   5.5  | pangea,blackshadow |
-| 23 | :3rd_place_medal: | 2022-02-18 17:55:00 | darwin         |      3 |        2 | Vela               |   3    | icyhot             |
-| 24 | 8.0               | 2022-02-18 17:55:00 | darwin         |      3 |        6 | Chilli Bean        |  19    | pangea             |
-| 25 | 4.0               | 2022-02-18 17:35:00 | grafton        |      8 |        4 | Preghero           |   3    | milkman            |
-| 26 | 9.0               | 2022-02-18 16:45:00 | darwin         |      1 |        2 | Captain Oh         |   8.5  | overthrow          |
-| 27 | :3rd_place_medal: | 2022-02-18 15:50:00 | cairns         |      5 |        5 | Ali's Jab          |   2.45 | overthrow          |
-| 28 | 4.0               | 2022-02-18 13:57:00 | cairns         |      2 |        3 | Sparkly Star       |   3.8  | benny,moechilli    |
+|    | finish                   | time                | track          |   race |   number | name               |   odds | tipster            |
+|---:|:-------------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:                   | 2022-02-19 06:15:00 | southwell      |      6 |        1 | Flaming Dawn       |   2.1  | milkman            |
+|  1 | :soon:                   | 2022-02-19 04:45:00 | southwell      |      3 |        2 | Purple Power       |   4.6  | looseknot          |
+|  2 | :soon:                   | 2022-02-19 03:00:00 | fakenham       |      6 |        2 | Desire De Joie     |   0    | overthrow          |
+|  3 | :soon:                   | 2022-02-19 02:35:00 | kelso          |      6 |        1 | Monbeg Chit Chat   |   4.6  | evenodds,moechilli |
+|  4 | :soon:                   | 2022-02-19 01:55:00 | fakenham       |      4 |        1 | Peejaybee          |   0    | milkman            |
+|  5 | :soon:                   | 2022-02-19 01:10:00 | lingfield      |      3 |        9 | Sharac             |   4.5  | looseknot          |
+|  6 | :soon:                   | 2022-02-19 01:00:00 | kelso          |      3 |        2 | Word Has It        |   3.75 | overthrow          |
+|  7 | :soon:                   | 2022-02-19 00:30:00 | kelso          |      2 |        2 | Grey Skies         |   2.9  | evenodds,overthrow |
+|  8 | :soon:                   | 2022-02-18 21:08:00 | sunshine-coast |      5 |        3 | Red Stiletto       |   4    | looseknot          |
+|  9 | :soon:                   | 2022-02-18 20:45:00 | moonee-valley  |      6 |        2 | Daqiansweet Junior |   2.75 | pangea,icyhot      |
+| 10 | :soon:                   | 2022-02-18 20:30:00 | canterbury     |      6 |       11 | Bedtime Stories    |  15    | pikey              |
+| 11 | :soon:                   | 2022-02-18 20:00:00 | canterbury     |      5 |        2 | Black Duke         |   3.8  | pikey              |
+| 12 | :soon:                   | 2022-02-18 20:00:00 | canterbury     |      5 |        1 | Vreneli            |   4.75 | pangea,icyhot      |
+| 13 | :soon:                   | 2022-02-18 20:00:00 | canterbury     |      5 |        8 | Gracilistyla       |   5    | wallbow            |
+| 14 | :soon:                   | 2022-02-18 19:30:00 | canterbury     |      4 |        5 | Inuwashi           |  11    | vulture,wallbow    |
+| 15 | :soon:                   | 2022-02-18 19:30:00 | canterbury     |      4 |       10 | Pretty Amazing     |   4.6  | vulture,jmac       |
+| 16 | :hourglass_flowing_sand: | 2022-02-18 19:08:00 | sunshine-coast |      1 |        1 | Glock              |   2.7  | benny,pangea       |
+| 17 | --                       | 2022-02-18 19:00:00 | canterbury     |      3 |        6 | Rockover           |   8.5  | pikey              |
+| 18 | --                       | 2022-02-18 18:55:00 | darwin         |      5 |        3 | Captain Hedderwick |   5    | pangea,blackshadow |
+| 19 | --                       | 2022-02-18 18:55:00 | darwin         |      5 |        6 | Against The Tide   |   3.4  | pangea             |
+| 20 | :boom:                   | 2022-02-18 18:30:00 | canterbury     |      2 |        3 | Devil's Throat     |   1.95 | vulture            |
+| 21 | 4.0                      | 2022-02-18 18:30:00 | canterbury     |      2 |        1 | Barrichello        |   4.2  | vulture,jmac       |
+| 22 | :2nd_place_medal:        | 2022-02-18 18:25:00 | darwin         |      4 |        3 | Raazou             |   5.5  | pangea,blackshadow |
+| 23 | :3rd_place_medal:        | 2022-02-18 17:55:00 | darwin         |      3 |        2 | Vela               |   3    | icyhot             |
+| 24 | 8.0                      | 2022-02-18 17:55:00 | darwin         |      3 |        6 | Chilli Bean        |  19    | pangea             |
+| 25 | 4.0                      | 2022-02-18 17:35:00 | grafton        |      8 |        4 | Preghero           |   3    | milkman            |
+| 26 | 9.0                      | 2022-02-18 16:45:00 | darwin         |      1 |        2 | Captain Oh         |   8.5  | overthrow          |
+| 27 | :3rd_place_medal:        | 2022-02-18 15:50:00 | cairns         |      5 |        5 | Ali's Jab          |   2.45 | overthrow          |
+| 28 | 4.0                      | 2022-02-18 13:57:00 | cairns         |      2 |        3 | Sparkly Star       |   3.8  | benny,moechilli    |
