@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-02-18 19:11:47 +1000  
+date: 2022-02-18 19:27:21 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 20:30             | 2022-02-18 | canterbury R6         | 11 Bedtime Stories    |  15    |    -10   |
 | 20:00             | 2022-02-18 | canterbury R5         | 2 Black Duke          |   3.8  |    -10   |
-| 0                 | 2022-02-18 | canterbury R3         | 6 Rockover            |   0    |    -10   |
+| 5                 | 2022-02-18 | canterbury R3         | 6 Rockover            |   8.5  |    -10   |
 | 5                 | 2022-02-15 | wyong R4              | 10 Heavenly Prophet   |  22    |    -10   |
 | :3rd_place_medal: | 2022-02-15 | wyong R3              | 8 Choix De La Mer     |   8.5  |    -10   |
 | 5                 | 2022-01-30 | pinjarra-scarpside R8 | 9 Bandalera Miss      |   0    |    -10   |

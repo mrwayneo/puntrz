@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-18 19:11:49 +1000  
+date: 2022-02-18 19:27:22 +1000  
 ---   
 
 
@@ -96,9 +96,9 @@ date: 2022-02-18 19:11:49 +1000
 | 13 | :soon:            | 2022-02-18 20:00:00 | canterbury     |      5 |        8 | Gracilistyla       |   5    | wallbow            |
 | 14 | :soon:            | 2022-02-18 19:30:00 | canterbury     |      4 |        5 | Inuwashi           |  11    | vulture,wallbow    |
 | 15 | :soon:            | 2022-02-18 19:30:00 | canterbury     |      4 |       10 | Pretty Amazing     |   4.6  | vulture,jmac       |
-| 16 | --                | 2022-02-18 19:08:00 | sunshine-coast |      1 |        1 | Glock              |   2.7  | benny,pangea       |
-| 17 | --                | 2022-02-18 19:00:00 | canterbury     |      3 |        6 | Rockover           |   8.5  | pikey              |
-| 18 | --                | 2022-02-18 18:55:00 | darwin         |      5 |        3 | Captain Hedderwick |   5    | pangea,blackshadow |
+| 16 | :2nd_place_medal: | 2022-02-18 19:08:00 | sunshine-coast |      1 |        1 | Glock              |   2.7  | benny,pangea       |
+| 17 | 5.0               | 2022-02-18 19:00:00 | canterbury     |      3 |        6 | Rockover           |   8.5  | pikey              |
+| 18 | 5.0               | 2022-02-18 18:55:00 | darwin         |      5 |        3 | Captain Hedderwick |   5    | pangea,blackshadow |
 | 19 | 4.0               | 2022-02-18 18:55:00 | darwin         |      5 |        6 | Against The Tide   |   3.4  | pangea             |
 | 20 | :boom:            | 2022-02-18 18:30:00 | canterbury     |      2 |        3 | Devil's Throat     |   1.95 | vulture            |
 | 21 | 4.0               | 2022-02-18 18:30:00 | canterbury     |      2 |        1 | Barrichello        |   4.2  | vulture,jmac       |
