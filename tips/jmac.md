@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-18 17:49:40 +1000  
+date: 2022-02-18 18:34:33 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 19:30             | 2022-02-18 | canterbury R4        | 10 Pretty Amazing    |  4.6  |    -10   |
-| 18:30             | 2022-02-18 | canterbury R2        | 1 Barrichello        |  4.2  |    -10   |
+| 4                 | 2022-02-18 | canterbury R2        | 1 Barrichello        |  4.2  |    -10   |
 | 6                 | 2022-02-16 | kensington R6        | 9 Laurelin           |  2.05 |    -10   |
 | 7                 | 2022-02-12 | randwick R8          | 9 Verry Elleegant    |  5    |    -10   |
 | 5                 | 2022-02-12 | randwick R6          | 2 Laws Of Indices    |  7.5  |    -10   |
