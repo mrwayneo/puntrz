@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-18 19:41:53 +1000  
+date: 2022-02-18 20:31:54 +1000  
 ---   
 
 
@@ -9,6 +9,7 @@ date: 2022-02-18 19:41:53 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     14 |      1 |       71 | 0.07 |  0.51 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      2 |      1 |       17 | 0.5  |  0.85 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      1 |       -3 | 0.25 | -0.08 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      6 |      2 |       -6 | 0.33 | -0.1  |
@@ -22,9 +23,8 @@ date: 2022-02-18 19:41:53 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      4 |      0 |      -40 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      1 |      -63 | 0.1  | -0.63 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     10 |      0 |     -100 | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     14 |      0 |     -140 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     37 |      0 |     -370 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     41 |      0 |     -410 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     37 |      1 |     -159 | 0.03 | -0.43 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     41 |      1 |     -366 | 0.02 | -0.89 |
 
 ##### Form Last 20 tips   
 
@@ -90,10 +90,10 @@ date: 2022-02-18 19:41:53 +1000
 |  7 | :soon:            | 2022-02-19 00:30:00 | kelso          |      2 |        2 | Grey Skies         |   2.9  | evenodds,overthrow |
 |  8 | :soon:            | 2022-02-18 21:08:00 | sunshine-coast |      5 |        3 | Red Stiletto       |   4    | looseknot          |
 |  9 | :soon:            | 2022-02-18 20:45:00 | moonee-valley  |      6 |        2 | Daqiansweet Junior |   2.75 | pangea,icyhot      |
-| 10 | :soon:            | 2022-02-18 20:30:00 | canterbury     |      6 |       11 | Bedtime Stories    |  15    | pikey              |
-| 11 | :soon:            | 2022-02-18 20:00:00 | canterbury     |      5 |        2 | Black Duke         |   3.8  | pikey              |
-| 12 | :soon:            | 2022-02-18 20:00:00 | canterbury     |      5 |        1 | Vreneli            |   4.75 | pangea,icyhot      |
-| 13 | :soon:            | 2022-02-18 20:00:00 | canterbury     |      5 |        8 | Gracilistyla       |   5    | wallbow            |
+| 10 | --                | 2022-02-18 20:30:00 | canterbury     |      6 |       11 | Bedtime Stories    |  15    | pikey              |
+| 11 | :3rd_place_medal: | 2022-02-18 20:00:00 | canterbury     |      5 |        2 | Black Duke         |   3.8  | pikey              |
+| 12 | 7.0               | 2022-02-18 20:00:00 | canterbury     |      5 |        1 | Vreneli            |   4.75 | pangea,icyhot      |
+| 13 | :2nd_place_medal: | 2022-02-18 20:00:00 | canterbury     |      5 |        8 | Gracilistyla       |   5    | wallbow            |
 | 14 | --                | 2022-02-18 19:30:00 | canterbury     |      4 |        5 | Inuwashi           |  11    | vulture,wallbow    |
 | 15 | :boom:            | 2022-02-18 19:30:00 | canterbury     |      4 |       10 | Pretty Amazing     |   4.6  | vulture,jmac       |
 | 16 | :2nd_place_medal: | 2022-02-18 19:08:00 | sunshine-coast |      1 |        1 | Glock              |   2.7  | benny,pangea       |
