@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-18 17:34:43 +1000  
+date: 2022-02-18 17:49:42 +1000  
 ---   
 
 
@@ -105,7 +105,7 @@ date: 2022-02-18 17:34:43 +1000
 | 22 | :soon:            | 2022-02-18 18:25:00 | darwin         |      4 |        3 | Raazou             |   5.5  | pangea,blackshadow |
 | 23 | :soon:            | 2022-02-18 17:55:00 | darwin         |      3 |        2 | Vela               |   3    | icyhot             |
 | 24 | :soon:            | 2022-02-18 17:55:00 | darwin         |      3 |        6 | Chilli Bean        |  19    | pangea             |
-| 25 | :soon:            | 2022-02-18 17:35:00 | grafton        |      8 |        4 | Preghero           |   3    | milkman            |
+| 25 | --                | 2022-02-18 17:35:00 | grafton        |      8 |        4 | Preghero           |   3    | milkman            |
 | 26 | 9.0               | 2022-02-18 16:45:00 | darwin         |      1 |        2 | Captain Oh         |   8.5  | overthrow          |
 | 27 | :3rd_place_medal: | 2022-02-18 15:50:00 | cairns         |      5 |        5 | Ali's Jab          |   2.45 | overthrow          |
 | 28 | 4.0               | 2022-02-18 13:57:00 | cairns         |      2 |        3 | Sparkly Star       |   3.8  | benny,moechilli    |
