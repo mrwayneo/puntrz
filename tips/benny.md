@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-02-18 12:07:58 +1000  
+date: 2022-02-18 12:25:33 +1000  
 categories: None 
 ---   
 
@@ -243,8 +243,8 @@ categories: None
 | :boom:            | 2021-10-09 | randwick R10                  | 10 Leo                |  5.8  |     48   |
 | 10                | 2021-10-09 | randwick R9                   | 10 Great News         |  4.4  |    -10   |
 | 8                 | 2021-10-09 | caulfield R9                  | 4 Elephant            |  4.6  |    -10   |
-| :3rd_place_medal: | 2021-10-09 | eagle-farm R7                 | 7 Vinco               |  5    |    -10   |
 | 8                 | 2021-10-09 | eagle-farm R7                 | 6 Ligulate            | 19    |    -10   |
+| :3rd_place_medal: | 2021-10-09 | eagle-farm R7                 | 7 Vinco               |  5    |    -10   |
 | 5                 | 2021-10-09 | morphettville R7              | 6 Taken Off           |  6    |    -10   |
 | 7                 | 2021-10-09 | eagle-farm R6                 | 4 Firebox             | 21    |    -10   |
 | 11                | 2021-10-09 | randwick R6                   | 2 All Saints' Eve     | 11    |    -10   |
@@ -620,8 +620,8 @@ categories: None
 | :boom:            | 2021-03-28 | kempton R3                    | 1 Al Zaraqaan         |  2.05 |     10.5 |
 | 6                 | 2021-03-27 | morphettville R4              | 10 Our Sustar         | 34    |    -10   |
 | 4                 | 2021-03-27 | rosehill R4                   | 2 Sir Dragonet        |  0    |    -10   |
-| :boom:            | 2021-03-27 | bendigo R4                    | 4 Fanciful Toff       |  2.4  |     14   |
 | :3rd_place_medal: | 2021-03-27 | bendigo R4                    | 1 Saunter Boy         | 71    |    -10   |
+| :boom:            | 2021-03-27 | bendigo R4                    | 4 Fanciful Toff       |  2.4  |     14   |
 | 11                | 2021-03-27 | rosehill R2                   | 2 Raheen House        |  0    |    -10   |
 | 11                | 2021-03-27 | rosehill R2                   | 2 Raheen House        |  0    |    -10   |
 | :2nd_place_medal: | 2021-03-26 | darwin R1                     | 1 Kaptan Apollo       |  3.6  |    -10   |
@@ -777,8 +777,8 @@ categories: None
 | :boom:            | 2020-10-24 | moonee-valley R8              | 11 Miami Bound        | 23    |    220   |
 | 7                 | 2020-10-24 | randwick R4                   | 3 Archedemus          |  7.5  |    -10   |
 | :boom:            | 2020-10-24 | moonee-valley R5              | 3 Sovereign Award     |  2.8  |     18   |
-| 5                 | 2020-10-23 | moonee-valley R8              | 3 Kementari           | 17    |    -10   |
 | :boom:            | 2020-10-23 | moonee-valley R8              | 2 Hey Doc             | 10.1  |     91   |
+| 5                 | 2020-10-23 | moonee-valley R8              | 3 Kementari           | 17    |    -10   |
 | 6                 | 2020-10-23 | launceston R6                 | 3 White Cliffs        |  6.5  |    -10   |
 | 6                 | 2020-10-23 | moonee-valley R7              | 9 Night Guy           | 11    |    -10   |
 | :2nd_place_medal: | 2020-10-23 | launceston R5                 | 5 Ivoryman            |  7    |    -10   |
