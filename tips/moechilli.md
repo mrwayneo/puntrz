@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-02-18 13:47:32 +1000  
+date: 2022-02-18 15:00:10 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
 | 02:35             | 2022-02-19 | kelso R6               | 1 Monbeg Chit Chat   |   4.6  |    -10   |
-| 13:57             | 2022-02-18 | cairns R2              | 3 Sparkly Star       |   3.8  |    -10   |
+| 4                 | 2022-02-18 | cairns R2              | 3 Sparkly Star       |   3.8  |    -10   |
 | :3rd_place_medal: | 2022-02-12 | gold-coast R8          | 3 Lord Markel        |   5.5  |    -10   |
 | 4                 | 2022-02-10 | kilmore R8             | 1 Lord Sundowner     |   8    |    -10   |
 | 4                 | 2022-02-10 | gatton R1              | 3 Diwali Lights      |   4.6  |    -10   |

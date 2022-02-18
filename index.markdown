@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-18 13:47:37 +1000  
+date: 2022-02-18 15:00:15 +1000  
 ---   
 
 
@@ -108,4 +108,4 @@ date: 2022-02-18 13:47:37 +1000
 | 25 | :soon:   | 2022-02-18 17:35:00 | grafton        |      8 |        4 | Preghero           |   3    | milkman            |
 | 26 | :soon:   | 2022-02-18 16:45:00 | darwin         |      1 |        2 | Captain Oh         |   8.5  | overthrow          |
 | 27 | :soon:   | 2022-02-18 15:50:00 | cairns         |      5 |        5 | Ali's Jab          |   2.45 | overthrow          |
-| 28 | :soon:   | 2022-02-18 13:57:00 | cairns         |      2 |        3 | Sparkly Star       |   3.8  | benny,moechilli    |
+| 28 | 4.0      | 2022-02-18 13:57:00 | cairns         |      2 |        3 | Sparkly Star       |   3.8  | benny,moechilli    |
