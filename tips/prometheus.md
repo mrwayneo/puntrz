@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-02-19 07:07:39 +1000  
+date: 2022-02-19 07:22:55 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:15             | 2022-02-19 | southwell R8                  | 3 Reticent            |   2.9  |    -10   |
+| 0                 | 2022-02-19 | southwell R8                  | 3 Reticent            |   0    |    -10   |
 | 0                 | 2022-02-19 | southwell R2                  | 1 Boulivar            |   0    |    -10   |
 | 0                 | 2022-02-19 | fakenham R7                   | 3 Spanish Present     |   0    |    -10   |
 | 0                 | 2022-02-19 | fakenham R7                   | 1 Hurricane Bay       |   0    |    -10   |
