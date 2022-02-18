@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-18 19:27:22 +1000  
+date: 2022-02-18 19:41:53 +1000  
 ---   
 
 
@@ -9,18 +9,18 @@ date: 2022-02-18 19:27:22 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      2 |      1 |       17 | 0.5  |  0.85 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      1 |       -3 | 0.25 | -0.08 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      6 |      2 |       -6 | 0.33 | -0.1  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      2 |      0 |      -20 | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      2 |      0 |      -20 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      3 |      0 |      -30 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      4 |      0 |      -40 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      6 |      1 |      -43 | 0.17 | -0.72 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      0 |     -100 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      1 |      -63 | 0.1  | -0.63 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     10 |      0 |     -100 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     14 |      0 |     -140 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     37 |      0 |     -370 | 0    | -1    |
@@ -94,8 +94,8 @@ date: 2022-02-18 19:27:22 +1000
 | 11 | :soon:            | 2022-02-18 20:00:00 | canterbury     |      5 |        2 | Black Duke         |   3.8  | pikey              |
 | 12 | :soon:            | 2022-02-18 20:00:00 | canterbury     |      5 |        1 | Vreneli            |   4.75 | pangea,icyhot      |
 | 13 | :soon:            | 2022-02-18 20:00:00 | canterbury     |      5 |        8 | Gracilistyla       |   5    | wallbow            |
-| 14 | :soon:            | 2022-02-18 19:30:00 | canterbury     |      4 |        5 | Inuwashi           |  11    | vulture,wallbow    |
-| 15 | :soon:            | 2022-02-18 19:30:00 | canterbury     |      4 |       10 | Pretty Amazing     |   4.6  | vulture,jmac       |
+| 14 | --                | 2022-02-18 19:30:00 | canterbury     |      4 |        5 | Inuwashi           |  11    | vulture,wallbow    |
+| 15 | :boom:            | 2022-02-18 19:30:00 | canterbury     |      4 |       10 | Pretty Amazing     |   4.6  | vulture,jmac       |
 | 16 | :2nd_place_medal: | 2022-02-18 19:08:00 | sunshine-coast |      1 |        1 | Glock              |   2.7  | benny,pangea       |
 | 17 | 5.0               | 2022-02-18 19:00:00 | canterbury     |      3 |        6 | Rockover           |   8.5  | pikey              |
 | 18 | 5.0               | 2022-02-18 18:55:00 | darwin         |      5 |        3 | Captain Hedderwick |   5    | pangea,blackshadow |
