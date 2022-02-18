@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-02-18 20:45:52 +1000  
+date: 2022-02-18 20:46:49 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2022-02-18 | canterbury R6         | 11 Bedtime Stories    |   0    |    -10   |
+| :boom:            | 2022-02-18 | canterbury R6         | 11 Bedtime Stories    |  14.6  |    136   |
 | :3rd_place_medal: | 2022-02-18 | canterbury R5         | 2 Black Duke          |   3.8  |    -10   |
 | 5                 | 2022-02-18 | canterbury R3         | 6 Rockover            |   8.5  |    -10   |
 | 5                 | 2022-02-15 | wyong R4              | 10 Heavenly Prophet   |  22    |    -10   |
