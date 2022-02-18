@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-02-18 22:54:58 +1000  
+date: 2022-02-19 06:01:33 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |     13 |      3 |     58.7 | 0.23 |  0.45 |
-| Last 6 Months  |     57 |     13 |    176.2 | 0.23 |  0.31 |
-| Since Jan 2020 |    116 |     33 |    806.6 | 0.28 |  0.7  |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
+| Last 28 Days   |     12 |      2 |     53   | 0.17 |  0.44 |
+| Last 6 Months  |     59 |     13 |    156.2 | 0.22 |  0.26 |
+| Since Jan 2020 |    118 |     33 |    786.6 | 0.28 |  0.67 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 02:35             | 2022-02-19 | kelso R6               | 1 Monbeg Chit Chat   |   4.6  |    -10   |
+| 0                 | 2022-02-19 | kelso R6               | 1 Monbeg Chit Chat   |   0    |    -10   |
 | 4                 | 2022-02-18 | cairns R2              | 3 Sparkly Star       |   3.8  |    -10   |
 | :3rd_place_medal: | 2022-02-12 | gold-coast R8          | 3 Lord Markel        |   5.5  |    -10   |
 | 4                 | 2022-02-10 | kilmore R8             | 1 Lord Sundowner     |   8    |    -10   |
