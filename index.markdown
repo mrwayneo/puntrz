@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-18 21:45:52 +1000  
+date: 2022-02-18 21:46:48 +1000  
 ---   
 
 
@@ -88,7 +88,7 @@ date: 2022-02-18 21:45:52 +1000
 |  5 | :soon:            | 2022-02-19 01:10:00 | lingfield      |      3 |        9 | Sharac             |   4.5  | looseknot          |
 |  6 | :soon:            | 2022-02-19 01:00:00 | kelso          |      3 |        2 | Word Has It        |   3.75 | overthrow          |
 |  7 | :soon:            | 2022-02-19 00:30:00 | kelso          |      2 |        2 | Grey Skies         |   2.9  | evenodds,overthrow |
-|  8 | --                | 2022-02-18 21:08:00 | sunshine-coast |      5 |        3 | Red Stiletto       |   4    | looseknot          |
+|  8 | 5.0               | 2022-02-18 21:08:00 | sunshine-coast |      5 |        3 | Red Stiletto       |   4    | looseknot          |
 |  9 | :2nd_place_medal: | 2022-02-18 20:45:00 | moonee-valley  |      6 |        2 | Daqiansweet Junior |   2.75 | pangea,icyhot      |
 | 10 | :boom:            | 2022-02-18 20:30:00 | canterbury     |      6 |       11 | Bedtime Stories    |  15    | pikey              |
 | 11 | :3rd_place_medal: | 2022-02-18 20:00:00 | canterbury     |      5 |        2 | Black Duke         |   3.8  | pikey              |
