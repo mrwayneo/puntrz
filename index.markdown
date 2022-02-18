@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 06:01:38 +1000  
+date: 2022-02-19 06:37:54 +1000  
 ---   
 
 
@@ -61,7 +61,7 @@ date: 2022-02-19 06:01:38 +1000
 
 |    | finish            | time                | track          |   race |   number | name               |   odds | tipster            |
 |---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:            | 2022-02-19 06:15:00 | southwell      |      6 |        1 | Flaming Dawn       |   2.1  | milkman            |
+|  0 | --                | 2022-02-19 06:15:00 | southwell      |      6 |        1 | Flaming Dawn       |   2.1  | milkman            |
 |  1 | --                | 2022-02-19 04:45:00 | southwell      |      3 |        2 | Purple Power       |   4.6  | looseknot          |
 |  2 | --                | 2022-02-19 03:00:00 | fakenham       |      6 |        2 | Desire De Joie     |   0    | overthrow          |
 |  3 | --                | 2022-02-19 02:35:00 | kelso          |      6 |        1 | Monbeg Chit Chat   |   4.6  | evenodds,moechilli |
