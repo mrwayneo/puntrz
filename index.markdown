@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 18:32:22 +1000  
+date: 2022-02-19 18:47:11 +1000  
 ---   
 
 
@@ -122,10 +122,10 @@ date: 2022-02-19 18:32:22 +1000
 |  38 | :soon:            | 2022-02-19 19:30:00 | singapore           |     10 |        7 | Lim's Kosciuszko   |   0    | icyhot              |
 |  39 | :soon:            | 2022-02-19 19:07:00 | esperance-bay       |      5 |        3 | Whim Creek         |   5.5  | looseknot           |
 |  40 | :soon:            | 2022-02-19 18:55:00 | ascot               |      6 |        6 | Tradem' In         |   4.8  | vulture             |
-|  41 | :soon:            | 2022-02-19 18:40:00 | toowoomba           |      3 |        3 | Zaiteki            |   4.2  | overthrow           |
-|  42 | :soon:            | 2022-02-19 18:40:00 | toowoomba           |      3 |        5 | Wolff Boss         |   3.9  | benny,pangea        |
+|  41 | --                | 2022-02-19 18:40:00 | toowoomba           |      3 |        3 | Zaiteki            |   4.2  | overthrow           |
+|  42 | --                | 2022-02-19 18:40:00 | toowoomba           |      3 |        5 | Wolff Boss         |   3.9  | benny,pangea        |
 |  43 | --                | 2022-02-19 18:30:00 | singapore           |      8 |        4 | Ben Wade           |   0    | vulture             |
-|  44 | --                | 2022-02-19 18:12:00 | sunshine-coast      |      9 |       11 | Zac Attack         |  11    | pangea              |
+|  44 | 9.0               | 2022-02-19 18:12:00 | sunshine-coast      |      9 |       11 | Zac Attack         |  11    | pangea              |
 |  45 | :3rd_place_medal: | 2022-02-19 18:12:00 | sunshine-coast      |      9 |        9 | Rock Amore         |   8    | cosmo,bluey         |
 |  46 | :3rd_place_medal: | 2022-02-19 18:00:00 | rosehill-gardens    |     10 |        3 | Dajraan            |   2.38 | vulture,pangea      |
 |  47 | --                | 2022-02-19 18:00:00 | rosehill-gardens    |     10 |       10 | Sindacato          |   4.8  | pangea,wallbow      |
