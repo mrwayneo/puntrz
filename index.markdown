@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 14:15:19 +1000  
+date: 2022-02-19 14:30:25 +1000  
 ---   
 
 
@@ -24,7 +24,7 @@ date: 2022-02-19 14:15:19 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     44 |      2 |     -396 | 0.05 | -0.9  |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     47 |      3 |     -415 | 0.06 | -0.88 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     47 |      0 |     -470 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      1 |     -848 | 0.01 | -0.99 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      2 |     -822 | 0.02 | -0.96 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    104 |      0 |    -1040 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -177,17 +177,17 @@ date: 2022-02-19 14:15:19 +1000
 |  93 | :soon:            | 2022-02-19 14:45:00 | rosehill-gardens    |      5 |        6 | Able Willie        |   3.2  | vulture,wallbow     |
 |  94 | :soon:            | 2022-02-19 14:45:00 | rosehill-gardens    |      5 |        1 | Mazu               |   4.75 | vulture             |
 |  95 | :soon:            | 2022-02-19 14:45:00 | rosehill-gardens    |      5 |        2 | Nasturtium         |   3.6  | vulture,pangea      |
-|  96 | :soon:            | 2022-02-19 14:25:00 | flemington          |      4 |       15 | Zennzella          |   8    | jmac                |
-|  97 | :soon:            | 2022-02-19 14:25:00 | flemington          |      4 |       12 | Waltz On By        |   5.5  | overthrow,looseknot |
-|  98 | :soon:            | 2022-02-19 14:21:00 | gosford             |      4 |        1 | O'tartan Lass      |   8    | benny,pangea        |
-|  99 | :soon:            | 2022-02-19 14:17:00 | sunshine-coast      |      3 |        7 | Takeittothelimit   |   7.5  | pangea              |
+|  96 | --                | 2022-02-19 14:25:00 | flemington          |      4 |       15 | Zennzella          |   8    | jmac                |
+|  97 | :2nd_place_medal: | 2022-02-19 14:25:00 | flemington          |      4 |       12 | Waltz On By        |   5.5  | overthrow,looseknot |
+|  98 | --                | 2022-02-19 14:21:00 | gosford             |      4 |        1 | O'tartan Lass      |   8    | benny,pangea        |
+|  99 | :2nd_place_medal: | 2022-02-19 14:17:00 | sunshine-coast      |      3 |        7 | Takeittothelimit   |   7.5  | pangea              |
 | 100 | --                | 2022-02-19 14:10:00 | rosehill-gardens    |      4 |        2 | Rocha Clock        |   5.5  | pangea              |
 | 101 | 4.0               | 2022-02-19 14:10:00 | rosehill-gardens    |      4 |        1 | Krone              |   5.5  | pangea,icyhot       |
 | 102 | --                | 2022-02-19 14:02:00 | morphettville-parks |      3 |        6 | Propelle           |   4.6  | pangea              |
 | 103 | --                | 2022-02-19 14:02:00 | morphettville-parks |      3 |        3 | Octane             |  12    | pangea              |
 | 104 | --                | 2022-02-19 14:00:00 | ellerslie           |      7 |       12 | The Perfect Pink   |   3.25 | evenodds,overthrow  |
 | 105 | :boom:            | 2022-02-19 14:00:00 | ellerslie           |      7 |       13 | La Crique          |   3    | milkman             |
-| 106 | --                | 2022-02-19 13:50:00 | flemington          |      3 |        4 | Modern Millie      |  10    | jmac                |
+| 106 | 9.0               | 2022-02-19 13:50:00 | flemington          |      3 |        4 | Modern Millie      |  10    | jmac                |
 | 107 | :boom:            | 2022-02-19 13:50:00 | flemington          |      3 |        5 | Yonce              |   2.75 | vulture,milkman     |
 | 108 | :3rd_place_medal: | 2022-02-19 13:42:00 | sunshine-coast      |      2 |        6 | Bella Royale       |   9.5  | pangea              |
 | 109 | 8.0               | 2022-02-19 13:15:00 | flemington          |      2 |        6 | Zachaz             |  17    | vulture,pangea      |
