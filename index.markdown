@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 18:10:42 +1000  
+date: 2022-02-19 18:32:22 +1000  
 ---   
 
 
@@ -20,12 +20,12 @@ date: 2022-02-19 18:10:42 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      8 |      0 |      -80 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     11 |      0 |     -110 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     47 |      3 |     -142 | 0.06 | -0.3  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     44 |      7 |     -239 | 0.16 | -0.54 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      0 |     -240 | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     47 |      2 |     -273 | 0.04 | -0.58 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     47 |      7 |     -311 | 0.15 | -0.66 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      8 |     -401 | 0.09 | -0.47 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    104 |      3 |     -754 | 0.03 | -0.72 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      8 |     -405 | 0.09 | -0.47 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    104 |      4 |     -623 | 0.04 | -0.6  |
 
 ##### Form Last 20 tips   
 
@@ -124,9 +124,9 @@ date: 2022-02-19 18:10:42 +1000
 |  40 | :soon:            | 2022-02-19 18:55:00 | ascot               |      6 |        6 | Tradem' In         |   4.8  | vulture             |
 |  41 | :soon:            | 2022-02-19 18:40:00 | toowoomba           |      3 |        3 | Zaiteki            |   4.2  | overthrow           |
 |  42 | :soon:            | 2022-02-19 18:40:00 | toowoomba           |      3 |        5 | Wolff Boss         |   3.9  | benny,pangea        |
-|  43 | :soon:            | 2022-02-19 18:30:00 | singapore           |      8 |        4 | Ben Wade           |   0    | vulture             |
-|  44 | :soon:            | 2022-02-19 18:12:00 | sunshine-coast      |      9 |       11 | Zac Attack         |  11    | pangea              |
-|  45 | :soon:            | 2022-02-19 18:12:00 | sunshine-coast      |      9 |        9 | Rock Amore         |   8    | cosmo,bluey         |
+|  43 | --                | 2022-02-19 18:30:00 | singapore           |      8 |        4 | Ben Wade           |   0    | vulture             |
+|  44 | --                | 2022-02-19 18:12:00 | sunshine-coast      |      9 |       11 | Zac Attack         |  11    | pangea              |
+|  45 | :3rd_place_medal: | 2022-02-19 18:12:00 | sunshine-coast      |      9 |        9 | Rock Amore         |   8    | cosmo,bluey         |
 |  46 | :3rd_place_medal: | 2022-02-19 18:00:00 | rosehill-gardens    |     10 |        3 | Dajraan            |   2.38 | vulture,pangea      |
 |  47 | --                | 2022-02-19 18:00:00 | rosehill-gardens    |     10 |       10 | Sindacato          |   4.8  | pangea,wallbow      |
 |  48 | :3rd_place_medal: | 2022-02-19 17:36:00 | ascot               |      4 |        8 | My Baby Blue Jean  |   1.85 | milkman             |
