@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 19:17:38 +1000  
+date: 2022-02-19 20:20:50 +1000  
 ---   
 
 
@@ -15,7 +15,7 @@ date: 2022-02-19 19:17:38 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      3 |      0 |      -30 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      6 |      0 |      -60 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      6 |      1 |      -46 | 0.17 | -0.77 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      3 |      -62 | 0.15 | -0.31 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      8 |      0 |      -80 | 0    | -1    |
@@ -119,7 +119,7 @@ date: 2022-02-19 19:17:38 +1000
 |  35 | :soon:            | 2022-02-19 20:30:00 | toowoomba           |      6 |        5 | Kirra Lass         |   9    | pangea,blackshadow  |
 |  36 | :soon:            | 2022-02-19 20:30:00 | toowoomba           |      6 |        4 | Bestie             |   7.5  | benny,pangea        |
 |  37 | :soon:            | 2022-02-19 20:30:00 | toowoomba           |      6 |        2 | Fair Fella         |   2.9  | pangea              |
-|  38 | :soon:            | 2022-02-19 19:30:00 | singapore           |     10 |        7 | Lim's Kosciuszko   |   0    | icyhot              |
+|  38 | :boom:            | 2022-02-19 19:30:00 | singapore           |     10 |        7 | Lim's Kosciuszko   |   0    | icyhot              |
 |  39 | :3rd_place_medal: | 2022-02-19 19:07:00 | esperance-bay       |      5 |        3 | Whim Creek         |   5.5  | looseknot           |
 |  40 | 4.0               | 2022-02-19 18:55:00 | ascot               |      6 |        6 | Tradem' In         |   4.8  | vulture             |
 |  41 | --                | 2022-02-19 18:40:00 | toowoomba           |      3 |        3 | Zaiteki            |   4.2  | overthrow           |
