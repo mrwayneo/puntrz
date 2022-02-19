@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 21:34:04 +1000  
+date: 2022-02-19 21:49:13 +1000  
 ---   
 
 
@@ -116,9 +116,9 @@ date: 2022-02-19 21:34:04 +1000
 |  32 | :soon:            | 2022-02-19 21:50:00 | turffontein         |      3 |        2 | Pottinger          |   0    | vulture             |
 |  33 | :soon:            | 2022-02-19 21:50:00 | turffontein         |      3 |        1 | Fire Lord          |   0    | vulture             |
 |  34 | :2nd_place_medal: | 2022-02-19 21:15:00 | turffontein         |      2 |        5 | Jaipur Jewel       |   0    | vulture             |
-|  35 | --                | 2022-02-19 20:30:00 | toowoomba           |      6 |        5 | Kirra Lass         |   9    | pangea,blackshadow  |
+|  35 | 4.0               | 2022-02-19 20:30:00 | toowoomba           |      6 |        5 | Kirra Lass         |   9    | pangea,blackshadow  |
 |  36 | --                | 2022-02-19 20:30:00 | toowoomba           |      6 |        4 | Bestie             |   7.5  | benny,pangea        |
-|  37 | --                | 2022-02-19 20:30:00 | toowoomba           |      6 |        2 | Fair Fella         |   2.9  | pangea              |
+|  37 | :3rd_place_medal: | 2022-02-19 20:30:00 | toowoomba           |      6 |        2 | Fair Fella         |   2.9  | pangea              |
 |  38 | :boom:            | 2022-02-19 19:30:00 | singapore           |     10 |        7 | Lim's Kosciuszko   |   0    | icyhot              |
 |  39 | :3rd_place_medal: | 2022-02-19 19:07:00 | esperance-bay       |      5 |        3 | Whim Creek         |   5.5  | looseknot           |
 |  40 | 4.0               | 2022-02-19 18:55:00 | ascot               |      6 |        6 | Tradem' In         |   4.8  | vulture             |
