@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 20:20:50 +1000  
+date: 2022-02-19 20:36:32 +1000  
 ---   
 
 
@@ -12,6 +12,7 @@ date: 2022-02-19 20:20:50 +1000
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      6 |      2 |       33 | 0.33 |  0.55 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     47 |      4 |      -20 | 0.09 | -0.04 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      3 |      0 |      -30 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
@@ -20,12 +21,11 @@ date: 2022-02-19 20:20:50 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      8 |      0 |      -80 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     11 |      0 |     -110 | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     47 |      3 |     -142 | 0.06 | -0.3  |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      1 |     -198 | 0.04 | -0.82 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     44 |      7 |     -239 | 0.16 | -0.54 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      0 |     -240 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     47 |      7 |     -311 | 0.15 | -0.66 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      8 |     -405 | 0.09 | -0.47 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    104 |      4 |     -623 | 0.04 | -0.6  |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    104 |      5 |     -501 | 0.05 | -0.48 |
 
 ##### Form Last 20 tips   
 
@@ -116,14 +116,14 @@ date: 2022-02-19 20:20:50 +1000
 |  32 | :soon:            | 2022-02-19 21:50:00 | turffontein         |      3 |        2 | Pottinger          |   0    | vulture             |
 |  33 | :soon:            | 2022-02-19 21:50:00 | turffontein         |      3 |        1 | Fire Lord          |   0    | vulture             |
 |  34 | :soon:            | 2022-02-19 21:15:00 | turffontein         |      2 |        5 | Jaipur Jewel       |   0    | vulture             |
-|  35 | :soon:            | 2022-02-19 20:30:00 | toowoomba           |      6 |        5 | Kirra Lass         |   9    | pangea,blackshadow  |
-|  36 | :soon:            | 2022-02-19 20:30:00 | toowoomba           |      6 |        4 | Bestie             |   7.5  | benny,pangea        |
-|  37 | :soon:            | 2022-02-19 20:30:00 | toowoomba           |      6 |        2 | Fair Fella         |   2.9  | pangea              |
+|  35 | --                | 2022-02-19 20:30:00 | toowoomba           |      6 |        5 | Kirra Lass         |   9    | pangea,blackshadow  |
+|  36 | --                | 2022-02-19 20:30:00 | toowoomba           |      6 |        4 | Bestie             |   7.5  | benny,pangea        |
+|  37 | --                | 2022-02-19 20:30:00 | toowoomba           |      6 |        2 | Fair Fella         |   2.9  | pangea              |
 |  38 | :boom:            | 2022-02-19 19:30:00 | singapore           |     10 |        7 | Lim's Kosciuszko   |   0    | icyhot              |
 |  39 | :3rd_place_medal: | 2022-02-19 19:07:00 | esperance-bay       |      5 |        3 | Whim Creek         |   5.5  | looseknot           |
 |  40 | 4.0               | 2022-02-19 18:55:00 | ascot               |      6 |        6 | Tradem' In         |   4.8  | vulture             |
-|  41 | --                | 2022-02-19 18:40:00 | toowoomba           |      3 |        3 | Zaiteki            |   4.2  | overthrow           |
-|  42 | --                | 2022-02-19 18:40:00 | toowoomba           |      3 |        5 | Wolff Boss         |   3.9  | benny,pangea        |
+|  41 | :boom:            | 2022-02-19 18:40:00 | toowoomba           |      3 |        3 | Zaiteki            |   4.2  | overthrow           |
+|  42 | 8.0               | 2022-02-19 18:40:00 | toowoomba           |      3 |        5 | Wolff Boss         |   3.9  | benny,pangea        |
 |  43 | --                | 2022-02-19 18:30:00 | singapore           |      8 |        4 | Ben Wade           |   0    | vulture             |
 |  44 | 9.0               | 2022-02-19 18:12:00 | sunshine-coast      |      9 |       11 | Zac Attack         |  11    | pangea              |
 |  45 | :3rd_place_medal: | 2022-02-19 18:12:00 | sunshine-coast      |      9 |        9 | Rock Amore         |   8    | cosmo,bluey         |
