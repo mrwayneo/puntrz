@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-19 13:30:11 +1000  
+date: 2022-02-19 13:45:08 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 15:45             | 2022-02-19 | flemington R6        | 1 Captivant          |  5    |    -10   |
 | 14:25             | 2022-02-19 | flemington R4        | 15 Zennzella         |  8    |    -10   |
 | 13:50             | 2022-02-19 | flemington R3        | 4 Modern Millie      | 10    |    -10   |
-| 0                 | 2022-02-19 | flemington R2        | 9 Loveplanet         |  0    |    -10   |
+| 9                 | 2022-02-19 | flemington R2        | 9 Loveplanet         |  8.5  |    -10   |
 | :boom:            | 2022-02-19 | flemington R1        | 5 Crystal Pegasus    |  2.2  |     12   |
 | :boom:            | 2022-02-18 | canterbury R4        | 10 Pretty Amazing    |  3.7  |     27   |
 | 4                 | 2022-02-18 | canterbury R2        | 1 Barrichello        |  4.2  |    -10   |
