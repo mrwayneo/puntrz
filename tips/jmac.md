@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-19 07:58:23 +1000  
+date: 2022-02-19 11:13:40 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,12 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 16:25             | 2022-02-19 | flemington R7        | 8 Home Affairs       |  5    |    -10   |
+| 15:45             | 2022-02-19 | flemington R6        | 1 Captivant          |  5    |    -10   |
+| 14:25             | 2022-02-19 | flemington R4        | 15 Zennzella         |  8    |    -10   |
+| 13:50             | 2022-02-19 | flemington R3        | 4 Modern Millie      | 10    |    -10   |
+| 13:15             | 2022-02-19 | flemington R2        | 9 Loveplanet         |  8.5  |    -10   |
+| 12:40             | 2022-02-19 | flemington R1        | 5 Crystal Pegasus    |  2.38 |    -10   |
 | :boom:            | 2022-02-18 | canterbury R4        | 10 Pretty Amazing    |  3.7  |     27   |
 | 4                 | 2022-02-18 | canterbury R2        | 1 Barrichello        |  4.2  |    -10   |
 | 6                 | 2022-02-16 | kensington R6        | 9 Laurelin           |  2.05 |    -10   |

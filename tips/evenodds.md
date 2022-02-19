@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2022-02-19 07:58:16 +1000  
+date: 2022-02-19 11:13:31 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,9 @@ categories: None
 
 | finish            | date       | event                  | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|-------:|---------:|
+| 00:30             | 2022-02-20 | haydock R2             | 1 Collingham          |  13    |    -10   |
+| 14:53             | 2022-02-19 | sunshine-coast R4      | 3 Naughty Harry       |   4.75 |    -10   |
+| 14:00             | 2022-02-19 | ellerslie R7           | 12 The Perfect Pink   |   3.25 |    -10   |
 | 0                 | 2022-02-19 | kelso R6               | 1 Monbeg Chit Chat    |   0    |    -10   |
 | :boom:            | 2022-02-19 | kelso R2               | 2 Grey Skies          |   1.85 |      8.5 |
 | 0                 | 2022-02-18 | leicester R6           | 2 Bingo Star          |   0    |    -10   |
