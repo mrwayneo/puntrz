@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-02-19 17:03:05 +1000  
+date: 2022-02-19 17:18:03 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
 | 18:12             | 2022-02-19 | sunshine-coast R9      | 9 Rock Amore          |   8   |      -10 |
-| 17:17             | 2022-02-19 | morphettville-parks R8 | 12 Lianne             |  21   |      -10 |
+| 0                 | 2022-02-19 | morphettville-parks R8 | 12 Lianne             |   0   |      -10 |
 | :3rd_place_medal: | 2022-02-19 | alice-springs R2       | 4 Austreet            |  11   |      -10 |
 | :boom:            | 2022-02-12 | caulfield R6           | 5 Earlswood           |  14.4 |      134 |
 | 12                | 2022-02-12 | caulfield R4           | 6 Satin Love          |  81   |      -10 |
