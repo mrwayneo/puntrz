@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 22:34:04 +1000  
+date: 2022-02-19 22:49:17 +1000  
 ---   
 
 
@@ -112,7 +112,7 @@ date: 2022-02-19 22:34:04 +1000
 |  28 | :soon:            | 2022-02-19 23:35:00 | turffontein         |      6 |        1 | Shining Armour     |   0    | milkman             |
 |  29 | :soon:            | 2022-02-19 23:00:00 | turffontein         |      5 |        2 | Florentine         |   0    | vulture             |
 |  30 | :soon:            | 2022-02-19 23:00:00 | turffontein         |      5 |        1 | Mckenna Skye       |   0    | vulture             |
-|  31 | --                | 2022-02-19 22:25:00 | turffontein         |      4 |        8 | Elusive Current    |   0    | vulture             |
+|  31 | :2nd_place_medal: | 2022-02-19 22:25:00 | turffontein         |      4 |        8 | Elusive Current    |   0    | vulture             |
 |  32 | :2nd_place_medal: | 2022-02-19 21:50:00 | turffontein         |      3 |        2 | Pottinger          |   0    | vulture             |
 |  33 | 4.0               | 2022-02-19 21:50:00 | turffontein         |      3 |        1 | Fire Lord          |   0    | vulture             |
 |  34 | :2nd_place_medal: | 2022-02-19 21:15:00 | turffontein         |      2 |        5 | Jaipur Jewel       |   0    | vulture             |
