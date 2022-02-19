@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-02-19 16:48:04 +1000  
+date: 2022-02-19 17:03:05 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 17:25             | 2022-02-19 | rosehill-gardens R9   | 3 Zeyrek              |   9.5  |    -10   |
-| 0                 | 2022-02-19 | rosehill-gardens R8   | 4 Hilal               |   0    |    -10   |
+| :2nd_place_medal: | 2022-02-19 | rosehill-gardens R8   | 4 Hilal               |  10    |    -10   |
 | 5                 | 2022-02-19 | rosehill-gardens R7   | 7 Parry Sound         |  13    |    -10   |
 | :2nd_place_medal: | 2022-02-19 | rosehill-gardens R6   | 9 Magic               |  31    |    -10   |
 | :boom:            | 2022-02-18 | canterbury R6         | 11 Bedtime Stories    |  14.6  |    136   |
