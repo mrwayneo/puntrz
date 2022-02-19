@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 21:01:27 +1000  
+date: 2022-02-19 21:19:18 +1000  
 ---   
 
 
@@ -115,7 +115,7 @@ date: 2022-02-19 21:01:27 +1000
 |  31 | :soon:            | 2022-02-19 22:25:00 | turffontein         |      4 |        8 | Elusive Current    |   0    | vulture             |
 |  32 | :soon:            | 2022-02-19 21:50:00 | turffontein         |      3 |        2 | Pottinger          |   0    | vulture             |
 |  33 | :soon:            | 2022-02-19 21:50:00 | turffontein         |      3 |        1 | Fire Lord          |   0    | vulture             |
-|  34 | :soon:            | 2022-02-19 21:15:00 | turffontein         |      2 |        5 | Jaipur Jewel       |   0    | vulture             |
+|  34 | --                | 2022-02-19 21:15:00 | turffontein         |      2 |        5 | Jaipur Jewel       |   0    | vulture             |
 |  35 | --                | 2022-02-19 20:30:00 | toowoomba           |      6 |        5 | Kirra Lass         |   9    | pangea,blackshadow  |
 |  36 | --                | 2022-02-19 20:30:00 | toowoomba           |      6 |        4 | Bestie             |   7.5  | benny,pangea        |
 |  37 | --                | 2022-02-19 20:30:00 | toowoomba           |      6 |        2 | Fair Fella         |   2.9  | pangea              |
