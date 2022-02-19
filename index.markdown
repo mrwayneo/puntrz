@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 13:13:09 +1000  
+date: 2022-02-19 13:30:13 +1000  
 ---   
 
 
@@ -190,10 +190,10 @@ date: 2022-02-19 13:13:09 +1000
 | 106 | :soon:            | 2022-02-19 13:50:00 | flemington          |      3 |        4 | Modern Millie      |  10    | jmac                |
 | 107 | :soon:            | 2022-02-19 13:50:00 | flemington          |      3 |        5 | Yonce              |   2.75 | vulture,milkman     |
 | 108 | :soon:            | 2022-02-19 13:42:00 | sunshine-coast      |      2 |        6 | Bella Royale       |   9.5  | pangea              |
-| 109 | :soon:            | 2022-02-19 13:15:00 | flemington          |      2 |        6 | Zachaz             |  17    | vulture,pangea      |
-| 110 | :soon:            | 2022-02-19 13:15:00 | flemington          |      2 |        2 | Zoltan             |  17    | vulture,blackshadow |
-| 111 | :soon:            | 2022-02-19 13:15:00 | flemington          |      2 |        9 | Loveplanet         |   8.5  | pangea,jmac         |
-| 112 | --                | 2022-02-19 13:11:00 | gosford             |      2 |        7 | Super Bright       |   2.1  | vulture,milkman     |
+| 109 | --                | 2022-02-19 13:15:00 | flemington          |      2 |        6 | Zachaz             |  17    | vulture,pangea      |
+| 110 | --                | 2022-02-19 13:15:00 | flemington          |      2 |        2 | Zoltan             |  17    | vulture,blackshadow |
+| 111 | --                | 2022-02-19 13:15:00 | flemington          |      2 |        9 | Loveplanet         |   8.5  | pangea,jmac         |
+| 112 | :2nd_place_medal: | 2022-02-19 13:11:00 | gosford             |      2 |        7 | Super Bright       |   2.1  | vulture,milkman     |
 | 113 | :boom:            | 2022-02-19 13:00:00 | rosehill-gardens    |      2 |        1 | Rule Of Law        |   1.91 | pangea              |
 | 114 | :2nd_place_medal: | 2022-02-19 12:40:00 | flemington          |      1 |        8 | Rousseau           |   7    | vulture,pangea      |
 | 115 | :boom:            | 2022-02-19 12:40:00 | flemington          |      1 |        5 | Crystal Pegasus    |   2.38 | vulture,jmac        |
