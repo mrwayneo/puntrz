@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 15:00:15 +1000  
+date: 2022-02-19 15:15:12 +1000  
 ---   
 
 
@@ -19,12 +19,12 @@ date: 2022-02-19 15:00:15 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      8 |      0 |      -80 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     11 |      0 |     -110 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      2 |     -146 | 0.1  | -0.73 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      2 |     -149 | 0.1  | -0.74 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      0 |     -240 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     44 |      3 |     -350 | 0.07 | -0.8  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     47 |      1 |     -373 | 0.02 | -0.79 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     47 |      3 |     -415 | 0.06 | -0.88 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      2 |     -822 | 0.02 | -0.96 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      4 |     -530 | 0.05 | -0.62 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    104 |      1 |     -943 | 0.01 | -0.91 |
 
 ##### Form Last 20 tips   
@@ -168,18 +168,18 @@ date: 2022-02-19 15:00:15 +1000
 |  84 | :soon:            | 2022-02-19 15:25:00 | rosehill-gardens    |      6 |        2 | Best Of Bordeaux   |   7    | milkman             |
 |  85 | :soon:            | 2022-02-19 15:25:00 | rosehill-gardens    |      6 |        9 | Magic              |  31    | pikey               |
 |  86 | :soon:            | 2022-02-19 15:25:00 | rosehill-gardens    |      6 |       15 | Cythera            |   8    | vulture,milkman     |
-|  87 | :soon:            | 2022-02-19 15:05:00 | flemington          |      5 |        4 | Socialist          |   3.7  | overthrow           |
-|  88 | :soon:            | 2022-02-19 15:05:00 | flemington          |      5 |        1 | Cardigan Queen     |   5.5  | vulture             |
-|  89 | :soon:            | 2022-02-19 15:05:00 | flemington          |      5 |        2 | Minouche           |   6.5  | vulture,milkman     |
-|  90 | --                | 2022-02-19 14:53:00 | sunshine-coast      |      4 |        3 | Naughty Harry      |   4.75 | evenodds,lago       |
+|  87 | 4.0               | 2022-02-19 15:05:00 | flemington          |      5 |        4 | Socialist          |   3.7  | overthrow           |
+|  88 | :2nd_place_medal: | 2022-02-19 15:05:00 | flemington          |      5 |        1 | Cardigan Queen     |   5.5  | vulture             |
+|  89 | --                | 2022-02-19 15:05:00 | flemington          |      5 |        2 | Minouche           |   6.5  | vulture,milkman     |
+|  90 | 11.0              | 2022-02-19 14:53:00 | sunshine-coast      |      4 |        3 | Naughty Harry      |   4.75 | evenodds,lago       |
 |  91 | :3rd_place_medal: | 2022-02-19 14:53:00 | sunshine-coast      |      4 |       10 | Canadian Dancer    |   3.6  | vulture             |
-|  92 | --                | 2022-02-19 14:45:00 | rosehill-gardens    |      5 |        7 | Minsk Moment       |   7.5  | milkman             |
+|  92 | 5.0               | 2022-02-19 14:45:00 | rosehill-gardens    |      5 |        7 | Minsk Moment       |   7.5  | milkman             |
 |  93 | 4.0               | 2022-02-19 14:45:00 | rosehill-gardens    |      5 |        6 | Able Willie        |   3.2  | vulture,wallbow     |
 |  94 | :boom:            | 2022-02-19 14:45:00 | rosehill-gardens    |      5 |        1 | Mazu               |   4.75 | vulture             |
-|  95 | --                | 2022-02-19 14:45:00 | rosehill-gardens    |      5 |        2 | Nasturtium         |   3.6  | vulture,pangea      |
+|  95 | 6.0               | 2022-02-19 14:45:00 | rosehill-gardens    |      5 |        2 | Nasturtium         |   3.6  | vulture,pangea      |
 |  96 | 9.0               | 2022-02-19 14:25:00 | flemington          |      4 |       15 | Zennzella          |   8    | jmac                |
 |  97 | :2nd_place_medal: | 2022-02-19 14:25:00 | flemington          |      4 |       12 | Waltz On By        |   5.5  | overthrow,looseknot |
-|  98 | --                | 2022-02-19 14:21:00 | gosford             |      4 |        1 | O'tartan Lass      |   8    | benny,pangea        |
+|  98 | :3rd_place_medal: | 2022-02-19 14:21:00 | gosford             |      4 |        1 | O'tartan Lass      |   8    | benny,pangea        |
 |  99 | :2nd_place_medal: | 2022-02-19 14:17:00 | sunshine-coast      |      3 |        7 | Takeittothelimit   |   7.5  | pangea              |
 | 100 | 7.0               | 2022-02-19 14:10:00 | rosehill-gardens    |      4 |        2 | Rocha Clock        |   5.5  | pangea              |
 | 101 | 4.0               | 2022-02-19 14:10:00 | rosehill-gardens    |      4 |        1 | Krone              |   5.5  | pangea,icyhot       |
