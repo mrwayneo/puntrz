@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-19 14:45:05 +1000  
+date: 2022-02-19 15:00:14 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 16:25             | 2022-02-19 | flemington R7        | 8 Home Affairs       |  5    |    -10   |
 | 15:45             | 2022-02-19 | flemington R6        | 1 Captivant          |  5    |    -10   |
-| 0                 | 2022-02-19 | flemington R4        | 15 Zennzella         |  0    |    -10   |
+| 9                 | 2022-02-19 | flemington R4        | 15 Zennzella         |  8    |    -10   |
 | 9                 | 2022-02-19 | flemington R3        | 4 Modern Millie      | 10    |    -10   |
 | 9                 | 2022-02-19 | flemington R2        | 9 Loveplanet         |  8.5  |    -10   |
 | :boom:            | 2022-02-19 | flemington R1        | 5 Crystal Pegasus    |  2.2  |     12   |
