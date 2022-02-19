@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 11:28:15 +1000  
+date: 2022-02-19 11:57:51 +1000  
 ---   
 
 
@@ -197,7 +197,7 @@ date: 2022-02-19 11:28:15 +1000
 | 113 | :soon:            | 2022-02-19 13:00:00 | rosehill-gardens    |      2 |        1 | Rule Of Law        |   1.91 | pangea              |
 | 114 | :soon:            | 2022-02-19 12:40:00 | flemington          |      1 |        8 | Rousseau           |   7    | vulture,pangea      |
 | 115 | :soon:            | 2022-02-19 12:40:00 | flemington          |      1 |        5 | Crystal Pegasus    |   2.38 | vulture,jmac        |
-| 116 | :soon:            | 2022-02-19 11:37:00 | ellerslie           |      3 |        6 | Riding The Wave    |   6    | looseknot           |
+| 116 | --                | 2022-02-19 11:37:00 | ellerslie           |      3 |        6 | Riding The Wave    |   6    | looseknot           |
 | 117 | :3rd_place_medal: | 2022-02-19 11:20:00 | ascot-park          |      3 |        1 | He's Got Power     |   7    | benny,pangea        |
 | 118 | --                | 2022-02-19 11:02:00 | ellerslie           |      2 |        2 | Quattro Quinta     |   4.75 | overthrow           |
 | 119 | --                | 2022-02-19 10:27:00 | ellerslie           |      1 |       11 | Molly Shaw         |  14    | overthrow           |
