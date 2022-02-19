@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 21:19:18 +1000  
+date: 2022-02-19 21:34:04 +1000  
 ---   
 
 
@@ -24,7 +24,7 @@ date: 2022-02-19 21:19:18 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      1 |     -198 | 0.04 | -0.82 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     44 |      7 |     -239 | 0.16 | -0.54 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     47 |      7 |     -311 | 0.15 | -0.66 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      8 |     -405 | 0.09 | -0.47 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      9 |     -369 | 0.1  | -0.43 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    104 |      5 |     -501 | 0.05 | -0.48 |
 
 ##### Form Last 20 tips   
@@ -115,7 +115,7 @@ date: 2022-02-19 21:19:18 +1000
 |  31 | :soon:            | 2022-02-19 22:25:00 | turffontein         |      4 |        8 | Elusive Current    |   0    | vulture             |
 |  32 | :soon:            | 2022-02-19 21:50:00 | turffontein         |      3 |        2 | Pottinger          |   0    | vulture             |
 |  33 | :soon:            | 2022-02-19 21:50:00 | turffontein         |      3 |        1 | Fire Lord          |   0    | vulture             |
-|  34 | --                | 2022-02-19 21:15:00 | turffontein         |      2 |        5 | Jaipur Jewel       |   0    | vulture             |
+|  34 | :2nd_place_medal: | 2022-02-19 21:15:00 | turffontein         |      2 |        5 | Jaipur Jewel       |   0    | vulture             |
 |  35 | --                | 2022-02-19 20:30:00 | toowoomba           |      6 |        5 | Kirra Lass         |   9    | pangea,blackshadow  |
 |  36 | --                | 2022-02-19 20:30:00 | toowoomba           |      6 |        4 | Bestie             |   7.5  | benny,pangea        |
 |  37 | --                | 2022-02-19 20:30:00 | toowoomba           |      6 |        2 | Fair Fella         |   2.9  | pangea              |
