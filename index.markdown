@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 15:45:13 +1000  
+date: 2022-02-19 16:10:22 +1000  
 ---   
 
 
@@ -24,7 +24,7 @@ date: 2022-02-19 15:45:13 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     44 |      3 |     -350 | 0.07 | -0.8  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     47 |      1 |     -373 | 0.02 | -0.79 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     47 |      3 |     -415 | 0.06 | -0.88 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      4 |     -530 | 0.05 | -0.62 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      6 |     -472 | 0.07 | -0.55 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    104 |      1 |     -943 | 0.01 | -0.91 |
 
 ##### Form Last 20 tips   
@@ -154,17 +154,17 @@ date: 2022-02-19 15:45:13 +1000
 |  70 | :soon:                   | 2022-02-19 16:25:00 | flemington          |      7 |        5 | The Inferno        |  26    | milkman             |
 |  71 | :soon:                   | 2022-02-19 16:17:00 | ascot               |      2 |        7 | Real Danger        |   5.5  | benny,blackshadow   |
 |  72 | :soon:                   | 2022-02-19 16:17:00 | ascot               |      2 |        6 | State Of Power     |   6    | benny,pangea        |
-|  73 | :soon:                   | 2022-02-19 16:13:00 | sunshine-coast      |      6 |        1 | Ef Troop           |   3.3  | vulture             |
-|  74 | :soon:                   | 2022-02-19 16:07:00 | alice-springs       |      1 |        4 | Meydan Lass        |   3.5  | vulture             |
-|  75 | :soon:                   | 2022-02-19 16:05:00 | rosehill-gardens    |      7 |        1 | Entente            |   7    | benny,pangea        |
-|  76 | :soon:                   | 2022-02-19 16:05:00 | rosehill-gardens    |      7 |        8 | Mightybeel         |   3.4  | pangea              |
-|  77 | :soon:                   | 2022-02-19 16:05:00 | rosehill-gardens    |      7 |        7 | Parry Sound        |  13    | pikey               |
-|  78 | :soon:                   | 2022-02-19 15:57:00 | morphettville-parks |      6 |        7 | Hills              |   3.6  | pangea              |
-|  79 | :soon:                   | 2022-02-19 15:54:00 | gold-coast          |      4 |        3 | Husson's Revenge   |   2.35 | overthrow           |
-|  80 | :hourglass_flowing_sand: | 2022-02-19 15:45:00 | flemington          |      6 |        1 | Captivant          |   5    | jmac                |
-|  81 | :hourglass_flowing_sand: | 2022-02-19 15:45:00 | flemington          |      6 |        3 | Lightsaber         |   4.8  | benny,icyhot        |
-|  82 | :hourglass_flowing_sand: | 2022-02-19 15:45:00 | flemington          |      6 |       11 | Pascero            |   6.5  | milkman             |
-|  83 | :hourglass_flowing_sand: | 2022-02-19 15:45:00 | flemington          |      6 |        4 | Zethus             |  14    | vulture             |
+|  73 | :hourglass_flowing_sand: | 2022-02-19 16:13:00 | sunshine-coast      |      6 |        1 | Ef Troop           |   3.3  | vulture             |
+|  74 | :hourglass_flowing_sand: | 2022-02-19 16:07:00 | alice-springs       |      1 |        4 | Meydan Lass        |   3.5  | vulture             |
+|  75 | --                       | 2022-02-19 16:05:00 | rosehill-gardens    |      7 |        1 | Entente            |   7    | benny,pangea        |
+|  76 | --                       | 2022-02-19 16:05:00 | rosehill-gardens    |      7 |        8 | Mightybeel         |   3.4  | pangea              |
+|  77 | --                       | 2022-02-19 16:05:00 | rosehill-gardens    |      7 |        7 | Parry Sound        |  13    | pikey               |
+|  78 | --                       | 2022-02-19 15:57:00 | morphettville-parks |      6 |        7 | Hills              |   3.6  | pangea              |
+|  79 | --                       | 2022-02-19 15:54:00 | gold-coast          |      4 |        3 | Husson's Revenge   |   2.35 | overthrow           |
+|  80 | :3rd_place_medal:        | 2022-02-19 15:45:00 | flemington          |      6 |        1 | Captivant          |   5    | jmac                |
+|  81 | --                       | 2022-02-19 15:45:00 | flemington          |      6 |        3 | Lightsaber         |   4.8  | benny,icyhot        |
+|  82 | :2nd_place_medal:        | 2022-02-19 15:45:00 | flemington          |      6 |       11 | Pascero            |   6.5  | milkman             |
+|  83 | 5.0                      | 2022-02-19 15:45:00 | flemington          |      6 |        4 | Zethus             |  14    | vulture             |
 |  84 | :boom:                   | 2022-02-19 15:25:00 | rosehill-gardens    |      6 |        2 | Best Of Bordeaux   |   7    | milkman             |
 |  85 | :2nd_place_medal:        | 2022-02-19 15:25:00 | rosehill-gardens    |      6 |        9 | Magic              |  31    | pikey               |
 |  86 | :3rd_place_medal:        | 2022-02-19 15:25:00 | rosehill-gardens    |      6 |       15 | Cythera            |   8    | vulture,milkman     |
