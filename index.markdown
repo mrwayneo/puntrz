@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 15:15:12 +1000  
+date: 2022-02-19 15:30:29 +1000  
 ---   
 
 
@@ -165,12 +165,12 @@ date: 2022-02-19 15:15:12 +1000
 |  81 | :soon:            | 2022-02-19 15:45:00 | flemington          |      6 |        3 | Lightsaber         |   4.8  | benny,icyhot        |
 |  82 | :soon:            | 2022-02-19 15:45:00 | flemington          |      6 |       11 | Pascero            |   6.5  | milkman             |
 |  83 | :soon:            | 2022-02-19 15:45:00 | flemington          |      6 |        4 | Zethus             |  14    | vulture             |
-|  84 | :soon:            | 2022-02-19 15:25:00 | rosehill-gardens    |      6 |        2 | Best Of Bordeaux   |   7    | milkman             |
-|  85 | :soon:            | 2022-02-19 15:25:00 | rosehill-gardens    |      6 |        9 | Magic              |  31    | pikey               |
-|  86 | :soon:            | 2022-02-19 15:25:00 | rosehill-gardens    |      6 |       15 | Cythera            |   8    | vulture,milkman     |
+|  84 | --                | 2022-02-19 15:25:00 | rosehill-gardens    |      6 |        2 | Best Of Bordeaux   |   7    | milkman             |
+|  85 | --                | 2022-02-19 15:25:00 | rosehill-gardens    |      6 |        9 | Magic              |  31    | pikey               |
+|  86 | --                | 2022-02-19 15:25:00 | rosehill-gardens    |      6 |       15 | Cythera            |   8    | vulture,milkman     |
 |  87 | 4.0               | 2022-02-19 15:05:00 | flemington          |      5 |        4 | Socialist          |   3.7  | overthrow           |
 |  88 | :2nd_place_medal: | 2022-02-19 15:05:00 | flemington          |      5 |        1 | Cardigan Queen     |   5.5  | vulture             |
-|  89 | --                | 2022-02-19 15:05:00 | flemington          |      5 |        2 | Minouche           |   6.5  | vulture,milkman     |
+|  89 | 5.0               | 2022-02-19 15:05:00 | flemington          |      5 |        2 | Minouche           |   6.5  | vulture,milkman     |
 |  90 | 11.0              | 2022-02-19 14:53:00 | sunshine-coast      |      4 |        3 | Naughty Harry      |   4.75 | evenodds,lago       |
 |  91 | :3rd_place_medal: | 2022-02-19 14:53:00 | sunshine-coast      |      4 |       10 | Canadian Dancer    |   3.6  | vulture             |
 |  92 | 5.0               | 2022-02-19 14:45:00 | rosehill-gardens    |      5 |        7 | Minsk Moment       |   7.5  | milkman             |
