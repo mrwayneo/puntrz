@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 17:33:13 +1000  
+date: 2022-02-19 18:10:42 +1000  
 ---   
 
 
@@ -20,12 +20,12 @@ date: 2022-02-19 17:33:13 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      8 |      0 |      -80 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     11 |      0 |     -110 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     44 |      7 |     -239 | 0.16 | -0.54 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      0 |     -240 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     44 |      6 |     -264 | 0.14 | -0.6  |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     47 |      2 |     -273 | 0.04 | -0.58 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     47 |      7 |     -311 | 0.15 | -0.66 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     47 |      1 |     -373 | 0.02 | -0.79 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      6 |     -475 | 0.07 | -0.55 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    104 |      2 |     -854 | 0.02 | -0.82 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      8 |     -401 | 0.09 | -0.47 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    104 |      3 |     -754 | 0.03 | -0.72 |
 
 ##### Form Last 20 tips   
 
@@ -127,15 +127,15 @@ date: 2022-02-19 17:33:13 +1000
 |  43 | :soon:            | 2022-02-19 18:30:00 | singapore           |      8 |        4 | Ben Wade           |   0    | vulture             |
 |  44 | :soon:            | 2022-02-19 18:12:00 | sunshine-coast      |      9 |       11 | Zac Attack         |  11    | pangea              |
 |  45 | :soon:            | 2022-02-19 18:12:00 | sunshine-coast      |      9 |        9 | Rock Amore         |   8    | cosmo,bluey         |
-|  46 | :soon:            | 2022-02-19 18:00:00 | rosehill-gardens    |     10 |        3 | Dajraan            |   2.38 | vulture,pangea      |
-|  47 | :soon:            | 2022-02-19 18:00:00 | rosehill-gardens    |     10 |       10 | Sindacato          |   4.8  | pangea,wallbow      |
-|  48 | :soon:            | 2022-02-19 17:36:00 | ascot               |      4 |        8 | My Baby Blue Jean  |   1.85 | milkman             |
+|  46 | :3rd_place_medal: | 2022-02-19 18:00:00 | rosehill-gardens    |     10 |        3 | Dajraan            |   2.38 | vulture,pangea      |
+|  47 | --                | 2022-02-19 18:00:00 | rosehill-gardens    |     10 |       10 | Sindacato          |   4.8  | pangea,wallbow      |
+|  48 | :3rd_place_medal: | 2022-02-19 17:36:00 | ascot               |      4 |        8 | My Baby Blue Jean  |   1.85 | milkman             |
 |  49 | 4.0               | 2022-02-19 17:25:00 | rosehill-gardens    |      9 |        3 | Zeyrek             |   9.5  | pikey               |
 |  50 | :2nd_place_medal: | 2022-02-19 17:19:00 | alice-springs       |      3 |        2 | Valley Prince      |   1.6  | benny,icyhot        |
 |  51 | :boom:            | 2022-02-19 17:17:00 | morphettville-parks |      8 |       10 | Night Passage      |   3.1  | vulture,pangea      |
 |  52 | --                | 2022-02-19 17:17:00 | morphettville-parks |      8 |       12 | Lianne             |  21    | cosmo,bluey         |
 |  53 | :2nd_place_medal: | 2022-02-19 17:17:00 | morphettville-parks |      8 |        4 | Royal Mile         |   6.5  | icyhot              |
-|  54 | --                | 2022-02-19 17:14:00 | gold-coast          |      6 |        1 | Zoumanji           |   2.4  | vulture             |
+|  54 | :boom:            | 2022-02-19 17:14:00 | gold-coast          |      6 |        1 | Zoumanji           |   2.4  | vulture             |
 |  55 | 5.0               | 2022-02-19 17:05:00 | flemington          |      8 |        1 | Elephant           |   6    | pangea,milkman      |
 |  56 | 4.0               | 2022-02-19 17:05:00 | flemington          |      8 |        5 | Groundswell        |   8.5  | pangea,blackshadow  |
 |  57 | 9.0               | 2022-02-19 17:05:00 | flemington          |      8 |        3 | Regalo Di Gaetano  |  34    | vulture             |
