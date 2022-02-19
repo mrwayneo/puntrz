@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 19:02:13 +1000  
+date: 2022-02-19 19:17:38 +1000  
 ---   
 
 
@@ -120,7 +120,7 @@ date: 2022-02-19 19:02:13 +1000
 |  36 | :soon:            | 2022-02-19 20:30:00 | toowoomba           |      6 |        4 | Bestie             |   7.5  | benny,pangea        |
 |  37 | :soon:            | 2022-02-19 20:30:00 | toowoomba           |      6 |        2 | Fair Fella         |   2.9  | pangea              |
 |  38 | :soon:            | 2022-02-19 19:30:00 | singapore           |     10 |        7 | Lim's Kosciuszko   |   0    | icyhot              |
-|  39 | :soon:            | 2022-02-19 19:07:00 | esperance-bay       |      5 |        3 | Whim Creek         |   5.5  | looseknot           |
+|  39 | :3rd_place_medal: | 2022-02-19 19:07:00 | esperance-bay       |      5 |        3 | Whim Creek         |   5.5  | looseknot           |
 |  40 | 4.0               | 2022-02-19 18:55:00 | ascot               |      6 |        6 | Tradem' In         |   4.8  | vulture             |
 |  41 | --                | 2022-02-19 18:40:00 | toowoomba           |      3 |        3 | Zaiteki            |   4.2  | overthrow           |
 |  42 | --                | 2022-02-19 18:40:00 | toowoomba           |      3 |        5 | Wolff Boss         |   3.9  | benny,pangea        |
