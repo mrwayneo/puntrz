@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-19 12:58:17 +1000  
+date: 2022-02-19 13:13:09 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-02-19 12:58:17 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      0 |     -200 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      0 |     -240 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     44 |      1 |     -418 | 0.02 | -0.95 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     47 |      1 |     -448 | 0.02 | -0.95 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     47 |      2 |     -427 | 0.04 | -0.91 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     47 |      0 |     -470 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     86 |      0 |     -860 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    104 |      0 |    -1040 | 0    | -1    |
@@ -193,8 +193,8 @@ date: 2022-02-19 12:58:17 +1000
 | 109 | :soon:            | 2022-02-19 13:15:00 | flemington          |      2 |        6 | Zachaz             |  17    | vulture,pangea      |
 | 110 | :soon:            | 2022-02-19 13:15:00 | flemington          |      2 |        2 | Zoltan             |  17    | vulture,blackshadow |
 | 111 | :soon:            | 2022-02-19 13:15:00 | flemington          |      2 |        9 | Loveplanet         |   8.5  | pangea,jmac         |
-| 112 | :soon:            | 2022-02-19 13:11:00 | gosford             |      2 |        7 | Super Bright       |   2.1  | vulture,milkman     |
-| 113 | :soon:            | 2022-02-19 13:00:00 | rosehill-gardens    |      2 |        1 | Rule Of Law        |   1.91 | pangea              |
+| 112 | --                | 2022-02-19 13:11:00 | gosford             |      2 |        7 | Super Bright       |   2.1  | vulture,milkman     |
+| 113 | :boom:            | 2022-02-19 13:00:00 | rosehill-gardens    |      2 |        1 | Rule Of Law        |   1.91 | pangea              |
 | 114 | :2nd_place_medal: | 2022-02-19 12:40:00 | flemington          |      1 |        8 | Rousseau           |   7    | vulture,pangea      |
 | 115 | :boom:            | 2022-02-19 12:40:00 | flemington          |      1 |        5 | Crystal Pegasus    |   2.38 | vulture,jmac        |
 | 116 | --                | 2022-02-19 11:37:00 | ellerslie           |      3 |        6 | Riding The Wave    |   6    | looseknot           |
