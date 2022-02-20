@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-20 18:05:30 +1000  
+date: 2022-02-20 18:20:18 +1000  
 ---   
 
 
@@ -94,7 +94,7 @@ date: 2022-02-20 18:05:30 +1000
 | 15 | :soon:            | 2022-02-20 19:15:00 | launceston   |      8 |        2 | Ubriaco            |   4.75 | vulture            |
 | 16 | :soon:            | 2022-02-20 18:40:00 | launceston   |      7 |        5 | Sh'bourne Rebel    |   5.5  | vulture            |
 | 17 | :soon:            | 2022-02-20 18:40:00 | launceston   |      7 |        4 | Sanction King      |   5.5  | pangea,overthrow   |
-| 18 | --                | 2022-02-20 18:00:00 | launceston   |      6 |        7 | Azara              |   4    | pangea,icyhot      |
+| 18 | :2nd_place_medal: | 2022-02-20 18:00:00 | launceston   |      6 |        7 | Azara              |   4    | pangea,icyhot      |
 | 19 | --                | 2022-02-20 18:00:00 | launceston   |      6 |        3 | Warrior Prince     |   7.5  | overthrow          |
 | 20 | 6.0               | 2022-02-20 17:50:00 | pinjarra     |      5 |        3 | Hole In One        |   3.1  | vulture            |
 | 21 | :2nd_place_medal: | 2022-02-20 17:41:00 | ipswich      |      6 |        9 | Mori's Press       |   2.4  | vulture            |
