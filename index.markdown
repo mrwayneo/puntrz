@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-20 19:05:08 +1000  
+date: 2022-02-20 19:20:15 +1000  
 ---   
 
 
@@ -10,12 +10,12 @@ date: 2022-02-20 19:05:08 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     10 |      2 |      -11 | 0.2  | -0.11 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     10 |      1 |      -63 | 0.1  | -0.63 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      0 |     -100 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     18 |      1 |     -129 | 0.06 | -0.72 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     14 |      0 |     -140 | 0    | -1    |
@@ -91,7 +91,7 @@ date: 2022-02-20 19:05:08 +1000
 | 12 | :soon:            | 2022-02-21 00:55:00 | newbury      |      1 |        7 | Kincardine         |   3    | overthrow          |
 | 13 | :soon:            | 2022-02-21 00:15:00 | scottsville  |      6 |       11 | Capoeira           |   0    | blackshadow        |
 | 14 | :soon:            | 2022-02-21 00:15:00 | scottsville  |      6 |        3 | Shampompo Shampizi |   0    | vulture            |
-| 15 | :soon:            | 2022-02-20 19:15:00 | launceston   |      8 |        2 | Ubriaco            |   4.75 | vulture            |
+| 15 | :boom:            | 2022-02-20 19:15:00 | launceston   |      8 |        2 | Ubriaco            |   4.75 | vulture            |
 | 16 | :boom:            | 2022-02-20 18:40:00 | launceston   |      7 |        5 | Sh'bourne Rebel    |   5.5  | vulture            |
 | 17 | 5.0               | 2022-02-20 18:40:00 | launceston   |      7 |        4 | Sanction King      |   5.5  | pangea,overthrow   |
 | 18 | :2nd_place_medal: | 2022-02-20 18:00:00 | launceston   |      6 |        7 | Azara              |   4    | pangea,icyhot      |
