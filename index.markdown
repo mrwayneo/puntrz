@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-20 18:35:13 +1000  
+date: 2022-02-20 18:50:10 +1000  
 ---   
 
 
@@ -15,7 +15,7 @@ date: 2022-02-20 18:35:13 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     10 |      0 |     -100 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     10 |      1 |      -63 | 0.1  | -0.63 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      0 |     -100 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     18 |      1 |     -129 | 0.06 | -0.72 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     14 |      0 |     -140 | 0    | -1    |
@@ -92,10 +92,10 @@ date: 2022-02-20 18:35:13 +1000
 | 13 | :soon:            | 2022-02-21 00:15:00 | scottsville  |      6 |       11 | Capoeira           |   0    | blackshadow        |
 | 14 | :soon:            | 2022-02-21 00:15:00 | scottsville  |      6 |        3 | Shampompo Shampizi |   0    | vulture            |
 | 15 | :soon:            | 2022-02-20 19:15:00 | launceston   |      8 |        2 | Ubriaco            |   4.75 | vulture            |
-| 16 | :soon:            | 2022-02-20 18:40:00 | launceston   |      7 |        5 | Sh'bourne Rebel    |   5.5  | vulture            |
-| 17 | :soon:            | 2022-02-20 18:40:00 | launceston   |      7 |        4 | Sanction King      |   5.5  | pangea,overthrow   |
+| 16 | :boom:            | 2022-02-20 18:40:00 | launceston   |      7 |        5 | Sh'bourne Rebel    |   5.5  | vulture            |
+| 17 | --                | 2022-02-20 18:40:00 | launceston   |      7 |        4 | Sanction King      |   5.5  | pangea,overthrow   |
 | 18 | :2nd_place_medal: | 2022-02-20 18:00:00 | launceston   |      6 |        7 | Azara              |   4    | pangea,icyhot      |
-| 19 | --                | 2022-02-20 18:00:00 | launceston   |      6 |        3 | Warrior Prince     |   7.5  | overthrow          |
+| 19 | 7.0               | 2022-02-20 18:00:00 | launceston   |      6 |        3 | Warrior Prince     |   7.5  | overthrow          |
 | 20 | 6.0               | 2022-02-20 17:50:00 | pinjarra     |      5 |        3 | Hole In One        |   3.1  | vulture            |
 | 21 | :2nd_place_medal: | 2022-02-20 17:41:00 | ipswich      |      6 |        9 | Mori's Press       |   2.4  | vulture            |
 | 22 | :boom:            | 2022-02-20 17:20:00 | launceston   |      5 |        3 | Bundle Of Fun      |   4.6  | overthrow          |
