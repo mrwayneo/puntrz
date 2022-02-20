@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-20 22:11:24 +1000  
+date: 2022-02-20 22:26:26 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-02-20 22:11:24 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     22 |      2 |       66 | 0.09 |  0.3  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     22 |      2 |       36 | 0.09 |  0.16 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     10 |      2 |      -11 | 0.2  | -0.11 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
