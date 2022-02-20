@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-20 16:50:06 +1000  
+date: 2022-02-20 17:05:24 +1000  
 ---   
 
 
@@ -100,8 +100,8 @@ date: 2022-02-20 16:50:06 +1000
 | 21 | :soon:            | 2022-02-20 17:41:00 | ipswich      |      6 |        9 | Mori's Press       |   2.4  | vulture            |
 | 22 | :soon:            | 2022-02-20 17:20:00 | launceston   |      5 |        3 | Bundle Of Fun      |   4.6  | overthrow          |
 | 23 | :soon:            | 2022-02-20 17:10:00 | port-lincoln |      7 |        3 | Leonarda           |   3.6  | vulture,pangea     |
-| 24 | :soon:            | 2022-02-20 17:00:00 | sha-tin      |      3 |        1 | Waikuku            |   2.15 | vulture            |
-| 25 | --                | 2022-02-20 16:29:00 | ipswich      |      4 |        2 | Maya Bay           |   2.38 | pangea             |
+| 24 | --                | 2022-02-20 17:00:00 | sha-tin      |      3 |        1 | Waikuku            |   2.15 | vulture            |
+| 25 | 6.0               | 2022-02-20 16:29:00 | ipswich      |      4 |        2 | Maya Bay           |   2.38 | pangea             |
 | 26 | 7.0               | 2022-02-20 16:25:00 | ballarat     |      7 |       12 | Perfect Darling    |   6    | vulture,pangea     |
 | 27 | 5.0               | 2022-02-20 16:15:00 | launceston   |      3 |        7 | Eighty Eight Days  |   4.33 | evenodds,overthrow |
 | 28 | :3rd_place_medal: | 2022-02-20 16:00:00 | pinjarra     |      2 |       13 | Arcadia Gem        |   7    | overthrow          |
