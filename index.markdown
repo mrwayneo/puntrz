@@ -1,11 +1,25 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-21 07:38:26 +1000  
+date: 2022-02-21 21:45:17 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      3 |      0 |      -30 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |      3 |      0 |      -30 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      5 |      0 |      -50 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      7 |      0 |      -70 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     14 |      0 |     -140 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,40 +73,22 @@ date: 2022-02-21 07:38:26 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6161 |    836 | -12487.2 | 0.14 | -0.2  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7961 |    375 | -23552   | 0.05 | -0.3  |
 
-|    | finish            | time                | track        |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:-------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | --                | 2022-02-21 04:15:00 | navan        |      8 |        9 | Klarc Kent         |  12    | overthrow          |
-|  1 | --                | 2022-02-21 04:00:00 | musselburgh  |      7 |        2 | Harel Du Marais    |   3.6  | looseknot          |
-|  2 | :3rd_place_medal: | 2022-02-21 04:00:00 | musselburgh  |      7 |        4 | Sweet Auburn       |   2.3  | pangea,milkman     |
-|  3 | 6.0               | 2022-02-21 03:50:00 | newbury      |      6 |       10 | Sandalwood         |   5.5  | overthrow          |
-|  4 | --                | 2022-02-21 03:15:00 | newbury      |      5 |        1 | Bothwell Bridge    |   3.9  | overthrow          |
-|  5 | --                | 2022-02-21 03:15:00 | newbury      |      5 |        3 | Storm Arising      |   8    | overthrow          |
-|  6 | --                | 2022-02-21 02:05:00 | newbury      |      3 |        7 | Son Of Camas       |  13    | overthrow          |
-|  7 | --                | 2022-02-21 01:55:00 | navan        |      4 |        9 | Nathaniel's Dream  |   4.5  | looseknot          |
-|  8 | 4.0               | 2022-02-21 01:45:00 | musselburgh  |      3 |        4 | River Walk         |   3    | overthrow,milkman  |
-|  9 | :2nd_place_medal: | 2022-02-21 01:30:00 | newbury      |      2 |        2 | Gran Luna          |   3.7  | overthrow,milkman  |
-| 10 | --                | 2022-02-21 01:20:00 | navan        |      3 |        5 | Thedevilscoachman  |   7.5  | milkman            |
-| 11 | --                | 2022-02-21 00:55:00 | newbury      |      1 |        6 | Horn Cape          |   8    | overthrow          |
-| 12 | :boom:            | 2022-02-21 00:55:00 | newbury      |      1 |        7 | Kincardine         |   3    | overthrow          |
-| 13 | --                | 2022-02-21 00:15:00 | scottsville  |      6 |       11 | Capoeira           |   0    | blackshadow        |
-| 14 | :boom:            | 2022-02-21 00:15:00 | scottsville  |      6 |        3 | Shampompo Shampizi |   0    | vulture            |
-| 15 | :boom:            | 2022-02-20 19:15:00 | launceston   |      8 |        2 | Ubriaco            |   4.75 | vulture            |
-| 16 | :boom:            | 2022-02-20 18:40:00 | launceston   |      7 |        5 | Sh'bourne Rebel    |   5.5  | vulture            |
-| 17 | 5.0               | 2022-02-20 18:40:00 | launceston   |      7 |        4 | Sanction King      |   5.5  | pangea,overthrow   |
-| 18 | :2nd_place_medal: | 2022-02-20 18:00:00 | launceston   |      6 |        7 | Azara              |   4    | pangea,icyhot      |
-| 19 | 7.0               | 2022-02-20 18:00:00 | launceston   |      6 |        3 | Warrior Prince     |   7.5  | overthrow          |
-| 20 | 6.0               | 2022-02-20 17:50:00 | pinjarra     |      5 |        3 | Hole In One        |   3.1  | vulture            |
-| 21 | :2nd_place_medal: | 2022-02-20 17:41:00 | ipswich      |      6 |        9 | Mori's Press       |   2.4  | vulture            |
-| 22 | :boom:            | 2022-02-20 17:20:00 | launceston   |      5 |        3 | Bundle Of Fun      |   4.6  | overthrow          |
-| 23 | 9.0               | 2022-02-20 17:10:00 | port-lincoln |      7 |        3 | Leonarda           |   3.6  | vulture,pangea     |
-| 24 | :3rd_place_medal: | 2022-02-20 17:00:00 | sha-tin      |      3 |        1 | Waikuku            |   2.15 | vulture            |
-| 25 | 6.0               | 2022-02-20 16:29:00 | ipswich      |      4 |        2 | Maya Bay           |   2.38 | pangea             |
-| 26 | 7.0               | 2022-02-20 16:25:00 | ballarat     |      7 |       12 | Perfect Darling    |   6    | vulture,pangea     |
-| 27 | 5.0               | 2022-02-20 16:15:00 | launceston   |      3 |        7 | Eighty Eight Days  |   4.33 | evenodds,overthrow |
-| 28 | :3rd_place_medal: | 2022-02-20 16:00:00 | pinjarra     |      2 |       13 | Arcadia Gem        |   7    | overthrow          |
-| 29 | :2nd_place_medal: | 2022-02-20 15:55:00 | port-lincoln |      5 |        2 | Irish Mint         |   2.88 | pangea,icyhot      |
-| 30 | 5.0               | 2022-02-20 15:45:00 | ballarat     |      6 |        1 | Bomber's Kiss      |  10    | looseknot          |
-| 31 | 4.0               | 2022-02-20 15:30:00 | moe          |      5 |        7 | Free Flying Star   |   2.3  | vulture            |
-| 32 | --                | 2022-02-20 15:27:00 | pinjarra     |      1 |        1 | Prince Ragnar      |   1.38 | overthrow          |
-| 33 | 8.0               | 2022-02-20 13:35:00 | taree        |      2 |        5 | Do As You're Told  |   5.5  | benny,milkman      |
-| 34 | 5.0               | 2022-02-20 13:30:00 | port-lincoln |      1 |        7 | Kova               |   3.4  | vulture            |
+|    | finish   | time                | track      |   race |   number | name               |   odds | tipster             |
+|---:|:---------|:--------------------|:-----------|-------:|---------:|:-------------------|-------:|:--------------------|
+|  0 | :soon:   | 2022-02-22 04:07:00 | carlisle   |      7 |        2 | Lady Bowes         |   6    | vulture             |
+|  1 | :soon:   | 2022-02-22 03:37:00 | carlisle   |      6 |        2 | The Con Man        |   7.5  | pangea,icyhot       |
+|  2 | :soon:   | 2022-02-22 03:37:00 | carlisle   |      6 |        3 | West To The Bridge |   2    | evenodds,overthrow  |
+|  3 | :soon:   | 2022-02-22 03:05:00 | carlisle   |      5 |        4 | Bavington Bob      |   2.8  | overthrow           |
+|  4 | :soon:   | 2022-02-22 02:10:00 | kenilworth |      8 |        4 | Double Charge      |   4.8  | vulture             |
+|  5 | :soon:   | 2022-02-22 01:35:00 | kenilworth |      7 |        3 | Let It Burn        |   4.8  | milkman             |
+|  6 | :soon:   | 2022-02-22 01:35:00 | kenilworth |      7 |        7 | Gentleman Joe      |   4.8  | vulture             |
+|  7 | :soon:   | 2022-02-22 01:25:00 | carlisle   |      2 |        3 | Silver Flyer       |   2.15 | evenodds,milkman    |
+|  8 | :soon:   | 2022-02-22 01:00:00 | kenilworth |      6 |        8 | Island Treasure    |   8    | milkman             |
+|  9 | :soon:   | 2022-02-22 00:50:00 | carlisle   |      1 |        5 | Heltenham          |   2.6  | overthrow           |
+| 10 | :soon:   | 2022-02-22 00:50:00 | carlisle   |      1 |        4 | Gold Emery         |   3.8  | overthrow           |
+| 11 | :soon:   | 2022-02-22 00:25:00 | kenilworth |      5 |        9 | Futurismo          |   3.7  | looseknot           |
+| 12 | :soon:   | 2022-02-21 22:05:00 | kenilworth |      1 |        3 | Mia Regina         |   5.5  | looseknot           |
+| 13 | 103.0    | 2022-02-21 15:40:00 | bathurst   |      4 |        2 | Highest Standard   |   8.5  | looseknot           |
+| 14 | 103.0    | 2022-02-21 15:05:00 | bathurst   |      3 |        1 | Shecago            |   5    | vulture             |
+| 15 | :soon:   | 2022-02-21 14:00:00 | terang     |      2 |        1 | Cartesan           |   5.5  | overthrow,looseknot |
+| 16 | :soon:   | 2022-02-21 14:00:00 | terang     |      2 |        5 | Anonymous Source   |   5.5  | looseknot           |
