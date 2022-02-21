@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-21 21:45:17 +1000  
+date: 2022-02-21 21:59:05 +1000  
 ---   
 
 
@@ -73,22 +73,22 @@ date: 2022-02-21 21:45:17 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6161 |    836 | -12487.2 | 0.14 | -0.2  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7961 |    375 | -23552   | 0.05 | -0.3  |
 
-|    | finish   | time                | track      |   race |   number | name               |   odds | tipster             |
-|---:|:---------|:--------------------|:-----------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | :soon:   | 2022-02-22 04:07:00 | carlisle   |      7 |        2 | Lady Bowes         |   6    | vulture             |
-|  1 | :soon:   | 2022-02-22 03:37:00 | carlisle   |      6 |        2 | The Con Man        |   7.5  | pangea,icyhot       |
-|  2 | :soon:   | 2022-02-22 03:37:00 | carlisle   |      6 |        3 | West To The Bridge |   2    | evenodds,overthrow  |
-|  3 | :soon:   | 2022-02-22 03:05:00 | carlisle   |      5 |        4 | Bavington Bob      |   2.8  | overthrow           |
-|  4 | :soon:   | 2022-02-22 02:10:00 | kenilworth |      8 |        4 | Double Charge      |   4.8  | vulture             |
-|  5 | :soon:   | 2022-02-22 01:35:00 | kenilworth |      7 |        3 | Let It Burn        |   4.8  | milkman             |
-|  6 | :soon:   | 2022-02-22 01:35:00 | kenilworth |      7 |        7 | Gentleman Joe      |   4.8  | vulture             |
-|  7 | :soon:   | 2022-02-22 01:25:00 | carlisle   |      2 |        3 | Silver Flyer       |   2.15 | evenodds,milkman    |
-|  8 | :soon:   | 2022-02-22 01:00:00 | kenilworth |      6 |        8 | Island Treasure    |   8    | milkman             |
-|  9 | :soon:   | 2022-02-22 00:50:00 | carlisle   |      1 |        5 | Heltenham          |   2.6  | overthrow           |
-| 10 | :soon:   | 2022-02-22 00:50:00 | carlisle   |      1 |        4 | Gold Emery         |   3.8  | overthrow           |
-| 11 | :soon:   | 2022-02-22 00:25:00 | kenilworth |      5 |        9 | Futurismo          |   3.7  | looseknot           |
-| 12 | :soon:   | 2022-02-21 22:05:00 | kenilworth |      1 |        3 | Mia Regina         |   5.5  | looseknot           |
-| 13 | 103.0    | 2022-02-21 15:40:00 | bathurst   |      4 |        2 | Highest Standard   |   8.5  | looseknot           |
-| 14 | 103.0    | 2022-02-21 15:05:00 | bathurst   |      3 |        1 | Shecago            |   5    | vulture             |
-| 15 | :soon:   | 2022-02-21 14:00:00 | terang     |      2 |        1 | Cartesan           |   5.5  | overthrow,looseknot |
-| 16 | :soon:   | 2022-02-21 14:00:00 | terang     |      2 |        5 | Anonymous Source   |   5.5  | looseknot           |
+|    | finish            | time                | track      |   race |   number | name               |   odds | tipster             |
+|---:|:------------------|:--------------------|:-----------|-------:|---------:|:-------------------|-------:|:--------------------|
+|  0 | :soon:            | 2022-02-22 04:07:00 | carlisle   |      7 |        2 | Lady Bowes         |   6    | vulture             |
+|  1 | :soon:            | 2022-02-22 03:37:00 | carlisle   |      6 |        2 | The Con Man        |   7.5  | pangea,icyhot       |
+|  2 | :soon:            | 2022-02-22 03:37:00 | carlisle   |      6 |        3 | West To The Bridge |   2    | evenodds,overthrow  |
+|  3 | :soon:            | 2022-02-22 03:05:00 | carlisle   |      5 |        4 | Bavington Bob      |   2.8  | overthrow           |
+|  4 | :soon:            | 2022-02-22 02:10:00 | kenilworth |      8 |        4 | Double Charge      |   4.8  | vulture             |
+|  5 | :soon:            | 2022-02-22 01:35:00 | kenilworth |      7 |        3 | Let It Burn        |   4.8  | milkman             |
+|  6 | :soon:            | 2022-02-22 01:35:00 | kenilworth |      7 |        7 | Gentleman Joe      |   4.8  | vulture             |
+|  7 | :soon:            | 2022-02-22 01:25:00 | carlisle   |      2 |        3 | Silver Flyer       |   2.15 | evenodds,milkman    |
+|  8 | :soon:            | 2022-02-22 01:00:00 | kenilworth |      6 |        8 | Island Treasure    |   8    | milkman             |
+|  9 | :soon:            | 2022-02-22 00:50:00 | carlisle   |      1 |        5 | Heltenham          |   2.6  | overthrow           |
+| 10 | :soon:            | 2022-02-22 00:50:00 | carlisle   |      1 |        4 | Gold Emery         |   3.8  | overthrow           |
+| 11 | :soon:            | 2022-02-22 00:25:00 | kenilworth |      5 |        9 | Futurismo          |   3.7  | looseknot           |
+| 12 | :soon:            | 2022-02-21 22:05:00 | kenilworth |      1 |        3 | Mia Regina         |   5.5  | looseknot           |
+| 13 | 103.0             | 2022-02-21 15:40:00 | bathurst   |      4 |        2 | Highest Standard   |   8.5  | looseknot           |
+| 14 | 103.0             | 2022-02-21 15:05:00 | bathurst   |      3 |        1 | Shecago            |   5    | vulture             |
+| 15 | :3rd_place_medal: | 2022-02-21 14:00:00 | terang     |      2 |        1 | Cartesan           |   5.5  | overthrow,looseknot |
+| 16 | 6.0               | 2022-02-21 14:00:00 | terang     |      2 |        5 | Anonymous Source   |   5.5  | looseknot           |
