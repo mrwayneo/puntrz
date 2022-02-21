@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-02-21 23:22:23 +1000  
+date: 2022-02-22 07:22:16 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |     12 |      1 |   -106   | 0.08 | -0.88 |
-| Last 28 Days   |     38 |      7 |   -267   | 0.18 | -0.7  |
-| Last 6 Months  |    228 |     70 |   -518.6 | 0.31 | -0.23 |
-| Since Jan 2020 |    554 |    180 |   -582.8 | 0.32 | -0.11 |
+| Last 28 Days   |     39 |      7 |   -277   | 0.18 | -0.71 |
+| Last 6 Months  |    229 |     70 |   -528.6 | 0.31 | -0.23 |
+| Since Jan 2020 |    555 |    180 |   -592.8 | 0.32 | -0.11 |
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
-| 03:37             | 2022-02-22 | carlisle R6             | 2 The Con Man         |  7.5  |    -10   |
+| 4                 | 2022-02-22 | carlisle R6             | 2 The Con Man         |  7.5  |    -10   |
 | :2nd_place_medal: | 2022-02-20 | launceston R6           | 7 Azara               |  4    |    -10   |
 | :2nd_place_medal: | 2022-02-20 | port-lincoln R5         | 2 Irish Mint          |  2.88 |    -10   |
 | :boom:            | 2022-02-19 | singapore R10           | 7 Lim's Kosciuszko    |  1.4  |      4   |
@@ -132,8 +132,8 @@ categories: None
 | :boom:            | 2021-11-21 | alice-springs R5        | 1 Bench Press         |  1.6  |      6   |
 | :3rd_place_medal: | 2021-11-21 | alice-springs R2        | 2 Valley Prince       |  2.9  |    -10   |
 | 4                 | 2021-11-20 | ascot R4                | 2 Ginger Flyer        |  7    |    -10   |
-| :boom:            | 2021-11-20 | sunshine-coast R7       | 2 Zoustyle            |  2.1  |     11   |
 | :2nd_place_medal: | 2021-11-20 | sunshine-coast R7       | 7 Totally Charmed     | 14    |    -10   |
+| :boom:            | 2021-11-20 | sunshine-coast R7       | 2 Zoustyle            |  2.1  |     11   |
 | :3rd_place_medal: | 2021-11-20 | sunshine-coast R6       | 12 Muschialli         |  8.5  |    -10   |
 | :boom:            | 2021-11-20 | roma R4                 | 2 Patented            |  2.6  |     16   |
 | :3rd_place_medal: | 2021-11-18 | rockhampton R5          | 2 Bluindi             |  2.7  |    -10   |
@@ -403,8 +403,8 @@ categories: None
 | :boom:            | 2021-03-30 | mackay R4               | 5 Nailed It Nan       |  2.3  |     13   |
 | :2nd_place_medal: | 2021-03-30 | ipswich R1              | 3 Le Rubis            |  9    |    -10   |
 | :boom:            | 2021-03-28 | sha-tin R3              | 5 Winner Method       |  1.35 |      3.5 |
-| :boom:            | 2021-03-28 | kempton R3              | 1 Al Zaraqaan         |  2.05 |     10.5 |
 | :2nd_place_medal: | 2021-03-28 | kempton R3              | 5 Almighwar           |  4.6  |    -10   |
+| :boom:            | 2021-03-28 | kempton R3              | 1 Al Zaraqaan         |  2.05 |     10.5 |
 | 99                | 2021-03-28 | kempton R2              | 1 Faylaq              |  3.8  |    -10   |
 | 8                 | 2021-03-27 | toowoomba R6            | 6 Boom Ranga          |  4.4  |    -10   |
 | :boom:            | 2021-03-27 | ascot R9                | 11 Miss Conteki       |  1.6  |      6   |
@@ -412,8 +412,8 @@ categories: None
 | :boom:            | 2021-03-21 | sha-tin R9              | 4 Fantastic Way       |  1.9  |      9   |
 | :boom:            | 2021-03-21 | sha-tin R7              | 8 Courier Wonder      |  1.15 |      1.5 |
 | :boom:            | 2021-03-19 | moonee-valley R8        | 9 Marabi              |  1.2  |      2   |
-| 8                 | 2021-03-19 | moonee-valley R7        | 14 Swats That         |  9    |    -10   |
 | 12                | 2021-03-19 | moonee-valley R7        | 1 Hey Doc             |  8.5  |    -10   |
+| 8                 | 2021-03-19 | moonee-valley R7        | 14 Swats That         |  9    |    -10   |
 | 5                 | 2021-03-17 | doomben R4              | 4 Gunnobe             |  2.7  |    -10   |
 | :boom:            | 2021-03-17 | cheltenham R4           | 10 Honeysuckle        |  2.2  |     12   |
 | :2nd_place_medal: | 2021-03-14 | hereford R4             | 4 Hollywoodien        |  5.5  |    -10   |
@@ -580,8 +580,8 @@ categories: None
 | 6                 | 2020-01-25 | gawler R2               | 4 Rose Tiara          | 18.2  |    -10   |
 | :2nd_place_medal: | 2020-01-25 | sunshine-coast R1       | 3 Ruby Guru           |  3.8  |    -10   |
 | :boom:            | 2020-01-22 | canterbury R5           | 2 Knowitall Jack      |  3.6  |     26   |
-| :3rd_place_medal: | 2020-01-22 | rockhampton R2          | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 5                 | 2020-01-22 | rockhampton R2          | 6 Ladyada             |  4.8  |    -10   |
+| :3rd_place_medal: | 2020-01-22 | rockhampton R2          | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 6                 | 2020-01-11 | pinjarra R8             | 11 Midnight Sky       |  6.5  |    -10   |
 | :boom:            | 2020-01-11 | pinjarra R6             | 12 Put A Spell On You |  5    |     40   |
 | :3rd_place_medal: | 2020-01-11 | kembla-grange R6        | 4 Superbowl Sunday    |  2.15 |    -10   |
