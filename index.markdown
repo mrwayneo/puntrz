@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-21 22:13:47 +1000  
+date: 2022-02-21 22:29:14 +1000  
 ---   
 
 
@@ -87,7 +87,7 @@ date: 2022-02-21 22:13:47 +1000
 |  9 | :soon:            | 2022-02-22 00:50:00 | carlisle   |      1 |        5 | Heltenham          |   2.6  | overthrow           |
 | 10 | :soon:            | 2022-02-22 00:50:00 | carlisle   |      1 |        4 | Gold Emery         |   3.8  | overthrow           |
 | 11 | :soon:            | 2022-02-22 00:25:00 | kenilworth |      5 |        9 | Futurismo          |   3.7  | looseknot           |
-| 12 | --                | 2022-02-21 22:05:00 | kenilworth |      1 |        3 | Mia Regina         |   5.5  | looseknot           |
+| 12 | 4.0               | 2022-02-21 22:05:00 | kenilworth |      1 |        3 | Mia Regina         |   5.5  | looseknot           |
 | 13 | 103.0             | 2022-02-21 15:40:00 | bathurst   |      4 |        2 | Highest Standard   |   8.5  | looseknot           |
 | 14 | 103.0             | 2022-02-21 15:05:00 | bathurst   |      3 |        1 | Shecago            |   5    | vulture             |
 | 15 | :3rd_place_medal: | 2022-02-21 14:00:00 | terang     |      2 |        1 | Cartesan           |   5.5  | overthrow,looseknot |
