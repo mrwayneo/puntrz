@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-02-22 07:22:28 +1000  
+date: 2022-02-23 08:22:45 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,16 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      7 |      1 |       76 | 0.14 |  1.09 |
-| Last 28 Days   |     31 |      2 |     -164 | 0.06 | -0.53 |
+| Last 28 Days   |     25 |      2 |     -104 | 0.08 | -0.42 |
 | Last 6 Months  |    435 |    124 |     -647 | 0.29 | -0.15 |
 | Since Jan 2020 |    996 |    255 |    -1604 | 0.26 | -0.16 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 16:40             | 2022-02-23 | gosford R6            | 1 Off Shaw            |   8    |    -10   |
+| 15:30             | 2022-02-23 | gosford R4            | 6 Roccaforte          |  10    |    -10   |
+| 14:20             | 2022-02-23 | gosford R2            | 9 Mrs Patmore         |   6.5  |    -10   |
+| 13:45             | 2022-02-23 | gosford R1            | 1 Californiasilencer  |   3.25 |    -10   |
 | 4                 | 2022-02-19 | rosehill-gardens R9   | 3 Zeyrek              |   9.5  |    -10   |
 | :2nd_place_medal: | 2022-02-19 | rosehill-gardens R8   | 4 Hilal               |  10    |    -10   |
 | 5                 | 2022-02-19 | rosehill-gardens R7   | 7 Parry Sound         |  13    |    -10   |

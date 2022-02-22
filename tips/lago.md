@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-02-22 07:22:28 +1000  
+date: 2022-02-23 08:22:45 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |     20 |      6 |   -118.2 | 0.3  | -0.59 |
+| Last 28 Days   |     19 |      6 |   -108.2 | 0.32 | -0.57 |
 | Last 6 Months  |    116 |     65 |    528.9 | 0.56 |  0.46 |
 | Since Jan 2020 |    212 |    105 |   1354.2 | 0.5  |  0.64 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 17:54             | 2022-02-23 | ascot R1               | 4 Rokanori           |  2.3  |    -10   |
 | 11                | 2022-02-19 | sunshine-coast R4      | 3 Naughty Harry      |  4.75 |    -10   |
 | 0                 | 2022-02-13 | newbury R7             | 1 Timeforatune       |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-12 | ascot R7               | 8 Secret Deploy      |  2.9  |    -10   |
@@ -83,8 +84,8 @@ categories: None
 | :boom:            | 2021-11-09 | huntingdon R1          | 7 Theatre Glory      |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3          | 3 Yes Dream          |  1.6  |      6   |
 | :boom:            | 2021-11-09 | kempton R3             | 3 Doddiethegreat     |  1.33 |      3.3 |
-| :boom:            | 2021-11-07 | sunshine-coast R5      | 5 Gypsy Goddess      |  3.5  |     25   |
 | :3rd_place_medal: | 2021-11-07 | sunshine-coast R5      | 2 Ma Ma's Rose       |  3.8  |    -10   |
+| :boom:            | 2021-11-07 | sunshine-coast R5      | 5 Gypsy Goddess      |  3.5  |     25   |
 | :boom:            | 2021-11-07 | wincanton R2           | 1 Knappers Hill      |  1.1  |      1   |
 | 0                 | 2021-11-05 | warwick R1             | 6 In This World      |  0    |    -10   |
 | 99                | 2021-11-03 | exeter R2              | 5 Huflower           |  0    |    -10   |
@@ -179,8 +180,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-03 | awapuni R7             | 4 I Wish I Win       |  3.3  |    -10   |
 | :2nd_place_medal: | 2021-03-31 | doomben R7             | 7 Roman Republic     |  1.9  |    -10   |
 | :boom:            | 2021-03-29 | limerick R8            | 10 Belle Metal       |  1.68 |      6.8 |
-| :boom:            | 2021-03-28 | newbury R7             | 6 Jonbon             |  1.9  |      9   |
 | 99                | 2021-03-28 | newbury R7             | 2 Petrossian         |  3.9  |    -10   |
+| :boom:            | 2021-03-28 | newbury R7             | 6 Jonbon             |  1.9  |      9   |
 | :boom:            | 2021-03-24 | launceston R5          | 6 Azara              |  2.4  |     14   |
 | 99                | 2021-03-22 | chepstow R7            | 2 Gold Bullion       |  2.9  |    -10   |
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1          | 2 Haut En Couleurs   | 23    |    -10   |

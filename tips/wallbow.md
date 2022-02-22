@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-02-22 07:22:16 +1000  
+date: 2022-02-23 08:22:39 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,14 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      4 |      0 |      -40 | 0    | -1    |
-| Last 28 Days   |     11 |      1 |     -110 | 0.09 | -1    |
+| Last 28 Days   |      9 |      1 |      -90 | 0.11 | -1    |
 | Last 6 Months  |     62 |      8 |     -418 | 0.13 | -0.67 |
 | Since Jan 2020 |    142 |     21 |       56 | 0.15 |  0.04 |
 
 | finish            | date       | event                | runner             |   win |   return |
 |:------------------|:-----------|:---------------------|:-------------------|------:|---------:|
+| 15:30             | 2022-02-23 | gosford R4           | 4 Endorsement      |  2.62 |      -10 |
+| 14:55             | 2022-02-23 | gosford R3           | 2 Inuwashi         |  4.2  |      -10 |
 | 0                 | 2022-02-19 | rosehill-gardens R10 | 10 Sindacato       |  0    |      -10 |
 | 4                 | 2022-02-19 | rosehill-gardens R5  | 6 Able Willie      |  3.2  |      -10 |
 | :2nd_place_medal: | 2022-02-18 | canterbury R5        | 8 Gracilistyla     |  5    |      -10 |

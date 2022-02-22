@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-22 07:22:28 +1000  
+date: 2022-02-23 08:22:44 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,16 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      8 |      3 |     50   | 0.38 |  0.62 |
-| Last 28 Days   |     51 |     12 |   -197   | 0.24 | -0.39 |
+| Last 28 Days   |     47 |     11 |   -173   | 0.23 | -0.37 |
 | Last 6 Months  |    304 |     79 |     42.5 | 0.26 |  0.01 |
 | Since Jan 2020 |    663 |    166 |   -313.5 | 0.25 | -0.05 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 16:40             | 2022-02-23 | gosford R6           | 7 Azarmin            |  7.5  |    -10   |
+| 14:55             | 2022-02-23 | gosford R3           | 6 Scat's Surfer Girl |  4.6  |    -10   |
+| 14:20             | 2022-02-23 | gosford R2           | 7 Birdonawing        |  9    |    -10   |
+| 13:45             | 2022-02-23 | gosford R1           | 5 Peindre            |  4.5  |    -10   |
 | :boom:            | 2022-02-19 | flemington R7        | 8 Home Affairs       |  7.1  |     61   |
 | :3rd_place_medal: | 2022-02-19 | flemington R6        | 1 Captivant          |  5    |    -10   |
 | 9                 | 2022-02-19 | flemington R4        | 15 Zennzella         |  8    |    -10   |
