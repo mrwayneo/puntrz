@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-23 14:34:48 +1000  
+date: 2022-02-23 14:49:52 +1000  
 ---   
 
 
@@ -124,7 +124,7 @@ date: 2022-02-23 14:34:48 +1000
 | 40 | :soon:   | 2022-02-23 14:55:00 | gosford                   |      3 |        2 | Inuwashi           |   4.2  | vulture,wallbow    |
 | 41 | :soon:   | 2022-02-23 14:55:00 | gosford                   |      3 |        6 | Scat's Surfer Girl |   4.6  | jmac               |
 | 42 | :soon:   | 2022-02-23 14:55:00 | gosford                   |      3 |        1 | Galifianakis       |   6    | vulture            |
-| 43 | :soon:   | 2022-02-23 14:38:00 | sunshine-coast-poly-track |      1 |        4 | Canny Be Better    |   7.5  | looseknot          |
+| 43 | --       | 2022-02-23 14:38:00 | sunshine-coast-poly-track |      1 |        4 | Canny Be Better    |   7.5  | looseknot          |
 | 44 | --       | 2022-02-23 14:20:00 | gosford                   |      2 |        7 | Birdonawing        |   9    | jmac               |
 | 45 | --       | 2022-02-23 14:20:00 | gosford                   |      2 |        9 | Mrs Patmore        |   6.5  | pikey              |
 | 46 | --       | 2022-02-23 13:45:00 | gosford                   |      1 |        5 | Peindre            |   4.5  | jmac               |
