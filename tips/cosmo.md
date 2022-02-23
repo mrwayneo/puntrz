@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-02-24 07:20:11 +1000  
+date: 2022-02-24 07:35:26 +1000  
 categories: None 
 ---   
 
@@ -15,9 +15,9 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:30             | 2022-02-24 | kempton R7                    | 8 Pure Bubbles        |  11    |      -10 |
-| 07:30             | 2022-02-24 | kempton R7                    | 6 Sage Advice         |  10    |      -10 |
-| 07:30             | 2022-02-24 | kempton R7                    | 5 All Yours           |  31    |      -10 |
+| 0                 | 2022-02-24 | kempton R7                    | 8 Pure Bubbles        |   0    |      -10 |
+| 0                 | 2022-02-24 | kempton R7                    | 6 Sage Advice         |   0    |      -10 |
+| 0                 | 2022-02-24 | kempton R7                    | 5 All Yours           |   0    |      -10 |
 | 0                 | 2022-02-24 | kempton R6                    | 7 Satanic Moon        |   0    |      -10 |
 | 12                | 2022-02-23 | ascot R6                      | 8 She's Got Merit     |  18    |      -10 |
 | 7                 | 2022-02-23 | sandown-hillside R8           | 8 Mister Yu Shu       |  16    |      -10 |

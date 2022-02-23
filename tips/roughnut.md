@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-02-24 07:20:14 +1000  
+date: 2022-02-24 07:35:29 +1000  
 categories: None 
 ---   
 
@@ -15,9 +15,9 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:30             | 2022-02-24 | kempton R7                    | 6 Sage Advice         |  10    |    -10   |
-| 07:30             | 2022-02-24 | kempton R7                    | 5 All Yours           |  31    |    -10   |
-| 07:30             | 2022-02-24 | kempton R7                    | 8 Pure Bubbles        |  11    |    -10   |
+| 0                 | 2022-02-24 | kempton R7                    | 6 Sage Advice         |   0    |    -10   |
+| 0                 | 2022-02-24 | kempton R7                    | 5 All Yours           |   0    |    -10   |
+| 0                 | 2022-02-24 | kempton R7                    | 8 Pure Bubbles        |   0    |    -10   |
 | 0                 | 2022-02-24 | kempton R6                    | 6 Mohassana           |   0    |    -10   |
 | 0                 | 2022-02-24 | kempton R6                    | 7 Satanic Moon        |   0    |    -10   |
 | 0                 | 2022-02-24 | punchestown R7                | 16 The Dreams Alive   |   0    |    -10   |
