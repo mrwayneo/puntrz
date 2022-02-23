@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-23 16:28:32 +1000  
+date: 2022-02-23 16:53:14 +1000  
 ---   
 
 
@@ -24,7 +24,7 @@ date: 2022-02-23 16:28:32 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     13 |      0 |     -130 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      1 |     -180 | 0.05 | -0.82 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      0 |     -380 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      1 |     -337 | 0.03 | -0.89 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     55 |      2 |     -481 | 0.04 | -0.87 |
 
 ##### Form Last 20 tips   
@@ -110,17 +110,17 @@ date: 2022-02-23 16:28:32 +1000
 | 26 | :soon:            | 2022-02-23 17:54:00 | ascot                     |      1 |        1 | Celevacci          |   4.33 | pangea             |
 | 27 | :soon:            | 2022-02-23 17:45:00 | launceston                |      9 |        6 | Balearic           |  26    | pangea             |
 | 28 | :soon:            | 2022-02-23 17:10:00 | launceston                |      8 |        2 | In a Twinkling     |   4    | vulture            |
-| 29 | :soon:            | 2022-02-23 16:50:00 | sandown-hillside          |      3 |        9 | Spirit Of Gold     |   3.25 | overthrow          |
-| 30 | :soon:            | 2022-02-23 16:40:00 | gosford                   |      6 |        7 | Azarmin            |   7.5  | jmac               |
-| 31 | :soon:            | 2022-02-23 16:40:00 | gosford                   |      6 |        1 | Off Shaw           |   8    | pikey              |
-| 32 | :soon:            | 2022-02-23 16:35:00 | launceston                |      7 |        4 | Take The Sit       |   8    | pangea,blackshadow |
-| 33 | :soon:            | 2022-02-23 16:35:00 | launceston                |      7 |        6 | Boom Dot Com       |   8.5  | benny,pangea       |
+| 29 | --                | 2022-02-23 16:50:00 | sandown-hillside          |      3 |        9 | Spirit Of Gold     |   3.25 | overthrow          |
+| 30 | --                | 2022-02-23 16:40:00 | gosford                   |      6 |        7 | Azarmin            |   7.5  | jmac               |
+| 31 | --                | 2022-02-23 16:40:00 | gosford                   |      6 |        1 | Off Shaw           |   8    | pikey              |
+| 32 | --                | 2022-02-23 16:35:00 | launceston                |      7 |        4 | Take The Sit       |   8    | pangea,blackshadow |
+| 33 | --                | 2022-02-23 16:35:00 | launceston                |      7 |        6 | Boom Dot Com       |   8.5  | benny,pangea       |
 | 34 | --                | 2022-02-23 16:23:00 | sunshine-coast-poly-track |      4 |        4 | Seemeinrome        |  34    | overthrow          |
 | 35 | --                | 2022-02-23 16:00:00 | launceston                |      6 |        8 | Fragment           |  34    | pangea,overthrow   |
 | 36 | :2nd_place_medal: | 2022-02-23 15:34:00 | pukekohe-park             |      8 |        6 | Outfit             |   3.1  | overthrow          |
 | 37 | --                | 2022-02-23 15:30:00 | gosford                   |      4 |        6 | Roccaforte         |  10    | pikey              |
 | 38 | :3rd_place_medal: | 2022-02-23 15:25:00 | launceston                |      5 |        1 | Turk Warrior       |   1.2  | pangea             |
-| 39 | --                | 2022-02-23 15:25:00 | launceston                |      5 |        2 | Outbound           |  21    | overthrow          |
+| 39 | 6.0               | 2022-02-23 15:25:00 | launceston                |      5 |        2 | Outbound           |  21    | overthrow          |
 | 40 | --                | 2022-02-23 14:55:00 | gosford                   |      3 |        2 | Inuwashi           |   4.2  | vulture,wallbow    |
 | 41 | --                | 2022-02-23 14:55:00 | gosford                   |      3 |        6 | Scat's Surfer Girl |   4.6  | jmac               |
 | 42 | --                | 2022-02-23 14:55:00 | gosford                   |      3 |        1 | Galifianakis       |   6    | vulture            |

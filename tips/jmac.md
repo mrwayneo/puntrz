@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-23 16:28:30 +1000  
+date: 2022-02-23 16:53:13 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 16:40             | 2022-02-23 | gosford R6           | 7 Azarmin            |  7.5  |    -10   |
+| 0                 | 2022-02-23 | gosford R6           | 7 Azarmin            |  0    |    -10   |
 | 0                 | 2022-02-23 | gosford R3           | 6 Scat's Surfer Girl |  0    |    -10   |
 | 0                 | 2022-02-23 | gosford R2           | 7 Birdonawing        |  0    |    -10   |
 | 0                 | 2022-02-23 | gosford R1           | 5 Peindre            |  0    |    -10   |
