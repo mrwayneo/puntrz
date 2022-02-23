@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-02-24 06:50:26 +1000  
+date: 2022-02-24 07:05:19 +1000  
 categories: None 
 ---   
 
@@ -18,8 +18,8 @@ categories: None
 | 07:30             | 2022-02-24 | kempton R7                    | 6 Sage Advice         |  10    |    -10   |
 | 07:30             | 2022-02-24 | kempton R7                    | 5 All Yours           |  31    |    -10   |
 | 07:30             | 2022-02-24 | kempton R7                    | 8 Pure Bubbles        |  11    |    -10   |
-| 07:00             | 2022-02-24 | kempton R6                    | 6 Mohassana           |  12    |    -10   |
-| 07:00             | 2022-02-24 | kempton R6                    | 7 Satanic Moon        |  15    |    -10   |
+| 0                 | 2022-02-24 | kempton R6                    | 6 Mohassana           |   0    |    -10   |
+| 0                 | 2022-02-24 | kempton R6                    | 7 Satanic Moon        |   0    |    -10   |
 | 0                 | 2022-02-24 | punchestown R7                | 16 The Dreams Alive   |   0    |    -10   |
 | 0                 | 2022-02-24 | ludlow R5                     | 11 Finalshot          |   0    |    -10   |
 | 0                 | 2022-02-24 | ludlow R5                     | 5 Ballinslea Bridge   |   0    |    -10   |
