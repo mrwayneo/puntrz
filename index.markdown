@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-24 06:20:16 +1000  
+date: 2022-02-24 06:35:21 +1000  
 ---   
 
 
@@ -61,8 +61,8 @@ date: 2022-02-24 06:20:16 +1000
 
 |    | finish            | time                | track                     |   race |   number | name               |   odds | tipster            |
 |---:|:------------------|:--------------------|:--------------------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:            | 2022-02-24 06:30:00 | kempton                   |      5 |        3 | Shanko             |   3.9  | vulture,milkman    |
-|  1 | :soon:            | 2022-02-24 06:30:00 | kempton                   |      5 |        7 | Yukon Star         |   5.5  | overthrow          |
+|  0 | --                | 2022-02-24 06:30:00 | kempton                   |      5 |        3 | Shanko             |   3.9  | vulture,milkman    |
+|  1 | --                | 2022-02-24 06:30:00 | kempton                   |      5 |        7 | Yukon Star         |   5.5  | overthrow          |
 |  2 | :2nd_place_medal: | 2022-02-24 04:10:00 | doncaster                 |      7 |        4 | Spectacular Genius |   1.85 | evenodds,overthrow |
 |  3 | --                | 2022-02-24 03:35:00 | doncaster                 |      6 |        3 | Soldier Of Love    |   6.5  | overthrow          |
 |  4 | :2nd_place_medal: | 2022-02-24 03:35:00 | doncaster                 |      6 |        5 | Desire De Joie     |  31    | overthrow          |
