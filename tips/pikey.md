@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-02-23 14:19:48 +1000  
+date: 2022-02-23 14:34:47 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 16:40             | 2022-02-23 | gosford R6            | 1 Off Shaw            |   8    |    -10   |
 | 15:30             | 2022-02-23 | gosford R4            | 6 Roccaforte          |  10    |    -10   |
-| 14:20             | 2022-02-23 | gosford R2            | 9 Mrs Patmore         |   6.5  |    -10   |
+| 0                 | 2022-02-23 | gosford R2            | 9 Mrs Patmore         |   0    |    -10   |
 | 0                 | 2022-02-23 | gosford R1            | 1 Californiasilencer  |   0    |    -10   |
 | 4                 | 2022-02-19 | rosehill-gardens R9   | 3 Zeyrek              |   9.5  |    -10   |
 | :2nd_place_medal: | 2022-02-19 | rosehill-gardens R8   | 4 Hilal               |  10    |    -10   |

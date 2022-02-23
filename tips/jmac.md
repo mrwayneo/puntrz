@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-23 14:19:48 +1000  
+date: 2022-02-23 14:34:47 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 16:40             | 2022-02-23 | gosford R6           | 7 Azarmin            |  7.5  |    -10   |
 | 14:55             | 2022-02-23 | gosford R3           | 6 Scat's Surfer Girl |  4.6  |    -10   |
-| 14:20             | 2022-02-23 | gosford R2           | 7 Birdonawing        |  9    |    -10   |
+| 0                 | 2022-02-23 | gosford R2           | 7 Birdonawing        |  0    |    -10   |
 | 0                 | 2022-02-23 | gosford R1           | 5 Peindre            |  0    |    -10   |
 | :boom:            | 2022-02-19 | flemington R7        | 8 Home Affairs       |  7.1  |     61   |
 | :3rd_place_medal: | 2022-02-19 | flemington R6        | 1 Captivant          |  5    |    -10   |
