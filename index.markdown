@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-23 13:34:33 +1000  
+date: 2022-02-23 13:49:45 +1000  
 ---   
 
 
@@ -127,5 +127,5 @@ date: 2022-02-23 13:34:33 +1000
 | 43 | :soon:   | 2022-02-23 14:38:00 | sunshine-coast-poly-track |      1 |        4 | Canny Be Better    |   7.5  | looseknot          |
 | 44 | :soon:   | 2022-02-23 14:20:00 | gosford                   |      2 |        7 | Birdonawing        |   9    | jmac               |
 | 45 | :soon:   | 2022-02-23 14:20:00 | gosford                   |      2 |        9 | Mrs Patmore        |   6.5  | pikey              |
-| 46 | :soon:   | 2022-02-23 13:45:00 | gosford                   |      1 |        5 | Peindre            |   4.5  | jmac               |
-| 47 | :soon:   | 2022-02-23 13:45:00 | gosford                   |      1 |        1 | Californiasilencer |   3.25 | pikey              |
+| 46 | --       | 2022-02-23 13:45:00 | gosford                   |      1 |        5 | Peindre            |   4.5  | jmac               |
+| 47 | --       | 2022-02-23 13:45:00 | gosford                   |      1 |        1 | Californiasilencer |   3.25 | pikey              |
