@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-02-23 15:19:50 +1000  
+date: 2022-02-23 15:43:18 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner             |   win |   return |
 |:------------------|:-----------|:---------------------|:-------------------|------:|---------:|
-| 15:30             | 2022-02-23 | gosford R4           | 4 Endorsement      |  2.62 |      -10 |
+| 0                 | 2022-02-23 | gosford R4           | 4 Endorsement      |  0    |      -10 |
 | 0                 | 2022-02-23 | gosford R3           | 2 Inuwashi         |  0    |      -10 |
 | 0                 | 2022-02-19 | rosehill-gardens R10 | 10 Sindacato       |  0    |      -10 |
 | 4                 | 2022-02-19 | rosehill-gardens R5  | 6 Able Willie      |  3.2  |      -10 |

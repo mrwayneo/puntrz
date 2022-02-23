@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-23 15:19:56 +1000  
+date: 2022-02-23 15:43:24 +1000  
 ---   
 
 
@@ -79,53 +79,53 @@ date: 2022-02-23 15:19:56 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6104 |    831 | -12054.2 | 0.14 | -0.2  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7868 |    371 | -23278   | 0.05 | -0.3  |
 
-|    | finish   | time                | track                     |   race |   number | name               |   odds | tipster            |
-|---:|:---------|:--------------------|:--------------------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-02-24 06:30:00 | kempton                   |      5 |        3 | Shanko             |   3.9  | vulture,milkman    |
-|  1 | :soon:   | 2022-02-24 06:30:00 | kempton                   |      5 |        7 | Yukon Star         |   5.5  | overthrow          |
-|  2 | :soon:   | 2022-02-24 04:10:00 | doncaster                 |      7 |        4 | Spectacular Genius |   1.85 | evenodds,overthrow |
-|  3 | :soon:   | 2022-02-24 03:35:00 | doncaster                 |      6 |        3 | Soldier Of Love    |   6.5  | overthrow          |
-|  4 | :soon:   | 2022-02-24 03:35:00 | doncaster                 |      6 |        5 | Desire De Joie     |  31    | overthrow          |
-|  5 | :soon:   | 2022-02-24 03:00:00 | doncaster                 |      5 |        1 | Boss Man Fred      |   6.5  | overthrow,milkman  |
-|  6 | :soon:   | 2022-02-24 03:00:00 | doncaster                 |      5 |        3 | Gredin             |   3.3  | evenodds,overthrow |
-|  7 | :soon:   | 2022-02-24 02:50:00 | punchestown               |      6 |        7 | Fox Le Bel         |   5    | looseknot          |
-|  8 | :soon:   | 2022-02-24 01:30:00 | scottsville               |      9 |        7 | Passage Of Power   |   0    | milkman            |
-|  9 | :soon:   | 2022-02-24 01:25:00 | ludlow                    |      2 |        1 | Little River Bay   |   2.6  | milkman            |
-| 10 | :soon:   | 2022-02-24 01:15:00 | doncaster                 |      2 |        2 | Forpaddytheplumber |   8    | overthrow          |
-| 11 | :soon:   | 2022-02-24 01:15:00 | doncaster                 |      2 |        4 | Message Personnel  |   1.9  | evenodds,overthrow |
-| 12 | :soon:   | 2022-02-24 01:15:00 | happy-valley              |      8 |        3 | Beauty Joy         |   0    | milkman            |
-| 13 | :soon:   | 2022-02-24 01:05:00 | punchestown               |      3 |        2 | Ramillies          |   1.6  | overthrow          |
-| 14 | :soon:   | 2022-02-24 01:00:00 | newcastle                 |      2 |        7 | Figures            |   2    | vulture            |
-| 15 | :soon:   | 2022-02-24 00:55:00 | scottsville               |      8 |        8 | Sashay Away        |   0    | vulture,milkman    |
-| 16 | :soon:   | 2022-02-24 00:42:00 | doncaster                 |      1 |        1 | Ridgeway           |   3    | overthrow          |
-| 17 | :soon:   | 2022-02-24 00:42:00 | doncaster                 |      1 |        2 | Cartonne           |   3.75 | overthrow          |
-| 18 | :soon:   | 2022-02-24 00:35:00 | punchestown               |      2 |        1 | Haxo               |   3.3  | overthrow          |
-| 19 | :soon:   | 2022-02-24 00:00:00 | punchestown               |      1 |        6 | Burning Victory    |   2    | overthrow          |
-| 20 | :soon:   | 2022-02-23 20:30:00 | ascot                     |      5 |        3 | Treat Yo Self      |   8    | pangea,icyhot      |
-| 21 | :soon:   | 2022-02-23 19:50:00 | ascot                     |      4 |        7 | Final Authority    |   2.1  | vulture,pangea     |
-| 22 | :soon:   | 2022-02-23 19:30:00 | sandown-hillside          |      8 |        7 | Eluding            |   7.5  | pangea             |
-| 23 | :soon:   | 2022-02-23 19:00:00 | sandown-hillside          |      7 |        8 | Stretto            |   4.8  | overthrow          |
-| 24 | :soon:   | 2022-02-23 18:34:00 | ascot                     |      2 |        4 | Multinova Man      |   2.4  | vulture            |
-| 25 | :soon:   | 2022-02-23 17:54:00 | ascot                     |      1 |        4 | Rokanori           |   2.3  | evenodds,lago      |
-| 26 | :soon:   | 2022-02-23 17:54:00 | ascot                     |      1 |        1 | Celevacci          |   4.33 | pangea             |
-| 27 | :soon:   | 2022-02-23 17:45:00 | launceston                |      9 |        6 | Balearic           |  26    | pangea             |
-| 28 | :soon:   | 2022-02-23 17:10:00 | launceston                |      8 |        2 | In a Twinkling     |   4    | vulture            |
-| 29 | :soon:   | 2022-02-23 16:50:00 | sandown-hillside          |      3 |        9 | Spirit Of Gold     |   3.25 | overthrow          |
-| 30 | :soon:   | 2022-02-23 16:40:00 | gosford                   |      6 |        7 | Azarmin            |   7.5  | jmac               |
-| 31 | :soon:   | 2022-02-23 16:40:00 | gosford                   |      6 |        1 | Off Shaw           |   8    | pikey              |
-| 32 | :soon:   | 2022-02-23 16:35:00 | launceston                |      7 |        4 | Take The Sit       |   8    | pangea,blackshadow |
-| 33 | :soon:   | 2022-02-23 16:35:00 | launceston                |      7 |        6 | Boom Dot Com       |   8.5  | benny,pangea       |
-| 34 | :soon:   | 2022-02-23 16:23:00 | sunshine-coast-poly-track |      4 |        4 | Seemeinrome        |  34    | overthrow          |
-| 35 | :soon:   | 2022-02-23 16:00:00 | launceston                |      6 |        8 | Fragment           |  34    | pangea,overthrow   |
-| 36 | :soon:   | 2022-02-23 15:34:00 | pukekohe-park             |      8 |        6 | Outfit             |   3.1  | overthrow          |
-| 37 | :soon:   | 2022-02-23 15:30:00 | gosford                   |      4 |        6 | Roccaforte         |  10    | pikey              |
-| 38 | :soon:   | 2022-02-23 15:25:00 | launceston                |      5 |        1 | Turk Warrior       |   1.2  | pangea             |
-| 39 | :soon:   | 2022-02-23 15:25:00 | launceston                |      5 |        2 | Outbound           |  21    | overthrow          |
-| 40 | --       | 2022-02-23 14:55:00 | gosford                   |      3 |        2 | Inuwashi           |   4.2  | vulture,wallbow    |
-| 41 | --       | 2022-02-23 14:55:00 | gosford                   |      3 |        6 | Scat's Surfer Girl |   4.6  | jmac               |
-| 42 | --       | 2022-02-23 14:55:00 | gosford                   |      3 |        1 | Galifianakis       |   6    | vulture            |
-| 43 | --       | 2022-02-23 14:38:00 | sunshine-coast-poly-track |      1 |        4 | Canny Be Better    |   7.5  | looseknot          |
-| 44 | --       | 2022-02-23 14:20:00 | gosford                   |      2 |        7 | Birdonawing        |   9    | jmac               |
-| 45 | --       | 2022-02-23 14:20:00 | gosford                   |      2 |        9 | Mrs Patmore        |   6.5  | pikey              |
-| 46 | --       | 2022-02-23 13:45:00 | gosford                   |      1 |        5 | Peindre            |   4.5  | jmac               |
-| 47 | --       | 2022-02-23 13:45:00 | gosford                   |      1 |        1 | Californiasilencer |   3.25 | pikey              |
+|    | finish            | time                | track                     |   race |   number | name               |   odds | tipster            |
+|---:|:------------------|:--------------------|:--------------------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-02-24 06:30:00 | kempton                   |      5 |        3 | Shanko             |   3.9  | vulture,milkman    |
+|  1 | :soon:            | 2022-02-24 06:30:00 | kempton                   |      5 |        7 | Yukon Star         |   5.5  | overthrow          |
+|  2 | :soon:            | 2022-02-24 04:10:00 | doncaster                 |      7 |        4 | Spectacular Genius |   1.85 | evenodds,overthrow |
+|  3 | :soon:            | 2022-02-24 03:35:00 | doncaster                 |      6 |        3 | Soldier Of Love    |   6.5  | overthrow          |
+|  4 | :soon:            | 2022-02-24 03:35:00 | doncaster                 |      6 |        5 | Desire De Joie     |  31    | overthrow          |
+|  5 | :soon:            | 2022-02-24 03:00:00 | doncaster                 |      5 |        1 | Boss Man Fred      |   6.5  | overthrow,milkman  |
+|  6 | :soon:            | 2022-02-24 03:00:00 | doncaster                 |      5 |        3 | Gredin             |   3.3  | evenodds,overthrow |
+|  7 | :soon:            | 2022-02-24 02:50:00 | punchestown               |      6 |        7 | Fox Le Bel         |   5    | looseknot          |
+|  8 | :soon:            | 2022-02-24 01:30:00 | scottsville               |      9 |        7 | Passage Of Power   |   0    | milkman            |
+|  9 | :soon:            | 2022-02-24 01:25:00 | ludlow                    |      2 |        1 | Little River Bay   |   2.6  | milkman            |
+| 10 | :soon:            | 2022-02-24 01:15:00 | doncaster                 |      2 |        2 | Forpaddytheplumber |   8    | overthrow          |
+| 11 | :soon:            | 2022-02-24 01:15:00 | doncaster                 |      2 |        4 | Message Personnel  |   1.9  | evenodds,overthrow |
+| 12 | :soon:            | 2022-02-24 01:15:00 | happy-valley              |      8 |        3 | Beauty Joy         |   0    | milkman            |
+| 13 | :soon:            | 2022-02-24 01:05:00 | punchestown               |      3 |        2 | Ramillies          |   1.6  | overthrow          |
+| 14 | :soon:            | 2022-02-24 01:00:00 | newcastle                 |      2 |        7 | Figures            |   2    | vulture            |
+| 15 | :soon:            | 2022-02-24 00:55:00 | scottsville               |      8 |        8 | Sashay Away        |   0    | vulture,milkman    |
+| 16 | :soon:            | 2022-02-24 00:42:00 | doncaster                 |      1 |        1 | Ridgeway           |   3    | overthrow          |
+| 17 | :soon:            | 2022-02-24 00:42:00 | doncaster                 |      1 |        2 | Cartonne           |   3.75 | overthrow          |
+| 18 | :soon:            | 2022-02-24 00:35:00 | punchestown               |      2 |        1 | Haxo               |   3.3  | overthrow          |
+| 19 | :soon:            | 2022-02-24 00:00:00 | punchestown               |      1 |        6 | Burning Victory    |   2    | overthrow          |
+| 20 | :soon:            | 2022-02-23 20:30:00 | ascot                     |      5 |        3 | Treat Yo Self      |   8    | pangea,icyhot      |
+| 21 | :soon:            | 2022-02-23 19:50:00 | ascot                     |      4 |        7 | Final Authority    |   2.1  | vulture,pangea     |
+| 22 | :soon:            | 2022-02-23 19:30:00 | sandown-hillside          |      8 |        7 | Eluding            |   7.5  | pangea             |
+| 23 | :soon:            | 2022-02-23 19:00:00 | sandown-hillside          |      7 |        8 | Stretto            |   4.8  | overthrow          |
+| 24 | :soon:            | 2022-02-23 18:34:00 | ascot                     |      2 |        4 | Multinova Man      |   2.4  | vulture            |
+| 25 | :soon:            | 2022-02-23 17:54:00 | ascot                     |      1 |        4 | Rokanori           |   2.3  | evenodds,lago      |
+| 26 | :soon:            | 2022-02-23 17:54:00 | ascot                     |      1 |        1 | Celevacci          |   4.33 | pangea             |
+| 27 | :soon:            | 2022-02-23 17:45:00 | launceston                |      9 |        6 | Balearic           |  26    | pangea             |
+| 28 | :soon:            | 2022-02-23 17:10:00 | launceston                |      8 |        2 | In a Twinkling     |   4    | vulture            |
+| 29 | :soon:            | 2022-02-23 16:50:00 | sandown-hillside          |      3 |        9 | Spirit Of Gold     |   3.25 | overthrow          |
+| 30 | :soon:            | 2022-02-23 16:40:00 | gosford                   |      6 |        7 | Azarmin            |   7.5  | jmac               |
+| 31 | :soon:            | 2022-02-23 16:40:00 | gosford                   |      6 |        1 | Off Shaw           |   8    | pikey              |
+| 32 | :soon:            | 2022-02-23 16:35:00 | launceston                |      7 |        4 | Take The Sit       |   8    | pangea,blackshadow |
+| 33 | :soon:            | 2022-02-23 16:35:00 | launceston                |      7 |        6 | Boom Dot Com       |   8.5  | benny,pangea       |
+| 34 | :soon:            | 2022-02-23 16:23:00 | sunshine-coast-poly-track |      4 |        4 | Seemeinrome        |  34    | overthrow          |
+| 35 | :soon:            | 2022-02-23 16:00:00 | launceston                |      6 |        8 | Fragment           |  34    | pangea,overthrow   |
+| 36 | :2nd_place_medal: | 2022-02-23 15:34:00 | pukekohe-park             |      8 |        6 | Outfit             |   3.1  | overthrow          |
+| 37 | --                | 2022-02-23 15:30:00 | gosford                   |      4 |        6 | Roccaforte         |  10    | pikey              |
+| 38 | --                | 2022-02-23 15:25:00 | launceston                |      5 |        1 | Turk Warrior       |   1.2  | pangea             |
+| 39 | --                | 2022-02-23 15:25:00 | launceston                |      5 |        2 | Outbound           |  21    | overthrow          |
+| 40 | --                | 2022-02-23 14:55:00 | gosford                   |      3 |        2 | Inuwashi           |   4.2  | vulture,wallbow    |
+| 41 | --                | 2022-02-23 14:55:00 | gosford                   |      3 |        6 | Scat's Surfer Girl |   4.6  | jmac               |
+| 42 | --                | 2022-02-23 14:55:00 | gosford                   |      3 |        1 | Galifianakis       |   6    | vulture            |
+| 43 | 4.0               | 2022-02-23 14:38:00 | sunshine-coast-poly-track |      1 |        4 | Canny Be Better    |   7.5  | looseknot          |
+| 44 | --                | 2022-02-23 14:20:00 | gosford                   |      2 |        7 | Birdonawing        |   9    | jmac               |
+| 45 | --                | 2022-02-23 14:20:00 | gosford                   |      2 |        9 | Mrs Patmore        |   6.5  | pikey              |
+| 46 | --                | 2022-02-23 13:45:00 | gosford                   |      1 |        5 | Peindre            |   4.5  | jmac               |
+| 47 | --                | 2022-02-23 13:45:00 | gosford                   |      1 |        1 | Californiasilencer |   3.25 | pikey              |
