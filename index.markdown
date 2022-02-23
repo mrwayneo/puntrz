@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-23 14:49:52 +1000  
+date: 2022-02-23 15:04:55 +1000  
 ---   
 
 
@@ -121,9 +121,9 @@ date: 2022-02-23 14:49:52 +1000
 | 37 | :soon:   | 2022-02-23 15:30:00 | gosford                   |      4 |        6 | Roccaforte         |  10    | pikey              |
 | 38 | :soon:   | 2022-02-23 15:25:00 | launceston                |      5 |        1 | Turk Warrior       |   1.2  | pangea             |
 | 39 | :soon:   | 2022-02-23 15:25:00 | launceston                |      5 |        2 | Outbound           |  21    | overthrow          |
-| 40 | :soon:   | 2022-02-23 14:55:00 | gosford                   |      3 |        2 | Inuwashi           |   4.2  | vulture,wallbow    |
-| 41 | :soon:   | 2022-02-23 14:55:00 | gosford                   |      3 |        6 | Scat's Surfer Girl |   4.6  | jmac               |
-| 42 | :soon:   | 2022-02-23 14:55:00 | gosford                   |      3 |        1 | Galifianakis       |   6    | vulture            |
+| 40 | --       | 2022-02-23 14:55:00 | gosford                   |      3 |        2 | Inuwashi           |   4.2  | vulture,wallbow    |
+| 41 | --       | 2022-02-23 14:55:00 | gosford                   |      3 |        6 | Scat's Surfer Girl |   4.6  | jmac               |
+| 42 | --       | 2022-02-23 14:55:00 | gosford                   |      3 |        1 | Galifianakis       |   6    | vulture            |
 | 43 | --       | 2022-02-23 14:38:00 | sunshine-coast-poly-track |      1 |        4 | Canny Be Better    |   7.5  | looseknot          |
 | 44 | --       | 2022-02-23 14:20:00 | gosford                   |      2 |        7 | Birdonawing        |   9    | jmac               |
 | 45 | --       | 2022-02-23 14:20:00 | gosford                   |      2 |        9 | Mrs Patmore        |   6.5  | pikey              |
