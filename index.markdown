@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-23 15:58:41 +1000  
+date: 2022-02-23 16:13:52 +1000  
 ---   
 
 
@@ -116,10 +116,10 @@ date: 2022-02-23 15:58:41 +1000
 | 32 | :soon:            | 2022-02-23 16:35:00 | launceston                |      7 |        4 | Take The Sit       |   8    | pangea,blackshadow |
 | 33 | :soon:            | 2022-02-23 16:35:00 | launceston                |      7 |        6 | Boom Dot Com       |   8.5  | benny,pangea       |
 | 34 | :soon:            | 2022-02-23 16:23:00 | sunshine-coast-poly-track |      4 |        4 | Seemeinrome        |  34    | overthrow          |
-| 35 | :soon:            | 2022-02-23 16:00:00 | launceston                |      6 |        8 | Fragment           |  34    | pangea,overthrow   |
+| 35 | --                | 2022-02-23 16:00:00 | launceston                |      6 |        8 | Fragment           |  34    | pangea,overthrow   |
 | 36 | :2nd_place_medal: | 2022-02-23 15:34:00 | pukekohe-park             |      8 |        6 | Outfit             |   3.1  | overthrow          |
 | 37 | --                | 2022-02-23 15:30:00 | gosford                   |      4 |        6 | Roccaforte         |  10    | pikey              |
-| 38 | --                | 2022-02-23 15:25:00 | launceston                |      5 |        1 | Turk Warrior       |   1.2  | pangea             |
+| 38 | :3rd_place_medal: | 2022-02-23 15:25:00 | launceston                |      5 |        1 | Turk Warrior       |   1.2  | pangea             |
 | 39 | --                | 2022-02-23 15:25:00 | launceston                |      5 |        2 | Outbound           |  21    | overthrow          |
 | 40 | --                | 2022-02-23 14:55:00 | gosford                   |      3 |        2 | Inuwashi           |   4.2  | vulture,wallbow    |
 | 41 | --                | 2022-02-23 14:55:00 | gosford                   |      3 |        6 | Scat's Surfer Girl |   4.6  | jmac               |
