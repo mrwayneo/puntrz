@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-24 16:05:21 +1000  
+date: 2022-02-24 16:20:33 +1000  
 ---   
 
 
@@ -9,8 +9,8 @@ date: 2022-02-24 16:05:21 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      2 |      1 |        5 | 0.5  |  0.25 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 | 0    | -1    |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      2 |      0 |      -20 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      3 |      0 |      -30 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      4 |      0 |      -40 | 0    | -1    |
@@ -19,7 +19,7 @@ date: 2022-02-24 16:05:21 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      6 |      0 |      -60 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      8 |      0 |      -80 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      9 |      0 |      -90 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     26 |      1 |     -236 | 0.04 | -0.91 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     26 |      2 |     -211 | 0.08 | -0.81 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     44 |      1 |     -375 | 0.02 | -0.85 |
 
 ##### Form Last 20 tips   
@@ -96,8 +96,8 @@ date: 2022-02-24 16:05:21 +1000
 | 17 | :soon:            | 2022-02-24 16:50:00 | newcastle          |      7 |       11 | Danish Prince      |  41    | pikey              |
 | 18 | :soon:            | 2022-02-24 16:50:00 | newcastle          |      7 |        3 | Rustic Steel       |   2.25 | milkman            |
 | 19 | :soon:            | 2022-02-24 16:35:00 | ipswich            |      4 |        5 | Trip The Light     |   6    | benny,pangea       |
-| 20 | --                | 2022-02-24 15:40:00 | newcastle          |      5 |        6 | Chickerartie       |  61    | pikey              |
-| 21 | --                | 2022-02-24 15:40:00 | newcastle          |      5 |        4 | Hollywood North    |   4.6  | wallbow            |
+| 20 | 10.0              | 2022-02-24 15:40:00 | newcastle          |      5 |        6 | Chickerartie       |  61    | pikey              |
+| 21 | 6.0               | 2022-02-24 15:40:00 | newcastle          |      5 |        4 | Hollywood North    |   4.6  | wallbow            |
 | 22 | :2nd_place_medal: | 2022-02-24 15:20:00 | ipswich            |      2 |        4 | Isometric          |   3.5  | looseknot          |
 | 23 | 4.0               | 2022-02-24 14:25:00 | newcastle          |      3 |        5 | To His Credit      |   4.4  | looseknot          |
 | 24 | 6.0               | 2022-02-24 14:25:00 | newcastle          |      3 |        7 | Pathos             |  15    | pikey              |

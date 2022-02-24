@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-02-24 16:05:15 +1000  
+date: 2022-02-24 16:20:26 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                | runner             |   win |   return |
 |:------------------|:-----------|:---------------------|:-------------------|------:|---------:|
-| 16:15             | 2022-02-24 | newcastle R6         | 3 Endorsement      |  2    |      -10 |
-| 0                 | 2022-02-24 | newcastle R5         | 4 Hollywood North  |  0    |      -10 |
+| :boom:            | 2022-02-24 | newcastle R6         | 3 Endorsement      |  2.5  |       15 |
+| 6                 | 2022-02-24 | newcastle R5         | 4 Hollywood North  |  4.6  |      -10 |
 | 0                 | 2022-02-23 | gosford R4           | 4 Endorsement      |  0    |      -10 |
 | 0                 | 2022-02-23 | gosford R3           | 2 Inuwashi         |  0    |      -10 |
 | 0                 | 2022-02-19 | rosehill-gardens R10 | 10 Sindacato       |  0    |      -10 |
