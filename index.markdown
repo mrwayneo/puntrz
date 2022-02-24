@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-24 15:05:30 +1000  
+date: 2022-02-24 15:20:11 +1000  
 ---   
 
 
@@ -19,7 +19,7 @@ date: 2022-02-24 15:05:30 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      6 |      0 |      -60 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      8 |      0 |      -80 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      9 |      0 |      -90 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     26 |      0 |     -260 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     26 |      1 |     -236 | 0.04 | -0.91 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     44 |      1 |     -375 | 0.02 | -0.85 |
 
 ##### Form Last 20 tips   
@@ -74,31 +74,31 @@ date: 2022-02-24 15:05:30 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6140 |    836 | -11904.3 | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7883 |    370 | -23595   | 0.05 | -0.3  |
 
-|    | finish   | time                | track              |   race |   number | name               |   odds | tipster            |
-|---:|:---------|:--------------------|:-------------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-02-25 06:00:00 | newcastle          |      4 |        2 | Noman              |   4    | milkman            |
-|  1 | :soon:   | 2022-02-25 04:20:00 | thurles            |      7 |        1 | Brookline          |   2.5  | evenodds,overthrow |
-|  2 | :soon:   | 2022-02-25 04:10:00 | sedgefield         |      7 |        4 | Sacre Pierre       |   3.9  | overthrow          |
-|  3 | :soon:   | 2022-02-25 04:10:00 | sedgefield         |      7 |        1 | Minella Charmer    |   2.7  | vulture            |
-|  4 | :soon:   | 2022-02-25 02:40:00 | thurles            |      4 |        4 | Berkshire Royal    |   3    | evenodds,overthrow |
-|  5 | :soon:   | 2022-02-25 00:55:00 | thurles            |      1 |        5 | Minella Melody     |   2.9  | pangea             |
-|  6 | :soon:   | 2022-02-25 00:55:00 | thurles            |      1 |        1 | Dolcita            |   2.5  | evenodds,overthrow |
-|  7 | :soon:   | 2022-02-25 00:45:00 | sedgefield         |      1 |        2 | Cartonne           |   3.7  | overthrow          |
-|  8 | :soon:   | 2022-02-25 00:45:00 | sedgefield         |      1 |        1 | Peejaybee          |   1.4  | milkman            |
-|  9 | :soon:   | 2022-02-25 00:35:00 | huntingdon         |      2 |        5 | Quickbuck          |   3    | evenodds,overthrow |
-| 10 | :soon:   | 2022-02-24 23:05:00 | turffontein        |      5 |        7 | London Roads       |   0    | vulture            |
-| 11 | :soon:   | 2022-02-24 21:20:00 | turffontein        |      2 |        1 | Cool Winter        |   0    | vulture            |
-| 12 | :soon:   | 2022-02-24 20:30:00 | pinjarra-scarpside |      8 |        3 | Agent Kensington   |   5    | pangea             |
-| 13 | :soon:   | 2022-02-24 19:00:00 | pinjarra-scarpside |      5 |        5 | Winning Aces       |   5    | looseknot          |
-| 14 | :soon:   | 2022-02-24 18:45:00 | racing.com-park    |      3 |        5 | I Shot The Sheriff |  34    | pangea             |
-| 15 | :soon:   | 2022-02-24 18:00:00 | pinjarra-scarpside |      3 |        9 | Cywer              |   2.15 | vulture            |
-| 16 | :soon:   | 2022-02-24 17:10:00 | ipswich            |      5 |        5 | Ultimate Power     |  15    | vulture            |
-| 17 | :soon:   | 2022-02-24 16:50:00 | newcastle          |      7 |       11 | Danish Prince      |  41    | pikey              |
-| 18 | :soon:   | 2022-02-24 16:50:00 | newcastle          |      7 |        3 | Rustic Steel       |   2.25 | milkman            |
-| 19 | :soon:   | 2022-02-24 16:35:00 | ipswich            |      4 |        5 | Trip The Light     |   6    | benny,pangea       |
-| 20 | :soon:   | 2022-02-24 15:40:00 | newcastle          |      5 |        6 | Chickerartie       |  61    | pikey              |
-| 21 | :soon:   | 2022-02-24 15:40:00 | newcastle          |      5 |        4 | Hollywood North    |   4.6  | wallbow            |
-| 22 | :soon:   | 2022-02-24 15:20:00 | ipswich            |      2 |        4 | Isometric          |   3.5  | looseknot          |
-| 23 | 4.0      | 2022-02-24 14:25:00 | newcastle          |      3 |        5 | To His Credit      |   4.4  | looseknot          |
-| 24 | 6.0      | 2022-02-24 14:25:00 | newcastle          |      3 |        7 | Pathos             |  15    | pikey              |
-| 25 | 5.0      | 2022-02-24 14:25:00 | newcastle          |      3 |        1 | Affidavit          |   7.5  | looseknot          |
+|    | finish                   | time                | track              |   race |   number | name               |   odds | tipster            |
+|---:|:-------------------------|:--------------------|:-------------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:                   | 2022-02-25 06:00:00 | newcastle          |      4 |        2 | Noman              |   4    | milkman            |
+|  1 | :soon:                   | 2022-02-25 04:20:00 | thurles            |      7 |        1 | Brookline          |   2.5  | evenodds,overthrow |
+|  2 | :soon:                   | 2022-02-25 04:10:00 | sedgefield         |      7 |        4 | Sacre Pierre       |   3.9  | overthrow          |
+|  3 | :soon:                   | 2022-02-25 04:10:00 | sedgefield         |      7 |        1 | Minella Charmer    |   2.7  | vulture            |
+|  4 | :soon:                   | 2022-02-25 02:40:00 | thurles            |      4 |        4 | Berkshire Royal    |   3    | evenodds,overthrow |
+|  5 | :soon:                   | 2022-02-25 00:55:00 | thurles            |      1 |        5 | Minella Melody     |   2.9  | pangea             |
+|  6 | :soon:                   | 2022-02-25 00:55:00 | thurles            |      1 |        1 | Dolcita            |   2.5  | evenodds,overthrow |
+|  7 | :soon:                   | 2022-02-25 00:45:00 | sedgefield         |      1 |        2 | Cartonne           |   3.7  | overthrow          |
+|  8 | :soon:                   | 2022-02-25 00:45:00 | sedgefield         |      1 |        1 | Peejaybee          |   1.4  | milkman            |
+|  9 | :soon:                   | 2022-02-25 00:35:00 | huntingdon         |      2 |        5 | Quickbuck          |   3    | evenodds,overthrow |
+| 10 | :soon:                   | 2022-02-24 23:05:00 | turffontein        |      5 |        7 | London Roads       |   0    | vulture            |
+| 11 | :soon:                   | 2022-02-24 21:20:00 | turffontein        |      2 |        1 | Cool Winter        |   0    | vulture            |
+| 12 | :soon:                   | 2022-02-24 20:30:00 | pinjarra-scarpside |      8 |        3 | Agent Kensington   |   5    | pangea             |
+| 13 | :soon:                   | 2022-02-24 19:00:00 | pinjarra-scarpside |      5 |        5 | Winning Aces       |   5    | looseknot          |
+| 14 | :soon:                   | 2022-02-24 18:45:00 | racing.com-park    |      3 |        5 | I Shot The Sheriff |  34    | pangea             |
+| 15 | :soon:                   | 2022-02-24 18:00:00 | pinjarra-scarpside |      3 |        9 | Cywer              |   2.15 | vulture            |
+| 16 | :soon:                   | 2022-02-24 17:10:00 | ipswich            |      5 |        5 | Ultimate Power     |  15    | vulture            |
+| 17 | :soon:                   | 2022-02-24 16:50:00 | newcastle          |      7 |       11 | Danish Prince      |  41    | pikey              |
+| 18 | :soon:                   | 2022-02-24 16:50:00 | newcastle          |      7 |        3 | Rustic Steel       |   2.25 | milkman            |
+| 19 | :soon:                   | 2022-02-24 16:35:00 | ipswich            |      4 |        5 | Trip The Light     |   6    | benny,pangea       |
+| 20 | :soon:                   | 2022-02-24 15:40:00 | newcastle          |      5 |        6 | Chickerartie       |  61    | pikey              |
+| 21 | :soon:                   | 2022-02-24 15:40:00 | newcastle          |      5 |        4 | Hollywood North    |   4.6  | wallbow            |
+| 22 | :hourglass_flowing_sand: | 2022-02-24 15:20:00 | ipswich            |      2 |        4 | Isometric          |   3.5  | looseknot          |
+| 23 | 4.0                      | 2022-02-24 14:25:00 | newcastle          |      3 |        5 | To His Credit      |   4.4  | looseknot          |
+| 24 | 6.0                      | 2022-02-24 14:25:00 | newcastle          |      3 |        7 | Pathos             |  15    | pikey              |
+| 25 | 5.0                      | 2022-02-24 14:25:00 | newcastle          |      3 |        1 | Affidavit          |   7.5  | looseknot          |
