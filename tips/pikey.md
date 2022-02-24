@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-02-24 16:50:13 +1000  
+date: 2022-02-24 17:05:30 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2022-02-24 | newcastle R7          | 11 Danish Prince      |   0    |    -10   |
+| :3rd_place_medal: | 2022-02-24 | newcastle R7          | 11 Danish Prince      |  41    |    -10   |
 | 10                | 2022-02-24 | newcastle R5          | 6 Chickerartie        |  61    |    -10   |
 | 6                 | 2022-02-24 | newcastle R3          | 7 Pathos              |  15    |    -10   |
 | 0                 | 2022-02-23 | gosford R6            | 1 Off Shaw            |   0    |    -10   |
