@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-24 16:35:17 +1000  
+date: 2022-02-24 16:50:14 +1000  
 ---   
 
 
@@ -93,9 +93,9 @@ date: 2022-02-24 16:35:17 +1000
 | 14 | :soon:                   | 2022-02-24 18:45:00 | racing.com-park    |      3 |        5 | I Shot The Sheriff |  34    | pangea             |
 | 15 | :soon:                   | 2022-02-24 18:00:00 | pinjarra-scarpside |      3 |        9 | Cywer              |   2.15 | vulture            |
 | 16 | :soon:                   | 2022-02-24 17:10:00 | ipswich            |      5 |        5 | Ultimate Power     |  15    | vulture            |
-| 17 | :soon:                   | 2022-02-24 16:50:00 | newcastle          |      7 |       11 | Danish Prince      |  41    | pikey              |
-| 18 | :soon:                   | 2022-02-24 16:50:00 | newcastle          |      7 |        3 | Rustic Steel       |   2.25 | milkman            |
-| 19 | :hourglass_flowing_sand: | 2022-02-24 16:35:00 | ipswich            |      4 |        5 | Trip The Light     |   6    | benny,pangea       |
+| 17 | :hourglass_flowing_sand: | 2022-02-24 16:50:00 | newcastle          |      7 |       11 | Danish Prince      |  41    | pikey              |
+| 18 | :hourglass_flowing_sand: | 2022-02-24 16:50:00 | newcastle          |      7 |        3 | Rustic Steel       |   2.25 | milkman            |
+| 19 | :3rd_place_medal:        | 2022-02-24 16:35:00 | ipswich            |      4 |        5 | Trip The Light     |   6    | benny,pangea       |
 | 20 | 10.0                     | 2022-02-24 15:40:00 | newcastle          |      5 |        6 | Chickerartie       |  61    | pikey              |
 | 21 | 6.0                      | 2022-02-24 15:40:00 | newcastle          |      5 |        4 | Hollywood North    |   4.6  | wallbow            |
 | 22 | :2nd_place_medal:        | 2022-02-24 15:20:00 | ipswich            |      2 |        4 | Isometric          |   3.5  | looseknot          |
