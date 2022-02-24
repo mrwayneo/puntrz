@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-24 17:50:30 +1000  
+date: 2022-02-24 18:05:26 +1000  
 ---   
 
 
@@ -91,7 +91,7 @@ date: 2022-02-24 17:50:30 +1000
 | 12 | :soon:            | 2022-02-24 20:30:00 | pinjarra-scarpside |      8 |        3 | Agent Kensington   |   5    | pangea             |
 | 13 | :soon:            | 2022-02-24 19:00:00 | pinjarra-scarpside |      5 |        5 | Winning Aces       |   5    | looseknot          |
 | 14 | :soon:            | 2022-02-24 18:45:00 | racing.com-park    |      3 |        5 | I Shot The Sheriff |  34    | pangea             |
-| 15 | :soon:            | 2022-02-24 18:00:00 | pinjarra-scarpside |      3 |        9 | Cywer              |   2.15 | vulture            |
+| 15 | --                | 2022-02-24 18:00:00 | pinjarra-scarpside |      3 |        9 | Cywer              |   2.15 | vulture            |
 | 16 | :3rd_place_medal: | 2022-02-24 17:10:00 | ipswich            |      5 |        5 | Ultimate Power     |  15    | vulture            |
 | 17 | :3rd_place_medal: | 2022-02-24 16:50:00 | newcastle          |      7 |       11 | Danish Prince      |  41    | pikey              |
 | 18 | :boom:            | 2022-02-24 16:50:00 | newcastle          |      7 |        3 | Rustic Steel       |   2.25 | milkman            |
