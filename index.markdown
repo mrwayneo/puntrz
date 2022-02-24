@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-24 20:20:31 +1000  
+date: 2022-02-24 20:35:41 +1000  
 ---   
 
 
@@ -88,7 +88,7 @@ date: 2022-02-24 20:20:31 +1000
 |  9 | :soon:            | 2022-02-25 00:35:00 | huntingdon         |      2 |        5 | Quickbuck          |   3    | evenodds,overthrow |
 | 10 | :soon:            | 2022-02-24 23:05:00 | turffontein        |      5 |        7 | London Roads       |   0    | vulture            |
 | 11 | :soon:            | 2022-02-24 21:20:00 | turffontein        |      2 |        1 | Cool Winter        |   0    | vulture            |
-| 12 | :soon:            | 2022-02-24 20:30:00 | pinjarra-scarpside |      8 |        3 | Agent Kensington   |   5    | pangea             |
+| 12 | --                | 2022-02-24 20:30:00 | pinjarra-scarpside |      8 |        3 | Agent Kensington   |   5    | pangea             |
 | 13 | 7.0               | 2022-02-24 19:00:00 | pinjarra-scarpside |      5 |        5 | Winning Aces       |   5    | looseknot          |
 | 14 | 10.0              | 2022-02-24 18:45:00 | racing.com-park    |      3 |        5 | I Shot The Sheriff |  34    | pangea             |
 | 15 | :boom:            | 2022-02-24 18:00:00 | pinjarra-scarpside |      3 |        9 | Cywer              |   2.15 | vulture            |
