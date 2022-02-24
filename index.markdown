@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-24 14:20:18 +1000  
+date: 2022-02-24 14:35:17 +1000  
 ---   
 
 
@@ -99,6 +99,6 @@ date: 2022-02-24 14:20:18 +1000
 | 20 | :soon:   | 2022-02-24 15:40:00 | newcastle          |      5 |        6 | Chickerartie       |  61    | pikey              |
 | 21 | :soon:   | 2022-02-24 15:40:00 | newcastle          |      5 |        4 | Hollywood North    |   4.6  | wallbow            |
 | 22 | :soon:   | 2022-02-24 15:20:00 | ipswich            |      2 |        4 | Isometric          |   3.5  | looseknot          |
-| 23 | :soon:   | 2022-02-24 14:25:00 | newcastle          |      3 |        5 | To His Credit      |   4.4  | looseknot          |
-| 24 | :soon:   | 2022-02-24 14:25:00 | newcastle          |      3 |        7 | Pathos             |  15    | pikey              |
-| 25 | :soon:   | 2022-02-24 14:25:00 | newcastle          |      3 |        1 | Affidavit          |   7.5  | looseknot          |
+| 23 | 4.0      | 2022-02-24 14:25:00 | newcastle          |      3 |        5 | To His Credit      |   4.4  | looseknot          |
+| 24 | --       | 2022-02-24 14:25:00 | newcastle          |      3 |        7 | Pathos             |  15    | pikey              |
+| 25 | --       | 2022-02-24 14:25:00 | newcastle          |      3 |        1 | Affidavit          |   7.5  | looseknot          |
