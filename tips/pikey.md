@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-02-24 14:35:16 +1000  
+date: 2022-02-24 14:50:21 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 16:50             | 2022-02-24 | newcastle R7          | 11 Danish Prince      |  41    |    -10   |
 | 15:40             | 2022-02-24 | newcastle R5          | 6 Chickerartie        |  61    |    -10   |
-| 0                 | 2022-02-24 | newcastle R3          | 7 Pathos              |   0    |    -10   |
+| 6                 | 2022-02-24 | newcastle R3          | 7 Pathos              |  15    |    -10   |
 | 0                 | 2022-02-23 | gosford R6            | 1 Off Shaw            |   0    |    -10   |
 | 0                 | 2022-02-23 | gosford R4            | 6 Roccaforte          |   0    |    -10   |
 | 0                 | 2022-02-23 | gosford R2            | 9 Mrs Patmore         |   0    |    -10   |
