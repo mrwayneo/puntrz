@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-24 15:35:24 +1000  
+date: 2022-02-24 15:50:25 +1000  
 ---   
 
 
@@ -96,8 +96,8 @@ date: 2022-02-24 15:35:24 +1000
 | 17 | :soon:            | 2022-02-24 16:50:00 | newcastle          |      7 |       11 | Danish Prince      |  41    | pikey              |
 | 18 | :soon:            | 2022-02-24 16:50:00 | newcastle          |      7 |        3 | Rustic Steel       |   2.25 | milkman            |
 | 19 | :soon:            | 2022-02-24 16:35:00 | ipswich            |      4 |        5 | Trip The Light     |   6    | benny,pangea       |
-| 20 | :soon:            | 2022-02-24 15:40:00 | newcastle          |      5 |        6 | Chickerartie       |  61    | pikey              |
-| 21 | :soon:            | 2022-02-24 15:40:00 | newcastle          |      5 |        4 | Hollywood North    |   4.6  | wallbow            |
+| 20 | --                | 2022-02-24 15:40:00 | newcastle          |      5 |        6 | Chickerartie       |  61    | pikey              |
+| 21 | --                | 2022-02-24 15:40:00 | newcastle          |      5 |        4 | Hollywood North    |   4.6  | wallbow            |
 | 22 | :2nd_place_medal: | 2022-02-24 15:20:00 | ipswich            |      2 |        4 | Isometric          |   3.5  | looseknot          |
 | 23 | 4.0               | 2022-02-24 14:25:00 | newcastle          |      3 |        5 | To His Credit      |   4.4  | looseknot          |
 | 24 | 6.0               | 2022-02-24 14:25:00 | newcastle          |      3 |        7 | Pathos             |  15    | pikey              |
