@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-25 16:51:16 +1000  
+date: 2022-02-25 17:06:14 +1000  
 ---   
 
 
@@ -105,10 +105,10 @@ date: 2022-02-25 16:51:16 +1000
 | 23 | :soon:            | 2022-02-25 18:20:00 | rockhampton   |      6 |        4 | Teeling           |   2.62 | evenodds,overthrow  |
 | 24 | :soon:            | 2022-02-25 17:45:00 | rockhampton   |      5 |        2 | Dark Archer       |   3.4  | vulture,blackshadow |
 | 25 | :soon:            | 2022-02-25 17:45:00 | rockhampton   |      5 |        3 | Triptonic         |   2.7  | vulture             |
-| 26 | :soon:            | 2022-02-25 17:05:00 | rockhampton   |      4 |        4 | Blonde's Day Out  |  11    | vulture             |
-| 27 | :soon:            | 2022-02-25 17:05:00 | rockhampton   |      4 |        6 | In Order          |   1.65 | pangea,icyhot       |
-| 28 | :soon:            | 2022-02-25 16:55:00 | ballina       |      7 |        4 | Absolute Charmer  |   4    | evenodds,lago       |
-| 29 | --                | 2022-02-25 16:50:00 | geraldton     |      2 |       11 | Minno             |   1.95 | vulture             |
+| 26 | --                | 2022-02-25 17:05:00 | rockhampton   |      4 |        4 | Blonde's Day Out  |  11    | vulture             |
+| 27 | --                | 2022-02-25 17:05:00 | rockhampton   |      4 |        6 | In Order          |   1.65 | pangea,icyhot       |
+| 28 | --                | 2022-02-25 16:55:00 | ballina       |      7 |        4 | Absolute Charmer  |   4    | evenodds,lago       |
+| 29 | :3rd_place_medal: | 2022-02-25 16:50:00 | geraldton     |      2 |       11 | Minno             |   1.95 | vulture             |
 | 30 | :2nd_place_medal: | 2022-02-25 16:27:00 | rockhampton   |      3 |        4 | She's Winning     |   3.1  | vulture             |
 | 31 | :3rd_place_medal: | 2022-02-25 16:05:00 | canberra      |      6 |        3 | Mr Magical        |   4.8  | vulture,pangea      |
 | 32 | :2nd_place_medal: | 2022-02-25 16:00:00 | sale          |      6 |        4 | What A Sham       |   2    | vulture             |
