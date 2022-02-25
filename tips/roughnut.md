@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-02-26 07:11:18 +1000  
+date: 2022-02-26 07:26:05 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:15             | 2022-02-26 | wolverhampton R8              | 1 Diva Dancer         |  51    |    -10   |
-| 07:15             | 2022-02-26 | wolverhampton R8              | 8 Jennys Jack Daniel  |  12    |    -10   |
+| 0                 | 2022-02-26 | wolverhampton R8              | 1 Diva Dancer         |   0    |    -10   |
+| 0                 | 2022-02-26 | wolverhampton R8              | 8 Jennys Jack Daniel  |   0    |    -10   |
 | 0                 | 2022-02-26 | wolverhampton R5              | 9 Bertog              |   0    |    -10   |
 | 0                 | 2022-02-26 | wolverhampton R4              | 4 Hala Joud           |   0    |    -10   |
 | :boom:            | 2022-02-26 | wolverhampton R3              | 7 Cicely              |   8.5  |     75   |
