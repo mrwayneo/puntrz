@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-25 18:36:43 +1000  
+date: 2022-02-25 18:51:28 +1000  
 ---   
 
 
@@ -20,8 +20,8 @@ date: 2022-02-25 18:36:43 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      1 |      -53 | 0.14 | -0.76 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      8 |      0 |      -80 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     21 |      2 |     -164 | 0.1  | -0.78 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     17 |      0 |     -170 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     21 |      1 |     -186 | 0.05 | -0.89 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      0 |     -320 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     36 |      0 |     -360 | 0    | -1    |
 
@@ -99,7 +99,7 @@ date: 2022-02-25 18:36:43 +1000
 | 17 | :soon:            | 2022-02-25 19:30:00 | canterbury    |      4 |        8 | Cool Missile      |  21    | pikey               |
 | 18 | :soon:            | 2022-02-25 19:15:00 | moonee-valley |      3 |        2 | Titans            |   5.5  | milkman,icyhot      |
 | 19 | :soon:            | 2022-02-25 19:15:00 | moonee-valley |      3 |        4 | Along The River   |   4    | vulture             |
-| 20 | :soon:            | 2022-02-25 18:38:00 | geraldton     |      5 |        2 | Skipping Digits   |   2.2  | vulture             |
+| 20 | :boom:            | 2022-02-25 18:38:00 | geraldton     |      5 |        2 | Skipping Digits   |   2.2  | vulture             |
 | 21 | :2nd_place_medal: | 2022-02-25 18:30:00 | canterbury    |      2 |       10 | Vivid Flash       |   6.5  | vulture,wallbow     |
 | 22 | 4.0               | 2022-02-25 18:30:00 | canterbury    |      2 |        9 | Ringarosa         |   4    | jmac                |
 | 23 | :3rd_place_medal: | 2022-02-25 18:20:00 | rockhampton   |      6 |        4 | Teeling           |   2.62 | evenodds,overthrow  |
