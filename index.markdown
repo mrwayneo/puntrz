@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-25 15:21:14 +1000  
+date: 2022-02-25 15:36:05 +1000  
 ---   
 
 
@@ -9,21 +9,21 @@ date: 2022-02-25 15:21:14 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      1 |      0 |      -10 |    0 |    -1 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 |    0 |    -1 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      2 |      0 |      -20 |    0 |    -1 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      0 |      -70 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      8 |      0 |      -80 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     17 |      0 |     -170 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     21 |      0 |     -210 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      0 |     -320 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     36 |      0 |     -360 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      1 |      0 |      -10 | 0    | -1    |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      2 |      0 |      -20 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      0 |      -70 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      8 |      0 |      -80 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     17 |      0 |     -170 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     21 |      1 |     -186 | 0.05 | -0.89 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      0 |     -320 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     36 |      0 |     -360 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -77,43 +77,43 @@ date: 2022-02-25 15:21:14 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6146 |    834 | -12228.3 | 0.14 | -0.2  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7892 |    370 | -24197   | 0.05 | -0.31 |
 
-|    | finish   | time                | track         |   race |   number | name              |   odds | tipster             |
-|---:|:---------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:--------------------|
-|  0 | :soon:   | 2022-02-26 04:45:00 | wolverhampton |      3 |        1 | Sea Formula       |   4    | vulture             |
-|  1 | :soon:   | 2022-02-26 03:20:00 | exeter        |      7 |        1 | Largy Train       |   3.1  | milkman             |
-|  2 | :soon:   | 2022-02-26 03:10:00 | warwick       |      6 |        3 | Lone Star         |   6    | looseknot           |
-|  3 | :soon:   | 2022-02-26 02:40:00 | warwick       |      5 |        2 | Alnadam           |   2.25 | overthrow           |
-|  4 | :soon:   | 2022-02-26 02:20:00 | exeter        |      5 |        5 | Father John       |  16    | overthrow           |
-|  5 | :soon:   | 2022-02-26 02:05:00 | warwick       |      4 |        5 | Eleanor Bob       |   2.75 | vulture             |
-|  6 | :soon:   | 2022-02-26 01:45:00 | exeter        |      4 |        2 | Ben Bulben        |   4    | looseknot           |
-|  7 | :soon:   | 2022-02-26 01:30:00 | warwick       |      3 |        7 | Signal Point      |   2.5  | evenodds,overthrow  |
-|  8 | :soon:   | 2022-02-26 00:45:00 | lingfield     |      1 |        1 | Rogue Mission     |   3.7  | milkman             |
-|  9 | :soon:   | 2022-02-26 00:35:00 | exeter        |      2 |        1 | Grand Mogul       |   3.3  | evenodds,overthrow  |
-| 10 | :soon:   | 2022-02-26 00:00:00 | exeter        |      1 |        1 | Bellatrixsa       |   2.6  | vulture             |
-| 11 | :soon:   | 2022-02-25 21:15:00 | moonee-valley |      7 |        7 | Snapped           |   2.45 | milkman,icyhot      |
-| 12 | :soon:   | 2022-02-25 20:45:00 | moonee-valley |      6 |        6 | Designs           |   6.5  | vulture             |
-| 13 | :soon:   | 2022-02-25 20:45:00 | moonee-valley |      6 |        5 | My Delight        |   8.5  | pangea              |
-| 14 | :soon:   | 2022-02-25 20:00:00 | canterbury    |      5 |        8 | Overlord          |   4.6  | pangea,wallbow      |
-| 15 | :soon:   | 2022-02-25 20:00:00 | canterbury    |      5 |        4 | Sindacato         |   3.3  | jmac                |
-| 16 | :soon:   | 2022-02-25 19:38:00 | geraldton     |      7 |        3 | Soviet Spy        |   2.1  | vulture             |
-| 17 | :soon:   | 2022-02-25 19:30:00 | canterbury    |      4 |        8 | Cool Missile      |  21    | pikey               |
-| 18 | :soon:   | 2022-02-25 19:15:00 | moonee-valley |      3 |        2 | Titans            |   5.5  | milkman,icyhot      |
-| 19 | :soon:   | 2022-02-25 19:15:00 | moonee-valley |      3 |        4 | Along The River   |   4    | vulture             |
-| 20 | :soon:   | 2022-02-25 18:38:00 | geraldton     |      5 |        2 | Skipping Digits   |   2.2  | vulture             |
-| 21 | :soon:   | 2022-02-25 18:30:00 | canterbury    |      2 |       10 | Vivid Flash       |   6.5  | vulture,wallbow     |
-| 22 | :soon:   | 2022-02-25 18:30:00 | canterbury    |      2 |        9 | Ringarosa         |   4    | jmac                |
-| 23 | :soon:   | 2022-02-25 18:20:00 | rockhampton   |      6 |        4 | Teeling           |   2.62 | evenodds,overthrow  |
-| 24 | :soon:   | 2022-02-25 17:45:00 | rockhampton   |      5 |        2 | Dark Archer       |   3.4  | vulture,blackshadow |
-| 25 | :soon:   | 2022-02-25 17:45:00 | rockhampton   |      5 |        3 | Triptonic         |   2.7  | vulture             |
-| 26 | :soon:   | 2022-02-25 17:05:00 | rockhampton   |      4 |        4 | Blonde's Day Out  |  11    | vulture             |
-| 27 | :soon:   | 2022-02-25 17:05:00 | rockhampton   |      4 |        6 | In Order          |   1.65 | pangea,icyhot       |
-| 28 | :soon:   | 2022-02-25 16:55:00 | ballina       |      7 |        4 | Absolute Charmer  |   4    | evenodds,lago       |
-| 29 | :soon:   | 2022-02-25 16:50:00 | geraldton     |      2 |       11 | Minno             |   1.95 | vulture             |
-| 30 | :soon:   | 2022-02-25 16:27:00 | rockhampton   |      3 |        4 | She's Winning     |   3.1  | vulture             |
-| 31 | :soon:   | 2022-02-25 16:05:00 | canberra      |      6 |        3 | Mr Magical        |   4.8  | vulture,pangea      |
-| 32 | :soon:   | 2022-02-25 16:00:00 | sale          |      6 |        4 | What A Sham       |   2    | vulture             |
-| 33 | :soon:   | 2022-02-25 15:40:00 | ballina       |      5 |        3 | Lord Markel       |   5.5  | overthrow           |
-| 34 | :soon:   | 2022-02-25 15:30:00 | sale          |      5 |        5 | He's The Ultimate |   2.25 | vulture             |
-| 35 | --       | 2022-02-25 15:12:00 | rockhampton   |      1 |        2 | Runinscared       |   2.15 | vulture             |
-| 36 | 7.0      | 2022-02-25 14:45:00 | canberra      |      4 |        2 | Retiro            |   4.5  | looseknot           |
-| 37 | --       | 2022-02-25 13:50:00 | ballina       |      2 |        3 | Antino            |   3.55 | overthrow           |
+|    | finish            | time                | track         |   race |   number | name              |   odds | tipster             |
+|---:|:------------------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:--------------------|
+|  0 | :soon:            | 2022-02-26 04:45:00 | wolverhampton |      3 |        1 | Sea Formula       |   4    | vulture             |
+|  1 | :soon:            | 2022-02-26 03:20:00 | exeter        |      7 |        1 | Largy Train       |   3.1  | milkman             |
+|  2 | :soon:            | 2022-02-26 03:10:00 | warwick       |      6 |        3 | Lone Star         |   6    | looseknot           |
+|  3 | :soon:            | 2022-02-26 02:40:00 | warwick       |      5 |        2 | Alnadam           |   2.25 | overthrow           |
+|  4 | :soon:            | 2022-02-26 02:20:00 | exeter        |      5 |        5 | Father John       |  16    | overthrow           |
+|  5 | :soon:            | 2022-02-26 02:05:00 | warwick       |      4 |        5 | Eleanor Bob       |   2.75 | vulture             |
+|  6 | :soon:            | 2022-02-26 01:45:00 | exeter        |      4 |        2 | Ben Bulben        |   4    | looseknot           |
+|  7 | :soon:            | 2022-02-26 01:30:00 | warwick       |      3 |        7 | Signal Point      |   2.5  | evenodds,overthrow  |
+|  8 | :soon:            | 2022-02-26 00:45:00 | lingfield     |      1 |        1 | Rogue Mission     |   3.7  | milkman             |
+|  9 | :soon:            | 2022-02-26 00:35:00 | exeter        |      2 |        1 | Grand Mogul       |   3.3  | evenodds,overthrow  |
+| 10 | :soon:            | 2022-02-26 00:00:00 | exeter        |      1 |        1 | Bellatrixsa       |   2.6  | vulture             |
+| 11 | :soon:            | 2022-02-25 21:15:00 | moonee-valley |      7 |        7 | Snapped           |   2.45 | milkman,icyhot      |
+| 12 | :soon:            | 2022-02-25 20:45:00 | moonee-valley |      6 |        6 | Designs           |   6.5  | vulture             |
+| 13 | :soon:            | 2022-02-25 20:45:00 | moonee-valley |      6 |        5 | My Delight        |   8.5  | pangea              |
+| 14 | :soon:            | 2022-02-25 20:00:00 | canterbury    |      5 |        8 | Overlord          |   4.6  | pangea,wallbow      |
+| 15 | :soon:            | 2022-02-25 20:00:00 | canterbury    |      5 |        4 | Sindacato         |   3.3  | jmac                |
+| 16 | :soon:            | 2022-02-25 19:38:00 | geraldton     |      7 |        3 | Soviet Spy        |   2.1  | vulture             |
+| 17 | :soon:            | 2022-02-25 19:30:00 | canterbury    |      4 |        8 | Cool Missile      |  21    | pikey               |
+| 18 | :soon:            | 2022-02-25 19:15:00 | moonee-valley |      3 |        2 | Titans            |   5.5  | milkman,icyhot      |
+| 19 | :soon:            | 2022-02-25 19:15:00 | moonee-valley |      3 |        4 | Along The River   |   4    | vulture             |
+| 20 | :soon:            | 2022-02-25 18:38:00 | geraldton     |      5 |        2 | Skipping Digits   |   2.2  | vulture             |
+| 21 | :soon:            | 2022-02-25 18:30:00 | canterbury    |      2 |       10 | Vivid Flash       |   6.5  | vulture,wallbow     |
+| 22 | :soon:            | 2022-02-25 18:30:00 | canterbury    |      2 |        9 | Ringarosa         |   4    | jmac                |
+| 23 | :soon:            | 2022-02-25 18:20:00 | rockhampton   |      6 |        4 | Teeling           |   2.62 | evenodds,overthrow  |
+| 24 | :soon:            | 2022-02-25 17:45:00 | rockhampton   |      5 |        2 | Dark Archer       |   3.4  | vulture,blackshadow |
+| 25 | :soon:            | 2022-02-25 17:45:00 | rockhampton   |      5 |        3 | Triptonic         |   2.7  | vulture             |
+| 26 | :soon:            | 2022-02-25 17:05:00 | rockhampton   |      4 |        4 | Blonde's Day Out  |  11    | vulture             |
+| 27 | :soon:            | 2022-02-25 17:05:00 | rockhampton   |      4 |        6 | In Order          |   1.65 | pangea,icyhot       |
+| 28 | :soon:            | 2022-02-25 16:55:00 | ballina       |      7 |        4 | Absolute Charmer  |   4    | evenodds,lago       |
+| 29 | :soon:            | 2022-02-25 16:50:00 | geraldton     |      2 |       11 | Minno             |   1.95 | vulture             |
+| 30 | :soon:            | 2022-02-25 16:27:00 | rockhampton   |      3 |        4 | She's Winning     |   3.1  | vulture             |
+| 31 | :soon:            | 2022-02-25 16:05:00 | canberra      |      6 |        3 | Mr Magical        |   4.8  | vulture,pangea      |
+| 32 | :soon:            | 2022-02-25 16:00:00 | sale          |      6 |        4 | What A Sham       |   2    | vulture             |
+| 33 | :soon:            | 2022-02-25 15:40:00 | ballina       |      5 |        3 | Lord Markel       |   5.5  | overthrow           |
+| 34 | :boom:            | 2022-02-25 15:30:00 | sale          |      5 |        5 | He's The Ultimate |   2.25 | vulture             |
+| 35 | :2nd_place_medal: | 2022-02-25 15:12:00 | rockhampton   |      1 |        2 | Runinscared       |   2.15 | vulture             |
+| 36 | 7.0               | 2022-02-25 14:45:00 | canberra      |      4 |        2 | Retiro            |   4.5  | looseknot           |
+| 37 | --                | 2022-02-25 13:50:00 | ballina       |      2 |        3 | Antino            |   3.55 | overthrow           |
