@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-25 18:06:09 +1000  
+date: 2022-02-25 18:21:21 +1000  
 ---   
 
 
@@ -102,7 +102,7 @@ date: 2022-02-25 18:06:09 +1000
 | 20 | :soon:            | 2022-02-25 18:38:00 | geraldton     |      5 |        2 | Skipping Digits   |   2.2  | vulture             |
 | 21 | :soon:            | 2022-02-25 18:30:00 | canterbury    |      2 |       10 | Vivid Flash       |   6.5  | vulture,wallbow     |
 | 22 | :soon:            | 2022-02-25 18:30:00 | canterbury    |      2 |        9 | Ringarosa         |   4    | jmac                |
-| 23 | :soon:            | 2022-02-25 18:20:00 | rockhampton   |      6 |        4 | Teeling           |   2.62 | evenodds,overthrow  |
+| 23 | --                | 2022-02-25 18:20:00 | rockhampton   |      6 |        4 | Teeling           |   2.62 | evenodds,overthrow  |
 | 24 | 4.0               | 2022-02-25 17:45:00 | rockhampton   |      5 |        2 | Dark Archer       |   3.4  | vulture,blackshadow |
 | 25 | 6.0               | 2022-02-25 17:45:00 | rockhampton   |      5 |        3 | Triptonic         |   2.7  | vulture             |
 | 26 | 4.0               | 2022-02-25 17:05:00 | rockhampton   |      4 |        4 | Blonde's Day Out  |  11    | vulture             |
