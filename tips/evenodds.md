@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2022-02-26 10:37:00 +1000  
+date: 2022-02-26 10:52:06 +1000  
 categories: None 
 ---   
 
@@ -481,9 +481,9 @@ categories: None
 | :2nd_place_medal: | 2021-10-02 | newmarket R2           | 8 Swoon               |   9    |    -10   |
 | :3rd_place_medal: | 2021-10-02 | kalgoorlie R8          | 9 Sugar Cain          |   4.4  |    -10   |
 | 4                 | 2021-10-02 | darwin R5              | 3 Prince Ruban        |   7    |    -10   |
-| 99                | 2021-10-02 | gowran-park R8         | 4 Memorable Daise     |  15    |    -10   |
 | :boom:            | 2021-10-02 | gowran-park R8         | 6 Quiet Escape        |  18    |    170   |
 | :3rd_place_medal: | 2021-10-02 | gowran-park R8         | 3 Flemencello         |   3.6  |    -10   |
+| 99                | 2021-10-02 | gowran-park R8         | 4 Memorable Daise     |  15    |    -10   |
 | :boom:            | 2021-10-02 | ascot R6               | 1 Sunray Major        |   2.3  |     13   |
 | 99                | 2021-10-02 | ascot R3               | 3 First Light         |   6    |    -10   |
 | 7                 | 2021-10-01 | townsville R4          | 2 Cash Raider         |  61    |    -10   |
@@ -671,9 +671,9 @@ categories: None
 | :3rd_place_medal: | 2021-07-31 | musselburgh R1         | 8 Dream Point         |  13    |    -10   |
 | :boom:            | 2021-07-31 | goodwood R7            | 1 Wink Of An Eye      |   3.75 |     27.5 |
 | 99                | 2021-07-31 | galway R3              | 4 Ruaille Buaille     |   8    |    -10   |
+| 99                | 2021-07-31 | goodwood R3            | 15 Path Of Thunder    |   3.5  |    -10   |
 | 4                 | 2021-07-31 | goodwood R3            | 3 Johan               |  10    |    -10   |
 | 99                | 2021-07-31 | goodwood R3            | 5 Magical Morning     |   9    |    -10   |
-| 99                | 2021-07-31 | goodwood R3            | 15 Path Of Thunder    |   3.5  |    -10   |
 | :boom:            | 2021-07-30 | galway R3              | 4 Fan De Blues        |   4.6  |     36   |
 | :2nd_place_medal: | 2021-07-30 | galway R1              | 10 Tax For Max        |   2.62 |    -10   |
 | 99                | 2021-07-30 | goodwood R3            | 1 Yibir               |   5    |    -10   |
