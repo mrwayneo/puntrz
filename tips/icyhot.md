@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-02-25 21:22:12 +1000  
+date: 2022-02-25 21:37:14 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                   | runner                |   win |   return |
 |:------------------|:-----------|:------------------------|:----------------------|------:|---------:|
-| 0                 | 2022-02-25 | moonee-valley R7        | 7 Snapped             |  0    |    -10   |
+| 7                 | 2022-02-25 | moonee-valley R7        | 7 Snapped             |  2.45 |    -10   |
 | 0                 | 2022-02-25 | moonee-valley R3        | 2 Titans              |  0    |    -10   |
 | :boom:            | 2022-02-25 | rockhampton R4          | 6 In Order            |  1.7  |      7   |
 | 6                 | 2022-02-23 | ascot R5                | 3 Treat Yo Self       |  8    |    -10   |
