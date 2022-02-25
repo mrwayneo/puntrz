@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-25 20:37:26 +1000  
+date: 2022-02-25 20:52:16 +1000  
 ---   
 
 
@@ -91,8 +91,8 @@ date: 2022-02-25 20:37:26 +1000
 |  9 | :soon:            | 2022-02-26 00:35:00 | exeter        |      2 |        1 | Grand Mogul       |   3.3  | evenodds,overthrow  |
 | 10 | :soon:            | 2022-02-26 00:00:00 | exeter        |      1 |        1 | Bellatrixsa       |   2.6  | vulture             |
 | 11 | :soon:            | 2022-02-25 21:15:00 | moonee-valley |      7 |        7 | Snapped           |   2.45 | milkman,icyhot      |
-| 12 | :soon:            | 2022-02-25 20:45:00 | moonee-valley |      6 |        6 | Designs           |   6.5  | vulture             |
-| 13 | :soon:            | 2022-02-25 20:45:00 | moonee-valley |      6 |        5 | My Delight        |   8.5  | pangea              |
+| 12 | --                | 2022-02-25 20:45:00 | moonee-valley |      6 |        6 | Designs           |   6.5  | vulture             |
+| 13 | --                | 2022-02-25 20:45:00 | moonee-valley |      6 |        5 | My Delight        |   8.5  | pangea              |
 | 14 | 4.0               | 2022-02-25 20:00:00 | canterbury    |      5 |        8 | Overlord          |   4.6  | pangea,wallbow      |
 | 15 | --                | 2022-02-25 20:00:00 | canterbury    |      5 |        4 | Sindacato         |   3.3  | jmac                |
 | 16 | :boom:            | 2022-02-25 19:38:00 | geraldton     |      7 |        3 | Soviet Spy        |   2.1  | vulture             |
