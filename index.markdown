@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-25 19:06:12 +1000  
+date: 2022-02-25 19:21:22 +1000  
 ---   
 
 
@@ -97,8 +97,8 @@ date: 2022-02-25 19:06:12 +1000
 | 15 | :soon:            | 2022-02-25 20:00:00 | canterbury    |      5 |        4 | Sindacato         |   3.3  | jmac                |
 | 16 | :soon:            | 2022-02-25 19:38:00 | geraldton     |      7 |        3 | Soviet Spy        |   2.1  | vulture             |
 | 17 | :soon:            | 2022-02-25 19:30:00 | canterbury    |      4 |        8 | Cool Missile      |  21    | pikey               |
-| 18 | :soon:            | 2022-02-25 19:15:00 | moonee-valley |      3 |        2 | Titans            |   5.5  | milkman,icyhot      |
-| 19 | :soon:            | 2022-02-25 19:15:00 | moonee-valley |      3 |        4 | Along The River   |   4    | vulture             |
+| 18 | --                | 2022-02-25 19:15:00 | moonee-valley |      3 |        2 | Titans            |   5.5  | milkman,icyhot      |
+| 19 | --                | 2022-02-25 19:15:00 | moonee-valley |      3 |        4 | Along The River   |   4    | vulture             |
 | 20 | :boom:            | 2022-02-25 18:38:00 | geraldton     |      5 |        2 | Skipping Digits   |   2.2  | vulture             |
 | 21 | :2nd_place_medal: | 2022-02-25 18:30:00 | canterbury    |      2 |       10 | Vivid Flash       |   6.5  | vulture,wallbow     |
 | 22 | 4.0               | 2022-02-25 18:30:00 | canterbury    |      2 |        9 | Ringarosa         |   4    | jmac                |
