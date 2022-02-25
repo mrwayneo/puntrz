@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-25 19:46:48 +1000  
+date: 2022-02-25 20:05:40 +1000  
 ---   
 
 
@@ -93,8 +93,8 @@ date: 2022-02-25 19:46:48 +1000
 | 11 | :soon:            | 2022-02-25 21:15:00 | moonee-valley |      7 |        7 | Snapped           |   2.45 | milkman,icyhot      |
 | 12 | :soon:            | 2022-02-25 20:45:00 | moonee-valley |      6 |        6 | Designs           |   6.5  | vulture             |
 | 13 | :soon:            | 2022-02-25 20:45:00 | moonee-valley |      6 |        5 | My Delight        |   8.5  | pangea              |
-| 14 | :soon:            | 2022-02-25 20:00:00 | canterbury    |      5 |        8 | Overlord          |   4.6  | pangea,wallbow      |
-| 15 | :soon:            | 2022-02-25 20:00:00 | canterbury    |      5 |        4 | Sindacato         |   3.3  | jmac                |
+| 14 | 4.0               | 2022-02-25 20:00:00 | canterbury    |      5 |        8 | Overlord          |   4.6  | pangea,wallbow      |
+| 15 | --                | 2022-02-25 20:00:00 | canterbury    |      5 |        4 | Sindacato         |   3.3  | jmac                |
 | 16 | :boom:            | 2022-02-25 19:38:00 | geraldton     |      7 |        3 | Soviet Spy        |   2.1  | vulture             |
 | 17 | 7.0               | 2022-02-25 19:30:00 | canterbury    |      4 |        8 | Cool Missile      |  21    | pikey               |
 | 18 | --                | 2022-02-25 19:15:00 | moonee-valley |      3 |        2 | Titans            |   5.5  | milkman,icyhot      |

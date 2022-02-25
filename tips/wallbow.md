@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-02-25 19:46:42 +1000  
+date: 2022-02-25 20:05:31 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner             |   win |   return |
 |:------------------|:-----------|:---------------------|:-------------------|------:|---------:|
-| 20:00             | 2022-02-25 | canterbury R5        | 8 Overlord         |  4.6  |      -10 |
+| 4                 | 2022-02-25 | canterbury R5        | 8 Overlord         |  4.6  |      -10 |
 | :2nd_place_medal: | 2022-02-25 | canterbury R2        | 10 Vivid Flash     |  6.5  |      -10 |
 | :boom:            | 2022-02-24 | newcastle R6         | 3 Endorsement      |  2.5  |       15 |
 | 6                 | 2022-02-24 | newcastle R5         | 4 Hollywood North  |  4.6  |      -10 |
