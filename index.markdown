@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-25 17:51:20 +1000  
+date: 2022-02-25 18:06:09 +1000  
 ---   
 
 
@@ -104,7 +104,7 @@ date: 2022-02-25 17:51:20 +1000
 | 22 | :soon:            | 2022-02-25 18:30:00 | canterbury    |      2 |        9 | Ringarosa         |   4    | jmac                |
 | 23 | :soon:            | 2022-02-25 18:20:00 | rockhampton   |      6 |        4 | Teeling           |   2.62 | evenodds,overthrow  |
 | 24 | 4.0               | 2022-02-25 17:45:00 | rockhampton   |      5 |        2 | Dark Archer       |   3.4  | vulture,blackshadow |
-| 25 | --                | 2022-02-25 17:45:00 | rockhampton   |      5 |        3 | Triptonic         |   2.7  | vulture             |
+| 25 | 6.0               | 2022-02-25 17:45:00 | rockhampton   |      5 |        3 | Triptonic         |   2.7  | vulture             |
 | 26 | 4.0               | 2022-02-25 17:05:00 | rockhampton   |      4 |        4 | Blonde's Day Out  |  11    | vulture             |
 | 27 | :boom:            | 2022-02-25 17:05:00 | rockhampton   |      4 |        6 | In Order          |   1.65 | pangea,icyhot       |
 | 28 | --                | 2022-02-25 16:55:00 | ballina       |      7 |        4 | Absolute Charmer  |   4    | evenodds,lago       |
