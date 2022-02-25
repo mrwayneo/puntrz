@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-25 16:06:10 +1000  
+date: 2022-02-25 16:21:08 +1000  
 ---   
 
 
@@ -110,7 +110,7 @@ date: 2022-02-25 16:06:10 +1000
 | 28 | :soon:            | 2022-02-25 16:55:00 | ballina       |      7 |        4 | Absolute Charmer  |   4    | evenodds,lago       |
 | 29 | :soon:            | 2022-02-25 16:50:00 | geraldton     |      2 |       11 | Minno             |   1.95 | vulture             |
 | 30 | :soon:            | 2022-02-25 16:27:00 | rockhampton   |      3 |        4 | She's Winning     |   3.1  | vulture             |
-| 31 | --                | 2022-02-25 16:05:00 | canberra      |      6 |        3 | Mr Magical        |   4.8  | vulture,pangea      |
+| 31 | :3rd_place_medal: | 2022-02-25 16:05:00 | canberra      |      6 |        3 | Mr Magical        |   4.8  | vulture,pangea      |
 | 32 | :2nd_place_medal: | 2022-02-25 16:00:00 | sale          |      6 |        4 | What A Sham       |   2    | vulture             |
 | 33 | --                | 2022-02-25 15:40:00 | ballina       |      5 |        3 | Lord Markel       |   5.5  | overthrow           |
 | 34 | :boom:            | 2022-02-25 15:30:00 | sale          |      5 |        5 | He's The Ultimate |   2.25 | vulture             |
