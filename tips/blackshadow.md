@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-02-26 07:56:05 +1000  
+date: 2022-02-26 08:34:06 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,15 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 00:50             | 2022-02-27 | kempton R2                    | 1 Impulsive One       |  7    |    -10   |
+| 17:35             | 2022-02-26 | alice-springs R3              | 3 Mathematics         |  1.8  |    -10   |
+| 17:05             | 2022-02-26 | caulfield R8                  | 7 Away Game           |  9    |    -10   |
+| 17:05             | 2022-02-26 | caulfield R8                  | 4 Bella Nipotina      | 11    |    -10   |
+| 16:55             | 2022-02-26 | alice-springs R2              | 8 Celtic Belle        |  3.8  |    -10   |
+| 15:57             | 2022-02-26 | morphettville R6              | 6 Extra Mile          |  7    |    -10   |
+| 14:25             | 2022-02-26 | caulfield R4                  | 5 Decent Raine        |  7    |    -10   |
+| 12:52             | 2022-02-26 | morphettville R1              | 1 Black Sail          |  4.8  |    -10   |
+| 12:40             | 2022-02-26 | caulfield R1                  | 2 Generation          |  1.95 |    -10   |
 | 9                 | 2022-02-25 | moonee-valley R5              | 3 Count Zero          | 34    |    -10   |
 | 4                 | 2022-02-25 | rockhampton R5                | 2 Dark Archer         |  3.4  |    -10   |
 | :boom:            | 2022-02-25 | rockhampton R4                | 6 In Order            |  1.7  |      7   |
@@ -130,8 +139,8 @@ categories: None
 | 8                 | 2021-12-12 | sha-tin R5                    | 3 Danon Smash         |  0    |    -10   |
 | :2nd_place_medal: | 2021-12-12 | sha-tin R4                    | 1 Pyledriver          |  4.8  |    -10   |
 | :boom:            | 2021-12-12 | sha-tin R4                    | 2 Glory Vase          |  1.8  |      8   |
-| :3rd_place_medal: | 2021-12-11 | ascot R8                      | 14 Stafford's Lad     | 14    |    -10   |
 | 5                 | 2021-12-11 | ascot R8                      | 13 Pure Devotion      |  2.7  |    -10   |
+| :3rd_place_medal: | 2021-12-11 | ascot R8                      | 14 Stafford's Lad     | 14    |    -10   |
 | 6                 | 2021-12-11 | ascot R6                      | 5 New Amsterdam       |  9.5  |    -10   |
 | :2nd_place_medal: | 2021-12-11 | ascot R5                      | 4 Proconsent          |  1.8  |    -10   |
 | 6                 | 2021-12-11 | toowoomba R1                  | 6 Wait A Minute       | 20    |    -10   |
@@ -460,8 +469,8 @@ categories: None
 | :2nd_place_medal: | 2021-06-12 | darwin R6                     | 8 Tugga War           |  6    |    -10   |
 | 5                 | 2021-06-12 | belmont R5                    | 5 Devoted Star        |  2.7  |    -10   |
 | :2nd_place_medal: | 2021-06-12 | darwin R1                     | 5 Patria              |  2.5  |    -10   |
-| :boom:            | 2021-06-10 | rockhampton R4                | 1 Tango Rain          |  3.4  |     24   |
 | :2nd_place_medal: | 2021-06-10 | rockhampton R4                | 2 Barachiel           |  4.05 |    -10   |
+| :boom:            | 2021-06-10 | rockhampton R4                | 1 Tango Rain          |  3.4  |     24   |
 | 7                 | 2021-06-06 | devonport-synthetic R8        | 5 Spihro              |  9.5  |    -10   |
 | 7                 | 2021-06-06 | devonport-synthetic R7        | 3 Lesnar              |  7.5  |    -10   |
 | :3rd_place_medal: | 2021-06-05 | belmont R9                    | 11 Bright Diamond     |  1.9  |    -10   |
@@ -487,8 +496,8 @@ categories: None
 | :boom:            | 2021-05-29 | darwin R1                     | 7 The Auditor         | 12.5  |    115   |
 | :boom:            | 2021-05-29 | belmont R2                    | 6 Graceful Girl       |  2.6  |     16   |
 | 8                 | 2021-05-29 | eagle-farm R5                 | 1 Southern France     | 11.2  |    -10   |
-| 12                | 2021-05-29 | eagle-farm R3                 | 7 Exoboom             |  8.5  |    -10   |
 | 7                 | 2021-05-29 | eagle-farm R3                 | 1 Aim                 | 26    |    -10   |
+| 12                | 2021-05-29 | eagle-farm R3                 | 7 Exoboom             |  8.5  |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R4             | 5 Weboughtazou        |  2.9  |    -10   |
 | 6                 | 2021-05-26 | belmont R1                    | 3 Nowhiteflag         |  1.95 |    -10   |
 | :boom:            | 2021-05-25 | rockhampton R2                | 1 Stubai              |  2    |     10   |
