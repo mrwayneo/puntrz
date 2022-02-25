@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-25 18:21:20 +1000  
+date: 2022-02-25 18:36:41 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 20:00             | 2022-02-25 | canterbury R5        | 4 Sindacato          |  3.3  |    -10   |
-| 18:30             | 2022-02-25 | canterbury R2        | 9 Ringarosa          |  4    |    -10   |
+| 4                 | 2022-02-25 | canterbury R2        | 9 Ringarosa          |  4    |    -10   |
 | 0                 | 2022-02-23 | gosford R6           | 7 Azarmin            |  0    |    -10   |
 | 0                 | 2022-02-23 | gosford R3           | 6 Scat's Surfer Girl |  0    |    -10   |
 | 0                 | 2022-02-23 | gosford R2           | 7 Birdonawing        |  0    |    -10   |
