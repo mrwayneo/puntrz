@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 19:25:16 +1000  
+date: 2022-02-26 20:21:35 +1000  
 ---   
 
 
@@ -23,7 +23,7 @@ date: 2022-02-26 19:25:16 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      6 |   -137   | 0.15 | -0.33 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      2 |   -148   | 0.06 | -0.44 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      2 |   -250   | 0.07 | -0.83 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      4 |   -328.5 | 0.09 | -0.73 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      5 |   -301.5 | 0.11 | -0.67 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      2 |   -598   | 0.03 | -0.76 |
 
 ##### Form Last 20 tips   
@@ -126,13 +126,13 @@ date: 2022-02-26 19:25:16 +1000
 |  43 | :soon:            | 2022-02-26 22:35:00 | kenilworth                |      2 |        3 | Body Electric      |   0    | milkman             |
 |  44 | :soon:            | 2022-02-26 22:00:00 | kenilworth                |      1 |        8 | Trompie            |   0    | milkman             |
 |  45 | :soon:            | 2022-02-26 21:23:00 | toowoomba                 |      6 |        2 | Even Now           |   1.2  | vulture             |
-|  46 | :soon:            | 2022-02-26 19:55:00 | ascot                     |      7 |        6 | Comes A Time       |   2.45 | pangea              |
-|  47 | :soon:            | 2022-02-26 19:55:00 | ascot                     |      7 |        4 | Lipstick Flickers  |   4.4  | vulture,pangea      |
+|  46 | :2nd_place_medal: | 2022-02-26 19:55:00 | ascot                     |      7 |        6 | Comes A Time       |   2.45 | pangea              |
+|  47 | :3rd_place_medal: | 2022-02-26 19:55:00 | ascot                     |      7 |        4 | Lipstick Flickers  |   4.4  | vulture,pangea      |
 |  48 | :boom:            | 2022-02-26 19:00:00 | singapore                 |      9 |        2 | Katak              |   0    | vulture,milkman     |
 |  49 | :boom:            | 2022-02-26 18:40:00 | ascot                     |      5 |        2 | Tri For Us         |   3.8  | evenodds,overthrow  |
 |  50 | 103.0             | 2022-02-26 18:12:00 | doomben                   |      9 |        9 | Glitter Strip      |   4.2  | vulture             |
 |  51 | :2nd_place_medal: | 2022-02-26 18:06:00 | alice-springs             |      4 |        2 | Extraction         |   4.2  | vulture             |
-|  52 | --                | 2022-02-26 18:06:00 | alice-springs             |      4 |        8 | Meydan Lass        |   3.7  | vulture             |
+|  52 | 6.0               | 2022-02-26 18:06:00 | alice-springs             |      4 |        8 | Meydan Lass        |   3.7  | vulture             |
 |  53 | :boom:            | 2022-02-26 18:04:00 | ascot                     |      4 |        1 | Trix Of The Trade  |   1.55 | milkman             |
 |  54 | 6.0               | 2022-02-26 18:04:00 | ascot                     |      4 |        3 | He's A Lucky Lad   |   8    | benny,pangea        |
 |  55 | :3rd_place_medal: | 2022-02-26 18:04:00 | ascot                     |      4 |        7 | Henchard           |   7    | evenodds,overthrow  |
