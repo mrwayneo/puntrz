@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 13:07:32 +1000  
+date: 2022-02-26 13:22:33 +1000  
 ---   
 
 
@@ -9,22 +9,22 @@ date: 2022-02-26 13:07:32 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |    -10   | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      1 |    -14   | 0.25 | -0.35 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |    -20   | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |    -30   | 0    | -1    |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |    -40   | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      9 |      1 |    -42   | 0.11 | -0.47 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |    -60   | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      0 |    -70   | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      1 |   -274   | 0.03 | -0.88 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      0 |   -300   | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      0 |   -340   | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      1 |   -392   | 0.02 | -0.89 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      0 |   -410   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      1 |   -426.5 | 0.02 | -0.95 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      0 |   -790   | 0    | -1    |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      1 |      -14 | 0.25 | -0.35 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      9 |      1 |      -42 | 0.11 | -0.47 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |      -60 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      0 |      -70 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      1 |     -274 | 0.03 | -0.88 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      0 |     -300 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      0 |     -340 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      2 |     -374 | 0.05 | -0.85 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      0 |     -410 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      1 |     -428 | 0.02 | -0.95 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      0 |     -790 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -200,8 +200,8 @@ date: 2022-02-26 13:07:32 +1000
 | 117 | :soon:            | 2022-02-26 13:35:00 | randwick                  |      3 |        4 | Fireburn           |   5    | milkman             |
 | 118 | :soon:            | 2022-02-26 13:35:00 | randwick                  |      3 |        7 | Dame Cartland      |  21    | overthrow,pikey     |
 | 119 | :soon:            | 2022-02-26 13:35:00 | randwick                  |      3 |        3 | Lady Laguna        |   2.75 | vulture,milkman     |
-| 120 | :soon:            | 2022-02-26 13:15:00 | caulfield                 |      2 |        3 | Kahma Lass         |   8.5  | pangea              |
-| 121 | :soon:            | 2022-02-26 13:15:00 | caulfield                 |      2 |        2 | Flying Mascot      |   1.83 | pangea              |
+| 120 | :3rd_place_medal: | 2022-02-26 13:15:00 | caulfield                 |      2 |        3 | Kahma Lass         |   8.5  | pangea              |
+| 121 | :boom:            | 2022-02-26 13:15:00 | caulfield                 |      2 |        2 | Flying Mascot      |   1.83 | pangea              |
 | 122 | 103.0             | 2022-02-26 13:08:00 | doomben                   |      1 |        5 | Stuck In A Dream   |   4    | vulture             |
 | 123 | :boom:            | 2022-02-26 12:52:00 | morphettville             |      1 |        1 | Black Sail         |   4.8  | pangea,blackshadow  |
 | 124 | :2nd_place_medal: | 2022-02-26 12:40:00 | caulfield                 |      1 |        2 | Generation         |   1.95 | pangea,icyhot       |
