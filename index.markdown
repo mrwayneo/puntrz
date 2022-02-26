@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 17:27:36 +1000  
+date: 2022-02-26 17:43:08 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-02-26 17:27:36 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      4 |      8   | 0.13 |  0.03 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      5 |    205   | 0.16 |  0.66 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      1 |     -5   | 0.33 | -0.17 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |    -10   | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      1 |    -14   | 0.25 | -0.35 |
@@ -19,7 +19,7 @@ date: 2022-02-26 17:27:36 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      9 |      1 |    -42   | 0.11 | -0.47 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      1 |    -51   | 0.14 | -0.73 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |    -60   | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      6 |   -142   | 0.14 | -0.32 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      7 |    -78   | 0.16 | -0.18 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      3 |   -214   | 0.07 | -0.52 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      1 |   -240   | 0.03 | -0.71 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      1 |   -281   | 0.03 | -0.94 |
@@ -137,21 +137,21 @@ date: 2022-02-26 17:27:36 +1000
 |  54 | :soon:            | 2022-02-26 18:04:00 | ascot                     |      4 |        3 | He's A Lucky Lad   |   8    | benny,pangea        |
 |  55 | :soon:            | 2022-02-26 18:04:00 | ascot                     |      4 |        7 | Henchard           |   7    | evenodds,overthrow  |
 |  56 | :soon:            | 2022-02-26 18:00:00 | randwick                  |     10 |        4 | Gravina            |   2.75 | vulture             |
-|  57 | :soon:            | 2022-02-26 17:40:00 | caulfield                 |      9 |        4 | Pancho             |   9.5  | pangea              |
-|  58 | :soon:            | 2022-02-26 17:35:00 | alice-springs             |      3 |        3 | Mathematics        |   1.8  | benny,blackshadow   |
+|  57 | --                | 2022-02-26 17:40:00 | caulfield                 |      9 |        4 | Pancho             |   9.5  | pangea              |
+|  58 | --                | 2022-02-26 17:35:00 | alice-springs             |      3 |        3 | Mathematics        |   1.8  | benny,blackshadow   |
 |  59 | 103.0             | 2022-02-26 17:33:00 | doomben                   |      8 |       13 | Glitter Strip      |   0    | vulture             |
 |  60 | 103.0             | 2022-02-26 17:33:00 | doomben                   |      8 |        7 | Boomnova           |   5.5  | vulture             |
 |  61 | 103.0             | 2022-02-26 17:33:00 | doomben                   |      8 |        9 | Maybe The Best     |   2.7  | evenodds,overthrow  |
-|  62 | :soon:            | 2022-02-26 17:33:00 | sunshine-coast-poly-track |      6 |        3 | Sir Rocket         |   0    | overthrow           |
+|  62 | --                | 2022-02-26 17:33:00 | sunshine-coast-poly-track |      6 |        3 | Sir Rocket         |   0    | overthrow           |
 |  63 | 103.0             | 2022-02-26 17:33:00 | doomben                   |      8 |        2 | Smart Image        |   9    | overthrow           |
 |  64 | 103.0             | 2022-02-26 17:33:00 | doomben                   |      8 |       14 | Sweet Margot May   |  11    | milkman             |
-|  65 | :soon:            | 2022-02-26 17:29:00 | ascot                     |      3 |        1 | Cristal Dane       |   5    | pangea              |
-|  66 | :soon:            | 2022-02-26 17:29:00 | ascot                     |      3 |        8 | Secret Deploy      |   2.2  | milkman             |
-|  67 | --                | 2022-02-26 17:25:00 | randwick                  |      9 |        3 | Chalk Stream       |  10    | jmac                |
-|  68 | --                | 2022-02-26 17:25:00 | randwick                  |      9 |       11 | Dadoozdart         |   9.5  | benny,pikey         |
-|  69 | --                | 2022-02-26 17:25:00 | randwick                  |      9 |       12 | Surefire           |  18    | milkman             |
-|  70 | --                | 2022-02-26 17:25:00 | randwick                  |      9 |        2 | Yiyi               |   5    | pangea              |
-|  71 | --                | 2022-02-26 17:19:00 | morphettville             |      8 |       11 | Harleymoven        |   2.9  | vulture             |
+|  65 | :boom:            | 2022-02-26 17:29:00 | ascot                     |      3 |        1 | Cristal Dane       |   5    | pangea              |
+|  66 | :3rd_place_medal: | 2022-02-26 17:29:00 | ascot                     |      3 |        8 | Secret Deploy      |   2.2  | milkman             |
+|  67 | 7.0               | 2022-02-26 17:25:00 | randwick                  |      9 |        3 | Chalk Stream       |  10    | jmac                |
+|  68 | 4.0               | 2022-02-26 17:25:00 | randwick                  |      9 |       11 | Dadoozdart         |   9.5  | benny,pikey         |
+|  69 | :boom:            | 2022-02-26 17:25:00 | randwick                  |      9 |       12 | Surefire           |  18    | milkman             |
+|  70 | 12.0              | 2022-02-26 17:25:00 | randwick                  |      9 |        2 | Yiyi               |   5    | pangea              |
+|  71 | 5.0               | 2022-02-26 17:19:00 | morphettville             |      8 |       11 | Harleymoven        |   2.9  | vulture             |
 |  72 | 13.0              | 2022-02-26 17:05:00 | caulfield                 |      8 |        3 | Jonker             |  17    | pangea              |
 |  73 | 8.0               | 2022-02-26 17:05:00 | caulfield                 |      8 |       12 | Ingratiating       |  22    | pangea              |
 |  74 | :2nd_place_medal: | 2022-02-26 17:05:00 | caulfield                 |      8 |        7 | Away Game          |   9    | benny,blackshadow   |

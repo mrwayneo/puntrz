@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-26 17:27:35 +1000  
+date: 2022-02-26 17:43:06 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 0                 | 2022-02-26 | randwick R9          | 3 Chalk Stream       |  0    |    -10   |
+| 7                 | 2022-02-26 | randwick R9          | 3 Chalk Stream       | 10    |    -10   |
 | :boom:            | 2022-02-26 | randwick R7          | 8 Verry Elleegant    |  2.5  |     15   |
 | 4                 | 2022-02-26 | randwick R6          | 8 Icebath            |  2.1  |    -10   |
 | 6                 | 2022-02-26 | randwick R5          | 8 Atishu             |  3.6  |    -10   |
