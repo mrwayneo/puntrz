@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 16:12:29 +1000  
+date: 2022-02-26 16:27:40 +1000  
 ---   
 
 
@@ -20,10 +20,10 @@ date: 2022-02-26 16:12:29 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |    -60   | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      5 |   -167   | 0.11 | -0.38 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      2 |   -195   | 0.06 | -0.63 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      3 |   -214   | 0.07 | -0.52 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      1 |   -240   | 0.03 | -0.71 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      1 |   -281   | 0.03 | -0.94 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      3 |   -359.5 | 0.07 | -0.8  |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      2 |   -368   | 0.05 | -0.9  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      3 |   -361.5 | 0.07 | -0.8  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      1 |   -690   | 0.01 | -0.87 |
 
 ##### Form Last 20 tips   
@@ -163,15 +163,15 @@ date: 2022-02-26 16:12:29 +1000
 |  80 | :soon:            | 2022-02-26 16:49:00 | mackay                    |      6 |        7 | Tavi Mcbride       |   6.5  | pangea              |
 |  81 | :soon:            | 2022-02-26 16:49:00 | mackay                    |      6 |        6 | Seberton           |   5.5  | pangea              |
 |  82 | :soon:            | 2022-02-26 16:37:00 | morphettville             |      7 |       11 | Sparkup            |   6    | vulture,pangea      |
-|  83 | :soon:            | 2022-02-26 16:25:00 | caulfield                 |      7 |        3 | Daumier            |  12    | milkman             |
-|  84 | :soon:            | 2022-02-26 16:25:00 | caulfield                 |      7 |        5 | Counttheheadlights |  18    | pangea,milkman      |
-|  85 | :soon:            | 2022-02-26 16:25:00 | caulfield                 |      7 |        8 | Merchant Prince    |  61    | vulture             |
-|  86 | :soon:            | 2022-02-26 16:25:00 | caulfield                 |      7 |        6 | Jacquinot          |   4.4  | pangea,milkman      |
-|  87 | :soon:            | 2022-02-26 16:25:00 | caulfield                 |      7 |       12 | Miss Roseiano      |  10    | milkman             |
-|  88 | :soon:            | 2022-02-26 16:19:00 | alice-springs             |      1 |        3 | Envy Me            |   4    | vulture             |
-|  89 | :soon:            | 2022-02-26 16:19:00 | alice-springs             |      1 |        4 | Valiant Lad        |   2.25 | vulture             |
-|  90 | --                | 2022-02-26 16:09:00 | mackay                    |      5 |        5 | Sweet Dolly        |   1.5  | evenodds,lago       |
-|  91 | --                | 2022-02-26 16:09:00 | mackay                    |      5 |        8 | Magnetic Drive     |   9.5  | vulture             |
+|  83 | --                | 2022-02-26 16:25:00 | caulfield                 |      7 |        3 | Daumier            |  12    | milkman             |
+|  84 | --                | 2022-02-26 16:25:00 | caulfield                 |      7 |        5 | Counttheheadlights |  18    | pangea,milkman      |
+|  85 | --                | 2022-02-26 16:25:00 | caulfield                 |      7 |        8 | Merchant Prince    |  61    | vulture             |
+|  86 | --                | 2022-02-26 16:25:00 | caulfield                 |      7 |        6 | Jacquinot          |   4.4  | pangea,milkman      |
+|  87 | --                | 2022-02-26 16:25:00 | caulfield                 |      7 |       12 | Miss Roseiano      |  10    | milkman             |
+|  88 | --                | 2022-02-26 16:19:00 | alice-springs             |      1 |        3 | Envy Me            |   4    | vulture             |
+|  89 | --                | 2022-02-26 16:19:00 | alice-springs             |      1 |        4 | Valiant Lad        |   2.25 | vulture             |
+|  90 | :3rd_place_medal: | 2022-02-26 16:09:00 | mackay                    |      5 |        5 | Sweet Dolly        |   1.5  | evenodds,lago       |
+|  91 | :boom:            | 2022-02-26 16:09:00 | mackay                    |      5 |        8 | Magnetic Drive     |   9.5  | vulture             |
 |  92 | --                | 2022-02-26 16:05:00 | randwick                  |      7 |        4 | Mount Popa         |  34    | pikey               |
 |  93 | :boom:            | 2022-02-26 16:05:00 | randwick                  |      7 |        8 | Verry Elleegant    |   2.88 | pangea,jmac         |
 |  94 | --                | 2022-02-26 16:05:00 | randwick                  |      7 |        9 | Colette            |   3.1  | vulture,pangea      |
