@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 18:45:21 +1000  
+date: 2022-02-26 19:01:10 +1000  
 ---   
 
 
@@ -128,7 +128,7 @@ date: 2022-02-26 18:45:21 +1000
 |  45 | :soon:            | 2022-02-26 21:23:00 | toowoomba                 |      6 |        2 | Even Now           |   1.2  | vulture             |
 |  46 | :soon:            | 2022-02-26 19:55:00 | ascot                     |      7 |        6 | Comes A Time       |   2.45 | pangea              |
 |  47 | :soon:            | 2022-02-26 19:55:00 | ascot                     |      7 |        4 | Lipstick Flickers  |   4.4  | vulture,pangea      |
-|  48 | :soon:            | 2022-02-26 19:00:00 | singapore                 |      9 |        2 | Katak              |   0    | vulture,milkman     |
+|  48 | --                | 2022-02-26 19:00:00 | singapore                 |      9 |        2 | Katak              |   0    | vulture,milkman     |
 |  49 | :boom:            | 2022-02-26 18:40:00 | ascot                     |      5 |        2 | Tri For Us         |   3.8  | evenodds,overthrow  |
 |  50 | 103.0             | 2022-02-26 18:12:00 | doomben                   |      9 |        9 | Glitter Strip      |   4.2  | vulture             |
 |  51 | --                | 2022-02-26 18:06:00 | alice-springs             |      4 |        2 | Extraction         |   4.2  | vulture             |
