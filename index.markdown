@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 16:42:17 +1000  
+date: 2022-02-26 16:57:36 +1000  
 ---   
 
 
@@ -158,10 +158,10 @@ date: 2022-02-26 16:42:17 +1000
 |  75 | :soon:            | 2022-02-26 17:05:00 | caulfield                 |      8 |        4 | Bella Nipotina     |  11    | pangea,blackshadow  |
 |  76 | :soon:            | 2022-02-26 17:05:00 | caulfield                 |      8 |        5 | Marabi             |   2.88 | pangea,icyhot       |
 |  77 | 103.0             | 2022-02-26 16:57:00 | doomben                   |      7 |        3 | Le Palmier         |   4    | overthrow           |
-|  78 | :soon:            | 2022-02-26 16:55:00 | alice-springs             |      2 |        8 | Celtic Belle       |   3.8  | benny,blackshadow   |
-|  79 | :soon:            | 2022-02-26 16:53:00 | ascot                     |      2 |        1 | Material Witness   |   7    | vulture,pangea      |
-|  80 | :soon:            | 2022-02-26 16:49:00 | mackay                    |      6 |        7 | Tavi Mcbride       |   6.5  | pangea              |
-|  81 | :soon:            | 2022-02-26 16:49:00 | mackay                    |      6 |        6 | Seberton           |   5.5  | pangea              |
+|  78 | --                | 2022-02-26 16:55:00 | alice-springs             |      2 |        8 | Celtic Belle       |   3.8  | benny,blackshadow   |
+|  79 | --                | 2022-02-26 16:53:00 | ascot                     |      2 |        1 | Material Witness   |   7    | vulture,pangea      |
+|  80 | --                | 2022-02-26 16:49:00 | mackay                    |      6 |        7 | Tavi Mcbride       |   6.5  | pangea              |
+|  81 | --                | 2022-02-26 16:49:00 | mackay                    |      6 |        6 | Seberton           |   5.5  | pangea              |
 |  82 | :2nd_place_medal: | 2022-02-26 16:37:00 | morphettville             |      7 |       11 | Sparkup            |   6    | vulture,pangea      |
 |  83 | :boom:            | 2022-02-26 16:25:00 | caulfield                 |      7 |        3 | Daumier            |  12    | milkman             |
 |  84 | 8.0               | 2022-02-26 16:25:00 | caulfield                 |      7 |        5 | Counttheheadlights |  18    | pangea,milkman      |
