@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-02-26 22:49:55 +1000  
+date: 2022-02-27 06:05:25 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |     10 |      0 |   -100   | 0    | -1    |
-| Last 6 Months  |    125 |     24 |   1615.5 | 0.19 |  1.29 |
-| Since Jan 2020 |    248 |     41 |   3555.5 | 0.17 |  1.43 |
+| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
+| Last 28 Days   |     12 |      0 |   -120   | 0    | -1    |
+| Last 6 Months  |    127 |     24 |   1595.5 | 0.19 |  1.26 |
+| Since Jan 2020 |    250 |     41 |   3535.5 | 0.16 |  1.41 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:15             | 2022-02-27 | newcastle R4                  | 13 Court Master       |  12    |    -10   |
+| 4                 | 2022-02-27 | newcastle R4                  | 13 Court Master       |  12    |    -10   |
 | 6                 | 2022-02-26 | morphettville R3              | 10 Scampton           |  18    |    -10   |
 | 5                 | 2022-02-23 | sandown-hillside R7           | 9 Dickensian          |   9    |    -10   |
 | 0                 | 2022-02-13 | newbury R7                    | 6 Dusky Days          |   0    |    -10   |
