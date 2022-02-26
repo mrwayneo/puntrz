@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 20:21:35 +1000  
+date: 2022-02-26 22:34:50 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-02-26 20:21:35 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      7 |    237   | 0.23 |  0.76 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      7 |    237.1 | 0.23 |  0.76 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      1 |     32   | 0.17 |  0.53 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      8 |     14   | 0.18 |  0.03 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      1 |     -5   | 0.33 | -0.17 |
@@ -20,10 +20,10 @@ date: 2022-02-26 20:21:35 +1000
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |    -20   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      9 |      1 |    -42   | 0.11 | -0.47 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      6 |   -137   | 0.15 | -0.33 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      6 |   -136.9 | 0.15 | -0.33 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      2 |   -148   | 0.06 | -0.44 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      2 |   -250   | 0.07 | -0.83 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      5 |   -301.5 | 0.11 | -0.67 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      5 |   -298.5 | 0.11 | -0.66 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      2 |   -598   | 0.03 | -0.76 |
 
 ##### Form Last 20 tips   
@@ -124,8 +124,8 @@ date: 2022-02-26 20:21:35 +1000
 |  41 | :soon:            | 2022-02-26 23:35:00 | chepstow                  |      1 |        3 | Marco Island       |   2.35 | milkman             |
 |  42 | :soon:            | 2022-02-26 22:35:00 | kenilworth                |      2 |        4 | Epsom Girl         |   0    | milkman             |
 |  43 | :soon:            | 2022-02-26 22:35:00 | kenilworth                |      2 |        3 | Body Electric      |   0    | milkman             |
-|  44 | :soon:            | 2022-02-26 22:00:00 | kenilworth                |      1 |        8 | Trompie            |   0    | milkman             |
-|  45 | :soon:            | 2022-02-26 21:23:00 | toowoomba                 |      6 |        2 | Even Now           |   1.2  | vulture             |
+|  44 | --                | 2022-02-26 22:00:00 | kenilworth                |      1 |        8 | Trompie            |   0    | milkman             |
+|  45 | --                | 2022-02-26 21:23:00 | toowoomba                 |      6 |        2 | Even Now           |   1.2  | vulture             |
 |  46 | :2nd_place_medal: | 2022-02-26 19:55:00 | ascot                     |      7 |        6 | Comes A Time       |   2.45 | pangea              |
 |  47 | :3rd_place_medal: | 2022-02-26 19:55:00 | ascot                     |      7 |        4 | Lipstick Flickers  |   4.4  | vulture,pangea      |
 |  48 | :boom:            | 2022-02-26 19:00:00 | singapore                 |      9 |        2 | Katak              |   0    | vulture,milkman     |
