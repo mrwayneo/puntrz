@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 16:57:36 +1000  
+date: 2022-02-26 17:12:17 +1000  
 ---   
 
 
@@ -9,21 +9,21 @@ date: 2022-02-26 16:57:36 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      4 |      8   | 0.13 |  0.03 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      1 |     -5   | 0.33 | -0.17 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |    -10   | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      1 |    -14   | 0.25 | -0.35 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      1 |    -15   | 0.25 | -0.38 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      3 |    -17   | 0.1  | -0.05 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |    -20   | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |    -30   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      9 |      1 |    -42   | 0.11 | -0.47 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      1 |    -51   | 0.14 | -0.73 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |    -60   | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      5 |   -167   | 0.11 | -0.38 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      6 |   -142   | 0.14 | -0.32 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      3 |   -214   | 0.07 | -0.52 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      1 |   -240   | 0.03 | -0.71 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      1 |   -281   | 0.03 | -0.94 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      3 |   -361.5 | 0.07 | -0.8  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      4 |   -328.5 | 0.09 | -0.73 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      1 |   -690   | 0.01 | -0.87 |
 
 ##### Form Last 20 tips   
@@ -152,11 +152,11 @@ date: 2022-02-26 16:57:36 +1000
 |  69 | :soon:            | 2022-02-26 17:25:00 | randwick                  |      9 |       12 | Surefire           |  18    | milkman             |
 |  70 | :soon:            | 2022-02-26 17:25:00 | randwick                  |      9 |        2 | Yiyi               |   5    | pangea              |
 |  71 | :soon:            | 2022-02-26 17:19:00 | morphettville             |      8 |       11 | Harleymoven        |   2.9  | vulture             |
-|  72 | :soon:            | 2022-02-26 17:05:00 | caulfield                 |      8 |        3 | Jonker             |  17    | pangea              |
-|  73 | :soon:            | 2022-02-26 17:05:00 | caulfield                 |      8 |       12 | Ingratiating       |  22    | pangea              |
-|  74 | :soon:            | 2022-02-26 17:05:00 | caulfield                 |      8 |        7 | Away Game          |   9    | benny,blackshadow   |
-|  75 | :soon:            | 2022-02-26 17:05:00 | caulfield                 |      8 |        4 | Bella Nipotina     |  11    | pangea,blackshadow  |
-|  76 | :soon:            | 2022-02-26 17:05:00 | caulfield                 |      8 |        5 | Marabi             |   2.88 | pangea,icyhot       |
+|  72 | --                | 2022-02-26 17:05:00 | caulfield                 |      8 |        3 | Jonker             |  17    | pangea              |
+|  73 | --                | 2022-02-26 17:05:00 | caulfield                 |      8 |       12 | Ingratiating       |  22    | pangea              |
+|  74 | :2nd_place_medal: | 2022-02-26 17:05:00 | caulfield                 |      8 |        7 | Away Game          |   9    | benny,blackshadow   |
+|  75 | --                | 2022-02-26 17:05:00 | caulfield                 |      8 |        4 | Bella Nipotina     |  11    | pangea,blackshadow  |
+|  76 | :boom:            | 2022-02-26 17:05:00 | caulfield                 |      8 |        5 | Marabi             |   2.88 | pangea,icyhot       |
 |  77 | 103.0             | 2022-02-26 16:57:00 | doomben                   |      7 |        3 | Le Palmier         |   4    | overthrow           |
 |  78 | --                | 2022-02-26 16:55:00 | alice-springs             |      2 |        8 | Celtic Belle       |   3.8  | benny,blackshadow   |
 |  79 | --                | 2022-02-26 16:53:00 | ascot                     |      2 |        1 | Material Witness   |   7    | vulture,pangea      |
