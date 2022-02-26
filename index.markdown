@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 16:27:40 +1000  
+date: 2022-02-26 16:42:17 +1000  
 ---   
 
 
@@ -12,6 +12,7 @@ date: 2022-02-26 16:27:40 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |    -10   | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      1 |    -14   | 0.25 | -0.35 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      1 |    -15   | 0.25 | -0.38 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      3 |    -17   | 0.1  | -0.05 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |    -20   | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |    -30   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
@@ -19,7 +20,6 @@ date: 2022-02-26 16:27:40 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      1 |    -51   | 0.14 | -0.73 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |    -60   | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      5 |   -167   | 0.11 | -0.38 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      2 |   -195   | 0.06 | -0.63 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      3 |   -214   | 0.07 | -0.52 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      1 |   -240   | 0.03 | -0.71 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      1 |   -281   | 0.03 | -0.94 |
@@ -162,19 +162,19 @@ date: 2022-02-26 16:27:40 +1000
 |  79 | :soon:            | 2022-02-26 16:53:00 | ascot                     |      2 |        1 | Material Witness   |   7    | vulture,pangea      |
 |  80 | :soon:            | 2022-02-26 16:49:00 | mackay                    |      6 |        7 | Tavi Mcbride       |   6.5  | pangea              |
 |  81 | :soon:            | 2022-02-26 16:49:00 | mackay                    |      6 |        6 | Seberton           |   5.5  | pangea              |
-|  82 | :soon:            | 2022-02-26 16:37:00 | morphettville             |      7 |       11 | Sparkup            |   6    | vulture,pangea      |
-|  83 | --                | 2022-02-26 16:25:00 | caulfield                 |      7 |        3 | Daumier            |  12    | milkman             |
-|  84 | --                | 2022-02-26 16:25:00 | caulfield                 |      7 |        5 | Counttheheadlights |  18    | pangea,milkman      |
-|  85 | --                | 2022-02-26 16:25:00 | caulfield                 |      7 |        8 | Merchant Prince    |  61    | vulture             |
-|  86 | --                | 2022-02-26 16:25:00 | caulfield                 |      7 |        6 | Jacquinot          |   4.4  | pangea,milkman      |
-|  87 | --                | 2022-02-26 16:25:00 | caulfield                 |      7 |       12 | Miss Roseiano      |  10    | milkman             |
-|  88 | --                | 2022-02-26 16:19:00 | alice-springs             |      1 |        3 | Envy Me            |   4    | vulture             |
-|  89 | --                | 2022-02-26 16:19:00 | alice-springs             |      1 |        4 | Valiant Lad        |   2.25 | vulture             |
+|  82 | :2nd_place_medal: | 2022-02-26 16:37:00 | morphettville             |      7 |       11 | Sparkup            |   6    | vulture,pangea      |
+|  83 | :boom:            | 2022-02-26 16:25:00 | caulfield                 |      7 |        3 | Daumier            |  12    | milkman             |
+|  84 | 8.0               | 2022-02-26 16:25:00 | caulfield                 |      7 |        5 | Counttheheadlights |  18    | pangea,milkman      |
+|  85 | 7.0               | 2022-02-26 16:25:00 | caulfield                 |      7 |        8 | Merchant Prince    |  61    | vulture             |
+|  86 | :3rd_place_medal: | 2022-02-26 16:25:00 | caulfield                 |      7 |        6 | Jacquinot          |   4.4  | pangea,milkman      |
+|  87 | 10.0              | 2022-02-26 16:25:00 | caulfield                 |      7 |       12 | Miss Roseiano      |  10    | milkman             |
+|  88 | 4.0               | 2022-02-26 16:19:00 | alice-springs             |      1 |        3 | Envy Me            |   4    | vulture             |
+|  89 | :2nd_place_medal: | 2022-02-26 16:19:00 | alice-springs             |      1 |        4 | Valiant Lad        |   2.25 | vulture             |
 |  90 | :3rd_place_medal: | 2022-02-26 16:09:00 | mackay                    |      5 |        5 | Sweet Dolly        |   1.5  | evenodds,lago       |
 |  91 | :boom:            | 2022-02-26 16:09:00 | mackay                    |      5 |        8 | Magnetic Drive     |   9.5  | vulture             |
-|  92 | --                | 2022-02-26 16:05:00 | randwick                  |      7 |        4 | Mount Popa         |  34    | pikey               |
+|  92 | 9.0               | 2022-02-26 16:05:00 | randwick                  |      7 |        4 | Mount Popa         |  34    | pikey               |
 |  93 | :boom:            | 2022-02-26 16:05:00 | randwick                  |      7 |        8 | Verry Elleegant    |   2.88 | pangea,jmac         |
-|  94 | --                | 2022-02-26 16:05:00 | randwick                  |      7 |        9 | Colette            |   3.1  | vulture,pangea      |
+|  94 | 8.0               | 2022-02-26 16:05:00 | randwick                  |      7 |        9 | Colette            |   3.1  | vulture,pangea      |
 |  95 | 8.0               | 2022-02-26 15:57:00 | morphettville             |      6 |        6 | Extra Mile         |   7    | pangea,blackshadow  |
 |  96 | :2nd_place_medal: | 2022-02-26 15:45:00 | caulfield                 |      6 |        3 | Mo'unga            |   4.5  | pangea              |
 |  97 | 103.0             | 2022-02-26 15:37:00 | doomben                   |      5 |        7 | Ocean Treaty       |  12    | vulture             |
