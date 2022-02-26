@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 13:37:09 +1000  
+date: 2022-02-26 13:52:19 +1000  
 ---   
 
 
@@ -18,7 +18,7 @@ date: 2022-02-26 13:37:09 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      9 |      1 |      -42 | 0.11 | -0.47 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |      -60 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      0 |      -70 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      1 |     -274 | 0.03 | -0.88 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      2 |     -195 | 0.06 | -0.63 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      0 |     -300 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      0 |     -340 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      2 |     -374 | 0.05 | -0.85 |
@@ -191,15 +191,15 @@ date: 2022-02-26 13:37:09 +1000
 | 108 | 103.0             | 2022-02-26 14:21:00 | tuncurry                  |      1 |        9 | Askebar            |   4.2  | looseknot           |
 | 109 | :soon:            | 2022-02-26 14:14:00 | mackay                    |      2 |        1 | Brigalow Boy       |   1.85 | evenodds,overthrow  |
 | 110 | :soon:            | 2022-02-26 14:02:00 | morphettville             |      3 |        3 | Sharwin            |   2.8  | vulture,milkman     |
-| 111 | :soon:            | 2022-02-26 13:50:00 | caulfield                 |      3 |       11 | Savileo            |  41    | pangea              |
-| 112 | :soon:            | 2022-02-26 13:50:00 | caulfield                 |      3 |        2 | Attractable        |  11    | vulture             |
-| 113 | :soon:            | 2022-02-26 13:50:00 | caulfield                 |      3 |        4 | Can't Go Wong      |  18    | milkman             |
-| 114 | :soon:            | 2022-02-26 13:50:00 | caulfield                 |      3 |        7 | Benczkowski        |  34    | milkman             |
-| 115 | :soon:            | 2022-02-26 13:39:00 | mackay                    |      1 |        2 | Iron Mask          |   4.6  | looseknot           |
+| 111 | --                | 2022-02-26 13:50:00 | caulfield                 |      3 |       11 | Savileo            |  41    | pangea              |
+| 112 | --                | 2022-02-26 13:50:00 | caulfield                 |      3 |        2 | Attractable        |  11    | vulture             |
+| 113 | --                | 2022-02-26 13:50:00 | caulfield                 |      3 |        4 | Can't Go Wong      |  18    | milkman             |
+| 114 | --                | 2022-02-26 13:50:00 | caulfield                 |      3 |        7 | Benczkowski        |  34    | milkman             |
+| 115 | 4.0               | 2022-02-26 13:39:00 | mackay                    |      1 |        2 | Iron Mask          |   4.6  | looseknot           |
 | 116 | --                | 2022-02-26 13:35:00 | randwick                  |      3 |        6 | Trendy Lass        |  21    | vulture             |
-| 117 | --                | 2022-02-26 13:35:00 | randwick                  |      3 |        4 | Fireburn           |   5    | milkman             |
+| 117 | :boom:            | 2022-02-26 13:35:00 | randwick                  |      3 |        4 | Fireburn           |   5    | milkman             |
 | 118 | --                | 2022-02-26 13:35:00 | randwick                  |      3 |        7 | Dame Cartland      |  21    | overthrow,pikey     |
-| 119 | --                | 2022-02-26 13:35:00 | randwick                  |      3 |        3 | Lady Laguna        |   2.75 | vulture,milkman     |
+| 119 | :3rd_place_medal: | 2022-02-26 13:35:00 | randwick                  |      3 |        3 | Lady Laguna        |   2.75 | vulture,milkman     |
 | 120 | :3rd_place_medal: | 2022-02-26 13:15:00 | caulfield                 |      2 |        3 | Kahma Lass         |   8.5  | pangea              |
 | 121 | :boom:            | 2022-02-26 13:15:00 | caulfield                 |      2 |        2 | Flying Mascot      |   1.83 | pangea              |
 | 122 | 103.0             | 2022-02-26 13:08:00 | doomben                   |      1 |        5 | Stuck In A Dream   |   4    | vulture             |
