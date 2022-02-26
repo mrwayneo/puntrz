@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-02-26 17:12:16 +1000  
+date: 2022-02-26 17:27:35 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 17:25             | 2022-02-26 | randwick R9           | 11 Dadoozdart         |   9.5  |    -10   |
+| 0                 | 2022-02-26 | randwick R9           | 11 Dadoozdart         |   0    |    -10   |
 | 9                 | 2022-02-26 | randwick R7           | 4 Mount Popa          |  34    |    -10   |
 | 9                 | 2022-02-26 | randwick R3           | 7 Dame Cartland       |  21    |    -10   |
 | :boom:            | 2022-02-26 | randwick R1           | 2 Shelby Sixtysix     |   2.6  |     16   |

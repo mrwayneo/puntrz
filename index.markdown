@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 17:12:17 +1000  
+date: 2022-02-26 17:27:36 +1000  
 ---   
 
 
@@ -147,21 +147,21 @@ date: 2022-02-26 17:12:17 +1000
 |  64 | 103.0             | 2022-02-26 17:33:00 | doomben                   |      8 |       14 | Sweet Margot May   |  11    | milkman             |
 |  65 | :soon:            | 2022-02-26 17:29:00 | ascot                     |      3 |        1 | Cristal Dane       |   5    | pangea              |
 |  66 | :soon:            | 2022-02-26 17:29:00 | ascot                     |      3 |        8 | Secret Deploy      |   2.2  | milkman             |
-|  67 | :soon:            | 2022-02-26 17:25:00 | randwick                  |      9 |        3 | Chalk Stream       |  10    | jmac                |
-|  68 | :soon:            | 2022-02-26 17:25:00 | randwick                  |      9 |       11 | Dadoozdart         |   9.5  | benny,pikey         |
-|  69 | :soon:            | 2022-02-26 17:25:00 | randwick                  |      9 |       12 | Surefire           |  18    | milkman             |
-|  70 | :soon:            | 2022-02-26 17:25:00 | randwick                  |      9 |        2 | Yiyi               |   5    | pangea              |
-|  71 | :soon:            | 2022-02-26 17:19:00 | morphettville             |      8 |       11 | Harleymoven        |   2.9  | vulture             |
-|  72 | --                | 2022-02-26 17:05:00 | caulfield                 |      8 |        3 | Jonker             |  17    | pangea              |
-|  73 | --                | 2022-02-26 17:05:00 | caulfield                 |      8 |       12 | Ingratiating       |  22    | pangea              |
+|  67 | --                | 2022-02-26 17:25:00 | randwick                  |      9 |        3 | Chalk Stream       |  10    | jmac                |
+|  68 | --                | 2022-02-26 17:25:00 | randwick                  |      9 |       11 | Dadoozdart         |   9.5  | benny,pikey         |
+|  69 | --                | 2022-02-26 17:25:00 | randwick                  |      9 |       12 | Surefire           |  18    | milkman             |
+|  70 | --                | 2022-02-26 17:25:00 | randwick                  |      9 |        2 | Yiyi               |   5    | pangea              |
+|  71 | --                | 2022-02-26 17:19:00 | morphettville             |      8 |       11 | Harleymoven        |   2.9  | vulture             |
+|  72 | 13.0              | 2022-02-26 17:05:00 | caulfield                 |      8 |        3 | Jonker             |  17    | pangea              |
+|  73 | 8.0               | 2022-02-26 17:05:00 | caulfield                 |      8 |       12 | Ingratiating       |  22    | pangea              |
 |  74 | :2nd_place_medal: | 2022-02-26 17:05:00 | caulfield                 |      8 |        7 | Away Game          |   9    | benny,blackshadow   |
-|  75 | --                | 2022-02-26 17:05:00 | caulfield                 |      8 |        4 | Bella Nipotina     |  11    | pangea,blackshadow  |
+|  75 | 5.0               | 2022-02-26 17:05:00 | caulfield                 |      8 |        4 | Bella Nipotina     |  11    | pangea,blackshadow  |
 |  76 | :boom:            | 2022-02-26 17:05:00 | caulfield                 |      8 |        5 | Marabi             |   2.88 | pangea,icyhot       |
 |  77 | 103.0             | 2022-02-26 16:57:00 | doomben                   |      7 |        3 | Le Palmier         |   4    | overthrow           |
 |  78 | --                | 2022-02-26 16:55:00 | alice-springs             |      2 |        8 | Celtic Belle       |   3.8  | benny,blackshadow   |
-|  79 | --                | 2022-02-26 16:53:00 | ascot                     |      2 |        1 | Material Witness   |   7    | vulture,pangea      |
-|  80 | --                | 2022-02-26 16:49:00 | mackay                    |      6 |        7 | Tavi Mcbride       |   6.5  | pangea              |
-|  81 | --                | 2022-02-26 16:49:00 | mackay                    |      6 |        6 | Seberton           |   5.5  | pangea              |
+|  79 | 7.0               | 2022-02-26 16:53:00 | ascot                     |      2 |        1 | Material Witness   |   7    | vulture,pangea      |
+|  80 | 8.0               | 2022-02-26 16:49:00 | mackay                    |      6 |        7 | Tavi Mcbride       |   6.5  | pangea              |
+|  81 | 10.0              | 2022-02-26 16:49:00 | mackay                    |      6 |        6 | Seberton           |   5.5  | pangea              |
 |  82 | :2nd_place_medal: | 2022-02-26 16:37:00 | morphettville             |      7 |       11 | Sparkup            |   6    | vulture,pangea      |
 |  83 | :boom:            | 2022-02-26 16:25:00 | caulfield                 |      7 |        3 | Daumier            |  12    | milkman             |
 |  84 | 8.0               | 2022-02-26 16:25:00 | caulfield                 |      7 |        5 | Counttheheadlights |  18    | pangea,milkman      |
