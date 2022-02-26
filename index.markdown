@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 22:34:50 +1000  
+date: 2022-02-26 22:49:56 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-02-26 22:34:50 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      7 |    237.1 | 0.23 |  0.76 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      8 |    293.1 | 0.26 |  0.95 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      1 |     32   | 0.17 |  0.53 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      8 |     14   | 0.18 |  0.03 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      1 |     -5   | 0.33 | -0.17 |
@@ -122,8 +122,8 @@ date: 2022-02-26 22:34:50 +1000
 |  39 | :soon:            | 2022-02-27 00:15:00 | kempton                   |      1 |        1 | Flegmatik          |   5.5  | overthrow           |
 |  40 | :soon:            | 2022-02-26 23:45:00 | kenilworth                |      4 |        4 | Warrior            |   0    | milkman             |
 |  41 | :soon:            | 2022-02-26 23:35:00 | chepstow                  |      1 |        3 | Marco Island       |   2.35 | milkman             |
-|  42 | :soon:            | 2022-02-26 22:35:00 | kenilworth                |      2 |        4 | Epsom Girl         |   0    | milkman             |
-|  43 | :soon:            | 2022-02-26 22:35:00 | kenilworth                |      2 |        3 | Body Electric      |   0    | milkman             |
+|  42 | :boom:            | 2022-02-26 22:35:00 | kenilworth                |      2 |        4 | Epsom Girl         |   0    | milkman             |
+|  43 | --                | 2022-02-26 22:35:00 | kenilworth                |      2 |        3 | Body Electric      |   0    | milkman             |
 |  44 | --                | 2022-02-26 22:00:00 | kenilworth                |      1 |        8 | Trompie            |   0    | milkman             |
 |  45 | --                | 2022-02-26 21:23:00 | toowoomba                 |      6 |        2 | Even Now           |   1.2  | vulture             |
 |  46 | :2nd_place_medal: | 2022-02-26 19:55:00 | ascot                     |      7 |        6 | Comes A Time       |   2.45 | pangea              |
