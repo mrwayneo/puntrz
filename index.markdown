@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 14:07:23 +1000  
+date: 2022-02-26 14:22:20 +1000  
 ---   
 
 
@@ -16,13 +16,13 @@ date: 2022-02-26 14:07:23 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |    -40   | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      9 |      1 |    -42   | 0.11 | -0.47 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      1 |    -51   | 0.14 | -0.73 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |    -60   | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      0 |    -70   | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      2 |   -195   | 0.06 | -0.63 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      0 |   -300   | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      1 |   -281   | 0.03 | -0.94 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      0 |   -340   | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      2 |   -374   | 0.05 | -0.85 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      0 |   -410   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      1 |   -391   | 0.02 | -0.95 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      1 |   -426.5 | 0.02 | -0.95 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      0 |   -790   | 0    | -1    |
 
@@ -189,12 +189,12 @@ date: 2022-02-26 14:07:23 +1000
 | 106 | :soon:            | 2022-02-26 14:25:00 | caulfield                 |      4 |        6 | Lavish Girl        |  14    | pangea              |
 | 107 | :soon:            | 2022-02-26 14:25:00 | caulfield                 |      4 |        4 | Argentia           |   2.05 | milkman             |
 | 108 | 103.0             | 2022-02-26 14:21:00 | tuncurry                  |      1 |        9 | Askebar            |   4.2  | looseknot           |
-| 109 | :soon:            | 2022-02-26 14:14:00 | mackay                    |      2 |        1 | Brigalow Boy       |   1.85 | evenodds,overthrow  |
+| 109 | :boom:            | 2022-02-26 14:14:00 | mackay                    |      2 |        1 | Brigalow Boy       |   1.85 | evenodds,overthrow  |
 | 110 | :3rd_place_medal: | 2022-02-26 14:02:00 | morphettville             |      3 |        3 | Sharwin            |   2.8  | vulture,milkman     |
-| 111 | --                | 2022-02-26 13:50:00 | caulfield                 |      3 |       11 | Savileo            |  41    | pangea              |
-| 112 | --                | 2022-02-26 13:50:00 | caulfield                 |      3 |        2 | Attractable        |  11    | vulture             |
-| 113 | --                | 2022-02-26 13:50:00 | caulfield                 |      3 |        4 | Can't Go Wong      |  18    | milkman             |
-| 114 | --                | 2022-02-26 13:50:00 | caulfield                 |      3 |        7 | Benczkowski        |  34    | milkman             |
+| 111 | 8.0               | 2022-02-26 13:50:00 | caulfield                 |      3 |       11 | Savileo            |  41    | pangea              |
+| 112 | 6.0               | 2022-02-26 13:50:00 | caulfield                 |      3 |        2 | Attractable        |  11    | vulture             |
+| 113 | 9.0               | 2022-02-26 13:50:00 | caulfield                 |      3 |        4 | Can't Go Wong      |  18    | milkman             |
+| 114 | 11.0              | 2022-02-26 13:50:00 | caulfield                 |      3 |        7 | Benczkowski        |  34    | milkman             |
 | 115 | 4.0               | 2022-02-26 13:39:00 | mackay                    |      1 |        2 | Iron Mask          |   4.6  | looseknot           |
 | 116 | 8.0               | 2022-02-26 13:35:00 | randwick                  |      3 |        6 | Trendy Lass        |  21    | vulture             |
 | 117 | :boom:            | 2022-02-26 13:35:00 | randwick                  |      3 |        4 | Fireburn           |   5    | milkman             |
