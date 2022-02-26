@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-02-26 13:52:18 +1000  
+date: 2022-02-26 14:07:22 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 17:25             | 2022-02-26 | randwick R9           | 11 Dadoozdart         |   9.5  |    -10   |
 | 16:05             | 2022-02-26 | randwick R7           | 4 Mount Popa          |  34    |    -10   |
-| 0                 | 2022-02-26 | randwick R3           | 7 Dame Cartland       |   0    |    -10   |
+| 9                 | 2022-02-26 | randwick R3           | 7 Dame Cartland       |  21    |    -10   |
 | :boom:            | 2022-02-26 | randwick R1           | 2 Shelby Sixtysix     |   2.6  |     16   |
 | 7                 | 2022-02-25 | canterbury R4         | 8 Cool Missile        |  21    |    -10   |
 | :3rd_place_medal: | 2022-02-24 | newcastle R7          | 11 Danish Prince      |  41    |    -10   |

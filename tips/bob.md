@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-02-26 13:52:18 +1000  
+date: 2022-02-26 14:07:23 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
 | 02:15             | 2022-02-27 | newcastle R4                  | 13 Court Master       |  12    |    -10   |
-| 14:02             | 2022-02-26 | morphettville R3              | 10 Scampton           |  18    |    -10   |
+| 0                 | 2022-02-26 | morphettville R3              | 10 Scampton           |   0    |    -10   |
 | 5                 | 2022-02-23 | sandown-hillside R7           | 9 Dickensian          |   9    |    -10   |
 | 0                 | 2022-02-13 | newbury R7                    | 6 Dusky Days          |   0    |    -10   |
 | 0                 | 2022-02-13 | warwick R6                    | 1 Ballintubber Boy    |   0    |    -10   |
