@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 15:27:22 +1000  
+date: 2022-02-26 15:42:17 +1000  
 ---   
 
 
@@ -180,8 +180,8 @@ date: 2022-02-26 15:27:22 +1000
 |  97 | 103.0             | 2022-02-26 15:37:00 | doomben                   |      5 |        7 | Ocean Treaty       |  12    | vulture             |
 |  98 | 103.0             | 2022-02-26 15:37:00 | doomben                   |      5 |        1 | Profit             |   3.1  | vulture             |
 |  99 | --                | 2022-02-26 15:25:00 | randwick                  |      6 |        7 | Kiku               |   8.5  | pangea              |
-| 100 | --                | 2022-02-26 15:25:00 | randwick                  |      6 |       11 | Promise Of Success |   6.5  | vulture             |
-| 101 | --                | 2022-02-26 15:25:00 | randwick                  |      6 |        8 | Icebath            |   2.1  | jmac                |
+| 100 | :2nd_place_medal: | 2022-02-26 15:25:00 | randwick                  |      6 |       11 | Promise Of Success |   6.5  | vulture             |
+| 101 | 4.0               | 2022-02-26 15:25:00 | randwick                  |      6 |        8 | Icebath            |   2.1  | jmac                |
 | 102 | 6.0               | 2022-02-26 14:45:00 | randwick                  |      5 |        8 | Atishu             |   3.6  | jmac                |
 | 103 | :boom:            | 2022-02-26 14:45:00 | randwick                  |      5 |        2 | Ellsberg           |   2.35 | vulture,pangea      |
 | 104 | :2nd_place_medal: | 2022-02-26 14:37:00 | morphettville             |      4 |        5 | Harbouring         |  13    | vulture,pangea      |
