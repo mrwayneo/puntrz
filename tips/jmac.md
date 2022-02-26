@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-02-26 14:38:57 +1000  
+date: 2022-02-26 14:53:59 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 17:25             | 2022-02-26 | randwick R9          | 3 Chalk Stream       | 10    |    -10   |
 | 16:05             | 2022-02-26 | randwick R7          | 8 Verry Elleegant    |  2.88 |    -10   |
 | 15:25             | 2022-02-26 | randwick R6          | 8 Icebath            |  2.1  |    -10   |
-| 14:45             | 2022-02-26 | randwick R5          | 8 Atishu             |  3.6  |    -10   |
+| 0                 | 2022-02-26 | randwick R5          | 8 Atishu             |  0    |    -10   |
 | 0                 | 2022-02-25 | canterbury R5        | 4 Sindacato          |  0    |    -10   |
 | 4                 | 2022-02-25 | canterbury R2        | 9 Ringarosa          |  4    |    -10   |
 | 0                 | 2022-02-23 | gosford R6           | 7 Azarmin            |  0    |    -10   |
