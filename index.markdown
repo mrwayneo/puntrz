@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 14:54:00 +1000  
+date: 2022-02-26 15:27:22 +1000  
 ---   
 
 
@@ -20,11 +20,11 @@ date: 2022-02-26 14:54:00 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      0 |    -60   | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      4 |   -192   | 0.09 | -0.44 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      2 |   -195   | 0.06 | -0.63 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      1 |   -240   | 0.03 | -0.71 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      1 |   -281   | 0.03 | -0.94 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      0 |   -340   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      2 |   -368   | 0.05 | -0.9  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      1 |   -426.5 | 0.02 | -0.95 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      0 |   -790   | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      2 |   -407.5 | 0.04 | -0.91 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      1 |   -690   | 0.01 | -0.87 |
 
 ##### Form Last 20 tips   
 
@@ -179,10 +179,10 @@ date: 2022-02-26 14:54:00 +1000
 |  96 | :soon:            | 2022-02-26 15:45:00 | caulfield                 |      6 |        3 | Mo'unga            |   4.5  | pangea              |
 |  97 | 103.0             | 2022-02-26 15:37:00 | doomben                   |      5 |        7 | Ocean Treaty       |  12    | vulture             |
 |  98 | 103.0             | 2022-02-26 15:37:00 | doomben                   |      5 |        1 | Profit             |   3.1  | vulture             |
-|  99 | :soon:            | 2022-02-26 15:25:00 | randwick                  |      6 |        7 | Kiku               |   8.5  | pangea              |
-| 100 | :soon:            | 2022-02-26 15:25:00 | randwick                  |      6 |       11 | Promise Of Success |   6.5  | vulture             |
-| 101 | :soon:            | 2022-02-26 15:25:00 | randwick                  |      6 |        8 | Icebath            |   2.1  | jmac                |
-| 102 | --                | 2022-02-26 14:45:00 | randwick                  |      5 |        8 | Atishu             |   3.6  | jmac                |
+|  99 | --                | 2022-02-26 15:25:00 | randwick                  |      6 |        7 | Kiku               |   8.5  | pangea              |
+| 100 | --                | 2022-02-26 15:25:00 | randwick                  |      6 |       11 | Promise Of Success |   6.5  | vulture             |
+| 101 | --                | 2022-02-26 15:25:00 | randwick                  |      6 |        8 | Icebath            |   2.1  | jmac                |
+| 102 | 6.0               | 2022-02-26 14:45:00 | randwick                  |      5 |        8 | Atishu             |   3.6  | jmac                |
 | 103 | :boom:            | 2022-02-26 14:45:00 | randwick                  |      5 |        2 | Ellsberg           |   2.35 | vulture,pangea      |
 | 104 | :2nd_place_medal: | 2022-02-26 14:37:00 | morphettville             |      4 |        5 | Harbouring         |  13    | vulture,pangea      |
 | 105 | 4.0               | 2022-02-26 14:25:00 | caulfield                 |      4 |        5 | Decent Raine       |   7    | pangea,blackshadow  |
