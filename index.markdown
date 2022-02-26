@@ -1,18 +1,33 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-27 07:20:14 +1000  
+date: 2022-02-27 07:25:03 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      0 |      -50 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      5 |      0 |      -50 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      6 |      0 |      -60 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     10 |      0 |     -100 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      0 |     -140 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     24 |      0 |     -240 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     37 |      0 |     -370 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      8 |    355.6 | 0.4  |  1.78 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      7 |    177.6 | 0.35 |  0.89 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |     15   | 0.15 |  0.08 |
@@ -78,8 +93,8 @@ date: 2022-02-27 07:20:14 +1000
 |  14 | 4.0               | 2022-02-27 02:37:00 | kempton                   |      5 |        4 | Enrilo             |  11    | overthrow,milkman   |
 |  15 | --                | 2022-02-27 02:05:00 | kenilworth                |      8 |        7 | Shifting Path      |   0    | milkman             |
 |  16 | --                | 2022-02-27 02:00:00 | kempton                   |      4 |        4 | Moriko De Vassy    |  10    | milkman             |
-|  17 | 4.0               | 2022-02-27 02:00:00 | kempton                   |      4 |        7 | Iceo               |   5.5  | overthrow           |
-|  18 | --                | 2022-02-27 02:00:00 | kempton                   |      4 |        5 | Russian Ruler      |  19    | overthrow           |
+|  17 | --                | 2022-02-27 02:00:00 | kempton                   |      4 |        5 | Russian Ruler      |  19    | overthrow           |
+|  18 | 4.0               | 2022-02-27 02:00:00 | kempton                   |      4 |        7 | Iceo               |   5.5  | overthrow           |
 |  19 | --                | 2022-02-27 02:00:00 | kempton                   |      4 |        2 | Frere D'armes      |   8    | evenodds,overthrow  |
 |  20 | :boom:            | 2022-02-27 01:53:00 | chepstow                  |      5 |        5 | Destined To Shine  |   5    | vulture             |
 |  21 | 4.0               | 2022-02-27 01:25:00 | kempton                   |      3 |        1 | Minella Drama      |   3.25 | overthrow           |
@@ -93,11 +108,11 @@ date: 2022-02-27 07:20:14 +1000
 |  29 | :boom:            | 2022-02-27 00:55:00 | kenilworth                |      6 |        2 | Pomp And Power     |   0    | milkman             |
 |  30 | --                | 2022-02-27 00:55:00 | kenilworth                |      6 |        6 | Master Redoute     |   0    | vulture             |
 |  31 | --                | 2022-02-27 00:50:00 | kempton                   |      2 |        8 | Pleasant Man       |   5.5  | evenodds,overthrow  |
-|  32 | :3rd_place_medal: | 2022-02-27 00:50:00 | kempton                   |      2 |        4 | Graystone          |  11    | vulture             |
-|  33 | --                | 2022-02-27 00:50:00 | kempton                   |      2 |        6 | Moka De Vassy      |  11    | vulture             |
-|  34 | --                | 2022-02-27 00:50:00 | kempton                   |      2 |       11 | The Famous Five    |  18    | vulture             |
-|  35 | :2nd_place_medal: | 2022-02-27 00:50:00 | kempton                   |      2 |       10 | Teddy Blue         |  12    | vulture             |
-|  36 | --                | 2022-02-27 00:50:00 | kempton                   |      2 |        1 | Impulsive One      |   7    | vulture,blackshadow |
+|  32 | :2nd_place_medal: | 2022-02-27 00:50:00 | kempton                   |      2 |       10 | Teddy Blue         |  12    | vulture             |
+|  33 | --                | 2022-02-27 00:50:00 | kempton                   |      2 |        1 | Impulsive One      |   7    | vulture,blackshadow |
+|  34 | --                | 2022-02-27 00:50:00 | kempton                   |      2 |        6 | Moka De Vassy      |  11    | vulture             |
+|  35 | :3rd_place_medal: | 2022-02-27 00:50:00 | kempton                   |      2 |        4 | Graystone          |  11    | vulture             |
+|  36 | --                | 2022-02-27 00:50:00 | kempton                   |      2 |       11 | The Famous Five    |  18    | vulture             |
 |  37 | :2nd_place_medal: | 2022-02-27 00:20:00 | kenilworth                |      5 |        8 | Trip Of Fortune    |   0    | milkman             |
 |  38 | --                | 2022-02-27 00:15:00 | kempton                   |      1 |        7 | Neil The Legend    |  19    | pangea,overthrow    |
 |  39 | :boom:            | 2022-02-27 00:15:00 | kempton                   |      1 |        1 | Flegmatik          |   5.5  | overthrow           |
@@ -133,11 +148,11 @@ date: 2022-02-27 07:20:14 +1000
 |  69 | :boom:            | 2022-02-26 17:25:00 | randwick                  |      9 |       12 | Surefire           |  18    | milkman             |
 |  70 | 12.0              | 2022-02-26 17:25:00 | randwick                  |      9 |        2 | Yiyi               |   5    | pangea              |
 |  71 | 5.0               | 2022-02-26 17:19:00 | morphettville             |      8 |       11 | Harleymoven        |   2.9  | vulture             |
-|  72 | 13.0              | 2022-02-26 17:05:00 | caulfield                 |      8 |        3 | Jonker             |  17    | pangea              |
-|  73 | 8.0               | 2022-02-26 17:05:00 | caulfield                 |      8 |       12 | Ingratiating       |  22    | pangea              |
+|  72 | 5.0               | 2022-02-26 17:05:00 | caulfield                 |      8 |        4 | Bella Nipotina     |  11    | pangea,blackshadow  |
+|  73 | :boom:            | 2022-02-26 17:05:00 | caulfield                 |      8 |        5 | Marabi             |   2.88 | pangea,icyhot       |
 |  74 | :2nd_place_medal: | 2022-02-26 17:05:00 | caulfield                 |      8 |        7 | Away Game          |   9    | benny,blackshadow   |
-|  75 | 5.0               | 2022-02-26 17:05:00 | caulfield                 |      8 |        4 | Bella Nipotina     |  11    | pangea,blackshadow  |
-|  76 | :boom:            | 2022-02-26 17:05:00 | caulfield                 |      8 |        5 | Marabi             |   2.88 | pangea,icyhot       |
+|  75 | 8.0               | 2022-02-26 17:05:00 | caulfield                 |      8 |       12 | Ingratiating       |  22    | pangea              |
+|  76 | 13.0              | 2022-02-26 17:05:00 | caulfield                 |      8 |        3 | Jonker             |  17    | pangea              |
 |  77 | 103.0             | 2022-02-26 16:57:00 | doomben                   |      7 |        3 | Le Palmier         |   4    | overthrow           |
 |  78 | 5.0               | 2022-02-26 16:55:00 | alice-springs             |      2 |        8 | Celtic Belle       |   3.8  | benny,blackshadow   |
 |  79 | 7.0               | 2022-02-26 16:53:00 | ascot                     |      2 |        1 | Material Witness   |   7    | vulture,pangea      |
@@ -145,9 +160,9 @@ date: 2022-02-27 07:20:14 +1000
 |  81 | 10.0              | 2022-02-26 16:49:00 | mackay                    |      6 |        6 | Seberton           |   5.5  | pangea              |
 |  82 | :2nd_place_medal: | 2022-02-26 16:37:00 | morphettville             |      7 |       11 | Sparkup            |   6    | vulture,pangea      |
 |  83 | :boom:            | 2022-02-26 16:25:00 | caulfield                 |      7 |        3 | Daumier            |  12    | milkman             |
-|  84 | 8.0               | 2022-02-26 16:25:00 | caulfield                 |      7 |        5 | Counttheheadlights |  18    | pangea,milkman      |
+|  84 | :3rd_place_medal: | 2022-02-26 16:25:00 | caulfield                 |      7 |        6 | Jacquinot          |   4.4  | pangea,milkman      |
 |  85 | 7.0               | 2022-02-26 16:25:00 | caulfield                 |      7 |        8 | Merchant Prince    |  61    | vulture             |
-|  86 | :3rd_place_medal: | 2022-02-26 16:25:00 | caulfield                 |      7 |        6 | Jacquinot          |   4.4  | pangea,milkman      |
+|  86 | 8.0               | 2022-02-26 16:25:00 | caulfield                 |      7 |        5 | Counttheheadlights |  18    | pangea,milkman      |
 |  87 | 10.0              | 2022-02-26 16:25:00 | caulfield                 |      7 |       12 | Miss Roseiano      |  10    | milkman             |
 |  88 | 4.0               | 2022-02-26 16:19:00 | alice-springs             |      1 |        3 | Envy Me            |   4    | vulture             |
 |  89 | :2nd_place_medal: | 2022-02-26 16:19:00 | alice-springs             |      1 |        4 | Valiant Lad        |   2.25 | vulture             |
