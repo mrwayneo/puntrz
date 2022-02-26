@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-02-26 19:01:01 +1000  
+date: 2022-02-26 19:24:34 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
 | 6                 | 2022-02-26 | ascot R4                      | 3 He's A Lucky Lad    |  8    |    -10   |
 | :boom:            | 2022-02-26 | caulfield R9                  | 1 Defibrillate        |  9.2  |     82   |
-| 0                 | 2022-02-26 | alice-springs R3              | 3 Mathematics         |  0    |    -10   |
+| :2nd_place_medal: | 2022-02-26 | alice-springs R3              | 3 Mathematics         |  1.8  |    -10   |
 | 4                 | 2022-02-26 | randwick R9                   | 11 Dadoozdart         |  9.5  |    -10   |
 | :2nd_place_medal: | 2022-02-26 | caulfield R8                  | 7 Away Game           |  9    |    -10   |
 | 5                 | 2022-02-26 | alice-springs R2              | 8 Celtic Belle        |  3.8  |    -10   |

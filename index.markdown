@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-26 19:01:10 +1000  
+date: 2022-02-26 19:24:45 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-02-26 19:01:10 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      6 |    218   | 0.19 |  0.7  |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     31 |      7 |    237   | 0.23 |  0.76 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      6 |      1 |     32   | 0.17 |  0.53 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     44 |      8 |     14   | 0.18 |  0.03 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      1 |     -5   | 0.33 | -0.17 |
@@ -20,8 +20,8 @@ date: 2022-02-26 19:01:10 +1000
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |    -20   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      9 |      1 |    -42   | 0.11 | -0.47 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      6 |   -137   | 0.15 | -0.33 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     34 |      2 |   -148   | 0.06 | -0.44 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     41 |      5 |   -156   | 0.12 | -0.38 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     30 |      2 |   -250   | 0.07 | -0.83 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      4 |   -328.5 | 0.09 | -0.73 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     79 |      2 |   -598   | 0.03 | -0.76 |
@@ -128,17 +128,17 @@ date: 2022-02-26 19:01:10 +1000
 |  45 | :soon:            | 2022-02-26 21:23:00 | toowoomba                 |      6 |        2 | Even Now           |   1.2  | vulture             |
 |  46 | :soon:            | 2022-02-26 19:55:00 | ascot                     |      7 |        6 | Comes A Time       |   2.45 | pangea              |
 |  47 | :soon:            | 2022-02-26 19:55:00 | ascot                     |      7 |        4 | Lipstick Flickers  |   4.4  | vulture,pangea      |
-|  48 | --                | 2022-02-26 19:00:00 | singapore                 |      9 |        2 | Katak              |   0    | vulture,milkman     |
+|  48 | :boom:            | 2022-02-26 19:00:00 | singapore                 |      9 |        2 | Katak              |   0    | vulture,milkman     |
 |  49 | :boom:            | 2022-02-26 18:40:00 | ascot                     |      5 |        2 | Tri For Us         |   3.8  | evenodds,overthrow  |
 |  50 | 103.0             | 2022-02-26 18:12:00 | doomben                   |      9 |        9 | Glitter Strip      |   4.2  | vulture             |
-|  51 | --                | 2022-02-26 18:06:00 | alice-springs             |      4 |        2 | Extraction         |   4.2  | vulture             |
+|  51 | :2nd_place_medal: | 2022-02-26 18:06:00 | alice-springs             |      4 |        2 | Extraction         |   4.2  | vulture             |
 |  52 | --                | 2022-02-26 18:06:00 | alice-springs             |      4 |        8 | Meydan Lass        |   3.7  | vulture             |
 |  53 | :boom:            | 2022-02-26 18:04:00 | ascot                     |      4 |        1 | Trix Of The Trade  |   1.55 | milkman             |
 |  54 | 6.0               | 2022-02-26 18:04:00 | ascot                     |      4 |        3 | He's A Lucky Lad   |   8    | benny,pangea        |
 |  55 | :3rd_place_medal: | 2022-02-26 18:04:00 | ascot                     |      4 |        7 | Henchard           |   7    | evenodds,overthrow  |
 |  56 | :boom:            | 2022-02-26 18:00:00 | randwick                  |     10 |        4 | Gravina            |   2.75 | vulture             |
 |  57 | --                | 2022-02-26 17:40:00 | caulfield                 |      9 |        4 | Pancho             |   9.5  | pangea              |
-|  58 | --                | 2022-02-26 17:35:00 | alice-springs             |      3 |        3 | Mathematics        |   1.8  | benny,blackshadow   |
+|  58 | :2nd_place_medal: | 2022-02-26 17:35:00 | alice-springs             |      3 |        3 | Mathematics        |   1.8  | benny,blackshadow   |
 |  59 | 103.0             | 2022-02-26 17:33:00 | doomben                   |      8 |       13 | Glitter Strip      |   0    | vulture             |
 |  60 | 103.0             | 2022-02-26 17:33:00 | doomben                   |      8 |        7 | Boomnova           |   5.5  | vulture             |
 |  61 | 103.0             | 2022-02-26 17:33:00 | doomben                   |      8 |        9 | Maybe The Best     |   2.7  | evenodds,overthrow  |
