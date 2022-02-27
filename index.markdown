@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-27 13:27:24 +1000  
+date: 2022-02-27 13:42:26 +1000  
 ---   
 
 
@@ -27,7 +27,7 @@ date: 2022-02-27 13:27:24 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      8 |    355.6 | 0.4  |  1.78 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      7 |    177.6 | 0.35 |  0.89 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |     15   | 0.15 |  0.08 |
@@ -74,38 +74,38 @@ date: 2022-02-27 13:27:24 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6172 |    833 | -12440.6 | 0.13 | -0.2  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7927 |    372 | -24228   | 0.05 | -0.31 |
 
-|    | finish   | time                | track                     |   race |   number | name               |   odds | tipster            |
-|---:|:---------|:--------------------|:--------------------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-02-28 04:30:00 | naas                      |      8 |        2 | Sandor Clegane     |   1.8  | milkman            |
-|  1 | :soon:   | 2022-02-28 04:10:00 | hereford                  |      8 |        1 | Canty Bay          |   9    | looseknot          |
-|  2 | :soon:   | 2022-02-28 03:40:00 | hereford                  |      7 |        1 | Keplerian          |   3.6  | looseknot          |
-|  3 | :soon:   | 2022-02-28 03:30:00 | naas                      |      6 |        2 | Bring On The Night |   1.8  | evenodds,overthrow |
-|  4 | :soon:   | 2022-02-28 03:20:00 | fontwell                  |      6 |        1 | Jett               |   1.5  | vulture            |
-|  5 | :soon:   | 2022-02-28 03:10:00 | hereford                  |      6 |        3 | Bert Wilson        |   5.5  | looseknot          |
-|  6 | :soon:   | 2022-02-28 03:10:00 | hereford                  |      6 |        6 | Bebraveforglory    |   8.5  | looseknot          |
-|  7 | :soon:   | 2022-02-28 03:00:00 | naas                      |      5 |        3 | Devil's Cut        |   8    | milkman            |
-|  8 | :soon:   | 2022-02-28 03:00:00 | naas                      |      5 |        9 | Micro Manage       |   2    | overthrow          |
-|  9 | :soon:   | 2022-02-28 02:00:00 | naas                      |      3 |        2 | Ha D'or            |   2.8  | overthrow          |
-| 10 | :soon:   | 2022-02-28 01:50:00 | fontwell                  |      3 |        4 | Allmankind         |   5    | overthrow          |
-| 11 | :soon:   | 2022-02-28 01:50:00 | fontwell                  |      3 |        3 | Monmiral           |   4.2  | overthrow          |
-| 12 | :soon:   | 2022-02-28 01:40:00 | hereford                  |      3 |        1 | Town Parks         |  15    | pangea             |
-| 13 | :soon:   | 2022-02-28 01:00:00 | naas                      |      1 |        3 | Cash Back          |   5    | overthrow          |
-| 14 | :soon:   | 2022-02-28 00:50:00 | fontwell                  |      1 |        3 | Brewers Project    |   5    | overthrow          |
-| 15 | :soon:   | 2022-02-28 00:40:00 | hereford                  |      1 |        5 | Hellfire Princess  |   4.2  | milkman            |
-| 16 | :soon:   | 2022-02-28 00:05:00 | turffontein               |      7 |       12 | Pin Up             |   0    | vulture,pangea     |
-| 17 | :soon:   | 2022-02-27 22:50:00 | turffontein               |      5 |        4 | Arividicio         |   0    | vulture            |
-| 18 | :soon:   | 2022-02-27 22:50:00 | turffontein               |      5 |        3 | Ode To The Ocean   |   0    | vulture            |
-| 19 | :soon:   | 2022-02-27 22:20:00 | turffontein               |      4 |        2 | River Queraress    |   0    | vulture,milkman    |
-| 20 | :soon:   | 2022-02-27 21:50:00 | turffontein               |      3 |        2 | Defender Of Rights |   0    | vulture            |
-| 21 | :soon:   | 2022-02-27 20:40:00 | turffontein               |      1 |        2 | Jp Two Thousand    |   0    | vulture            |
-| 22 | :soon:   | 2022-02-27 20:10:00 | sha-tin                   |      9 |        6 | Running Glory      |   0    | vulture            |
-| 23 | :soon:   | 2022-02-27 17:43:00 | sunshine-coast-poly-track |      8 |        2 | Absolute Charmer   |   3.75 | evenodds,lago      |
-| 24 | :soon:   | 2022-02-27 15:40:00 | ballarat                  |      6 |        9 | Accuse             |   7.5  | vulture            |
-| 25 | :soon:   | 2022-02-27 15:40:00 | ballarat                  |      6 |        7 | Rockribbed         |   4.33 | pangea,blackshadow |
-| 26 | :soon:   | 2022-02-27 15:25:00 | mudgee                    |      5 |        2 | Shameonus          |   7.5  | benny,pangea       |
-| 27 | :soon:   | 2022-02-27 15:00:00 | albury                    |      3 |        6 | Platara            |   7    | milkman            |
-| 28 | :soon:   | 2022-02-27 15:00:00 | albury                    |      3 |        8 | Charm Wing         |   3.4  | pangea             |
-| 29 | :soon:   | 2022-02-27 14:30:00 | ballarat                  |      4 |       14 | Whenthedeelingsdun |  17    | overthrow          |
-| 30 | :soon:   | 2022-02-27 14:30:00 | ballarat                  |      4 |        6 | Salem              |  13    | vulture            |
-| 31 | :soon:   | 2022-02-27 13:55:00 | ballarat                  |      3 |        3 | My Lancelot        |   6    | vulture            |
-| 32 | :soon:   | 2022-02-27 13:35:00 | mudgee                    |      2 |        9 | Salire             |   1.9  | vulture            |
+|    | finish            | time                | track                     |   race |   number | name               |   odds | tipster            |
+|---:|:------------------|:--------------------|:--------------------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-02-28 04:30:00 | naas                      |      8 |        2 | Sandor Clegane     |   1.8  | milkman            |
+|  1 | :soon:            | 2022-02-28 04:10:00 | hereford                  |      8 |        1 | Canty Bay          |   9    | looseknot          |
+|  2 | :soon:            | 2022-02-28 03:40:00 | hereford                  |      7 |        1 | Keplerian          |   3.6  | looseknot          |
+|  3 | :soon:            | 2022-02-28 03:30:00 | naas                      |      6 |        2 | Bring On The Night |   1.8  | evenodds,overthrow |
+|  4 | :soon:            | 2022-02-28 03:20:00 | fontwell                  |      6 |        1 | Jett               |   1.5  | vulture            |
+|  5 | :soon:            | 2022-02-28 03:10:00 | hereford                  |      6 |        3 | Bert Wilson        |   5.5  | looseknot          |
+|  6 | :soon:            | 2022-02-28 03:10:00 | hereford                  |      6 |        6 | Bebraveforglory    |   8.5  | looseknot          |
+|  7 | :soon:            | 2022-02-28 03:00:00 | naas                      |      5 |        3 | Devil's Cut        |   8    | milkman            |
+|  8 | :soon:            | 2022-02-28 03:00:00 | naas                      |      5 |        9 | Micro Manage       |   2    | overthrow          |
+|  9 | :soon:            | 2022-02-28 02:00:00 | naas                      |      3 |        2 | Ha D'or            |   2.8  | overthrow          |
+| 10 | :soon:            | 2022-02-28 01:50:00 | fontwell                  |      3 |        4 | Allmankind         |   5    | overthrow          |
+| 11 | :soon:            | 2022-02-28 01:50:00 | fontwell                  |      3 |        3 | Monmiral           |   4.2  | overthrow          |
+| 12 | :soon:            | 2022-02-28 01:40:00 | hereford                  |      3 |        1 | Town Parks         |  15    | pangea             |
+| 13 | :soon:            | 2022-02-28 01:00:00 | naas                      |      1 |        3 | Cash Back          |   5    | overthrow          |
+| 14 | :soon:            | 2022-02-28 00:50:00 | fontwell                  |      1 |        3 | Brewers Project    |   5    | overthrow          |
+| 15 | :soon:            | 2022-02-28 00:40:00 | hereford                  |      1 |        5 | Hellfire Princess  |   4.2  | milkman            |
+| 16 | :soon:            | 2022-02-28 00:05:00 | turffontein               |      7 |       12 | Pin Up             |   0    | vulture,pangea     |
+| 17 | :soon:            | 2022-02-27 22:50:00 | turffontein               |      5 |        4 | Arividicio         |   0    | vulture            |
+| 18 | :soon:            | 2022-02-27 22:50:00 | turffontein               |      5 |        3 | Ode To The Ocean   |   0    | vulture            |
+| 19 | :soon:            | 2022-02-27 22:20:00 | turffontein               |      4 |        2 | River Queraress    |   0    | vulture,milkman    |
+| 20 | :soon:            | 2022-02-27 21:50:00 | turffontein               |      3 |        2 | Defender Of Rights |   0    | vulture            |
+| 21 | :soon:            | 2022-02-27 20:40:00 | turffontein               |      1 |        2 | Jp Two Thousand    |   0    | vulture            |
+| 22 | :soon:            | 2022-02-27 20:10:00 | sha-tin                   |      9 |        6 | Running Glory      |   0    | vulture            |
+| 23 | :soon:            | 2022-02-27 17:43:00 | sunshine-coast-poly-track |      8 |        2 | Absolute Charmer   |   3.75 | evenodds,lago      |
+| 24 | :soon:            | 2022-02-27 15:40:00 | ballarat                  |      6 |        9 | Accuse             |   7.5  | vulture            |
+| 25 | :soon:            | 2022-02-27 15:40:00 | ballarat                  |      6 |        7 | Rockribbed         |   4.33 | pangea,blackshadow |
+| 26 | :soon:            | 2022-02-27 15:25:00 | mudgee                    |      5 |        2 | Shameonus          |   7.5  | benny,pangea       |
+| 27 | :soon:            | 2022-02-27 15:00:00 | albury                    |      3 |        6 | Platara            |   7    | milkman            |
+| 28 | :soon:            | 2022-02-27 15:00:00 | albury                    |      3 |        8 | Charm Wing         |   3.4  | pangea             |
+| 29 | :soon:            | 2022-02-27 14:30:00 | ballarat                  |      4 |       14 | Whenthedeelingsdun |  17    | overthrow          |
+| 30 | :soon:            | 2022-02-27 14:30:00 | ballarat                  |      4 |        6 | Salem              |  13    | vulture            |
+| 31 | :soon:            | 2022-02-27 13:55:00 | ballarat                  |      3 |        3 | My Lancelot        |   6    | vulture            |
+| 32 | :2nd_place_medal: | 2022-02-27 13:35:00 | mudgee                    |      2 |        9 | Salire             |   1.9  | vulture            |
