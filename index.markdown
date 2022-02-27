@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-27 15:42:28 +1000  
+date: 2022-02-27 15:58:14 +1000  
 ---   
 
 
@@ -9,15 +9,15 @@ date: 2022-02-27 15:42:28 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      1 |       21 | 1    |  2.1  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      2 |       14 | 0.4  |  0.28 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      1 |      -17 | 0.2  | -0.34 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      5 |      0 |      -50 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      6 |      0 |      -60 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     10 |      0 |     -100 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     10 |      1 |      -69 | 0.1  | -0.69 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      0 |     -140 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     24 |      0 |     -240 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     37 |      2 |     -334 | 0.05 | -0.9  |
@@ -27,7 +27,7 @@ date: 2022-02-27 15:42:28 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      7 |    177.6 | 0.35 |  0.89 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      8 |    355.6 | 0.4  |  1.78 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |     15   | 0.15 |  0.08 |
@@ -100,8 +100,8 @@ date: 2022-02-27 15:42:28 +1000
 | 21 | :soon:            | 2022-02-27 20:40:00 | turffontein               |      1 |        2 | Jp Two Thousand    |   0    | vulture            |
 | 22 | :soon:            | 2022-02-27 20:10:00 | sha-tin                   |      9 |        6 | Running Glory      |   0    | vulture            |
 | 23 | :soon:            | 2022-02-27 17:43:00 | sunshine-coast-poly-track |      8 |        2 | Absolute Charmer   |   3.75 | evenodds,lago      |
-| 24 | --                | 2022-02-27 15:40:00 | ballarat                  |      6 |        9 | Accuse             |   7.5  | vulture            |
-| 25 | --                | 2022-02-27 15:40:00 | ballarat                  |      6 |        7 | Rockribbed         |   4.33 | pangea,blackshadow |
+| 24 | 4.0               | 2022-02-27 15:40:00 | ballarat                  |      6 |        9 | Accuse             |   7.5  | vulture            |
+| 25 | :boom:            | 2022-02-27 15:40:00 | ballarat                  |      6 |        7 | Rockribbed         |   4.33 | pangea,blackshadow |
 | 26 | :2nd_place_medal: | 2022-02-27 15:25:00 | mudgee                    |      5 |        2 | Shameonus          |   7.5  | benny,pangea       |
 | 27 | :2nd_place_medal: | 2022-02-27 15:00:00 | albury                    |      3 |        6 | Platara            |   7    | milkman            |
 | 28 | :boom:            | 2022-02-27 15:00:00 | albury                    |      3 |        8 | Charm Wing         |   3.4  | pangea             |
