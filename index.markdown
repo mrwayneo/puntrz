@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-27 21:52:49 +1000  
+date: 2022-02-27 22:07:29 +1000  
 ---   
 
 
@@ -18,7 +18,7 @@ date: 2022-02-27 21:52:49 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      5 |      0 |    -50   | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      6 |      0 |    -60   | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     10 |      1 |    -69   | 0.1  | -0.69 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      1 |   -127   | 0.07 | -0.91 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      1 |   -126.5 | 0.07 | -0.9  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     24 |      0 |   -240   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     37 |      3 |   -292.5 | 0.08 | -0.79 |
 
@@ -27,7 +27,7 @@ date: 2022-02-27 21:52:49 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      7 |    177.6 | 0.35 |  0.89 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      8 |    355.6 | 0.4  |  1.78 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |     15   | 0.15 |  0.08 |
