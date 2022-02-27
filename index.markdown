@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-27 14:27:12 +1000  
+date: 2022-02-27 14:42:24 +1000  
 ---   
 
 
@@ -27,7 +27,7 @@ date: 2022-02-27 14:27:12 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      8 |    355.6 | 0.4  |  1.78 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      7 |    177.6 | 0.35 |  0.89 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |     15   | 0.15 |  0.08 |
@@ -105,7 +105,7 @@ date: 2022-02-27 14:27:12 +1000
 | 26 | :soon:            | 2022-02-27 15:25:00 | mudgee                    |      5 |        2 | Shameonus          |   7.5  | benny,pangea       |
 | 27 | :soon:            | 2022-02-27 15:00:00 | albury                    |      3 |        6 | Platara            |   7    | milkman            |
 | 28 | :soon:            | 2022-02-27 15:00:00 | albury                    |      3 |        8 | Charm Wing         |   3.4  | pangea             |
-| 29 | :soon:            | 2022-02-27 14:30:00 | ballarat                  |      4 |       14 | Whenthedeelingsdun |  17    | overthrow          |
-| 30 | :soon:            | 2022-02-27 14:30:00 | ballarat                  |      4 |        6 | Salem              |  13    | vulture            |
+| 29 | --                | 2022-02-27 14:30:00 | ballarat                  |      4 |       14 | Whenthedeelingsdun |  17    | overthrow          |
+| 30 | --                | 2022-02-27 14:30:00 | ballarat                  |      4 |        6 | Salem              |  13    | vulture            |
 | 31 | :3rd_place_medal: | 2022-02-27 13:55:00 | ballarat                  |      3 |        3 | My Lancelot        |   6    | vulture            |
 | 32 | :2nd_place_medal: | 2022-02-27 13:35:00 | mudgee                    |      2 |        9 | Salire             |   1.9  | vulture            |
