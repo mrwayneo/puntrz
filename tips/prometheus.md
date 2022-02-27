@@ -1,32 +1,32 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-02-27 22:53:13 +1000  
+date: 2022-02-28 08:30:23 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    158 |     20 |   -524.8 | 0.13 | -0.33 |
-| Last 28 Days   |   1054 |     92 |  -4662.1 | 0.09 | -0.44 |
-| Last 6 Months  |   7163 |    975 | -16817.9 | 0.14 | -0.23 |
-| Since Jan 2020 |  12611 |   1981 | -19091.5 | 0.16 | -0.15 |
+| Last 7 Days    |    195 |     23 |   -817.3 | 0.12 | -0.42 |
+| Last 28 Days   |   1073 |     93 |  -4774.6 | 0.09 | -0.44 |
+| Last 6 Months  |   7200 |    978 | -17110.4 | 0.14 | -0.24 |
+| Since Jan 2020 |  12648 |   1984 | -19384   | 0.16 | -0.15 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:10             | 2022-02-28 | hereford R8                   | 4 Game Winner         |   3.2  |    -10   |
-| 00:40             | 2022-02-28 | turffontein R8                | 9 Duke Of Normandy    |   0    |    -10   |
-| 00:40             | 2022-02-28 | turffontein R8                | 2 Blonde Act          |   0    |    -10   |
-| 00:40             | 2022-02-28 | turffontein R8                | 1 Forward Spell       |   0    |    -10   |
-| 00:05             | 2022-02-28 | turffontein R7                | 13 Opera Glass        |   0    |    -10   |
-| 00:05             | 2022-02-28 | turffontein R7                | 11 Hollywoodbound     |   0    |    -10   |
-| 00:05             | 2022-02-28 | turffontein R7                | 9 Rouge Allure        |   0    |    -10   |
-| 00:05             | 2022-02-28 | turffontein R7                | 7 Saragon             |   0    |    -10   |
-| 00:05             | 2022-02-28 | turffontein R7                | 4 Victoria Paige      |   0    |    -10   |
-| 00:05             | 2022-02-28 | turffontein R7                | 1 Mount Laurel        |   0    |    -10   |
-| 23:30             | 2022-02-27 | turffontein R6                | 11 Seemyvision        |   0    |    -10   |
-| 23:30             | 2022-02-27 | turffontein R6                | 9 Bequest             |   0    |    -10   |
+| 0                 | 2022-02-28 | hereford R8                   | 4 Game Winner         |   0    |    -10   |
+| 0                 | 2022-02-28 | turffontein R8                | 9 Duke Of Normandy    |   0    |    -10   |
+| 0                 | 2022-02-28 | turffontein R8                | 2 Blonde Act          |   0    |    -10   |
+| 0                 | 2022-02-28 | turffontein R8                | 1 Forward Spell       |   0    |    -10   |
+| 0                 | 2022-02-28 | turffontein R7                | 13 Opera Glass        |   0    |    -10   |
+| 0                 | 2022-02-28 | turffontein R7                | 11 Hollywoodbound     |   0    |    -10   |
+| 0                 | 2022-02-28 | turffontein R7                | 9 Rouge Allure        |   0    |    -10   |
+| 0                 | 2022-02-28 | turffontein R7                | 7 Saragon             |   0    |    -10   |
+| 0                 | 2022-02-28 | turffontein R7                | 4 Victoria Paige      |   0    |    -10   |
+| 0                 | 2022-02-28 | turffontein R7                | 1 Mount Laurel        |   0    |    -10   |
+| 0                 | 2022-02-27 | turffontein R6                | 11 Seemyvision        |   0    |    -10   |
+| 0                 | 2022-02-27 | turffontein R6                | 9 Bequest             |   0    |    -10   |
 | 0                 | 2022-02-27 | turffontein R5                | 5 Karangetang         |   0    |    -10   |
 | 0                 | 2022-02-27 | turffontein R5                | 6 Vartacus            |   0    |    -10   |
 | 0                 | 2022-02-27 | turffontein R4                | 6 More For Me         |   0    |    -10   |

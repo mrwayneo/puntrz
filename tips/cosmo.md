@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-02-27 22:53:12 +1000  
+date: 2022-02-28 08:30:22 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     72 |      2 |     -528 | 0.03 | -0.73 |
-| Last 28 Days   |    353 |     20 |     -322 | 0.06 | -0.09 |
-| Last 6 Months  |   2777 |    148 |    -4246 | 0.05 | -0.15 |
-| Since Jan 2020 |   5478 |    320 |    -1470 | 0.06 | -0.03 |
+| Last 7 Days    |     77 |      2 |     -578 | 0.03 | -0.75 |
+| Last 28 Days   |    356 |     19 |     -352 | 0.05 | -0.1  |
+| Last 6 Months  |   2782 |    148 |    -4296 | 0.05 | -0.15 |
+| Since Jan 2020 |   5483 |    320 |    -1520 | 0.06 | -0.03 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:50             | 2022-02-28 | fontwell R3                   | 5 Botox Has           |  21    |      -10 |
-| 01:30             | 2022-02-28 | naas R2                       | 4 Global Equity       |  19    |      -10 |
-| 01:30             | 2022-02-28 | naas R2                       | 3 Gabbys Cross        |  19    |      -10 |
-| 00:40             | 2022-02-28 | hereford R1                   | 4 Fire Lake           |  12    |      -10 |
+| 0                 | 2022-02-28 | fontwell R3                   | 5 Botox Has           |   0    |      -10 |
+| 0                 | 2022-02-28 | naas R2                       | 4 Global Equity       |   0    |      -10 |
+| 0                 | 2022-02-28 | naas R2                       | 3 Gabbys Cross        |   0    |      -10 |
+| 0                 | 2022-02-28 | hereford R1                   | 4 Fire Lake           |   0    |      -10 |
 | 5                 | 2022-02-27 | mudgee R5                     | 10 Eva's Deel         |  20    |      -10 |
 | 0                 | 2022-02-27 | lingfield R8                  | 2 Charlie Arthur      |   0    |      -10 |
 | 0                 | 2022-02-27 | chepstow R8                   | 6 Vengeance           |   0    |      -10 |

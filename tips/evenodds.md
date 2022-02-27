@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2022-02-27 22:52:41 +1000  
+date: 2022-02-28 08:30:19 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     19 |      3 |   -117   | 0.16 | -0.62 |
-| Last 28 Days   |     83 |     20 |   -336   | 0.24 | -0.4  |
-| Last 6 Months  |    642 |    166 |  -2008.8 | 0.26 | -0.31 |
-| Since Jan 2020 |   1384 |    380 |  -3025.6 | 0.27 | -0.22 |
+| Last 7 Days    |     21 |      3 |   -137   | 0.14 | -0.65 |
+| Last 28 Days   |     84 |     20 |   -346   | 0.24 | -0.41 |
+| Last 6 Months  |    644 |    166 |  -2028.8 | 0.26 | -0.32 |
+| Since Jan 2020 |   1386 |    380 |  -3045.6 | 0.27 | -0.22 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 03:30             | 2022-02-28 | naas R6                      | 2 Bring On The Night  |   1.8  |    -10   |
+| 0                 | 2022-02-28 | naas R6                      | 2 Bring On The Night  |   0    |    -10   |
 | 0                 | 2022-02-27 | sunshine-coast-poly-track R8 | 2 Absolute Charmer    |   0    |    -10   |
 | :3rd_place_medal: | 2022-02-27 | fairyhouse R5                | 3 Burrows Saint       |   2.4  |    -10   |
 | 0                 | 2022-02-27 | kempton R4                   | 2 Frere D'armes       |   0    |    -10   |

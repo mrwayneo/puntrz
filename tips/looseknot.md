@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-02-27 22:53:13 +1000  
+date: 2022-02-28 08:30:23 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     13 |      0 |   -130   | 0    | -1    |
-| Last 28 Days   |     70 |      7 |   -302   | 0.1  | -0.43 |
-| Last 6 Months  |    686 |    107 |   -584.8 | 0.16 | -0.09 |
-| Since Jan 2020 |   1371 |    205 |  -1803.8 | 0.15 | -0.13 |
+| Last 7 Days    |     17 |      0 |   -170   | 0    | -1    |
+| Last 28 Days   |     72 |      7 |   -322   | 0.1  | -0.45 |
+| Last 6 Months  |    690 |    107 |   -624.8 | 0.16 | -0.09 |
+| Since Jan 2020 |   1375 |    205 |  -1843.8 | 0.15 | -0.13 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:10             | 2022-02-28 | hereford R8                   | 1 Canty Bay           |   9    |    -10   |
-| 03:40             | 2022-02-28 | hereford R7                   | 1 Keplerian           |   3.6  |    -10   |
-| 03:10             | 2022-02-28 | hereford R6                   | 6 Bebraveforglory     |   8.5  |    -10   |
-| 03:10             | 2022-02-28 | hereford R6                   | 3 Bert Wilson         |   5.5  |    -10   |
+| 0                 | 2022-02-28 | hereford R8                   | 1 Canty Bay           |   0    |    -10   |
+| 0                 | 2022-02-28 | hereford R7                   | 1 Keplerian           |   0    |    -10   |
+| 0                 | 2022-02-28 | hereford R6                   | 6 Bebraveforglory     |   0    |    -10   |
+| 0                 | 2022-02-28 | hereford R6                   | 3 Bert Wilson         |   0    |    -10   |
 | :3rd_place_medal: | 2022-02-27 | wolverhampton R4              | 3 Dalby Forest        |   6    |    -10   |
 | 0                 | 2022-02-27 | wolverhampton R1              | 6 Jalea Moon          |   0    |    -10   |
 | :2nd_place_medal: | 2022-02-27 | chepstow R4                   | 5 Jepeck              |   7    |    -10   |

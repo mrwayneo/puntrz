@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-02-27 22:52:43 +1000  
+date: 2022-02-28 08:30:22 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     46 |     14 |    298.6 | 0.3  |  0.65 |
-| Last 28 Days   |    181 |     44 |   -158.5 | 0.24 | -0.09 |
-| Last 6 Months  |   1255 |    309 |  -2760.9 | 0.25 | -0.22 |
-| Since Jan 2020 |   2876 |    723 |  -4685.1 | 0.25 | -0.16 |
+| Last 7 Days    |     52 |     14 |    238.6 | 0.27 |  0.46 |
+| Last 28 Days   |    185 |     43 |   -198.5 | 0.23 | -0.11 |
+| Last 6 Months  |   1261 |    309 |  -2820.9 | 0.25 | -0.22 |
+| Since Jan 2020 |   2882 |    723 |  -4745.1 | 0.25 | -0.16 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 04:30             | 2022-02-28 | naas R8                      | 2 Sandor Clegane      |   1.8  |    -10   |
-| 03:00             | 2022-02-28 | naas R5                      | 3 Devil's Cut         |   8    |    -10   |
-| 00:40             | 2022-02-28 | hereford R1                  | 5 Hellfire Princess   |   4.2  |    -10   |
+| 0                 | 2022-02-28 | naas R8                      | 2 Sandor Clegane      |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R5                      | 3 Devil's Cut         |   0    |    -10   |
+| 0                 | 2022-02-28 | hereford R1                  | 5 Hellfire Princess   |   0    |    -10   |
 | 0                 | 2022-02-27 | turffontein R4               | 2 River Queraress     |   0    |    -10   |
 | 0                 | 2022-02-27 | sunshine-coast-poly-track R8 | 2 Absolute Charmer    |   0    |    -10   |
 | :2nd_place_medal: | 2022-02-27 | albury R3                    | 6 Platara             |   7    |    -10   |

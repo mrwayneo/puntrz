@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-02-27 22:52:41 +1000  
+date: 2022-02-28 08:30:20 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     82 |     13 |   -344.4 | 0.16 | -0.42 |
-| Last 28 Days   |    363 |     82 |   -740.6 | 0.23 | -0.2  |
-| Last 6 Months  |   3043 |    739 |  -5474.5 | 0.24 | -0.18 |
-| Since Jan 2020 |   6782 |   1637 | -11107.5 | 0.24 | -0.16 |
+| Last 7 Days    |     96 |     14 |   -470.9 | 0.15 | -0.49 |
+| Last 28 Days   |    374 |     83 |   -837.1 | 0.22 | -0.22 |
+| Last 6 Months  |   3057 |    740 |  -5601   | 0.24 | -0.18 |
+| Since Jan 2020 |   6796 |   1638 | -11234   | 0.24 | -0.17 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:30             | 2022-02-28 | naas R6                       | 2 Bring On The Night  |   1.8  |    -10   |
-| 03:20             | 2022-02-28 | fontwell R6                   | 1 Jett                |   1.5  |    -10   |
-| 00:05             | 2022-02-28 | turffontein R7                | 12 Pin Up             |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R6                       | 2 Bring On The Night  |   0    |    -10   |
+| 0                 | 2022-02-28 | fontwell R6                   | 1 Jett                |   0    |    -10   |
+| 0                 | 2022-02-28 | turffontein R7                | 12 Pin Up             |   0    |    -10   |
 | 0                 | 2022-02-27 | turffontein R5                | 4 Arividicio          |   0    |    -10   |
 | 0                 | 2022-02-27 | turffontein R5                | 3 Ode To The Ocean    |   0    |    -10   |
 | 0                 | 2022-02-27 | turffontein R4                | 2 River Queraress     |   0    |    -10   |

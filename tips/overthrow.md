@@ -1,27 +1,27 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-02-27 22:52:42 +1000  
+date: 2022-02-28 08:30:21 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     66 |     12 |   -294   | 0.18 | -0.45 |
-| Last 28 Days   |    330 |     68 |  -1503.8 | 0.21 | -0.46 |
-| Last 6 Months  |   2392 |    590 |  -5333.7 | 0.25 | -0.22 |
-| Since Jan 2020 |   5225 |   1318 |  -6511.8 | 0.25 | -0.12 |
+| Last 7 Days    |     76 |     13 |   -363   | 0.17 | -0.48 |
+| Last 28 Days   |    333 |     67 |  -1502.8 | 0.2  | -0.45 |
+| Last 6 Months  |   2402 |    591 |  -5402.7 | 0.25 | -0.22 |
+| Since Jan 2020 |   5235 |   1319 |  -6580.8 | 0.25 | -0.13 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 03:30             | 2022-02-28 | naas R6                      | 2 Bring On The Night  |   1.8  |    -10   |
-| 03:00             | 2022-02-28 | naas R5                      | 9 Micro Manage        |   2    |    -10   |
-| 02:00             | 2022-02-28 | naas R3                      | 2 Ha D'or             |   2.8  |    -10   |
-| 01:50             | 2022-02-28 | fontwell R3                  | 4 Allmankind          |   5    |    -10   |
-| 01:50             | 2022-02-28 | fontwell R3                  | 3 Monmiral            |   4.2  |    -10   |
-| 01:00             | 2022-02-28 | naas R1                      | 3 Cash Back           |   5    |    -10   |
-| 00:50             | 2022-02-28 | fontwell R1                  | 3 Brewers Project     |   5    |    -10   |
+| 0                 | 2022-02-28 | naas R6                      | 2 Bring On The Night  |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R5                      | 9 Micro Manage        |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R3                      | 2 Ha D'or             |   0    |    -10   |
+| 0                 | 2022-02-28 | fontwell R3                  | 4 Allmankind          |   0    |    -10   |
+| 0                 | 2022-02-28 | fontwell R3                  | 3 Monmiral            |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R1                      | 3 Cash Back           |   0    |    -10   |
+| 0                 | 2022-02-28 | fontwell R1                  | 3 Brewers Project     |   0    |    -10   |
 | 0                 | 2022-02-27 | sunshine-coast-poly-track R8 | 2 Absolute Charmer    |   0    |    -10   |
 | :boom:            | 2022-02-27 | ballarat R6                  | 7 Rockribbed          |   3.1  |     21   |
 | 6                 | 2022-02-27 | ballarat R4                  | 14 Whenthedeelingsdun |  17    |    -10   |

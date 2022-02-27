@@ -1,42 +1,42 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-02-27 22:53:15 +1000  
+date: 2022-02-28 08:30:25 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    197 |     11 |     -560 | 0.06 | -0.28 |
-| Last 28 Days   |   1090 |     54 |    -2922 | 0.05 | -0.27 |
-| Last 6 Months  |   8838 |    430 |   -24356 | 0.05 | -0.28 |
-| Since Jan 2020 |  18403 |    952 |   -40474 | 0.05 | -0.22 |
+| Last 7 Days    |    221 |     11 |     -800 | 0.05 | -0.36 |
+| Last 28 Days   |   1081 |     54 |    -2832 | 0.05 | -0.26 |
+| Last 6 Months  |   8862 |    430 |   -24596 | 0.05 | -0.28 |
+| Since Jan 2020 |  18427 |    952 |   -40714 | 0.05 | -0.22 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:00             | 2022-02-28 | naas R7                       | 22 Lake Chad          | 101    |    -10   |
-| 04:00             | 2022-02-28 | naas R7                       | 20 Mr Jackman         | 101    |    -10   |
-| 04:00             | 2022-02-28 | naas R7                       | 1 Goulane Chosen      |  19    |    -10   |
-| 04:00             | 2022-02-28 | naas R7                       | 7 Andratx             |  26    |    -10   |
-| 04:00             | 2022-02-28 | naas R7                       | 10 Instant Return     |  17    |    -10   |
-| 04:00             | 2022-02-28 | naas R7                       | 11 Curious Times      |  17    |    -10   |
-| 04:00             | 2022-02-28 | naas R7                       | 12 Varna Gold         |  41    |    -10   |
-| 04:00             | 2022-02-28 | naas R7                       | 19 Darkened           |  15    |    -10   |
-| 03:40             | 2022-02-28 | hereford R7                   | 8 Watching Brief      |  19    |    -10   |
-| 03:30             | 2022-02-28 | naas R6                       | 3 Changing The Rules  |  21    |    -10   |
-| 03:10             | 2022-02-28 | hereford R6                   | 10 Garrison Commander |  21    |    -10   |
-| 03:00             | 2022-02-28 | naas R5                       | 12 Onlyhuman          |  21    |    -10   |
-| 03:00             | 2022-02-28 | naas R5                       | 1 Arlo                |  34    |    -10   |
-| 01:50             | 2022-02-28 | fontwell R3                   | 5 Botox Has           |  21    |    -10   |
-| 01:40             | 2022-02-28 | hereford R3                   | 2 Fix At All          |  12    |    -10   |
-| 01:40             | 2022-02-28 | hereford R3                   | 7 Battle Of Actium    |  34    |    -10   |
-| 01:40             | 2022-02-28 | hereford R3                   | 8 Mystical Clouds     |  19    |    -10   |
-| 01:30             | 2022-02-28 | naas R2                       | 3 Gabbys Cross        |  19    |    -10   |
-| 01:30             | 2022-02-28 | naas R2                       | 4 Global Equity       |  19    |    -10   |
-| 01:20             | 2022-02-28 | fontwell R2                   | 6 Surdoue De Ballon   |  34    |    -10   |
-| 01:10             | 2022-02-28 | hereford R2                   | 10 Mustang Alpha      |  19    |    -10   |
-| 00:40             | 2022-02-28 | hereford R1                   | 4 Fire Lake           |  12    |    -10   |
+| 0                 | 2022-02-28 | naas R7                       | 22 Lake Chad          |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R7                       | 20 Mr Jackman         |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R7                       | 1 Goulane Chosen      |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R7                       | 7 Andratx             |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R7                       | 10 Instant Return     |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R7                       | 11 Curious Times      |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R7                       | 12 Varna Gold         |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R7                       | 19 Darkened           |   0    |    -10   |
+| 0                 | 2022-02-28 | hereford R7                   | 8 Watching Brief      |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R6                       | 3 Changing The Rules  |   0    |    -10   |
+| 0                 | 2022-02-28 | hereford R6                   | 10 Garrison Commander |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R5                       | 12 Onlyhuman          |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R5                       | 1 Arlo                |   0    |    -10   |
+| 0                 | 2022-02-28 | fontwell R3                   | 5 Botox Has           |   0    |    -10   |
+| 0                 | 2022-02-28 | hereford R3                   | 2 Fix At All          |   0    |    -10   |
+| 0                 | 2022-02-28 | hereford R3                   | 7 Battle Of Actium    |   0    |    -10   |
+| 0                 | 2022-02-28 | hereford R3                   | 8 Mystical Clouds     |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R2                       | 3 Gabbys Cross        |   0    |    -10   |
+| 0                 | 2022-02-28 | naas R2                       | 4 Global Equity       |   0    |    -10   |
+| 0                 | 2022-02-28 | fontwell R2                   | 6 Surdoue De Ballon   |   0    |    -10   |
+| 0                 | 2022-02-28 | hereford R2                   | 10 Mustang Alpha      |   0    |    -10   |
+| 0                 | 2022-02-28 | hereford R1                   | 4 Fire Lake           |   0    |    -10   |
 | 5                 | 2022-02-27 | mudgee R5                     | 10 Eva's Deel         |  20    |    -10   |
 | :3rd_place_medal: | 2022-02-27 | ballarat R1                   | 5 Millvale            |  41    |    -10   |
 | 4                 | 2022-02-27 | wolverhampton R3              | 7 Mindspin            |  10    |    -10   |

@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2022-02-27 22:52:42 +1000  
+date: 2022-02-28 08:30:20 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     65 |     11 |     58   | 0.17 |  0.09 |
-| Last 28 Days   |    312 |     54 |   -712.4 | 0.17 | -0.23 |
-| Last 6 Months  |   2080 |    415 |  -4205.8 | 0.2  | -0.2  |
-| Since Jan 2020 |   4729 |    989 |  -4931   | 0.21 | -0.1  |
+| Last 7 Days    |     70 |     13 |     72   | 0.19 |  0.1  |
+| Last 28 Days   |    316 |     56 |   -688.4 | 0.18 | -0.22 |
+| Last 6 Months  |   2085 |    417 |  -4191.8 | 0.2  | -0.2  |
+| Since Jan 2020 |   4734 |    991 |  -4917   | 0.21 | -0.1  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:40             | 2022-02-28 | hereford R3                   | 1 Town Parks          |  15    |    -10   |
-| 00:05             | 2022-02-28 | turffontein R7                | 12 Pin Up             |   0    |    -10   |
+| 0                 | 2022-02-28 | hereford R3                   | 1 Town Parks          |   0    |    -10   |
+| 0                 | 2022-02-28 | turffontein R7                | 12 Pin Up             |   0    |    -10   |
 | :boom:            | 2022-02-27 | ballarat R6                   | 7 Rockribbed          |   3.1  |     21   |
 | :2nd_place_medal: | 2022-02-27 | mudgee R5                     | 2 Shameonus           |   7.5  |    -10   |
 | :boom:            | 2022-02-27 | albury R3                     | 8 Charm Wing          |   3.3  |     23   |
