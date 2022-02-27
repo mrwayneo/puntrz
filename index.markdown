@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-27 21:37:39 +1000  
+date: 2022-02-27 21:52:49 +1000  
 ---   
 
 
@@ -27,7 +27,7 @@ date: 2022-02-27 21:37:39 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      8 |    355.6 | 0.4  |  1.78 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      7 |    177.6 | 0.35 |  0.89 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |     15   | 0.15 |  0.08 |
@@ -96,7 +96,7 @@ date: 2022-02-27 21:37:39 +1000
 | 17 | :soon:            | 2022-02-27 22:50:00 | turffontein               |      5 |        4 | Arividicio         |   0    | vulture            |
 | 18 | :soon:            | 2022-02-27 22:50:00 | turffontein               |      5 |        3 | Ode To The Ocean   |   0    | vulture            |
 | 19 | :soon:            | 2022-02-27 22:20:00 | turffontein               |      4 |        2 | River Queraress    |   0    | vulture,milkman    |
-| 20 | :soon:            | 2022-02-27 21:50:00 | turffontein               |      3 |        2 | Defender Of Rights |   0    | vulture            |
+| 20 | --                | 2022-02-27 21:50:00 | turffontein               |      3 |        2 | Defender Of Rights |   0    | vulture            |
 | 21 | :boom:            | 2022-02-27 20:40:00 | turffontein               |      1 |        2 | Jp Two Thousand    |   0    | vulture            |
 | 22 | --                | 2022-02-27 20:10:00 | sha-tin                   |      9 |        6 | Running Glory      |   0    | vulture            |
 | 23 | --                | 2022-02-27 17:43:00 | sunshine-coast-poly-track |      8 |        2 | Absolute Charmer   |   3.75 | evenodds,lago      |
