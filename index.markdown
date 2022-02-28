@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-01 07:45:49 +1000  
+date: 2022-03-01 08:00:49 +1000  
 ---   
 
 
@@ -76,17 +76,23 @@ date: 2022-03-01 07:45:49 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6105 |    826 | -12095.6 | 0.14 | -0.2  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7824 |    364 | -24000   | 0.05 | -0.31 |
 
-|    | finish            | time                | track          |   race |   number | name             |   odds | tipster            |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | :boom:            | 2022-03-01 06:00:00 | wolverhampton  |      5 |        1 | Base Note        |   1.9  | vulture            |
-|  1 | :boom:            | 2022-03-01 05:30:00 | wolverhampton  |      4 |        6 | Witch Hunter     |   1.35 | vulture            |
-|  2 | --                | 2022-03-01 03:30:00 | carlisle       |      7 |        1 | Downtown Getaway |   5.5  | pangea             |
-|  3 | :3rd_place_medal: | 2022-03-01 01:45:00 | carlisle       |      4 |        2 | Armattiekan      |   3.3  | overthrow          |
-|  4 | :boom:            | 2022-03-01 01:10:00 | carlisle       |      3 |        3 | Masked Crusader  |   1.65 | evenodds,overthrow |
-|  5 | --                | 2022-03-01 01:00:00 | greyville      |      7 |        5 | Airways Law      |   0    | milkman            |
-|  6 | --                | 2022-02-28 23:15:00 | greyville      |      4 |        8 | Caesura          |   0    | vulture            |
-|  7 | 103.0             | 2022-02-28 17:30:00 | port-macquarie |      8 |       11 | Jet Pack         |   8    | looseknot          |
-|  8 | 8.0               | 2022-02-28 17:10:00 | thangool       |      5 |        5 | Schweid As       |   6    | benny,pangea       |
-|  9 | :2nd_place_medal: | 2022-02-28 16:35:00 | thangool       |      4 |        2 | Kareno           |   4.5  | pangea             |
-| 10 | :3rd_place_medal: | 2022-02-28 16:35:00 | thangool       |      4 |        1 | Homecall         |   1.95 | pangea             |
-| 11 | :3rd_place_medal: | 2022-02-28 16:30:00 | hamilton       |      7 |        5 | Bubbly Lass      |   3.7  | vulture            |
+|    | finish   | time                | track     |   race |   number | name              |   odds | tipster              |
+|---:|:---------|:--------------------|:----------|-------:|---------:|:------------------|-------:|:---------------------|
+|  0 | :soon:   | 2022-03-02 03:35:00 | leicester |      6 |        4 | Rebel Dawn Rising |    1.9 | overthrow            |
+|  1 | :soon:   | 2022-03-02 03:35:00 | leicester |      6 |        2 | Benefaktor        |    4.8 | overthrow            |
+|  2 | :soon:   | 2022-03-02 03:05:00 | leicester |      5 |        3 | Peacocks Secret   |    9   | overthrow            |
+|  3 | :soon:   | 2022-03-02 03:05:00 | leicester |      5 |        6 | Indirocco         |    5   | evenodds,looseknot   |
+|  4 | :soon:   | 2022-03-02 03:05:00 | leicester |      5 |        5 | Pure Vision       |    2.8 | vulture              |
+|  5 | :soon:   | 2022-03-02 01:40:00 | catterick |      4 |        5 | Kopa Kilana       |    3.8 | milkman              |
+|  6 | :soon:   | 2022-03-02 00:30:00 | catterick |      2 |        1 | Mackenberg        |    2.7 | evenodds,blackshadow |
+|  7 | :soon:   | 2022-03-01 23:40:00 | vaal      |      6 |       10 | City By The Sea   |    0   | benny,pangea         |
+|  8 | :soon:   | 2022-03-01 22:05:00 | vaal      |      3 |        2 | Pottinger         |    0   | vulture              |
+|  9 | :soon:   | 2022-03-01 22:05:00 | vaal      |      3 |        4 | Jaipur Jewel      |    0   | vulture              |
+| 10 | :soon:   | 2022-03-01 17:00:00 | bendigo   |      8 |        6 | Surecan           |    4.8 | benny,blackshadow    |
+| 11 | :soon:   | 2022-03-01 16:30:00 | bendigo   |      7 |        3 | Mckeever          |    2.1 | pangea,icyhot        |
+| 12 | :soon:   | 2022-03-01 16:20:00 | goulburn  |      6 |        1 | Highly Desired    |    4.5 | pangea,icyhot        |
+| 13 | :soon:   | 2022-03-01 15:40:00 | goulburn  |      5 |        7 | No Statement      |    6   | pikey                |
+| 14 | :soon:   | 2022-03-01 15:00:00 | bendigo   |      4 |       10 | Keepa Raaj        |    9   | overthrow            |
+| 15 | :soon:   | 2022-03-01 14:30:00 | bendigo   |      3 |       12 | Whatafox          |    1.9 | vulture              |
+| 16 | :soon:   | 2022-03-01 13:30:00 | bendigo   |      1 |        9 | Red Rapid         |    4.6 | vulture              |
+| 17 | :soon:   | 2022-03-01 13:15:00 | goulburn  |      1 |        4 | River Snitty      |    3.8 | wallbow              |
