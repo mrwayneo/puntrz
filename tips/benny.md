@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-03-01 07:15:26 +1000  
+date: 2022-03-01 07:45:20 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 23:40             | 2022-03-01 | vaal R6                       | 10 City By The Sea    |  0    |    -10   |
+| 17:00             | 2022-03-01 | bendigo R8                    | 6 Surecan             |  4.8  |    -10   |
 | 8                 | 2022-02-28 | thangool R5                   | 5 Schweid As          |  6    |    -10   |
 | 5                 | 2022-02-28 | thangool R3                   | 6 Airacobra           | 10    |    -10   |
 | :2nd_place_medal: | 2022-02-27 | mudgee R5                     | 2 Shameonus           |  7.5  |    -10   |

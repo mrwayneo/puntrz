@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-03-01 07:15:29 +1000  
+date: 2022-03-01 07:45:23 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 00:30             | 2022-03-02 | catterick R2                  | 1 Mackenberg          |  2.7  |    -10   |
+| 17:00             | 2022-03-01 | bendigo R8                    | 6 Surecan             |  4.8  |    -10   |
 | :boom:            | 2022-02-27 | ballarat R6                   | 7 Rockribbed          |  3.1  |     21   |
 | 0                 | 2022-02-27 | kempton R2                    | 1 Impulsive One       |  0    |    -10   |
 | :2nd_place_medal: | 2022-02-26 | alice-springs R3              | 3 Mathematics         |  1.8  |    -10   |

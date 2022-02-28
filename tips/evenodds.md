@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2022-03-01 07:15:26 +1000  
+date: 2022-03-01 07:45:20 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
+| 03:05             | 2022-03-02 | leicester R5                 | 6 Indirocco           |   5    |    -10   |
+| 00:30             | 2022-03-02 | catterick R2                 | 1 Mackenberg          |   2.7  |    -10   |
 | :boom:            | 2022-03-01 | carlisle R3                  | 3 Masked Crusader     |   1.67 |      6.7 |
 | 0                 | 2022-02-28 | naas R6                      | 2 Bring On The Night  |   0    |    -10   |
 | 0                 | 2022-02-27 | sunshine-coast-poly-track R8 | 2 Absolute Charmer    |   0    |    -10   |
@@ -356,8 +358,8 @@ categories: None
 | :boom:            | 2021-11-05 | chelmsford-city R3           | 2 Manaafith           |   0    |    -10   |
 | :3rd_place_medal: | 2021-11-05 | newbury R4                   | 5 Elle Est Belle      |   0    |    -10   |
 | :boom:            | 2021-11-05 | newbury R3                   | 4 Silver Forever      |   2    |     10   |
-| :3rd_place_medal: | 2021-11-04 | newbury R2                   | 2 Boombawn            |  15    |    -10   |
 | :2nd_place_medal: | 2021-11-04 | newbury R2                   | 1 Broomfield Burg     |   1.55 |    -10   |
+| :3rd_place_medal: | 2021-11-04 | newbury R2                   | 2 Boombawn            |  15    |    -10   |
 | :2nd_place_medal: | 2021-11-04 | belmont R8                   | 5 Memorable Miss      |   5    |    -10   |
 | :2nd_place_medal: | 2021-11-03 | exeter R4                    | 1 Ask A Honey Bee     |   4    |    -10   |
 | 99                | 2021-11-03 | exeter R2                    | 5 Huflower            |   0    |    -10   |
@@ -444,9 +446,9 @@ categories: None
 | :2nd_place_medal: | 2021-10-10 | newmarket R7                 | 2 Bedouin's Story     |   7    |    -10   |
 | :boom:            | 2021-10-10 | chepstow R7                  | 1 Timeforatune        |   1.67 |      6.7 |
 | :2nd_place_medal: | 2021-10-10 | turffontein R8               | 1 About To Storm      |   0    |    -10   |
-| :2nd_place_medal: | 2021-10-10 | newmarket R5                 | 12 Burning Victory    |   9.5  |    -10   |
 | 99                | 2021-10-10 | newmarket R5                 | 7 M C Muldoon         |   0    |    -10   |
 | :boom:            | 2021-10-10 | newmarket R5                 | 15 Buzz               |   9    |     80   |
+| :2nd_place_medal: | 2021-10-10 | newmarket R5                 | 12 Burning Victory    |   9.5  |    -10   |
 | 5                 | 2021-10-10 | chepstow R5                  | 1 Proschema           |   6    |    -10   |
 | :2nd_place_medal: | 2021-10-10 | chepstow R4                  | 2 Fidelio Vallis      |   2.25 |    -10   |
 | :boom:            | 2021-10-10 | newmarket R3                 | 3 Coroebus            |   1.8  |      8   |
@@ -946,10 +948,10 @@ categories: None
 | 99                | 2021-05-01 | cheltenham R4                | 5 Coco Live           |  12    |    -10   |
 | 99                | 2021-05-01 | cheltenham R4                | 2 Garde Ville         |   3.5  |    -10   |
 | :boom:            | 2021-05-01 | punchestown R5               | 4 Gaillard Du Mesnil  |   1.5  |      5   |
-| 99                | 2021-05-01 | cheltenham R2                | 9 Hotel Du Nord       |   5.5  |    -10   |
 | 99                | 2021-05-01 | cheltenham R2                | 1 Benefaktor          |   3    |    -10   |
-| 99                | 2021-05-01 | cheltenham R2                | 11 Ryans Fancy        |  34    |    -10   |
+| 99                | 2021-05-01 | cheltenham R2                | 9 Hotel Du Nord       |   5.5  |    -10   |
 | 99                | 2021-05-01 | cheltenham R2                | 7 Guttural            |  15.2  |    -10   |
+| 99                | 2021-05-01 | cheltenham R2                | 11 Ryans Fancy        |  34    |    -10   |
 | 99                | 2021-05-01 | goodwood R6                  | 4 Freak Out           |   6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-30 | sunshine-coast R5            | 7 Aleysa's Dream      |   6.6  |    -10   |
 | :boom:            | 2021-04-30 | punchestown R8               | 3 Dysart Dynamo       |   2.25 |     12.5 |
