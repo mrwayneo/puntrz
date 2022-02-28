@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-02-28 08:30:19 +1000  
+date: 2022-02-28 19:11:10 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 0                 | 2022-02-28 | thangool R5                   | 5 Schweid As          |  0    |    -10   |
+| 0                 | 2022-02-28 | thangool R3                   | 6 Airacobra           |  0    |    -10   |
 | :2nd_place_medal: | 2022-02-27 | mudgee R5                     | 2 Shameonus           |  7.5  |    -10   |
 | 6                 | 2022-02-26 | ascot R4                      | 3 He's A Lucky Lad    |  8    |    -10   |
 | :boom:            | 2022-02-26 | caulfield R9                  | 1 Defibrillate        |  9.2  |     82   |
@@ -42,8 +44,8 @@ categories: None
 | 13                | 2022-02-16 | belmont R9                    | 4 Gee Force           | 41    |    -10   |
 | 5                 | 2022-02-16 | kensington R4                 | 2 Narvaez             |  4.2  |    -10   |
 | :2nd_place_medal: | 2022-02-15 | mackay R3                     | 3 Nailed It Nan       |  1.57 |    -10   |
-| 11                | 2022-02-12 | caulfield R8                  | 12 Lightsaber         | 12    |    -10   |
 | 8                 | 2022-02-12 | caulfield R8                  | 7 Sinawann            |  4.4  |    -10   |
+| 11                | 2022-02-12 | caulfield R8                  | 12 Lightsaber         | 12    |    -10   |
 | 4                 | 2022-02-12 | doomben R5                    | 10 Confessed          |  4.5  |    -10   |
 | :boom:            | 2022-02-12 | randwick R6                   | 1 Lost And Running    |  2    |     10   |
 | :boom:            | 2022-02-12 | alice-springs R1              | 2 Supreme Times       |  1.6  |      6   |
@@ -174,8 +176,8 @@ categories: None
 | 8                 | 2021-12-01 | launceston R7                 | 2 Judge Burns         |  8    |    -10   |
 | :boom:            | 2021-12-01 | launceston R6                 | 4 Weldborough         |  7.7  |     67   |
 | :boom:            | 2021-11-27 | alice-springs R2              | 4 Valenciano          |  6.5  |     55   |
-| :2nd_place_medal: | 2021-11-27 | caulfield R7                  | 6 Dr Drill            | 19    |    -10   |
 | :3rd_place_medal: | 2021-11-27 | caulfield R7                  | 4 Wentwood            | 26    |    -10   |
+| :2nd_place_medal: | 2021-11-27 | caulfield R7                  | 6 Dr Drill            | 19    |    -10   |
 | :boom:            | 2021-11-27 | ascot R1                      | 1 The Front Bar       |  2.2  |     12   |
 | 99                | 2021-11-25 | kempton R6                    | 10 Lady Rockstar      |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-23 | cairns R4                     | 1 Verbalizer          |  2.3  |    -10   |
@@ -768,8 +770,8 @@ categories: None
 | :3rd_place_medal: | 2020-11-07 | ascot R6                      | 1 Rebel Knight        |  8.5  |    -10   |
 | 6                 | 2020-11-07 | alice-springs R5              | 1 Broncks             |  4    |    -10   |
 | :3rd_place_medal: | 2020-11-07 | doomben R8                    | 12 Grey Missile       |  4.6  |    -10   |
-| :3rd_place_medal: | 2020-11-07 | flemington R8                 | 8 Melody Belle        |  5    |    -10   |
 | :boom:            | 2020-11-07 | flemington R8                 | 9 Arcadia Queen       |  2.8  |     18   |
+| :3rd_place_medal: | 2020-11-07 | flemington R8                 | 8 Melody Belle        |  5    |    -10   |
 | 12                | 2020-11-07 | doomben R7                    | 6 Galtero             | 35    |    -10   |
 | :3rd_place_medal: | 2020-11-07 | alice-springs R2              | 4 Truckload of Hoffa  |  4.2  |    -10   |
 | 4                 | 2020-11-07 | doomben R5                    | 3 Stubai              |  8.6  |    -10   |
