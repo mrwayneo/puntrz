@@ -1,16 +1,16 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-02-28 22:18:37 +1000  
+date: 2022-03-01 06:15:21 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
 | Last 28 Days   |     12 |      0 |   -120   | 0    | -1    |
-| Last 6 Months  |    127 |     24 |   1595.5 | 0.19 |  1.26 |
+| Last 6 Months  |    101 |     15 |    440   | 0.15 |  0.44 |
 | Since Jan 2020 |    250 |     41 |   3535.5 | 0.16 |  1.41 |
 
 | finish            | date       | event                         | runner                |    win |   return |
