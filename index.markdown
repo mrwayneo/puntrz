@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-02-28 19:16:54 +1000  
+date: 2022-02-28 19:45:31 +1000  
 ---   
 
 
@@ -9,15 +9,15 @@ date: 2022-02-28 19:16:54 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      2 |      0 |      -20 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      0 |      -20 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      5 |      0 |      -50 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      5 |      0 |      -50 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     22 |      0 |     -220 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     23 |      0 |     -230 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      1 |        2 | 0.5  |  0.1  |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      2 |      0 |      -20 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      5 |      0 |      -50 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      5 |      0 |      -50 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     23 |      3 |     -174 | 0.13 | -0.76 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     22 |      0 |     -220 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -71,17 +71,17 @@ date: 2022-02-28 19:16:54 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6178 |    832 | -12521.6 | 0.13 | -0.2  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7924 |    370 | -24699   | 0.05 | -0.31 |
 
-|    | finish   | time                | track          |   race |   number | name             |   odds | tipster            |
-|---:|:---------|:--------------------|:---------------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-03-01 06:00:00 | wolverhampton  |      5 |        1 | Base Note        |   1.9  | vulture            |
-|  1 | :soon:   | 2022-03-01 05:30:00 | wolverhampton  |      4 |        6 | Witch Hunter     |   1.35 | vulture            |
-|  2 | :soon:   | 2022-03-01 03:30:00 | carlisle       |      7 |        1 | Downtown Getaway |   5.5  | pangea             |
-|  3 | :soon:   | 2022-03-01 01:45:00 | carlisle       |      4 |        2 | Armattiekan      |   3.3  | overthrow          |
-|  4 | :soon:   | 2022-03-01 01:10:00 | carlisle       |      3 |        3 | Masked Crusader  |   1.65 | evenodds,overthrow |
-|  5 | :soon:   | 2022-03-01 01:00:00 | greyville      |      7 |        5 | Airways Law      |   0    | milkman            |
-|  6 | :soon:   | 2022-02-28 23:15:00 | greyville      |      4 |        8 | Caesura          |   0    | vulture            |
-|  7 | 103.0    | 2022-02-28 17:30:00 | port-macquarie |      8 |       11 | Jet Pack         |   8    | looseknot          |
-|  8 | :soon:   | 2022-02-28 17:10:00 | thangool       |      5 |        5 | Schweid As       |   6    | benny,pangea       |
-|  9 | :soon:   | 2022-02-28 16:35:00 | thangool       |      4 |        2 | Kareno           |   4.5  | pangea             |
-| 10 | :soon:   | 2022-02-28 16:35:00 | thangool       |      4 |        1 | Homecall         |   1.95 | pangea             |
-| 11 | :soon:   | 2022-02-28 16:30:00 | hamilton       |      7 |        5 | Bubbly Lass      |   3.7  | vulture            |
+|    | finish            | time                | track          |   race |   number | name             |   odds | tipster            |
+|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-----------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-03-01 06:00:00 | wolverhampton  |      5 |        1 | Base Note        |   1.9  | vulture            |
+|  1 | :soon:            | 2022-03-01 05:30:00 | wolverhampton  |      4 |        6 | Witch Hunter     |   1.35 | vulture            |
+|  2 | :soon:            | 2022-03-01 03:30:00 | carlisle       |      7 |        1 | Downtown Getaway |   5.5  | pangea             |
+|  3 | :soon:            | 2022-03-01 01:45:00 | carlisle       |      4 |        2 | Armattiekan      |   3.3  | overthrow          |
+|  4 | :soon:            | 2022-03-01 01:10:00 | carlisle       |      3 |        3 | Masked Crusader  |   1.65 | evenodds,overthrow |
+|  5 | :soon:            | 2022-03-01 01:00:00 | greyville      |      7 |        5 | Airways Law      |   0    | milkman            |
+|  6 | :soon:            | 2022-02-28 23:15:00 | greyville      |      4 |        8 | Caesura          |   0    | vulture            |
+|  7 | 103.0             | 2022-02-28 17:30:00 | port-macquarie |      8 |       11 | Jet Pack         |   8    | looseknot          |
+|  8 | 8.0               | 2022-02-28 17:10:00 | thangool       |      5 |        5 | Schweid As       |   6    | benny,pangea       |
+|  9 | :2nd_place_medal: | 2022-02-28 16:35:00 | thangool       |      4 |        2 | Kareno           |   4.5  | pangea             |
+| 10 | :3rd_place_medal: | 2022-02-28 16:35:00 | thangool       |      4 |        1 | Homecall         |   1.95 | pangea             |
+| 11 | :3rd_place_medal: | 2022-02-28 16:30:00 | hamilton       |      7 |        5 | Bubbly Lass      |   3.7  | vulture            |
