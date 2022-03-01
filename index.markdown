@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-01 15:56:17 +1000  
+date: 2022-03-01 16:11:33 +1000  
 ---   
 
 
@@ -91,7 +91,7 @@ date: 2022-03-01 15:56:17 +1000
 | 10 | :soon:            | 2022-03-01 17:00:00 | bendigo   |      8 |        6 | Surecan           |    4.8 | benny,blackshadow    |
 | 11 | :soon:            | 2022-03-01 16:30:00 | bendigo   |      7 |        3 | Mckeever          |    2.1 | pangea,icyhot        |
 | 12 | :soon:            | 2022-03-01 16:20:00 | goulburn  |      6 |        1 | Highly Desired    |    4.5 | pangea,icyhot        |
-| 13 | --                | 2022-03-01 15:40:00 | goulburn  |      5 |        7 | No Statement      |    6   | pikey                |
+| 13 | 6.0               | 2022-03-01 15:40:00 | goulburn  |      5 |        7 | No Statement      |    6   | pikey                |
 | 14 | :boom:            | 2022-03-01 15:00:00 | bendigo   |      4 |       10 | Keepa Raaj        |    9   | overthrow            |
 | 15 | :2nd_place_medal: | 2022-03-01 14:30:00 | bendigo   |      3 |       12 | Whatafox          |    1.9 | vulture              |
 | 16 | :3rd_place_medal: | 2022-03-01 13:30:00 | bendigo   |      1 |        9 | Red Rapid         |    4.6 | vulture              |
