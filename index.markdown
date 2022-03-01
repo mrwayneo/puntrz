@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-01 14:26:10 +1000  
+date: 2022-03-01 14:41:13 +1000  
 ---   
 
 
@@ -93,6 +93,6 @@ date: 2022-03-01 14:26:10 +1000
 | 12 | :soon:            | 2022-03-01 16:20:00 | goulburn  |      6 |        1 | Highly Desired    |    4.5 | pangea,icyhot        |
 | 13 | :soon:            | 2022-03-01 15:40:00 | goulburn  |      5 |        7 | No Statement      |    6   | pikey                |
 | 14 | :soon:            | 2022-03-01 15:00:00 | bendigo   |      4 |       10 | Keepa Raaj        |    9   | overthrow            |
-| 15 | :soon:            | 2022-03-01 14:30:00 | bendigo   |      3 |       12 | Whatafox          |    1.9 | vulture              |
+| 15 | :2nd_place_medal: | 2022-03-01 14:30:00 | bendigo   |      3 |       12 | Whatafox          |    1.9 | vulture              |
 | 16 | :3rd_place_medal: | 2022-03-01 13:30:00 | bendigo   |      1 |        9 | Red Rapid         |    4.6 | vulture              |
 | 17 | :boom:            | 2022-03-01 13:15:00 | goulburn  |      1 |        4 | River Snitty      |    3.8 | wallbow              |
