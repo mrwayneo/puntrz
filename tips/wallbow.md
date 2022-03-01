@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-03-01 11:52:59 +1000  
+date: 2022-03-01 13:25:48 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                | runner             |   win |   return |
 |:------------------|:-----------|:---------------------|:-------------------|------:|---------:|
 | 13:50             | 2022-03-01 | goulburn R2          | 1 Rangitikei       |  2.05 |      -10 |
-| 13:15             | 2022-03-01 | goulburn R1          | 4 River Snitty     |  3.8  |      -10 |
+| :boom:            | 2022-03-01 | goulburn R1          | 4 River Snitty     |  3.2  |       22 |
 | 4                 | 2022-02-25 | canterbury R5        | 8 Overlord         |  4.6  |      -10 |
 | :2nd_place_medal: | 2022-02-25 | canterbury R2        | 10 Vivid Flash     |  6.5  |      -10 |
 | :boom:            | 2022-02-24 | newcastle R6         | 3 Endorsement      |  2.5  |       15 |
