@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-03-01 22:51:37 +1000  
+date: 2022-03-02 06:58:37 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     10 |      1 |     -8   | 0.1  | -0.08 |
-| Last 28 Days   |     55 |      6 |   -283   | 0.11 | -0.51 |
-| Last 6 Months  |    340 |     56 |  -1475.5 | 0.16 | -0.43 |
-| Since Jan 2020 |    886 |    185 |  -1040.5 | 0.21 | -0.12 |
+| Last 7 Days    |     11 |      1 |    -18   | 0.09 | -0.16 |
+| Last 28 Days   |     56 |      6 |   -293   | 0.11 | -0.52 |
+| Last 6 Months  |    342 |     56 |  -1495.5 | 0.16 | -0.44 |
+| Since Jan 2020 |    888 |    185 |  -1060.5 | 0.21 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 23:40             | 2022-03-01 | vaal R6                       | 10 City By The Sea    |  0    |    -10   |
+| 0                 | 2022-03-01 | vaal R6                       | 10 City By The Sea    |  0    |    -10   |
 | 0                 | 2022-03-01 | bendigo R8                    | 6 Surecan             |  0    |    -10   |
 | 8                 | 2022-02-28 | thangool R5                   | 5 Schweid As          |  6    |    -10   |
 | 5                 | 2022-02-28 | thangool R3                   | 6 Airacobra           | 10    |    -10   |
@@ -178,8 +178,8 @@ categories: None
 | 8                 | 2021-12-01 | launceston R7                 | 2 Judge Burns         |  8    |    -10   |
 | :boom:            | 2021-12-01 | launceston R6                 | 4 Weldborough         |  7.7  |     67   |
 | :boom:            | 2021-11-27 | alice-springs R2              | 4 Valenciano          |  6.5  |     55   |
-| :2nd_place_medal: | 2021-11-27 | caulfield R7                  | 6 Dr Drill            | 19    |    -10   |
 | :3rd_place_medal: | 2021-11-27 | caulfield R7                  | 4 Wentwood            | 26    |    -10   |
+| :2nd_place_medal: | 2021-11-27 | caulfield R7                  | 6 Dr Drill            | 19    |    -10   |
 | :boom:            | 2021-11-27 | ascot R1                      | 1 The Front Bar       |  2.2  |     12   |
 | 99                | 2021-11-25 | kempton R6                    | 10 Lady Rockstar      |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-23 | cairns R4                     | 1 Verbalizer          |  2.3  |    -10   |
@@ -772,8 +772,8 @@ categories: None
 | :3rd_place_medal: | 2020-11-07 | ascot R6                      | 1 Rebel Knight        |  8.5  |    -10   |
 | 6                 | 2020-11-07 | alice-springs R5              | 1 Broncks             |  4    |    -10   |
 | :3rd_place_medal: | 2020-11-07 | doomben R8                    | 12 Grey Missile       |  4.6  |    -10   |
-| :3rd_place_medal: | 2020-11-07 | flemington R8                 | 8 Melody Belle        |  5    |    -10   |
 | :boom:            | 2020-11-07 | flemington R8                 | 9 Arcadia Queen       |  2.8  |     18   |
+| :3rd_place_medal: | 2020-11-07 | flemington R8                 | 8 Melody Belle        |  5    |    -10   |
 | 12                | 2020-11-07 | doomben R7                    | 6 Galtero             | 35    |    -10   |
 | :3rd_place_medal: | 2020-11-07 | alice-springs R2              | 4 Truckload of Hoffa  |  4.2  |    -10   |
 | 4                 | 2020-11-07 | doomben R5                    | 3 Stubai              |  8.6  |    -10   |

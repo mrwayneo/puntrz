@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-01 22:51:46 +1000  
+date: 2022-03-02 06:58:45 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      6 |      1 |    -35   | 0.17 | -0.58 |
-| Last 28 Days   |     44 |      9 |   -180   | 0.2  | -0.41 |
+| Last 28 Days   |     39 |      8 |   -130   | 0.21 | -0.33 |
 | Last 6 Months  |    259 |     67 |   -301.5 | 0.26 | -0.12 |
 | Since Jan 2020 |    663 |    167 |   -288.5 | 0.25 | -0.04 |
 
