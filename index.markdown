@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-01 16:11:33 +1000  
+date: 2022-03-01 16:29:04 +1000  
 ---   
 
 
@@ -9,6 +9,7 @@ date: 2022-03-01 16:11:33 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      1 |       22 | 0.5  |  1.1  |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      1 |       12 | 0.5  |  0.6  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      1 |      0 |      -10 | 0    | -1    |
@@ -16,10 +17,9 @@ date: 2022-03-01 16:11:33 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      7 |      2 |      -24 | 0.29 | -0.34 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      0 |      -70 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      1 |      -28 | 0.14 | -0.4  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      8 |      0 |      -80 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     14 |      0 |     -140 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      1 |     -484 | 0.02 | -0.95 |
@@ -90,7 +90,7 @@ date: 2022-03-01 16:11:33 +1000
 |  9 | :soon:            | 2022-03-01 22:05:00 | vaal      |      3 |        4 | Jaipur Jewel      |    0   | vulture              |
 | 10 | :soon:            | 2022-03-01 17:00:00 | bendigo   |      8 |        6 | Surecan           |    4.8 | benny,blackshadow    |
 | 11 | :soon:            | 2022-03-01 16:30:00 | bendigo   |      7 |        3 | Mckeever          |    2.1 | pangea,icyhot        |
-| 12 | :soon:            | 2022-03-01 16:20:00 | goulburn  |      6 |        1 | Highly Desired    |    4.5 | pangea,icyhot        |
+| 12 | :boom:            | 2022-03-01 16:20:00 | goulburn  |      6 |        1 | Highly Desired    |    4.5 | pangea,icyhot        |
 | 13 | 6.0               | 2022-03-01 15:40:00 | goulburn  |      5 |        7 | No Statement      |    6   | pikey                |
 | 14 | :boom:            | 2022-03-01 15:00:00 | bendigo   |      4 |       10 | Keepa Raaj        |    9   | overthrow            |
 | 15 | :2nd_place_medal: | 2022-03-01 14:30:00 | bendigo   |      3 |       12 | Whatafox          |    1.9 | vulture              |
