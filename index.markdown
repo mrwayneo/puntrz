@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-01 21:58:40 +1000  
+date: 2022-03-01 22:13:19 +1000  
 ---   
 
 
@@ -86,8 +86,8 @@ date: 2022-03-01 21:58:40 +1000
 |  5 | :soon:            | 2022-03-02 01:40:00 | catterick |      4 |        5 | Kopa Kilana       |    3.8 | milkman              |
 |  6 | :soon:            | 2022-03-02 00:30:00 | catterick |      2 |        1 | Mackenberg        |    2.7 | evenodds,blackshadow |
 |  7 | :soon:            | 2022-03-01 23:40:00 | vaal      |      6 |       10 | City By The Sea   |    0   | benny,pangea         |
-|  8 | :soon:            | 2022-03-01 22:05:00 | vaal      |      3 |        2 | Pottinger         |    0   | vulture              |
-|  9 | :soon:            | 2022-03-01 22:05:00 | vaal      |      3 |        4 | Jaipur Jewel      |    0   | vulture              |
+|  8 | --                | 2022-03-01 22:05:00 | vaal      |      3 |        2 | Pottinger         |    0   | vulture              |
+|  9 | --                | 2022-03-01 22:05:00 | vaal      |      3 |        4 | Jaipur Jewel      |    0   | vulture              |
 | 10 | --                | 2022-03-01 17:00:00 | bendigo   |      8 |        6 | Surecan           |    4.8 | benny,blackshadow    |
 | 11 | :boom:            | 2022-03-01 16:30:00 | bendigo   |      7 |        3 | Mckeever          |    2.1 | pangea,icyhot        |
 | 12 | :boom:            | 2022-03-01 16:20:00 | goulburn  |      6 |        1 | Highly Desired    |    4.5 | pangea,icyhot        |
