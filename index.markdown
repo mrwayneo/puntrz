@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-01 22:27:15 +1000  
+date: 2022-03-01 22:28:31 +1000  
 ---   
 
 
@@ -20,9 +20,9 @@ date: 2022-03-01 22:27:15 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      7 |      2 |      -24 | 0.29 | -0.34 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      8 |      0 |      -80 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      8 |      1 |      -55 | 0.12 | -0.69 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     14 |      0 |     -140 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      2 |     -440 | 0.04 | -0.86 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      2 |     -444 | 0.04 | -0.87 |
 
 ##### Form Last 20 tips   
 
@@ -86,8 +86,8 @@ date: 2022-03-01 22:27:15 +1000
 |  5 | :soon:            | 2022-03-02 01:40:00 | catterick |      4 |        5 | Kopa Kilana       |    3.8 | milkman              |
 |  6 | :soon:            | 2022-03-02 00:30:00 | catterick |      2 |        1 | Mackenberg        |    2.7 | evenodds,blackshadow |
 |  7 | :soon:            | 2022-03-01 23:40:00 | vaal      |      6 |       10 | City By The Sea   |    0   | benny,pangea         |
-|  8 | --                | 2022-03-01 22:05:00 | vaal      |      3 |        2 | Pottinger         |    0   | vulture              |
-|  9 | --                | 2022-03-01 22:05:00 | vaal      |      3 |        4 | Jaipur Jewel      |    0   | vulture              |
+|  8 | :boom:            | 2022-03-01 22:05:00 | vaal      |      3 |        2 | Pottinger         |    0   | vulture              |
+|  9 | :3rd_place_medal: | 2022-03-01 22:05:00 | vaal      |      3 |        4 | Jaipur Jewel      |    0   | vulture              |
 | 10 | --                | 2022-03-01 17:00:00 | bendigo   |      8 |        6 | Surecan           |    4.8 | benny,blackshadow    |
 | 11 | :boom:            | 2022-03-01 16:30:00 | bendigo   |      7 |        3 | Mckeever          |    2.1 | pangea,icyhot        |
 | 12 | :boom:            | 2022-03-01 16:20:00 | goulburn  |      6 |        1 | Highly Desired    |    4.5 | pangea,icyhot        |
