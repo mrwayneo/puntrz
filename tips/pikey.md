@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-03 07:53:31 +1000  
+date: 2022-03-03 08:16:10 +1000  
 categories: None 
 ---   
 
@@ -16,9 +16,14 @@ categories: None
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 0                 | 2022-03-02 | canterbury R8         | 3 Sessions Road       |   0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R8         | 3 Sessions Road       |   0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R7         | 5 Smirnova            |   0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R7         | 5 Smirnova            |   0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R5         | 7 Rockover            |   0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R5         | 7 Rockover            |   0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R3         | 2 Lord Zoulander      |   0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R3         | 2 Lord Zoulander      |   0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R1         | 1 Cannon              |   0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R1         | 1 Cannon              |   0    |    -10   |
 | 6                 | 2022-03-01 | goulburn R5           | 7 No Statement        |   6    |    -10   |
 | 4                 | 2022-02-26 | randwick R9           | 11 Dadoozdart         |   9.5  |    -10   |

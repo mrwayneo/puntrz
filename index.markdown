@@ -1,11 +1,27 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-03 07:53:32 +1000  
+date: 2022-03-03 08:16:11 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      0 |      -50 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      0 |      -60 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 |    0 |    -1 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      6 |      0 |      -60 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     15 |      0 |     -150 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      0 |     -160 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     32 |      0 |     -320 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     36 |      0 |     -360 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,62 +75,55 @@ date: 2022-03-03 07:53:32 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6154 |    821 | -13063.9 | 0.13 | -0.21 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7810 |    362 | -23968.5 | 0.05 | -0.31 |
 
-|    | finish            | time                | track                     |   race |   number | name               |   odds | tipster             |
-|---:|:------------------|:--------------------|:--------------------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | :boom:            | 2022-03-03 06:00:00 | kempton                   |      5 |        1 | Blue Trail         |   2.8  | vulture             |
-|  1 | --                | 2022-03-03 06:00:00 | kempton                   |      5 |        7 | Wyvern             |  19    | vulture             |
-|  2 | --                | 2022-03-03 05:30:00 | kempton                   |      4 |        4 | Hello Sydney       |   3.8  | looseknot           |
-|  3 | 4.0               | 2022-03-03 04:30:00 | kempton                   |      2 |        2 | Tyrrhenian Sea     |   1.6  | vulture,milkman     |
-|  4 | :boom:            | 2022-03-03 04:20:00 | wincanton                 |      7 |        2 | Wagner             |   6    | evenodds,overthrow  |
-|  5 | --                | 2022-03-03 04:20:00 | wincanton                 |      7 |        9 | Sixteen Letters    |  17    | looseknot           |
-|  6 | :2nd_place_medal: | 2022-03-03 04:20:00 | wincanton                 |      7 |        8 | Maitree Express    |   3.25 | vulture             |
-|  7 | --                | 2022-03-03 04:20:00 | wincanton                 |      7 |        3 | Dawn Sunrise       |  51    | evenodds,overthrow  |
-|  8 | :boom:            | 2022-03-03 03:50:00 | wincanton                 |      6 |       10 | Sabrina            |   4.8  | overthrow           |
-|  9 | --                | 2022-03-03 03:50:00 | wincanton                 |      6 |        9 | The Changing Man   |   8    | looseknot           |
-| 10 | :boom:            | 2022-03-03 03:35:00 | musselburgh               |      6 |        2 | Rio Des Echanault  |   1.9  | overthrow           |
-| 11 | --                | 2022-03-03 02:05:00 | wincanton                 |      3 |        1 | Boombawn           |   1.9  | overthrow           |
-| 12 | :boom:            | 2022-03-03 01:50:00 | happy-valley              |      9 |       12 | Lucky Sweynesse    |   0    | milkman             |
-| 13 | :3rd_place_medal: | 2022-03-03 01:45:00 | lingfield                 |      5 |        1 | Chasing Love       |   5    | looseknot           |
-| 14 | :boom:            | 2022-03-03 01:40:00 | greyville                 |      8 |       10 | Camora             |   0    | vulture             |
-| 15 | :3rd_place_medal: | 2022-03-03 01:30:00 | wincanton                 |      2 |        1 | Ubetya             |   4.5  | evenodds,overthrow  |
-| 16 | --                | 2022-03-03 00:55:00 | wincanton                 |      1 |        3 | Kayf Taoi          |   2.9  | overthrow           |
-| 17 | :boom:            | 2022-03-02 22:05:00 | greyville                 |      2 |        3 | Victory Twist      |   0    | vulture             |
-| 18 | :3rd_place_medal: | 2022-03-02 21:30:00 | launceston                |      8 |        4 | True Scotsman      |   3.4  | vulture             |
-| 19 | :boom:            | 2022-03-02 21:00:00 | launceston                |      7 |        3 | Clifton Danseur    |   2.45 | overthrow           |
-| 20 | :3rd_place_medal: | 2022-03-02 19:45:00 | ascot                     |      7 |        9 | Blonde Warrior     |   4.2  | vulture             |
-| 21 | :boom:            | 2022-03-02 19:10:00 | ascot                     |      6 |        3 | Alaskan God        |   1.67 | vulture,milkman     |
-| 22 | :2nd_place_medal: | 2022-03-02 19:00:00 | sandown-hillside          |      8 |       12 | Always On My Mind  |   4    | milkman             |
-| 23 | 6.0               | 2022-03-02 19:00:00 | sandown-hillside          |      8 |        8 | Princeton Award    |  10    | vulture             |
-| 24 | 5.0               | 2022-03-02 19:00:00 | sandown-hillside          |      8 |        3 | Healing Game       |   5    | evenodds,overthrow  |
-| 25 | 6.0               | 2022-03-02 18:50:00 | launceston                |      3 |        9 | Eighty Eight Days  |   4.33 | pangea,overthrow    |
-| 26 | 7.0               | 2022-03-02 18:42:00 | sunshine-coast-poly-track |      9 |       11 | Jabali Gold        |  12    | icyhot              |
-| 27 | 6.0               | 2022-03-02 18:42:00 | sunshine-coast-poly-track |      9 |        4 | Purroni            |   5    | overthrow           |
-| 28 | :2nd_place_medal: | 2022-03-02 18:30:00 | sandown-hillside          |      7 |        7 | Yukon              |   1.67 | pangea              |
-| 29 | 4.0               | 2022-03-02 18:10:00 | sunshine-coast-poly-track |      8 |        2 | Merimee            |   1.4  | vulture             |
-| 30 | :boom:            | 2022-03-02 17:55:00 | ascot                     |      4 |        3 | Samsurian          |   3.9  | pangea,blackshadow  |
-| 31 | --                | 2022-03-02 17:50:00 | canterbury                |      8 |        3 | Sessions Road      |   8    | pikey               |
-| 32 | --                | 2022-03-02 17:50:00 | canterbury                |      8 |       12 | Gracilistyla       |   7    | vulture             |
-| 33 | --                | 2022-03-02 17:50:00 | canterbury                |      8 |       13 | Roots              |   1.85 | vulture,jmac        |
-| 34 | :2nd_place_medal: | 2022-03-02 17:19:00 | ascot                     |      3 |        6 | Romancing The Rock |   5.5  | overthrow           |
-| 35 | --                | 2022-03-02 17:15:00 | canterbury                |      7 |        4 | Fleet Air Arm      |   0    | vulture,milkman     |
-| 36 | --                | 2022-03-02 17:15:00 | canterbury                |      7 |        1 | Jerle              |   9.5  | vulture,jmac        |
-| 37 | --                | 2022-03-02 17:15:00 | canterbury                |      7 |        5 | Smirnova           |   2.88 | milkman,pikey       |
-| 38 | :3rd_place_medal: | 2022-03-02 16:58:00 | sunshine-coast-poly-track |      6 |        3 | Roman Republic     |   2.8  | overthrow           |
-| 39 | 8.0               | 2022-03-02 16:50:00 | sandown-hillside          |      4 |        4 | Crystal Chief      |   4.33 | vulture             |
-| 40 | 6.0               | 2022-03-02 16:50:00 | sandown-hillside          |      4 |        8 | Vidiano            |   5.5  | pangea,blackshadow  |
-| 41 | :2nd_place_medal: | 2022-03-02 16:44:00 | ascot                     |      2 |        5 | Harmika            |   1.83 | vulture,blackshadow |
-| 42 | 5.0               | 2022-03-02 16:44:00 | ascot                     |      2 |        3 | Prince Ragnar      |   4.2  | overthrow           |
-| 43 | :2nd_place_medal: | 2022-03-02 16:15:00 | sandown-hillside          |      3 |       10 | Commands The Field |   3.4  | vulture             |
-| 44 | :boom:            | 2022-03-02 16:08:00 | hastings                  |      7 |        1 | Self Obsession     |   1.9  | vulture,milkman     |
-| 45 | --                | 2022-03-02 16:05:00 | canterbury                |      5 |        6 | Amfissa            |   7.5  | jmac                |
-| 46 | --                | 2022-03-02 16:05:00 | canterbury                |      5 |        7 | Rockover           |  18    | pikey               |
-| 47 | --                | 2022-03-02 15:30:00 | canterbury                |      4 |        6 | Publicist          |   3.5  | vulture             |
-| 48 | --                | 2022-03-02 15:30:00 | canterbury                |      4 |        2 | Finepoint          |   5.5  | jmac                |
-| 49 | --                | 2022-03-02 15:30:00 | canterbury                |      4 |        9 | Arbitration        |   3.8  | vulture             |
-| 50 | :2nd_place_medal: | 2022-03-02 15:13:00 | sunshine-coast-poly-track |      3 |        2 | Hi Hi Hi           |   2.4  | vulture             |
-| 51 | --                | 2022-03-02 14:55:00 | canterbury                |      3 |        7 | Devil's Throat     |   2.45 | jmac                |
-| 52 | --                | 2022-03-02 14:55:00 | canterbury                |      3 |        2 | Lord Zoulander     |   7.5  | pikey               |
-| 53 | :boom:            | 2022-03-02 14:27:00 | hastings                  |      4 |       10 | London Point       |   4.5  | vulture             |
-| 54 | --                | 2022-03-02 13:45:00 | canterbury                |      1 |        4 | Himalaism          |   3.9  | jmac                |
-| 55 | --                | 2022-03-02 13:45:00 | canterbury                |      1 |        1 | Cannon             |   4.5  | pikey               |
-| 56 | --                | 2022-02-26 21:23:00 | toowoomba                 |      6 |        2 | Even Now           |   1.2  | vulture             |
+|    | finish   | time                | track              |   race |   number | name               |   odds | tipster             |
+|---:|:---------|:--------------------|:-------------------|-------:|---------:|:-------------------|-------:|:--------------------|
+|  0 | :soon:   | 2022-03-04 04:08:00 | taunton            |      7 |        5 | Urban Soldier      |   6.5  | overthrow           |
+|  1 | :soon:   | 2022-03-04 04:08:00 | taunton            |      7 |        3 | Jet Marshall       |   8    | vulture             |
+|  2 | :soon:   | 2022-03-04 04:08:00 | taunton            |      7 |        1 | Dollar Bae         |   2.9  | milkman             |
+|  3 | :soon:   | 2022-03-04 03:46:00 | newcastle          |      6 |        1 | Ulshaw Bridge      |   8    | pangea              |
+|  4 | :soon:   | 2022-03-04 03:38:00 | taunton            |      6 |        2 | Get The Appeal     |   6.5  | overthrow           |
+|  5 | :soon:   | 2022-03-04 03:16:00 | newcastle          |      5 |        3 | Canny Fettle       |   6.5  | looseknot           |
+|  6 | :soon:   | 2022-03-04 03:08:00 | taunton            |      5 |        6 | Rideau Canal       |   5    | looseknot           |
+|  7 | :soon:   | 2022-03-04 03:00:00 | ludlow             |      7 |        5 | Give Me A Copper   |   3.4  | overthrow           |
+|  8 | :soon:   | 2022-03-04 02:46:00 | newcastle          |      4 |        2 | Imperium           |   3.5  | vulture             |
+|  9 | :soon:   | 2022-03-04 02:30:00 | ludlow             |      6 |        2 | Balkeo             |   3.8  | overthrow           |
+| 10 | :soon:   | 2022-03-04 02:08:00 | taunton            |      3 |        7 | South Mountain     |   7    | looseknot           |
+| 11 | :soon:   | 2022-03-04 02:08:00 | taunton            |      3 |        8 | Individualiste     |   2.8  | overthrow           |
+| 12 | :soon:   | 2022-03-04 02:00:00 | ludlow             |      5 |        4 | No Getaway         |   4    | overthrow           |
+| 13 | :soon:   | 2022-03-04 01:38:00 | taunton            |      2 |        1 | Don Alvaro         |   4.2  | overthrow           |
+| 14 | :soon:   | 2022-03-04 01:30:00 | ludlow             |      4 |        8 | Go Chique          |   8.5  | overthrow           |
+| 15 | :soon:   | 2022-03-04 01:20:00 | clonmel            |      1 |        2 | Fort Worth Texas   |   9    | pangea              |
+| 16 | :soon:   | 2022-03-04 01:08:00 | taunton            |      1 |        3 | Novus Aditus       |   5    | looseknot           |
+| 17 | :soon:   | 2022-03-04 01:00:00 | ludlow             |      3 |        3 | Barbados Blue      |   6.5  | overthrow           |
+| 18 | :soon:   | 2022-03-04 00:30:00 | ludlow             |      2 |        2 | Knickerbockerglory |   2.4  | overthrow           |
+| 19 | :soon:   | 2022-03-04 00:30:00 | ludlow             |      2 |        1 | Hidor De Bersy     |   2.7  | milkman             |
+| 20 | :soon:   | 2022-03-04 00:30:00 | ludlow             |      2 |        7 | Zucayan            |   7    | looseknot           |
+| 21 | :soon:   | 2022-03-03 23:40:00 | turffontein        |      6 |        5 | About To Storm     |   0    | vulture             |
+| 22 | :soon:   | 2022-03-03 23:40:00 | turffontein        |      6 |        8 | Secret Is Ours     |   0    | vulture             |
+| 23 | :soon:   | 2022-03-03 21:55:00 | turffontein        |      3 |        6 | Lilliana           |   0    | benny,pangea        |
+| 24 | :soon:   | 2022-03-03 20:00:00 | pinjarra-scarpside |      6 |        3 | Garage Days        |   5    | vulture,blackshadow |
+| 25 | :soon:   | 2022-03-03 19:30:00 | pinjarra-scarpside |      5 |        5 | Strike Now         |   2.6  | vulture             |
+| 26 | :soon:   | 2022-03-03 19:30:00 | pinjarra-scarpside |      5 |        2 | Disengo            |   4    | overthrow           |
+| 27 | :soon:   | 2022-03-03 19:15:00 | racing.com-park    |      4 |        2 | Gleaming Legend    |   3.5  | looseknot           |
+| 28 | :soon:   | 2022-03-03 19:00:00 | pinjarra-scarpside |      4 |        1 | Market Stryke      |   4.6  | vulture             |
+| 29 | :soon:   | 2022-03-03 19:00:00 | pinjarra-scarpside |      4 |        9 | Almighty Miss      |  61    | overthrow           |
+| 30 | :soon:   | 2022-03-03 18:45:00 | racing.com-park    |      3 |        7 | Mangani            |   3    | vulture             |
+| 31 | :soon:   | 2022-03-03 17:22:00 | pinjarra-scarpside |      1 |        5 | Broadway Brenda    |   1.95 | vulture             |
+| 32 | :soon:   | 2022-03-03 17:22:00 | pinjarra-scarpside |      1 |        8 | French Quarter     |  16    | overthrow           |
+| 33 | :soon:   | 2022-03-03 17:00:00 | kyneton            |      8 |        1 | Port Royal         |   2.9  | vulture             |
+| 34 | :soon:   | 2022-03-03 15:30:00 | kyneton            |      5 |        7 | Hawkestone         |  11    | evenodds,overthrow  |
+| 35 | :soon:   | 2022-03-02 17:50:00 | canterbury         |      8 |        3 | Sessions Road      |   8    | pikey               |
+| 36 | :soon:   | 2022-03-02 17:50:00 | canterbury         |      8 |       12 | Gracilistyla       |   7    | vulture             |
+| 37 | :soon:   | 2022-03-02 17:50:00 | canterbury         |      8 |       13 | Roots              |   1.85 | vulture,jmac        |
+| 38 | :soon:   | 2022-03-02 17:15:00 | canterbury         |      7 |        5 | Smirnova           |   2.88 | milkman,pikey       |
+| 39 | :soon:   | 2022-03-02 17:15:00 | canterbury         |      7 |        1 | Jerle              |   9.5  | vulture,jmac        |
+| 40 | :soon:   | 2022-03-02 17:15:00 | canterbury         |      7 |        4 | Fleet Air Arm      |   0    | vulture,milkman     |
+| 41 | :soon:   | 2022-03-02 16:05:00 | canterbury         |      5 |        7 | Rockover           |  18    | pikey               |
+| 42 | :soon:   | 2022-03-02 16:05:00 | canterbury         |      5 |        6 | Amfissa            |   7.5  | jmac                |
+| 43 | :soon:   | 2022-03-02 15:30:00 | canterbury         |      4 |        2 | Finepoint          |   5.5  | jmac                |
+| 44 | :soon:   | 2022-03-02 15:30:00 | canterbury         |      4 |        6 | Publicist          |   3.5  | vulture             |
+| 45 | :soon:   | 2022-03-02 15:30:00 | canterbury         |      4 |        9 | Arbitration        |   3.8  | vulture             |
+| 46 | :soon:   | 2022-03-02 14:55:00 | canterbury         |      3 |        7 | Devil's Throat     |   2.45 | jmac                |
+| 47 | :soon:   | 2022-03-02 14:55:00 | canterbury         |      3 |        2 | Lord Zoulander     |   7.5  | pikey               |
+| 48 | :soon:   | 2022-03-02 13:45:00 | canterbury         |      1 |        4 | Himalaism          |   3.9  | jmac                |
+| 49 | :soon:   | 2022-03-02 13:45:00 | canterbury         |      1 |        1 | Cannon             |   4.5  | pikey               |

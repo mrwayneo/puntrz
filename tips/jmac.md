@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-03 07:53:31 +1000  
+date: 2022-03-03 08:16:10 +1000  
 categories: None 
 ---   
 
@@ -16,10 +16,16 @@ categories: None
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 0                 | 2022-03-02 | canterbury R8        | 13 Roots             |  0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R8        | 13 Roots             |  0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R7        | 1 Jerle              |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R7        | 1 Jerle              |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R5        | 6 Amfissa            |  0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R5        | 6 Amfissa            |  0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R4        | 2 Finepoint          |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R4        | 2 Finepoint          |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R3        | 7 Devil's Throat     |  0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R3        | 7 Devil's Throat     |  0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R1        | 4 Himalaism          |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R1        | 4 Himalaism          |  0    |    -10   |
 | 7                 | 2022-02-26 | randwick R9          | 3 Chalk Stream       | 10    |    -10   |
 | :boom:            | 2022-02-26 | randwick R7          | 8 Verry Elleegant    |  2.5  |     15   |
