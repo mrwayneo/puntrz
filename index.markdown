@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-02 16:01:57 +1000  
+date: 2022-03-02 16:26:56 +1000  
 ---   
 
 
@@ -16,10 +16,10 @@ date: 2022-03-02 16:01:57 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      0 |      -50 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      0 |      -60 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      6 |      0 |      -60 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |      -80 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      1 |      -62 | 0.12 | -0.78 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     16 |      0 |     -160 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      1 |     -220 | 0.04 | -0.85 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      2 |     -202 | 0.08 | -0.78 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     35 |      0 |     -350 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      1 |     -414 | 0.02 | -0.94 |
 
@@ -120,10 +120,10 @@ date: 2022-03-02 16:01:57 +1000
 | 40 | :soon:            | 2022-03-02 16:50:00 | sandown-hillside          |      4 |        8 | Vidiano            |   5.5  | pangea,blackshadow  |
 | 41 | :soon:            | 2022-03-02 16:44:00 | ascot                     |      2 |        5 | Harmika            |   1.83 | vulture,blackshadow |
 | 42 | :soon:            | 2022-03-02 16:44:00 | ascot                     |      2 |        3 | Prince Ragnar      |   4.2  | overthrow           |
-| 43 | :soon:            | 2022-03-02 16:15:00 | sandown-hillside          |      3 |       10 | Commands The Field |   3.4  | vulture             |
-| 44 | :soon:            | 2022-03-02 16:08:00 | hastings                  |      7 |        1 | Self Obsession     |   1.9  | vulture,milkman     |
-| 45 | :soon:            | 2022-03-02 16:05:00 | canterbury                |      5 |        6 | Amfissa            |   7.5  | jmac                |
-| 46 | :soon:            | 2022-03-02 16:05:00 | canterbury                |      5 |        7 | Rockover           |  18    | pikey               |
+| 43 | --                | 2022-03-02 16:15:00 | sandown-hillside          |      3 |       10 | Commands The Field |   3.4  | vulture             |
+| 44 | :boom:            | 2022-03-02 16:08:00 | hastings                  |      7 |        1 | Self Obsession     |   1.9  | vulture,milkman     |
+| 45 | --                | 2022-03-02 16:05:00 | canterbury                |      5 |        6 | Amfissa            |   7.5  | jmac                |
+| 46 | --                | 2022-03-02 16:05:00 | canterbury                |      5 |        7 | Rockover           |  18    | pikey               |
 | 47 | --                | 2022-03-02 15:30:00 | canterbury                |      4 |        6 | Publicist          |   3.5  | vulture             |
 | 48 | --                | 2022-03-02 15:30:00 | canterbury                |      4 |        2 | Finepoint          |   5.5  | jmac                |
 | 49 | --                | 2022-03-02 15:30:00 | canterbury                |      4 |        9 | Arbitration        |   3.8  | vulture             |
