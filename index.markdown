@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-03 08:16:11 +1000  
+date: 2022-03-03 08:23:10 +1000  
 ---   
 
 
@@ -112,18 +112,18 @@ date: 2022-03-03 08:16:11 +1000
 | 32 | :soon:   | 2022-03-03 17:22:00 | pinjarra-scarpside |      1 |        8 | French Quarter     |  16    | overthrow           |
 | 33 | :soon:   | 2022-03-03 17:00:00 | kyneton            |      8 |        1 | Port Royal         |   2.9  | vulture             |
 | 34 | :soon:   | 2022-03-03 15:30:00 | kyneton            |      5 |        7 | Hawkestone         |  11    | evenodds,overthrow  |
-| 35 | :soon:   | 2022-03-02 17:50:00 | canterbury         |      8 |        3 | Sessions Road      |   8    | pikey               |
-| 36 | :soon:   | 2022-03-02 17:50:00 | canterbury         |      8 |       12 | Gracilistyla       |   7    | vulture             |
-| 37 | :soon:   | 2022-03-02 17:50:00 | canterbury         |      8 |       13 | Roots              |   1.85 | vulture,jmac        |
-| 38 | :soon:   | 2022-03-02 17:15:00 | canterbury         |      7 |        5 | Smirnova           |   2.88 | milkman,pikey       |
-| 39 | :soon:   | 2022-03-02 17:15:00 | canterbury         |      7 |        1 | Jerle              |   9.5  | vulture,jmac        |
-| 40 | :soon:   | 2022-03-02 17:15:00 | canterbury         |      7 |        4 | Fleet Air Arm      |   0    | vulture,milkman     |
-| 41 | :soon:   | 2022-03-02 16:05:00 | canterbury         |      5 |        7 | Rockover           |  18    | pikey               |
-| 42 | :soon:   | 2022-03-02 16:05:00 | canterbury         |      5 |        6 | Amfissa            |   7.5  | jmac                |
-| 43 | :soon:   | 2022-03-02 15:30:00 | canterbury         |      4 |        2 | Finepoint          |   5.5  | jmac                |
-| 44 | :soon:   | 2022-03-02 15:30:00 | canterbury         |      4 |        6 | Publicist          |   3.5  | vulture             |
-| 45 | :soon:   | 2022-03-02 15:30:00 | canterbury         |      4 |        9 | Arbitration        |   3.8  | vulture             |
-| 46 | :soon:   | 2022-03-02 14:55:00 | canterbury         |      3 |        7 | Devil's Throat     |   2.45 | jmac                |
-| 47 | :soon:   | 2022-03-02 14:55:00 | canterbury         |      3 |        2 | Lord Zoulander     |   7.5  | pikey               |
-| 48 | :soon:   | 2022-03-02 13:45:00 | canterbury         |      1 |        4 | Himalaism          |   3.9  | jmac                |
-| 49 | :soon:   | 2022-03-02 13:45:00 | canterbury         |      1 |        1 | Cannon             |   4.5  | pikey               |
+| 35 | --       | 2022-03-02 17:50:00 | canterbury         |      8 |        3 | Sessions Road      |   8    | pikey               |
+| 36 | --       | 2022-03-02 17:50:00 | canterbury         |      8 |       12 | Gracilistyla       |   7    | vulture             |
+| 37 | --       | 2022-03-02 17:50:00 | canterbury         |      8 |       13 | Roots              |   1.85 | vulture,jmac        |
+| 38 | --       | 2022-03-02 17:15:00 | canterbury         |      7 |        5 | Smirnova           |   2.88 | milkman,pikey       |
+| 39 | --       | 2022-03-02 17:15:00 | canterbury         |      7 |        1 | Jerle              |   9.5  | vulture,jmac        |
+| 40 | --       | 2022-03-02 17:15:00 | canterbury         |      7 |        4 | Fleet Air Arm      |   0    | vulture,milkman     |
+| 41 | --       | 2022-03-02 16:05:00 | canterbury         |      5 |        7 | Rockover           |  18    | pikey               |
+| 42 | --       | 2022-03-02 16:05:00 | canterbury         |      5 |        6 | Amfissa            |   7.5  | jmac                |
+| 43 | --       | 2022-03-02 15:30:00 | canterbury         |      4 |        2 | Finepoint          |   5.5  | jmac                |
+| 44 | --       | 2022-03-02 15:30:00 | canterbury         |      4 |        6 | Publicist          |   3.5  | vulture             |
+| 45 | --       | 2022-03-02 15:30:00 | canterbury         |      4 |        9 | Arbitration        |   3.8  | vulture             |
+| 46 | --       | 2022-03-02 14:55:00 | canterbury         |      3 |        7 | Devil's Throat     |   2.45 | jmac                |
+| 47 | --       | 2022-03-02 14:55:00 | canterbury         |      3 |        2 | Lord Zoulander     |   7.5  | pikey               |
+| 48 | --       | 2022-03-02 13:45:00 | canterbury         |      1 |        4 | Himalaism          |   3.9  | jmac                |
+| 49 | --       | 2022-03-02 13:45:00 | canterbury         |      1 |        1 | Cannon             |   4.5  | pikey               |
