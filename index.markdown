@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-02 16:26:56 +1000  
+date: 2022-03-02 16:51:22 +1000  
 ---   
 
 
@@ -116,10 +116,10 @@ date: 2022-03-02 16:26:56 +1000
 | 36 | :soon:            | 2022-03-02 17:15:00 | canterbury                |      7 |        1 | Jerle              |   9.5  | vulture,jmac        |
 | 37 | :soon:            | 2022-03-02 17:15:00 | canterbury                |      7 |        5 | Smirnova           |   2.88 | milkman,pikey       |
 | 38 | :soon:            | 2022-03-02 16:58:00 | sunshine-coast-poly-track |      6 |        3 | Roman Republic     |   2.8  | overthrow           |
-| 39 | :soon:            | 2022-03-02 16:50:00 | sandown-hillside          |      4 |        4 | Crystal Chief      |   4.33 | vulture             |
-| 40 | :soon:            | 2022-03-02 16:50:00 | sandown-hillside          |      4 |        8 | Vidiano            |   5.5  | pangea,blackshadow  |
-| 41 | :soon:            | 2022-03-02 16:44:00 | ascot                     |      2 |        5 | Harmika            |   1.83 | vulture,blackshadow |
-| 42 | :soon:            | 2022-03-02 16:44:00 | ascot                     |      2 |        3 | Prince Ragnar      |   4.2  | overthrow           |
+| 39 | --                | 2022-03-02 16:50:00 | sandown-hillside          |      4 |        4 | Crystal Chief      |   4.33 | vulture             |
+| 40 | --                | 2022-03-02 16:50:00 | sandown-hillside          |      4 |        8 | Vidiano            |   5.5  | pangea,blackshadow  |
+| 41 | :2nd_place_medal: | 2022-03-02 16:44:00 | ascot                     |      2 |        5 | Harmika            |   1.83 | vulture,blackshadow |
+| 42 | --                | 2022-03-02 16:44:00 | ascot                     |      2 |        3 | Prince Ragnar      |   4.2  | overthrow           |
 | 43 | --                | 2022-03-02 16:15:00 | sandown-hillside          |      3 |       10 | Commands The Field |   3.4  | vulture             |
 | 44 | :boom:            | 2022-03-02 16:08:00 | hastings                  |      7 |        1 | Self Obsession     |   1.9  | vulture,milkman     |
 | 45 | --                | 2022-03-02 16:05:00 | canterbury                |      5 |        6 | Amfissa            |   7.5  | jmac                |
