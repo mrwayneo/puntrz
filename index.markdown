@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-02 13:20:09 +1000  
+date: 2022-03-02 15:01:17 +1000  
 ---   
 
 
@@ -9,19 +9,19 @@ date: 2022-03-02 13:20:09 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 |    0 |    -1 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      0 |      -50 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      0 |      -60 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      6 |      0 |      -60 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |      -80 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     16 |      0 |     -160 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      0 |     -260 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     35 |      0 |     -350 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      0 |     -440 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      0 |      -50 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      0 |      -60 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      6 |      0 |      -60 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |      -80 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     16 |      0 |     -160 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     26 |      1 |     -220 | 0.04 | -0.85 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     35 |      0 |     -350 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      1 |     -414 | 0.02 | -0.94 |
 
 ##### Form Last 20 tips   
 
@@ -128,9 +128,9 @@ date: 2022-03-02 13:20:09 +1000
 | 48 | :soon:   | 2022-03-02 15:30:00 | canterbury                |      4 |        2 | Finepoint          |   5.5  | jmac                |
 | 49 | :soon:   | 2022-03-02 15:30:00 | canterbury                |      4 |        9 | Arbitration        |   3.8  | vulture             |
 | 50 | :soon:   | 2022-03-02 15:13:00 | sunshine-coast-poly-track |      3 |        2 | Hi Hi Hi           |   2.4  | vulture             |
-| 51 | :soon:   | 2022-03-02 14:55:00 | canterbury                |      3 |        7 | Devil's Throat     |   2.45 | jmac                |
-| 52 | :soon:   | 2022-03-02 14:55:00 | canterbury                |      3 |        2 | Lord Zoulander     |   7.5  | pikey               |
-| 53 | :soon:   | 2022-03-02 14:27:00 | hastings                  |      4 |       10 | London Point       |   4.5  | vulture             |
-| 54 | :soon:   | 2022-03-02 13:45:00 | canterbury                |      1 |        4 | Himalaism          |   3.9  | jmac                |
-| 55 | :soon:   | 2022-03-02 13:45:00 | canterbury                |      1 |        1 | Cannon             |   4.5  | pikey               |
+| 51 | --       | 2022-03-02 14:55:00 | canterbury                |      3 |        7 | Devil's Throat     |   2.45 | jmac                |
+| 52 | --       | 2022-03-02 14:55:00 | canterbury                |      3 |        2 | Lord Zoulander     |   7.5  | pikey               |
+| 53 | :boom:   | 2022-03-02 14:27:00 | hastings                  |      4 |       10 | London Point       |   4.5  | vulture             |
+| 54 | --       | 2022-03-02 13:45:00 | canterbury                |      1 |        4 | Himalaism          |   3.9  | jmac                |
+| 55 | --       | 2022-03-02 13:45:00 | canterbury                |      1 |        1 | Cannon             |   4.5  | pikey               |
 | 56 | --       | 2022-02-26 21:23:00 | toowoomba                 |      6 |        2 | Even Now           |   1.2  | vulture             |

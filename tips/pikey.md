@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-02 13:20:08 +1000  
+date: 2022-03-02 15:01:16 +1000  
 categories: None 
 ---   
 
@@ -18,8 +18,8 @@ categories: None
 | 17:50             | 2022-03-02 | canterbury R8         | 3 Sessions Road       |   8    |    -10   |
 | 17:15             | 2022-03-02 | canterbury R7         | 5 Smirnova            |   2.88 |    -10   |
 | 16:05             | 2022-03-02 | canterbury R5         | 7 Rockover            |  18    |    -10   |
-| 14:55             | 2022-03-02 | canterbury R3         | 2 Lord Zoulander      |   7.5  |    -10   |
-| 13:45             | 2022-03-02 | canterbury R1         | 1 Cannon              |   4.5  |    -10   |
+| 0                 | 2022-03-02 | canterbury R3         | 2 Lord Zoulander      |   0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R1         | 1 Cannon              |   0    |    -10   |
 | 6                 | 2022-03-01 | goulburn R5           | 7 No Statement        |   6    |    -10   |
 | 4                 | 2022-02-26 | randwick R9           | 11 Dadoozdart         |   9.5  |    -10   |
 | 9                 | 2022-02-26 | randwick R7           | 4 Mount Popa          |  34    |    -10   |

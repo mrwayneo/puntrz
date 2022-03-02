@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-02 13:20:08 +1000  
+date: 2022-03-02 15:01:15 +1000  
 categories: None 
 ---   
 
@@ -19,8 +19,8 @@ categories: None
 | 17:15             | 2022-03-02 | canterbury R7        | 1 Jerle              |  9.5  |    -10   |
 | 16:05             | 2022-03-02 | canterbury R5        | 6 Amfissa            |  7.5  |    -10   |
 | 15:30             | 2022-03-02 | canterbury R4        | 2 Finepoint          |  5.5  |    -10   |
-| 14:55             | 2022-03-02 | canterbury R3        | 7 Devil's Throat     |  2.45 |    -10   |
-| 13:45             | 2022-03-02 | canterbury R1        | 4 Himalaism          |  3.9  |    -10   |
+| 0                 | 2022-03-02 | canterbury R3        | 7 Devil's Throat     |  0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R1        | 4 Himalaism          |  0    |    -10   |
 | 7                 | 2022-02-26 | randwick R9          | 3 Chalk Stream       | 10    |    -10   |
 | :boom:            | 2022-02-26 | randwick R7          | 8 Verry Elleegant    |  2.5  |     15   |
 | 4                 | 2022-02-26 | randwick R6          | 8 Icebath            |  2.1  |    -10   |
