@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-03-03 09:39:00 +1000  
+date: 2022-03-03 10:24:46 +1000  
 categories: None 
 ---   
 
@@ -147,8 +147,8 @@ categories: None
 | 6                 | 2021-12-18 | randwick R6                   | 4 Arctic Thunder      |  5.5  |    -10   |
 | :2nd_place_medal: | 2021-12-18 | awapuni R6                    | 1 Tavi Mac            |  4.2  |    -10   |
 | 6                 | 2021-12-16 | hawkesbury R5                 | 2 Safado              |  3.7  |    -10   |
-| :2nd_place_medal: | 2021-12-15 | launceston R7                 | 7 And Beyond          |  5    |    -10   |
 | 8                 | 2021-12-15 | launceston R7                 | 3 I'm Wesley          |  4.8  |    -10   |
+| :2nd_place_medal: | 2021-12-15 | launceston R7                 | 7 And Beyond          |  5    |    -10   |
 | :boom:            | 2021-12-13 | rockhampton R7                | 4 Ahooshu             |  1.5  |      5   |
 | 6                 | 2021-12-13 | rockhampton R5                | 2 Bluindi             |  2.05 |    -10   |
 | 5                 | 2021-12-12 | sha-tin R7                    | 3 Indy Champ          |  0    |    -10   |
@@ -773,8 +773,8 @@ categories: None
 | :3rd_place_medal: | 2020-11-07 | ascot R6                      | 1 Rebel Knight        |  8.5  |    -10   |
 | 6                 | 2020-11-07 | alice-springs R5              | 1 Broncks             |  4    |    -10   |
 | :3rd_place_medal: | 2020-11-07 | doomben R8                    | 12 Grey Missile       |  4.6  |    -10   |
-| :boom:            | 2020-11-07 | flemington R8                 | 9 Arcadia Queen       |  2.8  |     18   |
 | :3rd_place_medal: | 2020-11-07 | flemington R8                 | 8 Melody Belle        |  5    |    -10   |
+| :boom:            | 2020-11-07 | flemington R8                 | 9 Arcadia Queen       |  2.8  |     18   |
 | 12                | 2020-11-07 | doomben R7                    | 6 Galtero             | 35    |    -10   |
 | :3rd_place_medal: | 2020-11-07 | alice-springs R2              | 4 Truckload of Hoffa  |  4.2  |    -10   |
 | 4                 | 2020-11-07 | doomben R5                    | 3 Stubai              |  8.6  |    -10   |
