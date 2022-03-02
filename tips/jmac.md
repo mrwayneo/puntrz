@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-02 15:16:16 +1000  
+date: 2022-03-02 15:31:11 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 17:50             | 2022-03-02 | canterbury R8        | 13 Roots             |  1.85 |    -10   |
 | 17:15             | 2022-03-02 | canterbury R7        | 1 Jerle              |  9.5  |    -10   |
 | 16:05             | 2022-03-02 | canterbury R5        | 6 Amfissa            |  7.5  |    -10   |
-| 15:30             | 2022-03-02 | canterbury R4        | 2 Finepoint          |  5.5  |    -10   |
+| 0                 | 2022-03-02 | canterbury R4        | 2 Finepoint          |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R3        | 7 Devil's Throat     |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R1        | 4 Himalaism          |  0    |    -10   |
 | 7                 | 2022-02-26 | randwick R9          | 3 Chalk Stream       | 10    |    -10   |
