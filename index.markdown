@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-02 15:01:17 +1000  
+date: 2022-03-02 15:16:17 +1000  
 ---   
 
 
@@ -127,7 +127,7 @@ date: 2022-03-02 15:01:17 +1000
 | 47 | :soon:   | 2022-03-02 15:30:00 | canterbury                |      4 |        6 | Publicist          |   3.5  | vulture             |
 | 48 | :soon:   | 2022-03-02 15:30:00 | canterbury                |      4 |        2 | Finepoint          |   5.5  | jmac                |
 | 49 | :soon:   | 2022-03-02 15:30:00 | canterbury                |      4 |        9 | Arbitration        |   3.8  | vulture             |
-| 50 | :soon:   | 2022-03-02 15:13:00 | sunshine-coast-poly-track |      3 |        2 | Hi Hi Hi           |   2.4  | vulture             |
+| 50 | --       | 2022-03-02 15:13:00 | sunshine-coast-poly-track |      3 |        2 | Hi Hi Hi           |   2.4  | vulture             |
 | 51 | --       | 2022-03-02 14:55:00 | canterbury                |      3 |        7 | Devil's Throat     |   2.45 | jmac                |
 | 52 | --       | 2022-03-02 14:55:00 | canterbury                |      3 |        2 | Lord Zoulander     |   7.5  | pikey               |
 | 53 | :boom:   | 2022-03-02 14:27:00 | hastings                  |      4 |       10 | London Point       |   4.5  | vulture             |
