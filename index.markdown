@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-03 06:06:39 +1000  
+date: 2022-03-03 06:21:33 +1000  
 ---   
 
 
@@ -17,8 +17,8 @@ date: 2022-03-03 06:06:39 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     15.7 | 0.2  |  0.08 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      5 |    -10.5 | 0.25 | -0.05 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -39.5 | 0.4  | -0.2  |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      5 |    -49.5 | 0.25 | -0.25 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      6 |    -69.9 | 0.3  | -0.35 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -72   | 0.2  | -0.36 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -72.3 | 0.25 | -0.36 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |    -78   | 0.15 | -0.39 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      5 |    -88   | 0.25 | -0.44 |
@@ -55,13 +55,13 @@ date: 2022-03-03 06:06:39 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2374 |    122 |  -3592   | 0.05 | -0.15 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1801 |    352 |  -4190.9 | 0.2  | -0.23 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2160 |    518 |  -4279.7 | 0.24 | -0.2  |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2610 |    616 |  -4485.8 | 0.24 | -0.17 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2610 |    617 |  -4463.3 | 0.24 | -0.17 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6154 |    821 | -13063.9 | 0.13 | -0.21 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7810 |    362 | -23968.5 | 0.05 | -0.31 |
 
 |    | finish            | time                | track                     |   race |   number | name               |   odds | tipster             |
 |---:|:------------------|:--------------------|:--------------------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | --                | 2022-03-03 06:00:00 | kempton                   |      5 |        1 | Blue Trail         |   2.8  | vulture             |
+|  0 | :boom:            | 2022-03-03 06:00:00 | kempton                   |      5 |        1 | Blue Trail         |   2.8  | vulture             |
 |  1 | --                | 2022-03-03 06:00:00 | kempton                   |      5 |        7 | Wyvern             |  19    | vulture             |
 |  2 | --                | 2022-03-03 05:30:00 | kempton                   |      4 |        4 | Hello Sydney       |   3.8  | looseknot           |
 |  3 | 4.0               | 2022-03-03 04:30:00 | kempton                   |      2 |        2 | Tyrrhenian Sea     |   1.6  | vulture,milkman     |
