@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-02 16:51:21 +1000  
+date: 2022-03-02 21:08:43 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 17:50             | 2022-03-02 | canterbury R8        | 13 Roots             |  1.85 |    -10   |
-| 17:15             | 2022-03-02 | canterbury R7        | 1 Jerle              |  9.5  |    -10   |
+| 0                 | 2022-03-02 | canterbury R8        | 13 Roots             |  0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R7        | 1 Jerle              |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R5        | 6 Amfissa            |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R4        | 2 Finepoint          |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R3        | 7 Devil's Throat     |  0    |    -10   |

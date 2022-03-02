@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-02 16:51:21 +1000  
+date: 2022-03-02 21:08:44 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 17:50             | 2022-03-02 | canterbury R8         | 3 Sessions Road       |   8    |    -10   |
-| 17:15             | 2022-03-02 | canterbury R7         | 5 Smirnova            |   2.88 |    -10   |
+| 0                 | 2022-03-02 | canterbury R8         | 3 Sessions Road       |   0    |    -10   |
+| 0                 | 2022-03-02 | canterbury R7         | 5 Smirnova            |   0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R5         | 7 Rockover            |   0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R3         | 2 Lord Zoulander      |   0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R1         | 1 Cannon              |   0    |    -10   |
