@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-03-04 07:21:01 +1000  
+date: 2022-03-04 09:55:58 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                | runner             |   win |   return |
 |:------------------|:-----------|:---------------------|:-------------------|------:|---------:|
+| 17:10             | 2022-03-04 | newcastle R7         | 4 Aramayo          |  6.5  |      -10 |
+| 14:35             | 2022-03-04 | newcastle R3         | 2 Naval Seal       |  7    |      -10 |
 | 4                 | 2022-03-01 | goulburn R2          | 1 Rangitikei       |  2.05 |      -10 |
 | :boom:            | 2022-03-01 | goulburn R1          | 4 River Snitty     |  3.2  |       22 |
 | 4                 | 2022-02-25 | canterbury R5        | 8 Overlord         |  4.6  |      -10 |
