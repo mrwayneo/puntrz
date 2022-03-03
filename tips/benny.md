@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-03-03 21:48:50 +1000  
+date: 2022-03-04 06:06:09 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     11 |      1 |    -18   | 0.09 | -0.16 |
-| Last 28 Days   |     53 |      6 |   -263   | 0.11 | -0.5  |
-| Last 6 Months  |    342 |     56 |  -1495.5 | 0.16 | -0.44 |
-| Since Jan 2020 |    888 |    185 |  -1060.5 | 0.21 | -0.12 |
+| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
+| Last 28 Days   |     51 |      4 |   -327   | 0.08 | -0.64 |
+| Last 6 Months  |    343 |     56 |  -1505.5 | 0.16 | -0.44 |
+| Since Jan 2020 |    889 |    185 |  -1070.5 | 0.21 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 21:55             | 2022-03-03 | turffontein R3                | 6 Lilliana            |  0    |    -10   |
+| 0                 | 2022-03-03 | turffontein R3                | 6 Lilliana            |  0    |    -10   |
 | 0                 | 2022-03-01 | vaal R6                       | 10 City By The Sea    |  0    |    -10   |
 | 0                 | 2022-03-01 | bendigo R8                    | 6 Surecan             |  0    |    -10   |
 | 8                 | 2022-02-28 | thangool R5                   | 5 Schweid As          |  6    |    -10   |
@@ -147,8 +147,8 @@ categories: None
 | 6                 | 2021-12-18 | randwick R6                   | 4 Arctic Thunder      |  5.5  |    -10   |
 | :2nd_place_medal: | 2021-12-18 | awapuni R6                    | 1 Tavi Mac            |  4.2  |    -10   |
 | 6                 | 2021-12-16 | hawkesbury R5                 | 2 Safado              |  3.7  |    -10   |
-| :2nd_place_medal: | 2021-12-15 | launceston R7                 | 7 And Beyond          |  5    |    -10   |
 | 8                 | 2021-12-15 | launceston R7                 | 3 I'm Wesley          |  4.8  |    -10   |
+| :2nd_place_medal: | 2021-12-15 | launceston R7                 | 7 And Beyond          |  5    |    -10   |
 | :boom:            | 2021-12-13 | rockhampton R7                | 4 Ahooshu             |  1.5  |      5   |
 | 6                 | 2021-12-13 | rockhampton R5                | 2 Bluindi             |  2.05 |    -10   |
 | 5                 | 2021-12-12 | sha-tin R7                    | 3 Indy Champ          |  0    |    -10   |
@@ -773,8 +773,8 @@ categories: None
 | :3rd_place_medal: | 2020-11-07 | ascot R6                      | 1 Rebel Knight        |  8.5  |    -10   |
 | 6                 | 2020-11-07 | alice-springs R5              | 1 Broncks             |  4    |    -10   |
 | :3rd_place_medal: | 2020-11-07 | doomben R8                    | 12 Grey Missile       |  4.6  |    -10   |
-| :boom:            | 2020-11-07 | flemington R8                 | 9 Arcadia Queen       |  2.8  |     18   |
 | :3rd_place_medal: | 2020-11-07 | flemington R8                 | 8 Melody Belle        |  5    |    -10   |
+| :boom:            | 2020-11-07 | flemington R8                 | 9 Arcadia Queen       |  2.8  |     18   |
 | 12                | 2020-11-07 | doomben R7                    | 6 Galtero             | 35    |    -10   |
 | :3rd_place_medal: | 2020-11-07 | alice-springs R2              | 4 Truckload of Hoffa  |  4.2  |    -10   |
 | 4                 | 2020-11-07 | doomben R5                    | 3 Stubai              |  8.6  |    -10   |
