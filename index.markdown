@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-03 15:49:41 +1000  
+date: 2022-03-03 16:23:20 +1000  
 ---   
 
 
@@ -111,7 +111,7 @@ date: 2022-03-03 15:49:41 +1000
 | 31 | :soon:   | 2022-03-03 17:22:00 | pinjarra-scarpside |      1 |        5 | Broadway Brenda    |   1.95 | vulture             |
 | 32 | :soon:   | 2022-03-03 17:22:00 | pinjarra-scarpside |      1 |        8 | French Quarter     |  16    | overthrow           |
 | 33 | :soon:   | 2022-03-03 17:00:00 | kyneton            |      8 |        1 | Port Royal         |   2.9  | vulture             |
-| 34 | --       | 2022-03-03 15:30:00 | kyneton            |      5 |        7 | Hawkestone         |  11    | evenodds,overthrow  |
+| 34 | 7.0      | 2022-03-03 15:30:00 | kyneton            |      5 |        7 | Hawkestone         |  11    | evenodds,overthrow  |
 | 35 | --       | 2022-03-02 17:50:00 | canterbury         |      8 |        3 | Sessions Road      |   8    | pikey               |
 | 36 | --       | 2022-03-02 17:50:00 | canterbury         |      8 |       12 | Gracilistyla       |   7    | vulture             |
 | 37 | --       | 2022-03-02 17:50:00 | canterbury         |      8 |       13 | Roots              |   1.85 | vulture,jmac        |
