@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-03-05 06:12:16 +1000  
+date: 2022-03-05 06:27:19 +1000  
 categories: None 
 ---   
 
@@ -29,8 +29,8 @@ categories: None
 | :boom:            | 2022-02-27 | ballarat R6                   | 7 Rockribbed          |  3.1  |     21   |
 | 0                 | 2022-02-27 | kempton R2                    | 1 Impulsive One       |  0    |    -10   |
 | :2nd_place_medal: | 2022-02-26 | alice-springs R3              | 3 Mathematics         |  1.8  |    -10   |
-| 5                 | 2022-02-26 | caulfield R8                  | 4 Bella Nipotina      | 11    |    -10   |
 | :2nd_place_medal: | 2022-02-26 | caulfield R8                  | 7 Away Game           |  9    |    -10   |
+| 5                 | 2022-02-26 | caulfield R8                  | 4 Bella Nipotina      | 11    |    -10   |
 | 5                 | 2022-02-26 | alice-springs R2              | 8 Celtic Belle        |  3.8  |    -10   |
 | 8                 | 2022-02-26 | morphettville R6              | 6 Extra Mile          |  7    |    -10   |
 | 4                 | 2022-02-26 | caulfield R4                  | 5 Decent Raine        |  7    |    -10   |
@@ -204,8 +204,8 @@ categories: None
 | 9                 | 2021-11-17 | belmont R9                    | 5 Savvy Dan           | 12    |    -10   |
 | :3rd_place_medal: | 2021-11-17 | rosehill R3                   | 11 Comrade Rosa       |  3.7  |    -10   |
 | :boom:            | 2021-11-15 | turffontein R3                | 9 Sacred Lotus        |  4.6  |     36   |
-| 4                 | 2021-11-15 | cheltenham R3                 | 3 Rouge Vif           |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-15 | cheltenham R3                 | 2 Politologue         |  5    |    -10   |
+| 4                 | 2021-11-15 | cheltenham R3                 | 3 Rouge Vif           |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-14 | cairns R4                     | 2 Silent Explorer     |  2.9  |    -10   |
 | 6                 | 2021-11-14 | hobart R5                     | 3 Deroche             |  4    |    -10   |
 | :boom:            | 2021-11-14 | punchestown R4                | 8 Top Bandit          |  0    |    -10   |
@@ -247,8 +247,8 @@ categories: None
 | :2nd_place_medal: | 2021-10-20 | geelong R7                    | 7 Dr Drill            | 19    |    -10   |
 | :boom:            | 2021-10-16 | ascot R9                      | 12 Real Charisma      |  2    |     10   |
 | :3rd_place_medal: | 2021-10-16 | eagle-farm R4                 | 9 Salateen            |  2.2  |    -10   |
-| :boom:            | 2021-10-15 | ipswich R3                    | 8 Sir Rocket          |  1.75 |      7.5 |
 | :2nd_place_medal: | 2021-10-15 | ipswich R3                    | 10 Lyrical Girl       |  2.15 |    -10   |
+| :boom:            | 2021-10-15 | ipswich R3                    | 8 Sir Rocket          |  1.75 |      7.5 |
 | :boom:            | 2021-10-15 | carlisle R7                   | 3 Armattiekan         |  2.6  |     16   |
 | :boom:            | 2021-10-13 | launceston R7                 | 7 Vivilici            |  4.6  |     36   |
 | :3rd_place_medal: | 2021-10-13 | launceston R7                 | 5 Red Letter Lady     |  3.3  |    -10   |
@@ -389,8 +389,8 @@ categories: None
 | :boom:            | 2021-08-14 | belmont R2                    | 5 Zaratite            |  1.4  |      4   |
 | :3rd_place_medal: | 2021-08-13 | lingfield R4                  | 8 Lankaran            |  3    |    -10   |
 | 9                 | 2021-08-12 | mount-isa R7                  | 3 Magic Town          | 10    |    -10   |
-| 9                 | 2021-08-12 | mount-isa R5                  | 3 Missed Out          | 23    |    -10   |
 | :3rd_place_medal: | 2021-08-12 | mount-isa R5                  | 1 Tango Rain          |  1.3  |    -10   |
+| 9                 | 2021-08-12 | mount-isa R5                  | 3 Missed Out          | 23    |    -10   |
 | 5                 | 2021-08-12 | mount-isa R4                  | 3 Scarpa              |  4    |    -10   |
 | 8                 | 2021-08-11 | doomben R3                    | 6 Quackery            |  3.5  |    -10   |
 | 6                 | 2021-08-07 | belmont R7                    | 6 Dunbar              |  5.5  |    -10   |
@@ -587,8 +587,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-18 | hobart R4                     | 4 Judge Burns         |  8.5  |    -10   |
 | 7                 | 2021-04-17 | ascot R9                      | 3 Amelia's Contraire  |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-17 | randwick R10                  | 3 Entriviere          |  3.3  |    -10   |
-| 8                 | 2021-04-17 | caulfield R8                  | 2 Yulong January      | 26    |    -10   |
 | 5                 | 2021-04-17 | caulfield R8                  | 3 How Womantic        |  4.2  |    -10   |
+| 8                 | 2021-04-17 | caulfield R8                  | 2 Yulong January      | 26    |    -10   |
 | :2nd_place_medal: | 2021-04-17 | randwick R6                   | 9 Isotope             |  3.3  |    -10   |
 | :boom:            | 2021-04-17 | randwick R6                   | 1 Wild Ruler          |  5.7  |     47   |
 | :3rd_place_medal: | 2021-04-17 | alice-springs R2              | 4 The Captain         |  1.55 |    -10   |
@@ -792,8 +792,8 @@ categories: None
 | :boom:            | 2020-10-24 | doomben R1                    | 6 Niedorp             |  1.3  |      3   |
 | :boom:            | 2020-10-23 | launceston R6                 | 1 Galenus             |  2.1  |     11   |
 | :2nd_place_medal: | 2020-10-23 | launceston R5                 | 5 Ivoryman            |  7    |    -10   |
-| :2nd_place_medal: | 2020-10-23 | launceston R1                 | 3 Sir Simon           |  1.85 |    -10   |
 | :3rd_place_medal: | 2020-10-23 | launceston R1                 | 4 Sh'bourne Star      | 13    |    -10   |
+| :2nd_place_medal: | 2020-10-23 | launceston R1                 | 3 Sir Simon           |  1.85 |    -10   |
 | 6                 | 2020-10-22 | rockhampton R6                | 1 Barachiel           |  4.6  |    -10   |
 | 99                | 2020-10-19 | kempton R4                    | 3 Darling Maltaix     |  2.75 |    -10   |
 | 99                | 2020-10-18 | royal-ascot R4                | 1 Century Dream       | 19    |    -10   |
