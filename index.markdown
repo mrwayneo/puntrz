@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-04 16:45:46 +1000  
+date: 2022-03-04 18:17:58 +1000  
 ---   
 
 
@@ -18,10 +18,10 @@ date: 2022-03-04 16:45:46 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |    -30   | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |    -30   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     18 |      3 |    -41   | 0.17 | -0.23 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      3 |    -59   | 0.19 | -0.37 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     18 |      2 |    -79   | 0.11 | -0.44 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |    -80   | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     12 |      0 |   -120   | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     12 |      1 |    -98   | 0.08 | -0.82 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      1 |   -162   | 0.03 | -0.43 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     39 |      4 |   -292.4 | 0.1  | -0.75 |
 
@@ -106,16 +106,16 @@ date: 2022-03-04 16:45:46 +1000
 | 24 | :soon:            | 2022-03-04 19:21:00 | darwin                    |      6 |        2 | Thunder Peak       |   2.45 | pangea,blackshadow   |
 | 25 | :soon:            | 2022-03-04 18:41:00 | darwin                    |      5 |        2 | Sweet Cheval       |   3.5  | pangea,moechilli     |
 | 26 | :soon:            | 2022-03-04 18:30:00 | sunshine-coast-poly-track |      1 |        7 | You Are Persistent |   2.75 | vulture              |
-| 27 | :soon:            | 2022-03-04 18:05:00 | darwin                    |      4 |        2 | Jet Jackson        |   2.4  | vulture              |
-| 28 | :soon:            | 2022-03-04 18:05:00 | darwin                    |      4 |        5 | Trebla             |   6.5  | pangea,blackshadow   |
-| 29 | :soon:            | 2022-03-04 17:50:00 | newcastle                 |      8 |       12 | Starboreta         |   6    | overthrow,pikey      |
-| 30 | :soon:            | 2022-03-04 17:35:00 | darwin                    |      3 |        1 | Syncline           |   2.35 | evenodds,blackshadow |
-| 31 | :soon:            | 2022-03-04 17:35:00 | darwin                    |      3 |        5 | Pembroke Castle    |   7    | vulture              |
-| 32 | :soon:            | 2022-03-04 17:33:00 | rockhampton               |      6 |        1 | Ornate             |   3.3  | benny,pangea         |
-| 33 | :soon:            | 2022-03-04 17:33:00 | rockhampton               |      6 |        2 | Lastofthe Mohicans |   4.4  | pangea               |
-| 34 | :soon:            | 2022-03-04 17:10:00 | newcastle                 |      7 |        4 | Aramayo            |   6.5  | wallbow              |
-| 35 | :soon:            | 2022-03-04 17:05:00 | darwin                    |      2 |        3 | No Strings         |   2.62 | overthrow            |
-| 36 | :soon:            | 2022-03-04 16:53:00 | rockhampton               |      5 |        2 | Laurie             |   2.45 | pangea               |
+| 27 | :3rd_place_medal: | 2022-03-04 18:05:00 | darwin                    |      4 |        2 | Jet Jackson        |   2.4  | vulture              |
+| 28 | --                | 2022-03-04 18:05:00 | darwin                    |      4 |        5 | Trebla             |   6.5  | pangea,blackshadow   |
+| 29 | :2nd_place_medal: | 2022-03-04 17:50:00 | newcastle                 |      8 |       12 | Starboreta         |   6    | overthrow,pikey      |
+| 30 | :2nd_place_medal: | 2022-03-04 17:35:00 | darwin                    |      3 |        1 | Syncline           |   2.35 | evenodds,blackshadow |
+| 31 | :3rd_place_medal: | 2022-03-04 17:35:00 | darwin                    |      3 |        5 | Pembroke Castle    |   7    | vulture              |
+| 32 | --                | 2022-03-04 17:33:00 | rockhampton               |      6 |        1 | Ornate             |   3.3  | benny,pangea         |
+| 33 | --                | 2022-03-04 17:33:00 | rockhampton               |      6 |        2 | Lastofthe Mohicans |   4.4  | pangea               |
+| 34 | 4.0               | 2022-03-04 17:10:00 | newcastle                 |      7 |        4 | Aramayo            |   6.5  | wallbow              |
+| 35 | :boom:            | 2022-03-04 17:05:00 | darwin                    |      2 |        3 | No Strings         |   2.62 | overthrow            |
+| 36 | :boom:            | 2022-03-04 16:53:00 | rockhampton               |      5 |        2 | Laurie             |   2.45 | pangea               |
 | 37 | :2nd_place_medal: | 2022-03-04 16:25:00 | darwin                    |      1 |        2 | Obligatory         |   2.35 | benny,icyhot         |
 | 38 | :boom:            | 2022-03-04 16:25:00 | darwin                    |      1 |        1 | Trident            |   2.1  | vulture              |
 | 39 | 4.0               | 2022-03-04 15:50:00 | newcastle                 |      5 |        6 | Fleet Air Arm      |   0    | milkman              |

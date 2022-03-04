@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-04 16:45:44 +1000  
+date: 2022-03-04 18:17:56 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 17:50             | 2022-03-04 | newcastle R8          | 12 Starboreta         |   6    |    -10   |
+| :2nd_place_medal: | 2022-03-04 | newcastle R8          | 12 Starboreta         |   6    |    -10   |
 | :2nd_place_medal: | 2022-03-04 | newcastle R4          | 6 Givara              |   7.5  |    -10   |
 | :boom:            | 2022-03-04 | newcastle R1          | 11 Kingdom Of Gold    |   7.5  |     65   |
 | 0                 | 2022-03-02 | canterbury R8         | 3 Sessions Road       |   0    |    -10   |
