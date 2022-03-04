@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-03-04 18:32:36 +1000  
+date: 2022-03-04 20:10:31 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 18:41             | 2022-03-04 | darwin R5              | 2 Sweet Cheval       |   3.5  |    -10   |
+| :3rd_place_medal: | 2022-03-04 | darwin R5              | 2 Sweet Cheval       |   3.5  |    -10   |
 | 0                 | 2022-02-19 | kelso R6               | 1 Monbeg Chit Chat   |   0    |    -10   |
 | 4                 | 2022-02-18 | cairns R2              | 3 Sparkly Star       |   3.8  |    -10   |
 | :3rd_place_medal: | 2022-02-12 | gold-coast R8          | 3 Lord Markel        |   5.5  |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-04 18:32:42 +1000  
+date: 2022-03-04 20:10:37 +1000  
 ---   
 
 
@@ -17,12 +17,12 @@ date: 2022-03-04 18:32:42 +1000
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |    -20   | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |    -30   | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |    -30   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      4 |    -39   | 0.25 | -0.24 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     18 |      3 |    -41   | 0.17 | -0.23 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      3 |    -59   | 0.19 | -0.37 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |    -80   | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      2 |    -86   | 0.05 | -0.23 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     12 |      1 |    -98   | 0.08 | -0.82 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      1 |   -162   | 0.03 | -0.43 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     39 |      4 |   -292.4 | 0.1  | -0.75 |
 
 ##### Form Last 20 tips   
@@ -100,12 +100,12 @@ date: 2022-03-04 18:32:42 +1000
 | 18 | :soon:            | 2022-03-05 01:10:00 | lingfield                 |      3 |        3 | King Of Jungle     |   6    | milkman              |
 | 19 | :soon:            | 2022-03-04 21:00:00 | sunshine-coast-poly-track |      6 |        5 | Tuscany Bound      |   4.2  | vulture,milkman      |
 | 20 | :soon:            | 2022-03-04 20:15:00 | moonee-valley             |      5 |        6 | Smirnova           |   1.75 | benny,pangea         |
-| 21 | :soon:            | 2022-03-04 20:00:00 | sunshine-coast-poly-track |      4 |        1 | Continuation       |   8.5  | pangea,icyhot        |
-| 22 | :soon:            | 2022-03-04 20:00:00 | sunshine-coast-poly-track |      4 |        9 | Takeittothelimit   |   7    | vulture              |
-| 23 | :soon:            | 2022-03-04 19:30:00 | sunshine-coast-poly-track |      3 |        3 | Dynamic Duo        |  11    | vulture              |
-| 24 | :soon:            | 2022-03-04 19:21:00 | darwin                    |      6 |        2 | Thunder Peak       |   2.45 | pangea,blackshadow   |
-| 25 | :soon:            | 2022-03-04 18:41:00 | darwin                    |      5 |        2 | Sweet Cheval       |   3.5  | pangea,moechilli     |
-| 26 | --                | 2022-03-04 18:30:00 | sunshine-coast-poly-track |      1 |        7 | You Are Persistent |   2.75 | vulture              |
+| 21 | --                | 2022-03-04 20:00:00 | sunshine-coast-poly-track |      4 |        1 | Continuation       |   8.5  | pangea,icyhot        |
+| 22 | --                | 2022-03-04 20:00:00 | sunshine-coast-poly-track |      4 |        9 | Takeittothelimit   |   7    | vulture              |
+| 23 | :3rd_place_medal: | 2022-03-04 19:30:00 | sunshine-coast-poly-track |      3 |        3 | Dynamic Duo        |  11    | vulture              |
+| 24 | 4.0               | 2022-03-04 19:21:00 | darwin                    |      6 |        2 | Thunder Peak       |   2.45 | pangea,blackshadow   |
+| 25 | :3rd_place_medal: | 2022-03-04 18:41:00 | darwin                    |      5 |        2 | Sweet Cheval       |   3.5  | pangea,moechilli     |
+| 26 | :boom:            | 2022-03-04 18:30:00 | sunshine-coast-poly-track |      1 |        7 | You Are Persistent |   2.75 | vulture              |
 | 27 | :3rd_place_medal: | 2022-03-04 18:05:00 | darwin                    |      4 |        2 | Jet Jackson        |   2.4  | vulture              |
 | 28 | 5.0               | 2022-03-04 18:05:00 | darwin                    |      4 |        5 | Trebla             |   6.5  | pangea,blackshadow   |
 | 29 | :2nd_place_medal: | 2022-03-04 17:50:00 | newcastle                 |      8 |       12 | Starboreta         |   6    | overthrow,pikey      |
