@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-04 20:56:32 +1000  
+date: 2022-03-04 21:15:52 +1000  
 ---   
 
 
@@ -98,7 +98,7 @@ date: 2022-03-04 20:56:32 +1000
 | 16 | :soon:            | 2022-03-05 01:20:00 | newbury                   |      2 |        1 | Icone D'aubrelle   |   3    | milkman              |
 | 17 | :soon:            | 2022-03-05 01:20:00 | newbury                   |      2 |        2 | In The Air         |   1.95 | vulture,milkman      |
 | 18 | :soon:            | 2022-03-05 01:10:00 | lingfield                 |      3 |        3 | King Of Jungle     |   6    | milkman              |
-| 19 | :soon:            | 2022-03-04 21:00:00 | sunshine-coast-poly-track |      6 |        5 | Tuscany Bound      |   4.2  | vulture,milkman      |
+| 19 | --                | 2022-03-04 21:00:00 | sunshine-coast-poly-track |      6 |        5 | Tuscany Bound      |   4.2  | vulture,milkman      |
 | 20 | 5.0               | 2022-03-04 20:15:00 | moonee-valley             |      5 |        6 | Smirnova           |   1.75 | benny,pangea         |
 | 21 | 7.0               | 2022-03-04 20:00:00 | sunshine-coast-poly-track |      4 |        1 | Continuation       |   8.5  | pangea,icyhot        |
 | 22 | 6.0               | 2022-03-04 20:00:00 | sunshine-coast-poly-track |      4 |        9 | Takeittothelimit   |   7    | vulture              |
