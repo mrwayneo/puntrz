@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-05 07:57:28 +1000  
+date: 2022-03-05 08:19:54 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,14 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 17:55             | 2022-03-05 | randwick R10         | 4 Belluci Babe       |  3.5  |    -10   |
+| 17:20             | 2022-03-05 | randwick R9          | 1 Polly Grey         |  4.5  |    -10   |
+| 16:40             | 2022-03-05 | randwick R8          | 1 Anamoe             |  1.75 |    -10   |
+| 16:00             | 2022-03-05 | randwick R7          | 10 Lighthouse        |  3.9  |    -10   |
+| 14:40             | 2022-03-05 | randwick R5          | 1 Nature Strip       |  1.55 |    -10   |
+| 14:05             | 2022-03-05 | randwick R4          | 5 Sheraz             |  6.5  |    -10   |
+| 13:30             | 2022-03-05 | randwick R3          | 7 Showcourt          | 11    |    -10   |
+| 12:55             | 2022-03-05 | randwick R2          | 7 Greece             |  3.2  |    -10   |
 | 0                 | 2022-03-02 | canterbury R8        | 13 Roots             |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R8        | 13 Roots             |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R7        | 1 Jerle              |  0    |    -10   |
