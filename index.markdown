@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-04 10:56:01 +1000  
+date: 2022-03-04 11:10:46 +1000  
 ---   
 
 
@@ -9,21 +9,21 @@ date: 2022-03-04 10:56:01 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 |    0 |    -1 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      3 |      0 |      -30 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 |    0 |    -1 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |      -50 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |      -80 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     12 |      0 |     -120 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     12 |      0 |     -120 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      0 |     -160 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     18 |      0 |     -180 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      0 |     -380 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     39 |      0 |     -390 |    0 |    -1 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 | 0    | -1    |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      3 |      0 |      -30 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |      -50 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |      -80 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     12 |      0 |     -120 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     12 |      0 |     -120 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      1 |     -129 | 0.06 | -0.81 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     18 |      0 |     -180 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      0 |     -380 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     39 |      0 |     -390 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -127,4 +127,4 @@ date: 2022-03-04 10:56:01 +1000
 | 45 | :soon:   | 2022-03-04 13:52:00 | awapuni                   |      7 |        4 | See Whata Princess |   7    | looseknot            |
 | 46 | :soon:   | 2022-03-04 13:25:00 | newcastle                 |      1 |       11 | Kingdom Of Gold    |   7    | overthrow,pikey      |
 | 47 | :soon:   | 2022-03-04 13:19:00 | awapuni                   |      6 |        3 | Owen Moore         |   7.5  | looseknot            |
-| 48 | :soon:   | 2022-03-04 10:57:00 | awapuni                   |      2 |        3 | Mochatini          |   2.7  | vulture              |
+| 48 | :boom:   | 2022-03-04 10:57:00 | awapuni                   |      2 |        3 | Mochatini          |   2.7  | vulture              |
