@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-04 15:09:19 +1000  
+date: 2022-03-04 16:30:40 +1000  
 ---   
 
 
@@ -18,12 +18,12 @@ date: 2022-03-04 15:09:19 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |    -30   | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |    -30   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      3 |    -59   | 0.19 | -0.37 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     18 |      2 |    -79   | 0.11 | -0.44 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |    -80   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      2 |    -81   | 0.12 | -0.51 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     12 |      0 |   -120   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     38 |      1 |   -162   | 0.03 | -0.43 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     39 |      3 |   -317.4 | 0.08 | -0.81 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     39 |      4 |   -292.4 | 0.1  | -0.75 |
 
 ##### Form Last 20 tips   
 
@@ -116,15 +116,15 @@ date: 2022-03-04 15:09:19 +1000
 | 34 | :soon:            | 2022-03-04 17:10:00 | newcastle                 |      7 |        4 | Aramayo            |   6.5  | wallbow              |
 | 35 | :soon:            | 2022-03-04 17:05:00 | darwin                    |      2 |        3 | No Strings         |   2.62 | overthrow            |
 | 36 | :soon:            | 2022-03-04 16:53:00 | rockhampton               |      5 |        2 | Laurie             |   2.45 | pangea               |
-| 37 | :soon:            | 2022-03-04 16:25:00 | darwin                    |      1 |        2 | Obligatory         |   2.35 | benny,icyhot         |
-| 38 | :soon:            | 2022-03-04 16:25:00 | darwin                    |      1 |        1 | Trident            |   2.1  | vulture              |
-| 39 | :soon:            | 2022-03-04 15:50:00 | newcastle                 |      5 |        6 | Fleet Air Arm      |   0    | milkman              |
-| 40 | :soon:            | 2022-03-04 15:50:00 | newcastle                 |      5 |        4 | Jerle              |   8.5  | vulture              |
-| 41 | :soon:            | 2022-03-04 15:10:00 | newcastle                 |      4 |        6 | Givara             |   7.5  | pikey                |
+| 37 | :2nd_place_medal: | 2022-03-04 16:25:00 | darwin                    |      1 |        2 | Obligatory         |   2.35 | benny,icyhot         |
+| 38 | :boom:            | 2022-03-04 16:25:00 | darwin                    |      1 |        1 | Trident            |   2.1  | vulture              |
+| 39 | 4.0               | 2022-03-04 15:50:00 | newcastle                 |      5 |        6 | Fleet Air Arm      |   0    | milkman              |
+| 40 | 5.0               | 2022-03-04 15:50:00 | newcastle                 |      5 |        4 | Jerle              |   8.5  | vulture              |
+| 41 | :2nd_place_medal: | 2022-03-04 15:10:00 | newcastle                 |      4 |        6 | Givara             |   7.5  | pikey                |
 | 42 | :2nd_place_medal: | 2022-03-04 14:56:00 | rockhampton               |      2 |        1 | Kotabharu          |   1.65 | vulture              |
 | 43 | :2nd_place_medal: | 2022-03-04 14:35:00 | newcastle                 |      3 |        2 | Naval Seal         |   7    | wallbow              |
 | 44 | :boom:            | 2022-03-04 14:00:00 | newcastle                 |      2 |        4 | Affogato Girl      |   4.75 | vulture,blackshadow  |
-| 45 | --                | 2022-03-04 13:52:00 | awapuni                   |      7 |        4 | See Whata Princess |   7    | looseknot            |
+| 45 | 10.0              | 2022-03-04 13:52:00 | awapuni                   |      7 |        4 | See Whata Princess |   7    | looseknot            |
 | 46 | :boom:            | 2022-03-04 13:25:00 | newcastle                 |      1 |       11 | Kingdom Of Gold    |   7    | overthrow,pikey      |
-| 47 | --                | 2022-03-04 13:19:00 | awapuni                   |      6 |        3 | Owen Moore         |   7.5  | looseknot            |
+| 47 | 7.0               | 2022-03-04 13:19:00 | awapuni                   |      6 |        3 | Owen Moore         |   7.5  | looseknot            |
 | 48 | :boom:            | 2022-03-04 10:57:00 | awapuni                   |      2 |        3 | Mochatini          |   2.7  | vulture              |
