@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-03-05 08:25:17 +1000  
+date: 2022-03-05 10:07:21 +1000  
 categories: None 
 ---   
 
@@ -121,8 +121,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-29 | ballarat R4                   | 6 Robbie's Star       |  21    |    -10   |
 | 9                 | 2021-08-26 | mackay R4                     | 10 Myzaboom           | 151    |    -10   |
 | :boom:            | 2021-08-24 | ballinrobe R5                 | 1 Father Jed          |   5.5  |     45   |
-| :boom:            | 2021-08-21 | scottsville R1                | 1 Humdinger           |  19    |    180   |
 | :2nd_place_medal: | 2021-08-21 | scottsville R1                | 5 Grey View           |   4.6  |    -10   |
+| :boom:            | 2021-08-21 | scottsville R1                | 1 Humdinger           |  19    |    180   |
 | 99                | 2021-08-21 | salisbury R4                  | 8 Fuente Ovejuna      |  34    |    -10   |
 | :boom:            | 2021-08-21 | salisbury R1                  | 3 Luna Magic          |  11    |    100   |
 | :boom:            | 2021-08-18 | belmont R2                    | 11 War Gem            |  11.9  |    109   |
