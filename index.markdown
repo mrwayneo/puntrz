@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-04 18:17:58 +1000  
+date: 2022-03-04 18:32:42 +1000  
 ---   
 
 
@@ -105,14 +105,14 @@ date: 2022-03-04 18:17:58 +1000
 | 23 | :soon:            | 2022-03-04 19:30:00 | sunshine-coast-poly-track |      3 |        3 | Dynamic Duo        |  11    | vulture              |
 | 24 | :soon:            | 2022-03-04 19:21:00 | darwin                    |      6 |        2 | Thunder Peak       |   2.45 | pangea,blackshadow   |
 | 25 | :soon:            | 2022-03-04 18:41:00 | darwin                    |      5 |        2 | Sweet Cheval       |   3.5  | pangea,moechilli     |
-| 26 | :soon:            | 2022-03-04 18:30:00 | sunshine-coast-poly-track |      1 |        7 | You Are Persistent |   2.75 | vulture              |
+| 26 | --                | 2022-03-04 18:30:00 | sunshine-coast-poly-track |      1 |        7 | You Are Persistent |   2.75 | vulture              |
 | 27 | :3rd_place_medal: | 2022-03-04 18:05:00 | darwin                    |      4 |        2 | Jet Jackson        |   2.4  | vulture              |
-| 28 | --                | 2022-03-04 18:05:00 | darwin                    |      4 |        5 | Trebla             |   6.5  | pangea,blackshadow   |
+| 28 | 5.0               | 2022-03-04 18:05:00 | darwin                    |      4 |        5 | Trebla             |   6.5  | pangea,blackshadow   |
 | 29 | :2nd_place_medal: | 2022-03-04 17:50:00 | newcastle                 |      8 |       12 | Starboreta         |   6    | overthrow,pikey      |
 | 30 | :2nd_place_medal: | 2022-03-04 17:35:00 | darwin                    |      3 |        1 | Syncline           |   2.35 | evenodds,blackshadow |
 | 31 | :3rd_place_medal: | 2022-03-04 17:35:00 | darwin                    |      3 |        5 | Pembroke Castle    |   7    | vulture              |
-| 32 | --                | 2022-03-04 17:33:00 | rockhampton               |      6 |        1 | Ornate             |   3.3  | benny,pangea         |
-| 33 | --                | 2022-03-04 17:33:00 | rockhampton               |      6 |        2 | Lastofthe Mohicans |   4.4  | pangea               |
+| 32 | 6.0               | 2022-03-04 17:33:00 | rockhampton               |      6 |        1 | Ornate             |   3.3  | benny,pangea         |
+| 33 | 7.0               | 2022-03-04 17:33:00 | rockhampton               |      6 |        2 | Lastofthe Mohicans |   4.4  | pangea               |
 | 34 | 4.0               | 2022-03-04 17:10:00 | newcastle                 |      7 |        4 | Aramayo            |   6.5  | wallbow              |
 | 35 | :boom:            | 2022-03-04 17:05:00 | darwin                    |      2 |        3 | No Strings         |   2.62 | overthrow            |
 | 36 | :boom:            | 2022-03-04 16:53:00 | rockhampton               |      5 |        2 | Laurie             |   2.45 | pangea               |
