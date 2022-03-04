@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-04 21:15:52 +1000  
+date: 2022-03-04 21:30:47 +1000  
 ---   
 
 
@@ -14,14 +14,14 @@ date: 2022-03-04 21:15:52 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      3 |      1 |     45   | 0.33 |  1.5  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      1 |     -3   | 0.2  | -0.06 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |    -10   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      5 |    -18   | 0.31 | -0.11 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |    -20   | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      2 |      0 |    -20   | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |    -30   | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |    -30   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      4 |    -39   | 0.25 | -0.24 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |    -40   | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     18 |      3 |    -41   | 0.17 | -0.23 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |    -80   | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      1 |    -59   | 0.12 | -0.74 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     12 |      1 |    -98   | 0.08 | -0.82 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     39 |      4 |   -292.4 | 0.1  | -0.75 |
 
@@ -98,7 +98,7 @@ date: 2022-03-04 21:15:52 +1000
 | 16 | :soon:            | 2022-03-05 01:20:00 | newbury                   |      2 |        1 | Icone D'aubrelle   |   3    | milkman              |
 | 17 | :soon:            | 2022-03-05 01:20:00 | newbury                   |      2 |        2 | In The Air         |   1.95 | vulture,milkman      |
 | 18 | :soon:            | 2022-03-05 01:10:00 | lingfield                 |      3 |        3 | King Of Jungle     |   6    | milkman              |
-| 19 | --                | 2022-03-04 21:00:00 | sunshine-coast-poly-track |      6 |        5 | Tuscany Bound      |   4.2  | vulture,milkman      |
+| 19 | :boom:            | 2022-03-04 21:00:00 | sunshine-coast-poly-track |      6 |        5 | Tuscany Bound      |   4.2  | vulture,milkman      |
 | 20 | 5.0               | 2022-03-04 20:15:00 | moonee-valley             |      5 |        6 | Smirnova           |   1.75 | benny,pangea         |
 | 21 | 7.0               | 2022-03-04 20:00:00 | sunshine-coast-poly-track |      4 |        1 | Continuation       |   8.5  | pangea,icyhot        |
 | 22 | 6.0               | 2022-03-04 20:00:00 | sunshine-coast-poly-track |      4 |        9 | Takeittothelimit   |   7    | vulture              |
