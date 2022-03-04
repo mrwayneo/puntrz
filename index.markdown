@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-04 20:54:14 +1000  
+date: 2022-03-04 20:56:32 +1000  
 ---   
 
 
@@ -100,8 +100,8 @@ date: 2022-03-04 20:54:14 +1000
 | 18 | :soon:            | 2022-03-05 01:10:00 | lingfield                 |      3 |        3 | King Of Jungle     |   6    | milkman              |
 | 19 | :soon:            | 2022-03-04 21:00:00 | sunshine-coast-poly-track |      6 |        5 | Tuscany Bound      |   4.2  | vulture,milkman      |
 | 20 | 5.0               | 2022-03-04 20:15:00 | moonee-valley             |      5 |        6 | Smirnova           |   1.75 | benny,pangea         |
-| 21 | --                | 2022-03-04 20:00:00 | sunshine-coast-poly-track |      4 |        1 | Continuation       |   8.5  | pangea,icyhot        |
-| 22 | --                | 2022-03-04 20:00:00 | sunshine-coast-poly-track |      4 |        9 | Takeittothelimit   |   7    | vulture              |
+| 21 | 7.0               | 2022-03-04 20:00:00 | sunshine-coast-poly-track |      4 |        1 | Continuation       |   8.5  | pangea,icyhot        |
+| 22 | 6.0               | 2022-03-04 20:00:00 | sunshine-coast-poly-track |      4 |        9 | Takeittothelimit   |   7    | vulture              |
 | 23 | :3rd_place_medal: | 2022-03-04 19:30:00 | sunshine-coast-poly-track |      3 |        3 | Dynamic Duo        |  11    | vulture              |
 | 24 | 4.0               | 2022-03-04 19:21:00 | darwin                    |      6 |        2 | Thunder Peak       |   2.45 | pangea,blackshadow   |
 | 25 | :3rd_place_medal: | 2022-03-04 18:41:00 | darwin                    |      5 |        2 | Sweet Cheval       |   3.5  | pangea,moechilli     |
