@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 14:23:53 +1000  
+date: 2022-03-05 14:39:19 +1000  
 ---   
 
 
@@ -21,11 +21,11 @@ date: 2022-03-05 14:23:53 +1000
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      0 |      -80 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      2 |     -130 | 0.11 | -0.68 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     26 |      1 |     -243 | 0.04 | -0.93 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     34 |      2 |     -288 | 0.06 | -0.85 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     34 |      3 |     -243 | 0.09 | -0.71 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     37 |      2 |     -316 | 0.05 | -0.85 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     33 |      0 |     -330 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     63 |      1 |     -594 | 0.02 | -0.94 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     82 |      0 |     -820 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     82 |      2 |     -671 | 0.02 | -0.82 |
 
 ##### Form Last 20 tips   
 
@@ -152,11 +152,11 @@ date: 2022-03-05 14:23:53 +1000
 | 68 | :soon:            | 2022-03-05 15:00:00 | flemington                |      5 |       10 | Spellcatcher       |  14    | pangea             |
 | 69 | :soon:            | 2022-03-05 15:00:00 | flemington                |      5 |        4 | Sneaky Five        |   8.5  | pangea,milkman     |
 | 70 | :soon:            | 2022-03-05 14:40:00 | randwick                  |      5 |        1 | Nature Strip       |   1.55 | vulture,jmac       |
-| 71 | :soon:            | 2022-03-05 14:32:00 | murray-bdge               |      4 |        1 | Call Me Shamus     |   2.8  | vulture            |
-| 72 | :soon:            | 2022-03-05 14:25:00 | newcastle                 |      3 |        8 | In The Blink       |   8    | looseknot          |
-| 73 | --                | 2022-03-05 14:20:00 | flemington                |      4 |        5 | Annavisto          |   4.6  | pangea             |
+| 71 | --                | 2022-03-05 14:32:00 | murray-bdge               |      4 |        1 | Call Me Shamus     |   2.8  | vulture            |
+| 72 | :2nd_place_medal: | 2022-03-05 14:25:00 | newcastle                 |      3 |        8 | In The Blink       |   8    | looseknot          |
+| 73 | :boom:            | 2022-03-05 14:20:00 | flemington                |      4 |        5 | Annavisto          |   4.6  | pangea             |
 | 74 | --                | 2022-03-05 14:20:00 | flemington                |      4 |        3 | Sirileo Miss       |   3.5  | pangea,milkman     |
-| 75 | --                | 2022-03-05 14:20:00 | flemington                |      4 |        1 | Quantum Mechanic   |  21    | vulture,pangea     |
+| 75 | 4.0               | 2022-03-05 14:20:00 | flemington                |      4 |        1 | Quantum Mechanic   |  21    | vulture,pangea     |
 | 76 | --                | 2022-03-05 14:13:00 | toowoomba                 |      4 |        4 | Humbolt Current    |   8    | pangea             |
 | 77 | :boom:            | 2022-03-05 14:05:00 | randwick                  |      4 |        7 | Zeyrek             |   8    | pikey              |
 | 78 | 6.0               | 2022-03-05 14:05:00 | randwick                  |      4 |        4 | Mightybeel         |   3.5  | vulture            |
