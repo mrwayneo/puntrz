@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 15:59:09 +1000  
+date: 2022-03-05 16:15:43 +1000  
 ---   
 
 
@@ -21,10 +21,10 @@ date: 2022-03-05 15:59:09 +1000
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      0 |      -80 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      3 |     -107 | 0.16 | -0.56 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     34 |      4 |     -178 | 0.12 | -0.52 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     63 |      2 |     -232 | 0.03 | -0.37 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     26 |      1 |     -243 | 0.04 | -0.93 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     37 |      2 |     -316 | 0.05 | -0.85 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     33 |      0 |     -330 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     63 |      1 |     -594 | 0.02 | -0.94 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     82 |      3 |     -625 | 0.04 | -0.76 |
 
 ##### Form Last 20 tips   
@@ -135,13 +135,13 @@ date: 2022-03-05 15:59:09 +1000
 | 51 | :soon:            | 2022-03-05 16:40:00 | randwick                  |      8 |        7 | Military Expert    |  22    | vulture            |
 | 52 | :soon:            | 2022-03-05 16:40:00 | randwick                  |      8 |        4 | Coastwatch         |  16    | vulture            |
 | 53 | :soon:            | 2022-03-05 16:32:00 | murray-bdge               |      7 |        4 | Quietly Discreet   |   2.45 | vulture,pangea     |
-| 54 | :soon:            | 2022-03-05 16:14:00 | alice-springs             |      1 |        2 | Desert Lass        |   9.5  | benny,blackshadow  |
-| 55 | :soon:            | 2022-03-05 16:14:00 | alice-springs             |      1 |        5 | Supreme Times      |   1.6  | evenodds,overthrow |
-| 56 | :soon:            | 2022-03-05 16:00:00 | randwick                  |      7 |        6 | Wild Planet        |  21    | cosmo,pikey        |
-| 57 | :soon:            | 2022-03-05 16:00:00 | randwick                  |      7 |       10 | Lighthouse         |   3.9  | evenodds,jmac      |
+| 54 | --                | 2022-03-05 16:14:00 | alice-springs             |      1 |        2 | Desert Lass        |   9.5  | benny,blackshadow  |
+| 55 | --                | 2022-03-05 16:14:00 | alice-springs             |      1 |        5 | Supreme Times      |   1.6  | evenodds,overthrow |
+| 56 | 8.0               | 2022-03-05 16:00:00 | randwick                  |      7 |        6 | Wild Planet        |  21    | cosmo,pikey        |
+| 57 | :2nd_place_medal: | 2022-03-05 16:00:00 | randwick                  |      7 |       10 | Lighthouse         |   3.9  | evenodds,jmac      |
 | 58 | 4.0               | 2022-03-05 15:52:00 | murray-bdge               |      6 |        8 | Lady Dunmore       |   5    | vulture            |
 | 59 | :boom:            | 2022-03-05 15:52:00 | murray-bdge               |      6 |        5 | Zoist              |   6    | benny,icyhot       |
-| 60 | --                | 2022-03-05 15:40:00 | flemington                |      6 |        3 | Bankers Choice     |  31    | vulture,milkman    |
+| 60 | 5.0               | 2022-03-05 15:40:00 | flemington                |      6 |        3 | Bankers Choice     |  31    | vulture,milkman    |
 | 61 | :2nd_place_medal: | 2022-03-05 15:40:00 | flemington                |      6 |        1 | Zaaki              |   2.2  | pangea,icyhot      |
 | 62 | 5.0               | 2022-03-05 15:32:00 | toowoomba                 |      6 |        1 | Profit             |   3.5  | vulture            |
 | 63 | :boom:            | 2022-03-05 15:28:00 | ascot                     |      1 |        4 | River Rubicon      |   2.62 | milkman            |
@@ -179,5 +179,5 @@ date: 2022-03-05 15:59:09 +1000
 | 95 | 4.0               | 2022-03-05 12:28:00 | wingatui                  |      5 |        2 | Kaareraway         |   3.7  | vulture            |
 | 96 | 5.0               | 2022-03-05 12:20:00 | randwick                  |      1 |       13 | Clear Blonde       |  26    | pikey              |
 | 97 | :2nd_place_medal: | 2022-03-05 12:08:00 | ellerslie                 |      4 |        4 | I Wish I Win       |   3.9  | vulture            |
-| 98 | --                | 2022-03-05 11:50:00 | wingatui                  |      4 |        6 | Chokito            |   4.5  | vulture,looseknot  |
+| 98 | 9.0               | 2022-03-05 11:50:00 | wingatui                  |      4 |        6 | Chokito            |   4.5  | vulture,looseknot  |
 | 99 | :2nd_place_medal: | 2022-03-05 10:40:00 | wingatui                  |      2 |        5 | Mayor Of Norwood   |   5    | looseknot          |

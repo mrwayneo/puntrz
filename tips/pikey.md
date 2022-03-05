@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-05 15:59:07 +1000  
+date: 2022-03-05 16:15:42 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 16:40             | 2022-03-05 | randwick R8           | 3 Hilal               |   5.5  |    -10   |
-| 16:00             | 2022-03-05 | randwick R7           | 6 Wild Planet         |  21    |    -10   |
+| 8                 | 2022-03-05 | randwick R7           | 6 Wild Planet         |  21    |    -10   |
 | :boom:            | 2022-03-05 | randwick R4           | 7 Zeyrek              |   9.8  |     88   |
 | :2nd_place_medal: | 2022-03-05 | randwick R2           | 6 Dashing Legend      |  16    |    -10   |
 | 5                 | 2022-03-05 | randwick R1           | 13 Clear Blonde       |  26    |    -10   |
