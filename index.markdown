@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 12:05:21 +1000  
+date: 2022-03-05 12:42:29 +1000  
 ---   
 
 
@@ -174,10 +174,10 @@ date: 2022-03-05 12:05:21 +1000
 | 90 | :soon:            | 2022-03-05 12:55:00 | randwick                  |      2 |        6 | Dashing Legend     |  16    | pikey              |
 | 91 | :soon:            | 2022-03-05 12:55:00 | randwick                  |      2 |        1 | Russian Conquest   |   1.85 | milkman            |
 | 92 | :soon:            | 2022-03-05 12:55:00 | randwick                  |      2 |        7 | Greece             |   3.2  | overthrow,jmac     |
-| 93 | :soon:            | 2022-03-05 12:35:00 | flemington                |      1 |        2 | Superset           |   9    | milkman            |
-| 94 | :soon:            | 2022-03-05 12:35:00 | flemington                |      1 |        1 | Mumbai Jewel       |   4    | vulture            |
-| 95 | :soon:            | 2022-03-05 12:28:00 | wingatui                  |      5 |        2 | Kaareraway         |   3.7  | vulture            |
-| 96 | :soon:            | 2022-03-05 12:20:00 | randwick                  |      1 |       13 | Clear Blonde       |  26    | pikey              |
-| 97 | :soon:            | 2022-03-05 12:08:00 | ellerslie                 |      4 |        4 | I Wish I Win       |   3.9  | vulture            |
+| 93 | --                | 2022-03-05 12:35:00 | flemington                |      1 |        2 | Superset           |   9    | milkman            |
+| 94 | --                | 2022-03-05 12:35:00 | flemington                |      1 |        1 | Mumbai Jewel       |   4    | vulture            |
+| 95 | 4.0               | 2022-03-05 12:28:00 | wingatui                  |      5 |        2 | Kaareraway         |   3.7  | vulture            |
+| 96 | --                | 2022-03-05 12:20:00 | randwick                  |      1 |       13 | Clear Blonde       |  26    | pikey              |
+| 97 | :2nd_place_medal: | 2022-03-05 12:08:00 | ellerslie                 |      4 |        4 | I Wish I Win       |   3.9  | vulture            |
 | 98 | --                | 2022-03-05 11:50:00 | wingatui                  |      4 |        6 | Chokito            |   4.5  | vulture,looseknot  |
 | 99 | :2nd_place_medal: | 2022-03-05 10:40:00 | wingatui                  |      2 |        5 | Mayor Of Norwood   |   5    | looseknot          |

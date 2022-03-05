@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-05 12:05:20 +1000  
+date: 2022-03-05 12:42:28 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 16:00             | 2022-03-05 | randwick R7           | 6 Wild Planet         |  21    |    -10   |
 | 14:05             | 2022-03-05 | randwick R4           | 7 Zeyrek              |   8    |    -10   |
 | 12:55             | 2022-03-05 | randwick R2           | 6 Dashing Legend      |  16    |    -10   |
-| 12:20             | 2022-03-05 | randwick R1           | 13 Clear Blonde       |  26    |    -10   |
+| 0                 | 2022-03-05 | randwick R1           | 13 Clear Blonde       |   0    |    -10   |
 | :2nd_place_medal: | 2022-03-04 | newcastle R8          | 12 Starboreta         |   6    |    -10   |
 | :2nd_place_medal: | 2022-03-04 | newcastle R4          | 6 Givara              |   7.5  |    -10   |
 | :boom:            | 2022-03-04 | newcastle R1          | 11 Kingdom Of Gold    |   7.5  |     65   |
