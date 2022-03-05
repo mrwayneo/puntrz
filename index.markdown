@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 15:09:32 +1000  
+date: 2022-03-05 15:29:07 +1000  
 ---   
 
 
@@ -144,9 +144,9 @@ date: 2022-03-05 15:09:32 +1000
 | 60 | :soon:                   | 2022-03-05 15:40:00 | flemington                |      6 |        3 | Bankers Choice     |  31    | vulture,milkman    |
 | 61 | :soon:                   | 2022-03-05 15:40:00 | flemington                |      6 |        1 | Zaaki              |   2.2  | pangea,icyhot      |
 | 62 | :soon:                   | 2022-03-05 15:32:00 | toowoomba                 |      6 |        1 | Profit             |   3.5  | vulture            |
-| 63 | :soon:                   | 2022-03-05 15:28:00 | ascot                     |      1 |        4 | River Rubicon      |   2.62 | milkman            |
-| 64 | :soon:                   | 2022-03-05 15:28:00 | ascot                     |      1 |        5 | Arcadia Grace      |   3.3  | evenodds,overthrow |
-| 65 | :hourglass_flowing_sand: | 2022-03-05 15:09:00 | sunshine-coast-poly-track |      4 |        1 | Ask Audrey         |   2.9  | overthrow          |
+| 63 | :hourglass_flowing_sand: | 2022-03-05 15:28:00 | ascot                     |      1 |        4 | River Rubicon      |   2.62 | milkman            |
+| 64 | :hourglass_flowing_sand: | 2022-03-05 15:28:00 | ascot                     |      1 |        5 | Arcadia Grace      |   3.3  | evenodds,overthrow |
+| 65 | 4.0                      | 2022-03-05 15:09:00 | sunshine-coast-poly-track |      4 |        1 | Ask Audrey         |   2.9  | overthrow          |
 | 66 | --                       | 2022-03-05 15:05:00 | newcastle                 |      4 |        6 | Endorphins         |   7    | vulture            |
 | 67 | --                       | 2022-03-05 15:00:00 | flemington                |      5 |       12 | Zetarita           |  71    | cosmo,bluey        |
 | 68 | :2nd_place_medal:        | 2022-03-05 15:00:00 | flemington                |      5 |       10 | Spellcatcher       |  14    | pangea             |
