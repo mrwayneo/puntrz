@@ -1,16 +1,17 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-03-05 22:52:23 +1000  
+date: 2022-03-06 06:24:57 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      9 |      0 |    -90   | 0    | -1    |
-| Last 6 Months  |    101 |     15 |    440   | 0.15 |  0.44 |
-| Since Jan 2020 |    250 |     41 |   3535.5 | 0.16 |  1.41 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      8 |      0 |    -80   | 0    | -1    |
+| Last 6 Months  |    102 |     15 |    430   | 0.15 |  0.42 |
+| Since Jan 2020 |    251 |     41 |   3525.5 | 0.16 |  1.4  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
@@ -121,8 +122,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-29 | ballarat R4                   | 6 Robbie's Star       |  21    |    -10   |
 | 9                 | 2021-08-26 | mackay R4                     | 10 Myzaboom           | 151    |    -10   |
 | :boom:            | 2021-08-24 | ballinrobe R5                 | 1 Father Jed          |   5.5  |     45   |
-| :2nd_place_medal: | 2021-08-21 | scottsville R1                | 5 Grey View           |   4.6  |    -10   |
 | :boom:            | 2021-08-21 | scottsville R1                | 1 Humdinger           |  19    |    180   |
+| :2nd_place_medal: | 2021-08-21 | scottsville R1                | 5 Grey View           |   4.6  |    -10   |
 | 99                | 2021-08-21 | salisbury R4                  | 8 Fuente Ovejuna      |  34    |    -10   |
 | :boom:            | 2021-08-21 | salisbury R1                  | 3 Luna Magic          |  11    |    100   |
 | :boom:            | 2021-08-18 | belmont R2                    | 11 War Gem            |  11.9  |    109   |
