@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-03-06 07:10:08 +1000  
+date: 2022-03-06 07:40:25 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:30             | 2022-03-06 | southwell R8                  | 4 Auriferous          |   1.6  |    -10   |
+| 0                 | 2022-03-06 | southwell R8                  | 4 Auriferous          |   0    |    -10   |
 | 0                 | 2022-03-06 | kelso R7                      | 3 Here We Have It     |   0    |    -10   |
 | 0                 | 2022-03-06 | kelso R7                      | 2 The Big Jetaway     |   0    |    -10   |
 | :2nd_place_medal: | 2022-03-06 | lingfield R7                  | 5 Witch Hunter        |   2.75 |    -10   |

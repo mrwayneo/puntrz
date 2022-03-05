@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-06 07:10:29 +1000  
+date: 2022-03-06 07:40:42 +1000  
 ---   
 
 
@@ -61,7 +61,7 @@ date: 2022-03-06 07:10:29 +1000
 
 |    | finish            | time                | track                     |   race |   number | name               |   odds | tipster            |
 |---:|:------------------|:--------------------|:--------------------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:            | 2022-03-06 07:30:00 | southwell                 |      8 |        4 | Auriferous         |   1.6  | vulture            |
+|  0 | --                | 2022-03-06 07:30:00 | southwell                 |      8 |        4 | Auriferous         |   1.6  | vulture            |
 |  1 | --                | 2022-03-06 03:47:00 | newbury                   |      7 |        3 | Captain Destiny    |   3.1  | overthrow          |
 |  2 | --                | 2022-03-06 03:25:00 | kelso                     |      7 |        2 | The Big Jetaway    |   2.9  | evenodds,overthrow |
 |  3 | --                | 2022-03-06 03:25:00 | kelso                     |      7 |        3 | Here We Have It    |   4.5  | vulture            |
