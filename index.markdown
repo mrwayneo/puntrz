@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 17:40:33 +1000  
+date: 2022-03-05 18:42:32 +1000  
 ---   
 
 
@@ -11,18 +11,18 @@ date: 2022-03-05 17:40:33 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      2 |       52 | 0.4  |  1.04 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      1 |       48 | 0.2  |  0.96 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      5 |      2 |       26 | 0.4  |  0.52 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      1 |       15 | 0.2  |  0.3  |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      5 |      1 |       15 | 0.2  |  0.3  |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      1 |       -9 | 0.5  | -0.45 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      2 |      -17 | 0.4  | -0.34 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      0 |      -20 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      1 |      -51 | 0.12 | -0.64 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     63 |      3 |      -68 | 0.05 | -0.11 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      0 |      -80 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      4 |      -82 | 0.21 | -0.43 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     34 |      6 |     -106 | 0.18 | -0.31 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     26 |      2 |     -227 | 0.08 | -0.87 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      5 |      -71 | 0.26 | -0.37 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     63 |      3 |      -90 | 0.05 | -0.14 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     34 |      7 |      -95 | 0.21 | -0.28 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     26 |      3 |     -216 | 0.12 | -0.83 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     37 |      3 |     -300 | 0.08 | -0.81 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     33 |      0 |     -330 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     82 |      3 |     -625 | 0.04 | -0.76 |
@@ -118,11 +118,11 @@ date: 2022-03-05 17:40:33 +1000
 | 34 | :soon:            | 2022-03-05 19:35:00 | ascot                     |      7 |        2 | Clairvoyance       |   1.65 | vulture,milkman    |
 | 35 | :soon:            | 2022-03-05 19:14:00 | geraldton                 |      5 |        4 | Django Dream       |   5    | pangea             |
 | 36 | :soon:            | 2022-03-05 18:55:00 | ascot                     |      6 |        1 | How's The Serenity |   2.45 | vulture,pangea     |
-| 37 | :soon:            | 2022-03-05 18:00:00 | geraldton                 |      3 |        3 | Sun Power          |   4.8  | looseknot          |
-| 38 | :soon:            | 2022-03-05 17:55:00 | randwick                  |     10 |        4 | Belluci Babe       |   3.5  | jmac               |
-| 39 | --                | 2022-03-05 17:37:00 | alice-springs             |      3 |        1 | Dakota Lee         |   1.2  | pangea,lago        |
+| 37 | 4.0               | 2022-03-05 18:00:00 | geraldton                 |      3 |        3 | Sun Power          |   4.8  | looseknot          |
+| 38 | :boom:            | 2022-03-05 17:55:00 | randwick                  |     10 |        4 | Belluci Babe       |   3.5  | jmac               |
+| 39 | :boom:            | 2022-03-05 17:37:00 | alice-springs             |      3 |        1 | Dakota Lee         |   1.2  | pangea,lago        |
 | 40 | :2nd_place_medal: | 2022-03-05 17:35:00 | flemington                |      9 |        1 | Gentleman Roy      |   4.8  | milkman            |
-| 41 | --                | 2022-03-05 17:35:00 | flemington                |      9 |       13 | Unique Artist      |  14    | pangea,icyhot      |
+| 41 | 8.0               | 2022-03-05 17:35:00 | flemington                |      9 |       13 | Unique Artist      |  14    | pangea,icyhot      |
 | 42 | :boom:            | 2022-03-05 17:35:00 | flemington                |      9 |       10 | Yonce              |   2.9  | milkman            |
 | 43 | :2nd_place_medal: | 2022-03-05 17:20:00 | randwick                  |      9 |        1 | Polly Grey         |   4.5  | pangea,jmac        |
 | 44 | 4.0               | 2022-03-05 17:12:00 | murray-bdge               |      8 |        6 | Getouttheway       |   7.5  | pangea             |
@@ -166,7 +166,7 @@ date: 2022-03-05 17:40:33 +1000
 | 82 | 5.0               | 2022-03-05 13:30:00 | randwick                  |      3 |        4 | Psychiatrist       |   4    | vulture,milkman    |
 | 83 | :boom:            | 2022-03-05 13:30:00 | randwick                  |      3 |        1 | Sejardan           |   2.75 | milkman            |
 | 84 | 4.0               | 2022-03-05 13:30:00 | randwick                  |      3 |        7 | Showcourt          |  11    | jmac               |
-| 85 | --                | 2022-03-05 13:19:00 | ellerslie                 |      6 |        6 | Le Villi           |   8    | milkman            |
+| 85 | 5.0               | 2022-03-05 13:19:00 | ellerslie                 |      6 |        6 | Le Villi           |   8    | milkman            |
 | 86 | :boom:            | 2022-03-05 13:19:00 | sunshine-coast-poly-track |      1 |        2 | Who Loves To Dance |   1.7  | evenodds,overthrow |
 | 87 | 5.0               | 2022-03-05 13:15:00 | newcastle                 |      1 |        1 | Read My Future     |  13    | cosmo,bob          |
 | 88 | :boom:            | 2022-03-05 13:03:00 | toowoomba                 |      2 |        1 | Capital Tower      |   2.5  | benny,milkman      |

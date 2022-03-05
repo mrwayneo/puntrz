@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-05 17:40:31 +1000  
+date: 2022-03-05 18:42:31 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 17:55             | 2022-03-05 | randwick R10         | 4 Belluci Babe       |  3.5  |    -10   |
+| :boom:            | 2022-03-05 | randwick R10         | 4 Belluci Babe       |  2.9  |     19   |
 | :2nd_place_medal: | 2022-03-05 | randwick R9          | 1 Polly Grey         |  4.5  |    -10   |
 | :2nd_place_medal: | 2022-03-05 | randwick R8          | 1 Anamoe             |  1.75 |    -10   |
 | :2nd_place_medal: | 2022-03-05 | randwick R7          | 10 Lighthouse        |  3.9  |    -10   |
