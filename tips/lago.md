@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-05 21:46:21 +1000  
+date: 2022-03-05 22:01:24 +1000  
 categories: None 
 ---   
 
@@ -184,8 +184,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-03 | awapuni R7                   | 4 I Wish I Win       |  3.3  |    -10   |
 | :2nd_place_medal: | 2021-03-31 | doomben R7                   | 7 Roman Republic     |  1.9  |    -10   |
 | :boom:            | 2021-03-29 | limerick R8                  | 10 Belle Metal       |  1.68 |      6.8 |
-| 99                | 2021-03-28 | newbury R7                   | 2 Petrossian         |  3.9  |    -10   |
 | :boom:            | 2021-03-28 | newbury R7                   | 6 Jonbon             |  1.9  |      9   |
+| 99                | 2021-03-28 | newbury R7                   | 2 Petrossian         |  3.9  |    -10   |
 | :boom:            | 2021-03-24 | launceston R5                | 6 Azara              |  2.4  |     14   |
 | 99                | 2021-03-22 | chepstow R7                  | 2 Gold Bullion       |  2.9  |    -10   |
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1                | 2 Haut En Couleurs   | 23    |    -10   |
