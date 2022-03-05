@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 15:43:43 +1000  
+date: 2022-03-05 15:59:09 +1000  
 ---   
 
 
@@ -9,19 +9,19 @@ date: 2022-03-05 15:43:43 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      2 |       52 | 0.4  |  1.04 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      1 |       48 | 0.2  |  0.96 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      1 |       15 | 0.2  |  0.3  |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      5 |      1 |       15 | 0.2  |  0.3  |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      1 |      -13 | 0.2  | -0.26 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      0 |      -20 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      1 |      -33 | 0.2  | -0.66 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |      -50 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      5 |      0 |      -50 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      0 |      -80 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      3 |     -107 | 0.16 | -0.56 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     34 |      4 |     -178 | 0.12 | -0.52 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     26 |      1 |     -243 | 0.04 | -0.93 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     34 |      3 |     -243 | 0.09 | -0.71 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     37 |      2 |     -316 | 0.05 | -0.85 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     33 |      0 |     -330 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     63 |      1 |     -594 | 0.02 | -0.94 |
@@ -139,11 +139,11 @@ date: 2022-03-05 15:43:43 +1000
 | 55 | :soon:            | 2022-03-05 16:14:00 | alice-springs             |      1 |        5 | Supreme Times      |   1.6  | evenodds,overthrow |
 | 56 | :soon:            | 2022-03-05 16:00:00 | randwick                  |      7 |        6 | Wild Planet        |  21    | cosmo,pikey        |
 | 57 | :soon:            | 2022-03-05 16:00:00 | randwick                  |      7 |       10 | Lighthouse         |   3.9  | evenodds,jmac      |
-| 58 | :soon:            | 2022-03-05 15:52:00 | murray-bdge               |      6 |        8 | Lady Dunmore       |   5    | vulture            |
-| 59 | :soon:            | 2022-03-05 15:52:00 | murray-bdge               |      6 |        5 | Zoist              |   6    | benny,icyhot       |
+| 58 | 4.0               | 2022-03-05 15:52:00 | murray-bdge               |      6 |        8 | Lady Dunmore       |   5    | vulture            |
+| 59 | :boom:            | 2022-03-05 15:52:00 | murray-bdge               |      6 |        5 | Zoist              |   6    | benny,icyhot       |
 | 60 | --                | 2022-03-05 15:40:00 | flemington                |      6 |        3 | Bankers Choice     |  31    | vulture,milkman    |
-| 61 | --                | 2022-03-05 15:40:00 | flemington                |      6 |        1 | Zaaki              |   2.2  | pangea,icyhot      |
-| 62 | --                | 2022-03-05 15:32:00 | toowoomba                 |      6 |        1 | Profit             |   3.5  | vulture            |
+| 61 | :2nd_place_medal: | 2022-03-05 15:40:00 | flemington                |      6 |        1 | Zaaki              |   2.2  | pangea,icyhot      |
+| 62 | 5.0               | 2022-03-05 15:32:00 | toowoomba                 |      6 |        1 | Profit             |   3.5  | vulture            |
 | 63 | :boom:            | 2022-03-05 15:28:00 | ascot                     |      1 |        4 | River Rubicon      |   2.62 | milkman            |
 | 64 | 4.0               | 2022-03-05 15:28:00 | ascot                     |      1 |        5 | Arcadia Grace      |   3.3  | evenodds,overthrow |
 | 65 | 4.0               | 2022-03-05 15:09:00 | sunshine-coast-poly-track |      4 |        1 | Ask Audrey         |   2.9  | overthrow          |
