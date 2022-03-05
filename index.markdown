@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 19:16:47 +1000  
+date: 2022-03-05 19:42:52 +1000  
 ---   
 
 
@@ -9,6 +9,7 @@ date: 2022-03-05 19:16:47 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     33 |      1 |      261 | 0.03 |  0.79 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      2 |       52 | 0.4  |  1.04 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      1 |       48 | 0.2  |  0.96 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      5 |      2 |       26 | 0.4  |  0.52 |
@@ -17,6 +18,7 @@ date: 2022-03-05 19:16:47 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      2 |      -17 | 0.4  | -0.34 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     82 |      4 |      -34 | 0.05 | -0.04 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      1 |      -51 | 0.12 | -0.64 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      5 |      -71 | 0.26 | -0.37 |
@@ -24,8 +26,6 @@ date: 2022-03-05 19:16:47 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     63 |      3 |      -94 | 0.05 | -0.15 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     26 |      3 |     -216 | 0.12 | -0.83 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     37 |      4 |     -280 | 0.11 | -0.76 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     33 |      0 |     -330 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     82 |      3 |     -625 | 0.04 | -0.76 |
 
 ##### Form Last 20 tips   
 
@@ -115,8 +115,8 @@ date: 2022-03-05 19:16:47 +1000
 | 31 | :soon:            | 2022-03-05 21:35:00 | turffontein               |      2 |        1 | Set To Go          |   0    | vulture            |
 | 32 | :soon:            | 2022-03-05 21:00:00 | turffontein               |      1 |        1 | Miss Cool          |   0    | vulture            |
 | 33 | :soon:            | 2022-03-05 19:48:00 | geraldton                 |      6 |        1 | Foxhood            |   4.8  | looseknot          |
-| 34 | :soon:            | 2022-03-05 19:35:00 | ascot                     |      7 |        2 | Clairvoyance       |   1.65 | vulture,milkman    |
-| 35 | --                | 2022-03-05 19:14:00 | geraldton                 |      5 |        4 | Django Dream       |   5    | pangea             |
+| 34 | 4.0               | 2022-03-05 19:35:00 | ascot                     |      7 |        2 | Clairvoyance       |   1.65 | vulture,milkman    |
+| 35 | :3rd_place_medal: | 2022-03-05 19:14:00 | geraldton                 |      5 |        4 | Django Dream       |   5    | pangea             |
 | 36 | :boom:            | 2022-03-05 18:55:00 | ascot                     |      6 |        1 | How's The Serenity |   2.45 | vulture,pangea     |
 | 37 | 4.0               | 2022-03-05 18:00:00 | geraldton                 |      3 |        3 | Sun Power          |   4.8  | looseknot          |
 | 38 | :boom:            | 2022-03-05 17:55:00 | randwick                  |     10 |        4 | Belluci Babe       |   3.5  | jmac               |
