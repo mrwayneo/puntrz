@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 13:12:27 +1000  
+date: 2022-03-05 13:58:59 +1000  
 ---   
 
 
@@ -13,18 +13,18 @@ date: 2022-03-05 13:12:27 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      1 |      -13 | 0.2  | -0.26 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      0 |      -20 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      1 |      -33 | 0.2  | -0.66 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |      -50 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      5 |      0 |      -50 | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      0 |      -50 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      0 |      -50 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      0 |      -80 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      1 |     -153 | 0.05 | -0.81 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     26 |      0 |     -260 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     34 |      1 |     -303 | 0.03 | -0.89 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      2 |     -130 | 0.11 | -0.68 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     26 |      1 |     -243 | 0.04 | -0.93 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     34 |      2 |     -288 | 0.06 | -0.85 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     37 |      2 |     -316 | 0.05 | -0.85 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     33 |      0 |     -330 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     37 |      1 |     -333 | 0.03 | -0.9  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     63 |      0 |     -630 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     63 |      1 |     -594 | 0.02 | -0.94 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     82 |      0 |     -820 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -162,13 +162,13 @@ date: 2022-03-05 13:12:27 +1000
 | 78 | :soon:            | 2022-03-05 14:05:00 | randwick                  |      4 |        4 | Mightybeel         |   3.5  | vulture            |
 | 79 | :soon:            | 2022-03-05 14:05:00 | randwick                  |      4 |        5 | Sheraz             |   6.5  | jmac               |
 | 80 | :soon:            | 2022-03-05 14:05:00 | randwick                  |      4 |        1 | Entente            |  16    | benny,pangea       |
-| 81 | :soon:            | 2022-03-05 13:38:00 | toowoomba                 |      3 |        2 | She'sgottheboom    |   1.45 | pangea             |
-| 82 | :soon:            | 2022-03-05 13:30:00 | randwick                  |      3 |        4 | Psychiatrist       |   4    | vulture,milkman    |
-| 83 | :soon:            | 2022-03-05 13:30:00 | randwick                  |      3 |        1 | Sejardan           |   2.75 | milkman            |
-| 84 | :soon:            | 2022-03-05 13:30:00 | randwick                  |      3 |        7 | Showcourt          |  11    | jmac               |
-| 85 | :soon:            | 2022-03-05 13:19:00 | ellerslie                 |      6 |        6 | Le Villi           |   8    | milkman            |
-| 86 | :soon:            | 2022-03-05 13:19:00 | sunshine-coast-poly-track |      1 |        2 | Who Loves To Dance |   1.7  | evenodds,overthrow |
-| 87 | :soon:            | 2022-03-05 13:15:00 | newcastle                 |      1 |        1 | Read My Future     |  13    | cosmo,bob          |
+| 81 | :boom:            | 2022-03-05 13:38:00 | toowoomba                 |      3 |        2 | She'sgottheboom    |   1.45 | pangea             |
+| 82 | 5.0               | 2022-03-05 13:30:00 | randwick                  |      3 |        4 | Psychiatrist       |   4    | vulture,milkman    |
+| 83 | :boom:            | 2022-03-05 13:30:00 | randwick                  |      3 |        1 | Sejardan           |   2.75 | milkman            |
+| 84 | 4.0               | 2022-03-05 13:30:00 | randwick                  |      3 |        7 | Showcourt          |  11    | jmac               |
+| 85 | --                | 2022-03-05 13:19:00 | ellerslie                 |      6 |        6 | Le Villi           |   8    | milkman            |
+| 86 | :boom:            | 2022-03-05 13:19:00 | sunshine-coast-poly-track |      1 |        2 | Who Loves To Dance |   1.7  | evenodds,overthrow |
+| 87 | 5.0               | 2022-03-05 13:15:00 | newcastle                 |      1 |        1 | Read My Future     |  13    | cosmo,bob          |
 | 88 | :boom:            | 2022-03-05 13:03:00 | toowoomba                 |      2 |        1 | Capital Tower      |   2.5  | benny,milkman      |
 | 89 | 5.0               | 2022-03-05 12:55:00 | randwick                  |      2 |        8 | Stuck In A Dream   |  81    | vulture            |
 | 90 | :2nd_place_medal: | 2022-03-05 12:55:00 | randwick                  |      2 |        6 | Dashing Legend     |  16    | pikey              |
