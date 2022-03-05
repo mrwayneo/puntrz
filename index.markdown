@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 22:01:25 +1000  
+date: 2022-03-05 22:16:53 +1000  
 ---   
 
 
@@ -25,7 +25,7 @@ date: 2022-03-05 22:01:25 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      5 |      -71 | 0.26 | -0.37 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     34 |      8 |      -75 | 0.24 | -0.22 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     26 |      3 |     -216 | 0.12 | -0.83 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     37 |      5 |     -250 | 0.14 | -0.68 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     37 |      5 |     -251 | 0.14 | -0.68 |
 
 ##### Form Last 20 tips   
 
@@ -111,7 +111,7 @@ date: 2022-03-05 22:01:25 +1000
 | 27 | :soon:            | 2022-03-05 23:20:00 | turffontein               |      5 |       10 | Freed From Desire  |   0    | vulture,milkman    |
 | 28 | :soon:            | 2022-03-05 23:20:00 | turffontein               |      5 |        5 | Al Muthana         |   0    | pangea             |
 | 29 | :soon:            | 2022-03-05 22:45:00 | turffontein               |      4 |        9 | Chyavana           |   0    | vulture            |
-| 30 | :soon:            | 2022-03-05 22:10:00 | turffontein               |      3 |        9 | Mayenne            |   0    | vulture            |
+| 30 | --                | 2022-03-05 22:10:00 | turffontein               |      3 |        9 | Mayenne            |   0    | vulture            |
 | 31 | :boom:            | 2022-03-05 21:35:00 | turffontein               |      2 |        1 | Set To Go          |   0    | vulture            |
 | 32 | :2nd_place_medal: | 2022-03-05 21:00:00 | turffontein               |      1 |        1 | Miss Cool          |   0    | vulture            |
 | 33 | 6.0               | 2022-03-05 19:48:00 | geraldton                 |      6 |        1 | Foxhood            |   4.8  | looseknot          |
