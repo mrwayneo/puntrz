@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-05 12:58:13 +1000  
+date: 2022-03-05 13:12:26 +1000  
 categories: None 
 ---   
 
@@ -22,7 +22,7 @@ categories: None
 | 14:40             | 2022-03-05 | randwick R5          | 1 Nature Strip       |  1.55 |    -10   |
 | 14:05             | 2022-03-05 | randwick R4          | 5 Sheraz             |  6.5  |    -10   |
 | 13:30             | 2022-03-05 | randwick R3          | 7 Showcourt          | 11    |    -10   |
-| 0                 | 2022-03-05 | randwick R2          | 7 Greece             |  0    |    -10   |
+| 6                 | 2022-03-05 | randwick R2          | 7 Greece             |  3.2  |    -10   |
 | 0                 | 2022-03-02 | canterbury R8        | 13 Roots             |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R8        | 13 Roots             |  0    |    -10   |
 | 0                 | 2022-03-02 | canterbury R7        | 1 Jerle              |  0    |    -10   |
