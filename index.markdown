@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 21:01:08 +1000  
+date: 2022-03-05 21:16:18 +1000  
 ---   
 
 
@@ -10,6 +10,7 @@ date: 2022-03-05 21:01:08 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     33 |      1 |      261 | 0.03 |  0.79 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     63 |      4 |      136 | 0.06 |  0.22 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      2 |       52 | 0.4  |  1.04 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      1 |       48 | 0.2  |  0.96 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      5 |      2 |       26 | 0.4  |  0.52 |
@@ -23,7 +24,6 @@ date: 2022-03-05 21:01:08 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      5 |      -71 | 0.26 | -0.37 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     34 |      8 |      -75 | 0.24 | -0.22 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     63 |      3 |      -94 | 0.05 | -0.15 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     26 |      3 |     -216 | 0.12 | -0.83 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     37 |      4 |     -280 | 0.11 | -0.76 |
 
@@ -113,7 +113,7 @@ date: 2022-03-05 21:01:08 +1000
 | 29 | :soon:            | 2022-03-05 22:45:00 | turffontein               |      4 |        9 | Chyavana           |   0    | vulture            |
 | 30 | :soon:            | 2022-03-05 22:10:00 | turffontein               |      3 |        9 | Mayenne            |   0    | vulture            |
 | 31 | :soon:            | 2022-03-05 21:35:00 | turffontein               |      2 |        1 | Set To Go          |   0    | vulture            |
-| 32 | --                | 2022-03-05 21:00:00 | turffontein               |      1 |        1 | Miss Cool          |   0    | vulture            |
+| 32 | :2nd_place_medal: | 2022-03-05 21:00:00 | turffontein               |      1 |        1 | Miss Cool          |   0    | vulture            |
 | 33 | 6.0               | 2022-03-05 19:48:00 | geraldton                 |      6 |        1 | Foxhood            |   4.8  | looseknot          |
 | 34 | 4.0               | 2022-03-05 19:35:00 | ascot                     |      7 |        2 | Clairvoyance       |   1.65 | vulture,milkman    |
 | 35 | :3rd_place_medal: | 2022-03-05 19:14:00 | geraldton                 |      5 |        4 | Django Dream       |   5    | pangea             |
