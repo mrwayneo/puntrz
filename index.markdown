@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 16:56:18 +1000  
+date: 2022-03-05 17:10:37 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-03-05 16:56:18 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     34 |      6 |     -106 | 0.18 | -0.31 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      3 |     -107 | 0.16 | -0.56 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     26 |      2 |     -227 | 0.08 | -0.87 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     63 |      2 |     -232 | 0.03 | -0.37 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     63 |      2 |     -254 | 0.03 | -0.4  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     37 |      3 |     -300 | 0.08 | -0.81 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     33 |      0 |     -330 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     82 |      3 |     -625 | 0.04 | -0.76 |
@@ -126,14 +126,14 @@ date: 2022-03-05 16:56:18 +1000
 | 42 | :soon:            | 2022-03-05 17:35:00 | flemington                |      9 |       10 | Yonce              |   2.9  | milkman            |
 | 43 | :soon:            | 2022-03-05 17:20:00 | randwick                  |      9 |        1 | Polly Grey         |   4.5  | pangea,jmac        |
 | 44 | :soon:            | 2022-03-05 17:12:00 | murray-bdge               |      8 |        6 | Getouttheway       |   7.5  | pangea             |
-| 45 | :soon:            | 2022-03-05 17:00:00 | flemington                |      8 |       11 | All Banter         |   9    | pangea             |
-| 46 | :soon:            | 2022-03-05 17:00:00 | flemington                |      8 |        8 | Enthaar            |   7    | overthrow          |
-| 47 | :soon:            | 2022-03-05 17:00:00 | flemington                |      8 |        7 | Mileva             |   6.5  | pangea             |
+| 45 | --                | 2022-03-05 17:00:00 | flemington                |      8 |       11 | All Banter         |   9    | pangea             |
+| 46 | --                | 2022-03-05 17:00:00 | flemington                |      8 |        8 | Enthaar            |   7    | overthrow          |
+| 47 | --                | 2022-03-05 17:00:00 | flemington                |      8 |        7 | Mileva             |   6.5  | pangea             |
 | 48 | :boom:            | 2022-03-05 16:48:00 | ascot                     |      3 |        1 | Native Chimes      |   5.5  | pangea             |
 | 49 | :2nd_place_medal: | 2022-03-05 16:40:00 | randwick                  |      8 |        1 | Anamoe             |   1.75 | jmac               |
 | 50 | :3rd_place_medal: | 2022-03-05 16:40:00 | randwick                  |      8 |        3 | Hilal              |   5.5  | pikey              |
-| 51 | --                | 2022-03-05 16:40:00 | randwick                  |      8 |        7 | Military Expert    |  22    | vulture            |
-| 52 | --                | 2022-03-05 16:40:00 | randwick                  |      8 |        4 | Coastwatch         |  16    | vulture            |
+| 51 | 5.0               | 2022-03-05 16:40:00 | randwick                  |      8 |        7 | Military Expert    |  22    | vulture            |
+| 52 | 7.0               | 2022-03-05 16:40:00 | randwick                  |      8 |        4 | Coastwatch         |  16    | vulture            |
 | 53 | 10.0              | 2022-03-05 16:32:00 | murray-bdge               |      7 |        4 | Quietly Discreet   |   2.45 | vulture,pangea     |
 | 54 | :3rd_place_medal: | 2022-03-05 16:14:00 | alice-springs             |      1 |        2 | Desert Lass        |   9.5  | benny,blackshadow  |
 | 55 | :boom:            | 2022-03-05 16:14:00 | alice-springs             |      1 |        5 | Supreme Times      |   1.6  | evenodds,overthrow |
