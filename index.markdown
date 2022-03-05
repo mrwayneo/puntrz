@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 12:42:29 +1000  
+date: 2022-03-05 12:58:15 +1000  
 ---   
 
 
@@ -170,14 +170,14 @@ date: 2022-03-05 12:42:29 +1000
 | 86 | :soon:            | 2022-03-05 13:19:00 | sunshine-coast-poly-track |      1 |        2 | Who Loves To Dance |   1.7  | evenodds,overthrow |
 | 87 | :soon:            | 2022-03-05 13:15:00 | newcastle                 |      1 |        1 | Read My Future     |  13    | cosmo,bob          |
 | 88 | :soon:            | 2022-03-05 13:03:00 | toowoomba                 |      2 |        1 | Capital Tower      |   2.5  | benny,milkman      |
-| 89 | :soon:            | 2022-03-05 12:55:00 | randwick                  |      2 |        8 | Stuck In A Dream   |  81    | vulture            |
-| 90 | :soon:            | 2022-03-05 12:55:00 | randwick                  |      2 |        6 | Dashing Legend     |  16    | pikey              |
-| 91 | :soon:            | 2022-03-05 12:55:00 | randwick                  |      2 |        1 | Russian Conquest   |   1.85 | milkman            |
-| 92 | :soon:            | 2022-03-05 12:55:00 | randwick                  |      2 |        7 | Greece             |   3.2  | overthrow,jmac     |
+| 89 | --                | 2022-03-05 12:55:00 | randwick                  |      2 |        8 | Stuck In A Dream   |  81    | vulture            |
+| 90 | --                | 2022-03-05 12:55:00 | randwick                  |      2 |        6 | Dashing Legend     |  16    | pikey              |
+| 91 | --                | 2022-03-05 12:55:00 | randwick                  |      2 |        1 | Russian Conquest   |   1.85 | milkman            |
+| 92 | --                | 2022-03-05 12:55:00 | randwick                  |      2 |        7 | Greece             |   3.2  | overthrow,jmac     |
 | 93 | --                | 2022-03-05 12:35:00 | flemington                |      1 |        2 | Superset           |   9    | milkman            |
 | 94 | --                | 2022-03-05 12:35:00 | flemington                |      1 |        1 | Mumbai Jewel       |   4    | vulture            |
 | 95 | 4.0               | 2022-03-05 12:28:00 | wingatui                  |      5 |        2 | Kaareraway         |   3.7  | vulture            |
-| 96 | --                | 2022-03-05 12:20:00 | randwick                  |      1 |       13 | Clear Blonde       |  26    | pikey              |
+| 96 | 5.0               | 2022-03-05 12:20:00 | randwick                  |      1 |       13 | Clear Blonde       |  26    | pikey              |
 | 97 | :2nd_place_medal: | 2022-03-05 12:08:00 | ellerslie                 |      4 |        4 | I Wish I Win       |   3.9  | vulture            |
 | 98 | --                | 2022-03-05 11:50:00 | wingatui                  |      4 |        6 | Chokito            |   4.5  | vulture,looseknot  |
 | 99 | :2nd_place_medal: | 2022-03-05 10:40:00 | wingatui                  |      2 |        5 | Mayor Of Norwood   |   5    | looseknot          |
