@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 13:58:59 +1000  
+date: 2022-03-05 14:23:53 +1000  
 ---   
 
 
@@ -9,6 +9,7 @@ date: 2022-03-05 13:58:59 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      1 |       48 | 0.2  |  0.96 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      1 |      -13 | 0.2  | -0.26 |
@@ -16,7 +17,6 @@ date: 2022-03-05 13:58:59 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      1 |      -33 | 0.2  | -0.66 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |      -50 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      5 |      0 |      -50 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      0 |      -50 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      8 |      0 |      -80 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     19 |      2 |     -130 | 0.11 | -0.68 |
@@ -154,14 +154,14 @@ date: 2022-03-05 13:58:59 +1000
 | 70 | :soon:            | 2022-03-05 14:40:00 | randwick                  |      5 |        1 | Nature Strip       |   1.55 | vulture,jmac       |
 | 71 | :soon:            | 2022-03-05 14:32:00 | murray-bdge               |      4 |        1 | Call Me Shamus     |   2.8  | vulture            |
 | 72 | :soon:            | 2022-03-05 14:25:00 | newcastle                 |      3 |        8 | In The Blink       |   8    | looseknot          |
-| 73 | :soon:            | 2022-03-05 14:20:00 | flemington                |      4 |        5 | Annavisto          |   4.6  | pangea             |
-| 74 | :soon:            | 2022-03-05 14:20:00 | flemington                |      4 |        3 | Sirileo Miss       |   3.5  | pangea,milkman     |
-| 75 | :soon:            | 2022-03-05 14:20:00 | flemington                |      4 |        1 | Quantum Mechanic   |  21    | vulture,pangea     |
-| 76 | :soon:            | 2022-03-05 14:13:00 | toowoomba                 |      4 |        4 | Humbolt Current    |   8    | pangea             |
-| 77 | :soon:            | 2022-03-05 14:05:00 | randwick                  |      4 |        7 | Zeyrek             |   8    | pikey              |
-| 78 | :soon:            | 2022-03-05 14:05:00 | randwick                  |      4 |        4 | Mightybeel         |   3.5  | vulture            |
-| 79 | :soon:            | 2022-03-05 14:05:00 | randwick                  |      4 |        5 | Sheraz             |   6.5  | jmac               |
-| 80 | :soon:            | 2022-03-05 14:05:00 | randwick                  |      4 |        1 | Entente            |  16    | benny,pangea       |
+| 73 | --                | 2022-03-05 14:20:00 | flemington                |      4 |        5 | Annavisto          |   4.6  | pangea             |
+| 74 | --                | 2022-03-05 14:20:00 | flemington                |      4 |        3 | Sirileo Miss       |   3.5  | pangea,milkman     |
+| 75 | --                | 2022-03-05 14:20:00 | flemington                |      4 |        1 | Quantum Mechanic   |  21    | vulture,pangea     |
+| 76 | --                | 2022-03-05 14:13:00 | toowoomba                 |      4 |        4 | Humbolt Current    |   8    | pangea             |
+| 77 | :boom:            | 2022-03-05 14:05:00 | randwick                  |      4 |        7 | Zeyrek             |   8    | pikey              |
+| 78 | 6.0               | 2022-03-05 14:05:00 | randwick                  |      4 |        4 | Mightybeel         |   3.5  | vulture            |
+| 79 | 4.0               | 2022-03-05 14:05:00 | randwick                  |      4 |        5 | Sheraz             |   6.5  | jmac               |
+| 80 | 10.0              | 2022-03-05 14:05:00 | randwick                  |      4 |        1 | Entente            |  16    | benny,pangea       |
 | 81 | :boom:            | 2022-03-05 13:38:00 | toowoomba                 |      3 |        2 | She'sgottheboom    |   1.45 | pangea             |
 | 82 | 5.0               | 2022-03-05 13:30:00 | randwick                  |      3 |        4 | Psychiatrist       |   4    | vulture,milkman    |
 | 83 | :boom:            | 2022-03-05 13:30:00 | randwick                  |      3 |        1 | Sejardan           |   2.75 | milkman            |
