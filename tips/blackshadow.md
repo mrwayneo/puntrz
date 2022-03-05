@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-03-05 21:43:26 +1000  
+date: 2022-03-05 21:46:15 +1000  
 categories: None 
 ---   
 
@@ -97,8 +97,8 @@ categories: None
 | 6                 | 2022-01-15 | ascot R5                      | 2 Tinsnip             |  7    |    -10   |
 | 7                 | 2022-01-15 | ascot R3                      | 4 Fiery Water         |  5    |    -10   |
 | :boom:            | 2022-01-15 | murray-bdge R7                | 12 Night Passage      |  4.1  |     31   |
-| :3rd_place_medal: | 2022-01-15 | gold-coast R5                 | 6 Away Game           |  3.2  |    -10   |
 | 13                | 2022-01-15 | gold-coast R5                 | 3 Roheryn             | 12    |    -10   |
+| :3rd_place_medal: | 2022-01-15 | gold-coast R5                 | 6 Away Game           |  3.2  |    -10   |
 | :boom:            | 2022-01-15 | murray-bdge R5                | 7 Resurge             |  4.7  |     37   |
 | 6                 | 2022-01-14 | launceston R4                 | 7 Our Shinkansen      |  2.7  |    -10   |
 | :2nd_place_medal: | 2022-01-12 | belmont R7                    | 5 Off Wego            |  4    |    -10   |
@@ -154,8 +154,8 @@ categories: None
 | 4                 | 2021-12-12 | sha-tin R8                    | 8 Dubai Honour        |  0    |    -10   |
 | 5                 | 2021-12-12 | sha-tin R7                    | 3 Indy Champ          |  0    |    -10   |
 | 8                 | 2021-12-12 | sha-tin R5                    | 3 Danon Smash         |  0    |    -10   |
-| :boom:            | 2021-12-12 | sha-tin R4                    | 2 Glory Vase          |  1.8  |      8   |
 | :2nd_place_medal: | 2021-12-12 | sha-tin R4                    | 1 Pyledriver          |  4.8  |    -10   |
+| :boom:            | 2021-12-12 | sha-tin R4                    | 2 Glory Vase          |  1.8  |      8   |
 | :3rd_place_medal: | 2021-12-11 | ascot R8                      | 14 Stafford's Lad     | 14    |    -10   |
 | 5                 | 2021-12-11 | ascot R8                      | 13 Pure Devotion      |  2.7  |    -10   |
 | 6                 | 2021-12-11 | ascot R6                      | 5 New Amsterdam       |  9.5  |    -10   |
@@ -463,8 +463,8 @@ categories: None
 | :3rd_place_medal: | 2021-07-02 | perth R5                      | 2 Ocean Cove          |  8    |    -10   |
 | :3rd_place_medal: | 2021-06-30 | warwick-farm R7               | 16 Promise Of Success |  2.1  |    -10   |
 | :2nd_place_medal: | 2021-06-27 | devonport-synthetic R9        | 1 Lesnar              |  3.1  |    -10   |
-| 5                 | 2021-06-27 | devonport-synthetic R6        | 1 Rising Hsiang       |  6.6  |    -10   |
 | :2nd_place_medal: | 2021-06-27 | devonport-synthetic R6        | 2 Sh'bourne Rebel     | 14    |    -10   |
+| 5                 | 2021-06-27 | devonport-synthetic R6        | 1 Rising Hsiang       |  6.6  |    -10   |
 | :2nd_place_medal: | 2021-06-26 | belmont R9                    | 10 Bright Diamond     |  2.35 |    -10   |
 | 7                 | 2021-06-26 | belmont R8                    | 9 Leading Girl        |  3.3  |    -10   |
 | :3rd_place_medal: | 2021-06-26 | belmont R4                    | 7 Secret Plan         |  2.4  |    -10   |
@@ -506,8 +506,8 @@ categories: None
 | 4                 | 2021-05-29 | belmont R9                    | 5 Battle Storm        |  4    |    -10   |
 | :boom:            | 2021-05-29 | belmont R7                    | 2 Leading Girl        |  2.7  |     17   |
 | 4                 | 2021-05-29 | darwin R3                     | 2 Count of Essex      |  4.25 |    -10   |
-| 7                 | 2021-05-29 | belmont R4                    | 3 Mystical View       | 14    |    -10   |
 | :2nd_place_medal: | 2021-05-29 | belmont R4                    | 6 Devoted Star        |  9    |    -10   |
+| 7                 | 2021-05-29 | belmont R4                    | 3 Mystical View       | 14    |    -10   |
 | :3rd_place_medal: | 2021-05-29 | eagle-farm R8                 | 11 Signore Fox        | 51    |    -10   |
 | :boom:            | 2021-05-29 | darwin R2                     | 2 Captain Hedderwick  |  2.5  |     15   |
 | :boom:            | 2021-05-29 | darwin R1                     | 7 The Auditor         | 12.5  |    115   |
@@ -592,8 +592,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-18 | hobart R4                     | 4 Judge Burns         |  8.5  |    -10   |
 | 7                 | 2021-04-17 | ascot R9                      | 3 Amelia's Contraire  |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-17 | randwick R10                  | 3 Entriviere          |  3.3  |    -10   |
-| 5                 | 2021-04-17 | caulfield R8                  | 3 How Womantic        |  4.2  |    -10   |
 | 8                 | 2021-04-17 | caulfield R8                  | 2 Yulong January      | 26    |    -10   |
+| 5                 | 2021-04-17 | caulfield R8                  | 3 How Womantic        |  4.2  |    -10   |
 | :2nd_place_medal: | 2021-04-17 | randwick R6                   | 9 Isotope             |  3.3  |    -10   |
 | :boom:            | 2021-04-17 | randwick R6                   | 1 Wild Ruler          |  5.7  |     47   |
 | :3rd_place_medal: | 2021-04-17 | alice-springs R2              | 4 The Captain         |  1.55 |    -10   |
@@ -797,8 +797,8 @@ categories: None
 | :boom:            | 2020-10-24 | doomben R1                    | 6 Niedorp             |  1.3  |      3   |
 | :boom:            | 2020-10-23 | launceston R6                 | 1 Galenus             |  2.1  |     11   |
 | :2nd_place_medal: | 2020-10-23 | launceston R5                 | 5 Ivoryman            |  7    |    -10   |
-| :3rd_place_medal: | 2020-10-23 | launceston R1                 | 4 Sh'bourne Star      | 13    |    -10   |
 | :2nd_place_medal: | 2020-10-23 | launceston R1                 | 3 Sir Simon           |  1.85 |    -10   |
+| :3rd_place_medal: | 2020-10-23 | launceston R1                 | 4 Sh'bourne Star      | 13    |    -10   |
 | 6                 | 2020-10-22 | rockhampton R6                | 1 Barachiel           |  4.6  |    -10   |
 | 99                | 2020-10-19 | kempton R4                    | 3 Darling Maltaix     |  2.75 |    -10   |
 | 99                | 2020-10-18 | royal-ascot R4                | 1 Century Dream       | 19    |    -10   |
