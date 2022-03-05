@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-05 14:39:17 +1000  
+date: 2022-03-05 14:54:16 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 17:20             | 2022-03-05 | randwick R9          | 1 Polly Grey         |  4.5  |    -10   |
 | 16:40             | 2022-03-05 | randwick R8          | 1 Anamoe             |  1.75 |    -10   |
 | 16:00             | 2022-03-05 | randwick R7          | 10 Lighthouse        |  3.9  |    -10   |
-| 14:40             | 2022-03-05 | randwick R5          | 1 Nature Strip       |  1.55 |    -10   |
+| :3rd_place_medal: | 2022-03-05 | randwick R5          | 1 Nature Strip       |  1.55 |    -10   |
 | 4                 | 2022-03-05 | randwick R4          | 5 Sheraz             |  6.5  |    -10   |
 | 4                 | 2022-03-05 | randwick R3          | 7 Showcourt          | 11    |    -10   |
 | 6                 | 2022-03-05 | randwick R2          | 7 Greece             |  3.2  |    -10   |

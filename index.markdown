@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 14:39:19 +1000  
+date: 2022-03-05 14:54:17 +1000  
 ---   
 
 
@@ -151,13 +151,13 @@ date: 2022-03-05 14:39:19 +1000
 | 67 | :soon:            | 2022-03-05 15:00:00 | flemington                |      5 |       12 | Zetarita           |  71    | cosmo,bluey        |
 | 68 | :soon:            | 2022-03-05 15:00:00 | flemington                |      5 |       10 | Spellcatcher       |  14    | pangea             |
 | 69 | :soon:            | 2022-03-05 15:00:00 | flemington                |      5 |        4 | Sneaky Five        |   8.5  | pangea,milkman     |
-| 70 | :soon:            | 2022-03-05 14:40:00 | randwick                  |      5 |        1 | Nature Strip       |   1.55 | vulture,jmac       |
-| 71 | --                | 2022-03-05 14:32:00 | murray-bdge               |      4 |        1 | Call Me Shamus     |   2.8  | vulture            |
+| 70 | :3rd_place_medal: | 2022-03-05 14:40:00 | randwick                  |      5 |        1 | Nature Strip       |   1.55 | vulture,jmac       |
+| 71 | 10.0              | 2022-03-05 14:32:00 | murray-bdge               |      4 |        1 | Call Me Shamus     |   2.8  | vulture            |
 | 72 | :2nd_place_medal: | 2022-03-05 14:25:00 | newcastle                 |      3 |        8 | In The Blink       |   8    | looseknot          |
 | 73 | :boom:            | 2022-03-05 14:20:00 | flemington                |      4 |        5 | Annavisto          |   4.6  | pangea             |
-| 74 | --                | 2022-03-05 14:20:00 | flemington                |      4 |        3 | Sirileo Miss       |   3.5  | pangea,milkman     |
+| 74 | 7.0               | 2022-03-05 14:20:00 | flemington                |      4 |        3 | Sirileo Miss       |   3.5  | pangea,milkman     |
 | 75 | 4.0               | 2022-03-05 14:20:00 | flemington                |      4 |        1 | Quantum Mechanic   |  21    | vulture,pangea     |
-| 76 | --                | 2022-03-05 14:13:00 | toowoomba                 |      4 |        4 | Humbolt Current    |   8    | pangea             |
+| 76 | 8.0               | 2022-03-05 14:13:00 | toowoomba                 |      4 |        4 | Humbolt Current    |   8    | pangea             |
 | 77 | :boom:            | 2022-03-05 14:05:00 | randwick                  |      4 |        7 | Zeyrek             |   8    | pikey              |
 | 78 | 6.0               | 2022-03-05 14:05:00 | randwick                  |      4 |        4 | Mightybeel         |   3.5  | vulture            |
 | 79 | 4.0               | 2022-03-05 14:05:00 | randwick                  |      4 |        5 | Sheraz             |   6.5  | jmac               |
