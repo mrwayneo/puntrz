@@ -1,11 +1,25 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-06 07:55:49 +1000  
+date: 2022-03-06 08:10:47 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      2 |      0 |      -20 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      3 |      0 |      -30 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      5 |      0 |      -50 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      0 |      -60 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      6 |      0 |      -60 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      8 |      0 |      -80 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     45 |      0 |     -450 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     55 |      0 |     -550 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,105 +73,26 @@ date: 2022-03-06 07:55:49 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6106 |    811 | -13608.8 | 0.13 | -0.22 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7816 |    361 | -23935.5 | 0.05 | -0.31 |
 
-|    | finish            | time                | track                     |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:--------------------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | --                | 2022-03-06 07:30:00 | southwell                 |      8 |        4 | Auriferous         |   1.6  | vulture            |
-|  1 | --                | 2022-03-06 03:47:00 | newbury                   |      7 |        3 | Captain Destiny    |   3.1  | overthrow          |
-|  2 | --                | 2022-03-06 03:25:00 | kelso                     |      7 |        2 | The Big Jetaway    |   2.9  | evenodds,overthrow |
-|  3 | --                | 2022-03-06 03:25:00 | kelso                     |      7 |        3 | Here We Have It    |   4.5  | vulture            |
-|  4 | :3rd_place_medal: | 2022-03-06 03:19:00 | lingfield                 |      7 |        1 | Anthem National    |   9.5  | vulture            |
-|  5 | :2nd_place_medal: | 2022-03-06 03:19:00 | lingfield                 |      7 |        5 | Witch Hunter       |   2.75 | vulture            |
-|  6 | --                | 2022-03-06 03:12:00 | newbury                   |      6 |        2 | Mont Des Avaloirs  |  10    | overthrow          |
-|  7 | :boom:            | 2022-03-06 03:12:00 | newbury                   |      6 |        5 | Fuji Flight        |   3.9  | vulture            |
-|  8 | --                | 2022-03-06 02:43:00 | kelso                     |      6 |        2 | Heartbreak Kid     |   6    | overthrow          |
-|  9 | --                | 2022-03-06 02:15:00 | kelso                     |      5 |        1 | Buveur D'Air       |   7    | overthrow          |
-| 10 | :3rd_place_medal: | 2022-03-06 02:15:00 | kelso                     |      5 |        4 | Faivoir            |   9.5  | overthrow,milkman  |
-| 11 | --                | 2022-03-06 02:15:00 | kelso                     |      5 |        8 | Balko Saint        |  12    | pangea,overthrow   |
-| 12 | :3rd_place_medal: | 2022-03-06 02:02:00 | newbury                   |      4 |        1 | Wild Max           |   8.5  | overthrow          |
-| 13 | :boom:            | 2022-03-06 01:45:00 | turffontein               |      9 |        6 | Shangani           |   0    | pangea,icyhot      |
-| 14 | :boom:            | 2022-03-06 01:40:00 | kelso                     |      4 |        1 | Nuts Well          |  15    | overthrow          |
-| 15 | 4.0               | 2022-03-06 01:27:00 | newbury                   |      3 |        1 | Mark Of Gold       |   4.5  | vulture            |
-| 16 | :2nd_place_medal: | 2022-03-06 01:27:00 | newbury                   |      3 |        8 | Irish Hill         |   4.4  | overthrow          |
-| 17 | --                | 2022-03-06 01:20:00 | doncaster                 |      2 |        5 | Holly Hartingo     |   5.5  | milkman            |
-| 18 | :boom:            | 2022-03-06 01:15:00 | turffontein               |      8 |       12 | Pin Up             |   0    | vulture,pangea     |
-| 19 | --                | 2022-03-06 01:05:00 | kelso                     |      3 |        1 | Wilde About Oscar  |   6    | overthrow          |
-| 20 | :2nd_place_medal: | 2022-03-06 00:50:00 | newbury                   |      2 |        7 | Tamaroc Du Mathan  |   6    | overthrow          |
-| 21 | :2nd_place_medal: | 2022-03-06 00:40:00 | turffontein               |      7 |        1 | Safe Passage       |   3.4  | pangea             |
-| 22 | --                | 2022-03-06 00:32:00 | kelso                     |      2 |        8 | Richmond Lake      |   3.75 | pangea,blackshadow |
-| 23 | 4.0               | 2022-03-06 00:32:00 | kelso                     |      2 |        5 | Honneur D'Ajonc    |  15    | pangea,overthrow   |
-| 24 | --                | 2022-03-06 00:32:00 | kelso                     |      2 |        9 | Sholokjack         |   7    | overthrow,lago     |
-| 25 | :2nd_place_medal: | 2022-03-05 23:59:00 | turffontein               |      6 |        3 | Sprinkles          |   7.5  | vulture,milkman    |
-| 26 | :2nd_place_medal: | 2022-03-05 23:49:00 | lingfield                 |      1 |        3 | Salonica           |   5.5  | looseknot          |
-| 27 | :2nd_place_medal: | 2022-03-05 23:20:00 | turffontein               |      5 |       10 | Freed From Desire  |   0    | vulture,milkman    |
-| 28 | :boom:            | 2022-03-05 23:20:00 | turffontein               |      5 |        5 | Al Muthana         |   0    | pangea             |
-| 29 | :boom:            | 2022-03-05 22:45:00 | turffontein               |      4 |        9 | Chyavana           |   0    | vulture            |
-| 30 | 4.0               | 2022-03-05 22:10:00 | turffontein               |      3 |        9 | Mayenne            |   0    | vulture            |
-| 31 | :boom:            | 2022-03-05 21:35:00 | turffontein               |      2 |        1 | Set To Go          |   0    | vulture            |
-| 32 | :2nd_place_medal: | 2022-03-05 21:00:00 | turffontein               |      1 |        1 | Miss Cool          |   0    | vulture            |
-| 33 | 6.0               | 2022-03-05 19:48:00 | geraldton                 |      6 |        1 | Foxhood            |   4.8  | looseknot          |
-| 34 | 4.0               | 2022-03-05 19:35:00 | ascot                     |      7 |        2 | Clairvoyance       |   1.65 | vulture,milkman    |
-| 35 | :3rd_place_medal: | 2022-03-05 19:14:00 | geraldton                 |      5 |        4 | Django Dream       |   5    | pangea             |
-| 36 | :boom:            | 2022-03-05 18:55:00 | ascot                     |      6 |        1 | How's The Serenity |   2.45 | vulture,pangea     |
-| 37 | 4.0               | 2022-03-05 18:00:00 | geraldton                 |      3 |        3 | Sun Power          |   4.8  | looseknot          |
-| 38 | :boom:            | 2022-03-05 17:55:00 | randwick                  |     10 |        4 | Belluci Babe       |   3.5  | jmac               |
-| 39 | :boom:            | 2022-03-05 17:37:00 | alice-springs             |      3 |        1 | Dakota Lee         |   1.2  | pangea,lago        |
-| 40 | :2nd_place_medal: | 2022-03-05 17:35:00 | flemington                |      9 |        1 | Gentleman Roy      |   4.8  | milkman            |
-| 41 | 8.0               | 2022-03-05 17:35:00 | flemington                |      9 |       13 | Unique Artist      |  14    | pangea,icyhot      |
-| 42 | :boom:            | 2022-03-05 17:35:00 | flemington                |      9 |       10 | Yonce              |   2.9  | milkman            |
-| 43 | :2nd_place_medal: | 2022-03-05 17:20:00 | randwick                  |      9 |        1 | Polly Grey         |   4.5  | pangea,jmac        |
-| 44 | 4.0               | 2022-03-05 17:12:00 | murray-bdge               |      8 |        6 | Getouttheway       |   7.5  | pangea             |
-| 45 | 6.0               | 2022-03-05 17:00:00 | flemington                |      8 |       11 | All Banter         |   9    | pangea             |
-| 46 | 12.0              | 2022-03-05 17:00:00 | flemington                |      8 |        8 | Enthaar            |   7    | overthrow          |
-| 47 | 7.0               | 2022-03-05 17:00:00 | flemington                |      8 |        7 | Mileva             |   6.5  | pangea             |
-| 48 | :boom:            | 2022-03-05 16:48:00 | ascot                     |      3 |        1 | Native Chimes      |   5.5  | pangea             |
-| 49 | :2nd_place_medal: | 2022-03-05 16:40:00 | randwick                  |      8 |        1 | Anamoe             |   1.75 | jmac               |
-| 50 | :3rd_place_medal: | 2022-03-05 16:40:00 | randwick                  |      8 |        3 | Hilal              |   5.5  | pikey              |
-| 51 | 5.0               | 2022-03-05 16:40:00 | randwick                  |      8 |        7 | Military Expert    |  22    | vulture            |
-| 52 | 7.0               | 2022-03-05 16:40:00 | randwick                  |      8 |        4 | Coastwatch         |  16    | vulture            |
-| 53 | 10.0              | 2022-03-05 16:32:00 | murray-bdge               |      7 |        4 | Quietly Discreet   |   2.45 | vulture,pangea     |
-| 54 | :3rd_place_medal: | 2022-03-05 16:14:00 | alice-springs             |      1 |        2 | Desert Lass        |   9.5  | benny,blackshadow  |
-| 55 | :boom:            | 2022-03-05 16:14:00 | alice-springs             |      1 |        5 | Supreme Times      |   1.6  | evenodds,overthrow |
-| 56 | 8.0               | 2022-03-05 16:00:00 | randwick                  |      7 |        6 | Wild Planet        |  21    | cosmo,pikey        |
-| 57 | :2nd_place_medal: | 2022-03-05 16:00:00 | randwick                  |      7 |       10 | Lighthouse         |   3.9  | evenodds,jmac      |
-| 58 | 4.0               | 2022-03-05 15:52:00 | murray-bdge               |      6 |        8 | Lady Dunmore       |   5    | vulture            |
-| 59 | :boom:            | 2022-03-05 15:52:00 | murray-bdge               |      6 |        5 | Zoist              |   6    | benny,icyhot       |
-| 60 | 5.0               | 2022-03-05 15:40:00 | flemington                |      6 |        3 | Bankers Choice     |  31    | vulture,milkman    |
-| 61 | :2nd_place_medal: | 2022-03-05 15:40:00 | flemington                |      6 |        1 | Zaaki              |   2.2  | pangea,icyhot      |
-| 62 | 5.0               | 2022-03-05 15:32:00 | toowoomba                 |      6 |        1 | Profit             |   3.5  | vulture            |
-| 63 | :boom:            | 2022-03-05 15:28:00 | ascot                     |      1 |        4 | River Rubicon      |   2.62 | milkman            |
-| 64 | 4.0               | 2022-03-05 15:28:00 | ascot                     |      1 |        5 | Arcadia Grace      |   3.3  | evenodds,overthrow |
-| 65 | 4.0               | 2022-03-05 15:09:00 | sunshine-coast-poly-track |      4 |        1 | Ask Audrey         |   2.9  | overthrow          |
-| 66 | 8.0               | 2022-03-05 15:05:00 | newcastle                 |      4 |        6 | Endorphins         |   7    | vulture            |
-| 67 | 10.0              | 2022-03-05 15:00:00 | flemington                |      5 |       12 | Zetarita           |  71    | cosmo,bluey        |
-| 68 | :2nd_place_medal: | 2022-03-05 15:00:00 | flemington                |      5 |       10 | Spellcatcher       |  14    | pangea             |
-| 69 | 5.0               | 2022-03-05 15:00:00 | flemington                |      5 |        4 | Sneaky Five        |   8.5  | pangea,milkman     |
-| 70 | :3rd_place_medal: | 2022-03-05 14:40:00 | randwick                  |      5 |        1 | Nature Strip       |   1.55 | vulture,jmac       |
-| 71 | 10.0              | 2022-03-05 14:32:00 | murray-bdge               |      4 |        1 | Call Me Shamus     |   2.8  | vulture            |
-| 72 | :2nd_place_medal: | 2022-03-05 14:25:00 | newcastle                 |      3 |        8 | In The Blink       |   8    | looseknot          |
-| 73 | :boom:            | 2022-03-05 14:20:00 | flemington                |      4 |        5 | Annavisto          |   4.6  | pangea             |
-| 74 | 7.0               | 2022-03-05 14:20:00 | flemington                |      4 |        3 | Sirileo Miss       |   3.5  | pangea,milkman     |
-| 75 | 4.0               | 2022-03-05 14:20:00 | flemington                |      4 |        1 | Quantum Mechanic   |  21    | vulture,pangea     |
-| 76 | 8.0               | 2022-03-05 14:13:00 | toowoomba                 |      4 |        4 | Humbolt Current    |   8    | pangea             |
-| 77 | :boom:            | 2022-03-05 14:05:00 | randwick                  |      4 |        7 | Zeyrek             |   8    | pikey              |
-| 78 | 6.0               | 2022-03-05 14:05:00 | randwick                  |      4 |        4 | Mightybeel         |   3.5  | vulture            |
-| 79 | 4.0               | 2022-03-05 14:05:00 | randwick                  |      4 |        5 | Sheraz             |   6.5  | jmac               |
-| 80 | 10.0              | 2022-03-05 14:05:00 | randwick                  |      4 |        1 | Entente            |  16    | benny,pangea       |
-| 81 | :boom:            | 2022-03-05 13:38:00 | toowoomba                 |      3 |        2 | She'sgottheboom    |   1.45 | pangea             |
-| 82 | 5.0               | 2022-03-05 13:30:00 | randwick                  |      3 |        4 | Psychiatrist       |   4    | vulture,milkman    |
-| 83 | :boom:            | 2022-03-05 13:30:00 | randwick                  |      3 |        1 | Sejardan           |   2.75 | milkman            |
-| 84 | 4.0               | 2022-03-05 13:30:00 | randwick                  |      3 |        7 | Showcourt          |  11    | jmac               |
-| 85 | 5.0               | 2022-03-05 13:19:00 | ellerslie                 |      6 |        6 | Le Villi           |   8    | milkman            |
-| 86 | :boom:            | 2022-03-05 13:19:00 | sunshine-coast-poly-track |      1 |        2 | Who Loves To Dance |   1.7  | evenodds,overthrow |
-| 87 | 5.0               | 2022-03-05 13:15:00 | newcastle                 |      1 |        1 | Read My Future     |  13    | cosmo,bob          |
-| 88 | :boom:            | 2022-03-05 13:03:00 | toowoomba                 |      2 |        1 | Capital Tower      |   2.5  | benny,milkman      |
-| 89 | 5.0               | 2022-03-05 12:55:00 | randwick                  |      2 |        8 | Stuck In A Dream   |  81    | vulture            |
-| 90 | :2nd_place_medal: | 2022-03-05 12:55:00 | randwick                  |      2 |        6 | Dashing Legend     |  16    | pikey              |
-| 91 | 4.0               | 2022-03-05 12:55:00 | randwick                  |      2 |        1 | Russian Conquest   |   1.85 | milkman            |
-| 92 | 6.0               | 2022-03-05 12:55:00 | randwick                  |      2 |        7 | Greece             |   3.2  | overthrow,jmac     |
-| 93 | 6.0               | 2022-03-05 12:35:00 | flemington                |      1 |        2 | Superset           |   9    | milkman            |
-| 94 | 5.0               | 2022-03-05 12:35:00 | flemington                |      1 |        1 | Mumbai Jewel       |   4    | vulture            |
-| 95 | 4.0               | 2022-03-05 12:28:00 | wingatui                  |      5 |        2 | Kaareraway         |   3.7  | vulture            |
-| 96 | 5.0               | 2022-03-05 12:20:00 | randwick                  |      1 |       13 | Clear Blonde       |  26    | pikey              |
-| 97 | :2nd_place_medal: | 2022-03-05 12:08:00 | ellerslie                 |      4 |        4 | I Wish I Win       |   3.9  | vulture            |
-| 98 | 9.0               | 2022-03-05 11:50:00 | wingatui                  |      4 |        6 | Chokito            |   4.5  | vulture,looseknot  |
-| 99 | :2nd_place_medal: | 2022-03-05 10:40:00 | wingatui                  |      2 |        5 | Mayor Of Norwood   |   5    | looseknot          |
+|    | finish   | time                | track          |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-03-07 04:30:00 | wexford        |      7 |        1 | Dancing City       |   1.4  | evenodds,lago      |
+|  1 | :soon:   | 2022-03-07 03:50:00 | leopardstown   |      6 |        2 | Fan De Blues       |  10    | overthrow          |
+|  2 | :soon:   | 2022-03-07 01:30:00 | leopardstown   |      2 |        5 | Making Country     |  41    | milkman            |
+|  3 | :soon:   | 2022-03-07 01:30:00 | leopardstown   |      2 |        6 | Whiskey Sour       |   1.65 | overthrow          |
+|  4 | :soon:   | 2022-03-07 01:10:00 | wexford        |      1 |       11 | Rioga Choice       |   5    | looseknot          |
+|  5 | :soon:   | 2022-03-07 01:03:00 | sedgefield     |      3 |        4 | Breizh Alko        |   2    | vulture            |
+|  6 | :soon:   | 2022-03-07 00:55:00 | greyville      |      7 |        4 | Imilenzeyokududuma |   0    | vulture            |
+|  7 | :soon:   | 2022-03-07 00:45:00 | huntingdon     |      2 |        1 | Storm Arising      |   2.7  | overthrow          |
+|  8 | :soon:   | 2022-03-07 00:30:00 | sedgefield     |      2 |        2 | Chase Outlaw       |  11    | overthrow          |
+|  9 | :soon:   | 2022-03-07 00:10:00 | huntingdon     |      1 |        8 | Rikoboy            |   4.4  | pangea             |
+| 10 | :soon:   | 2022-03-07 00:10:00 | huntingdon     |      1 |       10 | Getaway Tom        |   7    | looseknot          |
+| 11 | :soon:   | 2022-03-07 00:10:00 | huntingdon     |      1 |        3 | Blenkinsop         |   6    | looseknot          |
+| 12 | :soon:   | 2022-03-07 00:10:00 | huntingdon     |      1 |        1 | Accidental Legend  |   9.5  | looseknot          |
+| 13 | :soon:   | 2022-03-06 23:45:00 | greyville      |      5 |        9 | The Appeal         |   0    | vulture            |
+| 14 | :soon:   | 2022-03-06 19:35:00 | sha-tin        |      8 |        6 | Beauty Live        |   0    | milkman            |
+| 15 | :soon:   | 2022-03-06 18:10:00 | esperance-bay  |      4 |        6 | Spring To Life     |  31    | cosmo,bluey        |
+| 16 | :soon:   | 2022-03-06 17:12:00 | sunshine-coast |      7 |       10 | Frisco's Image     |  31    | pangea             |
+| 17 | :soon:   | 2022-03-06 15:45:00 | sale           |      5 |        1 | Inner Spirit       |   2    | vulture            |
+| 18 | :soon:   | 2022-03-06 15:15:00 | bordertown     |      4 |       10 | Sweet Ginger       |   3.9  | pangea             |
+| 19 | :soon:   | 2022-03-06 14:30:00 | sale           |      3 |        3 | Kemi               |   4.8  | looseknot          |
+| 20 | :soon:   | 2022-03-06 14:00:00 | sunshine-coast |      2 |        1 | Harvesta           |   3.7  | evenodds,overthrow |
