@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 22:31:31 +1000  
+date: 2022-03-05 22:52:23 +1000  
 ---   
 
 
@@ -110,7 +110,7 @@ date: 2022-03-05 22:31:31 +1000
 | 26 | :soon:            | 2022-03-05 23:49:00 | lingfield                 |      1 |        3 | Salonica           |   5.5  | looseknot          |
 | 27 | :soon:            | 2022-03-05 23:20:00 | turffontein               |      5 |       10 | Freed From Desire  |   0    | vulture,milkman    |
 | 28 | :soon:            | 2022-03-05 23:20:00 | turffontein               |      5 |        5 | Al Muthana         |   0    | pangea             |
-| 29 | :soon:            | 2022-03-05 22:45:00 | turffontein               |      4 |        9 | Chyavana           |   0    | vulture            |
+| 29 | --                | 2022-03-05 22:45:00 | turffontein               |      4 |        9 | Chyavana           |   0    | vulture            |
 | 30 | 4.0               | 2022-03-05 22:10:00 | turffontein               |      3 |        9 | Mayenne            |   0    | vulture            |
 | 31 | :boom:            | 2022-03-05 21:35:00 | turffontein               |      2 |        1 | Set To Go          |   0    | vulture            |
 | 32 | :2nd_place_medal: | 2022-03-05 21:00:00 | turffontein               |      1 |        1 | Miss Cool          |   0    | vulture            |
