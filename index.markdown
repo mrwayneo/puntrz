@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-05 20:11:03 +1000  
+date: 2022-03-05 20:31:00 +1000  
 ---   
 
 
@@ -114,7 +114,7 @@ date: 2022-03-05 20:11:03 +1000
 | 30 | :soon:            | 2022-03-05 22:10:00 | turffontein               |      3 |        9 | Mayenne            |   0    | vulture            |
 | 31 | :soon:            | 2022-03-05 21:35:00 | turffontein               |      2 |        1 | Set To Go          |   0    | vulture            |
 | 32 | :soon:            | 2022-03-05 21:00:00 | turffontein               |      1 |        1 | Miss Cool          |   0    | vulture            |
-| 33 | --                | 2022-03-05 19:48:00 | geraldton                 |      6 |        1 | Foxhood            |   4.8  | looseknot          |
+| 33 | 6.0               | 2022-03-05 19:48:00 | geraldton                 |      6 |        1 | Foxhood            |   4.8  | looseknot          |
 | 34 | 4.0               | 2022-03-05 19:35:00 | ascot                     |      7 |        2 | Clairvoyance       |   1.65 | vulture,milkman    |
 | 35 | :3rd_place_medal: | 2022-03-05 19:14:00 | geraldton                 |      5 |        4 | Django Dream       |   5    | pangea             |
 | 36 | :boom:            | 2022-03-05 18:55:00 | ascot                     |      6 |        1 | How's The Serenity |   2.45 | vulture,pangea     |
