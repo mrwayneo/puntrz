@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-03-05 14:54:16 +1000  
+date: 2022-03-05 15:09:31 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 15:00             | 2022-03-05 | flemington R5          | 12 Zetarita           |  71   |      -10 |
+| 0                 | 2022-03-05 | flemington R5          | 12 Zetarita           |   0   |      -10 |
 | :3rd_place_medal: | 2022-02-19 | sunshine-coast R9      | 9 Rock Amore          |   8   |      -10 |
 | 0                 | 2022-02-19 | morphettville-parks R8 | 12 Lianne             |   0   |      -10 |
 | :3rd_place_medal: | 2022-02-19 | alice-springs R2       | 4 Austreet            |  11   |      -10 |
