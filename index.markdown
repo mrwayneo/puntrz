@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-06 16:40:52 +1000  
+date: 2022-03-06 17:15:54 +1000  
 ---   
 
 
@@ -91,7 +91,7 @@ date: 2022-03-06 16:40:52 +1000
 | 13 | :soon:   | 2022-03-06 23:45:00 | greyville      |      5 |        9 | The Appeal         |   0    | vulture            |
 | 14 | :soon:   | 2022-03-06 19:35:00 | sha-tin        |      8 |        6 | Beauty Live        |   0    | milkman            |
 | 15 | :soon:   | 2022-03-06 18:10:00 | esperance-bay  |      4 |        6 | Spring To Life     |  31    | cosmo,bluey        |
-| 16 | :soon:   | 2022-03-06 17:12:00 | sunshine-coast |      7 |       10 | Frisco's Image     |  31    | pangea             |
+| 16 | --       | 2022-03-06 17:12:00 | sunshine-coast |      7 |       10 | Frisco's Image     |  31    | pangea             |
 | 17 | --       | 2022-03-06 15:45:00 | sale           |      5 |        1 | Inner Spirit       |   2    | vulture            |
 | 18 | 7.0      | 2022-03-06 15:15:00 | bordertown     |      4 |       10 | Sweet Ginger       |   3.9  | pangea             |
 | 19 | 5.0      | 2022-03-06 14:30:00 | sale           |      3 |        3 | Kemi               |   4.8  | looseknot          |
