@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-03-06 18:00:04 +1000  
+date: 2022-03-06 18:31:40 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 18:10             | 2022-03-06 | esperance-bay R4       | 6 Spring To Life      |  31   |      -10 |
+| 10                | 2022-03-06 | esperance-bay R4       | 6 Spring To Life      |  31   |      -10 |
 | 10                | 2022-03-05 | flemington R5          | 12 Zetarita           |  71   |      -10 |
 | :3rd_place_medal: | 2022-02-19 | sunshine-coast R9      | 9 Rock Amore          |   8   |      -10 |
 | 0                 | 2022-02-19 | morphettville-parks R8 | 12 Lianne             |   0   |      -10 |
