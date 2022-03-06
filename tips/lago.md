@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-06 15:36:49 +1000  
+date: 2022-03-06 15:51:33 +1000  
 categories: None 
 ---   
 
@@ -28,8 +28,8 @@ categories: None
 | :boom:            | 2022-02-12 | bangor R5                    | 1 Jungle Jack        |  1.85 |      8.5 |
 | 0                 | 2022-02-10 | albany R5                    | 6 Special Royale     |  0    |    -10   |
 | 4                 | 2022-02-09 | ipswich R9                   | 9 Sanzera            |  5.5  |    -10   |
-| 0                 | 2022-02-07 | leopardstown R8              | 14 Pink In The Park  |  0    |    -10   |
 | 0                 | 2022-02-07 | leopardstown R8              | 5 Eabha Grace        |  0    |    -10   |
+| 0                 | 2022-02-07 | leopardstown R8              | 14 Pink In The Park  |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6            | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5                | 1 Bello Beau         |  2    |     10   |
 | :boom:            | 2022-02-06 | leopardstown R7              | 5 Facile Vega        |  1.73 |      7.3 |
@@ -186,8 +186,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-03 | awapuni R7                   | 4 I Wish I Win       |  3.3  |    -10   |
 | :2nd_place_medal: | 2021-03-31 | doomben R7                   | 7 Roman Republic     |  1.9  |    -10   |
 | :boom:            | 2021-03-29 | limerick R8                  | 10 Belle Metal       |  1.68 |      6.8 |
-| :boom:            | 2021-03-28 | newbury R7                   | 6 Jonbon             |  1.9  |      9   |
 | 99                | 2021-03-28 | newbury R7                   | 2 Petrossian         |  3.9  |    -10   |
+| :boom:            | 2021-03-28 | newbury R7                   | 6 Jonbon             |  1.9  |      9   |
 | :boom:            | 2021-03-24 | launceston R5                | 6 Azara              |  2.4  |     14   |
 | 99                | 2021-03-22 | chepstow R7                  | 2 Gold Bullion       |  2.9  |    -10   |
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1                | 2 Haut En Couleurs   | 23    |    -10   |
