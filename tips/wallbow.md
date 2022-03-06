@@ -1,14 +1,14 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-03-06 22:55:26 +1000  
+date: 2022-03-07 06:11:22 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      1 |       -8 | 0.25 | -0.2  |
+| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
 | Last 28 Days   |     15 |      2 |      -93 | 0.13 | -0.62 |
 | Last 6 Months  |     65 |      8 |     -451 | 0.12 | -0.69 |
 | Since Jan 2020 |    146 |     23 |       73 | 0.16 |  0.05 |

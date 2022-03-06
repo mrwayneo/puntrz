@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-06 22:55:31 +1000  
+date: 2022-03-07 06:11:28 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      1 |     -9   | 0.5  | -0.45 |
-| Last 28 Days   |     12 |      3 |    -67.5 | 0.25 | -0.56 |
-| Last 6 Months  |    109 |     54 |    328.2 | 0.5  |  0.3  |
-| Since Jan 2020 |    218 |    107 |   1328.2 | 0.49 |  0.61 |
+| Last 7 Days    |      3 |      1 |    -19   | 0.33 | -0.63 |
+| Last 28 Days   |     13 |      3 |    -77.5 | 0.23 | -0.6  |
+| Last 6 Months  |    110 |     54 |    318.2 | 0.49 |  0.29 |
+| Since Jan 2020 |    219 |    107 |   1318.2 | 0.49 |  0.6  |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 04:30             | 2022-03-07 | wexford R7                   | 1 Dancing City       |  1.4  |    -10   |
+| :2nd_place_medal: | 2022-03-07 | wexford R7                   | 1 Dancing City       |  1.4  |    -10   |
 | 0                 | 2022-03-06 | kelso R2                     | 9 Sholokjack         |  0    |    -10   |
 | :boom:            | 2022-03-05 | alice-springs R3             | 1 Dakota Lee         |  1.1  |      1   |
 | 0                 | 2022-02-27 | sunshine-coast-poly-track R8 | 2 Absolute Charmer   |  0    |    -10   |
@@ -28,8 +28,8 @@ categories: None
 | :boom:            | 2022-02-12 | bangor R5                    | 1 Jungle Jack        |  1.85 |      8.5 |
 | 0                 | 2022-02-10 | albany R5                    | 6 Special Royale     |  0    |    -10   |
 | 4                 | 2022-02-09 | ipswich R9                   | 9 Sanzera            |  5.5  |    -10   |
-| 0                 | 2022-02-07 | leopardstown R8              | 14 Pink In The Park  |  0    |    -10   |
 | 0                 | 2022-02-07 | leopardstown R8              | 5 Eabha Grace        |  0    |    -10   |
+| 0                 | 2022-02-07 | leopardstown R8              | 14 Pink In The Park  |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6            | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5                | 1 Bello Beau         |  2    |     10   |
 | :boom:            | 2022-02-06 | leopardstown R7              | 5 Facile Vega        |  1.73 |      7.3 |
@@ -186,8 +186,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-03 | awapuni R7                   | 4 I Wish I Win       |  3.3  |    -10   |
 | :2nd_place_medal: | 2021-03-31 | doomben R7                   | 7 Roman Republic     |  1.9  |    -10   |
 | :boom:            | 2021-03-29 | limerick R8                  | 10 Belle Metal       |  1.68 |      6.8 |
-| :boom:            | 2021-03-28 | newbury R7                   | 6 Jonbon             |  1.9  |      9   |
 | 99                | 2021-03-28 | newbury R7                   | 2 Petrossian         |  3.9  |    -10   |
+| :boom:            | 2021-03-28 | newbury R7                   | 6 Jonbon             |  1.9  |      9   |
 | :boom:            | 2021-03-24 | launceston R5                | 6 Azara              |  2.4  |     14   |
 | 99                | 2021-03-22 | chepstow R7                  | 2 Gold Bullion       |  2.9  |    -10   |
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1                | 2 Haut En Couleurs   | 23    |    -10   |
