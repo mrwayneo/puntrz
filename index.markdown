@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-06 14:26:23 +1000  
+date: 2022-03-06 15:07:48 +1000  
 ---   
 
 
@@ -94,5 +94,5 @@ date: 2022-03-06 14:26:23 +1000
 | 16 | :soon:   | 2022-03-06 17:12:00 | sunshine-coast |      7 |       10 | Frisco's Image     |  31    | pangea             |
 | 17 | :soon:   | 2022-03-06 15:45:00 | sale           |      5 |        1 | Inner Spirit       |   2    | vulture            |
 | 18 | :soon:   | 2022-03-06 15:15:00 | bordertown     |      4 |       10 | Sweet Ginger       |   3.9  | pangea             |
-| 19 | :soon:   | 2022-03-06 14:30:00 | sale           |      3 |        3 | Kemi               |   4.8  | looseknot          |
+| 19 | 5.0      | 2022-03-06 14:30:00 | sale           |      3 |        3 | Kemi               |   4.8  | looseknot          |
 | 20 | :boom:   | 2022-03-06 14:00:00 | sunshine-coast |      2 |        1 | Harvesta           |   3.7  | evenodds,overthrow |
