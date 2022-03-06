@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-07 07:57:22 +1000  
+date: 2022-03-07 08:58:01 +1000  
 ---   
 
 
@@ -71,26 +71,23 @@ date: 2022-03-07 07:57:22 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6134 |    811 | -13993.3 | 0.13 | -0.23 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7824 |    360 | -24108.5 | 0.05 | -0.31 |
 
-|    | finish            | time                | track          |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :2nd_place_medal: | 2022-03-07 04:30:00 | wexford        |      7 |        1 | Dancing City       |   1.4  | evenodds,lago      |
-|  1 | --                | 2022-03-07 03:50:00 | leopardstown   |      6 |        2 | Fan De Blues       |  10    | overthrow          |
-|  2 | --                | 2022-03-07 01:30:00 | leopardstown   |      2 |        5 | Making Country     |  41    | milkman            |
-|  3 | :boom:            | 2022-03-07 01:30:00 | leopardstown   |      2 |        6 | Whiskey Sour       |   1.65 | overthrow          |
-|  4 | :3rd_place_medal: | 2022-03-07 01:10:00 | wexford        |      1 |       11 | Rioga Choice       |   5    | looseknot          |
-|  5 | :boom:            | 2022-03-07 01:03:00 | sedgefield     |      3 |        4 | Breizh Alko        |   2    | vulture            |
-|  6 | :boom:            | 2022-03-07 00:55:00 | greyville      |      7 |        4 | Imilenzeyokududuma |   0    | vulture            |
-|  7 | :2nd_place_medal: | 2022-03-07 00:45:00 | huntingdon     |      2 |        1 | Storm Arising      |   2.7  | overthrow          |
-|  8 | --                | 2022-03-07 00:30:00 | sedgefield     |      2 |        2 | Chase Outlaw       |  11    | overthrow          |
-|  9 | 4.0               | 2022-03-07 00:10:00 | huntingdon     |      1 |        8 | Rikoboy            |   4.4  | pangea             |
-| 10 | 5.0               | 2022-03-07 00:10:00 | huntingdon     |      1 |       10 | Getaway Tom        |   7    | looseknot          |
-| 11 | :3rd_place_medal: | 2022-03-07 00:10:00 | huntingdon     |      1 |        3 | Blenkinsop         |   6    | looseknot          |
-| 12 | 6.0               | 2022-03-07 00:10:00 | huntingdon     |      1 |        1 | Accidental Legend  |   9.5  | looseknot          |
-| 13 | --                | 2022-03-06 23:45:00 | greyville      |      5 |        9 | The Appeal         |   0    | vulture            |
-| 14 | :2nd_place_medal: | 2022-03-06 19:35:00 | sha-tin        |      8 |        6 | Beauty Live        |   0    | milkman            |
-| 15 | 10.0              | 2022-03-06 18:10:00 | esperance-bay  |      4 |        6 | Spring To Life     |  31    | cosmo,bluey        |
-| 16 | 7.0               | 2022-03-06 17:12:00 | sunshine-coast |      7 |       10 | Frisco's Image     |  31    | pangea             |
-| 17 | --                | 2022-03-06 15:45:00 | sale           |      5 |        1 | Inner Spirit       |   2    | vulture            |
-| 18 | 7.0               | 2022-03-06 15:15:00 | bordertown     |      4 |       10 | Sweet Ginger       |   3.9  | pangea             |
-| 19 | 5.0               | 2022-03-06 14:30:00 | sale           |      3 |        3 | Kemi               |   4.8  | looseknot          |
-| 20 | :boom:            | 2022-03-06 14:00:00 | sunshine-coast |      2 |        1 | Harvesta           |   3.7  | evenodds,overthrow |
+|    | finish   | time                | track         |   race |   number | name             |   odds | tipster        |
+|---:|:---------|:--------------------|:--------------|-------:|---------:|:-----------------|-------:|:---------------|
+|  0 | :soon:   | 2022-03-08 05:00:00 | wolverhampton |      2 |        3 | Najat            |   2.3  | milkman        |
+|  1 | :soon:   | 2022-03-08 04:20:00 | leopardstown  |      8 |        1 | Champagne Town   |   8    | milkman        |
+|  2 | :soon:   | 2022-03-08 04:20:00 | leopardstown  |      8 |        8 | Rath Gaul Boy    |   2.15 | overthrow,lago |
+|  3 | :soon:   | 2022-03-08 04:20:00 | leopardstown  |      8 |        7 | Monty's Star     |   8    | looseknot      |
+|  4 | :soon:   | 2022-03-08 04:10:00 | wetherby      |      7 |        1 | Grey Dawning     |   1.65 | milkman        |
+|  5 | :soon:   | 2022-03-08 03:20:00 | leopardstown  |      6 |        5 | Mt Leinster      |   1.17 | overthrow      |
+|  6 | :soon:   | 2022-03-08 02:30:00 | wetherby      |      4 |        4 | Playful Saint    |   5    | vulture        |
+|  7 | :soon:   | 2022-03-08 02:30:00 | wetherby      |      4 |        3 | Chti Balko       |   6.5  | vulture        |
+|  8 | :soon:   | 2022-03-08 01:55:00 | wetherby      |      3 |        1 | Cartonne         |   2.5  | overthrow      |
+|  9 | :soon:   | 2022-03-08 01:10:00 | southwell     |      3 |        1 | Salvatore        |   2.6  | milkman        |
+| 10 | :soon:   | 2022-03-08 01:10:00 | southwell     |      3 |        7 | Global Racing    |   9.5  | overthrow      |
+| 11 | :soon:   | 2022-03-08 01:00:00 | greyville     |      7 |        4 | Purple Powahouse |   0    | vulture        |
+| 12 | :soon:   | 2022-03-08 00:25:00 | leopardstown  |      1 |       13 | Brooklynn Glory  |   1.7  | overthrow      |
+| 13 | :soon:   | 2022-03-07 23:50:00 | greyville     |      5 |        5 | Syx Hotfix       |   0    | vulture        |
+| 14 | :soon:   | 2022-03-07 23:50:00 | greyville     |      5 |        1 | Techno Savvy     |   0    | vulture        |
+| 15 | :soon:   | 2022-03-07 23:15:00 | greyville     |      4 |        8 | Roy's Command    |   0    | vulture        |
+| 16 | :soon:   | 2022-03-07 20:08:00 | york          |      7 |        5 | Pasajero         |   8.5  | pangea         |
+| 17 | :soon:   | 2022-03-07 18:47:00 | york          |      5 |        4 | Stella Fair      |   2.5  | vulture        |
