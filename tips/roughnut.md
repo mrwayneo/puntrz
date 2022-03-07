@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-03-08 06:48:44 +1000  
+date: 2022-03-08 07:03:32 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:00             | 2022-03-08 | wolverhampton R6              | 7 Protected Guest     |  12    |    -10   |
+| 0                 | 2022-03-08 | wolverhampton R6              | 7 Protected Guest     |   0    |    -10   |
 | 4                 | 2022-03-08 | wolverhampton R2              | 1 Diva Dancer         |  51    |    -10   |
 | 0                 | 2022-03-08 | wolverhampton R1              | 11 Royal Advice       |   0    |    -10   |
 | 0                 | 2022-03-08 | wolverhampton R1              | 7 Thaki               |   0    |    -10   |

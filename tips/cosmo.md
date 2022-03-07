@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-03-08 06:48:41 +1000  
+date: 2022-03-08 07:03:29 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:00             | 2022-03-08 | wolverhampton R6              | 7 Protected Guest     |  12    |      -10 |
+| 0                 | 2022-03-08 | wolverhampton R6              | 7 Protected Guest     |   0    |      -10 |
 | 0                 | 2022-03-08 | wolverhampton R1              | 11 Royal Advice       |   0    |      -10 |
 | 0                 | 2022-03-08 | wolverhampton R1              | 7 Thaki               |   0    |      -10 |
 | 0                 | 2022-03-07 | york R6                       | 1 Miss Mandy          |   0    |      -10 |
