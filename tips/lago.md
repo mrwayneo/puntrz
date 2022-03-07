@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-08 07:19:11 +1000  
+date: 2022-03-08 07:50:20 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
+| 03:50             | 2022-03-09 | newcastle R8                 | 1 Fancy Stuff        |  3.5  |    -10   |
 | :boom:            | 2022-03-08 | leopardstown R8              | 8 Rath Gaul Boy      |  1.75 |      7.5 |
 | :2nd_place_medal: | 2022-03-07 | wexford R7                   | 1 Dancing City       |  1.4  |    -10   |
 | 0                 | 2022-03-06 | kelso R2                     | 9 Sholokjack         |  0    |    -10   |
@@ -29,8 +30,8 @@ categories: None
 | :boom:            | 2022-02-12 | bangor R5                    | 1 Jungle Jack        |  1.85 |      8.5 |
 | 0                 | 2022-02-10 | albany R5                    | 6 Special Royale     |  0    |    -10   |
 | 4                 | 2022-02-09 | ipswich R9                   | 9 Sanzera            |  5.5  |    -10   |
-| 0                 | 2022-02-07 | leopardstown R8              | 5 Eabha Grace        |  0    |    -10   |
 | 0                 | 2022-02-07 | leopardstown R8              | 14 Pink In The Park  |  0    |    -10   |
+| 0                 | 2022-02-07 | leopardstown R8              | 5 Eabha Grace        |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6            | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5                | 1 Bello Beau         |  2    |     10   |
 | :boom:            | 2022-02-06 | leopardstown R7              | 5 Facile Vega        |  1.73 |      7.3 |

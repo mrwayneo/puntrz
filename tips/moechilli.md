@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-03-08 07:19:07 +1000  
+date: 2022-03-08 07:50:15 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,9 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
+| 02:15             | 2022-03-09 | newcastle R5           | 2 Bavington Bob      |   1.85 |    -10   |
+| 17:04             | 2022-03-08 | cairns R3              | 3 Sparkly Star       |   5.5  |    -10   |
+| 15:47             | 2022-03-08 | cairns R1              | 1 Lord Of Light      |   5.5  |    -10   |
 | :3rd_place_medal: | 2022-03-04 | darwin R5              | 2 Sweet Cheval       |   3.5  |    -10   |
 | 0                 | 2022-02-19 | kelso R6               | 1 Monbeg Chit Chat   |   0    |    -10   |
 | 4                 | 2022-02-18 | cairns R2              | 3 Sparkly Star       |   3.8  |    -10   |
@@ -93,8 +96,8 @@ categories: None
 | 11                | 2021-05-02 | alice-springs R2       | 10 Asahi Bearing     |   6    |    -10   |
 | :boom:            | 2021-05-01 | barcaldine R4          | 2 Grey Rules         |   2.9  |     19   |
 | 99                | 2021-05-01 | cheltenham R6          | 10 Know The Score    |   5.5  |    -10   |
-| :3rd_place_medal: | 2021-05-01 | cheltenham R4          | 1 Fifty Shades       |   8    |    -10   |
 | 99                | 2021-05-01 | cheltenham R4          | 2 Garde Ville        |   3.5  |    -10   |
+| :3rd_place_medal: | 2021-05-01 | cheltenham R4          | 1 Fifty Shades       |   8    |    -10   |
 | 99                | 2021-05-01 | cheltenham R2          | 9 Hotel Du Nord      |   5.5  |    -10   |
 | :boom:            | 2021-04-29 | rockhampton R1         | 3 Whoshotthemagician |   5    |     40   |
 | 99                | 2021-04-29 | chelmsford-city R1     | 10 I'm Mable         |  17    |    -10   |
