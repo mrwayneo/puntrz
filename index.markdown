@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-07 18:46:38 +1000  
+date: 2022-03-07 19:02:28 +1000  
 ---   
 
 
@@ -15,7 +15,7 @@ date: 2022-03-07 18:46:38 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      0 |      -50 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      5 |      0 |      -50 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      1 |      -52 | 0.14 | -0.74 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     41 |      1 |      -88 | 0.02 | -0.21 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     11 |      0 |     -110 | 0    | -1    |
 
@@ -90,4 +90,4 @@ date: 2022-03-07 18:46:38 +1000
 | 14 | :soon:   | 2022-03-07 23:50:00 | greyville     |      5 |        1 | Techno Savvy     |   0    | vulture        |
 | 15 | :soon:   | 2022-03-07 23:15:00 | greyville     |      4 |        8 | Roy's Command    |   0    | vulture        |
 | 16 | :soon:   | 2022-03-07 20:08:00 | york          |      7 |        5 | Pasajero         |   8.5  | pangea         |
-| 17 | :soon:   | 2022-03-07 18:47:00 | york          |      5 |        4 | Stella Fair      |   2.5  | vulture        |
+| 17 | :boom:   | 2022-03-07 18:47:00 | york          |      5 |        4 | Stella Fair      |   2.5  | vulture        |
