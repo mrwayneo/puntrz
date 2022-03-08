@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-08 13:56:05 +1000  
+date: 2022-03-08 15:06:23 +1000  
 ---   
 
 
@@ -75,22 +75,22 @@ date: 2022-03-08 13:56:05 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6110 |    807 | -14538.3 | 0.13 | -0.24 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7847 |    361 | -24046.5 | 0.05 | -0.31 |
 
-|    | finish   | time                | track           |   race |   number | name           |   odds | tipster              |
-|---:|:---------|:--------------------|:----------------|-------:|---------:|:---------------|-------:|:---------------------|
-|  0 | :soon:   | 2022-03-09 04:00:00 | wolverhampton   |      1 |        2 | Little Raven   |   5    | pangea               |
-|  1 | :soon:   | 2022-03-09 03:50:00 | newcastle       |      8 |        1 | Fancy Stuff    |   3.5  | evenodds,lago        |
-|  2 | :soon:   | 2022-03-09 03:50:00 | newcastle       |      8 |       10 | Rose Of Siena  |   3.9  | vulture              |
-|  3 | :soon:   | 2022-03-09 02:50:00 | newcastle       |      6 |        9 | Greatest Star  |   5    | overthrow            |
-|  4 | :soon:   | 2022-03-09 02:30:00 | sandown         |      4 |        2 | Rolling Dylan  |   1.95 | vulture              |
-|  5 | :soon:   | 2022-03-09 02:30:00 | sandown         |      4 |        1 | Didero Vallis  |   3.9  | looseknot            |
-|  6 | :soon:   | 2022-03-09 02:15:00 | newcastle       |      5 |        2 | Bavington Bob  |   1.85 | overthrow,moechilli  |
-|  7 | :soon:   | 2022-03-09 00:00:00 | newcastle       |      1 |        3 | Hidden Heroics |   4.4  | overthrow            |
-|  8 | :soon:   | 2022-03-08 17:04:00 | cairns          |      3 |        1 | Dunatun        |   3.4  | vulture              |
-|  9 | :soon:   | 2022-03-08 17:04:00 | cairns          |      3 |        3 | Sparkly Star   |   5.5  | pangea,moechilli     |
-| 10 | :soon:   | 2022-03-08 17:04:00 | cairns          |      3 |        6 | The Grove      |   3.4  | benny,pangea         |
-| 11 | :soon:   | 2022-03-08 17:00:00 | ballarat        |      8 |        3 | Bomber's Kiss  |   6.5  | overthrow            |
-| 12 | :soon:   | 2022-03-08 16:27:00 | cairns          |      2 |        1 | Arise My Son   |   2.2  | evenodds,blackshadow |
-| 13 | :soon:   | 2022-03-08 16:27:00 | cairns          |      2 |        7 | Magnate        |   4.5  | vulture,looseknot    |
-| 14 | :soon:   | 2022-03-08 16:27:00 | cairns          |      2 |        3 | Love On Sunday |   6    | vulture              |
-| 15 | :soon:   | 2022-03-08 15:47:00 | cairns          |      1 |        1 | Lord Of Light  |   5.5  | moechilli            |
-| 16 | :soon:   | 2022-03-08 14:25:00 | wagga-riverside |      2 |        1 | Evanora        |   3.2  | pangea               |
+|    | finish            | time                | track           |   race |   number | name           |   odds | tipster              |
+|---:|:------------------|:--------------------|:----------------|-------:|---------:|:---------------|-------:|:---------------------|
+|  0 | :soon:            | 2022-03-09 04:00:00 | wolverhampton   |      1 |        2 | Little Raven   |   5    | pangea               |
+|  1 | :soon:            | 2022-03-09 03:50:00 | newcastle       |      8 |        1 | Fancy Stuff    |   3.5  | evenodds,lago        |
+|  2 | :soon:            | 2022-03-09 03:50:00 | newcastle       |      8 |       10 | Rose Of Siena  |   3.9  | vulture              |
+|  3 | :soon:            | 2022-03-09 02:50:00 | newcastle       |      6 |        9 | Greatest Star  |   5    | overthrow            |
+|  4 | :soon:            | 2022-03-09 02:30:00 | sandown         |      4 |        2 | Rolling Dylan  |   1.95 | vulture              |
+|  5 | :soon:            | 2022-03-09 02:30:00 | sandown         |      4 |        1 | Didero Vallis  |   3.9  | looseknot            |
+|  6 | :soon:            | 2022-03-09 02:15:00 | newcastle       |      5 |        2 | Bavington Bob  |   1.85 | overthrow,moechilli  |
+|  7 | :soon:            | 2022-03-09 00:00:00 | newcastle       |      1 |        3 | Hidden Heroics |   4.4  | overthrow            |
+|  8 | :soon:            | 2022-03-08 17:04:00 | cairns          |      3 |        1 | Dunatun        |   3.4  | vulture              |
+|  9 | :soon:            | 2022-03-08 17:04:00 | cairns          |      3 |        3 | Sparkly Star   |   5.5  | pangea,moechilli     |
+| 10 | :soon:            | 2022-03-08 17:04:00 | cairns          |      3 |        6 | The Grove      |   3.4  | benny,pangea         |
+| 11 | :soon:            | 2022-03-08 17:00:00 | ballarat        |      8 |        3 | Bomber's Kiss  |   6.5  | overthrow            |
+| 12 | :soon:            | 2022-03-08 16:27:00 | cairns          |      2 |        1 | Arise My Son   |   2.2  | evenodds,blackshadow |
+| 13 | :soon:            | 2022-03-08 16:27:00 | cairns          |      2 |        7 | Magnate        |   4.5  | vulture,looseknot    |
+| 14 | :soon:            | 2022-03-08 16:27:00 | cairns          |      2 |        3 | Love On Sunday |   6    | vulture              |
+| 15 | :soon:            | 2022-03-08 15:47:00 | cairns          |      1 |        1 | Lord Of Light  |   5.5  | moechilli            |
+| 16 | :3rd_place_medal: | 2022-03-08 14:25:00 | wagga-riverside |      2 |        1 | Evanora        |   3.2  | pangea               |
