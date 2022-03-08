@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-08 15:36:20 +1000  
+date: 2022-03-08 15:51:28 +1000  
 ---   
 
 
@@ -92,5 +92,5 @@ date: 2022-03-08 15:36:20 +1000
 | 12 | :soon:            | 2022-03-08 16:27:00 | cairns          |      2 |        1 | Arise My Son   |   2.2  | evenodds,blackshadow |
 | 13 | :soon:            | 2022-03-08 16:27:00 | cairns          |      2 |        7 | Magnate        |   4.5  | vulture,looseknot    |
 | 14 | :soon:            | 2022-03-08 16:27:00 | cairns          |      2 |        3 | Love On Sunday |   6    | vulture              |
-| 15 | :soon:            | 2022-03-08 15:47:00 | cairns          |      1 |        1 | Lord Of Light  |   5.5  | moechilli            |
+| 15 | --                | 2022-03-08 15:47:00 | cairns          |      1 |        1 | Lord Of Light  |   5.5  | moechilli            |
 | 16 | :3rd_place_medal: | 2022-03-08 14:25:00 | wagga-riverside |      2 |        1 | Evanora        |   3.2  | pangea               |
