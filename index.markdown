@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-09 07:51:32 +1000  
+date: 2022-03-09 10:14:50 +1000  
 ---   
 
 
@@ -73,22 +73,40 @@ date: 2022-03-09 07:51:32 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6117 |    807 | -14553.3 | 0.13 | -0.24 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7827 |    361 | -23796.5 | 0.05 | -0.3  |
 
-|    | finish            | time                | track           |   race |   number | name           |   odds | tipster              |
-|---:|:------------------|:--------------------|:----------------|-------:|---------:|:---------------|-------:|:---------------------|
-|  0 | 4.0               | 2022-03-09 04:00:00 | wolverhampton   |      1 |        2 | Little Raven   |   5    | pangea               |
-|  1 | --                | 2022-03-09 03:50:00 | newcastle       |      8 |        1 | Fancy Stuff    |   3.5  | evenodds,lago        |
-|  2 | --                | 2022-03-09 03:50:00 | newcastle       |      8 |       10 | Rose Of Siena  |   3.9  | vulture              |
-|  3 | --                | 2022-03-09 02:50:00 | newcastle       |      6 |        9 | Greatest Star  |   5    | overthrow            |
-|  4 | :boom:            | 2022-03-09 02:30:00 | sandown         |      4 |        2 | Rolling Dylan  |   1.95 | vulture              |
-|  5 | 4.0               | 2022-03-09 02:30:00 | sandown         |      4 |        1 | Didero Vallis  |   3.9  | looseknot            |
-|  6 | --                | 2022-03-09 02:15:00 | newcastle       |      5 |        2 | Bavington Bob  |   1.85 | overthrow,moechilli  |
-|  7 | :boom:            | 2022-03-09 00:00:00 | newcastle       |      1 |        3 | Hidden Heroics |   4.4  | overthrow            |
-|  8 | --                | 2022-03-08 17:04:00 | cairns          |      3 |        1 | Dunatun        |   3.4  | vulture              |
-|  9 | --                | 2022-03-08 17:04:00 | cairns          |      3 |        3 | Sparkly Star   |   5.5  | pangea,moechilli     |
-| 10 | --                | 2022-03-08 17:04:00 | cairns          |      3 |        6 | The Grove      |   3.4  | benny,pangea         |
-| 11 | :boom:            | 2022-03-08 17:00:00 | ballarat        |      8 |        3 | Bomber's Kiss  |   6.5  | overthrow            |
-| 12 | --                | 2022-03-08 16:27:00 | cairns          |      2 |        1 | Arise My Son   |   2.2  | evenodds,blackshadow |
-| 13 | --                | 2022-03-08 16:27:00 | cairns          |      2 |        7 | Magnate        |   4.5  | vulture,looseknot    |
-| 14 | --                | 2022-03-08 16:27:00 | cairns          |      2 |        3 | Love On Sunday |   6    | vulture              |
-| 15 | --                | 2022-03-08 15:47:00 | cairns          |      1 |        1 | Lord Of Light  |   5.5  | moechilli            |
-| 16 | :3rd_place_medal: | 2022-03-08 14:25:00 | wagga-riverside |      2 |        1 | Evanora        |   3.2  | pangea               |
+|    | finish   | time                | track            |   race |   number | name               |   odds | tipster             |
+|---:|:---------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:--------------------|
+|  0 | :soon:   | 2022-03-10 05:00:00 | kempton          |      2 |        3 | True Icon          |   3.8  | vulture             |
+|  1 | :soon:   | 2022-03-10 04:40:00 | catterick        |      7 |        1 | Upagainstit        |   2.8  | evenodds,overthrow  |
+|  2 | :soon:   | 2022-03-10 04:40:00 | catterick        |      7 |        6 | Toucan Sam         |   3    | vulture             |
+|  3 | :soon:   | 2022-03-10 04:30:00 | kempton          |      1 |        2 | Arousing           |   3.75 | vulture             |
+|  4 | :soon:   | 2022-03-10 04:10:00 | catterick        |      6 |        5 | Clancypantz        |   7    | looseknot           |
+|  5 | :soon:   | 2022-03-10 03:25:00 | fontwell         |      7 |        4 | Antony             |   8    | pangea,blackshadow  |
+|  6 | :soon:   | 2022-03-10 03:10:00 | lingfield        |      5 |        2 | Golden Warrior     |   6    | milkman             |
+|  7 | :soon:   | 2022-03-10 03:10:00 | lingfield        |      5 |        5 | Second Wind        |   7    | milkman             |
+|  8 | :soon:   | 2022-03-10 02:35:00 | lingfield        |      4 |        3 | Unforgiving Minute |   8    | pangea              |
+|  9 | :soon:   | 2022-03-10 02:25:00 | catterick        |      3 |        4 | Highate Hill       |   4.8  | looseknot           |
+| 10 | :soon:   | 2022-03-10 01:50:00 | catterick        |      2 |        6 | Sweet Auburn       |   2.8  | overthrow           |
+| 11 | :soon:   | 2022-03-10 01:40:00 | fontwell         |      4 |        3 | Hell Red           |   9.5  | overthrow           |
+| 12 | :soon:   | 2022-03-10 01:40:00 | fontwell         |      4 |        7 | Island Run         |   3.1  | vulture             |
+| 13 | :soon:   | 2022-03-10 01:05:00 | fontwell         |      3 |        6 | Who Is That        |   7    | looseknot           |
+| 14 | :soon:   | 2022-03-09 22:00:00 | launceston       |      9 |        4 | Outbound           |   3.6  | overthrow           |
+| 15 | :soon:   | 2022-03-09 21:30:00 | launceston       |      8 |        2 | Rhyme Writer       |   4.8  | pangea              |
+| 16 | :soon:   | 2022-03-09 21:30:00 | launceston       |      8 |        4 | Sharma Rama        |   3.25 | overthrow           |
+| 17 | :soon:   | 2022-03-09 21:00:00 | launceston       |      7 |        4 | Boom Dot Com       |   3.1  | benny,pangea        |
+| 18 | :soon:   | 2022-03-09 21:00:00 | launceston       |      7 |        5 | Sh'bourne Rebel    |   4.33 | vulture,blackshadow |
+| 19 | :soon:   | 2022-03-09 20:20:00 | ascot            |      7 |        4 | Fear The Wind      |   2.75 | vulture             |
+| 20 | :soon:   | 2022-03-09 20:20:00 | ascot            |      7 |        1 | Black Fantasy      |   2.6  | vulture             |
+| 21 | :soon:   | 2022-03-09 19:45:00 | ascot            |      6 |        1 | Gambler's Gold     |   2.7  | vulture             |
+| 22 | :soon:   | 2022-03-09 17:54:00 | ascot            |      3 |        5 | Snippy Miss        |   3.6  | pangea,blackshadow  |
+| 23 | :soon:   | 2022-03-09 17:15:00 | ascot            |      2 |        7 | Mussa              |   4.8  | vulture,milkman     |
+| 24 | :soon:   | 2022-03-09 16:58:00 | ipswich          |      5 |        2 | Writtle            |   3    | overthrow           |
+| 25 | :soon:   | 2022-03-09 16:58:00 | ipswich          |      5 |        7 | Rose Of Sebring    |   5.5  | pangea              |
+| 26 | :soon:   | 2022-03-09 16:50:00 | sandown-hillside |      5 |        7 | Jaffastock         |   9.5  | vulture             |
+| 27 | :soon:   | 2022-03-09 16:50:00 | sandown-hillside |      5 |        5 | Upswing            |   9.5  | pangea              |
+| 28 | :soon:   | 2022-03-09 16:30:00 | strathalbyn      |      6 |        4 | Hurricane Max      |  11    | benny,pangea        |
+| 29 | :soon:   | 2022-03-09 16:15:00 | sandown-hillside |      4 |        9 | My Whisper         |   5.5  | vulture,milkman     |
+| 30 | :soon:   | 2022-03-09 16:15:00 | sandown-hillside |      4 |       10 | White Wedding      |  13    | vulture             |
+| 31 | :soon:   | 2022-03-09 15:13:00 | ipswich          |      2 |       11 | Tesaura            |   6    | vulture             |
+| 32 | :soon:   | 2022-03-09 15:13:00 | ipswich          |      2 |        7 | Sacred Oath        |   1.55 | evenodds,overthrow  |
+| 33 | :soon:   | 2022-03-09 15:05:00 | sandown-hillside |      2 |        6 | Tobaysure          |   2.35 | pangea              |
+| 34 | :soon:   | 2022-03-09 14:30:00 | sandown-hillside |      1 |       10 | Jenniferenti       |   2.8  | overthrow,looseknot |
