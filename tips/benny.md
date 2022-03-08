@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-03-08 19:15:39 +1000  
+date: 2022-03-08 19:30:43 +1000  
 categories: None 
 ---   
 
@@ -45,8 +45,8 @@ categories: None
 | :2nd_place_medal: | 2022-02-19 | alice-springs R3              | 2 Valley Prince       |  1.6  |    -10   |
 | 4                 | 2022-02-19 | ascot R3                      | 5 Snippy Miss         |  7    |    -10   |
 | :2nd_place_medal: | 2022-02-19 | flemington R7                 | 1 Nature Strip        |  2.5  |    -10   |
-| 5                 | 2022-02-19 | ascot R2                      | 7 Real Danger         |  5.5  |    -10   |
 | :3rd_place_medal: | 2022-02-19 | ascot R2                      | 6 State Of Power      |  6    |    -10   |
+| 5                 | 2022-02-19 | ascot R2                      | 7 Real Danger         |  5.5  |    -10   |
 | 7                 | 2022-02-19 | rosehill-gardens R7           | 1 Entente             |  7    |    -10   |
 | 0                 | 2022-02-19 | flemington R6                 | 3 Lightsaber          |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-19 | gosford R4                    | 1 O'tartan Lass       |  8    |    -10   |
@@ -90,8 +90,8 @@ categories: None
 | 6                 | 2022-01-29 | morphettville R3              | 4 Stan The Caddy      |  0    |    -10   |
 | 6                 | 2022-01-28 | southwell R4                  | 8 Corinthia Knight    | 17    |    -10   |
 | 4                 | 2022-01-27 | rockhampton R7                | 7 Whoa Lola           |  1.67 |    -10   |
-| :2nd_place_medal: | 2022-01-27 | rockhampton R2                | 2 Nailed It Nan       |  2.6  |    -10   |
 | :3rd_place_medal: | 2022-01-27 | rockhampton R2                | 3 Courtesy Bus        |  4.33 |    -10   |
+| :2nd_place_medal: | 2022-01-27 | rockhampton R2                | 2 Nailed It Nan       |  2.6  |    -10   |
 | :2nd_place_medal: | 2022-01-26 | belmont R8                    | 2 Makfly              |  6.5  |    -10   |
 | 7                 | 2022-01-26 | darwin R5                     | 6 Young Douro         |  7    |    -10   |
 | 9                 | 2022-01-26 | warwick-farm R8               | 5 Miracle Day         |  7    |    -10   |
@@ -600,8 +600,8 @@ categories: None
 | :3rd_place_medal: | 2021-04-25 | devonport-synthetic R6        | 4 Rhyme Writer        |  4.8  |    -10   |
 | 5                 | 2021-04-25 | alice-springs R1              | 4 Dataset             |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-25 | awapuni R1                    | 2 Maison Roxanne      |  2.4  |    -10   |
-| :2nd_place_medal: | 2021-04-24 | darwin R4                     | 1 Patria              |  2.8  |    -10   |
 | 5                 | 2021-04-24 | darwin R4                     | 4 Trebla              | 14    |    -10   |
+| :2nd_place_medal: | 2021-04-24 | darwin R4                     | 1 Patria              |  2.8  |    -10   |
 | 4                 | 2021-04-24 | darwin R2                     | 2 Paseeto             |  6    |    -10   |
 | 5                 | 2021-04-24 | morphettville-parks R7        | 9 Renegade            | 14    |    -10   |
 | 4                 | 2021-04-24 | doomben R6                    | 2 Good Soize          |  6.6  |    -10   |
