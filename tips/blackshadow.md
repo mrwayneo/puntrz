@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-03-08 20:44:13 +1000  
+date: 2022-03-08 21:03:15 +1000  
 categories: None 
 ---   
 
@@ -549,8 +549,8 @@ categories: None
 | :boom:            | 2021-05-09 | devonport-synthetic R7        | 6 Spihro              |  7    |     60   |
 | 4                 | 2021-05-09 | devonport-synthetic R6        | 2 Sanction King       |  2.6  |    -10   |
 | :boom:            | 2021-05-08 | ascot R6                      | 9 Angelic Miss        |  2.7  |     17   |
-| :boom:            | 2021-05-08 | darwin R2                     | 2 Count of Essex      |  7.4  |     64   |
 | :2nd_place_medal: | 2021-05-08 | darwin R2                     | 1 Trebla              | 13    |    -10   |
+| :boom:            | 2021-05-08 | darwin R2                     | 2 Count of Essex      |  7.4  |     64   |
 | 5                 | 2021-05-08 | darwin R1                     | 2 Kaptan Apollo       |  3.8  |    -10   |
 | :3rd_place_medal: | 2021-05-06 | wagga R1                      | 1 Mortal Witness      |  6.6  |    -10   |
 | :2nd_place_medal: | 2021-05-05 | canterbury R5                 | 2 Kobe Rocks          |  5.1  |    -10   |
@@ -620,8 +620,8 @@ categories: None
 | :3rd_place_medal: | 2021-04-10 | rockhampton R2                | 3 Disco Mo            |  5.5  |    -10   |
 | 5                 | 2021-04-10 | doomben R3                    | 1 Cloak               |  3.6  |    -10   |
 | 99                | 2021-04-10 | aintree R4                    | 8 Politologue         |  3.65 |    -10   |
-| :boom:            | 2021-04-09 | darwin R3                     | 2 Papalet             |  2.3  |     13   |
 | :2nd_place_medal: | 2021-04-09 | darwin R3                     | 1 Divine Red          |  4.2  |    -10   |
+| :boom:            | 2021-04-09 | darwin R3                     | 2 Papalet             |  2.3  |     13   |
 | :3rd_place_medal: | 2021-04-09 | darwin R2                     | 3 God's Penny         |  5    |    -10   |
 | :boom:            | 2021-04-09 | darwin R1                     | 1 Kaptan Apollo       |  2.7  |     17   |
 | 4                 | 2021-04-09 | rockhampton R3                | 1 Mr Phenomenal       |  5    |    -10   |
@@ -635,8 +635,8 @@ categories: None
 | 6                 | 2021-04-03 | alice-springs R5              | 1 Live And Free       |  6    |    -10   |
 | :3rd_place_medal: | 2021-04-03 | ascot R4                      | 3 Amelia's Contraire  |  3    |    -10   |
 | 4                 | 2021-04-03 | alice-springs R4              | 4 Hope Ya Don't Mind  |  2.4  |    -10   |
-| 99                | 2021-04-03 | awapuni R3                    | 1 Navalha             |  9.5  |    -10   |
 | :2nd_place_medal: | 2021-04-03 | awapuni R3                    | 2 Hold The Press      |  2.9  |    -10   |
+| 99                | 2021-04-03 | awapuni R3                    | 1 Navalha             |  9.5  |    -10   |
 | 99                | 2021-04-03 | awapuni R2                    | 3 Leaderboard         |  5.5  |    -10   |
 | 5                 | 2021-04-01 | toowoomba R7                  | 5 Spirit One          |  1.82 |    -10   |
 | :boom:            | 2021-03-31 | doomben R6                    | 6 Skins               |  1.6  |      6   |
@@ -800,8 +800,8 @@ categories: None
 | :boom:            | 2020-10-24 | doomben R1                    | 6 Niedorp             |  1.3  |      3   |
 | :boom:            | 2020-10-23 | launceston R6                 | 1 Galenus             |  2.1  |     11   |
 | :2nd_place_medal: | 2020-10-23 | launceston R5                 | 5 Ivoryman            |  7    |    -10   |
-| :3rd_place_medal: | 2020-10-23 | launceston R1                 | 4 Sh'bourne Star      | 13    |    -10   |
 | :2nd_place_medal: | 2020-10-23 | launceston R1                 | 3 Sir Simon           |  1.85 |    -10   |
+| :3rd_place_medal: | 2020-10-23 | launceston R1                 | 4 Sh'bourne Star      | 13    |    -10   |
 | 6                 | 2020-10-22 | rockhampton R6                | 1 Barachiel           |  4.6  |    -10   |
 | 99                | 2020-10-19 | kempton R4                    | 3 Darling Maltaix     |  2.75 |    -10   |
 | 99                | 2020-10-18 | royal-ascot R4                | 1 Century Dream       | 19    |    -10   |
