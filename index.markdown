@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-08 16:59:46 +1000  
+date: 2022-03-08 18:19:20 +1000  
 ---   
 
 
@@ -9,6 +9,7 @@ date: 2022-03-08 16:59:46 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      9 |      1 |        3 | 0.11 |  0.03 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
@@ -19,7 +20,6 @@ date: 2022-03-08 16:59:46 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      0 |      -60 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      8 |      0 |      -80 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      9 |      0 |      -90 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     19 |      0 |     -190 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     28 |      1 |     -262 | 0.04 | -0.94 |
 
@@ -85,10 +85,10 @@ date: 2022-03-08 16:59:46 +1000
 |  5 | :soon:            | 2022-03-09 02:30:00 | sandown         |      4 |        1 | Didero Vallis  |   3.9  | looseknot            |
 |  6 | :soon:            | 2022-03-09 02:15:00 | newcastle       |      5 |        2 | Bavington Bob  |   1.85 | overthrow,moechilli  |
 |  7 | :soon:            | 2022-03-09 00:00:00 | newcastle       |      1 |        3 | Hidden Heroics |   4.4  | overthrow            |
-|  8 | :soon:            | 2022-03-08 17:04:00 | cairns          |      3 |        1 | Dunatun        |   3.4  | vulture              |
-|  9 | :soon:            | 2022-03-08 17:04:00 | cairns          |      3 |        3 | Sparkly Star   |   5.5  | pangea,moechilli     |
-| 10 | :soon:            | 2022-03-08 17:04:00 | cairns          |      3 |        6 | The Grove      |   3.4  | benny,pangea         |
-| 11 | :soon:            | 2022-03-08 17:00:00 | ballarat        |      8 |        3 | Bomber's Kiss  |   6.5  | overthrow            |
+|  8 | --                | 2022-03-08 17:04:00 | cairns          |      3 |        1 | Dunatun        |   3.4  | vulture              |
+|  9 | --                | 2022-03-08 17:04:00 | cairns          |      3 |        3 | Sparkly Star   |   5.5  | pangea,moechilli     |
+| 10 | --                | 2022-03-08 17:04:00 | cairns          |      3 |        6 | The Grove      |   3.4  | benny,pangea         |
+| 11 | :boom:            | 2022-03-08 17:00:00 | ballarat        |      8 |        3 | Bomber's Kiss  |   6.5  | overthrow            |
 | 12 | --                | 2022-03-08 16:27:00 | cairns          |      2 |        1 | Arise My Son   |   2.2  | evenodds,blackshadow |
 | 13 | --                | 2022-03-08 16:27:00 | cairns          |      2 |        7 | Magnate        |   4.5  | vulture,looseknot    |
 | 14 | --                | 2022-03-08 16:27:00 | cairns          |      2 |        3 | Love On Sunday |   6    | vulture              |
