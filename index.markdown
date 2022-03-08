@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-08 15:51:28 +1000  
+date: 2022-03-08 16:30:23 +1000  
 ---   
 
 
@@ -89,8 +89,8 @@ date: 2022-03-08 15:51:28 +1000
 |  9 | :soon:            | 2022-03-08 17:04:00 | cairns          |      3 |        3 | Sparkly Star   |   5.5  | pangea,moechilli     |
 | 10 | :soon:            | 2022-03-08 17:04:00 | cairns          |      3 |        6 | The Grove      |   3.4  | benny,pangea         |
 | 11 | :soon:            | 2022-03-08 17:00:00 | ballarat        |      8 |        3 | Bomber's Kiss  |   6.5  | overthrow            |
-| 12 | :soon:            | 2022-03-08 16:27:00 | cairns          |      2 |        1 | Arise My Son   |   2.2  | evenodds,blackshadow |
-| 13 | :soon:            | 2022-03-08 16:27:00 | cairns          |      2 |        7 | Magnate        |   4.5  | vulture,looseknot    |
-| 14 | :soon:            | 2022-03-08 16:27:00 | cairns          |      2 |        3 | Love On Sunday |   6    | vulture              |
+| 12 | --                | 2022-03-08 16:27:00 | cairns          |      2 |        1 | Arise My Son   |   2.2  | evenodds,blackshadow |
+| 13 | --                | 2022-03-08 16:27:00 | cairns          |      2 |        7 | Magnate        |   4.5  | vulture,looseknot    |
+| 14 | --                | 2022-03-08 16:27:00 | cairns          |      2 |        3 | Love On Sunday |   6    | vulture              |
 | 15 | --                | 2022-03-08 15:47:00 | cairns          |      1 |        1 | Lord Of Light  |   5.5  | moechilli            |
 | 16 | :3rd_place_medal: | 2022-03-08 14:25:00 | wagga-riverside |      2 |        1 | Evanora        |   3.2  | pangea               |
