@@ -1,25 +1,25 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-03-09 22:46:49 +1000  
+date: 2022-03-10 07:49:52 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     74 |     23 |    -23.2 | 0.31 | -0.03 |
-| Last 28 Days   |    395 |     94 |   -914.6 | 0.24 | -0.23 |
-| Last 6 Months  |   2723 |    651 |  -5423.1 | 0.24 | -0.2  |
-| Since Jan 2020 |   6818 |   1645 | -11483.7 | 0.24 | -0.17 |
+| Last 7 Days    |     73 |     19 |     63   | 0.26 |  0.09 |
+| Last 28 Days   |    405 |     97 |   -723.6 | 0.24 | -0.18 |
+| Last 6 Months  |   2738 |    655 |  -5235.1 | 0.24 | -0.19 |
+| Since Jan 2020 |   6833 |   1649 | -11295.7 | 0.24 | -0.17 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:00             | 2022-03-10 | kempton R2                    | 3 True Icon           |   3.8  |    -10   |
-| 04:40             | 2022-03-10 | catterick R7                  | 1 Upagainstit         |   2.8  |    -10   |
-| 04:40             | 2022-03-10 | catterick R7                  | 6 Toucan Sam          |   3    |    -10   |
-| 04:30             | 2022-03-10 | kempton R1                    | 2 Arousing            |   3.75 |    -10   |
-| 01:40             | 2022-03-10 | fontwell R4                   | 7 Island Run          |   3.1  |    -10   |
+| 0                 | 2022-03-10 | kempton R2                    | 3 True Icon           |   0    |    -10   |
+| 0                 | 2022-03-10 | catterick R7                  | 1 Upagainstit         |   0    |    -10   |
+| 0                 | 2022-03-10 | catterick R7                  | 6 Toucan Sam          |   0    |    -10   |
+| 0                 | 2022-03-10 | kempton R1                    | 2 Arousing            |   0    |    -10   |
+| 0                 | 2022-03-10 | fontwell R4                   | 7 Island Run          |   0    |    -10   |
 | :boom:            | 2022-03-09 | launceston R7                 | 5 Sh'bourne Rebel     |   6.7  |     57   |
 | 4                 | 2022-03-09 | ascot R7                      | 4 Fear The Wind       |   2.75 |    -10   |
 | :2nd_place_medal: | 2022-03-09 | ascot R7                      | 1 Black Fantasy       |   2.6  |    -10   |

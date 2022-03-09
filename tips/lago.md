@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-09 22:46:58 +1000  
+date: 2022-03-10 07:50:02 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      5 |      2 |    -21.5 | 0.4  | -0.43 |
-| Last 28 Days   |     14 |      4 |    -70   | 0.29 | -0.5  |
+| Last 28 Days   |     13 |      4 |    -60   | 0.31 | -0.46 |
 | Last 6 Months  |    112 |     55 |    315.7 | 0.49 |  0.28 |
 | Since Jan 2020 |    221 |    108 |   1315.7 | 0.49 |  0.6  |
 

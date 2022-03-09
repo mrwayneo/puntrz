@@ -1,35 +1,35 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-03-09 22:46:55 +1000  
+date: 2022-03-10 07:49:59 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    225 |     16 |    256   | 0.07 |  0.11 |
-| Last 28 Days   |   1063 |     60 |  -1434   | 0.06 | -0.13 |
-| Last 6 Months  |   8091 |    380 | -24125.5 | 0.05 | -0.3  |
-| Since Jan 2020 |  18755 |    971 | -40573   | 0.05 | -0.22 |
+| Last 7 Days    |    215 |     13 |     80   | 0.06 |  0.04 |
+| Last 28 Days   |   1035 |     58 |  -1426   | 0.06 | -0.14 |
+| Last 6 Months  |   8119 |    381 | -24178.5 | 0.05 | -0.3  |
+| Since Jan 2020 |  18783 |    972 | -40626   | 0.05 | -0.22 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:30             | 2022-03-10 | kempton R7                    | 7 Ghepardo            |  51    |    -10   |
-| 07:30             | 2022-03-10 | kempton R7                    | 6 Julie Johnston      |  21    |    -10   |
-| 07:30             | 2022-03-10 | kempton R7                    | 3 Fact Or Fable       |  13    |    -10   |
-| 07:30             | 2022-03-10 | kempton R7                    | 9 Hunters Step        |  17    |    -10   |
-| 07:30             | 2022-03-10 | kempton R7                    | 8 Dubai Elegance      |  16    |    -10   |
-| 07:30             | 2022-03-10 | kempton R7                    | 4 No Diggity          |  11    |    -10   |
-| 07:00             | 2022-03-10 | kempton R6                    | 7 Lethal Angel        |  26    |    -10   |
-| 06:30             | 2022-03-10 | kempton R5                    | 11 Sweet Summer       |  13    |    -10   |
-| 05:00             | 2022-03-10 | kempton R2                    | 1 Baileys Liberty     |  15    |    -10   |
-| 03:25             | 2022-03-10 | fontwell R7                   | 11 Weardiditallgorong |  15    |    -10   |
-| 03:25             | 2022-03-10 | fontwell R7                   | 3 Chantecler          | 101    |    -10   |
-| 02:15             | 2022-03-10 | fontwell R5                   | 10 Telleroftales      | 101    |    -10   |
-| 02:15             | 2022-03-10 | fontwell R5                   | 6 Major Reward        |  71    |    -10   |
-| 01:05             | 2022-03-10 | fontwell R3                   | 5 Auld Sod            |  10    |    -10   |
-| 00:30             | 2022-03-10 | fontwell R2                   | 3 Baby Sham           |  23    |    -10   |
+| 0                 | 2022-03-10 | kempton R7                    | 7 Ghepardo            |   0    |    -10   |
+| 0                 | 2022-03-10 | kempton R7                    | 6 Julie Johnston      |   0    |    -10   |
+| 0                 | 2022-03-10 | kempton R7                    | 3 Fact Or Fable       |   0    |    -10   |
+| 0                 | 2022-03-10 | kempton R7                    | 9 Hunters Step        |   0    |    -10   |
+| 0                 | 2022-03-10 | kempton R7                    | 8 Dubai Elegance      |   0    |    -10   |
+| 0                 | 2022-03-10 | kempton R7                    | 4 No Diggity          |   0    |    -10   |
+| 0                 | 2022-03-10 | kempton R6                    | 7 Lethal Angel        |   0    |    -10   |
+| 0                 | 2022-03-10 | kempton R5                    | 11 Sweet Summer       |   0    |    -10   |
+| 0                 | 2022-03-10 | kempton R2                    | 1 Baileys Liberty     |   0    |    -10   |
+| 0                 | 2022-03-10 | fontwell R7                   | 11 Weardiditallgorong |   0    |    -10   |
+| 0                 | 2022-03-10 | fontwell R7                   | 3 Chantecler          |   0    |    -10   |
+| 0                 | 2022-03-10 | fontwell R5                   | 10 Telleroftales      |   0    |    -10   |
+| 0                 | 2022-03-10 | fontwell R5                   | 6 Major Reward        |   0    |    -10   |
+| 0                 | 2022-03-10 | fontwell R3                   | 5 Auld Sod            |   0    |    -10   |
+| 0                 | 2022-03-10 | fontwell R2                   | 3 Baby Sham           |   0    |    -10   |
 | 4                 | 2022-03-09 | launceston R7                 | 9 Lucky Lil           |  13    |    -10   |
 | 7                 | 2022-03-09 | launceston R7                 | 8 Sanction King       |  21    |    -10   |
 | :3rd_place_medal: | 2022-03-09 | ascot R7                      | 10 Art Admirer        |  31    |    -10   |

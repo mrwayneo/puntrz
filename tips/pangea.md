@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2022-03-09 22:46:50 +1000  
+date: 2022-03-10 07:49:53 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     56 |     12 |   -144.5 | 0.21 | -0.26 |
-| Last 28 Days   |    313 |     61 |   -798.4 | 0.19 | -0.26 |
-| Last 6 Months  |   1866 |    365 |  -4723.2 | 0.2  | -0.25 |
-| Since Jan 2020 |   4729 |    991 |  -4874.8 | 0.21 | -0.1  |
+| Last 7 Days    |     53 |     11 |   -136.5 | 0.21 | -0.26 |
+| Last 28 Days   |    311 |     57 |   -897.4 | 0.18 | -0.29 |
+| Last 6 Months  |   1875 |    365 |  -4813.2 | 0.19 | -0.26 |
+| Since Jan 2020 |   4738 |    991 |  -4964.8 | 0.21 | -0.1  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:25             | 2022-03-10 | fontwell R7                   | 4 Antony              |   8    |    -10   |
-| 02:35             | 2022-03-10 | lingfield R4                  | 3 Unforgiving Minute  |   8    |    -10   |
+| 0                 | 2022-03-10 | fontwell R7                   | 4 Antony              |   0    |    -10   |
+| 0                 | 2022-03-10 | lingfield R4                  | 3 Unforgiving Minute  |   0    |    -10   |
 | 4                 | 2022-03-09 | launceston R8                 | 2 Rhyme Writer        |   4.8  |    -10   |
 | :2nd_place_medal: | 2022-03-09 | launceston R7                 | 4 Boom Dot Com        |   3.1  |    -10   |
 | :2nd_place_medal: | 2022-03-09 | ascot R3                      | 5 Snippy Miss         |   3.6  |    -10   |

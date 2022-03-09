@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-03-09 22:46:52 +1000  
+date: 2022-03-10 07:49:56 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     61 |      3 |      314 | 0.05 |  0.51 |
-| Last 28 Days   |    336 |     16 |     -591 | 0.05 | -0.18 |
-| Last 6 Months  |   2454 |    125 |    -4543 | 0.05 | -0.19 |
-| Since Jan 2020 |   5576 |    323 |    -1526 | 0.06 | -0.03 |
+| Last 7 Days    |     56 |      3 |      373 | 0.05 |  0.67 |
+| Last 28 Days   |    333 |     17 |     -334 | 0.05 | -0.1  |
+| Last 6 Months  |   2461 |    126 |    -4386 | 0.05 | -0.18 |
+| Since Jan 2020 |   5583 |    324 |    -1369 | 0.06 | -0.02 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:00             | 2022-03-10 | kempton R2                    | 1 Baileys Liberty     |  15    |      -10 |
+| 0                 | 2022-03-10 | kempton R2                    | 1 Baileys Liberty     |   0    |      -10 |
 | 7                 | 2022-03-09 | launceston R7                 | 8 Sanction King       |  21    |      -10 |
 | 0                 | 2022-03-09 | ascot R7                      | 2 Celevacci           |   0    |      -10 |
 | :boom:            | 2022-03-09 | ascot R5                      | 6 Lord Augustus       |  22.7  |      217 |

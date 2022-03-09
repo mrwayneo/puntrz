@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-03-09 22:46:51 +1000  
+date: 2022-03-10 07:49:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     13 |      2 |      -18 | 0.15 | -0.14 |
-| Last 28 Days   |     63 |      9 |     -203 | 0.14 | -0.32 |
-| Last 6 Months  |    341 |     78 |     -661 | 0.23 | -0.19 |
-| Since Jan 2020 |    851 |    204 |     -997 | 0.24 | -0.12 |
+| Last 7 Days    |     11 |      2 |       22 | 0.18 |  0.2  |
+| Last 28 Days   |     64 |     10 |     -146 | 0.16 | -0.23 |
+| Last 6 Months  |    344 |     79 |     -624 | 0.23 | -0.18 |
+| Since Jan 2020 |    854 |    205 |     -960 | 0.24 | -0.11 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 03:25             | 2022-03-10 | fontwell R7                   | 4 Antony              |  8    |    -10   |
+| 0                 | 2022-03-10 | fontwell R7                   | 4 Antony              |  0    |    -10   |
 | :boom:            | 2022-03-09 | launceston R7                 | 5 Sh'bourne Rebel     |  6.7  |     57   |
 | :2nd_place_medal: | 2022-03-09 | ascot R3                      | 5 Snippy Miss         |  3.6  |    -10   |
 | 0                 | 2022-03-08 | cairns R5                     | 5 Nice Retort         |  0    |    -10   |

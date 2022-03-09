@@ -1,25 +1,25 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-03-09 22:46:53 +1000  
+date: 2022-03-10 07:49:57 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    196 |     23 |   -114.4 | 0.12 | -0.06 |
-| Last 28 Days   |   1014 |    102 |  -3138   | 0.1  | -0.31 |
-| Last 6 Months  |   6421 |    850 | -16050.9 | 0.13 | -0.25 |
-| Since Jan 2020 |  12998 |   2018 | -20684.7 | 0.16 | -0.16 |
+| Last 7 Days    |    165 |     16 |   -308   | 0.1  | -0.19 |
+| Last 28 Days   |    981 |    101 |  -2854   | 0.1  | -0.29 |
+| Last 6 Months  |   6429 |    850 | -16130.9 | 0.13 | -0.25 |
+| Since Jan 2020 |  13006 |   2018 | -20764.7 | 0.16 | -0.16 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:10             | 2022-03-10 | catterick R6                  | 4 Absainte            |   2.25 |    -10   |
-| 03:45             | 2022-03-10 | lingfield R6                  | 2 Reeceltic           |   2.35 |    -10   |
-| 23:15             | 2022-03-09 | happy-valley R4               | 7 Yo Beauty           |   0    |    -10   |
-| 23:15             | 2022-03-09 | happy-valley R4               | 4 Ka Ying Excellent   |   0    |    -10   |
-| 23:15             | 2022-03-09 | happy-valley R4               | 8 Faulds              |   0    |    -10   |
+| 0                 | 2022-03-10 | catterick R6                  | 4 Absainte            |   0    |    -10   |
+| 0                 | 2022-03-10 | lingfield R6                  | 2 Reeceltic           |   0    |    -10   |
+| 0                 | 2022-03-09 | happy-valley R4               | 7 Yo Beauty           |   0    |    -10   |
+| 0                 | 2022-03-09 | happy-valley R4               | 4 Ka Ying Excellent   |   0    |    -10   |
+| 0                 | 2022-03-09 | happy-valley R4               | 8 Faulds              |   0    |    -10   |
 | 8                 | 2022-03-09 | launceston R4                 | 2 Shooting North      |   3.1  |    -10   |
 | :3rd_place_medal: | 2022-03-09 | strathalbyn R5                | 1 Koruto              |   3.2  |    -10   |
 | :2nd_place_medal: | 2022-03-09 | strathalbyn R4                | 11 Robe Raider        |   3    |    -10   |

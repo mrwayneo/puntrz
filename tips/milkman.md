@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-03-09 22:46:52 +1000  
+date: 2022-03-10 07:49:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     36 |     12 |    -85.5 | 0.33 | -0.24 |
-| Last 28 Days   |    181 |     47 |    -51   | 0.26 | -0.03 |
-| Last 6 Months  |   1186 |    288 |  -2838.8 | 0.24 | -0.24 |
-| Since Jan 2020 |   2885 |    725 |  -4874.6 | 0.25 | -0.17 |
+| Last 7 Days    |     32 |      9 |   -101.3 | 0.28 | -0.32 |
+| Last 28 Days   |    181 |     48 |     -7   | 0.27 | -0    |
+| Last 6 Months  |   1190 |    289 |  -2834.8 | 0.24 | -0.24 |
+| Since Jan 2020 |   2889 |    726 |  -4870.6 | 0.25 | -0.17 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 03:10             | 2022-03-10 | lingfield R5                 | 2 Golden Warrior      |   6    |    -10   |
-| 03:10             | 2022-03-10 | lingfield R5                 | 5 Second Wind         |   7    |    -10   |
+| 0                 | 2022-03-10 | lingfield R5                 | 2 Golden Warrior      |   0    |    -10   |
+| 0                 | 2022-03-10 | lingfield R5                 | 5 Second Wind         |   0    |    -10   |
 | 7                 | 2022-03-09 | ascot R2                     | 7 Mussa               |   4.8  |    -10   |
 | :boom:            | 2022-03-09 | sandown-hillside R4          | 9 My Whisper          |   4.4  |     34   |
 | 0                 | 2022-03-09 | newcastle R8                 | 1 Fancy Stuff         |   0    |    -10   |

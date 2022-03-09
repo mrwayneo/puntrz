@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-03-09 22:46:51 +1000  
+date: 2022-03-10 07:49:53 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     64 |     16 |    -25.5 | 0.25 | -0.04 |
-| Last 28 Days   |    330 |     70 |  -1053.6 | 0.21 | -0.32 |
-| Last 6 Months  |   2247 |    541 |  -5319.3 | 0.24 | -0.24 |
-| Since Jan 2020 |   5274 |   1330 |  -7034.5 | 0.25 | -0.13 |
+| Last 7 Days    |     54 |     12 |    -77.5 | 0.22 | -0.14 |
+| Last 28 Days   |    326 |     67 |  -1101.6 | 0.21 | -0.34 |
+| Last 6 Months  |   2255 |    541 |  -5399.3 | 0.24 | -0.24 |
+| Since Jan 2020 |   5282 |   1330 |  -7114.5 | 0.25 | -0.13 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 04:40             | 2022-03-10 | catterick R7                 | 1 Upagainstit         |   2.8  |    -10   |
-| 01:50             | 2022-03-10 | catterick R2                 | 6 Sweet Auburn        |   2.8  |    -10   |
-| 01:40             | 2022-03-10 | fontwell R4                  | 3 Hell Red            |   9.5  |    -10   |
+| 0                 | 2022-03-10 | catterick R7                 | 1 Upagainstit         |   0    |    -10   |
+| 0                 | 2022-03-10 | catterick R2                 | 6 Sweet Auburn        |   0    |    -10   |
+| 0                 | 2022-03-10 | fontwell R4                  | 3 Hell Red            |   0    |    -10   |
 | 7                 | 2022-03-09 | launceston R9                | 4 Outbound            |   3.6  |    -10   |
 | :2nd_place_medal: | 2022-03-09 | launceston R8                | 4 Sharma Rama         |   3.25 |    -10   |
 | :3rd_place_medal: | 2022-03-09 | ipswich R5                   | 2 Writtle             |   3    |    -10   |

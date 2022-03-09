@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2022-03-09 22:46:49 +1000  
+date: 2022-03-10 07:49:51 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |     11 |      3 |    -52   | 0.27 | -0.47 |
-| Last 28 Days   |     73 |     17 |   -295.6 | 0.23 | -0.4  |
-| Last 6 Months  |    586 |    145 |  -1987.6 | 0.25 | -0.34 |
-| Since Jan 2020 |   1391 |    381 |  -3046.5 | 0.27 | -0.22 |
+| Last 28 Days   |     72 |     16 |   -302.6 | 0.22 | -0.42 |
+| Last 6 Months  |    588 |    145 |  -2007.6 | 0.25 | -0.34 |
+| Since Jan 2020 |   1393 |    381 |  -3066.5 | 0.27 | -0.22 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 04:40             | 2022-03-10 | catterick R7                 | 1 Upagainstit         |   2.8  |    -10   |
+| 0                 | 2022-03-10 | catterick R7                 | 1 Upagainstit         |   0    |    -10   |
 | 0                 | 2022-03-09 | ipswich R2                   | 7 Sacred Oath         |   0    |    -10   |
 | 0                 | 2022-03-09 | newcastle R8                 | 1 Fancy Stuff         |   0    |    -10   |
 | 0                 | 2022-03-08 | cairns R2                    | 1 Arise My Son        |   0    |    -10   |

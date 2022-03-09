@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-03-09 22:46:53 +1000  
+date: 2022-03-10 07:49:57 +1000  
 categories: None 
 ---   
 
@@ -9,15 +9,15 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |     18 |      0 |   -180   | 0    | -1    |
-| Last 28 Days   |     80 |      4 |   -510   | 0.05 | -0.64 |
-| Last 6 Months  |    602 |     88 |   -622.5 | 0.15 | -0.1  |
-| Since Jan 2020 |   1404 |    206 |  -2033.8 | 0.15 | -0.14 |
+| Last 28 Days   |     82 |      3 |   -585   | 0.04 | -0.71 |
+| Last 6 Months  |    606 |     88 |   -662.5 | 0.15 | -0.11 |
+| Since Jan 2020 |   1408 |    206 |  -2073.8 | 0.15 | -0.15 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:10             | 2022-03-10 | catterick R6                  | 5 Clancypantz         |   7    |    -10   |
-| 02:25             | 2022-03-10 | catterick R3                  | 4 Highate Hill        |   4.8  |    -10   |
-| 01:05             | 2022-03-10 | fontwell R3                   | 6 Who Is That         |   7    |    -10   |
+| 0                 | 2022-03-10 | catterick R6                  | 5 Clancypantz         |   0    |    -10   |
+| 0                 | 2022-03-10 | catterick R3                  | 4 Highate Hill        |   0    |    -10   |
+| 0                 | 2022-03-10 | fontwell R3                   | 6 Who Is That         |   0    |    -10   |
 | :3rd_place_medal: | 2022-03-09 | sandown-hillside R1           | 10 Jenniferenti       |   2.8  |    -10   |
 | 4                 | 2022-03-09 | sandown R4                    | 1 Didero Vallis       |   3.9  |    -10   |
 | 0                 | 2022-03-08 | cairns R2                     | 7 Magnate             |   0    |    -10   |
