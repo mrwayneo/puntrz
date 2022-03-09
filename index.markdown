@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-09 17:54:53 +1000  
+date: 2022-03-09 18:09:49 +1000  
 ---   
 
 
@@ -97,7 +97,7 @@ date: 2022-03-09 17:54:53 +1000
 | 19 | :soon:            | 2022-03-09 20:20:00 | ascot            |      7 |        4 | Fear The Wind      |   2.75 | vulture             |
 | 20 | :soon:            | 2022-03-09 20:20:00 | ascot            |      7 |        1 | Black Fantasy      |   2.6  | vulture             |
 | 21 | :soon:            | 2022-03-09 19:45:00 | ascot            |      6 |        1 | Gambler's Gold     |   2.7  | vulture             |
-| 22 | --                | 2022-03-09 17:54:00 | ascot            |      3 |        5 | Snippy Miss        |   3.6  | pangea,blackshadow  |
+| 22 | :2nd_place_medal: | 2022-03-09 17:54:00 | ascot            |      3 |        5 | Snippy Miss        |   3.6  | pangea,blackshadow  |
 | 23 | 7.0               | 2022-03-09 17:15:00 | ascot            |      2 |        7 | Mussa              |   4.8  | vulture,milkman     |
 | 24 | :3rd_place_medal: | 2022-03-09 16:58:00 | ipswich          |      5 |        2 | Writtle            |   3    | overthrow           |
 | 25 | 4.0               | 2022-03-09 16:58:00 | ipswich          |      5 |        7 | Rose Of Sebring    |   5.5  | pangea              |
