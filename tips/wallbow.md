@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-03-10 07:49:56 +1000  
+date: 2022-03-10 08:44:43 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,7 @@ categories: None
 
 | finish            | date       | event                | runner             |   win |   return |
 |:------------------|:-----------|:---------------------|:-------------------|------:|---------:|
+| 16:55             | 2022-03-10 | canterbury R7        | 7 Gracilistyla     |  2.75 |      -10 |
 | 4                 | 2022-03-04 | newcastle R7         | 4 Aramayo          |  6.5  |      -10 |
 | :2nd_place_medal: | 2022-03-04 | newcastle R3         | 2 Naval Seal       |  7    |      -10 |
 | 4                 | 2022-03-01 | goulburn R2          | 1 Rangitikei       |  2.05 |      -10 |

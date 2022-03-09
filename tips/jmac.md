@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-10 07:50:01 +1000  
+date: 2022-03-10 08:44:48 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,11 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 16:55             | 2022-03-10 | canterbury R7        | 2 Diamil             |  5.5  |    -10   |
+| 15:05             | 2022-03-10 | canterbury R4        | 9 Headliner          |  2.88 |    -10   |
+| 14:25             | 2022-03-10 | canterbury R3        | 9 Scat's Surfer Girl |  4.4  |    -10   |
+| 13:50             | 2022-03-10 | canterbury R2        | 1 Renosu             |  4.75 |    -10   |
+| 13:15             | 2022-03-10 | canterbury R1        | 8 Perpignan          |  5    |    -10   |
 | :boom:            | 2022-03-05 | randwick R10         | 4 Belluci Babe       |  2.9  |     19   |
 | :2nd_place_medal: | 2022-03-05 | randwick R9          | 1 Polly Grey         |  4.5  |    -10   |
 | :2nd_place_medal: | 2022-03-05 | randwick R8          | 1 Anamoe             |  1.75 |    -10   |
