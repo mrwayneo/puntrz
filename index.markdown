@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-09 20:17:46 +1000  
+date: 2022-03-09 20:35:32 +1000  
 ---   
 
 
@@ -94,8 +94,8 @@ date: 2022-03-09 20:17:46 +1000
 | 16 | :soon:            | 2022-03-09 21:30:00 | launceston       |      8 |        4 | Sharma Rama        |   3.25 | overthrow           |
 | 17 | :soon:            | 2022-03-09 21:00:00 | launceston       |      7 |        4 | Boom Dot Com       |   3.1  | benny,pangea        |
 | 18 | :soon:            | 2022-03-09 21:00:00 | launceston       |      7 |        5 | Sh'bourne Rebel    |   4.33 | vulture,blackshadow |
-| 19 | :soon:            | 2022-03-09 20:20:00 | ascot            |      7 |        4 | Fear The Wind      |   2.75 | vulture             |
-| 20 | :soon:            | 2022-03-09 20:20:00 | ascot            |      7 |        1 | Black Fantasy      |   2.6  | vulture             |
+| 19 | 4.0               | 2022-03-09 20:20:00 | ascot            |      7 |        4 | Fear The Wind      |   2.75 | vulture             |
+| 20 | :2nd_place_medal: | 2022-03-09 20:20:00 | ascot            |      7 |        1 | Black Fantasy      |   2.6  | vulture             |
 | 21 | 4.0               | 2022-03-09 19:45:00 | ascot            |      6 |        1 | Gambler's Gold     |   2.7  | vulture             |
 | 22 | :2nd_place_medal: | 2022-03-09 17:54:00 | ascot            |      3 |        5 | Snippy Miss        |   3.6  | pangea,blackshadow  |
 | 23 | 7.0               | 2022-03-09 17:15:00 | ascot            |      2 |        7 | Mussa              |   4.8  | vulture,milkman     |
