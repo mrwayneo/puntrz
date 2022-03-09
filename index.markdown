@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-09 21:05:06 +1000  
+date: 2022-03-09 21:41:35 +1000  
 ---   
 
 
@@ -90,8 +90,8 @@ date: 2022-03-09 21:05:06 +1000
 | 12 | :soon:            | 2022-03-10 01:40:00 | fontwell         |      4 |        7 | Island Run         |   3.1  | vulture             |
 | 13 | :soon:            | 2022-03-10 01:05:00 | fontwell         |      3 |        6 | Who Is That        |   7    | looseknot           |
 | 14 | :soon:            | 2022-03-09 22:00:00 | launceston       |      9 |        4 | Outbound           |   3.6  | overthrow           |
-| 15 | :soon:            | 2022-03-09 21:30:00 | launceston       |      8 |        2 | Rhyme Writer       |   4.8  | pangea              |
-| 16 | :soon:            | 2022-03-09 21:30:00 | launceston       |      8 |        4 | Sharma Rama        |   3.25 | overthrow           |
+| 15 | 4.0               | 2022-03-09 21:30:00 | launceston       |      8 |        2 | Rhyme Writer       |   4.8  | pangea              |
+| 16 | :2nd_place_medal: | 2022-03-09 21:30:00 | launceston       |      8 |        4 | Sharma Rama        |   3.25 | overthrow           |
 | 17 | :2nd_place_medal: | 2022-03-09 21:00:00 | launceston       |      7 |        4 | Boom Dot Com       |   3.1  | benny,pangea        |
 | 18 | :boom:            | 2022-03-09 21:00:00 | launceston       |      7 |        5 | Sh'bourne Rebel    |   4.33 | vulture,blackshadow |
 | 19 | 4.0               | 2022-03-09 20:20:00 | ascot            |      7 |        4 | Fear The Wind      |   2.75 | vulture             |
