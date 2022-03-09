@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-03-09 16:29:26 +1000  
+date: 2022-03-09 16:44:40 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
 | 21:00             | 2022-03-09 | launceston R7                 | 4 Boom Dot Com        |  3.1  |    -10   |
-| 16:30             | 2022-03-09 | strathalbyn R6                | 4 Hurricane Max       | 11    |    -10   |
+| 5                 | 2022-03-09 | strathalbyn R6                | 4 Hurricane Max       | 11    |    -10   |
 | 0                 | 2022-03-08 | cairns R3                     | 6 The Grove           |  0    |    -10   |
 | :3rd_place_medal: | 2022-03-05 | alice-springs R1              | 2 Desert Lass         |  9.5  |    -10   |
 | :boom:            | 2022-03-05 | murray-bdge R6                | 5 Zoist               |  6.5  |     55   |
@@ -92,8 +92,8 @@ categories: None
 | 6                 | 2022-01-29 | morphettville R3              | 4 Stan The Caddy      |  0    |    -10   |
 | 6                 | 2022-01-28 | southwell R4                  | 8 Corinthia Knight    | 17    |    -10   |
 | 4                 | 2022-01-27 | rockhampton R7                | 7 Whoa Lola           |  1.67 |    -10   |
-| :3rd_place_medal: | 2022-01-27 | rockhampton R2                | 3 Courtesy Bus        |  4.33 |    -10   |
 | :2nd_place_medal: | 2022-01-27 | rockhampton R2                | 2 Nailed It Nan       |  2.6  |    -10   |
+| :3rd_place_medal: | 2022-01-27 | rockhampton R2                | 3 Courtesy Bus        |  4.33 |    -10   |
 | :2nd_place_medal: | 2022-01-26 | belmont R8                    | 2 Makfly              |  6.5  |    -10   |
 | 7                 | 2022-01-26 | darwin R5                     | 6 Young Douro         |  7    |    -10   |
 | 9                 | 2022-01-26 | warwick-farm R8               | 5 Miracle Day         |  7    |    -10   |
@@ -358,8 +358,8 @@ categories: None
 | 10                | 2021-09-04 | eagle-farm R9                 | 1 Vinco               |  5    |    -10   |
 | 8                 | 2021-09-04 | belmont R5                    | 3 Campese             |  2.05 |    -10   |
 | 8                 | 2021-09-04 | barcaldine R7                 | 6 No Refund           | 21    |    -10   |
-| :3rd_place_medal: | 2021-09-04 | eagle-farm R7                 | 3 Ready Babe          | 18    |    -10   |
 | :boom:            | 2021-09-04 | eagle-farm R7                 | 4 Ingear              |  2.5  |     15   |
+| :3rd_place_medal: | 2021-09-04 | eagle-farm R7                 | 3 Ready Babe          | 18    |    -10   |
 | :2nd_place_medal: | 2021-09-04 | belmont R3                    | 2 Dunbar              |  2.8  |    -10   |
 | :3rd_place_medal: | 2021-09-04 | randwick R7                   | 5 Star of the Seas    | 11    |    -10   |
 | 4                 | 2021-09-04 | newcastle R4                  | 5 False Step          | 10    |    -10   |
@@ -538,8 +538,8 @@ categories: None
 | 11                | 2021-05-29 | eagle-farm R3                 | 10 Not an Option      | 26    |    -10   |
 | 8                 | 2021-05-29 | eagle-farm R2                 | 14 Beachbreak         | 11    |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R7             | 5 Queen Dazzler       |  3.4  |    -10   |
-| :2nd_place_medal: | 2021-05-27 | northam R9                    | 7 Brave Dream         |  5.1  |    -10   |
 | :boom:            | 2021-05-27 | northam R9                    | 9 Conquered Zone      |  5.8  |     48   |
+| :2nd_place_medal: | 2021-05-27 | northam R9                    | 7 Brave Dream         |  5.1  |    -10   |
 | 6                 | 2021-05-26 | belmont R7                    | 5 Truly Reliable      | 26    |    -10   |
 | 99                | 2021-05-25 | fairview R2                   | 1 Tarsus              |  3.8  |    -10   |
 | :boom:            | 2021-05-23 | devonport-synthetic R6        | 8 Aragon Star         |  4.5  |     35   |

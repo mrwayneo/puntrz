@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-09 16:29:35 +1000  
+date: 2022-03-09 16:44:50 +1000  
 ---   
 
 
@@ -103,7 +103,7 @@ date: 2022-03-09 16:29:35 +1000
 | 25 | :soon:            | 2022-03-09 16:58:00 | ipswich          |      5 |        7 | Rose Of Sebring    |   5.5  | pangea              |
 | 26 | :soon:            | 2022-03-09 16:50:00 | sandown-hillside |      5 |        7 | Jaffastock         |   9.5  | vulture             |
 | 27 | :soon:            | 2022-03-09 16:50:00 | sandown-hillside |      5 |        5 | Upswing            |   9.5  | pangea              |
-| 28 | :soon:            | 2022-03-09 16:30:00 | strathalbyn      |      6 |        4 | Hurricane Max      |  11    | benny,pangea        |
+| 28 | 5.0               | 2022-03-09 16:30:00 | strathalbyn      |      6 |        4 | Hurricane Max      |  11    | benny,pangea        |
 | 29 | :boom:            | 2022-03-09 16:15:00 | sandown-hillside |      4 |        9 | My Whisper         |   5.5  | vulture,milkman     |
 | 30 | :3rd_place_medal: | 2022-03-09 16:15:00 | sandown-hillside |      4 |       10 | White Wedding      |  13    | vulture             |
 | 31 | :boom:            | 2022-03-09 15:13:00 | ipswich          |      2 |       11 | Tesaura            |   6    | vulture             |
