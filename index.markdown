@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-11 07:52:22 +1000  
+date: 2022-03-11 08:55:20 +1000  
 ---   
 
 
@@ -75,36 +75,36 @@ date: 2022-03-11 07:52:22 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6099 |    796 | -14651.8 | 0.13 | -0.24 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7853 |    360 | -23958.5 | 0.05 | -0.31 |
 
-|    | finish            | time                | track           |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :boom:            | 2022-03-11 04:30:00 | wincanton       |      7 |        5 | Tahmuras           |   1.9  | evenodds,overthrow |
-|  1 | :2nd_place_medal: | 2022-03-11 04:30:00 | wincanton       |      7 |        9 | Blow Your Wad      |   2.9  | vulture            |
-|  2 | :boom:            | 2022-03-11 04:15:00 | thurles         |      7 |        9 | Sir Argus          |   2.75 | overthrow          |
-|  3 | --                | 2022-03-11 04:15:00 | thurles         |      7 |        6 | Monrocher          |   5.5  | looseknot          |
-|  4 | :boom:            | 2022-03-11 03:30:00 | carlisle        |      7 |        1 | Maximilian         |   2.3  | overthrow,lago     |
-|  5 | --                | 2022-03-11 03:20:00 | wincanton       |      5 |        5 | After The Fox      |  12    | overthrow          |
-|  6 | :boom:            | 2022-03-11 02:55:00 | carlisle        |      6 |        1 | Malpas             |   1.17 | overthrow          |
-|  7 | :2nd_place_medal: | 2022-03-11 02:45:00 | wincanton       |      4 |        1 | Amenon             |   2.35 | overthrow          |
-|  8 | --                | 2022-03-11 02:45:00 | wincanton       |      4 |        9 | Kingsand Bay       |  12    | overthrow          |
-|  9 | 6.0               | 2022-03-11 02:10:00 | wincanton       |      3 |        5 | Belle Jour         |   9    | looseknot          |
-| 10 | :boom:            | 2022-03-11 01:55:00 | southwell       |      3 |        7 | Swilcan Bridge     |   4.8  | looseknot          |
-| 11 | :boom:            | 2022-03-11 01:45:00 | carlisle        |      4 |        1 | Taragrace          |   3.1  | vulture            |
-| 12 | --                | 2022-03-11 01:35:00 | wincanton       |      2 |       12 | Whisky Express     |   4.4  | pangea             |
-| 13 | :3rd_place_medal: | 2022-03-11 01:25:00 | thurles         |      2 |        4 | Good Bye Sam       |   1.35 | overthrow          |
-| 14 | 4.0               | 2022-03-11 00:35:00 | carlisle        |      2 |        1 | Barrowdale         |   2.3  | evenodds,overthrow |
-| 15 | :boom:            | 2022-03-11 00:20:00 | vaal            |      7 |        1 | Imposing Angel     |   0    | vulture            |
-| 16 | :boom:            | 2022-03-10 20:15:00 | racing.com-park |      6 |        5 | Deprivation        |   3.25 | pangea             |
-| 17 | :3rd_place_medal: | 2022-03-10 20:15:00 | racing.com-park |      6 |        9 | Morean             |   3.9  | evenodds,lago      |
-| 18 | 5.0               | 2022-03-10 19:30:00 | pinjarra        |      6 |        5 | Queenship          |   2.8  | benny,blackshadow  |
-| 19 | :2nd_place_medal: | 2022-03-10 17:30:00 | canterbury      |      8 |       10 | Tonneofgrit        |   6.5  | pikey              |
-| 20 | :3rd_place_medal: | 2022-03-10 16:55:00 | canterbury      |      7 |        1 | Vreneli            |   5.5  | benny,pangea       |
-| 21 | :2nd_place_medal: | 2022-03-10 16:55:00 | canterbury      |      7 |        2 | Diamil             |   5.5  | jmac               |
-| 22 | :boom:            | 2022-03-10 16:55:00 | canterbury      |      7 |        7 | Gracilistyla       |   2.75 | vulture,wallbow    |
-| 23 | 8.0               | 2022-03-10 16:05:00 | port-macquarie  |      6 |        2 | West Germany       |   6.5  | pangea             |
-| 24 | :2nd_place_medal: | 2022-03-10 15:05:00 | canterbury      |      4 |        9 | Headliner          |   2.88 | jmac               |
-| 25 | 8.0               | 2022-03-10 15:05:00 | canterbury      |      4 |        6 | Yagoona            |   5.5  | pikey              |
-| 26 | 8.0               | 2022-03-10 14:25:00 | canterbury      |      3 |        9 | Scat's Surfer Girl |   4.4  | looseknot,jmac     |
-| 27 | 4.0               | 2022-03-10 13:50:00 | canterbury      |      2 |        1 | Renosu             |   4.75 | jmac               |
-| 28 | 5.0               | 2022-03-10 13:35:00 | port-macquarie  |      2 |        9 | Askebar            |   5.5  | looseknot          |
-| 29 | 4.0               | 2022-03-10 13:15:00 | canterbury      |      1 |        8 | Perpignan          |   5    | jmac               |
-| 30 | 5.0               | 2022-03-10 12:15:00 | riccarton-park  |      3 |        9 | So Amused          |   4.8  | looseknot          |
+|    | finish   | time                | track               |   race |   number | name               |   odds | tipster              |
+|---:|:---------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:---------------------|
+|  0 | :soon:   | 2022-03-12 07:15:00 | wolverhampton       |      7 |        2 | Aegis Power        |   3.1  | vulture              |
+|  1 | :soon:   | 2022-03-12 07:15:00 | wolverhampton       |      7 |        3 | Illuminated        |   2.8  | vulture              |
+|  2 | :soon:   | 2022-03-12 05:45:00 | wolverhampton       |      4 |        2 | King Of Jungle     |   3.3  | milkman              |
+|  3 | :soon:   | 2022-03-12 05:45:00 | wolverhampton       |      4 |        1 | Clase Azul Ultra   |   3    | vulture,milkman      |
+|  4 | :soon:   | 2022-03-12 04:20:00 | newcastle           |      7 |        3 | Taragrace          |   2.9  | vulture              |
+|  5 | :soon:   | 2022-03-12 03:15:00 | newcastle           |      5 |        3 | Goobinator         |   2.4  | overthrow            |
+|  6 | :soon:   | 2022-03-12 02:05:00 | newcastle           |      3 |        8 | One Step Too Far   |   9.5  | looseknot            |
+|  7 | :soon:   | 2022-03-12 01:30:00 | newcastle           |      2 |        4 | Cliffs Of Dooneen  |  34    | cosmo,bluey          |
+|  8 | :soon:   | 2022-03-12 01:20:00 | exeter              |      3 |        5 | Huflower           |   5.5  | overthrow            |
+|  9 | :soon:   | 2022-03-12 01:20:00 | exeter              |      3 |        9 | Operation Manna    |   3.1  | milkman              |
+| 10 | :soon:   | 2022-03-12 00:45:00 | exeter              |      2 |        3 | Flemenstide        |   4.8  | overthrow            |
+| 11 | :soon:   | 2022-03-12 00:45:00 | exeter              |      2 |        2 | Earth Lord         |   3.5  | vulture              |
+| 12 | :soon:   | 2022-03-12 00:15:00 | exeter              |      1 |        5 | Valsheda           |   4.4  | overthrow            |
+| 13 | :soon:   | 2022-03-11 21:15:00 | cranbourne          |      7 |        4 | Wailua             |   5    | overthrow            |
+| 14 | :soon:   | 2022-03-11 21:15:00 | cranbourne          |      7 |        9 | Fjord              |   2.6  | vulture              |
+| 15 | :soon:   | 2022-03-11 20:45:00 | cranbourne          |      6 |        4 | Steel Skies        |   4.33 | vulture              |
+| 16 | :soon:   | 2022-03-11 18:00:00 | townsville          |      6 |        7 | Brigalow Boy       |   2.3  | evenodds,blackshadow |
+| 17 | :soon:   | 2022-03-11 17:30:00 | goulburn            |      9 |        5 | Danish Prince      |  10    | pikey                |
+| 18 | :soon:   | 2022-03-11 17:20:00 | townsville          |      5 |        6 | Eagle Eye Star     |  17    | evenodds,overthrow   |
+| 19 | :soon:   | 2022-03-11 17:20:00 | townsville          |      5 |        2 | King Jester        |   4    | pangea,milkman       |
+| 20 | :soon:   | 2022-03-11 16:55:00 | goulburn            |      8 |        3 | Hope In Your Heart |  11    | pikey                |
+| 21 | :soon:   | 2022-03-11 16:55:00 | goulburn            |      8 |        6 | Pretty Amazing     |   6.5  | vulture,milkman      |
+| 22 | :soon:   | 2022-03-11 16:55:00 | goulburn            |      8 |        7 | Summerbeel         |  11    | milkman              |
+| 23 | :soon:   | 2022-03-11 16:55:00 | goulburn            |      8 |        8 | Ellenmac           |  31    | milkman              |
+| 24 | :soon:   | 2022-03-11 16:45:00 | townsville          |      4 |        1 | Full Recognition   |   4.2  | pangea,icyhot        |
+| 25 | :soon:   | 2022-03-11 16:27:00 | sunshine-coast-poly |      4 |        4 | Lucky Exchange     |   3    | milkman              |
+| 26 | :soon:   | 2022-03-11 16:00:00 | bendigo             |      6 |        4 | Anglian            |   3.5  | pangea               |
+| 27 | :soon:   | 2022-03-11 15:35:00 | townsville          |      2 |        5 | Secret Quality     |   8    | looseknot            |
+| 28 | :soon:   | 2022-03-11 15:35:00 | townsville          |      2 |        7 | She's Winning      |   3.3  | evenodds,overthrow   |
+| 29 | :soon:   | 2022-03-11 14:45:00 | muswellbrook        |      3 |        5 | Magic On Ice       |  11    | cosmo,bluey          |
+| 30 | :soon:   | 2022-03-11 11:18:00 | gore                |      3 |        1 | Kilowatt           |   4.8  | looseknot            |
