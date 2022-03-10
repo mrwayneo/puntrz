@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-10 22:54:07 +1000  
+date: 2022-03-11 06:06:26 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      2 |    -21.5 | 0.4  | -0.43 |
-| Last 28 Days   |     13 |      4 |    -60   | 0.31 | -0.46 |
-| Last 6 Months  |    112 |     55 |    315.7 | 0.49 |  0.28 |
-| Since Jan 2020 |    221 |    108 |   1315.7 | 0.49 |  0.6  |
+| Last 7 Days    |      5 |      2 |      7.5 | 0.4  |  0.15 |
+| Last 28 Days   |     14 |      4 |    -48.5 | 0.29 | -0.35 |
+| Last 6 Months  |    114 |     56 |    335.7 | 0.49 |  0.29 |
+| Since Jan 2020 |    223 |    109 |   1335.7 | 0.49 |  0.6  |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 03:30             | 2022-03-11 | carlisle R7                  | 1 Maximilian         |  2.3  |    -10   |
+| :boom:            | 2022-03-11 | carlisle R7                  | 1 Maximilian         |  4    |     30   |
 | :3rd_place_medal: | 2022-03-10 | racing.com-park R6           | 9 Morean             |  3.9  |    -10   |
 | 0                 | 2022-03-09 | newcastle R8                 | 1 Fancy Stuff        |  0    |    -10   |
 | :boom:            | 2022-03-08 | leopardstown R8              | 8 Rath Gaul Boy      |  1.75 |      7.5 |
