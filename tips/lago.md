@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-10 20:09:06 +1000  
+date: 2022-03-10 20:24:51 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
 | 03:30             | 2022-03-11 | carlisle R7                  | 1 Maximilian         |  2.3  |    -10   |
-| 20:15             | 2022-03-10 | racing.com-park R6           | 9 Morean             |  3.9  |    -10   |
+| :3rd_place_medal: | 2022-03-10 | racing.com-park R6           | 9 Morean             |  3.9  |    -10   |
 | 0                 | 2022-03-09 | newcastle R8                 | 1 Fancy Stuff        |  0    |    -10   |
 | :boom:            | 2022-03-08 | leopardstown R8              | 8 Rath Gaul Boy      |  1.75 |      7.5 |
 | :2nd_place_medal: | 2022-03-07 | wexford R7                   | 1 Dancing City       |  1.4  |    -10   |
