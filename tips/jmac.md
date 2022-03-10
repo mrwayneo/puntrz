@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-10 14:22:56 +1000  
+date: 2022-03-10 14:38:52 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 16:55             | 2022-03-10 | canterbury R7        | 2 Diamil             |  5.5  |    -10   |
 | 15:05             | 2022-03-10 | canterbury R4        | 9 Headliner          |  2.88 |    -10   |
-| 14:25             | 2022-03-10 | canterbury R3        | 9 Scat's Surfer Girl |  4.4  |    -10   |
+| 0                 | 2022-03-10 | canterbury R3        | 9 Scat's Surfer Girl |  0    |    -10   |
 | 4                 | 2022-03-10 | canterbury R2        | 1 Renosu             |  4.75 |    -10   |
 | 4                 | 2022-03-10 | canterbury R1        | 8 Perpignan          |  5    |    -10   |
 | :boom:            | 2022-03-05 | randwick R10         | 4 Belluci Babe       |  2.9  |     19   |
