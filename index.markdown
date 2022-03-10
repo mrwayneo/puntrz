@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-10 17:27:49 +1000  
+date: 2022-03-10 17:42:47 +1000  
 ---   
 
 
@@ -33,7 +33,6 @@ date: 2022-03-10 17:27:49 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      5 |    158   | 0.25 |  0.79 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      2 |    142   | 0.1  |  0.71 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |     64   | 0.1  |  0.32 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |     27   | 0.05 |  0.14 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      4 |      5   | 0.2  |  0.02 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      7 |     -1.5 | 0.35 | -0.01 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      3 |     -6   | 0.15 | -0.03 |
@@ -48,6 +47,7 @@ date: 2022-03-10 17:27:49 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      6 |    -92.7 | 0.3  | -0.46 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      1 |   -171   | 0.05 | -0.86 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      0 |   -200   | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      0 |   -200   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      0 |   -200   | 0    | -1    |
 
@@ -98,7 +98,7 @@ date: 2022-03-10 17:27:49 +1000
 | 16 | :soon:            | 2022-03-10 20:15:00 | racing.com-park |      6 |        5 | Deprivation        |   3.25 | pangea             |
 | 17 | :soon:            | 2022-03-10 20:15:00 | racing.com-park |      6 |        9 | Morean             |   3.9  | evenodds,lago      |
 | 18 | :soon:            | 2022-03-10 19:30:00 | pinjarra        |      6 |        5 | Queenship          |   2.8  | benny,blackshadow  |
-| 19 | :soon:            | 2022-03-10 17:30:00 | canterbury      |      8 |       10 | Tonneofgrit        |   6.5  | pikey              |
+| 19 | :2nd_place_medal: | 2022-03-10 17:30:00 | canterbury      |      8 |       10 | Tonneofgrit        |   6.5  | pikey              |
 | 20 | :3rd_place_medal: | 2022-03-10 16:55:00 | canterbury      |      7 |        1 | Vreneli            |   5.5  | benny,pangea       |
 | 21 | :2nd_place_medal: | 2022-03-10 16:55:00 | canterbury      |      7 |        2 | Diamil             |   5.5  | jmac               |
 | 22 | :boom:            | 2022-03-10 16:55:00 | canterbury      |      7 |        7 | Gracilistyla       |   2.75 | vulture,wallbow    |

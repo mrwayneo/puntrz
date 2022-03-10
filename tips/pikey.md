@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-10 17:27:48 +1000  
+date: 2022-03-10 17:42:46 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 17:30             | 2022-03-10 | canterbury R8         | 10 Tonneofgrit        |   6.5  |    -10   |
+| :2nd_place_medal: | 2022-03-10 | canterbury R8         | 10 Tonneofgrit        |   6.5  |    -10   |
 | 8                 | 2022-03-10 | canterbury R4         | 6 Yagoona             |   5.5  |    -10   |
 | :3rd_place_medal: | 2022-03-05 | randwick R8           | 3 Hilal               |   5.5  |    -10   |
 | 8                 | 2022-03-05 | randwick R7           | 6 Wild Planet         |  21    |    -10   |
