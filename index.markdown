@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-11 17:11:23 +1000  
+date: 2022-03-11 19:21:49 +1000  
 ---   
 
 
@@ -93,14 +93,14 @@ date: 2022-03-11 17:11:23 +1000
 | 13 | :soon:            | 2022-03-11 21:15:00 | cranbourne          |      7 |        4 | Wailua             |   5    | overthrow            |
 | 14 | :soon:            | 2022-03-11 21:15:00 | cranbourne          |      7 |        9 | Fjord              |   2.6  | vulture              |
 | 15 | :soon:            | 2022-03-11 20:45:00 | cranbourne          |      6 |        4 | Steel Skies        |   4.33 | vulture              |
-| 16 | :soon:            | 2022-03-11 18:00:00 | townsville          |      6 |        7 | Brigalow Boy       |   2.3  | evenodds,blackshadow |
-| 17 | :soon:            | 2022-03-11 17:30:00 | goulburn            |      9 |        5 | Danish Prince      |  10    | pikey                |
-| 18 | :soon:            | 2022-03-11 17:20:00 | townsville          |      5 |        6 | Eagle Eye Star     |  17    | evenodds,overthrow   |
-| 19 | :soon:            | 2022-03-11 17:20:00 | townsville          |      5 |        2 | King Jester        |   4    | pangea,milkman       |
+| 16 | --                | 2022-03-11 18:00:00 | townsville          |      6 |        7 | Brigalow Boy       |   2.3  | evenodds,blackshadow |
+| 17 | 4.0               | 2022-03-11 17:30:00 | goulburn            |      9 |        5 | Danish Prince      |  10    | pikey                |
+| 18 | --                | 2022-03-11 17:20:00 | townsville          |      5 |        6 | Eagle Eye Star     |  17    | evenodds,overthrow   |
+| 19 | --                | 2022-03-11 17:20:00 | townsville          |      5 |        2 | King Jester        |   4    | pangea,milkman       |
 | 20 | :2nd_place_medal: | 2022-03-11 16:55:00 | goulburn            |      8 |        3 | Hope In Your Heart |  11    | pikey                |
 | 21 | :boom:            | 2022-03-11 16:55:00 | goulburn            |      8 |        6 | Pretty Amazing     |   6.5  | vulture,milkman      |
-| 22 | --                | 2022-03-11 16:55:00 | goulburn            |      8 |        7 | Summerbeel         |  11    | milkman              |
-| 23 | --                | 2022-03-11 16:55:00 | goulburn            |      8 |        8 | Ellenmac           |  31    | milkman              |
+| 22 | 13.0              | 2022-03-11 16:55:00 | goulburn            |      8 |        7 | Summerbeel         |  11    | milkman              |
+| 23 | 7.0               | 2022-03-11 16:55:00 | goulburn            |      8 |        8 | Ellenmac           |  31    | milkman              |
 | 24 | --                | 2022-03-11 16:45:00 | townsville          |      4 |        1 | Full Recognition   |   4.2  | pangea,icyhot        |
 | 25 | :boom:            | 2022-03-11 16:27:00 | sunshine-coast-poly |      4 |        4 | Lucky Exchange     |   3    | milkman              |
 | 26 | :2nd_place_medal: | 2022-03-11 16:00:00 | bendigo             |      6 |        4 | Anglian            |   3.5  | pangea               |
