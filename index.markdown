@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-11 21:05:51 +1000  
+date: 2022-03-11 21:20:07 +1000  
 ---   
 
 
@@ -11,6 +11,7 @@ date: 2022-03-11 21:05:51 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      1 |       39 | 0.5  |  1.95 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      2 |       -4 | 0.25 | -0.05 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      9 |      1 |       -7 | 0.11 | -0.08 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      2 |      0 |      -20 | 0    | -1    |
@@ -19,7 +20,6 @@ date: 2022-03-11 21:05:51 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      4 |      0 |      -40 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     11 |      1 |      -70 | 0.09 | -0.64 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      9 |      0 |      -90 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     34 |      1 |     -281 | 0.03 | -0.83 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     38 |      0 |     -380 | 0    | -1    |
 
@@ -90,8 +90,8 @@ date: 2022-03-11 21:05:51 +1000
 | 10 | :soon:            | 2022-03-12 00:45:00 | exeter              |      2 |        3 | Flemenstide        |   4.8  | overthrow            |
 | 11 | :soon:            | 2022-03-12 00:45:00 | exeter              |      2 |        2 | Earth Lord         |   3.5  | vulture              |
 | 12 | :soon:            | 2022-03-12 00:15:00 | exeter              |      1 |        5 | Valsheda           |   4.4  | overthrow            |
-| 13 | :soon:            | 2022-03-11 21:15:00 | cranbourne          |      7 |        4 | Wailua             |   5    | overthrow            |
-| 14 | :soon:            | 2022-03-11 21:15:00 | cranbourne          |      7 |        9 | Fjord              |   2.6  | vulture              |
+| 13 | :boom:            | 2022-03-11 21:15:00 | cranbourne          |      7 |        4 | Wailua             |   5    | overthrow            |
+| 14 | :2nd_place_medal: | 2022-03-11 21:15:00 | cranbourne          |      7 |        9 | Fjord              |   2.6  | vulture              |
 | 15 | 5.0               | 2022-03-11 20:45:00 | cranbourne          |      6 |        4 | Steel Skies        |   4.33 | vulture              |
 | 16 | --                | 2022-03-11 18:00:00 | townsville          |      6 |        7 | Brigalow Boy       |   2.3  | evenodds,blackshadow |
 | 17 | 4.0               | 2022-03-11 17:30:00 | goulburn            |      9 |        5 | Danish Prince      |  10    | pikey                |
