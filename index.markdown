@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-11 10:55:55 +1000  
+date: 2022-03-11 11:51:09 +1000  
 ---   
 
 
@@ -107,4 +107,4 @@ date: 2022-03-11 10:55:55 +1000
 | 27 | :soon:   | 2022-03-11 15:35:00 | townsville          |      2 |        5 | Secret Quality     |   8    | looseknot            |
 | 28 | :soon:   | 2022-03-11 15:35:00 | townsville          |      2 |        7 | She's Winning      |   3.3  | evenodds,overthrow   |
 | 29 | :soon:   | 2022-03-11 14:45:00 | muswellbrook        |      3 |        5 | Magic On Ice       |  11    | cosmo,bluey          |
-| 30 | :soon:   | 2022-03-11 11:18:00 | gore                |      3 |        1 | Kilowatt           |   4.8  | looseknot            |
+| 30 | --       | 2022-03-11 11:18:00 | gore                |      3 |        1 | Kilowatt           |   4.8  | looseknot            |
