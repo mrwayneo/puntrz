@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-11 15:22:55 +1000  
+date: 2022-03-11 15:55:03 +1000  
 ---   
 
 
@@ -104,7 +104,7 @@ date: 2022-03-11 15:22:55 +1000
 | 24 | :soon:   | 2022-03-11 16:45:00 | townsville          |      4 |        1 | Full Recognition   |   4.2  | pangea,icyhot        |
 | 25 | :soon:   | 2022-03-11 16:27:00 | sunshine-coast-poly |      4 |        4 | Lucky Exchange     |   3    | milkman              |
 | 26 | :soon:   | 2022-03-11 16:00:00 | bendigo             |      6 |        4 | Anglian            |   3.5  | pangea               |
-| 27 | :soon:   | 2022-03-11 15:35:00 | townsville          |      2 |        5 | Secret Quality     |   8    | looseknot            |
-| 28 | :soon:   | 2022-03-11 15:35:00 | townsville          |      2 |        7 | She's Winning      |   3.3  | evenodds,overthrow   |
+| 27 | --       | 2022-03-11 15:35:00 | townsville          |      2 |        5 | Secret Quality     |   8    | looseknot            |
+| 28 | --       | 2022-03-11 15:35:00 | townsville          |      2 |        7 | She's Winning      |   3.3  | evenodds,overthrow   |
 | 29 | :boom:   | 2022-03-11 14:45:00 | muswellbrook        |      3 |        5 | Magic On Ice       |  11    | cosmo,bluey          |
 | 30 | --       | 2022-03-11 11:18:00 | gore                |      3 |        1 | Kilowatt           |   4.8  | looseknot            |
