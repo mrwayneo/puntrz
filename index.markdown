@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-11 16:24:44 +1000  
+date: 2022-03-11 17:11:23 +1000  
 ---   
 
 
@@ -10,6 +10,7 @@ date: 2022-03-11 16:24:44 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      1 |       39 | 0.5  |  1.95 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      2 |       -4 | 0.25 | -0.05 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      2 |      0 |      -20 | 0    | -1    |
@@ -17,9 +18,8 @@ date: 2022-03-11 16:24:44 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      4 |      0 |      -40 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |      -80 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     11 |      1 |      -70 | 0.09 | -0.64 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      9 |      0 |      -90 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     34 |      1 |     -281 | 0.03 | -0.83 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     38 |      0 |     -380 | 0    | -1    |
 
@@ -97,12 +97,12 @@ date: 2022-03-11 16:24:44 +1000
 | 17 | :soon:            | 2022-03-11 17:30:00 | goulburn            |      9 |        5 | Danish Prince      |  10    | pikey                |
 | 18 | :soon:            | 2022-03-11 17:20:00 | townsville          |      5 |        6 | Eagle Eye Star     |  17    | evenodds,overthrow   |
 | 19 | :soon:            | 2022-03-11 17:20:00 | townsville          |      5 |        2 | King Jester        |   4    | pangea,milkman       |
-| 20 | :soon:            | 2022-03-11 16:55:00 | goulburn            |      8 |        3 | Hope In Your Heart |  11    | pikey                |
-| 21 | :soon:            | 2022-03-11 16:55:00 | goulburn            |      8 |        6 | Pretty Amazing     |   6.5  | vulture,milkman      |
-| 22 | :soon:            | 2022-03-11 16:55:00 | goulburn            |      8 |        7 | Summerbeel         |  11    | milkman              |
-| 23 | :soon:            | 2022-03-11 16:55:00 | goulburn            |      8 |        8 | Ellenmac           |  31    | milkman              |
-| 24 | :soon:            | 2022-03-11 16:45:00 | townsville          |      4 |        1 | Full Recognition   |   4.2  | pangea,icyhot        |
-| 25 | :soon:            | 2022-03-11 16:27:00 | sunshine-coast-poly |      4 |        4 | Lucky Exchange     |   3    | milkman              |
+| 20 | :2nd_place_medal: | 2022-03-11 16:55:00 | goulburn            |      8 |        3 | Hope In Your Heart |  11    | pikey                |
+| 21 | :boom:            | 2022-03-11 16:55:00 | goulburn            |      8 |        6 | Pretty Amazing     |   6.5  | vulture,milkman      |
+| 22 | --                | 2022-03-11 16:55:00 | goulburn            |      8 |        7 | Summerbeel         |  11    | milkman              |
+| 23 | --                | 2022-03-11 16:55:00 | goulburn            |      8 |        8 | Ellenmac           |  31    | milkman              |
+| 24 | --                | 2022-03-11 16:45:00 | townsville          |      4 |        1 | Full Recognition   |   4.2  | pangea,icyhot        |
+| 25 | :boom:            | 2022-03-11 16:27:00 | sunshine-coast-poly |      4 |        4 | Lucky Exchange     |   3    | milkman              |
 | 26 | :2nd_place_medal: | 2022-03-11 16:00:00 | bendigo             |      6 |        4 | Anglian            |   3.5  | pangea               |
 | 27 | --                | 2022-03-11 15:35:00 | townsville          |      2 |        5 | Secret Quality     |   8    | looseknot            |
 | 28 | --                | 2022-03-11 15:35:00 | townsville          |      2 |        7 | She's Winning      |   3.3  | evenodds,overthrow   |

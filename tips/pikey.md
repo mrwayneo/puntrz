@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-11 16:24:43 +1000  
+date: 2022-03-11 17:11:22 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 17:30             | 2022-03-11 | goulburn R9           | 5 Danish Prince       |  10    |    -10   |
-| 16:55             | 2022-03-11 | goulburn R8           | 3 Hope In Your Heart  |  11    |    -10   |
+| :2nd_place_medal: | 2022-03-11 | goulburn R8           | 3 Hope In Your Heart  |  11    |    -10   |
 | :2nd_place_medal: | 2022-03-10 | canterbury R8         | 10 Tonneofgrit        |   6.5  |    -10   |
 | 8                 | 2022-03-10 | canterbury R4         | 6 Yagoona             |   5.5  |    -10   |
 | :3rd_place_medal: | 2022-03-05 | randwick R8           | 3 Hilal               |   5.5  |    -10   |
