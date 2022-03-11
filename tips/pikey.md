@@ -1,20 +1,28 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-11 22:26:46 +1000  
+date: 2022-03-12 10:14:09 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
-| Last 28 Days   |     42 |      4 |      -75 | 0.1  | -0.18 |
-| Last 6 Months  |    389 |    102 |     -793 | 0.26 | -0.2  |
-| Since Jan 2020 |   1022 |    255 |    -1722 | 0.25 | -0.17 |
+| Last 7 Days    |      4 |      0 |      -40 | 0    | -1    |
+| Last 28 Days   |     44 |      4 |      -95 | 0.09 | -0.22 |
+| Last 6 Months  |    391 |    102 |     -813 | 0.26 | -0.21 |
+| Since Jan 2020 |   1024 |    255 |    -1742 | 0.25 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 17:20             | 2022-03-12 | rosehill-gardens R9   | 14 Sindacato          |   5    |    -10   |
+| 16:40             | 2022-03-12 | rosehill-gardens R8   | 8 Hinged              |   8    |    -10   |
+| 16:00             | 2022-03-12 | rosehill-gardens R7   | 3 Mount Popa          |   3.6  |    -10   |
+| 15:20             | 2022-03-12 | rosehill-gardens R6   | 2 Mr Mozart           |  12    |    -10   |
+| 14:40             | 2022-03-12 | rosehill-gardens R5   | 5 Remarque            |   4.6  |    -10   |
+| 14:05             | 2022-03-12 | rosehill-gardens R4   | 8 Jalmari             |  91    |    -10   |
+| 13:30             | 2022-03-12 | rosehill-gardens R3   | 3 Magic               |   1.95 |    -10   |
+| 12:55             | 2022-03-12 | rosehill-gardens R2   | 13 Seiryu             |  13    |    -10   |
 | 4                 | 2022-03-11 | goulburn R9           | 5 Danish Prince       |  10    |    -10   |
 | :2nd_place_medal: | 2022-03-11 | goulburn R8           | 3 Hope In Your Heart  |  11    |    -10   |
 | :2nd_place_medal: | 2022-03-10 | canterbury R8         | 10 Tonneofgrit        |   6.5  |    -10   |

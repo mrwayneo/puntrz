@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-03-11 22:26:47 +1000  
+date: 2022-03-12 10:14:09 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
-| Last 28 Days   |      7 |      1 |       74 | 0.14 |  1.06 |
-| Last 6 Months  |     96 |     16 |     1883 | 0.17 |  1.96 |
-| Since Jan 2020 |    238 |     42 |     4730 | 0.18 |  1.99 |
+| Last 7 Days    |      2 |      1 |       39 | 0.5  |  1.95 |
+| Last 28 Days   |      7 |      1 |      -11 | 0.14 | -0.16 |
+| Last 6 Months  |     98 |     17 |     1922 | 0.17 |  1.96 |
+| Since Jan 2020 |    240 |     43 |     4769 | 0.18 |  1.99 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 01:30             | 2022-03-12 | newcastle R2           | 4 Cliffs Of Dooneen   |  34   |      -10 |
+| 0                 | 2022-03-12 | newcastle R2           | 4 Cliffs Of Dooneen   |   0   |      -10 |
 | :boom:            | 2022-03-11 | muswellbrook R3        | 5 Magic On Ice        |   5.9 |       49 |
 | 10                | 2022-03-06 | esperance-bay R4       | 6 Spring To Life      |  31   |      -10 |
 | 10                | 2022-03-05 | flemington R5          | 12 Zetarita           |  71   |      -10 |

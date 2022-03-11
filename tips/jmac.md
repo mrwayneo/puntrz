@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-11 22:26:46 +1000  
+date: 2022-03-12 10:14:09 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,18 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
-| Last 28 Days   |     50 |      5 |   -316   | 0.1  | -0.63 |
+| Last 28 Days   |     44 |      5 |   -256   | 0.11 | -0.58 |
 | Last 6 Months  |    284 |     68 |   -522.5 | 0.24 | -0.18 |
 | Since Jan 2020 |    688 |    168 |   -509.5 | 0.24 | -0.07 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 17:00             | 2022-03-12 | flemington R8        | 11 Fourhometwo       |  6.5  |    -10   |
+| 16:20             | 2022-03-12 | flemington R7        | 3 Spanish Mission    |  5.5  |    -10   |
+| 15:40             | 2022-03-12 | flemington R6        | 2 Home Affairs       |  3.9  |    -10   |
+| 14:20             | 2022-03-12 | flemington R4        | 5 Man In The Mirror  |  9    |    -10   |
+| 13:10             | 2022-03-12 | flemington R2        | 9 Groovy Kinda Love  |  6    |    -10   |
+| 12:35             | 2022-03-12 | flemington R1        | 5 Nanagui            |  3.1  |    -10   |
 | :2nd_place_medal: | 2022-03-10 | canterbury R7        | 2 Diamil             |  5.5  |    -10   |
 | :2nd_place_medal: | 2022-03-10 | canterbury R4        | 9 Headliner          |  2.88 |    -10   |
 | 8                 | 2022-03-10 | canterbury R3        | 9 Scat's Surfer Girl |  4.4  |    -10   |

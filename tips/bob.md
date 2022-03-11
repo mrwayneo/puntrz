@@ -1,19 +1,20 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-03-11 22:26:47 +1000  
+date: 2022-03-12 10:14:09 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      6 |      0 |    -60   | 0    | -1    |
+| Last 28 Days   |      4 |      0 |    -40   | 0    | -1    |
 | Last 6 Months  |    102 |     15 |    430   | 0.15 |  0.42 |
 | Since Jan 2020 |    251 |     41 |   3525.5 | 0.16 |  1.4  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
+| 17:24             | 2022-03-12 | ascot R5                      | 9 Outspoken Lad       |  16    |    -10   |
 | 5                 | 2022-03-05 | newcastle R1                  | 1 Read My Future      |  13    |    -10   |
 | 4                 | 2022-02-27 | newcastle R4                  | 13 Court Master       |  12    |    -10   |
 | 6                 | 2022-02-26 | morphettville R3              | 10 Scampton           |  18    |    -10   |

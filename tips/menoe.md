@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-03-11 22:26:47 +1000  
+date: 2022-03-12 10:14:09 +1000  
 categories: None 
 ---   
 
@@ -13,6 +13,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 19:25             | 2022-03-12 | esperance-bay R4       | 1 Thehuntsmen        |  1.9  |    -10   |
 | :boom:            | 2022-02-08 | carlisle R5            | 4 Lady Tremaine      |  2    |     10   |
 | :3rd_place_medal: | 2022-01-30 | strathalbyn R1         | 8 Ten Feathers       |  0    |    -10   |
 | :3rd_place_medal: | 2022-01-27 | catterick R2           | 2 Get Your Own       |  1.9  |    -10   |
