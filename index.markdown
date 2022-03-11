@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-11 14:45:17 +1000  
+date: 2022-03-11 15:00:27 +1000  
 ---   
 
 
@@ -9,19 +9,19 @@ date: 2022-03-11 14:45:17 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      2 |      0 |      -20 |    0 |    -1 |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      0 |      -20 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      4 |      0 |      -40 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |      -80 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      8 |      0 |      -80 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      9 |      0 |      -90 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     11 |      0 |     -110 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     34 |      0 |     -340 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     38 |      0 |     -380 |    0 |    -1 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      1 |       39 | 0.5  |  1.95 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      2 |      0 |      -20 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      8 |      1 |      -21 | 0.12 | -0.26 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |      -30 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      4 |      0 |      -40 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      8 |      0 |      -80 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      9 |      0 |      -90 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     11 |      0 |     -110 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     34 |      1 |     -281 | 0.03 | -0.83 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     38 |      0 |     -380 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -75,36 +75,36 @@ date: 2022-03-11 14:45:17 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6099 |    796 | -14651.8 | 0.13 | -0.24 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7853 |    360 | -23958.5 | 0.05 | -0.31 |
 
-|    | finish                   | time                | track               |   race |   number | name               |   odds | tipster              |
-|---:|:-------------------------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|  0 | :soon:                   | 2022-03-12 07:15:00 | wolverhampton       |      7 |        2 | Aegis Power        |   3.1  | vulture              |
-|  1 | :soon:                   | 2022-03-12 07:15:00 | wolverhampton       |      7 |        3 | Illuminated        |   2.8  | vulture              |
-|  2 | :soon:                   | 2022-03-12 05:45:00 | wolverhampton       |      4 |        2 | King Of Jungle     |   3.3  | milkman              |
-|  3 | :soon:                   | 2022-03-12 05:45:00 | wolverhampton       |      4 |        1 | Clase Azul Ultra   |   3    | vulture,milkman      |
-|  4 | :soon:                   | 2022-03-12 04:20:00 | newcastle           |      7 |        3 | Taragrace          |   2.9  | vulture              |
-|  5 | :soon:                   | 2022-03-12 03:15:00 | newcastle           |      5 |        3 | Goobinator         |   2.4  | overthrow            |
-|  6 | :soon:                   | 2022-03-12 02:05:00 | newcastle           |      3 |        8 | One Step Too Far   |   9.5  | looseknot            |
-|  7 | :soon:                   | 2022-03-12 01:30:00 | newcastle           |      2 |        4 | Cliffs Of Dooneen  |  34    | cosmo,bluey          |
-|  8 | :soon:                   | 2022-03-12 01:20:00 | exeter              |      3 |        5 | Huflower           |   5.5  | overthrow            |
-|  9 | :soon:                   | 2022-03-12 01:20:00 | exeter              |      3 |        9 | Operation Manna    |   3.1  | milkman              |
-| 10 | :soon:                   | 2022-03-12 00:45:00 | exeter              |      2 |        3 | Flemenstide        |   4.8  | overthrow            |
-| 11 | :soon:                   | 2022-03-12 00:45:00 | exeter              |      2 |        2 | Earth Lord         |   3.5  | vulture              |
-| 12 | :soon:                   | 2022-03-12 00:15:00 | exeter              |      1 |        5 | Valsheda           |   4.4  | overthrow            |
-| 13 | :soon:                   | 2022-03-11 21:15:00 | cranbourne          |      7 |        4 | Wailua             |   5    | overthrow            |
-| 14 | :soon:                   | 2022-03-11 21:15:00 | cranbourne          |      7 |        9 | Fjord              |   2.6  | vulture              |
-| 15 | :soon:                   | 2022-03-11 20:45:00 | cranbourne          |      6 |        4 | Steel Skies        |   4.33 | vulture              |
-| 16 | :soon:                   | 2022-03-11 18:00:00 | townsville          |      6 |        7 | Brigalow Boy       |   2.3  | evenodds,blackshadow |
-| 17 | :soon:                   | 2022-03-11 17:30:00 | goulburn            |      9 |        5 | Danish Prince      |  10    | pikey                |
-| 18 | :soon:                   | 2022-03-11 17:20:00 | townsville          |      5 |        6 | Eagle Eye Star     |  17    | evenodds,overthrow   |
-| 19 | :soon:                   | 2022-03-11 17:20:00 | townsville          |      5 |        2 | King Jester        |   4    | pangea,milkman       |
-| 20 | :soon:                   | 2022-03-11 16:55:00 | goulburn            |      8 |        3 | Hope In Your Heart |  11    | pikey                |
-| 21 | :soon:                   | 2022-03-11 16:55:00 | goulburn            |      8 |        6 | Pretty Amazing     |   6.5  | vulture,milkman      |
-| 22 | :soon:                   | 2022-03-11 16:55:00 | goulburn            |      8 |        7 | Summerbeel         |  11    | milkman              |
-| 23 | :soon:                   | 2022-03-11 16:55:00 | goulburn            |      8 |        8 | Ellenmac           |  31    | milkman              |
-| 24 | :soon:                   | 2022-03-11 16:45:00 | townsville          |      4 |        1 | Full Recognition   |   4.2  | pangea,icyhot        |
-| 25 | :soon:                   | 2022-03-11 16:27:00 | sunshine-coast-poly |      4 |        4 | Lucky Exchange     |   3    | milkman              |
-| 26 | :soon:                   | 2022-03-11 16:00:00 | bendigo             |      6 |        4 | Anglian            |   3.5  | pangea               |
-| 27 | :soon:                   | 2022-03-11 15:35:00 | townsville          |      2 |        5 | Secret Quality     |   8    | looseknot            |
-| 28 | :soon:                   | 2022-03-11 15:35:00 | townsville          |      2 |        7 | She's Winning      |   3.3  | evenodds,overthrow   |
-| 29 | :hourglass_flowing_sand: | 2022-03-11 14:45:00 | muswellbrook        |      3 |        5 | Magic On Ice       |  11    | cosmo,bluey          |
-| 30 | --                       | 2022-03-11 11:18:00 | gore                |      3 |        1 | Kilowatt           |   4.8  | looseknot            |
+|    | finish   | time                | track               |   race |   number | name               |   odds | tipster              |
+|---:|:---------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:---------------------|
+|  0 | :soon:   | 2022-03-12 07:15:00 | wolverhampton       |      7 |        2 | Aegis Power        |   3.1  | vulture              |
+|  1 | :soon:   | 2022-03-12 07:15:00 | wolverhampton       |      7 |        3 | Illuminated        |   2.8  | vulture              |
+|  2 | :soon:   | 2022-03-12 05:45:00 | wolverhampton       |      4 |        2 | King Of Jungle     |   3.3  | milkman              |
+|  3 | :soon:   | 2022-03-12 05:45:00 | wolverhampton       |      4 |        1 | Clase Azul Ultra   |   3    | vulture,milkman      |
+|  4 | :soon:   | 2022-03-12 04:20:00 | newcastle           |      7 |        3 | Taragrace          |   2.9  | vulture              |
+|  5 | :soon:   | 2022-03-12 03:15:00 | newcastle           |      5 |        3 | Goobinator         |   2.4  | overthrow            |
+|  6 | :soon:   | 2022-03-12 02:05:00 | newcastle           |      3 |        8 | One Step Too Far   |   9.5  | looseknot            |
+|  7 | :soon:   | 2022-03-12 01:30:00 | newcastle           |      2 |        4 | Cliffs Of Dooneen  |  34    | cosmo,bluey          |
+|  8 | :soon:   | 2022-03-12 01:20:00 | exeter              |      3 |        5 | Huflower           |   5.5  | overthrow            |
+|  9 | :soon:   | 2022-03-12 01:20:00 | exeter              |      3 |        9 | Operation Manna    |   3.1  | milkman              |
+| 10 | :soon:   | 2022-03-12 00:45:00 | exeter              |      2 |        3 | Flemenstide        |   4.8  | overthrow            |
+| 11 | :soon:   | 2022-03-12 00:45:00 | exeter              |      2 |        2 | Earth Lord         |   3.5  | vulture              |
+| 12 | :soon:   | 2022-03-12 00:15:00 | exeter              |      1 |        5 | Valsheda           |   4.4  | overthrow            |
+| 13 | :soon:   | 2022-03-11 21:15:00 | cranbourne          |      7 |        4 | Wailua             |   5    | overthrow            |
+| 14 | :soon:   | 2022-03-11 21:15:00 | cranbourne          |      7 |        9 | Fjord              |   2.6  | vulture              |
+| 15 | :soon:   | 2022-03-11 20:45:00 | cranbourne          |      6 |        4 | Steel Skies        |   4.33 | vulture              |
+| 16 | :soon:   | 2022-03-11 18:00:00 | townsville          |      6 |        7 | Brigalow Boy       |   2.3  | evenodds,blackshadow |
+| 17 | :soon:   | 2022-03-11 17:30:00 | goulburn            |      9 |        5 | Danish Prince      |  10    | pikey                |
+| 18 | :soon:   | 2022-03-11 17:20:00 | townsville          |      5 |        6 | Eagle Eye Star     |  17    | evenodds,overthrow   |
+| 19 | :soon:   | 2022-03-11 17:20:00 | townsville          |      5 |        2 | King Jester        |   4    | pangea,milkman       |
+| 20 | :soon:   | 2022-03-11 16:55:00 | goulburn            |      8 |        3 | Hope In Your Heart |  11    | pikey                |
+| 21 | :soon:   | 2022-03-11 16:55:00 | goulburn            |      8 |        6 | Pretty Amazing     |   6.5  | vulture,milkman      |
+| 22 | :soon:   | 2022-03-11 16:55:00 | goulburn            |      8 |        7 | Summerbeel         |  11    | milkman              |
+| 23 | :soon:   | 2022-03-11 16:55:00 | goulburn            |      8 |        8 | Ellenmac           |  31    | milkman              |
+| 24 | :soon:   | 2022-03-11 16:45:00 | townsville          |      4 |        1 | Full Recognition   |   4.2  | pangea,icyhot        |
+| 25 | :soon:   | 2022-03-11 16:27:00 | sunshine-coast-poly |      4 |        4 | Lucky Exchange     |   3    | milkman              |
+| 26 | :soon:   | 2022-03-11 16:00:00 | bendigo             |      6 |        4 | Anglian            |   3.5  | pangea               |
+| 27 | :soon:   | 2022-03-11 15:35:00 | townsville          |      2 |        5 | Secret Quality     |   8    | looseknot            |
+| 28 | :soon:   | 2022-03-11 15:35:00 | townsville          |      2 |        7 | She's Winning      |   3.3  | evenodds,overthrow   |
+| 29 | :boom:   | 2022-03-11 14:45:00 | muswellbrook        |      3 |        5 | Magic On Ice       |  11    | cosmo,bluey          |
+| 30 | --       | 2022-03-11 11:18:00 | gore                |      3 |        1 | Kilowatt           |   4.8  | looseknot            |

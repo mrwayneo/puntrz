@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-03-11 14:45:15 +1000  
+date: 2022-03-11 15:00:25 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
 | 01:30             | 2022-03-12 | newcastle R2           | 4 Cliffs Of Dooneen   |  34   |      -10 |
-| 0                 | 2022-03-11 | muswellbrook R3        | 5 Magic On Ice        |   0   |      -10 |
+| :boom:            | 2022-03-11 | muswellbrook R3        | 5 Magic On Ice        |   5.9 |       49 |
 | 10                | 2022-03-06 | esperance-bay R4       | 6 Spring To Life      |  31   |      -10 |
 | 10                | 2022-03-05 | flemington R5          | 12 Zetarita           |  71   |      -10 |
 | :3rd_place_medal: | 2022-02-19 | sunshine-coast R9      | 9 Rock Amore          |   8   |      -10 |
