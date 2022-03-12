@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-12 14:25:14 +1000  
+date: 2022-03-12 14:40:09 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 16:40             | 2022-03-12 | rosehill-gardens R8   | 8 Hinged              |   8    |    -10   |
 | 16:00             | 2022-03-12 | rosehill-gardens R7   | 3 Mount Popa          |   3.6  |    -10   |
 | 15:20             | 2022-03-12 | rosehill-gardens R6   | 2 Mr Mozart           |  12    |    -10   |
-| 14:40             | 2022-03-12 | rosehill-gardens R5   | 5 Remarque            |   4.6  |    -10   |
+| 0                 | 2022-03-12 | rosehill-gardens R5   | 5 Remarque            |   0    |    -10   |
 | 5                 | 2022-03-12 | rosehill-gardens R4   | 8 Jalmari             |  91    |    -10   |
 | :3rd_place_medal: | 2022-03-12 | rosehill-gardens R3   | 3 Magic               |   1.95 |    -10   |
 | 10                | 2022-03-12 | rosehill-gardens R2   | 13 Seiryu             |  13    |    -10   |
