@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-03-13 07:19:58 +1000  
+date: 2022-03-13 07:34:37 +1000  
 categories: None 
 ---   
 
@@ -15,10 +15,10 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:30             | 2022-03-13 | kempton R8                    | 8 Pedestal            |  13    |    -10   |
-| 07:30             | 2022-03-13 | kempton R8                    | 9 Fen Tiger           |  10    |    -10   |
-| 07:30             | 2022-03-13 | kempton R8                    | 4 Al Gaiya            |  12    |    -10   |
-| 07:30             | 2022-03-13 | kempton R8                    | 2 Plymouth Rock       |  41    |    -10   |
+| 0                 | 2022-03-13 | kempton R8                    | 8 Pedestal            |   0    |    -10   |
+| 0                 | 2022-03-13 | kempton R8                    | 9 Fen Tiger           |   0    |    -10   |
+| 0                 | 2022-03-13 | kempton R8                    | 4 Al Gaiya            |   0    |    -10   |
+| 0                 | 2022-03-13 | kempton R8                    | 2 Plymouth Rock       |   0    |    -10   |
 | 0                 | 2022-03-13 | kempton R4                    | 14 Connie R           |   0    |    -10   |
 | 0                 | 2022-03-13 | kempton R4                    | 10 Alnood             |   0    |    -10   |
 | 4                 | 2022-03-13 | hereford R8                   | 4 Kilganer Queen      |  34    |    -10   |
