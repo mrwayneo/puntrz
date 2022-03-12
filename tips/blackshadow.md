@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-03-12 22:53:25 +1000  
+date: 2022-03-13 06:04:34 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      9 |      1 |      -23 | 0.11 | -0.26 |
-| Last 28 Days   |     56 |      9 |      -88 | 0.16 | -0.16 |
-| Last 6 Months  |    347 |     79 |     -654 | 0.23 | -0.19 |
-| Since Jan 2020 |    857 |    205 |     -990 | 0.24 | -0.12 |
+| Last 7 Days    |     21 |      3 |      -32 | 0.14 | -0.15 |
+| Last 28 Days   |     68 |     11 |      -97 | 0.16 | -0.14 |
+| Last 6 Months  |    359 |     81 |     -663 | 0.23 | -0.18 |
+| Since Jan 2020 |    869 |    207 |     -999 | 0.24 | -0.11 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 01:40             | 2022-03-13 | wolverhampton R3              | 6 Tinker Toy          | 12    |    -10   |
+| :boom:            | 2022-03-13 | wolverhampton R3              | 6 Tinker Toy          |  9    |     80   |
 | 6                 | 2022-03-12 | eagle-farm R8                 | 2 You Make Me Smile   |  5.5  |    -10   |
 | :3rd_place_medal: | 2022-03-12 | alice-springs R3              | 5 Mathematics         |  3.2  |    -10   |
 | 4                 | 2022-03-12 | alice-springs R3              | 1 That's Justified    |  2.8  |    -10   |
@@ -431,8 +431,8 @@ categories: None
 | :2nd_place_medal: | 2021-08-04 | eagle-farm R6                 | 6 Blackboots          |  4.4  |    -10   |
 | :boom:            | 2021-08-03 | rockhampton R3                | 3 The Egyptian        |  1.3  |      3   |
 | 5                 | 2021-08-02 | darwin R9                     | 3 Autocratic          |  6.5  |    -10   |
-| 4                 | 2021-08-02 | darwin R7                     | 5 No Say in It        | 34    |    -10   |
 | :2nd_place_medal: | 2021-08-02 | darwin R7                     | 1 That's Justified    |  3    |    -10   |
+| 4                 | 2021-08-02 | darwin R7                     | 5 No Say in It        | 34    |    -10   |
 | 6                 | 2021-08-02 | darwin R6                     | 1 Taciturn            |  5.5  |    -10   |
 | :boom:            | 2021-08-02 | darwin R4                     | 4 Belmont Day         |  1.5  |      5   |
 | :boom:            | 2021-08-02 | darwin R3                     | 6 Silver Melody       |  5.7  |     47   |
@@ -621,8 +621,8 @@ categories: None
 | 4                 | 2021-04-17 | randwick R5                   | 2 Amarelinha          |  4.65 |    -10   |
 | 7                 | 2021-04-17 | caulfield R1                  | 4 Fanciful Toff       |  3.7  |    -10   |
 | :2nd_place_medal: | 2021-04-16 | darwin R4                     | 2 Patriot Day         |  4.2  |    -10   |
-| 4                 | 2021-04-16 | darwin R2                     | 2 Kowloon Kid         |  4.6  |    -10   |
 | 5                 | 2021-04-16 | darwin R2                     | 4 The Auditor         | 11    |    -10   |
+| 4                 | 2021-04-16 | darwin R2                     | 2 Kowloon Kid         |  4.6  |    -10   |
 | :boom:            | 2021-04-15 | albany R6                     | 6 Strathmore Rose     |  1.4  |      4   |
 | 4                 | 2021-04-15 | albany R4                     | 1 Captain Sharmane    |  2.25 |    -10   |
 | 6                 | 2021-04-14 | eagle-farm R8                 | 6 Highmaster          |  1.96 |    -10   |
