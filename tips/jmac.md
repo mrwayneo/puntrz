@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-12 16:36:05 +1000  
+date: 2022-03-12 18:49:33 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 17:00             | 2022-03-12 | flemington R8        | 11 Fourhometwo       |  6.5  |    -10   |
+| 13                | 2022-03-12 | flemington R8        | 11 Fourhometwo       |  6.5  |    -10   |
 | :3rd_place_medal: | 2022-03-12 | flemington R7        | 3 Spanish Mission    |  5.5  |    -10   |
 | 9                 | 2022-03-12 | flemington R6        | 2 Home Affairs       |  3.9  |    -10   |
 | :2nd_place_medal: | 2022-03-12 | flemington R4        | 5 Man In The Mirror  |  9    |    -10   |

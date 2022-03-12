@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-12 16:36:07 +1000  
+date: 2022-03-12 18:49:34 +1000  
 ---   
 
 
@@ -19,13 +19,13 @@ date: 2022-03-12 16:36:07 +1000
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      6 |      0 |      -60 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      8 |      0 |      -80 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     12 |      1 |      -99 | 0.08 | -0.82 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |     12 |      0 |     -120 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |     12 |      1 |     -100 | 0.08 | -0.83 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     23 |      3 |     -130 | 0.13 | -0.57 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     33 |      1 |     -287 | 0.03 | -0.87 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     47 |      2 |     -391 | 0.04 | -0.83 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     50 |      2 |     -459 | 0.04 | -0.92 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     47 |      4 |     -333 | 0.09 | -0.71 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     50 |      5 |     -377 | 0.1  | -0.75 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    103 |      3 |     -546 | 0.03 | -0.53 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     68 |      1 |     -645 | 0.01 | -0.95 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     68 |      3 |     -590 | 0.04 | -0.87 |
 
 ##### Form Last 20 tips   
 
@@ -137,29 +137,29 @@ date: 2022-03-12 16:36:07 +1000
 |  53 | :soon:            | 2022-03-12 20:28:00 | ascot               |     10 |        2 | How's The Serenity |   1.75 | benny,pangea         |
 |  54 | :soon:            | 2022-03-12 19:47:00 | ascot               |      9 |        3 | Cristal Dane       |   3.3  | vulture,pangea       |
 |  55 | :soon:            | 2022-03-12 19:29:00 | toowoomba           |      4 |        6 | Spirit One         |   3.6  | vulture,pangea       |
-|  56 | :soon:            | 2022-03-12 17:35:00 | flemington          |      9 |        9 | He's The Ultimate  |  26    | pangea               |
-|  57 | :soon:            | 2022-03-12 17:35:00 | flemington          |      9 |        7 | Socialist          |   6.5  | overthrow            |
-|  58 | :soon:            | 2022-03-12 17:35:00 | flemington          |      9 |        5 | Cardigan Queen     |   2.38 | vulture              |
-|  59 | :soon:            | 2022-03-12 17:28:00 | eagle-farm          |      8 |        1 | Snitch             |  18    | pangea               |
-|  60 | :soon:            | 2022-03-12 17:28:00 | eagle-farm          |      8 |        2 | You Make Me Smile  |   5.5  | pangea,blackshadow   |
-|  61 | :soon:            | 2022-03-12 17:20:00 | rosehill-gardens    |      9 |       14 | Sindacato          |   5    | pikey                |
-|  62 | :soon:            | 2022-03-12 17:18:00 | alice-springs       |      3 |        1 | That's Justified   |   2.8  | evenodds,blackshadow |
-|  63 | :soon:            | 2022-03-12 17:18:00 | alice-springs       |      3 |        5 | Mathematics        |   3.2  | vulture,blackshadow  |
-|  64 | :soon:            | 2022-03-12 17:12:00 | morphettville-parks |      8 |        7 | Last Girl Love     |   2.6  | benny,blackshadow    |
-|  65 | :soon:            | 2022-03-12 17:00:00 | flemington          |      8 |        3 | Kissonallforcheeks |   3.8  | pangea               |
-|  66 | :soon:            | 2022-03-12 17:00:00 | flemington          |      8 |       15 | Ain'tnodeeldun     |  14    | vulture              |
-|  67 | :soon:            | 2022-03-12 17:00:00 | flemington          |      8 |       11 | Fourhometwo        |   6.5  | pangea,jmac          |
-|  68 | :soon:            | 2022-03-12 16:57:00 | rockhampton         |      6 |        4 | Deep Breath        |   1.4  | vulture,pangea       |
-|  69 | :soon:            | 2022-03-12 16:48:00 | ascot               |      4 |        1 | Material Witness   |   5    | pangea               |
-|  70 | :soon:            | 2022-03-12 16:40:00 | rosehill-gardens    |      8 |        8 | Hinged             |   8    | pikey                |
-|  71 | :soon:            | 2022-03-12 16:40:00 | rosehill-gardens    |      8 |        7 | Wandabaa           |  12    | vulture              |
-|  72 | :soon:            | 2022-03-12 16:40:00 | rosehill-gardens    |      8 |        4 | Lighthouse         |   6    | vulture              |
-|  73 | :soon:            | 2022-03-12 16:38:00 | alice-springs       |      2 |        6 | Celtic Belle       |   5.5  | benny,blackshadow    |
-|  74 | :soon:            | 2022-03-12 16:38:00 | alice-springs       |      2 |        1 | Butterfingers      |   3.8  | pangea,blackshadow   |
+|  56 | 12.0              | 2022-03-12 17:35:00 | flemington          |      9 |        9 | He's The Ultimate  |  26    | pangea               |
+|  57 | :3rd_place_medal: | 2022-03-12 17:35:00 | flemington          |      9 |        7 | Socialist          |   6.5  | overthrow            |
+|  58 | :2nd_place_medal: | 2022-03-12 17:35:00 | flemington          |      9 |        5 | Cardigan Queen     |   2.38 | vulture              |
+|  59 | :3rd_place_medal: | 2022-03-12 17:28:00 | eagle-farm          |      8 |        1 | Snitch             |  18    | pangea               |
+|  60 | 6.0               | 2022-03-12 17:28:00 | eagle-farm          |      8 |        2 | You Make Me Smile  |   5.5  | pangea,blackshadow   |
+|  61 | 5.0               | 2022-03-12 17:20:00 | rosehill-gardens    |      9 |       14 | Sindacato          |   5    | pikey                |
+|  62 | 4.0               | 2022-03-12 17:18:00 | alice-springs       |      3 |        1 | That's Justified   |   2.8  | evenodds,blackshadow |
+|  63 | :3rd_place_medal: | 2022-03-12 17:18:00 | alice-springs       |      3 |        5 | Mathematics        |   3.2  | vulture,blackshadow  |
+|  64 | :2nd_place_medal: | 2022-03-12 17:12:00 | morphettville-parks |      8 |        7 | Last Girl Love     |   2.6  | benny,blackshadow    |
+|  65 | :boom:            | 2022-03-12 17:00:00 | flemington          |      8 |        3 | Kissonallforcheeks |   3.8  | pangea               |
+|  66 | 8.0               | 2022-03-12 17:00:00 | flemington          |      8 |       15 | Ain'tnodeeldun     |  14    | vulture              |
+|  67 | 13.0              | 2022-03-12 17:00:00 | flemington          |      8 |       11 | Fourhometwo        |   6.5  | pangea,jmac          |
+|  68 | :boom:            | 2022-03-12 16:57:00 | rockhampton         |      6 |        4 | Deep Breath        |   1.4  | vulture,pangea       |
+|  69 | 4.0               | 2022-03-12 16:48:00 | ascot               |      4 |        1 | Material Witness   |   5    | pangea               |
+|  70 | :3rd_place_medal: | 2022-03-12 16:40:00 | rosehill-gardens    |      8 |        8 | Hinged             |   8    | pikey                |
+|  71 | 6.0               | 2022-03-12 16:40:00 | rosehill-gardens    |      8 |        7 | Wandabaa           |  12    | vulture              |
+|  72 | :boom:            | 2022-03-12 16:40:00 | rosehill-gardens    |      8 |        4 | Lighthouse         |   6    | vulture              |
+|  73 | :3rd_place_medal: | 2022-03-12 16:38:00 | alice-springs       |      2 |        6 | Celtic Belle       |   5.5  | benny,blackshadow    |
+|  74 | --                | 2022-03-12 16:38:00 | alice-springs       |      2 |        1 | Butterfingers      |   3.8  | pangea,blackshadow   |
 |  75 | :3rd_place_medal: | 2022-03-12 16:20:00 | flemington          |      7 |        3 | Spanish Mission    |   5.5  | pangea,jmac          |
-|  76 | --                | 2022-03-12 16:20:00 | flemington          |      7 |        9 | Delphi             |  22    | pangea,overthrow     |
-|  77 | --                | 2022-03-12 16:20:00 | flemington          |      7 |       11 | She's Ideel        |  13    | pangea               |
-|  78 | --                | 2022-03-12 16:20:00 | flemington          |      7 |        5 | Steel Prince       |  67    | pangea               |
+|  76 | 12.0              | 2022-03-12 16:20:00 | flemington          |      7 |        9 | Delphi             |  22    | pangea,overthrow     |
+|  77 | 10.0              | 2022-03-12 16:20:00 | flemington          |      7 |       11 | She's Ideel        |  13    | pangea               |
+|  78 | 9.0               | 2022-03-12 16:20:00 | flemington          |      7 |        5 | Steel Prince       |  67    | pangea               |
 |  79 | :2nd_place_medal: | 2022-03-12 16:00:00 | rosehill-gardens    |      7 |        3 | Mount Popa         |   3.6  | pangea,pikey         |
 |  80 | :3rd_place_medal: | 2022-03-12 15:56:00 | alice-springs       |      1 |        3 | Extraction         |   3.2  | evenodds,blackshadow |
 |  81 | :3rd_place_medal: | 2022-03-12 15:42:00 | rockhampton         |      4 |        5 | Aleysa's Queen     |   2.5  | benny,pangea         |

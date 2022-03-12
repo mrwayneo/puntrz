@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-03-12 16:36:06 +1000  
+date: 2022-03-12 18:49:34 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 17:24             | 2022-03-12 | ascot R5                      | 9 Outspoken Lad       |  16    |    -10   |
+| 5                 | 2022-03-12 | ascot R5                      | 9 Outspoken Lad       |  16    |    -10   |
 | 5                 | 2022-03-05 | newcastle R1                  | 1 Read My Future      |  13    |    -10   |
 | 4                 | 2022-02-27 | newcastle R4                  | 13 Court Master       |  12    |    -10   |
 | 6                 | 2022-02-26 | morphettville R3              | 10 Scampton           |  18    |    -10   |
