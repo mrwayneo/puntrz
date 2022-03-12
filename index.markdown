@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-12 13:55:08 +1000  
+date: 2022-03-12 14:10:19 +1000  
 ---   
 
 
@@ -190,13 +190,13 @@ date: 2022-03-12 13:55:08 +1000
 | 106 | :soon:            | 2022-03-12 14:20:00 | flemington          |      4 |        6 | Let'srollthedice   |   3.75 | vulture,milkman      |
 | 107 | :soon:            | 2022-03-12 14:13:00 | eagle-farm          |      3 |        5 | Dealmaker          |   0    | vulture              |
 | 108 | :soon:            | 2022-03-12 14:13:00 | pukekohe-park       |      7 |       11 | Midnight Special   |   5    | overthrow            |
-| 109 | :soon:            | 2022-03-12 14:05:00 | rosehill-gardens    |      4 |        8 | Jalmari            |  91    | pikey                |
-| 110 | :soon:            | 2022-03-12 14:05:00 | rosehill-gardens    |      4 |        1 | Ellsberg           |   1.91 | pangea               |
-| 111 | --                | 2022-03-12 13:54:00 | gold-coast          |      2 |        8 | Chayse 'N' Menari  |   6    | looseknot            |
+| 109 | --                | 2022-03-12 14:05:00 | rosehill-gardens    |      4 |        8 | Jalmari            |  91    | pikey                |
+| 110 | :2nd_place_medal: | 2022-03-12 14:05:00 | rosehill-gardens    |      4 |        1 | Ellsberg           |   1.91 | pangea               |
+| 111 | :3rd_place_medal: | 2022-03-12 13:54:00 | gold-coast          |      2 |        8 | Chayse 'N' Menari  |   6    | looseknot            |
 | 112 | --                | 2022-03-12 13:54:00 | trentham            |      7 |        5 | Sharpie            |   5    | looseknot            |
 | 113 | --                | 2022-03-12 13:47:00 | rockhampton         |      1 |        5 | Super Rooster      |   7    | looseknot            |
-| 114 | --                | 2022-03-12 13:45:00 | flemington          |      3 |        4 | Flying Evelyn      |  11    | evenodds,overthrow   |
-| 115 | --                | 2022-03-12 13:45:00 | flemington          |      3 |        3 | Crystal Bound      |  11    | pangea,icyhot        |
+| 114 | 5.0               | 2022-03-12 13:45:00 | flemington          |      3 |        4 | Flying Evelyn      |  11    | evenodds,overthrow   |
+| 115 | 6.0               | 2022-03-12 13:45:00 | flemington          |      3 |        3 | Crystal Bound      |  11    | pangea,icyhot        |
 | 116 | :3rd_place_medal: | 2022-03-12 13:45:00 | flemington          |      3 |        6 | Gimmie Par         |   3.75 | benny,pangea         |
 | 117 | :3rd_place_medal: | 2022-03-12 13:30:00 | rosehill-gardens    |      3 |        3 | Magic              |   1.95 | pikey                |
 | 118 | :3rd_place_medal: | 2022-03-12 13:22:00 | morphettville-parks |      2 |        5 | Daring Move        |   4.75 | benny,milkman        |
