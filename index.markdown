@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-12 13:08:00 +1000  
+date: 2022-03-12 13:55:08 +1000  
 ---   
 
 
@@ -23,9 +23,9 @@ date: 2022-03-12 13:08:00 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     33 |      1 |     -287 | 0.03 | -0.87 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     33 |      0 |     -330 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     47 |      1 |     -427 | 0.02 | -0.91 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     50 |      0 |     -500 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     68 |      0 |     -680 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    103 |      0 |    -1030 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     50 |      1 |     -480 | 0.02 | -0.96 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     68 |      1 |     -645 | 0.01 | -0.95 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    103 |      1 |     -820 | 0.01 | -0.8  |
 
 ##### Form Last 20 tips   
 
@@ -192,18 +192,18 @@ date: 2022-03-12 13:08:00 +1000
 | 108 | :soon:            | 2022-03-12 14:13:00 | pukekohe-park       |      7 |       11 | Midnight Special   |   5    | overthrow            |
 | 109 | :soon:            | 2022-03-12 14:05:00 | rosehill-gardens    |      4 |        8 | Jalmari            |  91    | pikey                |
 | 110 | :soon:            | 2022-03-12 14:05:00 | rosehill-gardens    |      4 |        1 | Ellsberg           |   1.91 | pangea               |
-| 111 | :soon:            | 2022-03-12 13:54:00 | gold-coast          |      2 |        8 | Chayse 'N' Menari  |   6    | looseknot            |
-| 112 | :soon:            | 2022-03-12 13:54:00 | trentham            |      7 |        5 | Sharpie            |   5    | looseknot            |
-| 113 | :soon:            | 2022-03-12 13:47:00 | rockhampton         |      1 |        5 | Super Rooster      |   7    | looseknot            |
-| 114 | :soon:            | 2022-03-12 13:45:00 | flemington          |      3 |        4 | Flying Evelyn      |  11    | evenodds,overthrow   |
-| 115 | :soon:            | 2022-03-12 13:45:00 | flemington          |      3 |        3 | Crystal Bound      |  11    | pangea,icyhot        |
-| 116 | :soon:            | 2022-03-12 13:45:00 | flemington          |      3 |        6 | Gimmie Par         |   3.75 | benny,pangea         |
-| 117 | :soon:            | 2022-03-12 13:30:00 | rosehill-gardens    |      3 |        3 | Magic              |   1.95 | pikey                |
-| 118 | :soon:            | 2022-03-12 13:22:00 | morphettville-parks |      2 |        5 | Daring Move        |   4.75 | benny,milkman        |
-| 119 | :soon:            | 2022-03-12 13:10:00 | flemington          |      2 |        3 | Rocha Clock        |   7.5  | pangea               |
-| 120 | :soon:            | 2022-03-12 13:10:00 | flemington          |      2 |        4 | Flying Mascot      |   2.05 | pangea               |
-| 121 | :soon:            | 2022-03-12 13:10:00 | flemington          |      2 |        9 | Groovy Kinda Love  |   6    | jmac                 |
-| 122 | --                | 2022-03-12 12:55:00 | rosehill-gardens    |      2 |       13 | Seiryu             |  13    | pikey                |
+| 111 | --                | 2022-03-12 13:54:00 | gold-coast          |      2 |        8 | Chayse 'N' Menari  |   6    | looseknot            |
+| 112 | --                | 2022-03-12 13:54:00 | trentham            |      7 |        5 | Sharpie            |   5    | looseknot            |
+| 113 | --                | 2022-03-12 13:47:00 | rockhampton         |      1 |        5 | Super Rooster      |   7    | looseknot            |
+| 114 | --                | 2022-03-12 13:45:00 | flemington          |      3 |        4 | Flying Evelyn      |  11    | evenodds,overthrow   |
+| 115 | --                | 2022-03-12 13:45:00 | flemington          |      3 |        3 | Crystal Bound      |  11    | pangea,icyhot        |
+| 116 | :3rd_place_medal: | 2022-03-12 13:45:00 | flemington          |      3 |        6 | Gimmie Par         |   3.75 | benny,pangea         |
+| 117 | :3rd_place_medal: | 2022-03-12 13:30:00 | rosehill-gardens    |      3 |        3 | Magic              |   1.95 | pikey                |
+| 118 | :3rd_place_medal: | 2022-03-12 13:22:00 | morphettville-parks |      2 |        5 | Daring Move        |   4.75 | benny,milkman        |
+| 119 | :3rd_place_medal: | 2022-03-12 13:10:00 | flemington          |      2 |        3 | Rocha Clock        |   7.5  | pangea               |
+| 120 | :boom:            | 2022-03-12 13:10:00 | flemington          |      2 |        4 | Flying Mascot      |   2.05 | pangea               |
+| 121 | :2nd_place_medal: | 2022-03-12 13:10:00 | flemington          |      2 |        9 | Groovy Kinda Love  |   6    | jmac                 |
+| 122 | 10.0              | 2022-03-12 12:55:00 | rosehill-gardens    |      2 |       13 | Seiryu             |  13    | pikey                |
 | 123 | :boom:            | 2022-03-12 12:35:00 | flemington          |      1 |        8 | Ruthless Dame      |   5    | evenodds,lago        |
 | 124 | 6.0               | 2022-03-12 12:35:00 | flemington          |      1 |        9 | Moko               |   8.5  | overthrow            |
 | 125 | :2nd_place_medal: | 2022-03-12 12:35:00 | flemington          |      1 |        5 | Nanagui            |   3.1  | vulture,jmac         |

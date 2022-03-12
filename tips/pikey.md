@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-12 13:07:59 +1000  
+date: 2022-03-12 13:55:07 +1000  
 categories: None 
 ---   
 
@@ -21,8 +21,8 @@ categories: None
 | 15:20             | 2022-03-12 | rosehill-gardens R6   | 2 Mr Mozart           |  12    |    -10   |
 | 14:40             | 2022-03-12 | rosehill-gardens R5   | 5 Remarque            |   4.6  |    -10   |
 | 14:05             | 2022-03-12 | rosehill-gardens R4   | 8 Jalmari             |  91    |    -10   |
-| 13:30             | 2022-03-12 | rosehill-gardens R3   | 3 Magic               |   1.95 |    -10   |
-| 0                 | 2022-03-12 | rosehill-gardens R2   | 13 Seiryu             |   0    |    -10   |
+| :3rd_place_medal: | 2022-03-12 | rosehill-gardens R3   | 3 Magic               |   1.95 |    -10   |
+| 10                | 2022-03-12 | rosehill-gardens R2   | 13 Seiryu             |  13    |    -10   |
 | 4                 | 2022-03-11 | goulburn R9           | 5 Danish Prince       |  10    |    -10   |
 | :2nd_place_medal: | 2022-03-11 | goulburn R8           | 3 Hope In Your Heart  |  11    |    -10   |
 | :2nd_place_medal: | 2022-03-10 | canterbury R8         | 10 Tonneofgrit        |   6.5  |    -10   |

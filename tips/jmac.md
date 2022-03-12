@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-12 13:07:59 +1000  
+date: 2022-03-12 13:55:07 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 16:20             | 2022-03-12 | flemington R7        | 3 Spanish Mission    |  5.5  |    -10   |
 | 15:40             | 2022-03-12 | flemington R6        | 2 Home Affairs       |  3.9  |    -10   |
 | 14:20             | 2022-03-12 | flemington R4        | 5 Man In The Mirror  |  9    |    -10   |
-| 13:10             | 2022-03-12 | flemington R2        | 9 Groovy Kinda Love  |  6    |    -10   |
+| :2nd_place_medal: | 2022-03-12 | flemington R2        | 9 Groovy Kinda Love  |  6    |    -10   |
 | :2nd_place_medal: | 2022-03-12 | flemington R1        | 5 Nanagui            |  3.1  |    -10   |
 | :2nd_place_medal: | 2022-03-10 | canterbury R7        | 2 Diamil             |  5.5  |    -10   |
 | :2nd_place_medal: | 2022-03-10 | canterbury R4        | 9 Headliner          |  2.88 |    -10   |
