@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-12 15:26:19 +1000  
+date: 2022-03-12 16:36:07 +1000  
 ---   
 
 
@@ -13,17 +13,17 @@ date: 2022-03-12 15:26:19 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      3 |      1 |       13 | 0.33 |  0.43 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      4 |      0 |      -40 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      4 |      1 |      -19 | 0.25 | -0.48 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     33 |      2 |      -56 | 0.06 | -0.17 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     10 |      1 |      -57 | 0.1  | -0.57 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      6 |      0 |      -60 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      8 |      0 |      -80 | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     12 |      0 |     -120 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     12 |      1 |      -99 | 0.08 | -0.82 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     12 |      0 |     -120 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     23 |      2 |     -151 | 0.09 | -0.66 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     23 |      3 |     -130 | 0.13 | -0.57 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     33 |      1 |     -287 | 0.03 | -0.87 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     47 |      2 |     -391 | 0.04 | -0.83 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     50 |      1 |     -480 | 0.02 | -0.96 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     50 |      2 |     -459 | 0.04 | -0.92 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    103 |      3 |     -546 | 0.03 | -0.53 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     68 |      1 |     -645 | 0.01 | -0.95 |
 
@@ -156,20 +156,20 @@ date: 2022-03-12 15:26:19 +1000
 |  72 | :soon:            | 2022-03-12 16:40:00 | rosehill-gardens    |      8 |        4 | Lighthouse         |   6    | vulture              |
 |  73 | :soon:            | 2022-03-12 16:38:00 | alice-springs       |      2 |        6 | Celtic Belle       |   5.5  | benny,blackshadow    |
 |  74 | :soon:            | 2022-03-12 16:38:00 | alice-springs       |      2 |        1 | Butterfingers      |   3.8  | pangea,blackshadow   |
-|  75 | :soon:            | 2022-03-12 16:20:00 | flemington          |      7 |        3 | Spanish Mission    |   5.5  | pangea,jmac          |
-|  76 | :soon:            | 2022-03-12 16:20:00 | flemington          |      7 |        9 | Delphi             |  22    | pangea,overthrow     |
-|  77 | :soon:            | 2022-03-12 16:20:00 | flemington          |      7 |       11 | She's Ideel        |  13    | pangea               |
-|  78 | :soon:            | 2022-03-12 16:20:00 | flemington          |      7 |        5 | Steel Prince       |  67    | pangea               |
-|  79 | :soon:            | 2022-03-12 16:00:00 | rosehill-gardens    |      7 |        3 | Mount Popa         |   3.6  | pangea,pikey         |
-|  80 | :soon:            | 2022-03-12 15:56:00 | alice-springs       |      1 |        3 | Extraction         |   3.2  | evenodds,blackshadow |
-|  81 | :soon:            | 2022-03-12 15:42:00 | rockhampton         |      4 |        5 | Aleysa's Queen     |   2.5  | benny,pangea         |
-|  82 | :soon:            | 2022-03-12 15:40:00 | flemington          |      6 |        3 | Lost And Running   |   4.2  | pangea               |
-|  83 | :soon:            | 2022-03-12 15:40:00 | flemington          |      6 |       12 | September Run      |  29    | pangea               |
-|  84 | :soon:            | 2022-03-12 15:40:00 | flemington          |      6 |        8 | Oxley Road         |  29    | pangea               |
-|  85 | :soon:            | 2022-03-12 15:40:00 | flemington          |      6 |        2 | Home Affairs       |   3.9  | pangea,jmac          |
-|  86 | :soon:            | 2022-03-12 15:40:00 | flemington          |      6 |        1 | Masked Crusader    |   9.5  | pangea               |
-|  87 | :soon:            | 2022-03-12 15:32:00 | eagle-farm          |      5 |        1 | Gypsy Goddess      |   1.95 | pangea,icyhot        |
-|  88 | :soon:            | 2022-03-12 15:32:00 | eagle-farm          |      5 |        6 | Red Wave           |   5    | benny,pangea         |
+|  75 | :3rd_place_medal: | 2022-03-12 16:20:00 | flemington          |      7 |        3 | Spanish Mission    |   5.5  | pangea,jmac          |
+|  76 | --                | 2022-03-12 16:20:00 | flemington          |      7 |        9 | Delphi             |  22    | pangea,overthrow     |
+|  77 | --                | 2022-03-12 16:20:00 | flemington          |      7 |       11 | She's Ideel        |  13    | pangea               |
+|  78 | --                | 2022-03-12 16:20:00 | flemington          |      7 |        5 | Steel Prince       |  67    | pangea               |
+|  79 | :2nd_place_medal: | 2022-03-12 16:00:00 | rosehill-gardens    |      7 |        3 | Mount Popa         |   3.6  | pangea,pikey         |
+|  80 | :3rd_place_medal: | 2022-03-12 15:56:00 | alice-springs       |      1 |        3 | Extraction         |   3.2  | evenodds,blackshadow |
+|  81 | :3rd_place_medal: | 2022-03-12 15:42:00 | rockhampton         |      4 |        5 | Aleysa's Queen     |   2.5  | benny,pangea         |
+|  82 | 14.0              | 2022-03-12 15:40:00 | flemington          |      6 |        3 | Lost And Running   |   4.2  | pangea               |
+|  83 | :3rd_place_medal: | 2022-03-12 15:40:00 | flemington          |      6 |       12 | September Run      |  29    | pangea               |
+|  84 | 17.0              | 2022-03-12 15:40:00 | flemington          |      6 |        8 | Oxley Road         |  29    | pangea               |
+|  85 | 9.0               | 2022-03-12 15:40:00 | flemington          |      6 |        2 | Home Affairs       |   3.9  | pangea,jmac          |
+|  86 | 7.0               | 2022-03-12 15:40:00 | flemington          |      6 |        1 | Masked Crusader    |   9.5  | pangea               |
+|  87 | :boom:            | 2022-03-12 15:32:00 | eagle-farm          |      5 |        1 | Gypsy Goddess      |   1.95 | pangea,icyhot        |
+|  88 | :3rd_place_medal: | 2022-03-12 15:32:00 | eagle-farm          |      5 |        6 | Red Wave           |   5    | benny,pangea         |
 |  89 | :boom:            | 2022-03-12 15:20:00 | rosehill-gardens    |      6 |        2 | Mr Mozart          |  12    | cosmo,pikey          |
 |  90 | :3rd_place_medal: | 2022-03-12 15:20:00 | rosehill-gardens    |      6 |        5 | Character          |  18    | vulture              |
 |  91 | 4.0               | 2022-03-12 15:20:00 | rosehill-gardens    |      6 |       11 | Fangirl            |   1.67 | milkman              |
@@ -193,7 +193,7 @@ date: 2022-03-12 15:26:19 +1000
 | 109 | 5.0               | 2022-03-12 14:05:00 | rosehill-gardens    |      4 |        8 | Jalmari            |  91    | pikey                |
 | 110 | :2nd_place_medal: | 2022-03-12 14:05:00 | rosehill-gardens    |      4 |        1 | Ellsberg           |   1.91 | pangea               |
 | 111 | :3rd_place_medal: | 2022-03-12 13:54:00 | gold-coast          |      2 |        8 | Chayse 'N' Menari  |   6    | looseknot            |
-| 112 | --                | 2022-03-12 13:54:00 | trentham            |      7 |        5 | Sharpie            |   5    | looseknot            |
+| 112 | 7.0               | 2022-03-12 13:54:00 | trentham            |      7 |        5 | Sharpie            |   5    | looseknot            |
 | 113 | 5.0               | 2022-03-12 13:47:00 | rockhampton         |      1 |        5 | Super Rooster      |   7    | looseknot            |
 | 114 | 5.0               | 2022-03-12 13:45:00 | flemington          |      3 |        4 | Flying Evelyn      |  11    | evenodds,overthrow   |
 | 115 | 6.0               | 2022-03-12 13:45:00 | flemington          |      3 |        3 | Crystal Bound      |  11    | pangea,icyhot        |

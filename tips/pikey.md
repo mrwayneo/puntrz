@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-12 15:26:18 +1000  
+date: 2022-03-12 16:36:06 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 17:20             | 2022-03-12 | rosehill-gardens R9   | 14 Sindacato          |   5    |    -10   |
 | 16:40             | 2022-03-12 | rosehill-gardens R8   | 8 Hinged              |   8    |    -10   |
-| 16:00             | 2022-03-12 | rosehill-gardens R7   | 3 Mount Popa          |   3.6  |    -10   |
+| :2nd_place_medal: | 2022-03-12 | rosehill-gardens R7   | 3 Mount Popa          |   3.6  |    -10   |
 | :boom:            | 2022-03-12 | rosehill-gardens R6   | 2 Mr Mozart           |   9.4  |     84   |
 | 5                 | 2022-03-12 | rosehill-gardens R5   | 5 Remarque            |   4.6  |    -10   |
 | 5                 | 2022-03-12 | rosehill-gardens R4   | 8 Jalmari             |  91    |    -10   |
