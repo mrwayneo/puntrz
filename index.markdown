@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-12 12:53:49 +1000  
+date: 2022-03-12 13:08:00 +1000  
 ---   
 
 
@@ -203,9 +203,9 @@ date: 2022-03-12 12:53:49 +1000
 | 119 | :soon:            | 2022-03-12 13:10:00 | flemington          |      2 |        3 | Rocha Clock        |   7.5  | pangea               |
 | 120 | :soon:            | 2022-03-12 13:10:00 | flemington          |      2 |        4 | Flying Mascot      |   2.05 | pangea               |
 | 121 | :soon:            | 2022-03-12 13:10:00 | flemington          |      2 |        9 | Groovy Kinda Love  |   6    | jmac                 |
-| 122 | :soon:            | 2022-03-12 12:55:00 | rosehill-gardens    |      2 |       13 | Seiryu             |  13    | pikey                |
+| 122 | --                | 2022-03-12 12:55:00 | rosehill-gardens    |      2 |       13 | Seiryu             |  13    | pikey                |
 | 123 | :boom:            | 2022-03-12 12:35:00 | flemington          |      1 |        8 | Ruthless Dame      |   5    | evenodds,lago        |
-| 124 | --                | 2022-03-12 12:35:00 | flemington          |      1 |        9 | Moko               |   8.5  | overthrow            |
+| 124 | 6.0               | 2022-03-12 12:35:00 | flemington          |      1 |        9 | Moko               |   8.5  | overthrow            |
 | 125 | :2nd_place_medal: | 2022-03-12 12:35:00 | flemington          |      1 |        5 | Nanagui            |   3.1  | vulture,jmac         |
 | 126 | :2nd_place_medal: | 2022-03-12 12:28:00 | pukekohe-park       |      4 |       12 | Kai                |   1.6  | evenodds,overthrow   |
 | 127 | 11.0              | 2022-03-12 12:20:00 | rosehill-gardens    |      1 |        5 | Lord Zoulander     |  10    | pangea               |
