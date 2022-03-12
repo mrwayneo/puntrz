@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-13 07:49:29 +1000  
+date: 2022-03-13 08:09:29 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,10 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 16:21             | 2022-03-13 | canberra R7           | 10 Beachbreak         |  19    |    -10   |
+| 15:41             | 2022-03-13 | canberra R6           | 9 Miss Twilight       |  51    |    -10   |
+| 14:21             | 2022-03-13 | canberra R4           | 10 Hard Core          |  34    |    -10   |
+| 13:05             | 2022-03-13 | canberra R2           | 11 Great Mystery      |  26    |    -10   |
 | 5                 | 2022-03-12 | rosehill-gardens R9   | 14 Sindacato          |   5    |    -10   |
 | :3rd_place_medal: | 2022-03-12 | rosehill-gardens R8   | 8 Hinged              |   8    |    -10   |
 | :2nd_place_medal: | 2022-03-12 | rosehill-gardens R7   | 3 Mount Popa          |   3.6  |    -10   |
