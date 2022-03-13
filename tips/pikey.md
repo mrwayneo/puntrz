@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-13 16:44:42 +1000  
+date: 2022-03-13 16:59:58 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2022-03-13 | canberra R7           | 10 Beachbreak         |   0    |    -10   |
+| 11                | 2022-03-13 | canberra R7           | 10 Beachbreak         |  19    |    -10   |
 | 8                 | 2022-03-13 | canberra R6           | 9 Miss Twilight       |  51    |    -10   |
 | 9                 | 2022-03-13 | canberra R4           | 10 Hard Core          |  34    |    -10   |
 | :boom:            | 2022-03-13 | canberra R2           | 11 Great Mystery      |   9.7  |     87   |
