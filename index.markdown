@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-13 13:44:42 +1000  
+date: 2022-03-13 13:59:56 +1000  
 ---   
 
 
@@ -121,7 +121,7 @@ date: 2022-03-13 13:44:42 +1000
 | 40 | :soon:            | 2022-03-13 14:21:00 | canberra       |      4 |       11 | Beep Test          |   4.4  | benny,pangea       |
 | 41 | :soon:            | 2022-03-13 14:10:00 | coonamble      |      4 |        4 | Dethroned          |  14    | vulture            |
 | 42 | :soon:            | 2022-03-13 14:10:00 | coonamble      |      4 |        2 | Crazy Wolf         |   7    | jmac               |
-| 43 | :soon:            | 2022-03-13 13:46:00 | canberra       |      3 |        9 | Jac The Great      |  11    | pangea             |
+| 43 | --                | 2022-03-13 13:46:00 | canberra       |      3 |        9 | Jac The Great      |  11    | pangea             |
 | 44 | :3rd_place_medal: | 2022-03-13 13:35:00 | coonamble      |      3 |        7 | Hombre             |   3    | vulture            |
 | 45 | :2nd_place_medal: | 2022-03-13 13:35:00 | coonamble      |      3 |        2 | Father's Day       |   1.65 | jmac               |
 | 46 | :boom:            | 2022-03-13 13:05:00 | canberra       |      2 |       11 | Great Mystery      |  26    | pikey              |
