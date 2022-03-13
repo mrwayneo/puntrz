@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-13 12:56:51 +1000  
+date: 2022-03-13 13:30:29 +1000  
 ---   
 
 
@@ -9,20 +9,20 @@ date: 2022-03-13 12:56:51 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 |    0 |    -1 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      3 |      0 |      -30 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      0 |      -40 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      4 |      0 |      -40 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      8 |      0 |      -80 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |     11 |      0 |     -110 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     13 |      0 |     -130 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     15 |      0 |     -150 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     19 |      0 |     -190 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     51 |      0 |     -510 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     59 |      0 |     -590 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      4 |      1 |       57 | 0.25 |  1.42 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 | 0    | -1    |
+| [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      3 |      0 |      -30 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      0 |      -40 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      8 |      0 |      -80 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |     11 |      0 |     -110 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     13 |      0 |     -130 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     15 |      0 |     -150 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     19 |      1 |     -175 | 0.05 | -0.92 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     51 |      0 |     -510 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     59 |      0 |     -590 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -124,8 +124,8 @@ date: 2022-03-13 12:56:51 +1000
 | 43 | :soon:            | 2022-03-13 13:46:00 | canberra       |      3 |        9 | Jac The Great      |  11    | pangea             |
 | 44 | :soon:            | 2022-03-13 13:35:00 | coonamble      |      3 |        7 | Hombre             |   3    | vulture            |
 | 45 | :soon:            | 2022-03-13 13:35:00 | coonamble      |      3 |        2 | Father's Day       |   1.65 | jmac               |
-| 46 | :soon:            | 2022-03-13 13:05:00 | canberra       |      2 |       11 | Great Mystery      |  26    | pikey              |
-| 47 | --                | 2022-03-13 12:50:00 | echuca         |      1 |        2 | Lafargue           |   1.95 | vulture            |
+| 46 | :boom:            | 2022-03-13 13:05:00 | canberra       |      2 |       11 | Great Mystery      |  26    | pikey              |
+| 47 | :boom:            | 2022-03-13 12:50:00 | echuca         |      1 |        2 | Lafargue           |   1.95 | vulture            |
 | 48 | :3rd_place_medal: | 2022-03-13 12:25:00 | canberra       |      1 |        7 | Flying Annie       |   3.5  | vulture,milkman    |
-| 49 | --                | 2022-03-13 12:25:00 | canberra       |      1 |        5 | Glamour Runs Deep  |   2.5  | vulture            |
+| 49 | 5.0               | 2022-03-13 12:25:00 | canberra       |      1 |        5 | Glamour Runs Deep  |   2.5  | vulture            |
 | 50 | --                | 2022-03-13 11:55:00 | ellerslie      |      3 |        4 | Violetta           |   3    | vulture            |
