@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-13 11:40:56 +1000  
+date: 2022-03-13 12:11:40 +1000  
 ---   
 
 
@@ -128,4 +128,4 @@ date: 2022-03-13 11:40:56 +1000
 | 47 | :soon:   | 2022-03-13 12:50:00 | echuca         |      1 |        2 | Lafargue           |   1.95 | vulture            |
 | 48 | :soon:   | 2022-03-13 12:25:00 | canberra       |      1 |        7 | Flying Annie       |   3.5  | vulture,milkman    |
 | 49 | :soon:   | 2022-03-13 12:25:00 | canberra       |      1 |        5 | Glamour Runs Deep  |   2.5  | vulture            |
-| 50 | :soon:   | 2022-03-13 11:55:00 | ellerslie      |      3 |        4 | Violetta           |   3    | vulture            |
+| 50 | --       | 2022-03-13 11:55:00 | ellerslie      |      3 |        4 | Violetta           |   3    | vulture            |
