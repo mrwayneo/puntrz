@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-13 14:29:46 +1000  
+date: 2022-03-13 14:45:02 +1000  
 categories: None 
 ---   
 
@@ -16,8 +16,8 @@ categories: None
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 17:25             | 2022-03-13 | coonamble R9         | 11 Vandangle         |  4.6  |    -10   |
-| 14:45             | 2022-03-13 | coonamble R5         | 5 Impactful          |  3.2  |    -10   |
-| 0                 | 2022-03-13 | coonamble R4         | 2 Crazy Wolf         |  0    |    -10   |
+| 0                 | 2022-03-13 | coonamble R5         | 5 Impactful          |  0    |    -10   |
+| :3rd_place_medal: | 2022-03-13 | coonamble R4         | 2 Crazy Wolf         |  7    |    -10   |
 | :3rd_place_medal: | 2022-03-13 | coonamble R3         | 2 Father's Day       |  1.65 |    -10   |
 | 13                | 2022-03-12 | flemington R8        | 11 Fourhometwo       |  6.5  |    -10   |
 | :3rd_place_medal: | 2022-03-12 | flemington R7        | 3 Spanish Mission    |  5.5  |    -10   |
