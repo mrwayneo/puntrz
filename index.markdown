@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-14 07:53:46 +1000  
+date: 2022-03-14 08:34:07 +1000  
 ---   
 
 
@@ -75,56 +75,50 @@ date: 2022-03-14 07:53:46 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6154 |    793 | -14656.3 | 0.13 | -0.24 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7911 |    363 | -23558.5 | 0.05 | -0.3  |
 
-|    | finish            | time                | track          |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :boom:            | 2022-03-14 04:25:00 | limerick       |      8 |        2 | Hunters Yarn       |   1.6  | overthrow          |
-|  1 | 4.0               | 2022-03-14 04:15:00 | naas           |      7 |        2 | Flemencello        |   8.5  | overthrow          |
-|  2 | :boom:            | 2022-03-14 04:15:00 | naas           |      7 |        3 | Liberty Dance      |   1.45 | milkman            |
-|  3 | :3rd_place_medal: | 2022-03-14 04:05:00 | warwick        |      7 |        7 | Twin Power         |   3.25 | vulture            |
-|  4 | :2nd_place_medal: | 2022-03-14 04:05:00 | warwick        |      7 |        2 | Everyonesgame      |   6    | vulture,milkman    |
-|  5 | 4.0               | 2022-03-14 04:05:00 | warwick        |      7 |        6 | Mount Tempest      |   7    | overthrow          |
-|  6 | --                | 2022-03-14 04:05:00 | warwick        |      7 |        3 | Bold Reaction      |   3.25 | vulture            |
-|  7 | --                | 2022-03-14 03:58:00 | bangor         |      6 |        1 | Grey Skies         |   1.5  | overthrow          |
-|  8 | 5.0               | 2022-03-14 03:30:00 | warwick        |      6 |        8 | Go Sacre Go        |   6    | overthrow          |
-|  9 | :2nd_place_medal: | 2022-03-14 03:23:00 | bangor         |      5 |        3 | Silver Flyer       |   2.7  | overthrow          |
-| 10 | :3rd_place_medal: | 2022-03-14 02:48:00 | bangor         |      4 |        4 | Kayfast Warrior    |   2.4  | evenodds,overthrow |
-| 11 | --                | 2022-03-14 02:20:00 | warwick        |      4 |        5 | In Rem             |   3    | overthrow,milkman  |
-| 12 | :boom:            | 2022-03-14 02:20:00 | warwick        |      4 |        3 | Boss Man Fred      |   5.5  | overthrow          |
-| 13 | :boom:            | 2022-03-14 02:13:00 | bangor         |      3 |        1 | Harbour Lake       |   2.8  | milkman            |
-| 14 | :2nd_place_medal: | 2022-03-14 02:13:00 | bangor         |      3 |        2 | Jungle Jack        |   2.4  | overthrow,lago     |
-| 15 | --                | 2022-03-14 01:45:00 | warwick        |      3 |        2 | Dazzling Glory     |   7    | overthrow          |
-| 16 | :boom:            | 2022-03-14 01:45:00 | warwick        |      3 |        4 | Precious Eleanor   |   3.75 | vulture            |
-| 17 | :2nd_place_medal: | 2022-03-14 01:45:00 | warwick        |      3 |        5 | Fortunes Melody    |   3.75 | vulture            |
-| 18 | :3rd_place_medal: | 2022-03-14 01:38:00 | bangor         |      2 |        2 | Belle De Manech    |   4.4  | vulture            |
-| 19 | --                | 2022-03-14 01:30:00 | greyville      |      8 |        5 | Winter Waves       |   0    | vulture            |
-| 20 | :3rd_place_medal: | 2022-03-14 01:20:00 | naas           |      2 |        1 | Slip Of The Tongue |   2.6  | milkman            |
-| 21 | :2nd_place_medal: | 2022-03-14 01:20:00 | naas           |      2 |        6 | Vina Ardanza       |  11    | vulture,milkman    |
-| 22 | :boom:            | 2022-03-14 01:12:00 | warwick        |      2 |        1 | Lac De Constance   |   1.2  | overthrow,milkman  |
-| 23 | --                | 2022-03-14 00:55:00 | limerick       |      2 |       12 | Rock On Cassie     |   7.5  | pangea             |
-| 24 | --                | 2022-03-14 00:35:00 | warwick        |      1 |        5 | Admiral Balko      |   7.5  | overthrow          |
-| 25 | :boom:            | 2022-03-13 20:50:00 | ascot          |      8 |       10 | The Thunderess     |   8    | pangea,icyhot      |
-| 26 | 6.0               | 2022-03-13 20:50:00 | ascot          |      8 |        4 | Medellin           |  14    | pangea             |
-| 27 | --                | 2022-03-13 19:50:00 | ascot          |      6 |        4 | Marzipan Lad       |   7    | looseknot          |
-| 28 | :boom:            | 2022-03-13 19:20:00 | ascot          |      5 |        6 | Alaskan God        |   2    | pangea,icyhot      |
-| 29 | :boom:            | 2022-03-13 19:00:00 | singapore      |      9 |        8 | Lucky Jinsha       |   0    | vulture            |
-| 30 | 4.0               | 2022-03-13 17:30:00 | singapore      |      6 |        3 | Hero               |   0    | vulture            |
-| 31 | :boom:            | 2022-03-13 17:25:00 | coonamble      |      9 |       11 | Vandangle          |   4.6  | vulture,jmac       |
-| 32 | :boom:            | 2022-03-13 16:40:00 | echuca         |      7 |        7 | Not to Be Mist     |   3.25 | pangea             |
-| 33 | 8.0               | 2022-03-13 16:30:00 | sunshine-coast |      6 |        7 | Lady Melba         |  11    | pangea             |
-| 34 | 11.0              | 2022-03-13 16:21:00 | canberra       |      7 |       10 | Beachbreak         |  19    | pikey              |
-| 35 | 9.0               | 2022-03-13 16:21:00 | canberra       |      7 |       11 | Meg                |  19    | icyhot             |
-| 36 | 6.0               | 2022-03-13 16:14:00 | ellerslie      |     10 |        5 | Miss Cartier       |   2.9  | milkman            |
-| 37 | 8.0               | 2022-03-13 15:41:00 | canberra       |      6 |        9 | Miss Twilight      |  51    | pikey              |
-| 38 | :boom:            | 2022-03-13 14:45:00 | coonamble      |      5 |        5 | Impactful          |   3.2  | vulture,jmac       |
-| 39 | 9.0               | 2022-03-13 14:21:00 | canberra       |      4 |       10 | Hard Core          |  34    | pikey              |
-| 40 | 7.0               | 2022-03-13 14:21:00 | canberra       |      4 |       11 | Beep Test          |   4.4  | benny,pangea       |
-| 41 | :2nd_place_medal: | 2022-03-13 14:10:00 | coonamble      |      4 |        4 | Dethroned          |  14    | vulture            |
-| 42 | :3rd_place_medal: | 2022-03-13 14:10:00 | coonamble      |      4 |        2 | Crazy Wolf         |   7    | jmac               |
-| 43 | 8.0               | 2022-03-13 13:46:00 | canberra       |      3 |        9 | Jac The Great      |  11    | pangea             |
-| 44 | :2nd_place_medal: | 2022-03-13 13:35:00 | coonamble      |      3 |        7 | Hombre             |   3    | vulture            |
-| 45 | :3rd_place_medal: | 2022-03-13 13:35:00 | coonamble      |      3 |        2 | Father's Day       |   1.65 | jmac               |
-| 46 | :boom:            | 2022-03-13 13:05:00 | canberra       |      2 |       11 | Great Mystery      |  26    | pikey              |
-| 47 | :boom:            | 2022-03-13 12:50:00 | echuca         |      1 |        2 | Lafargue           |   1.95 | vulture            |
-| 48 | :3rd_place_medal: | 2022-03-13 12:25:00 | canberra       |      1 |        7 | Flying Annie       |   3.5  | vulture,milkman    |
-| 49 | 5.0               | 2022-03-13 12:25:00 | canberra       |      1 |        5 | Glamour Runs Deep  |   2.5  | vulture            |
-| 50 | 7.0               | 2022-03-13 11:55:00 | ellerslie      |      3 |        4 | Violetta           |   3    | vulture            |
+|    | finish   | time                | track         |   race |   number | name              |   odds | tipster              |
+|---:|:---------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:---------------------|
+|  0 | :soon:   | 2022-03-15 06:00:00 | wolverhampton |      5 |        9 | Smart Boyo        |   4.8  | looseknot            |
+|  1 | :soon:   | 2022-03-15 05:00:00 | wolverhampton |      3 |        2 | Fitwood Star      |   3.5  | milkman              |
+|  2 | :soon:   | 2022-03-15 04:00:00 | wolverhampton |      1 |        3 | Hold Fast         |   6    | pangea,blackshadow   |
+|  3 | :soon:   | 2022-03-15 03:50:00 | taunton       |      6 |        5 | Earl Of Wisdom    |   6.5  | looseknot            |
+|  4 | :soon:   | 2022-03-15 03:50:00 | taunton       |      6 |        8 | Doyens De Ante    |   8.5  | looseknot            |
+|  5 | :soon:   | 2022-03-15 03:20:00 | taunton       |      5 |        5 | Annie Nail        |   9    | looseknot            |
+|  6 | :soon:   | 2022-03-15 02:45:00 | taunton       |      4 |        4 | Confirmation Bias |   7.5  | overthrow            |
+|  7 | :soon:   | 2022-03-15 02:20:00 | plumpton      |      5 |        5 | Ruby Yeats        |   6.5  | vulture              |
+|  8 | :soon:   | 2022-03-15 01:35:00 | taunton       |      2 |       12 | Petrossian        |   2.4  | overthrow            |
+|  9 | :soon:   | 2022-03-15 00:55:00 | greyville     |      7 |        5 | Ralph The Rascal  |   0    | vulture              |
+| 10 | :soon:   | 2022-03-15 00:35:00 | plumpton      |      2 |        2 | Shake Him Up      |   6    | looseknot            |
+| 11 | :soon:   | 2022-03-14 23:10:00 | greyville     |      4 |        8 | Arumugam          |   0    | vulture              |
+| 12 | :soon:   | 2022-03-14 18:05:00 | morphettville |      9 |       12 | Hills             |   4.2  | pangea               |
+| 13 | :soon:   | 2022-03-14 18:05:00 | morphettville |      9 |        7 | Sparkup           |   3.6  | vulture,blackshadow  |
+| 14 | :soon:   | 2022-03-14 17:25:00 | morphettville |      8 |        3 | Water Into Wine   |  12    | vulture,milkman      |
+| 15 | :soon:   | 2022-03-14 17:25:00 | morphettville |      8 |        5 | Set The Sails     |   4.75 | vulture              |
+| 16 | :soon:   | 2022-03-14 17:09:00 | cairns        |      5 |        6 | Magnate           |   4.75 | vulture,looseknot    |
+| 17 | :soon:   | 2022-03-14 17:09:00 | cairns        |      5 |        2 | Love On Sunday    |   6    | vulture              |
+| 18 | :soon:   | 2022-03-14 17:09:00 | cairns        |      5 |        1 | Arise My Son      |   1.73 | evenodds,blackshadow |
+| 19 | :soon:   | 2022-03-14 17:05:00 | warrnambool   |      8 |       12 | Orpheline         |   6.5  | pangea               |
+| 20 | :soon:   | 2022-03-14 17:05:00 | warrnambool   |      8 |        3 | Stripped Back     |   2.7  | vulture              |
+| 21 | :soon:   | 2022-03-14 16:24:00 | cairns        |      4 |        2 | Sparkly Star      |   6    | pangea,moechilli     |
+| 22 | :soon:   | 2022-03-14 16:24:00 | cairns        |      4 |        5 | The Grove         |   2.7  | benny,pangea         |
+| 23 | :soon:   | 2022-03-14 16:20:00 | warrnambool   |      7 |        2 | Bellman           |   2.9  | vulture,milkman      |
+| 24 | :soon:   | 2022-03-14 16:00:00 | morphettville |      6 |        2 | Ironclad          |   5    | pangea               |
+| 25 | :soon:   | 2022-03-14 16:00:00 | morphettville |      6 |        1 | Sansom            |   6.5  | pangea               |
+| 26 | :soon:   | 2022-03-14 15:50:00 | grafton       |      3 |        5 | The Wolverine     |   7    | looseknot            |
+| 27 | :soon:   | 2022-03-14 15:40:00 | warrnambool   |      6 |        8 | Heart Of A Lion   |   3.5  | vulture              |
+| 28 | :soon:   | 2022-03-14 15:20:00 | morphettville |      5 |        1 | Secret Blaze      |   7.5  | benny,blackshadow    |
+| 29 | :soon:   | 2022-03-14 15:20:00 | morphettville |      5 |        5 | Royal Mile        |   3.4  | pangea               |
+| 30 | :soon:   | 2022-03-14 15:04:00 | cairns        |      2 |        1 | Lord Of Light     |   4    | moechilli            |
+| 31 | :soon:   | 2022-03-14 15:00:00 | warrnambool   |      5 |        6 | Notes             |   4.5  | vulture              |
+| 32 | :soon:   | 2022-03-14 14:53:00 | canberra      |      4 |       10 | Lovero            |  19    | pikey                |
+| 33 | :soon:   | 2022-03-14 14:45:00 | morphettville |      4 |        5 | Hidden Legend     |   9    | pangea               |
+| 34 | :soon:   | 2022-03-14 14:18:00 | canberra      |      3 |       11 | Twig              |   3.8  | vulture              |
+| 35 | :soon:   | 2022-03-14 14:18:00 | canberra      |      3 |        6 | Devils Triangle   |   2.25 | vulture              |
+| 36 | :soon:   | 2022-03-14 14:18:00 | canberra      |      3 |        4 | Oh No Mikki       |   9.5  | pikey                |
+| 37 | :soon:   | 2022-03-14 14:18:00 | canberra      |      3 |        3 | Mascherata        |   5.5  | pangea               |
+| 38 | :soon:   | 2022-03-14 13:50:00 | warrnambool   |      3 |       11 | Defining          |   4.33 | looseknot            |
+| 39 | :soon:   | 2022-03-14 13:35:00 | morphettville |      2 |        2 | Bistro            |   4.2  | pangea               |
+| 40 | :soon:   | 2022-03-14 13:35:00 | morphettville |      2 |        1 | See You In Heaven |   1.83 | vulture,milkman      |
+| 41 | :soon:   | 2022-03-14 13:35:00 | morphettville |      2 |        4 | Arabian Melody    |   9.5  | vulture              |
+| 42 | :soon:   | 2022-03-14 13:15:00 | warrnambool   |      2 |        7 | Electric Lady     |   6    | vulture              |
+| 43 | :soon:   | 2022-03-14 13:00:00 | morphettville |      1 |        2 | Imposing Brook    |   5.5  | pangea               |
+| 44 | :soon:   | 2022-03-14 12:35:00 | warrnambool   |      1 |        3 | American in Paris |   6.5  | looseknot            |
