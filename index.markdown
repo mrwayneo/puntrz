@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-13 13:59:56 +1000  
+date: 2022-03-13 14:14:31 +1000  
 ---   
 
 
@@ -119,11 +119,11 @@ date: 2022-03-13 13:59:56 +1000
 | 38 | :soon:            | 2022-03-13 14:45:00 | coonamble      |      5 |        5 | Impactful          |   3.2  | vulture,jmac       |
 | 39 | :soon:            | 2022-03-13 14:21:00 | canberra       |      4 |       10 | Hard Core          |  34    | pikey              |
 | 40 | :soon:            | 2022-03-13 14:21:00 | canberra       |      4 |       11 | Beep Test          |   4.4  | benny,pangea       |
-| 41 | :soon:            | 2022-03-13 14:10:00 | coonamble      |      4 |        4 | Dethroned          |  14    | vulture            |
-| 42 | :soon:            | 2022-03-13 14:10:00 | coonamble      |      4 |        2 | Crazy Wolf         |   7    | jmac               |
-| 43 | --                | 2022-03-13 13:46:00 | canberra       |      3 |        9 | Jac The Great      |  11    | pangea             |
-| 44 | :3rd_place_medal: | 2022-03-13 13:35:00 | coonamble      |      3 |        7 | Hombre             |   3    | vulture            |
-| 45 | :2nd_place_medal: | 2022-03-13 13:35:00 | coonamble      |      3 |        2 | Father's Day       |   1.65 | jmac               |
+| 41 | --                | 2022-03-13 14:10:00 | coonamble      |      4 |        4 | Dethroned          |  14    | vulture            |
+| 42 | --                | 2022-03-13 14:10:00 | coonamble      |      4 |        2 | Crazy Wolf         |   7    | jmac               |
+| 43 | 8.0               | 2022-03-13 13:46:00 | canberra       |      3 |        9 | Jac The Great      |  11    | pangea             |
+| 44 | :2nd_place_medal: | 2022-03-13 13:35:00 | coonamble      |      3 |        7 | Hombre             |   3    | vulture            |
+| 45 | :3rd_place_medal: | 2022-03-13 13:35:00 | coonamble      |      3 |        2 | Father's Day       |   1.65 | jmac               |
 | 46 | :boom:            | 2022-03-13 13:05:00 | canberra       |      2 |       11 | Great Mystery      |  26    | pikey              |
 | 47 | :boom:            | 2022-03-13 12:50:00 | echuca         |      1 |        2 | Lafargue           |   1.95 | vulture            |
 | 48 | :3rd_place_medal: | 2022-03-13 12:25:00 | canberra       |      1 |        7 | Flying Annie       |   3.5  | vulture,milkman    |
