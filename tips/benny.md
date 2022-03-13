@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-03-14 07:38:40 +1000  
+date: 2022-03-14 07:53:13 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,10 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 17:47             | 2022-03-14 | cairns R6                     | 5 Nice Retort         |  2.88 |    -10   |
+| 16:45             | 2022-03-14 | morphettville R7              | 4 Good Idea           | 18    |    -10   |
+| 16:24             | 2022-03-14 | cairns R4                     | 5 The Grove           |  2.7  |    -10   |
+| 15:20             | 2022-03-14 | morphettville R5              | 1 Secret Blaze        |  7.5  |    -10   |
 | 7                 | 2022-03-13 | canberra R4                   | 11 Beep Test          |  4.4  |    -10   |
 | :boom:            | 2022-03-13 | wolverhampton R3              | 6 Tinker Toy          |  9    |     80   |
 | 0                 | 2022-03-13 | turffontein R8                | 2 Ultra Quick         |  0    |    -10   |
