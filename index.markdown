@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-13 16:29:42 +1000  
+date: 2022-03-13 16:44:43 +1000  
 ---   
 
 
@@ -21,8 +21,8 @@ date: 2022-03-13 16:29:42 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     13 |      0 |     -130 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     19 |      2 |     -150 | 0.11 | -0.79 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     15 |      0 |     -150 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     59 |      2 |     -456 | 0.03 | -0.77 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     51 |      0 |     -510 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     59 |      1 |     -557 | 0.02 | -0.94 |
 
 ##### Form Last 20 tips   
 
@@ -110,8 +110,8 @@ date: 2022-03-13 16:29:42 +1000
 | 29 | :soon:            | 2022-03-13 19:00:00 | singapore      |      9 |        8 | Lucky Jinsha       |   0    | vulture            |
 | 30 | :soon:            | 2022-03-13 17:30:00 | singapore      |      6 |        3 | Hero               |   0    | vulture            |
 | 31 | :soon:            | 2022-03-13 17:25:00 | coonamble      |      9 |       11 | Vandangle          |   4.6  | vulture,jmac       |
-| 32 | :soon:            | 2022-03-13 16:40:00 | echuca         |      7 |        7 | Not to Be Mist     |   3.25 | pangea             |
-| 33 | :soon:            | 2022-03-13 16:30:00 | sunshine-coast |      6 |        7 | Lady Melba         |  11    | pangea             |
+| 32 | --                | 2022-03-13 16:40:00 | echuca         |      7 |        7 | Not to Be Mist     |   3.25 | pangea             |
+| 33 | --                | 2022-03-13 16:30:00 | sunshine-coast |      6 |        7 | Lady Melba         |  11    | pangea             |
 | 34 | --                | 2022-03-13 16:21:00 | canberra       |      7 |       10 | Beachbreak         |  19    | pikey              |
 | 35 | --                | 2022-03-13 16:21:00 | canberra       |      7 |       11 | Meg                |  19    | icyhot             |
 | 36 | --                | 2022-03-13 16:14:00 | ellerslie      |     10 |        5 | Miss Cartier       |   2.9  | milkman            |
