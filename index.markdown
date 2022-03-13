@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-13 14:14:31 +1000  
+date: 2022-03-13 14:29:47 +1000  
 ---   
 
 
@@ -117,8 +117,8 @@ date: 2022-03-13 14:14:31 +1000
 | 36 | :soon:            | 2022-03-13 16:14:00 | ellerslie      |     10 |        5 | Miss Cartier       |   2.9  | milkman            |
 | 37 | :soon:            | 2022-03-13 15:41:00 | canberra       |      6 |        9 | Miss Twilight      |  51    | pikey              |
 | 38 | :soon:            | 2022-03-13 14:45:00 | coonamble      |      5 |        5 | Impactful          |   3.2  | vulture,jmac       |
-| 39 | :soon:            | 2022-03-13 14:21:00 | canberra       |      4 |       10 | Hard Core          |  34    | pikey              |
-| 40 | :soon:            | 2022-03-13 14:21:00 | canberra       |      4 |       11 | Beep Test          |   4.4  | benny,pangea       |
+| 39 | --                | 2022-03-13 14:21:00 | canberra       |      4 |       10 | Hard Core          |  34    | pikey              |
+| 40 | --                | 2022-03-13 14:21:00 | canberra       |      4 |       11 | Beep Test          |   4.4  | benny,pangea       |
 | 41 | --                | 2022-03-13 14:10:00 | coonamble      |      4 |        4 | Dethroned          |  14    | vulture            |
 | 42 | --                | 2022-03-13 14:10:00 | coonamble      |      4 |        2 | Crazy Wolf         |   7    | jmac               |
 | 43 | 8.0               | 2022-03-13 13:46:00 | canberra       |      3 |        9 | Jac The Great      |  11    | pangea             |
