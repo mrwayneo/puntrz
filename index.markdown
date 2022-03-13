@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-13 20:46:07 +1000  
+date: 2022-03-13 21:01:10 +1000  
 ---   
 
 
@@ -9,14 +9,14 @@ date: 2022-03-13 20:46:07 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      3 |      2 |       72 | 0.67 |  2.4  |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      4 |      1 |       57 | 0.25 |  1.42 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      8 |      3 |       53 | 0.38 |  0.66 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      2 |       21 | 0.5  |  0.52 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      3 |      1 |        0 | 0.33 |  0    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      8 |      2 |      -19 | 0.25 | -0.24 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |     11 |      1 |      -80 | 0.09 | -0.73 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     19 |      4 |      -92 | 0.21 | -0.48 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     13 |      0 |     -130 | 0    | -1    |
@@ -103,8 +103,8 @@ date: 2022-03-13 20:46:07 +1000
 | 22 | :soon:            | 2022-03-14 01:12:00 | warwick        |      2 |        1 | Lac De Constance   |   1.2  | overthrow,milkman  |
 | 23 | :soon:            | 2022-03-14 00:55:00 | limerick       |      2 |       12 | Rock On Cassie     |   7.5  | pangea             |
 | 24 | :soon:            | 2022-03-14 00:35:00 | warwick        |      1 |        5 | Admiral Balko      |   7.5  | overthrow          |
-| 25 | :soon:            | 2022-03-13 20:50:00 | ascot          |      8 |       10 | The Thunderess     |   8    | pangea,icyhot      |
-| 26 | :soon:            | 2022-03-13 20:50:00 | ascot          |      8 |        4 | Medellin           |  14    | pangea             |
+| 25 | :boom:            | 2022-03-13 20:50:00 | ascot          |      8 |       10 | The Thunderess     |   8    | pangea,icyhot      |
+| 26 | --                | 2022-03-13 20:50:00 | ascot          |      8 |        4 | Medellin           |  14    | pangea             |
 | 27 | --                | 2022-03-13 19:50:00 | ascot          |      6 |        4 | Marzipan Lad       |   7    | looseknot          |
 | 28 | :boom:            | 2022-03-13 19:20:00 | ascot          |      5 |        6 | Alaskan God        |   2    | pangea,icyhot      |
 | 29 | :boom:            | 2022-03-13 19:00:00 | singapore      |      9 |        8 | Lucky Jinsha       |   0    | vulture            |
