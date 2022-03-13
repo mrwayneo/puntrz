@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-13 13:30:29 +1000  
+date: 2022-03-13 13:44:42 +1000  
 ---   
 
 
@@ -122,8 +122,8 @@ date: 2022-03-13 13:30:29 +1000
 | 41 | :soon:            | 2022-03-13 14:10:00 | coonamble      |      4 |        4 | Dethroned          |  14    | vulture            |
 | 42 | :soon:            | 2022-03-13 14:10:00 | coonamble      |      4 |        2 | Crazy Wolf         |   7    | jmac               |
 | 43 | :soon:            | 2022-03-13 13:46:00 | canberra       |      3 |        9 | Jac The Great      |  11    | pangea             |
-| 44 | :soon:            | 2022-03-13 13:35:00 | coonamble      |      3 |        7 | Hombre             |   3    | vulture            |
-| 45 | :soon:            | 2022-03-13 13:35:00 | coonamble      |      3 |        2 | Father's Day       |   1.65 | jmac               |
+| 44 | :3rd_place_medal: | 2022-03-13 13:35:00 | coonamble      |      3 |        7 | Hombre             |   3    | vulture            |
+| 45 | :2nd_place_medal: | 2022-03-13 13:35:00 | coonamble      |      3 |        2 | Father's Day       |   1.65 | jmac               |
 | 46 | :boom:            | 2022-03-13 13:05:00 | canberra       |      2 |       11 | Great Mystery      |  26    | pikey              |
 | 47 | :boom:            | 2022-03-13 12:50:00 | echuca         |      1 |        2 | Lafargue           |   1.95 | vulture            |
 | 48 | :3rd_place_medal: | 2022-03-13 12:25:00 | canberra       |      1 |        7 | Flying Annie       |   3.5  | vulture,milkman    |
