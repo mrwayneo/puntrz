@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-13 22:58:30 +1000  
+date: 2022-03-14 06:08:28 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      6 |      4 |     85   | 0.67 |  1.42 |
-| Last 28 Days   |     15 |      7 |     46.5 | 0.47 |  0.31 |
-| Last 6 Months  |    117 |     59 |    410.7 | 0.5  |  0.35 |
-| Since Jan 2020 |    226 |    112 |   1410.7 | 0.5  |  0.62 |
+| Last 28 Days   |     16 |      7 |     36.5 | 0.44 |  0.23 |
+| Last 6 Months  |    118 |     59 |    400.7 | 0.5  |  0.34 |
+| Since Jan 2020 |    227 |    112 |   1400.7 | 0.49 |  0.62 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 02:13             | 2022-03-14 | bangor R3                    | 2 Jungle Jack        |  2.4  |    -10   |
+| :2nd_place_medal: | 2022-03-14 | bangor R3                    | 2 Jungle Jack        |  2.4  |    -10   |
 | :boom:            | 2022-03-13 | sandown R4                   | 12 Luccia            |  4.8  |     38   |
 | :boom:            | 2022-03-13 | lingfield R2                 | 2 King Of Time       |  1.4  |      4   |
 | :boom:            | 2022-03-12 | flemington R1                | 8 Ruthless Dame      |  4.3  |     33   |
@@ -146,8 +146,8 @@ categories: None
 | :boom:            | 2021-08-14 | tramore R7                   | 7 Coole Og           |  1.67 |      6.7 |
 | :boom:            | 2021-08-14 | newmarket R3                 | 2 Coroebus           |  2.2  |     12   |
 | :boom:            | 2021-08-08 | kilbeggan R8                 | 9 Flemencello        |  1.4  |      4   |
-| :2nd_place_medal: | 2021-07-31 | galway R8                    | 15 Ashroe Diamond    |  2.5  |    -10   |
 | 99                | 2021-07-31 | galway R8                    | 9 Dani Barcelona     |  8    |    -10   |
+| :2nd_place_medal: | 2021-07-31 | galway R8                    | 15 Ashroe Diamond    |  2.5  |    -10   |
 | 4                 | 2021-07-25 | uttoxeter R1                 | 2 Knotty Ash         |  1.7  |    -10   |
 | :boom:            | 2021-07-22 | sandown R3                   | 4 Inspiral           |  2.2  |     12   |
 | 99                | 2021-07-18 | newbury R7                   | 2 Mawenzi            |  3.3  |    -10   |
