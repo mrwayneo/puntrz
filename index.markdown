@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-13 21:01:10 +1000  
+date: 2022-03-13 21:27:08 +1000  
 ---   
 
 
@@ -104,7 +104,7 @@ date: 2022-03-13 21:01:10 +1000
 | 23 | :soon:            | 2022-03-14 00:55:00 | limerick       |      2 |       12 | Rock On Cassie     |   7.5  | pangea             |
 | 24 | :soon:            | 2022-03-14 00:35:00 | warwick        |      1 |        5 | Admiral Balko      |   7.5  | overthrow          |
 | 25 | :boom:            | 2022-03-13 20:50:00 | ascot          |      8 |       10 | The Thunderess     |   8    | pangea,icyhot      |
-| 26 | --                | 2022-03-13 20:50:00 | ascot          |      8 |        4 | Medellin           |  14    | pangea             |
+| 26 | 6.0               | 2022-03-13 20:50:00 | ascot          |      8 |        4 | Medellin           |  14    | pangea             |
 | 27 | --                | 2022-03-13 19:50:00 | ascot          |      6 |        4 | Marzipan Lad       |   7    | looseknot          |
 | 28 | :boom:            | 2022-03-13 19:20:00 | ascot          |      5 |        6 | Alaskan God        |   2    | pangea,icyhot      |
 | 29 | :boom:            | 2022-03-13 19:00:00 | singapore      |      9 |        8 | Lucky Jinsha       |   0    | vulture            |
