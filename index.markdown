@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-13 18:05:33 +1000  
+date: 2022-03-13 18:20:46 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-03-13 18:05:33 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     13 |      0 |     -130 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     15 |      0 |     -150 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     51 |      1 |     -228 | 0.02 | -0.45 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     59 |      3 |     -389 | 0.05 | -0.66 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     59 |      4 |     -304 | 0.07 | -0.52 |
 
 ##### Form Last 20 tips   
 
@@ -114,7 +114,7 @@ date: 2022-03-13 18:05:33 +1000
 | 33 | 8.0               | 2022-03-13 16:30:00 | sunshine-coast |      6 |        7 | Lady Melba         |  11    | pangea             |
 | 34 | 11.0              | 2022-03-13 16:21:00 | canberra       |      7 |       10 | Beachbreak         |  19    | pikey              |
 | 35 | 9.0               | 2022-03-13 16:21:00 | canberra       |      7 |       11 | Meg                |  19    | icyhot             |
-| 36 | --                | 2022-03-13 16:14:00 | ellerslie      |     10 |        5 | Miss Cartier       |   2.9  | milkman            |
+| 36 | 6.0               | 2022-03-13 16:14:00 | ellerslie      |     10 |        5 | Miss Cartier       |   2.9  | milkman            |
 | 37 | 8.0               | 2022-03-13 15:41:00 | canberra       |      6 |        9 | Miss Twilight      |  51    | pikey              |
 | 38 | :boom:            | 2022-03-13 14:45:00 | coonamble      |      5 |        5 | Impactful          |   3.2  | vulture,jmac       |
 | 39 | 9.0               | 2022-03-13 14:21:00 | canberra       |      4 |       10 | Hard Core          |  34    | pikey              |
@@ -128,4 +128,4 @@ date: 2022-03-13 18:05:33 +1000
 | 47 | :boom:            | 2022-03-13 12:50:00 | echuca         |      1 |        2 | Lafargue           |   1.95 | vulture            |
 | 48 | :3rd_place_medal: | 2022-03-13 12:25:00 | canberra       |      1 |        7 | Flying Annie       |   3.5  | vulture,milkman    |
 | 49 | 5.0               | 2022-03-13 12:25:00 | canberra       |      1 |        5 | Glamour Runs Deep  |   2.5  | vulture            |
-| 50 | --                | 2022-03-13 11:55:00 | ellerslie      |      3 |        4 | Violetta           |   3    | vulture            |
+| 50 | 7.0               | 2022-03-13 11:55:00 | ellerslie      |      3 |        4 | Violetta           |   3    | vulture            |
