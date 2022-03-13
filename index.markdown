@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-13 17:00:00 +1000  
+date: 2022-03-13 17:14:47 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-03-13 17:00:00 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     19 |      2 |     -150 | 0.11 | -0.79 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     15 |      0 |     -150 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     51 |      1 |     -228 | 0.02 | -0.45 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     59 |      2 |     -456 | 0.03 | -0.77 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     59 |      2 |     -417 | 0.03 | -0.71 |
 
 ##### Form Last 20 tips   
 
@@ -111,7 +111,7 @@ date: 2022-03-13 17:00:00 +1000
 | 30 | :soon:            | 2022-03-13 17:30:00 | singapore      |      6 |        3 | Hero               |   0    | vulture            |
 | 31 | :soon:            | 2022-03-13 17:25:00 | coonamble      |      9 |       11 | Vandangle          |   4.6  | vulture,jmac       |
 | 32 | :boom:            | 2022-03-13 16:40:00 | echuca         |      7 |        7 | Not to Be Mist     |   3.25 | pangea             |
-| 33 | --                | 2022-03-13 16:30:00 | sunshine-coast |      6 |        7 | Lady Melba         |  11    | pangea             |
+| 33 | 8.0               | 2022-03-13 16:30:00 | sunshine-coast |      6 |        7 | Lady Melba         |  11    | pangea             |
 | 34 | 11.0              | 2022-03-13 16:21:00 | canberra       |      7 |       10 | Beachbreak         |  19    | pikey              |
 | 35 | 9.0               | 2022-03-13 16:21:00 | canberra       |      7 |       11 | Meg                |  19    | icyhot             |
 | 36 | --                | 2022-03-13 16:14:00 | ellerslie      |     10 |        5 | Miss Cartier       |   2.9  | milkman            |
