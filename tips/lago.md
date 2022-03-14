@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-15 07:52:05 +1000  
+date: 2022-03-15 08:09:11 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
+| 00:30             | 2022-03-16 | cheltenham R1                | 4 Jonbon             |  6    |    -10   |
+| 00:30             | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo      |  3.3  |    -10   |
 | :2nd_place_medal: | 2022-03-14 | bangor R3                    | 2 Jungle Jack        |  2.4  |    -10   |
 | :boom:            | 2022-03-13 | sandown R4                   | 12 Luccia            |  4.8  |     38   |
 | :boom:            | 2022-03-13 | lingfield R2                 | 2 King Of Time       |  1.4  |      4   |
@@ -146,8 +148,8 @@ categories: None
 | :boom:            | 2021-08-14 | tramore R7                   | 7 Coole Og           |  1.67 |      6.7 |
 | :boom:            | 2021-08-14 | newmarket R3                 | 2 Coroebus           |  2.2  |     12   |
 | :boom:            | 2021-08-08 | kilbeggan R8                 | 9 Flemencello        |  1.4  |      4   |
-| :2nd_place_medal: | 2021-07-31 | galway R8                    | 15 Ashroe Diamond    |  2.5  |    -10   |
 | 99                | 2021-07-31 | galway R8                    | 9 Dani Barcelona     |  8    |    -10   |
+| :2nd_place_medal: | 2021-07-31 | galway R8                    | 15 Ashroe Diamond    |  2.5  |    -10   |
 | 4                 | 2021-07-25 | uttoxeter R1                 | 2 Knotty Ash         |  1.7  |    -10   |
 | :boom:            | 2021-07-22 | sandown R3                   | 4 Inspiral           |  2.2  |     12   |
 | 99                | 2021-07-18 | newbury R7                   | 2 Mawenzi            |  3.3  |    -10   |
