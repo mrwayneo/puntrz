@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-14 11:41:55 +1000  
+date: 2022-03-14 12:51:58 +1000  
 ---   
 
 
@@ -121,4 +121,4 @@ date: 2022-03-14 11:41:55 +1000
 | 41 | :soon:   | 2022-03-14 13:35:00 | morphettville |      2 |        4 | Arabian Melody    |   9.5  | vulture              |
 | 42 | :soon:   | 2022-03-14 13:15:00 | warrnambool   |      2 |        7 | Electric Lady     |   6    | vulture              |
 | 43 | :soon:   | 2022-03-14 13:00:00 | morphettville |      1 |        2 | Imposing Brook    |   5.5  | pangea               |
-| 44 | :soon:   | 2022-03-14 12:35:00 | warrnambool   |      1 |        3 | American in Paris |   6.5  | looseknot            |
+| 44 | --       | 2022-03-14 12:35:00 | warrnambool   |      1 |        3 | American in Paris |   6.5  | looseknot            |
