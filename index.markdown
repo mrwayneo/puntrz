@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-14 13:53:27 +1000  
+date: 2022-03-14 14:08:10 +1000  
 ---   
 
 
@@ -20,7 +20,7 @@ date: 2022-03-14 13:53:27 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     18 |      1 |     -152 | 0.06 | -0.84 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      0 |     -190 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     26 |      0 |     -260 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     26 |      1 |     -212 | 0.04 | -0.82 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     36 |      0 |     -360 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -115,7 +115,7 @@ date: 2022-03-14 13:53:27 +1000
 | 35 | :soon:            | 2022-03-14 14:18:00 | canberra      |      3 |        6 | Devils Triangle   |   2.25 | vulture              |
 | 36 | :soon:            | 2022-03-14 14:18:00 | canberra      |      3 |        4 | Oh No Mikki       |   9.5  | pikey                |
 | 37 | :soon:            | 2022-03-14 14:18:00 | canberra      |      3 |        3 | Mascherata        |   5.5  | pangea               |
-| 38 | --                | 2022-03-14 13:50:00 | warrnambool   |      3 |       11 | Defining          |   4.33 | looseknot            |
+| 38 | :2nd_place_medal: | 2022-03-14 13:50:00 | warrnambool   |      3 |       11 | Defining          |   4.33 | looseknot            |
 | 39 | :boom:            | 2022-03-14 13:35:00 | morphettville |      2 |        2 | Bistro            |   4.2  | pangea               |
 | 40 | :3rd_place_medal: | 2022-03-14 13:35:00 | morphettville |      2 |        1 | See You In Heaven |   1.83 | vulture,milkman      |
 | 41 | 6.0               | 2022-03-14 13:35:00 | morphettville |      2 |        4 | Arabian Melody    |   9.5  | vulture              |
