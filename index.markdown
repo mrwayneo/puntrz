@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-14 14:23:24 +1000  
+date: 2022-03-14 14:38:51 +1000  
 ---   
 
 
@@ -113,8 +113,8 @@ date: 2022-03-14 14:23:24 +1000
 | 33 | :soon:            | 2022-03-14 14:45:00 | morphettville |      4 |        5 | Hidden Legend     |   9    | pangea               |
 | 34 | --                | 2022-03-14 14:18:00 | canberra      |      3 |       11 | Twig              |   3.8  | vulture              |
 | 35 | :2nd_place_medal: | 2022-03-14 14:18:00 | canberra      |      3 |        6 | Devils Triangle   |   2.25 | vulture              |
-| 36 | --                | 2022-03-14 14:18:00 | canberra      |      3 |        4 | Oh No Mikki       |   9.5  | pikey                |
-| 37 | --                | 2022-03-14 14:18:00 | canberra      |      3 |        3 | Mascherata        |   5.5  | pangea               |
+| 36 | 6.0               | 2022-03-14 14:18:00 | canberra      |      3 |        4 | Oh No Mikki       |   9.5  | pikey                |
+| 37 | 4.0               | 2022-03-14 14:18:00 | canberra      |      3 |        3 | Mascherata        |   5.5  | pangea               |
 | 38 | :2nd_place_medal: | 2022-03-14 13:50:00 | warrnambool   |      3 |       11 | Defining          |   4.33 | looseknot            |
 | 39 | :boom:            | 2022-03-14 13:35:00 | morphettville |      2 |        2 | Bistro            |   4.2  | pangea               |
 | 40 | :3rd_place_medal: | 2022-03-14 13:35:00 | morphettville |      2 |        1 | See You In Heaven |   1.83 | vulture,milkman      |
