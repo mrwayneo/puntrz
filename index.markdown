@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-14 12:51:58 +1000  
+date: 2022-03-14 13:22:23 +1000  
 ---   
 
 
@@ -119,6 +119,6 @@ date: 2022-03-14 12:51:58 +1000
 | 39 | :soon:   | 2022-03-14 13:35:00 | morphettville |      2 |        2 | Bistro            |   4.2  | pangea               |
 | 40 | :soon:   | 2022-03-14 13:35:00 | morphettville |      2 |        1 | See You In Heaven |   1.83 | vulture,milkman      |
 | 41 | :soon:   | 2022-03-14 13:35:00 | morphettville |      2 |        4 | Arabian Melody    |   9.5  | vulture              |
-| 42 | :soon:   | 2022-03-14 13:15:00 | warrnambool   |      2 |        7 | Electric Lady     |   6    | vulture              |
-| 43 | :soon:   | 2022-03-14 13:00:00 | morphettville |      1 |        2 | Imposing Brook    |   5.5  | pangea               |
-| 44 | --       | 2022-03-14 12:35:00 | warrnambool   |      1 |        3 | American in Paris |   6.5  | looseknot            |
+| 42 | --       | 2022-03-14 13:15:00 | warrnambool   |      2 |        7 | Electric Lady     |   6    | vulture              |
+| 43 | --       | 2022-03-14 13:00:00 | morphettville |      1 |        2 | Imposing Brook    |   5.5  | pangea               |
+| 44 | 8.0      | 2022-03-14 12:35:00 | warrnambool   |      1 |        3 | American in Paris |   6.5  | looseknot            |
