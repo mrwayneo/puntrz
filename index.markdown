@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-14 18:14:20 +1000  
+date: 2022-03-14 18:29:26 +1000  
 ---   
 
 
@@ -89,7 +89,7 @@ date: 2022-03-14 18:14:20 +1000
 |  9 | :soon:            | 2022-03-15 00:55:00 | greyville     |      7 |        5 | Ralph The Rascal  |   0    | vulture              |
 | 10 | :soon:            | 2022-03-15 00:35:00 | plumpton      |      2 |        2 | Shake Him Up      |   6    | looseknot            |
 | 11 | :soon:            | 2022-03-14 23:10:00 | greyville     |      4 |        8 | Arumugam          |   0    | vulture              |
-| 12 | --                | 2022-03-14 18:05:00 | morphettville |      9 |       12 | Hills             |   4.2  | pangea               |
+| 12 | 6.0               | 2022-03-14 18:05:00 | morphettville |      9 |       12 | Hills             |   4.2  | pangea               |
 | 13 | :boom:            | 2022-03-14 18:05:00 | morphettville |      9 |        7 | Sparkup           |   3.6  | vulture,blackshadow  |
 | 14 | 8.0               | 2022-03-14 17:25:00 | morphettville |      8 |        3 | Water Into Wine   |  12    | vulture,milkman      |
 | 15 | :3rd_place_medal: | 2022-03-14 17:25:00 | morphettville |      8 |        5 | Set The Sails     |   4.75 | vulture              |
