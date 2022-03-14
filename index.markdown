@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-14 17:26:22 +1000  
+date: 2022-03-14 17:59:26 +1000  
 ---   
 
 
@@ -91,8 +91,8 @@ date: 2022-03-14 17:26:22 +1000
 | 11 | :soon:            | 2022-03-14 23:10:00 | greyville     |      4 |        8 | Arumugam          |   0    | vulture              |
 | 12 | :soon:            | 2022-03-14 18:05:00 | morphettville |      9 |       12 | Hills             |   4.2  | pangea               |
 | 13 | :soon:            | 2022-03-14 18:05:00 | morphettville |      9 |        7 | Sparkup           |   3.6  | vulture,blackshadow  |
-| 14 | --                | 2022-03-14 17:25:00 | morphettville |      8 |        3 | Water Into Wine   |  12    | vulture,milkman      |
-| 15 | --                | 2022-03-14 17:25:00 | morphettville |      8 |        5 | Set The Sails     |   4.75 | vulture              |
+| 14 | 8.0               | 2022-03-14 17:25:00 | morphettville |      8 |        3 | Water Into Wine   |  12    | vulture,milkman      |
+| 15 | :3rd_place_medal: | 2022-03-14 17:25:00 | morphettville |      8 |        5 | Set The Sails     |   4.75 | vulture              |
 | 16 | --                | 2022-03-14 17:09:00 | cairns        |      5 |        6 | Magnate           |   4.75 | vulture,looseknot    |
 | 17 | --                | 2022-03-14 17:09:00 | cairns        |      5 |        2 | Love On Sunday    |   6    | vulture              |
 | 18 | --                | 2022-03-14 17:09:00 | cairns        |      5 |        1 | Arise My Son      |   1.73 | evenodds,blackshadow |

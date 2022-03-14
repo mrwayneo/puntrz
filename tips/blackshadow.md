@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-03-14 17:26:15 +1000  
+date: 2022-03-14 17:59:18 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
 | 04:00             | 2022-03-15 | wolverhampton R1              | 3 Hold Fast           |  6    |    -10   |
 | 18:05             | 2022-03-14 | morphettville R9              | 7 Sparkup             |  3.6  |    -10   |
-| 17:47             | 2022-03-14 | cairns R6                     | 5 Nice Retort         |  2.88 |    -10   |
+| 0                 | 2022-03-14 | cairns R6                     | 5 Nice Retort         |  0    |    -10   |
 | 0                 | 2022-03-14 | cairns R5                     | 1 Arise My Son        |  0    |    -10   |
 | 0                 | 2022-03-14 | cairns R4                     | 2 Sparkly Star        |  0    |    -10   |
 | 10                | 2022-03-14 | morphettville R6              | 6 Extra Mile          | 22    |    -10   |
