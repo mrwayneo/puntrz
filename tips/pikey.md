@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-14 14:38:49 +1000  
+date: 2022-03-14 15:34:51 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 14:53             | 2022-03-14 | canberra R4           | 10 Lovero             |  19    |    -10   |
+| :3rd_place_medal: | 2022-03-14 | canberra R4           | 10 Lovero             |  19    |    -10   |
 | 6                 | 2022-03-14 | canberra R3           | 4 Oh No Mikki         |   9.5  |    -10   |
 | 11                | 2022-03-13 | canberra R7           | 10 Beachbreak         |  19    |    -10   |
 | 8                 | 2022-03-13 | canberra R6           | 9 Miss Twilight       |  51    |    -10   |
