@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-14 16:56:18 +1000  
+date: 2022-03-14 17:12:07 +1000  
 ---   
 
 
@@ -93,11 +93,11 @@ date: 2022-03-14 16:56:18 +1000
 | 13 | :soon:            | 2022-03-14 18:05:00 | morphettville |      9 |        7 | Sparkup           |   3.6  | vulture,blackshadow  |
 | 14 | :soon:            | 2022-03-14 17:25:00 | morphettville |      8 |        3 | Water Into Wine   |  12    | vulture,milkman      |
 | 15 | :soon:            | 2022-03-14 17:25:00 | morphettville |      8 |        5 | Set The Sails     |   4.75 | vulture              |
-| 16 | :soon:            | 2022-03-14 17:09:00 | cairns        |      5 |        6 | Magnate           |   4.75 | vulture,looseknot    |
-| 17 | :soon:            | 2022-03-14 17:09:00 | cairns        |      5 |        2 | Love On Sunday    |   6    | vulture              |
-| 18 | :soon:            | 2022-03-14 17:09:00 | cairns        |      5 |        1 | Arise My Son      |   1.73 | evenodds,blackshadow |
-| 19 | :soon:            | 2022-03-14 17:05:00 | warrnambool   |      8 |       12 | Orpheline         |   6.5  | pangea               |
-| 20 | :soon:            | 2022-03-14 17:05:00 | warrnambool   |      8 |        3 | Stripped Back     |   2.7  | vulture              |
+| 16 | --                | 2022-03-14 17:09:00 | cairns        |      5 |        6 | Magnate           |   4.75 | vulture,looseknot    |
+| 17 | --                | 2022-03-14 17:09:00 | cairns        |      5 |        2 | Love On Sunday    |   6    | vulture              |
+| 18 | --                | 2022-03-14 17:09:00 | cairns        |      5 |        1 | Arise My Son      |   1.73 | evenodds,blackshadow |
+| 19 | --                | 2022-03-14 17:05:00 | warrnambool   |      8 |       12 | Orpheline         |   6.5  | pangea               |
+| 20 | --                | 2022-03-14 17:05:00 | warrnambool   |      8 |        3 | Stripped Back     |   2.7  | vulture              |
 | 21 | --                | 2022-03-14 16:24:00 | cairns        |      4 |        2 | Sparkly Star      |   6    | pangea,moechilli     |
 | 22 | --                | 2022-03-14 16:24:00 | cairns        |      4 |        5 | The Grove         |   2.7  | benny,pangea         |
 | 23 | :2nd_place_medal: | 2022-03-14 16:20:00 | warrnambool   |      7 |        2 | Bellman           |   2.9  | vulture,milkman      |
