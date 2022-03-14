@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-14 17:59:26 +1000  
+date: 2022-03-14 18:14:20 +1000  
 ---   
 
 
@@ -13,13 +13,13 @@ date: 2022-03-14 17:59:26 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      2 |      0 |      -20 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      4 |      0 |      -40 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     18 |      3 |      -40 | 0.17 | -0.22 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      1 |      -40 | 0.14 | -0.57 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      6 |      0 |      -60 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     18 |      2 |      -70 | 0.11 | -0.39 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      0 |      -70 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      9 |      0 |      -90 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      0 |     -190 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      1 |     -160 | 0.05 | -0.84 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     26 |      1 |     -212 | 0.04 | -0.82 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     36 |      0 |     -360 | 0    | -1    |
 
@@ -89,8 +89,8 @@ date: 2022-03-14 17:59:26 +1000
 |  9 | :soon:            | 2022-03-15 00:55:00 | greyville     |      7 |        5 | Ralph The Rascal  |   0    | vulture              |
 | 10 | :soon:            | 2022-03-15 00:35:00 | plumpton      |      2 |        2 | Shake Him Up      |   6    | looseknot            |
 | 11 | :soon:            | 2022-03-14 23:10:00 | greyville     |      4 |        8 | Arumugam          |   0    | vulture              |
-| 12 | :soon:            | 2022-03-14 18:05:00 | morphettville |      9 |       12 | Hills             |   4.2  | pangea               |
-| 13 | :soon:            | 2022-03-14 18:05:00 | morphettville |      9 |        7 | Sparkup           |   3.6  | vulture,blackshadow  |
+| 12 | --                | 2022-03-14 18:05:00 | morphettville |      9 |       12 | Hills             |   4.2  | pangea               |
+| 13 | :boom:            | 2022-03-14 18:05:00 | morphettville |      9 |        7 | Sparkup           |   3.6  | vulture,blackshadow  |
 | 14 | 8.0               | 2022-03-14 17:25:00 | morphettville |      8 |        3 | Water Into Wine   |  12    | vulture,milkman      |
 | 15 | :3rd_place_medal: | 2022-03-14 17:25:00 | morphettville |      8 |        5 | Set The Sails     |   4.75 | vulture              |
 | 16 | --                | 2022-03-14 17:09:00 | cairns        |      5 |        6 | Magnate           |   4.75 | vulture,looseknot    |
