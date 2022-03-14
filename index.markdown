@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-14 16:11:38 +1000  
+date: 2022-03-14 16:34:35 +1000  
 ---   
 
 
@@ -98,11 +98,11 @@ date: 2022-03-14 16:11:38 +1000
 | 18 | :soon:            | 2022-03-14 17:09:00 | cairns        |      5 |        1 | Arise My Son      |   1.73 | evenodds,blackshadow |
 | 19 | :soon:            | 2022-03-14 17:05:00 | warrnambool   |      8 |       12 | Orpheline         |   6.5  | pangea               |
 | 20 | :soon:            | 2022-03-14 17:05:00 | warrnambool   |      8 |        3 | Stripped Back     |   2.7  | vulture              |
-| 21 | :soon:            | 2022-03-14 16:24:00 | cairns        |      4 |        2 | Sparkly Star      |   6    | pangea,moechilli     |
-| 22 | :soon:            | 2022-03-14 16:24:00 | cairns        |      4 |        5 | The Grove         |   2.7  | benny,pangea         |
-| 23 | :soon:            | 2022-03-14 16:20:00 | warrnambool   |      7 |        2 | Bellman           |   2.9  | vulture,milkman      |
+| 21 | --                | 2022-03-14 16:24:00 | cairns        |      4 |        2 | Sparkly Star      |   6    | pangea,moechilli     |
+| 22 | --                | 2022-03-14 16:24:00 | cairns        |      4 |        5 | The Grove         |   2.7  | benny,pangea         |
+| 23 | :2nd_place_medal: | 2022-03-14 16:20:00 | warrnambool   |      7 |        2 | Bellman           |   2.9  | vulture,milkman      |
 | 24 | :boom:            | 2022-03-14 16:00:00 | morphettville |      6 |        2 | Ironclad          |   5    | pangea               |
-| 25 | --                | 2022-03-14 16:00:00 | morphettville |      6 |        1 | Sansom            |   6.5  | pangea               |
+| 25 | 5.0               | 2022-03-14 16:00:00 | morphettville |      6 |        1 | Sansom            |   6.5  | pangea               |
 | 26 | 6.0               | 2022-03-14 15:50:00 | grafton       |      3 |        5 | The Wolverine     |   7    | looseknot            |
 | 27 | :2nd_place_medal: | 2022-03-14 15:40:00 | warrnambool   |      6 |        8 | Heart Of A Lion   |   3.5  | vulture              |
 | 28 | 6.0               | 2022-03-14 15:20:00 | morphettville |      5 |        1 | Secret Blaze      |   7.5  | benny,blackshadow    |
