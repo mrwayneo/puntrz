@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-14 15:34:52 +1000  
+date: 2022-03-14 15:55:48 +1000  
 ---   
 
 
@@ -103,12 +103,12 @@ date: 2022-03-14 15:34:52 +1000
 | 23 | :soon:            | 2022-03-14 16:20:00 | warrnambool   |      7 |        2 | Bellman           |   2.9  | vulture,milkman      |
 | 24 | :soon:            | 2022-03-14 16:00:00 | morphettville |      6 |        2 | Ironclad          |   5    | pangea               |
 | 25 | :soon:            | 2022-03-14 16:00:00 | morphettville |      6 |        1 | Sansom            |   6.5  | pangea               |
-| 26 | :soon:            | 2022-03-14 15:50:00 | grafton       |      3 |        5 | The Wolverine     |   7    | looseknot            |
-| 27 | :soon:            | 2022-03-14 15:40:00 | warrnambool   |      6 |        8 | Heart Of A Lion   |   3.5  | vulture              |
-| 28 | --                | 2022-03-14 15:20:00 | morphettville |      5 |        1 | Secret Blaze      |   7.5  | benny,blackshadow    |
+| 26 | --                | 2022-03-14 15:50:00 | grafton       |      3 |        5 | The Wolverine     |   7    | looseknot            |
+| 27 | :2nd_place_medal: | 2022-03-14 15:40:00 | warrnambool   |      6 |        8 | Heart Of A Lion   |   3.5  | vulture              |
+| 28 | 6.0               | 2022-03-14 15:20:00 | morphettville |      5 |        1 | Secret Blaze      |   7.5  | benny,blackshadow    |
 | 29 | :2nd_place_medal: | 2022-03-14 15:20:00 | morphettville |      5 |        5 | Royal Mile        |   3.4  | pangea               |
 | 30 | --                | 2022-03-14 15:04:00 | cairns        |      2 |        1 | Lord Of Light     |   4    | moechilli            |
-| 31 | --                | 2022-03-14 15:00:00 | warrnambool   |      5 |        6 | Notes             |   4.5  | vulture              |
+| 31 | 6.0               | 2022-03-14 15:00:00 | warrnambool   |      5 |        6 | Notes             |   4.5  | vulture              |
 | 32 | :3rd_place_medal: | 2022-03-14 14:53:00 | canberra      |      4 |       10 | Lovero            |  19    | pikey                |
 | 33 | 6.0               | 2022-03-14 14:45:00 | morphettville |      4 |        5 | Hidden Legend     |   9    | pangea               |
 | 34 | --                | 2022-03-14 14:18:00 | canberra      |      3 |       11 | Twig              |   3.8  | vulture              |
