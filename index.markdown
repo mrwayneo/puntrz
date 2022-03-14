@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-15 06:07:17 +1000  
+date: 2022-03-15 06:22:29 +1000  
 ---   
 
 
@@ -16,13 +16,13 @@ date: 2022-03-15 06:07:17 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |     79.5 | 0.4  |  0.4  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |     35   | 0.1  |  0.18 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |     15   | 0.4  |  0.08 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     12   | 0.2  |  0.06 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      2 |     -9   | 0.1  | -0.04 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      3 |    -11.3 | 0.15 | -0.06 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      3 |    -47   | 0.15 | -0.24 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -48   | 0.2  | -0.24 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      7 |    -56.5 | 0.35 | -0.28 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |    -59   | 0.15 | -0.3  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -60   | 0.15 | -0.3  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      4 |    -82.2 | 0.2  | -0.41 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      2 |    -90   | 0.1  | -0.45 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      5 |   -104.2 | 0.25 | -0.52 |
@@ -61,7 +61,7 @@ date: 2022-03-15 06:07:17 +1000
 
 |    | finish            | time                | track         |   race |   number | name              |   odds | tipster              |
 |---:|:------------------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:---------------------|
-|  0 | --                | 2022-03-15 06:00:00 | wolverhampton |      5 |        9 | Smart Boyo        |   4.8  | looseknot            |
+|  0 | :2nd_place_medal: | 2022-03-15 06:00:00 | wolverhampton |      5 |        9 | Smart Boyo        |   4.8  | looseknot            |
 |  1 | --                | 2022-03-15 05:00:00 | wolverhampton |      3 |        2 | Fitwood Star      |   3.5  | milkman              |
 |  2 | --                | 2022-03-15 04:00:00 | wolverhampton |      1 |        3 | Hold Fast         |   6    | pangea,blackshadow   |
 |  3 | --                | 2022-03-15 03:50:00 | taunton       |      6 |        5 | Earl Of Wisdom    |   6.5  | looseknot            |
