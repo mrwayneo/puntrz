@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-14 15:55:48 +1000  
+date: 2022-03-14 16:11:38 +1000  
 ---   
 
 
@@ -15,10 +15,10 @@ date: 2022-03-14 15:55:48 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      4 |      0 |      -40 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      6 |      0 |      -60 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     18 |      2 |      -70 | 0.11 | -0.39 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      0 |      -70 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      9 |      0 |      -90 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     18 |      1 |     -152 | 0.06 | -0.84 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      0 |     -190 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     26 |      1 |     -212 | 0.04 | -0.82 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     36 |      0 |     -360 | 0    | -1    |
@@ -101,9 +101,9 @@ date: 2022-03-14 15:55:48 +1000
 | 21 | :soon:            | 2022-03-14 16:24:00 | cairns        |      4 |        2 | Sparkly Star      |   6    | pangea,moechilli     |
 | 22 | :soon:            | 2022-03-14 16:24:00 | cairns        |      4 |        5 | The Grove         |   2.7  | benny,pangea         |
 | 23 | :soon:            | 2022-03-14 16:20:00 | warrnambool   |      7 |        2 | Bellman           |   2.9  | vulture,milkman      |
-| 24 | :soon:            | 2022-03-14 16:00:00 | morphettville |      6 |        2 | Ironclad          |   5    | pangea               |
-| 25 | :soon:            | 2022-03-14 16:00:00 | morphettville |      6 |        1 | Sansom            |   6.5  | pangea               |
-| 26 | --                | 2022-03-14 15:50:00 | grafton       |      3 |        5 | The Wolverine     |   7    | looseknot            |
+| 24 | :boom:            | 2022-03-14 16:00:00 | morphettville |      6 |        2 | Ironclad          |   5    | pangea               |
+| 25 | --                | 2022-03-14 16:00:00 | morphettville |      6 |        1 | Sansom            |   6.5  | pangea               |
+| 26 | 6.0               | 2022-03-14 15:50:00 | grafton       |      3 |        5 | The Wolverine     |   7    | looseknot            |
 | 27 | :2nd_place_medal: | 2022-03-14 15:40:00 | warrnambool   |      6 |        8 | Heart Of A Lion   |   3.5  | vulture              |
 | 28 | 6.0               | 2022-03-14 15:20:00 | morphettville |      5 |        1 | Secret Blaze      |   7.5  | benny,blackshadow    |
 | 29 | :2nd_place_medal: | 2022-03-14 15:20:00 | morphettville |      5 |        5 | Royal Mile        |   3.4  | pangea               |
