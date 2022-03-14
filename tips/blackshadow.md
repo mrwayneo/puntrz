@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-03-14 22:48:38 +1000  
+date: 2022-03-15 06:07:10 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     18 |      3 |       -2 | 0.17 | -0.01 |
-| Last 28 Days   |     68 |     11 |      -97 | 0.16 | -0.14 |
-| Last 6 Months  |    359 |     81 |     -663 | 0.23 | -0.18 |
-| Since Jan 2020 |    869 |    207 |     -999 | 0.24 | -0.11 |
+| Last 7 Days    |     22 |      3 |      -79 | 0.14 | -0.36 |
+| Last 28 Days   |     74 |     12 |     -127 | 0.16 | -0.17 |
+| Last 6 Months  |    366 |     82 |     -703 | 0.22 | -0.19 |
+| Since Jan 2020 |    876 |    208 |    -1039 | 0.24 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 04:00             | 2022-03-15 | wolverhampton R1              | 3 Hold Fast           |  6    |    -10   |
+| 0                 | 2022-03-15 | wolverhampton R1              | 3 Hold Fast           |  0    |    -10   |
 | :boom:            | 2022-03-14 | morphettville R9              | 7 Sparkup             |  3    |     20   |
 | 0                 | 2022-03-14 | cairns R6                     | 5 Nice Retort         |  0    |    -10   |
 | 0                 | 2022-03-14 | cairns R5                     | 1 Arise My Son        |  0    |    -10   |
