@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-15 17:28:15 +1000  
+date: 2022-03-15 17:43:12 +1000  
 ---   
 
 
@@ -106,8 +106,8 @@ date: 2022-03-15 17:28:15 +1000
 | 27 | :soon:            | 2022-03-16 00:30:00 | cheltenham |      1 |        8 | Shallwehaveonemore |  81    | vulture            |
 | 28 | :soon:            | 2022-03-16 00:30:00 | cheltenham |      1 |        5 | Jpr One            | 151    | milkman            |
 | 29 | :soon:            | 2022-03-15 18:20:00 | mackay     |      8 |        1 | Grand de Lago      |   6.5  | pangea             |
-| 30 | :soon:            | 2022-03-15 17:40:00 | mackay     |      7 |        4 | Collombatti        |   5.5  | benny,pangea       |
-| 31 | :soon:            | 2022-03-15 17:40:00 | mackay     |      7 |        6 | Teeling            |   5.5  | overthrow          |
+| 30 | --                | 2022-03-15 17:40:00 | mackay     |      7 |        4 | Collombatti        |   5.5  | benny,pangea       |
+| 31 | --                | 2022-03-15 17:40:00 | mackay     |      7 |        6 | Teeling            |   5.5  | overthrow          |
 | 32 | 8.0               | 2022-03-15 16:40:00 | moree      |      5 |        4 | Expect A Hero      |   7.5  | pangea             |
 | 33 | 4.0               | 2022-03-15 16:27:00 | mackay     |      5 |        2 | Best Guess         |  41    | benny,pangea       |
 | 34 | 9.0               | 2022-03-15 16:27:00 | mackay     |      5 |        3 | Charles Seven      |   3.8  | pangea             |
