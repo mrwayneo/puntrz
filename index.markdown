@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-15 16:42:56 +1000  
+date: 2022-03-15 16:58:09 +1000  
 ---   
 
 
@@ -110,6 +110,6 @@ date: 2022-03-15 16:42:56 +1000
 | 31 | :soon:            | 2022-03-15 17:40:00 | mackay     |      7 |        6 | Teeling            |   5.5  | overthrow          |
 | 32 | --                | 2022-03-15 16:40:00 | moree      |      5 |        4 | Expect A Hero      |   7.5  | pangea             |
 | 33 | 4.0               | 2022-03-15 16:27:00 | mackay     |      5 |        2 | Best Guess         |  41    | benny,pangea       |
-| 34 | --                | 2022-03-15 16:27:00 | mackay     |      5 |        3 | Charles Seven      |   3.8  | pangea             |
+| 34 | 9.0               | 2022-03-15 16:27:00 | mackay     |      5 |        3 | Charles Seven      |   3.8  | pangea             |
 | 35 | :3rd_place_medal: | 2022-03-15 15:40:00 | hawkesbury |      5 |        5 | Amathuba           |   2.38 | vulture            |
 | 36 | :3rd_place_medal: | 2022-03-15 15:05:00 | hawkesbury |      4 |        5 | Extreme Gem        |   3.9  | vulture,milkman    |
