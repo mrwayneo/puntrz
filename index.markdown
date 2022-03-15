@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-15 14:42:30 +1000  
+date: 2022-03-15 15:28:12 +1000  
 ---   
 
 
@@ -74,42 +74,42 @@ date: 2022-03-15 14:42:30 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6170 |    796 | -14430.3 | 0.13 | -0.23 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7924 |    364 | -23523.5 | 0.05 | -0.3  |
 
-|    | finish   | time                | track      |   race |   number | name               |   odds | tipster            |
-|---:|:---------|:--------------------|:-----------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-03-16 05:30:00 | southwell  |      3 |        4 | Foreshadow         |   9    | looseknot          |
-|  1 | :soon:   | 2022-03-16 04:45:00 | newcastle  |      1 |        5 | Show Lights        |   3.9  | vulture            |
-|  2 | :soon:   | 2022-03-16 04:30:00 | cheltenham |      7 |        6 | Stattler           |   3.5  | overthrow          |
-|  3 | :soon:   | 2022-03-16 04:10:00 | sedgefield |      7 |        3 | Glory Bridge       |   4    | overthrow          |
-|  4 | :soon:   | 2022-03-16 03:50:00 | cheltenham |      6 |       19 | Too Friendly       |  20    | overthrow          |
-|  5 | :soon:   | 2022-03-16 03:50:00 | cheltenham |      6 |        8 | Gaelic Warrior     |   3.4  | overthrow          |
-|  6 | :soon:   | 2022-03-16 03:50:00 | cheltenham |      6 |        7 | Bell Ex One        |  31    | evenodds,overthrow |
-|  7 | :soon:   | 2022-03-16 03:50:00 | cheltenham |      6 |       14 | Saint Segal        |  16    | evenodds,milkman   |
-|  8 | :soon:   | 2022-03-16 03:30:00 | sedgefield |      6 |        6 | Jessie Lightfoot   |   7.5  | looseknot          |
-|  9 | :soon:   | 2022-03-16 03:10:00 | cheltenham |      5 |        2 | Echoes In Rain     |   9.5  | overthrow          |
-| 10 | :soon:   | 2022-03-16 03:10:00 | cheltenham |      5 |        9 | Queens Brook       |   4.8  | vulture            |
-| 11 | :soon:   | 2022-03-16 03:10:00 | cheltenham |      5 |       10 | Stormy Ireland     |   6    | evenodds,overthrow |
-| 12 | :soon:   | 2022-03-16 03:10:00 | cheltenham |      5 |        5 | Marie's Rock       |  13    | evenodds,milkman   |
-| 13 | :soon:   | 2022-03-16 02:30:00 | cheltenham |      4 |        8 | Zanahiyr           |  26    | vulture,pangea     |
-| 14 | :soon:   | 2022-03-16 02:30:00 | cheltenham |      4 |        3 | Glory And Fortune  | 151    | vulture            |
-| 15 | :soon:   | 2022-03-16 02:30:00 | cheltenham |      4 |        2 | Appreciate It      |   5    | evenodds,overthrow |
-| 16 | :soon:   | 2022-03-16 02:30:00 | cheltenham |      4 |       10 | Honeysuckle        |   1.6  | pangea             |
-| 17 | :soon:   | 2022-03-16 02:30:00 | cheltenham |      4 |        9 | Epatante           |  19    | evenodds,overthrow |
-| 18 | :soon:   | 2022-03-16 02:10:00 | sedgefield |      4 |        2 | Blueberry Wine     |   5    | overthrow          |
-| 19 | :soon:   | 2022-03-16 01:10:00 | cheltenham |      2 |        1 | Blue Lord          |   5.5  | pangea,blackshadow |
-| 20 | :soon:   | 2022-03-16 00:50:00 | sedgefield |      2 |        3 | Obey The Rules     |   4.5  | overthrow          |
-| 21 | :soon:   | 2022-03-16 00:30:00 | cheltenham |      1 |        2 | Constitution Hill  |   3.4  | evenodds,overthrow |
-| 22 | :soon:   | 2022-03-16 00:30:00 | cheltenham |      1 |        9 | Silent Revolution  | 101    | evenodds,overthrow |
-| 23 | :soon:   | 2022-03-16 00:30:00 | cheltenham |      1 |        3 | Dysart Dynamo      |   3.3  | evenodds,lago      |
-| 24 | :soon:   | 2022-03-16 00:30:00 | cheltenham |      1 |        4 | Jonbon             |   6    | evenodds,lago      |
-| 25 | :soon:   | 2022-03-16 00:30:00 | cheltenham |      1 |        6 | Kilcruit           |   8    | evenodds,overthrow |
-| 26 | :soon:   | 2022-03-16 00:30:00 | cheltenham |      1 |        7 | Mighty Potter      |   7.5  | vulture,milkman    |
-| 27 | :soon:   | 2022-03-16 00:30:00 | cheltenham |      1 |        8 | Shallwehaveonemore |  81    | vulture            |
-| 28 | :soon:   | 2022-03-16 00:30:00 | cheltenham |      1 |        5 | Jpr One            | 151    | milkman            |
-| 29 | :soon:   | 2022-03-15 18:20:00 | mackay     |      8 |        1 | Grand de Lago      |   6.5  | pangea             |
-| 30 | :soon:   | 2022-03-15 17:40:00 | mackay     |      7 |        4 | Collombatti        |   5.5  | benny,pangea       |
-| 31 | :soon:   | 2022-03-15 17:40:00 | mackay     |      7 |        6 | Teeling            |   5.5  | overthrow          |
-| 32 | :soon:   | 2022-03-15 16:40:00 | moree      |      5 |        4 | Expect A Hero      |   7.5  | pangea             |
-| 33 | :soon:   | 2022-03-15 16:27:00 | mackay     |      5 |        2 | Best Guess         |  41    | benny,pangea       |
-| 34 | :soon:   | 2022-03-15 16:27:00 | mackay     |      5 |        3 | Charles Seven      |   3.8  | pangea             |
-| 35 | :soon:   | 2022-03-15 15:40:00 | hawkesbury |      5 |        5 | Amathuba           |   2.38 | vulture            |
-| 36 | :soon:   | 2022-03-15 15:05:00 | hawkesbury |      4 |        5 | Extreme Gem        |   3.9  | vulture,milkman    |
+|    | finish            | time                | track      |   race |   number | name               |   odds | tipster            |
+|---:|:------------------|:--------------------|:-----------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-03-16 05:30:00 | southwell  |      3 |        4 | Foreshadow         |   9    | looseknot          |
+|  1 | :soon:            | 2022-03-16 04:45:00 | newcastle  |      1 |        5 | Show Lights        |   3.9  | vulture            |
+|  2 | :soon:            | 2022-03-16 04:30:00 | cheltenham |      7 |        6 | Stattler           |   3.5  | overthrow          |
+|  3 | :soon:            | 2022-03-16 04:10:00 | sedgefield |      7 |        3 | Glory Bridge       |   4    | overthrow          |
+|  4 | :soon:            | 2022-03-16 03:50:00 | cheltenham |      6 |       19 | Too Friendly       |  20    | overthrow          |
+|  5 | :soon:            | 2022-03-16 03:50:00 | cheltenham |      6 |        8 | Gaelic Warrior     |   3.4  | overthrow          |
+|  6 | :soon:            | 2022-03-16 03:50:00 | cheltenham |      6 |        7 | Bell Ex One        |  31    | evenodds,overthrow |
+|  7 | :soon:            | 2022-03-16 03:50:00 | cheltenham |      6 |       14 | Saint Segal        |  16    | evenodds,milkman   |
+|  8 | :soon:            | 2022-03-16 03:30:00 | sedgefield |      6 |        6 | Jessie Lightfoot   |   7.5  | looseknot          |
+|  9 | :soon:            | 2022-03-16 03:10:00 | cheltenham |      5 |        2 | Echoes In Rain     |   9.5  | overthrow          |
+| 10 | :soon:            | 2022-03-16 03:10:00 | cheltenham |      5 |        9 | Queens Brook       |   4.8  | vulture            |
+| 11 | :soon:            | 2022-03-16 03:10:00 | cheltenham |      5 |       10 | Stormy Ireland     |   6    | evenodds,overthrow |
+| 12 | :soon:            | 2022-03-16 03:10:00 | cheltenham |      5 |        5 | Marie's Rock       |  13    | evenodds,milkman   |
+| 13 | :soon:            | 2022-03-16 02:30:00 | cheltenham |      4 |        8 | Zanahiyr           |  26    | vulture,pangea     |
+| 14 | :soon:            | 2022-03-16 02:30:00 | cheltenham |      4 |        3 | Glory And Fortune  | 151    | vulture            |
+| 15 | :soon:            | 2022-03-16 02:30:00 | cheltenham |      4 |        2 | Appreciate It      |   5    | evenodds,overthrow |
+| 16 | :soon:            | 2022-03-16 02:30:00 | cheltenham |      4 |       10 | Honeysuckle        |   1.6  | pangea             |
+| 17 | :soon:            | 2022-03-16 02:30:00 | cheltenham |      4 |        9 | Epatante           |  19    | evenodds,overthrow |
+| 18 | :soon:            | 2022-03-16 02:10:00 | sedgefield |      4 |        2 | Blueberry Wine     |   5    | overthrow          |
+| 19 | :soon:            | 2022-03-16 01:10:00 | cheltenham |      2 |        1 | Blue Lord          |   5.5  | pangea,blackshadow |
+| 20 | :soon:            | 2022-03-16 00:50:00 | sedgefield |      2 |        3 | Obey The Rules     |   4.5  | overthrow          |
+| 21 | :soon:            | 2022-03-16 00:30:00 | cheltenham |      1 |        2 | Constitution Hill  |   3.4  | evenodds,overthrow |
+| 22 | :soon:            | 2022-03-16 00:30:00 | cheltenham |      1 |        9 | Silent Revolution  | 101    | evenodds,overthrow |
+| 23 | :soon:            | 2022-03-16 00:30:00 | cheltenham |      1 |        3 | Dysart Dynamo      |   3.3  | evenodds,lago      |
+| 24 | :soon:            | 2022-03-16 00:30:00 | cheltenham |      1 |        4 | Jonbon             |   6    | evenodds,lago      |
+| 25 | :soon:            | 2022-03-16 00:30:00 | cheltenham |      1 |        6 | Kilcruit           |   8    | evenodds,overthrow |
+| 26 | :soon:            | 2022-03-16 00:30:00 | cheltenham |      1 |        7 | Mighty Potter      |   7.5  | vulture,milkman    |
+| 27 | :soon:            | 2022-03-16 00:30:00 | cheltenham |      1 |        8 | Shallwehaveonemore |  81    | vulture            |
+| 28 | :soon:            | 2022-03-16 00:30:00 | cheltenham |      1 |        5 | Jpr One            | 151    | milkman            |
+| 29 | :soon:            | 2022-03-15 18:20:00 | mackay     |      8 |        1 | Grand de Lago      |   6.5  | pangea             |
+| 30 | :soon:            | 2022-03-15 17:40:00 | mackay     |      7 |        4 | Collombatti        |   5.5  | benny,pangea       |
+| 31 | :soon:            | 2022-03-15 17:40:00 | mackay     |      7 |        6 | Teeling            |   5.5  | overthrow          |
+| 32 | :soon:            | 2022-03-15 16:40:00 | moree      |      5 |        4 | Expect A Hero      |   7.5  | pangea             |
+| 33 | :soon:            | 2022-03-15 16:27:00 | mackay     |      5 |        2 | Best Guess         |  41    | benny,pangea       |
+| 34 | :soon:            | 2022-03-15 16:27:00 | mackay     |      5 |        3 | Charles Seven      |   3.8  | pangea             |
+| 35 | :soon:            | 2022-03-15 15:40:00 | hawkesbury |      5 |        5 | Amathuba           |   2.38 | vulture            |
+| 36 | :3rd_place_medal: | 2022-03-15 15:05:00 | hawkesbury |      4 |        5 | Extreme Gem        |   3.9  | vulture,milkman    |
