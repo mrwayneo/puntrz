@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-15 16:28:28 +1000  
+date: 2022-03-15 16:42:56 +1000  
 ---   
 
 
@@ -20,7 +20,7 @@ date: 2022-03-15 16:28:28 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     19 |      0 |     -190 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      0 |     -200 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     26 |      0 |     -260 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     37 |      1 |     -340 | 0.03 | -0.92 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     37 |      2 |     -302 | 0.05 | -0.82 |
 
 ##### Form Last 20 tips   
 
@@ -108,8 +108,8 @@ date: 2022-03-15 16:28:28 +1000
 | 29 | :soon:            | 2022-03-15 18:20:00 | mackay     |      8 |        1 | Grand de Lago      |   6.5  | pangea             |
 | 30 | :soon:            | 2022-03-15 17:40:00 | mackay     |      7 |        4 | Collombatti        |   5.5  | benny,pangea       |
 | 31 | :soon:            | 2022-03-15 17:40:00 | mackay     |      7 |        6 | Teeling            |   5.5  | overthrow          |
-| 32 | :soon:            | 2022-03-15 16:40:00 | moree      |      5 |        4 | Expect A Hero      |   7.5  | pangea             |
-| 33 | --                | 2022-03-15 16:27:00 | mackay     |      5 |        2 | Best Guess         |  41    | benny,pangea       |
+| 32 | --                | 2022-03-15 16:40:00 | moree      |      5 |        4 | Expect A Hero      |   7.5  | pangea             |
+| 33 | 4.0               | 2022-03-15 16:27:00 | mackay     |      5 |        2 | Best Guess         |  41    | benny,pangea       |
 | 34 | --                | 2022-03-15 16:27:00 | mackay     |      5 |        3 | Charles Seven      |   3.8  | pangea             |
 | 35 | :3rd_place_medal: | 2022-03-15 15:40:00 | hawkesbury |      5 |        5 | Amathuba           |   2.38 | vulture            |
 | 36 | :3rd_place_medal: | 2022-03-15 15:05:00 | hawkesbury |      4 |        5 | Extreme Gem        |   3.9  | vulture,milkman    |
