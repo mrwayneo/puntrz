@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-03-17 07:22:17 +1000  
+date: 2022-03-17 07:37:13 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:30             | 2022-03-17 | kempton R6                    | 9 Sayifyouwill        |  11    |    -10   |
-| 07:30             | 2022-03-17 | kempton R6                    | 8 Main Target         |  13    |    -10   |
+| 0                 | 2022-03-17 | kempton R6                    | 9 Sayifyouwill        |   0    |    -10   |
+| 0                 | 2022-03-17 | kempton R6                    | 8 Main Target         |   0    |    -10   |
 | 0                 | 2022-03-17 | kempton R5                    | 5 High Wells          |   0    |    -10   |
 | 0                 | 2022-03-17 | newcastle R5                  | 7 Alaskan Wind        |   0    |    -10   |
 | 0                 | 2022-03-17 | kempton R2                    | 4 Safe Passage        |   0    |    -10   |

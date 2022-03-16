@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-17 07:22:20 +1000  
+date: 2022-03-17 07:37:16 +1000  
 ---   
 
 
@@ -61,7 +61,7 @@ date: 2022-03-17 07:22:20 +1000
 
 |    | finish            | time                | track            |   race |   number | name               |   odds | tipster              |
 |---:|:------------------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|  0 | :soon:            | 2022-03-17 07:30:00 | kempton          |      6 |       13 | Got No Dollars     |   3.4  | vulture              |
+|  0 | --                | 2022-03-17 07:30:00 | kempton          |      6 |       13 | Got No Dollars     |   3.4  | vulture              |
 |  1 | --                | 2022-03-17 07:00:00 | kempton          |      5 |        1 | Author's Dream     |   8    | vulture              |
 |  2 | --                | 2022-03-17 06:30:00 | kempton          |      4 |        4 | Arousing           |   2    | milkman              |
 |  3 | :boom:            | 2022-03-17 06:15:00 | newcastle        |      5 |        3 | El Bello           |   2.2  | vulture              |
