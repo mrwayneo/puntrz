@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-17 06:22:16 +1000  
+date: 2022-03-17 06:37:15 +1000  
 ---   
 
 
@@ -63,7 +63,7 @@ date: 2022-03-17 06:22:16 +1000
 |---:|:------------------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:---------------------|
 |  0 | :soon:            | 2022-03-17 07:30:00 | kempton          |      6 |       13 | Got No Dollars     |   3.4  | vulture              |
 |  1 | :soon:            | 2022-03-17 07:00:00 | kempton          |      5 |        1 | Author's Dream     |   8    | vulture              |
-|  2 | :soon:            | 2022-03-17 06:30:00 | kempton          |      4 |        4 | Arousing           |   2    | milkman              |
+|  2 | --                | 2022-03-17 06:30:00 | kempton          |      4 |        4 | Arousing           |   2    | milkman              |
 |  3 | :boom:            | 2022-03-17 06:15:00 | newcastle        |      5 |        3 | El Bello           |   2.2  | vulture              |
 |  4 | :2nd_place_medal: | 2022-03-17 05:30:00 | kempton          |      2 |       11 | Hesperantha        |   4.75 | looseknot            |
 |  5 | --                | 2022-03-17 05:15:00 | newcastle        |      3 |        1 | Diderot            |   1.9  | vulture              |
