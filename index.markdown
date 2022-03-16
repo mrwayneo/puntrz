@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-17 06:07:18 +1000  
+date: 2022-03-17 06:22:16 +1000  
 ---   
 
 
@@ -25,9 +25,9 @@ date: 2022-03-17 06:07:18 +1000
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -48   | 0.2  | -0.24 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      7 |    -56.5 | 0.35 | -0.28 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      4 |    -76.5 | 0.2  | -0.38 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |   -108   | 0.15 | -0.54 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      3 |   -110   | 0.15 | -0.55 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      2 |   -128   | 0.1  | -0.64 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      2 |   -128   | 0.1  | -0.64 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      1 |   -169   | 0.05 | -0.84 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -170   | 0.05 | -0.85 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
@@ -55,7 +55,7 @@ date: 2022-03-17 06:07:18 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2362 |    120 |  -3510   | 0.05 | -0.15 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1834 |    353 |  -4411.1 | 0.19 | -0.24 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2209 |    513 |  -4861.5 | 0.23 | -0.22 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2597 |    599 |  -4925.7 | 0.23 | -0.19 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2597 |    600 |  -4905.7 | 0.23 | -0.19 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6186 |    789 | -14789   | 0.13 | -0.24 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7914 |    361 | -23318.5 | 0.05 | -0.29 |
 
@@ -64,7 +64,7 @@ date: 2022-03-17 06:07:18 +1000
 |  0 | :soon:            | 2022-03-17 07:30:00 | kempton          |      6 |       13 | Got No Dollars     |   3.4  | vulture              |
 |  1 | :soon:            | 2022-03-17 07:00:00 | kempton          |      5 |        1 | Author's Dream     |   8    | vulture              |
 |  2 | :soon:            | 2022-03-17 06:30:00 | kempton          |      4 |        4 | Arousing           |   2    | milkman              |
-|  3 | :soon:            | 2022-03-17 06:15:00 | newcastle        |      5 |        3 | El Bello           |   2.2  | vulture              |
+|  3 | :boom:            | 2022-03-17 06:15:00 | newcastle        |      5 |        3 | El Bello           |   2.2  | vulture              |
 |  4 | :2nd_place_medal: | 2022-03-17 05:30:00 | kempton          |      2 |       11 | Hesperantha        |   4.75 | looseknot            |
 |  5 | --                | 2022-03-17 05:15:00 | newcastle        |      3 |        1 | Diderot            |   1.9  | vulture              |
 |  6 | :3rd_place_medal: | 2022-03-17 05:00:00 | kempton          |      1 |       10 | True Accolade      |   3.8  | overthrow            |
