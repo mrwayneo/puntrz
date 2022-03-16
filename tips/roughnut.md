@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-03-17 06:52:17 +1000  
+date: 2022-03-17 07:07:15 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
 | 07:30             | 2022-03-17 | kempton R6                    | 9 Sayifyouwill        |  11    |    -10   |
 | 07:30             | 2022-03-17 | kempton R6                    | 8 Main Target         |  13    |    -10   |
-| 07:00             | 2022-03-17 | kempton R5                    | 5 High Wells          |  11    |    -10   |
+| 0                 | 2022-03-17 | kempton R5                    | 5 High Wells          |   0    |    -10   |
 | 0                 | 2022-03-17 | newcastle R5                  | 7 Alaskan Wind        |   0    |    -10   |
 | 0                 | 2022-03-17 | kempton R2                    | 4 Safe Passage        |   0    |    -10   |
 | 0                 | 2022-03-17 | cheltenham R6                 | 5 Exit Poll           |   0    |    -10   |

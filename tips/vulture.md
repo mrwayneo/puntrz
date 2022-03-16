@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-03-17 06:52:11 +1000  
+date: 2022-03-17 07:07:09 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
 | 07:30             | 2022-03-17 | kempton R6                    | 13 Got No Dollars     |   3.4  |    -10   |
-| 07:00             | 2022-03-17 | kempton R5                    | 1 Author's Dream      |   8    |    -10   |
+| 0                 | 2022-03-17 | kempton R5                    | 1 Author's Dream      |   0    |    -10   |
 | :boom:            | 2022-03-17 | newcastle R5                  | 3 El Bello            |   2    |     10   |
 | 0                 | 2022-03-17 | newcastle R3                  | 1 Diderot             |   0    |    -10   |
 | 0                 | 2022-03-17 | kempton R1                    | 1 Deciduous           |   0    |    -10   |
