@@ -1,39 +1,39 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-03-15 22:48:02 +1000  
+date: 2022-03-16 20:28:19 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     73 |     12 |   -309.7 | 0.16 | -0.42 |
-| Last 28 Days   |    339 |     65 |  -1265.3 | 0.19 | -0.37 |
-| Last 6 Months  |   2328 |    553 |  -5709   | 0.24 | -0.25 |
-| Since Jan 2020 |   5355 |   1342 |  -7424.2 | 0.25 | -0.14 |
+| Last 7 Days    |     83 |      8 |   -524.2 | 0.1  | -0.63 |
+| Last 28 Days   |    351 |     63 |  -1418.3 | 0.18 | -0.4  |
+| Last 6 Months  |   2348 |    553 |  -5909   | 0.24 | -0.25 |
+| Since Jan 2020 |   5375 |   1342 |  -7624.2 | 0.25 | -0.14 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 04:30             | 2022-03-16 | cheltenham R7                | 6 Stattler            |   3.5  |    -10   |
-| 04:10             | 2022-03-16 | sedgefield R7                | 3 Glory Bridge        |   4    |    -10   |
-| 03:50             | 2022-03-16 | cheltenham R6                | 19 Too Friendly       |  20    |    -10   |
-| 03:50             | 2022-03-16 | cheltenham R6                | 14 Saint Segal        |  16    |    -10   |
-| 03:50             | 2022-03-16 | cheltenham R6                | 8 Gaelic Warrior      |   3.4  |    -10   |
-| 03:50             | 2022-03-16 | cheltenham R6                | 7 Bell Ex One         |  31    |    -10   |
-| 03:10             | 2022-03-16 | cheltenham R5                | 10 Stormy Ireland     |   6    |    -10   |
-| 03:10             | 2022-03-16 | cheltenham R5                | 5 Marie's Rock        |  13    |    -10   |
-| 03:10             | 2022-03-16 | cheltenham R5                | 2 Echoes In Rain      |   9.5  |    -10   |
-| 02:30             | 2022-03-16 | cheltenham R4                | 9 Epatante            |  19    |    -10   |
-| 02:30             | 2022-03-16 | cheltenham R4                | 2 Appreciate It       |   5    |    -10   |
-| 02:10             | 2022-03-16 | sedgefield R4                | 2 Blueberry Wine      |   5    |    -10   |
-| 01:10             | 2022-03-16 | cheltenham R2                | 1 Blue Lord           |   5.5  |    -10   |
-| 00:50             | 2022-03-16 | sedgefield R2                | 3 Obey The Rules      |   4.5  |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 9 Silent Revolution   | 101    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 6 Kilcruit            |   8    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 4 Jonbon              |   6    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo       |   3.3  |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 2 Constitution Hill   |   3.4  |    -10   |
+| 0                 | 2022-03-16 | cheltenham R7                | 6 Stattler            |   0    |    -10   |
+| 0                 | 2022-03-16 | sedgefield R7                | 3 Glory Bridge        |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R6                | 19 Too Friendly       |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R6                | 14 Saint Segal        |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R6                | 8 Gaelic Warrior      |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R6                | 7 Bell Ex One         |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R5                | 10 Stormy Ireland     |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R5                | 5 Marie's Rock        |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R5                | 2 Echoes In Rain      |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R4                | 9 Epatante            |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R4                | 2 Appreciate It       |   0    |    -10   |
+| 0                 | 2022-03-16 | sedgefield R4                | 2 Blueberry Wine      |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R2                | 1 Blue Lord           |   0    |    -10   |
+| 0                 | 2022-03-16 | sedgefield R2                | 3 Obey The Rules      |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 9 Silent Revolution   |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 6 Kilcruit            |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 4 Jonbon              |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo       |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 2 Constitution Hill   |   0    |    -10   |
 | 4                 | 2022-03-15 | mackay R7                    | 6 Teeling             |   5.5  |    -10   |
 | 0                 | 2022-03-15 | taunton R4                   | 4 Confirmation Bias   |   0    |    -10   |
 | 0                 | 2022-03-15 | taunton R2                   | 12 Petrossian         |   0    |    -10   |

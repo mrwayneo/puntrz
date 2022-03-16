@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-03-15 22:48:04 +1000  
+date: 2022-03-16 20:28:21 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     27 |      2 |   -197   | 0.07 | -0.73 |
-| Last 28 Days   |     99 |      3 |   -817   | 0.03 | -0.83 |
-| Last 6 Months  |    633 |     90 |   -859.5 | 0.14 | -0.14 |
-| Since Jan 2020 |   1435 |    208 |  -2270.8 | 0.14 | -0.16 |
+| Last 7 Days    |     23 |      1 |   -199   | 0.04 | -0.87 |
+| Last 28 Days   |     98 |      3 |   -807   | 0.03 | -0.82 |
+| Last 6 Months  |    635 |     90 |   -879.5 | 0.14 | -0.14 |
+| Since Jan 2020 |   1437 |    208 |  -2290.8 | 0.14 | -0.16 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:30             | 2022-03-16 | southwell R3                  | 4 Foreshadow          |   9    |    -10   |
-| 03:30             | 2022-03-16 | sedgefield R6                 | 6 Jessie Lightfoot    |   7.5  |    -10   |
+| 0                 | 2022-03-16 | southwell R3                  | 4 Foreshadow          |   0    |    -10   |
+| 0                 | 2022-03-16 | sedgefield R6                 | 6 Jessie Lightfoot    |   0    |    -10   |
 | :2nd_place_medal: | 2022-03-15 | wolverhampton R5              | 9 Smart Boyo          |   4.8  |    -10   |
 | 0                 | 2022-03-15 | taunton R6                    | 8 Doyens De Ante      |   0    |    -10   |
 | 0                 | 2022-03-15 | taunton R6                    | 5 Earl Of Wisdom      |   0    |    -10   |

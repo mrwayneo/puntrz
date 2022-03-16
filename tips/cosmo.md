@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-03-15 22:48:03 +1000  
+date: 2022-03-16 20:28:20 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     79 |      4 |     -312 | 0.05 | -0.39 |
-| Last 28 Days   |    351 |     16 |     -688 | 0.05 | -0.2  |
-| Last 6 Months  |   2540 |    130 |    -4698 | 0.05 | -0.18 |
-| Since Jan 2020 |   5662 |    328 |    -1681 | 0.06 | -0.03 |
+| Last 7 Days    |     73 |      3 |     -397 | 0.04 | -0.54 |
+| Last 28 Days   |    350 |     16 |     -678 | 0.05 | -0.19 |
+| Last 6 Months  |   2549 |    130 |    -4788 | 0.05 | -0.19 |
+| Since Jan 2020 |   5671 |    328 |    -1771 | 0.06 | -0.03 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:00             | 2022-03-16 | southwell R6                  | 2 Rectory Road        |  15    |      -10 |
-| 05:15             | 2022-03-16 | newcastle R2                  | 5 Alpine Sierra       |  19    |      -10 |
-| 04:20             | 2022-03-16 | southwell R1                  | 11 Caribbean Spring   |  13    |      -10 |
-| 03:50             | 2022-03-16 | cheltenham R6                 | 18 Doctor Brown Bear  |  23    |      -10 |
+| 0                 | 2022-03-16 | southwell R6                  | 2 Rectory Road        |   0    |      -10 |
+| 0                 | 2022-03-16 | newcastle R2                  | 5 Alpine Sierra       |   0    |      -10 |
+| 0                 | 2022-03-16 | southwell R1                  | 11 Caribbean Spring   |   0    |      -10 |
+| 0                 | 2022-03-16 | cheltenham R6                 | 18 Doctor Brown Bear  |   0    |      -10 |
 | 6                 | 2022-03-15 | ballarat R8                   | 7 Pal's Reward        |  41    |      -10 |
 | 4                 | 2022-03-15 | ballarat R8                   | 4 Rambler Rebel       |  26    |      -10 |
 | 8                 | 2022-03-15 | ballarat R6                   | 7 Diamond Back        |  19    |      -10 |

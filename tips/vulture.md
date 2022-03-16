@@ -1,37 +1,37 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-03-15 22:48:00 +1000  
+date: 2022-03-16 20:28:17 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    102 |     19 |   -307.3 | 0.19 | -0.3  |
-| Last 28 Days   |    424 |     97 |   -881.4 | 0.23 | -0.21 |
-| Last 6 Months  |   2840 |    674 |  -5542.4 | 0.24 | -0.2  |
-| Since Jan 2020 |   6935 |   1668 | -11603   | 0.24 | -0.17 |
+| Last 7 Days    |    115 |     16 |   -549.8 | 0.14 | -0.48 |
+| Last 28 Days   |    429 |     95 |  -1015.4 | 0.22 | -0.24 |
+| Last 6 Months  |   2859 |    674 |  -5732.4 | 0.24 | -0.2  |
+| Since Jan 2020 |   6954 |   1668 | -11793   | 0.24 | -0.17 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:45             | 2022-03-16 | newcastle R1                  | 5 Show Lights         |   3.9  |    -10   |
-| 03:50             | 2022-03-16 | cheltenham R6                 | 7 Bell Ex One         |  31    |    -10   |
-| 03:50             | 2022-03-16 | cheltenham R6                 | 14 Saint Segal        |  16    |    -10   |
-| 03:10             | 2022-03-16 | cheltenham R5                 | 10 Stormy Ireland     |   6    |    -10   |
-| 03:10             | 2022-03-16 | cheltenham R5                 | 5 Marie's Rock        |  13    |    -10   |
-| 03:10             | 2022-03-16 | cheltenham R5                 | 9 Queens Brook        |   4.8  |    -10   |
-| 02:30             | 2022-03-16 | cheltenham R4                 | 9 Epatante            |  19    |    -10   |
-| 02:30             | 2022-03-16 | cheltenham R4                 | 8 Zanahiyr            |  26    |    -10   |
-| 02:30             | 2022-03-16 | cheltenham R4                 | 3 Glory And Fortune   | 151    |    -10   |
-| 02:30             | 2022-03-16 | cheltenham R4                 | 2 Appreciate It       |   5    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                 | 9 Silent Revolution   | 101    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                 | 8 Shallwehaveonemore  |  81    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                 | 7 Mighty Potter       |   7.5  |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                 | 6 Kilcruit            |   8    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                 | 4 Jonbon              |   6    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                 | 3 Dysart Dynamo       |   3.3  |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                 | 2 Constitution Hill   |   3.4  |    -10   |
+| 0                 | 2022-03-16 | newcastle R1                  | 5 Show Lights         |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R6                 | 7 Bell Ex One         |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R6                 | 14 Saint Segal        |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R5                 | 10 Stormy Ireland     |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R5                 | 5 Marie's Rock        |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R5                 | 9 Queens Brook        |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R4                 | 9 Epatante            |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R4                 | 8 Zanahiyr            |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R4                 | 3 Glory And Fortune   |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R4                 | 2 Appreciate It       |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                 | 9 Silent Revolution   |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                 | 8 Shallwehaveonemore  |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                 | 7 Mighty Potter       |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                 | 6 Kilcruit            |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                 | 4 Jonbon              |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                 | 3 Dysart Dynamo       |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                 | 2 Constitution Hill   |   0    |    -10   |
 | :3rd_place_medal: | 2022-03-15 | hawkesbury R5                 | 5 Amathuba            |   2.38 |    -10   |
 | :3rd_place_medal: | 2022-03-15 | hawkesbury R4                 | 5 Extreme Gem         |   3.9  |    -10   |
 | :3rd_place_medal: | 2022-03-15 | plumpton R5                   | 5 Ruby Yeats          |   6.5  |    -10   |

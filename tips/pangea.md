@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2022-03-15 22:48:01 +1000  
+date: 2022-03-16 20:28:18 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     86 |     14 |   -308   | 0.16 | -0.36 |
-| Last 28 Days   |    325 |     56 |   -936   | 0.17 | -0.29 |
-| Last 6 Months  |   1961 |    379 |  -5121.2 | 0.19 | -0.26 |
-| Since Jan 2020 |   4824 |   1005 |  -5272.8 | 0.21 | -0.11 |
+| Last 7 Days    |     89 |     13 |   -370   | 0.15 | -0.42 |
+| Last 28 Days   |    324 |     55 |   -954   | 0.17 | -0.29 |
+| Last 6 Months  |   1970 |    379 |  -5211.2 | 0.19 | -0.26 |
+| Since Jan 2020 |   4833 |   1005 |  -5362.8 | 0.21 | -0.11 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:20             | 2022-03-16 | southwell R1                  | 11 Caribbean Spring   |  13    |    -10   |
-| 02:30             | 2022-03-16 | cheltenham R4                 | 8 Zanahiyr            |  26    |    -10   |
-| 02:30             | 2022-03-16 | cheltenham R4                 | 10 Honeysuckle        |   1.6  |    -10   |
-| 01:10             | 2022-03-16 | cheltenham R2                 | 1 Blue Lord           |   5.5  |    -10   |
+| 0                 | 2022-03-16 | southwell R1                  | 11 Caribbean Spring   |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R4                 | 8 Zanahiyr            |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R4                 | 10 Honeysuckle        |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R2                 | 1 Blue Lord           |   0    |    -10   |
 | 4                 | 2022-03-15 | mackay R8                     | 1 Grand de Lago       |   6.5  |    -10   |
 | :2nd_place_medal: | 2022-03-15 | mackay R7                     | 4 Collombatti         |   5.5  |    -10   |
 | 8                 | 2022-03-15 | moree R5                      | 4 Expect A Hero       |   7.5  |    -10   |

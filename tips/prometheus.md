@@ -1,46 +1,46 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-03-15 22:48:04 +1000  
+date: 2022-03-16 20:28:21 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    223 |     24 |   -307.5 | 0.11 | -0.14 |
-| Last 28 Days   |   1015 |    108 |  -3060.5 | 0.11 | -0.3  |
-| Last 6 Months  |   6652 |    874 | -16438.4 | 0.13 | -0.25 |
-| Since Jan 2020 |  13229 |   2042 | -21072.2 | 0.15 | -0.16 |
+| Last 7 Days    |    228 |     24 |   -519.5 | 0.11 | -0.23 |
+| Last 28 Days   |   1004 |    108 |  -2914.5 | 0.11 | -0.29 |
+| Last 6 Months  |   6689 |    876 | -16740.4 | 0.13 | -0.25 |
+| Since Jan 2020 |  13266 |   2044 | -21374.2 | 0.15 | -0.16 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:45             | 2022-03-16 | newcastle R3                  | 6 Shalaa Asker        |   3.3  |    -10   |
-| 01:40             | 2022-03-16 | fairview R8                   | 13 Trippin The Stars  |   0    |    -10   |
-| 01:40             | 2022-03-16 | fairview R8                   | 12 Neverletugo        |   0    |    -10   |
-| 01:40             | 2022-03-16 | fairview R8                   | 4 Miss Venezuela      |   0    |    -10   |
-| 01:40             | 2022-03-16 | fairview R8                   | 2 Blindlove           |   0    |    -10   |
-| 01:40             | 2022-03-16 | fairview R8                   | 1 Flaming Lass        |   0    |    -10   |
-| 01:00             | 2022-03-16 | fairview R7                   | 8 Magic Blaze         |   0    |    -10   |
-| 01:00             | 2022-03-16 | fairview R7                   | 6 Freedom Seeker      |   0    |    -10   |
-| 01:00             | 2022-03-16 | fairview R7                   | 4 Tarsus              |   0    |    -10   |
-| 01:00             | 2022-03-16 | fairview R7                   | 3 Green Light Gal     |   0    |    -10   |
-| 00:20             | 2022-03-16 | fairview R6                   | 2 Oscar Wilde         |   0    |    -10   |
-| 00:20             | 2022-03-16 | fairview R6                   | 9 Phil's Power        |   0    |    -10   |
-| 00:20             | 2022-03-16 | fairview R6                   | 3 Seven Patriots      |   0    |    -10   |
-| 00:20             | 2022-03-16 | fairview R6                   | 5 Jaeger Moon         |   0    |    -10   |
-| 00:20             | 2022-03-16 | fairview R6                   | 10 Alado's Pride      |   0    |    -10   |
-| 23:45             | 2022-03-15 | fairview R5                   | 17 At The Opera       |   0    |    -10   |
-| 23:45             | 2022-03-15 | fairview R5                   | 14 The Gaul           |   0    |    -10   |
-| 23:45             | 2022-03-15 | fairview R5                   | 10 The Sands          |   0    |    -10   |
-| 23:45             | 2022-03-15 | fairview R5                   | 9 Jaquar Cat          |   0    |    -10   |
-| 23:45             | 2022-03-15 | fairview R5                   | 8 Wangan Midnight     |   0    |    -10   |
-| 23:45             | 2022-03-15 | fairview R5                   | 7 Purple Frontier     |   0    |    -10   |
-| 23:45             | 2022-03-15 | fairview R5                   | 4 Young Nelson        |   0    |    -10   |
-| 23:45             | 2022-03-15 | fairview R5                   | 1 Baltic Beat         |   0    |    -10   |
-| 23:10             | 2022-03-15 | fairview R4                   | 11 I Love Mambo       |   0    |    -10   |
-| 23:10             | 2022-03-15 | fairview R4                   | 4 Scarborough Fair    |   0    |    -10   |
-| 23:10             | 2022-03-15 | fairview R4                   | 2 Forward March       |   0    |    -10   |
+| 0                 | 2022-03-16 | newcastle R3                  | 6 Shalaa Asker        |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R8                   | 13 Trippin The Stars  |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R8                   | 12 Neverletugo        |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R8                   | 4 Miss Venezuela      |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R8                   | 2 Blindlove           |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R8                   | 1 Flaming Lass        |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R7                   | 8 Magic Blaze         |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R7                   | 6 Freedom Seeker      |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R7                   | 4 Tarsus              |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R7                   | 3 Green Light Gal     |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R6                   | 2 Oscar Wilde         |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R6                   | 9 Phil's Power        |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R6                   | 3 Seven Patriots      |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R6                   | 5 Jaeger Moon         |   0    |    -10   |
+| 0                 | 2022-03-16 | fairview R6                   | 10 Alado's Pride      |   0    |    -10   |
+| 0                 | 2022-03-15 | fairview R5                   | 17 At The Opera       |   0    |    -10   |
+| 0                 | 2022-03-15 | fairview R5                   | 14 The Gaul           |   0    |    -10   |
+| 0                 | 2022-03-15 | fairview R5                   | 10 The Sands          |   0    |    -10   |
+| 0                 | 2022-03-15 | fairview R5                   | 9 Jaquar Cat          |   0    |    -10   |
+| 0                 | 2022-03-15 | fairview R5                   | 8 Wangan Midnight     |   0    |    -10   |
+| 0                 | 2022-03-15 | fairview R5                   | 7 Purple Frontier     |   0    |    -10   |
+| 0                 | 2022-03-15 | fairview R5                   | 4 Young Nelson        |   0    |    -10   |
+| 0                 | 2022-03-15 | fairview R5                   | 1 Baltic Beat         |   0    |    -10   |
+| 0                 | 2022-03-15 | fairview R4                   | 11 I Love Mambo       |   0    |    -10   |
+| 0                 | 2022-03-15 | fairview R4                   | 4 Scarborough Fair    |   0    |    -10   |
+| 0                 | 2022-03-15 | fairview R4                   | 2 Forward March       |   0    |    -10   |
 | 0                 | 2022-03-15 | fairview R3                   | 6 Lord Marmite        |   0    |    -10   |
 | 0                 | 2022-03-15 | fairview R2                   | 6 My Lord And Master  |   0    |    -10   |
 | 0                 | 2022-03-15 | fairview R2                   | 4 Act Of Thunder      |   0    |    -10   |

@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-15 22:48:09 +1000  
+date: 2022-03-16 20:28:26 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      4 |     85   | 0.67 |  1.42 |
-| Last 28 Days   |     16 |      7 |     36.5 | 0.44 |  0.23 |
-| Last 6 Months  |    118 |     59 |    400.7 | 0.5  |  0.34 |
-| Since Jan 2020 |    227 |    112 |   1400.7 | 0.49 |  0.62 |
+| Last 7 Days    |      6 |      3 |     45   | 0.5  |  0.75 |
+| Last 28 Days   |     18 |      7 |     16.5 | 0.39 |  0.09 |
+| Last 6 Months  |    120 |     59 |    380.7 | 0.49 |  0.32 |
+| Since Jan 2020 |    229 |    112 |   1380.7 | 0.49 |  0.6  |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 00:30             | 2022-03-16 | cheltenham R1                | 4 Jonbon             |  6    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo      |  3.3  |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 4 Jonbon             |  0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo      |  0    |    -10   |
 | :2nd_place_medal: | 2022-03-14 | bangor R3                    | 2 Jungle Jack        |  2.4  |    -10   |
 | :boom:            | 2022-03-13 | sandown R4                   | 12 Luccia            |  4.8  |     38   |
 | :boom:            | 2022-03-13 | lingfield R2                 | 2 King Of Time       |  1.4  |      4   |

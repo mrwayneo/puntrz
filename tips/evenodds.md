@@ -1,31 +1,31 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2022-03-15 22:48:00 +1000  
+date: 2022-03-16 20:28:17 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     18 |      2 |   -112   | 0.11 | -0.62 |
-| Last 28 Days   |     71 |     14 |   -378.6 | 0.2  | -0.53 |
-| Last 6 Months  |    606 |    147 |  -2119.6 | 0.24 | -0.35 |
-| Since Jan 2020 |   1411 |    383 |  -3178.5 | 0.27 | -0.23 |
+| Last 7 Days    |     26 |      1 |   -217   | 0.04 | -0.83 |
+| Last 28 Days   |     81 |     14 |   -478.6 | 0.17 | -0.59 |
+| Last 6 Months  |    617 |    147 |  -2229.6 | 0.24 | -0.36 |
+| Since Jan 2020 |   1422 |    383 |  -3288.5 | 0.27 | -0.23 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 03:50             | 2022-03-16 | cheltenham R6                | 14 Saint Segal        |  16    |    -10   |
-| 03:50             | 2022-03-16 | cheltenham R6                | 7 Bell Ex One         |  31    |    -10   |
-| 03:10             | 2022-03-16 | cheltenham R5                | 10 Stormy Ireland     |   6    |    -10   |
-| 03:10             | 2022-03-16 | cheltenham R5                | 5 Marie's Rock        |  13    |    -10   |
-| 02:30             | 2022-03-16 | cheltenham R4                | 9 Epatante            |  19    |    -10   |
-| 02:30             | 2022-03-16 | cheltenham R4                | 2 Appreciate It       |   5    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 9 Silent Revolution   | 101    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 6 Kilcruit            |   8    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 4 Jonbon              |   6    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo       |   3.3  |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 2 Constitution Hill   |   3.4  |    -10   |
+| 0                 | 2022-03-16 | cheltenham R6                | 14 Saint Segal        |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R6                | 7 Bell Ex One         |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R5                | 10 Stormy Ireland     |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R5                | 5 Marie's Rock        |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R4                | 9 Epatante            |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R4                | 2 Appreciate It       |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 9 Silent Revolution   |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 6 Kilcruit            |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 4 Jonbon              |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo       |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 2 Constitution Hill   |   0    |    -10   |
 | 0                 | 2022-03-14 | cairns R5                    | 1 Arise My Son        |   0    |    -10   |
 | :3rd_place_medal: | 2022-03-14 | bangor R4                    | 4 Kayfast Warrior     |   2.4  |    -10   |
 | 0                 | 2022-03-13 | sandown R6                   | 3 Switch Hitter       |   0    |    -10   |

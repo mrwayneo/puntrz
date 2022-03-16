@@ -1,25 +1,25 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-03-15 22:48:03 +1000  
+date: 2022-03-16 20:28:20 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     47 |     13 |    -96.2 | 0.28 | -0.2  |
-| Last 28 Days   |    197 |     53 |   -128.3 | 0.27 | -0.07 |
-| Last 6 Months  |   1237 |    302 |  -2931   | 0.24 | -0.24 |
-| Since Jan 2020 |   2936 |    739 |  -4966.8 | 0.25 | -0.17 |
+| Last 7 Days    |     52 |     12 |   -186.2 | 0.23 | -0.36 |
+| Last 28 Days   |    199 |     52 |   -191.3 | 0.26 | -0.1  |
+| Last 6 Months  |   1243 |    302 |  -2991   | 0.24 | -0.24 |
+| Since Jan 2020 |   2942 |    739 |  -5026.8 | 0.25 | -0.17 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 03:50             | 2022-03-16 | cheltenham R6                | 14 Saint Segal        |  16    |    -10   |
-| 03:10             | 2022-03-16 | cheltenham R5                | 5 Marie's Rock        |  13    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 7 Mighty Potter       |   7.5  |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 5 Jpr One             | 151    |    -10   |
-| 00:30             | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo       |   3.3  |    -10   |
+| 0                 | 2022-03-16 | cheltenham R6                | 14 Saint Segal        |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R5                | 5 Marie's Rock        |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 7 Mighty Potter       |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 5 Jpr One             |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo       |   0    |    -10   |
 | :3rd_place_medal: | 2022-03-15 | hawkesbury R4                | 5 Extreme Gem         |   3.9  |    -10   |
 | 0                 | 2022-03-15 | wolverhampton R3             | 2 Fitwood Star        |   0    |    -10   |
 | 8                 | 2022-03-14 | morphettville R8             | 3 Water Into Wine     |  12    |    -10   |

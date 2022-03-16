@@ -1,35 +1,35 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-03-15 22:48:06 +1000  
+date: 2022-03-16 20:28:23 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    273 |     11 |   -995   | 0.04 | -0.36 |
-| Last 28 Days   |   1134 |     57 |  -2126   | 0.05 | -0.19 |
-| Last 6 Months  |   8392 |    392 | -25173.5 | 0.05 | -0.3  |
-| Since Jan 2020 |  19056 |    983 | -41621   | 0.05 | -0.22 |
+| Last 7 Days    |    250 |     10 |   -910   | 0.04 | -0.36 |
+| Last 28 Days   |   1123 |     57 |  -2016   | 0.05 | -0.18 |
+| Last 6 Months  |   8418 |    392 | -25433.5 | 0.05 | -0.3  |
+| Since Jan 2020 |  19082 |    983 | -41881   | 0.05 | -0.22 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:30             | 2022-03-16 | southwell R7                  | 12 Vivency            |  26    |    -10   |
-| 07:00             | 2022-03-16 | southwell R6                  | 2 Rectory Road        |  15    |    -10   |
-| 06:15             | 2022-03-16 | newcastle R4                  | 1 Waud House          |  81    |    -10   |
-| 05:15             | 2022-03-16 | newcastle R2                  | 5 Alpine Sierra       |  19    |    -10   |
-| 04:30             | 2022-03-16 | cheltenham R7                 | 1 Beatthebullet       | 101    |    -10   |
-| 04:20             | 2022-03-16 | southwell R1                  | 11 Caribbean Spring   |  13    |    -10   |
-| 03:50             | 2022-03-16 | cheltenham R6                 | 11 Prairie Dancer     |  21    |    -10   |
-| 03:50             | 2022-03-16 | cheltenham R6                 | 18 Doctor Brown Bear  |  23    |    -10   |
-| 02:50             | 2022-03-16 | sedgefield R5                 | 6 The Dancing Poet    |  10    |    -10   |
-| 02:10             | 2022-03-16 | sedgefield R4                 | 7 Red Ochre           |  17    |    -10   |
-| 01:50             | 2022-03-16 | cheltenham R3                 | 22 Belargus           |  71    |    -10   |
-| 01:50             | 2022-03-16 | cheltenham R3                 | 19 Run To Milan       | 101    |    -10   |
-| 01:50             | 2022-03-16 | cheltenham R3                 | 4 Ben Dundee          |  21    |    -10   |
-| 01:30             | 2022-03-16 | sedgefield R3                 | 9 Lostnfound          |  15    |    -10   |
-| 01:30             | 2022-03-16 | sedgefield R3                 | 6 Balkotic            |  67    |    -10   |
+| 0                 | 2022-03-16 | southwell R7                  | 12 Vivency            |   0    |    -10   |
+| 0                 | 2022-03-16 | southwell R6                  | 2 Rectory Road        |   0    |    -10   |
+| 0                 | 2022-03-16 | newcastle R4                  | 1 Waud House          |   0    |    -10   |
+| 0                 | 2022-03-16 | newcastle R2                  | 5 Alpine Sierra       |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R7                 | 1 Beatthebullet       |   0    |    -10   |
+| 0                 | 2022-03-16 | southwell R1                  | 11 Caribbean Spring   |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R6                 | 11 Prairie Dancer     |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R6                 | 18 Doctor Brown Bear  |   0    |    -10   |
+| 0                 | 2022-03-16 | sedgefield R5                 | 6 The Dancing Poet    |   0    |    -10   |
+| 0                 | 2022-03-16 | sedgefield R4                 | 7 Red Ochre           |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R3                 | 22 Belargus           |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R3                 | 19 Run To Milan       |   0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R3                 | 4 Ben Dundee          |   0    |    -10   |
+| 0                 | 2022-03-16 | sedgefield R3                 | 9 Lostnfound          |   0    |    -10   |
+| 0                 | 2022-03-16 | sedgefield R3                 | 6 Balkotic            |   0    |    -10   |
 | 9                 | 2022-03-15 | mackay R7                     | 5 Man O' Ross         |  11    |    -10   |
 | 6                 | 2022-03-15 | ballarat R8                   | 7 Pal's Reward        |  41    |    -10   |
 | 4                 | 2022-03-15 | ballarat R8                   | 4 Rambler Rebel       |  26    |    -10   |
