@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-03-17 17:29:48 +1000  
+date: 2022-03-17 18:01:02 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                | runner             |   win |   return |
 |:------------------|:-----------|:---------------------|:-------------------|------:|---------:|
-| 17:30             | 2022-03-17 | newcastle R8         | 8 Endorsement      |  3.9  |      -10 |
+| 0                 | 2022-03-17 | newcastle R8         | 8 Endorsement      |  0    |      -10 |
 | 5                 | 2022-03-17 | newcastle R5         | 6 Vaneto           | 10    |      -10 |
 | 4                 | 2022-03-17 | newcastle R3         | 2 Aton Of Delight  |  5.5  |      -10 |
 | :boom:            | 2022-03-17 | newcastle R2         | 5 Peindre          |  3.1  |       21 |
