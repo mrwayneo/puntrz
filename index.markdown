@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-17 13:38:55 +1000  
+date: 2022-03-17 13:54:21 +1000  
 ---   
 
 
@@ -9,20 +9,20 @@ date: 2022-03-17 13:38:55 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 |    0 |    -1 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      4 |      0 |      -40 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      0 |      -50 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      0 |      -80 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      9 |      0 |      -90 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      0 |     -110 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      0 |     -160 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     17 |      0 |     -170 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |     -220 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     42 |      0 |     -420 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     53 |      0 |     -530 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      4 |      0 |      -40 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      0 |      -50 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      0 |      -80 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      9 |      0 |      -90 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      0 |     -110 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      0 |     -160 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     17 |      0 |     -170 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |     -220 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     42 |      1 |     -395 | 0.02 | -0.94 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     53 |      0 |     -530 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -142,6 +142,6 @@ date: 2022-03-17 13:38:55 +1000
 | 61 | :soon:            | 2022-03-17 14:34:00 | ipswich         |      2 |        2 | Takunai            |  13    | vulture,pangea       |
 | 62 | :soon:            | 2022-03-17 14:25:00 | newcastle       |      3 |        1 | Field Legend       |   4.8  | jmac                 |
 | 63 | :soon:            | 2022-03-17 14:25:00 | newcastle       |      3 |        2 | Aton Of Delight    |   5.5  | wallbow              |
-| 64 | :soon:            | 2022-03-17 13:50:00 | newcastle       |      2 |        5 | Peindre            |   3.1  | wallbow              |
-| 65 | --                | 2022-03-17 13:15:00 | newcastle       |      1 |        8 | Eva Daniela        |   2.35 | jmac                 |
+| 64 | --                | 2022-03-17 13:50:00 | newcastle       |      2 |        5 | Peindre            |   3.1  | wallbow              |
+| 65 | :2nd_place_medal: | 2022-03-17 13:15:00 | newcastle       |      1 |        8 | Eva Daniela        |   2.35 | jmac                 |
 | 66 | :2nd_place_medal: | 2022-03-17 10:26:00 | ashburton       |      1 |        2 | So Amused          |   4.33 | looseknot            |
