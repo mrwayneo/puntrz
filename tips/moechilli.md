@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-03-17 22:55:53 +1000  
+date: 2022-03-18 06:15:00 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |      8 |      0 |    -80   | 0    | -1    |
-| Last 6 Months  |     55 |     11 |    141.2 | 0.2  |  0.26 |
-| Since Jan 2020 |    124 |     33 |    726.6 | 0.27 |  0.59 |
+| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
+| Last 28 Days   |      7 |      0 |    -70   | 0    | -1    |
+| Last 6 Months  |     56 |     11 |    131.2 | 0.2  |  0.23 |
+| Since Jan 2020 |    125 |     33 |    716.6 | 0.26 |  0.57 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 04:50             | 2022-03-18 | down-royal R7          | 5 Glenanore          |  26    |    -10   |
+| 0                 | 2022-03-18 | down-royal R7          | 5 Glenanore          |   0    |    -10   |
 | 0                 | 2022-03-14 | cairns R4              | 2 Sparkly Star       |   0    |    -10   |
 | 0                 | 2022-03-14 | cairns R2              | 1 Lord Of Light      |   0    |    -10   |
 | 0                 | 2022-03-09 | newcastle R5           | 2 Bavington Bob      |   0    |    -10   |
@@ -99,8 +99,8 @@ categories: None
 | 11                | 2021-05-02 | alice-springs R2       | 10 Asahi Bearing     |   6    |    -10   |
 | :boom:            | 2021-05-01 | barcaldine R4          | 2 Grey Rules         |   2.9  |     19   |
 | 99                | 2021-05-01 | cheltenham R6          | 10 Know The Score    |   5.5  |    -10   |
-| 99                | 2021-05-01 | cheltenham R4          | 2 Garde Ville        |   3.5  |    -10   |
 | :3rd_place_medal: | 2021-05-01 | cheltenham R4          | 1 Fifty Shades       |   8    |    -10   |
+| 99                | 2021-05-01 | cheltenham R4          | 2 Garde Ville        |   3.5  |    -10   |
 | 99                | 2021-05-01 | cheltenham R2          | 9 Hotel Du Nord      |   5.5  |    -10   |
 | :boom:            | 2021-04-29 | rockhampton R1         | 3 Whoshotthemagician |   5    |     40   |
 | 99                | 2021-04-29 | chelmsford-city R1     | 10 I'm Mable         |  17    |    -10   |
