@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-17 20:17:24 +1000  
+date: 2022-03-17 21:34:22 +1000  
 ---   
 
 
@@ -9,20 +9,20 @@ date: 2022-03-17 20:17:24 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      2 |       41 | 0.5  |  1.02 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      4 |      1 |       -9 | 0.25 | -0.22 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      1 |      -46 | 0.12 | -0.57 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      0 |      -50 | 0    | -1    |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      9 |      0 |      -90 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      0 |     -110 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      0 |     -160 | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     17 |      0 |     -170 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |     -220 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     42 |      1 |     -395 | 0.02 | -0.94 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     53 |      1 |     -463 | 0.02 | -0.87 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      2 |     41   | 0.5  |  1.02 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      2 |     19   | 0.25 |  0.24 |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      4 |      1 |     -9   | 0.25 | -0.22 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |    -10   | 0    | -1    |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |    -10   | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |    -40   | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      0 |    -50   | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      9 |      0 |    -90   | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      0 |   -110   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      0 |   -160   | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     17 |      0 |   -170   | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     22 |      0 |   -220   | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     42 |      2 |   -379.5 | 0.05 | -0.9  |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     53 |      2 |   -383   | 0.04 | -0.72 |
 
 ##### Form Last 20 tips   
 
@@ -114,8 +114,8 @@ date: 2022-03-17 20:17:24 +1000
 | 33 | :soon:            | 2022-03-18 00:30:00 | cheltenham      |      1 |        3 | Galopin Des Champs |   2    | overthrow            |
 | 34 | :soon:            | 2022-03-17 22:35:00 | turffontein     |      4 |        4 | Leopold            |   0    | pangea               |
 | 35 | :soon:            | 2022-03-17 21:35:00 | turffontein     |      2 |        1 | Fennec Fox         |   0    | milkman              |
-| 36 | :soon:            | 2022-03-17 21:15:00 | racing.com-park |      8 |        5 | Corkscrew          |   5    | pangea               |
-| 37 | :soon:            | 2022-03-17 20:45:00 | racing.com-park |      7 |        3 | Savvy Sovereign    |   2.25 | pangea               |
+| 36 | :boom:            | 2022-03-17 21:15:00 | racing.com-park |      8 |        5 | Corkscrew          |   5    | pangea               |
+| 37 | 4.0               | 2022-03-17 20:45:00 | racing.com-park |      7 |        3 | Savvy Sovereign    |   2.25 | pangea               |
 | 38 | 5.0               | 2022-03-17 19:15:00 | racing.com-park |      4 |        7 | Miss Havana Cosmic |   4.8  | vulture              |
 | 39 | 6.0               | 2022-03-17 19:15:00 | racing.com-park |      4 |        5 | Rockin' Zain       |   5.5  | looseknot            |
 | 40 | :3rd_place_medal: | 2022-03-17 18:45:00 | racing.com-park |      3 |        8 | Spring Valley      |   1.95 | vulture              |
