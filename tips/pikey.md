@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-17 18:01:07 +1000  
+date: 2022-03-17 18:27:07 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2022-03-17 | newcastle R8          | 5 Kaptive             |   0    |    -10   |
+| 9                 | 2022-03-17 | newcastle R8          | 5 Kaptive             |  14    |    -10   |
 | :3rd_place_medal: | 2022-03-17 | newcastle R7          | 10 Pippali            |  23    |    -10   |
 | :2nd_place_medal: | 2022-03-17 | newcastle R5          | 12 Shohei             |   3.4  |    -10   |
 | 7                 | 2022-03-17 | newcastle R4          | 11 Raging Climax      |  16    |    -10   |
