@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-17 14:55:39 +1000  
+date: 2022-03-17 15:25:33 +1000  
 ---   
 
 
@@ -14,8 +14,8 @@ date: 2022-03-17 14:55:39 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      1 |      -46 | 0.12 | -0.57 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      0 |      -50 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      0 |      -80 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      9 |      0 |      -90 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     16 |      0 |     -160 | 0    | -1    |
@@ -132,16 +132,16 @@ date: 2022-03-17 14:55:39 +1000
 | 51 | :soon:            | 2022-03-17 16:55:00 | newcastle       |      7 |        9 | Mayrose            |   3.5  | milkman              |
 | 52 | :soon:            | 2022-03-17 15:40:00 | newcastle       |      5 |       12 | Shohei             |   3.4  | pikey                |
 | 53 | :soon:            | 2022-03-17 15:40:00 | newcastle       |      5 |        6 | Vaneto             |  10    | wallbow              |
-| 54 | :soon:            | 2022-03-17 15:12:00 | ipswich         |      3 |        1 | Carlin Trend       |  13    | evenodds,overthrow   |
-| 55 | :soon:            | 2022-03-17 15:12:00 | ipswich         |      3 |        2 | A Good Chance      |  18    | looseknot            |
-| 56 | :soon:            | 2022-03-17 15:12:00 | ipswich         |      3 |        5 | Miss Barty         |   4.33 | evenodds,overthrow   |
-| 57 | :soon:            | 2022-03-17 15:12:00 | ipswich         |      3 |        7 | Trip The Light     |   3.8  | pangea               |
-| 58 | :soon:            | 2022-03-17 15:05:00 | newcastle       |      4 |        2 | Ferrari Man        |   8    | looseknot            |
-| 59 | :soon:            | 2022-03-17 15:05:00 | newcastle       |      4 |       11 | Raging Climax      |  16    | pikey                |
-| 60 | :soon:            | 2022-03-17 15:05:00 | newcastle       |      4 |        7 | West Of Africa     |   4.5  | jmac                 |
-| 61 | --                | 2022-03-17 14:34:00 | ipswich         |      2 |        2 | Takunai            |  13    | vulture,pangea       |
-| 62 | --                | 2022-03-17 14:25:00 | newcastle       |      3 |        1 | Field Legend       |   4.8  | jmac                 |
-| 63 | --                | 2022-03-17 14:25:00 | newcastle       |      3 |        2 | Aton Of Delight    |   5.5  | wallbow              |
+| 54 | --                | 2022-03-17 15:12:00 | ipswich         |      3 |        1 | Carlin Trend       |  13    | evenodds,overthrow   |
+| 55 | --                | 2022-03-17 15:12:00 | ipswich         |      3 |        2 | A Good Chance      |  18    | looseknot            |
+| 56 | :3rd_place_medal: | 2022-03-17 15:12:00 | ipswich         |      3 |        5 | Miss Barty         |   4.33 | evenodds,overthrow   |
+| 57 | :boom:            | 2022-03-17 15:12:00 | ipswich         |      3 |        7 | Trip The Light     |   3.8  | pangea               |
+| 58 | --                | 2022-03-17 15:05:00 | newcastle       |      4 |        2 | Ferrari Man        |   8    | looseknot            |
+| 59 | --                | 2022-03-17 15:05:00 | newcastle       |      4 |       11 | Raging Climax      |  16    | pikey                |
+| 60 | --                | 2022-03-17 15:05:00 | newcastle       |      4 |        7 | West Of Africa     |   4.5  | jmac                 |
+| 61 | 5.0               | 2022-03-17 14:34:00 | ipswich         |      2 |        2 | Takunai            |  13    | vulture,pangea       |
+| 62 | :2nd_place_medal: | 2022-03-17 14:25:00 | newcastle       |      3 |        1 | Field Legend       |   4.8  | jmac                 |
+| 63 | 4.0               | 2022-03-17 14:25:00 | newcastle       |      3 |        2 | Aton Of Delight    |   5.5  | wallbow              |
 | 64 | :boom:            | 2022-03-17 13:50:00 | newcastle       |      2 |        5 | Peindre            |   3.1  | wallbow              |
 | 65 | :2nd_place_medal: | 2022-03-17 13:15:00 | newcastle       |      1 |        8 | Eva Daniela        |   2.35 | jmac                 |
 | 66 | :2nd_place_medal: | 2022-03-17 10:26:00 | ashburton       |      1 |        2 | So Amused          |   4.33 | looseknot            |
