@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-17 16:57:19 +1000  
+date: 2022-03-17 17:29:55 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-03-17 16:57:19 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      1 |        5 | 0.25 |  0.12 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      2 |       41 | 0.5  |  1.02 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      4 |      1 |       -9 | 0.25 | -0.22 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
@@ -124,12 +124,12 @@ date: 2022-03-17 16:57:19 +1000
 | 43 | :soon:            | 2022-03-17 18:00:00 | albany          |      2 |        5 | Bobalong Bob       |   5.5  | looseknot            |
 | 44 | :soon:            | 2022-03-17 17:30:00 | newcastle       |      8 |        8 | Endorsement        |   3.9  | milkman,wallbow      |
 | 45 | :soon:            | 2022-03-17 17:30:00 | newcastle       |      8 |        5 | Kaptive            |  14    | cosmo,pikey          |
-| 46 | :soon:            | 2022-03-17 17:22:00 | albany          |      1 |        6 | Finest Clobber     |   1.85 | vulture              |
-| 47 | :soon:            | 2022-03-17 17:04:00 | ipswich         |      6 |        6 | Fast Talking       |   5    | pangea,overthrow     |
-| 48 | :soon:            | 2022-03-17 17:04:00 | ipswich         |      6 |        1 | Avowal             |   3.5  | evenodds,blackshadow |
-| 49 | --                | 2022-03-17 16:55:00 | newcastle       |      7 |        3 | Never Talk         |   3.6  | jmac                 |
-| 50 | --                | 2022-03-17 16:55:00 | newcastle       |      7 |       10 | Pippali            |  23    | pikey                |
-| 51 | --                | 2022-03-17 16:55:00 | newcastle       |      7 |        9 | Mayrose            |   3.5  | milkman              |
+| 46 | :2nd_place_medal: | 2022-03-17 17:22:00 | albany          |      1 |        6 | Finest Clobber     |   1.85 | vulture              |
+| 47 | :2nd_place_medal: | 2022-03-17 17:04:00 | ipswich         |      6 |        6 | Fast Talking       |   5    | pangea,overthrow     |
+| 48 | 4.0               | 2022-03-17 17:04:00 | ipswich         |      6 |        1 | Avowal             |   3.5  | evenodds,blackshadow |
+| 49 | :boom:            | 2022-03-17 16:55:00 | newcastle       |      7 |        3 | Never Talk         |   3.6  | jmac                 |
+| 50 | :3rd_place_medal: | 2022-03-17 16:55:00 | newcastle       |      7 |       10 | Pippali            |  23    | pikey                |
+| 51 | :2nd_place_medal: | 2022-03-17 16:55:00 | newcastle       |      7 |        9 | Mayrose            |   3.5  | milkman              |
 | 52 | :2nd_place_medal: | 2022-03-17 15:40:00 | newcastle       |      5 |       12 | Shohei             |   3.4  | pikey                |
 | 53 | 5.0               | 2022-03-17 15:40:00 | newcastle       |      5 |        6 | Vaneto             |  10    | wallbow              |
 | 54 | 8.0               | 2022-03-17 15:12:00 | ipswich         |      3 |        1 | Carlin Trend       |  13    | evenodds,overthrow   |
