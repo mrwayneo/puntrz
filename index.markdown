@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-18 07:00:26 +1000  
+date: 2022-03-18 07:16:25 +1000  
 ---   
 
 
@@ -62,8 +62,8 @@ date: 2022-03-18 07:00:26 +1000
 |    | finish                   | time                | track           |   race |   number | name               |   odds | tipster              |
 |---:|:-------------------------|:--------------------|:----------------|-------:|---------:|:-------------------|-------:|:---------------------|
 |  0 | :soon:                   | 2022-03-18 07:30:00 | wolverhampton   |      6 |        2 | Canny Fettle       |   4.6  | vulture              |
-|  1 | :soon:                   | 2022-03-18 07:15:00 | southwell       |      8 |        4 | True Icon          |   6    | vulture              |
-|  2 | :hourglass_flowing_sand: | 2022-03-18 07:00:00 | wolverhampton   |      5 |        2 | Dingle             |   2.9  | vulture              |
+|  1 | :hourglass_flowing_sand: | 2022-03-18 07:15:00 | southwell       |      8 |        4 | True Icon          |   6    | vulture              |
+|  2 | --                       | 2022-03-18 07:00:00 | wolverhampton   |      5 |        2 | Dingle             |   2.9  | vulture              |
 |  3 | :2nd_place_medal:        | 2022-03-18 06:30:00 | wolverhampton   |      4 |        5 | Rebel Love         |   9.5  | looseknot            |
 |  4 | 4.0                      | 2022-03-18 06:30:00 | wolverhampton   |      4 |        6 | Sharac             |   8.5  | looseknot            |
 |  5 | --                       | 2022-03-18 05:45:00 | southwell       |      5 |        9 | Sword Exceed       |   8    | looseknot            |

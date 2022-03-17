@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-03-18 07:00:22 +1000  
+date: 2022-03-18 07:16:16 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:15             | 2022-03-18 | southwell R8                  | 2 Tudor Queen         |  15    |    -10   |
+| 0                 | 2022-03-18 | southwell R8                  | 2 Tudor Queen         |   0    |    -10   |
 | :boom:            | 2022-03-18 | southwell R7                  | 4 Ingra Tor           |   6.5  |     55   |
 | 0                 | 2022-03-18 | wolverhampton R3              | 6 Good Listener       |   0    |    -10   |
 | 0                 | 2022-03-18 | southwell R5                  | 6 Ocean Wilde         |   0    |    -10   |

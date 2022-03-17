@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-03-18 07:00:19 +1000  
+date: 2022-03-18 07:16:07 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:15             | 2022-03-18 | southwell R8                  | 2 Tudor Queen         |  15    |      -10 |
+| 0                 | 2022-03-18 | southwell R8                  | 2 Tudor Queen         |   0    |      -10 |
 | 0                 | 2022-03-18 | wolverhampton R3              | 6 Good Listener       |   0    |      -10 |
 | 0                 | 2022-03-18 | southwell R3                  | 6 Dark Company        |   0    |      -10 |
 | 0                 | 2022-03-18 | down-royal R6                 | 4 I Often Wonder      |   0    |      -10 |
