@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-17 13:54:21 +1000  
+date: 2022-03-17 14:09:17 +1000  
 ---   
 
 
@@ -9,9 +9,9 @@ date: 2022-03-17 13:54:21 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      4 |      1 |       -9 | 0.25 | -0.22 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      0 |      -50 | 0    | -1    |
@@ -142,6 +142,6 @@ date: 2022-03-17 13:54:21 +1000
 | 61 | :soon:            | 2022-03-17 14:34:00 | ipswich         |      2 |        2 | Takunai            |  13    | vulture,pangea       |
 | 62 | :soon:            | 2022-03-17 14:25:00 | newcastle       |      3 |        1 | Field Legend       |   4.8  | jmac                 |
 | 63 | :soon:            | 2022-03-17 14:25:00 | newcastle       |      3 |        2 | Aton Of Delight    |   5.5  | wallbow              |
-| 64 | --                | 2022-03-17 13:50:00 | newcastle       |      2 |        5 | Peindre            |   3.1  | wallbow              |
+| 64 | :boom:            | 2022-03-17 13:50:00 | newcastle       |      2 |        5 | Peindre            |   3.1  | wallbow              |
 | 65 | :2nd_place_medal: | 2022-03-17 13:15:00 | newcastle       |      1 |        8 | Eva Daniela        |   2.35 | jmac                 |
 | 66 | :2nd_place_medal: | 2022-03-17 10:26:00 | ashburton       |      1 |        2 | So Amused          |   4.33 | looseknot            |

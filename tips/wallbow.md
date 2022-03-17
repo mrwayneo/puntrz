@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-03-17 13:54:11 +1000  
+date: 2022-03-17 14:09:07 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 | 17:30             | 2022-03-17 | newcastle R8         | 8 Endorsement      |  3.9  |      -10 |
 | 15:40             | 2022-03-17 | newcastle R5         | 6 Vaneto           | 10    |      -10 |
 | 14:25             | 2022-03-17 | newcastle R3         | 2 Aton Of Delight  |  5.5  |      -10 |
-| 0                 | 2022-03-17 | newcastle R2         | 5 Peindre          |  0    |      -10 |
+| :boom:            | 2022-03-17 | newcastle R2         | 5 Peindre          |  3.1  |       21 |
 | :boom:            | 2022-03-10 | canterbury R7        | 7 Gracilistyla     |  3    |       20 |
 | 4                 | 2022-03-04 | newcastle R7         | 4 Aramayo          |  6.5  |      -10 |
 | :2nd_place_medal: | 2022-03-04 | newcastle R3         | 2 Naval Seal       |  7    |      -10 |
