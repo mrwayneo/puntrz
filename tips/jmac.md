@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-17 16:42:16 +1000  
+date: 2022-03-17 16:57:18 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 16:55             | 2022-03-17 | newcastle R7         | 3 Never Talk         |  3.6  |    -10   |
+| 0                 | 2022-03-17 | newcastle R7         | 3 Never Talk         |  0    |    -10   |
 | :boom:            | 2022-03-17 | newcastle R4         | 7 West Of Africa     |  4.5  |     35   |
 | :2nd_place_medal: | 2022-03-17 | newcastle R3         | 1 Field Legend       |  4.8  |    -10   |
 | :2nd_place_medal: | 2022-03-17 | newcastle R1         | 8 Eva Daniela        |  2.35 |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-17 16:42:18 +1000  
+date: 2022-03-17 16:57:19 +1000  
 ---   
 
 
@@ -127,9 +127,9 @@ date: 2022-03-17 16:42:18 +1000
 | 46 | :soon:            | 2022-03-17 17:22:00 | albany          |      1 |        6 | Finest Clobber     |   1.85 | vulture              |
 | 47 | :soon:            | 2022-03-17 17:04:00 | ipswich         |      6 |        6 | Fast Talking       |   5    | pangea,overthrow     |
 | 48 | :soon:            | 2022-03-17 17:04:00 | ipswich         |      6 |        1 | Avowal             |   3.5  | evenodds,blackshadow |
-| 49 | :soon:            | 2022-03-17 16:55:00 | newcastle       |      7 |        3 | Never Talk         |   3.6  | jmac                 |
-| 50 | :soon:            | 2022-03-17 16:55:00 | newcastle       |      7 |       10 | Pippali            |  23    | pikey                |
-| 51 | :soon:            | 2022-03-17 16:55:00 | newcastle       |      7 |        9 | Mayrose            |   3.5  | milkman              |
+| 49 | --                | 2022-03-17 16:55:00 | newcastle       |      7 |        3 | Never Talk         |   3.6  | jmac                 |
+| 50 | --                | 2022-03-17 16:55:00 | newcastle       |      7 |       10 | Pippali            |  23    | pikey                |
+| 51 | --                | 2022-03-17 16:55:00 | newcastle       |      7 |        9 | Mayrose            |   3.5  | milkman              |
 | 52 | :2nd_place_medal: | 2022-03-17 15:40:00 | newcastle       |      5 |       12 | Shohei             |   3.4  | pikey                |
 | 53 | 5.0               | 2022-03-17 15:40:00 | newcastle       |      5 |        6 | Vaneto             |  10    | wallbow              |
 | 54 | 8.0               | 2022-03-17 15:12:00 | ipswich         |      3 |        1 | Carlin Trend       |  13    | evenodds,overthrow   |
