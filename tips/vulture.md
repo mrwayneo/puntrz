@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-03-18 07:16:00 +1000  
+date: 2022-03-18 07:30:12 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:30             | 2022-03-18 | wolverhampton R6              | 2 Canny Fettle        |   4.6  |    -10   |
+| 0                 | 2022-03-18 | wolverhampton R6              | 2 Canny Fettle        |   0    |    -10   |
 | 0                 | 2022-03-18 | southwell R8                  | 4 True Icon           |   0    |    -10   |
 | 0                 | 2022-03-18 | wolverhampton R5              | 2 Dingle              |   0    |    -10   |
 | :2nd_place_medal: | 2022-03-18 | cheltenham R4                 | 9 Thyme Hill          |   5    |    -10   |
