@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-17 14:24:19 +1000  
+date: 2022-03-17 14:55:39 +1000  
 ---   
 
 
@@ -139,9 +139,9 @@ date: 2022-03-17 14:24:19 +1000
 | 58 | :soon:            | 2022-03-17 15:05:00 | newcastle       |      4 |        2 | Ferrari Man        |   8    | looseknot            |
 | 59 | :soon:            | 2022-03-17 15:05:00 | newcastle       |      4 |       11 | Raging Climax      |  16    | pikey                |
 | 60 | :soon:            | 2022-03-17 15:05:00 | newcastle       |      4 |        7 | West Of Africa     |   4.5  | jmac                 |
-| 61 | :soon:            | 2022-03-17 14:34:00 | ipswich         |      2 |        2 | Takunai            |  13    | vulture,pangea       |
-| 62 | :soon:            | 2022-03-17 14:25:00 | newcastle       |      3 |        1 | Field Legend       |   4.8  | jmac                 |
-| 63 | :soon:            | 2022-03-17 14:25:00 | newcastle       |      3 |        2 | Aton Of Delight    |   5.5  | wallbow              |
+| 61 | --                | 2022-03-17 14:34:00 | ipswich         |      2 |        2 | Takunai            |  13    | vulture,pangea       |
+| 62 | --                | 2022-03-17 14:25:00 | newcastle       |      3 |        1 | Field Legend       |   4.8  | jmac                 |
+| 63 | --                | 2022-03-17 14:25:00 | newcastle       |      3 |        2 | Aton Of Delight    |   5.5  | wallbow              |
 | 64 | :boom:            | 2022-03-17 13:50:00 | newcastle       |      2 |        5 | Peindre            |   3.1  | wallbow              |
 | 65 | :2nd_place_medal: | 2022-03-17 13:15:00 | newcastle       |      1 |        8 | Eva Daniela        |   2.35 | jmac                 |
 | 66 | :2nd_place_medal: | 2022-03-17 10:26:00 | ashburton       |      1 |        2 | So Amused          |   4.33 | looseknot            |
