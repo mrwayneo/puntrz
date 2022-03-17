@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-17 15:55:37 +1000  
+date: 2022-03-17 16:10:28 +1000  
 ---   
 
 
@@ -130,8 +130,8 @@ date: 2022-03-17 15:55:37 +1000
 | 49 | :soon:            | 2022-03-17 16:55:00 | newcastle       |      7 |        3 | Never Talk         |   3.6  | jmac                 |
 | 50 | :soon:            | 2022-03-17 16:55:00 | newcastle       |      7 |       10 | Pippali            |  23    | pikey                |
 | 51 | :soon:            | 2022-03-17 16:55:00 | newcastle       |      7 |        9 | Mayrose            |   3.5  | milkman              |
-| 52 | --                | 2022-03-17 15:40:00 | newcastle       |      5 |       12 | Shohei             |   3.4  | pikey                |
-| 53 | --                | 2022-03-17 15:40:00 | newcastle       |      5 |        6 | Vaneto             |  10    | wallbow              |
+| 52 | :2nd_place_medal: | 2022-03-17 15:40:00 | newcastle       |      5 |       12 | Shohei             |   3.4  | pikey                |
+| 53 | 5.0               | 2022-03-17 15:40:00 | newcastle       |      5 |        6 | Vaneto             |  10    | wallbow              |
 | 54 | 8.0               | 2022-03-17 15:12:00 | ipswich         |      3 |        1 | Carlin Trend       |  13    | evenodds,overthrow   |
 | 55 | 5.0               | 2022-03-17 15:12:00 | ipswich         |      3 |        2 | A Good Chance      |  18    | looseknot            |
 | 56 | :3rd_place_medal: | 2022-03-17 15:12:00 | ipswich         |      3 |        5 | Miss Barty         |   4.33 | evenodds,overthrow   |
