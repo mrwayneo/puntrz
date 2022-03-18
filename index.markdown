@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-18 16:45:12 +1000  
+date: 2022-03-18 16:59:57 +1000  
 ---   
 
 
@@ -135,7 +135,7 @@ date: 2022-03-18 16:45:12 +1000
 | 54 | :soon:            | 2022-03-18 18:08:00 | townsville     |      9 |        9 | Norwegian Wood     |  11    | cosmo,bluey          |
 | 55 | :soon:            | 2022-03-18 18:08:00 | townsville     |      9 |        3 | The Grove          |   2.75 | vulture              |
 | 56 | :soon:            | 2022-03-18 18:08:00 | townsville     |      9 |        2 | Rigel              |   6    | pangea               |
-| 57 | :soon:            | 2022-03-18 16:53:00 | townsville     |      7 |        7 | Arise My Son       |   2.3  | evenodds,blackshadow |
+| 57 | 4.0               | 2022-03-18 16:53:00 | townsville     |      7 |        7 | Arise My Son       |   2.3  | evenodds,blackshadow |
 | 58 | :boom:            | 2022-03-18 16:40:00 | terang         |      7 |        5 | Darzela            |   1.33 | vulture              |
 | 59 | :3rd_place_medal: | 2022-03-18 15:33:00 | townsville     |      5 |        2 | Louis January      |   2    | vulture              |
 | 60 | :boom:            | 2022-03-18 12:57:00 | townsville     |      1 |        1 | Missile Thunder    |   1.14 | milkman              |
