@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-03-18 15:30:36 +1000  
+date: 2022-03-18 15:44:28 +1000  
 categories: None 
 ---   
 
@@ -215,8 +215,8 @@ categories: None
 | 8                 | 2021-12-01 | launceston R7                 | 2 Judge Burns         |  8    |    -10   |
 | :boom:            | 2021-12-01 | launceston R6                 | 4 Weldborough         |  7.7  |     67   |
 | :boom:            | 2021-11-27 | alice-springs R2              | 4 Valenciano          |  6.5  |     55   |
-| :3rd_place_medal: | 2021-11-27 | caulfield R7                  | 4 Wentwood            | 26    |    -10   |
 | :2nd_place_medal: | 2021-11-27 | caulfield R7                  | 6 Dr Drill            | 19    |    -10   |
+| :3rd_place_medal: | 2021-11-27 | caulfield R7                  | 4 Wentwood            | 26    |    -10   |
 | :boom:            | 2021-11-27 | ascot R1                      | 1 The Front Bar       |  2.2  |     12   |
 | 99                | 2021-11-25 | kempton R6                    | 10 Lady Rockstar      |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-23 | cairns R4                     | 1 Verbalizer          |  2.3  |    -10   |
@@ -337,8 +337,8 @@ categories: None
 | 7                 | 2021-09-25 | toowoomba R1                  | 3 Better Ethics       | 16    |    -10   |
 | :2nd_place_medal: | 2021-09-24 | moonee-valley R7              | 3 The Inferno         |  6    |    -10   |
 | :3rd_place_medal: | 2021-09-22 | goodwood R2                   | 3 Kettle Hill         |  3    |    -10   |
-| :2nd_place_medal: | 2021-09-22 | gosford R5                    | 1 Jazzland            |  9    |    -10   |
 | 4                 | 2021-09-22 | gosford R5                    | 5 Mightybeel          |  6.5  |    -10   |
+| :2nd_place_medal: | 2021-09-22 | gosford R5                    | 1 Jazzland            |  9    |    -10   |
 | :3rd_place_medal: | 2021-09-22 | gosford R4                    | 7 Fastconi            |  6    |    -10   |
 | :3rd_place_medal: | 2021-09-21 | beaudesert R7                 | 5 Brazen Dynamo       |  0    |    -10   |
 | :2nd_place_medal: | 2021-09-19 | devonport-synthetic R8        | 1 Fragment            | 12    |    -10   |
@@ -383,8 +383,8 @@ categories: None
 | 10                | 2021-09-04 | eagle-farm R9                 | 1 Vinco               |  5    |    -10   |
 | 8                 | 2021-09-04 | belmont R5                    | 3 Campese             |  2.05 |    -10   |
 | 8                 | 2021-09-04 | barcaldine R7                 | 6 No Refund           | 21    |    -10   |
-| :3rd_place_medal: | 2021-09-04 | eagle-farm R7                 | 3 Ready Babe          | 18    |    -10   |
 | :boom:            | 2021-09-04 | eagle-farm R7                 | 4 Ingear              |  2.5  |     15   |
+| :3rd_place_medal: | 2021-09-04 | eagle-farm R7                 | 3 Ready Babe          | 18    |    -10   |
 | :2nd_place_medal: | 2021-09-04 | belmont R3                    | 2 Dunbar              |  2.8  |    -10   |
 | :3rd_place_medal: | 2021-09-04 | randwick R7                   | 5 Star of the Seas    | 11    |    -10   |
 | 4                 | 2021-09-04 | newcastle R4                  | 5 False Step          | 10    |    -10   |
