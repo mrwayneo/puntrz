@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-18 20:09:24 +1000  
+date: 2022-03-18 20:16:34 +1000  
 ---   
 
 
@@ -122,10 +122,10 @@ date: 2022-03-18 20:09:24 +1000
 | 41 | :soon:                   | 2022-03-18 20:45:00 | moonee-valley  |      6 |        8 | Zoushine           |  13    | benny,pangea         |
 | 42 | :soon:                   | 2022-03-18 20:45:00 | moonee-valley  |      6 |        2 | Pintoff            |   8.5  | pangea,milkman       |
 | 43 | :soon:                   | 2022-03-18 20:45:00 | moonee-valley  |      6 |        9 | In The Boat        |   2.6  | pangea               |
-| 44 | :soon:                   | 2022-03-18 20:15:00 | moonee-valley  |      5 |        6 | Gaze Grise         |   5    | benny,icyhot         |
-| 45 | :hourglass_flowing_sand: | 2022-03-18 20:00:00 | sunshine-coast |      3 |        6 | I Am Fearless      |   5.5  | milkman              |
-| 46 | --                       | 2022-03-18 19:45:00 | moonee-valley  |      4 |        3 | My Delight         |   6.5  | pangea               |
-| 47 | --                       | 2022-03-18 19:38:00 | geraldton      |      6 |        4 | Eliminate          |   2.62 | pangea               |
+| 44 | :hourglass_flowing_sand: | 2022-03-18 20:15:00 | moonee-valley  |      5 |        6 | Gaze Grise         |   5    | benny,icyhot         |
+| 45 | --                       | 2022-03-18 20:00:00 | sunshine-coast |      3 |        6 | I Am Fearless      |   5.5  | milkman              |
+| 46 | 5.0                      | 2022-03-18 19:45:00 | moonee-valley  |      4 |        3 | My Delight         |   6.5  | pangea               |
+| 47 | 5.0                      | 2022-03-18 19:38:00 | geraldton      |      6 |        4 | Eliminate          |   2.62 | pangea               |
 | 48 | 4.0                      | 2022-03-18 19:15:00 | moonee-valley  |      3 |        2 | Eaglemont          |   2.4  | vulture,pangea       |
 | 49 | --                       | 2022-03-18 19:15:00 | moonee-valley  |      3 |        7 | Ayahuasca          |   3.4  | pangea               |
 | 50 | :boom:                   | 2022-03-18 19:15:00 | moonee-valley  |      3 |        4 | Major Artie        |   7    | pangea               |
