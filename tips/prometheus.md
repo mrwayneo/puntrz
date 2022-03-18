@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-03-19 07:00:47 +1000  
+date: 2022-03-19 07:31:58 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:15             | 2022-03-19 | newcastle R6                  | 1 Gowanlad            |   2.8  |    -10   |
+| 0                 | 2022-03-19 | newcastle R6                  | 1 Gowanlad            |   0    |    -10   |
 | :2nd_place_medal: | 2022-03-19 | newcastle R4                  | 5 Lucia Joy           |   3.12 |    -10   |
 | :2nd_place_medal: | 2022-03-19 | newcastle R3                  | 7 Shades Of Summer    |   3    |    -10   |
 | 0                 | 2022-03-19 | fairview R8                   | 15 Toureiro           |   0    |    -10   |

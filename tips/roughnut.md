@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-03-19 07:00:50 +1000  
+date: 2022-03-19 07:32:00 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:15             | 2022-03-19 | newcastle R6                  | 7 Mews House          |  11    |    -10   |
+| 0                 | 2022-03-19 | newcastle R6                  | 7 Mews House          |   0    |    -10   |
 | 4                 | 2022-03-19 | wolverhampton R4              | 7 Dansemai            |  15    |    -10   |
 | 0                 | 2022-03-19 | wolverhampton R3              | 3 Isladaay            |   0    |    -10   |
 | 0                 | 2022-03-19 | newcastle R1                  | 8 Haven Lady          |   0    |    -10   |
