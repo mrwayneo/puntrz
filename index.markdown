@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-18 19:07:11 +1000  
+date: 2022-03-18 19:22:45 +1000  
 ---   
 
 
@@ -15,10 +15,10 @@ date: 2022-03-18 19:07:11 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      4 |      0 |      -40 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     17 |      1 |      -49 | 0.06 | -0.29 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     15 |      1 |     -139 | 0.07 | -0.93 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     17 |      0 |     -170 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      1 |     -224 | 0.04 | -0.93 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      2 |     -199 | 0.08 | -0.83 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     25 |      0 |     -250 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      1 |     -267 | 0.04 | -0.95 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     39 |      4 |     -305 | 0.1  | -0.78 |
@@ -126,10 +126,10 @@ date: 2022-03-18 19:07:11 +1000
 | 45 | :soon:            | 2022-03-18 20:00:00 | sunshine-coast |      3 |        6 | I Am Fearless      |   5.5  | milkman              |
 | 46 | :soon:            | 2022-03-18 19:45:00 | moonee-valley  |      4 |        3 | My Delight         |   6.5  | pangea               |
 | 47 | :soon:            | 2022-03-18 19:38:00 | geraldton      |      6 |        4 | Eliminate          |   2.62 | pangea               |
-| 48 | :soon:            | 2022-03-18 19:15:00 | moonee-valley  |      3 |        2 | Eaglemont          |   2.4  | vulture,pangea       |
-| 49 | :soon:            | 2022-03-18 19:15:00 | moonee-valley  |      3 |        7 | Ayahuasca          |   3.4  | pangea               |
-| 50 | :soon:            | 2022-03-18 19:15:00 | moonee-valley  |      3 |        4 | Major Artie        |   7    | pangea               |
-| 51 | :soon:            | 2022-03-18 19:08:00 | geraldton      |      5 |        3 | Blackwater Bay     |   2.62 | vulture              |
+| 48 | 4.0               | 2022-03-18 19:15:00 | moonee-valley  |      3 |        2 | Eaglemont          |   2.4  | vulture,pangea       |
+| 49 | --                | 2022-03-18 19:15:00 | moonee-valley  |      3 |        7 | Ayahuasca          |   3.4  | pangea               |
+| 50 | :boom:            | 2022-03-18 19:15:00 | moonee-valley  |      3 |        4 | Major Artie        |   7    | pangea               |
+| 51 | :boom:            | 2022-03-18 19:08:00 | geraldton      |      5 |        3 | Blackwater Bay     |   2.62 | vulture              |
 | 52 | 8.0               | 2022-03-18 18:45:00 | moonee-valley  |      2 |        7 | Maha's Choice      |   6    | vulture              |
 | 53 | 6.0               | 2022-03-18 18:45:00 | moonee-valley  |      2 |        3 | Rebel's Choice     |   4.8  | vulture,milkman      |
 | 54 | 7.0               | 2022-03-18 18:08:00 | townsville     |      9 |        9 | Norwegian Wood     |  11    | cosmo,bluey          |
