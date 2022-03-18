@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-18 14:30:48 +1000  
+date: 2022-03-18 14:45:44 +1000  
 ---   
 
 
@@ -9,10 +9,10 @@ date: 2022-03-18 14:30:48 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      2 |      1 |       -2 | 0.5  | -0.1  |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
-| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      4 |      0 |      -40 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 | 0    | -1    |
@@ -21,7 +21,7 @@ date: 2022-03-18 14:30:48 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      0 |     -240 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     25 |      0 |     -250 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      1 |     -267 | 0.04 | -0.95 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     39 |      1 |     -377 | 0.03 | -0.97 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     39 |      2 |     -359 | 0.05 | -0.92 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     48 |      0 |     -480 | 0    | -1    |
 
 ##### Form Last 20 tips   
