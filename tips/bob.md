@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-03-18 21:32:53 +1000  
+date: 2022-03-18 21:47:23 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
 | 00:10             | 2022-03-19 | fakenham R1                   | 7 Fae The Port        |  19    |    -10   |
 | :2nd_place_medal: | 2022-03-18 | moonee-valley R7              | 8 Can't Go Wong       |  29    |    -10   |
-| 0                 | 2022-03-18 | moonee-valley R7              | 5 The Cunning Fox     |   0    |    -10   |
+| 7                 | 2022-03-18 | moonee-valley R7              | 5 The Cunning Fox     |  23    |    -10   |
 | 11                | 2022-03-18 | townsville R8                 | 3 Supreme Prince      |  31    |    -10   |
 | 5                 | 2022-03-12 | ascot R5                      | 9 Outspoken Lad       |  16    |    -10   |
 | 5                 | 2022-03-05 | newcastle R1                  | 1 Read My Future      |  13    |    -10   |
@@ -39,9 +39,9 @@ categories: None
 | 9                 | 2022-01-20 | warrnambool R7                | 8 Prince Of Eagles    |  19    |    -10   |
 | 5                 | 2022-01-20 | plumpton R3                   | 7 Tzar De L'Elfe      |  21    |    -10   |
 | 99                | 2022-01-15 | fairyhouse R1                 | 9 Longacre Square     |   0    |    -10   |
-| 9                 | 2022-01-15 | flemington R4                 | 6 Think Bold          |  20    |    -10   |
-| :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
 | 13                | 2022-01-15 | flemington R4                 | 10 Tuki Twelve        |  41    |    -10   |
+| :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
+| 9                 | 2022-01-15 | flemington R4                 | 6 Think Bold          |  20    |    -10   |
 | 99                | 2022-01-11 | taunton R3                    | 14 Drag Race          |   0    |    -10   |
 | 4                 | 2022-01-10 | fairyhouse R2                 | 6 Crossgales Ophelia  |   0    |    -10   |
 | 7                 | 2022-01-09 | port-lincoln R5               | 8 Hand to Hand        |  29    |    -10   |
