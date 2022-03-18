@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-03-19 07:47:11 +1000  
+date: 2022-03-19 09:20:39 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 16:32             | 2022-03-19 | morphettville-parks R7 | 9 Cassowary           |  16   |      -10 |
+| 16:08             | 2022-03-19 | ascot R2               | 10 Art Admirer        |  26   |      -10 |
 | 7                 | 2022-03-18 | townsville R9          | 9 Norwegian Wood      |  11   |      -10 |
 | 0                 | 2022-03-12 | newcastle R2           | 4 Cliffs Of Dooneen   |   0   |      -10 |
 | :boom:            | 2022-03-11 | muswellbrook R3        | 5 Magic On Ice        |   5.9 |       49 |

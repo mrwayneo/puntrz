@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-19 07:47:11 +1000  
+date: 2022-03-19 09:20:39 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,12 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 17:55             | 2022-03-19 | rosehill-gardens R10  | 9 Mallory             |   5    |    -10   |
+| 16:00             | 2022-03-19 | rosehill-gardens R7   | 12 Hilal              |   9    |    -10   |
+| 14:40             | 2022-03-19 | rosehill-gardens R5   | 1 Angel of Truth      |  10    |    -10   |
+| 14:00             | 2022-03-19 | rosehill-gardens R4   | 5 Nerve Not Verve     |   9.5  |    -10   |
+| 12:45             | 2022-03-19 | rosehill-gardens R2   | 14 Smirnova           |   7.5  |    -10   |
+| 12:10             | 2022-03-19 | rosehill-gardens R1   | 10 Catapult           |  13    |    -10   |
 | 9                 | 2022-03-17 | newcastle R8          | 5 Kaptive             |  14    |    -10   |
 | :3rd_place_medal: | 2022-03-17 | newcastle R7          | 10 Pippali            |  23    |    -10   |
 | :2nd_place_medal: | 2022-03-17 | newcastle R5          | 12 Shohei             |   3.4  |    -10   |
