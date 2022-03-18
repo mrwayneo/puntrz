@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-18 20:31:40 +1000  
+date: 2022-03-18 20:46:59 +1000  
 ---   
 
 
@@ -119,11 +119,11 @@ date: 2022-03-18 20:31:40 +1000
 | 38 | :soon:            | 2022-03-18 21:00:00 | sunshine-coast |      5 |        2 | Lord Markel        |   4.5  | pangea               |
 | 39 | :soon:            | 2022-03-18 21:00:00 | sunshine-coast |      5 |        8 | Rising Fire        |   3.5  | milkman              |
 | 40 | :soon:            | 2022-03-18 21:00:00 | sunshine-coast |      5 |        1 | Tavis Town         |   8.5  | pangea               |
-| 41 | :soon:            | 2022-03-18 20:45:00 | moonee-valley  |      6 |        8 | Zoushine           |  13    | benny,pangea         |
-| 42 | :soon:            | 2022-03-18 20:45:00 | moonee-valley  |      6 |        2 | Pintoff            |   8.5  | pangea,milkman       |
-| 43 | :soon:            | 2022-03-18 20:45:00 | moonee-valley  |      6 |        9 | In The Boat        |   2.6  | pangea               |
-| 44 | --                | 2022-03-18 20:15:00 | moonee-valley  |      5 |        6 | Gaze Grise         |   5    | benny,icyhot         |
-| 45 | --                | 2022-03-18 20:00:00 | sunshine-coast |      3 |        6 | I Am Fearless      |   5.5  | milkman              |
+| 41 | --                | 2022-03-18 20:45:00 | moonee-valley  |      6 |        8 | Zoushine           |  13    | benny,pangea         |
+| 42 | --                | 2022-03-18 20:45:00 | moonee-valley  |      6 |        2 | Pintoff            |   8.5  | pangea,milkman       |
+| 43 | --                | 2022-03-18 20:45:00 | moonee-valley  |      6 |        9 | In The Boat        |   2.6  | pangea               |
+| 44 | 6.0               | 2022-03-18 20:15:00 | moonee-valley  |      5 |        6 | Gaze Grise         |   5    | benny,icyhot         |
+| 45 | 6.0               | 2022-03-18 20:00:00 | sunshine-coast |      3 |        6 | I Am Fearless      |   5.5  | milkman              |
 | 46 | 5.0               | 2022-03-18 19:45:00 | moonee-valley  |      4 |        3 | My Delight         |   6.5  | pangea               |
 | 47 | 5.0               | 2022-03-18 19:38:00 | geraldton      |      6 |        4 | Eliminate          |   2.62 | pangea               |
 | 48 | 4.0               | 2022-03-18 19:15:00 | moonee-valley  |      3 |        2 | Eaglemont          |   2.4  | vulture,pangea       |
