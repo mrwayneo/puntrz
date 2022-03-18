@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-18 16:29:42 +1000  
+date: 2022-03-18 16:45:12 +1000  
 ---   
 
 
@@ -18,7 +18,7 @@ date: 2022-03-18 16:29:42 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     15 |      1 |     -139 | 0.07 | -0.93 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     17 |      0 |     -170 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      0 |     -240 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      1 |     -224 | 0.04 | -0.93 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     25 |      0 |     -250 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      1 |     -267 | 0.04 | -0.95 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     39 |      4 |     -305 | 0.1  | -0.78 |
@@ -136,6 +136,6 @@ date: 2022-03-18 16:29:42 +1000
 | 55 | :soon:            | 2022-03-18 18:08:00 | townsville     |      9 |        3 | The Grove          |   2.75 | vulture              |
 | 56 | :soon:            | 2022-03-18 18:08:00 | townsville     |      9 |        2 | Rigel              |   6    | pangea               |
 | 57 | :soon:            | 2022-03-18 16:53:00 | townsville     |      7 |        7 | Arise My Son       |   2.3  | evenodds,blackshadow |
-| 58 | :soon:            | 2022-03-18 16:40:00 | terang         |      7 |        5 | Darzela            |   1.33 | vulture              |
+| 58 | :boom:            | 2022-03-18 16:40:00 | terang         |      7 |        5 | Darzela            |   1.33 | vulture              |
 | 59 | :3rd_place_medal: | 2022-03-18 15:33:00 | townsville     |      5 |        2 | Louis January      |   2    | vulture              |
 | 60 | :boom:            | 2022-03-18 12:57:00 | townsville     |      1 |        1 | Missile Thunder    |   1.14 | milkman              |
