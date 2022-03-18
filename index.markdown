@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-18 21:47:25 +1000  
+date: 2022-03-18 22:01:11 +1000  
 ---   
 
 
@@ -112,7 +112,7 @@ date: 2022-03-18 21:47:25 +1000
 | 31 | :soon:            | 2022-03-19 00:30:00 | cheltenham     |      1 |        4 | Icare Allen        |  17    | vulture              |
 | 32 | :soon:            | 2022-03-19 00:20:00 | doncaster      |      1 |        3 | Confirmation Bias  |   7.5  | overthrow            |
 | 33 | :soon:            | 2022-03-19 00:10:00 | fakenham       |      1 |        7 | Fae The Port       |  19    | cosmo,bob            |
-| 34 | --                | 2022-03-18 21:30:00 | sunshine-coast |      6 |        2 | Dis Go Boom        |   2.35 | vulture              |
+| 34 | 6.0               | 2022-03-18 21:30:00 | sunshine-coast |      6 |        2 | Dis Go Boom        |   2.35 | vulture              |
 | 35 | 7.0               | 2022-03-18 21:15:00 | moonee-valley  |      7 |        5 | The Cunning Fox    |  23    | pangea,bob           |
 | 36 | :2nd_place_medal: | 2022-03-18 21:15:00 | moonee-valley  |      7 |        8 | Can't Go Wong      |  29    | overthrow,bob        |
 | 37 | 5.0               | 2022-03-18 21:15:00 | moonee-valley  |      7 |        3 | Lucky Decision     |   8.5  | vulture              |
