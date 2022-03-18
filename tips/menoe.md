@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-03-18 14:45:42 +1000  
+date: 2022-03-18 15:00:19 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 14:56             | 2022-03-18 | townsville R4          | 5 Kittykittybangbang |  1.9  |    -10   |
+| 0                 | 2022-03-18 | townsville R4          | 5 Kittykittybangbang |  0    |    -10   |
 | :boom:            | 2022-03-18 | goulburn R3            | 3 Red Hot            |  1.8  |      8   |
 | 0                 | 2022-03-12 | esperance-bay R4       | 1 Thehuntsmen        |  0    |    -10   |
 | :boom:            | 2022-02-08 | carlisle R5            | 4 Lady Tremaine      |  2    |     10   |
