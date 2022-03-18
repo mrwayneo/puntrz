@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-18 21:10:44 +1000  
+date: 2022-03-18 21:16:46 +1000  
 ---   
 
 
@@ -10,10 +10,10 @@ date: 2022-03-18 21:10:44 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      2 |      2 |       26 | 1    |  1.3  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     17 |      3 |        1 | 0.18 |  0.01 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     17 |      2 |      -27 | 0.12 | -0.16 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      4 |      0 |      -40 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 | 0    | -1    |
@@ -113,14 +113,14 @@ date: 2022-03-18 21:10:44 +1000
 | 32 | :soon:                   | 2022-03-19 00:20:00 | doncaster      |      1 |        3 | Confirmation Bias  |   7.5  | overthrow            |
 | 33 | :soon:                   | 2022-03-19 00:10:00 | fakenham       |      1 |        7 | Fae The Port       |  19    | cosmo,bob            |
 | 34 | :soon:                   | 2022-03-18 21:30:00 | sunshine-coast |      6 |        2 | Dis Go Boom        |   2.35 | vulture              |
-| 35 | :soon:                   | 2022-03-18 21:15:00 | moonee-valley  |      7 |        5 | The Cunning Fox    |  23    | pangea,bob           |
-| 36 | :soon:                   | 2022-03-18 21:15:00 | moonee-valley  |      7 |        8 | Can't Go Wong      |  29    | overthrow,bob        |
-| 37 | :soon:                   | 2022-03-18 21:15:00 | moonee-valley  |      7 |        3 | Lucky Decision     |   8.5  | vulture              |
-| 38 | :hourglass_flowing_sand: | 2022-03-18 21:00:00 | sunshine-coast |      5 |        2 | Lord Markel        |   4.5  | pangea               |
-| 39 | :hourglass_flowing_sand: | 2022-03-18 21:00:00 | sunshine-coast |      5 |        8 | Rising Fire        |   3.5  | milkman              |
-| 40 | :hourglass_flowing_sand: | 2022-03-18 21:00:00 | sunshine-coast |      5 |        1 | Tavis Town         |   8.5  | pangea               |
-| 41 | --                       | 2022-03-18 20:45:00 | moonee-valley  |      6 |        8 | Zoushine           |  13    | benny,pangea         |
-| 42 | --                       | 2022-03-18 20:45:00 | moonee-valley  |      6 |        2 | Pintoff            |   8.5  | pangea,milkman       |
+| 35 | :hourglass_flowing_sand: | 2022-03-18 21:15:00 | moonee-valley  |      7 |        5 | The Cunning Fox    |  23    | pangea,bob           |
+| 36 | :hourglass_flowing_sand: | 2022-03-18 21:15:00 | moonee-valley  |      7 |        8 | Can't Go Wong      |  29    | overthrow,bob        |
+| 37 | :hourglass_flowing_sand: | 2022-03-18 21:15:00 | moonee-valley  |      7 |        3 | Lucky Decision     |   8.5  | vulture              |
+| 38 | :boom:                   | 2022-03-18 21:00:00 | sunshine-coast |      5 |        2 | Lord Markel        |   4.5  | pangea               |
+| 39 | --                       | 2022-03-18 21:00:00 | sunshine-coast |      5 |        8 | Rising Fire        |   3.5  | milkman              |
+| 40 | :2nd_place_medal:        | 2022-03-18 21:00:00 | sunshine-coast |      5 |        1 | Tavis Town         |   8.5  | pangea               |
+| 41 | 7.0                      | 2022-03-18 20:45:00 | moonee-valley  |      6 |        8 | Zoushine           |  13    | benny,pangea         |
+| 42 | 6.0                      | 2022-03-18 20:45:00 | moonee-valley  |      6 |        2 | Pintoff            |   8.5  | pangea,milkman       |
 | 43 | :boom:                   | 2022-03-18 20:45:00 | moonee-valley  |      6 |        9 | In The Boat        |   2.6  | pangea               |
 | 44 | 6.0                      | 2022-03-18 20:15:00 | moonee-valley  |      5 |        6 | Gaze Grise         |   5    | benny,icyhot         |
 | 45 | 6.0                      | 2022-03-18 20:00:00 | sunshine-coast |      3 |        6 | I Am Fearless      |   5.5  | milkman              |
