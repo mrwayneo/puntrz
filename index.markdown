@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-18 18:00:41 +1000  
+date: 2022-03-18 18:16:12 +1000  
 ---   
 
 
@@ -132,9 +132,9 @@ date: 2022-03-18 18:00:41 +1000
 | 51 | :soon:            | 2022-03-18 19:08:00 | geraldton      |      5 |        3 | Blackwater Bay     |   2.62 | vulture              |
 | 52 | :soon:            | 2022-03-18 18:45:00 | moonee-valley  |      2 |        7 | Maha's Choice      |   6    | vulture              |
 | 53 | :soon:            | 2022-03-18 18:45:00 | moonee-valley  |      2 |        3 | Rebel's Choice     |   4.8  | vulture,milkman      |
-| 54 | :soon:            | 2022-03-18 18:08:00 | townsville     |      9 |        9 | Norwegian Wood     |  11    | cosmo,bluey          |
-| 55 | :soon:            | 2022-03-18 18:08:00 | townsville     |      9 |        3 | The Grove          |   2.75 | vulture              |
-| 56 | :soon:            | 2022-03-18 18:08:00 | townsville     |      9 |        2 | Rigel              |   6    | pangea               |
+| 54 | --                | 2022-03-18 18:08:00 | townsville     |      9 |        9 | Norwegian Wood     |  11    | cosmo,bluey          |
+| 55 | 4.0               | 2022-03-18 18:08:00 | townsville     |      9 |        3 | The Grove          |   2.75 | vulture              |
+| 56 | --                | 2022-03-18 18:08:00 | townsville     |      9 |        2 | Rigel              |   6    | pangea               |
 | 57 | 4.0               | 2022-03-18 16:53:00 | townsville     |      7 |        7 | Arise My Son       |   2.3  | evenodds,blackshadow |
 | 58 | :boom:            | 2022-03-18 16:40:00 | terang         |      7 |        5 | Darzela            |   1.33 | vulture              |
 | 59 | :3rd_place_medal: | 2022-03-18 15:33:00 | townsville     |      5 |        2 | Louis January      |   2    | vulture              |

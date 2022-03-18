@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-03-18 18:00:39 +1000  
+date: 2022-03-18 18:16:09 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 18:08             | 2022-03-18 | townsville R9          | 9 Norwegian Wood      |  11   |      -10 |
+| 0                 | 2022-03-18 | townsville R9          | 9 Norwegian Wood      |   0   |      -10 |
 | 0                 | 2022-03-12 | newcastle R2           | 4 Cliffs Of Dooneen   |   0   |      -10 |
 | :boom:            | 2022-03-11 | muswellbrook R3        | 5 Magic On Ice        |   5.9 |       49 |
 | 10                | 2022-03-06 | esperance-bay R4       | 6 Spring To Life      |  31   |      -10 |
