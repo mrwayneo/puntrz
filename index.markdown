@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-19 13:47:53 +1000  
+date: 2022-03-19 15:10:14 +1000  
 ---   
 
 
@@ -9,22 +9,22 @@ date: 2022-03-19 13:47:53 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      2 |     41   | 0.05 |  0.1  |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     88 |      3 |     -3   | 0.03 | -0    |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |    -10   | 0    | -1    |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |    -20   | 0    | -1    |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      0 |    -20   | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |    -30   | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |    -50   | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      5 |      0 |    -50   | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      6 |      0 |    -60   | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      0 |    -70   | 0    | -1    |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      8 |      0 |    -80   | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     21 |      3 |   -157.5 | 0.14 | -0.75 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      0 |   -280   | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      0 |   -410   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     48 |      1 |   -456.5 | 0.02 | -0.95 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     59 |      0 |   -590   | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      3 |      326 | 0.07 |  0.76 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     88 |      4 |      282 | 0.05 |  0.32 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 | 0    | -1    |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      0 |      -20 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      1 |      -35 | 0.14 | -0.5  |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |      -50 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      5 |      0 |      -50 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      8 |      1 |      -51 | 0.12 | -0.64 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      6 |      0 |      -60 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     21 |      4 |     -127 | 0.19 | -0.6  |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      2 |     -211 | 0.07 | -0.75 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     41 |      1 |     -381 | 0.02 | -0.93 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     48 |      2 |     -420 | 0.04 | -0.88 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     59 |      0 |     -590 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -159,28 +159,28 @@ date: 2022-03-19 13:47:53 +1000
 |  76 | :soon:            | 2022-03-19 15:15:00 | rosehill-gardens    |      6 |        3 | Profondo           |   5    | milkman            |
 |  77 | :soon:            | 2022-03-19 15:15:00 | rosehill-gardens    |      6 |        1 | Anamoe             |   1.8  | jmac               |
 |  78 | :soon:            | 2022-03-19 15:15:00 | rosehill-gardens    |      6 |        7 | Sinba              |  34    | milkman            |
-|  79 | :soon:            | 2022-03-19 15:07:00 | morphettville-parks |      5 |        4 | Octane             |   9.5  | vulture,pangea     |
-|  80 | :soon:            | 2022-03-19 15:03:00 | ipswich             |      4 |        3 | Uncle Russ         |   3.4  | overthrow          |
+|  79 | --                | 2022-03-19 15:07:00 | morphettville-parks |      5 |        4 | Octane             |   9.5  | vulture,pangea     |
+|  80 | :boom:            | 2022-03-19 15:03:00 | ipswich             |      4 |        3 | Uncle Russ         |   3.4  | overthrow          |
 |  81 | 103.0             | 2022-03-19 15:00:00 | kembla-grange       |      4 |        3 | Fleet Air Arm      |   0    | milkman            |
-|  82 | :soon:            | 2022-03-19 14:50:00 | trentham            |      8 |        1 | Self Obsession     |   2.4  | vulture,milkman    |
-|  83 | :soon:            | 2022-03-19 14:50:00 | trentham            |      8 |        9 | Le Villi           |   6    | milkman            |
-|  84 | :soon:            | 2022-03-19 14:48:00 | gold-coast          |      4 |       13 | Sayl               |   8.5  | evenodds,overthrow |
-|  85 | :soon:            | 2022-03-19 14:40:00 | rosehill-gardens    |      5 |        1 | Angel of Truth     |  10    | benny,pikey        |
-|  86 | :soon:            | 2022-03-19 14:40:00 | rosehill-gardens    |      5 |        5 | Verry Elleegant    |   1.3  | pangea,jmac        |
-|  87 | :soon:            | 2022-03-19 14:28:00 | ipswich             |      3 |        3 | American Saint     |   3.2  | evenodds,overthrow |
+|  82 | --                | 2022-03-19 14:50:00 | trentham            |      8 |        1 | Self Obsession     |   2.4  | vulture,milkman    |
+|  83 | --                | 2022-03-19 14:50:00 | trentham            |      8 |        9 | Le Villi           |   6    | milkman            |
+|  84 | --                | 2022-03-19 14:48:00 | gold-coast          |      4 |       13 | Sayl               |   8.5  | evenodds,overthrow |
+|  85 | :3rd_place_medal: | 2022-03-19 14:40:00 | rosehill-gardens    |      5 |        1 | Angel of Truth     |  10    | benny,pikey        |
+|  86 | :2nd_place_medal: | 2022-03-19 14:40:00 | rosehill-gardens    |      5 |        5 | Verry Elleegant    |   1.3  | pangea,jmac        |
+|  87 | :boom:            | 2022-03-19 14:28:00 | ipswich             |      3 |        3 | American Saint     |   3.2  | evenodds,overthrow |
 |  88 | 103.0             | 2022-03-19 14:25:00 | kembla-grange       |      3 |        2 | French Marine      |   4.4  | vulture            |
-|  89 | :soon:            | 2022-03-19 14:20:00 | flemington          |      4 |        8 | Chateau Nue        |   6    | milkman            |
-|  90 | :soon:            | 2022-03-19 14:20:00 | flemington          |      4 |        5 | Palani             |  13    | vulture            |
-|  91 | :soon:            | 2022-03-19 14:20:00 | flemington          |      4 |        4 | Pounding           |   2.9  | vulture,pangea     |
-|  92 | :soon:            | 2022-03-19 14:08:00 | trentham            |      7 |        6 | Okay Pal           |   8.5  | vulture            |
+|  89 | :2nd_place_medal: | 2022-03-19 14:20:00 | flemington          |      4 |        8 | Chateau Nue        |   6    | milkman            |
+|  90 | 4.0               | 2022-03-19 14:20:00 | flemington          |      4 |        5 | Palani             |  13    | vulture            |
+|  91 | :3rd_place_medal: | 2022-03-19 14:20:00 | flemington          |      4 |        4 | Pounding           |   2.9  | vulture,pangea     |
+|  92 | --                | 2022-03-19 14:08:00 | trentham            |      7 |        6 | Okay Pal           |   8.5  | vulture            |
 |  93 | 103.0             | 2022-03-19 14:04:00 | innisfail           |      3 |        3 | Sparkly Star       |   0    | pangea,moechilli   |
-|  94 | :soon:            | 2022-03-19 14:00:00 | rosehill-gardens    |      4 |        5 | Nerve Not Verve    |   9.5  | pikey              |
-|  95 | :soon:            | 2022-03-19 14:00:00 | rosehill-gardens    |      4 |        6 | Galaxy Belle       |   4    | vulture            |
-|  96 | :soon:            | 2022-03-19 13:52:00 | morphettville-parks |      3 |        6 | Daring Move        |   3.6  | benny,milkman      |
-|  97 | :soon:            | 2022-03-19 13:52:00 | morphettville-parks |      3 |        4 | Valaroc            |   6.5  | pangea,blackshadow |
+|  94 | :2nd_place_medal: | 2022-03-19 14:00:00 | rosehill-gardens    |      4 |        5 | Nerve Not Verve    |   9.5  | pikey              |
+|  95 | 7.0               | 2022-03-19 14:00:00 | rosehill-gardens    |      4 |        6 | Galaxy Belle       |   4    | vulture            |
+|  96 | :boom:            | 2022-03-19 13:52:00 | morphettville-parks |      3 |        6 | Daring Move        |   3.6  | benny,milkman      |
+|  97 | 5.0               | 2022-03-19 13:52:00 | morphettville-parks |      3 |        4 | Valaroc            |   6.5  | pangea,blackshadow |
 |  98 | 103.0             | 2022-03-19 13:45:00 | kembla-grange       |      2 |        2 | Tawfiq Lass        |   6    | pangea             |
 |  99 | :boom:            | 2022-03-19 13:40:00 | flemington          |      3 |        1 | Yonce              |   1.12 | milkman            |
-| 100 | --                | 2022-03-19 13:33:00 | gold-coast          |      2 |       14 | He Knows           |   9.5  | vulture            |
+| 100 | 9.0               | 2022-03-19 13:33:00 | gold-coast          |      2 |       14 | He Knows           |   9.5  | vulture            |
 | 101 | :boom:            | 2022-03-19 13:33:00 | trentham            |      6 |        8 | Imperatriz         |   2.3  | vulture,milkman    |
 | 102 | 4.0               | 2022-03-19 13:33:00 | trentham            |      6 |        4 | Mohawk Brave       |  13    | vulture,milkman    |
 | 103 | :2nd_place_medal: | 2022-03-19 13:33:00 | gold-coast          |      2 |        5 | Already Blessed    |  13    | pangea             |

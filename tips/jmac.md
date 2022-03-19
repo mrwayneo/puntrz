@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-19 13:47:51 +1000  
+date: 2022-03-19 15:10:12 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 17:55             | 2022-03-19 | rosehill-gardens R10 | 1 Steinem            |  4.33 |    -10   |
 | 16:00             | 2022-03-19 | rosehill-gardens R7  | 8 Colette            |  4.4  |    -10   |
 | 15:15             | 2022-03-19 | rosehill-gardens R6  | 1 Anamoe             |  1.8  |    -10   |
-| 14:40             | 2022-03-19 | rosehill-gardens R5  | 5 Verry Elleegant    |  1.3  |    -10   |
+| :2nd_place_medal: | 2022-03-19 | rosehill-gardens R5  | 5 Verry Elleegant    |  1.3  |    -10   |
 | 6                 | 2022-03-19 | rosehill-gardens R2  | 9 Minsk Moment       |  9.5  |    -10   |
 | :boom:            | 2022-03-17 | newcastle R7         | 3 Never Talk         |  3.6  |     26   |
 | :boom:            | 2022-03-17 | newcastle R4         | 7 West Of Africa     |  4.5  |     35   |
