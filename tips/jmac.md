@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-19 15:10:12 +1000  
+date: 2022-03-20 01:01:50 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      2 |     41   | 0.5  |  1.02 |
-| Last 28 Days   |     49 |      6 |   -294   | 0.12 | -0.6  |
-| Last 6 Months  |    298 |     72 |   -520.5 | 0.24 | -0.17 |
-| Since Jan 2020 |    702 |    172 |   -507.5 | 0.25 | -0.07 |
+| Last 7 Days    |      9 |      3 |      7   | 0.33 |  0.08 |
+| Last 28 Days   |     54 |      7 |   -328   | 0.13 | -0.61 |
+| Last 6 Months  |    303 |     73 |   -554.5 | 0.24 | -0.18 |
+| Since Jan 2020 |    707 |    173 |   -541.5 | 0.24 | -0.08 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 17:55             | 2022-03-19 | rosehill-gardens R10 | 1 Steinem            |  4.33 |    -10   |
-| 16:00             | 2022-03-19 | rosehill-gardens R7  | 8 Colette            |  4.4  |    -10   |
-| 15:15             | 2022-03-19 | rosehill-gardens R6  | 1 Anamoe             |  1.8  |    -10   |
+| :3rd_place_medal: | 2022-03-19 | rosehill-gardens R10 | 1 Steinem            |  4.33 |    -10   |
+| :2nd_place_medal: | 2022-03-19 | rosehill-gardens R7  | 8 Colette            |  4.4  |    -10   |
+| :boom:            | 2022-03-19 | rosehill-gardens R6  | 1 Anamoe             |  1.6  |      6   |
 | :2nd_place_medal: | 2022-03-19 | rosehill-gardens R5  | 5 Verry Elleegant    |  1.3  |    -10   |
 | 6                 | 2022-03-19 | rosehill-gardens R2  | 9 Minsk Moment       |  9.5  |    -10   |
 | :boom:            | 2022-03-17 | newcastle R7         | 3 Never Talk         |  3.6  |     26   |

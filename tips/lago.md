@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-19 15:10:12 +1000  
+date: 2022-03-20 01:01:51 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      1 |    -20   | 0.2  | -0.4  |
-| Last 28 Days   |     20 |      8 |     26.5 | 0.4  |  0.13 |
-| Last 6 Months  |    123 |     60 |    380.7 | 0.49 |  0.31 |
-| Since Jan 2020 |    232 |    113 |   1380.7 | 0.49 |  0.6  |
+| Last 7 Days    |      6 |      1 |    -30   | 0.17 | -0.5  |
+| Last 28 Days   |     21 |      8 |     16.5 | 0.38 |  0.08 |
+| Last 6 Months  |    124 |     60 |    370.7 | 0.48 |  0.3  |
+| Since Jan 2020 |    233 |    113 |   1370.7 | 0.48 |  0.59 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
@@ -46,8 +46,8 @@ categories: None
 | 0                 | 2022-02-07 | leopardstown R8              | 14 Pink In The Park  |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6            | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5                | 1 Bello Beau         |  2    |     10   |
-| :boom:            | 2022-02-06 | leopardstown R7              | 5 Facile Vega        |  1.73 |      7.3 |
 | 0                 | 2022-02-06 | leopardstown R7              | 4 Embassy Gardens    |  0    |    -10   |
+| :boom:            | 2022-02-06 | leopardstown R7              | 5 Facile Vega        |  1.73 |      7.3 |
 | 0                 | 2022-02-06 | leopardstown R1              | 1 Bronn              |  0    |    -10   |
 | :boom:            | 2022-02-02 | sandown-lakeside R1          | 7 Ruthless Dame      |  0    |    -10   |
 | :2nd_place_medal: | 2022-02-02 | ffos-las R7                  | 7 Tahmuras           |  0    |    -10   |

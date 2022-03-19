@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-19 15:10:12 +1000  
+date: 2022-03-20 01:01:51 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      0 |      -60 | 0    | -1    |
-| Last 28 Days   |     53 |      5 |     -140 | 0.09 | -0.26 |
-| Last 6 Months  |    409 |    104 |     -802 | 0.25 | -0.2  |
-| Since Jan 2020 |   1042 |    257 |    -1731 | 0.25 | -0.17 |
+| Last 7 Days    |     10 |      0 |     -100 | 0    | -1    |
+| Last 28 Days   |     59 |      5 |     -200 | 0.08 | -0.34 |
+| Last 6 Months  |    415 |    104 |     -862 | 0.25 | -0.21 |
+| Since Jan 2020 |   1048 |    257 |    -1791 | 0.25 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 17:55             | 2022-03-19 | rosehill-gardens R10  | 9 Mallory             |   5    |    -10   |
-| 16:00             | 2022-03-19 | rosehill-gardens R7   | 12 Hilal              |   9    |    -10   |
+| 4                 | 2022-03-19 | rosehill-gardens R10  | 9 Mallory             |   5    |    -10   |
+| 7                 | 2022-03-19 | rosehill-gardens R7   | 12 Hilal              |   9    |    -10   |
 | :3rd_place_medal: | 2022-03-19 | rosehill-gardens R5   | 1 Angel of Truth      |  10    |    -10   |
 | :2nd_place_medal: | 2022-03-19 | rosehill-gardens R4   | 5 Nerve Not Verve     |   9.5  |    -10   |
 | :3rd_place_medal: | 2022-03-19 | rosehill-gardens R2   | 14 Smirnova           |   7.5  |    -10   |

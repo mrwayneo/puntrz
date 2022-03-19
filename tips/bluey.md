@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-03-19 15:10:12 +1000  
+date: 2022-03-20 01:01:51 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
-| Last 28 Days   |      5 |      1 |        9 | 0.2  |  0.18 |
-| Last 6 Months  |     99 |     17 |     1912 | 0.17 |  1.93 |
-| Since Jan 2020 |    241 |     43 |     4759 | 0.18 |  1.97 |
+| Last 7 Days    |      3 |      0 |      -30 | 0    | -1    |
+| Last 28 Days   |      7 |      1 |      -11 | 0.14 | -0.16 |
+| Last 6 Months  |    101 |     17 |     1892 | 0.17 |  1.87 |
+| Since Jan 2020 |    243 |     43 |     4739 | 0.18 |  1.95 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 16:32             | 2022-03-19 | morphettville-parks R7 | 9 Cassowary           |  16   |      -10 |
-| 16:08             | 2022-03-19 | ascot R2               | 10 Art Admirer        |  26   |      -10 |
+| :3rd_place_medal: | 2022-03-19 | morphettville-parks R7 | 9 Cassowary           |  16   |      -10 |
+| 4                 | 2022-03-19 | ascot R2               | 10 Art Admirer        |  26   |      -10 |
 | 7                 | 2022-03-18 | townsville R9          | 9 Norwegian Wood      |  11   |      -10 |
 | 0                 | 2022-03-12 | newcastle R2           | 4 Cliffs Of Dooneen   |   0   |      -10 |
 | :boom:            | 2022-03-11 | muswellbrook R3        | 5 Magic On Ice        |   5.9 |       49 |
