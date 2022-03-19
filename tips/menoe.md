@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-03-20 01:01:51 +1000  
+date: 2022-03-20 10:05:27 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 03:10             | 2022-03-21 | chepstow R5            | 3 Whitehotchillifili |  1.9  |    -10   |
 | :boom:            | 2022-03-18 | townsville R4          | 5 Kittykittybangbang |  2.8  |     18   |
 | :boom:            | 2022-03-18 | goulburn R3            | 3 Red Hot            |  1.8  |      8   |
 | 0                 | 2022-03-12 | esperance-bay R4       | 1 Thehuntsmen        |  0    |    -10   |

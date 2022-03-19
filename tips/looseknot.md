@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-03-20 01:01:45 +1000  
+date: 2022-03-20 10:05:23 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:00             | 2022-03-20 | kempton R7                    | 5 Diamond Egg         |   3.5  |    -10   |
-| 03:18             | 2022-03-20 | newcastle R5                  | 10 Ballintogher Boy   |   7    |    -10   |
+| 0                 | 2022-03-20 | kempton R7                    | 5 Diamond Egg         |   0    |    -10   |
+| 0                 | 2022-03-20 | newcastle R5                  | 10 Ballintogher Boy   |   0    |    -10   |
 | 4                 | 2022-03-18 | wolverhampton R4              | 6 Sharac              |   8.5  |    -10   |
 | :2nd_place_medal: | 2022-03-18 | wolverhampton R4              | 5 Rebel Love          |   9.5  |    -10   |
 | 0                 | 2022-03-18 | southwell R5                  | 9 Sword Exceed        |   0    |    -10   |
