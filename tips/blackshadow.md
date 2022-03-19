@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-03-19 12:18:19 +1000  
+date: 2022-03-19 12:33:24 +1000  
 categories: None 
 ---   
 
@@ -26,8 +26,8 @@ categories: None
 | 4                 | 2022-03-17 | ipswich R6                    | 1 Avowal              |  3.5  |    -10   |
 | 0                 | 2022-03-17 | kempton R1                    | 1 Deciduous           |  0    |    -10   |
 | :3rd_place_medal: | 2022-03-17 | cheltenham R6                 | 14 Frero Banbou       | 13    |    -10   |
-| :boom:            | 2022-03-17 | cheltenham R4                 | 2 Energumene          |  4.2  |     32   |
 | 0                 | 2022-03-17 | cheltenham R4                 | 1 Chacun Pour Soi     |  0    |    -10   |
+| :boom:            | 2022-03-17 | cheltenham R4                 | 2 Energumene          |  4.2  |     32   |
 | :boom:            | 2022-03-16 | ascot R4                      | 4 The Witch Doctor    |  4.2  |     32   |
 | 0                 | 2022-03-16 | cheltenham R2                 | 1 Blue Lord           |  0    |    -10   |
 | 0                 | 2022-03-15 | wolverhampton R1              | 3 Hold Fast           |  0    |    -10   |
@@ -42,8 +42,8 @@ categories: None
 | :3rd_place_medal: | 2022-03-12 | alice-springs R3              | 5 Mathematics         |  3.2  |    -10   |
 | 4                 | 2022-03-12 | alice-springs R3              | 1 That's Justified    |  2.8  |    -10   |
 | :2nd_place_medal: | 2022-03-12 | morphettville-parks R8        | 7 Last Girl Love      |  2.6  |    -10   |
-| 6                 | 2022-03-12 | alice-springs R2              | 1 Butterfingers       |  3.8  |    -10   |
 | :3rd_place_medal: | 2022-03-12 | alice-springs R2              | 6 Celtic Belle        |  5.5  |    -10   |
+| 6                 | 2022-03-12 | alice-springs R2              | 1 Butterfingers       |  3.8  |    -10   |
 | :3rd_place_medal: | 2022-03-12 | alice-springs R1              | 3 Extraction          |  3.2  |    -10   |
 | :boom:            | 2022-03-12 | eagle-farm R5                 | 1 Gypsy Goddess       |  2.1  |     11   |
 | :3rd_place_medal: | 2022-03-12 | rockhampton R3                | 4 The Egyptian        |  2.15 |    -10   |
@@ -161,8 +161,8 @@ categories: None
 | :2nd_place_medal: | 2022-01-01 | ascot R10                     | 4 Son Son             |  4.6  |    -10   |
 | :2nd_place_medal: | 2022-01-01 | ascot R6                      | 10 The Front Bar      |  2.4  |    -10   |
 | :boom:            | 2022-01-01 | ascot R3                      | 3 Bopping Blue        |  7.6  |     66   |
-| 11                | 2022-01-01 | flemington R8                 | 2 Yulong January      |  9.5  |    -10   |
 | :3rd_place_medal: | 2022-01-01 | flemington R8                 | 12 Not to Be Mist     |  8    |    -10   |
+| 11                | 2022-01-01 | flemington R8                 | 2 Yulong January      |  9.5  |    -10   |
 | :3rd_place_medal: | 2021-12-30 | belmont R7                    | 4 Off Wego            |  4.8  |    -10   |
 | 6                 | 2021-12-29 | strathalbyn R7                | 1 Mustari             |  3.75 |    -10   |
 | 9                 | 2021-12-29 | gosford R6                    | 4 Broken Hill         | 10    |    -10   |
@@ -589,8 +589,8 @@ categories: None
 | :boom:            | 2021-05-09 | devonport-synthetic R7        | 6 Spihro              |  7    |     60   |
 | 4                 | 2021-05-09 | devonport-synthetic R6        | 2 Sanction King       |  2.6  |    -10   |
 | :boom:            | 2021-05-08 | ascot R6                      | 9 Angelic Miss        |  2.7  |     17   |
-| :2nd_place_medal: | 2021-05-08 | darwin R2                     | 1 Trebla              | 13    |    -10   |
 | :boom:            | 2021-05-08 | darwin R2                     | 2 Count of Essex      |  7.4  |     64   |
+| :2nd_place_medal: | 2021-05-08 | darwin R2                     | 1 Trebla              | 13    |    -10   |
 | 5                 | 2021-05-08 | darwin R1                     | 2 Kaptan Apollo       |  3.8  |    -10   |
 | :3rd_place_medal: | 2021-05-06 | wagga R1                      | 1 Mortal Witness      |  6.6  |    -10   |
 | :2nd_place_medal: | 2021-05-05 | canterbury R5                 | 2 Kobe Rocks          |  5.1  |    -10   |
@@ -635,8 +635,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-18 | hobart R4                     | 4 Judge Burns         |  8.5  |    -10   |
 | 7                 | 2021-04-17 | ascot R9                      | 3 Amelia's Contraire  |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-17 | randwick R10                  | 3 Entriviere          |  3.3  |    -10   |
-| 8                 | 2021-04-17 | caulfield R8                  | 2 Yulong January      | 26    |    -10   |
 | 5                 | 2021-04-17 | caulfield R8                  | 3 How Womantic        |  4.2  |    -10   |
+| 8                 | 2021-04-17 | caulfield R8                  | 2 Yulong January      | 26    |    -10   |
 | :2nd_place_medal: | 2021-04-17 | randwick R6                   | 9 Isotope             |  3.3  |    -10   |
 | :boom:            | 2021-04-17 | randwick R6                   | 1 Wild Ruler          |  5.7  |     47   |
 | :3rd_place_medal: | 2021-04-17 | alice-springs R2              | 4 The Captain         |  1.55 |    -10   |
@@ -723,8 +723,8 @@ categories: None
 | :2nd_place_medal: | 2021-03-06 | bunbury R9                    | 7 Montelena           |  1.72 |    -10   |
 | :boom:            | 2021-03-06 | eagle-farm R8                 | 6 Wren's Day          |  2.5  |     15   |
 | 6                 | 2021-03-06 | flemington R8                 | 12 Defibrillate       | 13    |    -10   |
-| :boom:            | 2021-03-06 | eagle-farm R6                 | 3 Royal Hale          |  4.3  |     33   |
 | 7                 | 2021-03-06 | eagle-farm R6                 | 2 Only Wanna Sing     |  3    |    -10   |
+| :boom:            | 2021-03-06 | eagle-farm R6                 | 3 Royal Hale          |  4.3  |     33   |
 | 10                | 2021-03-06 | morphettville-parks R5        | 4 Annika              |  2.35 |    -10   |
 | 7                 | 2021-03-06 | eagle-farm R4                 | 3 Seeingisbelieving   |  5.5  |    -10   |
 | 4                 | 2021-03-06 | eagle-farm R3                 | 1 Leadership Spill    |  2.4  |    -10   |
