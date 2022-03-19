@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-19 13:18:02 +1000  
+date: 2022-03-19 13:32:59 +1000  
 ---   
 
 
@@ -180,16 +180,16 @@ date: 2022-03-19 13:18:02 +1000
 |  97 | :soon:                   | 2022-03-19 13:52:00 | morphettville-parks |      3 |        4 | Valaroc            |   6.5  | pangea,blackshadow |
 |  98 | 103.0                    | 2022-03-19 13:45:00 | kembla-grange       |      2 |        2 | Tawfiq Lass        |   6    | pangea             |
 |  99 | :soon:                   | 2022-03-19 13:40:00 | flemington          |      3 |        1 | Yonce              |   1.12 | milkman            |
-| 100 | :soon:                   | 2022-03-19 13:33:00 | gold-coast          |      2 |       14 | He Knows           |   9.5  | vulture            |
-| 101 | :soon:                   | 2022-03-19 13:33:00 | trentham            |      6 |        8 | Imperatriz         |   2.3  | vulture,milkman    |
-| 102 | :soon:                   | 2022-03-19 13:33:00 | trentham            |      6 |        4 | Mohawk Brave       |  13    | vulture,milkman    |
-| 103 | :soon:                   | 2022-03-19 13:33:00 | gold-coast          |      2 |        5 | Already Blessed    |  13    | pangea             |
+| 100 | :hourglass_flowing_sand: | 2022-03-19 13:33:00 | gold-coast          |      2 |       14 | He Knows           |   9.5  | vulture            |
+| 101 | :hourglass_flowing_sand: | 2022-03-19 13:33:00 | trentham            |      6 |        8 | Imperatriz         |   2.3  | vulture,milkman    |
+| 102 | :hourglass_flowing_sand: | 2022-03-19 13:33:00 | trentham            |      6 |        4 | Mohawk Brave       |  13    | vulture,milkman    |
+| 103 | :hourglass_flowing_sand: | 2022-03-19 13:33:00 | gold-coast          |      2 |        5 | Already Blessed    |  13    | pangea             |
 | 104 | 103.0                    | 2022-03-19 13:28:00 | innisfail           |      2 |        2 | Cupid's Son        |   0    | overthrow          |
-| 105 | :hourglass_flowing_sand: | 2022-03-19 13:17:00 | morphettville-parks |      2 |        7 | Ambidazzle         |   4    | benny,pangea       |
-| 106 | :hourglass_flowing_sand: | 2022-03-19 13:17:00 | morphettville-parks |      2 |        2 | Think Winning      |   4.75 | pangea             |
+| 105 | --                       | 2022-03-19 13:17:00 | morphettville-parks |      2 |        7 | Ambidazzle         |   4    | benny,pangea       |
+| 106 | :2nd_place_medal:        | 2022-03-19 13:17:00 | morphettville-parks |      2 |        2 | Think Winning      |   4.75 | pangea             |
 | 107 | --                       | 2022-03-19 13:13:00 | ipswich             |      1 |        2 | Under The Covers   |   3    | milkman            |
 | 108 | :3rd_place_medal:        | 2022-03-19 13:13:00 | ipswich             |      1 |        1 | Our Heart Throb    |   3.1  | vulture            |
-| 109 | --                       | 2022-03-19 13:05:00 | flemington          |      2 |        7 | Miss Albania       |   3.4  | pangea,icyhot      |
+| 109 | 5.0                      | 2022-03-19 13:05:00 | flemington          |      2 |        7 | Miss Albania       |   3.4  | pangea,icyhot      |
 | 110 | --                       | 2022-03-19 12:57:00 | gold-coast          |      1 |        7 | Zaiteki            |  16    | evenodds,overthrow |
 | 111 | 6.0                      | 2022-03-19 12:45:00 | rosehill-gardens    |      2 |        9 | Minsk Moment       |   9.5  | pangea,jmac        |
 | 112 | :boom:                   | 2022-03-19 12:45:00 | rosehill-gardens    |      2 |        4 | Mazu               |   1.73 | milkman            |
