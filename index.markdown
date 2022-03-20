@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-21 07:34:39 +1000  
+date: 2022-03-21 08:43:18 +1000  
 ---   
 
 
@@ -72,29 +72,24 @@ date: 2022-03-21 07:34:39 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6149 |    772 | -14550.1 | 0.13 | -0.24 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7961 |    362 | -24369.5 | 0.05 | -0.31 |
 
-|    | finish            | time                | track          |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :boom:            | 2022-03-21 04:05:00 | carlisle       |      7 |        4 | Geordie B          |   1.52 | evenodds,overthrow |
-|  1 | --                | 2022-03-21 02:35:00 | chepstow       |      4 |        5 | Tile Tapper        |   3.75 | vulture            |
-|  2 | :boom:            | 2022-03-21 02:25:00 | carlisle       |      4 |        1 | Malpas             |   1.8  | evenodds,overthrow |
-|  3 | :boom:            | 2022-03-21 01:20:00 | carlisle       |      2 |        1 | Geromino           |   2.4  | overthrow          |
-|  4 | :boom:            | 2022-03-21 00:50:00 | carlisle       |      1 |        3 | Forpaddytheplumber |   3.6  | overthrow          |
-|  5 | --                | 2022-03-21 00:00:00 | scottsville    |      6 |        2 | Fly The Coup       |   0    | overthrow          |
-|  6 | :3rd_place_medal: | 2022-03-20 20:35:00 | pinjarra       |      8 |        9 | Queenship          |  10    | pangea,blackshadow |
-|  7 | --                | 2022-03-20 20:00:00 | pinjarra       |      7 |        6 | Come Right Back    |   3.75 | overthrow          |
-|  8 | 5.0               | 2022-03-20 19:20:00 | pinjarra       |      6 |        6 | Burn One Down      |  14    | cosmo,bluey        |
-|  9 | 9.0               | 2022-03-20 19:20:00 | pinjarra       |      6 |        2 | Alkaline           |   5.5  | overthrow          |
-| 10 | 8.0               | 2022-03-20 18:50:00 | pinjarra       |      5 |        5 | Prince Devoutly    |   6    | benny,pangea       |
-| 11 | :3rd_place_medal: | 2022-03-20 18:31:00 | alice-springs  |      5 |        4 | Oddsock            |   2.3  | icyhot             |
-| 12 | :boom:            | 2022-03-20 17:55:00 | alice-springs  |      4 |        4 | Supreme Times      |   1.55 | evenodds,overthrow |
-| 13 | --                | 2022-03-20 17:55:00 | alice-springs  |      4 |        5 | Desert Lass        |  20    | pangea             |
-| 14 | 4.0               | 2022-03-20 17:45:00 | sunshine-coast |      7 |        1 | Bean Dreamin'      |   3.5  | pangea,milkman     |
-| 15 | :2nd_place_medal: | 2022-03-20 17:17:00 | alice-springs  |      3 |        9 | Thirsty            |  12    | overthrow          |
-| 16 | 8.0               | 2022-03-20 17:12:00 | sunshine-coast |      6 |        1 | Harvesta           |   2.2  | overthrow          |
-| 17 | --                | 2022-03-20 17:03:00 | port-lincoln   |      7 |        2 | Grinzinger Star    |   3.3  | pangea             |
-| 18 | :boom:            | 2022-03-20 16:59:00 | pinjarra       |      2 |        8 | Grace Du Roi       |   3    | overthrow          |
-| 19 | :boom:            | 2022-03-20 16:40:00 | alice-springs  |      2 |        1 | Dakota Lee         |   1.02 | benny,lago         |
-| 20 | :2nd_place_medal: | 2022-03-20 16:23:00 | pinjarra       |      1 |        8 | Minno              |   4.8  | evenodds,overthrow |
-| 21 | 4.0               | 2022-03-20 16:10:00 | alice-springs  |      1 |        9 | Celtic Belle       |   3.9  | benny,pangea       |
-| 22 | 6.0               | 2022-03-20 15:10:00 | sunshine-coast |      3 |        2 | Early Crow         |   1.67 | milkman            |
-| 23 | 5.0               | 2022-03-20 13:45:00 | tauranga       |      6 |        3 | The Mighty Spar    |   2.8  | overthrow          |
+|    | finish   | time                | track      |   race |   number | name             |   odds | tipster         |
+|---:|:---------|:--------------------|:-----------|-------:|---------:|:-----------------|-------:|:----------------|
+|  0 | :soon:   | 2022-03-22 04:10:00 | wincanton  |      7 |        4 | Lazy Sunday      |   9    | looseknot       |
+|  1 | :soon:   | 2022-03-22 02:30:00 | wincanton  |      4 |       11 | Petrossian       |   2.9  | overthrow       |
+|  2 | :soon:   | 2022-03-22 02:20:00 | southwell  |      5 |        2 | Boombawn         |   1.8  | overthrow       |
+|  3 | :soon:   | 2022-03-22 01:55:00 | wincanton  |      3 |        1 | Torpillo         |   2.8  | vulture         |
+|  4 | :soon:   | 2022-03-22 01:55:00 | wincanton  |      3 |        4 | Glajou           |   5    | overthrow       |
+|  5 | :soon:   | 2022-03-22 01:45:00 | southwell  |      4 |        1 | Whispering Gypsy |   7    | overthrow       |
+|  6 | :soon:   | 2022-03-22 01:20:00 | wincanton  |      2 |        5 | Birds Of Prey    |   6.5  | overthrow       |
+|  7 | :soon:   | 2022-03-22 01:10:00 | southwell  |      3 |        1 | Fancy Stuff      |   3.5  | evenodds,lago   |
+|  8 | :soon:   | 2022-03-22 01:10:00 | southwell  |      3 |        5 | Horizon Dove     |   8    | looseknot       |
+|  9 | :soon:   | 2022-03-22 01:05:00 | greyville  |      7 |        9 | Roy's Command    |   0    | vulture         |
+| 10 | :soon:   | 2022-03-22 01:05:00 | greyville  |      7 |        3 | Pashtunwali      |   0    | vulture         |
+| 11 | :soon:   | 2022-03-22 00:55:00 | plumpton   |      1 |        2 | Fishcake         |   2.25 | overthrow       |
+| 12 | :soon:   | 2022-03-22 00:55:00 | plumpton   |      1 |        7 | Valencia Borget  |   9.5  | milkman         |
+| 13 | :soon:   | 2022-03-22 00:45:00 | wincanton  |      1 |        3 | Folly Gate       |   3.8  | overthrow       |
+| 14 | :soon:   | 2022-03-22 00:35:00 | southwell  |      2 |        2 | Across The Line  |   5    | overthrow       |
+| 15 | :soon:   | 2022-03-22 00:30:00 | greyville  |      6 |        2 | Rain Or Shine    |   0    | vulture,milkman |
+| 16 | :soon:   | 2022-03-21 23:55:00 | greyville  |      5 |        1 | Demigod          |   0    | vulture         |
+| 17 | :soon:   | 2022-03-21 17:40:00 | taree      |      8 |        1 | French Marine    |   2.3  | vulture         |
+| 18 | :soon:   | 2022-03-21 17:20:00 | chinchilla |      5 |        6 | Kingstar Amber   |   5.5  | pangea          |
