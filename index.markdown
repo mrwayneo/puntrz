@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-20 15:08:08 +1000  
+date: 2022-03-20 15:23:34 +1000  
 ---   
 
 
@@ -100,5 +100,5 @@ date: 2022-03-20 15:08:08 +1000
 | 19 | :soon:   | 2022-03-20 16:40:00 | alice-springs  |      2 |        1 | Dakota Lee         |   1.02 | benny,lago         |
 | 20 | :soon:   | 2022-03-20 16:23:00 | pinjarra       |      1 |        8 | Minno              |   4.8  | evenodds,overthrow |
 | 21 | :soon:   | 2022-03-20 16:10:00 | alice-springs  |      1 |        9 | Celtic Belle       |   3.9  | benny,pangea       |
-| 22 | :soon:   | 2022-03-20 15:10:00 | sunshine-coast |      3 |        2 | Early Crow         |   1.67 | milkman            |
+| 22 | --       | 2022-03-20 15:10:00 | sunshine-coast |      3 |        2 | Early Crow         |   1.67 | milkman            |
 | 23 | --       | 2022-03-20 13:45:00 | tauranga       |      6 |        3 | The Mighty Spar    |   2.8  | overthrow          |
