@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-20 21:20:44 +1000  
+date: 2022-03-21 06:49:47 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      1 |    -30   | 0.17 | -0.5  |
-| Last 28 Days   |     21 |      8 |     16.5 | 0.38 |  0.08 |
-| Last 6 Months  |    124 |     60 |    370.7 | 0.48 |  0.3  |
-| Since Jan 2020 |    233 |    113 |   1370.7 | 0.48 |  0.59 |
+| Last 7 Days    |      5 |      2 |     -9   | 0.4  | -0.18 |
+| Last 28 Days   |     22 |      9 |     17.5 | 0.41 |  0.08 |
+| Last 6 Months  |    125 |     61 |    371.7 | 0.49 |  0.3  |
+| Since Jan 2020 |    234 |    114 |   1371.7 | 0.49 |  0.59 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
@@ -76,8 +76,8 @@ categories: None
 | :boom:            | 2021-12-26 | wetherby R2                  | 4 Galia Des Liteaux  |  3.3  |     23   |
 | 99                | 2021-12-18 | navan R2                     | 15 Belle Metal       |  0    |    -10   |
 | :boom:            | 2021-12-18 | ascot R6                     | 7 Henri The Second   |  4.4  |     34   |
-| :3rd_place_medal: | 2021-12-18 | ascot R4                     | 4 Knappers Hill      |  4    |    -10   |
 | :boom:            | 2021-12-18 | ascot R4                     | 3 Jonbon             |  2    |     10   |
+| :3rd_place_medal: | 2021-12-18 | ascot R4                     | 4 Knappers Hill      |  4    |    -10   |
 | :boom:            | 2021-12-16 | leicester R3                 | 8 Sholokjack         |  2.35 |     13.5 |
 | 5                 | 2021-12-13 | rockhampton R1               | 4 Sweet Way's        |  3.2  |    -10   |
 | 99                | 2021-12-13 | southwell R6                 | 6 Hob House          |  0    |    -10   |
@@ -105,8 +105,8 @@ categories: None
 | :boom:            | 2021-11-09 | huntingdon R1                | 7 Theatre Glory      |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3                | 3 Yes Dream          |  1.6  |      6   |
 | :boom:            | 2021-11-09 | kempton R3                   | 3 Doddiethegreat     |  1.33 |      3.3 |
-| :3rd_place_medal: | 2021-11-07 | sunshine-coast R5            | 2 Ma Ma's Rose       |  3.8  |    -10   |
 | :boom:            | 2021-11-07 | sunshine-coast R5            | 5 Gypsy Goddess      |  3.5  |     25   |
+| :3rd_place_medal: | 2021-11-07 | sunshine-coast R5            | 2 Ma Ma's Rose       |  3.8  |    -10   |
 | :boom:            | 2021-11-07 | wincanton R2                 | 1 Knappers Hill      |  1.1  |      1   |
 | 0                 | 2021-11-05 | warwick R1                   | 6 In This World      |  0    |    -10   |
 | 99                | 2021-11-03 | exeter R2                    | 5 Huflower           |  0    |    -10   |

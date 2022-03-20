@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-03-20 21:20:45 +1000  
+date: 2022-03-21 06:49:47 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      2 |     26   | 1    |  1.3  |
-| Last 28 Days   |      3 |      2 |     16   | 0.67 |  0.53 |
-| Last 6 Months  |     28 |     14 |     -2   | 0.5  | -0.01 |
-| Since Jan 2020 |     62 |     34 |     28.7 | 0.55 |  0.05 |
+| Last 7 Days    |      3 |      2 |     16   | 0.67 |  0.53 |
+| Last 28 Days   |      4 |      2 |      6   | 0.5  |  0.15 |
+| Last 6 Months  |     29 |     14 |    -12   | 0.48 | -0.04 |
+| Since Jan 2020 |     63 |     34 |     18.7 | 0.54 |  0.03 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 03:10             | 2022-03-21 | chepstow R5            | 3 Whitehotchillifili |  1.9  |    -10   |
+| :3rd_place_medal: | 2022-03-21 | chepstow R5            | 3 Whitehotchillifili |  1.9  |    -10   |
 | :boom:            | 2022-03-18 | townsville R4          | 5 Kittykittybangbang |  2.8  |     18   |
 | :boom:            | 2022-03-18 | goulburn R3            | 3 Red Hot            |  1.8  |      8   |
 | 0                 | 2022-03-12 | esperance-bay R4       | 1 Thehuntsmen        |  0    |    -10   |

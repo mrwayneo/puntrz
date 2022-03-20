@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-03-20 21:20:35 +1000  
+date: 2022-03-21 06:49:38 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     14 |      3 |    -20   | 0.21 | -0.14 |
-| Last 28 Days   |     58 |      8 |   -156   | 0.14 | -0.27 |
-| Last 6 Months  |    387 |     63 |  -1613.5 | 0.16 | -0.42 |
-| Since Jan 2020 |    933 |    192 |  -1178.5 | 0.21 | -0.13 |
+| Last 7 Days    |     15 |      4 |    -19   | 0.27 | -0.13 |
+| Last 28 Days   |     61 |      9 |   -175   | 0.15 | -0.29 |
+| Last 6 Months  |    390 |     64 |  -1632.5 | 0.16 | -0.42 |
+| Since Jan 2020 |    936 |    193 |  -1197.5 | 0.21 | -0.13 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
@@ -94,8 +94,8 @@ categories: None
 | 13                | 2022-02-16 | belmont R9                    | 4 Gee Force           | 41    |    -10   |
 | 5                 | 2022-02-16 | kensington R4                 | 2 Narvaez             |  4.2  |    -10   |
 | :2nd_place_medal: | 2022-02-15 | mackay R3                     | 3 Nailed It Nan       |  1.57 |    -10   |
-| 11                | 2022-02-12 | caulfield R8                  | 12 Lightsaber         | 12    |    -10   |
 | 8                 | 2022-02-12 | caulfield R8                  | 7 Sinawann            |  4.4  |    -10   |
+| 11                | 2022-02-12 | caulfield R8                  | 12 Lightsaber         | 12    |    -10   |
 | 4                 | 2022-02-12 | doomben R5                    | 10 Confessed          |  4.5  |    -10   |
 | :boom:            | 2022-02-12 | randwick R6                   | 1 Lost And Running    |  2    |     10   |
 | :boom:            | 2022-02-12 | alice-springs R1              | 2 Supreme Times       |  1.6  |      6   |
@@ -574,8 +574,8 @@ categories: None
 | :2nd_place_medal: | 2021-05-29 | eagle-farm R3                 | 9 Ayrton              |  1.6  |    -10   |
 | 8                 | 2021-05-29 | eagle-farm R2                 | 14 Beachbreak         | 11    |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R7             | 5 Queen Dazzler       |  3.4  |    -10   |
-| :2nd_place_medal: | 2021-05-27 | northam R9                    | 7 Brave Dream         |  5.1  |    -10   |
 | :boom:            | 2021-05-27 | northam R9                    | 9 Conquered Zone      |  5.8  |     48   |
+| :2nd_place_medal: | 2021-05-27 | northam R9                    | 7 Brave Dream         |  5.1  |    -10   |
 | 6                 | 2021-05-26 | belmont R7                    | 5 Truly Reliable      | 26    |    -10   |
 | 99                | 2021-05-25 | fairview R2                   | 1 Tarsus              |  3.8  |    -10   |
 | :boom:            | 2021-05-23 | devonport-synthetic R6        | 8 Aragon Star         |  4.5  |     35   |
@@ -638,8 +638,8 @@ categories: None
 | :3rd_place_medal: | 2021-04-25 | devonport-synthetic R6        | 4 Rhyme Writer        |  4.8  |    -10   |
 | 5                 | 2021-04-25 | alice-springs R1              | 4 Dataset             |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-25 | awapuni R1                    | 2 Maison Roxanne      |  2.4  |    -10   |
-| 5                 | 2021-04-24 | darwin R4                     | 4 Trebla              | 14    |    -10   |
 | :2nd_place_medal: | 2021-04-24 | darwin R4                     | 1 Patria              |  2.8  |    -10   |
+| 5                 | 2021-04-24 | darwin R4                     | 4 Trebla              | 14    |    -10   |
 | 4                 | 2021-04-24 | darwin R2                     | 2 Paseeto             |  6    |    -10   |
 | 5                 | 2021-04-24 | morphettville-parks R7        | 9 Renegade            | 14    |    -10   |
 | 4                 | 2021-04-24 | doomben R6                    | 2 Good Soize          |  6.6  |    -10   |

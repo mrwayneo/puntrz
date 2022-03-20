@@ -1,89 +1,72 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-20 21:20:46 +1000  
+date: 2022-03-21 06:49:48 +1000  
 ---   
 
 
 ##### Form Today tips   
-
-| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
-|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      2 |      287 | 0.2  |  2.87 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     23 |      2 |      157 | 0.09 |  0.68 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      1 |        1 | 1    |  0.1  |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      1 |       -9 | 0.5  | -0.45 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
-| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 | 0    | -1    |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      1 |      -19 | 0.33 | -0.63 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      3 |      1 |      -19 | 0.33 | -0.63 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      1 |      -24 | 0.25 | -0.6  |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      4 |      1 |      -24 | 0.25 | -0.6  |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      9 |      2 |      -63 | 0.22 | -0.7  |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      3 |      -80 | 0.19 | -0.5  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      1 |     -297 | 0.03 | -0.93 |
 
 ##### Form Last 20 tips   
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    512   | 1    |  2.56 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      2 |    187   | 0.1  |  0.94 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      3 |    123   | 0.15 |  0.62 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      7 |     44.5 | 0.35 |  0.22 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |     44   | 0.15 |  0.22 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      2 |     13   | 0.1  |  0.06 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      4 |     10   | 0.2  |  0.05 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      7 |      3.5 | 0.35 |  0.02 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |     55.5 | 0.4  |  0.28 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |     14.5 | 0.4  |  0.07 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |      6   | 0.05 |  0.03 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      2 |     -9   | 0.1  | -0.04 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      3 |    -11.3 | 0.15 | -0.06 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      7 |    -16.5 | 0.35 | -0.08 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      7 |    -21   | 0.35 | -0.1  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      3 |    -32   | 0.15 | -0.16 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      4 |    -37   | 0.2  | -0.18 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |    -42   | 0.25 | -0.21 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      7 |    -47.5 | 0.35 | -0.24 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      6 |    -73   | 0.3  | -0.36 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |    -74.5 | 0.2  | -0.37 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      4 |    -69   | 0.2  | -0.34 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -82   | 0.2  | -0.41 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      1 |   -150   | 0.05 | -0.75 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      1 |   -179   | 0.05 | -0.9  |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      6 |    -87   | 0.3  | -0.44 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |   -123   | 0.15 | -0.62 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |   -142.5 | 0.15 | -0.71 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      0 |   -200   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     87 |     14 |   1533   | 0.16 |  1.76 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     88 |     14 |   1523   | 0.16 |  1.73 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     15 |     15 |    299   | 1    |  1.99 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |    114 |     51 |    161.8 | 0.45 |  0.14 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |    115 |     52 |    162.8 | 0.45 |  0.14 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     55 |     11 |    141.2 | 0.2  |  0.26 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     88 |      8 |    123   | 0.09 |  0.14 |
-| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     24 |     11 |    -16   | 0.46 | -0.07 |
+| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     25 |     11 |    -26   | 0.44 | -0.1  |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     63 |     10 |   -305   | 0.16 | -0.48 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    215 |     66 |   -454.4 | 0.31 | -0.21 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    216 |     66 |   -501.4 | 0.31 | -0.23 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    352 |     89 |   -533.5 | 0.25 | -0.15 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    266 |     60 |   -536.9 | 0.23 | -0.2  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    332 |     72 |   -720.2 | 0.22 | -0.22 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    573 |     79 |   -805   | 0.14 | -0.14 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    334 |     56 |  -1282.8 | 0.17 | -0.38 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    580 |    133 |  -2067.5 | 0.23 | -0.36 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1164 |    280 |  -2755.2 | 0.24 | -0.24 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2399 |    122 |  -3369   | 0.05 | -0.14 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1857 |    357 |  -4311.1 | 0.19 | -0.23 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2253 |    514 |  -5231.5 | 0.23 | -0.23 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2588 |    592 |  -5306.9 | 0.23 | -0.21 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6144 |    773 | -14431   | 0.13 | -0.23 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7965 |    364 | -23959.5 | 0.05 | -0.3  |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    570 |     77 |   -908   | 0.14 | -0.16 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    337 |     57 |  -1301.8 | 0.17 | -0.39 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    582 |    135 |  -2066.5 | 0.23 | -0.36 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1163 |    279 |  -2812.2 | 0.24 | -0.24 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2408 |    123 |  -3482   | 0.05 | -0.14 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1865 |    359 |  -4364.1 | 0.19 | -0.23 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2263 |    519 |  -5197.5 | 0.23 | -0.23 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2574 |    588 |  -5428.9 | 0.23 | -0.21 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6149 |    772 | -14550.1 | 0.13 | -0.24 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7961 |    362 | -24369.5 | 0.05 | -0.31 |
 
 |    | finish            | time                | track          |   race |   number | name               |   odds | tipster            |
 |---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:            | 2022-03-21 04:05:00 | carlisle       |      7 |        4 | Geordie B          |   1.52 | evenodds,overthrow |
-|  1 | :soon:            | 2022-03-21 02:35:00 | chepstow       |      4 |        5 | Tile Tapper        |   3.75 | vulture            |
-|  2 | :soon:            | 2022-03-21 02:25:00 | carlisle       |      4 |        1 | Malpas             |   1.8  | evenodds,overthrow |
-|  3 | :soon:            | 2022-03-21 01:20:00 | carlisle       |      2 |        1 | Geromino           |   2.4  | overthrow          |
-|  4 | :soon:            | 2022-03-21 00:50:00 | carlisle       |      1 |        3 | Forpaddytheplumber |   3.6  | overthrow          |
-|  5 | :soon:            | 2022-03-21 00:00:00 | scottsville    |      6 |        2 | Fly The Coup       |   0    | overthrow          |
+|  0 | :boom:            | 2022-03-21 04:05:00 | carlisle       |      7 |        4 | Geordie B          |   1.52 | evenodds,overthrow |
+|  1 | --                | 2022-03-21 02:35:00 | chepstow       |      4 |        5 | Tile Tapper        |   3.75 | vulture            |
+|  2 | :boom:            | 2022-03-21 02:25:00 | carlisle       |      4 |        1 | Malpas             |   1.8  | evenodds,overthrow |
+|  3 | :boom:            | 2022-03-21 01:20:00 | carlisle       |      2 |        1 | Geromino           |   2.4  | overthrow          |
+|  4 | :boom:            | 2022-03-21 00:50:00 | carlisle       |      1 |        3 | Forpaddytheplumber |   3.6  | overthrow          |
+|  5 | --                | 2022-03-21 00:00:00 | scottsville    |      6 |        2 | Fly The Coup       |   0    | overthrow          |
 |  6 | :3rd_place_medal: | 2022-03-20 20:35:00 | pinjarra       |      8 |        9 | Queenship          |  10    | pangea,blackshadow |
 |  7 | --                | 2022-03-20 20:00:00 | pinjarra       |      7 |        6 | Come Right Back    |   3.75 | overthrow          |
 |  8 | 5.0               | 2022-03-20 19:20:00 | pinjarra       |      6 |        6 | Burn One Down      |  14    | cosmo,bluey        |
