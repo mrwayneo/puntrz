@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-20 15:39:03 +1000  
+date: 2022-03-20 15:54:07 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-03-20 15:39:03 +1000
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     23 |      1 |      -49 | 0.04 | -0.21 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      9 |      0 |      -90 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      0 |     -320 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     32 |      1 |     -297 | 0.03 | -0.93 |
 
 ##### Form Last 20 tips   
 
@@ -100,5 +100,5 @@ date: 2022-03-20 15:39:03 +1000
 | 19 | :soon:   | 2022-03-20 16:40:00 | alice-springs  |      2 |        1 | Dakota Lee         |   1.02 | benny,lago         |
 | 20 | :soon:   | 2022-03-20 16:23:00 | pinjarra       |      1 |        8 | Minno              |   4.8  | evenodds,overthrow |
 | 21 | :soon:   | 2022-03-20 16:10:00 | alice-springs  |      1 |        9 | Celtic Belle       |   3.9  | benny,pangea       |
-| 22 | --       | 2022-03-20 15:10:00 | sunshine-coast |      3 |        2 | Early Crow         |   1.67 | milkman            |
+| 22 | 6.0      | 2022-03-20 15:10:00 | sunshine-coast |      3 |        2 | Early Crow         |   1.67 | milkman            |
 | 23 | --       | 2022-03-20 13:45:00 | tauranga       |      6 |        3 | The Mighty Spar    |   2.8  | overthrow          |
