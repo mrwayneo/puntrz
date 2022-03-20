@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-03-20 19:18:28 +1000  
+date: 2022-03-20 20:01:36 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 19:20             | 2022-03-20 | pinjarra R6            | 6 Burn One Down       |  14   |      -10 |
+| 5                 | 2022-03-20 | pinjarra R6            | 6 Burn One Down       |  14   |      -10 |
 | :3rd_place_medal: | 2022-03-19 | morphettville-parks R7 | 9 Cassowary           |  16   |      -10 |
 | 4                 | 2022-03-19 | ascot R2               | 10 Art Admirer        |  26   |      -10 |
 | 7                 | 2022-03-18 | townsville R9          | 9 Norwegian Wood      |  11   |      -10 |
