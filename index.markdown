@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-20 16:23:17 +1000  
+date: 2022-03-20 19:18:28 +1000  
 ---   
 
 
@@ -88,16 +88,16 @@ date: 2022-03-20 16:23:17 +1000
 |  7 | :soon:                   | 2022-03-20 20:00:00 | pinjarra       |      7 |        6 | Come Right Back    |   3.75 | overthrow          |
 |  8 | :soon:                   | 2022-03-20 19:20:00 | pinjarra       |      6 |        6 | Burn One Down      |  14    | cosmo,bluey        |
 |  9 | :soon:                   | 2022-03-20 19:20:00 | pinjarra       |      6 |        2 | Alkaline           |   5.5  | overthrow          |
-| 10 | :soon:                   | 2022-03-20 18:50:00 | pinjarra       |      5 |        5 | Prince Devoutly    |   6    | benny,pangea       |
-| 11 | :soon:                   | 2022-03-20 18:31:00 | alice-springs  |      5 |        4 | Oddsock            |   2.3  | icyhot             |
-| 12 | :soon:                   | 2022-03-20 17:55:00 | alice-springs  |      4 |        4 | Supreme Times      |   1.55 | evenodds,overthrow |
-| 13 | :soon:                   | 2022-03-20 17:55:00 | alice-springs  |      4 |        5 | Desert Lass        |  20    | pangea             |
-| 14 | :soon:                   | 2022-03-20 17:45:00 | sunshine-coast |      7 |        1 | Bean Dreamin'      |   3.5  | pangea,milkman     |
-| 15 | :soon:                   | 2022-03-20 17:17:00 | alice-springs  |      3 |        9 | Thirsty            |  12    | overthrow          |
-| 16 | :soon:                   | 2022-03-20 17:12:00 | sunshine-coast |      6 |        1 | Harvesta           |   2.2  | overthrow          |
-| 17 | :soon:                   | 2022-03-20 17:03:00 | port-lincoln   |      7 |        2 | Grinzinger Star    |   3.3  | pangea             |
-| 18 | :soon:                   | 2022-03-20 16:59:00 | pinjarra       |      2 |        8 | Grace Du Roi       |   3    | overthrow          |
-| 19 | :soon:                   | 2022-03-20 16:40:00 | alice-springs  |      2 |        1 | Dakota Lee         |   1.02 | benny,lago         |
+| 10 | :hourglass_flowing_sand: | 2022-03-20 18:50:00 | pinjarra       |      5 |        5 | Prince Devoutly    |   6    | benny,pangea       |
+| 11 | :hourglass_flowing_sand: | 2022-03-20 18:31:00 | alice-springs  |      5 |        4 | Oddsock            |   2.3  | icyhot             |
+| 12 | :hourglass_flowing_sand: | 2022-03-20 17:55:00 | alice-springs  |      4 |        4 | Supreme Times      |   1.55 | evenodds,overthrow |
+| 13 | :hourglass_flowing_sand: | 2022-03-20 17:55:00 | alice-springs  |      4 |        5 | Desert Lass        |  20    | pangea             |
+| 14 | :hourglass_flowing_sand: | 2022-03-20 17:45:00 | sunshine-coast |      7 |        1 | Bean Dreamin'      |   3.5  | pangea,milkman     |
+| 15 | :hourglass_flowing_sand: | 2022-03-20 17:17:00 | alice-springs  |      3 |        9 | Thirsty            |  12    | overthrow          |
+| 16 | :hourglass_flowing_sand: | 2022-03-20 17:12:00 | sunshine-coast |      6 |        1 | Harvesta           |   2.2  | overthrow          |
+| 17 | :hourglass_flowing_sand: | 2022-03-20 17:03:00 | port-lincoln   |      7 |        2 | Grinzinger Star    |   3.3  | pangea             |
+| 18 | :hourglass_flowing_sand: | 2022-03-20 16:59:00 | pinjarra       |      2 |        8 | Grace Du Roi       |   3    | overthrow          |
+| 19 | :hourglass_flowing_sand: | 2022-03-20 16:40:00 | alice-springs  |      2 |        1 | Dakota Lee         |   1.02 | benny,lago         |
 | 20 | :hourglass_flowing_sand: | 2022-03-20 16:23:00 | pinjarra       |      1 |        8 | Minno              |   4.8  | evenodds,overthrow |
 | 21 | 4.0                      | 2022-03-20 16:10:00 | alice-springs  |      1 |        9 | Celtic Belle       |   3.9  | benny,pangea       |
 | 22 | 6.0                      | 2022-03-20 15:10:00 | sunshine-coast |      3 |        2 | Early Crow         |   1.67 | milkman            |
