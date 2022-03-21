@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-21 21:45:35 +1000  
+date: 2022-03-21 22:00:44 +1000  
 ---   
 
 
@@ -9,6 +9,7 @@ date: 2022-03-21 21:45:35 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     32 |      4 |       -1 | 0.12 | -0    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 | 0    | -1    |
@@ -18,7 +19,6 @@ date: 2022-03-21 21:45:35 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      1 |      -46 | 0.14 | -0.66 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      9 |      0 |      -90 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     20 |      1 |     -130 | 0.05 | -0.65 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     32 |      3 |     -261 | 0.09 | -0.82 |
 
 ##### Form Last 20 tips   
 
