@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-21 23:00:36 +1000  
+date: 2022-03-22 06:03:22 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      2 |     -9   | 0.4  | -0.18 |
-| Last 28 Days   |     22 |      9 |     17.5 | 0.41 |  0.08 |
-| Last 6 Months  |    125 |     61 |    371.7 | 0.49 |  0.3  |
-| Since Jan 2020 |    234 |    114 |   1371.7 | 0.49 |  0.59 |
+| Last 7 Days    |      3 |      1 |    -19   | 0.33 | -0.63 |
+| Last 28 Days   |     23 |      9 |      7.5 | 0.39 |  0.03 |
+| Last 6 Months  |    126 |     61 |    361.7 | 0.48 |  0.29 |
+| Since Jan 2020 |    235 |    114 |   1361.7 | 0.49 |  0.58 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 01:10             | 2022-03-22 | southwell R3                 | 1 Fancy Stuff        |  3.5  |    -10   |
+| 0                 | 2022-03-22 | southwell R3                 | 1 Fancy Stuff        |  0    |    -10   |
 | :boom:            | 2022-03-20 | alice-springs R2             | 1 Dakota Lee         |  1.1  |      1   |
 | 0                 | 2022-03-20 | uttoxeter R8                 | 2 Kracka Nut         |  0    |    -10   |
 | 0                 | 2022-03-17 | kempton R1                   | 1 Deciduous          |  0    |    -10   |
@@ -77,8 +77,8 @@ categories: None
 | :boom:            | 2021-12-26 | wetherby R2                  | 4 Galia Des Liteaux  |  3.3  |     23   |
 | 99                | 2021-12-18 | navan R2                     | 15 Belle Metal       |  0    |    -10   |
 | :boom:            | 2021-12-18 | ascot R6                     | 7 Henri The Second   |  4.4  |     34   |
-| :3rd_place_medal: | 2021-12-18 | ascot R4                     | 4 Knappers Hill      |  4    |    -10   |
 | :boom:            | 2021-12-18 | ascot R4                     | 3 Jonbon             |  2    |     10   |
+| :3rd_place_medal: | 2021-12-18 | ascot R4                     | 4 Knappers Hill      |  4    |    -10   |
 | :boom:            | 2021-12-16 | leicester R3                 | 8 Sholokjack         |  2.35 |     13.5 |
 | 5                 | 2021-12-13 | rockhampton R1               | 4 Sweet Way's        |  3.2  |    -10   |
 | 99                | 2021-12-13 | southwell R6                 | 6 Hob House          |  0    |    -10   |
