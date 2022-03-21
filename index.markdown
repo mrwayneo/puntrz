@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-21 17:30:24 +1000  
+date: 2022-03-21 17:45:37 +1000  
 ---   
 
 
@@ -15,7 +15,7 @@ date: 2022-03-21 17:30:24 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      2 |      0 |      -20 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      1 |      -46 | 0.14 | -0.66 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      9 |      0 |      -90 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     20 |      1 |     -130 | 0.05 | -0.65 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     32 |      3 |     -261 | 0.09 | -0.82 |
@@ -91,5 +91,5 @@ date: 2022-03-21 17:30:24 +1000
 | 14 | :soon:   | 2022-03-22 00:35:00 | southwell  |      2 |        2 | Across The Line  |   5    | overthrow       |
 | 15 | :soon:   | 2022-03-22 00:30:00 | greyville  |      6 |        2 | Rain Or Shine    |   0    | vulture,milkman |
 | 16 | :soon:   | 2022-03-21 23:55:00 | greyville  |      5 |        1 | Demigod          |   0    | vulture         |
-| 17 | :soon:   | 2022-03-21 17:40:00 | taree      |      8 |        1 | French Marine    |   2.3  | vulture         |
+| 17 | :boom:   | 2022-03-21 17:40:00 | taree      |      8 |        1 | French Marine    |   2.3  | vulture         |
 | 18 | 4.0      | 2022-03-21 17:20:00 | chinchilla |      5 |        6 | Kingstar Amber   |   5.5  | pangea          |
