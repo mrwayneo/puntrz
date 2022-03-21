@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-03-22 07:48:57 +1000  
+date: 2022-03-22 10:29:31 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 18:20             | 2022-03-22 | rockhampton R7                | 4 Dark Archer         |  4    |    -10   |
+| 14:10             | 2022-03-22 | grafton R2                    | 1 Maxcalemma          |  1.83 |    -10   |
 | 8                 | 2022-03-20 | pinjarra R5                   | 5 Prince Devoutly     |  6    |    -10   |
 | :boom:            | 2022-03-20 | alice-springs R2              | 1 Dakota Lee          |  1.1  |      1   |
 | 4                 | 2022-03-20 | alice-springs R1              | 9 Celtic Belle        |  3.9  |    -10   |
@@ -556,8 +558,8 @@ categories: None
 | 11                | 2021-06-05 | eagle-farm R7                 | 6 Fabric              | 14    |    -10   |
 | :3rd_place_medal: | 2021-06-05 | eagle-farm R6                 | 7 Luvoir              |  6    |    -10   |
 | :2nd_place_medal: | 2021-06-05 | wanganui R7                   | 9 Crowning Star       |  7    |    -10   |
-| 6                 | 2021-06-05 | eagle-farm R4                 | 3 Spurcraft           | 11    |    -10   |
 | :boom:            | 2021-06-05 | eagle-farm R4                 | 1 Usmanov             |  3.3  |     23   |
+| 6                 | 2021-06-05 | eagle-farm R4                 | 3 Spurcraft           | 11    |    -10   |
 | :3rd_place_medal: | 2021-06-03 | wyong R7                      | 7 Lake Tai            |  5.5  |    -10   |
 | :boom:            | 2021-06-02 | doomben R6                    | 2 Starosa             |  3.7  |     27   |
 | 6                 | 2021-06-02 | warwick-farm R5               | 2 Egyptian Missile    | 13.2  |    -10   |

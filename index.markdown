@@ -1,11 +1,29 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-22 07:49:17 +1000  
+date: 2022-03-22 10:29:41 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      5 |      0 |      -50 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      6 |      0 |      -60 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      0 |      -70 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      7 |      0 |      -70 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      0 |      -80 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      0 |     -140 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      0 |     -240 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     28 |      0 |     -280 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     40 |      0 |     -400 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,24 +77,45 @@ date: 2022-03-22 07:49:17 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6172 |    779 | -14241.1 | 0.13 | -0.23 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7969 |    366 | -23809.5 | 0.05 | -0.3  |
 
-|    | finish            | time                | track      |   race |   number | name             |   odds | tipster         |
-|---:|:------------------|:--------------------|:-----------|-------:|---------:|:-----------------|-------:|:----------------|
-|  0 | 4.0               | 2022-03-22 04:10:00 | wincanton  |      7 |        4 | Lazy Sunday      |   9    | looseknot       |
-|  1 | :2nd_place_medal: | 2022-03-22 02:30:00 | wincanton  |      4 |       11 | Petrossian       |   2.9  | overthrow       |
-|  2 | :boom:            | 2022-03-22 02:20:00 | southwell  |      5 |        2 | Boombawn         |   1.8  | overthrow       |
-|  3 | :boom:            | 2022-03-22 01:55:00 | wincanton  |      3 |        1 | Torpillo         |   2.8  | vulture         |
-|  4 | :3rd_place_medal: | 2022-03-22 01:55:00 | wincanton  |      3 |        4 | Glajou           |   5    | overthrow       |
-|  5 | :2nd_place_medal: | 2022-03-22 01:45:00 | southwell  |      4 |        1 | Whispering Gypsy |   7    | overthrow       |
-|  6 | 4.0               | 2022-03-22 01:20:00 | wincanton  |      2 |        5 | Birds Of Prey    |   6.5  | overthrow       |
-|  7 | --                | 2022-03-22 01:10:00 | southwell  |      3 |        1 | Fancy Stuff      |   3.5  | evenodds,lago   |
-|  8 | --                | 2022-03-22 01:10:00 | southwell  |      3 |        5 | Horizon Dove     |   8    | looseknot       |
-|  9 | :boom:            | 2022-03-22 01:05:00 | greyville  |      7 |        9 | Roy's Command    |   0    | vulture         |
-| 10 | --                | 2022-03-22 01:05:00 | greyville  |      7 |        3 | Pashtunwali      |   0    | vulture         |
-| 11 | :boom:            | 2022-03-22 00:55:00 | plumpton   |      1 |        2 | Fishcake         |   2.25 | overthrow       |
-| 12 | --                | 2022-03-22 00:55:00 | plumpton   |      1 |        7 | Valencia Borget  |   9.5  | milkman         |
-| 13 | --                | 2022-03-22 00:45:00 | wincanton  |      1 |        3 | Folly Gate       |   3.8  | overthrow       |
-| 14 | 4.0               | 2022-03-22 00:35:00 | southwell  |      2 |        2 | Across The Line  |   5    | overthrow       |
-| 15 | :boom:            | 2022-03-22 00:30:00 | greyville  |      6 |        2 | Rain Or Shine    |   0    | vulture,milkman |
-| 16 | :3rd_place_medal: | 2022-03-21 23:55:00 | greyville  |      5 |        1 | Demigod          |   0    | vulture         |
-| 17 | :boom:            | 2022-03-21 17:40:00 | taree      |      8 |        1 | French Marine    |   2.3  | vulture         |
-| 18 | 4.0               | 2022-03-21 17:20:00 | chinchilla |      5 |        6 | Kingstar Amber   |   5.5  | pangea          |
+|    | finish   | time                | track       |   race |   number | name               |   odds | tipster             |
+|---:|:---------|:--------------------|:------------|-------:|---------:|:-------------------|-------:|:--------------------|
+|  0 | :soon:   | 2022-03-23 04:31:00 | wetherby    |      8 |        4 | Hitching Jacking   |   8.5  | evenodds,overthrow  |
+|  1 | :soon:   | 2022-03-23 04:31:00 | wetherby    |      8 |        1 | Largy Train        |   4    | vulture,milkman     |
+|  2 | :soon:   | 2022-03-23 04:31:00 | wetherby    |      8 |        3 | Chasing Fire       |   1.6  | vulture,milkman     |
+|  3 | :soon:   | 2022-03-23 04:10:00 | clonmel     |      7 |        5 | Klarc Kent         |   4.6  | overthrow           |
+|  4 | :soon:   | 2022-03-23 03:46:00 | exeter      |      6 |        2 | Park Hill Dancer   |   2.2  | evenodds,lago       |
+|  5 | :soon:   | 2022-03-23 03:46:00 | exeter      |      6 |        1 | Black Of The Glade |   4.8  | evenodds,looseknot  |
+|  6 | :soon:   | 2022-03-23 03:46:00 | exeter      |      6 |        6 | My Little Toni     |  12    | vulture,milkman     |
+|  7 | :soon:   | 2022-03-23 03:38:00 | clonmel     |      6 |        1 | Blackbow           |   1.24 | evenodds,overthrow  |
+|  8 | :soon:   | 2022-03-23 03:21:00 | wetherby    |      6 |        8 | Storm Force One    |   6.5  | looseknot           |
+|  9 | :soon:   | 2022-03-23 03:11:00 | exeter      |      5 |        4 | Indirocco          |   3.5  | evenodds,looseknot  |
+| 10 | :soon:   | 2022-03-23 03:11:00 | exeter      |      5 |        5 | Racing Snake       |   8.5  | evenodds,looseknot  |
+| 11 | :soon:   | 2022-03-23 03:11:00 | exeter      |      5 |        3 | Grey Getaway       |  34    | overthrow           |
+| 12 | :soon:   | 2022-03-23 03:11:00 | exeter      |      5 |        2 | Famous Clermont    |   2.4  | evenodds,overthrow  |
+| 13 | :soon:   | 2022-03-23 02:46:00 | wetherby    |      5 |        4 | Grand Mogul        |   6    | overthrow           |
+| 14 | :soon:   | 2022-03-23 02:36:00 | exeter      |      4 |        5 | Sonigino           |   4.2  | overthrow           |
+| 15 | :soon:   | 2022-03-23 02:11:00 | wetherby    |      4 |        6 | One For Billy      |   4.6  | overthrow           |
+| 16 | :soon:   | 2022-03-23 01:01:00 | wetherby    |      2 |        8 | Reilly             |   3.5  | overthrow           |
+| 17 | :soon:   | 2022-03-23 00:26:00 | wetherby    |      1 |        6 | Getaway Mission    |   5.5  | looseknot           |
+| 18 | :soon:   | 2022-03-22 18:20:00 | rockhampton |      7 |        4 | Dark Archer        |   4    | benny,blackshadow   |
+| 19 | :soon:   | 2022-03-22 18:20:00 | rockhampton |      7 |       10 | The Crown          |  16    | vulture,blackshadow |
+| 20 | :soon:   | 2022-03-22 18:20:00 | rockhampton |      7 |        5 | In Order           |   2.88 | pangea,icyhot       |
+| 21 | :soon:   | 2022-03-22 18:20:00 | rockhampton |      7 |        2 | Brigalow Boy       |   3    | pangea,icyhot       |
+| 22 | :soon:   | 2022-03-22 17:50:00 | grafton     |      8 |        1 | Olympic Class      |   3.25 | pangea              |
+| 23 | :soon:   | 2022-03-22 17:50:00 | grafton     |      8 |        4 | Buffet Buster      |   7.5  | vulture             |
+| 24 | :soon:   | 2022-03-22 17:15:00 | grafton     |      7 |        1 | Far Reaching       |   4.75 | overthrow           |
+| 25 | :soon:   | 2022-03-22 17:04:00 | rockhampton |      5 |        1 | Barachiel          |  19    | blackshadow         |
+| 26 | :soon:   | 2022-03-22 17:04:00 | rockhampton |      5 |        8 | Mocial Chief       |   3.6  | vulture,pangea      |
+| 27 | :soon:   | 2022-03-22 17:04:00 | rockhampton |      5 |        5 | Finucane Missile   |   8    | overthrow           |
+| 28 | :soon:   | 2022-03-22 16:30:00 | geelong     |      7 |       10 | Andress            |  10    | vulture             |
+| 29 | :soon:   | 2022-03-22 16:27:00 | rockhampton |      4 |        2 | Street Glory       |   3.8  | milkman             |
+| 30 | :soon:   | 2022-03-22 16:05:00 | grafton     |      5 |        7 | Impel Gazelle      |   5.5  | overthrow           |
+| 31 | :soon:   | 2022-03-22 15:47:00 | rockhampton |      3 |        3 | Parkburn           |   1.75 | vulture             |
+| 32 | :soon:   | 2022-03-22 15:40:00 | beaumont    |      5 |        4 | Five Crowns        |   2.25 | pangea,icyhot       |
+| 33 | :soon:   | 2022-03-22 15:25:00 | grafton     |      4 |        2 | Blue Kentucky Moon |   1.8  | overthrow           |
+| 34 | :soon:   | 2022-03-22 15:05:00 | beaumont    |      4 |        3 | Metal Bar          |   6.5  | pikey               |
+| 35 | :soon:   | 2022-03-22 14:45:00 | grafton     |      3 |        8 | Beach Lap          |   3.2  | overthrow           |
+| 36 | :soon:   | 2022-03-22 14:34:00 | rockhampton |      1 |        5 | Buddha             |   3.7  | looseknot           |
+| 37 | :soon:   | 2022-03-22 14:30:00 | geelong     |      3 |        3 | Galaxy Ruler       |   5    | evenodds,overthrow  |
+| 38 | :soon:   | 2022-03-22 14:10:00 | grafton     |      2 |        3 | Roaring Thunder    |   3.2  | milkman             |
+| 39 | :soon:   | 2022-03-22 14:10:00 | grafton     |      2 |        1 | Maxcalemma         |   1.83 | benny,pangea        |
