@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-21 17:15:33 +1000  
+date: 2022-03-21 17:30:24 +1000  
 ---   
 
 
@@ -92,4 +92,4 @@ date: 2022-03-21 17:15:33 +1000
 | 15 | :soon:   | 2022-03-22 00:30:00 | greyville  |      6 |        2 | Rain Or Shine    |   0    | vulture,milkman |
 | 16 | :soon:   | 2022-03-21 23:55:00 | greyville  |      5 |        1 | Demigod          |   0    | vulture         |
 | 17 | :soon:   | 2022-03-21 17:40:00 | taree      |      8 |        1 | French Marine    |   2.3  | vulture         |
-| 18 | :soon:   | 2022-03-21 17:20:00 | chinchilla |      5 |        6 | Kingstar Amber   |   5.5  | pangea          |
+| 18 | 4.0      | 2022-03-21 17:20:00 | chinchilla |      5 |        6 | Kingstar Amber   |   5.5  | pangea          |
