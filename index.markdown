@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-21 16:00:07 +1000  
+date: 2022-03-21 16:15:21 +1000  
 ---   
 
 
@@ -18,7 +18,7 @@ date: 2022-03-21 16:00:07 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      9 |      0 |      -90 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     20 |      1 |     -130 | 0.05 | -0.65 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     32 |      2 |     -285 | 0.06 | -0.89 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     32 |      3 |     -261 | 0.09 | -0.82 |
 
 ##### Form Last 20 tips   
 
