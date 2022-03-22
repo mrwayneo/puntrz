@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-22 14:33:48 +1000  
+date: 2022-03-22 14:48:44 +1000  
 ---   
 
 
@@ -114,8 +114,8 @@ date: 2022-03-22 14:33:48 +1000
 | 32 | :soon:            | 2022-03-22 15:40:00 | beaumont    |      5 |        4 | Five Crowns        |   2.25 | pangea,icyhot       |
 | 33 | :soon:            | 2022-03-22 15:25:00 | grafton     |      4 |        2 | Blue Kentucky Moon |   1.8  | overthrow           |
 | 34 | :soon:            | 2022-03-22 15:05:00 | beaumont    |      4 |        3 | Metal Bar          |   6.5  | pikey               |
-| 35 | :soon:            | 2022-03-22 14:45:00 | grafton     |      3 |        8 | Beach Lap          |   3.2  | overthrow           |
-| 36 | :soon:            | 2022-03-22 14:34:00 | rockhampton |      1 |        5 | Buddha             |   3.7  | looseknot           |
+| 35 | --                | 2022-03-22 14:45:00 | grafton     |      3 |        8 | Beach Lap          |   3.2  | overthrow           |
+| 36 | --                | 2022-03-22 14:34:00 | rockhampton |      1 |        5 | Buddha             |   3.7  | looseknot           |
 | 37 | :soon:            | 2022-03-22 14:30:00 | geelong     |      3 |        3 | Galaxy Ruler       |   5    | evenodds,overthrow  |
 | 38 | :3rd_place_medal: | 2022-03-22 14:10:00 | grafton     |      2 |        3 | Roaring Thunder    |   3.2  | milkman             |
 | 39 | :boom:            | 2022-03-22 14:10:00 | grafton     |      2 |        1 | Maxcalemma         |   1.83 | benny,pangea        |
