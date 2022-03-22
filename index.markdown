@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-22 18:03:50 +1000  
+date: 2022-03-22 18:18:51 +1000  
 ---   
 
 
@@ -101,7 +101,7 @@ date: 2022-03-22 18:03:50 +1000
 | 19 | :soon:            | 2022-03-22 18:20:00 | rockhampton |      7 |       10 | The Crown          |  16    | vulture,blackshadow |
 | 20 | :soon:            | 2022-03-22 18:20:00 | rockhampton |      7 |        5 | In Order           |   2.88 | pangea,icyhot       |
 | 21 | :soon:            | 2022-03-22 18:20:00 | rockhampton |      7 |        2 | Brigalow Boy       |   3    | pangea,icyhot       |
-| 22 | --                | 2022-03-22 17:50:00 | grafton     |      8 |        1 | Olympic Class      |   3.25 | pangea              |
+| 22 | 5.0               | 2022-03-22 17:50:00 | grafton     |      8 |        1 | Olympic Class      |   3.25 | pangea              |
 | 23 | :boom:            | 2022-03-22 17:50:00 | grafton     |      8 |        4 | Buffet Buster      |   7.5  | vulture             |
 | 24 | 4.0               | 2022-03-22 17:15:00 | grafton     |      7 |        1 | Far Reaching       |   4.75 | overthrow           |
 | 25 | 7.0               | 2022-03-22 17:04:00 | rockhampton |      5 |        1 | Barachiel          |  19    | blackshadow         |
