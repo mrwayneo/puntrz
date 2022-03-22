@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-22 15:18:48 +1000  
+date: 2022-03-22 15:33:47 +1000  
 ---   
 
 
@@ -21,7 +21,7 @@ date: 2022-03-22 15:18:48 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      7 |      0 |      -70 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      1 |     -117 | 0.07 | -0.84 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      1 |     -221 | 0.04 | -0.92 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      2 |     -206 | 0.08 | -0.86 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     28 |      0 |     -280 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     40 |      1 |     -381 | 0.02 | -0.95 |
 
@@ -112,7 +112,7 @@ date: 2022-03-22 15:18:48 +1000
 | 30 | :soon:            | 2022-03-22 16:05:00 | grafton     |      5 |        7 | Impel Gazelle      |   5.5  | overthrow           |
 | 31 | :soon:            | 2022-03-22 15:47:00 | rockhampton |      3 |        3 | Parkburn           |   1.75 | vulture             |
 | 32 | :soon:            | 2022-03-22 15:40:00 | beaumont    |      5 |        4 | Five Crowns        |   2.25 | pangea,icyhot       |
-| 33 | :soon:            | 2022-03-22 15:25:00 | grafton     |      4 |        2 | Blue Kentucky Moon |   1.8  | overthrow           |
+| 33 | :boom:            | 2022-03-22 15:25:00 | grafton     |      4 |        2 | Blue Kentucky Moon |   1.8  | overthrow           |
 | 34 | :2nd_place_medal: | 2022-03-22 15:05:00 | beaumont    |      4 |        3 | Metal Bar          |   6.5  | pikey               |
 | 35 | 4.0               | 2022-03-22 14:45:00 | grafton     |      3 |        8 | Beach Lap          |   3.2  | overthrow           |
 | 36 | --                | 2022-03-22 14:34:00 | rockhampton |      1 |        5 | Buddha             |   3.7  | looseknot           |
