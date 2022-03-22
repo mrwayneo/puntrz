@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-22 15:49:05 +1000  
+date: 2022-03-22 16:03:51 +1000  
 ---   
 
 
@@ -110,7 +110,7 @@ date: 2022-03-22 15:49:05 +1000
 | 28 | :soon:            | 2022-03-22 16:30:00 | geelong     |      7 |       10 | Andress            |  10    | vulture             |
 | 29 | :soon:            | 2022-03-22 16:27:00 | rockhampton |      4 |        2 | Street Glory       |   3.8  | milkman             |
 | 30 | :soon:            | 2022-03-22 16:05:00 | grafton     |      5 |        7 | Impel Gazelle      |   5.5  | overthrow           |
-| 31 | --                | 2022-03-22 15:47:00 | rockhampton |      3 |        3 | Parkburn           |   1.75 | vulture             |
+| 31 | :2nd_place_medal: | 2022-03-22 15:47:00 | rockhampton |      3 |        3 | Parkburn           |   1.75 | vulture             |
 | 32 | --                | 2022-03-22 15:40:00 | beaumont    |      5 |        4 | Five Crowns        |   2.25 | pangea,icyhot       |
 | 33 | :boom:            | 2022-03-22 15:25:00 | grafton     |      4 |        2 | Blue Kentucky Moon |   1.8  | overthrow           |
 | 34 | :2nd_place_medal: | 2022-03-22 15:05:00 | beaumont    |      4 |        3 | Metal Bar          |   6.5  | pikey               |
