@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-22 17:22:45 +1000  
+date: 2022-03-22 17:33:45 +1000  
 ---   
 
 
@@ -104,9 +104,9 @@ date: 2022-03-22 17:22:45 +1000
 | 22 | :soon:            | 2022-03-22 17:50:00 | grafton     |      8 |        1 | Olympic Class      |   3.25 | pangea              |
 | 23 | :soon:            | 2022-03-22 17:50:00 | grafton     |      8 |        4 | Buffet Buster      |   7.5  | vulture             |
 | 24 | 4.0               | 2022-03-22 17:15:00 | grafton     |      7 |        1 | Far Reaching       |   4.75 | overthrow           |
-| 25 | --                | 2022-03-22 17:04:00 | rockhampton |      5 |        1 | Barachiel          |  19    | blackshadow         |
+| 25 | 7.0               | 2022-03-22 17:04:00 | rockhampton |      5 |        1 | Barachiel          |  19    | blackshadow         |
 | 26 | :boom:            | 2022-03-22 17:04:00 | rockhampton |      5 |        8 | Mocial Chief       |   3.6  | vulture,pangea      |
-| 27 | --                | 2022-03-22 17:04:00 | rockhampton |      5 |        5 | Finucane Missile   |   8    | overthrow           |
+| 27 | 6.0               | 2022-03-22 17:04:00 | rockhampton |      5 |        5 | Finucane Missile   |   8    | overthrow           |
 | 28 | 5.0               | 2022-03-22 16:30:00 | geelong     |      7 |       10 | Andress            |  10    | vulture             |
 | 29 | :3rd_place_medal: | 2022-03-22 16:27:00 | rockhampton |      4 |        2 | Street Glory       |   3.8  | milkman             |
 | 30 | :boom:            | 2022-03-22 16:05:00 | grafton     |      5 |        7 | Impel Gazelle      |   5.5  | overthrow           |
