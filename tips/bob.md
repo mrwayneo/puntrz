@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-03-22 22:49:02 +1000  
+date: 2022-03-23 06:05:10 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
+| Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
 | Last 28 Days   |      9 |      0 |    -90   | 0    | -1    |
-| Last 6 Months  |    107 |     15 |    380   | 0.14 |  0.36 |
-| Since Jan 2020 |    256 |     41 |   3475.5 | 0.16 |  1.36 |
+| Last 6 Months  |    108 |     15 |    370   | 0.14 |  0.34 |
+| Since Jan 2020 |    257 |     41 |   3465.5 | 0.16 |  1.35 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:46             | 2022-03-23 | wetherby R5                   | 1 Bushypark           |  13    |    -10   |
+| 0                 | 2022-03-23 | wetherby R5                   | 1 Bushypark           |   0    |    -10   |
 | 0                 | 2022-03-19 | fakenham R1                   | 7 Fae The Port        |   0    |    -10   |
 | :2nd_place_medal: | 2022-03-18 | moonee-valley R7              | 8 Can't Go Wong       |  29    |    -10   |
 | 7                 | 2022-03-18 | moonee-valley R7              | 5 The Cunning Fox     |  23    |    -10   |
@@ -41,9 +41,9 @@ categories: None
 | 9                 | 2022-01-20 | warrnambool R7                | 8 Prince Of Eagles    |  19    |    -10   |
 | 5                 | 2022-01-20 | plumpton R3                   | 7 Tzar De L'Elfe      |  21    |    -10   |
 | 99                | 2022-01-15 | fairyhouse R1                 | 9 Longacre Square     |   0    |    -10   |
+| :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
 | 13                | 2022-01-15 | flemington R4                 | 10 Tuki Twelve        |  41    |    -10   |
 | 9                 | 2022-01-15 | flemington R4                 | 6 Think Bold          |  20    |    -10   |
-| :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
 | 99                | 2022-01-11 | taunton R3                    | 14 Drag Race          |   0    |    -10   |
 | 4                 | 2022-01-10 | fairyhouse R2                 | 6 Crossgales Ophelia  |   0    |    -10   |
 | 7                 | 2022-01-09 | port-lincoln R5               | 8 Hand to Hand        |  29    |    -10   |
