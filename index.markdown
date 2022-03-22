@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-22 18:48:52 +1000  
+date: 2022-03-22 19:03:52 +1000  
 ---   
 
 
@@ -98,7 +98,7 @@ date: 2022-03-22 18:48:52 +1000
 | 16 | :soon:            | 2022-03-23 01:01:00 | wetherby    |      2 |        8 | Reilly             |   3.5  | overthrow           |
 | 17 | :soon:            | 2022-03-23 00:26:00 | wetherby    |      1 |        6 | Getaway Mission    |   5.5  | looseknot           |
 | 18 | :boom:            | 2022-03-22 18:20:00 | rockhampton |      7 |        4 | Dark Archer        |   4    | benny,blackshadow   |
-| 19 | --                | 2022-03-22 18:20:00 | rockhampton |      7 |       10 | The Crown          |  16    | vulture,blackshadow |
+| 19 | 9.0               | 2022-03-22 18:20:00 | rockhampton |      7 |       10 | The Crown          |  16    | vulture,blackshadow |
 | 20 | :3rd_place_medal: | 2022-03-22 18:20:00 | rockhampton |      7 |        5 | In Order           |   2.88 | pangea,icyhot       |
 | 21 | :2nd_place_medal: | 2022-03-22 18:20:00 | rockhampton |      7 |        2 | Brigalow Boy       |   3    | pangea,icyhot       |
 | 22 | 5.0               | 2022-03-22 17:50:00 | grafton     |      8 |        1 | Olympic Class      |   3.25 | pangea              |
