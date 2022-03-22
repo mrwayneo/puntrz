@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-22 15:03:47 +1000  
+date: 2022-03-22 15:18:47 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 15:05             | 2022-03-22 | beaumont R4           | 3 Metal Bar           |   6.5  |    -10   |
+| :2nd_place_medal: | 2022-03-22 | beaumont R4           | 3 Metal Bar           |   6.5  |    -10   |
 | 4                 | 2022-03-19 | rosehill-gardens R10  | 9 Mallory             |   5    |    -10   |
 | 7                 | 2022-03-19 | rosehill-gardens R7   | 12 Hilal              |   9    |    -10   |
 | :3rd_place_medal: | 2022-03-19 | rosehill-gardens R5   | 1 Angel of Truth      |  10    |    -10   |
