@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-22 18:18:51 +1000  
+date: 2022-03-22 18:33:49 +1000  
 ---   
 
 
@@ -9,19 +9,19 @@ date: 2022-03-22 18:18:51 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      1 |        3 | 0.5  |  0.15 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      2 |       60 | 1    |  3    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      3 |       42 | 0.38 |  0.52 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      3 |        1 | 0.21 |  0.01 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      6 |      1 |       -3 | 0.17 | -0.05 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      2 |      -15 | 0.25 | -0.19 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      5 |      -49 | 0.21 | -0.2  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      5 |      0 |      -50 | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      6 |      0 |      -60 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      0 |      -70 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      7 |      0 |      -70 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      4 |     -106 | 0.17 | -0.44 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     28 |      0 |     -280 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     40 |      3 |     -334 | 0.08 | -0.84 |
 
@@ -97,10 +97,10 @@ date: 2022-03-22 18:18:51 +1000
 | 15 | :soon:            | 2022-03-23 02:11:00 | wetherby    |      4 |        6 | One For Billy      |   4.6  | overthrow           |
 | 16 | :soon:            | 2022-03-23 01:01:00 | wetherby    |      2 |        8 | Reilly             |   3.5  | overthrow           |
 | 17 | :soon:            | 2022-03-23 00:26:00 | wetherby    |      1 |        6 | Getaway Mission    |   5.5  | looseknot           |
-| 18 | :soon:            | 2022-03-22 18:20:00 | rockhampton |      7 |        4 | Dark Archer        |   4    | benny,blackshadow   |
-| 19 | :soon:            | 2022-03-22 18:20:00 | rockhampton |      7 |       10 | The Crown          |  16    | vulture,blackshadow |
-| 20 | :soon:            | 2022-03-22 18:20:00 | rockhampton |      7 |        5 | In Order           |   2.88 | pangea,icyhot       |
-| 21 | :soon:            | 2022-03-22 18:20:00 | rockhampton |      7 |        2 | Brigalow Boy       |   3    | pangea,icyhot       |
+| 18 | :boom:            | 2022-03-22 18:20:00 | rockhampton |      7 |        4 | Dark Archer        |   4    | benny,blackshadow   |
+| 19 | --                | 2022-03-22 18:20:00 | rockhampton |      7 |       10 | The Crown          |  16    | vulture,blackshadow |
+| 20 | :3rd_place_medal: | 2022-03-22 18:20:00 | rockhampton |      7 |        5 | In Order           |   2.88 | pangea,icyhot       |
+| 21 | :2nd_place_medal: | 2022-03-22 18:20:00 | rockhampton |      7 |        2 | Brigalow Boy       |   3    | pangea,icyhot       |
 | 22 | 5.0               | 2022-03-22 17:50:00 | grafton     |      8 |        1 | Olympic Class      |   3.25 | pangea              |
 | 23 | :boom:            | 2022-03-22 17:50:00 | grafton     |      8 |        4 | Buffet Buster      |   7.5  | vulture             |
 | 24 | 4.0               | 2022-03-22 17:15:00 | grafton     |      7 |        1 | Far Reaching       |   4.75 | overthrow           |
