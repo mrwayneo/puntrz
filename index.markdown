@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-22 16:18:55 +1000  
+date: 2022-03-22 16:34:59 +1000  
 ---   
 
 
@@ -107,8 +107,8 @@ date: 2022-03-22 16:18:55 +1000
 | 25 | :soon:            | 2022-03-22 17:04:00 | rockhampton |      5 |        1 | Barachiel          |  19    | blackshadow         |
 | 26 | :soon:            | 2022-03-22 17:04:00 | rockhampton |      5 |        8 | Mocial Chief       |   3.6  | vulture,pangea      |
 | 27 | :soon:            | 2022-03-22 17:04:00 | rockhampton |      5 |        5 | Finucane Missile   |   8    | overthrow           |
-| 28 | :soon:            | 2022-03-22 16:30:00 | geelong     |      7 |       10 | Andress            |  10    | vulture             |
-| 29 | :soon:            | 2022-03-22 16:27:00 | rockhampton |      4 |        2 | Street Glory       |   3.8  | milkman             |
+| 28 | --                | 2022-03-22 16:30:00 | geelong     |      7 |       10 | Andress            |  10    | vulture             |
+| 29 | :3rd_place_medal: | 2022-03-22 16:27:00 | rockhampton |      4 |        2 | Street Glory       |   3.8  | milkman             |
 | 30 | :boom:            | 2022-03-22 16:05:00 | grafton     |      5 |        7 | Impel Gazelle      |   5.5  | overthrow           |
 | 31 | :2nd_place_medal: | 2022-03-22 15:47:00 | rockhampton |      3 |        3 | Parkburn           |   1.75 | vulture             |
 | 32 | 6.0               | 2022-03-22 15:40:00 | beaumont    |      5 |        4 | Five Crowns        |   2.25 | pangea,icyhot       |
