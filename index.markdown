@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-22 17:48:49 +1000  
+date: 2022-03-22 18:03:50 +1000  
 ---   
 
 
@@ -10,6 +10,7 @@ date: 2022-03-22 17:48:49 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      1 |        3 | 0.5  |  0.15 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      3 |        1 | 0.21 |  0.01 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
@@ -20,7 +21,6 @@ date: 2022-03-22 17:48:49 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      7 |      0 |      -70 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      7 |      0 |      -70 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      2 |      -75 | 0.14 | -0.54 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      4 |     -106 | 0.17 | -0.44 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     28 |      0 |     -280 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     40 |      3 |     -334 | 0.08 | -0.84 |
@@ -101,8 +101,8 @@ date: 2022-03-22 17:48:49 +1000
 | 19 | :soon:            | 2022-03-22 18:20:00 | rockhampton |      7 |       10 | The Crown          |  16    | vulture,blackshadow |
 | 20 | :soon:            | 2022-03-22 18:20:00 | rockhampton |      7 |        5 | In Order           |   2.88 | pangea,icyhot       |
 | 21 | :soon:            | 2022-03-22 18:20:00 | rockhampton |      7 |        2 | Brigalow Boy       |   3    | pangea,icyhot       |
-| 22 | :soon:            | 2022-03-22 17:50:00 | grafton     |      8 |        1 | Olympic Class      |   3.25 | pangea              |
-| 23 | :soon:            | 2022-03-22 17:50:00 | grafton     |      8 |        4 | Buffet Buster      |   7.5  | vulture             |
+| 22 | --                | 2022-03-22 17:50:00 | grafton     |      8 |        1 | Olympic Class      |   3.25 | pangea              |
+| 23 | :boom:            | 2022-03-22 17:50:00 | grafton     |      8 |        4 | Buffet Buster      |   7.5  | vulture             |
 | 24 | 4.0               | 2022-03-22 17:15:00 | grafton     |      7 |        1 | Far Reaching       |   4.75 | overthrow           |
 | 25 | 7.0               | 2022-03-22 17:04:00 | rockhampton |      5 |        1 | Barachiel          |  19    | blackshadow         |
 | 26 | :boom:            | 2022-03-22 17:04:00 | rockhampton |      5 |        8 | Mocial Chief       |   3.6  | vulture,pangea      |
