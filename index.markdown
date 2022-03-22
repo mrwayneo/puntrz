@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-22 16:03:51 +1000  
+date: 2022-03-22 16:18:55 +1000  
 ---   
 
 
@@ -21,9 +21,9 @@ date: 2022-03-22 16:03:51 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      7 |      0 |      -70 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      7 |      0 |      -70 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     14 |      1 |     -117 | 0.07 | -0.84 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      2 |     -206 | 0.08 | -0.86 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     24 |      3 |     -134 | 0.12 | -0.56 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     28 |      0 |     -280 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     40 |      1 |     -381 | 0.02 | -0.95 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     40 |      2 |     -362 | 0.05 | -0.9  |
 
 ##### Form Last 20 tips   
 
@@ -109,9 +109,9 @@ date: 2022-03-22 16:03:51 +1000
 | 27 | :soon:            | 2022-03-22 17:04:00 | rockhampton |      5 |        5 | Finucane Missile   |   8    | overthrow           |
 | 28 | :soon:            | 2022-03-22 16:30:00 | geelong     |      7 |       10 | Andress            |  10    | vulture             |
 | 29 | :soon:            | 2022-03-22 16:27:00 | rockhampton |      4 |        2 | Street Glory       |   3.8  | milkman             |
-| 30 | :soon:            | 2022-03-22 16:05:00 | grafton     |      5 |        7 | Impel Gazelle      |   5.5  | overthrow           |
+| 30 | :boom:            | 2022-03-22 16:05:00 | grafton     |      5 |        7 | Impel Gazelle      |   5.5  | overthrow           |
 | 31 | :2nd_place_medal: | 2022-03-22 15:47:00 | rockhampton |      3 |        3 | Parkburn           |   1.75 | vulture             |
-| 32 | --                | 2022-03-22 15:40:00 | beaumont    |      5 |        4 | Five Crowns        |   2.25 | pangea,icyhot       |
+| 32 | 6.0               | 2022-03-22 15:40:00 | beaumont    |      5 |        4 | Five Crowns        |   2.25 | pangea,icyhot       |
 | 33 | :boom:            | 2022-03-22 15:25:00 | grafton     |      4 |        2 | Blue Kentucky Moon |   1.8  | overthrow           |
 | 34 | :2nd_place_medal: | 2022-03-22 15:05:00 | beaumont    |      4 |        3 | Metal Bar          |   6.5  | pikey               |
 | 35 | 4.0               | 2022-03-22 14:45:00 | grafton     |      3 |        8 | Beach Lap          |   3.2  | overthrow           |
