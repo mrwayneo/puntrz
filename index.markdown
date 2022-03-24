@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-24 14:32:50 +1000  
+date: 2022-03-24 22:54:55 +1000  
 ---   
 
 
@@ -9,16 +9,16 @@ date: 2022-03-24 14:32:50 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      1 |       56 | 0.25 |  1.4  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      1 |       35 | 0.5  |  1.75 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      1 |        4 | 0.33 |  0.13 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      1 |      -14 | 0.2  | -0.28 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      3 |      0 |      -30 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |      -40 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      0 |      -50 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     12 |      0 |     -120 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     12 |      2 |      -77 | 0.17 | -0.64 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     18 |      0 |     -180 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     35 |      2 |     -319 | 0.06 | -0.91 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     42 |      0 |     -420 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     35 |      4 |     -213 | 0.11 | -0.61 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     42 |      2 |     -253 | 0.05 | -0.6  |
 
 ##### Form Last 20 tips   
 
@@ -92,21 +92,21 @@ date: 2022-03-24 14:32:50 +1000
 | 15 | :soon:            | 2022-03-24 23:00:00 | turffontein        |      5 |       11 | Humdinger          |   0    | vulture            |
 | 16 | :soon:            | 2022-03-24 23:00:00 | turffontein        |      5 |        2 | Elusive Current    |   0    | vulture            |
 | 17 | :soon:            | 2022-03-24 23:00:00 | turffontein        |      5 |        6 | Say When           |   0    | vulture            |
-| 18 | :soon:            | 2022-03-24 20:45:00 | turffontein        |      1 |        1 | Crown Plaza        |   0    | vulture            |
-| 19 | :soon:            | 2022-03-24 20:30:00 | pinjarra-scarpside |      9 |        8 | Reel Safe          |   4.8  | vulture            |
-| 20 | :soon:            | 2022-03-24 20:15:00 | racing.com-park    |      6 |        4 | Brooklyn Boss      |   3.1  | milkman            |
-| 21 | :soon:            | 2022-03-24 19:30:00 | pinjarra-scarpside |      7 |        1 | Treat Yo Self      |   5.5  | pangea             |
-| 22 | :soon:            | 2022-03-24 18:30:00 | pinjarra-scarpside |      5 |       10 | Ginger's Secret    |   4.2  | overthrow          |
-| 23 | :soon:            | 2022-03-24 18:10:00 | ipswich            |      7 |        6 | Hi Hi Hi           |   4.75 | pangea             |
-| 24 | :soon:            | 2022-03-24 18:10:00 | ipswich            |      7 |        2 | Writtle            |   3.2  | overthrow          |
-| 25 | :soon:            | 2022-03-24 18:00:00 | pinjarra-scarpside |      4 |        6 | Almighty Miss      |  13    | overthrow          |
-| 26 | :soon:            | 2022-03-24 17:22:00 | pinjarra-scarpside |      3 |        6 | Mystical Babe      |   2.25 | evenodds,overthrow |
-| 27 | :soon:            | 2022-03-24 16:55:00 | hawkesbury         |      7 |       11 | Never Cry          |   4.33 | pikey              |
-| 28 | :soon:            | 2022-03-24 16:40:00 | albury             |      6 |        3 | Zakeriz            |   4.8  | looseknot          |
-| 29 | :soon:            | 2022-03-24 16:30:00 | kilmore            |      7 |        6 | Sonora             |   1.8  | vulture            |
-| 30 | :soon:            | 2022-03-24 16:20:00 | hawkesbury         |      6 |       12 | Dance Too Hard     | 126    | pikey              |
-| 31 | :soon:            | 2022-03-24 15:47:00 | ipswich            |      3 |        5 | Splasher           |   4.2  | overthrow          |
-| 32 | :soon:            | 2022-03-24 15:12:00 | ipswich            |      2 |        3 | Sanzera            |   1.91 | evenodds,milkman   |
+| 18 | :boom:            | 2022-03-24 20:45:00 | turffontein        |      1 |        1 | Crown Plaza        |   0    | vulture            |
+| 19 | 9.0               | 2022-03-24 20:30:00 | pinjarra-scarpside |      9 |        8 | Reel Safe          |   4.8  | vulture            |
+| 20 | :boom:            | 2022-03-24 20:15:00 | racing.com-park    |      6 |        4 | Brooklyn Boss      |   3.1  | milkman            |
+| 21 | :boom:            | 2022-03-24 19:30:00 | pinjarra-scarpside |      7 |        1 | Treat Yo Self      |   5.5  | pangea             |
+| 22 | 4.0               | 2022-03-24 18:30:00 | pinjarra-scarpside |      5 |       10 | Ginger's Secret    |   4.2  | overthrow          |
+| 23 | 6.0               | 2022-03-24 18:10:00 | ipswich            |      7 |        6 | Hi Hi Hi           |   4.75 | pangea             |
+| 24 | :3rd_place_medal: | 2022-03-24 18:10:00 | ipswich            |      7 |        2 | Writtle            |   3.2  | overthrow          |
+| 25 | 6.0               | 2022-03-24 18:00:00 | pinjarra-scarpside |      4 |        6 | Almighty Miss      |  13    | overthrow          |
+| 26 | :2nd_place_medal: | 2022-03-24 17:22:00 | pinjarra-scarpside |      3 |        6 | Mystical Babe      |   2.25 | evenodds,overthrow |
+| 27 | :boom:            | 2022-03-24 16:55:00 | hawkesbury         |      7 |       11 | Never Cry          |   4.33 | pikey              |
+| 28 | --                | 2022-03-24 16:40:00 | albury             |      6 |        3 | Zakeriz            |   4.8  | looseknot          |
+| 29 | :boom:            | 2022-03-24 16:30:00 | kilmore            |      7 |        6 | Sonora             |   1.8  | vulture            |
+| 30 | 9.0               | 2022-03-24 16:20:00 | hawkesbury         |      6 |       12 | Dance Too Hard     | 126    | pikey              |
+| 31 | 4.0               | 2022-03-24 15:47:00 | ipswich            |      3 |        5 | Splasher           |   4.2  | overthrow          |
+| 32 | 6.0               | 2022-03-24 15:12:00 | ipswich            |      2 |        3 | Sanzera            |   1.91 | evenodds,milkman   |
 | 33 | :2nd_place_medal: | 2022-03-24 13:50:00 | hawkesbury         |      2 |        4 | Givara             |   3.3  | pikey              |
 | 34 | :3rd_place_medal: | 2022-03-24 13:30:00 | kilmore            |      1 |        2 | Shadowmaker        |   4.8  | looseknot          |
 | 35 | 8.0               | 2022-03-24 13:15:00 | hawkesbury         |      1 |        5 | Pending            |   7.5  | pikey              |

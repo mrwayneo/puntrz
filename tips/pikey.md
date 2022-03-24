@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-24 14:32:49 +1000  
+date: 2022-03-24 22:54:54 +1000  
 categories: None 
 ---   
 
@@ -15,9 +15,9 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 16:55             | 2022-03-24 | hawkesbury R7         | 11 Never Cry          |   4.33 |    -10   |
-| 16:20             | 2022-03-24 | hawkesbury R6         | 12 Dance Too Hard     | 126    |    -10   |
-| 15:05             | 2022-03-24 | hawkesbury R4         | 8 Crowdy Bay          |  21    |    -10   |
+| :boom:            | 2022-03-24 | hawkesbury R7         | 11 Never Cry          |   3.6  |     26   |
+| 9                 | 2022-03-24 | hawkesbury R6         | 12 Dance Too Hard     | 126    |    -10   |
+| 9                 | 2022-03-24 | hawkesbury R4         | 8 Crowdy Bay          |  21    |    -10   |
 | :2nd_place_medal: | 2022-03-24 | hawkesbury R2         | 4 Givara              |   3.3  |    -10   |
 | 8                 | 2022-03-24 | hawkesbury R1         | 5 Pending             |   7.5  |    -10   |
 | :2nd_place_medal: | 2022-03-22 | beaumont R4           | 3 Metal Bar           |   6.5  |    -10   |
