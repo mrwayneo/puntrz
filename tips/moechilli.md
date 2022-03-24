@@ -1,33 +1,27 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-03-23 07:48:24 +1000  
+date: 2022-03-24 13:36:02 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      7 |      0 |    -70   | 0    | -1    |
-| Last 6 Months  |     56 |     11 |    131.2 | 0.2  |  0.23 |
-| Since Jan 2020 |    125 |     33 |    716.6 | 0.26 |  0.57 |
+| Last 28 Days   |      2 |      0 |    -20   | 0    | -1    |
+| Last 6 Months  |     50 |     11 |    191.2 | 0.22 |  0.38 |
+| Since Jan 2020 |    119 |     33 |    776.6 | 0.28 |  0.65 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 0                 | 2022-03-18 | down-royal R7          | 5 Glenanore          |   0    |    -10   |
-| 0                 | 2022-03-14 | cairns R4              | 2 Sparkly Star       |   0    |    -10   |
-| 0                 | 2022-03-14 | cairns R2              | 1 Lord Of Light      |   0    |    -10   |
-| 0                 | 2022-03-09 | newcastle R5           | 2 Bavington Bob      |   0    |    -10   |
-| 0                 | 2022-03-08 | cairns R3              | 3 Sparkly Star       |   0    |    -10   |
-| 0                 | 2022-03-08 | cairns R1              | 1 Lord Of Light      |   0    |    -10   |
+| 99                | 2022-03-18 | down-royal R7          | 5 Glenanore          |   0    |    -10   |
 | :3rd_place_medal: | 2022-03-04 | darwin R5              | 2 Sweet Cheval       |   3.5  |    -10   |
-| 0                 | 2022-02-19 | kelso R6               | 1 Monbeg Chit Chat   |   0    |    -10   |
 | 4                 | 2022-02-18 | cairns R2              | 3 Sparkly Star       |   3.8  |    -10   |
 | :3rd_place_medal: | 2022-02-12 | gold-coast R8          | 3 Lord Markel        |   5.5  |    -10   |
 | 4                 | 2022-02-10 | kilmore R8             | 1 Lord Sundowner     |   8    |    -10   |
 | 4                 | 2022-02-10 | gatton R1              | 3 Diwali Lights      |   4.6  |    -10   |
 | :boom:            | 2022-02-06 | musselburgh R7         | 1 Myth Buster        |   2.4  |     14   |
-| 0                 | 2022-02-04 | esperance-bay R8       | 5 Warzachantz        |   0    |    -10   |
+| :2nd_place_medal: | 2022-02-04 | esperance-bay R8       | 5 Warzachantz        |   0    |    -10   |
 | 6                 | 2022-02-04 | esperance-bay R7       | 5 Noble Reflection   |   4    |    -10   |
 | 8                 | 2022-02-04 | esperance-bay R6       | 5 Translucent        |   6.5  |    -10   |
 | :3rd_place_medal: | 2022-02-04 | esperance-bay R4       | 3 Shadow Shifter     |   4.4  |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-23 07:48:29 +1000  
+date: 2022-03-24 13:36:07 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,17 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      7 |      0 |      -70 | 0    | -1    |
-| Last 28 Days   |     56 |      5 |     -170 | 0.09 | -0.3  |
+| Last 28 Days   |     53 |      5 |     -140 | 0.09 | -0.26 |
 | Last 6 Months  |    416 |    104 |     -872 | 0.25 | -0.21 |
 | Since Jan 2020 |   1049 |    257 |    -1801 | 0.24 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 16:55             | 2022-03-24 | hawkesbury R7         | 11 Never Cry          |   4.33 |    -10   |
+| 16:20             | 2022-03-24 | hawkesbury R6         | 12 Dance Too Hard     | 126    |    -10   |
+| 15:05             | 2022-03-24 | hawkesbury R4         | 8 Crowdy Bay          |  21    |    -10   |
+| 13:50             | 2022-03-24 | hawkesbury R2         | 4 Givara              |   3.3  |    -10   |
+| 0                 | 2022-03-24 | hawkesbury R1         | 5 Pending             |   0    |    -10   |
 | :2nd_place_medal: | 2022-03-22 | beaumont R4           | 3 Metal Bar           |   6.5  |    -10   |
 | 4                 | 2022-03-19 | rosehill-gardens R10  | 9 Mallory             |   5    |    -10   |
 | 7                 | 2022-03-19 | rosehill-gardens R7   | 12 Hilal              |   9    |    -10   |
