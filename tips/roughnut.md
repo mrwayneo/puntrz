@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-03-26 07:10:55 +1000  
+date: 2022-03-26 07:31:36 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 07:30             | 2022-03-26 | dundalk R8                    | 9 Giladah             |   3.8  |    -10   |
+| 0                 | 2022-03-26 | dundalk R8                    | 9 Giladah             |   0    |    -10   |
 | :boom:            | 2022-03-26 | newcastle R5                  | 4 Lovely Mana         |  13    |    120   |
 | 0                 | 2022-03-26 | newcastle R2                  | 4 City Central        |   0    |    -10   |
 | 0                 | 2022-03-26 | musselburgh R7                | 3 Melchoir            |   0    |    -10   |
