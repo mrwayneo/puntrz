@@ -1,21 +1,22 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-03-25 16:46:29 +1000  
+date: 2022-03-26 06:07:18 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      2 |      0 |    -20   | 0    | -1    |
-| Last 6 Months  |     50 |     11 |    191.2 | 0.22 |  0.38 |
-| Since Jan 2020 |    119 |     33 |    776.6 | 0.28 |  0.65 |
+| Last 7 Days    |      2 |      1 |     11   | 0.5  |  0.55 |
+| Last 28 Days   |      4 |      1 |     -9   | 0.25 | -0.22 |
+| Last 6 Months  |     52 |     12 |    202.2 | 0.23 |  0.39 |
+| Since Jan 2020 |    121 |     34 |    787.6 | 0.28 |  0.65 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 18:00             | 2022-03-25 | darwin R3              | 3 Poupee             |   3.4  |    -10   |
-| 0                 | 2022-03-25 | darwin R1              | 2 Sweet Cheval       |   0    |    -10   |
+| :boom:            | 2022-03-25 | darwin R3              | 3 Poupee             |   3.1  |     21   |
+| 7                 | 2022-03-25 | darwin R1              | 2 Sweet Cheval       |   5    |    -10   |
 | 99                | 2022-03-18 | down-royal R7          | 5 Glenanore          |   0    |    -10   |
 | :3rd_place_medal: | 2022-03-04 | darwin R5              | 2 Sweet Cheval       |   3.5  |    -10   |
 | 4                 | 2022-02-18 | cairns R2              | 3 Sparkly Star       |   3.8  |    -10   |
