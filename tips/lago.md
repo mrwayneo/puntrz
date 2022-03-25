@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-25 07:50:39 +1000  
+date: 2022-03-25 15:36:43 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
+| 19:15             | 2022-03-25 | moonee-valley R3             | 1 Bello Beau         |  3.75 |    -10   |
+| 18:15             | 2022-03-25 | moonee-valley R1             | 6 Ice Pick Nick      |  7    |    -10   |
 | :boom:            | 2022-03-23 | exeter R6                    | 2 Park Hill Dancer   |  2.1  |     11   |
 | 0                 | 2022-03-22 | southwell R3                 | 1 Fancy Stuff        |  0    |    -10   |
 | :boom:            | 2022-03-20 | alice-springs R2             | 1 Dakota Lee         |  1.1  |      1   |
@@ -45,8 +47,8 @@ categories: None
 | :boom:            | 2022-02-12 | bangor R5                    | 1 Jungle Jack        |  1.85 |      8.5 |
 | 0                 | 2022-02-10 | albany R5                    | 6 Special Royale     |  0    |    -10   |
 | 4                 | 2022-02-09 | ipswich R9                   | 9 Sanzera            |  5.5  |    -10   |
-| 0                 | 2022-02-07 | leopardstown R8              | 5 Eabha Grace        |  0    |    -10   |
 | 0                 | 2022-02-07 | leopardstown R8              | 14 Pink In The Park  |  0    |    -10   |
+| 0                 | 2022-02-07 | leopardstown R8              | 5 Eabha Grace        |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6            | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5                | 1 Bello Beau         |  2    |     10   |
 | 0                 | 2022-02-06 | leopardstown R7              | 4 Embassy Gardens    |  0    |    -10   |
@@ -166,8 +168,8 @@ categories: None
 | 99                | 2021-06-19 | royal-ascot R1               | 3 New Science        |  7.5  |    -10   |
 | 99                | 2021-06-19 | royal-ascot R3               | 21 Suesa             |  3.25 |    -10   |
 | 99                | 2021-06-17 | royal-ascot R1               | 9 Lucci              |  8    |    -10   |
-| 99                | 2021-06-17 | royal-ascot R6               | 26 Golden Bell       |  9    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R6               | 28 Ruthin            |  4    |    -10   |
+| 99                | 2021-06-17 | royal-ascot R6               | 26 Golden Bell       |  9    |    -10   |
 | 5                 | 2021-06-12 | sandown-hillside R1          | 1 Mimosas            | 13.2  |    -10   |
 | :boom:            | 2021-06-12 | clonmel R8                   | 2 Dani Barcelona     |  1.62 |      6.2 |
 | :boom:            | 2021-06-11 | sandown R3                   | 8 Native Trail       |  1.8  |      8   |

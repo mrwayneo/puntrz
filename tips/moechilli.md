@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-03-25 07:50:34 +1000  
+date: 2022-03-25 15:36:37 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,8 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
+| 18:00             | 2022-03-25 | darwin R3              | 3 Poupee             |   3.4  |    -10   |
+| 16:45             | 2022-03-25 | darwin R1              | 2 Sweet Cheval       |   5    |    -10   |
 | 99                | 2022-03-18 | down-royal R7          | 5 Glenanore          |   0    |    -10   |
 | :3rd_place_medal: | 2022-03-04 | darwin R5              | 2 Sweet Cheval       |   3.5  |    -10   |
 | 4                 | 2022-02-18 | cairns R2              | 3 Sparkly Star       |   3.8  |    -10   |
