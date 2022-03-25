@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-26 06:07:24 +1000  
+date: 2022-03-26 06:25:41 +1000  
 ---   
 
 
@@ -61,7 +61,7 @@ date: 2022-03-26 06:07:24 +1000
 
 |    | finish            | time                | track         |   race |   number | name               |   odds | tipster            |
 |---:|:------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:            | 2022-03-26 06:15:00 | newcastle     |      4 |        6 | Loose Lips         |   4    | looseknot          |
+|  0 | --                | 2022-03-26 06:15:00 | newcastle     |      4 |        6 | Loose Lips         |   4    | looseknot          |
 |  1 | --                | 2022-03-26 05:15:00 | newcastle     |      2 |        6 | Boulivar           |   3    | milkman            |
 |  2 | :boom:            | 2022-03-26 04:30:00 | dundalk       |      2 |        1 | Dances With Stars  |   3.25 | vulture            |
 |  3 | :2nd_place_medal: | 2022-03-26 03:50:00 | newton-abbot  |      6 |        3 | Sandalwood         |   8.5  | overthrow          |
