@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-03-27 17:34:06 +1000  
+date: 2022-03-28 06:09:41 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      8 |      1 |      -21 | 0.12 | -0.26 |
-| Last 6 Months  |    102 |     17 |     1882 | 0.17 |  1.85 |
-| Since Jan 2020 |    244 |     43 |     4729 | 0.18 |  1.94 |
+| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
+| Last 28 Days   |      9 |      1 |      -31 | 0.11 | -0.34 |
+| Last 6 Months  |    103 |     17 |     1872 | 0.17 |  1.82 |
+| Since Jan 2020 |    245 |     43 |     4719 | 0.18 |  1.93 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 00:26             | 2022-03-28 | carlisle R2            | 10 Donladd            |  18   |      -10 |
+| 0                 | 2022-03-28 | carlisle R2            | 10 Donladd            |   0   |      -10 |
 | 5                 | 2022-03-20 | pinjarra R6            | 6 Burn One Down       |  14   |      -10 |
 | :3rd_place_medal: | 2022-03-19 | morphettville-parks R7 | 9 Cassowary           |  16   |      -10 |
 | 4                 | 2022-03-19 | ascot R2               | 10 Art Admirer        |  26   |      -10 |
@@ -173,8 +174,8 @@ categories: None
 | 99                | 2021-06-12 | fairyhouse R3          | 14 Swiss Ace          |  26   |      -10 |
 | :boom:            | 2021-06-11 | swan-hill R3           | 4 Air Defence         |  10.2 |       92 |
 | 99                | 2021-06-10 | pukekura-raceway R2    | 9 Mandalay            |  51   |      -10 |
-| 4                 | 2021-06-06 | devonport-synthetic R9 | 6 Odin's Folly        |  14   |      -10 |
 | :boom:            | 2021-06-06 | devonport-synthetic R9 | 5 Elisavet            |  11   |      100 |
+| 4                 | 2021-06-06 | devonport-synthetic R9 | 6 Odin's Folly        |  14   |      -10 |
 | 9                 | 2021-06-06 | pinjarra R2            | 3 Halatorion          |  31   |      -10 |
 | 11                | 2021-06-05 | flemington R3          | 14 Just Folk          |  17   |      -10 |
 | 7                 | 2021-05-29 | randwick R6            | 10 Wayupinthesky      |  21   |      -10 |

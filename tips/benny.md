@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-03-27 17:33:55 +1000  
+date: 2022-03-28 06:09:32 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      3 |    142   | 0.75 |  3.55 |
-| Last 28 Days   |     52 |     11 |      5   | 0.21 |  0.01 |
-| Last 6 Months  |    388 |     68 |  -1430.5 | 0.18 | -0.37 |
-| Since Jan 2020 |    934 |    197 |   -995.5 | 0.21 | -0.11 |
+| Last 7 Days    |      3 |      1 |     72   | 0.33 |  2.4  |
+| Last 28 Days   |     51 |     11 |     15   | 0.22 |  0.03 |
+| Last 6 Months  |    389 |     68 |  -1440.5 | 0.17 | -0.37 |
+| Since Jan 2020 |    935 |    197 |  -1005.5 | 0.21 | -0.11 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
@@ -555,8 +555,8 @@ categories: None
 | 11                | 2021-06-05 | eagle-farm R7                 | 6 Fabric              | 14    |    -10   |
 | :3rd_place_medal: | 2021-06-05 | eagle-farm R6                 | 7 Luvoir              |  6    |    -10   |
 | :2nd_place_medal: | 2021-06-05 | wanganui R7                   | 9 Crowning Star       |  7    |    -10   |
-| 6                 | 2021-06-05 | eagle-farm R4                 | 3 Spurcraft           | 11    |    -10   |
 | :boom:            | 2021-06-05 | eagle-farm R4                 | 1 Usmanov             |  3.3  |     23   |
+| 6                 | 2021-06-05 | eagle-farm R4                 | 3 Spurcraft           | 11    |    -10   |
 | :3rd_place_medal: | 2021-06-03 | wyong R7                      | 7 Lake Tai            |  5.5  |    -10   |
 | :boom:            | 2021-06-02 | doomben R6                    | 2 Starosa             |  3.7  |     27   |
 | 6                 | 2021-06-02 | warwick-farm R5               | 2 Egyptian Missile    | 13.2  |    -10   |
