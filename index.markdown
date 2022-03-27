@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-27 13:13:07 +1000  
+date: 2022-03-27 13:22:57 +1000  
 ---   
 
 
@@ -110,5 +110,5 @@ date: 2022-03-27 13:13:07 +1000
 | 29 | :soon:   | 2022-03-27 16:20:00 | murray-bdge    |      5 |        8 | Mr Metrics         |   2.15 | vulture,milkman    |
 | 30 | :soon:   | 2022-03-27 16:05:00 | sunshine-coast |      5 |       12 | Melisma            |   3.7  | pangea             |
 | 31 | :soon:   | 2022-03-27 15:50:00 | hobart         |      6 |        4 | Rhyme Writer       |   5.5  | pangea             |
-| 32 | :soon:   | 2022-03-27 13:20:00 | ballarat       |      1 |        8 | Wilbury            |   4.6  | vulture            |
-| 33 | :soon:   | 2022-03-27 13:00:00 | bairnsdale     |      1 |        2 | Ready Set Com      |   0    | looseknot          |
+| 32 | --       | 2022-03-27 13:20:00 | ballarat       |      1 |        8 | Wilbury            |   4.6  | vulture            |
+| 33 | --       | 2022-03-27 13:00:00 | bairnsdale     |      1 |        2 | Ready Set Com      |   0    | looseknot          |
