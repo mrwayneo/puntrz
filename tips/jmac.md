@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-28 07:58:35 +1000  
+date: 2022-03-28 08:59:24 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,9 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 16:40             | 2022-03-28 | newcastle R5         | 2 Spanish Mission    |  4.8  |    -10   |
+| 16:00             | 2022-03-28 | newcastle R4         | 5 Imaging            |  4.6  |    -10   |
+| 15:25             | 2022-03-28 | newcastle R3         | 9 Kiku               |  9.5  |    -10   |
 | :3rd_place_medal: | 2022-03-19 | rosehill-gardens R10 | 1 Steinem            |  4.33 |    -10   |
 | :2nd_place_medal: | 2022-03-19 | rosehill-gardens R7  | 8 Colette            |  4.4  |    -10   |
 | :boom:            | 2022-03-19 | rosehill-gardens R6  | 1 Anamoe             |  1.6  |      6   |

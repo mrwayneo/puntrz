@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-28 07:58:35 +1000  
+date: 2022-03-28 08:59:24 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 16:40             | 2022-03-28 | newcastle R5          | 6 Angel of Truth      |  14    |    -10   |
+| 16:00             | 2022-03-28 | newcastle R4          | 14 Mr Mozart          |   3.6  |    -10   |
 | :boom:            | 2022-03-24 | hawkesbury R7         | 11 Never Cry          |   3.6  |     26   |
 | 9                 | 2022-03-24 | hawkesbury R6         | 12 Dance Too Hard     | 126    |    -10   |
 | 9                 | 2022-03-24 | hawkesbury R4         | 8 Crowdy Bay          |  21    |    -10   |

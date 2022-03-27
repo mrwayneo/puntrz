@@ -1,11 +1,24 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-28 07:58:36 +1000  
+date: 2022-03-28 08:59:25 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      2 |      0 |      -20 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      2 |      0 |      -20 |    0 |    -1 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      3 |      0 |      -30 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      4 |      0 |      -40 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      6 |      0 |      -60 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      9 |      0 |      -90 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     14 |      0 |     -140 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     19 |      0 |     -190 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,39 +72,24 @@ date: 2022-03-28 07:58:36 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6147 |    782 | -14330.1 | 0.13 | -0.23 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7855 |    366 | -22899.5 | 0.05 | -0.29 |
 
-|    | finish            | time                | track          |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | 4.0               | 2022-03-28 03:25:00 | doncaster      |      8 |        7 | Typewriter         |   5.5  | vulture            |
-|  1 | --                | 2022-03-28 03:25:00 | doncaster      |      8 |        1 | Base Note          |   7.5  | vulture            |
-|  2 | :boom:            | 2022-03-28 03:10:00 | limerick       |      8 |        1 | Impulsive Dancer   |   4.2  | evenodds,lago      |
-|  3 | :3rd_place_medal: | 2022-03-28 03:10:00 | limerick       |      8 |        2 | Mercurey           |   1.32 | evenodds,lago      |
-|  4 | :2nd_place_medal: | 2022-03-28 02:30:00 | ascot          |      7 |        1 | Adrien Du Pont     |   1.65 | overthrow          |
-|  5 | :boom:            | 2022-03-28 02:30:00 | ascot          |      7 |        2 | Law Of Gold        |   2.3  | pangea,milkman     |
-|  6 | --                | 2022-03-28 01:30:00 | greyville      |      8 |        6 | Roha               |   0    | vulture            |
-|  7 | --                | 2022-03-28 01:20:00 | ascot          |      5 |        1 | Bothwell Bridge    |   2.4  | overthrow          |
-|  8 | :boom:            | 2022-03-28 01:20:00 | ascot          |      5 |        2 | Danny Kirwan       |   3.6  | overthrow          |
-|  9 | :boom:            | 2022-03-28 01:10:00 | doncaster      |      4 |        3 | Dawn Of Liberation |   1.85 | vulture            |
-| 10 | --                | 2022-03-28 00:55:00 | greyville      |      7 |        5 | Shampompo Shampizi |   0    | vulture            |
-| 11 | --                | 2022-03-28 00:55:00 | greyville      |      7 |        1 | Chijmes            |   0    | pangea             |
-| 12 | --                | 2022-03-28 00:55:00 | greyville      |      7 |       11 | Gentleman's Wager  |   0    | vulture            |
-| 13 | --                | 2022-03-28 00:45:00 | ascot          |      4 |        2 | Magistrato         |  11    | overthrow          |
-| 14 | --                | 2022-03-28 00:45:00 | ascot          |      4 |        1 | Dr T J Eckleburg   |   4.8  | vulture            |
-| 15 | --                | 2022-03-28 00:45:00 | ascot          |      4 |        4 | Kotmask            |  13    | milkman            |
-| 16 | :2nd_place_medal: | 2022-03-28 00:26:00 | carlisle       |      2 |        3 | Armattiekan        |   5    | pangea,blackshadow |
-| 17 | --                | 2022-03-28 00:26:00 | carlisle       |      2 |       10 | Donladd            |  18    | cosmo,bluey        |
-| 18 | --                | 2022-03-28 00:20:00 | greyville      |      6 |        4 | Manhatten Cafe     |   0    | vulture            |
-| 19 | :2nd_place_medal: | 2022-03-28 00:10:00 | ascot          |      3 |        1 | Thyme White        |   1.7  | evenodds,overthrow |
-| 20 | :boom:            | 2022-03-28 00:10:00 | ascot          |      3 |        2 | Golden Boy Grey    |   3.9  | vulture            |
-| 21 | --                | 2022-03-27 23:45:00 | greyville      |      5 |        3 | Arumugam           |   0    | vulture            |
-| 22 | :boom:            | 2022-03-27 23:35:00 | ascot          |      2 |        2 | Chavez             |   2.25 | overthrow          |
-| 23 | :2nd_place_medal: | 2022-03-27 23:00:00 | ascot          |      1 |        2 | Sizable Sam        |   2.25 | vulture            |
-| 24 | --                | 2022-03-27 22:35:00 | greyville      |      3 |        3 | Spy Master         |   0    | vulture            |
-| 25 | :boom:            | 2022-03-27 18:00:00 | sunshine-coast |      8 |        3 | Wham               |   8.5  | pangea             |
-| 26 | :boom:            | 2022-03-27 17:29:00 | sunshine-coast |      7 |        5 | Safeeya            |   2.88 | overthrow          |
-| 27 | 5.0               | 2022-03-27 16:35:00 | bairnsdale     |      7 |        1 | Black Sail         |   1.91 | pangea             |
-| 28 | 6.0               | 2022-03-27 16:20:00 | murray-bdge    |      5 |        3 | Koruto             |   6    | benny,pangea       |
-| 29 | :boom:            | 2022-03-27 16:20:00 | murray-bdge    |      5 |        8 | Mr Metrics         |   2.15 | vulture,milkman    |
-| 30 | 4.0               | 2022-03-27 16:05:00 | sunshine-coast |      5 |       12 | Melisma            |   3.7  | pangea             |
-| 31 | :3rd_place_medal: | 2022-03-27 15:50:00 | hobart         |      6 |        4 | Rhyme Writer       |   5.5  | pangea             |
-| 32 | 5.0               | 2022-03-27 13:20:00 | ballarat       |      1 |        8 | Wilbury            |   4.6  | vulture            |
-| 33 | 6.0               | 2022-03-27 13:00:00 | bairnsdale     |      1 |        2 | Ready Set Com      |   0    | looseknot          |
+|    | finish   | time                | track     |   race |   number | name            |   odds | tipster             |
+|---:|:---------|:--------------------|:----------|-------:|---------:|:----------------|-------:|:--------------------|
+|  0 | :soon:   | 2022-03-29 04:00:00 | newcastle |      2 |        3 | Moonis          |   4.2  | overthrow,looseknot |
+|  1 | :soon:   | 2022-03-29 03:15:00 | ludlow    |      7 |        1 | Wagner          |   1.75 | overthrow           |
+|  2 | :soon:   | 2022-03-29 02:40:00 | ludlow    |      6 |        4 | Kayf Taoi       |   2.15 | overthrow           |
+|  3 | :soon:   | 2022-03-29 02:05:00 | ludlow    |      5 |        2 | Gran Luna       |   2.1  | evenodds,overthrow  |
+|  4 | :soon:   | 2022-03-29 01:30:00 | ludlow    |      4 |        1 | Real Steel      |   8    | overthrow           |
+|  5 | :soon:   | 2022-03-29 00:55:00 | ludlow    |      3 |        2 | Wild Max        |   4.2  | overthrow           |
+|  6 | :soon:   | 2022-03-29 00:55:00 | ludlow    |      3 |        1 | Balko Saint     |   5    | overthrow           |
+|  7 | :soon:   | 2022-03-29 00:30:00 | greyville |      6 |        3 | Astrocyte       |   0    | vulture             |
+|  8 | :soon:   | 2022-03-29 00:20:00 | ludlow    |      2 |        1 | Atholl Street   |   3.4  | evenodds,overthrow  |
+|  9 | :soon:   | 2022-03-28 23:55:00 | greyville |      5 |        8 | So They Say     |   0    | vulture             |
+| 10 | :soon:   | 2022-03-28 22:45:00 | greyville |      3 |        2 | Winter Melody   |   0    | overthrow           |
+| 11 | :soon:   | 2022-03-28 16:40:00 | newcastle |      5 |        9 | Mightybeel      |  21    | pangea              |
+| 12 | :soon:   | 2022-03-28 16:40:00 | newcastle |      5 |        2 | Spanish Mission |   4.8  | pangea,jmac         |
+| 13 | :soon:   | 2022-03-28 16:40:00 | newcastle |      5 |        6 | Angel of Truth  |  14    | pikey               |
+| 14 | :soon:   | 2022-03-28 16:00:00 | newcastle |      4 |        5 | Imaging         |   4.6  | pangea,jmac         |
+| 15 | :soon:   | 2022-03-28 16:00:00 | newcastle |      4 |       14 | Mr Mozart       |   3.6  | pikey               |
+| 16 | :soon:   | 2022-03-28 15:25:00 | newcastle |      3 |        2 | Krone           |  10    | pangea              |
+| 17 | :soon:   | 2022-03-28 15:25:00 | newcastle |      3 |        7 | Annavisto       |   2.88 | vulture             |
+| 18 | :soon:   | 2022-03-28 15:25:00 | newcastle |      3 |        9 | Kiku            |   9.5  | jmac                |
