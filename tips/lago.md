@@ -1,20 +1,22 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-26 07:55:30 +1000  
+date: 2022-03-27 13:13:06 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      2 |     39   | 0.5  |  0.98 |
-| Last 28 Days   |     23 |     10 |     63.5 | 0.43 |  0.28 |
+| Last 7 Days    |      3 |      2 |     49   | 0.67 |  1.63 |
+| Last 28 Days   |     22 |     10 |     73.5 | 0.45 |  0.33 |
 | Last 6 Months  |    129 |     63 |    410.7 | 0.49 |  0.32 |
 | Since Jan 2020 |    238 |    116 |   1410.7 | 0.49 |  0.59 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
+| 03:10             | 2022-03-28 | limerick R8                  | 2 Mercurey           |  1.32 |    -10   |
+| 03:10             | 2022-03-28 | limerick R8                  | 1 Impulsive Dancer   |  4.2  |    -10   |
 | 5                 | 2022-03-25 | moonee-valley R3             | 1 Bello Beau         |  3.75 |    -10   |
 | :boom:            | 2022-03-25 | moonee-valley R1             | 6 Ice Pick Nick      |  5.8  |     48   |
 | :boom:            | 2022-03-23 | exeter R6                    | 2 Park Hill Dancer   |  2.1  |     11   |
@@ -168,8 +170,8 @@ categories: None
 | 99                | 2021-06-19 | royal-ascot R1               | 3 New Science        |  7.5  |    -10   |
 | 99                | 2021-06-19 | royal-ascot R3               | 21 Suesa             |  3.25 |    -10   |
 | 99                | 2021-06-17 | royal-ascot R1               | 9 Lucci              |  8    |    -10   |
-| 99                | 2021-06-17 | royal-ascot R6               | 26 Golden Bell       |  9    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R6               | 28 Ruthin            |  4    |    -10   |
+| 99                | 2021-06-17 | royal-ascot R6               | 26 Golden Bell       |  9    |    -10   |
 | 5                 | 2021-06-12 | sandown-hillside R1          | 1 Mimosas            | 13.2  |    -10   |
 | :boom:            | 2021-06-12 | clonmel R8                   | 2 Dani Barcelona     |  1.62 |      6.2 |
 | :boom:            | 2021-06-11 | sandown R3                   | 8 Native Trail       |  1.8  |      8   |
