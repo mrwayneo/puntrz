@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-28 08:59:25 +1000  
+date: 2022-03-28 17:53:28 +1000  
 ---   
 
 
@@ -9,16 +9,16 @@ date: 2022-03-28 08:59:25 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      2 |      0 |      -20 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      2 |      0 |      -20 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      3 |      0 |      -30 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      4 |      0 |      -40 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      6 |      0 |      -60 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      9 |      0 |      -90 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     14 |      0 |     -140 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     19 |      0 |     -190 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      2 |      1 |       13 | 0.5  |  0.65 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      2 |      0 |      -20 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      3 |      0 |      -30 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      4 |      0 |      -40 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      6 |      0 |      -60 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      9 |      0 |      -90 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     14 |      0 |     -140 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     19 |      1 |     -174 | 0.05 | -0.92 |
 
 ##### Form Last 20 tips   
 
@@ -72,24 +72,24 @@ date: 2022-03-28 08:59:25 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6147 |    782 | -14330.1 | 0.13 | -0.23 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7855 |    366 | -22899.5 | 0.05 | -0.29 |
 
-|    | finish   | time                | track     |   race |   number | name            |   odds | tipster             |
-|---:|:---------|:--------------------|:----------|-------:|---------:|:----------------|-------:|:--------------------|
-|  0 | :soon:   | 2022-03-29 04:00:00 | newcastle |      2 |        3 | Moonis          |   4.2  | overthrow,looseknot |
-|  1 | :soon:   | 2022-03-29 03:15:00 | ludlow    |      7 |        1 | Wagner          |   1.75 | overthrow           |
-|  2 | :soon:   | 2022-03-29 02:40:00 | ludlow    |      6 |        4 | Kayf Taoi       |   2.15 | overthrow           |
-|  3 | :soon:   | 2022-03-29 02:05:00 | ludlow    |      5 |        2 | Gran Luna       |   2.1  | evenodds,overthrow  |
-|  4 | :soon:   | 2022-03-29 01:30:00 | ludlow    |      4 |        1 | Real Steel      |   8    | overthrow           |
-|  5 | :soon:   | 2022-03-29 00:55:00 | ludlow    |      3 |        2 | Wild Max        |   4.2  | overthrow           |
-|  6 | :soon:   | 2022-03-29 00:55:00 | ludlow    |      3 |        1 | Balko Saint     |   5    | overthrow           |
-|  7 | :soon:   | 2022-03-29 00:30:00 | greyville |      6 |        3 | Astrocyte       |   0    | vulture             |
-|  8 | :soon:   | 2022-03-29 00:20:00 | ludlow    |      2 |        1 | Atholl Street   |   3.4  | evenodds,overthrow  |
-|  9 | :soon:   | 2022-03-28 23:55:00 | greyville |      5 |        8 | So They Say     |   0    | vulture             |
-| 10 | :soon:   | 2022-03-28 22:45:00 | greyville |      3 |        2 | Winter Melody   |   0    | overthrow           |
-| 11 | :soon:   | 2022-03-28 16:40:00 | newcastle |      5 |        9 | Mightybeel      |  21    | pangea              |
-| 12 | :soon:   | 2022-03-28 16:40:00 | newcastle |      5 |        2 | Spanish Mission |   4.8  | pangea,jmac         |
-| 13 | :soon:   | 2022-03-28 16:40:00 | newcastle |      5 |        6 | Angel of Truth  |  14    | pikey               |
-| 14 | :soon:   | 2022-03-28 16:00:00 | newcastle |      4 |        5 | Imaging         |   4.6  | pangea,jmac         |
-| 15 | :soon:   | 2022-03-28 16:00:00 | newcastle |      4 |       14 | Mr Mozart       |   3.6  | pikey               |
-| 16 | :soon:   | 2022-03-28 15:25:00 | newcastle |      3 |        2 | Krone           |  10    | pangea              |
-| 17 | :soon:   | 2022-03-28 15:25:00 | newcastle |      3 |        7 | Annavisto       |   2.88 | vulture             |
-| 18 | :soon:   | 2022-03-28 15:25:00 | newcastle |      3 |        9 | Kiku            |   9.5  | jmac                |
+|    | finish            | time                | track     |   race |   number | name            |   odds | tipster             |
+|---:|:------------------|:--------------------|:----------|-------:|---------:|:----------------|-------:|:--------------------|
+|  0 | :soon:            | 2022-03-29 04:00:00 | newcastle |      2 |        3 | Moonis          |   4.2  | overthrow,looseknot |
+|  1 | :soon:            | 2022-03-29 03:15:00 | ludlow    |      7 |        1 | Wagner          |   1.75 | overthrow           |
+|  2 | :soon:            | 2022-03-29 02:40:00 | ludlow    |      6 |        4 | Kayf Taoi       |   2.15 | overthrow           |
+|  3 | :soon:            | 2022-03-29 02:05:00 | ludlow    |      5 |        2 | Gran Luna       |   2.1  | evenodds,overthrow  |
+|  4 | :soon:            | 2022-03-29 01:30:00 | ludlow    |      4 |        1 | Real Steel      |   8    | overthrow           |
+|  5 | :soon:            | 2022-03-29 00:55:00 | ludlow    |      3 |        2 | Wild Max        |   4.2  | overthrow           |
+|  6 | :soon:            | 2022-03-29 00:55:00 | ludlow    |      3 |        1 | Balko Saint     |   5    | overthrow           |
+|  7 | :soon:            | 2022-03-29 00:30:00 | greyville |      6 |        3 | Astrocyte       |   0    | vulture             |
+|  8 | :soon:            | 2022-03-29 00:20:00 | ludlow    |      2 |        1 | Atholl Street   |   3.4  | evenodds,overthrow  |
+|  9 | :soon:            | 2022-03-28 23:55:00 | greyville |      5 |        8 | So They Say     |   0    | vulture             |
+| 10 | :soon:            | 2022-03-28 22:45:00 | greyville |      3 |        2 | Winter Melody   |   0    | overthrow           |
+| 11 | 6.0               | 2022-03-28 16:40:00 | newcastle |      5 |        9 | Mightybeel      |  21    | pangea              |
+| 12 | 9.0               | 2022-03-28 16:40:00 | newcastle |      5 |        2 | Spanish Mission |   4.8  | pangea,jmac         |
+| 13 | 5.0               | 2022-03-28 16:40:00 | newcastle |      5 |        6 | Angel of Truth  |  14    | pikey               |
+| 14 | 10.0              | 2022-03-28 16:00:00 | newcastle |      4 |        5 | Imaging         |   4.6  | pangea,jmac         |
+| 15 | :boom:            | 2022-03-28 16:00:00 | newcastle |      4 |       14 | Mr Mozart       |   3.6  | pikey               |
+| 16 | 7.0               | 2022-03-28 15:25:00 | newcastle |      3 |        2 | Krone           |  10    | pangea              |
+| 17 | 4.0               | 2022-03-28 15:25:00 | newcastle |      3 |        7 | Annavisto       |   2.88 | vulture             |
+| 18 | :2nd_place_medal: | 2022-03-28 15:25:00 | newcastle |      3 |        9 | Kiku            |   9.5  | jmac                |
