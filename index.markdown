@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-29 14:50:33 +1000  
+date: 2022-03-29 15:05:27 +1000  
 ---   
 
 
@@ -95,7 +95,7 @@ date: 2022-03-29 14:50:33 +1000
 | 15 | :soon:   | 2022-03-29 16:05:00 | scone         |      5 |        6 | Beholder          |   6    | evenodds,pikey     |
 | 16 | :soon:   | 2022-03-29 15:47:00 | mackay        |      4 |        3 | Cabalo Escuro     |   1.67 | moechilli          |
 | 17 | :soon:   | 2022-03-29 15:25:00 | scone         |      4 |        1 | Duke Of Gordon    |   8    | looseknot,pikey    |
-| 18 | --       | 2022-03-29 14:45:00 | scone         |      3 |        5 | Endorphins        |   4.8  | pangea,icyhot      |
+| 18 | 4.0      | 2022-03-29 14:45:00 | scone         |      3 |        5 | Endorphins        |   4.8  | pangea,icyhot      |
 | 19 | :boom:   | 2022-03-29 14:10:00 | scone         |      2 |        7 | Harmony Halo      |   7.5  | pikey              |
 | 20 | :boom:   | 2022-03-29 13:57:00 | mackay        |      1 |        4 | Tilly's Secret    |   4.33 | vulture            |
 | 21 | :boom:   | 2022-03-29 13:35:00 | scone         |      1 |        1 | Jamesonheart      |   1.75 | overthrow,pikey    |
