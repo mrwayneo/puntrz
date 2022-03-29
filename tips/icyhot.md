@@ -1,22 +1,21 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-03-29 10:24:05 +1000  
+date: 2022-03-29 11:06:37 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      1 |     -5   | 0.5  | -0.25 |
-| Last 28 Days   |     27 |      9 |      0.5 | 0.33 |  0    |
-| Last 6 Months  |    242 |     75 |   -471   | 0.31 | -0.19 |
-| Since Jan 2020 |    579 |    190 |   -536.6 | 0.33 | -0.09 |
+| Last 7 Days    |      1 |      1 |      5   | 1    |  0.5  |
+| Last 28 Days   |     26 |      9 |     10.5 | 0.35 |  0.04 |
+| Last 6 Months  |    241 |     75 |   -461   | 0.31 | -0.19 |
+| Since Jan 2020 |    578 |    190 |   -526.6 | 0.33 | -0.09 |
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
 | 14:45             | 2022-03-29 | scone R3                     | 5 Endorphins          |  4.8  |    -10   |
-| 0                 | 2022-03-25 | moonee-valley R1             | 4 Growl               |  0    |    -10   |
 | :boom:            | 2022-03-25 | townsville R3                | 4 Namazu              |  1.5  |      5   |
 | :3rd_place_medal: | 2022-03-22 | rockhampton R7               | 5 In Order            |  2.88 |    -10   |
 | :2nd_place_medal: | 2022-03-22 | rockhampton R7               | 2 Brigalow Boy        |  3    |    -10   |
@@ -56,7 +55,7 @@ categories: None
 | :2nd_place_medal: | 2022-02-20 | port-lincoln R5              | 2 Irish Mint          |  2.88 |    -10   |
 | :boom:            | 2022-02-19 | singapore R10                | 7 Lim's Kosciuszko    |  1.4  |      4   |
 | :2nd_place_medal: | 2022-02-19 | alice-springs R3             | 2 Valley Prince       |  1.6  |    -10   |
-| :2nd_place_medal: | 2022-02-19 | morphettville-parks R8       | 4 Royal Mile          |  6.5  |    -10   |
+| :2nd_place_medal: | 2022-02-19 | morphettville-parks R8       | 4 Royal Mile          |  8.5  |    -10   |
 | :2nd_place_medal: | 2022-02-19 | flemington R7                | 1 Nature Strip        |  2.5  |    -10   |
 | 4                 | 2022-02-19 | rosehill-gardens R4          | 1 Krone               |  5.5  |    -10   |
 | :2nd_place_medal: | 2022-02-18 | moonee-valley R6             | 2 Daqiansweet Junior  |  2.75 |    -10   |
@@ -284,8 +283,8 @@ categories: None
 | 99                | 2021-07-29 | goodwood R4                  | 1 Century Dream       | 16    |    -10   |
 | :2nd_place_medal: | 2021-07-28 | darwin R5                    | 5 Syncline            |  3.4  |    -10   |
 | :boom:            | 2021-07-26 | pontefract R3                | 1 Corinthia Knight    |  4.4  |     34   |
-| :boom:            | 2021-07-25 | oamaru R6                    | 3 Dunhill             |  3.9  |     29   |
 | 7                 | 2021-07-25 | oamaru R6                    | 5 Pete The Driver     | 10    |    -10   |
+| :boom:            | 2021-07-25 | oamaru R6                    | 3 Dunhill             |  3.9  |     29   |
 | :boom:            | 2021-07-24 | darwin R5                    | 8 Belmont Day         |  2.6  |     16   |
 | :2nd_place_medal: | 2021-07-24 | mackay R7                    | 3 The Egyptian        |  4    |    -10   |
 | :2nd_place_medal: | 2021-07-24 | caulfield R4                 | 1 La Mexicana         |  3.3  |    -10   |
@@ -393,8 +392,8 @@ categories: None
 | 99                | 2021-04-24 | ellerslie R8                 | 5 Markus Aurelius     |  2.05 |    -10   |
 | :3rd_place_medal: | 2021-04-24 | doomben R5                   | 7 Walking Flying      |  3.25 |    -10   |
 | 4                 | 2021-04-24 | doomben R2                   | 1 Humbolt Current     |  3.9  |    -10   |
-| 9                 | 2021-04-21 | ipswich R8                   | 2 Grand Zou           | 14    |    -10   |
 | 7                 | 2021-04-21 | ipswich R8                   | 3 Amicitia            |  7.5  |    -10   |
+| 9                 | 2021-04-21 | ipswich R8                   | 2 Grand Zou           | 14    |    -10   |
 | :boom:            | 2021-04-20 | epsom-downs R3               | 3 Victory Chime       |  9    |     80   |
 | 4                 | 2021-04-20 | mackay R4                    | 3 Moreno              |  3    |    -10   |
 | :2nd_place_medal: | 2021-04-20 | mackay R4                    | 7 Princess Rules      |  4.6  |    -10   |
@@ -447,8 +446,8 @@ categories: None
 | :boom:            | 2021-03-21 | sha-tin R9                   | 4 Fantastic Way       |  1.9  |      9   |
 | :boom:            | 2021-03-21 | sha-tin R7                   | 8 Courier Wonder      |  1.15 |      1.5 |
 | :boom:            | 2021-03-19 | moonee-valley R8             | 9 Marabi              |  1.2  |      2   |
-| 8                 | 2021-03-19 | moonee-valley R7             | 14 Swats That         |  9    |    -10   |
 | 12                | 2021-03-19 | moonee-valley R7             | 1 Hey Doc             |  8.5  |    -10   |
+| 8                 | 2021-03-19 | moonee-valley R7             | 14 Swats That         |  9    |    -10   |
 | 5                 | 2021-03-17 | doomben R4                   | 4 Gunnobe             |  2.7  |    -10   |
 | :boom:            | 2021-03-17 | cheltenham R4                | 10 Honeysuckle        |  2.2  |     12   |
 | :2nd_place_medal: | 2021-03-14 | hereford R4                  | 4 Hollywoodien        |  5.5  |    -10   |
@@ -615,8 +614,8 @@ categories: None
 | 6                 | 2020-01-25 | gawler R2                    | 4 Rose Tiara          | 18.2  |    -10   |
 | :2nd_place_medal: | 2020-01-25 | sunshine-coast R1            | 3 Ruby Guru           |  3.8  |    -10   |
 | :boom:            | 2020-01-22 | canterbury R5                | 2 Knowitall Jack      |  3.6  |     26   |
-| 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
 | :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
+| 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
 | 6                 | 2020-01-11 | pinjarra R8                  | 11 Midnight Sky       |  6.5  |    -10   |
 | :boom:            | 2020-01-11 | pinjarra R6                  | 12 Put A Spell On You |  5    |     40   |
 | :3rd_place_medal: | 2020-01-11 | kembla-grange R6             | 4 Superbowl Sunday    |  2.15 |    -10   |

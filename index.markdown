@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-29 10:24:11 +1000  
+date: 2022-03-29 11:06:44 +1000  
 ---   
 
 
@@ -39,11 +39,11 @@ date: 2022-03-29 10:24:11 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |      5.5 | 0.4  |  0.03 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      7 |      1   | 0.35 |  0    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      5 |    -17   | 0.25 | -0.08 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      6 |    -19.8 | 0.3  | -0.1  |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -31.5 | 0.4  | -0.16 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      6 |    -35.7 | 0.3  | -0.18 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |    -42   | 0.25 | -0.21 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      5 |    -45.8 | 0.25 | -0.23 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |    -68   | 0.15 | -0.34 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -75.3 | 0.2  | -0.38 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      2 |   -131   | 0.1  | -0.66 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -184   | 0.05 | -0.92 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      0 |   -200   | 0    | -1    |
@@ -61,18 +61,18 @@ date: 2022-03-29 10:24:11 +1000
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     24 |     10 |    -34.5 | 0.42 | -0.14 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     57 |      9 |   -269   | 0.16 | -0.47 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    255 |     59 |   -440.9 | 0.23 | -0.17 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    211 |     66 |   -452.4 | 0.31 | -0.21 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    210 |     66 |   -442.4 | 0.31 | -0.21 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    342 |     83 |   -594.5 | 0.24 | -0.17 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    316 |     69 |   -624.2 | 0.22 | -0.2  |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    556 |     75 |   -829.5 | 0.13 | -0.15 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |    321 |     60 |   -939.8 | 0.19 | -0.29 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    568 |    141 |  -1556.5 | 0.25 | -0.27 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    315 |     69 |   -614.2 | 0.22 | -0.19 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    555 |     75 |   -819.5 | 0.14 | -0.15 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |    320 |     60 |   -929.8 | 0.19 | -0.29 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    565 |    141 |  -1526.5 | 0.25 | -0.27 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1096 |    283 |  -1947.8 | 0.26 | -0.18 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2305 |    123 |  -2413   | 0.05 | -0.1  |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1803 |    360 |  -3501.6 | 0.2  | -0.19 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2420 |    597 |  -3652   | 0.25 | -0.15 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2231 |    541 |  -3951.7 | 0.24 | -0.18 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6163 |    781 | -14508.1 | 0.13 | -0.24 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2300 |    123 |  -2363   | 0.05 | -0.1  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1799 |    360 |  -3461.6 | 0.2  | -0.19 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2410 |    599 |  -3494   | 0.25 | -0.14 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2220 |    541 |  -3841.7 | 0.24 | -0.17 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6139 |    786 | -14059.7 | 0.13 | -0.23 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7864 |    366 | -22743.5 | 0.05 | -0.29 |
 
 |    | finish   | time                | track         |   race |   number | name              |   odds | tipster            |
@@ -88,13 +88,13 @@ date: 2022-03-29 10:24:11 +1000
 |  8 | :soon:   | 2022-03-29 23:30:00 | fontwell      |      2 |        1 | Friend Or Foe     |   1.75 | evenodds,overthrow |
 |  9 | :soon:   | 2022-03-29 21:55:00 | durbanville   |      1 |        3 | Who Do You Love   |   0    | milkman            |
 | 10 | :soon:   | 2022-03-29 17:04:00 | mackay        |      6 |        5 | Norwegian Wood    |   7.5  | pangea             |
-| 11 | :soon:   | 2022-03-29 17:04:00 | mackay        |      6 |        3 | Sonic Arrow       |   3.4  | pangea,overthrow   |
-| 12 | :soon:   | 2022-03-29 17:04:00 | mackay        |      6 |        1 | Moonshiner        |   3.9  | vulture            |
+| 11 | :soon:   | 2022-03-29 17:04:00 | mackay        |      6 |        3 | Sonic Arrow       |   3.6  | pangea,overthrow   |
+| 12 | :soon:   | 2022-03-29 17:04:00 | mackay        |      6 |        1 | Moonshiner        |   3.8  | vulture            |
 | 13 | :soon:   | 2022-03-29 16:40:00 | scone         |      6 |        4 | Isalute           |   5    | pikey              |
-| 14 | :soon:   | 2022-03-29 16:05:00 | scone         |      5 |        9 | Sabino            |   5.5  | benny,pangea       |
-| 15 | :soon:   | 2022-03-29 16:05:00 | scone         |      5 |        6 | Beholder          |   5.5  | evenodds,pikey     |
+| 14 | :soon:   | 2022-03-29 16:05:00 | scone         |      5 |        9 | Sabino            |   4.75 | benny,pangea       |
+| 15 | :soon:   | 2022-03-29 16:05:00 | scone         |      5 |        6 | Beholder          |   6    | evenodds,pikey     |
 | 16 | :soon:   | 2022-03-29 15:47:00 | mackay        |      4 |        3 | Cabalo Escuro     |   1.67 | moechilli          |
-| 17 | :soon:   | 2022-03-29 15:25:00 | scone         |      4 |        1 | Duke Of Gordon    |   7.5  | looseknot,pikey    |
+| 17 | :soon:   | 2022-03-29 15:25:00 | scone         |      4 |        1 | Duke Of Gordon    |   8    | looseknot,pikey    |
 | 18 | :soon:   | 2022-03-29 14:45:00 | scone         |      3 |        5 | Endorphins        |   4.8  | pangea,icyhot      |
 | 19 | :soon:   | 2022-03-29 14:10:00 | scone         |      2 |        7 | Harmony Halo      |   7.5  | pikey              |
 | 20 | :soon:   | 2022-03-29 13:57:00 | mackay        |      1 |        4 | Tilly's Secret    |   4.33 | vulture            |

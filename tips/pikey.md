@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-29 10:24:10 +1000  
+date: 2022-03-29 11:06:43 +1000  
 categories: None 
 ---   
 
@@ -16,8 +16,8 @@ categories: None
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 16:40             | 2022-03-29 | scone R6              | 4 Isalute             |   5    |    -10   |
-| 16:05             | 2022-03-29 | scone R5              | 6 Beholder            |   5.5  |    -10   |
-| 15:25             | 2022-03-29 | scone R4              | 1 Duke Of Gordon      |   7.5  |    -10   |
+| 16:05             | 2022-03-29 | scone R5              | 6 Beholder            |   6    |    -10   |
+| 15:25             | 2022-03-29 | scone R4              | 1 Duke Of Gordon      |   8    |    -10   |
 | 14:10             | 2022-03-29 | scone R2              | 7 Harmony Halo        |   7.5  |    -10   |
 | 13:35             | 2022-03-29 | scone R1              | 1 Jamesonheart        |   1.75 |    -10   |
 | 5                 | 2022-03-28 | newcastle R5          | 6 Angel of Truth      |  14    |    -10   |
