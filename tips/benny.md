@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-03-29 22:50:25 +1000  
+date: 2022-03-30 06:12:17 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      1 |     72   | 0.33 |  2.4  |
-| Last 28 Days   |     49 |     11 |     35   | 0.22 |  0.07 |
-| Last 6 Months  |    388 |     68 |  -1430.5 | 0.18 | -0.37 |
-| Since Jan 2020 |    934 |    197 |   -995.5 | 0.21 | -0.11 |
+| Last 7 Days    |      5 |      1 |     52   | 0.2  |  1.04 |
+| Last 28 Days   |     51 |     11 |     15   | 0.22 |  0.03 |
+| Last 6 Months  |    390 |     68 |  -1450.5 | 0.17 | -0.37 |
+| Since Jan 2020 |    936 |    197 |  -1015.5 | 0.21 | -0.11 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
@@ -29,8 +29,8 @@ categories: None
 | 5                 | 2022-03-19 | ipswich R7                    | 4 Kirra Lass          |  5.5  |    -10   |
 | :3rd_place_medal: | 2022-03-19 | flemington R8                 | 6 Grandslam           |  4.5  |    -10   |
 | :boom:            | 2022-03-19 | ascot R2                      | 9 Stella Fair         |  4.9  |     39   |
-| 6                 | 2022-03-19 | rosehill-gardens R5           | 2 Entente             | 23    |    -10   |
 | :3rd_place_medal: | 2022-03-19 | rosehill-gardens R5           | 1 Angel of Truth      | 10    |    -10   |
+| 6                 | 2022-03-19 | rosehill-gardens R5           | 2 Entente             | 23    |    -10   |
 | :boom:            | 2022-03-19 | morphettville-parks R3        | 6 Daring Move         |  2.9  |     19   |
 | 8                 | 2022-03-19 | morphettville-parks R2        | 7 Ambidazzle          |  4    |    -10   |
 | 7                 | 2022-03-18 | moonee-valley R6              | 8 Zoushine            | 13    |    -10   |
@@ -570,8 +570,8 @@ categories: None
 | :boom:            | 2021-05-29 | darwin R1                     | 7 The Auditor         | 12.5  |    115   |
 | :boom:            | 2021-05-29 | belmont R2                    | 6 Graceful Girl       |  2.6  |     16   |
 | 7                 | 2021-05-29 | eagle-farm R5                 | 2 Le Don De Vie       |  3.6  |    -10   |
-| :2nd_place_medal: | 2021-05-29 | eagle-farm R3                 | 9 Ayrton              |  1.6  |    -10   |
 | 11                | 2021-05-29 | eagle-farm R3                 | 10 Not an Option      | 26    |    -10   |
+| :2nd_place_medal: | 2021-05-29 | eagle-farm R3                 | 9 Ayrton              |  1.6  |    -10   |
 | 8                 | 2021-05-29 | eagle-farm R2                 | 14 Beachbreak         | 11    |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R7             | 5 Queen Dazzler       |  3.4  |    -10   |
 | :2nd_place_medal: | 2021-05-27 | northam R9                    | 7 Brave Dream         |  5.1  |    -10   |
