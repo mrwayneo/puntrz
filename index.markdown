@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-29 15:20:23 +1000  
+date: 2022-03-29 15:35:17 +1000  
 ---   
 
 
@@ -75,27 +75,27 @@ date: 2022-03-29 15:20:23 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6139 |    786 | -14059.7 | 0.13 | -0.23 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7864 |    366 | -22743.5 | 0.05 | -0.29 |
 
-|    | finish   | time                | track         |   race |   number | name              |   odds | tipster            |
-|---:|:---------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-03-30 06:30:00 | wolverhampton |      6 |        4 | Swilcan Bridge    |   3.7  | vulture            |
-|  1 | :soon:   | 2022-03-30 06:00:00 | wolverhampton |      5 |        1 | Stormy Ocean      |   2.2  | evenodds,overthrow |
-|  2 | :soon:   | 2022-03-30 05:30:00 | wolverhampton |      4 |        8 | Plumette          |   4.6  | vulture            |
-|  3 | :soon:   | 2022-03-30 03:20:00 | uttoxeter     |      7 |        3 | Maid Of The Night |  12    | vulture,milkman    |
-|  4 | :soon:   | 2022-03-30 03:20:00 | uttoxeter     |      7 |        6 | Touchy Feely      |   1.9  | evenodds,overthrow |
-|  5 | :soon:   | 2022-03-30 02:10:00 | uttoxeter     |      5 |        4 | River Legend      |   3.3  | overthrow          |
-|  6 | :soon:   | 2022-03-30 01:25:00 | navan         |      3 |       13 | Derrinlaur        |   7.5  | looseknot          |
-|  7 | :soon:   | 2022-03-30 01:25:00 | navan         |      3 |       10 | Female Approach   |   8.5  | looseknot          |
-|  8 | :soon:   | 2022-03-29 23:30:00 | fontwell      |      2 |        1 | Friend Or Foe     |   1.75 | evenodds,overthrow |
-|  9 | :soon:   | 2022-03-29 21:55:00 | durbanville   |      1 |        3 | Who Do You Love   |   0    | milkman            |
-| 10 | :soon:   | 2022-03-29 17:04:00 | mackay        |      6 |        5 | Norwegian Wood    |   7.5  | pangea             |
-| 11 | :soon:   | 2022-03-29 17:04:00 | mackay        |      6 |        3 | Sonic Arrow       |   3.6  | pangea,overthrow   |
-| 12 | :soon:   | 2022-03-29 17:04:00 | mackay        |      6 |        1 | Moonshiner        |   3.8  | vulture            |
-| 13 | :soon:   | 2022-03-29 16:40:00 | scone         |      6 |        4 | Isalute           |   5    | pikey              |
-| 14 | :soon:   | 2022-03-29 16:05:00 | scone         |      5 |        9 | Sabino            |   4.75 | benny,pangea       |
-| 15 | :soon:   | 2022-03-29 16:05:00 | scone         |      5 |        6 | Beholder          |   6    | evenodds,pikey     |
-| 16 | :soon:   | 2022-03-29 15:47:00 | mackay        |      4 |        3 | Cabalo Escuro     |   1.67 | moechilli          |
-| 17 | :soon:   | 2022-03-29 15:25:00 | scone         |      4 |        1 | Duke Of Gordon    |   8    | looseknot,pikey    |
-| 18 | 4.0      | 2022-03-29 14:45:00 | scone         |      3 |        5 | Endorphins        |   4.8  | pangea,icyhot      |
-| 19 | :boom:   | 2022-03-29 14:10:00 | scone         |      2 |        7 | Harmony Halo      |   7.5  | pikey              |
-| 20 | :boom:   | 2022-03-29 13:57:00 | mackay        |      1 |        4 | Tilly's Secret    |   4.33 | vulture            |
-| 21 | :boom:   | 2022-03-29 13:35:00 | scone         |      1 |        1 | Jamesonheart      |   1.75 | overthrow,pikey    |
+|    | finish            | time                | track         |   race |   number | name              |   odds | tipster            |
+|---:|:------------------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-03-30 06:30:00 | wolverhampton |      6 |        4 | Swilcan Bridge    |   3.7  | vulture            |
+|  1 | :soon:            | 2022-03-30 06:00:00 | wolverhampton |      5 |        1 | Stormy Ocean      |   2.2  | evenodds,overthrow |
+|  2 | :soon:            | 2022-03-30 05:30:00 | wolverhampton |      4 |        8 | Plumette          |   4.6  | vulture            |
+|  3 | :soon:            | 2022-03-30 03:20:00 | uttoxeter     |      7 |        3 | Maid Of The Night |  12    | vulture,milkman    |
+|  4 | :soon:            | 2022-03-30 03:20:00 | uttoxeter     |      7 |        6 | Touchy Feely      |   1.9  | evenodds,overthrow |
+|  5 | :soon:            | 2022-03-30 02:10:00 | uttoxeter     |      5 |        4 | River Legend      |   3.3  | overthrow          |
+|  6 | :soon:            | 2022-03-30 01:25:00 | navan         |      3 |       13 | Derrinlaur        |   7.5  | looseknot          |
+|  7 | :soon:            | 2022-03-30 01:25:00 | navan         |      3 |       10 | Female Approach   |   8.5  | looseknot          |
+|  8 | :soon:            | 2022-03-29 23:30:00 | fontwell      |      2 |        1 | Friend Or Foe     |   1.75 | evenodds,overthrow |
+|  9 | :soon:            | 2022-03-29 21:55:00 | durbanville   |      1 |        3 | Who Do You Love   |   0    | milkman            |
+| 10 | :soon:            | 2022-03-29 17:04:00 | mackay        |      6 |        5 | Norwegian Wood    |   7.5  | pangea             |
+| 11 | :soon:            | 2022-03-29 17:04:00 | mackay        |      6 |        3 | Sonic Arrow       |   3.6  | pangea,overthrow   |
+| 12 | :soon:            | 2022-03-29 17:04:00 | mackay        |      6 |        1 | Moonshiner        |   3.8  | vulture            |
+| 13 | :soon:            | 2022-03-29 16:40:00 | scone         |      6 |        4 | Isalute           |   5    | pikey              |
+| 14 | :soon:            | 2022-03-29 16:05:00 | scone         |      5 |        9 | Sabino            |   4.75 | benny,pangea       |
+| 15 | :soon:            | 2022-03-29 16:05:00 | scone         |      5 |        6 | Beholder          |   6    | evenodds,pikey     |
+| 16 | :soon:            | 2022-03-29 15:47:00 | mackay        |      4 |        3 | Cabalo Escuro     |   1.67 | moechilli          |
+| 17 | :3rd_place_medal: | 2022-03-29 15:25:00 | scone         |      4 |        1 | Duke Of Gordon    |   8    | looseknot,pikey    |
+| 18 | 4.0               | 2022-03-29 14:45:00 | scone         |      3 |        5 | Endorphins        |   4.8  | pangea,icyhot      |
+| 19 | :boom:            | 2022-03-29 14:10:00 | scone         |      2 |        7 | Harmony Halo      |   7.5  | pikey              |
+| 20 | :boom:            | 2022-03-29 13:57:00 | mackay        |      1 |        4 | Tilly's Secret    |   4.33 | vulture            |
+| 21 | :boom:            | 2022-03-29 13:35:00 | scone         |      1 |        1 | Jamesonheart      |   1.75 | overthrow,pikey    |
