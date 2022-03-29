@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-29 15:50:24 +1000  
+date: 2022-03-29 16:06:59 +1000  
 ---   
 
 
@@ -9,9 +9,9 @@ date: 2022-03-29 15:50:24 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      1 |        7 | 1    |  0.7  |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      2 |        3 | 0.4  |  0.06 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 | 0    | -1    |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      0 |      -20 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    | -1    |
@@ -20,7 +20,7 @@ date: 2022-03-29 15:50:24 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      7 |      1 |      -56 | 0.14 | -0.8  |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      6 |      0 |      -60 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     21 |      1 |     -196 | 0.05 | -0.93 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     21 |      2 |     -169 | 0.1  | -0.8  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     30 |      0 |     -300 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -91,9 +91,9 @@ date: 2022-03-29 15:50:24 +1000
 | 11 | :soon:            | 2022-03-29 17:04:00 | mackay        |      6 |        3 | Sonic Arrow       |   3.6  | pangea,overthrow   |
 | 12 | :soon:            | 2022-03-29 17:04:00 | mackay        |      6 |        1 | Moonshiner        |   3.8  | vulture            |
 | 13 | :soon:            | 2022-03-29 16:40:00 | scone         |      6 |        4 | Isalute           |   5    | pikey              |
-| 14 | :soon:            | 2022-03-29 16:05:00 | scone         |      5 |        9 | Sabino            |   4.75 | benny,pangea       |
-| 15 | :soon:            | 2022-03-29 16:05:00 | scone         |      5 |        6 | Beholder          |   6    | evenodds,pikey     |
-| 16 | --                | 2022-03-29 15:47:00 | mackay        |      4 |        3 | Cabalo Escuro     |   1.67 | moechilli          |
+| 14 | --                | 2022-03-29 16:05:00 | scone         |      5 |        9 | Sabino            |   4.75 | benny,pangea       |
+| 15 | --                | 2022-03-29 16:05:00 | scone         |      5 |        6 | Beholder          |   6    | evenodds,pikey     |
+| 16 | :boom:            | 2022-03-29 15:47:00 | mackay        |      4 |        3 | Cabalo Escuro     |   1.67 | moechilli          |
 | 17 | :3rd_place_medal: | 2022-03-29 15:25:00 | scone         |      4 |        1 | Duke Of Gordon    |   8    | looseknot,pikey    |
 | 18 | 4.0               | 2022-03-29 14:45:00 | scone         |      3 |        5 | Endorphins        |   4.8  | pangea,icyhot      |
 | 19 | :boom:            | 2022-03-29 14:10:00 | scone         |      2 |        7 | Harmony Halo      |   7.5  | pikey              |
