@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-03-30 07:54:09 +1000  
+date: 2022-03-30 08:13:25 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,10 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 17:50             | 2022-03-30 | canterbury R8        | 8 Calgary Queen      |  3.8  |    -10   |
+| 16:40             | 2022-03-30 | canterbury R6        | 11 Aton Of Delight   |  9    |    -10   |
+| 16:05             | 2022-03-30 | canterbury R5        | 7 Girls Are Ready    |  3.5  |    -10   |
+| 14:20             | 2022-03-30 | canterbury R2        | 6 The Art Of Flying  |  1.95 |    -10   |
 | 9                 | 2022-03-28 | newcastle R5         | 2 Spanish Mission    |  4.8  |    -10   |
 | 10                | 2022-03-28 | newcastle R4         | 5 Imaging            |  4.6  |    -10   |
 | :2nd_place_medal: | 2022-03-28 | newcastle R3         | 9 Kiku               |  9.5  |    -10   |

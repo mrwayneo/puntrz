@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-30 07:54:09 +1000  
+date: 2022-03-30 08:13:25 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,11 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 17:50             | 2022-03-30 | canterbury R8         | 12 Hasty Duchess      |  15    |    -10   |
+| 17:15             | 2022-03-30 | canterbury R7         | 7 Stolen Jade         |   8.5  |    -10   |
+| 16:40             | 2022-03-30 | canterbury R6         | 12 Bladnoch           |  34    |    -10   |
+| 14:55             | 2022-03-30 | canterbury R3         | 4 White Boots         |   7    |    -10   |
+| 13:45             | 2022-03-30 | canterbury R1         | 9 Wollombi            |  19    |    -10   |
 | 7                 | 2022-03-29 | scone R6              | 4 Isalute             |   5    |    -10   |
 | :boom:            | 2022-03-29 | scone R5              | 6 Beholder            |   4.7  |     37   |
 | :3rd_place_medal: | 2022-03-29 | scone R4              | 1 Duke Of Gordon      |   8    |    -10   |
