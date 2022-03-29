@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-29 16:37:11 +1000  
+date: 2022-03-29 16:52:04 +1000  
 ---   
 
 
@@ -90,7 +90,7 @@ date: 2022-03-29 16:37:11 +1000
 | 10 | :soon:            | 2022-03-29 17:04:00 | mackay        |      6 |        5 | Norwegian Wood    |   7.5  | pangea             |
 | 11 | :soon:            | 2022-03-29 17:04:00 | mackay        |      6 |        3 | Sonic Arrow       |   3.6  | pangea,overthrow   |
 | 12 | :soon:            | 2022-03-29 17:04:00 | mackay        |      6 |        1 | Moonshiner        |   3.8  | vulture            |
-| 13 | :soon:            | 2022-03-29 16:40:00 | scone         |      6 |        4 | Isalute           |   5    | pikey              |
+| 13 | 7.0               | 2022-03-29 16:40:00 | scone         |      6 |        4 | Isalute           |   5    | pikey              |
 | 14 | :3rd_place_medal: | 2022-03-29 16:05:00 | scone         |      5 |        9 | Sabino            |   4.75 | benny,pangea       |
 | 15 | :boom:            | 2022-03-29 16:05:00 | scone         |      5 |        6 | Beholder          |   6    | evenodds,pikey     |
 | 16 | :boom:            | 2022-03-29 15:47:00 | mackay        |      4 |        3 | Cabalo Escuro     |   1.67 | moechilli          |
