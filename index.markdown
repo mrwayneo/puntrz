@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-29 17:07:21 +1000  
+date: 2022-03-29 17:22:09 +1000  
 ---   
 
 
@@ -12,13 +12,13 @@ date: 2022-03-29 17:07:21 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      3 |       50 | 0.6  |  1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      4 |      1 |        7 | 0.25 |  0.18 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      1 |        7 | 1    |  0.7  |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      9 |      2 |       -4 | 0.22 | -0.04 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      7 |      2 |       -9 | 0.29 | -0.13 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      6 |      1 |      -13 | 0.17 | -0.22 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      0 |      -20 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      9 |      1 |      -46 | 0.11 | -0.51 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     21 |      3 |     -143 | 0.14 | -0.68 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     30 |      1 |     -245 | 0.03 | -0.82 |
@@ -88,8 +88,8 @@ date: 2022-03-29 17:07:21 +1000
 |  8 | :soon:            | 2022-03-29 23:30:00 | fontwell      |      2 |        1 | Friend Or Foe     |   1.75 | evenodds,overthrow |
 |  9 | :soon:            | 2022-03-29 21:55:00 | durbanville   |      1 |        3 | Who Do You Love   |   0    | milkman            |
 | 10 | --                | 2022-03-29 17:04:00 | mackay        |      6 |        5 | Norwegian Wood    |   7.5  | pangea             |
-| 11 | --                | 2022-03-29 17:04:00 | mackay        |      6 |        3 | Sonic Arrow       |   3.6  | pangea,overthrow   |
-| 12 | --                | 2022-03-29 17:04:00 | mackay        |      6 |        1 | Moonshiner        |   3.8  | vulture            |
+| 11 | :2nd_place_medal: | 2022-03-29 17:04:00 | mackay        |      6 |        3 | Sonic Arrow       |   3.6  | pangea,overthrow   |
+| 12 | :boom:            | 2022-03-29 17:04:00 | mackay        |      6 |        1 | Moonshiner        |   3.8  | vulture            |
 | 13 | 7.0               | 2022-03-29 16:40:00 | scone         |      6 |        4 | Isalute           |   5    | pikey              |
 | 14 | :3rd_place_medal: | 2022-03-29 16:05:00 | scone         |      5 |        9 | Sabino            |   4.75 | benny,pangea       |
 | 15 | :boom:            | 2022-03-29 16:05:00 | scone         |      5 |        6 | Beholder          |   6    | evenodds,pikey     |
