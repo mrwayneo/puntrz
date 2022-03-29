@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-29 13:40:22 +1000  
+date: 2022-03-29 14:50:33 +1000  
 ---   
 
 
@@ -9,19 +9,19 @@ date: 2022-03-29 13:40:22 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 |    0 |    -1 |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      0 |      -10 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      0 |      -20 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      4 |      0 |      -40 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      0 |      -50 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      6 |      0 |      -60 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      7 |      0 |      -70 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      9 |      0 |      -90 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     21 |      0 |     -210 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     30 |      0 |     -300 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      2 |        3 | 0.4  |  0.06 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 | 0    | -1    |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      0 |      -10 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      0 |      -20 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      4 |      0 |      -40 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      9 |      1 |      -46 | 0.11 | -0.51 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      7 |      1 |      -56 | 0.14 | -0.8  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      6 |      0 |      -60 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     21 |      1 |     -196 | 0.05 | -0.93 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     30 |      0 |     -300 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -95,7 +95,7 @@ date: 2022-03-29 13:40:22 +1000
 | 15 | :soon:   | 2022-03-29 16:05:00 | scone         |      5 |        6 | Beholder          |   6    | evenodds,pikey     |
 | 16 | :soon:   | 2022-03-29 15:47:00 | mackay        |      4 |        3 | Cabalo Escuro     |   1.67 | moechilli          |
 | 17 | :soon:   | 2022-03-29 15:25:00 | scone         |      4 |        1 | Duke Of Gordon    |   8    | looseknot,pikey    |
-| 18 | :soon:   | 2022-03-29 14:45:00 | scone         |      3 |        5 | Endorphins        |   4.8  | pangea,icyhot      |
-| 19 | :soon:   | 2022-03-29 14:10:00 | scone         |      2 |        7 | Harmony Halo      |   7.5  | pikey              |
-| 20 | :soon:   | 2022-03-29 13:57:00 | mackay        |      1 |        4 | Tilly's Secret    |   4.33 | vulture            |
-| 21 | --       | 2022-03-29 13:35:00 | scone         |      1 |        1 | Jamesonheart      |   1.75 | overthrow,pikey    |
+| 18 | --       | 2022-03-29 14:45:00 | scone         |      3 |        5 | Endorphins        |   4.8  | pangea,icyhot      |
+| 19 | :boom:   | 2022-03-29 14:10:00 | scone         |      2 |        7 | Harmony Halo      |   7.5  | pikey              |
+| 20 | :boom:   | 2022-03-29 13:57:00 | mackay        |      1 |        4 | Tilly's Secret    |   4.33 | vulture            |
+| 21 | :boom:   | 2022-03-29 13:35:00 | scone         |      1 |        1 | Jamesonheart      |   1.75 | overthrow,pikey    |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-29 13:40:21 +1000  
+date: 2022-03-29 14:50:32 +1000  
 categories: None 
 ---   
 
@@ -18,8 +18,8 @@ categories: None
 | 16:40             | 2022-03-29 | scone R6              | 4 Isalute             |   5    |    -10   |
 | 16:05             | 2022-03-29 | scone R5              | 6 Beholder            |   6    |    -10   |
 | 15:25             | 2022-03-29 | scone R4              | 1 Duke Of Gordon      |   8    |    -10   |
-| 14:10             | 2022-03-29 | scone R2              | 7 Harmony Halo        |   7.5  |    -10   |
-| 0                 | 2022-03-29 | scone R1              | 1 Jamesonheart        |   0    |    -10   |
+| :boom:            | 2022-03-29 | scone R2              | 7 Harmony Halo        |   3.9  |     29   |
+| :boom:            | 2022-03-29 | scone R1              | 1 Jamesonheart        |   1.4  |      4   |
 | 5                 | 2022-03-28 | newcastle R5          | 6 Angel of Truth      |  14    |    -10   |
 | :boom:            | 2022-03-28 | newcastle R4          | 14 Mr Mozart          |   3.3  |     23   |
 | :boom:            | 2022-03-24 | hawkesbury R7         | 11 Never Cry          |   3.6  |     26   |
