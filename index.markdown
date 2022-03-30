@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-30 14:15:20 +1000  
+date: 2022-03-30 14:29:30 +1000  
 ---   
 
 
@@ -11,14 +11,14 @@ date: 2022-03-30 14:15:20 +1000
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |    -10   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |    -10   | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      1 |    -17   | 0.25 | -0.42 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      3 |      0 |    -30   | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      3 |      0 |    -30   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |    -40   | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      0 |    -40   | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      5 |      0 |    -50   | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      0 |    -50   | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      9 |      1 |    -67   | 0.11 | -0.74 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      7 |      0 |    -70   | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      9 |      0 |    -90   | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     14 |      0 |   -140   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     16 |      0 |   -160   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     22 |      1 |   -201   | 0.05 | -0.91 |
@@ -34,13 +34,13 @@ date: 2022-03-30 14:15:20 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      9 |    113   | 0.45 |  0.56 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      9 |     72.2 | 0.45 |  0.36 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      6 |     71   | 0.3  |  0.36 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     70   | 0.2  |  0.35 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      5 |     36.7 | 0.25 |  0.18 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      7 |     31   | 0.35 |  0.16 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |      5.5 | 0.4  |  0.03 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      5 |    -17   | 0.25 | -0.08 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      5 |    -31   | 0.25 | -0.16 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -31.5 | 0.4  | -0.16 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -32   | 0.15 | -0.16 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |    -42   | 0.25 | -0.21 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      5 |    -47   | 0.25 | -0.24 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -49.3 | 0.2  | -0.25 |
@@ -128,9 +128,9 @@ date: 2022-03-30 14:15:20 +1000
 | 46 | :soon:            | 2022-03-30 14:55:00 | canterbury         |      3 |        4 | White Boots       |   7    | pikey              |
 | 47 | :soon:            | 2022-03-30 14:34:00 | doomben            |      2 |        1 | Quiz Show         |   5    | looseknot          |
 | 48 | :soon:            | 2022-03-30 14:30:00 | sandown-hillside   |      1 |        2 | Roznamla          |   3.1  | vulture,milkman    |
-| 49 | :soon:            | 2022-03-30 14:20:00 | canterbury         |      2 |        6 | The Art Of Flying |   1.95 | overthrow,jmac     |
-| 50 | :soon:            | 2022-03-30 14:20:00 | canterbury         |      2 |        2 | Brechen           |   5.5  | wallbow            |
-| 51 | :soon:            | 2022-03-30 14:20:00 | canterbury         |      2 |        3 | Hollywood North   |   8    | vulture            |
+| 49 | :boom:            | 2022-03-30 14:20:00 | canterbury         |      2 |        6 | The Art Of Flying |   1.95 | overthrow,jmac     |
+| 50 | --                | 2022-03-30 14:20:00 | canterbury         |      2 |        2 | Brechen           |   5.5  | wallbow            |
+| 51 | :3rd_place_medal: | 2022-03-30 14:20:00 | canterbury         |      2 |        3 | Hollywood North   |   8    | vulture            |
 | 52 | --                | 2022-03-30 13:56:00 | doomben            |      1 |        1 | Jamaican Rumba    |   2.62 | vulture,milkman    |
 | 53 | :boom:            | 2022-03-30 13:49:00 | matamata           |      7 |        1 | Charmander        |   2.5  | vulture            |
 | 54 | :3rd_place_medal: | 2022-03-30 13:45:00 | canterbury         |      1 |        9 | Wollombi          |  19    | pikey              |
