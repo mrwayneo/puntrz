@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-30 19:02:00 +1000  
+date: 2022-03-30 21:07:09 +1000  
 ---   
 
 
@@ -34,13 +34,13 @@ date: 2022-03-30 19:02:00 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      9 |    113   | 0.45 |  0.56 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      9 |     72.2 | 0.45 |  0.36 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      6 |     71   | 0.3  |  0.36 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     70   | 0.2  |  0.35 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      5 |     36.7 | 0.25 |  0.18 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      7 |     31   | 0.35 |  0.16 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |      5.5 | 0.4  |  0.03 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      5 |    -17   | 0.25 | -0.08 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      5 |    -31   | 0.25 | -0.16 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -31.5 | 0.4  | -0.16 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -32   | 0.15 | -0.16 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |    -42   | 0.25 | -0.21 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      5 |    -47   | 0.25 | -0.24 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -49.3 | 0.2  | -0.25 |
@@ -96,10 +96,10 @@ date: 2022-03-30 19:02:00 +1000
 | 14 | :soon:                   | 2022-03-30 23:45:00 | market-rasen       |      1 |        5 | Invictus Smart    |   4.5  | milkman            |
 | 15 | :soon:                   | 2022-03-30 23:25:00 | scottsville        |      4 |        7 | Sabrina Fairchild |   0    | vulture            |
 | 16 | :soon:                   | 2022-03-30 21:30:00 | launceston         |      8 |        2 | Sh'bourne Rebel   |   2.05 | evenodds,overthrow |
-| 17 | :soon:                   | 2022-03-30 20:20:00 | pinjarra-scarpside |      8 |        7 | Read The Riot Act |  10    | pangea             |
-| 18 | :soon:                   | 2022-03-30 20:20:00 | pinjarra-scarpside |      8 |        1 | Lordhelpmerun     |   5.5  | pangea             |
-| 19 | :soon:                   | 2022-03-30 20:00:00 | launceston         |      5 |       10 | Sharma Rama       |   2.9  | evenodds,overthrow |
-| 20 | :soon:                   | 2022-03-30 19:10:00 | pinjarra-scarpside |      6 |        1 | So Birikkino      |   3.8  | pangea             |
+| 17 | :hourglass_flowing_sand: | 2022-03-30 20:20:00 | pinjarra-scarpside |      8 |        7 | Read The Riot Act |  10    | pangea             |
+| 18 | :hourglass_flowing_sand: | 2022-03-30 20:20:00 | pinjarra-scarpside |      8 |        1 | Lordhelpmerun     |   5.5  | pangea             |
+| 19 | :hourglass_flowing_sand: | 2022-03-30 20:00:00 | launceston         |      5 |       10 | Sharma Rama       |   2.9  | evenodds,overthrow |
+| 20 | :hourglass_flowing_sand: | 2022-03-30 19:10:00 | pinjarra-scarpside |      6 |        1 | So Birikkino      |   3.8  | pangea             |
 | 21 | :hourglass_flowing_sand: | 2022-03-30 18:30:00 | sandown-hillside   |      8 |        4 | Major Artie       |  12    | vulture            |
 | 22 | :hourglass_flowing_sand: | 2022-03-30 18:30:00 | sandown-hillside   |      8 |       14 | Austrata          |   2.8  | vulture,pangea     |
 | 23 | :hourglass_flowing_sand: | 2022-03-30 18:30:00 | sandown-hillside   |      8 |        6 | Quality Time      |   8.5  | pangea             |
