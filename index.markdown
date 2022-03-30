@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-30 17:33:51 +1000  
+date: 2022-03-30 19:02:00 +1000  
 ---   
 
 
@@ -34,13 +34,13 @@ date: 2022-03-30 17:33:51 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      9 |    113   | 0.45 |  0.56 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      9 |     72.2 | 0.45 |  0.36 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      6 |     71   | 0.3  |  0.36 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     70   | 0.2  |  0.35 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      5 |     36.7 | 0.25 |  0.18 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      7 |     31   | 0.35 |  0.16 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |      5.5 | 0.4  |  0.03 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      5 |    -17   | 0.25 | -0.08 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      5 |    -31   | 0.25 | -0.16 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -31.5 | 0.4  | -0.16 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -32   | 0.15 | -0.16 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |    -42   | 0.25 | -0.21 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      5 |    -47   | 0.25 | -0.24 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -49.3 | 0.2  | -0.25 |
@@ -77,62 +77,62 @@ date: 2022-03-30 17:33:51 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6137 |    788 | -14080.2 | 0.13 | -0.23 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7861 |    366 | -22698.5 | 0.05 | -0.29 |
 
-|    | finish            | time                | track              |   race |   number | name              |   odds | tipster            |
-|---:|:------------------|:--------------------|:-------------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:            | 2022-03-31 06:00:00 | kempton            |      7 |        2 | Capricorn Prince  |   3.7  | vulture            |
-|  1 | :soon:            | 2022-03-31 04:00:00 | kempton            |      3 |        8 | Above It All      |   3.7  | looseknot          |
-|  2 | :soon:            | 2022-03-31 03:30:00 | kempton            |      2 |        5 | Elsaab            |   8    | looseknot          |
-|  3 | :soon:            | 2022-03-31 03:05:00 | wincanton          |      6 |        9 | Moorland Rambler  |   3.5  | overthrow          |
-|  4 | :soon:            | 2022-03-31 02:30:00 | wincanton          |      5 |        1 | Esprit De Somoza  |   2.1  | overthrow          |
-|  5 | :soon:            | 2022-03-31 01:35:00 | scottsville        |      8 |        7 | Purple Merchant   |   0    | vulture            |
-|  6 | :soon:            | 2022-03-31 01:30:00 | market-rasen       |      4 |        7 | Guernesey         |   3.8  | vulture            |
-|  7 | :soon:            | 2022-03-31 01:30:00 | market-rasen       |      4 |       10 | Feivel            |   8.5  | vulture            |
-|  8 | :soon:            | 2022-03-31 01:30:00 | market-rasen       |      4 |        1 | Calico            |   6.5  | overthrow          |
-|  9 | :soon:            | 2022-03-31 01:30:00 | market-rasen       |      4 |        2 | Boreham Bill      |  10    | cosmo,bluey        |
-| 10 | :soon:            | 2022-03-31 01:20:00 | wincanton          |      3 |        4 | Merry Mistress    |   2.8  | pangea             |
-| 11 | :soon:            | 2022-03-31 00:25:00 | scottsville        |      6 |        4 | Runaway Song      |   0    | vulture            |
-| 12 | :soon:            | 2022-03-31 00:20:00 | market-rasen       |      2 |        2 | Ashoka            |  34    | overthrow          |
-| 13 | :soon:            | 2022-03-30 23:55:00 | scottsville        |      5 |        3 | Super Agra        |   0    | vulture            |
-| 14 | :soon:            | 2022-03-30 23:45:00 | market-rasen       |      1 |        5 | Invictus Smart    |   4.5  | milkman            |
-| 15 | :soon:            | 2022-03-30 23:25:00 | scottsville        |      4 |        7 | Sabrina Fairchild |   0    | vulture            |
-| 16 | :soon:            | 2022-03-30 21:30:00 | launceston         |      8 |        2 | Sh'bourne Rebel   |   2.05 | evenodds,overthrow |
-| 17 | :soon:            | 2022-03-30 20:20:00 | pinjarra-scarpside |      8 |        7 | Read The Riot Act |  10    | pangea             |
-| 18 | :soon:            | 2022-03-30 20:20:00 | pinjarra-scarpside |      8 |        1 | Lordhelpmerun     |   5.5  | pangea             |
-| 19 | :soon:            | 2022-03-30 20:00:00 | launceston         |      5 |       10 | Sharma Rama       |   2.9  | evenodds,overthrow |
-| 20 | :soon:            | 2022-03-30 19:10:00 | pinjarra-scarpside |      6 |        1 | So Birikkino      |   3.8  | pangea             |
-| 21 | :soon:            | 2022-03-30 18:30:00 | sandown-hillside   |      8 |        4 | Major Artie       |  12    | vulture            |
-| 22 | :soon:            | 2022-03-30 18:30:00 | sandown-hillside   |      8 |       14 | Austrata          |   2.8  | vulture,pangea     |
-| 23 | :soon:            | 2022-03-30 18:30:00 | sandown-hillside   |      8 |        6 | Quality Time      |   8.5  | pangea             |
-| 24 | :soon:            | 2022-03-30 18:30:00 | sandown-hillside   |      8 |       12 | Rapid Achiever    |   4.2  | milkman            |
-| 25 | :soon:            | 2022-03-30 18:30:00 | sandown-hillside   |      8 |       10 | The Nephew        |   9    | benny,pangea       |
-| 26 | :soon:            | 2022-03-30 17:50:00 | canterbury         |      8 |        8 | Calgary Queen     |   3.8  | jmac               |
-| 27 | :soon:            | 2022-03-30 17:50:00 | canterbury         |      8 |       12 | Hasty Duchess     |  15    | pikey              |
-| 28 | :soon:            | 2022-03-30 17:50:00 | canterbury         |      8 |        6 | Big Surprise      |   6.5  | benny,pangea       |
-| 29 | :boom:            | 2022-03-30 17:15:00 | canterbury         |      7 |        8 | Vreneli           |   7.5  | pangea             |
-| 30 | 8.0               | 2022-03-30 17:15:00 | canterbury         |      7 |       10 | Gracilistyla      |   3    | benny,wallbow      |
-| 31 | 10.0              | 2022-03-30 17:15:00 | canterbury         |      7 |        7 | Stolen Jade       |   8.5  | pikey              |
-| 32 | --                | 2022-03-30 16:54:00 | doomben            |      6 |        4 | Paperclip         |  10    | vulture            |
-| 33 | :boom:            | 2022-03-30 16:50:00 | sandown-hillside   |      5 |        3 | Detonator Jack    |   2.5  | vulture,milkman    |
-| 34 | 4.0               | 2022-03-30 16:50:00 | sandown-hillside   |      5 |        5 | Yaphet            |   3.9  | vulture            |
-| 35 | 7.0               | 2022-03-30 16:40:00 | canterbury         |      6 |       11 | Aton Of Delight   |   9    | jmac               |
-| 36 | 8.0               | 2022-03-30 16:40:00 | canterbury         |      6 |       12 | Bladnoch          |  34    | benny,pikey        |
-| 37 | 5.0               | 2022-03-30 16:26:00 | canberra           |      6 |        8 | Evanora           |  12    | benny,pangea       |
-| 38 | :2nd_place_medal: | 2022-03-30 16:15:00 | sandown-hillside   |      4 |        2 | Glint Of Hope     |   4.4  | vulture            |
-| 39 | :boom:            | 2022-03-30 16:15:00 | sandown-hillside   |      4 |        8 | My Whisper        |   2    | milkman            |
-| 40 | 6.0               | 2022-03-30 16:15:00 | sandown-hillside   |      4 |        3 | Boom Dot Com      |   8.5  | pangea             |
-| 41 | --                | 2022-03-30 16:09:00 | pinjarra-scarpside |      1 |        9 | Alsephina         |   4.8  | overthrow          |
-| 42 | :3rd_place_medal: | 2022-03-30 16:05:00 | canterbury         |      5 |        7 | Girls Are Ready   |   3.5  | jmac               |
-| 43 | :boom:            | 2022-03-30 15:40:00 | sandown-hillside   |      3 |        3 | Rebel's Choice    |   9.5  | cosmo,bob          |
-| 44 | --                | 2022-03-30 15:09:00 | doomben            |      3 |        4 | Street Dancer     |   2    | evenodds,overthrow |
-| 45 | 4.0               | 2022-03-30 14:59:00 | matamata           |      9 |        7 | Sicilian Dream    |   2.6  | vulture,milkman    |
-| 46 | 5.0               | 2022-03-30 14:55:00 | canterbury         |      3 |        4 | White Boots       |   7    | pikey              |
-| 47 | --                | 2022-03-30 14:34:00 | doomben            |      2 |        1 | Quiz Show         |   5    | looseknot          |
-| 48 | 5.0               | 2022-03-30 14:30:00 | sandown-hillside   |      1 |        2 | Roznamla          |   3.1  | vulture,milkman    |
-| 49 | :boom:            | 2022-03-30 14:20:00 | canterbury         |      2 |        6 | The Art Of Flying |   1.95 | overthrow,jmac     |
-| 50 | 6.0               | 2022-03-30 14:20:00 | canterbury         |      2 |        2 | Brechen           |   5.5  | wallbow            |
-| 51 | :3rd_place_medal: | 2022-03-30 14:20:00 | canterbury         |      2 |        3 | Hollywood North   |   8    | vulture            |
-| 52 | --                | 2022-03-30 13:56:00 | doomben            |      1 |        1 | Jamaican Rumba    |   2.62 | vulture,milkman    |
-| 53 | :boom:            | 2022-03-30 13:49:00 | matamata           |      7 |        1 | Charmander        |   2.5  | vulture            |
-| 54 | :3rd_place_medal: | 2022-03-30 13:45:00 | canterbury         |      1 |        9 | Wollombi          |  19    | pikey              |
-| 55 | :2nd_place_medal: | 2022-03-30 13:45:00 | canterbury         |      1 |        1 | Cadetship         |   4.6  | wallbow            |
-| 56 | 4.0               | 2022-03-30 12:37:00 | matamata           |      5 |        1 | Espionage         |   5.5  | looseknot          |
+|    | finish                   | time                | track              |   race |   number | name              |   odds | tipster            |
+|---:|:-------------------------|:--------------------|:-------------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:                   | 2022-03-31 06:00:00 | kempton            |      7 |        2 | Capricorn Prince  |   3.7  | vulture            |
+|  1 | :soon:                   | 2022-03-31 04:00:00 | kempton            |      3 |        8 | Above It All      |   3.7  | looseknot          |
+|  2 | :soon:                   | 2022-03-31 03:30:00 | kempton            |      2 |        5 | Elsaab            |   8    | looseknot          |
+|  3 | :soon:                   | 2022-03-31 03:05:00 | wincanton          |      6 |        9 | Moorland Rambler  |   3.5  | overthrow          |
+|  4 | :soon:                   | 2022-03-31 02:30:00 | wincanton          |      5 |        1 | Esprit De Somoza  |   2.1  | overthrow          |
+|  5 | :soon:                   | 2022-03-31 01:35:00 | scottsville        |      8 |        7 | Purple Merchant   |   0    | vulture            |
+|  6 | :soon:                   | 2022-03-31 01:30:00 | market-rasen       |      4 |        7 | Guernesey         |   3.8  | vulture            |
+|  7 | :soon:                   | 2022-03-31 01:30:00 | market-rasen       |      4 |       10 | Feivel            |   8.5  | vulture            |
+|  8 | :soon:                   | 2022-03-31 01:30:00 | market-rasen       |      4 |        1 | Calico            |   6.5  | overthrow          |
+|  9 | :soon:                   | 2022-03-31 01:30:00 | market-rasen       |      4 |        2 | Boreham Bill      |  10    | cosmo,bluey        |
+| 10 | :soon:                   | 2022-03-31 01:20:00 | wincanton          |      3 |        4 | Merry Mistress    |   2.8  | pangea             |
+| 11 | :soon:                   | 2022-03-31 00:25:00 | scottsville        |      6 |        4 | Runaway Song      |   0    | vulture            |
+| 12 | :soon:                   | 2022-03-31 00:20:00 | market-rasen       |      2 |        2 | Ashoka            |  34    | overthrow          |
+| 13 | :soon:                   | 2022-03-30 23:55:00 | scottsville        |      5 |        3 | Super Agra        |   0    | vulture            |
+| 14 | :soon:                   | 2022-03-30 23:45:00 | market-rasen       |      1 |        5 | Invictus Smart    |   4.5  | milkman            |
+| 15 | :soon:                   | 2022-03-30 23:25:00 | scottsville        |      4 |        7 | Sabrina Fairchild |   0    | vulture            |
+| 16 | :soon:                   | 2022-03-30 21:30:00 | launceston         |      8 |        2 | Sh'bourne Rebel   |   2.05 | evenodds,overthrow |
+| 17 | :soon:                   | 2022-03-30 20:20:00 | pinjarra-scarpside |      8 |        7 | Read The Riot Act |  10    | pangea             |
+| 18 | :soon:                   | 2022-03-30 20:20:00 | pinjarra-scarpside |      8 |        1 | Lordhelpmerun     |   5.5  | pangea             |
+| 19 | :soon:                   | 2022-03-30 20:00:00 | launceston         |      5 |       10 | Sharma Rama       |   2.9  | evenodds,overthrow |
+| 20 | :soon:                   | 2022-03-30 19:10:00 | pinjarra-scarpside |      6 |        1 | So Birikkino      |   3.8  | pangea             |
+| 21 | :hourglass_flowing_sand: | 2022-03-30 18:30:00 | sandown-hillside   |      8 |        4 | Major Artie       |  12    | vulture            |
+| 22 | :hourglass_flowing_sand: | 2022-03-30 18:30:00 | sandown-hillside   |      8 |       14 | Austrata          |   2.8  | vulture,pangea     |
+| 23 | :hourglass_flowing_sand: | 2022-03-30 18:30:00 | sandown-hillside   |      8 |        6 | Quality Time      |   8.5  | pangea             |
+| 24 | :hourglass_flowing_sand: | 2022-03-30 18:30:00 | sandown-hillside   |      8 |       12 | Rapid Achiever    |   4.2  | milkman            |
+| 25 | :hourglass_flowing_sand: | 2022-03-30 18:30:00 | sandown-hillside   |      8 |       10 | The Nephew        |   9    | benny,pangea       |
+| 26 | :hourglass_flowing_sand: | 2022-03-30 17:50:00 | canterbury         |      8 |        8 | Calgary Queen     |   3.8  | jmac               |
+| 27 | :hourglass_flowing_sand: | 2022-03-30 17:50:00 | canterbury         |      8 |       12 | Hasty Duchess     |  15    | pikey              |
+| 28 | :hourglass_flowing_sand: | 2022-03-30 17:50:00 | canterbury         |      8 |        6 | Big Surprise      |   6.5  | benny,pangea       |
+| 29 | :boom:                   | 2022-03-30 17:15:00 | canterbury         |      7 |        8 | Vreneli           |   7.5  | pangea             |
+| 30 | 8.0                      | 2022-03-30 17:15:00 | canterbury         |      7 |       10 | Gracilistyla      |   3    | benny,wallbow      |
+| 31 | 10.0                     | 2022-03-30 17:15:00 | canterbury         |      7 |        7 | Stolen Jade       |   8.5  | pikey              |
+| 32 | --                       | 2022-03-30 16:54:00 | doomben            |      6 |        4 | Paperclip         |  10    | vulture            |
+| 33 | :boom:                   | 2022-03-30 16:50:00 | sandown-hillside   |      5 |        3 | Detonator Jack    |   2.5  | vulture,milkman    |
+| 34 | 4.0                      | 2022-03-30 16:50:00 | sandown-hillside   |      5 |        5 | Yaphet            |   3.9  | vulture            |
+| 35 | 7.0                      | 2022-03-30 16:40:00 | canterbury         |      6 |       11 | Aton Of Delight   |   9    | jmac               |
+| 36 | 8.0                      | 2022-03-30 16:40:00 | canterbury         |      6 |       12 | Bladnoch          |  34    | benny,pikey        |
+| 37 | 5.0                      | 2022-03-30 16:26:00 | canberra           |      6 |        8 | Evanora           |  12    | benny,pangea       |
+| 38 | :2nd_place_medal:        | 2022-03-30 16:15:00 | sandown-hillside   |      4 |        2 | Glint Of Hope     |   4.4  | vulture            |
+| 39 | :boom:                   | 2022-03-30 16:15:00 | sandown-hillside   |      4 |        8 | My Whisper        |   2    | milkman            |
+| 40 | 6.0                      | 2022-03-30 16:15:00 | sandown-hillside   |      4 |        3 | Boom Dot Com      |   8.5  | pangea             |
+| 41 | --                       | 2022-03-30 16:09:00 | pinjarra-scarpside |      1 |        9 | Alsephina         |   4.8  | overthrow          |
+| 42 | :3rd_place_medal:        | 2022-03-30 16:05:00 | canterbury         |      5 |        7 | Girls Are Ready   |   3.5  | jmac               |
+| 43 | :boom:                   | 2022-03-30 15:40:00 | sandown-hillside   |      3 |        3 | Rebel's Choice    |   9.5  | cosmo,bob          |
+| 44 | --                       | 2022-03-30 15:09:00 | doomben            |      3 |        4 | Street Dancer     |   2    | evenodds,overthrow |
+| 45 | 4.0                      | 2022-03-30 14:59:00 | matamata           |      9 |        7 | Sicilian Dream    |   2.6  | vulture,milkman    |
+| 46 | 5.0                      | 2022-03-30 14:55:00 | canterbury         |      3 |        4 | White Boots       |   7    | pikey              |
+| 47 | --                       | 2022-03-30 14:34:00 | doomben            |      2 |        1 | Quiz Show         |   5    | looseknot          |
+| 48 | 5.0                      | 2022-03-30 14:30:00 | sandown-hillside   |      1 |        2 | Roznamla          |   3.1  | vulture,milkman    |
+| 49 | :boom:                   | 2022-03-30 14:20:00 | canterbury         |      2 |        6 | The Art Of Flying |   1.95 | overthrow,jmac     |
+| 50 | 6.0                      | 2022-03-30 14:20:00 | canterbury         |      2 |        2 | Brechen           |   5.5  | wallbow            |
+| 51 | :3rd_place_medal:        | 2022-03-30 14:20:00 | canterbury         |      2 |        3 | Hollywood North   |   8    | vulture            |
+| 52 | --                       | 2022-03-30 13:56:00 | doomben            |      1 |        1 | Jamaican Rumba    |   2.62 | vulture,milkman    |
+| 53 | :boom:                   | 2022-03-30 13:49:00 | matamata           |      7 |        1 | Charmander        |   2.5  | vulture            |
+| 54 | :3rd_place_medal:        | 2022-03-30 13:45:00 | canterbury         |      1 |        9 | Wollombi          |  19    | pikey              |
+| 55 | :2nd_place_medal:        | 2022-03-30 13:45:00 | canterbury         |      1 |        1 | Cadetship         |   4.6  | wallbow            |
+| 56 | 4.0                      | 2022-03-30 12:37:00 | matamata           |      5 |        1 | Espionage         |   5.5  | looseknot          |
