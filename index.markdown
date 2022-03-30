@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-30 16:03:47 +1000  
+date: 2022-03-30 16:18:47 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-03-30 16:03:47 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      7 |      0 |    -70   | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     14 |      0 |   -140   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     22 |      1 |   -200.6 | 0.05 | -0.91 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     45 |      1 |   -338   | 0.02 | -0.75 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     45 |      2 |   -304   | 0.04 | -0.68 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     37 |      1 |   -355.5 | 0.03 | -0.96 |
 
 ##### Form Last 20 tips   
@@ -34,13 +34,13 @@ date: 2022-03-30 16:03:47 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      9 |    113   | 0.45 |  0.56 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      9 |     72.2 | 0.45 |  0.36 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      6 |     71   | 0.3  |  0.36 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     70   | 0.2  |  0.35 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      5 |     36.7 | 0.25 |  0.18 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      7 |     31   | 0.35 |  0.16 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |      5.5 | 0.4  |  0.03 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      5 |    -17   | 0.25 | -0.08 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      5 |    -31   | 0.25 | -0.16 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -31.5 | 0.4  | -0.16 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -32   | 0.15 | -0.16 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |    -42   | 0.25 | -0.21 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      5 |    -47   | 0.25 | -0.24 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -49.3 | 0.2  | -0.25 |
@@ -117,11 +117,11 @@ date: 2022-03-30 16:03:47 +1000
 | 35 | :soon:            | 2022-03-30 16:40:00 | canterbury         |      6 |       11 | Aton Of Delight   |   9    | jmac               |
 | 36 | :soon:            | 2022-03-30 16:40:00 | canterbury         |      6 |       12 | Bladnoch          |  34    | benny,pikey        |
 | 37 | :soon:            | 2022-03-30 16:26:00 | canberra           |      6 |        8 | Evanora           |  12    | benny,pangea       |
-| 38 | :soon:            | 2022-03-30 16:15:00 | sandown-hillside   |      4 |        2 | Glint Of Hope     |   4.4  | vulture            |
-| 39 | :soon:            | 2022-03-30 16:15:00 | sandown-hillside   |      4 |        8 | My Whisper        |   2    | milkman            |
-| 40 | :soon:            | 2022-03-30 16:15:00 | sandown-hillside   |      4 |        3 | Boom Dot Com      |   8.5  | pangea             |
-| 41 | :soon:            | 2022-03-30 16:09:00 | pinjarra-scarpside |      1 |        9 | Alsephina         |   4.8  | overthrow          |
-| 42 | :soon:            | 2022-03-30 16:05:00 | canterbury         |      5 |        7 | Girls Are Ready   |   3.5  | jmac               |
+| 38 | --                | 2022-03-30 16:15:00 | sandown-hillside   |      4 |        2 | Glint Of Hope     |   4.4  | vulture            |
+| 39 | --                | 2022-03-30 16:15:00 | sandown-hillside   |      4 |        8 | My Whisper        |   2    | milkman            |
+| 40 | --                | 2022-03-30 16:15:00 | sandown-hillside   |      4 |        3 | Boom Dot Com      |   8.5  | pangea             |
+| 41 | --                | 2022-03-30 16:09:00 | pinjarra-scarpside |      1 |        9 | Alsephina         |   4.8  | overthrow          |
+| 42 | :3rd_place_medal: | 2022-03-30 16:05:00 | canterbury         |      5 |        7 | Girls Are Ready   |   3.5  | jmac               |
 | 43 | :boom:            | 2022-03-30 15:40:00 | sandown-hillside   |      3 |        3 | Rebel's Choice    |   9.5  | cosmo,bob          |
 | 44 | --                | 2022-03-30 15:09:00 | doomben            |      3 |        4 | Street Dancer     |   2    | evenodds,overthrow |
 | 45 | 4.0               | 2022-03-30 14:59:00 | matamata           |      9 |        7 | Sicilian Dream    |   2.6  | vulture,milkman    |
