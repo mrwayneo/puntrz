@@ -1,19 +1,22 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-03-30 21:07:03 +1000  
+date: 2022-03-31 10:06:10 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      7 |      2 |       -9 | 0.29 | -0.13 |
-| Last 6 Months  |     66 |     10 |     -400 | 0.15 | -0.61 |
-| Since Jan 2020 |    147 |     25 |      124 | 0.17 |  0.08 |
+| Last 7 Days    |      3 |      0 |      -30 | 0    | -1    |
+| Last 28 Days   |     10 |      2 |      -39 | 0.2  | -0.39 |
+| Last 6 Months  |     69 |     10 |     -430 | 0.14 | -0.62 |
+| Since Jan 2020 |    150 |     25 |       94 | 0.17 |  0.06 |
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
+| 17:30             | 2022-03-31 | newcastle R8        | 4 Divina           | 18    |      -10 |
+| 16:20             | 2022-03-31 | newcastle R6        | 3 Endorsement      |  2.4  |      -10 |
 | 8                 | 2022-03-30 | canterbury R7       | 10 Gracilistyla    |  3    |      -10 |
 | 6                 | 2022-03-30 | canterbury R2       | 2 Brechen          |  5.5  |      -10 |
 | :2nd_place_medal: | 2022-03-30 | canterbury R1       | 1 Cadetship        |  4.6  |      -10 |

@@ -1,20 +1,24 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-30 21:07:08 +1000  
+date: 2022-03-31 10:06:16 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      7 |      4 |       63 | 0.57 |  0.9  |
+| Last 7 Days    |     12 |      4 |       13 | 0.33 |  0.11 |
 | Last 28 Days   |     54 |      9 |       -7 | 0.17 | -0.01 |
-| Last 6 Months  |    428 |    109 |     -823 | 0.25 | -0.19 |
-| Since Jan 2020 |   1061 |    262 |    -1752 | 0.25 | -0.17 |
+| Last 6 Months  |    433 |    109 |     -873 | 0.25 | -0.2  |
+| Since Jan 2020 |   1066 |    262 |    -1802 | 0.25 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 17:30             | 2022-03-31 | newcastle R8          | 11 Thalassophile      |   7.5  |    -10   |
+| 16:20             | 2022-03-31 | newcastle R6          | 5 Mighty Willie       |  18    |    -10   |
+| 15:05             | 2022-03-31 | newcastle R4          | 8 Spitfire            |   2.75 |    -10   |
+| 13:15             | 2022-03-31 | newcastle R1          | 12 Marooniyah         |   3.9  |    -10   |
 | 0                 | 2022-03-30 | canterbury R8         | 12 Hasty Duchess      |   0    |    -10   |
 | 10                | 2022-03-30 | canterbury R7         | 7 Stolen Jade         |   8.5  |    -10   |
 | 8                 | 2022-03-30 | canterbury R6         | 12 Bladnoch           |  34    |    -10   |

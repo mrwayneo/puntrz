@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-03-30 21:07:08 +1000  
+date: 2022-03-31 10:06:16 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
-| Last 28 Days   |      9 |      1 |      -31 | 0.11 | -0.34 |
-| Last 6 Months  |    103 |     17 |     1872 | 0.17 |  1.82 |
-| Since Jan 2020 |    245 |     43 |     4719 | 0.18 |  1.93 |
+| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
+| Last 28 Days   |     10 |      1 |      -41 | 0.1  | -0.41 |
+| Last 6 Months  |    104 |     17 |     1862 | 0.16 |  1.79 |
+| Since Jan 2020 |    246 |     43 |     4709 | 0.17 |  1.91 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 01:30             | 2022-03-31 | market-rasen R4        | 2 Boreham Bill        |  10   |      -10 |
+| 0                 | 2022-03-31 | market-rasen R4        | 2 Boreham Bill        |   0   |      -10 |
 | 0                 | 2022-03-28 | carlisle R2            | 10 Donladd            |   0   |      -10 |
 | 5                 | 2022-03-20 | pinjarra R6            | 6 Burn One Down       |  14   |      -10 |
 | :3rd_place_medal: | 2022-03-19 | morphettville-parks R7 | 9 Cassowary           |  16   |      -10 |
