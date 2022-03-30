@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-30 14:29:30 +1000  
+date: 2022-03-30 14:44:40 +1000  
 ---   
 
 
@@ -34,13 +34,13 @@ date: 2022-03-30 14:29:30 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      9 |    113   | 0.45 |  0.56 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      9 |     72.2 | 0.45 |  0.36 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      6 |     71   | 0.3  |  0.36 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     70   | 0.2  |  0.35 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      5 |     36.7 | 0.25 |  0.18 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      7 |     31   | 0.35 |  0.16 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |      5.5 | 0.4  |  0.03 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      5 |    -17   | 0.25 | -0.08 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      5 |    -31   | 0.25 | -0.16 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -31.5 | 0.4  | -0.16 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -32   | 0.15 | -0.16 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |    -42   | 0.25 | -0.21 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      5 |    -47   | 0.25 | -0.24 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -49.3 | 0.2  | -0.25 |
@@ -126,8 +126,8 @@ date: 2022-03-30 14:29:30 +1000
 | 44 | :soon:            | 2022-03-30 15:09:00 | doomben            |      3 |        4 | Street Dancer     |   2    | evenodds,overthrow |
 | 45 | :soon:            | 2022-03-30 14:59:00 | matamata           |      9 |        7 | Sicilian Dream    |   2.6  | vulture,milkman    |
 | 46 | :soon:            | 2022-03-30 14:55:00 | canterbury         |      3 |        4 | White Boots       |   7    | pikey              |
-| 47 | :soon:            | 2022-03-30 14:34:00 | doomben            |      2 |        1 | Quiz Show         |   5    | looseknot          |
-| 48 | :soon:            | 2022-03-30 14:30:00 | sandown-hillside   |      1 |        2 | Roznamla          |   3.1  | vulture,milkman    |
+| 47 | --                | 2022-03-30 14:34:00 | doomben            |      2 |        1 | Quiz Show         |   5    | looseknot          |
+| 48 | --                | 2022-03-30 14:30:00 | sandown-hillside   |      1 |        2 | Roznamla          |   3.1  | vulture,milkman    |
 | 49 | :boom:            | 2022-03-30 14:20:00 | canterbury         |      2 |        6 | The Art Of Flying |   1.95 | overthrow,jmac     |
 | 50 | --                | 2022-03-30 14:20:00 | canterbury         |      2 |        2 | Brechen           |   5.5  | wallbow            |
 | 51 | :3rd_place_medal: | 2022-03-30 14:20:00 | canterbury         |      2 |        3 | Hollywood North   |   8    | vulture            |
