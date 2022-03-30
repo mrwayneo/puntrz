@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-03-30 17:18:53 +1000  
+date: 2022-03-30 17:33:44 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
-| 0                 | 2022-03-30 | canterbury R7       | 10 Gracilistyla    |  0    |      -10 |
+| 8                 | 2022-03-30 | canterbury R7       | 10 Gracilistyla    |  3    |      -10 |
 | 6                 | 2022-03-30 | canterbury R2       | 2 Brechen          |  5.5  |      -10 |
 | :2nd_place_medal: | 2022-03-30 | canterbury R1       | 1 Cadetship        |  4.6  |      -10 |
 | :2nd_place_medal: | 2022-03-17 | newcastle R8        | 8 Endorsement      |  3.9  |      -10 |

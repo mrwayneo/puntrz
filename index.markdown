@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-30 17:19:00 +1000  
+date: 2022-03-30 17:33:51 +1000  
 ---   
 
 
@@ -19,10 +19,10 @@ date: 2022-03-30 17:19:00 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     16 |      1 |    -48   | 0.06 | -0.3  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      5 |      0 |    -50   | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      0 |    -50   | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     14 |      1 |    -55   | 0.07 | -0.39 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      9 |      1 |    -67   | 0.11 | -0.74 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     14 |      0 |   -140   | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     45 |      3 |    -77   | 0.07 | -0.17 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     22 |      2 |   -179.6 | 0.09 | -0.82 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     45 |      2 |   -304   | 0.04 | -0.68 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     37 |      2 |   -328.5 | 0.05 | -0.89 |
 
 ##### Form Last 20 tips   
@@ -34,13 +34,13 @@ date: 2022-03-30 17:19:00 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      9 |    113   | 0.45 |  0.56 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      9 |     72.2 | 0.45 |  0.36 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      6 |     71   | 0.3  |  0.36 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     70   | 0.2  |  0.35 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      5 |     36.7 | 0.25 |  0.18 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      7 |     31   | 0.35 |  0.16 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |      5.5 | 0.4  |  0.03 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      5 |    -17   | 0.25 | -0.08 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      5 |    -31   | 0.25 | -0.16 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -31.5 | 0.4  | -0.16 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -32   | 0.15 | -0.16 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |    -42   | 0.25 | -0.21 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      5 |    -47   | 0.25 | -0.24 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -49.3 | 0.2  | -0.25 |
@@ -108,9 +108,9 @@ date: 2022-03-30 17:19:00 +1000
 | 26 | :soon:            | 2022-03-30 17:50:00 | canterbury         |      8 |        8 | Calgary Queen     |   3.8  | jmac               |
 | 27 | :soon:            | 2022-03-30 17:50:00 | canterbury         |      8 |       12 | Hasty Duchess     |  15    | pikey              |
 | 28 | :soon:            | 2022-03-30 17:50:00 | canterbury         |      8 |        6 | Big Surprise      |   6.5  | benny,pangea       |
-| 29 | --                | 2022-03-30 17:15:00 | canterbury         |      7 |        8 | Vreneli           |   7.5  | pangea             |
-| 30 | --                | 2022-03-30 17:15:00 | canterbury         |      7 |       10 | Gracilistyla      |   3    | benny,wallbow      |
-| 31 | --                | 2022-03-30 17:15:00 | canterbury         |      7 |        7 | Stolen Jade       |   8.5  | pikey              |
+| 29 | :boom:            | 2022-03-30 17:15:00 | canterbury         |      7 |        8 | Vreneli           |   7.5  | pangea             |
+| 30 | 8.0               | 2022-03-30 17:15:00 | canterbury         |      7 |       10 | Gracilistyla      |   3    | benny,wallbow      |
+| 31 | 10.0              | 2022-03-30 17:15:00 | canterbury         |      7 |        7 | Stolen Jade       |   8.5  | pikey              |
 | 32 | --                | 2022-03-30 16:54:00 | doomben            |      6 |        4 | Paperclip         |  10    | vulture            |
 | 33 | :boom:            | 2022-03-30 16:50:00 | sandown-hillside   |      5 |        3 | Detonator Jack    |   2.5  | vulture,milkman    |
 | 34 | 4.0               | 2022-03-30 16:50:00 | sandown-hillside   |      5 |        5 | Yaphet            |   3.9  | vulture            |
