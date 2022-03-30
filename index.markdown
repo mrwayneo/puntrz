@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-30 15:34:01 +1000  
+date: 2022-03-30 15:48:35 +1000  
 ---   
 
 
@@ -9,21 +9,21 @@ date: 2022-03-30 15:34:01 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      1 |    102   | 1    | 10.2  |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |    -10   | 0    | -1    |
-| [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |    -10   | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      1 |    -17   | 0.25 | -0.42 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      3 |      0 |    -30   | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      3 |      0 |    -30   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |    -40   | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     16 |      1 |    -48   | 0.06 | -0.3  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      5 |      0 |    -50   | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      0 |    -50   | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      9 |      1 |    -67   | 0.11 | -0.74 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      7 |      0 |    -70   | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     14 |      0 |   -140   | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     16 |      0 |   -160   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     22 |      1 |   -200.6 | 0.05 | -0.91 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     45 |      1 |   -338   | 0.02 | -0.75 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     37 |      1 |   -355.5 | 0.03 | -0.96 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     45 |      0 |   -450   | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -34,13 +34,13 @@ date: 2022-03-30 15:34:01 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      9 |    113   | 0.45 |  0.56 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      9 |     72.2 | 0.45 |  0.36 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      6 |     71   | 0.3  |  0.36 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     70   | 0.2  |  0.35 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      5 |     36.7 | 0.25 |  0.18 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      7 |     31   | 0.35 |  0.16 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      8 |      5.5 | 0.4  |  0.03 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      5 |    -17   | 0.25 | -0.08 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      5 |    -31   | 0.25 | -0.16 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      8 |    -31.5 | 0.4  | -0.16 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -32   | 0.15 | -0.16 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |    -42   | 0.25 | -0.21 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      5 |    -47   | 0.25 | -0.24 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -49.3 | 0.2  | -0.25 |
@@ -122,7 +122,7 @@ date: 2022-03-30 15:34:01 +1000
 | 40 | :soon:            | 2022-03-30 16:15:00 | sandown-hillside   |      4 |        3 | Boom Dot Com      |   8.5  | pangea             |
 | 41 | :soon:            | 2022-03-30 16:09:00 | pinjarra-scarpside |      1 |        9 | Alsephina         |   4.8  | overthrow          |
 | 42 | :soon:            | 2022-03-30 16:05:00 | canterbury         |      5 |        7 | Girls Are Ready   |   3.5  | jmac               |
-| 43 | :soon:            | 2022-03-30 15:40:00 | sandown-hillside   |      3 |        3 | Rebel's Choice    |   9.5  | cosmo,bob          |
+| 43 | :boom:            | 2022-03-30 15:40:00 | sandown-hillside   |      3 |        3 | Rebel's Choice    |   9.5  | cosmo,bob          |
 | 44 | --                | 2022-03-30 15:09:00 | doomben            |      3 |        4 | Street Dancer     |   2    | evenodds,overthrow |
 | 45 | 4.0               | 2022-03-30 14:59:00 | matamata           |      9 |        7 | Sicilian Dream    |   2.6  | vulture,milkman    |
 | 46 | 5.0               | 2022-03-30 14:55:00 | canterbury         |      3 |        4 | White Boots       |   7    | pikey              |
