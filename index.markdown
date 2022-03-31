@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-31 19:40:43 +1000  
+date: 2022-03-31 19:55:26 +1000  
 ---   
 
 
@@ -91,7 +91,7 @@ date: 2022-03-31 19:40:43 +1000
 | 13 | :soon:            | 2022-03-31 21:15:00 | racing.com-park |      8 |        1 | Barretta         |   2.5  | milkman            |
 | 14 | :soon:            | 2022-03-31 21:15:00 | racing.com-park |      8 |        6 | Ceasar           |   3.9  | vulture            |
 | 15 | :soon:            | 2022-03-31 20:00:00 | ascot           |      6 |        1 | Market Stryke    |   2.3  | pangea             |
-| 16 | :soon:            | 2022-03-31 19:45:00 | racing.com-park |      5 |        3 | Midnight Charm   |   1.91 | milkman            |
+| 16 | :3rd_place_medal: | 2022-03-31 19:45:00 | racing.com-park |      5 |        3 | Midnight Charm   |   1.91 | milkman            |
 | 17 | :boom:            | 2022-03-31 18:15:00 | racing.com-park |      2 |        5 | Ancient Egypt    |   3.75 | looseknot          |
 | 18 | 4.0               | 2022-03-31 17:57:00 | ascot           |      2 |        5 | Aiyza            |   4.4  | milkman            |
 | 19 | :boom:            | 2022-03-31 17:30:00 | newcastle       |      8 |       11 | Thalassophile    |   7.5  | pangea,pikey       |
