@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-31 19:55:26 +1000  
+date: 2022-03-31 20:10:45 +1000  
 ---   
 
 
@@ -9,8 +9,8 @@ date: 2022-03-31 19:55:26 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      3 |      2 |       38 | 0.67 |  1.27 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      1 |       28 | 1    |  2.8  |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      3 |      1 |       17 | 0.33 |  0.57 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      4 |      1 |        7 | 0.25 |  0.18 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      2 |      0 |      -20 | 0    | -1    |
@@ -90,7 +90,7 @@ date: 2022-03-31 19:55:26 +1000
 | 12 | :soon:            | 2022-04-01 00:15:00 | wetherby        |      1 |        4 | Quiet Flow       |   5.5  | overthrow          |
 | 13 | :soon:            | 2022-03-31 21:15:00 | racing.com-park |      8 |        1 | Barretta         |   2.5  | milkman            |
 | 14 | :soon:            | 2022-03-31 21:15:00 | racing.com-park |      8 |        6 | Ceasar           |   3.9  | vulture            |
-| 15 | :soon:            | 2022-03-31 20:00:00 | ascot           |      6 |        1 | Market Stryke    |   2.3  | pangea             |
+| 15 | :boom:            | 2022-03-31 20:00:00 | ascot           |      6 |        1 | Market Stryke    |   2.3  | pangea             |
 | 16 | :3rd_place_medal: | 2022-03-31 19:45:00 | racing.com-park |      5 |        3 | Midnight Charm   |   1.91 | milkman            |
 | 17 | :boom:            | 2022-03-31 18:15:00 | racing.com-park |      2 |        5 | Ancient Egypt    |   3.75 | looseknot          |
 | 18 | 4.0               | 2022-03-31 17:57:00 | ascot           |      2 |        5 | Aiyza            |   4.4  | milkman            |
