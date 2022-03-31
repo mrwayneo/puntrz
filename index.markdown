@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-03-31 10:44:17 +1000  
+date: 2022-03-31 18:13:11 +1000  
 ---   
 
 
@@ -9,17 +9,17 @@ date: 2022-03-31 10:44:17 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 |    0 |    -1 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      2 |      0 |      -20 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      3 |      0 |      -30 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      4 |      0 |      -40 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      6 |      0 |      -60 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     10 |      0 |     -100 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     43 |      0 |     -430 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     46 |      0 |     -460 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      3 |      1 |       17 | 0.33 |  0.57 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      4 |      1 |        7 | 0.25 |  0.18 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 | 0    | -1    |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      2 |      0 |      -20 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      6 |      0 |      -60 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     10 |      0 |     -100 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     43 |      1 |     -372 | 0.02 | -0.87 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     46 |      1 |     -431 | 0.02 | -0.94 |
 
 ##### Form Last 20 tips   
 
@@ -73,31 +73,31 @@ date: 2022-03-31 10:44:17 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6174 |    790 | -14408.7 | 0.13 | -0.23 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7906 |    369 | -22775.5 | 0.05 | -0.29 |
 
-|    | finish   | time                | track           |   race |   number | name             |   odds | tipster            |
-|---:|:---------|:--------------------|:----------------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-04-01 04:45:00 | chelmsford-city |      7 |        2 | Blue Trail       |   2.5  | evenodds,overthrow |
-|  1 | :soon:   | 2022-04-01 04:45:00 | chelmsford-city |      7 |        5 | Harrow           |   2.7  | vulture            |
-|  2 | :soon:   | 2022-04-01 03:45:00 | chelmsford-city |      5 |        2 | Jungle Run       |   2    | vulture            |
-|  3 | :soon:   | 2022-04-01 03:35:00 | wetherby        |      7 |        1 | King Ferdinand   |   3.4  | vulture            |
-|  4 | :soon:   | 2022-04-01 03:10:00 | chelmsford-city |      4 |        6 | Reckon I'm Hot   |   7.5  | vulture            |
-|  5 | :soon:   | 2022-04-01 02:25:00 | warwick         |      7 |        1 | Stratagem        |   1.8  | overthrow          |
-|  6 | :soon:   | 2022-04-01 02:25:00 | warwick         |      7 |        3 | Tango De Juilley |   8    | overthrow          |
-|  7 | :soon:   | 2022-04-01 02:10:00 | lingfield       |      5 |        8 | Sir Henry Cotton |   4.6  | vulture            |
-|  8 | :soon:   | 2022-04-01 02:10:00 | lingfield       |      5 |        3 | Top Exhibit      |   6.5  | vulture            |
-|  9 | :soon:   | 2022-04-01 01:58:00 | wetherby        |      4 |        2 | Jet Plane        |   4.8  | overthrow          |
-| 10 | :soon:   | 2022-04-01 01:50:00 | warwick         |      6 |        4 | Head Law         |   3.3  | milkman            |
-| 11 | :soon:   | 2022-04-01 01:25:00 | wetherby        |      3 |        2 | Rose Sea Has     |   2.5  | pangea             |
-| 12 | :soon:   | 2022-04-01 00:15:00 | wetherby        |      1 |        4 | Quiet Flow       |   5.5  | overthrow          |
-| 13 | :soon:   | 2022-03-31 21:15:00 | racing.com-park |      8 |        1 | Barretta         |   2.5  | milkman            |
-| 14 | :soon:   | 2022-03-31 21:15:00 | racing.com-park |      8 |        6 | Ceasar           |   3.9  | vulture            |
-| 15 | :soon:   | 2022-03-31 20:00:00 | ascot           |      6 |        1 | Market Stryke    |   2.3  | pangea             |
-| 16 | :soon:   | 2022-03-31 19:45:00 | racing.com-park |      5 |        3 | Midnight Charm   |   1.91 | milkman            |
-| 17 | :soon:   | 2022-03-31 18:15:00 | racing.com-park |      2 |        5 | Ancient Egypt    |   3.75 | looseknot          |
-| 18 | :soon:   | 2022-03-31 17:57:00 | ascot           |      2 |        5 | Aiyza            |   4.4  | milkman            |
-| 19 | :soon:   | 2022-03-31 17:30:00 | newcastle       |      8 |       11 | Thalassophile    |   7.5  | pangea,pikey       |
-| 20 | :soon:   | 2022-03-31 17:30:00 | newcastle       |      8 |        4 | Divina           |  18    | wallbow            |
-| 21 | :soon:   | 2022-03-31 16:20:00 | newcastle       |      6 |        3 | Endorsement      |   2.4  | vulture,wallbow    |
-| 22 | :soon:   | 2022-03-31 16:20:00 | newcastle       |      6 |        5 | Mighty Willie    |  18    | pikey              |
-| 23 | :soon:   | 2022-03-31 15:05:00 | newcastle       |      4 |        8 | Spitfire         |   2.75 | pikey              |
-| 24 | :soon:   | 2022-03-31 14:25:00 | newcastle       |      3 |        8 | Mystic Mermaid   |   2.3  | vulture            |
-| 25 | :soon:   | 2022-03-31 13:15:00 | newcastle       |      1 |       12 | Marooniyah       |   3.9  | pikey              |
+|    | finish            | time                | track           |   race |   number | name             |   odds | tipster            |
+|---:|:------------------|:--------------------|:----------------|-------:|---------:|:-----------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-04-01 04:45:00 | chelmsford-city |      7 |        2 | Blue Trail       |   2.5  | evenodds,overthrow |
+|  1 | :soon:            | 2022-04-01 04:45:00 | chelmsford-city |      7 |        5 | Harrow           |   2.7  | vulture            |
+|  2 | :soon:            | 2022-04-01 03:45:00 | chelmsford-city |      5 |        2 | Jungle Run       |   2    | vulture            |
+|  3 | :soon:            | 2022-04-01 03:35:00 | wetherby        |      7 |        1 | King Ferdinand   |   3.4  | vulture            |
+|  4 | :soon:            | 2022-04-01 03:10:00 | chelmsford-city |      4 |        6 | Reckon I'm Hot   |   7.5  | vulture            |
+|  5 | :soon:            | 2022-04-01 02:25:00 | warwick         |      7 |        1 | Stratagem        |   1.8  | overthrow          |
+|  6 | :soon:            | 2022-04-01 02:25:00 | warwick         |      7 |        3 | Tango De Juilley |   8    | overthrow          |
+|  7 | :soon:            | 2022-04-01 02:10:00 | lingfield       |      5 |        8 | Sir Henry Cotton |   4.6  | vulture            |
+|  8 | :soon:            | 2022-04-01 02:10:00 | lingfield       |      5 |        3 | Top Exhibit      |   6.5  | vulture            |
+|  9 | :soon:            | 2022-04-01 01:58:00 | wetherby        |      4 |        2 | Jet Plane        |   4.8  | overthrow          |
+| 10 | :soon:            | 2022-04-01 01:50:00 | warwick         |      6 |        4 | Head Law         |   3.3  | milkman            |
+| 11 | :soon:            | 2022-04-01 01:25:00 | wetherby        |      3 |        2 | Rose Sea Has     |   2.5  | pangea             |
+| 12 | :soon:            | 2022-04-01 00:15:00 | wetherby        |      1 |        4 | Quiet Flow       |   5.5  | overthrow          |
+| 13 | :soon:            | 2022-03-31 21:15:00 | racing.com-park |      8 |        1 | Barretta         |   2.5  | milkman            |
+| 14 | :soon:            | 2022-03-31 21:15:00 | racing.com-park |      8 |        6 | Ceasar           |   3.9  | vulture            |
+| 15 | :soon:            | 2022-03-31 20:00:00 | ascot           |      6 |        1 | Market Stryke    |   2.3  | pangea             |
+| 16 | :soon:            | 2022-03-31 19:45:00 | racing.com-park |      5 |        3 | Midnight Charm   |   1.91 | milkman            |
+| 17 | :soon:            | 2022-03-31 18:15:00 | racing.com-park |      2 |        5 | Ancient Egypt    |   3.75 | looseknot          |
+| 18 | 4.0               | 2022-03-31 17:57:00 | ascot           |      2 |        5 | Aiyza            |   4.4  | milkman            |
+| 19 | :boom:            | 2022-03-31 17:30:00 | newcastle       |      8 |       11 | Thalassophile    |   7.5  | pangea,pikey       |
+| 20 | 7.0               | 2022-03-31 17:30:00 | newcastle       |      8 |        4 | Divina           |  18    | wallbow            |
+| 21 | 9.0               | 2022-03-31 16:20:00 | newcastle       |      6 |        3 | Endorsement      |   2.4  | vulture,wallbow    |
+| 22 | 5.0               | 2022-03-31 16:20:00 | newcastle       |      6 |        5 | Mighty Willie    |  18    | pikey              |
+| 23 | :2nd_place_medal: | 2022-03-31 15:05:00 | newcastle       |      4 |        8 | Spitfire         |   2.75 | pikey              |
+| 24 | :3rd_place_medal: | 2022-03-31 14:25:00 | newcastle       |      3 |        8 | Mystic Mermaid   |   2.3  | vulture            |
+| 25 | :2nd_place_medal: | 2022-03-31 13:15:00 | newcastle       |      1 |       12 | Marooniyah       |   3.9  | pikey              |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-03-31 10:44:16 +1000  
+date: 2022-03-31 18:13:10 +1000  
 categories: None 
 ---   
 
@@ -15,10 +15,10 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 17:30             | 2022-03-31 | newcastle R8          | 11 Thalassophile      |   7.5  |    -10   |
-| 16:20             | 2022-03-31 | newcastle R6          | 5 Mighty Willie       |  18    |    -10   |
-| 15:05             | 2022-03-31 | newcastle R4          | 8 Spitfire            |   2.75 |    -10   |
-| 13:15             | 2022-03-31 | newcastle R1          | 12 Marooniyah         |   3.9  |    -10   |
+| :boom:            | 2022-03-31 | newcastle R8          | 11 Thalassophile      |   4.7  |     37   |
+| 5                 | 2022-03-31 | newcastle R6          | 5 Mighty Willie       |  18    |    -10   |
+| :2nd_place_medal: | 2022-03-31 | newcastle R4          | 8 Spitfire            |   2.75 |    -10   |
+| :2nd_place_medal: | 2022-03-31 | newcastle R1          | 12 Marooniyah         |   3.9  |    -10   |
 | 0                 | 2022-03-30 | canterbury R8         | 12 Hasty Duchess      |   0    |    -10   |
 | 10                | 2022-03-30 | canterbury R7         | 7 Stolen Jade         |   8.5  |    -10   |
 | 8                 | 2022-03-30 | canterbury R6         | 12 Bladnoch           |  34    |    -10   |

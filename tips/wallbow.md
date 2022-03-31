@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-03-31 10:44:11 +1000  
+date: 2022-03-31 18:13:04 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
-| 17:30             | 2022-03-31 | newcastle R8        | 4 Divina           | 18    |      -10 |
-| 16:20             | 2022-03-31 | newcastle R6        | 3 Endorsement      |  2.4  |      -10 |
+| 7                 | 2022-03-31 | newcastle R8        | 4 Divina           | 18    |      -10 |
+| 9                 | 2022-03-31 | newcastle R6        | 3 Endorsement      |  2.4  |      -10 |
 | 8                 | 2022-03-30 | canterbury R7       | 10 Gracilistyla    |  3    |      -10 |
 | 6                 | 2022-03-30 | canterbury R2       | 2 Brechen          |  5.5  |      -10 |
 | :2nd_place_medal: | 2022-03-30 | canterbury R1       | 1 Cadetship        |  4.6  |      -10 |
