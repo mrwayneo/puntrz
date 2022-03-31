@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-03-31 22:52:01 +1000  
+date: 2022-04-01 06:03:22 +1000  
 categories: None 
 ---   
 
@@ -10,7 +10,7 @@ categories: None
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
 | Last 28 Days   |     10 |      1 |      -41 | 0.1  | -0.41 |
-| Last 6 Months  |    104 |     17 |     1862 | 0.16 |  1.79 |
+| Last 6 Months  |     87 |     12 |     1038 | 0.14 |  1.19 |
 | Since Jan 2020 |    246 |     43 |     4709 | 0.17 |  1.91 |
 
 | finish            | date       | event                  | runner                |   win |   return |

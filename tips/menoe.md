@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-03-31 22:52:01 +1000  
+date: 2022-04-01 06:03:22 +1000  
 categories: None 
 ---   
 
@@ -10,7 +10,7 @@ categories: None
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      1 |      1 |      6   | 1    |  0.6  |
 | Last 28 Days   |      5 |      3 |     12   | 0.6  |  0.24 |
-| Last 6 Months  |     30 |     15 |     -6   | 0.5  | -0.02 |
+| Last 6 Months  |     24 |     10 |    -34.5 | 0.42 | -0.14 |
 | Since Jan 2020 |     64 |     35 |     24.7 | 0.55 |  0.04 |
 
 | finish            | date       | event                  | runner               |   win |   return |

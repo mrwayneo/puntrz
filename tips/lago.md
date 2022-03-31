@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-03-31 22:52:00 +1000  
+date: 2022-04-01 06:03:22 +1000  
 categories: None 
 ---   
 
@@ -10,7 +10,7 @@ categories: None
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      2 |      1 |     28   | 0.5  |  1.4  |
 | Last 28 Days   |     24 |     11 |    101.5 | 0.46 |  0.42 |
-| Last 6 Months  |    131 |     64 |    438.7 | 0.49 |  0.33 |
+| Last 6 Months  |    118 |     53 |    132   | 0.45 |  0.11 |
 | Since Jan 2020 |    240 |    117 |   1438.7 | 0.49 |  0.6  |
 
 | finish            | date       | event                        | runner               |   win |   return |
