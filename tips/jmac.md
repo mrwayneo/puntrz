@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-04-02 13:51:08 +1000  
+date: 2022-04-02 14:06:17 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 16:35             | 2022-04-02 | randwick R8          | 1 Nature Strip       |  2.8  |    -10   |
 | 15:15             | 2022-04-02 | randwick R6          | 10 Showcourt         | 11    |    -10   |
-| 13:55             | 2022-04-02 | randwick R4          | 4 She's Ideel        |  6    |    -10   |
+| 0                 | 2022-04-02 | randwick R4          | 4 She's Ideel        |  0    |    -10   |
 | :boom:            | 2022-04-02 | randwick R2          | 3 Straight Arron     |  1.9  |      9   |
 | :2nd_place_medal: | 2022-04-02 | randwick R1          | 5 Voldemort          |  7.5  |    -10   |
 | 0                 | 2022-03-30 | canterbury R8        | 8 Calgary Queen      |  0    |    -10   |
