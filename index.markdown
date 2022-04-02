@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 16:21:50 +1000  
+date: 2022-04-02 16:36:34 +1000  
 ---   
 
 
@@ -25,7 +25,7 @@ date: 2022-04-02 16:21:50 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     26 |      1 |     -212 | 0.04 | -0.82 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     28 |      1 |     -239 | 0.04 | -0.85 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     32 |      0 |     -320 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      3 |     -420 | 0.06 | -0.82 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      4 |     -393 | 0.08 | -0.77 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     73 |      1 |     -606 | 0.01 | -0.83 |
 
 ##### Form Last 20 tips   
@@ -135,14 +135,14 @@ date: 2022-04-02 16:21:50 +1000
 | 50 | :soon:            | 2022-04-02 16:57:00 | alice-springs |      5 |        4 | Mathematics        |   4.6  | pangea               |
 | 51 | :soon:            | 2022-04-02 16:43:00 | eagle-farm    |      7 |        1 | Release The Beans  |   6    | milkman              |
 | 52 | :soon:            | 2022-04-02 16:39:00 | ascot         |      3 |        5 | Otheroneson        |   1.7  | vulture              |
-| 53 | :soon:            | 2022-04-02 16:35:00 | randwick      |      8 |        3 | Masked Crusader    |  10    | pikey                |
-| 54 | :soon:            | 2022-04-02 16:35:00 | randwick      |      8 |       11 | Paulele            |  12    | milkman              |
-| 55 | :soon:            | 2022-04-02 16:35:00 | randwick      |      8 |        1 | Nature Strip       |   2.8  | pangea,jmac          |
-| 56 | :soon:            | 2022-04-02 16:35:00 | randwick      |      8 |        8 | Roch 'N' Horse     |  18    | vulture              |
-| 57 | :soon:            | 2022-04-02 16:27:00 | morphettville |      7 |        9 | Cassowary          |   9.5  | cosmo,bluey          |
-| 58 | :soon:            | 2022-04-02 16:27:00 | morphettville |      7 |        7 | Prefer Us          |   4.8  | vulture              |
+| 53 | --                | 2022-04-02 16:35:00 | randwick      |      8 |        3 | Masked Crusader    |  10    | pikey                |
+| 54 | --                | 2022-04-02 16:35:00 | randwick      |      8 |       11 | Paulele            |  12    | milkman              |
+| 55 | --                | 2022-04-02 16:35:00 | randwick      |      8 |        1 | Nature Strip       |   2.8  | pangea,jmac          |
+| 56 | --                | 2022-04-02 16:35:00 | randwick      |      8 |        8 | Roch 'N' Horse     |  18    | vulture              |
+| 57 | --                | 2022-04-02 16:27:00 | morphettville |      7 |        9 | Cassowary          |   9.5  | cosmo,bluey          |
+| 58 | --                | 2022-04-02 16:27:00 | morphettville |      7 |        7 | Prefer Us          |   4.8  | vulture              |
 | 59 | 4.0               | 2022-04-02 16:17:00 | alice-springs |      4 |        6 | Celtic Belle       |   6    | pangea               |
-| 60 | --                | 2022-04-02 16:15:00 | bendigo       |      7 |       10 | Cardigan Queen     |   2.62 | vulture              |
+| 60 | 5.0               | 2022-04-02 16:15:00 | bendigo       |      7 |       10 | Cardigan Queen     |   2.62 | vulture              |
 | 61 | :2nd_place_medal: | 2022-04-02 16:15:00 | bendigo       |      7 |       11 | Asymmetrical       |   7    | vulture,milkman      |
 | 62 | 7.0               | 2022-04-02 16:07:00 | eagle-farm    |      6 |       10 | Hostage Of War     |  11    | pangea               |
 | 63 | 6.0               | 2022-04-02 16:07:00 | eagle-farm    |      6 |        3 | Humbolt Current    |   6.5  | vulture              |

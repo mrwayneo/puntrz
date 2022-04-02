@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-04-02 16:21:48 +1000  
+date: 2022-04-02 16:36:33 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 16:35             | 2022-04-02 | randwick R8          | 1 Nature Strip       |  2.8  |    -10   |
+| 0                 | 2022-04-02 | randwick R8          | 1 Nature Strip       |  0    |    -10   |
 | 12                | 2022-04-02 | randwick R6          | 10 Showcourt         | 11    |    -10   |
 | 6                 | 2022-04-02 | randwick R4          | 4 She's Ideel        |  6    |    -10   |
 | :boom:            | 2022-04-02 | randwick R2          | 3 Straight Arron     |  1.9  |      9   |
