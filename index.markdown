@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 22:34:01 +1000  
+date: 2022-04-02 22:48:52 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-04-02 22:34:01 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      8 |       44 | 0.16 |  0.09 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      9 |       88 | 0.18 |  0.17 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      2 |       32 | 1    |  1.6  |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      1 |        1 | 0.25 |  0.02 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      5 |      2 |       -8 | 0.4  | -0.16 |
@@ -116,7 +116,7 @@ date: 2022-04-02 22:34:01 +1000
 | 31 | :soon:            | 2022-04-02 23:05:00 | turffontein   |      5 |        3 | Sound Of Warning   |   0    | milkman              |
 | 32 | :soon:            | 2022-04-02 23:00:00 | newbury       |      1 |       13 | Issar D'airy       |   8    | vulture              |
 | 33 | :soon:            | 2022-04-02 23:00:00 | newbury       |      1 |        7 | Inca De Lafayette  |   2.8  | evenodds,overthrow   |
-| 34 | --                | 2022-04-02 22:30:00 | turffontein   |      4 |        4 | Winter Stories     |   0    | vulture              |
+| 34 | :3rd_place_medal: | 2022-04-02 22:30:00 | turffontein   |      4 |        4 | Winter Stories     |   0    | vulture              |
 | 35 | :boom:            | 2022-04-02 20:00:00 | singapore     |     11 |        3 | Lucky Jinsha       |   1.75 | vulture              |
 | 36 | :boom:            | 2022-04-02 19:50:00 | ascot         |      8 |        2 | Comes A Time       |   2.25 | vulture              |
 | 37 | 5.0               | 2022-04-02 18:56:00 | kalgoorlie    |      5 |        3 | Jakestar           |   6    | pangea               |
