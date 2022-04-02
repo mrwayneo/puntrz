@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 20:13:29 +1000  
+date: 2022-04-02 20:28:21 +1000  
 ---   
 
 
@@ -24,7 +24,7 @@ date: 2022-04-02 20:13:29 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     26 |      5 |     -119 | 0.19 | -0.46 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      2 |     -148 | 0.1  | -0.74 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     23 |      2 |     -178 | 0.09 | -0.77 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     28 |      3 |     -199 | 0.11 | -0.71 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     28 |      4 |     -180 | 0.14 | -0.64 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      6 |     -322 | 0.12 | -0.63 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     73 |      2 |     -382 | 0.03 | -0.52 |
 
@@ -117,7 +117,7 @@ date: 2022-04-02 20:13:29 +1000
 | 32 | :soon:            | 2022-04-02 23:00:00 | newbury       |      1 |       13 | Issar D'airy       |   8    | vulture              |
 | 33 | :soon:            | 2022-04-02 23:00:00 | newbury       |      1 |        7 | Inca De Lafayette  |   2.8  | evenodds,overthrow   |
 | 34 | :soon:            | 2022-04-02 22:30:00 | turffontein   |      4 |        4 | Winter Stories     |   0    | vulture              |
-| 35 | --                | 2022-04-02 20:00:00 | singapore     |     11 |        3 | Lucky Jinsha       |   1.75 | vulture              |
+| 35 | :boom:            | 2022-04-02 20:00:00 | singapore     |     11 |        3 | Lucky Jinsha       |   1.75 | vulture              |
 | 36 | :boom:            | 2022-04-02 19:50:00 | ascot         |      8 |        2 | Comes A Time       |   2.25 | vulture              |
 | 37 | 5.0               | 2022-04-02 18:56:00 | kalgoorlie    |      5 |        3 | Jakestar           |   6    | pangea               |
 | 38 | 7.0               | 2022-04-02 18:56:00 | kalgoorlie    |      5 |        1 | Protected Action   |   5    | pangea               |
