@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 15:36:28 +1000  
+date: 2022-04-02 15:51:39 +1000  
 ---   
 
 
@@ -9,23 +9,23 @@ date: 2022-04-02 15:36:28 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      1 |       21 | 0.5  |  1.05 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      1 |        1 | 0.25 |  0.02 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      1 |      -10 | 0.25 | -0.25 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      0 |      -20 | 0    | -1    |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      0 |      -20 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      5 |      1 |      -31 | 0.2  | -0.62 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      0 |     -200 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     23 |      0 |     -230 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     26 |      0 |     -260 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     28 |      0 |     -280 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      1 |     -159 | 0.05 | -0.8  |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     23 |      1 |     -189 | 0.04 | -0.82 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     26 |      1 |     -212 | 0.04 | -0.82 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     28 |      1 |     -239 | 0.04 | -0.85 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     32 |      0 |     -320 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      1 |     -481 | 0.02 | -0.94 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      2 |     -445 | 0.04 | -0.87 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     73 |      1 |     -606 | 0.01 | -0.83 |
 
 ##### Form Last 20 tips   
@@ -147,10 +147,10 @@ date: 2022-04-02 15:36:28 +1000
 | 62 | :soon:            | 2022-04-02 16:07:00 | eagle-farm    |      6 |       10 | Hostage Of War     |  11    | pangea               |
 | 63 | :soon:            | 2022-04-02 16:07:00 | eagle-farm    |      6 |        3 | Humbolt Current    |   6.5  | vulture              |
 | 64 | :soon:            | 2022-04-02 16:02:00 | ascot         |      2 |        3 | State Of Power     |   4.5  | vulture              |
-| 65 | :soon:            | 2022-04-02 15:47:00 | morphettville |      6 |        5 | Gaze Grise         |   5.5  | pangea               |
-| 66 | :soon:            | 2022-04-02 15:44:00 | gold-coast    |      4 |        2 | Impel Gazelle      |   2.6  | evenodds,lago        |
-| 67 | :soon:            | 2022-04-02 15:37:00 | alice-springs |      3 |        6 | Zipadee            |   5    | pangea               |
-| 68 | --                | 2022-04-02 15:27:00 | eagle-farm    |      5 |        1 | Le Palmier         |   5    | pangea               |
+| 65 | :boom:            | 2022-04-02 15:47:00 | morphettville |      6 |        5 | Gaze Grise         |   5.5  | pangea               |
+| 66 | :boom:            | 2022-04-02 15:44:00 | gold-coast    |      4 |        2 | Impel Gazelle      |   2.6  | evenodds,lago        |
+| 67 | --                | 2022-04-02 15:37:00 | alice-springs |      3 |        6 | Zipadee            |   5    | pangea               |
+| 68 | 9.0               | 2022-04-02 15:27:00 | eagle-farm    |      5 |        1 | Le Palmier         |   5    | pangea               |
 | 69 | 4.0               | 2022-04-02 15:15:00 | randwick      |      6 |        1 | Daumier            |  12    | overthrow,milkman    |
 | 70 | :3rd_place_medal: | 2022-04-02 15:15:00 | randwick      |      6 |        3 | Let'srollthedice   |  11    | vulture,milkman      |
 | 71 | 10.0              | 2022-04-02 15:15:00 | randwick      |      6 |        7 | Magic              |  17    | pikey                |
