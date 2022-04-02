@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 15:06:22 +1000  
+date: 2022-04-02 15:21:32 +1000  
 ---   
 
 
@@ -151,12 +151,12 @@ date: 2022-04-02 15:06:22 +1000
 | 66 | :soon:            | 2022-04-02 15:44:00 | gold-coast    |      4 |        2 | Impel Gazelle      |   2.6  | evenodds,lago        |
 | 67 | :soon:            | 2022-04-02 15:37:00 | alice-springs |      3 |        6 | Zipadee            |   5    | pangea               |
 | 68 | :soon:            | 2022-04-02 15:27:00 | eagle-farm    |      5 |        1 | Le Palmier         |   5    | pangea               |
-| 69 | :soon:            | 2022-04-02 15:15:00 | randwick      |      6 |        1 | Daumier            |  12    | overthrow,milkman    |
-| 70 | :soon:            | 2022-04-02 15:15:00 | randwick      |      6 |        3 | Let'srollthedice   |  11    | vulture,milkman      |
-| 71 | :soon:            | 2022-04-02 15:15:00 | randwick      |      6 |        7 | Magic              |  17    | pikey                |
-| 72 | :soon:            | 2022-04-02 15:15:00 | randwick      |      6 |        8 | Warby              |  26    | vulture              |
-| 73 | :soon:            | 2022-04-02 15:15:00 | randwick      |      6 |       10 | Showcourt          |  11    | jmac                 |
-| 74 | :soon:            | 2022-04-02 15:07:00 | morphettville |      5 |       10 | Extremely Discreet |   9    | vulture              |
+| 69 | --                | 2022-04-02 15:15:00 | randwick      |      6 |        1 | Daumier            |  12    | overthrow,milkman    |
+| 70 | --                | 2022-04-02 15:15:00 | randwick      |      6 |        3 | Let'srollthedice   |  11    | vulture,milkman      |
+| 71 | --                | 2022-04-02 15:15:00 | randwick      |      6 |        7 | Magic              |  17    | pikey                |
+| 72 | --                | 2022-04-02 15:15:00 | randwick      |      6 |        8 | Warby              |  26    | vulture              |
+| 73 | --                | 2022-04-02 15:15:00 | randwick      |      6 |       10 | Showcourt          |  11    | jmac                 |
+| 74 | --                | 2022-04-02 15:07:00 | morphettville |      5 |       10 | Extremely Discreet |   9    | vulture              |
 | 75 | --                | 2022-04-02 15:00:00 | singapore     |      1 |        5 | Star Empire        |   2.6  | vulture              |
 | 76 | :2nd_place_medal: | 2022-04-02 14:24:00 | gold-coast    |      2 |        6 | Shalook            |   3.1  | vulture              |
 | 77 | 6.0               | 2022-04-02 14:17:00 | alice-springs |      1 |        7 | Thirsty            |   6    | evenodds,overthrow   |

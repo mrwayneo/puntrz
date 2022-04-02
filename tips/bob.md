@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-04-02 15:06:21 +1000  
+date: 2022-04-02 15:21:31 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
 | 01:10             | 2022-04-03 | leopardstown R3               | 6 Panama Red          |  12    |    -10   |
-| 0                 | 2022-04-02 | bendigo R5                    | 11 Demando            |   0    |    -10   |
+| 8                 | 2022-04-02 | bendigo R5                    | 11 Demando            |  26    |    -10   |
 | :boom:            | 2022-03-30 | sandown-hillside R3           | 3 Rebel's Choice      |  11.2  |    102   |
 | 0                 | 2022-03-23 | wetherby R5                   | 1 Bushypark           |   0    |    -10   |
 | 0                 | 2022-03-19 | fakenham R1                   | 7 Fae The Port        |   0    |    -10   |

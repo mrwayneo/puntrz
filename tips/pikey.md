@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-02 15:06:21 +1000  
+date: 2022-04-02 15:21:30 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 16:35             | 2022-04-02 | randwick R8           | 3 Masked Crusader     |  10    |    -10   |
-| 15:15             | 2022-04-02 | randwick R6           | 7 Magic               |  17    |    -10   |
+| 0                 | 2022-04-02 | randwick R6           | 7 Magic               |   0    |    -10   |
 | 7                 | 2022-04-02 | randwick R4           | 6 Zeyrek              |   4.2  |    -10   |
 | :boom:            | 2022-04-02 | randwick R1           | 1 Semillion           |   3    |     20   |
 | :boom:            | 2022-03-31 | newcastle R8          | 11 Thalassophile      |   4.7  |     37   |
