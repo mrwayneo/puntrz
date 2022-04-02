@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-01 07:17:54 +1000  
+date: 2022-04-02 12:49:39 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      1 |     28   | 0.5  |  1.4  |
-| Last 28 Days   |     24 |     11 |    101.5 | 0.46 |  0.42 |
+| Last 28 Days   |     22 |     10 |    110.5 | 0.45 |  0.5  |
 | Last 6 Months  |    118 |     53 |    132   | 0.45 |  0.11 |
 | Since Jan 2020 |    240 |    117 |   1438.7 | 0.49 |  0.6  |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
+| 17:37             | 2022-04-02 | alice-springs R6             | 1 Dakota Lee         |  1.06 |    -10   |
+| 15:44             | 2022-04-02 | gold-coast R4                | 2 Impel Gazelle      |  2.6  |    -10   |
 | :3rd_place_medal: | 2022-03-28 | limerick R8                  | 2 Mercurey           |  1.32 |    -10   |
 | :boom:            | 2022-03-28 | limerick R8                  | 1 Impulsive Dancer   |  4.8  |     38   |
 | 5                 | 2022-03-25 | moonee-valley R3             | 1 Bello Beau         |  3.75 |    -10   |

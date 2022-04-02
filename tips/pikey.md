@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-01 07:17:53 +1000  
+date: 2022-04-02 12:49:39 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,16 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |     16 |      5 |       20 | 0.31 |  0.12 |
-| Last 28 Days   |     55 |      9 |      -45 | 0.16 | -0.08 |
+| Last 28 Days   |     50 |      8 |      -93 | 0.16 | -0.19 |
 | Last 6 Months  |    348 |     84 |     -887 | 0.24 | -0.25 |
 | Since Jan 2020 |   1066 |    261 |    -1789 | 0.24 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 16:35             | 2022-04-02 | randwick R8           | 3 Masked Crusader     |  10    |    -10   |
+| 15:15             | 2022-04-02 | randwick R6           | 7 Magic               |  17    |    -10   |
+| 13:55             | 2022-04-02 | randwick R4           | 6 Zeyrek              |   4.2  |    -10   |
+| 0                 | 2022-04-02 | randwick R1           | 1 Semillion           |   0    |    -10   |
 | :boom:            | 2022-03-31 | newcastle R8          | 11 Thalassophile      |   4.7  |     37   |
 | 5                 | 2022-03-31 | newcastle R6          | 5 Mighty Willie       |  18    |    -10   |
 | :2nd_place_medal: | 2022-03-31 | newcastle R4          | 8 Spitfire            |   2.75 |    -10   |

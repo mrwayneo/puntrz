@@ -1,20 +1,22 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-04-01 07:17:54 +1000  
+date: 2022-04-02 12:49:39 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
-| Last 28 Days   |     10 |      1 |      -41 | 0.1  | -0.41 |
+| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
+| Last 28 Days   |      9 |      1 |      -31 | 0.11 | -0.34 |
 | Last 6 Months  |     87 |     12 |     1038 | 0.14 |  1.19 |
 | Since Jan 2020 |    246 |     43 |     4709 | 0.17 |  1.91 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 16:27             | 2022-04-02 | morphettville R7       | 9 Cassowary           |   9.5 |      -10 |
+| 12:53             | 2022-04-02 | eagle-farm R1          | 7 Aliraaj             |  61   |      -10 |
 | 0                 | 2022-03-31 | market-rasen R4        | 2 Boreham Bill        |   0   |      -10 |
 | 0                 | 2022-03-28 | carlisle R2            | 10 Donladd            |   0   |      -10 |
 | 5                 | 2022-03-20 | pinjarra R6            | 6 Burn One Down       |  14   |      -10 |
@@ -62,8 +64,8 @@ categories: None
 | 4                 | 2021-12-11 | ascot-park R7          | 2 Kilowatt            |  11   |      -10 |
 | 7                 | 2021-12-11 | ascot-park R5          | 7 The Ace             |  14   |      -10 |
 | 6                 | 2021-12-08 | warwick-farm R2        | 10 Compassionate      |  11   |      -10 |
-| 7                 | 2021-12-04 | racing.com-park R6     | 7 Night Raid          |  11   |      -10 |
 | 11                | 2021-12-04 | racing.com-park R6     | 2 Sircconi            |  41   |      -10 |
+| 7                 | 2021-12-04 | racing.com-park R6     | 7 Night Raid          |  11   |      -10 |
 | 99                | 2021-12-04 | sandown R6             | 1 William Henry       |   0   |      -10 |
 | :boom:            | 2021-11-26 | cromwell R7            | 12 Hyspec             |  13   |      120 |
 | :boom:            | 2021-11-25 | northam R5             | 8 Winsalot            |  11.1 |      101 |
@@ -175,8 +177,8 @@ categories: None
 | 99                | 2021-06-12 | fairyhouse R3          | 14 Swiss Ace          |  26   |      -10 |
 | :boom:            | 2021-06-11 | swan-hill R3           | 4 Air Defence         |  10.2 |       92 |
 | 99                | 2021-06-10 | pukekura-raceway R2    | 9 Mandalay            |  51   |      -10 |
-| :boom:            | 2021-06-06 | devonport-synthetic R9 | 5 Elisavet            |  11   |      100 |
 | 4                 | 2021-06-06 | devonport-synthetic R9 | 6 Odin's Folly        |  14   |      -10 |
+| :boom:            | 2021-06-06 | devonport-synthetic R9 | 5 Elisavet            |  11   |      100 |
 | 9                 | 2021-06-06 | pinjarra R2            | 3 Halatorion          |  31   |      -10 |
 | 11                | 2021-06-05 | flemington R3          | 14 Just Folk          |  17   |      -10 |
 | 7                 | 2021-05-29 | randwick R6            | 10 Wayupinthesky      |  21   |      -10 |

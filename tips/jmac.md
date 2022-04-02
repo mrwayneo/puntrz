@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-04-01 07:17:53 +1000  
+date: 2022-04-02 12:49:39 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,17 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      7 |      1 |    -47   | 0.14 | -0.67 |
-| Last 28 Days   |     39 |      7 |   -180   | 0.18 | -0.46 |
+| Last 28 Days   |     31 |      6 |   -129   | 0.19 | -0.42 |
 | Last 6 Months  |    250 |     59 |   -521.5 | 0.24 | -0.21 |
 | Since Jan 2020 |    713 |    174 |   -578.5 | 0.24 | -0.08 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 16:35             | 2022-04-02 | randwick R8          | 1 Nature Strip       |  2.8  |    -10   |
+| 15:15             | 2022-04-02 | randwick R6          | 10 Showcourt         | 11    |    -10   |
+| 13:55             | 2022-04-02 | randwick R4          | 4 She's Ideel        |  6    |    -10   |
+| 0                 | 2022-04-02 | randwick R2          | 3 Straight Arron     |  0    |    -10   |
+| 0                 | 2022-04-02 | randwick R1          | 5 Voldemort          |  0    |    -10   |
 | 0                 | 2022-03-30 | canterbury R8        | 8 Calgary Queen      |  0    |    -10   |
 | 7                 | 2022-03-30 | canterbury R6        | 11 Aton Of Delight   |  9    |    -10   |
 | :3rd_place_medal: | 2022-03-30 | canterbury R5        | 7 Girls Are Ready    |  3.5  |    -10   |
