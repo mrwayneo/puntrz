@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 18:21:51 +1000  
+date: 2022-04-02 18:58:14 +1000  
 ---   
 
 
@@ -21,11 +21,11 @@ date: 2022-04-02 18:21:51 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     32 |      1 |      -96 | 0.03 | -0.3  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     26 |      5 |     -119 | 0.19 | -0.46 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      2 |     -148 | 0.1  | -0.74 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     26 |      3 |     -160 | 0.12 | -0.62 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     23 |      2 |     -178 | 0.09 | -0.77 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     28 |      2 |     -222 | 0.07 | -0.79 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      5 |     -343 | 0.1  | -0.67 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      6 |     -322 | 0.12 | -0.63 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     73 |      2 |     -382 | 0.03 | -0.52 |
 
 ##### Form Last 20 tips   
@@ -119,11 +119,11 @@ date: 2022-04-02 18:21:51 +1000
 | 34 | :soon:            | 2022-04-02 22:30:00 | turffontein   |      4 |        4 | Winter Stories     |   0    | vulture              |
 | 35 | :soon:            | 2022-04-02 20:00:00 | singapore     |     11 |        3 | Lucky Jinsha       |   1.75 | vulture              |
 | 36 | :soon:            | 2022-04-02 19:50:00 | ascot         |      8 |        2 | Comes A Time       |   2.25 | vulture              |
-| 37 | :soon:            | 2022-04-02 18:56:00 | kalgoorlie    |      5 |        3 | Jakestar           |   6    | pangea               |
-| 38 | :soon:            | 2022-04-02 18:56:00 | kalgoorlie    |      5 |        1 | Protected Action   |   5    | pangea               |
-| 39 | :soon:            | 2022-04-02 18:46:00 | alice-springs |      8 |        4 | Ash Grey           |   4.75 | pangea,overthrow     |
-| 40 | :soon:            | 2022-04-02 18:35:00 | ascot         |      6 |        2 | How's The Serenity |   2    | pangea               |
-| 41 | --                | 2022-04-02 18:18:00 | toowoomba     |      1 |        7 | Miss Barty         |   2.6  | evenodds,blackshadow |
+| 37 | --                | 2022-04-02 18:56:00 | kalgoorlie    |      5 |        3 | Jakestar           |   6    | pangea               |
+| 38 | --                | 2022-04-02 18:56:00 | kalgoorlie    |      5 |        1 | Protected Action   |   5    | pangea               |
+| 39 | --                | 2022-04-02 18:46:00 | alice-springs |      8 |        4 | Ash Grey           |   4.75 | pangea,overthrow     |
+| 40 | :boom:            | 2022-04-02 18:35:00 | ascot         |      6 |        2 | How's The Serenity |   2    | pangea               |
+| 41 | :3rd_place_medal: | 2022-04-02 18:18:00 | toowoomba     |      1 |        7 | Miss Barty         |   2.6  | evenodds,blackshadow |
 | 42 | :2nd_place_medal: | 2022-04-02 18:10:00 | alice-springs |      7 |        2 | Desert Lass        |   2.6  | vulture,pangea       |
 | 43 | :boom:            | 2022-04-02 17:55:00 | ascot         |      5 |        2 | Time Scale         |   3.7  | pangea               |
 | 44 | :boom:            | 2022-04-02 17:37:00 | alice-springs |      6 |        1 | Dakota Lee         |   1.06 | overthrow,lago       |
