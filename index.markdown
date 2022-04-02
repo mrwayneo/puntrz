@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 18:06:57 +1000  
+date: 2022-04-02 18:21:51 +1000  
 ---   
 
 
@@ -123,8 +123,8 @@ date: 2022-04-02 18:06:57 +1000
 | 38 | :soon:            | 2022-04-02 18:56:00 | kalgoorlie    |      5 |        1 | Protected Action   |   5    | pangea               |
 | 39 | :soon:            | 2022-04-02 18:46:00 | alice-springs |      8 |        4 | Ash Grey           |   4.75 | pangea,overthrow     |
 | 40 | :soon:            | 2022-04-02 18:35:00 | ascot         |      6 |        2 | How's The Serenity |   2    | pangea               |
-| 41 | :soon:            | 2022-04-02 18:18:00 | toowoomba     |      1 |        7 | Miss Barty         |   2.6  | evenodds,blackshadow |
-| 42 | :soon:            | 2022-04-02 18:10:00 | alice-springs |      7 |        2 | Desert Lass        |   2.6  | vulture,pangea       |
+| 41 | --                | 2022-04-02 18:18:00 | toowoomba     |      1 |        7 | Miss Barty         |   2.6  | evenodds,blackshadow |
+| 42 | :2nd_place_medal: | 2022-04-02 18:10:00 | alice-springs |      7 |        2 | Desert Lass        |   2.6  | vulture,pangea       |
 | 43 | :boom:            | 2022-04-02 17:55:00 | ascot         |      5 |        2 | Time Scale         |   3.7  | pangea               |
 | 44 | :boom:            | 2022-04-02 17:37:00 | alice-springs |      6 |        1 | Dakota Lee         |   1.06 | overthrow,lago       |
 | 45 | 7.0               | 2022-04-02 17:23:00 | eagle-farm    |      8 |        1 | Royal Hale         |   5.5  | pangea               |
