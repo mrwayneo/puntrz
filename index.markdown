@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 17:51:48 +1000  
+date: 2022-04-02 18:06:57 +1000  
 ---   
 
 
@@ -22,8 +22,8 @@ date: 2022-04-02 17:51:48 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      4 |      0 |      -40 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     32 |      1 |      -96 | 0.03 | -0.3  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      2 |     -148 | 0.1  | -0.74 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     26 |      3 |     -160 | 0.12 | -0.62 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     23 |      2 |     -178 | 0.09 | -0.77 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     26 |      2 |     -189 | 0.08 | -0.73 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     28 |      2 |     -222 | 0.07 | -0.79 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      5 |     -343 | 0.1  | -0.67 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     73 |      2 |     -382 | 0.03 | -0.52 |
@@ -125,10 +125,10 @@ date: 2022-04-02 17:51:48 +1000
 | 40 | :soon:            | 2022-04-02 18:35:00 | ascot         |      6 |        2 | How's The Serenity |   2    | pangea               |
 | 41 | :soon:            | 2022-04-02 18:18:00 | toowoomba     |      1 |        7 | Miss Barty         |   2.6  | evenodds,blackshadow |
 | 42 | :soon:            | 2022-04-02 18:10:00 | alice-springs |      7 |        2 | Desert Lass        |   2.6  | vulture,pangea       |
-| 43 | :soon:            | 2022-04-02 17:55:00 | ascot         |      5 |        2 | Time Scale         |   3.7  | pangea               |
+| 43 | :boom:            | 2022-04-02 17:55:00 | ascot         |      5 |        2 | Time Scale         |   3.7  | pangea               |
 | 44 | :boom:            | 2022-04-02 17:37:00 | alice-springs |      6 |        1 | Dakota Lee         |   1.06 | overthrow,lago       |
-| 45 | --                | 2022-04-02 17:23:00 | eagle-farm    |      8 |        1 | Royal Hale         |   5.5  | pangea               |
-| 46 | --                | 2022-04-02 17:23:00 | eagle-farm    |      8 |        2 | Bigboyroy          |   4.33 | vulture              |
+| 45 | 7.0               | 2022-04-02 17:23:00 | eagle-farm    |      8 |        1 | Royal Hale         |   5.5  | pangea               |
+| 46 | 5.0               | 2022-04-02 17:23:00 | eagle-farm    |      8 |        2 | Bigboyroy          |   4.33 | vulture              |
 | 47 | 5.0               | 2022-04-02 17:03:00 | morphettville |      8 |        1 | Dexelation         |   7.5  | vulture              |
 | 48 | :2nd_place_medal: | 2022-04-02 17:03:00 | morphettville |      8 |        6 | Rock The Ring      |   2.9  | pangea,icyhot        |
 | 49 | 5.0               | 2022-04-02 16:57:00 | alice-springs |      5 |        5 | Asahi Bearing      |   3.2  | pangea               |
