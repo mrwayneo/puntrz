@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 16:06:27 +1000  
+date: 2022-04-02 16:21:50 +1000  
 ---   
 
 
@@ -141,12 +141,12 @@ date: 2022-04-02 16:06:27 +1000
 | 56 | :soon:            | 2022-04-02 16:35:00 | randwick      |      8 |        8 | Roch 'N' Horse     |  18    | vulture              |
 | 57 | :soon:            | 2022-04-02 16:27:00 | morphettville |      7 |        9 | Cassowary          |   9.5  | cosmo,bluey          |
 | 58 | :soon:            | 2022-04-02 16:27:00 | morphettville |      7 |        7 | Prefer Us          |   4.8  | vulture              |
-| 59 | :soon:            | 2022-04-02 16:17:00 | alice-springs |      4 |        6 | Celtic Belle       |   6    | pangea               |
-| 60 | :soon:            | 2022-04-02 16:15:00 | bendigo       |      7 |       10 | Cardigan Queen     |   2.62 | vulture              |
-| 61 | :soon:            | 2022-04-02 16:15:00 | bendigo       |      7 |       11 | Asymmetrical       |   7    | vulture,milkman      |
-| 62 | :soon:            | 2022-04-02 16:07:00 | eagle-farm    |      6 |       10 | Hostage Of War     |  11    | pangea               |
-| 63 | :soon:            | 2022-04-02 16:07:00 | eagle-farm    |      6 |        3 | Humbolt Current    |   6.5  | vulture              |
-| 64 | --                | 2022-04-02 16:02:00 | ascot         |      2 |        3 | State Of Power     |   4.5  | vulture              |
+| 59 | 4.0               | 2022-04-02 16:17:00 | alice-springs |      4 |        6 | Celtic Belle       |   6    | pangea               |
+| 60 | --                | 2022-04-02 16:15:00 | bendigo       |      7 |       10 | Cardigan Queen     |   2.62 | vulture              |
+| 61 | :2nd_place_medal: | 2022-04-02 16:15:00 | bendigo       |      7 |       11 | Asymmetrical       |   7    | vulture,milkman      |
+| 62 | 7.0               | 2022-04-02 16:07:00 | eagle-farm    |      6 |       10 | Hostage Of War     |  11    | pangea               |
+| 63 | 6.0               | 2022-04-02 16:07:00 | eagle-farm    |      6 |        3 | Humbolt Current    |   6.5  | vulture              |
+| 64 | 4.0               | 2022-04-02 16:02:00 | ascot         |      2 |        3 | State Of Power     |   4.5  | vulture              |
 | 65 | :boom:            | 2022-04-02 15:47:00 | morphettville |      6 |        5 | Gaze Grise         |   5.5  | pangea               |
 | 66 | :boom:            | 2022-04-02 15:44:00 | gold-coast    |      4 |        2 | Impel Gazelle      |   2.6  | evenodds,lago        |
 | 67 | 6.0               | 2022-04-02 15:37:00 | alice-springs |      3 |        6 | Zipadee            |   5    | pangea               |
