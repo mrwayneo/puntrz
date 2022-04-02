@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 13:36:25 +1000  
+date: 2022-04-02 13:51:09 +1000  
 ---   
 
 
@@ -166,10 +166,10 @@ date: 2022-04-02 13:36:25 +1000
 | 81 | :soon:            | 2022-04-02 13:55:00 | randwick      |      4 |        2 | Great House        |   6    | wallbow              |
 | 82 | :soon:            | 2022-04-02 13:55:00 | randwick      |      4 |        4 | She's Ideel        |   6    | jmac                 |
 | 83 | :soon:            | 2022-04-02 13:55:00 | randwick      |      4 |        6 | Zeyrek             |   4.2  | pikey                |
-| 84 | :soon:            | 2022-04-02 13:40:00 | goulburn      |      2 |        9 | Sleigh Queen       |   6    | looseknot            |
-| 85 | :soon:            | 2022-04-02 13:40:00 | goulburn      |      2 |        5 | Invasive           |   3.8  | looseknot            |
+| 84 | --                | 2022-04-02 13:40:00 | goulburn      |      2 |        9 | Sleigh Queen       |   6    | looseknot            |
+| 85 | --                | 2022-04-02 13:40:00 | goulburn      |      2 |        5 | Invasive           |   3.8  | looseknot            |
 | 86 | :2nd_place_medal: | 2022-04-02 12:53:00 | eagle-farm    |      1 |        2 | Sayl               |   3.25 | pangea               |
-| 87 | --                | 2022-04-02 12:53:00 | eagle-farm    |      1 |        7 | Aliraaj            |  61    | cosmo,bluey          |
+| 87 | 8.0               | 2022-04-02 12:53:00 | eagle-farm    |      1 |        7 | Aliraaj            |  61    | cosmo,bluey          |
 | 88 | :boom:            | 2022-04-02 12:45:00 | randwick      |      2 |        3 | Straight Arron     |   1.91 | jmac                 |
 | 89 | 4.0               | 2022-04-02 12:33:00 | awapuni       |      4 |        1 | On The Bubbles     |   1.83 | milkman              |
 | 90 | 6.0               | 2022-04-02 12:25:00 | bendigo       |      1 |        3 | Scarlet Tufty      |   6    | vulture              |
