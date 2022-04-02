@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-04-02 14:21:16 +1000  
+date: 2022-04-02 14:36:25 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
-| 0                 | 2022-04-02 | randwick R4         | 2 Great House      |  0    |      -10 |
+| 8                 | 2022-04-02 | randwick R4         | 2 Great House      |  6    |      -10 |
 | 7                 | 2022-03-31 | newcastle R8        | 4 Divina           | 18    |      -10 |
 | 9                 | 2022-03-31 | newcastle R6        | 3 Endorsement      |  2.4  |      -10 |
 | 8                 | 2022-03-30 | canterbury R7       | 10 Gracilistyla    |  3    |      -10 |
