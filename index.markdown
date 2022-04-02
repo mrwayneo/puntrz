@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 13:00:52 +1000  
+date: 2022-04-02 13:21:19 +1000  
 ---   
 
 
@@ -25,7 +25,7 @@ date: 2022-04-02 13:00:52 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     26 |      0 |     -260 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     28 |      0 |     -280 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     32 |      0 |     -320 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      0 |     -510 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      1 |     -481 | 0.02 | -0.94 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     73 |      0 |     -730 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -172,7 +172,7 @@ date: 2022-04-02 13:00:52 +1000
 | 87 | --                | 2022-04-02 12:53:00 | eagle-farm    |      1 |        7 | Aliraaj            |  61    | cosmo,bluey          |
 | 88 | :boom:            | 2022-04-02 12:45:00 | randwick      |      2 |        3 | Straight Arron     |   1.91 | jmac                 |
 | 89 | 4.0               | 2022-04-02 12:33:00 | awapuni       |      4 |        1 | On The Bubbles     |   1.83 | milkman              |
-| 90 | --                | 2022-04-02 12:25:00 | bendigo       |      1 |        3 | Scarlet Tufty      |   6    | vulture              |
+| 90 | 6.0               | 2022-04-02 12:25:00 | bendigo       |      1 |        3 | Scarlet Tufty      |   6    | vulture              |
 | 91 | :2nd_place_medal: | 2022-04-02 12:10:00 | randwick      |      1 |        5 | Voldemort          |   7.5  | jmac                 |
 | 92 | :boom:            | 2022-04-02 12:10:00 | randwick      |      1 |        1 | Semillion          |   2.62 | pikey                |
 | 93 | :3rd_place_medal: | 2022-04-02 12:10:00 | randwick      |      1 |        3 | Spacewalk          |   7.5  | pangea               |
