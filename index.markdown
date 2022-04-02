@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 15:51:39 +1000  
+date: 2022-04-02 16:06:27 +1000  
 ---   
 
 
@@ -25,7 +25,7 @@ date: 2022-04-02 15:51:39 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     26 |      1 |     -212 | 0.04 | -0.82 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     28 |      1 |     -239 | 0.04 | -0.85 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     32 |      0 |     -320 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      2 |     -445 | 0.04 | -0.87 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      3 |     -420 | 0.06 | -0.82 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     73 |      1 |     -606 | 0.01 | -0.83 |
 
 ##### Form Last 20 tips   
@@ -146,10 +146,10 @@ date: 2022-04-02 15:51:39 +1000
 | 61 | :soon:            | 2022-04-02 16:15:00 | bendigo       |      7 |       11 | Asymmetrical       |   7    | vulture,milkman      |
 | 62 | :soon:            | 2022-04-02 16:07:00 | eagle-farm    |      6 |       10 | Hostage Of War     |  11    | pangea               |
 | 63 | :soon:            | 2022-04-02 16:07:00 | eagle-farm    |      6 |        3 | Humbolt Current    |   6.5  | vulture              |
-| 64 | :soon:            | 2022-04-02 16:02:00 | ascot         |      2 |        3 | State Of Power     |   4.5  | vulture              |
+| 64 | --                | 2022-04-02 16:02:00 | ascot         |      2 |        3 | State Of Power     |   4.5  | vulture              |
 | 65 | :boom:            | 2022-04-02 15:47:00 | morphettville |      6 |        5 | Gaze Grise         |   5.5  | pangea               |
 | 66 | :boom:            | 2022-04-02 15:44:00 | gold-coast    |      4 |        2 | Impel Gazelle      |   2.6  | evenodds,lago        |
-| 67 | --                | 2022-04-02 15:37:00 | alice-springs |      3 |        6 | Zipadee            |   5    | pangea               |
+| 67 | 6.0               | 2022-04-02 15:37:00 | alice-springs |      3 |        6 | Zipadee            |   5    | pangea               |
 | 68 | 9.0               | 2022-04-02 15:27:00 | eagle-farm    |      5 |        1 | Le Palmier         |   5    | pangea               |
 | 69 | 4.0               | 2022-04-02 15:15:00 | randwick      |      6 |        1 | Daumier            |  12    | overthrow,milkman    |
 | 70 | :3rd_place_medal: | 2022-04-02 15:15:00 | randwick      |      6 |        3 | Let'srollthedice   |  11    | vulture,milkman      |
