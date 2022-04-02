@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-02 17:36:29 +1000  
+date: 2022-04-02 17:51:47 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 17:37             | 2022-04-02 | alice-springs R6             | 1 Dakota Lee         |  1.06 |    -10   |
+| :boom:            | 2022-04-02 | alice-springs R6             | 1 Dakota Lee         |  1.1  |      1   |
 | :boom:            | 2022-04-02 | gold-coast R4                | 2 Impel Gazelle      |  4.1  |     31   |
 | :3rd_place_medal: | 2022-03-28 | limerick R8                  | 2 Mercurey           |  1.32 |    -10   |
 | :boom:            | 2022-03-28 | limerick R8                  | 1 Impulsive Dancer   |  4.8  |     38   |
