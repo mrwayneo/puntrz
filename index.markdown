@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 16:51:43 +1000  
+date: 2022-04-02 17:06:34 +1000  
 ---   
 
 
@@ -129,16 +129,16 @@ date: 2022-04-02 16:51:43 +1000
 | 44 | :soon:            | 2022-04-02 17:37:00 | alice-springs |      6 |        1 | Dakota Lee         |   1.06 | overthrow,lago       |
 | 45 | :soon:            | 2022-04-02 17:23:00 | eagle-farm    |      8 |        1 | Royal Hale         |   5.5  | pangea               |
 | 46 | :soon:            | 2022-04-02 17:23:00 | eagle-farm    |      8 |        2 | Bigboyroy          |   4.33 | vulture              |
-| 47 | :soon:            | 2022-04-02 17:03:00 | morphettville |      8 |        1 | Dexelation         |   7.5  | vulture              |
-| 48 | :soon:            | 2022-04-02 17:03:00 | morphettville |      8 |        6 | Rock The Ring      |   2.9  | pangea,icyhot        |
-| 49 | :soon:            | 2022-04-02 16:57:00 | alice-springs |      5 |        5 | Asahi Bearing      |   3.2  | pangea               |
-| 50 | :soon:            | 2022-04-02 16:57:00 | alice-springs |      5 |        4 | Mathematics        |   4.6  | pangea               |
+| 47 | --                | 2022-04-02 17:03:00 | morphettville |      8 |        1 | Dexelation         |   7.5  | vulture              |
+| 48 | --                | 2022-04-02 17:03:00 | morphettville |      8 |        6 | Rock The Ring      |   2.9  | pangea,icyhot        |
+| 49 | --                | 2022-04-02 16:57:00 | alice-springs |      5 |        5 | Asahi Bearing      |   3.2  | pangea               |
+| 50 | :3rd_place_medal: | 2022-04-02 16:57:00 | alice-springs |      5 |        4 | Mathematics        |   4.6  | pangea               |
 | 51 | :3rd_place_medal: | 2022-04-02 16:43:00 | eagle-farm    |      7 |        1 | Release The Beans  |   6    | milkman              |
 | 52 | :boom:            | 2022-04-02 16:39:00 | ascot         |      3 |        5 | Otheroneson        |   1.7  | vulture              |
-| 53 | --                | 2022-04-02 16:35:00 | randwick      |      8 |        3 | Masked Crusader    |  10    | pikey                |
+| 53 | 9.0               | 2022-04-02 16:35:00 | randwick      |      8 |        3 | Masked Crusader    |  10    | pikey                |
 | 54 | :3rd_place_medal: | 2022-04-02 16:35:00 | randwick      |      8 |       11 | Paulele            |  12    | milkman              |
 | 55 | :boom:            | 2022-04-02 16:35:00 | randwick      |      8 |        1 | Nature Strip       |   2.8  | pangea,jmac          |
-| 56 | --                | 2022-04-02 16:35:00 | randwick      |      8 |        8 | Roch 'N' Horse     |  18    | vulture              |
+| 56 | 10.0              | 2022-04-02 16:35:00 | randwick      |      8 |        8 | Roch 'N' Horse     |  18    | vulture              |
 | 57 | 9.0               | 2022-04-02 16:27:00 | morphettville |      7 |        9 | Cassowary          |   9.5  | cosmo,bluey          |
 | 58 | 11.0              | 2022-04-02 16:27:00 | morphettville |      7 |        7 | Prefer Us          |   4.8  | vulture              |
 | 59 | 4.0               | 2022-04-02 16:17:00 | alice-springs |      4 |        6 | Celtic Belle       |   6    | pangea               |
