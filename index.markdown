@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 14:36:32 +1000  
+date: 2022-04-02 14:51:22 +1000  
 ---   
 
 
@@ -159,7 +159,7 @@ date: 2022-04-02 14:36:32 +1000
 | 74 | :soon:            | 2022-04-02 15:07:00 | morphettville |      5 |       10 | Extremely Discreet |   9    | vulture              |
 | 75 | :soon:            | 2022-04-02 15:00:00 | singapore     |      1 |        5 | Star Empire        |   2.6  | vulture              |
 | 76 | :2nd_place_medal: | 2022-04-02 14:24:00 | gold-coast    |      2 |        6 | Shalook            |   3.1  | vulture              |
-| 77 | --                | 2022-04-02 14:17:00 | alice-springs |      1 |        7 | Thirsty            |   6    | evenodds,overthrow   |
+| 77 | 6.0               | 2022-04-02 14:17:00 | alice-springs |      1 |        7 | Thirsty            |   6    | evenodds,overthrow   |
 | 78 | :2nd_place_medal: | 2022-04-02 14:05:00 | eagle-farm    |      3 |       11 | Rations            |   3.4  | benny,icyhot         |
 | 79 | 4.0               | 2022-04-02 14:05:00 | eagle-farm    |      3 |        7 | Read My Future     |   4.75 | milkman              |
 | 80 | 5.0               | 2022-04-02 13:55:00 | randwick      |      4 |       19 | Feel The Rush      |  41    | overthrow            |
