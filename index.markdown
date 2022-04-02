@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 18:58:14 +1000  
+date: 2022-04-02 19:13:57 +1000  
 ---   
 
 
@@ -119,9 +119,9 @@ date: 2022-04-02 18:58:14 +1000
 | 34 | :soon:            | 2022-04-02 22:30:00 | turffontein   |      4 |        4 | Winter Stories     |   0    | vulture              |
 | 35 | :soon:            | 2022-04-02 20:00:00 | singapore     |     11 |        3 | Lucky Jinsha       |   1.75 | vulture              |
 | 36 | :soon:            | 2022-04-02 19:50:00 | ascot         |      8 |        2 | Comes A Time       |   2.25 | vulture              |
-| 37 | --                | 2022-04-02 18:56:00 | kalgoorlie    |      5 |        3 | Jakestar           |   6    | pangea               |
-| 38 | --                | 2022-04-02 18:56:00 | kalgoorlie    |      5 |        1 | Protected Action   |   5    | pangea               |
-| 39 | --                | 2022-04-02 18:46:00 | alice-springs |      8 |        4 | Ash Grey           |   4.75 | pangea,overthrow     |
+| 37 | 5.0               | 2022-04-02 18:56:00 | kalgoorlie    |      5 |        3 | Jakestar           |   6    | pangea               |
+| 38 | 7.0               | 2022-04-02 18:56:00 | kalgoorlie    |      5 |        1 | Protected Action   |   5    | pangea               |
+| 39 | 6.0               | 2022-04-02 18:46:00 | alice-springs |      8 |        4 | Ash Grey           |   4.75 | pangea,overthrow     |
 | 40 | :boom:            | 2022-04-02 18:35:00 | ascot         |      6 |        2 | How's The Serenity |   2    | pangea               |
 | 41 | :3rd_place_medal: | 2022-04-02 18:18:00 | toowoomba     |      1 |        7 | Miss Barty         |   2.6  | evenodds,blackshadow |
 | 42 | :2nd_place_medal: | 2022-04-02 18:10:00 | alice-springs |      7 |        2 | Desert Lass        |   2.6  | vulture,pangea       |
