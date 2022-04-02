@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-02 12:49:39 +1000  
+date: 2022-04-02 13:00:51 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 16:35             | 2022-04-02 | randwick R8           | 3 Masked Crusader     |  10    |    -10   |
 | 15:15             | 2022-04-02 | randwick R6           | 7 Magic               |  17    |    -10   |
 | 13:55             | 2022-04-02 | randwick R4           | 6 Zeyrek              |   4.2  |    -10   |
-| 0                 | 2022-04-02 | randwick R1           | 1 Semillion           |   0    |    -10   |
+| :boom:            | 2022-04-02 | randwick R1           | 1 Semillion           |   3    |     20   |
 | :boom:            | 2022-03-31 | newcastle R8          | 11 Thalassophile      |   4.7  |     37   |
 | 5                 | 2022-03-31 | newcastle R6          | 5 Mighty Willie       |  18    |    -10   |
 | :2nd_place_medal: | 2022-03-31 | newcastle R4          | 8 Spitfire            |   2.75 |    -10   |
