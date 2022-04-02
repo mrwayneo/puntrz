@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-02 14:51:22 +1000  
+date: 2022-04-02 15:06:22 +1000  
 ---   
 
 
@@ -26,7 +26,7 @@ date: 2022-04-02 14:51:22 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     28 |      0 |     -280 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     32 |      0 |     -320 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     51 |      1 |     -481 | 0.02 | -0.94 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     73 |      0 |     -730 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     73 |      1 |     -606 | 0.01 | -0.83 |
 
 ##### Form Last 20 tips   
 
@@ -157,7 +157,7 @@ date: 2022-04-02 14:51:22 +1000
 | 72 | :soon:            | 2022-04-02 15:15:00 | randwick      |      6 |        8 | Warby              |  26    | vulture              |
 | 73 | :soon:            | 2022-04-02 15:15:00 | randwick      |      6 |       10 | Showcourt          |  11    | jmac                 |
 | 74 | :soon:            | 2022-04-02 15:07:00 | morphettville |      5 |       10 | Extremely Discreet |   9    | vulture              |
-| 75 | :soon:            | 2022-04-02 15:00:00 | singapore     |      1 |        5 | Star Empire        |   2.6  | vulture              |
+| 75 | --                | 2022-04-02 15:00:00 | singapore     |      1 |        5 | Star Empire        |   2.6  | vulture              |
 | 76 | :2nd_place_medal: | 2022-04-02 14:24:00 | gold-coast    |      2 |        6 | Shalook            |   3.1  | vulture              |
 | 77 | 6.0               | 2022-04-02 14:17:00 | alice-springs |      1 |        7 | Thirsty            |   6    | evenodds,overthrow   |
 | 78 | :2nd_place_medal: | 2022-04-02 14:05:00 | eagle-farm    |      3 |       11 | Rations            |   3.4  | benny,icyhot         |
