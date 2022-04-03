@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-04-02 22:48:52 +1000  
+date: 2022-04-03 10:30:15 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      1 |    102   | 1    | 10.2  |
-| Last 28 Days   |      7 |      1 |     42   | 0.14 |  0.6  |
-| Last 6 Months  |     88 |      9 |   -105   | 0.1  | -0.12 |
-| Since Jan 2020 |    258 |     42 |   3567.5 | 0.16 |  1.38 |
+| Last 7 Days    |      3 |      1 |     82   | 0.33 |  2.73 |
+| Last 28 Days   |      9 |      1 |     22   | 0.11 |  0.24 |
+| Last 6 Months  |     90 |      9 |   -125   | 0.1  | -0.14 |
+| Since Jan 2020 |    260 |     42 |   3547.5 | 0.16 |  1.36 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:10             | 2022-04-03 | leopardstown R3               | 6 Panama Red          |  12    |    -10   |
+| 0                 | 2022-04-03 | leopardstown R3               | 6 Panama Red          |   0    |    -10   |
 | 8                 | 2022-04-02 | bendigo R5                    | 11 Demando            |  26    |    -10   |
 | :boom:            | 2022-03-30 | sandown-hillside R3           | 3 Rebel's Choice      |  11.2  |    102   |
 | 0                 | 2022-03-23 | wetherby R5                   | 1 Bushypark           |   0    |    -10   |
