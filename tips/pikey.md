@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-04 22:18:18 +1000  
+date: 2022-04-05 07:31:20 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     13 |      2 |      -53 | 0.15 | -0.41 |
+| Last 7 Days    |      8 |      2 |       -3 | 0.25 | -0.04 |
 | Last 28 Days   |     54 |      9 |     -103 | 0.17 | -0.19 |
 | Last 6 Months  |    352 |     85 |     -897 | 0.24 | -0.25 |
 | Since Jan 2020 |   1070 |    262 |    -1799 | 0.24 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 16:40             | 2022-04-05 | hawkesbury R6         | 12 Great Mystery      |  12    |    -10   |
 | 9                 | 2022-04-02 | randwick R8           | 3 Masked Crusader     |  10    |    -10   |
 | 10                | 2022-04-02 | randwick R6           | 7 Magic               |  17    |    -10   |
 | 7                 | 2022-04-02 | randwick R4           | 6 Zeyrek              |   4.2  |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-04 22:18:19 +1000  
+date: 2022-04-05 07:31:20 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      2 |      2 |     32   | 1    |  1.6  |
-| Last 28 Days   |     22 |     11 |    145   | 0.5  |  0.66 |
+| Last 28 Days   |     21 |     11 |    155   | 0.52 |  0.74 |
 | Last 6 Months  |    120 |     55 |    164   | 0.46 |  0.14 |
 | Since Jan 2020 |    242 |    119 |   1470.7 | 0.49 |  0.61 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
+| 13:42             | 2022-04-05 | townsville R1                | 3 Chinny Boom        |  1.26 |    -10   |
 | :boom:            | 2022-04-02 | alice-springs R6             | 1 Dakota Lee         |  1.1  |      1   |
 | :boom:            | 2022-04-02 | gold-coast R4                | 2 Impel Gazelle      |  4.1  |     31   |
 | :3rd_place_medal: | 2022-03-28 | limerick R8                  | 2 Mercurey           |  1.32 |    -10   |
