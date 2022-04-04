@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-05 07:31:21 +1000  
+date: 2022-04-05 08:18:14 +1000  
 ---   
 
 
@@ -74,32 +74,22 @@ date: 2022-04-05 07:31:21 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6218 |    785 | -15180.7 | 0.13 | -0.24 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7780 |    355 | -24518.5 | 0.05 | -0.32 |
 
-|    | finish   | time                | track          |   race |   number | name               |   odds | tipster            |
-|---:|:---------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-04-05 02:15:00 | kelso          |      7 |        7 | Spectacular Genius |   3.1  | overthrow          |
-|  1 | :soon:   | 2022-04-05 01:45:00 | kelso          |      6 |        3 | Takethepunishment  |   2.6  | overthrow          |
-|  2 | :soon:   | 2022-04-05 01:30:00 | windsor        |      6 |        8 | Mccann The Man     |   3.6  | looseknot          |
-|  3 | :soon:   | 2022-04-05 01:00:00 | windsor        |      5 |       10 | True Accolade      |   2.4  | overthrow          |
-|  4 | :soon:   | 2022-04-05 01:00:00 | windsor        |      5 |        8 | Salvator Mundi     |   3.9  | looseknot          |
-|  5 | :soon:   | 2022-04-05 00:50:00 | redcar         |      6 |        2 | Franz              |   2.7  | milkman            |
-|  6 | :soon:   | 2022-04-05 00:50:00 | redcar         |      6 |        7 | Nicholas George    |   4.8  | vulture            |
-|  7 | :soon:   | 2022-04-05 00:40:00 | greyville      |      8 |        6 | Winter's Destiny   |   0    | vulture            |
-|  8 | :soon:   | 2022-04-05 00:35:00 | kelso          |      4 |        2 | Bavington Bob      |   2.6  | overthrow          |
-|  9 | :soon:   | 2022-04-05 00:00:00 | kelso          |      3 |       12 | Room At The Top    |   7.5  | looseknot          |
-| 10 | :soon:   | 2022-04-04 22:50:00 | kelso          |      1 |        3 | Masked Crusader    |   2.25 | overthrow          |
-| 11 | :soon:   | 2022-04-04 22:30:00 | redcar         |      2 |        5 | Frog And Toad      |   8.5  | looseknot          |
-| 12 | :soon:   | 2022-04-04 22:20:00 | greyville      |      4 |       10 | Stateofusa         |   0    | vulture            |
-| 13 | :soon:   | 2022-04-04 22:20:00 | greyville      |      4 |        2 | Syx Hotfix         |   0    | vulture            |
-| 14 | :soon:   | 2022-04-04 21:45:00 | greyville      |      3 |        3 | Spy Master         |   0    | vulture            |
-| 15 | :soon:   | 2022-04-04 21:10:00 | greyville      |      2 |        6 | Ralph The Rascal   |   0    | vulture            |
-| 16 | :soon:   | 2022-04-04 20:35:00 | greyville      |      1 |        4 | Uncle George       |   0    | milkman            |
-| 17 | :soon:   | 2022-04-04 15:38:00 | doomben        |      6 |        4 | Street Dancer      |   2.2  | evenodds,overthrow |
-| 18 | :soon:   | 2022-04-04 15:30:00 | mornington     |      5 |        1 | Fine Weather       |   2.3  | vulture            |
-| 19 | :soon:   | 2022-04-04 14:57:00 | doomben        |      5 |        5 | She's An Eagle     |   6    | pangea             |
-| 20 | :soon:   | 2022-04-04 14:30:00 | mornington     |      3 |        9 | Excela Bella       |   5    | looseknot          |
-| 21 | :soon:   | 2022-04-04 14:20:00 | doomben        |      4 |        6 | Zelify             |   4.4  | pangea             |
-| 22 | :soon:   | 2022-04-04 14:20:00 | doomben        |      4 |        1 | Blue Kentucky Moon |   3.75 | evenodds,overthrow |
-| 23 | :soon:   | 2022-04-04 13:35:00 | scone          |      2 |        1 | Kensington Kid     |   9    | pangea             |
-| 24 | :soon:   | 2022-04-04 13:20:00 | port-macquarie |      1 |        2 | Ella Te Ama        |   7    | looseknot          |
-| 25 | :soon:   | 2022-04-04 13:00:00 | scone          |      1 |        3 | Outburst           |   2.7  | vulture            |
-| 26 | :soon:   | 2022-04-04 12:35:00 | doomben        |      1 |        1 | Quiz Show          |   7    | looseknot          |
+|    | finish   | time                | track      |   race |   number | name               |   odds | tipster             |
+|---:|:---------|:--------------------|:-----------|-------:|---------:|:-------------------|-------:|:--------------------|
+|  0 | :soon:   | 2022-04-06 02:20:00 | exeter     |      7 |        5 | Twig               |   2.8  | evenodds,overthrow  |
+|  1 | :soon:   | 2022-04-06 01:35:00 | southwell  |      6 |        1 | Head Law           |   1.65 | milkman             |
+|  2 | :soon:   | 2022-04-05 23:40:00 | pontefract |      4 |        1 | Injazati           |   2.9  | milkman             |
+|  3 | :soon:   | 2022-04-05 23:15:00 | southwell  |      2 |        3 | Sir Tivo           |   3.4  | pangea              |
+|  4 | :soon:   | 2022-04-05 22:40:00 | southwell  |      1 |        2 | Roque It           |   5    | overthrow           |
+|  5 | :soon:   | 2022-04-05 16:40:00 | hawkesbury |      6 |       12 | Great Mystery      |  12    | pikey               |
+|  6 | :soon:   | 2022-04-05 15:34:00 | townsville |      4 |        3 | Prophetess         |   4.5  | benny,overthrow     |
+|  7 | 103.0    | 2022-04-05 15:10:00 | grafton    |      4 |        5 | Rock Dreamer       |   8    | looseknot           |
+|  8 | :soon:   | 2022-04-05 14:57:00 | townsville |      3 |        2 | Love On Sunday     |   2.45 | vulture             |
+|  9 | :soon:   | 2022-04-05 14:57:00 | townsville |      3 |        7 | Mister Magnusifent |   4.6  | pangea,overthrow    |
+| 10 | :soon:   | 2022-04-05 14:50:00 | hawkesbury |      3 |        8 | Vaneto             |   5    | looseknot           |
+| 11 | :soon:   | 2022-04-05 14:17:00 | townsville |      2 |        3 | Narda Shar         |   2.38 | evenodds,overthrow  |
+| 12 | :soon:   | 2022-04-05 14:00:00 | ballarat   |      2 |       10 | Jayanthi           |   1.95 | vulture             |
+| 13 | :soon:   | 2022-04-05 14:00:00 | ballarat   |      2 |       11 | Starsella          |   4    | looseknot           |
+| 14 | :soon:   | 2022-04-05 13:42:00 | townsville |      1 |        3 | Chinny Boom        |   1.26 | evenodds,lago       |
+| 15 | :soon:   | 2022-04-05 13:30:00 | ballarat   |      1 |       13 | Lalaguna           |   4.33 | overthrow,looseknot |
+| 16 | 103.0    | 2022-04-05 13:20:00 | grafton    |      1 |        2 | Summit Special     |   1.65 | pangea              |
