@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-04-05 20:56:47 +1000  
+date: 2022-04-06 08:14:05 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 13:00             | 2022-04-06 | sandown-lakeside R2    | 6 Rockribbed         |  1.9  |    -10   |
 | :boom:            | 2022-03-27 | sunshine-coast R6      | 12 Natalieann        |  1.6  |      6   |
 | :3rd_place_medal: | 2022-03-21 | chepstow R5            | 3 Whitehotchillifili |  1.9  |    -10   |
 | :boom:            | 2022-03-18 | townsville R4          | 5 Kittykittybangbang |  2.8  |     18   |

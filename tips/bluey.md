@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-04-05 20:56:47 +1000  
+date: 2022-04-06 08:14:05 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 01:00             | 2022-04-07 | nottingham R5          | 4 Eileendover         |  26   |      -10 |
 | 9                 | 2022-04-02 | morphettville R7       | 9 Cassowary           |   9.5 |      -10 |
 | 8                 | 2022-04-02 | eagle-farm R1          | 7 Aliraaj             |  61   |      -10 |
 | 0                 | 2022-03-31 | market-rasen R4        | 2 Boreham Bill        |   0   |      -10 |

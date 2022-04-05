@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-04-05 20:56:47 +1000  
+date: 2022-04-06 08:14:05 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
+| 16:30             | 2022-04-06 | sandown-lakeside R8           | 7 Hongbao             |  10    |    -10   |
 | 0                 | 2022-04-03 | leopardstown R3               | 6 Panama Red          |   0    |    -10   |
 | 8                 | 2022-04-02 | bendigo R5                    | 11 Demando            |  26    |    -10   |
 | :boom:            | 2022-03-30 | sandown-hillside R3           | 3 Rebel's Choice      |  11.2  |    102   |

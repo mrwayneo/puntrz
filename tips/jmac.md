@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-04-05 20:56:47 +1000  
+date: 2022-04-06 08:14:05 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,12 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 15:45             | 2022-04-06 | canterbury R6        | 9 Mahagoni           |  3.1  |    -10   |
+| 15:10             | 2022-04-06 | canterbury R5        | 3 Andermatt          |  1.95 |    -10   |
+| 14:35             | 2022-04-06 | canterbury R4        | 5 Arranmore          |  4.33 |    -10   |
+| 14:00             | 2022-04-06 | canterbury R3        | 2 Daralina Belle     |  3.4  |    -10   |
+| 13:25             | 2022-04-06 | canterbury R2        | 1 Barrichello        |  5.5  |    -10   |
+| 12:50             | 2022-04-06 | canterbury R1        | 12 Zougotcha         |  4.6  |    -10   |
 | :boom:            | 2022-04-02 | randwick R8          | 1 Nature Strip       |  2.3  |     13   |
 | 12                | 2022-04-02 | randwick R6          | 10 Showcourt         | 11    |    -10   |
 | 6                 | 2022-04-02 | randwick R4          | 4 She's Ideel        |  6    |    -10   |

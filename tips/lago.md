@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-05 20:56:47 +1000  
+date: 2022-04-06 08:14:05 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      2 |     32   | 1    |  1.6  |
-| Last 28 Days   |     21 |     11 |    155   | 0.52 |  0.74 |
-| Last 6 Months  |    120 |     55 |    164   | 0.46 |  0.14 |
-| Since Jan 2020 |    242 |    119 |   1470.7 | 0.49 |  0.61 |
+| Last 7 Days    |      3 |      2 |     22   | 0.67 |  0.73 |
+| Last 28 Days   |     22 |     11 |    145   | 0.5  |  0.66 |
+| Last 6 Months  |    121 |     55 |    154   | 0.45 |  0.13 |
+| Since Jan 2020 |    243 |    119 |   1460.7 | 0.49 |  0.6  |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
+| 01:10             | 2022-04-07 | lingfield R5                 | 1 Willow Cove        |  2.9  |    -10   |
 | 0                 | 2022-04-05 | townsville R1                | 3 Chinny Boom        |  0    |    -10   |
 | :boom:            | 2022-04-02 | alice-springs R6             | 1 Dakota Lee         |  1.1  |      1   |
 | :boom:            | 2022-04-02 | gold-coast R4                | 2 Impel Gazelle      |  4.1  |     31   |
@@ -29,8 +30,8 @@ categories: None
 | 0                 | 2022-03-17 | kempton R1                   | 1 Deciduous          |  0    |    -10   |
 | 0                 | 2022-03-17 | cheltenham R7                | 16 Redemption Day    |  0    |    -10   |
 | :boom:            | 2022-03-17 | cheltenham R7                | 7 Facile Vega        |  3    |     20   |
-| 0                 | 2022-03-16 | cheltenham R1                | 4 Jonbon             |  0    |    -10   |
 | 0                 | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo      |  0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 4 Jonbon             |  0    |    -10   |
 | :2nd_place_medal: | 2022-03-14 | bangor R3                    | 2 Jungle Jack        |  2.4  |    -10   |
 | :boom:            | 2022-03-13 | sandown R4                   | 12 Luccia            |  4.8  |     38   |
 | :boom:            | 2022-03-13 | lingfield R2                 | 2 King Of Time       |  1.4  |      4   |

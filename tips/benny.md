@@ -1,20 +1,22 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-04-05 20:56:38 +1000  
+date: 2022-04-06 08:13:56 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     50 |      9 |    -77   | 0.18 | -0.15 |
-| Last 6 Months  |    327 |     60 |  -1081.5 | 0.18 | -0.33 |
-| Since Jan 2020 |    941 |    196 |  -1087.5 | 0.21 | -0.12 |
+| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
+| Last 28 Days   |     49 |      9 |    -67   | 0.18 | -0.14 |
+| Last 6 Months  |    328 |     60 |  -1091.5 | 0.18 | -0.33 |
+| Since Jan 2020 |    942 |    196 |  -1097.5 | 0.21 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 21:00             | 2022-04-06 | launceston R7                 | 2 Incriminate         |  2.9  |    -10   |
+| 15:10             | 2022-04-06 | canterbury R5                 | 3 Andermatt           |  1.95 |    -10   |
 | 0                 | 2022-04-05 | townsville R4                 | 3 Prophetess          |  0    |    -10   |
 | 0                 | 2022-04-03 | pinjarra R6                   | 3 Zadar Rock          |  0    |    -10   |
 | :2nd_place_medal: | 2022-04-02 | eagle-farm R3                 | 11 Rations            |  3.4  |    -10   |
@@ -102,8 +104,8 @@ categories: None
 | 13                | 2022-02-16 | belmont R9                    | 4 Gee Force           | 41    |    -10   |
 | 5                 | 2022-02-16 | kensington R4                 | 2 Narvaez             |  4.2  |    -10   |
 | :2nd_place_medal: | 2022-02-15 | mackay R3                     | 3 Nailed It Nan       |  1.57 |    -10   |
-| 11                | 2022-02-12 | caulfield R8                  | 12 Lightsaber         | 12    |    -10   |
 | 8                 | 2022-02-12 | caulfield R8                  | 7 Sinawann            |  4.4  |    -10   |
+| 11                | 2022-02-12 | caulfield R8                  | 12 Lightsaber         | 12    |    -10   |
 | 4                 | 2022-02-12 | doomben R5                    | 10 Confessed          |  4.5  |    -10   |
 | :boom:            | 2022-02-12 | randwick R6                   | 1 Lost And Running    |  2    |     10   |
 | :boom:            | 2022-02-12 | alice-springs R1              | 2 Supreme Times       |  1.6  |      6   |
@@ -702,8 +704,8 @@ categories: None
 | :2nd_place_medal: | 2021-03-28 | kempton R3                    | 5 Almighwar           |  4.6  |    -10   |
 | 6                 | 2021-03-27 | morphettville R4              | 10 Our Sustar         | 34    |    -10   |
 | 4                 | 2021-03-27 | rosehill R4                   | 2 Sir Dragonet        |  0    |    -10   |
-| :boom:            | 2021-03-27 | bendigo R4                    | 4 Fanciful Toff       |  2.4  |     14   |
 | :3rd_place_medal: | 2021-03-27 | bendigo R4                    | 1 Saunter Boy         | 71    |    -10   |
+| :boom:            | 2021-03-27 | bendigo R4                    | 4 Fanciful Toff       |  2.4  |     14   |
 | 11                | 2021-03-27 | rosehill R2                   | 2 Raheen House        |  0    |    -10   |
 | 11                | 2021-03-27 | rosehill R2                   | 2 Raheen House        |  0    |    -10   |
 | :2nd_place_medal: | 2021-03-26 | darwin R1                     | 1 Kaptan Apollo       |  3.6  |    -10   |
