@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-05 13:24:51 +1000  
+date: 2022-04-05 20:56:47 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 16:40             | 2022-04-05 | hawkesbury R6         | 12 Great Mystery      |  12    |    -10   |
+| 0                 | 2022-04-05 | hawkesbury R6         | 12 Great Mystery      |   0    |    -10   |
 | 9                 | 2022-04-02 | randwick R8           | 3 Masked Crusader     |  10    |    -10   |
 | 10                | 2022-04-02 | randwick R6           | 7 Magic               |  17    |    -10   |
 | 7                 | 2022-04-02 | randwick R4           | 6 Zeyrek              |   4.2  |    -10   |
