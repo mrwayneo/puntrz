@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-06 12:38:36 +1000  
+date: 2022-04-06 19:38:27 +1000  
 categories: None 
 ---   
 
@@ -15,9 +15,9 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 15:10             | 2022-04-06 | canterbury R5         | 9 Fox Fighter         |  11    |    -10   |
-| 14:00             | 2022-04-06 | canterbury R3         | 7 Rinnova             |   3.7  |    -10   |
-| 12:50             | 2022-04-06 | canterbury R1         | 10 Regal Inheritance  |  18    |    -10   |
+| 0                 | 2022-04-06 | canterbury R5         | 9 Fox Fighter         |   0    |    -10   |
+| 0                 | 2022-04-06 | canterbury R3         | 7 Rinnova             |   0    |    -10   |
+| 0                 | 2022-04-06 | canterbury R1         | 10 Regal Inheritance  |   0    |    -10   |
 | 0                 | 2022-04-05 | hawkesbury R6         | 12 Great Mystery      |   0    |    -10   |
 | 9                 | 2022-04-02 | randwick R8           | 3 Masked Crusader     |  10    |    -10   |
 | 10                | 2022-04-02 | randwick R6           | 7 Magic               |  17    |    -10   |
