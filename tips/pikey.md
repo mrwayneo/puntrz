@@ -1,20 +1,23 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-06 21:38:53 +1000  
+date: 2022-04-07 08:04:41 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      1 |      -20 | 0.2  | -0.4  |
-| Last 28 Days   |     55 |      9 |     -113 | 0.16 | -0.21 |
-| Last 6 Months  |    353 |     85 |     -907 | 0.24 | -0.26 |
-| Since Jan 2020 |   1071 |    262 |    -1809 | 0.24 | -0.17 |
+| Last 7 Days    |      8 |      1 |      -50 | 0.12 | -0.62 |
+| Last 28 Days   |     56 |      9 |     -123 | 0.16 | -0.22 |
+| Last 6 Months  |    356 |     85 |     -937 | 0.24 | -0.26 |
+| Since Jan 2020 |   1074 |    262 |    -1839 | 0.24 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 16:40             | 2022-04-07 | wyong R7              | 8 Never Cry           |   5    |    -10   |
+| 14:10             | 2022-04-07 | wyong R3              | 8 Arion Story         |  16    |    -10   |
+| 12:55             | 2022-04-07 | wyong R1              | 8 Shohei              |   1.85 |    -10   |
 | 0                 | 2022-04-06 | canterbury R5         | 9 Fox Fighter         |   0    |    -10   |
 | 0                 | 2022-04-06 | canterbury R3         | 7 Rinnova             |   0    |    -10   |
 | 0                 | 2022-04-06 | canterbury R1         | 10 Regal Inheritance  |   0    |    -10   |

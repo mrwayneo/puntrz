@@ -1,21 +1,22 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-04-06 21:38:53 +1000  
+date: 2022-04-07 08:04:41 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
-| Last 28 Days   |     10 |      1 |      -41 | 0.1  | -0.41 |
-| Last 6 Months  |     89 |     12 |     1018 | 0.13 |  1.14 |
-| Since Jan 2020 |    248 |     43 |     4689 | 0.17 |  1.89 |
+| Last 7 Days    |      3 |      0 |      -30 | 0    | -1    |
+| Last 28 Days   |     11 |      1 |      -51 | 0.09 | -0.46 |
+| Last 6 Months  |     90 |     12 |     1008 | 0.13 |  1.12 |
+| Since Jan 2020 |    249 |     43 |     4679 | 0.17 |  1.88 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 01:00             | 2022-04-07 | nottingham R5          | 4 Eileendover         |  26   |      -10 |
+| 17:54             | 2022-04-07 | darwin R4              | 5 Koa                 |   7.5 |      -10 |
+| 0                 | 2022-04-07 | nottingham R5          | 4 Eileendover         |   0   |      -10 |
 | 9                 | 2022-04-02 | morphettville R7       | 9 Cassowary           |   9.5 |      -10 |
 | 8                 | 2022-04-02 | eagle-farm R1          | 7 Aliraaj             |  61   |      -10 |
 | 0                 | 2022-03-31 | market-rasen R4        | 2 Boreham Bill        |   0   |      -10 |

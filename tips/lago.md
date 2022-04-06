@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-06 21:38:53 +1000  
+date: 2022-04-07 08:04:41 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      2 |     22   | 0.67 |  0.73 |
-| Last 28 Days   |     22 |     11 |    145   | 0.5  |  0.66 |
-| Last 6 Months  |    121 |     55 |    154   | 0.45 |  0.13 |
-| Since Jan 2020 |    243 |    119 |   1460.7 | 0.49 |  0.6  |
+| Last 7 Days    |      4 |      2 |     12   | 0.5  |  0.3  |
+| Last 28 Days   |     21 |     10 |    115   | 0.48 |  0.55 |
+| Last 6 Months  |    122 |     55 |    144   | 0.45 |  0.12 |
+| Since Jan 2020 |    244 |    119 |   1450.7 | 0.49 |  0.59 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 01:10             | 2022-04-07 | lingfield R5                 | 1 Willow Cove        |  2.9  |    -10   |
+| 0                 | 2022-04-07 | lingfield R5                 | 1 Willow Cove        |  0    |    -10   |
 | 0                 | 2022-04-05 | townsville R1                | 3 Chinny Boom        |  0    |    -10   |
 | :boom:            | 2022-04-02 | alice-springs R6             | 1 Dakota Lee         |  1.1  |      1   |
 | :boom:            | 2022-04-02 | gold-coast R4                | 2 Impel Gazelle      |  4.1  |     31   |
