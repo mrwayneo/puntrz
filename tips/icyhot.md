@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-04-06 11:38:51 +1000  
+date: 2022-04-06 12:38:31 +1000  
 categories: None 
 ---   
 
@@ -23,8 +23,8 @@ categories: None
 | :2nd_place_medal: | 2022-04-02 | eagle-farm R3                | 11 Rations            |  3.4  |    -10   |
 | 4                 | 2022-03-29 | scone R3                     | 5 Endorphins          |  4.8  |    -10   |
 | :boom:            | 2022-03-25 | townsville R3                | 4 Namazu              |  1.5  |      5   |
-| :2nd_place_medal: | 2022-03-22 | rockhampton R7               | 2 Brigalow Boy        |  3    |    -10   |
 | :3rd_place_medal: | 2022-03-22 | rockhampton R7               | 5 In Order            |  2.88 |    -10   |
+| :2nd_place_medal: | 2022-03-22 | rockhampton R7               | 2 Brigalow Boy        |  3    |    -10   |
 | 6                 | 2022-03-22 | beaumont R5                  | 4 Five Crowns         |  2.25 |    -10   |
 | :3rd_place_medal: | 2022-03-20 | alice-springs R5             | 4 Oddsock             |  2.3  |    -10   |
 | :boom:            | 2022-03-20 | alice-springs R2             | 1 Dakota Lee          |  1.1  |      1   |
@@ -157,8 +157,8 @@ categories: None
 | :boom:            | 2021-12-04 | darwin R4                    | 3 Bel's Banner        |  2.6  |     16   |
 | :boom:            | 2021-12-04 | gold-coast R7                | 1 Weona Smartone      |  1.2  |      2   |
 | 5                 | 2021-12-04 | doomben R7                   | 3 The Harrovian       |  3.9  |    -10   |
-| 6                 | 2021-12-03 | devonport-synthetic R3       | 8 Sirene Stryker      |  3.8  |    -10   |
 | :3rd_place_medal: | 2021-12-03 | devonport-synthetic R3       | 7 Red Letter Lady     |  2.5  |    -10   |
+| 6                 | 2021-12-03 | devonport-synthetic R3       | 8 Sirene Stryker      |  3.8  |    -10   |
 | :3rd_place_medal: | 2021-11-30 | turffontein R6               | 5 Aragosta            |  6    |    -10   |
 | :3rd_place_medal: | 2021-11-27 | turffontein R6               | 5 Aragosta            |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-27 | morphettville R8             | 8 Rock The Ring       |  2.7  |    -10   |
@@ -241,8 +241,8 @@ categories: None
 | :2nd_place_medal: | 2021-09-24 | wolverhampton R6             | 10 Tricolore          | 18    |    -10   |
 | :boom:            | 2021-09-20 | fairview R7                  | 9 Whatever Next       |  4.8  |     38   |
 | 99                | 2021-09-18 | durbanville R5               | 1 Kasimir             |  4    |    -10   |
-| :3rd_place_medal: | 2021-09-18 | newbury R4                   | 3 Ilaraab             | 10    |    -10   |
 | 4                 | 2021-09-18 | newbury R4                   | 1 Al Aasy             |  1.67 |    -10   |
+| :3rd_place_medal: | 2021-09-18 | newbury R4                   | 3 Ilaraab             | 10    |    -10   |
 | :3rd_place_medal: | 2021-09-18 | caulfield R9                 | 4 La Mexicana         |  5    |    -10   |
 | :2nd_place_medal: | 2021-09-18 | mackay R5                    | 2 Mocial Chief        |  3.8  |    -10   |
 | :boom:            | 2021-09-18 | alice-springs R1             | 5 Roppongi            |  2.2  |     12   |
@@ -319,8 +319,8 @@ categories: None
 | :3rd_place_medal: | 2021-06-30 | warwick-farm R7              | 16 Promise Of Success |  2.1  |    -10   |
 | :boom:            | 2021-06-29 | townsville R1                | 5 Ruby July           |  1.2  |      2   |
 | :boom:            | 2021-06-27 | devonport-synthetic R9       | 4 Ancona              |  2.8  |     18   |
-| 9                 | 2021-06-27 | devonport-synthetic R6       | 3 Silkstone           |  8    |    -10   |
 | 5                 | 2021-06-27 | devonport-synthetic R6       | 1 Rising Hsiang       |  6.6  |    -10   |
+| 9                 | 2021-06-27 | devonport-synthetic R6       | 3 Silkstone           |  8    |    -10   |
 | 7                 | 2021-06-26 | belmont R8                   | 9 Leading Girl        |  3.3  |    -10   |
 | :3rd_place_medal: | 2021-06-26 | belmont R4                   | 7 Secret Plan         |  2.4  |    -10   |
 | 5                 | 2021-06-26 | gatton R7                    | 10 Moriconi           |  9    |    -10   |
@@ -591,8 +591,8 @@ categories: None
 | 5                 | 2020-05-21 | townsville R9                | 4 Love Is Blind       |  3.5  |    -10   |
 | :boom:            | 2020-05-18 | tamworth R5                  | 6 Blazing Tycoon      |  4.8  |     38   |
 | 5                 | 2020-05-17 | kalgoorlie R6                | 2 Smarty              |  3.1  |    -10   |
-| :boom:            | 2020-05-16 | gold-coast R5                | 7 Soxagon             |  1.6  |      6   |
 | :2nd_place_medal: | 2020-05-16 | gold-coast R5                | 12 Thine is the Power |  3    |    -10   |
+| :boom:            | 2020-05-16 | gold-coast R5                | 7 Soxagon             |  1.6  |      6   |
 | 6                 | 2020-05-15 | sunshine-coast R4            | 7 Maslow              |  4.8  |    -10   |
 | :2nd_place_medal: | 2020-05-10 | toowoomba R9                 | 2 Rhyme Nor Rhythm    |  2.7  |    -10   |
 | 4                 | 2020-05-09 | darwin R4                    | 1 Don't Wait          |  4    |    -10   |
@@ -620,8 +620,8 @@ categories: None
 | 6                 | 2020-01-25 | gawler R2                    | 4 Rose Tiara          | 18.2  |    -10   |
 | :2nd_place_medal: | 2020-01-25 | sunshine-coast R1            | 3 Ruby Guru           |  3.8  |    -10   |
 | :boom:            | 2020-01-22 | canterbury R5                | 2 Knowitall Jack      |  3.6  |     26   |
-| :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
+| :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 6                 | 2020-01-11 | pinjarra R8                  | 11 Midnight Sky       |  6.5  |    -10   |
 | :boom:            | 2020-01-11 | pinjarra R6                  | 12 Put A Spell On You |  5    |     40   |
 | :3rd_place_medal: | 2020-01-11 | kembla-grange R6             | 4 Superbowl Sunday    |  2.15 |    -10   |

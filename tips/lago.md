@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-06 11:38:57 +1000  
+date: 2022-04-06 12:38:36 +1000  
 categories: None 
 ---   
 
@@ -30,8 +30,8 @@ categories: None
 | 0                 | 2022-03-17 | kempton R1                   | 1 Deciduous          |  0    |    -10   |
 | 0                 | 2022-03-17 | cheltenham R7                | 16 Redemption Day    |  0    |    -10   |
 | :boom:            | 2022-03-17 | cheltenham R7                | 7 Facile Vega        |  3    |     20   |
-| 0                 | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo      |  0    |    -10   |
 | 0                 | 2022-03-16 | cheltenham R1                | 4 Jonbon             |  0    |    -10   |
+| 0                 | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo      |  0    |    -10   |
 | :2nd_place_medal: | 2022-03-14 | bangor R3                    | 2 Jungle Jack        |  2.4  |    -10   |
 | :boom:            | 2022-03-13 | sandown R4                   | 12 Luccia            |  4.8  |     38   |
 | :boom:            | 2022-03-13 | lingfield R2                 | 2 King Of Time       |  1.4  |      4   |
