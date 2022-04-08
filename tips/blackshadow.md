@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-04-07 12:16:38 +1000  
+date: 2022-04-08 13:11:05 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |      -30 | 0    | -1    |
-| Last 28 Days   |     45 |      8 |      -93 | 0.18 | -0.21 |
-| Last 6 Months  |    316 |     69 |     -697 | 0.22 | -0.22 |
-| Since Jan 2020 |    896 |    214 |    -1023 | 0.24 | -0.11 |
+| Last 7 Days    |      6 |      0 |      -60 | 0    | -1    |
+| Last 28 Days   |     49 |      8 |     -133 | 0.16 | -0.27 |
+| Last 6 Months  |    320 |     69 |     -737 | 0.22 | -0.23 |
+| Since Jan 2020 |    900 |    214 |    -1063 | 0.24 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 17:54             | 2022-04-07 | darwin R4                     | 2 Chief Mondo         |  3.9  |    -10   |
-| 16:43             | 2022-04-07 | darwin R2                     | 4 Obligatory          |  2.6  |    -10   |
-| 16:43             | 2022-04-07 | darwin R2                     | 5 Blueant             |  3.7  |    -10   |
-| 16:10             | 2022-04-07 | darwin R1                     | 2 No Strings          |  4.6  |    -10   |
+| 0                 | 2022-04-07 | darwin R4                     | 2 Chief Mondo         |  0    |    -10   |
+| 0                 | 2022-04-07 | darwin R2                     | 4 Obligatory          |  0    |    -10   |
+| 0                 | 2022-04-07 | darwin R2                     | 5 Blueant             |  0    |    -10   |
+| 0                 | 2022-04-07 | darwin R1                     | 2 No Strings          |  0    |    -10   |
 | 0                 | 2022-04-06 | launceston R7                 | 7 Imagine Howe        |  0    |    -10   |
 | 0                 | 2022-04-06 | launceston R5                 | 6 Our Shinkansen      |  0    |    -10   |
 | :3rd_place_medal: | 2022-04-02 | toowoomba R1                  | 7 Miss Barty          |  2.6  |    -10   |

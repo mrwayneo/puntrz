@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-04-07 12:16:39 +1000  
+date: 2022-04-08 13:11:06 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
-| Last 28 Days   |     24 |      6 |    -70   | 0.25 | -0.29 |
-| Last 6 Months  |    216 |     65 |   -590.5 | 0.3  | -0.27 |
-| Since Jan 2020 |    584 |    190 |   -586.6 | 0.33 | -0.1  |
+| Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
+| Last 28 Days   |     26 |      6 |    -90   | 0.23 | -0.35 |
+| Last 6 Months  |    218 |     65 |   -610.5 | 0.3  | -0.28 |
+| Since Jan 2020 |    586 |    190 |   -606.6 | 0.32 | -0.1  |
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
-| 16:43             | 2022-04-07 | darwin R2                    | 5 Blueant             |  3.7  |    -10   |
-| 16:10             | 2022-04-07 | darwin R1                    | 2 No Strings          |  4.6  |    -10   |
+| 0                 | 2022-04-07 | darwin R2                    | 5 Blueant             |  0    |    -10   |
+| 0                 | 2022-04-07 | darwin R1                    | 2 No Strings          |  0    |    -10   |
 | 0                 | 2022-04-06 | ipswich R8                   | 13 Canadian Dancer    |  0    |    -10   |
 | 0                 | 2022-04-03 | scottsville R5               | 11 Gentleman's Wager  |  0    |    -10   |
 | 0                 | 2022-04-03 | sha-tin R7                   | 8 Master Eight        |  0    |    -10   |

@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-04-07 12:16:40 +1000  
+date: 2022-04-08 13:11:08 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      4 |      2 |      8   | 0.5  |  0.2  |
-| Last 6 Months  |     51 |     13 |    229.2 | 0.25 |  0.45 |
-| Since Jan 2020 |    122 |     35 |    794.6 | 0.29 |  0.65 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      5 |      2 |     -2   | 0.4  | -0.04 |
+| Last 6 Months  |     52 |     13 |    219.2 | 0.25 |  0.42 |
+| Since Jan 2020 |    123 |     35 |    784.6 | 0.28 |  0.64 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 16:43             | 2022-04-07 | darwin R2              | 5 Blueant            |   3.7  |    -10   |
+| 0                 | 2022-04-07 | darwin R2              | 5 Blueant            |   0    |    -10   |
 | :boom:            | 2022-03-29 | mackay R4              | 3 Cabalo Escuro      |   1.7  |      7   |
 | :boom:            | 2022-03-25 | darwin R3              | 3 Poupee             |   3.1  |     21   |
 | 7                 | 2022-03-25 | darwin R1              | 2 Sweet Cheval       |   5    |    -10   |

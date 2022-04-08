@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-04-07 12:16:44 +1000  
+date: 2022-04-08 13:11:19 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |      6 |      3 |      2   | 0.5  |  0.03 |
-| Last 6 Months  |     25 |     10 |    -44.5 | 0.4  | -0.18 |
-| Since Jan 2020 |     65 |     35 |     14.7 | 0.54 |  0.02 |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
+| Last 28 Days   |      7 |      3 |     -8   | 0.43 | -0.11 |
+| Last 6 Months  |     26 |     10 |    -54.5 | 0.38 | -0.21 |
+| Since Jan 2020 |     66 |     35 |      4.7 | 0.53 |  0.01 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 02:08             | 2022-04-08 | chelmsford-city R3     | 2 Intelligentsia     |  1.9  |    -10   |
+| 0                 | 2022-04-08 | chelmsford-city R3     | 2 Intelligentsia     |  0    |    -10   |
 | 0                 | 2022-04-06 | sandown-lakeside R2    | 6 Rockribbed         |  0    |    -10   |
 | :boom:            | 2022-03-27 | sunshine-coast R6      | 12 Natalieann        |  1.6  |      6   |
 | :3rd_place_medal: | 2022-03-21 | chepstow R5            | 3 Whitehotchillifili |  1.9  |    -10   |

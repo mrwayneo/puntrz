@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-04-07 12:16:35 +1000  
+date: 2022-04-08 13:10:58 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
-| Last 28 Days   |     49 |      9 |    -67   | 0.18 | -0.14 |
-| Last 6 Months  |    330 |     60 |  -1111.5 | 0.18 | -0.34 |
-| Since Jan 2020 |    944 |    196 |  -1117.5 | 0.21 | -0.12 |
+| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
+| Last 28 Days   |     51 |      9 |    -87   | 0.18 | -0.17 |
+| Last 6 Months  |    332 |     60 |  -1131.5 | 0.18 | -0.34 |
+| Since Jan 2020 |    946 |    196 |  -1137.5 | 0.21 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 19:00             | 2022-04-07 | narrogin R7                   | 6 Blackwater Bay      |  2.25 |    -10   |
-| 18:24             | 2022-04-07 | darwin R5                     | 2 Captain Hedderwick  |  8.5  |    -10   |
+| 0                 | 2022-04-07 | narrogin R7                   | 6 Blackwater Bay      |  0    |    -10   |
+| 0                 | 2022-04-07 | darwin R5                     | 2 Captain Hedderwick  |  0    |    -10   |
 | 0                 | 2022-04-06 | launceston R7                 | 2 Incriminate         |  0    |    -10   |
 | 0                 | 2022-04-06 | canterbury R5                 | 3 Andermatt           |  0    |    -10   |
 | 0                 | 2022-04-05 | townsville R4                 | 3 Prophetess          |  0    |    -10   |
