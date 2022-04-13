@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-13 22:12:10 +1000  
+date: 2022-04-13 22:27:24 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-04-13 22:12:10 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     18 |      1 |    -30   | 0.06 | -0.17 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      3 |      0 |    -30   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |    -30   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     13 |      4 |    -34.5 | 0.31 | -0.27 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     13 |      4 |    -35.5 | 0.31 | -0.27 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |     10 |      1 |    -77   | 0.1  | -0.77 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     14 |      1 |   -117   | 0.07 | -0.84 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     17 |      2 |   -122.5 | 0.12 | -0.72 |
@@ -109,7 +109,7 @@ date: 2022-04-13 22:12:10 +1000
 | 24 | :soon:            | 2022-04-13 23:05:00 | cheltenham         |      2 |        1 | Simply The Betts   |   4    | overthrow          |
 | 25 | :soon:            | 2022-04-13 22:50:00 | newmarket          |      2 |       13 | Pocket The Profit  |   3.1  | milkman            |
 | 26 | :soon:            | 2022-04-13 22:30:00 | cheltenham         |      1 |        3 | Captain Morgs      |   3.7  | overthrow          |
-| 27 | :soon:            | 2022-04-13 22:15:00 | newmarket          |      1 |        9 | Shining Al Danah   |   5.5  | overthrow          |
+| 27 | --                | 2022-04-13 22:15:00 | newmarket          |      1 |        9 | Shining Al Danah   |   5.5  | overthrow          |
 | 28 | 7.0               | 2022-04-13 19:25:00 | pinjarra-scarpside |      8 |        8 | There's A Thought  |  11    | cosmo,bluey        |
 | 29 | 9.0               | 2022-04-13 18:10:00 | pinjarra-scarpside |      6 |        9 | Desjardins         |   7    | looseknot          |
 | 30 | :2nd_place_medal: | 2022-04-13 16:45:00 | port-lincoln       |      7 |        6 | Leonarda           |   4.6  | pangea             |
