@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-13 22:42:25 +1000  
+date: 2022-04-13 22:57:21 +1000  
 ---   
 
 
@@ -16,13 +16,13 @@ date: 2022-04-13 22:42:25 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      1 |     15   | 1    |  1.5  |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |    -10   | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      1 |      0 |    -10   | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      4 |      1 |    -17   | 0.25 | -0.42 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     13 |      5 |    -11.5 | 0.38 | -0.09 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)             |      4 |      1 |    -17   | 0.25 | -0.42 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      4 |      1 |    -17   | 0.25 | -0.42 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      2 |      0 |    -20   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     18 |      1 |    -30   | 0.06 | -0.17 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      3 |      0 |    -30   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |    -30   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     13 |      4 |    -35.5 | 0.31 | -0.27 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |     10 |      1 |    -77   | 0.1  | -0.77 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     14 |      1 |   -117   | 0.07 | -0.84 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     17 |      2 |   -122.5 | 0.12 | -0.72 |
@@ -107,7 +107,7 @@ date: 2022-04-13 22:42:25 +1000
 | 22 | :soon:            | 2022-04-13 23:40:00 | cheltenham         |      3 |        1 | Call Of The Wild   |   3.2  | milkman            |
 | 23 | :soon:            | 2022-04-13 23:25:00 | newmarket          |      3 |        3 | Francesco Clemente |   4.2  | overthrow          |
 | 24 | :soon:            | 2022-04-13 23:05:00 | cheltenham         |      2 |        1 | Simply The Betts   |   4    | overthrow          |
-| 25 | :soon:            | 2022-04-13 22:50:00 | newmarket          |      2 |       13 | Pocket The Profit  |   3.1  | milkman            |
+| 25 | 4.0               | 2022-04-13 22:50:00 | newmarket          |      2 |       13 | Pocket The Profit  |   3.1  | milkman            |
 | 26 | --                | 2022-04-13 22:30:00 | cheltenham         |      1 |        3 | Captain Morgs      |   3.7  | overthrow          |
 | 27 | --                | 2022-04-13 22:15:00 | newmarket          |      1 |        9 | Shining Al Danah   |   5.5  | overthrow          |
 | 28 | 7.0               | 2022-04-13 19:25:00 | pinjarra-scarpside |      8 |        8 | There's A Thought  |  11    | cosmo,bluey        |
