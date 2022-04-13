@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-13 19:52:03 +1000  
+date: 2022-04-13 19:57:26 +1000  
 categories: None 
 ---   
 
@@ -14,9 +14,9 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2022-04-13 | hawkesbury R5         | 9 Thalassophile       |   0    |    -10   |
-| 0                 | 2022-04-13 | hawkesbury R3         | 6 Way To The Stars    |   0    |    -10   |
-| 0                 | 2022-04-13 | hawkesbury R1         | 8 Penitent            |   0    |    -10   |
+| :2nd_place_medal: | 2022-04-13 | hawkesbury R5         | 9 Thalassophile       |   1.8  |    -10   |
+| 8                 | 2022-04-13 | hawkesbury R3         | 6 Way To The Stars    |   9.5  |    -10   |
+| 7                 | 2022-04-13 | hawkesbury R1         | 8 Penitent            |  15    |    -10   |
 | 0                 | 2022-04-07 | wyong R7              | 8 Never Cry           |   0    |    -10   |
 | 0                 | 2022-04-07 | wyong R3              | 8 Arion Story         |   0    |    -10   |
 | 0                 | 2022-04-07 | wyong R1              | 8 Shohei              |   0    |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-13 19:52:03 +1000  
+date: 2022-04-13 19:57:26 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 | 01:10             | 2022-04-14 | newmarket R6                 | 2 New London         |  2    |    -10   |
 | 01:10             | 2022-04-14 | newmarket R6                 | 1 Aldous Huxley      |  2.5  |    -10   |
 | 00:35             | 2022-04-14 | newmarket R5                 | 5 Native Trail       |  1.2  |    -10   |
-| 0                 | 2022-04-13 | hawkesbury R3                | 1 Norwegian Bliss    |  0    |    -10   |
+| :boom:            | 2022-04-13 | hawkesbury R3                | 1 Norwegian Bliss    |  2.3  |     13   |
 | 0                 | 2022-04-07 | lingfield R5                 | 1 Willow Cove        |  0    |    -10   |
 | 0                 | 2022-04-05 | townsville R1                | 3 Chinny Boom        |  0    |    -10   |
 | :boom:            | 2022-04-02 | alice-springs R6             | 1 Dakota Lee         |  1.1  |      1   |

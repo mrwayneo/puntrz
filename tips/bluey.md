@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-04-13 19:52:03 +1000  
+date: 2022-04-13 19:57:26 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 0                 | 2022-04-13 | pinjarra-scarpside R8  | 8 There's A Thought   |   0   |      -10 |
+| 7                 | 2022-04-13 | pinjarra-scarpside R8  | 8 There's A Thought   |  11   |      -10 |
 | 0                 | 2022-04-07 | darwin R4              | 5 Koa                 |   0   |      -10 |
 | 0                 | 2022-04-07 | nottingham R5          | 4 Eileendover         |   0   |      -10 |
 | 9                 | 2022-04-02 | morphettville R7       | 9 Cassowary           |   9.5 |      -10 |

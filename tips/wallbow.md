@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-04-13 19:51:57 +1000  
+date: 2022-04-13 19:57:20 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
-| 0                 | 2022-04-13 | hawkesbury R3       | 4 Sacrimony        |  0    |      -10 |
+| :3rd_place_medal: | 2022-04-13 | hawkesbury R3       | 4 Sacrimony        |  5.5  |      -10 |
 | 0                 | 2022-04-06 | canterbury R4       | 13 Vivid Flash     |  0    |      -10 |
 | 0                 | 2022-04-06 | canterbury R2       | 2 Naval Seal       |  0    |      -10 |
 | 8                 | 2022-04-02 | randwick R4         | 2 Great House      |  6    |      -10 |

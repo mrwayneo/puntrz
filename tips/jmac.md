@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-04-13 19:52:02 +1000  
+date: 2022-04-13 19:57:26 +1000  
 categories: None 
 ---   
 
@@ -14,9 +14,9 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 0                 | 2022-04-13 | hawkesbury R5        | 2 Calgary Queen      |  0    |    -10   |
-| 0                 | 2022-04-13 | hawkesbury R3        | 1 Norwegian Bliss    |  0    |    -10   |
-| 0                 | 2022-04-13 | hawkesbury R1        | 5 In Secret          |  0    |    -10   |
+| :boom:            | 2022-04-13 | hawkesbury R5        | 2 Calgary Queen      |  3.3  |     23   |
+| :boom:            | 2022-04-13 | hawkesbury R3        | 1 Norwegian Bliss    |  2.3  |     13   |
+| :boom:            | 2022-04-13 | hawkesbury R1        | 5 In Secret          |  2.7  |     17   |
 | 0                 | 2022-04-06 | canterbury R6        | 9 Mahagoni           |  0    |    -10   |
 | 0                 | 2022-04-06 | canterbury R5        | 3 Andermatt          |  0    |    -10   |
 | 0                 | 2022-04-06 | canterbury R4        | 5 Arranmore          |  0    |    -10   |
