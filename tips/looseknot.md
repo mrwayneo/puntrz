@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-04-13 21:57:03 +1000  
+date: 2022-04-13 22:12:04 +1000  
 categories: None 
 ---   
 
@@ -123,9 +123,9 @@ categories: None
 | 4                 | 2022-03-09 | sandown R4                    | 1 Didero Vallis       |   3.9  |    -10   |
 | 4                 | 2022-03-08 | leopardstown R8               | 7 Monty's Star        |   8    |    -10   |
 | :3rd_place_medal: | 2022-03-07 | wexford R1                    | 11 Rioga Choice       |   5    |    -10   |
-| :3rd_place_medal: | 2022-03-07 | huntingdon R1                 | 3 Blenkinsop          |   6    |    -10   |
 | 6                 | 2022-03-07 | huntingdon R1                 | 1 Accidental Legend   |   9.5  |    -10   |
 | 5                 | 2022-03-07 | huntingdon R1                 | 10 Getaway Tom        |   7    |    -10   |
+| :3rd_place_medal: | 2022-03-07 | huntingdon R1                 | 3 Blenkinsop          |   6    |    -10   |
 | 5                 | 2022-03-06 | sale R3                       | 3 Kemi                |   4.8  |    -10   |
 | :2nd_place_medal: | 2022-03-05 | lingfield R1                  | 3 Salonica            |   5.5  |    -10   |
 | 6                 | 2022-03-05 | geraldton R6                  | 1 Foxhood             |   4.8  |    -10   |
