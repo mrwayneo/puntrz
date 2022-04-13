@@ -1,20 +1,23 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-08 21:46:37 +1000  
+date: 2022-04-13 19:52:03 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     21 |     10 |    115   | 0.48 |  0.55 |
+| Last 28 Days   |     12 |      6 |     70   | 0.5  |  0.58 |
 | Last 6 Months  |    122 |     55 |    144   | 0.45 |  0.12 |
 | Since Jan 2020 |    244 |    119 |   1450.7 | 0.49 |  0.59 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
+| 01:10             | 2022-04-14 | newmarket R6                 | 2 New London         |  2    |    -10   |
+| 01:10             | 2022-04-14 | newmarket R6                 | 1 Aldous Huxley      |  2.5  |    -10   |
+| 00:35             | 2022-04-14 | newmarket R5                 | 5 Native Trail       |  1.2  |    -10   |
+| 0                 | 2022-04-13 | hawkesbury R3                | 1 Norwegian Bliss    |  0    |    -10   |
 | 0                 | 2022-04-07 | lingfield R5                 | 1 Willow Cove        |  0    |    -10   |
 | 0                 | 2022-04-05 | townsville R1                | 3 Chinny Boom        |  0    |    -10   |
 | :boom:            | 2022-04-02 | alice-springs R6             | 1 Dakota Lee         |  1.1  |      1   |

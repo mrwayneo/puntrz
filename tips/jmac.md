@@ -1,20 +1,22 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-04-08 21:46:37 +1000  
+date: 2022-04-13 19:52:02 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
-| Last 28 Days   |     37 |      8 |   -147   | 0.22 | -0.4  |
+| Last 28 Days   |     27 |      6 |   -108   | 0.22 | -0.4  |
 | Last 6 Months  |    261 |     61 |   -589.5 | 0.23 | -0.23 |
 | Since Jan 2020 |    724 |    176 |   -646.5 | 0.24 | -0.09 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 0                 | 2022-04-13 | hawkesbury R5        | 2 Calgary Queen      |  0    |    -10   |
+| 0                 | 2022-04-13 | hawkesbury R3        | 1 Norwegian Bliss    |  0    |    -10   |
+| 0                 | 2022-04-13 | hawkesbury R1        | 5 In Secret          |  0    |    -10   |
 | 0                 | 2022-04-06 | canterbury R6        | 9 Mahagoni           |  0    |    -10   |
 | 0                 | 2022-04-06 | canterbury R5        | 3 Andermatt          |  0    |    -10   |
 | 0                 | 2022-04-06 | canterbury R4        | 5 Arranmore          |  0    |    -10   |

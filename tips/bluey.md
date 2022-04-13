@@ -1,20 +1,20 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-04-08 21:46:38 +1000  
+date: 2022-04-13 19:52:03 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
 | Last 28 Days   |     10 |      0 |     -100 | 0    | -1    |
 | Last 6 Months  |     91 |     12 |      998 | 0.13 |  1.1  |
 | Since Jan 2020 |    250 |     43 |     4669 | 0.17 |  1.87 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 0                 | 2022-04-13 | pinjarra-scarpside R8  | 8 There's A Thought   |   0   |      -10 |
 | 0                 | 2022-04-07 | darwin R4              | 5 Koa                 |   0   |      -10 |
 | 0                 | 2022-04-07 | nottingham R5          | 4 Eileendover         |   0   |      -10 |
 | 9                 | 2022-04-02 | morphettville R7       | 9 Cassowary           |   9.5 |      -10 |

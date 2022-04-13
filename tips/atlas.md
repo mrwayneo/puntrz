@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Atlas"   
-date: 2022-04-08 21:46:37 +1000  
+date: 2022-04-13 19:52:03 +1000  
 categories: None 
 ---   
 
@@ -13,6 +13,8 @@ categories: None
 
 | finish   | date       | event                  | runner               |   win |   return |
 |:---------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 0        | 2022-04-13 | geelong R2             | 5 Shines             |  0    |    -10   |
+| 0        | 2022-04-13 | hawkesbury R1          | 5 In Secret          |  0    |    -10   |
 | :boom:   | 2021-12-18 | turffontein R3         | 11 Mathis            |  3    |     20   |
 | :boom:   | 2021-11-27 | te-aroha R1            | 11 I Choose You      |  2.2  |     12   |
 | :boom:   | 2021-10-26 | newcastle R3           | 1 Antarah            |  1.8  |      8   |

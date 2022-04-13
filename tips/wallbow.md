@@ -1,20 +1,20 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-04-08 21:46:32 +1000  
+date: 2022-04-13 19:51:57 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
 | Last 28 Days   |     12 |      1 |      -89 | 0.08 | -0.74 |
 | Last 6 Months  |     64 |      9 |     -404 | 0.14 | -0.63 |
 | Since Jan 2020 |    155 |     25 |       44 | 0.16 |  0.03 |
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
+| 0                 | 2022-04-13 | hawkesbury R3       | 4 Sacrimony        |  0    |      -10 |
 | 0                 | 2022-04-06 | canterbury R4       | 13 Vivid Flash     |  0    |      -10 |
 | 0                 | 2022-04-06 | canterbury R2       | 2 Naval Seal       |  0    |      -10 |
 | 8                 | 2022-04-02 | randwick R4         | 2 Great House      |  6    |      -10 |

@@ -1,20 +1,22 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-08 21:46:37 +1000  
+date: 2022-04-13 19:52:03 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      7 |      0 |      -70 | 0    | -1    |
-| Last 28 Days   |     57 |      9 |     -133 | 0.16 | -0.23 |
+| Last 28 Days   |     43 |      7 |     -184 | 0.16 | -0.43 |
 | Last 6 Months  |    359 |     85 |     -967 | 0.24 | -0.27 |
 | Since Jan 2020 |   1077 |    262 |    -1869 | 0.24 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 0                 | 2022-04-13 | hawkesbury R5         | 9 Thalassophile       |   0    |    -10   |
+| 0                 | 2022-04-13 | hawkesbury R3         | 6 Way To The Stars    |   0    |    -10   |
+| 0                 | 2022-04-13 | hawkesbury R1         | 8 Penitent            |   0    |    -10   |
 | 0                 | 2022-04-07 | wyong R7              | 8 Never Cry           |   0    |    -10   |
 | 0                 | 2022-04-07 | wyong R3              | 8 Arion Story         |   0    |    -10   |
 | 0                 | 2022-04-07 | wyong R1              | 8 Shohei              |   0    |    -10   |
