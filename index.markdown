@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-13 22:27:24 +1000  
+date: 2022-04-13 22:42:25 +1000  
 ---   
 
 
@@ -108,7 +108,7 @@ date: 2022-04-13 22:27:24 +1000
 | 23 | :soon:            | 2022-04-13 23:25:00 | newmarket          |      3 |        3 | Francesco Clemente |   4.2  | overthrow          |
 | 24 | :soon:            | 2022-04-13 23:05:00 | cheltenham         |      2 |        1 | Simply The Betts   |   4    | overthrow          |
 | 25 | :soon:            | 2022-04-13 22:50:00 | newmarket          |      2 |       13 | Pocket The Profit  |   3.1  | milkman            |
-| 26 | :soon:            | 2022-04-13 22:30:00 | cheltenham         |      1 |        3 | Captain Morgs      |   3.7  | overthrow          |
+| 26 | --                | 2022-04-13 22:30:00 | cheltenham         |      1 |        3 | Captain Morgs      |   3.7  | overthrow          |
 | 27 | --                | 2022-04-13 22:15:00 | newmarket          |      1 |        9 | Shining Al Danah   |   5.5  | overthrow          |
 | 28 | 7.0               | 2022-04-13 19:25:00 | pinjarra-scarpside |      8 |        8 | There's A Thought  |  11    | cosmo,bluey        |
 | 29 | 9.0               | 2022-04-13 18:10:00 | pinjarra-scarpside |      6 |        9 | Desjardins         |   7    | looseknot          |
