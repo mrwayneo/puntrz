@@ -1,22 +1,23 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-13 22:57:21 +1000  
+date: 2022-04-14 06:57:58 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |     12 |      6 |     70   | 0.5  |  0.58 |
-| Last 6 Months  |    122 |     55 |    144   | 0.45 |  0.12 |
-| Since Jan 2020 |    244 |    119 |   1450.7 | 0.49 |  0.59 |
+| Last 7 Days    |      4 |      3 |     21.6 | 0.75 |  0.54 |
+| Last 28 Days   |     16 |      9 |     91.6 | 0.56 |  0.57 |
+| Last 6 Months  |    126 |     58 |    165.6 | 0.46 |  0.13 |
+| Since Jan 2020 |    248 |    122 |   1472.3 | 0.49 |  0.59 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 01:10             | 2022-04-14 | newmarket R6                 | 2 New London         |  2    |    -10   |
-| 01:10             | 2022-04-14 | newmarket R6                 | 1 Aldous Huxley      |  2.5  |    -10   |
-| 00:35             | 2022-04-14 | newmarket R5                 | 5 Native Trail       |  1.2  |    -10   |
+| :boom:            | 2022-04-14 | newmarket R6                 | 2 New London         |  2.6  |     16   |
+| :2nd_place_medal: | 2022-04-14 | newmarket R6                 | 1 Aldous Huxley      |  2.5  |    -10   |
+| :boom:            | 2022-04-14 | newmarket R5                 | 5 Native Trail       |  1.26 |      2.6 |
 | :boom:            | 2022-04-13 | hawkesbury R3                | 1 Norwegian Bliss    |  2.3  |     13   |
 | 0                 | 2022-04-07 | lingfield R5                 | 1 Willow Cove        |  0    |    -10   |
 | 0                 | 2022-04-05 | townsville R1                | 3 Chinny Boom        |  0    |    -10   |

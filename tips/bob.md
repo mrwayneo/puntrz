@@ -1,29 +1,30 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-04-13 22:57:21 +1000  
+date: 2022-04-14 06:57:58 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      9 |      1 |     22   | 0.11 |  0.24 |
-| Last 6 Months  |     91 |      9 |   -135   | 0.1  | -0.15 |
-| Since Jan 2020 |    261 |     42 |   3537.5 | 0.16 |  1.36 |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
+| Last 28 Days   |     11 |      1 |      2   | 0.09 |  0.02 |
+| Last 6 Months  |     93 |      9 |   -155   | 0.1  | -0.17 |
+| Since Jan 2020 |    263 |     42 |   3517.5 | 0.16 |  1.34 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:45             | 2022-04-14 | newmarket R7                  | 5 Damaar              |  12    |    -10   |
-| 00:35             | 2022-04-14 | newmarket R5                  | 7 Zechariah           |  23    |    -10   |
+| 6                 | 2022-04-14 | newmarket R7                  | 5 Damaar              |  12    |    -10   |
+| 0                 | 2022-04-14 | newmarket R5                  | 7 Zechariah           |   0    |    -10   |
 | 0                 | 2022-04-06 | sandown-lakeside R8           | 7 Hongbao             |   0    |    -10   |
 | 0                 | 2022-04-03 | leopardstown R3               | 6 Panama Red          |   0    |    -10   |
 | 8                 | 2022-04-02 | bendigo R5                    | 11 Demando            |  26    |    -10   |
 | :boom:            | 2022-03-30 | sandown-hillside R3           | 3 Rebel's Choice      |  11.2  |    102   |
 | 0                 | 2022-03-23 | wetherby R5                   | 1 Bushypark           |   0    |    -10   |
 | 0                 | 2022-03-19 | fakenham R1                   | 7 Fae The Port        |   0    |    -10   |
-| 7                 | 2022-03-18 | moonee-valley R7              | 5 The Cunning Fox     |  23    |    -10   |
 | :2nd_place_medal: | 2022-03-18 | moonee-valley R7              | 8 Can't Go Wong       |  29    |    -10   |
+| 7                 | 2022-03-18 | moonee-valley R7              | 5 The Cunning Fox     |  23    |    -10   |
 | 11                | 2022-03-18 | townsville R8                 | 3 Supreme Prince      |  31    |    -10   |
 | 5                 | 2022-03-12 | ascot R5                      | 9 Outspoken Lad       |  16    |    -10   |
 | 5                 | 2022-03-05 | newcastle R1                  | 1 Read My Future      |  13    |    -10   |
