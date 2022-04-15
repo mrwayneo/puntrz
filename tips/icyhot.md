@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-04-15 21:40:28 +1000  
+date: 2022-04-15 21:48:55 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
-| 0                 | 2022-04-15 | ascot R8                     | 8 Buzzoom             |  0    |    -10   |
-| 0                 | 2022-04-15 | launceston R6                | 1 Turk Warrior        |  0    |    -10   |
+| :2nd_place_medal: | 2022-04-15 | ascot R8                     | 8 Buzzoom             |  2.45 |    -10   |
+| :2nd_place_medal: | 2022-04-15 | launceston R6                | 1 Turk Warrior        |  1.2  |    -10   |
 | :boom:            | 2022-04-13 | geelong R6                   | 6 Miss Melbourne      |  2.5  |     15   |
 | 0                 | 2022-04-07 | darwin R2                    | 5 Blueant             |  0    |    -10   |
 | 0                 | 2022-04-07 | darwin R1                    | 2 No Strings          |  0    |    -10   |
@@ -121,8 +121,8 @@ categories: None
 | 5                 | 2022-01-01 | sha-tin R10                  | 3 Blaze Warrior       |  0    |    -10   |
 | :boom:            | 2022-01-01 | sha-tin R8                   | 5 Master Eight        |  1.3  |      3   |
 | :boom:            | 2022-01-01 | geraldton R5                 | 3 Three Sessions      |  2.1  |     11   |
-| :2nd_place_medal: | 2022-01-01 | ascot R6                     | 10 The Front Bar      |  2.4  |    -10   |
 | :boom:            | 2022-01-01 | ascot R6                     | 6 Miss Conteki        |  2.2  |     12   |
+| :2nd_place_medal: | 2022-01-01 | ascot R6                     | 10 The Front Bar      |  2.4  |    -10   |
 | :3rd_place_medal: | 2022-01-01 | murray-bdge R7               | 12 Desired            | 14    |    -10   |
 | :boom:            | 2022-01-01 | darwin R2                    | 5 Bel's Banner        |  1.5  |      5   |
 | 11                | 2022-01-01 | flemington R8                | 2 Yulong January      |  9.5  |    -10   |
@@ -255,8 +255,8 @@ categories: None
 | :boom:            | 2021-09-18 | gold-coast R6                | 2 Weona Smartone      |  1.8  |      8   |
 | 8                 | 2021-09-18 | dalby R5                     | 4 Harbour Trick       |  7.5  |    -10   |
 | :boom:            | 2021-09-18 | caulfield R2                 | 7 He's A Balter       |  6.3  |     53   |
-| 4                 | 2021-09-12 | devonport-synthetic R1       | 6 Assaranca           |  4.6  |    -10   |
 | 5                 | 2021-09-12 | devonport-synthetic R1       | 4 Vivilici            |  3    |    -10   |
+| 4                 | 2021-09-12 | devonport-synthetic R1       | 6 Assaranca           |  4.6  |    -10   |
 | 6                 | 2021-09-11 | belmont R6                   | 4 General Grant       | 11    |    -10   |
 | :boom:            | 2021-09-11 | belmont R1                   | 4 Red Fifty Three     |  4.1  |     31   |
 | :boom:            | 2021-09-10 | fairview R5                  | 2 Cairon              |  1.75 |      7.5 |
@@ -294,8 +294,8 @@ categories: None
 | 99                | 2021-07-29 | goodwood R4                  | 1 Century Dream       | 16    |    -10   |
 | :2nd_place_medal: | 2021-07-28 | darwin R5                    | 5 Syncline            |  3.4  |    -10   |
 | :boom:            | 2021-07-26 | pontefract R3                | 1 Corinthia Knight    |  4.4  |     34   |
-| :boom:            | 2021-07-25 | oamaru R6                    | 3 Dunhill             |  3.9  |     29   |
 | 7                 | 2021-07-25 | oamaru R6                    | 5 Pete The Driver     | 10    |    -10   |
+| :boom:            | 2021-07-25 | oamaru R6                    | 3 Dunhill             |  3.9  |     29   |
 | :boom:            | 2021-07-24 | darwin R5                    | 8 Belmont Day         |  2.6  |     16   |
 | :2nd_place_medal: | 2021-07-24 | mackay R7                    | 3 The Egyptian        |  4    |    -10   |
 | :2nd_place_medal: | 2021-07-24 | caulfield R4                 | 1 La Mexicana         |  3.3  |    -10   |
@@ -596,8 +596,8 @@ categories: None
 | 5                 | 2020-05-21 | townsville R9                | 4 Love Is Blind       |  3.5  |    -10   |
 | :boom:            | 2020-05-18 | tamworth R5                  | 6 Blazing Tycoon      |  4.8  |     38   |
 | 5                 | 2020-05-17 | kalgoorlie R6                | 2 Smarty              |  3.1  |    -10   |
-| :boom:            | 2020-05-16 | gold-coast R5                | 7 Soxagon             |  1.6  |      6   |
 | :2nd_place_medal: | 2020-05-16 | gold-coast R5                | 12 Thine is the Power |  3    |    -10   |
+| :boom:            | 2020-05-16 | gold-coast R5                | 7 Soxagon             |  1.6  |      6   |
 | 6                 | 2020-05-15 | sunshine-coast R4            | 7 Maslow              |  4.8  |    -10   |
 | :2nd_place_medal: | 2020-05-10 | toowoomba R9                 | 2 Rhyme Nor Rhythm    |  2.7  |    -10   |
 | 4                 | 2020-05-09 | darwin R4                    | 1 Don't Wait          |  4    |    -10   |
@@ -625,8 +625,8 @@ categories: None
 | 6                 | 2020-01-25 | gawler R2                    | 4 Rose Tiara          | 18.2  |    -10   |
 | :2nd_place_medal: | 2020-01-25 | sunshine-coast R1            | 3 Ruby Guru           |  3.8  |    -10   |
 | :boom:            | 2020-01-22 | canterbury R5                | 2 Knowitall Jack      |  3.6  |     26   |
-| :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
+| :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 6                 | 2020-01-11 | pinjarra R8                  | 11 Midnight Sky       |  6.5  |    -10   |
 | :boom:            | 2020-01-11 | pinjarra R6                  | 12 Put A Spell On You |  5    |     40   |
 | :3rd_place_medal: | 2020-01-11 | kembla-grange R6             | 4 Superbowl Sunday    |  2.15 |    -10   |

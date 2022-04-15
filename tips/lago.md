@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-15 21:40:34 +1000  
+date: 2022-04-15 21:49:01 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 0                 | 2022-04-15 | ascot R2                     | 10 Alsephina         |  0    |    -10   |
+| :boom:            | 2022-04-15 | ascot R2                     | 10 Alsephina         |  2    |     10   |
 | :boom:            | 2022-04-14 | newmarket R6                 | 2 New London         |  2.6  |     16   |
 | :2nd_place_medal: | 2022-04-14 | newmarket R6                 | 1 Aldous Huxley      |  2.5  |    -10   |
 | :boom:            | 2022-04-14 | newmarket R5                 | 5 Native Trail       |  1.26 |      2.6 |

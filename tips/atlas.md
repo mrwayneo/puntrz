@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Atlas"   
-date: 2022-04-15 21:40:34 +1000  
+date: 2022-04-15 21:49:01 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish   | date       | event                  | runner               |   win |   return |
 |:---------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 0        | 2022-04-15 | ascot R2               | 10 Alsephina         |  0    |    -10   |
+| :boom:   | 2022-04-15 | ascot R2               | 10 Alsephina         |  2    |     10   |
 | :boom:   | 2022-04-13 | geelong R2             | 5 Shines             |  1.9  |      9   |
 | :boom:   | 2022-04-13 | hawkesbury R1          | 5 In Secret          |  2.7  |     17   |
 | :boom:   | 2021-12-18 | turffontein R3         | 11 Mathis            |  3    |     20   |
