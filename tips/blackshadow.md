@@ -1,19 +1,21 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-04-14 06:50:41 +1000  
+date: 2022-04-15 21:40:28 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |     26 |      3 |     -128 | 0.12 | -0.49 |
+| Last 28 Days   |     23 |      3 |      -98 | 0.13 | -0.43 |
 | Last 6 Months  |    320 |     69 |     -737 | 0.22 | -0.23 |
 | Since Jan 2020 |    900 |    214 |    -1063 | 0.24 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 23:35             | 2022-04-15 | newcastle R3                  | 1 Bouttemont          | 11    |    -10   |
+| 0                 | 2022-04-15 | launceston R8                 | 5 Eighty Eight Days   |  0    |    -10   |
 | 0                 | 2022-04-07 | darwin R4                     | 2 Chief Mondo         |  0    |    -10   |
 | 0                 | 2022-04-07 | darwin R2                     | 4 Obligatory          |  0    |    -10   |
 | 0                 | 2022-04-07 | darwin R2                     | 5 Blueant             |  0    |    -10   |
@@ -25,10 +27,10 @@ categories: None
 | :2nd_place_medal: | 2022-03-28 | carlisle R2                   | 3 Armattiekan         |  5    |    -10   |
 | 5                 | 2022-03-25 | moonee-valley R4              | 2 Quantum Mechanic    |  8.5  |    -10   |
 | 5                 | 2022-03-25 | moonee-valley R3              | 1 Bello Beau          |  3.75 |    -10   |
-| :boom:            | 2022-03-22 | rockhampton R7                | 4 Dark Archer         |  5.7  |     47   |
-| :2nd_place_medal: | 2022-03-22 | rockhampton R7                | 2 Brigalow Boy        |  3    |    -10   |
 | :3rd_place_medal: | 2022-03-22 | rockhampton R7                | 5 In Order            |  2.88 |    -10   |
 | 9                 | 2022-03-22 | rockhampton R7                | 10 The Crown          | 16    |    -10   |
+| :2nd_place_medal: | 2022-03-22 | rockhampton R7                | 2 Brigalow Boy        |  3    |    -10   |
+| :boom:            | 2022-03-22 | rockhampton R7                | 4 Dark Archer         |  5.7  |     47   |
 | 7                 | 2022-03-22 | rockhampton R5                | 1 Barachiel           | 19    |    -10   |
 | 6                 | 2022-03-22 | beaumont R5                   | 4 Five Crowns         |  2.25 |    -10   |
 | :3rd_place_medal: | 2022-03-20 | pinjarra R8                   | 9 Queenship           | 10    |    -10   |
@@ -266,8 +268,8 @@ categories: None
 | 6                 | 2021-11-14 | hobart R5                     | 3 Deroche             |  4    |    -10   |
 | :boom:            | 2021-11-14 | punchestown R4                | 8 Top Bandit          |  0    |    -10   |
 | :3rd_place_medal: | 2021-11-14 | cheltenham R3                 | 3 Mick Pastor         |  0    |    -10   |
-| 11                | 2021-11-13 | ascot R6                      | 13 Temptacion         |  6    |    -10   |
 | :boom:            | 2021-11-13 | ascot R6                      | 8 Midnight Blue       |  3.8  |     28   |
+| 11                | 2021-11-13 | ascot R6                      | 13 Temptacion         |  6    |    -10   |
 | :3rd_place_medal: | 2021-11-13 | doomben R9                    | 12 Morethannumberone  |  2.15 |    -10   |
 | :boom:            | 2021-11-13 | doomben R8                    | 4 Tambo's Mate        |  3.3  |     23   |
 | :2nd_place_medal: | 2021-11-13 | ascot R3                      | 8 Secret Plan         |  3    |    -10   |
@@ -397,8 +399,8 @@ categories: None
 | :boom:            | 2021-09-04 | eagle-farm R7                 | 4 Ingear              |  2.5  |     15   |
 | :2nd_place_medal: | 2021-09-04 | belmont R3                    | 2 Dunbar              |  2.8  |    -10   |
 | 7                 | 2021-09-04 | eagle-farm R4                 | 4 Navy Cross          |  2.3  |    -10   |
-| 6                 | 2021-09-04 | barcaldine R2                 | 4 Nick the Skip       |  2    |    -10   |
 | 4                 | 2021-09-04 | barcaldine R2                 | 1 Fully Maxed         |  7    |    -10   |
+| 6                 | 2021-09-04 | barcaldine R2                 | 4 Nick the Skip       |  2    |    -10   |
 | :boom:            | 2021-09-04 | barcaldine R1                 | 4 Wall Street Tycoon  |  2.4  |     14   |
 | 99                | 2021-09-03 | fairview R7                   | 3 Jaeger Moon         |  4.8  |    -10   |
 | 12                | 2021-09-03 | hawera R9                     | 5 Hold The Press      |  2.6  |    -10   |
@@ -514,8 +516,8 @@ categories: None
 | :3rd_place_medal: | 2021-07-02 | perth R5                      | 2 Ocean Cove          |  8    |    -10   |
 | :3rd_place_medal: | 2021-06-30 | warwick-farm R7               | 16 Promise Of Success |  2.1  |    -10   |
 | :2nd_place_medal: | 2021-06-27 | devonport-synthetic R9        | 1 Lesnar              |  3.1  |    -10   |
-| :2nd_place_medal: | 2021-06-27 | devonport-synthetic R6        | 2 Sh'bourne Rebel     | 14    |    -10   |
 | 5                 | 2021-06-27 | devonport-synthetic R6        | 1 Rising Hsiang       |  6.6  |    -10   |
+| :2nd_place_medal: | 2021-06-27 | devonport-synthetic R6        | 2 Sh'bourne Rebel     | 14    |    -10   |
 | :2nd_place_medal: | 2021-06-26 | belmont R9                    | 10 Bright Diamond     |  2.35 |    -10   |
 | 7                 | 2021-06-26 | belmont R8                    | 9 Leading Girl        |  3.3  |    -10   |
 | :3rd_place_medal: | 2021-06-26 | belmont R4                    | 7 Secret Plan         |  2.4  |    -10   |
@@ -651,8 +653,8 @@ categories: None
 | 4                 | 2021-04-17 | randwick R5                   | 2 Amarelinha          |  4.65 |    -10   |
 | 7                 | 2021-04-17 | caulfield R1                  | 4 Fanciful Toff       |  3.7  |    -10   |
 | :2nd_place_medal: | 2021-04-16 | darwin R4                     | 2 Patriot Day         |  4.2  |    -10   |
-| 5                 | 2021-04-16 | darwin R2                     | 4 The Auditor         | 11    |    -10   |
 | 4                 | 2021-04-16 | darwin R2                     | 2 Kowloon Kid         |  4.6  |    -10   |
+| 5                 | 2021-04-16 | darwin R2                     | 4 The Auditor         | 11    |    -10   |
 | :boom:            | 2021-04-15 | albany R6                     | 6 Strathmore Rose     |  1.4  |      4   |
 | 4                 | 2021-04-15 | albany R4                     | 1 Captain Sharmane    |  2.25 |    -10   |
 | 6                 | 2021-04-14 | eagle-farm R8                 | 6 Highmaster          |  1.96 |    -10   |

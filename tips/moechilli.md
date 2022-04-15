@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-04-14 06:50:43 +1000  
+date: 2022-04-15 21:40:29 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,8 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
+| 23:00             | 2022-04-15 | newcastle R2           | 1 Amilcar            |   7    |    -10   |
+| 22:45             | 2022-04-15 | lingfield R2           | 1 Honor And Pleasure |   2.7  |    -10   |
 | 0                 | 2022-04-07 | darwin R2              | 5 Blueant            |   0    |    -10   |
 | :boom:            | 2022-03-29 | mackay R4              | 3 Cabalo Escuro      |   1.7  |      7   |
 | :boom:            | 2022-03-25 | darwin R3              | 3 Poupee             |   3.1  |     21   |
