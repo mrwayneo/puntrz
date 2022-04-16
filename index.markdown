@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 13:21:58 +1000  
+date: 2022-04-16 13:37:29 +1000  
 ---   
 
 
@@ -164,8 +164,8 @@ date: 2022-04-16 13:21:58 +1000
 | 79 | :soon:            | 2022-04-16 13:54:00 | ascot          |      1 |        5 | Lexington City     |   7    | evenodds,blackshadow |
 | 80 | :soon:            | 2022-04-16 13:50:00 | randwick       |      5 |        2 | Espiona            |   1.8  | jmac                 |
 | 81 | :soon:            | 2022-04-16 13:39:00 | te-rapa        |      7 |        7 | Imperatriz         |   2.2  | milkman              |
-| 82 | :soon:            | 2022-04-16 13:30:00 | caulfield      |      3 |        2 | Through Irish Eyes |   4.6  | overthrow            |
-| 83 | :soon:            | 2022-04-16 13:23:00 | eagle-farm     |      4 |        1 | Acceber            |   4.6  | milkman              |
+| 82 | :2nd_place_medal: | 2022-04-16 13:30:00 | caulfield      |      3 |        2 | Through Irish Eyes |   4.6  | overthrow            |
+| 83 | :3rd_place_medal: | 2022-04-16 13:23:00 | eagle-farm     |      4 |        1 | Acceber            |   4.6  | milkman              |
 | 84 | 4.0               | 2022-04-16 13:15:00 | randwick       |      4 |        1 | Let'srollthedice   |  10    | milkman              |
 | 85 | :boom:            | 2022-04-16 13:04:00 | te-rapa        |      6 |        2 | Cote De Beaune     |   3.2  | milkman              |
 | 86 | 6.0               | 2022-04-16 12:55:00 | caulfield      |      2 |        6 | Destination        |   9    | pangea               |
