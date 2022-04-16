@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 17:22:16 +1000  
+date: 2022-04-16 17:37:11 +1000  
 ---   
 
 
@@ -26,7 +26,7 @@ date: 2022-04-16 17:22:16 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     39 |      5 |   -170   | 0.13 | -0.44 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     29 |      0 |   -290   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     51 |      1 |   -330   | 0.02 | -0.65 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    112 |      1 |   -940   | 0.01 | -0.84 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    112 |      2 |   -867   | 0.02 | -0.77 |
 
 ##### Form Last 20 tips   
 
@@ -130,8 +130,8 @@ date: 2022-04-16 17:22:16 +1000
 | 45 | :soon:            | 2022-04-16 17:55:00 | alice-springs  |      7 |        8 | Dakota Lee         |   1.09 | overthrow,lago       |
 | 46 | :soon:            | 2022-04-16 17:50:00 | ascot          |      7 |       10 | Otheroneson        |   2.2  | benny,overthrow      |
 | 47 | :soon:            | 2022-04-16 17:50:00 | ascot          |      7 |        4 | Time Scale         |   5    | pangea               |
-| 48 | :soon:            | 2022-04-16 17:25:00 | alice-springs  |      6 |        1 | Rockford Files     |   3.9  | moechilli            |
-| 49 | --                | 2022-04-16 17:10:00 | ascot          |      6 |        2 | Excellent Dream    |  15    | pangea,blackshadow   |
+| 48 | :3rd_place_medal: | 2022-04-16 17:25:00 | alice-springs  |      6 |        1 | Rockford Files     |   3.9  | moechilli            |
+| 49 | 7.0               | 2022-04-16 17:10:00 | ascot          |      6 |        2 | Excellent Dream    |  15    | pangea,blackshadow   |
 | 50 | :boom:            | 2022-04-16 16:57:00 | oakbank        |      8 |        1 | All Banter         |   3.9  | vulture              |
 | 51 | :2nd_place_medal: | 2022-04-16 16:57:00 | oakbank        |      8 |       15 | Gaze Grise         |   8.5  | vulture              |
 | 52 | 6.0               | 2022-04-16 16:57:00 | oakbank        |      8 |        3 | Rock The Ring      |   2.75 | pangea               |
