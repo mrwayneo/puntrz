@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-04-17 06:10:41 +1000  
+date: 2022-04-17 06:25:35 +1000  
 categories: None 
 ---   
 
@@ -50,9 +50,9 @@ categories: None
 | 9                 | 2022-01-20 | warrnambool R7                | 8 Prince Of Eagles    |  19    |    -10   |
 | 5                 | 2022-01-20 | plumpton R3                   | 7 Tzar De L'Elfe      |  21    |    -10   |
 | 99                | 2022-01-15 | fairyhouse R1                 | 9 Longacre Square     |   0    |    -10   |
-| :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
-| 13                | 2022-01-15 | flemington R4                 | 10 Tuki Twelve        |  41    |    -10   |
 | 9                 | 2022-01-15 | flemington R4                 | 6 Think Bold          |  20    |    -10   |
+| 13                | 2022-01-15 | flemington R4                 | 10 Tuki Twelve        |  41    |    -10   |
+| :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
 | 99                | 2022-01-11 | taunton R3                    | 14 Drag Race          |   0    |    -10   |
 | 4                 | 2022-01-10 | fairyhouse R2                 | 6 Crossgales Ophelia  |   0    |    -10   |
 | 7                 | 2022-01-09 | port-lincoln R5               | 8 Hand to Hand        |  29    |    -10   |
@@ -69,8 +69,8 @@ categories: None
 | :boom:            | 2021-12-21 | wolverhampton R1              | 6 Ruby Red Empress    |   0    |    -10   |
 | 99                | 2021-12-17 | uttoxeter R3                  | 6 Glebe Road          |   0    |    -10   |
 | 5                 | 2021-12-15 | sandown-hillside R4           | 2 Covert              |  12    |    -10   |
-| 99                | 2021-12-12 | fairyhouse R6                 | 15 Merry Moves        |   0    |    -10   |
 | 99                | 2021-12-12 | fairyhouse R6                 | 3 Bearwithmenow       |   0    |    -10   |
+| 99                | 2021-12-12 | fairyhouse R6                 | 15 Merry Moves        |   0    |    -10   |
 | 99                | 2021-12-11 | cheltenham R4                 | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5                   | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6                 | 8 Precious            |   0    |    -10   |
@@ -137,8 +137,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-29 | ballarat R4                   | 6 Robbie's Star       |  21    |    -10   |
 | 9                 | 2021-08-26 | mackay R4                     | 10 Myzaboom           | 151    |    -10   |
 | :boom:            | 2021-08-24 | ballinrobe R5                 | 1 Father Jed          |   5.5  |     45   |
-| :boom:            | 2021-08-21 | scottsville R1                | 1 Humdinger           |  19    |    180   |
 | :2nd_place_medal: | 2021-08-21 | scottsville R1                | 5 Grey View           |   4.6  |    -10   |
+| :boom:            | 2021-08-21 | scottsville R1                | 1 Humdinger           |  19    |    180   |
 | 99                | 2021-08-21 | salisbury R4                  | 8 Fuente Ovejuna      |  34    |    -10   |
 | :boom:            | 2021-08-21 | salisbury R1                  | 3 Luna Magic          |  11    |    100   |
 | :boom:            | 2021-08-18 | belmont R2                    | 11 War Gem            |  11.9  |    109   |
@@ -186,8 +186,8 @@ categories: None
 | :boom:            | 2021-06-23 | pukekohe-park R5              | 3 Hit The Switch      |   5    |     40   |
 | 9                 | 2021-06-20 | kilcoy R7                     | 7 Snipfit             |  51    |    -10   |
 | 7                 | 2021-06-19 | darwin R2                     | 5 Skellig Island      |  26    |    -10   |
-| 99                | 2021-06-19 | royal-ascot R2                | 1 Gear Up             |  10    |    -10   |
 | 99                | 2021-06-19 | royal-ascot R2                | 3 Belloccio           |   6    |    -10   |
+| 99                | 2021-06-19 | royal-ascot R2                | 1 Gear Up             |  10    |    -10   |
 | 99                | 2021-06-18 | down-royal R2                 | 15 Glory For Molly    |  26    |    -10   |
 | 99                | 2021-06-17 | wexford R7                    | 7 Ballybrowney Jack   |  32    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R2                | 8 Law Of The Sea      |  17    |    -10   |

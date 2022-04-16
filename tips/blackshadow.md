@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-04-17 06:10:30 +1000  
+date: 2022-04-17 06:25:26 +1000  
 categories: None 
 ---   
 
@@ -215,8 +215,8 @@ categories: None
 | 8                 | 2021-12-12 | sha-tin R5                    | 3 Danon Smash         |  0    |    -10   |
 | :boom:            | 2021-12-12 | sha-tin R4                    | 2 Glory Vase          |  1.8  |      8   |
 | :2nd_place_medal: | 2021-12-12 | sha-tin R4                    | 1 Pyledriver          |  4.8  |    -10   |
-| :3rd_place_medal: | 2021-12-11 | ascot R8                      | 14 Stafford's Lad     | 14    |    -10   |
 | 5                 | 2021-12-11 | ascot R8                      | 13 Pure Devotion      |  2.7  |    -10   |
+| :3rd_place_medal: | 2021-12-11 | ascot R8                      | 14 Stafford's Lad     | 14    |    -10   |
 | 6                 | 2021-12-11 | ascot R6                      | 5 New Amsterdam       |  9.5  |    -10   |
 | :2nd_place_medal: | 2021-12-11 | ascot R5                      | 4 Proconsent          |  1.8  |    -10   |
 | 6                 | 2021-12-11 | toowoomba R1                  | 6 Wait A Minute       | 20    |    -10   |
@@ -258,8 +258,8 @@ categories: None
 | 5                 | 2021-11-20 | ascot R9                      | 9 Bright Diamond      |  2.75 |    -10   |
 | 6                 | 2021-11-20 | sunshine-coast R9             | 6 Sir Warwick         |  3.4  |    -10   |
 | :2nd_place_medal: | 2021-11-20 | gold-coast R9                 | 9 Storm Attack        |  7    |    -10   |
-| :2nd_place_medal: | 2021-11-20 | sunshine-coast R7             | 7 Totally Charmed     | 14    |    -10   |
 | :boom:            | 2021-11-20 | sunshine-coast R7             | 2 Zoustyle            |  2.1  |     11   |
+| :2nd_place_medal: | 2021-11-20 | sunshine-coast R7             | 7 Totally Charmed     | 14    |    -10   |
 | 5                 | 2021-11-20 | roma R4                       | 4 Wait A Minute       |  4.6  |    -10   |
 | :boom:            | 2021-11-20 | ascot R1                      | 1 Pure Devotion       |  1.6  |      6   |
 | :3rd_place_medal: | 2021-11-18 | rockhampton R5                | 2 Bluindi             |  2.7  |    -10   |
@@ -565,8 +565,8 @@ categories: None
 | :2nd_place_medal: | 2021-05-29 | belmont R9                    | 12 This'll Testya     |  8.5  |    -10   |
 | :boom:            | 2021-05-29 | belmont R7                    | 2 Leading Girl        |  2.7  |     17   |
 | 4                 | 2021-05-29 | darwin R3                     | 2 Count of Essex      |  4.25 |    -10   |
-| 7                 | 2021-05-29 | belmont R4                    | 3 Mystical View       | 14    |    -10   |
 | :2nd_place_medal: | 2021-05-29 | belmont R4                    | 6 Devoted Star        |  9    |    -10   |
+| 7                 | 2021-05-29 | belmont R4                    | 3 Mystical View       | 14    |    -10   |
 | :3rd_place_medal: | 2021-05-29 | eagle-farm R8                 | 11 Signore Fox        | 51    |    -10   |
 | :boom:            | 2021-05-29 | darwin R2                     | 2 Captain Hedderwick  |  2.5  |     15   |
 | :boom:            | 2021-05-29 | darwin R1                     | 7 The Auditor         | 12.5  |    115   |
@@ -835,8 +835,8 @@ categories: None
 | 8                 | 2020-11-04 | launceston R3                 | 1 Runaway Girl        |  1.92 |    -10   |
 | 4                 | 2020-11-04 | launceston R2                 | 4 Ivoryman            |  3.3  |    -10   |
 | 99                | 2020-11-04 | exeter R4                     | 9 Not That Fuisse     |  7.5  |    -10   |
-| :2nd_place_medal: | 2020-11-03 | hobart R6                     | 4 Fragment            |  4.6  |    -10   |
 | :3rd_place_medal: | 2020-11-03 | hobart R6                     | 3 Deroche             |  1.46 |    -10   |
+| :2nd_place_medal: | 2020-11-03 | hobart R6                     | 4 Fragment            |  4.6  |    -10   |
 | 4                 | 2020-11-03 | hobart R1                     | 5 Lady Foxwedge       |  4.25 |    -10   |
 | :2nd_place_medal: | 2020-11-01 | down-royal R5                 | 3 Easy Game           |  2.25 |    -10   |
 | 6                 | 2020-10-31 | ascot R9                      | 6 True Attraction     |  3.7  |    -10   |
