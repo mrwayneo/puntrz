@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 14:52:14 +1000  
+date: 2022-04-16 15:07:03 +1000  
 ---   
 
 
@@ -10,7 +10,7 @@ date: 2022-04-16 14:52:14 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      1 |     10   | 1    |  1    |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      9 |      2 |      1   | 0.22 |  0.01 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      9 |      2 |      3   | 0.22 |  0.03 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |    -10   | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      1 |      0 |    -10   | 0    | -1    |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |    -10   | 0    | -1    |
@@ -20,11 +20,11 @@ date: 2022-04-16 14:52:14 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |    -50   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      8 |      0 |    -80   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |   -110   | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      2 |   -115   | 0.11 | -0.64 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     30 |      3 |   -188   | 0.1  | -0.63 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      2 |   -115.5 | 0.11 | -0.64 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     30 |      4 |   -135   | 0.13 | -0.45 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     29 |      0 |   -290   | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      3 |   -297.5 | 0.09 | -0.85 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     39 |      2 |   -298   | 0.05 | -0.76 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      2 |   -310.5 | 0.06 | -0.89 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     51 |      1 |   -330   | 0.02 | -0.65 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    112 |      1 |   -940   | 0.01 | -0.84 |
 
@@ -148,8 +148,8 @@ date: 2022-04-16 14:52:14 +1000
 | 63 | :soon:            | 2022-04-16 15:22:00 | eagle-farm     |      7 |        8 | Green Belt         |   2.8  | vulture,milkman      |
 | 64 | :soon:            | 2022-04-16 15:22:00 | eagle-farm     |      7 |        2 | Flying Crazy       |   8    | pangea               |
 | 65 | :soon:            | 2022-04-16 15:10:00 | randwick       |      7 |        2 | Polly Grey         |   4    | vulture,wallbow      |
-| 66 | :soon:            | 2022-04-16 14:58:00 | oakbank        |      5 |        8 | Zoist              |   5    | pangea               |
-| 67 | :soon:            | 2022-04-16 14:56:00 | alice-springs  |      2 |        3 | Siakam             |   6.5  | overthrow            |
+| 66 | :boom:            | 2022-04-16 14:58:00 | oakbank        |      5 |        8 | Zoist              |   5    | pangea               |
+| 67 | --                | 2022-04-16 14:56:00 | alice-springs  |      2 |        3 | Siakam             |   6.5  | overthrow            |
 | 68 | 6.0               | 2022-04-16 14:33:00 | ascot          |      2 |        4 | Garage Days        |   3.6  | vulture              |
 | 69 | 8.0               | 2022-04-16 14:27:00 | kerang         |      4 |       10 | Inebriating        |   5    | pangea               |
 | 70 | 7.0               | 2022-04-16 14:25:00 | randwick       |      6 |        5 | Trumbull           |  22    | pikey                |
