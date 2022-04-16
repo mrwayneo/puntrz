@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 15:52:17 +1000  
+date: 2022-04-16 16:07:11 +1000  
 ---   
 
 
@@ -9,10 +9,10 @@ date: 2022-04-16 15:52:17 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     30 |      8 |     82   | 0.27 |  0.27 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     30 |      8 |     84   | 0.27 |  0.28 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      1 |     34   | 1    |  3.4  |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      1 |     10   | 1    |  1    |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      9 |      2 |      1   | 0.22 |  0.01 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      9 |      2 |      3   | 0.22 |  0.03 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      1 |      0 |    -10   | 0    | -1    |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |    -10   | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |    -10   | 0    | -1    |
@@ -141,7 +141,7 @@ date: 2022-04-16 15:52:17 +1000
 | 56 | :soon:            | 2022-04-16 16:22:00 | oakbank        |      7 |        4 | Clever Man         |   5.5  | pangea               |
 | 57 | :soon:            | 2022-04-16 16:17:00 | alice-springs  |      4 |        1 | I Am the Fox       |   2.7  | pangea               |
 | 58 | :3rd_place_medal: | 2022-04-16 15:42:00 | oakbank        |      6 |        3 | Mr Metrics         |   4.33 | vulture,milkman      |
-| 59 | --                | 2022-04-16 15:42:00 | oakbank        |      6 |        6 | Rich Gina          |  16    | cosmo,bob            |
+| 59 | 6.0               | 2022-04-16 15:42:00 | oakbank        |      6 |        6 | Rich Gina          |  16    | cosmo,bob            |
 | 60 | :boom:            | 2022-04-16 15:39:00 | gold-coast     |      7 |        7 | Aliboog            |   3    | milkman              |
 | 61 | :boom:            | 2022-04-16 15:30:00 | caulfield      |      6 |        7 | Juan Diva          |   7    | pangea               |
 | 62 | :boom:            | 2022-04-16 15:26:00 | port-macquarie |      4 |        1 | Flash Palace       |   3    | pangea               |
