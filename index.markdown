@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 10:37:57 +1000  
+date: 2022-04-16 10:49:53 +1000  
 ---   
 
 
@@ -179,4 +179,4 @@ date: 2022-04-16 10:37:57 +1000
 | 94 | :soon:   | 2022-04-16 11:54:00 | te-rapa        |      4 |        5 | He's A Doozy       |   3.9  | vulture              |
 | 95 | :soon:   | 2022-04-16 11:38:00 | hastings       |      3 |        1 | Hemi Ridapest      |   7.5  | vulture              |
 | 96 | :soon:   | 2022-04-16 11:38:00 | eagle-farm     |      1 |        3 | Green Shadows      |   3.75 | vulture              |
-| 97 | :soon:   | 2022-04-16 10:48:00 | te-rapa        |      2 |        2 | Rudyard            |   2.5  | milkman              |
+| 97 | --       | 2022-04-16 10:48:00 | te-rapa        |      2 |        2 | Rudyard            |   2.5  | milkman              |
