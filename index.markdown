@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 13:37:29 +1000  
+date: 2022-04-16 13:52:12 +1000  
 ---   
 
 
@@ -20,7 +20,7 @@ date: 2022-04-16 13:37:29 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      8 |      0 |    -80   | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      9 |      0 |    -90   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |   -110   | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      1 |   -135   | 0.06 | -0.75 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      2 |   -114.5 | 0.11 | -0.64 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     30 |      1 |   -279   | 0.03 | -0.93 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     29 |      0 |   -290   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     39 |      2 |   -298   | 0.05 | -0.76 |
@@ -162,8 +162,8 @@ date: 2022-04-16 13:37:29 +1000
 | 77 | :soon:            | 2022-04-16 14:05:00 | caulfield      |      4 |        1 | The Cunning Fox    |   5    | vulture,milkman      |
 | 78 | :soon:            | 2022-04-16 14:00:00 | clare          |      2 |        4 | Nordic Lass        |   5    | looseknot            |
 | 79 | :soon:            | 2022-04-16 13:54:00 | ascot          |      1 |        5 | Lexington City     |   7    | evenodds,blackshadow |
-| 80 | :soon:            | 2022-04-16 13:50:00 | randwick       |      5 |        2 | Espiona            |   1.8  | jmac                 |
-| 81 | :soon:            | 2022-04-16 13:39:00 | te-rapa        |      7 |        7 | Imperatriz         |   2.2  | milkman              |
+| 80 | --                | 2022-04-16 13:50:00 | randwick       |      5 |        2 | Espiona            |   1.8  | jmac                 |
+| 81 | :boom:            | 2022-04-16 13:39:00 | te-rapa        |      7 |        7 | Imperatriz         |   2.2  | milkman              |
 | 82 | :2nd_place_medal: | 2022-04-16 13:30:00 | caulfield      |      3 |        2 | Through Irish Eyes |   4.6  | overthrow            |
 | 83 | :3rd_place_medal: | 2022-04-16 13:23:00 | eagle-farm     |      4 |        1 | Acceber            |   4.6  | milkman              |
 | 84 | 4.0               | 2022-04-16 13:15:00 | randwick       |      4 |        1 | Let'srollthedice   |  10    | milkman              |
