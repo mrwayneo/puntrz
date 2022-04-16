@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 14:22:14 +1000  
+date: 2022-04-16 14:37:12 +1000  
 ---   
 
 
@@ -10,18 +10,18 @@ date: 2022-04-16 14:22:14 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      1 |     10   | 1    |  1    |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |    -10   | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      1 |      0 |    -10   | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      9 |      2 |      1   | 0.22 |  0.01 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |    -10   | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      1 |      0 |    -10   | 0    | -1    |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |    -10   | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |    -10   | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      0 |    -20   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      3 |      0 |    -30   | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |    -50   | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      8 |      0 |    -80   | 0    | -1    |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      9 |      0 |    -90   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |   -110   | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      2 |   -115   | 0.11 | -0.64 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     30 |      1 |   -279   | 0.03 | -0.93 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     30 |      3 |   -188   | 0.1  | -0.63 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     29 |      0 |   -290   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     39 |      2 |   -298   | 0.05 | -0.76 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      2 |   -310.5 | 0.06 | -0.89 |
@@ -150,13 +150,13 @@ date: 2022-04-16 14:22:14 +1000
 | 65 | :soon:            | 2022-04-16 15:10:00 | randwick       |      7 |        2 | Polly Grey         |   4    | vulture,wallbow      |
 | 66 | :soon:            | 2022-04-16 14:58:00 | oakbank        |      5 |        8 | Zoist              |   5    | pangea               |
 | 67 | :soon:            | 2022-04-16 14:56:00 | alice-springs  |      2 |        3 | Siakam             |   6.5  | overthrow            |
-| 68 | :soon:            | 2022-04-16 14:33:00 | ascot          |      2 |        4 | Garage Days        |   3.6  | vulture              |
-| 69 | :soon:            | 2022-04-16 14:27:00 | kerang         |      4 |       10 | Inebriating        |   5    | pangea               |
-| 70 | :soon:            | 2022-04-16 14:25:00 | randwick       |      6 |        5 | Trumbull           |  22    | pikey                |
-| 71 | :soon:            | 2022-04-16 14:25:00 | randwick       |      6 |        1 | Kementari          |   5.5  | benny,pangea         |
-| 72 | :soon:            | 2022-04-16 14:25:00 | randwick       |      6 |        2 | Gem Song           |   8.5  | vulture              |
-| 73 | --                | 2022-04-16 14:18:00 | te-rapa        |      8 |        6 | Tellall            |   3.6  | benny,pangea         |
-| 74 | --                | 2022-04-16 14:10:00 | kembla-grange  |      4 |        5 | Wild Irish Rover   |   3.9  | looseknot            |
+| 68 | --                | 2022-04-16 14:33:00 | ascot          |      2 |        4 | Garage Days        |   3.6  | vulture              |
+| 69 | --                | 2022-04-16 14:27:00 | kerang         |      4 |       10 | Inebriating        |   5    | pangea               |
+| 70 | --                | 2022-04-16 14:25:00 | randwick       |      6 |        5 | Trumbull           |  22    | pikey                |
+| 71 | :boom:            | 2022-04-16 14:25:00 | randwick       |      6 |        1 | Kementari          |   5.5  | benny,pangea         |
+| 72 | 4.0               | 2022-04-16 14:25:00 | randwick       |      6 |        2 | Gem Song           |   8.5  | vulture              |
+| 73 | :boom:            | 2022-04-16 14:18:00 | te-rapa        |      8 |        6 | Tellall            |   3.6  | benny,pangea         |
+| 74 | 6.0               | 2022-04-16 14:10:00 | kembla-grange  |      4 |        5 | Wild Irish Rover   |   3.9  | looseknot            |
 | 75 | 9.0               | 2022-04-16 14:05:00 | caulfield      |      4 |        7 | Tavabeel           |  16    | benny,pangea         |
 | 76 | 4.0               | 2022-04-16 14:05:00 | caulfield      |      4 |        2 | Ashy Boy           |   7.5  | vulture              |
 | 77 | :2nd_place_medal: | 2022-04-16 14:05:00 | caulfield      |      4 |        1 | The Cunning Fox    |   5    | vulture,milkman      |
