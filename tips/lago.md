@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-16 19:44:02 +1000  
+date: 2022-04-17 06:10:40 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      4 |     31.6 | 0.8  |  0.63 |
-| Last 28 Days   |     16 |     10 |    111.6 | 0.62 |  0.7  |
-| Last 6 Months  |    127 |     59 |    175.6 | 0.46 |  0.14 |
-| Since Jan 2020 |    249 |    123 |   1482.3 | 0.49 |  0.6  |
+| Last 7 Days    |      7 |      4 |     11.6 | 0.57 |  0.17 |
+| Last 28 Days   |     17 |      9 |     90.6 | 0.53 |  0.53 |
+| Last 6 Months  |    129 |     59 |    155.6 | 0.46 |  0.12 |
+| Since Jan 2020 |    251 |    123 |   1462.3 | 0.49 |  0.58 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 23:25             | 2022-04-16 | newbury R2                   | 10 Shaara            |  9.5  |    -10   |
+| 0                 | 2022-04-16 | newbury R2                   | 10 Shaara            |  0    |    -10   |
 | 0                 | 2022-04-16 | alice-springs R7             | 8 Dakota Lee         |  0    |    -10   |
 | :boom:            | 2022-04-15 | ascot R2                     | 10 Alsephina         |  2    |     10   |
 | :boom:            | 2022-04-14 | newmarket R6                 | 2 New London         |  2.6  |     16   |
@@ -64,8 +64,8 @@ categories: None
 | 0                 | 2022-02-07 | leopardstown R8              | 14 Pink In The Park  |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6            | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5                | 1 Bello Beau         |  2    |     10   |
-| :boom:            | 2022-02-06 | leopardstown R7              | 5 Facile Vega        |  1.73 |      7.3 |
 | 0                 | 2022-02-06 | leopardstown R7              | 4 Embassy Gardens    |  0    |    -10   |
+| :boom:            | 2022-02-06 | leopardstown R7              | 5 Facile Vega        |  1.73 |      7.3 |
 | 0                 | 2022-02-06 | leopardstown R1              | 1 Bronn              |  0    |    -10   |
 | :boom:            | 2022-02-02 | sandown-lakeside R1          | 7 Ruthless Dame      |  0    |    -10   |
 | :2nd_place_medal: | 2022-02-02 | ffos-las R7                  | 7 Tahmuras           |  0    |    -10   |
