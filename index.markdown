@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 12:37:04 +1000  
+date: 2022-04-16 12:52:01 +1000  
 ---   
 
 
@@ -169,12 +169,12 @@ date: 2022-04-16 12:37:04 +1000
 | 84 | :soon:            | 2022-04-16 13:15:00 | randwick       |      4 |        1 | Let'srollthedice   |  10    | milkman              |
 | 85 | :soon:            | 2022-04-16 13:04:00 | te-rapa        |      6 |        2 | Cote De Beaune     |   3.2  | milkman              |
 | 86 | :soon:            | 2022-04-16 12:55:00 | caulfield      |      2 |        6 | Destination        |   9    | pangea               |
-| 87 | :soon:            | 2022-04-16 12:48:00 | eagle-farm     |      3 |        1 | Street Dancer      |   2.4  | evenodds,overthrow   |
+| 87 | --                | 2022-04-16 12:48:00 | eagle-farm     |      3 |        1 | Street Dancer      |   2.4  | evenodds,overthrow   |
 | 88 | :boom:            | 2022-04-16 12:32:00 | oakbank        |      1 |        8 | Rue Vivienne       |   5.5  | vulture              |
 | 89 | :2nd_place_medal: | 2022-04-16 12:29:00 | te-rapa        |      5 |        6 | Blue Moon          |   4.8  | benny,pangea         |
 | 90 | :soon:            | 2022-04-16 12:25:00 | kembla-grange  |      1 |        5 | Surething To Win   |   5.5  | evenodds,blackshadow |
 | 91 | :2nd_place_medal: | 2022-04-16 12:20:00 | caulfield      |      1 |        2 | Jamarra            |   3.4  | evenodds,overthrow   |
-| 92 | --                | 2022-04-16 12:13:00 | eagle-farm     |      2 |        5 | Namazu             |   2.9  | evenodds,overthrow   |
+| 92 | 7.0               | 2022-04-16 12:13:00 | eagle-farm     |      2 |        5 | Namazu             |   2.9  | evenodds,overthrow   |
 | 93 | --                | 2022-04-16 11:54:00 | te-rapa        |      4 |        2 | Our Hail Mary      |   4.75 | benny,pangea         |
 | 94 | :2nd_place_medal: | 2022-04-16 11:54:00 | te-rapa        |      4 |        5 | He's A Doozy       |   3.9  | vulture              |
 | 95 | --                | 2022-04-16 11:38:00 | hastings       |      3 |        1 | Hemi Ridapest      |   7.5  | vulture              |
