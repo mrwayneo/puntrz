@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 18:52:24 +1000  
+date: 2022-04-16 19:38:11 +1000  
 ---   
 
 
@@ -125,7 +125,7 @@ date: 2022-04-16 18:52:24 +1000
 | 40 | :soon:            | 2022-04-16 22:09:00 | carlisle       |      1 |        6 | The Raven's Return |   3.1  | vulture              |
 | 41 | :soon:            | 2022-04-16 22:09:00 | carlisle       |      1 |        1 | Zafar              |   5.5  | evenodds,blackshadow |
 | 42 | :soon:            | 2022-04-16 21:30:00 | newton-abbot   |      1 |        2 | Knappers Hill      |   1.42 | overthrow,milkman    |
-| 43 | :soon:            | 2022-04-16 19:02:00 | ascot          |      9 |        3 | Alien From Mars    |   7.5  | benny,overthrow      |
+| 43 | 5.0               | 2022-04-16 19:02:00 | ascot          |      9 |        3 | Alien From Mars    |   7.5  | benny,overthrow      |
 | 44 | :boom:            | 2022-04-16 18:05:00 | sha-tin        |      7 |        2 | Run Run Cool       |   0    | vulture              |
 | 45 | --                | 2022-04-16 17:55:00 | alice-springs  |      7 |        8 | Dakota Lee         |   1.09 | overthrow,lago       |
 | 46 | :2nd_place_medal: | 2022-04-16 17:50:00 | ascot          |      7 |       10 | Otheroneson        |   2.2  | benny,overthrow      |
@@ -175,8 +175,8 @@ date: 2022-04-16 18:52:24 +1000
 | 90 | :soon:            | 2022-04-16 12:25:00 | kembla-grange  |      1 |        5 | Surething To Win   |   5.5  | evenodds,blackshadow |
 | 91 | :2nd_place_medal: | 2022-04-16 12:20:00 | caulfield      |      1 |        2 | Jamarra            |   3.4  | evenodds,overthrow   |
 | 92 | 7.0               | 2022-04-16 12:13:00 | eagle-farm     |      2 |        5 | Namazu             |   2.9  | evenodds,overthrow   |
-| 93 | --                | 2022-04-16 11:54:00 | te-rapa        |      4 |        2 | Our Hail Mary      |   4.75 | benny,pangea         |
+| 93 | 5.0               | 2022-04-16 11:54:00 | te-rapa        |      4 |        2 | Our Hail Mary      |   4.75 | benny,pangea         |
 | 94 | :2nd_place_medal: | 2022-04-16 11:54:00 | te-rapa        |      4 |        5 | He's A Doozy       |   3.9  | vulture              |
-| 95 | --                | 2022-04-16 11:38:00 | hastings       |      3 |        1 | Hemi Ridapest      |   7.5  | vulture              |
+| 95 | 8.0               | 2022-04-16 11:38:00 | hastings       |      3 |        1 | Hemi Ridapest      |   7.5  | vulture              |
 | 96 | :boom:            | 2022-04-16 11:38:00 | eagle-farm     |      1 |        3 | Green Shadows      |   3.75 | vulture              |
 | 97 | :2nd_place_medal: | 2022-04-16 10:48:00 | te-rapa        |      2 |        2 | Rudyard            |   2.5  | milkman              |
