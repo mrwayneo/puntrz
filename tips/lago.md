@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-16 17:52:26 +1000  
+date: 2022-04-16 18:07:20 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
 | 23:25             | 2022-04-16 | newbury R2                   | 10 Shaara            |  9.5  |    -10   |
-| 17:55             | 2022-04-16 | alice-springs R7             | 8 Dakota Lee         |  1.09 |    -10   |
+| 0                 | 2022-04-16 | alice-springs R7             | 8 Dakota Lee         |  0    |    -10   |
 | :boom:            | 2022-04-15 | ascot R2                     | 10 Alsephina         |  2    |     10   |
 | :boom:            | 2022-04-14 | newmarket R6                 | 2 New London         |  2.6  |     16   |
 | :2nd_place_medal: | 2022-04-14 | newmarket R6                 | 1 Aldous Huxley      |  2.5  |    -10   |
@@ -64,8 +64,8 @@ categories: None
 | 0                 | 2022-02-07 | leopardstown R8              | 14 Pink In The Park  |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6            | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5                | 1 Bello Beau         |  2    |     10   |
-| :boom:            | 2022-02-06 | leopardstown R7              | 5 Facile Vega        |  1.73 |      7.3 |
 | 0                 | 2022-02-06 | leopardstown R7              | 4 Embassy Gardens    |  0    |    -10   |
+| :boom:            | 2022-02-06 | leopardstown R7              | 5 Facile Vega        |  1.73 |      7.3 |
 | 0                 | 2022-02-06 | leopardstown R1              | 1 Bronn              |  0    |    -10   |
 | :boom:            | 2022-02-02 | sandown-lakeside R1          | 7 Ruthless Dame      |  0    |    -10   |
 | :2nd_place_medal: | 2022-02-02 | ffos-las R7                  | 7 Tahmuras           |  0    |    -10   |
