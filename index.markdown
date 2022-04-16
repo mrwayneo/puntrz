@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 15:37:15 +1000  
+date: 2022-04-16 15:52:17 +1000  
 ---   
 
 
@@ -19,9 +19,9 @@ date: 2022-04-16 15:37:15 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      0 |    -20   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      3 |      0 |    -30   | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |    -50   | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      3 |    -71.5 | 0.17 | -0.4  |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      8 |      0 |    -80   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |   -110   | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      2 |   -115.5 | 0.11 | -0.64 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     39 |      3 |   -254   | 0.08 | -0.65 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     29 |      0 |   -290   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      3 |   -297.5 | 0.09 | -0.85 |
@@ -140,9 +140,9 @@ date: 2022-04-16 15:37:15 +1000
 | 55 | :soon:            | 2022-04-16 16:22:00 | oakbank        |      7 |        6 | Does It            |   2.9  | vulture,pangea       |
 | 56 | :soon:            | 2022-04-16 16:22:00 | oakbank        |      7 |        4 | Clever Man         |   5.5  | pangea               |
 | 57 | :soon:            | 2022-04-16 16:17:00 | alice-springs  |      4 |        1 | I Am the Fox       |   2.7  | pangea               |
-| 58 | :soon:            | 2022-04-16 15:42:00 | oakbank        |      6 |        3 | Mr Metrics         |   4.33 | vulture,milkman      |
-| 59 | :soon:            | 2022-04-16 15:42:00 | oakbank        |      6 |        6 | Rich Gina          |  16    | cosmo,bob            |
-| 60 | :soon:            | 2022-04-16 15:39:00 | gold-coast     |      7 |        7 | Aliboog            |   3    | milkman              |
+| 58 | :3rd_place_medal: | 2022-04-16 15:42:00 | oakbank        |      6 |        3 | Mr Metrics         |   4.33 | vulture,milkman      |
+| 59 | --                | 2022-04-16 15:42:00 | oakbank        |      6 |        6 | Rich Gina          |  16    | cosmo,bob            |
+| 60 | :boom:            | 2022-04-16 15:39:00 | gold-coast     |      7 |        7 | Aliboog            |   3    | milkman              |
 | 61 | :boom:            | 2022-04-16 15:30:00 | caulfield      |      6 |        7 | Juan Diva          |   7    | pangea               |
 | 62 | :boom:            | 2022-04-16 15:26:00 | port-macquarie |      4 |        1 | Flash Palace       |   3    | pangea               |
 | 63 | :2nd_place_medal: | 2022-04-16 15:22:00 | eagle-farm     |      7 |        8 | Green Belt         |   2.8  | vulture,milkman      |
