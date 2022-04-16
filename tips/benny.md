@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-04-16 18:22:16 +1000  
+date: 2022-04-16 18:37:18 +1000  
 categories: None 
 ---   
 
@@ -107,8 +107,8 @@ categories: None
 | :2nd_place_medal: | 2022-02-19 | alice-springs R3              | 2 Valley Prince       |  1.6  |    -10   |
 | 4                 | 2022-02-19 | ascot R3                      | 5 Snippy Miss         |  7    |    -10   |
 | :2nd_place_medal: | 2022-02-19 | flemington R7                 | 1 Nature Strip        |  2.5  |    -10   |
-| :3rd_place_medal: | 2022-02-19 | ascot R2                      | 6 State Of Power      |  6    |    -10   |
 | 5                 | 2022-02-19 | ascot R2                      | 7 Real Danger         |  5.5  |    -10   |
+| :3rd_place_medal: | 2022-02-19 | ascot R2                      | 6 State Of Power      |  6    |    -10   |
 | 7                 | 2022-02-19 | rosehill-gardens R7           | 1 Entente             |  7    |    -10   |
 | :3rd_place_medal: | 2022-02-19 | gosford R4                    | 1 O'tartan Lass       |  8    |    -10   |
 | :3rd_place_medal: | 2022-02-19 | ascot-park R3                 | 1 He's Got Power      |  7    |    -10   |
@@ -217,8 +217,8 @@ categories: None
 | 6                 | 2021-12-18 | randwick R6                   | 4 Arctic Thunder      |  5.5  |    -10   |
 | :2nd_place_medal: | 2021-12-18 | awapuni R6                    | 1 Tavi Mac            |  4.2  |    -10   |
 | 6                 | 2021-12-16 | hawkesbury R5                 | 2 Safado              |  3.7  |    -10   |
-| 8                 | 2021-12-15 | launceston R7                 | 3 I'm Wesley          |  4.8  |    -10   |
 | :2nd_place_medal: | 2021-12-15 | launceston R7                 | 7 And Beyond          |  5    |    -10   |
+| 8                 | 2021-12-15 | launceston R7                 | 3 I'm Wesley          |  4.8  |    -10   |
 | :boom:            | 2021-12-13 | rockhampton R7                | 4 Ahooshu             |  1.5  |      5   |
 | 6                 | 2021-12-13 | rockhampton R5                | 2 Bluindi             |  2.05 |    -10   |
 | 5                 | 2021-12-12 | sha-tin R7                    | 3 Indy Champ          |  0    |    -10   |
@@ -249,8 +249,8 @@ categories: None
 | 8                 | 2021-12-01 | launceston R7                 | 2 Judge Burns         |  8    |    -10   |
 | :boom:            | 2021-12-01 | launceston R6                 | 4 Weldborough         |  7.7  |     67   |
 | :boom:            | 2021-11-27 | alice-springs R2              | 4 Valenciano          |  6.5  |     55   |
-| :3rd_place_medal: | 2021-11-27 | caulfield R7                  | 4 Wentwood            | 26    |    -10   |
 | :2nd_place_medal: | 2021-11-27 | caulfield R7                  | 6 Dr Drill            | 19    |    -10   |
+| :3rd_place_medal: | 2021-11-27 | caulfield R7                  | 4 Wentwood            | 26    |    -10   |
 | :boom:            | 2021-11-27 | ascot R1                      | 1 The Front Bar       |  2.2  |     12   |
 | 99                | 2021-11-25 | kempton R6                    | 10 Lady Rockstar      |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-23 | cairns R4                     | 1 Verbalizer          |  2.3  |    -10   |
@@ -713,8 +713,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-31 | doomben R6                    | 3 Say Haya            |  6.1  |    -10   |
 | :boom:            | 2021-03-30 | mackay R4                     | 5 Nailed It Nan       |  2.3  |     13   |
 | :boom:            | 2021-03-28 | hobart R3                     | 1 Boris The Blade     |  1.8  |      8   |
-| :2nd_place_medal: | 2021-03-28 | kempton R3                    | 5 Almighwar           |  4.6  |    -10   |
 | :boom:            | 2021-03-28 | kempton R3                    | 1 Al Zaraqaan         |  2.05 |     10.5 |
+| :2nd_place_medal: | 2021-03-28 | kempton R3                    | 5 Almighwar           |  4.6  |    -10   |
 | 6                 | 2021-03-27 | morphettville R4              | 10 Our Sustar         | 34    |    -10   |
 | 4                 | 2021-03-27 | rosehill R4                   | 2 Sir Dragonet        |  0    |    -10   |
 | :3rd_place_medal: | 2021-03-27 | bendigo R4                    | 1 Saunter Boy         | 71    |    -10   |
@@ -843,8 +843,8 @@ categories: None
 | :3rd_place_medal: | 2020-11-07 | ascot R6                      | 1 Rebel Knight        |  8.5  |    -10   |
 | 6                 | 2020-11-07 | alice-springs R5              | 1 Broncks             |  4    |    -10   |
 | :3rd_place_medal: | 2020-11-07 | doomben R8                    | 12 Grey Missile       |  4.6  |    -10   |
-| :3rd_place_medal: | 2020-11-07 | flemington R8                 | 8 Melody Belle        |  5    |    -10   |
 | :boom:            | 2020-11-07 | flemington R8                 | 9 Arcadia Queen       |  2.8  |     18   |
+| :3rd_place_medal: | 2020-11-07 | flemington R8                 | 8 Melody Belle        |  5    |    -10   |
 | 12                | 2020-11-07 | doomben R7                    | 6 Galtero             | 35    |    -10   |
 | :3rd_place_medal: | 2020-11-07 | alice-springs R2              | 4 Truckload of Hoffa  |  4.2  |    -10   |
 | 4                 | 2020-11-07 | doomben R5                    | 3 Stubai              |  8.6  |    -10   |
@@ -874,8 +874,8 @@ categories: None
 | :boom:            | 2020-10-24 | moonee-valley R8              | 11 Miami Bound        | 23    |    220   |
 | 7                 | 2020-10-24 | randwick R4                   | 3 Archedemus          |  7.5  |    -10   |
 | :boom:            | 2020-10-24 | moonee-valley R5              | 3 Sovereign Award     |  2.8  |     18   |
-| 5                 | 2020-10-23 | moonee-valley R8              | 3 Kementari           | 17    |    -10   |
 | :boom:            | 2020-10-23 | moonee-valley R8              | 2 Hey Doc             | 10.1  |     91   |
+| 5                 | 2020-10-23 | moonee-valley R8              | 3 Kementari           | 17    |    -10   |
 | 6                 | 2020-10-23 | launceston R6                 | 3 White Cliffs        |  6.5  |    -10   |
 | 6                 | 2020-10-23 | moonee-valley R7              | 9 Night Guy           | 11    |    -10   |
 | :2nd_place_medal: | 2020-10-23 | launceston R5                 | 5 Ivoryman            |  7    |    -10   |
