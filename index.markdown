@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 14:37:12 +1000  
+date: 2022-04-16 14:52:14 +1000  
 ---   
 
 
@@ -150,9 +150,9 @@ date: 2022-04-16 14:37:12 +1000
 | 65 | :soon:            | 2022-04-16 15:10:00 | randwick       |      7 |        2 | Polly Grey         |   4    | vulture,wallbow      |
 | 66 | :soon:            | 2022-04-16 14:58:00 | oakbank        |      5 |        8 | Zoist              |   5    | pangea               |
 | 67 | :soon:            | 2022-04-16 14:56:00 | alice-springs  |      2 |        3 | Siakam             |   6.5  | overthrow            |
-| 68 | --                | 2022-04-16 14:33:00 | ascot          |      2 |        4 | Garage Days        |   3.6  | vulture              |
-| 69 | --                | 2022-04-16 14:27:00 | kerang         |      4 |       10 | Inebriating        |   5    | pangea               |
-| 70 | --                | 2022-04-16 14:25:00 | randwick       |      6 |        5 | Trumbull           |  22    | pikey                |
+| 68 | 6.0               | 2022-04-16 14:33:00 | ascot          |      2 |        4 | Garage Days        |   3.6  | vulture              |
+| 69 | 8.0               | 2022-04-16 14:27:00 | kerang         |      4 |       10 | Inebriating        |   5    | pangea               |
+| 70 | 7.0               | 2022-04-16 14:25:00 | randwick       |      6 |        5 | Trumbull           |  22    | pikey                |
 | 71 | :boom:            | 2022-04-16 14:25:00 | randwick       |      6 |        1 | Kementari          |   5.5  | benny,pangea         |
 | 72 | 4.0               | 2022-04-16 14:25:00 | randwick       |      6 |        2 | Gem Song           |   8.5  | vulture              |
 | 73 | :boom:            | 2022-04-16 14:18:00 | te-rapa        |      8 |        6 | Tellall            |   3.6  | benny,pangea         |
