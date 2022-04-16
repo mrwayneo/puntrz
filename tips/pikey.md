@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-16 10:19:44 +1000  
+date: 2022-04-16 10:27:06 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 14:25             | 2022-04-16 | randwick R6           | 5 Trumbull            |  22    |    -10   |
 | :2nd_place_medal: | 2022-04-13 | hawkesbury R5         | 9 Thalassophile       |   1.8  |    -10   |
 | 8                 | 2022-04-13 | hawkesbury R3         | 6 Way To The Stars    |   9.5  |    -10   |
 | 7                 | 2022-04-13 | hawkesbury R1         | 8 Penitent            |  15    |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-04-16 10:19:44 +1000  
+date: 2022-04-16 10:27:06 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 13:50             | 2022-04-16 | randwick R5          | 2 Espiona            |  1.8  |    -10   |
 | :boom:            | 2022-04-13 | hawkesbury R5        | 2 Calgary Queen      |  3.3  |     23   |
 | :boom:            | 2022-04-13 | hawkesbury R3        | 1 Norwegian Bliss    |  2.3  |     13   |
 | :boom:            | 2022-04-13 | hawkesbury R1        | 5 In Secret          |  2.7  |     17   |

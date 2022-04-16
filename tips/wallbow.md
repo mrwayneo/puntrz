@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-04-16 10:19:38 +1000  
+date: 2022-04-16 10:27:01 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
+| 15:10             | 2022-04-16 | randwick R7         | 2 Polly Grey       |  4    |      -10 |
 | :3rd_place_medal: | 2022-04-13 | hawkesbury R3       | 4 Sacrimony        |  5.5  |      -10 |
 | 0                 | 2022-04-06 | canterbury R4       | 13 Vivid Flash     |  0    |      -10 |
 | 0                 | 2022-04-06 | canterbury R2       | 2 Naval Seal       |  0    |      -10 |
