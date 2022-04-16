@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 17:37:11 +1000  
+date: 2022-04-16 17:52:27 +1000  
 ---   
 
 
@@ -128,8 +128,8 @@ date: 2022-04-16 17:37:11 +1000
 | 43 | :soon:            | 2022-04-16 19:02:00 | ascot          |      9 |        3 | Alien From Mars    |   7.5  | benny,overthrow      |
 | 44 | :soon:            | 2022-04-16 18:05:00 | sha-tin        |      7 |        2 | Run Run Cool       |   0    | vulture              |
 | 45 | :soon:            | 2022-04-16 17:55:00 | alice-springs  |      7 |        8 | Dakota Lee         |   1.09 | overthrow,lago       |
-| 46 | :soon:            | 2022-04-16 17:50:00 | ascot          |      7 |       10 | Otheroneson        |   2.2  | benny,overthrow      |
-| 47 | :soon:            | 2022-04-16 17:50:00 | ascot          |      7 |        4 | Time Scale         |   5    | pangea               |
+| 46 | --                | 2022-04-16 17:50:00 | ascot          |      7 |       10 | Otheroneson        |   2.2  | benny,overthrow      |
+| 47 | --                | 2022-04-16 17:50:00 | ascot          |      7 |        4 | Time Scale         |   5    | pangea               |
 | 48 | :3rd_place_medal: | 2022-04-16 17:25:00 | alice-springs  |      6 |        1 | Rockford Files     |   3.9  | moechilli            |
 | 49 | 7.0               | 2022-04-16 17:10:00 | ascot          |      6 |        2 | Excellent Dream    |  15    | pangea,blackshadow   |
 | 50 | :boom:            | 2022-04-16 16:57:00 | oakbank        |      8 |        1 | All Banter         |   3.9  | vulture              |
