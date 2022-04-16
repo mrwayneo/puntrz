@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 12:07:03 +1000  
+date: 2022-04-16 12:21:58 +1000  
 ---   
 
 
@@ -21,10 +21,10 @@ date: 2022-04-16 12:07:03 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      9 |      0 |    -90   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |   -110   | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      0 |   -180   | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     30 |      1 |   -279   | 0.03 | -0.93 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     29 |      0 |   -290   | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     30 |      0 |   -300   | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      2 |   -310.5 | 0.06 | -0.89 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     51 |      1 |   -330   | 0.02 | -0.65 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      1 |   -331.5 | 0.03 | -0.95 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     39 |      1 |   -358   | 0.03 | -0.92 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    112 |      1 |   -940   | 0.01 | -0.84 |
 
@@ -173,8 +173,8 @@ date: 2022-04-16 12:07:03 +1000
 | 88 | :soon:            | 2022-04-16 12:32:00 | oakbank        |      1 |        8 | Rue Vivienne       |   5.5  | vulture              |
 | 89 | :soon:            | 2022-04-16 12:29:00 | te-rapa        |      5 |        6 | Blue Moon          |   4.8  | benny,pangea         |
 | 90 | :soon:            | 2022-04-16 12:25:00 | kembla-grange  |      1 |        5 | Surething To Win   |   5.5  | evenodds,blackshadow |
-| 91 | :soon:            | 2022-04-16 12:20:00 | caulfield      |      1 |        2 | Jamarra            |   3.4  | evenodds,overthrow   |
-| 92 | :soon:            | 2022-04-16 12:13:00 | eagle-farm     |      2 |        5 | Namazu             |   2.9  | evenodds,overthrow   |
+| 91 | --                | 2022-04-16 12:20:00 | caulfield      |      1 |        2 | Jamarra            |   3.4  | evenodds,overthrow   |
+| 92 | --                | 2022-04-16 12:13:00 | eagle-farm     |      2 |        5 | Namazu             |   2.9  | evenodds,overthrow   |
 | 93 | --                | 2022-04-16 11:54:00 | te-rapa        |      4 |        2 | Our Hail Mary      |   4.75 | benny,pangea         |
 | 94 | :2nd_place_medal: | 2022-04-16 11:54:00 | te-rapa        |      4 |        5 | He's A Doozy       |   3.9  | vulture              |
 | 95 | --                | 2022-04-16 11:38:00 | hastings       |      3 |        1 | Hemi Ridapest      |   7.5  | vulture              |
