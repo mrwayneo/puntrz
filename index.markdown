@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 18:07:21 +1000  
+date: 2022-04-16 18:22:27 +1000  
 ---   
 
 
@@ -23,7 +23,7 @@ date: 2022-04-16 18:07:21 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      3 |    -71.5 | 0.17 | -0.4  |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      8 |      0 |    -80   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |   -110   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     39 |      5 |   -170   | 0.13 | -0.44 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     39 |      6 |   -135   | 0.15 | -0.35 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     29 |      0 |   -290   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     51 |      1 |   -330   | 0.02 | -0.65 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    112 |      2 |   -867   | 0.02 | -0.77 |
@@ -126,10 +126,10 @@ date: 2022-04-16 18:07:21 +1000
 | 41 | :soon:            | 2022-04-16 22:09:00 | carlisle       |      1 |        1 | Zafar              |   5.5  | evenodds,blackshadow |
 | 42 | :soon:            | 2022-04-16 21:30:00 | newton-abbot   |      1 |        2 | Knappers Hill      |   1.42 | overthrow,milkman    |
 | 43 | :soon:            | 2022-04-16 19:02:00 | ascot          |      9 |        3 | Alien From Mars    |   7.5  | benny,overthrow      |
-| 44 | --                | 2022-04-16 18:05:00 | sha-tin        |      7 |        2 | Run Run Cool       |   0    | vulture              |
+| 44 | :boom:            | 2022-04-16 18:05:00 | sha-tin        |      7 |        2 | Run Run Cool       |   0    | vulture              |
 | 45 | --                | 2022-04-16 17:55:00 | alice-springs  |      7 |        8 | Dakota Lee         |   1.09 | overthrow,lago       |
 | 46 | :2nd_place_medal: | 2022-04-16 17:50:00 | ascot          |      7 |       10 | Otheroneson        |   2.2  | benny,overthrow      |
-| 47 | --                | 2022-04-16 17:50:00 | ascot          |      7 |        4 | Time Scale         |   5    | pangea               |
+| 47 | 7.0               | 2022-04-16 17:50:00 | ascot          |      7 |        4 | Time Scale         |   5    | pangea               |
 | 48 | :3rd_place_medal: | 2022-04-16 17:25:00 | alice-springs  |      6 |        1 | Rockford Files     |   3.9  | moechilli            |
 | 49 | 7.0               | 2022-04-16 17:10:00 | ascot          |      6 |        2 | Excellent Dream    |  15    | pangea,blackshadow   |
 | 50 | :boom:            | 2022-04-16 16:57:00 | oakbank        |      8 |        1 | All Banter         |   3.9  | vulture              |
