@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 17:07:30 +1000  
+date: 2022-04-16 17:22:16 +1000  
 ---   
 
 
@@ -13,11 +13,11 @@ date: 2022-04-16 17:07:30 +1000
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      1 |     34   | 1    |  3.4  |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      1 |     10   | 1    |  1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      9 |      2 |      3   | 0.22 |  0.03 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      5 |      2   | 0.14 |  0.01 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |    -10   | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      1 |      0 |    -10   | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |    -10   | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      0 |    -20   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      4 |    -24   | 0.11 | -0.07 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      3 |      0 |    -30   | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      5 |      0 |    -50   | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      3 |    -71.5 | 0.17 | -0.4  |
@@ -131,10 +131,10 @@ date: 2022-04-16 17:07:30 +1000
 | 46 | :soon:            | 2022-04-16 17:50:00 | ascot          |      7 |       10 | Otheroneson        |   2.2  | benny,overthrow      |
 | 47 | :soon:            | 2022-04-16 17:50:00 | ascot          |      7 |        4 | Time Scale         |   5    | pangea               |
 | 48 | :soon:            | 2022-04-16 17:25:00 | alice-springs  |      6 |        1 | Rockford Files     |   3.9  | moechilli            |
-| 49 | :soon:            | 2022-04-16 17:10:00 | ascot          |      6 |        2 | Excellent Dream    |  15    | pangea,blackshadow   |
+| 49 | --                | 2022-04-16 17:10:00 | ascot          |      6 |        2 | Excellent Dream    |  15    | pangea,blackshadow   |
 | 50 | :boom:            | 2022-04-16 16:57:00 | oakbank        |      8 |        1 | All Banter         |   3.9  | vulture              |
 | 51 | :2nd_place_medal: | 2022-04-16 16:57:00 | oakbank        |      8 |       15 | Gaze Grise         |   8.5  | vulture              |
-| 52 | --                | 2022-04-16 16:57:00 | oakbank        |      8 |        3 | Rock The Ring      |   2.75 | pangea               |
+| 52 | 6.0               | 2022-04-16 16:57:00 | oakbank        |      8 |        3 | Rock The Ring      |   2.75 | pangea               |
 | 53 | 4.0               | 2022-04-16 16:52:00 | alice-springs  |      5 |        4 | Desert Lass        |   4.6  | vulture              |
 | 54 | :2nd_place_medal: | 2022-04-16 16:52:00 | alice-springs  |      5 |        7 | Jet Jackson        |   9.5  | benny,icyhot         |
 | 55 | :boom:            | 2022-04-16 16:22:00 | oakbank        |      7 |        6 | Does It            |   2.9  | vulture,pangea       |
