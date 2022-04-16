@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 13:52:12 +1000  
+date: 2022-04-16 14:07:11 +1000  
 ---   
 
 
@@ -9,9 +9,9 @@ date: 2022-04-16 13:52:12 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      1 |     10   | 1    |  1    |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |    -10   | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      1 |      0 |    -10   | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |    -10   | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |    -10   | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |    -10   | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      2 |      0 |    -20   | 0    | -1    |
@@ -20,7 +20,7 @@ date: 2022-04-16 13:52:12 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      8 |      0 |    -80   | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      9 |      0 |    -90   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |   -110   | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      2 |   -114.5 | 0.11 | -0.64 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      2 |   -115.5 | 0.11 | -0.64 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     30 |      1 |   -279   | 0.03 | -0.93 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     29 |      0 |   -290   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     39 |      2 |   -298   | 0.05 | -0.76 |
@@ -157,12 +157,12 @@ date: 2022-04-16 13:52:12 +1000
 | 72 | :soon:            | 2022-04-16 14:25:00 | randwick       |      6 |        2 | Gem Song           |   8.5  | vulture              |
 | 73 | :soon:            | 2022-04-16 14:18:00 | te-rapa        |      8 |        6 | Tellall            |   3.6  | benny,pangea         |
 | 74 | :soon:            | 2022-04-16 14:10:00 | kembla-grange  |      4 |        5 | Wild Irish Rover   |   3.9  | looseknot            |
-| 75 | :soon:            | 2022-04-16 14:05:00 | caulfield      |      4 |        7 | Tavabeel           |  16    | benny,pangea         |
-| 76 | :soon:            | 2022-04-16 14:05:00 | caulfield      |      4 |        2 | Ashy Boy           |   7.5  | vulture              |
-| 77 | :soon:            | 2022-04-16 14:05:00 | caulfield      |      4 |        1 | The Cunning Fox    |   5    | vulture,milkman      |
-| 78 | :soon:            | 2022-04-16 14:00:00 | clare          |      2 |        4 | Nordic Lass        |   5    | looseknot            |
+| 75 | --                | 2022-04-16 14:05:00 | caulfield      |      4 |        7 | Tavabeel           |  16    | benny,pangea         |
+| 76 | --                | 2022-04-16 14:05:00 | caulfield      |      4 |        2 | Ashy Boy           |   7.5  | vulture              |
+| 77 | --                | 2022-04-16 14:05:00 | caulfield      |      4 |        1 | The Cunning Fox    |   5    | vulture,milkman      |
+| 78 | :3rd_place_medal: | 2022-04-16 14:00:00 | clare          |      2 |        4 | Nordic Lass        |   5    | looseknot            |
 | 79 | :soon:            | 2022-04-16 13:54:00 | ascot          |      1 |        5 | Lexington City     |   7    | evenodds,blackshadow |
-| 80 | --                | 2022-04-16 13:50:00 | randwick       |      5 |        2 | Espiona            |   1.8  | jmac                 |
+| 80 | :boom:            | 2022-04-16 13:50:00 | randwick       |      5 |        2 | Espiona            |   1.8  | jmac                 |
 | 81 | :boom:            | 2022-04-16 13:39:00 | te-rapa        |      7 |        7 | Imperatriz         |   2.2  | milkman              |
 | 82 | :2nd_place_medal: | 2022-04-16 13:30:00 | caulfield      |      3 |        2 | Through Irish Eyes |   4.6  | overthrow            |
 | 83 | :3rd_place_medal: | 2022-04-16 13:23:00 | eagle-farm     |      4 |        1 | Acceber            |   4.6  | milkman              |
