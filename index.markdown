@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-16 14:07:11 +1000  
+date: 2022-04-16 14:22:14 +1000  
 ---   
 
 
@@ -20,7 +20,7 @@ date: 2022-04-16 14:07:11 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      8 |      0 |    -80   | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      9 |      0 |    -90   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     11 |      0 |   -110   | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      2 |   -115.5 | 0.11 | -0.64 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     18 |      2 |   -115   | 0.11 | -0.64 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     30 |      1 |   -279   | 0.03 | -0.93 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     29 |      0 |   -290   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     39 |      2 |   -298   | 0.05 | -0.76 |
@@ -155,11 +155,11 @@ date: 2022-04-16 14:07:11 +1000
 | 70 | :soon:            | 2022-04-16 14:25:00 | randwick       |      6 |        5 | Trumbull           |  22    | pikey                |
 | 71 | :soon:            | 2022-04-16 14:25:00 | randwick       |      6 |        1 | Kementari          |   5.5  | benny,pangea         |
 | 72 | :soon:            | 2022-04-16 14:25:00 | randwick       |      6 |        2 | Gem Song           |   8.5  | vulture              |
-| 73 | :soon:            | 2022-04-16 14:18:00 | te-rapa        |      8 |        6 | Tellall            |   3.6  | benny,pangea         |
-| 74 | :soon:            | 2022-04-16 14:10:00 | kembla-grange  |      4 |        5 | Wild Irish Rover   |   3.9  | looseknot            |
-| 75 | --                | 2022-04-16 14:05:00 | caulfield      |      4 |        7 | Tavabeel           |  16    | benny,pangea         |
-| 76 | --                | 2022-04-16 14:05:00 | caulfield      |      4 |        2 | Ashy Boy           |   7.5  | vulture              |
-| 77 | --                | 2022-04-16 14:05:00 | caulfield      |      4 |        1 | The Cunning Fox    |   5    | vulture,milkman      |
+| 73 | --                | 2022-04-16 14:18:00 | te-rapa        |      8 |        6 | Tellall            |   3.6  | benny,pangea         |
+| 74 | --                | 2022-04-16 14:10:00 | kembla-grange  |      4 |        5 | Wild Irish Rover   |   3.9  | looseknot            |
+| 75 | 9.0               | 2022-04-16 14:05:00 | caulfield      |      4 |        7 | Tavabeel           |  16    | benny,pangea         |
+| 76 | 4.0               | 2022-04-16 14:05:00 | caulfield      |      4 |        2 | Ashy Boy           |   7.5  | vulture              |
+| 77 | :2nd_place_medal: | 2022-04-16 14:05:00 | caulfield      |      4 |        1 | The Cunning Fox    |   5    | vulture,milkman      |
 | 78 | :3rd_place_medal: | 2022-04-16 14:00:00 | clare          |      2 |        4 | Nordic Lass        |   5    | looseknot            |
 | 79 | :soon:            | 2022-04-16 13:54:00 | ascot          |      1 |        5 | Lexington City     |   7    | evenodds,blackshadow |
 | 80 | :boom:            | 2022-04-16 13:50:00 | randwick       |      5 |        2 | Espiona            |   1.8  | jmac                 |
