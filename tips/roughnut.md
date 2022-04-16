@@ -1,29 +1,29 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-04-15 22:18:53 +1000  
+date: 2022-04-16 10:14:40 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     45 |      4 |    -89   | 0.09 | -0.2  |
-| Last 28 Days   |    769 |     37 |  -2335   | 0.05 | -0.3  |
-| Last 6 Months  |   8207 |    370 | -27061.5 | 0.05 | -0.33 |
-| Since Jan 2020 |  19991 |   1026 | -44774   | 0.05 | -0.22 |
+| Last 7 Days    |     68 |      4 |   -319   | 0.06 | -0.47 |
+| Last 28 Days   |    704 |     31 |  -3060   | 0.04 | -0.43 |
+| Last 6 Months  |   8230 |    370 | -27291.5 | 0.04 | -0.33 |
+| Since Jan 2020 |  20014 |   1026 | -45004   | 0.05 | -0.22 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:00             | 2022-04-16 | chelmsford-city R6            | 7 Octopus             |  11    |    -10   |
-| 01:15             | 2022-04-16 | newcastle R6                  | 3 Halimi              |  26    |    -10   |
-| 01:15             | 2022-04-16 | newcastle R6                  | 11 Moliwood           |  21    |    -10   |
-| 01:15             | 2022-04-16 | newcastle R6                  | 2 Grandmaster Flash   |  12    |    -10   |
-| 00:55             | 2022-04-16 | chelmsford-city R4            | 1 Nao Da Mais         |  21    |    -10   |
-| 23:35             | 2022-04-15 | newcastle R3                  | 5 Good Effort         |   9.5  |    -10   |
-| 23:35             | 2022-04-15 | newcastle R3                  | 9 May Sonic           |  51    |    -10   |
-| 23:00             | 2022-04-15 | newcastle R2                  | 9 San Andreas         |  11    |    -10   |
-| 22:45             | 2022-04-15 | lingfield R2                  | 4 Author's Dream      |  26    |    -10   |
+| 0                 | 2022-04-16 | chelmsford-city R6            | 7 Octopus             |   0    |    -10   |
+| 0                 | 2022-04-16 | newcastle R6                  | 3 Halimi              |   0    |    -10   |
+| 0                 | 2022-04-16 | newcastle R6                  | 11 Moliwood           |   0    |    -10   |
+| 0                 | 2022-04-16 | newcastle R6                  | 2 Grandmaster Flash   |   0    |    -10   |
+| 0                 | 2022-04-16 | chelmsford-city R4            | 1 Nao Da Mais         |   0    |    -10   |
+| 0                 | 2022-04-15 | newcastle R3                  | 5 Good Effort         |   0    |    -10   |
+| 0                 | 2022-04-15 | newcastle R3                  | 9 May Sonic           |   0    |    -10   |
+| 0                 | 2022-04-15 | newcastle R2                  | 9 San Andreas         |   0    |    -10   |
+| 0                 | 2022-04-15 | lingfield R2                  | 4 Author's Dream      |   0    |    -10   |
 | :3rd_place_medal: | 2022-04-15 | fairview R3                   | 6 Rio Supremo         |   7    |    -10   |
 | 6                 | 2022-04-15 | ascot R9                      | 5 Bold Success        |  20    |    -10   |
 | 8                 | 2022-04-15 | kalgoorlie R7                 | 10 Town Hall          |  23    |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-04-15 22:18:51 +1000  
+date: 2022-04-16 10:14:38 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      3 |      1 |     -7.5 | 0.33 | -0.25 |
-| Last 28 Days   |     63 |      3 |   -569.5 | 0.05 | -0.9  |
+| Last 28 Days   |     61 |      2 |   -549.5 | 0.03 | -0.9  |
 | Last 6 Months  |    590 |     75 |  -1462.5 | 0.13 | -0.25 |
 | Since Jan 2020 |   1501 |    212 |  -2785.3 | 0.14 | -0.19 |
 

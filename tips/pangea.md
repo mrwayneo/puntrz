@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2022-04-15 22:18:48 +1000  
+date: 2022-04-16 10:14:35 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      3 |    333   | 0.6  |  6.66 |
-| Last 28 Days   |    178 |     30 |   -253   | 0.17 | -0.14 |
-| Last 6 Months  |   1874 |    369 |  -4112.4 | 0.2  | -0.22 |
-| Since Jan 2020 |   5010 |   1047 |  -5140.3 | 0.21 | -0.1  |
+| Last 7 Days    |     17 |      7 |    451   | 0.41 |  2.65 |
+| Last 28 Days   |    149 |     28 |    -45   | 0.19 | -0.03 |
+| Last 6 Months  |   1886 |    373 |  -3994.4 | 0.2  | -0.21 |
+| Since Jan 2020 |   5022 |   1051 |  -5022.3 | 0.21 | -0.1  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:35             | 2022-04-16 | lingfield R7                  | 4 Pretty Sweet        |   6    |    -10   |
-| 23:00             | 2022-04-15 | newcastle R2                  | 8 My Oberon           |   2.45 |    -10   |
+| 0                 | 2022-04-16 | lingfield R7                  | 4 Pretty Sweet        |   0    |    -10   |
+| 0                 | 2022-04-15 | newcastle R2                  | 8 My Oberon           |   0    |    -10   |
 | :2nd_place_medal: | 2022-04-15 | ascot R8                      | 8 Buzzoom             |   2.45 |    -10   |
 | 5                 | 2022-04-15 | ascot R8                      | 4 This'll Testya      |   4.6  |    -10   |
 | :boom:            | 2022-04-15 | launceston R8                 | 5 Eighty Eight Days   |   2.6  |     16   |

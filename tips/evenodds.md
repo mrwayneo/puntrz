@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2022-04-15 22:18:47 +1000  
+date: 2022-04-16 10:14:34 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      2 |     27   | 0.5  |  0.68 |
-| Last 28 Days   |     72 |     15 |   -267.5 | 0.21 | -0.37 |
-| Last 6 Months  |    597 |    142 |  -2080.3 | 0.24 | -0.35 |
-| Since Jan 2020 |   1498 |    404 |  -3216.5 | 0.27 | -0.21 |
+| Last 7 Days    |      7 |      3 |     23   | 0.43 |  0.33 |
+| Last 28 Days   |     69 |     14 |   -271.5 | 0.2  | -0.39 |
+| Last 6 Months  |    600 |    143 |  -2084.3 | 0.24 | -0.35 |
+| Since Jan 2020 |   1501 |    405 |  -3220.5 | 0.27 | -0.21 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 01:15             | 2022-04-16 | newcastle R6                 | 10 Marshall Plan      |   7.5  |    -10   |
-| 22:45             | 2022-04-15 | lingfield R2                 | 1 Honor And Pleasure  |   2.7  |    -10   |
+| 0                 | 2022-04-16 | newcastle R6                 | 10 Marshall Plan      |   0    |    -10   |
+| 0                 | 2022-04-15 | lingfield R2                 | 1 Honor And Pleasure  |   0    |    -10   |
 | :boom:            | 2022-04-15 | launceston R8                | 5 Eighty Eight Days   |   2.6  |     16   |
 | :boom:            | 2022-04-14 | newmarket R7                 | 4 Tranquil Night      |   4.4  |     34   |
 | :2nd_place_medal: | 2022-04-14 | newmarket R6                 | 1 Aldous Huxley       |   2.5  |    -10   |

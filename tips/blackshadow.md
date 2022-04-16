@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-04-15 22:18:50 +1000  
+date: 2022-04-16 10:14:36 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |     23 |      3 |      -98 | 0.13 | -0.43 |
-| Last 6 Months  |    320 |     69 |     -737 | 0.22 | -0.23 |
-| Since Jan 2020 |    900 |    214 |    -1063 | 0.24 | -0.12 |
+| Last 7 Days    |      2 |      1 |        6 | 0.5  |  0.3  |
+| Last 28 Days   |     20 |      3 |      -91 | 0.15 | -0.46 |
+| Last 6 Months  |    322 |     70 |     -731 | 0.22 | -0.23 |
+| Since Jan 2020 |    902 |    215 |    -1057 | 0.24 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 23:35             | 2022-04-15 | newcastle R3                  | 1 Bouttemont          | 11    |    -10   |
+| 0                 | 2022-04-15 | newcastle R3                  | 1 Bouttemont          |  0    |    -10   |
 | :boom:            | 2022-04-15 | launceston R8                 | 5 Eighty Eight Days   |  2.6  |     16   |
 | 0                 | 2022-04-07 | darwin R4                     | 2 Chief Mondo         |  0    |    -10   |
 | 0                 | 2022-04-07 | darwin R2                     | 4 Obligatory          |  0    |    -10   |

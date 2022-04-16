@@ -1,29 +1,29 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-04-15 22:18:47 +1000  
+date: 2022-04-16 10:14:34 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     17 |      5 |     41.5 | 0.29 |  0.24 |
-| Last 28 Days   |    280 |     50 |  -1250.9 | 0.18 | -0.45 |
-| Last 6 Months  |   2520 |    607 |  -5580.5 | 0.24 | -0.22 |
-| Since Jan 2020 |   7228 |   1742 | -12259.9 | 0.24 | -0.17 |
+| Last 7 Days    |     32 |      8 |     10.5 | 0.25 |  0.03 |
+| Last 28 Days   |    249 |     43 |  -1065.9 | 0.17 | -0.43 |
+| Last 6 Months  |   2535 |    610 |  -5611.5 | 0.24 | -0.22 |
+| Since Jan 2020 |   7243 |   1745 | -12290.9 | 0.24 | -0.17 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:00             | 2022-04-16 | chelmsford-city R6            | 10 Flintstone         |   2.6  |    -10   |
-| 01:45             | 2022-04-16 | newcastle R7                  | 2 Charlesquint        |  16    |    -10   |
-| 01:35             | 2022-04-16 | lingfield R7                  | 9 Fountain Cross      |   9    |    -10   |
-| 01:35             | 2022-04-16 | lingfield R7                  | 3 Baldomero           |   5.5  |    -10   |
-| 23:55             | 2022-04-15 | lingfield R4                  | 5 Zameka              |   3    |    -10   |
-| 23:35             | 2022-04-15 | newcastle R3                  | 1 Bouttemont          |  11    |    -10   |
-| 23:20             | 2022-04-15 | lingfield R3                  | 1 Tommy de Vito       |   4.75 |    -10   |
-| 23:00             | 2022-04-15 | newcastle R2                  | 4 Fort Payne          |   9.5  |    -10   |
-| 22:45             | 2022-04-15 | lingfield R2                  | 1 Honor And Pleasure  |   2.7  |    -10   |
+| 0                 | 2022-04-16 | chelmsford-city R6            | 10 Flintstone         |   0    |    -10   |
+| 0                 | 2022-04-16 | newcastle R7                  | 2 Charlesquint        |   0    |    -10   |
+| 0                 | 2022-04-16 | lingfield R7                  | 9 Fountain Cross      |   0    |    -10   |
+| 0                 | 2022-04-16 | lingfield R7                  | 3 Baldomero           |   0    |    -10   |
+| 0                 | 2022-04-15 | lingfield R4                  | 5 Zameka              |   0    |    -10   |
+| 0                 | 2022-04-15 | newcastle R3                  | 1 Bouttemont          |   0    |    -10   |
+| 0                 | 2022-04-15 | lingfield R3                  | 1 Tommy de Vito       |   0    |    -10   |
+| 0                 | 2022-04-15 | newcastle R2                  | 4 Fort Payne          |   0    |    -10   |
+| 0                 | 2022-04-15 | lingfield R2                  | 1 Honor And Pleasure  |   0    |    -10   |
 | :boom:            | 2022-04-15 | launceston R8                 | 5 Eighty Eight Days   |   2.6  |     16   |
 | 8                 | 2022-04-15 | ascot R4                      | 2 Samsurian           |   5    |    -10   |
 | 6                 | 2022-04-15 | sale R6                       | 6 Lombardo            |   5    |    -10   |

@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-04-15 22:18:49 +1000  
+date: 2022-04-16 10:14:36 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     14 |      5 |      5.6 | 0.36 |  0.04 |
-| Last 28 Days   |    269 |     50 |  -1095.9 | 0.19 | -0.41 |
-| Last 6 Months  |   2336 |    546 |  -6235.5 | 0.23 | -0.27 |
-| Since Jan 2020 |   5646 |   1409 |  -8044.1 | 0.25 | -0.14 |
+| Last 7 Days    |     22 |      7 |    -28.4 | 0.32 | -0.13 |
+| Last 28 Days   |    250 |     46 |  -1071.9 | 0.18 | -0.43 |
+| Last 6 Months  |   2344 |    548 |  -6269.5 | 0.23 | -0.27 |
+| Since Jan 2020 |   5654 |   1411 |  -8078.1 | 0.25 | -0.14 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 01:15             | 2022-04-16 | newcastle R6                 | 10 Marshall Plan      |   7.5  |    -10   |
-| 22:45             | 2022-04-15 | lingfield R2                 | 1 Honor And Pleasure  |   2.7  |    -10   |
+| 0                 | 2022-04-16 | newcastle R6                 | 10 Marshall Plan      |   0    |    -10   |
+| 0                 | 2022-04-15 | lingfield R2                 | 1 Honor And Pleasure  |   0    |    -10   |
 | :2nd_place_medal: | 2022-04-15 | ascot R8                     | 8 Buzzoom             |   2.45 |    -10   |
 | 5                 | 2022-04-15 | ascot R6                     | 6 Strakin             |   6    |    -10   |
 | :boom:            | 2022-04-15 | launceston R8                | 5 Eighty Eight Days   |   2.6  |     16   |

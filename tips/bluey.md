@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-04-15 22:18:56 +1000  
+date: 2022-04-16 10:14:43 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
-| Last 28 Days   |     10 |      0 |     -100 | 0    | -1    |
+| Last 28 Days   |      8 |      0 |      -80 | 0    | -1    |
 | Last 6 Months  |     92 |     12 |      988 | 0.13 |  1.07 |
 | Since Jan 2020 |    251 |     43 |     4659 | 0.17 |  1.86 |
 

@@ -1,21 +1,22 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-04-15 22:18:51 +1000  
+date: 2022-04-16 10:14:38 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      4 |      2 |      8   | 0.5  |  0.2  |
-| Last 6 Months  |     52 |     13 |    219.2 | 0.25 |  0.42 |
-| Since Jan 2020 |    123 |     35 |    784.6 | 0.28 |  0.64 |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
+| Last 28 Days   |      6 |      2 |    -12   | 0.33 | -0.2  |
+| Last 6 Months  |     54 |     13 |    199.2 | 0.24 |  0.37 |
+| Since Jan 2020 |    125 |     35 |    764.6 | 0.28 |  0.61 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 23:00             | 2022-04-15 | newcastle R2           | 1 Amilcar            |   7    |    -10   |
-| 22:45             | 2022-04-15 | lingfield R2           | 1 Honor And Pleasure |   2.7  |    -10   |
+| 0                 | 2022-04-15 | newcastle R2           | 1 Amilcar            |   0    |    -10   |
+| 0                 | 2022-04-15 | lingfield R2           | 1 Honor And Pleasure |   0    |    -10   |
 | 0                 | 2022-04-07 | darwin R2              | 5 Blueant            |   0    |    -10   |
 | :boom:            | 2022-03-29 | mackay R4              | 3 Cabalo Escuro      |   1.7  |      7   |
 | :boom:            | 2022-03-25 | darwin R3              | 3 Poupee             |   3.1  |     21   |

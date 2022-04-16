@@ -1,26 +1,26 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-04-15 22:18:50 +1000  
+date: 2022-04-16 10:14:37 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     18 |      2 |       35 | 0.11 |  0.19 |
-| Last 28 Days   |    218 |     15 |       55 | 0.07 |  0.03 |
-| Last 6 Months  |   2390 |    125 |    -5027 | 0.05 | -0.21 |
-| Since Jan 2020 |   5903 |    347 |    -1256 | 0.06 | -0.02 |
+| Last 7 Days    |     32 |      2 |     -105 | 0.06 | -0.33 |
+| Last 28 Days   |    189 |      9 |     -624 | 0.05 | -0.33 |
+| Last 6 Months  |   2404 |    125 |    -5167 | 0.05 | -0.21 |
+| Since Jan 2020 |   5917 |    347 |    -1396 | 0.06 | -0.02 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:00             | 2022-04-16 | chelmsford-city R6            | 7 Octopus             |  11    |      -10 |
-| 01:15             | 2022-04-16 | newcastle R6                  | 11 Moliwood           |  21    |      -10 |
-| 00:55             | 2022-04-16 | chelmsford-city R4            | 1 Nao Da Mais         |  21    |      -10 |
-| 23:35             | 2022-04-15 | newcastle R3                  | 9 May Sonic           |  51    |      -10 |
-| 23:35             | 2022-04-15 | newcastle R3                  | 5 Good Effort         |   9.5  |      -10 |
-| 22:45             | 2022-04-15 | lingfield R2                  | 4 Author's Dream      |  26    |      -10 |
+| 0                 | 2022-04-16 | chelmsford-city R6            | 7 Octopus             |   0    |      -10 |
+| 0                 | 2022-04-16 | newcastle R6                  | 11 Moliwood           |   0    |      -10 |
+| 0                 | 2022-04-16 | chelmsford-city R4            | 1 Nao Da Mais         |   0    |      -10 |
+| 0                 | 2022-04-15 | newcastle R3                  | 9 May Sonic           |   0    |      -10 |
+| 0                 | 2022-04-15 | newcastle R3                  | 5 Good Effort         |   0    |      -10 |
+| 0                 | 2022-04-15 | lingfield R2                  | 4 Author's Dream      |   0    |      -10 |
 | 8                 | 2022-04-15 | kalgoorlie R7                 | 10 Town Hall          |  23    |      -10 |
 | 4                 | 2022-04-15 | kalgoorlie R7                 | 6 Gluten Free         |  10    |      -10 |
 | 11                | 2022-04-15 | ascot R5                      | 5 Reel Safe           |  26    |      -10 |
