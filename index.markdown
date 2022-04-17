@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-17 21:52:37 +1000  
+date: 2022-04-17 22:14:41 +1000  
 ---   
 
 
@@ -102,7 +102,7 @@ date: 2022-04-17 21:52:37 +1000
 | 25 | :soon:            | 2022-04-17 23:05:00 | ffos-las       |      3 |        1 | Heronord           |   8    | looseknot          |
 | 26 | :soon:            | 2022-04-17 22:53:00 | market-rasen   |      1 |        1 | Chocca Mocha       |   5    | overthrow          |
 | 27 | :soon:            | 2022-04-17 22:45:00 | greyville      |      5 |        1 | Rex Union          |   0    | vulture            |
-| 28 | :soon:            | 2022-04-17 22:10:00 | cork           |      1 |       13 | Verdant Place      |   7    | looseknot          |
+| 28 | --                | 2022-04-17 22:10:00 | cork           |      1 |       13 | Verdant Place      |   7    | looseknot          |
 | 29 | --                | 2022-04-17 20:30:00 | greyville      |      1 |        6 | Sundance Kid       |   0    | milkman            |
 | 30 | 9.0               | 2022-04-17 17:05:00 | penola         |      9 |        8 | Orpheline          |   5    | looseknot          |
 | 31 | 6.0               | 2022-04-17 16:40:00 | stawell        |      7 |        6 | Lorente            |   3.6  | pangea             |
