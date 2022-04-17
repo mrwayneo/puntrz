@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-17 15:55:19 +1000  
+date: 2022-04-17 16:10:06 +1000  
 ---   
 
 
@@ -106,8 +106,8 @@ date: 2022-04-17 15:55:19 +1000
 | 29 | :soon:            | 2022-04-17 20:30:00 | greyville      |      1 |        6 | Sundance Kid       |   0    | milkman            |
 | 30 | :soon:            | 2022-04-17 17:05:00 | penola         |      9 |        8 | Orpheline          |   5    | looseknot          |
 | 31 | :soon:            | 2022-04-17 16:40:00 | stawell        |      7 |        6 | Lorente            |   3.6  | pangea             |
-| 32 | :soon:            | 2022-04-17 16:05:00 | sunshine-coast |      7 |       12 | Rose Of Sebring    |   9.5  | pangea             |
-| 33 | :soon:            | 2022-04-17 16:05:00 | sunshine-coast |      7 |       11 | Red Rubi           |  14    | pangea             |
+| 32 | --                | 2022-04-17 16:05:00 | sunshine-coast |      7 |       12 | Rose Of Sebring    |   9.5  | pangea             |
+| 33 | --                | 2022-04-17 16:05:00 | sunshine-coast |      7 |       11 | Red Rubi           |  14    | pangea             |
 | 34 | :2nd_place_medal: | 2022-04-17 15:40:00 | nowra          |      4 |        4 | Flying Annie       |   2.25 | milkman            |
 | 35 | :boom:            | 2022-04-17 15:30:00 | albany         |      3 |        2 | Tales Of Manhattan |   2.15 | vulture            |
 | 36 | :3rd_place_medal: | 2022-04-17 14:55:00 | mornington     |      4 |        8 | Excela Bella       |   5    | pangea,icyhot      |
