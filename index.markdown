@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-17 12:35:08 +1000  
+date: 2022-04-17 12:55:36 +1000  
 ---   
 
 
@@ -112,5 +112,5 @@ date: 2022-04-17 12:35:08 +1000
 | 35 | :soon:   | 2022-04-17 15:30:00 | albany         |      3 |        2 | Tales Of Manhattan |   2.15 | vulture            |
 | 36 | :soon:   | 2022-04-17 14:55:00 | mornington     |      4 |        8 | Excela Bella       |   5    | pangea,icyhot      |
 | 37 | :soon:   | 2022-04-17 14:40:00 | stawell        |      4 |        2 | Mckeever           |   2.2  | vulture,pangea     |
-| 38 | :soon:   | 2022-04-17 12:55:00 | stawell        |      1 |        9 | Zafarana           |   4.4  | looseknot          |
+| 38 | --       | 2022-04-17 12:55:00 | stawell        |      1 |        9 | Zafarana           |   4.4  | looseknot          |
 | 39 | :soon:   | 2022-04-17 12:05:00 | penola         |      1 |        3 | Grimesy            |   3.4  | evenodds,overthrow |
