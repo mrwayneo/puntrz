@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-17 17:00:45 +1000  
+date: 2022-04-17 17:15:49 +1000  
 ---   
 
 
@@ -104,8 +104,8 @@ date: 2022-04-17 17:00:45 +1000
 | 27 | :soon:            | 2022-04-17 22:45:00 | greyville      |      5 |        1 | Rex Union          |   0    | vulture            |
 | 28 | :soon:            | 2022-04-17 22:10:00 | cork           |      1 |       13 | Verdant Place      |   7    | looseknot          |
 | 29 | :soon:            | 2022-04-17 20:30:00 | greyville      |      1 |        6 | Sundance Kid       |   0    | milkman            |
-| 30 | :soon:            | 2022-04-17 17:05:00 | penola         |      9 |        8 | Orpheline          |   5    | looseknot          |
-| 31 | --                | 2022-04-17 16:40:00 | stawell        |      7 |        6 | Lorente            |   3.6  | pangea             |
+| 30 | --                | 2022-04-17 17:05:00 | penola         |      9 |        8 | Orpheline          |   5    | looseknot          |
+| 31 | 6.0               | 2022-04-17 16:40:00 | stawell        |      7 |        6 | Lorente            |   3.6  | pangea             |
 | 32 | 6.0               | 2022-04-17 16:05:00 | sunshine-coast |      7 |       12 | Rose Of Sebring    |   9.5  | pangea             |
 | 33 | :boom:            | 2022-04-17 16:05:00 | sunshine-coast |      7 |       11 | Red Rubi           |  14    | pangea             |
 | 34 | :2nd_place_medal: | 2022-04-17 15:40:00 | nowra          |      4 |        4 | Flying Annie       |   2.25 | milkman            |
