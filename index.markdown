@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-17 15:09:22 +1000  
+date: 2022-04-17 15:55:19 +1000  
 ---   
 
 
@@ -15,10 +15,10 @@ date: 2022-04-17 15:09:22 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      5 |      0 |      -50 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      7 |      0 |      -70 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      8 |      0 |      -80 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     10 |      0 |     -100 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     10 |      1 |      -83 | 0.1  | -0.83 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     17 |      0 |     -170 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     71 |      1 |     -652 | 0.01 | -0.92 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     73 |      0 |     -730 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     71 |      2 |     -542 | 0.03 | -0.76 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     73 |      1 |     -608 | 0.01 | -0.83 |
 
 ##### Form Last 20 tips   
 
@@ -108,8 +108,8 @@ date: 2022-04-17 15:09:22 +1000
 | 31 | :soon:            | 2022-04-17 16:40:00 | stawell        |      7 |        6 | Lorente            |   3.6  | pangea             |
 | 32 | :soon:            | 2022-04-17 16:05:00 | sunshine-coast |      7 |       12 | Rose Of Sebring    |   9.5  | pangea             |
 | 33 | :soon:            | 2022-04-17 16:05:00 | sunshine-coast |      7 |       11 | Red Rubi           |  14    | pangea             |
-| 34 | :soon:            | 2022-04-17 15:40:00 | nowra          |      4 |        4 | Flying Annie       |   2.25 | milkman            |
-| 35 | :soon:            | 2022-04-17 15:30:00 | albany         |      3 |        2 | Tales Of Manhattan |   2.15 | vulture            |
+| 34 | :2nd_place_medal: | 2022-04-17 15:40:00 | nowra          |      4 |        4 | Flying Annie       |   2.25 | milkman            |
+| 35 | :boom:            | 2022-04-17 15:30:00 | albany         |      3 |        2 | Tales Of Manhattan |   2.15 | vulture            |
 | 36 | :3rd_place_medal: | 2022-04-17 14:55:00 | mornington     |      4 |        8 | Excela Bella       |   5    | pangea,icyhot      |
 | 37 | :2nd_place_medal: | 2022-04-17 14:40:00 | stawell        |      4 |        2 | Mckeever           |   2.2  | vulture,pangea     |
 | 38 | :2nd_place_medal: | 2022-04-17 12:55:00 | stawell        |      1 |        9 | Zafarana           |   4.4  | looseknot          |
