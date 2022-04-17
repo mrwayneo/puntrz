@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-17 16:10:06 +1000  
+date: 2022-04-17 16:25:06 +1000  
 ---   
 
 
@@ -9,10 +9,10 @@ date: 2022-04-17 16:10:06 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      5 |      1 |       89 | 0.2  |  1.78 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      5 |      0 |      -50 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      7 |      0 |      -70 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      8 |      0 |      -80 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     10 |      1 |      -83 | 0.1  | -0.83 |
@@ -107,7 +107,7 @@ date: 2022-04-17 16:10:06 +1000
 | 30 | :soon:            | 2022-04-17 17:05:00 | penola         |      9 |        8 | Orpheline          |   5    | looseknot          |
 | 31 | :soon:            | 2022-04-17 16:40:00 | stawell        |      7 |        6 | Lorente            |   3.6  | pangea             |
 | 32 | --                | 2022-04-17 16:05:00 | sunshine-coast |      7 |       12 | Rose Of Sebring    |   9.5  | pangea             |
-| 33 | --                | 2022-04-17 16:05:00 | sunshine-coast |      7 |       11 | Red Rubi           |  14    | pangea             |
+| 33 | :boom:            | 2022-04-17 16:05:00 | sunshine-coast |      7 |       11 | Red Rubi           |  14    | pangea             |
 | 34 | :2nd_place_medal: | 2022-04-17 15:40:00 | nowra          |      4 |        4 | Flying Annie       |   2.25 | milkman            |
 | 35 | :boom:            | 2022-04-17 15:30:00 | albany         |      3 |        2 | Tales Of Manhattan |   2.15 | vulture            |
 | 36 | :3rd_place_medal: | 2022-04-17 14:55:00 | mornington     |      4 |        8 | Excela Bella       |   5    | pangea,icyhot      |
