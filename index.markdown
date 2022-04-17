@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-17 16:25:06 +1000  
+date: 2022-04-17 16:40:07 +1000  
 ---   
 
 
@@ -72,45 +72,45 @@ date: 2022-04-17 16:25:06 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6100 |    745 | -16160.9 | 0.12 | -0.26 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7593 |    323 | -28219.5 | 0.04 | -0.37 |
 
-|    | finish            | time                | track          |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:            | 2022-04-18 02:40:00 | newbury        |      8 |        4 | Private Signal     |   3.8  | overthrow          |
-|  1 | :soon:            | 2022-04-18 02:40:00 | newbury        |      8 |        8 | Whoputfiftyinyou   |   4.8  | milkman            |
-|  2 | :soon:            | 2022-04-18 02:25:00 | fairyhouse     |      7 |        3 | Icare Desbois      |   8.5  | overthrow          |
-|  3 | :soon:            | 2022-04-18 02:05:00 | newbury        |      7 |        6 | Mine's A Double    |   3    | milkman            |
-|  4 | :soon:            | 2022-04-18 01:55:00 | fairyhouse     |      6 |        4 | Galopin Des Champs |   1.25 | overthrow          |
-|  5 | :soon:            | 2022-04-18 01:55:00 | fairyhouse     |      6 |        2 | Blue Sari          |  20    | overthrow          |
-|  6 | :soon:            | 2022-04-18 01:46:00 | market-rasen   |      6 |        4 | The Bogmans Ball   |   4.4  | looseknot          |
-|  7 | :soon:            | 2022-04-18 01:31:00 | newbury        |      6 |        7 | Ahorsewithnoname   |   2.5  | vulture            |
-|  8 | :soon:            | 2022-04-18 01:31:00 | newbury        |      6 |        8 | Auriferous         |   6.5  | vulture            |
-|  9 | :soon:            | 2022-04-18 01:25:00 | ffos-las       |      7 |        6 | Queens Rock        |   1.8  | evenodds,overthrow |
-| 10 | :soon:            | 2022-04-18 01:25:00 | ffos-las       |      7 |        3 | Hurricane Vichi    |   3.8  | vulture            |
-| 11 | :soon:            | 2022-04-18 01:11:00 | market-rasen   |      5 |        2 | Give Me A Moment   |   3.1  | vulture            |
-| 12 | :soon:            | 2022-04-18 01:11:00 | market-rasen   |      5 |        4 | Clear The Runway   |   1.95 | vulture            |
-| 13 | :soon:            | 2022-04-18 00:56:00 | newbury        |      5 |        5 | West Wind Blows    |  41    | vulture            |
-| 14 | :soon:            | 2022-04-18 00:56:00 | newbury        |      5 |        4 | Walk Of Stars      |   1.65 | vulture            |
-| 15 | :soon:            | 2022-04-18 00:56:00 | newbury        |      5 |        3 | Hafit              |   2.5  | overthrow          |
-| 16 | :soon:            | 2022-04-18 00:36:00 | market-rasen   |      4 |        3 | Blueberry Wine     |   2.35 | overthrow          |
-| 17 | :soon:            | 2022-04-18 00:21:00 | newbury        |      4 |        6 | Discretion         |   8    | looseknot          |
-| 18 | :soon:            | 2022-04-18 00:21:00 | newbury        |      4 |        1 | Atlantis           |   3.9  | overthrow          |
-| 19 | :soon:            | 2022-04-18 00:10:00 | fairyhouse     |      3 |        5 | Grangee            |   6    | overthrow          |
-| 20 | :soon:            | 2022-04-18 00:10:00 | fairyhouse     |      3 |        4 | Dinoblue           |   4.8  | overthrow          |
-| 21 | :soon:            | 2022-04-18 00:10:00 | fairyhouse     |      3 |       14 | Reine Machine      |  81    | overthrow          |
-| 22 | :soon:            | 2022-04-18 00:10:00 | fairyhouse     |      3 |        2 | Brandy Love        |   4.6  | overthrow          |
-| 23 | :soon:            | 2022-04-17 23:40:00 | ffos-las       |      4 |        3 | Full Of Light      |   3.4  | overthrow          |
-| 24 | :soon:            | 2022-04-17 23:11:00 | newbury        |      2 |        9 | The Notorious Rbg  |   4    | overthrow          |
-| 25 | :soon:            | 2022-04-17 23:05:00 | ffos-las       |      3 |        1 | Heronord           |   8    | looseknot          |
-| 26 | :soon:            | 2022-04-17 22:53:00 | market-rasen   |      1 |        1 | Chocca Mocha       |   5    | overthrow          |
-| 27 | :soon:            | 2022-04-17 22:45:00 | greyville      |      5 |        1 | Rex Union          |   0    | vulture            |
-| 28 | :soon:            | 2022-04-17 22:10:00 | cork           |      1 |       13 | Verdant Place      |   7    | looseknot          |
-| 29 | :soon:            | 2022-04-17 20:30:00 | greyville      |      1 |        6 | Sundance Kid       |   0    | milkman            |
-| 30 | :soon:            | 2022-04-17 17:05:00 | penola         |      9 |        8 | Orpheline          |   5    | looseknot          |
-| 31 | :soon:            | 2022-04-17 16:40:00 | stawell        |      7 |        6 | Lorente            |   3.6  | pangea             |
-| 32 | --                | 2022-04-17 16:05:00 | sunshine-coast |      7 |       12 | Rose Of Sebring    |   9.5  | pangea             |
-| 33 | :boom:            | 2022-04-17 16:05:00 | sunshine-coast |      7 |       11 | Red Rubi           |  14    | pangea             |
-| 34 | :2nd_place_medal: | 2022-04-17 15:40:00 | nowra          |      4 |        4 | Flying Annie       |   2.25 | milkman            |
-| 35 | :boom:            | 2022-04-17 15:30:00 | albany         |      3 |        2 | Tales Of Manhattan |   2.15 | vulture            |
-| 36 | :3rd_place_medal: | 2022-04-17 14:55:00 | mornington     |      4 |        8 | Excela Bella       |   5    | pangea,icyhot      |
-| 37 | :2nd_place_medal: | 2022-04-17 14:40:00 | stawell        |      4 |        2 | Mckeever           |   2.2  | vulture,pangea     |
-| 38 | :2nd_place_medal: | 2022-04-17 12:55:00 | stawell        |      1 |        9 | Zafarana           |   4.4  | looseknot          |
-| 39 | :soon:            | 2022-04-17 12:05:00 | penola         |      1 |        3 | Grimesy            |   3.4  | evenodds,overthrow |
+|    | finish                   | time                | track          |   race |   number | name               |   odds | tipster            |
+|---:|:-------------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:                   | 2022-04-18 02:40:00 | newbury        |      8 |        4 | Private Signal     |   3.8  | overthrow          |
+|  1 | :soon:                   | 2022-04-18 02:40:00 | newbury        |      8 |        8 | Whoputfiftyinyou   |   4.8  | milkman            |
+|  2 | :soon:                   | 2022-04-18 02:25:00 | fairyhouse     |      7 |        3 | Icare Desbois      |   8.5  | overthrow          |
+|  3 | :soon:                   | 2022-04-18 02:05:00 | newbury        |      7 |        6 | Mine's A Double    |   3    | milkman            |
+|  4 | :soon:                   | 2022-04-18 01:55:00 | fairyhouse     |      6 |        4 | Galopin Des Champs |   1.25 | overthrow          |
+|  5 | :soon:                   | 2022-04-18 01:55:00 | fairyhouse     |      6 |        2 | Blue Sari          |  20    | overthrow          |
+|  6 | :soon:                   | 2022-04-18 01:46:00 | market-rasen   |      6 |        4 | The Bogmans Ball   |   4.4  | looseknot          |
+|  7 | :soon:                   | 2022-04-18 01:31:00 | newbury        |      6 |        7 | Ahorsewithnoname   |   2.5  | vulture            |
+|  8 | :soon:                   | 2022-04-18 01:31:00 | newbury        |      6 |        8 | Auriferous         |   6.5  | vulture            |
+|  9 | :soon:                   | 2022-04-18 01:25:00 | ffos-las       |      7 |        6 | Queens Rock        |   1.8  | evenodds,overthrow |
+| 10 | :soon:                   | 2022-04-18 01:25:00 | ffos-las       |      7 |        3 | Hurricane Vichi    |   3.8  | vulture            |
+| 11 | :soon:                   | 2022-04-18 01:11:00 | market-rasen   |      5 |        2 | Give Me A Moment   |   3.1  | vulture            |
+| 12 | :soon:                   | 2022-04-18 01:11:00 | market-rasen   |      5 |        4 | Clear The Runway   |   1.95 | vulture            |
+| 13 | :soon:                   | 2022-04-18 00:56:00 | newbury        |      5 |        5 | West Wind Blows    |  41    | vulture            |
+| 14 | :soon:                   | 2022-04-18 00:56:00 | newbury        |      5 |        4 | Walk Of Stars      |   1.65 | vulture            |
+| 15 | :soon:                   | 2022-04-18 00:56:00 | newbury        |      5 |        3 | Hafit              |   2.5  | overthrow          |
+| 16 | :soon:                   | 2022-04-18 00:36:00 | market-rasen   |      4 |        3 | Blueberry Wine     |   2.35 | overthrow          |
+| 17 | :soon:                   | 2022-04-18 00:21:00 | newbury        |      4 |        6 | Discretion         |   8    | looseknot          |
+| 18 | :soon:                   | 2022-04-18 00:21:00 | newbury        |      4 |        1 | Atlantis           |   3.9  | overthrow          |
+| 19 | :soon:                   | 2022-04-18 00:10:00 | fairyhouse     |      3 |        5 | Grangee            |   6    | overthrow          |
+| 20 | :soon:                   | 2022-04-18 00:10:00 | fairyhouse     |      3 |        4 | Dinoblue           |   4.8  | overthrow          |
+| 21 | :soon:                   | 2022-04-18 00:10:00 | fairyhouse     |      3 |       14 | Reine Machine      |  81    | overthrow          |
+| 22 | :soon:                   | 2022-04-18 00:10:00 | fairyhouse     |      3 |        2 | Brandy Love        |   4.6  | overthrow          |
+| 23 | :soon:                   | 2022-04-17 23:40:00 | ffos-las       |      4 |        3 | Full Of Light      |   3.4  | overthrow          |
+| 24 | :soon:                   | 2022-04-17 23:11:00 | newbury        |      2 |        9 | The Notorious Rbg  |   4    | overthrow          |
+| 25 | :soon:                   | 2022-04-17 23:05:00 | ffos-las       |      3 |        1 | Heronord           |   8    | looseknot          |
+| 26 | :soon:                   | 2022-04-17 22:53:00 | market-rasen   |      1 |        1 | Chocca Mocha       |   5    | overthrow          |
+| 27 | :soon:                   | 2022-04-17 22:45:00 | greyville      |      5 |        1 | Rex Union          |   0    | vulture            |
+| 28 | :soon:                   | 2022-04-17 22:10:00 | cork           |      1 |       13 | Verdant Place      |   7    | looseknot          |
+| 29 | :soon:                   | 2022-04-17 20:30:00 | greyville      |      1 |        6 | Sundance Kid       |   0    | milkman            |
+| 30 | :soon:                   | 2022-04-17 17:05:00 | penola         |      9 |        8 | Orpheline          |   5    | looseknot          |
+| 31 | :hourglass_flowing_sand: | 2022-04-17 16:40:00 | stawell        |      7 |        6 | Lorente            |   3.6  | pangea             |
+| 32 | 6.0                      | 2022-04-17 16:05:00 | sunshine-coast |      7 |       12 | Rose Of Sebring    |   9.5  | pangea             |
+| 33 | :boom:                   | 2022-04-17 16:05:00 | sunshine-coast |      7 |       11 | Red Rubi           |  14    | pangea             |
+| 34 | :2nd_place_medal:        | 2022-04-17 15:40:00 | nowra          |      4 |        4 | Flying Annie       |   2.25 | milkman            |
+| 35 | :boom:                   | 2022-04-17 15:30:00 | albany         |      3 |        2 | Tales Of Manhattan |   2.15 | vulture            |
+| 36 | :3rd_place_medal:        | 2022-04-17 14:55:00 | mornington     |      4 |        8 | Excela Bella       |   5    | pangea,icyhot      |
+| 37 | :2nd_place_medal:        | 2022-04-17 14:40:00 | stawell        |      4 |        2 | Mckeever           |   2.2  | vulture,pangea     |
+| 38 | :2nd_place_medal:        | 2022-04-17 12:55:00 | stawell        |      1 |        9 | Zafarana           |   4.4  | looseknot          |
+| 39 | :soon:                   | 2022-04-17 12:05:00 | penola         |      1 |        3 | Grimesy            |   3.4  | evenodds,overthrow |
