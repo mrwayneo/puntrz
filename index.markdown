@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-24 17:20:18 +1000  
+date: 2022-04-24 17:35:17 +1000  
 ---   
 
 
@@ -73,35 +73,35 @@ date: 2022-04-24 17:20:18 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5940 |    705 | -16715.6 | 0.12 | -0.28 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7358 |    309 | -27586.5 | 0.04 | -0.37 |
 
-|    | finish            | time                | track          |   race |   number | name               |   odds | tipster              |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|  0 | :soon:            | 2022-04-25 02:45:00 | wetherby       |      8 |        1 | Satanic Moon       |   2.75 | vulture              |
-|  1 | :soon:            | 2022-04-25 01:55:00 | bath           |      8 |        4 | Letter Of The Law  |   4.4  | looseknot            |
-|  2 | :soon:            | 2022-04-25 01:55:00 | bath           |      8 |        8 | Adatorio           |   7.5  | looseknot            |
-|  3 | :soon:            | 2022-04-25 00:25:00 | kenilworth     |      7 |        6 | Sugar Mountain     |   0    | vulture              |
-|  4 | :soon:            | 2022-04-25 00:05:00 | scottsville    |      8 |       13 | Procrastinator     |   0    | vulture              |
-|  5 | :soon:            | 2022-04-24 23:55:00 | wetherby       |      3 |        1 | Montassib          |   1.85 | vulture,milkman      |
-|  6 | :soon:            | 2022-04-24 23:50:00 | kenilworth     |      6 |        2 | Dancetildaylight   |   0    | vulture              |
-|  7 | :soon:            | 2022-04-24 22:55:00 | scottsville    |      6 |        8 | Glory Days         |   0    | pangea               |
-|  8 | :soon:            | 2022-04-24 22:55:00 | scottsville    |      6 |        3 | Baby Shooz         |   0    | vulture              |
-|  9 | :soon:            | 2022-04-24 22:55:00 | scottsville    |      6 |        9 | Tread Swiftly      |   0    | vulture              |
-| 10 | :soon:            | 2022-04-24 22:45:00 | wetherby       |      1 |        9 | World Without Love |   4    | looseknot            |
-| 11 | :soon:            | 2022-04-24 22:40:00 | kenilworth     |      4 |        4 | Epsom Girl         |   0    | milkman              |
-| 12 | :soon:            | 2022-04-24 22:20:00 | scottsville    |      5 |        2 | Herecomestherain   |   0    | vulture              |
-| 13 | :soon:            | 2022-04-24 22:20:00 | scottsville    |      5 |        8 | It's About Time    |   0    | vulture,pangea       |
-| 14 | :soon:            | 2022-04-24 22:20:00 | scottsville    |      5 |        9 | Lunarcam           |   0    | icyhot               |
-| 15 | :soon:            | 2022-04-24 21:45:00 | scottsville    |      4 |       10 | Great Affair       |   0    | vulture              |
-| 16 | :soon:            | 2022-04-24 21:30:00 | kenilworth     |      2 |        6 | Piroshka           |   0    | vulture              |
-| 17 | :soon:            | 2022-04-24 21:10:00 | scottsville    |      3 |        7 | Ideal Act          |   0    | vulture              |
-| 18 | :soon:            | 2022-04-24 21:10:00 | scottsville    |      3 |        2 | Spy Master         |   0    | vulture              |
-| 19 | :soon:            | 2022-04-24 20:55:00 | kenilworth     |      1 |        3 | Camille Claudel    |   0    | vulture              |
-| 20 | :soon:            | 2022-04-24 17:35:00 | sha-tin        |      7 |        6 | Beauty Mission     |   2.4  | vulture              |
-| 21 | :boom:            | 2022-04-24 16:25:00 | sha-tin        |      5 |        1 | Beauty Joy         |   3.4  | milkman              |
-| 22 | 8.0               | 2022-04-24 15:59:00 | hobart         |      8 |        7 | Stormont           |   9.5  | pangea               |
-| 23 | :boom:            | 2022-04-24 15:59:00 | hobart         |      8 |        4 | Sh'bourne Rebel    |   3.25 | evenodds,blackshadow |
-| 24 | :boom:            | 2022-04-24 15:28:00 | sunshine-coast |      7 |        4 | Safeeya            |   2.3  | evenodds,blackshadow |
-| 25 | 4.0               | 2022-04-24 15:24:00 | hobart         |      7 |        5 | Warrior Prince     |   7    | pangea               |
-| 26 | :boom:            | 2022-04-24 14:53:00 | sunshine-coast |      6 |        6 | Hard Reyva         |   2.1  | milkman              |
-| 27 | 6.0               | 2022-04-24 14:49:00 | hobart         |      6 |        9 | Our Shinkansen     |   7    | evenodds,overthrow   |
-| 28 | :2nd_place_medal: | 2022-04-24 14:15:00 | hobart         |      5 |        2 | Imagine Howe       |   2.8  | evenodds,blackshadow |
-| 29 | 7.0               | 2022-04-24 11:50:00 | hobart         |      1 |        7 | Piiink Beauty      |   1.5  | vulture              |
+|    | finish                   | time                | track          |   race |   number | name               |   odds | tipster              |
+|---:|:-------------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:---------------------|
+|  0 | :soon:                   | 2022-04-25 02:45:00 | wetherby       |      8 |        1 | Satanic Moon       |   2.75 | vulture              |
+|  1 | :soon:                   | 2022-04-25 01:55:00 | bath           |      8 |        4 | Letter Of The Law  |   4.4  | looseknot            |
+|  2 | :soon:                   | 2022-04-25 01:55:00 | bath           |      8 |        8 | Adatorio           |   7.5  | looseknot            |
+|  3 | :soon:                   | 2022-04-25 00:25:00 | kenilworth     |      7 |        6 | Sugar Mountain     |   0    | vulture              |
+|  4 | :soon:                   | 2022-04-25 00:05:00 | scottsville    |      8 |       13 | Procrastinator     |   0    | vulture              |
+|  5 | :soon:                   | 2022-04-24 23:55:00 | wetherby       |      3 |        1 | Montassib          |   1.85 | vulture,milkman      |
+|  6 | :soon:                   | 2022-04-24 23:50:00 | kenilworth     |      6 |        2 | Dancetildaylight   |   0    | vulture              |
+|  7 | :soon:                   | 2022-04-24 22:55:00 | scottsville    |      6 |        8 | Glory Days         |   0    | pangea               |
+|  8 | :soon:                   | 2022-04-24 22:55:00 | scottsville    |      6 |        3 | Baby Shooz         |   0    | vulture              |
+|  9 | :soon:                   | 2022-04-24 22:55:00 | scottsville    |      6 |        9 | Tread Swiftly      |   0    | vulture              |
+| 10 | :soon:                   | 2022-04-24 22:45:00 | wetherby       |      1 |        9 | World Without Love |   4    | looseknot            |
+| 11 | :soon:                   | 2022-04-24 22:40:00 | kenilworth     |      4 |        4 | Epsom Girl         |   0    | milkman              |
+| 12 | :soon:                   | 2022-04-24 22:20:00 | scottsville    |      5 |        2 | Herecomestherain   |   0    | vulture              |
+| 13 | :soon:                   | 2022-04-24 22:20:00 | scottsville    |      5 |        8 | It's About Time    |   0    | vulture,pangea       |
+| 14 | :soon:                   | 2022-04-24 22:20:00 | scottsville    |      5 |        9 | Lunarcam           |   0    | icyhot               |
+| 15 | :soon:                   | 2022-04-24 21:45:00 | scottsville    |      4 |       10 | Great Affair       |   0    | vulture              |
+| 16 | :soon:                   | 2022-04-24 21:30:00 | kenilworth     |      2 |        6 | Piroshka           |   0    | vulture              |
+| 17 | :soon:                   | 2022-04-24 21:10:00 | scottsville    |      3 |        7 | Ideal Act          |   0    | vulture              |
+| 18 | :soon:                   | 2022-04-24 21:10:00 | scottsville    |      3 |        2 | Spy Master         |   0    | vulture              |
+| 19 | :soon:                   | 2022-04-24 20:55:00 | kenilworth     |      1 |        3 | Camille Claudel    |   0    | vulture              |
+| 20 | :hourglass_flowing_sand: | 2022-04-24 17:35:00 | sha-tin        |      7 |        6 | Beauty Mission     |   2.4  | vulture              |
+| 21 | :boom:                   | 2022-04-24 16:25:00 | sha-tin        |      5 |        1 | Beauty Joy         |   3.4  | milkman              |
+| 22 | 8.0                      | 2022-04-24 15:59:00 | hobart         |      8 |        7 | Stormont           |   9.5  | pangea               |
+| 23 | :boom:                   | 2022-04-24 15:59:00 | hobart         |      8 |        4 | Sh'bourne Rebel    |   3.25 | evenodds,blackshadow |
+| 24 | :boom:                   | 2022-04-24 15:28:00 | sunshine-coast |      7 |        4 | Safeeya            |   2.3  | evenodds,blackshadow |
+| 25 | 4.0                      | 2022-04-24 15:24:00 | hobart         |      7 |        5 | Warrior Prince     |   7    | pangea               |
+| 26 | :boom:                   | 2022-04-24 14:53:00 | sunshine-coast |      6 |        6 | Hard Reyva         |   2.1  | milkman              |
+| 27 | 6.0                      | 2022-04-24 14:49:00 | hobart         |      6 |        9 | Our Shinkansen     |   7    | evenodds,overthrow   |
+| 28 | :2nd_place_medal:        | 2022-04-24 14:15:00 | hobart         |      5 |        2 | Imagine Howe       |   2.8  | evenodds,blackshadow |
+| 29 | 7.0                      | 2022-04-24 11:50:00 | hobart         |      1 |        7 | Piiink Beauty      |   1.5  | vulture              |
