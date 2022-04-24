@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-24 16:01:09 +1000  
+date: 2022-04-24 16:16:07 +1000  
 ---   
 
 
@@ -9,15 +9,15 @@ date: 2022-04-24 16:01:09 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      1 |       -6 | 0.33 | -0.2  |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      2 |       47 | 0.67 |  1.57 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      2 |       37 | 0.5  |  0.92 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      4 |      2 |       37 | 0.5  |  0.92 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      2 |       -3 | 0.25 | -0.04 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      1 |       -9 | 0.25 | -0.22 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      1 |      -16 | 0.25 | -0.4  |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      4 |      1 |      -16 | 0.25 | -0.4  |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      1 |      -56 | 0.12 | -0.7  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      1 |     -176 | 0.05 | -0.88 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      2 |     -123 | 0.1  | -0.62 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     24 |      0 |     -240 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     60 |      1 |     -574 | 0.02 | -0.96 |
 
@@ -98,7 +98,7 @@ date: 2022-04-24 16:01:09 +1000
 | 20 | :soon:            | 2022-04-24 17:35:00 | sha-tin        |      7 |        6 | Beauty Mission     |   2.4  | vulture              |
 | 21 | :soon:            | 2022-04-24 16:25:00 | sha-tin        |      5 |        1 | Beauty Joy         |   3.4  | milkman              |
 | 22 | --                | 2022-04-24 15:59:00 | hobart         |      8 |        7 | Stormont           |   9.5  | pangea               |
-| 23 | --                | 2022-04-24 15:59:00 | hobart         |      8 |        4 | Sh'bourne Rebel    |   3.25 | evenodds,blackshadow |
+| 23 | :boom:            | 2022-04-24 15:59:00 | hobart         |      8 |        4 | Sh'bourne Rebel    |   3.25 | evenodds,blackshadow |
 | 24 | :boom:            | 2022-04-24 15:28:00 | sunshine-coast |      7 |        4 | Safeeya            |   2.3  | evenodds,blackshadow |
 | 25 | 4.0               | 2022-04-24 15:24:00 | hobart         |      7 |        5 | Warrior Prince     |   7    | pangea               |
 | 26 | :boom:            | 2022-04-24 14:53:00 | sunshine-coast |      6 |        6 | Hard Reyva         |   2.1  | milkman              |
