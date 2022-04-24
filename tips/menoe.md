@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-04-25 07:55:42 +1000  
+date: 2022-04-25 09:23:02 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 23:05             | 2022-04-25 | lingfield R3           | 1 Goldsmith          |  1.9  |    -10   |
 | 0                 | 2022-04-08 | chelmsford-city R3     | 2 Intelligentsia     |  0    |    -10   |
 | 0                 | 2022-04-06 | sandown-lakeside R2    | 6 Rockribbed         |  0    |    -10   |
 | :boom:            | 2022-03-27 | sunshine-coast R6      | 12 Natalieann        |  1.6  |      6   |

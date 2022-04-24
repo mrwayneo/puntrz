@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-04-25 07:55:42 +1000  
+date: 2022-04-25 09:23:02 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,12 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 16:15             | 2022-04-25 | kensington R7        | 7 Nest Egg           |  6.5  |    -10   |
+| 15:40             | 2022-04-25 | kensington R6        | 6 Sound Of Cannons   |  2.5  |    -10   |
+| 15:05             | 2022-04-25 | kensington R5        | 12 River Snitty      |  7    |    -10   |
+| 14:30             | 2022-04-25 | kensington R4        | 2 Quiet Riot         |  3.4  |    -10   |
+| 13:20             | 2022-04-25 | kensington R2        | 3 Bella Rouge        |  3.6  |    -10   |
+| 12:45             | 2022-04-25 | kensington R1        | 8 Headliner          |  1.83 |    -10   |
 | :boom:            | 2022-04-16 | randwick R5          | 2 Espiona            |  2    |     10   |
 | :boom:            | 2022-04-13 | hawkesbury R5        | 2 Calgary Queen      |  3.3  |     23   |
 | :boom:            | 2022-04-13 | hawkesbury R3        | 1 Norwegian Bliss    |  2.3  |     13   |

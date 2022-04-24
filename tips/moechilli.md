@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-04-25 07:55:37 +1000  
+date: 2022-04-25 09:22:57 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,8 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
+| 17:13             | 2022-04-25 | darwin R4              | 4 Poupee             |   1.9  |    -10   |
+| 16:32             | 2022-04-25 | darwin R3              | 3 Blueant            |   3.3  |    -10   |
 | :3rd_place_medal: | 2022-04-16 | alice-springs R6       | 1 Rockford Files     |   3.9  |    -10   |
 | 0                 | 2022-04-15 | newcastle R2           | 1 Amilcar            |   0    |    -10   |
 | 0                 | 2022-04-15 | lingfield R2           | 1 Honor And Pleasure |   0    |    -10   |
