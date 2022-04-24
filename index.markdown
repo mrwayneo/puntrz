@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-24 21:20:21 +1000  
+date: 2022-04-24 21:35:31 +1000  
 ---   
 
 
@@ -17,7 +17,7 @@ date: 2022-04-24 21:20:21 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      1 |      -15 | 0.1  | -0.15 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      2 |     -123 | 0.1  | -0.62 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |      -77 | 0.15 | -0.38 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     24 |      1 |     -155 | 0.04 | -0.65 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     60 |      1 |     -574 | 0.02 | -0.96 |
 
@@ -91,9 +91,9 @@ date: 2022-04-24 21:20:21 +1000
 | 13 | :soon:            | 2022-04-24 22:20:00 | scottsville    |      5 |        8 | It's About Time    |   0    | vulture,pangea       |
 | 14 | :soon:            | 2022-04-24 22:20:00 | scottsville    |      5 |        9 | Lunarcam           |   0    | icyhot               |
 | 15 | :soon:            | 2022-04-24 21:45:00 | scottsville    |      4 |       10 | Great Affair       |   0    | vulture              |
-| 16 | :soon:            | 2022-04-24 21:30:00 | kenilworth     |      2 |        6 | Piroshka           |   0    | vulture              |
-| 17 | --                | 2022-04-24 21:10:00 | scottsville    |      3 |        7 | Ideal Act          |   0    | vulture              |
-| 18 | --                | 2022-04-24 21:10:00 | scottsville    |      3 |        2 | Spy Master         |   0    | vulture              |
+| 16 | --                | 2022-04-24 21:30:00 | kenilworth     |      2 |        6 | Piroshka           |   0    | vulture              |
+| 17 | :boom:            | 2022-04-24 21:10:00 | scottsville    |      3 |        7 | Ideal Act          |   0    | vulture              |
+| 18 | :2nd_place_medal: | 2022-04-24 21:10:00 | scottsville    |      3 |        2 | Spy Master         |   0    | vulture              |
 | 19 | :2nd_place_medal: | 2022-04-24 20:55:00 | kenilworth     |      1 |        3 | Camille Claudel    |   0    | vulture              |
 | 20 | :3rd_place_medal: | 2022-04-24 17:35:00 | sha-tin        |      7 |        6 | Beauty Mission     |   2.4  | vulture              |
 | 21 | :boom:            | 2022-04-24 16:25:00 | sha-tin        |      5 |        1 | Beauty Joy         |   3.4  | milkman              |
