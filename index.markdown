@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-24 16:16:07 +1000  
+date: 2022-04-24 16:50:17 +1000  
 ---   
 
 
@@ -12,8 +12,8 @@ date: 2022-04-24 16:16:07 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      2 |       47 | 0.67 |  1.57 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      2 |       37 | 0.5  |  0.92 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      4 |      2 |       37 | 0.5  |  0.92 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      2 |       15 | 0.5  |  0.38 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      2 |       -3 | 0.25 | -0.04 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      1 |       -9 | 0.25 | -0.22 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 | 0    | -1    |
@@ -96,8 +96,8 @@ date: 2022-04-24 16:16:07 +1000
 | 18 | :soon:            | 2022-04-24 21:10:00 | scottsville    |      3 |        2 | Spy Master         |   0    | vulture              |
 | 19 | :soon:            | 2022-04-24 20:55:00 | kenilworth     |      1 |        3 | Camille Claudel    |   0    | vulture              |
 | 20 | :soon:            | 2022-04-24 17:35:00 | sha-tin        |      7 |        6 | Beauty Mission     |   2.4  | vulture              |
-| 21 | :soon:            | 2022-04-24 16:25:00 | sha-tin        |      5 |        1 | Beauty Joy         |   3.4  | milkman              |
-| 22 | --                | 2022-04-24 15:59:00 | hobart         |      8 |        7 | Stormont           |   9.5  | pangea               |
+| 21 | :boom:            | 2022-04-24 16:25:00 | sha-tin        |      5 |        1 | Beauty Joy         |   3.4  | milkman              |
+| 22 | 8.0               | 2022-04-24 15:59:00 | hobart         |      8 |        7 | Stormont           |   9.5  | pangea               |
 | 23 | :boom:            | 2022-04-24 15:59:00 | hobart         |      8 |        4 | Sh'bourne Rebel    |   3.25 | evenodds,blackshadow |
 | 24 | :boom:            | 2022-04-24 15:28:00 | sunshine-coast |      7 |        4 | Safeeya            |   2.3  | evenodds,blackshadow |
 | 25 | 4.0               | 2022-04-24 15:24:00 | hobart         |      7 |        5 | Warrior Prince     |   7    | pangea               |
