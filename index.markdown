@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-24 13:14:17 +1000  
+date: 2022-04-24 13:22:24 +1000  
 ---   
 
 
@@ -104,4 +104,4 @@ date: 2022-04-24 13:14:17 +1000
 | 26 | :soon:   | 2022-04-24 14:53:00 | sunshine-coast |      6 |        6 | Hard Reyva         |   2.1  | milkman              |
 | 27 | :soon:   | 2022-04-24 14:49:00 | hobart         |      6 |        9 | Our Shinkansen     |   7    | evenodds,overthrow   |
 | 28 | :soon:   | 2022-04-24 14:15:00 | hobart         |      5 |        2 | Imagine Howe       |   2.8  | evenodds,blackshadow |
-| 29 | :soon:   | 2022-04-24 11:50:00 | hobart         |      1 |        7 | Piiink Beauty      |   1.5  | vulture              |
+| 29 | 7.0      | 2022-04-24 11:50:00 | hobart         |      1 |        7 | Piiink Beauty      |   1.5  | vulture              |
