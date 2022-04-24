@@ -1,25 +1,11 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-24 22:50:38 +1000  
+date: 2022-04-25 06:40:17 +1000  
 ---   
 
 
 ##### Form Today tips   
-
-| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
-|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      2 |     47   | 0.67 |  1.57 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      2 |     37   | 0.5  |  0.92 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      4 |      2 |     37   | 0.5  |  0.92 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      2 |     15   | 0.5  |  0.38 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      2 |     -3   | 0.25 | -0.04 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |    -10   | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      1 |    -15   | 0.1  | -0.15 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |    -30   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -50   | 0.2  | -0.25 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     24 |      1 |   -155   | 0.04 | -0.65 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     60 |      2 |   -551.5 | 0.03 | -0.92 |
 
 ##### Form Last 20 tips   
 
@@ -27,25 +13,25 @@ date: 2022-04-24 22:50:38 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    468   | 1    |  2.34 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      4 |    181   | 0.2  |  0.9  |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      6 |    130   | 0.3  |  0.65 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |     10 |     71.6 | 0.5  |  0.36 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |     36   | 0.2  |  0.18 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      4 |     21   | 0.2  |  0.1  |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      2 |      3   | 0.1  |  0.02 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      7 |     -7.1 | 0.35 | -0.04 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      7 |    -32   | 0.35 | -0.16 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      5 |    -57.1 | 0.25 | -0.29 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -33   | 0.25 | -0.16 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      5 |    -33.5 | 0.25 | -0.17 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      5 |    -51   | 0.25 | -0.26 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      7 |    -57.5 | 0.35 | -0.29 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -63   | 0.2  | -0.32 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |    -82   | 0.15 | -0.41 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |    -87   | 0.2  | -0.44 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      1 |    -88   | 0.05 | -0.44 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |   -115   | 0.05 | -0.57 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |   -115   | 0.05 | -0.57 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      2 |   -123   | 0.1  | -0.62 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |   -128   | 0.15 | -0.64 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      2 |   -123   | 0.1  | -0.62 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |   -131.5 | 0.1  | -0.66 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      3 |   -149   | 0.15 | -0.74 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      2 |   -160   | 0.1  | -0.8  |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
@@ -56,36 +42,36 @@ date: 2022-04-24 22:50:38 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |    114 |     48 |     56.7 | 0.42 |  0.05 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     87 |      6 |     22   | 0.07 |  0.03 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     23 |      8 |    -61.5 | 0.35 | -0.27 |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     46 |      9 |    -96.8 | 0.2  | -0.21 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     45 |      9 |    -86.8 | 0.2  | -0.19 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     59 |      9 |   -282   | 0.15 | -0.48 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |    220 |     53 |   -383.4 | 0.24 | -0.17 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    285 |     61 |   -581.7 | 0.21 | -0.2  |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    199 |     58 |   -587.4 | 0.29 | -0.3  |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    305 |     66 |   -650.5 | 0.22 | -0.21 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |    288 |     63 |   -534.7 | 0.22 | -0.19 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |    200 |     58 |   -597.4 | 0.29 | -0.3  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |    294 |     53 |   -674.8 | 0.18 | -0.23 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    524 |     62 |  -1556.7 | 0.12 | -0.3  |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    521 |    124 |  -1703.5 | 0.24 | -0.33 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1045 |    258 |  -2522.7 | 0.25 | -0.24 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1667 |    321 |  -3543.9 | 0.19 | -0.21 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2033 |    102 |  -3900   | 0.05 | -0.19 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2220 |    533 |  -4052.4 | 0.24 | -0.18 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2103 |    490 |  -5074.4 | 0.23 | -0.24 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5940 |    705 | -16715.6 | 0.12 | -0.28 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7358 |    309 | -27586.5 | 0.04 | -0.37 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    301 |     63 |   -700.5 | 0.21 | -0.23 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    526 |     61 |  -1618.7 | 0.12 | -0.31 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    525 |    126 |  -1666.5 | 0.24 | -0.32 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |   1046 |    259 |  -2552.2 | 0.25 | -0.24 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |   1675 |    323 |  -3546.9 | 0.19 | -0.21 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |   2034 |    103 |  -3825   | 0.05 | -0.19 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   2234 |    537 |  -4041.9 | 0.24 | -0.18 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   2093 |    489 |  -5005.4 | 0.23 | -0.24 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5993 |    705 | -17125.1 | 0.12 | -0.29 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7343 |    310 | -27351.5 | 0.04 | -0.37 |
 
 |    | finish            | time                | track          |   race |   number | name               |   odds | tipster              |
 |---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|  0 | :soon:            | 2022-04-25 02:45:00 | wetherby       |      8 |        1 | Satanic Moon       |   2.75 | vulture              |
-|  1 | :soon:            | 2022-04-25 01:55:00 | bath           |      8 |        4 | Letter Of The Law  |   4.4  | looseknot            |
-|  2 | :soon:            | 2022-04-25 01:55:00 | bath           |      8 |        8 | Adatorio           |   7.5  | looseknot            |
-|  3 | :soon:            | 2022-04-25 00:25:00 | kenilworth     |      7 |        6 | Sugar Mountain     |   0    | vulture              |
-|  4 | :soon:            | 2022-04-25 00:05:00 | scottsville    |      8 |       13 | Procrastinator     |   0    | vulture              |
-|  5 | :soon:            | 2022-04-24 23:55:00 | wetherby       |      3 |        1 | Montassib          |   1.85 | vulture,milkman      |
-|  6 | :soon:            | 2022-04-24 23:50:00 | kenilworth     |      6 |        2 | Dancetildaylight   |   0    | vulture              |
-|  7 | :soon:            | 2022-04-24 22:55:00 | scottsville    |      6 |        8 | Glory Days         |   0    | pangea               |
-|  8 | :soon:            | 2022-04-24 22:55:00 | scottsville    |      6 |        3 | Baby Shooz         |   0    | vulture              |
-|  9 | :soon:            | 2022-04-24 22:55:00 | scottsville    |      6 |        9 | Tread Swiftly      |   0    | vulture              |
-| 10 | --                | 2022-04-24 22:45:00 | wetherby       |      1 |        9 | World Without Love |   4    | looseknot            |
+|  0 | :2nd_place_medal: | 2022-04-25 02:45:00 | wetherby       |      8 |        1 | Satanic Moon       |   2.75 | vulture              |
+|  1 | :2nd_place_medal: | 2022-04-25 01:55:00 | bath           |      8 |        4 | Letter Of The Law  |   4.4  | looseknot            |
+|  2 | :3rd_place_medal: | 2022-04-25 01:55:00 | bath           |      8 |        8 | Adatorio           |   7.5  | looseknot            |
+|  3 | --                | 2022-04-25 00:25:00 | kenilworth     |      7 |        6 | Sugar Mountain     |   0    | vulture              |
+|  4 | --                | 2022-04-25 00:05:00 | scottsville    |      8 |       13 | Procrastinator     |   0    | vulture              |
+|  5 | :boom:            | 2022-04-24 23:55:00 | wetherby       |      3 |        1 | Montassib          |   1.85 | vulture,milkman      |
+|  6 | --                | 2022-04-24 23:50:00 | kenilworth     |      6 |        2 | Dancetildaylight   |   0    | vulture              |
+|  7 | --                | 2022-04-24 22:55:00 | scottsville    |      6 |        8 | Glory Days         |   0    | pangea               |
+|  8 | --                | 2022-04-24 22:55:00 | scottsville    |      6 |        3 | Baby Shooz         |   0    | vulture              |
+|  9 | 4.0               | 2022-04-24 22:55:00 | scottsville    |      6 |        9 | Tread Swiftly      |   0    | vulture              |
+| 10 | 4.0               | 2022-04-24 22:45:00 | wetherby       |      1 |        9 | World Without Love |   4    | looseknot            |
 | 11 | --                | 2022-04-24 22:40:00 | kenilworth     |      4 |        4 | Epsom Girl         |   0    | milkman              |
 | 12 | --                | 2022-04-24 22:20:00 | scottsville    |      5 |        2 | Herecomestherain   |   0    | vulture              |
 | 13 | --                | 2022-04-24 22:20:00 | scottsville    |      5 |        8 | It's About Time    |   0    | vulture,pangea       |
