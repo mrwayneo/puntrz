@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-24 21:50:20 +1000  
+date: 2022-04-24 22:05:31 +1000  
 ---   
 
 
@@ -90,7 +90,7 @@ date: 2022-04-24 21:50:20 +1000
 | 12 | :soon:            | 2022-04-24 22:20:00 | scottsville    |      5 |        2 | Herecomestherain   |   0    | vulture              |
 | 13 | :soon:            | 2022-04-24 22:20:00 | scottsville    |      5 |        8 | It's About Time    |   0    | vulture,pangea       |
 | 14 | :soon:            | 2022-04-24 22:20:00 | scottsville    |      5 |        9 | Lunarcam           |   0    | icyhot               |
-| 15 | --                | 2022-04-24 21:45:00 | scottsville    |      4 |       10 | Great Affair       |   0    | vulture              |
+| 15 | :2nd_place_medal: | 2022-04-24 21:45:00 | scottsville    |      4 |       10 | Great Affair       |   0    | vulture              |
 | 16 | :boom:            | 2022-04-24 21:30:00 | kenilworth     |      2 |        6 | Piroshka           |   0    | vulture              |
 | 17 | :boom:            | 2022-04-24 21:10:00 | scottsville    |      3 |        7 | Ideal Act          |   0    | vulture              |
 | 18 | :2nd_place_medal: | 2022-04-24 21:10:00 | scottsville    |      3 |        2 | Spy Master         |   0    | vulture              |
