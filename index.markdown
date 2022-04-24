@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-24 22:05:31 +1000  
+date: 2022-04-24 22:20:24 +1000  
 ---   
 
 
@@ -17,7 +17,7 @@ date: 2022-04-24 22:05:31 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      1 |      -15 | 0.1  | -0.15 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |      -49 | 0.2  | -0.24 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |      -50 | 0.2  | -0.25 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     24 |      1 |     -155 | 0.04 | -0.65 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     60 |      1 |     -574 | 0.02 | -0.96 |
 
@@ -87,9 +87,9 @@ date: 2022-04-24 22:05:31 +1000
 |  9 | :soon:            | 2022-04-24 22:55:00 | scottsville    |      6 |        9 | Tread Swiftly      |   0    | vulture              |
 | 10 | :soon:            | 2022-04-24 22:45:00 | wetherby       |      1 |        9 | World Without Love |   4    | looseknot            |
 | 11 | :soon:            | 2022-04-24 22:40:00 | kenilworth     |      4 |        4 | Epsom Girl         |   0    | milkman              |
-| 12 | :soon:            | 2022-04-24 22:20:00 | scottsville    |      5 |        2 | Herecomestherain   |   0    | vulture              |
-| 13 | :soon:            | 2022-04-24 22:20:00 | scottsville    |      5 |        8 | It's About Time    |   0    | vulture,pangea       |
-| 14 | :soon:            | 2022-04-24 22:20:00 | scottsville    |      5 |        9 | Lunarcam           |   0    | icyhot               |
+| 12 | --                | 2022-04-24 22:20:00 | scottsville    |      5 |        2 | Herecomestherain   |   0    | vulture              |
+| 13 | --                | 2022-04-24 22:20:00 | scottsville    |      5 |        8 | It's About Time    |   0    | vulture,pangea       |
+| 14 | --                | 2022-04-24 22:20:00 | scottsville    |      5 |        9 | Lunarcam           |   0    | icyhot               |
 | 15 | :2nd_place_medal: | 2022-04-24 21:45:00 | scottsville    |      4 |       10 | Great Affair       |   0    | vulture              |
 | 16 | :boom:            | 2022-04-24 21:30:00 | kenilworth     |      2 |        6 | Piroshka           |   0    | vulture              |
 | 17 | :boom:            | 2022-04-24 21:10:00 | scottsville    |      3 |        7 | Ideal Act          |   0    | vulture              |
