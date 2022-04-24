@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-24 14:40:44 +1000  
+date: 2022-04-24 15:30:57 +1000  
 ---   
 
 
@@ -9,17 +9,17 @@ date: 2022-04-24 14:40:44 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 |    0 |    -1 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      4 |      0 |      -40 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      0 |      -80 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      0 |     -200 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     24 |      0 |     -240 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     60 |      0 |     -600 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      1 |       -9 | 0.25 | -0.22 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      4 |      0 |      -40 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      0 |      -80 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      0 |     -200 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     24 |      0 |     -240 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     60 |      0 |     -600 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -99,9 +99,9 @@ date: 2022-04-24 14:40:44 +1000
 | 21 | :soon:            | 2022-04-24 16:25:00 | sha-tin        |      5 |        1 | Beauty Joy         |   3.4  | milkman              |
 | 22 | :soon:            | 2022-04-24 15:59:00 | hobart         |      8 |        7 | Stormont           |   9.5  | pangea               |
 | 23 | :soon:            | 2022-04-24 15:59:00 | hobart         |      8 |        4 | Sh'bourne Rebel    |   3.25 | evenodds,blackshadow |
-| 24 | :soon:            | 2022-04-24 15:28:00 | sunshine-coast |      7 |        4 | Safeeya            |   2.3  | evenodds,blackshadow |
-| 25 | :soon:            | 2022-04-24 15:24:00 | hobart         |      7 |        5 | Warrior Prince     |   7    | pangea               |
-| 26 | :soon:            | 2022-04-24 14:53:00 | sunshine-coast |      6 |        6 | Hard Reyva         |   2.1  | milkman              |
-| 27 | :soon:            | 2022-04-24 14:49:00 | hobart         |      6 |        9 | Our Shinkansen     |   7    | evenodds,overthrow   |
+| 24 | --                | 2022-04-24 15:28:00 | sunshine-coast |      7 |        4 | Safeeya            |   2.3  | evenodds,blackshadow |
+| 25 | 4.0               | 2022-04-24 15:24:00 | hobart         |      7 |        5 | Warrior Prince     |   7    | pangea               |
+| 26 | :boom:            | 2022-04-24 14:53:00 | sunshine-coast |      6 |        6 | Hard Reyva         |   2.1  | milkman              |
+| 27 | 6.0               | 2022-04-24 14:49:00 | hobart         |      6 |        9 | Our Shinkansen     |   7    | evenodds,overthrow   |
 | 28 | :2nd_place_medal: | 2022-04-24 14:15:00 | hobart         |      5 |        2 | Imagine Howe       |   2.8  | evenodds,blackshadow |
 | 29 | 7.0               | 2022-04-24 11:50:00 | hobart         |      1 |        7 | Piiink Beauty      |   1.5  | vulture              |
