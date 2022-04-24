@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-24 21:05:30 +1000  
+date: 2022-04-24 21:20:21 +1000  
 ---   
 
 
@@ -92,9 +92,9 @@ date: 2022-04-24 21:05:30 +1000
 | 14 | :soon:            | 2022-04-24 22:20:00 | scottsville    |      5 |        9 | Lunarcam           |   0    | icyhot               |
 | 15 | :soon:            | 2022-04-24 21:45:00 | scottsville    |      4 |       10 | Great Affair       |   0    | vulture              |
 | 16 | :soon:            | 2022-04-24 21:30:00 | kenilworth     |      2 |        6 | Piroshka           |   0    | vulture              |
-| 17 | :soon:            | 2022-04-24 21:10:00 | scottsville    |      3 |        7 | Ideal Act          |   0    | vulture              |
-| 18 | :soon:            | 2022-04-24 21:10:00 | scottsville    |      3 |        2 | Spy Master         |   0    | vulture              |
-| 19 | --                | 2022-04-24 20:55:00 | kenilworth     |      1 |        3 | Camille Claudel    |   0    | vulture              |
+| 17 | --                | 2022-04-24 21:10:00 | scottsville    |      3 |        7 | Ideal Act          |   0    | vulture              |
+| 18 | --                | 2022-04-24 21:10:00 | scottsville    |      3 |        2 | Spy Master         |   0    | vulture              |
+| 19 | :2nd_place_medal: | 2022-04-24 20:55:00 | kenilworth     |      1 |        3 | Camille Claudel    |   0    | vulture              |
 | 20 | :3rd_place_medal: | 2022-04-24 17:35:00 | sha-tin        |      7 |        6 | Beauty Mission     |   2.4  | vulture              |
 | 21 | :boom:            | 2022-04-24 16:25:00 | sha-tin        |      5 |        1 | Beauty Joy         |   3.4  | milkman              |
 | 22 | 8.0               | 2022-04-24 15:59:00 | hobart         |      8 |        7 | Stormont           |   9.5  | pangea               |
