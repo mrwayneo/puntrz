@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-04-25 17:00:42 +1000  
+date: 2022-04-25 17:15:32 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
 | 18:15             | 2022-04-25 | kalgoorlie R6          | 4 Jakestar            |  13   |      -10 |
-| 17:05             | 2022-04-25 | flemington R8          | 6 Sig Positano        |  19   |      -10 |
+| :3rd_place_medal: | 2022-04-25 | flemington R8          | 6 Sig Positano        |  19   |      -10 |
 | 7                 | 2022-04-13 | pinjarra-scarpside R8  | 8 There's A Thought   |  11   |      -10 |
 | 0                 | 2022-04-07 | darwin R4              | 5 Koa                 |   0   |      -10 |
 | 0                 | 2022-04-07 | nottingham R5          | 4 Eileendover         |   0   |      -10 |

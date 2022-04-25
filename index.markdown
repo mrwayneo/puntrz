@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-25 17:00:42 +1000  
+date: 2022-04-25 17:15:32 +1000  
 ---   
 
 
@@ -45,13 +45,13 @@ date: 2022-04-25 17:00:42 +1000
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      7 |    -57.5 | 0.35 | -0.29 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -63   | 0.2  | -0.32 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      1 |    -88   | 0.05 | -0.44 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -100   | 0.05 | -0.5  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |   -115   | 0.05 | -0.57 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |   -115   | 0.05 | -0.57 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      2 |   -123   | 0.1  | -0.62 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      2 |   -123   | 0.1  | -0.62 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |   -131.5 | 0.1  | -0.66 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      2 |   -160   | 0.1  | -0.8  |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
@@ -96,15 +96,15 @@ date: 2022-04-25 17:00:42 +1000
 | 12 | :soon:            | 2022-04-25 18:15:00 | kalgoorlie |      6 |        4 | Jakestar           |  13    | cosmo,bluey          |
 | 13 | :soon:            | 2022-04-25 18:00:00 | ascot      |      6 |        3 | Dee Keepa          |   5.5  | pangea               |
 | 14 | :soon:            | 2022-04-25 17:53:00 | darwin     |      5 |        2 | First Crusade      |   2.1  | pangea               |
-| 15 | :soon:            | 2022-04-25 17:13:00 | darwin     |      4 |        3 | Bel's Banner       |   2.25 | pangea,icyhot        |
-| 16 | :soon:            | 2022-04-25 17:13:00 | darwin     |      4 |        4 | Poupee             |   1.9  | pangea,moechilli     |
-| 17 | :soon:            | 2022-04-25 17:05:00 | flemington |      8 |       12 | Rockribbed         |   3.1  | evenodds,blackshadow |
-| 18 | :soon:            | 2022-04-25 17:05:00 | flemington |      8 |        4 | Colsridge          |  14    | vulture              |
-| 19 | :soon:            | 2022-04-25 17:05:00 | flemington |      8 |       10 | Invincible Jet     |   8    | vulture,pangea       |
-| 20 | :soon:            | 2022-04-25 17:05:00 | flemington |      8 |        6 | Sig Positano       |  19    | pangea,bluey         |
+| 15 | --                | 2022-04-25 17:13:00 | darwin     |      4 |        3 | Bel's Banner       |   2.25 | pangea,icyhot        |
+| 16 | --                | 2022-04-25 17:13:00 | darwin     |      4 |        4 | Poupee             |   1.9  | pangea,moechilli     |
+| 17 | 4.0               | 2022-04-25 17:05:00 | flemington |      8 |       12 | Rockribbed         |   3.1  | evenodds,blackshadow |
+| 18 | --                | 2022-04-25 17:05:00 | flemington |      8 |        4 | Colsridge          |  14    | vulture              |
+| 19 | --                | 2022-04-25 17:05:00 | flemington |      8 |       10 | Invincible Jet     |   8    | vulture,pangea       |
+| 20 | :3rd_place_medal: | 2022-04-25 17:05:00 | flemington |      8 |        6 | Sig Positano       |  19    | pangea,bluey         |
 | 21 | :2nd_place_medal: | 2022-04-25 16:32:00 | darwin     |      3 |        4 | Raazou             |   2.25 | vulture              |
 | 22 | 4.0               | 2022-04-25 16:32:00 | darwin     |      3 |        3 | Blueant            |   3.3  | pangea,moechilli     |
-| 23 | --                | 2022-04-25 16:26:00 | bathurst   |      6 |        1 | Morpheus           |   7.5  | vulture              |
+| 23 | 5.0               | 2022-04-25 16:26:00 | bathurst   |      6 |        1 | Morpheus           |   7.5  | vulture              |
 | 24 | 5.0               | 2022-04-25 16:15:00 | kensington |      7 |        7 | Nest Egg           |   6.5  | jmac                 |
 | 25 | 4.0               | 2022-04-25 15:57:00 | darwin     |      2 |        1 | Rich Sun           |   3.2  | benny,pangea         |
 | 26 | 6.0               | 2022-04-25 15:55:00 | flemington |      6 |        7 | Hunnam             |  10    | pangea               |
