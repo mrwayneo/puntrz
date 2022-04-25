@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-04-25 16:00:41 +1000  
+date: 2022-04-25 16:45:39 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 16:15             | 2022-04-25 | kensington R7        | 7 Nest Egg           |  6.5  |    -10   |
+| 5                 | 2022-04-25 | kensington R7        | 7 Nest Egg           |  6.5  |    -10   |
 | 4                 | 2022-04-25 | kensington R6        | 6 Sound Of Cannons   |  2.5  |    -10   |
 | 4                 | 2022-04-25 | kensington R5        | 12 River Snitty      |  7    |    -10   |
 | :3rd_place_medal: | 2022-04-25 | kensington R4        | 2 Quiet Riot         |  3.4  |    -10   |
