@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-25 13:05:41 +1000  
+date: 2022-04-25 13:36:45 +1000  
 ---   
 
 
@@ -21,9 +21,9 @@ date: 2022-04-25 13:05:41 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      4 |      0 |      -40 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      6 |      0 |      -60 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     22 |      1 |     -131 | 0.05 | -0.6  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     18 |      0 |     -180 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     21 |      1 |     -182 | 0.05 | -0.87 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     22 |      0 |     -220 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     38 |      1 |     -352 | 0.03 | -0.93 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     47 |      0 |     -470 | 0    | -1    |
 
@@ -119,11 +119,11 @@ date: 2022-04-25 13:05:41 +1000
 | 35 | :soon:            | 2022-04-25 13:55:00 | kensington |      3 |        5 | Hollywood North    |   4    | pangea               |
 | 36 | :soon:            | 2022-04-25 13:55:00 | kensington |      3 |        7 | Toesonthenose      |   2.5  | vulture              |
 | 37 | :soon:            | 2022-04-25 13:39:00 | gosford    |      3 |        5 | Milka              |   4.2  | pangea               |
-| 38 | :soon:            | 2022-04-25 13:35:00 | flemington |      2 |        7 | Quesadilla         |  14    | vulture              |
-| 39 | :soon:            | 2022-04-25 13:35:00 | flemington |      2 |       12 | I Am Me            |   1.83 | evenodds,blackshadow |
-| 40 | :soon:            | 2022-04-25 13:20:00 | kensington |      2 |        3 | Bella Rouge        |   3.6  | jmac                 |
-| 41 | :soon:            | 2022-04-25 13:20:00 | kensington |      2 |        8 | Mirra View         |  13    | vulture              |
-| 42 | :soon:            | 2022-04-25 13:20:00 | kensington |      2 |        6 | Rinnova            |   3.25 | pikey                |
-| 43 | :soon:            | 2022-04-25 13:20:00 | kensington |      2 |        2 | Terrameades        |   2.45 | benny,pangea         |
+| 38 | --                | 2022-04-25 13:35:00 | flemington |      2 |        7 | Quesadilla         |  14    | vulture              |
+| 39 | --                | 2022-04-25 13:35:00 | flemington |      2 |       12 | I Am Me            |   1.83 | evenodds,blackshadow |
+| 40 | :2nd_place_medal: | 2022-04-25 13:20:00 | kensington |      2 |        3 | Bella Rouge        |   3.6  | jmac                 |
+| 41 | :boom:            | 2022-04-25 13:20:00 | kensington |      2 |        8 | Mirra View         |  13    | vulture              |
+| 42 | 4.0               | 2022-04-25 13:20:00 | kensington |      2 |        6 | Rinnova            |   3.25 | pikey                |
+| 43 | :3rd_place_medal: | 2022-04-25 13:20:00 | kensington |      2 |        2 | Terrameades        |   2.45 | benny,pangea         |
 | 44 | 4.0               | 2022-04-25 12:45:00 | kensington |      1 |        8 | Headliner          |   1.83 | vulture,jmac         |
 | 45 | :2nd_place_medal: | 2022-04-25 12:45:00 | kensington |      1 |       10 | Valentina Express  |   5.5  | pikey                |
