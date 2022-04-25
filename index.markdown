@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-25 15:45:33 +1000  
+date: 2022-04-25 16:00:42 +1000  
 ---   
 
 
@@ -106,9 +106,9 @@ date: 2022-04-25 15:45:33 +1000
 | 22 | :soon:            | 2022-04-25 16:32:00 | darwin     |      3 |        3 | Blueant            |   3.3  | pangea,moechilli     |
 | 23 | :soon:            | 2022-04-25 16:26:00 | bathurst   |      6 |        1 | Morpheus           |   7.5  | vulture              |
 | 24 | :soon:            | 2022-04-25 16:15:00 | kensington |      7 |        7 | Nest Egg           |   6.5  | jmac                 |
-| 25 | :soon:            | 2022-04-25 15:57:00 | darwin     |      2 |        1 | Rich Sun           |   3.2  | benny,pangea         |
-| 26 | :soon:            | 2022-04-25 15:55:00 | flemington |      6 |        7 | Hunnam             |  10    | pangea               |
-| 27 | :soon:            | 2022-04-25 15:55:00 | flemington |      6 |        1 | Corkscrew          |   5.5  | vulture,milkman      |
+| 25 | --                | 2022-04-25 15:57:00 | darwin     |      2 |        1 | Rich Sun           |   3.2  | benny,pangea         |
+| 26 | --                | 2022-04-25 15:55:00 | flemington |      6 |        7 | Hunnam             |  10    | pangea               |
+| 27 | --                | 2022-04-25 15:55:00 | flemington |      6 |        1 | Corkscrew          |   5.5  | vulture,milkman      |
 | 28 | 4.0               | 2022-04-25 15:40:00 | kensington |      6 |        6 | Sound Of Cannons   |   2.5  | jmac                 |
 | 29 | 4.0               | 2022-04-25 15:05:00 | kensington |      5 |       12 | River Snitty       |   7    | jmac                 |
 | 30 | :3rd_place_medal: | 2022-04-25 15:05:00 | kensington |      5 |        6 | Thalassophile      |   1.75 | vulture,pikey        |
