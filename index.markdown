@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-25 13:51:52 +1000  
+date: 2022-04-25 14:06:58 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-04-25 13:51:52 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      6 |      0 |      -60 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     22 |      2 |     -114 | 0.09 | -0.52 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     21 |      2 |     -165 | 0.1  | -0.79 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     21 |      3 |     -127 | 0.14 | -0.6  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     18 |      0 |     -180 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     38 |      1 |     -352 | 0.03 | -0.93 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     47 |      0 |     -470 | 0    | -1    |
@@ -115,9 +115,9 @@ date: 2022-04-25 13:51:52 +1000
 | 31 | :soon:            | 2022-04-25 14:30:00 | kensington |      4 |        2 | Quiet Riot         |   3.4  | pangea,jmac          |
 | 32 | :soon:            | 2022-04-25 14:10:00 | flemington |      3 |        1 | Tijuana            |   3.9  | vulture,milkman      |
 | 33 | :soon:            | 2022-04-25 14:10:00 | flemington |      3 |        8 | Miss Dunsford      |   3    | vulture,milkman      |
-| 34 | :soon:            | 2022-04-25 13:55:00 | kensington |      3 |       10 | Royal Ballet       |   6    | pikey                |
-| 35 | :soon:            | 2022-04-25 13:55:00 | kensington |      3 |        5 | Hollywood North    |   4    | pangea               |
-| 36 | :soon:            | 2022-04-25 13:55:00 | kensington |      3 |        7 | Toesonthenose      |   2.5  | vulture              |
+| 34 | --                | 2022-04-25 13:55:00 | kensington |      3 |       10 | Royal Ballet       |   6    | pikey                |
+| 35 | :boom:            | 2022-04-25 13:55:00 | kensington |      3 |        5 | Hollywood North    |   4    | pangea               |
+| 36 | :3rd_place_medal: | 2022-04-25 13:55:00 | kensington |      3 |        7 | Toesonthenose      |   2.5  | vulture              |
 | 37 | :2nd_place_medal: | 2022-04-25 13:39:00 | gosford    |      3 |        5 | Milka              |   4.2  | pangea               |
 | 38 | 4.0               | 2022-04-25 13:35:00 | flemington |      2 |        7 | Quesadilla         |  14    | vulture              |
 | 39 | :boom:            | 2022-04-25 13:35:00 | flemington |      2 |       12 | I Am Me            |   1.83 | evenodds,blackshadow |

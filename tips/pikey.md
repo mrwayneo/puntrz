@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-25 13:51:51 +1000  
+date: 2022-04-25 14:06:57 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 15:05             | 2022-04-25 | kensington R5         | 6 Thalassophile       |   1.75 |    -10   |
-| 13:55             | 2022-04-25 | kensington R3         | 10 Royal Ballet       |   6    |    -10   |
+| 0                 | 2022-04-25 | kensington R3         | 10 Royal Ballet       |   0    |    -10   |
 | 4                 | 2022-04-25 | kensington R2         | 6 Rinnova             |   3.25 |    -10   |
 | :2nd_place_medal: | 2022-04-25 | kensington R1         | 10 Valentina Express  |   5.5  |    -10   |
 | 7                 | 2022-04-16 | randwick R6           | 5 Trumbull            |  22    |    -10   |
