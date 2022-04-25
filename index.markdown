@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-25 18:00:57 +1000  
+date: 2022-04-25 18:15:49 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-04-25 18:00:57 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     21 |      6 |       70 | 0.29 |  0.33 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     21 |      7 |      126 | 0.33 |  0.6  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     18 |      2 |       29 | 0.11 |  0.16 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      2 |      1 |       -1 | 0.5  | -0.05 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      3 |      1 |       -1 | 0.33 | -0.03 |
@@ -93,8 +93,8 @@ date: 2022-04-25 18:00:57 +1000
 |  9 | :soon:            | 2022-04-25 22:35:00 | lingfield  |      2 |        1 | Glorious Peaches   |   7.5  | looseknot            |
 | 10 | :soon:            | 2022-04-25 18:45:00 | kalgoorlie |      7 |        1 | The Verdict        |   4.33 | looseknot            |
 | 11 | :soon:            | 2022-04-25 18:30:00 | ascot      |      7 |        4 | Prince Turbo       |   5.5  | pangea               |
-| 12 | :soon:            | 2022-04-25 18:15:00 | kalgoorlie |      6 |        4 | Jakestar           |  13    | cosmo,bluey          |
-| 13 | --                | 2022-04-25 18:00:00 | ascot      |      6 |        3 | Dee Keepa          |   5.5  | pangea               |
+| 12 | --                | 2022-04-25 18:15:00 | kalgoorlie |      6 |        4 | Jakestar           |  13    | cosmo,bluey          |
+| 13 | :boom:            | 2022-04-25 18:00:00 | ascot      |      6 |        3 | Dee Keepa          |   5.5  | pangea               |
 | 14 | :boom:            | 2022-04-25 17:53:00 | darwin     |      5 |        2 | First Crusade      |   2.1  | pangea               |
 | 15 | :2nd_place_medal: | 2022-04-25 17:13:00 | darwin     |      4 |        3 | Bel's Banner       |   2.25 | pangea,icyhot        |
 | 16 | :boom:            | 2022-04-25 17:13:00 | darwin     |      4 |        4 | Poupee             |   1.9  | pangea,moechilli     |
