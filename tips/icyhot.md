@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-04-25 14:21:51 +1000  
+date: 2022-04-25 15:15:31 +1000  
 categories: None 
 ---   
 
@@ -34,8 +34,8 @@ categories: None
 | :2nd_place_medal: | 2022-04-02 | eagle-farm R3                | 11 Rations            |  3.4  |    -10   |
 | 4                 | 2022-03-29 | scone R3                     | 5 Endorphins          |  4.8  |    -10   |
 | :boom:            | 2022-03-25 | townsville R3                | 4 Namazu              |  1.5  |      5   |
-| :2nd_place_medal: | 2022-03-22 | rockhampton R7               | 2 Brigalow Boy        |  3    |    -10   |
 | :3rd_place_medal: | 2022-03-22 | rockhampton R7               | 5 In Order            |  2.88 |    -10   |
+| :2nd_place_medal: | 2022-03-22 | rockhampton R7               | 2 Brigalow Boy        |  3    |    -10   |
 | 6                 | 2022-03-22 | beaumont R5                  | 4 Five Crowns         |  2.25 |    -10   |
 | :3rd_place_medal: | 2022-03-20 | alice-springs R5             | 4 Oddsock             |  2.3  |    -10   |
 | :boom:            | 2022-03-20 | alice-springs R2             | 1 Dakota Lee          |  1.1  |      1   |
@@ -220,8 +220,8 @@ categories: None
 | 99                | 2021-10-27 | bangor R6                    | 7 Stop Talking        |  0    |    -10   |
 | :boom:            | 2021-10-23 | ascot R7                     | 5 Wilchino            |  2.8  |     18   |
 | :boom:            | 2021-10-23 | ascot R6                     | 4 Magical Dream       |  6.5  |     55   |
-| :2nd_place_medal: | 2021-10-23 | doomben R5                   | 1 Tiger Heart         |  1.65 |    -10   |
 | :boom:            | 2021-10-23 | doomben R5                   | 2 Birriecart          |  2.3  |     13   |
+| :2nd_place_medal: | 2021-10-23 | doomben R5                   | 1 Tiger Heart         |  1.65 |    -10   |
 | :2nd_place_medal: | 2021-10-23 | doomben R4                   | 1 Ligulate            |  9    |    -10   |
 | :boom:            | 2021-10-22 | launceston R5                | 1 Deroche             |  1.9  |      9   |
 | 8                 | 2021-10-22 | moonee-valley R6             | 8 Overkill            |  8    |    -10   |
@@ -230,8 +230,8 @@ categories: None
 | :boom:            | 2021-10-17 | alice-springs R2             | 4 Dakota Lee          |  1.95 |      9.5 |
 | 7                 | 2021-10-16 | caulfield R10                | 6 He's A Balter       |  8    |    -10   |
 | :boom:            | 2021-10-15 | murray-bdge R9               | 12 Valuable Witness   |  3.3  |     23   |
-| :2nd_place_medal: | 2021-10-15 | ipswich R3                   | 10 Lyrical Girl       |  2.15 |    -10   |
 | :boom:            | 2021-10-15 | ipswich R3                   | 8 Sir Rocket          |  1.75 |      7.5 |
+| :2nd_place_medal: | 2021-10-15 | ipswich R3                   | 10 Lyrical Girl       |  2.15 |    -10   |
 | :2nd_place_medal: | 2021-10-09 | ascot R8                     | 2 Miss Conteki        |  3.2  |    -10   |
 | :boom:            | 2021-10-09 | randwick R10                 | 10 Leo                |  5.8  |     48   |
 | :3rd_place_medal: | 2021-10-09 | ascot R5                     | 4 Kaptain Kaos        |  2.6  |    -10   |
@@ -345,8 +345,8 @@ categories: None
 | 5                 | 2021-06-19 | darwin R2                    | 4 Obligatory          |  2.25 |    -10   |
 | :boom:            | 2021-06-19 | belmont R2                   | 1 I'm Pretty          |  2.6  |     16   |
 | :boom:            | 2021-06-17 | warrnambool R6               | 3 Out And Dreaming    |  5.5  |     45   |
-| 6                 | 2021-06-12 | belmont R8                   | 13 Leading Girl       |  4.55 |    -10   |
 | 13                | 2021-06-12 | belmont R8                   | 2 Come Play With Me   | 51    |    -10   |
+| 6                 | 2021-06-12 | belmont R8                   | 13 Leading Girl       |  4.55 |    -10   |
 | :3rd_place_medal: | 2021-06-12 | townsville R3                | 4 Courtesy Bus        |  5    |    -10   |
 | 4                 | 2021-06-11 | swan-hill R7                 | 2 More Than Exceed    |  8    |    -10   |
 | :3rd_place_medal: | 2021-06-07 | northam R8                   | 5 Gallant Ranger      | 15    |    -10   |
@@ -495,8 +495,8 @@ categories: None
 | :boom:            | 2021-02-12 | moonee-valley R4             | 7 Starcaster          |  7.6  |     66   |
 | :2nd_place_medal: | 2021-02-12 | townsville R8                | 10 Bold Eos           |  2.6  |    -10   |
 | :boom:            | 2021-02-12 | townsville R8                | 6 Disco Mo            |  5.9  |     49   |
-| :boom:            | 2021-02-09 | mackay R2                    | 2 Brad                |  1.4  |      4   |
 | :2nd_place_medal: | 2021-02-09 | mackay R2                    | 3 Durif               |  2.5  |    -10   |
+| :boom:            | 2021-02-09 | mackay R2                    | 2 Brad                |  1.4  |      4   |
 | :boom:            | 2021-02-09 | mackay R1                    | 2 Carlin Trend        |  3.1  |     21   |
 | :3rd_place_medal: | 2021-02-07 | naracoorte R6                | 1 Challicum           |  5    |    -10   |
 | 5                 | 2021-02-07 | hobart R6                    | 6 Mystical Pursuit    |  5.6  |    -10   |
@@ -602,8 +602,8 @@ categories: None
 | 5                 | 2020-05-21 | townsville R9                | 4 Love Is Blind       |  3.5  |    -10   |
 | :boom:            | 2020-05-18 | tamworth R5                  | 6 Blazing Tycoon      |  4.8  |     38   |
 | 5                 | 2020-05-17 | kalgoorlie R6                | 2 Smarty              |  3.1  |    -10   |
-| :boom:            | 2020-05-16 | gold-coast R5                | 7 Soxagon             |  1.6  |      6   |
 | :2nd_place_medal: | 2020-05-16 | gold-coast R5                | 12 Thine is the Power |  3    |    -10   |
+| :boom:            | 2020-05-16 | gold-coast R5                | 7 Soxagon             |  1.6  |      6   |
 | 6                 | 2020-05-15 | sunshine-coast R4            | 7 Maslow              |  4.8  |    -10   |
 | :2nd_place_medal: | 2020-05-10 | toowoomba R9                 | 2 Rhyme Nor Rhythm    |  2.7  |    -10   |
 | 4                 | 2020-05-09 | darwin R4                    | 1 Don't Wait          |  4    |    -10   |
@@ -631,8 +631,8 @@ categories: None
 | 6                 | 2020-01-25 | gawler R2                    | 4 Rose Tiara          | 18.2  |    -10   |
 | :2nd_place_medal: | 2020-01-25 | sunshine-coast R1            | 3 Ruby Guru           |  3.8  |    -10   |
 | :boom:            | 2020-01-22 | canterbury R5                | 2 Knowitall Jack      |  3.6  |     26   |
-| :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
+| :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 6                 | 2020-01-11 | pinjarra R8                  | 11 Midnight Sky       |  6.5  |    -10   |
 | :boom:            | 2020-01-11 | pinjarra R6                  | 12 Put A Spell On You |  5    |     40   |
 | :3rd_place_medal: | 2020-01-11 | kembla-grange R6             | 4 Superbowl Sunday    |  2.15 |    -10   |
