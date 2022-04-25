@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-25 18:30:53 +1000  
+date: 2022-04-25 18:45:49 +1000  
 ---   
 
 
@@ -45,13 +45,13 @@ date: 2022-04-25 18:30:53 +1000
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      7 |    -57.5 | 0.35 | -0.29 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -63   | 0.2  | -0.32 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      1 |    -88   | 0.05 | -0.44 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -100   | 0.05 | -0.5  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |   -115   | 0.05 | -0.57 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |   -115   | 0.05 | -0.57 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      2 |   -123   | 0.1  | -0.62 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      2 |   -123   | 0.1  | -0.62 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |   -131.5 | 0.1  | -0.66 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      2 |   -160   | 0.1  | -0.8  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
@@ -91,8 +91,8 @@ date: 2022-04-25 18:30:53 +1000
 |  7 | :soon:            | 2022-04-26 00:35:00 | greyville  |      8 |        6 | Khanyisa Indlela   |   0    | vulture              |
 |  8 | :soon:            | 2022-04-25 23:25:00 | greyville  |      6 |        4 | Winter's Destiny   |   0    | vulture              |
 |  9 | :soon:            | 2022-04-25 22:35:00 | lingfield  |      2 |        1 | Glorious Peaches   |   7.5  | looseknot            |
-| 10 | :soon:            | 2022-04-25 18:45:00 | kalgoorlie |      7 |        1 | The Verdict        |   4.33 | looseknot            |
-| 11 | --                | 2022-04-25 18:30:00 | ascot      |      7 |        4 | Prince Turbo       |   5.5  | pangea               |
+| 10 | --                | 2022-04-25 18:45:00 | kalgoorlie |      7 |        1 | The Verdict        |   4.33 | looseknot            |
+| 11 | :2nd_place_medal: | 2022-04-25 18:30:00 | ascot      |      7 |        4 | Prince Turbo       |   5.5  | pangea               |
 | 12 | :3rd_place_medal: | 2022-04-25 18:15:00 | kalgoorlie |      6 |        4 | Jakestar           |  13    | cosmo,bluey          |
 | 13 | :boom:            | 2022-04-25 18:00:00 | ascot      |      6 |        3 | Dee Keepa          |   5.5  | pangea               |
 | 14 | :boom:            | 2022-04-25 17:53:00 | darwin     |      5 |        2 | First Crusade      |   2.1  | pangea               |
