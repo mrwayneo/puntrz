@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-25 18:15:49 +1000  
+date: 2022-04-25 18:30:53 +1000  
 ---   
 
 
@@ -92,8 +92,8 @@ date: 2022-04-25 18:15:49 +1000
 |  8 | :soon:            | 2022-04-25 23:25:00 | greyville  |      6 |        4 | Winter's Destiny   |   0    | vulture              |
 |  9 | :soon:            | 2022-04-25 22:35:00 | lingfield  |      2 |        1 | Glorious Peaches   |   7.5  | looseknot            |
 | 10 | :soon:            | 2022-04-25 18:45:00 | kalgoorlie |      7 |        1 | The Verdict        |   4.33 | looseknot            |
-| 11 | :soon:            | 2022-04-25 18:30:00 | ascot      |      7 |        4 | Prince Turbo       |   5.5  | pangea               |
-| 12 | --                | 2022-04-25 18:15:00 | kalgoorlie |      6 |        4 | Jakestar           |  13    | cosmo,bluey          |
+| 11 | --                | 2022-04-25 18:30:00 | ascot      |      7 |        4 | Prince Turbo       |   5.5  | pangea               |
+| 12 | :3rd_place_medal: | 2022-04-25 18:15:00 | kalgoorlie |      6 |        4 | Jakestar           |  13    | cosmo,bluey          |
 | 13 | :boom:            | 2022-04-25 18:00:00 | ascot      |      6 |        3 | Dee Keepa          |   5.5  | pangea               |
 | 14 | :boom:            | 2022-04-25 17:53:00 | darwin     |      5 |        2 | First Crusade      |   2.1  | pangea               |
 | 15 | :2nd_place_medal: | 2022-04-25 17:13:00 | darwin     |      4 |        3 | Bel's Banner       |   2.25 | pangea,icyhot        |
