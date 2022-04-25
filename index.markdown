@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-25 13:36:45 +1000  
+date: 2022-04-25 13:51:52 +1000  
 ---   
 
 
@@ -9,21 +9,21 @@ date: 2022-04-25 13:36:45 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      1 |       -3 | 0.5  | -0.15 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 | 0    | -1    |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      2 |      0 |      -20 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      0 |      -20 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      4 |      1 |      -23 | 0.25 | -0.57 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      4 |      1 |      -23 | 0.25 | -0.57 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      3 |      0 |      -30 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      4 |      0 |      -40 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      4 |      0 |      -40 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      6 |      0 |      -60 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     22 |      1 |     -131 | 0.05 | -0.6  |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     22 |      2 |     -114 | 0.09 | -0.52 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     21 |      2 |     -165 | 0.1  | -0.79 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     18 |      0 |     -180 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     21 |      1 |     -182 | 0.05 | -0.87 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     38 |      1 |     -352 | 0.03 | -0.93 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     47 |      0 |     -470 | 0    | -1    |
 
@@ -118,9 +118,9 @@ date: 2022-04-25 13:36:45 +1000
 | 34 | :soon:            | 2022-04-25 13:55:00 | kensington |      3 |       10 | Royal Ballet       |   6    | pikey                |
 | 35 | :soon:            | 2022-04-25 13:55:00 | kensington |      3 |        5 | Hollywood North    |   4    | pangea               |
 | 36 | :soon:            | 2022-04-25 13:55:00 | kensington |      3 |        7 | Toesonthenose      |   2.5  | vulture              |
-| 37 | :soon:            | 2022-04-25 13:39:00 | gosford    |      3 |        5 | Milka              |   4.2  | pangea               |
-| 38 | --                | 2022-04-25 13:35:00 | flemington |      2 |        7 | Quesadilla         |  14    | vulture              |
-| 39 | --                | 2022-04-25 13:35:00 | flemington |      2 |       12 | I Am Me            |   1.83 | evenodds,blackshadow |
+| 37 | :2nd_place_medal: | 2022-04-25 13:39:00 | gosford    |      3 |        5 | Milka              |   4.2  | pangea               |
+| 38 | 4.0               | 2022-04-25 13:35:00 | flemington |      2 |        7 | Quesadilla         |  14    | vulture              |
+| 39 | :boom:            | 2022-04-25 13:35:00 | flemington |      2 |       12 | I Am Me            |   1.83 | evenodds,blackshadow |
 | 40 | :2nd_place_medal: | 2022-04-25 13:20:00 | kensington |      2 |        3 | Bella Rouge        |   3.6  | jmac                 |
 | 41 | :boom:            | 2022-04-25 13:20:00 | kensington |      2 |        8 | Mirra View         |  13    | vulture              |
 | 42 | 4.0               | 2022-04-25 13:20:00 | kensington |      2 |        6 | Rinnova            |   3.25 | pikey                |
