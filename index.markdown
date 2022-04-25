@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-25 17:15:32 +1000  
+date: 2022-04-25 17:30:40 +1000  
 ---   
 
 
@@ -9,17 +9,17 @@ date: 2022-04-25 17:15:32 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     21 |      4 |       34 | 0.19 |  0.16 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     21 |      5 |       53 | 0.24 |  0.25 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     18 |      2 |       29 | 0.11 |  0.16 |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      2 |      1 |       -1 | 0.5  | -0.05 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      3 |      1 |       -1 | 0.33 | -0.03 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      1 |       -3 | 0.5  | -0.15 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      4 |      2 |       -4 | 0.5  | -0.1  |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      2 |      0 |      -20 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      1 |      -11 | 0.33 | -0.37 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      0 |      -20 | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      4 |      1 |      -23 | 0.25 | -0.57 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      4 |      1 |      -23 | 0.25 | -0.57 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |      -30 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      6 |      0 |      -60 | 0    | -1    |
@@ -96,11 +96,11 @@ date: 2022-04-25 17:15:32 +1000
 | 12 | :soon:            | 2022-04-25 18:15:00 | kalgoorlie |      6 |        4 | Jakestar           |  13    | cosmo,bluey          |
 | 13 | :soon:            | 2022-04-25 18:00:00 | ascot      |      6 |        3 | Dee Keepa          |   5.5  | pangea               |
 | 14 | :soon:            | 2022-04-25 17:53:00 | darwin     |      5 |        2 | First Crusade      |   2.1  | pangea               |
-| 15 | --                | 2022-04-25 17:13:00 | darwin     |      4 |        3 | Bel's Banner       |   2.25 | pangea,icyhot        |
-| 16 | --                | 2022-04-25 17:13:00 | darwin     |      4 |        4 | Poupee             |   1.9  | pangea,moechilli     |
+| 15 | :2nd_place_medal: | 2022-04-25 17:13:00 | darwin     |      4 |        3 | Bel's Banner       |   2.25 | pangea,icyhot        |
+| 16 | :boom:            | 2022-04-25 17:13:00 | darwin     |      4 |        4 | Poupee             |   1.9  | pangea,moechilli     |
 | 17 | 4.0               | 2022-04-25 17:05:00 | flemington |      8 |       12 | Rockribbed         |   3.1  | evenodds,blackshadow |
-| 18 | --                | 2022-04-25 17:05:00 | flemington |      8 |        4 | Colsridge          |  14    | vulture              |
-| 19 | --                | 2022-04-25 17:05:00 | flemington |      8 |       10 | Invincible Jet     |   8    | vulture,pangea       |
+| 18 | 7.0               | 2022-04-25 17:05:00 | flemington |      8 |        4 | Colsridge          |  14    | vulture              |
+| 19 | 8.0               | 2022-04-25 17:05:00 | flemington |      8 |       10 | Invincible Jet     |   8    | vulture,pangea       |
 | 20 | :3rd_place_medal: | 2022-04-25 17:05:00 | flemington |      8 |        6 | Sig Positano       |  19    | pangea,bluey         |
 | 21 | :2nd_place_medal: | 2022-04-25 16:32:00 | darwin     |      3 |        4 | Raazou             |   2.25 | vulture              |
 | 22 | 4.0               | 2022-04-25 16:32:00 | darwin     |      3 |        3 | Blueant            |   3.3  | pangea,moechilli     |
