@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-26 13:35:19 +1000  
+date: 2022-04-26 13:50:22 +1000  
 ---   
 
 
@@ -9,19 +9,19 @@ date: 2022-04-26 13:35:19 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 |    0 |    -1 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 |    0 |    -1 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      4 |      0 |      -40 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      0 |      -50 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      6 |      0 |      -60 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      8 |      0 |      -80 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     17 |      0 |     -170 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     17 |      0 |     -170 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     26 |      0 |     -260 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 | 0    |  -1   |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 | 0    |  -1   |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    |  -1   |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    |  -1   |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    |  -1   |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      4 |      0 |      -40 | 0    |  -1   |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      5 |      0 |      -50 | 0    |  -1   |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      6 |      0 |      -60 | 0    |  -1   |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    |  -1   |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      8 |      0 |      -80 | 0    |  -1   |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     17 |      0 |     -170 | 0    |  -1   |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     17 |      0 |     -170 | 0    |  -1   |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     26 |      1 |     -234 | 0.04 |  -0.9 |
 
 ##### Form Last 20 tips   
 
@@ -104,6 +104,6 @@ date: 2022-04-26 13:35:19 +1000
 | 24 | :soon:            | 2022-04-26 22:05:00 | yarmouth    |      1 |        3 | Mitigated Risk     |   3.8  | looseknot         |
 | 25 | :soon:            | 2022-04-26 15:00:00 | mildura     |      5 |       10 | Violinist          |   5    | pangea            |
 | 26 | :soon:            | 2022-04-26 14:10:00 | nowra       |      3 |        2 | Echo's Arrow       |   3.9  | looseknot         |
-| 27 | --                | 2022-04-26 13:30:00 | mildura     |      2 |        9 | Starsella          |   6    | looseknot         |
-| 28 | --                | 2022-04-26 13:30:00 | mildura     |      2 |        8 | Senegalia          |   1.85 | vulture           |
+| 27 | :2nd_place_medal: | 2022-04-26 13:30:00 | mildura     |      2 |        9 | Starsella          |   6    | looseknot         |
+| 28 | :3rd_place_medal: | 2022-04-26 13:30:00 | mildura     |      2 |        8 | Senegalia          |   1.85 | vulture           |
 | 29 | :2nd_place_medal: | 2022-04-26 13:00:00 | mildura     |      1 |        1 | Andai Steppes      |   5.5  | looseknot         |
