@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-04-26 22:39:26 +1000  
+date: 2022-04-27 07:37:52 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
-| Last 28 Days   |     60 |      3 |   -493.5 | 0.05 | -0.82 |
-| Last 6 Months  |    611 |     76 |  -1626.5 | 0.12 | -0.27 |
-| Since Jan 2020 |   1522 |    213 |  -2949.3 | 0.14 | -0.19 |
+| Last 7 Days    |     12 |      0 |   -120   | 0    | -1    |
+| Last 28 Days   |     62 |      3 |   -513.5 | 0.05 | -0.83 |
+| Last 6 Months  |    617 |     76 |  -1686.5 | 0.12 | -0.27 |
+| Since Jan 2020 |   1528 |    213 |  -3009.3 | 0.14 | -0.2  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 23:50             | 2022-04-26 | brighton R3                   | 2 Hoffman             |   5.5  |    -10   |
-| 23:30             | 2022-04-26 | nottingham R2                 | 2 Australian Harbour  |   9    |    -10   |
+| 0                 | 2022-04-26 | brighton R3                   | 2 Hoffman             |   0    |    -10   |
+| 0                 | 2022-04-26 | nottingham R2                 | 2 Australian Harbour  |   0    |    -10   |
 | 4                 | 2022-04-26 | yarmouth R1                   | 3 Mitigated Risk      |   3.8  |    -10   |
 | 5                 | 2022-04-26 | nowra R3                      | 2 Echo's Arrow        |   3.9  |    -10   |
 | :2nd_place_medal: | 2022-04-26 | mildura R2                    | 9 Starsella           |   6    |    -10   |

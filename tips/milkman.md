@@ -1,26 +1,26 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-04-26 22:39:25 +1000  
+date: 2022-04-27 07:37:50 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      7 |      4 |     29.5 | 0.57 |  0.42 |
-| Last 28 Days   |    111 |     21 |   -473   | 0.19 | -0.43 |
-| Last 6 Months  |   1193 |    301 |  -2801.3 | 0.25 | -0.23 |
-| Since Jan 2020 |   3116 |    787 |  -5280.1 | 0.25 | -0.17 |
+| Last 7 Days    |     13 |      4 |    -30.5 | 0.31 | -0.23 |
+| Last 28 Days   |    110 |     19 |   -499   | 0.17 | -0.45 |
+| Last 6 Months  |   1199 |    301 |  -2861.3 | 0.25 | -0.24 |
+| Since Jan 2020 |   3122 |    787 |  -5340.1 | 0.25 | -0.17 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 03:35             | 2022-04-27 | punchestown R6               | 2 Bob Olinger         |   2.1  |    -10   |
-| 01:15             | 2022-04-27 | punchestown R2               | 5 Vina Ardanza        |  34    |    -10   |
-| 01:15             | 2022-04-27 | punchestown R2               | 4 Sir Gerhard         |   1.65 |    -10   |
-| 00:40             | 2022-04-27 | punchestown R1               | 5 Party Central       |   2.9  |    -10   |
-| 00:05             | 2022-04-27 | vaal R8                      | 4 Chyavana            |   0    |    -10   |
-| 23:30             | 2022-04-26 | nottingham R2                | 1 New Dimension       |   1.4  |    -10   |
+| 0                 | 2022-04-27 | punchestown R6               | 2 Bob Olinger         |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R2               | 5 Vina Ardanza        |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R2               | 4 Sir Gerhard         |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R1               | 5 Party Central       |   0    |    -10   |
+| 0                 | 2022-04-27 | vaal R8                      | 4 Chyavana            |   0    |    -10   |
+| 0                 | 2022-04-26 | nottingham R2                | 1 New Dimension       |   0    |    -10   |
 | 7                 | 2022-04-25 | flemington R6                | 1 Corkscrew           |   5.5  |    -10   |
 | 7                 | 2022-04-25 | flemington R3                | 8 Miss Dunsford       |   3    |    -10   |
 | :boom:            | 2022-04-25 | flemington R3                | 1 Tijuana             |   2.9  |     19   |

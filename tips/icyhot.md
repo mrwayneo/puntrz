@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-04-26 22:39:25 +1000  
+date: 2022-04-27 07:37:51 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      1 |    -21   | 0.25 | -0.52 |
-| Last 28 Days   |     17 |      2 |   -126   | 0.12 | -0.74 |
-| Last 6 Months  |    227 |     67 |   -656.5 | 0.3  | -0.29 |
-| Since Jan 2020 |    595 |    192 |   -652.6 | 0.32 | -0.11 |
+| Last 7 Days    |      6 |      1 |    -41   | 0.17 | -0.68 |
+| Last 28 Days   |     19 |      2 |   -146   | 0.11 | -0.77 |
+| Last 6 Months  |    229 |     67 |   -676.5 | 0.29 | -0.3  |
+| Since Jan 2020 |    597 |    192 |   -672.6 | 0.32 | -0.11 |
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
-| 02:25             | 2022-04-27 | punchestown R4               | 4 Energumene          |  1.65 |    -10   |
-| 02:25             | 2022-04-27 | punchestown R4               | 3 Chacun Pour Soi     |  2.5  |    -10   |
+| 0                 | 2022-04-27 | punchestown R4               | 4 Energumene          |  0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R4               | 3 Chacun Pour Soi     |  0    |    -10   |
 | :boom:            | 2022-04-25 | darwin R4                    | 4 Poupee              |  1.9  |      9   |
 | 0                 | 2022-04-25 | darwin R4                    | 2 Papalet             |  0    |    -10   |
 | :2nd_place_medal: | 2022-04-25 | darwin R4                    | 3 Bel's Banner        |  2.25 |    -10   |

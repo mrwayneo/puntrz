@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-04-26 22:39:25 +1000  
+date: 2022-04-27 07:37:50 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      7 |      4 |       43 | 0.57 |  0.61 |
-| Last 28 Days   |     21 |      6 |      -51 | 0.29 | -0.24 |
-| Last 6 Months  |    334 |     75 |     -718 | 0.22 | -0.21 |
-| Since Jan 2020 |    914 |    220 |    -1044 | 0.24 | -0.11 |
+| Last 7 Days    |      9 |      4 |       23 | 0.44 |  0.26 |
+| Last 28 Days   |     23 |      6 |      -71 | 0.26 | -0.31 |
+| Last 6 Months  |    336 |     75 |     -738 | 0.22 | -0.22 |
+| Since Jan 2020 |    916 |    220 |    -1064 | 0.24 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 02:25             | 2022-04-27 | punchestown R4                | 4 Energumene          |  1.65 |    -10   |
-| 02:25             | 2022-04-27 | punchestown R4                | 3 Chacun Pour Soi     |  2.5  |    -10   |
+| 0                 | 2022-04-27 | punchestown R4                | 4 Energumene          |  0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R4                | 3 Chacun Pour Soi     |  0    |    -10   |
 | :boom:            | 2022-04-25 | darwin R4                     | 4 Poupee              |  1.9  |      9   |
 | 4                 | 2022-04-25 | flemington R8                 | 12 Rockribbed         |  3.1  |    -10   |
 | 4                 | 2022-04-25 | darwin R3                     | 3 Blueant             |  3.3  |    -10   |

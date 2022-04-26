@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-26 22:39:31 +1000  
+date: 2022-04-27 07:37:57 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |     11 |      6 |     23.6 | 0.55 |  0.21 |
-| Last 6 Months  |    129 |     59 |    155.6 | 0.46 |  0.12 |
-| Since Jan 2020 |    251 |    123 |   1462.3 | 0.49 |  0.58 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |     12 |      6 |     13.6 | 0.5  |  0.11 |
+| Last 6 Months  |    130 |     59 |    145.6 | 0.45 |  0.11 |
+| Since Jan 2020 |    252 |    123 |   1452.3 | 0.49 |  0.58 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 23:30             | 2022-04-26 | nottingham R2                | 1 New Dimension      |  1.4  |    -10   |
+| 0                 | 2022-04-26 | nottingham R2                | 1 New Dimension      |  0    |    -10   |
 | 0                 | 2022-04-16 | newbury R2                   | 10 Shaara            |  0    |    -10   |
 | 0                 | 2022-04-16 | alice-springs R7             | 8 Dakota Lee         |  0    |    -10   |
 | :boom:            | 2022-04-15 | ascot R2                     | 10 Alsephina         |  2    |     10   |

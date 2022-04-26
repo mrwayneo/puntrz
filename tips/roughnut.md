@@ -1,34 +1,34 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-04-26 22:39:28 +1000  
+date: 2022-04-27 07:37:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     71 |      4 |   -349   | 0.06 | -0.49 |
-| Last 28 Days   |    734 |     21 |  -4844   | 0.03 | -0.66 |
-| Last 6 Months  |   8486 |    379 | -28605.5 | 0.04 | -0.34 |
-| Since Jan 2020 |  20270 |   1035 | -46318   | 0.05 | -0.23 |
+| Last 7 Days    |     88 |      4 |   -519   | 0.05 | -0.59 |
+| Last 28 Days   |    706 |     18 |  -4937   | 0.03 | -0.7  |
+| Last 6 Months  |   8503 |    379 | -28775.5 | 0.04 | -0.34 |
+| Since Jan 2020 |  20287 |   1035 | -46488   | 0.05 | -0.23 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:15             | 2022-04-27 | nottingham R7                 | 2 Musical Mystery     |  15    |    -10   |
-| 01:50             | 2022-04-27 | punchestown R3                | 12 Clifton Warrior    |  15    |    -10   |
-| 01:50             | 2022-04-27 | punchestown R3                | 11 Tempo Chapter Two  |  18    |    -10   |
-| 01:50             | 2022-04-27 | punchestown R3                | 7 Tax For Max         |  14    |    -10   |
-| 01:50             | 2022-04-27 | punchestown R3                | 4 Gua Du Large        |  14    |    -10   |
-| 01:50             | 2022-04-27 | punchestown R3                | 2 Felix Desjy         |  13    |    -10   |
-| 00:40             | 2022-04-27 | punchestown R1                | 3 Memory Of Youth     | 126    |    -10   |
-| 00:40             | 2022-04-27 | punchestown R1                | 10 Clairmc            |  81    |    -10   |
-| 00:40             | 2022-04-27 | punchestown R1                | 9 Highstreet Roller   |  81    |    -10   |
-| 00:40             | 2022-04-27 | punchestown R1                | 8 Hidden Land         |  91    |    -10   |
-| 23:50             | 2022-04-26 | brighton R3                   | 3 Buxted Reel         |   6    |    -10   |
-| 23:40             | 2022-04-26 | yarmouth R4                   | 3 Prince Of Bel Lir   |  12    |    -10   |
-| 23:10             | 2022-04-26 | yarmouth R3                   | 2 Canters Well        |  20    |    -10   |
-| 22:50             | 2022-04-26 | brighton R1                   | 4 Lucy Lightfoot      |   4.33 |    -10   |
+| 0                 | 2022-04-27 | nottingham R7                 | 2 Musical Mystery     |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R3                | 12 Clifton Warrior    |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R3                | 11 Tempo Chapter Two  |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R3                | 7 Tax For Max         |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R3                | 4 Gua Du Large        |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R3                | 2 Felix Desjy         |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R1                | 3 Memory Of Youth     |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R1                | 10 Clairmc            |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R1                | 9 Highstreet Roller   |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R1                | 8 Hidden Land         |   0    |    -10   |
+| 0                 | 2022-04-26 | brighton R3                   | 3 Buxted Reel         |   0    |    -10   |
+| 0                 | 2022-04-26 | yarmouth R4                   | 3 Prince Of Bel Lir   |   0    |    -10   |
+| 0                 | 2022-04-26 | yarmouth R3                   | 2 Canters Well        |   0    |    -10   |
+| 0                 | 2022-04-26 | brighton R1                   | 4 Lucy Lightfoot      |   0    |    -10   |
 | 0                 | 2022-04-26 | yarmouth R2                   | 7 Power To Love       |   0    |    -10   |
 | :2nd_place_medal: | 2022-04-26 | nowra R7                      | 2 Choice Deel         |   8.5  |    -10   |
 | :2nd_place_medal: | 2022-04-26 | mildura R8                    | 10 Crystal Dynasty    |   4.8  |    -10   |

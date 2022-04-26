@@ -1,36 +1,36 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-04-26 22:39:24 +1000  
+date: 2022-04-27 07:37:50 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      8 |      3 |     14   | 0.38 |  0.18 |
-| Last 28 Days   |    194 |     17 |  -1445   | 0.09 | -0.74 |
-| Last 6 Months  |   2398 |    555 |  -6581.1 | 0.23 | -0.27 |
-| Since Jan 2020 |   5708 |   1418 |  -8389.7 | 0.25 | -0.15 |
+| Last 7 Days    |     25 |      3 |   -156   | 0.12 | -0.62 |
+| Last 28 Days   |    202 |     16 |  -1548   | 0.08 | -0.77 |
+| Last 6 Months  |   2415 |    555 |  -6751.1 | 0.23 | -0.28 |
+| Since Jan 2020 |   5725 |   1418 |  -8559.7 | 0.25 | -0.15 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 04:45             | 2022-04-27 | punchestown R8               | 16 Vadsa Queen        |   5.5  |    -10   |
-| 04:45             | 2022-04-27 | punchestown R8               | 7 Lisnagar Fortune    |   2.8  |    -10   |
-| 04:10             | 2022-04-27 | punchestown R7               | 15 Loggan Lady        |  26    |    -10   |
-| 04:10             | 2022-04-27 | punchestown R7               | 1 Good Bye Sam        |   1.8  |    -10   |
-| 03:00             | 2022-04-27 | punchestown R5               | 13 Elle Klassycco     |   7    |    -10   |
-| 03:00             | 2022-04-27 | punchestown R5               | 12 Rocco Ray          |   3.9  |    -10   |
-| 02:25             | 2022-04-27 | punchestown R4               | 4 Energumene          |   1.65 |    -10   |
-| 02:25             | 2022-04-27 | punchestown R4               | 3 Chacun Pour Soi     |   2.5  |    -10   |
-| 01:50             | 2022-04-27 | punchestown R3               | 3 Farout              |   7.5  |    -10   |
-| 01:15             | 2022-04-27 | punchestown R2               | 4 Sir Gerhard         |   1.65 |    -10   |
-| 01:15             | 2022-04-27 | punchestown R2               | 1 Dysart Dynamo       |   2.75 |    -10   |
-| 01:05             | 2022-04-27 | nottingham R5                | 4 Noon Star           |   1.85 |    -10   |
-| 00:40             | 2022-04-27 | punchestown R1               | 7 Grangee             |   4    |    -10   |
-| 00:30             | 2022-04-27 | nottingham R4                | 3 Sunrise Valley      |   3.4  |    -10   |
-| 23:30             | 2022-04-26 | nottingham R2                | 1 New Dimension       |   1.4  |    -10   |
-| 23:10             | 2022-04-26 | yarmouth R3                  | 5 Knight Of Honour    |   2.2  |    -10   |
+| 0                 | 2022-04-27 | punchestown R8               | 16 Vadsa Queen        |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R8               | 7 Lisnagar Fortune    |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R7               | 15 Loggan Lady        |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R7               | 1 Good Bye Sam        |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R5               | 13 Elle Klassycco     |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R5               | 12 Rocco Ray          |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R4               | 4 Energumene          |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R4               | 3 Chacun Pour Soi     |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R3               | 3 Farout              |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R2               | 4 Sir Gerhard         |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R2               | 1 Dysart Dynamo       |   0    |    -10   |
+| 0                 | 2022-04-27 | nottingham R5                | 4 Noon Star           |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R1               | 7 Grangee             |   0    |    -10   |
+| 0                 | 2022-04-27 | nottingham R4                | 3 Sunrise Valley      |   0    |    -10   |
+| 0                 | 2022-04-26 | nottingham R2                | 1 New Dimension       |   0    |    -10   |
+| 0                 | 2022-04-26 | yarmouth R3                  | 5 Knight Of Honour    |   0    |    -10   |
 | 0                 | 2022-04-26 | yarmouth R2                  | 8 Shining Al Danah    |   0    |    -10   |
 | :2nd_place_medal: | 2022-04-26 | windsor R6                   | 4 Cosmic Desert       |   2.1  |    -10   |
 | 4                 | 2022-04-25 | flemington R8                | 12 Rockribbed         |   3.1  |    -10   |

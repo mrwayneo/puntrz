@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2022-04-26 22:39:23 +1000  
+date: 2022-04-27 07:37:49 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     29 |      9 |    123   | 0.31 |  0.42 |
-| Last 28 Days   |    167 |     37 |    281   | 0.22 |  0.17 |
-| Last 6 Months  |   1950 |    394 |  -3618.4 | 0.2  | -0.19 |
-| Since Jan 2020 |   5086 |   1072 |  -4646.3 | 0.21 | -0.09 |
+| Last 7 Days    |     34 |      9 |     73   | 0.26 |  0.21 |
+| Last 28 Days   |    158 |     36 |    286   | 0.23 |  0.18 |
+| Last 6 Months  |   1955 |    394 |  -3668.4 | 0.2  | -0.19 |
+| Since Jan 2020 |   5091 |   1072 |  -4696.3 | 0.21 | -0.09 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:25             | 2022-04-27 | punchestown R4                | 4 Energumene          |   1.65 |    -10   |
-| 02:25             | 2022-04-27 | punchestown R4                | 3 Chacun Pour Soi     |   2.5  |    -10   |
-| 01:50             | 2022-04-27 | punchestown R3                | 8 Glan                |   6    |    -10   |
-| 00:05             | 2022-04-27 | vaal R8                       | 1 Let There Be Light  |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R4                | 4 Energumene          |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R4                | 3 Chacun Pour Soi     |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R3                | 8 Glan                |   0    |    -10   |
+| 0                 | 2022-04-27 | vaal R8                       | 1 Let There Be Light  |   0    |    -10   |
 | 4                 | 2022-04-26 | mildura R5                    | 10 Violinist          |   5    |    -10   |
 | :2nd_place_medal: | 2022-04-25 | ascot R7                      | 4 Prince Turbo        |   5.5  |    -10   |
 | :boom:            | 2022-04-25 | ascot R6                      | 3 Dee Keepa           |   5.6  |     46   |

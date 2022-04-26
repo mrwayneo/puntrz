@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-04-26 22:39:22 +1000  
+date: 2022-04-27 07:37:48 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     42 |     11 |      4   | 0.26 |  0.01 |
-| Last 28 Days   |    264 |     40 |  -1096.1 | 0.15 | -0.42 |
-| Last 6 Months  |   2626 |    634 |  -5567.5 | 0.24 | -0.21 |
-| Since Jan 2020 |   7334 |   1769 | -12246.9 | 0.24 | -0.17 |
+| Last 7 Days    |     46 |     11 |    -36   | 0.24 | -0.08 |
+| Last 28 Days   |    246 |     38 |   -956.5 | 0.15 | -0.39 |
+| Last 6 Months  |   2630 |    634 |  -5607.5 | 0.24 | -0.21 |
+| Since Jan 2020 |   7338 |   1769 | -12286.9 | 0.24 | -0.17 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 00:05             | 2022-04-27 | vaal R8                       | 2 Motor City Hitman   |   0    |    -10   |
-| 00:05             | 2022-04-27 | vaal R8                       | 4 Chyavana            |   0    |    -10   |
-| 23:30             | 2022-04-26 | nottingham R2                 | 1 New Dimension       |   1.4  |    -10   |
+| 0                 | 2022-04-27 | vaal R8                       | 2 Motor City Hitman   |   0    |    -10   |
+| 0                 | 2022-04-27 | vaal R8                       | 4 Chyavana            |   0    |    -10   |
+| 0                 | 2022-04-26 | nottingham R2                 | 1 New Dimension       |   0    |    -10   |
 | :3rd_place_medal: | 2022-04-26 | mildura R2                    | 8 Senegalia           |   1.85 |    -10   |
 | 0                 | 2022-04-26 | windsor R7                    | 1 Circle Time         |   0    |    -10   |
 | :boom:            | 2022-04-26 | windsor R6                    | 6 Deauville Legend    |   6.5  |     55   |

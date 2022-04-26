@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2022-04-26 22:39:22 +1000  
+date: 2022-04-27 07:37:48 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      3 |     34   | 0.5  |  0.57 |
-| Last 28 Days   |     60 |      8 |   -352   | 0.13 | -0.59 |
-| Last 6 Months  |    618 |    147 |  -2150.3 | 0.24 | -0.35 |
-| Since Jan 2020 |   1519 |    409 |  -3286.5 | 0.27 | -0.22 |
+| Last 7 Days    |      7 |      3 |     24   | 0.43 |  0.34 |
+| Last 28 Days   |     58 |      8 |   -332   | 0.14 | -0.57 |
+| Last 6 Months  |    619 |    147 |  -2160.3 | 0.24 | -0.35 |
+| Since Jan 2020 |   1520 |    409 |  -3296.5 | 0.27 | -0.22 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 23:30             | 2022-04-26 | nottingham R2                | 1 New Dimension       |   1.4  |    -10   |
+| 0                 | 2022-04-26 | nottingham R2                | 1 New Dimension       |   0    |    -10   |
 | 4                 | 2022-04-25 | flemington R8                | 12 Rockribbed         |   3.1  |    -10   |
 | :boom:            | 2022-04-25 | flemington R2                | 12 I Am Me            |   1.7  |      7   |
 | :boom:            | 2022-04-24 | hobart R8                    | 4 Sh'bourne Rebel     |   5.3  |     43   |

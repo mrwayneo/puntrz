@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-04-26 22:39:22 +1000  
+date: 2022-04-27 07:37:48 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     25 |      4 |    131   | 0.16 |  0.52 |
-| Last 6 Months  |    345 |     64 |   -880.5 | 0.19 | -0.26 |
-| Since Jan 2020 |    959 |    200 |   -886.5 | 0.21 | -0.09 |
+| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
+| Last 28 Days   |     21 |      4 |    171   | 0.19 |  0.81 |
+| Last 6 Months  |    346 |     64 |   -890.5 | 0.18 | -0.26 |
+| Since Jan 2020 |    960 |    200 |   -896.5 | 0.21 | -0.09 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 00:05             | 2022-04-27 | vaal R8                       | 1 Let There Be Light  |  0    |    -10   |
+| 0                 | 2022-04-27 | vaal R8                       | 1 Let There Be Light  |  0    |    -10   |
 | 4                 | 2022-04-25 | darwin R2                     | 1 Rich Sun            |  3.2  |    -10   |
 | :3rd_place_medal: | 2022-04-25 | kensington R2                 | 2 Terrameades         |  2.45 |    -10   |
 | 5                 | 2022-04-16 | ascot R9                      | 3 Alien From Mars     |  7.5  |    -10   |

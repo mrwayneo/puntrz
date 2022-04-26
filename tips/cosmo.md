@@ -1,26 +1,26 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-04-26 22:39:25 +1000  
+date: 2022-04-27 07:37:51 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     28 |      3 |       14 | 0.11 |  0.05 |
-| Last 28 Days   |    230 |      8 |    -1275 | 0.03 | -0.55 |
-| Last 6 Months  |   2491 |    129 |    -5563 | 0.05 | -0.22 |
-| Since Jan 2020 |   6004 |    351 |    -1792 | 0.06 | -0.03 |
+| Last 7 Days    |     36 |      3 |      -66 | 0.08 | -0.18 |
+| Last 28 Days   |    222 |      7 |    -1307 | 0.03 | -0.59 |
+| Last 6 Months  |   2499 |    129 |    -5643 | 0.05 | -0.23 |
+| Since Jan 2020 |   6012 |    351 |    -1872 | 0.06 | -0.03 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:50             | 2022-04-27 | punchestown R3                | 2 Felix Desjy         |  13    |      -10 |
-| 01:50             | 2022-04-27 | punchestown R3                | 11 Tempo Chapter Two  |  18    |      -10 |
-| 01:50             | 2022-04-27 | punchestown R3                | 7 Tax For Max         |  14    |      -10 |
-| 01:50             | 2022-04-27 | punchestown R3                | 4 Gua Du Large        |  14    |      -10 |
-| 23:40             | 2022-04-26 | yarmouth R4                   | 3 Prince Of Bel Lir   |  12    |      -10 |
-| 23:10             | 2022-04-26 | yarmouth R3                   | 2 Canters Well        |  20    |      -10 |
+| 0                 | 2022-04-27 | punchestown R3                | 2 Felix Desjy         |   0    |      -10 |
+| 0                 | 2022-04-27 | punchestown R3                | 11 Tempo Chapter Two  |   0    |      -10 |
+| 0                 | 2022-04-27 | punchestown R3                | 7 Tax For Max         |   0    |      -10 |
+| 0                 | 2022-04-27 | punchestown R3                | 4 Gua Du Large        |   0    |      -10 |
+| 0                 | 2022-04-26 | yarmouth R4                   | 3 Prince Of Bel Lir   |   0    |      -10 |
+| 0                 | 2022-04-26 | yarmouth R3                   | 2 Canters Well        |   0    |      -10 |
 | 0                 | 2022-04-26 | yarmouth R2                   | 7 Power To Love       |   0    |      -10 |
 | :2nd_place_medal: | 2022-04-26 | mildura R8                    | 10 Crystal Dynasty    |   4.8  |      -10 |
 | 0                 | 2022-04-26 | southwell R5                  | 1 Global Esteem       |   0    |      -10 |

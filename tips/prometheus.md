@@ -1,34 +1,34 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-04-26 22:39:26 +1000  
+date: 2022-04-27 07:37:52 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     98 |      8 |   -653.5 | 0.08 | -0.67 |
-| Last 28 Days   |    580 |     41 |  -3806   | 0.07 | -0.66 |
-| Last 6 Months  |   6706 |    825 | -20941.2 | 0.12 | -0.31 |
-| Since Jan 2020 |  14209 |   2146 | -25640.7 | 0.15 | -0.18 |
+| Last 7 Days    |    124 |      9 |   -887.5 | 0.07 | -0.72 |
+| Last 28 Days   |    569 |     40 |  -3711.5 | 0.07 | -0.65 |
+| Last 6 Months  |   6732 |    826 | -21175.2 | 0.12 | -0.31 |
+| Since Jan 2020 |  14235 |   2147 | -25874.7 | 0.15 | -0.18 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:30             | 2022-04-27 | ayr R7                        | 3 Taskheer            |   3    |    -10   |
-| 04:45             | 2022-04-27 | punchestown R8                | 7 Lisnagar Fortune    |   2.8  |    -10   |
-| 00:13             | 2022-04-27 | yarmouth R5                   | 5 Hotspur Harry       |   2.5  |    -10   |
-| 00:05             | 2022-04-27 | vaal R8                       | 9 Master Of Law       |   0    |    -10   |
-| 00:05             | 2022-04-27 | vaal R8                       | 8 Escape Artist       |   0    |    -10   |
-| 00:05             | 2022-04-27 | vaal R8                       | 7 Rodriguez           |   0    |    -10   |
-| 00:05             | 2022-04-27 | vaal R8                       | 5 Banha Bridge        |   0    |    -10   |
-| 00:05             | 2022-04-27 | vaal R8                       | 3 Dual At Dawn        |   0    |    -10   |
-| 00:05             | 2022-04-27 | vaal R8                       | 1 Let There Be Light  |   0    |    -10   |
-| 23:40             | 2022-04-26 | yarmouth R4                   | 9 Special Mayson      |   2.88 |    -10   |
-| 23:05             | 2022-04-26 | vaal R6                       | 1 Remember When       |   0    |    -10   |
-| 23:05             | 2022-04-26 | vaal R6                       | 2 Look Yourself       |   0    |    -10   |
-| 23:05             | 2022-04-26 | vaal R6                       | 3 Lollapalooza        |   0    |    -10   |
-| 23:05             | 2022-04-26 | vaal R6                       | 5 Gin And Tonic       |   0    |    -10   |
+| 0                 | 2022-04-27 | ayr R7                        | 3 Taskheer            |   0    |    -10   |
+| 0                 | 2022-04-27 | punchestown R8                | 7 Lisnagar Fortune    |   0    |    -10   |
+| 0                 | 2022-04-27 | yarmouth R5                   | 5 Hotspur Harry       |   0    |    -10   |
+| 0                 | 2022-04-27 | vaal R8                       | 9 Master Of Law       |   0    |    -10   |
+| 0                 | 2022-04-27 | vaal R8                       | 8 Escape Artist       |   0    |    -10   |
+| 0                 | 2022-04-27 | vaal R8                       | 7 Rodriguez           |   0    |    -10   |
+| 0                 | 2022-04-27 | vaal R8                       | 5 Banha Bridge        |   0    |    -10   |
+| 0                 | 2022-04-27 | vaal R8                       | 3 Dual At Dawn        |   0    |    -10   |
+| 0                 | 2022-04-27 | vaal R8                       | 1 Let There Be Light  |   0    |    -10   |
+| 0                 | 2022-04-26 | yarmouth R4                   | 9 Special Mayson      |   0    |    -10   |
+| 0                 | 2022-04-26 | vaal R6                       | 1 Remember When       |   0    |    -10   |
+| 0                 | 2022-04-26 | vaal R6                       | 2 Look Yourself       |   0    |    -10   |
+| 0                 | 2022-04-26 | vaal R6                       | 3 Lollapalooza        |   0    |    -10   |
+| 0                 | 2022-04-26 | vaal R6                       | 5 Gin And Tonic       |   0    |    -10   |
 | 0                 | 2022-04-26 | vaal R5                       | 7 Fast Love           |   0    |    -10   |
 | 0                 | 2022-04-26 | vaal R5                       | 1 Constable           |   0    |    -10   |
 | 0                 | 2022-04-26 | vaal R4                       | 3 Country Flame       |   0    |    -10   |
