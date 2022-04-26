@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-26 22:08:28 +1000  
+date: 2022-04-26 22:09:29 +1000  
 ---   
 
 
@@ -75,35 +75,35 @@ date: 2022-04-26 22:08:28 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   6022 |    706 | -17363.6 | 0.12 | -0.29 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7343 |    308 | -28296.5 | 0.04 | -0.39 |
 
-|    | finish                   | time                | track       |   race |   number | name               |   odds | tipster           |
-|---:|:-------------------------|:--------------------|:------------|-------:|---------:|:-------------------|-------:|:------------------|
-|  0 | :soon:                   | 2022-04-27 04:45:00 | punchestown |      8 |       16 | Vadsa Queen        |   5.5  | overthrow         |
-|  1 | :soon:                   | 2022-04-27 04:10:00 | punchestown |      7 |       15 | Loggan Lady        |  26    | overthrow         |
-|  2 | :soon:                   | 2022-04-27 04:10:00 | punchestown |      7 |        1 | Good Bye Sam       |   1.8  | overthrow         |
-|  3 | :soon:                   | 2022-04-27 03:35:00 | punchestown |      6 |        2 | Bob Olinger        |   2.1  | milkman           |
-|  4 | :soon:                   | 2022-04-27 03:00:00 | punchestown |      5 |       12 | Rocco Ray          |   3.9  | overthrow         |
-|  5 | :soon:                   | 2022-04-27 03:00:00 | punchestown |      5 |       13 | Elle Klassycco     |   7    | overthrow         |
-|  6 | :soon:                   | 2022-04-27 02:25:00 | punchestown |      4 |        3 | Chacun Pour Soi    |   2.5  | pangea,icyhot     |
-|  7 | :soon:                   | 2022-04-27 02:25:00 | punchestown |      4 |        4 | Energumene         |   1.65 | pangea,icyhot     |
-|  8 | :soon:                   | 2022-04-27 01:50:00 | punchestown |      3 |        8 | Glan               |   6    | pangea            |
-|  9 | :soon:                   | 2022-04-27 01:50:00 | punchestown |      3 |        3 | Farout             |   7.5  | overthrow         |
-| 10 | :soon:                   | 2022-04-27 01:15:00 | punchestown |      2 |        4 | Sir Gerhard        |   1.65 | overthrow,milkman |
-| 11 | :soon:                   | 2022-04-27 01:15:00 | punchestown |      2 |        5 | Vina Ardanza       |  34    | milkman           |
-| 12 | :soon:                   | 2022-04-27 01:15:00 | punchestown |      2 |        1 | Dysart Dynamo      |   2.75 | overthrow         |
-| 13 | :soon:                   | 2022-04-27 01:05:00 | nottingham  |      5 |        4 | Noon Star          |   1.85 | overthrow         |
-| 14 | :soon:                   | 2022-04-27 00:40:00 | punchestown |      1 |        7 | Grangee            |   4    | overthrow         |
-| 15 | :soon:                   | 2022-04-27 00:40:00 | punchestown |      1 |        5 | Party Central      |   2.9  | milkman           |
-| 16 | :soon:                   | 2022-04-27 00:30:00 | nottingham  |      4 |        3 | Sunrise Valley     |   3.4  | overthrow         |
-| 17 | :soon:                   | 2022-04-27 00:05:00 | vaal        |      8 |        4 | Chyavana           |   0    | vulture,milkman   |
-| 18 | :soon:                   | 2022-04-27 00:05:00 | vaal        |      8 |        2 | Motor City Hitman  |   0    | vulture           |
-| 19 | :soon:                   | 2022-04-26 23:50:00 | brighton    |      3 |        2 | Hoffman            |   5.5  | looseknot         |
-| 20 | :soon:                   | 2022-04-26 23:30:00 | nottingham  |      2 |        1 | New Dimension      |   1.4  | evenodds,lago     |
-| 21 | :soon:                   | 2022-04-26 23:30:00 | nottingham  |      2 |        2 | Australian Harbour |   9    | looseknot         |
-| 22 | :soon:                   | 2022-04-26 23:10:00 | yarmouth    |      3 |        5 | Knight Of Honour   |   2.2  | overthrow         |
-| 23 | :soon:                   | 2022-04-26 22:35:00 | yarmouth    |      2 |        8 | Shining Al Danah   |   2.4  | overthrow         |
-| 24 | :hourglass_flowing_sand: | 2022-04-26 22:05:00 | yarmouth    |      1 |        3 | Mitigated Risk     |   3.8  | looseknot         |
-| 25 | 4.0                      | 2022-04-26 15:00:00 | mildura     |      5 |       10 | Violinist          |   5    | pangea            |
-| 26 | 5.0                      | 2022-04-26 14:10:00 | nowra       |      3 |        2 | Echo's Arrow       |   3.9  | looseknot         |
-| 27 | :2nd_place_medal:        | 2022-04-26 13:30:00 | mildura     |      2 |        9 | Starsella          |   6    | looseknot         |
-| 28 | :3rd_place_medal:        | 2022-04-26 13:30:00 | mildura     |      2 |        8 | Senegalia          |   1.85 | vulture           |
-| 29 | :2nd_place_medal:        | 2022-04-26 13:00:00 | mildura     |      1 |        1 | Andai Steppes      |   5.5  | looseknot         |
+|    | finish            | time                | track       |   race |   number | name               |   odds | tipster           |
+|---:|:------------------|:--------------------|:------------|-------:|---------:|:-------------------|-------:|:------------------|
+|  0 | :soon:            | 2022-04-27 04:45:00 | punchestown |      8 |       16 | Vadsa Queen        |   5.5  | overthrow         |
+|  1 | :soon:            | 2022-04-27 04:10:00 | punchestown |      7 |       15 | Loggan Lady        |  26    | overthrow         |
+|  2 | :soon:            | 2022-04-27 04:10:00 | punchestown |      7 |        1 | Good Bye Sam       |   1.8  | overthrow         |
+|  3 | :soon:            | 2022-04-27 03:35:00 | punchestown |      6 |        2 | Bob Olinger        |   2.1  | milkman           |
+|  4 | :soon:            | 2022-04-27 03:00:00 | punchestown |      5 |       12 | Rocco Ray          |   3.9  | overthrow         |
+|  5 | :soon:            | 2022-04-27 03:00:00 | punchestown |      5 |       13 | Elle Klassycco     |   7    | overthrow         |
+|  6 | :soon:            | 2022-04-27 02:25:00 | punchestown |      4 |        3 | Chacun Pour Soi    |   2.5  | pangea,icyhot     |
+|  7 | :soon:            | 2022-04-27 02:25:00 | punchestown |      4 |        4 | Energumene         |   1.65 | pangea,icyhot     |
+|  8 | :soon:            | 2022-04-27 01:50:00 | punchestown |      3 |        8 | Glan               |   6    | pangea            |
+|  9 | :soon:            | 2022-04-27 01:50:00 | punchestown |      3 |        3 | Farout             |   7.5  | overthrow         |
+| 10 | :soon:            | 2022-04-27 01:15:00 | punchestown |      2 |        4 | Sir Gerhard        |   1.65 | overthrow,milkman |
+| 11 | :soon:            | 2022-04-27 01:15:00 | punchestown |      2 |        5 | Vina Ardanza       |  34    | milkman           |
+| 12 | :soon:            | 2022-04-27 01:15:00 | punchestown |      2 |        1 | Dysart Dynamo      |   2.75 | overthrow         |
+| 13 | :soon:            | 2022-04-27 01:05:00 | nottingham  |      5 |        4 | Noon Star          |   1.85 | overthrow         |
+| 14 | :soon:            | 2022-04-27 00:40:00 | punchestown |      1 |        7 | Grangee            |   4    | overthrow         |
+| 15 | :soon:            | 2022-04-27 00:40:00 | punchestown |      1 |        5 | Party Central      |   2.9  | milkman           |
+| 16 | :soon:            | 2022-04-27 00:30:00 | nottingham  |      4 |        3 | Sunrise Valley     |   3.4  | overthrow         |
+| 17 | :soon:            | 2022-04-27 00:05:00 | vaal        |      8 |        4 | Chyavana           |   0    | vulture,milkman   |
+| 18 | :soon:            | 2022-04-27 00:05:00 | vaal        |      8 |        2 | Motor City Hitman  |   0    | vulture           |
+| 19 | :soon:            | 2022-04-26 23:50:00 | brighton    |      3 |        2 | Hoffman            |   5.5  | looseknot         |
+| 20 | :soon:            | 2022-04-26 23:30:00 | nottingham  |      2 |        1 | New Dimension      |   1.4  | evenodds,lago     |
+| 21 | :soon:            | 2022-04-26 23:30:00 | nottingham  |      2 |        2 | Australian Harbour |   9    | looseknot         |
+| 22 | :soon:            | 2022-04-26 23:10:00 | yarmouth    |      3 |        5 | Knight Of Honour   |   2.2  | overthrow         |
+| 23 | :soon:            | 2022-04-26 22:35:00 | yarmouth    |      2 |        8 | Shining Al Danah   |   2.4  | overthrow         |
+| 24 | --                | 2022-04-26 22:05:00 | yarmouth    |      1 |        3 | Mitigated Risk     |   3.8  | looseknot         |
+| 25 | 4.0               | 2022-04-26 15:00:00 | mildura     |      5 |       10 | Violinist          |   5    | pangea            |
+| 26 | 5.0               | 2022-04-26 14:10:00 | nowra       |      3 |        2 | Echo's Arrow       |   3.9  | looseknot         |
+| 27 | :2nd_place_medal: | 2022-04-26 13:30:00 | mildura     |      2 |        9 | Starsella          |   6    | looseknot         |
+| 28 | :3rd_place_medal: | 2022-04-26 13:30:00 | mildura     |      2 |        8 | Senegalia          |   1.85 | vulture           |
+| 29 | :2nd_place_medal: | 2022-04-26 13:00:00 | mildura     |      1 |        1 | Andai Steppes      |   5.5  | looseknot         |
