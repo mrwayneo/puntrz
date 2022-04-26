@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-26 22:09:29 +1000  
+date: 2022-04-26 22:24:29 +1000  
 ---   
 
 
@@ -101,7 +101,7 @@ date: 2022-04-26 22:09:29 +1000
 | 21 | :soon:            | 2022-04-26 23:30:00 | nottingham  |      2 |        2 | Australian Harbour |   9    | looseknot         |
 | 22 | :soon:            | 2022-04-26 23:10:00 | yarmouth    |      3 |        5 | Knight Of Honour   |   2.2  | overthrow         |
 | 23 | :soon:            | 2022-04-26 22:35:00 | yarmouth    |      2 |        8 | Shining Al Danah   |   2.4  | overthrow         |
-| 24 | --                | 2022-04-26 22:05:00 | yarmouth    |      1 |        3 | Mitigated Risk     |   3.8  | looseknot         |
+| 24 | 4.0               | 2022-04-26 22:05:00 | yarmouth    |      1 |        3 | Mitigated Risk     |   3.8  | looseknot         |
 | 25 | 4.0               | 2022-04-26 15:00:00 | mildura     |      5 |       10 | Violinist          |   5    | pangea            |
 | 26 | 5.0               | 2022-04-26 14:10:00 | nowra       |      3 |        2 | Echo's Arrow       |   3.9  | looseknot         |
 | 27 | :2nd_place_medal: | 2022-04-26 13:30:00 | mildura     |      2 |        9 | Starsella          |   6    | looseknot         |
