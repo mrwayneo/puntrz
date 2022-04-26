@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-26 12:46:03 +1000  
+date: 2022-04-26 13:01:51 +1000  
 ---   
 
 
@@ -106,4 +106,4 @@ date: 2022-04-26 12:46:03 +1000
 | 26 | :soon:   | 2022-04-26 14:10:00 | nowra       |      3 |        2 | Echo's Arrow       |   3.9  | looseknot         |
 | 27 | :soon:   | 2022-04-26 13:30:00 | mildura     |      2 |        9 | Starsella          |   6    | looseknot         |
 | 28 | :soon:   | 2022-04-26 13:30:00 | mildura     |      2 |        8 | Senegalia          |   1.85 | vulture           |
-| 29 | :soon:   | 2022-04-26 13:00:00 | mildura     |      1 |        1 | Andai Steppes      |   5.5  | looseknot         |
+| 29 | --       | 2022-04-26 13:00:00 | mildura     |      1 |        1 | Andai Steppes      |   5.5  | looseknot         |
