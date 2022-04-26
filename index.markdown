@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-26 14:05:23 +1000  
+date: 2022-04-26 14:20:22 +1000  
 ---   
 
 
@@ -103,7 +103,7 @@ date: 2022-04-26 14:05:23 +1000
 | 23 | :soon:            | 2022-04-26 22:35:00 | yarmouth    |      2 |        8 | Shining Al Danah   |   2.4  | overthrow         |
 | 24 | :soon:            | 2022-04-26 22:05:00 | yarmouth    |      1 |        3 | Mitigated Risk     |   3.8  | looseknot         |
 | 25 | :soon:            | 2022-04-26 15:00:00 | mildura     |      5 |       10 | Violinist          |   5    | pangea            |
-| 26 | :soon:            | 2022-04-26 14:10:00 | nowra       |      3 |        2 | Echo's Arrow       |   3.9  | looseknot         |
+| 26 | --                | 2022-04-26 14:10:00 | nowra       |      3 |        2 | Echo's Arrow       |   3.9  | looseknot         |
 | 27 | :2nd_place_medal: | 2022-04-26 13:30:00 | mildura     |      2 |        9 | Starsella          |   6    | looseknot         |
 | 28 | :3rd_place_medal: | 2022-04-26 13:30:00 | mildura     |      2 |        8 | Senegalia          |   1.85 | vulture           |
 | 29 | :2nd_place_medal: | 2022-04-26 13:00:00 | mildura     |      1 |        1 | Andai Steppes      |   5.5  | looseknot         |
