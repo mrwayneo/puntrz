@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-04-27 07:37:57 +1000  
+date: 2022-04-28 08:16:13 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 19:05             | 2022-04-28 | narrogin R7            | 3 Hilton             |  1.9  |    -10   |
 | :2nd_place_medal: | 2022-04-25 | lingfield R3           | 1 Goldsmith          |  1.9  |    -10   |
 | 0                 | 2022-04-08 | chelmsford-city R3     | 2 Intelligentsia     |  0    |    -10   |
 | 0                 | 2022-04-06 | sandown-lakeside R2    | 6 Rockribbed         |  0    |    -10   |

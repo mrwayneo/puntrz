@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-27 07:37:56 +1000  
+date: 2022-04-28 08:16:13 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,17 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      4 |      0 |      -40 | 0    | -1    |
-| Last 28 Days   |     23 |      2 |     -153 | 0.09 | -0.67 |
+| Last 28 Days   |     19 |      1 |     -160 | 0.05 | -0.84 |
 | Last 6 Months  |    367 |     85 |    -1047 | 0.23 | -0.29 |
 | Since Jan 2020 |   1085 |    262 |    -1949 | 0.24 | -0.18 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 16:40             | 2022-04-28 | wyong R8              | 3 Harlem Groove       |   4    |    -10   |
+| 16:05             | 2022-04-28 | wyong R7              | 4 Cushy               |   4    |    -10   |
+| 14:50             | 2022-04-28 | wyong R5              | 3 Duke Of Gordon      |   1.4  |    -10   |
+| 14:10             | 2022-04-28 | wyong R4              | 7 Awesome Wonder      |   5    |    -10   |
+| 12:55             | 2022-04-28 | wyong R2              | 4 Not That Easy       |   3.2  |    -10   |
 | :3rd_place_medal: | 2022-04-25 | kensington R5         | 6 Thalassophile       |   1.75 |    -10   |
 | 6                 | 2022-04-25 | kensington R3         | 10 Royal Ballet       |   6    |    -10   |
 | 4                 | 2022-04-25 | kensington R2         | 6 Rinnova             |   3.25 |    -10   |
