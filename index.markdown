@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-28 14:31:37 +1000  
+date: 2022-04-28 15:09:15 +1000  
 ---   
 
 
@@ -9,19 +9,19 @@ date: 2022-04-28 14:31:37 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      1 |       -6 | 0.2  | -0.12 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      2 |       11 | 0.4  |  0.22 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      0 |      -70 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      1 |      -53 | 0.14 | -0.76 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     14 |      0 |     -140 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     18 |      1 |     -146 | 0.06 | -0.81 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     25 |      1 |     -238 | 0.04 | -0.95 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     63 |      1 |     -444 | 0.02 | -0.7  |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     63 |      2 |     -341 | 0.03 | -0.54 |
 
 ##### Form Last 20 tips   
 
@@ -115,7 +115,7 @@ date: 2022-04-28 14:31:37 +1000
 | 35 | :soon:            | 2022-04-28 16:05:00 | wyong           |      7 |        4 | Cushy              |   4    | pikey                |
 | 36 | :soon:            | 2022-04-28 15:34:00 | mackay          |      6 |        1 | Aleysa's Dream     |   1.75 | vulture              |
 | 37 | :soon:            | 2022-04-28 15:30:00 | mornington      |      6 |        7 | Excela Bella       |   4.6  | pangea               |
-| 38 | :soon:            | 2022-04-28 14:50:00 | wyong           |      5 |        3 | Duke Of Gordon     |   1.4  | pangea,pikey         |
+| 38 | :boom:            | 2022-04-28 14:50:00 | wyong           |      5 |        3 | Duke Of Gordon     |   1.4  | pangea,pikey         |
 | 39 | :3rd_place_medal: | 2022-04-28 14:17:00 | mackay          |      4 |        8 | Hilflager          |   4.6  | overthrow            |
 | 40 | :boom:            | 2022-04-28 14:10:00 | wyong           |      4 |        7 | Awesome Wonder     |   5    | pikey                |
 | 41 | :2nd_place_medal: | 2022-04-28 13:04:00 | mackay          |      2 |        2 | Zipping Irish      |   1.57 | overthrow            |
