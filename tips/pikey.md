@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-28 12:53:41 +1000  
+date: 2022-04-28 13:18:09 +1000  
 categories: None 
 ---   
 
@@ -19,7 +19,7 @@ categories: None
 | 16:05             | 2022-04-28 | wyong R7              | 4 Cushy               |   4    |    -10   |
 | 14:50             | 2022-04-28 | wyong R5              | 3 Duke Of Gordon      |   1.4  |    -10   |
 | 14:10             | 2022-04-28 | wyong R4              | 7 Awesome Wonder      |   5    |    -10   |
-| 12:55             | 2022-04-28 | wyong R2              | 4 Not That Easy       |   3.2  |    -10   |
+| 4                 | 2022-04-28 | wyong R2              | 4 Not That Easy       |   3.2  |    -10   |
 | :3rd_place_medal: | 2022-04-25 | kensington R5         | 6 Thalassophile       |   1.75 |    -10   |
 | 6                 | 2022-04-25 | kensington R3         | 10 Royal Ballet       |   6    |    -10   |
 | 4                 | 2022-04-25 | kensington R2         | 6 Rinnova             |   3.25 |    -10   |
