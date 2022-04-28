@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-28 13:39:22 +1000  
+date: 2022-04-28 13:56:21 +1000  
 ---   
 
 
@@ -120,6 +120,6 @@ date: 2022-04-28 13:39:22 +1000
 | 40 | :soon:            | 2022-04-28 14:10:00 | wyong           |      4 |        7 | Awesome Wonder     |   5    | pikey                |
 | 41 | :2nd_place_medal: | 2022-04-28 13:04:00 | mackay          |      2 |        2 | Zipping Irish      |   1.57 | overthrow            |
 | 42 | :3rd_place_medal: | 2022-04-28 13:04:00 | mackay          |      2 |        4 | Bright And Ready   |   4.8  | vulture              |
-| 43 | --                | 2022-04-28 13:04:00 | mackay          |      2 |        3 | Heroic Angel       |   6    | cosmo,bob            |
+| 43 | 5.0               | 2022-04-28 13:04:00 | mackay          |      2 |        3 | Heroic Angel       |   6    | cosmo,bob            |
 | 44 | 4.0               | 2022-04-28 12:55:00 | wyong           |      2 |        4 | Not That Easy      |   3.2  | pikey                |
 | 45 | :boom:            | 2022-04-28 12:27:00 | mackay          |      1 |        4 | Akatino            |   4    | vulture              |
