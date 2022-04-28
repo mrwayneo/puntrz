@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-28 15:09:14 +1000  
+date: 2022-04-28 18:49:50 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 16:40             | 2022-04-28 | wyong R8              | 3 Harlem Groove       |   4    |    -10   |
-| 16:05             | 2022-04-28 | wyong R7              | 4 Cushy               |   4    |    -10   |
+| 0                 | 2022-04-28 | wyong R8              | 3 Harlem Groove       |   0    |    -10   |
+| 0                 | 2022-04-28 | wyong R7              | 4 Cushy               |   0    |    -10   |
 | :boom:            | 2022-04-28 | wyong R5              | 3 Duke Of Gordon      |   1.7  |      7   |
 | :boom:            | 2022-04-28 | wyong R4              | 7 Awesome Wonder      |   4.4  |     34   |
 | 4                 | 2022-04-28 | wyong R2              | 4 Not That Easy       |   3.2  |    -10   |

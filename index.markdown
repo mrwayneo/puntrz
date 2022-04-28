@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-28 15:09:15 +1000  
+date: 2022-04-28 18:49:51 +1000  
 ---   
 
 
@@ -9,19 +9,19 @@ date: 2022-04-28 15:09:15 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      2 |       14 | 0.29 |  0.2  |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      5 |      2 |       11 | 0.4  |  0.22 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      1 |      -21 | 0.25 | -0.52 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      1 |      -53 | 0.14 | -0.76 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     18 |      2 |     -127 | 0.11 | -0.71 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     14 |      0 |     -140 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     18 |      1 |     -146 | 0.06 | -0.81 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      0 |     -160 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     16 |      1 |     -141 | 0.06 | -0.88 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     25 |      1 |     -238 | 0.04 | -0.95 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     63 |      2 |     -341 | 0.03 | -0.54 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     63 |      3 |     -292 | 0.05 | -0.46 |
 
 ##### Form Last 20 tips   
 
@@ -104,17 +104,17 @@ date: 2022-04-28 15:09:15 +1000
 | 24 | :soon:            | 2022-04-28 19:45:00 | racing.com-park |      5 |        5 | Mt Buller          |   5    | vulture              |
 | 25 | :soon:            | 2022-04-28 19:45:00 | racing.com-park |      5 |        3 | Shines             |   3.3  | milkman              |
 | 26 | :soon:            | 2022-04-28 19:15:00 | racing.com-park |      4 |       10 | Word On The Street |   4.33 | vulture              |
-| 27 | :soon:            | 2022-04-28 18:05:00 | narrogin        |      5 |        5 | Burn One Down      |   7    | vulture              |
-| 28 | :soon:            | 2022-04-28 17:45:00 | racing.com-park |      1 |        3 | Dun Warrior        |   1.73 | vulture              |
-| 29 | :soon:            | 2022-04-28 16:47:00 | mackay          |      8 |        2 | Villa Villekulla   |   5    | pangea               |
-| 30 | :soon:            | 2022-04-28 16:47:00 | mackay          |      8 |        5 | Brigalow Boy       |   2.2  | evenodds,blackshadow |
-| 31 | :soon:            | 2022-04-28 16:40:00 | wyong           |      8 |        3 | Harlem Groove      |   4    | pikey                |
-| 32 | :soon:            | 2022-04-28 16:40:00 | wyong           |      8 |        1 | Crimson Rock       |   3.75 | pangea               |
-| 33 | :soon:            | 2022-04-28 16:30:00 | mornington      |      8 |        4 | Texas Tea          |   2.8  | vulture              |
-| 34 | :soon:            | 2022-04-28 16:12:00 | mackay          |      7 |        2 | Police             |   1.6  | evenodds,overthrow   |
-| 35 | :soon:            | 2022-04-28 16:05:00 | wyong           |      7 |        4 | Cushy              |   4    | pikey                |
-| 36 | :soon:            | 2022-04-28 15:34:00 | mackay          |      6 |        1 | Aleysa's Dream     |   1.75 | vulture              |
-| 37 | :soon:            | 2022-04-28 15:30:00 | mornington      |      6 |        7 | Excela Bella       |   4.6  | pangea               |
+| 27 | :3rd_place_medal: | 2022-04-28 18:05:00 | narrogin        |      5 |        5 | Burn One Down      |   7    | vulture              |
+| 28 | 7.0               | 2022-04-28 17:45:00 | racing.com-park |      1 |        3 | Dun Warrior        |   1.73 | vulture              |
+| 29 | :boom:            | 2022-04-28 16:47:00 | mackay          |      8 |        2 | Villa Villekulla   |   5    | pangea               |
+| 30 | :3rd_place_medal: | 2022-04-28 16:47:00 | mackay          |      8 |        5 | Brigalow Boy       |   2.2  | evenodds,blackshadow |
+| 31 | --                | 2022-04-28 16:40:00 | wyong           |      8 |        3 | Harlem Groove      |   4    | pikey                |
+| 32 | --                | 2022-04-28 16:40:00 | wyong           |      8 |        1 | Crimson Rock       |   3.75 | pangea               |
+| 33 | :3rd_place_medal: | 2022-04-28 16:30:00 | mornington      |      8 |        4 | Texas Tea          |   2.8  | vulture              |
+| 34 | :boom:            | 2022-04-28 16:12:00 | mackay          |      7 |        2 | Police             |   1.6  | evenodds,overthrow   |
+| 35 | --                | 2022-04-28 16:05:00 | wyong           |      7 |        4 | Cushy              |   4    | pikey                |
+| 36 | :2nd_place_medal: | 2022-04-28 15:34:00 | mackay          |      6 |        1 | Aleysa's Dream     |   1.75 | vulture              |
+| 37 | 9.0               | 2022-04-28 15:30:00 | mornington      |      6 |        7 | Excela Bella       |   4.6  | pangea               |
 | 38 | :boom:            | 2022-04-28 14:50:00 | wyong           |      5 |        3 | Duke Of Gordon     |   1.4  | pangea,pikey         |
 | 39 | :3rd_place_medal: | 2022-04-28 14:17:00 | mackay          |      4 |        8 | Hilflager          |   4.6  | overthrow            |
 | 40 | :boom:            | 2022-04-28 14:10:00 | wyong           |      4 |        7 | Awesome Wonder     |   5    | pikey                |
