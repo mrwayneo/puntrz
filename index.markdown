@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-29 22:21:07 +1000  
+date: 2022-04-29 22:36:04 +1000  
 ---   
 
 
@@ -136,7 +136,7 @@ date: 2022-04-29 22:21:07 +1000
 | 54 | :soon:            | 2022-04-29 23:25:00 | newmarket      |      3 |        4 | Ribhi              |   3.8  | milkman             |
 | 55 | :soon:            | 2022-04-29 23:25:00 | newmarket      |      3 |        1 | Noble Truth        |   2.75 | overthrow           |
 | 56 | :soon:            | 2022-04-29 22:50:00 | newmarket      |      2 |        3 | Nations Pride      |   2.25 | evenodds,overthrow  |
-| 57 | :soon:            | 2022-04-29 22:30:00 | goodwood       |      1 |        1 | Al Mubhir          |   2.9  | vulture,milkman     |
+| 57 | 4.0               | 2022-04-29 22:30:00 | goodwood       |      1 |        1 | Al Mubhir          |   2.9  | vulture,milkman     |
 | 58 | :boom:            | 2022-04-29 18:20:00 | sunshine-coast |      7 |       10 | Tavis Town         |   6    | pangea              |
 | 59 | :boom:            | 2022-04-29 18:00:00 | geraldton      |      5 |        4 | Corn Cob           |   3.5  | milkman             |
 | 60 | 6.0               | 2022-04-29 17:50:00 | alice-springs  |      5 |        3 | Gabriana           |  11    | overthrow           |
