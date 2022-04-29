@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 07:51:35 +1000  
+date: 2022-04-30 08:05:23 +1000  
 ---   
 
 
@@ -80,76 +80,125 @@ date: 2022-04-30 07:51:35 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5979 |    696 | -17736.1 | 0.12 | -0.3  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7300 |    304 | -29158.5 | 0.04 | -0.4  |
 
-|    | finish            | time                | track          |   race |   number | name               |   odds | tipster             |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | --                | 2022-04-30 05:10:00 | cheltenham     |      7 |        3 | Peacocks Secret    |  13    | pangea,blackshadow  |
-|  1 | 4.0               | 2022-04-30 05:10:00 | cheltenham     |      7 |        4 | Stratagem          |   2.5  | overthrow           |
-|  2 | --                | 2022-04-30 05:10:00 | cheltenham     |      7 |       10 | Midnight Cowboy    |  26    | overthrow           |
-|  3 | :3rd_place_medal: | 2022-04-30 04:45:00 | punchestown    |      8 |       17 | O'Moore Park       |   4.2  | overthrow           |
-|  4 | 4.0               | 2022-04-30 04:45:00 | punchestown    |      8 |        5 | Don Chalant        |   3.25 | overthrow           |
-|  5 | --                | 2022-04-30 04:45:00 | punchestown    |      8 |       21 | Sam Magee          |  15    | overthrow,milkman   |
-|  6 | --                | 2022-04-30 04:45:00 | punchestown    |      8 |       10 | Great Name That    |   5.5  | milkman             |
-|  7 | 4.0               | 2022-04-30 04:35:00 | cheltenham     |      6 |       13 | Smoke Man          |  26    | overthrow,milkman   |
-|  8 | --                | 2022-04-30 04:35:00 | cheltenham     |      6 |        7 | Give Me A Copper   |   5    | overthrow           |
-|  9 | --                | 2022-04-30 04:35:00 | cheltenham     |      6 |        6 | Shantou Flyer      |   2.4  | overthrow           |
-| 10 | --                | 2022-04-30 04:35:00 | cheltenham     |      6 |        1 | Captain Drake      |   6.5  | overthrow           |
-| 11 | :2nd_place_medal: | 2022-04-30 04:35:00 | cheltenham     |      6 |        5 | Law Of Gold        |   5.5  | overthrow,milkman   |
-| 12 | 4.0               | 2022-04-30 04:10:00 | punchestown    |      7 |        7 | Watch House Cross  |  34    | milkman             |
-| 13 | :boom:            | 2022-04-30 04:10:00 | punchestown    |      7 |        3 | El Fabiolo         |   1.57 | overthrow           |
-| 14 | :2nd_place_medal: | 2022-04-30 04:00:00 | cheltenham     |      5 |        4 | Kalabaloo          |   2.6  | overthrow           |
-| 15 | --                | 2022-04-30 04:00:00 | cheltenham     |      5 |        2 | Cashmoll           |  10    | evenodds,overthrow  |
-| 16 | :boom:            | 2022-04-30 04:00:00 | cheltenham     |      5 |        3 | Feuille De Lune    |   2.1  | evenodds,overthrow  |
-| 17 | :boom:            | 2022-04-30 03:35:00 | punchestown    |      6 |        1 | Billaway           |   2.1  | evenodds,overthrow  |
-| 18 | :2nd_place_medal: | 2022-04-30 03:35:00 | punchestown    |      6 |        5 | Vaucelet           |   1.9  | evenodds,overthrow  |
-| 19 | --                | 2022-04-30 03:25:00 | cheltenham     |      4 |        5 | Salvatore          |   6.5  | milkman             |
-| 20 | 4.0               | 2022-04-30 03:25:00 | cheltenham     |      4 |        3 | Fifty Shades       |  11    | vulture             |
-| 21 | :2nd_place_medal: | 2022-04-30 03:25:00 | cheltenham     |      4 |        9 | Caryto Des Brosses |   2.6  | evenodds,milkman    |
-| 22 | :3rd_place_medal: | 2022-04-30 03:25:00 | cheltenham     |      4 |        1 | Cheltenam De Vaige |  31    | evenodds,overthrow  |
-| 23 | :boom:            | 2022-04-30 03:25:00 | cheltenham     |      4 |        2 | Dandy Dan          |   9.5  | evenodds,looseknot  |
-| 24 | --                | 2022-04-30 03:25:00 | cheltenham     |      4 |       10 | Geordie B          |   7.5  | evenodds,overthrow  |
-| 25 | :2nd_place_medal: | 2022-04-30 03:10:00 | newcastle      |      3 |        1 | Peter The Great    |   2.8  | overthrow           |
-| 26 | 4.0               | 2022-04-30 03:00:00 | punchestown    |      5 |        4 | Kilcruit           |   7    | overthrow           |
-| 27 | :soon:            | 2022-04-30 03:00:00 | punchestown    |      5 |        5 | State Man          |   2.3  | evenodds,overthrow  |
-| 28 | :2nd_place_medal: | 2022-04-30 03:00:00 | punchestown    |      5 |        2 | Flame Bearer       |   4.8  | evenodds,milkman    |
-| 29 | :2nd_place_medal: | 2022-04-30 02:50:00 | cheltenham     |      3 |        6 | Moratorium         |   2.8  | overthrow,moechilli |
-| 30 | :boom:            | 2022-04-30 02:50:00 | cheltenham     |      3 |        9 | Trio For Rio       |   2.9  | overthrow           |
-| 31 | --                | 2022-04-30 02:50:00 | cheltenham     |      3 |        5 | Majestic Touch     |  21    | overthrow           |
-| 32 | --                | 2022-04-30 02:35:00 | newcastle      |      2 |        1 | Francesco Clemente |   1.75 | evenodds,lago       |
-| 33 | :boom:            | 2022-04-30 02:25:00 | punchestown    |      4 |        6 | Honeysuckle        |   1.15 | milkman             |
-| 34 | :2nd_place_medal: | 2022-04-30 02:25:00 | punchestown    |      4 |        5 | Echoes In Rain     |  20    | overthrow           |
-| 35 | :boom:            | 2022-04-30 02:15:00 | cheltenham     |      2 |       10 | Latenightfumble    |   5.5  | evenodds,looseknot  |
-| 36 | --                | 2022-04-30 02:15:00 | cheltenham     |      2 |       11 | Luscious Lilly     | 101    | vulture             |
-| 37 | --                | 2022-04-30 02:15:00 | cheltenham     |      2 |        6 | Rebel Dawn Rising  |   6.5  | evenodds,looseknot  |
-| 38 | :3rd_place_medal: | 2022-04-30 02:15:00 | cheltenham     |      2 |       12 | Sine Nomine        |   7.5  | evenodds,overthrow  |
-| 39 | --                | 2022-04-30 02:15:00 | cheltenham     |      2 |        2 | Famous Clermont    |   2    | evenodds,overthrow  |
-| 40 | :2nd_place_medal: | 2022-04-30 02:15:00 | cheltenham     |      2 |        3 | Go Go Geronimo     |  15    | evenodds,overthrow  |
-| 41 | :3rd_place_medal: | 2022-04-30 01:50:00 | punchestown    |      3 |        4 | Dolcita            |   4.8  | overthrow           |
-| 42 | :boom:            | 2022-04-30 01:40:00 | cheltenham     |      1 |        3 | Envoye Special     |   3.3  | moechilli           |
-| 43 | 4.0               | 2022-04-30 01:40:00 | cheltenham     |      1 |        5 | Fan Club Aulmes    |   5    | overthrow           |
-| 44 | :3rd_place_medal: | 2022-04-30 01:25:00 | goodwood       |      6 |        2 | Wineglass Bay      |   3    | vulture             |
-| 45 | --                | 2022-04-30 01:15:00 | punchestown    |      2 |        2 | Fighter Allen      |   3.1  | overthrow           |
-| 46 | 5.0               | 2022-04-30 01:10:00 | newmarket      |      6 |        6 | Picual             |   7    | evenodds,overthrow  |
-| 47 | --                | 2022-04-30 00:50:00 | goodwood       |      5 |        6 | Twilight Madness   |   3    | vulture             |
-| 48 | :2nd_place_medal: | 2022-04-30 00:35:00 | newmarket      |      5 |        1 | Yibir              |   1.24 | benny,blackshadow   |
-| 49 | :boom:            | 2022-04-30 00:15:00 | goodwood       |      4 |        1 | Bartzella          |   4    | milkman             |
-| 50 | --                | 2022-04-30 00:15:00 | goodwood       |      4 |        2 | Crystal Starlet    |  41    | vulture             |
-| 51 | --                | 2022-04-29 23:40:00 | goodwood       |      3 |        2 | Tone The Barone    |   7.5  | vulture             |
-| 52 | --                | 2022-04-29 23:40:00 | goodwood       |      3 |        5 | Stone Of Destiny   |   4.5  | pangea              |
-| 53 | :boom:            | 2022-04-29 23:40:00 | goodwood       |      3 |        4 | Raasel             |   6    | milkman             |
-| 54 | 5.0               | 2022-04-29 23:25:00 | newmarket      |      3 |        4 | Ribhi              |   3.8  | milkman             |
-| 55 | :boom:            | 2022-04-29 23:25:00 | newmarket      |      3 |        1 | Noble Truth        |   2.75 | overthrow           |
-| 56 | :boom:            | 2022-04-29 22:50:00 | newmarket      |      2 |        3 | Nations Pride      |   2.25 | evenodds,overthrow  |
-| 57 | 4.0               | 2022-04-29 22:30:00 | goodwood       |      1 |        1 | Al Mubhir          |   2.9  | vulture,milkman     |
-| 58 | :boom:            | 2022-04-29 18:20:00 | sunshine-coast |      7 |       10 | Tavis Town         |   6    | pangea              |
-| 59 | :boom:            | 2022-04-29 18:00:00 | geraldton      |      5 |        4 | Corn Cob           |   3.5  | milkman             |
-| 60 | 6.0               | 2022-04-29 17:50:00 | alice-springs  |      5 |        3 | Gabriana           |  11    | overthrow           |
-| 61 | 5.0               | 2022-04-29 17:50:00 | alice-springs  |      5 |        8 | Bean Shoppin'      |  10    | overthrow           |
-| 62 | 4.0               | 2022-04-29 17:40:00 | sunshine-coast |      6 |        7 | Awe                |   1.95 | evenodds,overthrow  |
-| 63 | 8.0               | 2022-04-29 17:10:00 | alice-springs  |      4 |        5 | Thunder Peak       |   4.8  | vulture             |
-| 64 | :boom:            | 2022-04-29 16:30:00 | geelong        |      8 |        2 | Booker Tee         |   4    | vulture             |
-| 65 | :boom:            | 2022-04-29 15:55:00 | alice-springs  |      2 |        2 | Flying Start       |   1.67 | pangea,icyhot       |
-| 66 | :2nd_place_medal: | 2022-04-29 15:55:00 | alice-springs  |      2 |        1 | Bench Press        |   2.1  | overthrow           |
-| 67 | :2nd_place_medal: | 2022-04-29 15:44:00 | geraldton      |      1 |        4 | Destructor         |   1.75 | vulture             |
-| 68 | :boom:            | 2022-04-29 14:34:00 | sunshine-coast |      1 |        5 | Spicy King Prawn   |   3.9  | vulture             |
-| 69 | :boom:            | 2022-04-29 12:55:00 | grafton        |      3 |        1 | Lesmurdie          |   3    | overthrow,moechilli |
-| 70 | :soon:            | 2022-04-29 10:21:00 | arawa-park     |      3 |        6 | Tramonto           |   5    | evenodds,overthrow  |
+|     | finish   | time                | track            |   race |   number | name               |   odds | tipster             |
+|----:|:---------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:--------------------|
+|   0 | :soon:   | 2022-05-01 03:05:00 | punchestown      |      7 |        3 | Follow The Brave   |  11    | overthrow           |
+|   1 | :soon:   | 2022-05-01 02:30:00 | punchestown      |      6 |       11 | Adamantly Chosen   |   7    | overthrow           |
+|   2 | :soon:   | 2022-05-01 02:25:00 | newmarket        |      8 |        8 | Loves Me Likearock |   5.5  | vulture             |
+|   3 | :soon:   | 2022-05-01 02:25:00 | newmarket        |      8 |        5 | Ernie's Valentine  |  16    | milkman             |
+|   4 | :soon:   | 2022-05-01 02:09:00 | uttoxeter        |      7 |        1 | Dalkingstown       |   6.5  | pangea              |
+|   5 | :soon:   | 2022-05-01 02:00:00 | punchestown      |      5 |        5 | Vauban             |   1.4  | evenodds,overthrow  |
+|   6 | :soon:   | 2022-05-01 01:55:00 | goodwood         |      7 |        1 | State Legend       |   3.1  | vulture             |
+|   7 | :soon:   | 2022-05-01 01:50:00 | newmarket        |      7 |        4 | King Of Time       |   2.3  | evenodds,lago       |
+|   8 | :soon:   | 2022-05-01 01:50:00 | newmarket        |      7 |        2 | Private Signal     |   5    | evenodds,overthrow  |
+|   9 | :soon:   | 2022-05-01 01:39:00 | uttoxeter        |      6 |        3 | Found On           |   3.3  | vulture             |
+|  10 | :soon:   | 2022-05-01 01:39:00 | uttoxeter        |      6 |        4 | Brewers Project    |   6.5  | overthrow           |
+|  11 | :soon:   | 2022-05-01 01:20:00 | goodwood         |      6 |        1 | Shamlaan           |   2.6  | vulture             |
+|  12 | :soon:   | 2022-05-01 01:05:00 | uttoxeter        |      5 |        3 | Hooper             |   9    | overthrow           |
+|  13 | :soon:   | 2022-05-01 01:05:00 | uttoxeter        |      5 |        6 | Forecast           |  11    | vulture             |
+|  14 | :soon:   | 2022-05-01 00:55:00 | thirsk           |      6 |        6 | Pink Carnation     |   6    | looseknot           |
+|  15 | :soon:   | 2022-05-01 00:50:00 | punchestown      |      3 |        3 | Epatante           |   1.9  | overthrow           |
+|  16 | :soon:   | 2022-05-01 00:50:00 | punchestown      |      3 |        1 | Burning Victory    |  14    | overthrow           |
+|  17 | :soon:   | 2022-05-01 00:50:00 | punchestown      |      3 |        4 | Marie's Rock       |   8    | pangea,overthrow    |
+|  18 | :soon:   | 2022-05-01 00:46:00 | goodwood         |      5 |        4 | Super Superjack    |   4    | vulture             |
+|  19 | :soon:   | 2022-05-01 00:40:00 | newmarket        |      5 |       12 | Point Lonsdale     |  12    | vulture             |
+|  20 | :soon:   | 2022-05-01 00:40:00 | newmarket        |      5 |        9 | Luxembourg         |   6    | vulture,milkman     |
+|  21 | :soon:   | 2022-05-01 00:40:00 | newmarket        |      5 |        4 | Coroebus           |   6    | overthrow           |
+|  22 | :soon:   | 2022-05-01 00:40:00 | newmarket        |      5 |       11 | Perfect Power      |  19    | milkman             |
+|  23 | :soon:   | 2022-05-01 00:40:00 | newmarket        |      5 |       10 | Native Trail       |   2.15 | overthrow,lago      |
+|  24 | :soon:   | 2022-05-01 00:40:00 | newmarket        |      5 |        3 | Checkandchallenge  |  21    | milkman             |
+|  25 | :soon:   | 2022-05-01 00:30:00 | uttoxeter        |      4 |        4 | Storm Control      |  10    | pangea              |
+|  26 | :soon:   | 2022-05-01 00:30:00 | uttoxeter        |      4 |        2 | Back On The Lash   |  12    | overthrow           |
+|  27 | :soon:   | 2022-05-01 00:28:00 | turffontein      |      9 |        4 | Black Thorn        |   0    | vulture             |
+|  28 | :soon:   | 2022-05-01 00:10:00 | punchestown      |      2 |        1 | Agusta Gold        |  11    | overthrow           |
+|  29 | :soon:   | 2022-05-01 00:00:00 | newmarket        |      4 |        9 | Tis Marvellous     |   7    | pangea              |
+|  30 | :soon:   | 2022-05-01 00:00:00 | newmarket        |      4 |        8 | Saint Lawrence     |  26    | overthrow           |
+|  31 | :soon:   | 2022-05-01 00:00:00 | newmarket        |      4 |        1 | Hurricane Ivor     |   8    | pangea              |
+|  32 | :soon:   | 2022-05-01 00:00:00 | newmarket        |      4 |       12 | Zarzyni            |  17    | vulture             |
+|  33 | :soon:   | 2022-04-30 23:53:00 | uttoxeter        |      3 |        3 | Ecco               |   5    | overthrow           |
+|  34 | :soon:   | 2022-04-30 23:40:00 | goodwood         |      3 |        7 | Zanbaq             |   3.7  | evenodds,lago       |
+|  35 | :soon:   | 2022-04-30 23:35:00 | punchestown      |      1 |       22 | Loggan Lady        | 101    | overthrow           |
+|  36 | :soon:   | 2022-04-30 23:25:00 | newmarket        |      3 |        2 | Dhahabi            |   4.4  | overthrow           |
+|  37 | :soon:   | 2022-04-30 23:25:00 | newmarket        |      3 |        7 | Anythingtoday      |  15    | pangea              |
+|  38 | :soon:   | 2022-04-30 23:25:00 | newmarket        |      3 |        1 | Movin Time         |   4.6  | pangea,icyhot       |
+|  39 | :soon:   | 2022-04-30 23:15:00 | turffontein      |      7 |        4 | Second Base        |  16    | vulture             |
+|  40 | :soon:   | 2022-04-30 23:15:00 | turffontein      |      7 |        1 | Kommetdieding      |   2.25 | milkman             |
+|  41 | :soon:   | 2022-04-30 23:15:00 | turffontein      |      7 |       10 | Shangani           |  10    | pangea,icyhot       |
+|  42 | :soon:   | 2022-04-30 23:15:00 | turffontein      |      7 |        3 | Puerto Manzano     |  13    | vulture             |
+|  43 | :soon:   | 2022-04-30 23:05:00 | thirsk           |      3 |        5 | Redarna            |  81    | cosmo,bluey         |
+|  44 | :soon:   | 2022-04-30 22:40:00 | turffontein      |      6 |        6 | Master Archie      |   4.6  | vulture,milkman     |
+|  45 | :soon:   | 2022-04-30 22:40:00 | turffontein      |      6 |        4 | Real Gone Kid      |   6.5  | milkman             |
+|  46 | :soon:   | 2022-04-30 22:40:00 | turffontein      |      6 |       14 | Big Burn           |   7    | milkman             |
+|  47 | :soon:   | 2022-04-30 22:15:00 | newmarket        |      1 |        2 | Improvised         |  41    | milkman             |
+|  48 | :soon:   | 2022-04-30 22:15:00 | newmarket        |      1 |        7 | Flotus             |   1.67 | evenodds,overthrow  |
+|  49 | :soon:   | 2022-04-30 21:30:00 | turffontein      |      4 |        5 | Set To Go          |   0    | milkman             |
+|  50 | :soon:   | 2022-04-30 21:30:00 | turffontein      |      4 |        9 | Miss Cool          |   0    | vulture             |
+|  51 | :soon:   | 2022-04-30 21:30:00 | turffontein      |      4 |        2 | Karangetang        |   0    | milkman             |
+|  52 | :soon:   | 2022-04-30 20:55:00 | turffontein      |      3 |        2 | Maharanee          |   0    | milkman             |
+|  53 | :soon:   | 2022-04-30 20:20:00 | turffontein      |      2 |        5 | Prince Of Fire     |   0    | milkman             |
+|  54 | :soon:   | 2022-04-30 18:55:00 | toowoomba        |      4 |        8 | Rowdash            |   2.7  | pangea              |
+|  55 | :soon:   | 2022-04-30 18:38:00 | ascot            |      8 |        6 | Otheroneson        |   1.6  | evenodds,vulture    |
+|  56 | :soon:   | 2022-04-30 18:30:00 | singapore        |     10 |        3 | Katak              |   0    | vulture,milkman     |
+|  57 | :soon:   | 2022-04-30 18:20:00 | toowoomba        |      3 |        3 | Lonado             |   2.4  | pangea              |
+|  58 | :soon:   | 2022-04-30 18:08:00 | ascot            |      7 |        8 | Buzzoom            |   2.1  | evenodds,vulture    |
+|  59 | :soon:   | 2022-04-30 18:08:00 | ascot            |      7 |        5 | Lipstick Flickers  |   9.5  | pangea              |
+|  60 | :soon:   | 2022-04-30 17:42:00 | toowoomba        |      2 |        8 | Writtle            |   2.62 | vulture             |
+|  61 | :soon:   | 2022-04-30 16:50:00 | ascot            |      5 |        5 | Blackwater Bay     |   4    | pangea              |
+|  62 | :soon:   | 2022-04-30 16:37:00 | morphettville    |      8 |        8 | Zoist              |   4.8  | pangea              |
+|  63 | :soon:   | 2022-04-30 16:37:00 | morphettville    |      8 |        2 | Groundswell        |   9    | pangea,overthrow    |
+|  64 | :soon:   | 2022-04-30 16:25:00 | sandown-hillside |      8 |        5 | Regardsmaree       |   2.38 | pangea              |
+|  65 | :soon:   | 2022-04-30 16:25:00 | sandown-hillside |      8 |        4 | Great Again        |  14    | pangea              |
+|  66 | :soon:   | 2022-04-30 16:18:00 | eagle-farm       |      9 |        5 | Go Wandji          |   2.38 | vulture             |
+|  67 | :soon:   | 2022-04-30 16:18:00 | eagle-farm       |      9 |        3 | Avowal             |  15    | pangea,blackshadow  |
+|  68 | :soon:   | 2022-04-30 16:18:00 | eagle-farm       |      9 |        6 | Ventura Ocean      |  14    | pangea              |
+|  69 | :soon:   | 2022-04-30 16:18:00 | eagle-farm       |      9 |        9 | Bullfinch          |   5    | pangea              |
+|  70 | :soon:   | 2022-04-30 16:18:00 | eagle-farm       |      9 |       12 | Our Rebel          |  41    | looseknot           |
+|  71 | :soon:   | 2022-04-30 16:14:00 | ascot            |      4 |        1 | Cuban Twist        |   4.8  | pangea              |
+|  72 | :soon:   | 2022-04-30 15:50:00 | sandown-hillside |      7 |        2 | Belle Savoir       |   3    | milkman             |
+|  73 | :soon:   | 2022-04-30 15:42:00 | eagle-farm       |      8 |        8 | It's Me            |  20    | milkman             |
+|  74 | :soon:   | 2022-04-30 15:42:00 | eagle-farm       |      8 |        7 | Scallopini         |  17    | vulture,pangea      |
+|  75 | :soon:   | 2022-04-30 15:42:00 | eagle-farm       |      8 |        3 | Rothfire           |   2.25 | milkman             |
+|  76 | :soon:   | 2022-04-30 15:24:00 | barcaldine       |      5 |        6 | Kedleston          |   4    | vulture,blackshadow |
+|  77 | :soon:   | 2022-04-30 15:24:00 | barcaldine       |      5 |        4 | Ancient Echoes     |  12    | cosmo,bob           |
+|  78 | :soon:   | 2022-04-30 15:24:00 | barcaldine       |      5 |        1 | Star of O'reilly   |   2.7  | pangea,icyhot       |
+|  79 | :soon:   | 2022-04-30 15:15:00 | newcastle        |      6 |        3 | Golden Doubt       |   6    | vulture             |
+|  80 | :soon:   | 2022-04-30 15:02:00 | eagle-farm       |      7 |        6 | Red Wave           |  16    | benny,pangea        |
+|  81 | :soon:   | 2022-04-30 15:02:00 | eagle-farm       |      7 |        9 | Whitewater         |  18    | vulture             |
+|  82 | :soon:   | 2022-04-30 14:56:00 | ascot            |      2 |        2 | Top Of The Pops    |   2.75 | evenodds,milkman    |
+|  83 | :soon:   | 2022-04-30 14:50:00 | hawkesbury       |      7 |        6 | Loch Eagle         |   5.5  | pangea              |
+|  84 | :soon:   | 2022-04-30 14:50:00 | hawkesbury       |      7 |        5 | Vilana             |   6    | vulture,milkman     |
+|  85 | :soon:   | 2022-04-30 14:50:00 | hawkesbury       |      7 |        1 | Mr Mozart          |   2.2  | benny,pikey         |
+|  86 | :soon:   | 2022-04-30 14:42:00 | morphettville    |      5 |        5 | See You In Heaven  |   2.3  | vulture,milkman     |
+|  87 | :soon:   | 2022-04-30 14:42:00 | morphettville    |      5 |        1 | Twin Stars         |   6    | benny,pangea        |
+|  88 | :soon:   | 2022-04-30 14:42:00 | morphettville    |      5 |        8 | Lalaguna           |  10    | evenodds,overthrow  |
+|  89 | :soon:   | 2022-04-30 14:34:00 | te-rapa          |      8 |        1 | Navalha            |   2.5  | vulture             |
+|  90 | :soon:   | 2022-04-30 14:34:00 | te-rapa          |      8 |        6 | Flat Track Bully   |  21    | cosmo,bluey         |
+|  91 | :soon:   | 2022-04-30 14:19:00 | ascot            |      1 |        8 | Pasajero           |  17    | cosmo,bluey         |
+|  92 | :soon:   | 2022-04-30 14:15:00 | hawkesbury       |      6 |        7 | Surreal Step       |  19    | pikey               |
+|  93 | :soon:   | 2022-04-30 14:15:00 | hawkesbury       |      6 |        1 | Eleven Eleven      |   6.5  | vulture             |
+|  94 | :soon:   | 2022-04-30 14:07:00 | morphettville    |      4 |        2 | Illation           |   2.5  | vulture,pangea      |
+|  95 | :soon:   | 2022-04-30 14:07:00 | morphettville    |      4 |        8 | Perceptive         |  10    | vulture             |
+|  96 | :soon:   | 2022-04-30 14:07:00 | morphettville    |      4 |       10 | Defining           |   4    | pangea              |
+|  97 | :soon:   | 2022-04-30 13:57:00 | te-rapa          |      7 |        4 | Charms Star        |   6    | vulture             |
+|  98 | :soon:   | 2022-04-30 13:34:00 | barcaldine       |      2 |        5 | Mori's Press       |   1.95 | vulture             |
+|  99 | :soon:   | 2022-04-30 13:34:00 | barcaldine       |      2 |        1 | Halcyon House      |   4.4  | pangea,blackshadow  |
+| 100 | :soon:   | 2022-04-30 13:34:00 | barcaldine       |      2 |        8 | Only Emma          |  21.5  | vulture             |
+| 101 | :soon:   | 2022-04-30 13:32:00 | morphettville    |      3 |        8 | Gaze Grise         |   3.9  | vulture,blackshadow |
+| 102 | :soon:   | 2022-04-30 13:32:00 | morphettville    |      3 |        5 | Meteorite          |   3.9  | pangea              |
+| 103 | :soon:   | 2022-04-30 13:13:00 | eagle-farm       |      4 |        2 | Wham               |   6.5  | vulture,blackshadow |
+| 104 | :soon:   | 2022-04-30 13:13:00 | eagle-farm       |      4 |       10 | Lunakorn           |   5.5  | pangea              |
+| 105 | :soon:   | 2022-04-30 13:05:00 | hawkesbury       |      4 |        3 | Mr Gee             |  13    | cosmo,bluey         |
+| 106 | :soon:   | 2022-04-30 13:05:00 | hawkesbury       |      4 |        5 | Deepstrike         |   4.4  | vulture             |
+| 107 | :soon:   | 2022-04-30 13:05:00 | hawkesbury       |      4 |       11 | Global Ausbred     |   5    | pikey               |
+| 108 | :soon:   | 2022-04-30 12:57:00 | morphettville    |      2 |        7 | Bon Pegasus        |  22    | pangea              |
+| 109 | :soon:   | 2022-04-30 12:38:00 | wanganui         |      5 |        1 | Justaskme          |  12    | pangea              |
+| 110 | :soon:   | 2022-04-30 12:14:00 | te-rapa          |      4 |        2 | Lincoln Star       |   4.8  | vulture             |
+| 111 | :soon:   | 2022-04-30 12:03:00 | eagle-farm       |      2 |        6 | Octavian           |  13    | pangea              |
+| 112 | :soon:   | 2022-04-30 11:32:00 | wanganui         |      3 |        1 | Choisia Prince     |   1.91 | vulture             |
+| 113 | :soon:   | 2022-04-30 11:20:00 | hawkesbury       |      1 |        5 | Burgunder          |   7.5  | looseknot           |
+| 114 | :soon:   | 2022-04-30 11:20:00 | hawkesbury       |      1 |        3 | Basquiat           |   3.1  | vulture,jmac        |
+| 115 | :soon:   | 2022-04-30 11:20:00 | hawkesbury       |      1 |        1 | Green Shadows      |   4.4  | vulture,milkman     |
+| 116 | :soon:   | 2022-04-30 11:20:00 | hawkesbury       |      1 |        9 | Awesome John       |  14    | pikey               |
+| 117 | :soon:   | 2022-04-30 11:09:00 | te-rapa          |      2 |        7 | Dawn Parade        |   6.5  | pangea              |
+| 118 | :soon:   | 2022-04-30 11:09:00 | te-rapa          |      2 |        4 | Tightlign          |   3.9  | vulture             |
+| 119 | :soon:   | 2022-04-30 10:36:00 | te-rapa          |      1 |        5 | Dubai Diva         |   2.8  | vulture             |
