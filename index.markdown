@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-29 14:28:08 +1000  
+date: 2022-04-29 14:43:23 +1000  
 ---   
 
 
@@ -20,7 +20,7 @@ date: 2022-04-29 14:28:08 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      0 |    -60   | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     15 |      0 |   -150   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      0 |   -200   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      0 |   -300   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      1 |   -257   | 0.03 | -0.86 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     37 |      0 |   -370   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      2 |   -404.5 | 0.05 | -0.92 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     48 |      1 |   -453   | 0.02 | -0.94 |
@@ -147,6 +147,6 @@ date: 2022-04-29 14:28:08 +1000
 | 65 | :soon:   | 2022-04-29 15:55:00 | alice-springs  |      2 |        2 | Flying Start       |   1.67 | pangea,icyhot       |
 | 66 | :soon:   | 2022-04-29 15:55:00 | alice-springs  |      2 |        1 | Bench Press        |   2.1  | overthrow           |
 | 67 | :soon:   | 2022-04-29 15:44:00 | geraldton      |      1 |        4 | Destructor         |   1.75 | vulture             |
-| 68 | :soon:   | 2022-04-29 14:34:00 | sunshine-coast |      1 |        5 | Spicy King Prawn   |   3.9  | vulture             |
+| 68 | :boom:   | 2022-04-29 14:34:00 | sunshine-coast |      1 |        5 | Spicy King Prawn   |   3.9  | vulture             |
 | 69 | :boom:   | 2022-04-29 12:55:00 | grafton        |      3 |        1 | Lesmurdie          |   3    | overthrow,moechilli |
 | 70 | :soon:   | 2022-04-29 10:21:00 | arawa-park     |      3 |        6 | Tramonto           |   5    | evenodds,overthrow  |
