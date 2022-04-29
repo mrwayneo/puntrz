@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-29 21:21:08 +1000  
+date: 2022-04-29 21:36:09 +1000  
 ---   
 
 
@@ -22,7 +22,7 @@ date: 2022-04-29 21:21:08 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      0 |   -200   | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     30 |      2 |   -226   | 0.07 | -0.75 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     37 |      2 |   -244   | 0.05 | -0.66 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      3 |   -374.5 | 0.07 | -0.85 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     44 |      4 |   -355.5 | 0.09 | -0.81 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     48 |      1 |   -453   | 0.02 | -0.94 |
 
 ##### Form Last 20 tips   
