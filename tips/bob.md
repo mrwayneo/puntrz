@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-04-29 22:51:13 +1000  
+date: 2022-04-30 06:06:31 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    |  -1   |
-| Last 28 Days   |      9 |      0 |    -90   | 0    |  -1   |
-| Last 6 Months  |     97 |      9 |   -195   | 0.09 |  -0.2 |
-| Since Jan 2020 |    267 |     42 |   3477.5 | 0.16 |   1.3 |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
+| Last 28 Days   |      8 |      0 |    -80   | 0    | -1    |
+| Last 6 Months  |     98 |      9 |   -205   | 0.09 | -0.21 |
+| Since Jan 2020 |    268 |     42 |   3467.5 | 0.16 |  1.29 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:45             | 2022-04-30 | punchestown R8                | 20 Read To Return     |  15    |    -10   |
+| 0                 | 2022-04-30 | punchestown R8                | 20 Read To Return     |   0    |    -10   |
 | 5                 | 2022-04-28 | mackay R2                     | 3 Heroic Angel        |   6    |    -10   |
 | 0                 | 2022-04-16 | newbury R2                    | 8 Miss Carol Ann      |   0    |    -10   |
 | 6                 | 2022-04-16 | oakbank R6                    | 6 Rich Gina           |  16    |    -10   |

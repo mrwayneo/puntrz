@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-04-29 22:51:07 +1000  
+date: 2022-04-30 06:06:26 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      1 |     -1   | 0.5  | -0.05 |
-| Last 28 Days   |      6 |      1 |    -41   | 0.17 | -0.68 |
-| Last 6 Months  |     57 |     14 |    188.2 | 0.25 |  0.33 |
-| Since Jan 2020 |    128 |     36 |    753.6 | 0.28 |  0.59 |
+| Last 7 Days    |      5 |      3 |     24   | 0.6  |  0.48 |
+| Last 28 Days   |      9 |      3 |    -16   | 0.33 | -0.18 |
+| Last 6 Months  |     60 |     16 |    213.2 | 0.27 |  0.36 |
+| Since Jan 2020 |    131 |     38 |    778.6 | 0.29 |  0.59 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 02:50             | 2022-04-30 | cheltenham R3          | 6 Moratorium         |   2.8  |    -10   |
-| 01:40             | 2022-04-30 | cheltenham R1          | 3 Envoye Special     |   3.3  |    -10   |
+| :2nd_place_medal: | 2022-04-30 | cheltenham R3          | 6 Moratorium         |   2.8  |    -10   |
+| :boom:            | 2022-04-30 | cheltenham R1          | 3 Envoye Special     |   2.8  |     18   |
 | :boom:            | 2022-04-29 | grafton R3             | 1 Lesmurdie          |   2.7  |     17   |
 | :boom:            | 2022-04-25 | darwin R4              | 4 Poupee             |   1.9  |      9   |
 | 4                 | 2022-04-25 | darwin R3              | 3 Blueant            |   3.3  |    -10   |
