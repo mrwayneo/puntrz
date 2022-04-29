@@ -1,11 +1,32 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 07:36:31 +1000  
+date: 2022-04-30 07:51:00 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 |    0 |    -1 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 |    0 |    -1 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      3 |      0 |      -30 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 |    0 |    -1 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      4 |      0 |      -40 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      4 |      0 |      -40 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      0 |      -50 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      0 |      -70 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      0 |     -250 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      0 |     -280 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      0 |     -430 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      0 |     -430 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      0 |     -490 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      0 |     -530 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      0 |    -1090 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -62,14 +83,14 @@ date: 2022-04-30 07:36:31 +1000
 |    | finish            | time                | track          |   race |   number | name               |   odds | tipster             |
 |---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:--------------------|
 |  0 | --                | 2022-04-30 05:10:00 | cheltenham     |      7 |        3 | Peacocks Secret    |  13    | pangea,blackshadow  |
-|  1 | 4.0               | 2022-04-30 05:10:00 | cheltenham     |      7 |        4 | Stratagem          |   2.5  | overthrow           |
-|  2 | --                | 2022-04-30 05:10:00 | cheltenham     |      7 |       10 | Midnight Cowboy    |  26    | overthrow           |
-|  3 | --                | 2022-04-30 04:45:00 | punchestown    |      8 |       21 | Sam Magee          |  15    | overthrow,milkman   |
-|  4 | :3rd_place_medal: | 2022-04-30 04:45:00 | punchestown    |      8 |       17 | O'Moore Park       |   4.2  | overthrow           |
-|  5 | 4.0               | 2022-04-30 04:45:00 | punchestown    |      8 |        5 | Don Chalant        |   3.25 | overthrow           |
+|  1 | --                | 2022-04-30 05:10:00 | cheltenham     |      7 |       10 | Midnight Cowboy    |  26    | overthrow           |
+|  2 | 4.0               | 2022-04-30 05:10:00 | cheltenham     |      7 |        4 | Stratagem          |   2.5  | overthrow           |
+|  3 | 4.0               | 2022-04-30 04:45:00 | punchestown    |      8 |        5 | Don Chalant        |   3.25 | overthrow           |
+|  4 | --                | 2022-04-30 04:45:00 | punchestown    |      8 |       21 | Sam Magee          |  15    | overthrow,milkman   |
+|  5 | :3rd_place_medal: | 2022-04-30 04:45:00 | punchestown    |      8 |       17 | O'Moore Park       |   4.2  | overthrow           |
 |  6 | --                | 2022-04-30 04:45:00 | punchestown    |      8 |       10 | Great Name That    |   5.5  | milkman             |
-|  7 | 4.0               | 2022-04-30 04:35:00 | cheltenham     |      6 |       13 | Smoke Man          |  26    | overthrow,milkman   |
-|  8 | --                | 2022-04-30 04:35:00 | cheltenham     |      6 |        7 | Give Me A Copper   |   5    | overthrow           |
+|  7 | --                | 2022-04-30 04:35:00 | cheltenham     |      6 |        7 | Give Me A Copper   |   5    | overthrow           |
+|  8 | 4.0               | 2022-04-30 04:35:00 | cheltenham     |      6 |       13 | Smoke Man          |  26    | overthrow,milkman   |
 |  9 | --                | 2022-04-30 04:35:00 | cheltenham     |      6 |        6 | Shantou Flyer      |   2.4  | overthrow           |
 | 10 | --                | 2022-04-30 04:35:00 | cheltenham     |      6 |        1 | Captain Drake      |   6.5  | overthrow           |
 | 11 | :2nd_place_medal: | 2022-04-30 04:35:00 | cheltenham     |      6 |        5 | Law Of Gold        |   5.5  | overthrow,milkman   |
@@ -82,17 +103,17 @@ date: 2022-04-30 07:36:31 +1000
 | 18 | :2nd_place_medal: | 2022-04-30 03:35:00 | punchestown    |      6 |        5 | Vaucelet           |   1.9  | evenodds,overthrow  |
 | 19 | --                | 2022-04-30 03:25:00 | cheltenham     |      4 |        5 | Salvatore          |   6.5  | milkman             |
 | 20 | 4.0               | 2022-04-30 03:25:00 | cheltenham     |      4 |        3 | Fifty Shades       |  11    | vulture             |
-| 21 | :2nd_place_medal: | 2022-04-30 03:25:00 | cheltenham     |      4 |        9 | Caryto Des Brosses |   2.6  | evenodds,milkman    |
-| 22 | :3rd_place_medal: | 2022-04-30 03:25:00 | cheltenham     |      4 |        1 | Cheltenam De Vaige |  31    | evenodds,overthrow  |
-| 23 | :boom:            | 2022-04-30 03:25:00 | cheltenham     |      4 |        2 | Dandy Dan          |   9.5  | evenodds,looseknot  |
-| 24 | --                | 2022-04-30 03:25:00 | cheltenham     |      4 |       10 | Geordie B          |   7.5  | evenodds,overthrow  |
+| 21 | :boom:            | 2022-04-30 03:25:00 | cheltenham     |      4 |        2 | Dandy Dan          |   9.5  | evenodds,looseknot  |
+| 22 | --                | 2022-04-30 03:25:00 | cheltenham     |      4 |       10 | Geordie B          |   7.5  | evenodds,overthrow  |
+| 23 | :2nd_place_medal: | 2022-04-30 03:25:00 | cheltenham     |      4 |        9 | Caryto Des Brosses |   2.6  | evenodds,milkman    |
+| 24 | :3rd_place_medal: | 2022-04-30 03:25:00 | cheltenham     |      4 |        1 | Cheltenam De Vaige |  31    | evenodds,overthrow  |
 | 25 | :2nd_place_medal: | 2022-04-30 03:10:00 | newcastle      |      3 |        1 | Peter The Great    |   2.8  | overthrow           |
 | 26 | 4.0               | 2022-04-30 03:00:00 | punchestown    |      5 |        4 | Kilcruit           |   7    | overthrow           |
 | 27 | :soon:            | 2022-04-30 03:00:00 | punchestown    |      5 |        5 | State Man          |   2.3  | evenodds,overthrow  |
 | 28 | :2nd_place_medal: | 2022-04-30 03:00:00 | punchestown    |      5 |        2 | Flame Bearer       |   4.8  | evenodds,milkman    |
-| 29 | --                | 2022-04-30 02:50:00 | cheltenham     |      3 |        5 | Majestic Touch     |  21    | overthrow           |
-| 30 | :2nd_place_medal: | 2022-04-30 02:50:00 | cheltenham     |      3 |        6 | Moratorium         |   2.8  | overthrow,moechilli |
-| 31 | :boom:            | 2022-04-30 02:50:00 | cheltenham     |      3 |        9 | Trio For Rio       |   2.9  | overthrow           |
+| 29 | :boom:            | 2022-04-30 02:50:00 | cheltenham     |      3 |        9 | Trio For Rio       |   2.9  | overthrow           |
+| 30 | --                | 2022-04-30 02:50:00 | cheltenham     |      3 |        5 | Majestic Touch     |  21    | overthrow           |
+| 31 | :2nd_place_medal: | 2022-04-30 02:50:00 | cheltenham     |      3 |        6 | Moratorium         |   2.8  | overthrow,moechilli |
 | 32 | --                | 2022-04-30 02:35:00 | newcastle      |      2 |        1 | Francesco Clemente |   1.75 | evenodds,lago       |
 | 33 | :boom:            | 2022-04-30 02:25:00 | punchestown    |      4 |        6 | Honeysuckle        |   1.15 | milkman             |
 | 34 | :2nd_place_medal: | 2022-04-30 02:25:00 | punchestown    |      4 |        5 | Echoes In Rain     |  20    | overthrow           |
