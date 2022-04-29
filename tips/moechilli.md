@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-04-28 18:49:45 +1000  
+date: 2022-04-29 10:27:10 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,9 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
+| 02:50             | 2022-04-30 | cheltenham R3          | 6 Moratorium         |   2.8  |    -10   |
+| 01:40             | 2022-04-30 | cheltenham R1          | 3 Envoye Special     |   3.3  |    -10   |
+| 12:55             | 2022-04-29 | grafton R3             | 1 Lesmurdie          |   3    |    -10   |
 | :boom:            | 2022-04-25 | darwin R4              | 4 Poupee             |   1.9  |      9   |
 | 4                 | 2022-04-25 | darwin R3              | 3 Blueant            |   3.3  |    -10   |
 | :3rd_place_medal: | 2022-04-16 | alice-springs R6       | 1 Rockford Files     |   3.9  |    -10   |

@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-04-28 18:49:50 +1000  
+date: 2022-04-29 10:27:15 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |      3 |      0 |    -30   | 0    | -1    |
-| Last 6 Months  |     27 |     10 |    -64.5 | 0.37 | -0.24 |
-| Since Jan 2020 |     67 |     35 |     -5.3 | 0.52 | -0.01 |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
+| Last 28 Days   |      4 |      0 |    -40   | 0    | -1    |
+| Last 6 Months  |     28 |     10 |    -74.5 | 0.36 | -0.27 |
+| Since Jan 2020 |     68 |     35 |    -15.3 | 0.51 | -0.02 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 19:05             | 2022-04-28 | narrogin R7            | 3 Hilton             |  1.9  |    -10   |
+| 0                 | 2022-04-28 | narrogin R7            | 3 Hilton             |  0    |    -10   |
 | :2nd_place_medal: | 2022-04-25 | lingfield R3           | 1 Goldsmith          |  1.9  |    -10   |
 | 0                 | 2022-04-08 | chelmsford-city R3     | 2 Intelligentsia     |  0    |    -10   |
 | 0                 | 2022-04-06 | sandown-lakeside R2    | 6 Rockribbed         |  0    |    -10   |
