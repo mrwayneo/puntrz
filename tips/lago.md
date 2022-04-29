@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-29 21:50:58 +1000  
+date: 2022-04-29 22:04:37 +1000  
 categories: None 
 ---   
 
@@ -66,8 +66,8 @@ categories: None
 | 0                 | 2022-02-07 | leopardstown R8              | 14 Pink In The Park  |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6            | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5                | 1 Bello Beau         |  2    |     10   |
-| 0                 | 2022-02-06 | leopardstown R7              | 4 Embassy Gardens    |  0    |    -10   |
 | :boom:            | 2022-02-06 | leopardstown R7              | 5 Facile Vega        |  1.73 |      7.3 |
+| 0                 | 2022-02-06 | leopardstown R7              | 4 Embassy Gardens    |  0    |    -10   |
 | 0                 | 2022-02-06 | leopardstown R1              | 1 Bronn              |  0    |    -10   |
 | :boom:            | 2022-02-02 | sandown-lakeside R1          | 7 Ruthless Dame      |  0    |    -10   |
 | :2nd_place_medal: | 2022-02-02 | ffos-las R7                  | 7 Tahmuras           |  0    |    -10   |
@@ -227,8 +227,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1                | 2 Haut En Couleurs   | 23    |    -10   |
 | :boom:            | 2021-03-19 | sunshine-coast R5            | 7 Karaka Lad         |  1.6  |      6   |
 | :3rd_place_medal: | 2021-03-18 | cheltenham R7                | 12 Elle Est Belle    | 19    |    -10   |
-| 99                | 2021-03-14 | sandown R4                   | 9 Precious           | 26    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | sandown R4                   | 18 Tweed Skirt       |  7.5  |    -10   |
+| 99                | 2021-03-14 | sandown R4                   | 9 Precious           | 26    |    -10   |
 | :2nd_place_medal: | 2021-03-12 | thurles R7                   | 3 Deploy The Getaway |  1.8  |    -10   |
 | 99                | 2021-03-08 | huntingdon R7                | 1 Quid Pro Quo       |  1.9  |    -10   |
 | 99                | 2021-02-28 | fairyhouse R8                | 5 Glengouly          |  2.25 |    -10   |
