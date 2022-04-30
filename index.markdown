@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 11:06:25 +1000  
+date: 2022-04-30 11:21:28 +1000  
 ---   
 
 
@@ -9,24 +9,24 @@ date: 2022-04-30 11:06:25 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 |    0 |    -1 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 |    0 |    -1 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      3 |      0 |      -30 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 |    0 |    -1 |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      4 |      0 |      -40 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      4 |      0 |      -40 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      0 |      -50 |    0 |    -1 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      0 |      -70 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      0 |     -250 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      0 |     -280 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      0 |     -430 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      0 |     -430 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      0 |     -490 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      0 |     -530 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      0 |    -1090 |    0 |    -1 |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 | 0    |  -1   |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 | 0    |  -1   |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 | 0    |  -1   |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      3 |      0 |      -30 | 0    |  -1   |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    |  -1   |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      4 |      0 |      -40 | 0    |  -1   |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    |  -1   |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      4 |      0 |      -40 | 0    |  -1   |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      0 |      -50 | 0    |  -1   |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      0 |      -70 | 0    |  -1   |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 | 0    |  -1   |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      0 |     -250 | 0    |  -1   |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      0 |     -280 | 0    |  -1   |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      0 |     -430 | 0    |  -1   |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      0 |     -430 | 0    |  -1   |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      1 |     -440 | 0.02 |  -0.9 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      0 |     -530 | 0    |  -1   |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      0 |    -1090 | 0    |  -1   |
 
 ##### Form Last 20 tips   
 
@@ -195,10 +195,10 @@ date: 2022-04-30 11:06:25 +1000
 | 110 | :soon:            | 2022-04-30 12:14:00 | te-rapa          |      4 |        2 | Lincoln Star       |   4.8  | vulture             |
 | 111 | :soon:            | 2022-04-30 12:03:00 | eagle-farm       |      2 |        6 | Octavian           |  13    | pangea              |
 | 112 | :soon:            | 2022-04-30 11:32:00 | wanganui         |      3 |        1 | Choisia Prince     |   1.91 | vulture             |
-| 113 | :soon:            | 2022-04-30 11:20:00 | hawkesbury       |      1 |        5 | Burgunder          |   7.5  | looseknot           |
-| 114 | :soon:            | 2022-04-30 11:20:00 | hawkesbury       |      1 |        3 | Basquiat           |   3.1  | vulture,jmac        |
-| 115 | :soon:            | 2022-04-30 11:20:00 | hawkesbury       |      1 |        1 | Green Shadows      |   4.4  | vulture,milkman     |
-| 116 | :soon:            | 2022-04-30 11:20:00 | hawkesbury       |      1 |        9 | Awesome John       |  14    | pikey               |
-| 117 | :soon:            | 2022-04-30 11:09:00 | te-rapa          |      2 |        7 | Dawn Parade        |   6.5  | pangea              |
-| 118 | :soon:            | 2022-04-30 11:09:00 | te-rapa          |      2 |        4 | Tightlign          |   3.9  | vulture             |
+| 113 | --                | 2022-04-30 11:20:00 | hawkesbury       |      1 |        5 | Burgunder          |   7.5  | looseknot           |
+| 114 | --                | 2022-04-30 11:20:00 | hawkesbury       |      1 |        3 | Basquiat           |   3.1  | vulture,jmac        |
+| 115 | --                | 2022-04-30 11:20:00 | hawkesbury       |      1 |        1 | Green Shadows      |   4.4  | vulture,milkman     |
+| 116 | --                | 2022-04-30 11:20:00 | hawkesbury       |      1 |        9 | Awesome John       |  14    | pikey               |
+| 117 | --                | 2022-04-30 11:09:00 | te-rapa          |      2 |        7 | Dawn Parade        |   6.5  | pangea              |
+| 118 | :boom:            | 2022-04-30 11:09:00 | te-rapa          |      2 |        4 | Tightlign          |   3.9  | vulture             |
 | 119 | :2nd_place_medal: | 2022-04-30 10:36:00 | te-rapa          |      1 |        5 | Dubai Diva         |   2.8  | vulture             |
