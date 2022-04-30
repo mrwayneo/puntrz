@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 16:06:52 +1000  
+date: 2022-04-30 19:15:00 +1000  
 ---   
 
 
@@ -17,16 +17,16 @@ date: 2022-04-30 16:06:52 +1000
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      1 |      -29 | 0.2  | -0.58 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      3 |      0 |      -30 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      8 |      -31 | 0.15 | -0.06 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      4 |      0 |      -40 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      4 |      0 |      -40 | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      1 |      -68 | 0.11 | -0.76 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      2 |      -55 | 0.22 | -0.61 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      7 |     -191 | 0.16 | -0.44 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      2 |     -209 | 0.08 | -0.84 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      2 |     -212 | 0.07 | -0.76 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      7 |     -252 | 0.14 | -0.51 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      5 |     -257 | 0.12 | -0.6  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      7 |     -341 | 0.13 | -0.64 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      0 |     -430 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      2 |     -793 | 0.02 | -0.73 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      8 |     -239 | 0.16 | -0.49 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      1 |     -322 | 0.02 | -0.75 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      3 |     -685 | 0.03 | -0.63 |
 
 ##### Form Last 20 tips   
 
@@ -136,28 +136,28 @@ date: 2022-04-30 16:06:52 +1000
 |  51 | :soon:            | 2022-04-30 21:30:00 | turffontein      |      4 |        2 | Karangetang        |   0    | milkman             |
 |  52 | :soon:            | 2022-04-30 20:55:00 | turffontein      |      3 |        2 | Maharanee          |   0    | milkman             |
 |  53 | :soon:            | 2022-04-30 20:20:00 | turffontein      |      2 |        5 | Prince Of Fire     |   0    | milkman             |
-|  54 | :soon:            | 2022-04-30 18:55:00 | toowoomba        |      4 |        8 | Rowdash            |   2.7  | pangea              |
-|  55 | :soon:            | 2022-04-30 18:38:00 | ascot            |      8 |        6 | Otheroneson        |   1.6  | evenodds,vulture    |
-|  56 | :soon:            | 2022-04-30 18:30:00 | singapore        |     10 |        3 | Katak              |   0    | vulture,milkman     |
-|  57 | :soon:            | 2022-04-30 18:20:00 | toowoomba        |      3 |        3 | Lonado             |   2.4  | pangea              |
-|  58 | :soon:            | 2022-04-30 18:08:00 | ascot            |      7 |        8 | Buzzoom            |   2.1  | evenodds,vulture    |
-|  59 | :soon:            | 2022-04-30 18:08:00 | ascot            |      7 |        5 | Lipstick Flickers  |   9.5  | pangea              |
-|  60 | :soon:            | 2022-04-30 17:42:00 | toowoomba        |      2 |        8 | Writtle            |   2.62 | vulture             |
-|  61 | :soon:            | 2022-04-30 16:50:00 | ascot            |      5 |        5 | Blackwater Bay     |   4    | pangea              |
-|  62 | :soon:            | 2022-04-30 16:37:00 | morphettville    |      8 |        8 | Zoist              |   4.8  | pangea              |
-|  63 | :soon:            | 2022-04-30 16:37:00 | morphettville    |      8 |        2 | Groundswell        |   9    | pangea,overthrow    |
-|  64 | :soon:            | 2022-04-30 16:25:00 | sandown-hillside |      8 |        5 | Regardsmaree       |   2.38 | pangea              |
-|  65 | :soon:            | 2022-04-30 16:25:00 | sandown-hillside |      8 |        4 | Great Again        |  14    | pangea              |
-|  66 | :soon:            | 2022-04-30 16:18:00 | eagle-farm       |      9 |        5 | Go Wandji          |   2.38 | vulture             |
-|  67 | :soon:            | 2022-04-30 16:18:00 | eagle-farm       |      9 |        3 | Avowal             |  15    | pangea,blackshadow  |
-|  68 | :soon:            | 2022-04-30 16:18:00 | eagle-farm       |      9 |        6 | Ventura Ocean      |  14    | pangea              |
-|  69 | :soon:            | 2022-04-30 16:18:00 | eagle-farm       |      9 |        9 | Bullfinch          |   5    | pangea              |
-|  70 | :soon:            | 2022-04-30 16:18:00 | eagle-farm       |      9 |       12 | Our Rebel          |  41    | looseknot           |
-|  71 | :soon:            | 2022-04-30 16:14:00 | ascot            |      4 |        1 | Cuban Twist        |   4.8  | pangea              |
+|  54 | :2nd_place_medal: | 2022-04-30 18:55:00 | toowoomba        |      4 |        8 | Rowdash            |   2.7  | pangea              |
+|  55 | :boom:            | 2022-04-30 18:38:00 | ascot            |      8 |        6 | Otheroneson        |   1.6  | evenodds,vulture    |
+|  56 | --                | 2022-04-30 18:30:00 | singapore        |     10 |        3 | Katak              |   0    | vulture,milkman     |
+|  57 | 7.0               | 2022-04-30 18:20:00 | toowoomba        |      3 |        3 | Lonado             |   2.4  | pangea              |
+|  58 | 6.0               | 2022-04-30 18:08:00 | ascot            |      7 |        8 | Buzzoom            |   2.1  | evenodds,vulture    |
+|  59 | --                | 2022-04-30 18:08:00 | ascot            |      7 |        5 | Lipstick Flickers  |   9.5  | pangea              |
+|  60 | 6.0               | 2022-04-30 17:42:00 | toowoomba        |      2 |        8 | Writtle            |   2.62 | vulture             |
+|  61 | --                | 2022-04-30 16:50:00 | ascot            |      5 |        5 | Blackwater Bay     |   4    | pangea              |
+|  62 | 4.0               | 2022-04-30 16:37:00 | morphettville    |      8 |        8 | Zoist              |   4.8  | pangea              |
+|  63 | 12.0              | 2022-04-30 16:37:00 | morphettville    |      8 |        2 | Groundswell        |   9    | pangea,overthrow    |
+|  64 | :boom:            | 2022-04-30 16:25:00 | sandown-hillside |      8 |        5 | Regardsmaree       |   2.38 | pangea              |
+|  65 | 9.0               | 2022-04-30 16:25:00 | sandown-hillside |      8 |        4 | Great Again        |  14    | pangea              |
+|  66 | --                | 2022-04-30 16:18:00 | eagle-farm       |      9 |        5 | Go Wandji          |   2.38 | vulture             |
+|  67 | 4.0               | 2022-04-30 16:18:00 | eagle-farm       |      9 |        3 | Avowal             |  15    | pangea,blackshadow  |
+|  68 | :3rd_place_medal: | 2022-04-30 16:18:00 | eagle-farm       |      9 |        6 | Ventura Ocean      |  14    | pangea              |
+|  69 | :boom:            | 2022-04-30 16:18:00 | eagle-farm       |      9 |        9 | Bullfinch          |   5    | pangea              |
+|  70 | 11.0              | 2022-04-30 16:18:00 | eagle-farm       |      9 |       12 | Our Rebel          |  41    | looseknot           |
+|  71 | 6.0               | 2022-04-30 16:14:00 | ascot            |      4 |        1 | Cuban Twist        |   4.8  | pangea              |
 |  72 | :2nd_place_medal: | 2022-04-30 15:50:00 | sandown-hillside |      7 |        2 | Belle Savoir       |   3    | milkman             |
-|  73 | --                | 2022-04-30 15:42:00 | eagle-farm       |      8 |        8 | It's Me            |  20    | milkman             |
+|  73 | 12.0              | 2022-04-30 15:42:00 | eagle-farm       |      8 |        8 | It's Me            |  20    | milkman             |
 |  74 | :2nd_place_medal: | 2022-04-30 15:42:00 | eagle-farm       |      8 |        7 | Scallopini         |  17    | vulture,pangea      |
-|  75 | --                | 2022-04-30 15:42:00 | eagle-farm       |      8 |        3 | Rothfire           |   2.25 | milkman             |
+|  75 | 5.0               | 2022-04-30 15:42:00 | eagle-farm       |      8 |        3 | Rothfire           |   2.25 | milkman             |
 |  76 | :boom:            | 2022-04-30 15:24:00 | barcaldine       |      5 |        6 | Kedleston          |   4    | vulture,blackshadow |
 |  77 | 4.0               | 2022-04-30 15:24:00 | barcaldine       |      5 |        4 | Ancient Echoes     |  12    | cosmo,bob           |
 |  78 | :2nd_place_medal: | 2022-04-30 15:24:00 | barcaldine       |      5 |        1 | Star of O'reilly   |   2.7  | pangea,icyhot       |
@@ -172,7 +172,7 @@ date: 2022-04-30 16:06:52 +1000
 |  87 | :2nd_place_medal: | 2022-04-30 14:42:00 | morphettville    |      5 |        1 | Twin Stars         |   6    | benny,pangea        |
 |  88 | 6.0               | 2022-04-30 14:42:00 | morphettville    |      5 |        8 | Lalaguna           |  10    | evenodds,overthrow  |
 |  89 | 4.0               | 2022-04-30 14:34:00 | te-rapa          |      8 |        1 | Navalha            |   2.5  | vulture             |
-|  90 | --                | 2022-04-30 14:34:00 | te-rapa          |      8 |        6 | Flat Track Bully   |  21    | cosmo,bluey         |
+|  90 | 6.0               | 2022-04-30 14:34:00 | te-rapa          |      8 |        6 | Flat Track Bully   |  21    | cosmo,bluey         |
 |  91 | 6.0               | 2022-04-30 14:19:00 | ascot            |      1 |        8 | Pasajero           |  17    | cosmo,bluey         |
 |  92 | :3rd_place_medal: | 2022-04-30 14:15:00 | hawkesbury       |      6 |        7 | Surreal Step       |  19    | pikey               |
 |  93 | --                | 2022-04-30 14:15:00 | hawkesbury       |      6 |        1 | Eleven Eleven      |   6.5  | vulture             |
@@ -191,7 +191,7 @@ date: 2022-04-30 16:06:52 +1000
 | 106 | :boom:            | 2022-04-30 13:05:00 | hawkesbury       |      4 |        5 | Deepstrike         |   4.4  | vulture             |
 | 107 | 5.0               | 2022-04-30 13:05:00 | hawkesbury       |      4 |       11 | Global Ausbred     |   5    | pikey               |
 | 108 | 4.0               | 2022-04-30 12:57:00 | morphettville    |      2 |        7 | Bon Pegasus        |  22    | pangea              |
-| 109 | --                | 2022-04-30 12:38:00 | wanganui         |      5 |        1 | Justaskme          |  12    | pangea              |
+| 109 | 9.0               | 2022-04-30 12:38:00 | wanganui         |      5 |        1 | Justaskme          |  12    | pangea              |
 | 110 | :3rd_place_medal: | 2022-04-30 12:14:00 | te-rapa          |      4 |        2 | Lincoln Star       |   4.8  | vulture             |
 | 111 | 6.0               | 2022-04-30 12:03:00 | eagle-farm       |      2 |        6 | Octavian           |  13    | pangea              |
 | 112 | :3rd_place_medal: | 2022-04-30 11:32:00 | wanganui         |      3 |        1 | Choisia Prince     |   1.91 | vulture             |
@@ -199,6 +199,6 @@ date: 2022-04-30 16:06:52 +1000
 | 114 | :2nd_place_medal: | 2022-04-30 11:20:00 | hawkesbury       |      1 |        3 | Basquiat           |   3.1  | vulture,jmac        |
 | 115 | 4.0               | 2022-04-30 11:20:00 | hawkesbury       |      1 |        1 | Green Shadows      |   4.4  | vulture,milkman     |
 | 116 | 6.0               | 2022-04-30 11:20:00 | hawkesbury       |      1 |        9 | Awesome John       |  14    | pikey               |
-| 117 | --                | 2022-04-30 11:09:00 | te-rapa          |      2 |        7 | Dawn Parade        |   6.5  | pangea              |
+| 117 | 6.0               | 2022-04-30 11:09:00 | te-rapa          |      2 |        7 | Dawn Parade        |   6.5  | pangea              |
 | 118 | :boom:            | 2022-04-30 11:09:00 | te-rapa          |      2 |        4 | Tightlign          |   3.9  | vulture             |
 | 119 | :2nd_place_medal: | 2022-04-30 10:36:00 | te-rapa          |      1 |        5 | Dubai Diva         |   2.8  | vulture             |
