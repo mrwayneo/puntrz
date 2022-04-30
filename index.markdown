@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 13:36:32 +1000  
+date: 2022-04-30 13:51:43 +1000  
 ---   
 
 
@@ -10,20 +10,20 @@ date: 2022-04-30 13:36:32 +1000
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      1 |       55 | 0.33 |  1.83 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      2 |       22 | 0.29 |  0.31 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      3 |      0 |      -30 | 0    | -1    |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      1 |      -30 | 0.14 | -0.43 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      4 |      0 |      -40 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      4 |      0 |      -40 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      0 |      -50 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      1 |     -228 | 0.04 | -0.81 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      0 |     -250 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      0 |     -280 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      2 |     -338 | 0.05 | -0.79 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      3 |     -353 | 0.06 | -0.72 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      1 |     -390 | 0.02 | -0.91 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      0 |     -430 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      3 |     -467 | 0.06 | -0.88 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      1 |     -995 | 0.01 | -0.91 |
@@ -180,12 +180,12 @@ date: 2022-04-30 13:36:32 +1000
 |  95 | :soon:            | 2022-04-30 14:07:00 | morphettville    |      4 |        8 | Perceptive         |  10    | vulture             |
 |  96 | :soon:            | 2022-04-30 14:07:00 | morphettville    |      4 |       10 | Defining           |   4    | pangea              |
 |  97 | :soon:            | 2022-04-30 13:57:00 | te-rapa          |      7 |        4 | Charms Star        |   6    | vulture             |
-|  98 | --                | 2022-04-30 13:34:00 | barcaldine       |      2 |        5 | Mori's Press       |   1.95 | vulture             |
-|  99 | --                | 2022-04-30 13:34:00 | barcaldine       |      2 |        1 | Halcyon House      |   4.4  | pangea,blackshadow  |
+|  98 | :2nd_place_medal: | 2022-04-30 13:34:00 | barcaldine       |      2 |        5 | Mori's Press       |   1.95 | vulture             |
+|  99 | :boom:            | 2022-04-30 13:34:00 | barcaldine       |      2 |        1 | Halcyon House      |   4.4  | pangea,blackshadow  |
 | 100 | --                | 2022-04-30 13:34:00 | barcaldine       |      2 |        8 | Only Emma          |  21.5  | vulture             |
 | 101 | :boom:            | 2022-04-30 13:32:00 | morphettville    |      3 |        8 | Gaze Grise         |   3.9  | vulture,blackshadow |
 | 102 | :3rd_place_medal: | 2022-04-30 13:32:00 | morphettville    |      3 |        5 | Meteorite          |   3.9  | pangea              |
-| 103 | --                | 2022-04-30 13:13:00 | eagle-farm       |      4 |        2 | Wham               |   6.5  | vulture,blackshadow |
+| 103 | 6.0               | 2022-04-30 13:13:00 | eagle-farm       |      4 |        2 | Wham               |   6.5  | vulture,blackshadow |
 | 104 | 4.0               | 2022-04-30 13:13:00 | eagle-farm       |      4 |       10 | Lunakorn           |   5.5  | pangea              |
 | 105 | 9.0               | 2022-04-30 13:05:00 | hawkesbury       |      4 |        3 | Mr Gee             |  13    | cosmo,bluey         |
 | 106 | :boom:            | 2022-04-30 13:05:00 | hawkesbury       |      4 |        5 | Deepstrike         |   4.4  | vulture             |
