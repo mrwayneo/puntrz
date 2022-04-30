@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 22:34:33 +1000  
+date: 2022-04-30 22:49:34 +1000  
 ---   
 
 
@@ -126,9 +126,9 @@ date: 2022-04-30 22:34:33 +1000
 |  41 | :soon:            | 2022-04-30 23:15:00 | turffontein      |      7 |       10 | Shangani           |  10    | pangea,icyhot       |
 |  42 | :soon:            | 2022-04-30 23:15:00 | turffontein      |      7 |        3 | Puerto Manzano     |  13    | vulture             |
 |  43 | :soon:            | 2022-04-30 23:05:00 | thirsk           |      3 |        5 | Redarna            |  81    | cosmo,bluey         |
-|  44 | :soon:            | 2022-04-30 22:40:00 | turffontein      |      6 |        6 | Master Archie      |   4.6  | vulture,milkman     |
-|  45 | :soon:            | 2022-04-30 22:40:00 | turffontein      |      6 |        4 | Real Gone Kid      |   6.5  | milkman             |
-|  46 | :soon:            | 2022-04-30 22:40:00 | turffontein      |      6 |       14 | Big Burn           |   7    | milkman             |
+|  44 | --                | 2022-04-30 22:40:00 | turffontein      |      6 |        6 | Master Archie      |   4.6  | vulture,milkman     |
+|  45 | --                | 2022-04-30 22:40:00 | turffontein      |      6 |        4 | Real Gone Kid      |   6.5  | milkman             |
+|  46 | --                | 2022-04-30 22:40:00 | turffontein      |      6 |       14 | Big Burn           |   7    | milkman             |
 |  47 | 6.0               | 2022-04-30 22:15:00 | newmarket        |      1 |        2 | Improvised         |  41    | milkman             |
 |  48 | 4.0               | 2022-04-30 22:15:00 | newmarket        |      1 |        7 | Flotus             |   1.67 | evenodds,overthrow  |
 |  49 | --                | 2022-04-30 21:30:00 | turffontein      |      4 |        5 | Set To Go          |   0    | milkman             |
