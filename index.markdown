@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 14:36:49 +1000  
+date: 2022-04-30 14:51:45 +1000  
 ---   
 
 
@@ -21,11 +21,11 @@ date: 2022-04-30 14:36:49 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      0 |      -50 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      1 |     -228 | 0.04 | -0.81 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      0 |     -250 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      1 |     -231 | 0.04 | -0.92 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      5 |     -315 | 0.1  | -0.64 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      3 |     -319 | 0.07 | -0.74 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      4 |     -334 | 0.08 | -0.68 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      0 |     -430 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      3 |     -467 | 0.06 | -0.88 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      4 |     -441 | 0.08 | -0.83 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      2 |     -793 | 0.02 | -0.73 |
 
 ##### Form Last 20 tips   
@@ -165,15 +165,15 @@ date: 2022-04-30 14:36:49 +1000
 |  80 | :soon:            | 2022-04-30 15:02:00 | eagle-farm       |      7 |        6 | Red Wave           |  16    | benny,pangea        |
 |  81 | :soon:            | 2022-04-30 15:02:00 | eagle-farm       |      7 |        9 | Whitewater         |  18    | vulture             |
 |  82 | :soon:            | 2022-04-30 14:56:00 | ascot            |      2 |        2 | Top Of The Pops    |   2.75 | evenodds,milkman    |
-|  83 | :soon:            | 2022-04-30 14:50:00 | hawkesbury       |      7 |        6 | Loch Eagle         |   5.5  | pangea              |
-|  84 | :soon:            | 2022-04-30 14:50:00 | hawkesbury       |      7 |        5 | Vilana             |   6    | vulture,milkman     |
-|  85 | :soon:            | 2022-04-30 14:50:00 | hawkesbury       |      7 |        1 | Mr Mozart          |   2.2  | benny,pikey         |
-|  86 | :soon:            | 2022-04-30 14:42:00 | morphettville    |      5 |        5 | See You In Heaven  |   2.3  | vulture,milkman     |
-|  87 | :soon:            | 2022-04-30 14:42:00 | morphettville    |      5 |        1 | Twin Stars         |   6    | benny,pangea        |
-|  88 | :soon:            | 2022-04-30 14:42:00 | morphettville    |      5 |        8 | Lalaguna           |  10    | evenodds,overthrow  |
-|  89 | --                | 2022-04-30 14:34:00 | te-rapa          |      8 |        1 | Navalha            |   2.5  | vulture             |
+|  83 | --                | 2022-04-30 14:50:00 | hawkesbury       |      7 |        6 | Loch Eagle         |   5.5  | pangea              |
+|  84 | --                | 2022-04-30 14:50:00 | hawkesbury       |      7 |        5 | Vilana             |   6    | vulture,milkman     |
+|  85 | --                | 2022-04-30 14:50:00 | hawkesbury       |      7 |        1 | Mr Mozart          |   2.2  | benny,pikey         |
+|  86 | :boom:            | 2022-04-30 14:42:00 | morphettville    |      5 |        5 | See You In Heaven  |   2.3  | vulture,milkman     |
+|  87 | :2nd_place_medal: | 2022-04-30 14:42:00 | morphettville    |      5 |        1 | Twin Stars         |   6    | benny,pangea        |
+|  88 | --                | 2022-04-30 14:42:00 | morphettville    |      5 |        8 | Lalaguna           |  10    | evenodds,overthrow  |
+|  89 | 4.0               | 2022-04-30 14:34:00 | te-rapa          |      8 |        1 | Navalha            |   2.5  | vulture             |
 |  90 | --                | 2022-04-30 14:34:00 | te-rapa          |      8 |        6 | Flat Track Bully   |  21    | cosmo,bluey         |
-|  91 | --                | 2022-04-30 14:19:00 | ascot            |      1 |        8 | Pasajero           |  17    | cosmo,bluey         |
+|  91 | 6.0               | 2022-04-30 14:19:00 | ascot            |      1 |        8 | Pasajero           |  17    | cosmo,bluey         |
 |  92 | :3rd_place_medal: | 2022-04-30 14:15:00 | hawkesbury       |      6 |        7 | Surreal Step       |  19    | pikey               |
 |  93 | --                | 2022-04-30 14:15:00 | hawkesbury       |      6 |        1 | Eleven Eleven      |   6.5  | vulture             |
 |  94 | :boom:            | 2022-04-30 14:07:00 | morphettville    |      4 |        2 | Illation           |   2.5  | vulture,pangea      |
