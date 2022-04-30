@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-04-30 13:06:37 +1000  
+date: 2022-04-30 13:21:43 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 23:05             | 2022-04-30 | thirsk R3              | 5 Redarna             |  81   |      -10 |
 | 14:34             | 2022-04-30 | te-rapa R8             | 6 Flat Track Bully    |  21   |      -10 |
 | 14:19             | 2022-04-30 | ascot R1               | 8 Pasajero            |  17   |      -10 |
-| 0                 | 2022-04-30 | hawkesbury R4          | 3 Mr Gee              |   0   |      -10 |
+| 9                 | 2022-04-30 | hawkesbury R4          | 3 Mr Gee              |  13   |      -10 |
 | :3rd_place_medal: | 2022-04-25 | kalgoorlie R6          | 4 Jakestar            |  13   |      -10 |
 | :3rd_place_medal: | 2022-04-25 | flemington R8          | 6 Sig Positano        |  19   |      -10 |
 | 7                 | 2022-04-13 | pinjarra-scarpside R8  | 8 There's A Thought   |  11   |      -10 |
@@ -164,8 +164,8 @@ categories: None
 | :2nd_place_medal: | 2021-07-09 | carlisle R8            | 3 Zeimaam             |  11   |      -10 |
 | 7                 | 2021-07-07 | bordertown R6          | 10 Humpback           |  19   |      -10 |
 | 9                 | 2021-07-07 | grafton R1             | 5 Astralis            |  15   |      -10 |
-| :boom:            | 2021-07-04 | haydock R4             | 3 Alounak             |  19.2 |      182 |
 | :3rd_place_medal: | 2021-07-04 | haydock R4             | 9 My Frankel          |  15   |      -10 |
+| :boom:            | 2021-07-04 | haydock R4             | 3 Alounak             |  19.2 |      182 |
 | :boom:            | 2021-07-03 | darwin R6              | 7 La Trioli           |   9.6 |       86 |
 | :boom:            | 2021-07-02 | newbury R4             | 9 In The Breeze       |  10   |       90 |
 | :2nd_place_medal: | 2021-07-01 | thirsk R7              | 12 Dylan's Lad        |  11   |      -10 |

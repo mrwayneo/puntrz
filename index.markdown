@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 13:06:38 +1000  
+date: 2022-04-30 13:21:43 +1000  
 ---   
 
 
@@ -22,9 +22,9 @@ date: 2022-04-30 13:06:38 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      0 |     -250 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      0 |     -280 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      2 |     -393 | 0.04 | -0.8  |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      0 |     -430 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      0 |     -430 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      1 |     -440 | 0.02 | -0.9  |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      3 |     -467 | 0.06 | -0.88 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      1 |     -995 | 0.01 | -0.91 |
 
@@ -185,11 +185,11 @@ date: 2022-04-30 13:06:38 +1000
 | 100 | :soon:            | 2022-04-30 13:34:00 | barcaldine       |      2 |        8 | Only Emma          |  21.5  | vulture             |
 | 101 | :soon:            | 2022-04-30 13:32:00 | morphettville    |      3 |        8 | Gaze Grise         |   3.9  | vulture,blackshadow |
 | 102 | :soon:            | 2022-04-30 13:32:00 | morphettville    |      3 |        5 | Meteorite          |   3.9  | pangea              |
-| 103 | :soon:            | 2022-04-30 13:13:00 | eagle-farm       |      4 |        2 | Wham               |   6.5  | vulture,blackshadow |
-| 104 | :soon:            | 2022-04-30 13:13:00 | eagle-farm       |      4 |       10 | Lunakorn           |   5.5  | pangea              |
-| 105 | --                | 2022-04-30 13:05:00 | hawkesbury       |      4 |        3 | Mr Gee             |  13    | cosmo,bluey         |
-| 106 | --                | 2022-04-30 13:05:00 | hawkesbury       |      4 |        5 | Deepstrike         |   4.4  | vulture             |
-| 107 | --                | 2022-04-30 13:05:00 | hawkesbury       |      4 |       11 | Global Ausbred     |   5    | pikey               |
+| 103 | --                | 2022-04-30 13:13:00 | eagle-farm       |      4 |        2 | Wham               |   6.5  | vulture,blackshadow |
+| 104 | 4.0               | 2022-04-30 13:13:00 | eagle-farm       |      4 |       10 | Lunakorn           |   5.5  | pangea              |
+| 105 | 9.0               | 2022-04-30 13:05:00 | hawkesbury       |      4 |        3 | Mr Gee             |  13    | cosmo,bluey         |
+| 106 | :boom:            | 2022-04-30 13:05:00 | hawkesbury       |      4 |        5 | Deepstrike         |   4.4  | vulture             |
+| 107 | 5.0               | 2022-04-30 13:05:00 | hawkesbury       |      4 |       11 | Global Ausbred     |   5    | pikey               |
 | 108 | 4.0               | 2022-04-30 12:57:00 | morphettville    |      2 |        7 | Bon Pegasus        |  22    | pangea              |
 | 109 | --                | 2022-04-30 12:38:00 | wanganui         |      5 |        1 | Justaskme          |  12    | pangea              |
 | 110 | :3rd_place_medal: | 2022-04-30 12:14:00 | te-rapa          |      4 |        2 | Lincoln Star       |   4.8  | vulture             |
