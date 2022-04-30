@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 14:21:44 +1000  
+date: 2022-04-30 14:36:49 +1000  
 ---   
 
 
@@ -171,8 +171,8 @@ date: 2022-04-30 14:21:44 +1000
 |  86 | :soon:            | 2022-04-30 14:42:00 | morphettville    |      5 |        5 | See You In Heaven  |   2.3  | vulture,milkman     |
 |  87 | :soon:            | 2022-04-30 14:42:00 | morphettville    |      5 |        1 | Twin Stars         |   6    | benny,pangea        |
 |  88 | :soon:            | 2022-04-30 14:42:00 | morphettville    |      5 |        8 | Lalaguna           |  10    | evenodds,overthrow  |
-|  89 | :soon:            | 2022-04-30 14:34:00 | te-rapa          |      8 |        1 | Navalha            |   2.5  | vulture             |
-|  90 | :soon:            | 2022-04-30 14:34:00 | te-rapa          |      8 |        6 | Flat Track Bully   |  21    | cosmo,bluey         |
+|  89 | --                | 2022-04-30 14:34:00 | te-rapa          |      8 |        1 | Navalha            |   2.5  | vulture             |
+|  90 | --                | 2022-04-30 14:34:00 | te-rapa          |      8 |        6 | Flat Track Bully   |  21    | cosmo,bluey         |
 |  91 | --                | 2022-04-30 14:19:00 | ascot            |      1 |        8 | Pasajero           |  17    | cosmo,bluey         |
 |  92 | :3rd_place_medal: | 2022-04-30 14:15:00 | hawkesbury       |      6 |        7 | Surreal Step       |  19    | pikey               |
 |  93 | --                | 2022-04-30 14:15:00 | hawkesbury       |      6 |        1 | Eleven Eleven      |   6.5  | vulture             |
@@ -182,7 +182,7 @@ date: 2022-04-30 14:21:44 +1000
 |  97 | 4.0               | 2022-04-30 13:57:00 | te-rapa          |      7 |        4 | Charms Star        |   6    | vulture             |
 |  98 | :2nd_place_medal: | 2022-04-30 13:34:00 | barcaldine       |      2 |        5 | Mori's Press       |   1.95 | vulture             |
 |  99 | :boom:            | 2022-04-30 13:34:00 | barcaldine       |      2 |        1 | Halcyon House      |   4.4  | pangea,blackshadow  |
-| 100 | --                | 2022-04-30 13:34:00 | barcaldine       |      2 |        8 | Only Emma          |  21.5  | vulture             |
+| 100 | 8.0               | 2022-04-30 13:34:00 | barcaldine       |      2 |        8 | Only Emma          |  21.5  | vulture             |
 | 101 | :boom:            | 2022-04-30 13:32:00 | morphettville    |      3 |        8 | Gaze Grise         |   3.9  | vulture,blackshadow |
 | 102 | :3rd_place_medal: | 2022-04-30 13:32:00 | morphettville    |      3 |        5 | Meteorite          |   3.9  | pangea              |
 | 103 | 6.0               | 2022-04-30 13:13:00 | eagle-farm       |      4 |        2 | Wham               |   6.5  | vulture,blackshadow |
