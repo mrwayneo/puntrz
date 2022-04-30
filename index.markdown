@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 22:00:23 +1000  
+date: 2022-04-30 22:34:33 +1000  
 ---   
 
 
@@ -9,9 +9,9 @@ date: 2022-04-30 22:00:23 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |     10 |    220   | 0.19 |  0.42 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      3 |     63   | 0.43 |  0.9  |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      1 |     55   | 0.33 |  1.83 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      9 |     10   | 0.17 |  0.02 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |    -10   | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |    -10   | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      1 |    -19   | 0.25 | -0.48 |
@@ -21,8 +21,8 @@ date: 2022-04-30 22:00:23 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      4 |      0 |    -40   | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      4 |      0 |    -40   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      2 |    -55   | 0.22 | -0.61 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      9 |   -154   | 0.18 | -0.31 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      4 |   -162.5 | 0.16 | -0.65 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      4 |   -156.5 | 0.16 | -0.63 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      9 |   -159   | 0.18 | -0.32 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      7 |   -191   | 0.16 | -0.44 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      2 |   -212   | 0.07 | -0.76 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      1 |   -322   | 0.02 | -0.75 |
@@ -129,8 +129,8 @@ date: 2022-04-30 22:00:23 +1000
 |  44 | :soon:            | 2022-04-30 22:40:00 | turffontein      |      6 |        6 | Master Archie      |   4.6  | vulture,milkman     |
 |  45 | :soon:            | 2022-04-30 22:40:00 | turffontein      |      6 |        4 | Real Gone Kid      |   6.5  | milkman             |
 |  46 | :soon:            | 2022-04-30 22:40:00 | turffontein      |      6 |       14 | Big Burn           |   7    | milkman             |
-|  47 | :soon:            | 2022-04-30 22:15:00 | newmarket        |      1 |        2 | Improvised         |  41    | milkman             |
-|  48 | :soon:            | 2022-04-30 22:15:00 | newmarket        |      1 |        7 | Flotus             |   1.67 | evenodds,overthrow  |
+|  47 | 6.0               | 2022-04-30 22:15:00 | newmarket        |      1 |        2 | Improvised         |  41    | milkman             |
+|  48 | 4.0               | 2022-04-30 22:15:00 | newmarket        |      1 |        7 | Flotus             |   1.67 | evenodds,overthrow  |
 |  49 | --                | 2022-04-30 21:30:00 | turffontein      |      4 |        5 | Set To Go          |   0    | milkman             |
 |  50 | :boom:            | 2022-04-30 21:30:00 | turffontein      |      4 |        9 | Miss Cool          |   0    | vulture             |
 |  51 | --                | 2022-04-30 21:30:00 | turffontein      |      4 |        2 | Karangetang        |   0    | milkman             |
