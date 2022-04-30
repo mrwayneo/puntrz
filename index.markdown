@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 15:51:42 +1000  
+date: 2022-04-30 16:06:52 +1000  
 ---   
 
 
@@ -24,7 +24,7 @@ date: 2022-04-30 15:51:42 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      2 |     -212 | 0.07 | -0.76 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      7 |     -252 | 0.14 | -0.51 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      5 |     -257 | 0.12 | -0.6  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      7 |     -340 | 0.13 | -0.64 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      7 |     -341 | 0.13 | -0.64 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      0 |     -430 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      2 |     -793 | 0.02 | -0.73 |
 
@@ -154,7 +154,7 @@ date: 2022-04-30 15:51:42 +1000
 |  69 | :soon:            | 2022-04-30 16:18:00 | eagle-farm       |      9 |        9 | Bullfinch          |   5    | pangea              |
 |  70 | :soon:            | 2022-04-30 16:18:00 | eagle-farm       |      9 |       12 | Our Rebel          |  41    | looseknot           |
 |  71 | :soon:            | 2022-04-30 16:14:00 | ascot            |      4 |        1 | Cuban Twist        |   4.8  | pangea              |
-|  72 | --                | 2022-04-30 15:50:00 | sandown-hillside |      7 |        2 | Belle Savoir       |   3    | milkman             |
+|  72 | :2nd_place_medal: | 2022-04-30 15:50:00 | sandown-hillside |      7 |        2 | Belle Savoir       |   3    | milkman             |
 |  73 | --                | 2022-04-30 15:42:00 | eagle-farm       |      8 |        8 | It's Me            |  20    | milkman             |
 |  74 | :2nd_place_medal: | 2022-04-30 15:42:00 | eagle-farm       |      8 |        7 | Scallopini         |  17    | vulture,pangea      |
 |  75 | --                | 2022-04-30 15:42:00 | eagle-farm       |      8 |        3 | Rothfire           |   2.25 | milkman             |
