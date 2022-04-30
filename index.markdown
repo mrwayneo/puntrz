@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 14:06:45 +1000  
+date: 2022-04-30 14:21:44 +1000  
 ---   
 
 
@@ -22,11 +22,11 @@ date: 2022-04-30 14:06:45 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      1 |     -228 | 0.04 | -0.81 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      0 |     -250 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      2 |     -338 | 0.05 | -0.79 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      3 |     -353 | 0.06 | -0.72 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      3 |     -319 | 0.07 | -0.74 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      4 |     -334 | 0.08 | -0.68 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      0 |     -430 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      3 |     -467 | 0.06 | -0.88 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      1 |     -995 | 0.01 | -0.91 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      2 |     -793 | 0.02 | -0.73 |
 
 ##### Form Last 20 tips   
 
@@ -173,12 +173,12 @@ date: 2022-04-30 14:06:45 +1000
 |  88 | :soon:            | 2022-04-30 14:42:00 | morphettville    |      5 |        8 | Lalaguna           |  10    | evenodds,overthrow  |
 |  89 | :soon:            | 2022-04-30 14:34:00 | te-rapa          |      8 |        1 | Navalha            |   2.5  | vulture             |
 |  90 | :soon:            | 2022-04-30 14:34:00 | te-rapa          |      8 |        6 | Flat Track Bully   |  21    | cosmo,bluey         |
-|  91 | :soon:            | 2022-04-30 14:19:00 | ascot            |      1 |        8 | Pasajero           |  17    | cosmo,bluey         |
-|  92 | :soon:            | 2022-04-30 14:15:00 | hawkesbury       |      6 |        7 | Surreal Step       |  19    | pikey               |
-|  93 | :soon:            | 2022-04-30 14:15:00 | hawkesbury       |      6 |        1 | Eleven Eleven      |   6.5  | vulture             |
-|  94 | :soon:            | 2022-04-30 14:07:00 | morphettville    |      4 |        2 | Illation           |   2.5  | vulture,pangea      |
-|  95 | :soon:            | 2022-04-30 14:07:00 | morphettville    |      4 |        8 | Perceptive         |  10    | vulture             |
-|  96 | :soon:            | 2022-04-30 14:07:00 | morphettville    |      4 |       10 | Defining           |   4    | pangea              |
+|  91 | --                | 2022-04-30 14:19:00 | ascot            |      1 |        8 | Pasajero           |  17    | cosmo,bluey         |
+|  92 | :3rd_place_medal: | 2022-04-30 14:15:00 | hawkesbury       |      6 |        7 | Surreal Step       |  19    | pikey               |
+|  93 | --                | 2022-04-30 14:15:00 | hawkesbury       |      6 |        1 | Eleven Eleven      |   6.5  | vulture             |
+|  94 | :boom:            | 2022-04-30 14:07:00 | morphettville    |      4 |        2 | Illation           |   2.5  | vulture,pangea      |
+|  95 | 4.0               | 2022-04-30 14:07:00 | morphettville    |      4 |        8 | Perceptive         |  10    | vulture             |
+|  96 | :2nd_place_medal: | 2022-04-30 14:07:00 | morphettville    |      4 |       10 | Defining           |   4    | pangea              |
 |  97 | 4.0               | 2022-04-30 13:57:00 | te-rapa          |      7 |        4 | Charms Star        |   6    | vulture             |
 |  98 | :2nd_place_medal: | 2022-04-30 13:34:00 | barcaldine       |      2 |        5 | Mori's Press       |   1.95 | vulture             |
 |  99 | :boom:            | 2022-04-30 13:34:00 | barcaldine       |      2 |        1 | Halcyon House      |   4.4  | pangea,blackshadow  |

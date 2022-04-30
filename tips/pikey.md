@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-30 14:06:44 +1000  
+date: 2022-04-30 14:21:43 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 14:50             | 2022-04-30 | hawkesbury R7         | 1 Mr Mozart           |   2.2  |    -10   |
-| 14:15             | 2022-04-30 | hawkesbury R6         | 7 Surreal Step        |  19    |    -10   |
+| :3rd_place_medal: | 2022-04-30 | hawkesbury R6         | 7 Surreal Step        |  19    |    -10   |
 | 5                 | 2022-04-30 | hawkesbury R4         | 11 Global Ausbred     |   5    |    -10   |
 | 6                 | 2022-04-30 | hawkesbury R1         | 9 Awesome John        |  14    |    -10   |
 | 0                 | 2022-04-28 | wyong R8              | 3 Harlem Groove       |   0    |    -10   |
