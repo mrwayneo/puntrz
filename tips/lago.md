@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-30 22:49:32 +1000  
+date: 2022-05-01 06:06:24 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     11 |      4 |    -28.4 | 0.36 | -0.26 |
-| Last 6 Months  |    131 |     59 |    135.6 | 0.45 |  0.1  |
-| Since Jan 2020 |    253 |    123 |   1442.3 | 0.49 |  0.57 |
+| Last 7 Days    |      5 |      1 |    -29   | 0.2  | -0.58 |
+| Last 28 Days   |     14 |      5 |    -37.4 | 0.36 | -0.27 |
+| Last 6 Months  |    117 |     49 |    -32.6 | 0.42 | -0.03 |
+| Since Jan 2020 |    256 |    124 |   1433.3 | 0.48 |  0.56 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 01:50             | 2022-05-01 | newmarket R7                 | 4 King Of Time       |  2.3  |    -10   |
-| 00:40             | 2022-05-01 | newmarket R5                 | 10 Native Trail      |  2.15 |    -10   |
-| 23:40             | 2022-04-30 | goodwood R3                  | 7 Zanbaq             |  3.7  |    -10   |
+| :boom:            | 2022-05-01 | newmarket R7                 | 4 King Of Time       |  2.1  |     11   |
+| :2nd_place_medal: | 2022-05-01 | newmarket R5                 | 10 Native Trail      |  2.15 |    -10   |
+| :3rd_place_medal: | 2022-04-30 | goodwood R3                  | 7 Zanbaq             |  3.7  |    -10   |
 | 0                 | 2022-04-30 | newcastle R2                 | 1 Francesco Clemente |  0    |    -10   |
 | 0                 | 2022-04-26 | nottingham R2                | 1 New Dimension      |  0    |    -10   |
 | 0                 | 2022-04-16 | newbury R2                   | 10 Shaara            |  0    |    -10   |
@@ -31,8 +31,8 @@ categories: None
 | 0                 | 2022-04-05 | townsville R1                | 3 Chinny Boom        |  0    |    -10   |
 | :boom:            | 2022-04-02 | alice-springs R6             | 1 Dakota Lee         |  1.1  |      1   |
 | :boom:            | 2022-04-02 | gold-coast R4                | 2 Impel Gazelle      |  4.1  |     31   |
-| :boom:            | 2022-03-28 | limerick R8                  | 1 Impulsive Dancer   |  4.8  |     38   |
 | :3rd_place_medal: | 2022-03-28 | limerick R8                  | 2 Mercurey           |  1.32 |    -10   |
+| :boom:            | 2022-03-28 | limerick R8                  | 1 Impulsive Dancer   |  4.8  |     38   |
 | 5                 | 2022-03-25 | moonee-valley R3             | 1 Bello Beau         |  3.75 |    -10   |
 | :boom:            | 2022-03-25 | moonee-valley R1             | 6 Ice Pick Nick      |  5.8  |     48   |
 | :boom:            | 2022-03-23 | exeter R6                    | 2 Park Hill Dancer   |  2.1  |     11   |
@@ -40,8 +40,8 @@ categories: None
 | :boom:            | 2022-03-20 | alice-springs R2             | 1 Dakota Lee         |  1.1  |      1   |
 | 0                 | 2022-03-20 | uttoxeter R8                 | 2 Kracka Nut         |  0    |    -10   |
 | 0                 | 2022-03-17 | kempton R1                   | 1 Deciduous          |  0    |    -10   |
-| :boom:            | 2022-03-17 | cheltenham R7                | 7 Facile Vega        |  3    |     20   |
 | 0                 | 2022-03-17 | cheltenham R7                | 16 Redemption Day    |  0    |    -10   |
+| :boom:            | 2022-03-17 | cheltenham R7                | 7 Facile Vega        |  3    |     20   |
 | 0                 | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo      |  0    |    -10   |
 | 0                 | 2022-03-16 | cheltenham R1                | 4 Jonbon             |  0    |    -10   |
 | :2nd_place_medal: | 2022-03-14 | bangor R3                    | 2 Jungle Jack        |  2.4  |    -10   |
@@ -65,8 +65,8 @@ categories: None
 | :boom:            | 2022-02-12 | bangor R5                    | 1 Jungle Jack        |  1.85 |      8.5 |
 | 0                 | 2022-02-10 | albany R5                    | 6 Special Royale     |  0    |    -10   |
 | 4                 | 2022-02-09 | ipswich R9                   | 9 Sanzera            |  5.5  |    -10   |
-| 0                 | 2022-02-07 | leopardstown R8              | 14 Pink In The Park  |  0    |    -10   |
 | 0                 | 2022-02-07 | leopardstown R8              | 5 Eabha Grace        |  0    |    -10   |
+| 0                 | 2022-02-07 | leopardstown R8              | 14 Pink In The Park  |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6            | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5                | 1 Bello Beau         |  2    |     10   |
 | :boom:            | 2022-02-06 | leopardstown R7              | 5 Facile Vega        |  1.73 |      7.3 |
@@ -230,8 +230,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1                | 2 Haut En Couleurs   | 23    |    -10   |
 | :boom:            | 2021-03-19 | sunshine-coast R5            | 7 Karaka Lad         |  1.6  |      6   |
 | :3rd_place_medal: | 2021-03-18 | cheltenham R7                | 12 Elle Est Belle    | 19    |    -10   |
-| 99                | 2021-03-14 | sandown R4                   | 9 Precious           | 26    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | sandown R4                   | 18 Tweed Skirt       |  7.5  |    -10   |
+| 99                | 2021-03-14 | sandown R4                   | 9 Precious           | 26    |    -10   |
 | :2nd_place_medal: | 2021-03-12 | thurles R7                   | 3 Deploy The Getaway |  1.8  |    -10   |
 | 99                | 2021-03-08 | huntingdon R7                | 1 Quid Pro Quo       |  1.9  |    -10   |
 | 99                | 2021-02-28 | fairyhouse R8                | 5 Glengouly          |  2.25 |    -10   |

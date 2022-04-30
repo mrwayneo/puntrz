@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-04-30 22:49:32 +1000  
+date: 2022-05-01 06:06:24 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |      8 |      0 |    -80   | 0    | -1    |
-| Last 6 Months  |     98 |      9 |   -205   | 0.09 | -0.21 |
-| Since Jan 2020 |    268 |     42 |   3467.5 | 0.16 |  1.29 |
+| Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
+| Last 28 Days   |     10 |      0 |   -100   | 0    | -1    |
+| Last 6 Months  |     84 |      5 |   -408   | 0.06 | -0.49 |
+| Since Jan 2020 |    270 |     42 |   3447.5 | 0.16 |  1.28 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:05             | 2022-05-01 | punchestown R7                | 10 Read To Return     |  21    |    -10   |
+| 0                 | 2022-05-01 | punchestown R7                | 10 Read To Return     |   0    |    -10   |
 | 4                 | 2022-04-30 | barcaldine R5                 | 4 Ancient Echoes      |  12    |    -10   |
 | 0                 | 2022-04-30 | punchestown R8                | 20 Read To Return     |   0    |    -10   |
 | 5                 | 2022-04-28 | mackay R2                     | 3 Heroic Angel        |   6    |    -10   |
