@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-04-30 19:14:53 +1000  
+date: 2022-04-30 19:29:53 +1000  
 categories: None 
 ---   
 
@@ -134,8 +134,8 @@ categories: None
 | 5                 | 2022-01-01 | sha-tin R10                  | 3 Blaze Warrior       |  0    |    -10   |
 | :boom:            | 2022-01-01 | sha-tin R8                   | 5 Master Eight        |  1.3  |      3   |
 | :boom:            | 2022-01-01 | geraldton R5                 | 3 Three Sessions      |  2.1  |     11   |
-| :boom:            | 2022-01-01 | ascot R6                     | 6 Miss Conteki        |  2.2  |     12   |
 | :2nd_place_medal: | 2022-01-01 | ascot R6                     | 10 The Front Bar      |  2.4  |    -10   |
+| :boom:            | 2022-01-01 | ascot R6                     | 6 Miss Conteki        |  2.2  |     12   |
 | :3rd_place_medal: | 2022-01-01 | murray-bdge R7               | 12 Desired            | 14    |    -10   |
 | :boom:            | 2022-01-01 | darwin R2                    | 5 Bel's Banner        |  1.5  |      5   |
 | 11                | 2022-01-01 | flemington R8                | 2 Yulong January      |  9.5  |    -10   |
@@ -387,8 +387,8 @@ categories: None
 | 4                 | 2021-05-16 | albany R5                    | 9 Island Charm        |  1.76 |    -10   |
 | :boom:            | 2021-05-15 | newbury R3                   | 1 Al Aasy             |  2.1  |     11   |
 | :2nd_place_medal: | 2021-05-15 | ascot R8                     | 3 Elite Street        |  4.4  |    -10   |
-| :2nd_place_medal: | 2021-05-15 | morphettville R8             | 9 Instant Celebrity   |  5.5  |    -10   |
 | 10                | 2021-05-15 | morphettville R8             | 8 Beau Rossa          | 17    |    -10   |
+| :2nd_place_medal: | 2021-05-15 | morphettville R8             | 9 Instant Celebrity   |  5.5  |    -10   |
 | :3rd_place_medal: | 2021-05-15 | doomben R7                   | 7 The Harrovian       | 31    |    -10   |
 | 10                | 2021-05-15 | morphettville R3             | 10 That Girl          | 10    |    -10   |
 | 5                 | 2021-05-14 | scone R5                     | 2 Total Recall        |  5    |    -10   |
@@ -408,8 +408,8 @@ categories: None
 | :boom:            | 2021-05-01 | barcaldine R6                | 4 Sizzalating         |  1.6  |      6   |
 | :boom:            | 2021-04-30 | alice-springs R4             | 1 Valley Prince       |  1.04 |      0.4 |
 | 4                 | 2021-04-29 | rockhampton R5               | 1 Brad                |  5.5  |    -10   |
-| 10                | 2021-04-28 | toowoomba R8                 | 6 Molly's Rocking     | 19    |    -10   |
 | :2nd_place_medal: | 2021-04-28 | toowoomba R8                 | 8 Dis Dah Wun         |  2.45 |    -10   |
+| 10                | 2021-04-28 | toowoomba R8                 | 6 Molly's Rocking     | 19    |    -10   |
 | :boom:            | 2021-04-28 | toowoomba R6                 | 10 Better Get Ready   |  5.5  |     45   |
 | :boom:            | 2021-04-28 | punchestown R4               | 3 Chacun Pour Soi     |  2.2  |     12   |
 | :2nd_place_medal: | 2021-04-25 | sandown R3                   | 1 Altior              |  3.75 |    -10   |
@@ -428,8 +428,8 @@ categories: None
 | :boom:            | 2021-04-18 | wagga R5                     | 2 Huntly Castle       |  2    |     10   |
 | :boom:            | 2021-04-18 | hobart R5                    | 2 Hela                |  1.1  |      1   |
 | 10                | 2021-04-17 | morphettville R8             | 6 Octane              | 17    |    -10   |
-| 4                 | 2021-04-17 | morphettville R6             | 1 Instant Celebrity   |  4.65 |    -10   |
 | 7                 | 2021-04-17 | morphettville R6             | 10 Echoes In Eternity | 16    |    -10   |
+| 4                 | 2021-04-17 | morphettville R6             | 1 Instant Celebrity   |  4.65 |    -10   |
 | :boom:            | 2021-04-17 | randwick R6                  | 1 Wild Ruler          |  5.7  |     47   |
 | 6                 | 2021-04-16 | toowoomba R6                 | 7 Motomiss            |  2.3  |    -10   |
 | :boom:            | 2021-04-16 | toowoomba R5                 | 3 Rhyme Time          |  3    |     20   |
@@ -470,8 +470,8 @@ categories: None
 | :boom:            | 2021-03-21 | sha-tin R9                   | 4 Fantastic Way       |  1.9  |      9   |
 | :boom:            | 2021-03-21 | sha-tin R7                   | 8 Courier Wonder      |  1.15 |      1.5 |
 | :boom:            | 2021-03-19 | moonee-valley R8             | 9 Marabi              |  1.2  |      2   |
-| 8                 | 2021-03-19 | moonee-valley R7             | 14 Swats That         |  9    |    -10   |
 | 12                | 2021-03-19 | moonee-valley R7             | 1 Hey Doc             |  8.5  |    -10   |
+| 8                 | 2021-03-19 | moonee-valley R7             | 14 Swats That         |  9    |    -10   |
 | 5                 | 2021-03-17 | doomben R4                   | 4 Gunnobe             |  2.7  |    -10   |
 | :boom:            | 2021-03-17 | cheltenham R4                | 10 Honeysuckle        |  2.2  |     12   |
 | :2nd_place_medal: | 2021-03-14 | hereford R4                  | 4 Hollywoodien        |  5.5  |    -10   |
@@ -638,8 +638,8 @@ categories: None
 | 6                 | 2020-01-25 | gawler R2                    | 4 Rose Tiara          | 18.2  |    -10   |
 | :2nd_place_medal: | 2020-01-25 | sunshine-coast R1            | 3 Ruby Guru           |  3.8  |    -10   |
 | :boom:            | 2020-01-22 | canterbury R5                | 2 Knowitall Jack      |  3.6  |     26   |
-| :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
+| :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 6                 | 2020-01-11 | pinjarra R8                  | 11 Midnight Sky       |  6.5  |    -10   |
 | :boom:            | 2020-01-11 | pinjarra R6                  | 12 Put A Spell On You |  5    |     40   |
 | :3rd_place_medal: | 2020-01-11 | kembla-grange R6             | 4 Superbowl Sunday    |  2.15 |    -10   |
