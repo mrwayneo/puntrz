@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-04-30 19:30:00 +1000  
+date: 2022-04-30 19:45:10 +1000  
 categories: None 
 ---   
 
@@ -31,8 +31,8 @@ categories: None
 | 0                 | 2022-04-05 | townsville R1                | 3 Chinny Boom        |  0    |    -10   |
 | :boom:            | 2022-04-02 | alice-springs R6             | 1 Dakota Lee         |  1.1  |      1   |
 | :boom:            | 2022-04-02 | gold-coast R4                | 2 Impel Gazelle      |  4.1  |     31   |
-| :3rd_place_medal: | 2022-03-28 | limerick R8                  | 2 Mercurey           |  1.32 |    -10   |
 | :boom:            | 2022-03-28 | limerick R8                  | 1 Impulsive Dancer   |  4.8  |     38   |
+| :3rd_place_medal: | 2022-03-28 | limerick R8                  | 2 Mercurey           |  1.32 |    -10   |
 | 5                 | 2022-03-25 | moonee-valley R3             | 1 Bello Beau         |  3.75 |    -10   |
 | :boom:            | 2022-03-25 | moonee-valley R1             | 6 Ice Pick Nick      |  5.8  |     48   |
 | :boom:            | 2022-03-23 | exeter R6                    | 2 Park Hill Dancer   |  2.1  |     11   |
@@ -40,8 +40,8 @@ categories: None
 | :boom:            | 2022-03-20 | alice-springs R2             | 1 Dakota Lee         |  1.1  |      1   |
 | 0                 | 2022-03-20 | uttoxeter R8                 | 2 Kracka Nut         |  0    |    -10   |
 | 0                 | 2022-03-17 | kempton R1                   | 1 Deciduous          |  0    |    -10   |
-| 0                 | 2022-03-17 | cheltenham R7                | 16 Redemption Day    |  0    |    -10   |
 | :boom:            | 2022-03-17 | cheltenham R7                | 7 Facile Vega        |  3    |     20   |
+| 0                 | 2022-03-17 | cheltenham R7                | 16 Redemption Day    |  0    |    -10   |
 | 0                 | 2022-03-16 | cheltenham R1                | 3 Dysart Dynamo      |  0    |    -10   |
 | 0                 | 2022-03-16 | cheltenham R1                | 4 Jonbon             |  0    |    -10   |
 | :2nd_place_medal: | 2022-03-14 | bangor R3                    | 2 Jungle Jack        |  2.4  |    -10   |
@@ -65,8 +65,8 @@ categories: None
 | :boom:            | 2022-02-12 | bangor R5                    | 1 Jungle Jack        |  1.85 |      8.5 |
 | 0                 | 2022-02-10 | albany R5                    | 6 Special Royale     |  0    |    -10   |
 | 4                 | 2022-02-09 | ipswich R9                   | 9 Sanzera            |  5.5  |    -10   |
-| 0                 | 2022-02-07 | leopardstown R8              | 5 Eabha Grace        |  0    |    -10   |
 | 0                 | 2022-02-07 | leopardstown R8              | 14 Pink In The Park  |  0    |    -10   |
+| 0                 | 2022-02-07 | leopardstown R8              | 5 Eabha Grace        |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6            | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5                | 1 Bello Beau         |  2    |     10   |
 | :boom:            | 2022-02-06 | leopardstown R7              | 5 Facile Vega        |  1.73 |      7.3 |
@@ -230,8 +230,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1                | 2 Haut En Couleurs   | 23    |    -10   |
 | :boom:            | 2021-03-19 | sunshine-coast R5            | 7 Karaka Lad         |  1.6  |      6   |
 | :3rd_place_medal: | 2021-03-18 | cheltenham R7                | 12 Elle Est Belle    | 19    |    -10   |
-| :3rd_place_medal: | 2021-03-14 | sandown R4                   | 18 Tweed Skirt       |  7.5  |    -10   |
 | 99                | 2021-03-14 | sandown R4                   | 9 Precious           | 26    |    -10   |
+| :3rd_place_medal: | 2021-03-14 | sandown R4                   | 18 Tweed Skirt       |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-03-12 | thurles R7                   | 3 Deploy The Getaway |  1.8  |    -10   |
 | 99                | 2021-03-08 | huntingdon R7                | 1 Quid Pro Quo       |  1.9  |    -10   |
 | 99                | 2021-02-28 | fairyhouse R8                | 5 Glengouly          |  2.25 |    -10   |
