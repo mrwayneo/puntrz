@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 11:36:32 +1000  
+date: 2022-04-30 11:51:20 +1000  
 ---   
 
 
@@ -26,7 +26,7 @@ date: 2022-04-30 11:36:32 +1000
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      0 |     -430 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      1 |     -440 | 0.02 | -0.9  |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      1 |     -507 | 0.02 | -0.96 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      0 |    -1090 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      1 |     -985 | 0.01 | -0.9  |
 
 ##### Form Last 20 tips   
 
@@ -194,11 +194,11 @@ date: 2022-04-30 11:36:32 +1000
 | 109 | :soon:            | 2022-04-30 12:38:00 | wanganui         |      5 |        1 | Justaskme          |  12    | pangea              |
 | 110 | :soon:            | 2022-04-30 12:14:00 | te-rapa          |      4 |        2 | Lincoln Star       |   4.8  | vulture             |
 | 111 | :soon:            | 2022-04-30 12:03:00 | eagle-farm       |      2 |        6 | Octavian           |  13    | pangea              |
-| 112 | --                | 2022-04-30 11:32:00 | wanganui         |      3 |        1 | Choisia Prince     |   1.91 | vulture             |
+| 112 | :3rd_place_medal: | 2022-04-30 11:32:00 | wanganui         |      3 |        1 | Choisia Prince     |   1.91 | vulture             |
 | 113 | :boom:            | 2022-04-30 11:20:00 | hawkesbury       |      1 |        5 | Burgunder          |   7.5  | looseknot           |
 | 114 | :2nd_place_medal: | 2022-04-30 11:20:00 | hawkesbury       |      1 |        3 | Basquiat           |   3.1  | vulture,jmac        |
 | 115 | 4.0               | 2022-04-30 11:20:00 | hawkesbury       |      1 |        1 | Green Shadows      |   4.4  | vulture,milkman     |
-| 116 | --                | 2022-04-30 11:20:00 | hawkesbury       |      1 |        9 | Awesome John       |  14    | pikey               |
+| 116 | 6.0               | 2022-04-30 11:20:00 | hawkesbury       |      1 |        9 | Awesome John       |  14    | pikey               |
 | 117 | --                | 2022-04-30 11:09:00 | te-rapa          |      2 |        7 | Dawn Parade        |   6.5  | pangea              |
 | 118 | :boom:            | 2022-04-30 11:09:00 | te-rapa          |      2 |        4 | Tightlign          |   3.9  | vulture             |
 | 119 | :2nd_place_medal: | 2022-04-30 10:36:00 | te-rapa          |      1 |        5 | Dubai Diva         |   2.8  | vulture             |

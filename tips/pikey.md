@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-04-30 11:36:31 +1000  
+date: 2022-04-30 11:51:18 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 14:50             | 2022-04-30 | hawkesbury R7         | 1 Mr Mozart           |   2.2  |    -10   |
 | 14:15             | 2022-04-30 | hawkesbury R6         | 7 Surreal Step        |  19    |    -10   |
 | 13:05             | 2022-04-30 | hawkesbury R4         | 11 Global Ausbred     |   5    |    -10   |
-| 0                 | 2022-04-30 | hawkesbury R1         | 9 Awesome John        |   0    |    -10   |
+| 6                 | 2022-04-30 | hawkesbury R1         | 9 Awesome John        |  14    |    -10   |
 | 0                 | 2022-04-28 | wyong R8              | 3 Harlem Groove       |   0    |    -10   |
 | 0                 | 2022-04-28 | wyong R7              | 4 Cushy               |   0    |    -10   |
 | :boom:            | 2022-04-28 | wyong R5              | 3 Duke Of Gordon      |   1.7  |      7   |
