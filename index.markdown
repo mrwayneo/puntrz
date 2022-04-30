@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 13:51:43 +1000  
+date: 2022-04-30 14:06:45 +1000  
 ---   
 
 
@@ -179,7 +179,7 @@ date: 2022-04-30 13:51:43 +1000
 |  94 | :soon:            | 2022-04-30 14:07:00 | morphettville    |      4 |        2 | Illation           |   2.5  | vulture,pangea      |
 |  95 | :soon:            | 2022-04-30 14:07:00 | morphettville    |      4 |        8 | Perceptive         |  10    | vulture             |
 |  96 | :soon:            | 2022-04-30 14:07:00 | morphettville    |      4 |       10 | Defining           |   4    | pangea              |
-|  97 | :soon:            | 2022-04-30 13:57:00 | te-rapa          |      7 |        4 | Charms Star        |   6    | vulture             |
+|  97 | 4.0               | 2022-04-30 13:57:00 | te-rapa          |      7 |        4 | Charms Star        |   6    | vulture             |
 |  98 | :2nd_place_medal: | 2022-04-30 13:34:00 | barcaldine       |      2 |        5 | Mori's Press       |   1.95 | vulture             |
 |  99 | :boom:            | 2022-04-30 13:34:00 | barcaldine       |      2 |        1 | Halcyon House      |   4.4  | pangea,blackshadow  |
 | 100 | --                | 2022-04-30 13:34:00 | barcaldine       |      2 |        8 | Only Emma          |  21.5  | vulture             |
