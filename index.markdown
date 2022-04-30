@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 20:30:13 +1000  
+date: 2022-04-30 20:45:09 +1000  
 ---   
 
 
@@ -11,13 +11,13 @@ date: 2022-04-30 20:30:13 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      3 |       63 | 0.43 |  0.9  |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      1 |       55 | 0.33 |  1.83 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      9 |       10 | 0.17 |  0.02 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      1 |      -19 | 0.25 | -0.48 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      1 |      -29 | 0.2  | -0.58 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      3 |      0 |      -30 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      8 |      -31 | 0.15 | -0.06 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      4 |      0 |      -40 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      4 |      0 |      -40 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      2 |      -55 | 0.22 | -0.61 |
