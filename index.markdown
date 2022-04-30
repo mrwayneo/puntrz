@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 14:51:45 +1000  
+date: 2022-04-30 15:06:46 +1000  
 ---   
 
 
@@ -11,19 +11,19 @@ date: 2022-04-30 14:51:45 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      1 |       55 | 0.33 |  1.83 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      7 |      2 |       22 | 0.29 |  0.31 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      1 |      0 |      -10 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      1 |      -19 | 0.25 | -0.48 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      1 |      -29 | 0.2  | -0.58 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      3 |      0 |      -30 | 0    | -1    |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      4 |      0 |      -40 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      4 |      0 |      -40 | 0    | -1    |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      5 |      0 |      -50 | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      0 |      -90 | 0    | -1    |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      4 |      0 |      -40 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      1 |      -68 | 0.11 | -0.76 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      2 |     -209 | 0.08 | -0.84 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      1 |     -228 | 0.04 | -0.81 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      1 |     -231 | 0.04 | -0.92 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      5 |     -315 | 0.1  | -0.64 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      3 |     -319 | 0.07 | -0.74 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      6 |     -293 | 0.12 | -0.6  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      4 |     -298 | 0.09 | -0.69 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      0 |     -430 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      4 |     -441 | 0.08 | -0.83 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      2 |     -793 | 0.02 | -0.73 |
@@ -162,15 +162,15 @@ date: 2022-04-30 14:51:45 +1000
 |  77 | :soon:            | 2022-04-30 15:24:00 | barcaldine       |      5 |        4 | Ancient Echoes     |  12    | cosmo,bob           |
 |  78 | :soon:            | 2022-04-30 15:24:00 | barcaldine       |      5 |        1 | Star of O'reilly   |   2.7  | pangea,icyhot       |
 |  79 | :soon:            | 2022-04-30 15:15:00 | newcastle        |      6 |        3 | Golden Doubt       |   6    | vulture             |
-|  80 | :soon:            | 2022-04-30 15:02:00 | eagle-farm       |      7 |        6 | Red Wave           |  16    | benny,pangea        |
-|  81 | :soon:            | 2022-04-30 15:02:00 | eagle-farm       |      7 |        9 | Whitewater         |  18    | vulture             |
-|  82 | :soon:            | 2022-04-30 14:56:00 | ascot            |      2 |        2 | Top Of The Pops    |   2.75 | evenodds,milkman    |
-|  83 | --                | 2022-04-30 14:50:00 | hawkesbury       |      7 |        6 | Loch Eagle         |   5.5  | pangea              |
+|  80 | --                | 2022-04-30 15:02:00 | eagle-farm       |      7 |        6 | Red Wave           |  16    | benny,pangea        |
+|  81 | --                | 2022-04-30 15:02:00 | eagle-farm       |      7 |        9 | Whitewater         |  18    | vulture             |
+|  82 | :boom:            | 2022-04-30 14:56:00 | ascot            |      2 |        2 | Top Of The Pops    |   2.75 | evenodds,milkman    |
+|  83 | 4.0               | 2022-04-30 14:50:00 | hawkesbury       |      7 |        6 | Loch Eagle         |   5.5  | pangea              |
 |  84 | --                | 2022-04-30 14:50:00 | hawkesbury       |      7 |        5 | Vilana             |   6    | vulture,milkman     |
-|  85 | --                | 2022-04-30 14:50:00 | hawkesbury       |      7 |        1 | Mr Mozart          |   2.2  | benny,pikey         |
+|  85 | :boom:            | 2022-04-30 14:50:00 | hawkesbury       |      7 |        1 | Mr Mozart          |   2.2  | benny,pikey         |
 |  86 | :boom:            | 2022-04-30 14:42:00 | morphettville    |      5 |        5 | See You In Heaven  |   2.3  | vulture,milkman     |
 |  87 | :2nd_place_medal: | 2022-04-30 14:42:00 | morphettville    |      5 |        1 | Twin Stars         |   6    | benny,pangea        |
-|  88 | --                | 2022-04-30 14:42:00 | morphettville    |      5 |        8 | Lalaguna           |  10    | evenodds,overthrow  |
+|  88 | 6.0               | 2022-04-30 14:42:00 | morphettville    |      5 |        8 | Lalaguna           |  10    | evenodds,overthrow  |
 |  89 | 4.0               | 2022-04-30 14:34:00 | te-rapa          |      8 |        1 | Navalha            |   2.5  | vulture             |
 |  90 | --                | 2022-04-30 14:34:00 | te-rapa          |      8 |        6 | Flat Track Bully   |  21    | cosmo,bluey         |
 |  91 | 6.0               | 2022-04-30 14:19:00 | ascot            |      1 |        8 | Pasajero           |  17    | cosmo,bluey         |
