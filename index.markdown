@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 12:06:22 +1000  
+date: 2022-04-30 12:21:35 +1000  
 ---   
 
 
@@ -25,8 +25,8 @@ date: 2022-04-30 12:06:22 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      0 |     -430 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      0 |     -430 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      1 |     -440 | 0.02 | -0.9  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      1 |     -507 | 0.02 | -0.96 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      1 |     -995 | 0.01 | -0.91 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      2 |     -487 | 0.04 | -0.92 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      1 |     -985 | 0.01 | -0.9  |
 
 ##### Form Last 20 tips   
 
@@ -192,7 +192,7 @@ date: 2022-04-30 12:06:22 +1000
 | 107 | :soon:            | 2022-04-30 13:05:00 | hawkesbury       |      4 |       11 | Global Ausbred     |   5    | pikey               |
 | 108 | :soon:            | 2022-04-30 12:57:00 | morphettville    |      2 |        7 | Bon Pegasus        |  22    | pangea              |
 | 109 | :soon:            | 2022-04-30 12:38:00 | wanganui         |      5 |        1 | Justaskme          |  12    | pangea              |
-| 110 | :soon:            | 2022-04-30 12:14:00 | te-rapa          |      4 |        2 | Lincoln Star       |   4.8  | vulture             |
+| 110 | :3rd_place_medal: | 2022-04-30 12:14:00 | te-rapa          |      4 |        2 | Lincoln Star       |   4.8  | vulture             |
 | 111 | --                | 2022-04-30 12:03:00 | eagle-farm       |      2 |        6 | Octavian           |  13    | pangea              |
 | 112 | :3rd_place_medal: | 2022-04-30 11:32:00 | wanganui         |      3 |        1 | Choisia Prince     |   1.91 | vulture             |
 | 113 | :boom:            | 2022-04-30 11:20:00 | hawkesbury       |      1 |        5 | Burgunder          |   7.5  | looseknot           |
