@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 12:36:36 +1000  
+date: 2022-04-30 12:51:38 +1000  
 ---   
 
 
@@ -191,9 +191,9 @@ date: 2022-04-30 12:36:36 +1000
 | 106 | :soon:            | 2022-04-30 13:05:00 | hawkesbury       |      4 |        5 | Deepstrike         |   4.4  | vulture             |
 | 107 | :soon:            | 2022-04-30 13:05:00 | hawkesbury       |      4 |       11 | Global Ausbred     |   5    | pikey               |
 | 108 | :soon:            | 2022-04-30 12:57:00 | morphettville    |      2 |        7 | Bon Pegasus        |  22    | pangea              |
-| 109 | :soon:            | 2022-04-30 12:38:00 | wanganui         |      5 |        1 | Justaskme          |  12    | pangea              |
+| 109 | --                | 2022-04-30 12:38:00 | wanganui         |      5 |        1 | Justaskme          |  12    | pangea              |
 | 110 | :3rd_place_medal: | 2022-04-30 12:14:00 | te-rapa          |      4 |        2 | Lincoln Star       |   4.8  | vulture             |
-| 111 | --                | 2022-04-30 12:03:00 | eagle-farm       |      2 |        6 | Octavian           |  13    | pangea              |
+| 111 | 6.0               | 2022-04-30 12:03:00 | eagle-farm       |      2 |        6 | Octavian           |  13    | pangea              |
 | 112 | :3rd_place_medal: | 2022-04-30 11:32:00 | wanganui         |      3 |        1 | Choisia Prince     |   1.91 | vulture             |
 | 113 | :boom:            | 2022-04-30 11:20:00 | hawkesbury       |      1 |        5 | Burgunder          |   7.5  | looseknot           |
 | 114 | :2nd_place_medal: | 2022-04-30 11:20:00 | hawkesbury       |      1 |        3 | Basquiat           |   3.1  | vulture,jmac        |
