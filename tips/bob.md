@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-04-30 15:21:50 +1000  
+date: 2022-04-30 15:36:47 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
 | 03:05             | 2022-05-01 | punchestown R7                | 10 Read To Return     |  21    |    -10   |
-| 15:24             | 2022-04-30 | barcaldine R5                 | 4 Ancient Echoes      |  12    |    -10   |
+| 4                 | 2022-04-30 | barcaldine R5                 | 4 Ancient Echoes      |  12    |    -10   |
 | 0                 | 2022-04-30 | punchestown R8                | 20 Read To Return     |   0    |    -10   |
 | 5                 | 2022-04-28 | mackay R2                     | 3 Heroic Angel        |   6    |    -10   |
 | 0                 | 2022-04-16 | newbury R2                    | 8 Miss Carol Ann      |   0    |    -10   |
