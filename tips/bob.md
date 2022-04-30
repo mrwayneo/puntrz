@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-05-01 07:39:53 +1000  
+date: 2022-05-01 08:45:11 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
+| 00:40             | 2022-05-02 | newmarket R5                  | 8 Mise En Scene       |  21    |    -10   |
 | 0                 | 2022-05-01 | punchestown R7                | 10 Read To Return     |   0    |    -10   |
 | 4                 | 2022-04-30 | barcaldine R5                 | 4 Ancient Echoes      |  12    |    -10   |
 | 0                 | 2022-04-30 | punchestown R8                | 20 Read To Return     |   0    |    -10   |
