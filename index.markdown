@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 15:06:46 +1000  
+date: 2022-04-30 15:21:51 +1000  
 ---   
 
 
@@ -24,8 +24,8 @@ date: 2022-04-30 15:06:46 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      1 |     -228 | 0.04 | -0.81 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      6 |     -293 | 0.12 | -0.6  |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      4 |     -298 | 0.09 | -0.69 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      5 |     -412 | 0.09 | -0.78 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      0 |     -430 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     53 |      4 |     -441 | 0.08 | -0.83 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |    109 |      2 |     -793 | 0.02 | -0.73 |
 
 ##### Form Last 20 tips   
@@ -161,12 +161,12 @@ date: 2022-04-30 15:06:46 +1000
 |  76 | :soon:            | 2022-04-30 15:24:00 | barcaldine       |      5 |        6 | Kedleston          |   4    | vulture,blackshadow |
 |  77 | :soon:            | 2022-04-30 15:24:00 | barcaldine       |      5 |        4 | Ancient Echoes     |  12    | cosmo,bob           |
 |  78 | :soon:            | 2022-04-30 15:24:00 | barcaldine       |      5 |        1 | Star of O'reilly   |   2.7  | pangea,icyhot       |
-|  79 | :soon:            | 2022-04-30 15:15:00 | newcastle        |      6 |        3 | Golden Doubt       |   6    | vulture             |
+|  79 | 4.0               | 2022-04-30 15:15:00 | newcastle        |      6 |        3 | Golden Doubt       |   6    | vulture             |
 |  80 | --                | 2022-04-30 15:02:00 | eagle-farm       |      7 |        6 | Red Wave           |  16    | benny,pangea        |
 |  81 | --                | 2022-04-30 15:02:00 | eagle-farm       |      7 |        9 | Whitewater         |  18    | vulture             |
 |  82 | :boom:            | 2022-04-30 14:56:00 | ascot            |      2 |        2 | Top Of The Pops    |   2.75 | evenodds,milkman    |
 |  83 | 4.0               | 2022-04-30 14:50:00 | hawkesbury       |      7 |        6 | Loch Eagle         |   5.5  | pangea              |
-|  84 | --                | 2022-04-30 14:50:00 | hawkesbury       |      7 |        5 | Vilana             |   6    | vulture,milkman     |
+|  84 | 5.0               | 2022-04-30 14:50:00 | hawkesbury       |      7 |        5 | Vilana             |   6    | vulture,milkman     |
 |  85 | :boom:            | 2022-04-30 14:50:00 | hawkesbury       |      7 |        1 | Mr Mozart          |   2.2  | benny,pikey         |
 |  86 | :boom:            | 2022-04-30 14:42:00 | morphettville    |      5 |        5 | See You In Heaven  |   2.3  | vulture,milkman     |
 |  87 | :2nd_place_medal: | 2022-04-30 14:42:00 | morphettville    |      5 |        1 | Twin Stars         |   6    | benny,pangea        |
