@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-04-30 20:15:12 +1000  
+date: 2022-04-30 20:30:13 +1000  
 ---   
 
 
@@ -21,8 +21,8 @@ date: 2022-04-30 20:15:12 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      4 |      0 |      -40 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      4 |      0 |      -40 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      9 |      2 |      -55 | 0.22 | -0.61 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      3 |     -171 | 0.12 | -0.68 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     43 |      7 |     -191 | 0.16 | -0.44 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     25 |      2 |     -209 | 0.08 | -0.84 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      2 |     -212 | 0.07 | -0.76 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     49 |      8 |     -239 | 0.16 | -0.49 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     43 |      1 |     -322 | 0.02 | -0.75 |
@@ -135,7 +135,7 @@ date: 2022-04-30 20:15:12 +1000
 |  50 | :soon:            | 2022-04-30 21:30:00 | turffontein      |      4 |        9 | Miss Cool          |   0    | vulture             |
 |  51 | :soon:            | 2022-04-30 21:30:00 | turffontein      |      4 |        2 | Karangetang        |   0    | milkman             |
 |  52 | :soon:            | 2022-04-30 20:55:00 | turffontein      |      3 |        2 | Maharanee          |   0    | milkman             |
-|  53 | :soon:            | 2022-04-30 20:20:00 | turffontein      |      2 |        5 | Prince Of Fire     |   0    | milkman             |
+|  53 | :boom:            | 2022-04-30 20:20:00 | turffontein      |      2 |        5 | Prince Of Fire     |   0    | milkman             |
 |  54 | :2nd_place_medal: | 2022-04-30 18:55:00 | toowoomba        |      4 |        8 | Rowdash            |   2.7  | pangea              |
 |  55 | :boom:            | 2022-04-30 18:38:00 | ascot            |      8 |        6 | Otheroneson        |   1.6  | evenodds,vulture    |
 |  56 | --                | 2022-04-30 18:30:00 | singapore        |     10 |        3 | Katak              |   0    | vulture,milkman     |
