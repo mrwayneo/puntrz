@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-05-01 22:51:49 +1000  
+date: 2022-05-02 06:02:23 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
-| Last 28 Days   |     10 |      0 |   -100   | 0    | -1    |
-| Last 6 Months  |     84 |      5 |   -408   | 0.06 | -0.49 |
-| Since Jan 2020 |    270 |     42 |   3447.5 | 0.16 |  1.28 |
+| Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
+| Last 28 Days   |     11 |      0 |   -110   | 0    | -1    |
+| Last 6 Months  |     85 |      5 |   -418   | 0.06 | -0.49 |
+| Since Jan 2020 |    271 |     42 |   3437.5 | 0.15 |  1.27 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 00:40             | 2022-05-02 | newmarket R5                  | 8 Mise En Scene       |  21    |    -10   |
+| 0                 | 2022-05-02 | newmarket R5                  | 8 Mise En Scene       |   0    |    -10   |
 | 0                 | 2022-05-01 | punchestown R7                | 10 Read To Return     |   0    |    -10   |
 | 4                 | 2022-04-30 | barcaldine R5                 | 4 Ancient Echoes      |  12    |    -10   |
 | 0                 | 2022-04-30 | punchestown R8                | 20 Read To Return     |   0    |    -10   |
