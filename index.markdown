@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-01 18:02:52 +1000  
+date: 2022-05-01 18:17:51 +1000  
 ---   
 
 
@@ -16,11 +16,11 @@ date: 2022-05-01 18:02:52 +1000
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |    -10   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |    -30   | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |    -30   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      2 |    -51   | 0.08 | -0.21 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      1 |    -94.5 | 0.09 | -0.86 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     13 |      0 |   -130   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     30 |      2 |   -149   | 0.07 | -0.5  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     15 |      0 |   -150   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      1 |   -180   | 0.04 | -0.75 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     65 |      2 |   -613   | 0.03 | -0.94 |
 
 ##### Form Last 20 tips   
@@ -109,8 +109,8 @@ date: 2022-05-01 18:02:52 +1000
 | 29 | :soon:            | 2022-05-01 19:45:00 | sha-tin             |     11 |       12 | Sakewin            |   0    | milkman            |
 | 30 | :soon:            | 2022-05-01 18:55:00 | northam             |      8 |        9 | Safety Fuse        |   5    | overthrow          |
 | 31 | --                | 2022-05-01 18:00:00 | alice-springs       |      9 |        7 | Ash Grey           |  51    | pangea,overthrow   |
-| 32 | --                | 2022-05-01 18:00:00 | alice-springs       |      9 |        1 | I Am the Fox       |   3.4  | pangea,icyhot      |
-| 33 | --                | 2022-05-01 18:00:00 | alice-springs       |      9 |        8 | Count of Essex     |  12    | vulture            |
+| 32 | :2nd_place_medal: | 2022-05-01 18:00:00 | alice-springs       |      9 |        1 | I Am the Fox       |   3.4  | pangea,icyhot      |
+| 33 | :boom:            | 2022-05-01 18:00:00 | alice-springs       |      9 |        8 | Count of Essex     |  12    | vulture            |
 | 34 | 6.0               | 2022-05-01 17:15:00 | northam             |      5 |        3 | Toppa The Mountain |   2.9  | overthrow          |
 | 35 | :2nd_place_medal: | 2022-05-01 16:50:00 | bendigo             |      8 |        3 | Phoenix Global     |   2.15 | vulture            |
 | 36 | 5.0               | 2022-05-01 16:15:00 | bendigo             |      7 |        2 | Brooklyn Boss      |   3.2  | milkman            |
