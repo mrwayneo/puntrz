@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-01 22:19:09 +1000  
+date: 2022-05-01 22:21:30 +1000  
 ---   
 
 
@@ -14,9 +14,9 @@ date: 2022-05-01 22:19:09 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |    -10   | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |    -10   | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |    -10   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      3 |    -18   | 0.12 | -0.08 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      3 |      0 |    -30   | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      3 |      0 |    -30   | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      2 |    -51   | 0.08 | -0.21 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     11 |      2 |    -78.5 | 0.18 | -0.71 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     15 |      1 |   -114   | 0.07 | -0.76 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     13 |      0 |   -130   | 0    | -1    |
@@ -104,7 +104,7 @@ date: 2022-05-01 22:19:09 +1000
 | 24 | :soon:            | 2022-05-01 23:25:00 | newmarket           |      3 |        2 | Cet Horizon        |   9.5  | vulture,milkman    |
 | 25 | :soon:            | 2022-05-01 23:15:00 | scottsville         |      6 |        4 | Sundance Kid       |   0    | milkman            |
 | 26 | :soon:            | 2022-05-01 22:40:00 | scottsville         |      5 |        1 | Red Roses Too      |   0    | milkman            |
-| 27 | --                | 2022-05-01 22:05:00 | scottsville         |      4 |        3 | Isivunguvungu      |   0    | vulture            |
+| 27 | :boom:            | 2022-05-01 22:05:00 | scottsville         |      4 |        3 | Isivunguvungu      |   0    | vulture            |
 | 28 | :3rd_place_medal: | 2022-05-01 21:30:00 | scottsville         |      3 |        7 | Shampompo Shampizi |   0    | blackshadow,icyhot |
 | 29 | :boom:            | 2022-05-01 19:45:00 | sha-tin             |     11 |       12 | Sakewin            |   0    | milkman            |
 | 30 | 11.0              | 2022-05-01 18:55:00 | northam             |      8 |        9 | Safety Fuse        |   5    | overthrow          |
