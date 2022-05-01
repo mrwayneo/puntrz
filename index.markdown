@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-01 17:17:10 +1000  
+date: 2022-05-01 17:31:56 +1000  
 ---   
 
 
@@ -111,7 +111,7 @@ date: 2022-05-01 17:17:10 +1000
 | 31 | :soon:            | 2022-05-01 18:00:00 | alice-springs       |      9 |        7 | Ash Grey           |  51    | pangea,overthrow   |
 | 32 | :soon:            | 2022-05-01 18:00:00 | alice-springs       |      9 |        1 | I Am the Fox       |   3.4  | pangea,icyhot      |
 | 33 | :soon:            | 2022-05-01 18:00:00 | alice-springs       |      9 |        8 | Count of Essex     |  12    | vulture            |
-| 34 | --                | 2022-05-01 17:15:00 | northam             |      5 |        3 | Toppa The Mountain |   2.9  | overthrow          |
+| 34 | 6.0               | 2022-05-01 17:15:00 | northam             |      5 |        3 | Toppa The Mountain |   2.9  | overthrow          |
 | 35 | :2nd_place_medal: | 2022-05-01 16:50:00 | bendigo             |      8 |        3 | Phoenix Global     |   2.15 | vulture            |
 | 36 | 5.0               | 2022-05-01 16:15:00 | bendigo             |      7 |        2 | Brooklyn Boss      |   3.2  | milkman            |
 | 37 | 5.0               | 2022-05-01 16:14:00 | alice-springs       |      6 |        2 | Bar Gem            |   1.7  | pangea,icyhot      |
