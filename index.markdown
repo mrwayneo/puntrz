@@ -1,11 +1,26 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-02 07:20:14 +1000  
+date: 2022-05-02 08:42:57 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      4 |      0 |      -40 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      5 |      0 |      -50 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      6 |      0 |      -60 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     11 |      0 |     -110 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      0 |     -240 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     30 |      0 |     -300 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     41 |      0 |     -410 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,57 +74,43 @@ date: 2022-05-02 07:20:14 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5939 |    692 | -17352.1 | 0.12 | -0.29 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7262 |    304 | -27890.5 | 0.04 | -0.38 |
 
-|    | finish            | time                | track               |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:--------------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :3rd_place_medal: | 2022-05-02 02:35:00 | salisbury           |      7 |        2 | Rock Melody        |   5    | vulture            |
-|  1 | :boom:            | 2022-05-02 01:35:00 | sligo               |      6 |        4 | Rosscarbery        |   3.8  | vulture            |
-|  2 | --                | 2022-05-02 01:15:00 | newmarket           |      6 |        4 | Stormy Ocean       |   2.35 | overthrow          |
-|  3 | :3rd_place_medal: | 2022-05-02 00:52:00 | salisbury           |      4 |        1 | Jimi Hendrix       |   2.6  | vulture            |
-|  4 | --                | 2022-05-02 00:52:00 | salisbury           |      4 |        6 | Zainalarab         |   4.8  | overthrow          |
-|  5 | 4.0               | 2022-05-02 00:40:00 | newmarket           |      5 |       14 | Zellie             |  12    | vulture            |
-|  6 | --                | 2022-05-02 00:40:00 | newmarket           |      5 |        6 | Juncture           |  16    | vulture            |
-|  7 | --                | 2022-05-02 00:40:00 | newmarket           |      5 |        1 | Ameynah            |  21    | vulture            |
-|  8 | :3rd_place_medal: | 2022-05-02 00:40:00 | newmarket           |      5 |       12 | Tuesday            |   6.5  | vulture            |
-|  9 | --                | 2022-05-02 00:40:00 | newmarket           |      5 |        8 | Mise En Scene      |  21    | cosmo,bob          |
-| 10 | --                | 2022-05-02 00:40:00 | newmarket           |      5 |       11 | Tenebrism          |   4.2  | milkman            |
-| 11 | --                | 2022-05-02 00:40:00 | newmarket           |      5 |       13 | Wild Beauty        |  15    | evenodds,overthrow |
-| 12 | --                | 2022-05-02 00:40:00 | newmarket           |      5 |        7 | Malavath           |   7    | evenodds,milkman   |
-| 13 | --                | 2022-05-02 00:25:00 | scottsville         |      8 |        8 | Lady Yusra         |   0    | vulture            |
-| 14 | :2nd_place_medal: | 2022-05-02 00:00:00 | newmarket           |      4 |        7 | Ville De Grace     |   3    | overthrow          |
-| 15 | --                | 2022-05-02 00:00:00 | newmarket           |      4 |        5 | Lilac Road         |   5    | benny,pangea       |
-| 16 | :3rd_place_medal: | 2022-05-02 00:00:00 | newmarket           |      4 |        4 | Ebaiyra            |   3.6  | overthrow          |
-| 17 | --                | 2022-05-01 23:50:00 | scottsville         |      7 |       13 | Gimme Dat          |   0    | milkman            |
-| 18 | :boom:            | 2022-05-01 23:50:00 | scottsville         |      7 |        6 | Full Velocity      |   0    | vulture            |
-| 19 | :boom:            | 2022-05-01 23:35:00 | hamilton            |      3 |        3 | Mitbaahy           |   2.8  | vulture            |
-| 20 | :3rd_place_medal: | 2022-05-01 23:25:00 | newmarket           |      3 |        3 | Crenelle           |   2.6  | overthrow          |
-| 21 | :boom:            | 2022-05-01 23:25:00 | newmarket           |      3 |        7 | With The Moonlight |   3.3  | overthrow          |
-| 22 | --                | 2022-05-01 23:25:00 | newmarket           |      3 |        6 | Peripatetic        |   5.5  | vulture            |
-| 23 | 4.0               | 2022-05-01 23:25:00 | newmarket           |      3 |        1 | Arion              |  12    | milkman            |
-| 24 | --                | 2022-05-01 23:25:00 | newmarket           |      3 |        2 | Cet Horizon        |   9.5  | vulture,milkman    |
-| 25 | 6.0               | 2022-05-01 23:15:00 | scottsville         |      6 |        4 | Sundance Kid       |   0    | milkman            |
-| 26 | 4.0               | 2022-05-01 22:40:00 | scottsville         |      5 |        1 | Red Roses Too      |   0    | milkman            |
-| 27 | :boom:            | 2022-05-01 22:05:00 | scottsville         |      4 |        3 | Isivunguvungu      |   0    | vulture            |
-| 28 | :3rd_place_medal: | 2022-05-01 21:30:00 | scottsville         |      3 |        7 | Shampompo Shampizi |   0    | blackshadow,icyhot |
-| 29 | :boom:            | 2022-05-01 19:45:00 | sha-tin             |     11 |       12 | Sakewin            |   0    | milkman            |
-| 30 | 11.0              | 2022-05-01 18:55:00 | northam             |      8 |        9 | Safety Fuse        |   5    | overthrow          |
-| 31 | 6.0               | 2022-05-01 18:00:00 | alice-springs       |      9 |        7 | Ash Grey           |  51    | pangea,overthrow   |
-| 32 | :2nd_place_medal: | 2022-05-01 18:00:00 | alice-springs       |      9 |        1 | I Am the Fox       |   3.4  | pangea,icyhot      |
-| 33 | :boom:            | 2022-05-01 18:00:00 | alice-springs       |      9 |        8 | Count of Essex     |  12    | vulture            |
-| 34 | 6.0               | 2022-05-01 17:15:00 | northam             |      5 |        3 | Toppa The Mountain |   2.9  | overthrow          |
-| 35 | :2nd_place_medal: | 2022-05-01 16:50:00 | bendigo             |      8 |        3 | Phoenix Global     |   2.15 | vulture            |
-| 36 | 5.0               | 2022-05-01 16:15:00 | bendigo             |      7 |        2 | Brooklyn Boss      |   3.2  | milkman            |
-| 37 | 5.0               | 2022-05-01 16:14:00 | alice-springs       |      6 |        2 | Bar Gem            |   1.7  | pangea,icyhot      |
-| 38 | :boom:            | 2022-05-01 16:00:00 | sha-tin             |      4 |        3 | Galaxy Witness     |   0    | milkman            |
-| 39 | 12.0              | 2022-05-01 15:59:00 | devonport-synthetic |      7 |        7 | Fighting Phoenix   |  17    | benny,pangea       |
-| 40 | :3rd_place_medal: | 2022-05-01 15:59:00 | devonport-synthetic |      7 |        5 | Julius             |   2.45 | pangea             |
-| 41 | 4.0               | 2022-05-01 15:40:00 | alice-springs       |      5 |        2 | Military Road      |   5.5  | overthrow          |
-| 42 | --                | 2022-05-01 15:00:00 | sha-tin             |      2 |        3 | Wonderful Warrior  |   0    | milkman            |
-| 43 | 5.0               | 2022-05-01 13:44:00 | alice-springs       |      2 |        2 | Miles Prower       |   4.2  | vulture,pangea     |
-| 44 | 4.0               | 2022-05-01 13:44:00 | alice-springs       |      2 |        8 | Like A Heartbeat   |   6    | vulture            |
-| 45 | :boom:            | 2022-05-01 13:44:00 | alice-springs       |      2 |       10 | Asahi Bearing      |  14    | benny,pangea       |
-| 46 | :3rd_place_medal: | 2022-05-01 13:44:00 | alice-springs       |      2 |        3 | Mathematics        |  20    | cosmo,bluey        |
-| 47 | 6.0               | 2022-05-01 13:08:00 | alice-springs       |      1 |        6 | Rojo Boom          |   4.33 | vulture            |
-| 48 | 4.0               | 2022-05-01 13:08:00 | alice-springs       |      1 |        5 | Manhattan Man      |  11    | vulture            |
-| 49 | :3rd_place_medal: | 2022-05-01 13:08:00 | alice-springs       |      1 |        4 | Esashi             |   5.5  | evenodds,overthrow |
-| 50 | :boom:            | 2022-05-01 12:30:00 | kilcoy              |      2 |        2 | Bryneich           |   6.5  | vulture            |
-| 51 | :2nd_place_medal: | 2022-05-01 11:55:00 | kilcoy              |      1 |        5 | Kinky Dreams       |   4.5  | overthrow          |
+|    | finish   | time                | track      |   race |   number | name               |   odds | tipster              |
+|---:|:---------|:--------------------|:-----------|-------:|---------:|:-------------------|-------:|:---------------------|
+|  0 | :soon:   | 2022-05-03 02:50:00 | warwick    |      7 |        2 | Crystal Gazing     |   6    | overthrow            |
+|  1 | :soon:   | 2022-05-03 02:45:00 | windsor    |      7 |        5 | The Writer         |   2.5  | vulture              |
+|  2 | :soon:   | 2022-05-03 02:20:00 | warwick    |      6 |        1 | Galata Bridge      |   3.75 | pangea               |
+|  3 | :soon:   | 2022-05-03 01:55:00 | down-royal |      6 |        8 | Handy Headon       |   3.8  | evenodds,overthrow   |
+|  4 | :soon:   | 2022-05-03 01:51:00 | bath       |      7 |        7 | Token Trader       |   5    | looseknot            |
+|  5 | :soon:   | 2022-05-03 01:51:00 | bath       |      7 |        8 | Argirl             |   6    | looseknot            |
+|  6 | :soon:   | 2022-05-03 01:45:00 | warwick    |      5 |        2 | Rockstar Ronnie    |   2.1  | vulture              |
+|  7 | :soon:   | 2022-05-03 01:36:00 | windsor    |      5 |        8 | Hamaamm            |   5.5  | overthrow            |
+|  8 | :soon:   | 2022-05-03 01:30:00 | kempton    |      7 |        3 | Midnight Callisto  |   3.4  | vulture              |
+|  9 | :soon:   | 2022-05-03 01:30:00 | kempton    |      7 |        5 | Lady Reset         |   4    | vulture              |
+| 10 | :soon:   | 2022-05-03 01:26:00 | beverley   |      6 |        5 | Discretion         |   3.7  | looseknot            |
+| 11 | :soon:   | 2022-05-03 01:05:00 | curragh    |      6 |        6 | Licence            |   4.6  | vulture              |
+| 12 | :soon:   | 2022-05-03 01:05:00 | curragh    |      6 |        4 | High Definition    |   4.2  | vulture              |
+| 13 | :soon:   | 2022-05-03 00:55:00 | kempton    |      6 |        2 | Diego Du Charmil   |   5    | overthrow            |
+| 14 | :soon:   | 2022-05-03 00:35:00 | warwick    |      3 |        4 | Heronord           |   6    | vulture              |
+| 15 | :soon:   | 2022-05-03 00:30:00 | curragh    |      5 |        9 | Prettiest          |   9.5  | vulture              |
+| 16 | :soon:   | 2022-05-03 00:30:00 | curragh    |      5 |        4 | Sh Boom            |   6    | vulture              |
+| 17 | :soon:   | 2022-05-03 00:26:00 | windsor    |      3 |        3 | Tanmawwy           |   3.3  | milkman              |
+| 18 | :soon:   | 2022-05-03 00:20:00 | kempton    |      5 |        2 | Birds Of Prey      |   3.5  | evenodds,overthrow   |
+| 19 | :soon:   | 2022-05-02 23:55:00 | curragh    |      4 |        4 | Torn               |   5.5  | vulture              |
+| 20 | :soon:   | 2022-05-02 23:51:00 | windsor    |      2 |        4 | Gidwa              |   3.5  | vulture              |
+| 21 | :soon:   | 2022-05-02 23:45:00 | kempton    |      4 |        2 | Danny Kirwan       |   2.6  | evenodds,overthrow   |
+| 22 | :soon:   | 2022-05-02 23:45:00 | kempton    |      4 |        1 | Neville's Cross    |   3.2  | vulture              |
+| 23 | :soon:   | 2022-05-02 23:20:00 | curragh    |      3 |        3 | Dr Zempf           |   3.2  | vulture              |
+| 24 | :soon:   | 2022-05-02 23:20:00 | greyville  |      6 |        4 | Hydrangea          |   0    | vulture              |
+| 25 | :soon:   | 2022-05-02 23:10:00 | kempton    |      3 |        3 | Outlaw Peter       |   1.45 | overthrow            |
+| 26 | :soon:   | 2022-05-02 22:45:00 | curragh    |      2 |        1 | Blackbeard         |   1.55 | vulture,milkman      |
+| 27 | :soon:   | 2022-05-02 22:35:00 | kempton    |      2 |        1 | Calva D'Auge       |   1.85 | overthrow            |
+| 28 | :soon:   | 2022-05-02 22:31:00 | beverley   |      1 |       12 | Mersea             |   5.5  | looseknot            |
+| 29 | :soon:   | 2022-05-02 22:00:00 | kempton    |      1 |        1 | Carn A Chlamain    |   4.2  | vulture              |
+| 30 | :soon:   | 2022-05-02 16:35:00 | taree      |      7 |        2 | Mista Razzledazzle |   2.62 | vulture              |
+| 31 | :soon:   | 2022-05-02 15:20:00 | taree      |      5 |        2 | So And So          |   9    | looseknot            |
+| 32 | :soon:   | 2022-05-02 15:12:00 | ipswich    |      5 |        1 | The Catch          |   1.7  | evenodds,blackshadow |
+| 33 | :soon:   | 2022-05-02 14:34:00 | ipswich    |      4 |        7 | Numbers Game       |   9    | overthrow            |
+| 34 | :soon:   | 2022-05-02 14:34:00 | ipswich    |      4 |        9 | Vantan Express     |   3.1  | vulture              |
+| 35 | :soon:   | 2022-05-02 13:57:00 | ipswich    |      3 |        5 | Bulsara            |  10    | milkman              |
+| 36 | :soon:   | 2022-05-02 12:42:00 | ipswich    |      1 |        7 | Sheezasinga        |   3.9  | benny,pangea         |
+| 37 | :soon:   | 2022-05-02 12:42:00 | ipswich    |      1 |        4 | Devil's Rite       |   2.35 | benny,milkman        |
