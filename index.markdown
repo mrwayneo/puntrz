@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-01 21:21:42 +1000  
+date: 2022-05-01 21:36:43 +1000  
 ---   
 
 
@@ -105,7 +105,7 @@ date: 2022-05-01 21:21:42 +1000
 | 25 | :soon:            | 2022-05-01 23:15:00 | scottsville         |      6 |        4 | Sundance Kid       |   0    | milkman            |
 | 26 | :soon:            | 2022-05-01 22:40:00 | scottsville         |      5 |        1 | Red Roses Too      |   0    | milkman            |
 | 27 | :soon:            | 2022-05-01 22:05:00 | scottsville         |      4 |        3 | Isivunguvungu      |   0    | vulture            |
-| 28 | :soon:            | 2022-05-01 21:30:00 | scottsville         |      3 |        7 | Shampompo Shampizi |   0    | blackshadow,icyhot |
+| 28 | --                | 2022-05-01 21:30:00 | scottsville         |      3 |        7 | Shampompo Shampizi |   0    | blackshadow,icyhot |
 | 29 | :boom:            | 2022-05-01 19:45:00 | sha-tin             |     11 |       12 | Sakewin            |   0    | milkman            |
 | 30 | 11.0              | 2022-05-01 18:55:00 | northam             |      8 |        9 | Safety Fuse        |   5    | overthrow          |
 | 31 | 6.0               | 2022-05-01 18:00:00 | alice-springs       |      9 |        7 | Ash Grey           |  51    | pangea,overthrow   |
