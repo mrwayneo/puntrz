@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-05-01 10:27:35 +1000  
+date: 2022-05-01 10:29:43 +1000  
 categories: None 
 ---   
 
@@ -64,8 +64,8 @@ categories: None
 | 5                 | 2022-03-19 | ipswich R7                    | 4 Kirra Lass          |  5.5  |    -10   |
 | :3rd_place_medal: | 2022-03-19 | flemington R8                 | 6 Grandslam           |  4.5  |    -10   |
 | :boom:            | 2022-03-19 | ascot R2                      | 9 Stella Fair         |  4.9  |     39   |
-| :3rd_place_medal: | 2022-03-19 | rosehill-gardens R5           | 1 Angel of Truth      | 10    |    -10   |
 | 6                 | 2022-03-19 | rosehill-gardens R5           | 2 Entente             | 23    |    -10   |
+| :3rd_place_medal: | 2022-03-19 | rosehill-gardens R5           | 1 Angel of Truth      | 10    |    -10   |
 | :boom:            | 2022-03-19 | morphettville-parks R3        | 6 Daring Move         |  2.9  |     19   |
 | 8                 | 2022-03-19 | morphettville-parks R2        | 7 Ambidazzle          |  4    |    -10   |
 | 7                 | 2022-03-18 | moonee-valley R6              | 8 Zoushine            | 13    |    -10   |
@@ -297,8 +297,8 @@ categories: None
 | :3rd_place_medal: | 2021-11-05 | rockhampton R5                | 5 Boss Baby           |  5.5  |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R7                 | 1 Quackerjack         |  3.3  |    -10   |
 | 4                 | 2021-11-04 | hawkesbury R5                 | 1 Quiet Riot          |  5    |    -10   |
-| 5                 | 2021-11-04 | flemington R2                 | 3 Zing                |  4    |    -10   |
 | 4                 | 2021-11-04 | flemington R2                 | 1 Sirileo Miss        |  2.35 |    -10   |
+| 5                 | 2021-11-04 | flemington R2                 | 3 Zing                |  4    |    -10   |
 | 4                 | 2021-11-03 | launceston R6                 | 2 Balearic            |  8.5  |    -10   |
 | 8                 | 2021-11-02 | darwin R7                     | 5 Taciturn            |  4.8  |    -10   |
 | :2nd_place_medal: | 2021-11-02 | darwin R6                     | 3 El Sicario          |  3.9  |    -10   |
@@ -429,8 +429,8 @@ categories: None
 | 10                | 2021-09-04 | eagle-farm R9                 | 1 Vinco               |  5    |    -10   |
 | 8                 | 2021-09-04 | belmont R5                    | 3 Campese             |  2.05 |    -10   |
 | 8                 | 2021-09-04 | barcaldine R7                 | 6 No Refund           | 21    |    -10   |
-| :boom:            | 2021-09-04 | eagle-farm R7                 | 4 Ingear              |  2.5  |     15   |
 | :3rd_place_medal: | 2021-09-04 | eagle-farm R7                 | 3 Ready Babe          | 18    |    -10   |
+| :boom:            | 2021-09-04 | eagle-farm R7                 | 4 Ingear              |  2.5  |     15   |
 | :2nd_place_medal: | 2021-09-04 | belmont R3                    | 2 Dunbar              |  2.8  |    -10   |
 | :3rd_place_medal: | 2021-09-04 | randwick R7                   | 5 Star of the Seas    | 11    |    -10   |
 | 4                 | 2021-09-04 | newcastle R4                  | 5 False Step          | 10    |    -10   |
@@ -673,8 +673,8 @@ categories: None
 | :3rd_place_medal: | 2021-04-25 | devonport-synthetic R6        | 4 Rhyme Writer        |  4.8  |    -10   |
 | 5                 | 2021-04-25 | alice-springs R1              | 4 Dataset             |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-25 | awapuni R1                    | 2 Maison Roxanne      |  2.4  |    -10   |
-| 5                 | 2021-04-24 | darwin R4                     | 4 Trebla              | 14    |    -10   |
 | :2nd_place_medal: | 2021-04-24 | darwin R4                     | 1 Patria              |  2.8  |    -10   |
+| 5                 | 2021-04-24 | darwin R4                     | 4 Trebla              | 14    |    -10   |
 | 4                 | 2021-04-24 | darwin R2                     | 2 Paseeto             |  6    |    -10   |
 | 5                 | 2021-04-24 | morphettville-parks R7        | 9 Renegade            | 14    |    -10   |
 | 4                 | 2021-04-24 | doomben R6                    | 2 Good Soize          |  6.6  |    -10   |
@@ -803,8 +803,8 @@ categories: None
 | :3rd_place_medal: | 2021-02-05 | townsville R1                 | 1 Attackabeel         |  1.4  |    -10   |
 | :3rd_place_medal: | 2021-01-30 | ascot R4                      | 5 Phoneme             |  6    |    -10   |
 | 5                 | 2021-01-30 | caulfield R8                  | 4 Maximak             | 11    |    -10   |
-| :boom:            | 2021-01-30 | morphettville R6              | 1 Behemoth            |  1.5  |      5   |
 | 6                 | 2021-01-30 | morphettville R6              | 7 Symphonette         | 18    |    -10   |
+| :boom:            | 2021-01-30 | morphettville R6              | 1 Behemoth            |  1.5  |      5   |
 | :2nd_place_medal: | 2021-01-30 | sunshine-coast R4             | 5 What the Fuss       |  4.6  |    -10   |
 | :boom:            | 2021-01-30 | morphettville R4              | 2 Soul Obsession      |  2.6  |     16   |
 | 8                 | 2021-01-28 | scone R6                      | 1 Expiredtime         | 17    |    -10   |
