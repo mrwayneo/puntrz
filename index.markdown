@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-02 22:28:17 +1000  
+date: 2022-05-02 22:43:19 +1000  
 ---   
 
 
@@ -36,8 +36,8 @@ date: 2022-05-02 22:28:17 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      7 |     46   | 0.35 |  0.23 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      3 |     10   | 0.15 |  0.05 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      7 |    -13.2 | 0.35 | -0.07 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      4 |    -37   | 0.2  | -0.18 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      6 |    -54   | 0.3  | -0.27 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      3 |    -57.5 | 0.15 | -0.29 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -63   | 0.2  | -0.32 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |    -74   | 0.25 | -0.37 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      6 |    -82.5 | 0.3  | -0.41 |
@@ -103,8 +103,8 @@ date: 2022-05-02 22:28:17 +1000
 | 24 | :soon:            | 2022-05-02 23:20:00 | greyville  |      6 |        4 | Hydrangea          |   0    | vulture              |
 | 25 | :soon:            | 2022-05-02 23:10:00 | kempton    |      3 |        3 | Outlaw Peter       |   1.45 | overthrow            |
 | 26 | :soon:            | 2022-05-02 22:45:00 | curragh    |      2 |        1 | Blackbeard         |   1.55 | vulture,milkman      |
-| 27 | :soon:            | 2022-05-02 22:35:00 | kempton    |      2 |        1 | Calva D'Auge       |   1.85 | overthrow            |
-| 28 | :soon:            | 2022-05-02 22:31:00 | beverley   |      1 |       12 | Mersea             |   5.5  | looseknot            |
+| 27 | --                | 2022-05-02 22:35:00 | kempton    |      2 |        1 | Calva D'Auge       |   1.85 | overthrow            |
+| 28 | :2nd_place_medal: | 2022-05-02 22:31:00 | beverley   |      1 |       12 | Mersea             |   5.5  | looseknot            |
 | 29 | --                | 2022-05-02 22:00:00 | kempton    |      1 |        1 | Carn A Chlamain    |   4.2  | vulture              |
 | 30 | 7.0               | 2022-05-02 16:35:00 | taree      |      7 |        2 | Mista Razzledazzle |   2.62 | vulture              |
 | 31 | 6.0               | 2022-05-02 15:20:00 | taree      |      5 |        2 | So And So          |   9    | looseknot            |
