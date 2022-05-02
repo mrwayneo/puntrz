@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-02 17:20:26 +1000  
+date: 2022-05-02 17:35:27 +1000  
 ---   
 
 
@@ -36,8 +36,8 @@ date: 2022-05-02 17:20:26 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      7 |     46   | 0.35 |  0.23 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      3 |     10   | 0.15 |  0.05 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      7 |    -13.2 | 0.35 | -0.07 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      4 |    -37   | 0.2  | -0.18 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      6 |    -54   | 0.3  | -0.27 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      3 |    -57.5 | 0.15 | -0.29 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -63   | 0.2  | -0.32 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |    -74   | 0.25 | -0.37 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      6 |    -82.5 | 0.3  | -0.41 |
