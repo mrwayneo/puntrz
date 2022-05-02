@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-02 12:53:06 +1000  
+date: 2022-05-02 13:39:26 +1000  
 ---   
 
 
@@ -112,5 +112,5 @@ date: 2022-05-02 12:53:06 +1000
 | 33 | :soon:            | 2022-05-02 14:34:00 | ipswich    |      4 |        7 | Numbers Game       |   9    | overthrow            |
 | 34 | :soon:            | 2022-05-02 14:34:00 | ipswich    |      4 |        9 | Vantan Express     |   3.1  | vulture              |
 | 35 | :soon:            | 2022-05-02 13:57:00 | ipswich    |      3 |        5 | Bulsara            |  10    | milkman              |
-| 36 | --                | 2022-05-02 12:42:00 | ipswich    |      1 |        7 | Sheezasinga        |   3.9  | benny,pangea         |
+| 36 | 5.0               | 2022-05-02 12:42:00 | ipswich    |      1 |        7 | Sheezasinga        |   3.9  | benny,pangea         |
 | 37 | :3rd_place_medal: | 2022-05-02 12:42:00 | ipswich    |      1 |        4 | Devil's Rite       |   2.35 | benny,milkman        |
