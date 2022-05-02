@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-05-02 22:58:18 +1000  
+date: 2022-05-03 09:58:04 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,16 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      9 |      3 |       -8 | 0.33 | -0.09 |
-| Last 28 Days   |     24 |      3 |     -158 | 0.12 | -0.66 |
+| Last 28 Days   |     23 |      3 |     -148 | 0.13 | -0.64 |
 | Last 6 Months  |    300 |     62 |     -913 | 0.21 | -0.3  |
 | Since Jan 2020 |   1094 |    265 |    -1957 | 0.24 | -0.18 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 16:35             | 2022-05-03 | kembla-grange R6      | 3 Never Cry           |   3.25 |    -10   |
+| 15:55             | 2022-05-03 | kembla-grange R5      | 3 Desi Girl           |   5.5  |    -10   |
+| 14:45             | 2022-05-03 | kembla-grange R3      | 6 Cushy               |   7    |    -10   |
+| 14:10             | 2022-05-03 | kembla-grange R2      | 5 Hellcent            |  10    |    -10   |
 | :boom:            | 2022-04-30 | hawkesbury R7         | 1 Mr Mozart           |   2.1  |     11   |
 | :3rd_place_medal: | 2022-04-30 | hawkesbury R6         | 7 Surreal Step        |  19    |    -10   |
 | 5                 | 2022-04-30 | hawkesbury R4         | 11 Global Ausbred     |   5    |    -10   |

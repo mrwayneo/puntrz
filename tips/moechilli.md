@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-05-02 22:58:13 +1000  
+date: 2022-05-03 09:57:58 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
+| 01:45             | 2022-05-04 | fakenham R6            | 2 General Arrow      |   3    |    -10   |
 | :2nd_place_medal: | 2022-04-30 | cheltenham R3          | 6 Moratorium         |   2.8  |    -10   |
 | :boom:            | 2022-04-30 | cheltenham R1          | 3 Envoye Special     |   2.8  |     18   |
 | :boom:            | 2022-04-29 | grafton R3             | 1 Lesmurdie          |   2.7  |     17   |
