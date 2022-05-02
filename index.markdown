@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-02 16:50:15 +1000  
+date: 2022-05-02 17:05:26 +1000  
 ---   
 
 
@@ -106,7 +106,7 @@ date: 2022-05-02 16:50:15 +1000
 | 27 | :soon:            | 2022-05-02 22:35:00 | kempton    |      2 |        1 | Calva D'Auge       |   1.85 | overthrow            |
 | 28 | :soon:            | 2022-05-02 22:31:00 | beverley   |      1 |       12 | Mersea             |   5.5  | looseknot            |
 | 29 | :soon:            | 2022-05-02 22:00:00 | kempton    |      1 |        1 | Carn A Chlamain    |   4.2  | vulture              |
-| 30 | --                | 2022-05-02 16:35:00 | taree      |      7 |        2 | Mista Razzledazzle |   2.62 | vulture              |
+| 30 | 7.0               | 2022-05-02 16:35:00 | taree      |      7 |        2 | Mista Razzledazzle |   2.62 | vulture              |
 | 31 | 6.0               | 2022-05-02 15:20:00 | taree      |      5 |        2 | So And So          |   9    | looseknot            |
 | 32 | :boom:            | 2022-05-02 15:12:00 | ipswich    |      5 |        1 | The Catch          |   1.7  | evenodds,blackshadow |
 | 33 | 5.0               | 2022-05-02 14:34:00 | ipswich    |      4 |        7 | Numbers Game       |   9    | overthrow            |
