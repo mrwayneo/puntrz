@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-02 15:14:20 +1000  
+date: 2022-05-02 15:29:26 +1000  
 ---   
 
 
@@ -9,16 +9,16 @@ date: 2022-05-02 15:14:20 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      1 |        9 | 1    |  0.9  |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      0 |      -40 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      4 |      0 |      -40 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      1 |      -21 | 0.25 | -0.52 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      4 |      1 |      -21 | 0.25 | -0.52 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      5 |      0 |      -50 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      6 |      0 |      -60 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     11 |      0 |     -110 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      0 |     -240 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     11 |      1 |      -91 | 0.09 | -0.83 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      1 |     -221 | 0.04 | -0.92 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     30 |      1 |     -288 | 0.03 | -0.96 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     41 |      0 |     -410 | 0    | -1    |
 
@@ -36,8 +36,8 @@ date: 2022-05-02 15:14:20 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      7 |     46   | 0.35 |  0.23 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      3 |     10   | 0.15 |  0.05 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      7 |    -13.2 | 0.35 | -0.07 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      4 |    -37   | 0.2  | -0.18 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      6 |    -54   | 0.3  | -0.27 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      3 |    -57.5 | 0.15 | -0.29 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -63   | 0.2  | -0.32 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |    -74   | 0.25 | -0.37 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      6 |    -82.5 | 0.3  | -0.41 |
@@ -107,8 +107,8 @@ date: 2022-05-02 15:14:20 +1000
 | 28 | :soon:            | 2022-05-02 22:31:00 | beverley   |      1 |       12 | Mersea             |   5.5  | looseknot            |
 | 29 | :soon:            | 2022-05-02 22:00:00 | kempton    |      1 |        1 | Carn A Chlamain    |   4.2  | vulture              |
 | 30 | :soon:            | 2022-05-02 16:35:00 | taree      |      7 |        2 | Mista Razzledazzle |   2.62 | vulture              |
-| 31 | :soon:            | 2022-05-02 15:20:00 | taree      |      5 |        2 | So And So          |   9    | looseknot            |
-| 32 | --                | 2022-05-02 15:12:00 | ipswich    |      5 |        1 | The Catch          |   1.7  | evenodds,blackshadow |
+| 31 | --                | 2022-05-02 15:20:00 | taree      |      5 |        2 | So And So          |   9    | looseknot            |
+| 32 | :boom:            | 2022-05-02 15:12:00 | ipswich    |      5 |        1 | The Catch          |   1.7  | evenodds,blackshadow |
 | 33 | 5.0               | 2022-05-02 14:34:00 | ipswich    |      4 |        7 | Numbers Game       |   9    | overthrow            |
 | 34 | 6.0               | 2022-05-02 14:34:00 | ipswich    |      4 |        9 | Vantan Express     |   3.1  | vulture              |
 | 35 | 8.0               | 2022-05-02 13:57:00 | ipswich    |      3 |        5 | Bulsara            |  10    | milkman              |
