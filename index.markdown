@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-02 22:43:19 +1000  
+date: 2022-05-02 22:58:19 +1000  
 ---   
 
 
@@ -14,12 +14,12 @@ date: 2022-05-02 22:43:19 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      4 |      1 |      -21 | 0.25 | -0.52 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      4 |      1 |      -21 | 0.25 | -0.52 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      1 |      -29 | 0.2  | -0.58 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      5 |      0 |      -50 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      6 |      0 |      -60 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     11 |      1 |      -91 | 0.09 | -0.83 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     30 |      3 |     -198 | 0.1  | -0.66 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      1 |     -221 | 0.04 | -0.92 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     24 |      2 |     -200 | 0.08 | -0.83 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     41 |      0 |     -410 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -102,8 +102,8 @@ date: 2022-05-02 22:43:19 +1000
 | 23 | :soon:            | 2022-05-02 23:20:00 | curragh    |      3 |        3 | Dr Zempf           |   3.2  | vulture              |
 | 24 | :soon:            | 2022-05-02 23:20:00 | greyville  |      6 |        4 | Hydrangea          |   0    | vulture              |
 | 25 | :soon:            | 2022-05-02 23:10:00 | kempton    |      3 |        3 | Outlaw Peter       |   1.45 | overthrow            |
-| 26 | :soon:            | 2022-05-02 22:45:00 | curragh    |      2 |        1 | Blackbeard         |   1.55 | vulture,milkman      |
-| 27 | --                | 2022-05-02 22:35:00 | kempton    |      2 |        1 | Calva D'Auge       |   1.85 | overthrow            |
+| 26 | :boom:            | 2022-05-02 22:45:00 | curragh    |      2 |        1 | Blackbeard         |   1.55 | vulture,milkman      |
+| 27 | :2nd_place_medal: | 2022-05-02 22:35:00 | kempton    |      2 |        1 | Calva D'Auge       |   1.85 | overthrow            |
 | 28 | :2nd_place_medal: | 2022-05-02 22:31:00 | beverley   |      1 |       12 | Mersea             |   5.5  | looseknot            |
 | 29 | --                | 2022-05-02 22:00:00 | kempton    |      1 |        1 | Carn A Chlamain    |   4.2  | vulture              |
 | 30 | 7.0               | 2022-05-02 16:35:00 | taree      |      7 |        2 | Mista Razzledazzle |   2.62 | vulture              |
