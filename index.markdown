@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-02 13:54:17 +1000  
+date: 2022-05-02 14:09:27 +1000  
 ---   
 
 
@@ -36,8 +36,8 @@ date: 2022-05-02 13:54:17 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      7 |     46   | 0.35 |  0.23 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      3 |     10   | 0.15 |  0.05 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      7 |    -13.2 | 0.35 | -0.07 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      4 |    -37   | 0.2  | -0.18 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      6 |    -54   | 0.3  | -0.27 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      3 |    -57.5 | 0.15 | -0.29 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      4 |    -63   | 0.2  | -0.32 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |    -74   | 0.25 | -0.37 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      6 |    -82.5 | 0.3  | -0.41 |
@@ -111,6 +111,6 @@ date: 2022-05-02 13:54:17 +1000
 | 32 | :soon:            | 2022-05-02 15:12:00 | ipswich    |      5 |        1 | The Catch          |   1.7  | evenodds,blackshadow |
 | 33 | :soon:            | 2022-05-02 14:34:00 | ipswich    |      4 |        7 | Numbers Game       |   9    | overthrow            |
 | 34 | :soon:            | 2022-05-02 14:34:00 | ipswich    |      4 |        9 | Vantan Express     |   3.1  | vulture              |
-| 35 | :soon:            | 2022-05-02 13:57:00 | ipswich    |      3 |        5 | Bulsara            |  10    | milkman              |
+| 35 | --                | 2022-05-02 13:57:00 | ipswich    |      3 |        5 | Bulsara            |  10    | milkman              |
 | 36 | 5.0               | 2022-05-02 12:42:00 | ipswich    |      1 |        7 | Sheezasinga        |   3.9  | benny,pangea         |
 | 37 | :3rd_place_medal: | 2022-05-02 12:42:00 | ipswich    |      1 |        4 | Devil's Rite       |   2.35 | benny,milkman        |
