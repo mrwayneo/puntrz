@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-03 14:00:25 +1000  
+date: 2022-05-03 14:28:38 +1000  
 ---   
 
 
@@ -105,11 +105,11 @@ date: 2022-05-03 14:00:25 +1000
 | 25 | :soon:            | 2022-05-03 15:55:00 | kembla-grange |      5 |        3 | Desi Girl          |   5.5  | pikey               |
 | 26 | :soon:            | 2022-05-03 15:30:00 | warrnambool   |      8 |        1 | Heart Of Puissance |   2.7  | vulture             |
 | 27 | :soon:            | 2022-05-03 14:45:00 | kembla-grange |      3 |        6 | Cushy              |   7    | pikey               |
-| 28 | :soon:            | 2022-05-03 14:20:00 | warrnambool   |      6 |        1 | Bit of a Lad       |   5.5  | pangea,blackshadow  |
-| 29 | :soon:            | 2022-05-03 14:17:00 | warwick       |      4 |        5 | Laurie             |   9    | pangea              |
-| 30 | :soon:            | 2022-05-03 14:10:00 | kembla-grange |      2 |        5 | Hellcent           |  10    | pikey               |
+| 28 | --                | 2022-05-03 14:20:00 | warrnambool   |      6 |        1 | Bit of a Lad       |   5.5  | pangea,blackshadow  |
+| 29 | :3rd_place_medal: | 2022-05-03 14:17:00 | warwick       |      4 |        5 | Laurie             |   9    | pangea              |
+| 30 | 4.0               | 2022-05-03 14:10:00 | kembla-grange |      2 |        5 | Hellcent           |  10    | pikey               |
 | 31 | :boom:            | 2022-05-03 13:45:00 | warrnambool   |      5 |        4 | Bubble Palace      |   2.3  | milkman             |
-| 32 | --                | 2022-05-03 13:45:00 | warrnambool   |      5 |        3 | Capital Express    |   6    | milkman             |
-| 33 | --                | 2022-05-03 13:38:00 | warwick       |      3 |        4 | Himself            |   8.5  | looseknot           |
+| 32 | 4.0               | 2022-05-03 13:45:00 | warrnambool   |      5 |        3 | Capital Express    |   6    | milkman             |
+| 33 | 7.0               | 2022-05-03 13:38:00 | warwick       |      3 |        4 | Himself            |   8.5  | looseknot           |
 | 34 | :2nd_place_medal: | 2022-05-03 13:15:00 | warrnambool   |      4 |        5 | Harbin             |   5    | looseknot           |
 | 35 | :boom:            | 2022-05-03 13:15:00 | warrnambool   |      4 |        8 | Mio Capo           |   6.5  | looseknot           |
