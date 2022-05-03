@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-03 21:43:27 +1000  
+date: 2022-05-03 21:58:18 +1000  
 ---   
 
 
@@ -20,7 +20,7 @@ date: 2022-05-03 21:43:27 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     12 |      1 |      -58 | 0.08 | -0.48 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      6 |      0 |      -60 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     10 |      0 |     -100 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     36 |      2 |     -282 | 0.06 | -0.78 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     36 |      3 |     -152 | 0.08 | -0.42 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     36 |      0 |     -360 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -100,7 +100,7 @@ date: 2022-05-03 21:43:27 +1000
 | 20 | :soon:            | 2022-05-03 22:15:00 | lingfield     |      1 |        2 | Taqseemaat         |   4.33 | looseknot           |
 | 21 | :soon:            | 2022-05-03 22:15:00 | lingfield     |      1 |        8 | London             |   4.2  | looseknot           |
 | 22 | :soon:            | 2022-05-03 22:15:00 | lingfield     |      1 |        1 | Amsby              |   6    | looseknot           |
-| 23 | :soon:            | 2022-05-03 21:45:00 | vaal          |      5 |        1 | Thumbs Up          |   0    | vulture             |
+| 23 | --                | 2022-05-03 21:45:00 | vaal          |      5 |        1 | Thumbs Up          |   0    | vulture             |
 | 24 | 6.0               | 2022-05-03 15:55:00 | kembla-grange |      5 |       10 | Composite          |   7    | looseknot           |
 | 25 | :boom:            | 2022-05-03 15:55:00 | kembla-grange |      5 |        3 | Desi Girl          |   5.5  | pikey               |
 | 26 | :2nd_place_medal: | 2022-05-03 15:30:00 | warrnambool   |      8 |        1 | Heart Of Puissance |   2.7  | vulture             |
