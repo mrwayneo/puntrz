@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-03 22:13:23 +1000  
+date: 2022-05-03 22:28:32 +1000  
 ---   
 
 
@@ -97,9 +97,9 @@ date: 2022-05-03 22:13:23 +1000
 | 17 | :soon:            | 2022-05-03 23:20:00 | lingfield     |      3 |        5 | Level Up           |   4.75 | looseknot           |
 | 18 | :soon:            | 2022-05-03 23:10:00 | ayr           |      1 |        3 | Battle Of Toro     |   7.5  | overthrow           |
 | 19 | :soon:            | 2022-05-03 23:00:00 | fakenham      |      1 |        1 | The Flying Sofa    |   3.6  | pangea              |
-| 20 | :soon:            | 2022-05-03 22:15:00 | lingfield     |      1 |        2 | Taqseemaat         |   4.33 | looseknot           |
-| 21 | :soon:            | 2022-05-03 22:15:00 | lingfield     |      1 |        8 | London             |   4.2  | looseknot           |
-| 22 | :soon:            | 2022-05-03 22:15:00 | lingfield     |      1 |        1 | Amsby              |   6    | looseknot           |
+| 20 | --                | 2022-05-03 22:15:00 | lingfield     |      1 |        2 | Taqseemaat         |   4.33 | looseknot           |
+| 21 | :3rd_place_medal: | 2022-05-03 22:15:00 | lingfield     |      1 |        8 | London             |   4.2  | looseknot           |
+| 22 | 6.0               | 2022-05-03 22:15:00 | lingfield     |      1 |        1 | Amsby              |   6    | looseknot           |
 | 23 | --                | 2022-05-03 21:45:00 | vaal          |      5 |        1 | Thumbs Up          |   0    | vulture             |
 | 24 | 6.0               | 2022-05-03 15:55:00 | kembla-grange |      5 |       10 | Composite          |   7    | looseknot           |
 | 25 | :boom:            | 2022-05-03 15:55:00 | kembla-grange |      5 |        3 | Desi Girl          |   5.5  | pikey               |
