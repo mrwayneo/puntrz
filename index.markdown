@@ -1,11 +1,32 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-04 07:51:23 +1000  
+date: 2022-05-04 08:40:44 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 |    0 |    -1 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      0 |      -20 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 |    0 |    -1 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      3 |      0 |      -30 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      3 |      0 |      -30 |    0 |    -1 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      3 |      0 |      -30 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      0 |      -50 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      5 |      0 |      -50 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      9 |      0 |      -90 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     15 |      0 |     -150 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     15 |      0 |     -150 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      0 |     -200 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     21 |      0 |     -210 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     40 |      0 |     -400 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     54 |      0 |     -540 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,41 +80,65 @@ date: 2022-05-04 07:51:23 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5908 |    693 | -16850.1 | 0.12 | -0.29 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   7225 |    302 | -27685.5 | 0.04 | -0.38 |
 
-|    | finish            | time                | track         |   race |   number | name               |   odds | tipster             |
-|---:|:------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:--------------------|
-|  0 | :3rd_place_medal: | 2022-05-04 05:20:00 | sedgefield    |      7 |        3 | Famous Function    |   4    | overthrow           |
-|  1 | --                | 2022-05-04 05:10:00 | wetherby      |      7 |        3 | Frog And Toad      |   2.35 | vulture             |
-|  2 | :boom:            | 2022-05-04 04:50:00 | sedgefield    |      6 |        5 | Ballycorr          |   3.6  | looseknot           |
-|  3 | :boom:            | 2022-05-04 04:20:00 | sedgefield    |      5 |        2 | Latino Fling       |   2.2  | overthrow           |
-|  4 | :2nd_place_medal: | 2022-05-04 03:50:00 | sedgefield    |      4 |        1 | Geromino           |   1.6  | overthrow           |
-|  5 | :3rd_place_medal: | 2022-05-04 03:40:00 | wetherby      |      4 |        6 | Mccann The Man     |   7    | looseknot           |
-|  6 | --                | 2022-05-04 03:05:00 | ayr           |      8 |        5 | Maughold Head      |   8    | looseknot           |
-|  7 | :3rd_place_medal: | 2022-05-04 03:05:00 | ayr           |      8 |        7 | Zumbi              |  13    | overthrow           |
-|  8 | :2nd_place_medal: | 2022-05-04 02:50:00 | sedgefield    |      2 |        2 | Cartonne           |   2.25 | evenodds,overthrow  |
-|  9 | :boom:            | 2022-05-04 02:40:00 | wetherby      |      2 |        3 | Mountbatten        |   2.35 | milkman             |
-| 10 | 4.0               | 2022-05-04 01:45:00 | fakenham      |      6 |        2 | General Arrow      |   3    | overthrow,moechilli |
-| 11 | 5.0               | 2022-05-04 01:25:00 | ayr           |      5 |        6 | Rapid Flight       |   9    | overthrow           |
-| 12 | :2nd_place_medal: | 2022-05-04 01:00:00 | lingfield     |      6 |        5 | Touchwood          |   2.2  | vulture             |
-| 13 | --                | 2022-05-04 00:50:00 | ayr           |      4 |        6 | Chanting Hill      |  10    | cosmo,bluey         |
-| 14 | --                | 2022-05-04 00:40:00 | fakenham      |      4 |        6 | Gold Leader        |   5.5  | looseknot           |
-| 15 | :boom:            | 2022-05-04 00:05:00 | fakenham      |      3 |        3 | Rathmacknee        |   1.95 | overthrow           |
-| 16 | :2nd_place_medal: | 2022-05-03 23:50:00 | lingfield     |      4 |        8 | Thesis             |   1.75 | vulture             |
-| 17 | :2nd_place_medal: | 2022-05-03 23:20:00 | lingfield     |      3 |        5 | Level Up           |   4.75 | looseknot           |
-| 18 | --                | 2022-05-03 23:10:00 | ayr           |      1 |        3 | Battle Of Toro     |   7.5  | overthrow           |
-| 19 | --                | 2022-05-03 23:00:00 | fakenham      |      1 |        1 | The Flying Sofa    |   3.6  | pangea              |
-| 20 | --                | 2022-05-03 22:15:00 | lingfield     |      1 |        2 | Taqseemaat         |   4.33 | looseknot           |
-| 21 | :3rd_place_medal: | 2022-05-03 22:15:00 | lingfield     |      1 |        8 | London             |   4.2  | looseknot           |
-| 22 | 6.0               | 2022-05-03 22:15:00 | lingfield     |      1 |        1 | Amsby              |   6    | looseknot           |
-| 23 | --                | 2022-05-03 21:45:00 | vaal          |      5 |        1 | Thumbs Up          |   0    | vulture             |
-| 24 | 6.0               | 2022-05-03 15:55:00 | kembla-grange |      5 |       10 | Composite          |   7    | looseknot           |
-| 25 | :boom:            | 2022-05-03 15:55:00 | kembla-grange |      5 |        3 | Desi Girl          |   5.5  | pikey               |
-| 26 | :2nd_place_medal: | 2022-05-03 15:30:00 | warrnambool   |      8 |        1 | Heart Of Puissance |   2.7  | vulture             |
-| 27 | 8.0               | 2022-05-03 14:45:00 | kembla-grange |      3 |        6 | Cushy              |   7    | pikey               |
-| 28 | 5.0               | 2022-05-03 14:20:00 | warrnambool   |      6 |        1 | Bit of a Lad       |   5.5  | pangea,blackshadow  |
-| 29 | :3rd_place_medal: | 2022-05-03 14:17:00 | warwick       |      4 |        5 | Laurie             |   9    | pangea              |
-| 30 | 4.0               | 2022-05-03 14:10:00 | kembla-grange |      2 |        5 | Hellcent           |  10    | pikey               |
-| 31 | :boom:            | 2022-05-03 13:45:00 | warrnambool   |      5 |        4 | Bubble Palace      |   2.3  | milkman             |
-| 32 | 4.0               | 2022-05-03 13:45:00 | warrnambool   |      5 |        3 | Capital Express    |   6    | milkman             |
-| 33 | 7.0               | 2022-05-03 13:38:00 | warwick       |      3 |        4 | Himself            |   8.5  | looseknot           |
-| 34 | :2nd_place_medal: | 2022-05-03 13:15:00 | warrnambool   |      4 |        5 | Harbin             |   5    | looseknot           |
-| 35 | :boom:            | 2022-05-03 13:15:00 | warrnambool   |      4 |        8 | Mio Capo           |   6.5  | looseknot           |
+|    | finish   | time                | track        |   race |   number | name               |   odds | tipster              |
+|---:|:---------|:--------------------|:-------------|-------:|---------:|:-------------------|-------:|:---------------------|
+|  0 | :soon:   | 2022-05-05 05:10:00 | fontwell     |      7 |        2 | Monteplex          |   5    | evenodds,lago        |
+|  1 | :soon:   | 2022-05-05 05:00:00 | kempton      |      6 |        2 | Soar Above         |   2.7  | vulture              |
+|  2 | :soon:   | 2022-05-05 03:40:00 | fontwell     |      4 |       11 | The Height Of Fame |   7    | evenodds,blackshadow |
+|  3 | :soon:   | 2022-05-05 03:20:00 | gowran-park  |      4 |        5 | Sultanov Swing     |   3    | milkman              |
+|  4 | :soon:   | 2022-05-05 02:35:00 | fontwell     |      2 |        7 | Royal Sam          |  11    | milkman              |
+|  5 | :soon:   | 2022-05-05 02:30:00 | kempton      |      1 |        2 | Bojink             |   8    | looseknot            |
+|  6 | :soon:   | 2022-05-05 02:00:00 | fontwell     |      1 |        3 | Coal Stock         |   2.5  | moechilli            |
+|  7 | :soon:   | 2022-05-05 01:55:00 | kelso        |      7 |        6 | Blazing Court      |   4.8  | overthrow            |
+|  8 | :soon:   | 2022-05-05 01:55:00 | kelso        |      7 |        1 | Gun Runner Cash    |   1.6  | milkman              |
+|  9 | :soon:   | 2022-05-05 01:20:00 | kelso        |      6 |        4 | Just Cause         |   2.5  | overthrow            |
+| 10 | :soon:   | 2022-05-05 01:15:00 | chester      |      6 |        1 | Asean Legend       |   4.8  | vulture              |
+| 11 | :soon:   | 2022-05-05 01:15:00 | chester      |      6 |        9 | Secret State       |   1.85 | evenodds,overthrow   |
+| 12 | :soon:   | 2022-05-05 01:10:00 | kenilworth   |     10 |        1 | Whoa Whoa Whoa     |   0    | pangea,milkman       |
+| 13 | :soon:   | 2022-05-05 01:00:00 | newton-abbot |      6 |        2 | Real Steel         |   6    | overthrow            |
+| 14 | :soon:   | 2022-05-05 00:40:00 | chester      |      5 |        1 | Ever Given         |   3.8  | milkman              |
+| 15 | :soon:   | 2022-05-05 00:40:00 | chester      |      5 |        5 | Auditor            |   8    | vulture              |
+| 16 | :soon:   | 2022-05-05 00:30:00 | newton-abbot |      5 |        4 | Skatman            |   3.5  | overthrow            |
+| 17 | :soon:   | 2022-05-05 00:30:00 | newton-abbot |      5 |        3 | Quick Draw         |   4    | overthrow            |
+| 18 | :soon:   | 2022-05-05 00:20:00 | kelso        |      4 |        1 | Big Nasty          |   1.95 | evenodds,overthrow   |
+| 19 | :soon:   | 2022-05-05 00:10:00 | chester      |      4 |        2 | Changingoftheguard |   4.5  | vulture              |
+| 20 | :soon:   | 2022-05-05 00:10:00 | chester      |      4 |        4 | New London         |   1.28 | evenodds,lago        |
+| 21 | :soon:   | 2022-05-05 00:10:00 | chester      |      4 |        5 | Savvy Victory      |  16    | vulture              |
+| 22 | :soon:   | 2022-05-04 23:50:00 | kelso        |      3 |        6 | Spanish Present    |   2.6  | overthrow            |
+| 23 | :soon:   | 2022-05-04 23:40:00 | chester      |      3 |        6 | Morning Poem       |  11    | milkman              |
+| 24 | :soon:   | 2022-05-04 23:40:00 | chester      |      3 |        8 | Thoughts Of June   |   8    | vulture              |
+| 25 | :soon:   | 2022-05-04 23:40:00 | chester      |      3 |        2 | Hello Jumeirah     |   6.5  | vulture,milkman      |
+| 26 | :soon:   | 2022-05-04 23:40:00 | chester      |      3 |        3 | Improvise          |  20    | milkman,bob          |
+| 27 | :soon:   | 2022-05-04 23:40:00 | chester      |      3 |        7 | Night Battle       |   4    | evenodds,lago        |
+| 28 | :soon:   | 2022-05-04 23:25:00 | newton-abbot |      3 |        3 | Hana Collonges     |  15    | overthrow            |
+| 29 | :soon:   | 2022-05-04 23:05:00 | chester      |      2 |        4 | Shamlaan           |   5.5  | vulture              |
+| 30 | :soon:   | 2022-05-04 22:55:00 | kenilworth   |      6 |        4 | Seventh Gear       |   0    | vulture              |
+| 31 | :soon:   | 2022-05-04 22:55:00 | kenilworth   |      6 |        1 | Belgarion          |   0    | milkman              |
+| 32 | :soon:   | 2022-05-04 22:55:00 | kenilworth   |      6 |        3 | Marina             |   0    | icyhot               |
+| 33 | :soon:   | 2022-05-04 22:50:00 | newton-abbot |      2 |        2 | Falco Blitz        |   3.3  | overthrow            |
+| 34 | :soon:   | 2022-05-04 22:50:00 | newton-abbot |      2 |        1 | Rouge Vif          |   2.45 | overthrow            |
+| 35 | :soon:   | 2022-05-04 22:30:00 | chester      |      1 |        6 | Star Of Lady M     |   2.35 | vulture,milkman      |
+| 36 | :soon:   | 2022-05-04 22:20:00 | kenilworth   |      5 |        5 | Irish Morning      |   0    | vulture,milkman      |
+| 37 | :soon:   | 2022-05-04 22:15:00 | newton-abbot |      1 |        3 | Wild Max           |   2.6  | overthrow            |
+| 38 | :soon:   | 2022-05-04 19:00:00 | ascot        |      7 |        1 | Egg White          |   7    | looseknot            |
+| 39 | :soon:   | 2022-05-04 18:25:00 | ascot        |      6 |        8 | Kazoku             |   6.5  | pangea               |
+| 40 | :soon:   | 2022-05-04 17:45:00 | ascot        |      5 |        1 | King Cruzer        |   4.6  | vulture              |
+| 41 | :soon:   | 2022-05-04 16:15:00 | murray-bdge  |      7 |        4 | The Brumby         |   6    | pangea               |
+| 42 | :soon:   | 2022-05-04 15:50:00 | canterbury   |      6 |        6 | Billiondollarbaby  |   3.1  | milkman,pikey        |
+| 43 | :soon:   | 2022-05-04 15:14:00 | ascot        |      1 |        5 | Foxy Son           |  20    | benny,pangea         |
+| 44 | :soon:   | 2022-05-04 15:14:00 | ascot        |      1 |        4 | Alsephina          |   1.9  | pangea,lago          |
+| 45 | :soon:   | 2022-05-04 15:10:00 | canterbury   |      5 |       12 | Champions League   |  17    | cosmo,bluey          |
+| 46 | :soon:   | 2022-05-04 15:10:00 | canterbury   |      5 |       10 | Yggdrasil          |   4.75 | vulture,jmac         |
+| 47 | :soon:   | 2022-05-04 15:00:00 | murray-bdge  |      5 |        8 | Cassowary          |  12    | cosmo,bluey          |
+| 48 | :soon:   | 2022-05-04 14:35:00 | canterbury   |      4 |        6 | Barrichello        |   6    | benny,jmac           |
+| 49 | :soon:   | 2022-05-04 14:35:00 | canterbury   |      4 |        1 | Vigorous Flow      |  12    | vulture              |
+| 50 | :soon:   | 2022-05-04 14:35:00 | canterbury   |      4 |       10 | Kopangi            |  61    | cosmo,pikey          |
+| 51 | :soon:   | 2022-05-04 14:05:00 | warrnambool  |      6 |        1 | Saunter Boy        |   2.25 | evenodds,blackshadow |
+| 52 | :soon:   | 2022-05-04 14:05:00 | warrnambool  |      6 |        3 | Big Blue           |   7    | pangea,icyhot        |
+| 53 | :soon:   | 2022-05-04 13:55:00 | canterbury   |      3 |       10 | Marooniyah         |   5.5  | pikey                |
+| 54 | :soon:   | 2022-05-04 13:55:00 | canterbury   |      3 |        1 | Brechen            |   6    | jmac                 |
+| 55 | :soon:   | 2022-05-04 13:55:00 | canterbury   |      3 |        4 | Celtic Harp        |   8    | looseknot            |
+| 56 | :soon:   | 2022-05-04 13:30:00 | warrnambool  |      5 |        7 | Pierian Spring     |  41    | overthrow            |
+| 57 | :soon:   | 2022-05-04 13:30:00 | warrnambool  |      5 |        1 | Runaway            |   2.2  | overthrow            |
+| 58 | :soon:   | 2022-05-04 12:28:00 | eagle-farm   |      1 |        1 | Enjouee            |   2.05 | vulture              |
+| 59 | :soon:   | 2022-05-04 11:20:00 | warrnambool  |      1 |        1 | Jamarra            |   2.7  | vulture              |

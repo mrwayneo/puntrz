@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-05-04 07:51:22 +1000  
+date: 2022-05-04 08:40:42 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,9 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 15:10             | 2022-05-04 | canterbury R5        | 10 Yggdrasil         |  4.75 |    -10   |
+| 14:35             | 2022-05-04 | canterbury R4        | 6 Barrichello        |  6    |    -10   |
+| 13:55             | 2022-05-04 | canterbury R3        | 1 Brechen            |  6    |    -10   |
 | :2nd_place_medal: | 2022-04-30 | hawkesbury R1        | 3 Basquiat           |  3.1  |    -10   |
 | 5                 | 2022-04-25 | kensington R7        | 7 Nest Egg           |  6.5  |    -10   |
 | 4                 | 2022-04-25 | kensington R6        | 6 Sound Of Cannons   |  2.5  |    -10   |

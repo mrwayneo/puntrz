@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-05-04 07:51:22 +1000  
+date: 2022-05-04 08:40:43 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,9 @@ categories: None
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
+| 00:10             | 2022-05-05 | chester R4                   | 4 New London         |  1.28 |    -10   |
+| 23:40             | 2022-05-04 | chester R3                   | 7 Night Battle       |  4    |    -10   |
+| 15:14             | 2022-05-04 | ascot R1                     | 4 Alsephina          |  1.9  |    -10   |
 | :boom:            | 2022-05-01 | newmarket R7                 | 4 King Of Time       |  2.1  |     11   |
 | :2nd_place_medal: | 2022-05-01 | newmarket R5                 | 10 Native Trail      |  2.15 |    -10   |
 | :3rd_place_medal: | 2022-04-30 | goodwood R3                  | 7 Zanbaq             |  3.7  |    -10   |
@@ -98,8 +101,8 @@ categories: None
 | :boom:            | 2021-12-26 | wetherby R2                  | 4 Galia Des Liteaux  |  3.3  |     23   |
 | 99                | 2021-12-18 | navan R2                     | 15 Belle Metal       |  0    |    -10   |
 | :boom:            | 2021-12-18 | ascot R6                     | 7 Henri The Second   |  4.4  |     34   |
-| :3rd_place_medal: | 2021-12-18 | ascot R4                     | 4 Knappers Hill      |  4    |    -10   |
 | :boom:            | 2021-12-18 | ascot R4                     | 3 Jonbon             |  2    |     10   |
+| :3rd_place_medal: | 2021-12-18 | ascot R4                     | 4 Knappers Hill      |  4    |    -10   |
 | :boom:            | 2021-12-16 | leicester R3                 | 8 Sholokjack         |  2.35 |     13.5 |
 | 5                 | 2021-12-13 | rockhampton R1               | 4 Sweet Way's        |  3.2  |    -10   |
 | 99                | 2021-12-13 | southwell R6                 | 6 Hob House          |  0    |    -10   |
@@ -230,8 +233,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1                | 2 Haut En Couleurs   | 23    |    -10   |
 | :boom:            | 2021-03-19 | sunshine-coast R5            | 7 Karaka Lad         |  1.6  |      6   |
 | :3rd_place_medal: | 2021-03-18 | cheltenham R7                | 12 Elle Est Belle    | 19    |    -10   |
-| :3rd_place_medal: | 2021-03-14 | sandown R4                   | 18 Tweed Skirt       |  7.5  |    -10   |
 | 99                | 2021-03-14 | sandown R4                   | 9 Precious           | 26    |    -10   |
+| :3rd_place_medal: | 2021-03-14 | sandown R4                   | 18 Tweed Skirt       |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-03-12 | thurles R7                   | 3 Deploy The Getaway |  1.8  |    -10   |
 | 99                | 2021-03-08 | huntingdon R7                | 1 Quid Pro Quo       |  1.9  |    -10   |
 | 99                | 2021-02-28 | fairyhouse R8                | 5 Glengouly          |  2.25 |    -10   |
