@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-05-03 15:45:06 +1000  
+date: 2022-05-03 16:00:05 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 16:35             | 2022-05-03 | kembla-grange R6      | 3 Never Cry           |   3.25 |    -10   |
-| 15:55             | 2022-05-03 | kembla-grange R5      | 3 Desi Girl           |   5.5  |    -10   |
+| :boom:            | 2022-05-03 | kembla-grange R5      | 3 Desi Girl           |   4.9  |     39   |
 | 8                 | 2022-05-03 | kembla-grange R3      | 6 Cushy               |   7    |    -10   |
 | 4                 | 2022-05-03 | kembla-grange R2      | 5 Hellcent            |  10    |    -10   |
 | :boom:            | 2022-04-30 | hawkesbury R7         | 1 Mr Mozart           |   2.1  |     11   |
