@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-03 16:00:06 +1000  
+date: 2022-05-03 16:15:08 +1000  
 ---   
 
 
@@ -101,7 +101,7 @@ date: 2022-05-03 16:00:06 +1000
 | 21 | :soon:            | 2022-05-03 22:15:00 | lingfield     |      1 |        8 | London             |   4.2  | looseknot           |
 | 22 | :soon:            | 2022-05-03 22:15:00 | lingfield     |      1 |        1 | Amsby              |   6    | looseknot           |
 | 23 | :soon:            | 2022-05-03 21:45:00 | vaal          |      5 |        1 | Thumbs Up          |   0    | vulture             |
-| 24 | --                | 2022-05-03 15:55:00 | kembla-grange |      5 |       10 | Composite          |   7    | looseknot           |
+| 24 | 6.0               | 2022-05-03 15:55:00 | kembla-grange |      5 |       10 | Composite          |   7    | looseknot           |
 | 25 | :boom:            | 2022-05-03 15:55:00 | kembla-grange |      5 |        3 | Desi Girl          |   5.5  | pikey               |
 | 26 | :2nd_place_medal: | 2022-05-03 15:30:00 | warrnambool   |      8 |        1 | Heart Of Puissance |   2.7  | vulture             |
 | 27 | 8.0               | 2022-05-03 14:45:00 | kembla-grange |      3 |        6 | Cushy              |   7    | pikey               |
