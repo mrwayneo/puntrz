@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-05-03 22:46:41 +1000  
+date: 2022-05-04 06:11:44 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      1 |      660 | 0.2  | 13.2  |
+| Last 7 Days    |      6 |      1 |      650 | 0.17 | 10.83 |
 | Last 28 Days   |     10 |      1 |      610 | 0.1  |  6.1  |
-| Last 6 Months  |     73 |      7 |      726 | 0.1  |  0.99 |
-| Since Jan 2020 |    258 |     44 |     5299 | 0.17 |  2.05 |
+| Last 6 Months  |     74 |      7 |      716 | 0.09 |  0.97 |
+| Since Jan 2020 |    259 |     44 |     5289 | 0.17 |  2.04 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 00:50             | 2022-05-04 | ayr R4                 | 6 Chanting Hill       |  10   |      -10 |
+| 0                 | 2022-05-04 | ayr R4                 | 6 Chanting Hill       |   0   |      -10 |
 | :3rd_place_medal: | 2022-05-01 | alice-springs R2       | 3 Mathematics         |  20   |      -10 |
 | :boom:            | 2022-04-30 | thirsk R3              | 5 Redarna             |  71   |      700 |
 | 6                 | 2022-04-30 | te-rapa R8             | 6 Flat Track Bully    |  21   |      -10 |
@@ -166,8 +166,8 @@ categories: None
 | :2nd_place_medal: | 2021-07-09 | carlisle R8            | 3 Zeimaam             |  11   |      -10 |
 | 7                 | 2021-07-07 | bordertown R6          | 10 Humpback           |  19   |      -10 |
 | 9                 | 2021-07-07 | grafton R1             | 5 Astralis            |  15   |      -10 |
-| :boom:            | 2021-07-04 | haydock R4             | 3 Alounak             |  19.2 |      182 |
 | :3rd_place_medal: | 2021-07-04 | haydock R4             | 9 My Frankel          |  15   |      -10 |
+| :boom:            | 2021-07-04 | haydock R4             | 3 Alounak             |  19.2 |      182 |
 | :boom:            | 2021-07-03 | darwin R6              | 7 La Trioli           |   9.6 |       86 |
 | :boom:            | 2021-07-02 | newbury R4             | 9 In The Breeze       |  10   |       90 |
 | :2nd_place_medal: | 2021-07-01 | thirsk R7              | 12 Dylan's Lad        |  11   |      -10 |
