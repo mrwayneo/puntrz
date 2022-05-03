@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-03 15:11:21 +1000  
+date: 2022-05-03 15:45:07 +1000  
 ---   
 
 
@@ -103,7 +103,7 @@ date: 2022-05-03 15:11:21 +1000
 | 23 | :soon:            | 2022-05-03 21:45:00 | vaal          |      5 |        1 | Thumbs Up          |   0    | vulture             |
 | 24 | :soon:            | 2022-05-03 15:55:00 | kembla-grange |      5 |       10 | Composite          |   7    | looseknot           |
 | 25 | :soon:            | 2022-05-03 15:55:00 | kembla-grange |      5 |        3 | Desi Girl          |   5.5  | pikey               |
-| 26 | :soon:            | 2022-05-03 15:30:00 | warrnambool   |      8 |        1 | Heart Of Puissance |   2.7  | vulture             |
+| 26 | :2nd_place_medal: | 2022-05-03 15:30:00 | warrnambool   |      8 |        1 | Heart Of Puissance |   2.7  | vulture             |
 | 27 | 8.0               | 2022-05-03 14:45:00 | kembla-grange |      3 |        6 | Cushy              |   7    | pikey               |
 | 28 | 5.0               | 2022-05-03 14:20:00 | warrnambool   |      6 |        1 | Bit of a Lad       |   5.5  | pangea,blackshadow  |
 | 29 | :3rd_place_medal: | 2022-05-03 14:17:00 | warwick       |      4 |        5 | Laurie             |   9    | pangea              |
