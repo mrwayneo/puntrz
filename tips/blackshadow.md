@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-05-04 10:22:08 +1000  
+date: 2022-05-04 10:37:03 +1000  
 categories: None 
 ---   
 
@@ -48,8 +48,8 @@ categories: None
 | 0                 | 2022-04-15 | newcastle R3                  | 1 Bouttemont          |  0    |    -10   |
 | :boom:            | 2022-04-15 | launceston R8                 | 5 Eighty Eight Days   |  2.6  |     16   |
 | 0                 | 2022-04-07 | darwin R4                     | 2 Chief Mondo         |  0    |    -10   |
-| 0                 | 2022-04-07 | darwin R2                     | 5 Blueant             |  0    |    -10   |
 | 0                 | 2022-04-07 | darwin R2                     | 4 Obligatory          |  0    |    -10   |
+| 0                 | 2022-04-07 | darwin R2                     | 5 Blueant             |  0    |    -10   |
 | 0                 | 2022-04-07 | darwin R1                     | 2 No Strings          |  0    |    -10   |
 | 0                 | 2022-04-06 | launceston R7                 | 7 Imagine Howe        |  0    |    -10   |
 | 0                 | 2022-04-06 | launceston R5                 | 6 Our Shinkansen      |  0    |    -10   |
@@ -58,10 +58,10 @@ categories: None
 | :2nd_place_medal: | 2022-03-28 | carlisle R2                   | 3 Armattiekan         |  5    |    -10   |
 | 5                 | 2022-03-25 | moonee-valley R4              | 2 Quantum Mechanic    |  8.5  |    -10   |
 | 5                 | 2022-03-25 | moonee-valley R3              | 1 Bello Beau          |  3.75 |    -10   |
-| 9                 | 2022-03-22 | rockhampton R7                | 10 The Crown          | 16    |    -10   |
-| :3rd_place_medal: | 2022-03-22 | rockhampton R7                | 5 In Order            |  2.88 |    -10   |
 | :boom:            | 2022-03-22 | rockhampton R7                | 4 Dark Archer         |  5.7  |     47   |
 | :2nd_place_medal: | 2022-03-22 | rockhampton R7                | 2 Brigalow Boy        |  3    |    -10   |
+| :3rd_place_medal: | 2022-03-22 | rockhampton R7                | 5 In Order            |  2.88 |    -10   |
+| 9                 | 2022-03-22 | rockhampton R7                | 10 The Crown          | 16    |    -10   |
 | 7                 | 2022-03-22 | rockhampton R5                | 1 Barachiel           | 19    |    -10   |
 | 6                 | 2022-03-22 | beaumont R5                   | 4 Five Crowns         |  2.25 |    -10   |
 | :3rd_place_medal: | 2022-03-20 | pinjarra R8                   | 9 Queenship           | 10    |    -10   |
@@ -238,8 +238,8 @@ categories: None
 | :boom:            | 2021-12-12 | sha-tin R8                    | 12 Loves Only You     |  2.55 |     15.5 |
 | 5                 | 2021-12-12 | sha-tin R7                    | 3 Indy Champ          |  0    |    -10   |
 | 8                 | 2021-12-12 | sha-tin R5                    | 3 Danon Smash         |  0    |    -10   |
-| :boom:            | 2021-12-12 | sha-tin R4                    | 2 Glory Vase          |  1.8  |      8   |
 | :2nd_place_medal: | 2021-12-12 | sha-tin R4                    | 1 Pyledriver          |  4.8  |    -10   |
+| :boom:            | 2021-12-12 | sha-tin R4                    | 2 Glory Vase          |  1.8  |      8   |
 | 5                 | 2021-12-11 | ascot R8                      | 13 Pure Devotion      |  2.7  |    -10   |
 | :3rd_place_medal: | 2021-12-11 | ascot R8                      | 14 Stafford's Lad     | 14    |    -10   |
 | 6                 | 2021-12-11 | ascot R6                      | 5 New Amsterdam       |  9.5  |    -10   |
@@ -266,8 +266,8 @@ categories: None
 | :boom:            | 2021-12-04 | gold-coast R7                 | 1 Weona Smartone      |  1.2  |      2   |
 | :boom:            | 2021-12-04 | doomben R7                    | 5 Tambo's Mate        |  3.5  |     25   |
 | :2nd_place_medal: | 2021-12-04 | rockhampton R5                | 9 Scoria Star         |  3.9  |    -10   |
-| :2nd_place_medal: | 2021-12-03 | devonport-synthetic R5        | 1 Balearic            |  8    |    -10   |
 | 4                 | 2021-12-03 | devonport-synthetic R5        | 2 Sh'bourne Renegade  |  4.8  |    -10   |
+| :2nd_place_medal: | 2021-12-03 | devonport-synthetic R5        | 1 Balearic            |  8    |    -10   |
 | :3rd_place_medal: | 2021-12-03 | devonport-synthetic R3        | 7 Red Letter Lady     |  2.5  |    -10   |
 | 99                | 2021-12-03 | wincanton R5                  | 2 Tulin               |  0    |    -10   |
 | 4                 | 2021-12-01 | belmont R9                    | 7 Agent Kensington    |  8.5  |    -10   |
@@ -918,8 +918,8 @@ categories: None
 | :2nd_place_medal: | 2020-10-09 | cloncurry R4                  | 1 Lord Windermere     |  6.6  |    -10   |
 | 4                 | 2020-10-09 | cloncurry R2                  | 1 Dark Archer         |  7.5  |    -10   |
 | 9                 | 2020-10-08 | rockhampton R5                | 6 Niatross            |  9.5  |    -10   |
-| :2nd_place_medal: | 2020-10-07 | ipswich R5                    | 3 Mccovey Cove        |  2.1  |    -10   |
 | 4                 | 2020-10-07 | ipswich R5                    | 6 Pull Anchor         |  4.05 |    -10   |
+| :2nd_place_medal: | 2020-10-07 | ipswich R5                    | 3 Mccovey Cove        |  2.1  |    -10   |
 | 9                 | 2020-10-07 | warwick-farm R6               | 5 Money Magic         |  7    |    -10   |
 | 8                 | 2020-10-07 | warwick-farm R3               | 5 Deniki              |  2.8  |    -10   |
 | :3rd_place_medal: | 2020-10-06 | orange R1                     | 1 Lucky Elixir        |  2.4  |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-05-04 10:22:14 +1000  
+date: 2022-05-04 10:37:10 +1000  
 categories: None 
 ---   
 
@@ -101,8 +101,8 @@ categories: None
 | :boom:            | 2021-12-26 | wetherby R2                  | 4 Galia Des Liteaux  |  3.3  |     23   |
 | 99                | 2021-12-18 | navan R2                     | 15 Belle Metal       |  0    |    -10   |
 | :boom:            | 2021-12-18 | ascot R6                     | 7 Henri The Second   |  4.4  |     34   |
-| :boom:            | 2021-12-18 | ascot R4                     | 3 Jonbon             |  2    |     10   |
 | :3rd_place_medal: | 2021-12-18 | ascot R4                     | 4 Knappers Hill      |  4    |    -10   |
+| :boom:            | 2021-12-18 | ascot R4                     | 3 Jonbon             |  2    |     10   |
 | :boom:            | 2021-12-16 | leicester R3                 | 8 Sholokjack         |  2.35 |     13.5 |
 | 5                 | 2021-12-13 | rockhampton R1               | 4 Sweet Way's        |  3.2  |    -10   |
 | 99                | 2021-12-13 | southwell R6                 | 6 Hob House          |  0    |    -10   |
@@ -233,8 +233,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1                | 2 Haut En Couleurs   | 23    |    -10   |
 | :boom:            | 2021-03-19 | sunshine-coast R5            | 7 Karaka Lad         |  1.6  |      6   |
 | :3rd_place_medal: | 2021-03-18 | cheltenham R7                | 12 Elle Est Belle    | 19    |    -10   |
-| 99                | 2021-03-14 | sandown R4                   | 9 Precious           | 26    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | sandown R4                   | 18 Tweed Skirt       |  7.5  |    -10   |
+| 99                | 2021-03-14 | sandown R4                   | 9 Precious           | 26    |    -10   |
 | :2nd_place_medal: | 2021-03-12 | thurles R7                   | 3 Deploy The Getaway |  1.8  |    -10   |
 | 99                | 2021-03-08 | huntingdon R7                | 1 Quid Pro Quo       |  1.9  |    -10   |
 | 99                | 2021-02-28 | fairyhouse R8                | 5 Glengouly          |  2.25 |    -10   |
