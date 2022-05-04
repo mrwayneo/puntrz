@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-05-04 13:52:21 +1000  
+date: 2022-05-04 14:07:11 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 15:10             | 2022-05-04 | canterbury R5        | 10 Yggdrasil         |  4.75 |    -10   |
 | 14:35             | 2022-05-04 | canterbury R4        | 6 Barrichello        |  6    |    -10   |
-| 13:55             | 2022-05-04 | canterbury R3        | 1 Brechen            |  6    |    -10   |
+| 0                 | 2022-05-04 | canterbury R3        | 1 Brechen            |  0    |    -10   |
 | :2nd_place_medal: | 2022-04-30 | hawkesbury R1        | 3 Basquiat           |  3.1  |    -10   |
 | 5                 | 2022-04-25 | kensington R7        | 7 Nest Egg           |  6.5  |    -10   |
 | 4                 | 2022-04-25 | kensington R6        | 6 Sound Of Cannons   |  2.5  |    -10   |

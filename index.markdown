@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-04 13:52:22 +1000  
+date: 2022-05-04 14:07:13 +1000  
 ---   
 
 
@@ -9,6 +9,7 @@ date: 2022-05-04 13:52:22 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      3 |      1 |       17 | 0.33 |  0.57 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 | 0    | -1    |
@@ -16,7 +17,6 @@ date: 2022-05-04 13:52:22 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      3 |      0 |      -30 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      3 |      0 |      -30 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      3 |      0 |      -30 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      0 |      -50 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      5 |      0 |      -50 | 0    | -1    |
@@ -134,10 +134,10 @@ date: 2022-05-04 13:52:22 +1000
 | 49 | :soon:   | 2022-05-04 14:35:00 | canterbury   |      4 |        1 | Vigorous Flow      |  12    | vulture              |
 | 50 | :soon:   | 2022-05-04 14:35:00 | canterbury   |      4 |       10 | Kopangi            |  61    | cosmo,pikey          |
 | 51 | :soon:   | 2022-05-04 14:05:00 | warrnambool  |      6 |        1 | Saunter Boy        |   2.25 | evenodds,blackshadow |
-| 52 | :soon:   | 2022-05-04 14:05:00 | warrnambool  |      6 |        3 | Big Blue           |   7    | pangea,icyhot        |
-| 53 | :soon:   | 2022-05-04 13:55:00 | canterbury   |      3 |       10 | Marooniyah         |   5.5  | pikey                |
-| 54 | :soon:   | 2022-05-04 13:55:00 | canterbury   |      3 |        1 | Brechen            |   6    | jmac                 |
-| 55 | :soon:   | 2022-05-04 13:55:00 | canterbury   |      3 |        4 | Celtic Harp        |   8    | looseknot            |
+| 52 | --       | 2022-05-04 14:05:00 | warrnambool  |      6 |        3 | Big Blue           |   7    | pangea,icyhot        |
+| 53 | :boom:   | 2022-05-04 13:55:00 | canterbury   |      3 |       10 | Marooniyah         |   5.5  | pikey                |
+| 54 | --       | 2022-05-04 13:55:00 | canterbury   |      3 |        1 | Brechen            |   6    | jmac                 |
+| 55 | --       | 2022-05-04 13:55:00 | canterbury   |      3 |        4 | Celtic Harp        |   8    | looseknot            |
 | 56 | --       | 2022-05-04 13:30:00 | warrnambool  |      5 |        7 | Pierian Spring     |  41    | overthrow            |
 | 57 | 5.0      | 2022-05-04 13:30:00 | warrnambool  |      5 |        1 | Runaway            |   2.2  | overthrow            |
 | 58 | :boom:   | 2022-05-04 12:28:00 | eagle-farm   |      1 |        1 | Enjouee            |   2.05 | vulture              |

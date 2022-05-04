@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-05-04 13:52:21 +1000  
+date: 2022-05-04 14:07:12 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 15:50             | 2022-05-04 | canterbury R6         | 6 Billiondollarbaby   |   3.1  |    -10   |
 | 14:35             | 2022-05-04 | canterbury R4         | 10 Kopangi            |  61    |    -10   |
-| 13:55             | 2022-05-04 | canterbury R3         | 10 Marooniyah         |   5.5  |    -10   |
+| :boom:            | 2022-05-04 | canterbury R3         | 10 Marooniyah         |   4.7  |     37   |
 | 9                 | 2022-05-03 | kembla-grange R6      | 3 Never Cry           |   3.25 |    -10   |
 | :boom:            | 2022-05-03 | kembla-grange R5      | 3 Desi Girl           |   4.9  |     39   |
 | 8                 | 2022-05-03 | kembla-grange R3      | 6 Cushy               |   7    |    -10   |
