@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-04 13:22:17 +1000  
+date: 2022-05-04 13:37:23 +1000  
 ---   
 
 
@@ -24,8 +24,8 @@ date: 2022-05-04 13:22:17 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     15 |      0 |     -150 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     15 |      0 |     -150 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     21 |      2 |     -167 | 0.1  | -0.8  |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     40 |      1 |     -181 | 0.02 | -0.45 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      1 |     -184 | 0.05 | -0.92 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     40 |      0 |     -400 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     54 |      1 |     -524 | 0.02 | -0.97 |
 
 ##### Form Last 20 tips   
@@ -138,7 +138,7 @@ date: 2022-05-04 13:22:17 +1000
 | 53 | :soon:   | 2022-05-04 13:55:00 | canterbury   |      3 |       10 | Marooniyah         |   5.5  | pikey                |
 | 54 | :soon:   | 2022-05-04 13:55:00 | canterbury   |      3 |        1 | Brechen            |   6    | jmac                 |
 | 55 | :soon:   | 2022-05-04 13:55:00 | canterbury   |      3 |        4 | Celtic Harp        |   8    | looseknot            |
-| 56 | :soon:   | 2022-05-04 13:30:00 | warrnambool  |      5 |        7 | Pierian Spring     |  41    | overthrow            |
-| 57 | :soon:   | 2022-05-04 13:30:00 | warrnambool  |      5 |        1 | Runaway            |   2.2  | overthrow            |
+| 56 | --       | 2022-05-04 13:30:00 | warrnambool  |      5 |        7 | Pierian Spring     |  41    | overthrow            |
+| 57 | --       | 2022-05-04 13:30:00 | warrnambool  |      5 |        1 | Runaway            |   2.2  | overthrow            |
 | 58 | :boom:   | 2022-05-04 12:28:00 | eagle-farm   |      1 |        1 | Enjouee            |   2.05 | vulture              |
 | 59 | :boom:   | 2022-05-04 11:20:00 | warrnambool  |      1 |        1 | Jamarra            |   2.7  | vulture              |
