@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-04 11:07:01 +1000  
+date: 2022-05-04 11:22:06 +1000  
 ---   
 
 
@@ -141,4 +141,4 @@ date: 2022-05-04 11:07:01 +1000
 | 56 | :soon:   | 2022-05-04 13:30:00 | warrnambool  |      5 |        7 | Pierian Spring     |  41    | overthrow            |
 | 57 | :soon:   | 2022-05-04 13:30:00 | warrnambool  |      5 |        1 | Runaway            |   2.2  | overthrow            |
 | 58 | :soon:   | 2022-05-04 12:28:00 | eagle-farm   |      1 |        1 | Enjouee            |   2.05 | vulture              |
-| 59 | :soon:   | 2022-05-04 11:20:00 | warrnambool  |      1 |        1 | Jamarra            |   2.7  | vulture              |
+| 59 | --       | 2022-05-04 11:20:00 | warrnambool  |      1 |        1 | Jamarra            |   2.7  | vulture              |
