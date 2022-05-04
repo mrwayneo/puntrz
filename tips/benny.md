@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-05-04 10:52:01 +1000  
+date: 2022-05-04 11:06:51 +1000  
 categories: None 
 ---   
 
@@ -609,8 +609,8 @@ categories: None
 | :boom:            | 2021-05-29 | darwin R1                     | 7 The Auditor         | 12.5  |    115   |
 | :boom:            | 2021-05-29 | belmont R2                    | 6 Graceful Girl       |  2.6  |     16   |
 | 7                 | 2021-05-29 | eagle-farm R5                 | 2 Le Don De Vie       |  3.6  |    -10   |
-| :2nd_place_medal: | 2021-05-29 | eagle-farm R3                 | 9 Ayrton              |  1.6  |    -10   |
 | 11                | 2021-05-29 | eagle-farm R3                 | 10 Not an Option      | 26    |    -10   |
+| :2nd_place_medal: | 2021-05-29 | eagle-farm R3                 | 9 Ayrton              |  1.6  |    -10   |
 | 8                 | 2021-05-29 | eagle-farm R2                 | 14 Beachbreak         | 11    |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R7             | 5 Queen Dazzler       |  3.4  |    -10   |
 | :2nd_place_medal: | 2021-05-27 | northam R9                    | 7 Brave Dream         |  5.1  |    -10   |
@@ -677,8 +677,8 @@ categories: None
 | :3rd_place_medal: | 2021-04-25 | devonport-synthetic R6        | 4 Rhyme Writer        |  4.8  |    -10   |
 | 5                 | 2021-04-25 | alice-springs R1              | 4 Dataset             |  6.5  |    -10   |
 | :2nd_place_medal: | 2021-04-25 | awapuni R1                    | 2 Maison Roxanne      |  2.4  |    -10   |
-| 5                 | 2021-04-24 | darwin R4                     | 4 Trebla              | 14    |    -10   |
 | :2nd_place_medal: | 2021-04-24 | darwin R4                     | 1 Patria              |  2.8  |    -10   |
+| 5                 | 2021-04-24 | darwin R4                     | 4 Trebla              | 14    |    -10   |
 | 4                 | 2021-04-24 | darwin R2                     | 2 Paseeto             |  6    |    -10   |
 | 5                 | 2021-04-24 | morphettville-parks R7        | 9 Renegade            | 14    |    -10   |
 | 4                 | 2021-04-24 | doomben R6                    | 2 Good Soize          |  6.6  |    -10   |
