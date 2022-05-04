@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-05-04 21:50:55 +1000  
+date: 2022-05-05 09:26:05 +1000  
 categories: None 
 ---   
 
@@ -9,13 +9,13 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
-| Last 28 Days   |     11 |      0 |   -110   | 0    | -1    |
-| Last 6 Months  |     86 |      5 |   -428   | 0.06 | -0.5  |
-| Since Jan 2020 |    272 |     42 |   3427.5 | 0.15 |  1.26 |
+| Last 28 Days   |     12 |      0 |   -120   | 0    | -1    |
+| Last 6 Months  |     87 |      5 |   -438   | 0.06 | -0.5  |
+| Since Jan 2020 |    273 |     42 |   3417.5 | 0.15 |  1.25 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 23:40             | 2022-05-04 | chester R3                    | 3 Improvise           |  20    |    -10   |
+| 0                 | 2022-05-04 | chester R3                    | 3 Improvise           |   0    |    -10   |
 | 6                 | 2022-05-02 | ipswich R3                    | 9 Better Strings      |  13    |    -10   |
 | 0                 | 2022-05-02 | newmarket R5                  | 8 Mise En Scene       |   0    |    -10   |
 | 0                 | 2022-05-01 | punchestown R7                | 10 Read To Return     |   0    |    -10   |

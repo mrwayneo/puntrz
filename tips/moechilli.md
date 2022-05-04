@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-05-04 21:50:50 +1000  
+date: 2022-05-05 09:25:59 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      2 |     15   | 0.5  |  0.38 |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
 | Last 28 Days   |     10 |      3 |    -26   | 0.3  | -0.26 |
-| Last 6 Months  |     49 |     10 |   -124.3 | 0.2  | -0.25 |
-| Since Jan 2020 |    132 |     38 |    768.6 | 0.29 |  0.58 |
+| Last 6 Months  |     50 |     10 |   -134.3 | 0.2  | -0.27 |
+| Since Jan 2020 |    133 |     38 |    758.6 | 0.29 |  0.57 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 02:00             | 2022-05-05 | fontwell R1            | 3 Coal Stock         |   2.5  |    -10   |
+| 0                 | 2022-05-05 | fontwell R1            | 3 Coal Stock         |   0    |    -10   |
 | 4                 | 2022-05-04 | fakenham R6            | 2 General Arrow      |   3    |    -10   |
 | :2nd_place_medal: | 2022-04-30 | cheltenham R3          | 6 Moratorium         |   2.8  |    -10   |
 | :boom:            | 2022-04-30 | cheltenham R1          | 3 Envoye Special     |   2.8  |     18   |

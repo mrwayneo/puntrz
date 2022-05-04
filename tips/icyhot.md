@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-05-04 21:50:49 +1000  
+date: 2022-05-05 09:25:58 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      8 |      1 |    -58   | 0.12 | -0.72 |
+| Last 7 Days    |      9 |      0 |    -90   | 0    | -1    |
 | Last 28 Days   |     21 |      3 |   -144   | 0.14 | -0.69 |
-| Last 6 Months  |    205 |     58 |   -726.5 | 0.28 | -0.35 |
-| Since Jan 2020 |    604 |    193 |   -720.6 | 0.32 | -0.12 |
+| Last 6 Months  |    207 |     58 |   -746.5 | 0.28 | -0.36 |
+| Since Jan 2020 |    606 |    193 |   -740.6 | 0.32 | -0.12 |
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
-| 22:55             | 2022-05-04 | kenilworth R6                | 3 Marina              |  0    |    -10   |
+| 0                 | 2022-05-04 | kenilworth R6                | 3 Marina              |  0    |    -10   |
 | 0                 | 2022-05-04 | warrnambool R6               | 3 Big Blue            |  0    |    -10   |
 | :3rd_place_medal: | 2022-05-01 | scottsville R3               | 7 Shampompo Shampizi  |  0    |    -10   |
 | :2nd_place_medal: | 2022-05-01 | alice-springs R9             | 1 I Am the Fox        |  3.4  |    -10   |

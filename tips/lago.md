@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-05-04 21:50:55 +1000  
+date: 2022-05-05 09:26:05 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      1 |    -19   | 0.25 | -0.48 |
-| Last 28 Days   |     12 |      5 |    -17.4 | 0.42 | -0.14 |
-| Last 6 Months  |    117 |     49 |    -32.6 | 0.42 | -0.03 |
-| Since Jan 2020 |    256 |    124 |   1433.3 | 0.48 |  0.56 |
+| Last 7 Days    |      6 |      1 |    -39   | 0.17 | -0.65 |
+| Last 28 Days   |     15 |      5 |    -47.4 | 0.33 | -0.32 |
+| Last 6 Months  |    120 |     49 |    -62.6 | 0.41 | -0.05 |
+| Since Jan 2020 |    259 |    124 |   1403.3 | 0.48 |  0.54 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 00:10             | 2022-05-05 | chester R4                   | 4 New London         |  1.28 |    -10   |
-| 23:40             | 2022-05-04 | chester R3                   | 7 Night Battle       |  4    |    -10   |
+| 0                 | 2022-05-05 | chester R4                   | 4 New London         |  0    |    -10   |
+| 0                 | 2022-05-04 | chester R3                   | 7 Night Battle       |  0    |    -10   |
 | 0                 | 2022-05-04 | ascot R1                     | 4 Alsephina          |  0    |    -10   |
 | :boom:            | 2022-05-01 | newmarket R7                 | 4 King Of Time       |  2.1  |     11   |
 | :2nd_place_medal: | 2022-05-01 | newmarket R5                 | 10 Native Trail      |  2.15 |    -10   |

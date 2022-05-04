@@ -1,20 +1,24 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-05-04 21:50:55 +1000  
+date: 2022-05-05 09:26:04 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |     11 |      4 |     -7   | 0.36 | -0.06 |
-| Last 6 Months  |    219 |     49 |   -606   | 0.22 | -0.28 |
-| Since Jan 2020 |    735 |    180 |   -653.5 | 0.24 | -0.09 |
+| Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
+| Last 28 Days   |     14 |      4 |    -37   | 0.29 | -0.26 |
+| Last 6 Months  |    222 |     49 |   -636   | 0.22 | -0.29 |
+| Since Jan 2020 |    738 |    180 |   -683.5 | 0.24 | -0.09 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 16:40             | 2022-05-05 | hawkesbury R8        | 1 Camaguey           |  3.8  |    -10   |
+| 14:45             | 2022-05-05 | hawkesbury R5        | 8 Adorable Miss      |  4.4  |    -10   |
+| 13:25             | 2022-05-05 | hawkesbury R3        | 4 Vaneto             |  2.15 |    -10   |
+| 12:10             | 2022-05-05 | hawkesbury R1        | 1 Down Every Road    | 22    |    -10   |
 | 0                 | 2022-05-04 | canterbury R5        | 10 Yggdrasil         |  0    |    -10   |
 | 0                 | 2022-05-04 | canterbury R4        | 6 Barrichello        |  0    |    -10   |
 | 9                 | 2022-05-04 | canterbury R3        | 1 Brechen            |  6    |    -10   |
