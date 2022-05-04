@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-04 13:37:23 +1000  
+date: 2022-05-04 13:52:22 +1000  
 ---   
 
 
@@ -139,6 +139,6 @@ date: 2022-05-04 13:37:23 +1000
 | 54 | :soon:   | 2022-05-04 13:55:00 | canterbury   |      3 |        1 | Brechen            |   6    | jmac                 |
 | 55 | :soon:   | 2022-05-04 13:55:00 | canterbury   |      3 |        4 | Celtic Harp        |   8    | looseknot            |
 | 56 | --       | 2022-05-04 13:30:00 | warrnambool  |      5 |        7 | Pierian Spring     |  41    | overthrow            |
-| 57 | --       | 2022-05-04 13:30:00 | warrnambool  |      5 |        1 | Runaway            |   2.2  | overthrow            |
+| 57 | 5.0      | 2022-05-04 13:30:00 | warrnambool  |      5 |        1 | Runaway            |   2.2  | overthrow            |
 | 58 | :boom:   | 2022-05-04 12:28:00 | eagle-farm   |      1 |        1 | Enjouee            |   2.05 | vulture              |
 | 59 | :boom:   | 2022-05-04 11:20:00 | warrnambool  |      1 |        1 | Jamarra            |   2.7  | vulture              |
