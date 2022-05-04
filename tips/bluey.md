@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-05-04 14:07:12 +1000  
+date: 2022-05-04 19:50:32 +1000  
 categories: None 
 ---   
 
@@ -15,8 +15,8 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 15:10             | 2022-05-04 | canterbury R5          | 12 Champions League   |  17   |      -10 |
-| 15:00             | 2022-05-04 | murray-bdge R5         | 8 Cassowary           |  12   |      -10 |
+| 0                 | 2022-05-04 | canterbury R5          | 12 Champions League   |   0   |      -10 |
+| 0                 | 2022-05-04 | murray-bdge R5         | 8 Cassowary           |   0   |      -10 |
 | 0                 | 2022-05-04 | ayr R4                 | 6 Chanting Hill       |   0   |      -10 |
 | :3rd_place_medal: | 2022-05-01 | alice-springs R2       | 3 Mathematics         |  20   |      -10 |
 | :boom:            | 2022-04-30 | thirsk R3              | 5 Redarna             |  71   |      700 |
