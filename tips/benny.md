@@ -1,20 +1,22 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-05-05 21:05:09 +1000  
+date: 2022-05-06 09:01:16 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     12 |      2 |    112   | 0.17 |  0.93 |
+| Last 7 Days    |      7 |      1 |    141   | 0.14 |  2.01 |
 | Last 28 Days   |     27 |      6 |    343   | 0.22 |  1.27 |
 | Last 6 Months  |    296 |     53 |   -611   | 0.18 | -0.21 |
 | Since Jan 2020 |    972 |    201 |   -836.5 | 0.21 | -0.09 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 13:57             | 2022-05-06 | townsville R6                 | 3 City Smart          |  8    |    -10   |
+| 12:07             | 2022-05-06 | townsville R3                 | 2 Verbalizer          |  2.45 |    -10   |
 | 0                 | 2022-05-04 | ascot R1                      | 5 Foxy Son            |  0    |    -10   |
 | 0                 | 2022-05-04 | canterbury R4                 | 6 Barrichello         |  0    |    -10   |
 | 5                 | 2022-05-02 | ipswich R1                    | 7 Sheezasinga         |  3.9  |    -10   |
@@ -123,8 +125,8 @@ categories: None
 | :2nd_place_medal: | 2022-02-19 | alice-springs R3              | 2 Valley Prince       |  1.6  |    -10   |
 | 4                 | 2022-02-19 | ascot R3                      | 5 Snippy Miss         |  7    |    -10   |
 | :2nd_place_medal: | 2022-02-19 | flemington R7                 | 1 Nature Strip        |  2.5  |    -10   |
-| 5                 | 2022-02-19 | ascot R2                      | 7 Real Danger         |  5.5  |    -10   |
 | :3rd_place_medal: | 2022-02-19 | ascot R2                      | 6 State Of Power      |  6    |    -10   |
+| 5                 | 2022-02-19 | ascot R2                      | 7 Real Danger         |  5.5  |    -10   |
 | 7                 | 2022-02-19 | rosehill-gardens R7           | 1 Entente             |  7    |    -10   |
 | :3rd_place_medal: | 2022-02-19 | gosford R4                    | 1 O'tartan Lass       |  8    |    -10   |
 | :3rd_place_medal: | 2022-02-19 | ascot-park R3                 | 1 He's Got Power      |  7    |    -10   |
@@ -609,8 +611,8 @@ categories: None
 | :boom:            | 2021-05-29 | darwin R1                     | 7 The Auditor         | 12.5  |    115   |
 | :boom:            | 2021-05-29 | belmont R2                    | 6 Graceful Girl       |  2.6  |     16   |
 | 7                 | 2021-05-29 | eagle-farm R5                 | 2 Le Don De Vie       |  3.6  |    -10   |
-| 11                | 2021-05-29 | eagle-farm R3                 | 10 Not an Option      | 26    |    -10   |
 | :2nd_place_medal: | 2021-05-29 | eagle-farm R3                 | 9 Ayrton              |  1.6  |    -10   |
+| 11                | 2021-05-29 | eagle-farm R3                 | 10 Not an Option      | 26    |    -10   |
 | 8                 | 2021-05-29 | eagle-farm R2                 | 14 Beachbreak         | 11    |    -10   |
 | 5                 | 2021-05-28 | sunshine-coast R7             | 5 Queen Dazzler       |  3.4  |    -10   |
 | :2nd_place_medal: | 2021-05-27 | northam R9                    | 7 Brave Dream         |  5.1  |    -10   |
