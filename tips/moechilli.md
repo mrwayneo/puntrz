@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-05-06 13:18:11 +1000  
+date: 2022-05-06 19:30:27 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 14:34             | 2022-05-06 | townsville R7          | 7 Lord Of Light      |   3.7  |    -10   |
+| 0                 | 2022-05-06 | townsville R7          | 7 Lord Of Light      |   0    |    -10   |
 | 0                 | 2022-05-05 | fontwell R1            | 3 Coal Stock         |   0    |    -10   |
 | 4                 | 2022-05-04 | fakenham R6            | 2 General Arrow      |   3    |    -10   |
 | :2nd_place_medal: | 2022-04-30 | cheltenham R3          | 6 Moratorium         |   2.8  |    -10   |
