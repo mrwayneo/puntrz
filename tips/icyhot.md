@@ -1,21 +1,26 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-05-06 22:13:02 +1000  
+date: 2022-05-07 14:57:58 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
-| Last 28 Days   |     21 |      3 |   -144   | 0.14 | -0.69 |
-| Last 6 Months  |    207 |     58 |   -746.5 | 0.28 | -0.36 |
-| Since Jan 2020 |    606 |    193 |   -740.6 | 0.32 | -0.12 |
+| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
+| Last 28 Days   |     22 |      3 |   -154   | 0.14 | -0.7  |
+| Last 6 Months  |    208 |     58 |   -756.5 | 0.28 | -0.36 |
+| Since Jan 2020 |    607 |    193 |   -750.6 | 0.32 | -0.12 |
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
-| 22:50             | 2022-05-06 | market-rasen R2              | 4 Mr Mafia            | 11    |    -10   |
+| 16:34             | 2022-05-07 | darwin R2                    | 2 Manly Cove          |  5.5  |    -10   |
+| 16:32             | 2022-05-07 | morphettville R8             | 4 Bella Vella         | 16    |    -10   |
+| 15:52             | 2022-05-07 | morphettville R7             | 4 Beau Rossa          |  4.6  |    -10   |
+| 15:26             | 2022-05-07 | rockhampton R6               | 3 Patrolling          |  2.1  |    -10   |
+| 15:20             | 2022-05-07 | ascot R3                     | 4 Tiffany Street      |  1.75 |    -10   |
+| 0                 | 2022-05-06 | market-rasen R2              | 4 Mr Mafia            |  0    |    -10   |
 | 0                 | 2022-05-04 | kenilworth R6                | 3 Marina              |  0    |    -10   |
 | 0                 | 2022-05-04 | warrnambool R6               | 3 Big Blue            |  0    |    -10   |
 | :3rd_place_medal: | 2022-05-01 | scottsville R3               | 7 Shampompo Shampizi  |  0    |    -10   |
@@ -181,8 +186,8 @@ categories: None
 | :boom:            | 2021-12-04 | darwin R4                    | 3 Bel's Banner        |  2.6  |     16   |
 | :boom:            | 2021-12-04 | gold-coast R7                | 1 Weona Smartone      |  1.2  |      2   |
 | 5                 | 2021-12-04 | doomben R7                   | 3 The Harrovian       |  3.9  |    -10   |
-| :3rd_place_medal: | 2021-12-03 | devonport-synthetic R3       | 7 Red Letter Lady     |  2.5  |    -10   |
 | 6                 | 2021-12-03 | devonport-synthetic R3       | 8 Sirene Stryker      |  3.8  |    -10   |
+| :3rd_place_medal: | 2021-12-03 | devonport-synthetic R3       | 7 Red Letter Lady     |  2.5  |    -10   |
 | :3rd_place_medal: | 2021-11-30 | turffontein R6               | 5 Aragosta            |  6    |    -10   |
 | :3rd_place_medal: | 2021-11-27 | turffontein R6               | 5 Aragosta            |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-27 | morphettville R8             | 8 Rock The Ring       |  2.7  |    -10   |
@@ -422,8 +427,8 @@ categories: None
 | 99                | 2021-04-24 | ellerslie R8                 | 5 Markus Aurelius     |  2.05 |    -10   |
 | :3rd_place_medal: | 2021-04-24 | doomben R5                   | 7 Walking Flying      |  3.25 |    -10   |
 | 4                 | 2021-04-24 | doomben R2                   | 1 Humbolt Current     |  3.9  |    -10   |
-| 9                 | 2021-04-21 | ipswich R8                   | 2 Grand Zou           | 14    |    -10   |
 | 7                 | 2021-04-21 | ipswich R8                   | 3 Amicitia            |  7.5  |    -10   |
+| 9                 | 2021-04-21 | ipswich R8                   | 2 Grand Zou           | 14    |    -10   |
 | :boom:            | 2021-04-20 | epsom-downs R3               | 3 Victory Chime       |  9    |     80   |
 | 4                 | 2021-04-20 | mackay R4                    | 3 Moreno              |  3    |    -10   |
 | :2nd_place_medal: | 2021-04-20 | mackay R4                    | 7 Princess Rules      |  4.6  |    -10   |
@@ -644,8 +649,8 @@ categories: None
 | 6                 | 2020-01-25 | gawler R2                    | 4 Rose Tiara          | 18.2  |    -10   |
 | :2nd_place_medal: | 2020-01-25 | sunshine-coast R1            | 3 Ruby Guru           |  3.8  |    -10   |
 | :boom:            | 2020-01-22 | canterbury R5                | 2 Knowitall Jack      |  3.6  |     26   |
-| 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
 | :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
+| 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
 | 6                 | 2020-01-11 | pinjarra R8                  | 11 Midnight Sky       |  6.5  |    -10   |
 | :boom:            | 2020-01-11 | pinjarra R6                  | 12 Put A Spell On You |  5    |     40   |
 | :3rd_place_medal: | 2020-01-11 | kembla-grange R6             | 4 Superbowl Sunday    |  2.15 |    -10   |

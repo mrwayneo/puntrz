@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-05-06 22:13:07 +1000  
+date: 2022-05-07 14:58:04 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,10 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 15:33             | 2022-05-07 | gold-coast R8         | 13 Hungry Heart       |  17    |    -10   |
+| 0                 | 2022-05-07 | gold-coast R4         | 10 Sheeza Belter      |   0    |    -10   |
+| 0                 | 2022-05-07 | gold-coast R3         | 4 Le Baol             |   0    |    -10   |
+| 0                 | 2022-05-07 | gold-coast R2         | 5 Lyrical Girl        |   0    |    -10   |
 | 0                 | 2022-05-04 | canterbury R6         | 6 Billiondollarbaby   |   0    |    -10   |
 | 0                 | 2022-05-04 | canterbury R4         | 10 Kopangi            |   0    |    -10   |
 | :boom:            | 2022-05-04 | canterbury R3         | 10 Marooniyah         |   4.7  |     37   |

@@ -1,20 +1,22 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-05-06 22:13:03 +1000  
+date: 2022-05-07 14:57:59 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     10 |      3 |    -26   | 0.3  | -0.26 |
-| Last 6 Months  |     50 |     10 |   -134.3 | 0.2  | -0.27 |
-| Since Jan 2020 |    133 |     38 |    758.6 | 0.29 |  0.57 |
+| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
+| Last 28 Days   |     11 |      3 |    -36   | 0.27 | -0.33 |
+| Last 6 Months  |     51 |     10 |   -144.3 | 0.2  | -0.28 |
+| Since Jan 2020 |    134 |     38 |    748.6 | 0.28 |  0.56 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
+| 02:25             | 2022-05-08 | cork R7                | 15 Slip Jig          |   8.5  |    -10   |
+| 00:40             | 2022-05-08 | hexham R4              | 6 Tom Cody           |   7    |    -10   |
 | 0                 | 2022-05-06 | townsville R7          | 7 Lord Of Light      |   0    |    -10   |
 | 0                 | 2022-05-05 | fontwell R1            | 3 Coal Stock         |   0    |    -10   |
 | 4                 | 2022-05-04 | fakenham R6            | 2 General Arrow      |   3    |    -10   |

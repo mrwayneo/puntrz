@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-05-06 22:13:07 +1000  
+date: 2022-05-07 14:58:04 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,10 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 15:33             | 2022-05-07 | gold-coast R8        | 1 Zaaki              |  1.45 |    -10   |
+| 0                 | 2022-05-07 | gold-coast R5        | 6 April Rain         |  0    |    -10   |
+| 0                 | 2022-05-07 | gold-coast R4        | 7 West Of Africa     |  0    |    -10   |
+| 0                 | 2022-05-07 | gold-coast R2        | 2 Remlaps Gem        |  0    |    -10   |
 | 0                 | 2022-05-05 | hawkesbury R8        | 1 Camaguey           |  0    |    -10   |
 | 0                 | 2022-05-05 | hawkesbury R5        | 8 Adorable Miss      |  0    |    -10   |
 | 0                 | 2022-05-05 | hawkesbury R3        | 4 Vaneto             |  0    |    -10   |

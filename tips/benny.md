@@ -1,20 +1,25 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-05-06 22:12:59 +1000  
+date: 2022-05-07 14:57:55 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      7 |      1 |    141   | 0.14 |  2.01 |
-| Last 28 Days   |     27 |      6 |    343   | 0.22 |  1.27 |
-| Last 6 Months  |    296 |     53 |   -611   | 0.18 | -0.21 |
-| Since Jan 2020 |    972 |    201 |   -836.5 | 0.21 | -0.09 |
+| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
+| Last 28 Days   |     29 |      6 |    323   | 0.21 |  1.11 |
+| Last 6 Months  |    298 |     53 |   -631   | 0.18 | -0.21 |
+| Since Jan 2020 |    974 |    201 |   -856.5 | 0.21 | -0.09 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 17:57             | 2022-05-07 | toowoomba R3                  | 2 Single Dizire       |  4.8  |    -10   |
+| 16:59             | 2022-05-07 | rockhampton R8                | 10 Master Jamie       | 29    |    -10   |
+| 16:34             | 2022-05-07 | darwin R2                     | 2 Manly Cove          |  5.5  |    -10   |
+| 15:00             | 2022-05-07 | caulfield R6                  | 2 Clemenceau          |  1.55 |    -10   |
+| 0                 | 2022-05-07 | morphettville R1              | 3 Aussie Nugget       |  0    |    -10   |
 | 0                 | 2022-05-06 | townsville R6                 | 3 City Smart          |  0    |    -10   |
 | 0                 | 2022-05-06 | townsville R3                 | 2 Verbalizer          |  0    |    -10   |
 | 0                 | 2022-05-04 | ascot R1                      | 5 Foxy Son            |  0    |    -10   |
@@ -169,8 +174,8 @@ categories: None
 | 6                 | 2022-01-29 | morphettville R3              | 4 Stan The Caddy      |  0    |    -10   |
 | 6                 | 2022-01-28 | southwell R4                  | 8 Corinthia Knight    | 17    |    -10   |
 | 4                 | 2022-01-27 | rockhampton R7                | 7 Whoa Lola           |  1.67 |    -10   |
-| :2nd_place_medal: | 2022-01-27 | rockhampton R2                | 2 Nailed It Nan       |  2.6  |    -10   |
 | :3rd_place_medal: | 2022-01-27 | rockhampton R2                | 3 Courtesy Bus        |  4.33 |    -10   |
+| :2nd_place_medal: | 2022-01-27 | rockhampton R2                | 2 Nailed It Nan       |  2.6  |    -10   |
 | :2nd_place_medal: | 2022-01-26 | belmont R8                    | 2 Makfly              |  6.5  |    -10   |
 | 7                 | 2022-01-26 | darwin R5                     | 6 Young Douro         |  7    |    -10   |
 | 9                 | 2022-01-26 | warwick-farm R8               | 5 Miracle Day         |  7    |    -10   |
@@ -789,8 +794,8 @@ categories: None
 | 7                 | 2021-02-24 | launceston R6                 | 1 Lim's Cruiser       | 13.2  |    -10   |
 | 4                 | 2021-02-23 | bendigo R7                    | 1 Rogue Star          |  4.6  |    -10   |
 | :2nd_place_medal: | 2021-02-18 | warrnambool R7                | 8 Barangaready        |  6.5  |    -10   |
-| :boom:            | 2021-02-13 | doomben R9                    | 7 Garibaldi           |  1.6  |      6   |
 | 12                | 2021-02-13 | doomben R9                    | 1 All Important       | 18    |    -10   |
+| :boom:            | 2021-02-13 | doomben R9                    | 7 Garibaldi           |  1.6  |      6   |
 | :boom:            | 2021-02-13 | randwick R6                   | 7 Masked Crusader     |  2.1  |     11   |
 | :2nd_place_medal: | 2021-02-13 | morphettville-parks R1        | 5 Symphonette         |  5.5  |    -10   |
 | :boom:            | 2021-02-11 | doomben R6                    | 2 Howwonderfullifeis  |  3.8  |     28   |

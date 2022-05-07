@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Atlas"   
-date: 2022-05-06 22:13:08 +1000  
+date: 2022-05-07 14:58:04 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,7 @@ categories: None
 
 | finish   | date       | event                  | runner               |   win |   return |
 |:---------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 0        | 2022-05-07 | ipswich R2             | 12 Yellow Brick      |  0    |    -10   |
 | :boom:   | 2022-04-15 | ascot R2               | 10 Alsephina         |  2    |     10   |
 | :boom:   | 2022-04-13 | geelong R2             | 5 Shines             |  1.9  |      9   |
 | :boom:   | 2022-04-13 | hawkesbury R1          | 5 In Secret          |  2.7  |     17   |
