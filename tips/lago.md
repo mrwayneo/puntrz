@@ -1,21 +1,20 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-05-07 14:58:04 +1000  
+date: 2022-05-16 20:05:26 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
-| Last 28 Days   |     15 |      5 |    -47.4 | 0.33 | -0.32 |
-| Last 6 Months  |    120 |     49 |    -62.6 | 0.41 | -0.05 |
-| Since Jan 2020 |    259 |    124 |   1403.3 | 0.48 |  0.54 |
+| Last 28 Days   |      9 |      1 |    -69   | 0.11 | -0.77 |
+| Last 6 Months  |    121 |     49 |    -72.6 | 0.4  | -0.06 |
+| Since Jan 2020 |    260 |    124 |   1393.3 | 0.48 |  0.54 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 15:20             | 2022-05-07 | ascot R3                     | 4 Tiffany Street     |  1.75 |    -10   |
+| 0                 | 2022-05-07 | ascot R3                     | 4 Tiffany Street     |  0    |    -10   |
 | 0                 | 2022-05-05 | chester R4                   | 4 New London         |  0    |    -10   |
 | 0                 | 2022-05-04 | chester R3                   | 7 Night Battle       |  0    |    -10   |
 | 0                 | 2022-05-04 | ascot R1                     | 4 Alsephina          |  0    |    -10   |

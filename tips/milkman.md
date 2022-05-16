@@ -1,36 +1,35 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-05-07 14:57:58 +1000  
+date: 2022-05-16 20:05:19 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     35 |      3 |   -291.5 | 0.09 | -0.83 |
-| Last 28 Days   |    143 |     30 |   -523.5 | 0.21 | -0.37 |
-| Last 6 Months  |   1107 |    269 |  -3298.6 | 0.24 | -0.3  |
-| Since Jan 2020 |   3212 |    802 |  -5837.6 | 0.25 | -0.18 |
+| Last 28 Days   |    126 |     19 |   -758   | 0.15 | -0.6  |
+| Last 6 Months  |   1129 |    269 |  -3518.6 | 0.24 | -0.31 |
+| Since Jan 2020 |   3234 |    802 |  -6057.6 | 0.25 | -0.19 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 02:35             | 2022-05-08 | naas R8                      | 3 Drombeg Banner      |   6    |    -10   |
-| 01:40             | 2022-05-08 | ascot R6                     | 6 After The Rain      |   2.2  |    -10   |
-| 00:50             | 2022-05-08 | lingfield R5                 | 7 Pearl Glory         |   7    |    -10   |
-| 00:40             | 2022-05-08 | hexham R4                    | 1 Ask To Dance        |   4.75 |    -10   |
-| 00:35             | 2022-05-08 | haydock R5                   | 1 Aldaary             |   1.5  |    -10   |
-| 00:25             | 2022-05-08 | naas R4                      | 3 Lily Pond           |   3.7  |    -10   |
-| 00:15             | 2022-05-08 | lingfield R4                 | 6 Rogue Millennium    |   6.5  |    -10   |
-| 23:40             | 2022-05-07 | lingfield R3                 | 2 Natural World       |   6    |    -10   |
-| 23:23             | 2022-05-07 | greyville R7                 | 1 Cosmic Highway      |   4.4  |    -10   |
-| 23:20             | 2022-05-07 | ascot R2                     | 6 Universal Order     |  12    |    -10   |
-| 22:30             | 2022-05-07 | lingfield R1                 | 1 Noya                |   3.1  |    -10   |
-| 16:32             | 2022-05-07 | morphettville R8             | 8 All Banter          |  23    |    -10   |
-| 15:52             | 2022-05-07 | morphettville R7             | 3 The Inferno         |  10    |    -10   |
-| 15:26             | 2022-05-07 | rockhampton R6               | 10 Art By Concorde    |   5    |    -10   |
-| 15:20             | 2022-05-07 | ascot R3                     | 4 Tiffany Street      |   1.75 |    -10   |
-| 15:00             | 2022-05-07 | caulfield R6                 | 2 Clemenceau          |   1.55 |    -10   |
+| 0                 | 2022-05-08 | naas R8                      | 3 Drombeg Banner      |   0    |    -10   |
+| 0                 | 2022-05-08 | ascot R6                     | 6 After The Rain      |   0    |    -10   |
+| 0                 | 2022-05-08 | lingfield R5                 | 7 Pearl Glory         |   0    |    -10   |
+| 0                 | 2022-05-08 | hexham R4                    | 1 Ask To Dance        |   0    |    -10   |
+| 0                 | 2022-05-08 | haydock R5                   | 1 Aldaary             |   0    |    -10   |
+| 0                 | 2022-05-08 | naas R4                      | 3 Lily Pond           |   0    |    -10   |
+| 0                 | 2022-05-08 | lingfield R4                 | 6 Rogue Millennium    |   0    |    -10   |
+| 0                 | 2022-05-07 | lingfield R3                 | 2 Natural World       |   0    |    -10   |
+| 0                 | 2022-05-07 | greyville R7                 | 1 Cosmic Highway      |   0    |    -10   |
+| 0                 | 2022-05-07 | ascot R2                     | 6 Universal Order     |   0    |    -10   |
+| 0                 | 2022-05-07 | lingfield R1                 | 1 Noya                |   0    |    -10   |
+| 0                 | 2022-05-07 | morphettville R8             | 8 All Banter          |   0    |    -10   |
+| 0                 | 2022-05-07 | morphettville R7             | 3 The Inferno         |   0    |    -10   |
+| 0                 | 2022-05-07 | rockhampton R6               | 10 Art By Concorde    |   0    |    -10   |
+| 0                 | 2022-05-07 | ascot R3                     | 4 Tiffany Street      |   0    |    -10   |
+| 0                 | 2022-05-07 | caulfield R6                 | 2 Clemenceau          |   0    |    -10   |
 | 0                 | 2022-05-07 | morphettville R5             | 7 Extremely Lucky     |   0    |    -10   |
 | 0                 | 2022-05-07 | morphettville R5             | 8 Sneaky Five         |   0    |    -10   |
 | 0                 | 2022-05-07 | gold-coast R5                | 2 Bonham              |   0    |    -10   |

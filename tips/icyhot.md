@@ -1,25 +1,24 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-05-07 14:57:58 +1000  
+date: 2022-05-16 20:05:19 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
-| Last 28 Days   |     22 |      3 |   -154   | 0.14 | -0.7  |
-| Last 6 Months  |    208 |     58 |   -756.5 | 0.28 | -0.36 |
-| Since Jan 2020 |    607 |    193 |   -750.6 | 0.32 | -0.12 |
+| Last 28 Days   |     22 |      2 |   -179   | 0.09 | -0.81 |
+| Last 6 Months  |    213 |     58 |   -806.5 | 0.27 | -0.38 |
+| Since Jan 2020 |    612 |    193 |   -800.6 | 0.32 | -0.13 |
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
-| 16:34             | 2022-05-07 | darwin R2                    | 2 Manly Cove          |  5.5  |    -10   |
-| 16:32             | 2022-05-07 | morphettville R8             | 4 Bella Vella         | 16    |    -10   |
-| 15:52             | 2022-05-07 | morphettville R7             | 4 Beau Rossa          |  4.6  |    -10   |
-| 15:26             | 2022-05-07 | rockhampton R6               | 3 Patrolling          |  2.1  |    -10   |
-| 15:20             | 2022-05-07 | ascot R3                     | 4 Tiffany Street      |  1.75 |    -10   |
+| 0                 | 2022-05-07 | darwin R2                    | 2 Manly Cove          |  0    |    -10   |
+| 0                 | 2022-05-07 | morphettville R8             | 4 Bella Vella         |  0    |    -10   |
+| 0                 | 2022-05-07 | morphettville R7             | 4 Beau Rossa          |  0    |    -10   |
+| 0                 | 2022-05-07 | rockhampton R6               | 3 Patrolling          |  0    |    -10   |
+| 0                 | 2022-05-07 | ascot R3                     | 4 Tiffany Street      |  0    |    -10   |
 | 0                 | 2022-05-06 | market-rasen R2              | 4 Mr Mafia            |  0    |    -10   |
 | 0                 | 2022-05-04 | kenilworth R6                | 3 Marina              |  0    |    -10   |
 | 0                 | 2022-05-04 | warrnambool R6               | 3 Big Blue            |  0    |    -10   |

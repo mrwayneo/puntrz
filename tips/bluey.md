@@ -1,21 +1,20 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-05-07 14:58:04 +1000  
+date: 2022-05-16 20:05:26 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |      -30 | 0    | -1    |
 | Last 28 Days   |     11 |      1 |      600 | 0.09 |  5.45 |
-| Last 6 Months  |     76 |      7 |      696 | 0.09 |  0.92 |
-| Since Jan 2020 |    261 |     44 |     5269 | 0.17 |  2.02 |
+| Last 6 Months  |     77 |      7 |      686 | 0.09 |  0.89 |
+| Since Jan 2020 |    262 |     44 |     5259 | 0.17 |  2.01 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 15:40             | 2022-05-07 | caulfield R7           | 2 Aramayo             |  17   |      -10 |
+| 0                 | 2022-05-07 | caulfield R7           | 2 Aramayo             |   0   |      -10 |
 | 0                 | 2022-05-04 | canterbury R5          | 12 Champions League   |   0   |      -10 |
 | 0                 | 2022-05-04 | murray-bdge R5         | 8 Cassowary           |   0   |      -10 |
 | 0                 | 2022-05-04 | ayr R4                 | 6 Chanting Hill       |   0   |      -10 |

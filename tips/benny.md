@@ -1,24 +1,23 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-05-07 14:57:55 +1000  
+date: 2022-05-16 20:05:16 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
-| Last 28 Days   |     29 |      6 |    323   | 0.21 |  1.11 |
-| Last 6 Months  |    298 |     53 |   -631   | 0.18 | -0.21 |
-| Since Jan 2020 |    974 |    201 |   -856.5 | 0.21 | -0.09 |
+| Last 28 Days   |     23 |      2 |      2   | 0.09 |  0.01 |
+| Last 6 Months  |    303 |     53 |   -681   | 0.17 | -0.22 |
+| Since Jan 2020 |    979 |    201 |   -906.5 | 0.21 | -0.09 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 17:57             | 2022-05-07 | toowoomba R3                  | 2 Single Dizire       |  4.8  |    -10   |
-| 16:59             | 2022-05-07 | rockhampton R8                | 10 Master Jamie       | 29    |    -10   |
-| 16:34             | 2022-05-07 | darwin R2                     | 2 Manly Cove          |  5.5  |    -10   |
-| 15:00             | 2022-05-07 | caulfield R6                  | 2 Clemenceau          |  1.55 |    -10   |
+| 0                 | 2022-05-07 | toowoomba R3                  | 2 Single Dizire       |  0    |    -10   |
+| 0                 | 2022-05-07 | rockhampton R8                | 10 Master Jamie       |  0    |    -10   |
+| 0                 | 2022-05-07 | darwin R2                     | 2 Manly Cove          |  0    |    -10   |
+| 0                 | 2022-05-07 | caulfield R6                  | 2 Clemenceau          |  0    |    -10   |
 | 0                 | 2022-05-07 | morphettville R1              | 3 Aussie Nugget       |  0    |    -10   |
 | 0                 | 2022-05-06 | townsville R6                 | 3 City Smart          |  0    |    -10   |
 | 0                 | 2022-05-06 | townsville R3                 | 2 Verbalizer          |  0    |    -10   |

@@ -1,22 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-05-07 14:58:04 +1000  
+date: 2022-05-16 20:05:26 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     12 |      0 |   -120   | 0    | -1    |
-| Last 6 Months  |     87 |      5 |   -438   | 0.06 | -0.5  |
-| Since Jan 2020 |    273 |     42 |   3417.5 | 0.15 |  1.25 |
+| Last 28 Days   |     10 |      0 |   -100   | 0    | -1    |
+| Last 6 Months  |     90 |      5 |   -468   | 0.06 | -0.52 |
+| Since Jan 2020 |    276 |     42 |   3387.5 | 0.15 |  1.23 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 23:25             | 2022-05-07 | haydock R3                    | 17 Jet Of Magic       |  20    |    -10   |
-| 17:57             | 2022-05-07 | toowoomba R3                  | 6 As Good As Ready    |  67    |    -10   |
+| 0                 | 2022-05-07 | haydock R3                    | 17 Jet Of Magic       |   0    |    -10   |
+| 0                 | 2022-05-07 | toowoomba R3                  | 6 As Good As Ready    |   0    |    -10   |
 | 0                 | 2022-05-07 | morphettville R5              | 8 Sneaky Five         |   0    |    -10   |
 | 0                 | 2022-05-04 | chester R3                    | 3 Improvise           |   0    |    -10   |
 | 6                 | 2022-05-02 | ipswich R3                    | 9 Better Strings      |  13    |    -10   |

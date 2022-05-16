@@ -1,23 +1,22 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-05-07 14:57:58 +1000  
+date: 2022-05-16 20:05:19 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      5 |      1 |    -31   | 0.2  | -0.62 |
-| Last 28 Days   |     33 |     10 |    -19   | 0.3  | -0.06 |
-| Last 6 Months  |    308 |     69 |   -619.5 | 0.22 | -0.2  |
-| Since Jan 2020 |    933 |    224 |  -1082   | 0.24 | -0.12 |
+| Last 28 Days   |     31 |      8 |    -45   | 0.26 | -0.15 |
+| Last 6 Months  |    313 |     69 |   -669.5 | 0.22 | -0.21 |
+| Since Jan 2020 |    938 |    224 |  -1132   | 0.24 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 15:52             | 2022-05-07 | morphettville R7              | 1 Behemoth            |  5.5  |    -10   |
-| 15:26             | 2022-05-07 | rockhampton R6                | 8 Time For Victory    | 13    |    -10   |
-| 15:26             | 2022-05-07 | rockhampton R6                | 3 Patrolling          |  2.1  |    -10   |
+| 0                 | 2022-05-07 | morphettville R7              | 1 Behemoth            |  0    |    -10   |
+| 0                 | 2022-05-07 | rockhampton R6                | 8 Time For Victory    |  0    |    -10   |
+| 0                 | 2022-05-07 | rockhampton R6                | 3 Patrolling          |  0    |    -10   |
 | 0                 | 2022-05-07 | caulfield R5                  | 4 Pandemic            |  0    |    -10   |
 | 0                 | 2022-05-07 | rockhampton R3                | 2 Namazu              |  0    |    -10   |
 | 0                 | 2022-05-05 | warrnambool R8                | 13 Seiners Express    |  0    |    -10   |

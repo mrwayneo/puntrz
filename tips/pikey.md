@@ -1,21 +1,20 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-05-07 14:58:04 +1000  
+date: 2022-05-16 20:05:25 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      7 |      2 |       26 | 0.29 |  0.37 |
 | Last 28 Days   |     24 |      5 |      -62 | 0.21 | -0.26 |
-| Last 6 Months  |    307 |     64 |     -887 | 0.21 | -0.29 |
-| Since Jan 2020 |   1101 |    267 |    -1931 | 0.24 | -0.18 |
+| Last 6 Months  |    311 |     64 |     -927 | 0.21 | -0.3  |
+| Since Jan 2020 |   1105 |    267 |    -1971 | 0.24 | -0.18 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 15:33             | 2022-05-07 | gold-coast R8         | 13 Hungry Heart       |  17    |    -10   |
+| 0                 | 2022-05-07 | gold-coast R8         | 13 Hungry Heart       |   0    |    -10   |
 | 0                 | 2022-05-07 | gold-coast R4         | 10 Sheeza Belter      |   0    |    -10   |
 | 0                 | 2022-05-07 | gold-coast R3         | 4 Le Baol             |   0    |    -10   |
 | 0                 | 2022-05-07 | gold-coast R2         | 5 Lyrical Girl        |   0    |    -10   |

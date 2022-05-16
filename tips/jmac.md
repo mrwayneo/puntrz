@@ -1,21 +1,20 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-05-07 14:58:04 +1000  
+date: 2022-05-16 20:05:25 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      7 |      0 |    -70   | 0    | -1    |
-| Last 28 Days   |     18 |      4 |    -77   | 0.22 | -0.43 |
-| Last 6 Months  |    226 |     49 |   -676   | 0.22 | -0.3  |
-| Since Jan 2020 |    742 |    180 |   -723.5 | 0.24 | -0.1  |
+| Last 28 Days   |     18 |      0 |   -180   | 0    | -1    |
+| Last 6 Months  |    230 |     49 |   -716   | 0.21 | -0.31 |
+| Since Jan 2020 |    746 |    180 |   -763.5 | 0.24 | -0.1  |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 15:33             | 2022-05-07 | gold-coast R8        | 1 Zaaki              |  1.45 |    -10   |
+| 0                 | 2022-05-07 | gold-coast R8        | 1 Zaaki              |  0    |    -10   |
 | 0                 | 2022-05-07 | gold-coast R5        | 6 April Rain         |  0    |    -10   |
 | 0                 | 2022-05-07 | gold-coast R4        | 7 West Of Africa     |  0    |    -10   |
 | 0                 | 2022-05-07 | gold-coast R2        | 2 Remlaps Gem        |  0    |    -10   |
