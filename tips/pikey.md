@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-05-16 22:50:42 +1000  
+date: 2022-05-17 08:25:01 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,8 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 15:55             | 2022-05-17 | goulburn R5           | 4 Dreamtime Legend    |  20    |    -10   |
+| 14:40             | 2022-05-17 | goulburn R3           | 7 Lady Shenanigans    |   8.5  |    -10   |
 | 0                 | 2022-05-07 | gold-coast R8         | 13 Hungry Heart       |   0    |    -10   |
 | 0                 | 2022-05-07 | gold-coast R4         | 10 Sheeza Belter      |   0    |    -10   |
 | 0                 | 2022-05-07 | gold-coast R3         | 4 Le Baol             |   0    |    -10   |
