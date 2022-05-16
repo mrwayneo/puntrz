@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-16 22:35:48 +1000  
+date: 2022-05-16 22:50:43 +1000  
 ---   
 
 
@@ -87,7 +87,7 @@ date: 2022-05-16 22:35:48 +1000
 | 11 | :soon:            | 2022-05-17 00:55:00 | redcar    |      5 |        2 | Rebel At Dawn     |   3.1  | vulture             |
 | 12 | :soon:            | 2022-05-17 00:30:00 | ffos-las  |      5 |        3 | Lelantos          |   2.88 | overthrow           |
 | 13 | :soon:            | 2022-05-16 23:20:00 | ffos-las  |      3 |        1 | Full Of Light     |   2    | overthrow           |
-| 14 | :soon:            | 2022-05-16 22:45:00 | ffos-las  |      2 |        2 | Marmalaid         |   1.83 | overthrow           |
+| 14 | --                | 2022-05-16 22:45:00 | ffos-las  |      2 |        2 | Marmalaid         |   1.83 | overthrow           |
 | 15 | :2nd_place_medal: | 2022-05-16 22:10:00 | ffos-las  |      1 |        1 | Wild Max          |   1.26 | vulture             |
 | 16 | :3rd_place_medal: | 2022-05-16 16:20:00 | cairns    |      9 |        1 | Nice Retort       |   4.75 | vulture             |
 | 17 | 8.0               | 2022-05-16 16:20:00 | cairns    |      9 |        7 | Bellevita         |   6.5  | overthrow           |
