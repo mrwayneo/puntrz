@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-05-16 20:05:21 +1000  
+date: 2022-05-16 20:05:38 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 0                 | 2022-05-16 | cairns R1              | 4 Borlotti Beans     |   0    |    -10   |
+| 4                 | 2022-05-16 | cairns R1              | 4 Borlotti Beans     |   3.4  |    -10   |
 | 0                 | 2022-05-08 | cork R7                | 15 Slip Jig          |   0    |    -10   |
 | 0                 | 2022-05-08 | hexham R4              | 6 Tom Cody           |   0    |    -10   |
 | 0                 | 2022-05-06 | townsville R7          | 7 Lord Of Light      |   0    |    -10   |

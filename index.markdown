@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-16 20:05:26 +1000  
+date: 2022-05-16 20:05:44 +1000  
 ---   
 
 
@@ -9,15 +9,15 @@ date: 2022-05-16 20:05:26 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 |    0 |    -1 |
-| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      0 |      -10 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      0 |      -20 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |      -40 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      6 |      0 |      -60 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |      9 |      0 |      -90 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     11 |      0 |     -110 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     42 |      0 |     -420 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      1 |       61 | 0.25 |  1.52 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
+| [moechilli](https://mrwayneo.github.io/tips/moechilli.html)   |      1 |      0 |      -10 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      6 |      0 |      -60 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     11 |      1 |      -85 | 0.09 | -0.77 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |      9 |      0 |      -90 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     42 |      0 |     -420 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -71,28 +71,28 @@ date: 2022-05-16 20:05:26 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   5668 |    637 | -17815.1 | 0.11 | -0.31 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   6928 |    280 | -27081   | 0.04 | -0.39 |
 
-|    | finish   | time                | track     |   race |   number | name              |   odds | tipster             |
-|---:|:---------|:--------------------|:----------|-------:|---------:|:------------------|-------:|:--------------------|
-|  0 | :soon:   | 2022-05-17 05:00:00 | killarney |      7 |        4 | Nice To Meet      |   9.5  | evenodds,overthrow  |
-|  1 | :soon:   | 2022-05-17 05:00:00 | killarney |      7 |        2 | Diese Des Bieffes |   3.8  | vulture             |
-|  2 | :soon:   | 2022-05-17 04:40:00 | windsor   |      6 |        7 | Enshrine          |   1.28 | vulture             |
-|  3 | :soon:   | 2022-05-17 04:40:00 | windsor   |      6 |       13 | You're On Mute    |   8    | looseknot           |
-|  4 | :soon:   | 2022-05-17 04:00:00 | killarney |      5 |        2 | Melon             |   2.75 | overthrow           |
-|  5 | :soon:   | 2022-05-17 03:30:00 | killarney |      4 |        9 | Hybery            |  11    | overthrow           |
-|  6 | :soon:   | 2022-05-17 03:00:00 | killarney |      3 |        6 | La Prima Donna    |   1.3  | overthrow           |
-|  7 | :soon:   | 2022-05-17 02:30:00 | killarney |      2 |        8 | Shewearsitwell    |   1.8  | overthrow           |
-|  8 | :soon:   | 2022-05-17 02:10:00 | windsor   |      1 |        4 | Corinthia Knight  |   7.5  | pangea              |
-|  9 | :soon:   | 2022-05-17 01:25:00 | redcar    |      6 |        1 | Dusky Prince      |   3.3  | pangea,looseknot    |
-| 10 | :soon:   | 2022-05-17 01:05:00 | ffos-las  |      6 |        1 | Jeremy The Jinn   |   2.1  | vulture             |
-| 11 | :soon:   | 2022-05-17 00:55:00 | redcar    |      5 |        2 | Rebel At Dawn     |   3.1  | vulture             |
-| 12 | :soon:   | 2022-05-17 00:30:00 | ffos-las  |      5 |        3 | Lelantos          |   2.88 | overthrow           |
-| 13 | :soon:   | 2022-05-16 23:20:00 | ffos-las  |      3 |        1 | Full Of Light     |   2    | overthrow           |
-| 14 | :soon:   | 2022-05-16 22:45:00 | ffos-las  |      2 |        2 | Marmalaid         |   1.83 | overthrow           |
-| 15 | :soon:   | 2022-05-16 22:10:00 | ffos-las  |      1 |        1 | Wild Max          |   1.26 | vulture             |
-| 16 | --       | 2022-05-16 16:20:00 | cairns    |      9 |        1 | Nice Retort       |   4.75 | vulture             |
-| 17 | --       | 2022-05-16 16:20:00 | cairns    |      9 |        7 | Bellevita         |   6.5  | overthrow           |
-| 18 | --       | 2022-05-16 15:10:00 | cairns    |      7 |        4 | Cupid's Son       |  10    | vulture             |
-| 19 | --       | 2022-05-16 13:15:00 | cairns    |      4 |        4 | Call Me Mo        |   2.1  | overthrow           |
-| 20 | --       | 2022-05-16 12:20:00 | tamworth  |      1 |        8 | First Mover       |   4    | looseknot           |
-| 21 | --       | 2022-05-16 12:05:00 | cairns    |      2 |        3 | Ten Schilling     |   8.5  | looseknot           |
-| 22 | --       | 2022-05-16 11:30:00 | cairns    |      1 |        4 | Borlotti Beans    |   3.4  | overthrow,moechilli |
+|    | finish            | time                | track     |   race |   number | name              |   odds | tipster             |
+|---:|:------------------|:--------------------|:----------|-------:|---------:|:------------------|-------:|:--------------------|
+|  0 | :soon:            | 2022-05-17 05:00:00 | killarney |      7 |        4 | Nice To Meet      |   9.5  | evenodds,overthrow  |
+|  1 | :soon:            | 2022-05-17 05:00:00 | killarney |      7 |        2 | Diese Des Bieffes |   3.8  | vulture             |
+|  2 | :soon:            | 2022-05-17 04:40:00 | windsor   |      6 |        7 | Enshrine          |   1.28 | vulture             |
+|  3 | :soon:            | 2022-05-17 04:40:00 | windsor   |      6 |       13 | You're On Mute    |   8    | looseknot           |
+|  4 | :soon:            | 2022-05-17 04:00:00 | killarney |      5 |        2 | Melon             |   2.75 | overthrow           |
+|  5 | :soon:            | 2022-05-17 03:30:00 | killarney |      4 |        9 | Hybery            |  11    | overthrow           |
+|  6 | :soon:            | 2022-05-17 03:00:00 | killarney |      3 |        6 | La Prima Donna    |   1.3  | overthrow           |
+|  7 | :soon:            | 2022-05-17 02:30:00 | killarney |      2 |        8 | Shewearsitwell    |   1.8  | overthrow           |
+|  8 | :soon:            | 2022-05-17 02:10:00 | windsor   |      1 |        4 | Corinthia Knight  |   7.5  | pangea              |
+|  9 | :soon:            | 2022-05-17 01:25:00 | redcar    |      6 |        1 | Dusky Prince      |   3.3  | pangea,looseknot    |
+| 10 | :soon:            | 2022-05-17 01:05:00 | ffos-las  |      6 |        1 | Jeremy The Jinn   |   2.1  | vulture             |
+| 11 | :soon:            | 2022-05-17 00:55:00 | redcar    |      5 |        2 | Rebel At Dawn     |   3.1  | vulture             |
+| 12 | :soon:            | 2022-05-17 00:30:00 | ffos-las  |      5 |        3 | Lelantos          |   2.88 | overthrow           |
+| 13 | :soon:            | 2022-05-16 23:20:00 | ffos-las  |      3 |        1 | Full Of Light     |   2    | overthrow           |
+| 14 | :soon:            | 2022-05-16 22:45:00 | ffos-las  |      2 |        2 | Marmalaid         |   1.83 | overthrow           |
+| 15 | :soon:            | 2022-05-16 22:10:00 | ffos-las  |      1 |        1 | Wild Max          |   1.26 | vulture             |
+| 16 | :3rd_place_medal: | 2022-05-16 16:20:00 | cairns    |      9 |        1 | Nice Retort       |   4.75 | vulture             |
+| 17 | 8.0               | 2022-05-16 16:20:00 | cairns    |      9 |        7 | Bellevita         |   6.5  | overthrow           |
+| 18 | 7.0               | 2022-05-16 15:10:00 | cairns    |      7 |        4 | Cupid's Son       |  10    | vulture             |
+| 19 | :boom:            | 2022-05-16 13:15:00 | cairns    |      4 |        4 | Call Me Mo        |   2.1  | overthrow           |
+| 20 | 5.0               | 2022-05-16 12:20:00 | tamworth  |      1 |        8 | First Mover       |   4    | looseknot           |
+| 21 | :boom:            | 2022-05-16 12:05:00 | cairns    |      2 |        3 | Ten Schilling     |   8.5  | looseknot           |
+| 22 | 4.0               | 2022-05-16 11:30:00 | cairns    |      1 |        4 | Borlotti Beans    |   3.4  | overthrow,moechilli |
