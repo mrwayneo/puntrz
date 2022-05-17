@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-05-17 12:39:59 +1000  
+date: 2022-05-17 19:40:05 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
-| 14:05             | 2022-05-17 | goulburn R2                  | 7 Flower Moon         |  3.4  |    -10   |
+| 0                 | 2022-05-17 | goulburn R2                  | 7 Flower Moon         |  0    |    -10   |
 | 0                 | 2022-05-07 | darwin R2                    | 2 Manly Cove          |  0    |    -10   |
 | 0                 | 2022-05-07 | morphettville R8             | 4 Bella Vella         |  0    |    -10   |
 | 0                 | 2022-05-07 | morphettville R7             | 4 Beau Rossa          |  0    |    -10   |
@@ -33,9 +33,9 @@ categories: None
 | :boom:            | 2022-04-29 | alice-springs R2             | 2 Flying Start        |  2.2  |     12   |
 | 0                 | 2022-04-27 | punchestown R4               | 4 Energumene          |  0    |    -10   |
 | 0                 | 2022-04-27 | punchestown R4               | 3 Chacun Pour Soi     |  0    |    -10   |
-| :2nd_place_medal: | 2022-04-25 | darwin R4                    | 3 Bel's Banner        |  2.25 |    -10   |
 | :boom:            | 2022-04-25 | darwin R4                    | 4 Poupee              |  1.9  |      9   |
 | 0                 | 2022-04-25 | darwin R4                    | 2 Papalet             |  0    |    -10   |
+| :2nd_place_medal: | 2022-04-25 | darwin R4                    | 3 Bel's Banner        |  2.25 |    -10   |
 | 4                 | 2022-04-24 | scottsville R5               | 9 Lunarcam            |  0    |    -10   |
 | :3rd_place_medal: | 2022-04-17 | mornington R4                | 8 Excela Bella        |  5    |    -10   |
 | :2nd_place_medal: | 2022-04-16 | alice-springs R5             | 7 Jet Jackson         |  9.5  |    -10   |
@@ -134,8 +134,8 @@ categories: None
 | :2nd_place_medal: | 2022-01-11 | rockhampton R4               | 1 Master Jamie        |  1.95 |    -10   |
 | :boom:            | 2022-01-08 | kenilworth R4                | 2 Real Gone Kid       |  1.2  |      2   |
 | 5                 | 2022-01-08 | caulfield R9                 | 16 Jezoulenko         |  4    |    -10   |
-| 10                | 2022-01-08 | gold-coast R8                | 2 Usmanov             |  8.5  |    -10   |
 | 11                | 2022-01-08 | gold-coast R8                | 1 Tyzone              | 21    |    -10   |
+| 10                | 2022-01-08 | gold-coast R8                | 2 Usmanov             |  8.5  |    -10   |
 | :boom:            | 2022-01-08 | gold-coast R2                | 2 Sir Rocket          |  1.4  |      4   |
 | 5                 | 2022-01-07 | canterbury R5                | 2 Southern Lad        |  5.5  |    -10   |
 | 5                 | 2022-01-07 | mackay R7                    | 3 Eveready            |  3.5  |    -10   |
@@ -145,8 +145,8 @@ categories: None
 | 5                 | 2022-01-01 | sha-tin R10                  | 3 Blaze Warrior       |  0    |    -10   |
 | :boom:            | 2022-01-01 | sha-tin R8                   | 5 Master Eight        |  1.3  |      3   |
 | :boom:            | 2022-01-01 | geraldton R5                 | 3 Three Sessions      |  2.1  |     11   |
-| :boom:            | 2022-01-01 | ascot R6                     | 6 Miss Conteki        |  2.2  |     12   |
 | :2nd_place_medal: | 2022-01-01 | ascot R6                     | 10 The Front Bar      |  2.4  |    -10   |
+| :boom:            | 2022-01-01 | ascot R6                     | 6 Miss Conteki        |  2.2  |     12   |
 | :3rd_place_medal: | 2022-01-01 | murray-bdge R7               | 12 Desired            | 14    |    -10   |
 | :boom:            | 2022-01-01 | darwin R2                    | 5 Bel's Banner        |  1.5  |      5   |
 | 11                | 2022-01-01 | flemington R8                | 2 Yulong January      |  9.5  |    -10   |
@@ -427,8 +427,8 @@ categories: None
 | 99                | 2021-04-24 | ellerslie R8                 | 5 Markus Aurelius     |  2.05 |    -10   |
 | :3rd_place_medal: | 2021-04-24 | doomben R5                   | 7 Walking Flying      |  3.25 |    -10   |
 | 4                 | 2021-04-24 | doomben R2                   | 1 Humbolt Current     |  3.9  |    -10   |
-| 9                 | 2021-04-21 | ipswich R8                   | 2 Grand Zou           | 14    |    -10   |
 | 7                 | 2021-04-21 | ipswich R8                   | 3 Amicitia            |  7.5  |    -10   |
+| 9                 | 2021-04-21 | ipswich R8                   | 2 Grand Zou           | 14    |    -10   |
 | :boom:            | 2021-04-20 | epsom-downs R3               | 3 Victory Chime       |  9    |     80   |
 | 4                 | 2021-04-20 | mackay R4                    | 3 Moreno              |  3    |    -10   |
 | :2nd_place_medal: | 2021-04-20 | mackay R4                    | 7 Princess Rules      |  4.6  |    -10   |
@@ -649,8 +649,8 @@ categories: None
 | 6                 | 2020-01-25 | gawler R2                    | 4 Rose Tiara          | 18.2  |    -10   |
 | :2nd_place_medal: | 2020-01-25 | sunshine-coast R1            | 3 Ruby Guru           |  3.8  |    -10   |
 | :boom:            | 2020-01-22 | canterbury R5                | 2 Knowitall Jack      |  3.6  |     26   |
-| 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
 | :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
+| 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
 | 6                 | 2020-01-11 | pinjarra R8                  | 11 Midnight Sky       |  6.5  |    -10   |
 | :boom:            | 2020-01-11 | pinjarra R6                  | 12 Put A Spell On You |  5    |     40   |
 | :3rd_place_medal: | 2020-01-11 | kembla-grange R6             | 4 Superbowl Sunday    |  2.15 |    -10   |
