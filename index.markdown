@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-05-17 10:57:30 +1000  
+date: 2022-05-17 12:40:06 +1000  
 ---   
 
 
@@ -37,8 +37,8 @@ date: 2022-05-17 10:57:30 +1000
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |    -95   | 0.15 | -0.48 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      1 |    -99   | 0.05 | -0.5  |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      2 |   -147   | 0.1  | -0.74 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      2 |   -159   | 0.1  | -0.8  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      1 |   -175   | 0.05 | -0.88 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      1 |   -178   | 0.05 | -0.89 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      0 |   -200   | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
