@@ -1,27 +1,25 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-05-17 21:40:01 +1000  
+date: 2022-06-01 17:17:41 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      7 |      0 |    -70   | 0    | -1    |
-| Last 28 Days   |    314 |     46 |  -1433.3 | 0.15 | -0.46 |
-| Last 6 Months  |   2426 |    550 |  -6261.1 | 0.23 | -0.26 |
-| Since Jan 2020 |   7604 |   1804 | -13664.2 | 0.24 | -0.18 |
+| Last 28 Days   |    103 |      0 |  -1030   | 0    | -1    |
+| Since Jan 2020 |   7463 |   1771 | -13275.2 | 0.24 | -0.18 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:47             | 2022-05-18 | huntingdon R2                 | 1 Lady Reset          |   2.15 |    -10   |
-| 02:47             | 2022-05-18 | huntingdon R2                 | 5 Little Jessture     |   3.1  |    -10   |
-| 01:45             | 2022-05-18 | nottingham R8                 | 3 Canterbury Bell     |   2.25 |    -10   |
-| 01:20             | 2022-05-18 | wolverhampton R7              | 5 Captain Kane        |   3.2  |    -10   |
-| 00:10             | 2022-05-18 | nottingham R5                 | 1 Yummylicious        |   3.5  |    -10   |
-| 23:20             | 2022-05-17 | wolverhampton R3              | 2 Archiano            |   2.35 |    -10   |
-| 22:45             | 2022-05-17 | vaal R5                       | 2 Bit Of Fun          |   0    |    -10   |
+| 0                 | 2022-05-18 | huntingdon R2                 | 1 Lady Reset          |   0    |    -10   |
+| 0                 | 2022-05-18 | huntingdon R2                 | 5 Little Jessture     |   0    |    -10   |
+| 0                 | 2022-05-18 | nottingham R8                 | 3 Canterbury Bell     |   0    |    -10   |
+| 0                 | 2022-05-18 | wolverhampton R7              | 5 Captain Kane        |   0    |    -10   |
+| 0                 | 2022-05-18 | nottingham R5                 | 1 Yummylicious        |   0    |    -10   |
+| 0                 | 2022-05-17 | wolverhampton R3              | 2 Archiano            |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R5                       | 2 Bit Of Fun          |   0    |    -10   |
 | 0                 | 2022-05-17 | killarney R7                  | 2 Diese Des Bieffes   |   0    |    -10   |
 | 0                 | 2022-05-17 | windsor R6                    | 7 Enshrine            |   0    |    -10   |
 | 0                 | 2022-05-17 | ffos-las R6                   | 1 Jeremy The Jinn     |   0    |    -10   |

@@ -1,21 +1,19 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2022-05-17 21:40:02 +1000  
+date: 2022-06-01 17:17:42 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |    170 |     25 |   -441   | 0.15 | -0.26 |
-| Last 6 Months  |   1757 |    333 |  -4217.2 | 0.19 | -0.24 |
-| Since Jan 2020 |   5221 |   1086 |  -5219.3 | 0.21 | -0.1  |
+| Last 28 Days   |     55 |      0 |   -550   | 0    | -1    |
+| Since Jan 2020 |   5002 |   1042 |  -5354.3 | 0.21 | -0.11 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 23:30             | 2022-05-17 | brighton R4                   | 4 Mercurius Power     |   3.8  |    -10   |
+| 0                 | 2022-05-17 | brighton R4                   | 4 Mercurius Power     |   0    |    -10   |
 | 0                 | 2022-05-17 | windsor R1                    | 4 Corinthia Knight    |   0    |    -10   |
 | 0                 | 2022-05-17 | redcar R6                     | 1 Dusky Prince        |   0    |    -10   |
 | 0                 | 2022-05-08 | haydock R5                    | 1 Aldaary             |   0    |    -10   |

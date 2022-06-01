@@ -1,55 +1,53 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-05-17 21:40:06 +1000  
+date: 2022-06-01 17:17:45 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      9 |      0 |    -90   | 0    | -1    |
-| Last 28 Days   |    538 |     43 |  -3346   | 0.08 | -0.62 |
-| Last 6 Months  |   6166 |    702 | -22116.6 | 0.11 | -0.36 |
-| Since Jan 2020 |  14648 |   2180 | -28336.2 | 0.15 | -0.19 |
+| Last 28 Days   |    154 |      0 |  -1540   | 0    |  -1   |
+| Since Jan 2020 |  14590 |   2138 | -28762.2 | 0.15 |  -0.2 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:10             | 2022-05-18 | nottingham R7                 | 7 Pink Carnation      |   2.8  |    -10   |
-| 00:40             | 2022-05-18 | nottingham R6                 | 7 Foursome            |   2.7  |    -10   |
-| 00:40             | 2022-05-18 | nottingham R6                 | 6 Atheby              |   2.88 |    -10   |
-| 00:15             | 2022-05-18 | vaal R8                       | 10 River Jordan       |   0    |    -10   |
-| 00:15             | 2022-05-18 | vaal R8                       | 2 Picture Perfect     |   0    |    -10   |
-| 00:15             | 2022-05-18 | vaal R8                       | 15 Silly Fella        |   0    |    -10   |
-| 00:15             | 2022-05-18 | vaal R8                       | 14 Track Commander    |   0    |    -10   |
-| 00:15             | 2022-05-18 | vaal R8                       | 9 Twice As Wild       |   0    |    -10   |
-| 00:15             | 2022-05-18 | vaal R8                       | 7 Funky Music         |   0    |    -10   |
-| 00:15             | 2022-05-18 | vaal R8                       | 5 Tambora             |   0    |    -10   |
-| 00:15             | 2022-05-18 | vaal R8                       | 3 Elusive Swann       |   0    |    -10   |
-| 00:00             | 2022-05-18 | brighton R5                   | 2 Sabyinyo            |   1.8  |    -10   |
-| 23:45             | 2022-05-17 | vaal R7                       | 2 Paton's Tears       |   0    |    -10   |
-| 23:45             | 2022-05-17 | vaal R7                       | 8 Warship             |   0    |    -10   |
-| 23:45             | 2022-05-17 | vaal R7                       | 10 Golden Aspen       |   0    |    -10   |
-| 23:45             | 2022-05-17 | vaal R7                       | 1 All Of Me           |   0    |    -10   |
-| 23:15             | 2022-05-17 | vaal R6                       | 13 Looking Hot        |   0    |    -10   |
-| 23:15             | 2022-05-17 | vaal R6                       | 6 Gal Gadot           |   0    |    -10   |
-| 23:15             | 2022-05-17 | vaal R6                       | 5 Diamonds 'n Dust    |   0    |    -10   |
-| 23:15             | 2022-05-17 | vaal R6                       | 7 Spiritofthegroove   |   0    |    -10   |
-| 23:15             | 2022-05-17 | vaal R6                       | 8 High Flyby          |   0    |    -10   |
-| 23:15             | 2022-05-17 | vaal R6                       | 14 Wings Of Nike      |   0    |    -10   |
-| 23:15             | 2022-05-17 | vaal R6                       | 15 Fantasy Flower     |   0    |    -10   |
-| 22:45             | 2022-05-17 | vaal R5                       | 16 The Sash           |   0    |    -10   |
-| 22:45             | 2022-05-17 | vaal R5                       | 15 Fasinada           |   0    |    -10   |
-| 22:45             | 2022-05-17 | vaal R5                       | 14 Diamonds N Dollars |   0    |    -10   |
-| 22:45             | 2022-05-17 | vaal R5                       | 13 Sophia's First     |   0    |    -10   |
-| 22:45             | 2022-05-17 | vaal R5                       | 9 Crusade To Royalty  |   0    |    -10   |
-| 22:45             | 2022-05-17 | vaal R5                       | 7 Rattle Bag          |   0    |    -10   |
-| 22:45             | 2022-05-17 | vaal R5                       | 6 Viceroy             |   0    |    -10   |
-| 22:45             | 2022-05-17 | vaal R5                       | 3 Kool Baikal         |   0    |    -10   |
-| 22:45             | 2022-05-17 | vaal R5                       | 1 Imperious Light     |   0    |    -10   |
-| 22:15             | 2022-05-17 | vaal R4                       | 6 Angelofthemorning   |   0    |    -10   |
-| 22:15             | 2022-05-17 | vaal R4                       | 2 Country Flame       |   0    |    -10   |
-| 22:10             | 2022-05-17 | nottingham R1                 | 2 Courageous Knight   |   2.6  |    -10   |
+| 0                 | 2022-05-18 | nottingham R7                 | 7 Pink Carnation      |   0    |    -10   |
+| 0                 | 2022-05-18 | nottingham R6                 | 7 Foursome            |   0    |    -10   |
+| 0                 | 2022-05-18 | nottingham R6                 | 6 Atheby              |   0    |    -10   |
+| 0                 | 2022-05-18 | vaal R8                       | 10 River Jordan       |   0    |    -10   |
+| 0                 | 2022-05-18 | vaal R8                       | 2 Picture Perfect     |   0    |    -10   |
+| 0                 | 2022-05-18 | vaal R8                       | 15 Silly Fella        |   0    |    -10   |
+| 0                 | 2022-05-18 | vaal R8                       | 14 Track Commander    |   0    |    -10   |
+| 0                 | 2022-05-18 | vaal R8                       | 9 Twice As Wild       |   0    |    -10   |
+| 0                 | 2022-05-18 | vaal R8                       | 7 Funky Music         |   0    |    -10   |
+| 0                 | 2022-05-18 | vaal R8                       | 5 Tambora             |   0    |    -10   |
+| 0                 | 2022-05-18 | vaal R8                       | 3 Elusive Swann       |   0    |    -10   |
+| 0                 | 2022-05-18 | brighton R5                   | 2 Sabyinyo            |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R7                       | 2 Paton's Tears       |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R7                       | 8 Warship             |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R7                       | 10 Golden Aspen       |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R7                       | 1 All Of Me           |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R6                       | 13 Looking Hot        |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R6                       | 6 Gal Gadot           |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R6                       | 5 Diamonds 'n Dust    |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R6                       | 7 Spiritofthegroove   |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R6                       | 8 High Flyby          |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R6                       | 14 Wings Of Nike      |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R6                       | 15 Fantasy Flower     |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R5                       | 16 The Sash           |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R5                       | 15 Fasinada           |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R5                       | 14 Diamonds N Dollars |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R5                       | 13 Sophia's First     |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R5                       | 9 Crusade To Royalty  |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R5                       | 7 Rattle Bag          |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R5                       | 6 Viceroy             |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R5                       | 3 Kool Baikal         |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R5                       | 1 Imperious Light     |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R4                       | 6 Angelofthemorning   |   0    |    -10   |
+| 0                 | 2022-05-17 | vaal R4                       | 2 Country Flame       |   0    |    -10   |
+| 0                 | 2022-05-17 | nottingham R1                 | 2 Courageous Knight   |   0    |    -10   |
 | 0                 | 2022-05-17 | vaal R3                       | 4 Satoshi             |   0    |    -10   |
 | 0                 | 2022-05-17 | vaal R3                       | 7 Manz Knight         |   0    |    -10   |
 | 0                 | 2022-05-17 | vaal R3                       | 3 My True North       |   0    |    -10   |

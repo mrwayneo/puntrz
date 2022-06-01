@@ -1,21 +1,20 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-05-17 21:40:04 +1000  
+date: 2022-06-01 17:17:43 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |    126 |     19 |   -758   | 0.15 | -0.6  |
-| Last 6 Months  |   1129 |    269 |  -3518.6 | 0.24 | -0.31 |
-| Since Jan 2020 |   3234 |    802 |  -6057.6 | 0.25 | -0.19 |
+| Last 28 Days   |     38 |      0 |   -380   | 0    | -1    |
+| Since Jan 2020 |   3180 |    792 |  -5867.6 | 0.25 | -0.18 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 05:30             | 2022-05-18 | killarney R7                 | 1 Beamish             |   5.5  |    -10   |
-| 23:20             | 2022-05-17 | wolverhampton R3             | 2 Archiano            |   2.35 |    -10   |
+| 0                 | 2022-05-18 | killarney R7                 | 1 Beamish             |   0    |    -10   |
+| 0                 | 2022-05-17 | wolverhampton R3             | 2 Archiano            |   0    |    -10   |
 | 0                 | 2022-05-17 | vaal R2                      | 3 Aniara              |   0    |    -10   |
 | 0                 | 2022-05-17 | toowoomba R1                 | 2 Under The Covers    |   0    |    -10   |
 | 0                 | 2022-05-08 | naas R8                      | 3 Drombeg Banner      |   0    |    -10   |

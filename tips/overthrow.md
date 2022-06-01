@@ -1,26 +1,24 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-05-17 21:40:03 +1000  
+date: 2022-06-01 17:17:43 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     11 |      1 |    -85   | 0.09 | -0.77 |
-| Last 28 Days   |    241 |     28 |  -1465.7 | 0.12 | -0.61 |
-| Last 6 Months  |   2239 |    490 |  -7401.4 | 0.22 | -0.33 |
-| Since Jan 2020 |   5941 |   1443 |  -9869.4 | 0.24 | -0.17 |
+| Last 28 Days   |     74 |      1 |   -715   | 0.01 | -0.97 |
+| Since Jan 2020 |   5892 |   1429 | -10027.4 | 0.24 | -0.17 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 05:22             | 2022-05-18 | huntingdon R7                | 3 Just Cause          |   3.9  |    -10   |
-| 05:22             | 2022-05-18 | huntingdon R7                | 1 Downtown Getaway    |   1.65 |    -10   |
-| 04:47             | 2022-05-18 | huntingdon R6                | 2 Flashing Glance     |   4.4  |    -10   |
-| 04:47             | 2022-05-18 | huntingdon R6                | 1 Haul Away           |   6    |    -10   |
-| 03:47             | 2022-05-18 | huntingdon R4                | 4 Dorrells Pierji     |   4.2  |    -10   |
-| 22:10             | 2022-05-17 | nottingham R1                | 2 Courageous Knight   |   2.6  |    -10   |
+| 0                 | 2022-05-18 | huntingdon R7                | 3 Just Cause          |   0    |    -10   |
+| 0                 | 2022-05-18 | huntingdon R7                | 1 Downtown Getaway    |   0    |    -10   |
+| 0                 | 2022-05-18 | huntingdon R6                | 2 Flashing Glance     |   0    |    -10   |
+| 0                 | 2022-05-18 | huntingdon R6                | 1 Haul Away           |   0    |    -10   |
+| 0                 | 2022-05-18 | huntingdon R4                | 4 Dorrells Pierji     |   0    |    -10   |
+| 0                 | 2022-05-17 | nottingham R1                | 2 Courageous Knight   |   0    |    -10   |
 | 0                 | 2022-05-17 | killarney R7                 | 4 Nice To Meet        |   0    |    -10   |
 | 0                 | 2022-05-17 | killarney R5                 | 2 Melon               |   0    |    -10   |
 | 0                 | 2022-05-17 | killarney R4                 | 9 Hybery              |   0    |    -10   |

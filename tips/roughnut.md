@@ -1,60 +1,58 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-05-17 21:40:08 +1000  
+date: 2022-06-01 17:17:47 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     42 |      0 |   -420   | 0    | -1    |
-| Last 28 Days   |    702 |     22 |  -3385   | 0.03 | -0.48 |
-| Last 6 Months  |   7637 |    307 | -31393.5 | 0.04 | -0.41 |
-| Since Jan 2020 |  20901 |   1053 | -49354   | 0.05 | -0.24 |
+| Last 28 Days   |    306 |      0 |    -3060 | 0    | -1    |
+| Since Jan 2020 |  20949 |   1053 |   -49834 | 0.05 | -0.24 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:38             | 2022-05-18 | hexham R7                     | 1 Lord Caprio         |  10    |    -10   |
-| 05:38             | 2022-05-18 | hexham R7                     | 5 Archive             | 126    |    -10   |
-| 05:38             | 2022-05-18 | hexham R7                     | 9 My Macho Man        |  15    |    -10   |
-| 05:38             | 2022-05-18 | hexham R7                     | 14 Baraboy            |  31    |    -10   |
-| 05:22             | 2022-05-18 | huntingdon R7                 | 5 Sulu Magic          |  61    |    -10   |
-| 05:22             | 2022-05-18 | huntingdon R7                 | 2 Chapelier           |  61    |    -10   |
-| 05:03             | 2022-05-18 | hexham R6                     | 3 The Electrician     |  12    |    -10   |
-| 04:55             | 2022-05-18 | killarney R6                  | 6 Away To Sea         |  15    |    -10   |
-| 04:55             | 2022-05-18 | killarney R6                  | 11 Well Funded        |  23    |    -10   |
-| 04:33             | 2022-05-18 | hexham R5                     | 5 Applaus             |  10    |    -10   |
-| 04:25             | 2022-05-18 | killarney R5                  | 18 Harbanaker         |  13    |    -10   |
-| 04:25             | 2022-05-18 | killarney R5                  | 12 Tynamite           |  31    |    -10   |
-| 04:25             | 2022-05-18 | killarney R5                  | 9 Indiana Grey        |  31    |    -10   |
-| 04:10             | 2022-05-18 | sligo R5                      | 4 Dreal Deal          |  12    |    -10   |
-| 04:10             | 2022-05-18 | sligo R5                      | 6 House Of Kings      |  31    |    -10   |
-| 04:10             | 2022-05-18 | sligo R5                      | 8 Malayan             |  13    |    -10   |
-| 04:10             | 2022-05-18 | sligo R5                      | 12 Red Ball Of Fire   |  23    |    -10   |
-| 04:03             | 2022-05-18 | hexham R4                     | 5 Larry Looby         |   8.5  |    -10   |
-| 04:03             | 2022-05-18 | hexham R4                     | 4 Richardson          |   8    |    -10   |
-| 03:55             | 2022-05-18 | killarney R4                  | 7 Elmos Fire          |   9.5  |    -10   |
-| 03:55             | 2022-05-18 | killarney R4                  | 5 Notwithstanding     |  15    |    -10   |
-| 03:17             | 2022-05-18 | huntingdon R3                 | 3 Faro                |  10    |    -10   |
-| 03:10             | 2022-05-18 | sligo R3                      | 1 Bridge Of Dawn      |   5    |    -10   |
-| 02:33             | 2022-05-18 | hexham R1                     | 2 Lord Condi          |  41    |    -10   |
-| 02:17             | 2022-05-18 | huntingdon R1                 | 5 Grand Revival       |  12    |    -10   |
-| 02:10             | 2022-05-18 | sligo R1                      | 3 Hot Bell            |   7.5  |    -10   |
-| 02:10             | 2022-05-18 | sligo R1                      | 9 Dutch Schaefer      |   6    |    -10   |
-| 01:45             | 2022-05-18 | nottingham R8                 | 8 Ruby Jules          |  51    |    -10   |
-| 00:20             | 2022-05-18 | wolverhampton R5              | 4 Nasim               |  10    |    -10   |
-| 00:10             | 2022-05-18 | nottingham R5                 | 9 Making Music        |  23    |    -10   |
-| 23:50             | 2022-05-17 | wolverhampton R4              | 8 Diva Dancer         |  11    |    -10   |
-| 23:40             | 2022-05-17 | nottingham R4                 | 1 Tralee Hills        |   9    |    -10   |
-| 23:40             | 2022-05-17 | nottingham R4                 | 5 Vis A Vis           |   9    |    -10   |
-| 23:40             | 2022-05-17 | nottingham R4                 | 7 Leopolds Rock       |  16    |    -10   |
-| 23:40             | 2022-05-17 | nottingham R4                 | 13 Gyenyame           |   8.5  |    -10   |
-| 23:30             | 2022-05-17 | brighton R4                   | 3 Zulu Girl           |  10    |    -10   |
-| 23:20             | 2022-05-17 | wolverhampton R3              | 3 Dawson Lane         |  26    |    -10   |
-| 23:00             | 2022-05-17 | brighton R3                   | 12 Queen Sarabi       |  12    |    -10   |
-| 22:40             | 2022-05-17 | nottingham R2                 | 2 Me Next             |  11    |    -10   |
-| 22:30             | 2022-05-17 | brighton R2                   | 2 Golden Whisper      |  14    |    -10   |
+| 0                 | 2022-05-18 | hexham R7                     | 1 Lord Caprio         |   0    |    -10   |
+| 0                 | 2022-05-18 | hexham R7                     | 5 Archive             |   0    |    -10   |
+| 0                 | 2022-05-18 | hexham R7                     | 9 My Macho Man        |   0    |    -10   |
+| 0                 | 2022-05-18 | hexham R7                     | 14 Baraboy            |   0    |    -10   |
+| 0                 | 2022-05-18 | huntingdon R7                 | 5 Sulu Magic          |   0    |    -10   |
+| 0                 | 2022-05-18 | huntingdon R7                 | 2 Chapelier           |   0    |    -10   |
+| 0                 | 2022-05-18 | hexham R6                     | 3 The Electrician     |   0    |    -10   |
+| 0                 | 2022-05-18 | killarney R6                  | 6 Away To Sea         |   0    |    -10   |
+| 0                 | 2022-05-18 | killarney R6                  | 11 Well Funded        |   0    |    -10   |
+| 0                 | 2022-05-18 | hexham R5                     | 5 Applaus             |   0    |    -10   |
+| 0                 | 2022-05-18 | killarney R5                  | 18 Harbanaker         |   0    |    -10   |
+| 0                 | 2022-05-18 | killarney R5                  | 12 Tynamite           |   0    |    -10   |
+| 0                 | 2022-05-18 | killarney R5                  | 9 Indiana Grey        |   0    |    -10   |
+| 0                 | 2022-05-18 | sligo R5                      | 4 Dreal Deal          |   0    |    -10   |
+| 0                 | 2022-05-18 | sligo R5                      | 6 House Of Kings      |   0    |    -10   |
+| 0                 | 2022-05-18 | sligo R5                      | 8 Malayan             |   0    |    -10   |
+| 0                 | 2022-05-18 | sligo R5                      | 12 Red Ball Of Fire   |   0    |    -10   |
+| 0                 | 2022-05-18 | hexham R4                     | 5 Larry Looby         |   0    |    -10   |
+| 0                 | 2022-05-18 | hexham R4                     | 4 Richardson          |   0    |    -10   |
+| 0                 | 2022-05-18 | killarney R4                  | 7 Elmos Fire          |   0    |    -10   |
+| 0                 | 2022-05-18 | killarney R4                  | 5 Notwithstanding     |   0    |    -10   |
+| 0                 | 2022-05-18 | huntingdon R3                 | 3 Faro                |   0    |    -10   |
+| 0                 | 2022-05-18 | sligo R3                      | 1 Bridge Of Dawn      |   0    |    -10   |
+| 0                 | 2022-05-18 | hexham R1                     | 2 Lord Condi          |   0    |    -10   |
+| 0                 | 2022-05-18 | huntingdon R1                 | 5 Grand Revival       |   0    |    -10   |
+| 0                 | 2022-05-18 | sligo R1                      | 3 Hot Bell            |   0    |    -10   |
+| 0                 | 2022-05-18 | sligo R1                      | 9 Dutch Schaefer      |   0    |    -10   |
+| 0                 | 2022-05-18 | nottingham R8                 | 8 Ruby Jules          |   0    |    -10   |
+| 0                 | 2022-05-18 | wolverhampton R5              | 4 Nasim               |   0    |    -10   |
+| 0                 | 2022-05-18 | nottingham R5                 | 9 Making Music        |   0    |    -10   |
+| 0                 | 2022-05-17 | wolverhampton R4              | 8 Diva Dancer         |   0    |    -10   |
+| 0                 | 2022-05-17 | nottingham R4                 | 1 Tralee Hills        |   0    |    -10   |
+| 0                 | 2022-05-17 | nottingham R4                 | 5 Vis A Vis           |   0    |    -10   |
+| 0                 | 2022-05-17 | nottingham R4                 | 7 Leopolds Rock       |   0    |    -10   |
+| 0                 | 2022-05-17 | nottingham R4                 | 13 Gyenyame           |   0    |    -10   |
+| 0                 | 2022-05-17 | brighton R4                   | 3 Zulu Girl           |   0    |    -10   |
+| 0                 | 2022-05-17 | wolverhampton R3              | 3 Dawson Lane         |   0    |    -10   |
+| 0                 | 2022-05-17 | brighton R3                   | 12 Queen Sarabi       |   0    |    -10   |
+| 0                 | 2022-05-17 | nottingham R2                 | 2 Me Next             |   0    |    -10   |
+| 0                 | 2022-05-17 | brighton R2                   | 2 Golden Whisper      |   0    |    -10   |
 | 0                 | 2022-05-17 | goulburn R5                   | 11 Talento            |   0    |    -10   |
 | 0                 | 2022-05-17 | goulburn R5                   | 4 Dreamtime Legend    |   0    |    -10   |
 | 0                 | 2022-05-17 | moe R6                        | 12 Flying Basil       |   0    |    -10   |

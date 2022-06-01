@@ -1,21 +1,19 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-05-17 21:40:05 +1000  
+date: 2022-06-01 17:17:45 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |     11 |      3 |    -36   | 0.27 | -0.33 |
-| Last 6 Months  |     54 |     10 |   -174.3 | 0.19 | -0.32 |
-| Since Jan 2020 |    137 |     38 |    718.6 | 0.28 |  0.52 |
+| Last 28 Days   |      5 |      0 |    -50   | 0    | -1    |
+| Since Jan 2020 |    136 |     37 |    669.6 | 0.27 |  0.49 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 05:22             | 2022-05-18 | huntingdon R7          | 1 Downtown Getaway   |   1.65 |    -10   |
+| 0                 | 2022-05-18 | huntingdon R7          | 1 Downtown Getaway   |   0    |    -10   |
 | 4                 | 2022-05-16 | cairns R1              | 4 Borlotti Beans     |   3.4  |    -10   |
 | 0                 | 2022-05-08 | cork R7                | 15 Slip Jig          |   0    |    -10   |
 | 0                 | 2022-05-08 | hexham R4              | 6 Tom Cody           |   0    |    -10   |

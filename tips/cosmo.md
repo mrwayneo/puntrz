@@ -1,27 +1,25 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-05-17 21:40:05 +1000  
+date: 2022-06-01 17:17:44 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      0 |      -60 | 0    | -1    |
-| Last 28 Days   |    217 |      7 |     -368 | 0.03 | -0.17 |
-| Last 6 Months  |   2148 |    102 |    -5888 | 0.05 | -0.27 |
-| Since Jan 2020 |   6186 |    355 |    -2104 | 0.06 | -0.03 |
+| Last 28 Days   |     90 |      0 |     -900 | 0    | -1    |
+| Since Jan 2020 |   5953 |    336 |    -4149 | 0.06 | -0.07 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:55             | 2022-05-18 | killarney R4                  | 5 Notwithstanding     |  15    |      -10 |
-| 00:20             | 2022-05-18 | wolverhampton R5              | 4 Nasim               |  10    |      -10 |
-| 00:10             | 2022-05-18 | nottingham R5                 | 9 Making Music        |  23    |      -10 |
-| 23:40             | 2022-05-17 | nottingham R4                 | 5 Vis A Vis           |   9    |      -10 |
-| 23:40             | 2022-05-17 | nottingham R4                 | 1 Tralee Hills        |   9    |      -10 |
-| 23:30             | 2022-05-17 | brighton R4                   | 3 Zulu Girl           |  10    |      -10 |
-| 22:30             | 2022-05-17 | brighton R2                   | 2 Golden Whisper      |  14    |      -10 |
+| 0                 | 2022-05-18 | killarney R4                  | 5 Notwithstanding     |   0    |      -10 |
+| 0                 | 2022-05-18 | wolverhampton R5              | 4 Nasim               |   0    |      -10 |
+| 0                 | 2022-05-18 | nottingham R5                 | 9 Making Music        |   0    |      -10 |
+| 0                 | 2022-05-17 | nottingham R4                 | 5 Vis A Vis           |   0    |      -10 |
+| 0                 | 2022-05-17 | nottingham R4                 | 1 Tralee Hills        |   0    |      -10 |
+| 0                 | 2022-05-17 | brighton R4                   | 3 Zulu Girl           |   0    |      -10 |
+| 0                 | 2022-05-17 | brighton R2                   | 2 Golden Whisper      |   0    |      -10 |
 | 0                 | 2022-05-17 | moe R6                        | 12 Flying Basil       |   0    |      -10 |
 | 0                 | 2022-05-17 | moe R6                        | 6 Landgrave           |   0    |      -10 |
 | 0                 | 2022-05-17 | port-macquarie R5             | 12 Poetic Power       |   0    |      -10 |

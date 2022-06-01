@@ -1,23 +1,21 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-05-17 21:40:06 +1000  
+date: 2022-06-01 17:17:45 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      1 |     61   | 0.25 |  1.52 |
-| Last 28 Days   |     60 |      6 |   -198   | 0.1  | -0.33 |
-| Last 6 Months  |    553 |     63 |  -1849.5 | 0.11 | -0.33 |
-| Since Jan 2020 |   1576 |    219 |  -3087.3 | 0.14 | -0.2  |
+| Last 28 Days   |     20 |      1 |    -99   | 0.05 | -0.5  |
+| Since Jan 2020 |   1558 |    214 |  -3299.3 | 0.14 | -0.21 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:38             | 2022-05-18 | hexham R7                     | 8 Les's Legacy        |   6.5  |    -10   |
-| 02:47             | 2022-05-18 | huntingdon R2                 | 4 Ince                |   7.5  |    -10   |
-| 00:10             | 2022-05-18 | nottingham R5                 | 7 Irresistable        |   6.5  |    -10   |
+| 0                 | 2022-05-18 | hexham R7                     | 8 Les's Legacy        |   0    |    -10   |
+| 0                 | 2022-05-18 | huntingdon R2                 | 4 Ince                |   0    |    -10   |
+| 0                 | 2022-05-18 | nottingham R5                 | 7 Irresistable        |   0    |    -10   |
 | 0                 | 2022-05-17 | goulburn R5                   | 6 Mount Brilliant     |   0    |    -10   |
 | 0                 | 2022-05-17 | windsor R6                    | 13 You're On Mute     |   0    |    -10   |
 | 0                 | 2022-05-17 | redcar R6                     | 1 Dusky Prince        |   0    |    -10   |
