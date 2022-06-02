@@ -1,14 +1,14 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-06-01 17:17:43 +1000  
+date: 2022-06-02 11:38:17 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      6 |      0 |      -60 | 0    | -1    |
+| Last 28 Days   |      5 |      0 |      -50 | 0    | -1    |
 | Since Jan 2020 |    923 |    219 |    -1168 | 0.24 | -0.13 |
 
 | finish            | date       | event                         | runner                |   win |   return |

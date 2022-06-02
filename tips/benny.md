@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-06-01 17:17:40 +1000  
+date: 2022-06-02 11:38:14 +1000  
 categories: None 
 ---   
 
@@ -13,6 +13,8 @@ categories: None
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 04:20             | 2022-06-03 | leopardstown R5               | 4 Cairde Go Deo       |  3.75 |    -10   |
+| 0                 | 2022-06-02 | woodville R4                  | 5 Haka Boogie         |  0    |    -10   |
 | 0                 | 2022-05-07 | toowoomba R3                  | 2 Single Dizire       |  0    |    -10   |
 | 0                 | 2022-05-07 | rockhampton R8                | 10 Master Jamie       |  0    |    -10   |
 | 0                 | 2022-05-07 | darwin R2                     | 2 Manly Cove          |  0    |    -10   |
@@ -138,8 +140,8 @@ categories: None
 | 13                | 2022-02-16 | belmont R9                    | 4 Gee Force           | 41    |    -10   |
 | 5                 | 2022-02-16 | kensington R4                 | 2 Narvaez             |  4.2  |    -10   |
 | :2nd_place_medal: | 2022-02-15 | mackay R3                     | 3 Nailed It Nan       |  1.57 |    -10   |
-| 8                 | 2022-02-12 | caulfield R8                  | 7 Sinawann            |  4.4  |    -10   |
 | 11                | 2022-02-12 | caulfield R8                  | 12 Lightsaber         | 12    |    -10   |
+| 8                 | 2022-02-12 | caulfield R8                  | 7 Sinawann            |  4.4  |    -10   |
 | 4                 | 2022-02-12 | doomben R5                    | 10 Confessed          |  4.5  |    -10   |
 | :boom:            | 2022-02-12 | randwick R6                   | 1 Lost And Running    |  2    |     10   |
 | :boom:            | 2022-02-12 | alice-springs R1              | 2 Supreme Times       |  1.6  |      6   |
@@ -172,8 +174,8 @@ categories: None
 | 6                 | 2022-01-29 | morphettville R3              | 4 Stan The Caddy      |  0    |    -10   |
 | 6                 | 2022-01-28 | southwell R4                  | 8 Corinthia Knight    | 17    |    -10   |
 | 4                 | 2022-01-27 | rockhampton R7                | 7 Whoa Lola           |  1.67 |    -10   |
-| :3rd_place_medal: | 2022-01-27 | rockhampton R2                | 3 Courtesy Bus        |  4.33 |    -10   |
 | :2nd_place_medal: | 2022-01-27 | rockhampton R2                | 2 Nailed It Nan       |  2.6  |    -10   |
+| :3rd_place_medal: | 2022-01-27 | rockhampton R2                | 3 Courtesy Bus        |  4.33 |    -10   |
 | :2nd_place_medal: | 2022-01-26 | belmont R8                    | 2 Makfly              |  6.5  |    -10   |
 | 7                 | 2022-01-26 | darwin R5                     | 6 Young Douro         |  7    |    -10   |
 | 9                 | 2022-01-26 | warwick-farm R8               | 5 Miracle Day         |  7    |    -10   |
@@ -792,8 +794,8 @@ categories: None
 | 7                 | 2021-02-24 | launceston R6                 | 1 Lim's Cruiser       | 13.2  |    -10   |
 | 4                 | 2021-02-23 | bendigo R7                    | 1 Rogue Star          |  4.6  |    -10   |
 | :2nd_place_medal: | 2021-02-18 | warrnambool R7                | 8 Barangaready        |  6.5  |    -10   |
-| 12                | 2021-02-13 | doomben R9                    | 1 All Important       | 18    |    -10   |
 | :boom:            | 2021-02-13 | doomben R9                    | 7 Garibaldi           |  1.6  |      6   |
+| 12                | 2021-02-13 | doomben R9                    | 1 All Important       | 18    |    -10   |
 | :boom:            | 2021-02-13 | randwick R6                   | 7 Masked Crusader     |  2.1  |     11   |
 | :2nd_place_medal: | 2021-02-13 | morphettville-parks R1        | 5 Symphonette         |  5.5  |    -10   |
 | :boom:            | 2021-02-11 | doomben R6                    | 2 Howwonderfullifeis  |  3.8  |     28   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-06-01 17:17:50 +1000  
+date: 2022-06-02 11:38:24 +1000  
 categories: None 
 ---   
 
@@ -13,6 +13,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 17:30             | 2022-06-02 | carnarvon R3           | 4 Flash of Thunder    |  12   |      -10 |
 | 0                 | 2022-05-07 | caulfield R7           | 2 Aramayo             |   0   |      -10 |
 | 0                 | 2022-05-04 | canterbury R5          | 12 Champions League   |   0   |      -10 |
 | 0                 | 2022-05-04 | murray-bdge R5         | 8 Cassowary           |   0   |      -10 |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-06-01 17:17:50 +1000  
+date: 2022-06-02 11:38:24 +1000  
 categories: None 
 ---   
 
@@ -12,6 +12,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 14:40             | 2022-06-02 | wyong R5               | 1 Vyner              |  1.9  |    -10   |
 | 0                 | 2022-04-28 | narrogin R7            | 3 Hilton             |  0    |    -10   |
 | :2nd_place_medal: | 2022-04-25 | lingfield R3           | 1 Goldsmith          |  1.9  |    -10   |
 | 0                 | 2022-04-08 | chelmsford-city R3     | 2 Intelligentsia     |  0    |    -10   |
