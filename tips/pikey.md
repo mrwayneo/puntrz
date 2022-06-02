@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-06-02 11:38:23 +1000  
+date: 2022-06-02 12:50:47 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 | 15:15             | 2022-06-02 | wyong R6              | 6 Sausalito           |   4.8  |    -10   |
 | 14:05             | 2022-06-02 | wyong R4              | 9 The Wanderer        |   6.5  |    -10   |
 | 13:25             | 2022-06-02 | wyong R3              | 1 Nickelback          |   2.62 |    -10   |
-| 12:15             | 2022-06-02 | wyong R1              | 5 Jaxon's Day         |   8    |    -10   |
+| 0                 | 2022-06-02 | wyong R1              | 5 Jaxon's Day         |   0    |    -10   |
 | 0                 | 2022-05-17 | goulburn R5           | 4 Dreamtime Legend    |   0    |    -10   |
 | 0                 | 2022-05-17 | goulburn R3           | 7 Lady Shenanigans    |   0    |    -10   |
 | 0                 | 2022-05-07 | gold-coast R8         | 13 Hungry Heart       |   0    |    -10   |
