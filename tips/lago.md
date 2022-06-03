@@ -1,19 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-06-02 13:14:28 +1000  
+date: 2022-06-03 12:49:11 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      1 |      0 |    -10   | 0    | -1    |
-| Since Jan 2020 |    256 |    120 |   1362.3 | 0.47 |  0.53 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      2 |      0 |    -20   | 0    | -1    |
+| Since Jan 2020 |    257 |    120 |   1352.3 | 0.47 |  0.53 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 00:02             | 2022-06-03 | redcar R3                    | 2 Kidwah             |  1.2  |    -10   |
+| 01:30             | 2022-06-04 | epsom R5                     | 2 Emily Upjohn       |  2.25 |    -10   |
+| 0                 | 2022-06-03 | redcar R3                    | 2 Kidwah             |  0    |    -10   |
 | 0                 | 2022-05-07 | ascot R3                     | 4 Tiffany Street     |  0    |    -10   |
 | 0                 | 2022-05-05 | chester R4                   | 4 New London         |  0    |    -10   |
 | 0                 | 2022-05-04 | chester R3                   | 7 Night Battle       |  0    |    -10   |
@@ -189,8 +191,8 @@ categories: None
 | 99                | 2021-06-19 | royal-ascot R1               | 3 New Science        |  7.5  |    -10   |
 | 99                | 2021-06-19 | royal-ascot R3               | 21 Suesa             |  3.25 |    -10   |
 | 99                | 2021-06-17 | royal-ascot R1               | 9 Lucci              |  8    |    -10   |
-| 99                | 2021-06-17 | royal-ascot R6               | 26 Golden Bell       |  9    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R6               | 28 Ruthin            |  4    |    -10   |
+| 99                | 2021-06-17 | royal-ascot R6               | 26 Golden Bell       |  9    |    -10   |
 | 5                 | 2021-06-12 | sandown-hillside R1          | 1 Mimosas            | 13.2  |    -10   |
 | :boom:            | 2021-06-12 | clonmel R8                   | 2 Dani Barcelona     |  1.62 |      6.2 |
 | :boom:            | 2021-06-11 | sandown R3                   | 8 Native Trail       |  1.8  |      8   |
@@ -215,8 +217,8 @@ categories: None
 | :boom:            | 2021-04-17 | newbury R8                   | 4 Far Hope           |  5    |     40   |
 | :boom:            | 2021-04-17 | newbury R7                   | 4 Gloria Mundi       |  6    |     50   |
 | :boom:            | 2021-04-17 | newbury R5                   | 1 Hurricane Lane     |  3.75 |     27.5 |
-| :boom:            | 2021-04-16 | newmarket R6                 | 1 Al Waqidi          |  3.2  |     22   |
 | 99                | 2021-04-16 | newmarket R6                 | 2 Daramethos         |  4    |    -10   |
+| :boom:            | 2021-04-16 | newmarket R6                 | 1 Al Waqidi          |  3.2  |     22   |
 | :boom:            | 2021-04-15 | kempton R4                   | 1 Ransom             |  3.6  |     26   |
 | 99                | 2021-04-15 | newmarket R5                 | 2 Divine Light       |  8.5  |    -10   |
 | :2nd_place_medal: | 2021-04-11 | devonport-synthetic R8       | 6 Azara              |  3.1  |    -10   |

@@ -1,18 +1,20 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-06-02 13:14:28 +1000  
+date: 2022-06-03 12:49:11 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Since Jan 2020 |     67 |     35 |     -5.3 | 0.52 | -0.01 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      1 |      0 |    -10   | 0    | -1    |
+| Since Jan 2020 |     68 |     35 |    -15.3 | 0.51 | -0.02 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 14:40             | 2022-06-02 | wyong R5               | 1 Vyner              |  1.9  |    -10   |
+| 0                 | 2022-06-02 | wyong R5               | 1 Vyner              |  0    |    -10   |
 | 0                 | 2022-04-28 | narrogin R7            | 3 Hilton             |  0    |    -10   |
 | :2nd_place_medal: | 2022-04-25 | lingfield R3           | 1 Goldsmith          |  1.9  |    -10   |
 | 0                 | 2022-04-08 | chelmsford-city R3     | 2 Intelligentsia     |  0    |    -10   |

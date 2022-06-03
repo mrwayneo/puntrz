@@ -1,22 +1,23 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-06-02 13:14:28 +1000  
+date: 2022-06-03 12:49:11 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      6 |      0 |      -60 | 0    | -1    |
-| Since Jan 2020 |   1047 |    251 |    -1838 | 0.24 | -0.18 |
+| Last 7 Days    |      5 |      0 |      -50 | 0    | -1    |
+| Last 28 Days   |     11 |      0 |     -110 | 0    | -1    |
+| Since Jan 2020 |   1052 |    251 |    -1888 | 0.24 | -0.18 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 16:25             | 2022-06-02 | wyong R8              | 3 Harlem Groove       |   4.4  |    -10   |
-| 15:15             | 2022-06-02 | wyong R6              | 6 Sausalito           |   4.8  |    -10   |
-| 14:05             | 2022-06-02 | wyong R4              | 9 The Wanderer        |   6.5  |    -10   |
-| 13:25             | 2022-06-02 | wyong R3              | 1 Nickelback          |   2.62 |    -10   |
+| 0                 | 2022-06-02 | wyong R8              | 3 Harlem Groove       |   0    |    -10   |
+| 0                 | 2022-06-02 | wyong R6              | 6 Sausalito           |   0    |    -10   |
+| 0                 | 2022-06-02 | wyong R4              | 9 The Wanderer        |   0    |    -10   |
+| 0                 | 2022-06-02 | wyong R3              | 1 Nickelback          |   0    |    -10   |
 | 0                 | 2022-06-02 | wyong R1              | 5 Jaxon's Day         |   0    |    -10   |
 | 0                 | 2022-05-17 | goulburn R5           | 4 Dreamtime Legend    |   0    |    -10   |
 | 0                 | 2022-05-17 | goulburn R3           | 7 Lady Shenanigans    |   0    |    -10   |

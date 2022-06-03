@@ -1,19 +1,20 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-06-02 13:14:28 +1000  
+date: 2022-06-03 12:49:11 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      1 |      0 |      -10 | 0    | -1    |
-| Since Jan 2020 |    255 |     43 |     5192 | 0.17 |  2.04 |
+| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
+| Last 28 Days   |      2 |      0 |      -20 | 0    | -1    |
+| Since Jan 2020 |    256 |     43 |     5182 | 0.17 |  2.02 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 17:30             | 2022-06-02 | carnarvon R3           | 4 Flash of Thunder    |  12   |      -10 |
+| 0                 | 2022-06-02 | carnarvon R3           | 4 Flash of Thunder    |   0   |      -10 |
 | 0                 | 2022-05-07 | caulfield R7           | 2 Aramayo             |   0   |      -10 |
 | 0                 | 2022-05-04 | canterbury R5          | 12 Champions League   |   0   |      -10 |
 | 0                 | 2022-05-04 | murray-bdge R5         | 8 Cassowary           |   0   |      -10 |
