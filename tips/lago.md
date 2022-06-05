@@ -1,20 +1,20 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-06-03 12:49:11 +1000  
+date: 2022-06-05 22:30:10 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
 | Last 28 Days   |      2 |      0 |    -20   | 0    | -1    |
-| Since Jan 2020 |    257 |    120 |   1352.3 | 0.47 |  0.53 |
+| Since Jan 2020 |    258 |    120 |   1342.3 | 0.47 |  0.52 |
 
 | finish            | date       | event                        | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------------|:---------------------|------:|---------:|
-| 01:30             | 2022-06-04 | epsom R5                     | 2 Emily Upjohn       |  2.25 |    -10   |
+| 0                 | 2022-06-04 | epsom R5                     | 2 Emily Upjohn       |  0    |    -10   |
 | 0                 | 2022-06-03 | redcar R3                    | 2 Kidwah             |  0    |    -10   |
 | 0                 | 2022-05-07 | ascot R3                     | 4 Tiffany Street     |  0    |    -10   |
 | 0                 | 2022-05-05 | chester R4                   | 4 New London         |  0    |    -10   |

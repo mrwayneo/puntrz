@@ -1,19 +1,22 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-06-03 12:49:11 +1000  
+date: 2022-06-05 22:30:10 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      3 |      0 |    -30   | 0    |  -1   |
-| Since Jan 2020 |    270 |     40 |   2958.5 | 0.15 |   1.1 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      1 |      0 |    -10   | 0    | -1    |
+| Since Jan 2020 |    271 |     40 |   2948.5 | 0.15 |  1.09 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:33             | 2022-06-04 | doncaster R2                  | 1 Maytree Respite     |  12    |    -10   |
+| 23:10             | 2022-06-05 | kilbeggan R1                  | 4 Didnt Ask           |  26    |    -10   |
+| 0                 | 2022-06-05 | pinjarra R1                   | 7 Evidence            |   0    |    -10   |
+| 0                 | 2022-06-04 | doncaster R2                  | 1 Maytree Respite     |   0    |    -10   |
 | 0                 | 2022-05-07 | haydock R3                    | 17 Jet Of Magic       |   0    |    -10   |
 | 0                 | 2022-05-07 | toowoomba R3                  | 6 As Good As Ready    |   0    |    -10   |
 | 0                 | 2022-05-07 | morphettville R5              | 8 Sneaky Five         |   0    |    -10   |
@@ -59,9 +62,9 @@ categories: None
 | 9                 | 2022-01-20 | warrnambool R7                | 8 Prince Of Eagles    |  19    |    -10   |
 | 5                 | 2022-01-20 | plumpton R3                   | 7 Tzar De L'Elfe      |  21    |    -10   |
 | 99                | 2022-01-15 | fairyhouse R1                 | 9 Longacre Square     |   0    |    -10   |
+| 13                | 2022-01-15 | flemington R4                 | 10 Tuki Twelve        |  41    |    -10   |
 | 9                 | 2022-01-15 | flemington R4                 | 6 Think Bold          |  20    |    -10   |
 | :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
-| 13                | 2022-01-15 | flemington R4                 | 10 Tuki Twelve        |  41    |    -10   |
 | 99                | 2022-01-11 | taunton R3                    | 14 Drag Race          |   0    |    -10   |
 | 4                 | 2022-01-10 | fairyhouse R2                 | 6 Crossgales Ophelia  |   0    |    -10   |
 | 7                 | 2022-01-09 | port-lincoln R5               | 8 Hand to Hand        |  29    |    -10   |
@@ -246,8 +249,8 @@ categories: None
 | 9                 | 2021-03-29 | grafton R2                    | 7 Medusa's Fury       |   9.1  |    -10   |
 | 9                 | 2021-03-27 | morphettville R3              | 8 Oath Of Omerta      |  21    |    -10   |
 | 99                | 2021-03-27 | dundalk R5                    | 2 Doolin Dancer       |  21    |    -10   |
-| 99                | 2021-03-26 | cork R7                       | 2 Optum               |  15    |    -10   |
 | 99                | 2021-03-26 | cork R7                       | 14 Paper Lantern      | 101    |    -10   |
+| 99                | 2021-03-26 | cork R7                       | 2 Optum               |  15    |    -10   |
 | 99                | 2021-03-25 | hereford R6                   | 7 Manor Park          |  34    |    -10   |
 | 99                | 2021-03-21 | thurles R3                    | 9 Pateen              |  81    |    -10   |
 | 11                | 2021-03-20 | eagle-farm R9                 | 14 Our Rebel          |  63    |    -10   |
@@ -255,8 +258,8 @@ categories: None
 | 99                | 2021-03-20 | cheltenham R7                 | 24 Martinhal          |  26    |    -10   |
 | 9                 | 2021-03-19 | moonee-valley R7              | 3 Elite Street        |  34    |    -10   |
 | 7                 | 2021-03-19 | moonee-valley R4              | 3 Drone Strike        |  34    |    -10   |
-| 99                | 2021-03-18 | cheltenham R7                 | 7 Ramillies           |  18    |    -10   |
 | 99                | 2021-03-18 | cheltenham R7                 | 2 Cool Jet            |  61    |    -10   |
+| 99                | 2021-03-18 | cheltenham R7                 | 7 Ramillies           |  18    |    -10   |
 | 99                | 2021-03-16 | stratford R7                  | 1 American Legacy     |  23    |    -10   |
 | 99                | 2021-03-14 | navan R6                      | 5 Forza Milan         |  10    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | hereford R2                   | 10 Oscar Asche        |  23    |    -10   |

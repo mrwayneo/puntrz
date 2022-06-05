@@ -1,24 +1,23 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-06-03 12:49:05 +1000  
+date: 2022-06-05 22:30:05 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      1 |      0 |      -10 | 0    | -1    |
 | Since Jan 2020 |    145 |     23 |       69 | 0.16 |  0.05 |
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
-| 0                 | 2022-05-07 | gold-coast R4       | 4 Robusto          |  0    |      -10 |
+| 4                 | 2022-05-07 | gold-coast R4       | 4 Robusto          |  0    |      -10 |
 | 5                 | 2022-04-30 | hawkesbury R1       | 6 Cadetship        | 10    |      -10 |
 | :boom:            | 2022-04-16 | randwick R7         | 2 Polly Grey       |  4.4  |       34 |
 | :3rd_place_medal: | 2022-04-13 | hawkesbury R3       | 4 Sacrimony        |  5.5  |      -10 |
-| 0                 | 2022-04-06 | canterbury R4       | 13 Vivid Flash     |  0    |      -10 |
-| 0                 | 2022-04-06 | canterbury R2       | 2 Naval Seal       |  0    |      -10 |
+| :2nd_place_medal: | 2022-04-06 | canterbury R4       | 13 Vivid Flash     |  0    |      -10 |
+| 4                 | 2022-04-06 | canterbury R2       | 2 Naval Seal       |  0    |      -10 |
 | 8                 | 2022-04-02 | randwick R4         | 2 Great House      |  6    |      -10 |
 | 7                 | 2022-03-31 | newcastle R8        | 4 Divina           | 18    |      -10 |
 | 9                 | 2022-03-31 | newcastle R6        | 3 Endorsement      |  2.4  |      -10 |

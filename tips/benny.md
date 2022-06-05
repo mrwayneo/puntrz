@@ -1,37 +1,38 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-06-03 12:49:02 +1000  
+date: 2022-06-05 22:30:01 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    |  -1   |
-| Last 28 Days   |      7 |      0 |    -70   | 0    |  -1   |
-| Since Jan 2020 |    937 |    193 |   -897.5 | 0.21 |  -0.1 |
+| Last 7 Days    |      6 |      4 |    -60   | 0.67 |  -1   |
+| Last 28 Days   |      6 |      4 |    -60   | 0.67 |  -1   |
+| Since Jan 2020 |    940 |    200 |   -927.5 | 0.21 |  -0.1 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 00:10             | 2022-06-04 | epsom R3                      | 2 Hukum               |  6    |    -10   |
-| 19:00             | 2022-06-03 | sunshine-coast R7             | 6 Rhyme Time          | 11    |    -10   |
-| 13:17             | 2022-06-03 | rockhampton R5                | 6 Patrolling          |  3.4  |    -10   |
-| 13:17             | 2022-06-03 | rockhampton R5                | 5 Cold Hard Fact      |  8    |    -10   |
-| 0                 | 2022-06-03 | leopardstown R5               | 4 Cairde Go Deo       |  0    |    -10   |
-| 0                 | 2022-06-02 | woodville R4                  | 5 Haka Boogie         |  0    |    -10   |
-| 0                 | 2022-05-07 | toowoomba R3                  | 2 Single Dizire       |  0    |    -10   |
-| 0                 | 2022-05-07 | rockhampton R8                | 10 Master Jamie       |  0    |    -10   |
-| 0                 | 2022-05-07 | darwin R2                     | 2 Manly Cove          |  0    |    -10   |
-| 0                 | 2022-05-07 | caulfield R6                  | 2 Clemenceau          |  0    |    -10   |
-| 0                 | 2022-05-07 | morphettville R1              | 3 Aussie Nugget       |  0    |    -10   |
-| 0                 | 2022-05-06 | townsville R6                 | 3 City Smart          |  0    |    -10   |
-| 0                 | 2022-05-06 | townsville R3                 | 2 Verbalizer          |  0    |    -10   |
-| 0                 | 2022-05-04 | ascot R1                      | 5 Foxy Son            |  0    |    -10   |
-| 0                 | 2022-05-04 | canterbury R4                 | 6 Barrichello         |  0    |    -10   |
-| :3rd_place_medal: | 2022-05-02 | ipswich R1                    | 4 Devil's Rite        |  2.35 |    -10   |
+| 02:45             | 2022-06-06 | musselburgh R5                | 6 Talabaat            | 20    |    -10   |
+| :boom:            | 2022-06-04 | epsom R3                      | 2 Hukum               |  0    |    -10   |
+| :2nd_place_medal: | 2022-06-03 | sunshine-coast R7             | 6 Rhyme Time          |  0    |    -10   |
+| 7                 | 2022-06-03 | rockhampton R5                | 6 Patrolling          |  0    |    -10   |
+| :boom:            | 2022-06-03 | rockhampton R5                | 5 Cold Hard Fact      |  0    |    -10   |
+| :boom:            | 2022-06-03 | leopardstown R5               | 4 Cairde Go Deo       |  0    |    -10   |
+| :boom:            | 2022-06-02 | woodville R4                  | 5 Haka Boogie         |  0    |    -10   |
+| 7                 | 2022-05-07 | toowoomba R3                  | 2 Single Dizire       |  0    |    -10   |
+| 9                 | 2022-05-07 | rockhampton R8                | 10 Master Jamie       |  0    |    -10   |
+| 5                 | 2022-05-07 | darwin R2                     | 2 Manly Cove          |  0    |    -10   |
+| :2nd_place_medal: | 2022-05-07 | caulfield R6                  | 2 Clemenceau          |  0    |    -10   |
+| 10                | 2022-05-07 | morphettville R1              | 3 Aussie Nugget       |  0    |    -10   |
+| :boom:            | 2022-05-06 | townsville R6                 | 3 City Smart          |  0    |    -10   |
+| :boom:            | 2022-05-06 | townsville R3                 | 2 Verbalizer          |  0    |    -10   |
+| 5                 | 2022-05-04 | ascot R1                      | 5 Foxy Son            |  0    |    -10   |
+| :3rd_place_medal: | 2022-05-04 | canterbury R4                 | 6 Barrichello         |  0    |    -10   |
 | 5                 | 2022-05-02 | ipswich R1                    | 7 Sheezasinga         |  3.9  |    -10   |
-| 0                 | 2022-05-02 | newmarket R4                  | 5 Lilac Road          |  0    |    -10   |
+| :3rd_place_medal: | 2022-05-02 | ipswich R1                    | 4 Devil's Rite        |  2.35 |    -10   |
+| 99                | 2022-05-02 | newmarket R4                  | 5 Lilac Road          |  0    |    -10   |
 | 12                | 2022-05-01 | devonport-synthetic R7        | 7 Fighting Phoenix    | 17    |    -10   |
 | :boom:            | 2022-05-01 | alice-springs R2              | 10 Asahi Bearing      | 21.1  |    201   |
 | 8                 | 2022-04-30 | eagle-farm R8                 | 6 Baller              |  8.5  |    -10   |
@@ -40,7 +41,7 @@ categories: None
 | :2nd_place_medal: | 2022-04-30 | morphettville R5              | 1 Twin Stars          |  6    |    -10   |
 | 6                 | 2022-04-30 | barcaldine R3                 | 4 Prunda              |  3.1  |    -10   |
 | :2nd_place_medal: | 2022-04-30 | newmarket R5                  | 1 Yibir               |  1.24 |    -10   |
-| 0                 | 2022-04-27 | vaal R8                       | 1 Let There Be Light  |  0    |    -10   |
+| 99                | 2022-04-27 | vaal R8                       | 1 Let There Be Light  |  0    |    -10   |
 | 4                 | 2022-04-25 | darwin R2                     | 1 Rich Sun            |  3.2  |    -10   |
 | :3rd_place_medal: | 2022-04-25 | kensington R2                 | 2 Terrameades         |  2.45 |    -10   |
 | 5                 | 2022-04-16 | ascot R9                      | 3 Alien From Mars     |  7.5  |    -10   |
@@ -54,15 +55,14 @@ categories: None
 | 5                 | 2022-04-16 | te-rapa R4                    | 2 Our Hail Mary       |  4.75 |    -10   |
 | :boom:            | 2022-04-15 | sale R2                       | 5 Smart Mozzie        | 13.8  |    128   |
 | :boom:            | 2022-04-13 | pinjarra-scarpside R7         | 7 Kazoku              | 15    |    140   |
-| 0                 | 2022-04-07 | narrogin R7                   | 6 Blackwater Bay      |  0    |    -10   |
-| 0                 | 2022-04-07 | darwin R5                     | 2 Captain Hedderwick  |  0    |    -10   |
-| 0                 | 2022-04-06 | launceston R7                 | 2 Incriminate         |  0    |    -10   |
-| 0                 | 2022-04-06 | canterbury R5                 | 3 Andermatt           |  0    |    -10   |
-| 0                 | 2022-04-05 | townsville R4                 | 3 Prophetess          |  0    |    -10   |
-| 0                 | 2022-04-03 | pinjarra R6                   | 3 Zadar Rock          |  0    |    -10   |
+| 10                | 2022-04-07 | darwin R5                     | 2 Captain Hedderwick  |  0    |    -10   |
+| 4                 | 2022-04-06 | launceston R7                 | 2 Incriminate         |  0    |    -10   |
+| :boom:            | 2022-04-06 | canterbury R5                 | 3 Andermatt           |  0    |    -10   |
+| :2nd_place_medal: | 2022-04-05 | townsville R4                 | 3 Prophetess          |  0    |    -10   |
+| 4                 | 2022-04-03 | pinjarra R6                   | 3 Zadar Rock          |  0    |    -10   |
 | :2nd_place_medal: | 2022-04-02 | eagle-farm R3                 | 11 Rations            |  3.4  |    -10   |
-| 0                 | 2022-03-30 | sandown-hillside R8           | 10 The Nephew         |  0    |    -10   |
-| 0                 | 2022-03-30 | canterbury R8                 | 6 Big Surprise        |  0    |    -10   |
+| 7                 | 2022-03-30 | sandown-hillside R8           | 10 The Nephew         |  0    |    -10   |
+| 4                 | 2022-03-30 | canterbury R8                 | 6 Big Surprise        |  0    |    -10   |
 | 8                 | 2022-03-30 | canterbury R7                 | 10 Gracilistyla       |  3    |    -10   |
 | 8                 | 2022-03-30 | canterbury R6                 | 12 Bladnoch           | 34    |    -10   |
 | 5                 | 2022-03-30 | canberra R6                   | 8 Evanora             | 12    |    -10   |
@@ -80,8 +80,8 @@ categories: None
 | 5                 | 2022-03-19 | ipswich R7                    | 4 Kirra Lass          |  5.5  |    -10   |
 | :3rd_place_medal: | 2022-03-19 | flemington R8                 | 6 Grandslam           |  4.5  |    -10   |
 | :boom:            | 2022-03-19 | ascot R2                      | 9 Stella Fair         |  4.9  |     39   |
-| :3rd_place_medal: | 2022-03-19 | rosehill-gardens R5           | 1 Angel of Truth      | 10    |    -10   |
 | 6                 | 2022-03-19 | rosehill-gardens R5           | 2 Entente             | 23    |    -10   |
+| :3rd_place_medal: | 2022-03-19 | rosehill-gardens R5           | 1 Angel of Truth      | 10    |    -10   |
 | :boom:            | 2022-03-19 | morphettville-parks R3        | 6 Daring Move         |  2.9  |     19   |
 | 8                 | 2022-03-19 | morphettville-parks R2        | 7 Ambidazzle          |  4    |    -10   |
 | 7                 | 2022-03-18 | moonee-valley R6              | 8 Zoushine            | 13    |    -10   |
@@ -287,8 +287,8 @@ categories: None
 | :boom:            | 2021-11-20 | sunshine-coast R7             | 2 Zoustyle            |  2.1  |     11   |
 | :2nd_place_medal: | 2021-11-20 | sunshine-coast R7             | 7 Totally Charmed     | 14    |    -10   |
 | :boom:            | 2021-11-20 | darwin R2                     | 3 Syncline            |  4.1  |     31   |
-| :boom:            | 2021-11-20 | roma R4                       | 2 Patented            |  2.6  |     16   |
 | :2nd_place_medal: | 2021-11-20 | roma R4                       | 8 Phionaix            |  5.6  |    -10   |
+| :boom:            | 2021-11-20 | roma R4                       | 2 Patented            |  2.6  |     16   |
 | :2nd_place_medal: | 2021-11-20 | kembla-grange R5              | 1 Incredulous Dream   |  7    |    -10   |
 | :2nd_place_medal: | 2021-11-18 | rockhampton R5                | 3 Eveready            |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-17 | launceston R7                 | 6 Boom Dot Com        |  6.5  |    -10   |
@@ -368,8 +368,8 @@ categories: None
 | :boom:            | 2021-10-09 | randwick R10                  | 10 Leo                |  5.8  |     48   |
 | 10                | 2021-10-09 | randwick R9                   | 10 Great News         |  4.4  |    -10   |
 | 8                 | 2021-10-09 | caulfield R9                  | 4 Elephant            |  4.6  |    -10   |
-| :3rd_place_medal: | 2021-10-09 | eagle-farm R7                 | 7 Vinco               |  5    |    -10   |
 | 8                 | 2021-10-09 | eagle-farm R7                 | 6 Ligulate            | 19    |    -10   |
+| :3rd_place_medal: | 2021-10-09 | eagle-farm R7                 | 7 Vinco               |  5    |    -10   |
 | 5                 | 2021-10-09 | morphettville R7              | 6 Taken Off           |  6    |    -10   |
 | 7                 | 2021-10-09 | eagle-farm R6                 | 4 Firebox             | 21    |    -10   |
 | 11                | 2021-10-09 | randwick R6                   | 2 All Saints' Eve     | 11    |    -10   |
@@ -515,8 +515,8 @@ categories: None
 | 4                 | 2021-08-05 | ipswich R5                    | 3 Vivid Fortress      |  2.25 |    -10   |
 | 6                 | 2021-08-05 | ipswich R1                    | 3 Unconditional       | 11    |    -10   |
 | :2nd_place_medal: | 2021-08-04 | belmont R6                    | 3 Conquered Zone      |  2.35 |    -10   |
-| :2nd_place_medal: | 2021-08-04 | eagle-farm R6                 | 6 Blackboots          |  4.4  |    -10   |
 | 5                 | 2021-08-04 | eagle-farm R6                 | 3 Short Sara          |  2.8  |    -10   |
+| :2nd_place_medal: | 2021-08-04 | eagle-farm R6                 | 6 Blackboots          |  4.4  |    -10   |
 | :boom:            | 2021-08-04 | eagle-farm R5                 | 4 Spokesman           |  3.1  |     21   |
 | :boom:            | 2021-08-04 | eagle-farm R3                 | 1 Avowal              |  3.2  |     22   |
 | 6                 | 2021-08-02 | darwin R6                     | 1 Taciturn            |  5.5  |    -10   |

@@ -1,14 +1,13 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-06-03 12:49:11 +1000  
+date: 2022-06-05 22:30:10 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      4 |      0 |    -40   | 0    | -1    |
 | Since Jan 2020 |    711 |    172 |   -850.5 | 0.24 | -0.12 |
 
 | finish            | date       | event                | runner               |   win |   return |

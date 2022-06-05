@@ -1,34 +1,34 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-06-03 12:49:06 +1000  
+date: 2022-06-05 22:30:06 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      4 |      0 |    -40   | 0    | -1    |
-| Since Jan 2020 |    136 |     37 |    669.6 | 0.27 |  0.49 |
+| Last 28 Days   |      2 |      1 |    -20   | 0.5  | -1    |
+| Since Jan 2020 |    136 |     40 |    695.8 | 0.29 |  0.51 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 0                 | 2022-05-18 | huntingdon R7          | 1 Downtown Getaway   |   0    |    -10   |
+| :boom:            | 2022-05-18 | huntingdon R7          | 1 Downtown Getaway   |   0    |    -10   |
 | 4                 | 2022-05-16 | cairns R1              | 4 Borlotti Beans     |   3.4  |    -10   |
-| 0                 | 2022-05-08 | cork R7                | 15 Slip Jig          |   0    |    -10   |
-| 0                 | 2022-05-08 | hexham R4              | 6 Tom Cody           |   0    |    -10   |
-| 0                 | 2022-05-06 | townsville R7          | 7 Lord Of Light      |   0    |    -10   |
-| 0                 | 2022-05-05 | fontwell R1            | 3 Coal Stock         |   0    |    -10   |
+| 99                | 2022-05-08 | cork R7                | 15 Slip Jig          |   0    |    -10   |
+| :3rd_place_medal: | 2022-05-08 | hexham R4              | 6 Tom Cody           |   0    |    -10   |
+| :3rd_place_medal: | 2022-05-06 | townsville R7          | 7 Lord Of Light      |   0    |    -10   |
+| :boom:            | 2022-05-05 | fontwell R1            | 3 Coal Stock         |   0    |    -10   |
 | 4                 | 2022-05-04 | fakenham R6            | 2 General Arrow      |   3    |    -10   |
-| :2nd_place_medal: | 2022-04-30 | cheltenham R3          | 6 Moratorium         |   2.8  |    -10   |
+| :2nd_place_medal: | 2022-04-30 | cheltenham R3          | 6 Moratorium         |   4    |    -10   |
 | :boom:            | 2022-04-30 | cheltenham R1          | 3 Envoye Special     |   2.8  |     18   |
 | :boom:            | 2022-04-29 | grafton R3             | 1 Lesmurdie          |   2.7  |     17   |
 | :boom:            | 2022-04-25 | darwin R4              | 4 Poupee             |   1.9  |      9   |
 | 4                 | 2022-04-25 | darwin R3              | 3 Blueant            |   3.3  |    -10   |
 | :3rd_place_medal: | 2022-04-16 | alice-springs R6       | 1 Rockford Files     |   3.9  |    -10   |
-| 0                 | 2022-04-15 | newcastle R2           | 1 Amilcar            |   0    |    -10   |
-| 0                 | 2022-04-15 | lingfield R2           | 1 Honor And Pleasure |   0    |    -10   |
-| 0                 | 2022-04-07 | darwin R2              | 5 Blueant            |   0    |    -10   |
+| 99                | 2022-04-15 | newcastle R2           | 1 Amilcar            |   0    |    -10   |
+| :boom:            | 2022-04-15 | lingfield R2           | 1 Honor And Pleasure |   2.62 |     16.2 |
+| 4                 | 2022-04-07 | darwin R2              | 5 Blueant            |   0    |    -10   |
 | :boom:            | 2022-03-29 | mackay R4              | 3 Cabalo Escuro      |   1.7  |      7   |
 | :boom:            | 2022-03-25 | darwin R3              | 3 Poupee             |   3.1  |     21   |
 | 7                 | 2022-03-25 | darwin R1              | 2 Sweet Cheval       |   5    |    -10   |
