@@ -1,14 +1,13 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-06-05 22:30:10 +1000  
+date: 2022-06-10 10:07:48 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
 | Last 28 Days   |      1 |      0 |    -10   | 0    | -1    |
 | Since Jan 2020 |     68 |     35 |    -15.3 | 0.51 | -0.02 |
 

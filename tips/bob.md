@@ -1,20 +1,20 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-06-05 22:30:10 +1000  
+date: 2022-06-10 10:07:48 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |      1 |      0 |    -10   | 0    | -1    |
-| Since Jan 2020 |    271 |     40 |   2948.5 | 0.15 |  1.09 |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
+| Last 28 Days   |      3 |      0 |    -30   | 0    | -1    |
+| Since Jan 2020 |    273 |     40 |   2928.5 | 0.15 |  1.07 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 23:10             | 2022-06-05 | kilbeggan R1                  | 4 Didnt Ask           |  26    |    -10   |
+| 0                 | 2022-06-05 | kilbeggan R1                  | 4 Didnt Ask           |   0    |    -10   |
 | 0                 | 2022-06-05 | pinjarra R1                   | 7 Evidence            |   0    |    -10   |
 | 0                 | 2022-06-04 | doncaster R2                  | 1 Maytree Respite     |   0    |    -10   |
 | 0                 | 2022-05-07 | haydock R3                    | 17 Jet Of Magic       |   0    |    -10   |
