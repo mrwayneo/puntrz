@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-06-10 10:07:41 +1000  
+date: 2022-06-11 22:58:11 +1000  
 categories: None 
 ---   
 
@@ -12,6 +12,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
+| 0                 | 2022-06-11 | eagle-farm R5       | 1 Tycoonist        |  0    |      -10 |
 | 4                 | 2022-05-07 | gold-coast R4       | 4 Robusto          |  0    |      -10 |
 | 5                 | 2022-04-30 | hawkesbury R1       | 6 Cadetship        | 10    |      -10 |
 | :boom:            | 2022-04-16 | randwick R7         | 2 Polly Grey       |  4.4  |       34 |

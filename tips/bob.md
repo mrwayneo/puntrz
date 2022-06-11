@@ -1,43 +1,40 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-06-10 10:07:48 +1000  
+date: 2022-06-11 22:58:17 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |      3 |      0 |    -30   | 0    | -1    |
-| Since Jan 2020 |    273 |     40 |   2928.5 | 0.15 |  1.07 |
+| Last 28 Days   |      3 |      1 |    -30   | 0.33 |  -1   |
+| Since Jan 2020 |    270 |     41 |   2958.5 | 0.15 |   1.1 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 0                 | 2022-06-05 | kilbeggan R1                  | 4 Didnt Ask           |   0    |    -10   |
-| 0                 | 2022-06-05 | pinjarra R1                   | 7 Evidence            |   0    |    -10   |
-| 0                 | 2022-06-04 | doncaster R2                  | 1 Maytree Respite     |   0    |    -10   |
-| 0                 | 2022-05-07 | haydock R3                    | 17 Jet Of Magic       |   0    |    -10   |
-| 0                 | 2022-05-07 | toowoomba R3                  | 6 As Good As Ready    |   0    |    -10   |
-| 0                 | 2022-05-07 | morphettville R5              | 8 Sneaky Five         |   0    |    -10   |
-| 0                 | 2022-05-04 | chester R3                    | 3 Improvise           |   0    |    -10   |
+| 0                 | 2022-06-11 | morphettville-parks R7        | 1 Jaamint             |   0    |    -10   |
+| 99                | 2022-06-05 | kilbeggan R1                  | 4 Didnt Ask           |   0    |    -10   |
+| :boom:            | 2022-06-05 | pinjarra R1                   | 7 Evidence            |   0    |    -10   |
+| 4                 | 2022-06-04 | doncaster R2                  | 1 Maytree Respite     |   0    |    -10   |
+| 99                | 2022-05-07 | haydock R3                    | 17 Jet Of Magic       |   0    |    -10   |
+| 9                 | 2022-05-07 | toowoomba R3                  | 6 As Good As Ready    |   0    |    -10   |
+| 7                 | 2022-05-07 | morphettville R5              | 8 Sneaky Five         |   0    |    -10   |
+| 99                | 2022-05-04 | chester R3                    | 3 Improvise           |   0    |    -10   |
 | 6                 | 2022-05-02 | ipswich R3                    | 9 Better Strings      |  13    |    -10   |
-| 0                 | 2022-05-02 | newmarket R5                  | 8 Mise En Scene       |   0    |    -10   |
-| 0                 | 2022-05-01 | punchestown R7                | 10 Read To Return     |   0    |    -10   |
+| 99                | 2022-05-01 | punchestown R7                | 10 Read To Return     |   0    |    -10   |
 | 4                 | 2022-04-30 | barcaldine R5                 | 4 Ancient Echoes      |  12    |    -10   |
-| 0                 | 2022-04-30 | punchestown R8                | 20 Read To Return     |   0    |    -10   |
 | 5                 | 2022-04-28 | mackay R2                     | 3 Heroic Angel        |   6    |    -10   |
-| 0                 | 2022-04-16 | newbury R2                    | 8 Miss Carol Ann      |   0    |    -10   |
+| 99                | 2022-04-16 | newbury R2                    | 8 Miss Carol Ann      |   0    |    -10   |
 | 6                 | 2022-04-16 | oakbank R6                    | 6 Rich Gina           |  16    |    -10   |
 | 4                 | 2022-04-16 | caulfield R5                  | 8 No Way Ever         |  12    |    -10   |
 | 6                 | 2022-04-14 | newmarket R7                  | 5 Damaar              |  12    |    -10   |
-| 0                 | 2022-04-14 | newmarket R5                  | 7 Zechariah           |   0    |    -10   |
-| 0                 | 2022-04-06 | sandown-lakeside R8           | 7 Hongbao             |   0    |    -10   |
-| 0                 | 2022-04-03 | leopardstown R3               | 6 Panama Red          |   0    |    -10   |
+| 99                | 2022-04-14 | newmarket R5                  | 7 Zechariah           |   0    |    -10   |
+| :3rd_place_medal: | 2022-04-06 | sandown-lakeside R8           | 7 Hongbao             |   0    |    -10   |
+| 99                | 2022-04-03 | leopardstown R3               | 6 Panama Red          |   0    |    -10   |
 | 8                 | 2022-04-02 | bendigo R5                    | 11 Demando            |  26    |    -10   |
 | :boom:            | 2022-03-30 | sandown-hillside R3           | 3 Rebel's Choice      |  11.2  |    102   |
-| 0                 | 2022-03-23 | wetherby R5                   | 1 Bushypark           |   0    |    -10   |
-| 0                 | 2022-03-19 | fakenham R1                   | 7 Fae The Port        |   0    |    -10   |
+| 99                | 2022-03-19 | fakenham R1                   | 7 Fae The Port        |   0    |    -10   |
 | :2nd_place_medal: | 2022-03-18 | moonee-valley R7              | 8 Can't Go Wong       |  29    |    -10   |
 | 7                 | 2022-03-18 | moonee-valley R7              | 5 The Cunning Fox     |  23    |    -10   |
 | 11                | 2022-03-18 | townsville R8                 | 3 Supreme Prince      |  31    |    -10   |
@@ -46,15 +43,15 @@ categories: None
 | 4                 | 2022-02-27 | newcastle R4                  | 13 Court Master       |  12    |    -10   |
 | 6                 | 2022-02-26 | morphettville R3              | 10 Scampton           |  18    |    -10   |
 | 5                 | 2022-02-23 | sandown-hillside R7           | 9 Dickensian          |   9    |    -10   |
-| 0                 | 2022-02-13 | newbury R7                    | 6 Dusky Days          |   0    |    -10   |
-| 0                 | 2022-02-13 | warwick R6                    | 1 Ballintubber Boy    |   0    |    -10   |
-| 0                 | 2022-02-11 | doncaster R6                  | 3 Faire Part Sivola   |   0    |    -10   |
+| 99                | 2022-02-13 | newbury R7                    | 6 Dusky Days          |   0    |    -10   |
+| 99                | 2022-02-13 | warwick R6                    | 1 Ballintubber Boy    |   0    |    -10   |
+| 99                | 2022-02-11 | doncaster R6                  | 3 Faire Part Sivola   |   0    |    -10   |
 | :3rd_place_medal: | 2022-02-09 | sandown-hillside R4           | 2 Secret Isle         |   9.5  |    -10   |
-| 0                 | 2022-02-07 | leopardstown R7               | 23 Suprise Package    |   0    |    -10   |
+| 99                | 2022-02-07 | leopardstown R7               | 23 Suprise Package    |   0    |    -10   |
 | 11                | 2022-02-06 | pinjarra R7                   | 7 Outspoken Lad       |  20    |    -10   |
 | 9                 | 2022-02-05 | randwick R9                   | 7 Soami               |  21    |    -10   |
-| 0                 | 2022-02-05 | chepstow R2                   | 3 El Diablo           |   0    |    -10   |
-| 0                 | 2022-02-05 | chepstow R1                   | 7 Gris Majeur         |   0    |    -10   |
+| 99                | 2022-02-05 | chepstow R2                   | 3 El Diablo           |   0    |    -10   |
+| 99                | 2022-02-05 | chepstow R1                   | 7 Gris Majeur         |   0    |    -10   |
 | 99                | 2022-01-30 | lingfield R7                  | 2 Igotatext           |   0    |    -10   |
 | 5                 | 2022-01-28 | southwell R4                  | 2 Aberama Gold        |  12    |    -10   |
 | :3rd_place_medal: | 2022-01-26 | leicester R3                  | 3 Autonomous Cloud    |  10    |    -10   |
@@ -62,9 +59,9 @@ categories: None
 | 9                 | 2022-01-20 | warrnambool R7                | 8 Prince Of Eagles    |  19    |    -10   |
 | 5                 | 2022-01-20 | plumpton R3                   | 7 Tzar De L'Elfe      |  21    |    -10   |
 | 99                | 2022-01-15 | fairyhouse R1                 | 9 Longacre Square     |   0    |    -10   |
+| :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
 | 13                | 2022-01-15 | flemington R4                 | 10 Tuki Twelve        |  41    |    -10   |
 | 9                 | 2022-01-15 | flemington R4                 | 6 Think Bold          |  20    |    -10   |
-| :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
 | 99                | 2022-01-11 | taunton R3                    | 14 Drag Race          |   0    |    -10   |
 | 4                 | 2022-01-10 | fairyhouse R2                 | 6 Crossgales Ophelia  |   0    |    -10   |
 | 7                 | 2022-01-09 | port-lincoln R5               | 8 Hand to Hand        |  29    |    -10   |
@@ -249,8 +246,8 @@ categories: None
 | 9                 | 2021-03-29 | grafton R2                    | 7 Medusa's Fury       |   9.1  |    -10   |
 | 9                 | 2021-03-27 | morphettville R3              | 8 Oath Of Omerta      |  21    |    -10   |
 | 99                | 2021-03-27 | dundalk R5                    | 2 Doolin Dancer       |  21    |    -10   |
-| 99                | 2021-03-26 | cork R7                       | 14 Paper Lantern      | 101    |    -10   |
 | 99                | 2021-03-26 | cork R7                       | 2 Optum               |  15    |    -10   |
+| 99                | 2021-03-26 | cork R7                       | 14 Paper Lantern      | 101    |    -10   |
 | 99                | 2021-03-25 | hereford R6                   | 7 Manor Park          |  34    |    -10   |
 | 99                | 2021-03-21 | thurles R3                    | 9 Pateen              |  81    |    -10   |
 | 11                | 2021-03-20 | eagle-farm R9                 | 14 Our Rebel          |  63    |    -10   |
@@ -258,8 +255,8 @@ categories: None
 | 99                | 2021-03-20 | cheltenham R7                 | 24 Martinhal          |  26    |    -10   |
 | 9                 | 2021-03-19 | moonee-valley R7              | 3 Elite Street        |  34    |    -10   |
 | 7                 | 2021-03-19 | moonee-valley R4              | 3 Drone Strike        |  34    |    -10   |
-| 99                | 2021-03-18 | cheltenham R7                 | 2 Cool Jet            |  61    |    -10   |
 | 99                | 2021-03-18 | cheltenham R7                 | 7 Ramillies           |  18    |    -10   |
+| 99                | 2021-03-18 | cheltenham R7                 | 2 Cool Jet            |  61    |    -10   |
 | 99                | 2021-03-16 | stratford R7                  | 1 American Legacy     |  23    |    -10   |
 | 99                | 2021-03-14 | navan R6                      | 5 Forza Milan         |  10    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | hereford R2                   | 10 Oscar Asche        |  23    |    -10   |

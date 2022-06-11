@@ -1,25 +1,25 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-06-10 10:07:48 +1000  
+date: 2022-06-11 22:58:17 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
 | Last 28 Days   |      2 |      0 |      -20 | 0    | -1    |
-| Since Jan 2020 |    257 |     43 |     5172 | 0.17 |  2.01 |
+| Since Jan 2020 |    254 |     43 |     5202 | 0.17 |  2.05 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 0                 | 2022-06-06 | musselburgh R5         | 5 Rosemary And Thyme  |   0   |      -10 |
-| 0                 | 2022-06-02 | carnarvon R3           | 4 Flash of Thunder    |   0   |      -10 |
-| 0                 | 2022-05-07 | caulfield R7           | 2 Aramayo             |   0   |      -10 |
-| 0                 | 2022-05-04 | canterbury R5          | 12 Champions League   |   0   |      -10 |
-| 0                 | 2022-05-04 | murray-bdge R5         | 8 Cassowary           |   0   |      -10 |
-| 0                 | 2022-05-04 | ayr R4                 | 6 Chanting Hill       |   0   |      -10 |
+| 0                 | 2022-06-11 | belmont R5             | 5 Dark Lass           |   0   |      -10 |
+| 99                | 2022-06-06 | musselburgh R5         | 5 Rosemary And Thyme  |   0   |      -10 |
+| :3rd_place_medal: | 2022-06-02 | carnarvon R3           | 4 Flash of Thunder    |   0   |      -10 |
+| 11                | 2022-05-07 | caulfield R7           | 2 Aramayo             |   0   |      -10 |
+| 7                 | 2022-05-04 | canterbury R5          | 12 Champions League   |   0   |      -10 |
+| 8                 | 2022-05-04 | murray-bdge R5         | 8 Cassowary           |   0   |      -10 |
+| 99                | 2022-05-04 | ayr R4                 | 6 Chanting Hill       |   0   |      -10 |
 | :3rd_place_medal: | 2022-05-01 | alice-springs R2       | 3 Mathematics         |  20   |      -10 |
 | :boom:            | 2022-04-30 | thirsk R3              | 5 Redarna             |  71   |      700 |
 | 6                 | 2022-04-30 | te-rapa R8             | 6 Flat Track Bully    |  21   |      -10 |
@@ -28,29 +28,26 @@ categories: None
 | :3rd_place_medal: | 2022-04-25 | kalgoorlie R6          | 4 Jakestar            |  13   |      -10 |
 | :3rd_place_medal: | 2022-04-25 | flemington R8          | 6 Sig Positano        |  19   |      -10 |
 | 7                 | 2022-04-13 | pinjarra-scarpside R8  | 8 There's A Thought   |  11   |      -10 |
-| 0                 | 2022-04-07 | darwin R4              | 5 Koa                 |   0   |      -10 |
-| 0                 | 2022-04-07 | nottingham R5          | 4 Eileendover         |   0   |      -10 |
+| :3rd_place_medal: | 2022-04-07 | nottingham R5          | 4 Eileendover         |   0   |      -10 |
 | 9                 | 2022-04-02 | morphettville R7       | 9 Cassowary           |   9.5 |      -10 |
 | 8                 | 2022-04-02 | eagle-farm R1          | 7 Aliraaj             |  61   |      -10 |
-| 0                 | 2022-03-31 | market-rasen R4        | 2 Boreham Bill        |   0   |      -10 |
-| 0                 | 2022-03-28 | carlisle R2            | 10 Donladd            |   0   |      -10 |
+| 99                | 2022-03-31 | market-rasen R4        | 2 Boreham Bill        |   0   |      -10 |
+| 99                | 2022-03-28 | carlisle R2            | 10 Donladd            |   0   |      -10 |
 | 5                 | 2022-03-20 | pinjarra R6            | 6 Burn One Down       |  14   |      -10 |
 | :3rd_place_medal: | 2022-03-19 | morphettville-parks R7 | 9 Cassowary           |  16   |      -10 |
 | 4                 | 2022-03-19 | ascot R2               | 10 Art Admirer        |  26   |      -10 |
 | 7                 | 2022-03-18 | townsville R9          | 9 Norwegian Wood      |  11   |      -10 |
-| 0                 | 2022-03-12 | newcastle R2           | 4 Cliffs Of Dooneen   |   0   |      -10 |
+| 99                | 2022-03-12 | newcastle R2           | 4 Cliffs Of Dooneen   |   0   |      -10 |
 | :boom:            | 2022-03-11 | muswellbrook R3        | 5 Magic On Ice        |   5.9 |       49 |
 | 10                | 2022-03-06 | esperance-bay R4       | 6 Spring To Life      |  31   |      -10 |
 | 10                | 2022-03-05 | flemington R5          | 12 Zetarita           |  71   |      -10 |
 | :3rd_place_medal: | 2022-02-19 | sunshine-coast R9      | 9 Rock Amore          |   8   |      -10 |
-| 0                 | 2022-02-19 | morphettville-parks R8 | 12 Lianne             |   0   |      -10 |
 | :3rd_place_medal: | 2022-02-19 | alice-springs R2       | 4 Austreet            |  11   |      -10 |
 | :boom:            | 2022-02-12 | caulfield R6           | 5 Earlswood           |  14.4 |      134 |
 | 12                | 2022-02-12 | caulfield R4           | 6 Satin Love          |  81   |      -10 |
 | 12                | 2022-02-09 | belmont R8             | 7 Ulusaba             |  71   |      -10 |
 | :boom:            | 2022-02-07 | muswellbrook R1        | 12 Pirrama            |  12   |      110 |
 | 6                 | 2022-02-05 | randwick R9            | 6 Broken Arrows       |  17   |      -10 |
-| 0                 | 2022-02-05 | randwick R3            | 6 Jungle Book         |   0   |      -10 |
 | 8                 | 2022-02-02 | belmont R6             | 6 Man Of The Hour     |   0   |      -10 |
 | 8                 | 2022-01-29 | sunshine-coast R8      | 14 Star Of Michelin   |   0   |      -10 |
 | 6                 | 2022-01-27 | rockhampton R3         | 5 Fleetingly          |  26   |      -10 |

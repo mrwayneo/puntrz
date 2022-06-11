@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-06-10 10:07:48 +1000  
+date: 2022-06-11 22:58:16 +1000  
 categories: None 
 ---   
 
@@ -9,23 +9,27 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 28 Days   |      7 |      0 |      -70 | 0    | -1    |
-| Since Jan 2020 |   1052 |    251 |    -1888 | 0.24 | -0.18 |
+| Since Jan 2020 |   1034 |    252 |    -1708 | 0.24 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2022-06-02 | wyong R8              | 3 Harlem Groove       |   0    |    -10   |
+| 0                 | 2022-06-11 | eagle-farm R6         | 2 Kolding             |   0    |    -10   |
+| 0                 | 2022-06-11 | eagle-farm R4         | 6 Holstein            |   0    |    -10   |
+| 0                 | 2022-06-11 | eagle-farm R3         | 10 Marakopa           |   0    |    -10   |
+| 0                 | 2022-06-11 | eagle-farm R2         | 7 Bullfinch           |   0    |    -10   |
+| :3rd_place_medal: | 2022-06-02 | wyong R8              | 3 Harlem Groove       |   0    |    -10   |
 | 0                 | 2022-06-02 | wyong R6              | 6 Sausalito           |   0    |    -10   |
-| 0                 | 2022-06-02 | wyong R4              | 9 The Wanderer        |   0    |    -10   |
+| 7                 | 2022-06-02 | wyong R4              | 9 The Wanderer        |   0    |    -10   |
 | 0                 | 2022-06-02 | wyong R3              | 1 Nickelback          |   0    |    -10   |
-| 0                 | 2022-06-02 | wyong R1              | 5 Jaxon's Day         |   0    |    -10   |
-| 0                 | 2022-05-17 | goulburn R5           | 4 Dreamtime Legend    |   0    |    -10   |
-| 0                 | 2022-05-17 | goulburn R3           | 7 Lady Shenanigans    |   0    |    -10   |
-| 0                 | 2022-05-07 | gold-coast R8         | 13 Hungry Heart       |   0    |    -10   |
-| 0                 | 2022-05-07 | gold-coast R4         | 10 Sheeza Belter      |   0    |    -10   |
-| 0                 | 2022-05-07 | gold-coast R3         | 4 Le Baol             |   0    |    -10   |
-| 0                 | 2022-05-07 | gold-coast R2         | 5 Lyrical Girl        |   0    |    -10   |
-| 0                 | 2022-05-04 | canterbury R6         | 6 Billiondollarbaby   |   0    |    -10   |
-| 0                 | 2022-05-04 | canterbury R4         | 10 Kopangi            |   0    |    -10   |
+| :3rd_place_medal: | 2022-06-02 | wyong R1              | 5 Jaxon's Day         |   0    |    -10   |
+| 9                 | 2022-05-17 | goulburn R5           | 4 Dreamtime Legend    |   0    |    -10   |
+| :2nd_place_medal: | 2022-05-17 | goulburn R3           | 7 Lady Shenanigans    |   0    |    -10   |
+| 7                 | 2022-05-07 | gold-coast R8         | 13 Hungry Heart       |   0    |    -10   |
+| :3rd_place_medal: | 2022-05-07 | gold-coast R4         | 10 Sheeza Belter      |   0    |    -10   |
+| 9                 | 2022-05-07 | gold-coast R3         | 4 Le Baol             |   0    |    -10   |
+| 9                 | 2022-05-07 | gold-coast R2         | 5 Lyrical Girl        |   0    |    -10   |
+| 5                 | 2022-05-04 | canterbury R6         | 6 Billiondollarbaby   |   0    |    -10   |
+| :2nd_place_medal: | 2022-05-04 | canterbury R4         | 10 Kopangi            |   0    |    -10   |
 | :boom:            | 2022-05-04 | canterbury R3         | 10 Marooniyah         |   4.7  |     37   |
 | 9                 | 2022-05-03 | kembla-grange R6      | 3 Never Cry           |   3.25 |    -10   |
 | :boom:            | 2022-05-03 | kembla-grange R5      | 3 Desi Girl           |   4.9  |     39   |
@@ -35,8 +39,6 @@ categories: None
 | :3rd_place_medal: | 2022-04-30 | hawkesbury R6         | 7 Surreal Step        |  19    |    -10   |
 | 5                 | 2022-04-30 | hawkesbury R4         | 11 Global Ausbred     |   5    |    -10   |
 | 6                 | 2022-04-30 | hawkesbury R1         | 9 Awesome John        |  14    |    -10   |
-| 0                 | 2022-04-28 | wyong R8              | 3 Harlem Groove       |   0    |    -10   |
-| 0                 | 2022-04-28 | wyong R7              | 4 Cushy               |   0    |    -10   |
 | :boom:            | 2022-04-28 | wyong R5              | 3 Duke Of Gordon      |   1.7  |      7   |
 | :boom:            | 2022-04-28 | wyong R4              | 7 Awesome Wonder      |   4.4  |     34   |
 | 4                 | 2022-04-28 | wyong R2              | 4 Not That Easy       |   3.2  |    -10   |
@@ -48,13 +50,10 @@ categories: None
 | :2nd_place_medal: | 2022-04-13 | hawkesbury R5         | 9 Thalassophile       |   1.8  |    -10   |
 | 8                 | 2022-04-13 | hawkesbury R3         | 6 Way To The Stars    |   9.5  |    -10   |
 | 7                 | 2022-04-13 | hawkesbury R1         | 8 Penitent            |  15    |    -10   |
-| 0                 | 2022-04-07 | wyong R7              | 8 Never Cry           |   0    |    -10   |
 | 0                 | 2022-04-07 | wyong R3              | 8 Arion Story         |   0    |    -10   |
-| 0                 | 2022-04-07 | wyong R1              | 8 Shohei              |   0    |    -10   |
-| 0                 | 2022-04-06 | canterbury R5         | 9 Fox Fighter         |   0    |    -10   |
-| 0                 | 2022-04-06 | canterbury R3         | 7 Rinnova             |   0    |    -10   |
-| 0                 | 2022-04-06 | canterbury R1         | 10 Regal Inheritance  |   0    |    -10   |
-| 0                 | 2022-04-05 | hawkesbury R6         | 12 Great Mystery      |   0    |    -10   |
+| :2nd_place_medal: | 2022-04-06 | canterbury R3         | 7 Rinnova             |   0    |    -10   |
+| 6                 | 2022-04-06 | canterbury R1         | 10 Regal Inheritance  |   0    |    -10   |
+| 5                 | 2022-04-05 | hawkesbury R6         | 12 Great Mystery      |   0    |    -10   |
 | 9                 | 2022-04-02 | randwick R8           | 3 Masked Crusader     |  10    |    -10   |
 | 10                | 2022-04-02 | randwick R6           | 7 Magic               |  17    |    -10   |
 | 7                 | 2022-04-02 | randwick R4           | 6 Zeyrek              |   4.2  |    -10   |
@@ -63,7 +62,7 @@ categories: None
 | 5                 | 2022-03-31 | newcastle R6          | 5 Mighty Willie       |  18    |    -10   |
 | :2nd_place_medal: | 2022-03-31 | newcastle R4          | 8 Spitfire            |   2.75 |    -10   |
 | :2nd_place_medal: | 2022-03-31 | newcastle R1          | 12 Marooniyah         |   3.9  |    -10   |
-| 0                 | 2022-03-30 | canterbury R8         | 12 Hasty Duchess      |   0    |    -10   |
+| 7                 | 2022-03-30 | canterbury R8         | 12 Hasty Duchess      |   0    |    -10   |
 | 10                | 2022-03-30 | canterbury R7         | 7 Stolen Jade         |   8.5  |    -10   |
 | 8                 | 2022-03-30 | canterbury R6         | 12 Bladnoch           |  34    |    -10   |
 | 5                 | 2022-03-30 | canterbury R3         | 4 White Boots         |   7    |    -10   |
@@ -117,16 +116,6 @@ categories: None
 | :2nd_place_medal: | 2022-03-04 | newcastle R8          | 12 Starboreta         |   6    |    -10   |
 | :2nd_place_medal: | 2022-03-04 | newcastle R4          | 6 Givara              |   7.5  |    -10   |
 | :boom:            | 2022-03-04 | newcastle R1          | 11 Kingdom Of Gold    |   7.5  |     65   |
-| 0                 | 2022-03-02 | canterbury R8         | 3 Sessions Road       |   0    |    -10   |
-| 0                 | 2022-03-02 | canterbury R8         | 3 Sessions Road       |   0    |    -10   |
-| 0                 | 2022-03-02 | canterbury R7         | 5 Smirnova            |   0    |    -10   |
-| 0                 | 2022-03-02 | canterbury R7         | 5 Smirnova            |   0    |    -10   |
-| 0                 | 2022-03-02 | canterbury R5         | 7 Rockover            |   0    |    -10   |
-| 0                 | 2022-03-02 | canterbury R5         | 7 Rockover            |   0    |    -10   |
-| 0                 | 2022-03-02 | canterbury R3         | 2 Lord Zoulander      |   0    |    -10   |
-| 0                 | 2022-03-02 | canterbury R3         | 2 Lord Zoulander      |   0    |    -10   |
-| 0                 | 2022-03-02 | canterbury R1         | 1 Cannon              |   0    |    -10   |
-| 0                 | 2022-03-02 | canterbury R1         | 1 Cannon              |   0    |    -10   |
 | 6                 | 2022-03-01 | goulburn R5           | 7 No Statement        |   6    |    -10   |
 | 4                 | 2022-02-26 | randwick R9           | 11 Dadoozdart         |   9.5  |    -10   |
 | 9                 | 2022-02-26 | randwick R7           | 4 Mount Popa          |  34    |    -10   |
@@ -136,10 +125,7 @@ categories: None
 | :3rd_place_medal: | 2022-02-24 | newcastle R7          | 11 Danish Prince      |  41    |    -10   |
 | 10                | 2022-02-24 | newcastle R5          | 6 Chickerartie        |  61    |    -10   |
 | 6                 | 2022-02-24 | newcastle R3          | 7 Pathos              |  15    |    -10   |
-| 0                 | 2022-02-23 | gosford R6            | 1 Off Shaw            |   0    |    -10   |
-| 0                 | 2022-02-23 | gosford R4            | 6 Roccaforte          |   0    |    -10   |
 | 0                 | 2022-02-23 | gosford R2            | 9 Mrs Patmore         |   0    |    -10   |
-| 0                 | 2022-02-23 | gosford R1            | 1 Californiasilencer  |   0    |    -10   |
 | 4                 | 2022-02-19 | rosehill-gardens R9   | 3 Zeyrek              |   9.5  |    -10   |
 | :2nd_place_medal: | 2022-02-19 | rosehill-gardens R8   | 4 Hilal               |  10    |    -10   |
 | 5                 | 2022-02-19 | rosehill-gardens R7   | 7 Parry Sound         |  13    |    -10   |
@@ -153,7 +139,7 @@ categories: None
 | :3rd_place_medal: | 2022-01-30 | pinjarra-scarpside R7 | 7 Miss Field          |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-30 | pinjarra-scarpside R6 | 4 Fine Romance        |   0    |    -10   |
 | 4                 | 2022-01-30 | pinjarra-scarpside R5 | 1 Soviet Spy          |   0    |    -10   |
-| 0                 | 2022-01-30 | pinjarra-scarpside R4 | 12 Ruby Noir          |   0    |    -10   |
+| :boom:            | 2022-01-30 | pinjarra-scarpside R4 | 12 Ruby Noir          |   0    |    -10   |
 | 5                 | 2022-01-30 | pinjarra-scarpside R3 | 7 Chang Man           |   0    |    -10   |
 | :2nd_place_medal: | 2022-01-30 | pinjarra-scarpside R2 | 5 Got Ya              |   0    |    -10   |
 | 6                 | 2022-01-30 | pinjarra-scarpside R1 | 3 Anna's Boy          |   0    |    -10   |

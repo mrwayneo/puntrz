@@ -1,28 +1,30 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-06-10 10:07:48 +1000  
+date: 2022-06-11 22:58:16 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      1 |      0 |    -10   | 0    | -1    |
-| Since Jan 2020 |     68 |     35 |    -15.3 | 0.51 | -0.02 |
+| Last 28 Days   |      2 |      1 |    -20   | 0.5  | -1    |
+| Since Jan 2020 |     70 |     39 |    -35.3 | 0.56 | -0.05 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 0                 | 2022-06-02 | wyong R5               | 1 Vyner              |  0    |    -10   |
-| 0                 | 2022-04-28 | narrogin R7            | 3 Hilton             |  0    |    -10   |
+| :2nd_place_medal: | 2022-06-02 | wyong R5               | 1 Vyner              |  0    |    -10   |
+| :boom:            | 2022-05-18 | brighton R5            | 2 Sabyinyo           |  0    |    -10   |
+| :boom:            | 2022-05-05 | pinjarra-scarpside R3  | 1 My Boy Eddy        |  0    |    -10   |
+| :boom:            | 2022-04-28 | narrogin R7            | 3 Hilton             |  0    |    -10   |
 | :2nd_place_medal: | 2022-04-25 | lingfield R3           | 1 Goldsmith          |  1.9  |    -10   |
-| 0                 | 2022-04-08 | chelmsford-city R3     | 2 Intelligentsia     |  0    |    -10   |
-| 0                 | 2022-04-06 | sandown-lakeside R2    | 6 Rockribbed         |  0    |    -10   |
+| :3rd_place_medal: | 2022-04-08 | chelmsford-city R3     | 2 Intelligentsia     |  0    |    -10   |
+| :boom:            | 2022-04-06 | sandown-lakeside R2    | 6 Rockribbed         |  0    |    -10   |
 | :boom:            | 2022-03-27 | sunshine-coast R6      | 12 Natalieann        |  1.6  |      6   |
 | :3rd_place_medal: | 2022-03-21 | chepstow R5            | 3 Whitehotchillifili |  1.9  |    -10   |
 | :boom:            | 2022-03-18 | townsville R4          | 5 Kittykittybangbang |  2.8  |     18   |
 | :boom:            | 2022-03-18 | goulburn R3            | 3 Red Hot            |  1.8  |      8   |
-| 0                 | 2022-03-12 | esperance-bay R4       | 1 Thehuntsmen        |  0    |    -10   |
+| :2nd_place_medal: | 2022-03-12 | esperance-bay R4       | 1 Thehuntsmen        |  0    |    -10   |
 | :boom:            | 2022-02-08 | carlisle R5            | 4 Lady Tremaine      |  2    |     10   |
 | :3rd_place_medal: | 2022-01-30 | strathalbyn R1         | 8 Ten Feathers       |  0    |    -10   |
 | :3rd_place_medal: | 2022-01-27 | catterick R2           | 2 Get Your Own       |  1.9  |    -10   |
