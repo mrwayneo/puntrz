@@ -1,28 +1,30 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-06-11 22:58:16 +1000  
+date: 2022-06-12 13:15:43 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Since Jan 2020 |    695 |    176 |   -690.5 | 0.25 |  -0.1 |
+| Last 7 Days    |      4 |      1 |    -40   | 0.25 |  -1   |
+| Last 28 Days   |      4 |      1 |    -40   | 0.25 |  -1   |
+| Since Jan 2020 |    696 |    177 |   -700.5 | 0.25 |  -0.1 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 0                 | 2022-06-11 | eagle-farm R6        | 6 Great House        |  0    |    -10   |
-| 0                 | 2022-06-11 | eagle-farm R5        | 5 Ranch Hand         |  0    |    -10   |
-| 0                 | 2022-06-11 | eagle-farm R3        | 3 Irish Sequel       |  0    |    -10   |
-| 0                 | 2022-06-11 | eagle-farm R2        | 3 Bigboyroy          |  0    |    -10   |
+| 10                | 2022-06-11 | eagle-farm R6        | 6 Great House        |  0    |    -10   |
+| 4                 | 2022-06-11 | eagle-farm R5        | 5 Ranch Hand         |  0    |    -10   |
+| :boom:            | 2022-06-11 | eagle-farm R3        | 3 Irish Sequel       |  0    |    -10   |
+| 4                 | 2022-06-11 | eagle-farm R2        | 3 Bigboyroy          |  0    |    -10   |
 | :boom:            | 2022-05-07 | gold-coast R8        | 1 Zaaki              |  0    |    -10   |
 | :2nd_place_medal: | 2022-05-07 | gold-coast R5        | 6 April Rain         |  0    |    -10   |
 | 5                 | 2022-05-07 | gold-coast R4        | 7 West Of Africa     |  0    |    -10   |
 | :2nd_place_medal: | 2022-05-07 | gold-coast R2        | 2 Remlaps Gem        |  0    |    -10   |
 | 0                 | 2022-05-05 | hawkesbury R8        | 1 Camaguey           |  0    |    -10   |
 | 4                 | 2022-05-05 | hawkesbury R5        | 8 Adorable Miss      |  0    |    -10   |
-| 0                 | 2022-05-05 | hawkesbury R3        | 4 Vaneto             |  0    |    -10   |
+| 6                 | 2022-05-05 | hawkesbury R3        | 4 Vaneto             |  0    |    -10   |
 | 5                 | 2022-05-05 | hawkesbury R1        | 1 Down Every Road    |  0    |    -10   |
 | :2nd_place_medal: | 2022-05-04 | canterbury R5        | 10 Yggdrasil         |  0    |    -10   |
 | :3rd_place_medal: | 2022-05-04 | canterbury R4        | 6 Barrichello        |  0    |    -10   |
@@ -38,7 +40,6 @@ categories: None
 | :boom:            | 2022-04-13 | hawkesbury R5        | 2 Calgary Queen      |  3.3  |     23   |
 | :boom:            | 2022-04-13 | hawkesbury R3        | 1 Norwegian Bliss    |  2.3  |     13   |
 | :boom:            | 2022-04-13 | hawkesbury R1        | 5 In Secret          |  2.7  |     17   |
-| 0                 | 2022-04-06 | canterbury R6        | 9 Mahagoni           |  0    |    -10   |
 | :boom:            | 2022-04-06 | canterbury R5        | 3 Andermatt          |  0    |    -10   |
 | :3rd_place_medal: | 2022-04-06 | canterbury R4        | 5 Arranmore          |  0    |    -10   |
 | 4                 | 2022-04-06 | canterbury R3        | 2 Daralina Belle     |  0    |    -10   |
@@ -88,13 +89,11 @@ categories: None
 | 4                 | 2022-03-05 | randwick R4          | 5 Sheraz             |  6.5  |    -10   |
 | 4                 | 2022-03-05 | randwick R3          | 7 Showcourt          | 11    |    -10   |
 | 6                 | 2022-03-05 | randwick R2          | 7 Greece             |  3.2  |    -10   |
-| 0                 | 2022-03-02 | canterbury R5        | 6 Amfissa            |  0    |    -10   |
 | 7                 | 2022-02-26 | randwick R9          | 3 Chalk Stream       | 10    |    -10   |
 | :boom:            | 2022-02-26 | randwick R7          | 8 Verry Elleegant    |  2.5  |     15   |
 | 4                 | 2022-02-26 | randwick R6          | 8 Icebath            |  2.1  |    -10   |
 | 6                 | 2022-02-26 | randwick R5          | 8 Atishu             |  3.6  |    -10   |
 | 4                 | 2022-02-25 | canterbury R2        | 9 Ringarosa          |  4    |    -10   |
-| 0                 | 2022-02-23 | gosford R2           | 7 Birdonawing        |  0    |    -10   |
 | :boom:            | 2022-02-19 | flemington R7        | 8 Home Affairs       |  7.1  |     61   |
 | :3rd_place_medal: | 2022-02-19 | flemington R6        | 1 Captivant          |  5    |    -10   |
 | 9                 | 2022-02-19 | flemington R4        | 15 Zennzella         |  8    |    -10   |
@@ -125,7 +124,7 @@ categories: None
 | :2nd_place_medal: | 2022-02-05 | randwick R1          | 5 Lady Laguna        |  2.9  |    -10   |
 | 6                 | 2022-02-02 | kensington R6        | 7 Rejoiced           |  0    |    -10   |
 | 5                 | 2022-02-02 | kensington R5        | 5 Rules Don't Apply  |  0    |    -10   |
-| 0                 | 2022-02-02 | kensington R3        | 4 Jawaani            |  0    |    -10   |
+| 8                 | 2022-02-02 | kensington R3        | 4 Jawaani            |  0    |    -10   |
 | 4                 | 2022-02-02 | kensington R2        | 2 Himalaism          |  0    |    -10   |
 | :boom:            | 2022-02-02 | kensington R1        | 6 With Your Blessing |  0    |    -10   |
 | :boom:            | 2022-01-29 | rosehill-gardens R9  | 6 Rule Of Law        |  0    |    -10   |

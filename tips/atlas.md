@@ -1,18 +1,20 @@
 ---   
 layout: post   
 title: "Atlas"   
-date: 2022-06-11 22:58:16 +1000  
+date: 2022-06-12 13:15:43 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Since Jan 2020 |     80 |     80 |   1785.1 |    1 |  2.23 |
+| Last 7 Days    |      1 |      1 |    -10   |    1 | -1    |
+| Last 28 Days   |      1 |      1 |    -10   |    1 | -1    |
+| Since Jan 2020 |     81 |     81 |   1775.1 |    1 |  2.19 |
 
 | finish   | date       | event                  | runner               |   win |   return |
 |:---------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 0        | 2022-06-11 | singapore R2           | 3 Major King         |  0    |    -10   |
+| :boom:   | 2022-06-11 | singapore R2           | 3 Major King         |  0    |    -10   |
 | :boom:   | 2022-05-07 | ipswich R2             | 12 Yellow Brick      |  0    |    -10   |
 | :boom:   | 2022-04-15 | ascot R2               | 10 Alsephina         |  2    |     10   |
 | :boom:   | 2022-04-13 | geelong R2             | 5 Shines             |  1.9  |      9   |

@@ -1,26 +1,27 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-06-11 22:58:16 +1000  
+date: 2022-06-12 13:15:43 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      7 |      0 |      -70 | 0    | -1    |
-| Since Jan 2020 |   1034 |    252 |    -1708 | 0.24 | -0.17 |
+| Last 7 Days    |      4 |      0 |      -40 | 0    | -1    |
+| Last 28 Days   |     11 |      0 |     -110 | 0    | -1    |
+| Since Jan 2020 |   1037 |    252 |    -1738 | 0.24 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2022-06-11 | eagle-farm R6         | 2 Kolding             |   0    |    -10   |
-| 0                 | 2022-06-11 | eagle-farm R4         | 6 Holstein            |   0    |    -10   |
-| 0                 | 2022-06-11 | eagle-farm R3         | 10 Marakopa           |   0    |    -10   |
-| 0                 | 2022-06-11 | eagle-farm R2         | 7 Bullfinch           |   0    |    -10   |
+| :2nd_place_medal: | 2022-06-11 | eagle-farm R6         | 2 Kolding             |   0    |    -10   |
+| 7                 | 2022-06-11 | eagle-farm R4         | 6 Holstein            |   0    |    -10   |
+| 5                 | 2022-06-11 | eagle-farm R3         | 10 Marakopa           |   0    |    -10   |
+| 6                 | 2022-06-11 | eagle-farm R2         | 7 Bullfinch           |   0    |    -10   |
 | :3rd_place_medal: | 2022-06-02 | wyong R8              | 3 Harlem Groove       |   0    |    -10   |
 | 0                 | 2022-06-02 | wyong R6              | 6 Sausalito           |   0    |    -10   |
 | 7                 | 2022-06-02 | wyong R4              | 9 The Wanderer        |   0    |    -10   |
-| 0                 | 2022-06-02 | wyong R3              | 1 Nickelback          |   0    |    -10   |
+| :2nd_place_medal: | 2022-06-02 | wyong R3              | 1 Nickelback          |   0    |    -10   |
 | :3rd_place_medal: | 2022-06-02 | wyong R1              | 5 Jaxon's Day         |   0    |    -10   |
 | 9                 | 2022-05-17 | goulburn R5           | 4 Dreamtime Legend    |   0    |    -10   |
 | :2nd_place_medal: | 2022-05-17 | goulburn R3           | 7 Lady Shenanigans    |   0    |    -10   |
@@ -50,7 +51,7 @@ categories: None
 | :2nd_place_medal: | 2022-04-13 | hawkesbury R5         | 9 Thalassophile       |   1.8  |    -10   |
 | 8                 | 2022-04-13 | hawkesbury R3         | 6 Way To The Stars    |   9.5  |    -10   |
 | 7                 | 2022-04-13 | hawkesbury R1         | 8 Penitent            |  15    |    -10   |
-| 0                 | 2022-04-07 | wyong R3              | 8 Arion Story         |   0    |    -10   |
+| :2nd_place_medal: | 2022-04-07 | wyong R3              | 8 Arion Story         |   0    |    -10   |
 | :2nd_place_medal: | 2022-04-06 | canterbury R3         | 7 Rinnova             |   0    |    -10   |
 | 6                 | 2022-04-06 | canterbury R1         | 10 Regal Inheritance  |   0    |    -10   |
 | 5                 | 2022-04-05 | hawkesbury R6         | 12 Great Mystery      |   0    |    -10   |
@@ -125,7 +126,6 @@ categories: None
 | :3rd_place_medal: | 2022-02-24 | newcastle R7          | 11 Danish Prince      |  41    |    -10   |
 | 10                | 2022-02-24 | newcastle R5          | 6 Chickerartie        |  61    |    -10   |
 | 6                 | 2022-02-24 | newcastle R3          | 7 Pathos              |  15    |    -10   |
-| 0                 | 2022-02-23 | gosford R2            | 9 Mrs Patmore         |   0    |    -10   |
 | 4                 | 2022-02-19 | rosehill-gardens R9   | 3 Zeyrek              |   9.5  |    -10   |
 | :2nd_place_medal: | 2022-02-19 | rosehill-gardens R8   | 4 Hilal               |  10    |    -10   |
 | 5                 | 2022-02-19 | rosehill-gardens R7   | 7 Parry Sound         |  13    |    -10   |

@@ -1,19 +1,20 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-06-11 22:58:17 +1000  
+date: 2022-06-12 13:15:43 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      3 |      1 |    -30   | 0.33 |  -1   |
-| Since Jan 2020 |    270 |     41 |   2958.5 | 0.15 |   1.1 |
+| Last 7 Days    |      1 |      1 |    -10   | 1    | -1    |
+| Last 28 Days   |      4 |      2 |    -40   | 0.5  | -1    |
+| Since Jan 2020 |    271 |     42 |   2948.5 | 0.15 |  1.09 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 0                 | 2022-06-11 | morphettville-parks R7        | 1 Jaamint             |   0    |    -10   |
+| :boom:            | 2022-06-11 | morphettville-parks R7        | 1 Jaamint             |   0    |    -10   |
 | 99                | 2022-06-05 | kilbeggan R1                  | 4 Didnt Ask           |   0    |    -10   |
 | :boom:            | 2022-06-05 | pinjarra R1                   | 7 Evidence            |   0    |    -10   |
 | 4                 | 2022-06-04 | doncaster R2                  | 1 Maytree Respite     |   0    |    -10   |
@@ -35,8 +36,8 @@ categories: None
 | 8                 | 2022-04-02 | bendigo R5                    | 11 Demando            |  26    |    -10   |
 | :boom:            | 2022-03-30 | sandown-hillside R3           | 3 Rebel's Choice      |  11.2  |    102   |
 | 99                | 2022-03-19 | fakenham R1                   | 7 Fae The Port        |   0    |    -10   |
-| :2nd_place_medal: | 2022-03-18 | moonee-valley R7              | 8 Can't Go Wong       |  29    |    -10   |
 | 7                 | 2022-03-18 | moonee-valley R7              | 5 The Cunning Fox     |  23    |    -10   |
+| :2nd_place_medal: | 2022-03-18 | moonee-valley R7              | 8 Can't Go Wong       |  29    |    -10   |
 | 11                | 2022-03-18 | townsville R8                 | 3 Supreme Prince      |  31    |    -10   |
 | 5                 | 2022-03-12 | ascot R5                      | 9 Outspoken Lad       |  16    |    -10   |
 | 5                 | 2022-03-05 | newcastle R1                  | 1 Read My Future      |  13    |    -10   |
@@ -78,8 +79,8 @@ categories: None
 | :boom:            | 2021-12-21 | wolverhampton R1              | 6 Ruby Red Empress    |   0    |    -10   |
 | 99                | 2021-12-17 | uttoxeter R3                  | 6 Glebe Road          |   0    |    -10   |
 | 5                 | 2021-12-15 | sandown-hillside R4           | 2 Covert              |  12    |    -10   |
-| 99                | 2021-12-12 | fairyhouse R6                 | 15 Merry Moves        |   0    |    -10   |
 | 99                | 2021-12-12 | fairyhouse R6                 | 3 Bearwithmenow       |   0    |    -10   |
+| 99                | 2021-12-12 | fairyhouse R6                 | 15 Merry Moves        |   0    |    -10   |
 | 99                | 2021-12-11 | cheltenham R4                 | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5                   | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6                 | 8 Precious            |   0    |    -10   |

@@ -1,18 +1,20 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-06-11 22:58:11 +1000  
+date: 2022-06-12 13:15:37 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Since Jan 2020 |    145 |     23 |       69 | 0.16 |  0.05 |
+| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
+| Last 28 Days   |      1 |      0 |      -10 | 0    | -1    |
+| Since Jan 2020 |    146 |     23 |       59 | 0.16 |  0.04 |
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
-| 0                 | 2022-06-11 | eagle-farm R5       | 1 Tycoonist        |  0    |      -10 |
+| 6                 | 2022-06-11 | eagle-farm R5       | 1 Tycoonist        |  0    |      -10 |
 | 4                 | 2022-05-07 | gold-coast R4       | 4 Robusto          |  0    |      -10 |
 | 5                 | 2022-04-30 | hawkesbury R1       | 6 Cadetship        | 10    |      -10 |
 | :boom:            | 2022-04-16 | randwick R7         | 2 Polly Grey       |  4.4  |       34 |
