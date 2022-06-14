@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-06-12 13:15:43 +1000  
+date: 2022-06-14 12:52:20 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,8 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 02:35             | 2022-06-15 | royal-ascot R6       | 14 Tasman Bay        | 15    |    -10   |
+| 00:40             | 2022-06-15 | royal-ascot R3       | 12 Nature Strip      |  2.7  |    -10   |
 | 10                | 2022-06-11 | eagle-farm R6        | 6 Great House        |  0    |    -10   |
 | 4                 | 2022-06-11 | eagle-farm R5        | 5 Ranch Hand         |  0    |    -10   |
 | :boom:            | 2022-06-11 | eagle-farm R3        | 3 Irish Sequel       |  0    |    -10   |
@@ -22,7 +24,7 @@ categories: None
 | :2nd_place_medal: | 2022-05-07 | gold-coast R5        | 6 April Rain         |  0    |    -10   |
 | 5                 | 2022-05-07 | gold-coast R4        | 7 West Of Africa     |  0    |    -10   |
 | :2nd_place_medal: | 2022-05-07 | gold-coast R2        | 2 Remlaps Gem        |  0    |    -10   |
-| 0                 | 2022-05-05 | hawkesbury R8        | 1 Camaguey           |  0    |    -10   |
+| :2nd_place_medal: | 2022-05-05 | hawkesbury R8        | 1 Camaguey           |  0    |    -10   |
 | 4                 | 2022-05-05 | hawkesbury R5        | 8 Adorable Miss      |  0    |    -10   |
 | 6                 | 2022-05-05 | hawkesbury R3        | 4 Vaneto             |  0    |    -10   |
 | 5                 | 2022-05-05 | hawkesbury R1        | 1 Down Every Road    |  0    |    -10   |

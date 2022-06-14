@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-06-12 13:15:43 +1000  
+date: 2022-06-14 12:52:21 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
-| Last 28 Days   |      3 |      0 |      -30 | 0    | -1    |
-| Since Jan 2020 |    255 |     43 |     5192 | 0.17 |  2.04 |
+| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
+| Last 28 Days   |      4 |      0 |      -40 | 0    | -1    |
+| Since Jan 2020 |    256 |     43 |     5182 | 0.17 |  2.02 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 22:37             | 2022-06-12 | doncaster R1           | 8 Old News            |  20   |      -10 |
+| 03:10             | 2022-06-15 | royal-ascot R7         | 1 Alounak             |  23   |      -10 |
+| 0                 | 2022-06-12 | doncaster R1           | 8 Old News            |   0   |      -10 |
 | 6                 | 2022-06-11 | belmont R5             | 5 Dark Lass           |   0   |      -10 |
 | 99                | 2022-06-06 | musselburgh R5         | 5 Rosemary And Thyme  |   0   |      -10 |
 | :3rd_place_medal: | 2022-06-02 | carnarvon R3           | 4 Flash of Thunder    |   0   |      -10 |

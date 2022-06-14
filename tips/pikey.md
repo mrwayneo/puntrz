@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-06-12 13:15:43 +1000  
+date: 2022-06-14 12:52:20 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      4 |      0 |      -40 | 0    | -1    |
-| Last 28 Days   |     11 |      0 |     -110 | 0    | -1    |
+| Last 28 Days   |      9 |      0 |      -90 | 0    | -1    |
 | Since Jan 2020 |   1037 |    252 |    -1738 | 0.24 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
@@ -19,7 +19,7 @@ categories: None
 | 5                 | 2022-06-11 | eagle-farm R3         | 10 Marakopa           |   0    |    -10   |
 | 6                 | 2022-06-11 | eagle-farm R2         | 7 Bullfinch           |   0    |    -10   |
 | :3rd_place_medal: | 2022-06-02 | wyong R8              | 3 Harlem Groove       |   0    |    -10   |
-| 0                 | 2022-06-02 | wyong R6              | 6 Sausalito           |   0    |    -10   |
+| 5                 | 2022-06-02 | wyong R6              | 6 Sausalito           |   0    |    -10   |
 | 7                 | 2022-06-02 | wyong R4              | 9 The Wanderer        |   0    |    -10   |
 | :2nd_place_medal: | 2022-06-02 | wyong R3              | 1 Nickelback          |   0    |    -10   |
 | :3rd_place_medal: | 2022-06-02 | wyong R1              | 5 Jaxon's Day         |   0    |    -10   |
