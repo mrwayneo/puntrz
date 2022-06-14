@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-06-14 12:52:21 +1000  
+date: 2022-06-15 07:46:55 +1000  
 ---   
 
 
@@ -9,21 +9,21 @@ date: 2022-06-14 12:52:21 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 |    0 |    -1 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 |    0 |    -1 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 |    0 |    -1 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      2 |      0 |      -20 |    0 |    -1 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      2 |      0 |      -20 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      3 |      0 |      -30 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      8 |      0 |      -80 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      9 |      0 |      -90 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     10 |      0 |     -100 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     15 |      0 |     -150 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     17 |      0 |     -170 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     21 |      0 |     -210 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     47 |      0 |     -470 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      3 |      0 |      -30 |    0 |    -1 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |      3 |      0 |      -30 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      4 |      0 |      -40 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      5 |      0 |      -50 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     10 |      0 |     -100 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     12 |      0 |     -120 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     15 |      0 |     -150 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     17 |      0 |     -170 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     23 |      0 |     -230 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     24 |      0 |     -240 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     28 |      0 |     -280 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     48 |      0 |     -480 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -32,24 +32,24 @@ date: 2022-06-14 12:52:21 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    510   | 0.05 |  2.55 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    364   | 1    |  1.82 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      5 |     76.3 | 0.25 |  0.38 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      2 |     35   | 0.1  |  0.18 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |     11 |      9.9 | 0.55 |  0.05 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      6 |      0   | 0.3  |  0    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      2 |    -15   | 0.1  | -0.08 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      8 |    -15.5 | 0.4  | -0.08 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |      9 |    -29.5 | 0.45 | -0.15 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |     10 |    -31.1 | 0.5  | -0.16 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      6 |    -33.3 | 0.3  | -0.17 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -39.5 | 0.2  | -0.2  |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |    -56   | 0.2  | -0.28 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      3 |    -61   | 0.15 | -0.3  |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      6 |    -75.3 | 0.3  | -0.38 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -78.5 | 0.15 | -0.39 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      4 |    -85   | 0.2  | -0.42 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |    -95   | 0.15 | -0.48 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      2 |   -104   | 0.1  | -0.52 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      2 |   -123.7 | 0.1  | -0.62 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |   -114.8 | 0.2  | -0.57 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      2 |   -136   | 0.1  | -0.68 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |   -148   | 0.1  | -0.74 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      1 |   -167   | 0.05 | -0.84 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      0 |   -200   | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
@@ -81,11 +81,11 @@ date: 2022-06-14 12:52:21 +1000
 | 23 | :soon:   | 2022-06-15 00:40:00 | royal-ascot |      3 |       15 | Tis Marvellous     |  51    | cosmo,bob            |
 | 24 | :soon:   | 2022-06-15 00:30:00 | thirsk      |      4 |        1 | Bay Of Honour      |   2.1  | evenodds,overthrow   |
 | 25 | :soon:   | 2022-06-15 00:05:00 | royal-ascot |      2 |       15 | Show Respect       |  26    | milkman              |
-| 26 | :soon:   | 2022-06-15 00:05:00 | royal-ascot |      2 |       13 | Royal Scotsman     |  11    | vulture,milkman      |
-| 27 | :soon:   | 2022-06-15 00:05:00 | royal-ascot |      2 |        9 | Paddy's Day        |  41    | vulture,milkman      |
+| 26 | :soon:   | 2022-06-15 00:05:00 | royal-ascot |      2 |        2 | Blackbeard         |   3.75 | vulture,milkman      |
+| 27 | :soon:   | 2022-06-15 00:05:00 | royal-ascot |      2 |        1 | Age Of Kings       |   5.5  | vulture              |
 | 28 | :soon:   | 2022-06-15 00:05:00 | royal-ascot |      2 |       17 | Waiting All Night  | 101    | milkman              |
-| 29 | :soon:   | 2022-06-15 00:05:00 | royal-ascot |      2 |        1 | Age Of Kings       |   5.5  | vulture              |
-| 30 | :soon:   | 2022-06-15 00:05:00 | royal-ascot |      2 |        2 | Blackbeard         |   3.75 | vulture,milkman      |
+| 29 | :soon:   | 2022-06-15 00:05:00 | royal-ascot |      2 |       13 | Royal Scotsman     |  11    | vulture,milkman      |
+| 30 | :soon:   | 2022-06-15 00:05:00 | royal-ascot |      2 |        9 | Paddy's Day        |  41    | vulture,milkman      |
 | 31 | :soon:   | 2022-06-14 23:30:00 | royal-ascot |      1 |        2 | Baaeed             |   1.17 | overthrow,lago       |
 | 32 | :soon:   | 2022-06-14 23:30:00 | royal-ascot |      1 |        5 | Real World         |   8    | pangea,icyhot        |
 | 33 | :soon:   | 2022-06-14 22:45:00 | thirsk      |      1 |        1 | Miss Brazen        |   4.75 | milkman              |

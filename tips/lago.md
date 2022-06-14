@@ -1,19 +1,23 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-06-14 12:52:21 +1000  
+date: 2022-06-15 07:46:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      2 |      1 |    -20   | 0.5  | -1    |
-| Since Jan 2020 |    251 |    124 |   1412.3 | 0.49 |  0.56 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      3 |      1 |    -30   | 0.33 | -1    |
+| Since Jan 2020 |    252 |    124 |   1402.3 | 0.49 |  0.56 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 23:30             | 2022-06-14 | royal-ascot R1         | 2 Baaeed             |  1.17 |    -10   |
+| 02:35             | 2022-06-16 | royal-ascot R6         | 6 Far Shot           | 11    |    -10   |
+| 23:30             | 2022-06-15 | royal-ascot R1         | 1 All The Time       | 19    |    -10   |
+| 23:30             | 2022-06-15 | royal-ascot R1         | 10 Love Reigns       |  3.75 |    -10   |
+| 0                 | 2022-06-14 | royal-ascot R1         | 2 Baaeed             |  0    |    -10   |
 | :2nd_place_medal: | 2022-06-04 | epsom R5               | 2 Emily Upjohn       |  0    |    -10   |
 | :boom:            | 2022-06-03 | redcar R3              | 2 Kidwah             |  0    |    -10   |
 | :boom:            | 2022-05-07 | ascot R3               | 4 Tiffany Street     |  0    |    -10   |
@@ -26,24 +30,24 @@ categories: None
 | :2nd_place_medal: | 2022-04-26 | nottingham R2          | 1 New Dimension      |  1.3  |    -10   |
 | 99                | 2022-04-16 | newbury R2             | 10 Shaara            |  0    |    -10   |
 | :boom:            | 2022-04-15 | ascot R2               | 10 Alsephina         |  2    |     10   |
-| :2nd_place_medal: | 2022-04-14 | newmarket R6           | 1 Aldous Huxley      |  2.5  |    -10   |
 | :boom:            | 2022-04-14 | newmarket R6           | 2 New London         |  2.6  |     16   |
+| :2nd_place_medal: | 2022-04-14 | newmarket R6           | 1 Aldous Huxley      |  2.5  |    -10   |
 | :boom:            | 2022-04-14 | newmarket R5           | 5 Native Trail       |  1.26 |      2.6 |
 | :boom:            | 2022-04-13 | hawkesbury R3          | 1 Norwegian Bliss    |  2.3  |     13   |
 | :3rd_place_medal: | 2022-04-07 | lingfield R5           | 1 Willow Cove        |  0    |    -10   |
 | :boom:            | 2022-04-05 | townsville R1          | 3 Chinny Boom        |  0    |    -10   |
 | :boom:            | 2022-04-02 | alice-springs R6       | 1 Dakota Lee         |  1.1  |      1   |
 | :boom:            | 2022-04-02 | gold-coast R4          | 2 Impel Gazelle      |  4.1  |     31   |
-| :3rd_place_medal: | 2022-03-28 | limerick R8            | 2 Mercurey           |  1.32 |    -10   |
 | :boom:            | 2022-03-28 | limerick R8            | 1 Impulsive Dancer   |  4.8  |     38   |
+| :3rd_place_medal: | 2022-03-28 | limerick R8            | 2 Mercurey           |  1.32 |    -10   |
 | 5                 | 2022-03-25 | moonee-valley R3       | 1 Bello Beau         |  3.75 |    -10   |
 | :boom:            | 2022-03-25 | moonee-valley R1       | 6 Ice Pick Nick      |  5.8  |     48   |
 | :boom:            | 2022-03-23 | exeter R6              | 2 Park Hill Dancer   |  2.1  |     11   |
 | 99                | 2022-03-22 | southwell R3           | 1 Fancy Stuff        |  0    |    -10   |
 | :boom:            | 2022-03-20 | alice-springs R2       | 1 Dakota Lee         |  1.1  |      1   |
 | 99                | 2022-03-17 | kempton R1             | 1 Deciduous          |  0    |    -10   |
-| 99                | 2022-03-17 | cheltenham R7          | 16 Redemption Day    |  0    |    -10   |
 | :boom:            | 2022-03-17 | cheltenham R7          | 7 Facile Vega        |  3    |     20   |
+| 99                | 2022-03-17 | cheltenham R7          | 16 Redemption Day    |  0    |    -10   |
 | :2nd_place_medal: | 2022-03-16 | cheltenham R1          | 4 Jonbon             |  6.5  |    -10   |
 | 99                | 2022-03-16 | cheltenham R1          | 3 Dysart Dynamo      |  0    |    -10   |
 | :2nd_place_medal: | 2022-03-14 | bangor R3              | 2 Jungle Jack        |  2.4  |    -10   |
@@ -125,8 +129,8 @@ categories: None
 | :boom:            | 2021-11-09 | huntingdon R1          | 7 Theatre Glory      |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3          | 3 Yes Dream          |  1.6  |      6   |
 | :boom:            | 2021-11-09 | kempton R3             | 3 Doddiethegreat     |  1.33 |      3.3 |
-| :3rd_place_medal: | 2021-11-07 | sunshine-coast R5      | 2 Ma Ma's Rose       |  3.8  |    -10   |
 | :boom:            | 2021-11-07 | sunshine-coast R5      | 5 Gypsy Goddess      |  3.5  |     25   |
+| :3rd_place_medal: | 2021-11-07 | sunshine-coast R5      | 2 Ma Ma's Rose       |  3.8  |    -10   |
 | :boom:            | 2021-11-07 | wincanton R2           | 1 Knappers Hill      |  1.1  |      1   |
 | 0                 | 2021-11-05 | warwick R1             | 6 In This World      |  0    |    -10   |
 | 99                | 2021-11-03 | exeter R2              | 5 Huflower           |  0    |    -10   |
@@ -184,8 +188,8 @@ categories: None
 | 99                | 2021-06-19 | royal-ascot R1         | 3 New Science        |  7.5  |    -10   |
 | 99                | 2021-06-19 | royal-ascot R3         | 21 Suesa             |  3.25 |    -10   |
 | 99                | 2021-06-17 | royal-ascot R1         | 9 Lucci              |  8    |    -10   |
-| 99                | 2021-06-17 | royal-ascot R6         | 28 Ruthin            |  4    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R6         | 26 Golden Bell       |  9    |    -10   |
+| 99                | 2021-06-17 | royal-ascot R6         | 28 Ruthin            |  4    |    -10   |
 | 5                 | 2021-06-12 | sandown-hillside R1    | 1 Mimosas            | 13.2  |    -10   |
 | :boom:            | 2021-06-12 | clonmel R8             | 2 Dani Barcelona     |  1.62 |      6.2 |
 | :boom:            | 2021-06-11 | sandown R3             | 8 Native Trail       |  1.8  |      8   |
@@ -210,8 +214,8 @@ categories: None
 | :boom:            | 2021-04-17 | newbury R8             | 4 Far Hope           |  5    |     40   |
 | :boom:            | 2021-04-17 | newbury R7             | 4 Gloria Mundi       |  6    |     50   |
 | :boom:            | 2021-04-17 | newbury R5             | 1 Hurricane Lane     |  3.75 |     27.5 |
-| 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
 | :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
+| 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
 | :boom:            | 2021-04-15 | kempton R4             | 1 Ransom             |  3.6  |     26   |
 | 99                | 2021-04-15 | newmarket R5           | 2 Divine Light       |  8.5  |    -10   |
 | :2nd_place_medal: | 2021-04-11 | devonport-synthetic R8 | 6 Azara              |  3.1  |    -10   |
@@ -228,8 +232,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1          | 2 Haut En Couleurs   | 23    |    -10   |
 | :boom:            | 2021-03-19 | sunshine-coast R5      | 7 Karaka Lad         |  1.6  |      6   |
 | :3rd_place_medal: | 2021-03-18 | cheltenham R7          | 12 Elle Est Belle    | 19    |    -10   |
-| :3rd_place_medal: | 2021-03-14 | sandown R4             | 18 Tweed Skirt       |  7.5  |    -10   |
 | 99                | 2021-03-14 | sandown R4             | 9 Precious           | 26    |    -10   |
+| :3rd_place_medal: | 2021-03-14 | sandown R4             | 18 Tweed Skirt       |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-03-12 | thurles R7             | 3 Deploy The Getaway |  1.8  |    -10   |
 | 99                | 2021-03-08 | huntingdon R7          | 1 Quid Pro Quo       |  1.9  |    -10   |
 | 99                | 2021-02-28 | fairyhouse R8          | 5 Glengouly          |  2.25 |    -10   |

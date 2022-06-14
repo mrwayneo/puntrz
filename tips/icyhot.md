@@ -1,20 +1,20 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-06-14 12:52:15 +1000  
+date: 2022-06-15 07:46:49 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      3 |    -30   | 1    | -1    |
-| Last 28 Days   |      5 |      4 |    -50   | 0.8  | -1    |
-| Since Jan 2020 |    601 |    198 |   -767.6 | 0.33 | -0.13 |
+| Last 7 Days    |      4 |      3 |    -40   | 0.75 | -1    |
+| Last 28 Days   |      6 |      4 |    -60   | 0.67 | -1    |
+| Since Jan 2020 |    602 |    198 |   -777.6 | 0.33 | -0.13 |
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
-| 23:30             | 2022-06-14 | royal-ascot R1               | 5 Real World          |  8    |    -10   |
+| 0                 | 2022-06-14 | royal-ascot R1               | 5 Real World          |  0    |    -10   |
 | :boom:            | 2022-06-12 | devonport-synthetic R6       | 1 Julius              |  0    |    -10   |
 | :boom:            | 2022-06-11 | belmont R9                   | 5 Billy Ray           |  0    |    -10   |
 | :boom:            | 2022-06-11 | darwin R2                    | 1 The Captain         |  0    |    -10   |

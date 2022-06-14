@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-06-14 12:52:20 +1000  
+date: 2022-06-15 07:46:54 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,10 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 15:45             | 2022-06-15 | kensington R6         | 6 Kattegat            |   9.5  |    -10   |
+| 15:10             | 2022-06-15 | kensington R5         | 3 Wategos             |  14    |    -10   |
+| 14:35             | 2022-06-15 | kensington R4         | 2 Segrill             |   5.5  |    -10   |
+| 14:00             | 2022-06-15 | kensington R3         | 5 Brown Thomas        |  11    |    -10   |
 | :2nd_place_medal: | 2022-06-11 | eagle-farm R6         | 2 Kolding             |   0    |    -10   |
 | 7                 | 2022-06-11 | eagle-farm R4         | 6 Holstein            |   0    |    -10   |
 | 5                 | 2022-06-11 | eagle-farm R3         | 10 Marakopa           |   0    |    -10   |

@@ -1,21 +1,22 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-06-14 12:52:20 +1000  
+date: 2022-06-15 07:46:54 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      1 |    -40   | 0.25 |  -1   |
-| Last 28 Days   |      4 |      1 |    -40   | 0.25 |  -1   |
-| Since Jan 2020 |    696 |    177 |   -700.5 | 0.25 |  -0.1 |
+| Last 7 Days    |      6 |      1 |    -60   | 0.17 |  -1   |
+| Last 28 Days   |      6 |      1 |    -60   | 0.17 |  -1   |
+| Since Jan 2020 |    698 |    177 |   -720.5 | 0.25 |  -0.1 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 02:35             | 2022-06-15 | royal-ascot R6       | 14 Tasman Bay        | 15    |    -10   |
-| 00:40             | 2022-06-15 | royal-ascot R3       | 12 Nature Strip      |  2.7  |    -10   |
+| 02:00             | 2022-06-16 | royal-ascot R5       | 27 Dark Shift        | 12    |    -10   |
+| 0                 | 2022-06-15 | royal-ascot R6       | 14 Tasman Bay        |  0    |    -10   |
+| 0                 | 2022-06-15 | royal-ascot R3       | 12 Nature Strip      |  0    |    -10   |
 | 10                | 2022-06-11 | eagle-farm R6        | 6 Great House        |  0    |    -10   |
 | 4                 | 2022-06-11 | eagle-farm R5        | 5 Ranch Hand         |  0    |    -10   |
 | :boom:            | 2022-06-11 | eagle-farm R3        | 3 Irish Sequel       |  0    |    -10   |

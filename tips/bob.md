@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-06-14 12:52:21 +1000  
+date: 2022-06-15 07:46:55 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      1 |    -10   | 1    | -1    |
-| Last 28 Days   |      4 |      2 |    -40   | 0.5  | -1    |
-| Since Jan 2020 |    271 |     42 |   2948.5 | 0.15 |  1.09 |
+| Last 7 Days    |      3 |      1 |    -30   | 0.33 | -1    |
+| Last 28 Days   |      6 |      2 |    -60   | 0.33 | -1    |
+| Since Jan 2020 |    273 |     42 |   2928.5 | 0.15 |  1.07 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:10             | 2022-06-15 | royal-ascot R7                | 1 Alounak             |  23    |    -10   |
-| 00:40             | 2022-06-15 | royal-ascot R3                | 15 Tis Marvellous     |  51    |    -10   |
+| 0                 | 2022-06-15 | royal-ascot R7                | 1 Alounak             |   0    |    -10   |
+| 0                 | 2022-06-15 | royal-ascot R3                | 15 Tis Marvellous     |   0    |    -10   |
 | :boom:            | 2022-06-11 | morphettville-parks R7        | 1 Jaamint             |   0    |    -10   |
 | 99                | 2022-06-05 | kilbeggan R1                  | 4 Didnt Ask           |   0    |    -10   |
 | :boom:            | 2022-06-05 | pinjarra R1                   | 7 Evidence            |   0    |    -10   |
