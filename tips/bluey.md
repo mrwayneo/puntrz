@@ -1,20 +1,20 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-06-15 07:46:54 +1000  
+date: 2022-06-16 08:28:45 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      0 |      -30 | 0    | -1    |
-| Last 28 Days   |      5 |      0 |      -50 | 0    | -1    |
-| Since Jan 2020 |    257 |     43 |     5172 | 0.17 |  2.01 |
+| Last 7 Days    |      4 |      0 |      -40 | 0    |    -1 |
+| Last 28 Days   |      6 |      0 |      -60 | 0    |    -1 |
+| Since Jan 2020 |    258 |     43 |     5162 | 0.17 |     2 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 03:10             | 2022-06-16 | royal-ascot R7         | 15 Serenading         |  17   |      -10 |
+| 0                 | 2022-06-16 | royal-ascot R7         | 15 Serenading         |   0   |      -10 |
 | 0                 | 2022-06-15 | royal-ascot R7         | 1 Alounak             |   0   |      -10 |
 | 0                 | 2022-06-12 | doncaster R1           | 8 Old News            |   0   |      -10 |
 | 6                 | 2022-06-11 | belmont R5             | 5 Dark Lass           |   0   |      -10 |

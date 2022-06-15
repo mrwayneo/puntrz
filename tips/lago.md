@@ -1,22 +1,23 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-06-15 07:46:54 +1000  
+date: 2022-06-16 08:28:45 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |      3 |      1 |    -30   | 0.33 | -1    |
-| Since Jan 2020 |    252 |    124 |   1402.3 | 0.49 |  0.56 |
+| Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
+| Last 28 Days   |      6 |      1 |    -60   | 0.17 | -1    |
+| Since Jan 2020 |    255 |    124 |   1372.3 | 0.49 |  0.54 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 02:35             | 2022-06-16 | royal-ascot R6         | 6 Far Shot           | 11    |    -10   |
-| 23:30             | 2022-06-15 | royal-ascot R1         | 1 All The Time       | 19    |    -10   |
-| 23:30             | 2022-06-15 | royal-ascot R1         | 10 Love Reigns       |  3.75 |    -10   |
+| 02:00             | 2022-06-17 | royal-ascot R5         | 18 King Of Time      |  6    |    -10   |
+| 0                 | 2022-06-16 | royal-ascot R6         | 6 Far Shot           |  0    |    -10   |
+| 0                 | 2022-06-15 | royal-ascot R1         | 1 All The Time       |  0    |    -10   |
+| 0                 | 2022-06-15 | royal-ascot R1         | 10 Love Reigns       |  0    |    -10   |
 | 0                 | 2022-06-14 | royal-ascot R1         | 2 Baaeed             |  0    |    -10   |
 | :2nd_place_medal: | 2022-06-04 | epsom R5               | 2 Emily Upjohn       |  0    |    -10   |
 | :boom:            | 2022-06-03 | redcar R3              | 2 Kidwah             |  0    |    -10   |
@@ -67,8 +68,8 @@ categories: None
 | :3rd_place_medal: | 2022-02-12 | ascot R7               | 8 Secret Deploy      |  2.9  |    -10   |
 | :boom:            | 2022-02-12 | bangor R5              | 1 Jungle Jack        |  1.85 |      8.5 |
 | 4                 | 2022-02-09 | ipswich R9             | 9 Sanzera            |  5.5  |    -10   |
-| 99                | 2022-02-07 | leopardstown R8        | 14 Pink In The Park  |  0    |    -10   |
 | 99                | 2022-02-07 | leopardstown R8        | 5 Eabha Grace        |  0    |    -10   |
+| 99                | 2022-02-07 | leopardstown R8        | 14 Pink In The Park  |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6      | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5          | 1 Bello Beau         |  2    |     10   |
 | 99                | 2022-02-06 | leopardstown R7        | 4 Embassy Gardens    |  0    |    -10   |
@@ -188,8 +189,8 @@ categories: None
 | 99                | 2021-06-19 | royal-ascot R1         | 3 New Science        |  7.5  |    -10   |
 | 99                | 2021-06-19 | royal-ascot R3         | 21 Suesa             |  3.25 |    -10   |
 | 99                | 2021-06-17 | royal-ascot R1         | 9 Lucci              |  8    |    -10   |
-| 99                | 2021-06-17 | royal-ascot R6         | 26 Golden Bell       |  9    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R6         | 28 Ruthin            |  4    |    -10   |
+| 99                | 2021-06-17 | royal-ascot R6         | 26 Golden Bell       |  9    |    -10   |
 | 5                 | 2021-06-12 | sandown-hillside R1    | 1 Mimosas            | 13.2  |    -10   |
 | :boom:            | 2021-06-12 | clonmel R8             | 2 Dani Barcelona     |  1.62 |      6.2 |
 | :boom:            | 2021-06-11 | sandown R3             | 8 Native Trail       |  1.8  |      8   |
@@ -214,8 +215,8 @@ categories: None
 | :boom:            | 2021-04-17 | newbury R8             | 4 Far Hope           |  5    |     40   |
 | :boom:            | 2021-04-17 | newbury R7             | 4 Gloria Mundi       |  6    |     50   |
 | :boom:            | 2021-04-17 | newbury R5             | 1 Hurricane Lane     |  3.75 |     27.5 |
-| :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
 | 99                | 2021-04-16 | newmarket R6           | 2 Daramethos         |  4    |    -10   |
+| :boom:            | 2021-04-16 | newmarket R6           | 1 Al Waqidi          |  3.2  |     22   |
 | :boom:            | 2021-04-15 | kempton R4             | 1 Ransom             |  3.6  |     26   |
 | 99                | 2021-04-15 | newmarket R5           | 2 Divine Light       |  8.5  |    -10   |
 | :2nd_place_medal: | 2021-04-11 | devonport-synthetic R8 | 6 Azara              |  3.1  |    -10   |
@@ -232,8 +233,8 @@ categories: None
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1          | 2 Haut En Couleurs   | 23    |    -10   |
 | :boom:            | 2021-03-19 | sunshine-coast R5      | 7 Karaka Lad         |  1.6  |      6   |
 | :3rd_place_medal: | 2021-03-18 | cheltenham R7          | 12 Elle Est Belle    | 19    |    -10   |
-| 99                | 2021-03-14 | sandown R4             | 9 Precious           | 26    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | sandown R4             | 18 Tweed Skirt       |  7.5  |    -10   |
+| 99                | 2021-03-14 | sandown R4             | 9 Precious           | 26    |    -10   |
 | :2nd_place_medal: | 2021-03-12 | thurles R7             | 3 Deploy The Getaway |  1.8  |    -10   |
 | 99                | 2021-03-08 | huntingdon R7          | 1 Quid Pro Quo       |  1.9  |    -10   |
 | 99                | 2021-02-28 | fairyhouse R8          | 5 Glengouly          |  2.25 |    -10   |

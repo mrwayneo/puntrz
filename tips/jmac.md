@@ -1,20 +1,22 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-06-15 07:46:54 +1000  
+date: 2022-06-16 08:28:44 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      1 |    -60   | 0.17 |  -1   |
-| Last 28 Days   |      6 |      1 |    -60   | 0.17 |  -1   |
-| Since Jan 2020 |    698 |    177 |   -720.5 | 0.25 |  -0.1 |
+| Last 7 Days    |      7 |      1 |    -70   | 0.14 |  -1   |
+| Last 28 Days   |      7 |      1 |    -70   | 0.14 |  -1   |
+| Since Jan 2020 |    699 |    177 |   -730.5 | 0.25 |  -0.1 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 02:00             | 2022-06-16 | royal-ascot R5       | 27 Dark Shift        | 12    |    -10   |
+| 03:10             | 2022-06-17 | royal-ascot R7       | 27 Tanmawwy          | 15    |    -10   |
+| 02:00             | 2022-06-17 | royal-ascot R5       | 2 Mr Mccann          | 34    |    -10   |
+| 0                 | 2022-06-16 | royal-ascot R5       | 27 Dark Shift        |  0    |    -10   |
 | 0                 | 2022-06-15 | royal-ascot R6       | 14 Tasman Bay        |  0    |    -10   |
 | 0                 | 2022-06-15 | royal-ascot R3       | 12 Nature Strip      |  0    |    -10   |
 | 10                | 2022-06-11 | eagle-farm R6        | 6 Great House        |  0    |    -10   |

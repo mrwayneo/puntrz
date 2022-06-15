@@ -1,23 +1,25 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-06-15 07:46:54 +1000  
+date: 2022-06-16 08:28:44 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      0 |      -40 | 0    | -1    |
-| Last 28 Days   |      9 |      0 |      -90 | 0    | -1    |
-| Since Jan 2020 |   1037 |    252 |    -1738 | 0.24 | -0.17 |
+| Last 7 Days    |      8 |      0 |      -80 | 0    | -1    |
+| Last 28 Days   |     13 |      0 |     -130 | 0    | -1    |
+| Since Jan 2020 |   1041 |    252 |    -1778 | 0.24 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 15:45             | 2022-06-15 | kensington R6         | 6 Kattegat            |   9.5  |    -10   |
-| 15:10             | 2022-06-15 | kensington R5         | 3 Wategos             |  14    |    -10   |
-| 14:35             | 2022-06-15 | kensington R4         | 2 Segrill             |   5.5  |    -10   |
-| 14:00             | 2022-06-15 | kensington R3         | 5 Brown Thomas        |  11    |    -10   |
+| 15:10             | 2022-06-16 | wyong R6              | 9 Salsonic            |  21    |    -10   |
+| 13:20             | 2022-06-16 | wyong R3              | 8 Ma's Dream          |   5    |    -10   |
+| 0                 | 2022-06-15 | kensington R6         | 6 Kattegat            |   0    |    -10   |
+| 0                 | 2022-06-15 | kensington R5         | 3 Wategos             |   0    |    -10   |
+| 0                 | 2022-06-15 | kensington R4         | 2 Segrill             |   0    |    -10   |
+| 0                 | 2022-06-15 | kensington R3         | 5 Brown Thomas        |   0    |    -10   |
 | :2nd_place_medal: | 2022-06-11 | eagle-farm R6         | 2 Kolding             |   0    |    -10   |
 | 7                 | 2022-06-11 | eagle-farm R4         | 6 Holstein            |   0    |    -10   |
 | 5                 | 2022-06-11 | eagle-farm R3         | 10 Marakopa           |   0    |    -10   |
