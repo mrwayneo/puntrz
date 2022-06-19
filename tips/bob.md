@@ -1,20 +1,20 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-06-16 08:28:45 +1000  
+date: 2022-06-19 11:35:47 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      1 |    -30   | 0.33 | -1    |
-| Last 28 Days   |      6 |      2 |    -60   | 0.33 | -1    |
-| Since Jan 2020 |    273 |     42 |   2928.5 | 0.15 |  1.07 |
+| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
+| Last 28 Days   |      7 |      2 |    -70   | 0.29 | -1    |
+| Since Jan 2020 |    274 |     42 |   2918.5 | 0.15 |  1.07 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:10             | 2022-06-17 | ripon R7                      | 1 Appier              |  10    |    -10   |
+| 0                 | 2022-06-17 | ripon R7                      | 1 Appier              |   0    |    -10   |
 | 0                 | 2022-06-15 | royal-ascot R7                | 1 Alounak             |   0    |    -10   |
 | 0                 | 2022-06-15 | royal-ascot R3                | 15 Tis Marvellous     |   0    |    -10   |
 | :boom:            | 2022-06-11 | morphettville-parks R7        | 1 Jaamint             |   0    |    -10   |

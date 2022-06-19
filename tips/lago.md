@@ -1,20 +1,20 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-06-16 08:28:45 +1000  
+date: 2022-06-19 11:35:47 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
-| Last 28 Days   |      6 |      1 |    -60   | 0.17 | -1    |
-| Since Jan 2020 |    255 |    124 |   1372.3 | 0.49 |  0.54 |
+| Last 7 Days    |      5 |      0 |    -50   | 0    | -1    |
+| Last 28 Days   |      7 |      1 |    -70   | 0.14 | -1    |
+| Since Jan 2020 |    256 |    124 |   1362.3 | 0.48 |  0.53 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 02:00             | 2022-06-17 | royal-ascot R5         | 18 King Of Time      |  6    |    -10   |
+| 0                 | 2022-06-17 | royal-ascot R5         | 18 King Of Time      |  0    |    -10   |
 | 0                 | 2022-06-16 | royal-ascot R6         | 6 Far Shot           |  0    |    -10   |
 | 0                 | 2022-06-15 | royal-ascot R1         | 1 All The Time       |  0    |    -10   |
 | 0                 | 2022-06-15 | royal-ascot R1         | 10 Love Reigns       |  0    |    -10   |

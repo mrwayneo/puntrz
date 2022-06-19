@@ -1,28 +1,29 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-06-16 08:28:35 +1000  
+date: 2022-06-19 11:35:34 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     17 |      1 |   -170   | 0.06 | -1    |
-| Last 28 Days   |     25 |      5 |   -250   | 0.2  | -1    |
-| Since Jan 2020 |    959 |    201 |  -1117.5 | 0.21 | -0.12 |
+| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
+| Last 28 Days   |     28 |      5 |   -280   | 0.18 | -1    |
+| Since Jan 2020 |    962 |    201 |  -1147.5 | 0.21 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 00:05             | 2022-06-17 | royal-ascot R2                | 12 Newfoundland       |  9    |    -10   |
-| 17:05             | 2022-06-16 | townsville R8                 | 1 The Egyptian        |  3.3  |    -10   |
-| 13:40             | 2022-06-16 | warren R2                     | 4 Moetta              |  3.5  |    -10   |
+| 15:10             | 2022-06-19 | alice-springs R2              | 7 Heart of Red        | 10    |    -10   |
+| 0                 | 2022-06-17 | royal-ascot R2                | 12 Newfoundland       |  0    |    -10   |
+| 0                 | 2022-06-16 | townsville R8                 | 1 The Egyptian        |  0    |    -10   |
+| 0                 | 2022-06-16 | warren R2                     | 4 Moetta              |  0    |    -10   |
 | 0                 | 2022-06-15 | royal-ascot R1                | 10 Love Reigns        |  0    |    -10   |
 | 0                 | 2022-06-15 | belmont R3                    | 3 Dance Session       |  0    |    -10   |
 | 0                 | 2022-06-15 | kensington R5                 | 9 Shalstar            |  0    |    -10   |
 | 6                 | 2022-06-12 | kalgoorlie R4                 | 10 Shadow Boom        |  0    |    -10   |
-| :boom:            | 2022-06-12 | devonport-synthetic R9        | 3 Freelancer          |  0    |    -10   |
 | 5                 | 2022-06-12 | devonport-synthetic R9        | 4 Cheeky One          |  0    |    -10   |
+| :boom:            | 2022-06-12 | devonport-synthetic R9        | 3 Freelancer          |  0    |    -10   |
 | 7                 | 2022-06-11 | toowoomba R6                  | 3 Perfect Encounter   |  0    |    -10   |
 | :3rd_place_medal: | 2022-06-11 | toowoomba R5                  | 3 Keepmoving Forward  |  0    |    -10   |
 | 5                 | 2022-06-11 | toowoomba R5                  | 1 Coat Of Arms        |  0    |    -10   |
@@ -308,8 +309,8 @@ categories: None
 | :2nd_place_medal: | 2021-11-20 | sunshine-coast R7             | 7 Totally Charmed     | 14    |    -10   |
 | :boom:            | 2021-11-20 | sunshine-coast R7             | 2 Zoustyle            |  2.1  |     11   |
 | :boom:            | 2021-11-20 | darwin R2                     | 3 Syncline            |  4.1  |     31   |
-| :boom:            | 2021-11-20 | roma R4                       | 2 Patented            |  2.6  |     16   |
 | :2nd_place_medal: | 2021-11-20 | roma R4                       | 8 Phionaix            |  5.6  |    -10   |
+| :boom:            | 2021-11-20 | roma R4                       | 2 Patented            |  2.6  |     16   |
 | :2nd_place_medal: | 2021-11-20 | kembla-grange R5              | 1 Incredulous Dream   |  7    |    -10   |
 | :2nd_place_medal: | 2021-11-18 | rockhampton R5                | 3 Eveready            |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-17 | launceston R7                 | 6 Boom Dot Com        |  6.5  |    -10   |
@@ -358,8 +359,8 @@ categories: None
 | 8                 | 2021-10-27 | bendigo R9                    | 8 Quiet Lucky         | 16    |    -10   |
 | 5                 | 2021-10-27 | canterbury R6                 | 5 Loch Lomond         |  8.5  |    -10   |
 | 4                 | 2021-10-27 | gore R2                       | 1 Kilowatt            |  3    |    -10   |
-| :boom:            | 2021-10-23 | ascot R7                      | 5 Wilchino            |  2.8  |     18   |
 | :3rd_place_medal: | 2021-10-23 | ascot R7                      | 12 Bright Diamond     |  3.3  |    -10   |
+| :boom:            | 2021-10-23 | ascot R7                      | 5 Wilchino            |  2.8  |     18   |
 | 5                 | 2021-10-23 | randwick R10                  | 7 Surreal Step        | 51    |    -10   |
 | 5                 | 2021-10-23 | randwick R6                   | 6 Shibli              |  4.2  |    -10   |
 | :boom:            | 2021-10-23 | doomben R5                    | 2 Birriecart          |  2.3  |     13   |
@@ -484,8 +485,8 @@ categories: None
 | :3rd_place_medal: | 2021-08-28 | darwin R4                     | 2 Sebrakate           | 15    |    -10   |
 | 9                 | 2021-08-28 | darwin R3                     | 3 Kaptan Apollo       | 26    |    -10   |
 | :boom:            | 2021-08-28 | darwin R3                     | 4 Patriot Day         | 10.5  |     95   |
-| 11                | 2021-08-28 | cairns R6                     | 3 Hidden in Heaven    | 34    |    -10   |
 | 7                 | 2021-08-28 | cairns R6                     | 8 Bold Type           |  4.2  |    -10   |
+| 11                | 2021-08-28 | cairns R6                     | 3 Hidden in Heaven    | 34    |    -10   |
 | 5                 | 2021-08-28 | caulfield R6                  | 10 Diamonds Inthe Sky | 21    |    -10   |
 | 7                 | 2021-08-28 | darwin R2                     | 3 Trebla              |  5.5  |    -10   |
 | 9                 | 2021-08-28 | doomben R6                    | 4 Let's Party Marty   | 19    |    -10   |
@@ -628,8 +629,8 @@ categories: None
 | 11                | 2021-06-05 | eagle-farm R7                 | 6 Fabric              | 14    |    -10   |
 | :3rd_place_medal: | 2021-06-05 | eagle-farm R6                 | 7 Luvoir              |  6    |    -10   |
 | :2nd_place_medal: | 2021-06-05 | wanganui R7                   | 9 Crowning Star       |  7    |    -10   |
-| 6                 | 2021-06-05 | eagle-farm R4                 | 3 Spurcraft           | 11    |    -10   |
 | :boom:            | 2021-06-05 | eagle-farm R4                 | 1 Usmanov             |  3.3  |     23   |
+| 6                 | 2021-06-05 | eagle-farm R4                 | 3 Spurcraft           | 11    |    -10   |
 | :3rd_place_medal: | 2021-06-03 | wyong R7                      | 7 Lake Tai            |  5.5  |    -10   |
 | :boom:            | 2021-06-02 | doomben R6                    | 2 Starosa             |  3.7  |     27   |
 | 6                 | 2021-06-02 | warwick-farm R5               | 2 Egyptian Missile    | 13.2  |    -10   |

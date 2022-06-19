@@ -1,14 +1,13 @@
 ---   
 layout: post   
 title: "Atlas"   
-date: 2022-06-16 08:28:45 +1000  
+date: 2022-06-19 11:35:47 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      1 |    -10   |    1 | -1    |
 | Last 28 Days   |      1 |      1 |    -10   |    1 | -1    |
 | Since Jan 2020 |     81 |     81 |   1775.1 |    1 |  2.19 |
 
