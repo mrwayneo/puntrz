@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-06-19 11:35:38 +1000  
+date: 2022-06-20 21:57:36 +1000  
 categories: None 
 ---   
 
@@ -9,12 +9,12 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      6 |      0 |      -60 | 0    | -1    |
-| Last 28 Days   |     11 |      1 |     -110 | 0.09 | -1    |
-| Since Jan 2020 |    934 |    224 |    -1112 | 0.24 | -0.12 |
+| Last 28 Days   |     12 |      1 |     -120 | 0.08 | -1    |
+| Since Jan 2020 |    935 |    224 |    -1122 | 0.24 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 00:05             | 2022-06-20 | worcester R4                  | 3 Courtandbould       |  9.5  |    -10   |
+| 0                 | 2022-06-20 | worcester R4                  | 3 Courtandbould       |  0    |    -10   |
 | 0                 | 2022-06-17 | royal-ascot R2                | 12 Newfoundland       |  0    |    -10   |
 | 0                 | 2022-06-16 | warren R2                     | 4 Moetta              |  0    |    -10   |
 | 0                 | 2022-06-16 | royal-ascot R5                | 26 Totally Charming   |  0    |    -10   |

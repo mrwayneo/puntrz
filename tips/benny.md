@@ -1,20 +1,20 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-06-19 11:35:34 +1000  
+date: 2022-06-20 21:57:33 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
-| Last 28 Days   |     28 |      5 |   -280   | 0.18 | -1    |
-| Since Jan 2020 |    962 |    201 |  -1147.5 | 0.21 | -0.12 |
+| Last 7 Days    |      7 |      0 |    -70   | 0    | -1    |
+| Last 28 Days   |     29 |      5 |   -290   | 0.17 | -1    |
+| Since Jan 2020 |    963 |    201 |  -1157.5 | 0.21 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 15:10             | 2022-06-19 | alice-springs R2              | 7 Heart of Red        | 10    |    -10   |
+| 0                 | 2022-06-19 | alice-springs R2              | 7 Heart of Red        |  0    |    -10   |
 | 0                 | 2022-06-17 | royal-ascot R2                | 12 Newfoundland       |  0    |    -10   |
 | 0                 | 2022-06-16 | townsville R8                 | 1 The Egyptian        |  0    |    -10   |
 | 0                 | 2022-06-16 | warren R2                     | 4 Moetta              |  0    |    -10   |

@@ -1,18 +1,20 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-06-19 11:35:40 +1000  
+date: 2022-06-20 21:57:38 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Since Jan 2020 |    136 |     40 |    695.8 | 0.29 |  0.51 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    |  -1   |
+| Last 28 Days   |      1 |      0 |    -10   | 0    |  -1   |
+| Since Jan 2020 |    137 |     40 |    685.8 | 0.29 |   0.5 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 16:16             | 2022-06-19 | kalgoorlie R4          | 9 Seel the Deel      |   5.5  |    -10   |
+| 0                 | 2022-06-19 | kalgoorlie R4          | 9 Seel the Deel      |   0    |    -10   |
 | :boom:            | 2022-05-18 | huntingdon R7          | 1 Downtown Getaway   |   0    |    -10   |
 | 4                 | 2022-05-16 | cairns R1              | 4 Borlotti Beans     |   3.4  |    -10   |
 | 99                | 2022-05-08 | cork R7                | 15 Slip Jig          |   0    |    -10   |
