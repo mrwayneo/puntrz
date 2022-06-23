@@ -1,19 +1,21 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-06-20 21:57:33 +1000  
+date: 2022-06-24 08:05:02 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      7 |      0 |    -70   | 0    | -1    |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
 | Last 28 Days   |     29 |      5 |   -290   | 0.17 | -1    |
 | Since Jan 2020 |    963 |    201 |  -1157.5 | 0.21 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 15:55             | 2022-06-24 | tamworth R7                   | 1 Oakfield Storm      |  2.75 |    -10   |
+| 14:47             | 2022-06-24 | rockhampton R5                | 8 The Crown           | 17    |    -10   |
 | 0                 | 2022-06-19 | alice-springs R2              | 7 Heart of Red        |  0    |    -10   |
 | 0                 | 2022-06-17 | royal-ascot R2                | 12 Newfoundland       |  0    |    -10   |
 | 0                 | 2022-06-16 | townsville R8                 | 1 The Egyptian        |  0    |    -10   |
@@ -309,8 +311,8 @@ categories: None
 | :2nd_place_medal: | 2021-11-20 | sunshine-coast R7             | 7 Totally Charmed     | 14    |    -10   |
 | :boom:            | 2021-11-20 | sunshine-coast R7             | 2 Zoustyle            |  2.1  |     11   |
 | :boom:            | 2021-11-20 | darwin R2                     | 3 Syncline            |  4.1  |     31   |
-| :2nd_place_medal: | 2021-11-20 | roma R4                       | 8 Phionaix            |  5.6  |    -10   |
 | :boom:            | 2021-11-20 | roma R4                       | 2 Patented            |  2.6  |     16   |
+| :2nd_place_medal: | 2021-11-20 | roma R4                       | 8 Phionaix            |  5.6  |    -10   |
 | :2nd_place_medal: | 2021-11-20 | kembla-grange R5              | 1 Incredulous Dream   |  7    |    -10   |
 | :2nd_place_medal: | 2021-11-18 | rockhampton R5                | 3 Eveready            |  7.5  |    -10   |
 | :2nd_place_medal: | 2021-11-17 | launceston R7                 | 6 Boom Dot Com        |  6.5  |    -10   |
@@ -359,8 +361,8 @@ categories: None
 | 8                 | 2021-10-27 | bendigo R9                    | 8 Quiet Lucky         | 16    |    -10   |
 | 5                 | 2021-10-27 | canterbury R6                 | 5 Loch Lomond         |  8.5  |    -10   |
 | 4                 | 2021-10-27 | gore R2                       | 1 Kilowatt            |  3    |    -10   |
-| :3rd_place_medal: | 2021-10-23 | ascot R7                      | 12 Bright Diamond     |  3.3  |    -10   |
 | :boom:            | 2021-10-23 | ascot R7                      | 5 Wilchino            |  2.8  |     18   |
+| :3rd_place_medal: | 2021-10-23 | ascot R7                      | 12 Bright Diamond     |  3.3  |    -10   |
 | 5                 | 2021-10-23 | randwick R10                  | 7 Surreal Step        | 51    |    -10   |
 | 5                 | 2021-10-23 | randwick R6                   | 6 Shibli              |  4.2  |    -10   |
 | :boom:            | 2021-10-23 | doomben R5                    | 2 Birriecart          |  2.3  |     13   |
@@ -483,8 +485,8 @@ categories: None
 | :boom:            | 2021-08-29 | ballarat R4                   | 1 Saunter Boy         |  2.5  |     15   |
 | 6                 | 2021-08-28 | toowoomba R1                  | 4 Nick the Skip       |  5.5  |    -10   |
 | :3rd_place_medal: | 2021-08-28 | darwin R4                     | 2 Sebrakate           | 15    |    -10   |
-| 9                 | 2021-08-28 | darwin R3                     | 3 Kaptan Apollo       | 26    |    -10   |
 | :boom:            | 2021-08-28 | darwin R3                     | 4 Patriot Day         | 10.5  |     95   |
+| 9                 | 2021-08-28 | darwin R3                     | 3 Kaptan Apollo       | 26    |    -10   |
 | 7                 | 2021-08-28 | cairns R6                     | 8 Bold Type           |  4.2  |    -10   |
 | 11                | 2021-08-28 | cairns R6                     | 3 Hidden in Heaven    | 34    |    -10   |
 | 5                 | 2021-08-28 | caulfield R6                  | 10 Diamonds Inthe Sky | 21    |    -10   |

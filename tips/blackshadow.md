@@ -1,19 +1,23 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-06-20 21:57:36 +1000  
+date: 2022-06-24 08:05:05 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      0 |      -60 | 0    | -1    |
+| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
 | Last 28 Days   |     12 |      1 |     -120 | 0.08 | -1    |
 | Since Jan 2020 |    935 |    224 |    -1122 | 0.24 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
+| 22:55             | 2022-06-24 | cartmel R1                    | 1 Grageelagh Girl     |  3.3  |    -10   |
+| 16:04             | 2022-06-24 | rockhampton R7                | 3 Montenegro Man      |  2.35 |    -10   |
+| 16:00             | 2022-06-24 | ballarat-synthetic R7         | 1 Shotmaker           |  3.75 |    -10   |
+| 14:47             | 2022-06-24 | rockhampton R5                | 8 The Crown           | 17    |    -10   |
 | 0                 | 2022-06-20 | worcester R4                  | 3 Courtandbould       |  0    |    -10   |
 | 0                 | 2022-06-17 | royal-ascot R2                | 12 Newfoundland       |  0    |    -10   |
 | 0                 | 2022-06-16 | warren R2                     | 4 Moetta              |  0    |    -10   |
@@ -283,8 +287,8 @@ categories: None
 | :boom:            | 2021-12-04 | gold-coast R7                 | 1 Weona Smartone      |  1.2  |      2   |
 | :boom:            | 2021-12-04 | doomben R7                    | 5 Tambo's Mate        |  3.5  |     25   |
 | :2nd_place_medal: | 2021-12-04 | rockhampton R5                | 9 Scoria Star         |  3.9  |    -10   |
-| 4                 | 2021-12-03 | devonport-synthetic R5        | 2 Sh'bourne Renegade  |  4.8  |    -10   |
 | :2nd_place_medal: | 2021-12-03 | devonport-synthetic R5        | 1 Balearic            |  8    |    -10   |
+| 4                 | 2021-12-03 | devonport-synthetic R5        | 2 Sh'bourne Renegade  |  4.8  |    -10   |
 | :3rd_place_medal: | 2021-12-03 | devonport-synthetic R3        | 7 Red Letter Lady     |  2.5  |    -10   |
 | 99                | 2021-12-03 | wincanton R5                  | 2 Tulin               |  0    |    -10   |
 | 4                 | 2021-12-01 | belmont R9                    | 7 Agent Kensington    |  8.5  |    -10   |
@@ -346,8 +350,8 @@ categories: None
 | :2nd_place_medal: | 2021-10-23 | ascot R6                      | 7 Secret Plan         |  2.25 |    -10   |
 | :2nd_place_medal: | 2021-10-23 | doomben R5                    | 1 Tiger Heart         |  1.65 |    -10   |
 | :3rd_place_medal: | 2021-10-23 | doomben R4                    | 8 Run For Glory       |  3.8  |    -10   |
-| :boom:            | 2021-10-23 | doomben R3                    | 8 Lyrical Girl        |  7.9  |     69   |
 | :2nd_place_medal: | 2021-10-23 | doomben R3                    | 11 Shamaton           |  3.4  |    -10   |
+| :boom:            | 2021-10-23 | doomben R3                    | 8 Lyrical Girl        |  7.9  |     69   |
 | :2nd_place_medal: | 2021-10-23 | cheltenham R4                 | 4 Danny Kirwan        |  6.5  |    -10   |
 | :boom:            | 2021-10-22 | launceston R5                 | 1 Deroche             |  1.9  |      9   |
 | :2nd_place_medal: | 2021-10-20 | geelong R7                    | 7 Dr Drill            | 19    |    -10   |
@@ -421,9 +425,9 @@ categories: None
 | :boom:            | 2021-09-14 | yeppoon R5                    | 1 The Egyptian        |  1.8  |      8   |
 | 4                 | 2021-09-14 | yeppoon R1                    | 6 Attackabeel         |  1.95 |    -10   |
 | 99                | 2021-09-13 | worcester R4                  | 2 Bathiva             |  3.2  |    -10   |
+| :boom:            | 2021-09-12 | devonport-synthetic R1        | 5 Red Letter Lady     |  4.8  |     38   |
 | 5                 | 2021-09-12 | devonport-synthetic R1        | 4 Vivilici            |  3    |    -10   |
 | 4                 | 2021-09-12 | devonport-synthetic R1        | 6 Assaranca           |  4.6  |    -10   |
-| :boom:            | 2021-09-12 | devonport-synthetic R1        | 5 Red Letter Lady     |  4.8  |     38   |
 | 4                 | 2021-09-11 | durbanville R5                | 1 The Gatekeeper      |  2.5  |    -10   |
 | 4                 | 2021-09-11 | turffontein R6                | 3 Tierra Del Fuego    | 13    |    -10   |
 | :boom:            | 2021-09-11 | turffontein R5                | 5 Cleveland           | 16    |    150   |
@@ -701,8 +705,8 @@ categories: None
 | 4                 | 2021-04-17 | randwick R5                   | 2 Amarelinha          |  4.65 |    -10   |
 | 7                 | 2021-04-17 | caulfield R1                  | 4 Fanciful Toff       |  3.7  |    -10   |
 | :2nd_place_medal: | 2021-04-16 | darwin R4                     | 2 Patriot Day         |  4.2  |    -10   |
-| 4                 | 2021-04-16 | darwin R2                     | 2 Kowloon Kid         |  4.6  |    -10   |
 | 5                 | 2021-04-16 | darwin R2                     | 4 The Auditor         | 11    |    -10   |
+| 4                 | 2021-04-16 | darwin R2                     | 2 Kowloon Kid         |  4.6  |    -10   |
 | :boom:            | 2021-04-15 | albany R6                     | 6 Strathmore Rose     |  1.4  |      4   |
 | 4                 | 2021-04-15 | albany R4                     | 1 Captain Sharmane    |  2.25 |    -10   |
 | 6                 | 2021-04-14 | eagle-farm R8                 | 6 Highmaster          |  1.96 |    -10   |

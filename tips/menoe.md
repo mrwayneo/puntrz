@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-06-20 21:57:44 +1000  
+date: 2022-06-24 08:05:13 +1000  
 categories: None 
 ---   
 
@@ -13,6 +13,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 05:00             | 2022-06-25 | chester R5             | 2 Brains             |  1.9  |    -10   |
 | :2nd_place_medal: | 2022-06-02 | wyong R5               | 1 Vyner              |  0    |    -10   |
 | :boom:            | 2022-05-18 | brighton R5            | 2 Sabyinyo           |  0    |    -10   |
 | :boom:            | 2022-05-05 | pinjarra-scarpside R3  | 1 My Boy Eddy        |  0    |    -10   |
