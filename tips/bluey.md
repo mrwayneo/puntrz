@@ -1,19 +1,20 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-06-24 08:05:13 +1000  
+date: 2022-06-26 20:15:49 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      6 |      0 |      -60 | 0    |    -1 |
-| Since Jan 2020 |    258 |     43 |     5162 | 0.17 |     2 |
+| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
+| Last 28 Days   |      7 |      0 |      -70 | 0    | -1    |
+| Since Jan 2020 |    259 |     43 |     5152 | 0.17 |  1.99 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 16:00             | 2022-06-24 | ballarat-synthetic R7  | 3 The Difference      |  10   |      -10 |
+| 0                 | 2022-06-24 | ballarat-synthetic R7  | 3 The Difference      |   0   |      -10 |
 | 0                 | 2022-06-16 | royal-ascot R7         | 15 Serenading         |   0   |      -10 |
 | 0                 | 2022-06-15 | royal-ascot R7         | 1 Alounak             |   0   |      -10 |
 | 0                 | 2022-06-12 | doncaster R1           | 8 Old News            |   0   |      -10 |

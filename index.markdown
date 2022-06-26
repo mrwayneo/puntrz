@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-06-24 08:05:14 +1000  
+date: 2022-06-26 20:15:50 +1000  
 ---   
 
 
@@ -9,20 +9,18 @@ date: 2022-06-24 08:05:14 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 |    0 |    -1 |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 |    0 |    -1 |
+| [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 |    0 |    -1 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      2 |      0 |      -20 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 |    0 |    -1 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      3 |      0 |      -30 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 |    0 |    -1 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      4 |      0 |      -40 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      0 |      -50 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      8 |      0 |      -80 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     13 |      0 |     -130 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     15 |      0 |     -150 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     16 |      0 |     -160 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     36 |      0 |     -360 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     52 |      0 |     -520 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      6 |      0 |      -60 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |      7 |      0 |      -70 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     11 |      0 |     -110 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     17 |      0 |     -170 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     21 |      0 |     -210 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     23 |      0 |     -230 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     59 |      0 |     -590 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -37,7 +35,7 @@ date: 2022-06-24 08:05:14 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      7 |    -76.9 | 0.35 | -0.38 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |    -95   | 0.15 | -0.48 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      2 |   -136   | 0.1  | -0.68 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -145   | 0.1  | -0.72 |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      1 |   -165   | 0.05 | -0.82 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      1 |   -171   | 0.05 | -0.86 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      0 |   -200   | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      0 |   -200   | 0    | -1    |
@@ -52,39 +50,49 @@ date: 2022-06-24 08:05:14 +1000
 
 ##### Form Last 6 months   
 
-|    | finish   | time                | track              |   race |   number | name               |   odds | tipster              |
-|---:|:---------|:--------------------|:-------------------|-------:|---------:|:-------------------|-------:|:---------------------|
-|  0 | :soon:   | 2022-06-25 05:10:00 | newmarket          |      6 |        5 | Origintrail        |   2.6  | milkman              |
-|  1 | :soon:   | 2022-06-25 04:45:00 | newcastle          |      6 |        5 | Indemnify          |   2    | vulture              |
-|  2 | :soon:   | 2022-06-25 03:25:00 | newmarket          |      3 |        3 | Light Of Peace     |   1.35 | evenodds,overthrow   |
-|  3 | :soon:   | 2022-06-25 02:50:00 | newmarket          |      2 |        5 | Beautiful Colour   |   4    | vulture              |
-|  4 | :soon:   | 2022-06-25 02:20:00 | cartmel            |      7 |        1 | Battle Of Toro     |   1.8  | overthrow            |
-|  5 | :soon:   | 2022-06-25 02:15:00 | newmarket          |      1 |        6 | Poppy Carrew       |   6.5  | looseknot            |
-|  6 | :soon:   | 2022-06-25 01:47:00 | cartmel            |      6 |        6 | Malina Ocarina     |   6.5  | vulture              |
-|  7 | :soon:   | 2022-06-25 01:47:00 | cartmel            |      6 |        2 | Golden Town        |   6    | overthrow            |
-|  8 | :soon:   | 2022-06-25 01:15:00 | cartmel            |      5 |        8 | High Counsel       |   5.5  | vulture              |
-|  9 | :soon:   | 2022-06-25 01:05:00 | yarmouth           |      5 |        2 | Colombe            |   3.6  | vulture              |
-| 10 | :soon:   | 2022-06-25 00:55:00 | doncaster          |      6 |        4 | Highland Frolic    |   7.5  | overthrow            |
-| 11 | :soon:   | 2022-06-25 00:30:00 | yarmouth           |      4 |        1 | Air To Air         |   2.62 | vulture              |
-| 12 | :soon:   | 2022-06-25 00:05:00 | cartmel            |      3 |        1 | Rapid Flight       |   4.6  | evenodds,overthrow   |
-| 13 | :soon:   | 2022-06-24 23:55:00 | yarmouth           |      3 |        1 | Appier             |   2    | vulture              |
-| 14 | :soon:   | 2022-06-24 23:45:00 | doncaster          |      4 |        2 | Bayraq             |   4.75 | overthrow            |
-| 15 | :soon:   | 2022-06-24 23:30:00 | cartmel            |      2 |        3 | Nechako            |   7    | evenodds,overthrow   |
-| 16 | :soon:   | 2022-06-24 23:30:00 | cartmel            |      2 |        5 | Watch Law          |  16    | looseknot            |
-| 17 | :soon:   | 2022-06-24 22:55:00 | cartmel            |      1 |        1 | Grageelagh Girl    |   3.3  | pangea,icyhot        |
-| 18 | :soon:   | 2022-06-24 22:35:00 | doncaster          |      2 |        2 | Courageous Knight  |   1.57 | vulture              |
-| 19 | :soon:   | 2022-06-24 22:35:00 | doncaster          |      2 |        1 | Afterlife          |   9.5  | overthrow            |
-| 20 | :soon:   | 2022-06-24 20:40:00 | fairview           |      2 |        1 | Coastal Path       |   0    | milkman              |
-| 21 | :soon:   | 2022-06-24 16:45:00 | rockhampton        |      8 |        6 | Address Unknown    |   4.8  | pangea               |
-| 22 | :soon:   | 2022-06-24 16:45:00 | rockhampton        |      8 |        8 | Mississippi Prince |   9.5  | overthrow            |
-| 23 | :soon:   | 2022-06-24 16:30:00 | ballarat-synthetic |      8 |        1 | Inner Spirit       |   4.2  | evenodds,overthrow   |
-| 24 | :soon:   | 2022-06-24 16:30:00 | ballarat-synthetic |      8 |        6 | Broadway Lane      |   8.5  | vulture              |
-| 25 | :soon:   | 2022-06-24 16:04:00 | rockhampton        |      7 |        3 | Montenegro Man     |   2.35 | evenodds,blackshadow |
-| 26 | :soon:   | 2022-06-24 16:04:00 | rockhampton        |      7 |        1 | Only Wanna Sing    |  11    | pangea,icyhot        |
-| 27 | :soon:   | 2022-06-24 16:00:00 | ballarat-synthetic |      7 |        1 | Shotmaker          |   3.75 | vulture,blackshadow  |
-| 28 | :soon:   | 2022-06-24 16:00:00 | ballarat-synthetic |      7 |        3 | The Difference     |  10    | cosmo,bluey          |
-| 29 | :soon:   | 2022-06-24 15:55:00 | tamworth           |      7 |        1 | Oakfield Storm     |   2.75 | benny,milkman        |
-| 30 | :soon:   | 2022-06-24 15:27:00 | rockhampton        |      6 |        6 | Dollar Dollar      |   2.25 | overthrow            |
-| 31 | :soon:   | 2022-06-24 13:34:00 | rockhampton        |      3 |        3 | Kasinova Kid       |   2.2  | pangea               |
-| 32 | :soon:   | 2022-06-24 13:10:00 | canberra           |      3 |        7 | Janosik            |   3.8  | looseknot            |
-| 33 | :soon:   | 2022-06-24 12:57:00 | rockhampton        |      2 |        4 | Betterdeel         |   3.3  | overthrow            |
+|    | finish   | time                | track         |   race |   number | name               |   odds | tipster              |
+|---:|:---------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:---------------------|
+|  0 | :soon:   | 2022-06-27 02:25:00 | curragh       |      8 |        7 | Cougar             |   2.38 | vulture              |
+|  1 | :soon:   | 2022-06-27 02:00:00 | cartmel       |      7 |        3 | Liloo D'ores       |   6    | vulture              |
+|  2 | :soon:   | 2022-06-27 01:55:00 | windsor       |      7 |        3 | Rose Barton        |   2.8  | vulture              |
+|  3 | :soon:   | 2022-06-27 01:40:00 | uttoxeter     |      7 |        9 | Ten Past Midnight  |   6.5  | overthrow            |
+|  4 | :soon:   | 2022-06-27 01:40:00 | uttoxeter     |      7 |        1 | Lonimoss Bareliere |   5.5  | overthrow            |
+|  5 | :soon:   | 2022-06-27 01:30:00 | cartmel       |      6 |        2 | Jelski             |   5.5  | evenodds,overthrow   |
+|  6 | :soon:   | 2022-06-27 01:20:00 | curragh       |      6 |        1 | Phoenix Cowboy     |   6.5  | pangea               |
+|  7 | :soon:   | 2022-06-27 01:10:00 | uttoxeter     |      6 |       10 | Duke Of Luckley    |   4.4  | overthrow            |
+|  8 | :soon:   | 2022-06-27 01:10:00 | uttoxeter     |      6 |        8 | Finisk River       |  11    | overthrow            |
+|  9 | :soon:   | 2022-06-27 01:10:00 | uttoxeter     |      6 |        5 | Jen's Boy          |  14    | overthrow            |
+| 10 | :soon:   | 2022-06-27 01:10:00 | uttoxeter     |      6 |        3 | Leylak             |   4    | overthrow            |
+| 11 | :soon:   | 2022-06-27 00:55:00 | cartmel       |      5 |        5 | Dressedforsuccess  |   3.5  | overthrow            |
+| 12 | :soon:   | 2022-06-27 00:45:00 | curragh       |      5 |        2 | La Petite Coco     |   5.5  | vulture              |
+| 13 | :soon:   | 2022-06-27 00:00:00 | uttoxeter     |      4 |       12 | Destrier           |  12    | overthrow            |
+| 14 | :soon:   | 2022-06-26 23:50:00 | cartmel       |      3 |        7 | Dee Star           |   3.1  | vulture              |
+| 15 | :soon:   | 2022-06-26 23:50:00 | cartmel       |      3 |        4 | Rapid Flight       |   2.88 | overthrow            |
+| 16 | :soon:   | 2022-06-26 23:40:00 | curragh       |      3 |        5 | Head Mistress      |  13    | cosmo,bob            |
+| 17 | :soon:   | 2022-06-26 23:30:00 | uttoxeter     |      3 |        8 | Hillview           |   7.5  | overthrow            |
+| 18 | :soon:   | 2022-06-26 23:30:00 | uttoxeter     |      3 |        3 | Pounding Poet      |   3.5  | vulture              |
+| 19 | :soon:   | 2022-06-26 23:30:00 | uttoxeter     |      3 |        5 | Dorrells Pierji    |   3.2  | evenodds,overthrow   |
+| 20 | :soon:   | 2022-06-26 23:20:00 | cartmel       |      2 |        4 | Alqamar            |   5.5  | overthrow            |
+| 21 | :soon:   | 2022-06-26 23:10:00 | curragh       |      2 |        6 | Statuette          |   1.57 | vulture,milkman      |
+| 22 | :soon:   | 2022-06-26 22:30:00 | uttoxeter     |      1 |        7 | Presentandcounting |   2.45 | overthrow            |
+| 23 | :soon:   | 2022-06-26 18:30:00 | singapore     |     10 |        2 | Tiger Roar         |   4    | milkman              |
+| 24 | :soon:   | 2022-06-26 18:30:00 | singapore     |     10 |        1 | Lim's Kosciuszko   |   2.2  | milkman              |
+| 25 | :soon:   | 2022-06-26 18:15:00 | broome        |      6 |        7 | Testifying         |   7.5  | pangea               |
+| 26 | :soon:   | 2022-06-26 16:35:00 | broome        |      3 |        7 | Honovi             |   6.5  | benny,pangea         |
+| 27 | :soon:   | 2022-06-26 15:55:00 | broome        |      2 |        3 | True Moon          |   3.8  | benny,pangea         |
+| 28 | :soon:   | 2022-06-26 15:50:00 | rockhampton   |      6 |        3 | Monsieur Macron    |   2.8  | evenodds,blackshadow |
+| 29 | :soon:   | 2022-06-26 15:05:00 | donald        |      6 |        4 | Imperial Hilton    |   3.4  | pangea,blackshadow   |
+| 30 | :soon:   | 2022-06-26 14:45:00 | dubbo         |      5 |        1 | Bondadosa          |   4.33 | vulture              |
+| 31 | :soon:   | 2022-06-26 14:45:00 | dubbo         |      5 |        3 | No Debt            |   6    | pangea               |
+| 32 | :soon:   | 2022-06-26 14:30:00 | rockhampton   |      4 |        1 | Kravitz            |  13    | pangea               |
+| 33 | :soon:   | 2022-06-26 14:30:00 | rockhampton   |      4 |        7 | Vast Kama          |   4.8  | pangea               |
+| 34 | :soon:   | 2022-06-26 14:30:00 | rockhampton   |      4 |        6 | Tru Blu Tango      |   7.5  | benny,pangea         |
+| 35 | :soon:   | 2022-06-26 14:25:00 | donald        |      5 |        7 | House Spouse       |   2.7  | vulture              |
+| 36 | :soon:   | 2022-06-26 14:00:00 | casterton     |      3 |        2 | Te Kahu            |   4.75 | overthrow            |
+| 37 | :soon:   | 2022-06-26 13:50:00 | rockhampton   |      3 |        6 | Tricky Beans       |   4.6  | evenodds,overthrow   |
+| 38 | :soon:   | 2022-06-26 13:10:00 | rockhampton   |      2 |        2 | London Bell        |   2.9  | vulture              |
+| 39 | :soon:   | 2022-06-26 13:00:00 | coffs-harbour |      2 |        2 | Kingstar Bullet    |   8    | looseknot            |
+| 40 | :soon:   | 2022-06-26 11:19:00 | arawa-park    |      4 |        4 | No Tip             |  13    | evenodds,overthrow   |
+| 41 | :soon:   | 2022-06-26 11:19:00 | arawa-park    |      4 |        3 | Colin Oscopy       |   3.5  | looseknot            |
+| 42 | :soon:   | 2022-06-26 10:45:00 | arawa-park    |      3 |        8 | Raucous            |   6    | overthrow            |
+| 43 | :soon:   | 2022-06-26 10:10:00 | arawa-park    |      2 |        5 | Nedwin             |   2.3  | evenodds,overthrow   |

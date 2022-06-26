@@ -1,23 +1,25 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-06-24 08:05:05 +1000  
+date: 2022-06-26 20:15:41 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
-| Last 28 Days   |     12 |      1 |     -120 | 0.08 | -1    |
-| Since Jan 2020 |    935 |    224 |    -1122 | 0.24 | -0.12 |
+| Last 7 Days    |      4 |      0 |      -40 | 0    | -1    |
+| Last 28 Days   |     16 |      1 |     -160 | 0.06 | -1    |
+| Since Jan 2020 |    939 |    224 |    -1162 | 0.24 | -0.12 |
 
 | finish            | date       | event                         | runner                |   win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
-| 22:55             | 2022-06-24 | cartmel R1                    | 1 Grageelagh Girl     |  3.3  |    -10   |
-| 16:04             | 2022-06-24 | rockhampton R7                | 3 Montenegro Man      |  2.35 |    -10   |
-| 16:00             | 2022-06-24 | ballarat-synthetic R7         | 1 Shotmaker           |  3.75 |    -10   |
-| 14:47             | 2022-06-24 | rockhampton R5                | 8 The Crown           | 17    |    -10   |
+| 0                 | 2022-06-26 | rockhampton R6                | 3 Monsieur Macron     |  0    |    -10   |
+| 0                 | 2022-06-26 | donald R6                     | 4 Imperial Hilton     |  0    |    -10   |
+| 0                 | 2022-06-24 | cartmel R1                    | 1 Grageelagh Girl     |  0    |    -10   |
+| 0                 | 2022-06-24 | rockhampton R7                | 3 Montenegro Man      |  0    |    -10   |
+| 0                 | 2022-06-24 | ballarat-synthetic R7         | 1 Shotmaker           |  0    |    -10   |
+| 0                 | 2022-06-24 | rockhampton R5                | 8 The Crown           |  0    |    -10   |
 | 0                 | 2022-06-20 | worcester R4                  | 3 Courtandbould       |  0    |    -10   |
 | 0                 | 2022-06-17 | royal-ascot R2                | 12 Newfoundland       |  0    |    -10   |
 | 0                 | 2022-06-16 | warren R2                     | 4 Moetta              |  0    |    -10   |
@@ -43,8 +45,8 @@ categories: None
 | :3rd_place_medal: | 2022-05-01 | scottsville R3                | 7 Shampompo Shampizi  |  0    |    -10   |
 | 99                | 2022-04-30 | newmarket R3                  | 1 Movin Time          |  0    |    -10   |
 | 4                 | 2022-04-30 | eagle-farm R9                 | 3 Avowal              | 34    |    -10   |
-| :boom:            | 2022-04-30 | barcaldine R5                 | 6 Kedleston           |  4.1  |     31   |
 | :2nd_place_medal: | 2022-04-30 | barcaldine R5                 | 1 Star of O'reilly    |  2.7  |    -10   |
+| :boom:            | 2022-04-30 | barcaldine R5                 | 6 Kedleston           |  4.1  |     31   |
 | :boom:            | 2022-04-30 | barcaldine R2                 | 1 Halcyon House       |  5.2  |     42   |
 | :boom:            | 2022-04-30 | morphettville R3              | 8 Gaze Grise          |  4    |     30   |
 | 6                 | 2022-04-30 | eagle-farm R4                 | 2 Wham                |  6.5  |    -10   |
@@ -259,8 +261,8 @@ categories: None
 | :boom:            | 2021-12-12 | sha-tin R8                    | 12 Loves Only You     |  2.55 |     15.5 |
 | 5                 | 2021-12-12 | sha-tin R7                    | 3 Indy Champ          |  0    |    -10   |
 | 8                 | 2021-12-12 | sha-tin R5                    | 3 Danon Smash         |  0    |    -10   |
-| :2nd_place_medal: | 2021-12-12 | sha-tin R4                    | 1 Pyledriver          |  4.8  |    -10   |
 | :boom:            | 2021-12-12 | sha-tin R4                    | 2 Glory Vase          |  1.8  |      8   |
+| :2nd_place_medal: | 2021-12-12 | sha-tin R4                    | 1 Pyledriver          |  4.8  |    -10   |
 | 5                 | 2021-12-11 | ascot R8                      | 13 Pure Devotion      |  2.7  |    -10   |
 | :3rd_place_medal: | 2021-12-11 | ascot R8                      | 14 Stafford's Lad     | 14    |    -10   |
 | 6                 | 2021-12-11 | ascot R6                      | 5 New Amsterdam       |  9.5  |    -10   |
@@ -287,8 +289,8 @@ categories: None
 | :boom:            | 2021-12-04 | gold-coast R7                 | 1 Weona Smartone      |  1.2  |      2   |
 | :boom:            | 2021-12-04 | doomben R7                    | 5 Tambo's Mate        |  3.5  |     25   |
 | :2nd_place_medal: | 2021-12-04 | rockhampton R5                | 9 Scoria Star         |  3.9  |    -10   |
-| :2nd_place_medal: | 2021-12-03 | devonport-synthetic R5        | 1 Balearic            |  8    |    -10   |
 | 4                 | 2021-12-03 | devonport-synthetic R5        | 2 Sh'bourne Renegade  |  4.8  |    -10   |
+| :2nd_place_medal: | 2021-12-03 | devonport-synthetic R5        | 1 Balearic            |  8    |    -10   |
 | :3rd_place_medal: | 2021-12-03 | devonport-synthetic R3        | 7 Red Letter Lady     |  2.5  |    -10   |
 | 99                | 2021-12-03 | wincanton R5                  | 2 Tulin               |  0    |    -10   |
 | 4                 | 2021-12-01 | belmont R9                    | 7 Agent Kensington    |  8.5  |    -10   |
@@ -718,8 +720,8 @@ categories: None
 | 6                 | 2021-04-10 | ascot R3                      | 8 Let's Cut Loose     |  4.6  |    -10   |
 | :boom:            | 2021-04-10 | randwick R7                   | 10 Explosive Jack     | 15.9  |    149   |
 | 4                 | 2021-04-10 | rockhampton R4                | 1 Only Wanna Sing     |  3.1  |    -10   |
-| :3rd_place_medal: | 2021-04-10 | rockhampton R2                | 3 Disco Mo            |  5.5  |    -10   |
 | :boom:            | 2021-04-10 | rockhampton R2                | 1 Hey Pal             |  2    |     10   |
+| :3rd_place_medal: | 2021-04-10 | rockhampton R2                | 3 Disco Mo            |  5.5  |    -10   |
 | 5                 | 2021-04-10 | doomben R3                    | 1 Cloak               |  3.6  |    -10   |
 | 99                | 2021-04-10 | aintree R4                    | 8 Politologue         |  3.65 |    -10   |
 | :2nd_place_medal: | 2021-04-09 | darwin R3                     | 1 Divine Red          |  4.2  |    -10   |

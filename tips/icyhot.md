@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-06-24 08:05:06 +1000  
+date: 2022-06-26 20:15:42 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      6 |      4 |    -60   | 0.67 | -1    |
-| Since Jan 2020 |    602 |    198 |   -777.6 | 0.33 | -0.13 |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
+| Last 28 Days   |      8 |      4 |    -80   | 0.5  | -1    |
+| Since Jan 2020 |    604 |    198 |   -797.6 | 0.33 | -0.13 |
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
-| 22:55             | 2022-06-24 | cartmel R1                   | 1 Grageelagh Girl     |  3.3  |    -10   |
-| 16:04             | 2022-06-24 | rockhampton R7               | 1 Only Wanna Sing     | 11    |    -10   |
+| 0                 | 2022-06-24 | cartmel R1                   | 1 Grageelagh Girl     |  0    |    -10   |
+| 0                 | 2022-06-24 | rockhampton R7               | 1 Only Wanna Sing     |  0    |    -10   |
 | 0                 | 2022-06-14 | royal-ascot R1               | 5 Real World          |  0    |    -10   |
 | :boom:            | 2022-06-12 | devonport-synthetic R6       | 1 Julius              |  0    |    -10   |
 | :boom:            | 2022-06-11 | belmont R9                   | 5 Billy Ray           |  0    |    -10   |
