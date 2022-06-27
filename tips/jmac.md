@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-06-26 20:15:48 +1000  
+date: 2022-06-27 17:35:35 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      9 |      1 |    -90   | 0.11 | -1    |
-| Since Jan 2020 |    701 |    177 |   -750.5 | 0.25 | -0.11 |
+| Last 28 Days   |      9 |      3 |    -90   | 0.33 | -1    |
+| Since Jan 2020 |    701 |    179 |   -750.5 | 0.26 | -0.11 |
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 0                 | 2022-06-17 | royal-ascot R7       | 27 Tanmawwy          |  0    |    -10   |
-| 0                 | 2022-06-17 | royal-ascot R5       | 2 Mr Mccann          |  0    |    -10   |
-| 0                 | 2022-06-16 | royal-ascot R5       | 27 Dark Shift        |  0    |    -10   |
-| 0                 | 2022-06-15 | royal-ascot R6       | 14 Tasman Bay        |  0    |    -10   |
-| 0                 | 2022-06-15 | royal-ascot R3       | 12 Nature Strip      |  0    |    -10   |
+| 99                | 2022-06-17 | royal-ascot R7       | 27 Tanmawwy          |  0    |    -10   |
+| 99                | 2022-06-17 | royal-ascot R5       | 2 Mr Mccann          |  0    |    -10   |
+| :boom:            | 2022-06-16 | royal-ascot R5       | 27 Dark Shift        |  0    |    -10   |
+| 99                | 2022-06-15 | royal-ascot R6       | 14 Tasman Bay        |  0    |    -10   |
+| :boom:            | 2022-06-15 | royal-ascot R3       | 12 Nature Strip      |  0    |    -10   |
 | 10                | 2022-06-11 | eagle-farm R6        | 6 Great House        |  0    |    -10   |
 | 4                 | 2022-06-11 | eagle-farm R5        | 5 Ranch Hand         |  0    |    -10   |
 | :boom:            | 2022-06-11 | eagle-farm R3        | 3 Irish Sequel       |  0    |    -10   |

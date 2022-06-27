@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-06-26 20:15:43 +1000  
+date: 2022-06-27 17:35:24 +1000  
 categories: None 
 ---   
 
@@ -13,7 +13,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
-| 0                 | 2022-06-19 | kalgoorlie R4          | 9 Seel the Deel      |   0    |    -10   |
+| 9                 | 2022-06-19 | kalgoorlie R4          | 9 Seel the Deel      |   0    |    -10   |
 | :boom:            | 2022-05-18 | huntingdon R7          | 1 Downtown Getaway   |   0    |    -10   |
 | 4                 | 2022-05-16 | cairns R1              | 4 Borlotti Beans     |   3.4  |    -10   |
 | 99                | 2022-05-08 | cork R7                | 15 Slip Jig          |   0    |    -10   |

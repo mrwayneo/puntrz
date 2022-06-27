@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-06-26 20:15:49 +1000  
+date: 2022-06-27 17:35:36 +1000  
 categories: None 
 ---   
 
@@ -14,10 +14,10 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 0                 | 2022-06-24 | ballarat-synthetic R7  | 3 The Difference      |   0   |      -10 |
-| 0                 | 2022-06-16 | royal-ascot R7         | 15 Serenading         |   0   |      -10 |
-| 0                 | 2022-06-15 | royal-ascot R7         | 1 Alounak             |   0   |      -10 |
-| 0                 | 2022-06-12 | doncaster R1           | 8 Old News            |   0   |      -10 |
+| 5                 | 2022-06-24 | ballarat-synthetic R7  | 3 The Difference      |   0   |      -10 |
+| 99                | 2022-06-16 | royal-ascot R7         | 15 Serenading         |   0   |      -10 |
+| 99                | 2022-06-15 | royal-ascot R7         | 1 Alounak             |   0   |      -10 |
+| 99                | 2022-06-12 | doncaster R1           | 8 Old News            |   0   |      -10 |
 | 6                 | 2022-06-11 | belmont R5             | 5 Dark Lass           |   0   |      -10 |
 | 99                | 2022-06-06 | musselburgh R5         | 5 Rosemary And Thyme  |   0   |      -10 |
 | :3rd_place_medal: | 2022-06-02 | carnarvon R3           | 4 Flash of Thunder    |   0   |      -10 |

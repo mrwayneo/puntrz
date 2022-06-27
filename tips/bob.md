@@ -1,22 +1,23 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-06-26 20:15:49 +1000  
+date: 2022-06-27 17:35:36 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      7 |      2 |    -70   | 0.29 | -1    |
-| Since Jan 2020 |    274 |     42 |   2918.5 | 0.15 |  1.07 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      8 |      3 |    -80   | 0.38 | -1    |
+| Since Jan 2020 |    275 |     43 |   2908.5 | 0.16 |  1.06 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 23:40             | 2022-06-26 | curragh R3                    | 5 Head Mistress       |  13    |    -10   |
-| 0                 | 2022-06-17 | ripon R7                      | 1 Appier              |   0    |    -10   |
-| 0                 | 2022-06-15 | royal-ascot R7                | 1 Alounak             |   0    |    -10   |
-| 0                 | 2022-06-15 | royal-ascot R3                | 15 Tis Marvellous     |   0    |    -10   |
+| 0                 | 2022-06-26 | curragh R3                    | 5 Head Mistress       |   0    |    -10   |
+| :boom:            | 2022-06-17 | ripon R7                      | 1 Appier              |   0    |    -10   |
+| 99                | 2022-06-15 | royal-ascot R7                | 1 Alounak             |   0    |    -10   |
+| 99                | 2022-06-15 | royal-ascot R3                | 15 Tis Marvellous     |   0    |    -10   |
 | :boom:            | 2022-06-11 | morphettville-parks R7        | 1 Jaamint             |   0    |    -10   |
 | 99                | 2022-06-05 | kilbeggan R1                  | 4 Didnt Ask           |   0    |    -10   |
 | :boom:            | 2022-06-05 | pinjarra R1                   | 7 Evidence            |   0    |    -10   |
@@ -39,8 +40,8 @@ categories: None
 | 8                 | 2022-04-02 | bendigo R5                    | 11 Demando            |  26    |    -10   |
 | :boom:            | 2022-03-30 | sandown-hillside R3           | 3 Rebel's Choice      |  11.2  |    102   |
 | 99                | 2022-03-19 | fakenham R1                   | 7 Fae The Port        |   0    |    -10   |
-| 7                 | 2022-03-18 | moonee-valley R7              | 5 The Cunning Fox     |  23    |    -10   |
 | :2nd_place_medal: | 2022-03-18 | moonee-valley R7              | 8 Can't Go Wong       |  29    |    -10   |
+| 7                 | 2022-03-18 | moonee-valley R7              | 5 The Cunning Fox     |  23    |    -10   |
 | 11                | 2022-03-18 | townsville R8                 | 3 Supreme Prince      |  31    |    -10   |
 | 5                 | 2022-03-12 | ascot R5                      | 9 Outspoken Lad       |  16    |    -10   |
 | 5                 | 2022-03-05 | newcastle R1                  | 1 Read My Future      |  13    |    -10   |
@@ -64,8 +65,8 @@ categories: None
 | 5                 | 2022-01-20 | plumpton R3                   | 7 Tzar De L'Elfe      |  21    |    -10   |
 | 99                | 2022-01-15 | fairyhouse R1                 | 9 Longacre Square     |   0    |    -10   |
 | :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
-| 13                | 2022-01-15 | flemington R4                 | 10 Tuki Twelve        |  41    |    -10   |
 | 9                 | 2022-01-15 | flemington R4                 | 6 Think Bold          |  20    |    -10   |
+| 13                | 2022-01-15 | flemington R4                 | 10 Tuki Twelve        |  41    |    -10   |
 | 99                | 2022-01-11 | taunton R3                    | 14 Drag Race          |   0    |    -10   |
 | 4                 | 2022-01-10 | fairyhouse R2                 | 6 Crossgales Ophelia  |   0    |    -10   |
 | 7                 | 2022-01-09 | port-lincoln R5               | 8 Hand to Hand        |  29    |    -10   |

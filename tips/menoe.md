@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-06-26 20:15:49 +1000  
+date: 2022-06-27 17:35:36 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |      2 |      0 |    -20   | 0    | -1    |
-| Since Jan 2020 |     72 |     40 |    -35.8 | 0.56 | -0.05 |
+| Last 7 Days    |      2 |      1 |    -20   | 0.5  | -1    |
+| Last 28 Days   |      3 |      1 |    -30   | 0.33 | -1    |
+| Since Jan 2020 |     73 |     41 |    -45.8 | 0.56 | -0.06 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 0                 | 2022-06-25 | chester R5             | 2 Brains             |  0    |    -10   |
+| :2nd_place_medal: | 2022-06-25 | chester R5             | 2 Brains             |  0    |    -10   |
+| :boom:            | 2022-06-24 | ballarat-synthetic R1  | 9 Water Bomber       |  0    |    -10   |
 | :2nd_place_medal: | 2022-06-02 | wyong R5               | 1 Vyner              |  0    |    -10   |
 | :boom:            | 2022-05-18 | brighton R5            | 2 Sabyinyo           |  0    |    -10   |
 | :boom:            | 2022-05-05 | pinjarra-scarpside R3  | 1 My Boy Eddy        |  0    |    -10   |
