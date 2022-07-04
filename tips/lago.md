@@ -1,14 +1,15 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-06-27 17:35:36 +1000  
+date: 2022-07-05 07:33:08 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      7 |      2 |    -70   | 0.29 | -1    |
+| Last 28 Days   |      5 |      1 |    -50   | 0.2  | -1    |
+| Last 6 Months  |     78 |     33 |   -128.6 | 0.42 | -0.16 |
 | Since Jan 2020 |    256 |    125 |   1362.3 | 0.49 |  0.53 |
 
 | finish            | date       | event                  | runner               |   win |   return |

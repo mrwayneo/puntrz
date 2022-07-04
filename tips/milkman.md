@@ -1,20 +1,20 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-06-27 17:35:21 +1000  
+date: 2022-07-05 07:33:01 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      0 |    -60   | 0    |  -1   |
-| Last 28 Days   |     82 |     16 |   -820   | 0.2  |  -1   |
-| Since Jan 2020 |   3253 |    830 |  -6480.6 | 0.26 |  -0.2 |
+| Last 28 Days   |     60 |      7 |   -600   | 0.12 | -1    |
+| Last 6 Months  |    821 |    215 |  -2981.2 | 0.26 | -0.36 |
+| Since Jan 2020 |   3252 |    830 |  -6470.6 | 0.26 | -0.2  |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 22:35             | 2022-06-27 | greyville R5                 | 1 Swing Upon A Star   |   6    |    -10   |
+| 0                 | 2022-06-27 | greyville R5                 | 1 Swing Upon A Star   |   0    |    -10   |
 | 0                 | 2022-06-26 | curragh R2                   | 6 Statuette           |   0    |    -10   |
 | :2nd_place_medal: | 2022-06-26 | singapore R10                | 1 Lim's Kosciuszko    |   0    |    -10   |
 | :3rd_place_medal: | 2022-06-26 | singapore R10                | 2 Tiger Roar          |   0    |    -10   |
