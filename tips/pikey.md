@@ -1,19 +1,24 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-07-12 21:04:24 +1000  
+date: 2022-07-13 09:11:26 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      6 |      1 |      -60 | 0.17 | -1    |
+| Last 28 Days   |      2 |      0 |      -20 | 0    | -1    |
 | Last 6 Months  |    198 |     37 |     -674 | 0.19 | -0.34 |
 | Since Jan 2020 |   1043 |    253 |    -1798 | 0.24 | -0.17 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 16:20             | 2022-07-13 | warwick-farm R7       | 12 Marooniyah         |   2.4  |    -10   |
+| 15:45             | 2022-07-13 | warwick-farm R6       | 4 Rita May            |   3.6  |    -10   |
+| 15:10             | 2022-07-13 | warwick-farm R5       | 8 Just Business       |   5.5  |    -10   |
+| 13:25             | 2022-07-13 | warwick-farm R2       | 3 Binghamton          |  10    |    -10   |
+| 12:50             | 2022-07-13 | warwick-farm R1       | 5 Waverider Buoy      |   1.55 |    -10   |
 | 7                 | 2022-06-16 | wyong R6              | 9 Salsonic            |   0    |    -10   |
 | 4                 | 2022-06-16 | wyong R3              | 8 Ma's Dream          |   0    |    -10   |
 | 7                 | 2022-06-15 | kensington R6         | 6 Kattegat            |   0    |    -10   |
