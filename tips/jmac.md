@@ -1,14 +1,14 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-07-05 08:02:01 +1000  
+date: 2022-07-12 21:04:24 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      9 |      3 |    -90   | 0.33 | -1    |
+| Last 28 Days   |      3 |      1 |    -30   | 0.33 | -1    |
 | Last 6 Months  |    153 |     35 |   -782   | 0.23 | -0.51 |
 | Since Jan 2020 |    701 |    179 |   -750.5 | 0.26 | -0.11 |
 
@@ -508,7 +508,7 @@ categories: None
 | 8                 | 2021-04-24 | randwick R7          | 4 Dreamforce         | 14    |    -10   |
 | :boom:            | 2021-04-24 | randwick R6          | 1 Captivant          |  4.1  |     31   |
 | 5                 | 2021-04-24 | randwick R5          | 5 Signore Fox        |  5.5  |    -10   |
-| 0                 | 2021-04-24 | randwick R4          | 1 Zaaki              |  3.3  |    -10   |
+| 0                 | 2021-04-24 | randwick R4          | 1 Zaaki              |  3    |    -10   |
 | :2nd_place_medal: | 2021-04-24 | randwick R3          | 3 High Supremacy     |  3    |    -10   |
 | 7                 | 2021-04-24 | randwick R2          | 1 Matchmaker         |  4.4  |    -10   |
 | :boom:            | 2021-04-21 | canterbury R7        | 3 So Wicked          |  4.6  |     36   |
