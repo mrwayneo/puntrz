@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-07-13 09:11:20 +1000  
+date: 2022-07-19 21:15:46 +1000  
 categories: None 
 ---   
 
@@ -13,6 +13,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
+| 0                 | 2022-07-19 | wyong R3            | 3 Inuwashi         |  0    |      -10 |
 | 6                 | 2022-06-11 | eagle-farm R5       | 1 Tycoonist        |  0    |      -10 |
 | 4                 | 2022-05-07 | gold-coast R4       | 4 Robusto          |  0    |      -10 |
 | 5                 | 2022-04-30 | hawkesbury R1       | 6 Cadetship        | 10    |      -10 |

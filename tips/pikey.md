@@ -1,24 +1,26 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-07-13 09:11:26 +1000  
+date: 2022-07-19 21:15:53 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      2 |      0 |      -20 | 0    | -1    |
-| Last 6 Months  |    198 |     37 |     -674 | 0.19 | -0.34 |
-| Since Jan 2020 |   1043 |    253 |    -1798 | 0.24 | -0.17 |
+| Last 28 Days   |      5 |      0 |      -50 | 0    | -1    |
+| Last 6 Months  |    203 |     37 |     -724 | 0.18 | -0.36 |
+| Since Jan 2020 |   1048 |    253 |    -1848 | 0.24 | -0.18 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 16:20             | 2022-07-13 | warwick-farm R7       | 12 Marooniyah         |   2.4  |    -10   |
-| 15:45             | 2022-07-13 | warwick-farm R6       | 4 Rita May            |   3.6  |    -10   |
-| 15:10             | 2022-07-13 | warwick-farm R5       | 8 Just Business       |   5.5  |    -10   |
-| 13:25             | 2022-07-13 | warwick-farm R2       | 3 Binghamton          |  10    |    -10   |
-| 12:50             | 2022-07-13 | warwick-farm R1       | 5 Waverider Buoy      |   1.55 |    -10   |
+| 0                 | 2022-07-19 | wyong R2              | 7 Party Stop          |   0    |    -10   |
+| 0                 | 2022-07-19 | wyong R1              | 5 Queenmaker          |   0    |    -10   |
+| 0                 | 2022-07-13 | warwick-farm R7       | 12 Marooniyah         |   0    |    -10   |
+| 0                 | 2022-07-13 | warwick-farm R6       | 4 Rita May            |   0    |    -10   |
+| 0                 | 2022-07-13 | warwick-farm R5       | 8 Just Business       |   0    |    -10   |
+| 0                 | 2022-07-13 | warwick-farm R2       | 3 Binghamton          |   0    |    -10   |
+| 0                 | 2022-07-13 | warwick-farm R1       | 5 Waverider Buoy      |   0    |    -10   |
 | 7                 | 2022-06-16 | wyong R6              | 9 Salsonic            |   0    |    -10   |
 | 4                 | 2022-06-16 | wyong R3              | 8 Ma's Dream          |   0    |    -10   |
 | 7                 | 2022-06-15 | kensington R6         | 6 Kattegat            |   0    |    -10   |

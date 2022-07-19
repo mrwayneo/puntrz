@@ -1,19 +1,19 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-07-13 09:11:27 +1000  
+date: 2022-07-19 21:15:53 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      1 |      0 |    -10   | 0    | -1    |
 | Last 6 Months  |     78 |     33 |   -128.6 | 0.42 | -0.16 |
 | Since Jan 2020 |    256 |    125 |   1362.3 | 0.49 |  0.53 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 0                 | 2022-07-19 | rockhampton R1         | 1 Kick On Command    |  0    |    -10   |
 | 99                | 2022-06-17 | royal-ascot R5         | 18 King Of Time      |  0    |    -10   |
 | 99                | 2022-06-16 | royal-ascot R6         | 6 Far Shot           |  0    |    -10   |
 | 4                 | 2022-06-15 | royal-ascot R1         | 10 Love Reigns       |  0    |    -10   |
@@ -68,8 +68,8 @@ categories: None
 | :3rd_place_medal: | 2022-02-12 | ascot R7               | 8 Secret Deploy      |  2.9  |    -10   |
 | :boom:            | 2022-02-12 | bangor R5              | 1 Jungle Jack        |  1.85 |      8.5 |
 | 4                 | 2022-02-09 | ipswich R9             | 9 Sanzera            |  5.5  |    -10   |
-| 99                | 2022-02-07 | leopardstown R8        | 14 Pink In The Park  |  0    |    -10   |
 | 99                | 2022-02-07 | leopardstown R8        | 5 Eabha Grace        |  0    |    -10   |
+| 99                | 2022-02-07 | leopardstown R8        | 14 Pink In The Park  |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6      | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5          | 1 Bello Beau         |  2    |     10   |
 | 99                | 2022-02-06 | leopardstown R7        | 4 Embassy Gardens    |  0    |    -10   |
@@ -178,8 +178,8 @@ categories: None
 | :boom:            | 2021-08-14 | tramore R7             | 7 Coole Og           |  1.67 |      6.7 |
 | :boom:            | 2021-08-14 | newmarket R3           | 2 Coroebus           |  2.2  |     12   |
 | :boom:            | 2021-08-08 | kilbeggan R8           | 9 Flemencello        |  1.4  |      4   |
-| 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
 | :2nd_place_medal: | 2021-07-31 | galway R8              | 15 Ashroe Diamond    |  2.5  |    -10   |
+| 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
 | 4                 | 2021-07-25 | uttoxeter R1           | 2 Knotty Ash         |  1.7  |    -10   |
 | :boom:            | 2021-07-22 | sandown R3             | 4 Inspiral           |  2.2  |     12   |
 | 99                | 2021-07-18 | newbury R7             | 2 Mawenzi            |  3.3  |    -10   |

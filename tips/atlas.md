@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Atlas"   
-date: 2022-07-13 09:11:27 +1000  
+date: 2022-07-19 21:15:53 +1000  
 categories: None 
 ---   
 
@@ -13,6 +13,8 @@ categories: None
 
 | finish   | date       | event                  | runner               |   win |   return |
 |:---------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 0        | 2022-07-19 | ballarat-synthetic R1  | 2 Palaggio           |  0    |    -10   |
+| 0        | 2022-07-19 | rockhampton R1         | 1 Kick On Command    |  0    |    -10   |
 | :boom:   | 2022-06-11 | singapore R2           | 3 Major King         |  0    |    -10   |
 | :boom:   | 2022-05-07 | ipswich R2             | 12 Yellow Brick      |  0    |    -10   |
 | :boom:   | 2022-04-15 | ascot R2               | 10 Alsephina         |  2    |     10   |
