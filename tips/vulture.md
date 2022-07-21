@@ -1,23 +1,24 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-07-19 21:15:42 +1000  
+date: 2022-07-22 07:58:56 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |     65 |     12 |   -650   | 0.18 | -1    |
-| Last 6 Months  |   1848 |    471 |  -6525.1 | 0.25 | -0.35 |
-| Since Jan 2020 |   7670 |   1892 | -15017.2 | 0.25 | -0.2  |
+| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
+| Last 28 Days   |     56 |     10 |   -560   | 0.18 | -1    |
+| Last 6 Months  |   1854 |    471 |  -6585.1 | 0.25 | -0.36 |
+| Since Jan 2020 |   7676 |   1892 | -15077.2 | 0.25 | -0.2  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:00             | 2022-07-20 | ballinrobe R4                 | 2 Lieutenant Highway  |   2.25 |    -10   |
-| 01:00             | 2022-07-20 | kenilworth R8                 | 1 Silent Trigger      |   2.8  |    -10   |
-| 00:25             | 2022-07-20 | kenilworth R7                 | 7 Tin Cup             |   7.5  |    -10   |
-| 23:50             | 2022-07-19 | kenilworth R6                 | 4 Raising Quinn       |   3.25 |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R4                 | 2 Lieutenant Highway  |   0    |    -10   |
+| 0                 | 2022-07-20 | kenilworth R8                 | 1 Silent Trigger      |   0    |    -10   |
+| 0                 | 2022-07-20 | kenilworth R7                 | 7 Tin Cup             |   0    |    -10   |
+| 0                 | 2022-07-19 | kenilworth R6                 | 4 Raising Quinn       |   0    |    -10   |
 | 0                 | 2022-07-19 | rockhampton R4                | 5 In Order            |   0    |    -10   |
 | 0                 | 2022-07-19 | wyong R4                      | 6 Verzenay            |   0    |    -10   |
 | 0                 | 2022-07-14 | yarmouth R5                   | 2 Spangled Mac        |   0    |    -10   |

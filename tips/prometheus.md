@@ -1,22 +1,23 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-07-19 21:15:47 +1000  
+date: 2022-07-22 07:59:00 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |    139 |     13 |  -1390   | 0.09 | -1    |
-| Last 6 Months  |   4267 |    572 | -17533.3 | 0.13 | -0.41 |
-| Since Jan 2020 |  14716 |   2285 | -29613.7 | 0.16 | -0.2  |
+| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
+| Last 28 Days   |     97 |      8 |   -970   | 0.08 | -1    |
+| Last 6 Months  |   4273 |    572 | -17593.3 | 0.13 | -0.41 |
+| Since Jan 2020 |  14722 |   2285 | -29673.7 | 0.16 | -0.2  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:00             | 2022-07-20 | ballinrobe R6                 | 9 Natural Look        |   2.88 |    -10   |
-| 02:00             | 2022-07-20 | ballinrobe R2                 | 6 Troubled Times      |   2.5  |    -10   |
-| 23:15             | 2022-07-19 | kenilworth R5                 | 1 Metar               |   2.15 |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R6                 | 9 Natural Look        |   0    |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R2                 | 6 Troubled Times      |   0    |    -10   |
+| 0                 | 2022-07-19 | kenilworth R5                 | 1 Metar               |   0    |    -10   |
 | 0                 | 2022-07-19 | moree R1                      | 11 Jade               |   0    |    -10   |
 | 0                 | 2022-07-19 | ballarat-synthetic R1         | 2 Palaggio            |   0    |    -10   |
 | 0                 | 2022-07-19 | rockhampton R1                | 1 Kick On Command     |   0    |    -10   |

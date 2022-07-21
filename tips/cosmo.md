@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-07-19 21:15:46 +1000  
+date: 2022-07-22 07:58:59 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |     57 |      2 |     -570 | 0.04 | -1    |
-| Last 6 Months  |   1585 |     93 |    -4597 | 0.06 | -0.29 |
-| Since Jan 2020 |   6142 |    360 |    -5829 | 0.06 | -0.09 |
+| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
+| Last 28 Days   |     43 |      2 |     -430 | 0.05 | -1    |
+| Last 6 Months  |   1587 |     93 |    -4617 | 0.06 | -0.29 |
+| Since Jan 2020 |   6144 |    360 |    -5849 | 0.06 | -0.1  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 23:50             | 2022-07-19 | kenilworth R6                 | 8 Della's Sword       |  16    |      -10 |
+| 0                 | 2022-07-19 | kenilworth R6                 | 8 Della's Sword       |   0    |      -10 |
 | 0                 | 2022-07-19 | moree R2                      | 9 Somethinfromnothin  |   0    |      -10 |
 | 0                 | 2022-07-14 | killarney R4                  | 11 Voice Of Angels    |   0    |      -10 |
 | 0                 | 2022-07-13 | darwin R6                     | 7 Valenciano          |   0    |      -10 |

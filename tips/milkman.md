@@ -1,21 +1,22 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-07-19 21:15:45 +1000  
+date: 2022-07-22 07:58:59 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      9 |      1 |    -90   | 0.11 | -1    |
-| Last 6 Months  |    823 |    216 |  -3001.2 | 0.26 | -0.36 |
-| Since Jan 2020 |   3254 |    831 |  -6490.6 | 0.26 | -0.2  |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
+| Last 28 Days   |      8 |      1 |    -80   | 0.12 | -1    |
+| Last 6 Months  |    825 |    216 |  -3021.2 | 0.26 | -0.37 |
+| Since Jan 2020 |   3256 |    831 |  -6510.6 | 0.26 | -0.2  |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 01:10             | 2022-07-20 | musselburgh R5               | 1 Star Of Lady M      |   4    |    -10   |
-| 21:30             | 2022-07-19 | kenilworth R2                | 1 Body Electric       |   2.15 |    -10   |
+| 0                 | 2022-07-20 | musselburgh R5               | 1 Star Of Lady M      |   0    |    -10   |
+| 0                 | 2022-07-19 | kenilworth R2                | 1 Body Electric       |   0    |    -10   |
 | 0                 | 2022-07-14 | yarmouth R5                  | 2 Spangled Mac        |   0    |    -10   |
 | 0                 | 2022-07-13 | warwick-farm R6              | 4 Rita May            |   0    |    -10   |
 | :2nd_place_medal: | 2022-06-27 | greyville R5                 | 1 Swing Upon A Star   |   0    |    -10   |

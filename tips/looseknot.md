@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-07-19 21:15:47 +1000  
+date: 2022-07-22 07:59:00 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
+| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
 | Last 28 Days   |     20 |      3 |   -200   | 0.15 | -1    |
-| Last 6 Months  |    433 |     60 |  -2272.5 | 0.14 | -0.52 |
-| Since Jan 2020 |   1620 |    241 |  -3828.3 | 0.15 | -0.24 |
+| Last 6 Months  |    436 |     60 |  -2302.5 | 0.14 | -0.53 |
+| Since Jan 2020 |   1623 |    241 |  -3858.3 | 0.15 | -0.24 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:30             | 2022-07-20 | ballinrobe R3                 | 10 Tullypole Annie    |   6    |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R3                 | 10 Tullypole Annie    |   0    |    -10   |
 | 0                 | 2022-07-19 | moree R7                      | 2 Deep Mirror         |   0    |    -10   |
 | 0                 | 2022-07-19 | moree R1                      | 4 He's Spoken         |   0    |    -10   |
 | 0                 | 2022-07-14 | killarney R7                  | 7 Abstract            |   0    |    -10   |

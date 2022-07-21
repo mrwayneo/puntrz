@@ -1,21 +1,22 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-07-19 21:15:44 +1000  
+date: 2022-07-22 07:58:58 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |     58 |      9 |   -580   | 0.16 | -1    |
-| Last 6 Months  |   1596 |    383 |  -6923.1 | 0.24 | -0.43 |
-| Since Jan 2020 |   6046 |   1527 | -11111.9 | 0.25 | -0.18 |
+| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
+| Last 28 Days   |     51 |      8 |   -510   | 0.16 | -1    |
+| Last 6 Months  |   1602 |    383 |  -6983.1 | 0.24 | -0.44 |
+| Since Jan 2020 |   6052 |   1527 | -11171.9 | 0.25 | -0.18 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 05:00             | 2022-07-20 | ballinrobe R8                | 3 Follow The Brave    |   4.2  |    -10   |
-| 02:30             | 2022-07-20 | ballinrobe R3                | 5 Double Talkin Jive  |   7    |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R8                | 3 Follow The Brave    |   0    |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R3                | 5 Double Talkin Jive  |   0    |    -10   |
 | 0                 | 2022-07-19 | rockhampton R6               | 1 Mr Demolition       |   0    |    -10   |
 | 0                 | 2022-07-19 | rockhampton R5               | 1 Boom Boom Becker    |   0    |    -10   |
 | 0                 | 2022-07-19 | rockhampton R4               | 5 In Order            |   0    |    -10   |

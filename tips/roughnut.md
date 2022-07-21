@@ -1,31 +1,32 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-07-19 21:15:49 +1000  
+date: 2022-07-22 07:59:02 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |    189 |      0 |    -1890 | 0    | -1    |
-| Last 6 Months  |   5591 |    192 |   -26356 | 0.03 | -0.47 |
-| Since Jan 2020 |  21616 |   1053 |   -56504 | 0.05 | -0.26 |
+| Last 7 Days    |     18 |      0 |     -180 | 0    | -1    |
+| Last 28 Days   |    171 |      0 |    -1710 | 0    | -1    |
+| Last 6 Months  |   5609 |    192 |   -26536 | 0.03 | -0.47 |
+| Since Jan 2020 |  21634 |   1053 |   -56684 | 0.05 | -0.26 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:30             | 2022-07-20 | ballinrobe R7                 | 18 Rare Conor         |   9    |    -10   |
-| 04:30             | 2022-07-20 | ballinrobe R7                 | 15 Bye Bye O Bye      |  20    |    -10   |
-| 03:30             | 2022-07-20 | ballinrobe R5                 | 4 Lighthouse Rose     |  29    |    -10   |
-| 03:30             | 2022-07-20 | ballinrobe R5                 | 5 Galon De Vauzelle   |   9.5  |    -10   |
-| 03:00             | 2022-07-20 | ballinrobe R4                 | 1 Ballybaun Star      |   6.5  |    -10   |
-| 02:30             | 2022-07-20 | ballinrobe R3                 | 3 Elite Des Mottes    |  11    |    -10   |
-| 02:30             | 2022-07-20 | ballinrobe R3                 | 7 Big Island          |   9.5  |    -10   |
-| 02:30             | 2022-07-20 | ballinrobe R3                 | 8 Ballinlough Gale    |   9.5  |    -10   |
-| 02:30             | 2022-07-20 | ballinrobe R3                 | 2 Ardamir             |  17    |    -10   |
-| 02:15             | 2022-07-20 | musselburgh R7                | 4 Lizzie Loch         |  15    |    -10   |
-| 00:35             | 2022-07-20 | musselburgh R4                | 7 The Gay Blade       |   5.5  |    -10   |
-| 23:50             | 2022-07-19 | kenilworth R6                 | 8 Della's Sword       |  16    |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R7                 | 18 Rare Conor         |   0    |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R7                 | 15 Bye Bye O Bye      |   0    |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R5                 | 4 Lighthouse Rose     |   0    |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R5                 | 5 Galon De Vauzelle   |   0    |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R4                 | 1 Ballybaun Star      |   0    |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R3                 | 3 Elite Des Mottes    |   0    |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R3                 | 7 Big Island          |   0    |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R3                 | 8 Ballinlough Gale    |   0    |    -10   |
+| 0                 | 2022-07-20 | ballinrobe R3                 | 2 Ardamir             |   0    |    -10   |
+| 0                 | 2022-07-20 | musselburgh R7                | 4 Lizzie Loch         |   0    |    -10   |
+| 0                 | 2022-07-20 | musselburgh R4                | 7 The Gay Blade       |   0    |    -10   |
+| 0                 | 2022-07-19 | kenilworth R6                 | 8 Della's Sword       |   0    |    -10   |
 | 0                 | 2022-07-19 | kenilworth R1                 | 2 Cosmic Empire       |   0    |    -10   |
 | 0                 | 2022-07-19 | rockhampton R6                | 3 Gulf Of Sidra       |   0    |    -10   |
 | 0                 | 2022-07-19 | moree R2                      | 9 Somethinfromnothin  |   0    |    -10   |
