@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-07-22 07:58:56 +1000  
+date: 2022-07-22 07:59:52 +1000  
 categories: None 
 ---   
 
