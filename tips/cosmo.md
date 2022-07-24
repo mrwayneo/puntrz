@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-07-23 12:07:31 +1000  
+date: 2022-07-24 17:34:33 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
-| Last 28 Days   |     43 |      2 |     -430 | 0.05 | -1    |
+| Last 28 Days   |     21 |      0 |     -210 | 0    | -1    |
 | Last 6 Months  |   1587 |     93 |    -4617 | 0.06 | -0.29 |
 | Since Jan 2020 |   6144 |    360 |    -5849 | 0.06 | -0.1  |
 

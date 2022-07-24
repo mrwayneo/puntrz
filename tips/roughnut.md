@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-07-23 12:07:34 +1000  
+date: 2022-07-24 17:34:36 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |     18 |      0 |     -180 | 0    | -1    |
-| Last 28 Days   |    171 |      0 |    -1710 | 0    | -1    |
+| Last 28 Days   |    112 |      0 |    -1120 | 0    | -1    |
 | Last 6 Months  |   5609 |    192 |   -26536 | 0.03 | -0.47 |
 | Since Jan 2020 |  21634 |   1053 |   -56684 | 0.05 | -0.26 |
 

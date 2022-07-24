@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2022-07-23 12:07:28 +1000  
+date: 2022-07-24 17:34:30 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |     32 |      1 |   -320   | 0.03 | -1    |
+| Last 28 Days   |     21 |      1 |   -210   | 0.05 | -1    |
 | Last 6 Months  |   1309 |    266 |  -4102   | 0.2  | -0.31 |
 | Since Jan 2020 |   5145 |   1095 |  -6730.1 | 0.21 | -0.13 |
 

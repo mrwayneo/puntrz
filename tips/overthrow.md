@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-07-23 12:07:29 +1000  
+date: 2022-07-24 17:34:31 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
-| Last 28 Days   |     51 |      9 |   -510   | 0.18 | -1    |
+| Last 28 Days   |     30 |      4 |   -300   | 0.13 | -1    |
 | Last 6 Months  |   1602 |    384 |  -6983.1 | 0.24 | -0.44 |
 | Since Jan 2020 |   6052 |   1528 | -11171.9 | 0.25 | -0.18 |
 

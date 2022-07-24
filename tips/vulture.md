@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-07-23 12:07:27 +1000  
+date: 2022-07-24 17:34:29 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
-| Last 28 Days   |     56 |     10 |   -560   | 0.18 | -1    |
+| Last 28 Days   |     39 |      4 |   -390   | 0.1  | -1    |
 | Last 6 Months  |   1854 |    471 |  -6585.1 | 0.25 | -0.36 |
 | Since Jan 2020 |   7676 |   1892 | -15077.2 | 0.25 | -0.2  |
 

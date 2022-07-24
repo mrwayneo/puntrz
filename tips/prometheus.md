@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-07-23 12:07:32 +1000  
+date: 2022-07-24 17:34:34 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
-| Last 28 Days   |     97 |      8 |   -970   | 0.08 | -1    |
+| Last 28 Days   |     90 |      6 |   -900   | 0.07 | -1    |
 | Last 6 Months  |   4273 |    572 | -17593.3 | 0.13 | -0.41 |
 | Since Jan 2020 |  14722 |   2285 | -29673.7 | 0.16 | -0.2  |
 
