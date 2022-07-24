@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-07-24 22:55:57 +1000  
+date: 2022-07-25 07:27:31 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     18 |      0 |     -180 | 0    | -1    |
-| Last 28 Days   |    112 |      0 |    -1120 | 0    | -1    |
-| Last 6 Months  |   5609 |    192 |   -26536 | 0.03 | -0.47 |
-| Since Jan 2020 |  21634 |   1053 |   -56684 | 0.05 | -0.26 |
+| Last 7 Days    |     12 |      0 |     -120 | 0    | -1    |
+| Last 28 Days   |    111 |      0 |    -1110 | 0    | -1    |
+| Last 6 Months  |   5621 |    192 |   -26656 | 0.03 | -0.47 |
+| Since Jan 2020 |  21646 |   1053 |   -56804 | 0.05 | -0.26 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 00:45             | 2022-07-25 | scottsville R8                | 13 Trafalgar Square   |   9.5  |    -10   |
-| 23:35             | 2022-07-24 | scottsville R6                | 1 Rodriguez           |  11    |    -10   |
+| 0                 | 2022-07-25 | scottsville R8                | 13 Trafalgar Square   |   0    |    -10   |
+| 0                 | 2022-07-24 | scottsville R6                | 1 Rodriguez           |   0    |    -10   |
 | 0                 | 2022-07-24 | scottsville R1                | 3 Grande Lupo         |   0    |    -10   |
 | 4                 | 2022-07-24 | singapore R12                 | 11 Jungle King        |  17    |    -10   |
 | 9                 | 2022-07-24 | alice-springs R2              | 5 Nicotera            |  11    |    -10   |

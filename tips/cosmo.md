@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-07-24 22:55:54 +1000  
+date: 2022-07-25 07:27:29 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
-| Last 28 Days   |     21 |      0 |     -210 | 0    | -1    |
-| Last 6 Months  |   1587 |     93 |    -4617 | 0.06 | -0.29 |
-| Since Jan 2020 |   6144 |    360 |    -5849 | 0.06 | -0.1  |
+| Last 7 Days    |      4 |      0 |      -40 | 0    | -1    |
+| Last 28 Days   |     24 |      0 |     -240 | 0    | -1    |
+| Last 6 Months  |   1591 |     93 |    -4657 | 0.06 | -0.29 |
+| Since Jan 2020 |   6148 |    360 |    -5889 | 0.06 | -0.1  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 23:35             | 2022-07-24 | scottsville R6                | 1 Rodriguez           |  11    |      -10 |
+| 0                 | 2022-07-24 | scottsville R6                | 1 Rodriguez           |   0    |      -10 |
 | 7                 | 2022-07-24 | alice-springs R2              | 1 City Jet            |  10    |      -10 |
 | 9                 | 2022-07-24 | alice-springs R2              | 5 Nicotera            |  11    |      -10 |
 | 8                 | 2022-07-24 | alice-springs R1              | 7 Little Krakatoa     |  51    |      -10 |
