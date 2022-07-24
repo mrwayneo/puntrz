@@ -1,17 +1,20 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-24 18:49:11 +1000  
+date: 2022-07-24 18:49:28 +1000  
 ---   
 
 
 ##### Form Today tips   
 
-| tipster                                                 |   runs |   wins |   profit |   sr |   roi |
-|:--------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [milkman](https://mrwayneo.github.io/tips/milkman.html) |      1 |      0 |      -10 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)     |      3 |      0 |      -30 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)   |      8 |      0 |      -80 |    0 |    -1 |
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |      4 |      1 |       -8 | 0.25 |  -0.2 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    |  -1   |
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      3 |      0 |      -30 | 0    |  -1   |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 | 0    |  -1   |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      8 |      0 |      -80 | 0    |  -1   |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     12 |      0 |     -120 | 0    |  -1   |
 
 ##### Form Last 20 tips   
 
@@ -70,10 +73,8 @@ date: 2022-07-24 18:49:11 +1000
 |  0 | :3rd_place_medal: | 2022-07-24 16:58:00 | alice-springs  |      4 |        3 | Zelring          |    3.1 | benny,pangea |
 |  1 | 6.0               | 2022-07-24 16:58:00 | alice-springs  |      4 |        6 | Heart of Red     |   21   | pangea       |
 |  2 | :2nd_place_medal: | 2022-07-24 15:52:00 | alice-springs  |      2 |        4 | Harbour Express  |    3.9 | benny,pangea |
-|  3 | 7.0               | 2022-07-24 15:52:00 | alice-springs  |      2 |        1 | City Jet         |   10   | pangea       |
-|  4 | 9.0               | 2022-07-24 15:52:00 | alice-springs  |      2 |        5 | Nicotera         |   11   | pangea       |
-|  5 | :2nd_place_medal: | 2022-07-24 15:22:00 | alice-springs  |      1 |        4 | Like A Heartbeat |    3.5 | pangea       |
-|  6 | 8.0               | 2022-07-24 15:22:00 | alice-springs  |      1 |        7 | Little Krakatoa  |   51   | pangea       |
-|  7 | 103.0             | 2022-07-24 14:45:00 | coffs-harbour  |      4 |        4 | Ultimate Man     |    5.5 | pangea       |
-|  8 | :2nd_place_medal: | 2022-07-24 14:20:00 | sapphire-coast |      4 |        3 | Bold Offa        |    5.5 | milkman      |
-|  9 | :3rd_place_medal: | 2022-07-24 14:09:00 | oamaru         |     10 |        4 | Facetime         |    4   | benny,pangea |
+|  3 | :2nd_place_medal: | 2022-07-24 15:22:00 | alice-springs  |      1 |        4 | Like A Heartbeat |    3.5 | pangea       |
+|  4 | 103.0             | 2022-07-24 14:45:00 | coffs-harbour  |      4 |        4 | Ultimate Man     |    5.5 | pangea       |
+|  5 | :2nd_place_medal: | 2022-07-24 14:20:00 | sapphire-coast |      4 |        3 | Bold Offa        |    5.5 | milkman      |
+|  6 | :3rd_place_medal: | 2022-07-24 14:09:00 | oamaru         |     10 |        4 | Facetime         |    4   | benny,pangea |
+|  7 | 103.0             | 2022-07-24 13:25:00 | coffs-harbour  |      2 |        6 | Face The Facts   |   41   | cosmo,bob    |
