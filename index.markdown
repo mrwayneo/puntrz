@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-24 21:55:41 +1000  
+date: 2022-07-24 22:10:54 +1000  
 ---   
 
 
@@ -76,5 +76,5 @@ date: 2022-07-24 21:55:41 +1000
 |  3 | :2nd_place_medal: | 2022-07-24 15:22:00 | alice-springs  |      1 |        4 | Like A Heartbeat |    3.5 | pangea       |
 |  4 | 103.0             | 2022-07-24 14:45:00 | coffs-harbour  |      4 |        4 | Ultimate Man     |    5.5 | pangea       |
 |  5 | :2nd_place_medal: | 2022-07-24 14:20:00 | sapphire-coast |      4 |        3 | Bold Offa        |    5.5 | milkman      |
-|  6 | :3rd_place_medal: | 2022-07-24 14:09:00 | oamaru         |     10 |        4 | Facetime         |    4   | benny,pangea |
+|  6 | --                | 2022-07-24 14:09:00 | oamaru         |     10 |        4 | Facetime         |    4   | benny,pangea |
 |  7 | 103.0             | 2022-07-24 13:25:00 | coffs-harbour  |      2 |        6 | Face The Facts   |   41   | cosmo,bob    |

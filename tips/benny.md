@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-07-24 21:55:31 +1000  
+date: 2022-07-24 22:10:55 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:------------------------------|:----------------------|------:|---------:|
 | :3rd_place_medal: | 2022-07-24 | alice-springs R4              | 3 Zelring             |  3.1  |    -10   |
 | :2nd_place_medal: | 2022-07-24 | alice-springs R2              | 4 Harbour Express     |  3.9  |    -10   |
-| :3rd_place_medal: | 2022-07-24 | oamaru R10                    | 4 Facetime            |  4    |    -10   |
+| 0                 | 2022-07-24 | oamaru R10                    | 4 Facetime            |  0    |    -10   |
 | 0                 | 2022-07-19 | rockhampton R4                | 5 In Order            |  0    |    -10   |
 | 0                 | 2022-07-13 | darwin R2                     | 8 Canton Kid          |  0    |    -10   |
 | 0                 | 2022-07-13 | darwin R2                     | 4 Star of Monsoon     |  0    |    -10   |
