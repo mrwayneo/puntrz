@@ -1,11 +1,23 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-25 07:58:59 +1000  
+date: 2022-07-25 11:20:29 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      2 |      0 |      -20 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      2 |      0 |      -20 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      0 |      -40 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      7 |      0 |      -70 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     24 |      0 |     -240 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     29 |      0 |     -290 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,13 +71,24 @@ date: 2022-07-25 07:58:59 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3519 |    462 |  -8758.2 | 0.13 | -0.25 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4655 |    164 | -20966   | 0.04 | -0.45 |
 
-|    | finish            | time                | track          |   race |   number | name             |   odds | tipster      |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-----------------|-------:|:-------------|
-|  0 | :3rd_place_medal: | 2022-07-24 16:58:00 | alice-springs  |      4 |        3 | Zelring          |    3.1 | benny,pangea |
-|  1 | 6.0               | 2022-07-24 16:58:00 | alice-springs  |      4 |        6 | Heart of Red     |   21   | pangea       |
-|  2 | :2nd_place_medal: | 2022-07-24 15:52:00 | alice-springs  |      2 |        4 | Harbour Express  |    3.9 | benny,pangea |
-|  3 | :2nd_place_medal: | 2022-07-24 15:22:00 | alice-springs  |      1 |        4 | Like A Heartbeat |    3.5 | pangea       |
-|  4 | 103.0             | 2022-07-24 14:45:00 | coffs-harbour  |      4 |        4 | Ultimate Man     |    5.5 | pangea       |
-|  5 | :2nd_place_medal: | 2022-07-24 14:20:00 | sapphire-coast |      4 |        3 | Bold Offa        |    5.5 | milkman      |
-|  6 | :3rd_place_medal: | 2022-07-24 14:09:00 | oamaru         |     10 |        4 | Facetime         |    4   | benny,pangea |
-|  7 | 103.0             | 2022-07-24 13:25:00 | coffs-harbour  |      2 |        6 | Face The Facts   |   41   | cosmo,bob    |
+|    | finish   | time                | track        |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:-------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-07-26 05:30:00 | ffos-las     |      5 |        5 | Me Next            |   8    | looseknot          |
+|  1 | :soon:   | 2022-07-26 05:20:00 | galway       |      7 |       15 | The Twelve Pins    |   4.75 | overthrow          |
+|  2 | :soon:   | 2022-07-26 05:10:00 | windsor      |      6 |        4 | Western Writer     |   2.4  | evenodds,overthrow |
+|  3 | :soon:   | 2022-07-26 05:00:00 | ffos-las     |      4 |        7 | Fresh Fancy        |  16    | cosmo,bob          |
+|  4 | :soon:   | 2022-07-26 04:50:00 | galway       |      6 |        6 | Common Practice    |   3.3  | vulture            |
+|  5 | :soon:   | 2022-07-26 04:25:00 | ffos-las     |      3 |        4 | Bay Dream Believer |   6    | looseknot          |
+|  6 | :soon:   | 2022-07-26 04:25:00 | ffos-las     |      3 |        7 | Tamilla            |   1.4  | vulture            |
+|  7 | :soon:   | 2022-07-26 03:40:00 | galway       |      4 |       20 | Farout             |   5.5  | overthrow          |
+|  8 | :soon:   | 2022-07-26 03:40:00 | galway       |      4 |        6 | Lot of Joy         |   9.5  | overthrow          |
+|  9 | :soon:   | 2022-07-26 03:40:00 | galway       |      4 |       12 | Echoes In Rain     |   3.9  | overthrow          |
+| 10 | :soon:   | 2022-07-26 03:30:00 | windsor      |      3 |        4 | Manuha             |   6    | looseknot          |
+| 11 | :soon:   | 2022-07-26 03:20:00 | ffos-las     |      1 |        4 | Cloud Flyer        |   3.2  | looseknot          |
+| 12 | :soon:   | 2022-07-26 02:30:00 | windsor      |      1 |        3 | Airshow            |   4.75 | vulture            |
+| 13 | :soon:   | 2022-07-26 02:10:00 | galway       |      1 |        1 | As Tears Go By     |   0    | milkman            |
+| 14 | :soon:   | 2022-07-26 01:45:00 | newton-abbot |      6 |        2 | The Galahad Kid    |   2.2  | milkman            |
+| 15 | :soon:   | 2022-07-26 00:20:00 | ayr          |      5 |        6 | Noble Anthem       |   2.7  | milkman            |
+| 16 | :soon:   | 2022-07-25 23:45:00 | ayr          |      4 |        1 | Starshiba          |   3.9  | vulture            |
+| 17 | :soon:   | 2022-07-25 22:50:00 | newton-abbot |      1 |        2 | Huelgoat           |   0    | evenodds,overthrow |
+| 18 | :soon:   | 2022-07-25 22:35:00 | ayr          |      2 |        6 | Stormy Pearl       |   3.2  | vulture            |
