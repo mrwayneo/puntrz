@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-25 22:31:04 +1000  
+date: 2022-07-25 22:46:48 +1000  
 ---   
 
 
@@ -91,4 +91,4 @@ date: 2022-07-25 22:31:04 +1000
 | 15 | :soon:   | 2022-07-26 00:20:00 | ayr          |      5 |        6 | Noble Anthem       |   2.7  | milkman            |
 | 16 | :soon:   | 2022-07-25 23:45:00 | ayr          |      4 |        1 | Starshiba          |   3.9  | vulture            |
 | 17 | :soon:   | 2022-07-25 22:50:00 | newton-abbot |      1 |        2 | Huelgoat           |   2.7  | evenodds,overthrow |
-| 18 | :soon:   | 2022-07-25 22:35:00 | ayr          |      2 |        6 | Stormy Pearl       |   3.2  | vulture            |
+| 18 | 4.0      | 2022-07-25 22:35:00 | ayr          |      2 |        6 | Stormy Pearl       |   3.2  | vulture            |
