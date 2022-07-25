@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Atlas"   
-date: 2022-07-25 15:09:06 +1000  
+date: 2022-07-25 15:28:36 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      2 |      0 |    -20   | 0    | -1    |
-| Last 6 Months  |      7 |      5 |     -4   | 0.71 | -0.06 |
-| Since Jan 2020 |     83 |     81 |   1755.1 | 0.98 |  2.11 |
+| Last 28 Days   |      2 |      2 |    -20   |    1 | -1    |
+| Last 6 Months  |      7 |      7 |     -4   |    1 | -0.06 |
+| Since Jan 2020 |     83 |     83 |   1755.1 |    1 |  2.11 |
 
 | finish   | date       | event                  | runner               |   win |   return |
 |:---------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 0        | 2022-07-19 | ballarat-synthetic R1  | 2 Palaggio           |  0    |    -10   |
-| 0        | 2022-07-19 | rockhampton R1         | 1 Kick On Command    |  0    |    -10   |
+| :boom:   | 2022-07-19 | ballarat-synthetic R1  | 2 Palaggio           |  0    |    -10   |
+| :boom:   | 2022-07-19 | rockhampton R1         | 1 Kick On Command    |  0    |    -10   |
 | :boom:   | 2022-06-11 | singapore R2           | 3 Major King         |  0    |    -10   |
 | :boom:   | 2022-05-07 | ipswich R2             | 12 Yellow Brick      |  0    |    -10   |
 | :boom:   | 2022-04-15 | ascot R2               | 10 Alsephina         |  2    |     10   |

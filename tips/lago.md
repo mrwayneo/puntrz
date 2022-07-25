@@ -1,20 +1,20 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-07-25 15:09:06 +1000  
+date: 2022-07-25 15:28:36 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      1 |      0 |    -10   | 0    | -1    |
-| Last 6 Months  |     79 |     33 |   -138.6 | 0.42 | -0.18 |
-| Since Jan 2020 |    257 |    125 |   1352.3 | 0.49 |  0.53 |
+| Last 28 Days   |      1 |      1 |    -10   | 1    | -1    |
+| Last 6 Months  |     79 |     34 |   -138.6 | 0.43 | -0.18 |
+| Since Jan 2020 |    257 |    126 |   1352.3 | 0.49 |  0.53 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 0                 | 2022-07-19 | rockhampton R1         | 1 Kick On Command    |  0    |    -10   |
+| :boom:            | 2022-07-19 | rockhampton R1         | 1 Kick On Command    |  0    |    -10   |
 | 99                | 2022-06-17 | royal-ascot R5         | 18 King Of Time      |  0    |    -10   |
 | 99                | 2022-06-16 | royal-ascot R6         | 6 Far Shot           |  0    |    -10   |
 | 4                 | 2022-06-15 | royal-ascot R1         | 10 Love Reigns       |  0    |    -10   |
@@ -69,12 +69,12 @@ categories: None
 | :3rd_place_medal: | 2022-02-12 | ascot R7               | 8 Secret Deploy      |  2.9  |    -10   |
 | :boom:            | 2022-02-12 | bangor R5              | 1 Jungle Jack        |  1.85 |      8.5 |
 | 4                 | 2022-02-09 | ipswich R9             | 9 Sanzera            |  5.5  |    -10   |
-| 99                | 2022-02-07 | leopardstown R8        | 14 Pink In The Park  |  0    |    -10   |
 | 99                | 2022-02-07 | leopardstown R8        | 5 Eabha Grace        |  0    |    -10   |
+| 99                | 2022-02-07 | leopardstown R8        | 14 Pink In The Park  |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6      | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5          | 1 Bello Beau         |  2    |     10   |
-| 99                | 2022-02-06 | leopardstown R7        | 4 Embassy Gardens    |  0    |    -10   |
 | :boom:            | 2022-02-06 | leopardstown R7        | 5 Facile Vega        |  1.73 |      7.3 |
+| 99                | 2022-02-06 | leopardstown R7        | 4 Embassy Gardens    |  0    |    -10   |
 | 99                | 2022-02-06 | leopardstown R1        | 1 Bronn              |  0    |    -10   |
 | :boom:            | 2022-02-02 | sandown-lakeside R1    | 7 Ruthless Dame      |  0    |    -10   |
 | :2nd_place_medal: | 2022-02-02 | ffos-las R7            | 7 Tahmuras           |  0    |    -10   |
@@ -102,8 +102,8 @@ categories: None
 | :boom:            | 2021-12-26 | wetherby R2            | 4 Galia Des Liteaux  |  3.3  |     23   |
 | 99                | 2021-12-18 | navan R2               | 15 Belle Metal       |  0    |    -10   |
 | :boom:            | 2021-12-18 | ascot R6               | 7 Henri The Second   |  4.4  |     34   |
-| :3rd_place_medal: | 2021-12-18 | ascot R4               | 4 Knappers Hill      |  4    |    -10   |
 | :boom:            | 2021-12-18 | ascot R4               | 3 Jonbon             |  2    |     10   |
+| :3rd_place_medal: | 2021-12-18 | ascot R4               | 4 Knappers Hill      |  4    |    -10   |
 | :boom:            | 2021-12-16 | leicester R3           | 8 Sholokjack         |  2.35 |     13.5 |
 | 5                 | 2021-12-13 | rockhampton R1         | 4 Sweet Way's        |  3.2  |    -10   |
 | 99                | 2021-12-13 | southwell R6           | 6 Hob House          |  0    |    -10   |
@@ -131,8 +131,8 @@ categories: None
 | :boom:            | 2021-11-09 | huntingdon R1          | 7 Theatre Glory      |  2.62 |     16.2 |
 | :boom:            | 2021-11-09 | townsville R3          | 3 Yes Dream          |  1.6  |      6   |
 | :boom:            | 2021-11-09 | kempton R3             | 3 Doddiethegreat     |  1.33 |      3.3 |
-| :boom:            | 2021-11-07 | sunshine-coast R5      | 5 Gypsy Goddess      |  3.5  |     25   |
 | :3rd_place_medal: | 2021-11-07 | sunshine-coast R5      | 2 Ma Ma's Rose       |  3.8  |    -10   |
+| :boom:            | 2021-11-07 | sunshine-coast R5      | 5 Gypsy Goddess      |  3.5  |     25   |
 | :boom:            | 2021-11-07 | wincanton R2           | 1 Knappers Hill      |  1.1  |      1   |
 | 0                 | 2021-11-05 | warwick R1             | 6 In This World      |  0    |    -10   |
 | 99                | 2021-11-03 | exeter R2              | 5 Huflower           |  0    |    -10   |
@@ -179,8 +179,8 @@ categories: None
 | :boom:            | 2021-08-14 | tramore R7             | 7 Coole Og           |  1.67 |      6.7 |
 | :boom:            | 2021-08-14 | newmarket R3           | 2 Coroebus           |  2.2  |     12   |
 | :boom:            | 2021-08-08 | kilbeggan R8           | 9 Flemencello        |  1.4  |      4   |
-| 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
 | :2nd_place_medal: | 2021-07-31 | galway R8              | 15 Ashroe Diamond    |  2.5  |    -10   |
+| 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
 | 4                 | 2021-07-25 | uttoxeter R1           | 2 Knotty Ash         |  1.7  |    -10   |
 | :boom:            | 2021-07-22 | sandown R3             | 4 Inspiral           |  2.2  |     12   |
 | 99                | 2021-07-18 | newbury R7             | 2 Mawenzi            |  3.3  |    -10   |
@@ -227,8 +227,8 @@ categories: None
 | :2nd_place_medal: | 2021-04-03 | awapuni R7             | 4 I Wish I Win       |  3.3  |    -10   |
 | :2nd_place_medal: | 2021-03-31 | doomben R7             | 7 Roman Republic     |  1.9  |    -10   |
 | :boom:            | 2021-03-29 | limerick R8            | 10 Belle Metal       |  1.68 |      6.8 |
-| 99                | 2021-03-28 | newbury R7             | 2 Petrossian         |  3.9  |    -10   |
 | :boom:            | 2021-03-28 | newbury R7             | 6 Jonbon             |  1.9  |      9   |
+| 99                | 2021-03-28 | newbury R7             | 2 Petrossian         |  3.9  |    -10   |
 | :boom:            | 2021-03-24 | launceston R5          | 6 Azara              |  2.4  |     14   |
 | 99                | 2021-03-22 | chepstow R7            | 2 Gold Bullion       |  2.9  |    -10   |
 | :3rd_place_medal: | 2021-03-20 | cheltenham R1          | 2 Haut En Couleurs   | 23    |    -10   |
@@ -243,8 +243,8 @@ categories: None
 | :2nd_place_medal: | 2021-02-27 | warwick R1             | 2 Heross Du Seuil    |  1.8  |    -10   |
 | :3rd_place_medal: | 2021-02-23 | southwell R3           | 4 Ballingers Corner  |  4.4  |    -10   |
 | :3rd_place_medal: | 2021-02-09 | fairyhouse R4          | 2 Gauloise           |  3.75 |    -10   |
-| 99                | 2021-02-08 | leopardstown R8        | 1 Brooklynn Glory    |  6    |    -10   |
 | :3rd_place_medal: | 2021-02-08 | leopardstown R8        | 6 Brandy Love        |  2.1  |    -10   |
+| 99                | 2021-02-08 | leopardstown R8        | 1 Brooklynn Glory    |  6    |    -10   |
 | :3rd_place_medal: | 2021-02-05 | townsville R1          | 1 Attackabeel        |  1.4  |    -10   |
 | :2nd_place_medal: | 2021-02-04 | wincanton R1           | 7 Fable              |  3.75 |    -10   |
 | :boom:            | 2021-01-20 | newbury R1             | 6 Gallyhill          |  1.34 |      3.4 |
