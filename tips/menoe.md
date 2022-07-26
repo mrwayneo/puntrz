@@ -1,19 +1,21 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-07-26 22:50:59 +1000  
+date: 2022-07-27 06:01:20 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 6 Months  |     22 |     10 |   -118.5 | 0.45 | -0.54 |
-| Since Jan 2020 |     73 |     41 |    -45.8 | 0.56 | -0.06 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      1 |      0 |    -10   | 0    | -1    |
+| Last 6 Months  |     23 |     10 |   -128.5 | 0.43 | -0.56 |
+| Since Jan 2020 |     74 |     41 |    -55.8 | 0.55 | -0.08 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 03:10             | 2022-07-27 | galway R3              | 3 Dower House        |  1.9  |    -10   |
+| :2nd_place_medal: | 2022-07-27 | galway R3              | 3 Dower House        |  1.9  |    -10   |
 | :2nd_place_medal: | 2022-06-25 | chester R5             | 2 Brains             |  0    |    -10   |
 | :boom:            | 2022-06-24 | ballarat-synthetic R1  | 9 Water Bomber       |  0    |    -10   |
 | :2nd_place_medal: | 2022-06-02 | wyong R5               | 1 Vyner              |  0    |    -10   |
