@@ -1,11 +1,27 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-26 07:52:07 +1000  
+date: 2022-07-26 19:05:06 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                         |   runs |   wins |   profit |   sr |   roi |
+|:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      1 |      0 |      -10 |    0 |    -1 |
+| [menoe](https://mrwayneo.github.io/tips/menoe.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      2 |      0 |      -20 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      3 |      0 |      -30 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |      7 |      0 |      -70 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      8 |      0 |      -80 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     12 |      0 |     -120 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     17 |      0 |     -170 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     32 |      0 |     -320 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,24 +75,34 @@ date: 2022-07-26 07:52:07 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3515 |    476 |  -7713.2 | 0.14 | -0.22 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4650 |    162 | -21686   | 0.03 | -0.47 |
 
-|    | finish            | time                | track        |   race |   number | name               |   odds | tipster            |
-|---:|:------------------|:--------------------|:-------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | 4.0               | 2022-07-26 05:30:00 | ffos-las     |      5 |        5 | Me Next            |   8    | looseknot          |
-|  1 | :2nd_place_medal: | 2022-07-26 05:20:00 | galway       |      7 |       15 | The Twelve Pins    |   4.75 | overthrow          |
-|  2 | :boom:            | 2022-07-26 05:10:00 | windsor      |      6 |        4 | Western Writer     |   2.4  | evenodds,overthrow |
-|  3 | 5.0               | 2022-07-26 05:00:00 | ffos-las     |      4 |        7 | Fresh Fancy        |  16    | cosmo,bob          |
-|  4 | :2nd_place_medal: | 2022-07-26 04:50:00 | galway       |      6 |        6 | Common Practice    |   3.3  | vulture            |
-|  5 | --                | 2022-07-26 04:25:00 | ffos-las     |      3 |        4 | Bay Dream Believer |   6    | looseknot          |
-|  6 | :boom:            | 2022-07-26 04:25:00 | ffos-las     |      3 |        7 | Tamilla            |   1.4  | vulture            |
-|  7 | --                | 2022-07-26 03:40:00 | galway       |      4 |       20 | Farout             |   5    | overthrow          |
-|  8 | 4.0               | 2022-07-26 03:40:00 | galway       |      4 |        6 | Lot of Joy         |  10    | overthrow          |
-|  9 | :boom:            | 2022-07-26 03:40:00 | galway       |      4 |       12 | Echoes In Rain     |   4    | overthrow          |
-| 10 | :3rd_place_medal: | 2022-07-26 03:30:00 | windsor      |      3 |        4 | Manuha             |   6    | looseknot          |
-| 11 | 4.0               | 2022-07-26 03:20:00 | ffos-las     |      1 |        4 | Cloud Flyer        |   3.25 | looseknot          |
-| 12 | :2nd_place_medal: | 2022-07-26 02:30:00 | windsor      |      1 |        3 | Airshow            |   5    | vulture            |
-| 13 | 4.0               | 2022-07-26 02:10:00 | galway       |      1 |        1 | As Tears Go By     |   6    | milkman            |
-| 14 | :boom:            | 2022-07-26 01:45:00 | newton-abbot |      6 |        2 | The Galahad Kid    |   2.2  | milkman            |
-| 15 | --                | 2022-07-26 00:20:00 | ayr          |      5 |        6 | Noble Anthem       |   2.7  | milkman            |
-| 16 | 4.0               | 2022-07-25 23:45:00 | ayr          |      4 |        1 | Starshiba          |   3.9  | vulture            |
-| 17 | :2nd_place_medal: | 2022-07-25 22:50:00 | newton-abbot |      1 |        2 | Huelgoat           |   2.7  | evenodds,overthrow |
-| 18 | 4.0               | 2022-07-25 22:35:00 | ayr          |      2 |        6 | Stormy Pearl       |   3.2  | vulture            |
+|    | finish   | time                | track     |   race |   number | name               |   odds | tipster             |
+|---:|:---------|:--------------------|:----------|-------:|---------:|:-------------------|-------:|:--------------------|
+|  0 | :soon:   | 2022-07-27 06:00:00 | perth     |      7 |        1 | Into The Sunset    |   3.6  | overthrow           |
+|  1 | :soon:   | 2022-07-27 05:10:00 | worcester |      6 |        5 | Land Of My Delight |   7    | looseknot           |
+|  2 | :soon:   | 2022-07-27 05:00:00 | perth     |      5 |        2 | Keepthefaithinme   |   2.5  | vulture             |
+|  3 | :soon:   | 2022-07-27 03:50:00 | perth     |      3 |        5 | Ballyquin Bay      |   1.6  | vulture             |
+|  4 | :soon:   | 2022-07-27 03:40:00 | galway    |      4 |       18 | Cowboy Justice     |   8.5  | vulture             |
+|  5 | :soon:   | 2022-07-27 03:30:00 | worcester |      3 |        6 | Intrepide Sud      |   1.45 | vulture             |
+|  6 | :soon:   | 2022-07-27 03:00:00 | worcester |      2 |        2 | Bathiva            |   3.9  | vulture,blackshadow |
+|  7 | :soon:   | 2022-07-27 02:55:00 | goodwood  |      8 |        4 | Kidwah             |   4.2  | overthrow,milkman   |
+|  8 | :soon:   | 2022-07-27 02:48:00 | perth     |      1 |        1 | Ted Hastings       |   1.45 | vulture             |
+|  9 | :soon:   | 2022-07-27 02:40:00 | galway    |      2 |        5 | Jon Snow           |   3.4  | overthrow           |
+| 10 | :soon:   | 2022-07-27 02:20:00 | goodwood  |      7 |       13 | Breaking Light     |   3.6  | vulture             |
+| 11 | :soon:   | 2022-07-27 02:20:00 | goodwood  |      7 |        6 | Crystal Caprice    |   3    | vulture             |
+| 12 | :soon:   | 2022-07-27 02:20:00 | goodwood  |      7 |        4 | Kings Joy          |   9.5  | overthrow           |
+| 13 | :soon:   | 2022-07-27 02:10:00 | galway    |      1 |        2 | Amir Kabir         |   5    | vulture             |
+| 14 | :soon:   | 2022-07-27 02:10:00 | galway    |      1 |        3 | Tax For Max        |   2.25 | evenodds,overthrow  |
+| 15 | :soon:   | 2022-07-27 01:45:00 | goodwood  |      6 |       12 | Mischief Magic     |   3.6  | overthrow           |
+| 16 | :soon:   | 2022-07-27 00:35:00 | goodwood  |      4 |        4 | Kyprios            |   2.7  | vulture,milkman     |
+| 17 | :soon:   | 2022-07-27 00:35:00 | goodwood  |      4 |        8 | Trueshan           |   2.9  | milkman             |
+| 18 | :soon:   | 2022-07-27 00:00:00 | goodwood  |      3 |        8 | Ever Given         |  18    | milkman             |
+| 19 | :soon:   | 2022-07-27 00:00:00 | goodwood  |      3 |        3 | Laneqash           |   9.5  | evenodds,overthrow  |
+| 20 | :soon:   | 2022-07-27 00:00:00 | goodwood  |      3 |        1 | Happy Power        |  26    | benny,pangea        |
+| 21 | :soon:   | 2022-07-26 23:25:00 | goodwood  |      2 |        9 | Mysterious Night   |   5    | overthrow           |
+| 22 | :soon:   | 2022-07-26 23:25:00 | goodwood  |      2 |        4 | Dornoch Castle     |   7    | vulture,milkman     |
+| 23 | :soon:   | 2022-07-26 23:25:00 | goodwood  |      2 |        6 | Holloway Boy       |   2.88 | vulture             |
+| 24 | :soon:   | 2022-07-26 23:05:00 | vaal      |      6 |        2 | Rollwiththepunches |   2.5  | vulture             |
+| 25 | :soon:   | 2022-07-26 22:50:00 | goodwood  |      1 |        5 | Karibana           |  31    | vulture             |
+| 26 | :soon:   | 2022-07-26 22:30:00 | vaal      |      5 |        3 | Flag Bearer        |   3    | vulture             |
+| 27 | :soon:   | 2022-07-26 21:55:00 | vaal      |      4 |        8 | Bad Hair Day       |  16    | cosmo,bluey         |
+| 28 | 103.0    | 2022-07-26 14:55:00 | bathurst  |      5 |        7 | Neon Moon          |   8    | vulture             |

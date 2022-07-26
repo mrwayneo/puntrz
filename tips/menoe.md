@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-07-26 07:52:06 +1000  
+date: 2022-07-26 19:05:05 +1000  
 categories: None 
 ---   
 
@@ -13,6 +13,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
+| 03:10             | 2022-07-27 | galway R3              | 3 Dower House        |  1.9  |    -10   |
 | :2nd_place_medal: | 2022-06-25 | chester R5             | 2 Brains             |  0    |    -10   |
 | :boom:            | 2022-06-24 | ballarat-synthetic R1  | 9 Water Bomber       |  0    |    -10   |
 | :2nd_place_medal: | 2022-06-02 | wyong R5               | 1 Vyner              |  0    |    -10   |
