@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-26 21:50:43 +1000  
+date: 2022-07-26 22:05:55 +1000  
 ---   
 
 
@@ -104,5 +104,5 @@ date: 2022-07-26 21:50:43 +1000
 | 24 | :soon:   | 2022-07-26 23:05:00 | vaal      |      6 |        2 | Rollwiththepunches |   2.5  | vulture             |
 | 25 | :soon:   | 2022-07-26 22:50:00 | goodwood  |      1 |        5 | Karibana           |  31    | vulture             |
 | 26 | :soon:   | 2022-07-26 22:30:00 | vaal      |      5 |        3 | Flag Bearer        |   3    | vulture             |
-| 27 | :soon:   | 2022-07-26 21:55:00 | vaal      |      4 |        8 | Bad Hair Day       |  16    | cosmo,bluey         |
+| 27 | --       | 2022-07-26 21:55:00 | vaal      |      4 |        8 | Bad Hair Day       |  16    | cosmo,bluey         |
 | 28 | 103.0    | 2022-07-26 14:55:00 | bathurst  |      5 |        7 | Neon Moon          |   8    | vulture             |
