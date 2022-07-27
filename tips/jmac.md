@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-07-27 19:50:08 +1000  
+date: 2022-07-27 20:00:08 +1000  
 categories: None 
 ---   
 
@@ -13,9 +13,9 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 0                 | 2022-07-27 | warwick-farm R7      | 2 Lease              |  0    |    -10   |
-| 0                 | 2022-07-27 | warwick-farm R6      | 2 Sunborn            |  0    |    -10   |
-| 0                 | 2022-07-27 | warwick-farm R4      | 7 Arbitration        |  0    |    -10   |
+| 8                 | 2022-07-27 | warwick-farm R7      | 2 Lease              |  3.2  |    -10   |
+| :3rd_place_medal: | 2022-07-27 | warwick-farm R6      | 2 Sunborn            |  8    |    -10   |
+| :boom:            | 2022-07-27 | warwick-farm R4      | 7 Arbitration        |  2.8  |     18   |
 | 99                | 2022-06-17 | royal-ascot R7       | 27 Tanmawwy          |  0    |    -10   |
 | 99                | 2022-06-17 | royal-ascot R5       | 2 Mr Mccann          |  0    |    -10   |
 | :boom:            | 2022-06-16 | royal-ascot R5       | 27 Dark Shift        |  0    |    -10   |
