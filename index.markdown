@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-27 22:00:20 +1000  
+date: 2022-07-27 22:15:24 +1000  
 ---   
 
 
@@ -106,7 +106,7 @@ date: 2022-07-27 22:00:20 +1000
 | 23 | :soon:            | 2022-07-27 23:25:00 | goodwood     |      2 |        9 | Allayaali          |  17    | milkman            |
 | 24 | :soon:            | 2022-07-27 22:50:00 | goodwood     |      1 |       13 | Soulcombe          |   4.5  | vulture            |
 | 25 | :soon:            | 2022-07-27 22:50:00 | goodwood     |      1 |        1 | Secret State       |   3.25 | evenodds,milkman   |
-| 26 | :soon:            | 2022-07-27 22:05:00 | scottsville  |      4 |        5 | Black Cherry       |   4.4  | looseknot          |
+| 26 | --                | 2022-07-27 22:05:00 | scottsville  |      4 |        5 | Black Cherry       |   4.4  | looseknot          |
 | 27 | 4.0               | 2022-07-27 17:59:00 | darwin       |      6 |        1 | Obligatory         |   8    | benny,pangea       |
 | 28 | :boom:            | 2022-07-27 17:59:00 | darwin       |      6 |        3 | Autocratic         |   2.8  | evenodds,overthrow |
 | 29 | :3rd_place_medal: | 2022-07-27 17:23:00 | darwin       |      5 |        5 | Bear Forever       |   7    | evenodds,overthrow |
