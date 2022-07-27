@@ -1,20 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-07-27 22:45:12 +1000  
+date: 2022-07-28 09:06:08 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      1 |      1 |    -10   | 1    | -1    |
-| Last 6 Months  |     79 |     34 |   -138.6 | 0.43 | -0.18 |
-| Since Jan 2020 |    257 |    126 |   1352.3 | 0.49 |  0.53 |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      2 |      1 |    -20   | 0.5  | -1    |
+| Last 6 Months  |     80 |     34 |   -148.6 | 0.42 | -0.19 |
+| Since Jan 2020 |    258 |    126 |   1342.3 | 0.49 |  0.52 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 00:35             | 2022-07-28 | goodwood R4            | 1 Baaeed             |  1.14 |    -10   |
+| 0                 | 2022-07-28 | goodwood R4            | 1 Baaeed             |  0    |    -10   |
 | :boom:            | 2022-07-19 | rockhampton R1         | 1 Kick On Command    |  0    |    -10   |
 | 99                | 2022-06-17 | royal-ascot R5         | 18 King Of Time      |  0    |    -10   |
 | 99                | 2022-06-16 | royal-ascot R6         | 6 Far Shot           |  0    |    -10   |

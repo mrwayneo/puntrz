@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-07-27 22:45:12 +1000  
+date: 2022-07-28 09:06:09 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |      -10 | 0    | -1    |
-| Last 28 Days   |      1 |      0 |      -10 | 0    | -1    |
-| Last 6 Months  |     56 |      4 |      473 | 0.07 |  0.84 |
-| Since Jan 2020 |    260 |     43 |     5142 | 0.17 |  1.98 |
+| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
+| Last 28 Days   |      2 |      0 |      -20 | 0    | -1    |
+| Last 6 Months  |     57 |      4 |      463 | 0.07 |  0.81 |
+| Since Jan 2020 |    261 |     43 |     5132 | 0.16 |  1.97 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 00:25             | 2022-07-28 | scottsville R8         | 15 Quest For The Best |  10   |      -10 |
+| 0                 | 2022-07-28 | scottsville R8         | 15 Quest For The Best |   0   |      -10 |
 | 0                 | 2022-07-26 | vaal R4                | 8 Bad Hair Day        |   0   |      -10 |
 | 5                 | 2022-06-24 | ballarat-synthetic R7  | 3 The Difference      |   0   |      -10 |
 | 99                | 2022-06-16 | royal-ascot R7         | 15 Serenading         |   0   |      -10 |

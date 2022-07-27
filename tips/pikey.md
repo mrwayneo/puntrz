@@ -1,19 +1,22 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-07-27 22:45:11 +1000  
+date: 2022-07-28 09:06:08 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      7 |      1 |      -70 | 0.14 | -1    |
-| Last 6 Months  |    205 |     38 |     -744 | 0.19 | -0.36 |
-| Since Jan 2020 |   1050 |    254 |    -1868 | 0.24 | -0.18 |
+| Last 7 Days    |      5 |      0 |      -50 | 0    | -1    |
+| Last 28 Days   |     12 |      1 |     -120 | 0.08 | -1    |
+| Last 6 Months  |    210 |     38 |     -794 | 0.18 | -0.38 |
+| Since Jan 2020 |   1055 |    254 |    -1918 | 0.24 | -0.18 |
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
+| 13:35             | 2022-07-28 | wyong R3              | 3 Nosey Parker        |   3.7  |    -10   |
+| 12:20             | 2022-07-28 | wyong R1              | 7 Nullify             |   3.75 |    -10   |
 | 9                 | 2022-07-27 | warwick-farm R7       | 6 Segrill             |  13    |    -10   |
 | 7                 | 2022-07-27 | warwick-farm R6       | 7 Transplant          |   2.88 |    -10   |
 | 7                 | 2022-07-27 | warwick-farm R5       | 6 Lord Heron          |  26    |    -10   |
