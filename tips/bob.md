@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-07-27 22:15:23 +1000  
+date: 2022-07-27 22:30:22 +1000  
 categories: None 
 ---   
 
@@ -254,8 +254,8 @@ categories: None
 | 9                 | 2021-03-29 | grafton R2                    | 7 Medusa's Fury       |   9.1  |    -10   |
 | 9                 | 2021-03-27 | morphettville R3              | 8 Oath Of Omerta      |  21    |    -10   |
 | 99                | 2021-03-27 | dundalk R5                    | 2 Doolin Dancer       |  21    |    -10   |
-| 99                | 2021-03-26 | cork R7                       | 14 Paper Lantern      | 101    |    -10   |
 | 99                | 2021-03-26 | cork R7                       | 2 Optum               |  15    |    -10   |
+| 99                | 2021-03-26 | cork R7                       | 14 Paper Lantern      | 101    |    -10   |
 | 99                | 2021-03-25 | hereford R6                   | 7 Manor Park          |  34    |    -10   |
 | 99                | 2021-03-21 | thurles R3                    | 9 Pateen              |  81    |    -10   |
 | 11                | 2021-03-20 | eagle-farm R9                 | 14 Our Rebel          |  63    |    -10   |
@@ -263,8 +263,8 @@ categories: None
 | 99                | 2021-03-20 | cheltenham R7                 | 24 Martinhal          |  26    |    -10   |
 | 9                 | 2021-03-19 | moonee-valley R7              | 3 Elite Street        |  34    |    -10   |
 | 7                 | 2021-03-19 | moonee-valley R4              | 3 Drone Strike        |  34    |    -10   |
-| 99                | 2021-03-18 | cheltenham R7                 | 2 Cool Jet            |  61    |    -10   |
 | 99                | 2021-03-18 | cheltenham R7                 | 7 Ramillies           |  18    |    -10   |
+| 99                | 2021-03-18 | cheltenham R7                 | 2 Cool Jet            |  61    |    -10   |
 | 99                | 2021-03-16 | stratford R7                  | 1 American Legacy     |  23    |    -10   |
 | 99                | 2021-03-14 | navan R6                      | 5 Forza Milan         |  10    |    -10   |
 | :3rd_place_medal: | 2021-03-14 | hereford R2                   | 10 Oscar Asche        |  23    |    -10   |
