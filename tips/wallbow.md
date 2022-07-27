@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-07-27 08:04:49 +1000  
+date: 2022-07-27 19:50:03 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
+| 0                 | 2022-07-27 | warwick-farm R7     | 4 Ocean Shores     |  0    |      -10 |
 | :3rd_place_medal: | 2022-07-19 | wyong R3            | 3 Inuwashi         |  0    |      -10 |
 | 6                 | 2022-06-11 | eagle-farm R5       | 1 Tycoonist        |  0    |      -10 |
 | 4                 | 2022-05-07 | gold-coast R4       | 4 Robusto          |  0    |      -10 |
