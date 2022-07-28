@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-07-28 22:53:39 +1000  
+date: 2022-07-29 09:19:25 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
-| Last 28 Days   |      2 |      0 |    -20   | 0    | -1    |
-| Last 6 Months  |     63 |      5 |   -429   | 0.08 | -0.68 |
-| Since Jan 2020 |    277 |     43 |   2888.5 | 0.16 |  1.04 |
+| Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
+| Last 28 Days   |      4 |      0 |    -40   | 0    | -1    |
+| Last 6 Months  |     65 |      5 |   -449   | 0.08 | -0.69 |
+| Since Jan 2020 |    279 |     43 |   2868.5 | 0.15 |  1.03 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:05             | 2022-07-29 | galway R6                     | 9 Autumn Evening      |  17    |    -10   |
-| 01:10             | 2022-07-29 | goodwood R5                   | 4 Faisal Road         |  15    |    -10   |
+| 0                 | 2022-07-29 | galway R6                     | 9 Autumn Evening      |   0    |    -10   |
+| 0                 | 2022-07-29 | goodwood R5                   | 4 Faisal Road         |   0    |    -10   |
 | 99                | 2022-07-28 | galway R4                     | 10 Ronald Pump        |   0    |    -10   |
 | 5                 | 2022-07-26 | ffos-las R4                   | 7 Fresh Fancy         |  16    |    -10   |
 | 99                | 2022-06-26 | curragh R3                    | 5 Head Mistress       |   0    |    -10   |

@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-07-28 22:53:34 +1000  
+date: 2022-07-29 09:19:17 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      9 |      0 |    -90   | 0    | -1    |
-| Last 28 Days   |     24 |      5 |   -240   | 0.21 | -1    |
-| Last 6 Months  |    444 |     63 |  -2382.5 | 0.14 | -0.54 |
-| Since Jan 2020 |   1631 |    244 |  -3938.3 | 0.15 | -0.24 |
+| Last 7 Days    |     10 |      0 |   -100   | 0    | -1    |
+| Last 28 Days   |     25 |      5 |   -250   | 0.2  | -1    |
+| Last 6 Months  |    445 |     63 |  -2392.5 | 0.14 | -0.54 |
+| Since Jan 2020 |   1632 |    244 |  -3948.3 | 0.15 | -0.24 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:30             | 2022-07-29 | epsom R6                      | 4 Lelabad             |   3.7  |    -10   |
+| 0                 | 2022-07-29 | epsom R6                      | 4 Lelabad             |   0    |    -10   |
 | :3rd_place_medal: | 2022-07-28 | leicester R2                  | 2 Paddy Brunty        |   0    |    -10   |
 | :3rd_place_medal: | 2022-07-28 | galway R2                     | 21 Noble Birth        |   0    |    -10   |
 | 99                | 2022-07-27 | scottsville R4                | 5 Black Cherry        |   0    |    -10   |

@@ -1,27 +1,27 @@
 ---   
 layout: post   
 title: "Milkman"   
-date: 2022-07-28 22:53:32 +1000  
+date: 2022-07-29 09:19:15 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     23 |      6 |    -54.8 | 0.26 | -0.24 |
-| Last 28 Days   |     27 |      8 |    -94.8 | 0.3  | -0.35 |
-| Last 6 Months  |    848 |    224 |  -3076   | 0.26 | -0.36 |
-| Since Jan 2020 |   3279 |    839 |  -6565.4 | 0.26 | -0.2  |
+| Last 7 Days    |     31 |      6 |   -134.8 | 0.19 | -0.43 |
+| Last 28 Days   |     35 |      8 |   -174.8 | 0.23 | -0.5  |
+| Last 6 Months  |    856 |    224 |  -3156   | 0.26 | -0.37 |
+| Since Jan 2020 |   3287 |    839 |  -6645.4 | 0.26 | -0.2  |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 01:10             | 2022-07-29 | goodwood R5                  | 8 X J Rascal          |  11    |    -10   |
-| 01:10             | 2022-07-29 | goodwood R5                  | 4 Faisal Road         |  15    |    -10   |
-| 00:35             | 2022-07-29 | goodwood R4                  | 9 Rogue Millennium    |  20    |    -10   |
-| 00:35             | 2022-07-29 | goodwood R4                  | 8 One For Bobby       |  26    |    -10   |
-| 00:35             | 2022-07-29 | goodwood R4                  | 7 Nashwa              |   1.9  |    -10   |
-| 00:00             | 2022-07-29 | goodwood R3                  | 8 New London          |   2.5  |    -10   |
-| 00:00             | 2022-07-29 | goodwood R3                  | 6 Jack Darcy          |   9.5  |    -10   |
+| 0                 | 2022-07-29 | goodwood R5                  | 8 X J Rascal          |   0    |    -10   |
+| 0                 | 2022-07-29 | goodwood R5                  | 4 Faisal Road         |   0    |    -10   |
+| 0                 | 2022-07-29 | goodwood R4                  | 9 Rogue Millennium    |   0    |    -10   |
+| 0                 | 2022-07-29 | goodwood R4                  | 8 One For Bobby       |   0    |    -10   |
+| 0                 | 2022-07-29 | goodwood R4                  | 7 Nashwa              |   0    |    -10   |
+| 0                 | 2022-07-29 | goodwood R3                  | 8 New London          |   0    |    -10   |
+| 0                 | 2022-07-29 | goodwood R3                  | 6 Jack Darcy          |   0    |    -10   |
 | 0                 | 2022-07-28 | goodwood R1                  | 3 Migdam              |   0    |    -10   |
 | :3rd_place_medal: | 2022-07-28 | galway R3                    | 4 Purple Mountain     |   0    |    -10   |
 | :boom:            | 2022-07-28 | goodwood R6                  | 9 The Platinum Queen  |   1.9  |      9   |

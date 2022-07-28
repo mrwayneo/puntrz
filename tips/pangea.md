@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Pangea"   
-date: 2022-07-28 22:53:31 +1000  
+date: 2022-07-29 09:19:13 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     21 |      5 |    -14   | 0.24 | -0.07 |
-| Last 28 Days   |     41 |      9 |   -214   | 0.22 | -0.52 |
-| Last 6 Months  |   1330 |    274 |  -4116   | 0.21 | -0.31 |
-| Since Jan 2020 |   5166 |   1103 |  -6744.1 | 0.21 | -0.13 |
+| Last 7 Days    |     25 |      5 |    -54   | 0.2  | -0.22 |
+| Last 28 Days   |     45 |      9 |   -254   | 0.2  | -0.56 |
+| Last 6 Months  |   1334 |    274 |  -4156   | 0.21 | -0.31 |
+| Since Jan 2020 |   5170 |   1103 |  -6784.1 | 0.21 | -0.13 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 00:00             | 2022-07-29 | goodwood R3                   | 1 Deauville Legend    |  10    |    -10   |
+| 0                 | 2022-07-29 | goodwood R3                   | 1 Deauville Legend    |   0    |    -10   |
 | 0                 | 2022-07-28 | goodwood R1                   | 1 Natural World       |   0    |    -10   |
 | :2nd_place_medal: | 2022-07-28 | cairns R8                     | 3 Battle Cry          |   2.9  |    -10   |
 | :3rd_place_medal: | 2022-07-28 | cairns R3                     | 5 Ali's Jab           |   2.7  |    -10   |

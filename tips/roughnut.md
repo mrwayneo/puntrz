@@ -1,30 +1,30 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-07-28 22:53:36 +1000  
+date: 2022-07-29 09:19:21 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    107 |      7 |     -119 | 0.07 | -0.11 |
-| Last 28 Days   |    206 |      7 |    -1109 | 0.03 | -0.54 |
-| Last 6 Months  |   5716 |    199 |   -26655 | 0.03 | -0.47 |
-| Since Jan 2020 |  21741 |   1060 |   -56803 | 0.05 | -0.26 |
+| Last 7 Days    |    121 |      7 |     -259 | 0.06 | -0.21 |
+| Last 28 Days   |    220 |      7 |    -1249 | 0.03 | -0.57 |
+| Last 6 Months  |   5730 |    199 |   -26795 | 0.03 | -0.47 |
+| Since Jan 2020 |  21755 |   1060 |   -56943 | 0.05 | -0.26 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 04:00             | 2022-07-29 | epsom R3                      | 7 Sydney Mews         |   9.5  |    -10   |
-| 04:00             | 2022-07-29 | epsom R3                      | 5 Saxon Scene         |  15    |    -10   |
-| 03:10             | 2022-07-29 | galway R8                     | 2 Bowtie              |  20    |    -10   |
-| 02:05             | 2022-07-29 | galway R6                     | 9 Autumn Evening      |  17    |    -10   |
-| 02:05             | 2022-07-29 | galway R6                     | 11 The Very Man       |  41    |    -10   |
-| 02:05             | 2022-07-29 | galway R6                     | 12 Jesse Evans        |   9    |    -10   |
-| 01:30             | 2022-07-29 | galway R5                     | 10 She Is Electric    |  51    |    -10   |
-| 01:10             | 2022-07-29 | goodwood R5                   | 4 Faisal Road         |  15    |    -10   |
-| 00:00             | 2022-07-29 | goodwood R3                   | 3 Cresta              |  51    |    -10   |
-| 23:10             | 2022-07-28 | galway R1                     | 7 Oscar Academy       |  51    |    -10   |
+| 0                 | 2022-07-29 | epsom R3                      | 7 Sydney Mews         |   0    |    -10   |
+| 0                 | 2022-07-29 | epsom R3                      | 5 Saxon Scene         |   0    |    -10   |
+| 0                 | 2022-07-29 | galway R8                     | 2 Bowtie              |   0    |    -10   |
+| 0                 | 2022-07-29 | galway R6                     | 9 Autumn Evening      |   0    |    -10   |
+| 0                 | 2022-07-29 | galway R6                     | 11 The Very Man       |   0    |    -10   |
+| 0                 | 2022-07-29 | galway R6                     | 12 Jesse Evans        |   0    |    -10   |
+| 0                 | 2022-07-29 | galway R5                     | 10 She Is Electric    |   0    |    -10   |
+| 0                 | 2022-07-29 | goodwood R5                   | 4 Faisal Road         |   0    |    -10   |
+| 0                 | 2022-07-29 | goodwood R3                   | 3 Cresta              |   0    |    -10   |
+| 0                 | 2022-07-28 | galway R1                     | 7 Oscar Academy       |   0    |    -10   |
 | 0                 | 2022-07-28 | goodwood R1                   | 2 Mr Professor        |   0    |    -10   |
 | 0                 | 2022-07-28 | goodwood R1                   | 6 Blue Trail          |   0    |    -10   |
 | 8                 | 2022-07-28 | cairns R6                     | 9 She's A Sinner      | 101    |    -10   |

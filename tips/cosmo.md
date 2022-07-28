@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-07-28 22:53:33 +1000  
+date: 2022-07-29 09:19:16 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     34 |      3 |      157 | 0.09 |  0.46 |
-| Last 28 Days   |     53 |      5 |      -33 | 0.09 | -0.06 |
-| Last 6 Months  |   1620 |     98 |    -4450 | 0.06 | -0.27 |
-| Since Jan 2020 |   6177 |    365 |    -5682 | 0.06 | -0.09 |
+| Last 7 Days    |     38 |      3 |      117 | 0.08 |  0.31 |
+| Last 28 Days   |     57 |      5 |      -73 | 0.09 | -0.13 |
+| Last 6 Months  |   1624 |     98 |    -4490 | 0.06 | -0.28 |
+| Since Jan 2020 |   6181 |    365 |    -5722 | 0.06 | -0.09 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:10             | 2022-07-29 | goodwood R5                   | 4 Faisal Road         |  15    |      -10 |
-| 00:00             | 2022-07-29 | goodwood R3                   | 3 Cresta              |  51    |      -10 |
+| 0                 | 2022-07-29 | goodwood R5                   | 4 Faisal Road         |   0    |      -10 |
+| 0                 | 2022-07-29 | goodwood R3                   | 3 Cresta              |   0    |      -10 |
 | 0                 | 2022-07-28 | goodwood R1                   | 6 Blue Trail          |   0    |      -10 |
 | 0                 | 2022-07-28 | goodwood R1                   | 2 Mr Professor        |   0    |      -10 |
 | 99                | 2022-07-28 | galway R7                     | 7 Duffle Coat         |   0    |      -10 |

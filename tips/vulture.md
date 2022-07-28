@@ -1,27 +1,27 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-07-28 22:53:30 +1000  
+date: 2022-07-29 09:19:11 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     40 |     11 |   -120.7 | 0.28 | -0.3  |
-| Last 28 Days   |     70 |     18 |   -420.7 | 0.26 | -0.6  |
-| Last 6 Months  |   1893 |    486 |  -6695.8 | 0.26 | -0.35 |
-| Since Jan 2020 |   7715 |   1907 | -15187.9 | 0.25 | -0.2  |
+| Last 7 Days    |     52 |     11 |   -240.7 | 0.21 | -0.46 |
+| Last 28 Days   |     82 |     18 |   -540.7 | 0.22 | -0.66 |
+| Last 6 Months  |   1905 |    486 |  -6815.8 | 0.26 | -0.36 |
+| Since Jan 2020 |   7727 |   1907 | -15307.9 | 0.25 | -0.2  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:10             | 2022-07-29 | goodwood R5                   | 3 Far Shot            |   5.5  |    -10   |
-| 00:55             | 2022-07-29 | galway R4                     | 4 Milestone Payment   |  11    |    -10   |
-| 00:35             | 2022-07-29 | goodwood R4                   | 3 Lilac Road          |   6    |    -10   |
-| 00:00             | 2022-07-29 | goodwood R3                   | 8 New London          |   2.5  |    -10   |
-| 23:45             | 2022-07-28 | galway R2                     | 2 Ganapathi           |   3    |    -10   |
-| 23:45             | 2022-07-28 | galway R2                     | 1 Call Me Lyreen      |   5.5  |    -10   |
-| 23:25             | 2022-07-28 | goodwood R2                   | 3 Chateau             |   3.8  |    -10   |
+| 0                 | 2022-07-29 | goodwood R5                   | 3 Far Shot            |   0    |    -10   |
+| 0                 | 2022-07-29 | galway R4                     | 4 Milestone Payment   |   0    |    -10   |
+| 0                 | 2022-07-29 | goodwood R4                   | 3 Lilac Road          |   0    |    -10   |
+| 0                 | 2022-07-29 | goodwood R3                   | 8 New London          |   0    |    -10   |
+| 0                 | 2022-07-28 | galway R2                     | 2 Ganapathi           |   0    |    -10   |
+| 0                 | 2022-07-28 | galway R2                     | 1 Call Me Lyreen      |   0    |    -10   |
+| 0                 | 2022-07-28 | goodwood R2                   | 3 Chateau             |   0    |    -10   |
 | 0                 | 2022-07-28 | goodwood R1                   | 12 Vee Sight          |   0    |    -10   |
 | 0                 | 2022-07-28 | goodwood R1                   | 8 Asaassi             |   0    |    -10   |
 | 0                 | 2022-07-28 | goodwood R1                   | 4 Warren Point        |   0    |    -10   |

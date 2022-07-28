@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2022-07-28 22:53:29 +1000  
+date: 2022-07-29 09:19:11 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     12 |      4 |     42   | 0.33 |  0.35 |
-| Last 28 Days   |     18 |      6 |    -18   | 0.33 | -0.1  |
-| Last 6 Months  |    446 |    118 |  -2012.5 | 0.26 | -0.45 |
-| Since Jan 2020 |   1647 |    459 |  -4095.5 | 0.28 | -0.25 |
+| Last 7 Days    |     15 |      4 |     12   | 0.27 |  0.08 |
+| Last 28 Days   |     21 |      6 |    -48   | 0.29 | -0.23 |
+| Last 6 Months  |    449 |    118 |  -2042.5 | 0.26 | -0.45 |
+| Since Jan 2020 |   1650 |    459 |  -4125.5 | 0.28 | -0.25 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 00:00             | 2022-07-29 | goodwood R3                  | 8 New London          |   2.5  |    -10   |
-| 23:45             | 2022-07-28 | galway R2                    | 2 Ganapathi           |   3    |    -10   |
+| 0                 | 2022-07-29 | goodwood R3                  | 8 New London          |   0    |    -10   |
+| 0                 | 2022-07-28 | galway R2                    | 2 Ganapathi           |   0    |    -10   |
 | 0                 | 2022-07-28 | goodwood R1                  | 4 Warren Point        |   0    |    -10   |
 | :3rd_place_medal: | 2022-07-27 | goodwood R2                  | 16 Samahram           |   8    |    -10   |
 | :boom:            | 2022-07-27 | goodwood R1                  | 1 Secret State        |   3.9  |     29   |

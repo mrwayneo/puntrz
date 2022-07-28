@@ -1,34 +1,34 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-07-28 22:53:34 +1000  
+date: 2022-07-29 09:19:18 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     45 |      8 |      1.5 | 0.18 |  0    |
-| Last 28 Days   |    133 |     23 |   -878.5 | 0.17 | -0.66 |
-| Last 6 Months  |   4298 |    596 | -17391.8 | 0.14 | -0.4  |
-| Since Jan 2020 |  14747 |   2309 | -29472.2 | 0.16 | -0.2  |
+| Last 7 Days    |     80 |     10 |     61.5 | 0.12 |  0.08 |
+| Last 28 Days   |    168 |     25 |   -818.5 | 0.15 | -0.49 |
+| Last 6 Months  |   4333 |    598 | -17331.8 | 0.14 | -0.4  |
+| Since Jan 2020 |  14782 |   2311 | -29412.2 | 0.16 | -0.2  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 01:00             | 2022-07-29 | turffontein R8                | 18 Song Of Liberty    |   0    |    -10   |
-| 01:00             | 2022-07-29 | turffontein R8                | 9 Risky Business      |   0    |    -10   |
-| 01:00             | 2022-07-29 | turffontein R8                | 1 Linganomore         |   0    |    -10   |
-| 01:00             | 2022-07-29 | turffontein R8                | 2 Golden Aspen        |   0    |    -10   |
-| 01:00             | 2022-07-29 | turffontein R8                | 16 Baby Dont Hurt Me  |   0    |    -10   |
-| 01:00             | 2022-07-29 | turffontein R8                | 12 Gal Gadot          |   0    |    -10   |
-| 01:00             | 2022-07-29 | turffontein R8                | 15 Big City Girl      |   0    |    -10   |
-| 00:25             | 2022-07-29 | turffontein R7                | 4 Greens              |   0    |    -10   |
-| 23:50             | 2022-07-28 | turffontein R6                | 9 Twice As Splendid   |   0    |    -10   |
-| 23:50             | 2022-07-28 | turffontein R6                | 8 Eagle Alley         |   0    |    -10   |
-| 23:50             | 2022-07-28 | turffontein R6                | 3 Prince Evlanoff     |   0    |    -10   |
-| 23:50             | 2022-07-28 | turffontein R6                | 2 Leopold             |   0    |    -10   |
-| 23:15             | 2022-07-28 | turffontein R5                | 5 Dark Travel         |   0    |    -10   |
-| 23:15             | 2022-07-28 | turffontein R5                | 2 Princess Kesh       |   0    |    -10   |
+| 0                 | 2022-07-29 | turffontein R8                | 18 Song Of Liberty    |   0    |    -10   |
+| 0                 | 2022-07-29 | turffontein R8                | 9 Risky Business      |   0    |    -10   |
+| 0                 | 2022-07-29 | turffontein R8                | 1 Linganomore         |   0    |    -10   |
+| 0                 | 2022-07-29 | turffontein R8                | 2 Golden Aspen        |   0    |    -10   |
+| 0                 | 2022-07-29 | turffontein R8                | 16 Baby Dont Hurt Me  |   0    |    -10   |
+| 0                 | 2022-07-29 | turffontein R8                | 12 Gal Gadot          |   0    |    -10   |
+| 0                 | 2022-07-29 | turffontein R8                | 15 Big City Girl      |   0    |    -10   |
+| 0                 | 2022-07-29 | turffontein R7                | 4 Greens              |   0    |    -10   |
+| 0                 | 2022-07-28 | turffontein R6                | 9 Twice As Splendid   |   0    |    -10   |
+| 0                 | 2022-07-28 | turffontein R6                | 8 Eagle Alley         |   0    |    -10   |
+| 0                 | 2022-07-28 | turffontein R6                | 3 Prince Evlanoff     |   0    |    -10   |
+| 0                 | 2022-07-28 | turffontein R6                | 2 Leopold             |   0    |    -10   |
+| 0                 | 2022-07-28 | turffontein R5                | 5 Dark Travel         |   0    |    -10   |
+| 0                 | 2022-07-28 | turffontein R5                | 2 Princess Kesh       |   0    |    -10   |
 | 0                 | 2022-07-28 | turffontein R4                | 7 Alingalonga         |   0    |    -10   |
 | 4                 | 2022-07-28 | turffontein R4                | 1 Wolffs World        |   0    |    -10   |
 | 0                 | 2022-07-28 | turffontein R4                | 2 Oyster King         |   0    |    -10   |

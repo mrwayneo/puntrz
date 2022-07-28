@@ -1,26 +1,26 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-07-28 22:53:31 +1000  
+date: 2022-07-29 09:19:14 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     35 |     10 |    -76.3 | 0.29 | -0.22 |
-| Last 28 Days   |     62 |     18 |   -346.3 | 0.29 | -0.56 |
-| Last 6 Months  |   1637 |    399 |  -7059.4 | 0.24 | -0.43 |
-| Since Jan 2020 |   6087 |   1543 | -11248.2 | 0.25 | -0.18 |
+| Last 7 Days    |     44 |     10 |   -166.3 | 0.23 | -0.38 |
+| Last 28 Days   |     71 |     18 |   -436.3 | 0.25 | -0.61 |
+| Last 6 Months  |   1646 |    399 |  -7149.4 | 0.24 | -0.43 |
+| Since Jan 2020 |   6096 |   1543 | -11338.2 | 0.25 | -0.19 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 03:10             | 2022-07-29 | galway R8                    | 17 What Path          |   3.9  |    -10   |
-| 02:05             | 2022-07-29 | galway R6                    | 13 Adamantly Chosen   |   6    |    -10   |
-| 01:30             | 2022-07-29 | galway R5                    | 7 Hors Piste          |   1.6  |    -10   |
-| 00:00             | 2022-07-29 | goodwood R3                  | 8 New London          |   2.5  |    -10   |
-| 23:45             | 2022-07-28 | galway R2                    | 2 Ganapathi           |   3    |    -10   |
-| 23:10             | 2022-07-28 | galway R1                    | 3 Captain Kangaroo    |  10    |    -10   |
+| 0                 | 2022-07-29 | galway R8                    | 17 What Path          |   0    |    -10   |
+| 0                 | 2022-07-29 | galway R6                    | 13 Adamantly Chosen   |   0    |    -10   |
+| 0                 | 2022-07-29 | galway R5                    | 7 Hors Piste          |   0    |    -10   |
+| 0                 | 2022-07-29 | goodwood R3                  | 8 New London          |   0    |    -10   |
+| 0                 | 2022-07-28 | galway R2                    | 2 Ganapathi           |   0    |    -10   |
+| 0                 | 2022-07-28 | galway R1                    | 3 Captain Kangaroo    |   0    |    -10   |
 | 0                 | 2022-07-28 | goodwood R1                  | 6 Blue Trail          |   0    |    -10   |
 | 0                 | 2022-07-28 | goodwood R1                  | 4 Warren Point        |   0    |    -10   |
 | :3rd_place_medal: | 2022-07-28 | cairns R3                    | 5 Ali's Jab           |   2.7  |    -10   |
