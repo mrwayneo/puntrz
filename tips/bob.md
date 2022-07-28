@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-07-28 21:38:46 +1000  
+date: 2022-07-28 21:53:48 +1000  
 categories: None 
 ---   
 
@@ -15,9 +15,9 @@ categories: None
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:05             | 2022-07-29 | galway R6                     | 9 Autumn Evening      |  16    |    -10   |
-| 01:10             | 2022-07-29 | goodwood R5                   | 4 Faisal Road         |  12    |    -10   |
-| 0                 | 2022-07-28 | galway R4                     | 10 Ronald Pump        |   0    |    -10   |
+| 02:05             | 2022-07-29 | galway R6                     | 9 Autumn Evening      |  17    |    -10   |
+| 01:10             | 2022-07-29 | goodwood R5                   | 4 Faisal Road         |  15    |    -10   |
+| 99                | 2022-07-28 | galway R4                     | 10 Ronald Pump        |   0    |    -10   |
 | 5                 | 2022-07-26 | ffos-las R4                   | 7 Fresh Fancy         |  16    |    -10   |
 | 99                | 2022-06-26 | curragh R3                    | 5 Head Mistress       |   0    |    -10   |
 | :boom:            | 2022-06-17 | ripon R7                      | 1 Appier              |   0    |    -10   |
@@ -45,8 +45,8 @@ categories: None
 | 8                 | 2022-04-02 | bendigo R5                    | 11 Demando            |  26    |    -10   |
 | :boom:            | 2022-03-30 | sandown-hillside R3           | 3 Rebel's Choice      |  11.2  |    102   |
 | 99                | 2022-03-19 | fakenham R1                   | 7 Fae The Port        |   0    |    -10   |
-| 7                 | 2022-03-18 | moonee-valley R7              | 5 The Cunning Fox     |  23    |    -10   |
 | :2nd_place_medal: | 2022-03-18 | moonee-valley R7              | 8 Can't Go Wong       |  29    |    -10   |
+| 7                 | 2022-03-18 | moonee-valley R7              | 5 The Cunning Fox     |  23    |    -10   |
 | 11                | 2022-03-18 | townsville R8                 | 3 Supreme Prince      |  31    |    -10   |
 | 5                 | 2022-03-12 | ascot R5                      | 9 Outspoken Lad       |  16    |    -10   |
 | 5                 | 2022-03-05 | newcastle R1                  | 1 Read My Future      |  13    |    -10   |
@@ -69,9 +69,9 @@ categories: None
 | 9                 | 2022-01-20 | warrnambool R7                | 8 Prince Of Eagles    |  19    |    -10   |
 | 5                 | 2022-01-20 | plumpton R3                   | 7 Tzar De L'Elfe      |  21    |    -10   |
 | 99                | 2022-01-15 | fairyhouse R1                 | 9 Longacre Square     |   0    |    -10   |
+| :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
 | 9                 | 2022-01-15 | flemington R4                 | 6 Think Bold          |  20    |    -10   |
 | 13                | 2022-01-15 | flemington R4                 | 10 Tuki Twelve        |  41    |    -10   |
-| :boom:            | 2022-01-15 | flemington R4                 | 9 The Cunning Fox     |   8.9  |     79   |
 | 99                | 2022-01-11 | taunton R3                    | 14 Drag Race          |   0    |    -10   |
 | 4                 | 2022-01-10 | fairyhouse R2                 | 6 Crossgales Ophelia  |   0    |    -10   |
 | 7                 | 2022-01-09 | port-lincoln R5               | 8 Hand to Hand        |  29    |    -10   |
@@ -88,8 +88,8 @@ categories: None
 | :boom:            | 2021-12-21 | wolverhampton R1              | 6 Ruby Red Empress    |   0    |    -10   |
 | 99                | 2021-12-17 | uttoxeter R3                  | 6 Glebe Road          |   0    |    -10   |
 | 5                 | 2021-12-15 | sandown-hillside R4           | 2 Covert              |  12    |    -10   |
-| 99                | 2021-12-12 | fairyhouse R6                 | 15 Merry Moves        |   0    |    -10   |
 | 99                | 2021-12-12 | fairyhouse R6                 | 3 Bearwithmenow       |   0    |    -10   |
+| 99                | 2021-12-12 | fairyhouse R6                 | 15 Merry Moves        |   0    |    -10   |
 | 99                | 2021-12-11 | cheltenham R4                 | 9 Oriental Cross      |   0    |    -10   |
 | :2nd_place_medal: | 2021-12-08 | fontwell R5                   | 11 Marsh Wren         |  17    |    -10   |
 | 99                | 2021-12-06 | huntingdon R6                 | 8 Precious            |   0    |    -10   |
