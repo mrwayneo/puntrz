@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-28 15:35:05 +1000  
+date: 2022-07-28 15:50:16 +1000  
 ---   
 
 
@@ -101,7 +101,7 @@ date: 2022-07-28 15:35:05 +1000
 | 22 | :soon:            | 2022-07-28 22:50:00 | goodwood |      1 |       12 | Vee Sight         |   4.33 | vulture            |
 | 23 | :soon:            | 2022-07-28 22:50:00 | goodwood |      1 |        1 | Natural World     |  16    | pangea             |
 | 24 | :soon:            | 2022-07-28 16:12:00 | cairns   |      8 |        3 | Battle Cry        |   2.9  | pangea             |
-| 25 | --                | 2022-07-28 15:10:00 | bathurst |      5 |        7 | Neon Moon         |   8.5  | vulture            |
+| 25 | 5.0               | 2022-07-28 15:10:00 | bathurst |      5 |        7 | Neon Moon         |   8.5  | vulture            |
 | 26 | 4.0               | 2022-07-28 13:35:00 | wyong    |      3 |        3 | Nosey Parker      |   3.7  | pikey              |
 | 27 | :3rd_place_medal: | 2022-07-28 13:04:00 | cairns   |      3 |        5 | Ali's Jab         |   4.4  | pangea,blackshadow |
 | 28 | --                | 2022-07-28 13:04:00 | cairns   |      3 |        9 | Unique Bambino    |   5    | pangea             |
