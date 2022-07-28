@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-28 22:38:49 +1000  
+date: 2022-07-28 22:53:40 +1000  
 ---   
 
 
@@ -9,6 +9,7 @@ date: 2022-07-28 22:38:49 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      2 |       60 | 0.06 |  0.17 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |      2 |      0 |      -20 | 0    | -1    |
@@ -20,7 +21,6 @@ date: 2022-07-28 22:38:49 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      9 |      0 |      -90 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     12 |      0 |     -120 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     14 |      0 |     -140 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     35 |      1 |     -200 | 0.03 | -0.57 |
 
 ##### Form Last 20 tips   
 
@@ -95,11 +95,11 @@ date: 2022-07-28 22:38:49 +1000
 | 16 | :soon:            | 2022-07-28 23:45:00 | galway   |      2 |        2 | Ganapathi         |   3    | evenodds,overthrow |
 | 17 | :soon:            | 2022-07-28 23:25:00 | goodwood |      2 |        3 | Chateau           |   3.8  | vulture            |
 | 18 | :soon:            | 2022-07-28 23:10:00 | galway   |      1 |        3 | Captain Kangaroo  |  10    | overthrow          |
-| 19 | :soon:            | 2022-07-28 22:50:00 | goodwood |      1 |        4 | Warren Point      |   5    | evenodds,overthrow |
-| 20 | :soon:            | 2022-07-28 22:50:00 | goodwood |      1 |        3 | Migdam            |   4    | vulture,milkman    |
-| 21 | :soon:            | 2022-07-28 22:50:00 | goodwood |      1 |        8 | Asaassi           |   7.5  | vulture            |
-| 22 | :soon:            | 2022-07-28 22:50:00 | goodwood |      1 |       12 | Vee Sight         |   4.33 | vulture            |
-| 23 | :soon:            | 2022-07-28 22:50:00 | goodwood |      1 |        1 | Natural World     |  13    | pangea             |
+| 19 | --                | 2022-07-28 22:50:00 | goodwood |      1 |        4 | Warren Point      |   5    | evenodds,overthrow |
+| 20 | --                | 2022-07-28 22:50:00 | goodwood |      1 |        3 | Migdam            |   4    | vulture,milkman    |
+| 21 | --                | 2022-07-28 22:50:00 | goodwood |      1 |        8 | Asaassi           |   7.5  | vulture            |
+| 22 | --                | 2022-07-28 22:50:00 | goodwood |      1 |       12 | Vee Sight         |   4.33 | vulture            |
+| 23 | --                | 2022-07-28 22:50:00 | goodwood |      1 |        1 | Natural World     |  13    | pangea             |
 | 24 | :2nd_place_medal: | 2022-07-28 16:12:00 | cairns   |      8 |        3 | Battle Cry        |   2.9  | pangea             |
 | 25 | 5.0               | 2022-07-28 15:10:00 | bathurst |      5 |        7 | Neon Moon         |   8.5  | vulture            |
 | 26 | 4.0               | 2022-07-28 13:35:00 | wyong    |      3 |        3 | Nosey Parker      |   3.7  | pikey              |
