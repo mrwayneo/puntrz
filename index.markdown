@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-28 09:35:41 +1000  
+date: 2022-07-28 10:07:25 +1000  
 ---   
 
 
@@ -106,4 +106,4 @@ date: 2022-07-28 09:35:41 +1000
 | 27 | :soon:   | 2022-07-28 13:04:00 | cairns   |      3 |        5 | Ali's Jab         |   4.4  | pangea,blackshadow |
 | 28 | :soon:   | 2022-07-28 13:04:00 | cairns   |      3 |        9 | Unique Bambino    |   5    | pangea             |
 | 29 | :soon:   | 2022-07-28 12:20:00 | wyong    |      1 |        7 | Nullify           |   3.75 | pikey              |
-| 30 | :soon:   | 2022-07-28 10:05:00 | waverley |      1 |        9 | Quota             |   6    | looseknot          |
+| 30 | --       | 2022-07-28 10:05:00 | waverley |      1 |        9 | Quota             |   6    | looseknot          |
