@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-28 12:05:00 +1000  
+date: 2022-07-28 12:20:07 +1000  
 ---   
 
 
@@ -74,36 +74,36 @@ date: 2022-07-28 12:05:00 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3449 |    466 |  -7541.7 | 0.14 | -0.22 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4610 |    162 | -21071   | 0.04 | -0.46 |
 
-|    | finish   | time                | track    |   race |   number | name              |   odds | tipster            |
-|---:|:---------|:--------------------|:---------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-07-29 05:30:00 | epsom    |      6 |        4 | Lelabad           |   0    | looseknot          |
-|  1 | :soon:   | 2022-07-29 03:10:00 | galway   |      8 |       17 | What Path         |   3.9  | overthrow          |
-|  2 | :soon:   | 2022-07-29 02:05:00 | galway   |      6 |       13 | Adamantly Chosen  |   6    | overthrow          |
-|  3 | :soon:   | 2022-07-29 01:30:00 | galway   |      5 |        7 | Hors Piste        |   1.83 | overthrow          |
-|  4 | :soon:   | 2022-07-29 01:10:00 | goodwood |      5 |        4 | Faisal Road       |  12    | milkman,bob        |
-|  5 | :soon:   | 2022-07-29 01:10:00 | goodwood |      5 |        3 | Far Shot          |   5.5  | vulture            |
-|  6 | :soon:   | 2022-07-29 01:10:00 | goodwood |      5 |        8 | X J Rascal        |  11    | milkman            |
-|  7 | :soon:   | 2022-07-29 00:55:00 | galway   |      4 |        4 | Milestone Payment |  16    | vulture            |
-|  8 | :soon:   | 2022-07-29 00:35:00 | goodwood |      4 |        7 | Nashwa            |   1.9  | milkman            |
-|  9 | :soon:   | 2022-07-29 00:35:00 | goodwood |      4 |        8 | One For Bobby     |  26    | milkman            |
-| 10 | :soon:   | 2022-07-29 00:35:00 | goodwood |      4 |        9 | Rogue Millennium  |  20    | milkman            |
-| 11 | :soon:   | 2022-07-29 00:35:00 | goodwood |      4 |        3 | Lilac Road        |   6    | vulture            |
-| 12 | :soon:   | 2022-07-29 00:00:00 | goodwood |      3 |        6 | Jack Darcy        |  11    | milkman            |
-| 13 | :soon:   | 2022-07-29 00:00:00 | goodwood |      3 |        1 | Deauville Legend  |   9    | pangea             |
-| 14 | :soon:   | 2022-07-29 00:00:00 | goodwood |      3 |        8 | New London        |   2.8  | evenodds,milkman   |
-| 15 | :soon:   | 2022-07-28 23:45:00 | galway   |      2 |        1 | Call Me Lyreen    |   4.8  | vulture            |
-| 16 | :soon:   | 2022-07-28 23:45:00 | galway   |      2 |        2 | Ganapathi         |   2.8  | evenodds,overthrow |
-| 17 | :soon:   | 2022-07-28 23:25:00 | goodwood |      2 |        3 | Chateau           |   3.8  | vulture            |
-| 18 | :soon:   | 2022-07-28 23:10:00 | galway   |      1 |        3 | Captain Kangaroo  |   9    | overthrow          |
-| 19 | :soon:   | 2022-07-28 22:50:00 | goodwood |      1 |        4 | Warren Point      |   6.5  | evenodds,overthrow |
-| 20 | :soon:   | 2022-07-28 22:50:00 | goodwood |      1 |        3 | Migdam            |   4.2  | vulture,milkman    |
-| 21 | :soon:   | 2022-07-28 22:50:00 | goodwood |      1 |        8 | Asaassi           |   6.5  | vulture            |
-| 22 | :soon:   | 2022-07-28 22:50:00 | goodwood |      1 |       12 | Vee Sight         |   4.33 | vulture            |
-| 23 | :soon:   | 2022-07-28 22:50:00 | goodwood |      1 |        1 | Natural World     |  16    | pangea             |
-| 24 | :soon:   | 2022-07-28 16:12:00 | cairns   |      8 |        3 | Battle Cry        |   2.9  | pangea             |
-| 25 | :soon:   | 2022-07-28 15:10:00 | bathurst |      5 |        7 | Neon Moon         |   8.5  | vulture            |
-| 26 | :soon:   | 2022-07-28 13:35:00 | wyong    |      3 |        3 | Nosey Parker      |   3.7  | pikey              |
-| 27 | :soon:   | 2022-07-28 13:04:00 | cairns   |      3 |        5 | Ali's Jab         |   4.4  | pangea,blackshadow |
-| 28 | :soon:   | 2022-07-28 13:04:00 | cairns   |      3 |        9 | Unique Bambino    |   5    | pangea             |
-| 29 | :soon:   | 2022-07-28 12:20:00 | wyong    |      1 |        7 | Nullify           |   3.75 | pikey              |
-| 30 | --       | 2022-07-28 10:05:00 | waverley |      1 |        9 | Quota             |   6    | looseknot          |
+|    | finish                   | time                | track    |   race |   number | name              |   odds | tipster            |
+|---:|:-------------------------|:--------------------|:---------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:                   | 2022-07-29 05:30:00 | epsom    |      6 |        4 | Lelabad           |   0    | looseknot          |
+|  1 | :soon:                   | 2022-07-29 03:10:00 | galway   |      8 |       17 | What Path         |   3.9  | overthrow          |
+|  2 | :soon:                   | 2022-07-29 02:05:00 | galway   |      6 |       13 | Adamantly Chosen  |   6    | overthrow          |
+|  3 | :soon:                   | 2022-07-29 01:30:00 | galway   |      5 |        7 | Hors Piste        |   1.83 | overthrow          |
+|  4 | :soon:                   | 2022-07-29 01:10:00 | goodwood |      5 |        4 | Faisal Road       |  12    | milkman,bob        |
+|  5 | :soon:                   | 2022-07-29 01:10:00 | goodwood |      5 |        3 | Far Shot          |   5.5  | vulture            |
+|  6 | :soon:                   | 2022-07-29 01:10:00 | goodwood |      5 |        8 | X J Rascal        |  11    | milkman            |
+|  7 | :soon:                   | 2022-07-29 00:55:00 | galway   |      4 |        4 | Milestone Payment |  16    | vulture            |
+|  8 | :soon:                   | 2022-07-29 00:35:00 | goodwood |      4 |        7 | Nashwa            |   1.9  | milkman            |
+|  9 | :soon:                   | 2022-07-29 00:35:00 | goodwood |      4 |        8 | One For Bobby     |  26    | milkman            |
+| 10 | :soon:                   | 2022-07-29 00:35:00 | goodwood |      4 |        9 | Rogue Millennium  |  20    | milkman            |
+| 11 | :soon:                   | 2022-07-29 00:35:00 | goodwood |      4 |        3 | Lilac Road        |   6    | vulture            |
+| 12 | :soon:                   | 2022-07-29 00:00:00 | goodwood |      3 |        6 | Jack Darcy        |  11    | milkman            |
+| 13 | :soon:                   | 2022-07-29 00:00:00 | goodwood |      3 |        1 | Deauville Legend  |   9    | pangea             |
+| 14 | :soon:                   | 2022-07-29 00:00:00 | goodwood |      3 |        8 | New London        |   2.8  | evenodds,milkman   |
+| 15 | :soon:                   | 2022-07-28 23:45:00 | galway   |      2 |        1 | Call Me Lyreen    |   4.8  | vulture            |
+| 16 | :soon:                   | 2022-07-28 23:45:00 | galway   |      2 |        2 | Ganapathi         |   2.8  | evenodds,overthrow |
+| 17 | :soon:                   | 2022-07-28 23:25:00 | goodwood |      2 |        3 | Chateau           |   3.8  | vulture            |
+| 18 | :soon:                   | 2022-07-28 23:10:00 | galway   |      1 |        3 | Captain Kangaroo  |   9    | overthrow          |
+| 19 | :soon:                   | 2022-07-28 22:50:00 | goodwood |      1 |        4 | Warren Point      |   6.5  | evenodds,overthrow |
+| 20 | :soon:                   | 2022-07-28 22:50:00 | goodwood |      1 |        3 | Migdam            |   4.2  | vulture,milkman    |
+| 21 | :soon:                   | 2022-07-28 22:50:00 | goodwood |      1 |        8 | Asaassi           |   6.5  | vulture            |
+| 22 | :soon:                   | 2022-07-28 22:50:00 | goodwood |      1 |       12 | Vee Sight         |   4.33 | vulture            |
+| 23 | :soon:                   | 2022-07-28 22:50:00 | goodwood |      1 |        1 | Natural World     |  16    | pangea             |
+| 24 | :soon:                   | 2022-07-28 16:12:00 | cairns   |      8 |        3 | Battle Cry        |   2.9  | pangea             |
+| 25 | :soon:                   | 2022-07-28 15:10:00 | bathurst |      5 |        7 | Neon Moon         |   8.5  | vulture            |
+| 26 | :soon:                   | 2022-07-28 13:35:00 | wyong    |      3 |        3 | Nosey Parker      |   3.7  | pikey              |
+| 27 | :soon:                   | 2022-07-28 13:04:00 | cairns   |      3 |        5 | Ali's Jab         |   4.4  | pangea,blackshadow |
+| 28 | :soon:                   | 2022-07-28 13:04:00 | cairns   |      3 |        9 | Unique Bambino    |   5    | pangea             |
+| 29 | :hourglass_flowing_sand: | 2022-07-28 12:20:00 | wyong    |      1 |        7 | Nullify           |   3.75 | pikey              |
+| 30 | --                       | 2022-07-28 10:05:00 | waverley |      1 |        9 | Quota             |   6    | looseknot          |
