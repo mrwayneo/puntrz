@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-07-28 12:20:05 +1000  
+date: 2022-07-28 12:35:05 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 13:35             | 2022-07-28 | wyong R3              | 3 Nosey Parker        |   3.7  |    -10   |
-| 0                 | 2022-07-28 | wyong R1              | 7 Nullify             |   0    |    -10   |
+| :2nd_place_medal: | 2022-07-28 | wyong R1              | 7 Nullify             |   3.75 |    -10   |
 | 9                 | 2022-07-27 | warwick-farm R7       | 6 Segrill             |  13    |    -10   |
 | 7                 | 2022-07-27 | warwick-farm R6       | 7 Transplant          |   2.88 |    -10   |
 | 7                 | 2022-07-27 | warwick-farm R5       | 6 Lord Heron          |  26    |    -10   |
