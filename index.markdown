@@ -1,11 +1,29 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-30 07:54:58 +1000  
+date: 2022-07-30 08:02:02 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 |    0 |    -1 |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 |    0 |    -1 |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      1 |      0 |      -10 |    0 |    -1 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 |    0 |    -1 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |      2 |      0 |      -20 |    0 |    -1 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      3 |      0 |      -30 |    0 |    -1 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      3 |      0 |      -30 |    0 |    -1 |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      4 |      0 |      -40 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      8 |      0 |      -80 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     11 |      0 |     -110 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     12 |      0 |     -120 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     12 |      0 |     -120 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     45 |      0 |     -450 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
@@ -59,44 +77,34 @@ date: 2022-07-30 07:54:58 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3432 |    466 |  -6583.7 | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4537 |    164 | -20091   | 0.04 | -0.44 |
 
-|    | finish            | time                | track         |   race |   number | name              |   odds | tipster            |
-|---:|:------------------|:--------------------|:--------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | --                | 2022-07-30 05:40:00 | galway        |      8 |        1 | Indigo Desert     |   0    | milkman            |
-|  1 | --                | 2022-07-30 03:55:00 | newmarket     |      4 |        4 | Gold Charm        |   6.5  | looseknot          |
-|  2 | 4.0               | 2022-07-30 03:35:00 | galway        |      4 |        1 | Laelaps           |  13    | vulture            |
-|  3 | --                | 2022-07-30 03:35:00 | galway        |      4 |        6 | Shark Bay         |   6    | vulture            |
-|  4 | --                | 2022-07-30 03:30:00 | southwell     |      4 |        8 | Babe Alicious     |  11    | vulture            |
-|  5 | :3rd_place_medal: | 2022-07-30 03:00:00 | galway        |      3 |        4 | Fan De Blues      |  12    | overthrow          |
-|  6 | :boom:            | 2022-07-30 02:30:00 | galway        |      2 |        2 | Roman Hands       |   4.5  | vulture            |
-|  7 | --                | 2022-07-30 02:27:00 | bangor        |      8 |       14 | George Mallory    |   6    | looseknot          |
-|  8 | :3rd_place_medal: | 2022-07-30 02:27:00 | bangor        |      8 |        4 | Copper Fox        |  13    | overthrow          |
-|  9 | --                | 2022-07-30 02:20:00 | goodwood      |      7 |        7 | Night Of Luxury   |   9    | vulture            |
-| 10 | :2nd_place_medal: | 2022-07-30 02:10:00 | newmarket     |      1 |        1 | Mill Stream       |   3.75 | milkman            |
-| 11 | 4.0               | 2022-07-30 02:00:00 | galway        |      1 |       11 | Ebasari           |   7.5  | vulture            |
-| 12 | :3rd_place_medal: | 2022-07-30 01:55:00 | bangor        |      7 |        3 | Steady The Ship   |   4.5  | vulture            |
-| 13 | :boom:            | 2022-07-30 01:55:00 | bangor        |      7 |        5 | Shareef Star      |   3.7  | vulture            |
-| 14 | --                | 2022-07-30 01:50:00 | southwell     |      1 |        5 | Epic Express      |  17    | cosmo,bluey        |
-| 15 | :boom:            | 2022-07-30 01:20:00 | bangor        |      6 |        2 | Geromino          |   2.3  | overthrow          |
-| 16 | --                | 2022-07-30 01:10:00 | goodwood      |      5 |        9 | Regal Reality     |   6.5  | vulture            |
-| 17 | :2nd_place_medal: | 2022-07-30 01:10:00 | goodwood      |      5 |        7 | Kemari            |  12    | evenodds,overthrow |
-| 18 | --                | 2022-07-30 01:10:00 | goodwood      |      5 |        6 | John Leeper       |  12    | vulture            |
-| 19 | :boom:            | 2022-07-30 01:10:00 | goodwood      |      5 |        8 | Rebel's Romance   |   2    | evenodds,overthrow |
-| 20 | 4.0               | 2022-07-30 00:45:00 | bangor        |      5 |        6 | Mr Mafia          |   9    | pangea             |
-| 21 | 4.0               | 2022-07-30 00:35:00 | goodwood      |      4 |        1 | Lazuli            |   7    | overthrow          |
-| 22 | --                | 2022-07-30 00:35:00 | goodwood      |      4 |        7 | Ponntos           |  13    | overthrow          |
-| 23 | :3rd_place_medal: | 2022-07-30 00:20:00 | wolverhampton |      5 |        5 | Tathbeet          |   2.3  | vulture            |
-| 24 | :boom:            | 2022-07-30 00:10:00 | bangor        |      4 |        7 | Finisk River      |   4.5  | overthrow          |
-| 25 | --                | 2022-07-30 00:10:00 | bangor        |      4 |        1 | Chasamax          |   6.5  | overthrow          |
-| 26 | 14.0              | 2022-07-30 00:00:00 | goodwood      |      3 |        6 | Saleymm           |  13    | pangea             |
-| 27 | --                | 2022-07-30 00:00:00 | goodwood      |      3 |       11 | Noble Dynasty     |   3.4  | evenodds,overthrow |
-| 28 | --                | 2022-07-29 23:35:00 | bangor        |      3 |       11 | My Little Toni    |   7    | overthrow          |
-| 29 | --                | 2022-07-29 23:25:00 | goodwood      |      2 |        4 | Hotline Bling     |  51    | evenodds,overthrow |
-| 30 | 4.0               | 2022-07-29 23:25:00 | goodwood      |      2 |        1 | Bayside Boy       |   3.6  | overthrow          |
-| 31 | --                | 2022-07-29 23:25:00 | goodwood      |      2 |        3 | Checkandchallenge |   2.45 | milkman            |
-| 32 | 9.0               | 2022-07-29 22:50:00 | goodwood      |      1 |       11 | Sea Appeal        |  13    | vulture            |
-| 33 | :boom:            | 2022-07-29 22:35:00 | wolverhampton |      2 |        3 | Bold Territories  |   3.4  | looseknot          |
-| 34 | --                | 2022-07-29 22:20:00 | fairview      |      6 |        3 | Sing Girl Sing    |   0    | vulture            |
-| 35 | --                | 2022-07-29 19:30:00 | fairview      |      1 |        1 | Absolute Pleasure |   0    | vulture            |
-| 36 | 5.0               | 2022-07-29 14:14:00 | lismore       |      4 |       11 | Kiss Hello        |   6    | vulture            |
-| 37 | :2nd_place_medal: | 2022-07-29 13:46:00 | ipswich       |      4 |        6 | Mr Brose          |  11    | overthrow          |
-| 38 | :boom:            | 2022-07-29 12:15:00 | goulburn      |      1 |        8 | Seany's Girl      |   3.3  | looseknot          |
+|    | finish   | time                | track            |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-07-31 02:55:00 | galway           |      8 |        3 | Carrigmoorna Queen |   1.45 | overthrow          |
+|  1 | :soon:   | 2022-07-31 02:20:00 | galway           |      7 |       15 | Indigo Desert      |   7    | milkman            |
+|  2 | :soon:   | 2022-07-31 01:45:00 | galway           |      6 |        5 | My Minervina       |   6    | vulture            |
+|  3 | :soon:   | 2022-07-31 00:40:00 | galway           |      4 |        8 | Olympicus          |   5.5  | looseknot          |
+|  4 | :soon:   | 2022-07-30 23:30:00 | galway           |      2 |        7 | Boothill           |   7    | overthrow          |
+|  5 | :soon:   | 2022-07-30 23:30:00 | galway           |      2 |       14 | La Prima Donna     |   5.5  | overthrow          |
+|  6 | :soon:   | 2022-07-30 23:00:00 | galway           |      1 |        6 | Gamin Original     |   2.88 | overthrow          |
+|  7 | :soon:   | 2022-07-30 16:46:00 | darwin           |      6 |        1 | Manly Cove         |   2.05 | benny,overthrow    |
+|  8 | :soon:   | 2022-07-30 16:35:00 | kembla-grange    |      8 |        4 | Pole Position      |   3.8  | vulture            |
+|  9 | :soon:   | 2022-07-30 16:10:00 | rosehill-gardens |      9 |        5 | Animate            |  21    | cosmo,pikey        |
+| 10 | :soon:   | 2022-07-30 16:10:00 | rosehill-gardens |      9 |        3 | Enchanted Heart    |   6    | jmac               |
+| 11 | :soon:   | 2022-07-30 16:06:00 | darwin           |      5 |        4 | Pop Magic          |   8.5  | pangea,overthrow   |
+| 12 | :soon:   | 2022-07-30 15:30:00 | rosehill-gardens |      8 |       10 | Durston            |  10    | pikey              |
+| 13 | :soon:   | 2022-07-30 15:26:00 | darwin           |      4 |        2 | Umfana             |   2.45 | vulture            |
+| 14 | :soon:   | 2022-07-30 14:50:00 | rosehill-gardens |      7 |        1 | Wicklow            |   2.7  | pangea,wallbow     |
+| 15 | :soon:   | 2022-07-30 14:50:00 | rosehill-gardens |      7 |       11 | Karlstad           |  14    | pangea             |
+| 16 | :soon:   | 2022-07-30 14:50:00 | rosehill-gardens |      7 |        9 | Kirkeby            |   6.5  | vulture,jmac       |
+| 17 | :soon:   | 2022-07-30 14:50:00 | rosehill-gardens |      7 |        6 | Pandano            |  26    | pikey              |
+| 18 | :soon:   | 2022-07-30 14:04:00 | te-rapa          |     10 |        7 | Dawn Parade        |   7.5  | pangea             |
+| 19 | :soon:   | 2022-07-30 13:36:00 | darwin           |      1 |        5 | Siakam             |   4.6  | pangea,overthrow   |
+| 20 | :soon:   | 2022-07-30 13:36:00 | darwin           |      1 |        3 | Pembroke Castle    |   6.5  | pangea             |
+| 21 | :soon:   | 2022-07-30 13:13:00 | eagle-farm       |      4 |        1 | Honorable Spirit   |   5.5  | benny,pangea       |
+| 22 | :soon:   | 2022-07-30 13:05:00 | rosehill-gardens |      4 |        5 | Yggdrasil          |   6    | pikey              |
+| 23 | :soon:   | 2022-07-30 13:05:00 | rosehill-gardens |      4 |        1 | Lovely Esteem      |   4.75 | jmac               |
+| 24 | :soon:   | 2022-07-30 13:05:00 | rosehill-gardens |      4 |        2 | Narrated           |   3.9  | pangea,overthrow   |
+| 25 | :soon:   | 2022-07-30 12:38:00 | eagle-farm       |      3 |        4 | Billionair Baby    |   2.88 | vulture            |
+| 26 | :soon:   | 2022-07-30 12:38:00 | eagle-farm       |      3 |        2 | Recommendation     |   2.75 | evenodds,lago      |
+| 27 | :soon:   | 2022-07-30 11:45:00 | te-rapa          |      6 |        7 | Sophmaze           |   3.5  | pangea             |
+| 28 | :soon:   | 2022-07-30 11:10:00 | te-rapa          |      5 |        4 | Raucous            |   1.95 | evenodds,overthrow |
