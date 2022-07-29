@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-29 22:21:51 +1000  
+date: 2022-07-29 22:36:59 +1000  
 ---   
 
 
@@ -107,7 +107,7 @@ date: 2022-07-29 22:21:51 +1000
 | 30 | :soon:            | 2022-07-29 23:25:00 | goodwood      |      2 |        1 | Bayside Boy       |   3.6  | overthrow          |
 | 31 | :soon:            | 2022-07-29 23:25:00 | goodwood      |      2 |        3 | Checkandchallenge |   2.45 | milkman            |
 | 32 | :soon:            | 2022-07-29 22:50:00 | goodwood      |      1 |       11 | Sea Appeal        |  13    | vulture            |
-| 33 | :soon:            | 2022-07-29 22:35:00 | wolverhampton |      2 |        3 | Bold Territories  |   3.4  | looseknot          |
+| 33 | --                | 2022-07-29 22:35:00 | wolverhampton |      2 |        3 | Bold Territories  |   3.4  | looseknot          |
 | 34 | --                | 2022-07-29 22:20:00 | fairview      |      6 |        3 | Sing Girl Sing    |   0    | vulture            |
 | 35 | --                | 2022-07-29 19:30:00 | fairview      |      1 |        1 | Absolute Pleasure |   0    | vulture            |
 | 36 | 5.0               | 2022-07-29 14:14:00 | lismore       |      4 |       11 | Kiss Hello        |   6    | vulture            |
