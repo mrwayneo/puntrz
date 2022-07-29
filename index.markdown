@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-29 14:06:41 +1000  
+date: 2022-07-29 14:21:39 +1000  
 ---   
 
 
@@ -26,7 +26,6 @@ date: 2022-07-29 14:06:41 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    510   | 0.05 |  2.55 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    333   | 1    |  1.66 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |     60   | 0.05 |  0.3  |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      3 |      5.5 | 0.15 |  0.03 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |     -0.5 | 0.25 | -0    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      5 |     -4   | 0.25 | -0.02 |
@@ -44,6 +43,7 @@ date: 2022-07-29 14:06:41 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      2 |   -119   | 0.1  | -0.6  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -135   | 0.1  | -0.68 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      1 |   -145   | 0.05 | -0.72 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
@@ -110,6 +110,6 @@ date: 2022-07-29 14:06:41 +1000
 | 33 | :soon:            | 2022-07-29 22:35:00 | wolverhampton |      2 |        3 | Bold Territories  |   3.4  | looseknot          |
 | 34 | :soon:            | 2022-07-29 22:20:00 | fairview      |      6 |        3 | Sing Girl Sing    |   0    | vulture            |
 | 35 | :soon:            | 2022-07-29 19:30:00 | fairview      |      1 |        1 | Absolute Pleasure |   0    | vulture            |
-| 36 | :soon:            | 2022-07-29 14:14:00 | lismore       |      4 |       11 | Kiss Hello        |   6    | vulture            |
+| 36 | --                | 2022-07-29 14:14:00 | lismore       |      4 |       11 | Kiss Hello        |   6    | vulture            |
 | 37 | :2nd_place_medal: | 2022-07-29 13:46:00 | ipswich       |      4 |        6 | Mr Brose          |  11    | overthrow          |
 | 38 | :boom:            | 2022-07-29 12:15:00 | goulburn      |      1 |        8 | Seany's Girl      |   3.3  | looseknot          |
