@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-29 13:36:26 +1000  
+date: 2022-07-29 13:51:36 +1000  
 ---   
 
 
@@ -111,5 +111,5 @@ date: 2022-07-29 13:36:26 +1000
 | 34 | :soon:   | 2022-07-29 22:20:00 | fairview      |      6 |        3 | Sing Girl Sing    |   0    | vulture            |
 | 35 | :soon:   | 2022-07-29 19:30:00 | fairview      |      1 |        1 | Absolute Pleasure |   0    | vulture            |
 | 36 | :soon:   | 2022-07-29 14:14:00 | lismore       |      4 |       11 | Kiss Hello        |   6    | vulture            |
-| 37 | :soon:   | 2022-07-29 13:46:00 | ipswich       |      4 |        6 | Mr Brose          |  11    | overthrow          |
+| 37 | --       | 2022-07-29 13:46:00 | ipswich       |      4 |        6 | Mr Brose          |  11    | overthrow          |
 | 38 | :boom:   | 2022-07-29 12:15:00 | goulburn      |      1 |        8 | Seany's Girl      |   3.3  | looseknot          |
