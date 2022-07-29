@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-29 22:36:59 +1000  
+date: 2022-07-29 22:52:00 +1000  
 ---   
 
 
@@ -10,7 +10,7 @@ date: 2022-07-29 22:36:59 +1000
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     47 |      1 |      162 | 0.02 |  0.34 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      1 |       -7 | 0.25 | -0.18 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      2 |       32 | 0.5  |  0.8  |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      0 |      -20 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 | 0    | -1    |
@@ -26,7 +26,6 @@ date: 2022-07-29 22:36:59 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    510   | 0.05 |  2.55 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    333   | 1    |  1.66 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |     60   | 0.05 |  0.3  |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      3 |      5.5 | 0.15 |  0.03 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |     -0.5 | 0.25 | -0    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      5 |     -4   | 0.25 | -0.02 |
@@ -44,6 +43,7 @@ date: 2022-07-29 22:36:59 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      2 |   -119   | 0.1  | -0.6  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -135   | 0.1  | -0.68 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      1 |   -145   | 0.05 | -0.72 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
@@ -106,8 +106,8 @@ date: 2022-07-29 22:36:59 +1000
 | 29 | :soon:            | 2022-07-29 23:25:00 | goodwood      |      2 |        4 | Hotline Bling     |  51    | evenodds,overthrow |
 | 30 | :soon:            | 2022-07-29 23:25:00 | goodwood      |      2 |        1 | Bayside Boy       |   3.6  | overthrow          |
 | 31 | :soon:            | 2022-07-29 23:25:00 | goodwood      |      2 |        3 | Checkandchallenge |   2.45 | milkman            |
-| 32 | :soon:            | 2022-07-29 22:50:00 | goodwood      |      1 |       11 | Sea Appeal        |  13    | vulture            |
-| 33 | --                | 2022-07-29 22:35:00 | wolverhampton |      2 |        3 | Bold Territories  |   3.4  | looseknot          |
+| 32 | --                | 2022-07-29 22:50:00 | goodwood      |      1 |       11 | Sea Appeal        |  13    | vulture            |
+| 33 | :boom:            | 2022-07-29 22:35:00 | wolverhampton |      2 |        3 | Bold Territories  |   3.4  | looseknot          |
 | 34 | --                | 2022-07-29 22:20:00 | fairview      |      6 |        3 | Sing Girl Sing    |   0    | vulture            |
 | 35 | --                | 2022-07-29 19:30:00 | fairview      |      1 |        1 | Absolute Pleasure |   0    | vulture            |
 | 36 | 5.0               | 2022-07-29 14:14:00 | lismore       |      4 |       11 | Kiss Hello        |   6    | vulture            |
