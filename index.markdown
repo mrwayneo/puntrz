@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-29 20:06:52 +1000  
+date: 2022-07-29 20:19:21 +1000  
 ---   
 
 
@@ -26,6 +26,7 @@ date: 2022-07-29 20:06:52 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    510   | 0.05 |  2.55 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    333   | 1    |  1.66 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |     60   | 0.05 |  0.3  |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      3 |      5.5 | 0.15 |  0.03 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |     -0.5 | 0.25 | -0    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      5 |     -4   | 0.25 | -0.02 |
@@ -43,7 +44,6 @@ date: 2022-07-29 20:06:52 +1000
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      2 |   -119   | 0.1  | -0.6  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -135   | 0.1  | -0.68 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      1 |   -145   | 0.05 | -0.72 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
