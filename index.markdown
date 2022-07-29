@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-29 22:19:26 +1000  
+date: 2022-07-29 22:21:51 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-07-29 22:19:26 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     47 |      1 |       40 | 0.02 |  0.09 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     47 |      1 |      162 | 0.02 |  0.34 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      4 |      1 |       -7 | 0.25 | -0.18 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      0 |      -20 | 0    | -1    |
@@ -108,7 +108,7 @@ date: 2022-07-29 22:19:26 +1000
 | 31 | :soon:            | 2022-07-29 23:25:00 | goodwood      |      2 |        3 | Checkandchallenge |   2.45 | milkman            |
 | 32 | :soon:            | 2022-07-29 22:50:00 | goodwood      |      1 |       11 | Sea Appeal        |  13    | vulture            |
 | 33 | :soon:            | 2022-07-29 22:35:00 | wolverhampton |      2 |        3 | Bold Territories  |   3.4  | looseknot          |
-| 34 | :soon:            | 2022-07-29 22:20:00 | fairview      |      6 |        3 | Sing Girl Sing    |   0    | vulture            |
+| 34 | --                | 2022-07-29 22:20:00 | fairview      |      6 |        3 | Sing Girl Sing    |   0    | vulture            |
 | 35 | --                | 2022-07-29 19:30:00 | fairview      |      1 |        1 | Absolute Pleasure |   0    | vulture            |
 | 36 | 5.0               | 2022-07-29 14:14:00 | lismore       |      4 |       11 | Kiss Hello        |   6    | vulture            |
 | 37 | :2nd_place_medal: | 2022-07-29 13:46:00 | ipswich       |      4 |        6 | Mr Brose          |  11    | overthrow          |
