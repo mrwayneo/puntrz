@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-30 14:00:37 +1000  
+date: 2022-07-30 14:15:35 +1000  
 ---   
 
 
@@ -97,7 +97,7 @@ date: 2022-07-30 14:00:37 +1000
 | 15 | :soon:            | 2022-07-30 14:50:00 | rosehill-gardens |      7 |       11 | Karlstad           |  14    | pangea             |
 | 16 | :soon:            | 2022-07-30 14:50:00 | rosehill-gardens |      7 |        9 | Kirkeby            |   6.5  | vulture,jmac       |
 | 17 | :soon:            | 2022-07-30 14:50:00 | rosehill-gardens |      7 |        6 | Pandano            |  26    | pikey              |
-| 18 | :soon:            | 2022-07-30 14:04:00 | te-rapa          |     10 |        7 | Dawn Parade        |   7.5  | pangea             |
+| 18 | --                | 2022-07-30 14:04:00 | te-rapa          |     10 |        7 | Dawn Parade        |   7.5  | pangea             |
 | 19 | :2nd_place_medal: | 2022-07-30 13:36:00 | darwin           |      1 |        5 | Siakam             |   4.6  | pangea,overthrow   |
 | 20 | 6.0               | 2022-07-30 13:36:00 | darwin           |      1 |        3 | Pembroke Castle    |   6.5  | pangea             |
 | 21 | :3rd_place_medal: | 2022-07-30 13:13:00 | eagle-farm       |      4 |        1 | Honorable Spirit   |   5.5  | benny,pangea       |
