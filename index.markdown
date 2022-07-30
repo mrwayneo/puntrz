@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-30 11:12:47 +1000  
+date: 2022-07-30 11:15:30 +1000  
 ---   
 
 
@@ -77,34 +77,34 @@ date: 2022-07-30 11:12:47 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3432 |    466 |  -6583.7 | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4537 |    164 | -20091   | 0.04 | -0.44 |
 
-|    | finish                   | time                | track            |   race |   number | name               |   odds | tipster            |
-|---:|:-------------------------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:                   | 2022-07-31 02:55:00 | galway           |      8 |        3 | Carrigmoorna Queen |   1.45 | overthrow          |
-|  1 | :soon:                   | 2022-07-31 02:20:00 | galway           |      7 |       15 | Indigo Desert      |   7    | milkman            |
-|  2 | :soon:                   | 2022-07-31 01:45:00 | galway           |      6 |        5 | My Minervina       |   6    | vulture            |
-|  3 | :soon:                   | 2022-07-31 00:40:00 | galway           |      4 |        8 | Olympicus          |   5.5  | looseknot          |
-|  4 | :soon:                   | 2022-07-30 23:30:00 | galway           |      2 |        7 | Boothill           |   7    | overthrow          |
-|  5 | :soon:                   | 2022-07-30 23:30:00 | galway           |      2 |       14 | La Prima Donna     |   5.5  | overthrow          |
-|  6 | :soon:                   | 2022-07-30 23:00:00 | galway           |      1 |        6 | Gamin Original     |   2.88 | overthrow          |
-|  7 | :soon:                   | 2022-07-30 16:46:00 | darwin           |      6 |        1 | Manly Cove         |   2.05 | benny,overthrow    |
-|  8 | :soon:                   | 2022-07-30 16:35:00 | kembla-grange    |      8 |        4 | Pole Position      |   3.8  | vulture            |
-|  9 | :soon:                   | 2022-07-30 16:10:00 | rosehill-gardens |      9 |        5 | Animate            |  21    | cosmo,pikey        |
-| 10 | :soon:                   | 2022-07-30 16:10:00 | rosehill-gardens |      9 |        3 | Enchanted Heart    |   6    | jmac               |
-| 11 | :soon:                   | 2022-07-30 16:06:00 | darwin           |      5 |        4 | Pop Magic          |   8.5  | pangea,overthrow   |
-| 12 | :soon:                   | 2022-07-30 15:30:00 | rosehill-gardens |      8 |       10 | Durston            |  10    | pikey              |
-| 13 | :soon:                   | 2022-07-30 15:26:00 | darwin           |      4 |        2 | Umfana             |   2.45 | vulture            |
-| 14 | :soon:                   | 2022-07-30 14:50:00 | rosehill-gardens |      7 |        1 | Wicklow            |   2.7  | pangea,wallbow     |
-| 15 | :soon:                   | 2022-07-30 14:50:00 | rosehill-gardens |      7 |       11 | Karlstad           |  14    | pangea             |
-| 16 | :soon:                   | 2022-07-30 14:50:00 | rosehill-gardens |      7 |        9 | Kirkeby            |   6.5  | vulture,jmac       |
-| 17 | :soon:                   | 2022-07-30 14:50:00 | rosehill-gardens |      7 |        6 | Pandano            |  26    | pikey              |
-| 18 | :soon:                   | 2022-07-30 14:04:00 | te-rapa          |     10 |        7 | Dawn Parade        |   7.5  | pangea             |
-| 19 | :soon:                   | 2022-07-30 13:36:00 | darwin           |      1 |        5 | Siakam             |   4.6  | pangea,overthrow   |
-| 20 | :soon:                   | 2022-07-30 13:36:00 | darwin           |      1 |        3 | Pembroke Castle    |   6.5  | pangea             |
-| 21 | :soon:                   | 2022-07-30 13:13:00 | eagle-farm       |      4 |        1 | Honorable Spirit   |   5.5  | benny,pangea       |
-| 22 | :soon:                   | 2022-07-30 13:05:00 | rosehill-gardens |      4 |        5 | Yggdrasil          |   6    | pikey              |
-| 23 | :soon:                   | 2022-07-30 13:05:00 | rosehill-gardens |      4 |        1 | Lovely Esteem      |   4.75 | jmac               |
-| 24 | :soon:                   | 2022-07-30 13:05:00 | rosehill-gardens |      4 |        2 | Narrated           |   3.9  | pangea,overthrow   |
-| 25 | :soon:                   | 2022-07-30 12:38:00 | eagle-farm       |      3 |        4 | Billionair Baby    |   2.88 | vulture            |
-| 26 | :soon:                   | 2022-07-30 12:38:00 | eagle-farm       |      3 |        2 | Recommendation     |   2.75 | evenodds,lago      |
-| 27 | :soon:                   | 2022-07-30 11:45:00 | te-rapa          |      6 |        7 | Sophmaze           |   3.5  | pangea             |
-| 28 | :hourglass_flowing_sand: | 2022-07-30 11:10:00 | te-rapa          |      5 |        4 | Raucous            |   1.95 | evenodds,overthrow |
+|    | finish   | time                | track            |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:-----------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-07-31 02:55:00 | galway           |      8 |        3 | Carrigmoorna Queen |   1.45 | overthrow          |
+|  1 | :soon:   | 2022-07-31 02:20:00 | galway           |      7 |       15 | Indigo Desert      |   7    | milkman            |
+|  2 | :soon:   | 2022-07-31 01:45:00 | galway           |      6 |        5 | My Minervina       |   6    | vulture            |
+|  3 | :soon:   | 2022-07-31 00:40:00 | galway           |      4 |        8 | Olympicus          |   5.5  | looseknot          |
+|  4 | :soon:   | 2022-07-30 23:30:00 | galway           |      2 |        7 | Boothill           |   7    | overthrow          |
+|  5 | :soon:   | 2022-07-30 23:30:00 | galway           |      2 |       14 | La Prima Donna     |   5.5  | overthrow          |
+|  6 | :soon:   | 2022-07-30 23:00:00 | galway           |      1 |        6 | Gamin Original     |   2.88 | overthrow          |
+|  7 | :soon:   | 2022-07-30 16:46:00 | darwin           |      6 |        1 | Manly Cove         |   2.05 | benny,overthrow    |
+|  8 | :soon:   | 2022-07-30 16:35:00 | kembla-grange    |      8 |        4 | Pole Position      |   3.8  | vulture            |
+|  9 | :soon:   | 2022-07-30 16:10:00 | rosehill-gardens |      9 |        5 | Animate            |  21    | cosmo,pikey        |
+| 10 | :soon:   | 2022-07-30 16:10:00 | rosehill-gardens |      9 |        3 | Enchanted Heart    |   6    | jmac               |
+| 11 | :soon:   | 2022-07-30 16:06:00 | darwin           |      5 |        4 | Pop Magic          |   8.5  | pangea,overthrow   |
+| 12 | :soon:   | 2022-07-30 15:30:00 | rosehill-gardens |      8 |       10 | Durston            |  10    | pikey              |
+| 13 | :soon:   | 2022-07-30 15:26:00 | darwin           |      4 |        2 | Umfana             |   2.45 | vulture            |
+| 14 | :soon:   | 2022-07-30 14:50:00 | rosehill-gardens |      7 |        1 | Wicklow            |   2.7  | pangea,wallbow     |
+| 15 | :soon:   | 2022-07-30 14:50:00 | rosehill-gardens |      7 |       11 | Karlstad           |  14    | pangea             |
+| 16 | :soon:   | 2022-07-30 14:50:00 | rosehill-gardens |      7 |        9 | Kirkeby            |   6.5  | vulture,jmac       |
+| 17 | :soon:   | 2022-07-30 14:50:00 | rosehill-gardens |      7 |        6 | Pandano            |  26    | pikey              |
+| 18 | :soon:   | 2022-07-30 14:04:00 | te-rapa          |     10 |        7 | Dawn Parade        |   7.5  | pangea             |
+| 19 | :soon:   | 2022-07-30 13:36:00 | darwin           |      1 |        5 | Siakam             |   4.6  | pangea,overthrow   |
+| 20 | :soon:   | 2022-07-30 13:36:00 | darwin           |      1 |        3 | Pembroke Castle    |   6.5  | pangea             |
+| 21 | :soon:   | 2022-07-30 13:13:00 | eagle-farm       |      4 |        1 | Honorable Spirit   |   5.5  | benny,pangea       |
+| 22 | :soon:   | 2022-07-30 13:05:00 | rosehill-gardens |      4 |        5 | Yggdrasil          |   6    | pikey              |
+| 23 | :soon:   | 2022-07-30 13:05:00 | rosehill-gardens |      4 |        1 | Lovely Esteem      |   4.75 | jmac               |
+| 24 | :soon:   | 2022-07-30 13:05:00 | rosehill-gardens |      4 |        2 | Narrated           |   3.9  | pangea,overthrow   |
+| 25 | :soon:   | 2022-07-30 12:38:00 | eagle-farm       |      3 |        4 | Billionair Baby    |   2.88 | vulture            |
+| 26 | :soon:   | 2022-07-30 12:38:00 | eagle-farm       |      3 |        2 | Recommendation     |   2.75 | evenodds,lago      |
+| 27 | :soon:   | 2022-07-30 11:45:00 | te-rapa          |      6 |        7 | Sophmaze           |   3.5  | pangea             |
+| 28 | --       | 2022-07-30 11:10:00 | te-rapa          |      5 |        4 | Raucous            |   1.95 | evenodds,overthrow |
