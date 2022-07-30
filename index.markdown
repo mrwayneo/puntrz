@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-30 15:36:22 +1000  
+date: 2022-07-30 15:51:22 +1000  
 ---   
 
 
@@ -19,11 +19,11 @@ date: 2022-07-30 15:36:22 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      3 |      0 |      -30 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      8 |      2 |      -34 | 0.25 | -0.42 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     12 |      1 |      -40 | 0.08 | -0.33 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      4 |      0 |      -40 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     11 |      2 |      -61 | 0.18 | -0.55 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     12 |      1 |     -101 | 0.08 | -0.84 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     12 |      0 |     -120 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     45 |      0 |     -450 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     45 |      1 |     -370 | 0.02 | -0.82 |
 
 ##### Form Last 20 tips   
 
