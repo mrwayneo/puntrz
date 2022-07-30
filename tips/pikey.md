@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-07-30 13:00:34 +1000  
+date: 2022-07-30 13:12:49 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 16:10             | 2022-07-30 | rosehill-gardens R9   | 5 Animate             |  21    |    -10   |
 | 15:30             | 2022-07-30 | rosehill-gardens R8   | 10 Durston            |  10    |    -10   |
 | 14:50             | 2022-07-30 | rosehill-gardens R7   | 6 Pandano             |  26    |    -10   |
-| 13:05             | 2022-07-30 | rosehill-gardens R4   | 5 Yggdrasil           |   6    |    -10   |
+| 0                 | 2022-07-30 | rosehill-gardens R4   | 5 Yggdrasil           |   0    |    -10   |
 | 4                 | 2022-07-28 | wyong R3              | 3 Nosey Parker        |   3.7  |    -10   |
 | :2nd_place_medal: | 2022-07-28 | wyong R1              | 7 Nullify             |   3.75 |    -10   |
 | 9                 | 2022-07-27 | warwick-farm R7       | 6 Segrill             |  13    |    -10   |
