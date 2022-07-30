@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-07-30 12:30:36 +1000  
+date: 2022-07-30 12:45:37 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 12:38             | 2022-07-30 | eagle-farm R3          | 2 Recommendation     |  2.75 |    -10   |
+| 0                 | 2022-07-30 | eagle-farm R3          | 2 Recommendation     |  0    |    -10   |
 | :boom:            | 2022-07-28 | goodwood R4            | 1 Baaeed             |  1.17 |      1.7 |
 | :boom:            | 2022-07-19 | rockhampton R1         | 1 Kick On Command    |  0    |    -10   |
 | 99                | 2022-06-17 | royal-ascot R5         | 18 King Of Time      |  0    |    -10   |
@@ -105,8 +105,8 @@ categories: None
 | :boom:            | 2021-12-26 | wetherby R2            | 4 Galia Des Liteaux  |  3.3  |     23   |
 | 99                | 2021-12-18 | navan R2               | 15 Belle Metal       |  0    |    -10   |
 | :boom:            | 2021-12-18 | ascot R6               | 7 Henri The Second   |  4.4  |     34   |
-| :3rd_place_medal: | 2021-12-18 | ascot R4               | 4 Knappers Hill      |  4    |    -10   |
 | :boom:            | 2021-12-18 | ascot R4               | 3 Jonbon             |  2    |     10   |
+| :3rd_place_medal: | 2021-12-18 | ascot R4               | 4 Knappers Hill      |  4    |    -10   |
 | :boom:            | 2021-12-16 | leicester R3           | 8 Sholokjack         |  2.35 |     13.5 |
 | 5                 | 2021-12-13 | rockhampton R1         | 4 Sweet Way's        |  3.2  |    -10   |
 | 99                | 2021-12-13 | southwell R6           | 6 Hob House          |  0    |    -10   |
@@ -182,8 +182,8 @@ categories: None
 | :boom:            | 2021-08-14 | tramore R7             | 7 Coole Og           |  1.67 |      6.7 |
 | :boom:            | 2021-08-14 | newmarket R3           | 2 Coroebus           |  2.2  |     12   |
 | :boom:            | 2021-08-08 | kilbeggan R8           | 9 Flemencello        |  1.4  |      4   |
-| 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
 | :2nd_place_medal: | 2021-07-31 | galway R8              | 15 Ashroe Diamond    |  2.5  |    -10   |
+| 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
 | 4                 | 2021-07-25 | uttoxeter R1           | 2 Knotty Ash         |  1.7  |    -10   |
 | :boom:            | 2021-07-22 | sandown R3             | 4 Inspiral           |  2.2  |     12   |
 | 99                | 2021-07-18 | newbury R7             | 2 Mawenzi            |  3.3  |    -10   |

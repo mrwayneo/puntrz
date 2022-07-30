@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-30 12:30:36 +1000  
+date: 2022-07-30 12:45:37 +1000  
 ---   
 
 
@@ -9,21 +9,21 @@ date: 2022-07-30 12:30:36 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 |    0 |    -1 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      1 |      0 |      -10 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 |    0 |    -1 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |      2 |      0 |      -20 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      3 |      0 |      -30 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      3 |      0 |      -30 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      4 |      0 |      -40 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      8 |      0 |      -80 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     11 |      0 |     -110 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     12 |      0 |     -120 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     12 |      0 |     -120 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     45 |      0 |     -450 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 | 0    | -1    |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      1 |      0 |      -10 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 | 0    | -1    |
+| [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 | 0    | -1    |
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      2 |      0 |      -20 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |      2 |      0 |      -20 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      3 |      0 |      -30 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      3 |      0 |      -30 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      4 |      0 |      -40 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      8 |      1 |      -57 | 0.12 | -0.71 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     11 |      0 |     -110 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     12 |      0 |     -120 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     12 |      0 |     -120 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     45 |      0 |     -450 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -104,7 +104,7 @@ date: 2022-07-30 12:30:36 +1000
 | 22 | :soon:            | 2022-07-30 13:05:00 | rosehill-gardens |      4 |        5 | Yggdrasil          |   6    | pikey              |
 | 23 | :soon:            | 2022-07-30 13:05:00 | rosehill-gardens |      4 |        1 | Lovely Esteem      |   4.75 | jmac               |
 | 24 | :soon:            | 2022-07-30 13:05:00 | rosehill-gardens |      4 |        2 | Narrated           |   3.9  | pangea,overthrow   |
-| 25 | :soon:            | 2022-07-30 12:38:00 | eagle-farm       |      3 |        4 | Billionair Baby    |   2.88 | vulture            |
-| 26 | :soon:            | 2022-07-30 12:38:00 | eagle-farm       |      3 |        2 | Recommendation     |   2.75 | evenodds,lago      |
+| 25 | :boom:            | 2022-07-30 12:38:00 | eagle-farm       |      3 |        4 | Billionair Baby    |   2.88 | vulture            |
+| 26 | --                | 2022-07-30 12:38:00 | eagle-farm       |      3 |        2 | Recommendation     |   2.75 | evenodds,lago      |
 | 27 | :2nd_place_medal: | 2022-07-30 11:45:00 | te-rapa          |      6 |        7 | Sophmaze           |   3.5  | pangea             |
 | 28 | --                | 2022-07-30 11:10:00 | te-rapa          |      5 |        4 | Raucous            |   1.95 | evenodds,overthrow |
