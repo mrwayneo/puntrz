@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-07-30 16:06:22 +1000  
+date: 2022-07-30 16:21:23 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 16:10             | 2022-07-30 | rosehill-gardens R9   | 5 Animate             |  21    |    -10   |
+| 0                 | 2022-07-30 | rosehill-gardens R9   | 5 Animate             |   0    |    -10   |
 | 7                 | 2022-07-30 | rosehill-gardens R8   | 10 Durston            |  10    |    -10   |
 | 10                | 2022-07-30 | rosehill-gardens R7   | 6 Pandano             |  26    |    -10   |
 | 7                 | 2022-07-30 | rosehill-gardens R4   | 5 Yggdrasil           |   6    |    -10   |
