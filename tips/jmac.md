@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-07-30 15:21:08 +1000  
+date: 2022-07-30 15:36:20 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 16:10             | 2022-07-30 | rosehill-gardens R9  | 3 Enchanted Heart    |  6    |    -10   |
-| 0                 | 2022-07-30 | rosehill-gardens R7  | 9 Kirkeby            |  0    |    -10   |
+| 6                 | 2022-07-30 | rosehill-gardens R7  | 9 Kirkeby            |  6.5  |    -10   |
 | :3rd_place_medal: | 2022-07-30 | rosehill-gardens R4  | 1 Lovely Esteem      |  4.75 |    -10   |
 | 8                 | 2022-07-27 | warwick-farm R7      | 2 Lease              |  3.2  |    -10   |
 | :3rd_place_medal: | 2022-07-27 | warwick-farm R6      | 2 Sunborn            |  8    |    -10   |
