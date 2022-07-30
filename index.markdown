@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-30 11:30:31 +1000  
+date: 2022-07-30 11:45:25 +1000  
 ---   
 
 
@@ -106,5 +106,5 @@ date: 2022-07-30 11:30:31 +1000
 | 24 | :soon:   | 2022-07-30 13:05:00 | rosehill-gardens |      4 |        2 | Narrated           |   3.9  | pangea,overthrow   |
 | 25 | :soon:   | 2022-07-30 12:38:00 | eagle-farm       |      3 |        4 | Billionair Baby    |   2.88 | vulture            |
 | 26 | :soon:   | 2022-07-30 12:38:00 | eagle-farm       |      3 |        2 | Recommendation     |   2.75 | evenodds,lago      |
-| 27 | :soon:   | 2022-07-30 11:45:00 | te-rapa          |      6 |        7 | Sophmaze           |   3.5  | pangea             |
+| 27 | --       | 2022-07-30 11:45:00 | te-rapa          |      6 |        7 | Sophmaze           |   3.5  | pangea             |
 | 28 | --       | 2022-07-30 11:10:00 | te-rapa          |      5 |        4 | Raucous            |   1.95 | evenodds,overthrow |
