@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-30 16:36:24 +1000  
+date: 2022-07-30 17:06:57 +1000  
 ---   
 
 
@@ -86,10 +86,10 @@ date: 2022-07-30 16:36:24 +1000
 |  4 | :soon:            | 2022-07-30 23:30:00 | galway           |      2 |        7 | Boothill           |   7    | overthrow          |
 |  5 | :soon:            | 2022-07-30 23:30:00 | galway           |      2 |       14 | La Prima Donna     |   5.5  | overthrow          |
 |  6 | :soon:            | 2022-07-30 23:00:00 | galway           |      1 |        6 | Gamin Original     |   2.88 | overthrow          |
-|  7 | :soon:            | 2022-07-30 16:46:00 | darwin           |      6 |        1 | Manly Cove         |   2.05 | benny,overthrow    |
-|  8 | --                | 2022-07-30 16:35:00 | kembla-grange    |      8 |        4 | Pole Position      |   3.8  | vulture            |
-|  9 | --                | 2022-07-30 16:10:00 | rosehill-gardens |      9 |        5 | Animate            |  21    | cosmo,pikey        |
-| 10 | :3rd_place_medal: | 2022-07-30 16:10:00 | rosehill-gardens |      9 |        3 | Enchanted Heart    |   6    | jmac               |
+|  7 | :3rd_place_medal: | 2022-07-30 16:46:00 | darwin           |      6 |        1 | Manly Cove         |   2.05 | benny,overthrow    |
+|  8 | 6.0               | 2022-07-30 16:35:00 | kembla-grange    |      8 |        4 | Pole Position      |   3.8  | vulture            |
+|  9 | 11.0              | 2022-07-30 16:10:00 | rosehill-gardens |      9 |        5 | Animate            |  21    | cosmo,pikey        |
+| 10 | :2nd_place_medal: | 2022-07-30 16:10:00 | rosehill-gardens |      9 |        3 | Enchanted Heart    |   6    | jmac               |
 | 11 | --                | 2022-07-30 16:06:00 | darwin           |      5 |        4 | Pop Magic          |   8.5  | pangea,overthrow   |
 | 12 | 7.0               | 2022-07-30 15:30:00 | rosehill-gardens |      8 |       10 | Durston            |  10    | pikey              |
 | 13 | :boom:            | 2022-07-30 15:26:00 | darwin           |      4 |        2 | Umfana             |   2.45 | vulture            |
