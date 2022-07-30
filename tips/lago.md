@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-07-30 22:53:10 +1000  
+date: 2022-07-31 06:08:21 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      1 |      1.7 | 1    |  0.17 |
-| Last 28 Days   |      2 |      2 |     -8.3 | 1    | -0.42 |
-| Last 6 Months  |     80 |     35 |   -136.9 | 0.44 | -0.17 |
-| Since Jan 2020 |    258 |    127 |   1354   | 0.49 |  0.52 |
+| Last 7 Days    |      2 |      1 |     -8.3 | 0.5  | -0.42 |
+| Last 28 Days   |      3 |      2 |    -18.3 | 0.67 | -0.61 |
+| Last 6 Months  |     81 |     35 |   -146.9 | 0.43 | -0.18 |
+| Since Jan 2020 |    259 |    127 |   1344   | 0.49 |  0.52 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
@@ -105,8 +105,8 @@ categories: None
 | :boom:            | 2021-12-26 | wetherby R2            | 4 Galia Des Liteaux  |  3.3  |     23   |
 | 99                | 2021-12-18 | navan R2               | 15 Belle Metal       |  0    |    -10   |
 | :boom:            | 2021-12-18 | ascot R6               | 7 Henri The Second   |  4.4  |     34   |
-| :boom:            | 2021-12-18 | ascot R4               | 3 Jonbon             |  2    |     10   |
 | :3rd_place_medal: | 2021-12-18 | ascot R4               | 4 Knappers Hill      |  4    |    -10   |
+| :boom:            | 2021-12-18 | ascot R4               | 3 Jonbon             |  2    |     10   |
 | :boom:            | 2021-12-16 | leicester R3           | 8 Sholokjack         |  2.35 |     13.5 |
 | 5                 | 2021-12-13 | rockhampton R1         | 4 Sweet Way's        |  3.2  |    -10   |
 | 99                | 2021-12-13 | southwell R6           | 6 Hob House          |  0    |    -10   |
@@ -182,8 +182,8 @@ categories: None
 | :boom:            | 2021-08-14 | tramore R7             | 7 Coole Og           |  1.67 |      6.7 |
 | :boom:            | 2021-08-14 | newmarket R3           | 2 Coroebus           |  2.2  |     12   |
 | :boom:            | 2021-08-08 | kilbeggan R8           | 9 Flemencello        |  1.4  |      4   |
-| :2nd_place_medal: | 2021-07-31 | galway R8              | 15 Ashroe Diamond    |  2.5  |    -10   |
 | 99                | 2021-07-31 | galway R8              | 9 Dani Barcelona     |  8    |    -10   |
+| :2nd_place_medal: | 2021-07-31 | galway R8              | 15 Ashroe Diamond    |  2.5  |    -10   |
 | 4                 | 2021-07-25 | uttoxeter R1           | 2 Knotty Ash         |  1.7  |    -10   |
 | :boom:            | 2021-07-22 | sandown R3             | 4 Inspiral           |  2.2  |     12   |
 | 99                | 2021-07-18 | newbury R7             | 2 Mawenzi            |  3.3  |    -10   |
