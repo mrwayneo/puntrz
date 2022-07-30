@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-07-30 14:51:14 +1000  
+date: 2022-07-30 15:06:14 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
-| 0                 | 2022-07-30 | rosehill-gardens R7 | 1 Wicklow          |  0    |      -10 |
+| :boom:            | 2022-07-30 | rosehill-gardens R7 | 1 Wicklow          |  3    |       20 |
 | 6                 | 2022-07-27 | warwick-farm R7     | 4 Ocean Shores     |  4.2  |      -10 |
 | :3rd_place_medal: | 2022-07-19 | wyong R3            | 3 Inuwashi         |  0    |      -10 |
 | 6                 | 2022-06-11 | eagle-farm R5       | 1 Tycoonist        |  0    |      -10 |
