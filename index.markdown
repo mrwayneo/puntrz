@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-31 15:28:58 +1000  
+date: 2022-07-31 15:44:02 +1000  
 ---   
 
 
@@ -17,7 +17,7 @@ date: 2022-07-31 15:28:58 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      4 |      0 |      -40 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      8 |      0 |      -80 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     36 |      1 |     -304 | 0.03 | -0.84 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     62 |      1 |     -592 | 0.02 | -0.95 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     62 |      2 |     -490 | 0.03 | -0.79 |
 
 ##### Form Last 20 tips   
 
@@ -33,7 +33,7 @@ date: 2022-07-31 15:28:58 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      8 |    -15.5 | 0.4  | -0.08 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |    -30.5 | 0.2  | -0.15 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |    -40   | 0.2  | -0.2  |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      5 |    -50   | 0.25 | -0.25 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -68   | 0.2  | -0.34 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -69.6 | 0.4  | -0.35 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |    -91   | 0.2  | -0.46 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |    -95   | 0.15 | -0.48 |
@@ -85,5 +85,5 @@ date: 2022-07-31 15:28:58 +1000
 |  9 | :soon:   | 2022-07-31 23:35:00 | kenilworth |      6 |        3 | Time Flies      |   0    | milkman            |
 | 10 | :soon:   | 2022-07-31 22:50:00 | chester    |      1 |        1 | Kiss N Cuddle   |   3.5  | vulture            |
 | 11 | :soon:   | 2022-07-31 22:50:00 | chester    |      1 |        5 | Evolicatt       |   6.5  | vulture            |
-| 12 | --       | 2022-07-31 15:15:00 | forbes     |      6 |        9 | Messy Miss      |  13    | pangea             |
+| 12 | 9.0      | 2022-07-31 15:15:00 | forbes     |      6 |        9 | Messy Miss      |  13    | pangea             |
 | 13 | :boom:   | 2022-07-31 14:45:00 | hobart     |      5 |        5 | Donna's Day     |   2.45 | milkman            |
