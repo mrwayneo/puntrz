@@ -1,16 +1,16 @@
 ---   
 layout: post   
 title: "Benny"   
-date: 2022-07-31 22:54:46 +1000  
+date: 2022-08-01 06:10:34 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      6 |      0 |    -60   | 0    | -1    |
+| Last 7 Days    |      4 |      0 |    -40   | 0    | -1    |
 | Last 28 Days   |     16 |      1 |   -160   | 0.06 | -1    |
-| Last 6 Months  |    250 |     40 |   -912   | 0.16 | -0.36 |
+| Last 6 Months  |    200 |     34 |   -595   | 0.17 | -0.3  |
 | Since Jan 2020 |    983 |    203 |  -1357.5 | 0.21 | -0.14 |
 
 | finish            | date       | event                         | runner                |   win |   return |

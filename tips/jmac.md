@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-07-31 22:54:55 +1000  
+date: 2022-08-01 06:10:43 +1000  
 categories: None 
 ---   
 
@@ -10,7 +10,7 @@ categories: None
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      6 |      1 |    -32   | 0.17 | -0.53 |
 | Last 28 Days   |      6 |      1 |    -32   | 0.17 | -0.53 |
-| Last 6 Months  |    159 |     36 |   -814   | 0.23 | -0.51 |
+| Last 6 Months  |    124 |     30 |   -597   | 0.24 | -0.48 |
 | Since Jan 2020 |    707 |    180 |   -782.5 | 0.25 | -0.11 |
 
 | finish            | date       | event                | runner               |   win |   return |

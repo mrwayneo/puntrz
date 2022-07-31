@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-07-31 22:54:55 +1000  
+date: 2022-08-01 06:10:43 +1000  
 categories: None 
 ---   
 
@@ -10,7 +10,7 @@ categories: None
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |     11 |      0 |     -110 | 0    | -1    |
 | Last 28 Days   |     18 |      1 |     -180 | 0.06 | -1    |
-| Last 6 Months  |    216 |     38 |     -854 | 0.18 | -0.4  |
+| Last 6 Months  |    145 |     20 |     -490 | 0.14 | -0.34 |
 | Since Jan 2020 |   1061 |    254 |    -1978 | 0.24 | -0.19 |
 
 | finish            | date       | event                 | runner                |    win |   return |

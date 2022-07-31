@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-07-31 22:54:49 +1000  
+date: 2022-08-01 06:10:38 +1000  
 categories: None 
 ---   
 
@@ -10,7 +10,7 @@ categories: None
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      1 |      1 |     20   | 1    |  2    |
 | Last 28 Days   |      1 |      1 |     20   | 1    |  2    |
-| Last 6 Months  |    136 |     38 |   -629   | 0.28 | -0.46 |
+| Last 6 Months  |    105 |     29 |   -503.5 | 0.28 | -0.48 |
 | Since Jan 2020 |    605 |    199 |   -777.6 | 0.33 | -0.13 |
 
 | finish            | date       | event                        | runner                |   win |   return |

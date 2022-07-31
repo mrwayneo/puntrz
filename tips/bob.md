@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-07-31 22:54:56 +1000  
+date: 2022-08-01 06:10:44 +1000  
 categories: None 
 ---   
 
@@ -10,7 +10,7 @@ categories: None
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
 | Last 28 Days   |      4 |      0 |    -40   | 0    | -1    |
-| Last 6 Months  |     65 |      5 |   -449   | 0.08 | -0.69 |
+| Last 6 Months  |     47 |      4 |   -358   | 0.09 | -0.76 |
 | Since Jan 2020 |    279 |     43 |   2868.5 | 0.15 |  1.03 |
 
 | finish            | date       | event                         | runner                |    win |   return |

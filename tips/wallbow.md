@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-07-31 22:54:49 +1000  
+date: 2022-08-01 06:10:38 +1000  
 categories: None 
 ---   
 
@@ -10,7 +10,7 @@ categories: None
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      2 |      1 |       10 | 0.5  |  0.5  |
 | Last 28 Days   |      3 |      1 |        0 | 0.33 |  0    |
-| Last 6 Months  |     42 |      7 |     -228 | 0.17 | -0.54 |
+| Last 6 Months  |     32 |      6 |     -128 | 0.19 | -0.4  |
 | Since Jan 2020 |    149 |     24 |       59 | 0.16 |  0.04 |
 
 | finish            | date       | event               | runner             |   win |   return |
