@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Atlas"   
-date: 2022-08-01 07:42:27 +1000  
+date: 2022-08-01 07:57:27 +1000  
 categories: None 
 ---   
 
