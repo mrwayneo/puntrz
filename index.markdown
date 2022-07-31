@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-31 14:41:27 +1000  
+date: 2022-07-31 14:56:24 +1000  
 ---   
 
 
@@ -9,11 +9,11 @@ date: 2022-07-31 14:41:27 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      1 |       -9 | 0.25 | -0.22 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      1 |      0 |      -10 | 0    | -1    |
 | [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      2 |      0 |      -20 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      4 |      0 |      -40 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      4 |      0 |      -40 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      8 |      0 |      -80 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     36 |      0 |     -360 | 0    | -1    |
@@ -86,4 +86,4 @@ date: 2022-07-31 14:41:27 +1000
 | 10 | :soon:   | 2022-07-31 22:50:00 | chester    |      1 |        1 | Kiss N Cuddle   |   3.5  | vulture            |
 | 11 | :soon:   | 2022-07-31 22:50:00 | chester    |      1 |        5 | Evolicatt       |   6.5  | vulture            |
 | 12 | :soon:   | 2022-07-31 15:15:00 | forbes     |      6 |        9 | Messy Miss      |  13    | pangea             |
-| 13 | :soon:   | 2022-07-31 14:45:00 | hobart     |      5 |        5 | Donna's Day     |   2.45 | milkman            |
+| 13 | :boom:   | 2022-07-31 14:45:00 | hobart     |      5 |        5 | Donna's Day     |   2.45 | milkman            |
