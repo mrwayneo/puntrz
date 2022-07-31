@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-31 18:05:32 +1000  
+date: 2022-07-31 18:08:57 +1000  
 ---   
 
 
@@ -17,7 +17,7 @@ date: 2022-07-31 18:05:32 +1000
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      4 |      0 |      -40 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      8 |      0 |      -80 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     36 |      1 |     -304 | 0.03 | -0.84 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     62 |      3 |     -422 | 0.05 | -0.68 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     62 |      3 |     -427 | 0.05 | -0.69 |
 
 ##### Form Last 20 tips   
 
@@ -33,7 +33,7 @@ date: 2022-07-31 18:05:32 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      8 |    -15.5 | 0.4  | -0.08 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |    -30.5 | 0.2  | -0.15 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |    -40   | 0.2  | -0.2  |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -68   | 0.2  | -0.34 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      5 |    -50   | 0.25 | -0.25 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -69.6 | 0.4  | -0.35 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |    -91   | 0.2  | -0.46 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |    -95   | 0.15 | -0.48 |
