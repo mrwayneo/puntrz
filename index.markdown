@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-07-31 22:40:02 +1000  
+date: 2022-07-31 22:54:56 +1000  
 ---   
 
 
@@ -33,7 +33,7 @@ date: 2022-07-31 22:40:02 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      8 |    -15.5 | 0.4  | -0.08 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |    -30.5 | 0.2  | -0.15 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      4 |    -40   | 0.2  | -0.2  |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      5 |    -50   | 0.25 | -0.25 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      4 |    -68   | 0.2  | -0.34 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -69.6 | 0.4  | -0.35 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      4 |    -91   | 0.2  | -0.46 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      3 |    -95   | 0.15 | -0.48 |
@@ -83,7 +83,7 @@ date: 2022-07-31 22:40:02 +1000
 |  7 | :soon:   | 2022-08-01 00:05:00 | galway     |      3 |        6 | Agusta Gold     |   4.33 | overthrow          |
 |  8 | :soon:   | 2022-07-31 23:35:00 | kenilworth |      6 |        5 | Cracklin' Rose  |   0    | vulture            |
 |  9 | :soon:   | 2022-07-31 23:35:00 | kenilworth |      6 |        3 | Time Flies      |   0    | milkman            |
-| 10 | :soon:   | 2022-07-31 22:50:00 | chester    |      1 |        1 | Kiss N Cuddle   |   3.5  | vulture            |
-| 11 | :soon:   | 2022-07-31 22:50:00 | chester    |      1 |        5 | Evolicatt       |   6.5  | vulture            |
+| 10 | --       | 2022-07-31 22:50:00 | chester    |      1 |        1 | Kiss N Cuddle   |   3.5  | vulture            |
+| 11 | --       | 2022-07-31 22:50:00 | chester    |      1 |        5 | Evolicatt       |   6.5  | vulture            |
 | 12 | 9.0      | 2022-07-31 15:15:00 | forbes     |      6 |        9 | Messy Miss      |  13    | pangea             |
 | 13 | :boom:   | 2022-07-31 14:45:00 | hobart     |      5 |        5 | Donna's Day     |   2.45 | milkman            |
