@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-01 12:50:46 +1000  
+date: 2022-08-01 13:05:45 +1000  
 ---   
 
 
@@ -103,5 +103,5 @@ date: 2022-08-01 12:50:46 +1000
 | 23 | :soon:            | 2022-08-01 13:52:00 | darwin      |      3 |        2 | Isola Bay         |   3.9  | vulture,pangea      |
 | 24 | :soon:            | 2022-08-01 13:52:00 | darwin      |      3 |        1 | Rising Sphere     |   2.5  | evenodds,overthrow  |
 | 25 | :boom:            | 2022-08-01 12:37:00 | darwin      |      1 |        5 | Mister Monaro     |   8    | pangea              |
-| 26 | --                | 2022-08-01 12:37:00 | darwin      |      1 |        3 | Patria            |   3.4  | pangea,overthrow    |
+| 26 | 5.0               | 2022-08-01 12:37:00 | darwin      |      1 |        3 | Patria            |   3.4  | pangea,overthrow    |
 | 27 | :2nd_place_medal: | 2022-08-01 12:37:00 | darwin      |      1 |        2 | Global Wonder     |   3.25 | vulture,blackshadow |
