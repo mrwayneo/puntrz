@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-01 16:38:10 +1000  
+date: 2022-08-01 18:55:13 +1000  
 ---   
 
 
@@ -87,10 +87,10 @@ date: 2022-08-01 16:38:10 +1000
 |  7 | :soon:            | 2022-08-01 23:30:00 | cork        |      1 |        5 | Idoles Des Jeunes |   2.45 | overthrow           |
 |  8 | :soon:            | 2022-08-01 23:18:00 | ayr         |      3 |        1 | Water Of Leith    |   1.55 | vulture             |
 |  9 | :soon:            | 2022-08-01 22:48:00 | ayr         |      2 |        6 | City Of Life      |   3.2  | looseknot           |
-| 10 | :soon:            | 2022-08-01 17:30:00 | darwin      |      9 |        6 | Jet Jackson       |   7.5  | vulture             |
-| 11 | :soon:            | 2022-08-01 17:09:00 | rockhampton |      7 |        1 | Dark Archer       |   3.9  | pangea              |
-| 12 | :soon:            | 2022-08-01 16:52:00 | darwin      |      8 |        3 | Autocratic        |   3.1  | evenodds,overthrow  |
-| 13 | --                | 2022-08-01 16:34:00 | rockhampton |      6 |        1 | Boom Boom Becker  |   3.7  | evenodds,overthrow  |
+| 10 | 6.0               | 2022-08-01 17:30:00 | darwin      |      9 |        6 | Jet Jackson       |   7.5  | vulture             |
+| 11 | :3rd_place_medal: | 2022-08-01 17:09:00 | rockhampton |      7 |        1 | Dark Archer       |   3.9  | pangea              |
+| 12 | 5.0               | 2022-08-01 16:52:00 | darwin      |      8 |        3 | Autocratic        |   3.1  | evenodds,overthrow  |
+| 13 | 8.0               | 2022-08-01 16:34:00 | rockhampton |      6 |        1 | Boom Boom Becker  |   3.7  | evenodds,overthrow  |
 | 14 | :2nd_place_medal: | 2022-08-01 15:57:00 | rockhampton |      5 |        3 | Kick On Command   |   2    | overthrow,lago      |
 | 15 | 6.0               | 2022-08-01 15:42:00 | darwin      |      6 |        7 | Just Hang Up      |  20    | pangea              |
 | 16 | :2nd_place_medal: | 2022-08-01 15:42:00 | darwin      |      6 |        3 | Wolfburn          |   2.2  | evenodds,overthrow  |
