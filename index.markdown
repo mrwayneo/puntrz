@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-01 13:50:45 +1000  
+date: 2022-08-01 14:05:47 +1000  
 ---   
 
 
@@ -14,13 +14,13 @@ date: 2022-08-01 13:50:45 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |      1 |      0 |      -10 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      1 |      -32 | 0.2  | -0.64 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      4 |      0 |      -40 | 0    | -1    |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      5 |      0 |      -50 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     14 |      1 |      -70 | 0.07 | -0.5  |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     14 |      2 |      -52 | 0.14 | -0.37 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     12 |      1 |     -102 | 0.08 | -0.85 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     12 |      1 |     -102 | 0.08 | -0.85 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     21 |      1 |     -110 | 0.05 | -0.52 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     12 |      0 |     -120 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     12 |      0 |     -120 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     45 |      0 |     -450 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -99,9 +99,9 @@ date: 2022-08-01 13:50:45 +1000
 | 19 | :soon:            | 2022-08-01 14:47:00 | rockhampton |      3 |        5 | Cold Hard Fact    |   5.5  | benny,pangea        |
 | 20 | :soon:            | 2022-08-01 14:27:00 | darwin      |      4 |        5 | Belmont Day       |   4.6  | pangea,overthrow    |
 | 21 | :soon:            | 2022-08-01 14:12:00 | rockhampton |      2 |        1 | Betterdeel        |   2.05 | evenodds,overthrow  |
-| 22 | :soon:            | 2022-08-01 13:52:00 | darwin      |      3 |        4 | Blueant           |   7.5  | pangea,overthrow    |
-| 23 | :soon:            | 2022-08-01 13:52:00 | darwin      |      3 |        2 | Isola Bay         |   3.9  | vulture,pangea      |
-| 24 | :soon:            | 2022-08-01 13:52:00 | darwin      |      3 |        1 | Rising Sphere     |   2.5  | evenodds,overthrow  |
+| 22 | --                | 2022-08-01 13:52:00 | darwin      |      3 |        4 | Blueant           |   7.5  | pangea,overthrow    |
+| 23 | --                | 2022-08-01 13:52:00 | darwin      |      3 |        2 | Isola Bay         |   3.9  | vulture,pangea      |
+| 24 | :boom:            | 2022-08-01 13:52:00 | darwin      |      3 |        1 | Rising Sphere     |   2.5  | evenodds,overthrow  |
 | 25 | :boom:            | 2022-08-01 12:37:00 | darwin      |      1 |        5 | Mister Monaro     |   8    | pangea              |
 | 26 | 5.0               | 2022-08-01 12:37:00 | darwin      |      1 |        3 | Patria            |   3.4  | pangea,overthrow    |
 | 27 | :2nd_place_medal: | 2022-08-01 12:37:00 | darwin      |      1 |        2 | Global Wonder     |   3.25 | vulture,blackshadow |
