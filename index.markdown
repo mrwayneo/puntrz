@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-01 14:05:47 +1000  
+date: 2022-08-01 14:49:45 +1000  
 ---   
 
 
@@ -95,11 +95,11 @@ date: 2022-08-01 14:05:47 +1000
 | 15 | :soon:            | 2022-08-01 15:42:00 | darwin      |      6 |        7 | Just Hang Up      |  20    | pangea              |
 | 16 | :soon:            | 2022-08-01 15:42:00 | darwin      |      6 |        3 | Wolfburn          |   2.2  | evenodds,overthrow  |
 | 17 | :soon:            | 2022-08-01 15:22:00 | rockhampton |      4 |        5 | Knowitall Jack    |   4.8  | benny,pangea        |
-| 18 | :soon:            | 2022-08-01 14:47:00 | rockhampton |      3 |        6 | Avocado Sunset    |   3.75 | pangea              |
-| 19 | :soon:            | 2022-08-01 14:47:00 | rockhampton |      3 |        5 | Cold Hard Fact    |   5.5  | benny,pangea        |
-| 20 | :soon:            | 2022-08-01 14:27:00 | darwin      |      4 |        5 | Belmont Day       |   4.6  | pangea,overthrow    |
-| 21 | :soon:            | 2022-08-01 14:12:00 | rockhampton |      2 |        1 | Betterdeel        |   2.05 | evenodds,overthrow  |
-| 22 | --                | 2022-08-01 13:52:00 | darwin      |      3 |        4 | Blueant           |   7.5  | pangea,overthrow    |
+| 18 | --                | 2022-08-01 14:47:00 | rockhampton |      3 |        6 | Avocado Sunset    |   3.75 | pangea              |
+| 19 | --                | 2022-08-01 14:47:00 | rockhampton |      3 |        5 | Cold Hard Fact    |   5.5  | benny,pangea        |
+| 20 | :2nd_place_medal: | 2022-08-01 14:27:00 | darwin      |      4 |        5 | Belmont Day       |   4.6  | pangea,overthrow    |
+| 21 | :2nd_place_medal: | 2022-08-01 14:12:00 | rockhampton |      2 |        1 | Betterdeel        |   2.05 | evenodds,overthrow  |
+| 22 | 5.0               | 2022-08-01 13:52:00 | darwin      |      3 |        4 | Blueant           |   7.5  | pangea,overthrow    |
 | 23 | --                | 2022-08-01 13:52:00 | darwin      |      3 |        2 | Isola Bay         |   3.9  | vulture,pangea      |
 | 24 | :boom:            | 2022-08-01 13:52:00 | darwin      |      3 |        1 | Rising Sphere     |   2.5  | evenodds,overthrow  |
 | 25 | :boom:            | 2022-08-01 12:37:00 | darwin      |      1 |        5 | Mister Monaro     |   8    | pangea              |
