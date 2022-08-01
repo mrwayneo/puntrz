@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-01 12:35:33 +1000  
+date: 2022-08-01 12:46:52 +1000  
 ---   
 
 
@@ -75,33 +75,33 @@ date: 2022-08-01 12:35:33 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3450 |    469 |  -6487.4 | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4543 |    166 | -20015   | 0.04 | -0.44 |
 
-|    | finish   | time                | track       |   race |   number | name              |   odds | tipster             |
-|---:|:---------|:--------------------|:------------|-------:|---------:|:------------------|-------:|:--------------------|
-|  0 | :soon:   | 2022-08-02 02:08:00 | cork        |      6 |        2 | Stratum           |   3.2  | overthrow           |
-|  1 | :soon:   | 2022-08-02 01:10:00 | naas        |      5 |       10 | Lopes Gold        |   6    | vulture             |
-|  2 | :soon:   | 2022-08-02 00:40:00 | naas        |      4 |       10 | Apricot Twist     |   3.1  | milkman             |
-|  3 | :soon:   | 2022-08-02 00:40:00 | naas        |      4 |        2 | Rousing Encore    |   8.5  | milkman             |
-|  4 | :soon:   | 2022-08-02 00:40:00 | naas        |      4 |       22 | Slan Abhaile      |  11    | cosmo,bob           |
-|  5 | :soon:   | 2022-08-02 00:40:00 | naas        |      4 |        3 | Victoria Road     |   9    | vulture             |
-|  6 | :soon:   | 2022-08-02 00:40:00 | naas        |      4 |       21 | Ocean Quest       |  34    | vulture,milkman     |
-|  7 | :soon:   | 2022-08-01 23:30:00 | cork        |      1 |        5 | Idoles Des Jeunes |   2.45 | overthrow           |
-|  8 | :soon:   | 2022-08-01 23:18:00 | ayr         |      3 |        1 | Water Of Leith    |   1.55 | vulture             |
-|  9 | :soon:   | 2022-08-01 22:48:00 | ayr         |      2 |        6 | City Of Life      |   3.2  | looseknot           |
-| 10 | :soon:   | 2022-08-01 17:30:00 | darwin      |      9 |        6 | Jet Jackson       |   7.5  | vulture             |
-| 11 | :soon:   | 2022-08-01 17:09:00 | rockhampton |      7 |        1 | Dark Archer       |   3.9  | pangea              |
-| 12 | :soon:   | 2022-08-01 16:52:00 | darwin      |      8 |        3 | Autocratic        |   3.1  | evenodds,overthrow  |
-| 13 | :soon:   | 2022-08-01 16:34:00 | rockhampton |      6 |        1 | Boom Boom Becker  |   3.7  | evenodds,overthrow  |
-| 14 | :soon:   | 2022-08-01 15:57:00 | rockhampton |      5 |        3 | Kick On Command   |   2    | overthrow,lago      |
-| 15 | :soon:   | 2022-08-01 15:42:00 | darwin      |      6 |        7 | Just Hang Up      |  20    | pangea              |
-| 16 | :soon:   | 2022-08-01 15:42:00 | darwin      |      6 |        3 | Wolfburn          |   2.2  | evenodds,overthrow  |
-| 17 | :soon:   | 2022-08-01 15:22:00 | rockhampton |      4 |        5 | Knowitall Jack    |   4.8  | benny,pangea        |
-| 18 | :soon:   | 2022-08-01 14:47:00 | rockhampton |      3 |        6 | Avocado Sunset    |   3.75 | pangea              |
-| 19 | :soon:   | 2022-08-01 14:47:00 | rockhampton |      3 |        5 | Cold Hard Fact    |   5.5  | benny,pangea        |
-| 20 | :soon:   | 2022-08-01 14:27:00 | darwin      |      4 |        5 | Belmont Day       |   4.6  | pangea,overthrow    |
-| 21 | :soon:   | 2022-08-01 14:12:00 | rockhampton |      2 |        1 | Betterdeel        |   2.05 | evenodds,overthrow  |
-| 22 | :soon:   | 2022-08-01 13:52:00 | darwin      |      3 |        4 | Blueant           |   7.5  | pangea,overthrow    |
-| 23 | :soon:   | 2022-08-01 13:52:00 | darwin      |      3 |        2 | Isola Bay         |   3.9  | vulture,pangea      |
-| 24 | :soon:   | 2022-08-01 13:52:00 | darwin      |      3 |        1 | Rising Sphere     |   2.5  | evenodds,overthrow  |
-| 25 | :soon:   | 2022-08-01 12:37:00 | darwin      |      1 |        5 | Mister Monaro     |   8    | pangea              |
-| 26 | :soon:   | 2022-08-01 12:37:00 | darwin      |      1 |        3 | Patria            |   3.4  | pangea,overthrow    |
-| 27 | :soon:   | 2022-08-01 12:37:00 | darwin      |      1 |        2 | Global Wonder     |   3.25 | vulture,blackshadow |
+|    | finish                   | time                | track       |   race |   number | name              |   odds | tipster             |
+|---:|:-------------------------|:--------------------|:------------|-------:|---------:|:------------------|-------:|:--------------------|
+|  0 | :soon:                   | 2022-08-02 02:08:00 | cork        |      6 |        2 | Stratum           |   3.2  | overthrow           |
+|  1 | :soon:                   | 2022-08-02 01:10:00 | naas        |      5 |       10 | Lopes Gold        |   6    | vulture             |
+|  2 | :soon:                   | 2022-08-02 00:40:00 | naas        |      4 |       10 | Apricot Twist     |   3.1  | milkman             |
+|  3 | :soon:                   | 2022-08-02 00:40:00 | naas        |      4 |        2 | Rousing Encore    |   8.5  | milkman             |
+|  4 | :soon:                   | 2022-08-02 00:40:00 | naas        |      4 |       22 | Slan Abhaile      |  11    | cosmo,bob           |
+|  5 | :soon:                   | 2022-08-02 00:40:00 | naas        |      4 |        3 | Victoria Road     |   9    | vulture             |
+|  6 | :soon:                   | 2022-08-02 00:40:00 | naas        |      4 |       21 | Ocean Quest       |  34    | vulture,milkman     |
+|  7 | :soon:                   | 2022-08-01 23:30:00 | cork        |      1 |        5 | Idoles Des Jeunes |   2.45 | overthrow           |
+|  8 | :soon:                   | 2022-08-01 23:18:00 | ayr         |      3 |        1 | Water Of Leith    |   1.55 | vulture             |
+|  9 | :soon:                   | 2022-08-01 22:48:00 | ayr         |      2 |        6 | City Of Life      |   3.2  | looseknot           |
+| 10 | :soon:                   | 2022-08-01 17:30:00 | darwin      |      9 |        6 | Jet Jackson       |   7.5  | vulture             |
+| 11 | :soon:                   | 2022-08-01 17:09:00 | rockhampton |      7 |        1 | Dark Archer       |   3.9  | pangea              |
+| 12 | :soon:                   | 2022-08-01 16:52:00 | darwin      |      8 |        3 | Autocratic        |   3.1  | evenodds,overthrow  |
+| 13 | :soon:                   | 2022-08-01 16:34:00 | rockhampton |      6 |        1 | Boom Boom Becker  |   3.7  | evenodds,overthrow  |
+| 14 | :soon:                   | 2022-08-01 15:57:00 | rockhampton |      5 |        3 | Kick On Command   |   2    | overthrow,lago      |
+| 15 | :soon:                   | 2022-08-01 15:42:00 | darwin      |      6 |        7 | Just Hang Up      |  20    | pangea              |
+| 16 | :soon:                   | 2022-08-01 15:42:00 | darwin      |      6 |        3 | Wolfburn          |   2.2  | evenodds,overthrow  |
+| 17 | :soon:                   | 2022-08-01 15:22:00 | rockhampton |      4 |        5 | Knowitall Jack    |   4.8  | benny,pangea        |
+| 18 | :soon:                   | 2022-08-01 14:47:00 | rockhampton |      3 |        6 | Avocado Sunset    |   3.75 | pangea              |
+| 19 | :soon:                   | 2022-08-01 14:47:00 | rockhampton |      3 |        5 | Cold Hard Fact    |   5.5  | benny,pangea        |
+| 20 | :soon:                   | 2022-08-01 14:27:00 | darwin      |      4 |        5 | Belmont Day       |   4.6  | pangea,overthrow    |
+| 21 | :soon:                   | 2022-08-01 14:12:00 | rockhampton |      2 |        1 | Betterdeel        |   2.05 | evenodds,overthrow  |
+| 22 | :soon:                   | 2022-08-01 13:52:00 | darwin      |      3 |        4 | Blueant           |   7.5  | pangea,overthrow    |
+| 23 | :soon:                   | 2022-08-01 13:52:00 | darwin      |      3 |        2 | Isola Bay         |   3.9  | vulture,pangea      |
+| 24 | :soon:                   | 2022-08-01 13:52:00 | darwin      |      3 |        1 | Rising Sphere     |   2.5  | evenodds,overthrow  |
+| 25 | :hourglass_flowing_sand: | 2022-08-01 12:37:00 | darwin      |      1 |        5 | Mister Monaro     |   8    | pangea              |
+| 26 | :hourglass_flowing_sand: | 2022-08-01 12:37:00 | darwin      |      1 |        3 | Patria            |   3.4  | pangea,overthrow    |
+| 27 | :hourglass_flowing_sand: | 2022-08-01 12:37:00 | darwin      |      1 |        2 | Global Wonder     |   3.25 | vulture,blackshadow |
