@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-02 07:55:21 +1000  
+date: 2022-08-02 07:59:21 +1000  
 ---   
 
 
@@ -78,8 +78,8 @@ date: 2022-08-02 07:55:21 +1000
 |  2 | --                | 2022-08-02 00:40:00 | naas        |      4 |       10 | Apricot Twist     |   3.1  | milkman             |
 |  3 | 5.0               | 2022-08-02 00:40:00 | naas        |      4 |        2 | Rousing Encore    |   8.5  | milkman             |
 |  4 | --                | 2022-08-02 00:40:00 | naas        |      4 |       22 | Slan Abhaile      |  11    | cosmo,bob           |
-|  5 | 4.0               | 2022-08-02 00:40:00 | naas        |      4 |        3 | Victoria Road     |   9    | vulture             |
-|  6 | :3rd_place_medal: | 2022-08-02 00:40:00 | naas        |      4 |       21 | Ocean Quest       |  34    | vulture,milkman     |
+|  5 | :3rd_place_medal: | 2022-08-02 00:40:00 | naas        |      4 |       21 | Ocean Quest       |  34    | vulture,milkman     |
+|  6 | 4.0               | 2022-08-02 00:40:00 | naas        |      4 |        3 | Victoria Road     |   9    | vulture             |
 |  7 | --                | 2022-08-01 23:30:00 | cork        |      1 |        5 | Idoles Des Jeunes |   2.45 | overthrow           |
 |  8 | :boom:            | 2022-08-01 23:18:00 | ayr         |      3 |        1 | Water Of Leith    |   1.55 | vulture             |
 |  9 | --                | 2022-08-01 22:48:00 | ayr         |      2 |        6 | City Of Life      |   3.2  | looseknot           |
