@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-08-02 12:59:03 +1000  
+date: 2022-08-02 13:14:06 +1000  
 categories: None 
 ---   
 
@@ -289,8 +289,8 @@ categories: None
 | :boom:            | 2021-09-18 | gold-coast R6                | 2 Weona Smartone      |  1.8  |      8   |
 | 8                 | 2021-09-18 | dalby R5                     | 4 Harbour Trick       |  7.5  |    -10   |
 | :boom:            | 2021-09-18 | caulfield R2                 | 7 He's A Balter       |  6.3  |     53   |
-| 5                 | 2021-09-12 | devonport-synthetic R1       | 4 Vivilici            |  3    |    -10   |
 | 4                 | 2021-09-12 | devonport-synthetic R1       | 6 Assaranca           |  4.6  |    -10   |
+| 5                 | 2021-09-12 | devonport-synthetic R1       | 4 Vivilici            |  3    |    -10   |
 | 6                 | 2021-09-11 | belmont R6                   | 4 General Grant       | 11    |    -10   |
 | :boom:            | 2021-09-11 | belmont R1                   | 4 Red Fifty Three     |  4.1  |     31   |
 | :boom:            | 2021-09-10 | fairview R5                  | 2 Cairon              |  1.75 |      7.5 |
@@ -659,8 +659,8 @@ categories: None
 | 6                 | 2020-01-25 | gawler R2                    | 4 Rose Tiara          | 18.2  |    -10   |
 | :2nd_place_medal: | 2020-01-25 | sunshine-coast R1            | 3 Ruby Guru           |  3.8  |    -10   |
 | :boom:            | 2020-01-22 | canterbury R5                | 2 Knowitall Jack      |  3.6  |     26   |
-| 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
 | :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
+| 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
 | 6                 | 2020-01-11 | pinjarra R8                  | 11 Midnight Sky       |  6.5  |    -10   |
 | :boom:            | 2020-01-11 | pinjarra R6                  | 12 Put A Spell On You |  5    |     40   |
 | :3rd_place_medal: | 2020-01-11 | kembla-grange R6             | 4 Superbowl Sunday    |  2.15 |    -10   |
