@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-02 14:14:14 +1000  
+date: 2022-08-02 15:14:04 +1000  
 ---   
 
 
@@ -71,15 +71,15 @@ date: 2022-08-02 14:14:14 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3475 |    469 |  -6625.6 | 0.13 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4526 |    168 | -19565   | 0.04 | -0.43 |
 
-|    | finish   | time                | track           |   race |   number | name            |   odds | tipster       |
-|---:|:---------|:--------------------|:----------------|-------:|---------:|:----------------|-------:|:--------------|
-|  0 | :soon:   | 2022-08-03 05:00:00 | roscommon       |      6 |       14 | Memorable Daise |   0    | overthrow     |
-|  1 | :soon:   | 2022-08-03 03:40:00 | chelmsford-city |      3 |        3 | Cotai Star      |   0    | looseknot     |
-|  2 | :soon:   | 2022-08-03 03:20:00 | kempton         |      2 |        4 | Ferrari Queen   |   0    | milkman       |
-|  3 | :soon:   | 2022-08-03 03:20:00 | kempton         |      2 |       12 | Fariba          |   0    | looseknot     |
-|  4 | :soon:   | 2022-08-03 02:50:00 | kempton         |      1 |        1 | Princess Naomi  |   2.35 | vulture       |
-|  5 | :soon:   | 2022-08-03 02:40:00 | chelmsford-city |      1 |        7 | Timewave        |   4.8  | looseknot     |
-|  6 | :soon:   | 2022-08-02 22:25:00 | ffos-las        |      1 |        9 | Psyche          |   5.5  | vulture       |
-|  7 | :soon:   | 2022-08-02 21:35:00 | kenilworth      |      2 |        5 | Gimme's Lassie  |   0    | vulture       |
-|  8 | :soon:   | 2022-08-02 15:47:00 | warwick         |      7 |        4 | Ciao Bicky      |   4.33 | pangea,icyhot |
-|  9 | :soon:   | 2022-08-02 14:34:00 | warwick         |      5 |        6 | Uchida          |   7.5  | vulture       |
+|    | finish            | time                | track           |   race |   number | name            |   odds | tipster       |
+|---:|:------------------|:--------------------|:----------------|-------:|---------:|:----------------|-------:|:--------------|
+|  0 | :soon:            | 2022-08-03 05:00:00 | roscommon       |      6 |       14 | Memorable Daise |   0    | overthrow     |
+|  1 | :soon:            | 2022-08-03 03:40:00 | chelmsford-city |      3 |        3 | Cotai Star      |   0    | looseknot     |
+|  2 | :soon:            | 2022-08-03 03:20:00 | kempton         |      2 |        4 | Ferrari Queen   |   0    | milkman       |
+|  3 | :soon:            | 2022-08-03 03:20:00 | kempton         |      2 |       12 | Fariba          |   0    | looseknot     |
+|  4 | :soon:            | 2022-08-03 02:50:00 | kempton         |      1 |        1 | Princess Naomi  |   2.35 | vulture       |
+|  5 | :soon:            | 2022-08-03 02:40:00 | chelmsford-city |      1 |        7 | Timewave        |   4.8  | looseknot     |
+|  6 | :soon:            | 2022-08-02 22:25:00 | ffos-las        |      1 |        9 | Psyche          |   5.5  | vulture       |
+|  7 | :soon:            | 2022-08-02 21:35:00 | kenilworth      |      2 |        5 | Gimme's Lassie  |   0    | vulture       |
+|  8 | :soon:            | 2022-08-02 15:47:00 | warwick         |      7 |        4 | Ciao Bicky      |   4.33 | pangea,icyhot |
+|  9 | :3rd_place_medal: | 2022-08-02 14:34:00 | warwick         |      5 |        6 | Uchida          |   7.5  | vulture       |
