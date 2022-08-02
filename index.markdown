@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-03 07:54:53 +1000  
+date: 2022-08-03 09:05:05 +1000  
 ---   
 
 
@@ -37,6 +37,7 @@ date: 2022-08-03 07:54:53 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |     -8   | 0.2  | -0.04 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     10 |    -10.5 | 0.5  | -0.05 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      8 |    -15.5 | 0.4  | -0.08 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      2 |    -64   | 0.1  | -0.32 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -69.6 | 0.4  | -0.35 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -71   | 0.25 | -0.36 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -82   | 0.15 | -0.41 |
@@ -45,7 +46,6 @@ date: 2022-08-03 07:54:53 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -135   | 0.1  | -0.68 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      3 |   -142   | 0.15 | -0.71 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |   -142   | 0.15 | -0.71 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |   -144   | 0.05 | -0.72 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      1 |   -184   | 0.05 | -0.92 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
@@ -76,15 +76,25 @@ date: 2022-08-03 07:54:53 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3425 |    469 |  -5902.7 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4527 |    168 | -19575   | 0.04 | -0.43 |
 
-|    | finish            | time                | track           |   race |   number | name            |   odds | tipster       |
-|---:|:------------------|:--------------------|:----------------|-------:|---------:|:----------------|-------:|:--------------|
-|  0 | --                | 2022-08-03 05:00:00 | roscommon       |      6 |       14 | Memorable Daise |   0    | overthrow     |
-|  1 | :boom:            | 2022-08-03 03:40:00 | chelmsford-city |      3 |        3 | Cotai Star      |   0    | looseknot     |
-|  2 | :boom:            | 2022-08-03 03:20:00 | kempton         |      2 |        4 | Ferrari Queen   |   0    | milkman       |
-|  3 | --                | 2022-08-03 03:20:00 | kempton         |      2 |       12 | Fariba          |   0    | looseknot     |
-|  4 | --                | 2022-08-03 02:50:00 | kempton         |      1 |        1 | Princess Naomi  |   2.35 | vulture       |
-|  5 | --                | 2022-08-03 02:40:00 | chelmsford-city |      1 |        7 | Timewave        |   4.8  | looseknot     |
-|  6 | --                | 2022-08-02 22:25:00 | ffos-las        |      1 |        9 | Psyche          |   5.5  | vulture       |
-|  7 | :2nd_place_medal: | 2022-08-02 21:35:00 | kenilworth      |      2 |        5 | Gimme's Lassie  |   0    | vulture       |
-|  8 | 8.0               | 2022-08-02 15:47:00 | warwick         |      7 |        4 | Ciao Bicky      |   4.33 | pangea,icyhot |
-|  9 | :3rd_place_medal: | 2022-08-02 14:34:00 | warwick         |      5 |        6 | Uchida          |   7.5  | vulture       |
+|    | finish   | time                | track      |   race |   number | name             |   odds | tipster             |
+|---:|:---------|:--------------------|:-----------|-------:|---------:|:-----------------|-------:|:--------------------|
+|  0 | :soon:   | 2022-08-04 04:50:00 | kempton    |      6 |        2 | Dignified        |   0    | overthrow           |
+|  1 | :soon:   | 2022-08-04 03:50:00 | kempton    |      4 |       12 | Silver Knott     |   0    | overthrow           |
+|  2 | :soon:   | 2022-08-04 03:20:00 | kempton    |      3 |        1 | Moon Watch       |   0    | evenodds,lago       |
+|  3 | :soon:   | 2022-08-04 03:20:00 | kempton    |      3 |       12 | Okeechobee       |   0    | vulture             |
+|  4 | :soon:   | 2022-08-04 02:50:00 | kempton    |      2 |        4 | Border Edge      |   2    | evenodds,overthrow  |
+|  5 | :soon:   | 2022-08-04 02:50:00 | kempton    |      2 |        5 | A E Housman      |   4.4  | overthrow,looseknot |
+|  6 | :soon:   | 2022-08-04 01:00:00 | newcastle  |      6 |        1 | Engles Rock      |   6    | vulture             |
+|  7 | :soon:   | 2022-08-04 01:00:00 | newcastle  |      6 |        7 | Lelabad          |   3.9  | looseknot           |
+|  8 | :soon:   | 2022-08-04 00:00:00 | newcastle  |      4 |        5 | Gold Charm       |   6    | looseknot           |
+|  9 | :soon:   | 2022-08-03 16:03:00 | eagle-farm |      6 |        2 | Magic Charlee    |  11    | vulture,pangea      |
+| 10 | :soon:   | 2022-08-03 16:03:00 | eagle-farm |      6 |        4 | Vendidit         |   4.5  | pangea              |
+| 11 | :soon:   | 2022-08-03 14:35:00 | canterbury |      4 |        2 | And We Danced    |   3.2  | wallbow             |
+| 12 | :soon:   | 2022-08-03 14:35:00 | canterbury |      4 |        5 | Mystic Mermaid   |   3.5  | vulture,jmac        |
+| 13 | :soon:   | 2022-08-03 14:35:00 | canterbury |      4 |        9 | Clear Blonde     |  22    | pikey               |
+| 14 | :soon:   | 2022-08-03 14:00:00 | canterbury |      3 |        1 | Oz Legend        |   8    | wallbow             |
+| 15 | :soon:   | 2022-08-03 14:00:00 | canterbury |      3 |        2 | Chateaux Park    |   3.25 | jmac                |
+| 16 | :soon:   | 2022-08-03 14:00:00 | canterbury |      3 |        6 | Good Omens       |   4.8  | pikey               |
+| 17 | :soon:   | 2022-08-03 13:08:00 | eagle-farm |      1 |        2 | Montana Lady     |   3.9  | vulture             |
+| 18 | :soon:   | 2022-08-03 12:50:00 | canterbury |      1 |        4 | Ironbark Artie   |   3.3  | vulture             |
+| 19 | :soon:   | 2022-08-03 12:50:00 | canterbury |      1 |        3 | State Of America |  16    | pikey               |
