@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-02 22:07:04 +1000  
+date: 2022-08-02 22:38:39 +1000  
 ---   
 
 
@@ -9,15 +9,15 @@ date: 2022-08-02 22:07:04 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      1 |      0 |      -10 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    | -1    |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 | 0    | -1    |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      4 |      0 |      -40 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      0 |      -50 | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     24 |      2 |     -153 | 0.08 | -0.64 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     33 |      0 |     -330 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      1 |      0 |      -10 | 0    |  -1   |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    |  -1   |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)         |      1 |      0 |      -10 | 0    |  -1   |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    |  -1   |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      4 |      0 |      -40 | 0    |  -1   |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      0 |      -50 | 0    |  -1   |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 | 0    |  -1   |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     24 |      2 |     -144 | 0.08 |  -0.6 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     33 |      0 |     -330 | 0    |  -1   |
 
 ##### Form Last 20 tips   
 
@@ -79,7 +79,7 @@ date: 2022-08-02 22:07:04 +1000
 |  3 | :soon:            | 2022-08-03 03:20:00 | kempton         |      2 |       12 | Fariba          |   0    | looseknot     |
 |  4 | :soon:            | 2022-08-03 02:50:00 | kempton         |      1 |        1 | Princess Naomi  |   2.35 | vulture       |
 |  5 | :soon:            | 2022-08-03 02:40:00 | chelmsford-city |      1 |        7 | Timewave        |   4.8  | looseknot     |
-|  6 | :soon:            | 2022-08-02 22:25:00 | ffos-las        |      1 |        9 | Psyche          |   5.5  | vulture       |
+|  6 | --                | 2022-08-02 22:25:00 | ffos-las        |      1 |        9 | Psyche          |   5.5  | vulture       |
 |  7 | :2nd_place_medal: | 2022-08-02 21:35:00 | kenilworth      |      2 |        5 | Gimme's Lassie  |   0    | vulture       |
 |  8 | 8.0               | 2022-08-02 15:47:00 | warwick         |      7 |        4 | Ciao Bicky      |   4.33 | pangea,icyhot |
 |  9 | :3rd_place_medal: | 2022-08-02 14:34:00 | warwick         |      5 |        6 | Uchida          |   7.5  | vulture       |
