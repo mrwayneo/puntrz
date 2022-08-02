@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-02 15:44:59 +1000  
+date: 2022-08-02 15:59:50 +1000  
 ---   
 
 
@@ -81,5 +81,5 @@ date: 2022-08-02 15:44:59 +1000
 |  5 | :soon:            | 2022-08-03 02:40:00 | chelmsford-city |      1 |        7 | Timewave        |   4.8  | looseknot     |
 |  6 | :soon:            | 2022-08-02 22:25:00 | ffos-las        |      1 |        9 | Psyche          |   5.5  | vulture       |
 |  7 | :soon:            | 2022-08-02 21:35:00 | kenilworth      |      2 |        5 | Gimme's Lassie  |   0    | vulture       |
-|  8 | :soon:            | 2022-08-02 15:47:00 | warwick         |      7 |        4 | Ciao Bicky      |   4.33 | pangea,icyhot |
+|  8 | --                | 2022-08-02 15:47:00 | warwick         |      7 |        4 | Ciao Bicky      |   4.33 | pangea,icyhot |
 |  9 | :3rd_place_medal: | 2022-08-02 14:34:00 | warwick         |      5 |        6 | Uchida          |   7.5  | vulture       |
