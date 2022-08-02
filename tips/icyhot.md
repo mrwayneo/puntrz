@@ -1,17 +1,17 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-08-02 22:53:33 +1000  
+date: 2022-08-03 06:23:27 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      1 |     20   | 1    |  2    |
-| Last 28 Days   |      1 |      1 |     20   | 1    |  2    |
-| Last 6 Months  |    105 |     29 |   -503.5 | 0.28 | -0.48 |
-| Since Jan 2020 |    605 |    199 |   -777.6 | 0.33 | -0.13 |
+| Last 7 Days    |      2 |      1 |     10   | 0.5  |  0.5  |
+| Last 28 Days   |      2 |      1 |     10   | 0.5  |  0.5  |
+| Last 6 Months  |    106 |     29 |   -513.5 | 0.27 | -0.48 |
+| Since Jan 2020 |    606 |    199 |   -787.6 | 0.33 | -0.13 |
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
@@ -289,8 +289,8 @@ categories: None
 | :boom:            | 2021-09-18 | gold-coast R6                | 2 Weona Smartone      |  1.8  |      8   |
 | 8                 | 2021-09-18 | dalby R5                     | 4 Harbour Trick       |  7.5  |    -10   |
 | :boom:            | 2021-09-18 | caulfield R2                 | 7 He's A Balter       |  6.3  |     53   |
-| 4                 | 2021-09-12 | devonport-synthetic R1       | 6 Assaranca           |  4.6  |    -10   |
 | 5                 | 2021-09-12 | devonport-synthetic R1       | 4 Vivilici            |  3    |    -10   |
+| 4                 | 2021-09-12 | devonport-synthetic R1       | 6 Assaranca           |  4.6  |    -10   |
 | 6                 | 2021-09-11 | belmont R6                   | 4 General Grant       | 11    |    -10   |
 | :boom:            | 2021-09-11 | belmont R1                   | 4 Red Fifty Three     |  4.1  |     31   |
 | :boom:            | 2021-09-10 | fairview R5                  | 2 Cairon              |  1.75 |      7.5 |
@@ -659,8 +659,8 @@ categories: None
 | 6                 | 2020-01-25 | gawler R2                    | 4 Rose Tiara          | 18.2  |    -10   |
 | :2nd_place_medal: | 2020-01-25 | sunshine-coast R1            | 3 Ruby Guru           |  3.8  |    -10   |
 | :boom:            | 2020-01-22 | canterbury R5                | 2 Knowitall Jack      |  3.6  |     26   |
-| :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
+| :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 6                 | 2020-01-11 | pinjarra R8                  | 11 Midnight Sky       |  6.5  |    -10   |
 | :boom:            | 2020-01-11 | pinjarra R6                  | 12 Put A Spell On You |  5    |     40   |
 | :3rd_place_medal: | 2020-01-11 | kembla-grange R6             | 4 Superbowl Sunday    |  2.15 |    -10   |
