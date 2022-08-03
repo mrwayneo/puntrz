@@ -1,24 +1,24 @@
 ---   
 layout: post   
 title: "Vulture"   
-date: 2022-08-03 22:57:39 +1000  
+date: 2022-08-04 08:26:11 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     52 |      9 |   -287   | 0.17 | -0.55 |
-| Last 28 Days   |    130 |     26 |   -787.7 | 0.2  | -0.61 |
-| Last 6 Months  |   1636 |    428 |  -5727   | 0.26 | -0.35 |
-| Since Jan 2020 |   7779 |   1916 | -15594.9 | 0.25 | -0.2  |
+| Last 7 Days    |     40 |      7 |   -154   | 0.18 | -0.38 |
+| Last 28 Days   |    138 |     27 |   -750.7 | 0.2  | -0.54 |
+| Last 6 Months  |   1644 |    429 |  -5690   | 0.26 | -0.35 |
+| Since Jan 2020 |   7787 |   1917 | -15557.9 | 0.25 | -0.2  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:20             | 2022-08-04 | kempton R3                    | 12 Okeechobee         |   0    |    -10   |
-| 03:20             | 2022-08-04 | kempton R3                    | 1 Moon Watch          |   0    |    -10   |
-| 02:50             | 2022-08-04 | kempton R2                    | 4 Border Edge         |   2    |    -10   |
-| 01:00             | 2022-08-04 | newcastle R6                  | 1 Engles Rock         |   6    |    -10   |
+| 0                 | 2022-08-04 | kempton R3                    | 12 Okeechobee         |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R3                    | 1 Moon Watch          |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R2                    | 4 Border Edge         |   0    |    -10   |
+| 0                 | 2022-08-04 | newcastle R6                  | 1 Engles Rock         |   0    |    -10   |
 | :boom:            | 2022-08-03 | eagle-farm R6                 | 2 Magic Charlee       |  11.7  |    107   |
 | :2nd_place_medal: | 2022-08-03 | canterbury R4                 | 5 Mystic Mermaid      |   3.5  |    -10   |
 | 5                 | 2022-08-03 | eagle-farm R1                 | 2 Montana Lady        |   3.9  |    -10   |

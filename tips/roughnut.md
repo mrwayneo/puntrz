@@ -1,45 +1,45 @@
 ---   
 layout: post   
 title: "Roughnut"   
-date: 2022-08-03 22:57:45 +1000  
+date: 2022-08-04 08:26:17 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    188 |      6 |    -1214 | 0.03 | -0.65 |
-| Last 28 Days   |    390 |     13 |    -2283 | 0.03 | -0.59 |
-| Last 6 Months  |   4559 |    168 |   -19895 | 0.04 | -0.44 |
-| Since Jan 2020 |  21943 |   1066 |   -58157 | 0.05 | -0.27 |
+| Last 7 Days    |    171 |      4 |    -1294 | 0.02 | -0.76 |
+| Last 28 Days   |    426 |     13 |    -2643 | 0.03 | -0.62 |
+| Last 6 Months  |   4595 |    168 |   -20255 | 0.04 | -0.44 |
+| Since Jan 2020 |  21979 |   1066 |   -58517 | 0.05 | -0.27 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 05:50             | 2022-08-04 | kempton R8                    | 9 Vin Rouge           |   0    |    -10   |
-| 05:50             | 2022-08-04 | kempton R8                    | 3 Dance To Paris      |   0    |    -10   |
-| 05:20             | 2022-08-04 | kempton R7                    | 1 Titian              |   0    |    -10   |
-| 04:50             | 2022-08-04 | kempton R6                    | 7 Mountain Queen      |   0    |    -10   |
-| 04:30             | 2022-08-04 | sligo R5                      | 3 Static Charge       |   0    |    -10   |
-| 04:30             | 2022-08-04 | sligo R5                      | 6 Duke Of Leggagh     |   0    |    -10   |
-| 04:30             | 2022-08-04 | sligo R5                      | 5 Slick Chick         |   0    |    -10   |
-| 03:50             | 2022-08-04 | kempton R4                    | 8 Oasis Power         |   0    |    -10   |
-| 03:30             | 2022-08-04 | sligo R3                      | 9 Corky               |   0    |    -10   |
-| 03:20             | 2022-08-04 | kempton R3                    | 5 Field Of Honour     |   0    |    -10   |
-| 03:20             | 2022-08-04 | kempton R3                    | 3 Counterattack       |   0    |    -10   |
-| 03:00             | 2022-08-04 | sligo R2                      | 5 Serafina            |   7.5  |    -10   |
-| 02:50             | 2022-08-04 | kempton R2                    | 11 Salcombe Storm     |  21    |    -10   |
-| 02:50             | 2022-08-04 | kempton R2                    | 1 Chadlington Lad     |  34    |    -10   |
-| 02:30             | 2022-08-04 | sligo R1                      | 11 Bringsty           |   0    |    -10   |
-| 02:30             | 2022-08-04 | sligo R1                      | 8 Maricruz            |   0    |    -10   |
-| 01:40             | 2022-08-04 | brighton R7                   | 6 Hattie C            |   5.5  |    -10   |
-| 00:40             | 2022-08-04 | brighton R5                   | 13 My Boy Jack        |   9.5  |    -10   |
-| 00:30             | 2022-08-04 | newcastle R5                  | 7 Vivency             |  16    |    -10   |
-| 00:30             | 2022-08-04 | newcastle R5                  | 5 Buraback            |  12    |    -10   |
-| 00:30             | 2022-08-04 | newcastle R5                  | 1 Turbo Command       |  13    |    -10   |
-| 00:10             | 2022-08-04 | brighton R4                   | 3 Temur Khan          |   5.5  |    -10   |
-| 00:00             | 2022-08-04 | newcastle R4                  | 7 Von Der Leyen       |  19    |    -10   |
-| 23:10             | 2022-08-03 | brighton R2                   | 6 Isemel              |   8.5  |    -10   |
-| 23:00             | 2022-08-03 | newcastle R2                  | 4 Knights Artist      |  13    |    -10   |
+| 0                 | 2022-08-04 | kempton R8                    | 9 Vin Rouge           |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R8                    | 3 Dance To Paris      |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R7                    | 1 Titian              |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R6                    | 7 Mountain Queen      |   0    |    -10   |
+| 0                 | 2022-08-04 | sligo R5                      | 3 Static Charge       |   0    |    -10   |
+| 0                 | 2022-08-04 | sligo R5                      | 6 Duke Of Leggagh     |   0    |    -10   |
+| 0                 | 2022-08-04 | sligo R5                      | 5 Slick Chick         |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R4                    | 8 Oasis Power         |   0    |    -10   |
+| 0                 | 2022-08-04 | sligo R3                      | 9 Corky               |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R3                    | 5 Field Of Honour     |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R3                    | 3 Counterattack       |   0    |    -10   |
+| 0                 | 2022-08-04 | sligo R2                      | 5 Serafina            |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R2                    | 11 Salcombe Storm     |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R2                    | 1 Chadlington Lad     |   0    |    -10   |
+| 0                 | 2022-08-04 | sligo R1                      | 11 Bringsty           |   0    |    -10   |
+| 0                 | 2022-08-04 | sligo R1                      | 8 Maricruz            |   0    |    -10   |
+| 0                 | 2022-08-04 | brighton R7                   | 6 Hattie C            |   0    |    -10   |
+| 0                 | 2022-08-04 | brighton R5                   | 13 My Boy Jack        |   0    |    -10   |
+| 0                 | 2022-08-04 | newcastle R5                  | 7 Vivency             |   0    |    -10   |
+| 0                 | 2022-08-04 | newcastle R5                  | 5 Buraback            |   0    |    -10   |
+| 0                 | 2022-08-04 | newcastle R5                  | 1 Turbo Command       |   0    |    -10   |
+| 0                 | 2022-08-04 | brighton R4                   | 3 Temur Khan          |   0    |    -10   |
+| 0                 | 2022-08-04 | newcastle R4                  | 7 Von Der Leyen       |   0    |    -10   |
+| 0                 | 2022-08-03 | brighton R2                   | 6 Isemel              |   0    |    -10   |
+| 0                 | 2022-08-03 | newcastle R2                  | 4 Knights Artist      |   0    |    -10   |
 | 0                 | 2022-08-03 | newcastle R1                  | 7 Buachaill           |   0    |    -10   |
 | 10                | 2022-08-03 | eagle-farm R6                 | 11 Torowoto           |  10    |    -10   |
 | 5                 | 2022-08-03 | eagle-farm R6                 | 5 Cosmic Gossip       |  12    |    -10   |

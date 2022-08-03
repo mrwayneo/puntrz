@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Cosmo"   
-date: 2022-08-03 22:57:42 +1000  
+date: 2022-08-04 08:26:14 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     34 |      3 |      -64 | 0.09 | -0.19 |
-| Last 28 Days   |     85 |      8 |      -77 | 0.09 | -0.09 |
-| Last 6 Months  |   1333 |     85 |    -2693 | 0.06 | -0.2  |
-| Since Jan 2020 |   6215 |    368 |    -5786 | 0.06 | -0.09 |
+| Last 7 Days    |     35 |      2 |     -214 | 0.06 | -0.61 |
+| Last 28 Days   |     94 |      8 |     -167 | 0.09 | -0.18 |
+| Last 6 Months  |   1342 |     85 |    -2783 | 0.06 | -0.21 |
+| Since Jan 2020 |   6224 |    368 |    -5876 | 0.06 | -0.09 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:50             | 2022-08-04 | kempton R4                    | 8 Oasis Power         |   0    |      -10 |
-| 02:50             | 2022-08-04 | kempton R2                    | 1 Chadlington Lad     |  34    |      -10 |
-| 00:40             | 2022-08-04 | brighton R5                   | 13 My Boy Jack        |   9.5  |      -10 |
+| 0                 | 2022-08-04 | kempton R4                    | 8 Oasis Power         |   0    |      -10 |
+| 0                 | 2022-08-04 | kempton R2                    | 1 Chadlington Lad     |   0    |      -10 |
+| 0                 | 2022-08-04 | brighton R5                   | 13 My Boy Jack        |   0    |      -10 |
 | 5                 | 2022-08-03 | eagle-farm R6                 | 5 Cosmic Gossip       |  12    |      -10 |
 | 10                | 2022-08-03 | eagle-farm R6                 | 11 Torowoto           |  10    |      -10 |
 | 9                 | 2022-08-03 | eagle-farm R6                 | 6 Toomai              |  31    |      -10 |

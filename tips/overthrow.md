@@ -1,25 +1,25 @@
 ---   
 layout: post   
 title: "Overthrow"   
-date: 2022-08-03 22:57:41 +1000  
+date: 2022-08-04 08:26:12 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     48 |      8 |   -298.7 | 0.17 | -0.62 |
-| Last 28 Days   |    117 |     25 |   -715   | 0.21 | -0.61 |
-| Last 6 Months  |   1374 |    332 |  -6055.8 | 0.24 | -0.44 |
-| Since Jan 2020 |   6144 |   1551 | -11636.9 | 0.25 | -0.19 |
+| Last 7 Days    |     38 |      5 |   -286.5 | 0.13 | -0.75 |
+| Last 28 Days   |    122 |     25 |   -765   | 0.2  | -0.63 |
+| Last 6 Months  |   1379 |    332 |  -6105.8 | 0.24 | -0.44 |
+| Since Jan 2020 |   6149 |   1551 | -11686.9 | 0.25 | -0.19 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 04:50             | 2022-08-04 | kempton R6                   | 2 Dignified           |   0    |    -10   |
-| 03:50             | 2022-08-04 | kempton R4                   | 12 Silver Knott       |   0    |    -10   |
-| 03:20             | 2022-08-04 | kempton R3                   | 1 Moon Watch          |   0    |    -10   |
-| 02:50             | 2022-08-04 | kempton R2                   | 5 A E Housman         |   4.4  |    -10   |
-| 02:50             | 2022-08-04 | kempton R2                   | 4 Border Edge         |   2    |    -10   |
+| 0                 | 2022-08-04 | kempton R6                   | 2 Dignified           |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R4                   | 12 Silver Knott       |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R3                   | 1 Moon Watch          |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R2                   | 5 A E Housman         |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R2                   | 4 Border Edge         |   0    |    -10   |
 | :boom:            | 2022-08-03 | roscommon R7                 | 13 Idol               |   2    |     10   |
 | 0                 | 2022-08-03 | roscommon R6                 | 14 Memorable Daise    |   0    |    -10   |
 | 0                 | 2022-08-03 | roscommon R5                 | 1 High City Roller    |   0    |    -10   |

@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-08-03 22:57:48 +1000  
+date: 2022-08-04 08:26:21 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      3 |      1 |    -10   | 0.33 | -0.33 |
-| Last 28 Days   |      5 |      3 |    -18.3 | 0.6  | -0.37 |
-| Last 6 Months  |     67 |     31 |    -63.4 | 0.46 | -0.09 |
-| Since Jan 2020 |    261 |    128 |   1344   | 0.49 |  0.51 |
+| Last 7 Days    |      4 |      1 |    -20   | 0.25 | -0.5  |
+| Last 28 Days   |      6 |      3 |    -28.3 | 0.5  | -0.47 |
+| Last 6 Months  |     68 |     31 |    -73.4 | 0.46 | -0.11 |
+| Since Jan 2020 |    262 |    128 |   1334   | 0.49 |  0.51 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 03:20             | 2022-08-04 | kempton R3             | 1 Moon Watch         |  0    |    -10   |
+| 0                 | 2022-08-04 | kempton R3             | 1 Moon Watch         |  0    |    -10   |
 | :2nd_place_medal: | 2022-08-01 | rockhampton R5         | 3 Kick On Command    |  2    |    -10   |
 | :boom:            | 2022-08-01 | galway R8              | 3 No Risk No Fun     |  2    |     10   |
 | 5                 | 2022-07-30 | eagle-farm R3          | 2 Recommendation     |  2.75 |    -10   |

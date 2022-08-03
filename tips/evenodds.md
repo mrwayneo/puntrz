@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2022-08-03 22:57:39 +1000  
+date: 2022-08-04 08:26:10 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |     14 |      3 |    -84   | 0.21 | -0.6  |
-| Last 28 Days   |     35 |      9 |   -132   | 0.26 | -0.38 |
-| Last 6 Months  |    391 |    109 |  -1647.3 | 0.28 | -0.42 |
-| Since Jan 2020 |   1664 |    462 |  -4209.5 | 0.28 | -0.25 |
+| Last 7 Days    |     12 |      2 |    -82   | 0.17 | -0.68 |
+| Last 28 Days   |     37 |      9 |   -152   | 0.24 | -0.41 |
+| Last 6 Months  |    393 |    109 |  -1667.3 | 0.28 | -0.42 |
+| Since Jan 2020 |   1666 |    462 |  -4229.5 | 0.28 | -0.25 |
 
 | finish            | date       | event                        | runner                |    win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|-------:|---------:|
-| 03:20             | 2022-08-04 | kempton R3                   | 1 Moon Watch          |   0    |    -10   |
-| 02:50             | 2022-08-04 | kempton R2                   | 4 Border Edge         |   2    |    -10   |
+| 0                 | 2022-08-04 | kempton R3                   | 1 Moon Watch          |   0    |    -10   |
+| 0                 | 2022-08-04 | kempton R2                   | 4 Border Edge         |   0    |    -10   |
 | 5                 | 2022-08-01 | darwin R8                    | 3 Autocratic          |   3.1  |    -10   |
 | 8                 | 2022-08-01 | rockhampton R6               | 1 Boom Boom Becker    |   3.7  |    -10   |
 | :2nd_place_medal: | 2022-08-01 | darwin R6                    | 3 Wolfburn            |   2.2  |    -10   |

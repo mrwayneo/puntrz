@@ -1,23 +1,23 @@
 ---   
 layout: post   
 title: "Looseknot"   
-date: 2022-08-03 22:57:43 +1000  
+date: 2022-08-04 08:26:15 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      9 |      3 |     52   | 0.33 |  0.58 |
-| Last 28 Days   |     31 |      6 |   -168   | 0.19 | -0.54 |
-| Last 6 Months  |    357 |     54 |  -2172.5 | 0.15 | -0.61 |
-| Since Jan 2020 |   1641 |    247 |  -3896.3 | 0.15 | -0.24 |
+| Last 7 Days    |      8 |      1 |    -10   | 0.12 | -0.12 |
+| Last 28 Days   |     34 |      6 |   -198   | 0.18 | -0.58 |
+| Last 6 Months  |    360 |     54 |  -2202.5 | 0.15 | -0.61 |
+| Since Jan 2020 |   1644 |    247 |  -3926.3 | 0.15 | -0.24 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 02:50             | 2022-08-04 | kempton R2                    | 5 A E Housman         |   4.4  |    -10   |
-| 01:00             | 2022-08-04 | newcastle R6                  | 7 Lelabad             |   3.9  |    -10   |
-| 00:00             | 2022-08-04 | newcastle R4                  | 5 Gold Charm          |   6    |    -10   |
+| 0                 | 2022-08-04 | kempton R2                    | 5 A E Housman         |   0    |    -10   |
+| 0                 | 2022-08-04 | newcastle R6                  | 7 Lelabad             |   0    |    -10   |
+| 0                 | 2022-08-04 | newcastle R4                  | 5 Gold Charm          |   0    |    -10   |
 | :boom:            | 2022-08-03 | chelmsford-city R3            | 3 Cotai Star          |   7    |     60   |
 | 0                 | 2022-08-03 | kempton R2                    | 12 Fariba             |   0    |    -10   |
 | 0                 | 2022-08-03 | chelmsford-city R1            | 7 Timewave            |   0    |    -10   |

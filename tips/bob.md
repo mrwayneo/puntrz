@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-08-03 22:57:48 +1000  
+date: 2022-08-04 08:26:21 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |      5 |      0 |    -50   | 0    | -1    |
-| Last 6 Months  |     48 |      4 |   -368   | 0.08 | -0.77 |
-| Since Jan 2020 |    280 |     43 |   2858.5 | 0.15 |  1.02 |
+| Last 7 Days    |      2 |      0 |    -20   | 0    | -1    |
+| Last 28 Days   |      6 |      0 |    -60   | 0    | -1    |
+| Last 6 Months  |     49 |      4 |   -378   | 0.08 | -0.77 |
+| Since Jan 2020 |    281 |     43 |   2848.5 | 0.15 |  1.01 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 00:00             | 2022-08-04 | newcastle R4                  | 7 Von Der Leyen       |  19    |    -10   |
+| 0                 | 2022-08-04 | newcastle R4                  | 7 Von Der Leyen       |   0    |    -10   |
 | 0                 | 2022-08-02 | naas R4                       | 22 Slan Abhaile       |   0    |    -10   |
 | 0                 | 2022-07-29 | galway R6                     | 9 Autumn Evening      |   0    |    -10   |
 | 0                 | 2022-07-29 | goodwood R5                   | 4 Faisal Road         |   0    |    -10   |

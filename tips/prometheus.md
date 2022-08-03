@@ -1,33 +1,33 @@
 ---   
 layout: post   
 title: "Prometheus"   
-date: 2022-08-03 22:57:43 +1000  
+date: 2022-08-04 08:26:15 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |    180 |     21 |   -214.7 | 0.12 | -0.12 |
-| Last 28 Days   |    307 |     42 |   -623.2 | 0.14 | -0.2  |
-| Last 6 Months  |   3499 |    477 | -15118.5 | 0.14 | -0.43 |
-| Since Jan 2020 |  14962 |   2332 | -29626.9 | 0.16 | -0.2  |
+| Last 7 Days    |    168 |     20 |   -625.2 | 0.12 | -0.37 |
+| Last 28 Days   |    342 |     44 |   -916.7 | 0.13 | -0.27 |
+| Last 6 Months  |   3534 |    479 | -15412   | 0.14 | -0.44 |
+| Since Jan 2020 |  14997 |   2334 | -29920.4 | 0.16 | -0.2  |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 00:35             | 2022-08-04 | greyville R8                  | 11 Voice Notes        |   0    |    -10   |
-| 00:35             | 2022-08-04 | greyville R8                  | 4 Beaded Gown         |   0    |    -10   |
-| 00:35             | 2022-08-04 | greyville R8                  | 2 Capriana            |   0    |    -10   |
-| 00:35             | 2022-08-04 | greyville R8                  | 10 Puff Of Smoke      |   0    |    -10   |
-| 00:35             | 2022-08-04 | greyville R8                  | 8 Looking Hot         |   0    |    -10   |
-| 23:55             | 2022-08-03 | greyville R7                  | 3 Lord Minver         |   0    |    -10   |
-| 23:55             | 2022-08-03 | greyville R7                  | 1 Space News          |   0    |    -10   |
-| 23:55             | 2022-08-03 | greyville R7                  | 2 Bend The Rules      |   0    |    -10   |
-| 23:55             | 2022-08-03 | greyville R7                  | 8 Teichman            |   0    |    -10   |
-| 23:55             | 2022-08-03 | greyville R7                  | 5 High Green          |   0    |    -10   |
-| 23:55             | 2022-08-03 | greyville R7                  | 6 Brave Voyager       |   0    |    -10   |
-| 23:25             | 2022-08-03 | greyville R6                  | 9 Star Crusade        |   0    |    -10   |
-| 23:25             | 2022-08-03 | greyville R6                  | 6 Fever               |   0    |    -10   |
+| 0                 | 2022-08-04 | greyville R8                  | 11 Voice Notes        |   0    |    -10   |
+| 0                 | 2022-08-04 | greyville R8                  | 4 Beaded Gown         |   0    |    -10   |
+| 0                 | 2022-08-04 | greyville R8                  | 2 Capriana            |   0    |    -10   |
+| 0                 | 2022-08-04 | greyville R8                  | 10 Puff Of Smoke      |   0    |    -10   |
+| 0                 | 2022-08-04 | greyville R8                  | 8 Looking Hot         |   0    |    -10   |
+| 0                 | 2022-08-03 | greyville R7                  | 3 Lord Minver         |   0    |    -10   |
+| 0                 | 2022-08-03 | greyville R7                  | 1 Space News          |   0    |    -10   |
+| 0                 | 2022-08-03 | greyville R7                  | 2 Bend The Rules      |   0    |    -10   |
+| 0                 | 2022-08-03 | greyville R7                  | 8 Teichman            |   0    |    -10   |
+| 0                 | 2022-08-03 | greyville R7                  | 5 High Green          |   0    |    -10   |
+| 0                 | 2022-08-03 | greyville R7                  | 6 Brave Voyager       |   0    |    -10   |
+| 0                 | 2022-08-03 | greyville R6                  | 9 Star Crusade        |   0    |    -10   |
+| 0                 | 2022-08-03 | greyville R6                  | 6 Fever               |   0    |    -10   |
 | 0                 | 2022-08-03 | greyville R5                  | 7 Kingsmeads Krystl   |   0    |    -10   |
 | 0                 | 2022-08-03 | greyville R5                  | 6 There She Goes      |   0    |    -10   |
 | 0                 | 2022-08-03 | greyville R5                  | 5 Demigod             |   0    |    -10   |
