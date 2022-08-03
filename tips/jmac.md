@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-03 14:01:45 +1000  
+date: 2022-08-03 14:16:36 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 14:35             | 2022-08-03 | canterbury R4        | 5 Mystic Mermaid     |  3.5  |    -10   |
-| 0                 | 2022-08-03 | canterbury R3        | 2 Chateaux Park      |  0    |    -10   |
+| :2nd_place_medal: | 2022-08-03 | canterbury R3        | 2 Chateaux Park      |  3.25 |    -10   |
 | :2nd_place_medal: | 2022-07-30 | rosehill-gardens R9  | 3 Enchanted Heart    |  6    |    -10   |
 | 6                 | 2022-07-30 | rosehill-gardens R7  | 9 Kirkeby            |  6.5  |    -10   |
 | :3rd_place_medal: | 2022-07-30 | rosehill-gardens R4  | 1 Lovely Esteem      |  4.75 |    -10   |
