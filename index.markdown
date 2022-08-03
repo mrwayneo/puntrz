@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-03 13:01:46 +1000  
+date: 2022-08-03 13:16:47 +1000  
 ---   
 
 
@@ -37,7 +37,6 @@ date: 2022-08-03 13:01:46 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |     -8   | 0.2  | -0.04 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     10 |    -10.5 | 0.5  | -0.05 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      8 |    -15.5 | 0.4  | -0.08 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      2 |    -64   | 0.1  | -0.32 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -69.6 | 0.4  | -0.35 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -71   | 0.25 | -0.36 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -82   | 0.15 | -0.41 |
@@ -46,6 +45,7 @@ date: 2022-08-03 13:01:46 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -135   | 0.1  | -0.68 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      3 |   -142   | 0.15 | -0.71 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |   -142   | 0.15 | -0.71 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |   -144   | 0.05 | -0.72 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      1 |   -184   | 0.05 | -0.92 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
@@ -95,6 +95,6 @@ date: 2022-08-03 13:01:46 +1000
 | 14 | :soon:            | 2022-08-03 14:00:00 | canterbury |      3 |        1 | Oz Legend        |   8    | wallbow             |
 | 15 | :soon:            | 2022-08-03 14:00:00 | canterbury |      3 |        2 | Chateaux Park    |   3.25 | jmac                |
 | 16 | :soon:            | 2022-08-03 14:00:00 | canterbury |      3 |        6 | Good Omens       |   4.8  | pikey               |
-| 17 | :soon:            | 2022-08-03 13:08:00 | eagle-farm |      1 |        2 | Montana Lady     |   3.9  | vulture             |
+| 17 | --                | 2022-08-03 13:08:00 | eagle-farm |      1 |        2 | Montana Lady     |   3.9  | vulture             |
 | 18 | :2nd_place_medal: | 2022-08-03 12:50:00 | canterbury |      1 |        4 | Ironbark Artie   |   3.3  | vulture             |
 | 19 | :3rd_place_medal: | 2022-08-03 12:50:00 | canterbury |      1 |        3 | State Of America |  16    | pikey               |
