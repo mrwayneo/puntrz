@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-03 15:57:30 +1000  
+date: 2022-08-03 16:24:02 +1000  
 ---   
 
 
@@ -9,20 +9,20 @@ date: 2022-08-03 15:57:30 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 |    0 |    -1 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 |    0 |    -1 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      2 |      0 |      -20 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      0 |      -20 |    0 |    -1 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      2 |      0 |      -20 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      2 |      0 |      -20 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      3 |      0 |      -30 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      0 |      -50 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      8 |      0 |      -80 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      9 |      0 |      -90 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     35 |      0 |     -350 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     36 |      0 |     -360 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      1 |       97 | 0.5  |  4.85 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      8 |      1 |       37 | 0.12 |  0.46 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    | -1    |
+| [lago](https://mrwayneo.github.io/tips/lago.html)             |      1 |      0 |      -10 | 0    | -1    |
+| [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      2 |      0 |      -20 | 0    | -1    |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      2 |      0 |      -20 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      2 |      0 |      -20 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      3 |      0 |      -30 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      0 |      -50 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      9 |      0 |      -90 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     35 |      0 |     -350 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     36 |      0 |     -360 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -37,7 +37,6 @@ date: 2022-08-03 15:57:30 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |     -8   | 0.2  | -0.04 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     10 |    -10.5 | 0.5  | -0.05 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      8 |    -15.5 | 0.4  | -0.08 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      2 |    -64   | 0.1  | -0.32 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -69.6 | 0.4  | -0.35 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -71   | 0.25 | -0.36 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -82   | 0.15 | -0.41 |
@@ -46,6 +45,7 @@ date: 2022-08-03 15:57:30 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -135   | 0.1  | -0.68 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      3 |   -142   | 0.15 | -0.71 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |   -142   | 0.15 | -0.71 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |   -144   | 0.05 | -0.72 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      1 |   -184   | 0.05 | -0.92 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
@@ -87,8 +87,8 @@ date: 2022-08-03 15:57:30 +1000
 |  6 | :soon:            | 2022-08-04 01:00:00 | newcastle  |      6 |        1 | Engles Rock      |   6    | vulture             |
 |  7 | :soon:            | 2022-08-04 01:00:00 | newcastle  |      6 |        7 | Lelabad          |   3.9  | looseknot           |
 |  8 | :soon:            | 2022-08-04 00:00:00 | newcastle  |      4 |        5 | Gold Charm       |   6    | looseknot           |
-|  9 | :soon:            | 2022-08-03 16:03:00 | eagle-farm |      6 |        2 | Magic Charlee    |  11    | vulture,pangea      |
-| 10 | :soon:            | 2022-08-03 16:03:00 | eagle-farm |      6 |        4 | Vendidit         |   4.5  | pangea              |
+|  9 | :boom:            | 2022-08-03 16:03:00 | eagle-farm |      6 |        2 | Magic Charlee    |  11    | vulture,pangea      |
+| 10 | :2nd_place_medal: | 2022-08-03 16:03:00 | eagle-farm |      6 |        4 | Vendidit         |   4.5  | pangea              |
 | 11 | 4.0               | 2022-08-03 14:35:00 | canterbury |      4 |        2 | And We Danced    |   3.2  | wallbow             |
 | 12 | :2nd_place_medal: | 2022-08-03 14:35:00 | canterbury |      4 |        5 | Mystic Mermaid   |   3.5  | vulture,jmac        |
 | 13 | :3rd_place_medal: | 2022-08-03 14:35:00 | canterbury |      4 |        9 | Clear Blonde     |  22    | pikey               |
