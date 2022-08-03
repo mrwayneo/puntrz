@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-08-03 14:31:40 +1000  
+date: 2022-08-03 14:46:51 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 14:35             | 2022-08-03 | canterbury R4         | 9 Clear Blonde        |  22    |    -10   |
+| :3rd_place_medal: | 2022-08-03 | canterbury R4         | 9 Clear Blonde        |  22    |    -10   |
 | 4                 | 2022-08-03 | canterbury R3         | 6 Good Omens          |   4.8  |    -10   |
 | :3rd_place_medal: | 2022-08-03 | canterbury R1         | 3 State Of America    |  16    |    -10   |
 | 11                | 2022-07-30 | rosehill-gardens R9   | 5 Animate             |  21    |    -10   |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-08-03 14:31:33 +1000  
+date: 2022-08-03 14:46:44 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
-| 14:35             | 2022-08-03 | canterbury R4       | 2 And We Danced    |  3.2  |      -10 |
+| 4                 | 2022-08-03 | canterbury R4       | 2 And We Danced    |  3.2  |      -10 |
 | :3rd_place_medal: | 2022-08-03 | canterbury R3       | 1 Oz Legend        |  8    |      -10 |
 | :boom:            | 2022-07-30 | rosehill-gardens R7 | 1 Wicklow          |  3    |       20 |
 | 6                 | 2022-07-27 | warwick-farm R7     | 4 Ocean Shores     |  4.2  |      -10 |
