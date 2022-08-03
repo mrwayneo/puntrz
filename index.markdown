@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-03 18:25:09 +1000  
+date: 2022-08-03 18:42:11 +1000  
 ---   
 
 
@@ -37,6 +37,7 @@ date: 2022-08-03 18:25:09 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      4 |     -8   | 0.2  | -0.04 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     10 |    -10.5 | 0.5  | -0.05 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      8 |    -15.5 | 0.4  | -0.08 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      2 |    -64   | 0.1  | -0.32 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -69.6 | 0.4  | -0.35 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      5 |    -71   | 0.25 | -0.36 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -82   | 0.15 | -0.41 |
@@ -45,7 +46,6 @@ date: 2022-08-03 18:25:09 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -135   | 0.1  | -0.68 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      3 |   -142   | 0.15 | -0.71 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      3 |   -142   | 0.15 | -0.71 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |   -144   | 0.05 | -0.72 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      1 |   -184   | 0.05 | -0.92 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      0 |   -200   | 0    | -1    |
