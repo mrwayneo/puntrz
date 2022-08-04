@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-04 16:43:47 +1000  
+date: 2022-08-04 19:50:40 +1000  
 ---   
 
 
@@ -10,13 +10,13 @@ date: 2022-08-04 16:43:47 +1000
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      7 |      1 |       47 | 0.14 |  0.67 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      1 |       -9 | 0.25 | -0.22 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      2 |        7 | 0.5  |  0.18 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      1 |        6 | 1    |  0.6  |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      2 |       -7 | 0.5  | -0.18 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      2 |      0 |      -20 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      2 |      0 |      -20 | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      1 |      -23 | 0.25 | -0.57 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      3 |      0 |      -30 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     19 |      1 |      -73 | 0.05 | -0.38 |
@@ -82,10 +82,10 @@ date: 2022-08-04 16:43:47 +1000
 |  3 | :soon:            | 2022-08-05 03:15:00 | leopardstown  |      4 |        3 | Cleveland       |   4.5  | vulture     |
 |  4 | :soon:            | 2022-08-05 02:53:00 | ayr           |      1 |        4 | Heresmax        |   3.7  | vulture     |
 |  5 | :soon:            | 2022-08-04 21:55:00 | vaal          |      3 |        2 | Raffles         |   0    | milkman     |
-|  6 | :soon:            | 2022-08-04 16:50:00 | kembla-grange |      8 |        2 | Regal Pom       |   1.85 | benny,jmac  |
-|  7 | --                | 2022-08-04 16:17:00 | townsville    |      8 |        4 | Gamboa          |   4.6  | pikey       |
+|  6 | :boom:            | 2022-08-04 16:50:00 | kembla-grange |      8 |        2 | Regal Pom       |   1.85 | benny,jmac  |
+|  7 | 10.0              | 2022-08-04 16:17:00 | townsville    |      8 |        4 | Gamboa          |   4.6  | pikey       |
 |  8 | :boom:            | 2022-08-04 16:17:00 | townsville    |      8 |        5 | Bakuhatsu       |   4.6  | pangea      |
-|  9 | --                | 2022-08-04 16:17:00 | townsville    |      8 |        6 | Funky Music     |  14    | cosmo,bluey |
+|  9 | 6.0               | 2022-08-04 16:17:00 | townsville    |      8 |        6 | Funky Music     |  14    | cosmo,bluey |
 | 10 | 11.0              | 2022-08-04 15:42:00 | townsville    |      7 |        5 | Modernism       |   4.33 | overthrow   |
 | 11 | 13.0              | 2022-08-04 15:42:00 | townsville    |      7 |        1 | Margie Bee      |  26    | pangea      |
 | 12 | :3rd_place_medal: | 2022-08-04 15:42:00 | townsville    |      7 |        4 | Norm's Choice   |   8    | pikey       |
