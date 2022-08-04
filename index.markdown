@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-04 19:50:40 +1000  
+date: 2022-08-04 22:37:44 +1000  
 ---   
 
 
@@ -81,7 +81,7 @@ date: 2022-08-04 19:50:40 +1000
 |  2 | :soon:            | 2022-08-05 05:05:00 | sligo         |      7 |        5 | Glendars Mahler |   0    | looseknot   |
 |  3 | :soon:            | 2022-08-05 03:15:00 | leopardstown  |      4 |        3 | Cleveland       |   4.5  | vulture     |
 |  4 | :soon:            | 2022-08-05 02:53:00 | ayr           |      1 |        4 | Heresmax        |   3.7  | vulture     |
-|  5 | :soon:            | 2022-08-04 21:55:00 | vaal          |      3 |        2 | Raffles         |   0    | milkman     |
+|  5 | :3rd_place_medal: | 2022-08-04 21:55:00 | vaal          |      3 |        2 | Raffles         |   0    | milkman     |
 |  6 | :boom:            | 2022-08-04 16:50:00 | kembla-grange |      8 |        2 | Regal Pom       |   1.85 | benny,jmac  |
 |  7 | 10.0              | 2022-08-04 16:17:00 | townsville    |      8 |        4 | Gamboa          |   4.6  | pikey       |
 |  8 | :boom:            | 2022-08-04 16:17:00 | townsville    |      8 |        5 | Bakuhatsu       |   4.6  | pangea      |
