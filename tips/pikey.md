@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-08-04 15:37:39 +1000  
+date: 2022-08-04 15:52:49 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 16:17             | 2022-08-04 | townsville R8         | 4 Gamboa              |   4.6  |    -10   |
-| 15:42             | 2022-08-04 | townsville R7         | 4 Norm's Choice       |   8    |    -10   |
+| :3rd_place_medal: | 2022-08-04 | townsville R7         | 4 Norm's Choice       |   8    |    -10   |
 | 5                 | 2022-08-04 | townsville R3         | 8 Readyentime         |   4    |    -10   |
 | :3rd_place_medal: | 2022-08-03 | canterbury R4         | 9 Clear Blonde        |  22    |    -10   |
 | 4                 | 2022-08-03 | canterbury R3         | 6 Good Omens          |   4.8  |    -10   |
