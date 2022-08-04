@@ -1,19 +1,21 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-08-04 22:52:56 +1000  
+date: 2022-08-05 08:13:31 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 28 Days   |      3 |      0 |      -30 | 0    | -1    |
-| Last 6 Months  |     43 |      4 |      603 | 0.09 |  1.4  |
-| Since Jan 2020 |    262 |     43 |     5122 | 0.16 |  1.95 |
+| Last 7 Days    |      2 |      0 |      -20 | 0    | -1    |
+| Last 28 Days   |      5 |      0 |      -50 | 0    | -1    |
+| Last 6 Months  |     45 |      4 |      583 | 0.09 |  1.3  |
+| Since Jan 2020 |    264 |     43 |     5102 | 0.16 |  1.93 |
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 15:44             | 2022-08-05 | ipswich R8             | 4 Chief Command       |  31   |      -10 |
 | 6                 | 2022-08-04 | townsville R8          | 6 Funky Music         |  14   |      -10 |
 | 12                | 2022-08-04 | coffs-harbour R4       | 3 Mariinsky           |  14   |      -10 |
 | 0                 | 2022-07-30 | southwell R1           | 5 Epic Express        |   0   |      -10 |
@@ -199,8 +201,8 @@ categories: None
 | 99                | 2021-06-12 | fairyhouse R3          | 14 Swiss Ace          |  26   |      -10 |
 | :boom:            | 2021-06-11 | swan-hill R3           | 4 Air Defence         |  10.2 |       92 |
 | 99                | 2021-06-10 | pukekura-raceway R2    | 9 Mandalay            |  51   |      -10 |
-| :boom:            | 2021-06-06 | devonport-synthetic R9 | 5 Elisavet            |  11   |      100 |
 | 4                 | 2021-06-06 | devonport-synthetic R9 | 6 Odin's Folly        |  14   |      -10 |
+| :boom:            | 2021-06-06 | devonport-synthetic R9 | 5 Elisavet            |  11   |      100 |
 | 9                 | 2021-06-06 | pinjarra R2            | 3 Halatorion          |  31   |      -10 |
 | 11                | 2021-06-05 | flemington R3          | 14 Just Folk          |  17   |      -10 |
 | 7                 | 2021-05-29 | randwick R6            | 10 Wayupinthesky      |  21   |      -10 |
