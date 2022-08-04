@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-04 15:22:50 +1000  
+date: 2022-08-04 15:37:40 +1000  
 ---   
 
 
@@ -89,7 +89,7 @@ date: 2022-08-04 15:22:50 +1000
 | 10 | :soon:            | 2022-08-04 15:42:00 | townsville    |      7 |        5 | Modernism       |   4.33 | overthrow   |
 | 11 | :soon:            | 2022-08-04 15:42:00 | townsville    |      7 |        1 | Margie Bee      |  26    | pangea      |
 | 12 | :soon:            | 2022-08-04 15:42:00 | townsville    |      7 |        4 | Norm's Choice   |   8    | pikey       |
-| 13 | :soon:            | 2022-08-04 15:35:00 | kembla-grange |      6 |        2 | Divine Okay     |   3.4  | jmac        |
+| 13 | --                | 2022-08-04 15:35:00 | kembla-grange |      6 |        2 | Divine Okay     |   3.4  | jmac        |
 | 14 | :2nd_place_medal: | 2022-08-04 14:55:00 | kembla-grange |      5 |        8 | Soobooco        |   2.75 | jmac        |
 | 15 | 12.0              | 2022-08-04 14:05:00 | coffs-harbour |      4 |        3 | Mariinsky       |  14    | cosmo,bluey |
 | 16 | :2nd_place_medal: | 2022-08-04 13:40:00 | kembla-grange |      3 |        6 | Fashion Legend  |   2.75 | pangea      |
