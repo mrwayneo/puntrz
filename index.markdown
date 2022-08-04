@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-04 13:22:55 +1000  
+date: 2022-08-04 14:37:36 +1000  
 ---   
 
 
@@ -74,24 +74,24 @@ date: 2022-08-04 13:22:55 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3414 |    468 |  -5913.2 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4543 |    168 | -19735   | 0.04 | -0.43 |
 
-|    | finish   | time                | track         |   race |   number | name            |   odds | tipster     |
-|---:|:---------|:--------------------|:--------------|-------:|---------:|:----------------|-------:|:------------|
-|  0 | :soon:   | 2022-08-05 05:32:00 | ayr           |      6 |        5 | Sophiesticate   |   0    | vulture     |
-|  1 | :soon:   | 2022-08-05 05:05:00 | sligo         |      7 |        3 | Double Pink     |   0    | overthrow   |
-|  2 | :soon:   | 2022-08-05 05:05:00 | sligo         |      7 |        5 | Glendars Mahler |   0    | looseknot   |
-|  3 | :soon:   | 2022-08-05 03:15:00 | leopardstown  |      4 |        3 | Cleveland       |   4.5  | vulture     |
-|  4 | :soon:   | 2022-08-05 02:53:00 | ayr           |      1 |        4 | Heresmax        |   3.7  | vulture     |
-|  5 | :soon:   | 2022-08-04 21:55:00 | vaal          |      3 |        2 | Raffles         |   0    | milkman     |
-|  6 | :soon:   | 2022-08-04 16:50:00 | kembla-grange |      8 |        2 | Regal Pom       |   1.85 | benny,jmac  |
-|  7 | :soon:   | 2022-08-04 16:17:00 | townsville    |      8 |        4 | Gamboa          |   4.6  | pikey       |
-|  8 | :soon:   | 2022-08-04 16:17:00 | townsville    |      8 |        5 | Bakuhatsu       |   4.6  | pangea      |
-|  9 | :soon:   | 2022-08-04 16:17:00 | townsville    |      8 |        6 | Funky Music     |  14    | cosmo,bluey |
-| 10 | :soon:   | 2022-08-04 15:42:00 | townsville    |      7 |        5 | Modernism       |   4.33 | overthrow   |
-| 11 | :soon:   | 2022-08-04 15:42:00 | townsville    |      7 |        1 | Margie Bee      |  26    | pangea      |
-| 12 | :soon:   | 2022-08-04 15:42:00 | townsville    |      7 |        4 | Norm's Choice   |   8    | pikey       |
-| 13 | :soon:   | 2022-08-04 15:35:00 | kembla-grange |      6 |        2 | Divine Okay     |   3.4  | jmac        |
-| 14 | :soon:   | 2022-08-04 14:55:00 | kembla-grange |      5 |        8 | Soobooco        |   2.75 | jmac        |
-| 15 | :soon:   | 2022-08-04 14:05:00 | coffs-harbour |      4 |        3 | Mariinsky       |  14    | cosmo,bluey |
-| 16 | :soon:   | 2022-08-04 13:40:00 | kembla-grange |      3 |        6 | Fashion Legend  |   2.75 | pangea      |
-| 17 | --       | 2022-08-04 13:12:00 | townsville    |      3 |        8 | Readyentime     |   4    | pikey       |
-| 18 | :boom:   | 2022-08-04 13:05:00 | kembla-grange |      2 |        1 | Arnold          |   1.6  | jmac        |
+|    | finish            | time                | track         |   race |   number | name            |   odds | tipster     |
+|---:|:------------------|:--------------------|:--------------|-------:|---------:|:----------------|-------:|:------------|
+|  0 | :soon:            | 2022-08-05 05:32:00 | ayr           |      6 |        5 | Sophiesticate   |   0    | vulture     |
+|  1 | :soon:            | 2022-08-05 05:05:00 | sligo         |      7 |        3 | Double Pink     |   0    | overthrow   |
+|  2 | :soon:            | 2022-08-05 05:05:00 | sligo         |      7 |        5 | Glendars Mahler |   0    | looseknot   |
+|  3 | :soon:            | 2022-08-05 03:15:00 | leopardstown  |      4 |        3 | Cleveland       |   4.5  | vulture     |
+|  4 | :soon:            | 2022-08-05 02:53:00 | ayr           |      1 |        4 | Heresmax        |   3.7  | vulture     |
+|  5 | :soon:            | 2022-08-04 21:55:00 | vaal          |      3 |        2 | Raffles         |   0    | milkman     |
+|  6 | :soon:            | 2022-08-04 16:50:00 | kembla-grange |      8 |        2 | Regal Pom       |   1.85 | benny,jmac  |
+|  7 | :soon:            | 2022-08-04 16:17:00 | townsville    |      8 |        4 | Gamboa          |   4.6  | pikey       |
+|  8 | :soon:            | 2022-08-04 16:17:00 | townsville    |      8 |        5 | Bakuhatsu       |   4.6  | pangea      |
+|  9 | :soon:            | 2022-08-04 16:17:00 | townsville    |      8 |        6 | Funky Music     |  14    | cosmo,bluey |
+| 10 | :soon:            | 2022-08-04 15:42:00 | townsville    |      7 |        5 | Modernism       |   4.33 | overthrow   |
+| 11 | :soon:            | 2022-08-04 15:42:00 | townsville    |      7 |        1 | Margie Bee      |  26    | pangea      |
+| 12 | :soon:            | 2022-08-04 15:42:00 | townsville    |      7 |        4 | Norm's Choice   |   8    | pikey       |
+| 13 | :soon:            | 2022-08-04 15:35:00 | kembla-grange |      6 |        2 | Divine Okay     |   3.4  | jmac        |
+| 14 | :soon:            | 2022-08-04 14:55:00 | kembla-grange |      5 |        8 | Soobooco        |   2.75 | jmac        |
+| 15 | --                | 2022-08-04 14:05:00 | coffs-harbour |      4 |        3 | Mariinsky       |  14    | cosmo,bluey |
+| 16 | :2nd_place_medal: | 2022-08-04 13:40:00 | kembla-grange |      3 |        6 | Fashion Legend  |   2.75 | pangea      |
+| 17 | 5.0               | 2022-08-04 13:12:00 | townsville    |      3 |        8 | Readyentime     |   4    | pikey       |
+| 18 | :boom:            | 2022-08-04 13:05:00 | kembla-grange |      2 |        1 | Arnold          |   1.6  | jmac        |
