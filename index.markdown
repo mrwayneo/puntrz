@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-04 13:07:36 +1000  
+date: 2022-08-04 13:22:55 +1000  
 ---   
 
 
@@ -9,18 +9,18 @@ date: 2022-08-04 13:07:36 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      2 |      0 |      -20 |    0 |    -1 |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      2 |      0 |      -20 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      3 |      0 |      -30 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      3 |      0 |      -30 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      0 |      -40 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      7 |      0 |      -70 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     19 |      0 |     -190 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     27 |      0 |     -270 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      1 |      0 |      -10 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      2 |      0 |      -20 | 0    | -1    |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      2 |      0 |      -20 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      4 |      1 |      -23 | 0.25 | -0.57 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      3 |      0 |      -30 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      3 |      0 |      -30 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      7 |      0 |      -70 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     19 |      0 |     -190 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     27 |      0 |     -270 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -93,5 +93,5 @@ date: 2022-08-04 13:07:36 +1000
 | 14 | :soon:   | 2022-08-04 14:55:00 | kembla-grange |      5 |        8 | Soobooco        |   2.75 | jmac        |
 | 15 | :soon:   | 2022-08-04 14:05:00 | coffs-harbour |      4 |        3 | Mariinsky       |  14    | cosmo,bluey |
 | 16 | :soon:   | 2022-08-04 13:40:00 | kembla-grange |      3 |        6 | Fashion Legend  |   2.75 | pangea      |
-| 17 | :soon:   | 2022-08-04 13:12:00 | townsville    |      3 |        8 | Readyentime     |   4    | pikey       |
-| 18 | --       | 2022-08-04 13:05:00 | kembla-grange |      2 |        1 | Arnold          |   1.6  | jmac        |
+| 17 | --       | 2022-08-04 13:12:00 | townsville    |      3 |        8 | Readyentime     |   4    | pikey       |
+| 18 | :boom:   | 2022-08-04 13:05:00 | kembla-grange |      2 |        1 | Arnold          |   1.6  | jmac        |
