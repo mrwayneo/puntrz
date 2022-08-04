@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-04 12:52:25 +1000  
+date: 2022-08-04 13:07:36 +1000  
 ---   
 
 
@@ -94,4 +94,4 @@ date: 2022-08-04 12:52:25 +1000
 | 15 | :soon:   | 2022-08-04 14:05:00 | coffs-harbour |      4 |        3 | Mariinsky       |  14    | cosmo,bluey |
 | 16 | :soon:   | 2022-08-04 13:40:00 | kembla-grange |      3 |        6 | Fashion Legend  |   2.75 | pangea      |
 | 17 | :soon:   | 2022-08-04 13:12:00 | townsville    |      3 |        8 | Readyentime     |   4    | pikey       |
-| 18 | :soon:   | 2022-08-04 13:05:00 | kembla-grange |      2 |        1 | Arnold          |   1.6  | jmac        |
+| 18 | --       | 2022-08-04 13:05:00 | kembla-grange |      2 |        1 | Arnold          |   1.6  | jmac        |
