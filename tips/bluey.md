@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-08-04 14:37:35 +1000  
+date: 2022-08-04 14:52:45 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
 | 16:17             | 2022-08-04 | townsville R8          | 6 Funky Music         |  14   |      -10 |
-| 0                 | 2022-08-04 | coffs-harbour R4       | 3 Mariinsky           |   0   |      -10 |
+| 12                | 2022-08-04 | coffs-harbour R4       | 3 Mariinsky           |  14   |      -10 |
 | 0                 | 2022-07-30 | southwell R1           | 5 Epic Express        |   0   |      -10 |
 | :2nd_place_medal: | 2022-07-28 | scottsville R8         | 15 Quest For The Best |  10   |      -10 |
 | 99                | 2022-07-26 | vaal R4                | 8 Bad Hair Day        |   0   |      -10 |
@@ -199,8 +199,8 @@ categories: None
 | 99                | 2021-06-12 | fairyhouse R3          | 14 Swiss Ace          |  26   |      -10 |
 | :boom:            | 2021-06-11 | swan-hill R3           | 4 Air Defence         |  10.2 |       92 |
 | 99                | 2021-06-10 | pukekura-raceway R2    | 9 Mandalay            |  51   |      -10 |
-| 4                 | 2021-06-06 | devonport-synthetic R9 | 6 Odin's Folly        |  14   |      -10 |
 | :boom:            | 2021-06-06 | devonport-synthetic R9 | 5 Elisavet            |  11   |      100 |
+| 4                 | 2021-06-06 | devonport-synthetic R9 | 6 Odin's Folly        |  14   |      -10 |
 | 9                 | 2021-06-06 | pinjarra R2            | 3 Halatorion          |  31   |      -10 |
 | 11                | 2021-06-05 | flemington R3          | 14 Just Folk          |  17   |      -10 |
 | 7                 | 2021-05-29 | randwick R6            | 10 Wayupinthesky      |  21   |      -10 |
