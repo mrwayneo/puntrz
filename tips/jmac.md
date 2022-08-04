@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-04 14:52:45 +1000  
+date: 2022-08-04 15:07:37 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 16:50             | 2022-08-04 | kembla-grange R8     | 2 Regal Pom          |  1.85 |    -10   |
 | 15:35             | 2022-08-04 | kembla-grange R6     | 2 Divine Okay        |  3.4  |    -10   |
-| 14:55             | 2022-08-04 | kembla-grange R5     | 8 Soobooco           |  2.75 |    -10   |
+| :2nd_place_medal: | 2022-08-04 | kembla-grange R5     | 8 Soobooco           |  2.75 |    -10   |
 | :boom:            | 2022-08-04 | kembla-grange R2     | 1 Arnold             |  1.7  |      7   |
 | :2nd_place_medal: | 2022-08-03 | canterbury R4        | 5 Mystic Mermaid     |  3.5  |    -10   |
 | :2nd_place_medal: | 2022-08-03 | canterbury R3        | 2 Chateaux Park      |  3.25 |    -10   |
