@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-05 16:42:26 +1000  
+date: 2022-08-05 16:57:23 +1000  
 ---   
 
 
@@ -80,12 +80,12 @@ date: 2022-08-05 16:42:26 +1000
 |  3 | :soon:            | 2022-08-06 02:50:00 | wexford   |      3 |        7 | Well Polly         |   4.8  | looseknot            |
 |  4 | 103.0             | 2022-08-05 16:50:00 | scone     |      8 |        3 | Pad Thai           |   6.5  | evenodds,blackshadow |
 |  5 | 103.0             | 2022-08-05 16:50:00 | scone     |      8 |        9 | Rockbarton Ruby    |   5    | pangea               |
-|  6 | --                | 2022-08-05 16:24:00 | ipswich   |      9 |        7 | Jetski             |   0    | pangea               |
+|  6 | 4.0               | 2022-08-05 16:24:00 | ipswich   |      9 |        7 | Jetski             |   0    | pangea               |
 |  7 | 103.0             | 2022-08-05 16:10:00 | scone     |      7 |        7 | Just Like Lisa     |   4.33 | pangea               |
 |  8 | 103.0             | 2022-08-05 15:53:00 | canberra  |      6 |        8 | Dona Antonia       |   6    | overthrow            |
 |  9 | 103.0             | 2022-08-05 15:53:00 | canberra  |      6 |        7 | Chaotic Beauty     |   0    | overthrow            |
 | 10 | :3rd_place_medal: | 2022-08-05 15:44:00 | ipswich   |      8 |        8 | Sir Gunsen         |   5    | evenodds,overthrow   |
-| 11 | --                | 2022-08-05 15:44:00 | ipswich   |      8 |        4 | Chief Command      |  31    | pangea,bluey         |
+| 11 | 12.0              | 2022-08-05 15:44:00 | ipswich   |      8 |        4 | Chief Command      |  31    | pangea,bluey         |
 | 12 | 103.0             | 2022-08-05 14:41:00 | canberra  |      4 |        3 | Leather Jacket Lew |   7    | overthrow            |
 | 13 | :boom:            | 2022-08-05 13:59:00 | ipswich   |      5 |        6 | Mahia              |   3.3  | pangea               |
 | 14 | 103.0             | 2022-08-05 13:10:00 | scone     |      2 |        3 | The Mitchell Snail |   4.4  | milkman              |
