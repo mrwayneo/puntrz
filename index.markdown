@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-06 07:55:55 +1000  
+date: 2022-08-06 08:05:40 +1000  
 ---   
 
 
@@ -74,25 +74,32 @@ date: 2022-08-06 07:55:55 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3449 |    475 |  -5685.9 | 0.14 | -0.16 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4481 |    164 | -19517   | 0.04 | -0.44 |
 
-|    | finish            | time                | track     |   race |   number | name               |   odds | tipster              |
-|---:|:------------------|:--------------------|:----------|-------:|---------:|:-------------------|-------:|:---------------------|
-|  0 | --                | 2022-08-06 05:10:00 | wexford   |      7 |        5 | Just Hannah        |   0    | milkman              |
-|  1 | 4.0               | 2022-08-06 03:45:00 | tipperary |      4 |        1 | Greenland          |   0    | vulture              |
-|  2 | :2nd_place_medal: | 2022-08-06 02:50:00 | wexford   |      3 |        8 | Good Man Turk      |   9    | looseknot            |
-|  3 | --                | 2022-08-06 02:50:00 | wexford   |      3 |        7 | Well Polly         |   4.8  | looseknot            |
-|  4 | 103.0             | 2022-08-05 16:50:00 | scone     |      8 |        3 | Pad Thai           |   6.5  | evenodds,blackshadow |
-|  5 | 103.0             | 2022-08-05 16:50:00 | scone     |      8 |        9 | Rockbarton Ruby    |   5    | pangea               |
-|  6 | 4.0               | 2022-08-05 16:24:00 | ipswich   |      9 |        7 | Jetski             |   0    | pangea               |
-|  7 | 103.0             | 2022-08-05 16:10:00 | scone     |      7 |        7 | Just Like Lisa     |   4.33 | pangea               |
-|  8 | 103.0             | 2022-08-05 15:53:00 | canberra  |      6 |        8 | Dona Antonia       |   6    | overthrow            |
-|  9 | 103.0             | 2022-08-05 15:53:00 | canberra  |      6 |        7 | Chaotic Beauty     |   0    | overthrow            |
-| 10 | :3rd_place_medal: | 2022-08-05 15:44:00 | ipswich   |      8 |        8 | Sir Gunsen         |   5    | evenodds,overthrow   |
-| 11 | 12.0              | 2022-08-05 15:44:00 | ipswich   |      8 |        4 | Chief Command      |  31    | pangea,bluey         |
-| 12 | 103.0             | 2022-08-05 14:41:00 | canberra  |      4 |        3 | Leather Jacket Lew |   7    | overthrow            |
-| 13 | :boom:            | 2022-08-05 13:59:00 | ipswich   |      5 |        6 | Mahia              |   3.3  | pangea               |
-| 14 | 103.0             | 2022-08-05 13:10:00 | scone     |      2 |        3 | The Mitchell Snail |   4.4  | milkman              |
-| 15 | :boom:            | 2022-08-05 12:49:00 | ipswich   |      3 |        8 | Aqua Alta          |   2.2  | milkman              |
-| 16 | :3rd_place_medal: | 2022-08-05 12:49:00 | ipswich   |      3 |        4 | Loca               |   4.5  | pangea,looseknot     |
-| 17 | 103.0             | 2022-08-05 12:35:00 | scone     |      1 |        7 | Sammiballerina     |   3.3  | milkman              |
-| 18 | 103.0             | 2022-08-05 12:35:00 | scone     |      1 |        2 | Don't Doubt Katie  |   3.4  | evenodds,overthrow   |
-| 19 | :3rd_place_medal: | 2022-08-05 12:10:00 | ipswich   |      2 |        5 | Sequesay           |   1.9  | pangea               |
+|    | finish   | time                | track     |   race |   number | name               |   odds | tipster         |
+|---:|:---------|:--------------------|:----------|-------:|---------:|:-------------------|-------:|:----------------|
+|  0 | :soon:   | 2022-08-07 05:25:00 | kilbeggan |      7 |       12 | Leitrim Park       |   0    | overthrow       |
+|  1 | :soon:   | 2022-08-07 05:25:00 | kilbeggan |      7 |       11 | Hermine            |   0    | overthrow       |
+|  2 | :soon:   | 2022-08-07 03:45:00 | ayr       |      3 |        9 | Ayr Poet           |   0    | vulture         |
+|  3 | :soon:   | 2022-08-07 02:20:00 | kilbeggan |      1 |        3 | Nikini             |   1.45 | overthrow       |
+|  4 | :soon:   | 2022-08-07 01:15:00 | curragh   |      6 |        4 | Little Big Bear    |   3.2  | vulture         |
+|  5 | :soon:   | 2022-08-07 01:15:00 | curragh   |      6 |        3 | Bradsell           |   2.35 | milkman         |
+|  6 | :soon:   | 2022-08-07 00:45:00 | curragh   |      5 |        7 | In Ecstasy         |   6    | milkman         |
+|  7 | :soon:   | 2022-08-06 23:05:00 | curragh   |      2 |        1 | Basil Martini      |   5.5  | vulture         |
+|  8 | :soon:   | 2022-08-06 16:50:00 | randwick  |     10 |        6 | Belsielle          |  14    | pikey           |
+|  9 | :soon:   | 2022-08-06 16:50:00 | randwick  |     10 |        9 | Brazen Song        |  20    | pangea          |
+| 10 | :soon:   | 2022-08-06 16:50:00 | randwick  |     10 |        2 | Jal Lei            |   5.5  | vulture,jmac    |
+| 11 | :soon:   | 2022-08-06 16:15:00 | randwick  |      9 |        1 | Bold Mac           |   5.5  | vulture,wallbow |
+| 12 | :soon:   | 2022-08-06 16:15:00 | randwick  |      9 |        4 | Il Affare          |   4.75 | jmac            |
+| 13 | :soon:   | 2022-08-06 16:15:00 | randwick  |      9 |       10 | Fiordland          |   9    | pikey           |
+| 14 | :soon:   | 2022-08-06 16:15:00 | randwick  |      9 |        2 | Contributingfactor |   4.5  | pangea          |
+| 15 | :soon:   | 2022-08-06 15:35:00 | randwick  |      8 |       10 | Belluci Babe       |   5    | jmac            |
+| 16 | :soon:   | 2022-08-06 15:35:00 | randwick  |      8 |        2 | Hilal              |  12    | pikey           |
+| 17 | :soon:   | 2022-08-06 14:15:00 | randwick  |      6 |        6 | Smirnova           |   4.2  | pikey           |
+| 18 | :soon:   | 2022-08-06 13:40:00 | randwick  |      5 |        9 | Daralina Belle     |   3.75 | pikey           |
+| 19 | :soon:   | 2022-08-06 13:40:00 | randwick  |      5 |        5 | Niffler            |   6    | pangea,jmac     |
+| 20 | :soon:   | 2022-08-06 13:40:00 | randwick  |      5 |        7 | Pizarro            |   2.8  | pangea          |
+| 21 | :soon:   | 2022-08-06 13:05:00 | randwick  |      4 |       10 | Coodarady          |   4.75 | vulture,jmac    |
+| 22 | :soon:   | 2022-08-06 13:05:00 | randwick  |      4 |       13 | Conqueror          |   2.3  | pikey           |
+| 23 | :soon:   | 2022-08-06 12:30:00 | randwick  |      3 |        1 | Cadre Du Noir      |   4.75 | pangea,jmac     |
+| 24 | :soon:   | 2022-08-06 12:30:00 | randwick  |      3 |        6 | Yggdrasil          |   7    | pikey           |
+| 25 | :soon:   | 2022-08-06 11:55:00 | randwick  |      2 |        5 | Bazooka            |   3.8  | jmac            |
+| 26 | :soon:   | 2022-08-06 11:55:00 | randwick  |      2 |        1 | Highly Desired     |   4.5  | vulture         |
