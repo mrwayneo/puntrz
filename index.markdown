@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-05 15:42:21 +1000  
+date: 2022-08-05 15:57:21 +1000  
 ---   
 
 
@@ -84,8 +84,8 @@ date: 2022-08-05 15:42:21 +1000
 |  7 | 103.0             | 2022-08-05 16:10:00 | scone     |      7 |        7 | Just Like Lisa     |   4.33 | pangea               |
 |  8 | 103.0             | 2022-08-05 15:53:00 | canberra  |      6 |        8 | Dona Antonia       |   6    | overthrow            |
 |  9 | 103.0             | 2022-08-05 15:53:00 | canberra  |      6 |        7 | Chaotic Beauty     |   0    | overthrow            |
-| 10 | :soon:            | 2022-08-05 15:44:00 | ipswich   |      8 |        8 | Sir Gunsen         |   5    | evenodds,overthrow   |
-| 11 | :soon:            | 2022-08-05 15:44:00 | ipswich   |      8 |        4 | Chief Command      |  31    | pangea,bluey         |
+| 10 | --                | 2022-08-05 15:44:00 | ipswich   |      8 |        8 | Sir Gunsen         |   5    | evenodds,overthrow   |
+| 11 | --                | 2022-08-05 15:44:00 | ipswich   |      8 |        4 | Chief Command      |  31    | pangea,bluey         |
 | 12 | 103.0             | 2022-08-05 14:41:00 | canberra  |      4 |        3 | Leather Jacket Lew |   7    | overthrow            |
 | 13 | :boom:            | 2022-08-05 13:59:00 | ipswich   |      5 |        6 | Mahia              |   3.3  | pangea               |
 | 14 | 103.0             | 2022-08-05 13:10:00 | scone     |      2 |        3 | The Mitchell Snail |   4.4  | milkman              |
