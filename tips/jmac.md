@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-06 07:10:50 +1000  
+date: 2022-08-06 07:17:45 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,13 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 16:50             | 2022-08-06 | randwick R10         | 2 Jal Lei            |  5.5  |    -10   |
+| 16:15             | 2022-08-06 | randwick R9          | 4 Il Affare          |  4.75 |    -10   |
+| 15:35             | 2022-08-06 | randwick R8          | 10 Belluci Babe      |  5    |    -10   |
+| 13:40             | 2022-08-06 | randwick R5          | 5 Niffler            |  6    |    -10   |
+| 13:05             | 2022-08-06 | randwick R4          | 10 Coodarady         |  4.75 |    -10   |
+| 12:30             | 2022-08-06 | randwick R3          | 1 Cadre Du Noir      |  4.75 |    -10   |
+| 11:55             | 2022-08-06 | randwick R2          | 5 Bazooka            |  3.8  |    -10   |
 | :boom:            | 2022-08-04 | kembla-grange R8     | 2 Regal Pom          |  1.6  |      6   |
 | 5                 | 2022-08-04 | kembla-grange R6     | 2 Divine Okay        |  3.4  |    -10   |
 | :2nd_place_medal: | 2022-08-04 | kembla-grange R5     | 8 Soobooco           |  2.75 |    -10   |
