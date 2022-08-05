@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-05 11:58:31 +1000  
+date: 2022-08-05 12:13:54 +1000  
 ---   
 
 
@@ -93,4 +93,4 @@ date: 2022-08-05 11:58:31 +1000
 | 16 | :soon:   | 2022-08-05 12:49:00 | ipswich   |      3 |        4 | Loca               |   4.5  | pangea,looseknot     |
 | 17 | 103.0    | 2022-08-05 12:35:00 | scone     |      1 |        7 | Sammiballerina     |   3.3  | milkman              |
 | 18 | 103.0    | 2022-08-05 12:35:00 | scone     |      1 |        2 | Don't Doubt Katie  |   3.4  | evenodds,overthrow   |
-| 19 | :soon:   | 2022-08-05 12:10:00 | ipswich   |      2 |        5 | Sequesay           |   1.9  | pangea               |
+| 19 | --       | 2022-08-05 12:10:00 | ipswich   |      2 |        5 | Sequesay           |   1.9  | pangea               |
