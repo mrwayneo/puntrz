@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-05 12:41:19 +1000  
+date: 2022-08-05 14:09:44 +1000  
 ---   
 
 
@@ -9,16 +9,16 @@ date: 2022-08-05 12:41:19 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      1 |      0 |      -10 |    0 |    -1 |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      0 |      -20 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      3 |      0 |      -30 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      6 |      0 |      -60 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     28 |      0 |     -280 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     46 |      0 |     -460 |    0 |    -1 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      1 |       -1 | 0.5  | -0.05 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      1 |      0 |      -10 | 0    | -1    |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      3 |      0 |      -30 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      6 |      0 |      -60 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     28 |      0 |     -280 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     46 |      1 |     -419 | 0.02 | -0.91 |
 
 ##### Form Last 20 tips   
 
@@ -72,25 +72,25 @@ date: 2022-08-05 12:41:19 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3408 |    467 |  -5894.2 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4527 |    168 | -19548   | 0.04 | -0.43 |
 
-|    | finish   | time                | track     |   race |   number | name               |   odds | tipster              |
-|---:|:---------|:--------------------|:----------|-------:|---------:|:-------------------|-------:|:---------------------|
-|  0 | :soon:   | 2022-08-06 05:10:00 | wexford   |      7 |        5 | Just Hannah        |   0    | milkman              |
-|  1 | :soon:   | 2022-08-06 03:45:00 | tipperary |      4 |        1 | Greenland          |   0    | vulture              |
-|  2 | :soon:   | 2022-08-06 02:50:00 | wexford   |      3 |        8 | Good Man Turk      |   9    | looseknot            |
-|  3 | :soon:   | 2022-08-06 02:50:00 | wexford   |      3 |        7 | Well Polly         |   4.8  | looseknot            |
-|  4 | 103.0    | 2022-08-05 16:50:00 | scone     |      8 |        3 | Pad Thai           |   6.5  | evenodds,blackshadow |
-|  5 | 103.0    | 2022-08-05 16:50:00 | scone     |      8 |        9 | Rockbarton Ruby    |   5    | pangea               |
-|  6 | :soon:   | 2022-08-05 16:24:00 | ipswich   |      9 |        7 | Jetski             |   0    | pangea               |
-|  7 | 103.0    | 2022-08-05 16:10:00 | scone     |      7 |        7 | Just Like Lisa     |   4.33 | pangea               |
-|  8 | 103.0    | 2022-08-05 15:53:00 | canberra  |      6 |        8 | Dona Antonia       |   6    | overthrow            |
-|  9 | 103.0    | 2022-08-05 15:53:00 | canberra  |      6 |        7 | Chaotic Beauty     |   0    | overthrow            |
-| 10 | :soon:   | 2022-08-05 15:44:00 | ipswich   |      8 |        8 | Sir Gunsen         |   5    | evenodds,overthrow   |
-| 11 | :soon:   | 2022-08-05 15:44:00 | ipswich   |      8 |        4 | Chief Command      |  31    | pangea,bluey         |
-| 12 | 103.0    | 2022-08-05 14:41:00 | canberra  |      4 |        3 | Leather Jacket Lew |   7    | overthrow            |
-| 13 | :soon:   | 2022-08-05 13:59:00 | ipswich   |      5 |        6 | Mahia              |   3.3  | pangea               |
-| 14 | 103.0    | 2022-08-05 13:10:00 | scone     |      2 |        3 | The Mitchell Snail |   4.4  | milkman              |
-| 15 | :soon:   | 2022-08-05 12:49:00 | ipswich   |      3 |        8 | Aqua Alta          |   2.2  | milkman              |
-| 16 | :soon:   | 2022-08-05 12:49:00 | ipswich   |      3 |        4 | Loca               |   4.5  | pangea,looseknot     |
-| 17 | 103.0    | 2022-08-05 12:35:00 | scone     |      1 |        7 | Sammiballerina     |   3.3  | milkman              |
-| 18 | 103.0    | 2022-08-05 12:35:00 | scone     |      1 |        2 | Don't Doubt Katie  |   3.4  | evenodds,overthrow   |
-| 19 | --       | 2022-08-05 12:10:00 | ipswich   |      2 |        5 | Sequesay           |   1.9  | pangea               |
+|    | finish            | time                | track     |   race |   number | name               |   odds | tipster              |
+|---:|:------------------|:--------------------|:----------|-------:|---------:|:-------------------|-------:|:---------------------|
+|  0 | :soon:            | 2022-08-06 05:10:00 | wexford   |      7 |        5 | Just Hannah        |   0    | milkman              |
+|  1 | :soon:            | 2022-08-06 03:45:00 | tipperary |      4 |        1 | Greenland          |   0    | vulture              |
+|  2 | :soon:            | 2022-08-06 02:50:00 | wexford   |      3 |        8 | Good Man Turk      |   9    | looseknot            |
+|  3 | :soon:            | 2022-08-06 02:50:00 | wexford   |      3 |        7 | Well Polly         |   4.8  | looseknot            |
+|  4 | 103.0             | 2022-08-05 16:50:00 | scone     |      8 |        3 | Pad Thai           |   6.5  | evenodds,blackshadow |
+|  5 | 103.0             | 2022-08-05 16:50:00 | scone     |      8 |        9 | Rockbarton Ruby    |   5    | pangea               |
+|  6 | :soon:            | 2022-08-05 16:24:00 | ipswich   |      9 |        7 | Jetski             |   0    | pangea               |
+|  7 | 103.0             | 2022-08-05 16:10:00 | scone     |      7 |        7 | Just Like Lisa     |   4.33 | pangea               |
+|  8 | 103.0             | 2022-08-05 15:53:00 | canberra  |      6 |        8 | Dona Antonia       |   6    | overthrow            |
+|  9 | 103.0             | 2022-08-05 15:53:00 | canberra  |      6 |        7 | Chaotic Beauty     |   0    | overthrow            |
+| 10 | :soon:            | 2022-08-05 15:44:00 | ipswich   |      8 |        8 | Sir Gunsen         |   5    | evenodds,overthrow   |
+| 11 | :soon:            | 2022-08-05 15:44:00 | ipswich   |      8 |        4 | Chief Command      |  31    | pangea,bluey         |
+| 12 | 103.0             | 2022-08-05 14:41:00 | canberra  |      4 |        3 | Leather Jacket Lew |   7    | overthrow            |
+| 13 | --                | 2022-08-05 13:59:00 | ipswich   |      5 |        6 | Mahia              |   3.3  | pangea               |
+| 14 | 103.0             | 2022-08-05 13:10:00 | scone     |      2 |        3 | The Mitchell Snail |   4.4  | milkman              |
+| 15 | :boom:            | 2022-08-05 12:49:00 | ipswich   |      3 |        8 | Aqua Alta          |   2.2  | milkman              |
+| 16 | :3rd_place_medal: | 2022-08-05 12:49:00 | ipswich   |      3 |        4 | Loca               |   4.5  | pangea,looseknot     |
+| 17 | 103.0             | 2022-08-05 12:35:00 | scone     |      1 |        7 | Sammiballerina     |   3.3  | milkman              |
+| 18 | 103.0             | 2022-08-05 12:35:00 | scone     |      1 |        2 | Don't Doubt Katie  |   3.4  | evenodds,overthrow   |
+| 19 | :3rd_place_medal: | 2022-08-05 12:10:00 | ipswich   |      2 |        5 | Sequesay           |   1.9  | pangea               |
