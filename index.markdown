@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-05 14:09:44 +1000  
+date: 2022-08-05 15:42:21 +1000  
 ---   
 
 
@@ -15,8 +15,8 @@ date: 2022-08-05 14:09:44 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      3 |      0 |      -30 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      3 |      0 |      -30 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      6 |      1 |      -37 | 0.17 | -0.62 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      6 |      0 |      -60 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     28 |      0 |     -280 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     46 |      1 |     -419 | 0.02 | -0.91 |
 
@@ -87,7 +87,7 @@ date: 2022-08-05 14:09:44 +1000
 | 10 | :soon:            | 2022-08-05 15:44:00 | ipswich   |      8 |        8 | Sir Gunsen         |   5    | evenodds,overthrow   |
 | 11 | :soon:            | 2022-08-05 15:44:00 | ipswich   |      8 |        4 | Chief Command      |  31    | pangea,bluey         |
 | 12 | 103.0             | 2022-08-05 14:41:00 | canberra  |      4 |        3 | Leather Jacket Lew |   7    | overthrow            |
-| 13 | --                | 2022-08-05 13:59:00 | ipswich   |      5 |        6 | Mahia              |   3.3  | pangea               |
+| 13 | :boom:            | 2022-08-05 13:59:00 | ipswich   |      5 |        6 | Mahia              |   3.3  | pangea               |
 | 14 | 103.0             | 2022-08-05 13:10:00 | scone     |      2 |        3 | The Mitchell Snail |   4.4  | milkman              |
 | 15 | :boom:            | 2022-08-05 12:49:00 | ipswich   |      3 |        8 | Aqua Alta          |   2.2  | milkman              |
 | 16 | :3rd_place_medal: | 2022-08-05 12:49:00 | ipswich   |      3 |        4 | Loca               |   4.5  | pangea,looseknot     |
