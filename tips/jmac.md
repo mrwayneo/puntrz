@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-06 15:26:11 +1000  
+date: 2022-08-06 15:41:05 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 16:50             | 2022-08-06 | randwick R10         | 2 Jal Lei            |  5.5  |    -10   |
 | 16:15             | 2022-08-06 | randwick R9          | 4 Il Affare          |  4.75 |    -10   |
-| 15:35             | 2022-08-06 | randwick R8          | 10 Belluci Babe      |  5    |    -10   |
+| 0                 | 2022-08-06 | randwick R8          | 10 Belluci Babe      |  0    |    -10   |
 | 7                 | 2022-08-06 | randwick R5          | 5 Niffler            |  6    |    -10   |
 | 8                 | 2022-08-06 | randwick R4          | 10 Coodarady         |  4.75 |    -10   |
 | :boom:            | 2022-08-06 | randwick R3          | 1 Cadre Du Noir      |  4.2  |     32   |

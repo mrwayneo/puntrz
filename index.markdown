@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-06 15:26:13 +1000  
+date: 2022-08-06 15:41:07 +1000  
 ---   
 
 
@@ -91,8 +91,8 @@ date: 2022-08-06 15:26:13 +1000
 | 12 | :soon:            | 2022-08-06 16:15:00 | randwick  |      9 |        4 | Il Affare          |   4.75 | jmac            |
 | 13 | :soon:            | 2022-08-06 16:15:00 | randwick  |      9 |       10 | Fiordland          |   9    | pikey           |
 | 14 | :soon:            | 2022-08-06 16:15:00 | randwick  |      9 |        2 | Contributingfactor |   4.5  | pangea          |
-| 15 | :soon:            | 2022-08-06 15:35:00 | randwick  |      8 |       10 | Belluci Babe       |   5    | jmac            |
-| 16 | :soon:            | 2022-08-06 15:35:00 | randwick  |      8 |        2 | Hilal              |  12    | pikey           |
+| 15 | --                | 2022-08-06 15:35:00 | randwick  |      8 |       10 | Belluci Babe       |   5    | jmac            |
+| 16 | --                | 2022-08-06 15:35:00 | randwick  |      8 |        2 | Hilal              |  12    | pikey           |
 | 17 | --                | 2022-08-06 14:15:00 | randwick  |      6 |        6 | Smirnova           |   4.2  | pikey           |
 | 18 | 6.0               | 2022-08-06 13:40:00 | randwick  |      5 |        9 | Daralina Belle     |   3.75 | pikey           |
 | 19 | 7.0               | 2022-08-06 13:40:00 | randwick  |      5 |        5 | Niffler            |   6    | pangea,jmac     |
