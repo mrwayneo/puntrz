@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-07 07:56:50 +1000  
+date: 2022-08-07 08:05:38 +1000  
 ---   
 
 
@@ -69,32 +69,10 @@ date: 2022-08-07 07:56:50 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3414 |    473 |  -5378.4 | 0.14 | -0.16 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4474 |    166 | -19690   | 0.04 | -0.44 |
 
-|    | finish            | time                | track     |   race |   number | name               |   odds | tipster         |
-|---:|:------------------|:--------------------|:----------|-------:|---------:|:-------------------|-------:|:----------------|
-|  0 | --                | 2022-08-07 05:25:00 | kilbeggan |      7 |       12 | Leitrim Park       |   0    | overthrow       |
-|  1 | :boom:            | 2022-08-07 05:25:00 | kilbeggan |      7 |       11 | Hermine            |   0    | overthrow       |
-|  2 | 4.0               | 2022-08-07 03:45:00 | ayr       |      3 |        9 | Ayr Poet           |   0    | vulture         |
-|  3 | :boom:            | 2022-08-07 02:20:00 | kilbeggan |      1 |        3 | Nikini             |   1.45 | overthrow       |
-|  4 | :boom:            | 2022-08-07 01:15:00 | curragh   |      6 |        4 | Little Big Bear    |   3.2  | vulture         |
-|  5 | 4.0               | 2022-08-07 01:15:00 | curragh   |      6 |        3 | Bradsell           |   2.35 | milkman         |
-|  6 | :boom:            | 2022-08-07 00:45:00 | curragh   |      5 |        7 | In Ecstasy         |   6    | milkman         |
-|  7 | :2nd_place_medal: | 2022-08-06 23:05:00 | curragh   |      2 |        1 | Basil Martini      |   5.5  | vulture         |
-|  8 | 7.0               | 2022-08-06 16:50:00 | randwick  |     10 |        6 | Belsielle          |  14    | pikey           |
-|  9 | 12.0              | 2022-08-06 16:50:00 | randwick  |     10 |        9 | Brazen Song        |  20    | pangea          |
-| 10 | :3rd_place_medal: | 2022-08-06 16:50:00 | randwick  |     10 |        2 | Jal Lei            |   5.5  | vulture,jmac    |
-| 11 | 6.0               | 2022-08-06 16:15:00 | randwick  |      9 |        1 | Bold Mac           |   5.5  | vulture,wallbow |
-| 12 | 4.0               | 2022-08-06 16:15:00 | randwick  |      9 |        4 | Il Affare          |   4.75 | jmac            |
-| 13 | 12.0              | 2022-08-06 16:15:00 | randwick  |      9 |       10 | Fiordland          |   9    | pikey           |
-| 14 | :2nd_place_medal: | 2022-08-06 16:15:00 | randwick  |      9 |        2 | Contributingfactor |   4.5  | pangea          |
-| 15 | 11.0              | 2022-08-06 15:35:00 | randwick  |      8 |       10 | Belluci Babe       |   5    | jmac            |
-| 16 | 9.0               | 2022-08-06 15:35:00 | randwick  |      8 |        2 | Hilal              |  12    | pikey           |
-| 17 | --                | 2022-08-06 14:15:00 | randwick  |      6 |        6 | Smirnova           |   4.2  | pikey           |
-| 18 | 6.0               | 2022-08-06 13:40:00 | randwick  |      5 |        9 | Daralina Belle     |   3.75 | pikey           |
-| 19 | 7.0               | 2022-08-06 13:40:00 | randwick  |      5 |        5 | Niffler            |   6    | pangea,jmac     |
-| 20 | :3rd_place_medal: | 2022-08-06 13:40:00 | randwick  |      5 |        7 | Pizarro            |   2.8  | pangea          |
-| 21 | 8.0               | 2022-08-06 13:05:00 | randwick  |      4 |       10 | Coodarady          |   4.75 | vulture,jmac    |
-| 22 | :2nd_place_medal: | 2022-08-06 13:05:00 | randwick  |      4 |       13 | Conqueror          |   2.3  | pikey           |
-| 23 | :boom:            | 2022-08-06 12:30:00 | randwick  |      3 |        1 | Cadre Du Noir      |   4.75 | pangea,jmac     |
-| 24 | 10.0              | 2022-08-06 12:30:00 | randwick  |      3 |        6 | Yggdrasil          |   7    | pikey           |
-| 25 | :boom:            | 2022-08-06 11:55:00 | randwick  |      2 |        5 | Bazooka            |   3.8  | jmac            |
-| 26 | 10.0              | 2022-08-06 11:55:00 | randwick  |      2 |        1 | Highly Desired     |   4.5  | vulture         |
+|    | finish   | time                | track          |   race |   number | name               |   odds | tipster        |
+|---:|:---------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:---------------|
+|  0 | :soon:   | 2022-08-07 19:00:00 | singapore      |     11 |        2 | Gold Ten Sixty-One |   0    | pangea         |
+|  1 | :soon:   | 2022-08-07 14:25:00 | dubbo          |      4 |        3 | Dalavin            |   1.75 | vulture,pangea |
+|  2 | :soon:   | 2022-08-07 13:57:00 | sunshine-coast |      3 |        9 | Golden Eighty      |  13    | cosmo,bluey    |
+|  3 | :soon:   | 2022-08-07 12:37:00 | sunshine-coast |      1 |        2 | Diana's Affair     |   2.75 | milkman        |
+|  4 | :soon:   | 2022-08-07 12:37:00 | sunshine-coast |      1 |        1 | Ping               |   2.38 | milkman        |
