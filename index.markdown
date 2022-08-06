@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-06 13:26:06 +1000  
+date: 2022-08-06 13:40:55 +1000  
 ---   
 
 
@@ -10,8 +10,8 @@ date: 2022-08-06 13:26:06 +1000
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      1 |      400 | 1    | 40    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     41 |      3 |      125 | 0.07 |  0.3  |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      2 |        4 | 0.29 |  0.06 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     41 |      1 |        0 | 0.02 |  0    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      1 |       -8 | 0.2  | -0.16 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      1 |      0 |      -10 | 0    | -1    |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)           |      1 |      0 |      -10 | 0    | -1    |
@@ -20,7 +20,7 @@ date: 2022-08-06 13:26:06 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |      4 |      0 |      -40 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      7 |      0 |      -70 | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     16 |      0 |     -160 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     16 |      1 |      -75 | 0.06 | -0.47 |
 
 ##### Form Last 20 tips   
 
@@ -94,10 +94,10 @@ date: 2022-08-06 13:26:06 +1000
 | 15 | :soon:            | 2022-08-06 15:35:00 | randwick  |      8 |       10 | Belluci Babe       |   5    | jmac            |
 | 16 | :soon:            | 2022-08-06 15:35:00 | randwick  |      8 |        2 | Hilal              |  12    | pikey           |
 | 17 | :soon:            | 2022-08-06 14:15:00 | randwick  |      6 |        6 | Smirnova           |   4.2  | pikey           |
-| 18 | :soon:            | 2022-08-06 13:40:00 | randwick  |      5 |        9 | Daralina Belle     |   3.75 | pikey           |
-| 19 | :soon:            | 2022-08-06 13:40:00 | randwick  |      5 |        5 | Niffler            |   6    | pangea,jmac     |
-| 20 | :soon:            | 2022-08-06 13:40:00 | randwick  |      5 |        7 | Pizarro            |   2.8  | pangea          |
-| 21 | --                | 2022-08-06 13:05:00 | randwick  |      4 |       10 | Coodarady          |   4.75 | vulture,jmac    |
+| 18 | --                | 2022-08-06 13:40:00 | randwick  |      5 |        9 | Daralina Belle     |   3.75 | pikey           |
+| 19 | --                | 2022-08-06 13:40:00 | randwick  |      5 |        5 | Niffler            |   6    | pangea,jmac     |
+| 20 | --                | 2022-08-06 13:40:00 | randwick  |      5 |        7 | Pizarro            |   2.8  | pangea          |
+| 21 | 8.0               | 2022-08-06 13:05:00 | randwick  |      4 |       10 | Coodarady          |   4.75 | vulture,jmac    |
 | 22 | :2nd_place_medal: | 2022-08-06 13:05:00 | randwick  |      4 |       13 | Conqueror          |   2.3  | pikey           |
 | 23 | :boom:            | 2022-08-06 12:30:00 | randwick  |      3 |        1 | Cadre Du Noir      |   4.75 | pangea,jmac     |
 | 24 | 10.0              | 2022-08-06 12:30:00 | randwick  |      3 |        6 | Yggdrasil          |   7    | pikey           |
