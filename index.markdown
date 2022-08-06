@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-06 11:40:57 +1000  
+date: 2022-08-06 11:55:47 +1000  
 ---   
 
 
@@ -101,5 +101,5 @@ date: 2022-08-06 11:40:57 +1000
 | 22 | :soon:   | 2022-08-06 13:05:00 | randwick  |      4 |       13 | Conqueror          |   2.3  | pikey           |
 | 23 | :soon:   | 2022-08-06 12:30:00 | randwick  |      3 |        1 | Cadre Du Noir      |   4.75 | pangea,jmac     |
 | 24 | :soon:   | 2022-08-06 12:30:00 | randwick  |      3 |        6 | Yggdrasil          |   7    | pikey           |
-| 25 | :soon:   | 2022-08-06 11:55:00 | randwick  |      2 |        5 | Bazooka            |   3.8  | jmac            |
-| 26 | :soon:   | 2022-08-06 11:55:00 | randwick  |      2 |        1 | Highly Desired     |   4.5  | vulture         |
+| 25 | --       | 2022-08-06 11:55:00 | randwick  |      2 |        5 | Bazooka            |   3.8  | jmac            |
+| 26 | --       | 2022-08-06 11:55:00 | randwick  |      2 |        1 | Highly Desired     |   4.5  | vulture         |
