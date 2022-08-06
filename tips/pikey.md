@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-08-06 17:11:17 +1000  
+date: 2022-08-06 17:26:22 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 0                 | 2022-08-06 | randwick R10          | 6 Belsielle           |   0    |    -10   |
+| 7                 | 2022-08-06 | randwick R10          | 6 Belsielle           |  14    |    -10   |
 | 12                | 2022-08-06 | randwick R9           | 10 Fiordland          |   9    |    -10   |
 | 9                 | 2022-08-06 | randwick R8           | 2 Hilal               |  12    |    -10   |
 | 0                 | 2022-08-06 | randwick R6           | 6 Smirnova            |   0    |    -10   |
