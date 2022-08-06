@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-06 12:26:05 +1000  
+date: 2022-08-06 12:41:05 +1000  
 ---   
 
 
@@ -10,16 +10,16 @@ date: 2022-08-06 12:26:05 +1000
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      1 |      1 |      400 | 1    | 40    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      2 |        4 | 0.29 |  0.06 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     41 |      1 |        0 | 0.02 |  0    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      1 |       -8 | 0.2  | -0.16 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      1 |      0 |      -10 | 0    | -1    |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      1 |      -38 | 0.14 | -0.54 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      8 |      1 |      -38 | 0.12 | -0.48 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |      4 |      0 |      -40 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      0 |      -50 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      7 |      0 |      -70 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      7 |      0 |      -70 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      8 |      0 |      -80 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     16 |      0 |     -160 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -99,7 +99,7 @@ date: 2022-08-06 12:26:05 +1000
 | 20 | :soon:   | 2022-08-06 13:40:00 | randwick  |      5 |        7 | Pizarro            |   2.8  | pangea          |
 | 21 | :soon:   | 2022-08-06 13:05:00 | randwick  |      4 |       10 | Coodarady          |   4.75 | vulture,jmac    |
 | 22 | :soon:   | 2022-08-06 13:05:00 | randwick  |      4 |       13 | Conqueror          |   2.3  | pikey           |
-| 23 | :soon:   | 2022-08-06 12:30:00 | randwick  |      3 |        1 | Cadre Du Noir      |   4.75 | pangea,jmac     |
-| 24 | :soon:   | 2022-08-06 12:30:00 | randwick  |      3 |        6 | Yggdrasil          |   7    | pikey           |
+| 23 | :boom:   | 2022-08-06 12:30:00 | randwick  |      3 |        1 | Cadre Du Noir      |   4.75 | pangea,jmac     |
+| 24 | --       | 2022-08-06 12:30:00 | randwick  |      3 |        6 | Yggdrasil          |   7    | pikey           |
 | 25 | :boom:   | 2022-08-06 11:55:00 | randwick  |      2 |        5 | Bazooka            |   3.8  | jmac            |
-| 26 | --       | 2022-08-06 11:55:00 | randwick  |      2 |        1 | Highly Desired     |   4.5  | vulture         |
+| 26 | 10.0     | 2022-08-06 11:55:00 | randwick  |      2 |        1 | Highly Desired     |   4.5  | vulture         |

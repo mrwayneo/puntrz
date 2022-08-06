@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-06 12:26:03 +1000  
+date: 2022-08-06 12:41:03 +1000  
 categories: None 
 ---   
 
@@ -20,7 +20,7 @@ categories: None
 | 15:35             | 2022-08-06 | randwick R8          | 10 Belluci Babe      |  5    |    -10   |
 | 13:40             | 2022-08-06 | randwick R5          | 5 Niffler            |  6    |    -10   |
 | 13:05             | 2022-08-06 | randwick R4          | 10 Coodarady         |  4.75 |    -10   |
-| 12:30             | 2022-08-06 | randwick R3          | 1 Cadre Du Noir      |  4.75 |    -10   |
+| :boom:            | 2022-08-06 | randwick R3          | 1 Cadre Du Noir      |  4.2  |     32   |
 | :boom:            | 2022-08-06 | randwick R2          | 5 Bazooka            |  3.2  |     22   |
 | :boom:            | 2022-08-04 | kembla-grange R8     | 2 Regal Pom          |  1.6  |      6   |
 | 5                 | 2022-08-04 | kembla-grange R6     | 2 Divine Okay        |  3.4  |    -10   |
