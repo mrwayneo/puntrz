@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Menoe"   
-date: 2022-08-06 22:11:20 +1000  
+date: 2022-08-06 22:26:20 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 22:20             | 2022-08-06 | newmarket R1           | 2 Elegant Charm      |  1.9  |    -10   |
+| 5                 | 2022-08-06 | newmarket R1           | 2 Elegant Charm      |  1.9  |    -10   |
 | :2nd_place_medal: | 2022-07-27 | galway R3              | 3 Dower House        |  1.9  |    -10   |
 | :2nd_place_medal: | 2022-06-25 | chester R5             | 2 Brains             |  0    |    -10   |
 | :boom:            | 2022-06-24 | ballarat-synthetic R1  | 9 Water Bomber       |  0    |    -10   |
