@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-06 13:40:55 +1000  
+date: 2022-08-06 13:55:57 +1000  
 ---   
 
 
@@ -96,7 +96,7 @@ date: 2022-08-06 13:40:55 +1000
 | 17 | :soon:            | 2022-08-06 14:15:00 | randwick  |      6 |        6 | Smirnova           |   4.2  | pikey           |
 | 18 | --                | 2022-08-06 13:40:00 | randwick  |      5 |        9 | Daralina Belle     |   3.75 | pikey           |
 | 19 | --                | 2022-08-06 13:40:00 | randwick  |      5 |        5 | Niffler            |   6    | pangea,jmac     |
-| 20 | --                | 2022-08-06 13:40:00 | randwick  |      5 |        7 | Pizarro            |   2.8  | pangea          |
+| 20 | :3rd_place_medal: | 2022-08-06 13:40:00 | randwick  |      5 |        7 | Pizarro            |   2.8  | pangea          |
 | 21 | 8.0               | 2022-08-06 13:05:00 | randwick  |      4 |       10 | Coodarady          |   4.75 | vulture,jmac    |
 | 22 | :2nd_place_medal: | 2022-08-06 13:05:00 | randwick  |      4 |       13 | Conqueror          |   2.3  | pikey           |
 | 23 | :boom:            | 2022-08-06 12:30:00 | randwick  |      3 |        1 | Cadre Du Noir      |   4.75 | pangea,jmac     |
