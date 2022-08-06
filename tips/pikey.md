@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-08-06 12:56:06 +1000  
+date: 2022-08-06 13:05:18 +1000  
 categories: None 
 ---   
 
@@ -20,7 +20,7 @@ categories: None
 | 15:35             | 2022-08-06 | randwick R8           | 2 Hilal               |  12    |    -10   |
 | 14:15             | 2022-08-06 | randwick R6           | 6 Smirnova            |   4.2  |    -10   |
 | 13:40             | 2022-08-06 | randwick R5           | 9 Daralina Belle      |   3.75 |    -10   |
-| 13:05             | 2022-08-06 | randwick R4           | 13 Conqueror          |   2.3  |    -10   |
+| 0                 | 2022-08-06 | randwick R4           | 13 Conqueror          |   0    |    -10   |
 | 0                 | 2022-08-06 | randwick R3           | 6 Yggdrasil           |   0    |    -10   |
 | 10                | 2022-08-04 | townsville R8         | 4 Gamboa              |   4.6  |    -10   |
 | :3rd_place_medal: | 2022-08-04 | townsville R7         | 4 Norm's Choice       |   8    |    -10   |
