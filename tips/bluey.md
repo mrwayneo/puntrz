@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-08-07 08:05:37 +1000  
+date: 2022-08-07 09:05:13 +1000  
 categories: None 
 ---   
 
@@ -202,8 +202,8 @@ categories: None
 | 99                | 2021-06-12 | fairyhouse R3          | 14 Swiss Ace          |  26   |      -10 |
 | :boom:            | 2021-06-11 | swan-hill R3           | 4 Air Defence         |  10.2 |       92 |
 | 99                | 2021-06-10 | pukekura-raceway R2    | 9 Mandalay            |  51   |      -10 |
-| 4                 | 2021-06-06 | devonport-synthetic R9 | 6 Odin's Folly        |  14   |      -10 |
 | :boom:            | 2021-06-06 | devonport-synthetic R9 | 5 Elisavet            |  11   |      100 |
+| 4                 | 2021-06-06 | devonport-synthetic R9 | 6 Odin's Folly        |  14   |      -10 |
 | 9                 | 2021-06-06 | pinjarra R2            | 3 Halatorion          |  31   |      -10 |
 | 11                | 2021-06-05 | flemington R3          | 14 Just Folk          |  17   |      -10 |
 | 7                 | 2021-05-29 | randwick R6            | 10 Wayupinthesky      |  21   |      -10 |
