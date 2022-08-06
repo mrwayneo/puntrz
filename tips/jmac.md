@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-06 16:11:14 +1000  
+date: 2022-08-06 16:26:13 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 16:50             | 2022-08-06 | randwick R10         | 2 Jal Lei            |  5.5  |    -10   |
-| 16:15             | 2022-08-06 | randwick R9          | 4 Il Affare          |  4.75 |    -10   |
+| 4                 | 2022-08-06 | randwick R9          | 4 Il Affare          |  4.75 |    -10   |
 | 11                | 2022-08-06 | randwick R8          | 10 Belluci Babe      |  5    |    -10   |
 | 7                 | 2022-08-06 | randwick R5          | 5 Niffler            |  6    |    -10   |
 | 8                 | 2022-08-06 | randwick R4          | 10 Coodarady         |  4.75 |    -10   |

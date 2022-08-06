@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-06 16:11:15 +1000  
+date: 2022-08-06 16:26:15 +1000  
 ---   
 
 
@@ -87,10 +87,10 @@ date: 2022-08-06 16:11:15 +1000
 |  8 | :soon:            | 2022-08-06 16:50:00 | randwick  |     10 |        6 | Belsielle          |  14    | pikey           |
 |  9 | :soon:            | 2022-08-06 16:50:00 | randwick  |     10 |        9 | Brazen Song        |  20    | pangea          |
 | 10 | :soon:            | 2022-08-06 16:50:00 | randwick  |     10 |        2 | Jal Lei            |   5.5  | vulture,jmac    |
-| 11 | :soon:            | 2022-08-06 16:15:00 | randwick  |      9 |        1 | Bold Mac           |   5.5  | vulture,wallbow |
-| 12 | :soon:            | 2022-08-06 16:15:00 | randwick  |      9 |        4 | Il Affare          |   4.75 | jmac            |
-| 13 | :soon:            | 2022-08-06 16:15:00 | randwick  |      9 |       10 | Fiordland          |   9    | pikey           |
-| 14 | :soon:            | 2022-08-06 16:15:00 | randwick  |      9 |        2 | Contributingfactor |   4.5  | pangea          |
+| 11 | --                | 2022-08-06 16:15:00 | randwick  |      9 |        1 | Bold Mac           |   5.5  | vulture,wallbow |
+| 12 | 4.0               | 2022-08-06 16:15:00 | randwick  |      9 |        4 | Il Affare          |   4.75 | jmac            |
+| 13 | --                | 2022-08-06 16:15:00 | randwick  |      9 |       10 | Fiordland          |   9    | pikey           |
+| 14 | :2nd_place_medal: | 2022-08-06 16:15:00 | randwick  |      9 |        2 | Contributingfactor |   4.5  | pangea          |
 | 15 | 11.0              | 2022-08-06 15:35:00 | randwick  |      8 |       10 | Belluci Babe       |   5    | jmac            |
 | 16 | 9.0               | 2022-08-06 15:35:00 | randwick  |      8 |        2 | Hilal              |  12    | pikey           |
 | 17 | --                | 2022-08-06 14:15:00 | randwick  |      6 |        6 | Smirnova           |   4.2  | pikey           |

@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-08-06 16:11:08 +1000  
+date: 2022-08-06 16:26:08 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
-| 16:15             | 2022-08-06 | randwick R9         | 1 Bold Mac         |  5.5  |      -10 |
+| 0                 | 2022-08-06 | randwick R9         | 1 Bold Mac         |  0    |      -10 |
 | 4                 | 2022-08-03 | canterbury R4       | 2 And We Danced    |  3.2  |      -10 |
 | :3rd_place_medal: | 2022-08-03 | canterbury R3       | 1 Oz Legend        |  8    |      -10 |
 | :boom:            | 2022-07-30 | rosehill-gardens R7 | 1 Wicklow          |  3    |       20 |
