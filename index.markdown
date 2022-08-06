@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-06 17:05:22 +1000  
+date: 2022-08-06 17:11:18 +1000  
 ---   
 
 
@@ -86,7 +86,7 @@ date: 2022-08-06 17:05:22 +1000
 |  7 | :soon:            | 2022-08-06 23:05:00 | curragh   |      2 |        1 | Basil Martini      |   5.5  | vulture         |
 |  8 | --                | 2022-08-06 16:50:00 | randwick  |     10 |        6 | Belsielle          |  14    | pikey           |
 |  9 | --                | 2022-08-06 16:50:00 | randwick  |     10 |        9 | Brazen Song        |  20    | pangea          |
-| 10 | --                | 2022-08-06 16:50:00 | randwick  |     10 |        2 | Jal Lei            |   5.5  | vulture,jmac    |
+| 10 | :3rd_place_medal: | 2022-08-06 16:50:00 | randwick  |     10 |        2 | Jal Lei            |   5.5  | vulture,jmac    |
 | 11 | 6.0               | 2022-08-06 16:15:00 | randwick  |      9 |        1 | Bold Mac           |   5.5  | vulture,wallbow |
 | 12 | 4.0               | 2022-08-06 16:15:00 | randwick  |      9 |        4 | Il Affare          |   4.75 | jmac            |
 | 13 | 12.0              | 2022-08-06 16:15:00 | randwick  |      9 |       10 | Fiordland          |   9    | pikey           |
