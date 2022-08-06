@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-06 16:41:08 +1000  
+date: 2022-08-06 16:56:12 +1000  
 ---   
 
 
@@ -84,12 +84,12 @@ date: 2022-08-06 16:41:08 +1000
 |  5 | :soon:            | 2022-08-07 01:15:00 | curragh   |      6 |        3 | Bradsell           |   2.35 | milkman         |
 |  6 | :soon:            | 2022-08-07 00:45:00 | curragh   |      5 |        7 | In Ecstasy         |   6    | milkman         |
 |  7 | :soon:            | 2022-08-06 23:05:00 | curragh   |      2 |        1 | Basil Martini      |   5.5  | vulture         |
-|  8 | :soon:            | 2022-08-06 16:50:00 | randwick  |     10 |        6 | Belsielle          |  14    | pikey           |
-|  9 | :soon:            | 2022-08-06 16:50:00 | randwick  |     10 |        9 | Brazen Song        |  20    | pangea          |
-| 10 | :soon:            | 2022-08-06 16:50:00 | randwick  |     10 |        2 | Jal Lei            |   5.5  | vulture,jmac    |
-| 11 | --                | 2022-08-06 16:15:00 | randwick  |      9 |        1 | Bold Mac           |   5.5  | vulture,wallbow |
+|  8 | --                | 2022-08-06 16:50:00 | randwick  |     10 |        6 | Belsielle          |  14    | pikey           |
+|  9 | --                | 2022-08-06 16:50:00 | randwick  |     10 |        9 | Brazen Song        |  20    | pangea          |
+| 10 | --                | 2022-08-06 16:50:00 | randwick  |     10 |        2 | Jal Lei            |   5.5  | vulture,jmac    |
+| 11 | 6.0               | 2022-08-06 16:15:00 | randwick  |      9 |        1 | Bold Mac           |   5.5  | vulture,wallbow |
 | 12 | 4.0               | 2022-08-06 16:15:00 | randwick  |      9 |        4 | Il Affare          |   4.75 | jmac            |
-| 13 | --                | 2022-08-06 16:15:00 | randwick  |      9 |       10 | Fiordland          |   9    | pikey           |
+| 13 | 12.0              | 2022-08-06 16:15:00 | randwick  |      9 |       10 | Fiordland          |   9    | pikey           |
 | 14 | :2nd_place_medal: | 2022-08-06 16:15:00 | randwick  |      9 |        2 | Contributingfactor |   4.5  | pangea          |
 | 15 | 11.0              | 2022-08-06 15:35:00 | randwick  |      8 |       10 | Belluci Babe       |   5    | jmac            |
 | 16 | 9.0               | 2022-08-06 15:35:00 | randwick  |      8 |        2 | Hilal              |  12    | pikey           |
