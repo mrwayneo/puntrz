@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-06 14:11:08 +1000  
+date: 2022-08-06 14:26:11 +1000  
 ---   
 
 
@@ -93,9 +93,9 @@ date: 2022-08-06 14:11:08 +1000
 | 14 | :soon:            | 2022-08-06 16:15:00 | randwick  |      9 |        2 | Contributingfactor |   4.5  | pangea          |
 | 15 | :soon:            | 2022-08-06 15:35:00 | randwick  |      8 |       10 | Belluci Babe       |   5    | jmac            |
 | 16 | :soon:            | 2022-08-06 15:35:00 | randwick  |      8 |        2 | Hilal              |  12    | pikey           |
-| 17 | :soon:            | 2022-08-06 14:15:00 | randwick  |      6 |        6 | Smirnova           |   4.2  | pikey           |
-| 18 | --                | 2022-08-06 13:40:00 | randwick  |      5 |        9 | Daralina Belle     |   3.75 | pikey           |
-| 19 | --                | 2022-08-06 13:40:00 | randwick  |      5 |        5 | Niffler            |   6    | pangea,jmac     |
+| 17 | --                | 2022-08-06 14:15:00 | randwick  |      6 |        6 | Smirnova           |   4.2  | pikey           |
+| 18 | 6.0               | 2022-08-06 13:40:00 | randwick  |      5 |        9 | Daralina Belle     |   3.75 | pikey           |
+| 19 | 7.0               | 2022-08-06 13:40:00 | randwick  |      5 |        5 | Niffler            |   6    | pangea,jmac     |
 | 20 | :3rd_place_medal: | 2022-08-06 13:40:00 | randwick  |      5 |        7 | Pizarro            |   2.8  | pangea          |
 | 21 | 8.0               | 2022-08-06 13:05:00 | randwick  |      4 |       10 | Coodarady          |   4.75 | vulture,jmac    |
 | 22 | :2nd_place_medal: | 2022-08-06 13:05:00 | randwick  |      4 |       13 | Conqueror          |   2.3  | pikey           |
