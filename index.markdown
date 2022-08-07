@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-07 14:26:55 +1000  
+date: 2022-08-07 14:42:03 +1000  
 ---   
 
 
@@ -9,13 +9,13 @@ date: 2022-08-07 14:26:55 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      1 |      0 |      -10 |    0 |    -1 |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      0 |      -20 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      0 |      -40 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      9 |      0 |      -90 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     16 |      0 |     -160 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     79 |      0 |     -790 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      1 |      1 |        5 | 1    |  0.5  |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      1 |      0 |      -10 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      2 |      0 |      -20 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      1 |      -25 | 0.25 | -0.62 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      9 |      0 |      -90 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     16 |      0 |     -160 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     79 |      0 |     -790 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -72,7 +72,7 @@ date: 2022-08-07 14:26:55 +1000
 |    | finish            | time                | track          |   race |   number | name               |   odds | tipster        |
 |---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:---------------|
 |  0 | :soon:            | 2022-08-07 19:00:00 | singapore      |     11 |        2 | Gold Ten Sixty-One |   0    | pangea         |
-|  1 | --                | 2022-08-07 14:25:00 | dubbo          |      4 |        3 | Dalavin            |   1.75 | vulture,pangea |
-|  2 | --                | 2022-08-07 13:57:00 | sunshine-coast |      3 |        9 | Golden Eighty      |  13    | cosmo,bluey    |
+|  1 | :boom:            | 2022-08-07 14:25:00 | dubbo          |      4 |        3 | Dalavin            |   1.75 | vulture,pangea |
+|  2 | 10.0              | 2022-08-07 13:57:00 | sunshine-coast |      3 |        9 | Golden Eighty      |  13    | cosmo,bluey    |
 |  3 | :3rd_place_medal: | 2022-08-07 12:37:00 | sunshine-coast |      1 |        2 | Diana's Affair     |   2.75 | milkman        |
 |  4 | :2nd_place_medal: | 2022-08-07 12:37:00 | sunshine-coast |      1 |        1 | Ping               |   2.38 | milkman        |
