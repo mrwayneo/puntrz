@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-07 17:05:28 +1000  
+date: 2022-08-07 17:12:06 +1000  
 ---   
 
 
@@ -15,7 +15,7 @@ date: 2022-08-07 17:05:28 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      4 |      1 |      -25 | 0.25 | -0.62 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      9 |      0 |      -90 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     16 |      1 |     -120 | 0.06 | -0.75 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     79 |      3 |     -649 | 0.04 | -0.82 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     79 |      3 |     -651 | 0.04 | -0.82 |
 
 ##### Form Last 20 tips   
 
