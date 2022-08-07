@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-07 18:57:09 +1000  
+date: 2022-08-07 19:05:31 +1000  
 ---   
 
 
@@ -69,10 +69,10 @@ date: 2022-08-07 18:57:09 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3414 |    473 |  -5378.4 | 0.14 | -0.16 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4474 |    166 | -19690   | 0.04 | -0.44 |
 
-|    | finish            | time                | track          |   race |   number | name               |   odds | tipster        |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:---------------|
-|  0 | :soon:            | 2022-08-07 19:00:00 | singapore      |     11 |        2 | Gold Ten Sixty-One |   0    | pangea         |
-|  1 | :boom:            | 2022-08-07 14:25:00 | dubbo          |      4 |        3 | Dalavin            |   1.75 | vulture,pangea |
-|  2 | 10.0              | 2022-08-07 13:57:00 | sunshine-coast |      3 |        9 | Golden Eighty      |  13    | cosmo,bluey    |
-|  3 | :3rd_place_medal: | 2022-08-07 12:37:00 | sunshine-coast |      1 |        2 | Diana's Affair     |   2.75 | milkman        |
-|  4 | :2nd_place_medal: | 2022-08-07 12:37:00 | sunshine-coast |      1 |        1 | Ping               |   2.38 | milkman        |
+|    | finish                   | time                | track          |   race |   number | name               |   odds | tipster        |
+|---:|:-------------------------|:--------------------|:---------------|-------:|---------:|:-------------------|-------:|:---------------|
+|  0 | :hourglass_flowing_sand: | 2022-08-07 19:00:00 | singapore      |     11 |        2 | Gold Ten Sixty-One |   0    | pangea         |
+|  1 | :boom:                   | 2022-08-07 14:25:00 | dubbo          |      4 |        3 | Dalavin            |   1.75 | vulture,pangea |
+|  2 | 10.0                     | 2022-08-07 13:57:00 | sunshine-coast |      3 |        9 | Golden Eighty      |  13    | cosmo,bluey    |
+|  3 | :3rd_place_medal:        | 2022-08-07 12:37:00 | sunshine-coast |      1 |        2 | Diana's Affair     |   2.75 | milkman        |
+|  4 | :2nd_place_medal:        | 2022-08-07 12:37:00 | sunshine-coast |      1 |        1 | Ping               |   2.38 | milkman        |
