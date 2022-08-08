@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-08-08 19:27:57 +1000  
+date: 2022-08-08 19:33:07 +1000  
 categories: None 
 ---   
 
@@ -42,8 +42,8 @@ categories: None
 | 8                 | 2022-05-07 | caulfield R5                  | 4 Pandemic            |  0    |    -10   |
 | 5                 | 2022-05-07 | rockhampton R3                | 2 Namazu              |  0    |    -10   |
 | 4                 | 2022-05-05 | warrnambool R8                | 13 Seiners Express    |  0    |    -10   |
-| 8                 | 2022-05-04 | warrnambool R6                | 3 Big Blue            |  0    |    -10   |
 | :boom:            | 2022-05-04 | warrnambool R6                | 1 Saunter Boy         |  0    |    -10   |
+| 8                 | 2022-05-04 | warrnambool R6                | 3 Big Blue            |  0    |    -10   |
 | 5                 | 2022-05-03 | warrnambool R6                | 1 Bit of a Lad        |  5.5  |    -10   |
 | :boom:            | 2022-05-02 | ipswich R5                    | 1 The Catch           |  1.9  |      9   |
 | :3rd_place_medal: | 2022-05-01 | scottsville R3                | 7 Shampompo Shampizi  |  3.2  |    -10   |
@@ -58,8 +58,8 @@ categories: None
 | :2nd_place_medal: | 2022-04-30 | newmarket R5                  | 1 Yibir               |  1.24 |    -10   |
 | :3rd_place_medal: | 2022-04-28 | mackay R8                     | 5 Brigalow Boy        |  2.2  |    -10   |
 | 5                 | 2022-04-28 | mackay R4                     | 1 Time For Victory    |  8    |    -10   |
-| :2nd_place_medal: | 2022-04-27 | punchestown R4                | 3 Chacun Pour Soi     |  2.5  |    -10   |
 | :boom:            | 2022-04-27 | punchestown R4                | 4 Energumene          |  1.6  |      6   |
+| :2nd_place_medal: | 2022-04-27 | punchestown R4                | 3 Chacun Pour Soi     |  2.5  |    -10   |
 | :boom:            | 2022-04-25 | darwin R4                     | 4 Poupee              |  1.9  |      9   |
 | 4                 | 2022-04-25 | flemington R8                 | 12 Rockribbed         |  3.1  |    -10   |
 | 4                 | 2022-04-25 | darwin R3                     | 3 Blueant             |  3.3  |    -10   |
@@ -75,8 +75,8 @@ categories: None
 | :boom:            | 2022-04-15 | newcastle R3                  | 1 Bouttemont          | 15    |    140   |
 | :boom:            | 2022-04-15 | launceston R8                 | 5 Eighty Eight Days   |  2.6  |     16   |
 | :3rd_place_medal: | 2022-04-07 | darwin R4                     | 2 Chief Mondo         |  0    |    -10   |
-| 4                 | 2022-04-07 | darwin R2                     | 5 Blueant             |  0    |    -10   |
 | 6                 | 2022-04-07 | darwin R2                     | 4 Obligatory          |  0    |    -10   |
+| 4                 | 2022-04-07 | darwin R2                     | 5 Blueant             |  0    |    -10   |
 | 6                 | 2022-04-07 | darwin R1                     | 2 No Strings          |  0    |    -10   |
 | :boom:            | 2022-04-06 | launceston R7                 | 7 Imagine Howe        |  0    |    -10   |
 | :2nd_place_medal: | 2022-04-06 | launceston R5                 | 6 Our Shinkansen      |  0    |    -10   |
@@ -208,8 +208,8 @@ categories: None
 | 6                 | 2022-01-15 | ascot R5                      | 2 Tinsnip             |  7    |    -10   |
 | 7                 | 2022-01-15 | ascot R3                      | 4 Fiery Water         |  5    |    -10   |
 | :boom:            | 2022-01-15 | murray-bdge R7                | 12 Night Passage      |  4.1  |     31   |
-| :3rd_place_medal: | 2022-01-15 | gold-coast R5                 | 6 Away Game           |  3.2  |    -10   |
 | 13                | 2022-01-15 | gold-coast R5                 | 3 Roheryn             | 12    |    -10   |
+| :3rd_place_medal: | 2022-01-15 | gold-coast R5                 | 6 Away Game           |  3.2  |    -10   |
 | :boom:            | 2022-01-15 | murray-bdge R5                | 7 Resurge             |  4.7  |     37   |
 | 6                 | 2022-01-14 | launceston R4                 | 7 Our Shinkansen      |  2.7  |    -10   |
 | :2nd_place_medal: | 2022-01-12 | belmont R7                    | 5 Off Wego            |  4    |    -10   |
@@ -287,8 +287,8 @@ categories: None
 | 99                | 2021-12-05 | sandown R4                    | 3 Minella Drama       |  0    |    -10   |
 | :boom:            | 2021-12-04 | ascot R9                      | 9 Memorable Miss      |  7.4  |     64   |
 | :2nd_place_medal: | 2021-12-04 | ascot R8                      | 7 Western Empire      |  1.3  |    -10   |
-| :2nd_place_medal: | 2021-12-04 | ascot R7                      | 9 Bright Diamond      |  3.1  |    -10   |
 | 10                | 2021-12-04 | ascot R7                      | 10 Real Charisma      | 12    |    -10   |
+| :2nd_place_medal: | 2021-12-04 | ascot R7                      | 9 Bright Diamond      |  3.1  |    -10   |
 | :2nd_place_medal: | 2021-12-04 | toowoomba R1                  | 7 Vast Kama           |  6    |    -10   |
 | :boom:            | 2021-12-04 | gold-coast R7                 | 1 Weona Smartone      |  1.2  |      2   |
 | :boom:            | 2021-12-04 | doomben R7                    | 5 Tambo's Mate        |  3.5  |     25   |
@@ -366,8 +366,8 @@ categories: None
 | :boom:            | 2021-10-15 | ipswich R3                    | 8 Sir Rocket          |  1.75 |      7.5 |
 | :2nd_place_medal: | 2021-10-15 | ipswich R3                    | 10 Lyrical Girl       |  2.15 |    -10   |
 | :boom:            | 2021-10-15 | carlisle R7                   | 3 Armattiekan         |  2.6  |     16   |
-| :boom:            | 2021-10-13 | launceston R7                 | 7 Vivilici            |  4.6  |     36   |
 | :3rd_place_medal: | 2021-10-13 | launceston R7                 | 5 Red Letter Lady     |  3.3  |    -10   |
+| :boom:            | 2021-10-13 | launceston R7                 | 7 Vivilici            |  4.6  |     36   |
 | 4                 | 2021-10-13 | ascot R8                      | 10 Mystery Moment     |  2.3  |    -10   |
 | 6                 | 2021-10-10 | ballarat R6                   | 3 Faretti             |  4    |    -10   |
 | 99                | 2021-10-10 | newmarket R5                  | 19 Scaramanga         |  0    |    -10   |
