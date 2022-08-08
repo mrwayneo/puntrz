@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Icyhot"   
-date: 2022-08-08 16:12:54 +1000  
+date: 2022-08-08 16:27:50 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event                        | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------------|:----------------------|------:|---------:|
-| 16:24             | 2022-08-08 | emerald R7                   | 8 Attackabeel         |  0    |    -10   |
+| 0                 | 2022-08-08 | emerald R7                   | 8 Attackabeel         |  0    |    -10   |
 | 0                 | 2022-08-08 | emerald R5                   | 3 Demurral            |  0    |    -10   |
 | 8                 | 2022-08-02 | warwick R7                   | 4 Ciao Bicky          |  4.33 |    -10   |
 | :boom:            | 2022-07-30 | rosehill-gardens R7          | 1 Wicklow             |  3    |     20   |
@@ -45,8 +45,8 @@ categories: None
 | :boom:            | 2022-04-29 | alice-springs R2             | 2 Flying Start        |  2.2  |     12   |
 | :2nd_place_medal: | 2022-04-27 | punchestown R4               | 3 Chacun Pour Soi     |  2.5  |    -10   |
 | :boom:            | 2022-04-27 | punchestown R4               | 4 Energumene          |  1.6  |      6   |
-| :boom:            | 2022-04-25 | darwin R4                    | 4 Poupee              |  1.9  |      9   |
 | :2nd_place_medal: | 2022-04-25 | darwin R4                    | 3 Bel's Banner        |  2.5  |    -10   |
+| :boom:            | 2022-04-25 | darwin R4                    | 4 Poupee              |  1.9  |      9   |
 | 4                 | 2022-04-24 | scottsville R5               | 9 Lunarcam            |  2.6  |    -10   |
 | :3rd_place_medal: | 2022-04-17 | mornington R4                | 8 Excela Bella        |  5    |    -10   |
 | :2nd_place_medal: | 2022-04-16 | alice-springs R5             | 7 Jet Jackson         |  9.5  |    -10   |
@@ -197,8 +197,8 @@ categories: None
 | :boom:            | 2021-12-04 | darwin R4                    | 3 Bel's Banner        |  2.6  |     16   |
 | :boom:            | 2021-12-04 | gold-coast R7                | 1 Weona Smartone      |  1.2  |      2   |
 | 5                 | 2021-12-04 | doomben R7                   | 3 The Harrovian       |  3.9  |    -10   |
-| :3rd_place_medal: | 2021-12-03 | devonport-synthetic R3       | 7 Red Letter Lady     |  2.5  |    -10   |
 | 6                 | 2021-12-03 | devonport-synthetic R3       | 8 Sirene Stryker      |  3.8  |    -10   |
+| :3rd_place_medal: | 2021-12-03 | devonport-synthetic R3       | 7 Red Letter Lady     |  2.5  |    -10   |
 | :3rd_place_medal: | 2021-11-30 | turffontein R6               | 5 Aragosta            |  6    |    -10   |
 | :3rd_place_medal: | 2021-11-27 | turffontein R6               | 5 Aragosta            |  0    |    -10   |
 | :2nd_place_medal: | 2021-11-27 | morphettville R8             | 8 Rock The Ring       |  2.7  |    -10   |
@@ -249,8 +249,8 @@ categories: None
 | 99                | 2021-10-27 | bangor R6                    | 7 Stop Talking        |  0    |    -10   |
 | :boom:            | 2021-10-23 | ascot R7                     | 5 Wilchino            |  2.8  |     18   |
 | :boom:            | 2021-10-23 | ascot R6                     | 4 Magical Dream       |  6.5  |     55   |
-| :boom:            | 2021-10-23 | doomben R5                   | 2 Birriecart          |  2.3  |     13   |
 | :2nd_place_medal: | 2021-10-23 | doomben R5                   | 1 Tiger Heart         |  1.65 |    -10   |
+| :boom:            | 2021-10-23 | doomben R5                   | 2 Birriecart          |  2.3  |     13   |
 | :2nd_place_medal: | 2021-10-23 | doomben R4                   | 1 Ligulate            |  9    |    -10   |
 | :boom:            | 2021-10-22 | launceston R5                | 1 Deroche             |  1.9  |      9   |
 | 8                 | 2021-10-22 | moonee-valley R6             | 8 Overkill            |  8    |    -10   |
@@ -259,8 +259,8 @@ categories: None
 | :boom:            | 2021-10-17 | alice-springs R2             | 4 Dakota Lee          |  1.95 |      9.5 |
 | 7                 | 2021-10-16 | caulfield R10                | 6 He's A Balter       |  8    |    -10   |
 | :boom:            | 2021-10-15 | murray-bdge R9               | 12 Valuable Witness   |  3.3  |     23   |
-| :2nd_place_medal: | 2021-10-15 | ipswich R3                   | 10 Lyrical Girl       |  2.15 |    -10   |
 | :boom:            | 2021-10-15 | ipswich R3                   | 8 Sir Rocket          |  1.75 |      7.5 |
+| :2nd_place_medal: | 2021-10-15 | ipswich R3                   | 10 Lyrical Girl       |  2.15 |    -10   |
 | :2nd_place_medal: | 2021-10-09 | ascot R8                     | 2 Miss Conteki        |  3.2  |    -10   |
 | :boom:            | 2021-10-09 | randwick R10                 | 10 Leo                |  5.8  |     48   |
 | :3rd_place_medal: | 2021-10-09 | ascot R5                     | 4 Kaptain Kaos        |  2.6  |    -10   |
@@ -660,8 +660,8 @@ categories: None
 | 6                 | 2020-01-25 | gawler R2                    | 4 Rose Tiara          | 18.2  |    -10   |
 | :2nd_place_medal: | 2020-01-25 | sunshine-coast R1            | 3 Ruby Guru           |  3.8  |    -10   |
 | :boom:            | 2020-01-22 | canterbury R5                | 2 Knowitall Jack      |  3.6  |     26   |
-| :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 5                 | 2020-01-22 | rockhampton R2               | 6 Ladyada             |  4.8  |    -10   |
+| :3rd_place_medal: | 2020-01-22 | rockhampton R2               | 2 Mr Phenomenal       |  1.85 |    -10   |
 | 6                 | 2020-01-11 | pinjarra R8                  | 11 Midnight Sky       |  6.5  |    -10   |
 | :boom:            | 2020-01-11 | pinjarra R6                  | 12 Put A Spell On You |  5    |     40   |
 | :3rd_place_medal: | 2020-01-11 | kembla-grange R6             | 4 Superbowl Sunday    |  2.15 |    -10   |

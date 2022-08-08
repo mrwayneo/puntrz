@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-08 16:13:02 +1000  
+date: 2022-08-08 16:27:57 +1000  
 ---   
 
 
@@ -83,8 +83,8 @@ date: 2022-08-08 16:13:02 +1000
 |  3 | :soon:   | 2022-08-08 23:00:00 | kempton       |      3 |        2 | Feyha              |   4.33 | looseknot           |
 |  4 | :soon:   | 2022-08-08 23:00:00 | kempton       |      3 |        4 | Rosette            |   5.5  | looseknot           |
 |  5 | :soon:   | 2022-08-08 22:45:00 | wolverhampton |      1 |        3 | Teagarden Jazz     |   3.6  | vulture             |
-|  6 | :soon:   | 2022-08-08 16:24:00 | emerald       |      7 |        3 | Rocky Poet         |   0    | vulture             |
-|  7 | :soon:   | 2022-08-08 16:24:00 | emerald       |      7 |        8 | Attackabeel        |   0    | pangea,icyhot       |
+|  6 | --       | 2022-08-08 16:24:00 | emerald       |      7 |        3 | Rocky Poet         |   0    | vulture             |
+|  7 | --       | 2022-08-08 16:24:00 | emerald       |      7 |        8 | Attackabeel        |   0    | pangea,icyhot       |
 |  8 | --       | 2022-08-08 15:44:00 | emerald       |      6 |        2 | Grand de Lago      |   0    | benny,pangea        |
 |  9 | --       | 2022-08-08 15:44:00 | emerald       |      6 |        4 | Dawson Diamond     |   0    | overthrow           |
 | 10 | --       | 2022-08-08 15:07:00 | emerald       |      5 |        3 | Demurral           |   0    | benny,icyhot        |
