@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-08-08 22:58:09 +1000  
+date: 2022-08-09 06:13:31 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      2 |      1 |    390   | 0.5  | 19.5  |
-| Last 28 Days   |      7 |      1 |    340   | 0.14 |  4.86 |
-| Last 6 Months  |     50 |      5 |     22   | 0.1  |  0.04 |
-| Since Jan 2020 |    282 |     44 |   3248.5 | 0.16 |  1.15 |
+| Last 7 Days    |      3 |      1 |    380   | 0.33 | 12.67 |
+| Last 28 Days   |      9 |      1 |    320   | 0.11 |  3.56 |
+| Last 6 Months  |     52 |      5 |      2   | 0.1  |  0    |
+| Since Jan 2020 |    284 |     44 |   3228.5 | 0.15 |  1.14 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 03:25             | 2022-08-09 | ballinrobe R3                 | 2 L'Un Deux Trois     |   0    |    -10   |
+| :3rd_place_medal: | 2022-08-09 | ballinrobe R3                 | 2 L'Un Deux Trois     |  13    |    -10   |
 | 4                 | 2022-08-08 | goulburn R4                   | 6 Leather Jacket Lew  |  21    |    -10   |
 | :boom:            | 2022-08-06 | ruakaka R1                    | 5 Fly My Wey          |  41    |    400   |
 | 0                 | 2022-08-04 | newcastle R4                  | 7 Von Der Leyen       |   0    |    -10   |
@@ -50,8 +50,8 @@ categories: None
 | 8                 | 2022-04-02 | bendigo R5                    | 11 Demando            |  26    |    -10   |
 | :boom:            | 2022-03-30 | sandown-hillside R3           | 3 Rebel's Choice      |  11.2  |    102   |
 | 99                | 2022-03-19 | fakenham R1                   | 7 Fae The Port        |   0    |    -10   |
-| 7                 | 2022-03-18 | moonee-valley R7              | 5 The Cunning Fox     |  23    |    -10   |
 | :2nd_place_medal: | 2022-03-18 | moonee-valley R7              | 8 Can't Go Wong       |  29    |    -10   |
+| 7                 | 2022-03-18 | moonee-valley R7              | 5 The Cunning Fox     |  23    |    -10   |
 | 11                | 2022-03-18 | townsville R8                 | 3 Supreme Prince      |  31    |    -10   |
 | 5                 | 2022-03-12 | ascot R5                      | 9 Outspoken Lad       |  16    |    -10   |
 | 5                 | 2022-03-05 | newcastle R1                  | 1 Read My Future      |  13    |    -10   |
@@ -210,8 +210,8 @@ categories: None
 | :boom:            | 2021-06-23 | pukekohe-park R5              | 3 Hit The Switch      |   5    |     40   |
 | 9                 | 2021-06-20 | kilcoy R7                     | 7 Snipfit             |  51    |    -10   |
 | 7                 | 2021-06-19 | darwin R2                     | 5 Skellig Island      |  26    |    -10   |
-| 99                | 2021-06-19 | royal-ascot R2                | 1 Gear Up             |  10    |    -10   |
 | 99                | 2021-06-19 | royal-ascot R2                | 3 Belloccio           |   6    |    -10   |
+| 99                | 2021-06-19 | royal-ascot R2                | 1 Gear Up             |  10    |    -10   |
 | 99                | 2021-06-18 | down-royal R2                 | 15 Glory For Molly    |  26    |    -10   |
 | 99                | 2021-06-17 | wexford R7                    | 7 Ballybrowney Jack   |  32    |    -10   |
 | 99                | 2021-06-17 | royal-ascot R2                | 8 Law Of The Sea      |  17    |    -10   |
