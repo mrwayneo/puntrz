@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-08 14:57:45 +1000  
+date: 2022-08-08 15:12:43 +1000  
 ---   
 
 
@@ -87,7 +87,7 @@ date: 2022-08-08 14:57:45 +1000
 |  7 | :soon:   | 2022-08-08 16:24:00 | emerald       |      7 |        8 | Attackabeel        |   0    | pangea,icyhot       |
 |  8 | :soon:   | 2022-08-08 15:44:00 | emerald       |      6 |        2 | Grand de Lago      |   0    | benny,pangea        |
 |  9 | :soon:   | 2022-08-08 15:44:00 | emerald       |      6 |        4 | Dawson Diamond     |   0    | overthrow           |
-| 10 | :soon:   | 2022-08-08 15:07:00 | emerald       |      5 |        3 | Demurral           |   0    | benny,icyhot        |
+| 10 | --       | 2022-08-08 15:07:00 | emerald       |      5 |        3 | Demurral           |   0    | benny,icyhot        |
 | 11 | 4.0      | 2022-08-08 14:45:00 | goulburn      |      4 |        6 | Leather Jacket Lew |  21    | overthrow,bob       |
 | 12 | --       | 2022-08-08 14:45:00 | goulburn      |      4 |       11 | The Halo           |   6.5  | vulture             |
 | 13 | --       | 2022-08-08 13:57:00 | emerald       |      3 |        2 | Sacred Stream      |   0    | overthrow,looseknot |
