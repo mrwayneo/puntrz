@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-08-08 12:42:44 +1000  
+date: 2022-08-08 12:57:45 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
-| 12:46             | 2022-08-08 | emerald R1             | 10 Ready By Midnight  |   0   |      -10 |
+| 0                 | 2022-08-08 | emerald R1             | 10 Ready By Midnight  |   0   |      -10 |
 | 10                | 2022-08-07 | sunshine-coast R3      | 9 Golden Eighty       |  13   |      -10 |
 | 12                | 2022-08-05 | ipswich R8             | 4 Chief Command       |  31   |      -10 |
 | 6                 | 2022-08-04 | townsville R8          | 6 Funky Music         |  14   |      -10 |
