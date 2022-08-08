@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-08 13:12:48 +1000  
+date: 2022-08-08 13:27:53 +1000  
 ---   
 
 
@@ -91,5 +91,5 @@ date: 2022-08-08 13:12:48 +1000
 | 11 | :soon:   | 2022-08-08 14:45:00 | goulburn      |      4 |        6 | Leather Jacket Lew |  21    | overthrow,bob       |
 | 12 | :soon:   | 2022-08-08 14:45:00 | goulburn      |      4 |       11 | The Halo           |   6.5  | vulture             |
 | 13 | :soon:   | 2022-08-08 13:57:00 | emerald       |      3 |        2 | Sacred Stream      |   0    | overthrow,looseknot |
-| 14 | :soon:   | 2022-08-08 13:22:00 | emerald       |      2 |        3 | The Snooperstar    |   0    | overthrow           |
+| 14 | --       | 2022-08-08 13:22:00 | emerald       |      2 |        3 | The Snooperstar    |   0    | overthrow           |
 | 15 | --       | 2022-08-08 12:46:00 | emerald       |      1 |       10 | Ready By Midnight  |   0    | cosmo,bluey         |
