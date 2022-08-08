@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-08-09 06:58:20 +1000  
+date: 2022-08-09 07:10:50 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,7 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 13:17             | 2022-08-09 | mackay R2              | 7 Corporal            |  22   |      -10 |
 | 0                 | 2022-08-08 | emerald R1             | 10 Ready By Midnight  |   0   |      -10 |
 | 10                | 2022-08-07 | sunshine-coast R3      | 9 Golden Eighty       |  13   |      -10 |
 | 12                | 2022-08-05 | ipswich R8             | 4 Chief Command       |  31   |      -10 |
