@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-08 15:42:56 +1000  
+date: 2022-08-08 15:57:48 +1000  
 ---   
 
 
@@ -30,6 +30,7 @@ date: 2022-08-08 15:42:56 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    510   | 0.05 |  2.55 |
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      4 |    415.5 | 0.2  |  2.08 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    333   | 1    |  1.66 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      2 |     45   | 0.1  |  0.22 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      5 |      4.5 | 0.25 |  0.02 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      7 |     -3.3 | 0.35 | -0.02 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     10 |    -10.5 | 0.5  | -0.05 |
@@ -45,7 +46,6 @@ date: 2022-08-08 15:42:56 +1000
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -135   | 0.1  | -0.68 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      1 |   -144   | 0.05 | -0.72 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      3 |   -144   | 0.15 | -0.72 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -145   | 0.05 | -0.72 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |   -160   | 0.05 | -0.8  |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      0 |   -200   | 0    | -1    |
 
@@ -85,8 +85,8 @@ date: 2022-08-08 15:42:56 +1000
 |  5 | :soon:   | 2022-08-08 22:45:00 | wolverhampton |      1 |        3 | Teagarden Jazz     |   3.6  | vulture             |
 |  6 | :soon:   | 2022-08-08 16:24:00 | emerald       |      7 |        3 | Rocky Poet         |   0    | vulture             |
 |  7 | :soon:   | 2022-08-08 16:24:00 | emerald       |      7 |        8 | Attackabeel        |   0    | pangea,icyhot       |
-|  8 | :soon:   | 2022-08-08 15:44:00 | emerald       |      6 |        2 | Grand de Lago      |   0    | benny,pangea        |
-|  9 | :soon:   | 2022-08-08 15:44:00 | emerald       |      6 |        4 | Dawson Diamond     |   0    | overthrow           |
+|  8 | --       | 2022-08-08 15:44:00 | emerald       |      6 |        2 | Grand de Lago      |   0    | benny,pangea        |
+|  9 | --       | 2022-08-08 15:44:00 | emerald       |      6 |        4 | Dawson Diamond     |   0    | overthrow           |
 | 10 | --       | 2022-08-08 15:07:00 | emerald       |      5 |        3 | Demurral           |   0    | benny,icyhot        |
 | 11 | 4.0      | 2022-08-08 14:45:00 | goulburn      |      4 |        6 | Leather Jacket Lew |  21    | overthrow,bob       |
 | 12 | --       | 2022-08-08 14:45:00 | goulburn      |      4 |       11 | The Halo           |   6.5  | vulture             |
