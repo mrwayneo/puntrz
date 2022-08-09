@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Evenodds"   
-date: 2022-08-09 22:58:45 +1000  
+date: 2022-08-10 06:14:16 +1000  
 categories: None 
 ---   
 
@@ -9,7 +9,7 @@ categories: None
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
 | Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |     38 |      9 |   -162   | 0.24 | -0.43 |
+| Last 28 Days   |     33 |      7 |   -112   | 0.21 | -0.34 |
 | Last 6 Months  |    394 |    109 |  -1677.3 | 0.28 | -0.43 |
 | Since Jan 2020 |   1667 |    462 |  -4239.5 | 0.28 | -0.25 |
 
