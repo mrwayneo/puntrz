@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-09 16:13:54 +1000  
+date: 2022-08-09 16:28:53 +1000  
 ---   
 
 
@@ -12,14 +12,14 @@ date: 2022-08-09 16:13:54 +1000
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      1 |      311 | 1    | 31.1  |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      4 |      1 |      281 | 0.25 |  7.02 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     18 |      1 |      141 | 0.06 |  0.78 |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      2 |      1 |       -4 | 0.5  | -0.2  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      2 |      0 |      -20 | 0    | -1    |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      2 |      0 |      -20 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      2 |      0 |      -20 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      1 |      -24 | 0.25 | -0.6  |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      3 |      0 |      -30 | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      4 |      0 |      -40 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     37 |      1 |     -347 | 0.03 | -0.94 |
 
 ##### Form Last 20 tips   
@@ -81,7 +81,7 @@ date: 2022-08-09 16:13:54 +1000
 |  2 | :soon:            | 2022-08-09 23:30:00 | lingfield       |      3 |        1 | Sea Tsarina       |   2.62 | milkman      |
 |  3 | :soon:            | 2022-08-09 23:00:00 | lingfield       |      2 |        3 | Apache Spark      |   1.6  | vulture      |
 |  4 | :soon:            | 2022-08-09 16:55:00 | hawkesbury      |      7 |        1 | Ceasefire         |   4.5  | pangea,jmac  |
-|  5 | :soon:            | 2022-08-09 16:20:00 | hawkesbury      |      6 |        5 | Communist         |   2.3  | milkman,jmac |
+|  5 | :boom:            | 2022-08-09 16:20:00 | hawkesbury      |      6 |        5 | Communist         |   2.3  | milkman,jmac |
 |  6 | 7.0               | 2022-08-09 14:34:00 | mackay          |      4 |        2 | Rock 'n' Sol      |   9    | pangea       |
 |  7 | 4.0               | 2022-08-09 14:25:00 | hawkesbury      |      3 |        1 | Diamond Flare     |   3.4  | looseknot    |
 |  8 | :2nd_place_medal: | 2022-08-09 13:50:00 | hawkesbury      |      2 |       10 | Left Reeling      |   1.45 | jmac         |
