@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-10 07:59:53 +1000  
+date: 2022-08-10 08:06:15 +1000  
 ---   
 
 
@@ -71,16 +71,19 @@ date: 2022-08-10 07:59:53 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3424 |    466 |  -5862.6 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4441 |    165 | -19315   | 0.04 | -0.43 |
 
-|    | finish            | time                | track           |   race |   number | name              |   odds | tipster      |
-|---:|:------------------|:--------------------|:----------------|-------:|---------:|:------------------|-------:|:-------------|
-|  0 | :boom:            | 2022-08-10 05:15:00 | chelmsford-city |      7 |        8 | Asraabb           |   0    | looseknot    |
-|  1 | 4.0               | 2022-08-10 00:15:00 | nottingham      |      3 |        1 | Myboymax          |   6    | vulture      |
-|  2 | :boom:            | 2022-08-09 23:30:00 | lingfield       |      3 |        1 | Sea Tsarina       |   2.62 | milkman      |
-|  3 | 4.0               | 2022-08-09 23:00:00 | lingfield       |      2 |        3 | Apache Spark      |   1.6  | vulture      |
-|  4 | :2nd_place_medal: | 2022-08-09 16:55:00 | hawkesbury      |      7 |        1 | Ceasefire         |   4.5  | pangea,jmac  |
-|  5 | :boom:            | 2022-08-09 16:20:00 | hawkesbury      |      6 |        5 | Communist         |   2.3  | milkman,jmac |
-|  6 | 7.0               | 2022-08-09 14:34:00 | mackay          |      4 |        2 | Rock 'n' Sol      |   9    | pangea       |
-|  7 | 4.0               | 2022-08-09 14:25:00 | hawkesbury      |      3 |        1 | Diamond Flare     |   3.4  | looseknot    |
-|  8 | :2nd_place_medal: | 2022-08-09 13:50:00 | hawkesbury      |      2 |       10 | Left Reeling      |   1.45 | jmac         |
-|  9 | :boom:            | 2022-08-09 13:17:00 | mackay          |      2 |        7 | Corporal          |  22    | cosmo,bluey  |
-| 10 | :3rd_place_medal: | 2022-08-09 12:42:00 | mackay          |      1 |        3 | Tennessee Whiskey |   3.8  | benny,pangea |
+|    | finish   | time                | track                    |   race |   number | name             |   odds | tipster         |
+|---:|:---------|:--------------------|:-------------------------|-------:|---------:|:-----------------|-------:|:----------------|
+|  0 | :soon:   | 2022-08-11 04:15:00 | ffos-las                 |      5 |        3 | Elsals           |   0    | vulture,milkman |
+|  1 | :soon:   | 2022-08-11 03:50:00 | kempton                  |      4 |        2 | Fashion Love     |   0    | vulture         |
+|  2 | :soon:   | 2022-08-11 03:40:00 | ffos-las                 |      4 |        4 | Virtuoso         |   0    | vulture         |
+|  3 | :soon:   | 2022-08-11 02:30:00 | ffos-las                 |      2 |        3 | Saxon Scene      |   0    | vulture         |
+|  4 | :soon:   | 2022-08-11 01:55:00 | ffos-las                 |      1 |        6 | Emerald Lady     |   4.75 | looseknot       |
+|  5 | :soon:   | 2022-08-10 23:00:00 | salisbury                |      2 |        8 | Magical Merlin   |   3.3  | looseknot       |
+|  6 | :soon:   | 2022-08-10 16:20:00 | kensington               |      6 |       10 | Strombus         |   3.6  | vulture,jmac    |
+|  7 | :soon:   | 2022-08-10 15:45:00 | kensington               |      5 |        7 | Laurelin         |   2.38 | jmac            |
+|  8 | :soon:   | 2022-08-10 15:10:00 | kensington               |      4 |        9 | Pretes           |   3    | jmac            |
+|  9 | :soon:   | 2022-08-10 14:53:00 | doomben                  |      4 |        2 | Need New Friends |   8.5  | pangea          |
+| 10 | :soon:   | 2022-08-10 14:35:00 | kensington               |      3 |        2 | Boyszee          |   3.9  | pangea,jmac     |
+| 11 | :soon:   | 2022-08-10 14:00:00 | kensington               |      2 |        6 | Green Flash      |   4.33 | jmac            |
+| 12 | :soon:   | 2022-08-10 14:00:00 | kensington               |      2 |        1 | Hameron          |   3.8  | pangea          |
+| 13 | :soon:   | 2022-08-10 13:29:00 | riccarton-park-synthetic |      7 |        2 | Happy Star       |   3.25 | vulture         |
