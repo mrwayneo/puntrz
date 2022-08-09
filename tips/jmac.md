@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-09 16:43:50 +1000  
+date: 2022-08-09 16:58:50 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 16:55             | 2022-08-09 | hawkesbury R7        | 1 Ceasefire          |  4.5  |    -10   |
+| 0                 | 2022-08-09 | hawkesbury R7        | 1 Ceasefire          |  0    |    -10   |
 | :boom:            | 2022-08-09 | hawkesbury R6        | 5 Communist          |  1.6  |      6   |
 | 5                 | 2022-08-09 | hawkesbury R3        | 5 Sir Ming           |  2.6  |    -10   |
 | :2nd_place_medal: | 2022-08-09 | hawkesbury R2        | 10 Left Reeling      |  1.45 |    -10   |

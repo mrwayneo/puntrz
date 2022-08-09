@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-09 16:43:51 +1000  
+date: 2022-08-09 16:58:51 +1000  
 ---   
 
 
@@ -80,7 +80,7 @@ date: 2022-08-09 16:43:51 +1000
 |  1 | :soon:            | 2022-08-10 00:15:00 | nottingham      |      3 |        1 | Myboymax          |   6    | vulture      |
 |  2 | :soon:            | 2022-08-09 23:30:00 | lingfield       |      3 |        1 | Sea Tsarina       |   2.62 | milkman      |
 |  3 | :soon:            | 2022-08-09 23:00:00 | lingfield       |      2 |        3 | Apache Spark      |   1.6  | vulture      |
-|  4 | :soon:            | 2022-08-09 16:55:00 | hawkesbury      |      7 |        1 | Ceasefire         |   4.5  | pangea,jmac  |
+|  4 | --                | 2022-08-09 16:55:00 | hawkesbury      |      7 |        1 | Ceasefire         |   4.5  | pangea,jmac  |
 |  5 | :boom:            | 2022-08-09 16:20:00 | hawkesbury      |      6 |        5 | Communist         |   2.3  | milkman,jmac |
 |  6 | 7.0               | 2022-08-09 14:34:00 | mackay          |      4 |        2 | Rock 'n' Sol      |   9    | pangea       |
 |  7 | 4.0               | 2022-08-09 14:25:00 | hawkesbury      |      3 |        1 | Diamond Flare     |   3.4  | looseknot    |
