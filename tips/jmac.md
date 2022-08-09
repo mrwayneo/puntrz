@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-09 14:43:47 +1000  
+date: 2022-08-09 14:58:49 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 16:55             | 2022-08-09 | hawkesbury R7        | 1 Ceasefire          |  4.5  |    -10   |
 | 16:20             | 2022-08-09 | hawkesbury R6        | 5 Communist          |  2.3  |    -10   |
-| 0                 | 2022-08-09 | hawkesbury R3        | 5 Sir Ming           |  0    |    -10   |
+| 5                 | 2022-08-09 | hawkesbury R3        | 5 Sir Ming           |  2.6  |    -10   |
 | :2nd_place_medal: | 2022-08-09 | hawkesbury R2        | 10 Left Reeling      |  1.45 |    -10   |
 | :3rd_place_medal: | 2022-08-06 | randwick R10         | 2 Jal Lei            |  5.5  |    -10   |
 | 4                 | 2022-08-06 | randwick R9          | 4 Il Affare          |  4.75 |    -10   |
