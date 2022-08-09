@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-09 17:05:57 +1000  
+date: 2022-08-09 17:13:54 +1000  
 ---   
 
 
@@ -9,9 +9,9 @@ date: 2022-08-09 17:05:57 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      4 |      2 |      429 | 0.5  | 10.73 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |      1 |      1 |      311 | 1    | 31.1  |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      4 |      1 |      281 | 0.25 |  7.02 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     18 |      1 |      141 | 0.06 |  0.78 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     18 |      2 |      289 | 0.11 |  1.61 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      2 |      1 |       -4 | 0.5  | -0.2  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      1 |      0 |      -10 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      1 |      0 |      -10 | 0    | -1    |
@@ -80,7 +80,7 @@ date: 2022-08-09 17:05:57 +1000
 |  1 | :soon:            | 2022-08-10 00:15:00 | nottingham      |      3 |        1 | Myboymax          |   6    | vulture      |
 |  2 | :soon:            | 2022-08-09 23:30:00 | lingfield       |      3 |        1 | Sea Tsarina       |   2.62 | milkman      |
 |  3 | :soon:            | 2022-08-09 23:00:00 | lingfield       |      2 |        3 | Apache Spark      |   1.6  | vulture      |
-|  4 | --                | 2022-08-09 16:55:00 | hawkesbury      |      7 |        1 | Ceasefire         |   4.5  | pangea,jmac  |
+|  4 | :2nd_place_medal: | 2022-08-09 16:55:00 | hawkesbury      |      7 |        1 | Ceasefire         |   4.5  | pangea,jmac  |
 |  5 | :boom:            | 2022-08-09 16:20:00 | hawkesbury      |      6 |        5 | Communist         |   2.3  | milkman,jmac |
 |  6 | 7.0               | 2022-08-09 14:34:00 | mackay          |      4 |        2 | Rock 'n' Sol      |   9    | pangea       |
 |  7 | 4.0               | 2022-08-09 14:25:00 | hawkesbury      |      3 |        1 | Diamond Flare     |   3.4  | looseknot    |
