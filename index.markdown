@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-10 13:59:35 +1000  
+date: 2022-08-10 14:14:28 +1000  
 ---   
 
 
@@ -9,11 +9,11 @@ date: 2022-08-10 13:59:35 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      3 |      1 |        3 | 0.33 |  0.1  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      1 |      0 |      -10 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      2 |      0 |      -20 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      1 |      -23 | 0.17 | -0.38 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      3 |      0 |      -30 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      1 |      -25 | 0.17 | -0.42 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      5 |      0 |      -50 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      8 |      0 |      -80 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |      8 |      0 |      -80 | 0    | -1    |
@@ -84,6 +84,6 @@ date: 2022-08-10 13:59:35 +1000
 |  8 | :soon:   | 2022-08-10 15:10:00 | kensington               |      4 |        9 | Pretes           |   3    | jmac            |
 |  9 | :soon:   | 2022-08-10 14:53:00 | doomben                  |      4 |        2 | Need New Friends |   8.5  | pangea          |
 | 10 | :soon:   | 2022-08-10 14:35:00 | kensington               |      3 |        2 | Boyszee          |   3.9  | pangea,jmac     |
-| 11 | :soon:   | 2022-08-10 14:00:00 | kensington               |      2 |        6 | Green Flash      |   4.33 | jmac            |
-| 12 | :soon:   | 2022-08-10 14:00:00 | kensington               |      2 |        1 | Hameron          |   3.8  | pangea          |
+| 11 | --       | 2022-08-10 14:00:00 | kensington               |      2 |        6 | Green Flash      |   4.33 | jmac            |
+| 12 | :boom:   | 2022-08-10 14:00:00 | kensington               |      2 |        1 | Hameron          |   3.8  | pangea          |
 | 13 | :boom:   | 2022-08-10 13:29:00 | riccarton-park-synthetic |      7 |        2 | Happy Star       |   3.25 | vulture         |
