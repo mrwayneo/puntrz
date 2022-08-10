@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-10 15:44:37 +1000  
+date: 2022-08-10 15:59:41 +1000  
 ---   
 
 
@@ -80,7 +80,7 @@ date: 2022-08-10 15:44:37 +1000
 |  4 | :soon:            | 2022-08-11 01:55:00 | ffos-las                 |      1 |        6 | Emerald Lady     |   4.75 | looseknot       |
 |  5 | :soon:            | 2022-08-10 23:00:00 | salisbury                |      2 |        8 | Magical Merlin   |   3.3  | looseknot       |
 |  6 | :soon:            | 2022-08-10 16:20:00 | kensington               |      6 |       10 | Strombus         |   3.6  | vulture,jmac    |
-|  7 | :soon:            | 2022-08-10 15:45:00 | kensington               |      5 |        7 | Laurelin         |   2.38 | jmac            |
+|  7 | :2nd_place_medal: | 2022-08-10 15:45:00 | kensington               |      5 |        7 | Laurelin         |   2.38 | jmac            |
 |  8 | 4.0               | 2022-08-10 15:10:00 | kensington               |      4 |        9 | Pretes           |   3    | jmac            |
 |  9 | :2nd_place_medal: | 2022-08-10 14:53:00 | doomben                  |      4 |        2 | Need New Friends |   8.5  | pangea          |
 | 10 | :boom:            | 2022-08-10 14:35:00 | kensington               |      3 |        2 | Boyszee          |   3.9  | pangea,jmac     |

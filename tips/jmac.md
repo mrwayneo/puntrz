@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-10 15:44:35 +1000  
+date: 2022-08-10 15:59:40 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 16:20             | 2022-08-10 | kensington R6        | 10 Strombus          |  3.6  |    -10   |
-| 15:45             | 2022-08-10 | kensington R5        | 7 Laurelin           |  2.38 |    -10   |
+| :2nd_place_medal: | 2022-08-10 | kensington R5        | 7 Laurelin           |  2.38 |    -10   |
 | 4                 | 2022-08-10 | kensington R4        | 9 Pretes             |  3    |    -10   |
 | :boom:            | 2022-08-10 | kensington R3        | 2 Boyszee            |  4.5  |     35   |
 | 0                 | 2022-08-10 | kensington R2        | 6 Green Flash        |  0    |    -10   |
