@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-10 14:29:35 +1000  
+date: 2022-08-10 14:44:27 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 16:20             | 2022-08-10 | kensington R6        | 10 Strombus          |  3.6  |    -10   |
 | 15:45             | 2022-08-10 | kensington R5        | 7 Laurelin           |  2.38 |    -10   |
 | 15:10             | 2022-08-10 | kensington R4        | 9 Pretes             |  3    |    -10   |
-| 14:35             | 2022-08-10 | kensington R3        | 2 Boyszee            |  3.9  |    -10   |
+| :boom:            | 2022-08-10 | kensington R3        | 2 Boyszee            |  4.5  |     35   |
 | 0                 | 2022-08-10 | kensington R2        | 6 Green Flash        |  0    |    -10   |
 | :2nd_place_medal: | 2022-08-09 | hawkesbury R7        | 1 Ceasefire          |  4.5  |    -10   |
 | :boom:            | 2022-08-09 | hawkesbury R6        | 5 Communist          |  1.6  |      6   |
