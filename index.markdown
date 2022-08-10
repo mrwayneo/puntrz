@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-10 14:44:28 +1000  
+date: 2022-08-10 14:59:40 +1000  
 ---   
 
 
@@ -71,19 +71,19 @@ date: 2022-08-10 14:44:28 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3424 |    466 |  -5862.6 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4441 |    165 | -19315   | 0.04 | -0.43 |
 
-|    | finish   | time                | track                    |   race |   number | name             |   odds | tipster         |
-|---:|:---------|:--------------------|:-------------------------|-------:|---------:|:-----------------|-------:|:----------------|
-|  0 | :soon:   | 2022-08-11 04:15:00 | ffos-las                 |      5 |        3 | Elsals           |   0    | vulture,milkman |
-|  1 | :soon:   | 2022-08-11 03:50:00 | kempton                  |      4 |        2 | Fashion Love     |   0    | vulture         |
-|  2 | :soon:   | 2022-08-11 03:40:00 | ffos-las                 |      4 |        4 | Virtuoso         |   0    | vulture         |
-|  3 | :soon:   | 2022-08-11 02:30:00 | ffos-las                 |      2 |        3 | Saxon Scene      |   0    | vulture         |
-|  4 | :soon:   | 2022-08-11 01:55:00 | ffos-las                 |      1 |        6 | Emerald Lady     |   4.75 | looseknot       |
-|  5 | :soon:   | 2022-08-10 23:00:00 | salisbury                |      2 |        8 | Magical Merlin   |   3.3  | looseknot       |
-|  6 | :soon:   | 2022-08-10 16:20:00 | kensington               |      6 |       10 | Strombus         |   3.6  | vulture,jmac    |
-|  7 | :soon:   | 2022-08-10 15:45:00 | kensington               |      5 |        7 | Laurelin         |   2.38 | jmac            |
-|  8 | :soon:   | 2022-08-10 15:10:00 | kensington               |      4 |        9 | Pretes           |   3    | jmac            |
-|  9 | :soon:   | 2022-08-10 14:53:00 | doomben                  |      4 |        2 | Need New Friends |   8.5  | pangea          |
-| 10 | :boom:   | 2022-08-10 14:35:00 | kensington               |      3 |        2 | Boyszee          |   3.9  | pangea,jmac     |
-| 11 | --       | 2022-08-10 14:00:00 | kensington               |      2 |        6 | Green Flash      |   4.33 | jmac            |
-| 12 | :boom:   | 2022-08-10 14:00:00 | kensington               |      2 |        1 | Hameron          |   3.8  | pangea          |
-| 13 | :boom:   | 2022-08-10 13:29:00 | riccarton-park-synthetic |      7 |        2 | Happy Star       |   3.25 | vulture         |
+|    | finish            | time                | track                    |   race |   number | name             |   odds | tipster         |
+|---:|:------------------|:--------------------|:-------------------------|-------:|---------:|:-----------------|-------:|:----------------|
+|  0 | :soon:            | 2022-08-11 04:15:00 | ffos-las                 |      5 |        3 | Elsals           |   0    | vulture,milkman |
+|  1 | :soon:            | 2022-08-11 03:50:00 | kempton                  |      4 |        2 | Fashion Love     |   0    | vulture         |
+|  2 | :soon:            | 2022-08-11 03:40:00 | ffos-las                 |      4 |        4 | Virtuoso         |   0    | vulture         |
+|  3 | :soon:            | 2022-08-11 02:30:00 | ffos-las                 |      2 |        3 | Saxon Scene      |   0    | vulture         |
+|  4 | :soon:            | 2022-08-11 01:55:00 | ffos-las                 |      1 |        6 | Emerald Lady     |   4.75 | looseknot       |
+|  5 | :soon:            | 2022-08-10 23:00:00 | salisbury                |      2 |        8 | Magical Merlin   |   3.3  | looseknot       |
+|  6 | :soon:            | 2022-08-10 16:20:00 | kensington               |      6 |       10 | Strombus         |   3.6  | vulture,jmac    |
+|  7 | :soon:            | 2022-08-10 15:45:00 | kensington               |      5 |        7 | Laurelin         |   2.38 | jmac            |
+|  8 | :soon:            | 2022-08-10 15:10:00 | kensington               |      4 |        9 | Pretes           |   3    | jmac            |
+|  9 | :2nd_place_medal: | 2022-08-10 14:53:00 | doomben                  |      4 |        2 | Need New Friends |   8.5  | pangea          |
+| 10 | :boom:            | 2022-08-10 14:35:00 | kensington               |      3 |        2 | Boyszee          |   3.9  | pangea,jmac     |
+| 11 | --                | 2022-08-10 14:00:00 | kensington               |      2 |        6 | Green Flash      |   4.33 | jmac            |
+| 12 | :boom:            | 2022-08-10 14:00:00 | kensington               |      2 |        1 | Hameron          |   3.8  | pangea          |
+| 13 | :boom:            | 2022-08-10 13:29:00 | riccarton-park-synthetic |      7 |        2 | Happy Star       |   3.25 | vulture         |
