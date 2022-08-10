@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-11 07:51:53 +1000  
+date: 2022-08-11 08:00:25 +1000  
 ---   
 
 
@@ -75,19 +75,24 @@ date: 2022-08-11 07:51:53 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3394 |    466 |  -5584.9 | 0.14 | -0.16 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4405 |    162 | -19454   | 0.04 | -0.44 |
 
-|    | finish            | time                | track                    |   race |   number | name             |   odds | tipster         |
-|---:|:------------------|:--------------------|:-------------------------|-------:|---------:|:-----------------|-------:|:----------------|
-|  0 | :3rd_place_medal: | 2022-08-11 04:15:00 | ffos-las                 |      5 |        3 | Elsals           |   0    | vulture,milkman |
-|  1 | :boom:            | 2022-08-11 03:50:00 | kempton                  |      4 |        2 | Fashion Love     |   0    | vulture         |
-|  2 | 5.0               | 2022-08-11 03:40:00 | ffos-las                 |      4 |        4 | Virtuoso         |   0    | vulture         |
-|  3 | :3rd_place_medal: | 2022-08-11 02:30:00 | ffos-las                 |      2 |        3 | Saxon Scene      |   0    | vulture         |
-|  4 | :boom:            | 2022-08-11 01:55:00 | ffos-las                 |      1 |        6 | Emerald Lady     |   4.75 | looseknot       |
-|  5 | --                | 2022-08-10 23:00:00 | salisbury                |      2 |        8 | Magical Merlin   |   3.3  | looseknot       |
-|  6 | :3rd_place_medal: | 2022-08-10 16:20:00 | kensington               |      6 |       10 | Strombus         |   3.6  | vulture,jmac    |
-|  7 | :2nd_place_medal: | 2022-08-10 15:45:00 | kensington               |      5 |        7 | Laurelin         |   2.38 | jmac            |
-|  8 | 4.0               | 2022-08-10 15:10:00 | kensington               |      4 |        9 | Pretes           |   3    | jmac            |
-|  9 | :2nd_place_medal: | 2022-08-10 14:53:00 | doomben                  |      4 |        2 | Need New Friends |   8.5  | pangea          |
-| 10 | :boom:            | 2022-08-10 14:35:00 | kensington               |      3 |        2 | Boyszee          |   3.9  | pangea,jmac     |
-| 11 | --                | 2022-08-10 14:00:00 | kensington               |      2 |        6 | Green Flash      |   4.33 | jmac            |
-| 12 | :boom:            | 2022-08-10 14:00:00 | kensington               |      2 |        1 | Hameron          |   3.8  | pangea          |
-| 13 | :boom:            | 2022-08-10 13:29:00 | riccarton-park-synthetic |      7 |        2 | Happy Star       |   3.25 | vulture         |
+|    | finish   | time                | track        |   race |   number | name              |   odds | tipster            |
+|---:|:---------|:--------------------|:-------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-08-12 05:30:00 | tramore      |      7 |        6 | Kottayam          |    0   | overthrow          |
+|  1 | :soon:   | 2022-08-12 04:40:00 | lingfield    |      6 |        1 | Purple Ribbon     |    0   | milkman            |
+|  2 | :soon:   | 2022-08-12 03:40:00 | lingfield    |      4 |        5 | Postmark          |    0   | evenodds,overthrow |
+|  3 | :soon:   | 2022-08-12 03:30:00 | tramore      |      3 |        4 | Modestus          |    0   | looseknot          |
+|  4 | :soon:   | 2022-08-12 03:10:00 | lingfield    |      3 |        3 | Sunningdale       |    0   | looseknot          |
+|  5 | :soon:   | 2022-08-12 02:50:00 | leopardstown |      2 |        2 | Wartime Warrior   |    0   | evenodds,overthrow |
+|  6 | :soon:   | 2022-08-12 02:30:00 | tramore      |      1 |        2 | Brown Monday      |    5.5 | looseknot          |
+|  7 | :soon:   | 2022-08-12 00:50:00 | vaal         |      8 |        7 | Coming In Hot     |    0   | vulture            |
+|  8 | :soon:   | 2022-08-11 23:10:00 | beverley     |      2 |        1 | Madam Macho       |    6   | looseknot          |
+|  9 | :soon:   | 2022-08-11 22:55:00 | salisbury    |      1 |        6 | Zaakara           |    4.8 | looseknot          |
+| 10 | :soon:   | 2022-08-11 17:10:00 | mount-isa    |      7 |        3 | Underthespotlight |    0   | overthrow          |
+| 11 | :soon:   | 2022-08-11 16:35:00 | mount-isa    |      6 |        8 | Le Force          |    0   | benny,icyhot       |
+| 12 | :soon:   | 2022-08-11 15:55:00 | mount-isa    |      5 |        3 | Taken On Chance   |    0   | pangea             |
+| 13 | :soon:   | 2022-08-11 15:20:00 | mount-isa    |      4 |        2 | Teddy Mercury     |    0   | overthrow          |
+| 14 | :soon:   | 2022-08-11 15:20:00 | mount-isa    |      4 |        4 | Sole Heir         |    0   | pangea             |
+| 15 | :soon:   | 2022-08-11 14:10:00 | mount-isa    |      2 |        1 | Royo              |    0   | pangea             |
+| 16 | :soon:   | 2022-08-11 13:35:00 | mount-isa    |      1 |        2 | Han Dynasty       |    0   | benny,pangea       |
+| 17 | :soon:   | 2022-08-11 13:35:00 | mount-isa    |      1 |        3 | Latin Dayz        |    0   | benny,icyhot       |
+| 18 | :soon:   | 2022-08-11 12:35:00 | newcastle    |      1 |        1 | Sardegna          |    3.8 | jmac               |
