@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-10 13:14:34 +1000  
+date: 2022-08-10 13:29:37 +1000  
 ---   
 
 
@@ -86,4 +86,4 @@ date: 2022-08-10 13:14:34 +1000
 | 10 | :soon:   | 2022-08-10 14:35:00 | kensington               |      3 |        2 | Boyszee          |   3.9  | pangea,jmac     |
 | 11 | :soon:   | 2022-08-10 14:00:00 | kensington               |      2 |        6 | Green Flash      |   4.33 | jmac            |
 | 12 | :soon:   | 2022-08-10 14:00:00 | kensington               |      2 |        1 | Hameron          |   3.8  | pangea          |
-| 13 | :soon:   | 2022-08-10 13:29:00 | riccarton-park-synthetic |      7 |        2 | Happy Star       |   3.25 | vulture         |
+| 13 | --       | 2022-08-10 13:29:00 | riccarton-park-synthetic |      7 |        2 | Happy Star       |   3.25 | vulture         |
