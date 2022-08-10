@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-10 14:59:40 +1000  
+date: 2022-08-10 15:14:39 +1000  
 ---   
 
 
@@ -14,7 +14,7 @@ date: 2022-08-10 14:59:40 +1000
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      5 |      1 |       -5 | 0.2  | -0.1  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      1 |      0 |      -10 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      2 |      0 |      -20 | 0    | -1    |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      1 |      -23 | 0.17 | -0.38 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      1 |      -25 | 0.17 | -0.42 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      8 |      0 |      -80 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |      8 |      0 |      -80 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     20 |      0 |     -200 | 0    | -1    |
@@ -81,7 +81,7 @@ date: 2022-08-10 14:59:40 +1000
 |  5 | :soon:            | 2022-08-10 23:00:00 | salisbury                |      2 |        8 | Magical Merlin   |   3.3  | looseknot       |
 |  6 | :soon:            | 2022-08-10 16:20:00 | kensington               |      6 |       10 | Strombus         |   3.6  | vulture,jmac    |
 |  7 | :soon:            | 2022-08-10 15:45:00 | kensington               |      5 |        7 | Laurelin         |   2.38 | jmac            |
-|  8 | :soon:            | 2022-08-10 15:10:00 | kensington               |      4 |        9 | Pretes           |   3    | jmac            |
+|  8 | --                | 2022-08-10 15:10:00 | kensington               |      4 |        9 | Pretes           |   3    | jmac            |
 |  9 | :2nd_place_medal: | 2022-08-10 14:53:00 | doomben                  |      4 |        2 | Need New Friends |   8.5  | pangea          |
 | 10 | :boom:            | 2022-08-10 14:35:00 | kensington               |      3 |        2 | Boyszee          |   3.9  | pangea,jmac     |
 | 11 | --                | 2022-08-10 14:00:00 | kensington               |      2 |        6 | Green Flash      |   4.33 | jmac            |
