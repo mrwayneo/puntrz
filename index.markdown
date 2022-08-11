@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-11 15:09:48 +1000  
+date: 2022-08-11 15:24:46 +1000  
 ---   
 
 
@@ -9,7 +9,7 @@ date: 2022-08-11 15:09:48 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      2 |       20 | 0.29 |  0.29 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      3 |       49 | 0.43 |  0.7  |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      1 |       -7 | 0.33 | -0.23 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      1 |      0 |      -10 | 0    | -1    |
@@ -90,8 +90,8 @@ date: 2022-08-11 15:09:48 +1000
 | 10 | :soon:            | 2022-08-11 17:10:00 | mount-isa    |      7 |        3 | Underthespotlight |    0   | overthrow          |
 | 11 | :soon:            | 2022-08-11 16:35:00 | mount-isa    |      6 |        8 | Le Force          |    0   | benny,icyhot       |
 | 12 | :soon:            | 2022-08-11 15:55:00 | mount-isa    |      5 |        3 | Taken On Chance   |    0   | pangea             |
-| 13 | :soon:            | 2022-08-11 15:20:00 | mount-isa    |      4 |        2 | Teddy Mercury     |    0   | overthrow          |
-| 14 | :soon:            | 2022-08-11 15:20:00 | mount-isa    |      4 |        4 | Sole Heir         |    0   | pangea             |
+| 13 | :3rd_place_medal: | 2022-08-11 15:20:00 | mount-isa    |      4 |        2 | Teddy Mercury     |    0   | overthrow          |
+| 14 | :boom:            | 2022-08-11 15:20:00 | mount-isa    |      4 |        4 | Sole Heir         |    0   | pangea             |
 | 15 | :boom:            | 2022-08-11 14:10:00 | mount-isa    |      2 |        1 | Royo              |    0   | pangea             |
 | 16 | :boom:            | 2022-08-11 13:35:00 | mount-isa    |      1 |        2 | Han Dynasty       |    0   | benny,pangea       |
 | 17 | :2nd_place_medal: | 2022-08-11 13:35:00 | mount-isa    |      1 |        3 | Latin Dayz        |    0   | benny,icyhot       |
