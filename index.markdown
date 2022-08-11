@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-11 15:54:38 +1000  
+date: 2022-08-11 16:09:48 +1000  
 ---   
 
 
@@ -89,7 +89,7 @@ date: 2022-08-11 15:54:38 +1000
 |  9 | :soon:            | 2022-08-11 22:55:00 | salisbury    |      1 |        6 | Zaakara           |    4.8 | looseknot          |
 | 10 | :soon:            | 2022-08-11 17:10:00 | mount-isa    |      7 |        3 | Underthespotlight |    0   | overthrow          |
 | 11 | :soon:            | 2022-08-11 16:35:00 | mount-isa    |      6 |        8 | Le Force          |    0   | benny,icyhot       |
-| 12 | :soon:            | 2022-08-11 15:55:00 | mount-isa    |      5 |        3 | Taken On Chance   |    0   | pangea             |
+| 12 | --                | 2022-08-11 15:55:00 | mount-isa    |      5 |        3 | Taken On Chance   |    0   | pangea             |
 | 13 | :3rd_place_medal: | 2022-08-11 15:20:00 | mount-isa    |      4 |        2 | Teddy Mercury     |    0   | overthrow          |
 | 14 | :boom:            | 2022-08-11 15:20:00 | mount-isa    |      4 |        4 | Sole Heir         |    0   | pangea             |
 | 15 | :boom:            | 2022-08-11 14:10:00 | mount-isa    |      2 |        1 | Royo              |    0   | pangea             |
