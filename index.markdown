@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-11 17:54:51 +1000  
+date: 2022-08-11 18:09:54 +1000  
 ---   
 
 
@@ -87,7 +87,7 @@ date: 2022-08-11 17:54:51 +1000
 |  7 | :soon:            | 2022-08-12 00:50:00 | vaal         |      8 |        7 | Coming In Hot     |    0   | vulture            |
 |  8 | :soon:            | 2022-08-11 23:10:00 | beverley     |      2 |        1 | Madam Macho       |    6   | looseknot          |
 |  9 | :soon:            | 2022-08-11 22:55:00 | salisbury    |      1 |        6 | Zaakara           |    4.8 | looseknot          |
-| 10 | --                | 2022-08-11 17:10:00 | mount-isa    |      7 |        3 | Underthespotlight |    0   | overthrow          |
+| 10 | 6.0               | 2022-08-11 17:10:00 | mount-isa    |      7 |        3 | Underthespotlight |    0   | overthrow          |
 | 11 | :3rd_place_medal: | 2022-08-11 16:35:00 | mount-isa    |      6 |        8 | Le Force          |    0   | benny,icyhot       |
 | 12 | 5.0               | 2022-08-11 15:55:00 | mount-isa    |      5 |        3 | Taken On Chance   |    0   | pangea             |
 | 13 | :3rd_place_medal: | 2022-08-11 15:20:00 | mount-isa    |      4 |        2 | Teddy Mercury     |    0   | overthrow          |
