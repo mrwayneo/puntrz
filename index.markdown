@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-12 07:55:18 +1000  
+date: 2022-08-12 08:30:31 +1000  
 ---   
 
 
@@ -70,24 +70,11 @@ date: 2022-08-12 07:55:18 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3384 |    467 |  -5458.9 | 0.14 | -0.16 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4403 |    160 | -19304   | 0.04 | -0.44 |
 
-|    | finish            | time                | track        |   race |   number | name              |   odds | tipster            |
-|---:|:------------------|:--------------------|:-------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :boom:            | 2022-08-12 05:30:00 | tramore      |      7 |        6 | Kottayam          |    0   | overthrow          |
-|  1 | 4.0               | 2022-08-12 04:40:00 | lingfield    |      6 |        1 | Purple Ribbon     |    0   | milkman            |
-|  2 | :soon:            | 2022-08-12 03:40:00 | lingfield    |      4 |        5 | Postmark          |    0   | evenodds,overthrow |
-|  3 | --                | 2022-08-12 03:30:00 | tramore      |      3 |        4 | Modestus          |    0   | looseknot          |
-|  4 | :2nd_place_medal: | 2022-08-12 03:10:00 | lingfield    |      3 |        3 | Sunningdale       |    0   | looseknot          |
-|  5 | :soon:            | 2022-08-12 02:50:00 | leopardstown |      2 |        2 | Wartime Warrior   |    0   | evenodds,overthrow |
-|  6 | --                | 2022-08-12 02:30:00 | tramore      |      1 |        2 | Brown Monday      |    5.5 | looseknot          |
-|  7 | :3rd_place_medal: | 2022-08-12 00:50:00 | vaal         |      8 |        7 | Coming In Hot     |    0   | vulture            |
-|  8 | --                | 2022-08-11 23:10:00 | beverley     |      2 |        1 | Madam Macho       |    6   | looseknot          |
-|  9 | --                | 2022-08-11 22:55:00 | salisbury    |      1 |        6 | Zaakara           |    4.8 | looseknot          |
-| 10 | 6.0               | 2022-08-11 17:10:00 | mount-isa    |      7 |        3 | Underthespotlight |    0   | overthrow          |
-| 11 | :3rd_place_medal: | 2022-08-11 16:35:00 | mount-isa    |      6 |        8 | Le Force          |    0   | benny,icyhot       |
-| 12 | 5.0               | 2022-08-11 15:55:00 | mount-isa    |      5 |        3 | Taken On Chance   |    0   | pangea             |
-| 13 | :3rd_place_medal: | 2022-08-11 15:20:00 | mount-isa    |      4 |        2 | Teddy Mercury     |    0   | overthrow          |
-| 14 | :boom:            | 2022-08-11 15:20:00 | mount-isa    |      4 |        4 | Sole Heir         |    0   | pangea             |
-| 15 | :boom:            | 2022-08-11 14:10:00 | mount-isa    |      2 |        1 | Royo              |    0   | pangea             |
-| 16 | :boom:            | 2022-08-11 13:35:00 | mount-isa    |      1 |        2 | Han Dynasty       |    0   | benny,pangea       |
-| 17 | :2nd_place_medal: | 2022-08-11 13:35:00 | mount-isa    |      1 |        3 | Latin Dayz        |    0   | benny,icyhot       |
-| 18 | :3rd_place_medal: | 2022-08-11 12:35:00 | newcastle    |      1 |        1 | Sardegna          |    3.8 | jmac               |
+|    | finish   | time                | track   |   race |   number | name            |   odds | tipster      |
+|---:|:---------|:--------------------|:--------|-------:|---------:|:----------------|-------:|:-------------|
+|  0 | :soon:   | 2022-08-13 05:05:00 | tramore |      7 |       10 | Space Tourist   |   0    | overthrow    |
+|  1 | :soon:   | 2022-08-13 04:40:00 | cork    |      6 |        4 | Cairde Go Deo   |   0    | benny,pangea |
+|  2 | :soon:   | 2022-08-13 03:55:00 | tramore |      5 |       15 | Winnie Woodnutt |   0    | looseknot    |
+|  3 | :soon:   | 2022-08-12 23:00:00 | newbury |      2 |       10 | Leadman         |   1.85 | vulture      |
+|  4 | :soon:   | 2022-08-12 23:00:00 | newbury |      2 |        5 | Cobalt Blue     |  21    | overthrow    |
+|  5 | :soon:   | 2022-08-12 13:27:00 | ipswich |      4 |        2 | Grand Zou       |   6.5  | benny,pangea |
