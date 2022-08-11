@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-08-11 21:09:51 +1000  
+date: 2022-08-11 21:15:27 +1000  
 categories: None 
 ---   
 
@@ -61,8 +61,8 @@ categories: None
 | :2nd_place_medal: | 2022-04-30 | newmarket R5                  | 1 Yibir               |  1.24 |    -10   |
 | :3rd_place_medal: | 2022-04-28 | mackay R8                     | 5 Brigalow Boy        |  2.2  |    -10   |
 | 5                 | 2022-04-28 | mackay R4                     | 1 Time For Victory    |  8    |    -10   |
-| :boom:            | 2022-04-27 | punchestown R4                | 4 Energumene          |  1.6  |      6   |
 | :2nd_place_medal: | 2022-04-27 | punchestown R4                | 3 Chacun Pour Soi     |  2.5  |    -10   |
+| :boom:            | 2022-04-27 | punchestown R4                | 4 Energumene          |  1.6  |      6   |
 | :boom:            | 2022-04-25 | darwin R4                     | 4 Poupee              |  1.9  |      9   |
 | 4                 | 2022-04-25 | flemington R8                 | 12 Rockribbed         |  3.1  |    -10   |
 | 4                 | 2022-04-25 | darwin R3                     | 3 Blueant             |  3.3  |    -10   |
@@ -106,8 +106,8 @@ categories: None
 | 4                 | 2022-03-17 | ipswich R6                    | 1 Avowal              |  3.4  |    -10   |
 | 99                | 2022-03-17 | kempton R1                    | 1 Deciduous           |  0    |    -10   |
 | :3rd_place_medal: | 2022-03-17 | cheltenham R6                 | 14 Frero Banbou       |  6.5  |    -10   |
-| 99                | 2022-03-17 | cheltenham R4                 | 1 Chacun Pour Soi     |  0    |    -10   |
 | :boom:            | 2022-03-17 | cheltenham R4                 | 2 Energumene          |  4.2  |     32   |
+| 99                | 2022-03-17 | cheltenham R4                 | 1 Chacun Pour Soi     |  0    |    -10   |
 | :boom:            | 2022-03-16 | ascot R4                      | 4 The Witch Doctor    |  4.2  |     32   |
 | :3rd_place_medal: | 2022-03-16 | cheltenham R2                 | 1 Blue Lord           |  5.5  |    -10   |
 | 99                | 2022-03-15 | wolverhampton R1              | 3 Hold Fast           |  0    |    -10   |
@@ -119,8 +119,8 @@ categories: None
 | 4                 | 2022-03-12 | alice-springs R3              | 1 That's Justified    |  2.8  |    -10   |
 | :3rd_place_medal: | 2022-03-12 | alice-springs R3              | 5 Mathematics         |  3.2  |    -10   |
 | :2nd_place_medal: | 2022-03-12 | morphettville-parks R8        | 7 Last Girl Love      |  2.6  |    -10   |
-| 6                 | 2022-03-12 | alice-springs R2              | 1 Butterfingers       |  3.8  |    -10   |
 | :3rd_place_medal: | 2022-03-12 | alice-springs R2              | 6 Celtic Belle        |  5.5  |    -10   |
+| 6                 | 2022-03-12 | alice-springs R2              | 1 Butterfingers       |  3.8  |    -10   |
 | :3rd_place_medal: | 2022-03-12 | alice-springs R1              | 3 Extraction          |  3.2  |    -10   |
 | :boom:            | 2022-03-12 | eagle-farm R5                 | 1 Gypsy Goddess       |  2.1  |     11   |
 | :3rd_place_medal: | 2022-03-12 | rockhampton R3                | 4 The Egyptian        |  2.15 |    -10   |
@@ -149,8 +149,8 @@ categories: None
 | :boom:            | 2022-02-27 | ballarat R6                   | 7 Rockribbed          |  3.1  |     21   |
 | 99                | 2022-02-27 | kempton R2                    | 1 Impulsive One       |  0    |    -10   |
 | :2nd_place_medal: | 2022-02-26 | alice-springs R3              | 3 Mathematics         |  1.8  |    -10   |
-| :2nd_place_medal: | 2022-02-26 | caulfield R8                  | 7 Away Game           |  9    |    -10   |
 | 5                 | 2022-02-26 | caulfield R8                  | 4 Bella Nipotina      | 11    |    -10   |
+| :2nd_place_medal: | 2022-02-26 | caulfield R8                  | 7 Away Game           |  9    |    -10   |
 | 5                 | 2022-02-26 | alice-springs R2              | 8 Celtic Belle        |  3.8  |    -10   |
 | 8                 | 2022-02-26 | morphettville R6              | 6 Extra Mile          |  7    |    -10   |
 | 4                 | 2022-02-26 | caulfield R4                  | 5 Decent Raine        |  7    |    -10   |
@@ -660,8 +660,8 @@ categories: None
 | :boom:            | 2021-05-09 | devonport-synthetic R7        | 6 Spihro              |  7    |     60   |
 | 4                 | 2021-05-09 | devonport-synthetic R6        | 2 Sanction King       |  2.6  |    -10   |
 | :boom:            | 2021-05-08 | ascot R6                      | 9 Angelic Miss        |  2.7  |     17   |
-| :2nd_place_medal: | 2021-05-08 | darwin R2                     | 1 Trebla              | 13    |    -10   |
 | :boom:            | 2021-05-08 | darwin R2                     | 2 Count of Essex      |  7.4  |     64   |
+| :2nd_place_medal: | 2021-05-08 | darwin R2                     | 1 Trebla              | 13    |    -10   |
 | 5                 | 2021-05-08 | darwin R1                     | 2 Kaptan Apollo       |  3.8  |    -10   |
 | :3rd_place_medal: | 2021-05-06 | wagga R1                      | 1 Mortal Witness      |  6.6  |    -10   |
 | :2nd_place_medal: | 2021-05-05 | canterbury R5                 | 2 Kobe Rocks          |  5.1  |    -10   |
