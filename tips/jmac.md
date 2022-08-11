@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-11 12:06:09 +1000  
+date: 2022-08-11 12:45:12 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 12:35             | 2022-08-11 | newcastle R1         | 1 Sardegna           |  3.8  |    -10   |
+| :3rd_place_medal: | 2022-08-11 | newcastle R1         | 1 Sardegna           |  3.8  |    -10   |
 | :3rd_place_medal: | 2022-08-10 | kensington R6        | 10 Strombus          |  3.6  |    -10   |
 | :2nd_place_medal: | 2022-08-10 | kensington R5        | 7 Laurelin           |  2.38 |    -10   |
 | 4                 | 2022-08-10 | kensington R4        | 9 Pretes             |  3    |    -10   |
