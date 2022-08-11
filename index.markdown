@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-11 13:30:27 +1000  
+date: 2022-08-11 14:54:49 +1000  
 ---   
 
 
@@ -9,19 +9,19 @@ date: 2022-08-11 13:30:27 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      1 |      0 |      -10 |    0 |    -1 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      1 |      0 |      -10 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 |    0 |    -1 |
-| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      6 |      0 |      -60 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      0 |      -70 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     14 |      0 |     -140 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     33 |      0 |     -330 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     36 |      0 |     -360 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      7 |      2 |       20 | 0.29 |  0.29 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      1 |       -7 | 0.33 | -0.23 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      1 |      0 |      -10 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      1 |      0 |      -10 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      1 |      0 |      -10 | 0    | -1    |
+| [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      2 |      0 |      -20 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      6 |      0 |      -60 | 0    | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      6 |      0 |      -60 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     14 |      0 |     -140 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     33 |      0 |     -330 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     36 |      0 |     -360 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -92,7 +92,7 @@ date: 2022-08-11 13:30:27 +1000
 | 12 | :soon:            | 2022-08-11 15:55:00 | mount-isa    |      5 |        3 | Taken On Chance   |    0   | pangea             |
 | 13 | :soon:            | 2022-08-11 15:20:00 | mount-isa    |      4 |        2 | Teddy Mercury     |    0   | overthrow          |
 | 14 | :soon:            | 2022-08-11 15:20:00 | mount-isa    |      4 |        4 | Sole Heir         |    0   | pangea             |
-| 15 | :soon:            | 2022-08-11 14:10:00 | mount-isa    |      2 |        1 | Royo              |    0   | pangea             |
-| 16 | :soon:            | 2022-08-11 13:35:00 | mount-isa    |      1 |        2 | Han Dynasty       |    0   | benny,pangea       |
-| 17 | :soon:            | 2022-08-11 13:35:00 | mount-isa    |      1 |        3 | Latin Dayz        |    0   | benny,icyhot       |
+| 15 | :boom:            | 2022-08-11 14:10:00 | mount-isa    |      2 |        1 | Royo              |    0   | pangea             |
+| 16 | :boom:            | 2022-08-11 13:35:00 | mount-isa    |      1 |        2 | Han Dynasty       |    0   | benny,pangea       |
+| 17 | :2nd_place_medal: | 2022-08-11 13:35:00 | mount-isa    |      1 |        3 | Latin Dayz        |    0   | benny,icyhot       |
 | 18 | :3rd_place_medal: | 2022-08-11 12:35:00 | newcastle    |      1 |        1 | Sardegna          |    3.8 | jmac               |
