@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-13 07:50:05 +1000  
+date: 2022-08-13 08:24:41 +1000  
 ---   
 
 
@@ -76,11 +76,33 @@ date: 2022-08-13 07:50:05 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3383 |    464 |  -5913.9 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4328 |    157 | -19056   | 0.04 | -0.44 |
 
-|    | finish            | time                | track   |   race |   number | name            |   odds | tipster      |
-|---:|:------------------|:--------------------|:--------|-------:|---------:|:----------------|-------:|:-------------|
-|  0 | :boom:            | 2022-08-13 05:05:00 | tramore |      7 |       10 | Space Tourist   |   0    | overthrow    |
-|  1 | :2nd_place_medal: | 2022-08-13 04:40:00 | cork    |      6 |        4 | Cairde Go Deo   |   0    | benny,pangea |
-|  2 | --                | 2022-08-13 03:55:00 | tramore |      5 |       15 | Winnie Woodnutt |   0    | looseknot    |
-|  3 | :2nd_place_medal: | 2022-08-12 23:00:00 | newbury |      2 |       10 | Leadman         |   1.85 | vulture      |
-|  4 | 4.0               | 2022-08-12 23:00:00 | newbury |      2 |        5 | Cobalt Blue     |  21    | overthrow    |
-|  5 | :3rd_place_medal: | 2022-08-12 13:27:00 | ipswich |      4 |        2 | Grand Zou       |   6.5  | benny,pangea |
+|    | finish   | time                | track            |   race |   number | name              |   odds | tipster            |
+|---:|:---------|:--------------------|:-----------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-08-14 01:55:00 | tramore          |      1 |        6 | Raving Royal      |   3.8  | looseknot          |
+|  1 | :soon:   | 2022-08-14 01:40:00 | curragh          |      6 |        5 | Temple Of Artemis |   5    | vulture            |
+|  2 | :soon:   | 2022-08-14 01:05:00 | curragh          |      5 |        4 | Luxembourg        |   1.33 | overthrow,milkman  |
+|  3 | :soon:   | 2022-08-13 17:35:00 | katherine        |      6 |        1 | Jet Jackson       |   2.5  | overthrow          |
+|  4 | :soon:   | 2022-08-13 16:57:00 | katherine        |      5 |        3 | Henestrosa        |   4.8  | overthrow          |
+|  5 | :soon:   | 2022-08-13 16:17:00 | katherine        |      4 |        4 | Little Kibo       |   6.5  | overthrow          |
+|  6 | :soon:   | 2022-08-13 15:37:00 | katherine        |      3 |        3 | Rojo Boom         |   5    | overthrow          |
+|  7 | :soon:   | 2022-08-13 15:35:00 | rosehill-gardens |      8 |        3 | Spacewalk         |   4.8  | jmac               |
+|  8 | :soon:   | 2022-08-13 14:57:00 | katherine        |      2 |        3 | Manly Cove        |   3.4  | pangea,blackshadow |
+|  9 | :soon:   | 2022-08-13 14:55:00 | rosehill-gardens |      7 |        9 | Rondino           |  15    | vulture            |
+| 10 | :soon:   | 2022-08-13 14:15:00 | rosehill-gardens |      6 |        4 | Surefire          |   4    | milkman,jmac       |
+| 11 | :soon:   | 2022-08-13 14:15:00 | rosehill-gardens |      6 |        3 | Oscar Zulu        |   4.75 | benny,wallbow      |
+| 12 | :soon:   | 2022-08-13 13:40:00 | rosehill-gardens |      5 |        5 | Frumos            |   1.95 | pangea,wallbow     |
+| 13 | :soon:   | 2022-08-13 13:40:00 | rosehill-gardens |      5 |        2 | Tawfiq Lass       |   7    | jmac               |
+| 14 | :soon:   | 2022-08-13 13:25:00 | kembla-grange    |      4 |       11 | Emancipist        |   8.5  | looseknot          |
+| 15 | :soon:   | 2022-08-13 13:13:00 | tauranga         |      7 |        4 | Bullybrook        |   2.7  | moechilli          |
+| 16 | :soon:   | 2022-08-13 13:05:00 | rosehill-gardens |      4 |        5 | Katalin           |   2.8  | pangea,jmac        |
+| 17 | :soon:   | 2022-08-13 12:38:00 | eagle-farm       |      3 |        4 | Barade            |   5    | pangea             |
+| 18 | :soon:   | 2022-08-13 12:03:00 | eagle-farm       |      2 |        2 | Ef Troop          |   3.2  | pangea             |
+| 19 | :soon:   | 2022-08-13 12:03:00 | eagle-farm       |      2 |        5 | Ice In Vancouver  |   1.95 | milkman            |
+| 20 | :soon:   | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        3 | Yoshino           |   7.5  | vulture            |
+| 21 | :soon:   | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        7 | Major Beel        |  10    | benny,pangea       |
+| 22 | :soon:   | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        2 | True Crime        |   4    | milkman            |
+| 23 | :soon:   | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        6 | Waverider Buoy    |   4.2  | wallbow            |
+| 24 | :soon:   | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        1 | Showcourt         |  12    | cosmo,jmac         |
+| 25 | :soon:   | 2022-08-13 11:44:00 | riccarton-park   |      5 |        7 | Sea Shepherd      |   3.3  | pangea             |
+| 26 | :soon:   | 2022-08-13 11:40:00 | kembla-grange    |      1 |        7 | Reginald          |   5    | looseknot          |
+| 27 | :soon:   | 2022-08-13 11:09:00 | riccarton-park   |      4 |        7 | The Bold Lioness  |   7.5  | vulture            |
