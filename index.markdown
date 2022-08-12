@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-12 13:25:13 +1000  
+date: 2022-08-12 13:30:35 +1000  
 ---   
 
 
@@ -70,11 +70,11 @@ date: 2022-08-12 13:25:13 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3384 |    467 |  -5458.9 | 0.14 | -0.16 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4403 |    160 | -19304   | 0.04 | -0.44 |
 
-|    | finish   | time                | track   |   race |   number | name            |   odds | tipster      |
-|---:|:---------|:--------------------|:--------|-------:|---------:|:----------------|-------:|:-------------|
-|  0 | :soon:   | 2022-08-13 05:05:00 | tramore |      7 |       10 | Space Tourist   |   0    | overthrow    |
-|  1 | :soon:   | 2022-08-13 04:40:00 | cork    |      6 |        4 | Cairde Go Deo   |   0    | benny,pangea |
-|  2 | :soon:   | 2022-08-13 03:55:00 | tramore |      5 |       15 | Winnie Woodnutt |   0    | looseknot    |
-|  3 | :soon:   | 2022-08-12 23:00:00 | newbury |      2 |       10 | Leadman         |   1.85 | vulture      |
-|  4 | :soon:   | 2022-08-12 23:00:00 | newbury |      2 |        5 | Cobalt Blue     |  21    | overthrow    |
-|  5 | :soon:   | 2022-08-12 13:27:00 | ipswich |      4 |        2 | Grand Zou       |   6.5  | benny,pangea |
+|    | finish                   | time                | track   |   race |   number | name            |   odds | tipster      |
+|---:|:-------------------------|:--------------------|:--------|-------:|---------:|:----------------|-------:|:-------------|
+|  0 | :soon:                   | 2022-08-13 05:05:00 | tramore |      7 |       10 | Space Tourist   |   0    | overthrow    |
+|  1 | :soon:                   | 2022-08-13 04:40:00 | cork    |      6 |        4 | Cairde Go Deo   |   0    | benny,pangea |
+|  2 | :soon:                   | 2022-08-13 03:55:00 | tramore |      5 |       15 | Winnie Woodnutt |   0    | looseknot    |
+|  3 | :soon:                   | 2022-08-12 23:00:00 | newbury |      2 |       10 | Leadman         |   1.85 | vulture      |
+|  4 | :soon:                   | 2022-08-12 23:00:00 | newbury |      2 |        5 | Cobalt Blue     |  21    | overthrow    |
+|  5 | :hourglass_flowing_sand: | 2022-08-12 13:27:00 | ipswich |      4 |        2 | Grand Zou       |   6.5  | benny,pangea |
