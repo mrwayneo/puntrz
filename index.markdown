@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-13 12:24:51 +1000  
+date: 2022-08-13 12:35:04 +1000  
 ---   
 
 
@@ -98,11 +98,11 @@ date: 2022-08-13 12:24:51 +1000
 | 17 | :soon:            | 2022-08-13 12:38:00 | eagle-farm       |      3 |        4 | Barade            |   5    | pangea             |
 | 18 | :2nd_place_medal: | 2022-08-13 12:03:00 | eagle-farm       |      2 |        2 | Ef Troop          |   3.2  | pangea             |
 | 19 | :3rd_place_medal: | 2022-08-13 12:03:00 | eagle-farm       |      2 |        5 | Ice In Vancouver  |   1.95 | milkman            |
-| 20 | --                | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        3 | Yoshino           |   7.5  | vulture            |
+| 20 | 8.0               | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        3 | Yoshino           |   7.5  | vulture            |
 | 21 | :3rd_place_medal: | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        7 | Major Beel        |  10    | benny,pangea       |
-| 22 | --                | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        2 | True Crime        |   4    | milkman            |
+| 22 | 7.0               | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        2 | True Crime        |   4    | milkman            |
 | 23 | 4.0               | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        6 | Waverider Buoy    |   4.2  | wallbow            |
-| 24 | --                | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        1 | Showcourt         |  12    | cosmo,jmac         |
+| 24 | 9.0               | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        1 | Showcourt         |  12    | cosmo,jmac         |
 | 25 | --                | 2022-08-13 11:44:00 | riccarton-park   |      5 |        7 | Sea Shepherd      |   3.3  | pangea             |
 | 26 | 5.0               | 2022-08-13 11:40:00 | kembla-grange    |      1 |        7 | Reginald          |   5    | looseknot          |
 | 27 | --                | 2022-08-13 11:09:00 | riccarton-park   |      4 |        7 | The Bold Lioness  |   7.5  | vulture            |
