@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-08-13 11:49:54 +1000  
+date: 2022-08-13 12:04:54 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 | 16:15             | 2022-08-13 | rosehill-gardens R9 | 6 Loveplanet       | 10    |      -10 |
 | 14:15             | 2022-08-13 | rosehill-gardens R6 | 3 Oscar Zulu       |  4.75 |      -10 |
 | 13:40             | 2022-08-13 | rosehill-gardens R5 | 5 Frumos           |  1.95 |      -10 |
-| 11:55             | 2022-08-13 | rosehill-gardens R2 | 6 Waverider Buoy   |  4.2  |      -10 |
+| 4                 | 2022-08-13 | rosehill-gardens R2 | 6 Waverider Buoy   |  4.2  |      -10 |
 | 6                 | 2022-08-06 | randwick R9         | 1 Bold Mac         |  5.5  |      -10 |
 | 4                 | 2022-08-03 | canterbury R4       | 2 And We Danced    |  3.2  |      -10 |
 | :3rd_place_medal: | 2022-08-03 | canterbury R3       | 1 Oz Legend        |  8    |      -10 |
