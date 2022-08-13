@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-08-13 15:35:01 +1000  
+date: 2022-08-13 16:15:08 +1000  
 categories: None 
 ---   
 
@@ -14,7 +14,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
-| 16:15             | 2022-08-13 | rosehill-gardens R9 | 6 Loveplanet       | 10    |      -10 |
+| 0                 | 2022-08-13 | rosehill-gardens R9 | 6 Loveplanet       |  0    |      -10 |
 | :3rd_place_medal: | 2022-08-13 | rosehill-gardens R6 | 3 Oscar Zulu       |  4.75 |      -10 |
 | 7                 | 2022-08-13 | rosehill-gardens R5 | 5 Frumos           |  1.95 |      -10 |
 | 4                 | 2022-08-13 | rosehill-gardens R2 | 6 Waverider Buoy   |  4.2  |      -10 |
