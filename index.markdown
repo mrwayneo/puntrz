@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-13 13:35:07 +1000  
+date: 2022-08-13 13:50:11 +1000  
 ---   
 
 
@@ -90,8 +90,8 @@ date: 2022-08-13 13:35:07 +1000
 |  9 | :soon:            | 2022-08-13 14:55:00 | rosehill-gardens |      7 |        9 | Rondino           |  15    | vulture            |
 | 10 | :soon:            | 2022-08-13 14:15:00 | rosehill-gardens |      6 |        4 | Surefire          |   4    | milkman,jmac       |
 | 11 | :soon:            | 2022-08-13 14:15:00 | rosehill-gardens |      6 |        3 | Oscar Zulu        |   4.75 | benny,wallbow      |
-| 12 | :soon:            | 2022-08-13 13:40:00 | rosehill-gardens |      5 |        5 | Frumos            |   1.95 | pangea,wallbow     |
-| 13 | :soon:            | 2022-08-13 13:40:00 | rosehill-gardens |      5 |        2 | Tawfiq Lass       |   7    | jmac               |
+| 12 | --                | 2022-08-13 13:40:00 | rosehill-gardens |      5 |        5 | Frumos            |   1.95 | pangea,wallbow     |
+| 13 | :2nd_place_medal: | 2022-08-13 13:40:00 | rosehill-gardens |      5 |        2 | Tawfiq Lass       |   7    | jmac               |
 | 14 | :2nd_place_medal: | 2022-08-13 13:25:00 | kembla-grange    |      4 |       11 | Emancipist        |   8.5  | looseknot          |
 | 15 | :2nd_place_medal: | 2022-08-13 13:13:00 | tauranga         |      7 |        4 | Bullybrook        |   2.7  | moechilli          |
 | 16 | :3rd_place_medal: | 2022-08-13 13:05:00 | rosehill-gardens |      4 |        5 | Katalin           |   2.8  | pangea,jmac        |
