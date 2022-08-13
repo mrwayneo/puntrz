@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-13 14:05:06 +1000  
+date: 2022-08-13 14:20:10 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 16:15             | 2022-08-13 | rosehill-gardens R9  | 8 Kalino             |  2.25 |    -10   |
 | 15:35             | 2022-08-13 | rosehill-gardens R8  | 3 Spacewalk          |  4.8  |    -10   |
 | 14:55             | 2022-08-13 | rosehill-gardens R7  | 5 Lovely Esteem      |  3    |    -10   |
-| 14:15             | 2022-08-13 | rosehill-gardens R6  | 4 Surefire           |  4    |    -10   |
+| :boom:            | 2022-08-13 | rosehill-gardens R6  | 4 Surefire           |  4.1  |     31   |
 | :2nd_place_medal: | 2022-08-13 | rosehill-gardens R5  | 2 Tawfiq Lass        |  7    |    -10   |
 | :3rd_place_medal: | 2022-08-13 | rosehill-gardens R4  | 5 Katalin            |  2.8  |    -10   |
 | 9                 | 2022-08-13 | rosehill-gardens R2  | 1 Showcourt          | 12    |    -10   |
