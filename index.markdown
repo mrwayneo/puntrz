@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-13 14:50:15 +1000  
+date: 2022-08-13 15:05:15 +1000  
 ---   
 
 
@@ -9,18 +9,18 @@ date: 2022-08-13 14:50:15 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      2 |        3 | 0.2  |  0.03 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      3 |       40 | 0.3  |  0.4  |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      1 |       27 | 1    |  2.7  |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      1 |       -9 | 0.2  | -0.18 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      7 |      1 |      -29 | 0.14 | -0.41 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      4 |      0 |      -40 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      8 |      1 |      -43 | 0.12 | -0.54 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     12 |      1 |      -76 | 0.08 | -0.63 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      8 |      0 |      -80 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     11 |      1 |      -91 | 0.09 | -0.83 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     31 |      1 |     -266 | 0.03 | -0.86 |
 
@@ -86,8 +86,8 @@ date: 2022-08-13 14:50:15 +1000
 |  5 | :soon:            | 2022-08-13 16:17:00 | katherine        |      4 |        4 | Little Kibo       |   6.5  | overthrow          |
 |  6 | :soon:            | 2022-08-13 15:37:00 | katherine        |      3 |        3 | Rojo Boom         |   5    | overthrow          |
 |  7 | :soon:            | 2022-08-13 15:35:00 | rosehill-gardens |      8 |        3 | Spacewalk         |   4.8  | jmac               |
-|  8 | :soon:            | 2022-08-13 14:57:00 | katherine        |      2 |        3 | Manly Cove        |   3.4  | pangea,blackshadow |
-|  9 | :soon:            | 2022-08-13 14:55:00 | rosehill-gardens |      7 |        9 | Rondino           |  15    | vulture            |
+|  8 | :boom:            | 2022-08-13 14:57:00 | katherine        |      2 |        3 | Manly Cove        |   3.4  | pangea,blackshadow |
+|  9 | :3rd_place_medal: | 2022-08-13 14:55:00 | rosehill-gardens |      7 |        9 | Rondino           |  15    | vulture            |
 | 10 | :boom:            | 2022-08-13 14:15:00 | rosehill-gardens |      6 |        4 | Surefire          |   4    | milkman,jmac       |
 | 11 | :3rd_place_medal: | 2022-08-13 14:15:00 | rosehill-gardens |      6 |        3 | Oscar Zulu        |   4.75 | benny,wallbow      |
 | 12 | 7.0               | 2022-08-13 13:40:00 | rosehill-gardens |      5 |        5 | Frumos            |   1.95 | pangea,wallbow     |
