@@ -1,15 +1,17 @@
 ---   
 layout: post   
 title: "Moechilli"   
-date: 2022-08-13 23:00:33 +1000  
+date: 2022-08-14 06:00:57 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 6 Months  |     32 |      9 |   -147.8 | 0.28 | -0.46 |
-| Since Jan 2020 |    137 |     40 |    685.8 | 0.29 |  0.5  |
+| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
+| Last 28 Days   |      1 |      0 |    -10   | 0    | -1    |
+| Last 6 Months  |     33 |      9 |   -157.8 | 0.27 | -0.48 |
+| Since Jan 2020 |    138 |     40 |    675.8 | 0.29 |  0.49 |
 
 | finish            | date       | event                  | runner               |    win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|-------:|---------:|
@@ -112,8 +114,8 @@ categories: None
 | 11                | 2021-05-02 | alice-springs R2       | 10 Asahi Bearing     |   6    |    -10   |
 | :boom:            | 2021-05-01 | barcaldine R4          | 2 Grey Rules         |   2.9  |     19   |
 | 99                | 2021-05-01 | cheltenham R6          | 10 Know The Score    |   5.5  |    -10   |
-| 99                | 2021-05-01 | cheltenham R4          | 2 Garde Ville        |   3.5  |    -10   |
 | :3rd_place_medal: | 2021-05-01 | cheltenham R4          | 1 Fifty Shades       |   8    |    -10   |
+| 99                | 2021-05-01 | cheltenham R4          | 2 Garde Ville        |   3.5  |    -10   |
 | 99                | 2021-05-01 | cheltenham R2          | 9 Hotel Du Nord      |   5.5  |    -10   |
 | :boom:            | 2021-04-29 | rockhampton R1         | 3 Whoshotthemagician |   5    |     40   |
 | 99                | 2021-04-29 | chelmsford-city R1     | 10 I'm Mable         |  17    |    -10   |
