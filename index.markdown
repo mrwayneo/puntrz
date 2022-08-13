@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-13 11:34:59 +1000  
+date: 2022-08-13 11:50:02 +1000  
 ---   
 
 
@@ -103,6 +103,6 @@ date: 2022-08-13 11:34:59 +1000
 | 22 | :soon:   | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        2 | True Crime        |   4    | milkman            |
 | 23 | :soon:   | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        6 | Waverider Buoy    |   4.2  | wallbow            |
 | 24 | :soon:   | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        1 | Showcourt         |  12    | cosmo,jmac         |
-| 25 | :soon:   | 2022-08-13 11:44:00 | riccarton-park   |      5 |        7 | Sea Shepherd      |   3.3  | pangea             |
-| 26 | :soon:   | 2022-08-13 11:40:00 | kembla-grange    |      1 |        7 | Reginald          |   5    | looseknot          |
+| 25 | --       | 2022-08-13 11:44:00 | riccarton-park   |      5 |        7 | Sea Shepherd      |   3.3  | pangea             |
+| 26 | --       | 2022-08-13 11:40:00 | kembla-grange    |      1 |        7 | Reginald          |   5    | looseknot          |
 | 27 | --       | 2022-08-13 11:09:00 | riccarton-park   |      4 |        7 | The Bold Lioness  |   7.5  | vulture            |
