@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Blackshadow"   
-date: 2022-08-13 17:49:49 +1000  
+date: 2022-08-13 18:00:20 +1000  
 categories: None 
 ---   
 
@@ -79,8 +79,8 @@ categories: None
 | :boom:            | 2022-04-15 | newcastle R3                  | 1 Bouttemont          | 15    |    140   |
 | :boom:            | 2022-04-15 | launceston R8                 | 5 Eighty Eight Days   |  2.6  |     16   |
 | :3rd_place_medal: | 2022-04-07 | darwin R4                     | 2 Chief Mondo         |  0    |    -10   |
-| 6                 | 2022-04-07 | darwin R2                     | 4 Obligatory          |  0    |    -10   |
 | 4                 | 2022-04-07 | darwin R2                     | 5 Blueant             |  0    |    -10   |
+| 6                 | 2022-04-07 | darwin R2                     | 4 Obligatory          |  0    |    -10   |
 | 6                 | 2022-04-07 | darwin R1                     | 2 No Strings          |  0    |    -10   |
 | :boom:            | 2022-04-06 | launceston R7                 | 7 Imagine Howe        |  0    |    -10   |
 | :2nd_place_medal: | 2022-04-06 | launceston R5                 | 6 Our Shinkansen      |  0    |    -10   |
@@ -107,8 +107,8 @@ categories: None
 | 4                 | 2022-03-17 | ipswich R6                    | 1 Avowal              |  3.4  |    -10   |
 | 99                | 2022-03-17 | kempton R1                    | 1 Deciduous           |  0    |    -10   |
 | :3rd_place_medal: | 2022-03-17 | cheltenham R6                 | 14 Frero Banbou       |  6.5  |    -10   |
-| :boom:            | 2022-03-17 | cheltenham R4                 | 2 Energumene          |  4.2  |     32   |
 | 99                | 2022-03-17 | cheltenham R4                 | 1 Chacun Pour Soi     |  0    |    -10   |
+| :boom:            | 2022-03-17 | cheltenham R4                 | 2 Energumene          |  4.2  |     32   |
 | :boom:            | 2022-03-16 | ascot R4                      | 4 The Witch Doctor    |  4.2  |     32   |
 | :3rd_place_medal: | 2022-03-16 | cheltenham R2                 | 1 Blue Lord           |  5.5  |    -10   |
 | 99                | 2022-03-15 | wolverhampton R1              | 3 Hold Fast           |  0    |    -10   |
@@ -120,8 +120,8 @@ categories: None
 | 4                 | 2022-03-12 | alice-springs R3              | 1 That's Justified    |  2.8  |    -10   |
 | :3rd_place_medal: | 2022-03-12 | alice-springs R3              | 5 Mathematics         |  3.2  |    -10   |
 | :2nd_place_medal: | 2022-03-12 | morphettville-parks R8        | 7 Last Girl Love      |  2.6  |    -10   |
-| :3rd_place_medal: | 2022-03-12 | alice-springs R2              | 6 Celtic Belle        |  5.5  |    -10   |
 | 6                 | 2022-03-12 | alice-springs R2              | 1 Butterfingers       |  3.8  |    -10   |
+| :3rd_place_medal: | 2022-03-12 | alice-springs R2              | 6 Celtic Belle        |  5.5  |    -10   |
 | :3rd_place_medal: | 2022-03-12 | alice-springs R1              | 3 Extraction          |  3.2  |    -10   |
 | :boom:            | 2022-03-12 | eagle-farm R5                 | 1 Gypsy Goddess       |  2.1  |     11   |
 | :3rd_place_medal: | 2022-03-12 | rockhampton R3                | 4 The Egyptian        |  2.15 |    -10   |
@@ -367,8 +367,8 @@ categories: None
 | :2nd_place_medal: | 2021-10-20 | geelong R7                    | 7 Dr Drill            | 19    |    -10   |
 | :boom:            | 2021-10-16 | ascot R9                      | 12 Real Charisma      |  2    |     10   |
 | :3rd_place_medal: | 2021-10-16 | eagle-farm R4                 | 9 Salateen            |  2.2  |    -10   |
-| :2nd_place_medal: | 2021-10-15 | ipswich R3                    | 10 Lyrical Girl       |  2.15 |    -10   |
 | :boom:            | 2021-10-15 | ipswich R3                    | 8 Sir Rocket          |  1.75 |      7.5 |
+| :2nd_place_medal: | 2021-10-15 | ipswich R3                    | 10 Lyrical Girl       |  2.15 |    -10   |
 | :boom:            | 2021-10-15 | carlisle R7                   | 3 Armattiekan         |  2.6  |     16   |
 | :boom:            | 2021-10-13 | launceston R7                 | 7 Vivilici            |  4.6  |     36   |
 | :3rd_place_medal: | 2021-10-13 | launceston R7                 | 5 Red Letter Lady     |  3.3  |    -10   |
@@ -661,8 +661,8 @@ categories: None
 | :boom:            | 2021-05-09 | devonport-synthetic R7        | 6 Spihro              |  7    |     60   |
 | 4                 | 2021-05-09 | devonport-synthetic R6        | 2 Sanction King       |  2.6  |    -10   |
 | :boom:            | 2021-05-08 | ascot R6                      | 9 Angelic Miss        |  2.7  |     17   |
-| :boom:            | 2021-05-08 | darwin R2                     | 2 Count of Essex      |  7.4  |     64   |
 | :2nd_place_medal: | 2021-05-08 | darwin R2                     | 1 Trebla              | 13    |    -10   |
+| :boom:            | 2021-05-08 | darwin R2                     | 2 Count of Essex      |  7.4  |     64   |
 | 5                 | 2021-05-08 | darwin R1                     | 2 Kaptan Apollo       |  3.8  |    -10   |
 | :3rd_place_medal: | 2021-05-06 | wagga R1                      | 1 Mortal Witness      |  6.6  |    -10   |
 | :2nd_place_medal: | 2021-05-05 | canterbury R5                 | 2 Kobe Rocks          |  5.1  |    -10   |
