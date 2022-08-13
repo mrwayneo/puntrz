@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-13 12:50:03 +1000  
+date: 2022-08-13 13:05:05 +1000  
 categories: None 
 ---   
 
@@ -20,7 +20,7 @@ categories: None
 | 14:55             | 2022-08-13 | rosehill-gardens R7  | 5 Lovely Esteem      |  3    |    -10   |
 | 14:15             | 2022-08-13 | rosehill-gardens R6  | 4 Surefire           |  4    |    -10   |
 | 13:40             | 2022-08-13 | rosehill-gardens R5  | 2 Tawfiq Lass        |  7    |    -10   |
-| 13:05             | 2022-08-13 | rosehill-gardens R4  | 5 Katalin            |  2.8  |    -10   |
+| 0                 | 2022-08-13 | rosehill-gardens R4  | 5 Katalin            |  0    |    -10   |
 | 9                 | 2022-08-13 | rosehill-gardens R2  | 1 Showcourt          | 12    |    -10   |
 | :3rd_place_medal: | 2022-08-11 | newcastle R1         | 1 Sardegna           |  3.8  |    -10   |
 | :3rd_place_medal: | 2022-08-10 | kensington R6        | 10 Strombus          |  3.6  |    -10   |
