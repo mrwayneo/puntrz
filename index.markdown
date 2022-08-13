@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-13 17:15:27 +1000  
+date: 2022-08-13 17:30:16 +1000  
 ---   
 
 
@@ -82,7 +82,7 @@ date: 2022-08-13 17:15:27 +1000
 |  1 | :soon:            | 2022-08-14 01:40:00 | curragh          |      6 |        5 | Temple Of Artemis |   5    | vulture            |
 |  2 | :soon:            | 2022-08-14 01:05:00 | curragh          |      5 |        4 | Luxembourg        |   1.33 | overthrow,milkman  |
 |  3 | :soon:            | 2022-08-13 17:35:00 | katherine        |      6 |        1 | Jet Jackson       |   2.5  | overthrow          |
-|  4 | --                | 2022-08-13 16:57:00 | katherine        |      5 |        3 | Henestrosa        |   4.8  | overthrow          |
+|  4 | 6.0               | 2022-08-13 16:57:00 | katherine        |      5 |        3 | Henestrosa        |   4.8  | overthrow          |
 |  5 | 4.0               | 2022-08-13 16:17:00 | katherine        |      4 |        4 | Little Kibo       |   6.5  | overthrow          |
 |  6 | 5.0               | 2022-08-13 15:37:00 | katherine        |      3 |        3 | Rojo Boom         |   5    | overthrow          |
 |  7 | :2nd_place_medal: | 2022-08-13 15:35:00 | rosehill-gardens |      8 |        3 | Spacewalk         |   4.8  | jmac               |
