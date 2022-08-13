@@ -1,11 +1,21 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-14 07:45:59 +1000  
+date: 2022-08-14 07:56:59 +1000  
 ---   
 
 
 ##### Form Today tips   
+
+| tipster                                                       |   runs |   wins |   profit |   sr |   roi |
+|:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 |    0 |    -1 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      1 |      0 |      -10 |    0 |    -1 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      0 |      -20 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      2 |      0 |      -20 |    0 |    -1 |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 |    0 |    -1 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     19 |      0 |     -190 |    0 |    -1 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     82 |      0 |     -820 |    0 |    -1 |
 
 ##### Form Last 20 tips   
 
