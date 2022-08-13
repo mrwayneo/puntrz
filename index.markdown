@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-13 16:15:18 +1000  
+date: 2022-08-13 16:30:10 +1000  
 ---   
 
 
@@ -11,17 +11,17 @@ date: 2022-08-13 16:15:18 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      3 |       40 | 0.3  |  0.4  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      1 |       27 | 1    |  2.7  |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      7 |      2 |       -3 | 0.29 | -0.04 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      1 |       -9 | 0.2  | -0.18 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      7 |      1 |      -29 | 0.14 | -0.41 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      8 |      1 |      -43 | 0.12 | -0.54 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     11 |      2 |      -65 | 0.18 | -0.59 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     12 |      1 |      -76 | 0.08 | -0.63 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     11 |      1 |      -91 | 0.09 | -0.83 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     31 |      1 |     -266 | 0.03 | -0.86 |
 
 ##### Form Last 20 tips   
@@ -83,7 +83,7 @@ date: 2022-08-13 16:15:18 +1000
 |  2 | :soon:            | 2022-08-14 01:05:00 | curragh          |      5 |        4 | Luxembourg        |   1.33 | overthrow,milkman  |
 |  3 | :soon:            | 2022-08-13 17:35:00 | katherine        |      6 |        1 | Jet Jackson       |   2.5  | overthrow          |
 |  4 | :soon:            | 2022-08-13 16:57:00 | katherine        |      5 |        3 | Henestrosa        |   4.8  | overthrow          |
-|  5 | :soon:            | 2022-08-13 16:17:00 | katherine        |      4 |        4 | Little Kibo       |   6.5  | overthrow          |
+|  5 | 4.0               | 2022-08-13 16:17:00 | katherine        |      4 |        4 | Little Kibo       |   6.5  | overthrow          |
 |  6 | 5.0               | 2022-08-13 15:37:00 | katherine        |      3 |        3 | Rojo Boom         |   5    | overthrow          |
 |  7 | :2nd_place_medal: | 2022-08-13 15:35:00 | rosehill-gardens |      8 |        3 | Spacewalk         |   4.8  | jmac               |
 |  8 | :boom:            | 2022-08-13 14:57:00 | katherine        |      2 |        3 | Manly Cove        |   3.4  | pangea,blackshadow |
