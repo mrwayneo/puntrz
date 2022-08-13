@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-13 12:05:01 +1000  
+date: 2022-08-13 12:19:54 +1000  
 ---   
 
 
@@ -17,12 +17,12 @@ date: 2022-08-13 12:05:01 +1000
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      5 |      0 |      -50 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      1 |      -56 | 0.1  | -0.56 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |      7 |      0 |      -70 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     12 |      1 |      -76 | 0.08 | -0.63 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      8 |      0 |      -80 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     11 |      1 |      -91 | 0.09 | -0.83 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     10 |      0 |     -100 | 0    | -1    |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     12 |      0 |     -120 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     31 |      0 |     -310 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     31 |      1 |     -266 | 0.03 | -0.86 |
 
 ##### Form Last 20 tips   
 
@@ -96,13 +96,13 @@ date: 2022-08-13 12:05:01 +1000
 | 15 | :soon:            | 2022-08-13 13:13:00 | tauranga         |      7 |        4 | Bullybrook        |   2.7  | moechilli          |
 | 16 | :soon:            | 2022-08-13 13:05:00 | rosehill-gardens |      4 |        5 | Katalin           |   2.8  | pangea,jmac        |
 | 17 | :soon:            | 2022-08-13 12:38:00 | eagle-farm       |      3 |        4 | Barade            |   5    | pangea             |
-| 18 | --                | 2022-08-13 12:03:00 | eagle-farm       |      2 |        2 | Ef Troop          |   3.2  | pangea             |
-| 19 | --                | 2022-08-13 12:03:00 | eagle-farm       |      2 |        5 | Ice In Vancouver  |   1.95 | milkman            |
+| 18 | :2nd_place_medal: | 2022-08-13 12:03:00 | eagle-farm       |      2 |        2 | Ef Troop          |   3.2  | pangea             |
+| 19 | :3rd_place_medal: | 2022-08-13 12:03:00 | eagle-farm       |      2 |        5 | Ice In Vancouver  |   1.95 | milkman            |
 | 20 | --                | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        3 | Yoshino           |   7.5  | vulture            |
 | 21 | :3rd_place_medal: | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        7 | Major Beel        |  10    | benny,pangea       |
 | 22 | --                | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        2 | True Crime        |   4    | milkman            |
 | 23 | 4.0               | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        6 | Waverider Buoy    |   4.2  | wallbow            |
 | 24 | --                | 2022-08-13 11:55:00 | rosehill-gardens |      2 |        1 | Showcourt         |  12    | cosmo,jmac         |
 | 25 | --                | 2022-08-13 11:44:00 | riccarton-park   |      5 |        7 | Sea Shepherd      |   3.3  | pangea             |
-| 26 | --                | 2022-08-13 11:40:00 | kembla-grange    |      1 |        7 | Reginald          |   5    | looseknot          |
+| 26 | 5.0               | 2022-08-13 11:40:00 | kembla-grange    |      1 |        7 | Reginald          |   5    | looseknot          |
 | 27 | --                | 2022-08-13 11:09:00 | riccarton-park   |      4 |        7 | The Bold Lioness  |   7.5  | vulture            |
