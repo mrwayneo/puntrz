@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-13 16:30:10 +1000  
+date: 2022-08-13 16:45:28 +1000  
 ---   
 
 
@@ -17,10 +17,10 @@ date: 2022-08-13 16:30:10 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |      3 |      0 |      -30 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     11 |      3 |      -31 | 0.27 | -0.28 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |      4 |      0 |      -40 | 0    | -1    |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      8 |      1 |      -43 | 0.12 | -0.54 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      5 |      0 |      -50 | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     11 |      2 |      -65 | 0.18 | -0.59 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     12 |      1 |      -76 | 0.08 | -0.63 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     31 |      1 |     -266 | 0.03 | -0.86 |
 
