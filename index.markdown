@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-14 14:15:52 +1000  
+date: 2022-08-14 14:31:04 +1000  
 ---   
 
 
@@ -9,10 +9,10 @@ date: 2022-08-14 14:15:52 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      1 |       17 | 1    |  1.7  |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      2 |      1 |        7 | 0.5  |  0.35 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      2 |      1 |        6 | 0.5  |  0.3  |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      1 |      0 |      -10 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      2 |      0 |      -20 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      5 |      0 |      -50 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     19 |      0 |     -190 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     82 |      2 |     -772 | 0.02 | -0.94 |
@@ -74,4 +74,4 @@ date: 2022-08-14 14:15:52 +1000
 |  0 | :soon:   | 2022-08-15 02:10:00 | tramore        |      7 |        9 | Katie Tay     |   2.25 | overthrow          |
 |  1 | :soon:   | 2022-08-14 19:00:00 | singapore      |     11 |       15 | Golden Monkey |   0    | pangea             |
 |  2 | :soon:   | 2022-08-14 16:25:00 | sunshine-coast |      7 |        5 | Archdeacon    |   5.5  | vulture            |
-|  3 | :soon:   | 2022-08-14 14:25:00 | sunshine-coast |      4 |        1 | Spicy Sonic   |   2    | evenodds,overthrow |
+|  3 | :boom:   | 2022-08-14 14:25:00 | sunshine-coast |      4 |        1 | Spicy Sonic   |   2    | evenodds,overthrow |
