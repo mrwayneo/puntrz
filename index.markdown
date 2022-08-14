@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-15 07:57:55 +1000  
+date: 2022-08-15 08:46:31 +1000  
 ---   
 
 
@@ -70,9 +70,21 @@ date: 2022-08-15 07:57:55 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3448 |    475 |  -6055.9 | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4357 |    156 | -19600   | 0.04 | -0.45 |
 
-|    | finish            | time                | track          |   race |   number | name          |   odds | tipster            |
-|---:|:------------------|:--------------------|:---------------|-------:|---------:|:--------------|-------:|:-------------------|
-|  0 | :boom:            | 2022-08-15 02:10:00 | tramore        |      7 |        9 | Katie Tay     |   2.25 | overthrow          |
-|  1 | :3rd_place_medal: | 2022-08-14 19:00:00 | singapore      |     11 |       15 | Golden Monkey |   0    | pangea             |
-|  2 | :3rd_place_medal: | 2022-08-14 16:25:00 | sunshine-coast |      7 |        5 | Archdeacon    |   5.5  | vulture            |
-|  3 | :boom:            | 2022-08-14 14:25:00 | sunshine-coast |      4 |        1 | Spicy Sonic   |   2    | evenodds,overthrow |
+|    | finish   | time                | track     |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:----------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-08-16 05:15:00 | bangor    |      7 |        4 | Malina Ocarina     |    0   | evenodds,overthrow |
+|  1 | :soon:   | 2022-08-16 05:15:00 | bangor    |      7 |        5 | Simply Red         |    0   | overthrow          |
+|  2 | :soon:   | 2022-08-16 04:40:00 | bangor    |      6 |        4 | Red Vision         |    0   | overthrow          |
+|  3 | :soon:   | 2022-08-16 04:10:00 | bangor    |      5 |        2 | Farouk De Cheneau  |    0   | overthrow          |
+|  4 | :soon:   | 2022-08-16 03:40:00 | bangor    |      4 |        6 | Latino Fling       |    0   | evenodds,overthrow |
+|  5 | :soon:   | 2022-08-16 03:40:00 | bangor    |      4 |        3 | Francky Du Berlais |    0   | vulture            |
+|  6 | :soon:   | 2022-08-16 03:40:00 | bangor    |      4 |        1 | Wbee               |    0   | evenodds,overthrow |
+|  7 | :soon:   | 2022-08-16 03:20:00 | windsor   |      4 |        1 | Dora Penny         |    0   | vulture            |
+|  8 | :soon:   | 2022-08-16 03:10:00 | bangor    |      3 |        5 | Shareef Star       |    0   | vulture            |
+|  9 | :soon:   | 2022-08-16 03:10:00 | bangor    |      3 |        6 | Master Malachy     |    0   | overthrow          |
+| 10 | :soon:   | 2022-08-16 03:00:00 | roscommon |      2 |        6 | Mister Mister      |    0   | looseknot          |
+| 11 | :soon:   | 2022-08-16 02:10:00 | bangor    |      1 |        2 | Razzo Italiano     |    0   | overthrow          |
+| 12 | :soon:   | 2022-08-16 02:10:00 | bangor    |      1 |        1 | Presentandcounting |    0   | pangea,overthrow   |
+| 13 | :soon:   | 2022-08-16 01:50:00 | windsor   |      1 |        1 | Tribal Wisdom      |    1.2 | evenodds,overthrow |
+| 14 | :soon:   | 2022-08-16 01:25:00 | catterick |      6 |        7 | Remembering        |    1.5 | vulture            |
+| 15 | :soon:   | 2022-08-15 23:20:00 | catterick |      2 |        2 | Man Made Of Smoke  |    4.8 | vulture            |
