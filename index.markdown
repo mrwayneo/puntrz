@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-14 16:16:04 +1000  
+date: 2022-08-14 16:30:57 +1000  
 ---   
 
 
@@ -69,9 +69,9 @@ date: 2022-08-14 16:16:04 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3394 |    469 |  -5893.4 | 0.14 | -0.17 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4359 |    158 | -19322   | 0.04 | -0.44 |
 
-|    | finish   | time                | track          |   race |   number | name          |   odds | tipster            |
-|---:|:---------|:--------------------|:---------------|-------:|---------:|:--------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-08-15 02:10:00 | tramore        |      7 |        9 | Katie Tay     |   2.25 | overthrow          |
-|  1 | :soon:   | 2022-08-14 19:00:00 | singapore      |     11 |       15 | Golden Monkey |   0    | pangea             |
-|  2 | :soon:   | 2022-08-14 16:25:00 | sunshine-coast |      7 |        5 | Archdeacon    |   5.5  | vulture            |
-|  3 | :boom:   | 2022-08-14 14:25:00 | sunshine-coast |      4 |        1 | Spicy Sonic   |   2    | evenodds,overthrow |
+|    | finish            | time                | track          |   race |   number | name          |   odds | tipster            |
+|---:|:------------------|:--------------------|:---------------|-------:|---------:|:--------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-08-15 02:10:00 | tramore        |      7 |        9 | Katie Tay     |   2.25 | overthrow          |
+|  1 | :soon:            | 2022-08-14 19:00:00 | singapore      |     11 |       15 | Golden Monkey |   0    | pangea             |
+|  2 | :3rd_place_medal: | 2022-08-14 16:25:00 | sunshine-coast |      7 |        5 | Archdeacon    |   5.5  | vulture            |
+|  3 | :boom:            | 2022-08-14 14:25:00 | sunshine-coast |      4 |        1 | Spicy Sonic   |   2    | evenodds,overthrow |
