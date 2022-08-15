@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-16 07:55:35 +1000  
+date: 2022-08-16 08:43:55 +1000  
 ---   
 
 
@@ -72,21 +72,16 @@ date: 2022-08-16 07:55:35 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3442 |    475 |  -6253.4 | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4359 |    154 | -19885   | 0.04 | -0.46 |
 
-|    | finish   | time                | track     |   race |   number | name               |   odds | tipster            |
-|---:|:---------|:--------------------|:----------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | --       | 2022-08-16 05:15:00 | bangor    |      7 |        4 | Malina Ocarina     |    0   | evenodds,overthrow |
-|  1 | --       | 2022-08-16 05:15:00 | bangor    |      7 |        5 | Simply Red         |    0   | overthrow          |
-|  2 | --       | 2022-08-16 04:40:00 | bangor    |      6 |        4 | Red Vision         |    0   | overthrow          |
-|  3 | --       | 2022-08-16 04:10:00 | bangor    |      5 |        2 | Farouk De Cheneau  |    0   | overthrow          |
-|  4 | --       | 2022-08-16 03:40:00 | bangor    |      4 |        6 | Latino Fling       |    0   | evenodds,overthrow |
-|  5 | --       | 2022-08-16 03:40:00 | bangor    |      4 |        3 | Francky Du Berlais |    0   | vulture            |
-|  6 | --       | 2022-08-16 03:40:00 | bangor    |      4 |        1 | Wbee               |    0   | evenodds,overthrow |
-|  7 | --       | 2022-08-16 03:20:00 | windsor   |      4 |        1 | Dora Penny         |    0   | vulture            |
-|  8 | --       | 2022-08-16 03:10:00 | bangor    |      3 |        5 | Shareef Star       |    0   | vulture            |
-|  9 | --       | 2022-08-16 03:10:00 | bangor    |      3 |        6 | Master Malachy     |    0   | overthrow          |
-| 10 | --       | 2022-08-16 03:00:00 | roscommon |      2 |        6 | Mister Mister      |    0   | looseknot          |
-| 11 | --       | 2022-08-16 02:10:00 | bangor    |      1 |        2 | Razzo Italiano     |    0   | overthrow          |
-| 12 | --       | 2022-08-16 02:10:00 | bangor    |      1 |        1 | Presentandcounting |    0   | pangea,overthrow   |
-| 13 | --       | 2022-08-16 01:50:00 | windsor   |      1 |        1 | Tribal Wisdom      |    1.2 | evenodds,overthrow |
-| 14 | --       | 2022-08-16 01:25:00 | catterick |      6 |        7 | Remembering        |    1.5 | vulture            |
-| 15 | --       | 2022-08-15 23:20:00 | catterick |      2 |        2 | Man Made Of Smoke  |    4.8 | vulture            |
+|    | finish   | time                | track           |   race |   number | name             |   odds | tipster            |
+|---:|:---------|:--------------------|:----------------|-------:|---------:|:-----------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-08-17 03:55:00 | chelmsford-city |      4 |        5 | Aphelios         |   0    | vulture            |
+|  1 | :soon:   | 2022-08-17 02:10:00 | chelmsford-city |      1 |       14 | Zu Run           |   8.5  | looseknot          |
+|  2 | :soon:   | 2022-08-17 01:45:00 | hamilton        |      6 |        9 | Glam De Vega     |   2.5  | evenodds,overthrow |
+|  3 | :soon:   | 2022-08-17 01:45:00 | hamilton        |      6 |        8 | Wilkins          |   5.5  | vulture            |
+|  4 | :soon:   | 2022-08-17 01:45:00 | hamilton        |      6 |       10 | Yaaser           |   9.5  | vulture            |
+|  5 | :soon:   | 2022-08-17 01:30:00 | kempton         |      7 |        6 | Spit Spot        |   4.75 | evenodds,overthrow |
+|  6 | :soon:   | 2022-08-17 01:00:00 | kempton         |      6 |        5 | National Gallery |  12    | pangea             |
+|  7 | :soon:   | 2022-08-16 16:05:00 | beaudesert      |      7 |        6 | Ciao Bicky       |   5.5  | overthrow          |
+|  8 | :soon:   | 2022-08-16 14:10:00 | beaudesert      |      4 |        3 | Into Champagne   |   3.75 | evenodds,lago      |
+|  9 | :soon:   | 2022-08-16 13:50:00 | wyong           |      3 |        1 | Think About It   |   1.7  | milkman            |
+| 10 | :soon:   | 2022-08-16 13:35:00 | beaudesert      |      3 |        6 | Furnace On Fire  |   3.6  | evenodds,overthrow |
