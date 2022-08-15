@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-16 07:51:00 +1000  
+date: 2022-08-16 07:55:35 +1000  
 ---   
 
 
@@ -72,21 +72,21 @@ date: 2022-08-16 07:51:00 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3442 |    475 |  -6253.4 | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4359 |    154 | -19885   | 0.04 | -0.46 |
 
-|    | finish                   | time                | track     |   race |   number | name               |   odds | tipster            |
-|---:|:-------------------------|:--------------------|:----------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :hourglass_flowing_sand: | 2022-08-16 05:15:00 | bangor    |      7 |        4 | Malina Ocarina     |    0   | evenodds,overthrow |
-|  1 | :hourglass_flowing_sand: | 2022-08-16 05:15:00 | bangor    |      7 |        5 | Simply Red         |    0   | overthrow          |
-|  2 | :hourglass_flowing_sand: | 2022-08-16 04:40:00 | bangor    |      6 |        4 | Red Vision         |    0   | overthrow          |
-|  3 | :hourglass_flowing_sand: | 2022-08-16 04:10:00 | bangor    |      5 |        2 | Farouk De Cheneau  |    0   | overthrow          |
-|  4 | :hourglass_flowing_sand: | 2022-08-16 03:40:00 | bangor    |      4 |        6 | Latino Fling       |    0   | evenodds,overthrow |
-|  5 | :hourglass_flowing_sand: | 2022-08-16 03:40:00 | bangor    |      4 |        3 | Francky Du Berlais |    0   | vulture            |
-|  6 | :hourglass_flowing_sand: | 2022-08-16 03:40:00 | bangor    |      4 |        1 | Wbee               |    0   | evenodds,overthrow |
-|  7 | :hourglass_flowing_sand: | 2022-08-16 03:20:00 | windsor   |      4 |        1 | Dora Penny         |    0   | vulture            |
-|  8 | :hourglass_flowing_sand: | 2022-08-16 03:10:00 | bangor    |      3 |        5 | Shareef Star       |    0   | vulture            |
-|  9 | :hourglass_flowing_sand: | 2022-08-16 03:10:00 | bangor    |      3 |        6 | Master Malachy     |    0   | overthrow          |
-| 10 | :hourglass_flowing_sand: | 2022-08-16 03:00:00 | roscommon |      2 |        6 | Mister Mister      |    0   | looseknot          |
-| 11 | :hourglass_flowing_sand: | 2022-08-16 02:10:00 | bangor    |      1 |        2 | Razzo Italiano     |    0   | overthrow          |
-| 12 | :hourglass_flowing_sand: | 2022-08-16 02:10:00 | bangor    |      1 |        1 | Presentandcounting |    0   | pangea,overthrow   |
-| 13 | :hourglass_flowing_sand: | 2022-08-16 01:50:00 | windsor   |      1 |        1 | Tribal Wisdom      |    1.2 | evenodds,overthrow |
-| 14 | :hourglass_flowing_sand: | 2022-08-16 01:25:00 | catterick |      6 |        7 | Remembering        |    1.5 | vulture            |
-| 15 | --                       | 2022-08-15 23:20:00 | catterick |      2 |        2 | Man Made Of Smoke  |    4.8 | vulture            |
+|    | finish   | time                | track     |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:----------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | --       | 2022-08-16 05:15:00 | bangor    |      7 |        4 | Malina Ocarina     |    0   | evenodds,overthrow |
+|  1 | --       | 2022-08-16 05:15:00 | bangor    |      7 |        5 | Simply Red         |    0   | overthrow          |
+|  2 | --       | 2022-08-16 04:40:00 | bangor    |      6 |        4 | Red Vision         |    0   | overthrow          |
+|  3 | --       | 2022-08-16 04:10:00 | bangor    |      5 |        2 | Farouk De Cheneau  |    0   | overthrow          |
+|  4 | --       | 2022-08-16 03:40:00 | bangor    |      4 |        6 | Latino Fling       |    0   | evenodds,overthrow |
+|  5 | --       | 2022-08-16 03:40:00 | bangor    |      4 |        3 | Francky Du Berlais |    0   | vulture            |
+|  6 | --       | 2022-08-16 03:40:00 | bangor    |      4 |        1 | Wbee               |    0   | evenodds,overthrow |
+|  7 | --       | 2022-08-16 03:20:00 | windsor   |      4 |        1 | Dora Penny         |    0   | vulture            |
+|  8 | --       | 2022-08-16 03:10:00 | bangor    |      3 |        5 | Shareef Star       |    0   | vulture            |
+|  9 | --       | 2022-08-16 03:10:00 | bangor    |      3 |        6 | Master Malachy     |    0   | overthrow          |
+| 10 | --       | 2022-08-16 03:00:00 | roscommon |      2 |        6 | Mister Mister      |    0   | looseknot          |
+| 11 | --       | 2022-08-16 02:10:00 | bangor    |      1 |        2 | Razzo Italiano     |    0   | overthrow          |
+| 12 | --       | 2022-08-16 02:10:00 | bangor    |      1 |        1 | Presentandcounting |    0   | pangea,overthrow   |
+| 13 | --       | 2022-08-16 01:50:00 | windsor   |      1 |        1 | Tribal Wisdom      |    1.2 | evenodds,overthrow |
+| 14 | --       | 2022-08-16 01:25:00 | catterick |      6 |        7 | Remembering        |    1.5 | vulture            |
+| 15 | --       | 2022-08-15 23:20:00 | catterick |      2 |        2 | Man Made Of Smoke  |    4.8 | vulture            |
