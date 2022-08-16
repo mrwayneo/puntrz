@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-17 07:56:32 +1000  
+date: 2022-08-17 08:44:06 +1000  
 ---   
 
 
@@ -73,16 +73,37 @@ date: 2022-08-17 07:56:32 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3431 |    478 |  -6023.7 | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4336 |    156 | -19406   | 0.04 | -0.45 |
 
-|    | finish            | time                | track           |   race |   number | name             |   odds | tipster            |
-|---:|:------------------|:--------------------|:----------------|-------:|---------:|:-----------------|-------:|:-------------------|
-|  0 | :2nd_place_medal: | 2022-08-17 03:55:00 | chelmsford-city |      4 |        5 | Aphelios         |   0    | vulture            |
-|  1 | :boom:            | 2022-08-17 02:10:00 | chelmsford-city |      1 |       14 | Zu Run           |   8.5  | looseknot          |
-|  2 | :soon:            | 2022-08-17 01:45:00 | hamilton        |      6 |        9 | Glam De Vega     |   2.5  | evenodds,overthrow |
-|  3 | --                | 2022-08-17 01:45:00 | hamilton        |      6 |        8 | Wilkins          |   5.5  | vulture            |
-|  4 | --                | 2022-08-17 01:45:00 | hamilton        |      6 |       10 | Yaaser           |   9.5  | vulture            |
-|  5 | :soon:            | 2022-08-17 01:30:00 | kempton         |      7 |        6 | Spit Spot        |   4.75 | evenodds,overthrow |
-|  6 | --                | 2022-08-17 01:00:00 | kempton         |      6 |        5 | National Gallery |  12    | pangea             |
-|  7 | 7.0               | 2022-08-16 16:05:00 | beaudesert      |      7 |        6 | Ciao Bicky       |   5.5  | overthrow          |
-|  8 | 5.0               | 2022-08-16 14:10:00 | beaudesert      |      4 |        3 | Into Champagne   |   3.75 | evenodds,lago      |
-|  9 | :boom:            | 2022-08-16 13:50:00 | wyong           |      3 |        1 | Think About It   |   1.7  | milkman            |
-| 10 | 9.0               | 2022-08-16 13:35:00 | beaudesert      |      3 |        6 | Furnace On Fire  |   3.6  | evenodds,overthrow |
+|    | finish   | time                | track         |   race |   number | name               |   odds | tipster            |
+|---:|:---------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:   | 2022-08-18 05:30:00 | sligo         |      7 |        4 | Unbridled Power    |   0    | overthrow          |
+|  1 | :soon:   | 2022-08-18 05:30:00 | sligo         |      7 |        7 | Ginnets Girl       |   0    | looseknot          |
+|  2 | :soon:   | 2022-08-18 05:20:00 | kempton       |      7 |        4 | Shalfa             |   0    | vulture            |
+|  3 | :soon:   | 2022-08-18 03:30:00 | sligo         |      3 |        2 | State Of Fame      |   0    | looseknot          |
+|  4 | :soon:   | 2022-08-18 03:15:00 | kempton       |      3 |        7 | King Of Ithaca     |   0    | looseknot          |
+|  5 | :soon:   | 2022-08-17 23:15:00 | wolverhampton |      3 |        8 | Miss Blennerhasset |   0    | vulture            |
+|  6 | :soon:   | 2022-08-17 23:05:00 | musselburgh   |      1 |        2 | Good Measure       |   2.15 | vulture            |
+|  7 | :soon:   | 2022-08-17 22:40:00 | wolverhampton |      2 |        3 | Borough            |   7    | looseknot          |
+|  8 | :soon:   | 2022-08-17 22:40:00 | wolverhampton |      2 |        1 | Princeville        |   1.65 | vulture            |
+|  9 | :soon:   | 2022-08-17 16:20:00 | canterbury    |      6 |        2 | Roots              |   2.9  | jmac               |
+| 10 | :soon:   | 2022-08-17 16:20:00 | canterbury    |      6 |        5 | Petulant           |   4.33 | pikey              |
+| 11 | :soon:   | 2022-08-17 16:20:00 | canterbury    |      6 |        8 | Siyata             |   8    | vulture            |
+| 12 | :soon:   | 2022-08-17 15:45:00 | canterbury    |      5 |       11 | Hell I Am          |   5.5  | pikey              |
+| 13 | :soon:   | 2022-08-17 15:45:00 | canterbury    |      5 |        2 | Papal Warrior      |   9.5  | pangea,jmac        |
+| 14 | :soon:   | 2022-08-17 15:28:00 | ipswich       |      6 |       10 | Argyle Pink        |   7.5  | pangea             |
+| 15 | :soon:   | 2022-08-17 15:10:00 | canterbury    |      4 |        4 | Impulse Control    |  10    | pangea             |
+| 16 | :soon:   | 2022-08-17 15:10:00 | canterbury    |      4 |        1 | Leo                |   1.55 | jmac               |
+| 17 | :soon:   | 2022-08-17 14:53:00 | ipswich       |      5 |       11 | A Call From Heaven |   4    | pangea             |
+| 18 | :soon:   | 2022-08-17 14:53:00 | ipswich       |      5 |        2 | Goldeel            |  13    | pangea             |
+| 19 | :soon:   | 2022-08-17 14:53:00 | ipswich       |      5 |        7 | Prasiolite         |   3.5  | vulture,pangea     |
+| 20 | :soon:   | 2022-08-17 14:35:00 | canterbury    |      3 |        7 | Sprout Wings       |   4.75 | pikey              |
+| 21 | :soon:   | 2022-08-17 14:35:00 | canterbury    |      3 |        3 | Oz Legend          |   9    | wallbow            |
+| 22 | :soon:   | 2022-08-17 14:35:00 | canterbury    |      3 |        4 | Karlstad           |   4.2  | jmac               |
+| 23 | :soon:   | 2022-08-17 14:18:00 | ipswich       |      4 |        3 | Coup De Tonnerre   |   7    | pangea             |
+| 24 | :soon:   | 2022-08-17 14:00:00 | canterbury    |      2 |        7 | Sumatra            |   3.4  | jmac               |
+| 25 | :soon:   | 2022-08-17 14:00:00 | canterbury    |      2 |        6 | Seiryu             |   5    | pikey              |
+| 26 | :soon:   | 2022-08-17 13:25:00 | canterbury    |      1 |        5 | Chief White Sock   |  13    | pikey              |
+| 27 | :soon:   | 2022-08-17 13:25:00 | canterbury    |      1 |        1 | Northern Beaches   |   4.2  | jmac               |
+| 28 | :soon:   | 2022-08-17 13:25:00 | canterbury    |      1 |        6 | Kapakiri           |  15    | wallbow            |
+| 29 | :soon:   | 2022-08-17 13:08:00 | ipswich       |      2 |        1 | Aban               |   1.6  | evenodds,overthrow |
+| 30 | :soon:   | 2022-08-17 11:05:00 | cambridge     |      2 |       12 | Goldburg           |   4    | looseknot          |
+| 31 | :soon:   | 2022-08-17 10:29:00 | cambridge     |      1 |        8 | Capistrano Rocs    |   9.5  | looseknot          |
