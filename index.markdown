@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-16 14:25:42 +1000  
+date: 2022-08-16 14:40:42 +1000  
 ---   
 
 
@@ -82,6 +82,6 @@ date: 2022-08-16 14:25:42 +1000
 |  5 | :soon:   | 2022-08-17 01:30:00 | kempton         |      7 |        6 | Spit Spot        |   4.75 | evenodds,overthrow |
 |  6 | :soon:   | 2022-08-17 01:00:00 | kempton         |      6 |        5 | National Gallery |  12    | pangea             |
 |  7 | :soon:   | 2022-08-16 16:05:00 | beaudesert      |      7 |        6 | Ciao Bicky       |   5.5  | overthrow          |
-|  8 | --       | 2022-08-16 14:10:00 | beaudesert      |      4 |        3 | Into Champagne   |   3.75 | evenodds,lago      |
+|  8 | 5.0      | 2022-08-16 14:10:00 | beaudesert      |      4 |        3 | Into Champagne   |   3.75 | evenodds,lago      |
 |  9 | :boom:   | 2022-08-16 13:50:00 | wyong           |      3 |        1 | Think About It   |   1.7  | milkman            |
 | 10 | 9.0      | 2022-08-16 13:35:00 | beaudesert      |      3 |        6 | Furnace On Fire  |   3.6  | evenodds,overthrow |
