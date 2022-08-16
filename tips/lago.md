@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-08-16 12:25:44 +1000  
+date: 2022-08-16 12:40:36 +1000  
 categories: None 
 ---   
 
@@ -23,8 +23,8 @@ categories: None
 | :boom:            | 2022-07-19 | rockhampton R1         | 1 Kick On Command    |  0    |    -10   |
 | 99                | 2022-06-17 | royal-ascot R5         | 18 King Of Time      |  0    |    -10   |
 | 99                | 2022-06-16 | royal-ascot R6         | 6 Far Shot           |  0    |    -10   |
-| 4                 | 2022-06-15 | royal-ascot R1         | 10 Love Reigns       |  0    |    -10   |
 | 99                | 2022-06-15 | royal-ascot R1         | 1 All The Time       |  0    |    -10   |
+| 4                 | 2022-06-15 | royal-ascot R1         | 10 Love Reigns       |  0    |    -10   |
 | :boom:            | 2022-06-14 | royal-ascot R1         | 2 Baaeed             |  0    |    -10   |
 | :2nd_place_medal: | 2022-06-04 | epsom R5               | 2 Emily Upjohn       |  0    |    -10   |
 | :boom:            | 2022-06-03 | redcar R3              | 2 Kidwah             |  0    |    -10   |
@@ -38,8 +38,8 @@ categories: None
 | :2nd_place_medal: | 2022-04-26 | nottingham R2          | 1 New Dimension      |  1.3  |    -10   |
 | 99                | 2022-04-16 | newbury R2             | 10 Shaara            |  0    |    -10   |
 | :boom:            | 2022-04-15 | ascot R2               | 10 Alsephina         |  2    |     10   |
-| :boom:            | 2022-04-14 | newmarket R6           | 2 New London         |  2.6  |     16   |
 | :2nd_place_medal: | 2022-04-14 | newmarket R6           | 1 Aldous Huxley      |  2.5  |    -10   |
+| :boom:            | 2022-04-14 | newmarket R6           | 2 New London         |  2.6  |     16   |
 | :boom:            | 2022-04-14 | newmarket R5           | 5 Native Trail       |  1.26 |      2.6 |
 | :boom:            | 2022-04-13 | hawkesbury R3          | 1 Norwegian Bliss    |  2.3  |     13   |
 | :3rd_place_medal: | 2022-04-07 | lingfield R5           | 1 Willow Cove        |  0    |    -10   |
@@ -56,8 +56,8 @@ categories: None
 | 99                | 2022-03-17 | kempton R1             | 1 Deciduous          |  0    |    -10   |
 | :boom:            | 2022-03-17 | cheltenham R7          | 7 Facile Vega        |  3    |     20   |
 | 99                | 2022-03-17 | cheltenham R7          | 16 Redemption Day    |  0    |    -10   |
-| 99                | 2022-03-16 | cheltenham R1          | 3 Dysart Dynamo      |  0    |    -10   |
 | :2nd_place_medal: | 2022-03-16 | cheltenham R1          | 4 Jonbon             |  6.5  |    -10   |
+| 99                | 2022-03-16 | cheltenham R1          | 3 Dysart Dynamo      |  0    |    -10   |
 | :2nd_place_medal: | 2022-03-14 | bangor R3              | 2 Jungle Jack        |  2.4  |    -10   |
 | :boom:            | 2022-03-13 | sandown R4             | 12 Luccia            |  4.8  |     38   |
 | :boom:            | 2022-03-13 | lingfield R2           | 2 King Of Time       |  1.4  |      4   |
@@ -79,8 +79,8 @@ categories: None
 | 99                | 2022-02-07 | leopardstown R8        | 14 Pink In The Park  |  0    |    -10   |
 | :3rd_place_medal: | 2022-02-06 | sunshine-coast R6      | 6 Husson's Revenge   |  4.6  |    -10   |
 | :boom:            | 2022-02-06 | launceston R5          | 1 Bello Beau         |  2    |     10   |
-| :boom:            | 2022-02-06 | leopardstown R7        | 5 Facile Vega        |  1.73 |      7.3 |
 | 99                | 2022-02-06 | leopardstown R7        | 4 Embassy Gardens    |  0    |    -10   |
+| :boom:            | 2022-02-06 | leopardstown R7        | 5 Facile Vega        |  1.73 |      7.3 |
 | 99                | 2022-02-06 | leopardstown R1        | 1 Bronn              |  0    |    -10   |
 | :boom:            | 2022-02-02 | sandown-lakeside R1    | 7 Ruthless Dame      |  0    |    -10   |
 | :2nd_place_medal: | 2022-02-02 | ffos-las R7            | 7 Tahmuras           |  0    |    -10   |
