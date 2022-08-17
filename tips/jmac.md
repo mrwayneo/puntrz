@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-18 06:57:28 +1000  
+date: 2022-08-18 07:12:27 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,8 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 16:15             | 2022-08-18 | hawkesbury R7        | 3 Skyman             |  0    |    -10   |
+| 13:50             | 2022-08-18 | hawkesbury R3        | 5 Kapakiri           |  8    |    -10   |
 | 0                 | 2022-08-17 | canterbury R6        | 2 Roots              |  0    |    -10   |
 | :3rd_place_medal: | 2022-08-17 | canterbury R5        | 2 Papal Warrior      |  9.5  |    -10   |
 | :2nd_place_medal: | 2022-08-17 | canterbury R4        | 1 Leo                |  1.55 |    -10   |
