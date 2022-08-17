@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-17 14:41:48 +1000  
+date: 2022-08-17 14:56:48 +1000  
 ---   
 
 
@@ -92,13 +92,13 @@ date: 2022-08-17 14:41:48 +1000
 | 14 | :soon:            | 2022-08-17 15:28:00 | ipswich       |      6 |       10 | Argyle Pink        |   7.5  | pangea             |
 | 15 | :soon:            | 2022-08-17 15:10:00 | canterbury    |      4 |        4 | Impulse Control    |  10    | pangea             |
 | 16 | :soon:            | 2022-08-17 15:10:00 | canterbury    |      4 |        1 | Leo                |   1.55 | jmac               |
-| 17 | :soon:            | 2022-08-17 14:53:00 | ipswich       |      5 |       11 | A Call From Heaven |   4    | pangea             |
-| 18 | :soon:            | 2022-08-17 14:53:00 | ipswich       |      5 |        2 | Goldeel            |  13    | pangea             |
-| 19 | :soon:            | 2022-08-17 14:53:00 | ipswich       |      5 |        7 | Prasiolite         |   3.5  | vulture,pangea     |
+| 17 | --                | 2022-08-17 14:53:00 | ipswich       |      5 |       11 | A Call From Heaven |   4    | pangea             |
+| 18 | --                | 2022-08-17 14:53:00 | ipswich       |      5 |        2 | Goldeel            |  13    | pangea             |
+| 19 | --                | 2022-08-17 14:53:00 | ipswich       |      5 |        7 | Prasiolite         |   3.5  | vulture,pangea     |
 | 20 | :3rd_place_medal: | 2022-08-17 14:35:00 | canterbury    |      3 |        7 | Sprout Wings       |   4.75 | pikey              |
 | 21 | --                | 2022-08-17 14:35:00 | canterbury    |      3 |        3 | Oz Legend          |   9    | wallbow            |
 | 22 | --                | 2022-08-17 14:35:00 | canterbury    |      3 |        4 | Karlstad           |   4.2  | jmac               |
-| 23 | --                | 2022-08-17 14:18:00 | ipswich       |      4 |        3 | Coup De Tonnerre   |   7    | pangea             |
+| 23 | 5.0               | 2022-08-17 14:18:00 | ipswich       |      4 |        3 | Coup De Tonnerre   |   7    | pangea             |
 | 24 | --                | 2022-08-17 14:00:00 | canterbury    |      2 |        7 | Sumatra            |   3.4  | jmac               |
 | 25 | 4.0               | 2022-08-17 14:00:00 | canterbury    |      2 |        6 | Seiryu             |   5    | pikey              |
 | 26 | 8.0               | 2022-08-17 13:25:00 | canterbury    |      1 |        5 | Chief White Sock   |  13    | pikey              |
