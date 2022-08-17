@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-17 13:26:42 +1000  
+date: 2022-08-17 13:41:40 +1000  
 categories: None 
 ---   
 
@@ -20,7 +20,7 @@ categories: None
 | 15:10             | 2022-08-17 | canterbury R4        | 1 Leo                |  1.55 |    -10   |
 | 14:35             | 2022-08-17 | canterbury R3        | 4 Karlstad           |  4.2  |    -10   |
 | 14:00             | 2022-08-17 | canterbury R2        | 7 Sumatra            |  3.4  |    -10   |
-| 0                 | 2022-08-17 | canterbury R1        | 1 Northern Beaches   |  0    |    -10   |
+| :boom:            | 2022-08-17 | canterbury R1        | 1 Northern Beaches   |  4.3  |     33   |
 | :boom:            | 2022-08-13 | rosehill-gardens R9  | 8 Kalino             |  2.6  |     16   |
 | :2nd_place_medal: | 2022-08-13 | rosehill-gardens R8  | 3 Spacewalk          |  4.8  |    -10   |
 | :2nd_place_medal: | 2022-08-13 | rosehill-gardens R7  | 5 Lovely Esteem      |  3    |    -10   |

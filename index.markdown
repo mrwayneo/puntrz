@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-17 13:26:43 +1000  
+date: 2022-08-17 13:41:42 +1000  
 ---   
 
 
@@ -11,11 +11,11 @@ date: 2022-08-17 13:26:43 +1000
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      1 |        4 | 1    |  0.4  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      2 |      1 |       -6 | 0.5  | -0.3  |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      6 |      1 |      -17 | 0.17 | -0.28 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      2 |      0 |      -20 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      0 |      -50 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      0 |      -60 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      6 |      0 |      -60 | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      6 |      0 |      -60 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     16 |      0 |     -160 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     28 |      0 |     -280 | 0    | -1    |
@@ -102,7 +102,7 @@ date: 2022-08-17 13:26:43 +1000
 | 24 | :soon:            | 2022-08-17 14:00:00 | canterbury    |      2 |        7 | Sumatra            |   3.4  | jmac               |
 | 25 | :soon:            | 2022-08-17 14:00:00 | canterbury    |      2 |        6 | Seiryu             |   5    | pikey              |
 | 26 | --                | 2022-08-17 13:25:00 | canterbury    |      1 |        5 | Chief White Sock   |  13    | pikey              |
-| 27 | --                | 2022-08-17 13:25:00 | canterbury    |      1 |        1 | Northern Beaches   |   4.2  | jmac               |
+| 27 | :boom:            | 2022-08-17 13:25:00 | canterbury    |      1 |        1 | Northern Beaches   |   4.2  | jmac               |
 | 28 | --                | 2022-08-17 13:25:00 | canterbury    |      1 |        6 | Kapakiri           |  15    | wallbow            |
 | 29 | :boom:            | 2022-08-17 13:08:00 | ipswich       |      2 |        1 | Aban               |   1.6  | evenodds,overthrow |
 | 30 | :3rd_place_medal: | 2022-08-17 11:05:00 | cambridge     |      2 |       12 | Goldburg           |   4    | looseknot          |
