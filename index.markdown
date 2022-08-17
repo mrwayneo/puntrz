@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-17 14:26:45 +1000  
+date: 2022-08-17 14:41:48 +1000  
 ---   
 
 
@@ -95,9 +95,9 @@ date: 2022-08-17 14:26:45 +1000
 | 17 | :soon:            | 2022-08-17 14:53:00 | ipswich       |      5 |       11 | A Call From Heaven |   4    | pangea             |
 | 18 | :soon:            | 2022-08-17 14:53:00 | ipswich       |      5 |        2 | Goldeel            |  13    | pangea             |
 | 19 | :soon:            | 2022-08-17 14:53:00 | ipswich       |      5 |        7 | Prasiolite         |   3.5  | vulture,pangea     |
-| 20 | :soon:            | 2022-08-17 14:35:00 | canterbury    |      3 |        7 | Sprout Wings       |   4.75 | pikey              |
-| 21 | :soon:            | 2022-08-17 14:35:00 | canterbury    |      3 |        3 | Oz Legend          |   9    | wallbow            |
-| 22 | :soon:            | 2022-08-17 14:35:00 | canterbury    |      3 |        4 | Karlstad           |   4.2  | jmac               |
+| 20 | :3rd_place_medal: | 2022-08-17 14:35:00 | canterbury    |      3 |        7 | Sprout Wings       |   4.75 | pikey              |
+| 21 | --                | 2022-08-17 14:35:00 | canterbury    |      3 |        3 | Oz Legend          |   9    | wallbow            |
+| 22 | --                | 2022-08-17 14:35:00 | canterbury    |      3 |        4 | Karlstad           |   4.2  | jmac               |
 | 23 | --                | 2022-08-17 14:18:00 | ipswich       |      4 |        3 | Coup De Tonnerre   |   7    | pangea             |
 | 24 | --                | 2022-08-17 14:00:00 | canterbury    |      2 |        7 | Sumatra            |   3.4  | jmac               |
 | 25 | 4.0               | 2022-08-17 14:00:00 | canterbury    |      2 |        6 | Seiryu             |   5    | pikey              |

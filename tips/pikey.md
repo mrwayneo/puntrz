@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-08-17 14:26:44 +1000  
+date: 2022-08-17 14:41:47 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
 | 16:20             | 2022-08-17 | canterbury R6         | 5 Petulant            |   4.33 |    -10   |
 | 15:45             | 2022-08-17 | canterbury R5         | 11 Hell I Am          |   5.5  |    -10   |
-| 14:35             | 2022-08-17 | canterbury R3         | 7 Sprout Wings        |   4.75 |    -10   |
+| :3rd_place_medal: | 2022-08-17 | canterbury R3         | 7 Sprout Wings        |   4.75 |    -10   |
 | 4                 | 2022-08-17 | canterbury R2         | 6 Seiryu              |   5    |    -10   |
 | 8                 | 2022-08-17 | canterbury R1         | 5 Chief White Sock    |  13    |    -10   |
 | 7                 | 2022-08-06 | randwick R10          | 6 Belsielle           |  14    |    -10   |
