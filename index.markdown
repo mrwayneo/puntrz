@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-18 04:44:15 +1000  
+date: 2022-08-18 05:44:27 +1000  
 ---   
 
 
@@ -14,12 +14,12 @@ date: 2022-08-18 04:44:15 +1000
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      4 |    415.5 | 0.2  |  2.08 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    333   | 1    |  1.66 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    121   | 0.05 |  0.6  |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      3 |     55   | 0.15 |  0.28 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      7 |     50.2 | 0.35 |  0.25 |
 | [menoe](https://mrwayneo.github.io/tips/menoe.html)             |     20 |     10 |    -10.5 | 0.5  | -0.05 |
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      8 |    -15.5 | 0.4  | -0.08 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      6 |    -19.3 | 0.3  | -0.1  |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |     20 |      6 |    -24.3 | 0.3  | -0.12 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |    -40   | 0.1  | -0.2  |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      4 |    -45   | 0.2  | -0.22 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -69.6 | 0.4  | -0.35 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |    -76   | 0.05 | -0.38 |
@@ -52,8 +52,8 @@ date: 2022-08-18 04:44:15 +1000
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     96 |     26 |   -281.3 | 0.27 | -0.29 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |    161 |     21 |   -526   | 0.13 | -0.33 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    355 |     99 |   -610.2 | 0.28 | -0.17 |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    361 |     51 |   -821.7 | 0.14 | -0.23 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    640 |    171 |   -902.7 | 0.27 | -0.14 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    361 |     50 |   -916.7 | 0.14 | -0.25 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   1496 |    381 |  -1616.5 | 0.25 | -0.11 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1250 |    299 |  -2591.9 | 0.24 | -0.21 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3423 |    472 |  -6161.2 | 0.14 | -0.18 |
@@ -61,9 +61,9 @@ date: 2022-08-18 04:44:15 +1000
 
 |    | finish            | time                | track         |   race |   number | name               |   odds | tipster            |
 |---:|:------------------|:--------------------|:--------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:            | 2022-08-18 05:30:00 | sligo         |      7 |        4 | Unbridled Power    |   0    | overthrow          |
-|  1 | :soon:            | 2022-08-18 05:30:00 | sligo         |      7 |        7 | Ginnets Girl       |   0    | looseknot          |
-|  2 | :soon:            | 2022-08-18 05:20:00 | kempton       |      7 |        4 | Shalfa             |   0    | vulture            |
+|  0 | 4.0               | 2022-08-18 05:30:00 | sligo         |      7 |        4 | Unbridled Power    |   0    | overthrow          |
+|  1 | :boom:            | 2022-08-18 05:30:00 | sligo         |      7 |        7 | Ginnets Girl       |   0    | looseknot          |
+|  2 | --                | 2022-08-18 05:20:00 | kempton       |      7 |        4 | Shalfa             |   0    | vulture            |
 |  3 | --                | 2022-08-18 03:30:00 | sligo         |      3 |        2 | State Of Fame      |   0    | looseknot          |
 |  4 | --                | 2022-08-18 03:15:00 | kempton       |      3 |        7 | King Of Ithaca     |   0    | looseknot          |
 |  5 | 4.0               | 2022-08-17 23:15:00 | wolverhampton |      3 |        8 | Miss Blennerhasset |   0    | vulture            |
