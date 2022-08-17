@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-17 15:26:47 +1000  
+date: 2022-08-17 15:41:49 +1000  
 ---   
 
 
@@ -18,8 +18,8 @@ date: 2022-08-17 15:26:47 +1000
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      0 |      -60 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      6 |      0 |      -60 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     16 |      0 |     -160 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     35 |      2 |     -171 | 0.06 | -0.49 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     28 |      0 |     -280 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     35 |      1 |     -295 | 0.03 | -0.84 |
 
 ##### Form Last 20 tips   
 
@@ -89,12 +89,12 @@ date: 2022-08-17 15:26:47 +1000
 | 11 | :soon:            | 2022-08-17 16:20:00 | canterbury    |      6 |        8 | Siyata             |   8    | vulture            |
 | 12 | :soon:            | 2022-08-17 15:45:00 | canterbury    |      5 |       11 | Hell I Am          |   5.5  | pikey              |
 | 13 | :soon:            | 2022-08-17 15:45:00 | canterbury    |      5 |        2 | Papal Warrior      |   9.5  | pangea,jmac        |
-| 14 | :soon:            | 2022-08-17 15:28:00 | ipswich       |      6 |       10 | Argyle Pink        |   7.5  | pangea             |
+| 14 | --                | 2022-08-17 15:28:00 | ipswich       |      6 |       10 | Argyle Pink        |   7.5  | pangea             |
 | 15 | 4.0               | 2022-08-17 15:10:00 | canterbury    |      4 |        4 | Impulse Control    |  10    | pangea             |
 | 16 | :2nd_place_medal: | 2022-08-17 15:10:00 | canterbury    |      4 |        1 | Leo                |   1.55 | jmac               |
 | 17 | :boom:            | 2022-08-17 14:53:00 | ipswich       |      5 |       11 | A Call From Heaven |   4    | pangea             |
 | 18 | :2nd_place_medal: | 2022-08-17 14:53:00 | ipswich       |      5 |        2 | Goldeel            |  13    | pangea             |
-| 19 | --                | 2022-08-17 14:53:00 | ipswich       |      5 |        7 | Prasiolite         |   3.5  | vulture,pangea     |
+| 19 | 9.0               | 2022-08-17 14:53:00 | ipswich       |      5 |        7 | Prasiolite         |   3.5  | vulture,pangea     |
 | 20 | :3rd_place_medal: | 2022-08-17 14:35:00 | canterbury    |      3 |        7 | Sprout Wings       |   4.75 | pikey              |
 | 21 | --                | 2022-08-17 14:35:00 | canterbury    |      3 |        3 | Oz Legend          |   9    | wallbow            |
 | 22 | 5.0               | 2022-08-17 14:35:00 | canterbury    |      3 |        4 | Karlstad           |   4.2  | jmac               |
