@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-17 12:56:39 +1000  
+date: 2022-08-17 13:11:40 +1000  
 ---   
 
 
@@ -9,8 +9,8 @@ date: 2022-08-17 12:56:39 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 | 0    | -1    |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      2 |      0 |      -20 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      1 |        4 | 1    |  0.4  |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      2 |      1 |       -6 | 0.5  | -0.3  |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      2 |      0 |      -20 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      0 |      -50 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      0 |      -60 | 0    | -1    |
@@ -19,7 +19,7 @@ date: 2022-08-17 12:56:39 +1000
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     11 |      0 |     -110 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     16 |      0 |     -160 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     28 |      0 |     -280 | 0    | -1    |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     35 |      1 |     -284 | 0.03 | -0.81 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     35 |      1 |     -295 | 0.03 | -0.84 |
 
 ##### Form Last 20 tips   
 
@@ -104,6 +104,6 @@ date: 2022-08-17 12:56:39 +1000
 | 26 | :soon:            | 2022-08-17 13:25:00 | canterbury    |      1 |        5 | Chief White Sock   |  13    | pikey              |
 | 27 | :soon:            | 2022-08-17 13:25:00 | canterbury    |      1 |        1 | Northern Beaches   |   4.2  | jmac               |
 | 28 | :soon:            | 2022-08-17 13:25:00 | canterbury    |      1 |        6 | Kapakiri           |  15    | wallbow            |
-| 29 | :soon:            | 2022-08-17 13:08:00 | ipswich       |      2 |        1 | Aban               |   1.6  | evenodds,overthrow |
+| 29 | :boom:            | 2022-08-17 13:08:00 | ipswich       |      2 |        1 | Aban               |   1.6  | evenodds,overthrow |
 | 30 | :3rd_place_medal: | 2022-08-17 11:05:00 | cambridge     |      2 |       12 | Goldburg           |   4    | looseknot          |
 | 31 | --                | 2022-08-17 10:29:00 | cambridge     |      1 |        8 | Capistrano Rocs    |   9.5  | looseknot          |
