@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-17 15:41:49 +1000  
+date: 2022-08-17 15:56:51 +1000  
 ---   
 
 
@@ -11,9 +11,9 @@ date: 2022-08-17 15:41:49 +1000
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      1 |        4 | 1    |  0.4  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      2 |      1 |       -6 | 0.5  | -0.3  |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      1 |       -7 | 0.2  | -0.14 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      6 |      1 |      -17 | 0.17 | -0.28 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      2 |      0 |      -20 | 0    | -1    |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      5 |      0 |      -50 | 0    | -1    |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     11 |      1 |      -56 | 0.09 | -0.51 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      6 |      0 |      -60 | 0    | -1    |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      6 |      0 |      -60 | 0    | -1    |
@@ -87,8 +87,8 @@ date: 2022-08-17 15:41:49 +1000
 |  9 | :soon:            | 2022-08-17 16:20:00 | canterbury    |      6 |        2 | Roots              |   2.9  | jmac               |
 | 10 | :soon:            | 2022-08-17 16:20:00 | canterbury    |      6 |        5 | Petulant           |   4.33 | pikey              |
 | 11 | :soon:            | 2022-08-17 16:20:00 | canterbury    |      6 |        8 | Siyata             |   8    | vulture            |
-| 12 | :soon:            | 2022-08-17 15:45:00 | canterbury    |      5 |       11 | Hell I Am          |   5.5  | pikey              |
-| 13 | :soon:            | 2022-08-17 15:45:00 | canterbury    |      5 |        2 | Papal Warrior      |   9.5  | pangea,jmac        |
+| 12 | :boom:            | 2022-08-17 15:45:00 | canterbury    |      5 |       11 | Hell I Am          |   5.5  | pikey              |
+| 13 | :3rd_place_medal: | 2022-08-17 15:45:00 | canterbury    |      5 |        2 | Papal Warrior      |   9.5  | pangea,jmac        |
 | 14 | --                | 2022-08-17 15:28:00 | ipswich       |      6 |       10 | Argyle Pink        |   7.5  | pangea             |
 | 15 | 4.0               | 2022-08-17 15:10:00 | canterbury    |      4 |        4 | Impulse Control    |  10    | pangea             |
 | 16 | :2nd_place_medal: | 2022-08-17 15:10:00 | canterbury    |      4 |        1 | Leo                |   1.55 | jmac               |
