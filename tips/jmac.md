@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-17 14:56:47 +1000  
+date: 2022-08-17 15:11:49 +1000  
 categories: None 
 ---   
 
@@ -17,8 +17,8 @@ categories: None
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 16:20             | 2022-08-17 | canterbury R6        | 2 Roots              |  2.9  |    -10   |
 | 15:45             | 2022-08-17 | canterbury R5        | 2 Papal Warrior      |  9.5  |    -10   |
-| 15:10             | 2022-08-17 | canterbury R4        | 1 Leo                |  1.55 |    -10   |
-| 0                 | 2022-08-17 | canterbury R3        | 4 Karlstad           |  0    |    -10   |
+| 0                 | 2022-08-17 | canterbury R4        | 1 Leo                |  0    |    -10   |
+| 5                 | 2022-08-17 | canterbury R3        | 4 Karlstad           |  4.2  |    -10   |
 | 0                 | 2022-08-17 | canterbury R2        | 7 Sumatra            |  0    |    -10   |
 | :boom:            | 2022-08-17 | canterbury R1        | 1 Northern Beaches   |  4.3  |     33   |
 | :boom:            | 2022-08-13 | rosehill-gardens R9  | 8 Kalino             |  2.6  |     16   |
