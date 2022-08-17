@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-17 22:27:04 +1000  
+date: 2022-08-17 22:42:07 +1000  
 ---   
 
 
@@ -19,7 +19,7 @@ date: 2022-08-17 22:27:04 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      6 |      0 |      -60 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     16 |      0 |     -160 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     35 |      2 |     -171 | 0.06 | -0.49 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     28 |      0 |     -280 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     28 |      1 |     -210 | 0.04 | -0.75 |
 
 ##### Form Last 20 tips   
 
@@ -82,8 +82,8 @@ date: 2022-08-17 22:27:04 +1000
 |  4 | :soon:            | 2022-08-18 03:15:00 | kempton       |      3 |        7 | King Of Ithaca     |   0    | looseknot          |
 |  5 | :soon:            | 2022-08-17 23:15:00 | wolverhampton |      3 |        8 | Miss Blennerhasset |   0    | vulture            |
 |  6 | :soon:            | 2022-08-17 23:05:00 | musselburgh   |      1 |        2 | Good Measure       |   2.15 | vulture            |
-|  7 | :soon:            | 2022-08-17 22:40:00 | wolverhampton |      2 |        3 | Borough            |   7    | looseknot          |
-|  8 | :soon:            | 2022-08-17 22:40:00 | wolverhampton |      2 |        1 | Princeville        |   1.65 | vulture            |
+|  7 | --                | 2022-08-17 22:40:00 | wolverhampton |      2 |        3 | Borough            |   7    | looseknot          |
+|  8 | --                | 2022-08-17 22:40:00 | wolverhampton |      2 |        1 | Princeville        |   1.65 | vulture            |
 |  9 | --                | 2022-08-17 16:20:00 | canterbury    |      6 |        2 | Roots              |   2.9  | jmac               |
 | 10 | 8.0               | 2022-08-17 16:20:00 | canterbury    |      6 |        5 | Petulant           |   4.33 | pikey              |
 | 11 | 5.0               | 2022-08-17 16:20:00 | canterbury    |      6 |        8 | Siyata             |   8    | vulture            |
