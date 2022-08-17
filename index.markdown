@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-17 13:41:42 +1000  
+date: 2022-08-17 13:56:47 +1000  
 ---   
 
 
@@ -101,7 +101,7 @@ date: 2022-08-17 13:41:42 +1000
 | 23 | :soon:            | 2022-08-17 14:18:00 | ipswich       |      4 |        3 | Coup De Tonnerre   |   7    | pangea             |
 | 24 | :soon:            | 2022-08-17 14:00:00 | canterbury    |      2 |        7 | Sumatra            |   3.4  | jmac               |
 | 25 | :soon:            | 2022-08-17 14:00:00 | canterbury    |      2 |        6 | Seiryu             |   5    | pikey              |
-| 26 | --                | 2022-08-17 13:25:00 | canterbury    |      1 |        5 | Chief White Sock   |  13    | pikey              |
+| 26 | 8.0               | 2022-08-17 13:25:00 | canterbury    |      1 |        5 | Chief White Sock   |  13    | pikey              |
 | 27 | :boom:            | 2022-08-17 13:25:00 | canterbury    |      1 |        1 | Northern Beaches   |   4.2  | jmac               |
 | 28 | --                | 2022-08-17 13:25:00 | canterbury    |      1 |        6 | Kapakiri           |  15    | wallbow            |
 | 29 | :boom:            | 2022-08-17 13:08:00 | ipswich       |      2 |        1 | Aban               |   1.6  | evenodds,overthrow |

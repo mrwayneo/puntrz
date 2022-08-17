@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-08-17 13:41:41 +1000  
+date: 2022-08-17 13:56:45 +1000  
 categories: None 
 ---   
 
@@ -18,7 +18,7 @@ categories: None
 | 15:45             | 2022-08-17 | canterbury R5         | 11 Hell I Am          |   5.5  |    -10   |
 | 14:35             | 2022-08-17 | canterbury R3         | 7 Sprout Wings        |   4.75 |    -10   |
 | 14:00             | 2022-08-17 | canterbury R2         | 6 Seiryu              |   5    |    -10   |
-| 0                 | 2022-08-17 | canterbury R1         | 5 Chief White Sock    |   0    |    -10   |
+| 8                 | 2022-08-17 | canterbury R1         | 5 Chief White Sock    |  13    |    -10   |
 | 7                 | 2022-08-06 | randwick R10          | 6 Belsielle           |  14    |    -10   |
 | 12                | 2022-08-06 | randwick R9           | 10 Fiordland          |   9    |    -10   |
 | 9                 | 2022-08-06 | randwick R8           | 2 Hilal               |  12    |    -10   |
