@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-17 16:26:49 +1000  
+date: 2022-08-17 16:41:52 +1000  
 ---   
 
 
@@ -85,8 +85,8 @@ date: 2022-08-17 16:26:49 +1000
 |  7 | :soon:            | 2022-08-17 22:40:00 | wolverhampton |      2 |        3 | Borough            |   7    | looseknot          |
 |  8 | :soon:            | 2022-08-17 22:40:00 | wolverhampton |      2 |        1 | Princeville        |   1.65 | vulture            |
 |  9 | --                | 2022-08-17 16:20:00 | canterbury    |      6 |        2 | Roots              |   2.9  | jmac               |
-| 10 | --                | 2022-08-17 16:20:00 | canterbury    |      6 |        5 | Petulant           |   4.33 | pikey              |
-| 11 | --                | 2022-08-17 16:20:00 | canterbury    |      6 |        8 | Siyata             |   8    | vulture            |
+| 10 | 8.0               | 2022-08-17 16:20:00 | canterbury    |      6 |        5 | Petulant           |   4.33 | pikey              |
+| 11 | 5.0               | 2022-08-17 16:20:00 | canterbury    |      6 |        8 | Siyata             |   8    | vulture            |
 | 12 | :boom:            | 2022-08-17 15:45:00 | canterbury    |      5 |       11 | Hell I Am          |   5.5  | pikey              |
 | 13 | :3rd_place_medal: | 2022-08-17 15:45:00 | canterbury    |      5 |        2 | Papal Warrior      |   9.5  | pangea,jmac        |
 | 14 | 5.0               | 2022-08-17 15:28:00 | ipswich       |      6 |       10 | Argyle Pink        |   7.5  | pangea             |
