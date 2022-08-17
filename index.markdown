@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-17 13:11:40 +1000  
+date: 2022-08-17 13:26:43 +1000  
 ---   
 
 
@@ -101,9 +101,9 @@ date: 2022-08-17 13:11:40 +1000
 | 23 | :soon:            | 2022-08-17 14:18:00 | ipswich       |      4 |        3 | Coup De Tonnerre   |   7    | pangea             |
 | 24 | :soon:            | 2022-08-17 14:00:00 | canterbury    |      2 |        7 | Sumatra            |   3.4  | jmac               |
 | 25 | :soon:            | 2022-08-17 14:00:00 | canterbury    |      2 |        6 | Seiryu             |   5    | pikey              |
-| 26 | :soon:            | 2022-08-17 13:25:00 | canterbury    |      1 |        5 | Chief White Sock   |  13    | pikey              |
-| 27 | :soon:            | 2022-08-17 13:25:00 | canterbury    |      1 |        1 | Northern Beaches   |   4.2  | jmac               |
-| 28 | :soon:            | 2022-08-17 13:25:00 | canterbury    |      1 |        6 | Kapakiri           |  15    | wallbow            |
+| 26 | --                | 2022-08-17 13:25:00 | canterbury    |      1 |        5 | Chief White Sock   |  13    | pikey              |
+| 27 | --                | 2022-08-17 13:25:00 | canterbury    |      1 |        1 | Northern Beaches   |   4.2  | jmac               |
+| 28 | --                | 2022-08-17 13:25:00 | canterbury    |      1 |        6 | Kapakiri           |  15    | wallbow            |
 | 29 | :boom:            | 2022-08-17 13:08:00 | ipswich       |      2 |        1 | Aban               |   1.6  | evenodds,overthrow |
 | 30 | :3rd_place_medal: | 2022-08-17 11:05:00 | cambridge     |      2 |       12 | Goldburg           |   4    | looseknot          |
 | 31 | --                | 2022-08-17 10:29:00 | cambridge     |      1 |        8 | Capistrano Rocs    |   9.5  | looseknot          |
