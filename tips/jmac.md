@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-17 16:11:49 +1000  
+date: 2022-08-17 16:26:48 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
-| 16:20             | 2022-08-17 | canterbury R6        | 2 Roots              |  2.9  |    -10   |
+| 0                 | 2022-08-17 | canterbury R6        | 2 Roots              |  0    |    -10   |
 | :3rd_place_medal: | 2022-08-17 | canterbury R5        | 2 Papal Warrior      |  9.5  |    -10   |
 | :2nd_place_medal: | 2022-08-17 | canterbury R4        | 1 Leo                |  1.55 |    -10   |
 | 5                 | 2022-08-17 | canterbury R3        | 4 Karlstad           |  4.2  |    -10   |
