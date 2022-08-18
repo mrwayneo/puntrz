@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-08-18 16:21:50 +1000  
+date: 2022-08-18 16:36:50 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event               | runner             |   win |   return |
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
-| 0                 | 2022-08-18 | hawkesbury R7       | 4 Oscar Zulu       |  0    |      -10 |
+| :2nd_place_medal: | 2022-08-18 | hawkesbury R7       | 4 Oscar Zulu       |  8    |      -10 |
 | 0                 | 2022-08-17 | canterbury R3       | 3 Oz Legend        |  0    |      -10 |
 | 0                 | 2022-08-17 | canterbury R1       | 6 Kapakiri         |  0    |      -10 |
 | 9                 | 2022-08-13 | rosehill-gardens R9 | 6 Loveplanet       | 10    |      -10 |
