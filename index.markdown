@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-19 04:53:59 +1000  
+date: 2022-08-19 05:54:00 +1000  
 ---   
 
 
@@ -14,7 +14,7 @@ date: 2022-08-19 04:53:59 +1000
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      4 |    415.5 | 0.2  |  2.08 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    333   | 1    |  1.66 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    121   | 0.05 |  0.6  |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      7 |     51   | 0.35 |  0.26 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      7 |     42   | 0.35 |  0.21 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |     15   | 0.1  |  0.08 |
 | [jmac](https://mrwayneo.github.io/tips/jmac.html)               |     20 |      5 |      0   | 0.25 |  0    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |     20 |      6 |     -3.8 | 0.3  | -0.02 |
@@ -54,14 +54,14 @@ date: 2022-08-19 04:53:59 +1000
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |    361 |    100 |   -654.7 | 0.28 | -0.18 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |    360 |     51 |   -811.7 | 0.14 | -0.23 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    646 |    171 |   -914.7 | 0.26 | -0.14 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   1511 |    385 |  -1588   | 0.25 | -0.11 |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   1511 |    385 |  -1597   | 0.25 | -0.11 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1255 |    300 |  -2626.4 | 0.24 | -0.21 |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3396 |    470 |  -6004.2 | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4316 |    153 | -19983   | 0.04 | -0.46 |
 
 |    | finish            | time                | track       |   race |   number | name             |   odds | tipster             |
 |---:|:------------------|:--------------------|:------------|-------:|---------:|:-----------------|-------:|:--------------------|
-|  0 | :soon:            | 2022-08-19 04:55:00 | fontwell    |      7 |        3 | Howdilyoudo      |    0   | pangea              |
+|  0 | --                | 2022-08-19 04:55:00 | fontwell    |      7 |        3 | Howdilyoudo      |    0   | pangea              |
 |  1 | :boom:            | 2022-08-19 04:45:00 | leicester   |      6 |        3 | Thanks Monica    |    0   | vulture             |
 |  2 | :2nd_place_medal: | 2022-08-19 04:25:00 | fontwell    |      6 |        2 | L'Air Du Vent    |    0   | vulture             |
 |  3 | :boom:            | 2022-08-19 04:25:00 | fontwell    |      6 |        1 | Dazzling Glory   |    0   | vulture             |
