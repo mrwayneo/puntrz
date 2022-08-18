@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-19 07:54:03 +1000  
+date: 2022-08-19 08:53:43 +1000  
 ---   
 
 
@@ -72,44 +72,14 @@ date: 2022-08-19 07:54:03 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3396 |    470 |  -6004.2 | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4316 |    153 | -19983   | 0.04 | -0.46 |
 
-|    | finish            | time                | track       |   race |   number | name             |   odds | tipster             |
-|---:|:------------------|:--------------------|:------------|-------:|---------:|:-----------------|-------:|:--------------------|
-|  0 | --                | 2022-08-19 04:55:00 | fontwell    |      7 |        3 | Howdilyoudo      |    0   | pangea              |
-|  1 | :boom:            | 2022-08-19 04:45:00 | leicester   |      6 |        3 | Thanks Monica    |    0   | vulture             |
-|  2 | :2nd_place_medal: | 2022-08-19 04:25:00 | fontwell    |      6 |        2 | L'Air Du Vent    |    0   | vulture             |
-|  3 | :boom:            | 2022-08-19 04:25:00 | fontwell    |      6 |        1 | Dazzling Glory   |    0   | vulture             |
-|  4 | --                | 2022-08-19 04:05:00 | killarney   |      6 |        6 | Herring Island   |    0   | milkman             |
-|  5 | --                | 2022-08-19 03:45:00 | leicester   |      4 |        1 | Fox Degree       |    0   | vulture             |
-|  6 | :3rd_place_medal: | 2022-08-19 02:55:00 | fontwell    |      3 |        2 | Fortunate Fred   |    0   | vulture             |
-|  7 | :soon:            | 2022-08-19 02:20:00 | york        |      7 |        4 | Mobadra          |    0   | evenodds,milkman    |
-|  8 | :boom:            | 2022-08-19 01:55:00 | fontwell    |      1 |        1 | Hell Red         |    0   | evenodds,overthrow  |
-|  9 | --                | 2022-08-19 01:45:00 | york        |      6 |        2 | One Nation       |    0   | overthrow           |
-| 10 | --                | 2022-08-19 01:45:00 | york        |      6 |       10 | Rock Of England  |    0   | milkman             |
-| 11 | --                | 2022-08-19 01:45:00 | york        |      6 |        6 | Benacre          |    0   | milkman             |
-| 12 | :boom:            | 2022-08-19 01:10:00 | york        |      5 |        5 | Haskoy           |    0   | vulture,milkman     |
-| 13 | --                | 2022-08-19 01:10:00 | york        |      5 |        8 | Mimikyu          |    0   | evenodds,overthrow  |
-| 14 | --                | 2022-08-19 01:10:00 | york        |      5 |       12 | Voodoo Queen     |    0   | vulture             |
-| 15 | :2nd_place_medal: | 2022-08-19 01:10:00 | york        |      5 |       11 | Time Lock        |    0   | vulture             |
-| 16 | --                | 2022-08-19 00:35:00 | york        |      4 |        6 | Raclette         |    0   | evenodds,overthrow  |
-| 17 | :2nd_place_medal: | 2022-08-19 00:35:00 | york        |      4 |        7 | Tuesday          |    0   | overthrow           |
-| 18 | --                | 2022-08-19 00:00:00 | york        |      3 |        9 | Saga             |    0   | overthrow           |
-| 19 | --                | 2022-08-19 00:00:00 | york        |      3 |       15 | Echo Point       |    0   | evenodds,overthrow  |
-| 20 | --                | 2022-08-19 00:00:00 | york        |      3 |        8 | Shining Blue     |    0   | overthrow           |
-| 21 | :3rd_place_medal: | 2022-08-19 00:00:00 | york        |      3 |        4 | Tyrrhenian Sea   |    0   | overthrow           |
-| 22 | --                | 2022-08-18 23:25:00 | york        |      2 |        8 | Matching Sox     |    0   | vulture             |
-| 23 | --                | 2022-08-18 22:50:00 | york        |      1 |        7 | Lady Hollywood   |   13   | milkman             |
-| 24 | --                | 2022-08-18 22:50:00 | york        |      1 |        4 | Glenlaurel       |   41   | milkman             |
-| 25 | --                | 2022-08-18 22:50:00 | york        |      1 |       13 | Sweet Harmony    |   29   | vulture,milkman     |
-| 26 | --                | 2022-08-18 22:50:00 | york        |      1 |        5 | Kerindia         |   19   | milkman             |
-| 27 | 4.0               | 2022-08-18 17:10:00 | rockhampton |      8 |       11 | Machinate        |    5   | vulture             |
-| 28 | 8.0               | 2022-08-18 16:35:00 | rockhampton |      7 |        2 | Emperor Of Light |   15   | evenodds,overthrow  |
-| 29 | 9.0               | 2022-08-18 16:15:00 | hawkesbury  |      7 |        6 | Our Intrigue     |   17   | benny,pikey         |
-| 30 | :boom:            | 2022-08-18 16:15:00 | hawkesbury  |      7 |        3 | Skyman           |    0   | vulture,jmac        |
-| 31 | :2nd_place_medal: | 2022-08-18 16:15:00 | hawkesbury  |      7 |        4 | Oscar Zulu       |    8   | wallbow             |
-| 32 | :2nd_place_medal: | 2022-08-18 15:40:00 | hawkesbury  |      6 |        3 | Time Raid        |    5.5 | pangea              |
-| 33 | --                | 2022-08-18 14:45:00 | rockhampton |      4 |        9 | Montana Night    |    5   | vulture,blackshadow |
-| 34 | :boom:            | 2022-08-18 14:10:00 | rockhampton |      3 |        2 | Kick On Command  |    1.8 | evenodds,overthrow  |
-| 35 | 8.0               | 2022-08-18 13:50:00 | hawkesbury  |      3 |        5 | Kapakiri         |    8   | jmac                |
-| 36 | :soon:            | 2022-08-18 13:35:00 | rockhampton |      2 |        5 | Super Rooster    |    8.5 | evenodds,milkman    |
-| 37 | :2nd_place_medal: | 2022-08-18 13:15:00 | hawkesbury  |      2 |        7 | A Guinea         |   15   | cosmo,bob           |
-| 38 | :boom:            | 2022-08-18 13:15:00 | hawkesbury  |      2 |        1 | The Poacher      |    2.3 | vulture             |
+|    | finish   | time                | track        |   race |   number | name         |   odds | tipster           |
+|---:|:---------|:--------------------|:-------------|-------:|---------:|:-------------|-------:|:------------------|
+|  0 | :soon:   | 2022-08-20 05:05:00 | killarney    |      8 |        5 | Polo Lounge  |    0   | overthrow         |
+|  1 | :soon:   | 2022-08-20 02:15:00 | killarney    |      3 |        4 | Rexem        |    0   | milkman           |
+|  2 | :soon:   | 2022-08-20 01:25:00 | kilbeggan    |      1 |        5 | Quel Reve    |    0   | milkman           |
+|  3 | :soon:   | 2022-08-19 15:54:00 | gatton       |      9 |        6 | Terrius      |    3.8 | pangea            |
+|  4 | :soon:   | 2022-08-19 14:09:00 | gatton       |      6 |        8 | Mornay       |   10   | pangea            |
+|  5 | :soon:   | 2022-08-19 14:09:00 | gatton       |      6 |        4 | Hodgson      |    2.6 | benny,blackshadow |
+|  6 | :soon:   | 2022-08-19 14:09:00 | gatton       |      6 |        3 | Coat Of Arms |    6   | vulture,pangea    |
+|  7 | :soon:   | 2022-08-19 12:45:00 | murwillumbah |      1 |        8 | Top Bird     |    8.5 | benny,pangea      |
+|  8 | :soon:   | 2022-08-19 12:45:00 | murwillumbah |      1 |        1 | In Fiore     |    3.2 | benny,pangea      |
