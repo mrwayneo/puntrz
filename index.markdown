@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-18 16:36:57 +1000  
+date: 2022-08-18 16:51:49 +1000  
 ---   
 
 
@@ -42,7 +42,6 @@ date: 2022-08-18 16:36:57 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -69.6 | 0.4  | -0.35 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |    -76   | 0.05 | -0.38 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -87.5 | 0.15 | -0.44 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -100   | 0.05 | -0.5  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      5 |   -113.6 | 0.25 | -0.57 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      2 |   -126   | 0.1  | -0.63 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -133   | 0.1  | -0.66 |
@@ -50,6 +49,7 @@ date: 2022-08-18 16:36:57 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      2 |   -161   | 0.1  | -0.8  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      2 |   -167.3 | 0.1  | -0.84 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
@@ -108,7 +108,7 @@ date: 2022-08-18 16:36:57 +1000
 | 26 | :soon:            | 2022-08-18 22:50:00 | york        |      1 |        5 | Kerindia         |   19   | milkman             |
 | 27 | :soon:            | 2022-08-18 17:10:00 | rockhampton |      8 |       11 | Machinate        |    5   | vulture             |
 | 28 | --                | 2022-08-18 16:35:00 | rockhampton |      7 |        2 | Emperor Of Light |   15   | evenodds,overthrow  |
-| 29 | --                | 2022-08-18 16:15:00 | hawkesbury  |      7 |        6 | Our Intrigue     |   17   | benny,pikey         |
+| 29 | 9.0               | 2022-08-18 16:15:00 | hawkesbury  |      7 |        6 | Our Intrigue     |   17   | benny,pikey         |
 | 30 | :boom:            | 2022-08-18 16:15:00 | hawkesbury  |      7 |        3 | Skyman           |    0   | vulture,jmac        |
 | 31 | :2nd_place_medal: | 2022-08-18 16:15:00 | hawkesbury  |      7 |        4 | Oscar Zulu       |    8   | wallbow             |
 | 32 | :2nd_place_medal: | 2022-08-18 15:40:00 | hawkesbury  |      6 |        3 | Time Raid        |    5.5 | pangea              |
