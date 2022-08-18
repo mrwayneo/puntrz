@@ -11,3 +11,5 @@ cp_bash
 .bash_history
 .football
 .forebet
+Dockerfile
+docker-compose.yaml

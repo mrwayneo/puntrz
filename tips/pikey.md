@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-08-18 16:06:46 +1000  
+date: 2022-08-18 16:21:56 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 16:15             | 2022-08-18 | hawkesbury R7         | 6 Our Intrigue        |  17    |    -10   |
+| 0                 | 2022-08-18 | hawkesbury R7         | 6 Our Intrigue        |   0    |    -10   |
 | 8                 | 2022-08-17 | canterbury R6         | 5 Petulant            |   4.33 |    -10   |
 | :boom:            | 2022-08-17 | canterbury R5         | 11 Hell I Am          |   4.3  |     33   |
 | :3rd_place_medal: | 2022-08-17 | canterbury R3         | 7 Sprout Wings        |   4.75 |    -10   |
