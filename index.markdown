@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-18 13:42:35 +1000  
+date: 2022-08-18 13:57:35 +1000  
 ---   
 
 
@@ -42,6 +42,7 @@ date: 2022-08-18 13:42:35 +1000
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -69.6 | 0.4  | -0.35 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |    -76   | 0.05 | -0.38 |
 | [pangea](https://mrwayneo.github.io/tips/pangea.html)           |     20 |      3 |    -87.5 | 0.15 | -0.44 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -100   | 0.05 | -0.5  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      5 |   -113.6 | 0.25 | -0.57 |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      2 |   -126   | 0.1  | -0.63 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      2 |   -133   | 0.1  | -0.66 |
@@ -49,7 +50,6 @@ date: 2022-08-18 13:42:35 +1000
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      2 |   -161   | 0.1  | -0.8  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      2 |   -167.3 | 0.1  | -0.84 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      0 |   -200   | 0    | -1    |
 
 ##### Form Last 6 months   
 
@@ -114,7 +114,7 @@ date: 2022-08-18 13:42:35 +1000
 | 32 | :soon:            | 2022-08-18 15:40:00 | hawkesbury  |      6 |        3 | Time Raid        |    5.5 | pangea              |
 | 33 | :soon:            | 2022-08-18 14:45:00 | rockhampton |      4 |        9 | Montana Night    |    5   | vulture,blackshadow |
 | 34 | :soon:            | 2022-08-18 14:10:00 | rockhampton |      3 |        2 | Kick On Command  |    1.8 | evenodds,overthrow  |
-| 35 | :soon:            | 2022-08-18 13:50:00 | hawkesbury  |      3 |        5 | Kapakiri         |    8   | jmac                |
+| 35 | --                | 2022-08-18 13:50:00 | hawkesbury  |      3 |        5 | Kapakiri         |    8   | jmac                |
 | 36 | :soon:            | 2022-08-18 13:35:00 | rockhampton |      2 |        5 | Super Rooster    |    8.5 | evenodds,milkman    |
 | 37 | :2nd_place_medal: | 2022-08-18 13:15:00 | hawkesbury  |      2 |        7 | A Guinea         |   15   | cosmo,bob           |
 | 38 | :boom:            | 2022-08-18 13:15:00 | hawkesbury  |      2 |        1 | The Poacher      |    2.3 | vulture             |
