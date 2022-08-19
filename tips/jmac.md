@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-20 06:55:06 +1000  
+date: 2022-08-20 07:10:11 +1000  
 categories: None 
 ---   
 
@@ -15,6 +15,13 @@ categories: None
 
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
+| 17:00             | 2022-08-20 | randwick R10         | 5 Zarastro           |  5    |    -10   |
+| 16:25             | 2022-08-20 | randwick R9          | 7 In Secret          |  3.3  |    -10   |
+| 15:45             | 2022-08-20 | randwick R8          | 3 Anamoe             |  2.62 |    -10   |
+| 13:50             | 2022-08-20 | randwick R5          | 6 Showmanship        |  2.5  |    -10   |
+| 13:15             | 2022-08-20 | randwick R4          | 5 Niffler            |  3.7  |    -10   |
+| 12:40             | 2022-08-20 | randwick R3          | 1 Bazooka            |  4.4  |    -10   |
+| 12:05             | 2022-08-20 | randwick R2          | 2 Strawberry Rock    |  3.1  |    -10   |
 | :boom:            | 2022-08-18 | hawkesbury R7        | 3 Skyman             |  4.5  |     35   |
 | 8                 | 2022-08-18 | hawkesbury R3        | 5 Kapakiri           |  8    |    -10   |
 | 0                 | 2022-08-17 | canterbury R6        | 2 Roots              |  0    |    -10   |

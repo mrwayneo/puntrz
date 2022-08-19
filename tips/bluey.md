@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bluey"   
-date: 2022-08-20 06:55:06 +1000  
+date: 2022-08-20 07:10:11 +1000  
 categories: None 
 ---   
 
@@ -14,6 +14,8 @@ categories: None
 
 | finish            | date       | event                  | runner                |   win |   return |
 |:------------------|:-----------|:-----------------------|:----------------------|------:|---------:|
+| 17:00             | 2022-08-20 | randwick R10           | 1 Cisco Bay           |  19   |      -10 |
+| 15:07             | 2022-08-20 | alice-springs R1       | 3 Toffiato            |   9.5 |      -10 |
 | :boom:            | 2022-08-09 | mackay R2              | 7 Corporal            |  32.1 |      311 |
 | 0                 | 2022-08-08 | emerald R1             | 10 Ready By Midnight  |   0   |      -10 |
 | 10                | 2022-08-07 | sunshine-coast R3      | 9 Golden Eighty       |  13   |      -10 |
@@ -181,8 +183,8 @@ categories: None
 | :2nd_place_medal: | 2021-07-09 | carlisle R8            | 3 Zeimaam             |  11   |      -10 |
 | 7                 | 2021-07-07 | bordertown R6          | 10 Humpback           |  19   |      -10 |
 | 9                 | 2021-07-07 | grafton R1             | 5 Astralis            |  15   |      -10 |
-| :boom:            | 2021-07-04 | haydock R4             | 3 Alounak             |  19.2 |      182 |
 | :3rd_place_medal: | 2021-07-04 | haydock R4             | 9 My Frankel          |  15   |      -10 |
+| :boom:            | 2021-07-04 | haydock R4             | 3 Alounak             |  19.2 |      182 |
 | :boom:            | 2021-07-03 | darwin R6              | 7 La Trioli           |   9.6 |       86 |
 | :boom:            | 2021-07-02 | newbury R4             | 9 In The Breeze       |  10   |       90 |
 | :2nd_place_medal: | 2021-07-01 | thirsk R7              | 12 Dylan's Lad        |  11   |      -10 |
