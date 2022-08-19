@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-19 12:37:43 +1000  
+date: 2022-08-19 12:52:44 +1000  
 ---   
 
 
@@ -9,16 +9,16 @@ date: 2022-08-19 12:37:43 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 |    0 |    -1 |
-| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      2 |      0 |      -20 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      2 |      0 |      -20 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      2 |      0 |      -20 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      2 |      0 |      -20 |    0 |    -1 |
-| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      0 |      -30 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      0 |      -60 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     30 |      0 |     -300 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     43 |      0 |     -430 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      1 |       -3 | 0.33 | -0.1  |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      0 |      -10 | 0    | -1    |
+| [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      0 |      -10 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      2 |      0 |      -20 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      2 |      0 |      -20 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      2 |      0 |      -20 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      1 |      -33 | 0.17 | -0.55 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     30 |      0 |     -300 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     43 |      0 |     -430 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -72,14 +72,14 @@ date: 2022-08-19 12:37:43 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3396 |    470 |  -6004.2 | 0.14 | -0.18 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4316 |    153 | -19983   | 0.04 | -0.46 |
 
-|    | finish   | time                | track        |   race |   number | name         |   odds | tipster           |
-|---:|:---------|:--------------------|:-------------|-------:|---------:|:-------------|-------:|:------------------|
-|  0 | :soon:   | 2022-08-20 05:05:00 | killarney    |      8 |        5 | Polo Lounge  |    0   | overthrow         |
-|  1 | :soon:   | 2022-08-20 02:15:00 | killarney    |      3 |        4 | Rexem        |    0   | milkman           |
-|  2 | :soon:   | 2022-08-20 01:25:00 | kilbeggan    |      1 |        5 | Quel Reve    |    0   | milkman           |
-|  3 | :soon:   | 2022-08-19 15:54:00 | gatton       |      9 |        6 | Terrius      |    3.8 | pangea            |
-|  4 | :soon:   | 2022-08-19 14:09:00 | gatton       |      6 |        8 | Mornay       |   10   | pangea            |
-|  5 | :soon:   | 2022-08-19 14:09:00 | gatton       |      6 |        4 | Hodgson      |    2.6 | benny,blackshadow |
-|  6 | :soon:   | 2022-08-19 14:09:00 | gatton       |      6 |        3 | Coat Of Arms |    6   | vulture,pangea    |
-|  7 | :soon:   | 2022-08-19 12:45:00 | murwillumbah |      1 |        8 | Top Bird     |    8.5 | benny,pangea      |
-|  8 | :soon:   | 2022-08-19 12:45:00 | murwillumbah |      1 |        1 | In Fiore     |    3.2 | benny,pangea      |
+|    | finish            | time                | track        |   race |   number | name         |   odds | tipster           |
+|---:|:------------------|:--------------------|:-------------|-------:|---------:|:-------------|-------:|:------------------|
+|  0 | :soon:            | 2022-08-20 05:05:00 | killarney    |      8 |        5 | Polo Lounge  |    0   | overthrow         |
+|  1 | :soon:            | 2022-08-20 02:15:00 | killarney    |      3 |        4 | Rexem        |    0   | milkman           |
+|  2 | :soon:            | 2022-08-20 01:25:00 | kilbeggan    |      1 |        5 | Quel Reve    |    0   | milkman           |
+|  3 | :soon:            | 2022-08-19 15:54:00 | gatton       |      9 |        6 | Terrius      |    3.8 | pangea            |
+|  4 | :soon:            | 2022-08-19 14:09:00 | gatton       |      6 |        8 | Mornay       |   10   | pangea            |
+|  5 | :soon:            | 2022-08-19 14:09:00 | gatton       |      6 |        4 | Hodgson      |    2.6 | benny,blackshadow |
+|  6 | :soon:            | 2022-08-19 14:09:00 | gatton       |      6 |        3 | Coat Of Arms |    6   | vulture,pangea    |
+|  7 | :3rd_place_medal: | 2022-08-19 12:45:00 | murwillumbah |      1 |        8 | Top Bird     |    8.5 | benny,pangea      |
+|  8 | :boom:            | 2022-08-19 12:45:00 | murwillumbah |      1 |        1 | In Fiore     |    3.2 | benny,pangea      |
