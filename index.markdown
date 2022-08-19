@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-19 15:52:46 +1000  
+date: 2022-08-19 16:07:50 +1000  
 ---   
 
 
@@ -9,12 +9,12 @@ date: 2022-08-19 15:52:46 +1000
 
 | tipster                                                         |   runs |   wins |   profit |   sr |   roi |
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      3 |       28 | 0.5  |  0.47 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |      3 |      2 |       26 | 0.67 |  0.87 |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)       |      1 |      1 |       19 | 1    |  1.9  |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |      1 |      1 |       19 | 1    |  1.9  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |      2 |      1 |        9 | 0.5  |  0.45 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |      2 |      1 |        9 | 0.5  |  0.45 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)           |      6 |      2 |       -4 | 0.33 | -0.07 |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |      2 |      0 |      -20 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     30 |      0 |     -300 | 0    | -1    |
@@ -77,7 +77,7 @@ date: 2022-08-19 15:52:46 +1000
 |  0 | :soon:            | 2022-08-20 05:05:00 | killarney    |      8 |        5 | Polo Lounge  |    0   | overthrow         |
 |  1 | :soon:            | 2022-08-20 02:15:00 | killarney    |      3 |        4 | Rexem        |    0   | milkman           |
 |  2 | :soon:            | 2022-08-20 01:25:00 | kilbeggan    |      1 |        5 | Quel Reve    |    0   | milkman           |
-|  3 | :soon:            | 2022-08-19 15:54:00 | gatton       |      9 |        6 | Terrius      |    3.8 | pangea            |
+|  3 | :boom:            | 2022-08-19 15:54:00 | gatton       |      9 |        6 | Terrius      |    3.8 | pangea            |
 |  4 | 6.0               | 2022-08-19 14:09:00 | gatton       |      6 |        8 | Mornay       |   10   | pangea            |
 |  5 | :boom:            | 2022-08-19 14:09:00 | gatton       |      6 |        4 | Hodgson      |    2.6 | benny,blackshadow |
 |  6 | :2nd_place_medal: | 2022-08-19 14:09:00 | gatton       |      6 |        3 | Coat Of Arms |    6   | vulture,pangea    |
