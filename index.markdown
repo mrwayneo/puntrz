@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-19 14:37:42 +1000  
+date: 2022-08-19 14:52:54 +1000  
 ---   
 
 
@@ -78,7 +78,7 @@ date: 2022-08-19 14:37:42 +1000
 |  1 | :soon:            | 2022-08-20 02:15:00 | killarney    |      3 |        4 | Rexem        |    0   | milkman           |
 |  2 | :soon:            | 2022-08-20 01:25:00 | kilbeggan    |      1 |        5 | Quel Reve    |    0   | milkman           |
 |  3 | :soon:            | 2022-08-19 15:54:00 | gatton       |      9 |        6 | Terrius      |    3.8 | pangea            |
-|  4 | --                | 2022-08-19 14:09:00 | gatton       |      6 |        8 | Mornay       |   10   | pangea            |
+|  4 | 6.0               | 2022-08-19 14:09:00 | gatton       |      6 |        8 | Mornay       |   10   | pangea            |
 |  5 | :boom:            | 2022-08-19 14:09:00 | gatton       |      6 |        4 | Hodgson      |    2.6 | benny,blackshadow |
 |  6 | :2nd_place_medal: | 2022-08-19 14:09:00 | gatton       |      6 |        3 | Coat Of Arms |    6   | vulture,pangea    |
 |  7 | :3rd_place_medal: | 2022-08-19 12:45:00 | murwillumbah |      1 |        8 | Top Bird     |    8.5 | benny,pangea      |
