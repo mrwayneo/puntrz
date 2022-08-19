@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-20 03:38:06 +1000  
+date: 2022-08-20 04:26:10 +1000  
 ---   
 
 
@@ -13,6 +13,7 @@ date: 2022-08-20 03:38:06 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      4 |    415.5 | 0.2  |  2.08 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    333   | 1    |  1.66 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    322   | 0.15 |  1.61 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    121   | 0.05 |  0.6  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      7 |     51.5 | 0.35 |  0.26 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |     15   | 0.1  |  0.08 |
@@ -24,11 +25,10 @@ date: 2022-08-20 03:38:06 +1000
 | [moechilli](https://mrwayneo.github.io/tips/moechilli.html)     |     20 |      8 |    -15.5 | 0.4  | -0.08 |
 | [icyhot](https://mrwayneo.github.io/tips/icyhot.html)           |     20 |      6 |    -19.3 | 0.3  | -0.1  |
 | [lago](https://mrwayneo.github.io/tips/lago.html)               |     20 |      8 |    -69.6 | 0.4  | -0.35 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |    -94   | 0.05 | -0.47 |
 | [blackshadow](https://mrwayneo.github.io/tips/blackshadow.html) |     20 |      3 |   -104   | 0.15 | -0.52 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)             |     20 |      4 |   -105   | 0.2  | -0.52 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |     20 |      5 |   -106.3 | 0.25 | -0.53 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      1 |   -125   | 0.05 | -0.62 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |     20 |      1 |   -120   | 0.05 | -0.6  |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)         |     20 |      2 |   -126   | 0.1  | -0.63 |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)             |     20 |      1 |   -157   | 0.05 | -0.78 |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)             |     20 |      0 |   -200   | 0    | -1    |
@@ -56,8 +56,8 @@ date: 2022-08-20 03:38:06 +1000
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)         |    629 |    166 |   -940.7 | 0.26 | -0.15 |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |   1469 |    375 |  -1465.3 | 0.26 | -0.1  |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)     |   1234 |    298 |  -2468.4 | 0.24 | -0.2  |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3359 |    463 |  -6297.2 | 0.14 | -0.19 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4242 |    149 | -19787   | 0.04 | -0.47 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3359 |    463 |  -6323.2 | 0.14 | -0.19 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4242 |    151 | -19340   | 0.04 | -0.46 |
 
 |    | finish            | time                | track        |   race |   number | name         |   odds | tipster           |
 |---:|:------------------|:--------------------|:-------------|-------:|---------:|:-------------|-------:|:------------------|
