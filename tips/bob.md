@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-08-20 15:10:32 +1000  
+date: 2022-08-20 15:25:22 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
 | 00:45             | 2022-08-21 | curragh R5                    | 2 Maybe Just Maybe    |   0    |    -10   |
-| 15:25             | 2022-08-20 | moonee-valley R5              | 6 Latvian             |  21    |    -10   |
+| 0                 | 2022-08-20 | moonee-valley R5              | 6 Latvian             |   0    |    -10   |
 | :2nd_place_medal: | 2022-08-18 | hawkesbury R2                 | 7 A Guinea            |  15    |    -10   |
 | :3rd_place_medal: | 2022-08-09 | ballinrobe R3                 | 2 L'Un Deux Trois     |  13    |    -10   |
 | 4                 | 2022-08-08 | goulburn R4                   | 6 Leather Jacket Lew  |  21    |    -10   |
