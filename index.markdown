@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-21 07:04:18 +1000  
+date: 2022-08-21 07:18:54 +1000  
 ---   
 
 
@@ -104,8 +104,8 @@ date: 2022-08-21 07:04:18 +1000
 | 28 | :boom:            | 2022-08-20 15:45:00 | randwick         |      8 |        3 | Anamoe            |   2.62 | pangea,jmac        |
 | 29 | :2nd_place_medal: | 2022-08-20 15:45:00 | randwick         |      8 |       10 | Fangirl           |   7    | pangea,wallbow     |
 | 30 | 5.0               | 2022-08-20 15:45:00 | randwick         |      8 |       11 | Hinged            |  13    | pangea             |
-| 31 | 6.0               | 2022-08-20 15:39:00 | alice-springs    |      2 |        7 | Mighty Murt       |   5.5  | pangea             |
-| 32 | :boom:            | 2022-08-20 15:39:00 | alice-springs    |      2 |        5 | Bar Gem           |   4    | pangea             |
+| 31 | :boom:            | 2022-08-20 15:39:00 | alice-springs    |      2 |        5 | Bar Gem           |   4    | pangea             |
+| 32 | 6.0               | 2022-08-20 15:39:00 | alice-springs    |      2 |        7 | Mighty Murt       |   5.5  | pangea             |
 | 33 | :3rd_place_medal: | 2022-08-20 15:25:00 | moonee-valley    |      5 |        2 | El Padrino        |   7.5  | overthrow          |
 | 34 | --                | 2022-08-20 15:25:00 | moonee-valley    |      5 |        3 | Crosswinds        |   4.8  | milkman            |
 | 35 | :3rd_place_medal: | 2022-08-20 15:07:00 | alice-springs    |      1 |        3 | Toffiato          |   9.5  | pangea,bluey       |
