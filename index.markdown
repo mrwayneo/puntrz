@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-20 13:55:14 +1000  
+date: 2022-08-20 14:10:21 +1000  
 ---   
 
 
@@ -31,7 +31,7 @@ date: 2022-08-20 13:55:14 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      4 |    415.5 | 0.2  |  2.08 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    333   | 1    |  1.66 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    255   | 0.15 |  1.27 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |    180   | 0.1  |  0.9  |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    121   | 0.05 |  0.6  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      7 |     51.5 | 0.35 |  0.26 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |     15   | 0.1  |  0.08 |
@@ -122,7 +122,7 @@ date: 2022-08-20 13:55:14 +1000
 | 40 | :soon:            | 2022-08-20 14:25:00 | randwick         |      6 |        1 | Le Don De Vie     |  20    | evenodds,overthrow |
 | 41 | :soon:            | 2022-08-20 14:25:00 | randwick         |      6 |        3 | Lord Ardmore      |   2.75 | vulture,wallbow    |
 | 42 | :soon:            | 2022-08-20 14:25:00 | randwick         |      6 |        9 | Grove Ferry       |   7.5  | vulture            |
-| 43 | :soon:            | 2022-08-20 13:58:00 | ruakaka          |      7 |        2 | Brando            |   2.62 | vulture            |
+| 43 | --                | 2022-08-20 13:58:00 | ruakaka          |      7 |        2 | Brando            |   2.62 | vulture            |
 | 44 | :boom:            | 2022-08-20 13:50:00 | randwick         |      5 |        6 | Showmanship       |   2.5  | jmac               |
 | 45 | --                | 2022-08-20 13:50:00 | randwick         |      5 |        5 | Electric Girl     |   8.5  | pikey              |
 | 46 | :2nd_place_medal: | 2022-08-20 13:30:00 | moonee-valley    |      2 |        4 | Castillian        |   3.9  | vulture            |
