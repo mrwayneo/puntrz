@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-20 16:40:31 +1000  
+date: 2022-08-20 16:55:25 +1000  
 ---   
 
 
@@ -100,11 +100,11 @@ date: 2022-08-20 16:40:31 +1000
 | 18 | :soon:            | 2022-08-20 17:00:00 | randwick         |     10 |       13 | Arbitration       |   6    | vulture,pangea     |
 | 19 | :soon:            | 2022-08-20 17:00:00 | randwick         |     10 |        5 | Zarastro          |   5    | jmac               |
 | 20 | :soon:            | 2022-08-20 17:00:00 | randwick         |     10 |        1 | Cisco Bay         |  19    | cosmo,bluey        |
-| 21 | --                | 2022-08-20 16:25:00 | randwick         |      9 |       11 | Midnight In Tokyo |  20    | vulture,milkman    |
+| 21 | 10.0              | 2022-08-20 16:25:00 | randwick         |      9 |       11 | Midnight In Tokyo |  20    | vulture,milkman    |
 | 22 | :2nd_place_medal: | 2022-08-20 16:25:00 | randwick         |      9 |        7 | In Secret         |   3.3  | vulture,jmac       |
 | 23 | :boom:            | 2022-08-20 16:25:00 | randwick         |      9 |       13 | Zougotcha         |  14    | pikey              |
 | 24 | :3rd_place_medal: | 2022-08-20 16:25:00 | randwick         |      9 |       12 | North Star Lass   |  34    | milkman            |
-| 25 | --                | 2022-08-20 16:25:00 | randwick         |      9 |        5 | Willinga Beast    |   4.5  | milkman            |
+| 25 | 5.0               | 2022-08-20 16:25:00 | randwick         |      9 |        5 | Willinga Beast    |   4.5  | milkman            |
 | 26 | 4.0               | 2022-08-20 15:45:00 | randwick         |      8 |        5 | Hilal             |  19    | pikey              |
 | 27 | 10.0              | 2022-08-20 15:45:00 | randwick         |      8 |        1 | Mo'unga           |   5    | pangea             |
 | 28 | :boom:            | 2022-08-20 15:45:00 | randwick         |      8 |        3 | Anamoe            |   2.62 | pangea,jmac        |
