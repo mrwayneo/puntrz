@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-20 13:25:59 +1000  
+date: 2022-08-20 13:40:09 +1000  
 ---   
 
 
@@ -31,7 +31,7 @@ date: 2022-08-20 13:25:59 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      4 |    415.5 | 0.2  |  2.08 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    333   | 1    |  1.66 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |    180   | 0.1  |  0.9  |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    255   | 0.15 |  1.27 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    121   | 0.05 |  0.6  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      7 |     51.5 | 0.35 |  0.26 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |     15   | 0.1  |  0.08 |
@@ -125,9 +125,9 @@ date: 2022-08-20 13:25:59 +1000
 | 43 | :soon:            | 2022-08-20 13:58:00 | ruakaka          |      7 |        2 | Brando            |   2.62 | vulture            |
 | 44 | :soon:            | 2022-08-20 13:50:00 | randwick         |      5 |        6 | Showmanship       |   2.5  | jmac               |
 | 45 | :soon:            | 2022-08-20 13:50:00 | randwick         |      5 |        5 | Electric Girl     |   8.5  | pikey              |
-| 46 | :soon:            | 2022-08-20 13:30:00 | moonee-valley    |      2 |        4 | Castillian        |   3.9  | vulture            |
+| 46 | --                | 2022-08-20 13:30:00 | moonee-valley    |      2 |        4 | Castillian        |   3.9  | vulture            |
 | 47 | :boom:            | 2022-08-20 13:15:00 | randwick         |      4 |        5 | Niffler           |   3.7  | pangea,jmac        |
-| 48 | --                | 2022-08-20 13:15:00 | randwick         |      4 |        3 | Bold Mac          |   8    | wallbow            |
+| 48 | 6.0               | 2022-08-20 13:15:00 | randwick         |      4 |        3 | Bold Mac          |   8    | wallbow            |
 | 49 | --                | 2022-08-20 12:48:00 | pukekura-raceway |      6 |        2 | Don't Ask         |   0    | milkman            |
 | 50 | 12.0              | 2022-08-20 12:40:00 | randwick         |      3 |       17 | My Truth          |   6.5  | pikey              |
 | 51 | :2nd_place_medal: | 2022-08-20 12:40:00 | randwick         |      3 |        1 | Bazooka           |   4.4  | jmac               |
