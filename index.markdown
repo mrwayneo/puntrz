@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-20 15:40:31 +1000  
+date: 2022-08-20 15:55:27 +1000  
 ---   
 
 
@@ -9,16 +9,16 @@ date: 2022-08-20 15:40:31 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      2 |       13 | 0.29 |  0.19 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      3 |       36 | 0.43 |  0.51 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     21 |      1 |      -12 | 0.05 | -0.06 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      2 |      0 |      -20 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      3 |      0 |      -30 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     18 |      3 |      -54 | 0.17 | -0.3  |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      6 |      0 |      -60 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      7 |      0 |      -70 | 0    | -1    |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     18 |      1 |     -128 | 0.06 | -0.71 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     13 |      0 |     -130 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |     15 |      0 |     -150 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     16 |      0 |     -160 | 0    | -1    |
@@ -31,7 +31,7 @@ date: 2022-08-20 15:40:31 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      4 |    415.5 | 0.2  |  2.08 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    333   | 1    |  1.66 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |    180   | 0.1  |  0.9  |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    255   | 0.15 |  1.27 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    121   | 0.05 |  0.6  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      7 |     51.5 | 0.35 |  0.26 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |     15   | 0.1  |  0.08 |
@@ -105,17 +105,17 @@ date: 2022-08-20 15:40:31 +1000
 | 23 | :soon:            | 2022-08-20 16:25:00 | randwick         |      9 |       13 | Zougotcha         |  14    | pikey              |
 | 24 | :soon:            | 2022-08-20 16:25:00 | randwick         |      9 |       12 | North Star Lass   |  34    | milkman            |
 | 25 | :soon:            | 2022-08-20 16:25:00 | randwick         |      9 |        5 | Willinga Beast    |   4.5  | milkman            |
-| 26 | :soon:            | 2022-08-20 15:45:00 | randwick         |      8 |        5 | Hilal             |  19    | pikey              |
-| 27 | :soon:            | 2022-08-20 15:45:00 | randwick         |      8 |        1 | Mo'unga           |   5    | pangea             |
-| 28 | :soon:            | 2022-08-20 15:45:00 | randwick         |      8 |        3 | Anamoe            |   2.62 | pangea,jmac        |
-| 29 | :soon:            | 2022-08-20 15:45:00 | randwick         |      8 |       10 | Fangirl           |   7    | pangea,wallbow     |
-| 30 | :soon:            | 2022-08-20 15:45:00 | randwick         |      8 |       11 | Hinged            |  13    | pangea             |
+| 26 | 4.0               | 2022-08-20 15:45:00 | randwick         |      8 |        5 | Hilal             |  19    | pikey              |
+| 27 | --                | 2022-08-20 15:45:00 | randwick         |      8 |        1 | Mo'unga           |   5    | pangea             |
+| 28 | :boom:            | 2022-08-20 15:45:00 | randwick         |      8 |        3 | Anamoe            |   2.62 | pangea,jmac        |
+| 29 | :2nd_place_medal: | 2022-08-20 15:45:00 | randwick         |      8 |       10 | Fangirl           |   7    | pangea,wallbow     |
+| 30 | --                | 2022-08-20 15:45:00 | randwick         |      8 |       11 | Hinged            |  13    | pangea             |
 | 31 | --                | 2022-08-20 15:39:00 | alice-springs    |      2 |        7 | Mighty Murt       |   5.5  | pangea             |
-| 32 | --                | 2022-08-20 15:39:00 | alice-springs    |      2 |        5 | Bar Gem           |   4    | pangea             |
+| 32 | :boom:            | 2022-08-20 15:39:00 | alice-springs    |      2 |        5 | Bar Gem           |   4    | pangea             |
 | 33 | :3rd_place_medal: | 2022-08-20 15:25:00 | moonee-valley    |      5 |        2 | El Padrino        |   7.5  | overthrow          |
 | 34 | --                | 2022-08-20 15:25:00 | moonee-valley    |      5 |        3 | Crosswinds        |   4.8  | milkman            |
 | 35 | :3rd_place_medal: | 2022-08-20 15:07:00 | alice-springs    |      1 |        3 | Toffiato          |   9.5  | pangea,bluey       |
-| 36 | 4.0               | 2022-08-20 15:05:00 | randwick         |      7 |       13 | Smirnova          |  10    | pikey              |
+| 36 | 5.0               | 2022-08-20 15:05:00 | randwick         |      7 |       13 | Smirnova          |  10    | pikey              |
 | 37 | :2nd_place_medal: | 2022-08-20 14:50:00 | newcastle        |      5 |       12 | Seany's Girl      |  10    | vulture            |
 | 38 | 8.0               | 2022-08-20 14:45:00 | moonee-valley    |      4 |        1 | Herman Hesse      |   6.5  | overthrow          |
 | 39 | :2nd_place_medal: | 2022-08-20 14:25:00 | randwick         |      6 |        8 | Francesco Guardi  |   7.5  | pikey              |
