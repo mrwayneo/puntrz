@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-20 14:55:13 +1000  
+date: 2022-08-20 15:10:32 +1000  
 ---   
 
 
@@ -31,7 +31,7 @@ date: 2022-08-20 14:55:13 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      4 |    415.5 | 0.2  |  2.08 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    333   | 1    |  1.66 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |    180   | 0.1  |  0.9  |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    255   | 0.15 |  1.27 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    121   | 0.05 |  0.6  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      7 |     51.5 | 0.35 |  0.26 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |     15   | 0.1  |  0.08 |
@@ -114,8 +114,8 @@ date: 2022-08-20 14:55:13 +1000
 | 32 | :soon:            | 2022-08-20 15:39:00 | alice-springs    |      2 |        5 | Bar Gem           |   4    | pangea             |
 | 33 | :soon:            | 2022-08-20 15:25:00 | moonee-valley    |      5 |        2 | El Padrino        |   7.5  | overthrow          |
 | 34 | :soon:            | 2022-08-20 15:25:00 | moonee-valley    |      5 |        3 | Crosswinds        |   4.8  | milkman            |
-| 35 | :soon:            | 2022-08-20 15:07:00 | alice-springs    |      1 |        3 | Toffiato          |   9.5  | pangea,bluey       |
-| 36 | :soon:            | 2022-08-20 15:05:00 | randwick         |      7 |       13 | Smirnova          |  10    | pikey              |
+| 35 | --                | 2022-08-20 15:07:00 | alice-springs    |      1 |        3 | Toffiato          |   9.5  | pangea,bluey       |
+| 36 | --                | 2022-08-20 15:05:00 | randwick         |      7 |       13 | Smirnova          |  10    | pikey              |
 | 37 | :2nd_place_medal: | 2022-08-20 14:50:00 | newcastle        |      5 |       12 | Seany's Girl      |  10    | vulture            |
 | 38 | --                | 2022-08-20 14:45:00 | moonee-valley    |      4 |        1 | Herman Hesse      |   6.5  | overthrow          |
 | 39 | :2nd_place_medal: | 2022-08-20 14:25:00 | randwick         |      6 |        8 | Francesco Guardi  |   7.5  | pikey              |
