@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-08-20 14:10:19 +1000  
+date: 2022-08-20 14:25:12 +1000  
 categories: None 
 ---   
 
@@ -18,8 +18,8 @@ categories: None
 | 16:25             | 2022-08-20 | randwick R9           | 13 Zougotcha          |  14    |    -10   |
 | 15:45             | 2022-08-20 | randwick R8           | 5 Hilal               |  19    |    -10   |
 | 15:05             | 2022-08-20 | randwick R7           | 13 Smirnova           |  10    |    -10   |
-| 14:25             | 2022-08-20 | randwick R6           | 8 Francesco Guardi    |   7.5  |    -10   |
-| 0                 | 2022-08-20 | randwick R5           | 5 Electric Girl       |   0    |    -10   |
+| 0                 | 2022-08-20 | randwick R6           | 8 Francesco Guardi    |   0    |    -10   |
+| 8                 | 2022-08-20 | randwick R5           | 5 Electric Girl       |   8.5  |    -10   |
 | 12                | 2022-08-20 | randwick R3           | 17 My Truth           |   6.5  |    -10   |
 | :2nd_place_medal: | 2022-08-20 | randwick R2           | 6 Monfelicity         |   3.5  |    -10   |
 | 9                 | 2022-08-18 | hawkesbury R7         | 6 Our Intrigue        |  17    |    -10   |
