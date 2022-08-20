@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-20 12:55:09 +1000  
+date: 2022-08-20 13:10:16 +1000  
 ---   
 
 
@@ -9,21 +9,21 @@ date: 2022-08-20 12:55:09 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 |    0 |    -1 |
-| [lago](https://mrwayneo.github.io/tips/lago.html)             |      2 |      0 |      -20 |    0 |    -1 |
-| [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      2 |      0 |      -20 |    0 |    -1 |
-| [bob](https://mrwayneo.github.io/tips/bob.html)               |      2 |      0 |      -20 |    0 |    -1 |
-| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      3 |      0 |      -30 |    0 |    -1 |
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      6 |      0 |      -60 |    0 |    -1 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      0 |      -70 |    0 |    -1 |
-| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      7 |      0 |      -70 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     13 |      0 |     -130 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |     15 |      0 |     -150 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     16 |      0 |     -160 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     18 |      0 |     -180 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     21 |      0 |     -210 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     37 |      0 |     -370 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     38 |      0 |     -380 |    0 |    -1 |
+| [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 | 0    | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     21 |      1 |      -12 | 0.05 | -0.06 |
+| [lago](https://mrwayneo.github.io/tips/lago.html)             |      2 |      0 |      -20 | 0    | -1    |
+| [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      2 |      0 |      -20 | 0    | -1    |
+| [bob](https://mrwayneo.github.io/tips/bob.html)               |      2 |      0 |      -20 | 0    | -1    |
+| [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      3 |      0 |      -30 | 0    | -1    |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      6 |      0 |      -60 | 0    | -1    |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      0 |      -70 | 0    | -1    |
+| [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      7 |      0 |      -70 | 0    | -1    |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     13 |      0 |     -130 | 0    | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |     15 |      0 |     -150 | 0    | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     16 |      0 |     -160 | 0    | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     37 |      1 |     -172 | 0.03 | -0.46 |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     18 |      0 |     -180 | 0    | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     38 |      0 |     -380 | 0    | -1    |
 
 ##### Form Last 20 tips   
 
@@ -31,7 +31,7 @@ date: 2022-08-20 12:55:09 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      4 |    415.5 | 0.2  |  2.08 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    333   | 1    |  1.66 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |    180   | 0.1  |  0.9  |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    255   | 0.15 |  1.27 |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    121   | 0.05 |  0.6  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      7 |     51.5 | 0.35 |  0.26 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |     15   | 0.1  |  0.08 |
