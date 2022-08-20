@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-08-20 14:40:23 +1000  
+date: 2022-08-20 14:55:12 +1000  
 categories: None 
 ---   
 
@@ -41,24 +41,24 @@ categories: None
 | :2nd_place_medal: | 2022-04-26 | nottingham R2          | 1 New Dimension      |  1.3  |    -10   |
 | 99                | 2022-04-16 | newbury R2             | 10 Shaara            |  0    |    -10   |
 | :boom:            | 2022-04-15 | ascot R2               | 10 Alsephina         |  2    |     10   |
-| :boom:            | 2022-04-14 | newmarket R6           | 2 New London         |  2.6  |     16   |
 | :2nd_place_medal: | 2022-04-14 | newmarket R6           | 1 Aldous Huxley      |  2.5  |    -10   |
+| :boom:            | 2022-04-14 | newmarket R6           | 2 New London         |  2.6  |     16   |
 | :boom:            | 2022-04-14 | newmarket R5           | 5 Native Trail       |  1.26 |      2.6 |
 | :boom:            | 2022-04-13 | hawkesbury R3          | 1 Norwegian Bliss    |  2.3  |     13   |
 | :3rd_place_medal: | 2022-04-07 | lingfield R5           | 1 Willow Cove        |  0    |    -10   |
 | :boom:            | 2022-04-05 | townsville R1          | 3 Chinny Boom        |  0    |    -10   |
 | :boom:            | 2022-04-02 | alice-springs R6       | 1 Dakota Lee         |  1.1  |      1   |
 | :boom:            | 2022-04-02 | gold-coast R4          | 2 Impel Gazelle      |  4.1  |     31   |
-| :3rd_place_medal: | 2022-03-28 | limerick R8            | 2 Mercurey           |  1.32 |    -10   |
 | :boom:            | 2022-03-28 | limerick R8            | 1 Impulsive Dancer   |  4.8  |     38   |
+| :3rd_place_medal: | 2022-03-28 | limerick R8            | 2 Mercurey           |  1.32 |    -10   |
 | 5                 | 2022-03-25 | moonee-valley R3       | 1 Bello Beau         |  3.75 |    -10   |
 | :boom:            | 2022-03-25 | moonee-valley R1       | 6 Ice Pick Nick      |  5.8  |     48   |
 | :boom:            | 2022-03-23 | exeter R6              | 2 Park Hill Dancer   |  2.1  |     11   |
 | 99                | 2022-03-22 | southwell R3           | 1 Fancy Stuff        |  0    |    -10   |
 | :boom:            | 2022-03-20 | alice-springs R2       | 1 Dakota Lee         |  1.1  |      1   |
 | 99                | 2022-03-17 | kempton R1             | 1 Deciduous          |  0    |    -10   |
-| :boom:            | 2022-03-17 | cheltenham R7          | 7 Facile Vega        |  3    |     20   |
 | 99                | 2022-03-17 | cheltenham R7          | 16 Redemption Day    |  0    |    -10   |
+| :boom:            | 2022-03-17 | cheltenham R7          | 7 Facile Vega        |  3    |     20   |
 | 99                | 2022-03-16 | cheltenham R1          | 3 Dysart Dynamo      |  0    |    -10   |
 | :2nd_place_medal: | 2022-03-16 | cheltenham R1          | 4 Jonbon             |  6.5  |    -10   |
 | :2nd_place_medal: | 2022-03-14 | bangor R3              | 2 Jungle Jack        |  2.4  |    -10   |
