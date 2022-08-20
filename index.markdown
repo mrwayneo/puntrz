@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-20 13:10:16 +1000  
+date: 2022-08-20 13:25:23 +1000  
 ---   
 
 
@@ -11,18 +11,18 @@ date: 2022-08-20 13:10:16 +1000
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     21 |      1 |      -12 | 0.05 | -0.06 |
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      1 |      -18 | 0.14 | -0.26 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      2 |      0 |      -20 | 0    | -1    |
 | [wallbow](https://mrwayneo.github.io/tips/wallbow.html)       |      3 |      0 |      -30 | 0    | -1    |
 | [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      6 |      0 |      -60 | 0    | -1    |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      0 |      -70 | 0    | -1    |
 | [pikey](https://mrwayneo.github.io/tips/pikey.html)           |      7 |      0 |      -70 | 0    | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     18 |      1 |     -128 | 0.06 | -0.71 |
 | [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |     13 |      0 |     -130 | 0    | -1    |
 | [milkman](https://mrwayneo.github.io/tips/milkman.html)       |     15 |      0 |     -150 | 0    | -1    |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)       |     16 |      0 |     -160 | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     37 |      1 |     -172 | 0.03 | -0.46 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |     18 |      0 |     -180 | 0    | -1    |
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     38 |      0 |     -380 | 0    | -1    |
 
 ##### Form Last 20 tips   
@@ -126,10 +126,10 @@ date: 2022-08-20 13:10:16 +1000
 | 44 | :soon:            | 2022-08-20 13:50:00 | randwick         |      5 |        6 | Showmanship       |   2.5  | jmac               |
 | 45 | :soon:            | 2022-08-20 13:50:00 | randwick         |      5 |        5 | Electric Girl     |   8.5  | pikey              |
 | 46 | :soon:            | 2022-08-20 13:30:00 | moonee-valley    |      2 |        4 | Castillian        |   3.9  | vulture            |
-| 47 | :soon:            | 2022-08-20 13:15:00 | randwick         |      4 |        5 | Niffler           |   3.7  | pangea,jmac        |
-| 48 | :soon:            | 2022-08-20 13:15:00 | randwick         |      4 |        3 | Bold Mac          |   8    | wallbow            |
+| 47 | :boom:            | 2022-08-20 13:15:00 | randwick         |      4 |        5 | Niffler           |   3.7  | pangea,jmac        |
+| 48 | --                | 2022-08-20 13:15:00 | randwick         |      4 |        3 | Bold Mac          |   8    | wallbow            |
 | 49 | --                | 2022-08-20 12:48:00 | pukekura-raceway |      6 |        2 | Don't Ask         |   0    | milkman            |
-| 50 | --                | 2022-08-20 12:40:00 | randwick         |      3 |       17 | My Truth          |   6.5  | pikey              |
+| 50 | 12.0              | 2022-08-20 12:40:00 | randwick         |      3 |       17 | My Truth          |   6.5  | pikey              |
 | 51 | :2nd_place_medal: | 2022-08-20 12:40:00 | randwick         |      3 |        1 | Bazooka           |   4.4  | jmac               |
 | 52 | :3rd_place_medal: | 2022-08-20 12:05:00 | randwick         |      2 |        2 | Strawberry Rock   |   3.1  | evenodds,jmac      |
 | 53 | :2nd_place_medal: | 2022-08-20 12:05:00 | randwick         |      2 |        6 | Monfelicity       |   3.5  | pikey              |

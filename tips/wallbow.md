@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Wallbow"   
-date: 2022-08-20 13:10:09 +1000  
+date: 2022-08-20 13:25:14 +1000  
 categories: None 
 ---   
 
@@ -17,7 +17,7 @@ categories: None
 |:------------------|:-----------|:--------------------|:-------------------|------:|---------:|
 | 15:45             | 2022-08-20 | randwick R8         | 10 Fangirl         |  7    |      -10 |
 | 14:25             | 2022-08-20 | randwick R6         | 3 Lord Ardmore     |  2.75 |      -10 |
-| 13:15             | 2022-08-20 | randwick R4         | 3 Bold Mac         |  8    |      -10 |
+| 0                 | 2022-08-20 | randwick R4         | 3 Bold Mac         |  0    |      -10 |
 | :2nd_place_medal: | 2022-08-18 | hawkesbury R7       | 4 Oscar Zulu       |  8    |      -10 |
 | 0                 | 2022-08-17 | canterbury R3       | 3 Oz Legend        |  0    |      -10 |
 | 0                 | 2022-08-17 | canterbury R1       | 6 Kapakiri         |  0    |      -10 |
