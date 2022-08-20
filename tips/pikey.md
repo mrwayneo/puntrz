@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-08-20 16:10:23 +1000  
+date: 2022-08-20 16:25:26 +1000  
 categories: None 
 ---   
 
@@ -15,7 +15,7 @@ categories: None
 
 | finish            | date       | event                 | runner                |    win |   return |
 |:------------------|:-----------|:----------------------|:----------------------|-------:|---------:|
-| 16:25             | 2022-08-20 | randwick R9           | 13 Zougotcha          |  14    |    -10   |
+| 0                 | 2022-08-20 | randwick R9           | 13 Zougotcha          |   0    |    -10   |
 | 4                 | 2022-08-20 | randwick R8           | 5 Hilal               |  19    |    -10   |
 | 5                 | 2022-08-20 | randwick R7           | 13 Smirnova           |  10    |    -10   |
 | :2nd_place_medal: | 2022-08-20 | randwick R6           | 8 Francesco Guardi    |   7.5  |    -10   |
