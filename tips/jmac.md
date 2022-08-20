@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-20 11:55:10 +1000  
+date: 2022-08-20 12:10:09 +1000  
 categories: None 
 ---   
 
@@ -21,7 +21,7 @@ categories: None
 | 13:50             | 2022-08-20 | randwick R5          | 6 Showmanship        |  2.5  |    -10   |
 | 13:15             | 2022-08-20 | randwick R4          | 5 Niffler            |  3.7  |    -10   |
 | 12:40             | 2022-08-20 | randwick R3          | 1 Bazooka            |  4.4  |    -10   |
-| 12:05             | 2022-08-20 | randwick R2          | 2 Strawberry Rock    |  3.1  |    -10   |
+| :3rd_place_medal: | 2022-08-20 | randwick R2          | 2 Strawberry Rock    |  3.1  |    -10   |
 | :boom:            | 2022-08-18 | hawkesbury R7        | 3 Skyman             |  4.5  |     35   |
 | 8                 | 2022-08-18 | hawkesbury R3        | 5 Kapakiri           |  8    |    -10   |
 | 0                 | 2022-08-17 | canterbury R6        | 2 Roots              |  0    |    -10   |

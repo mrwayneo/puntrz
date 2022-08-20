@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-20 11:55:11 +1000  
+date: 2022-08-20 12:10:10 +1000  
 ---   
 
 
@@ -77,60 +77,60 @@ date: 2022-08-20 11:55:11 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3359 |    463 |  -6323.2 | 0.14 | -0.19 |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4242 |    151 | -19407   | 0.04 | -0.46 |
 
-|    | finish   | time                | track            |   race |   number | name              |   odds | tipster            |
-|---:|:---------|:--------------------|:-----------------|-------:|---------:|:------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-08-21 02:40:00 | killarney        |      7 |        1 | Follow The Brave  |   0    | evenodds,overthrow |
-|  1 | :soon:   | 2022-08-21 02:20:00 | york             |      7 |        8 | Phantom Flight    |   3.9  | milkman            |
-|  2 | :soon:   | 2022-08-21 02:20:00 | york             |      7 |       11 | Piecederesistance |  22    | vulture            |
-|  3 | :soon:   | 2022-08-21 02:20:00 | york             |      7 |        9 | Special Envoy     |   4.8  | evenodds,overthrow |
-|  4 | :soon:   | 2022-08-21 01:55:00 | curragh          |      7 |        5 | Harley Street     |   0    | overthrow          |
-|  5 | :soon:   | 2022-08-21 00:50:00 | sandown          |      4 |        5 | Victory Chime     |   0    | pangea             |
-|  6 | :soon:   | 2022-08-21 00:50:00 | sandown          |      4 |       10 | Migdam            |   0    | milkman            |
-|  7 | :soon:   | 2022-08-21 00:45:00 | curragh          |      5 |        5 | Thornbrook        |   0    | milkman            |
-|  8 | :soon:   | 2022-08-21 00:45:00 | curragh          |      5 |        3 | Meditate          |   0    | overthrow,lago     |
-|  9 | :soon:   | 2022-08-21 00:45:00 | curragh          |      5 |        2 | Maybe Just Maybe  |   0    | vulture,bob        |
-| 10 | :soon:   | 2022-08-21 00:15:00 | sandown          |      3 |        7 | Zainalarab        |   0    | benny,pangea       |
-| 11 | :soon:   | 2022-08-21 00:10:00 | curragh          |      4 |        1 | Aesop's Fables    |   0    | evenodds,lago      |
-| 12 | :soon:   | 2022-08-20 23:40:00 | sandown          |      2 |        3 | Dornoch Castle    |   0    | milkman            |
-| 13 | :soon:   | 2022-08-20 23:00:00 | curragh          |      2 |        3 | Continuous        |   0    | overthrow          |
-| 14 | :soon:   | 2022-08-20 22:55:00 | chester          |      1 |        1 | Frankness         |   1.45 | milkman            |
-| 15 | :soon:   | 2022-08-20 22:25:00 | curragh          |      1 |        4 | Hiawatha          |   2.4  | evenodds,overthrow |
-| 16 | :soon:   | 2022-08-20 17:00:00 | randwick         |     10 |        9 | Larkspur Run      |   8    | pangea             |
-| 17 | :soon:   | 2022-08-20 17:00:00 | randwick         |     10 |        6 | Jal Lei           |   7.5  | pangea             |
-| 18 | :soon:   | 2022-08-20 17:00:00 | randwick         |     10 |       13 | Arbitration       |   6    | vulture,pangea     |
-| 19 | :soon:   | 2022-08-20 17:00:00 | randwick         |     10 |        5 | Zarastro          |   5    | jmac               |
-| 20 | :soon:   | 2022-08-20 17:00:00 | randwick         |     10 |        1 | Cisco Bay         |  19    | cosmo,bluey        |
-| 21 | :soon:   | 2022-08-20 16:25:00 | randwick         |      9 |       11 | Midnight In Tokyo |  20    | vulture,milkman    |
-| 22 | :soon:   | 2022-08-20 16:25:00 | randwick         |      9 |        7 | In Secret         |   3.3  | vulture,jmac       |
-| 23 | :soon:   | 2022-08-20 16:25:00 | randwick         |      9 |       13 | Zougotcha         |  14    | pikey              |
-| 24 | :soon:   | 2022-08-20 16:25:00 | randwick         |      9 |       12 | North Star Lass   |  34    | milkman            |
-| 25 | :soon:   | 2022-08-20 16:25:00 | randwick         |      9 |        5 | Willinga Beast    |   4.5  | milkman            |
-| 26 | :soon:   | 2022-08-20 15:45:00 | randwick         |      8 |        5 | Hilal             |  19    | pikey              |
-| 27 | :soon:   | 2022-08-20 15:45:00 | randwick         |      8 |        1 | Mo'unga           |   5    | pangea             |
-| 28 | :soon:   | 2022-08-20 15:45:00 | randwick         |      8 |        3 | Anamoe            |   2.62 | pangea,jmac        |
-| 29 | :soon:   | 2022-08-20 15:45:00 | randwick         |      8 |       10 | Fangirl           |   7    | pangea,wallbow     |
-| 30 | :soon:   | 2022-08-20 15:45:00 | randwick         |      8 |       11 | Hinged            |  13    | pangea             |
-| 31 | :soon:   | 2022-08-20 15:39:00 | alice-springs    |      2 |        7 | Mighty Murt       |   5.5  | pangea             |
-| 32 | :soon:   | 2022-08-20 15:39:00 | alice-springs    |      2 |        5 | Bar Gem           |   4    | pangea             |
-| 33 | :soon:   | 2022-08-20 15:25:00 | moonee-valley    |      5 |        2 | El Padrino        |   7.5  | overthrow          |
-| 34 | :soon:   | 2022-08-20 15:25:00 | moonee-valley    |      5 |        3 | Crosswinds        |   4.8  | milkman            |
-| 35 | :soon:   | 2022-08-20 15:07:00 | alice-springs    |      1 |        3 | Toffiato          |   9.5  | pangea,bluey       |
-| 36 | :soon:   | 2022-08-20 15:05:00 | randwick         |      7 |       13 | Smirnova          |  10    | pikey              |
-| 37 | :soon:   | 2022-08-20 14:50:00 | newcastle        |      5 |       12 | Seany's Girl      |  10    | vulture            |
-| 38 | :soon:   | 2022-08-20 14:45:00 | moonee-valley    |      4 |        1 | Herman Hesse      |   6.5  | overthrow          |
-| 39 | :soon:   | 2022-08-20 14:25:00 | randwick         |      6 |        8 | Francesco Guardi  |   7.5  | pikey              |
-| 40 | :soon:   | 2022-08-20 14:25:00 | randwick         |      6 |        1 | Le Don De Vie     |  20    | evenodds,overthrow |
-| 41 | :soon:   | 2022-08-20 14:25:00 | randwick         |      6 |        3 | Lord Ardmore      |   2.75 | vulture,wallbow    |
-| 42 | :soon:   | 2022-08-20 14:25:00 | randwick         |      6 |        9 | Grove Ferry       |   7.5  | vulture            |
-| 43 | :soon:   | 2022-08-20 13:58:00 | ruakaka          |      7 |        2 | Brando            |   2.62 | vulture            |
-| 44 | :soon:   | 2022-08-20 13:50:00 | randwick         |      5 |        6 | Showmanship       |   2.5  | jmac               |
-| 45 | :soon:   | 2022-08-20 13:50:00 | randwick         |      5 |        5 | Electric Girl     |   8.5  | pikey              |
-| 46 | :soon:   | 2022-08-20 13:30:00 | moonee-valley    |      2 |        4 | Castillian        |   3.9  | vulture            |
-| 47 | :soon:   | 2022-08-20 13:15:00 | randwick         |      4 |        5 | Niffler           |   3.7  | pangea,jmac        |
-| 48 | :soon:   | 2022-08-20 13:15:00 | randwick         |      4 |        3 | Bold Mac          |   8    | wallbow            |
-| 49 | :soon:   | 2022-08-20 12:48:00 | pukekura-raceway |      6 |        2 | Don't Ask         |   0    | milkman            |
-| 50 | :soon:   | 2022-08-20 12:40:00 | randwick         |      3 |       17 | My Truth          |   6.5  | pikey              |
-| 51 | :soon:   | 2022-08-20 12:40:00 | randwick         |      3 |        1 | Bazooka           |   4.4  | jmac               |
-| 52 | :soon:   | 2022-08-20 12:05:00 | randwick         |      2 |        2 | Strawberry Rock   |   3.1  | evenodds,jmac      |
-| 53 | :soon:   | 2022-08-20 12:05:00 | randwick         |      2 |        6 | Monfelicity       |   3.5  | pikey              |
-| 54 | --       | 2022-08-20 10:30:00 | pukekura-raceway |      2 |        1 | Establishment     |   0    | pangea             |
+|    | finish            | time                | track            |   race |   number | name              |   odds | tipster            |
+|---:|:------------------|:--------------------|:-----------------|-------:|---------:|:------------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-08-21 02:40:00 | killarney        |      7 |        1 | Follow The Brave  |   0    | evenodds,overthrow |
+|  1 | :soon:            | 2022-08-21 02:20:00 | york             |      7 |        8 | Phantom Flight    |   3.9  | milkman            |
+|  2 | :soon:            | 2022-08-21 02:20:00 | york             |      7 |       11 | Piecederesistance |  22    | vulture            |
+|  3 | :soon:            | 2022-08-21 02:20:00 | york             |      7 |        9 | Special Envoy     |   4.8  | evenodds,overthrow |
+|  4 | :soon:            | 2022-08-21 01:55:00 | curragh          |      7 |        5 | Harley Street     |   0    | overthrow          |
+|  5 | :soon:            | 2022-08-21 00:50:00 | sandown          |      4 |        5 | Victory Chime     |   0    | pangea             |
+|  6 | :soon:            | 2022-08-21 00:50:00 | sandown          |      4 |       10 | Migdam            |   0    | milkman            |
+|  7 | :soon:            | 2022-08-21 00:45:00 | curragh          |      5 |        5 | Thornbrook        |   0    | milkman            |
+|  8 | :soon:            | 2022-08-21 00:45:00 | curragh          |      5 |        3 | Meditate          |   0    | overthrow,lago     |
+|  9 | :soon:            | 2022-08-21 00:45:00 | curragh          |      5 |        2 | Maybe Just Maybe  |   0    | vulture,bob        |
+| 10 | :soon:            | 2022-08-21 00:15:00 | sandown          |      3 |        7 | Zainalarab        |   0    | benny,pangea       |
+| 11 | :soon:            | 2022-08-21 00:10:00 | curragh          |      4 |        1 | Aesop's Fables    |   0    | evenodds,lago      |
+| 12 | :soon:            | 2022-08-20 23:40:00 | sandown          |      2 |        3 | Dornoch Castle    |   0    | milkman            |
+| 13 | :soon:            | 2022-08-20 23:00:00 | curragh          |      2 |        3 | Continuous        |   0    | overthrow          |
+| 14 | :soon:            | 2022-08-20 22:55:00 | chester          |      1 |        1 | Frankness         |   1.45 | milkman            |
+| 15 | :soon:            | 2022-08-20 22:25:00 | curragh          |      1 |        4 | Hiawatha          |   2.4  | evenodds,overthrow |
+| 16 | :soon:            | 2022-08-20 17:00:00 | randwick         |     10 |        9 | Larkspur Run      |   8    | pangea             |
+| 17 | :soon:            | 2022-08-20 17:00:00 | randwick         |     10 |        6 | Jal Lei           |   7.5  | pangea             |
+| 18 | :soon:            | 2022-08-20 17:00:00 | randwick         |     10 |       13 | Arbitration       |   6    | vulture,pangea     |
+| 19 | :soon:            | 2022-08-20 17:00:00 | randwick         |     10 |        5 | Zarastro          |   5    | jmac               |
+| 20 | :soon:            | 2022-08-20 17:00:00 | randwick         |     10 |        1 | Cisco Bay         |  19    | cosmo,bluey        |
+| 21 | :soon:            | 2022-08-20 16:25:00 | randwick         |      9 |       11 | Midnight In Tokyo |  20    | vulture,milkman    |
+| 22 | :soon:            | 2022-08-20 16:25:00 | randwick         |      9 |        7 | In Secret         |   3.3  | vulture,jmac       |
+| 23 | :soon:            | 2022-08-20 16:25:00 | randwick         |      9 |       13 | Zougotcha         |  14    | pikey              |
+| 24 | :soon:            | 2022-08-20 16:25:00 | randwick         |      9 |       12 | North Star Lass   |  34    | milkman            |
+| 25 | :soon:            | 2022-08-20 16:25:00 | randwick         |      9 |        5 | Willinga Beast    |   4.5  | milkman            |
+| 26 | :soon:            | 2022-08-20 15:45:00 | randwick         |      8 |        5 | Hilal             |  19    | pikey              |
+| 27 | :soon:            | 2022-08-20 15:45:00 | randwick         |      8 |        1 | Mo'unga           |   5    | pangea             |
+| 28 | :soon:            | 2022-08-20 15:45:00 | randwick         |      8 |        3 | Anamoe            |   2.62 | pangea,jmac        |
+| 29 | :soon:            | 2022-08-20 15:45:00 | randwick         |      8 |       10 | Fangirl           |   7    | pangea,wallbow     |
+| 30 | :soon:            | 2022-08-20 15:45:00 | randwick         |      8 |       11 | Hinged            |  13    | pangea             |
+| 31 | :soon:            | 2022-08-20 15:39:00 | alice-springs    |      2 |        7 | Mighty Murt       |   5.5  | pangea             |
+| 32 | :soon:            | 2022-08-20 15:39:00 | alice-springs    |      2 |        5 | Bar Gem           |   4    | pangea             |
+| 33 | :soon:            | 2022-08-20 15:25:00 | moonee-valley    |      5 |        2 | El Padrino        |   7.5  | overthrow          |
+| 34 | :soon:            | 2022-08-20 15:25:00 | moonee-valley    |      5 |        3 | Crosswinds        |   4.8  | milkman            |
+| 35 | :soon:            | 2022-08-20 15:07:00 | alice-springs    |      1 |        3 | Toffiato          |   9.5  | pangea,bluey       |
+| 36 | :soon:            | 2022-08-20 15:05:00 | randwick         |      7 |       13 | Smirnova          |  10    | pikey              |
+| 37 | :soon:            | 2022-08-20 14:50:00 | newcastle        |      5 |       12 | Seany's Girl      |  10    | vulture            |
+| 38 | :soon:            | 2022-08-20 14:45:00 | moonee-valley    |      4 |        1 | Herman Hesse      |   6.5  | overthrow          |
+| 39 | :soon:            | 2022-08-20 14:25:00 | randwick         |      6 |        8 | Francesco Guardi  |   7.5  | pikey              |
+| 40 | :soon:            | 2022-08-20 14:25:00 | randwick         |      6 |        1 | Le Don De Vie     |  20    | evenodds,overthrow |
+| 41 | :soon:            | 2022-08-20 14:25:00 | randwick         |      6 |        3 | Lord Ardmore      |   2.75 | vulture,wallbow    |
+| 42 | :soon:            | 2022-08-20 14:25:00 | randwick         |      6 |        9 | Grove Ferry       |   7.5  | vulture            |
+| 43 | :soon:            | 2022-08-20 13:58:00 | ruakaka          |      7 |        2 | Brando            |   2.62 | vulture            |
+| 44 | :soon:            | 2022-08-20 13:50:00 | randwick         |      5 |        6 | Showmanship       |   2.5  | jmac               |
+| 45 | :soon:            | 2022-08-20 13:50:00 | randwick         |      5 |        5 | Electric Girl     |   8.5  | pikey              |
+| 46 | :soon:            | 2022-08-20 13:30:00 | moonee-valley    |      2 |        4 | Castillian        |   3.9  | vulture            |
+| 47 | :soon:            | 2022-08-20 13:15:00 | randwick         |      4 |        5 | Niffler           |   3.7  | pangea,jmac        |
+| 48 | :soon:            | 2022-08-20 13:15:00 | randwick         |      4 |        3 | Bold Mac          |   8    | wallbow            |
+| 49 | :soon:            | 2022-08-20 12:48:00 | pukekura-raceway |      6 |        2 | Don't Ask         |   0    | milkman            |
+| 50 | :soon:            | 2022-08-20 12:40:00 | randwick         |      3 |       17 | My Truth          |   6.5  | pikey              |
+| 51 | :soon:            | 2022-08-20 12:40:00 | randwick         |      3 |        1 | Bazooka           |   4.4  | jmac               |
+| 52 | :3rd_place_medal: | 2022-08-20 12:05:00 | randwick         |      2 |        2 | Strawberry Rock   |   3.1  | evenodds,jmac      |
+| 53 | :2nd_place_medal: | 2022-08-20 12:05:00 | randwick         |      2 |        6 | Monfelicity       |   3.5  | pikey              |
+| 54 | --                | 2022-08-20 10:30:00 | pukekura-raceway |      2 |        1 | Establishment     |   0    | pangea             |

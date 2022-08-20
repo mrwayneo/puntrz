@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Pikey"   
-date: 2022-08-20 11:55:10 +1000  
+date: 2022-08-20 12:10:09 +1000  
 categories: None 
 ---   
 
@@ -21,7 +21,7 @@ categories: None
 | 14:25             | 2022-08-20 | randwick R6           | 8 Francesco Guardi    |   7.5  |    -10   |
 | 13:50             | 2022-08-20 | randwick R5           | 5 Electric Girl       |   8.5  |    -10   |
 | 12:40             | 2022-08-20 | randwick R3           | 17 My Truth           |   6.5  |    -10   |
-| 12:05             | 2022-08-20 | randwick R2           | 6 Monfelicity         |   3.5  |    -10   |
+| :2nd_place_medal: | 2022-08-20 | randwick R2           | 6 Monfelicity         |   3.5  |    -10   |
 | 9                 | 2022-08-18 | hawkesbury R7         | 6 Our Intrigue        |  17    |    -10   |
 | 8                 | 2022-08-17 | canterbury R6         | 5 Petulant            |   4.33 |    -10   |
 | :boom:            | 2022-08-17 | canterbury R5         | 11 Hell I Am          |   4.3  |     33   |
