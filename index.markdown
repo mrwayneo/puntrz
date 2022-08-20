@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-20 17:25:52 +1000  
+date: 2022-08-20 17:40:30 +1000  
 ---   
 
 
@@ -31,7 +31,7 @@ date: 2022-08-20 17:25:52 +1000
 |:----------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
 | [bob](https://mrwayneo.github.io/tips/bob.html)                 |     20 |      4 |    415.5 | 0.2  |  2.08 |
 | [atlas](https://mrwayneo.github.io/tips/atlas.html)             |     20 |     20 |    333   | 1    |  1.66 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      3 |    255   | 0.15 |  1.27 |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |     20 |      2 |    180   | 0.1  |  0.9  |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)             |     20 |      1 |    121   | 0.05 |  0.6  |
 | [vulture](https://mrwayneo.github.io/tips/vulture.html)         |     20 |      7 |     51.5 | 0.35 |  0.26 |
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)     |     20 |      2 |     15   | 0.1  |  0.08 |
@@ -99,7 +99,7 @@ date: 2022-08-20 17:25:52 +1000
 | 17 | --                | 2022-08-20 17:00:00 | randwick         |     10 |        6 | Jal Lei           |   7.5  | pangea             |
 | 18 | :2nd_place_medal: | 2022-08-20 17:00:00 | randwick         |     10 |       13 | Arbitration       |   6    | vulture,pangea     |
 | 19 | 4.0               | 2022-08-20 17:00:00 | randwick         |     10 |        5 | Zarastro          |   5    | jmac               |
-| 20 | --                | 2022-08-20 17:00:00 | randwick         |     10 |        1 | Cisco Bay         |  19    | cosmo,bluey        |
+| 20 | 8.0               | 2022-08-20 17:00:00 | randwick         |     10 |        1 | Cisco Bay         |  19    | cosmo,bluey        |
 | 21 | 10.0              | 2022-08-20 16:25:00 | randwick         |      9 |       11 | Midnight In Tokyo |  20    | vulture,milkman    |
 | 22 | :2nd_place_medal: | 2022-08-20 16:25:00 | randwick         |      9 |        7 | In Secret         |   3.3  | vulture,jmac       |
 | 23 | :boom:            | 2022-08-20 16:25:00 | randwick         |      9 |       13 | Zougotcha         |  14    | pikey              |
