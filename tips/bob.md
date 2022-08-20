@@ -1,21 +1,21 @@
 ---   
 layout: post   
 title: "Bob"   
-date: 2022-08-20 19:25:46 +1000  
+date: 2022-08-21 03:11:53 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |     10 |      1 |    310   | 0.1  |  3.1  |
-| Last 6 Months  |     53 |      5 |     -8   | 0.09 | -0.02 |
-| Since Jan 2020 |    285 |     44 |   3218.5 | 0.15 |  1.13 |
+| Last 7 Days    |      3 |      0 |    -30   | 0    | -1    |
+| Last 28 Days   |     12 |      1 |    290   | 0.08 |  2.42 |
+| Last 6 Months  |     55 |      5 |    -28   | 0.09 | -0.05 |
+| Since Jan 2020 |    287 |     44 |   3198.5 | 0.15 |  1.11 |
 
 | finish            | date       | event                         | runner                |    win |   return |
 |:------------------|:-----------|:------------------------------|:----------------------|-------:|---------:|
-| 00:45             | 2022-08-21 | curragh R5                    | 2 Maybe Just Maybe    |   0    |    -10   |
+| 4                 | 2022-08-21 | curragh R5                    | 2 Maybe Just Maybe    |  15    |    -10   |
 | 0                 | 2022-08-20 | moonee-valley R5              | 6 Latvian             |   0    |    -10   |
 | :2nd_place_medal: | 2022-08-18 | hawkesbury R2                 | 7 A Guinea            |  15    |    -10   |
 | :3rd_place_medal: | 2022-08-09 | ballinrobe R3                 | 2 L'Un Deux Trois     |  13    |    -10   |

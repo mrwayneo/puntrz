@@ -1,22 +1,22 @@
 ---   
 layout: post   
 title: "Lago"   
-date: 2022-08-20 19:25:46 +1000  
+date: 2022-08-21 03:11:53 +1000  
 categories: None 
 ---   
 
 
 | timeframe      |   runs |   wins |   profit |   sr |   roi |
 |:---------------|-------:|-------:|---------:|-----:|------:|
-| Last 7 Days    |      1 |      0 |    -10   | 0    | -1    |
-| Last 28 Days   |      6 |      2 |    -28.3 | 0.33 | -0.47 |
-| Last 6 Months  |     69 |     31 |    -83.4 | 0.45 | -0.12 |
-| Since Jan 2020 |    263 |    128 |   1324   | 0.49 |  0.5  |
+| Last 7 Days    |      3 |      2 |     30.5 | 0.67 |  1.02 |
+| Last 28 Days   |      8 |      4 |     12.2 | 0.5  |  0.15 |
+| Last 6 Months  |     71 |     33 |    -42.9 | 0.46 | -0.06 |
+| Since Jan 2020 |    265 |    130 |   1364.5 | 0.49 |  0.51 |
 
 | finish            | date       | event                  | runner               |   win |   return |
 |:------------------|:-----------|:-----------------------|:---------------------|------:|---------:|
-| 00:45             | 2022-08-21 | curragh R5             | 3 Meditate           |  0    |    -10   |
-| 00:10             | 2022-08-21 | curragh R4             | 1 Aesop's Fables     |  0    |    -10   |
+| :boom:            | 2022-08-21 | curragh R5             | 3 Meditate           |  1.65 |      6.5 |
+| :boom:            | 2022-08-21 | curragh R4             | 1 Aesop's Fables     |  4.4  |     34   |
 | 5                 | 2022-08-16 | beaudesert R4          | 3 Into Champagne     |  3.75 |    -10   |
 | 0                 | 2022-08-04 | kempton R3             | 1 Moon Watch         |  0    |    -10   |
 | :2nd_place_medal: | 2022-08-01 | rockhampton R5         | 3 Kick On Command    |  2    |    -10   |
@@ -41,24 +41,24 @@ categories: None
 | :2nd_place_medal: | 2022-04-26 | nottingham R2          | 1 New Dimension      |  1.3  |    -10   |
 | 99                | 2022-04-16 | newbury R2             | 10 Shaara            |  0    |    -10   |
 | :boom:            | 2022-04-15 | ascot R2               | 10 Alsephina         |  2    |     10   |
-| :boom:            | 2022-04-14 | newmarket R6           | 2 New London         |  2.6  |     16   |
 | :2nd_place_medal: | 2022-04-14 | newmarket R6           | 1 Aldous Huxley      |  2.5  |    -10   |
+| :boom:            | 2022-04-14 | newmarket R6           | 2 New London         |  2.6  |     16   |
 | :boom:            | 2022-04-14 | newmarket R5           | 5 Native Trail       |  1.26 |      2.6 |
 | :boom:            | 2022-04-13 | hawkesbury R3          | 1 Norwegian Bliss    |  2.3  |     13   |
 | :3rd_place_medal: | 2022-04-07 | lingfield R5           | 1 Willow Cove        |  0    |    -10   |
 | :boom:            | 2022-04-05 | townsville R1          | 3 Chinny Boom        |  0    |    -10   |
 | :boom:            | 2022-04-02 | alice-springs R6       | 1 Dakota Lee         |  1.1  |      1   |
 | :boom:            | 2022-04-02 | gold-coast R4          | 2 Impel Gazelle      |  4.1  |     31   |
-| :3rd_place_medal: | 2022-03-28 | limerick R8            | 2 Mercurey           |  1.32 |    -10   |
 | :boom:            | 2022-03-28 | limerick R8            | 1 Impulsive Dancer   |  4.8  |     38   |
+| :3rd_place_medal: | 2022-03-28 | limerick R8            | 2 Mercurey           |  1.32 |    -10   |
 | 5                 | 2022-03-25 | moonee-valley R3       | 1 Bello Beau         |  3.75 |    -10   |
 | :boom:            | 2022-03-25 | moonee-valley R1       | 6 Ice Pick Nick      |  5.8  |     48   |
 | :boom:            | 2022-03-23 | exeter R6              | 2 Park Hill Dancer   |  2.1  |     11   |
 | 99                | 2022-03-22 | southwell R3           | 1 Fancy Stuff        |  0    |    -10   |
 | :boom:            | 2022-03-20 | alice-springs R2       | 1 Dakota Lee         |  1.1  |      1   |
 | 99                | 2022-03-17 | kempton R1             | 1 Deciduous          |  0    |    -10   |
-| :boom:            | 2022-03-17 | cheltenham R7          | 7 Facile Vega        |  3    |     20   |
 | 99                | 2022-03-17 | cheltenham R7          | 16 Redemption Day    |  0    |    -10   |
+| :boom:            | 2022-03-17 | cheltenham R7          | 7 Facile Vega        |  3    |     20   |
 | 99                | 2022-03-16 | cheltenham R1          | 3 Dysart Dynamo      |  0    |    -10   |
 | :2nd_place_medal: | 2022-03-16 | cheltenham R1          | 4 Jonbon             |  6.5  |    -10   |
 | :2nd_place_medal: | 2022-03-14 | bangor R3              | 2 Jungle Jack        |  2.4  |    -10   |
