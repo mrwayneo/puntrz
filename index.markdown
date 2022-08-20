@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-20 13:40:09 +1000  
+date: 2022-08-20 13:55:14 +1000  
 ---   
 
 
@@ -9,9 +9,9 @@ date: 2022-08-20 13:40:09 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
+| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      2 |       13 | 0.29 |  0.19 |
 | [benny](https://mrwayneo.github.io/tips/benny.html)           |      1 |      0 |      -10 | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |     21 |      1 |      -12 | 0.05 | -0.06 |
-| [jmac](https://mrwayneo.github.io/tips/jmac.html)             |      7 |      1 |      -18 | 0.14 | -0.26 |
 | [lago](https://mrwayneo.github.io/tips/lago.html)             |      2 |      0 |      -20 | 0    | -1    |
 | [bluey](https://mrwayneo.github.io/tips/bluey.html)           |      2 |      0 |      -20 | 0    | -1    |
 | [bob](https://mrwayneo.github.io/tips/bob.html)               |      2 |      0 |      -20 | 0    | -1    |
@@ -123,9 +123,9 @@ date: 2022-08-20 13:40:09 +1000
 | 41 | :soon:            | 2022-08-20 14:25:00 | randwick         |      6 |        3 | Lord Ardmore      |   2.75 | vulture,wallbow    |
 | 42 | :soon:            | 2022-08-20 14:25:00 | randwick         |      6 |        9 | Grove Ferry       |   7.5  | vulture            |
 | 43 | :soon:            | 2022-08-20 13:58:00 | ruakaka          |      7 |        2 | Brando            |   2.62 | vulture            |
-| 44 | :soon:            | 2022-08-20 13:50:00 | randwick         |      5 |        6 | Showmanship       |   2.5  | jmac               |
-| 45 | :soon:            | 2022-08-20 13:50:00 | randwick         |      5 |        5 | Electric Girl     |   8.5  | pikey              |
-| 46 | --                | 2022-08-20 13:30:00 | moonee-valley    |      2 |        4 | Castillian        |   3.9  | vulture            |
+| 44 | :boom:            | 2022-08-20 13:50:00 | randwick         |      5 |        6 | Showmanship       |   2.5  | jmac               |
+| 45 | --                | 2022-08-20 13:50:00 | randwick         |      5 |        5 | Electric Girl     |   8.5  | pikey              |
+| 46 | :2nd_place_medal: | 2022-08-20 13:30:00 | moonee-valley    |      2 |        4 | Castillian        |   3.9  | vulture            |
 | 47 | :boom:            | 2022-08-20 13:15:00 | randwick         |      4 |        5 | Niffler           |   3.7  | pangea,jmac        |
 | 48 | 6.0               | 2022-08-20 13:15:00 | randwick         |      4 |        3 | Bold Mac          |   8    | wallbow            |
 | 49 | --                | 2022-08-20 12:48:00 | pukekura-raceway |      6 |        2 | Don't Ask         |   0    | milkman            |
