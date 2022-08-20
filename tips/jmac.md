@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: "Jmac"   
-date: 2022-08-20 16:25:26 +1000  
+date: 2022-08-20 16:40:30 +1000  
 categories: None 
 ---   
 
@@ -16,7 +16,7 @@ categories: None
 | finish            | date       | event                | runner               |   win |   return |
 |:------------------|:-----------|:---------------------|:---------------------|------:|---------:|
 | 17:00             | 2022-08-20 | randwick R10         | 5 Zarastro           |  5    |    -10   |
-| 0                 | 2022-08-20 | randwick R9          | 7 In Secret          |  0    |    -10   |
+| :2nd_place_medal: | 2022-08-20 | randwick R9          | 7 In Secret          |  3.3  |    -10   |
 | :boom:            | 2022-08-20 | randwick R8          | 3 Anamoe             |  2.3  |     13   |
 | :boom:            | 2022-08-20 | randwick R5          | 6 Showmanship        |  3.1  |     21   |
 | :boom:            | 2022-08-20 | randwick R4          | 5 Niffler            |  5.2  |     42   |
