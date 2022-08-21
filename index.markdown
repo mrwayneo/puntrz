@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-21 15:19:11 +1000  
+date: 2022-08-21 15:34:15 +1000  
 ---   
 
 
@@ -17,7 +17,7 @@ date: 2022-08-21 15:19:11 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      2 |      0 |    -20   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |    -40   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     18 |      0 |   -180   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     67 |      2 |   -618   | 0.03 | -0.92 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     67 |      3 |   -570   | 0.04 | -0.85 |
 
 ##### Form Last 20 tips   
 
