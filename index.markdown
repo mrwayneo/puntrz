@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-21 15:04:13 +1000  
+date: 2022-08-21 15:19:11 +1000  
 ---   
 
 
@@ -17,7 +17,7 @@ date: 2022-08-21 15:04:13 +1000
 | [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      2 |      0 |    -20   | 0    | -1    |
 | [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |    -40   | 0    | -1    |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     18 |      0 |   -180   | 0    | -1    |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     67 |      1 |   -638   | 0.01 | -0.95 |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     67 |      2 |   -618   | 0.03 | -0.92 |
 
 ##### Form Last 20 tips   
 
@@ -77,7 +77,7 @@ date: 2022-08-21 15:04:13 +1000
 |  1 | :soon:            | 2022-08-22 02:00:00 | naas         |      6 |        4 | Goodie Two Shoes   |    0   | milkman            |
 |  2 | :soon:            | 2022-08-21 23:30:00 | naas         |      1 |       13 | Semantics          |    0   | looseknot          |
 |  3 | :soon:            | 2022-08-21 18:00:00 | singapore    |      9 |       10 | Super Posh         |    0   | vulture            |
-|  4 | :soon:            | 2022-08-21 15:15:00 | nowra        |      5 |        7 | Come On Harry      |    9.5 | overthrow          |
+|  4 | --                | 2022-08-21 15:15:00 | nowra        |      5 |        7 | Come On Harry      |    9.5 | overthrow          |
 |  5 | --                | 2022-08-21 14:05:00 | waverley     |      7 |        2 | No Tip             |   16   | evenodds,overthrow |
 |  6 | 7.0               | 2022-08-21 13:40:00 | muswellbrook |      3 |        6 | The Mitchell Snail |   19   | milkman            |
 |  7 | :boom:            | 2022-08-21 13:25:00 | waverley     |      6 |        1 | Don't Ask          |    2.2 | milkman            |
