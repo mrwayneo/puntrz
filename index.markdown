@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-21 12:19:00 +1000  
+date: 2022-08-21 12:34:00 +1000  
 ---   
 
 
@@ -71,16 +71,16 @@ date: 2022-08-21 12:19:00 +1000
 | [prometheus](https://mrwayneo.github.io/tips/prometheus.html)   |   3378 |    460 |  -6813.7 | 0.14 | -0.2  |
 | [roughnut](https://mrwayneo.github.io/tips/roughnut.html)       |   4231 |    150 | -19465   | 0.04 | -0.46 |
 
-|    | finish   | time                | track        |   race |   number | name               |   odds | tipster            |
-|---:|:---------|:--------------------|:-------------|-------:|---------:|:-------------------|-------:|:-------------------|
-|  0 | :soon:   | 2022-08-22 02:30:00 | naas         |      7 |        7 | Coeur d'Or         |    0   | looseknot          |
-|  1 | :soon:   | 2022-08-22 02:00:00 | naas         |      6 |        4 | Goodie Two Shoes   |    0   | milkman            |
-|  2 | :soon:   | 2022-08-21 23:30:00 | naas         |      1 |       13 | Semantics          |    0   | looseknot          |
-|  3 | :soon:   | 2022-08-21 18:00:00 | singapore    |      9 |       10 | Super Posh         |    0   | vulture            |
-|  4 | :soon:   | 2022-08-21 15:15:00 | nowra        |      5 |        7 | Come On Harry      |    9.5 | overthrow          |
-|  5 | :soon:   | 2022-08-21 14:05:00 | waverley     |      7 |        2 | No Tip             |   16   | evenodds,overthrow |
-|  6 | :soon:   | 2022-08-21 13:40:00 | muswellbrook |      3 |        6 | The Mitchell Snail |   19   | milkman            |
-|  7 | :soon:   | 2022-08-21 13:25:00 | waverley     |      6 |        1 | Don't Ask          |    2.2 | milkman            |
-|  8 | --       | 2022-08-21 12:15:00 | waverley     |      4 |        1 | Raucous            |    3.6 | overthrow          |
-|  9 | :boom:   | 2022-08-21 11:05:00 | waverley     |      2 |        4 | Rocking Good Time  |    4   | overthrow          |
-| 10 | --       | 2022-08-21 10:30:00 | waverley     |      1 |        4 | Argyll             |    4   | overthrow          |
+|    | finish            | time                | track        |   race |   number | name               |   odds | tipster            |
+|---:|:------------------|:--------------------|:-------------|-------:|---------:|:-------------------|-------:|:-------------------|
+|  0 | :soon:            | 2022-08-22 02:30:00 | naas         |      7 |        7 | Coeur d'Or         |    0   | looseknot          |
+|  1 | :soon:            | 2022-08-22 02:00:00 | naas         |      6 |        4 | Goodie Two Shoes   |    0   | milkman            |
+|  2 | :soon:            | 2022-08-21 23:30:00 | naas         |      1 |       13 | Semantics          |    0   | looseknot          |
+|  3 | :soon:            | 2022-08-21 18:00:00 | singapore    |      9 |       10 | Super Posh         |    0   | vulture            |
+|  4 | :soon:            | 2022-08-21 15:15:00 | nowra        |      5 |        7 | Come On Harry      |    9.5 | overthrow          |
+|  5 | :soon:            | 2022-08-21 14:05:00 | waverley     |      7 |        2 | No Tip             |   16   | evenodds,overthrow |
+|  6 | :soon:            | 2022-08-21 13:40:00 | muswellbrook |      3 |        6 | The Mitchell Snail |   19   | milkman            |
+|  7 | :soon:            | 2022-08-21 13:25:00 | waverley     |      6 |        1 | Don't Ask          |    2.2 | milkman            |
+|  8 | :3rd_place_medal: | 2022-08-21 12:15:00 | waverley     |      4 |        1 | Raucous            |    3.6 | overthrow          |
+|  9 | :boom:            | 2022-08-21 11:05:00 | waverley     |      2 |        4 | Rocking Good Time  |    4   | overthrow          |
+| 10 | --                | 2022-08-21 10:30:00 | waverley     |      1 |        4 | Argyll             |    4   | overthrow          |
