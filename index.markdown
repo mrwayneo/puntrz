@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-21 11:04:09 +1000  
+date: 2022-08-21 11:18:56 +1000  
 ---   
 
 
@@ -9,15 +9,15 @@ date: 2022-08-21 11:04:09 +1000
 
 | tipster                                                       |   runs |   wins |   profit |   sr |   roi |
 |:--------------------------------------------------------------|-------:|-------:|---------:|-----:|------:|
-| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 |    0 |    -1 |
-| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      1 |      0 |      -10 |    0 |    -1 |
-| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      2 |      0 |      -20 |    0 |    -1 |
-| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      2 |      0 |      -20 |    0 |    -1 |
-| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 |    0 |    -1 |
-| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 |    0 |    -1 |
-| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      0 |      -50 |    0 |    -1 |
-| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     18 |      0 |     -180 |    0 |    -1 |
-| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     67 |      0 |     -670 |    0 |    -1 |
+| [overthrow](https://mrwayneo.github.io/tips/overthrow.html)   |      5 |      1 |       -3 |  0.2 | -0.06 |
+| [evenodds](https://mrwayneo.github.io/tips/evenodds.html)     |      1 |      0 |      -10 |  0   | -1    |
+| [pangea](https://mrwayneo.github.io/tips/pangea.html)         |      1 |      0 |      -10 |  0   | -1    |
+| [vulture](https://mrwayneo.github.io/tips/vulture.html)       |      2 |      0 |      -20 |  0   | -1    |
+| [looseknot](https://mrwayneo.github.io/tips/looseknot.html)   |      2 |      0 |      -20 |  0   | -1    |
+| [milkman](https://mrwayneo.github.io/tips/milkman.html)       |      3 |      0 |      -30 |  0   | -1    |
+| [cosmo](https://mrwayneo.github.io/tips/cosmo.html)           |      4 |      0 |      -40 |  0   | -1    |
+| [roughnut](https://mrwayneo.github.io/tips/roughnut.html)     |     18 |      0 |     -180 |  0   | -1    |
+| [prometheus](https://mrwayneo.github.io/tips/prometheus.html) |     67 |      0 |     -670 |  0   | -1    |
 
 ##### Form Last 20 tips   
 
@@ -82,5 +82,5 @@ date: 2022-08-21 11:04:09 +1000
 |  6 | :soon:   | 2022-08-21 13:40:00 | muswellbrook |      3 |        6 | The Mitchell Snail |   19   | milkman            |
 |  7 | :soon:   | 2022-08-21 13:25:00 | waverley     |      6 |        1 | Don't Ask          |    2.2 | milkman            |
 |  8 | :soon:   | 2022-08-21 12:15:00 | waverley     |      4 |        1 | Raucous            |    3.6 | overthrow          |
-|  9 | :soon:   | 2022-08-21 11:05:00 | waverley     |      2 |        4 | Rocking Good Time  |    4   | overthrow          |
+|  9 | :boom:   | 2022-08-21 11:05:00 | waverley     |      2 |        4 | Rocking Good Time  |    4   | overthrow          |
 | 10 | --       | 2022-08-21 10:30:00 | waverley     |      1 |        4 | Argyll             |    4   | overthrow          |
