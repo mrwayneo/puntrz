@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-21 17:49:25 +1000  
+date: 2022-08-21 18:04:17 +1000  
 ---   
 
 
@@ -76,7 +76,7 @@ date: 2022-08-21 17:49:25 +1000
 |  0 | :soon:            | 2022-08-22 02:30:00 | naas         |      7 |        7 | Coeur d'Or         |    0   | looseknot          |
 |  1 | :soon:            | 2022-08-22 02:00:00 | naas         |      6 |        4 | Goodie Two Shoes   |    0   | milkman            |
 |  2 | :soon:            | 2022-08-21 23:30:00 | naas         |      1 |       13 | Semantics          |    0   | looseknot          |
-|  3 | :soon:            | 2022-08-21 18:00:00 | singapore    |      9 |       10 | Super Posh         |    0   | vulture            |
+|  3 | --                | 2022-08-21 18:00:00 | singapore    |      9 |       10 | Super Posh         |    0   | vulture            |
 |  4 | 5.0               | 2022-08-21 15:15:00 | nowra        |      5 |        7 | Come On Harry      |    9.5 | overthrow          |
 |  5 | --                | 2022-08-21 14:05:00 | waverley     |      7 |        2 | No Tip             |   16   | evenodds,overthrow |
 |  6 | 7.0               | 2022-08-21 13:40:00 | muswellbrook |      3 |        6 | The Mitchell Snail |   19   | milkman            |
