@@ -1,7 +1,7 @@
 ---   
 layout: home  
 title: "Home"   
-date: 2022-08-21 14:34:10 +1000  
+date: 2022-08-21 14:49:07 +1000  
 ---   
 
 
@@ -79,7 +79,7 @@ date: 2022-08-21 14:34:10 +1000
 |  3 | :soon:            | 2022-08-21 18:00:00 | singapore    |      9 |       10 | Super Posh         |    0   | vulture            |
 |  4 | :soon:            | 2022-08-21 15:15:00 | nowra        |      5 |        7 | Come On Harry      |    9.5 | overthrow          |
 |  5 | --                | 2022-08-21 14:05:00 | waverley     |      7 |        2 | No Tip             |   16   | evenodds,overthrow |
-|  6 | --                | 2022-08-21 13:40:00 | muswellbrook |      3 |        6 | The Mitchell Snail |   19   | milkman            |
+|  6 | 7.0               | 2022-08-21 13:40:00 | muswellbrook |      3 |        6 | The Mitchell Snail |   19   | milkman            |
 |  7 | :boom:            | 2022-08-21 13:25:00 | waverley     |      6 |        1 | Don't Ask          |    2.2 | milkman            |
 |  8 | :3rd_place_medal: | 2022-08-21 12:15:00 | waverley     |      4 |        1 | Raucous            |    3.6 | overthrow          |
 |  9 | :boom:            | 2022-08-21 11:05:00 | waverley     |      2 |        4 | Rocking Good Time  |    4   | overthrow          |
